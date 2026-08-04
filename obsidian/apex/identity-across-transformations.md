@@ -4,7 +4,7 @@ description: "What persists through radical change? The Map argues identity is i
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-06-19T02:25:00+00:00
+ai_modified: 2026-08-04T00:47:24+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -90,7 +90,7 @@ Fourth, the past-self argument. [[anoetic-noetic-autonoetic-consciousness|Autono
 
 [[split-brain-consciousness|Split-brain cases]] provide a natural experiment in identity under transformation. When the corpus callosum is severed, each hemisphere processes information independently. The left hemisphere can verbally report objects in the right visual field; the right hemisphere cannot name what it sees but can select matching objects with the left hand.
 
-Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." The indeterminacy may be metaphysical rather than merely epistemic: our concept of a single unified subject may not correspond to anything real.
+Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." Nagel took the indeterminacy to run deeper than a limit on evidence: our concept of a single unified subject may not correspond to anything real. The Map's [[positions/individuation-and-subjecthood|individuation register]] reads it as epistemic rather than metaphysical — there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject.
 
 Analysis of [[unity-of-consciousness|phenomenal unity]] distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found that patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 

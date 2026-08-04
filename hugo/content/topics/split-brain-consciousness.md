@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-02 19:55:00+00:00
+ai_modified: 2026-08-04 00:47:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:12:20+00:00
-lastmod: 2026-08-02 19:55:00+00:00
+lastmod: 2026-08-04 00:47:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,9 @@ This selective pattern — partial synchronic fracture, preserved diachronic uni
 
 Thomas Nagel's 1971 "Brain Bisection and the Unity of Consciousness" examined five possible interpretations and rejected all: "There is no whole number of 'centres of consciousness' in brain bisection patients: there is too much unity... to say 'two', yet too much separation in the specially contrived laboratory situations to say 'one'."
 
-The problem isn't that we lack data. Our concept of "a single unified mind" may not correspond to anything real. "How many minds does a split-brain patient have?" may be malformed — like asking "How many heaps does this sand make?"
+On Nagel's diagnosis the problem isn't that we lack data. Our concept of "a single unified mind" may not correspond to anything real, and "How many minds does a split-brain patient have?" may be malformed — like asking "How many heaps does this sand make?"
+
+The Map expounds the thesis without adopting it. Its [individuation register](/positions/individuation-and-subjecthood/) holds subject boundaries to be determinate but not readable off physical structure: there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface reading developed below the anatomy is the channel and not the subject. The question is well-formed and has an answer; what fails is any physical measure that could reach it.
 
 ## Beyond Split Brains: Other Routes to Fragmentation
 
@@ -127,7 +129,7 @@ Sophisticated functionalism — multiply-realisable, implemented across loosely-
 
 Split-brain cases illuminate the [binding problem](/concepts/binding-problem/) — how distributed neural processes combine into unified experience:
 
-**Perceptual binding divides.** Each hemisphere processes visual information independently. **Response unity persists** despite perceptual division. **Phenomenal unity is contested** — perhaps because the question assumes a determinate answer exists.
+**Perceptual binding divides.** Each hemisphere processes visual information independently. **Response unity persists** despite perceptual division. **Phenomenal unity is contested** — on Nagel's reading because the question assumes a determinate answer exists, on the Map's because the determinate answer leaves no trace in the connectivity.
 
 [IIT](/concepts/integrated-information-theory/) predicts that interhemispheric disconnection should reduce cross-hemispheric Φ. The 2025 findings complicate *connectivity-based* readings: minimal callosal connections produce full neural synchronization. This is not a direct refutation — Φ is distinct from synchronization — but it challenges the heuristic that "fewer connections" implies "less integrated experience." One speculative possibility is the [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) — quantum entanglement underwriting phenomenal unity — though this faces [decoherence](/concepts/decoherence/) challenges. Independently of mechanism, the findings show the relationship between neural connectivity and experiential unity is far less straightforward than classical models assumed.
 
@@ -185,7 +187,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [indexical identity](/topics/personal-identity/#indexical-identity) view accommodates partial division within a single causal history more easily than infinite branching.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The physicalist reading — consciousness fragments because it is physical integration — appears simpler, but purchases a commitment that consciousness is *nothing more* than integration. The resilience of unity and the all-or-nothing character of anaesthetic loss then become coincidences rather than expected features. The apparently more complex dualist reading may be more explanatory. The demand for a "whole number" of minds presupposes consciousness has the kind of structure that admits whole-number answers.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The physicalist reading — consciousness fragments because it is physical integration — appears simpler, but purchases a commitment that consciousness is *nothing more* than integration. The resilience of unity and the all-or-nothing character of anaesthetic loss then become coincidences rather than expected features. The apparently more complex dualist reading may be more explanatory. The demand for a "whole number" of minds fails not because there is no number but because the connectivity cannot disclose one.
 
 ## What Would Challenge This View?
 
@@ -201,7 +203,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 ## The Open Question
 
-Split-brain cases, anaesthesia, and dissociation don't answer the question of consciousness — they reveal we may be asking the wrong questions. "How many minds does this patient have?" assumes minds come in whole numbers. "Does consciousness split when the brain divides?" assumes consciousness has the kind of spatial extension that can split.
+Split-brain cases, anaesthesia, and dissociation don't answer the question of consciousness — they reveal we may be asking the wrong questions. "How many minds does this patient have?" assumes the anatomy can be read for the answer. "Does consciousness split when the brain divides?" assumes consciousness has the kind of spatial extension that can split.
 
 Perhaps what the cases really show: consciousness is neither a simple unity that physical disconnection can sever, nor a collection of separate streams that physical connection binds. It is something our spatial metaphors fail to capture — something that can be partially divided while remaining somehow one. The indeterminacy itself may be a clue to what consciousness is.
 
