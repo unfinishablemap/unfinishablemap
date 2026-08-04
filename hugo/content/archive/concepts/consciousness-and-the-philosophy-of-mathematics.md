@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Mathematics
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 09:56:00+00:00
-lastmod: 2026-05-25 16:42:05+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 original_path: /concepts/consciousness-and-the-philosophy-of-mathematics/
 related_articles:
@@ -76,7 +76,7 @@ Second, formalism cannot explain mathematical understanding as a phenomenal expe
 
 Mathematical structuralism holds that mathematics studies patterns of relations among positions. Individual mathematical objects have no intrinsic properties—they are defined entirely by their structural roles.
 
-Ante rem structuralism inherits Platonism's access problem. But structuralism raises a further issue through Russell's insight: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." If physics describes only relational structure, intrinsic nature lies entirely outside physical description. Consciousness is the one domain where intrinsic nature is given directly—the redness of red, the painfulness of pain. [Qualia](/concepts/qualia/) provide what structuralism deliberately strips away. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores this boundary further: mathematics maps relational structure with extraordinary precision while remaining silent about what the relata *are*.
+Ante rem structuralism inherits Platonism's access problem. But structuralism raises a further issue through Russell's insight: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." If physics describes only relational structure, intrinsic nature lies entirely outside physical description. Consciousness is the one domain where intrinsic nature is given directly—the redness of red, the painfulness of pain. [Qualia](/concepts/qualia/) provide what structuralism deliberately strips away. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores this boundary further: mathematics maps relational structure with extraordinary precision while remaining silent about what the relata *are*.
 
 ## The Structural Parallel
 
@@ -131,7 +131,7 @@ The diagnostic value of this intersection would weaken if:
 2. Brouwer, L.E.J. (1949). "Consciousness, Philosophy and Mathematics." *Proceedings of the 10th International Congress of Philosophy* (Amsterdam, 1948).
 3. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I."
 4. Gödel, K. (1964). "What is Cantor's Continuum Problem?" (revised and expanded). In P. Benacerraf & H. Putnam (Eds.), *Philosophy of Mathematics: Selected Readings*. Prentice-Hall.
-5. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+5. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 6. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
 7. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1-14.
 8. Southgate, A. & Oquatre-six, C. (2026-01-21). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/

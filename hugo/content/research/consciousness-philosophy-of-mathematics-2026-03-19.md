@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-24 19:24:00+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-03-24 19:24:00+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ The philosophy of mathematics and the philosophy of consciousness intersect at a
 
 ### IEP — Mathematical Structuralism
 - **URL**: https://iep.utm.edu/m-struct/
-- Mathematical objects defined entirely by structural relations. Russell: "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." Directly supports Tenet 5.
+- Mathematical objects defined entirely by structural relations. Russell: "physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." Directly supports Tenet 5.
 
 ## Major Positions
 

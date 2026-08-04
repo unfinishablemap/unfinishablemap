@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-25 02:59:00+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Mathematics
 archived: true
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 02:59:00+00:00
-lastmod: 2026-03-25 02:59:00+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 original_path: /topics/mathematical-truth-and-conscious-access/
 related_articles:
@@ -92,7 +92,7 @@ Second, formalism cannot explain mathematical understanding as a phenomenal expe
 
 Mathematical structuralism holds that mathematics studies structures—patterns of relations among positions. Individual mathematical objects have no intrinsic properties; they are defined entirely by their structural roles.
 
-Ante rem structuralism faces the same access problem as Platonism. But structuralism raises a further issue through Russell's insight: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." Physics captures relational structure without revealing the intrinsic nature of what bears those relations.
+Ante rem structuralism faces the same access problem as Platonism. But structuralism raises a further issue through Russell's insight: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." Physics captures relational structure without revealing the intrinsic nature of what bears those relations.
 
 This opens a distinctive philosophical space. If physics describes only structure, and mathematics is the study of structure, then the success of mathematical physics is explained: physics *is* applied mathematics because both deal exclusively in relations. But intrinsic nature—what things are *in themselves*—remains entirely outside the scope of physical description.
 
@@ -226,7 +226,7 @@ The claim that mathematical knowledge requires irreducible consciousness would f
 13. Lakoff, G. & Núñez, R. (2000). *Where Mathematics Comes From*. Basic Books.
 14. Maddy, P. (1990). *Realism in Mathematics*. Oxford University Press.
 15. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
-16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+16. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 17. Shapiro, S. (1997). *Philosophy of Mathematics: Structure and Ontology*. Oxford University Press.
 18. Strawson, G. (2010). *Mental Reality*. MIT Press.
 19. Tegmark, M. (2007). "The Mathematical Universe." *Foundations of Physics*.

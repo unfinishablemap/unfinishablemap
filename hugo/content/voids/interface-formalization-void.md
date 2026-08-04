@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-08-03 01:40:33+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:22:00+00:00
-lastmod: 2026-08-03 01:40:33+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,7 +48,7 @@ This void is distinct from the [causal interface void](/voids/causal-interface/)
 
 ## Why Mathematics Cannot Reach the Interface
 
-Mathematics describes what Russell called the "abstract structure" of reality—relations between entities, not the intrinsic nature of the entities themselves. Physics inherits this limitation: its equations describe how things behave, not what things are. As Russell observed, "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover."
+Mathematics describes what Russell called the "abstract structure" of reality—relations between entities, not the intrinsic nature of the entities themselves. Physics inherits this limitation: its equations describe how things behave, not what things are. As Russell observed, "physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover."
 
 If consciousness is genuinely non-physical—not a pattern of information, not a functional organisation, not an emergent property of complexity—then it has an actuality that structural description cannot capture. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores this gap for matter itself: physics tells us what matter does, not what it is. The interface formalization void extends this insight to the boundary between domains. The interface is where the structural (physical) domain meets the actualising (conscious) domain. Formalising that meeting point requires capturing *both* domains and their connection in a single mathematical framework. But if one domain is intrinsically non-structural, no structural framework can contain it.
 
@@ -142,12 +142,12 @@ The interface formalization void is generated directly by the Map's tenets, spec
 
 ## References
 
-1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+1. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 2. Masanes, L., Galley, T., & Müller, M. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
 3. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
 4. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." *PhilArchive*. https://philarchive.org/rec/TONWPA
 5. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
-6. Chalmers, D.J. & McQueen, K.J. (2021). "Consciousness and the Collapse of the Wave Function." https://consc.net/papers/collapse.pdf
+6. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, 11–63. https://consc.net/papers/collapse.pdf
 7. Northoff, G., Tsuchiya, N., & Saigo, H. (2019). "Mathematics and the Brain: A Category Theoretical Approach to Go Beyond the Neural Correlates of Consciousness." *Entropy*, 21(12), 1234.
 8. Kleiner, J. & Ludwig, T. (2024). "What is a mathematical structure of conscious experience?" *Synthese*, 203(3), 89. https://doi.org/10.1007/s11229-024-04503-4
 9. Southgate, A. & Oquatre-six, C. (2026-02-06). The Nomic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/nomic-void/

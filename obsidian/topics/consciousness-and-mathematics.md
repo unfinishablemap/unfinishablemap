@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-07-15T00:08:09+00:00
+ai_modified: 2026-08-04T00:28:49+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -99,7 +99,7 @@ First, treating mathematics as instrumental leaves unexplained why some formal g
 
 Mathematical structuralism holds that mathematics studies patterns of relations among positions—objects defined entirely by structural roles, with no intrinsic properties.
 
-Russell's insight applies: "Physics is mathematical not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." But intrinsic nature—what things are *in themselves*—remains outside structural description. Consciousness is the one domain where intrinsic nature is given directly: [[qualia]] have the character that structuralism deliberately strips from mathematical objects. The [[intrinsic-nature-void]] develops this gap at length.
+Russell's insight applies: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." But intrinsic nature—what things are *in themselves*—remains outside structural description. Consciousness is the one domain where intrinsic nature is given directly: [[qualia]] have the character that structuralism deliberately strips from mathematical objects. The [[intrinsic-nature-void]] develops this gap at length.
 
 ## The Epistemological Challenge
 
@@ -232,7 +232,7 @@ The view would be supported by continued failure of AI to achieve transformation
 6. Husserl, E. (1900/1901). *Logische Untersuchungen* [Logical Investigations].
 7. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 8. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
-9. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+9. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 10. Tegmark, M. (2008). "The Mathematical Universe." *Foundations of Physics*, 38(2), 101-150.
 11. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
 12. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications on Pure and Applied Mathematics*, 13(1), 1-14.

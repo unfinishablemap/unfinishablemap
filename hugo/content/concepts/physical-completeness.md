@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-27 23:20:49+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 11:30:00+00:00
-lastmod: 2026-05-27 23:20:49+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,7 +38,7 @@ Physics is structurally complete. It captures every regularity, every symmetry, 
 
 ## What Physics Describes
 
-Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in 1927: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover."
+Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in 1927: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover."
 
 ### What "Structural" Means Here
 
@@ -131,7 +131,7 @@ The structural-ontological gap is a foundational concept for the Map's framework
 
 ## References
 
-1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul, Trench, Trubner & Co.
+1. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 2. Ladyman, J. (1998). What is Structural Realism? *Studies in History and Philosophy of Science*, 29(3), 409–424.
 3. Worrall, J. (1989). Structural Realism: The Best of Both Worlds? *Dialectica*, 43(1–2), 99–124.
 4. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.

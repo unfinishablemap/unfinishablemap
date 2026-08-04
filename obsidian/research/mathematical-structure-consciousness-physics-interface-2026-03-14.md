@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-08-04T00:28:49+00:00
 human_modified:
 modified: 2026-03-14
 description: "Research on mathematical formalisms for the consciousness-physics interface: operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints."
@@ -173,7 +173,7 @@ The mathematical structure of the consciousness-physics interface is explored th
 ### 7. Russellian Monism / Panprotopsychism
 - **Proponents**: Bertrand Russell, David Chalmers, Galen Strawson
 - **Core claim**: Physics describes only structural/relational properties; the intrinsic nature of matter (quiddities) may be protophenomenal. Consciousness arises when protophenomenal properties are arranged in the right structure
-- **Key mathematical structure**: Russell's insight that "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." The mathematical structure of physics is an incomplete description—structure without intrinsic nature
+- **Key mathematical structure**: Russell's insight that "physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." The mathematical structure of physics is an incomplete description—structure without intrinsic nature
 - **Relation to site tenets**: Partially aligned. The insight that physics captures only mathematical structure (leaving room for something more) supports Tenet 5 (Occam's Razor Has Limits). But Russellian monism is technically monist, and the combination problem (how do quiddities combine into unified consciousness?) remains unsolved
 
 ## Key Debates
@@ -255,7 +255,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Atmanspacher, H. (2002). "Non-Commutative Operations in Consciousness Studies." *PhilPapers*.
 - Atmanspacher, H. "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qt-consciousness/
-- Chalmers, D.J. & McQueen, K.J. (2021). "Consciousness and the Collapse of the Wave Function." https://consc.net/papers/collapse.pdf
+- Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, 11–63. https://consc.net/papers/collapse.pdf
 - Chiribella, G., D'Ariano, G.M., & Perinotti, P. (2010). "Informational derivation of quantum theory."
 - Hardy, L. (2001). "Quantum Theory From Five Reasonable Axioms." arXiv:quant-ph/0101012.
 - Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7517149/

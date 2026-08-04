@@ -4,7 +4,7 @@ description: "Every major position on what mathematical objects are—Platonism,
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T12:40:00+00:00
+ai_modified: 2026-08-04T00:28:49+00:00
 draft: false
 archived: true
 archived_date: 2026-03-24T19:09:00+00:00
@@ -83,7 +83,7 @@ Mathematical structuralism holds that mathematics studies structures—patterns 
 
 Ante rem structuralism—the view that structures exist independently of their instances—faces the same access problem as Platonism. If structures are abstract, minds must have some non-physical capacity to apprehend them.
 
-But structuralism raises a further issue through Russell's insight: "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." Physics captures relational structure—equations, symmetries, conservation laws—without revealing the intrinsic nature of what bears those relations.
+But structuralism raises a further issue through Russell's insight: "physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." Physics captures relational structure—equations, symmetries, conservation laws—without revealing the intrinsic nature of what bears those relations.
 
 This opens a distinctive philosophical space. If physics describes only structure, and mathematics is the study of structure, then the success of mathematical physics is explained: physics *is* applied mathematics because both deal exclusively in relations. But this leaves intrinsic nature—what things are *in themselves*, apart from their relational roles—entirely outside the scope of physical description.
 

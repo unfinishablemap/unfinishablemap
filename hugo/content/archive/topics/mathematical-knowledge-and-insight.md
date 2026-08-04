@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-23 02:21:00+00:00
+ai_modified: 2026-08-04 00:28:49+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Mathematical Truth and Conscious Access
 archived: true
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-19 14:50:00+00:00
-lastmod: 2026-03-23 02:21:00+00:00
+lastmod: 2026-08-04 00:28:49+00:00
 modified: *id001
 original_path: /topics/mathematical-knowledge-and-insight/
 related_articles:
@@ -125,7 +125,7 @@ Eugene Wigner's "unreasonable effectiveness of mathematics in the natural scienc
 
 The standard physicalist explanations—selection effects, structural necessity—account for some overlap but not its depth. Selection explains why we formalise patterns we encounter; it does not explain why pure mathematics developed without any physical motivation repeatedly turns out to describe fundamental physics.
 
-If both mathematical and physical reality are aspects of a deeper order that consciousness can access, the "unreasonable" effectiveness becomes less puzzling. Russell's observation is relevant: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." Mathematical knowledge and physical knowledge may converge because both access the same structural layer—but from different directions. The dualist framework—where consciousness provides genuine epistemic access to abstract structure—makes this convergence expected rather than miraculous.
+If both mathematical and physical reality are aspects of a deeper order that consciousness can access, the "unreasonable" effectiveness becomes less puzzling. Russell's observation is relevant: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." Mathematical knowledge and physical knowledge may converge because both access the same structural layer—but from different directions. The dualist framework—where consciousness provides genuine epistemic access to abstract structure—makes this convergence expected rather than miraculous.
 
 ## When Understanding Fails
 
@@ -176,6 +176,6 @@ These limits are themselves informative. They suggest consciousness accesses mat
 1. Lakoff, G. & Núñez, R. (2000). *Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being*. Basic Books.
 1. Maddy, P. (1990). *Realism in Mathematics*. Oxford University Press.
 1. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
-1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+1. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 1. Strawson, G. (2010). *Mental Reality*. MIT Press.
 1. Wigner, E. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences. *Communications in Pure and Applied Mathematics*, 13(1), 1–14.

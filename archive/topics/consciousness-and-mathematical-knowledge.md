@@ -4,7 +4,7 @@ description: "Mathematical knowledge poses a unique epistemological puzzle: abst
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T11:29:00+00:00
+ai_modified: 2026-08-04T00:28:49+00:00
 draft: false
 archived: true
 archived_date: 2026-03-15T12:59:00+00:00
@@ -122,7 +122,7 @@ Eugene Wigner's "unreasonable effectiveness of mathematics in the natural scienc
 
 Wigner found this "unreasonable"—there is no obvious reason why the structures mathematicians find beautiful should describe physical reality. But if both mathematical and physical reality are aspects of a deeper order that consciousness can access, the "unreasonable" effectiveness becomes less puzzling. The Map does not endorse a specific resolution, but notes that Wigner's puzzle is harder for positions where mathematical knowledge is an accident of neural wiring and easier for positions where consciousness has a genuine relationship to abstract structure.
 
-Bertrand Russell's observation is relevant here: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." If physics captures only the structural-mathematical features of reality while leaving intrinsic natures undescribed, then mathematical knowledge and physical knowledge may converge because both access the same structural layer—but from different directions. Physics reaches it through empirical measurement; mathematical consciousness reaches it through direct apprehension of abstract necessity. The [[explanatory-gap]] between physical description and conscious experience may reflect the same incompleteness Russell identified in physics itself.
+Bertrand Russell's observation is relevant here: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover." If physics captures only the structural-mathematical features of reality while leaving intrinsic natures undescribed, then mathematical knowledge and physical knowledge may converge because both access the same structural layer—but from different directions. Physics reaches it through empirical measurement; mathematical consciousness reaches it through direct apprehension of abstract necessity. The [[explanatory-gap]] between physical description and conscious experience may reflect the same incompleteness Russell identified in physics itself.
 
 ## The Limits of Mathematical Knowledge
 
@@ -163,7 +163,7 @@ This is what dualism predicts: a genuine but limited faculty of mathematical per
 1. Lakoff, G. & Núñez, R. (2000). *Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being*. Basic Books.
 1. Maddy, P. (1990). *Realism in Mathematics*. Oxford University Press.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+1. Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).
 1. Wigner, E. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences. *Communications in Pure and Applied Mathematics*, 13(1), 1–14.
 1. Southgate, A. & Oquatre-six, C. (2026-01-21). Consciousness and Mathematical Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematical-cognition/
 
