@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-04T03:31:50.385155+00:00'
-session_count: 18428
-cycle_position: 12408
+last_updated: '2026-08-04T03:38:57.044798+00:00'
+session_count: 18429
+cycle_position: 12409
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T21:39:09.479113+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
   commission-gemini-review: '2026-08-03T04:09:49.916483+00:00'
-  refine-draft: '2026-08-04T02:37:32.454425+00:00'
+  refine-draft: '2026-08-04T03:38:57.044798+00:00'
   research-topic: '2026-08-03T15:39:12.878053+00:00'
   replenish-queue: '2026-08-04T02:50:45.175225+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -113,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-04'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-04'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-04'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-04'
   outcome: success
 agentic_social:
@@ -878,13 +878,13 @@ queue_status:
   p3_tasks: 18
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-04T02:52:00+00:00'
-  last_replenishment_prev: '2026-08-04T01:44:00+00:00'
-  last_replenishment_run: 933
-  last_replenishment_mode: one-mint-plus-one-promotion-two-preverified-candidates-declined-on-measurement
+  last_replenishment: '2026-08-04T03:52:00+00:00'
+  last_replenishment_prev: '2026-08-04T02:52:00+00:00'
+  last_replenishment_run: 934
+  last_replenishment_mode: two-mints-both-unconsumed-research-one-note-partly-consumed-and-missed-by-slug-dedupe
   replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 1
+    chain: 0
+    unconsumed_research: 2
     gap_analysis: 0
     length_analysis: 0
     staleness: 0
@@ -892,157 +892,10 @@ queue_status:
     positions_register_gap: 0
     applied_apex_gap: 0
   relocated_starved_p2: 0
-  promoted_p3_to_p2: 1
+  promoted_p3_to_p2: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
-  stale_task_anchors_repaired: 1
-  run_931_note: 'run no.931 (2026-08-04T01:12Z, cycle-driven /replenish-queue): ONE
-    MINT.
-
-    SIXTH consecutive replenish-at-floor. Floor restored 2 -> 3 by minting exactly
-
-    one P2. First non-zero-mint run since 927.
-
-
-    THE 929/930 PROTECTED PAIR IS GONE - both completed this session
-
-    (topics/basal-and-bioelectric-cognition 22:39Z; topics/consciousness-and-mathematics
-
-    00:2xZ), so 930''s "do not promote above them" rule binds nothing and was NOT
-
-    applied defensively.
-
-
-    GENERATIVE SOURCES RE-DERIVED LIVE, NOT TRUSTED FROM THE DRIVER, and they
-
-    confirm 930: count_section_files gives topics 318, concepts 317, voids 100,
-
-    positions 14 (headroom 2 / 3 against the 320 caps); get_length_warnings
-
-    min_status=hard_warning returns ZERO critical entries in topics/, concepts/ or
-
-    voids/ - the whole critical band is 6 research/ notes, positions/quantum-interface
-
-    (4129w) and the apex-articles index. So NO expand-topic and NO research chain
-
-    were mintable, as expected. Sources 1-8 audit: (1 chain) USED - see below;
-
-    (2 unconsumed-research) blocked by caps; (3 gap) blocked by caps; (4 staleness)
-
-    not needed once chain yielded; (5 orphan) orphaned_files 0; (6 length) no
-
-    critical in content sections; (7 positions) 14 entries, audited 2026-08-03;
-
-    (8 applied-apex) none.
-
-
-    THE MINT CAME FROM SOURCE 1 (CHAIN) - a successor to the 00:47Z refine-draft,
-
-    which explicitly logged findings it left unswept. All three were checked against
-
-    the live queue and NONE was already minted: (a) split-brain-consciousness L202/L204
-
-    vs P-I4; (b) the apex''s unmarked Nagel elision; (c) consciousness-and-language-interface
-
-    L106''s folk-monologue prevalence claim. Reporting that none was minted is itself
-
-    the finding the driver asked for.
-
-
-    (b) WAS CHOSEN AND IS A MEASURED FAMILY, NOT ONE LOCUS. grep for
-
-    "too much separation to say ''one''" over obsidian/{apex,topics,concepts,voids,positions}
-
-    plus archive/ returns exactly FIVE direct-quote loci - apex/identity-across-transformations
-
-    L93, topics/the-binding-problem L153, concepts/binding-problem L115,
-
-    archive/topics/the-binding-problem-a-systematic-treatment L111,
-
-    archive/concepts/varieties-of-unity L75 - all five mirrored LIVE in hugo/content
-
-    today. Two archive loci would have been missed by an obsidian-scoped sweep
-
-    (defect-sweeps-must-include-archive-tree).
-
-
-    IT IS A RE-OPENED FAMILY: deep-review-2026-05-01 diagnosed this exact defect,
-
-    cross-checked it against the research note, and fixed ONE file. Five siblings
-
-    ran live for three months (fix-by-file-leaves-string-siblings-live). The task
-
-    carries two explicit CONTROLS so the fork does not over-sweep -
-
-    topics/personal-identity L130 uses split-fragment quoting and is verbatim-safe,
-
-    and several files carry unquoted paraphrase that must NOT be converted into
-
-    quotation. It also requires verification at the primary Nagel 1971 Synthese text
-
-    rather than at the Map''s own research note, and forbids de-quoting on a
-
-    fabrication premise (tallis-misrepresentation-quote-propagation).
-
-
-    (a) was declined as the least certain - the changelog itself hedges that L204
-    is
-
-    "plausibly about the interface rather than the subject", so it risks an
-
-    over-correction. (c) is sound and single-locus (the corpus cites Hurlburt''s DES
-
-    in voids/voids-between-minds and voids/minimal-consciousness-void while
-
-    consciousness-and-language-interface L106 asserts the uncorrected folk claim
-
-    without citing him) - a good next mint, deliberately not taken to hold
-
-    exact-floor +1 with no padding.
-
-
-    PLACEMENT / LIFO: select_queue_task returned line 2086 both before and after this
-
-    run. The new task was appended at the BOTTOM of Active (line 2214), BELOW both
-
-    surviving P2s (2086, 2199), so it takes the third pick slot and jumps nothing
-    -
-
-    the new LIFO exposure the driver flagged was avoided rather than merely noted.
-
-    todo.md 18155 -> 18177 lines (+22, insert-only: git numstat 22/0). All insertions
-
-    are below line 2213, so cached queue_task_line values for BOTH open P2s remain
-
-    VALID and are NOT invalidated (unlike 929''s relocation).
-
-
-    SELF-CAUGHT ERROR WORTH RECORDING: the first Edit''s old_string included the
-
-    "## Completed Tasks" heading but the new_string omitted it, silently deleting
-    the
-
-    section boundary. The parser immediately jumped to 26 active / 6 P2 /
-
-    count_p0_p2 5, pulling in orphaned pending tasks below Completed
-
-    (orphaned_pending_tasks_below_completed) and a literature-drift-review entry that
-
-    tripped the wall-clock-only dispatcher warning. Caught by re-running the parser
-
-    rather than trusting the edit, and repaired in the same session. LESSON: after
-    any
-
-    Edit whose old_string spans a "## " heading, re-grep the heading list - a dropped
-
-    section boundary presents as an implausible task-count jump, not as an error.
-
-
-    Left uncommitted for cycle_post. recent_tasks preserved at 20. Pruned
-
-    run_928_note to hold the note ring at three (929, 930, 931).
-
-    '
+  stale_task_anchors_repaired: 0
   run_932_note: 'run no.932 (2026-08-04T01:44Z, cycle-driven /replenish-queue): TWO
     MINTS.
 
@@ -1523,3 +1376,219 @@ queue_status:
     preserved at 20. Pruned run_930_note to hold the note ring at three (931, 932,
 
     933).'
+  run_934_note: 'run no.934 (2026-08-04T03:52Z, cycle-driven /replenish-queue): TWO
+    MINTS, BOTH
+
+    FROM UNCONSUMED_RESEARCH. NINTH consecutive replenish-at-floor. Floor restored
+
+    2 -> 4. Third consecutive non-zero-mint run.
+
+
+    COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from
+
+    state. BEFORE 20 live / 0 P0 / 0 P1 / 2 P2 / 18 P3, below MIN_QUEUE 3. AFTER 22
+
+    live / 0 P0 / 0 P1 / 4 P2 / 18 P3, 3 vetoed. The 2-vs-4 gap against run 933''s
+
+    recorded state is explained, not ignored: 933 left four P2s and two completed
+
+    before this run - the promoted inner-speech expand-topic (commit db34b1e at
+
+    03:04Z, which is why topics went 318 -> 319) and the L106 folk-monologue refine
+
+    (commit d483aa1 at 03:38Z).
+
+
+    SECTION COUNTS via count_section_files: topics 319, concepts 317, voids 100,
+
+    positions 14, apex 39. Topics headroom is now ONE, not two - run 933 spent a
+
+    slot. CLAUDE.md warns the gate over-counts topics by one, so the true figure is
+
+    318, but no expand-topic was minted either way and both research notes consumed
+
+    this run independently recommend AGAINST spending a slot on their own subject.
+
+
+    SOURCES 1-8 AUDITED AND RECORDED. (1 chain) available but not needed once
+
+    source 2 yielded two verified candidates. (2 unconsumed_research) USED, twice -
+
+    see below. (3 gap analysis) blocked by caps. (4 staleness) not reached.
+
+    (5 orphan) quality.orphaned_files is 0. (6 length) get_length_warnings
+
+    min_status=hard_warning returns ZERO critical entries anywhere; the topics band
+
+    tops out at quantum-biology-and-neural-consciousness 4,309 w against a 4,000
+
+    hard ceiling, which is inside the ~350 w decomposition band run 933 established
+
+    as mint-blocking without a prose/apparatus split, so nothing was minted from it.
+
+    The apex head (dualism-cartography 5,185; conjunction-coalesce 5,144) is the
+
+    known false-over-length plus a standing NEEDS-HUMAN. (7 positions) 14 entries,
+
+    audited 2026-08-03. (8 applied apex) none.
+
+
+    THE FINDING OF THIS RUN: A SLUG-LEVEL DEDUPE READS A PARTLY-CONSUMED RESEARCH
+
+    NOTE AS SPENT. research/values-in-science-and-inductive-risk-2026-08-02 lists
+
+    three ranked follow-ons. Its no.1 (duhem-quine L94) was executed 2026-08-02 at
+
+    15:48 as commit 64753dcc, and the file was condensed at 16:13 as fd15b282. Its
+
+    no.2 (methodology-of-consciousness-research L146) was NEVER minted and is still
+
+    live on disk, verified verbatim this run. Any check that asks only whether a
+
+    research note has produced downstream work answers yes here and stops. The note
+
+    had to be READ to the end for the second target to surface. This is the mirror
+
+    image of replenish-unconsumed-research-dedup-misses-threaded-content: there the
+
+    dedupe under-counted consumption, here it over-counts it.
+
+
+    MINT 1 - topics/consciousness-and-the-major-evolutionary-transitions L64, from
+
+    research/phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03,
+
+    which ranks it no.1 and rates it P1. The sentence on disk reads that whether a
+
+    subject-of-experience is a further, non-coinciding kind of individual is a
+
+    question the framework does not ask. It is FALSE AS WRITTEN and refutable from
+
+    a source the article already cites: Godfrey-Smith 2016, Biology and Philosophy
+
+    31(6): 775-796, is the paper immediately following Pradeu 31(6): 761-773 in the
+
+    same special issue, and the article cites Pradeu at L62 and L122. The note read
+
+    Godfrey-Smith as an author-hosted primary PDF, so the replacement quote is
+
+    verbatim-safe. Half the sentence SURVIVES and the task says so - the criterion
+
+    lists really do stop short (the SEP survey entry has zero occurrences of
+
+    conscious, phenomenal, sentience, experience or person) - so the fix is to the
+
+    second clause only, not a deletion. Length measured 2,335 w ok, genuine
+
+    headroom.
+
+
+    MINT 2 - topics/methodology-of-consciousness-research L146. The premise
+
+    "Scientific practice depends on irreducibly phenomenal experiences" is asserted
+
+    flat while the consequent two sentences later IS conditionalised. Ward 2021
+
+    (SHPS A 85: 54-62) separates motivate / justify / cause / impacted-by and puts
+
+    the inductive-risk claim under JUSTIFY; the Map needs CAUSE. Longino makes
+
+    individual aesthetic response epistemically inert by design. The task inherits
+
+    the settled template rather than composing one: duhem-quine L94-96 was rewritten
+
+    on 08-02 with this exact apparatus, and this article already links duhem-quine
+
+    four times.
+
+
+    BOTH TASKS CARRY MEASURED CONTROLS SO THE FORKS DO NOT OVER-SWEEP. Mint 2
+
+    protects FOUR already-guarded sibling loci the research note checked and cleared
+
+    (structure-of-scientific-revolutions L100, phenomenology-of-conceptual-frameworks
+
+    L144, phenomenology-of-deliberation-under-uncertainty L85 and L137), with L100
+
+    spot-checked on disk this run - fix-by-file-leaves-string-siblings-live cited in
+
+    the INVERSE direction, because here the grep population is larger than the
+
+    defect. It also resolves the note''s seventh, undiagnosed locus: the driver READ
+
+    topics/consciousness-defeats-explanation this run and found L160 already
+
+    conditionalised and L126 already carrying Trout 2007 and Rozenblit and Keil 2002
+
+    against the felt sense of understanding, so the task says the likely correct
+
+    outcome is NO CHANGE and asks for a recorded verdict either way. Mint 1 forbids
+
+    reproducing the note''s own UNVERIFIED "Rosengard in 1998" attribution and
+
+    forbids new claims about Clarke 2010 and Pradeu 2016 internals, both abstract-
+
+    only.
+
+
+    ARCHIVE TWINS FOUND AND DELIBERATELY NOT BATCHED. The mint-2 string survives at
+
+    archive/topics/consciousness-and-scientific-methodology L116 in a STRONGER form,
+
+    mirrored live at hugo/content/archive/... L119, plus a third weaker instance at
+
+    archive/concepts/phenomenology-of-creative-insight L143. Both are published URLs
+
+    serving full bodies. cycle_post closes a multi-file task after one file, so they
+
+    are recorded as a separate future pick rather than folded in.
+
+
+    FOUR FOLLOW-ONS RECORDED AND NOT MINTED, each for a stated reason:
+
+    positions-evolve on positions/subject-census adding the boundary problem
+
+    (that file already carries two open P3s at todo L130 and L138 -
+
+    outer-review-same-file-task-pileup); refine-draft on
+
+    topics/consciousness-and-the-metaphysics-of-individuation adding the Meincke and
+
+    Dupre bridge; positions-evolve registering the justify/cause finding under P-M2
+
+    in positions/methodology-and-calibration (3,165 w hard_warning with a standing
+
+    NEEDS-HUMAN register-structure entry); and the archive twins above.
+
+
+    PRIORITY DEVIATION RECORDED. The individuality note rates mint 1 P1. It was
+
+    minted P2 so it jumps nothing - both surviving P2s are same-day correctness
+
+    fixes of comparable weight, deliberately placed by runs 932 and 933. The task
+
+    says so and invites the operator to promote.
+
+
+    PLACEMENT AND LIFO. Both tasks were APPENDED at the bottom of Active, below both
+
+    surviving P2s. Pick order is 2165 (capgras edge) -> 2186 (split-brain) -> 2235
+
+    (evolutionary transitions) -> 2262 (methodology). Nothing was jumped, nothing
+
+    promoted, nothing relocated, nothing re-scoped. todo.md 18243 -> 18299 lines,
+
+    git numstat 56/0, INSERT-ONLY. Verified byte-identical: md5 of the first 2234
+
+    lines matches HEAD exactly, so cached queue_task_line values for both open P2s
+
+    remain VALID. Section headings re-grepped after the edit (Active / Completed /
+
+    Blocked / Vetoed all present) - run 931 lost a section boundary this way and
+
+    caught it only by re-parsing.
+
+
+    YAML re-validated with yaml.safe_load after writing. recent_tasks preserved at
+
+    20. Pruned run_931_note to hold the note ring at three (932, 933, 934).'
