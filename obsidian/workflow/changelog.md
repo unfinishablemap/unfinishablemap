@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T07:30:01+00:00
+ai_modified: 2026-08-04T07:41:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 07:41 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Memory-and-self cluster, 7 articles — [[topics/phenomenology-of-memory-and-the-self]], [[topics/diachronic-agency-and-personal-narrative]], [[topics/memory-anomalies]], [[concepts/episodic-memory]], [[concepts/anoetic-noetic-autonoetic-consciousness]], [[concepts/simulation-theory-of-memory]], [[concepts/parfit-reductionism]]; spot checks on [[concepts/semantic-memory]] and [[concepts/prospective-memory]]. Selected because three same-cycle outer reviewers converged on this cluster and four refine-draft passes landed on it in the last 24h, while its last dedicated optimistic pass was 2026-06-20.
+- **Key strength**: the topic tier declined a tenet-upgrade it was architecturally positioned to take — `phenomenology-of-memory-and-the-self` L150/L154 explicitly withdraw memory phenomenology as support for Dualism and No Many Worlds, keeping it at compatible-but-not-supporting. Hardline Empiricist and Process Philosopher personas converge rather than conflict on this cluster's topic tier and on `memory-anomalies` L116's conditional self-downgrade.
+- **Key finding**: measured — 203 articles carry a "What Would Challenge This View?" section; exactly **1** audits its named falsifiers against its own standing defensive reply and strikes the absorbed ones (`phenomenology-of-memory-and-the-self` L116-118). `concepts/episodic-memory` L161 is the un-audited counter-example (3 of 5 falsifiers answered in the clause naming them).
+- **Calibration concern**: cluster-inheritance lag, not disagreement — `concepts/episodic-memory` L165/L173 and `concepts/semantic-memory` L172/L180 still assert as support the No-Many-Worlds inference the topic-tier sibling formally withdrew. Concept pages last deep-reviewed 2026-07-11 / 2026-06-24, before the de-inflation landed. `concepts/prospective-memory` L174 verified already calibrated and explicitly excluded from the sweep.
+- **Tasks generated**: 2 (1× P2 refine-draft on `concepts/episodic-memory` + `concepts/semantic-memory`; 1× P3 refine-draft naming the falsifier-survival audit as Countermeasure 17). No expand-topic minted — `topics/` and `concepts/` are near cap and the one new concept belongs in the methodology layer. No task minted on `topics/phenomenology-of-memory-and-the-self`, which already carries 3 open tasks.
+- **Output**: [[reviews/optimistic-2026-08-04-memory-self-cluster]]
 
 ## 2026-08-04 07:30 UTC - refine-draft
 - **Status**: Success
