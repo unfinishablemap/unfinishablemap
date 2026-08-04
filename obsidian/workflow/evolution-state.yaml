@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T01:23:53.079981+00:00'
-session_count: 18412
-cycle_position: 12400
+last_updated: '2026-08-04T01:25:25.018855+00:00'
+session_count: 18413
+cycle_position: 12401
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-03T21:39:09.479113+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-08-04T01:01:09.428366+00:00'
   tune-system: '2026-08-03T20:11:37.721320+00:00'
   research-voids: '2026-08-03T17:09:10.766969+00:00'
-  coalesce: '2026-08-04T01:23:53.079981+00:00'
+  coalesce: '2026-08-04T01:25:25.018855+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T00:41:28.870706+00:00'
+  agentic-social: '2026-08-04T01:30:32.327467+00:00'
   embed-videos: '2026-08-03T16:57:15.829584+00:00'
   commission-chatgpt-review: '2026-08-03T02:07:27.969019+00:00'
   commission-claude-review: '2026-08-03T03:06:17.414909+00:00'
@@ -113,10 +109,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-08-03'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-03'
@@ -187,6 +179,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-04'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-08-04'
   outcome: success
 - task: coalesce
@@ -846,6 +842,11 @@ agentic_social:
     - ai-consciousness
   - url: https://unfinishablemap.org/apex/conjunction-coalesce/
     date: '2026-08-04T00:40:16.273419+00:00'
+  - url: https://unfinishablemap.org/concepts/global-workspace-theory/
+    date: '2026-08-04T01:30:32.327410+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
