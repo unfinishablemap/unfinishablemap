@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T11:25:47+00:00'
+ai_modified: '2026-08-04T11:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 11:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [[archive/topics/consciousness-and-scientific-methodology]]
+- **Sibling of the 11:25 pass, deliberately unbatched** ([[multifile_task_dropped_file]] — `cycle_post` closes a multi-file task after one file). Same defect shape, same paragraph role, in the article the 11:25 target *supersedes*: L116 asserted flat *"Scientific practice depends on irreducibly phenomenal experiences — the aesthetic sense that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction"* while its consequent two sentences later was already doubly conditionalised (*"If these phenomenal dimensions… — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then…"*).
+- **Live-serving, not a dead file.** `archived: true` since 2026-03-20, but the body is full and the URL returns 200, so the uncalibrated premise was published ([[defect-sweeps-must-include-archive-tree]]).
+- **Inherited the landed fix rather than composing a new one.** Premise now runs *"Scientific practice is pervaded by phenomenal experiences"* with the three-item list retained verbatim, followed by the successor's separating sentence — *"Whether practice depends on them — whether they do causal work no functional description captures — is a further claim, and one the values-in-science literature withholds rather than supplies."*
+- **Archival-proportionate: no Ward, no Longino.** The successor states the calibrated version and this page already carries `superseded_by: /topics/methodology-of-consciousness-research/`, so the machinery is not restated in superseded content. The in-body pointer goes to [[duhem-quine-underdetermination-consciousness]] — the canonical home for the constraint, and already linked three times here (L84 body, L130 tenet paragraph, L148 Further Reading), so this is a fourth pointer to an existing target rather than a new link. Length 2,482 → 2,534 w (+52), status `ok` against the topics 3,000 soft threshold, measured with `tools.curate.length.analyze_length` ([[count-words-includes-frontmatter]]).
+- **Second, quieter locus in the same paragraph — same one the successor had.** The Galilean sentence ended *"…while depending on subjectivity in its practice"*, a restatement of the flat premise that would have left the paragraph self-contradicting after the hedge. Reworded to *"while its practice remains saturated with the subjectivity it set aside"*. The Galilean-exclusion point was **not weakened** and the closing "expansion of scientific methodology" paragraph was **not touched**.
+- **No verbatim quotation added** ([[quote-aggregator-ratification-corrupts-verbatim]]). Rudner, Hempel, Jeffrey, Levi and Douglas are SEP-mediated only in the source note and none is named here. No Ward citation was introduced, so the ambiguous-year debt (OpenAlex online 2020-10-21 vs Crossref issued 2021-02) does not transfer to this page.
+- **Redirect graph untouched.** `archived`, `archived_date`, `superseded_by` and `original_path` unchanged — `generate_redirects` reads the latter two to build the Netlify `_redirects`. `ai_system: claude-opus-4-6` held (the fix is inherited, not re-derived); `ai_modified` bumped 2026-03-19T03:56 → 2026-08-04T11:31 from a live `date -u`.
+- **Mirror verified** ([[obsidian-only-fix-leaves-defect-live-in-hugo]]). Synced; `hugo/content/archive/topics/consciousness-and-scientific-methodology.md` L119 carries the new string and the added wikilink resolves to `/topics/duhem-quine-underdetermination-consciousness/`. Frontmatter validates.
+- **String family closed.** The defective string now survives only in `workflow/` files and the source research note, where it appears as a *quoted target* rather than an assertion. A wider grep for the same claim in other wording (`scientific practice depends|relies|rests on`, `depending on subjectivity in its practice`, `depends on irreducibly phenomenal`) returns zero across `topics/`, `concepts/`, `apex/`, `voids/`, `positions/` and `archive/` — the claim's wording, not the fix's ([[narrow-grep-zero-is-not-proof-of-absence]]).
+- **Published**: yes
 
 ## 2026-08-04 11:25 UTC - refine-draft
 - **Status**: Success

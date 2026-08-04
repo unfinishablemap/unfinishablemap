@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-19 03:56:00+00:00
+ai_modified: 2026-08-04 11:31:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Methodology of Consciousness Research
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-19 03:56:00+00:00
-lastmod: 2026-03-19 03:56:00+00:00
+lastmod: 2026-08-04 11:31:00+00:00
 modified: *id001
 original_path: /topics/consciousness-and-scientific-methodology/
 related_articles:
@@ -116,7 +116,7 @@ None of these fully resolves the methodological problem. The first three manage 
 
 The standard response to methodological difficulties is patience: science will eventually solve this, as it has solved other hard problems. But consciousness is not merely hard in the way that protein folding or turbulence or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) develops this point: applied to consciousness studies, Kuhn's framework reveals physicalism as a paradigm exhibiting the hallmarks of crisis — anomalies that resist assimilation, competing theories proliferating, and no successor paradigm consolidating.
 
-The [phenomenology of creative insight](/concepts/creative-consciousness/) sharpens this point. Scientific practice depends on irreducibly phenomenal experiences — the [aesthetic sense](/concepts/epistemic-emotions/) that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then consciousness is not merely the one phenomenon science struggles to explain. It is a condition of the explanatory enterprise itself.
+The [phenomenology of creative insight](/concepts/creative-consciousness/) sharpens this point. Scientific practice is pervaded by phenomenal experiences — the [aesthetic sense](/concepts/epistemic-emotions/) that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction. Whether practice *depends* on them — whether they do causal work no functional description captures — is a further claim, and one the values-in-science literature withholds rather than supplies; [the Map's treatment of underdetermination](/topics/duhem-quine-underdetermination-consciousness/) works through the constraint that literature imposes and the narrower claim that survives it. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while its practice remains saturated with the subjectivity it set aside. If these phenomenal dimensions of scientific work are causally efficacious — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then consciousness is not merely the one phenomenon science struggles to explain. It is a condition of the explanatory enterprise itself.
 
 This does not warrant defeatism. It warrants recognising that consciousness may require an expansion of what counts as scientific methodology — not abandoning rigour, but broadening the concept of evidence to include properly disciplined first-person observation alongside third-person measurement. The history of science includes several such expansions: the acceptance of statistical explanation in quantum mechanics, the incorporation of historical reasoning in evolutionary biology, the recognition of emergence in complex systems theory. Each expanded what "scientific" means without abandoning the commitment to systematic, disciplined inquiry.
 
