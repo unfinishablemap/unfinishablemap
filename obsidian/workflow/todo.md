@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Analog quantum devices and the interface question
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-03-machine-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-03-machine-evidence-wing flags this as the one cell in the Map's own substrate taxonomy where its argument does not obviously generalise. The quantum-hardware article's case against gate-based QPUs turns on quantum error correction being anti-interface (engineered to isolate the logical state from external influence). Annealers and analog simulators are precisely the class where that does not apply: continuous Hamiltonian evolution, no fixed logical code basis, often no active error correction. The article disposes of them in two sentences (L40) with an assertion rather than an argument - 'engineered to settle into an answer, not to hold open a decision' - and the review notes the dismissal 'may well be right, but it is asserted rather than worked out'. Verified uncovered: no research note and no live article on annealing/adiabatic quantum computation; the ai-hardware-substrate-taxonomy note's 'analog' branch is analog COMPUTING (memristor, neuromorphic, phase-change) and never mentions annealers, its only analog-quantum strings being WebSearch queries. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/analog-quantum-devices-and-the-interface-question-2026-08-04.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'analog-quantum-devices-and-the-interface-question' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-08-04
+
 ### NEEDS-HUMAN (length decision) 2026-08-04: `apex/conjunction-coalesce` is over its hard ceiling on prose alone, has no deferral marker, and is now publicly promoted
 
 - **Type**: refine-draft
