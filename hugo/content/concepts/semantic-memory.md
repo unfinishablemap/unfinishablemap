@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-07-30 15:10:22+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-04 08:36:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology-of-intellectual-life]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-08-04 08:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -172,7 +172,7 @@ The irreducibility of noetic phenomenology would be challenged by:
 
 ## Relation to Site Perspective
 
-Semantic memory and noetic consciousness support all five foundational commitments.
+Semantic memory and noetic consciousness bear on the five foundational commitments unevenly: they argue for Bidirectional Interaction and for the limits of parsimony, sharpen the explanandum behind Dualism, offer a speculative candidate occasion for Minimal Quantum Interaction, and are compatible with No Many Worlds without arguing for it.
 
 **[Dualism](/tenets/#dualism)**: The phenomenology of semantic retrieval resists computational reduction. TOT states, FOK, and the qualitative character of understanding involve "what it's like" properties that physical descriptions don't capture. If even factual knowledge has phenomenal dimensions, the hard problem extends beyond vivid sensory qualia into the seemingly "cold" domain of information retrieval. The [illusionist](/concepts/illusionism/) response—that noetic phenomenology is merely a useful misrepresentation—faces the regress problem detailed above.
 
@@ -180,7 +180,7 @@ Semantic memory and noetic consciousness support all five foundational commitmen
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effortful semantic search—deliberately trying to recall a word or solve a problem—involves the same phenomenology of [mental effort](/concepts/mental-effort/) that characterises conscious agency. The experience of *trying* to remember involves directed attention, sustained engagement, and often physical strain. If consciousness causally influences brain states, semantic retrieval is one domain where this influence operates. The functional correlation between phenomenology (FOK confidence) and retrieval success suggests the phenomenology is tracking real information about cognitive accessibility.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Semantic knowledge presupposes a single fact-base. When you know that Paris is the capital of France, you know it as a fact about *the* world, not about *a* branch. Many-worlds would make each fact indexed to a branch-history, fragmenting the unity of semantic knowledge. The noetic sense of certainty—knowing without re-experiencing—assumes that facts are facts, not branch-relative. This connects to [haecceity](/concepts/haecceity/)—semantic knowledge is *this* person's knowledge of *those* facts, requiring the indexical grounding that many-worlds eliminates.
+**[No Many Worlds](/tenets/#no-many-worlds)** records conditional consistency rather than support drawn from semantic memory. The noetic sense that a fact is a fact about *the* world rather than about *a* branch states what the tenet requires, but nothing in that phenomenology discriminates the two ontologies: on the Everettian reading each decohered branch contains knowers whose facts are determinate within it, and both ontologies predict identical first-person reports. The requirement runs through [haecceity](/concepts/haecceity/)—that semantic knowledge is *this* person's knowledge of *those* facts—which is an auxiliary commitment rather than something the phenomenology of knowing supplies. Semantic memory is compatible with the tenet; it does not argue for it. [The phenomenology of memory and the self](/topics/phenomenology-of-memory-and-the-self/) develops the withdrawal.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simpler view—semantic memory is just data storage, noetic consciousness is an illusion—hasn't won. The phenomenology of TOT, FOK, and understanding persists under scrutiny. Complex mental phenomena may require complex explanations, even when simpler computational accounts are available. The remember/know distinction demonstrates that identical information can be accessed with or without experiential character, suggesting phenomenology isn't reducible to information content.
 

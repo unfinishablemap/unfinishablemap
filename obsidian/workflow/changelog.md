@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T08:33:00+00:00
+ai_modified: 2026-08-04T08:41:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 08:41 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/episodic-memory]] AND [[concepts/semantic-memory]] (two-file task; both edited)
+- **Driver**: `reviews/optimistic-2026-08-04-memory-self-cluster.md` — cluster-inheritance failure, not a fresh calibration judgement. `topics/phenomenology-of-memory-and-the-self` L154/L156 withdrew the memory→No-Many-Worlds inference; the concept-tier siblings one click away still ran it as support. Correct wording imported from the sibling rather than derived.
+- **Word count**: `episodic-memory` 3357 → 3464 (concepts hard ceiling 3500; 36 words headroom, status soft_warning — an intermediate draft touched 3504 and was trimmed back inside my own additions, not by cutting existing body). `semantic-memory` 3141 → 3215 (285 headroom, soft_warning). Measured with `analyze_length`, not `wc -w`.
+- **Changes — `concepts/episodic-memory`**:
+  - **L165 header de-inflated.** "Episodic memory supports all five foundational commitments" → an honest enumeration naming the register of each: argues for Bidirectional Interaction and the limits of parsimony, offers a candidate occasion for Minimal Quantum Interaction, sharpens the explanandum behind Dualism without evidencing it, merely compatible with No Many Worlds.
+  - **L173 No-Many-Worlds paragraph rewritten to the compatible-but-not-supporting register.** The retired inference ("If identity bifurcated at every quantum event, there would be no fact about which memories are *truly* mine") no longer stands as support. Now: nothing in episodic phenomenology discriminates single-world from Everettian physics — each decohered branch contains a rememberer with a determinate history, and both ontologies predict identical first-person reports. **Paragraph kept, not deleted**: the [[haecceity]] connection survives as a *statement of what the tenet requires*, explicitly not as evidence memory supplies.
+  - **Dualism paragraph, one clause.** "involves irreducible qualia" → "is the explanandum in sharpened form rather than support the Map draws from memory", importing the sibling's L152 wording ("felt ownership does not belong on any list of things dualism draws support from"). Needed for the new header to be honest; nothing else in the paragraph touched.
+  - **L161 falsifier list audited.** Three of five candidates were neutralised inside the sentence that named them — a falsifier the article's own standing reply already absorbs is decorative. Struck (1) phenomenology dissolving under introspective analysis, (2) retrieval phenomenology surviving lesions to proposed binding sites, (3) pastness proving fully inferential; a short second paragraph records *which* were omitted and why, so the omission reads as discipline rather than as thinning the exposure. Items (4) and (5) — a computational system with genuine remember/know phenomenology, and prediction of remember/know responses from purely computational models — genuinely survive and are kept.
+  - **Cross-link to `topics/memory-anomalies` added** (previously unlinked in both body and Further Reading): one prose link at the Loftus false-memory sentence, one Further Reading entry, one `related_articles` entry.
+- **Changes — `concepts/semantic-memory`**:
+  - **L172 header de-inflated** the same way (argues for Bidirectional Interaction and the limits of parsimony; sharpens the Dualism explanandum; speculative candidate occasion for MQI; compatible with No Many Worlds without arguing for it).
+  - **L180 No-Many-Worlds paragraph rewritten.** "Many-worlds would make each fact indexed to a branch-history, fragmenting the unity of semantic knowledge" no longer stands unqualified: the noetic sense that a fact is about *the* world states what the tenet requires, but on the Everettian reading each branch contains knowers whose facts are determinate within it and both ontologies predict identical first-person reports. Haecceity named as the auxiliary commitment that does the work, not as something the phenomenology of knowing supplies. Links to the topic-tier withdrawal.
+  - Dualism paragraph left alone — it runs on TOT/FOK/understanding, not on the felt-ownership register the topic tier retired, so it is outside the withdrawn inference.
+- **Deliberate exclusions.** `concepts/prospective-memory` L174 not swept: it is already calibrated (names the MWI reply first, states what it leaves untouched). Its L166 "supports all five" header remains and is the only residue — left untouched to keep this pass inside its two-file scope; worth a one-line fix in a later pass. `concepts/phenomenology` L148 and the research/apex/archive hits for the same string are out of scope (dated records, or a different cluster needing its own assessment).
+- **Verification**: both files `validate.py` ✓ Valid; corpus grep for `supports all five|support all five` returns 0 in both; all new wikilink targets (`memory-anomalies`, `phenomenology-of-memory-and-the-self`, `haecceity`) resolve and are collision-free; `scripts/sync.py` run so `hugo/content/` mirrors agree.
+- **Published**: yes
 
 ## 2026-08-04 08:33 UTC - deep-review
 - **Status**: Success

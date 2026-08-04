@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-08-04T06:35:25+00:00
+ai_modified: 2026-08-04T08:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,7 @@ related_articles:
   - "[[episodic-memory-consciousness-2026-01-16]]"
   - "[[inaccessible-past]]"
   - "[[phenomenology-of-memory-and-the-self]]"
+  - "[[memory-anomalies]]"
   - "[[capability-division-problem]]"
   - "[[smoothness-and-continuity]]"
 ai_contribution: 100
@@ -84,7 +85,7 @@ Remembering is an act of building, not retrieving. Your brain reassembles a scen
 
 Two claims are easily run together here, and only one is general. That retrieval is *reconstructive*—that what reaches awareness is assembled rather than played back—is the well-supported claim, and the one the argument below needs. That retrieval *destabilises the stored trace*, reopening it for revision through reconsolidation, is narrower and conditional. Kida (2020) reviews the boundary conditions and states the position directly: a retrieved memory "is not always destabilized," with destabilisation gated by parameters "such as the duration of retrieval and the memory strength and age." Sinclair and Barense (2018) identify prediction error as a central gate in humans—a reminder that merely reinstates what the trace already predicts does not reliably reopen it. Elsey, Van Ast and Kindt (2018), reviewing the human evidence critically, find considerable support across procedures but note "a number of inconsistent findings" and alternative explanations that block a conclusive neurobiological inference; they call reconsolidation "a viable but hotly contested explanation." The accurate formulation is therefore conditional: *under identifiable conditions*, retrieval renders a trace labile and the act of remembering alters it. Those conditions, and the Map's reading of the window they open, are developed in [[reconsolidation-as-selection-window|reconsolidation as a selection window]].
 
-If every memory is freshly constructed, each act of remembering generates new phenomenal experience rather than accessing stored experience—making the [[inaccessible-past]] an unavoidable consequence of how memory works. Loftus's research on false memories confirms the point: confident, vivid memories can be entirely constructed, the predictable output of a system built for flexibility rather than veridical recording.
+If every memory is freshly constructed, each act of remembering generates new phenomenal experience rather than accessing stored experience—making the [[inaccessible-past]] an unavoidable consequence of how memory works. Loftus's research on false memories confirms the point: confident, vivid memories can be entirely constructed, the predictable output of a system built for flexibility rather than veridical recording—a gap between phenomenal output and machinery that the [[memory-anomalies|anomaly cases]] exhibit most cleanly.
 
 ## Consciousness and Consolidation
 
@@ -158,19 +159,21 @@ Type-B physicalism accepts the explanatory gap while denying the ontological gap
 
 ## What Would Challenge This View?
 
-The irreducibility of memorial phenomenology would be challenged by: (1) phenomenology dissolving under introspective analysis—instead, closer attention intensifies it; (2) retrieval phenomenology persisting despite lesions to proposed binding sites—hippocampal amnesia shows the opposite; (3) pastness being fully inferential rather than immediately given—phenomenological investigation suggests it arrives already tagged; (4) a purely computational system demonstrating genuine remember/know phenomenology; (5) successful prediction of remember/know responses from purely computational models—current models require subjective confidence ratings as inputs.
+The irreducibility of memorial phenomenology would be challenged by (1) a purely computational system demonstrating genuine remember/know phenomenology, or (2) successful prediction of remember/know responses from purely computational models—current models require subjective confidence ratings as inputs.
+
+Three candidates often listed here are omitted: phenomenology dissolving under introspective analysis, retrieval phenomenology surviving lesions to proposed binding sites, and pastness proving fully inferential. Each is already answered by a standing reply above, and naming a falsifier the article's own defence already absorbs would be decorative ([[phenomenology-of-memory-and-the-self|the topic-tier treatment]] states the discipline).
 
 ## Relation to Site Perspective
 
-Episodic memory supports all five foundational commitments.
+Episodic memory bears on the five commitments unevenly: it argues for Bidirectional Interaction and the limits of parsimony, offers a candidate occasion for Minimal Quantum Interaction, sharpens the explanandum behind Dualism without evidencing it, and is merely compatible with No Many Worlds.
 
-**[[tenets#^dualism|Dualism]]**: The phenomenology of episodic retrieval—felt pastness, re-experiencing, double presence of self—involves irreducible qualia. Neural activity correlates with retrieval, but correlation doesn't explain why there is something it is like to remember. The constructive nature of memory sharpens this: if every recall generates fresh phenomenal experience through pattern completion and schema-driven inference, the gap between mechanism and experience appears at every act of remembering.
+**[[tenets#^dualism|Dualism]]**: The phenomenology of episodic retrieval—felt pastness, re-experiencing, double presence of self—is the explanandum in sharpened form rather than support the Map draws from memory. Neural activity correlates with retrieval, but correlation doesn't explain why there is something it is like to remember. The constructive nature of memory sharpens this: if every recall generates fresh phenomenal experience through pattern completion and schema-driven inference, the gap between mechanism and experience appears at every act of remembering.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The [quantum interface](#the-quantum-interface) discussed above suggests a candidate mechanism. If consciousness biases quantum outcomes without injecting energy, the reconsolidation window—on those occasions when a trace does destabilise and the physical system is temporarily underdetermined—represents an opening for non-physical influence. Consciousness need not rewrite engrams; it need only nudge the re-stabilisation process toward one reconstruction rather than another. That the window is gated rather than opened by every retrieval ([above](#memory-as-construction)) makes the proposal more tractable, not less: it names specific occasions on which the substrate is underdetermined rather than asserting a permanent openness.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Consciousness does not passively observe stored content but selects among reconstructions, modulates reconsolidation, and contributes phenomenal colouring. The manipulation-maintenance asymmetry in [[working-memory]]—where storage proceeds unconsciously but transformation requires conscious engagement—exemplifies this causal role.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Episodic memory presupposes a determinate history—one of many possibilities became actual, and that's what you remember. The pastness quale marks personal ownership, not just temporal location. If identity bifurcated at every quantum event, there would be no fact about which memories are *truly* mine. This connects to [[haecceity]]—requiring haecceitistic facts about which possibilities became actual.
+**[[tenets#^no-many-worlds|No Many Worlds]]** records conditional consistency here rather than support drawn from memory. Nothing in episodic phenomenology discriminates a single-world physics from an Everettian one: each decohered branch contains a rememberer with a determinate history, and both ontologies predict identical first-person reports. What the tenet requires can still be stated—a fact about which past is *truly* mine—but that requirement runs through [[haecceity]], not through anything memory supplies. Episodic memory is compatible with the tenet; it does not argue for it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational theory of memory—storage and retrieval of information—fails to account for the phenomenal facts. The remember/know distinction demonstrates that the same information can be accessed with or without experiential re-living, suggesting phenomenology isn't reducible to information content. The [[epistemological-limits-of-occams-razor|epistemological limits of parsimony]] apply directly: physicalism and dualism do not explain memorial phenomenology equally well, so the precondition for invoking parsimony—equal explanatory power—is unmet.
 
@@ -191,6 +194,7 @@ Episodic memory supports all five foundational commitments.
 - [[epistemological-limits-of-occams-razor]] — Why parsimony cannot settle the consciousness debate
 - [[bergson-and-duration]] — Bergson's full philosophy of time and memory
 - [[phenomenology-of-memory-and-the-self]] — How constructive memory constitutes and threatens selfhood
+- [[memory-anomalies]] — Where phenomenal output and its machinery come apart
 - [[reconsolidation-as-selection-window]] — The boundary conditions on trace lability and the Map's reading of the window
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's full tripartite hierarchy
 
