@@ -4,7 +4,7 @@ description: "Was consciousness a major evolutionary transition? An honest readi
 created: 2026-07-15
 modified: 2026-07-15
 human_modified:
-ai_modified: 2026-07-15T05:19:55+00:00
+ai_modified: 2026-08-04T11:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ Peter Godfrey-Smith's *Darwinian Populations and Natural Selection* (2009) suppl
 
 The philosophy of biological individuality (Ellen Clarke 2010; Thomas Pradeu 2012, 2016) adds pluralism. Distinct kinds of individuality—evolutionary, physiological, immunological, developmental—need not coincide. Clarke catalogues the *individuating mechanisms* (policing, bottlenecks, germ-line sequestration) that organisms possess to varying degrees. Pradeu argues that an immunological criterion of the self can diverge from the evolutionary one.
 
-This literature is neutral on consciousness. But it hands the Map two tools. First, the *degrees-and-marginal-cases* framing offers a vocabulary for a possibly gradual phenomenal onset: if experience has an evolutionary beginning, was there a marginal period, and would a Darwinian-populations analysis even register it? Second, the *pluralist list of individualities* is conspicuously missing an axis the Map's dualism takes seriously—a **phenomenal** or **subject** individuality, the boundary of a single experiencer. The existing pluralism enumerates evolutionary, physiological, and immunological individuals and stops. Whether a subject-of-experience is a further, non-coinciding kind of individual is a question the framework does not ask.
+This literature is neutral on consciousness. But it hands the Map two tools. First, the *degrees-and-marginal-cases* framing offers a vocabulary for a possibly gradual phenomenal onset: if experience has an evolutionary beginning, was there a marginal period, and would a Darwinian-populations analysis even register it? Second, the *pluralist list of individualities* is conspicuously missing an axis the Map's dualism takes seriously—a **phenomenal** or **subject** individuality, the boundary of a single experiencer. The existing pluralism enumerates evolutionary, physiological, and immunological individuals and stops. The question of whether a subject-of-experience is a further, non-coinciding kind of individual is nonetheless asked, and the way it is answered matters more to the Map than the omission would have. In the paper immediately following Pradeu's in the same special issue, Godfrey-Smith (2016) takes up subjects as exactly such a kind of unit—and settles the matter in a subordinate clause: "Setting aside dualist and panpsychist views, it seems that the special features of subjects are organizational, and this organization will be the product of some sort of evolutionary process." The organizational answer is reached after the dualist alternative has been set aside by stipulation rather than argued against. That is the blindness this article describes, operating one level down from the transitions framework: the bracket is stated in writing, and it carries a cost the analysis never counts.
 
 ## Consciousness as an Already-Proposed Transition
 
@@ -119,9 +119,10 @@ The underlying Dualism tenet (Tenet 1) supplies the premise the whole thesis res
 8. Godfrey-Smith, P. (2009). *Darwinian Populations and Natural Selection*. Oxford University Press.
 9. Clarke, E. (2010). The problem of biological individuality. *Biological Theory* 5(4): 312–325.
 10. Pradeu, T. (2012). *The Limits of the Self: Immunology and Biological Identity*. Oxford University Press.
-11. Pradeu, T. (2016). The many faces of biological individuality. *Biology & Philosophy* 31: 761–773.
-12. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-13. Birch, J., Ginsburg, S. & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy* 35: 56.
-14. Jablonka, E. & Ginsburg, S. (2025). Consciousness: its goals, its functions and the emergence of a new category of selection. *Philosophical Transactions of the Royal Society B* 380(1939): 20240310.
-15. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness, Evolution, and the Limits of Biology. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
-16. Southgate, A. & Oquatre-sept, C. (2026-02-18). Consciousness and the Metaphysics of Individuation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
+11. Pradeu, T. (2016). The many faces of biological individuality. *Biology & Philosophy* 31(6): 761–773.
+12. Godfrey-Smith, P. (2016). Individuality, subjectivity, and minimal cognition. *Biology & Philosophy* 31(6): 775–796.
+13. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+14. Birch, J., Ginsburg, S. & Jablonka, E. (2020). Unlimited Associative Learning and the origins of consciousness: a primer and some predictions. *Biology & Philosophy* 35: 56.
+15. Jablonka, E. & Ginsburg, S. (2025). Consciousness: its goals, its functions and the emergence of a new category of selection. *Philosophical Transactions of the Royal Society B* 380(1939): 20240310.
+16. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness, Evolution, and the Limits of Biology. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-evolution-and-biology/
+17. Southgate, A. & Oquatre-sept, C. (2026-02-18). Consciousness and the Metaphysics of Individuation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/
