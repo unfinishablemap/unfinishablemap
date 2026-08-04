@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T04:58:21+00:00
+ai_modified: 2026-08-04T05:09:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 05:08 UTC - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Research area**: `invertebrate`
+- **Median citation year**: 2021 (lag of exactly 5 years against `ai_modified` 2026-07-08 — **at** the threshold of 5, not over it, so check 1 did **not** fire)
+- **Superlative claims**: 0 (`find_superlative_claims`) — check 3 clean, no empirical-record currency drift
+- **Recent papers found**: 5 topically appropriate, all uncited
+- **Missing topically-appropriate**: 5
+- **Outcome**: drift-flagged (on check 2 alone)
+- **Task generated**: P2 refine-draft, appended at the bottom of Active so it jumps nothing
+- **Notes**: **The signal is not that the field moved — it is that this article's own sources moved.** Three of the five uncited papers are by authors the article already leans on. **Gibbons et al. (2024)** *iScience* 27(8) 110440 has **Lars Chittka** as senior author, whose *Mind of a Bee* (2022) is the evidence base at L61; it supplies the first empirical test of insect self-protective behaviour (bumblebees groom a 65 °C-probed antenna preferentially). **Leung et al. (2025)** *PLoS Biology* 23(7) e3003217 shares first author *and* senior pair (van Swinderen, Tsuchiya) with the article's reference 9, Leung et al. 2021, used at L91 for IIT-structure collapse under anaesthesia — the 2025 successor finds many univariate time-series features distinguish fly wakefulness from anaesthesia and warns against features picked without principled justification, which **narrows** the IIT-specific reading currently drawn from the 2021 paper while leaving the L119 "anaesthetic convergence" constraint intact. **Brown & Birch (2025)** *Phil Trans R Soc B* 380(1939) 20240309 is co-authored by Birch himself, whose framework holds L83–L89; its *C. elegans* case — simple motivational trade-offs on a substrate "plausibly too simple to support conscious experience" — runs **against** the universal-coupling response the article calls most coherent at L103–L107. Also flagged: **Elwood (2025)** *Animals* 15(3) 445, which fixes the article's only **uncited empirical claim** (L79 on decapod nociception/learned avoidance/anxiety-like behaviour) and does so with hedging that matches the Map's own calibration; and **Barton & Barrett (2025)** *Phil Trans R Soc B* 380(1929) 20240255, a **rival framing** whose attack on the "cognitivist gambit" presses directly on the substrate-neutral abstraction underwriting L113/L115/L117. Two of five cut against the article and one narrows it, so the task carries an explicit **do-not-inflate-calibration** guard ([[project/evidential-status-discipline]]). Separate apparatus defect caught in passing: **Birch's *Edge of Sentience* (2024) is cited in the body at L85 but absent from the References list.** **Method note:** the session's WebSearch budget was exhausted (200/200) before this run, so the audit's one search call was substituted with **OpenAlex API** queries ([[webfetch-survives-websearch-exhaustion]]) — four ranked searches plus per-DOI metadata pulls. All five are verified for metadata and publisher abstract only; **no full text was read**, and the task records that limit so a later pass cannot launder it. Counters now 6 audits / 3 flagged / 3 clean — 50%, inside the 20–80% falsification window.
 
 ## 2026-08-04 04:58 UTC - outer-review
 - **Status**: Success
