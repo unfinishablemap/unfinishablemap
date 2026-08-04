@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-03T22:39:03+00:00'
+ai_modified: '2026-08-04T00:28:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-03'
-lastmod: 2026-08-03 22:39:03+00:00
+date: '2026-08-04'
+lastmod: 2026-08-04 00:28:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 00:28 UTC - refine-draft (Russell wrong-work family: 10 files closed; Chalmers & McQueen year family MEASURED, not swept)
+- **Status**: Success — family (a) closed in full; family (b) deliberately scoped down and reported rather than swept.
+- **Files** (all 10, metadata + quote punctuation only, no prose touched): [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) · [physical-completeness](/concepts/physical-completeness/) · [interface-formalization-void](/voids/interface-formalization-void/) · `archive/topics/mathematical-knowledge-and-insight` · `archive/topics/mathematical-truth-and-conscious-access` · `archive/topics/consciousness-and-mathematical-knowledge` · `archive/topics/consciousness-and-the-philosophy-of-mathematics` · `archive/concepts/consciousness-and-the-philosophy-of-mathematics` · [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/) · [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/). `topics/mathematical-structure-of-the-consciousness-physics-interface` was already fixed on 2026-08-03 and was **not** re-touched.
+- **Family (a) — verbatim quote cited to the wrong work (Russell).** "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover" is from ***An Outline of Philosophy*** (1927), p. 163 — verified in both directions against archive.org OCR of both 1927 volumes (one hit in *Outline* `in.ernet.dli.2015.218863`; **zero** in *The Analysis of Matter* `in.ernet.dli.2015.221533`). Seven References entries repointed to `Russell, B. (1927). *An Outline of Philosophy*. George Allen & Unwin (quoted passage, p. 163).`; canonical punctuation (comma after "mathematical", **semicolon** not colon) restored in all 10 quote instances.
+- **Why only seven reference lines for ten files.** Three of the ten carry the quote but have **no Russell References entry at all** — `archive/topics/consciousness-and-the-philosophy-of-mathematics` (References block lists no Russell) and both research notes (no References section). There was no misattribution to correct in those three, so they received punctuation normalisation only. Counting reference-line edits rather than files is how this family gets under-closed.
+- **Deliberately NOT blanket-rewritten.** *The Analysis of Matter* carries a **different** sentence on the same theme — "our knowledge of physics is mathematical: it is mathematical because no non-mathematical properties of the physical world can be inferred from perception" — and remains a legitimate structuralism / intrinsic-nature cite. Only files quoting the *Outline* sentence were changed. Corpus check after the pass: **zero** files quoting the *Outline* sentence still name *Analysis of Matter*. The two remaining old-punctuation instances are in `reviews/` files that quote the defect **as found** — correct, and must not be normalised.
+- **Family (b) — Chalmers & McQueen year: the task's counts were wrong, and the real shape is a scoping problem.** Task stated "10 files at (2021), 8 at (2022)". A loose grep suggested ~33/~31; both are unreliable because a *correct* 2022 cite frequently carries a trailing `arXiv:2105.02314 (2021)`. Measuring the **author-year slot** specifically gives the real population: **25 files** cite the collapse paper as `(2021)`. Split by the venue named on the same line: **8 name the OUP book** (year unambiguously wrong → must be 2022), **6 name arXiv** (2021 legitimately stands — no action), **11 name no venue** (judgement call each). So the actionable population is ~19 files, not 10, and a blind year-replace would have corrupted the 6 legitimate preprint cites.
+- **Choice made: option (i)** — family (b) fixed **only in the two files already being touched for family (a)**, both of which cited a bare `consc.net/papers/collapse.pdf` with no venue named: `voids/interface-formalization-void` L146 and `research/mathematical-structure-...-2026-03-14`. Both given the full book venue so the year is self-justifying: `(2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, 11–63.` The remaining 23 files were **left untouched and are reported for the driver to scope**. No successor task minted, per instruction.
+- **Scope discipline held**: 29 insertions / 29 deletions across exactly 10 files; every one of the 58 changed lines matches `Russell|Chalmers|ai_modified`. No prose rewritten, no arguments added or removed. `ai_system` held on all 10 (a metadata correction is not re-authoring); `ai_modified` bumped to `2026-08-04T00:28:49+00:00`, stamped from live `date -u` and confirmed strictly past.
+- **Mirror**: synced; all 10 `hugo/content/` mirrors verified including **both** archive mirrors (`hugo/content/archive/topics/` ×4 and `hugo/content/archive/concepts/` ×1). Validation clean apart from pre-existing unrelated length warnings.
+- **Published**: yes
 
 ## 2026-08-03 23:04 UTC - optimistic-review (the machine-evidence wing: 5 files, 3 with zero prior optimistic coverage)
 - **Status**: Success
