@@ -90,9 +90,9 @@
   commissioned_at: '2026-08-04T02:14:40.923329+00:00'
   prompt_summary: Audit phenomenology-of-memory-and-the-self
   target_filename: outer-review-2026-08-04-chatgpt-5-6-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-04T03:56:33.810481+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an external critical review of one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/

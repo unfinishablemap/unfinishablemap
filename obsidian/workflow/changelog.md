@@ -5,6 +5,16 @@ ai_modified: 2026-08-04T03:34:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-04 04:02 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro
+- **File**: [[reviews/outer-review-2026-08-04-chatgpt-5-6-pro]]
+- **Subject**: `topics/phenomenology-of-memory-and-the-self` (recent-aged fallback)
+- **Claims verified**: 22 (10 Map-attributed spans, all verbatim; 6 sibling-article claims; 10 external sources, all real and accurately characterised; 2 reviewer overreaches disputed)
+- **High-value findings**: 6
+- **Tasks generated**: 6 (P1: 3, P2: 3)
+- **Notes**: Unusually clean review — every Map-attributed quotation greps verbatim in the raw source, and no cited work proved fabricated. Three verified defects drive the P1s: (a) the article names three empirical weakeners then neutralises any mechanistic success via hard-problem relocation two sections later; (b) `concepts/episodic-memory` asserts "the pastness quale marks genuine causal contact" and "Each retrieval makes the memory labile", both contradicting the target article's own concessions, the second refuted outright by Kida 2020 ("a retrieved memory is not always destabilized"); (c) `diachronic-agency-and-personal-narrative` asserts agency *requires* narrative in body and `description:` while Galen Strawson is absent from the entire content corpus. Confirmed defect: Hurlburt and Petitmengin are named in prose but appear in no reference entry. ⚠️ Markostamou et al. 2026 (*Sci Rep*, DOI 10.1038/s41598-026-63043-8) is real but one day old at review time — absent from OpenAlex and EuropePMC, confirmable only at Crossref; recorded so a later pass does not call it fabricated. Disputed: the reviewer's "emotional continuity is overlooked" criticism argues the Map into a position it already holds, and Bratman is cited (though never engaged) contrary to the claim he is overlooked.
+
 ## 2026-08-04 03:34 UTC - refine-draft
 - **Status**: Success (single-locus prevalence calibration; correcting evidence already in-vault, no new research)
 - **File**: [[topics/consciousness-and-language-interface]]
