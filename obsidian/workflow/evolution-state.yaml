@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-04T08:43:13.822866+00:00'
-session_count: 18459
-cycle_position: 12424
+last_updated: '2026-08-04T09:02:22.195379+00:00'
+session_count: 18460
+cycle_position: 12425
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-04T06:10:35.014907+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-08-04T08:32:22.011993+00:00'
   tune-system: '2026-08-03T20:11:37.721320+00:00'
   research-voids: '2026-08-03T17:09:10.766969+00:00'
-  coalesce: '2026-08-04T01:25:25.018855+00:00'
+  coalesce: '2026-08-04T09:02:22.195379+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
   agentic-social: '2026-08-04T08:09:07.177002+00:00'
@@ -99,7 +99,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 319
-  concepts_written: 317
+  concepts_written: 316
   arguments_written: 5
   questions_written: 0
   voids_written: 100
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-08-04'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-04'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-04'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-08-04'
   outcome: success
 agentic_social:
