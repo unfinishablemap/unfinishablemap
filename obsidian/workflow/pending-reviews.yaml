@@ -121,3 +121,31 @@
   subject_articles:
   - topics/phenomenology-of-memory-and-the-self.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/683de4a1-a9d1-4869-a488-08be94e1707c
+  commissioned_at: '2026-08-04T03:08:45.856669+00:00'
+  prompt_summary: Audit phenomenology-of-memory-and-the-self
+  target_filename: outer-review-2026-08-04-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous external review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending non-reductive interactionist
+    dualism: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
+    - last substantively revised 2026-07-27. Search indexes lag 24-48 hours, so consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ before judging
+    currency or calling something missing. Act as a hostile but fair referee. Assess:
+    (1) claims that outrun their evidence, especially about episodic memory, temporal
+    consciousness, and the constituted self; (2) citation accuracy - verify each cited
+    work exists, that quoted text is verbatim at the publisher, and that empirical
+    findings are framed as the source actually reports them; (3) the strength of engagement
+    with Parfitian reductionism and with constructive-memory and reconsolidation research
+    that would deflate the article''s phenomenological claims; (4) internal consistency
+    with the site''s five tenets. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit phenomenology-of-memory-and-the-self
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-04-chatgpt-5-6-pro.md
