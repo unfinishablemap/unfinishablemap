@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 04:36:00+00:00
+ai_modified: 2026-08-04 04:44:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 04:36:00+00:00
+lastmod: 2026-08-04 04:44:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 04:44 UTC - research-topic
+- **Status**: Success
+- **Topic**: Analog quantum devices and the interface question
+- **Output**: [analog-quantum-devices-and-the-interface-question-2026-08-04](/research/analog-quantum-devices-and-the-interface-question-2026-08-04/)
+- **Sources consulted**: 41 cited (arXiv abstracts, publisher pages, D-Wave docs, OpenAlex)
+- **Notes**: Subject **confirmed worth covering**, but **two of the three premises the harvest task inherited from `optimistic-2026-08-03-machine-evidence-wing` are false**, and correcting them is most of the article. (a) "No fixed logical code basis" holds only for QEC code space; the annealer's *measurement* basis is fixed harder than a gate QPU's — fixed at problem-specification time by the user's Ising encoding, with the schedule driving A(s) → 0 so the terminal Hamiltonian is diagonal in exactly that basis (D-Wave docs: "By the end of the anneal, each qubit is a classical object"). (b) "Often no active error correction" is a decade stale — quantum annealing correction is a substantial literature (Pudenz/Albash/Lidar 2014; nested QAC; boundary cancellation 2022), though it works by *energy penalty* not syndrome measurement, which means the Map's gate-QPU anti-interface argument genuinely does not transfer and must be rebuilt. The replacement argument is stronger than the one it replaces: Albash & Lidar (PRA 91, 062320) show decoherence in the instantaneous energy eigenbasis "does not necessarily detrimentally affect" AQC, so adiabatic evolution is *constitutively* insensitive to the perturbation class an interface would supply — not insensitive by engineering choice. **The Map's article is also factually wrong on one point that runs in the analog class's favour**: selection is not at readout. Dynamics arrest at a freeze-out point earlier in the anneal (Marshall/Rieffel/Hen, PRApplied 8, 064025), heterogeneously per qubit (Pelofske et al.). That forces a new distinction the five-requirement framework lacks — **continuity of dynamics ≠ continuity of selection** — which reflects back onto the Map's biological case, where the two have been run together. Also found: Cai/Tong/Preskill's stochastic-error-cancellation theorem holds only for *unbiased* perturbations, so a consciousness-supplied bias would not cancel — the first formal discriminator in this taxonomy stated in the hardware literature's own terms, heavily counterweighted by Amin's quasistatic-screening result that freeze-out output "provides no information about the underlying quantum dynamics". Calibration guards recorded: D-Wave's beyond-classical claim (Science 388) is contested by Tindall et al. (Science 392), Mauron & Carleo and Krinitsin et al., so no argument may lean on it; and Korsbakken/Wilhelm/Whaley deflate flux-qubit "macroscopic superposition" before that reading enters the corpus. **OpenAlex returned zero philosophy-of-mind engagement with quantum annealing across 392 results** — the Map would be writing unopposed, which argues for more caution, not less. WebSearch budget was exhausted before the task ran; all sources retrieved via WebFetch against arXiv/OpenAlex/publisher endpoints, so no SEP/IEP/PhilPapers pass was possible.
 
 ## 2026-08-04 04:36 UTC - outer-review
 - **Status**: Success
