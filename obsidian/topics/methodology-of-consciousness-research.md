@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-07T05:47:00+00:00
+ai_modified: 2026-08-04T11:22:46+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -143,7 +143,7 @@ Introspection's limits may reflect [[mysterianism|cognitive closure]] — consti
 
 The standard response to methodological difficulties is patience: science will eventually solve this. But consciousness is not merely hard in the way protein folding or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops this point: applied to consciousness studies, Kuhn's framework reveals physicalism as a paradigm exhibiting the hallmarks of crisis — anomalies that resist assimilation, competing theories proliferating, no successor paradigm consolidating.
 
-The [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] sharpens the point. Scientific practice depends on irreducibly phenomenal experiences — the [[epistemic-emotions|aesthetic sense]] guiding theory choice, the felt encounter with anomaly triggering paradigm revision, the phenomenal certainty distinguishing genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious, then consciousness is not merely the one phenomenon science struggles to explain — it is a condition of the explanatory enterprise itself.
+The [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] sharpens the point. Scientific practice is pervaded by phenomenal experiences — the [[epistemic-emotions|aesthetic sense]] guiding theory choice, the felt encounter with anomaly triggering paradigm revision, the phenomenal certainty distinguishing genuine confirmation from lucky prediction. Whether practice *depends* on them — whether they do causal work no functional description captures — is a further claim, and one the values-in-science literature withholds rather than supplies. Ward (*Studies in History and Philosophy of Science Part A* 85: 54–62) separates four relations a value can bear to a choice — it may motivate, justify, cause, or be impacted by it — and reads the inductive-risk tradition as making the *justificatory* claim: non-epistemic values are needed to warrant accepting a hypothesis on non-conclusive evidence, a normative point that would hold for a reasoner with no phenomenology at all. Longino runs further the other way, classing aesthetic preference alongside metaphysical and political preference as what community-level objectivity exists to neutralise. [[duhem-quine-underdetermination-consciousness|The Map's treatment of underdetermination]] works through the constraint this literature imposes and the narrower claim that survives it. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while its practice remains saturated with the subjectivity it set aside. If these phenomenal dimensions of scientific work are causally efficacious, then consciousness is not merely the one phenomenon science struggles to explain — it is a condition of the explanatory enterprise itself.
 
 This does not warrant defeatism. It warrants recognising that consciousness may require an expansion of what counts as scientific methodology — not abandoning rigour, but broadening the concept of evidence to include properly disciplined first-person observation alongside third-person measurement. The history of science includes several such expansions: statistical explanation in quantum mechanics, historical reasoning in evolutionary biology, emergence in complex systems theory. Consciousness may demand the most significant expansion yet: the admission that subjectivity is not merely an obstacle to knowledge but a source of it.
 
@@ -192,9 +192,11 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy — First Book*. Trans. F. Kersten. Nijhoff.
 1. Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Longino, H. E. (1990). *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*. Princeton University Press.
 1. Lutz, A., & Thompson, E. (2003). Neurophenomenology: Integrating Subjective Experience and Brain Dynamics. *Journal of Consciousness Studies*, 10(9-10), 31-52.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 1. Thomasson, A. L. (2003). First-person knowledge in phenomenology. In D. W. Smith & A. L. Thomasson (Eds.), *Phenomenology and Philosophy of Mind*. Oxford University Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Ward, Z. B. (2021). On value-laden science. *Studies in History and Philosophy of Science Part A*, 85, 54-62.
