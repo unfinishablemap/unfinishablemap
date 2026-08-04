@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T09:40:00+00:00
+ai_modified: 2026-08-04T09:45:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 09:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mind-arena]]
+- **Word count**: 1358 → 1380 (+22), 55% of the 2500 soft threshold — below threshold, normal mode
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Low issues addressed**: 2
+- **Enhancements made**: 0 (converged article; no expansion attempted)
+- **Selection context**: score 94, 61 days since last review. The body was **unchanged** since the 2026-06-04 review — the only delta was the 09:20Z `topics:` frontmatter fill. The expected outcome was a no-op pass; it was not the actual outcome, because the productive lens for a body-stable article whose claims are *about* sibling articles is source-structure and internal-quote drift.
+- **Critical — factual error about the source's structure**: the article called `topics/dualism-as-ai-risk-mitigation.md` "the term's primary home, where it appears across **all five** sub-arguments". The source enumerates **six** (`The first…` through `The sixth sub-argument`, L54/62/72/86/100/114), and "mind-arena" appears in only five of them — the fifth, §Unbounded Impact and Active Protection (L98–111), contains **zero** occurrences, using the short forms "the arena" / "arena-mediated". Corrected to "where it recurs across five of the six numbered sub-arguments." `git show 1270b5439^` confirms the source had six sub-arguments and the same zero-occurrence fifth section on the article's creation date, so this was an **original defect, not drift** — it survived the same-day fresh-create audit, which checked quotes and dates but not structural claims *about* a source. Consistent with `fresh-create-defect-tail`.
+- **Medium — distributed quote misattribution**: the article attributed both "mind-arena consequences" and "uncomputable rather than merely intractable" to *both* `machine-consciousness` and `apex/machine-question`. Neither contains both: `machine-consciousness` L245 reads "uncomputable **(not merely intractable)** for any physical-state-only model"; `apex/machine-question` L213 has the "rather than merely" phrasing but its subject is "consequence-distributions there". Rewritten so each quoted span sits with the article that actually contains it, and both replacement spans were chosen to be **raw-grep-contiguous** (`grep -c` = 1 against each unmodified source) per `quote-must-be-grep-verifiable-in-raw-source` — the prior wording greped 0 in either file and would read as fabricated to a future checker.
+- **Low — dropped source qualifier**: "even a vanishingly narrow channel suffices" → "even a vanishingly narrow channel **that does genuine work** suffices", restoring the source's own qualifier (L138); without it the sentence can be read as licensing a zero-efficacy channel.
+- **Low — banned prose construct**: "The mind-arena is not a synonym. It is defined extensionally…" instantiated the proscribed "This is not X. It is Y." pattern; merged to one colon-joined sentence, wording otherwise untouched.
+- **Reasoning-mode (editor-internal)**: no named-opponent replies. The single framework-level engagement (the physicalist, §Honest Tenet-Alignment) is **Mode Three — framework-boundary marking**: the article states a physicalist "owes no such domain" and the arena "collapses to the empty set", declaring the disagreement rather than claiming in-framework refutation. No boundary-substitution; no label leakage (grep for all forbidden editor labels: none).
+- **Calibration**: no possibility/probability slippage. The article correctly declines to place the mind-arena on the five-tier scale, treating it as a definitional construct whose credence tracks the presupposed tenets. Per the prior review's stability note this is **resolved** — not re-litigated.
+- **Citation verify**: single reference, *internal* Map article, References block unmodified since last deep-review — external web-verify not applicable; the internal-citation channel was verified instead. Southgate & Oquatre-sept (2026-05-06) → **real-correct**, resolves to the live source whose `created:` matches the cited date. Full 11-entry internal-quote ledger re-greped against **current** siblings is in the review archive; 10 real-correct, 1 misattributed-and-corrected.
+- **Other lenses**: `find_superlative_claims` → empty (no currency sweep needed); `evaluate_anchoring` → `[]`; all 13 wikilink targets resolve; `ai_system` **held** at `claude-opus-4-8` (targeted fidelity fixes, not co-authorship).
+- **Output**: [[reviews/deep-review-2026-08-04-mind-arena]]
 
 ## 2026-08-04 09:40 UTC - refine-draft
 - **Status**: Partial (triaged against the hard ceiling — deferrals named below)
