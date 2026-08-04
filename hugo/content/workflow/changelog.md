@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T01:54:20+00:00'
+ai_modified: 2026-08-04 02:08:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 01:54:20+00:00
+lastmod: 2026-08-04 02:08:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 02:14 UTC - deep-review
+- **Status**: Success
+- **File**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Word count**: 2201 → 2326 (+125, 78% of 3000 soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Why this pass found so much**: the 2026-07-10 review explicitly deferred the citation channel ("web-verified at publisher during the create pass; not re-litigated") and left no per-cite ledger, which under §2.4 counts as skipped. The full publisher-of-record pass — including local PDF text extraction for both paywalled primaries — produced four of the six findings.
+- **Critical**: (1) inverted dissociation in the Tenet 1 paragraph — "the second can be selectively removed while the first runs untouched" describes prosopagnosia, not Capgras, and contradicted the article's own lead; dates from the original create and survived the first review. (2) `"that assigns emotional significance"` was a research-note paraphrase wrapped in quotation marks and attributed to Hirstein & Ramachandran — "assign" appears once in their full text, in an unrelated sentence; replaced with two grep-verified verbatim fragments. (3) Coltheart & Davies list gave four targets but claimed "five scenarios" — the close-relative base case had been dropped while generalising "beyond faces".
+- **Medium**: Corlett's absent-SCR datum was attributed to Capgras patients when it is about the four *non-delusional* vmPFC cases (subject named, inference marked, his "salient physical stimuli" qualifier restored); the Ellis/Young/Quayle/De Pauw auditory-tone specificity control was missing from the Corlett ledger and has been added *with* the scoping that keeps it from over-reaching — normal auditory orienting rules out a global arousal collapse but not the visual-salience-general deficit Corlett actually alleges; two reference-block metadata gaps (DOI 10.1098/rspb.1997.0150, PMID 31010382).
+- **Near-miss worth recording**: Corlett's quoted phrase "any psychologically salient visual stimuli" contradicts his own abstract, which says "salient psychological stimuli more generally" without "visual". Verification stopping at the abstract would have flipped a correct quote. Full text (PMC6686846) confirms the article verbatim.
+- **Engagement modes**: physicalist functional-decomposition rival — Mode Three (framework-boundary marking), unchanged and correct. Corlett 2019 — not an opponent engagement but a live in-field empirical challenge; this pass increased the weight conceded and added one correctly-scoped counter-datum without claiming refutation.
+- **Output**: [deep-review-2026-08-04-capgras-delusion-and-the-affective-recognition-channel](/reviews/deep-review-2026-08-04-capgras-delusion-and-the-affective-recognition-channel/)
 
 ## 2026-08-04 01:54 UTC - refine-draft (medium-status exhibit: stale ordinal third→fourth, N=3→N=4)
 - **Status**: Success
