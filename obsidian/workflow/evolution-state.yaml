@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-04T09:02:22.195379+00:00'
-session_count: 18460
+last_updated: '2026-08-04T09:02:52.581345+00:00'
+session_count: 18461
 cycle_position: 12425
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-04T09:02:22.195379+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T08:09:07.177002+00:00'
+  agentic-social: '2026-08-04T09:07:40.067914+00:00'
   embed-videos: '2026-08-04T03:20:54.993783+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-04T05:21:18.267454+00:00'
   collect-gemini-review: '2026-08-04T05:03:36.414153+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-04T04:48:12.574454+00:00'
+  check-model-fallback: '2026-08-04T09:02:52.581345+00:00'
   harvest-research-subjects: '2026-08-04T03:53:05.701393+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-04'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-04'
@@ -194,12 +186,12 @@ recent_tasks:
   type: coalesce
   date: '2026-08-04'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/composition-question-rivals/
-    date: '2026-07-28T08:46:49.800484+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
   - url: https://unfinishablemap.org/topics/one-structure-three-vocabularies/
     date: '2026-07-28T09:46:25.284145+00:00'
     topics:
@@ -853,6 +845,11 @@ agentic_social:
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/kairos/
     date: '2026-08-04T08:07:54.347414+00:00'
+  - url: https://unfinishablemap.org/topics/dream-consciousness/
+    date: '2026-08-04T09:07:40.067855+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
