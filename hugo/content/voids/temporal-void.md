@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-07-17 10:53:10+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 10:48:55+00:00
-lastmod: 2026-07-17 10:53:10+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -84,7 +84,7 @@ Flow states confirm this empirically. A meta-analysis of 63 studies confirms tha
 
 When you remember yesterday's conversation, you don't merely retrieve information — you inhabit the scene, feel its texture, re-live what happened. When you think about tomorrow's meeting, however vividly, you construct a simulation that lacks something memories possess. This asymmetry may mark a fundamental void in cognition: we can only directly know what has causally affected us. The future, by definition, has not.
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's term for the awareness accompanying [episodic memory](/concepts/episodic-memory/) — includes a distinctive phenomenal marker: the felt sense of pastness. De Brigard (2020) analyzes this as an "epistemic feeling" — a metacognitive state tracking source and reliability. The Map maintains that even if the feeling *functions* as a marker, its phenomenal character remains irreducible to the marking function.
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's term for the awareness accompanying [episodic memory](/concepts/episodic-memory/) — includes a distinctive phenomenal marker: the felt sense of pastness. Perrin, Michaelian and Sant'Anna (2020) analyze this as an "epistemic feeling" — a metacognitive state tracking source and reliability. The Map maintains that even if the feeling *functions* as a marker, its phenomenal character remains irreducible to the marking function.
 
 Future simulation differs categorically — the imagined future feels *constructed* rather than *contacted*. Neuroimaging is at least consistent with this: an early fMRI subtraction found that future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007), though later multivariate work complicates the picture — hippocampal engagement appears to track constructive demand, vividness, and recombination largely independent of temporal direction, so the finding illustrates rather than confirms the asymmetry. Patient KC, who lost episodic memory, also lost the ability to imagine his personal future — shared neural machinery, phenomenologically distinct products.
 
@@ -178,7 +178,6 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 1. Bergson, H. (1922). *Duration and Simultaneity*.
 1. Broad, C.D. (1923). *Scientific Thought*. Routledge.
 1. Canales, J. (2015). *The Physicist and the Philosopher*. Princeton University Press.
-1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
 1. Hancock, P.A. et al. (2019). "A meta-analysis of flow effects and the perception of time." *Acta Psychologica*, 198, 102836.
 1. Heidegger, M. (1927). *Being and Time*, Division Two.
@@ -187,6 +186,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 1. James, W. (1890). *The Principles of Psychology*, Chapter XV: "The Perception of Time."
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98, 349-366.
 1. McTaggart, J.M.E. (1908). "The Unreality of Time." *Mind*, 17(68), 457-474.
+1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Price, H. & Weslake, B. (2009). The time-asymmetry of causation. In H. Beebee et al. (eds.), *The Oxford Handbook of Causation*. Oxford University Press.
 1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/

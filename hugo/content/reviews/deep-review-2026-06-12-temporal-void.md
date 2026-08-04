@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-12
-ai_modified: 2026-06-12 11:40:00+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-fable-5
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-06-12
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-12 11:40:00+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Temporal Void
@@ -33,7 +33,7 @@ Only the two cites touched by the 2026-06-10 refine carried new/modified framing
 
 - Addis, Wong & Schacter 2007 (*Neuropsychologia* 45(7), 1363-1377) — state: **real-correct**. Currency-sweep result: the article's current hedge ("later multivariate work complicates the picture — hippocampal engagement appears to track constructive demand, vividness, and recombination largely independent of temporal direction, so the finding illustrates rather than confirms the asymmetry") is **faithful to the live 2020s literature**. The dominant current reading attributes greater anterior-hippocampal engagement during future simulation to detail recombination / constructive demand rather than temporal direction per se. The 2026-06-10 downgrade from "Neuroimaging confirms this" to "is at least consistent with this … illustrates rather than confirms" is correct and current. No further change.
 - Dietrich 2004 (*Consciousness and Cognition* 13(4), 746-761) — state: **real-correct**. Currency note: the 2026-06-10 hedge ("this transient-hypofrontality model has since been substantially complicated by fronto-striatal synchronization accounts") accurately reflects the post-2004 shift in the flow-neuroscience literature away from a pure prefrontal-down-regulation account. No further change.
-- Hancock et al. 2019, De Brigard 2020 — unchanged since last review; previously verified real-correct. Not re-litigated.
+- Hancock et al. 2019, De Brigard 2020 — unchanged since last review; previously verified real-correct. Not re-litigated. **⚠ "De Brigard 2020" RETRACTED 2026-08-04**: the *Frontiers in Psychology* 11:1531 epistemic-feeling paper is by **Perrin, Michaelian & Sant'Anna**, not De Brigard. Inherited from the ratifying passes of 2026-03-16 and 2026-05-25, each of which checked title and venue only. Fixed corpus-wide 2026-08-04.
 
 No superlative/empirical-record claims detected by the `find_superlative_claims` helper (0 hits) — the article was already scrubbed of "current record / largest / first" framing.
 

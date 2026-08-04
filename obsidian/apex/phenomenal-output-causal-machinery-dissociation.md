@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-06-02
 human_modified: null
-ai_modified: 2026-07-14T11:12:20+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 last_deep_review: 2026-07-14T11:12:20+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -275,7 +275,7 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 41. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 42. Pratte, M. S. & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 38(6), 1591–1607.
 43. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
-44. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.
+44. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(1), e1665.
 45. Schwartz, B. L. (1999). "Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology." *Psychonomic Bulletin & Review*, 6(3), 379–393.
 46. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
 47. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.

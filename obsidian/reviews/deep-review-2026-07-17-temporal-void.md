@@ -3,7 +3,7 @@ title: "Deep Review - The Temporal Void"
 created: 2026-07-17
 modified: 2026-07-17
 human_modified: null
-ai_modified: 2026-07-17T10:48:55+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,7 +36,7 @@ Body and References block are byte-for-byte unchanged since the 2026-06-12 revie
 
 - Addis, Wong & Schacter 2007 (*Neuropsychologia* 45(7), 1363-1377) — **real-correct**; current hedge faithful to live literature (constructive-demand reading of hippocampal engagement).
 - Dietrich 2004 (*Consciousness and Cognition* 13(4), 746-761) — **real-correct**; transient-hypofrontality hedge current.
-- Hancock et al. 2019, De Brigard 2020, and the remaining stable References — previously verified real-correct across three reviews; not re-litigated.
+- Hancock et al. 2019, De Brigard 2020, and the remaining stable References — previously verified real-correct across three reviews; not re-litigated. **⚠ "De Brigard 2020" RETRACTED 2026-08-04**: the *Frontiers in Psychology* 11:1531 epistemic-feeling paper is by **Perrin, Michaelian & Sant'Anna**, not De Brigard. "Verified real-correct across three reviews" is exactly how the error survived — none of the three inspected the author field. Fixed corpus-wide 2026-08-04.
 
 No superlative/empirical-record claims detected by `find_superlative_claims` (0 hits), consistent with prior review.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-18 21:06:00+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Inaccessible Past
 archived: true
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-02 08:53:00+00:00
-lastmod: 2026-03-18 21:06:00+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 original_path: /voids/past-self-void/
 related_articles:
@@ -173,7 +173,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Patihis, L. et al. (2013). False memories in highly superior autobiographical memory individuals. *Proceedings of the National Academy of Sciences*, 110(52), 20947-20952.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
 1. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
 1. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-16 10:34:00+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Temporal Void
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-16 10:34:00+00:00
-lastmod: 2026-03-16 10:34:00+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 original_path: /voids/temporal-asymmetry-remembering-anticipating/
 related_articles:
@@ -54,7 +54,7 @@ This asymmetry matters for The Unfinishable Map because it reveals something ess
 
 Memory and future simulation share neural substrate—hippocampus, medial prefrontal cortex, posterior cingulate cortex all activate for both. Patient KC, who lost [episodic memory](/concepts/episodic-memory/), also lost the ability to imagine his personal future. Yet despite shared architecture, the phenomenological products differ.
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard (2020) analyzes this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. Perrin, Michaelian and Sant'Anna (2020) analyze this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
 
 Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). The extra constructive work is phenomenologically manifest.
 
@@ -151,10 +151,10 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 ## References
 
 1. Addis, D.R., Wong, A.T. & Schacter, D.L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. *Neuropsychologia*, 45(7), 1363-1377.
-1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Hoerl, C. (2018). Remembering past experiences. In K. Michaelian et al. (eds.), *New Directions in the Philosophy of Memory*. Routledge.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98, 349-366.
+1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Price, H. & Weslake, B. (2009). The time-asymmetry of causation. In H. Beebee et al. (eds.), *The Oxford Handbook of Causation*. Oxford University Press.
 1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-21 07:51:07+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-01-21
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-21 07:51:07+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -255,4 +255,4 @@ Based on this research, a voids article could:
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 - Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
 - Internet Encyclopedia of Philosophy. Phenomenology and Time-Consciousness. https://iep.utm.edu/phe-time/
-- De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+- Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.

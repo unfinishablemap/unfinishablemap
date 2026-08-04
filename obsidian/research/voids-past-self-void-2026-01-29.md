@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Past Self Void"
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T17:00:00+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 draft: false
 target_section: voids
 topics:
@@ -243,7 +243,7 @@ Based on this research, a voids article could:
 3. ScienceDirect. "Autonoetic Consciousness." https://www.sciencedirect.com/topics/neuroscience/autonoetic-consciousness
 4. Stanford Encyclopedia of Philosophy. "Personal Identity and Ethics." https://plato.stanford.edu/entries/identity-ethics/
 5. Patihis, L. et al. (2013). "False memories in highly superior autobiographical memory individuals." *PNAS*. https://www.pnas.org/doi/10.1073/pnas.1314373110
-6. De Brigard, F. (2020). "The Phenomenology of Remembering Is an Epistemic Feeling." *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7350950/
+6. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). "The Phenomenology of Remembering Is an Epistemic Feeling." *Frontiers in Psychology*, 11, 1531. https://pmc.ncbi.nlm.nih.gov/articles/PMC7350950/
 7. Wikipedia. "Narrative Identity." https://en.wikipedia.org/wiki/Narrative_identity
 8. Knowable Magazine. "A strong sense of self-continuity can improve health and well-being." https://knowablemagazine.org/content/article/mind/2024/self-continuity-connecting-with-your-past-and-future-selves
 9. Wikipedia. "Impermanence (Buddhism)." https://en.wikipedia.org/wiki/Impermanence_(Buddhism)

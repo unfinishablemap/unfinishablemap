@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot directly access our own past
 created: 2026-01-29
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-18T21:06:00+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 last_deep_review: 2026-03-02T08:53:00+00:00
 draft: false
 topics:
@@ -170,7 +170,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Patihis, L. et al. (2013). False memories in highly superior autobiographical memory individuals. *Proceedings of the National Academy of Sciences*, 110(52), 20947-20952.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
 1. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
 1. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/

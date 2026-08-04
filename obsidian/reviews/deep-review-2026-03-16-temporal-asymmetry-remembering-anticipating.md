@@ -3,7 +3,7 @@ title: "Deep Review - The Asymmetry Between Remembering and Anticipating"
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-03-16T10:34:00+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -66,7 +66,7 @@ All six adversarial personas engaged. All objections are bedrock philosophical d
 
 All checks passed:
 - Tulving autonoetic consciousness: correctly attributed ✓
-- De Brigard (2020) "epistemic feeling": matches paper title ✓
+- De Brigard (2020) "epistemic feeling": matches paper title ✓ — **⚠ VERDICT RETRACTED 2026-08-04. WRONG AUTHOR, and this check missed it.** The paper is by **Perrin, D., Michaelian, K., & Sant'Anna, A.** (Crossref `10.3389/fpsyg.2020.01531`; PMID 32719642). Title, journal, volume and article number were all correct, so a title-and-venue match returned ✓ while the author field was never inspected. Fixed corpus-wide 2026-08-04. Do not re-inherit this ✓.
 - Patient KC: well-documented in literature ✓
 - Price time-asymmetry of causation: correctly cited ✓
 - Husserl retention/protention: standard ✓

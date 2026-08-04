@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 05:31:39+00:00
+ai_modified: 2026-08-04 05:41:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 05:31:39+00:00
+lastmod: 2026-08-04 05:41:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 05:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/) (+ 5 sibling files, 5 review files, all Hugo mirrors)
+- **Changes**: Corpus-wide correction of a verified author misattribution. *The Phenomenology of Remembering Is an Epistemic Feeling*, *Frontiers in Psychology* 11, 1531 (DOI `10.3389/fpsyg.2020.01531`) was attributed to **De Brigard, F. (2020)**. Crossref re-verified live this pass: the authors are **Denis Perrin, Kourken Michaelian, André Sant'Anna**; title, journal, volume and article number were all correct, which is exactly why three prior passes ratified it. Independently corroborated by PMID 32719642 and by `deep-review-2026-06-25-inaccessible-past`, which had caught and fixed the same error in one file in June without the sweep being generalised.
+- **Loci fixed (6 source files, 5 Hugo mirrors)**: `voids/temporal-void` L83 body + reference (reference re-sorted from D to P to keep the list alphabetical); `archive/voids/temporal-asymmetry-remembering-anticipating` L54 body + reference (also re-sorted); `archive/voids/past-self-void` reference; `research/voids-past-self-void-2026-01-29` reference (also given the missing volume/article number); `research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21` reference. **The two research notes are dated January, earlier than every article carrying the error, and are its probable origin** — fixing only the articles would have left the source live to re-propagate into any future expand/refine off those notes.
+- **Ratifying verdicts retracted**: the task named three; a re-grep found **five**. `deep-review-2026-03-16-temporal-asymmetry-remembering-anticipating` L69 ("matches paper title ✓"), `deep-review-2026-05-25-temporal-void` L27 ("No attribution errors"), `outer-review-2026-06-10-gemini-2-5-pro` L217 ("the citation itself is correct"), plus two inheritors that cited those verdicts as settled: `deep-review-2026-06-12-temporal-void` L34 and `deep-review-2026-07-17-temporal-void` L39 ("previously verified real-correct across three reviews"). Each carries an inline `⚠ RETRACTED 2026-08-04` note so the ✓ cannot be re-inherited. Gemini's own verbatim review prose was left untouched; only the Map's verification annotation was corrected.
+- **Root cause**: every prior check matched *title and venue* and stopped short of the *author field*. The parts that were right certified the part that was wrong (quote-aggregator-ratification-corrupts-verbatim, narrow-grep-zero-is-not-proof-of-absence).
+- **Durable fix — cluster-wide author-field audit**: rather than four string replacements, every Frontiers / WIREs / Phil-Trans citation in the memory cluster was re-verified at Crossref by DOI. Checked and **clean**: Schacter & Addis 2007 (`10.1098/rstb.2007.2087`), Tippett/Prebble/Addis 2018 (`10.3389/fpsyg.2018.00094`), Klein 2014 (`10.3389/fpsyg.2014.00029`), De Brigard 2024 (`10.1098/rstb.2023.0410`), Sant'Anna/Michaelian/Andonovski 2024 (`10.1002/wcs.1665`), Michaelian 2016 (`10.3389/fpsyg.2016.01857`), Cutini & Bonato 2012 (`10.3389/fpsyg.2012.00469`), Tennie/Call/Tomasello 2009 (`10.1098/rstb.2009.0052`), De Brigard & Prinz 2010 (`10.1002/wcs.27`), Sagana/Sauerland/Merckelbach 2014 (`10.3389/fpsyg.2014.00449`, authors confirmed at EuropePMC — the Crossref record has an empty author list). No second author-swap found in either direction, so the standing De Brigard ↔ Perrin/Michaelian/Sant'Anna hazard is now closed at both ends.
+- **Incidental fix**: `apex/phenomenal-output-causal-machinery-dissociation` L278 gave Sant'Anna et al. 2024 as *WIREs Cognitive Science* **15(6)**; Crossref and every sibling reference say **15(1)**. Corrected.
+- **De Brigard's own work left intact**: 2014 self-stultification (*JCS* 21(5–6)), 2024 *Phil. Trans. R. Soc. B* 379(1913) 20230410, and 2010 Prinz attention (*WIREs Cog Sci* 1(1)) are all correctly his and were not touched. Only this one paper was reassigned.
+- **Sync**: `scripts/sync.py` run so the published pages stop serving the error this cycle rather than waiting for pre-push (obsidian-only-fix-leaves-defect-live-in-hugo). Post-sync grep across `obsidian/`, `archive/` and `hugo/content/` returns zero live misattributions; 14 correct Perrin/Michaelian/Sant'Anna loci. `workflow/archive/changelog-2026-W05` hits are historical log entries and were deliberately left.
+- **Published**: yes
 
 ## 2026-08-04 05:31 UTC - deep-review
 - **Status**: Success

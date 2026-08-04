@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Asymmetry Between Remembering and Anticipati
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T07:51:07+00:00
+ai_modified: 2026-08-04T05:40:38+00:00
 draft: false
 target_section: voids
 topics:
@@ -253,4 +253,4 @@ Based on this research, a voids article could:
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 - Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
 - Internet Encyclopedia of Philosophy. Phenomenology and Time-Consciousness. https://iep.utm.edu/phe-time/
-- De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+- Perrin, D., Michaelian, K., & Sant'Anna, A. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.

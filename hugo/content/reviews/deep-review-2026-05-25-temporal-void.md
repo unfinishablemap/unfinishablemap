@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-25 12:00:00+00:00
+ai_modified: 2026-08-04 05:40:38+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-25
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-25 12:00:00+00:00
+lastmod: 2026-08-04 05:40:38+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Temporal Void
@@ -27,6 +27,7 @@ This is the third deep review. The article has converged across two prior review
 
 ### Critical Issues Found
 - None. Verified all previously-fixed citations have held: Hancock et al. (2019) for the flow meta-analysis (the earlier Stoll→Hancock misattribution stays corrected), Dietrich (2004) for hypofrontality, Addis/Wong/Schacter (2007) for hippocampal asymmetry, De Brigard (2020) for the epistemic-feeling account. No attribution errors, no dropped qualifiers, no source/Map conflation, no self-contradiction.
+- **⚠ "No attribution errors" RETRACTED 2026-08-04.** The epistemic-feeling account named above is **not** De Brigard's: *The Phenomenology of Remembering Is an Epistemic Feeling*, *Frontiers in Psychology* 11, 1531, is by **Perrin, D., Michaelian, K., & Sant'Anna, A.** (Crossref `10.3389/fpsyg.2020.01531`; PMID 32719642). This pass matched title and venue and never inspected the author field, so it certified an attribution error as clean. Fixed corpus-wide 2026-08-04.
 
 ### Medium Issues Found
 - None requiring content change. Article remains at soft-warning length (2158 words, 108% of the 2000-word voids/ target, below the 3000 hard threshold). Operated in length-neutral mode: no expansions added.
