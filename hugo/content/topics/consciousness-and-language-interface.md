@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-03 22:09:11+00:00
+ai_modified: 2026-08-04 01:04:24+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-08-03 22:09:11+00:00
+lastmod: 2026-08-04 01:04:24+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -163,7 +163,7 @@ Inner speech—the subjective experience of language in the absence of overt art
 
 ### Phenomenological Variation
 
-Not everyone experiences inner speech. The phenomenon of anendophasia—the absence of an inner voice—reveals that linguistic mentation is not a necessary feature of conscious experience. People without inner speech think, plan, create, and reflect. They are fully conscious. Their experience demonstrates that the phenomenal stream can flow without linguistic structuring.
+Inner speech varies enormously across individuals, and some people report little or none of it. Nedergaard and Lupyan proposed the name *anendophasia* for its absence in 2024; it is a recent coinage, not an established clinical category. Their studies measured verbal working memory and rhyme judgement—where the low-inner-speech group performed worse—alongside task-switching and categorical perception, where the groups did not differ. Whether anyone lacks inner speech *entirely* remains under live dispute: Lind has argued that no compelling evidence establishes complete absence, and the questionnaire self-reports used to assign the groups are precisely what is contested. The claim the Map needs is weaker than the term suggests, and it survives the dispute: reflective conscious life proceeds in people whose inner speech is greatly reduced, which is enough to show that linguistic mentation is not a necessary feature of conscious experience.
 
 Conversely, those who do experience inner speech report significant phenomenological richness: the voice has tone, pace, emotional colouring, and sometimes sounds like a specific person. This qualitative character belongs to consciousness, not to the linguistic content. The same sentence—"I need to leave"—can be experienced as anxious, relieved, or neutral depending on its phenomenal colouring. The linguistic form is invariant; the conscious experience varies.
 
@@ -183,7 +183,7 @@ Daniel Dennett, Peter Carruthers, and some Vygotskian psychologists argue that h
 
 The Map holds that this confuses correlation with constitution. Language and higher-order consciousness co-develop because both require neural maturation and social interaction—not because one generates the other. The critical test cases are revealing:
 
-**Anendophasia** suggests that reflective consciousness persists without inner speech. People who lack an inner voice still appear to engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition.
+**Greatly reduced inner speech.** People who report little or no inner voice still appear to engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition. The constitutive view owes an account of how reflection proceeds in them—and, as the discussion of anendophasia above notes, it owes that account whether or not anyone turns out to lack inner speech entirely.
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught, but the consistent pattern across documented cases suggests that reflective consciousness preceded linguistic capacity.
 
@@ -230,7 +230,7 @@ The separability of consciousness and language is not incidental to dualism—it
 - Pre-verbal and non-linguistic beings are conscious (consciousness without language)
 - Zombies are conceivable; LLMs are consistent with language production absent consciousness, though their phenomenal status remains open (language potentially without consciousness)
 - Aphasia removes language without removing consciousness across multiple dissociation patterns (the strongest empirical case for separability)
-- Inner speech varies across individuals without corresponding variation in consciousness (language is optional for conscious experience)
+- Inner speech varies enormously across individuals, and reflective conscious life proceeds at the low end of that range—even though low inner speech does track measurable costs on verbal tasks (linguistic mentation is optional for conscious experience)
 - The systematic gap between experience and expression persists across all languages and all efforts at articulation (the interface is irreducibly lossy)
 
 The empirical cases—aphasia, pre-verbal infants, non-human animals—carry the most weight because consciousness status is not in dispute. The theoretical cases (zombies) and ambiguous cases (LLMs) are consistent with dualist predictions but depend on contested premises.
@@ -245,7 +245,7 @@ The position that language and consciousness meet at a bidirectional, lossy inte
 
 **Language proved sufficient for consciousness.** If future AI systems showed convincing indicators of consciousness purely through linguistic behaviour—and if this consciousness arose *from* the linguistic processing rather than from some additional substrate—the claim that language and consciousness are ontologically separable would need revision.
 
-**The constitutive view proved correct.** If anendophasic individuals turned out to lack higher-order consciousness—contrary to their own reports—or if late-language-acquiring deaf individuals showed no pre-linguistic self-reflection, the separability thesis would weaken.
+**The constitutive view proved correct.** If moment-by-moment sampling of people who report little inner voice found their reflective episodes to be linguistically structured after all—so that the self-reports were artefact rather than data—or if late-language-acquiring deaf individuals showed no pre-linguistic self-reflection, the separability thesis would weaken. The test turns on method rather than testimony, which matters because the reliability of inner-speech self-report is itself contested.
 
 ## Relation to Site Perspective
 
@@ -285,8 +285,10 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 3. Schooler, J. W., & Engstler-Schooler, T. Y. (1990). "Verbal overshadowing of visual memories." *Cognitive Psychology*, 22(1), 36-71.
 4. Carruthers, P. (2002). "The Cognitive Functions of Language." *Behavioral and Brain Sciences*, 25(6), 657-674.
 5. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-6. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
-7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-8. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-9. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
-10. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+6. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+7. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
+8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+9. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+10. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+11. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
+12. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.

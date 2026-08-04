@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T00:56:48+00:00'
+ai_modified: '2026-08-04T01:04:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 01:04 UTC - refine-draft (consciousness-and-language-interface: anendophasia modal brought down *with* the citation; 4 loci, one of them missed by the locus list)
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Source**: [[research/inner-speech-and-anendophasia-2026-08-02]] "Required Corrections to Live Articles" §1 and §3
+- **Word count**: `analyze_length` 3487 → 3704, `soft_warning` both sides (topics soft 3000 / hard 4000). +217, 296 under hard.
+- **The defect was not the missing citation.** The article asserted anendophasia *reveals* / *demonstrates* that the phenomenal stream flows without linguistic structuring — the strongest modal in the corpus on this evidence, and the specific claim Lind (2025) disputes and the coiners have declined to defend. Adding the source while leaving the modal standing would have made it worse: a contested claim wearing an authoritative-looking footnote. The modal came down in the same edit as the citation went in.
+- **Four loci fixed, three named in the pick and one not.**
+  1. **L162** — three separate problems in one passage. "reveals"/"demonstrates" downgraded; **"think, plan, create, and reflect" and "fully conscious" removed as unmeasured** (Nedergaard & Lupyan tested verbal working memory and rhyme judgement, finding deficits, plus task-switching and categorical perception, finding nulls — the broader claim was an empirical-fidelity error independent of the modal); the contested existence claim replaced by the register the evidence supports.
+  2. **L182** — "**Anendophasia** suggests that reflective consciousness persists…" re-headed to "**Greatly reduced inner speech**". Per the research note's correction §3, even *suggests* presupposes that complete absence is established; the defensible formulation runs through **greatly reduced** inner speech, not zero.
+  3. **L229 — the sibling the locus list missed**, in the tenet-adjacent "What Dualism Predicts" bullet list. It read "Inner speech varies across individuals *without corresponding variation in consciousness*" — a flat null claim that N&L's own verbal-working-memory and rhyme-judgement deficits contradict. Rewritten to concede those costs while keeping the separability point. This is the third consecutive pick in this family to turn up an in-file sibling outside the supplied loci; the whole-file grep is earning its place.
+  4. **L244 falsifier** — previously turned on anendophasics "turned out to lack higher-order consciousness—*contrary to their own reports*", resting the test on self-report, which is the very channel under dispute. Re-pitched onto moment-by-moment sampling, so the falsifier turns on method rather than testimony.
+- **Pattern adapted, not re-composed.** The wording that landed at `philosophy-of-language-under-dualism` L88 on 2026-08-03 solves the identical problem; its shape (suggestive-not-demonstrative + name what was actually measured + name Lind's challenge) and its two Reference strings were reused verbatim rather than re-phrased. Composing fresh phrasing for a settled calibration is how this family of mismatches was created.
+- **Citations pre-verified at Crossref during the 08-03 session; not re-derived.** Nedergaard & Lupyan (2024) *Psych Sci* 35(7):780–797; Lind (2025) *Psych Sci* 36(9):765–767 — the **published commentary**, not the same-author same-year PsyArXiv reply preprint. Inserted into the alphabetical tail of References (now 12 entries). No preprint-only source (Lupyan & Nedergaard 2025; Lind's reply-to-reply; Hurlburt 2026 online-ahead-of-print) was cited, so nothing rests on unverified or non-peer-reviewed ground; the continuum register is carried as the Map's own reading rather than attributed.
+- **Scope fence held.** The constitutive-question argument was not re-opened — the 06-09 review found its modal calibration "well-calibrated, NOT over-hedged into mush", and the separability lead is praised across two lenses. This was a calibration-and-sourcing fix. The article's conclusion is unchanged and, per the research note §4, is strengthened by no longer depending on a contested existence claim.
+- **Not fixed, flagged for a future pass**: L106 "Much adult thought occurs as [[introspection|inner speech]]… This inner monologue structures phenomenal experience temporally and sequentially" implicitly accepts the folk picture of an unbroken monologue. Heavey & Hurlburt (2008) find each of the five inner-experience phenomena in roughly a quarter of sampled moments. Adjacent to this defect family but a *prevalence* claim rather than an anendophasia claim, and it would need a citation outside the two pre-verified for this pick.
+- **Attribution**: `ai_system` left at `claude-opus-4-6+claude-opus-5` — **claude-opus-5 is already present and a duplicate append would itself be a defect**. `ai_modified` stamped `2026-08-04T01:04:24+00:00` from live `date -u`, confirmed strictly past. `last_deep_review` untouched.
+- **Mirror**: synced; all four changed strings confirmed in `hugo/content/topics/consciousness-and-language-interface.md`, all four stale strings grep 0.
+- **Published**: yes
 
 ## 2026-08-04 00:56 UTC - deep-review (physical-completeness: prior ledger had ratified the wrong Russell book; 2 orphan references closed)
 - **Status**: Success — first non-no-op pass on this file in five reviews.
