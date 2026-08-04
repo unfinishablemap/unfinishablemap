@@ -4,7 +4,7 @@ description: "Anarchic hand splits authorship of action from ownership of a limb
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-08-04T05:31:39+00:00
+ai_modified: 2026-08-04T10:34:43+00:00
 last_deep_review: 2026-08-04T05:31:39+00:00
 draft: false
 topics:
@@ -57,6 +57,8 @@ That double dissociation is the structural point. If authorship and ownership ca
 
 The authorship signal can break in two directions, and anarchic hand shows only one of them. Here it is *withheld*: the movement occurs and nothing marks it as willed. The [[interpreter-module-narrative-construction-unity|left-hemisphere interpreter]] shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two cases bracket the same constructed signal from opposite sides—withheld from a movement the person's own body made, supplied for a choice the narrating system never made—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
 
+The series extends beyond the body. The alien/anarchic distinction is drawn by what the patient disowns—the limb in one case, the act in the other—and [[capgras-delusion-and-the-affective-recognition-channel|Capgras delusion]] supplies the third term, where what is disowned is the *person*. There the face is perceived accurately and identified correctly, but the affective-familiarity signal that normally accompanies the sight of a loved one is not delivered, and the patient concludes the person is an impostor. Act, limb, person: the same shape at three scales, and in each the disowned item is disowned because a felt signal the system ordinarily supplies has been withheld, not because the perceptual or motor machinery has failed. That is a parallel in interface architecture and nothing more—the temporal-limbic disconnection behind Capgras has no anatomical relation to the frontal and callosal lesions behind anarchic hand, and no shared pathway is being claimed.
+
 ## The Comparator Account, Conceded in Full
 
 The strongest reading of anarchic hand needs no non-physical element, and it must be stated at its full strength rather than dodged.
@@ -98,6 +100,7 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 ## Further Reading
 
 - [[split-brain-consciousness]] — the flagship perception-side dissociation; anarchic hand is its agency-side complement.
+- [[capgras-delusion-and-the-affective-recognition-channel]] — the third term in the disowned-object series: the act here, the limb in alien hand, the person in Capgras.
 - [[interpreter-module-narrative-construction-unity]] — the complementary failure of the same signal: authorship fabricated rather than withheld.
 - [[phenomenology-of-agency-vs-passivity]] — the felt axis of agency and passivity that anarchic hand disrupts.
 - [[control-theoretic-will]] — the comparator/forward-model treatment of will this article engages.

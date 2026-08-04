@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-08-04 02:08:29+00:00
+ai_modified: 2026-08-04 10:34:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 02:08:29+00:00
-lastmod: 2026-08-04 02:08:29+00:00
+lastmod: 2026-08-04 10:34:43+00:00
 modified: *id001
 related_articles:
 - '[[recognition-void]]'
@@ -42,6 +42,8 @@ The foundational account is Ellis and Young's (1990) affective-route hypothesis.
 The mechanism they proposed is a **disconnection**. Face perception (in the temporal and fusiform regions) stays intact and delivers an accurate percept. What is severed is the pathway carrying that percept onward to the structures that tag a recognised face with personal significance. Hirstein and Ramachandran (1997) made the anatomy explicit: a failure of communication between ventral-stream face-processing areas in the temporal lobe and "the limbic complex, especially the amygdala" — damage to the brain's ability to "attach emotional significance to a familiar face". The result is a percept stripped of its affective annotation. The patient does not experience "my familiarity module is offline" — that machinery is itself invisible to introspection, a point [inventory blindness](/concepts/inventory-blindness/) develops. They experience a person who looks exactly right and feels categorically wrong, and the felt wrongness demands an explanation the intact perceptual system cannot supply.
 
 Coltheart and Davies (2022) later generalised the trigger beyond the classic close-relative case. In their review, replacement beliefs can also target an acquaintance, a familiar voice, a pet, or a personal possession — five scenarios in all, sharing the structure of something familiar becoming, in felt terms, unfamiliar. Their restatement of the mechanism is precise: personally familiar stimuli normally activate the sympathetic nervous system far more strongly than unfamiliar ones, and in Capgras "this difference is absent." That the trigger generalises across sensory modalities matters for the Map's reading. It suggests the damaged contribution is felt-familiarity *itself* — a channel indexed to personal significance — rather than anything specific to the visual system. Whether that channel is best described as one conscious contribution or as one physical sub-system is the open question the closing sections hold open.
+
+The same architecture appears one level down, in the body. [Anarchic hand](/topics/anarchic-hand-and-action-ownership/) is distinguished from alien hand by what the patient disowns: in anarchic hand the limb is unquestionably the patient's own and the disowned thing is the *act*, which arrives without the felt signature of having been willed; in alien hand the *limb* itself feels foreign while its movements are not what is in question. Capgras is the third term in that series, and what it disowns is the *person*. Act, limb, person: one pattern at three scales. If felt authorship cannot be read off the bare fact that one's own body moved — if it is a signal the system supplies and can withhold — then the same holds for felt familiarity, which is not read off the face but delivered alongside it, and in Capgras simply not delivered. The parallel is architectural rather than anatomical: nothing connects the frontal and callosal lesions behind anarchic hand to the temporal-limbic disconnection behind Capgras, and no shared mechanism is claimed.
 
 ## The Skin-Conductance Evidence
 
@@ -85,6 +87,7 @@ This case connects to two of the Map's [tenets](/tenets/).
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Where selective disconnections across many conditions map the functional anatomy of the mind-brain interface
 - [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) — The wider pattern of phenomenal access reaching a verdict but not the verdict-issuing process
 - [inventory-blindness](/concepts/inventory-blindness/) — Why the damaged channel produces a felt wrongness but no introspective report of what is missing
+- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — The same disowning taxonomy one level down: the *act* is disowned there, the *limb* in alien hand, the *person* here
 - [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — A neighbouring pathology of self-explanation, pointed to rather than endorsed as an account of Factor 2
 - [tenets](/tenets/)
 

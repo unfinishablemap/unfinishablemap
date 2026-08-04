@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T10:28:00+00:00'
+ai_modified: '2026-08-04T10:34:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 10:28:00+00:00
+lastmod: 2026-08-04 10:34:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 10:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/) **and** [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) (reciprocal edge — both edited)
+- **Task**: Close the strongest missing edge in the four-article single-case dissociation set. Premise re-verified before editing: `grep -ci "anarchic"` over capgras returned **0** and `grep -ci "capgras"` over anarchic-hand returned **0**. Commit `60318067c` added exactly one sibling link per file across the set and did not include this pairing.
+- **Changes**:
+  1. **capgras — new body paragraph closing "The Affective-Route Mechanism"** (after the Coltheart & Davies modality-generalisation paragraph, where the "channel indexed to personal significance" claim is already established). States the disowned-object taxonomy — anarchic hand disowns the *act*, alien hand the *limb*, Capgras the *person* — and carries the mechanism-schema across: if felt authorship is a signal the system supplies and can withhold rather than something read off the bare fact that one's own body moved, the same holds for felt familiarity, which is delivered alongside the face rather than read off it. Closes by fencing the claim: "The parallel is architectural rather than anatomical … no shared mechanism is claimed."
+  2. **anarchic-hand — new body paragraph closing "Agency Is Not Ownership"** (after the withheld/fabricated interpreter pairing, so that pairing stays intact and the new material extends the series outward). Reciprocates in kind rather than as a bare see-also: Capgras as the third term, the face identified correctly while the affective-familiarity signal is not delivered, and the same fencing — "no anatomical relation … no shared pathway is being claimed."
+  3. **Further Reading entries added on both sides**, each glossed with the act/limb/person contrast rather than a bare pointer. Punctuation matched to each file's existing list convention (capgras entries take no terminal period; anarchic-hand entries do).
+- **Anchoring on live text, not the task's stale quotes**: the task quoted anarchic-hand L45–46 and L52–54 spans that the 05:31Z deep review had already rewritten; those strings no longer exist. The cross-link was anchored on the current L48 ("the phenomenon the Map cares about is *disowned action*"), L54 (the alien-hand converse), and L56/L58 (the constructed-signal move and its withheld direction). **No sibling article is quoted** — the parallel is paraphrased in both directions, which sidesteps the stale-internal-quote channel entirely.
+- **Scope held**: the shared-mechanism claim was deliberately not manufactured — both paragraphs assert a parallel in interface architecture and explicitly deny a shared lesion site or pathway. The weaker `hemispherectomy-and-the-resilience-of-unified-consciousness` ↔ `interpreter-module-narrative-construction-unity` edge was left for a later pass as instructed.
+- **Length** (`analyze_length`): capgras **2,326 → 2,519** words, anarchic-hand **2,141 → 2,312**, both `ok` against the `topics/` 4,000 hard ceiling with ~1,480 and ~1,690 words of headroom remaining.
+- **Attribution**: cross-referencing is not re-authoring, so each file's existing `ai_system` was held (`claude-opus-4-8+claude-opus-5` and `claude-opus-4-8` respectively); `ai_modified` bumped on both since both changed. Anarchic-hand's `last_deep_review` left at its 05:31Z value — this was not a deep review. Timestamps `date -u`-checked and strictly past after an initial write landed 23s in the future.
+- **Validation**: reciprocal grep now returns 2/2; both slugs confirmed unique across `obsidian/`, `archive/`, and `hugo/content/` before the wikilinks were written; sync run in-session so the fix is not obsidian-only.
+- **Published**: yes
 
 ## 2026-08-04 10:28 UTC - refine-draft
 - **Status**: Success
