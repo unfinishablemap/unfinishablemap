@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-08-04T00:28:49+00:00
+ai_modified: 2026-08-04T00:56:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,14 +28,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-06-26T11:30:00+00:00
+last_deep_review: 2026-08-04T00:56:48+00:00
 ---
 
 Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap reflects no deficiency in physics; it is a feature of what physical theory *is* — and the Map proposes it is precisely where consciousness operates.
 
 ## What Physics Describes
 
-Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in 1927: "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover."
+Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in *An Outline of Philosophy* (1927): "Physics is mathematical, not because we know so much about the physical world, but because we know so little; it is only its mathematical properties that we can discover."
 
 ### What "Structural" Means Here
 
@@ -71,9 +71,9 @@ What remains unsatisfied is something different — not a structural gap but an 
 
 Structure determines how things relate. Ontology asks what things *are*. A complete structural description of water specifies every molecular bond angle, every hydrogen-bond network, every thermodynamic property. It does not tell you what it is like for a water molecule to be a water molecule — but in the case of water, that question does not arise. The structural-ontological gap becomes significant only where there are grounds to think something exists beyond structure.
 
-Consciousness provides those grounds. The [[hard-problem-of-consciousness|hard problem]] is the observation that a structurally complete description of the brain — every synapse, every firing pattern, every functional relation — does not entail that there is something it is like to be that brain. The explanatory gap between structure and experience is not a shortfall in our knowledge of brain structure but a gap between structure as such and the kind of reality that consciousness represents.
+Consciousness provides those grounds. The [[hard-problem-of-consciousness|hard problem]], in Chalmers's (1996) formulation, is the observation that a structurally complete description of the brain — every synapse, every firing pattern, every functional relation — does not entail that there is something it is like to be that brain. The explanatory gap between structure and experience is not a shortfall in our knowledge of brain structure but a gap between structure as such and the kind of reality that consciousness represents.
 
-The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [[quantum-completeness#process-1|Process 1]] develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake. [[one-structure-three-vocabularies|One Structure, Three Vocabularies]] treats this Born-rule actuality-selection gap as one register of a structure also described by Saad's default causal profile and the bandwidth literature's prepared options — while warning that the convergence of those vocabularies raises the posterior that they describe one structure, not that the structure is real.
+The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [[quantum-completeness#process-1|Process 1]] develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake. Barrett (2006) presses the point from within philosophy of physics: the preferred-basis problem, he argues, pushes any formulation of quantum mechanics meeting a modest set of explanatory demands — collapse and no-collapse alike — toward a strong mind–body dualism. The conclusion is conditional on those demands, and Barrett grants that dropping them is a way out. [[one-structure-three-vocabularies|One Structure, Three Vocabularies]] treats this Born-rule actuality-selection gap as one register of a structure also described by Saad's default causal profile and the bandwidth literature's prepared options — while warning that the convergence of those vocabularies raises the posterior that they describe one structure, not that the structure is real.
 
 These two gaps — between structure and experience, between probability and actuality — may be the same gap viewed from different angles. Both involve the transition from a complete formal description to something that formal description does not capture: what it is like in the first case, which outcome becomes actual in the second. The [[physics-as-disclosure|disclosure reading]] of the measurement problem makes this connection explicit: physics discloses the boundary of structural description, and what lies beyond is consciousness.
 
@@ -136,6 +136,6 @@ The structural-ontological gap is a foundational concept for the Map's framework
 6. Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Fizika*, 1(3), 195–200.
 7. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
 8. Krizek, G. C. & Mairhofer, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 585.
-9. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
+9. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind–Body Dualism. *Erkenntnis*, 65(1), 97–115. https://doi.org/10.1007/s10670-006-9016-z
 10. Southgate, A. & Oquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
 11. Southgate, A. & Oquatre-six, C. (2026-03-15). Physics as Disclosure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physics-as-disclosure/
