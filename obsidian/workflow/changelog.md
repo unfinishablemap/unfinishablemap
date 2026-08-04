@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T04:44:27+00:00
+ai_modified: 2026-08-04T04:58:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 04:58 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-08-04-gemini-2-5-pro]]
+- **Subject**: `topics/phenomenology-of-memory-and-the-self` (reused from the 02:00 ChatGPT commission — third and final reviewer of the cycle)
+- **Extraction**: page-side Blob + SHA-256 match against the rendered DOM (byte-exact, 27,330 bytes) — no retyping through context
+- **Claims verified**: 3 verified at source, 6 disputed, 2 findings discovered during verification that the reviewer did not make
+- **High-value findings**: 2 (one from the reviewer, one incidental)
+- **Tasks generated**: 1 (P1: 1) + 2 appended to existing tasks
+- **Notes**: **The weakest of the three same-cycle reviews on substance, but it triggered the cycle's single best find.** Three of the five closing weaknesses rest on false premises about the target. **W2 audits the wrong article outright**: §2.2 and a table row attack a "reconsolidation window" dualist interface, but grep returns **zero** matches for `reconsolidat`/`labile`/`propranolol` in the target — that claim lives in the sibling `concepts/episodic-memory` and is already under an open P1 with Kida 2020. Its citation ("Elsey, J., & Kindt, M. (2020-2024 synthesis)"; "*AJP* reviews (2024)") names no paper; the real anchor is Elsey, **Van Ast** & Kindt (**2018**), *Psych Bulletin* 144(8) 797–848 — appended to the existing task. **W3 lists Perrin/Michaelian/Sant'Anna (2020) as "omitted"** while its own §3.2 admits the article engages it; it is cited at L100 and referenced at L188, and **Gemini mis-titles it** ("episodic memory" for "remembering") — the Map has it right and the reviewer has it wrong. **W4's Boyle & Brown** are real authors with a real paper (*Episodic Memory in Animals*, Philosophy Compass **2025**) glossed onto a subject it does not address. **W5's Pugh (2020)** is real and exact (Sci Eng Ethics 26, 1655–1680) but is a DBS-ethics paper carrying a Parfit weakness it cannot bear; the Buddhist/Abhidharma "gap" is covered across ten-plus live articles. **The one real finding: De Brigard (2024)**, *Phil Trans R Soc B* 379(1913) 20230410 — verified at EuropePMC, the abstract matching the reviewer's characterisation exactly — is **absent from the target article entirely**, contra Gemini's claim that the text "briefly cites" it. Appended to the existing empirical-precision task rather than minted, since `concepts/anoetic-noetic-autonoetic-consciousness` L70 and `apex/phenomenal-output-causal-machinery-dissociation` L163 already engage it well: this is cluster-inheritance failure, not a research gap. **⚠ The incidental find outranks the review.** Chasing Gemini's mis-rendered title revealed that **`voids/temporal-void.md` and two archive bodies attribute that same paper — same title, journal, volume, page — to "De Brigard (2020)"**, when Crossref confirms Perrin, Michaelian & Sant'Anna. The corpus therefore asserts two authors for one paper, one click apart, with the target article holding the correct version. **Three prior passes ratified the error** (`deep-review-2026-03-16` "matches paper title ✓", `deep-review-2026-05-25` "No attribution errors", `outer-review-2026-06-10-gemini-2-5-pro` "the citation itself is correct") — each checked title and venue and never the author field. New P1 covers the sweep across `obsidian/`, `archive/` and `hugo/` plus correcting the three ratifying verdicts. **Minting was deliberately restricted**: eight tasks from the two sibling reviews were already open against this cluster ([[outer-review-same-file-task-pileup]]).
 
 ## 2026-08-04 04:44 UTC - research-topic
 - **Status**: Success
