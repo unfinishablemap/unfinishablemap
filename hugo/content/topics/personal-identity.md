@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-08-02 12:03:00+00:00
+ai_modified: 2026-08-04 02:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-08-02 12:03:00+00:00
+lastmod: 2026-08-04 02:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ A critic will press an apparent inconsistency. The [No Many Worlds](#the-no-many
 
 ### Evidence from Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, "too much separation" to count straightforwardly as one.
+[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present too much unity to count as two minds, too much separation to count straightforwardly as one.
 
 If consciousness were merely brain processes, complete disconnection should produce complete division. A 2025 PNAS study constrains how far that reading can be pressed: a centimetre of spared posterior callosal fibre sustains full interhemispheric integration, while complete section does disrupt network organisation (Santander et al. 2025). Residual integration is thus physically explicable, so the argument cannot rest on connectivity measures. What survives is narrower: despite perceptual fragmentation, patients report a single first-person perspective—suggesting indexical identity is a different thing from the computational binding physical connections enable.
 

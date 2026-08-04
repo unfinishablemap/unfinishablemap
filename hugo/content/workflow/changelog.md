@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 02:27:24+00:00
+ai_modified: 2026-08-04 02:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 02:27:24+00:00
+lastmod: 2026-08-04 02:36:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 02:36 UTC - refine-draft
+- **Status**: Success (closes the last quoted straggler of the Nagel/SEP fabricated-quote family)
+- **File**: [personal-identity](/topics/personal-identity/) (1 changed)
+- **Scope**: two-fragment de-quote at L130 only. No other edit; scope deliberately not expanded.
+- **What was wrong**: L130 read *such cases present "too much unity" to count as two minds, "too much separation" to count straightforwardly as one*, attributed to "Nagel (1971) observed". The prior pass (02:30 UTC entry below) designated this file a **control** on the ground that split fragments are verbatim-safe by construction — but that pass's own primary-source verification voided the justification. The wording is the **Stanford Encyclopedia of Philosophy's own prose** characterising Nagel (*Unity of Consciousness*, Summer 2001 archive: "Nagel goes so far as to claim that…"); SEP reads **"too much splitting"**, not "separation"; and Nagel's own term is **"minds"**, not "centres of consciousness" (JSTOR snippet: "…nor any conclusion involving the ascription to them of a whole number of minds"). **"Too much separation" therefore appears in no primary source** — not in Nagel, not even in SEP. Fragment-splitting protects against unmarked elision, not against a phrase nobody wrote; the fragments quoted a fabrication.
+- **Fix applied**: quotation marks dropped; attribution and sentence retained as attributed paraphrase — *such cases present too much unity to count as two minds, too much separation to count straightforwardly as one*. The asyndetic parallel was kept rather than inserting a connective, so the edit is exactly word-neutral. SEP's "splitting" was **not** substituted: SEP is itself paraphrasing, so quoting it would attribute SEP's words to Nagel.
+- **Corpus state**: the four unquoted-paraphrase files (`concepts/unity-of-consciousness` L90, `archive/concepts/phenomenal-unity` L98, `archive/concepts/phenomenal-binding-and-holism` L132, `topics/consciousness-and-the-metaphysics-of-individuation` L55) were left untouched — they are correct *because* four earlier reviews already de-quoted them. The corpus now converges on paraphrase with no quoted instance left in any article body.
+- **Residue named, not edited**: quoted forms survive only in the editorial record — `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40, `workflow/archive/changelog-2026-W22` L2010, and the task notes in `workflow/todo.md` L57/L2260. These are historical records of what the articles said, not article prose; correcting them would falsify the audit trail. Noted here so a future sweep does not read them as live defects.
+- **Attribution**: `ai_system` held unchanged — a quote-marking correction is not re-authoring.
+- **Length**: 4,069 w before → **4,069 w after** (net-zero; only four quote marks removed). File remains at `hard_warning` against the 4,000-word topics ceiling. **Pre-existing and out of scope** — not condensed, and no condense successor minted from this pass.
+- **Synced to hugo in-session**; mirror verified at `hugo/content/topics/personal-identity.md`.
+- **Published**: yes
 
 ## 2026-08-04 02:30 UTC - refine-draft
 - **Status**: Success (task premise overturned by primary-source verification — fix direction reversed)

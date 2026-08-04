@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-02T12:03:00+00:00
+ai_modified: 2026-08-04T02:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ A critic will press an apparent inconsistency. The [[#the-no-many-worlds-connect
 
 ### Evidence from Split-Brain Cases
 
-[[split-brain-consciousness|Split-brain patients]] provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, "too much separation" to count straightforwardly as one.
+[[split-brain-consciousness|Split-brain patients]] provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present too much unity to count as two minds, too much separation to count straightforwardly as one.
 
 If consciousness were merely brain processes, complete disconnection should produce complete division. A 2025 PNAS study constrains how far that reading can be pressed: a centimetre of spared posterior callosal fibre sustains full interhemispheric integration, while complete section does disrupt network organisation (Santander et al. 2025). Residual integration is thus physically explicable, so the argument cannot rest on connectivity measures. What survives is narrower: despite perceptual fragmentation, patients report a single first-person perspective—suggesting indexical identity is a different thing from the computational binding physical connections enable.
 
