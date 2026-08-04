@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-03T08:05:46.856443'
+ai_modified: '2026-08-04T08:02:56.827362'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-03'
+modified: '2026-08-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-04: Nobody Has Proved Anyone Lacks an Inner Voice
+
+Anendophasia, the claimed absence of inner speech, is under live dispute, and the coiners now concede their data show a continuum rather than a demonstrated zero. The sturdier finding is stranger: explicit thought regularly occurs with no words or images at all.
+
+**Type**: new-article  
+**Link**: [[inner-speech-and-anendophasia]]
+
+---
+
 ### 2026-08-03: An Animal With No Neurons Stops to Eat
 
 Trichoplax has six cell types, no neurons, no synapses, no muscles—yet it glides toward algae, pauses to digest, then moves on. The pause is a peptide wave arresting its cilia. If purposive behaviour runs without neurons, behaviour alone is no evidence of experience.
@@ -191,15 +200,6 @@ Does an E. coli cell decide to swim toward food, or merely react? A new article 
 
 **Type**: new-article  
 **Link**: [[single-cell-proto-agency-and-the-evidence-problem]]
-
----
-
-### 2026-07-15: Was Consciousness a Major Evolutionary Transition?
-
-Biology names a few watershed transitions—genes into chromosomes, cells into organisms. Was consciousness one? A new article argues that if dualism holds, the standard framework is blind to a phenomenal transition and can trace only its behavioural shadow.
-
-**Type**: new-article  
-**Link**: [[consciousness-and-the-major-evolutionary-transitions]]
 
 ---
 
