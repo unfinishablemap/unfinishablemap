@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 06:57:00+00:00
+ai_modified: 2026-08-04 07:16:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 06:57:00+00:00
+lastmod: 2026-08-04 07:16:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 07:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
+- **Review file**: [outer-review-2026-08-04-chatgpt-5-6-pro](/reviews/outer-review-2026-08-04-chatgpt-5-6-pro/) §1.5 and §"From narrative-identity theory" (convergent with [outer-review-2026-08-04-gemini-2-5-pro](/reviews/outer-review-2026-08-04-gemini-2-5-pro/) on the verdict; ChatGPT's leg used for sourcing per the task note, Gemini's Boyle & Brown cite not used — real paper, wrong subject)
+- **Original score**: not scored — the skill's step 3 calls `scripts/curate.py review`, which does not exist in this tree. Third consecutive pass to hit this stale reference (see the 06:42 `episodic-memory` entry and the sentientism pass). `analyze_length` and `validate.py` supplied the mechanical checks; the outer review's verified findings drove the pass.
+- **The defect**: L102 asserted "diachronic agency requires narrative structure as a constitutive element, not merely an optional accompaniment" — verified verbatim by the reviewer. The same necessity claim sat on the `description:` navigation surface, and the article never once linked [narrative-void](/voids/narrative-void/), the sibling that already holds the standing objection to exactly that thesis (grep confirmed zero references). The strongest form of the finding is therefore **internal inconsistency**, not an uncovered gap.
+- **Gap claim in the minted task was false and was not acted on.** The mint asserted Galen Strawson is absent from the corpus and that "Against Narrativity" is unengaged. Both wrong: Galen Strawson runs through `the-self-minimal-narrative-and-substantial` L89 (thin subject), `self-and-self-consciousness` L123 (transience thesis), `explanatory-gap`, `panpsychisms-combination-problem`, and the two Strawsons are explicitly disambiguated in `reactive-attitudes-and-strawsonian-responsibility` L30/L75. `voids/narrative-void` L82 already states the episodic/diachronic distinction with a verbatim self-report quote and carries the full Ratio 2004 reference at L124. **No fresh Strawson coverage written and no new quotation sourced** — the existing vault-verified quote was reused and the argument drawn from the sibling (quote-must-be-grep-verifiable-in-raw-source; quote is plain text in the raw source, no wikilink or emphasis breaking contiguity).
+- **Bratman check before repeating the reviewer's wording.** The review says Bratman is overlooked; he is in fact at L148 of the reference list and developed at length in [wholeheartedness-void](/voids/wholeheartedness-void/) and two research notes. The real defect was that he was never engaged in the body. The repair cites the existing treatment rather than introducing him as new, and does not say the Map had not considered him.
+- **Changes**:
+  1. New section **"Non-Narrative Routes to Coordination"** — states Strawson's two prongs, concedes the descriptive prong against the constitutive claim, then sets out the plural model: Bratman's plans and policies (cross-linked to the Map's existing reading), standing values, semantic self-knowledge, SDAM (cross-linked to `episodic-memory#Clinical and Non-Clinical Dissociations`, the corpus's own verified treatment), habit, embodiment, social scaffolding.
+  2. **L102 rewritten** — the breakdowns now show how much work narrative does *in the lives that rely on it*, and are explicitly denied the stronger reading, since each pathology disrupts plans and standing values alongside the story.
+  3. **`description:` rewritten** — the necessity claim removed from the navigation surface, per navigation-surfaces-carry-unreviewed-claims.
+  4. **Lead paragraph rewritten** to front-load the weaker claim with a named-anchor forward reference; section heading "Narrative as *the* Structure" → "as *a* Structure".
+  5. **Four downstream necessity claims generalised**: the autonoetic paragraph ("constitutive of diachronic agency" → makes the narrative route compelling but is not a precondition), the two-level structure in "Narrative and the Substantial Self", the Bidirectional Interaction and Minimal Quantum Interaction tenet paragraphs, and the moral-responsibility entailment chain. The Occam paragraph previously listed habit as something parsimony would wrongly appeal to; it now grants habit as a genuine route and relocates the residue to the reorganisation capacity.
+  6. Frontmatter: `[[episodic-memory]]` added to `concepts:`, `[[narrative-void]]` to `related_articles:`; both plus Strawson 2004 and Palombo et al. 2015 added to Further Reading / References.
+- **Engagement classification** (editor-internal, not in the article): Strawson's **descriptive prong — conceded, not answered.** The in-framework argument ran *against* the Map: the article's own claim was defective on its own terms, so the honest move is withdrawal, not reply. Strawson's **transience thesis vs the substantial self — Mode Three**, marked explicitly as a framework-boundary disagreement, with the article stating that "Against Narrativity" does not bear on it and that the Map's case does not refute it from inside Strawson's commitments. The two disagreements are separated in the prose so the anti-narrativity argument cannot be mistaken for an objection to the substantial self. **Bratman — not an opponent**; absorbed as a complementary route. No mode labels in the body; label-leakage sweep clean.
+- **Word count**: 2670 → 3442 (+772), `analyze_length` `soft_warning` at 115% of the 3000 soft threshold. Offset ~130 words by trimming genuine redundancy (the doctor example and the obstacles paragraph merged; the Buddhist paragraph's synoptic-grasp clause was duplicated verbatim in the Occam paragraph and is now stated once). Left in the soft band deliberately rather than cutting argument: 133 of 320 `topics/` articles are `soft_warning` and 31 are `hard_warning`, so this is inside the corpus norm and no existing argument was sacrificed to a metric.
+- **Verification**: `validate.py` ✓ valid. `sync.py` exit 0 — all five new wikilinks convert to live paths, including the cross-page anchor `/concepts/episodic-memory/#clinical-and-non-clinical-dissociations` and the two same-page anchors to the new section. The defective string is gone from `hugo/content/topics/` as well as `obsidian/` (obsidian-only-fix-leaves-defect-live-in-hugo). No *"This is not X. It is Y."*, no "load-bearing", no editor vocabulary in prose.
+- **Published**: yes
 
 ## 2026-08-04 06:57 UTC - deep-review
 - **Status**: Success
