@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-04 02:24:11+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-04 11:01:37+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/brain-specialness/
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:12:20+00:00
-lastmod: 2026-08-04 02:24:11+00:00
+lastmod: 2026-08-04 11:01:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ Schechter and Bayne (2021) press a rebuttal the resilience reading must answer. 
 
 **Subject unity** — that all experiences are had by a single subject — is the most contested dimension. This is Nagel's territory: one subject or two? The indeterminacy may reflect that subject unity does not admit of degrees in the way our concepts assume.
 
-This selective pattern — partial synchronic fracture, preserved diachronic unity, indeterminate subject unity — is itself evidence that phenomenal unity is genuinely multi-dimensional rather than a single property that either holds or fails.
+This selective pattern — partial synchronic fracture, preserved diachronic unity, and a subject unity that no behavioural measure settles either way — is itself evidence that phenomenal unity is genuinely multi-dimensional rather than a single property that either holds or fails.
 
 ## Nagel's Indeterminacy Thesis
 
@@ -137,7 +137,7 @@ Split-brain cases illuminate the [binding problem](/concepts/binding-problem/) �
 
 The **duality intuition** says a split-brain patient has two minds, each with its own center of agency; the **unity intuition** says the patient remains "one of us" psychologically. Elizabeth Schechter proposes both are correct: two minds in one sense, one person in another.
 
-If consciousness exhibits partial division, what individuates subjects over time? The [individuation question](/topics/consciousness-and-the-metaphysics-of-individuation/) becomes acute, and the [vertiginous-question](/topics/vertiginous-question/) intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle: **psychological continuity** assumes continuous streams — which stream? **Biological continuity** identifies the person with the body — but the brain is divided. **Non-physical persistence** faces its own puzzle — which hemisphere "gets" the soul?
+If the split-brain evidence is read as dividing consciousness, what individuates subjects over time? The [individuation question](/topics/consciousness-and-the-metaphysics-of-individuation/) becomes acute, and the [vertiginous-question](/topics/vertiginous-question/) intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle: **psychological continuity** assumes continuous streams — which stream? **Biological continuity** identifies the person with the body — but the brain is divided. **Non-physical persistence** faces its own puzzle — which hemisphere "gets" the soul?
 
 [haecceity](/concepts/haecceity/) — the non-qualitative property of being *this* particular subject — becomes relevant. If what makes you *you* is not reducible to qualitative features, both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite perceptual division. The apex [identity-across-transformations](/apex/identity-across-transformations/) develops this: the dimension of unity most tied to indexical identity appears most resistant to physical intervention.
 
@@ -185,13 +185,13 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The fragmentation evidence supports bidirectional interaction. If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all. That disrupting integration disrupts the *expression* of consciousness is precisely what interactionist dualism predicts.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [indexical identity](/topics/personal-identity/#indexical-identity) view accommodates partial division within a single causal history more easily than infinite branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [indexical identity](/topics/personal-identity/#indexical-identity) view accommodates partial anatomical division within a single causal history more easily than infinite branching.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The physicalist reading — consciousness fragments because it is physical integration — appears simpler, but purchases a commitment that consciousness is *nothing more* than integration. The resilience of unity and the all-or-nothing character of anaesthetic loss then become coincidences rather than expected features. The apparently more complex dualist reading may be more explanatory. The demand for a "whole number" of minds fails not because there is no number but because the connectivity cannot disclose one.
 
 ## What Would Challenge This View?
 
-1. **Determinate two-mind evidence.** Completely independent autobiographical memories, conflicting life goals, or genuinely separate identities would support "two minds" over "indeterminate unity."
+1. **Determinate two-mind evidence.** Completely independent autobiographical memories, conflicting life goals, or genuinely separate identities would support "two minds" over the single determinate subject the Map holds no physical measure can count.
 
 2. **Full illusionist explanation.** Neuroscientists fully explaining reports of feeling like "one person" in terms of cognitive processes without reference to phenomenal experience.
 
@@ -205,7 +205,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 Split-brain cases, anaesthesia, and dissociation don't answer the question of consciousness — they reveal we may be asking the wrong questions. "How many minds does this patient have?" assumes the anatomy can be read for the answer. "Does consciousness split when the brain divides?" assumes consciousness has the kind of spatial extension that can split.
 
-Perhaps what the cases really show: consciousness is neither a simple unity that physical disconnection can sever, nor a collection of separate streams that physical connection binds. It is something our spatial metaphors fail to capture — something that can be partially divided while remaining somehow one. The indeterminacy itself may be a clue to what consciousness is.
+Perhaps what the cases really show: consciousness is neither a simple unity that physical disconnection can sever, nor a collection of separate streams that physical connection binds. Our spatial metaphors fail here because they are metaphors of anatomy, and on the interface reading the anatomy is the channel rather than the subject. What fragments is the channel. The Map's [individuation register](/positions/individuation-and-subjecthood/) holds the subject to be a particular that does not divide, and its count to be a determinate fact — one the connectivity is the wrong kind of thing to disclose. That unreadability is the clue: a real question survives full knowledge of the wiring, which is what one would expect if the answer was never written there.
 
 ## Further Reading
 
