@@ -1,10 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-18 16:06:06+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
-concepts: []
+concepts:
+- '[[attention-as-interface]]'
+- '[[phenomenology-of-choice-and-volition]]'
+- '[[phenomenology-of-anticipation]]'
+- '[[consciousness-and-skill-acquisition]]'
 created: 2026-06-03
 date: &id001 2026-06-03
 description: Kairos names the felt structure of the right moment to act—a not-yet/now/too-late
@@ -15,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:06:06+00:00
-lastmod: 2026-07-18 16:06:06+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
@@ -28,7 +32,10 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[attention-as-interface]]'
 title: 'Kairos: The Phenomenology of the Opportune Moment'
-topics: []
+topics:
+- '[[temporal-consciousness-structure-and-agency]]'
+- '[[phenomenology-of-agency-vs-passivity]]'
+- '[[volitional-control]]'
 ---
 
 *Kairos* is the phenomenology of the opportune moment—the felt structure of *when* to act, as distinct from the bare passage of clock time. The Greeks separated *chronos* (quantitative, sequential time, the time you count) from *kairos* (the qualitative right time, the moment whose rightness you recognise). For the agent inside a timing window, kairos has a definite phenomenal shape: a *not-yet* of gathering readiness, a *now* of ripeness in which recognition and action arrive as one stroke, and a *too-late* of foreclosed possibility. This concept page consolidates the Map's treatment of that structure—distributed across several topic articles—into a single citable node, and draws together the cross-domain exhibits (musical, surgical, conversational, martial) where the same window-shape recurs. The Map's distinctive claim, developed in the final section and flagged there as posited rather than proven, is that the *phenomenal unity* of the kairos moment is a candidate correlate of the consciousness-physics interface its tenets describe.

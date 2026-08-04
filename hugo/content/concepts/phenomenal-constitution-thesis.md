@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-26
-ai_modified: 2026-06-26 10:01:43+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:01:43+00:00
-lastmod: 2026-06-26 10:01:43+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-phenomenology]]'
@@ -27,7 +27,10 @@ related_articles:
 - '[[intentionality]]'
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 title: Phenomenal Constitution Thesis (PCT)
-topics: []
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[phenomenology-of-intellectual-life]]'
+- '[[ai-consciousness]]'
 ---
 
 The **Phenomenal Constitution Thesis (PCT)** is the claim that the phenomenal character of a conscious state—what the state is *like* to undergo—partly *constitutes* the content or meaning of that state, rather than merely accompanying, causing, or covarying with it. On this view, to grasp the meaning of a thought *is* to undergo a certain experiential character; strip the experience away and the determinate content goes with it. PCT is the load-bearing premise behind much of The Unfinishable Map's resistance to functionalist accounts of understanding: if meaning is constituted by phenomenal character, then a system without phenomenal character does not genuinely understand, however well it manipulates symbols.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 05:04:31+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-04 05:04:31+00:00
-lastmod: 2026-06-04 05:04:31+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -28,7 +28,10 @@ related_articles:
 - '[[the-interface-problem]]'
 - '[[consciousness-physics-interface-formalism]]'
 title: The Mind-Arena
-topics: []
+topics:
+- '[[consciousness-and-causal-powers]]'
+- '[[mental-causation-and-downward-causation]]'
+- '[[purpose-and-alignment]]'
 ---
 
 The **mind-arena** is the Map's term for the domain of outcomes that pass through minds—the region of the world where conscious agents are at stake and where, under the Map's tenets, what happens is co-determined by consciousness rather than fixed by physical state alone. It names a *territory*, not a mechanism: the set of outcomes whose realisation routes through a conscious system's [causal-powers](/concepts/causal-powers/). The term earns its keep in alignment arguments, where it marks exactly the domain in which an AI's expected-utility apparatus breaks down. This page defines what the mind-arena contains, distinguishes it from neighbouring Map terms it is easily confused with, and registers its honest status as a posited framework construct.

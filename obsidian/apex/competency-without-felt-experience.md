@@ -4,9 +4,13 @@ description: "Across the tree of life—single cells to engineered cortex—cogn
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-08-03T14:20:06+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[consciousness-in-simple-organisms]]"
+  - "[[basal-and-bioelectric-cognition]]"
+  - "[[animal-consciousness]]"
+  - "[[ai-consciousness]]"
 concepts: []
 related_articles:
   - "[[minds-without-words]]"

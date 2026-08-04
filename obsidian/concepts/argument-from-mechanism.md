@@ -4,10 +4,13 @@ description: "A Map-named non-sequitur: showing a mechanism is sufficient to pro
 created: 2026-06-24
 modified: 2026-06-24
 human_modified:
-ai_modified: 2026-07-28T09:35:43+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-28T09:35:43+00:00
 draft: false
-topics: []
+topics:
+  - "[[arguments-against-materialism]]"
+  - "[[epistemology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[possibility-probability-slippage]]"
   - "[[evidential-status-discipline]]"

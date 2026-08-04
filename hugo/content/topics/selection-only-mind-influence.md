@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-08-03 05:41:10+00:00
+ai_modified: 2026-08-04 09:12:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 11:52:15+00:00
-lastmod: 2026-08-03 05:41:10+00:00
+lastmod: 2026-08-04 09:12:00+00:00
 modified: *id001
 related_articles:
 - '[[trilemma-of-selection]]'
@@ -33,7 +33,11 @@ related_articles:
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: 'Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World
   Signatures'
-topics: []
+topics:
+- '[[quantum-measurement-and-consciousness]]'
+- '[[born-rule-and-the-consciousness-interface]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The strictest reading of the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is *selection-only*: mind contributes nothing to the candidate set the brain physically generates. It only chooses which of the already-generated alternatives becomes actual. Under that constraint, three information-theoretic limits follow immediately. Each selection event can transfer at most log₂(N) bits, where N is the size of the brain-prepared candidate set. Born-rule preservation constrains the long-run *marginal* frequency distribution over outcomes, leaving the mind-conditioned distributions unconstrained — so what it secures is invisibility to unconditioned aggregate tests, not a bound on throughput. And mind cannot register, choose, or report content that no candidate encodes — novel qualia are structurally precluded if the brain has not pre-generated them. These three limits define a tight signature corridor: large enough to make a difference at the single-event scale, invisible to unconditioned ensemble statistics, and bounded at every level by the physical-side candidate set.

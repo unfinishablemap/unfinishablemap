@@ -4,9 +4,12 @@ description: "Alexithymia as the emotional member of the Map's phenomenal-diverg
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-08T02:11:48+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[philosophy-of-mind]]"
+  - "[[consciousness]]"
+  - "[[emotion-and-dualism]]"
 concepts: [somatic-interface, introspection]
 related_articles: [emotion-and-dualism, aphantasia, synaesthesia, somatic-interface, interoceptive-void, introspection-architecture-independence-scoring, common-cause-null]
 ai_contribution: 100

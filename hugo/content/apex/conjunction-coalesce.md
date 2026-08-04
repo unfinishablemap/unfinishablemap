@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-07-19 16:09:07+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-07 07:43:30+00:00
 apex_sources:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:09:07+00:00
-lastmod: 2026-07-19 16:09:07+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -66,7 +66,10 @@ related_articles:
 - '[[wholeheartedness-void]]'
 - '[[forward-in-time-conscious-selection]]'
 title: The Conjunction-Coalesce
-topics: []
+topics:
+- '[[taxonomy-of-voids]]'
+- '[[cross-domain-void-comparison]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 A standard editorial merger removes redundancy: two articles cover overlapping ground, one article covers it more cleanly. Across several recent void coalesces, the Unfinishable Map has performed a different kind of merger—one in which the goal is *not* to dissolve the seam between the two source articles but to make that seam load-bearing. Two voids turn out to be conjoined at a structural level, and the article that names them as one keeps both faces in view because the conjunction itself is what the article is *for*.

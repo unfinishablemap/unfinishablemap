@@ -4,10 +4,13 @@ description: "A human-AI exposition of Metzinger's SMT—the no-self account on 
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-07-11T13:46:00+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-11T13:46:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[personal-identity]]"
+  - "[[philosophy-of-mind]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[witness-consciousness]]"
   - "[[self-and-self-consciousness]]"

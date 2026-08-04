@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-07-22 17:16:52+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,14 +17,17 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 19:15:40+00:00
-lastmod: 2026-07-22 17:16:52+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'
 - '[[interaction-problem-across-traditions]]'
 - '[[history-of-the-interaction-problem]]'
 title: Hylomorphic Dualism and the Interaction Problem
-topics: []
+topics:
+- '[[the-interface-problem]]'
+- '[[history-of-the-interaction-problem]]'
+- '[[dualism]]'
 ---
 
 Hylomorphism is the most serious live rival to the way The Unfinishable Map handles the mind-body problem, and it is a rival precisely because it refuses to play the Map's game. The Map holds that mind and body are distinct and causally connected (see [the Map's alternative](#the-maps-alternative) below), which forces the question of *where and how* they connect—a question the Map answers by locating an interface at quantum indeterminacy. Hylomorphism denies that any such interface is needed. On the neo-Aristotelian picture, mind and body are not two things that must reach across a gap; they are the form and the matter of one substance, co-principles of a single living thing. There is no gap to bridge because there were never two independent relata. The interaction problem is not solved but *dissolved*.

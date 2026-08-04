@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 13:35:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -14,12 +14,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:11:00+00:00
-lastmod: 2026-07-11 13:35:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles: []
 title: 'Yogacara Alaya-vijnana: Storehouse Consciousness as a Substrate-Continuity
   Theory of Mind'
-topics: []
+topics:
+- '[[eastern-philosophy-consciousness]]'
+- '[[personal-identity]]'
+- '[[the-hard-problem-in-non-western-philosophy]]'
 ---
 
 The Yogacara school of Mahayana Buddhism answers a question every no-self theory must face: if there is no permanent soul (*atman*), what carries a person's continuity across moments, across sleep, and across lifetimes? Its answer is the *alaya-vijnana*, the "storehouse consciousness" — an eighth layer of mind that stores karmic seeds and ripens them into future experience. On the framework's own terms, this is a **substrate-continuity theory of mind**: continuity is real and individual, but the substrate that carries it is impermanent and conditioned, a process rather than a thing. For a dualist project like this Map, Yogacara is best read not as an ally but as a serious **rival** — a fully worked-out account of continuity-without-substance that reaches its conclusion from a consciousness-first, mind-only basin rather than from an interactionist dualism.

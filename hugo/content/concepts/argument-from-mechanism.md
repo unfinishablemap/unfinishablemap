@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-07-28 09:35:43+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 09:35:43+00:00
-lastmod: 2026-07-28 09:35:43+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[out-of-body-experiences]]'
@@ -26,7 +26,10 @@ related_articles:
 - '[[measurement-problem]]'
 - '[[tenets]]'
 title: The Argument from Mechanism
-topics: []
+topics:
+- '[[arguments-against-materialism]]'
+- '[[epistemology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 The Argument from Mechanism is the inference: *a phenomenon X can be produced by mechanism M; therefore every instance of X is produced by M, and X is nothing but M.* The conclusion does not follow. Establishing that M is **sufficient** to produce X — in some cases M yields X — is silent on whether M is **necessary** for X — whether X requires M, with no other route available. Sufficiency and necessity are logically independent, and the slide from one to the other is a non-sequitur the Map names so its induction debates can point at it rather than re-derive it.

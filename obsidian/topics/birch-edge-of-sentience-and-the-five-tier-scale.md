@@ -4,9 +4,12 @@ description: "Iterative comparison of Birch's two-tier precautionary framework w
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-26T01:40:00+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[animal-consciousness]]"
+  - "[[methodology-of-consciousness-research]]"
+  - "[[ethics-of-possible-ai-consciousness]]"
 concepts: []
 related_articles:
   - "[[evidential-status-discipline]]"

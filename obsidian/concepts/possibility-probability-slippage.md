@@ -4,10 +4,12 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-04T11:42:15+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-17T12:57:57+00:00
 draft: false
-topics: []
+topics:
+  - "[[epistemology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[conceivability-possibility-inference]]"
 related_articles:

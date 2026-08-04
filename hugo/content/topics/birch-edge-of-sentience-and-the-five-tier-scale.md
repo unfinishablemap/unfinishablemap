@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-06-26 01:40:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 01:40:00+00:00
-lastmod: 2026-06-26 01:40:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -27,7 +27,10 @@ related_articles:
 - '[[gaming-problem]]'
 - '[[tenets]]'
 title: Birch's Edge of Sentience and the Five-Tier Scale
-topics: []
+topics:
+- '[[animal-consciousness]]'
+- '[[methodology-of-consciousness-research]]'
+- '[[ethics-of-possible-ai-consciousness]]'
 ---
 
 Jonathan Birch's *The Edge of Sentience* (2024) and the Map's five-tier evidential scale answer different questions about the same material. Birch's framework is action-oriented: given irreducible uncertainty about who is sentient, what does proportionate precaution require? The Map's scale is description-oriented: given the same uncertainty, what is the catalogue entitled to write? The two schemes converge at the language of "realistic possibility" — both inherit it from the 2024 New York Declaration on Animal Consciousness — and diverge at the work the language is asked to do. Birch's two evidential tiers (*sentience candidate* / *investigation priority*) feed into welfare policy, regulatory licensing, and democratic deliberation. The Map's five tiers (*established* → *strongly supported* → *realistic possibility* → *live hypothesis* → *speculative integration*) feed into article prose and the discipline against [possibility/probability slippage](/concepts/possibility-probability-slippage/). The frameworks are structurally complementary rather than rival: Birch's action layer is precisely what the [evidential-status discipline](/project/evidential-status-discipline/) does not provide, and the Map's lower-tier description layer is precisely what Birch's two-tier categorisation declines to engage.

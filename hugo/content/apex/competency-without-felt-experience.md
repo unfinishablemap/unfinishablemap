@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-03 14:20:06+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 14:04:05+00:00
 apex_sources:
@@ -31,14 +31,18 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:35:37+00:00
-lastmod: 2026-08-03 14:20:06+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
 - '[[machine-question]]'
 - '[[open-question-ai-consciousness]]'
 title: 'Competency Without Felt Experience: A Framework-Relative Verdict'
-topics: []
+topics:
+- '[[consciousness-in-simple-organisms]]'
+- '[[basal-and-bioelectric-cognition]]'
+- '[[animal-consciousness]]'
+- '[[ai-consciousness]]'
 ---
 
 # Competency Without Felt Experience: A Framework-Relative Verdict

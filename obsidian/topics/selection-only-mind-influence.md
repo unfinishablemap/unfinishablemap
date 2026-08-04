@@ -4,10 +4,14 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-03T05:41:10+00:00
+ai_modified: 2026-08-04T09:12:00+00:00
 last_deep_review: 2026-08-02T11:52:15+00:00
 draft: false
-topics: []
+topics:
+  - "[[quantum-measurement-and-consciousness]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
+  - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[forward-in-time-conscious-selection]]"

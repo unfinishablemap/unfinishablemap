@@ -4,9 +4,12 @@ description: "Sellars' manifest and scientific images: the meta-framework the Ma
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-13T08:15:47+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[philosophy-of-mind]]"
+  - "[[epistemology]]"
+  - "[[eliminative-materialism]]"
 concepts: ["grain-mismatch", "rational-normativity"]
 related_articles: ["one-structure-three-vocabularies", "eliminative-materialism", "argument-from-reason"]
 ai_contribution: 100

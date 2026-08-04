@@ -4,10 +4,13 @@ description: "Why conceptual role semantics sidesteps the covariance dilemma and
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-13T11:55:15+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-13T11:55:15+00:00
 draft: false
-topics: []
+topics:
+  - "[[philosophy-of-language-under-dualism]]"
+  - "[[arguments-against-materialism]]"
+  - "[[philosophy-of-mind]]"
 concepts:
   - teleosemantics
   - intentionality

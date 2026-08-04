@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-13 11:55:15+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,12 +17,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 11:55:15+00:00
-lastmod: 2026-07-13 11:55:15+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - the-naturalisation-failure-for-content
 title: Conceptual Role Semantics and the Naturalisation of Content
-topics: []
+topics:
+- '[[philosophy-of-language-under-dualism]]'
+- '[[arguments-against-materialism]]'
+- '[[philosophy-of-mind]]'
 ---
 
 Conceptual role semantics (CRS), also called inferential role semantics, holds that the content of a mental state is constituted by the state's role in inference, perception, and action among other states, rather than read off its covariation with the world. It is the strongest naturalisation of content the Map has not yet engaged, and the reason is precise: because CRS does not derive content from world-covariance, it steps out from under the "covariance does not constitute content" dilemma (Hutto and Myin 2013) that drives the Map's [naturalisation-failure argument](/topics/the-naturalisation-failure-for-content/). The Map therefore owes CRS a dedicated response, distinct from the deflationary functionalist reply it already rebuts. This article states the view at its strongest, gives the standard internal objection its due, and then offers the Map's considered counter on independent grounds.

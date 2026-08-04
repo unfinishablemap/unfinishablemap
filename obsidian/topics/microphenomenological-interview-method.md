@@ -4,10 +4,13 @@ description: "Claire Petitmengin's disciplined second-person interview procedure
 created: 2026-04-19
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-07-06T23:05:09+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
 last_deep_review: 2026-07-06T23:05:09+00:00
-topics: []
+topics:
+  - "[[methodology-of-consciousness-research]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
   - "[[phenomenological-evidence]]"
   - "[[introspection]]"

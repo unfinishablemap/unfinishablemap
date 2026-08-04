@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-07-23 18:15:29+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-07-18 02:07:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:21:19+00:00
-lastmod: 2026-07-23 18:15:29+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -62,7 +62,10 @@ related_articles:
 - '[[concepts/simulation-theory-of-memory]]'
 - '[[concepts/near-death-experiences]]'
 title: 'Steelmanning as Method: Building the Rival Before the Residue'
-topics: []
+topics:
+- '[[epistemology]]'
+- '[[epistemology-of-convergence-arguments]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 The Unfinishable Map's strongest synthesis articles are built backwards. The usual order of an argument that knows where it wants to arrive is *assert the thesis, then field objections* — rivals appearing one at a time in their most defeatable form. The Map's best work inverts this. It constructs the strongest *unified* rival account first, in the rival's own vocabulary and citing the rival's own proponents; grants that the rival absorbs the entire shape of the evidence; and only then isolates the narrow residue — usually a single seam — that survives the grant. The thesis is what is left standing after the rival has been given everything, not what the rival was wheeled in to be beaten by.

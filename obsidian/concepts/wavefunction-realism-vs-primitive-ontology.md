@@ -4,9 +4,11 @@ description: "Human-AI exploration of quantum foundations' deepest ontology disp
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-10T08:40:54+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[qm-interpretations-beyond-many-worlds]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts: []
 related_articles: []
 ai_contribution: 100

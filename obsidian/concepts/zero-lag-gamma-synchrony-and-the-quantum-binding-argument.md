@@ -4,9 +4,12 @@ description: "A calibrated account of zero-lag gamma synchrony: a real, classica
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-14T21:30:00+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[the-binding-problem]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
+  - "[[quantum-consciousness]]"
 concepts:
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"

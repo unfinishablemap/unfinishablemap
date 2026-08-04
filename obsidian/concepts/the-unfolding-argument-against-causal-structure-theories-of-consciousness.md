@@ -4,9 +4,12 @@ description: "A human-AI examination of the unfolding argument: the disjunctive 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-11T06:52:00+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[methodology-of-consciousness-research]]"
+  - "[[hard-problem-of-consciousness]]"
+  - "[[machine-consciousness]]"
 concepts:
   - "[[integrated-information-theory]]"
 related_articles:

@@ -4,10 +4,13 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-07-19
 human_modified: null
-ai_modified: 2026-07-19T16:09:07+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-19T16:09:07+00:00
 draft: false
-topics: []
+topics:
+  - "[[taxonomy-of-voids]]"
+  - "[[cross-domain-void-comparison]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts: []
 related_articles:
   - "[[apex-articles]]"

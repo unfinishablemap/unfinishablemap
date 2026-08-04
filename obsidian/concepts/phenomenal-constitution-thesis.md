@@ -4,10 +4,13 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-06-26T10:01:43+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-06-26T10:01:43+00:00
 draft: false
-topics: []
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[phenomenology-of-intellectual-life]]"
+  - "[[ai-consciousness]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"

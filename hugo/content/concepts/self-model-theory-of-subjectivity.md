@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 13:46:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,13 +18,16 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 13:46:00+00:00
-lastmod: 2026-07-11 13:46:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
 - '[[tenets]]'
 title: Self-Model Theory of Subjectivity
-topics: []
+topics:
+- '[[personal-identity]]'
+- '[[philosophy-of-mind]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The Self-Model Theory of Subjectivity (SMT), developed by Thomas Metzinger, is the most fully worked-out naturalist **no-self** account in contemporary philosophy of mind. Its deflationary core: no such thing as a *self* exists. What exists is a **phenomenal self-model (PSM)**—a representational structure the brain continuously generates to model the organism-as-a-whole. We take ourselves to *be* selves rather than to *have* self-models because the PSM is **phenomenally transparent** (explained below): introspection cannot detect its representational character, so its content is lived as immediately given reality. This page lays out SMT faithfully, then stages the Map's engagement, which is framework-relative rather than a refutation. SMT bears on the Map for a specific reason: it is a direct, sophisticated challenge to **Tenet 4** (indexical identity; a determinate experiencing subject).

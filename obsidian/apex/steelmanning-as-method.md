@@ -3,10 +3,13 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-07-18
 human_modified: null
-ai_modified: 2026-07-23T18:15:29+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
-topics: []
+topics:
+  - "[[epistemology]]"
+  - "[[epistemology-of-convergence-arguments]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts: []
 related_articles:
   - "[[apex]]"

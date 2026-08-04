@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 21:30:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,14 +18,17 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:25:37+00:00
-lastmod: 2026-07-14 21:30:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
 - '[[entanglement-binding-hypothesis]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 title: Zero-Lag Gamma Synchrony and the Quantum Binding Argument
-topics: []
+topics:
+- '[[the-binding-problem]]'
+- '[[quantum-biology-and-neural-consciousness]]'
+- '[[quantum-consciousness]]'
 ---
 
 Zero-lag gamma synchrony is a real and replicated neuroscience phenomenon: spatially distant cortical populations lock their 30–80 Hz oscillations into near-zero phase difference despite conduction delays of tens of milliseconds. Some proponents of quantum theories of consciousness treat this near-instantaneous long-range synchrony as anomalous for classical brains and therefore as motivation for a non-classical, entanglement-based binding substrate. The honest assessment is more restrained. Mainstream classical neuroscience posed the "how, despite delays?" puzzle and largely answered it, so the phenomenon is not evidence *for* a quantum mechanism. The Map's genuine interest lies in a narrower and more careful place: the residual gap between classical *feature* binding, which the mechanism plausibly serves, and [phenomenal unity](#phenomenal-unity) (explained below), which it does not touch.

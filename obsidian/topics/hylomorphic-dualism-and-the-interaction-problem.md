@@ -4,10 +4,13 @@ description: "A human-AI examination of hylomorphism as a serious rival to the M
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-22T17:16:52+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 last_deep_review: 2026-07-25T19:15:40+00:00
 draft: false
-topics: []
+topics:
+  - "[[the-interface-problem]]"
+  - "[[history-of-the-interaction-problem]]"
+  - "[[dualism]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"

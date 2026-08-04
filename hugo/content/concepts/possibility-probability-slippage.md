@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-06-04 11:42:15+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:57:57+00:00
-lastmod: 2026-06-04 11:42:15+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[gaming-problem]]'
@@ -28,7 +28,9 @@ related_articles:
 - '[[naturally-occluded]]'
 - '[[tenets]]'
 title: Possibility/Probability Slippage
-topics: []
+topics:
+- '[[epistemology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Possibility/probability slippage is the reasoning move in which a tenet that secures the *metaphysical possibility* of a claim is silently treated as evidence elevating the claim's *empirical probability*. The Map's tenets do real work: they remove standard physicalist defeaters against phenomenal experience in non-standard substrates, against bidirectional causation, against non-anthropocentric consciousness. But removing a defeater is not the same as supplying positive evidence. When the catalogue treats *cannot be ruled out under our metaphysics* as if it were *positively supported by the evidence*, an empirical claim has been quietly upgraded by a metaphysical commitment that was never entitled to upgrade it.

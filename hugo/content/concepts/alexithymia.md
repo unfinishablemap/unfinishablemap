@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-08 02:11:48+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 02:37:41+00:00
-lastmod: 2026-07-08 02:11:48+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - emotion-and-dualism
@@ -27,7 +27,10 @@ related_articles:
 - introspection-architecture-independence-scoring
 - common-cause-null
 title: Alexithymia
-topics: []
+topics:
+- '[[philosophy-of-mind]]'
+- '[[consciousness]]'
+- '[[emotion-and-dualism]]'
 ---
 
 Alexithymia is difficulty identifying and describing one's own emotions, paired with an externally-oriented, concrete thinking style. It is a normally-distributed personality trait — elevated in roughly 10% of the general population — not a DSM disorder. For the Map it is the third named member of the **phenomenal-divergence cluster**, the emotional and interoceptive case alongside its siblings [aphantasia](/topics/aphantasia/) (absent or reduced visual imagery) and [synaesthesia](/topics/synaesthesia/) (anomalous cross-modal binding). Its distinctive value is sharpened by a recent shift in the evidence: the naive story that alexithymia is a straightforward *deficit* of interoceptive feeling has weakened, relocating the divergence toward the report and metacognition layer rather than the phenomenal layer — a relocation that strengthens, rather than blunts, the trait's use as a test of whether cross-tradition agreement about consciousness is an artefact of shared reporting machinery. That test, the **common-cause null**, and the **access-layer relocation** that motivates it are explained below.

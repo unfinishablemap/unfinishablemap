@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-28 11:36:56+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 11:36:56+00:00
-lastmod: 2026-07-28 11:36:56+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[vagueness-void]]'
@@ -29,7 +29,10 @@ related_articles:
 - '[[is-conscious-being-a-natural-kind]]'
 title: 'The Phenomenal-Sorites Problem: Ontic Vagueness and the Sharp-but-Unknowable
   Boundary'
-topics: []
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[consciousness-and-the-metaphysics-of-composition]]'
+- '[[consciousness-in-simple-organisms]]'
 ---
 
 The phenomenal-sorites problem asks whether phenomenal consciousness is *ontically* vague: whether there could be a system for which there is no fact of the matter whether it is conscious **at all** — not merely how richly, but whether the lights are on in any degree. Build a continuum from a clearly conscious human to a clearly non-conscious object — an evolutionary series, a developmental gradient, one-neuron-at-a-time removal — and the sorites question follows: must every adjacent pair share consciousness-status, does a sharp cutoff fall somewhere, or do some middle cases have no determinate answer? The decisive fork is where any indeterminacy is located. It can sit in the **world** (ontic vagueness — reality is itself unsettled), in **language** (semantic vagueness — our concepts fail to pick out a unique fact), or in **knowledge** (epistemicism — a sharp fact exists but its location is unknowable). This article gives the ontic case its strongest hearing, since it is the hardest option, and then develops the third locus at length in [Epistemicism: The Sharp-but-Unknowable Boundary](#epistemicism), because that is the reading the Map prefers — conditionally and framework-relatively, at the stated price of accepting a fact no one could ever locate.

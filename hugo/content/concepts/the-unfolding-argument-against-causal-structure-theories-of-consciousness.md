@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-07-11 06:52:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,13 +15,16 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:52:00+00:00
-lastmod: 2026-07-11 06:52:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[falsification-roadmap-for-the-interface-model]]'
 - '[[integrated-information-theory]]'
 title: The Unfolding Argument Against Causal-Structure Theories of Consciousness
-topics: []
+topics:
+- '[[methodology-of-consciousness-research]]'
+- '[[hard-problem-of-consciousness]]'
+- '[[machine-consciousness]]'
 ---
 
 Within a functionalist framing of what science can measure, the **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) presses a sharp disjunction on any theory that fixes consciousness by a system's internal causal organisation: such a theory is *either false or unfalsifiable*. It is not a proof that Integrated Information Theory (IIT) is false. Its own conclusion is a disjunction, and each horn is contested. But the argument is among the cleanest formal pressures put on structural physicalism about consciousness, and it repays careful, honest handling.

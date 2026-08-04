@@ -4,9 +4,12 @@ description: "The Map's term for the domain of outcomes that pass through mindsâ
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T05:04:31+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[consciousness-and-causal-powers]]"
+  - "[[mental-causation-and-downward-causation]]"
+  - "[[purpose-and-alignment]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"

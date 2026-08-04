@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-07-06 23:05:09+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:05:09+00:00
-lastmod: 2026-07-06 23:05:09+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
@@ -35,7 +35,10 @@ related_articles:
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[topics/pupillometry-behavioural-channel]]'
 title: The Microphenomenological Interview Method
-topics: []
+topics:
+- '[[methodology-of-consciousness-research]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 ---
 
 The microphenomenological interview, developed by Claire Petitmengin from Pierre Vermersch's *entretien d'explicitation*, is a structured second-person procedure that guides a subject through a brief phenomenological reduction, evokes a singular past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading prompts. The method's distinctive claim is that trained interviewing can raise to articulated report experiential content that casual introspection systematically overlooks. It is the closest thing consciousness science currently has to a replicable, protocolised first-person technique — which is why it deserves careful treatment on a map that takes phenomenological evidence seriously.

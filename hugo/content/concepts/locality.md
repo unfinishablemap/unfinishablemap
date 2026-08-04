@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-07-25 10:34:21+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,13 +20,16 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:01:23+00:00
-lastmod: 2026-07-25 10:34:21+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[tenets]]'
 title: Locality and Mind-Matter Interaction
-topics: []
+topics:
+- '[[the-interface-problem]]'
+- '[[quantum-consciousness]]'
+- '[[dualism]]'
 ---
 
 The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we examine what [dualism](/concepts/interactionist-dualism/) actually implies about the "mind side," what physics itself reveals about non-locality, and what contested assumptions about space underlie the challenge.

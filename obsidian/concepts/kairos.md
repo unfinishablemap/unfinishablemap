@@ -4,10 +4,17 @@ description: "Kairos names the felt structure of the right moment to act—a not
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-07-18T16:06:06+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
-concepts: []
+topics:
+  - "[[temporal-consciousness-structure-and-agency]]"
+  - "[[phenomenology-of-agency-vs-passivity]]"
+  - "[[volitional-control]]"
+concepts:
+  - "[[attention-as-interface]]"
+  - "[[phenomenology-of-choice-and-volition]]"
+  - "[[phenomenology-of-anticipation]]"
+  - "[[consciousness-and-skill-acquisition]]"
 related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-anticipation]]"

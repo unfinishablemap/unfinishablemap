@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04T08:54:17+00:00
+ai_modified: 2026-08-04T09:20:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-04 09:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/selection-only-mind-influence]] (primary) + 23 others — frontmatter only, no body edits
+- **Defect**: empty `topics: []` bypasses the agentic-social overlap filter entirely (`select_content()` skips the check when `article_topics` is falsy), so such articles become the selector's only surviving primary candidates. Self-perpetuating: the winner gets posted, ages into the 7-day URL window, and hands the role to the next empty-topics article. Measured: `topics/selection-only-mind-influence` was sole survivor at 05:20Z, 06:15Z, 07:04Z; `concepts/kairos` at 08:07Z.
+- **Changes**: populated `topics:` with accurate **bare** slugs (per CLAUDE.md "Topic String Canonical Form") on 24 articles — 20 in `topics/`+`concepts/`, plus **3 in `apex/`** that the task's `topics/`+`concepts/` survey missed but the live selector pool does include (`conjunction-coalesce`, `steelmanning-as-method`, `competency-without-felt-experience`), plus the primary. Slugs chosen per article's actual subject, not copied from siblings; every slug verified to resolve to a real article. `concepts/kairos` also had `concepts: []` — populated from its own body links. `ai_modified` bumped on all 24; **`ai_system` held** (metadata correction, not authoring). No body text touched.
+- **Primary file slugs**: `[[quantum-measurement-and-consciousness]]`, `[[born-rule-and-the-consciousness-interface]]`, `[[falsification-roadmap-for-the-interface-model]]`, `[[hard-problem-of-consciousness]]`
+- **Verification**: `get_published_articles()` + `extract_topics()` over the live pool — **0 of 671** eligible articles now bypass the overlap filter (was 24). Residual `topics: []` is limited to `topics/topics.md` and `concepts/concepts.md` (section indices, already excluded by the `stem == parent` guard) and `concepts/coalesce-condense-apex-stability.md` (`social_eligible: false`). YAML parses on all 24; `validate.py` clean; `sync.py` run, no new broken-wikilink strips.
+- **Fix direction**: populate, not exclude — the 2026-07-16 finding (excluding empty-topics articles would gut the pool) stands. Populating makes them *properly subject* to the overlap filter rather than invisible to it, closing the degenerate pick without shrinking the pool.
+- **Published**: yes
 
 ## 2026-08-04 08:54 UTC - coalesce
 - **Status**: Success

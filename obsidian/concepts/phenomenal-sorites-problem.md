@@ -4,9 +4,12 @@ description: "A human-AI examination of whether there can be no fact of the matt
 created: 2026-07-11
 modified: 2026-07-28
 human_modified:
-ai_modified: 2026-07-28T11:36:56+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[consciousness-and-the-metaphysics-of-composition]]"
+  - "[[consciousness-in-simple-organisms]]"
 concepts:
   - "[[phenomenal-consciousness]]"
   - "[[degrees-of-consciousness]]"

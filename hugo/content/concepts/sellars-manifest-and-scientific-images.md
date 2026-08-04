@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-13 08:15:47+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,14 +16,17 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 08:15:47+00:00
-lastmod: 2026-07-13 08:15:47+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - one-structure-three-vocabularies
 - eliminative-materialism
 - argument-from-reason
 title: Sellars' Manifest and Scientific Images
-topics: []
+topics:
+- '[[philosophy-of-mind]]'
+- '[[epistemology]]'
+- '[[eliminative-materialism]]'
 ---
 
 Wilfrid Sellars (1912–1989) divided our total conception of "man-in-the-world" into two rival frameworks and made their reconciliation the central task of philosophy. The **manifest image** is the refined framework in which man first came to be aware of himself *as* man — the framework of persons, perceptible objects, and irreducible normativity. The **scientific image** is the framework of postulated theoretical entities — the austere, particulate ontology of physics. Sellars called the successful fusion of the two a *stereoscopic* vision. This article supplies the definition of that distinction, since the Map's corpus leans on it across many articles (notably [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)) without stating it in one place. It is expository infrastructure, not advocacy: Sellars is a load-bearing meta-framework the Map assumes, and — as the [Relation to Site Perspective](#relation-to-site-perspective) below sets out — he was a scientific realist whose endpoint the Map's tenets resist even where his diagnoses are congenial.

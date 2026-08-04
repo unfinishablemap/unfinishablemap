@@ -4,9 +4,12 @@ description: "AI-assisted analysis of the locality objection to dualist mind-mat
 created: 2026-01-07
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-07-25T10:34:21+00:00
+ai_modified: 2026-08-04T09:15:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[the-interface-problem]]"
+  - "[[quantum-consciousness]]"
+  - "[[dualism]]"
 last_deep_review: 2026-07-25T11:01:23+00:00
 concepts:
   - "[[interactionist-dualism]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-10 08:40:54+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -14,11 +14,13 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:23:09+00:00
-lastmod: 2026-07-10 08:40:54+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles: []
 title: Wavefunction Realism versus Primitive Ontology
-topics: []
+topics:
+- '[[qm-interpretations-beyond-many-worlds]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 Wavefunction realism and primitive ontology are the two leading answers to a question that sits beneath every interpretation of quantum mechanics: what is the theory *fundamentally about*? Both camps are realist, both take the formalism seriously, and both are represented by first-rate philosophers of physics. They divide over the status of the wavefunction `Ψ` and, with it, the number of dimensions in fundamental reality. **Wavefunction realism** (David Albert, Alyssa Ney, Barry Loewer, Jill North) holds that `Ψ` is a real physical field living on a `3N`-dimensional configuration space, and that ordinary three-dimensional space is derivative. **Primitive ontology** (Detlef Dürr, Sheldon Goldstein, Nino Zanghì, Valia Allori, Roderich Tumulka, following John Bell) holds the reverse: the fundamental furniture is matter *in* ordinary 3D/4D spacetime, and `Ψ` is not a physical object at all but a law-like ("nomological") entity that governs how that matter moves.

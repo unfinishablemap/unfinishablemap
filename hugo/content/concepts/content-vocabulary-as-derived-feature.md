@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 13:30:00+00:00
+ai_modified: 2026-08-04 09:15:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 15:06:56+00:00
-lastmod: 2026-06-04 13:30:00+00:00
+lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[predictive-processing]]'
@@ -29,7 +29,10 @@ related_articles:
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
 title: Content-Vocabulary as a Derived Feature
-topics: []
+topics:
+- '[[predictive-processing-and-dualism]]'
+- '[[philosophy-of-language-under-dualism]]'
+- '[[philosophy-of-mind]]'
 ---
 
 When the predictive-processing framework or biological computationalism describes the brain, it borrows a vocabulary of *content*: the system "represents" a cause, "infers" a hidden state, computes a "prediction error" that registers as a "mismatch" between expectation and signal. This article names a calibration move the Map deploys against that vocabulary. The content-talk is empirically indispensable—nothing else organises the data so well—yet metaphysically derivative: the aboutness, inference, and mismatch language *summarises* the underlying dynamics rather than *grounding* them. Phenomenal aboutness is what the inferential vocabulary borrows without paying for.
