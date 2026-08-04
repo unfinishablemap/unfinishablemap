@@ -1998,12 +1998,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
 
-### P3: Write article on inner speech and anendophasia
+### P2: Write article on inner speech and anendophasia
 
 - **Type**: expand-topic
 - **File**: obsidian/topics/inner-speech-and-anendophasia.md
 - **Status**: pending
-- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — high-priority expansion opportunity
+- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — high-priority expansion opportunity. **PROMOTED P3→P2 by /replenish-queue run no.933, 2026-08-04 (FLOOR-RESTORING).** Unconsumed research is this skill's highest-weighted source (+60) and this is its only live instance: the note exists at `obsidian/research/inner-speech-and-anendophasia-2026-08-02.md` (4,339 w, `analyze_length` this session) and `ls` over `obsidian/topics/ obsidian/concepts/ archive/topics/ archive/concepts/` returns **no** live or archived article for `inner-speech` / `anendophasia` / `inner-monologue`. It was sitting at P3 where the loop's P0–P2 selector would never reach it — the mis-sorting, not emptiness, that tonight's tune-system recorded.
 - **Generated**: 2026-08-02
 - **Notes**: **THE GAP, MEASURED NOT INFERRED.** `grep -rl "inner speech"` across `topics/ concepts/ voids/ apex/` returns **15+ live articles**; `ls | grep -iE "speech|voice|verbal"` across `topics/` and `concepts/` returns **only** `articulability-of-q1.md`. Anendophasia appears in exactly two live articles and totals roughly two sentences. Checked for near-miss coverage under other slugs per [[harvest-dedup-singular-plural-nearmiss]] — the mentions are all in-passing within articles owning other questions.
 
@@ -2015,7 +2015,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
   **CALIBRATION FENCE.** The evidence base is self-report about an inner phenomenon, which is exactly where [[evidential-status-discipline]] bites hardest. Anendophasia reports *suggest* reflective consciousness persists without inner speech — the 2026-06-09 deep review specifically downgraded *"demonstrates"* to *"suggests"* on this evidence class and that softening was judged correct. Do not re-strengthen it. Tenet-coherence removes the defeater ("inner speech must constitute reflection"); it supplies no positive evidence about what anendophasics' reflection consists in.
 
-  **CAP.** `topics/` cap is 320, currently ~273 — ample headroom.
+  **CAP — RE-MEASURED 2026-08-04, AND IT NO LONGER SAYS "ample".** `count_section_files('topics')` returns **318** against a live `section_caps.max_topics` of **320**: headroom is **2**, not the ~47 the original "~273" implied (that figure was copied from CLAUDE.md, not measured). Completing this task takes `topics/` to **319/320**. Still permitted — the cap rule refuses at-or-above, and consuming a paid-for research note beats letting the cap close over it — but this is one of the last two `topics/` slots and the operator should see it spent.
 
   **CHAIN.** On completion, queue a `cross-review` for `consciousness-and-language-interface` and `philosophy-of-language-under-dualism` to repoint their anendophasia paragraphs at the new article, and add inbound links from `topics/aphantasia` and `concepts/introspection` per [[expand-topic-skips-integration-chain]].
 
@@ -2231,6 +2231,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **THE WEAKER SIBLING EDGE IS DELIBERATELY NOT IN SCOPE.** `hemispherectomy-and-the-resilience-of-unified-consciousness` ↔ `interpreter-module-narrative-construction-unity` was assessed as the weaker of the two candidate edges and is left for a later pass; do not fold it in here. Note the slugs — the files are `obsidian/topics/hemispherectomy-and-the-resilience-of-unified-consciousness.md` and `obsidian/concepts/interpreter-module-narrative-construction-unity.md`, **not** `topics/hemispherectomy.md` or `concepts/interpreter-module.md`, which do not exist ([[stderr-suppression-turns-wrong-path-into-false-zero]] — `find` the slug before grepping it).
 
   **ATTRIBUTION**: adding cross-references is not re-authoring — hold each file's existing `ai_system`, bump `ai_modified` on both files since both change, `date -u`-checked and strictly past. Both endpoints were last modified 2026-08-04T01:36:01+00:00, so timestamps must be later than that. Sync in-session ([[obsidian-only-fix-leaves-defect-live-in-hugo]]).
+
+### P2: split-brain-consciousness installs the register's determinate-boundaries fence at L98 and then contradicts it in its own closing section
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/split-brain-consciousness.md
+- **Status**: pending
+- **Source**: /replenish-queue run no.933, 2026-08-04 (FLOOR-RESTORING). This is the candidate runs 931 and 932 both passed over as "least certain" and the changelog hedged as possibly concerning the interface rather than the subject. Read on disk this run: it is real, but **the locus carried forward in the driver note is wrong** and is corrected below.
+- **Generated**: 2026-08-04
+- **Notes**: **⚠️ THE INHERITED LOCUS IS WRONG — DO NOT EDIT L202.** The note handed down said "L202 against P-I4". **L202 is fine**: it says the questions "How many minds does this patient have?" and "Does consciousness split when the brain divides?" wrongly assume *the anatomy can be read for the answer* — which is exactly what [[positions/individuation-and-subjecthood|P-I3]] holds. Editing it would delete a correct sentence. **The defect is at L204**, the paragraph immediately after it. This is why the previous two runs could not resolve the candidate from the note alone, and it is a live instance of [[replenish-asserted-concrete-defect-often-false]]: the TARGET was sound, the asserted defect was not.
+
+  **THE CONTRADICTION IS INTERNAL TO THE ARTICLE — that is what makes it worth a slot.** This is not "article disagrees with register". **L98 already installs the register's fence, in the article's own voice**: *"The Map expounds the thesis without adopting it. Its [[positions/individuation-and-subjecthood|individuation register]] holds subject boundaries to be determinate but not readable off physical structure: there is a fact of the matter, and no anatomical or behavioural measure settles it..."* The article then closes, 106 lines later, by asserting the opposite. Under the LLM-first / truncation-resilience discipline in [[project/writing-style]] the closing section is the part a summariser weights hardest, so the unfenced reading is the one that propagates.
+
+  **TRIAGED LOCUS TABLE — all five greps run this session (`grep -n "indetermin\|partially divided\|somehow one"`). Three of the five are CORRECT and must be left alone.** Do not sweep the string ([[fix-by-file-leaves-string-siblings-live]] cuts both ways — here the population is smaller than the grep suggests, not larger).
+
+  1. **L204 — FIX. The sharp one.** *"...something that can be partially divided while remaining somehow one. The indeterminacy itself may be a clue to what consciousness is."* This asserts **metaphysical partial division of the subject**. `P-I4` (`Asserts`) flatly denies it: *"The Map holds that a conscious perspective is a particular that does not divide."* `P-I3` denies the indeterminacy half. Bring under L98's fence — the *unreadability* is the clue, not any indeterminacy in the subject.
+  2. **L190 — FIX, light.** The falsifier reads *"would support 'two minds' over 'indeterminate unity'"*, which frames indeterminate unity as the Map's held alternative. It is not; the held alternative is *determinate unity that no measure can read*. Re-word the disjunct, not the falsifier.
+  3. **L90 — ASSESS, probably mark.** *"partial synchronic fracture, preserved diachronic unity, indeterminate subject unity"* — presented as an evidential finding with the epistemic/metaphysical reading unmarked. Marking it epistemic is likely enough; do not delete the finding.
+  4. **L88 — LEAVE.** *"subject unity does not admit of degrees in the way our concepts assume"* — this **denies** degrees and is already consistent with P-I4.
+  5. **L162 — LEAVE.** *"full knowledge of the neural facts leaves the question... genuinely open"* — explicitly epistemic, and it is the article's illusionism argument. P-I3-compatible as written.
+
+  **THE REGISTER HAS ALREADY NAMED THIS OVERSHOOT AND POINTS AT THIS FILE.** `P-I3`'s own `Asserts` says it *"disciplines the corpus's stronger formulation that there is 'no determinate fact about how a conscious whole partitions', which overshoots what P-I1 permits"* — and `P-I3`'s **`Argued in` lists `[[topics/split-brain-consciousness]]`**. The register cites this article as arguing a position the article's closing section contradicts, which is [[citation-framing-accuracy-lens]] pointing inward. Re-verify against `obsidian/positions/individuation-and-subjecthood.md` L68–L86 before editing; both P-I3 and P-I4 were last reviewed 2026-08-03, so the register side is current and the article is the stale side.
+
+  **DO NOT convert this into a claim the Map has settled the split-brain literature.** The agnosticism between Sperry/Gazzaniga, Pinto et al. 2017 and Schechter 2018 stays exactly as it is — P-I3's point is that the agnosticism is *epistemic*. The edit changes where the indeterminacy is located (in our access, not in the subject), not how confident the article is.
+
+  **LENGTH — MEASURED THIS SESSION, NOT COPIED.** `analyze_length` gives **3,613 w**, `soft_warning`, **387 under** the 4,000 `topics/` hard ceiling. There is room, but this should land close to word-neutral: it is a re-location of a hedge, not an addition.
+
+  **ATTRIBUTION.** Re-framing where an indeterminacy sits is a substantive claim edit, so `ai_system` **may** move if the fork does real re-authoring — but check the target's current value rather than stamping your own ([[deep-review-fork-over-attributes-ai-system]]). `ai_modified` is currently `2026-08-04T02:24:11+00:00`; the new stamp must come from live `date -u` and be strictly later ([[fork-future-dates-frontmatter-timestamps]]). Sync in-session — the Hugo mirror keeps the defect until pre-push otherwise ([[obsidian-only-fix-leaves-defect-live-in-hugo]]).
+
+### NEEDS-HUMAN (methodology) 2026-08-04: a grep-contiguity check in the Map's OWN file was recorded as discharging quote-fidelity — contiguity is not provenance
+
+- **Type**: refine-draft
+- **File**: obsidian/project/quantum-claim-and-quotation-disciplines.md
+- **Status**: needs-human
+- **Blocked-by**: human-methodology-decision — this is a DISCIPLINE, and `obsidian/project/human-supervision.md` L47 reserves instituting disciplines to the operator. Recorded, deliberately not instituted.
+- **Source**: /replenish-queue run no.933, 2026-08-04 — first-hand, from tonight's own de-quote passes
+- **Generated**: 2026-08-04
+- **Notes**: **NOT A NEW TASK — this is a fifth data point for the proposal already recorded above at "NEEDS-HUMAN (methodology) 2026-07-30: install a per-claim verification ledger whose sixth tier is 'contested by later literature'", which sits on this same file, as does "NEEDS-HUMAN (corpus convention): reference apparatus cannot express VERIFICATION LEVEL".** Filed as its own block only so the datum is not lost inside a long Notes body; **do not mint a third executable task on this file** ([[outer-review-same-file-task-pileup]]). Whoever institutes the ledger should fold this in.
+
+  **THE OBSERVED FAILURE, VERBATIM.** `obsidian/reviews/deep-review-2026-07-30-personal-identity.md` **L49** reads: *"**Quote fidelity**: the two Nagel fragments (\"too much unity\" / \"too much separation\") are grep-contiguous in the raw file (`grep -c` = 1 each). Not re-verified at Springer this pass (403); the 2026-05-29 fix stands."* That is recorded as a **pass**. Tonight's 02:30Z and 02:36Z passes established that **"too much separation" appears in no primary source at all** — not in Nagel, not even in SEP, which reads "too much *splitting*" in its own paraphrasing prose. The certified-clean quote was a fabrication.
+
+  **WHY THE CHECK COULD NOT HAVE CAUGHT IT.** Grep-contiguity is a test run **against the Map's own copy**. It establishes that the quoted span is unbroken *here* — i.e. that no elision was silently introduced on our side. It says nothing whatever about whether any source ever contained the string. **Contiguity is a self-test; provenance requires the source.** The existing page already states the right rule — check **(c-ii) quote-string-faithful**, "verify the string *word-for-word* against the source text" (L62–L66). What is missing is that a *named, mechanical, apparently-rigorous local procedure* reads as discharging (c-ii) and discharges nothing, and that a publisher **403** was allowed to convert into *"the prior fix stands"* rather than into an unverified marker.
+
+  **THE COST, MEASURED.** `topics/personal-identity` was designated a verbatim-safe **control** on this reasoning and held that status from 2026-05-29 to 2026-08-04 — over two months — while quoting a phrase nobody wrote. Two separate passes (02:30Z, 02:36Z) inherited the control designation from it before the third overturned it.
+
+  **THE TRAP RUNS IN BOTH DIRECTIONS, which is why it needs writing down rather than a reflex.** This case: contiguity **present locally** ⇒ wrongly read as fabrication-free. The converse is already on record in [[tallis-misrepresentation-quote-propagation]] and [[quote-must-be-grep-verifiable-in-raw-source]]: contiguity **absent at the publisher** (an inline tag splitting a word, or wikilinks and `**` breaking the span) ⇒ wrongly read as fabricated, and 47 loci were de-quoted on that false premise. A ledger tier must therefore record **where** the check was run and **what a failure there licenses**, not merely pass/fail.
+
+  **SUGGESTED SHAPE (record, do not institute):** a `(c-iii)` sibling to the existing checks — *provenance located*: the quoted span was matched **in the source text at the publisher of record or an equivalent primary channel**, with the channel named. Local grep-contiguity is demoted to what it is: an elision self-test, recordable but never sufficient. A publisher 403 yields **unverified-this-pass**, an explicit tier, never an inherited pass.
+
+  **RESIDUE — DO NOT "FIX" IT.** The quoted forms surviving in `reviews/deep-review-2026-06-06-personal-identity` L50, `reviews/deep-review-2026-07-07-personal-identity` L55, `reviews/deep-review-2026-07-30-personal-identity` L49, `reviews/optimistic-2026-06-19` L40 and `workflow/archive/changelog-2026-W22` L2010 are the **audit trail** of what the articles said. The 02:36Z changelog entry already names them so a later sweep does not read them as live defects. Correcting them would falsify the record.
+
 
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
