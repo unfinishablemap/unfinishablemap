@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-04 09:38:00+00:00
+ai_modified: 2026-08-04 10:28:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-08-04 09:38:00+00:00
+lastmod: 2026-08-04 10:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,13 +76,13 @@ Three features distinguish it:
 
 **Incompleteness as structural feature**: The remembered self is never fully present—details missing, emotions muted, context approximate—and so always partly occluded.
 
-Klein and Nichols (2012) document patient R.B., whose accurate autobiographical memories lacked the feeling of "mine"—evidence that mineness is at minimum a separable factor from content. The case is n = 1 and contested at the source: Roache (2016) argues their characterisation of R.B. is not adequately supported, making it hypothesis-generating rather than a clean dissociation result. Whether the separable factor is a phenomenal property or a functional self-attentional tag is contested, and the dissociation forces neither reading: distinct hippocampal-retrieval and medial-prefrontal tagging networks would predict it as readily as a phenomenal property would. The [steelmen below](#hostile-review-steelman-counters) press the latter. The [memory anomalies cluster](/topics/memory-anomalies/) exhibits parallel dissociations—pastness without retrievable past, alienness of the familiar, ownership of forgotten content—each separating phenomenal output from source machinery.
+Klein and Nichols (2012) document patient R.B., whose accurate autobiographical memories lacked the feeling of "mine"—evidence that mineness is at minimum a separable factor from content. The case is n = 1 and contested at the source: Roache (2016) argues their characterisation of R.B. is not adequately supported, making it hypothesis-generating rather than a clean dissociation result. Whether the separable factor is a phenomenal property or a functional self-attentional tag is contested, and the dissociation forces neither reading: distinct hippocampal-retrieval and medial-prefrontal tagging networks would predict it as readily as a phenomenal property would. The [steelmen below](#hostile-review-steelman-counters) press the latter. The [memory anomalies cluster](/topics/memory-anomalies/) exhibits the same phenomenal-output/source-machinery separation—pastness without retrievable past, alienness of the familiar, ownership of forgotten content—but as three rotations on the same architecture rather than three independent oddities: the [common-cause null](/project/common-cause-null/) applies, and the cluster carries the evidential weight of one pattern, not three.
 
 Pastness, mineness and double presence are phenomenological reports—evidence about the structure of experience, not by themselves evidence for dualism. The pastness quale is the explanandum; whether explaining it requires non-physical resources is the further argument developed below and in [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Treating phenomenological data as already metaphysically loaded is the slippage [evidential-status-discipline](/project/evidential-status-discipline/) catches.
 
 ## Memory as Self-Constitution
 
-The self does not exist first and then remember; it becomes temporally extended *through* remembering. Memory takes the [minimal self](/concepts/self-and-self-consciousness/)—bare first-person perspective—and makes it a self with a history. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) treats this as one of several convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
+The self does not exist first and then remember; it becomes temporally extended *through* remembering. Memory takes the [minimal self](/concepts/self-and-self-consciousness/)—bare first-person perspective—and makes it a self with a history. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) treats this as one component of a single architecture on which consciousness actively constitutes temporal structure, rather than one of several convergent demonstrations that it does; the same [common-cause null](/project/common-cause-null/) applies here.
 
 **Narrative integration**: Recall organises individual memories into patterns, and the resulting [personal narrative](/concepts/narrative-coherence/) is how the self understands itself as having developed. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) depends on it: you sustain projects because memory connects past commitment to present effort.
 
@@ -130,7 +130,7 @@ The earlier sections move from synchronic mineness—for-me-ness built into each
 
 The weak claim—every experience is given in the first-person mode—is Zahavian. The strong claim—the same numerically identical subject has all of *these* experiences and not others—is a metaphysical thesis the phenomenology underdetermines. The No-Many-Worlds inference requires the strong claim: bare for-me-ness is satisfied trivially across Everettian branches; the objection bites only if there is a fact about which for-someone is *me*.
 
-The bridging work is done by an auxiliary commitment: [haecceity](/concepts/haecceity/) applied to the conscious subject—the "deep further fact" Parfit denied. Phenomenology delivers the explanandum; haecceity supplies the identity-grounding fact. Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment, leaving for-me-ness compatible with branching streams.
+The bridging work is done by an auxiliary commitment: [haecceity](/concepts/haecceity/) applied to the conscious subject—the "deep further fact" [Parfit](/concepts/parfit-reductionism/) denied. Phenomenology delivers the explanandum; haecceity supplies the identity-grounding fact. Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment, leaving for-me-ness compatible with branching streams.
 
 ## Hostile-Review Steelman Counters
 

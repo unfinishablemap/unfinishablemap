@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 10:25:00+00:00
+ai_modified: '2026-08-04T10:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 10:25:00+00:00
+lastmod: 2026-08-04 10:28:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 10:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Task**: Countermeasure 15 compliance — the article asserted convergence twice while naming the common-cause null zero times. Review file: `reviews/outer-review-2026-08-04-claude-opus-5.md`.
+- **Changes**:
+  1. **L76 (reviewer's "L72") — memory-anomalies trio downgraded, sibling wording imported verbatim.** "exhibits parallel dissociations … each separating phenomenal output from source machinery" → "exhibits the same phenomenal-output/source-machinery separation … but as **three rotations on the same architecture rather than three independent oddities**: the [common-cause null](/project/common-cause-null/) applies, and the cluster **carries the evidential weight of one pattern, not three**." The rotations clause is lifted verbatim from `topics/memory-anomalies` L64 (already gate-compliant) rather than re-derived, per the constraint against minting a third phrasing; the weight clause is Countermeasure 15's own canonical downgrade form.
+  2. **L82 (reviewer's "L78") — the temporal-constitution convergence claim downgraded.** "treats this as one of several convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it" → "treats this as **one component of a single architecture** on which consciousness actively constitutes temporal structure, rather than one of several convergent demonstrations that it does; the same [common-cause null](/project/common-cause-null/) applies here." The gate's honest phrasing ("N components of one architecture") replaces the count-as-support form. The substantive thesis is preserved; only the evidential claim about the count is withdrawn. **Confirmed the audit belonged here**: "convergent demonstration" occurs nowhere in `temporal-consciousness-structure-and-agency`, so the reviewer's routing was wrong and the todo note's correction stands.
+  3. **L130 — `parfit-reductionism` body cross-link added.** `the "deep further fact" Parfit denied` → `the "deep further fact" [[parfit-reductionism|Parfit]] denied`. The concept article was reachable only from frontmatter; the link now fires at the one place in the body where Parfit's denial does the contrastive work. Zero word cost (alias replaces the bare name). Reviewer fix 6 as written ("engage Parfit's arguments … add Schechtman, Olson, Johnston, Shoemaker") was **not** actioned — those authors are already live across the corpus and `concepts/parfit-reductionism` already engages Relation R.
+- **Common-cause-null count**: 0 → 2 explicit named references. Remaining "converg-" hits: L82 inside its own negation (the honest-phrasing contrast), and L122's De Brigard construct-validity clause ("whether the measures … converge on anything at all"), which runs *against* the Map and asserts no support — gate does not apply.
+- **Length** (`analyze_length`, not `wc -w`): **3,958 → 3,995 words**, against the `topics/` hard ceiling of 4,000 — **5 words of headroom**, status `soft_warning`. Prose 3,245 → 3,282 (+37); apparatus unchanged at 713 (Further Reading 37, References 676). Net cost held to +37 by rewriting both loci in place rather than appending a compliance paragraph; the cross-link cost nothing. Both fixes landed in full — no partial gate acknowledgement, so the deferral clause in the task was not triggered.
+- **Protected and untouched**: the falsification criteria and their L118 relocation bound; the Tippett corrections (n, effect sizes, "more nuanced and multifaceted"); the generative-self-model steelman and the mineness-below-pastness downgrade; the De Brigard construct-validity engagement and the L144/L148 restrictions; every calibration hedge and citation-framing clause. No references deleted.
+- **Validation**: sync clean; all three new/edited wikilinks resolve in Hugo (`/topics/memory-anomalies/`, `/project/common-cause-null/` ×2, `/concepts/parfit-reductionism/`); `scripts/validate.py` ✓ Valid; no slug collisions for either new target; `git status` shows only the target file plus orchestrator state.
+- **Published**: yes
 
 ## 2026-08-04 10:25 UTC - research-topic
 - **Status**: Success
