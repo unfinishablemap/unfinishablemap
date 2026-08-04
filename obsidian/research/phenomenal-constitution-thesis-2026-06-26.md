@@ -7,6 +7,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-26
+ai_modified: 2026-08-04T11:15:00+00:00
 last_curated: null
 ---
 
@@ -66,7 +67,7 @@ The Phenomenal Constitution Thesis, as the Map uses it, is the claim that the ph
 - **Verification**: VERIFIED (fetched directly).
 - **Key points**:
   - Confirms the constitution-vs-accompaniment framing and the "in virtue of / constitutively dependent on" gloss (citing Chudnoff 2015b).
-  - Notes Horgan & Tienson's phenomenal-intentionality thesis (phenomenology "primary to all other forms of intentionality").
+  - Glosses the *programme's* shared commitment — crediting Horgan & Tienson 2002, Kriegel 2011, and Mendelovici 2018 jointly — as the claim that phenomenology is "primary to all other forms of intentionality." **The wording is IEP's own summary, not Horgan & Tienson's; do not attribute the phrase to them.** Their own formulation is "a kind of intentionality, pervasive in human mental life, that is constitutively determined by phenomenology alone" (2002, 520, as quoted in SEP "Phenomenal Intentionality").
 - **Quote**: "Putting one in a phenomenal state should be understood as a non-causal explanatory relation that can alternatively be picked out by 'in virtue of' or 'constitutively dependent on'."
 
 ### SEP — "Material Constitution" (Ryan Wasserman; substantively revised 14 January 2026)
@@ -145,7 +146,7 @@ The Phenomenal Constitution Thesis, as the Map uses it, is the claim that the ph
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
 | 1992 | Johnston, "Constitution is not Identity" (*Mind*) | Canonical statement that constitution ≠ identity |
-| 2002 | Horgan & Tienson, phenomenal-intentionality thesis | Phenomenology "primary to all other intentionality" |
+| 2002 | Horgan & Tienson, phenomenal-intentionality thesis | Intentionality "constitutively determined by phenomenology alone" (2002, 520) |
 | 2003 | Chalmers, on direct phenomenal concepts ("quality constitutes concept") | Acquaintance-as-constitution for phenomenal self-knowledge |
 | 2007 | Horgan & Kriegel, "Phenomenal Epistemology" | Phenomenal reality *constitutes* epistemic appearance |
 | 2011–12 | Bayne & Montague (eds.) *Cognitive Phenomenology*; Pitt; Gertler (2012) | Cognitive-phenomenology debate matures; acquaintance constitution |

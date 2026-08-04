@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T11:08:00+00:00'
+ai_modified: '2026-08-04T11:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 11:08:00+00:00
+lastmod: 2026-08-04 11:15:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 11:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/)
+- **Word count**: 1981 → 2076 (+95), 83% of the 2500 concepts soft threshold, measured with `tools.curate.length.analyze_length` (count-words-includes-frontmatter)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Delta since the 2026-06-26 review was frontmatter-only** — `topics: []` populated with three bare slugs (commit `e19d4349d`). The body and References block were byte-identical, so §2.4's trigger rule permitted skipping the citation sweep. It was re-run anyway under a **quote-provenance** lens the prior pass did not apply (quote-fidelity-defects-survive-metadata-reviews), and that lens found the one defect a metadata-clean article can still carry.
+- **Critical — misattributed verbatim quote.** The article read *"Horgan and Tienson's thesis that phenomenology is 'primary to all other forms of intentionality'"*. Verified at the live IEP entry: the phrase is the **IEP author's own summary**, and it credits three parties jointly — *"proponents of Phenomenal intentionalism claim that phenomenology or Phenomenal intentionality is primary to all other forms of intentionality (Horgan & Tienson 2002, Kriegel 2011, Mendelovici 2018)."* Two errors compounded: a secondary source's gloss presented as the primary authors' wording, and a joint attribution collapsed onto one pair of names. Independently confirmed that the phrase does **not** occur in SEP *Phenomenal Intentionality*, fixing IEP as its sole source.
+- **Re-framed, not deleted** (citation-framing-accuracy-lens). The IEP gloss now sits with the IEP and keeps its joint credit; Horgan and Tienson's **actual** formulation takes the slot that was falsely theirs — *"a kind of intentionality, pervasive in human mental life, that is constitutively determined by phenomenology alone"* (2002, 520, as quoted in SEP). **The replacement is a net gain, not a repair**: the genuine H&T sentence names *constitutive determination*, so the Map's central claim is now anchored to a primary-source statement of exactly the relation PCT asserts, where the false gloss only asserted primacy.
+- **Why the 2026-06-26 ledger missed it.** It recorded the cite `real-correct` on the justification "their 2002 inseparability/phenomenal-intentionality thesis" — a **paraphrase-level** ratification. The paraphrase is accurate; the quotation marks around it were not earned. A cite can pass every metadata check (author real, year right, thesis correctly characterised) while the quoted span belongs to a different text.
+- **Invented metadata declined.** The H&T References entry deliberately **omits** the chapter end-page. Only p. 520 is verified (via SEP's page-cited quotation); writing the plausible-looking `520–533` would be the exact defect class this pass exists to catch. Authors and year independently confirmed at OpenAlex (Terence Horgan and John Tienson, 2002).
+- **Source note corrected too** (research-note-self-flagged-gaps-propagate-to-the-article). The defect entered from `research/phenomenal-constitution-thesis-2026-06-26.md`, which quoted the phrase under its IEP section and then re-attributed it to the H&T row of its Historical Timeline. Both loci fixed, and the IEP bullet now carries an explicit *"do not attribute this phrase to them"* warning to stop re-propagation.
+- **Corpus sweep across all three trees** (defect-sweeps-must-include-archive-tree): the misattribution string survives only where review files quote it *as* the defect. No sibling articles carry it (fix-by-file-leaves-string-siblings-live).
+- **Medium**: redundant wikilink alias `[[cognitive-phenomenology|cognitive-phenomenology]]` (alias identical to target) simplified.
+- **Stale deferral retired.** The prior review's only open note said `[[intentionality]]` and `[[symbol-grounding-problem]]` resolved to `archive/` copies. Live articles now exist at `obsidian/concepts/`, and the synced Hugo output confirms both body links render to live `/concepts/…` URLs, not archive-notice pages. No archival_link_rot exposure remains here.
+- **Passes**: §2.5 attribution PASS (Chudnoff critic-not-proponent role-accuracy re-confirmed, qualifiers intact); §2 calibration PASS (no tenet-coherence-as-evidence-upgrade; Tenet 3 still "plausibility rather than proving"); empirical-currency helper returned **0** superlative claims; inline↔References clean after the two additions; all nine Further Reading wikilinks resolve to live articles; **label leakage: none**.
+- **Reasoning-mode classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): deflationists (Tye/Dretske/Prinz) **Mode Three** — opposition registered as real and capable with downstream conclusions marked conditional, no in-framework refutation claimed; grounding-and-constitution physicalists — clarificatory disambiguation ("share a verb and nothing else"), not a refutation claim; Chudnoff **Mode Three** — the Map records siding against him on content-determinacy without claiming to beat him on his own ground. No mode vocabulary in article prose.
+- **Attribution**: existing `ai_system: claude-opus-4-8` **held, not flipped** to the editing model (deep-review-fork-over-attributes-ai-system); `ai_modified` and `last_deep_review` bumped to 2026-08-04T11:15:00+00:00, `date -u`-checked and strictly past (fork-future-dates-frontmatter-timestamps). `modified:` left alone per corpus convention.
+- **Mirror verified** (obsidian-only-fix-leaves-defect-live-in-hugo): `scripts/sync.py` run; `hugo/content/concepts/phenomenal-constitution-thesis.md` greps **1** for the new H&T quote and **0** for the misattribution.
+- **Output**: [deep-review-2026-08-04-phenomenal-constitution-thesis](/reviews/deep-review-2026-08-04-phenomenal-constitution-thesis/)
 
 ## 2026-08-04 11:08 UTC - refine-draft
 - **Status**: Success

@@ -4,8 +4,8 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
-last_deep_review: 2026-06-26T10:01:43+00:00
+ai_modified: 2026-08-04T11:15:00+00:00
+last_deep_review: 2026-08-04T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ last_curated:
 
 The **Phenomenal Constitution Thesis (PCT)** is the claim that the phenomenal character of a conscious state—what the state is *like* to undergo—partly *constitutes* the content or meaning of that state, rather than merely accompanying, causing, or covarying with it. On this view, to grasp the meaning of a thought *is* to undergo a certain experiential character; strip the experience away and the determinate content goes with it. PCT is the load-bearing premise behind much of The Unfinishable Map's resistance to functionalist accounts of understanding: if meaning is constituted by phenomenal character, then a system without phenomenal character does not genuinely understand, however well it manipulates symbols.
 
-"PCT" is the Map's house term—a compression of the strong [[cognitive-phenomenology|cognitive-phenomenology]] liberalism and the phenomenal-intentionality programme, defined here against the established literature rather than borrowed as an external term of art. No major figure uses this exact phrase as a named position. What the literature does supply is the precise machinery the thesis needs: a worked-out sense of "constitution" that is stronger than [[supervenience]] yet weaker than identity, and a [[#constitution-vs-accompaniment|constituting-versus-accompanying]] distinction (explained below) drawn within the cognitive-phenomenology debate. The Map adopts the constitutive horn abductively; it is a [[#abductive-bet|contested thesis the Map advances]], not a settled result.
+"PCT" is the Map's house term—a compression of the strong [[cognitive-phenomenology]] liberalism and the phenomenal-intentionality programme, defined here against the established literature rather than borrowed as an external term of art. No major figure uses this exact phrase as a named position. What the literature does supply is the precise machinery the thesis needs: a worked-out sense of "constitution" that is stronger than [[supervenience]] yet weaker than identity, and a [[#constitution-vs-accompaniment|constituting-versus-accompanying]] distinction (explained below) drawn within the cognitive-phenomenology debate. The Map adopts the constitutive horn abductively; it is a [[#abductive-bet|contested thesis the Map advances]], not a settled result.
 
 ## What "Constitution" Means Here {#constitution}
 
@@ -59,7 +59,7 @@ PCT is sharpest when triangulated against its neighbours. It is stronger than ph
 
 The distinction PCT turns on was given its canonical form by Elijah Chudnoff in *Cognitive Phenomenology* (Routledge, 2015). Chudnoff separates the claim that cognitive states *constitute* a proprietary phenomenal character from the weaker claim that phenomenal character merely *accompanies* them. The Internet Encyclopedia of Philosophy renders the constitutive sense as "a non-causal explanatory relation that can alternatively be picked out by 'in virtue of' or 'constitutively dependent on'" (IEP, "Cognitive Phenomenology"). The evidential engine for proprietary cognitive phenomenology, on Chudnoff's account, is the phenomenal-contrast argument: the same dot array experienced as a mere array versus as a step in a proof differs phenomenally though the sensory input is held fixed.
 
-A crucial role-accuracy point: **Chudnoff supplies the distinction but is a *critic* of content-PCT, not a proponent.** He argues *against* phenomenal intentionality for cognitive states—that the contents of demonstrative, indexical, natural-kind, and mathematical concepts do *not* constitutively depend on phenomenal properties alone. So the Map's frequent citation "Chudnoff distinguishes accompanying from constituting" is faithful to his *distinction*, but the Map sides *against* Chudnoff on the content-determinacy verdict. The actual proponents of the strong horn the Map adopts come from the phenomenal-intentionality programme (Horgan and Tienson's thesis that phenomenology is "primary to all other forms of intentionality," and the associated work of Pitt, Strawson, Siewert, and Kriegel). The Map takes the constitutive horn over the accompaniment horn abductively; it does not borrow the verdict from Chudnoff.
+A crucial role-accuracy point: **Chudnoff supplies the distinction but is a *critic* of content-PCT, not a proponent.** He argues *against* phenomenal intentionality for cognitive states—that the contents of demonstrative, indexical, natural-kind, and mathematical concepts do *not* constitutively depend on phenomenal properties alone. So the Map's frequent citation "Chudnoff distinguishes accompanying from constituting" is faithful to his *distinction*, but the Map sides *against* Chudnoff on the content-determinacy verdict. The actual proponents of the strong horn the Map adopts come from the phenomenal-intentionality programme, whose sharpest statement is Horgan and Tienson's: there is "a kind of intentionality, pervasive in human mental life, that is constitutively determined by phenomenology alone" (2002, 520, as quoted in the SEP entry on phenomenal intentionality). The Internet Encyclopedia of Philosophy glosses the programme's shared commitment—crediting Horgan and Tienson, Kriegel, and Mendelovici jointly rather than any one figure—as the claim that phenomenology is "primary to all other forms of intentionality." Pitt, Strawson, Siewert, and Kriegel develop adjacent versions. The Map takes the constitutive horn over the accompaniment horn abductively; it does not borrow the verdict from Chudnoff.
 
 ## The Direction of Constitution {#direction}
 
@@ -110,4 +110,6 @@ The honest framing throughout: PCT is a *contested constitutive thesis the Map h
 3. Wasserman, Ryan. "Material Constitution." *Stanford Encyclopedia of Philosophy* (substantive revision 14 January 2026). https://plato.stanford.edu/entries/material-constitution/
 4. Gertler, Brie. "Self-Knowledge." *Stanford Encyclopedia of Philosophy* (substantive revision 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
 5. "Cognitive Phenomenology." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/cognitive-phenomenology/
-6. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+6. Horgan, Terence, and John Tienson. "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In *Philosophy of Mind: Classical and Contemporary Readings*, edited by David J. Chalmers. New York: Oxford University Press, 2002.
+7. "Phenomenal Intentionality." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/phenomenal-intentionality/
+8. Southgate, A. & Oquatre-sept, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
