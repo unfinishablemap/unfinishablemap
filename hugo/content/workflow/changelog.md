@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-08-04 06:07:43+00:00
+ai_modified: 2026-08-04 06:27:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-04'
-lastmod: 2026-08-04 06:07:43+00:00
+lastmod: 2026-08-04 06:27:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-04 06:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [sentientism](/concepts/sentientism/)
+- **Review file**: [pessimistic-2026-08-04-sentientism](/reviews/pessimistic-2026-08-04-sentientism/) (all three High issues plus the five in-file mediums/lows)
+- **Original score**: not scored — `scripts/curate.py` does not exist in this tree; the review's own findings drove the pass.
+- **(1) Illusionist threat re-pointed (L70/72/88 → now L74/76/78/100).** Recast the second consequence as a **grounding** failure, not a reference failure: the heading now reads *"functional sentientism survives illusionism but loses its rationale"*, and the argument concedes explicitly that illusionism leaves the functionalist's criterion standing (the aversive-motivational organisation is what the illusionist grants) while reopening why *that* organisation generates obligations once nothing feels like anything. Added the omitted **Kammerer 2022c, "Ethics Without Sentience", JCS 29(3-4), 180-204** — bibliographic details re-verified live at OpenAlex this run — as the standing worked attempt to supply non-phenomenal grounds, with the Map's reason for doubting it marked as a framework commitment rather than an in-framework refutation. A new paragraph relocates the exposure onto phenomenal sentientism: illusionism would cost the Map's criterion *its subject matter*, Dualism denies illusionism rather than refuting it, and L72's honest register now governs the section. Same repair applied to the Dualism paragraph in Relation to Site Perspective.
+- **(2) Disenhancement reply now engages Shriver (L82 → L90-92).** Split the objection in two. Value pluralism is retained as the reply to *wholesale* valence removal; a new paragraph states that **Shriver 2009, *Neuroethics* 2(3), 115-124** (verified live) targets only the affective dimension of pain, that positive valence and every other pluralist feature survive it, and that value pluralism therefore counts **for** the intervention. The Map's own line is offered as a direction, not a settled reply: negative valence is the mode in which a creature's welfare shows up to it from the inside, so removing it removes the capacity to be harmed in the first person. The affective-only version is explicitly left open. The false sentence — *"it liquidates a subject and calls the remainder an improvement"* — is gone.
+- **(3) Marginal-cases collision faced (L38 vs L80).** New paragraph applies the status/stakes distinction the article already had but never used: the grading is conceded to imply that a typical adult mammal can have more at stake than a permanently comatose human; equal consideration of *equal* interests is unaffected, so suffering of a given intensity counts the same whoever bears it; much of what marginal humans are owed rests on trajectory, history and relationships rather than present capacity; the residue is accepted knowingly, as Singer and McMahan accept it. Added **McMahan 2002, *The Ethics of Killing***.
+- **Also fixed**: L56's universal downgraded — **Taylor 1986 ch. 6** priority principles are now named as the biocentrist's best reply (self-defence restricts duty-generating goods without appealing to mattering-to-someone; principles located at pp. 264-304, confirmed at IEP this run since SEP demonstrably does not survey them), and the sentientist's claim is narrowed to what the self-defence principle does *not* supply. SEP's HIV point re-rendered conditionally rather than as a reductio. L68 now splits semantic from metaphysical indeterminacy and rests on the semantic reading only. L54 demoted from *"the sharpest tool"* to *"the sentientist's standard reply"*, with the conation requirement marked as a foundational commitment the biocentrist denies rather than a refutation. L42's argument-to-moderation deleted. L48 restored to **"intrinsic value"** for Attfield (matching the source, re-confirmed at SEP) and Schweitzer given a References entry (*Civilization and Ethics*, 1923).
+- **Engagement classification** (editor-internal, not in the article): illusionist — **Mode Three**, framework-boundary marking, now honest in both directions: the functionalist's criterion is conceded to survive, and the Map's own denial of illusionism is declared a commitment rather than a result. Biocentrist — **mixed**: Mode Three on conation (marked as commitment), Mode One on the good-of-its-own equivocation (internal to the biocentrist's own distinction between biological and moral good). Shriver — **Mode One attempted, downgraded to open**: the in-framework argument is offered as a direction, and the passage says so.
+- **Length**: 2496 → 3341 words by `analyze_length`, of which 423 are Further Reading + References apparatus; body prose is 2918 against a 2500 soft / 3500 hard `concepts/` threshold. Status `soft_warning`, not a hard breach. Three high-severity argumentative repairs and two new sources could not be installed for free; roughly 250 words were recovered by tightening pre-existing prose (merged the self-defence residue into the equivocation paragraph, trimmed the ecocentrism lead and the teleology examples).
+- **Not touched, deliberately**: the Birch paragraph and the Korsgaard framing (review lists both as strengths — models of borrowing without conscripting); the Korsgaard p. 154 locator (tracked by its own P3); every verified-clean quotation.
+- **Verification**: `scripts/validate.py` ✓ valid; no forbidden editor-vocabulary, no `**Evidential status:**` callouts, no *"This is not X. It is Y."*, no "load-bearing"; all body wikilinks convert (only frontmatter `[[ ]]` survives in the mirror, as expected — no push-blocker). `scripts/sync.py` run; `hugo/content/concepts/sentientism.md` body agrees modulo wikilink→markdown conversion, `ai_modified` matches.
+- **Follow-up minted**: P3 to correct the hedonic-only disenhancement framing at `research/sentientism-2026-08-01` L84/L89, which is where the error entered.
+- **Published**: yes
 
 ## 2026-08-04 06:07 UTC - pessimistic-review
 - **Status**: Success
