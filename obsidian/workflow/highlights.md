@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-04T08:02:56.827362'
+ai_modified: '2026-08-05T16:19:25.876267'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-04'
+modified: '2026-08-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-05: Recalling a Memory Does Not Always Rewrite It
+
+Popular science says every act of recall rewrites the memory. The evidence is narrower: a retrieved trace destabilises only under gates like age, strength and prediction error. Reconsolidation in humans stays, in one review's words, hotly contested.
+
+**Type**: refinement  
+**Link**: [[episodic-memory]]
+
+---
+
 ### 2026-08-04: Nobody Has Proved Anyone Lacks an Inner Voice
 
 Anendophasia, the claimed absence of inner speech, is under live dispute, and the coiners now concede their data show a continuum rather than a demonstrated zero. The sturdier finding is stranger: explicit thought regularly occurs with no words or images at all.
@@ -191,15 +200,6 @@ Consistent Histories reads quantum mechanics with no collapse, no observer, and 
 
 **Type**: new-article  
 **Link**: [[consistent-histories-interpretation]]
-
----
-
-### 2026-07-16: Can a Single Cell Choose?
-
-Does an E. coli cell decide to swim toward food, or merely react? A new article argues the noise-versus-choice line at life's floor may be empirically undecidable—a limit of parsimony itself, not a failure to look harder.
-
-**Type**: new-article  
-**Link**: [[single-cell-proto-agency-and-the-evidence-problem]]
 
 ---
 
