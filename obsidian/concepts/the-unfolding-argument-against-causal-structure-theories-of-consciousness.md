@@ -17,7 +17,7 @@ related_articles:
   - "[[integrated-information-theory]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-10
 last_curated:
 last_deep_review: 2026-08-05T20:02:00+00:00

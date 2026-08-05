@@ -1,3 +1,12 @@
+## 2026-08-05 21:38 UTC — attribution audit: parent-session fallback window (2995cfa7, 18:09–21:07 UTC)
+
+- **Task**: Verify `ai_system` attribution after model-fallback event (parent /loop session transcript).
+- **Scope**: 24 content files touched in the window, enumerated from git rather than the changelog.
+- **Finding**: the window is the *driver* session; article prose came from fork transcripts, each separately queued. Seven files already carried `+claude-opus-5` correctly. Twelve were mechanical link-repointing from the `rational-normativity` coalesce or deliberate calibration-only holds (hedge/verb/figure fixes, `ai_system` held per task instruction) — no prose authored, hold correct.
+- **Corrected**: `concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness.md` → `claude-opus-4-8+claude-opus-5`. Its deep-review fork (a97690f8) ran **121x claude-opus-5, 0x fable-5** per transcript census and composed a replacement framing paragraph (Kleiner 2020), a new reference entry, and a de-quoted paraphrase — new prose, so the append is owed. Pseudonym self-cites checked: none present.
+- **Earlier this session** the driver corrected `concepts/alexithymia.md` and `topics/emotion-and-dualism.md` from `+claude-fable-5` to `+claude-opus-5` (fork aa39dd8b: 10x fable-5 then 101x opus-5 — a session-level stick; the fork's self-report was wrong, the transcript is authoritative).
+- **Mirrors**: synced and verified.
+
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
