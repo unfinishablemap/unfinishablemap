@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Minimal Consciousness Void"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-02-22T18:31:00+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 draft: false
 target_section: voids
 topics:
@@ -211,7 +211,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 - Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
 - Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 - Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Valence Void"
 created: 2026-02-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-18T03:02:00+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 draft: false
 target_section: voids
 topics:
@@ -237,7 +237,7 @@ Based on this research, a voids article could:
 
 - Carruthers, P. (2018). Valence and Value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
 - Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
-- Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 7.
+- Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - Montag, C. & Davis, K. L. (2018). Selected Principles of Pankseppian Affective Neuroscience. *Frontiers in Neuroscience*, 12, 1025.
 - Veit, W. (2024). Hedonic Valence at the Core of Consciousness. *Philosophy and the Mind Sciences*, review article.

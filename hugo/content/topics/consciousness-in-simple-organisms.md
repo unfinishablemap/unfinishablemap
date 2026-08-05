@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-03 22:27:10+00:00
+ai_modified: 2026-08-05 22:12:37+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:33:01+00:00
-lastmod: 2026-08-03 22:27:10+00:00
+lastmod: 2026-08-05 22:12:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -313,7 +313,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Low, P., et al. (2012). Cambridge Declaration on Consciousness.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

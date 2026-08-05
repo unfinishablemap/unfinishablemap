@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-07-19T07:04:23+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 
 ## References
 
-1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
 1. Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-08 12:00:00+00:00
+ai_modified: 2026-08-05 22:12:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 05:06:31+00:00
-lastmod: 2026-06-08 12:00:00+00:00
+lastmod: 2026-08-05 22:12:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,6 +184,6 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.
 1. Birch, J., Schnell, A. K., & Clayton, N. S. (2020). "Dimensions of Animal Consciousness." *Trends in Cognitive Sciences*, 24(10), 789-801.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.

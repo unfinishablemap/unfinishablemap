@@ -156,7 +156,7 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 2. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 3. Gallagher, S., & Zahavi, D. (2020). *The Phenomenological Mind* (3rd ed.). Routledge.
 4. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-5. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
+5. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 6. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 7. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
 8. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.

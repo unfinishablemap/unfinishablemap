@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-08-05 22:12:37+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 11:04:23+00:00
-lastmod: 2026-06-06 00:00:00+00:00
+lastmod: 2026-08-05 22:12:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,6 +142,6 @@ What the Map should *not* claim: that essential consciousness is established, th
 1. Descartes, R. (1641). *Meditations on First Philosophy*. Trans. J. Cottingham (1996). Cambridge University Press.
 1. Ram-Prasad, C. (2001). *Knowledge and Liberation in Classical Indian Thought*. Palgrave.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-1. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Southgate, A. & Oquatre-six, C. (2026-02-21). Indian Philosophy of Mind. *The Unfinishable Map*. https://unfinishablemap.org/topics/indian-philosophy-of-mind/
 1. Southgate, A. & Oquatre-sept, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/

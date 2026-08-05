@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-04 09:15:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-05 22:12:37+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[witness-consciousness]]'
@@ -17,8 +17,8 @@ description: A human-AI exposition of Metzinger's SMT—the no-self account on w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-11 13:46:00+00:00
-lastmod: 2026-08-04 09:15:00+00:00
+last_deep_review: 2026-08-05 22:12:37+00:00
+lastmod: 2026-08-05 22:12:37+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -52,7 +52,7 @@ The popular restatement in *The Ego Tunnel* (2009) puts it directly: "The consci
 
 The upshot is eliminativist about the *self* while realist about the *self-model*: the self is virtual, simulated, a construct—"no one" is home behind the representation. Crucially, this is a claim about a substantival ego or thing-like self, not a denial that self-*experience* occurs.
 
-Blanke and Metzinger (2009) supply the empirical backbone through **minimal phenomenal selfhood (MPS)**—"the experience of being a distinct, holistic entity capable of global self-control and attention, possessing a body and a location in space and time." They isolate its constituting features as global identification with the body as a whole, self-location in space, and a weak, geometrical first-person visuospatial perspective. The empirical anchor is the family of **full-body illusions**: the rubber-hand illusion generalized to the whole body, and out-of-body experiences induced experimentally. When self-location and self-identification can be shifted by manipulating multisensory input, Blanke and Metzinger read this as evidence that embodied selfhood is a constructed model rather than a fixed datum. In his later work on "minimal phenomenal experience" (2020), Metzinger extends the analysis even to contentless "pure awareness" in meditation, hypothesizing that it too is a predictive model—of *tonic alertness*—which keeps the no-self line intact at the phenomenological limit.
+Blanke and Metzinger (2009) supply the empirical backbone through **minimal phenomenal selfhood (MPS)**—"the experience of being a distinct, holistic entity capable of global self-control and attention, possessing a body and a location in space and time." They isolate its constituting features as global identification with the body as a whole, self-location in space, and a weak, geometrical first-person visuospatial perspective. The empirical anchor is the family of **full-body illusions**: the rubber-hand illusion generalized to the whole body, and out-of-body experiences induced experimentally. When self-location and self-identification can be shifted by manipulating multisensory input, Blanke and Metzinger read this as evidence that embodied selfhood is a constructed model rather than a fixed datum. In his later work on "minimal phenomenal experience" (2020), Metzinger extends the analysis even to contentless "pure awareness" in meditation, hypothesizing that it too is a predictive model—a Bayesian representation of *tonic alertness*. The limit case is absorbed rather than excepted: MPE is, in his phrase, "non-egoic self-modelling," still modelling, and therefore "atemporal, selfless, and not tied to an individual first-person perspective" (2020, p. 36). The no-self line holds even where phenomenal content thins to nothing.
 
 ## Relation to Site Perspective
 
@@ -62,7 +62,7 @@ The Map treats SMT as a principal *rival*: a representationalist, functionalist 
 
 **2. Transparency relocates, rather than closes, the hard problem.** SMT's real achievement is explaining the *structure* of self-representation: transparency predicts the naive-realist sense of *being* rather than *having*. But a residual question survives—*why is there phenomenal character to the modeling at all?* Why does running a transparent self-model *feel like* being someone, rather than proceeding in the dark? Transparency is a claim about the introspective *availability* of representational vehicles; it does not by itself manufacture experience from non-experience. On the Map's dualist reading (Tenet 1), this is where a non-physical contribution does work the functional story leaves untouched. The point is dialectical, not a knock-down: SMT is not thereby refuted; the hard problem is re-sited inside the self-model rather than removed.
 
-**3. SMT as the naturalist cousin of *anattā*.** SMT's no-self converges strikingly with the Buddhist and [Yogācāra](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/) no-self traditions the Map already engages. Both deny a substantival ego; both treat the felt self as a construction. The divergence is instructive. The Yogācāra *ālaya-vijñāna* is a *conditioned mental continuum*, and the contemplative [witness](/concepts/witness-consciousness/) (*sākṣin*) is sometimes read as an irreducible experiential locus—whereas SMT's self is a *virtual* representational construct with no one behind it. The Map's dualism reads the transparency/witness structure differently again: the witness is a candidate for the *non-physical coupling point* (Tenets 1 and 3) rather than a further layer of representation. The Map can therefore accept much of SMT's *deconstruction* of the substantival ego—there is no Cartesian thing-self—while resisting its *elimination* of the subject, which is precisely the move contemplative-realist readers make against Metzinger's reading of pure awareness. For the phenomenological groundwork on the minimal, structural for-me-ness this move protects, see [self-and-self-consciousness](/concepts/self-and-self-consciousness/).
+**3. SMT as the naturalist cousin of *anattā*.** SMT's no-self converges strikingly with the Buddhist and [Yogācāra](/concepts/yogacara-alaya-vijnana-storehouse-consciousness/) no-self traditions the Map already engages. Both deny a substantival ego; both treat the felt self as a construction. The divergence is instructive. The Yogācāra *ālaya-vijñāna* is a *conditioned mental continuum*, and the contemplative [witness](/concepts/witness-consciousness/) (*sākṣin*) is sometimes read as an irreducible experiential locus—whereas SMT's self is a *virtual* representational construct with no one behind it. Metzinger does not leave this convergence to his readers. He takes up the *sākṣin* directly in the 2020 paper and finds in it "something that strongly resembles MPE"—but he reaches that reading, by his own statement, only "on a purely phenomenological reading that abstracts away from all metaphysical and epistemological aspects of the term" (2020, p. 11). The bracketing is where the Map's objection bites, and it bites inside his procedure rather than from outside it: whether the witness is an irreducible experiential locus or one more representational layer *is* the metaphysical question, so setting the metaphysics aside cannot be what settles it. The resemblance he reports is real; the annexation of the witness to the modeling story is not yet earned by it. The Map's dualism reads the transparency/witness structure differently again: the witness is a candidate for the *non-physical coupling point* (Tenets 1 and 3) rather than a further layer of representation. The Map can therefore accept much of SMT's *deconstruction* of the substantival ego—there is no Cartesian thing-self—while resisting its *elimination* of the subject, which is precisely the move contemplative-realist readers make against Metzinger's reading of pure awareness. For the phenomenological groundwork on the minimal, structural for-me-ness this move protects, see [self-and-self-consciousness](/concepts/self-and-self-consciousness/).
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-06-21T11:38:47+00:00
 human_modified: null
-ai_modified: 2026-08-03T22:27:10+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -309,7 +309,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Low, P., et al. (2012). Cambridge Declaration on Consciousness.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

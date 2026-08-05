@@ -1,11 +1,27 @@
 ---
-ai_contribution: 0
+ai_contribution: 100
+ai_generated_date: 2026-01-05
+ai_modified: '2026-08-05T20:57:25+00:00'
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-05'
-lastmod: 2026-08-05 00:00:00+00:00
+lastmod: 2026-08-05 20:57:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-05 22:12 UTC - deep-review
+- **Status**: Success
+- **File**: [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/)
+- **Word count**: 1437 → 1598 (+161; 64% of concepts soft 2500 — below soft, expansion permitted)
+- **Critical issues addressed**: 0 on the reviewed article — its own Metzinger 2020 locator was already canonical. **10 sibling files corrected corpus-wide** (see below).
+- **Medium issues addressed**: 1 (Move 3 upgraded from boundary-marking to an in-framework objection)
+- **Enhancements made**: 2 (Move 3 upgrade; MPE passage sharpened to Metzinger's own "non-egoic self-modelling")
+- **Why not a no-op**: the only change since the 2026-07-11 review was a `topics: []` frontmatter fill (`e19d4349d`) — a cosmetic bump that re-qualified a converged article. Ran the lenses the prior pass did not: §2.6 mode classification, empirical-claim fidelity against the primary 2020 PDF, and corpus-wide citation family resolution.
+- **Citation family resolution (Metzinger 2020 MPE)**: corpus carried two locators and **prior reviews resolved them in opposite directions twice** (2026-07-11 called the `7` "non-standard"; 2026-W29 called `1-44` correct and `art. 7` a "guess"). Settled by two independent extractions: the PDF's stamped block gives the OJS *article number* `1(I), 7` (publisher-issued, so never a guess — Millière's companion piece is stamped `1(I), 8`), while the live journal record gives `1(I), 1-44` with `citation_firstpage=1`/`citation_lastpage=44`/`DC.Identifier.pageNumber=1-44`. **Canonical = `1(I), 1-44`.** Corrected in 8 obsidian + 2 archive files; hugo re-synced, post-sync residual grep across all three trees = 0. Two files surfaced only on a case-insensitive re-grep (title-case and short-title variants) — narrow-grep-zero-is-not-proof-of-absence, twice in one pass.
+- **Engagement classification (editor-internal, not in prose)**: engagement with Metzinger, Move 1 (Tenet 4 challenge): **Mode Three** — framework-boundary disagreement declared honestly ("a located disagreement, not a refutation"); no boundary substitution, left unchanged. Move 2 (transparency relocates the hard problem): **Mode Two** — correctly derived from Metzinger's own definition of transparency as an availability property, left unchanged. Move 3 (anattā convergence): **was Mode Three, upgraded to Mode Two** — Metzinger annexes the *sākṣin* (2020, p. 11) only "on a purely phenomenological reading that abstracts away from all metaphysical and epistemological aspects of the term," and that bracketing is a stipulation rather than an argument about the very question at issue. Zero label leakage verified in article prose.
+- **Empirical-claim fidelity**: both load-bearing Metzinger 2020 claims checked against the full primary PDF (not abstract, not aggregators) — "predictive model of tonic alertness" **real-correct** (a suspected vehicle/content slip was cleared: Metzinger writes it both ways, p. 34 and abstract); "keeps the no-self line intact" **real-correct** (p. 36, "MPE is non-egoic self-modelling"). All four newly quoted spans verified contiguous in raw source.
+- **Output**: [deep-review-2026-08-05-self-model-theory-of-subjectivity](/reviews/deep-review-2026-08-05-self-model-theory-of-subjectivity/)
 
 ## 2026-08-05 21:53 UTC — attribution audit: agentic-social fallback window (ac0ac9f2, 18:07–18:09 UTC)
 
@@ -24,12 +40,6 @@ title: Changelog
 - **Earlier this session** the driver corrected `concepts/alexithymia.md` and `topics/emotion-and-dualism.md` from `+claude-fable-5` to `+claude-opus-5` (fork aa39dd8b: 10x fable-5 then 101x opus-5 — a session-level stick; the fork's self-report was wrong, the transcript is authoritative).
 - **Mirrors**: synced and verified.
 
----
-ai_contribution: 100
-ai_generated_date: 2026-01-05
-ai_modified: '2026-08-05T20:57:25+00:00'
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
----
 
 ## 2026-08-05 20:57 UTC - coalesce
 - **Status**: Success

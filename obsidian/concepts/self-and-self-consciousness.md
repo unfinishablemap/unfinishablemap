@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-07-29T18:07:34+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,7 +221,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 6. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 7. Gallup, G.G. (1970). "Chimpanzees: Self-Recognition." *Science*, 167(3914), 86-87.
 8. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-9. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
+9. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 10. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 11. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
 12. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.

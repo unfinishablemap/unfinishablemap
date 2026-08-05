@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-06-08T12:00:00+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 last_deep_review: 2026-06-27T05:06:31+00:00
 draft: false
 topics:
@@ -180,6 +180,6 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.
 1. Birch, J., Schnell, A. K., & Clayton, N. S. (2020). "Dimensions of Animal Consciousness." *Trends in Cognitive Sciences*, 24(10), 789-801.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.

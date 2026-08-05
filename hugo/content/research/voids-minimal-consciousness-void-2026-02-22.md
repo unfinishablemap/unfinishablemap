@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 18:31:00+00:00
+ai_modified: 2026-08-05 22:12:37+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-22
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-22 18:31:00+00:00
+lastmod: 2026-08-05 22:12:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -213,7 +213,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 - Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
 - Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 - Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.

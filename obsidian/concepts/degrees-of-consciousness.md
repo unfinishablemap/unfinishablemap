@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-11T00:50:00+00:00
+ai_modified: 2026-08-05T22:12:37+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -144,7 +144,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 3. Andrews, K., Birch, J., & Sebo, J. (2024). The New York Declaration on Animal Consciousness. The Emerging Science of Animal Consciousness Conference, New York University, 19 April 2024.
 4. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
+6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 7. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 9. Bayne, T., Hohwy, J., & Owen, A. M. (2016). Are There Levels of Consciousness? *Trends in Cognitive Sciences*, 20(6), 405-413.
