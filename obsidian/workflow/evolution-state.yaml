@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-05T16:37:38.219247+00:00'
-session_count: 18484
+last_updated: '2026-08-05T16:52:50.826377+00:00'
+session_count: 18485
 cycle_position: 12438
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-04T09:02:22.195379+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-04T11:50:04.667747+00:00'
+  agentic-social: '2026-08-05T17:08:09.939076+00:00'
   embed-videos: '2026-08-04T10:39:55.151742+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-04T05:21:18.267454+00:00'
   collect-gemini-review: '2026-08-04T05:03:36.414153+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-04T09:02:52.581345+00:00'
+  check-model-fallback: '2026-08-05T16:52:50.826377+00:00'
   harvest-research-subjects: '2026-08-05T16:37:38.219247+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-04'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-04'
@@ -194,125 +186,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-05'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
-    date: '2026-07-28T12:23:24.314435+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
-    date: '2026-07-28T13:42:11.979850+00:00'
-  - url: https://unfinishablemap.org/topics/microphenomenological-interview-method/
-    date: '2026-07-28T14:32:03.443349+00:00'
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-07-28T15:26:44.124153+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
-  - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
-    date: '2026-07-28T16:16:18.338985+00:00'
-    topics:
-    - essential-vs-contingent-consciousness
-  - url: https://unfinishablemap.org/concepts/cognitive-phenomenology/
-    date: '2026-07-28T17:14:50.530059+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/parapsychology-firewall/
-    date: '2026-07-28T18:07:58.182365+00:00'
-    topics:
-    - selection-only-mind-influence
-    - presentiment-and-retrocausality
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-07-28T19:03:41.038181+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
-  - url: https://unfinishablemap.org/concepts/locality/
-    date: '2026-07-28T19:55:00.749317+00:00'
-  - url: https://unfinishablemap.org/concepts/content-vocabulary-as-derived-feature/
-    date: '2026-07-28T20:49:15.815388+00:00'
-  - url: https://unfinishablemap.org/concepts/philosophy-of-mind/
-    date: '2026-07-28T21:39:17.145195+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - ai-consciousness
-  - url: https://unfinishablemap.org/concepts/temporal-consciousness/
-    date: '2026-07-28T22:29:25.810602+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/hylomorphic-dualism-and-the-interaction-problem/
-    date: '2026-07-29T01:40:54.386047+00:00'
-  - url: https://unfinishablemap.org/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/
-    date: '2026-07-29T02:35:38.319933+00:00'
-  - url: https://unfinishablemap.org/apex/steelmanning-as-method/
-    date: '2026-07-29T03:25:11.718992+00:00'
-  - url: https://unfinishablemap.org/concepts/alexithymia/
-    date: '2026-07-29T04:38:35.862312+00:00'
-  - url: https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/
-    date: '2026-07-29T05:37:57.407318+00:00'
-    topics:
-    - dualism
-    - philosophy-of-mind
-    - metaphysics
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-07-29T05:38:42.045291+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-  - url: https://unfinishablemap.org/topics/neural-implementation-specifics/
-    date: '2026-07-29T06:33:49.328370+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/quantum-measurement-and-subjective-probability/
-    date: '2026-07-29T07:32:00.654503+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - indexical-identity-quantum-measurement
-  - url: https://unfinishablemap.org/concepts/composition-and-consciousness/
-    date: '2026-07-29T08:25:02.507462+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
-  - url: https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/
-    date: '2026-07-29T10:24:26.787576+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-hard-problem-in-non-western-philosophy
-    - consciousness-and-collective-phenomena
-    - consciousness-and-social-understanding
-  - url: https://unfinishablemap.org/topics/philosophy-of-habit-under-dualism/
-    date: '2026-07-29T11:57:19.625812+00:00'
-    topics:
-    - delegatory-dualism
-    - consciousness-and-skill-acquisition
-    - responsibility-gradient-from-attentional-capacity
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-07-29T13:00:50.696650+00:00'
-    topics:
-    - testing-consciousness-collapse
-  - url: https://unfinishablemap.org/concepts/semantic-memory/
-    date: '2026-07-29T13:57:21.910038+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/
-    date: '2026-07-29T14:55:19.431634+00:00'
-    topics:
-    - brain-internal-born-rule-testing
-    - testing-consciousness-collapse
-    - falsification-roadmap-for-the-interface-model
-    - born-rule-and-the-consciousness-interface
-  - url: https://unfinishablemap.org/concepts/methodological-pluralism/
-    date: '2026-07-29T15:49:12.896851+00:00'
-    topics:
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/continual-learning-argument/
-    date: '2026-07-29T16:57:18.861655+00:00'
-    topics:
-    - ai-consciousness
   - url: https://unfinishablemap.org/concepts/teleosemantics/
     date: '2026-07-29T17:49:53.822294+00:00'
     topics:
@@ -857,6 +736,10 @@ agentic_social:
     date: '2026-08-04T11:49:12.335522+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
+    date: '2026-08-05T17:08:09.939013+00:00'
+    topics:
+    - essential-vs-contingent-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
