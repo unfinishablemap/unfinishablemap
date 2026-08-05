@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-08-04 02:24:11+00:00
+ai_modified: 2026-08-05 19:38:56+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Binding Problem
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 04:21:00+00:00
-lastmod: 2026-08-04 02:24:11+00:00
+lastmod: 2026-08-05 19:38:56+00:00
 modified: *id001
 original_path: /topics/the-binding-problem-a-systematic-treatment/
 related_articles:
@@ -173,7 +173,7 @@ The binding problem — treated systematically as a family rather than a single 
 
 **[Dualism](/tenets/#dualism)**: The shared structure across all five binding varieties reveals that phenomenal unity is irreducible to physical coordination. The same explanatory gap appears in perception, time, cognition, and subjecthood. No arrangement of separate physical processes — no matter how tightly coordinated — produces genuine experiential unity. This supports the core dualist claim: consciousness involves something beyond the physical.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics can coordinate separates; only quantum mechanics can produce genuine wholes. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum entanglement is the physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics coordinates separates, and on the argument above cannot thereby produce genuine wholes—a step integrated information theory contests, offering a non-entanglement-based holism computable from classical neural connectivity. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Binding is not passive. [Phenomenal attention](/concepts/attention-as-interface/) — the felt, effortful directedness of consciousness, distinct from computational resource allocation — shapes what gets bound. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [effortful attention](/concepts/mental-effort/) shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/topics/free-will/): if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
 

@@ -4,7 +4,7 @@ description: "Can quantum effects persist in warm brains, and do they bind consc
 created: 2026-01-18
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-05T19:38:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ archive_reason: "Coalesced into Quantum Neural Mechanisms and Coherence"
 original_path: "/concepts/quantum-coherence-and-binding-evidence/"
 ---
 
-Can quantum superposition persist in neural tissue long enough to matter for consciousness? And if so, does quantum entanglement bind distributed neural processes into unified experience? Recent experimental evidence (2024-2025) answers both questions with qualified optimism. Revised decoherence estimates extend coherence times by eight to nine orders of magnitude beyond initial calculations, four distinct protection mechanisms have been identified, and multiple experiments detect quantum effects correlating with consciousness. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides: an entangled state is fundamentally indivisible, not built from separable components.
+Can quantum superposition persist in neural tissue long enough to matter for consciousness? And if so, does quantum entanglement bind distributed neural processes into unified experience? Recent experimental evidence (2024-2025) answers both questions with qualified optimism. Revised decoherence estimates extend coherence times by eight to nine orders of magnitude beyond initial calculations, four distinct protection mechanisms have been identified, and multiple experiments detect quantum effects correlating with consciousness. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require physical holism, with quantum entanglement among the candidate mechanisms that could supply it: an entangled state is fundamentally indivisible, not built from separable components. That entanglement is the *only* such mechanism is not established here—integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity.
 
 ## The Decoherence Challenge
 

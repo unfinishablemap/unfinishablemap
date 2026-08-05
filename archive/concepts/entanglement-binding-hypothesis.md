@@ -4,7 +4,7 @@ description: "Quantum entanglement may solve the binding problem by providing ge
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-05T19:38:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ In an entangled quantum state:
 
 Consider two entangled particles. Before measurement, neither particle has a definite spin state—only the *pair* has a definite relational state. This is not correlation between pre-existing properties; the particles lack individual states to be correlated. Unity is prior to parts.
 
-Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If phenomenal unity requires ontological unity at the physical level, only entanglement can provide it.
+Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If phenomenal unity requires ontological unity at the physical level, entanglement is a leading candidate for supplying it—though Neven's exclusivity claim goes beyond what this article argues, and integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity.
 
 ## Structural Correspondence
 

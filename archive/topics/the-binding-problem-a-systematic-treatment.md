@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-08-04T02:24:11+00:00
+ai_modified: 2026-08-05T19:38:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ The binding problem — treated systematically as a family rather than a single 
 
 **[[tenets#^dualism|Dualism]]**: The shared structure across all five binding varieties reveals that phenomenal unity is irreducible to physical coordination. The same explanatory gap appears in perception, time, cognition, and subjecthood. No arrangement of separate physical processes — no matter how tightly coordinated — produces genuine experiential unity. This supports the core dualist claim: consciousness involves something beyond the physical.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics can coordinate separates; only quantum mechanics can produce genuine wholes. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If quantum entanglement is the physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics coordinates separates, and on the argument above cannot thereby produce genuine wholes—a step integrated information theory contests, offering a non-entanglement-based holism computable from classical neural connectivity. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Binding is not passive. [[attention-as-interface|Phenomenal attention]] — the felt, effortful directedness of consciousness, distinct from computational resource allocation — shapes what gets bound. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [[mental-effort|effortful attention]] shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [[topics/free-will|free will]]: if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
 

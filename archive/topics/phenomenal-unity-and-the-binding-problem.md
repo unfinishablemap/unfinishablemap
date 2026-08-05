@@ -4,7 +4,7 @@ description: "How consciousness weaves distributed neural activity into seamless
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T21:32:00+00:00
+ai_modified: 2026-08-05T19:38:56+00:00
 last_deep_review: 2026-02-01T21:32:00+00:00
 draft: false
 topics:
@@ -136,7 +136,7 @@ This supports [[tenets#^dualism|dualism]]—not substance dualism necessarily, b
 
 **[[tenets#^dualism|Dualism]]**: The gap between BP1 (computational binding) and BP2 (phenomenal binding) instantiates the hard problem. Neural mechanisms can explain information coordination completely without explaining experiential unity. Something beyond the physical is required.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If phenomenal unity requires genuine physical holism, and only quantum entanglement provides this, consciousness operates at the quantum level. The unity of experience reflects the unity of entangled states collapsing together.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If phenomenal unity requires genuine physical holism, and quantum entanglement is the mechanism supplying it, consciousness operates at the quantum level, and the unity of experience reflects the unity of entangled states collapsing together. Both conditionals are contested—integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity—so entanglement is a candidate route to the tenet rather than the only one.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Unified consciousness doesn't merely observe—it selects. What gets bound into unified experience is partly under voluntary control (attention shapes binding). This suggests top-down causation from phenomenal states to neural coordination.
 

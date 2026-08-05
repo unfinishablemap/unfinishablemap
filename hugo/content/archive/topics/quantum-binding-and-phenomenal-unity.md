@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-05 19:38:56+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-27 19:15:41+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-05 19:38:56+00:00
 modified: *id001
 original_path: /topics/quantum-binding-and-phenomenal-unity/
 related_articles:
@@ -139,7 +139,7 @@ Classical binding operates on the results of feature detection; quantum binding 
 
 This structural correspondence is significant but not explanatory in the sense that would dissolve the hard problem. Quantum holism is still *physical* holism—mathematical irreducibility in Hilbert space. The question of why *any* physical state, reducible or irreducible, produces phenomenal experience remains open. Classical binding mechanisms fail because they offer only correlation between separate elements; quantum entanglement succeeds in offering genuine physical unity. But the transition from "physically unified state" to "phenomenally unified experience" is not thereby explained—it is relocated.
 
-The Map's position: quantum holism provides the *right kind* of physical substrate for phenomenal unity in a way classical coordination does not. If phenomenal unity is to have a physical correlate, that correlate must be genuinely unified at the physical level—and only quantum entanglement provides this. The hard problem remains, but the structure-matching problem is solved. Classical accounts fail even at structure-matching; quantum accounts succeed there while acknowledging that structure-matching is not full explanation.
+The Map's position: quantum holism provides the *right kind* of physical substrate for phenomenal unity in a way classical coordination does not. If phenomenal unity is to have a physical correlate, that correlate must be genuinely unified at the physical level—and quantum entanglement is among the mechanisms that could supply that unification. That it is the *only* one is not argued here: integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity. The hard problem remains, and the structure-matching problem is addressed rather than solved. On the argument above classical accounts fall short even at structure-matching—a verdict integrated-information and global-workspace theorists contest—while quantum accounts offer a candidate match, acknowledging that structure-matching is not full explanation.
 
 This is not a deflationary admission. The gap between "physically unified" and "phenomenally unified" may be bridged by consciousness itself participating in quantum collapse—selecting which unified configuration becomes actual. On this view, phenomenal unity is not *produced by* quantum holism but *co-occurs with* it: the same event that is physically described as entangled state collapse is phenomenologically described as unified experience. The quantum approach does not reduce consciousness to physics; it identifies where consciousness and physics meet.
 

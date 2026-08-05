@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 21:32:00+00:00
+ai_modified: 2026-08-05 19:38:56+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Content subsumed by binding-problem.md which provides comprehensive
   coverage of the same material
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-01 21:32:00+00:00
-lastmod: 2026-02-01 21:32:00+00:00
+lastmod: 2026-08-05 19:38:56+00:00
 modified: *id001
 original_path: /topics/phenomenal-unity-and-the-binding-problem/
 related_articles:
@@ -141,7 +141,7 @@ This supports [dualism](/tenets/#dualism)—not substance dualism necessarily, b
 
 **[Dualism](/tenets/#dualism)**: The gap between BP1 (computational binding) and BP2 (phenomenal binding) instantiates the hard problem. Neural mechanisms can explain information coordination completely without explaining experiential unity. Something beyond the physical is required.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If phenomenal unity requires genuine physical holism, and only quantum entanglement provides this, consciousness operates at the quantum level. The unity of experience reflects the unity of entangled states collapsing together.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If phenomenal unity requires genuine physical holism, and quantum entanglement is the mechanism supplying it, consciousness operates at the quantum level, and the unity of experience reflects the unity of entangled states collapsing together. Both conditionals are contested—integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity—so entanglement is a candidate route to the tenet rather than the only one.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Unified consciousness doesn't merely observe—it selects. What gets bound into unified experience is partly under voluntary control (attention shapes binding). This suggests top-down causation from phenomenal states to neural coordination.
 

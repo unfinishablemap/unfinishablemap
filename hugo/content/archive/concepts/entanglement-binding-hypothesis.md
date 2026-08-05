@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-05 19:38:56+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Binding and Phenomenal Unity
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-05 19:38:56+00:00
 modified: *id001
 original_path: /concepts/entanglement-binding-hypothesis/
 related_articles:
@@ -62,7 +62,7 @@ In an entangled quantum state:
 
 Consider two entangled particles. Before measurement, neither particle has a definite spin state—only the *pair* has a definite relational state. This is not correlation between pre-existing properties; the particles lack individual states to be correlated. Unity is prior to parts.
 
-Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If phenomenal unity requires ontological unity at the physical level, only entanglement can provide it.
+Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If phenomenal unity requires ontological unity at the physical level, entanglement is a leading candidate for supplying it—though Neven's exclusivity claim goes beyond what this article argues, and integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity.
 
 ## Structural Correspondence
 

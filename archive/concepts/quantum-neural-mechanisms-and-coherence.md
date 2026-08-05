@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-05T19:38:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ coalesced_from:
   - "/concepts/quantum-coherence-and-binding-evidence/"
 ---
 
-Five distinct quantum mechanisms have been proposed for neural systems, four protection strategies may shield quantum coherence from thermal destruction, and 2024-2025 experiments increasingly support quantum effects in consciousness. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that biological precedents for quantum effects—now well established—remove the categorical objection that brains are "too warm, wet, and noisy" for quantum consciousness. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides: an entangled state is fundamentally indivisible, not built from separable components.
+Five distinct quantum mechanisms have been proposed for neural systems, four protection strategies may shield quantum coherence from thermal destruction, and 2024-2025 experiments increasingly support quantum effects in consciousness. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that biological precedents for quantum effects—now well established—remove the categorical objection that brains are "too warm, wet, and noisy" for quantum consciousness. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require physical holism, with quantum entanglement among the candidate mechanisms that could supply it: an entangled state is fundamentally indivisible, not built from separable components. That entanglement is the *only* such mechanism is not established here—integrated information theory offers a non-entanglement-based holism computable from classical neural connectivity.
 
 ## The Decoherence Challenge
 
