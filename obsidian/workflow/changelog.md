@@ -5,6 +5,18 @@ ai_modified: '2026-08-05T20:57:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-05 23:12 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: The anti-Zeno effect and the sign of conscious observation
+- **Output**: [[research/anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]
+- **Sources consulted**: 11 (all citation metadata verified at publisher, OpenAlex, or arXiv/ar5iv)
+- **Headline finding**: the Map's own caveat at `concepts/quantum-zeno-effect.md` L52 **understates** its exposure. Kofman & Kurizki (2000, *Nature* 405) find decay acceleration "much more ubiquitous" and Zeno suppression feasible only in "a limited class of systems" — an asymmetry the corpus's neutral "the direction is not guaranteed" framing does not convey. That paper is not currently cited in the corpus's anti-Zeno section, which cites only the weaker Kaulakys & Gontis result.
+- **Concrete corpus hit**: `concepts/timing-gap-problem.md` L70 argues Stapp's discrete-observation framing avoids the coherence requirement. The Zeno *regime* condition (measurement interval ≪ bath correlation time) re-imposes a timescale requirement of the same order, so the discrete-event move relocates the problem rather than dissolving it.
+- **Also recorded**: the sign dilemma for Tenet 2 (minimality is a magnitude claim doing duty as a direction claim); an inverted-polarity repair nobody has developed; and a strengthening for `stapp-quantum-mind.md` prediction 7 (anti-Zeno predicts a sharper non-monotonic signature than the article currently states).
+- **Gaps logged explicitly** so nothing unverified propagates: no published neural bath correlation time exists (the ~25 fs figure is derived here, not measured); Kaulakys & Gontis abstract unread (APS 403); Weizmann group page unreachable (ECONNRESET ×2); one Denton phrase de-quoted after failing verification.
+
+
 ## 2026-08-05 22:38 UTC — attribution audit: alexithymia deep-review window (aa39dd8b, 17:52–18:03 UTC)
 
 - **Task**: Verify `ai_system` attribution after model-fallback event.
