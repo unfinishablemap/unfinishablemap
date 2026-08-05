@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-08-05 20:57:25+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Consciousness and the Normativity of Reason
+archived: true
+archived_date: 2026-08-05 20:57:25+00:00
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -12,7 +15,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[explanatory-gap]]'
 created: 2026-04-15
-date: &id001 2026-04-15
+date: &id001 2026-08-05
 description: Rational normativity is the prescriptive dimension of reasoning — the
   fact that beliefs can be correct or incorrect and that evidence dictates what one
   ought to believe.
@@ -20,14 +23,16 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:47:29+00:00
-lastmod: 2026-06-06 00:00:00+00:00
+lastmod: 2026-08-05 20:57:25+00:00
 modified: *id001
+original_path: /concepts/rational-normativity/
 related_articles:
 - '[[tenets]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[carrolls-regress]]'
 - '[[parsimony-epistemology]]'
+superseded_by: /topics/consciousness-and-the-normativity-of-reason/
 title: Rational Normativity
 topics:
 - '[[consciousness-and-the-normativity-of-reason]]'

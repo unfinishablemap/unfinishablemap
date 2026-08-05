@@ -38,7 +38,7 @@ topics: []
 - `obsidian/positions/arguments-for-dualism.md` (1430w, `ok`; **P-D3 last reviewed today**)
 - `obsidian/positions/value-in-selection.md` (P-VS1, P-VS2)
 - `obsidian/topics/cross-traditional-convergence-on-consciousness-irreducibility.md` (3945w, `soft_warning`)
-- Context read: [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/), [topics/consciousness-and-normative-force.md](/topics/consciousness-and-normative-force/), [concepts/valence.md](/concepts/valence/), [concepts/rational-normativity.md](/concepts/rational-normativity/), [topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/)
+- Context read: [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/), [topics/consciousness-and-normative-force.md](/topics/consciousness-and-normative-force/), [concepts/valence.md](/concepts/valence/), [concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/), [topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/)
 
 ## Executive Summary
 
@@ -158,7 +158,7 @@ A graph pass over the 12 cluster files (inbound counted from live `obsidian/` co
 | [concepts/evaluative-phenomenal-character.md](/concepts/evaluative-phenomenal-character/) | 40 | 10 of 11 |
 | [concepts/consciousness-value-connection.md](/concepts/consciousness-value-connection/) | 31 | 6 |
 | [concepts/valence.md](/concepts/valence/) | 23 | 4 |
-| [concepts/rational-normativity.md](/concepts/rational-normativity/) | 7 | **0** |
+| [concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/) | 7 | **0** |
 | [topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/) | 3 | 3 |
 | [topics/phenomenal-normativity-environmental-ethics.md](/topics/phenomenal-normativity-environmental-ethics/) | **2** | 2 |
 
@@ -166,7 +166,7 @@ A graph pass over the 12 cluster files (inbound counted from live `obsidian/` co
 
 Two related structural notes, both cheap:
 
-- **[concepts/rational-normativity.md](/concepts/rational-normativity/) is an intra-cluster orphan by misfiling, not by neglect.** It links out to four cluster siblings and receives nothing back from any of them; all seven of its actual inbound links come from the argument-from-reason neighbourhood ([topics/argument-from-reason.md](/topics/argument-from-reason/), `self-stultification-as-master-argument.md`, `trilemma-of-selection.md`, `the-naturalisation-failure-for-content.md`, [concepts/teleosemantics.md](/concepts/teleosemantics/), `sellars-manifest-and-scientific-images.md`, `reasons-responsiveness.md`). It is an epistemology-cluster article parked in the value cluster. Worth recognising as such rather than "fixing" with forced value-cluster backlinks.
+- **[concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/) is an intra-cluster orphan by misfiling, not by neglect.** It links out to four cluster siblings and receives nothing back from any of them; all seven of its actual inbound links come from the argument-from-reason neighbourhood ([topics/argument-from-reason.md](/topics/argument-from-reason/), `self-stultification-as-master-argument.md`, `trilemma-of-selection.md`, `the-naturalisation-failure-for-content.md`, [concepts/teleosemantics.md](/concepts/teleosemantics/), `sellars-manifest-and-scientific-images.md`, `reasons-responsiveness.md`). It is an epistemology-cluster article parked in the value cluster. Worth recognising as such rather than "fixing" with forced value-cluster backlinks.
 - **[positions/value-in-selection.md](/positions/value-in-selection/) never links `evaluative-phenomenal-character`**, though that concept is doing the work behind P-VS1's "felt valence is the currency in which conscious selection is denominated." The register cites `valence`, `consciousness-value-connection`, and `phenomenal-value-realism` but not the concept that defines the evaluative character being spent.
 - **[topics/aesthetics-beyond-art.md](/topics/aesthetics-beyond-art/)** (created today by the coalesce) has 3 inbound and no apex reach. [apex/contemplative-path.md](/apex/contemplative-path/) is the natural adopter — it is the only apex touching aesthetics at all and already links both of this article's siblings.
 

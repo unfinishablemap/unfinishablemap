@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-05T20:35:23+00:00'
+ai_modified: '2026-08-05T20:57:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-05 20:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/rational-normativity]] (2095 w) merged into the existing [[topics/consciousness-and-the-normativity-of-reason]] (2557 w)
+- **Target**: [[topics/consciousness-and-the-normativity-of-reason]] — 3403 w (topics soft 3000, hard 4000); ~27% of the combined 4652 w shed as duplication
+- **Archived**: [[archive/concepts/rational-normativity]] — `superseded_by: /topics/consciousness-and-the-normativity-of-reason/`; redirect rule generated and verified in `hugo/static/_redirects`
+- **References to review**: none outstanding — all 7 live inbound files repointed this run (see below). Remaining mentions are confined to `obsidian/reviews/` and `obsidian/workflow/` historical records, which are deliberately left pointing at the now-redirecting URL.
+
+**Why this pair, after nine rejected candidates.** `voids/` is the most-pressured section (100/100, at cap) so it was screened first, per the skill's cascade. Five voids pairs were read in full and rejected — every one differentiated by argumentative role, and two blocked by named apex clusters whose joint scoring a merge would break: `mattering-void`+`relevance-void` and `confabulation-void`+`narrative-void` are canonical members of the **medium-status voids** cluster and the **introspection-architecture sub-cluster** respectively, each scored as a set by [[medium-status-voids-in-cognition]] / [[topics/introspection-architecture-independence-scoring]]. Also rejected: `emergence-void`+`plurality-void` (complementary limits, and plurality carries the void-side support for **No Many Worlds**), `resolution-void`+`smoothness-and-continuity` (aperture-width vs discrete-or-continuous; the latter is already a coalesce product), `biological-cognitive-closure`+`infant-consciousness` (general causal framework vs specific void; infant-consciousness also carries an embedded video that archival would orphan). Falling through to `topics/`+`concepts/` surfaced the real candidate at TF-IDF 0.523.
+
+**The defect.** `concepts/rational-normativity` had become a second draft of its own parent topic — the same failure mode the 2026-08-03 coalesce found in the attention pair. Its own `topics:` field named `consciousness-and-the-normativity-of-reason` as its parent, yet the two articles independently developed: the identical three features (prescriptive force / universality / content-sensitivity) with the **same rock example** and the **same "English neurons, Mandarin, silicon registers"** example; the same Lewis causal/evidential "Two Senses of Because" section; the same Sellars space-of-reasons paragraph; the same three reduction strategies in the same order (reliabilism → functionalism → evolutionary teleology/Plantinga); and near-verbatim tenet paragraphs ("Physicalism appears simpler — one ontological category…; a worldview that cannot ground its own rational credentials is not genuinely simpler; it is incomplete").
+
+**Direction of merge.** Into the **topic**, archiving the concept. The topic is the parent, the longer article, and much the better calibrated — it hedges every contested step ("naturalists contest each step", "the debate is live rather than closed"), calibration the concept largely lacked. Merging the other way would have regressed those hedges ([[condense-regresses-calibration-qualifiers]]). Net effect on caps: `concepts/` 316 → **315**; `topics/` unchanged at 319.
+
+**Unique material carried across from the concept (nothing dropped):**
+- **`## Implementing a Norm versus Grasping It {#implementing-versus-grasping}`** — imported wholesale, *anchor ID preserved*. This was load-bearing: four live links across three articles target that anchor. Losing it would have produced four silent 404-fragments.
+- **`## Rational Normativity Among the Normativities`** — new section built from the concept's genus/species taxonomy (moral / prudential / aesthetic / epistemic), its self-stultification asymmetry point, the [[phenomenal-value-realism]] grounding, and the [[reasons-responsiveness]] standard-vs-capacity complementarity.
+- Definitional sentence for *rational normativity* added to the lead, so readers arriving via the redirect land on the term defined.
+- Intentionality / phenomenal-intentionality-thesis clause folded into **Content-sensitivity**; [[carrolls-regress]] into the functionalism rebuttal; [[evaluative-phenomenal-character]] into the hard-problem parallel.
+- References needed no additions — Lewis, Nagel, Sellars and Plantinga were already carried by the topic; the concept's only other entry was a self-cite to the topic.
+
+**Inbound repointing — 7 live files, handled individually rather than by sed.** Five of the seven *already* linked the successor, so a blind repoint would have created duplicate frontmatter entries and duplicate Further Reading lines. Frontmatter entries were therefore **removed** where the successor was already present (`argument-from-reason`, `self-stultification-as-master-argument` ×2, `the-naturalisation-failure-for-content`) and **repointed** where it was not (`sellars-manifest-and-scientific-images`, `teleosemantics`). Two Further Reading pairs were merged into single entries rather than left adjacent and redundant. Body links repointed in all seven: [[concepts/reasons-responsiveness]], [[concepts/sellars-manifest-and-scientific-images]], [[concepts/teleosemantics]], [[topics/argument-from-reason]], [[topics/self-stultification-as-master-argument]], [[topics/the-naturalisation-failure-for-content]], [[topics/trilemma-of-selection]].
+
+**Post-merge hygiene:**
+- `hugo/content/concepts/rational-normativity.md` was a **stale live duplicate** — sync never deletes, so the archived page and a live non-archived copy would both have served ([[coalesce-stale-hugo-duplicate-urls]]). Removed with `git rm`; confirmed prior coalesce products (`phenomenology-of-creative-insight`) have no live copy either, so this matches convention.
+- Redirect regenerated and verified: `/concepts/rational-normativity/  /topics/consciousness-and-the-normativity-of-reason/  301` (509 rules total).
+- All four `#implementing-versus-grasping` links verified resolving to the new path **in the Hugo output**, not just in Obsidian ([[obsidian-only-fix-leaves-defect-live-in-hugo]] — synced this run rather than waiting for pre-push).
+- Broad sweep across `obsidian/`, `archive/` and `hugo/content/` for the slug in both wikilink and markdown-link form returns only the two intended `coalesced_from` entries.
+- `validate.py` clean on the touched files; `sync.py` ok, no broken-wikilink strips.
 
 ## 2026-08-05 20:35 UTC - refine-draft
 - **Status**: Success

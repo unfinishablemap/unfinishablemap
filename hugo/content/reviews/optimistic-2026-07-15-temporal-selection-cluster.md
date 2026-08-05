@@ -74,7 +74,7 @@ None. The cluster is content-complete for its scope. The obvious adjacent articl
 Consider whether [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) (scope: "temporal agency — selecting *when* to act") should be drawn into the cluster's link web. It is thematically the "*when*" article to the selection cluster's "*which*/*how*," but currently none of the three selection articles link it and it links none of them. This is a light integration question, folded into the cross-link task below rather than a standalone opportunity.
 
 ### Ideas for Later
-- The trilemma's Horn 3 depends on a distinction ("tracking vs grasping" reasons) that is developed in [rational-normativity](/concepts/rational-normativity/); if that concept ever grows, a worked example drawn from the selection cluster would strengthen both. Not actionable now.
+- The trilemma's Horn 3 depends on a distinction ("tracking vs grasping" reasons) that is developed in [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/); if that concept ever grows, a worked example drawn from the selection cluster would strengthen both. Not actionable now.
 
 ## Cross-Linking Suggestions
 

@@ -21,7 +21,6 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[self-stultification]]"
   - "[[reasons-responsiveness]]"
-  - "[[rational-normativity]]"
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"
   - "[[pragmatism]]"
@@ -67,7 +66,7 @@ The argument originated with C.S. Lewis's *Miracles* (1947), was substantially r
 
 The argument proceeds in three steps:
 
-**1. Rational inference requires tracking [[rational-normativity|normative relationships]].** When you reason validly, you move from premises to conclusions because the conclusion *follows from* the premises. This "following from" relationship is logical, not causal. The truth of "All humans are mortal; Socrates is human" doesn't *cause* the truth of "Socrates is mortal"—rather, the first two truths logically *entail* the third. Reasoning means recognizing and respecting these entailment relationships.
+**1. Rational inference requires tracking [[consciousness-and-the-normativity-of-reason|normative relationships]].** When you reason validly, you move from premises to conclusions because the conclusion *follows from* the premises. This "following from" relationship is logical, not causal. The truth of "All humans are mortal; Socrates is human" doesn't *cause* the truth of "Socrates is mortal"—rather, the first two truths logically *entail* the third. Reasoning means recognizing and respecting these entailment relationships.
 
 **2. Physical causation operates via efficient causes, not normative relationships.** Neurons fire because of electrochemical gradients, neurotransmitter concentrations, and prior neural states—not because firing would be *justified* by good reasons. The causal history of a brain state makes no reference to whether that state accurately represents reality or follows logically from previous states. Physics describes how things happen, not whether they're reasonable.
 
@@ -159,7 +158,7 @@ The argument doesn't directly support Minimal Quantum Interaction or No Many Wor
 
 **"AI systems perform logical inference purely physically."** This deserves careful treatment as AI capabilities advance. AI systems produce outputs matching logical derivations with increasing sophistication—proving theorems, identifying fallacies, constructing novel arguments—and dismissing this as "mere pattern-matching" risks underestimating what they accomplish and may not remain credible as capabilities grow.
 
-The deeper question is whether *any* system—biological or artificial, however capable—can reason in a genuinely normative way without phenomenal awareness. The argument turns not on whether AI outputs are impressive but on whether tracking normative relationships *as normative* requires consciousness: the distinction between [[rational-normativity#implementing-versus-grasping|implementing a norm and grasping it]]. A system might match valid inferences across every domain, yet the question remains whether it is *constrained by* the fact that conclusions ought to follow, or merely executing designed-in processes that correlate with logical validity. A physicalist may reply that with no behavioural difference the distinction is empty; the argument holds it metaphysical, not behavioural. If normative grasping requires phenomenal awareness (the felt appreciation of logical necessity described in [[cognitive-phenomenology]]), even a superintelligent AI would implement truth-tracking without engaging in rational inference as such; if it doesn't, the argument may need reformulation. The question is genuinely open, but the Map's position—grounded in PIT (see [[#consciousness|why consciousness must be involved]])—holds that normativity without awareness is correlation without comprehension.
+The deeper question is whether *any* system—biological or artificial, however capable—can reason in a genuinely normative way without phenomenal awareness. The argument turns not on whether AI outputs are impressive but on whether tracking normative relationships *as normative* requires consciousness: the distinction between [[consciousness-and-the-normativity-of-reason#implementing-versus-grasping|implementing a norm and grasping it]]. A system might match valid inferences across every domain, yet the question remains whether it is *constrained by* the fact that conclusions ought to follow, or merely executing designed-in processes that correlate with logical validity. A physicalist may reply that with no behavioural difference the distinction is empty; the argument holds it metaphysical, not behavioural. If normative grasping requires phenomenal awareness (the felt appreciation of logical necessity described in [[cognitive-phenomenology]]), even a superintelligent AI would implement truth-tracking without engaging in rational inference as such; if it doesn't, the argument may need reformulation. The question is genuinely open, but the Map's position—grounded in PIT (see [[#consciousness|why consciousness must be involved]])—holds that normativity without awareness is correlation without comprehension.
 
 **"We simply don't understand how consciousness tracks normative relationships."** This has force, and the Map acknowledges it. [[mysterianism|Colin McGinn]] argues that aspects of the mind-body relationship may exceed human cognitive capacities. The *mechanism* by which phenomenal consciousness grasps logical necessity may be naturally mysterious—not because it doesn't exist, but because understanding it requires concepts we cannot acquire. The argument establishes *that* consciousness must track normative relationships, on pain of self-defeat, even if *how* remains beyond us—distinguishing mysterianism's modesty from the [[eliminative-materialism|eliminative move]] of denying that normative tracking occurs.
 
@@ -173,8 +172,7 @@ The deeper question is whether *any* system—biological or artificial, however 
 - [[self-stultification-as-master-argument]] - How self-defeat arguments converge into a unified case for dualism
 - [[intentionality]] - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [[cognitive-phenomenology]] - The irreducible phenomenal character of understanding and reasoning
-- [[rational-normativity]] - The prescriptive dimension of reasoning that physical description cannot capture
-- [[consciousness-and-the-normativity-of-reason]] - Why the prescriptive force and content-sensitivity of logical norms require consciousness
+- [[consciousness-and-the-normativity-of-reason]] - The prescriptive dimension of reasoning that physical description cannot capture: why the prescriptive force, universality and content-sensitivity of logical norms require consciousness
 - [[carrolls-regress]] - Carroll's 1895 dialogue: explicit rules cannot, by themselves, force inference
 - [[agent-causation]] - How rational agents causally influence beliefs through recognizing reasons
 - [[objectivity-and-consciousness]] - Nagel's analysis of how subjectivity enables objectivity

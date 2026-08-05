@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Rational Normativity](/concepts/rational-normativity/)
+**Article**: [Rational Normativity](/topics/consciousness-and-the-normativity-of-reason/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-rational-normativity/)
 
 ## Pessimistic Analysis Summary

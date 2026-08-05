@@ -18,7 +18,7 @@ title: Optimistic Review - 2026-06-04d
 Articles examined for the focal finding:
 - [concepts/carrolls-regress.md](/concepts/carrolls-regress/) (ai_modified 2026-04-28; last_deep_review 2026-06-01; 3 inbound links)
 - [topics/consciousness-and-the-authority-of-formal-systems.md](/topics/consciousness-and-the-authority-of-formal-systems/) (2843w, `ok`)
-- [concepts/rational-normativity.md](/concepts/rational-normativity/) (2062w, `ok`)
+- [concepts/rational-normativity.md](/topics/consciousness-and-the-normativity-of-reason/) (2062w, `ok`)
 - [topics/consciousness-and-the-normativity-of-reason.md](/topics/consciousness-and-the-normativity-of-reason/) (2525w, `ok`)
 - spot-checked the staleness set: `concepts/philosophy-of-mind` (36 inbound, hub), `reductionism` (21 inbound), `perception`, `epistemology`, `status-of-content`
 

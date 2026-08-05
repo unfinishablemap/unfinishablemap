@@ -23,7 +23,7 @@ topics: []
 
 ## Context
 
-Cross-review triggered by the creation of [rational-normativity](/concepts/rational-normativity/). The rational-normativity concept article was created on 2026-04-15 and directly discusses self-stultification as a core structural feature of attempts to deny rational normativity. This review checks whether self-stultification-as-master-argument.md should cross-link back.
+Cross-review triggered by the creation of [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/). The rational-normativity concept article was created on 2026-04-15 and directly discusses self-stultification as a core structural feature of attempts to deny rational normativity. This review checks whether self-stultification-as-master-argument.md should cross-link back.
 
 ## Pessimistic Analysis Summary
 
@@ -31,7 +31,7 @@ Cross-review triggered by the creation of [rational-normativity](/concepts/ratio
 None. All attributions remain accurate. No factual errors, internal contradictions, or source/Map conflation. The article's treatment of rational normativity (norm-implementation vs norm-grasping, space of reasons vs space of causes) is philosophically sound and well-sourced.
 
 ### Medium Issues Found
-- **Missing rational-normativity cross-link**: The article discusses rational normativity extensively in the Physicalism section (the implementing/grasping distinction, Sellars' space of reasons, normative sensitivity) but only linked to the topics article [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/), not the dedicated concept [rational-normativity](/concepts/rational-normativity/). The rational-normativity article already links back to self-stultification (lines 56 and 103) — the connection should be bidirectional. **Resolution**: Added wikilink in body text (eliminativism section), concepts frontmatter, related_articles, and Further Reading.
+- **Missing rational-normativity cross-link**: The article discusses rational normativity extensively in the Physicalism section (the implementing/grasping distinction, Sellars' space of reasons, normative sensitivity) but only linked to the topics article [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/), not the dedicated concept [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/). The rational-normativity article already links back to self-stultification (lines 56 and 103) — the connection should be bidirectional. **Resolution**: Added wikilink in body text (eliminativism section), concepts frontmatter, related_articles, and Further Reading.
 
 ### Counterarguments Considered
 All previously flagged items remain resolved. No new counterarguments identified from the rational-normativity cross-review.
@@ -55,14 +55,14 @@ All checks passed (same as previous reviews — no substantive content changes):
 - Summary table
 
 ### Enhancements Made
-- Added [rational-normativity](/concepts/rational-normativity/) cross-link in eliminativism section ("genuine [rational normativity](/concepts/rational-normativity/)"), connecting the self-stultification argument to the dedicated concept article that formalises the normative dimension
-- Added [rational-normativity](/concepts/rational-normativity/) to concepts frontmatter
-- Added [rational-normativity](/concepts/rational-normativity/) to related_articles frontmatter
-- Added [rational-normativity](/concepts/rational-normativity/) to Further Reading with description
+- Added [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) cross-link in eliminativism section ("genuine [rational normativity](/topics/consciousness-and-the-normativity-of-reason/)"), connecting the self-stultification argument to the dedicated concept article that formalises the normative dimension
+- Added [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) to concepts frontmatter
+- Added [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) to related_articles frontmatter
+- Added [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) to Further Reading with description
 - Trimmed verbose Churchland parenthetical for length neutrality
 
 ### Cross-links Added
-- [rational-normativity](/concepts/rational-normativity/) — bidirectional link completing the cross-reference from the rational-normativity concept article
+- [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) — bidirectional link completing the cross-reference from the rational-normativity concept article
 
 ## Word Count
 - Before: 3101 words (103% of 3000 soft threshold)

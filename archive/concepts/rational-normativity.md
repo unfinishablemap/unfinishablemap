@@ -2,11 +2,16 @@
 title: "Rational Normativity"
 description: "Rational normativity is the prescriptive dimension of reasoning — the fact that beliefs can be correct or incorrect and that evidence dictates what one ought to believe."
 created: 2026-04-15
-modified: 2026-04-15
+modified: 2026-08-05
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-08-05T20:57:25+00:00
 last_deep_review: 2026-07-19T14:47:29+00:00
 draft: false
+archived: true
+archived_date: 2026-08-05T20:57:25+00:00
+superseded_by: "/topics/consciousness-and-the-normativity-of-reason/"
+archive_reason: "Coalesced into Consciousness and the Normativity of Reason"
+original_path: "/concepts/rational-normativity/"
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[argument-from-reason]]"

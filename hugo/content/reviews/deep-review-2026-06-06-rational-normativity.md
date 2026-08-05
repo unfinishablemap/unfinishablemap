@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-06
-**Article**: [Rational Normativity](/concepts/rational-normativity/)
+**Article**: [Rational Normativity](/topics/consciousness-and-the-normativity-of-reason/)
 **Previous review**: [2026-05-27 (First Independent Review)](/reviews/deep-review-2026-05-27-rational-normativity/) (plus three same-day 2026-04-15 creation-cluster passes)
 
 ## Context

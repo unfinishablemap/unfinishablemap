@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-16
 **Article**: [The Argument from Reason](/topics/argument-from-reason/)
 **Previous review**: [2026-04-16 (cross-review: epistemic self-defeat)](/reviews/deep-review-2026-04-16-argument-from-reason/)
-**Context**: Cross-review with [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) considering [rational-normativity](/concepts/rational-normativity/) insights. The rational-normativity concept page (created 2026-04-15) formalises the prescriptive force, universality, and content-sensitivity of logical norms, plus Lewis's "two senses of because" — all central to argument-from-reason's core argument.
+**Context**: Cross-review with [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) considering [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) insights. The rational-normativity concept page (created 2026-04-15) formalises the prescriptive force, universality, and content-sensitivity of logical norms, plus Lewis's "two senses of because" — all central to argument-from-reason's core argument.
 
 ## Pessimistic Analysis Summary
 
@@ -28,8 +28,8 @@ topics: []
 None. This is the tenth review. All attributions verified (Lewis, Anscombe, Reppert, Plantinga, Hasker, Sellars, Goldman, Nagel, McGinn). No source/Map conflation, dropped qualifiers, or misattributions.
 
 ### Medium Issues Found
-- **Missing cross-link to rational-normativity**: The rational-normativity concept page formalises exactly the normative properties (prescriptive force, universality, content-sensitivity) and Lewis's causal/evidential "because" distinction that this article's core argument depends on. Self-stultification-as-master-argument already links to rational-normativity; argument-from-reason did not. Resolution: Added [rational-normativity](/concepts/rational-normativity/) wikilink at core argument step 1 ("tracking normative relationships"), concepts frontmatter, and Further Reading.
-- **Duplicate Further Reading entry**: [self-stultification](/concepts/self-stultification/) appeared twice with different descriptions. Resolution: Replaced the second entry with the new [rational-normativity](/concepts/rational-normativity/) link.
+- **Missing cross-link to rational-normativity**: The rational-normativity concept page formalises exactly the normative properties (prescriptive force, universality, content-sensitivity) and Lewis's causal/evidential "because" distinction that this article's core argument depends on. Self-stultification-as-master-argument already links to rational-normativity; argument-from-reason did not. Resolution: Added [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) wikilink at core argument step 1 ("tracking normative relationships"), concepts frontmatter, and Further Reading.
+- **Duplicate Further Reading entry**: [self-stultification](/concepts/self-stultification/) appeared twice with different descriptions. Resolution: Replaced the second entry with the new [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) link.
 
 ### Counterarguments Considered
 All six existing objections reviewed (circularity, evolution, AI, Sellars, mysterianism, Buddhist unity). No new counterarguments required. The rational-normativity concept page's treatment of reliabilism, functionalism, and evolutionary teleology aligns with argument-from-reason's existing sections without duplication.
@@ -52,7 +52,7 @@ All strengths from previous reviews intact: three-step core argument, fair relia
 2. **Duplicate cleanup**: Replaced duplicate self-stultification Further Reading entry with rational-normativity entry
 
 ### Cross-links Added
-- [rational-normativity](/concepts/rational-normativity/) (concepts frontmatter + core argument text + Further Reading)
+- [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) (concepts frontmatter + core argument text + Further Reading)
 
 ## Word Count
 - Before: 3512 words (117% of 3000 threshold)
@@ -68,7 +68,7 @@ None. The rational-normativity concept page handles the formal treatment of norm
 This is the tenth review. The article has been stable since review 5 (2026-04-08). Reviews 6-10 were all triggered by newly created articles requiring cross-linking (normativity articles, functional-seeming, epistemic-self-defeat, rational-normativity). No structural changes to the argument in any of these reviews.
 
 The three-article conceptual chain is now fully cross-linked:
-- [rational-normativity](/concepts/rational-normativity/) (formal concept) → lists argument-from-reason in topics
+- [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) (formal concept) → lists argument-from-reason in topics
 - [argument-from-reason](/topics/argument-from-reason/) (deploys concept against physicalism) → links to rational-normativity in text, concepts, Further Reading
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (unified pattern) → links to rational-normativity in concepts, text, related_articles
 

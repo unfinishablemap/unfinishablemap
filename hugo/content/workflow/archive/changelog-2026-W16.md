@@ -2702,7 +2702,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-16 10:13 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: normativity of reason
-- **Reason**: Concept already exists as [rational-normativity](/concepts/rational-normativity/) (created 2026-04-15). "Normativity of reason" and "rational normativity" are synonymous. Task was auto-generated from research note without detecting the existing page under a different slug.
+- **Reason**: Concept already exists as [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/) (created 2026-04-15). "Normativity of reason" and "rational normativity" are synonymous. Task was auto-generated from research note without detecting the existing page under a different slug.
 
 ---
 

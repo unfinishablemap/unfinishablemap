@@ -9,7 +9,7 @@ concepts:
 - '[[status-of-content]]'
 - '[[symbol-grounding-problem]]'
 - '[[content-specificity-of-mental-causation]]'
-- '[[rational-normativity]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 created: 2026-07-11
 date: &id001 2026-07-11
 description: A human-AI steelman of teleosemantics—the leading naturalistic theory
@@ -87,7 +87,7 @@ Paul Pietroski's *kimu* thought experiment targets *benefit*-based versions spec
 
 Teleosemantics is the most credible reductive rival to the Map's first tenet, **Dualism** (the irreducibility of the mental). Its appeal is exactly that it seems to derive normativity—correctness, error, misrepresentation—from mind-independent selection facts, with no appeal to consciousness. If it succeeds, aboutness is naturalised and one of the Map's central claims is undercut. So the Map owes it a fair hearing, which the sections above supply, before dissenting.
 
-The Map's dissent is a claim about *two normativities*. Proper function yields **biological** normativity: a trait can malfunction relative to what selection favoured. Content requires **semantic-rational** normativity: a state can be *false*, and a thinker *ought*, given evidence, to judge one way rather than another. The Map's contention is that the first does not constitute the second. A malfunctioning heart is not *mistaken about* anything; it fails a selection-relative standard without thereby entering the space of reasons. Reading the "ought" of representing-truly off the "ought" of having-been-selected trades a rational relation for a historical-statistical one, and the two come apart—not over what *fixes* correctness, which is world-involving on any theory including the Map's, but over what earns a state *answerability to evidence*, which selection-relative malfunction never amounts to. This is a sibling of the Map's [normativity-of-reason](/concepts/rational-normativity/) argument, where the prescriptive force of inference likewise resists reduction to what brains were selected to do.
+The Map's dissent is a claim about *two normativities*. Proper function yields **biological** normativity: a trait can malfunction relative to what selection favoured. Content requires **semantic-rational** normativity: a state can be *false*, and a thinker *ought*, given evidence, to judge one way rather than another. The Map's contention is that the first does not constitute the second. A malfunctioning heart is not *mistaken about* anything; it fails a selection-relative standard without thereby entering the space of reasons. Reading the "ought" of representing-truly off the "ought" of having-been-selected trades a rational relation for a historical-statistical one, and the two come apart—not over what *fixes* correctness, which is world-involving on any theory including the Map's, but over what earns a state *answerability to evidence*, which selection-relative malfunction never amounts to. This is a sibling of the Map's [normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) argument, where the prescriptive force of inference likewise resists reduction to what brains were selected to do.
 
 This dissent is deliberately kept distinct from the two standing arguments the Map already holds against naturalised content, which it here cross-references rather than repeats. Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) presses the *intensionality* gap—that even granting proper function, biology cannot fix the *guise* under which a state represents (as *food* versus as *nutritionally-optimal-nearby-item*). The [naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) topic develops that dilemma as a stand-alone parallel to the phenomenal hard problem. The present objection is upstream of both: it questions whether *selection-relative malfunction* is the *right kind* of normativity to begin with, before intensionality is even reached. Where the Map's [phenomenal intentionality](/concepts/intentionality/) tradition locates genuine aboutness in consciousness, teleosemantics locates it in history—and history, the Map holds, is the wrong place to find an *ought*.
 
@@ -101,7 +101,7 @@ Two honest limitations. First, the bite-the-bullet reply is principled: a teleos
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — why functional grounding falls short of intrinsic meaning
 - [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — the covariance-independent rival that constitutes content from inferential role rather than world-tracking
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — where represented content does empirically visible causal work
-- [rational-normativity](/concepts/rational-normativity/) — the sibling argument that the *ought* of inference resists naturalisation
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — the sibling argument that the *ought* of inference resists naturalisation
 - [content-externalism](/concepts/content-externalism/) — the wide, environment-involving view of content, and the causal-relevance worry it shares with teleosemantics
 
 ## References

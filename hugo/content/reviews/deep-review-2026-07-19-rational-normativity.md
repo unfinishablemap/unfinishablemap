@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-19
-**Article**: [Rational Normativity](/concepts/rational-normativity/)
+**Article**: [Rational Normativity](/topics/consciousness-and-the-normativity-of-reason/)
 **Previous review**: [2026-06-06](/reviews/deep-review-2026-06-06-rational-normativity/) (sixth pass; five prior)
 **Focus**: Publisher-of-record web-verify pass — verbatim quote-fidelity + citation metadata. Both prior passes were content-only; the in-body quoted strings and citation tuples had never been web-verified.
 

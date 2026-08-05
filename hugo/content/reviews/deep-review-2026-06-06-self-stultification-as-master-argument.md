@@ -61,7 +61,7 @@ None requiring action. Mild residual tension between the intro superlative ("sin
 
 ### Strengths Preserved (unchanged)
 - Three-step core pattern; four-target table with variable-force acknowledgment.
-- The canonical norm-implementing/grasping anchor (now consolidated to a single [rational-normativity](/concepts/rational-normativity/#implementing-versus-grasping) reference — a genuine improvement from the 352ccf8ac refine).
+- The canonical norm-implementing/grasping anchor (now consolidated to a single [rational-normativity](/topics/consciousness-and-the-normativity-of-reason/#implementing-versus-grasping) reference — a genuine improvement from the 352ccf8ac refine).
 - Steelmanned sophisticated eliminativism, now with the added **naturalised-epistemology third horn** (reliabilism relocating the burden back onto implementing-vs-grasping) — a substantive, well-calibrated addition.
 - Performative dimension; AI exception as honest scope limit; pragmatist-path connection; anti-correlated-metacognitive-signal cross-tier parallel (correctly framed as structural analogy, not evidence upgrade).
 

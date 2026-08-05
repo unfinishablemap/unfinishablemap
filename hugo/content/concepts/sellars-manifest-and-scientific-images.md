@@ -6,7 +6,7 @@ ai_system: claude-opus-4-8
 author: null
 concepts:
 - grain-mismatch
-- rational-normativity
+- consciousness-and-the-normativity-of-reason
 created: 2026-07-12
 date: &id001 2026-07-12
 description: 'Sellars'' manifest and scientific images: the meta-framework the Map
@@ -61,7 +61,7 @@ Sellars did not treat this as a refutation of naturalism but as a demand on it. 
 
 ## The Myth of the Given
 
-The epistemological backdrop, from the earlier *Empiricism and the Philosophy of Mind* (1956), is Sellars' attack on the **Myth of the Given**: the foundationalist assumption that some cognitive states carry positive epistemic status independently of their inferential relations to other states. Sellars argued no item can be both epistemically independent and epistemically efficacious. To know is to place an episode in the *space of reasons* — the normative space of justifying and being able to justify what one says. Knowledge is thus irreducibly a matter of standing in normative relations, which is precisely why the person and the space of reasons press back against any framework, like the scientific image, that trades only in causes. The Map treats this normative dimension under [rational-normativity](/concepts/rational-normativity/).
+The epistemological backdrop, from the earlier *Empiricism and the Philosophy of Mind* (1956), is Sellars' attack on the **Myth of the Given**: the foundationalist assumption that some cognitive states carry positive epistemic status independently of their inferential relations to other states. Sellars argued no item can be both epistemically independent and epistemically efficacious. To know is to place an episode in the *space of reasons* — the normative space of justifying and being able to justify what one says. Knowledge is thus irreducibly a matter of standing in normative relations, which is precisely why the person and the space of reasons press back against any framework, like the scientific image, that trades only in causes. The Map treats this normative dimension under [rational normativity](/topics/consciousness-and-the-normativity-of-reason/).
 
 ## Relation to Site Perspective
 
@@ -77,7 +77,7 @@ This also clarifies the Map's relation to eliminativism. Where [eliminative-mate
 
 - [grain-mismatch](/concepts/grain-mismatch/) — The Map's development of the homogeneity-versus-particulate obstacle Sellars first pressed
 - [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — The corpus framing that leans most heavily on the manifest/scientific-image distinction
-- [rational-normativity](/concepts/rational-normativity/) — The space of reasons and why normativity resists relocation into causes
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The space of reasons and why normativity resists relocation into causes
 - [eliminative-materialism](/topics/eliminative-materialism/) — The reductive endpoint Sellars and the Map both refuse
 - [argument-from-reason](/topics/argument-from-reason/) — Whether rational causation survives inside a purely physical order
 - [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — Brandom's inferentialism as the Sellarsian descendant, and why the Map resists its naturalising endpoint

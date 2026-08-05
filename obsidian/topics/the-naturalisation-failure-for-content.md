@@ -20,7 +20,6 @@ concepts:
   - "[[symbol-grounding-problem]]"
   - "[[predictive-processing]]"
   - "[[parsimony-epistemology]]"
-  - "[[rational-normativity]]"
   - "[[teleosemantics]]"
   - "[[conceptual-role-semantics]]"
   - "[[content-vocabulary-as-derived-feature]]"
@@ -111,7 +110,7 @@ But the independence is dialectical, not metaphysical. The Map's [[intentionalit
 
 The HPC sits naturally alongside the Map's treatment of [[consciousness-and-the-normativity-of-reason|the normativity of reason]]. Both arguments share a diagnostic structure: a feature of mind that is normatively loaded — content has correctness conditions, inference has prescriptive force — meets a description language that is purely descriptive — covariation, function, causation, dynamical coupling — and falls through.
 
-The normativity-of-reason argument identifies the [[rational-normativity|*ought* of inference]]: given certain premises you ought to draw a particular conclusion, and this *ought* is not captured by any account of what the brain *will* do. The HPC identifies the *aboutness* of content: an internal state is *about* something specific, under a specific guise, and this aboutness is not captured by any account of what the state *correlates with*. Different topics, same structural diagnosis. In each case, naturalisation gets the descriptive shape right and misses the normative-intensional dimension that makes the phenomenon what it is.
+The normativity-of-reason argument identifies the [[consciousness-and-the-normativity-of-reason|*ought* of inference]]: given certain premises you ought to draw a particular conclusion, and this *ought* is not captured by any account of what the brain *will* do. The HPC identifies the *aboutness* of content: an internal state is *about* something specific, under a specific guise, and this aboutness is not captured by any account of what the state *correlates with*. Different topics, same structural diagnosis. In each case, naturalisation gets the descriptive shape right and misses the normative-intensional dimension that makes the phenomenon what it is.
 
 This is the same joint the [[argument-from-reason|argument from reason]] presses from the side of inference: where the HPC finds aboutness undelivered by covariation and function, the argument from reason finds normative *grasping* undelivered by the same resources — sister failures of one naturalising programme. Where physicalism keeps hitting boundaries — phenomenal experience, rational normativity, mental content — the boundaries form a consistent pattern. The Map's claim that consciousness is the common ground for all three (developed in the [[intentionality]] and [[consciousness-and-normative-force|normative-force]] articles) is one available unification. It is not the only one, but it is the unification that fits the Map's [[tenets]].
 
