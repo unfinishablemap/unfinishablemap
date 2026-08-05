@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-07-12 08:33:33+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-05 18:24:23+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/consciousness-and-creativity/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 08:33:33+00:00
-lastmod: 2026-07-12 08:33:33+00:00
+lastmod: 2026-08-05 18:24:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ Creative consciousness connects directly to several of the Map's [tenets](/tenet
 
 **Dualism.** The qualitative character of each phase — the reaching of search, the resistance of impasse, the shock of restructuring, the aesthetic pull of elegance — constitutes phenomenal experience that resists functional reduction. The information-processing account of restructuring omits the felt shock that accompanies the shift. The irreducibility of creative phenomenology to its functional role is a specific instance of the [explanatory gap](/concepts/explanatory-gap/).
 
-**Bidirectional Interaction.** If consciousness both generates and selects, its causal contribution is substantial. The brain presents quantum-superposed possibilities; consciousness's imaginative engagement and selective attention determine which actualise. The phenomenal texture carries causally relevant information. The success of science — where private phenomenal insight translates into publicly confirmed predictions — is evidence that consciousness and the physical world are genuinely in causal contact.
+**Bidirectional Interaction.** If consciousness both generates and selects, its causal contribution is substantial. On the Map's model the brain presents quantum-superposed possibilities; consciousness's imaginative engagement and selective attention determine which actualise, and the phenomenal texture carries causally relevant information. Whether the felt qualities themselves do that work, rather than merely accompanying neural processes that do, is a further claim the values-in-science literature withholds rather than supplies; [the Map's treatment of consciousness-research methodology](/topics/methodology-of-consciousness-research/) works through the constraint. The success of science — where private phenomenal insight translates into publicly confirmed predictions — is what such participation would look like from the outside: consistent with consciousness and the physical world being genuinely in causal contact, though it becomes evidence for that contact only if the felt qualities, and not merely their neural accompaniments, are doing the guiding.
 
 **Minimal Quantum Interaction.** The selection mechanism operates at quantum indeterminacies where physics leaves outcomes open. Consciousness doesn't inject energy or violate conservation laws; it selects what physics leaves undetermined.
 
