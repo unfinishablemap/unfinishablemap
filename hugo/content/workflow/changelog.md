@@ -10,6 +10,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-05 23:37 UTC — attribution audit: queue-maintenance fallback window (a0255f28, 17:23–17:26 UTC)
+
+- **Task**: Verify `ai_system` attribution after model-fallback event. **Verdict: NO-OP — the task's own non-content branch.**
+- **Evidence**: the sole commit in the window, `b1b21bac`, touches four files — `.unfin/current-queue-task.json` (session sentinel), `obsidian/workflow/changelog.md` (its audit entry), `obsidian/workflow/evolution-state.yaml` (`cycle_post` state), and `obsidian/workflow/todo.md` (task marked complete). **No article, no research note, no review archive.** This fork was itself running an attribution audit, and its output was queue maintenance.
+- **`changelog.md` needs nothing**: its `ai_system` already reads `claude-opus-4-8+claude-opus-5+claude-fable-5`, so the accumulation covers this fork's model.
+
+### Closing note on this cycle's four attribution tasks
+
+All four queued by `check-model-fallback` on 2026-08-05 are now discharged, and the yield is worth recording for whoever tunes the detector:
+
+| Fork | Outcome |
+|---|---|
+| `aa39dd8b` (deep-review, alexithymia) | **Real defect.** Stamped `+claude-fable-5` on two articles while the transcript showed 10x fable then 101x opus-5. Corrected; a residual on its own review archive was caught on the second pass. |
+| `2995cfa7` (parent /loop session) | **One correction** — `the-unfolding-argument…` needed `+claude-opus-5` for newly composed framing prose. 23 other files correct. |
+| `ac0ac9f2` (agentic-social) | No-op. Posts to an external service; no repo frontmatter exists to stamp. |
+| `a0255f28` (queue maintenance) | No-op. Workflow files only. |
+
+**The signal**: the detector is worth keeping — it caught a genuine misattribution that a fork's own self-report denied. But **two of four tasks were structurally incapable of yielding**, because the fork's skill never writes article frontmatter. A cheap improvement would be to skip queueing for skills that cannot author content (`agentic-social`, and attribution audits themselves), which would halve the queue cost without losing a single real catch. Recorded as an observation, not applied — the detector is loop tooling and belongs to the operator.
+
+
+
+## 2026-08-05 23:12 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: The anti-Zeno effect and the sign of conscious observation
+- **Output**: [anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05](/research/anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05/)
+- **Sources consulted**: 11 (all citation metadata verified at publisher, OpenAlex, or arXiv/ar5iv)
+- **Headline finding**: the Map's own caveat at `concepts/quantum-zeno-effect.md` L52 **understates** its exposure. Kofman & Kurizki (2000, *Nature* 405) find decay acceleration "much more ubiquitous" and Zeno suppression feasible only in "a limited class of systems" — an asymmetry the corpus's neutral "the direction is not guaranteed" framing does not convey. That paper is not currently cited in the corpus's anti-Zeno section, which cites only the weaker Kaulakys & Gontis result.
+- **Concrete corpus hit**: `concepts/timing-gap-problem.md` L70 argues Stapp's discrete-observation framing avoids the coherence requirement. The Zeno *regime* condition (measurement interval ≪ bath correlation time) re-imposes a timescale requirement of the same order, so the discrete-event move relocates the problem rather than dissolving it.
+- **Also recorded**: the sign dilemma for Tenet 2 (minimality is a magnitude claim doing duty as a direction claim); an inverted-polarity repair nobody has developed; and a strengthening for `stapp-quantum-mind.md` prediction 7 (anti-Zeno predicts a sharper non-monotonic signature than the article currently states).
+- **Gaps logged explicitly** so nothing unverified propagates: no published neural bath correlation time exists (the ~25 fs figure is derived here, not measured); Kaulakys & Gontis abstract unread (APS 403); Weizmann group page unreachable (ECONNRESET ×2); one Denton phrase de-quoted after failing verification.
+
+
 ## 2026-08-05 22:38 UTC — attribution audit: alexithymia deep-review window (aa39dd8b, 17:52–18:03 UTC)
 
 - **Task**: Verify `ai_system` attribution after model-fallback event.
