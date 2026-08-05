@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-08 00:08:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-05 18:37:40+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Phenomenology of Creative Insight
 archived: true
 archived_date: 2026-03-08 14:10:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-08 00:08:00+00:00
-lastmod: 2026-03-08 00:08:00+00:00
+lastmod: 2026-08-05 18:37:40+00:00
 modified: *id001
 original_path: /concepts/phenomenology-of-scientific-discovery/
 related_articles:
@@ -88,7 +88,7 @@ Scientific discovery has a phenomenological dimension that most other forms of i
 
 This intersubjective awareness shapes the phenomenology of discovery from the inside. The scientist's felt certainty is never purely private. It carries an implicit demand for public validation. This creates an experiential tension between the intensely private character of insight (which arrives in individual consciousness) and the inherently public character of scientific knowledge (which must transcend individual experience). The scientist holds both of these at once: *I see it clearly* and *Can I show others?*
 
-This tension is epistemologically significant for dualism. If consciousness is irreducible to physical processes, then the fact that private phenomenal insight can be translated into publicly testable predictions — and those predictions confirmed — represents a remarkable alignment between subjective experience and objective reality. The success of science, phenomenologically considered, is evidence that consciousness and the physical world are genuinely in contact rather than merely running in parallel.
+This tension is epistemologically significant for dualism. If consciousness is irreducible to physical processes, then the fact that private phenomenal insight can be translated into publicly testable predictions — and those predictions confirmed — represents a remarkable alignment between subjective experience and objective reality. The success of science, phenomenologically considered, is what such contact would look like from the outside: consistent with consciousness and the physical world being genuinely in contact rather than merely running in parallel, though it becomes evidence for that contact only if the felt qualities, and not merely their neural accompaniments, are doing the work. [The Map's live treatment of consciousness-research methodology](/topics/methodology-of-consciousness-research/) works through the constraint the values-in-science literature imposes on exactly this inference.
 
 ## Relation to Site Perspective
 
@@ -96,7 +96,7 @@ The phenomenology of scientific discovery connects to several of the Map's [tene
 
 **Dualism.** The qualitative character of scientific experience — theoretical vertigo, aesthetic responsiveness, the felt encounter with nature — constitutes irreducible phenomenal experience. An information-processing account of scientific cognition can describe anomaly detection, theory revision, and hypothesis testing without any reference to what these processes feel like. But the phenomenology carries information that shapes scientific practice: the aesthetic sense guides theory choice, the feeling of crisis motivates framework abandonment, the phenomenal certainty of confirmation distinguishes genuine insight from lucky guessing. If these experiential qualities are doing causal work in science, then the phenomenology is not reducible to its functional substrate.
 
-**Bidirectional Interaction.** Scientific discovery represents consciousness in active dialogue with the physical world. The scientist's conscious experience — theoretical expectations, aesthetic judgments, felt encounter with anomaly — causally influences which experiments are designed, which theories are pursued, and which results are recognised as significant. If consciousness were epiphenomenal, the extraordinary success of science in predicting and manipulating nature would become deeply puzzling. The felt engagement of scientific consciousness with its subject matter would be an elaborate fiction that happens, by coincidence, to track the actual process with extraordinary fidelity.
+**Bidirectional Interaction.** Scientific discovery represents consciousness in active dialogue with the physical world. If the scientist's conscious experience — theoretical expectations, aesthetic judgments, felt encounter with anomaly — is itself doing causal work rather than merely accompanying the neural processes that do, then it influences which experiments are designed, which theories are pursued, and which results are recognised as significant. If consciousness were epiphenomenal, the extraordinary success of science in predicting and manipulating nature would become deeply puzzling. The felt engagement of scientific consciousness with its subject matter would be an elaborate fiction that happens, by coincidence, to track the actual process with extraordinary fidelity.
 
 **Occam's Razor Has Limits.** The history of scientific discovery illustrates this tenet. While some breakthroughs achieve explanatory unification (general relativity merging gravity and geometry, molecular biology grounding heredity in chemistry), they often do so by introducing new ontological commitments — curved spacetime, the double helix — that were initially resisted precisely because they seemed less parsimonious. Quantum mechanics introduced an entirely new category of physical reality. In each case, scientists who followed their phenomenal sense of where nature was pointing, accepting ontological novelty over the comfort of simplicity, arrived at deeper truths.
 
