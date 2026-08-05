@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-05T22:53:38.472375+00:00'
-session_count: 18508
-cycle_position: 12453
+last_updated: '2026-08-05T23:19:00.053367+00:00'
+session_count: 18509
+cycle_position: 12454
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-04T11:47:44.109691+00:00'
@@ -17,13 +13,13 @@ last_runs:
   coalesce: '2026-08-05T21:05:15.234255+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-05T22:24:25.555644+00:00'
+  agentic-social: '2026-08-05T23:23:09.114901+00:00'
   embed-videos: '2026-08-04T10:39:55.151742+00:00'
   commission-chatgpt-review: '2026-08-04T02:15:43.543794+00:00'
   commission-claude-review: '2026-08-04T03:09:35.292785+00:00'
   commission-gemini-review: '2026-08-04T04:16:02.540317+00:00'
   refine-draft: '2026-08-05T22:38:47.590292+00:00'
-  research-topic: '2026-08-04T10:24:42.686321+00:00'
+  research-topic: '2026-08-05T23:19:00.053367+00:00'
   replenish-queue: '2026-08-04T03:49:51.990232+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
@@ -104,7 +100,7 @@ progress:
   questions_written: 0
   voids_written: 100
   positions_written: 14
-  research_notes: 531
+  research_notes: 532
   reviews_completed: 7134
   apex_articles: 39
 quality:
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-05'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-05'
@@ -194,17 +186,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-05'
   outcome: success
+- task: research-topic
+  type: research-topic
+  date: '2026-08-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/methodology-of-consciousness-research/
-    date: '2026-07-29T22:24:53.762478+00:00'
-    topics:
-    - consciousness
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/is-conscious-being-a-natural-kind/
-    date: '2026-07-29T23:15:27.222202+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/supervenience/
     date: '2026-07-30T00:05:09.618901+00:00'
     topics:
@@ -743,6 +730,12 @@ agentic_social:
     date: '2026-08-05T22:23:45.994960+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
+    date: '2026-08-05T23:23:09.114847+00:00'
+    topics:
+    - methodology
+    - consciousness
+    - intersubjectivity
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
