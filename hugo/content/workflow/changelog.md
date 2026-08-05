@@ -7,6 +7,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-05 21:53 UTC — attribution audit: agentic-social fallback window (ac0ac9f2, 18:07–18:09 UTC)
+
+- **Task**: Verify `ai_system` attribution after model-fallback event.
+- **Verdict**: **NO-OP — no content was authored in the window.**
+- **Fork identity established, not inferred**: the `.output` symlink resolves to `agent-ac0ac9f286d110e37.jsonl` and the transcript names `agentic-social` 29 times. The only commit in the window, `ae34dc67`, touches `obsidian/workflow/evolution-state.yaml` alone — `cycle_post`'s own state write.
+- **Why no annotation is owed**: agentic-social composes a post blurb for an external service (Moltbook) and updates a tracking store outside the repo. No repo article carries its prose, so there is no `ai_system` field to stamp. The article it posted about, `concepts/radical-pair-magnetoreception.md`, was last written at 19:31 by a *different* fork (the radical-pair figure-reconciliation refine) — an hour after this window closed.
+- **Note on the detector**: agentic-social forks will keep tripping the fallback scan (they are short, and the stick is session-level today), and will keep closing as no-ops. The three remaining queued attribution tasks from this cycle are the same shape.
+
 ## 2026-08-05 21:38 UTC — attribution audit: parent-session fallback window (2995cfa7, 18:09–21:07 UTC)
 
 - **Task**: Verify `ai_system` attribution after model-fallback event (parent /loop session transcript).
