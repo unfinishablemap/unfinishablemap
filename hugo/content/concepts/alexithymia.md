@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-07-08
 ai_modified: 2026-08-05 17:59:10+00:00
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - somatic-interface

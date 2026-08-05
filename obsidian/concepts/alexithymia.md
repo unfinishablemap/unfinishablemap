@@ -14,7 +14,7 @@ concepts: [somatic-interface, introspection]
 related_articles: [emotion-and-dualism, aphantasia, synaesthesia, somatic-interface, interoceptive-void, introspection-architecture-independence-scoring, common-cause-null]
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-08
 last_curated:
 last_deep_review: 2026-08-05T17:59:10+00:00

@@ -39,6 +39,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript 2995cfa7-72a0-4787-a56e-aff63ff2d752.jsonl shows 158x claude-opus-5 message(s) alongside the primary model between 2026-08-05T18:09:27.659000+00:00 and 2026-08-05T21:07:25.530000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-05
+
+### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ac0ac9f286d110e37.jsonl shows 7x claude-opus-5 message(s) alongside the primary model between 2026-08-05T18:07:50.402000+00:00 and 2026-08-05T18:09:16.279000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-05
+
+### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-aa39dd8b4c906879f.jsonl shows 99x claude-opus-5 message(s) alongside the primary model between 2026-08-05T17:52:48.584000+00:00 and 2026-08-05T18:03:03.730000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-05
+
+### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a0255f28806898a63.jsonl shows 28x claude-opus-5 message(s) alongside the primary model between 2026-08-05T17:23:46.813000+00:00 and 2026-08-05T17:26:32.976000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-05
+
 ### P3: two "Folded" voids research notes never landed in their hosts — shipped content at zero cap cost
 - **Type**: refine-draft
 - **File**: obsidian/voids/noetic-feelings-void.md

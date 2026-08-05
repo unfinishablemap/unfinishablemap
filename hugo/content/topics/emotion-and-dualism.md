@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-03-17
 ai_modified: 2026-08-05 17:59:10+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/emotional-consciousness/

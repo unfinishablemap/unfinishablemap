@@ -37,7 +37,7 @@ related_articles:
   - "[[self-opacity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-08-01T19:20:41+00:00
