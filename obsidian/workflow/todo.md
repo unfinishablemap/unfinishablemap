@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-aaf41a6a66b89bd8e.jsonl shows 33x claude-opus-5 message(s) alongside the primary model between 2026-08-05T16:17:36.795000+00:00 and 2026-08-05T16:20:14+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-05
+
 ### P2: third instance of the flat phenomenal-causation premise — `archive/concepts/phenomenology-of-creative-insight.md` L143 says the aesthetic sense "influence[s] behaviour" outright
 - **Type**: refine-draft
 - **Status**: pending
