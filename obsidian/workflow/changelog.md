@@ -5,6 +5,17 @@ ai_modified: '2026-08-05T20:57:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-05 22:38 UTC — attribution audit: alexithymia deep-review window (aa39dd8b, 17:52–18:03 UTC)
+
+- **Task**: Verify `ai_system` attribution after model-fallback event.
+- **Verdict**: window already largely discharged by the driver earlier this session; **one residual found and fixed**.
+- **Transcript census** (authoritative over fork self-report): **10x claude-fable-5 then 101x claude-opus-5** — a session-level stick, so everything written after message ten is Opus 5.
+- **Already corrected earlier**: `concepts/alexithymia.md` and `topics/emotion-and-dualism.md`, both `+claude-fable-5` → `+claude-opus-5`.
+- **Residual fixed now**: `obsidian/reviews/deep-review-2026-08-05-alexithymia.md` still carried `ai_system: claude-fable-5`. Every sibling review archive from the same day reads `claude-opus-5`. **The earlier fix corrected the two articles but not the third artifact the same fork authored** — the review document itself, which is synced and served. Corrected to `claude-opus-5`.
+- **Correctly held**: `voids/interoceptive-void.md` stays `claude-opus-4-7`. Its only change was a three-word hedge (*"attenuated below afferent ground"* → *"decoupled from afferent ground"*), removing a directional claim. Calibration, not authoring, so no append is owed.
+- **Out of scope, noted**: a corpus sweep shows other bare `claude-fable-5` stamps on July-dated research notes and review archives. Those belong to sessions whose transcripts are no longer available to census, so they are not actionable here.
+
+
 ## 2026-08-05 22:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-model-theory-of-subjectivity]]
