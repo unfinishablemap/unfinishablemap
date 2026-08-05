@@ -4,6 +4,7 @@ created: 2026-07-10
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+ai_modified: 2026-08-05T20:02:00+00:00
 ---
 
 # Research: The Unfolding Argument Against Causal-Structure Theories of Consciousness
@@ -54,7 +55,7 @@ The **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) is a formal ch
 - **Verification**: VERIFIED venue/vol/article (Monash / ResearchGate / PhilPapers). CAUTION: the title appears in two variants across databases — "towards a **science**" (PhilPapers/Monash) vs "towards a **truer science**" (some ResearchGate/DigitalCommons records). Use "towards a science of causal structure theories" as primary; flag the variant when citing.
 - **Type**: Peer-reviewed reply
 - **Key points**:
-  - The unfolding argument smuggles in **functionalism/behaviourism** as a premise (that behavioural equivalence entails experiential equivalence). IIT rejects this premise outright.
+  - The unfolding argument smuggles in **functionalism/behaviourism** as a premise (that behavioural equivalence entails experiential equivalence). IIT rejects this premise outright. **PARAPHRASE, NOT A QUOTE (flagged 2026-08-05):** "smuggles in" is this note's own wording — it could not be located in Tsuchiya et al. 2020 (paywalled at Elsevier, no abstract indexed) across four keyword-varied searches. The downstream article had quote-marked it; that has been de-quoted. Do not render it as a verbatim quotation.
   - The feedforward "unfolding" is astronomically less efficient/compact; natural selection would not build brains that way — so the twin is biologically irrelevant even if mathematically constructible.
   - Points toward IIT's **intrinsicality** commitment: IIT is a theory of a system's intrinsic cause-effect power, not of its extrinsic input-output map, so demanding input-output falsifiability misframes the theory.
 
@@ -143,7 +144,8 @@ The **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) is a formal ch
 |------|-------------------|--------------|
 | 2019 | Doerig, Schurger, Hess & Herzog, *Conscious. Cogn.* 72:49-59 | Original unfolding argument |
 | 2020 | Tsuchiya, Andrillon & Haun, *Conscious. Cogn.* 79:102877 | Canonical IIT reply (functionalism/intrinsicality) |
-| 2020/21 | Kleiner & Tull, *Front. Appl. Math. Stat.* 6:602973 | Formal IIT structure; proposes amendment to answer UA |
+| 2020 | Kleiner, *Conscious. Cogn.* 85:102981 | Formal rebuttal: UA premises prove too much; one premise unwarranted |
+| 2020/21 | Kleiner & Tull, *Front. Appl. Math. Stat.* 6:602973 | Axiomatic formalisation of IIT; does **not** address the UA |
 | 2021 | Hanson & Walker, *Neurosci. Conscious.* 2021(2):niab014 | Automata-theoretic formalisation (Krohn-Rhodes) |
 | 2021 | Usher, *Conscious. Cogn.* 95:103212 | Refutation via non-equivalence under perturbation |
 | 2022 | Herzog, Schurger & Doerig, *Conscious. Cogn.* 98:103261 | UA authors rebut the first-person/intrinsicality rescue |
@@ -180,7 +182,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the argumen
 - Did not retrieve full text of the Tononi/Albantakis-authored 2021+ intrinsicality restatements (IIT 4.0 papers) that develop the "physical substrate is intrinsic, not I-O" defence in depth — the downstream article should pull the IIT 4.0 primary source (Albantakis et al. 2023, *PLoS Comput. Biol.*) if it leans on the intrinsicality reply.
 - Usher (2021) DOI inferred, not publisher-verified — verify before citing.
 - Negro (2022) volume/pages not captured — verify.
-- The Kleiner & Tull "proposed amendment" to IIT's formalism was summarised second-hand; the article should read the primary source (arXiv:2002.07655) for the exact amendment if it makes a claim about it.
+- ~~The Kleiner & Tull "proposed amendment" to IIT's formalism was summarised second-hand; the article should read the primary source (arXiv:2002.07655) for the exact amendment if it makes a claim about it.~~ **RESOLVED 2026-08-05 (deep-review): the second-hand summary was wrong.** Kleiner & Tull 2021 does not discuss the unfolding argument at all — its abstract and full text present an axiomatic definition of IIT generalising IIT 3.0 and Quantum IIT, with no UA engagement and no amendment proposed in response to it. The Kleiner work that *does* reply to the UA is a separate, sole-authored paper: Kleiner, J. (2020), "Brain states matter. A reply to the unfolding argument," *Consciousness and Cognition* 85:102981 — and its move is a rebuttal (one premise is unwarranted; drop it and the argument fails), not a repair of IIT's formalism. This unverified second-hand line propagated into the live article as fact and survived two prior citation reviews, because the *metadata* of the Kleiner & Tull cite is correct and only the framing was wrong.
 
 ## Citations (verification status)
 
@@ -189,7 +191,8 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the argumen
 3. Hanson, J. R., & Walker, S. I. (2021). Formalizing falsification for theories of consciousness across computational hierarchies. *Neuroscience of Consciousness*, 2021(2), niab014. DOI: 10.1093/nc/niab014. arXiv:2006.07390. — **VERIFIED (Oxford Academic; PMC8339439).**
 4. Usher, M. (2021). Refuting the unfolding-argument on the irrelevance of causal structure to consciousness. *Consciousness and Cognition*, 95, 103212. PMID 34627098. DOI (inferred) 10.1016/j.concog.2021.103212. — **VENUE/vol VERIFIED; DOI unverified — flag.**
 5. Herzog, M. H., Schurger, A., & Doerig, A. (2022). First-person experience cannot rescue causal structure theories from the unfolding argument. *Consciousness and Cognition*, 98, 103261. DOI: 10.1016/j.concog.2021.103261. — **VERIFIED (ScienceDirect S1053810021001872).**
-6. Kleiner, J., & Tull, S. (2021). The Mathematical Structure of Integrated Information Theory. *Frontiers in Applied Mathematics and Statistics*, 6, 602973. DOI: 10.3389/fams.2020.602973. arXiv:2002.07655. — **VENUE/DOI VERIFIED; year arXiv-2020/Frontiers-2021; WebFetch hallucinated a wrong title — correct title confirmed by 4 sources.**
+6. Kleiner, J., & Tull, S. (2021). The Mathematical Structure of Integrated Information Theory. *Frontiers in Applied Mathematics and Statistics*, 6, 602973. DOI: 10.3389/fams.2020.602973. arXiv:2002.07655. — **VENUE/DOI VERIFIED; year arXiv-2020/Frontiers-2021; WebFetch hallucinated a wrong title — correct title confirmed by 4 sources. SCOPE (verified 2026-08-05): does NOT address the unfolding argument — do not cite it for a UA reply.**
+9. Kleiner, J. (2020). Brain states matter. A reply to the unfolding argument. *Consciousness and Cognition*, 85, 102981. DOI: 10.1016/j.concog.2020.102981. PMID: 32980665. — **VERIFIED (PubMed 32980665). This, not Kleiner & Tull 2021, is the Kleiner reply to the UA: it shows the argument's premises generalise to almost every theory of consciousness, identifies the premise that brain-activity measures cannot serve in empirical tests as unwarranted, and shows the argument fails once it is dropped.**
 7. Negro, N. (2022). Can the Integrated Information Theory Explain Consciousness from Consciousness Itself? *Review of Philosophy and Psychology*. DOI: 10.1007/s13164-022-00653-x. — **VENUE/DOI VERIFIED; vol/pp not captured — flag.**
 8. O'Reilly-Shah, V. N., Selvitella, A. M., & Schurger, A. (2026). A caveat regarding the unfolding argument: implications of plasticity. *Neuroscience of Consciousness*, 2026(1), niag027. DOI: 10.1093/nc/niag027. — **VERIFIED (Oxford Academic).**
 9. Hanson, J. R., & Walker, S. I. (2020/21). No Substitute for Functionalism — A Reply to "Falsification & Consciousness." arXiv:2006.13664. — **arXiv id VERIFIED; peer-review status unverified — flag as preprint.**
