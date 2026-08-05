@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-30T22:24:10+00:00
+ai_modified: 2026-08-05T19:25:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ coalesced_from:
   - "/concepts/quantum-neural-mechanisms-and-coherence/"
 ---
 
-Quantum biology has established that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Avian magnetoreception and enzyme catalysis are the surviving functional cases, with olfaction unresolved; photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form ([[#photosynthesis|revised below]]). Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [[quantum-consciousness|quantum consciousness theories]]. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides.
+Quantum biology has established that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Avian magnetoreception and enzyme catalysis are the surviving functional cases, with olfaction unresolved; photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form ([[#photosynthesis|revised below]]). Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [[quantum-consciousness|quantum consciousness theories]]. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require physical holism, with quantum entanglement among the candidate mechanisms that could supply it.
 
 ## The "Warm, Wet, and Noisy" Objection
 
@@ -71,7 +71,7 @@ The measurement itself stands, and that residue matters: electronic coherence wa
 
 Migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
 
-Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though its microsecond coherence sits about three orders of magnitude below neural firing timescales.
+Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though the tightly bound FAD–superoxide pair it models needs only about 700 ns of coherence — some three orders of magnitude below neural firing timescales, and a shorter budget than the tens of microseconds the well-separated compass pair requires ([[radical-pair-magnetoreception|radical-pair magnetoreception]]).
 
 Selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
 
@@ -165,7 +165,7 @@ The Map's position would face serious difficulty if: (1) biological quantum effe
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology demonstrates that biological systems routinely involve quantum indeterminacies where outcomes are undetermined. The [[consciousness-physics-interface-formalism|interface formalism]] constrains any coupling to preserve Born rule statistics, Hilbert-space geometry, no-signalling, and conservation laws. The five neural mechanisms provide candidates for where consciousness might bias outcomes within these constraints.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The epothilone B study directly supports this: microtubule stabilisation delayed anaesthesia (Cohen's d = 1.9), confirming the microtubule-consciousness relationship runs in both directions.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The epothilone B study is suggestive rather than decisive: microtubule stabilisation delayed anaesthesia (Cohen's d = 1.9), consistent with the microtubule-consciousness relationship running in both directions, though the same result admits a classical reading (microtubules traffic GABA_A receptors, isoflurane's primary target).
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Protected quantum coherence matters only if collapse is real. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
 

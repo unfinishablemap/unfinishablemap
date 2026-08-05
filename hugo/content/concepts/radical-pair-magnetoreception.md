@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-07-14 22:14:00+00:00
+ai_modified: 2026-08-05 19:25:38+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 23:33:31+00:00
-lastmod: 2026-07-14 22:14:00+00:00
+lastmod: 2026-08-05 19:25:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ RPM is best supported for the directional *compass*. A separate magnetite-based 
 
 The quantum-biology interest in RPM is a timescale problem. For the observed compass precision to hold, the radical pair's superposition must survive long enough for the field to bias the spin dynamics before recombination. Gauger, Rieper, Morton, Benjamin and Vedral (2011) estimated that superposition and entanglement must be sustained for **at least tens of microseconds** at avian body temperature — longer than the best comparable man-made molecular systems achieved at the time. This is the crisp statement of the "warm, wet, noisy" puzzle: quantum coherence persisting in biology where naive thermal reasoning says it should not.
 
-That figure — tens of microseconds — is the number downstream Map articles should quote, and it is also the number that grounds the transfer limit. Neural signalling operates on millisecond timescales, roughly two orders of magnitude slower. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
+That figure — tens of microseconds — is the number downstream Map articles should quote for the well-separated compass radical pair, and it is also the number that grounds the transfer limit. It is not the only radical-pair figure in the Map: the tightly bound FAD–superoxide pair modelled by Denton et al. (2024) is a different pair with a shorter, sub-microsecond budget, treated on the [quantum Zeno effect](/concepts/quantum-zeno-effect/) page. Neural signalling operates on millisecond timescales, roughly two orders of magnitude slower. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
 
 ## The Quantum-Zeno Sub-Framing
 

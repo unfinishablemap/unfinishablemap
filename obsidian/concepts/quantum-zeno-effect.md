@@ -4,7 +4,7 @@ description: "The quantum Zeno effect—frequent measurement freezing quantum ev
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-07-20T00:30:22+00:00
+ai_modified: 2026-08-05T19:25:38+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -58,7 +58,7 @@ The strongest evidence that warm, wet biology can host Zeno-like dynamics comes 
 Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Three qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
 
 - **It is computational modelling, not an experimental demonstration.** The study models cryptochrome radical pairs; it does not measure Zeno dynamics in a living neuron or even in the protein directly.
-- **Its coherence is microsecond-scale**—roughly three orders of magnitude below the millisecond timescale of neural decision-making. The precedent operates in a regime far shorter than the one a neural application would need.
+- **Its coherence budget is sub-microsecond.** The tightly bound FAD–superoxide pair Denton models needs roughly 700 ns of coherence to become magnetosensitive in a geomagnetic field—about three orders of magnitude below the millisecond timescale of neural decision-making. That is a different and shorter budget than the tens of microseconds required of the well-separated compass radical pair; the [[radical-pair-magnetoreception|radical-pair magnetoreception]] page carries that figure and is its home. On either budget the precedent operates in a regime far shorter than the one a neural application would need.
 - **It is a precedent for the mechanism category, not a licence for neural deployment.** Radical-pair spin states are structurally unlike the neural superpositions Stapp's model would require, and Kominis, not Denton, established the first biological Zeno framing. The Map's standing line—precedent, not licence—applies.
 
 Downstream articles that invoke Denton should cite this calibrated statement rather than restate it, and in particular should avoid describing the 2024 work as having "demonstrated" a coherence effect (it modelled one) or as licensing the claim that neural systems "could use" the effect (it is silent on neurons).
