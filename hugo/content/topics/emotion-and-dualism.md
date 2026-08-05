@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-03 20:30:31+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-05 17:59:10+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /topics/emotional-consciousness/
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-08-03 20:30:31+00:00
+lastmod: 2026-08-05 17:59:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ Emotions feel like the most intimate facts about us, yet we often cannot say wha
 
 Schachter and Singer's classic study (1962) showed participants interpreting identical physiological arousal differently depending on social context—as euphoria or anger—without detecting the mislabelling. Barrett's constructionist theory extends this: emotions are not detected through introspection but *constructed*. The brain generates affect and then categorises it using available concepts and context. The construction is invisible; what arrives in consciousness is the finished product.
 
-Alexithymia—difficulty identifying one's emotions, affecting ~10% of the population—opens this void further. People with alexithymia experience affect (physiological signatures are present) but cannot categorise it. The dissociation between feeling and knowing indicates these are separate capacities. Under dualism, this is not merely a failure of introspective machinery. If emotions have irreducible phenomenal character, knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). The bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical. Emotional experience overflows its categories—not as a bug but as a feature of the relationship between conceptual thought and phenomenal reality.
+Alexithymia—difficulty identifying one's emotions, affecting ~10% of the population—opens this void further. People with alexithymia struggle to categorise their affect; whether that affect is present-but-unreachable or attenuated is unresolved ([alexithymia](/concepts/alexithymia/)). On the first reading, feeling and knowing are separate capacities. Under dualism, this is not merely a failure of introspective machinery. If emotions have irreducible phenomenal character, knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). The bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical. Emotional experience overflows its categories, and on this reading that overflow is structural rather than a defect.
 
 ## Valence, Moral Status, and Consciousness Boundaries
 

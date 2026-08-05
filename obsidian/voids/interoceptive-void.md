@@ -4,7 +4,7 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-07-19T22:44:41+00:00
+ai_modified: 2026-08-05T17:59:10+00:00
 last_deep_review: 2026-07-19T22:42:00+00:00
 draft: false
 topics:
@@ -48,7 +48,7 @@ The interoceptive void has three structurally distinct *absence*-faces — chann
 
 **The gated.** Visceral signals shape brain dynamics continuously while remaining sub-threshold. Cardiac and gastric rhythms modulate perceptual thresholds, decision-making, and self-experience without entering awareness (Azzalini, Rebollo, & Tallon-Baudry 2019). Whether a given visceral signal crosses into awareness is governed by arousal and attentional allocation rather than by the degree of afferent stimulation alone — perception can drop below threshold when attention shifts elsewhere and rise above it when arousal climbs. Whatever the underlying mechanism (active suppression, attentional priority, predictive-precision allocation), the functional fact is occlusion: traffic that exists does not enter experience.
 
-**The constructed layer (the inverse face).** Active interoceptive inference (Seth, Friston, and collaborators) reframes felt body state as top-down prediction tested against ascending visceral error. The "embodied self" is the high-precision portion of these predictions; what reaches awareness is a prediction-error-corrected reconstruction of the body, not raw afferent contact. This face moves in the opposite direction from the others — too *much* body-experience, generated downward from priors — and the construction can become decoupled from its substrate, as anxiety (felt body inflated without accuracy gain), alexithymia (felt body attenuated below afferent ground), and somatoparaphrenia (limb-ownership reassigned despite intact afferent return) each demonstrate. The interoceptive case is the [[predictive-construction-void|predictive construction void]] applied to the body that has the world: a related problem rather than another absence-face of the same void.
+**The constructed layer (the inverse face).** Active interoceptive inference (Seth, Friston, and collaborators) reframes felt body state as top-down prediction tested against ascending visceral error. The "embodied self" is the high-precision portion of these predictions; what reaches awareness is a prediction-error-corrected reconstruction of the body, not raw afferent contact. This face moves in the opposite direction from the others — too *much* body-experience, generated downward from priors — and the construction can become decoupled from its substrate, as anxiety (felt body inflated without accuracy gain), alexithymia (felt body decoupled from afferent ground), and somatoparaphrenia (limb-ownership reassigned despite intact afferent return) each demonstrate. The interoceptive case is the [[predictive-construction-void|predictive construction void]] applied to the body that has the world: a related problem rather than another absence-face of the same void.
 
 ## What the Empirical Record Shows
 

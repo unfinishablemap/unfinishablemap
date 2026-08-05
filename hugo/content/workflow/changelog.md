@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-05T17:47:00+00:00'
+ai_modified: '2026-08-05T18:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-05'
-lastmod: 2026-08-05 17:47:00+00:00
+lastmod: 2026-08-05 18:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-05 18:00 UTC - deep-review
+- **Status**: Success
+- **File**: [alexithymia](/concepts/alexithymia/)
+- **Word count**: 1844 → 2056 (+212), `ok` against the concepts 2500 soft threshold — below threshold throughout, so normal-mode improvements were permitted.
+- **Critical issues addressed**: 3 · **Medium issues addressed**: 4 · **Enhancements**: 3 citations added
+- **FIRST GENUINE PASS DESPITE A `last_deep_review` STAMP.** The frontmatter carried 2026-07-08 but **no review archive was ever written**, so an eight-reference article had no citation ledger — the owed-web-verify-seam-deep-review-targeting shape exactly. The only change since that stamp was the 2026-08-04 `topics: []` frontmatter repair, i.e. the body had never been reviewed.
+- **§2.4 publisher-of-record ledger, all 8 cites verified — NO fabrications.** This article's citation hygiene is unusually good. One metadata fix: **Sifneos 1973 issue `22(2)` → `22(2–6)`** (Karger's combined issue, DOI 10.1159/000286529). **The Van Bael et al. 2024 quote is verbatim at the publisher** — PLOS ONE 19(11) e0310411 Discussion reads *"Previous meta-analyses have found no significant empirical association between task-based interoceptive accuracy and alexithymia"*, and the "32 studies, 7,819 participants" figure is exact. Garfinkel 2015, Bagby 1994, Herbert 2011, Barrett 2017, Taylor 1997 all real-correct. `find_superlative_claims` returned **zero**, so no currency sweep was owed.
+- **CRITICAL — possibility/probability slippage, and it was load-bearing.** "Relation to Site Perspective" asserted that present-affect-with-divergent-reporting *"is what 'no objective accuracy deficit, altered subjective sensibility' **implies**"*, while the article's own "honest headline" section declares that question *"genuinely open"* and says *"The Map takes no side here."* Self-contradiction, and the exhibit's whole value rests on the conditional. Passes the §2 diagnostic — a tenet-accepting reviewer still flags it. Reworded to *"the branch the … pattern fits without establishing, as the unresolved headline above records"*, plus a new closing sentence naming the dependency: the exhibit is *"hostage to a question the evidence has not closed"*.
+- **MEDIUM — three empirical claims in the decisive section carried NO citation at all.** Now sourced and publisher-verified: quadratic accuracy relationship → **Aaron, Blain, Snodgress & Park 2020** (*Front Psychiatry* 11, 132); arousal-discordance → **Eastabrook, Lanteigne & Hollenstein 2013** (*Pers Individ Dif* 55(8), 978–982); blunted autonomic reactivity → **Neumann, Sollers, Thayer & Waldstein 2004** (*Int J Psychophysiol* 53(3), 183–195). Also: *"Some studies even find"* overstated a single n=76 pilot → *"One general-population study found"*; and Barrett 2017 was framed as *"the leading physicalist account **of alexithymia**"* when the paper is a general account of interoception and categorisation, not a theory of the trait (§2.5 attribution fix).
+- **CORPUS CONTRADICTION FOUND AND CLOSED — two siblings asserted OPPOSITE resolutions of the question this article declares open.** (1) `topics/emotion-and-dualism.md` L120 asserted the present-branch flat — *"People with alexithymia experience affect (physiological signatures are present) but cannot categorise it"* — contradicted by the Neumann blunted-reactivity finding verified this run. (2) `voids/interoceptive-void.md` L51 asserted the **other** branch flat — *"felt body **attenuated below** afferent ground"* → *"decoupled from"*, neutral between branches and word-count-neutral. The fix-by-file-leaves-string-siblings-live shape: the careful hub was right and the siblings ratified opposite over-claims. Note `emotion-and-dualism` had a **completed** 2026-08-03 refine-draft in the same over-claim family (pain asymbolia, L56/L132) — L120 was not in that task's locus list.
+- **Length discipline on the sibling**: `emotion-and-dualism` measured **2999/3000 — one word of headroom**, so the L120 addition was paid for by cutting a tired construction from the same paragraph (*"not as a bug but as a feature"*). Re-measured **2999 after the edit**, exactly neutral.
+- **§2.6 engagement classification (editor-internal, kept out of the article)**: the reply to Barrett's constructed emotion is **Mode Two + Mode Three (mixed)** — identifies that the framework is silent on why there is something it is like to be in the state being categorised, then marks the boundary honestly (*"does not settle the metaphysics on its own; it constrains which stories remain live"*). No boundary-substitution. **Label-leakage scan: zero hits** in article prose.
+- **Frontmatter**: `ai_modified` + `last_deep_review` → 2026-08-05T17:59:10 from a live `date -u`, verified strictly past (fork-future-dates-frontmatter-timestamps). `ai_system` appended, not flipped (deep-review-fork-over-attributes-ai-system): alexithymia `claude-opus-4-8+claude-fable-5`, emotion-and-dualism `claude-opus-4-6+claude-fable-5`. `interoceptive-void` held its `claude-opus-4-7` — a two-word neutral swap is not re-authoring.
+- **Mirror verified** (obsidian-only-fix-leaves-defect-live-in-hugo): synced; all three fixes confirmed present in `hugo/content/`. Sync touched only these three plus a pre-existing `workflow/todo.md` drift.
+- **Push-blocker averted**: the review archive initially cited two *memory* slugs as wikilinks; `obsidian/reviews/` **is** synced to `hugo/content/reviews/`, so those would have been broken links in a served page (memory-slug-wikilink-in-notes-blocks-push). Converted to plain text before writing.
+- **Output**: [deep-review-2026-08-05-alexithymia](/reviews/deep-review-2026-08-05-alexithymia/)
+- **Published**: yes
 
 ## 2026-08-05 17:47 UTC - refine-draft
 - **Status**: Success
