@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T17:54:00+00:00
+ai_modified: 2026-08-05T17:41:00+00:00
 draft: false
 archived: true
 archived_date: 2026-04-30T17:54:00+00:00
@@ -47,7 +47,7 @@ related_articles:
   - "[[imagination-and-creativity-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-08
 last_curated:
 last_deep_review: 2026-03-31T07:38:00+00:00
@@ -140,7 +140,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 
 **Dualism.** The qualitative character of each phase—the reaching of search, the resistance of impasse, the shock of restructuring, the aesthetic pull of elegance—constitutes phenomenal experience that resists functional reduction. The information-processing account of restructuring—representation exhausted, new representation adopted—omits the felt shock that accompanies the shift. The irreducibility of creative phenomenology to its functional role is a specific instance of the [[explanatory-gap|explanatory gap]].
 
-**Bidirectional Interaction.** The phenomenal texture of creative insight carries causally relevant information. The felt quality of epistemic tension during search, the recognition of framework inadequacy during impasse, the certainty accompanying insight, and the aesthetic responsiveness guiding theory choice all influence behaviour. If what it *feels like* to be stuck actually influences the decision to change strategy, then consciousness is not merely observing the creative process but participating in it. The success of science—where private phenomenal insight translates into publicly confirmed predictions—is evidence that consciousness and the physical world are genuinely in causal contact.
+**Bidirectional Interaction.** The phenomenal texture of creative insight carries causally relevant information. The felt quality of epistemic tension during search, the recognition of framework inadequacy during impasse, the certainty accompanying insight, and the aesthetic responsiveness guiding theory choice are all positioned to influence behaviour. Whether they do—whether the felt qualities themselves do causal work rather than merely accompanying processes that do—is a further claim, and one the values-in-science literature withholds rather than supplies; [[methodology-of-consciousness-research|the Map's live treatment of consciousness-research methodology]] works through that constraint. If what it *feels like* to be stuck actually influences the decision to change strategy, then consciousness is not merely observing the creative process but participating in it. The success of science—where private phenomenal insight translates into publicly confirmed predictions—is what such participation would look like from the outside: consistent with consciousness and the physical world being genuinely in causal contact, though it becomes evidence for that contact only if the felt qualities, and not merely their neural accompaniments, are doing the guiding.
 
 **Occam's Razor Has Limits.** An account of creative insight that omits the phenomenology can describe the process in information-processing terms: representation, search, restructuring, solution. But this description misses what distinguishes creative insight from a search algorithm that also restructures its approach when stuck. The history of scientific discovery illustrates this further: breakthroughs like quantum mechanics and general relativity introduced new ontological commitments that were initially resisted as unparsimonious, yet scientists who followed their phenomenal sense of where nature was pointing arrived at deeper truths.
 
