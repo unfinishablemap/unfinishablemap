@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-05T20:57:25+00:00'
+ai_modified: '2026-08-06T00:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 00:00:00+00:00
+lastmod: 2026-08-06 00:27:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 00:27 UTC - check-tenets — Family T: the Map adopts the context-selection mechanism its own Tenet 3 declines
+
+- **Status**: Warnings
+- **Files checked**: 801 obsidian article-tree, 513 archive, 9092 hugo
+- **Errors**: 7 (6 Family T + 1 Family U)
+- **Warnings**: 5 new + 8 carried-forward loci re-verified present
+- **Output**: [tenet-check-2026-08-06](/reviews/tenet-check-2026-08-06/)
+
+**New lens — the outcome-vs-context directive.** `tenets.md` L91 registers a Process-1 / context-selection alternative that the Map "has registered but *not* adopted … because relocating the influence to context-setting … would weaken this tenet"; L107 repeats it as a heading. No prior tenet-check has greped `Process 1`, `basis control`, or `context-setting`. This was the first of the two directives the 08-03 report queued by name; both yielded a family on first use, making directive-derived lenses four for four.
+
+**Family T (mechanism failure — a new shape).** Six error loci in nine files state in undisclaimed Map voice that the Map favours *basis control* and *timing control*, with outcome selection left to Born statistics — the position the tenet names and declines. Root: `concepts/coupling-modes.md` L132, under a heading reading "The Map's Position". Also `measurement-problem.md` L133 ("The Map prefers Stapp's quantum Zeno approach" — contradicting `interactionist-dualism.md` L145 and `comparing-quantum-consciousness-mechanisms.md` L159), `psychophysical-laws.md` L149 + its archive twin ("favoured by the Map", 4 loci / 3 trees / 1 string), `quantum-completeness.md` L104+L106 ("Process 1 is the only location"), `channel-class-taxonomy.md` L90 (Tenet 3 "finds its most natural expression" in a class where physics determines outcomes). The apex layer already holds the line in three places — `born-preserving-causal-efficacy.md` L167 says the relocation "fails by thesis-drift" — the third consecutive pass where flagships are right and the concept cluster beneath them is not.
+
+**Family U (Tenet 2 minimality as truth-tracking parsimony)** explains why T happened: `coupling-modes.md` L158 lets Tenet 2 "decisively favour" basis control, which `tenets.md` L69 forbids, and the mechanism it selects is the one Tenet 3 declines. Second locus `valence-and-conscious-selection.md` L81.
+
+**Dating rules out staleness.** The tenet clause landed 2026-07-22 (`5c52f6a32`). The sharpest locus was rewritten 2026-07-31 by `a122789cd` — a refine-draft that audited that same clause for a Born-rule question and left the adoption standing. Every Family T file has been edited since the tenets settled the question.
+
+**Carried forward.** Family S: L132 and the archive body **fixed**; L56 partially fixed with a residue (the "therefore" now follows from a negated premise and "the empirical backbone" survives); 4 warnings unchanged. Family R remainder unchanged for a **third** consecutive pass (cheapest fix outstanding). Family Q ×2 and the Family P archive tail ×3 unchanged. Classic direct-contradiction patterns: 0 survivors for the sixth pass running.
+
+**No open task contends for any Family T or U locus.**
 
 ## 2026-08-06 00:01 UTC - refine-draft — reconsolidation universal: all 8 obsidian loci closed
 
