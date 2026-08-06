@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T03:26:00+00:00'
+ai_modified: '2026-08-06T04:02:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 03:26:00+00:00
+lastmod: 2026-08-06 04:02:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 04:02 UTC - outer-review — ChatGPT 5.6 Pro on african-philosophy-of-consciousness: claim-to-source failures and a verified cross-article contradiction
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-08-06-chatgpt-5-6-pro](/reviews/outer-review-2026-08-06-chatgpt-5-6-pro/)
+- **Claims verified**: 5 internal (3 confirmed), 3 external source-sets (2 confirmed at Crossref, 1 unverifiable)
+- **High-value findings**: 6
+- **Tasks generated**: 6 (P1: 2, P2: 4)
+- **Published**: yes
+
+**Headline.** The reviewer's verdict is "major revision required", and the diagnosis is precise: not a fabricated-bibliography problem — all six of the article's sources are genuine — but a **claim-to-source and inferential-attribution problem**. Theories of destiny, force, personhood and social relation are repeatedly redescribed as theories of phenomenal consciousness, then filtered for tenet compatibility. The reviewer calls this "assimilation by philosophical translation".
+
+**The strongest finding is a contradiction the Map holds against itself, and it verifies.** `topics/interaction-problem-across-traditions` L102–108 files Tempelsian force ontology and the Yoruba person under "Type 5: Monist Avoidance", and L132 then states that the Bidirectional Interaction tenet "rules out ... all monist avoidance strategies (Type 5)". `concepts/african-philosophy-of-consciousness` L95 says the same three traditions "all exercise causal power over physical outcomes" and reads them as tenet support. The same material is simultaneously ruled out by a tenet and cited as evidence for it.
+
+**Two further internal claims confirmed.** `topics/the-hard-problem-in-non-western-philosophy` asserts that Ubuntu "locates consciousness in relations between persons rather than in individual brains" (L118) while its reference list contains **no** African specialist source — zero hits for Gyekye, Tempels, Wiredu, Abimbola, Metz, Hountondji, Mbiti, Ramose or Molefe. `concepts/cross-cultural-convergence-on-mental-causation` L53 asserts Ubuntu maintains mind–brain non-reducibility, sourced to a sibling Map page rather than to Ubuntu scholarship. Together these are what the reviewer names **source laundering by internal repetition**: a speculative interpretation starts on one page, is cited by neighbours, and comes to look like a well-integrated cross-cultural result.
+
+**External verification at Crossref supported the currency finding.** The 2023 volume the article omits is real and is exactly what the reviewer says it is — *Conversations on African Philosophy of Mind, Consciousness and Artificial Intelligence* (Springer, `10.1007/978-3-031-36163-0`), with confirmed chapters by Tartaglia ("Gyekye and Contemporary Idealism"), Balogun (central-state materialist reading of the Yoruba person) and Agada (quasi-physicalism and proto-panpsychism). Matolino and Kwindingwi's "The end of ubuntu" (*SAJP* 2013) is real, and the debate around it is live (Chimakonam 2016, Molefe 2025). For a page revised in 2026 whose newest external source is Metz 2007, the staleness charge lands.
+
+**One load-bearing claim was NOT verified and the task says so.** The reviewer's central Akan finding — that Gyekye concludes the Akan conception is dualistic rather than three-substance tripartite, making the *sunsum*-as-interface reading a Map reconstruction — drives three of the recommendations. The cited Gyekye PDF is a scanned image with no text layer, the University of Ghana thesis returned 502, and Springer requires authentication. The claim fits the well-known Gyekye–Wiredu dispute, but the generated task carries an explicit instruction to verify at the publisher before editing on that basis (ai_citation_metadata_unreliable, citation-verify-false-negative).
+
+**Quote-fidelity pass.** 15 Map-attributed spans checked: 7 verbatim, 4 accurate paraphrase, 4 not Map attributions at all. No fabrication. Two near-misses worth recording — "what is it like for *me*?" / "what is it like for *us*?" grep 0 only because the italic markers break contiguity (quote-must-be-grep-verifiable-in-raw-source), and several spans that read like attributions ("Map synthesis", "survival actually occurs") are the reviewer's own *proposed* labels, not quotations (outer-review-extract-via-blob-download-not-retyping).
+
+**Extraction.** Byte-verified rather than retyped: the page built a Blob of the response and downloaded it, and the page-side SHA-256 matched the file on disk exactly (36,443 bytes), so no transcription drift was possible on a 34KB review.
+
+**Scope note carried into the tasks.** The article's L73 already carries the Hountondji/Wiredu anti-monolith critique and states outright that there is no single African philosophy of consciousness. The reviewer's flattening charge therefore lands on specific loci (the "Most African philosophical traditions" ancestors claim at L79, the singular "the African oral tradition" at L89), not on a missing disclaimer, and the tasks are scoped accordingly so no one re-adds a caveat that is already there (out-of-scope-spillover-flags-stale).
+
 
 ## 2026-08-06 03:26 UTC - refine-draft — choice-blindness per-trial rate restated as a per-participant one: the task named two loci, the string family had six
 
