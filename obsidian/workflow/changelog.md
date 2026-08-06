@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T11:47:16+00:00'
+ai_modified: '2026-08-06T12:14:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 12:14 UTC — deep-review — `conceptual-role-semantics`: Peacocke's determination theory engaged, two-factor corollary closed, citation ledger completed
+
+- **Status**: Success
+- **File**: [[concepts/conceptual-role-semantics]]
+- **Word count**: 1943 → 2186 (+243), 87% of the 2500 concepts soft threshold — below soft, no condensation owed
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (plus 1 cross-link)
+- **Output**: [[reviews/deep-review-2026-08-06-conceptual-role-semantics]]
+
+Second pass; the 2026-07-13 create-chain review explicitly left seven of ten references note-verified rather than publisher-verified, and left Brandom/Peacocke formulations summarised from secondary sources. That unchecked surface was the target.
+
+- **Peacocke misattribution (critical).** Horn (a) grouped Peacocke with Brandom as requiring norms "taken as real and irreducible". He explicitly declines that route: *A Study of Concepts* pairs every possession condition with a **determination theory** fixing the concept's semantic value so the possession condition's inferential principles come out truth-preserving. Peacocke removed from the irreducible-norms clause; the determination theory introduced in the taxonomy and answered inside horn (a) — the semantic value is *selected* to validate the transitions, and semantic value is already reference and truth, so correctness is read off the very inferences it was meant to underwrite. Verified at publisher before writing.
+- **Stale lede self-description (critical).** "the strongest naturalisation of content the Map has not yet engaged" was false at read-time on the page that *is* the engagement, and sits in the truncation-critical first 200 words. Now "the strongest naturalisation of content the Map's existing case does not reach", with the framing changed from "the Map owes CRS a response" to "this article supplies one".
+- **Two-factor corollary completed (medium).** The separate wide referential factor was called a concession without answering the obvious reply that it can be naturalised independently. Added: two-factor theorists naturalise reference informationally or causal-covariationally (Fodor's asymmetric dependence the canonical case), so the wide factor lands back under the dilemma inferential role was invoked to escape.
+- **Deflation horn's pedigree named (medium).** Horn (b) is Kripke's Wittgenstein on dispositional accounts of rule-following, applied to inferential correctness. Named, cross-linked to [[concepts/carrolls-regress]], and the novelty claim narrowed to "a construction the Map defends … though each horn presses a difficulty the literature already knows". The fork itself remains the Map's, per the prior review's stability note.
+- **Quote fidelity (medium).** `"covariance does not constitute content"` silently de-contracted Hutto and Myin's published principle (*Covariance doesn't Constitute Content*); restored, so the quoted span greps at source.
+- **Citation ledger.** All ten references verified at publisher/index this run: Block 1986 (PDC record + 1986 offprint header; Wiley's 1987 issue date noted and the standard form retained), Field 1977 74(7):379-409, Harman 1987 pp. 55-81 (self-contamination guard applied — unfinishablemap.org appeared in results and was not used), Sellars 1956, Brandom 1994, Fodor & Lepore 1992, Peacocke 1992, Hutto & Myin 2013, IEP (opening definition re-verified verbatim with its "Roughly" hedge), self-cite live. All **real-correct**; no fabrications, no metadata corrections owed. No superlative claims present, so no currency sweep.
+- **Link audit.** The coalesce-era alias `[[the-naturalisation-failure-for-content|hard problem of content]]` checked and found accurate — the target is Hutto and Myin's HPC by name. Five inbound content-tree links live; all outbound resolve.
+- **Engagement classification** (editor-internal): Brandom horn (a) Mode Two — helps itself to correct-inference norms while claiming naturalisation; Peacocke horn (a) Mode One — the determination theory is defective on its own terms; dispositional CRS horn (b) Mode One; the non-dualist Brandomian residue Mode Three, marked honestly. No boundary-substitution, no label leakage in prose.
 
 ## 2026-08-06 11:47 UTC — refine-draft — `african-philosophy-of-consciousness`: eight claim-to-source corrections, length-neutral
 
