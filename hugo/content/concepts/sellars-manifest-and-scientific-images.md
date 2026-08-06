@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-04 09:15:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-06 14:12:18+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - grain-mismatch
@@ -15,8 +15,8 @@ description: 'Sellars'' manifest and scientific images: the meta-framework the M
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 08:15:47+00:00
-lastmod: 2026-08-04 09:15:00+00:00
+last_deep_review: 2026-08-06 14:12:18+00:00
+lastmod: 2026-08-06 14:12:18+00:00
 modified: *id001
 related_articles:
 - one-structure-three-vocabularies
@@ -29,7 +29,7 @@ topics:
 - '[[eliminative-materialism]]'
 ---
 
-Wilfrid Sellars (1912–1989) divided our total conception of "man-in-the-world" into two rival frameworks and made their reconciliation the central task of philosophy. The **manifest image** is the refined framework in which man first came to be aware of himself *as* man — the framework of persons, perceptible objects, and irreducible normativity. The **scientific image** is the framework of postulated theoretical entities — the austere, particulate ontology of physics. Sellars called the successful fusion of the two a *stereoscopic* vision. This article supplies the definition of that distinction, since the Map's corpus leans on it across many articles (notably [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)) without stating it in one place. It is expository infrastructure, not advocacy: Sellars is a load-bearing meta-framework the Map assumes, and — as the [Relation to Site Perspective](#relation-to-site-perspective) below sets out — he was a scientific realist whose endpoint the Map's tenets resist even where his diagnoses are congenial.
+Wilfrid Sellars (1912–1989) divided our total conception of "man-in-the-world" into two rival frameworks and made their reconciliation the central task of philosophy. The **manifest image** is the refined framework in which man first came to be aware of himself *as man-in-the-world* — the framework of persons, perceptible objects, and irreducible normativity. The **scientific image** is the framework of postulated theoretical entities — the austere, particulate ontology of physics. Sellars called the successful fusion of the two a *stereoscopic* vision. This article supplies the definition of that distinction, since the Map's corpus leans on it across many articles (notably [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)) without stating it in one place. It is expository infrastructure, not advocacy: Sellars is a load-bearing meta-framework the Map assumes, and — as the [Relation to Site Perspective](#relation-to-site-perspective) below sets out — he was a scientific realist whose endpoint the Map's tenets resist even where his diagnoses are congenial.
 
 ## The Manifest Image
 
@@ -45,7 +45,7 @@ The two frameworks therefore clash, and the clash is not superficial. Each purpo
 
 ### Scientia Mensura
 
-Sellars' own resolution of the clash tilts toward the scientific image on the question of *being*. His scientific-realist thesis — traditionally labelled *scientia mensura* after the phrase in which he glosses it — holds that in the dimension of *describing and explaining* the world, science is the measure of what exists and what does not. (The Map paraphrases the thesis rather than quoting it: the famous formulation is widely attributed to §41 of *Empiricism and the Philosophy of Mind* but was not verbatim-confirmed against the primary text for this article.)
+Sellars' own resolution of the clash tilts toward the scientific image on the question of *being*. The thesis commentators label *scientia mensura* is stated in a single clause at §41 of *Empiricism and the Philosophy of Mind*: "in the dimension of describing and explaining the world, science is the measure of all things, of what is that it is, and of what is not that it is not." The formulation deliberately echoes Protagoras' man-measure doctrine while inverting its subject — it is science, not man, that does the measuring.
 
 The qualifier is essential and Sellars insists on it: the thesis is restricted to description and explanation. It does *not* license eliminating the normative or prescriptive dimension. Science measures being; it does not replace the space of reasons in which we justify, commit, and hold one another to account. This is why Sellars is not an eliminativist about persons even though he is a scientific realist about what there is. The manifest person is retained — but retained as something to be *naturalized* and located, not as a second kind of thing.
 
@@ -61,7 +61,7 @@ Sellars did not treat this as a refutation of naturalism but as a demand on it. 
 
 ## The Myth of the Given
 
-The epistemological backdrop, from the earlier *Empiricism and the Philosophy of Mind* (1956), is Sellars' attack on the **Myth of the Given**: the foundationalist assumption that some cognitive states carry positive epistemic status independently of their inferential relations to other states. Sellars argued no item can be both epistemically independent and epistemically efficacious. To know is to place an episode in the *space of reasons* — the normative space of justifying and being able to justify what one says. Knowledge is thus irreducibly a matter of standing in normative relations, which is precisely why the person and the space of reasons press back against any framework, like the scientific image, that trades only in causes. The Map treats this normative dimension under [rational normativity](/topics/consciousness-and-the-normativity-of-reason/).
+The epistemological backdrop, from the earlier *Empiricism and the Philosophy of Mind* (1956), is Sellars' attack on the **Myth of the Given**: the foundationalist assumption that some cognitive states carry positive epistemic status independently of their inferential relations to other states. Sellars argued that nothing can be at once epistemically independent — justified without resting on other knowledge — and epistemically efficacious, able to justify other knowledge in turn. (That *independence*/*efficacy* framing is deVries and Triplett's reconstruction of the argument rather than Sellars' own vocabulary.) To know is to place an episode in the *space of reasons* — the normative space of justifying and being able to justify what one says. Knowledge is thus irreducibly a matter of standing in normative relations, which is precisely why the person and the space of reasons press back against any framework, like the scientific image, that trades only in causes. The Map treats this normative dimension under [rational normativity](/topics/consciousness-and-the-normativity-of-reason/).
 
 ## Relation to Site Perspective
 
@@ -88,7 +88,7 @@ This also clarifies the Map's relation to eliminativism. Where [eliminative-mate
 2. Sellars, W. (1963). *Science, Perception and Reality*. London: Routledge & Kegan Paul. (Reprints the two-images essay and "Empiricism and the Philosophy of Mind.")
 3. Sellars, W. (1956). Empiricism and the Philosophy of Mind. In H. Feigl & M. Scriven (Eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 1 (pp. 253–329). Minneapolis: University of Minnesota Press. Standalone edition, R. Brandom (Ed.), Harvard University Press, 1997.
 4. O'Shea, J. (2009). On the Structure of Sellars's Naturalism with a Normative Turn. In W. A. deVries (Ed.), *Empiricism, Perceptual Knowledge, Normativity, and Realism: Essays on Wilfrid Sellars*. Oxford: Oxford University Press.
-5. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford: Clarendon Press.
+5. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism* (pp. 271–291). Oxford: Clarendon Press.
 6. deVries, W. & Triplett, T. (2000). *Knowledge, Mind, and the Given*. Indianapolis: Hackett.
 7. Oquatre-huit, C. & Southgate, A. (2026-03-11). Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
 8. Oquatre-sept, C. & Southgate, A. (2026-05-26). One Structure, Three Vocabularies. *The Unfinishable Map*. https://unfinishablemap.org/topics/one-structure-three-vocabularies/

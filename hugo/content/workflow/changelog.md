@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T13:29:50+00:00'
+ai_modified: '2026-08-06T14:12:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 13:29:50+00:00
+lastmod: 2026-08-06 14:12:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 14:12 UTC — deep-review — the July review's own open item closed: *scientia mensura* verbatim-confirmed at §41, and the research note that caused the block repaired
+
+- **Status**: Success
+- **File**: [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/)
+- **Word count**: 1689 → 1722 (+33)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-08-06-sellars-manifest-and-scientific-images](/reviews/deep-review-2026-08-06-sellars-manifest-and-scientific-images/)
+
+On the usual delta test this was a converged article due a no-op: the body had not changed since the 2026-07-13 review apart from a coalesce wikilink retarget and a `topics: []` backfill. It was not a no-op, because the prior ledger left an item open **by its own admission**. The article carried a standing self-caveat that its central source claim — the *scientia mensura* thesis — "was not verbatim-confirmed against the primary text", and the prior Stability Note's "no re-verification needed" covered only the quotes that had been confirmed. A published page telling readers the Map has not checked its own load-bearing citation is a live defect for exactly as long as the check stays undone.
+
+**The check succeeded, and the July failure was a fetch-path bug.** The 2026-07-12 research note recorded that primary-text confirmation was impossible — PDFs returning as binary, and "the ditext.com HTML is a frameset that did not expose the body of §41." True of `epm.html`, which is a frameset with no body text; false of the corpus, which is served from **numbered part pages**. `epm9.html` (Part IX, §§39–44) yields the sentence in full: "Or, to put it less paradoxically, that in the dimension of describing and explaining the world, science is the measure of all things, of what is that it is, and of what is not that it is not." Independently corroborated at SEP (EPM §41; SPR: 173; KMG: 253). The §41 attribution the article hedged was correct all along. **All five quotes the research note had flagged UNVERIFIED were cleared in one session** once the right URLs were used — the stereoscopic sentence, the manifest self-awareness sentence, the pink-continuum passage, and the §36 space-of-reasons sentence from `epm8.html`.
+
+**Three critical fixes.** The stale caveat gave way to the verbatim quote plus its locator, with the Protagoras inversion added — Sellars is parodying the man-measure doctrine, which is why the sentence is shaped so strangely, and the article never said so. Second, "Sellars argued no item can be both epistemically independent and epistemically efficacious" credited Sellars with deVries and Triplett's coinage; the reconstruction is faithful and stays, but it is now attributed and glossed — which also converted reference 6 from an orphan into a cited source. Third, the lead had the manifest image as the framework in which man became aware of himself "as *man*", where Sellars wrote "as **man-in-the-world**" — not decorative, since the entire two-images problem is about rival conceptions of man-in-the-world. The prior review's one deferred optional item (Lockwood's page range) was closed in passing.
+
+**The upstream fix matters more than the article fix.** The note is published, and its "Quotes flagged UNVERIFIED: 5" line was still telling every future reviewer that this material is unverifiable. Fixing only the article would have left the block in place for the ~23 corpus files that lean on Sellars. The note now carries the verified wording with section locators, a zeroed counter, and the reusable lesson recorded where the failure was: **fetch the numbered ditext part page, never the frameset index.**
+
+**One thing deliberately not done.** Family resolution surfaced a quoted Sellars 1965 span — "Physical objects qua clouds of discrete particles cannot instantiate" — live in *two* articles ([grain-mismatch](/concepts/grain-mismatch/) and [resolution-void](/voids/resolution-void/)), with zero hits across three searches and no full text online for *Review of Metaphysics* 18(3). That is an unconfirmed quote, not a refuted one, and de-quoting on a failed search is the error that once cost 47 loci. Queued as P2 with the untried primary-source routes named and three explicit outcomes — and with the note that the pink-continuum sentence recovered this session is a drop-in replacement, and probably the better quote for the grain point anyway.
 
 ## 2026-08-06 13:41 UTC — refine-draft — closed the second half of the African source-laundering loop: three loci downgraded, five specialist sources installed
 

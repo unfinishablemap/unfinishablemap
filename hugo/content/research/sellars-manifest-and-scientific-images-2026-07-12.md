@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-06 14:12:18+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-12
-date: '2026-07-12'
+date: '2026-08-06'
 draft: false
-lastmod: 2026-07-12 00:00:00+00:00
+lastmod: 2026-08-06 14:12:18+00:00
 related_articles: []
 title: 'Research Notes: Sellars'' Manifest and Scientific Images'
 ---
@@ -47,7 +48,7 @@ Wilfrid Sellars (1912–1989) framed the central task of philosophy as fusing tw
 ### "Philosophy and the Scientific Image of Man" (PSIM) — Brandom course passages
 - **URL**: https://sites.pitt.edu/~rbrandom/Courses/2023%20Sellars/Week%20by%20week%20materials/PSIM%20passages%20b.pdf
 - **Type**: Curated primary-text passages (Pittsburgh, Brandom's Sellars course)
-- **Key points**: Source for the "two conceptions ... he cannot shirk the attempt to see how they fall together in one stereoscopic view" motif and the original-image → manifest-image refinement story. (Passages consulted via search summaries; not verbatim-extracted this run — see Gaps.)
+- **Key points**: Source for the "two conceptions ... he cannot shirk the attempt to see how they fall together in one stereoscopic view" motif and the original-image → manifest-image refinement story. (Verbatim-extracted from `ditext.com/sellars/psim.html` on 2026-08-06; see the verification status list below.)
 
 ### O'Shea, "The Structure of Sellars's Naturalism with a Normative Turn"
 - **URL**: https://sites.pitt.edu/~rbrandom/Courses/2023%20Sellars/Sellars%20texts/OSHEA2J2009TheStructureofSellarsNaturalismwithaNormativeTurn.pdf
@@ -117,7 +118,7 @@ When writing the article, follow `obsidian/project/writing-style.md`: front-load
 
 ## Gaps in Research
 
-- **Verbatim primary-text confirmation failed this run.** The full-text EPM PDF (quamproxime.com) returned as compressed binary; the ditext.com HTML is a frameset / table-of-contents that did not expose the body of §41; the SPR PDF is likewise a binary. No candidate quote was verbatim-confirmed against a primary text this session.
+- ~~**Verbatim primary-text confirmation failed this run.**~~ **RESOLVED 2026-08-06 (deep-review).** The original failure was a fetch-path problem, not an availability problem: `ditext.com/sellars/epm.html` is a *frameset* that exposes no body text, and the EPM/SPR PDFs returned as compressed binary. The body is served from **per-part pages** — `ditext.com/sellars/epm8.html` (Part VIII, §§32–38, containing §36) and `ditext.com/sellars/epm9.html` (Part IX, §§39–44, containing §41) — and PSIM in full at `ditext.com/sellars/psim.html`. All five candidate quotes were verbatim-confirmed from those pages and cross-checked against SEP. **Lesson for future Sellars work: fetch the numbered part page, never the frameset index.**
 - The precise page/section boundaries of the grain-problem discussion (PSIM Part on "the clash," vs. later "Metaphysics of Epistemology" material) were not pinned to page numbers.
 - deVries & Triplett and deVries (2005) were identified as standard secondary sources but not directly consulted this run.
 
@@ -133,12 +134,12 @@ When writing the article, follow `obsidian/project/writing-style.md`: front-load
 
 ### Candidate direct quotes — VERIFICATION STATUS
 
-All quotes below are flagged **UNVERIFIED against primary text this run**. None was verbatim-confirmed at Science, Perception and Reality / EPM §41 this session (see Gaps). The article should PARAPHRASE these and verify verbatim at the primary text before quoting.
+**Status update 2026-08-06 (deep-review):** all five candidate quotes below have now been **verbatim-confirmed against the primary text** — Andrew Chrucky's transcriptions of *Philosophy and the Scientific Image of Man* and *Empiricism and the Philosophy of Mind* at ditext.com, cross-checked against the Stanford Encyclopedia entry on Sellars. The original UNVERIFIED flags on this note were the reason the article was written paraphrase-only; that constraint is now lifted. Quotes may be used verbatim, with the section locators given below.
 
-1. **Scientia mensura** — commonly given as: "in the dimension of describing and explaining the world, science is the measure of all things, of what is that it is, and of what is not that it is not" (attributed to EPM §41). **UNVERIFIED.** The Stanford Encyclopedia renders it identically inside quotation marks, and multiple sources agree on the wording, but per this note's verify-at-primary-source standard it was NOT confirmed against the primary text this run. High paraphrase-drift risk — PARAPHRASE in the article unless verbatim-confirmed at EPM §41.
-2. **Stereoscopic view** — commonly given as: the philosopher confronts "two conceptions, equally public, equally non-arbitrary, of man-in-the-world" and "cannot shirk the attempt to see how they fall together in one stereoscopic view" (attributed to PSIM). **UNVERIFIED** — paraphrase.
-3. **Manifest self-awareness** — the manifest image as "the framework in terms of which man came to be aware of himself as man-in-the-world" (attributed to PSIM). **UNVERIFIED** — paraphrase.
-4. **Grain / homogeneity** — the ice cube as "a pink continuum, all the regions of which, however small, are pink" (attributed to Sellars via SEP). **UNVERIFIED** — paraphrase.
-5. **Space of reasons** — knowing as placing an episode "in the logical space of reasons, of justifying and being able to justify what one says" (attributed to EPM §36). **UNVERIFIED** — paraphrase.
+1. **Scientia mensura** — "in the dimension of describing and explaining the world, science is the measure of all things, of what is that it is, and of what is not that it is not" (EPM §41). **VERIFIED verbatim.** The full sentence is: "Or, to put it less paradoxically, that in the dimension of describing and explaining the world, science is the measure of all things, of what is that it is, and of what is not that it is not." Also at SPR: 173 and KMG: 253 per SEP. The formulation is a deliberate inversion of Protagoras' man-measure doctrine.
+2. **Stereoscopic view** — **VERIFIED verbatim** (PSIM). Full sentence: "The philosopher, then, is confronted by two conceptions, equally public, equally non-arbitrary, of man-in-the-world and he cannot shirk the attempt to see how they fall together in one stereoscopic view."
+3. **Manifest self-awareness** — **VERIFIED verbatim** (PSIM): "It is, first, the framework in terms of which man came to be aware of himself as man-in-the-world." Note that Sellars' "first" is enumerative (first of several characterizations), not temporal; and the object is "man-in-the-world", not bare "man".
+4. **Grain / homogeneity** — **VERIFIED verbatim** (PSIM): "The manifest ice cube presents itself to us as something which is pink through and through, as a pink continuum, all the regions of which, however small, are pink."
+5. **Space of reasons** — **VERIFIED verbatim** (EPM §36): "we are not giving an empirical description of that episode or state; we are placing it in the logical space of reasons, of justifying and being able to justify what one says." Note "logical space of reasons" — the bare "space of reasons" is the standard short form, not Sellars' wording at this locus.
 
-**Quotes flagged UNVERIFIED: 5 (including scientia mensura).**
+**Quotes flagged UNVERIFIED: 0** (was 5; all cleared 2026-08-06 at primary text).
