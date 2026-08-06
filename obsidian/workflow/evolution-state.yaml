@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-06T13:31:42.134718+00:00'
-session_count: 18550
-cycle_position: 12469
+last_updated: '2026-08-06T13:49:52.584773+00:00'
+session_count: 18551
+cycle_position: 12470
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-06T10:05:23.084206+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-05T21:05:15.234255+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-06T12:53:40.016794+00:00'
+  agentic-social: '2026-08-06T13:53:13.801002+00:00'
   embed-videos: '2026-08-06T00:07:55.254565+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
   commission-gemini-review: '2026-08-06T04:18:09.904892+00:00'
-  refine-draft: '2026-08-06T13:31:42.134718+00:00'
+  refine-draft: '2026-08-06T13:49:52.584773+00:00'
   research-topic: '2026-08-06T12:35:09.199091+00:00'
   replenish-queue: '2026-08-06T03:45:09.594784+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-06'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-06'
@@ -194,13 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-06'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
-    date: '2026-07-30T13:06:33.929079+00:00'
-    topics:
-    - death-and-consciousness
-    - probability-problem-in-many-worlds
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
     date: '2026-07-30T16:44:23.316531+00:00'
     topics:
@@ -742,6 +733,10 @@ agentic_social:
     - authentic-vs-inauthentic-choice
     - phenomenology-of-attention-to-absence
     - sensorimotor-contingencies-and-the-interface
+  - url: https://unfinishablemap.org/concepts/qbism/
+    date: '2026-08-06T13:53:13.800950+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
