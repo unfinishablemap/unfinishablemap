@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 05:02:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 01:12:25+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Episodic Memory and Autonoetic Consciousness
 archived: true
 archived_date: 2026-02-15 06:32:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-02-15 05:02:00+00:00
+lastmod: 2026-08-06 01:12:25+00:00
 modified: *id001
 original_path: /concepts/constructive-memory/
 related_articles:
@@ -59,7 +59,7 @@ Memory construction operates through several interacting mechanisms.
 
 **Pattern completion**: The hippocampus stores sparse, distributed traces rather than complete representations. Retrieval works through pattern completion—a partial cue (a smell, a phrase, a spatial context) triggers reactivation of the full pattern. But "full" is misleading: the completed pattern is assembled from whatever fragments are available, supplemented by schema-driven inference and present context.
 
-**Reconsolidation**: Each retrieval makes the memory labile again. During reconsolidation, the reassembled memory is re-stored in a modified form—incorporating current emotional states, intervening experiences, and the context of retrieval itself. Frequently retrieved memories drift from the original event through this repeated reconstruction. The act of remembering literally changes the memory.
+**Reconsolidation**: Retrieval can return a memory to a labile state, though not always—destabilisation is gated by retrieval duration and the memory's strength and age. When it does, the reassembled memory is re-stored in modified form, incorporating current emotional states, intervening experiences, and the retrieval context. Frequently retrieved memories drift from the original through this repeated reconstruction.
 
 **Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details that fit the schema are preserved; details that conflict with it are dropped or altered. Memory is "an affair of reconstruction rather than mere reproduction"—his phrase captures the principle that gave constructive memory its name.
 

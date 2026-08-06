@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-08-04 05:40:38+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-06 01:12:25+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[episodic-memory]]'
@@ -15,7 +15,7 @@ date: &id001 2026-01-29
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-04 05:40:38+00:00
+lastmod: 2026-08-06 01:12:25+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -158,6 +158,8 @@ This void is **primarily unexplorable with occluded elements**:
 Multiple lines converge:
 
 1. **Reconstructive memory**: Episodic recall is "scenario construction" not playback. The brain doesn't store experiences like recordings; it stores patterns that enable reconstruction. Each retrieval reconstructs anew.
+
+   > *[Correction, 2026-08-06 — snapshot left as written.]* "Each retrieval reconstructs anew" is sound, but the article it fed extended it to the claim that each retrieval *destabilises the stored trace*. That extension is unwarranted. Kida (2020, *Proc. Jpn. Acad. Ser. B* 96(3), 95–106): a retrieved memory "is not always destabilized", gated by retrieval duration and memory strength and age. Keep reconstruction and destabilisation separate.
 
 2. **Universal false memory susceptibility**: Even HSAM individuals show memory distortion. If anyone could access past states directly, they would. No one can.
 

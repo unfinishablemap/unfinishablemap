@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-07-30 21:11:47+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 01:12:25+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Episodic Memory and Autonoetic Consciousness
 archived: true
 archived_date: 2026-03-28 11:43:00+00:00
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-09 10:32:00+00:00
-lastmod: 2026-07-30 21:11:47+00:00
+lastmod: 2026-08-06 01:12:25+00:00
 modified: *id001
 original_path: /concepts/memory-as-dual-domain-capability/
 related_articles:
@@ -45,7 +45,7 @@ Memory appears to be a single capacity, but it straddles two domains. Physical t
 
 Neuroscience has made impressive progress mapping memory's physical side. Richard Semon coined the term "engram" in 1904 for the biophysical changes that encode experience. Modern research has identified specific engram cells whose optogenetic activation can trigger particular memories (Josselyn & Tonegawa, 2020). Synaptic consolidation stabilises traces over hours; systems consolidation transfers them from hippocampus to cortex over weeks.
 
-Memory reconsolidation complicates the picture. When a memory is retrieved, its physical trace destabilises and must be re-stored—a process during which the memory is actively edited (Nader et al., 2000). New information incorporates, emphasis shifts, details are lost or added. Memory is not a filing cabinet but a workshop where traces are rebuilt with each access.
+Memory reconsolidation complicates the picture. Retrieval can destabilise a memory's physical trace, which is then actively edited as it is re-stored (Nader et al., 2000): new information incorporates, emphasis shifts, details are lost or added. Destabilisation is gated by retrieval duration and the trace's strength and age. Memory works less like a filing cabinet than like a workshop where traces are sometimes rebuilt.
 
 None of this is in dispute. The causal theory of memory (Martin & Deutscher, 1966) requires a continuous trace connecting original experience to later recall—and physical mechanisms clearly provide such traces. The question is whether physical traces are *sufficient* for memory or merely *necessary*.
 
@@ -89,7 +89,7 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 
 **[Bidirectional interaction](/tenets/#bidirectional-interaction)** is evidenced by the active, goal-directed nature of retrieval. Consciousness does not passively observe stored content but selects among reconstructions, modulates reconsolidation, and contributes phenomenal colouring. The manipulation-maintenance asymmetry in [working-memory](/concepts/working-memory/)—where storage proceeds unconsciously but transformation requires conscious engagement—exemplifies this causal role.
 
-**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** provides a candidate mechanism. If consciousness biases quantum outcomes without injecting energy, the reconsolidation window—when traces destabilise and the physical system is temporarily underdetermined—represents an opening for non-physical influence. Consciousness need not rewrite engrams; it need only nudge the re-stabilisation process toward one reconstruction rather than another.
+**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** provides a candidate mechanism. If consciousness biases quantum outcomes without injecting energy, the reconsolidation window—when a trace does destabilise and the physical system is temporarily underdetermined—is an opening for non-physical influence. Consciousness need not rewrite engrams; it need only nudge the re-stabilisation process toward one reconstruction rather than another.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** matters because MWI would dissolve the selectional problem. If every possible reconstruction of a memory is actualised in some branch, there is no genuine selection—just branching. The felt experience of choosing which reconstruction becomes *this* memory, of one retrieval path becoming actual while others fade, presupposes a single experiential timeline. The Map's rejection of MWI preserves the reality of selectional guidance as a genuine causal contribution.
 

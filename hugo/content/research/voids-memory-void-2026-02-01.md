@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-02 08:03:21+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-06 01:12:25+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -13,7 +13,7 @@ date: &id001 2026-02-01
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-08-06 01:12:25+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -173,6 +173,8 @@ Three interpretations of the void:
 ### Evidence for the Limit
 
 **Empirical evidence (reconstructive memory)**: Research consistently shows memory involves active construction, not passive retrieval. We fill gaps, alter details, merge episodes, and confabulate explanations. Each act of remembering changes the memory. If the content is being constructed now, we are not accessing the original.
+
+> *[Correction, 2026-08-06 — snapshot left as written.]* "Each act of remembering changes the memory" is too strong; do not carry it into new articles. The *reconstructive* claim stands; *trace destabilisation* is conditional. Kida (2020, *Proc. Jpn. Acad. Ser. B* 96(3), 95–106): a retrieved memory "is not always destabilized", gated by retrieval duration and memory strength and age.
 
 **Phenomenological evidence (the simulation feeling)**: The "feeling of remembering" that distinguishes memory from imagination is a phenomenological marker—but markers can be present without genuine contact. Confabulators have the feeling of remembering events that never occurred.
 

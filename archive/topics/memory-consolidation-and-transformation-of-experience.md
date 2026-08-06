@@ -4,7 +4,7 @@ description: "Memories transform phenomenally as they consolidate—vivid episod
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T10:58:00+00:00
+ai_modified: 2026-08-06T01:12:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[sleep-memory-consolidation-consciousness-2026-01-18]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-03-17T10:58:00+00:00
@@ -61,11 +61,11 @@ For the Map's [[memory-as-dual-domain-capability|dual-domain framework]], this i
 
 ## Reconsolidation: When Consciousness Re-engages
 
-Every act of retrieval destabilises the memory trace. Nader, Schafe, and Le Doux (2000) demonstrated that recalled memories require protein synthesis to restabilise—a process called **reconsolidation**. During the reconsolidation window (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
+Retrieval can destabilise the memory trace, though not always: destabilisation is gated by retrieval duration and the memory's strength and age. Nader, Schafe, and Le Doux (2000) demonstrated that recalled memories require protein synthesis to restabilise—a process called **reconsolidation**. When the window does open (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
 
-Reconsolidation is where consciousness and consolidation intersect most directly. During the initial consolidation that occurs in sleep, consciousness is offline—the brain processes memory traces without phenomenal accompaniment, as the Map's [[sleep-and-consciousness|interface model]] explains. But reconsolidation happens during waking retrieval, when consciousness is fully engaged. The retrieval that triggers destabilisation is a conscious act: attention selects which memory to access, working memory holds the recalled content, and the emotional and cognitive context of the present moment shapes what the restabilised trace will become.
+Reconsolidation is where consciousness and consolidation intersect most directly. During the initial consolidation that occurs in sleep, consciousness is offline—the brain processes memory traces without phenomenal accompaniment, as the Map's [[sleep-and-consciousness|interface model]] explains. But reconsolidation happens during waking retrieval, when consciousness is fully engaged. Retrieval that does destabilise a trace is a conscious act: attention selects which memory to access, working memory holds the recalled content, and the emotional and cognitive context of the present moment shapes what the restabilised trace will become.
 
-This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval reopens them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding.
+This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval can reopen them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding.
 
 The goal-directedness of retrieval matters here. Reconsolidation is not passive replay—it is "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Something determines which reconstruction becomes actual. The Map argues this is where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but providing the directional input that makes reconstruction purposive rather than merely stochastic.
 
@@ -91,7 +91,7 @@ Three features of the consolidation trajectory carry philosophical weight.
 
 **Consciousness shapes memories it does not witness being reshaped.** The overnight consolidation process transforms memories without any phenomenal accompaniment. The subject wakes to find their memories subtly different—more integrated, more schematic, less detailed—with no awareness of the transformation. This is the brain operating autonomously on material that consciousness encoded but cannot supervise. The Map's [[consciousness-and-memory#Why Consciousness Must Withdraw for Consolidation|interface model]] explains why: the parallel processing required for consolidation is incompatible with the serial bottleneck of conscious attention.
 
-**Each conscious retrieval permanently alters the trace.** Reconsolidation means that memory is not archival but editorial. Every recall rewrites the record. This makes consciousness not merely an observer of stored content but a causal participant in memory's ongoing transformation. The editorial metaphor is apt: consciousness does not merely read the text of the past—it revises it, and the revised version becomes the new original. For [[personal-identity|personal identity]], this means the self is perpetually rewriting its own history. The person you believe yourself to have been is shaped by every act of remembering.
+**Conscious retrieval can permanently alter the trace.** Where reconsolidation opens a memory to revision, remembering is editorial rather than archival. This makes consciousness not merely an observer of stored content but a causal participant in memory's ongoing transformation. The editorial metaphor is apt: consciousness does not merely read the text of the past—it revises it, and the revised version becomes the new original. For [[personal-identity|personal identity]], this means the self intermittently rewrites its own history. The person you believe yourself to have been is shaped by the occasions on which you have remembered.
 
 **The phenomenal trajectory outstrips physical explanation.** Complementary Learning Systems (CLS) models explain *why* memories schematise: the hippocampal system learns rapidly and retains contextual specifics, while the cortical system extracts statistical regularities through slow interleaved replay (McClelland et al., 1995). This accounts for the information-level shift from detailed episodes to generalised schemas. What CLS models do not explain is why this computational transition produces such a dramatic qualitative change in experience—why rapid hippocampal retrieval feels like re-living while slow cortical retrieval feels like merely knowing. The physical description tracks the information trajectory but not the phenomenal one. The explanatory gap between physical trace and phenomenal character, which the Map identifies at the moment of encoding, runs equally through the entire consolidation timeline.
 
@@ -101,9 +101,9 @@ The transformation of memory through consolidation connects to each of the Map's
 
 **[[tenets#^dualism|Dualism]]** is supported by the dissociation between information preservation and phenomenal transformation. Functionalists can argue that the phenomenal character tracks the functional role of the memory state—hippocampal-mediated retrieval plays a different computational role from cortical retrieval, so different qualia are expected. But this just restates the correlation in functional vocabulary without closing the explanatory gap: *why* does this particular functional difference produce *this* particular qualitative difference? The phenomenal dimension tracks hippocampal engagement rather than cortical information content—a dissociation that dualism explains naturally as different modes of interface engagement.
 
-**[[tenets#^bidirectional-interaction|Bidirectional interaction]]** is demonstrated by reconsolidation. Each conscious retrieval destabilises the trace and reshapes it according to the subject's present concerns, emotional state, and self-understanding. Consciousness does not passively observe stored content—it causally modifies the physical trace through the act of remembering. The goal-directedness of reconsolidation—its tendency toward "consonance, alignment, and internal stability"—requires a directional input that exceeds what stochastic neural restabilisation provides.
+**[[tenets#^bidirectional-interaction|Bidirectional interaction]]** is demonstrated by reconsolidation. Conscious retrieval that destabilises a trace reshapes it according to the subject's present concerns, emotional state, and self-understanding. Consciousness does not passively observe stored content—it causally modifies the physical trace through the act of remembering. The goal-directedness of reconsolidation—its tendency toward "consonance, alignment, and internal stability"—requires a directional input that exceeds what stochastic neural restabilisation provides.
 
-**[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** is consistent with the reconsolidation window as a site of non-physical influence. During the labile period after retrieval, when the trace is destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual—nudging the trace toward one version rather than another without injecting energy or violating conservation laws.
+**[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** is consistent with the reconsolidation window as a site of non-physical influence. During a labile period, when the trace has been destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual—nudging the trace toward one version rather than another without injecting energy or violating conservation laws.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters because MWI would dissolve the reconsolidation puzzle. If every possible reconstruction is actualised in some branch, there is no genuine selection among alternatives—just branching. The felt experience of a memory solidifying into *this* version rather than another presupposes a single experiential timeline where one reconstruction becomes actual and the rest do not.
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether past experiences are recoverable o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-14T08:21:00+00:00
+ai_modified: 2026-08-06T01:12:25+00:00
 draft: false
 last_deep_review: 2026-03-14T08:21:00+00:00
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[contemplative-epistemology]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-02-02
 last_curated: null
 archived: true
@@ -86,7 +86,7 @@ What does approaching the memory void feel like?
 
 ## Evidence for the Void
 
-**Reconstructive memory.** Bartlett's classic studies showed that memory is "an affair of reconstruction rather than mere reproduction." Details change with each retrieval. Stories are regularised toward schemas. The constructive process that enables error is the same process that constitutes "remembering." We don't retrieve and then distort—distortion is inherent to the retrieval mechanism.
+**Reconstructive memory.** Bartlett's classic studies showed that memory is "an affair of reconstruction rather than mere reproduction." Details change across retrievals. Stories are regularised toward schemas. The constructive process that enables error is the same process that constitutes "remembering." We don't retrieve and then distort—distortion is inherent to the retrieval mechanism.
 
 **HSAM limitations.** Even individuals with Highly Superior Autobiographical Memory—who can recall almost every day in vivid detail—show susceptibility to false memories. If anyone could access past states directly, they would. No one can.
 

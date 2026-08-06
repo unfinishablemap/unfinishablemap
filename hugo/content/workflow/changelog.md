@@ -1,14 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T01:02:00+00:00'
+ai_modified: '2026-08-06T01:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 01:02:00+00:00
+lastmod: 2026-08-06 01:16:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 01:16 UTC - refine-draft — reconsolidation universal: the archive family closed, and the archive-vs-leave ruling recorded
+
+- **Status**: Success
+- **File**: [constructive-memory](/archive/concepts/constructive-memory/) (task target) — 6 archive files + 2 research snapshots edited, 8 mirrors verified
+- **Original score**: n/a — targeted calibration fix inherited from the 2026-08-06 00:01 obsidian pass, not a general quality review
+- **Published**: yes
+
+**THE RULING, recorded so the next archive-vs-leave question has a precedent to cite: edit the archive loci.** The 00:01 pass closed all obsidian loci and deferred this call rather than making it silently. The driver settled it on three grounds:
+
+1. **Consistency with precedent set twice in the same session.** The phenomenal-causation family was fixed at `archive/concepts/phenomenology-of-creative-insight.md` and `archive/concepts/phenomenology-of-scientific-discovery.md`, and the entanglement-exclusivity family across six archive loci — all on live-URL grounds, all within 24 hours. Leaving this family alone would make the corpus arbitrary about when an archived page gets corrected.
+2. **The distinction that settles it: this is a factual error, not a Map position.** Preserving an archived record of *what the Map once argued* is exactly what the archive notice is for. But "every retrieval destabilises the memory trace" is a claim about *what reconsolidation research shows*, and it is wrong as a universal. Correcting an empirical error does not rewrite the Map's intellectual history; it stops a served page misinforming readers about neuroscience.
+3. **The pages serve live.** `https://unfinishablemap.org/archive/concepts/constructive-memory/` returns HTTP 200 with a full body. The defect is published, not shelved, and is read by chatbots as current content.
+
+**Scope held to the ruling.** Empirical over-claim only. No archived argument rewritten, no restructuring, no archive notice touched, and **no new wikilinks added to any archived page** (a broken wikilink in a synced article blocks the pre-push sync). All conditionalisation is plain prose. Per the task's preference for prose over apparatus on archived pages, **no reference-list entries were added** — Kida is named only inside the two research-note correction blocks, where the note's own reliability is the point.
+
+**Source (verified at publisher, not re-researched).** Kida, S. (2020), "Function and mechanisms of memory destabilization and reconsolidation after retrieval", *Proc. Jpn. Acad. Ser. B* 96(3), 95–106 (PMC7167366): a retrieved memory "is not always destabilized", gated by "the duration of retrieval and the memory strength and age". Nothing was written about failed propranolol replication or a "replication crisis" — unsourced reviewer framing, and the Elsey, Van Ast & Kindt (2018) abstract lists propranolol among the *supporting* procedures.
+
+**Loci fixed (6 archive files, 10 edits).**
+
+1. `archive/concepts/constructive-memory` L58 — "Each retrieval makes the memory labile again" now conditional with the gating parameters in plain prose; the trailing universal "The act of remembering literally changes the memory" removed rather than hedged.
+2. `archive/topics/memory-consolidation-and-transformation-of-experience` — four edits. L64 ("Every act of retrieval destabilises the memory trace", the family's sharpest statement) conditionalised; L94 ("**Each conscious retrieval permanently alters the trace.** … Every recall rewrites the record … the self is perpetually rewriting its own history" — three universals in one paragraph) rewritten to "can permanently alter" / "intermittently rewrites"; L104 in *Relation to Site Perspective*; L106's "During the labile period after retrieval" → "During a labile period". **Three unlisted siblings in the same file also fixed**: L66 ("The retrieval that triggers destabilisation is a conscious act"), L68 ("waking retrieval reopens them" → "can reopen"), and the L94 closing sentence.
+3. `archive/voids/past-self-void` L62 — "each retrieval permanently alters the trace" (universal *plus* "permanently") → "where reconsolidation opens the trace to revision, retrieval alters it". The reconstructive first clause kept intact.
+4. `archive/voids/memory-void` L89 — "Details change with each retrieval" → "across retrievals".
+5. `archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence` L142 — "each recall destabilises the trace and requires reconsolidation" → "recall can destabilise the trace, requiring reconsolidation". Matches the wording its live obsidian twin `topics/memory-channel-interface-evidence` L120 already carries.
+6. `archive/concepts/memory-as-dual-domain-capability` L44 — "traces are rebuilt with each access" (the locus the original sweep never named) plus the flat "its physical trace destabilises" opener. **One unlisted sibling at L88** ("when traces destabilise") narrowed to "when a trace does destabilise".
+
+**Research snapshots (2 files).** Dated notes are snapshots, so the findings were left as written and a short bracketed correction block added at the locus instead. `research/voids-memory-void-2026-02-01` L173 carried the universal outright ("Each act of remembering changes the memory"). `research/voids-past-self-void-2026-01-29` L158 is *sound as written* ("Each retrieval reconstructs anew" is the reconstructive claim) — the note there records that the article it fed **extended** it into the destabilisation claim, which is the propagation path worth blocking.
+
+**Deliberately not changed, and why — three loci the task's list named.**
+
+- `archive/concepts/constructive-memory` L72 ("if memories are constructed anew at each retrieval…") is the *reconstructive* claim, which stands at full strength. Its live obsidian twin `concepts/episodic-memory` L120 is near-verbatim and was deliberately kept by the 00:01 pass; editing the archive copy alone would invert the inconsistency the ruling exists to prevent.
+- `archive/topics/memory-consolidation…` L56 states Multiple Trace Theory's own claim, correctly attributed to Nadel & Moscovitch (1997). Its obsidian twin `topics/consciousness-and-memory` L111 was kept for the same reason.
+- `archive/voids/memory-void` L57 ("Each act of remembering *potentially* alters the memory") is already hedged — it is the formulation the fix installs elsewhere.
+
+**Sweep.** Closed on shortest invariant stems across all three trees, not on any one page's wording — the discipline that found `memory-as-dual-domain-capability` in the first place. 22 stems run (`each retrieval`, `every recall`, `with each access`, `rebuilt with each`, `labile again`, `perpetually rewrit`, `rewrites the record`, `each conscious retrieval`, …) plus a second-order pass on `alters the trace`, `reopens the trace`, `must be re-stored`, `becomes labile`, `not archival but editorial`. **Result: five unlisted loci added to the driver's list** (memory-consolidation L66 / L68 / L94-closing, memory-as-dual-domain L88), and every surviving hit across obsidian + archive + hugo classified: reconstructive claims kept at full strength, MTT's own claim, the corrected conditional formulation, or `workflow/` + `reviews/` records (exempt — todo.md and changelog.md quote the defective strings by design).
+
+**No stale Hugo duplicates.** Checked explicitly (coalesce-stale-hugo-duplicate-urls): the only Hugo files still carrying the defective strings are `workflow/todo.md`, `workflow/changelog.md`, and three dated `reviews/` files. No pre-archival article duplicate is serving the old wording at the original path.
+
+- **Length**: `analyze_length` before/after on all 8. Four shorter or neutral (`memory-void` −1, `memory-system-vulnerability` −1, `past-self-void` +2, `constructive-memory` +6); `memory-as-dual-domain` +9 and `memory-consolidation` +15 — the residual in both is the gating clause itself, which replaces a bald universal with a boundary condition and cannot be stated for free. Every version was tightened twice; no file changed status band and none approached a threshold. The two research notes grew +58 / +65, which is the correction blocks — unavoidable, since the instruction was to *add* a note rather than rewrite the snapshot.
+- **Mirrors**: `scripts/sync.py` run; all 8 changed strings verified present in `hugo/content/archive/…` and `hugo/content/research/…`, and all 10 old strings verified absent from the article trees.
+- **Attribution**: each file's existing `ai_system` held and `+claude-opus-5` appended (`claude-opus-4-6`, `claude-opus-4-7`, `claude-opus-4-5-20251101` all preserved); `ai_modified` bumped to `2026-08-06T01:12:25+00:00`, `date -u`-checked and strictly past. A first write landed 45s in the future and was corrected before sync (fork-future-dates-frontmatter-timestamps).
 
 ## 2026-08-06 01:02 UTC - refine-draft — Families T and U closed: the coupling cluster no longer adopts, in Map voice, the context-selection mechanism Tenet 3 declines
 
