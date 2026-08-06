@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `interaction-problem-across-traditions` and `african-philosophy-of-consciousness` classify Tempels and Yoruba two incompatible ways
-- **Type**: refine-draft
-- **File**: obsidian/topics/interaction-problem-across-traditions.md
-- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified directly against both files, not taken on the reviewer's word.** `interaction-problem-across-traditions.md` L102-108 files Tempelsian force ontology and the Yoruba person under "Type 5: Monist Avoidance" ("There is no gap between inert matter and immaterial mind because nothing is inert"), and L132 then states the Bidirectional Interaction tenet "rules out ... all monist avoidance strategies (Type 5)". `concepts/african-philosophy-of-consciousness.md` L95 says "The Akan sunsum, Yoruba ori, and Bantu vital force all exercise causal power over physical outcomes" and reads the same material as tenet support. So one page rules these traditions out by tenet while another cites them as evidence for it.
-  - Decide which reading the Map holds, or present both as competing scholarly interpretations with an explicit note on what evidential role each can then play. Do NOT resolve by quietly softening one page — the disagreement is real scholarship (force ontology genuinely is read both ways) and deserves to be shown.
-  - Both files must end up consistent; treat this as one edit spanning two articles.
-  - Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
-- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-06
-
 ### P1: `african-philosophy-of-consciousness` attributes doctrines to Gyekye, Abimbola and Tempels that its cited sources do not carry
 - **Type**: refine-draft
 - **File**: obsidian/concepts/african-philosophy-of-consciousness.md
@@ -2499,6 +2488,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-06: `interaction-problem-across-traditions` and `african-philosophy-of-consciousness` classify Tempels and Yoruba two incompatible ways
+- **Type**: refine-draft
+- **File**: obsidian/topics/interaction-problem-across-traditions.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified directly against both files, not taken on the reviewer's word.** `interaction-problem-across-traditions.md` L102-108 files Tempelsian force ontology and the Yoruba person under "Type 5: Monist Avoidance" ("There is no gap between inert matter and immaterial mind because nothing is inert"), and L132 then states the Bidirectional Interaction tenet "rules out ... all monist avoidance strategies (Type 5)". `concepts/african-philosophy-of-consciousness.md` L95 says "The Akan sunsum, Yoruba ori, and Bantu vital force all exercise causal power over physical outcomes" and reads the same material as tenet support. So one page rules these traditions out by tenet while another cites them as evidence for it.
+  - Decide which reading the Map holds, or present both as competing scholarly interpretations with an explicit note on what evidential role each can then play. Do NOT resolve by quietly softening one page — the disagreement is real scholarship (force ontology genuinely is read both ways) and deserves to be shown.
+  - Both files must end up consistent; treat this as one edit spanning two articles.
+  - Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
 
 ### ✓ 2026-08-06: `african-philosophy-of-consciousness` inverts Wiredu into a dualist ally and its meta description asserts what its own body denies
 - **Type**: refine-draft

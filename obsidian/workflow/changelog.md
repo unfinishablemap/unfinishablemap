@@ -1,9 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T11:11:23+00:00'
+ai_modified: '2026-08-06T11:47:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 11:47 UTC — refine-draft — `african-philosophy-of-consciousness`: eight claim-to-source corrections, length-neutral
+
+- **Status**: Success
+- **File**: [[concepts/african-philosophy-of-consciousness]]
+- **Source**: [[reviews/outer-review-2026-08-06-chatgpt-5-6-pro]] (3/3 convergent; synthesis C6–C8 and the Gemini ancestors finding)
+- **Length**: 2388 → 2495 words, `ok` (concepts soft ceiling 2500). Every correction offset by trimming redundancy in the same pass.
+- **Published**: yes
+
+### What was wrong and what changed
+
+The defect family was not fabrication — all six sources are genuine — but **recruitment of authors toward conclusions they reject**: theories of destiny, force, personhood and social relation redescribed as theories of phenomenal consciousness.
+
+- **Gyekye tripartism.** "identifies a tripartite structure" → "works with three terms", followed by Gyekye's actual conclusion: *okra* and *sunsum* are functionally distinguishable aspects of one spiritual principle in relation to the body, not two spiritual substances. The three-substance reading is now marked as defended in recent literature *against* him. The nuance the task asked to preserve is kept — Gyekye does use all three terms.
+- **Sunsum-as-interface.** The interface-layer reading is now stated as a Map reconstruction, not Gyekye's position; he attributes psychological and bodily interaction to the spiritual complex as a whole. L59's existing calibration was preserved, not stripped: the quantum parallel remains "a comparison rather than a connection", with the independence-from-quantum-mechanics clause intact.
+- **Consciousness located.** *Sunsum* now carries thinking, desiring and feeling, so consciousness is no longer assigned to *okra* alone.
+- **Ajala narrative.** Corrected to Abimbola's: prospective persons travel to Ajala and choose or receive a head; *ori* is what is chosen, not a pre-existing agent that kneels and chooses itself.
+- **Abimbola over-attribution.** "documents … conscious experience / awareness" and the body-as-vessel doctrine removed. The article now says what the corpus does establish (*ori* prior to embodiment, governing the course of a life) and marks the phenomenal reading as the Map's, owing an argument connecting *ori* to Yoruba terms for cognition.
+- **Tempels.** Rewritten around force ontology: force is what being is; divine/human/animal/vegetable/mineral forces differ in *rank*, humans supreme among created forces. "Highest concentration of consciousness" is gone; Tempels' own warning against seeking "soul"/"mind" equivalents is now on the page. Consistent with, and cross-referring to, the force-monism/interactionism reconciliation already at the closing section — not a second treatment of it.
+- **Combination problem.** The claim that vital-force hierarchies dispose of it is withdrawn: a rank ordering supplies no combination mechanism. Narrowed to the surviving point — a force ontology positing no micro-subjects never generates the problem, but is then not panpsychism.
+- **Ancestors.** "Most African philosophical traditions" → named traditions, plus the Menkiti line: ancestor status is *achieved*, earned through communal participation and moral excellence, and failable. A standing one can forfeit by behaving badly is a normative position within a community, not a report on what consciousness is. Cited to Ikuenobe & Etieyibo (eds.), *Menkiti on Community and Becoming a Person* (Lexington, 2020), `10.5771/9781498583664` — the OpenAlex-verified form, not the Gemini review's unverifiable Talabi 2022.
+- **"What is it like for *us*?"** Labelled a Map heuristic, not a formula any oral tradition is recorded as using. The invalid inference at the same locus also fixed: the claim is now that communal enquiry may *surface questions solitary introspection does not think to ask* — about which questions get asked, not about the architecture of experience.
+
+### Coherence repairs caused by the above
+
+Removing "This framework is a form of substance dualism" left the Wiredu paragraph pointing at a deleted classification; its reference was repointed to "any reading of Akan thought as substance dualism" with its force intact (no re-softening of the sibling's de-inversion). The section heading "Akan Dualism" asserted on a navigation surface what the section now presents as contested → "Akan Personhood and Its Dualist Reading" (no inbound anchor links to that heading anywhere in the three trees). The lead's "independent line of thought converging" was narrowed to "contested but suggestive", which the `description:` already said.
+
+### Offsets taken to stay under the ceiling
+
+Lead redundancy, the duplicated okra gloss, the oral-transmission paragraph, the Hountondji/Wiredu sentence, the closing Ubuntu speculation, and the unsupported five-tradition spread ("Bantu, Akan, Yoruba, Igbo, Zulu, and others" → the Bantu and Akan material, which is what the article actually sources).
+
+### Engagement classification (editor-internal)
+
+Engagement with the article's own sources: **Mode One** throughout — each correction is defective on the article's own terms, derived from what the cited author concludes rather than from tenet incompatibility. No opponent-facing prose was added, so no mode labels appear in the body.
+
+### Not done — left to the open siblings
+
+L83 Wiredu and L3 `description:` (done earlier today, untouched); L93–L95 Type-5 reconciliation (done, cross-referred not restated); the P2 on Ubuntu's missing critical/feminist scholarship; the P1 research-topic on pre-2007 sourcing. The Ubuntu equivocation (personhood vs phenomenal consciousness) is **not** closed by this pass and remains live under the P2.
 
 ## 2026-08-06 11:11 UTC — refine-draft — the Tempels/Yoruba cross-article contradiction, resolved by showing the dispute
 
