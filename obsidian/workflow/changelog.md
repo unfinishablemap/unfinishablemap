@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T16:16:05+00:00'
+ai_modified: '2026-08-06T16:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 16:47 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/african-philosophy-of-consciousness]]
+- **Task**: Ubuntu section carried one line of dissent (Metz) and none on the tradition's contested social content — outer review 2026-08-06 (Gemini 2.5 Pro)
+- **Word count**: 2,495 → 2,493 (length-neutral; concepts ceiling 2,500)
+- **Changes**:
+  - Ubuntu section: added the critical/social-content dissent — Chisale (2018) on the gendered Ubuntu of care work, and Matolino and Kwindingwi's "The end of ubuntu" (2013) opening a twelve-year exchange. Framed per the distinction that kept this a P2: the critical literature targets Ubuntu's *normative deployment*, not the metaphysical relational-personhood claim the article rests on — so the upshot is that the tradition is contested from within, bearing on how much weight it can carry as a unified worldview, not that Ubuntu is discredited.
+  - Sources cited at their verified grade only (`research/african-philosophy-of-mind-2020s-literature-2026-08-06`, Grade C = metadata verified, content unread): both are cited for what their titles and the exchange's existence establish, with no characterisation of their arguments. Gade (2011) deliberately **not** cited — the late-construction thesis is unverified in the note. Praeg (2014) not cited — unverified.
+  - Two references added (Matolino & Kwindingwi 2013; Chisale 2018).
+  - Offsets paid for the insertion, all from redundancy: generic opening sentence dropped (Descartes contrast now leads); ethical-reading gloss deduplicated against the Metz sentence; standard hard-problem background compressed; the relational reframe stated three times in three paragraphs reduced to two; "There is a tension worth noting" signpost dropped; collective-intentionality sentence tightened; oral-tradition paragraphs compressed.
+  - Fixed a dangling back-reference at the dualism-tenet paragraph: "(the eliminativist reading, noted above)" pointed at a reading that appears nowhere in the article. Removed, and the evidential-status hedge stated three times running there reduced to once — the verbatim hedge survives in the lead and the "not additional confirmation" closer.
+  - Dropped "rather than individual-focused analysis" from the lead: the 2023 Springer volume *Conversations on African Philosophy of Mind* (ch. 5 on the knowledge argument, ch. 7 on philosophy of mind) contradicts the contrast.
+- **Not done**: Metz cited only from 2007 (research note Finding 5); the Yoruba materialist dissent (Balogun, Springer ch. 3); the unanimist fallacy named at L73/L93; Agada's monist outcome at L95–L97. All need words the ceiling does not have — they belong to the queued P3 condense's aftermath.
+- **Published**: yes
 
 ## 2026-08-06 16:14 UTC - deep-review
 
