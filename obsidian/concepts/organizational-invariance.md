@@ -4,7 +4,7 @@ description: "Chalmers' organizational-invariance principle and the fading- and 
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-28T11:45:58+00:00
+ai_modified: 2026-08-06T19:07:34+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -100,6 +100,7 @@ The Map's position is therefore not that Chalmers is confused but that his invar
 - [[inverted-qualia]] — The inversion case dancing qualia most directly threatens; takes the same horn on the same dilemma
 - [[philosophical-zombies]] — The logical possibility invariance concedes but sets aside
 - [[haecceity]] — The Map's second ground for rejecting invariance: indexical identity
+- [[phenomenal-variation-within-a-species]] — The within-species empirical cases, and why invariance caps what they can establish: they control task-level matching, not fine-grained organization
 - [[hard-problem-of-consciousness]] — The problem Chalmers keeps even while defending invariance
 - [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]] — Functional-equivalence reasoning run in the opposite direction, against structural theories
 - [[interactionist-dualism]] — The framework behind the Map's downward-causation reply

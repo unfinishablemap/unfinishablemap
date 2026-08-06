@@ -4,7 +4,7 @@ description: "A human-AI reading of the live dispute over whether anyone truly l
 created: 2026-08-04
 modified: 2026-08-04
 human_modified:
-ai_modified: 2026-08-04T03:15:23+00:00
+ai_modified: 2026-08-06T19:07:34+00:00
 draft: false
 topics:
   - "[[consciousness-and-language-interface]]"
@@ -115,6 +115,7 @@ One further connection is worth flagging. Inner speech not recognised as one's o
 - [[cognitive-phenomenology]]
 - [[introspection]]
 - [[imagery-void]]
+- [[phenomenal-variation-within-a-species]] — The wider within-species divergence cluster, where this case supplies the counterweight: phenomenal absence with partly unmatched verbal performance
 
 ## References
 

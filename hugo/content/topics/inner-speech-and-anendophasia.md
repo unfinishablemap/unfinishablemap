@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-04
-ai_modified: 2026-08-04 03:15:23+00:00
+ai_modified: 2026-08-06 19:07:34+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 03:15:23+00:00
-lastmod: 2026-08-04 03:15:23+00:00
+lastmod: 2026-08-06 19:07:34+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -119,6 +119,7 @@ One further connection is worth flagging. Inner speech not recognised as one's o
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [introspection](/concepts/introspection/)
 - [imagery-void](/voids/imagery-void/)
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The wider within-species divergence cluster, where this case supplies the counterweight: phenomenal absence with partly unmatched verbal performance
 
 ## References
 

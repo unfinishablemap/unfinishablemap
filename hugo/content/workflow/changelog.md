@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T19:05:00+00:00'
+ai_modified: '2026-08-06T19:07:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 19:05:00+00:00
+lastmod: 2026-08-06 19:07:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 19:07 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Selected by**: staleness score 252 (21d x 12 changed sources) against effective baseline `max(apex_last_synthesis, last_deep_review)` = 2026-07-15; highest of 38 apex articles (runner-up 208)
+- **Changed sources**: 12 identified, 4 carrying unabsorbed substance
+- **Headline change**: installed the **organizational-invariance ceiling**. `concepts/functionalism` and `concepts/inverted-qualia` both promoted Chalmers' fading/dancing-qualia principle into their main structure after this article's baseline, and `functionalism.md` L137 states the point that lands on this synthesis directly — the identity claim requires fine-grained functional identity, "not merely matching on selected tasks, which is all the empirical dissociations control for." None of the five cohort pairs is a fine-grained functional duplicate, so against organizational-invariance functionalism the cluster works as a demand that the consciousness-relevant grain be specified rather than as a counterexample. The article now says so, in the lead, the thesis, the argument, and the Occam's-Razor tenet paragraph (which had over-claimed that all absorption strategies are loss-of-parsimony moves).
+- **Grain dilemma inherited**: the reply `inverted-qualia.md` owns against Chalmers is now carried here — pressing grain against functionalism presses it against the Map, and the type/token answer is still owed.
+- **Evidence and Dependency section**: installed (was absent). Records that all five classes share one premise — partial reliability of introspective report — so counting five converging classes overstates the separate reasons available. Same discipline `qualia.md` now applies to Mary / inverted qualia / zombies.
+- **Counterweight added**: `topics/inner-speech-and-anendophasia` (reached via the changed `topics/aphantasia`) supplies a within-species phenomenal absence with *partly unmatched* verbal performance — Nedergaard and Lupyan (2024) found verbal working memory and rhyme-judgement costs. The cluster does not get to select its cases for convenience.
+- **Structural**: merged three overlapping "wedge" sections into two, removing a triple-stated absorption-family enumeration; cut the weakest leg (reality monitoring, then the longest class) back to proportion.
+- **Word count**: narrative body 4,205 → 4,086 (total 4,972 → 4,970); ~600 words of prose cut to make room for ~500 words of new argument
+- **Also modified**: `concepts/organizational-invariance`, `topics/inner-speech-and-anendophasia` (reciprocal inbound links; both added to `apex_sources`, 16 → 18)
+- **Review**: [apex-evolve-2026-08-06-phenomenal-variation-within-a-species](/reviews/apex-evolve-2026-08-06-phenomenal-variation-within-a-species/)
 
 ## 2026-08-06 19:05 UTC - research-voids
 

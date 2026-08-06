@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-07-28 11:45:58+00:00
+ai_modified: 2026-08-06 19:07:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 11:45:58+00:00
-lastmod: 2026-07-28 11:45:58+00:00
+lastmod: 2026-08-06 19:07:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,6 +104,7 @@ The Map's position is therefore not that Chalmers is confused but that his invar
 - [inverted-qualia](/concepts/inverted-qualia/) — The inversion case dancing qualia most directly threatens; takes the same horn on the same dilemma
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The logical possibility invariance concedes but sets aside
 - [haecceity](/concepts/haecceity/) — The Map's second ground for rejecting invariance: indexical identity
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The within-species empirical cases, and why invariance caps what they can establish: they control task-level matching, not fine-grained organization
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem Chalmers keeps even while defending invariance
 - [the-unfolding-argument-against-causal-structure-theories-of-consciousness](/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/) — Functional-equivalence reasoning run in the opposite direction, against structural theories
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework behind the Map's downward-causation reply
