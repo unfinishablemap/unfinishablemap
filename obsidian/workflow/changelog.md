@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T05:32:00+00:00'
+ai_modified: '2026-08-06T10:06:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 10:07 UTC — pessimistic-review — CORRECTION: the run SUCCEEDED; the driver's FAILURE record is wrong
+
+- **Status**: Success (state record says FAILURE — this entry is the correction)
+- **Output**: [[reviews/pessimistic-2026-08-06-ineffable-encounter-void]] + one **P1** minted on `obsidian/voids/ineffable-encounter-void.md`
+- **The finding**: two quoted spans attributed to Harrison & Loui (2014) do not occur in the paper, live on three published URLs. Verified four ways against the primary text (Frontiers full text, PMC4107937, the authors' accepted manuscript, and a probable-origin trace) rather than taken on a reviewer's word. The task carries an explicit warning **not** to "confirm" the string via WebSearch, because the top hit for it is the Map's own page — the self-contamination trap.
+- **Why three prior deep reviews missed it**: the 2026-05-31 pass recorded *"confirmed: Frontiers in Psychology 5, 790. Title and venue exact"* and filed it as web-verified. Metadata was checked; the quoted strings never were. Same shape as tonight's Birch and Wiredu findings.
+
+### What went wrong on the driver side, for the record
+
+The fork ran ~3h45m — far longer than any other this session — and I sampled it three times to decide whether it was alive. At the last sample its transcript had stopped growing (0 bytes in 40s) and ended with `stop_reason: "tool_use"`, which reads as an interrupt rather than a clean `end_turn`. The working tree showed no review file and no new task, so I recorded the slot **FAILURE** to advance `cycle_position` rather than let the loop stall.
+
+**That inference was wrong.** The fork was in its final writes: the review file landed in the sync commit `04431db9` a moment later, and `todo.md` was written after that. A transcript that has gone quiet mid-tool-call is **not** evidence the work failed — the outputs can trail the last transcript event.
+
+**Lesson for the next driver hitting a long-running fork**: before recording FAILURE, check for the fork's *expected artefacts by name* (its review file in `obsidian/reviews/`, its task in `todo.md`, its changelog entry) rather than relying on `git status` at one instant — and sample twice with a gap, since a clean `git status` immediately before `cycle_post` can be stale by the time the commit runs. `cycle_position` advanced either way, so nothing is lost; only the `recent_tasks` status is inaccurate, and this entry corrects it.
+
+
+## 2026-08-06 10:06 UTC - pessimistic-review — two fabricated quotes on three live URLs, and a convergence argument whose independence premise is false
+
+- **Status**: Success
+- **Content reviewed**: [[voids/ineffable-encounter-void]] (203 lines), with cross-checks into [[research/voids-resonance-void-2026-03-24]] and `archive/voids/resonance-void.md`
+- **Output**: [[reviews/pessimistic-2026-08-06-ineffable-encounter-void]]
+- **Tasks minted**: 2 (P1 quote fidelity across three files; P2 evidential structure of the convergence section). Both on the same file, deliberately separate lenses — do not merge.
+
+**Target selection.** Chosen off the altered-state symmetry scanner's flag list, then kept for a different reason: citation-dense, 55 days since last content edit, and outside the African-philosophy cluster that currently holds five of the queue's top tasks.
+
+**Finding 1 — fabricated quotation, high severity.** Two quoted spans attributed to Harrison & Loui (2014) — *"a physically felt signature of an emotion"* and *"the body-mind distinction much more blurry"* — appear nowhere in that paper. Checked four ways against the primary text (Frontiers full text, PMC4107937, the authors' accepted manuscript, and a raw grep of the extracted manuscript: `signature` 0, `blurry` 0, against `frisson` 62). Live on three published URLs including a full archive serving body. **The phrases trace to a different paper a decade later** — the 2024 ASMR study whose title is *"…as a physically felt signature of positive and negative emotions"*. WebSearch appears to confirm the quotes; its top hit is unfinishablemap.org itself ([[quote-verify-self-contamination-via-own-page]]).
+
+**Why three deep reviews missed it.** The 2026-05-31 pass recorded the citation as web-verified on the strength of *"Title and venue exact"*. They were exact. The quoted text was never checked ([[quote-fidelity-defects-survive-metadata-reviews]]).
+
+**Finding 2 — the stated central evidential pillar rests on a false premise.** L79 asserts the traditions were *"developed without mutual influence"* and L91 calls that convergence *"the central evidential pillar"*. Otto read James and borrowed from him directly; Rosa is writing in 2016 with full access to all four predecessors. The Otto/James pair carries most of the weight and is where the influence is documented. Also flagged: the epistemic→metaphysical crossing at L91/L157, the total absence of Katz (1978) and Proudfoot (1985) — the canonical rebuttal to exactly this perennialist inference — and Rosa cited accurately but framed as a cognitive-closure finding when *Resonanz* is a normative diagnosis of world-relations.
+
+**Finding 3 — a falsifier that cannot come back negative.** Falsifier 4 tests whether the evaluator can report from inside the numinous, but evaluator dissolution is definitional of the numinous at L61 and L124, so any successful report reclassifies the case. L151 then reports a clean sweep of all four falsifiers with no audit shown. Folded into the P2 rather than minted separately, since the corpus-wide falsifier-audit pattern already has an open P3.
+
+**Finding 4 — internal contradiction the article never notices.** L132 cites Beauregard's nuns as neuroimaging of the numinous; the nuns were asked to *remember and relive*. L99 says *"Memory of the numinous is not the numinous."* Both sentences cannot be doing their jobs.
+
+**Two quotes nearly called fabricated, and were not.** James's *"after‐time"* and *"non‐mystical"* returned zero against the Gutenberg full text because that source uses U+2010 rather than ASCII hyphen. Re-extracting with the character normalised found all three James spans verbatim ([[quote-must-be-grep-verifiable-in-raw-source]], [[tallis-misrepresentation-quote-propagation]]). Rosa's quote also verified verbatim. Recording this because a single-route grep would have reported four fabrications where there is one.
+
+**Scanner note, no new tooling task.** The symmetry flag that surfaced this file is itself a **false positive**: both the filter-framing gate and the `psychedelics` cluster hit come from one bare wikilink, `[[psychedelics-and-the-filter-model]]`, in Further Reading — `_strip_for_scan` removes code and URLs but not wikilink targets. Appended as an addendum to the existing `altered_state_symmetry.py` NEEDS-HUMAN entry, since it changes the cost side of the pending variant-B decision and the other two current flags need re-checking for the same cause. No module edited ([[reports-only-review-fork-writes-tasks-out-of-contract]] — tooling is an operator call).
 
 ## 2026-08-06 06:11 UTC - refine-draft — Wiredu de-inverted and the meta description brought back into line with the body
 

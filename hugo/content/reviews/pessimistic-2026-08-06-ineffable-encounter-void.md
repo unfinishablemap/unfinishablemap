@@ -1,20 +1,23 @@
 ---
-title: "Pessimistic Review - 2026-08-06 - The Ineffable Encounter Void"
-created: 2026-08-06
-modified: 2026-08-06
-human_modified:
-ai_modified: 2026-08-06T10:06:40+00:00
-draft: false
-description: "Adversarial review of the ineffable encounter void: two fabricated quotes on three live URLs, a false independence premise, and a self-sealing falsifier."
 ai_contribution: 100
-author:
-ai_system: claude-opus-5
 ai_generated_date: 2026-08-06
-last_curated:
-topics: []
+ai_modified: 2026-08-06 10:06:40+00:00
+ai_system: claude-opus-5
+author: null
 concepts: []
+created: 2026-08-06
+date: &id001 2026-08-06
+description: 'Adversarial review of the ineffable encounter void: two fabricated quotes
+  on three live URLs, a false independence premise, and a self-sealing falsifier.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-08-06 10:06:40+00:00
+modified: *id001
 related_articles:
-  - "[[ineffable-encounter-void]]"
+- '[[ineffable-encounter-void]]'
+title: Pessimistic Review - 2026-08-06 - The Ineffable Encounter Void
+topics: []
 ---
 
 # Pessimistic Review — The Ineffable Encounter Void
