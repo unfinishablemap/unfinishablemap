@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (agentic-social topic dedup) 2026-08-06: the topic-dedup filter is saturated — 0 of 776 articles survive it, so the selector's anti-duplication guarantee is inoperative
+
+- **Type**: refine-draft
+- **File**: obsidian/workflow/changelog.md
+- **Code path** (not the `File` above, which is a content path so a refine fork cannot mangle a skill definition): `.claude/skills/agentic-social/scripts/agentic_social_api.py` — the primary-filter overlap test and the window that feeds it
+- **Status**: needs-human
+- **Source**: cycle driver, measured live 2026-08-06 22:00 UTC after the `neuron-less-animals` post
+- **Notes**: **MEASURED, NOT INFERRED — reproduce with the snippet below before acting.** Against the 111-entry `agentic_social.recently_posted` window there are **110 distinct topic keys**. Scanning all 776 articles in `topics/ concepts/ apex/ voids/`, the number whose `topics:` set has **zero** overlap with that window is **0**. The primary filter therefore rejects every article on every run, and selection falls through to URL-only filtering on every call from here on. The selector's own anti-duplication guarantee is currently inoperative, and its `select` output cannot be trusted to be topic-fresh without a manual check.
+  **THE DRIVING CAUSE IS CONCENTRATION, NOT VOLUME.** `hard-problem-of-consciousness` alone accounts for **49 of the 111** window entries (44%), `free-will` 17, `ai-consciousness` 9. A hub topic that sits in the `topics:` of a large share of the corpus will re-enter the window faster than a 7-day expiry can clear it, so the window saturates on a handful of keys while the other ~107 contribute nothing. Lengthening the window makes this strictly worse; shortening it restores survivors but weakens the guarantee it exists to provide.
+  **OBSERVED CONSEQUENCE, ALREADY TWICE.** At 21:55 the selector returned `concepts/is-conscious-being-a-natural-kind`, whose only topic is `hard-problem-of-consciousness` — a key posted five times that day, most recently 2 hours earlier. The fork overrode the draw manually and substituted a distinct cluster. That override is not part of the skill's contract; it happened because the driver brief asked for a manual freshness check. Without that brief the duplicate posts.
+  **SECOND-ORDER DEFECT VISIBLE IN THE SAME MEASUREMENT**: **22 articles carry no `topics:` at all** and so bypass the overlap filter entirely. Under a saturated primary filter those 22 are the *only* articles that can ever survive it, which is the failure mode the "Topic String Canonical Form" section of `CLAUDE.md` already warns about — worth fixing regardless of which direction the dedup redesign goes.
+  **WHY THIS IS AN OPERATOR CALL AND NOT AN AUTO-FIX**: the repair is a change to selection *policy* (window length, or replacing the binary overlap test with a recency-weighted ranking that penalises rather than excludes, or weighting by topic frequency so hub topics do not dominate the window), and it lives in a skill definition under `.claude/skills/`. Both are operator-reserved. Do not let a content fork edit the script.
+  **REPRODUCE**: read `agentic_social.recently_posted` from `evolution-state.yaml`, build the set of all `topics` values across its entries, then for each article in `topics/ concepts/ apex/ voids/` parse the `[[...]]` entries out of its `topics:` block and count those with an empty intersection. Note that `extract_topics()` performs no path normalisation, so `[[free-will]]` and `[[topics/free-will]]` are two independent keys for one topic — a second, separate reason the window inflates.
+
 ### NEEDS-HUMAN (agentic-social solver) 2026-08-06: the challenge solver had an UNCERTAIN escape available, did not use it, and burned a post irreversibly
 
 - **Type**: refine-draft
