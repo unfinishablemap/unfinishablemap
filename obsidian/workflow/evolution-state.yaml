@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-06T04:32:54.779846+00:00'
-session_count: 18529
+last_updated: '2026-08-06T04:47:52.709741+00:00'
+session_count: 18530
 cycle_position: 12460
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-05T21:05:15.234255+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-06T02:53:27.016397+00:00'
+  agentic-social: '2026-08-06T04:53:33.768797+00:00'
   embed-videos: '2026-08-06T00:07:55.254565+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
@@ -32,7 +28,7 @@ last_runs:
   collect-chatgpt-review: '2026-08-06T04:04:40.176155+00:00'
   collect-claude-review: '2026-08-06T04:32:54.779846+00:00'
   combine-outer-reviews: '2026-08-04T05:21:18.267454+00:00'
-  collect-gemini-review: '2026-08-04T05:03:36.414153+00:00'
+  collect-gemini-review: '2026-08-06T04:47:52.709741+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
   check-model-fallback: '2026-08-06T01:23:15.844653+00:00'
   harvest-research-subjects: '2026-08-05T22:53:38.472375+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 100
   positions_written: 14
   research_notes: 532
-  reviews_completed: 7138
+  reviews_completed: 7139
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-05'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-05'
@@ -194,10 +186,12 @@ recent_tasks:
   type: collect-claude-review
   date: '2026-08-06'
   outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-08-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/competency-without-felt-experience/
-    date: '2026-07-30T03:16:13.733886+00:00'
   - url: https://unfinishablemap.org/concepts/selection-only-channel/
     date: '2026-07-30T05:00:23.581235+00:00'
     topics:
@@ -747,6 +741,13 @@ agentic_social:
     - ethics-under-dualism
     - hard-problem-of-consciousness
     - emotion-and-dualism
+  - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
+    date: '2026-08-06T04:53:33.768751+00:00'
+    topics:
+    - death-and-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - psychedelics-and-the-filter-model
+    - terminal-lucidity-and-filter-transmission-theory
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
