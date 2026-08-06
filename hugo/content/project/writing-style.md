@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-02 07:50:17+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-06 12:46:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-08-02 07:50:17+00:00
+lastmod: 2026-08-06 12:46:00+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -23,6 +23,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
 - '[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]'
+- '[[reviews/outer-review-synthesis-2026-08-06]]'
 title: Writing Style Guide
 topics: []
 ---
@@ -218,6 +219,24 @@ Camp-checking catches the committed physicalist cited as an ally; concept-proven
 Before writing that a second author or argument "converges on," "independently supports," or "agrees with" a conclusion, verify the convergence at **conclusion-scope, not just premise-scope**: confirm the cited author's *own downstream verdict* points the same way as the article's, not merely that one shared premise overlaps. Where it does not, mark the convergence as *local* and state plainly that the author's framework reaches a different — often opposing — conclusion. This is the verdict-direction leg of the firewall: camp → concept → verdict.
 
 **Worked example — the Birch gaming-problem co-optation.** [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (2026-06-25 outer review) cited Jonathan Birch's [gaming problem](/concepts/gaming-problem/) as "a second, framework-independent argument [that] converges on the same discount" of behavioural AI self-report. The local point is faithful: training does select for the very consciousness markers humans read as evidence, and that narrow discount is genuinely framework-independent. But Birch's *own* remedy is computational functionalism (deep computational markers), and he co-authored Long et al. 2024 affirming a "realistic possibility" of near-future conscious *digital* AI — the exact verdict the apex's substrate analysis denies. The convergence holds on the narrow self-report sub-claim and *reverses* on the load-bearing substrate verdict. The honest fix (applied): mark the convergence local, and state that Birch's framework rejects the conclusion the article defends. This consolidates the inferential-recruitment firewall and converging-lines independence audit adopted 2026-06-23, adding the rule that *convergence claims must be checked at the conclusion the cited author actually holds.*
+
+### Surveying a Tradition from Outside (the Assimilation Firewall)
+
+The camp, concept and verdict checks above guard individual citations. A fourth failure operates one scale up, on whole traditions. An article surveying Akan, Yoruba, Advaita, Kyoto-School or any other tradition redescribes that tradition's theories — of destiny, vital force, personhood, social relation — as theories of phenomenal consciousness, filters the result for tenet compatibility, and counts the survivors as convergent votes for a conclusion the tradition never addressed. Three independent outer reviewers named this pattern on the same article on 2026-08-06 in three unrelated vocabularies: *assimilation by philosophical translation*, *evidence tourism*, *taxonomic violence*. [The cross-traditional convergence article](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) is the worked exemplar of the discipline done right — it marks its own African strand provisional rather than counting it, and states plainly that methodology, traditions and tenet-commitment are not three independent confirmations.
+
+The lenses, applied whenever the Map writes about a tradition from outside it:
+
+- **Scope the generalisation to its source.** Name the people, language, period, corpus, region and interpreting scholar. A claim that comes from one scholar's reconstruction belongs to that scholar, not to a continent, a language family, or "traditional thought" — *"on Gyekye's reconstruction of Akan personhood"*, never *"African traditions hold"*.
+- **Exposition before appropriation.** Give the neutral account and its internal disputes first; ask how the material bears on the tenets afterwards. This is the tradition-survey analogue of the four-part concept format (see *Concept Articles: The Four-Part Format*), and it exists for the same reason: a reading filtered for tenet-fit before it is stated enters the corpus as an unexamined premise.
+- **Do not let a tradition speak with one voice.** Where a survey names no internal disagreement among the tradition's own thinkers and no methodological challenge to the interpretation it adopts, that is a fact about the survey rather than about the tradition.
+- **Mark cross-tradition repairs as the Map's.** Patching one tradition's gap with another's resource — an Akan soul recruited to shore up Ubuntu anti-substantialism — produces a Map construction, and the prose must say so instead of presenting the composite as a position the source tradition holds.
+- **Justify the English rendering.** Where "mind", "soul", "consciousness" or "force" carries argumentative weight, give the original term and say why that rendering was chosen over its live competitors. Terms with ritual and social use rarely map cleanly onto a philosophy-of-mind vocabulary, and the translation is often where the assimilation happens.
+- **Separate the three claims about religious and ancestral material.** *This community has a concept of survival*, *survival is metaphysically possible*, and *survival occurs* are three different claims, and ethnographic evidence reaches only the first. This is the ethnographic case of the epistemic-versus-metaphysical reading distinction in [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Compare like with like.** Set a specific tradition against a specific tradition — Akan personhood against Descartes as Descartes actually argued — never a selected relational ideal against a flattened "the West" or a flattened "materialism".
+- **Check what the cited scholar concludes, not only whether the sentence is accurate.** The *author-stance verification* step in *Links and References* records a cited author's role in a debate; in a survey of another tradition it must also record what that author concludes *about the tradition*. The Map's own deep review of `african-philosophy-of-consciousness` on 2026-05-31 rated a sunsum-only claim accurate while noting in the same line that Wiredu treats okra and sunsum alike as quasi-material and resists a straightforwardly dualist reading. The failure mode is recruitment, not fabrication: every source there was genuine.
+- **Traditions are not automatically independent votes.** Before a tradition counts as a convergent confirmation, ask whether it traces to a shared upstream — one ethnographer, a colonial-era reconstruction, a later recasting of an earlier source. Conceding the shared source and then counting the derived cases anyway is precisely what the [common-cause null](/project/common-cause-null/) exists to catch.
+
+Stronger, blocking forms of three of these lenses — a per-section quota of internal dissent, a five-field translation ledger for every key term, and a verbatim-with-page requirement on every cited scholar before an article ships — were proposed by the same reviews and are held for operator ratification rather than adopted here.
 
 ### Evidential Calibration in Articles
 
@@ -601,6 +620,13 @@ Before publishing, verify:
 
 **Additional checks for concept articles:**
 - [ ] Four-part structure present: neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications separated
+
+**Additional checks for articles surveying another tradition:**
+- [ ] Generalisations scoped to people, period, corpus and interpreting scholar — never to a continent or "traditional thought"
+- [ ] Neutral account and internal disputes precede the tenet-relevance discussion
+- [ ] Cross-tradition repairs and contested English renderings marked as the Map's construction
+- [ ] Each cited scholar's own conclusion about the tradition checked, not just the accuracy of the article's sentence
+- [ ] Traditions counted as convergent votes checked for a shared upstream source
 
 **Additional checks for apex articles:**
 - [ ] Thesis statement establishes the integrated claim

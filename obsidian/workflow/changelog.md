@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T12:33:00+00:00'
+ai_modified: '2026-08-06T12:46:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 12:46 UTC — refine-draft — nine tradition-survey rules split by shape: six lenses installed in the style guide, three gates routed to ratification
+
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Also modified**: `obsidian/workflow/todo.md` (one `NEEDS-HUMAN (methodology ratification)` entry)
+- **Source**: outer-review synthesis 2026-08-06, convergent cluster C1 (3/3 reviewers — *assimilation by philosophical translation* / *evidence tourism* / *taxonomic violence*)
+- **Published**: yes
+
+Installed a new H3, *Surveying a Tradition from Outside (the Assimilation Firewall)*, placed as a peer of the co-optation firewall so the family reads camp → concept → verdict → **tradition**, plus a five-item checklist block. +528 words (6,879 → 7,407); the guide was already 275% of the `project/` soft target before this pass, and the addition was kept to one or two sentences per lens with cross-references outward rather than restatement. `topics/cross-traditional-convergence-on-consciousness-irreducibility` is cited as the worked exemplar (it already implements the independence check at L102 and L142); `[[evidential-status-discipline]]` and `[[common-cause-null]]` carry the vocabulary rather than a competing one being minted.
+
+**The gate/lens split, per the standing boundary that a gate is operator-reserved governance and a lens is not** — all nine rules accounted for:
+
+1. **Scope labels** — **LENS, installed whole.** The "prohibit movement from one reconstruction to a continent" clause is honestly discharged by the naming requirement: if the scholar must be named, the unattributed generalisation cannot be written.
+2. **Exposition–appropriation firewall** — **LENS, installed whole**, as the tradition-survey analogue of the already-adopted four-part concept format, whose "neutral definition must precede the Map's reading" is the same ordering convention at a different scale.
+3. **Minimum-dissent rule** — **SPLIT.** Lens installed (a survey naming no internal disagreement is a fact about the survey, not the tradition); the **per-section quota** is gate-shaped and routed.
+4. **No unmarked cross-tradition repairs** — **LENS, installed whole.**
+5. **Translation ledger** — **SPLIT.** Lens installed (give the original term and justify the English rendering where it carries argumentative weight); the **five-field per-term ledger** is a per-article apparatus and routed, consistent with how the References-section split has been held as a candidate convention since 2026-06-04.
+6. **Inference test for religious and ancestral claims** — **LENS, installed whole**, cross-referred to the epistemic-versus-metaphysical reading distinction rather than restated.
+7. **Symmetry test** — **LENS, installed whole**, generalised past the African cluster to any flattened "the West" or "materialism" comparand.
+8. **Named-author stance gate** — **SPLIT.** Lens installed as an extension of the 2026-07-21 author-stance verification (in a tradition survey, record what the author concludes *about the tradition*, not only their debate role); the **blocking verbatim-with-page-before-ship** requirement is routed. This is the rule with the strongest evidence — verified on disk: `deep-review-2026-05-31-african-philosophy-of-consciousness` L29 rated a sunsum-only claim "accurate, if narrower than his full view" while recording in the same cell that Wiredu treats both *okra* and *sunsum* as quasi-material and resists straightforward dualism; `deep-review-2026-07-17-african-philosophy-of-consciousness` L37 certified the Gyekye tripartite attribution "correctly distinguished, NOT conflated". Both asked whether the article's sentence was accurate; neither asked where the scholar's own conclusion pointed.
+9. **Evidential-independence / common-cause check** — **LENS, installed whole**, pointing at `common-cause-null` and the exemplar that already runs it.
+
+**Routed, not installed**: `### NEEDS-HUMAN (methodology ratification) 2026-08-06` in `workflow/todo.md`, `Status: needs-human`, header form verified picker-invisible (`parse_tasks` returns 37 active tasks, 0 of them this entry — the `### P[0-3]:` heading regex is what excludes it, not the status line, which would otherwise downgrade to PENDING). The entry states each proposed gate, its evidence, and its cost: the dissent quota is a length driver on already-long survey articles and is unenforceable without new tooling (which is the P-M5 failure it would itself instantiate); the translation ledger's scope is 59 files mentioning Akan/Ubuntu/Yoruba/Advaita/Sāṃkhya/Nyāya/Kyoto School/Igbo/Zulu/Ori across `topics/ concepts/ apex/ voids/`, 10 with a tradition in the title (measured on disk); the verbatim-with-page gate composes badly with the standing "pending verification is not a publishable state" rule and would force demote-or-delete on genuine scholarship the loop cannot reach at page granularity.
+
+- **Attribution**: `ai_system` held and appended — `claude-opus-4-7` → `claude-opus-4-7+claude-opus-5`.
+- **Mirror**: `scripts/sync.py` run; section confirmed at `hugo/content/project/writing-style.md` L223, all three new wikilinks converted to live URLs, `validate.py` ✓ Valid.
 
 ## 2026-08-06 12:33 UTC — research-topic — African philosophy of mind: the 2020s literature the cluster has never cited
 
