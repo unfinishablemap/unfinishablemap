@@ -185,3 +185,32 @@
   subject_articles:
   - topics/phenomenology-of-memory-and-the-self.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-04-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a73ee0a-4e4c-83ed-9c5e-6768e73ee582
+  commissioned_at: '2026-08-06T02:15:09.935367+00:00'
+  prompt_summary: Audit african-philosophy-of-consciousness
+  target_filename: outer-review-2026-08-06-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist
+    dualist framework. Audit this article: https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/
+    - it was last substantively revised on 2026-07-29. External search indexes lag
+    24-48 hours, so consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before drawing conclusions about recent activity or the article''s current state.
+    Assess rigorously: (1) whether its accounts of Akan dualism, Yoruba Ori, Bantu
+    vital force, and Ubuntu relational personhood are accurate, adequately sourced,
+    and not flattened into a single "African view"; (2) whether citations are real,
+    current, and framed as their authors intended; (3) whether serious counterarguments
+    and dissenting scholars are engaged; (4) whether the framing bends these traditions
+    toward the site''s dualist tenets rather than reporting them on their own terms;
+    (5) how well the article integrates with surrounding concept articles. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit african-philosophy-of-consciousness
+  subject_articles:
+  - concepts/african-philosophy-of-consciousness.md
+  subject_source: fallback:recent-aged
