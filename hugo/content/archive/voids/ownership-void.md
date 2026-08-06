@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-24
 ai_modified: 2026-07-12 19:58:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Mine-ness and the Ownership Void
+archived: true
+archived_date: 2026-08-06 14:42:43+00:00
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -21,6 +24,7 @@ last_curated: null
 last_deep_review: 2026-07-12 19:58:00+00:00
 lastmod: 2026-07-12 19:58:00+00:00
 modified: *id001
+original_path: /voids/ownership-void/
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
@@ -36,6 +40,7 @@ related_articles:
 - '[[transit-void]]'
 - '[[vertiginous-question]]'
 - '[[interoceptive-void]]'
+superseded_by: /concepts/mine-ness/
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'

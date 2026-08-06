@@ -59,7 +59,7 @@ Every attempt at answer defeats itself:
 
 **Logical explanation** (consciousness is self-individuating) is circular. The "self" in "self-individuating" is exactly what needs explaining.
 
-**Ownership explanation** (consciousness belongs to whatever it experiences) reverses the order. The [ownership-void](/voids/ownership-void/) shows that the mechanism of appropriation—how experiences become *mine*—is itself structurally opaque. You cannot ground indexical identity in ownership when ownership presupposes the very identity in question.
+**Ownership explanation** (consciousness belongs to whatever it experiences) reverses the order. The [ownership-void](/concepts/mine-ness/) shows that the mechanism of appropriation—how experiences become *mine*—is itself structurally opaque. You cannot ground indexical identity in ownership when ownership presupposes the very identity in question.
 
 **Eliminative response** (there is no genuine indexical fact; the question is confused) requires denying that "I am this one" states something real. The Map's dualism holds that first-person facts are genuine.
 
@@ -139,7 +139,7 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 - [plurality-void](/voids/plurality-void/) — The void around the multiplicity of conscious subjects
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Cases where division intensifies the indexical question
-- [ownership-void](/voids/ownership-void/) — Why experiences feel *mine*; ownership presupposes the indexical identity this void questions
+- [ownership-void](/concepts/mine-ness/) — Why experiences feel *mine*; ownership presupposes the indexical identity this void questions
 
 ## References
 

@@ -39,7 +39,6 @@ related_articles:
 - '[[dream-consciousness]]'
 - '[[empirical-phenomena-mental-causation]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
-- '[[ownership-void]]'
 - '[[agency-void]]'
 - '[[interested-party-void]]'
 - '[[wholeheartedness-void]]'
@@ -116,7 +115,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). (For how Gallagher's ownership-agency distinction bears on the Libet debate specifically, see [Phenomenology of Volitional Control](/topics/volitional-control/).) The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [mine-ness](/concepts/mine-ness/) and dissociates from agency in both directions: agency lost with ownership preserved in schizophrenic thought insertion; ownership disrupted with agency intact in depersonalisation. The double dissociation matters here because it indicates that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [ownership void](/voids/ownership-void/) explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
+This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [mine-ness](/concepts/mine-ness/) and dissociates from agency in both directions: agency lost with ownership preserved in schizophrenic thought insertion; ownership disrupted with agency intact in depersonalisation. The double dissociation matters here because it indicates that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [ownership void](/concepts/mine-ness/#the-ownership-void) explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
 
 ## What the Contrast Reveals
 
@@ -179,9 +178,8 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — When authorship of action drops out while ownership of the limb persists: the agency/ownership dissociation made pathological
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
-- [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature at the layer beneath agency, separable in pathology
+- [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature at the layer beneath agency, separable in pathology, and why the ownership relation hides from introspection
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — The mine-ness layer's parallel question: why experience belongs to a subject at all, prior to any felt authorship
-- [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [The Agency Void](/voids/agency-void/) — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [The Interested Party Void](/voids/interested-party-void/) — Motivational corruption in consciousness's self-investigation
 - [wholeheartedness-void](/voids/wholeheartedness-void/) — Why the felt unity of unreserved commitment cannot internally audit itself: regress, disownability, ambivalence-detection

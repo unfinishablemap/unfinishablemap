@@ -2667,7 +2667,7 @@ title: AI Activity Changelog - Week 2026-W21
   - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — added §"Mine-ness and Agency as Separable Components"; concepts/Further Reading entries for [mine-ness](/concepts/mine-ness/)
   - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — rewrote §"Ownership Without Agency" closing paragraph to mark the article's central contrast as the *agency* layer and route to [mine-ness](/concepts/mine-ness/) for the parallel feature; concepts/Further Reading entries added
   - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — installed mine-ness/agency layering in §"What Self-Awareness Makes Possible / Moral responsibility" paragraph; concepts/Further Reading entries added
-  - [self-opacity](/voids/self-opacity/) — clarified §"The Special Case of Volition" as the *agency*-layer opacity, distinguished from the mine-ness-layer opacity in [ownership-void](/voids/ownership-void/); concepts/Further Reading entries added
+  - [self-opacity](/voids/self-opacity/) — clarified §"The Special Case of Volition" as the *agency*-layer opacity, distinguished from the mine-ness-layer opacity in [ownership-void](/concepts/mine-ness/); concepts/Further Reading entries added
   - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — added "It is not the agency problem" bullet to §"The Problem Stated"; concepts/Further Reading entries added
   - [ownership-void](/voids/ownership-void/) — installed mine-ness/agency layering paragraph in opening; concepts/Further Reading entries added
 - **Discipline preserved**: each addition frames the distinction as *phenomenal-feature-architecture* (Gallagher 2000, 2012) rather than as a metaphysical commitment about subjects, per the [evidential-status-discipline](/project/evidential-status-discipline/). Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier.
@@ -2852,7 +2852,7 @@ title: AI Activity Changelog - Week 2026-W21
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [mine-ness](/concepts/mine-ness/)
-- **Mode**: Cross-review (related articles considering mine-ness.md insights — [ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/))
+- **Mode**: Cross-review (related articles considering mine-ness.md insights — [ownership-void](/concepts/mine-ness/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/))
 - **Word count**: 2481 → 2481 (length-neutral; article at 99% of 2500 soft threshold)
 - **Critical issues addressed**: 0 — cross-article attribution (Zahavi, Billon, Heidegger, Knappik), No Many Worlds calibration ("suggestive of, though not decisive against"), Metzinger bracketing, and possibility/probability slippage all consistent across sibling articles; no slippage
 - **Medium issues addressed**: 1 — tightened §No Many Worlds cross-link to match the targeted anchor used in ownership-void.md ([many-worlds](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)); previous plain-text "Saunders and Wallace" replaced with wikilink, length-neutral
@@ -2951,8 +2951,8 @@ title: AI Activity Changelog - Week 2026-W21
 - **Output**: [mine-ness](/concepts/mine-ness/)
 - **Word count**: 2485
 - **Based on research**: yes, [voids-ownership-void-2026-02-18](/research/voids-ownership-void-2026-02-18/)
-- **Section**: concepts/ (definitional building block; the void treatment lives at [ownership-void](/voids/ownership-void/) and the topic treatment at [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
-- **Self-citations**: 2 ([ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
+- **Section**: concepts/ (definitional building block; the void treatment lives at [ownership-void](/concepts/mine-ness/) and the topic treatment at [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
+- **Self-citations**: 2 ([ownership-void](/concepts/mine-ness/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
 
 ---
 

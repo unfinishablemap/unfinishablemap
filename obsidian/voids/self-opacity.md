@@ -29,7 +29,6 @@ related_articles:
   - "[[tenets]]"
   - "[[medium-status-voids-in-cognition]]"
   - "[[observation-and-measurement-void]]"
-  - "[[ownership-void]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[narrative-void]]"
   - "[[what-voids-reveal]]"
@@ -107,7 +106,7 @@ Despite structural opacity, we *feel* transparent to ourselves. This connects to
 
 ## The Special Case of Volition
 
-Volitional opacity sits at the intersection of introspective opacity and the [[causal-interface|causal interface void]]. We cannot observe the processes of willing, nor how (or whether) willing causes action. The opacity targeted here is at the *agency* layer—how an action becomes mine to initiate. The parallel opacity at the [[mine-ness|mine-ness layer]]—how an experience becomes mine to *have*, before any question of initiation arises—is treated in the [[ownership-void]] and dissociates from agency opacity in both directions: schizophrenic thought insertion strips agency while leaving mine-ness intact, depersonalisation can do the reverse. Volitional opacity is therefore a sub-case of self-opacity rather than its central instance; the architecture has at least two structurally distinct opacities, each visible only through its pathological absence.
+Volitional opacity sits at the intersection of introspective opacity and the [[causal-interface|causal interface void]]. We cannot observe the processes of willing, nor how (or whether) willing causes action. The opacity targeted here is at the *agency* layer—how an action becomes mine to initiate. The parallel opacity at the [[mine-ness|mine-ness layer]]—how an experience becomes mine to *have*, before any question of initiation arises—is treated in the [[mine-ness#the-ownership-void|ownership void]] and dissociates from agency opacity in both directions: schizophrenic thought insertion strips agency while leaving mine-ness intact, depersonalisation can do the reverse. Volitional opacity is therefore a sub-case of self-opacity rather than its central instance; the architecture has at least two structurally distinct opacities, each visible only through its pathological absence.
 
 Libet's experiments revealed a "readiness potential" beginning ~550 ms before voluntary action; conscious awareness appears only ~200 ms before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness (~60% accuracy). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from cues, not observed directly.
 

@@ -26,7 +26,6 @@ related_articles:
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[self-opacity]]"
   - "[[identity-across-transformations]]"
-  - "[[ownership-void]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[embodied-consciousness]]"
   - "[[vertiginous-question]]"
@@ -78,7 +77,7 @@ The ownership problem suggests that belonging-to-a-subject may be a primitive fe
 
 This is what the phenomenological tradition has long maintained. Husserl argued that every act of consciousness is characterised by its first-personal givenness—experience is always given *to* someone. Zahavi develops this into the claim that the minimal self is not a separate entity attached to experience but the very mode in which experience exists. Experience does not first occur and then get assigned to an owner. It occurs *as owned*. The [[embodied-consciousness|phenomenology of embodiment]] provides the bodily dimension of this insight: the feeling that this body is *mine* arises from pre-reflective bodily awareness rather than from inference, and ownership and agency dissociate in ways that reveal their distinct contributions to embodied subjectivity.
 
-[[clinical-phenomenology-and-altered-experience|Phenomenological psychiatry]] provides clinical evidence for ownership as primitive. In depersonalization, the sense of mine-ness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model of schizophrenia reveals a deeper disruption: Sass and Parnas show that normally tacit self-processes become alien objects of observation (*hyperreflexivity*) while simultaneously ceasing to function as the inhabited medium of selfhood (*diminished self-affection*). What is lost is not merely a feeling of ownership but the pre-reflective structure through which experiences are given as one's own — a finding validated empirically through the Examination of Anomalous Self-Experience (EASE) instrument, which confirms self-disorders as a core feature of the schizophrenia spectrum that predicts future onset in at-risk populations. The [[ownership-void|ownership void]] explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
+[[clinical-phenomenology-and-altered-experience|Phenomenological psychiatry]] provides clinical evidence for ownership as primitive. In depersonalization, the sense of mine-ness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model of schizophrenia reveals a deeper disruption: Sass and Parnas show that normally tacit self-processes become alien objects of observation (*hyperreflexivity*) while simultaneously ceasing to function as the inhabited medium of selfhood (*diminished self-affection*). What is lost is not merely a feeling of ownership but the pre-reflective structure through which experiences are given as one's own — a finding validated empirically through the Examination of Anomalous Self-Experience (EASE) instrument, which confirms self-disorders as a core feature of the schizophrenia spectrum that predicts future onset in at-risk populations. The [[mine-ness#the-ownership-void|ownership void]] explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
 
 If ownership is primitive, it cannot be decomposed into non-ownership components. This connects to [[indexical-knowledge-and-identity|indexical knowledge]]: knowledge expressible only as "I," "here," "now" resists translation into impersonal terms, and ownership is the experiential ground of that irreducibility. Any theory that analyses consciousness entirely in terms of information processing, functional organisation, or physical structure will miss ownership, because none of these ingredients is inherently first-personal. You can specify every detail of how a system processes information without specifying *whose* information processing it is.
 
@@ -132,7 +131,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 
 ## Further Reading
 
-- [[mine-ness]] — The for-me phenomenal feature distinguished from agency; the layer at which the ownership problem operates
+- [[mine-ness]] — The for-me phenomenal feature distinguished from agency; the layer at which the ownership problem operates, and why the appropriation mechanism hides from introspection
 - [[phenomenology-of-agency-vs-passivity]] — The parallel treatment of the agency layer this article defers: the felt initiation by which a thought or action presents as authored
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood and their relation to ownership
 - [[self-and-self-consciousness]] — The minimal self as the form ownership takes
@@ -146,7 +145,6 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[vertiginous-question]] — Why am I this person rather than another? Benj Hellie's question, closely paired with the ownership problem
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes a subject a discrete subject at all (prior to ownership)
 - [[open-individualism-and-the-de-combination-problem]] — If there is only one subject appearing as many, ownership has no discrete owners to attach to; the Map's indexical commitment resists this
-- [[ownership-void|The Ownership Void]] — Why the ownership mechanism hides from introspection
 - [[witness-consciousness]] — Ownership stripped of narrative content
 - [[parfit-reductionism]] — The reductionist challenge to primitive ownership
 - [[embodied-consciousness]] — Bodily ownership, agency, and the phenomenology of embodiment under dualism

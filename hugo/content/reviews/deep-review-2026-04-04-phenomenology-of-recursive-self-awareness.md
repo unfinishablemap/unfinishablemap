@@ -71,7 +71,7 @@ All checks pass:
 
 ### Cross-links Updated (14 files)
 Stale wikilinks to archived source articles updated in:
-- [ownership-void](/voids/ownership-void/) (frontmatter + Further Reading)
+- [ownership-void](/concepts/mine-ness/) (frontmatter + Further Reading)
 - [recursion-void](/voids/recursion-void/) (frontmatter + 2 body references + Further Reading)
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) (frontmatter + Further Reading)
 - [attention-schema-theory](/concepts/attention-schema-theory/) (frontmatter + body reference + Further Reading)

@@ -36,6 +36,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-12T19:58:00+00:00
+archived: true
+archived_date: 2026-08-06T14:42:43+00:00
+superseded_by: "/concepts/mine-ness/"
+archive_reason: "Coalesced into Mine-ness and the Ownership Void"
+original_path: "/voids/ownership-void/"
 ---
 
 Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The phenomenal feature itself is treated in [[mine-ness]]; this article treats the *void* that opens when we ask how the appropriation works. The Unfinishable Map names the ownership void for that gap. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.

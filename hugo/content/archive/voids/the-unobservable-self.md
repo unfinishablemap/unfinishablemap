@@ -165,7 +165,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Silence Void](/voids/the-silence-void/) — When the observer ceases observing: the territory beyond the regression
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists explanation
-- [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
+- [The Ownership Void](/concepts/mine-ness/) — Why the ownership relation hides from the subject who bears it
 - [Haecceity](/concepts/haecceity/) — The irreducible particularity of this observer
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which the unobservable self is a special case
 

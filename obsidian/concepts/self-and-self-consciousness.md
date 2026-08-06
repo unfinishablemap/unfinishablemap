@@ -38,7 +38,6 @@ related_articles:
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[reductionism]]"
-  - "[[ownership-void]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[vertiginous-question]]"
@@ -196,14 +195,13 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 ## Further Reading
 
-- [[mine-ness]] — The for-me phenomenal feature distinguished from the sense of agency
+- [[mine-ness]] — The for-me phenomenal feature distinguished from the sense of agency, and why its ground hides from the subject who bears it
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood and how they nest
 - [[psychedelics-and-the-filter-model]] — Ego-dissolution evidence under the Zahavian reading
 - [[predictive-self-binding-and-the-naturalist-challenge]] — Letheby's self-fictionalism as the predictive-processing form of self-model eliminativism, and the Map's persistent-minimal-self reply
 - [[witness-consciousness]] — What remains when narrative selfhood dissolves
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[phenomenology-of-recursive-self-awareness]] — What self-awareness feels like from inside
-- [[ownership-void]] — Why the for-me-ness of experience hides its own ground
 - [[indexical-knowledge-and-identity]] — Why "I," "here," "now" resist impersonal translation
 - [[phenomenal-authority-and-first-person-evidence]] — Husserl's evidence taxonomy
 - [[self-model-theory-of-subjectivity]] — Metzinger's SMT, the representationalist no-self account this minimal-self view is the realist foil to

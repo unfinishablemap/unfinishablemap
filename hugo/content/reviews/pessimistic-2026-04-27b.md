@@ -63,7 +63,7 @@ A related self-application problem: the article asserts that consciousness canno
 
 The Map's framing reifies *consciousness* as the entity hitting the limits, *will* as the faculty exercising agency, *self* as the locus of ownership. Each of these is precisely what the Buddhist analysis decomposes. The "vanishing target" passage — "you observe yourself observing, and the causal act recedes behind the observation" — is the canonical phenomenological moment of *anatman* recognition. Madhyamaka analysis says the recession is not the signature of a structural void but the signature of the original referent's emptiness: there was never a singular causal act to catch.
 
-The article's [ownership-void](/voids/ownership-void/) cross-reference partially acknowledges this debate but does not let it touch the agency-void framing.
+The article's [ownership-void](/concepts/mine-ness/) cross-reference partially acknowledges this debate but does not let it touch the agency-void framing.
 
 ## Critical Issues
 

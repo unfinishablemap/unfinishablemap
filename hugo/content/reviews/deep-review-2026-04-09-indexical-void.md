@@ -45,19 +45,19 @@ No new counterarguments beyond those already addressed in prior reviews. The bed
 
 ### Enhancements Made
 
-**Cross-links added FROM [ownership-void](/voids/ownership-void/) TO [indexical-void](/topics/vertiginous-question/):**
+**Cross-links added FROM [ownership-void](/concepts/mine-ness/) TO [indexical-void](/topics/vertiginous-question/):**
 - Added body text paragraph in "The Peculiar Recursion" section connecting the two voids: ownership presupposes indexical identity, indexical void questions the ground of that identity
 - Added to ownership-void related_articles
 - Added to ownership-void Further Reading
 
 **Cross-links added TO [indexical-void](/topics/vertiginous-question/) FROM the article itself:**
 - Added "Ownership explanation" paragraph in "The Structure of the Void" section, showing why ownership cannot ground indexical identity (the ownership mechanism is itself opaque)
-- Added [ownership-void](/voids/ownership-void/) to related_articles
-- Added [ownership-void](/voids/ownership-void/) to Further Reading
+- Added [ownership-void](/concepts/mine-ness/) to related_articles
+- Added [ownership-void](/concepts/mine-ness/) to Further Reading
 
 ### Cross-links Added
-- [ownership-void](/voids/ownership-void/) → [indexical-void](/topics/vertiginous-question/) (body text, related_articles, Further Reading)
-- [indexical-void](/topics/vertiginous-question/) → [ownership-void](/voids/ownership-void/) (body text, related_articles, Further Reading)
+- [ownership-void](/concepts/mine-ness/) → [indexical-void](/topics/vertiginous-question/) (body text, related_articles, Further Reading)
+- [indexical-void](/topics/vertiginous-question/) → [ownership-void](/concepts/mine-ness/) (body text, related_articles, Further Reading)
 
 ## Remaining Items
 

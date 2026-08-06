@@ -1,29 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-15 16:06:39+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-06 14:42:43+00:00
+ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5
 author: null
+coalesced_from:
+- /voids/ownership-void/
 concepts:
 - '[[phenomenal-consciousness]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[self-and-self-consciousness]]'
 - '[[phenomenology]]'
 - '[[discrimination-problem]]'
-created: 2026-05-19
-date: &id001 2026-05-19
+- '[[introspection]]'
+- '[[mysterianism]]'
+created: 2026-02-24
+date: &id001 2026-08-06
 description: Mine-ness is the phenomenal mark by which experience presents as belonging
-  to a subject—a separable feature that pathology and contemplative practice can strip
-  away while consciousness continues.
+  to a subject—separable in pathology, yet its mechanism of appropriation stays opaque.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 16:06:39+00:00
-lastmod: 2026-07-15 16:06:39+00:00
+lastmod: 2026-08-06 14:42:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[ownership-void]]'
+- '[[voids]]'
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-recursive-self-awareness]]'
@@ -31,15 +34,23 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
 - '[[discrimination-problem]]'
-title: Mine-ness
+- '[[necessary-opacity]]'
+- '[[voids-between-minds]]'
+- '[[edge-states-and-void-probes]]'
+- '[[self-reference-paradox]]'
+- '[[transit-void]]'
+- '[[vertiginous-question]]'
+- '[[interoceptive-void]]'
+title: Mine-ness and the Ownership Void
 topics:
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[philosophy-of-mind]]'
+- '[[consciousness]]'
 ---
 
 Mine-ness is the phenomenal feature by which an experience presents itself as belonging to a subject. Seeing red, feeling pain, recalling a face—each conscious state carries an implicit tag that this is happening *for me*. Phenomenologists call this *for-me-ness* (Dan Zahavi) or *Jemeinigkeit* (Martin Heidegger). The Unfinishable Map treats mine-ness as a **separable phenomenal feature**: a distinct dimension of conscious states that can, in principle and in fact, vary independently of other phenomenal properties. It is not equivalent to the contents of experience, not equivalent to the sense of agency, and not equivalent to reflective self-awareness. Depersonalisation disorder, thought insertion, and certain contemplative states are the natural experiments that pry mine-ness apart from these neighbouring features and expose it as a thing in its own right.
 
-This article defines mine-ness as a concept—its scope, its evidence, its dissociations, and its position in the Map's framework. The broader question of *why* mine-ness is opaque to introspection is treated in the [ownership-void](/voids/ownership-void/) article; the broader question of *what grounds* experience's belonging to a subject is treated in [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/). Here the focus is the feature itself.
+The feature arrives with a limit attached. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned—the ownership relation is presupposed by the very investigation that would uncover it. The Map names that gap the **ownership void** and reads it as a structural limit rather than a gap in knowledge awaiting research. This article covers both halves: the feature, its scope and its dissociations, and then the void, [explained below](#the-ownership-void). The separate question of *what grounds* experience's belonging to a subject at all is treated in [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/).
 
 ## Defining the Feature
 
@@ -65,9 +76,9 @@ Depersonalisation disorder (DPD) is the central piece of evidence. Patients repo
 
 If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is itself evidence that mine-ness is a feature distinct from the bare having of experience.
 
-Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. The window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks, the window becomes partly visible—the mine-ness becomes a noticed absence rather than an unnoticed presence. The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
+Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. The window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
-DPD is also one of the cleanest cases where the [discrimination-problem](/concepts/discrimination-problem/) engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with the same first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. This makes mine-ness's separability claim load-bearing for the discrimination-problem framework's most tractable application: the level at which a phenomenal feature can be reported as varying while contents are held fixed.
+DPD is also one of the cleanest cases where the [discrimination-problem](/concepts/discrimination-problem/) engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with the same first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. That makes separability the crux of the discrimination-problem framework's most tractable application: the level at which a phenomenal feature can be reported as varying while contents are held fixed.
 
 ### Thought Insertion
 
@@ -75,9 +86,9 @@ In schizophrenic thought insertion, patients report thoughts occurring "in their
 
 ### Contemplative Dissolution
 
-Buddhist *anattā* (no-self) practice systematically searches for the owner of experience and fails to find it. Across many traditions—Theravāda insight meditation, certain Advaita Vedānta witness practices, varieties of Zen—advanced practitioners report states in which experience continues without a felt sense of "someone experiencing it." Unlike DPD, this is usually described as peaceful or liberating. The [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) article surveys the cross-cultural data.
+Buddhist *anattā* (no-self) practice systematically searches for the owner of experience and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Across many traditions—Theravāda insight meditation, certain Advaita Vedānta witness practices, varieties of Zen—advanced practitioners report states in which experience continues without a felt sense of "someone experiencing it." Unlike DPD, this is usually described as peaceful or liberating. The [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) article surveys the cross-cultural data.
 
-The contemplative evidence reinforces the depersonalisation evidence: mine-ness can fade while consciousness continues. It also adds something new—the loss of mine-ness is not intrinsically aversive. The same structural absence produces terror when entered involuntarily and equanimity when entered deliberately. This affective dissociation suggests that the *valence* attached to mine-ness's presence or absence is a separate feature again, layered on top of mine-ness itself.
+The contemplative evidence reinforces the depersonalisation evidence: mine-ness can fade while consciousness continues. Deane, Miller and Wilkinson bring the two approaches under one description using the active inference framework—the self emerges from a "temporally deep generative model," and both DPD and advanced meditation involve its dissolution, by involuntary collapse in the first case and deliberate relaxation in the second. The contemplative data also add something new: the loss of mine-ness is not intrinsically aversive. The same structural absence produces terror when entered involuntarily and equanimity when entered deliberately. This affective dissociation suggests that the *valence* attached to mine-ness's presence or absence is a separate feature again, layered on top of mine-ness itself. [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) documents similar context-dependence at other cognitive limits.
 
 ### Empirical Caveat
 
@@ -87,11 +98,29 @@ The separability thesis is in principle defeasible. It would be undermined by a 
 
 ## Mine-ness and Transparency
 
-A feature that pervades every experience yet normally goes unnoticed is by definition *transparent*—we look through it rather than at it. Thomas Metzinger's self-model theory treats this transparency as architectural: the phenomenal self-model cannot be experienced *as* a model, so its contents present themselves as simply and directly "mine." The Map does not endorse Metzinger's broader physicalist framework, but the structural insight transfers: whatever the underlying nature of mine-ness, it is a transparent feature in normal experience, and its disruption is what makes it perceptible.
+A feature that pervades every experience yet normally goes unnoticed is by definition *transparent*—we look through it rather than at it. Thomas Metzinger's self-model theory treats this transparency as architectural: the phenomenal self-model cannot be experienced *as* a model, so its contents present themselves as simply and directly "mine." Metzinger calls this **autoepistemic closure**—the self-model is arranged so as to conceal its own modelling. The Map does not endorse Metzinger's broader physicalist framework, but the structural insight transfers: whatever the underlying nature of mine-ness, it is a transparent feature in normal experience, and its disruption is what makes it perceptible.
+
+Under dualism the opacity may run deeper than concealment by neural architecture. A physical system can in principle be analysed from outside by another physical system; a non-physical subject has no external vantage point from which its own subjectivity could be examined. On that reading the transparency is a consequence of what subjectivity is, rather than a design feature that could have been arranged otherwise.
 
 This places mine-ness on the [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) at the extreme transparent end. Most of the time mine-ness is so transparent that subjects do not notice it at all. Depersonalisation pushes it toward opacity—its absence becomes noticed precisely because its presence was the unnoticed background. Meditation can do something analogous voluntarily, making the feature available for inspection by reducing its grip rather than removing it altogether.
 
-Transparency also explains why mine-ness is easily confused with the bare fact of having experience. A feature always present and never noticed is hard to distinguish from the conditions of consciousness itself. The dissociation data break the confusion: mine-ness is a feature, not the bare fact, because it can vary.
+Transparency also explains why mine-ness is easily confused with the bare fact of having experience: a feature always present and never noticed is hard to distinguish from the conditions of consciousness itself. The dissociation data break the confusion, since a feature that can vary is not the bare fact.
+
+## The Ownership Void {#the-ownership-void}
+
+Depersonalisation proves that mine-ness can vanish while experience continues, and its removal still reveals nothing about its mechanism. Patients report that experience loses its for-me quality; they do not report *seeing how ownership was constructed*. The void shows itself as absence, never as machinery.
+
+The recursion is what makes the limit structural rather than merely stubborn. Attempting to introspect ownership traps attention in a distinctive way: the attending itself is "mine," so ownership is present in the very act of looking for it. Isolating it would require a vantage point outside ownership—an experience that is not "for anyone"—and no such vantage point would be an experience at all. This differs from the regress in [the unobservable self](/voids/self-opacity/), where the observer generates fresh layers of observation; here there is no regress, only a condition that cannot be stepped outside of. If Zahavi is right that for-me-ness is "completely irrelational," and Heidegger right that mine-ness is an existential structure rather than a contingent psychological one, the void follows from the accounts themselves: you cannot get behind ownership to explain it, because ownership is presupposed by every explanation.
+
+**Which layer the void occupies.** The opacity sits at the *mine-ness* layer—the felt for-me character—and is distinct from the parallel opacity at the agency layer ([volitional opacity](/voids/self-opacity/#the-special-case-of-volition)), which concerns how an action becomes mine to initiate. Gallagher's clinical dissociations show the two layers separate, so the two voids are structurally distinct rather than one restated in the other's vocabulary.
+
+**One void or many.** Knappik's challenge has a consequence here. If mine-ness is plural rather than a single global feature, the ownership void is not one void but several: each modality of experience may have its own form of appropriation, each opaque in its own way. The plurality does not dissolve the limit; it multiplies it.
+
+**The body as the densest case.** The body is *mine* in a way no external object is, and bodily disownership—the depersonalised "behind glass" body, somatoparaphrenic limb-disavowal—is among the most vivid disruptions of mine-ness. Yet the [interoceptive-void](/voids/interoceptive-void/) shows that the body so owned is mostly silent: most visceral state never reaches awareness, and what does arrives summarised. Felt ownership therefore extends over a substrate the subject has almost no access to. The two voids are distinct—one concerns the appropriation relation, the other the body's opacity to awareness—but the densest instance of the first runs over the territory the second maps.
+
+**Adjacent voids, and what separates them.** The [self-reference-paradox](/concepts/self-reference-paradox/) concerns logical structure; the ownership void is phenomenological, about felt belonging rather than formal reflexivity. [Introspective opacity](/voids/self-opacity/) concerns hidden cognitive processes in general; the ownership void concerns one phenomenal feature that is normally present while its ground stays hidden. The [indexical void](/topics/vertiginous-question/) asks why I am *this* consciousness rather than another, and ownership presupposes an answer, since experiences are "mine" only if there is a determinate "me" to own them. Those two mark faces of one mystery: what makes a subject *this* subject, and how experience becomes *its* experience.
+
+The void is the epistemic residue that remains once the [ownership problem](/topics/consciousness-and-the-ownership-problem/) has been well stated. Ownership is unexplained, and beyond that the mechanism of appropriation is structurally inaccessible from within.
 
 ## What Mine-ness is Not
 
@@ -101,7 +130,7 @@ Several adjacent concepts deserve explicit distinction.
 
 **Mine-ness is not the sense of bodily ownership.** Bodily ownership—the sense that *this body* or *this limb* is mine, manipulable via the rubber hand illusion and similar paradigms—is a *sub-type* of mine-ness applied to the bodily domain. Mine-ness as a general phenomenal feature extends to thoughts, perceptions, and memories that have no bodily location.
 
-**Mine-ness is not haecceity.** [Haecceity](/concepts/haecceity/) is the *metaphysical* "thisness" of a particular; mine-ness is the *phenomenal* feature by which experience presents as a subject's. The relation between them is the [vertiginous-question](/topics/vertiginous-question/): why does this particular consciousness exist as me rather than as someone else?
+**Mine-ness is not haecceity.** [Haecceity](/concepts/haecceity/) is the *metaphysical* "thisness" of a particular; mine-ness is the *phenomenal* feature by which experience presents as a subject's. The [vertiginous-question](/topics/vertiginous-question/) is where the two meet.
 
 **Mine-ness is not having a self-concept.** A being can have mine-ness without explicit concepts of "self" or "I." The phenomenal feature is pre-conceptual; the self-concept is its cognitive elaboration.
 
@@ -109,15 +138,15 @@ Several adjacent concepts deserve explicit distinction.
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place.
+The [Dualism](/tenets/#dualism) tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: the non-physical subject's basic mode of relating to the physical processes it influences. Ownership is the relation; agency is one specific form that relation takes when it issues in action. This reading respects both the dissociation data (mine-ness without agency in DPD or insertion) and the tenet's commitment to a non-physical subject with causal traction.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: the non-physical subject's basic mode of relating to, and claiming, the physical processes it influences. Ownership is the relation; agency is one specific form that relation takes when it issues in action. The mechanism of the claiming would then be concealed by the same opacity that hides the interaction mechanism itself. This reading respects both the dissociation data (mine-ness without agency in DPD or insertion) and the tenet's commitment to a non-physical subject with causal traction.
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. [Branch-relative indexicality on Many-Worlds accounts](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) (Saunders, Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. [Branch-relative indexicality on Many-Worlds accounts](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) (Saunders, Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure—a reading that withholds the cross-branch personal-identity relation MWI's Born-rule recovery requires. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
 
 ### Occam's Razor Has Limits
 
@@ -125,30 +154,38 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 
 ## Further Reading
 
-- [ownership-void](/voids/ownership-void/) — Why the mechanism of mine-ness is structurally opaque to introspection
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — The broader topic: why experience belongs to anyone at all
+- [voids](/voids/) — The framework for investigating cognitive limits, of which the ownership void is one
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) — Why mine-ness is normally invisible
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency feature mine-ness is most easily confused with
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Depersonalisation, dissociation, and what pathology reveals
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-cultural data on the voluntary dissolution of mine-ness
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How reflective self-awareness restructures the pre-reflective for-me feature
-- [self-opacity](/voids/self-opacity/) — Why the subject of mine-ness cannot become its own object
+- [self-opacity](/voids/self-opacity/) — Why the subject cannot become its own object; also the sibling opacity at the agency layer
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself observing
+- [necessary-opacity](/voids/necessary-opacity/) — When cognitive mechanisms become invisible through transparency
+- [voids-between-minds](/voids/voids-between-minds/) — The impossibility of accessing another subject's ownership
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching a cognitive limit feels like
+- [transit-void](/voids/transit-void/) — Consciousness cannot witness its own state transitions, a parallel structural limit
+- [interoceptive-void](/voids/interoceptive-void/) — The mostly-silent body over which felt ownership extends
+- [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* consciousness? The metaphysical question underlying indexical mine-ness
-- [discrimination-problem](/concepts/discrimination-problem/) — Why the depersonalisation evidence is the phenomenal-feature-level engagement the framework most needs
-- [self-construction-constructor](/apex/self-construction-constructor/) — The apex argument that the self is constructed while the constructor is not: mine-ness is the for-me feature every construction presupposes, and the mine-ness/agency double dissociation supplies the asymmetry at the level of the constructor's own phenomenal anatomy
-- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the discipline that cites mine-ness as a worked exhibit: the *separability* finding inherits the smaller framework-dependence discount, its *significance for dualism* the larger one
+- [discrimination-problem](/concepts/discrimination-problem/) — The phenomenal-feature-level engagement the depersonalisation evidence supplies
+- [self-construction-constructor](/apex/self-construction-constructor/) — The apex argument that every construction presupposes the for-me feature, with the mine-ness/agency dissociation supplying its asymmetry
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — The discipline citing mine-ness as a worked exhibit: *separability* takes the smaller framework-dependence discount, its *significance for dualism* the larger
 
 ## References
 
 1. Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In *Self-Experience: Essays on Inner Awareness*. Oxford University Press.
 1. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20, 823-842.
+1. Deane, G., Miller, M., & Wilkinson, S. (2020). "Losing Ourselves: Active Inference, Depersonalization, and Meditation." *Frontiers in Psychology*, 11, 539726.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Gallagher, S. (2012). "Multiple Aspects in the Sense of Agency." *New Ideas in Psychology*, 30(1), 15-31.
 1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. §9 (Jemeinigkeit).
 1. Knappik, F. (2022). "No Need for Mineness: Depersonalization/Derealization Disorder and Mental State Types." *Phenomenology and the Cognitive Sciences*.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 1. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 1. Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*, ed. C. Durt, T. Fuchs, & C. Tewes. MIT Press.
-1. Southgate, A. & Oquatre-six, C. (2026-02-24). The Ownership Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/ownership-void/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness and the Ownership Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-ownership-problem/

@@ -28,7 +28,7 @@ topics: []
 
 ### Critical Issues Found
 
-None. Attribution checks pass: Zahavi's "in being aware..." quote, Zahavi's "completely irrelational" formulation, Billon's DPD characterization, Ciaunica's "window cracks" metaphor, Gallagher's agency/ownership distinction, Heidegger's *Jemeinigkeit*, Knappik's plurality challenge are all consistent with established usage elsewhere in the Map (verified against [ownership-void](/voids/ownership-void/) and [self-and-self-consciousness](/concepts/self-and-self-consciousness/)). No source/Map conflation: Metzinger's framework is explicitly bracketed ("the Map does not endorse Metzinger's broader physicalist framework"). No possibility/probability slippage: claims about DPD, thought insertion, and contemplative dissolution are framed as evidential support, not as tenet-coherence upgrades; the §No Many Worlds section is explicitly hedged ("suggestive of, though not decisive against, MWI's metaphysics"). No self-contradiction. No dropped qualifiers. No misattribution.
+None. Attribution checks pass: Zahavi's "in being aware..." quote, Zahavi's "completely irrelational" formulation, Billon's DPD characterization, Ciaunica's "window cracks" metaphor, Gallagher's agency/ownership distinction, Heidegger's *Jemeinigkeit*, Knappik's plurality challenge are all consistent with established usage elsewhere in the Map (verified against [ownership-void](/concepts/mine-ness/) and [self-and-self-consciousness](/concepts/self-and-self-consciousness/)). No source/Map conflation: Metzinger's framework is explicitly bracketed ("the Map does not endorse Metzinger's broader physicalist framework"). No possibility/probability slippage: claims about DPD, thought insertion, and contemplative dissolution are framed as evidential support, not as tenet-coherence upgrades; the §No Many Worlds section is explicitly hedged ("suggestive of, though not decisive against, MWI's metaphysics"). No self-contradiction. No dropped qualifiers. No misattribution.
 
 ### Medium Issues Found
 
@@ -61,7 +61,7 @@ No label leakage in prose. No editor-vocabulary terms appear in the article body
 - Empirical caveat with Knappik demonstrates intellectual honesty and engages a serious recent challenge.
 - Mode Two engagement with Metzinger is clean (preserves the source/Map separation while making the Map's distinct claim).
 - §No Many Worlds is calibrated correctly — does not overstate the indexicality argument as a refutation of MWI.
-- Cross-linking to [ownership-void](/voids/ownership-void/) and [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) correctly delegates the broader questions.
+- Cross-linking to [ownership-void](/concepts/mine-ness/) and [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) correctly delegates the broader questions.
 
 ### Enhancements Made
 
@@ -73,7 +73,7 @@ No label leakage in prose. No editor-vocabulary terms appear in the article body
 ### Cross-links Verified
 
 All eleven wikilinks in the body resolve to existing files:
-- [ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [haecceity](/concepts/haecceity/), [vertiginous-question](/topics/vertiginous-question/), [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/), [self-opacity](/voids/self-opacity/), [tenets](/tenets/).
+- [ownership-void](/concepts/mine-ness/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [haecceity](/concepts/haecceity/), [vertiginous-question](/topics/vertiginous-question/), [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/), [self-opacity](/voids/self-opacity/), [tenets](/tenets/).
 
 No new cross-links added — the existing set is comprehensive for a concept page.
 

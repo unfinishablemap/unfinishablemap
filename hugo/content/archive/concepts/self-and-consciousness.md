@@ -167,7 +167,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and its relation to selfhood
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Filter theory and the rendering engine analogy
 - [temporal-consciousness](/concepts/temporal-consciousness/) — What constitutes "a moment" of conscious experience
-- [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
+- [The Ownership Void](/concepts/mine-ness/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I," "here," "now" resist impersonal translation
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes this subject a discrete subject at all

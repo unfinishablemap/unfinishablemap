@@ -40,7 +40,7 @@ related_articles:
 - '[[edge-states-and-void-probes]]'
 - '[[expertise-and-its-occlusion]]'
 - '[[observation-and-measurement-void]]'
-- '[[ownership-void]]'
+- '[[mine-ness]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[interoceptive-void]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
@@ -173,7 +173,7 @@ Current evidence favours structural opacity, though it remains evidence rather t
 - [The Expertise Void](/voids/expertise-and-its-occlusion/) — How mastery defends its own transparency
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms it
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The structural reason interfaces must be invisible to function
-- [ownership-void](/voids/ownership-void/) — Whose body schema is this, and why does the ownership feeling resist examination?
+- [mine-ness](/concepts/mine-ness/) — Whose body schema is this, and why does the ownership feeling resist examination?
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How embodiment shapes what can be thought, and what extending beyond the body does to those limits
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why functional extension (cognition) does not entail phenomenal extension (consciousness)
 - [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture

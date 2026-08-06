@@ -116,7 +116,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — What kind of knowledge introspection provides, and how its reliability varies by domain
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Why the observer cannot catch itself observing
-- [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
+- [The Ownership Void](/concepts/mine-ness/) — Why the for-me-ness of experience hides its own ground
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — What self-awareness feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness stripped of reflexive identification

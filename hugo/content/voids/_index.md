@@ -176,7 +176,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — Why first-person identity resists explanation (coalesced 2026-04-23)
 - [The Narrative Void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling
 - [The Confabulation Void](/voids/confabulation-void/) — Why consciousness cannot detect when a sub-personal interpreter fabricates explanations for its own behaviour, with the felt signal that would mark the fabrication anti-correlated with accuracy in conditions where reliability most matters; three faces (generation / detection / pervasiveness) supply the positive-content twin of [source-attribution](/voids/source-attribution-void/) within the introspection-architecture sub-cluster (created 2026-05-15)
-- [The Ownership Void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
+- [The Ownership Void / Mine-ness](/concepts/mine-ness/) — Why we cannot introspect how experiences become ours (coalesced 2026-08-06)
 - [The Plurality Void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects at once
 - [The Resolution Void](/voids/resolution-void/) — The six-order-of-magnitude compression between available and accessed information
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap itself beyond its own cognitive architecture

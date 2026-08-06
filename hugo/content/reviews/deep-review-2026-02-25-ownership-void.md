@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Ownership Void](/voids/ownership-void/)
+**Article**: [The Ownership Void](/concepts/mine-ness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

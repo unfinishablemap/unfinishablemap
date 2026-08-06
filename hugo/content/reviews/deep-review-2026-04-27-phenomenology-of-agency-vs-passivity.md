@@ -68,7 +68,7 @@ All strengths from prior reviews remain intact:
 
 ### Cross-links Confirmed
 - [agency-void](/voids/agency-void/) — main link, in-text reference at line 120, Further Reading, related_articles
-- [ownership-void](/voids/ownership-void/) — in-text and Further Reading
+- [ownership-void](/concepts/mine-ness/) — in-text and Further Reading
 - [interested-party-void](/voids/interested-party-void/) — Further Reading and related_articles
 
 ## Remaining Items

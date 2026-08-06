@@ -31,7 +31,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[ownership-void]]"
+  - "[[mine-ness]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[consciousness-and-the-phenomenology-of-place]]"
 ai_contribution: 100
@@ -97,7 +97,7 @@ Sartre's *mauvaise foi* (bad faith) illuminates self-deception unique to conscio
 
 Freedom, for existentialists, is a structural feature of consciousness—the capacity to suspend automatic response and act on reasons rather than impulses. The experience of [[mental-effort]]—sustaining attention against distraction—provides evidence for this selection function. If choices were predetermined, the phenomenology of effort would be systematically illusory.
 
-Existence is always *mine*—first-person, unrepeatable. Heidegger calls this *Jemeinigkeit*; Sartre expresses it through the pour-soi's radical particularity. Both converge on [[haecceity]]: the unrepeatable thisness of a conscious subject. The [[ownership-void|ownership void]] examines why this mineness resists introspection. Authentic existence means owning this particularity, and [[witness-consciousness|witness consciousness]]—awareness aware of itself, not collapsed into content—is the antidote to bad faith.
+Existence is always *mine*—first-person, unrepeatable. Heidegger calls this *Jemeinigkeit*; Sartre expresses it through the pour-soi's radical particularity. Both converge on [[haecceity]]: the unrepeatable thisness of a conscious subject. The [[mine-ness#the-ownership-void|ownership void]] examines why this mineness resists introspection. Authentic existence means owning this particularity, and [[witness-consciousness|witness consciousness]]—awareness aware of itself, not collapsed into content—is the antidote to bad faith.
 
 ## Eastern Approaches: A Third Path
 
@@ -163,7 +163,7 @@ The existentialist-dualist synthesis would face difficulty if:
 - [[haecceity]] — The unrepeatable thisness of conscious subjects
 - [[witness-consciousness]] — Contemplative cultivation of non-identified awareness
 - [[mental-effort]] — The phenomenology of effortful attention
-- [[ownership-void|The Ownership Void]] — Why mineness hides from the subject who bears it
+- [[mine-ness|Mine-ness and the Ownership Void]] — Why mineness hides from the subject who bears it
 - [[self-maintained-cognitive-limits|Self-Maintained Cognitive Limits]] — Convergent evidence across existentialism, Buddhism, psychoanalysis, and evolutionary theory that consciousness actively maintains its own cognitive limits
 - [[consciousness-and-the-phenomenology-of-place]] — How dwelling, mood, and being-in-the-world manifest in the felt character of places
 - [[tenets]] — The Map's foundational commitments

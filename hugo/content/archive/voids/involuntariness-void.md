@@ -58,7 +58,7 @@ The involuntariness operates across several distinct dimensions, each revealing 
 
 **Emotional valence.** You cannot choose not to suffer. Cognitive reframing can alter interpretation, but raw affective tone arrives involuntarily. The [affective-void](/voids/affective-void/) maps the limits of emotional range; the involuntariness void maps the limits of emotional control. The [appetitive-void](/voids/appetitive-void/) adds a further dimension: even what we desire is not chosen but given. Schopenhauer took this seriously: the will is "blind, irrational striving" that operates through us rather than for us. Suffering arises because desire is involuntary and satisfaction impossible.
 
-**The sense of ownership.** As the [ownership-void](/voids/ownership-void/) documents, experience arrives already tagged as *mine*. You cannot disown a headache. The mineness is built into experience prior to any choice—what Zahavi calls "pre-reflective self-awareness," an irrelational self-acquaintance that accompanies all conscious states.
+**The sense of ownership.** As the [ownership-void](/concepts/mine-ness/) documents, experience arrives already tagged as *mine*. You cannot disown a headache. The mineness is built into experience prior to any choice—what Zahavi calls "pre-reflective self-awareness," an irrelational self-acquaintance that accompanies all conscious states.
 
 ## The Spectrum of Control
 
@@ -92,7 +92,7 @@ What does approaching this void feel like?
 
 **The suffering moment.** The involuntariness becomes acutely visible in pain—the realisation that you cannot stop hurting, cannot turn off awareness, cannot exit the experience. Schopenhauer's pessimism emerges from taking this seriously. The will drives experience forward regardless of the subject's preference, and because it has "no goal or purpose," its satisfaction is impossible.
 
-**The ownership paradox.** Experience is involuntary yet irrevocably mine. You cannot disown a migraine. The mineness is constitutive of the experience, not an optional feature. The [ownership-void](/voids/ownership-void/) explores this from the direction of appropriation; the involuntariness void approaches it from the direction of consent. You did not agree to own this experience, yet it is inescapably yours.
+**The ownership paradox.** Experience is involuntary yet irrevocably mine. You cannot disown a migraine. The mineness is constitutive of the experience, not an optional feature. The [ownership-void](/concepts/mine-ness/) explores this from the direction of appropriation; the involuntariness void approaches it from the direction of consent. You did not agree to own this experience, yet it is inescapably yours.
 
 **The meditation edge.** Contemplative traditions report that approaching voluntary cessation involves a paradox of effortful effortlessness. Nirodha does not come from intensified control but from relinquishing the attempt to control while maintaining precise conditions. Thompson (2014) documents how different states—waking, dreaming, lucid dreaming, deep sleep—reveal different relationships between consciousness and voluntary control, suggesting the boundary is not fixed but state-dependent.
 
@@ -114,7 +114,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 
 - [voids](/voids/) — The broader framework for cognitive limits
 - [volitional opacity](/voids/self-opacity/) — Why we cannot observe the mechanisms of willing
-- [ownership-void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
+- [ownership-void](/concepts/mine-ness/) — Why we cannot introspect how experiences become ours
 - [affective-void](/voids/affective-void/) — The emotions we cannot feel
 - [appetitive-void](/voids/appetitive-void/) — The desires we cannot choose
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — Where consciousness goes when it departs involuntarily

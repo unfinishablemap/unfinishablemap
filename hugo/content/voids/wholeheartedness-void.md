@@ -29,7 +29,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
 - '[[noetic-feelings-void]]'
-- '[[ownership-void]]'
+- '[[mine-ness]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
 - '[[conjunction-coalesce]]'
@@ -106,7 +106,7 @@ The void is methodologically apophatic per [evidential-status-discipline](/proje
 - [interested-party-void](/voids/interested-party-void/) — Why one's stakes in being "really committed" make introspective verdicts non-neutral
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Why the felt unity of unreserved commitment cannot audit itself
 - [self-opacity](/voids/self-opacity/) — The general structure of which this void is one face
-- [ownership-void](/voids/ownership-void/) — Adjacent void on the broader ownership of mental events
+- [mine-ness](/concepts/mine-ness/) — Adjacent void on the broader ownership of mental events
 - [apophatic-cartography](/voids/apophatic-cartography/) — Method for surveying voids by their failure shapes
 - [control-theoretic-will](/concepts/control-theoretic-will/) — The decision-theoretic frame the void exceeds
 - [The Participation Void (research-stage)](/research/voids-participation-void-2026-02-17/) — Engaged-identification face of this article's standing-condition void. Where wholeheartedness examines the *standing condition* of being self-identified, participation names the gap between *enacted* and *represented* identification: Heidegger's ready-to-hand/present-at-hand, Merleau-Ponty's tacit cogito, and Polanyi's "we know more than we can tell" converge on the claim that participation is *transformed* by reflective inspection rather than revealed by it — the deeper substrate the regress, disownability, and ambivalence-detection faces all presuppose when they assume an inspectable participatory state. Cap-deferred, awaiting absorption into the regress face's treatment of why higher-order endorsement is structurally arbitrary

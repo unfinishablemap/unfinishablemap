@@ -25,7 +25,7 @@ topics: []
 **Date**: 2026-05-19
 **Article**: [Mine-ness](/concepts/mine-ness/)
 **Previous review**: [2026-05-19 (initial)](/reviews/deep-review-2026-05-19-mine-ness/)
-**Cross-review context**: insights from [ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+**Cross-review context**: insights from [ownership-void](/concepts/mine-ness/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
 **Word count**: 2481 → 2481 (length-neutral; article at 99% of 2500 soft threshold)
 
 ## Pessimistic Analysis Summary

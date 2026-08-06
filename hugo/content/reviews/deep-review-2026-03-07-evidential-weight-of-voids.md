@@ -59,7 +59,7 @@ None.
 - [other-minds-void](/voids/voids-between-minds/)
 - [introspective-opacity](/voids/self-opacity/)
 - [binding-void](/voids/binding-void/)
-- [ownership-void](/voids/ownership-void/)
+- [ownership-void](/concepts/mine-ness/)
 - [questioning-as-evidence](/voids/voids-as-evidence/)
 - [compound-cognitive-limits](/voids/compound-failure-signatures/)
 

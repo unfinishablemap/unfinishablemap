@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-13
-**Article**: [The Ownership Void](/voids/ownership-void/)
+**Article**: [The Ownership Void](/concepts/mine-ness/)
 **Previous reviews**: [2026-05-26](/reviews/deep-review-2026-05-26-ownership-void/), [2026-04-02](/reviews/deep-review-2026-04-02-ownership-void/), [2026-02-25](/reviews/deep-review-2026-02-25-ownership-void/)
 
 Fourth deep review. The three prior reviews all found no critical issues and converged on stability; the 2026-05-26 review carried a complete publisher-of-record web-verification ledger of all eight sources (all real, correctly attributed, accurate venues/years). The only change since is a single 2026-05-29 cross-link integration. **Verdict: metadata-only — the article remains stable, the post-review edit holds, no body prose changed.** Per the convergence discipline (deep_review_over_reviews_converged), this is a settled article; no re-hedging of already-calibrated prose.

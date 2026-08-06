@@ -35,7 +35,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[causal-interface]]'
 - '[[decision-void]]'
-- '[[ownership-void]]'
+- '[[mine-ness]]'
 - '[[appetitive-void]]'
 - '[[affective-void]]'
 - '[[erasure-void]]'
@@ -83,7 +83,7 @@ The two limits interact. Wide control without self-verification would still be a
 
 **Emotional valence and desire.** Raw affective tone arrives involuntarily ([affective-void](/voids/affective-void/)); what we desire is given, not chosen ([appetitive-void](/voids/appetitive-void/)). Schopenhauer's *will* is the historical anchor: basal striving from which the deliberating subject crystallises.
 
-**Ownership.** Experience arrives already tagged as *mine* ([ownership-void](/voids/ownership-void/)); contemplative-clinical work shows practitioners can attenuate this tag on nociceptive signal only gradually and incompletely.
+**Ownership.** Experience arrives already tagged as *mine* ([ownership void](/concepts/mine-ness/#the-ownership-void)); contemplative-clinical work shows practitioners can attenuate this tag on nociceptive signal only gradually and incompletely.
 
 ## The Spectrum of Control
 
@@ -179,7 +179,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 - [decision-void](/voids/decision-void/) — Within-agency void at the deliberation→commitment crossing
 - [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — this void's verification limit seen from outside and at the prokaryotic floor: no third-person observable separates a proto-agent from a complete mechanism, a case of the in-principle undecidability this void anticipates
 - [transit-void](/voids/transit-void/) — Operational complement: thought *generation* vs recurrence's *re-presentation*
-- [ownership-void](/voids/ownership-void/) — Mineness of the unbidden content
+- [mine-ness](/concepts/mine-ness/) — Mineness of the unbidden content
 - [necessary-opacity](/voids/necessary-opacity/) — Representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity, whether the medium reporting the answer *tracks reality* at all
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt texture of intrusion as itself a noetic feeling
 - [inference-void](/voids/inference-void/) — Every act of self-checking is itself an inference with opaque grounding

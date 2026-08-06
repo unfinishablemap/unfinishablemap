@@ -59,7 +59,7 @@ We have access to our mental contents—thoughts, images, feelings—but not to 
 
 This opacity extends from general cognition to the specific case of willing. We know *that* we decided, felt, or believed—but not *how*. In the domain of agency, where the stakes are highest, the opacity is deepest: we experience choosing and acting, but whether these experiences genuinely cause our actions remains hidden from introspection.
 
-This void differs from the [unobservable self](/concepts/self-reference-paradox/) (the observer eluding observation) and the [ownership void](/voids/ownership-void/) (the hidden ground of "mineness"). Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
+This void differs from the [unobservable self](/concepts/self-reference-paradox/) (the observer eluding observation) and the [ownership void](/concepts/mine-ness/) (the hidden ground of "mineness"). Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
 
 ## The Contents/Process Distinction
 

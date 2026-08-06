@@ -137,7 +137,7 @@ The Hardline Empiricist verdict on this cohort: among the strongest calibration-
 
 #### Mine-ness audits across the agency-and-self cluster
 
-- **Builds on**: [concepts/mine-ness.md](/concepts/mine-ness/), [concepts/self-and-self-consciousness.md](/concepts/self-and-self-consciousness/), [voids/ownership-void.md](/voids/ownership-void/), [topics/consciousness-and-the-ownership-problem.md](/topics/consciousness-and-the-ownership-problem/)
+- **Builds on**: [concepts/mine-ness.md](/concepts/mine-ness/), [concepts/self-and-self-consciousness.md](/concepts/self-and-self-consciousness/), [voids/ownership-void.md](/concepts/mine-ness/), [topics/consciousness-and-the-ownership-problem.md](/topics/consciousness-and-the-ownership-problem/)
 - **Would address**: The mine-ness concept article installs the agency/ownership distinction as load-bearing methodology, but the rest of the self-and-self-consciousness cluster does not yet uniformly preserve it. Any article in `concepts/self-and-self-consciousness`, `topics/phenomenology-of-agency-vs-passivity`, `concepts/phenomenology-of-recursive-self-awareness`, or `voids/self-opacity` that treats *self-related* phenomenal features without naming whether they are at the mine-ness layer or the agency layer is a candidate for the discipline's application. This is *refine-draft* work, not new-article creation.
 - **Estimated scope**: Audit + targeted refines (3–6 articles, short edits per article)
 - **Tenet alignment**: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier; the audit preserves the catalogue's first-person-evidence treatment while honouring the [evidential-status-discipline](/project/evidential-status-discipline/) at the self-and-self-consciousness pillar.

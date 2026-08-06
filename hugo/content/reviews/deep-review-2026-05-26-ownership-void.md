@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-05-26
-**Article**: [The Ownership Void](/voids/ownership-void/)
+**Article**: [The Ownership Void](/concepts/mine-ness/)
 **Previous reviews**: [2026-04-02](/reviews/deep-review-2026-04-02-ownership-void/), [2026-02-25](/reviews/deep-review-2026-02-25-ownership-void/)
 
 This is the third deep review. Both prior reviews found no critical issues and concluded the article was stable. This review confirms continued stability and fixes accumulated link drift plus one style-guide cliché.

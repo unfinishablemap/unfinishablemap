@@ -27,7 +27,7 @@ topics: []
 
 **Date**: 2026-05-19
 **Article audited**: [Mine-ness](/concepts/mine-ness/) concept page (canonical terminology source)
-**Inbound articles audited**: [ownership-void](/voids/ownership-void/), [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-opacity](/voids/self-opacity/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+**Inbound articles audited**: [ownership-void](/concepts/mine-ness/), [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-opacity](/voids/self-opacity/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
 **Previous reviews**: [2026-05-19 (initial)](/reviews/deep-review-2026-05-19-mine-ness/), [2026-05-19 (cross-review)](/reviews/deep-review-2026-05-19-mine-ness-cross/)
 **Audit scope**: Cross-link audit — verify the six inbound articles use the canonical terminology established by [concepts/mine-ness.md](/concepts/mine-ness/) and that reciprocal cross-links resolve correctly.
 
@@ -37,7 +37,7 @@ topics: []
 
 The canonical concept page [concepts/mine-ness.md](/concepts/mine-ness/) uses **hyphenated "mine-ness"** in title, body, and prose. Audit found mixed hyphenation across inbound articles:
 
-- **[voids/ownership-void.md](/voids/ownership-void/)**: Mixed — the recent restructuring (ai_modified 2026-05-19T08:40) introduced hyphenated "mine-ness" in the new framing on line 42, but the legacy body retained unhyphenated "mineness" in 8 places (heading, description, body prose, §Relation to Site Perspective). **Fixed**: standardised all body prose and section heading to "mine-ness". Reference titles "What Is It Like to Lack Mineness?" (Billon 2023) and "No Need for Mineness" (Knappik 2022) preserved as published.
+- **[voids/ownership-void.md](/concepts/mine-ness/)**: Mixed — the recent restructuring (ai_modified 2026-05-19T08:40) introduced hyphenated "mine-ness" in the new framing on line 42, but the legacy body retained unhyphenated "mineness" in 8 places (heading, description, body prose, §Relation to Site Perspective). **Fixed**: standardised all body prose and section heading to "mine-ness". Reference titles "What Is It Like to Lack Mineness?" (Billon 2023) and "No Need for Mineness" (Knappik 2022) preserved as published.
 - **[topics/consciousness-and-the-ownership-problem.md](/topics/consciousness-and-the-ownership-problem/)**: One unhyphenated occurrence ("the sense of mineness is stripped from experience") on line 80. **Fixed**: hyphenated.
 - **[concepts/self-and-self-consciousness.md](/concepts/self-and-self-consciousness/)**: One unhyphenated occurrence in Zahavi gloss on line 106 ("simply the 'mineness' (*Jemeinigkeit*) of experience itself"). **Fixed**: hyphenated.
 - **[concepts/mine-ness.md](/concepts/mine-ness/)** (canonical page): Heidegger gloss on line 52 had two unhyphenated occurrences ("Mineness is not merely..." and "a *mode* of mineness, not its abolition"). **Fixed**: hyphenated for full internal canonical consistency.
