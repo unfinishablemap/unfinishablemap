@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T23:25:09+00:00'
+ai_modified: '2026-08-06T23:39:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 23:25:09+00:00
+lastmod: 2026-08-06 23:39:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 23:39 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [sentientism-2026-08-01](/research/sentientism-2026-08-01/)
+- **Original score**: n/a — `scripts/curate.py` no longer exists (the skill's step-3 command is stale); this was a targeted calibration correction to a research note, judged against the live article it seeded.
+- **Source-of-propagation cleanup.** `concepts/sentientism.md` was fixed 2026-08-04 but the research note that seeded the error stayed live and still recommended the retired move, inviting the next writer to re-derive it (per research-note-self-flagged-gaps-propagate-to-the-article). The article was **not** re-opened — it is correct.
+- **L84 — the objection's framing.** The disenhancement objection was recorded in its wholesale-ablation form only (*"pure hedonism appears to permit genetically eliminating pain capacity rather than eliminating the causes of pain"*). Split into a dedicated bullet that distinguishes the two strengths: wholesale ablation of valence, versus Shriver's narrower proposal, which targets only the **affective** dimension of pain — its unpleasantness, how much the animal minds it — on the model of cingulotomy and morphine, leaving nociceptive detection, positive valence, and every other value-bearing feature intact. Cite added verbatim from `concepts/sentientism.md` L131 rather than re-derived: Shriver, A. (2009). "Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled?" *Neuroethics*, 2(3), 115-124.
+- **L89 — the retired recommendation.** *"is a natural reply and should be deployed"* replaced with the article's actual position: value pluralism answers the **wholesale** version only (eliminating the capacity for valence eliminates the capacity for positively valenced experience too, destroying a bearer of value rather than merely a bearer of disvalue); against the **affective-only** version it counts *for* the intervention, since positive valence and every other listed feature survive it. The narrower ground the article does take — negative valence registers damage to the subject as its own, the mode in which a creature's welfare shows up to it from the inside — is recorded as a **direction, not a settled reply**, matching the article's own hedge. The false claim that the objection is *"not currently answered anywhere in the vault"* is corrected; register mirrored from `concepts/sentientism.md` L90 so note and article agree.
+- **Third locus, not in the task's two-item list, same defect family.** L156-157 (Key Debates → Disenhancement) carried the identical seed in a second form — *"**unanswered anywhere in the vault.** … but no Map article makes it"* — plus the same wholesale-only statement of the core disagreement. Fixed on the same terms. Per fix-by-file-leaves-string-siblings-live a task's locus list is a sample, not the population; a fix landing on L84/L89 alone would have left the note still telling the next writer the gap is open.
+- **Citations section**: Shriver inserted as entry 21 under a new "carried from the vault's live article" group, which honestly separates it from the four fetched-this-session entries and the carried-from-Birch-note group; the two unverified entries renumbered 22-23.
+- **Out of scope, deliberately untouched**: the three Korsgaard loci (now L88, L173, L225). Their P3 is blocked pending a verification decision, not an edit — primary-text verification has failed twice by two routes. The new bullet at L84 shifted all three by +1, so the P3's locators in `todo.md` were re-measured in place (zero line-delta, cycle_post's line-based marking unaffected) to stop the stale numbers misdirecting the next worker.
+- **Attribution**: `ai_system: claude-opus-5` **held** — calibration correction, not new authoring. `ai_modified` bumped from a live `date -u` and verified strictly past. `last_deep_review` untouched.
+- **Mirror verified**: `scripts/sync.py` run; `hugo/content/research/sentientism-2026-08-01.md` bodies diff clean (trailing-newline only). *"should be deployed"* now greps to **zero** in `obsidian/`, `hugo/content/`, and `archive/` outside the todo task's own quotation of the string it was minted to remove; *"answered anywhere in the vault"* and *"unanswered anywhere"* both zero across all three trees.
+- **Published**: yes
 
 ## 2026-08-06 23:25 UTC - refine-draft
 

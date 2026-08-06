@@ -4,7 +4,7 @@ created: 2026-08-01
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-5
-ai_modified: 2026-08-06T02:34:00+00:00
+ai_modified: 2026-08-06T23:39:40+00:00
 ---
 
 # Research: Sentientism as a Moral-Status Criterion
@@ -81,12 +81,13 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
   - Bentham's criterion located at *Introduction to the Principles of Morals and Legislation* (1780/1789), **Chapter XVII, Section 1**, footnote to paragraph IV — corrected 2026-08-01 from the "Section 6" recorded here; verified against the primary text (econlib edition), which places the footnote at ch. XVII, §1, ¶IV.
   - Singer's development across *Animal Liberation* (1975; 1993 edn.), *Practical Ethics* (2nd edn. 1993), and *Animal Liberation Now* (2023).
   - The "insuperable line" reasoning: rationality cannot mark the boundary because many humans (infants, the comatose) lack it yet retain protection; suffering constitutes a morally relevant claim independent of cognitive sophistication.
-  - Objections recorded: the **uncertainty problem** (sentience is unobservable in phylogenetically distant taxa); the **disenhancement** objection (pure hedonism appears to permit genetically eliminating pain capacity rather than eliminating the causes of pain); and **wild animal suffering** (sentientism may mandate controversial large-scale intervention).
+  - Objections recorded: the **uncertainty problem** (sentience is unobservable in phylogenetically distant taxa); the **disenhancement** objection (next bullet); and **wild animal suffering** (sentientism may mandate controversial large-scale intervention).
+  - **Disenhancement comes in two strengths, and running them together is the error to avoid.** The *wholesale-ablation* version — pure hedonism appears to permit genetically eliminating the capacity for pain rather than eliminating the causes of pain — is the version summaries usually state, and it is the one the Map's value pluralism answers. The proposal actually in the literature is narrower: Shriver (2009) targets only the **affective** dimension of pain, its unpleasantness and how much the animal minds it, on the model of cingulotomy and morphine, leaving nociceptive detection, positive valence, and every other value-bearing feature intact. A reply that turns on value pluralism therefore counts *for* Shriver's intervention rather than against it. Cite: Shriver, A. (2009). "Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled?" *Neuroethics*, 2(3), 115-124.
   - The entry does distinguish phenomenal suffering from mere behavioural response as the moral trigger — unlike the "Grounds of Moral Status" entry.
 - **Quote (Bentham)**: "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
 - **Quote (Korsgaard 1996: 154)**: "it is a pain to be in pain. And that is not a trivial fact"
 - **Quote (Singer, speciesism)**: the anthropocentric privileging of *Homo sapiens* is arbitrary, "a kind of 'speciesism' as unjustifiable as sexism and racism"
-- **Tenet alignment**: The disenhancement objection is a live threat to any purely hedonic sentientism and is **not currently answered anywhere in the vault**. The Map's phenomenal value realism (multiple phenomenal features, not valence alone, carry value) is a natural reply and should be deployed.
+- **Tenet alignment**: The disenhancement objection is a live threat to any purely hedonic sentientism, and **the vault now answers it** — see the disenhancement paragraphs in `concepts/sentientism.md` (currently around L88-90) and cite them rather than re-deriving. The Map's phenomenal value realism (multiple phenomenal features, not valence alone, carry value) answers the **wholesale-ablation** version only: eliminating the capacity for valence eliminates the capacity for positively valenced experience along with it, destroying a bearer of value and not merely a bearer of disvalue. Against Shriver's **affective-only** version that reply misses, and value pluralism in fact counts *for* the intervention, since positive valence and every other feature on the pluralist's list survive it. The article engages that version on narrower ground — what negative valence does that no other listed feature does is register damage *to the subject as its own*, the mode in which a creature's welfare shows up to it from the inside, so removing it removes the capacity to be harmed in the first person while leaving the harms in place. That is offered as a **direction, not a settled reply**; whether it outweighs the suffering prevented the Map does not claim to have settled.
 
 ### Wikipedia, "The Edge of Sentience"
 - **URL**: https://en.wikipedia.org/wiki/The_Edge_of_Sentience
@@ -153,8 +154,8 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
 
 ### Disenhancement
 - **Sides**: critics of hedonic sentientism vs. Singer-style hedonists.
-- **Core disagreement**: whether a view on which suffering is the only bad licenses genetically removing the capacity to suffer instead of removing the causes of suffering.
-- **Current state**: **unanswered anywhere in the vault.** Phenomenal value realism supplies the materials for a reply (removing a phenomenal capacity destroys a bearer of positive value too), but no Map article makes it.
+- **Core disagreement**: whether a view on which suffering is the only bad licenses removing the capacity to suffer instead of removing the causes of suffering. Two strengths: wholesale ablation of valence, and Shriver's (2009) affective-only intervention, which leaves nociceptive detection and positive valence intact.
+- **Current state**: **answered in `concepts/sentientism.md` as of 2026-08-06** — no longer an open vault gap. Phenomenal value realism answers the wholesale version (removing a phenomenal capacity destroys a bearer of positive value too); against the affective-only version it counts *for* the intervention, and the article engages that version on the narrower ground that negative valence is how a creature's welfare shows up to it from the inside, offered as a direction rather than a settled reply.
 
 ## Historical Timeline
 
@@ -231,7 +232,11 @@ Carried from the vault's prior verified research note (`birch-edge-of-sentience-
 19. Birch, J., Burn, C., Schnell, A., Browning, H., & Crump, A. (2021). *Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans*. UK DEFRA.
 20. The New York Declaration on Animal Consciousness (2024). https://sites.google.com/nyu.edu/nydeclaration/declaration
 
+Carried from the vault's live article (added 2026-08-06; `concepts/sentientism.md` already carries this reference verbatim):
+
+21. Shriver, A. (2009). "Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled?" *Neuroethics*, 2(3), 115-124.
+
 Unverified — do not publish as given until checked:
 
-21. Kammerer, F. (2022). "Ethics without sentience: Facing up to the probable insignificance of phenomenal consciousness." *Journal of Consciousness Studies* — volume, issue, and pages unverified.
-22. Shepherd, J. (2018). *Consciousness and Moral Status*. Routledge. — not reached (403).
+22. Kammerer, F. (2022). "Ethics without sentience: Facing up to the probable insignificance of phenomenal consciousness." *Journal of Consciousness Studies* — volume, issue, and pages unverified.
+23. Shepherd, J. (2018). *Consciousness and Moral Status*. Routledge. — not reached (403).
