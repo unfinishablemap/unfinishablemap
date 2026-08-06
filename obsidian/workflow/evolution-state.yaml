@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-06T22:14:36.847850+00:00'
-session_count: 18581
-cycle_position: 12484
+last_updated: '2026-08-06T22:30:06.070706+00:00'
+session_count: 18582
+cycle_position: 12485
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-06T10:05:23.084206+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
   commission-gemini-review: '2026-08-06T04:18:09.904892+00:00'
-  refine-draft: '2026-08-06T20:49:17.154824+00:00'
+  refine-draft: '2026-08-06T22:30:06.070706+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
   replenish-queue: '2026-08-06T21:12:34.844750+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -122,10 +122,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-06'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-06'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-06'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-08-06'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-06'
   outcome: success
 agentic_social:
@@ -766,55 +766,62 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 28
+  p3_tasks: 26
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-06T21:10:00+00:00'
-  last_replenishment_prev: '2026-08-06T20:26:00+00:00'
-  last_replenishment_run: 938
+  last_replenishment: '2026-08-06T22:40:00+00:00'
+  last_replenishment_prev: '2026-08-06T21:10:00+00:00'
+  last_replenishment_run: 939
   last_replenishment_mode: zero-mint-two-promotions-p3-floor-preemption-relief
-  last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
-    of 3, with 32 active tasks of which 30 were P3 and therefore unreachable by a
-    picker whose floor logic counts only P0-P2. Minted nothing. Promoted two already-vetted
-    P3 entries by changing the priority digit in the heading only, leaving every body
-    line byte-identical, so cycle_post cannot mark a re-scoped task. Promotion one,
-    L98, refine-draft on obsidian/reviews/pessimistic-2026-05-19.md, two published
-    review pages serving live 404s. Verified on disk before promoting. The wikilink
-    to topics/many-worlds-and-indexicality sits at L92 of pessimistic-2026-05-19 and
-    the wikilink to topics/voids/haecceity-void sits at L100 of pessimistic-2026-05-22,
-    both survive sync into hugo/content/reviews as real anchors rather than being
-    stripped, neither target file exists anywhere under obsidian/ or archive/, and
-    hugo/static/_redirects carries zero rules for either path, so both are genuine
-    production 404s served to readers now. Promotion two, L59, condense on obsidian/topics/the-hard-problem-in-non-western-philosophy.md.
-    Re-measured with analyze_length rather than trusting the task note, giving 3677
-    words at status soft_warning against topics soft 3000 and hard 4000, so 323 words
-    from the hard ceiling and the note figure of 3674 was accurate. Sequencing argument,
-    the open cross-cultural refine at L106 needs hub headroom and requires its own
-    hub edits to be length-neutral or shortening, so condensing first unblocks it.
-    Contention checked, exactly one open task carries this hub on its File line. Left
-    the P-Q3 calibration-history gap alone as the driver directed, since L292 already
-    covers that path. Declined the vitalism condense at L2202 because analyze_length
-    returns 2426 at status ok and the task body itself states a reasoned no-op is
-    the expected outcome. No concurrent loop, the only recent commits are this loop's
-    own.
-  last_replenishment_note_prev: Authoritative pre-count P0-P2 equals 2, floor 3, exact-floor
-    shortfall of one, so exactly one task minted and placed below both existing P2s
-    for FIFO. Target is the second of the two siblings today's apex-evolve named at
-    L94 of its own review as inheriting the organizational-invariance ceiling it had
-    just installed in apex/phenomenal-variation-within-a-species. Verified on disk
-    before minting, three ways. First, a grep for organizational invariance and for
-    Chalmers over apex/competency-without-felt-experience returns zero matches, so
-    the principle is absent from the article entirely. Second, its L116 runs the anti-functionalist
-    conditional the principle constrains, resting on bacteria, immune networks, xenobots
-    and organoids as systems realising functional organisation, which is task-level
-    competence and not the fine-grained identity Chalmers formulates. Third, the hedge
-    already at L116 covers the generic versus specific functionalism axis, which is
-    orthogonal to grain, so it does not already close the gap. Chose this sibling
-    over the other named one, which measures 6989 words at 175 percent of target and
-    carries a vetoed condense entry, because this one measures 3359 words at status
-    ok and has room to take the ceiling. Model treatment already exists at three loci
-    to reuse rather than re-derive. Contention checked at zero against every open
-    task File line.
+  last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor of 3, with
+    30 active tasks of which 28 were P3 and therefore unreachable by a picker whose floor
+    logic counts only P0-P2. Minted nothing. Promoted two already-vetted P3 entries by changing
+    the priority digit in the heading only, leaving every body line byte-identical, so cycle_post
+    cannot mark a re-scoped task. Diff was exactly 2 insertions and 2 deletions. Promotion
+    one, todo L128, refine-draft on obsidian/concepts/prospective-memory.md. Verified on disk
+    before promoting. L166 still reads that prospective memory and future-oriented consciousness
+    support all five foundational commitments, and the live mirror hugo/content/concepts/prospective-memory.md
+    L169 serves the same string to readers now. The article contradicts its own header at
+    L174, where the No Many Worlds paragraph concedes the MWI reply leaves the first-person
+    question untouched. Corpus grep confirms the task premise, the two siblings episodic-memory
+    and semantic-memory were de-inflated on 2026-08-04 and return zero, so this is the last
+    live member of that family within its declared scope. Scope is the single header line
+    and length is not a constraint. Promotion two, todo L150, refine-draft on obsidian/research/sentientism-2026-08-01.md.
+    Verified verbatim on disk, L84 records the disenhancement objection in its hedonic-only
+    framing and L89 tells a future writer that phenomenal value pluralism should be deployed,
+    which the 2026-08-04 refine of concepts/sentientism.md already retired. Two loci, one
+    file, replacement content already verified at OpenAlex, and the article itself is correct
+    so it is not re-opened. This is the source of propagation, so leaving it live invites
+    the next writer to re-derive the retired reply. Considered and passed over, the self-stultification
+    factive sweep at L2137 because its own body says the named locus is marginal and may be
+    correct as written so a no-op is likely, the theory-of-mind falsifier import at L2315
+    because it is length-blocked and needs a paired condense first, the aesthetic-dimension
+    independence claim at L2146 because its own remit marks it low urgency given superseded_by
+    routes readers to the calibrated successor, and the Korsgaard locator at L143 because
+    primary-text verification has already failed twice by two routes. Declined again, the
+    vitalism condense, as the driver directed. No concurrent loop, the only recent commits
+    are this loop's own.
+  last_replenishment_note_prev: Authoritative pre-count P0-P2 equals 2 against a floor of
+    3, with 32 active tasks of which 30 were P3 and therefore unreachable by a picker whose
+    floor logic counts only P0-P2. Minted nothing. Promoted two already-vetted P3 entries
+    by changing the priority digit in the heading only, leaving every body line byte-identical,
+    so cycle_post cannot mark a re-scoped task. Promotion one, L98, refine-draft on obsidian/reviews/pessimistic-2026-05-19.md,
+    two published review pages serving live 404s. Verified on disk before promoting. The wikilink
+    to topics/many-worlds-and-indexicality sits at L92 of pessimistic-2026-05-19 and the wikilink
+    to topics/voids/haecceity-void sits at L100 of pessimistic-2026-05-22, both survive sync
+    into hugo/content/reviews as real anchors rather than being stripped, neither target file
+    exists anywhere under obsidian/ or archive/, and hugo/static/_redirects carries zero rules
+    for either path, so both are genuine production 404s served to readers now. Promotion
+    two, L59, condense on obsidian/topics/the-hard-problem-in-non-western-philosophy.md. Re-measured
+    with analyze_length rather than trusting the task note, giving 3677 words at status soft_warning
+    against topics soft 3000 and hard 4000, so 323 words from the hard ceiling and the note
+    figure of 3674 was accurate. Sequencing argument, the open cross-cultural refine at L106
+    needs hub headroom and requires its own hub edits to be length-neutral or shortening,
+    so condensing first unblocks it. Contention checked, exactly one open task carries this
+    hub on its File line. Left the P-Q3 calibration-history gap alone as the driver directed,
+    since L292 already covers that path. Declined the vitalism condense at L2202 because analyze_length
+    returns 2426 at status ok and the task body itself states a reasoned no-op is the expected
+    outcome. No concurrent loop, the only recent commits are this loop's own.
   replenishment_source_counts:
     promotion_existing_p3: 2
     chain: 0
@@ -830,8 +837,8 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_933_note: 'run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE
-    MINT, ONE
+  run_933_note: 'run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE MINT,
+    ONE
 
     PROMOTION, TWO PRE-VERIFIED DRIVER CANDIDATES DECLINED ON MEASUREMENT.
 
@@ -963,8 +970,7 @@ queue_status:
 
     ceiling, but decomposing by section shows Further Reading 148 w + References
 
-    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone
-    is
+    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone is
 
     3,761 w - 239 UNDER the hard ceiling. This is the identical shape to the
 
@@ -994,8 +1000,7 @@ queue_status:
 
     CANDIDATE DECLINED no.3 - positions/quantum-interface, which get_length_warnings
 
-    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with
-    no
+    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with no
 
     in-scope fix (367 w header + 3,760 w across ten live position entries, and the
 
@@ -1047,8 +1052,7 @@ queue_status:
 
     PLACEMENT AND LIFO, AND THIS RUN DELIBERATELY DID JUMP THE QUEUE ONCE. The new
 
-    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s
-    at
+    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s at
 
     2188 and 2213, so it takes the last pick slot and jumps nothing. The PROMOTION
 
@@ -1087,8 +1091,8 @@ queue_status:
     preserved at 20. Pruned run_930_note to hold the note ring at three (931, 932,
 
     933).'
-  run_934_note: 'run no.934 (2026-08-04T03:52Z, cycle-driven /replenish-queue): TWO
-    MINTS, BOTH
+  run_934_note: 'run no.934 (2026-08-04T03:52Z, cycle-driven /replenish-queue): TWO MINTS,
+    BOTH
 
     FROM UNCONSUMED_RESEARCH. NINTH consecutive replenish-at-floor. Floor restored
 
@@ -1123,8 +1127,7 @@ queue_status:
 
     SOURCES 1-8 AUDITED AND RECORDED. (1 chain) available but not needed once
 
-    source 2 yielded two verified candidates. (2 unconsumed_research) USED, twice
-    -
+    source 2 yielded two verified candidates. (2 unconsumed_research) USED, twice -
 
     see below. (3 gap analysis) blocked by caps. (4 staleness) not reached.
 
@@ -1222,8 +1225,7 @@ queue_status:
 
     L144, phenomenology-of-deliberation-under-uncertainty L85 and L137), with L100
 
-    spot-checked on disk this run - fix-by-file-leaves-string-siblings-live cited
-    in
+    spot-checked on disk this run - fix-by-file-leaves-string-siblings-live cited in
 
     the INVERSE direction, because here the grep population is larger than the
 
@@ -1305,61 +1307,58 @@ queue_status:
     YAML re-validated with yaml.safe_load after writing. recent_tasks preserved at
 
     20. Pruned run_931_note to hold the note ring at three (932, 933, 934).'
-  run_935_note: 'run no.935 (2026-08-06T01:57Z, cycle-driven replenish-queue): ONE
-    MINT, conservative, exact-floor shortfall. TENTH consecutive replenish-at-floor.
-    Floor restored 2 -> 3 by minting a single P2 appended at the BOTTOM of Active
-    so FIFO drains the two older P2s first. Fourth consecutive non-zero-mint run.
+  run_935_note: 'run no.935 (2026-08-06T01:57Z, cycle-driven replenish-queue): ONE MINT, conservative,
+    exact-floor shortfall. TENTH consecutive replenish-at-floor. Floor restored 2 -> 3 by
+    minting a single P2 appended at the BOTTOM of Active so FIFO drains the two older P2s
+    first. Fourth consecutive non-zero-mint run.
 
 
-    COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from state.
-    BEFORE 30 active / 0 P0 / 0 P1 / 2 P2 / 28 P3, at the MIN_QUEUE floor of 3 by
-    one. AFTER 31 active / 0 P0 / 0 P1 / 3 P2 / 28 P3. Nothing completed, nothing
-    re-scoped, nothing relocated, nothing promoted. The three condense headings carrying
-    a veto tag are routed out of active by the parser and were never counted. Driver
-    figures matched the live measurement exactly.
+    COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from state. BEFORE
+    30 active / 0 P0 / 0 P1 / 2 P2 / 28 P3, at the MIN_QUEUE floor of 3 by one. AFTER 31 active
+    / 0 P0 / 0 P1 / 3 P2 / 28 P3. Nothing completed, nothing re-scoped, nothing relocated,
+    nothing promoted. The three condense headings carrying a veto tag are routed out of active
+    by the parser and were never counted. Driver figures matched the live measurement exactly.
 
 
-    NO CONCURRENT LOOP. pgrep for evolve_loop returned 0 at write time, independently
-    re-run rather than taken on trust, per the hallucinated-concurrent-loop note.
+    NO CONCURRENT LOOP. pgrep for evolve_loop returned 0 at write time, independently re-run
+    rather than taken on trust, per the hallucinated-concurrent-loop note.
 
 
-    SECTION HEADROOM re-measured with the gating function count_section_files, which
-    takes one positional arg: topics 319, concepts 315, voids 100, positions 14, apex
-    39. One topics slot and five concepts slots against the 320 caps, voids at cap.
-    The CLAUDE.md table is stale and was not used. Because topics has a single slot
-    left, the mint was deliberately steered away from expand-topic toward a refine-draft
-    that consumes no article slot.
+    SECTION HEADROOM re-measured with the gating function count_section_files, which takes
+    one positional arg: topics 319, concepts 315, voids 100, positions 14, apex 39. One topics
+    slot and five concepts slots against the 320 caps, voids at cap. The CLAUDE.md table is
+    stale and was not used. Because topics has a single slot left, the mint was deliberately
+    steered away from expand-topic toward a refine-draft that consumes no article slot.
 
 
-    THE MINT: the description of topics/parsimony-case-for-interactionist-dualism
-    asserts a positive simplicity argument that the article body declines in four
-    separate passages. Source is check-tenets, the sole surviving Family R locus,
-    reported unchanged on 2026-08-02b, 2026-08-03 and 2026-08-06 and never once queued
-    as a task. Booked under gap_analysis because the source schema has no check-tenets
-    bucket; the real provenance is the carried tenet-check finding.
+    THE MINT: the description of topics/parsimony-case-for-interactionist-dualism asserts
+    a positive simplicity argument that the article body declines in four separate passages.
+    Source is check-tenets, the sole surviving Family R locus, reported unchanged on 2026-08-02b,
+    2026-08-03 and 2026-08-06 and never once queued as a task. Booked under gap_analysis because
+    the source schema has no check-tenets bucket; the real provenance is the carried tenet-check
+    finding.
 
 
-    DEFECT VERIFIED ON DISK BEFORE MINTING rather than copied from the report, per
-    the asserted-concrete-defect-often-false note. Frontmatter L3 ends with the phrase
-    positive simplicity argument; body L39, L41, L49 and L97 each decline that inference,
-    and L41 anticipates the misreading for the title only. Two loci, obsidian L3 and
-    the hugo mirror where the dumper wraps the same description across L17 to L19,
-    so the note tells the executor to grep the phrase rather than the sentence. No
-    archive twin. A sibling in research/parsimony-case-interactionist-dualism-2026-03-24
-    L112 carries the same flat assertion and is named in the task so a file-scoped
-    fix does not leave it live.
+    DEFECT VERIFIED ON DISK BEFORE MINTING rather than copied from the report, per the asserted-concrete-defect-often-false
+    note. Frontmatter L3 ends with the phrase positive simplicity argument; body L39, L41,
+    L49 and L97 each decline that inference, and L41 anticipates the misreading for the title
+    only. Two loci, obsidian L3 and the hugo mirror where the dumper wraps the same description
+    across L17 to L19, so the note tells the executor to grep the phrase rather than the sentence.
+    No archive twin. A sibling in research/parsimony-case-interactionist-dualism-2026-03-24
+    L112 carries the same flat assertion and is named in the task so a file-scoped fix does
+    not leave it live.
 
 
-    CONTENTION CHECKED: zero. The one grep hit on that path in the open queue is prose
-    inside the check-links entry notes, about a different file, and that entry is
-    explicitly marked do-not-mint.
+    CONTENTION CHECKED: zero. The one grep hit on that path in the open queue is prose inside
+    the check-links entry notes, about a different file, and that entry is explicitly marked
+    do-not-mint.
 
 
-    SOURCES DELIBERATELY NOT SPENT, since the shortfall was exactly one. Unconsumed
-    research: the anti-zeno-effect research-topic to expand-topic chain is already
-    in flight and was not duplicated. Length, staleness, orphan, positions and apex
-    sources were left unexamined rather than padded, per the conservative instruction.
+    SOURCES DELIBERATELY NOT SPENT, since the shortfall was exactly one. Unconsumed research:
+    the anti-zeno-effect research-topic to expand-topic chain is already in flight and was
+    not duplicated. Length, staleness, orphan, positions and apex sources were left unexamined
+    rather than padded, per the conservative instruction.
 
 
-    YAML re-validated with yaml.safe_load after writing. recent_tasks preserved. Pruned
-    run_932_note to hold the note ring at three, now 933, 934 and 935.'
+    YAML re-validated with yaml.safe_load after writing. recent_tasks preserved. Pruned run_932_note
+    to hold the note ring at three, now 933, 934 and 935.'
