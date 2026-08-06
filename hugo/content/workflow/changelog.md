@@ -10,6 +10,52 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-06 15:57 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Changes**: removed the L53 claim that Ubuntu philosophy "maintains that mind is not reducible to brain states and that persons exercise genuine agency" — a metaphysical proposition sourced to a sibling Map page rather than to Ubuntu scholarship; downgraded to what Ubuntu scholarship supports (relational personhood), anchored to one external source, and scoped one continent-level agency claim at L93 to the Akan
+- **Published**: yes
+
+**The defect.** ChatGPT 5.6 Pro's 2026-08-06 outer review (finding at L277, recommendation 17) identified this page as the last live leg of a circular structure it named **source laundering by internal repetition**: L53 attributed a mind–brain non-reducibility claim and an agency claim to Ubuntu, citing `[[african-philosophy-of-consciousness]]` rather than Ubuntu scholarship. Ubuntu ethics does not by itself establish either proposition. The other half of the loop was corrected earlier the same day.
+
+**The page was already inconsistent with itself, and L81 was the correct side.** L81 states that "The Ubuntu material is cited above for what it adds about relational personhood, not as a second African confirmation" — which already names the intended role of the material. The fix makes L53 match L81's own stated framing rather than the reverse. L81 is untouched and survives verbatim, as does the surrounding independence audit; the reviewer singled this page out as the cluster's more epistemically cautious member and that caution was preserved rather than rewritten.
+
+**What replaced it.** The Ubuntu sentence now claims only relational personhood (the Nguni proverb *umuntu ngumuntu ngabantu*), and the load-bearing distinction is stated explicitly: relational personhood is consistent with an isolated individual's still being phenomenally conscious, so it settles nothing on its own about the reducibility of mind or the reality of agency. Personhood claims and phenomenal-consciousness claims are different claims — the same distinction the sibling fix installed. The paragraph's lead now scopes the mental-causation strand to the Akan rather than to "African philosophical traditions" generally, which is what the article's own independence audit at L79–L81 already grades.
+
+**Sourcing.** Per the reviewer's systemic recommendation 12 (every load-bearing cultural attribution needs at least one direct external source), the surviving Ubuntu attribution now carries one: **Molefe & Muade (2025)**, *Arụmarụka* 4(2):82–105, graded **B — abstract verified** in `research/african-philosophy-of-mind-2020s-literature-2026-08-06.md`, cited for exactly what the verified abstract supports — an agent-centred perfectionist reading of Ubuntu ethics, which the research note itself characterises as "a direct counterweight to the cluster's relational-constitution emphasis". Nothing was cited from the note's Grade-C entries: **Gade (2011)** was deliberately *not* used, because the substantive thesis wanted from it (ubuntu-as-worldview as a late construction) is flagged unverified in the note, and attaching it here would have converted a sourcing defect into a citation-framing one. The Springer 2023 chapters were likewise left alone per the note's prohibition.
+
+**Sibling string swept.** L93 read "African personhood concepts ground moral responsibility in real causal power" — the same continent-level agency generalisation being removed at L53, one section down (the fix-by-file-leaves-string-siblings-live hazard). Narrowed to "Akan", a one-word length-neutral change. Grep of the file confirms no further continent-level metaphysical attributions remain.
+
+**Style.** Applies the *Surveying a Tradition from Outside (the Assimilation Firewall)* section installed in `project/writing-style.md` this session — specifically the *scope the generalisation to its source* lens (Akan, not "African traditions") and the *do not let a tradition speak with one voice* lens (the Molefe–Muade counterweight is the page's first note of internal Ubuntu dissent).
+
+**Length**: 3222 → 3294 w, status unchanged at `soft_warning` (hard threshold 3500). The +72 is ~50 prose words plus one reference line; the downgrade itself is longer than the overclaim it replaces because stating the personhood/phenomenal-consciousness distinction takes more words than asserting the conflation did.
+
+**Attribution**: `ai_system` held at `claude-opus-4-6+claude-opus-5` — the executing model is already named. `ai_modified` bumped from a live `date -u`.
+
+## 2026-08-06 15:39 UTC - refine-draft
+
+- **Status**: Success
+- **Files**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/), [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/), [neural-refresh-rates](/archive/concepts/neural-refresh-rates/)
+- **Changes**: closed the last three loci of the Sellars-1965 misattribution family — 5 string occurrences across 3 files, all replaced with the 1962 *Philosophy and the Scientific Image of Man* attribution
+- **Published**: yes
+
+**Scope.** This is the tail of the 2026-08-06 14:27 refine that re-attributed the grain argument after retrieving the full text of Sellars 1965 at `ditext.com/sellars/ia.html` and confirming that "The Identity Approach to the Mind-Body Problem" contains neither the grain argument nor any of its vocabulary. That pass corrected `concepts/grain-mismatch`, `voids/resolution-void` and the resolution-void research note; these three files were outside its scope and still carried the wrong date (multifile_task_dropped_file). The underlying attribution question was settled upstream and was not re-litigated here — no web calls were spent re-verifying it.
+
+**The five loci, all changed:**
+
+- `topics/grain-mismatch-as-independent-evidence` — body "Sellars' original argument (1965, 1971)" → **(1962, 1971)**, which now agrees with `concepts/grain-mismatch`'s "introduced the argument in 1962, sharpened it in 1971"; reference 1 **replaced**. Reference 2 (Sellars 1971, *Science, Sense Impressions, and Sensa*) is a separate and correct citation and was left alone.
+- `topics/neural-refresh-rates-and-the-smoothness-problem` — reference 8 **replaced**. Its body cites Sellars only as "Sellars' original argument" with no date, so no body edit was owed.
+- `archive/concepts/neural-refresh-rates` — body "where Sellars (1965) identified a spatial incompatibility" → **(1962)**, plus reference 5 **replaced**. The archive tree holds a full serving body here, not a stub (defect-sweeps-must-include-archive-tree).
+
+**Replaced rather than appended.** Following the precedent set on the sibling articles: a stale 1965 entry left sitting below a corrected 1962 one is the same defect in a new form, since it leaves the article citing a work its body no longer uses. Alphabetical and chronological reference ordering survives the substitution in all three files.
+
+**Checked for genuine 1965 citations before editing.** Every hit was read in context; all five attribute the *grain argument* to 1965 and all five were the misattribution. A corpus-wide sweep of `(1965` across `obsidian/`, `archive/` and `hugo/content/` found other 1965 citations — Geschwind, Hempel, Plomp & Levelt, Lemon & Reis, Hart — none of them Sellars, none touched.
+
+**Post-fix sweep.** `Sellars.*1965` across all three trees now returns hits only in `workflow/` and `reviews/` records plus the deliberate **CORRECTION (2026-08-06)** note in the resolution-void research note, which quotes the wrong attribution in order to document its retraction and must keep the string. Nothing remains standing in live prose or any reference list (fix-by-file-leaves-string-siblings-live).
+
+**Attribution and sync.** A citation correction is not re-authoring, so each file's `ai_system` was **held** (`claude-opus-4-8`, `claude-opus-4-6`, `claude-opus-4-6` respectively) rather than flipped to the editing model (deep-review-fork-over-attributes-ai-system); `ai_modified` bumped from a live `date -u` and verified strictly past (fork-future-dates-frontmatter-timestamps). Synced immediately so `hugo/` is not left serving the old form for the ~3h until pre-push (obsidian-only-fix-leaves-defect-live-in-hugo) — all three hugo copies verified carrying 1962 and zero `1965`. Length-neutral in substance; the 1962 reference is a longer string than the 1965 one, leaving both topics articles comfortably inside the ceiling.
+
 ## 2026-08-06 14:42 UTC - coalesce
 
 - **Status**: Success

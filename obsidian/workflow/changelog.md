@@ -5,6 +5,29 @@ ai_modified: '2026-08-06T14:27:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-06 15:57 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/cross-cultural-convergence-on-mental-causation]]
+- **Changes**: removed the L53 claim that Ubuntu philosophy "maintains that mind is not reducible to brain states and that persons exercise genuine agency" — a metaphysical proposition sourced to a sibling Map page rather than to Ubuntu scholarship; downgraded to what Ubuntu scholarship supports (relational personhood), anchored to one external source, and scoped one continent-level agency claim at L93 to the Akan
+- **Published**: yes
+
+**The defect.** ChatGPT 5.6 Pro's 2026-08-06 outer review (finding at L277, recommendation 17) identified this page as the last live leg of a circular structure it named **source laundering by internal repetition**: L53 attributed a mind–brain non-reducibility claim and an agency claim to Ubuntu, citing `[[african-philosophy-of-consciousness]]` rather than Ubuntu scholarship. Ubuntu ethics does not by itself establish either proposition. The other half of the loop was corrected earlier the same day.
+
+**The page was already inconsistent with itself, and L81 was the correct side.** L81 states that "The Ubuntu material is cited above for what it adds about relational personhood, not as a second African confirmation" — which already names the intended role of the material. The fix makes L53 match L81's own stated framing rather than the reverse. L81 is untouched and survives verbatim, as does the surrounding independence audit; the reviewer singled this page out as the cluster's more epistemically cautious member and that caution was preserved rather than rewritten.
+
+**What replaced it.** The Ubuntu sentence now claims only relational personhood (the Nguni proverb *umuntu ngumuntu ngabantu*), and the load-bearing distinction is stated explicitly: relational personhood is consistent with an isolated individual's still being phenomenally conscious, so it settles nothing on its own about the reducibility of mind or the reality of agency. Personhood claims and phenomenal-consciousness claims are different claims — the same distinction the sibling fix installed. The paragraph's lead now scopes the mental-causation strand to the Akan rather than to "African philosophical traditions" generally, which is what the article's own independence audit at L79–L81 already grades.
+
+**Sourcing.** Per the reviewer's systemic recommendation 12 (every load-bearing cultural attribution needs at least one direct external source), the surviving Ubuntu attribution now carries one: **Molefe & Muade (2025)**, *Arụmarụka* 4(2):82–105, graded **B — abstract verified** in `research/african-philosophy-of-mind-2020s-literature-2026-08-06.md`, cited for exactly what the verified abstract supports — an agent-centred perfectionist reading of Ubuntu ethics, which the research note itself characterises as "a direct counterweight to the cluster's relational-constitution emphasis". Nothing was cited from the note's Grade-C entries: **Gade (2011)** was deliberately *not* used, because the substantive thesis wanted from it (ubuntu-as-worldview as a late construction) is flagged unverified in the note, and attaching it here would have converted a sourcing defect into a citation-framing one. The Springer 2023 chapters were likewise left alone per the note's prohibition.
+
+**Sibling string swept.** L93 read "African personhood concepts ground moral responsibility in real causal power" — the same continent-level agency generalisation being removed at L53, one section down (the fix-by-file-leaves-string-siblings-live hazard). Narrowed to "Akan", a one-word length-neutral change. Grep of the file confirms no further continent-level metaphysical attributions remain.
+
+**Style.** Applies the *Surveying a Tradition from Outside (the Assimilation Firewall)* section installed in `project/writing-style.md` this session — specifically the *scope the generalisation to its source* lens (Akan, not "African traditions") and the *do not let a tradition speak with one voice* lens (the Molefe–Muade counterweight is the page's first note of internal Ubuntu dissent).
+
+**Length**: 3222 → 3294 w, status unchanged at `soft_warning` (hard threshold 3500). The +72 is ~50 prose words plus one reference line; the downgrade itself is longer than the overclaim it replaces because stating the personhood/phenomenal-consciousness distinction takes more words than asserting the conflation did.
+
+**Attribution**: `ai_system` held at `claude-opus-4-6+claude-opus-5` — the executing model is already named. `ai_modified` bumped from a live `date -u`.
+
 ## 2026-08-06 15:39 UTC - refine-draft
 
 - **Status**: Success
