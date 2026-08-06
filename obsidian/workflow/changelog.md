@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T04:02:06+00:00'
+ai_modified: '2026-08-06T04:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 04:30 UTC - outer-review — Claude Opus 5 on african-philosophy-of-consciousness: an author-stance inversion that two internal reviews had already certified
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`), Research mode, 246 sources
+- **File**: [[reviews/outer-review-2026-08-06-claude-opus-5]]
+- **Claims verified**: 8 checked (5 confirmed on disk and externally, 1 disputed, 2 left unverified and flagged)
+- **High-value findings**: 3 new (the rest converge with the same-day ChatGPT review)
+- **Tasks generated**: 1 new (P1) + 3 existing tasks amended
+- **Published**: pending next sync
+
+**Headline.** The second reviewer of the day on the same article, reaching a harsher verdict — "demote to coherence-only, with a live case for delete" — but its value is in two specific findings the ChatGPT review missed entirely.
+
+**Finding 1: Wiredu is recruited for the conclusion he argues against.** L83 says Wiredu suggests "the *sunsum* may have quasi-physical aspects" and concludes his work "places African philosophy closer to the Map's interactionist starting position". Verified against sources outside both reviews: the contested item is the ***okra***, not the sunsum — where others read the okra as spiritual and non-physical, Wiredu reads it as quasi-physical and declines to treat mind as a substance at all. Quasi-physicalism holds the universe is intelligible within the framework of science. It is a **naturalist counter-case to the article's thesis**, presented on the page as corroboration.
+
+**Finding 2: the meta description asserts what the body denies.** `description:` at L3 says these traditions form "an approach that **independently supports dualism**". L37 and L93 explicitly deny it. The body is right; the description is wrong, and it is what search engines and social cards read — confirmed live in the published mirror ([[navigation-surfaces-carry-unreviewed-claims]]).
+
+**The methodological result is the ratification, not the defects.** Both had already been **inspected and endorsed** by the Map's own reviews. [[reviews/deep-review-2026-07-17-african-philosophy-of-consciousness]] L37 marks the Gyekye tripartite attribution "real-correct". [[reviews/deep-review-2026-05-31-african-philosophy-of-consciousness]] L29 records that Wiredu treats **both okra and sunsum** as quasi-material — then rates the article's narrower sunsum-only wording "accurate, if narrower than his full view". The disconfirming fact was in hand and the narrowing was waved through. These defects were certified, not missed ([[over-concession-gets-ratified-not-merely-missed]]).
+
+**A blocker cleared for the sibling task.** The 2026-08-06 ChatGPT task carried an explicit "NOT yet verified — verify at the publisher before editing" hold on the Gyekye claim (scanned PDF, 502'd thesis). Independent confirmation this pass — the secondary literature titles a paper "An Analysis of Gyekye's *Dualistic* Conception of the Human Person", and the *Essay*'s p. 99 section is "Relation of okra (soul) and honam (body)", a two-term relation — resolves it. That task is now unblocked, with the nuance recorded that Gyekye does use all three terms; what is misattributed is the tripartite *conclusion*.
+
+**One finding disputed and dropped.** The review says both companion convergence pages inherit the evidential-independence failure. `topics/cross-traditional-convergence-on-consciousness-irreducibility` does not: L102 already marks the African strand "more provisional", says it rests on broad characterisation rather than text-level demonstration, and flags it as needing to be firmed up; L142 warns against reading methodology, traditions and tenet-commitment as three independent confirmations. It counts African thought as one provisional data point, not five votes. No task minted ([[replenish-asserted-concrete-defect-often-false]]).
+
+**Task discipline.** Three reviewers are auditing this one article this cycle and Gemini is still pending, so the pass minted **one** new P1 covering both uncovered loci and amended three existing tasks in place rather than stacking near-duplicates on the same file ([[outer-review-same-file-task-pileup]]). The reviewer's DELETE recommendation is recorded but not adopted — it rests partly on an argument about the article's purpose rather than on a defect, and every specific defect is repairable in place.
+
+**Extraction.** Blob download, 23,353 chars, body-stability sentinel stable across a 10s window before extraction.
 
 ## 2026-08-06 04:02 UTC - outer-review — ChatGPT 5.6 Pro on african-philosophy-of-consciousness: claim-to-source failures and a verified cross-article contradiction
 
