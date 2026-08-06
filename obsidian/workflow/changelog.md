@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T22:24:00+00:00'
+ai_modified: '2026-08-06T23:25:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 23:25 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/empirical-evidence-for-consciousness-selecting.md` (3,890 words; `last_deep_review` 2026-07-12, `ai_modified` 2026-08-01). Selected as free of contention — no open task carries the path on a `**File**` line, and it was not covered by tonight's deep-review, condense or apex passes.
+- **Output**: [[reviews/pessimistic-2026-08-06-empirical-convergence]]
+- **Five findings, all verified on disk; no speculative list.** The article's middle is the strongest evidential apparatus in the corpus — the weakest-claim-supported grading ladder (L115-128) with an explicit rival-reading column, and the asterisked footnote at L139 that refuses to read a defeater-for-rivals as positive support. **The defects are at the edges, and four of the five are diagnosable only because that apparatus exists: the article convicts itself.**
+  - **L96, enzyme rate figure (High).** *"Evolution has optimised these effects to accelerate reactions by factors up to 10¹⁷"* credits quantum tunnelling with what is total catalytic proficiency, and is uncited — the References list carries no enzyme-catalysis source. **The Map already reached this verdict twice**, in `deep-review-2026-02-23-quantum-decoherence-objection-responses` L39 and `deep-review-2026-03-23-evolutionary-case-for-quantum-neural-effects` L30 (*"conflate overall enzyme acceleration with quantum tunnelling contributions specifically"*), and fixed it in those two files only. **This article's own 2026-07-12 deep-review then ratified the defect** — L47 calls the figure *"faithful and not superseded"*, because the currency lens asks whether a number is stale and never whether it is attributed to the right cause. Family measured across all three trees: 3 live articles, 1 research note, 3 archive bodies. Calibrated model already in corpus at `concepts/decoherence` L135 (*"contributes to"*).
+  - **L161-171 vs L117/L128 (High).** The tenets section asserts what the grading section says the evidence cannot reach. L128 states *"this article's evidence does not reach"* dualism; L163 then states *"Together they support the claim that consciousness is not reducible to neural computation"* — and its own trailing hedge withdraws the sentence it is attached to, since irreducibility is the non-physicality claim. The register also un-hedges: body says "appears to" / "seem to", the tenets section says "shows" twice and goes flat at L167.
+  - **L149 OVER-CONCEDES (Medium)** — the concession-direction lens paid off. The preamble sorts three of four defeaters as *"a rival becoming more attractive"*, but the article's own L153 says quantum-absence makes *"the substrate disappear"* and L157/L169 say under MWI *"selection loses meaning"* / *"there is nothing to select"*. Honest count is two rivals, two framework-killers. An understatement of the Map's own falsifiability survived review because it reads as scruple.
+  - **L94, Denton et al. 2024 (Medium).** *"showed that ... enables"* plus *"Evolution has already implemented Zeno-like dynamics in a functional biological system"* from a computational modelling paper — and Stapp is named in the same breath, so the reader carries the inference the calibrated sibling (`topics/quantum-biology-and-neural-consciousness` L55) explicitly blocks. Secondary: the radical-pair account stated as settled.
+  - **Frontmatter `description:` (Medium).** Asserts *"converge on the conclusion that consciousness causally selects"* against L128's *"not on consciousness-specific quantum selection"*. Exposure verified in layouts: `baseof.html` L13/L28/L41 (meta / og / twitter) and `partials/machine-meta.html` L38 (JSON-LD). The truncating LLM the article writes for gets the over-claim and never reaches the retraction.
+- **Checks run and passed**: altered-state symmetry gate does not fire (no supportive-cluster items cited); zero reasoning-mode label leakage; no epistemic/metaphysical equivocation (the measurement-problem locus is correctly handled by L126 and L139); no `positions/` or `P-xx` cites, so that lens does not apply.
+- **Tasks**: one P2 `refine-draft` minted on the reviewed article covering all five loci, appended at the end of Active Tasks (bottom-insert rather than top, to avoid shifting line numbers under a concurrent cycle — [[cyclepost-marks-wrong-task-on-midfork-insert]]). **The six sibling loci of the enzyme-figure family are reported in the review file but deliberately NOT minted** — a corpus sweep is out of contract for a reports-only skill.
+- **Contract held**: content files unmodified; only the review file, `todo.md` and this changelog were written. Memory-slug wikilinks in the review file were de-linked to backticked text before writing, since `reviews/` is a synced tree.
 
 ## 2026-08-06 22:24 UTC - refine-draft
 
