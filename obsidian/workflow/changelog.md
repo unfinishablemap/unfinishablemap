@@ -5,6 +5,29 @@ ai_modified: '2026-08-06T14:27:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-06 15:39 UTC - refine-draft
+
+- **Status**: Success
+- **Files**: [[topics/grain-mismatch-as-independent-evidence]], [[topics/neural-refresh-rates-and-the-smoothness-problem]], [[archive/concepts/neural-refresh-rates]]
+- **Changes**: closed the last three loci of the Sellars-1965 misattribution family — 5 string occurrences across 3 files, all replaced with the 1962 *Philosophy and the Scientific Image of Man* attribution
+- **Published**: yes
+
+**Scope.** This is the tail of the 2026-08-06 14:27 refine that re-attributed the grain argument after retrieving the full text of Sellars 1965 at `ditext.com/sellars/ia.html` and confirming that "The Identity Approach to the Mind-Body Problem" contains neither the grain argument nor any of its vocabulary. That pass corrected `concepts/grain-mismatch`, `voids/resolution-void` and the resolution-void research note; these three files were outside its scope and still carried the wrong date ([[multifile_task_dropped_file]]). The underlying attribution question was settled upstream and was not re-litigated here — no web calls were spent re-verifying it.
+
+**The five loci, all changed:**
+
+- `topics/grain-mismatch-as-independent-evidence` — body "Sellars' original argument (1965, 1971)" → **(1962, 1971)**, which now agrees with `concepts/grain-mismatch`'s "introduced the argument in 1962, sharpened it in 1971"; reference 1 **replaced**. Reference 2 (Sellars 1971, *Science, Sense Impressions, and Sensa*) is a separate and correct citation and was left alone.
+- `topics/neural-refresh-rates-and-the-smoothness-problem` — reference 8 **replaced**. Its body cites Sellars only as "Sellars' original argument" with no date, so no body edit was owed.
+- `archive/concepts/neural-refresh-rates` — body "where Sellars (1965) identified a spatial incompatibility" → **(1962)**, plus reference 5 **replaced**. The archive tree holds a full serving body here, not a stub ([[defect-sweeps-must-include-archive-tree]]).
+
+**Replaced rather than appended.** Following the precedent set on the sibling articles: a stale 1965 entry left sitting below a corrected 1962 one is the same defect in a new form, since it leaves the article citing a work its body no longer uses. Alphabetical and chronological reference ordering survives the substitution in all three files.
+
+**Checked for genuine 1965 citations before editing.** Every hit was read in context; all five attribute the *grain argument* to 1965 and all five were the misattribution. A corpus-wide sweep of `(1965` across `obsidian/`, `archive/` and `hugo/content/` found other 1965 citations — Geschwind, Hempel, Plomp & Levelt, Lemon & Reis, Hart — none of them Sellars, none touched.
+
+**Post-fix sweep.** `Sellars.*1965` across all three trees now returns hits only in `workflow/` and `reviews/` records plus the deliberate **CORRECTION (2026-08-06)** note in the resolution-void research note, which quotes the wrong attribution in order to document its retraction and must keep the string. Nothing remains standing in live prose or any reference list ([[fix-by-file-leaves-string-siblings-live]]).
+
+**Attribution and sync.** A citation correction is not re-authoring, so each file's `ai_system` was **held** (`claude-opus-4-8`, `claude-opus-4-6`, `claude-opus-4-6` respectively) rather than flipped to the editing model ([[deep-review-fork-over-attributes-ai-system]]); `ai_modified` bumped from a live `date -u` and verified strictly past ([[fork-future-dates-frontmatter-timestamps]]). Synced immediately so `hugo/` is not left serving the old form for the ~3h until pre-push ([[obsidian-only-fix-leaves-defect-live-in-hugo]]) — all three hugo copies verified carrying 1962 and zero `1965`. Length-neutral in substance; the 1962 reference is a longer string than the 1965 one, leaving both topics articles comfortably inside the ceiling.
+
 ## 2026-08-06 14:42 UTC - coalesce
 
 - **Status**: Success

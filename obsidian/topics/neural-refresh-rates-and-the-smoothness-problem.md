@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-08-06T15:39:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence progr
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
 6. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 7. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
-8. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *The Review of Metaphysics*, 18(3), 430–451.
+8. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 9. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 11. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/

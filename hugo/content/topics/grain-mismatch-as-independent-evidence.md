@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-07-18 08:07:57+00:00
+ai_modified: 2026-08-06 15:39:40+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:07:57+00:00
-lastmod: 2026-07-18 08:07:57+00:00
+lastmod: 2026-08-06 15:39:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ The [grain mismatch](/concepts/grain-mismatch/) is usually presented as a single
 
 ### Spatial Grain
 
-Sellars' original argument (1965, 1971) targets spatial properties. Phenomenal experience presents homogeneous fields — uniform pink, smooth warmth, continuous extension. Neural substrates are spatially discrete: individual neurons separated by synaptic gaps, firing or not firing, with no intrinsic colour or temperature. The mismatch is not that we *describe* these at different levels of detail (a reply Bechtel and Mundale attempted) but that the properties themselves — homogeneity versus discreteness — are contradictory. A property cannot be both gapless and gapped.
+Sellars' original argument (1962, 1971) targets spatial properties. Phenomenal experience presents homogeneous fields — uniform pink, smooth warmth, continuous extension. Neural substrates are spatially discrete: individual neurons separated by synaptic gaps, firing or not firing, with no intrinsic colour or temperature. The mismatch is not that we *describe* these at different levels of detail (a reply Bechtel and Mundale attempted) but that the properties themselves — homogeneity versus discreteness — are contradictory. A property cannot be both gapless and gapped.
 
 The empirical basis is neuroscience's characterisation of neural architecture. The argument requires that neural correlates of conscious experience be discrete at some level. If a neural correlate were discovered that exhibited genuine spatial continuity — a field property, perhaps electromagnetic, that was both measurably continuous and demonstrably identical to phenomenal experience — the spatial mismatch would dissolve. Candidates like electromagnetic field theories of consciousness (McFadden, Pockett) attempt this, but they face their own challenge: it is not obvious that classical fields, continuous though they are, carry the qualitative character distinguishing one phenomenal experience from another. A field theorist may answer that field topology encodes that character; the spatial mismatch then turns on whether the proposed continuity is genuinely identical to homogeneous experience rather than merely correlated with it.
 
@@ -125,7 +125,7 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 
 ## References
 
-1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
+1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
