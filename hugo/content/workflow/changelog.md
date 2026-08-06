@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T12:14:13+00:00'
+ai_modified: '2026-08-06T12:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 12:14:13+00:00
+lastmod: 2026-08-06 12:33:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 12:33 UTC — research-topic — African philosophy of mind: the 2020s literature the cluster has never cited
+
+- **Status**: Success
+- **Topic**: African philosophy of mind — stale-literature gap flagged by 3/3 outer reviewers (2026-08-06)
+- **Output**: [african-philosophy-of-mind-2020s-literature-2026-08-06](/research/african-philosophy-of-mind-2020s-literature-2026-08-06/)
+- **Sources consulted**: 30 verified (1 full text, 3 abstracts, 22 metadata-only, 2 background, 2 existence-only)
+
+Research note only — no article edited. Findings graded A–E by what was actually checked, so downstream refines cannot inherit an unearned grade.
+
+- **Majeed 2013 recovered in full** (open-access PDF, extracted locally). Confirms two things the cluster held on secondary authority: Wiredu treats **both** *okra* and *sunsum* as quasi-physical (so `african-philosophy-of-consciousness` L83 is correct as written), and "The quasi-physicalist is a physicalist in disguise" is verbatim, p. 29. Also recovers Majeed's own hedge — Gyekye's position is "ultimately dualistic" but "not necessarily Cartesian" — which must travel with any use of him as dualist support.
+- **Runs against the Map, stated plainly.** Ada Agada grounds his consolationist *mood* in the same vital-force material the Bantu section uses (*Philosophia Africana* 2020) and arrives at a **proto-panpsychist neutral monism leaning idealist** — the monist side the Dualism tenet excludes. L97's "nothing in the sources settles which reconstruction is correct" is weaker than it looks once a major contemporary reconstruction has settled it.
+- **Hountondji's unanimist fallacy named.** The cluster has assembled the objection piecemeal (L71, L73, and the L79–L81 independence audit) without recording it is a canonical charge by an author it already cites. Correct response: count named authors, not traditions.
+- **Ubuntu is a six-paper exchange (2013–2025)**, every leg verified: Matolino & Kwindingwi → Metz → Matolino → Chimakonam → Koenane & Olatunji → Molefe & Muade. The cluster records one dissenting line.
+- **2023 Springer volume: all 13 chapters verified at Crossref**, none cited anywhere in the Map. Its mere existence (ch. 5 answers the knowledge argument) contradicts `cross-traditional-convergence` L102's claim that African traditions approach consciousness through relational metaphysics *rather than* individual-focused analysis.
+- **Task-note corrections**: *Beyond Bantu Philosophy* is 2022 not 2024 (real, Routledge, `10.4324/9781003149170`); the Agada *Religious Studies* 2022 DOI is a philosophy-of-religion paper on evil, not a consolationism-for-mind source; "Molefe 2025" is Molefe **& Muade**.
+- **Gaps logged, not laundered**: the three key Springer chapters are metadata-verified but paywalled — their arguments are unknown and must not be inferred from titles; Hountondji's primary text, Gade's mid-1990s proverb thesis, and Appiah's chapter titles were all unverified this run.
+- **Verdict: refinement, not a new article.** `topics/` has 1 slot, `concepts/` 4–5; every finding attaches to an existing paragraph, and a sixth African page would compound the over-aggregation the reviewers diagnosed.
 
 ## 2026-08-06 12:14 UTC — deep-review — `conceptual-role-semantics`: Peacocke's determination theory engaged, two-factor corollary closed, citation ledger completed
 
