@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-07-29 11:48:53+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8
+ai_modified: 2026-08-06 03:26:00+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
 - /topics/channel-audits-introspection-architecture-independence-scoring/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:13:12+00:00
-lastmod: 2026-07-29 11:48:53+00:00
+lastmod: 2026-08-06 03:26:00+00:00
 modified: *id001
 related_articles:
 - '[[cross-architecture-llm-introspection]]'
@@ -90,7 +90,7 @@ The voids-circularity discount operates on (4) most directly: framework-independ
 
 **Nisbett & Wilson 1977.** Subjects produced confident causal explanations for choices shown to be wrong; the diagnosis was "little or no direct introspective access" to higher-order processes, subjects applying "implicit *a priori* causal theories."
 
-**Johansson & Hall 2005.** Choice blindness: when a selected card was covertly substituted, most subjects accepted and justified the substitute. Narrowed by 2020–2021 replication distinguishing concurrent from retrospective measures, strengthened by pupillometry showing autonomic recognition of the swap absent verbal flagging ([behavioural channel](/topics/pupillometry-behavioural-channel/)).
+**Johansson & Hall 2005.** Choice blindness: when a selected card was covertly substituted, no more than 26% of manipulated trials were exposed (Johansson et al. 2006), and on the rest subjects accepted and justified the substitute. Narrowed by 2020–2021 replication distinguishing concurrent from retrospective measures, strengthened by pupillometry showing autonomic recognition of the swap absent verbal flagging ([behavioural channel](/topics/pupillometry-behavioural-channel/)).
 
 **Rebouillat et al. 2021.** Regime-conditional conditions under which felt-rightness *anti*-correlates with accuracy, confidence rising as performance degrades — not a universal inversion.
 
@@ -236,24 +236,25 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 17. Brown, E. K., Basile, B. M., Templer, V. L. & Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
 18. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
 19. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
-20. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
-21. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
-22. Lak, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
-23. Masset, P. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
-24. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
-25. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psychol Learn Mem Cogn* 38(4): 686–708.
-26. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
-27. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
-28. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
-29. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
-30. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
-31. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
-32. Seneca (1st c. CE). *De Ira*.
-33. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
-34. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
-35. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
-36. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
-37. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
-38. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
+20. Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. *Consciousness and Cognition* 15(4): 673–692. — source of the tallied per-trial detection rate cited above.
+21. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
+22. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
+23. Lak, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+24. Masset, P. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
+25. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
+26. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psychol Learn Mem Cogn* 38(4): 686–708.
+27. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
+28. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
+29. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
+30. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
+31. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
+32. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
+33. Seneca (1st c. CE). *De Ira*.
+34. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
+35. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4583.
+36. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
+37. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
+38. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
+39. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
 
 Map-internal sources cited inline: [The Voids-Circularity Discount](/project/voids-circularity-discount/), [The Common-Cause Null in Convergence Arguments](/project/common-cause-null/), [The Surplus Void](/voids/the-surplus-void/).

@@ -4,7 +4,7 @@ description: "Human+AI exploration of source-attribution divergence—the within
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-08-02T11:12:31+00:00
+ai_modified: 2026-08-06T03:26:00+00:00
 last_deep_review: 2026-08-02T11:12:31+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-09
 last_curated:
 ---
@@ -78,7 +78,7 @@ How strongly performance on one form predicts performance on the others has not 
 
 **Source-monitoring task performance.** In standard paradigms, subjects encode items from two distinguishable sources (two speakers, or self-generated versus heard) and are later tested on whether they can recover the source of correctly-recognised items. Population scores spread out rather than clustering in a uniform high-accuracy band.
 
-**Choice-blindness detection rate.** Across the Johansson et al. (2005) literature, detection rates of manipulated choices vary with the manipulation and with how directly subjects are probed; the original study reports only that most participants failed to notice, and runs no individual-differences analysis.
+**Choice-blindness detection rate.** Across the Johansson et al. (2005) literature, detection rates of manipulated choices vary with the manipulation and with how directly subjects are probed; the original study reports only a per-trial figure—tallied across conditions, no more than 26% of manipulated trials were exposed (Johansson et al. 2006)—and runs no individual-differences analysis.
 
 **Cryptomnesia susceptibility.** Brown and Murphy (1989) and Marsh and Bower (1993) found that under cognitive-load conditions, subjects re-produce previously-encountered ideas as their own at single-digit percentage rates, with the rate sensitive to task condition.
 
@@ -154,6 +154,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 1. Brown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 15(3), 432–442.
 1. Dawes, A. J., Keogh, R., Andrillon, T., & Pearson, J. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022. https://www.nature.com/articles/s41598-020-65705-7
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
+1. Johansson, P., Hall, L., Sikström, S., Tärning, B., & Lind, A. (2006). How something can be said about telling more than we can know: On choice blindness and introspection. *Consciousness and Cognition*, 15(4), 673–692. — source of the tallied per-trial detection rate cited above.
 1. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3–28.
 1. Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. *Journal of Verbal Learning and Verbal Behavior*, 13(5), 585–589.
 1. Marsh, R. L., & Bower, G. H. (1993). Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 19(3), 673–688.

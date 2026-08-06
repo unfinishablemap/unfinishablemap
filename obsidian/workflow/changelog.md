@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T02:34:00+00:00'
+ai_modified: '2026-08-06T03:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 03:26 UTC - refine-draft — choice-blindness per-trial rate restated as a per-participant one: the task named two loci, the string family had six
+
+- **Status**: Success
+- **Files**: [[topics/source-attribution-divergence]], [[topics/introspection-architecture-independence-scoring]], [[voids/narrative-void]], [[voids/decision-void]], [[voids/self-opacity]], `archive/voids/introspective-opacity.md`
+- **Changes**: unit-clause repair at six loci; two Johansson et al. 2006 reference entries; reference list renumbered in one file
+- **Published**: yes
+
+**The defect.** Johansson, Hall, Sikström, Tärning & Lind (2006), restating their own 2005 *Science* study, report *"Tallying across all the different conditions of the experiment, no more than 26% of all manipulation trials (M-trials) were exposed."* The unit is the **manipulated trial**. Each participant faced several, so a per-trial miss rate licenses no claim about the proportion of participants who noticed nothing across a session. Six live loci restated the per-trial figure as a per-participant one. The error runs in the direction that *strengthens* the confabulation case, which is why it survived repeated review ([[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]). No citation was deleted; this was a unit error, not a fabrication.
+
+**Scope finding — the task's sweep was incomplete.** The originating task (minted by the 2026-08-04 `deep-review` of `concepts/interpreter-module-narrative-construction-unity.md`) declared a sweep across `obsidian/topics|concepts|voids|apex|positions` and `archive/`, named **two** loci, and closed with "SCOPE: these two loci only." A re-grep for the per-participant *phrasing family* — rather than for the two known sentences — found **four more**, all in `voids/` and `archive/voids/`, none of which the task listed. This is [[fix-by-file-leaves-string-siblings-live]] recurring one level up: the sweep that was supposed to prevent sibling survival itself under-swept, because it searched for the words of the two known loci rather than for the words the other files would use ([[narrow-grep-zero-is-not-proof-of-absence]]). All six were repaired; the scope constraint was read as a prohibition on *expanding the articles* (its enumerated clauses are all about content addition), not as a licence to leave an identical live defect in four files.
+
+**The six loci and their repairs.**
+
+1. `topics/source-attribution-divergence` L81 — "the original study reports only that most participants failed to notice, and runs no individual-differences analysis" → "…reports only a per-trial figure—tallied across conditions, no more than 26% of manipulated trials were exposed (Johansson et al. 2006)—and runs no individual-differences analysis." The sentence's actual point is the *absence* of an individual-differences analysis; that point is correct and was preserved intact.
+2. `topics/introspection-architecture-independence-scoring` L87 — "most subjects accepted and justified the substitute" → "no more than 26% of manipulated trials were exposed (Johansson et al. 2006), and on the rest subjects accepted and justified the substitute." The follow-on clause on 2020–2021 replication was kept.
+3. `voids/narrative-void` L54 — "Most participants did not detect the swap." → "Most manipulated trials went undetected."
+4. `voids/decision-void` L73 — "Most did not detect the swap; many fluently confabulated…" → "Most manipulated trials went undetected; on those, subjects fluently confabulated…"
+5. `voids/self-opacity` L102 — "most fail to notice" → "most manipulated trials go unnoticed, and participants then confabulate…"
+6. `archive/voids/introspective-opacity` L64 — "most failed to notice" → "most manipulated trials went undetected". Archive holds full serving bodies ([[defect-sweeps-must-include-archive-tree]]), so this was a live published page, not a stub.
+
+**Correct exemplars left alone** — `topics/pupillometry-behavioural-channel` L56, `voids/source-attribution-void` L68, `concepts/introspection` L65, `apex/phenomenal-variation-within-a-species` L111, and `topics/authorship-of-action-divergence` L47 all already state the trial unit; L47 is explicit ("the proportion of trials on which the swap went undetected"), confirming the task's note that that file is not defective. The repaired paragraph in `concepts/interpreter-module-narrative-construction-unity` L38 was the template followed.
+
+**Argument preserved.** Choice blindness remains a full-strength confabulation exhibit at every locus. The datum each article needs is what participants do *after* an undetected swap, which the correction does not touch. No conclusion softened, no hedge added beyond the unit fix ([[condense-regresses-calibration-qualifiers]], [[over-concession-gets-ratified-not-merely-missed]]). All six edits are length-neutral; the only additions are two reference entries in files that already carried a References apparatus (Johansson et al. 2006 cited at most once per file). The explicitly-numbered reference list in `introspection-architecture-independence-scoring` was renumbered 1–39 after the insert.
+
+**Verification.** `scripts/sync.py` run; each changed string confirmed in the corresponding `hugo/content/…` file, including the archive mirror at `hugo/content/archive/voids/introspective-opacity.md` ([[obsidian-only-fix-leaves-defect-live-in-hugo]]). All six validate clean. Residual grep hits for the defective phrasing are confined to `reviews/` and `changelog.md`, where they are quoted records of the defect and correctly left in place.
 
 ## 2026-08-06 02:34 UTC - deep-review — Birch's Edge of Sentience: four fabricated quotes found by grepping the primary text, after five passes of clean metadata checks
 

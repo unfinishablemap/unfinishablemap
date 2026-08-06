@@ -4,7 +4,7 @@ description: "Why we cannot observe our own cognitive processes—we access ment
 created: 2026-02-02
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-06T03:26:00+00:00
 last_deep_review: 2026-03-06T11:38:00+00:00
 draft: false
 archived: true
@@ -43,7 +43,7 @@ related_articles:
   - "[[recognition-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-02
 last_curated:
 coalesced_from:
@@ -61,7 +61,7 @@ This void differs from the [[self-reference-paradox|unobservable self]] (the obs
 
 Nisbett and Wilson (1977) established the fundamental asymmetry: subjects report what they decided, felt, or believed—but not how. Their classic demonstration: participants chose among identical stockings, consistently preferring items on the right—a mere position effect. When asked why, they confabulated: better quality, preferred colour, superior texture. No participant mentioned position. The processes were never conscious to begin with; introspection constructs explanations using implicit theories bearing no reliable relation to actual cognitive mechanisms.
 
-Choice blindness experiments (Johansson et al., 2005) deepen this finding. When participants' choices were secretly switched, most failed to notice—then confabulated reasons for choices they never made, with equal detail and confidence. People don't merely lack access to their reasons—they don't know they lack access. The [[narrative-void]] takes this further: the contents themselves may be narratively fabricated, invisible from within.
+Choice blindness experiments (Johansson et al., 2005) deepen this finding. When participants' choices were secretly switched, most manipulated trials went undetected—and participants confabulated reasons for choices they never made, with equal detail and confidence. People don't merely lack access to their reasons—they don't know they lack access. The [[narrative-void]] takes this further: the contents themselves may be narratively fabricated, invisible from within.
 
 ## Four Dimensions of Opacity
 

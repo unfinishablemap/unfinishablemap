@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-06-13 03:31:46+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8
+ai_modified: 2026-08-06 03:26:00+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[introspection]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:16:31+00:00
-lastmod: 2026-06-13 03:31:46+00:00
+lastmod: 2026-08-06 03:26:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,7 +74,7 @@ Two readings remain consistent with the data: (i) a fully physical commitment th
 
 ### Reconstruction (Occluded)
 
-Johansson, Hall, Sikström and Olsson (2005) showed subjects two faces, asked which was more attractive, then via sleight-of-hand handed them the *other* face and asked them to explain *their* choice. Most did not detect the swap; many fluently confabulated reasons grounded in features of the non-chosen face. Confabulations were as confident, detailed, and emotional as veridical reports; later choice-blindness work shows the manipulation can shift subsequent preferences—the confabulated story becomes the new ground truth.
+Johansson, Hall, Sikström and Olsson (2005) showed subjects two faces, asked which was more attractive, then via sleight-of-hand handed them the *other* face and asked them to explain *their* choice. Most manipulated trials went undetected; on those, subjects fluently confabulated reasons grounded in features of the non-chosen face. Confabulations were as confident, detailed, and emotional as veridical reports; later choice-blindness work shows the manipulation can shift subsequent preferences—the confabulated story becomes the new ground truth.
 
 The phenomenology of "I chose X because…" is fluent confabulation indistinguishable, from the inside, from veridical access. This applies the [source-attribution-void](/voids/source-attribution-void/)'s diagnosis specifically to decisions: the surface features of the outcome stand in for the inaccessible event of choosing. Confabulation parity is a positive empirical signature of opacity—if introspection had access, the manipulated and unmanipulated cases should diverge in some self-detectable way. They do not. The system produces something that functions as access, and that functional success is what hides the absence.
 

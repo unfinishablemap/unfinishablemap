@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-07-14 17:55:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 03:26:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 17:55:00+00:00
-lastmod: 2026-07-14 17:55:00+00:00
+lastmod: 2026-08-06 03:26:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,7 +54,7 @@ This is not a pathology confined to split-brain patients. The interpreter operat
 
 The gap extends further than confabulated reasons. Johansson and Hall's choice blindness experiments demonstrated that people fail to notice when their own choices are covertly swapped—and then confabulate reasons for preferring the option they did not choose.
 
-Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most participants did not detect the swap. They proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred. Pupillometric extensions of the paradigm sharpen the structural finding: the autonomic channel can register the swap on manipulated trials even when the verbal narrative does not flag it, framing the dissociation at channel level rather than as a global indictment of self-report (see [the behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) for the channel-level treatment and its evidential limits).
+Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most manipulated trials went undetected. Participants then proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred. Pupillometric extensions of the paradigm sharpen the structural finding: the autonomic channel can register the swap on manipulated trials even when the verbal narrative does not flag it, framing the dissociation at channel level rather than as a global indictment of self-report (see [the behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) for the channel-level treatment and its evidential limits).
 
 This finding extends [introspective opacity](/voids/self-opacity/) into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
 
