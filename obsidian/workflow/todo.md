@@ -302,22 +302,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-03
 - **Notes**: **L62–65.** The 2026-07-31 note records `credence **moderate → high**` on the Orch-OR demotion while simultaneously recording that the demotion's previous basis — the Diósi-Penrose radiation bounds — **does not reach Orch-OR at all**: *"Orch-OR never committed to that completion, so the underground bounds do not reach it, and this entry no longer depends on P-Q6."* So one pass **dropped a dependency, lost an evidential channel, and raised the band**. Stated warrant: *"because it survives ChatGPT's objection where the old basis did not, credence rises a band."* **The problem**: the surviving channel (Tegmark 2000; Reimers/McKemmish 2009, 2014 on Hagan-Hameroff-Tuszyński 2002) was present throughout and was not newly strengthened. What changed is that a *different* argument was found inapplicable — which is evidence of prior over-counting, and normally warrants holding or lowering, not raising. Raising requires the further premise that the survivor was being *under-weighted* while the bad argument did visible work; the note does not argue it. This is the ratchet **P-M1** exists to block (defeater-removal never upgrades an evidential tier), reappearing as robustness-of-the-survivor used as an upgrade lever. **FIX — either**: (a) supply the missing premise explicitly, arguing the coherence channel was under-weighted under the old framing and why; **or** (b) revert to `moderate` with a note that the basis was **re-founded at constant credence**. (b) is cheaper and more defensible. **Credit where due — do not undo the surrounding work**: the same note settles a three-way reviewer disagreement on the physics rather than by vote, correctly declines Gemini's unconditional reading of Derakhshani et al., refuses to quote Claude's compression of McQueen, and states *"non-ownership is exemption from the test, not credit for passing it"* — which is exactly right and sits oddly against the upgrade. Only the band-move is at issue.
 
-### P1: two quoted spans attributed to Harrison & Loui (2014) are not in the paper — live on three published URLs
-- **Type**: refine-draft
-- **File**: obsidian/voids/ineffable-encounter-void.md
-- **Review file**: `reviews/pessimistic-2026-08-06-ineffable-encounter-void.md`
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Generated**: 2026-08-06
-- **Notes**: **DE-QUOTE, DO NOT DELETE.** The underlying empirical claim (frisson as a psychophysiological response to musical expectation violation) is genuinely Harrison & Loui's and must stay; only the quotation marks and the assembled wording are wrong.
-  - **The defective string**, present in three source files: `"a physically felt signature of an emotion"` and `"the body-mind distinction much more blurry"`. Loci — `obsidian/voids/ineffable-encounter-void.md` **L111**; `obsidian/research/voids-resonance-void-2026-03-24.md` **L105** (carries an extra fragment the article dropped, *"a somatic marker"* — this is the propagation root, fix it too or the corruption re-enters); `archive/voids/resonance-void.md` **L79** (a full 2056-word serving body on a live URL, not a stub). Each has a `hugo/content/` mirror that must be re-synced, not hand-edited.
-  - **VERIFIED FOUR WAYS AGAINST THE PRIMARY TEXT, not taken from a reviewer's word.** Frontiers full text, PMC4107937, the authors' accepted manuscript at `mindlab.research.wesleyan.edu/files/2014/01/102028_Loui_Manuscript.pdf`, and a raw grep of that manuscript's extracted text: `signature` 0, `blurry` 0, `body-mind` 0, against `frisson` 62 and `chills` 25 — so the extraction is sound and the zeros are real.
-  - **⚠️ DO NOT "confirm" this with WebSearch.** The top hit for the quoted string is `unfinishablemap.org/voids/ineffable-encounter-void/` — the page itself. The apparent confirmation is the Map quoting itself back.
-  - **Probable origin**, useful for the fix note: *"Autonomous sensory Meridian response as a physically felt signature of positive and negative emotions"* (PMC10959090) is a different paper a decade later. The phrase belongs to the ASMR literature.
-  - **Framing caution while editing**: Harrison & Loui actually criticise an "implicit mind-body hierarchy" they trace to "a dualist view (Becker, 2004, p. 6) wherein the body is subordinate to the mind." Do not paraphrase them into a dualist ally.
-  - **Why three deep reviews missed it**: the 2026-05-31 pass recorded "confirmed: *Frontiers in Psychology* 5, 790. Title and venue exact" and filed it under "web-verified". Title and venue *were* exact. The quoted text was never checked. Metadata verification is not quote verification.
-  - A sibling P2 on this same file covers the convergence argument's evidential structure. Different lens, do not merge, do not let one fork do both.
-
 ### P2: the convergence section's independence premise is false, and the article calls that convergence its central evidential pillar
 - **Type**: refine-draft
 - **File**: obsidian/voids/ineffable-encounter-void.md
@@ -2443,6 +2427,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-06: two quoted spans attributed to Harrison & Loui (2014) are not in the paper — live on three published URLs
+- **Type**: refine-draft
+- **File**: obsidian/voids/ineffable-encounter-void.md
+- **Notes**: **DE-QUOTE, DO NOT DELETE.** The underlying empirical claim (frisson as a psychophysiological response to musical expectation violation) is genuinely Harrison & Loui's and must stay; only the quotation marks and the assembled wording are wrong.
 
 ### ✓ 2026-08-06: Adopt scope labels and an exposition-appropriation firewall for articles surveying other traditions
 - **Type**: refine-draft

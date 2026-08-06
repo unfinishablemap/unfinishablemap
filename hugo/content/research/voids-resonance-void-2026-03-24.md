@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-12 21:37:42+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 13:27:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -11,7 +11,7 @@ date: &id001 2026-03-24
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-06-12 21:37:42+00:00
+lastmod: 2026-08-06 13:27:19+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -103,10 +103,12 @@ Consciousness regularly encounters experiences of "resonance" — moments when m
   - Frisson (aesthetic chills) is a psychophysiological response — tingling, shivers, piloerection — triggered by music, art, or ideas
   - Involves dopaminergic reward circuitry (caudate and nucleus accumbens), with the caudate activating in anticipation and the nucleus accumbens at the moment of release
   - Only approximately 50% of people experience musical frisson, correlated with openness to experience
-  - Frisson is triggered specifically by violations of expectation — harmonic, melodic, or rhythmic surprises
-  - It is "a physically felt signature of an emotion, a somatic marker" that makes "the body-mind distinction much more blurry"
-- **Tenet alignment**: Supports Bidirectional Interaction and Minimal Quantum Interaction — frisson demonstrates consciousness registering meaning through physical response, where the mechanism linking the "meaning" to the "shiver" is opaque
-- **Quote**: "Like nausea and disgust, or a rapid heartbeat and anxiety, this feeling in the body coincides with an emotion in the mind."
+  - Violated expectation — harmonic, melodic, or rhythmic — is strongly correlated with frisson onset; the authors put it no more strongly than that some level of violated expectation "may be a prerequisite"
+  - The authors resist reading frisson as merely the downstream effect of an emotion: it may be part of an emotion's cause, or a simultaneous phenomenon
+  - ⚠️ **Framing caution — the authors are not dualist allies.** Their reason for resisting that reading is a criticism of an "implicit mind-body hierarchy" in music-emotion research, which they trace to "a dualist view (Becker, 2004, p. 6) wherein the body is subordinate to the mind." Cite them for the ordering point only; do not paraphrase them into support for the Map's dualism.
+  - ⚠️ **Correction 2026-08-06.** This entry previously carried three quoted spans attributed to Harrison & Loui — *"a physically felt signature of an emotion"*, *"a somatic marker"*, *"the body-mind distinction much more blurry"* — plus a **Quote** field reading *"Like nausea and disgust, or a rapid heartbeat and anxiety, this feeling in the body coincides with an emotion in the mind."* **None of the four appears in the paper.** Verified against the Frontiers full text, PMC4107937, and the authors' accepted manuscript (`signature` 0, `blurry` 0, `body-mind` 0, `nausea` 0, `disgust` 0, `heartbeat` 0, `somatic marker` 0, against `frisson` 62 — the extraction is sound, so the zeros are real). The first phrase belongs to a 2024 ASMR paper (PMC10959090), a decade later. Do not re-add. Note that WebSearch appears to *confirm* the strings, because its top hit is the Map's own page quoting them back.
+- **Tenet alignment**: The frisson data is compatible with Bidirectional Interaction and Minimal Quantum Interaction — a physical response registering meaning by a mechanism that links "meaning" to "shiver" opaquely. This is the Map's reading of the data, not the authors'; see the framing caution above.
+- **Quote**: "Expectations (e.g. harmonic, rhythmic, and/or melodic violations) are strongly correlated to the onset of musical frisson, such that some level of violated expectation may be a prerequisite"
 
 ### Pseudo-Dionysius — Apophatic Knowing Through Unknowing
 - **URL**: https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/

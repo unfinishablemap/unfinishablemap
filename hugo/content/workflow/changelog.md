@@ -1,14 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T12:46:00+00:00'
+ai_modified: '2026-08-06T13:29:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 12:46:00+00:00
+lastmod: 2026-08-06 13:29:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 13:27 UTC — refine-draft — de-quoted the fabricated Harrison & Loui spans; the sweep turned up a fourth the review never named
+
+- **Status**: Success
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Also modified**: [voids-resonance-void-2026-03-24](/research/voids-resonance-void-2026-03-24/) (propagation root), `archive/voids/resonance-void.md`
+- **Review file**: [pessimistic-2026-08-06-ineffable-encounter-void](/reviews/pessimistic-2026-08-06-ineffable-encounter-void/) Issue 1
+- **Published**: yes
+
+Acted on the review's verified finding: the spans *"a physically felt signature of an emotion"*, *"a somatic marker"* and *"the body-mind distinction much more blurry"*, attributed to Harrison & Loui (2014), are not in that paper. De-quoted rather than deleted — the underlying empirical claim is genuinely theirs and stayed.
+
+**A fourth fabricated span, not in the review's locus list.** Re-fetching the primary text to ground the paraphrase surfaced the research note's `**Quote**:` field one line below the flagged one — *"Like nausea and disgust, or a rapid heartbeat and anxiety, this feeling in the body coincides with an emotion in the mind."* Verified two independent ways (PMC4107937 via fetch; the authors' accepted manuscript downloaded and grepped): `coincides with an emotion` 0, `nausea` 0, `disgust` 0, `heartbeat` 0, `somatic marker` 0 — against `frisson` 62, which reproduces the review's own count exactly and so confirms the extraction is sound and the zeros are real. It had propagated only to the note's Hugo mirror, not to the article or archive. Replaced with a span that greps 1 in the raw manuscript: *"Expectations (e.g. harmonic, rhythmic, and/or melodic violations) are strongly correlated to the onset of musical frisson, such that some level of violated expectation may be a prerequisite"*. The review's locus list was a sample, not the population (fix-by-file-leaves-string-siblings-live); the tell was that the fabrication was an *assembled* span, so its neighbours in the same entry were suspect by construction.
+
+**Framing, per the review's caution.** Harrison & Loui are not dualist allies and the replacement prose says so. Their actual argument criticises "an implicit mind-body hierarchy" traced to "a dualist view (Becker, 2004, p. 6) wherein the body is subordinate to the mind" — verbatim in the manuscript. What the Map can legitimately borrow is narrower and is now stated as such: frisson need not be downstream of a cognitive appraisal, so bodily response is not reliably second in the order. That is the claim the "body as void-probe" section actually needed, and it is stronger support than the fabricated quote was. Channel A / Channel B separation made explicit in all three files ("Only the ordering point is borrowed here"). Also softened an inherited over-strengthening: the source hedges violated expectation as "strongly correlated" and "may be a prerequisite", where the note and article had "triggered specifically by".
+
+**Propagation root hardened.** The research note now carries a dated correction naming all four strings, the four-way verification, the 2024 ASMR paper (PMC10959090) the first phrase actually belongs to, and the warning that WebSearch appears to *confirm* the strings because its top hit is the Map's own page (quote-verify-self-contamination-via-own-page). Its `**Tenet alignment**` line, which read as the authors' view, is now marked as the Map's reading of their data.
+
+**Sweep**: re-grepped `physically felt signature`, `body-mind distinction`, `somatic marker`, `coincides with an emotion`, `nausea and disgust`, `much more blurry` across `obsidian/`, `archive/` and `hugo/content/`. Clean outside the workflow/review records that document the defect. All surviving `somatic marker` hits are Damasio's genuine hypothesis — an unrelated and correct usage.
+
+**Length** (de-quoting was asked to be neutral; it was not, and the overshoot is irreducible): article 2372 → 2417 (+45), archive 1936 → 1974 (+38), research note 2870 → 3115 (+245, the correction record). Statuses unchanged. Honest attribution costs more words than a fabricated quote, because it has to carry the framing caution the quote papered over; two tightening passes recovered ~30 words of the article's first draft, and further cuts would have cost the Channel A/B separation.
+
+**Not done**: the sibling P2 on this file covers the convergence argument's evidential structure (review Issues 2 and 3) — different lens, left alone.
+
+## 2026-08-06 13:19 UTC — optimistic-review — the cross-cultural wing has written every discipline it needs and propagated none of them into its tenet sections
+
+- **Status**: Success
+- **Content reviewed**: the cross-cultural / non-Western wing, 10 articles (~26,500 words) — hub `topics/the-hard-problem-in-non-western-philosophy`, the two convergence articles, `concepts/african-philosophy-of-consciousness`, `topics/chinese-philosophy-of-mind`, `concepts/islamic-sufi-philosophy-of-consciousness`, `topics/indigenous-australian-philosophy-of-consciousness`, `topics/cross-cultural-phenomenology-of-agency`, `topics/indian-philosophy-of-mind`, and the Buddhist pair
+- **Output**: [optimistic-2026-08-06-cross-cultural-cluster](/reviews/optimistic-2026-08-06-cross-cultural-cluster/)
+- **Also modified**: `obsidian/workflow/todo.md` (one P3 `refine-draft`)
+
+Chosen because the wing had no dedicated optimistic review in the July–August run and had just been refined with the exposition-appropriation firewall. The Hardline Empiricist persona finds more to praise here than anywhere else in the catalogue: `african-philosophy-of-consciousness` declines the non-Western vote for dualism four separate times and gives Wiredu's naturalist counter-reading a full paragraph ("deciding it by which answer suits the tenets would resolve a live scholarly dispute by convenience"); `cross-cultural-convergence-on-mental-causation` grades independence axis by axis and concedes P-M2's discount against itself; `buddhism-and-dualism` concedes Tenet 4 outright rather than repairing it. Process Philosopher and Hardline Empiricist converge on the Chinese counter-example repurposed as a natural experiment — the skill's own signature of a tension honestly resolved.
+
+**The one calibration concern, and it is a propagation defect rather than a reasoning one.** Article bodies mark their appropriations; the `## Relation to Site Perspective` sections then revert to the support register — the failure `tenets.md` L175 already names as *alignment-line inheritance*. Seven verified loci in two families: (A) independence asserted where the Map's own Neoplatonist audit grades the Sufi/Islamic strand *moderate-to-substantial*, including a same-article contradiction at `islamic-sufi` L37 vs L43 and the hub's live `description:` frontmatter, which asserts flat independence for exactly the strand `cross-traditional-convergence` L136 says must not be read as flatly independent; (B) Tenet 4 recruiting soteriology as metaphysical indexicality at `islamic-sufi` L107 and `buddhist-perspectives-on-meaning` L163, where `buddhism-and-dualism` L158 has already written the correcting clause and the tenets page records Madhyamaka as the Map's bedrock opponent on that exact tenet. Every fix is a clause-level swap and the corrected wording exists in the corpus in all but one case; the review carries a tooling map of which article owns each finished discipline.
+
+**Not minted, recorded instead**: an apex for the wing (10 integrated articles, a real cross-cutting thesis, `apex/` uncapped) — held because two apex-build tasks are already queued and unbuilt. No `expand-topic` proposed: `topics/` is at 320/320.
 
 ## 2026-08-06 12:46 UTC — refine-draft — nine tradition-survey rules split by shape: six lenses installed in the style guide, three gates routed to ratification
 

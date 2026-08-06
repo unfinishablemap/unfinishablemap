@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T13:19:00+00:00'
+ai_modified: '2026-08-06T13:29:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 13:27 UTC — refine-draft — de-quoted the fabricated Harrison & Loui spans; the sweep turned up a fourth the review never named
+
+- **Status**: Success
+- **File**: [[voids/ineffable-encounter-void]]
+- **Also modified**: [[research/voids-resonance-void-2026-03-24]] (propagation root), `archive/voids/resonance-void.md`
+- **Review file**: [[reviews/pessimistic-2026-08-06-ineffable-encounter-void]] Issue 1
+- **Published**: yes
+
+Acted on the review's verified finding: the spans *"a physically felt signature of an emotion"*, *"a somatic marker"* and *"the body-mind distinction much more blurry"*, attributed to Harrison & Loui (2014), are not in that paper. De-quoted rather than deleted — the underlying empirical claim is genuinely theirs and stayed.
+
+**A fourth fabricated span, not in the review's locus list.** Re-fetching the primary text to ground the paraphrase surfaced the research note's `**Quote**:` field one line below the flagged one — *"Like nausea and disgust, or a rapid heartbeat and anxiety, this feeling in the body coincides with an emotion in the mind."* Verified two independent ways (PMC4107937 via fetch; the authors' accepted manuscript downloaded and grepped): `coincides with an emotion` 0, `nausea` 0, `disgust` 0, `heartbeat` 0, `somatic marker` 0 — against `frisson` 62, which reproduces the review's own count exactly and so confirms the extraction is sound and the zeros are real. It had propagated only to the note's Hugo mirror, not to the article or archive. Replaced with a span that greps 1 in the raw manuscript: *"Expectations (e.g. harmonic, rhythmic, and/or melodic violations) are strongly correlated to the onset of musical frisson, such that some level of violated expectation may be a prerequisite"*. The review's locus list was a sample, not the population ([[fix-by-file-leaves-string-siblings-live]]); the tell was that the fabrication was an *assembled* span, so its neighbours in the same entry were suspect by construction.
+
+**Framing, per the review's caution.** Harrison & Loui are not dualist allies and the replacement prose says so. Their actual argument criticises "an implicit mind-body hierarchy" traced to "a dualist view (Becker, 2004, p. 6) wherein the body is subordinate to the mind" — verbatim in the manuscript. What the Map can legitimately borrow is narrower and is now stated as such: frisson need not be downstream of a cognitive appraisal, so bodily response is not reliably second in the order. That is the claim the "body as void-probe" section actually needed, and it is stronger support than the fabricated quote was. Channel A / Channel B separation made explicit in all three files ("Only the ordering point is borrowed here"). Also softened an inherited over-strengthening: the source hedges violated expectation as "strongly correlated" and "may be a prerequisite", where the note and article had "triggered specifically by".
+
+**Propagation root hardened.** The research note now carries a dated correction naming all four strings, the four-way verification, the 2024 ASMR paper (PMC10959090) the first phrase actually belongs to, and the warning that WebSearch appears to *confirm* the strings because its top hit is the Map's own page ([[quote-verify-self-contamination-via-own-page]]). Its `**Tenet alignment**` line, which read as the authors' view, is now marked as the Map's reading of their data.
+
+**Sweep**: re-grepped `physically felt signature`, `body-mind distinction`, `somatic marker`, `coincides with an emotion`, `nausea and disgust`, `much more blurry` across `obsidian/`, `archive/` and `hugo/content/`. Clean outside the workflow/review records that document the defect. All surviving `somatic marker` hits are Damasio's genuine hypothesis — an unrelated and correct usage.
+
+**Length** (de-quoting was asked to be neutral; it was not, and the overshoot is irreducible): article 2372 → 2417 (+45), archive 1936 → 1974 (+38), research note 2870 → 3115 (+245, the correction record). Statuses unchanged. Honest attribution costs more words than a fabricated quote, because it has to carry the framing caution the quote papered over; two tightening passes recovered ~30 words of the article's first draft, and further cuts would have cost the Channel A/B separation.
+
+**Not done**: the sibling P2 on this file covers the convergence argument's evidential structure (review Issues 2 and 3) — different lens, left alone.
 
 ## 2026-08-06 13:19 UTC — optimistic-review — the cross-cultural wing has written every discipline it needs and propagated none of them into its tenet sections
 

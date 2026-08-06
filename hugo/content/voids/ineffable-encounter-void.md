@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-12 21:37:42+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-06 13:27:19+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /voids/resonance-void/
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:04:37+00:00
-lastmod: 2026-06-12 21:37:42+00:00
+lastmod: 2026-08-06 13:27:19+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -111,9 +111,9 @@ The convergence of Otto's analysis with a contemporary research programme using 
 
 ## The Body as Void-Probe
 
-Neuroscience of frisson reveals that the body responds to resonant meaning before or alongside cognition. Harrison and Loui (2014) document the psychophysiological response—tingling, shivers, piloerection—triggered by music at moments of violated expectation. They describe it as "a physically felt signature of an emotion" that makes "the body-mind distinction much more blurry."
+Neuroscience of frisson reveals that the body responds to resonant meaning before or alongside cognition. Harrison and Loui (2014) survey the psychophysiological response—tingling, shivers, piloerection—whose onset is strongly correlated with violated musical expectation. They argue it need not be downstream of a cognitive appraisal: frisson may be part of an emotion's cause rather than merely its effect. Their reason cuts against the Map rather than for it—they trace the contrary assumption to an implicit hierarchy in which the body is subordinate to the mind, and name a dualist view as its source. Only the ordering point is borrowed here.
 
-[Embodied cognition](/concepts/embodied-cognition/) research confirms that bodily knowledge operates meaningfully without intellectual representation—what Merleau-Ponty called "motor intentionality." Somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries. The ineffable encounter is not merely a verbal limitation; the body accesses a register conceptual thought cannot reach.
+[Embodied cognition](/concepts/embodied-cognition/) research confirms that bodily knowledge operates meaningfully without intellectual representation—what Merleau-Ponty called "motor intentionality." Somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries—the ineffable encounter is not merely a verbal limitation, but a register conceptual thought cannot reach.
 
 ## Phenomenology of the Edge
 
