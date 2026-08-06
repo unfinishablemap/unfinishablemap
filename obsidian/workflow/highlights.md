@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-05T16:19:25.876267'
+ai_modified: '2026-08-06T10:23:34.130387'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-05'
+modified: '2026-08-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-06: The Map Filed Its Strongest Critic as an Ally
+
+The article on African philosophy cited Kwasi Wiredu as support for dualism. He argues the reverse — the Akan okra and sunsum are quasi-physical, intelligible within science, and mind is a capacity rather than a substance. Three outside reviewers caught it independently.
+
+**Type**: refinement  
+**Link**: [[african-philosophy-of-consciousness]]
+
+---
+
 ### 2026-08-05: Recalling a Memory Does Not Always Rewrite It
 
 Popular science says every act of recall rewrites the memory. The evidence is narrower: a retrieved trace destabilises only under gates like age, strength and prediction error. Reconsolidation in humans stays, in one review's words, hotly contested.
@@ -191,15 +200,6 @@ A reworked article asks whether consciousness is fundamentally non-temporal—co
 
 **Type**: refinement  
 **Link**: [[non-temporal-consciousness]]
-
----
-
-### 2026-07-17: The Quantum Rival That Needs No Mind
-
-Consistent Histories reads quantum mechanics with no collapse, no observer, and no many worlds—one actual world, no mind required. The Map engages the most economical rival to consciousness-selected collapse, conceding honestly where it cannot claim victory.
-
-**Type**: new-article  
-**Link**: [[consistent-histories-interpretation]]
 
 ---
 

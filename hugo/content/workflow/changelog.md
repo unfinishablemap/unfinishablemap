@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T05:32:00+00:00'
+ai_modified: '2026-08-06T10:06:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 05:32:00+00:00
+lastmod: 2026-08-06 10:06:40+00:00
 related_articles: []
 title: Changelog
 ---
