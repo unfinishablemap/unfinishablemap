@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resolution Void"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-05-13T18:51:00+00:00
+ai_modified: 2026-08-06T14:27:55+00:00
 draft: false
 target_section: voids
 topics:
@@ -39,14 +39,15 @@ Consciousness operates at a characteristic resolution—a grain size—radically
 
 ### Sellars' Grain Argument
 - **URL**: https://philpapers.org/browse/homogeneity-of-consciousness
-- **Type**: Philosophical argument (Sellars 1965, 1971; Lockwood 1993)
+- **Type**: Philosophical argument (Sellars 1962, 1971; Lockwood 1993)
 - **Key points**:
   - Phenomenal experience appears homogeneous (the "pink ice cube" example: we see continuous, uniform colour)
   - Physical substrates are discrete—clouds of achromatic particles, networks of neurons
   - This mismatch means experience cannot simply be identical with its neural substrate
   - Sellars concludes we need an expanded ontology with items that are "truly coloured"
 - **Tenet alignment**: Compatible with dualism — Sellars' "grain problem" historically motivated his expanded ontology of "absolute processes," not substance dualism. Identity theorists and emergentists have proposed responses; the inference from grain mismatch to dualism requires additional argument the Map supplies independently.
-- **Quote**: "Physical objects qua clouds of discrete particles cannot instantiate [homogeneous phenomenal] qualities"
+- **Quote**: "The manifest ice cube presents itself to us as something which is pink through and through, as a pink continuum, all the regions of which, however small, are pink." (Sellars 1962, *Philosophy and the Scientific Image of Man*)
+- **CORRECTION (2026-08-06)**: this entry previously carried the quote "Physical objects qua clouds of discrete particles cannot instantiate [homogeneous phenomenal] qualities", attributed to Sellars 1965. The full text of Sellars 1965 ("The Identity Approach to the Mind-Body Problem") was retrieved from ditext.com/sellars/ia.html and the span is **not present**; neither is the grain argument, which that paper does not make. The grain argument's source is *Philosophy and the Scientific Image of Man* (1962), where the replacement quote above is verbatim-confirmed. The original span appears to have been a reconstruction — note the bracketed insertion — sourced from a PhilPapers category-browse page rather than from Sellars' text.
 
 ### Andrew Lee — Consciousness and Continuity
 - **URL**: https://philarchive.org/rec/LEECAC-14
@@ -205,7 +206,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Sellars, W. (1965). "The Identity Approach to the Mind-Body Problem." *Review of Metaphysics* 18(3): 430–451.
+- Sellars, W. (1962). "Philosophy and the Scientific Image of Man." In R. Colodny (ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press.
 - Sellars, W. (1971). "Science, Sense Impressions, and Sensa: A Reply to Cornman." *Review of Metaphysics* 24(3): 391–447.
 - Lockwood, M. (1993). "The Grain Problem." In H. Robinson (ed.), *Objections to Physicalism*. Oxford University Press.
 - Lee, A. Y. (2023). "Consciousness and Continuity." *PhilArchive*. University of Toronto.

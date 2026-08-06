@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-24T22:42:59+00:00
+ai_modified: 2026-08-06T14:27:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ Consciousness encounters reality through an extraordinarily narrow aperture. Sen
 
 ## The Grain Mismatch
 
-Wilfrid Sellars identified a logical problem at the heart of physicalist theories of mind. Phenomenal experience appears smooth and homogeneous — a pink ice cube looks uniformly pink, a sustained musical tone sounds continuous. Yet the physical substrates generating these experiences are discrete: networks of individual neurons firing or not firing, clouds of particles with no intrinsic colour. Sellars concluded that "physical objects qua clouds of discrete particles cannot instantiate" the homogeneous qualities that experience presents (Sellars 1965).
+Wilfrid Sellars identified a logical problem at the heart of physicalist theories of mind. Phenomenal experience appears smooth and homogeneous — his own example is a pink ice cube, which "presents itself to us as something which is pink through and through, as a pink continuum, all the regions of which, however small, are pink" (Sellars 1962). Yet the physical substrates generating these experiences are discrete: networks of individual neurons firing or not firing, clouds of particles with no intrinsic colour. Sellars concluded that the homogeneity cannot consist in the properties of those particles, because "it doesn't make sense to say of the particles of physical theory that they are coloured" (Sellars 1962).
 
 This [[grain-mismatch]] cuts deeper than most arguments against materialism. It identifies a structural incompatibility: homogeneous phenomenal properties and discrete physical substrates cannot be identical because they have incompatible characteristics. If experience is genuinely smooth and neurons are genuinely discrete, then experience is not neurons.
 
@@ -102,7 +102,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 
 ## References
 
-1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
+1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 2. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 3. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
 4. Wu, T., Dufford, A. J., Mackie, M.-A., Egan, L. J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.

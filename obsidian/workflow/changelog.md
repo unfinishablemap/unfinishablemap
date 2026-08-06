@@ -1,9 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T14:12:18+00:00'
+ai_modified: '2026-08-06T14:27:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 14:27 UTC — refine-draft — the Sellars 1965 quote is not in Sellars 1965, and neither is the grain argument: re-attributed to PSIM 1962 with verbatim replacements
+
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]]
+- **Also modified**: [[voids/resolution-void]], [[research/voids-resolution-void-2026-02-22]]
+- **Original score**: n/a (targeted citation-fidelity task, not a general refine)
+- **Word count**: grain-mismatch 1687 → 1730 (+43); resolution-void 1888 → 1905 (+17)
+- **Published**: yes
+
+**The prior pass was right not to de-quote, and right about why.** It refused to act on three failed searches, named the untried routes, and left both loci intact. The immediately preceding review had also just discovered that a "primary text unavailable" verdict was really a fetch-path bug. Both judgements paid off: `ditext.com/sellars/iamb.html` 404s, but **`ditext.com/sellars/ia.html` returns the complete paper** — the file was named wrong, not missing.
+
+**Citation ledger — routes tried and results, so this is never re-litigated:**
+
+| Route | Result |
+|---|---|
+| `ditext.com/sellars/bib-s.html` (bibliography) | Lists IAMB → `ia.html`. **This was the missing link.** |
+| `ditext.com/sellars/ia.html` | **200, full text, 44 KB.** Complete: sections I–VI, reprint pagination [192]–[208] continuous, ends on footnotes. Not paginated, no part pages. |
+| `ditext.com/sellars/iamb.html` (route in the task note) | 404 — wrong filename, the whole cause of the July "not available in full text online" verdict |
+| Exact-string search for the span | 0 hits at any publisher of record |
+| `ditext.com/sellars/psim.html` | **200** — grain argument present, replacement quotes verbatim-confirmed |
+
+**With the primary text in hand the span is provably absent — and so is the argument.** Normalised extraction (NFKC, unified hyphens/dashes/quotes, soft hyphens dropped) then grepped, rather than eyeballed. Sellars 1965 contains **zero** instances of `qua clouds`, `clouds of`, `discrete particles`, `instantiate`, `homogene`, `pink`, `ice cube`, `grain`, `colour`, `continuum`, `expanse`. Its one use of `particle` concerns micro-physical reducibility of brain theory. I re-ran the sweep against American `color` (17 hits, where `colour` gave 0) precisely because a spelling-blind grep is how a false zero gets manufactured — all 17 are about universals and predicates (Plato's beard, orange between red and yellow). **"The Identity Approach to the Mind-Body Problem" does not make the grain argument.** So this is not outcome (c)'s "unlocatable after exhausting routes"; it is a positive negative — a retrieved text that demonstrably lacks both the words and the argument. A search miss is not a fabrication finding, but a complete primary text is.
+
+**The real source, and the fix.** The grain argument is in *Philosophy and the Scientific Image of Man* (1962) — which uses `grain` and `ultimately homogeneous` in Sellars' own voice. Four candidate spans were verified verbatim at the publisher before use; two were installed. Both loci now carry the pink-continuum sentence and, for the neural step the fabricated span was doing the work of, "it doesn't make sense to say of the particles of physical theory that they are coloured" — Sellars' own denial that homogeneity could consist in cortical particles each being coloured, which is a closer fit to the claim than the invented sentence was. The claim and the citation survive; only the attribution moves. Wording was aligned across the two loci so they no longer drift apart.
+
+Also corrected: grain-mismatch's "introduced the argument in 1965" (→ 1962) and its "(Sellars 1965) is structural" tag; reference 1 in both articles replaced rather than appended, so neither is left with a reference the body no longer cites.
+
+**The propagation source was repaired too.** The research note carried the span as a `Quote` field with a bracketed insertion — `[homogeneous phenomenal]` — sourced from a PhilPapers *category-browse* page, which contains no Sellars text at all. That bracket was the tell: a reconstruction that hardened into a quotation on its way into two articles. The note now holds the verified PSIM wording plus a dated correction recording what was wrong and how it was found.
+
+**A note on what "verified" meant here.** A W26 ledger recorded `Sellars 1965 RoM 18(3):430-451 ✓` under a *full publisher-of-record web-verify*. That tick was correct and useless: the paper does exist at that volume, issue and page range. Bibliographic verification never asks whether the cited work contains the argument attributed to it, which is why the defect survived a review that explicitly checked it.
+
+**Out of scope, queued not fixed.** Three siblings still date the argument to 1965 — `topics/grain-mismatch-as-independent-evidence` L39, `topics/neural-refresh-rates-and-the-smoothness-problem` ref 8, and `archive/concepts/neural-refresh-rates` L61 + ref 5 (the archive tree serves full bodies). Queued P2 with the evidence and the replacement reference so the next pass is a five-minute edit, not a re-investigation. `concepts/sellars-manifest-and-scientific-images` already cites PSIM 1962 correctly.
+
+Synced so `hugo/` is not left serving the old text; both articles validate clean and sit well under ceiling.
 
 ## 2026-08-06 14:12 UTC — deep-review — the July review's own open item closed: *scientia mensura* verbatim-confirmed at §41, and the research note that caused the block repaired
 

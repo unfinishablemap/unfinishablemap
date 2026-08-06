@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-07-16T13:04:22+00:00
+ai_modified: 2026-08-06T14:27:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,9 +32,9 @@ Phenomenal experience presents itself as smooth and homogeneous — a pink surfa
 
 ## Sellars' Grain Argument
 
-Wilfrid Sellars introduced the argument in 1965, sharpened it in 1971, and Michael Lockwood developed it further in 1993. The core reasoning is deceptively simple.
+Wilfrid Sellars introduced the argument in 1962, sharpened it in 1971, and Michael Lockwood developed it further in 1993. The core reasoning is deceptively simple.
 
-Consider a pink ice cube. The experience of its colour is uniform — the pink does not break into parts the way neurons or molecules break into parts. Yet physics describes the ice cube as a lattice of molecules, and neuroscience describes the neural correlate as a pattern of discrete firings across a population of cells. Sellars concluded: "Physical objects qua clouds of discrete particles cannot instantiate" the homogeneous qualities that experience presents (Sellars 1965).
+Consider a pink ice cube — Sellars' own example. The experience of its colour is uniform: the manifest ice cube "presents itself to us as something which is pink through and through, as a pink continuum, all the regions of which, however small, are pink" (Sellars 1962). The pink does not break into parts the way neurons or molecules break into parts. Yet physics describes the ice cube as a lattice of molecules, and neuroscience describes the neural correlate as a pattern of discrete firings across a population of cells. Sellars pressed the point directly against the neural case: the homogeneity of a sensation cannot consist in each particle in the relevant region of cortex having a colour, because "it doesn't make sense to say of the particles of physical theory that they are coloured" (Sellars 1962).
 
 The force of the argument comes from what identity requires. If phenomenal pinkness *is* a neural firing pattern, then whatever is true of the firing pattern must be true of the pinkness. But the firing pattern is spatially discrete — it has gaps between neurons, distinct activation levels at distinct locations. The pinkness is spatially homogeneous — it presents no gaps, no internal boundaries. A property cannot be both homogeneous and discrete. Therefore the phenomenal property and the neural property are not identical.
 
@@ -56,7 +56,7 @@ The grain mismatch occupies a distinct logical space from the two most discussed
 
 **[[philosophical-zombies|Zombie conceivability]]** (Chalmers 1996) is modal. A physically identical being without consciousness is conceivable, suggesting consciousness is not entailed by physics. The argument targets metaphysical necessity.
 
-**The grain mismatch** (Sellars 1965) is structural. Homogeneous phenomenal properties and discrete physical properties have incompatible characteristics, making identity logically impossible for these property pairs. The argument targets the coherence of identification itself.
+**The grain mismatch** (Sellars 1962) is structural. Homogeneous phenomenal properties and discrete physical properties have incompatible characteristics, making identity logically impossible for these property pairs. The argument targets the coherence of identification itself.
 
 These three arguments are logically independent. Even if the knowledge argument fails (perhaps Mary's new knowledge is old knowledge in a new mode of presentation), and even if zombies are not genuinely conceivable (perhaps we cannot coherently imagine physical duplicates without consciousness), the grain mismatch stands. As long as experience has homogeneous properties and neural substrates have discrete properties, identity between them remains structurally incoherent.
 
@@ -99,7 +99,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 
 ## References
 
-1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
+1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lockwood, M. (1993). The Grain Problem. In H. Robinson (ed.), *Objections to Physicalism*. Oxford University Press.
 4. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
