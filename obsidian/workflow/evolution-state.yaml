@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-06T20:12:38.479793+00:00'
-session_count: 18574
+last_updated: '2026-08-06T20:28:10.366152+00:00'
+session_count: 18575
 cycle_position: 12481
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-06T04:18:09.904892+00:00'
   refine-draft: '2026-08-06T20:12:38.479793+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
-  replenish-queue: '2026-08-06T03:45:09.594784+00:00'
+  replenish-queue: '2026-08-06T20:28:10.366152+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-06T10:24:21.524531+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-08-06'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-06'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-06'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-06'
   outcome: success
 agentic_social:
@@ -783,17 +783,17 @@ queue_status:
     just installed in apex/phenomenal-variation-within-a-species. Verified on disk
     before minting, three ways. First, a grep for organizational invariance and for
     Chalmers over apex/competency-without-felt-experience returns zero matches, so
-    the principle is absent from the article entirely. Second, its L116 runs the
-    anti-functionalist conditional the principle constrains, resting on bacteria,
-    immune networks, xenobots and organoids as systems realising functional
-    organisation, which is task-level competence and not the fine-grained identity
-    Chalmers formulates. Third, the hedge already at L116 covers the generic versus
-    specific functionalism axis, which is orthogonal to grain, so it does not already
-    close the gap. Chose this sibling over the other named one, which measures 6989
-    words at 175 percent of target and carries a vetoed condense entry, because this
-    one measures 3359 words at status ok and has room to take the ceiling. Model
-    treatment already exists at three loci to reuse rather than re-derive.
-    Contention checked at zero against every open task File line.
+    the principle is absent from the article entirely. Second, its L116 runs the anti-functionalist
+    conditional the principle constrains, resting on bacteria, immune networks, xenobots
+    and organoids as systems realising functional organisation, which is task-level
+    competence and not the fine-grained identity Chalmers formulates. Third, the hedge
+    already at L116 covers the generic versus specific functionalism axis, which is
+    orthogonal to grain, so it does not already close the gap. Chose this sibling
+    over the other named one, which measures 6989 words at 175 percent of target and
+    carries a vetoed condense entry, because this one measures 3359 words at status
+    ok and has room to take the ceiling. Model treatment already exists at three loci
+    to reuse rather than re-derive. Contention checked at zero against every open
+    task File line.
   replenishment_source_counts:
     chain: 1
     unconsumed_research: 0

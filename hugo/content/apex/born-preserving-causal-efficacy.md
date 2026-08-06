@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-02 20:05:00+00:00
+ai_modified: 2026-08-06 20:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-08-02 20:05:00+00:00
+lastmod: 2026-08-06 20:45:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -55,7 +55,7 @@ topics:
 - '[[forward-in-time-conscious-selection]]'
 ---
 
-This piece states, as one whole problem, the challenge the Map's own positions register names its strongest live difficulty: how conscious selection can do genuine causal work while leaving the aggregate statistics of quantum measurement exactly as standard physics predicts. Three positions generate it. The Map holds (high confidence) that its default interaction preserves Born statistics exactly — the per-trial outcome may be selected, but the long-run distribution matches unbiased quantum mechanics; (moderate confidence) that this is the strongest live challenge to its mechanism, because a selection that never shows up in the statistics sits one unforced step from doing no work at all; and (high confidence) that no worked formal model of the mechanism currently exists. This article does not resolve the discomfort the conjunction creates. It lays out the dilemma precisely, surveys the candidate routes out, specifies what a worked toy model would have to deliver, names the failure modes that would sink each route, and says what would count as progress. It is a research agenda, not a result.
+This piece states, as one whole problem, the challenge the Map's positions register names its strongest live difficulty: how conscious selection can do genuine causal work while leaving the aggregate statistics of quantum measurement exactly as standard physics predicts. Three positions generate it. The Map holds, each at high confidence, that its default interaction preserves Born statistics exactly — the per-trial outcome may be selected, but the long-run distribution matches unbiased quantum mechanics; that this is the strongest live challenge to its mechanism, because a selection that never shows up in the statistics sits one unforced step from doing no work at all; and that no worked formal model of the mechanism currently exists. This article does not resolve the discomfort the conjunction creates. It lays out the dilemma precisely, surveys the candidate routes out, specifies what a worked toy model must deliver, names the failure modes that would sink each route, and says what would count as progress. It is a research agenda, not a result.
 
 ## The Dilemma, Stated Exactly
 
@@ -63,7 +63,7 @@ Start from the three positions. The Map's [quantum-interface](/positions/quantum
 
 On **P-Q2** (high confidence), the default reading of Minimal Quantum Interaction has conscious selection act within a corridor whose outputs are, per trial, indistinguishable from unbiased Born statistics. The interaction biases *which* outcome becomes actual on a given measurement, but the aggregate distribution over many trials matches what standard quantum mechanics predicts. This is structural to the reading, not an empirical hope about neural tissue: the [causal-consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, an arXiv preprint not yet peer-reviewed) argues that no-signalling under purification forces the Born form on any participant in measurement outcomes, so — if the derivation holds — Born-preservation is inherited rather than bolted on.
 
-On **P-Q3** (moderate confidence), this is the strongest live challenge to the default mechanism — the [mechanism debt](/positions/quantum-interface/#mechanism-debt) the register tracks explicitly. To be genuine *selection*, conscious influence must do something the unbiased Born distribution does not; to be *minimal and undetectable* — the corridor's defining property — it must not deviate from Born statistics. If the aggregate statistics are exactly preserved and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism. The register names this a framework-boundary pressure rather than treating it as dissolved.
+On **P-Q3** (high confidence that the dilemma is genuine and unresolved), this is the strongest live challenge to the default mechanism — the [mechanism debt](/positions/quantum-interface/#mechanism-debt) the register tracks. To be genuine *selection*, conscious influence must do something the unbiased Born distribution does not; to be *minimal and undetectable* — the corridor's defining property — it must not deviate from Born statistics. If the aggregate statistics are exactly preserved and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism. The register names this a framework-boundary pressure rather than treating it as dissolved.
 
 On **P-Q10** (high confidence), the Map possesses no worked formal model — no toy Hamiltonian, master equation, or computational simulation — of how conscious selection couples to a neural quantum state; the mechanism cluster is held at the level of programme commitments rather than equations. This is what makes the first two bite: without a worked model, the claim that token-level selection can be causally robust *and* aggregate-undetectable is a stipulation, not a demonstration.
 
