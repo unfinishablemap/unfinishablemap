@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T23:25:00+00:00'
+ai_modified: '2026-08-06T23:25:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 23:25 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/prospective-memory]]
+- **Original score**: n/a — `scripts/curate.py` no longer exists (the skill's step-3 command is stale); the fix was a single-sentence calibration judged directly against the five tenet paragraphs it heads.
+- **Scope held to L166, the header sentence.** *"Prospective memory and future-oriented consciousness support all five foundational commitments."* — the last live member of the "supports all five" header family, whose two siblings (`concepts/episodic-memory` L165, `concepts/semantic-memory` L172) were de-inflated 2026-08-04. The five tenet paragraphs at L168/L170/L172/L174/L176 were read as evidence and left untouched, as were the `Agent Causation` paragraph at L178 and the properly-calibrated No-Many-Worlds control at L174.
+- **Register assigned per tenet, from what each paragraph actually establishes** (house style inherited from `episodic-memory` L168 — argues for / offers a candidate occasion for / sharpens the explanandum without evidencing / merely compatible with):
+  - **Bidirectional Interaction** — the strongest, and the only *argues for*: L172 cites EFT reducing temporal discounting. Qualified in the header because the article's own L176 concedes the vividness-behaviour correlations are *"compatible with either phenomenology or its neural correlates doing the causal work"*, which is precisely the epiphenomenalism question Bidirectional turns on.
+  - **Occam's Razor Has Limits** — *conditional case*: L176's argument runs through *"if it is a genuine phenomenal character"*, and its own conclusion is that settling the matter *"requires arguments beyond parsimony"*.
+  - **Minimal Quantum Interaction** — *candidate occasion, objection unresolved*: L170 names intention formation as the occasion, then concedes the decoherence objection *"applies forcefully and is not resolved here"*, withdraws photosynthesis as support (Duan et al. 2017), and calls cryptochrome *"suggestive; it is not a demonstration"*.
+  - **Dualism** — *sharpens the explanandum, answers one deflation*: L168 is the explanatory-gap statement plus a regress reply to illusionism. Blocking a deflation is not evidence for the tenet.
+  - **No Many Worlds** — *weakest*: L174 grants the MWI reply its behavioural adequacy outright and presses only the first-person question, a pressure the paragraph itself routes through [[haecceity]] rather than through prospection. "Support" was flatly false here.
+- **New header**: *"Prospective memory and future-oriented consciousness bear on the five commitments unevenly: they argue for Bidirectional Interaction, though the vividness-behaviour correlations motivate rather than settle the case; they make a conditional case for the limits of parsimony; they name intention formation as a candidate occasion for Minimal Quantum Interaction while leaving the decoherence objection unresolved; they sharpen the explanandum behind Dualism and answer one deflation of it rather than evidencing it; and against No Many Worlds they press only the first-person question the branching reply leaves untouched, a pressure that runs through haecceity rather than through prospection."* `haecceity` left unlinked in the header since L174 already carries the wikilink.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-5-20251101` — a calibration correction is not authoring. `ai_modified` bumped to a live `date -u` value, verified strictly past. `last_deep_review` untouched.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/concepts/prospective-memory.md` carries the new string (1 hit) and the old string greps to **0**.
+- **Residue reported, not swept, not minted** ([[fix-by-file-leaves-string-siblings-live]], [[defect-sweeps-must-include-archive-tree]]): `concepts/phenomenology` L148 (different cluster, needs its own judgement); `topics/empirical-evidence-for-consciousness-selecting` L161 (already carried by tonight's P2 from `pessimistic-2026-08-06-empirical-convergence`); `archive/concepts/semantic-phenomenology` L112 and `archive/topics/temporal-ontology-and-consciousness` L115 — **full serving bodies on live URLs, so real exposure rather than dead records**; research notes and `apex/apex-articles` left as dated records.
+- **Published**: yes
 
 ## 2026-08-06 23:25 UTC - pessimistic-review
 

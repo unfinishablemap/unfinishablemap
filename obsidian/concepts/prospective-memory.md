@@ -4,7 +4,7 @@ description: "Remembering to act in the future: how intentions persist and episo
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-02T19:55:51+00:00
+ai_modified: 2026-08-06T23:24:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -163,7 +163,7 @@ Whitehead's process philosophy offers a framing. Each actual occasion has a "sub
 
 ## Relation to Site Perspective
 
-Prospective memory and future-oriented consciousness support all five foundational commitments.
+Prospective memory and future-oriented consciousness bear on the five commitments unevenly: they argue for Bidirectional Interaction, though the vividness-behaviour correlations motivate rather than settle the case; they make a conditional case for the limits of parsimony; they name intention formation as a candidate occasion for Minimal Quantum Interaction while leaving the decoherence objection unresolved; they sharpen the explanandum behind Dualism and answer one deflation of it rather than evidencing it; and against No Many Worlds they press only the first-person question the branching reply leaves untouched, a pressure that runs through haecceity rather than through prospection.
 
 **[[tenets#^dualism|Dualism]]**: The phenomenology of future simulation involves irreducible qualia—futuricity, the self projected forward, the possibility character of imagined events. Neural activity correlates with future thinking, but correlation doesn't explain why there is something it is like to imagine tomorrow. The [[illusionism|illusionist]] response faces the regress problem: the illusion of anticipating requires some experience in which to be illuded.
 
