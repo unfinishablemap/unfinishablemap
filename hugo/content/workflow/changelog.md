@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T17:13:00+00:00'
+ai_modified: '2026-08-06T18:10:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 17:13:00+00:00
+lastmod: 2026-08-06 18:10:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 18:10 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: The 2020s Buddhist philosophy of mind literature missing from the Map's Buddhist sub-cluster (`concepts/buddhism-and-dualism`, `topics/buddhist-perspectives-on-meaning`, `topics/cross-cultural-phenomenology-of-agency`)
+- **Output**: [buddhist-philosophy-of-mind-2020s-literature-2026-08-06](/research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06/)
+- **Sources consulted**: 27 graded A–E (10 at grade B — Crossref/publisher abstracts or SEP bylines read in full; 13 at C — metadata verified, content unread; 4 at D/E)
+- **Headline findings** (three of four run against the Map):
+  - **Siderits 2025, *Buddhist Physicalism?* (OUP)** — the sub-cluster's own most-cited authority (12 corpus citations, all from 2007) published a book-length case that a physicalist reading of Buddhism is "a reasonable option to consider". Ch. 8's abstract concludes "qualia are thereby shown to be artifacts of the deployment of a sort of useful fiction" — precisely the illusionism `buddhism-and-dualism` L119 declines, from premises L119 accepts. Garfield's review (read in full) confirms Siderits withholds endorsement; the hedge must travel.
+  - **Westerhoff 2020, *The Non-Existence of the Real World* (OUP)** — argues from Madhyamaka that there is no external world and no substantial unifying self. `buddhism-and-dualism` L127 nominates Madhyamaka as the resolution that *preserves* both relata for Tenets 2–3; its leading contemporary exponent argues the opposite way.
+  - **Task-title correction: the material is un-propagated, not undiscovered.** `topics/eastern-philosophy-consciousness` (linked from all three targets) already cites Thompson 2020, Metzinger 2024, Yang 2025; `voids/void-as-ground-of-meaning` cites Westerhoff 2009; `topics/phenomenal-authority-and-first-person-evidence` cites Baird 2014. *Buddhist Physicalism?* was flagged in two research notes in **February 2026** and never consumed.
+  - **Fox et al. 2012 (the sub-cluster's only empirical citation) is one-sided** — Baird et al. 2014, an RCT with active control, found the effect "in a memory but not a perception domain"; Fox's is perceptual. A 2026 *Mindfulness* study (n=124) reports a null on metacognitive monitoring. No direct replication of Fox was found — stated as such.
+- **Task-note corrections made**: "thirty reference entries" → **20** (8/6/6, measured); "never cited" → *never cited in these three articles*; a **homonym trap** logged — "Losing Ourselves" already appears 7× in the corpus as Deane, Miller & Wilkinson 2020 (*Frontiers in Psychology*), not Garfield 2022, so a title-only grep returns a false positive; the agency article's newest reference is a 2026 **Map self-citation**, external newest is 2007.
+- **Also found**: Zahavi 2024 (*JCS* 31(5)) arguing against Garfield's no-self, and Gallagher et al. 2023 pattern-theory-of-self — the "Zahavi, Gallagher" pairing at L103 has come apart; SEP *Yogācāra* entry (2024) on the contested idealist reading; the 2020–2022 Thompson dialogue (Anālayo 2021, Coseru 2021, Smith 2021, Hominh & Nguyen 2022) for the unsourced soteriological/metaphysical sentence at L158; SEP *Ethics in Indian Buddhism* substantively revised **2024**, so one "undated" reference is already current.
+- **Recommendation**: **refinement, not a new article** — `topics/` at 319/320 (1 slot), `concepts/` 315/320, `voids/` 99/100, measured with `tools.evolution.state.count_section_files`. Seven sequenced refine steps proposed; step 6 (inbound cross-links to the siblings that already hold the sources) is the fix that stops the gap recurring. One out-of-scope defect flagged for a separate task: `phenomenal-authority-and-first-person-evidence` L166 drops Baird's "memory but not perception" qualifier.
+- **Scope**: research note only — no article edited.
 
 ## 2026-08-06 17:13 UTC - refine-draft
 
