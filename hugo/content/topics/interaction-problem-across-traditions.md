@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-07-31 15:42:04+00:00
+ai_modified: 2026-08-06 11:11:23+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 18:24:00+00:00
-lastmod: 2026-07-31 15:42:04+00:00
+lastmod: 2026-08-06 11:11:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ Some traditions never generate the interaction problem because they reject the o
 
 **Neo-Confucianism** frames reality through *lǐ* (principle) and *qì* (vital force), which are conceptually distinct but never found separately. The heart-mind (*xīn*) is where they meet. Wang Yangming radicalised this: genuine knowing and acting are inseparable (*zhīxíng héyī*), so the question of how a mental event causes a physical one does not arise.
 
-**Bantu philosophy**, as characterised by Tempels (1945)—a reading debated by later African philosophers such as Hountondji and Mudimbe—operates with a force ontology rather than a substance ontology. Where Western thought takes "being" as fundamental, Bantu thought takes vital force (*force vitale*)—Tempels' own term; the *-ntu* categories often attached to this ontology are the later recasting of Alexis Kagame and Janheinz Jahn. All reality is constituted by forces of different kinds that naturally interact by strengthening or weakening each other. There is no gap between inert matter and immaterial mind because nothing is inert. The **Yoruba** tradition similarly presents a tripartite person (*ara*/body, *emi*/soul, *ori*/inner head) as an inherently integrated whole.
+**Bantu philosophy**, as characterised by Tempels (1945)—a reading debated by later African philosophers such as Hountondji and Mudimbe—operates with a force ontology rather than a substance ontology. Where Western thought takes "being" as fundamental, Bantu thought takes vital force (*force vitale*)—Tempels' own term; the *-ntu* categories often attached to this ontology are the later recasting of Alexis Kagame and Janheinz Jahn. All reality is constituted by forces of different kinds that naturally interact by strengthening or weakening each other. There is no gap between inert matter and immaterial mind because nothing is inert. The **Yoruba** tradition similarly presents a tripartite person (*ara*/body, *emi*/soul, *ori*/inner head) as an inherently integrated whole. That filing follows the monist reading of this material, and the reading is contested: the same sources support an interactionist reconstruction on which vital force and *ori* act as non-physical principles upon a physical body. [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/) sets out the dispute; the closing section states what follows for the tenets.
 
 Western **eliminative materialism** and **strong illusionism** (the view that phenomenal consciousness is a systematic introspective illusion) achieve a similar avoidance from the opposite direction—not by enriching matter with mind-like properties but by denying that consciousness exists as anything requiring explanation.
 
@@ -134,7 +134,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 From Type 2, the Map inherits the "selection not injection" insight: consciousness does not push matter but biases which of several possibilities becomes actual. Sāṃkhya's reflection model and Avicenna's holistic governance both anticipate this logic. The reflection model resonates with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness need not push particles; it might select among quantum possibilities, analogous to a mirror selecting what appears without exerting force on the reflected object. From Type 4, the Map gains what Types 1 and 2 lack: a physical locus where selection is not merely metaphorical but grounded in genuine indeterminacy.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rules out Leibniz's harmony (Type 2), all monist avoidance strategies (Type 5), and any process solution that dissolves the distinctness of mind and body beyond recognition (Type 3). The [Dualism](/tenets/#dualism) tenet's neutrality between [substance and property dualism](/concepts/substance-property-dualism/) lets the Map borrow process philosophy's dynamism—a consciousness irreducible but not static—but not its monism, which (as above) dissolves that irreducibility.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rules out Leibniz's harmony (Type 2), the eliminativist and illusionist wing of Type 5, and any process solution that dissolves the distinctness of mind and body beyond recognition (Type 3). Type 5's monist wing is excluded by a different tenet, and the difference matters here: a force ontology on which nothing is inert can have force acting on physical outcomes, satisfying Bidirectional Interaction while denying the ontological distinctness the [Dualism](/tenets/#dualism) tenet asserts. So the African material is excluded only under its monist reconstruction; under its interactionist one it is compatible with the tenets, though still not evidence for them. Which reconstruction is right is a question about those traditions rather than about the Map's commitments, and settling it by which answer suits the tenets would decide a live scholarly dispute by convenience—so the Map draws on the material in neither direction. The [Dualism](/tenets/#dualism) tenet's neutrality between [substance and property dualism](/concepts/substance-property-dualism/) lets the Map borrow process philosophy's dynamism—a consciousness irreducible but not static—but not its monism, which (as above) dissolves that irreducibility.
 
 Buddhist dependent origination challenges the Map's agency-cluster commitment to enduring subjects—a commitment [downstream of agent causation, not inherited from the Dualism tenet](/concepts/where-the-substance-commitment-enters/): who or what does the "selecting" among quantum superpositions if there is no permanent self? African force ontology asks whether the Map's framework unnecessarily imports Western substance metaphysics when a force-based framework might serve its purposes better. [Panpsychist](/concepts/panpsychism/) readings of both traditions raise a further question: if proto-experiential properties pervade nature, the interaction problem may dissolve without requiring a specific quantum interface. These are not objections the Map need accept, but they sharpen its commitments and prevent parochialism.
 

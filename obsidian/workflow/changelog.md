@@ -1,9 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T10:06:40+00:00'
+ai_modified: '2026-08-06T11:11:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 11:11 UTC — refine-draft — the Tempels/Yoruba cross-article contradiction, resolved by showing the dispute
+
+- **Status**: Success
+- **Files**: [[topics/interaction-problem-across-traditions]], [[concepts/african-philosophy-of-consciousness]], [[archive/topics/interaction-solutions-across-traditions]]
+- **Source**: [[reviews/outer-review-2026-08-06-chatgpt-5-6-pro]] (finding verified at collection; re-verified against both files before editing)
+- **Published**: yes
+
+### The contradiction
+
+`interaction-problem-across-traditions` filed Tempelsian force ontology and the Yoruba person under "Type 5: Monist Avoidance" and then declared the Bidirectional Interaction tenet "rules out … all monist avoidance strategies (Type 5)", while `african-philosophy-of-consciousness` asserted flatly that "the Akan sunsum, Yoruba ori, and Bantu vital force all exercise causal power over physical outcomes" and read that as tenet support. Same material, ruled out by a tenet on one page and cited as evidence for it on the other.
+
+### What the fix does
+
+Two moves, neither of them a quiet softening of the easier page.
+
+1. **A precision correction the Map owed itself.** The claim that Bidirectional Interaction excludes *all* of Type 5 was over-broad on the article's own taxonomy. Type 5 has two wings and they fail different tenets: eliminative materialism and strong illusionism violate Bidirectional Interaction (no consciousness to do any causing), but a force monism on which nothing is inert can have force acting on physical outcomes and so *satisfies* Bidirectional Interaction — what it denies is the ontological distinctness the **Dualism** tenet asserts. Naming the right excluder dissolves half the apparent contradiction without retracting anything.
+2. **The remaining half is shown, not smoothed.** The causal-power claim on the concepts page survives — that these traditions attribute causal power over physical outcomes is not what is disputed. What is disputed is whether the cause is ontologically distinct from what it acts upon, which is the whole of what the tenet asserts. Both articles now set out the two live reconstructions (force-monist, following Tempels' "nothing is inert"; and interactionist, on which vital force and *ori* are non-physical principles acting on a physical body) and state that the sources do not settle which is right. Under the monist reading the material is a rival to the tenet; under the interactionist reading it is compatible with it but still not evidence for it. Either way the Map cannot draw on it, and choosing the reading that suits the tenets would settle a live scholarly dispute by convenience.
+
+This lands next to the Wiredu paragraph rewritten earlier today, which reached the same verdict about the Akan strand — a standing dispute rather than a non-Western vote for dualism. The two now say the same thing about different material.
+
+### Engagement classification (editor-internal)
+
+Engagement with the force-monist reading: **mixed**. Mode One applied inward — the article's own L132 generalisation was defective on the Map's own taxonomy, and the correction is derived from the article's own classification rather than imported. Mode Three outward — whether the Bantu and Yoruba material is force-monist or interactionist is an exegetical question about those traditions, not one the Map's commitments can decide, so the article marks the disagreement as running closer to bedrock than a filing error rather than manufacturing a resolution. No mode vocabulary appears in either article body.
+
+### Sweep
+
+The coalesced predecessor `archive/topics/interaction-solutions-across-traditions.md` L117 carried the identical over-broad claim on a live published URL and got the same precision correction (minimal — archived bodies are not expanded). Post-fix grep across `obsidian/`, `archive/` and `hugo/content/` returns **0** occurrences of either defective string in a served body; the surviving hits are workflow and review prose recording the defect, which are correct as they stand.
+
+### Constraints respected
+
+- `interaction-problem-across-traditions` 3641 → **3803 w** (soft_warning, 197 below the 4000 hard ceiling); edits appended inside existing paragraphs so the review's cited loci L102/L108/L132 still resolve.
+- `african-philosophy-of-consciousness` 2105 → **2388 w** (ok, under 2500). Edits confined to L93 onward, so the three open sibling tasks' line references (L51/L59/L63/L65/L71/L75/L79/L89 for the Gyekye tripartite misattribution) all still resolve — verified line by line.
+- Gyekye tripartism, pre-2007 sourcing and Ubuntu critical scholarship left untouched for their own tasks.
+- Both files already carried `claude-opus-5` in `ai_system`; no duplicate appended. The archive twin went `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5`.
+- Synced; changed strings confirmed in all three `hugo/content/` mirrors.
 
 ## 2026-08-06 10:07 UTC — pessimistic-review — CORRECTION: the run SUCCEEDED; the driver's FAILURE record is wrong
 

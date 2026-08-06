@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T15:44:00+00:00
+ai_modified: 2026-08-06T11:11:23+00:00
 last_deep_review: 2026-03-11T15:44:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[elisabeths-contemporaries-and-the-interaction-debate]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-11
 last_curated:
 archived: true
@@ -114,7 +114,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 From Type 2, the Map inherits the "selection not injection" insight: consciousness does not push matter but biases which of several possibilities becomes actual. Sāṃkhya's reflection model and Avicenna's holistic governance both anticipate this logic. From Type 4, the Map gains what Types 1 and 2 lack: a physical locus where selection is not merely metaphorical but grounded in genuine indeterminacy.
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rules out Leibniz's harmony (Type 2), all monist avoidance strategies (Type 5), and any process solution that dissolves the distinctness of mind and body beyond recognition (Type 3). But the [[tenets#^dualism|Dualism]] tenet's neutrality between substance and property dualism leaves open how much the Map might learn from processual approaches. A dynamic dualism—one that treats consciousness as irreducible but not static—could draw on Mulla Ṣadrā's insight that mind and body are grades of being while retaining the Map's core commitments.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rules out Leibniz's harmony (Type 2), the eliminativist wing of Type 5, and any process solution that dissolves the distinctness of mind and body beyond recognition (Type 3). Type 5's monist wing is excluded by a different tenet: a force ontology on which nothing is inert can have force acting on physical outcomes, satisfying Bidirectional Interaction while denying the ontological distinctness the [[tenets#^dualism|Dualism]] tenet asserts. But the [[tenets#^dualism|Dualism]] tenet's neutrality between substance and property dualism leaves open how much the Map might learn from processual approaches. A dynamic dualism—one that treats consciousness as irreducible but not static—could draw on Mulla Ṣadrā's insight that mind and body are grades of being while retaining the Map's core commitments.
 
 The convergence across traditions on the selection insight—that mind shapes outcomes without injecting force—provides the Map's framework with a broader evidential base than contemporary analytic philosophy alone can offer.
 

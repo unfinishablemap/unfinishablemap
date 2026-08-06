@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-06 06:11:50+00:00
+ai_modified: 2026-08-06 11:11:23+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:58:00+00:00
-lastmod: 2026-08-06 06:11:50+00:00
+lastmod: 2026-08-06 11:11:23+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'
@@ -93,9 +93,11 @@ This methodology parallels what the Map recognises in [contemplative methods](/t
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) find independent resonance in African philosophical traditions. The dualism tenet — that consciousness is not reducible to physical processes — aligns with the Akan distinction between okra and honam, the Yoruba concept of ori as prior to embodiment, and the widespread treatment of vital force as ontologically fundamental across multiple traditions. These are not borrowed arguments; they developed independently and arrive at a similar starting point. That independence makes the resonance suggestive rather than coincidental — but it does not, on its own, raise the evidential status of dualism. Cross-cultural agreement is compatible with shared cognitive dispositions (the eliminativist reading, noted above) as readily as with traditions tracking a real feature of mind. What the convergence supplies is context — a demonstration that the dualist starting point is neither parochial nor a historical accident of Cartesian philosophy — not additional confirmation.
+The Unfinishable Map's [tenets](/tenets/) find independent resonance in African philosophical traditions. The dualism tenet — that consciousness is not reducible to physical processes — aligns with the Akan distinction between okra and honam, the Yoruba concept of ori as prior to embodiment, and — on one of the two readings distinguished below — the widespread treatment of vital force as ontologically fundamental across multiple traditions. These are not borrowed arguments; they developed independently and arrive at a similar starting point. That independence makes the resonance suggestive rather than coincidental — but it does not, on its own, raise the evidential status of dualism. Cross-cultural agreement is compatible with shared cognitive dispositions (the eliminativist reading, noted above) as readily as with traditions tracking a real feature of mind. What the convergence supplies is context — a demonstration that the dualist starting point is neither parochial nor a historical accident of Cartesian philosophy — not additional confirmation.
 
-The bidirectional interaction tenet — that consciousness causally influences the physical world — is assumed rather than argued in most African frameworks. The Akan sunsum, Yoruba ori, and Bantu vital force all exercise causal power over physical outcomes. The philosophical puzzle of how they do so maps onto the Map's treatment of quantum indeterminacy as the interface point.
+The bidirectional interaction tenet — that consciousness causally influences the physical world — is assumed rather than argued in most African frameworks. That the Akan *sunsum*, Yoruba *ori*, and Bantu vital force exercise causal power over physical outcomes is not itself in dispute. What is in dispute is whether the cause is ontologically distinct from what it acts upon, and that distinctness is the whole of what the tenet asserts. Read as a force ontology in Tempels' sense — nothing is inert, and what exists differs in degree of force rather than in kind — the material draws no line between a physical outcome and a non-physical cause of it, and [the Map's survey of interaction solutions](/topics/interaction-problem-across-traditions/) files exactly that ontology among the monist strategies its own dualism excludes. Read instead as interactionism, vital force and *ori* are non-physical principles acting upon a physical body, and the puzzle of how they do so is recognisably the puzzle the Map addresses by locating an interface at quantum indeterminacy.
+
+Nothing in the sources settles which reconstruction is correct, and the Map is not positioned to settle it. Which reading is right is a question about these traditions, to be decided by scholars of them, and deciding it by which answer suits the tenets would resolve a live scholarly dispute by convenience. The situation has the same shape as the Akan dispute above: until it is settled the material cannot be counted as support for bidirectional interaction, and on one of the two live readings it is a rival to the tenet rather than a witness for it. The disagreement here runs closer to bedrock than a filing error, because it turns on whether a substance ontology — a world of distinct kinds, one of which acts upon another — is the right frame for these traditions at all. That is the question the Map's own way of posing the interaction problem takes for granted, and it is not one these traditions were asked.
 
 The Map speculates that the Ubuntu tradition's relational ontology may point toward a dimension of consciousness that Western individualist frameworks systematically miss. If consciousness is genuinely relational — if its structure is shaped by intersubjective engagement — then studying it in isolation (as Western cognitive science typically does) may distort the phenomenon under investigation. The [intersubjective](/concepts/intersubjectivity/) dimension of consciousness may be as fundamental as its phenomenal character, not an add-on to a fundamentally private experience.
 
