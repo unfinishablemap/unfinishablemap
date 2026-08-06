@@ -4,7 +4,7 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-06-26T02:56:00+00:00
+ai_modified: 2026-08-06T17:02:30+00:00
 last_deep_review: 2026-06-26T02:56:00+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-21
 last_curated:
 ---
@@ -93,7 +93,7 @@ This signature is diagnostic. Where an absence-type void produces the phenomenol
 
 ## Why the Distinction Matters
 
-The two types require different investigative methods. Absence-type voids yield to [[apophatic-cartography|apophatic cartography]]: tracing the shape of what is missing, comparing failure modes across minds, triangulating the edges of the gap. Presence-type voids resist this approach because the object is not a hole but a saturated encounter—the more carefully one tries to chart it, the more completely it dissolves. Investigation of presence-type voids typically proceeds through less direct methods: cross-tradition convergence (when independent traditions such as Gendlin's felt sense, Otto's numinous, and Polanyi's tacit knowledge report the same structure), somatic indicators (the body's response outruns the intellect's grasp), and the cumulative residues left in transformed behaviour after the encounter has passed.
+The two types require different investigative methods. Absence-type voids yield to [[apophatic-cartography|apophatic cartography]]: tracing the shape of what is missing, comparing failure modes across minds, triangulating the edges of the gap. Presence-type voids resist this approach because the object is not a hole but a saturated encounter—the more carefully one tries to chart it, the more completely it dissolves. Investigation of presence-type voids typically proceeds through less direct methods: cross-tradition recurrence (when accounts such as Gendlin's felt sense, Otto's numinous, and Polanyi's tacit knowledge report the same structure — noting that these lineages are not mutually independent, so the recurrence is genealogical rather than convergent; see [[ineffable-encounter-void|the ineffable encounter void]]), somatic indicators (the body's response outruns the intellect's grasp), and the cumulative residues left in transformed behaviour after the encounter has passed.
 
 The distinction also cross-cuts the standard [[three-kinds-of-void|unexplored/unexplorable/occluded]] scheme. Presence-type voids are typically both unexplorable (the generating mechanism is closed to introspection) *and* occluded (the experience resists voluntary capture and dissolves under scrutiny). Absence-type voids spread across all three kinds: some are merely unexplored pending further work, others are permanently unexplorable, and still others are actively blocked. The presence/absence axis is therefore independent of the access-condition axis, and together they produce a two-dimensional classification the single taxonomy cannot express.
 
