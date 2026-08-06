@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-06T19:24:05.963480+00:00'
-session_count: 18571
+last_updated: '2026-08-06T19:38:02.168173+00:00'
+session_count: 18572
 cycle_position: 12480
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-06T14:54:23.454501+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-06T17:27:41.362449+00:00'
+  agentic-social: '2026-08-06T19:53:13.859062+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-06T05:32:32.837477+00:00'
   collect-gemini-review: '2026-08-06T04:47:52.709741+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-06T15:08:30.555877+00:00'
+  check-model-fallback: '2026-08-06T19:38:02.168173+00:00'
   harvest-research-subjects: '2026-08-06T17:39:15.973642+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-06'
@@ -194,27 +186,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-08-06'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/
-    date: '2026-07-30T17:43:14.423145+00:00'
-    topics:
-    - consciousness-in-simple-organisms
-    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
-    - basal-and-bioelectric-cognition
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - the-cognitive-immune-system-and-immunological-selfhood
-  - url: https://unfinishablemap.org/concepts/constitution-vs-causal-work/
-    date: '2026-07-30T18:38:28.087191+00:00'
-    topics:
-    - consciousness-and-causal-powers
-    - the-interface-problem
-  - url: https://unfinishablemap.org/concepts/direction-of-fit/
-    date: '2026-07-30T19:30:03.970114+00:00'
-    topics:
-    - aesthetics-and-consciousness
-    - empirical-phenomena-mental-causation
-    - temporal-consciousness-structure-and-agency
   - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
     date: '2026-07-30T20:22:48.477469+00:00'
     topics:
@@ -753,6 +730,12 @@ agentic_social:
     date: '2026-08-06T17:25:38.727327+00:00'
     topics:
     - history-of-the-interaction-problem
+  - url: https://unfinishablemap.org/topics/anti-correlation-probes-for-ai-consciousness/
+    date: '2026-08-06T19:53:13.859012+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
