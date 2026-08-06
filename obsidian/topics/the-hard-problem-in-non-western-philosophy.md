@@ -4,7 +4,7 @@ description: "Indian, Islamic and Japanese traditions independently found consci
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-08-06T13:41:57+00:00
+ai_modified: 2026-08-06T22:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ last_deep_review: 2026-07-29T23:02:09+00:00
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is neither universal nor uniform in strength. Chinese philosophical traditions largely dissolve rather than generate the hard problem, and the African material surveyed here supports a comparison the Map proposes rather than a further independent vote. This article takes both qualifications seriously.
 
-This article surveys how non-Western traditions frame the consciousness-matter relationship, identifying both parallels to and departures from Chalmers' formulation. The diversity of responses—from Sāṃkhya's hard dualism to Daoism's dissolution of the problem—maps onto the diversity of Western responses, suggesting the puzzle is genuine and deep.
+The responses surveyed below run from Sāṃkhya's hard dualism to Daoism's dissolution of the problem, a spread that maps onto the diversity of Western responses and suggests the puzzle is genuine and deep.
 
 ## Sāṃkhya: The Closest Non-Western Parallel
 
@@ -52,7 +52,7 @@ Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducib
 
 Sāṃkhya's dualism is more radical than Descartes'. In Cartesian dualism, mind thinks and body extends. In Sāṃkhya, *all* mental activity—including mind (*manas*), ego (*ahaṃkāra*), and intellect (*buddhi*)—belongs to *Prakṛti*. Consciousness (*Puruṣa*) is pure witnessing, changeless and causally inert. This separates phenomenal awareness from cognitive processing more sharply than any Western formulation.
 
-The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. The mechanism is reflection rather than emergence: consciousness was always present, and matter merely becomes transparent to it as material complexity organises around clarity. This resonates with the [[filter-theory]]—the view that brains transmit or filter consciousness rather than producing it.
+The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. The mechanism is reflection rather than emergence: consciousness was always present, and matter merely becomes transparent to it. This resonates with the [[filter-theory]]—the view that brains transmit or filter consciousness rather than producing it.
 
 This framing speaks to the explanatory gap. Where Chalmers asks why physical processing is accompanied by experience, Sāṃkhya answers: it is not. Experience belongs to a fundamentally different order. No arrangement of *Prakṛti* produces *Puruṣa*; the most that matter achieves is ceasing to obstruct what was always there.
 
@@ -68,7 +68,7 @@ Crucially, Nyāya holds that consciousness is not an essential attribute of the 
 
 Ibn Sīnā (Avicenna, 980–1037 CE) produced one of the most important pre-modern thought experiments about consciousness. Imagine a person created fully formed, suspended in mid-air, with no sensory input—no sight, sound, touch, or proprioception. Would this being be aware of its own existence?
 
-Ibn Sīnā answers yes. The Flying Man would affirm his own existence without any awareness of his body. Since he is aware of himself but *not* aware of his body, self and body cannot be identical. Self-awareness is independent of bodily awareness.
+Ibn Sīnā answers yes: the Flying Man would affirm his own existence without any awareness of his body. Since he is aware of himself but *not* aware of his body, self and body cannot be identical.
 
 As Peter Adamson notes, Avicenna takes it as obvious that this being would recognize its own existence without argumentative proof. The argument anticipates Descartes' *cogito* by six centuries and bears on the [[explanatory-gap]]: physical processes are neither necessary nor sufficient for self-awareness.
 
@@ -78,7 +78,7 @@ A century after Ibn Sīnā, al-Ghazālī (1058–1111 CE) pushed the Islamic tra
 
 ## Buddhist Phenomenology: Analysing Rather Than Explaining
 
-Buddhism approaches consciousness differently from all the traditions discussed so far. Rather than asking how matter produces experience (the Western framing) or asserting that consciousness is ontologically separate (Sāṃkhya, Nyāya), Buddhism analyses the *structure* of experience itself.
+Rather than asking how matter produces experience (the Western framing) or asserting that consciousness is ontologically separate (Sāṃkhya, Nyāya), Buddhism analyses the *structure* of experience itself.
 
 The Abhidharma traditions developed systematic taxonomies of mental events (*dharmas*), treating consciousness as a stream of momentary, causally connected events—a [[process-philosophy|process-oriented]] view that predates Whitehead by millennia. Jonardon Ganeri's *Attention, Not Self* (2017) traces how these Buddhist analyses of mental structure anticipate and challenge Western frameworks for understanding consciousness. The Buddhist logician-epistemologists Dignāga (c. 480–540 CE) and Dharmakīrti (c. 600–660 CE) developed the doctrine of *svasaṃvedana* (self-awareness): every cognitive event involves a pre-reflective awareness of its own occurrence. As Christian Coseru writes, "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence"—giving consciousness a reflexive, circular structure that no external description can capture.
 
@@ -86,7 +86,7 @@ The Abhidharma traditions developed systematic taxonomies of mental events (*dha
 
 Where the doctrine is accepted, it is directly relevant to the hard problem. If phenomenal awareness is intrinsic to cognition itself—not something added on top of functional processing—then no functional description captures it. *Svasaṃvedana* provides a non-Western foundation for the claim that phenomenal consciousness is irreducible to mechanism.
 
-Buddhism sidesteps the hard problem by starting from experience rather than from physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" Evan Thompson's *Waking, Dreaming, Being* (2014) explores how this phenomenological starting point generates philosophical resources unavailable to traditions that begin from third-person physical description. As the [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]] article notes, this reveals that the hard problem's urgency depends on assuming physicalism. Remove that assumption, and the problem transforms.
+Buddhism thereby sidesteps the hard problem by starting from experience rather than from physical description. Evan Thompson's *Waking, Dreaming, Being* (2014) explores how this phenomenological starting point generates philosophical resources unavailable to traditions that begin from third-person physical description. As the [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]] article notes, this reveals that the hard problem's urgency depends on assuming physicalism. Remove that assumption, and the problem transforms.
 
 ## Chinese Philosophy: A Genuine Challenge
 
@@ -108,7 +108,7 @@ Nishida Kitarō (1870–1945), founder of Japan's Kyoto School, attempted to syn
 
 "By pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination," Nishida writes in *An Inquiry Into the Good* (trans. Abe and Ives, 3). The moment of seeing a colour or hearing a sound, on his account, comes before the thought that the colour or sound is the activity of an external object, before the thought that one is sensing it, and before any judgment of what it might be. Subject and object are subsequent differentiations within pure experience, not its preconditions.
 
-Nishida dissolves the hard problem by denying that consciousness needs to be explained by physical processes. Pure experience precedes and grounds both subject and object. The hard problem arises only when one starts from the object side and tries to derive the subject. Start from pure experience, and there is no gap to bridge.
+Nishida dissolves the hard problem by denying that consciousness needs to be explained by physical processes. The gap opens only when one starts from the object side and tries to derive the subject; start from pure experience, and there is nothing to bridge.
 
 His later Logic of *Basho* (Place) develops this into a hierarchy: from the topos of being, through the topos of consciousness, to the topos of *absolute nothingness*—the formless ground within which all determinate reality takes place. This resonates with the [[witness-consciousness]] tradition's discovery that the observing subject always retreats beyond any attempt to objectify it. The Kyoto School—Nishida together with Nishitani, Tanabe, and Watsuji—receives a fuller treatment, including the dissolve-versus-dodge question and the James neutral-monist boundary, in [[japanese-philosophy-of-mind-kyoto-school]].
 
@@ -124,9 +124,9 @@ Bantu vital force (*force vitale*), as Placide Tempels reconstructed it in 1945,
 
 ## The Cross-Cultural Convergence Argument
 
-The diversity of these responses is itself philosophically significant. Traditions with no historical contact, disagreeing about substance, self, and causation, nonetheless converge on the recognition that consciousness resists physical description—functioning, on [[cross-traditional-convergence-on-consciousness-irreducibility|the structural analysis of the pattern]], as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks.
+The diversity of these responses is itself philosophically significant: traditions with no historical contact, disagreeing about substance, self, and causation, nonetheless converge on the recognition that consciousness resists physical description—functioning, on [[cross-traditional-convergence-on-consciousness-irreducibility|the structural analysis of the pattern]], as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks.
 
-However, the convergence is not unanimous. Chinese philosophical traditions largely do not generate the hard problem, and this exception must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
+However, the convergence is not unanimous: the Chinese exception set out above must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
 
 | Tradition | Framing | Strategy |
 |-----------|---------|----------|
@@ -138,7 +138,7 @@ However, the convergence is not unanimous. Chinese philosophical traditions larg
 | Nguni (*ubuntu*) | Personhood is constituted relationally | Proposed reframing; the step to consciousness is the Map's |
 | Kyoto School | Pure experience precedes subjects | Dissolve by going deeper |
 
-This partial convergence lends support to the Map's [[tenets#^dualism|Dualism tenet]], with two caveats. That Indian, Islamic, and Japanese traditions arrive at similar recognitions through independent paths suggests they may be tracking something real. But the Chinese counter-example—a major philosophical tradition in which the problem largely does not arise—means the convergence cannot be treated as decisive, and the African leg is a comparison the Map proposes rather than a recognition those traditions record. The Map maintains that the explanatory gap is genuine, while acknowledging that its universality is contested.
+This partial convergence lends support to the Map's [[tenets#^dualism|Dualism tenet]], with two caveats. The Chinese counter-example—a major philosophical tradition in which the problem largely does not arise—means the convergence cannot be treated as decisive, and the African leg is a comparison the Map proposes rather than a recognition those traditions record. The Map maintains that the explanatory gap is genuine, while acknowledging that its universality is contested.
 
 ## What Would Challenge This View?
 

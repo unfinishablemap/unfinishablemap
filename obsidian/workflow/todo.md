@@ -71,16 +71,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-06
 - **Notes**: **OBSERVED LIVE, ON AN EXTERNAL PLATFORM THAT THE LOOP CANNOT LATER CORRECT.** At 2026-08-06 15:23 UTC agentic-social posted `topics/authorship-of-action-divergence` with the blurb *"Most never noticed, and their reasons for the choice they never made were as confident and detailed as the real ones."* **The article it links to is correct** — L47 reads *"a **non-detection rate** (the proportion of **trials** on which the swap went undetected)"*. The blurb flattened a per-trial statistic into a per-participant claim. **That is the exact unit error this loop closed at SIX loci earlier the same day** (todo entry "two live articles restate the choice-blindness detection rate as a per-participant figure", completed 2026-08-06 ~03:30 UTC): Johansson et al. report *"no more than 26% of all manipulation trials (M-trials) were exposed"*, and each participant faced several, so a per-trial miss rate licenses no claim about how many people noticed nothing. **THE SYSTEMIC POINT, which is why this is worth an operator decision rather than a one-off correction.** Post blurbs are a **nav surface with no review pass** — the same class as `description:` frontmatter, which three independent outer reviewers hit on one article this cycle and which a fourth optimistic review hit on another. But blurbs are *worse* in one respect: `description:` is fixed by the next sync, whereas a published post is on a third-party platform and **cannot be corrected by any later loop pass**. The corpus can be right while the thing most readers actually see is wrong, permanently. Note also the error direction — it runs *toward* the more striking claim, which is exactly the direction a blurb-writing pass is biased to drift. **CANDIDATE FIXES (operator's call):** (a) add a compose-step instruction to grep the article for any figure or quantifier the blurb reuses, and copy the article's own hedged wording rather than paraphrasing it; (b) restrict blurbs to qualitative claims, never numbers or quantifiers ("most", "nearly all", "always"); (c) require the blurb to quote a sentence from the article verbatim rather than compose a new one; (d) accept the risk and do nothing, on the grounds that a popularising blurb is not a scholarly claim — **defensible, but it should be a decision rather than a default**. **(a) is the smallest change that addresses the observed failure.** **DO NOT let a content fork edit the SKILL.md** — that is why `File` points at the changelog. **NOT PROPOSING RETRACTION** of the live post: editing or deleting third-party published content is an outward-facing action reserved for the operator, and the harm here is a loose popularisation rather than a false citation. Recorded so the decision is visible.
 
-### P2: `the-hard-problem-in-non-western-philosophy` reached 92% of the hard ceiling paying for the African sourcing fix
-- **Type**: condense
-- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
-- **Notes**: 3242 → 3674 w (`soft_warning`; topics soft 3000 / hard 4000). The 2026-08-06 refine had to install five specialist attributions, seven reference entries and a scope paragraph to close the source-laundering finding, and only ~90 w of genuine redundancy was available to offset it.
-  - **Do not condense the African section** — every sentence there is a downgrade or an attribution the outer review specifically required, and cutting it would reopen the finding.
-  - Real targets: "Chinese Philosophy: A Genuine Challenge" is the largest section at 453 w and states the framework-dependence caveat twice within itself; the 17-entry Further Reading list at ~206 w duplicates most of its entries as inline body wikilinks with glosses.
-  - Preserve calibration hedges and citation framing throughout ([[condense-regresses-calibration-qualifiers]] is the standing hazard).
-- **Source**: refine-draft follow-up
-- **Generated**: 2026-08-06
-
 ### NEEDS-HUMAN (methodology ratification) 2026-08-06: three of the nine tradition-survey rules are gates, not lenses — a per-section dissent quota, a five-field translation ledger, and a blocking author-conclusion check
 - **Type**: refine-draft
 - **File**: obsidian/project/writing-style.md
@@ -2370,6 +2360,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-06: `the-hard-problem-in-non-western-philosophy` reached 92% of the hard ceiling paying for the African sourcing fix
+- **Type**: condense
+- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
+- **Notes**: 3242 → 3674 w (`soft_warning`; topics soft 3000 / hard 4000). The 2026-08-06 refine had to install five specialist attributions, seven reference entries and a scope paragraph to close the source-laundering finding, and only ~90 w of genuine redundancy was available to offset it.
 
 ### ✓ 2026-08-06: P-Q3's register credence moved `moderate` → `high` on 2026-07-16 and four apex loci still say *moderate* — the 2026-07-30 fix confirmed this exact defect and was scoped to one file
 - **Type**: refine-draft

@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T21:46:03+00:00'
+ai_modified: '2026-08-06T22:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 21:46:03+00:00
+lastmod: 2026-08-06 22:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 22:12 UTC - condense
+
+- **Status**: Success (scoped down — the dispatched framing was wrong)
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Before**: 3152 words body prose (+ 533 words Further Reading + References)
+- **After**: 3063 words body prose (+ 533 apparatus) — 89 words cut, 2.8%
+- **The "92% of the hard ceiling" premise was an artefact of reference apparatus.** `analyze_length` reported 3677/soft_warning, and 3677 is ~92% of the topics hard ceiling of 4000 — but 533 of those words are the reference apparatus. Decomposed, the article sat **152 words over SOFT (3000) and 848 words BELOW HARD**. Not a ceiling emergency. The intervention was sized to the real overage, not to the raw figure. Same family as the recurring `analyze-length-counts-reference-apparatus` measurement error: decompose before acting.
+- **Two recent calibration commits were protected, not trimmed.** The largest section, `## Nguni, Yoruba and Bantu Material` (501 words), is *this morning's* sourcing fix (`501d32a66`, 13:41 UTC) that added the African specialist references the article was missing — cutting it would have re-opened a defect closed nine hours earlier. `## Chinese Philosophy` (448 words) carries the 2026-07-28 scope calibration (`7210f4f45`, the Fan Zhen / *Shenmie lun* qualification). Both left whole. So was `## Relation to Site Perspective`, whose per-tenet hedges ("thematic parallels, not direct arguments", "pre-scientific metaphor versus quantum measurement") are exactly the material this skill's failure mode strips.
+- **Technique**: redundancy and transitional throat-clearing only. Lead ¶2 restated ¶1's qualifications; the Buddhist section opened and closed on the same point ("the question becomes *what is the structure of experience?*" restated its own opener); Kyoto ¶3 restated the "subject and object are subsequent differentiations" line directly above it; Sāṃkhya's reflection gloss restated the *sattva* sentence before it; Avicenna's "self-awareness is independent of bodily awareness" restated the sentence before it. In the convergence section, the Chinese counter-example was being asserted **five times** across the article (lead, Chinese section ×2, convergence ¶2, convergence closing ¶, challenge item 5) — reduced to four, with every concession still standing and the closing calibrated paragraph untouched in force.
+- **No calibration regressed.** Nothing removed was a hedge, an attribution clause, a citation frame, or a scope qualifier. The one substantive assertion dropped ("Indian, Islamic, and Japanese traditions arrive at similar recognitions through independent paths suggests they may be tracking something real") is a claim *in the Map's favour* that survives verbatim in the lead and in the Relation-to-Site Dualism paragraph — the safe direction to cut.
+- **Accepted as a survey at 63 words over soft.** The genuine redundancy ran out at 89 words. Closing the remaining 63 would have meant cutting substance from a deliberate eight-tradition breadth piece where the coverage *is* the argument. Not manufactured.
+- **Attribution**: `ai_system` held at `claude-opus-4-6+claude-opus-5` — pure cut, no new interpretive prose, and the executing model was already present. `last_deep_review` untouched.
 
 ## 2026-08-06 21:46 UTC - deep-review
 
