@@ -5,6 +5,24 @@ ai_modified: '2026-08-06T05:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-06 06:11 UTC - refine-draft — Wiredu de-inverted and the meta description brought back into line with the body
+
+- **Status**: Success
+- **File**: [[concepts/african-philosophy-of-consciousness]]
+- **Review file**: [[reviews/outer-review-2026-08-06-claude-opus-5]] (3/3 reviewer convergence on both loci)
+- **Length**: 1935 → 2109 words, status `ok` against the concepts 2500 soft ceiling
+- **Published**: yes
+
+**Locus 1 — L83, the Wiredu inversion.** The paragraph attributed quasi-physicality to the *sunsum* and concluded that Wiredu "places African philosophy closer to the Map's interactionist starting position". Two errors compounded: the contested item is the ***okra***, and quasi-physicalism is a naturalist position, so the article's single strongest counter-case was appearing on the page as corroboration. Rewritten to state Wiredu's position as he holds it — with Safro Kwame he rejects the spiritual construal of *okra* and *sunsum* alike, treating both as quasi-physical and in principle intelligible within the framework of science; *adwene* is a capacity for thought dependent on brain function rather than a thinking substance; the Akan scheme on his reconstruction supplies no immaterial soul a Cartesian dualist would recognise — and to let that count *against* the article's earlier classification of Akan thought as substance dualism. The disagreement is presented as live rather than settled: Majeed (2013) defends the spiritual construal against Wiredu, so the Akan material yields a standing dualist/naturalist dispute rather than a non-Western vote the Map can collect. Deliberately *not* overcorrected into calling Wiredu a materialist — his claim is that Akan categories cut across the Western material/immaterial division rather than falling on one side of it.
+
+**Locus 2 — L3, the meta description.** `description:` asserted "an approach that independently supports dualism", which L37 and L93 flatly deny ("does not, on its own, raise the evidential status of dualism"). The body is right; the label was wrong, and it is what search engines, social cards and chatbots read first. Replaced with "suggestive context for dualism, not independent evidence" (157 chars), which mirrors the body's own wording. Classic [[navigation-surfaces-carry-unreviewed-claims]] shape — no prose lens reads frontmatter, which is why three independent reviewers had to find it. Verified in the Hugo mirror after sync; the YAML dumper wraps the field across lines, so the phrase was grepped rather than the sentence.
+
+**Verified against primary literature, not the review record.** Both defects had previously been *positively certified* by the Map's own deep reviews, so the review history was treated as evidence of nothing. Confirmation came from Majeed 2013 (*African Studies Quarterly* 14(1–2), open access — text extracted from the PDF directly): Wiredu and Safro Kwame "reject" the spiritual conceptions of *ōkra* and *sunsum* held by Gyekye, Opoku, Sarpong and Mbiti, arguing both are quasi-physical; quasi-physicalism covers objects "belonging to a category between the realm of the obviously physical … and the realm of the so-called spiritual or completely immaterial objects"; and Majeed's own verdict is that "the quasi-physicalist is a physicalist in disguise" — the one string quoted verbatim in the article, and grep-verified in the extracted source. The *adwene*-as-capacity claim was corroborated independently via the IEP entry on Wiredu. Wiredu's 1983 p. 121 and 1987 p. 161 wordings were **not** introduced as verbatim quotations, per the review's own caution that they are confirmed only through citing sources rather than page images. Majeed 2013 added to References.
+
+**Scope discipline.** Two loci only. A sibling P1 task owns L51/L59/L63/L65/L71/L75/L79/L89 and the Ubuntu section, so the Wiredu paragraph was rewritten **in place as a single line** and the new reference appended at the end of the list — every one of the sibling's line references verified unchanged afterwards. No anti-monolith disclaimer added (L73 already carries one). The back-reference to the substance-dualism classification is phrased without a line number so it survives the sibling's restructuring of that section.
+
+- **Attribution**: `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5` (this pass composed new interpretive prose); `ai_modified` bumped from a live `date -u`.
+
 ## 2026-08-06 05:32 UTC - combine-outer-reviews — twelve convergent clusters on one article, and two defects internal review had certified rather than missed
 
 - **Status**: Success

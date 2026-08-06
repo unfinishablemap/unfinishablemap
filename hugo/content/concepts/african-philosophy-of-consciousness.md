@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-29 23:10:25+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 06:11:50+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -13,13 +13,12 @@ concepts:
 created: 2026-02-23
 date: &id001 2026-02-23
 description: African philosophical traditions treat consciousness as relational and
-  communal rather than private—an approach that independently supports dualism and
-  challenges Western materialism.
+  communal rather than private—suggestive context for dualism, not independent evidence.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:58:00+00:00
-lastmod: 2026-07-29 23:10:25+00:00
+lastmod: 2026-08-06 06:11:50+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'
@@ -84,7 +83,7 @@ Most African philosophical traditions include ancestors as members of the commun
 
 The philosophical force of ancestral consciousness is independent of whether one accepts the specific claims about post-mortem survival. The conceptual point is that these traditions never assumed consciousness was a biological product in the first place. Western philosophy had to rediscover the [hard problem](/topics/hard-problem-of-consciousness/) after centuries of materialist assumptions. Many African traditions never lost sight of it because they never adopted the materialist starting point.
 
-Wiredu, writing from the Akan tradition, complicates the picture. While he recognises that traditional Akan categories do not map neatly onto Western materialism, he also resists straightforwardly dualist readings — suggesting that the sunsum may have quasi-physical aspects and that the Akan framework defies easy classification into Western categories. What Wiredu's work demonstrates is that Akan thought operates outside the materialist/dualist binary that dominates Western philosophy of mind. The philosophical starting point is not *whether* the immaterial exists but *how* different aspects of personhood relate. This places African philosophy closer to the Map's interactionist starting position than to the Western debate about whether consciousness is physical at all.
+Kwasi Wiredu, writing from within the Akan tradition, is the strongest counter-case to the dualist reading set out above. With Safro Kwame, he rejects the spiritual construal of *okra* and *sunsum* that Gyekye and others defend, holding that both are instead *quasi-physical* — occupying a category between objects that obey the known laws of physics and anything completely immaterial, spoken of in spatial and perceptual terms, and in principle intelligible within the framework of science. That is a naturalist position; Majeed presses the point harder, calling the quasi-physicalist "a physicalist in disguise." Wiredu further declines to count mind among the entities that constitute a person at all: *adwene* names a capacity for thought, dependent on the functioning of the brain, rather than a thinking substance. On his reconstruction the Akan scheme supplies no immaterial soul of the kind a Cartesian dualist would recognise, which makes him a direct challenge to the classification of Akan thought as substance dualism offered earlier here rather than support for it. His reading is contested in turn — Majeed (2013) defends the spiritual construal against it, and the Gyekye–Wiredu disagreement is live rather than settled — so what the Akan material yields is a standing dispute between dualist and naturalist reconstructions, not a non-Western vote for dualism that the Map can simply collect. What Wiredu does not offer is materialism: his claim is that Akan categories cut across the Western material/immaterial division rather than falling on one side of it, and the Map's reading has to argue against him rather than absorb him.
 
 ## Oral Tradition as Philosophical Method
 
@@ -120,3 +119,4 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 1. Abimbola, W. (1976). *Ifá: An Exposition of Ifá Literary Corpus*. Oxford University Press.
 1. Metz, T. (2007). "Toward an African Moral Theory." *Journal of Political Philosophy*, 15(3), 321–341.
 1. Hountondji, P. (1983). *African Philosophy: Myth and Reality*. Indiana University Press.
+1. Majeed, H. M. (2013). "A Critique of the Concept of Quasi-Physicalism in Akan Philosophy." *African Studies Quarterly*, 14(1–2), 23–34. https://asq.africa.ufl.edu/wp-content/uploads/sites/168/Majeed-2013.pdf
