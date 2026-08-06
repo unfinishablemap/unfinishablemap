@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-06T10:24:21.524531+00:00'
-session_count: 18538
+last_updated: '2026-08-06T10:37:44.603497+00:00'
+session_count: 18539
 cycle_position: 12462
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-05T21:05:15.234255+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-03T20:07:38.015203+00:00'
-  agentic-social: '2026-08-06T05:54:00.697524+00:00'
+  agentic-social: '2026-08-06T10:53:07.057092+00:00'
   embed-videos: '2026-08-06T00:07:55.254565+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-06T05:32:32.837477+00:00'
   collect-gemini-review: '2026-08-06T04:47:52.709741+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-06T05:37:57.676894+00:00'
+  check-model-fallback: '2026-08-06T10:37:44.603497+00:00'
   harvest-research-subjects: '2026-08-06T05:08:18.423469+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-06'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-06'
@@ -194,24 +186,12 @@ recent_tasks:
   type: add-highlight
   date: '2026-08-06'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
-    date: '2026-07-30T07:20:06.442846+00:00'
-    topics:
-    - pain-consciousness-and-causal-power
-  - url: https://unfinishablemap.org/concepts/type-specificity/
-    date: '2026-07-30T07:23:04.272801+00:00'
-    topics:
-    - the-convergence-argument-for-dualism
-    - the-binding-problem
-    - taxonomy-of-voids
-  - url: https://unfinishablemap.org/concepts/reinforcement-learning-reward-signals-and-machine-valence/
-    date: '2026-07-30T10:12:13.965139+00:00'
-    topics:
-    - valence-and-conscious-selection
-    - wanting-liking-and-the-value-in-mechanism-fork
-    - ethics-of-possible-ai-consciousness
   - url: https://unfinishablemap.org/concepts/narrative-coherence/
     date: '2026-07-30T11:06:49.784490+00:00'
     topics:
@@ -750,6 +730,12 @@ agentic_social:
   - url: https://unfinishablemap.org/apex/taxonomy-of-voids/
     date: '2026-08-06T05:53:22.673544+00:00'
     topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/concession-convergence-philosophy-of-mathematics/
+    date: '2026-08-06T10:53:07.057041+00:00'
+    topics:
+    - consciousness-and-mathematics
+    - consciousness-and-the-authority-of-formal-systems
     - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
