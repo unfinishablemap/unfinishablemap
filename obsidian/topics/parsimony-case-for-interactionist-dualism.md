@@ -1,10 +1,10 @@
 ---
 title: "The Parsimony Case for Interactionist Dualism"
-description: "Interactionist dualism may be simpler than physicalism once all explanatory costs are counted—human+AI analysis of hidden complexity, dimensional trade-offs, and the positive simplicity argument."
+description: "If parsimony is the measure, it does not favour physicalism—human+AI analysis of hidden complexity, dimensional trade-offs, and the inference the Map declines."
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-08-03T10:01:11+00:00
+ai_modified: 2026-08-06T20:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

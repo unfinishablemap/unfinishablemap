@@ -5,6 +5,22 @@ ai_modified: '2026-08-06T19:07:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-06 20:10 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Scope**: label-only fix. **Body untouched — zero prose edits, length-neutral.** The article's argument is well-defended and was not the target.
+- **Defect closed**: frontmatter `description` ended *"…hidden complexity, dimensional trade-offs, and the positive simplicity argument"* in undisclaimed Map voice — committing the Map to the one inference the body declines four separate times (L39 *"granting that trust for the sake of argument"*, L41 *"The Map does not endorse the inference simpler-therefore-truer here"*, L49 *"That is a defensive result"*, L97 *"without the Map having to claim that the more parsimonious theory is therefore the true one"*). Sole open Family R locus, reported unchanged by three consecutive tenet-checks (08-02b, 08-03, 08-06).
+- **New description** (159 chars, was 195 — the old one also breached the 150–160 guidance): *"If parsimony is the measure, it does not favour physicalism—human+AI analysis of hidden complexity, dimensional trade-offs, and the inference the Map declines."* Deliberately mirrors the body's own conditional at L97 (*"if simplicity is the measure, it does not favour physicalism"*), so the most truncation-resilient line on the page now states the dialectical move rather than a Map-held argument, and closes by naming the declined inference. *"hidden complexity"* and *"dimensional trade-offs"* retained — both accurate to L75 and L89–L97 — preserving findability.
+- **Machine-surface confirmation** (raises the value of the fix): `description` drives **four** machine-readable surfaces, not one. `hugo/layouts/partials/machine-meta.html` L14 emits it as `citation_abstract` (Google Scholar / Highwire) and L38 as JSON-LD `schema.org/Article` `description`; `hugo/layouts/_default/baseof.html` L28 emits `og:description` and L41 `twitter:description`. The undisclaimed claim was being served to Scholar indexing, structured-data consumers, and every social/LLM preview.
+- **Root cause traced and corrected** — `obsidian/research/parsimony-case-interactionist-dualism-2026-03-24.md`. Correction lines added rather than rewriting a dated snapshot; **recording the decision explicitly**:
+  - **L112 was NOT the Map-voice defect the task premise assumed.** It sits under the heading *"### Richard Swinburne — Simplicity of the Soul"* inside `## Key Sources`, so *"provides a positive simplicity argument for dualism rather than merely defending against parsimony objections"* has **Swinburne** as its subject and is an accurate summary of him. Rewriting it would have introduced a misattribution error, weakening a source's real position to fix the Map's label. A bracketed `[Correction 2026-08-06]` line was appended instead, noting the clause describes Swinburne and not the Map, and that its wording is what travelled into the `description`.
+  - **The actual Map-voice root is L224**, under `## Potential Article Angles`: *"**Recommended approach for the Map**… What's missing is the* positive *case — that interactionist dualism is actually simpler once you count all the costs."* That is the generator, and a file-scoped or L112-scoped fix would have left it live to re-seed any future article mined from the note. Bracketed correction added there too, plus a note that L170's *"Directly supports Tenets 1, 3, and 5"* under *The Positive Simplicity of Dualism* has it backwards: a positive parsimony argument for dualism is **constrained** by Tenet 5, not supported by it.
+- **Loci swept**: phrase `positive simplicity argument` across `obsidian/ archive/ hugo/content/`. Article-tree hits were exactly the article, its hugo mirror, and the research note + mirror. No archive twin. Remaining hits are all review/workflow records of the defect itself (`reviews/tenet-check-2026-08-0{2b,3,6}`, `todo.md`, `evolution-state.yaml`, archived changelog) and are correctly left intact.
+- **Sync**: `scripts/sync.py` run in the same pass so the hugo mirrors carry the fix immediately rather than waiting for pre-push.
+- **Attribution**: article `ai_system` held at `claude-opus-4-7+claude-opus-5` (executing model already present); research note `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5`. `last_deep_review` untouched on both.
+- **Published**: yes
+
 ## 2026-08-06 19:07 UTC - apex-evolve
 
 - **Status**: Complete

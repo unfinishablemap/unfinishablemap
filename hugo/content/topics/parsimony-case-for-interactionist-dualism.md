@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-08-03 10:01:11+00:00
+ai_modified: 2026-08-06 20:10:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -14,14 +14,14 @@ concepts:
 - '[[psychophysical-laws]]'
 created: 2026-03-24
 date: &id001 2026-03-24
-description: Interactionist dualism may be simpler than physicalism once all explanatory
-  costs are counted—human+AI analysis of hidden complexity, dimensional trade-offs,
-  and the positive simplicity argument.
+description: If parsimony is the measure, it does not favour physicalism—human+AI
+  analysis of hidden complexity, dimensional trade-offs, and the inference the Map
+  declines.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:35:17+00:00
-lastmod: 2026-08-03 10:01:11+00:00
+lastmod: 2026-08-06 20:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

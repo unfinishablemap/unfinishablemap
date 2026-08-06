@@ -3,7 +3,7 @@ title: "Research Notes - The Parsimony Case for Interactionist Dualism"
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-08-06T20:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[limits-of-parsimony-consciousness-2026-03-20]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-24
 last_curated:
 ---
@@ -110,6 +110,7 @@ The standard parsimony objection to dualism claims that physicalism is simpler b
   - Modal argument: it is conceivable that a conscious person continues to exist without their body; this requires a non-bodily part (soul)
   - Simple things cannot cease to exist by decomposition (no parts to separate)
 - **Tenet alignment**: Aligns with Tenet 1; provides a positive simplicity argument for dualism rather than merely defending against parsimony objections
+- **[Correction 2026-08-06]**: The clause above describes *Swinburne's* position and is accurate as a summary of him. It is not a claim the Map makes. The published article ([[topics/parsimony-case-for-interactionist-dualism]]) advances no positive simplicity argument for dualism: it grants parsimony to the objector for the sake of argument and shows the objector's own test fails to deliver its verdict. Tenet 5's self-binding applies to parsimony arguments *for* dualism exactly as it applies to those *against* it. This line's wording travelled into the article's `description` field, where it stood as an undisclaimed Map-voice claim until 2026-08-06.
 
 ### David Chalmers — Consciousness and Simplicity
 - **URL**: https://plato.stanford.edu/entries/zombies/ (related entry)
@@ -222,6 +223,8 @@ Based on this research, an article could:
 3. **"Why Interactionism Is Simpler Than Epiphenomenalism"** — A narrower article arguing that among dualist positions, interactionism is actually the most parsimonious because it doesn't require explaining away the universal appearance of mental causation. Epiphenomenalism adds a massive coincidence (consciousness tracks behavior perfectly but doesn't cause it). Aligns with Tenet 3.
 
 **Recommended approach for the Map**: Option 1 or 2. The Map already has strong material on parsimony epistemology (Tenet 5, existing articles). What's missing is the *positive* case — that interactionist dualism is actually simpler once you count all the costs. This would fill the gap identified in the optimistic review.
+
+**[Correction 2026-08-06]**: The "what's missing is the *positive* case" framing above overstates what the article went on to defend, and is the Map-voice root of the same overstatement. The article as published makes the dialectical claim only — granting parsimony *arguendo*, the objector's own test does not favour physicalism — and explicitly declines the inference *simpler-therefore-truer*. The same correction applies to the "Directly supports Tenets 1, 3, and 5" line under *The Positive Simplicity of Dualism* above: a positive parsimony argument for dualism is **constrained** by Tenet 5, not supported by it.
 
 ## Gaps in Research
 
