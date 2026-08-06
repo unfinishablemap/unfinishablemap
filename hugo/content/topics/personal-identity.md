@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-08-04 02:36:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-05 23:58:16+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-08-04 02:36:00+00:00
+lastmod: 2026-08-05 23:58:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 Recent phenomenological work—most prominently [Zahavi's](/concepts/self-and-self-consciousness/#zahavis-position-in-his-own-terms) account of first-personal givenness—distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/): a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and a minimal layer that persists throughout.
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [inaccessible-past](/voids/inaccessible-past/) reveals, reconstruction can never fully access the original experience—each retrieval alters the trace through reconsolidation, making [consciousness a causal participant in memory's transformation](/topics/consciousness-and-memory/). The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [inaccessible-past](/voids/inaccessible-past/) reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [consciousness a causal participant in memory's transformation](/topics/consciousness-and-memory/). The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -208,7 +208,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
-- [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — How memory reconsolidation makes the self perpetually self-rewriting
+- [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — The gated lability window and intermittent self-rewriting
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The nightly gap and what it means for identity
 - [anesthesia-void](/voids/anesthesia-void/) — The imposed gap and the three-states taxonomy identity arguments require
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — The *anatta* doctrine and the witness response

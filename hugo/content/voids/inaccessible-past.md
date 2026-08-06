@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-25 19:34:14+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-05 23:58:16+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /voids/past-self-void/
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 19:34:14+00:00
-lastmod: 2026-06-25 19:34:14+00:00
+lastmod: 2026-08-05 23:58:16+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,7 +74,7 @@ This matters for The Unfinishable Map because if qualia were merely information,
 
 ## Memory Is Reconstruction, Not Retrieval
 
-Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction," not playback. Bartlett's classic studies showed memory is "an affair of reconstruction rather than mere reproduction"; through reconsolidation, each retrieval permanently alters the trace, with the "original" progressively overwritten by the present self's concerns (see [consciousness-and-memory](/topics/consciousness-and-memory/)). Conway's Self-Memory System research shows memory serves identity maintenance, not accurate recording — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories; if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. Only propositional content is reliably preserved.
+Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction," not playback. Bartlett's classic studies showed memory is "an affair of reconstruction rather than mere reproduction"; reconsolidation lets the present self's concerns overwrite what was stored, on the gated occasions when [retrieval reopens a trace](/topics/reconsolidation-as-selection-window/). Conway's Self-Memory System research shows memory serves identity maintenance, not accurate recording — the [narrative-void](/voids/narrative-void/) is the same constructive process at a higher level. Even individuals with Highly Superior Autobiographical Memory show susceptibility to false memories; if anyone could access past states directly, they would. Semantic and episodic memory can dissociate in brain damage — some patients retain facts about their past without experiential memory of having lived it. Only propositional content is reliably preserved.
 
 ## The Proustian Moment
 

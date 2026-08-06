@@ -39,11 +39,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-05)
+### P2: reconsolidation universal — archive + research tail, deferred by the 2026-08-06 obsidian pass
+
 - **Type**: refine-draft
-- **Notes**: Transcript agent-a0255f28806898a63.jsonl shows 28x claude-opus-5 message(s) alongside the primary model between 2026-08-05T17:23:46.813000+00:00 and 2026-08-05T17:26:32.976000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-05
+- **Status**: pending
+- **File**: archive/concepts/constructive-memory.md
+- **Notes**: The 2026-08-06 `refine-draft` pass closed **all obsidian loci** of the "every retrieval destabilises the trace" universal (9 files, 12 edits — see changelog `2026-08-06 00:01 UTC`). It deliberately **did not** touch the archive or research trees, and recorded that as an explicit decision rather than acting silently. This task exists so the archive call is made once, deliberately, across the whole family.
+  **THE REFUTING SOURCE — already verified at publisher, do not re-research.** Kida, S. (2020), "Function and mechanisms of memory destabilization and reconsolidation after retrieval", *Proc. Jpn. Acad. Ser. B* 96(3), 95–106 (PMC7167366). Verbatim: a retrieved memory "is not always destabilized", gated by "the duration of retrieval and the memory strength and age". **Do NOT write that propranolol blockade failed to replicate and do NOT write "replication crisis"** — unsourced reviewer framing; the Elsey, Van Ast & Kindt (2018) abstract lists propranolol among the *supporting* procedures.
+  **THE CORRECT FORMULATION ALREADY EXISTS — propagate, don't invent.** `obsidian/topics/reconsolidation-as-selection-window.md` L45 and the "Memory as Construction" section of `obsidian/concepts/episodic-memory.md` are the reference templates. Keep the *reconstructive* claim at full strength (Bartlett, Schacter & Addis, Loftus); make only the *trace-destabilisation* claim conditional. This is a calibration fix, not a retraction.
+  **THE DECISION TO MAKE FIRST.** Archived pages serve full bodies at live URLs (`https://unfinishablemap.org/archive/concepts/constructive-memory/` returns HTTP 200), so the defect is genuinely published — but they are also a preserved historical record behind an archive notice, and editing rewrites that record. Precedent exists for editing an archive twin on live-URL grounds (commit `f4b4fc195`). Decide edit-vs-leave for the family as a whole, then act; record the decision in the changelog either way.
+  **THE ARCHIVE LOCI** (grepped on disk 2026-08-06; line numbers drift, match on the string): `archive/concepts/constructive-memory.md` L58 ("**Reconsolidation**: Each retrieval makes the memory labile again.") and L72; `archive/topics/memory-consolidation-and-transformation-of-experience.md` L56, L64 ("Every act of retrieval destabilises the memory trace."), L94, L104; `archive/voids/past-self-void.md` L62; `archive/voids/memory-void.md` L57, L89; `archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md` L142; `archive/concepts/memory-as-dual-domain-capability.md` L44 ("traces are rebuilt with each access" — *not* on the original sweep's list). Each has a `hugo/content/archive/...` mirror that must be re-synced.
+  **RESEARCH SNAPSHOTS, lower priority**: `obsidian/research/voids-memory-void-2026-02-01.md` L173 and `obsidian/research/voids-past-self-void-2026-01-29.md` L158 fed the defective articles.
+  **GREP DISCIPLINE.** Search the *shortest invariant stem* (`retrieval makes the memory labile`, `each retrieval`, `every recall`, `with each access`), never one page's full sentence — a grep built from the fixed file's wording cannot see a sibling's wording. The original sweep missed `constructive-memory` for exactly this reason ("labile **again**" vs "labile **through reconsolidation**"), and the obsidian pass then found a further locus the sweep had not named. Re-grep all three trees before closing.
+  **LENGTH**: measure each file with `analyze_length` before and after; edits must be length-neutral or shortening. **MIRROR**: run `scripts/sync.py` and verify each changed string in `hugo/content/...`.
 
 ### P3: two "Folded" voids research notes never landed in their hosts — shipped content at zero cap cost
 - **Type**: refine-draft
@@ -2351,6 +2359,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-05: Verify ai_system attribution after model-fallback event (2026-08-05)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a0255f28806898a63.jsonl shows 28x claude-opus-5 message(s) alongside the primary model between 2026-08-05T17:23:46.813000+00:00 and 2026-08-05T17:26:32.976000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-08-05: Research The anti-Zeno effect and the sign of conscious observation
 - **Type**: research-topic

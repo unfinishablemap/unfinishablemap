@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-22T23:20:11+00:00
+ai_modified: 2026-08-05T23:58:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-08
 last_curated:
 last_deep_review: 2026-06-22T23:20:11+00:00
@@ -116,13 +116,13 @@ For the Map's [[episodic-memory|dual-domain framework]], this is significant. If
 
 ## Reconsolidation: When Consciousness Re-engages
 
-Every act of retrieval destabilises the memory trace. Nader, Schafe, and Le Doux (2000) demonstrated that recalled memories require protein synthesis to restabilise—a process called **reconsolidation**. During the reconsolidation window (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
+Retrieval destabilises the memory trace under identifiable conditions, not universally: a retrieved memory "is not always destabilized" (Kida 2020). Nader, Schafe, and Le Doux (2000) demonstrated that memories destabilised by recall require protein synthesis to restabilise—a process called **reconsolidation**. While that window is open (typically several hours after retrieval), the memory is labile: new information can incorporate, emotional valence can shift, and details can be lost or added.
 
-Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline, but waking retrieval triggers destabilisation through a conscious act: attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
+Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline; when waking retrieval does reopen a trace, it does so through a conscious act—attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
 
-This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval reopens them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Something determines which reconstruction becomes actual. The Map argues this may be where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but perhaps providing the directional input that would make reconstruction purposive rather than merely stochastic. This argument is developed in full—with the empirical signature held separate from the posited interface reading—in [[reconsolidation-as-selection-window]].
+This creates a cycle: sleep consolidation transforms memories outside consciousness; retrievals that reopen a trace admit conscious influence; the next round of sleep consolidation processes the modified trace. Each such cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Something determines which reconstruction becomes actual. The Map argues this may be where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but perhaps providing the directional input that would make reconstruction purposive rather than merely stochastic. This argument is developed in full—with the empirical signature held separate from the posited interface reading—in [[reconsolidation-as-selection-window]].
 
-For [[personal-identity|personal identity]], reconsolidation means the self is perpetually rewriting its own history. The person you believe yourself to have been is shaped by every act of remembering.
+For [[personal-identity|personal identity]], reconsolidation means the self rewrites its own history whenever the window opens. The person you believe yourself to have been is shaped by those acts of remembering that reopened the record.
 
 ## The Phenomenological Trajectory
 
@@ -162,15 +162,15 @@ The graduated nature of these modes complicates materialist identification of co
 
 ## The Memory Void and Qualia Persistence
 
-The [[inaccessible-past|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Each act of recall generates a new experience rather than accessing a stored original. Memories are modified by every retrieval, contaminated by subsequent experience, and shaped by present emotional states. The [[simulation-theory-of-memory|simulation theory of memory]] presses this further—Michaelian's post-causal version holds that remembering simply *is* imagining the past, dropping even the retained trace—and the Map's reply turns on the explanatory residue that construction alone cannot absorb.
+The [[inaccessible-past|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Each act of recall generates a new experience rather than accessing a stored original. Memories are contaminated by subsequent experience, modified where retrieval reopens the trace, and shaped by present emotional states. The [[simulation-theory-of-memory|simulation theory of memory]] presses this further—Michaelian's post-causal version holds that remembering simply *is* imagining the past, dropping even the retained trace—and the Map's reply turns on the explanatory residue that construction alone cannot absorb.
 
 For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [[episodic-memory|dual-domain]] pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
 
 The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 
-The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, and cryptomnesia—shows a related dissociation along a different axis: not the persistence of past phenomenology but the independence of present phenomenal output from its causal source. Each anomaly produces felt pastness, alienness, or ownership without the corresponding source machinery firing as it normally would, exhibiting at the level of present experience what the consolidation trajectory exhibits across time—the phenomenal dimension of memory operating semi-independently of its informational substrate.
+The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, and cryptomnesia—shows a related dissociation along a different axis: not the persistence of past phenomenology but the independence of present phenomenal output from its causal source. Each anomaly produces felt pastness, alienness, or ownership without the corresponding source machinery firing as it normally would, exhibiting at the level of present experience what the consolidation trajectory exhibits across time.
 
-Proustian moments—involuntary memories triggered by sensory cues that seem to recover the *feel* of past experience—test this boundary. Do they genuinely access past qualia, or do they generate exceptionally vivid simulations? The question may be unanswerable, placing it squarely in the territory of the [[inaccessible-past|inaccessible past]]—a genuine limit on what consciousness can know about its own history.
+Proustian moments test this boundary. Do they genuinely access past qualia, or do they generate exceptionally vivid simulations? The question may be unanswerable, placing it squarely in the territory of the [[inaccessible-past|inaccessible past]]—a genuine limit on what consciousness can know about its own history.
 
 ## Relation to Site Perspective
 
@@ -178,7 +178,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 
 **[[tenets#^dualism|Dualism]]** is supported by the encoding-consolidation dissociation, the irreducible phenomenology that distinguishes each memory system, and the phenomenological trajectory of consolidation. Both encoding and consolidation involve binding operations—yet consciousness is present during encoding and absent during consolidation. Neuromodulatory differences between the states relocate rather than resolve the question: why should acetylcholine levels determine the presence or absence of experience? The systematic transformation from vivid reliving to bare knowing tracks hippocampal engagement rather than information content—a dissociation dualism explains naturally as different modes of interface engagement.
 
-**[[tenets#^bidirectional-interaction|Bidirectional interaction]]** is demonstrated by the manipulation-maintenance asymmetry, the choking phenomenon, attention's gating role in encoding, and reconsolidation. Consciousness selectively participates in memory operations—required for encoding and manipulation, unnecessary for storage and consolidation, capable of disrupting automatised procedures. Reconsolidation provides especially direct evidence: each conscious retrieval destabilises the trace and reshapes it according to the subject's present concerns and self-understanding.
+**[[tenets#^bidirectional-interaction|Bidirectional interaction]]** is demonstrated by the manipulation-maintenance asymmetry, the choking phenomenon, attention's gating role in encoding, and reconsolidation. Consciousness selectively participates in memory operations—required for encoding and manipulation, unnecessary for storage and consolidation, capable of disrupting automatised procedures. Reconsolidation provides especially direct evidence: when conscious retrieval destabilises the trace, it is reshaped according to the subject's present concerns and self-understanding.
 
 **[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** is consistent with the dissociation observed here. If consciousness influences the brain through a minimal interaction mechanism, NREM consolidation represents a state where that influence is withdrawn—the brain processes memories through endogenous replay without any non-physical contribution. The reconsolidation window offers a complementary site: when the trace is destabilised and multiple restabilisation outcomes are physically possible, consciousness may bias which reconstruction becomes actual.
 
@@ -241,5 +241,6 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 1. Frankland, P. W. & Bontempi, B. (2005). The organization of recent and remote memories. *Nature Reviews Neuroscience*, 6(2), 119–130.
 1. Nadel, L. & Moscovitch, M. (1997). Memory consolidation, retrograde amnesia and the hippocampal complex. *Current Opinion in Neurobiology*, 7(2), 217–227.
 1. Nader, K., Schafe, G. E. & Le Doux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406, 722–726.
+1. Kida, S. (2020). Function and mechanisms of memory destabilization and reconsolidation after retrieval. *Proceedings of the Japan Academy, Series B*, 96(3), 95–106.
 1. Winocur, G. & Moscovitch, M. (2011). Memory transformation and systems consolidation. *Journal of the International Neuropsychological Society*, 17(5), 766–780.
 1. McClelland, J. L., McNaughton, B. L. & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex. *Psychological Review*, 102(3), 419–457.

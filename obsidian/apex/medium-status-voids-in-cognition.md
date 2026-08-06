@@ -3,7 +3,7 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-12T21:37:42+00:00
+ai_modified: 2026-08-05T23:58:16+00:00
 last_deep_review: 2026-07-19T15:22:59+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
@@ -36,7 +36,7 @@ related_articles:
   - "[[cessation-versus-plenitude]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-29
 last_curated: null
 
@@ -131,7 +131,7 @@ The criterion is structural rather than vague. *A cognitive feature has medium-s
 
 Working-memory capacity fails the third condition: its breakdowns are quantitative rather than mode-shifting. Logical inference partially passes — there is reason to think the [[inference-void|inference void]] is medium-adjacent — but the criterion's discipline is in being willing to deny medium-status when the case is not made. The criterion also marks the difference between medium-status and capacity-status: a capacity limit is in principle observable from outside; a medium limit is observable from outside only by cessation or deformation, never by direct inspection from inside, even given unlimited resources.
 
-Three harder cases test the criterion. *[[tacit-integration-void|Tacit integration]]* — Polanyi's from-to bearing relation — passes all three sub-conditions as cleanly as any of the four, and arguably more starkly on the second: *destructive analysis* is the second sub-condition in its purest form, since objectifying a subsidiary does not merely transform it but destroys the very bearing-function that made it a subsidiary. It is treated as the strongest fifth-member candidate here, held adjacent rather than admitted only because its circularity is the bearing relation common to the other four (the from-to underneath significance, filtering, gating, and framing) rather than a distinct face; a sharper account might promote it to the cluster's structural floor. *[[attention-and-consciousness|Attention]]* passes all three sub-conditions — operative-while-invisible (we see *via* attention more than we see it), mode-fragile when asked what we are attending to, known largely through breakdown — and so has a strong medium-status face; it is treated as medium-adjacent here because it inherits relevance's circularity rather than adding a distinct one. *Episodic memory* is the third: its content-status face (the remembered) coexists with a candidate medium-status face (the reconstructive operation — every recall re-encodes; the reconstruction is invisible from inside; only the re-encoded content is given). The [[aspect-perception-void|aspect-perception void]] is a perceptual-scale sibling: aspect-dawning's endpoints are reportable while the transition cannot be inspected from inside the shift. The "four" is provisional — the cluster's privilege of these voids is that they exhibit the circularity most starkly, not that they are exclusively medium-bearing.
+Three harder cases test the criterion. *[[tacit-integration-void|Tacit integration]]* — Polanyi's from-to bearing relation — passes all three sub-conditions as cleanly as any of the four, and arguably more starkly on the second: *destructive analysis* is the second sub-condition in its purest form, since objectifying a subsidiary does not merely transform it but destroys the very bearing-function that made it a subsidiary. It is treated as the strongest fifth-member candidate here, held adjacent rather than admitted only because its circularity is the bearing relation common to the other four (the from-to underneath significance, filtering, gating, and framing) rather than a distinct face; a sharper account might promote it to the cluster's structural floor. *[[attention-and-consciousness|Attention]]* passes all three sub-conditions — operative-while-invisible (we see *via* attention more than we see it), mode-fragile when asked what we are attending to, known largely through breakdown — and so has a strong medium-status face; it is treated as medium-adjacent here because it inherits relevance's circularity rather than adding a distinct one. *Episodic memory* is the third: its content-status face (the remembered) coexists with a candidate medium-status face (the reconstructive operation — every recall reassembles; the assembly is invisible from inside; only its output is given). The [[aspect-perception-void|aspect-perception void]] is a perceptual-scale sibling: aspect-dawning's endpoints are reportable while the transition cannot be inspected from inside the shift. The "four" is provisional — the cluster's privilege of these voids is that they exhibit the circularity most starkly, not that they are exclusively medium-bearing.
 
 ## What the Cluster Reveals
 

@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-06-02
 human_modified: null
-ai_modified: 2026-08-04T05:40:38+00:00
+ai_modified: 2026-08-05T23:58:16+00:00
 last_deep_review: 2026-07-14T11:12:20+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -40,7 +40,7 @@ related_articles:
   - "[[apex/steelmanning-as-method]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-09
 last_curated: null
 
@@ -120,7 +120,7 @@ Wegner deserves closer accounting: *The Illusion of Conscious Will* is a candida
 
 ### Across Time
 
-[[consciousness-and-memory|Consciousness and memory]] adds the across-time face. Consolidation transforms a recall's phenomenal character along a distinctive trajectory — vivid sensory re-experiencing in the hours after encoding, narrative gist over months, schematised semantic fact over decades — that does not track information loss point for point; hippocampal involvement tracks the qualitative shift most closely, while propositional content persists in cortical traces with the phenomenal dimension hollowed out. Encoding requires conscious attention while consolidation runs without phenomenal accompaniment, and reconsolidation reshapes the trace at each retrieval — content surviving across cycles, phenomenal character reconstituted at each recall.
+[[consciousness-and-memory|Consciousness and memory]] adds the across-time face. Consolidation transforms a recall's phenomenal character along a distinctive trajectory — vivid sensory re-experiencing in the hours after encoding, narrative gist over months, schematised semantic fact over decades — that does not track information loss point for point; hippocampal involvement tracks the qualitative shift most closely, while propositional content persists in cortical traces with the phenomenal dimension hollowed out. Encoding requires conscious attention while consolidation runs without phenomenal accompaniment, and reconsolidation reshapes traces that retrieval reopens — content surviving across cycles, phenomenal character reconstituted at each recall.
 
 The unifying observation across the three timescales: the phenomenal dimension of cognition operates semi-independently of its informational substrate. Different timescales, same dissociation signature.
 

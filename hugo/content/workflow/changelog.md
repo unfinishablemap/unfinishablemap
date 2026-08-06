@@ -4,11 +4,40 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-05T20:57:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-05'
-lastmod: 2026-08-05 20:57:25+00:00
+date: '2026-08-06'
+lastmod: 2026-08-06 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 00:01 UTC - refine-draft — reconsolidation universal: all 8 obsidian loci closed
+
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/) (task target) + 6 sibling loci
+- **Original score**: n/a — targeted calibration fix from the 2026-08-04 convergent-review family, not a general refinement pass.
+
+**The defect.** Eight live loci asserted that retrieval *universally* destabilises the memory trace. Kida (2020, *Proc. Jpn. Acad. Ser. B* 96(3), PMC7167366) refutes the universal at the publisher: a retrieved memory "is not always destabilized," gated by "the duration of retrieval and the memory strength and age." Two claims were run together at every locus and only one is defective — that retrieval is *reconstructive* is well supported and is kept at full strength; that it *destabilises the stored trace* is narrower and is now conditional throughout. No argument was retracted.
+
+**Loci fixed (7 files, 12 edits).** Numbering follows the task note.
+
+1. `topics/reconsolidation-as-selection-window` — the self-contradiction. L75 ("with each act of remembering, lightly rewriting the record") now conditional and consistent with its own L45. **Three further defects found in the same file that the task note did not list**: the `description:` frontmatter asserted the universal flat ("reopens a stored trace to revision **each time it is recalled**") — a nav surface contradicting the body (navigation-surfaces-carry-unreviewed-claims); plus "perpetually-rewriting self" at L77 and in Further Reading.
+2/3/4. `topics/consciousness-and-memory` — L119 ("Every act of retrieval destabilises the memory trace") rewritten conditional with the Kida quote; L165 and L125 softened. **Two unlisted siblings in the same file also fixed**: L121 ("waking retrieval triggers destabilisation") and L181, in *Relation to Site Perspective* ("each conscious retrieval destabilises the trace").
+5. `voids/inaccessible-past` L72 — the strongest overclaim (universal *plus* "permanently"); repointed to [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) for the boundary conditions.
+6. `topics/personal-identity` L72 — plus its Further Reading label, which asserted "makes the self perpetually self-rewriting".
+7. `apex/phenomenal-output-causal-machinery-dissociation` L123.
+8. `topics/memory-channel-interface-evidence` L120 — the interface reading kept intact, the empirical premise narrowed; plus an unlisted sibling at L152 ("each episodic retrieval").
+
+**A ninth obsidian locus the sweep had not named**: `apex/medium-status-voids-in-cognition` L134, "every recall re-encodes", the universal compressed into a parenthetical. Found by grepping the *shortest invariant stem* rather than any one page's wording — the reusable lesson the driver flagged (narrow-grep-zero-is-not-proof-of-absence).
+
+**Deliberately not changed** (checked and judged sound): `consciousness-and-memory` L111 states Multiple Trace Theory's own claim, correctly attributed to Nadel & Moscovitch; `curated-mind` L69, `episodic-memory` L120/L170 assert the *reconstructive* claim, which stands at full strength.
+
+**ARCHIVE DECISION — deferred, not silent.** The same universal is live on seven archive loci serving HTTP 200 bodies: `archive/concepts/constructive-memory` L58/L72, `archive/topics/memory-consolidation-and-transformation-of-experience` L56/L64/L94/L104, `archive/voids/past-self-void` L62, `archive/voids/memory-void` L57/L89, `archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence` L142, and `archive/concepts/memory-as-dual-domain-capability` L44 ("traces are rebuilt with each access" — not on the driver's list). **Decision: do not edit in this pass.** The task scoped this run to loci 1–8, and archived pages are a preserved historical record behind an archive notice; rewriting them silently would alter that record. Precedent cuts the other way (commit `f4b4fc195` fixed an archive twin on live-URL grounds), so this is a real call rather than an omission — a P2 task is minted so the decision is made once, deliberately, across the whole archive family rather than piecemeal. Two dated research snapshots that fed the defective articles (`research/voids-memory-void-2026-02-01` L173, `research/voids-past-self-void-2026-01-29` L158) are folded into the same task (research-note-self-flagged-gaps-propagate-to-the-article).
+
+- **Citation**: Kida (2020) added to `consciousness-and-memory` references, cited once. Elsey, Van Ast & Kindt (2018) not added anywhere — it is already carried by `concepts/episodic-memory`, and the task capped the apparatus at one cite per file. The quoted span "is not always destabilized" is contiguous and verbatim in the published abstract (American spelling preserved inside the quote). Per the task's warning, nothing was written about failed propranolol replication or a "replication crisis" — that framing came from an unsourced reviewer and the Elsey abstract lists propranolol among the *supporting* procedures.
+- **Length**: measured with `analyze_length` before and after. Six of seven files neutral or shorter — `personal-identity` −1 and the apex −1, both of which carry standing length constraints; `memory-channel` −2; `medium-status-voids` −1; `reconsolidation-as-selection-window` ±0; `inaccessible-past` −1. `consciousness-and-memory` +28, of which +21 is the Kida reference-list entry (pure apparatus, which `analyze_length` counts — analyze-length-counts-reference-apparatus); prose delta ≈ +7, offset by trimming a clause duplicated verbatim from L115 and a Proustian re-definition already given at L137.
+- **Attribution**: each file's existing `ai_system` held and `+claude-opus-5` appended; `ai_modified` bumped to a `date -u`-checked past timestamp; `last_deep_review` untouched.
+- **Mirror**: `scripts/sync.py` run; all seven changed strings verified present in the corresponding `hugo/content/...` files, and the residual grep hits in `hugo/` confirmed to be the benign reconstructive/MTT statements listed above (obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Published**: yes
 
 ## 2026-08-05 23:37 UTC — attribution audit: queue-maintenance fallback window (a0255f28, 17:23–17:26 UTC)
 

@@ -1,23 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-12 11:26:54+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-05 23:58:16+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[episodic-memory]]'
 - '[[interactionist-dualism]]'
 created: 2026-06-03
 date: &id001 2026-06-03
-description: Memory reconsolidation reopens a stored trace to revision each time it
-  is recalled. The Map reads this empirically-real lability window as the most concrete
-  occasion where conscious directional input could enter—while holding that the directional
-  reading is posited, not proven by the lability data.
+description: Memory reconsolidation reopens a stored trace to revision under identifiable
+  conditions, not at every recall. The Map reads this lability window as the most
+  concrete occasion where conscious directional input could enter—while holding that
+  the directional reading is posited, not proven by the lability data.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:26:54+00:00
-lastmod: 2026-07-12 11:26:54+00:00
+lastmod: 2026-08-05 23:58:16+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-memory]]'
@@ -77,9 +77,9 @@ That concreteness cuts both ways, and the calibration must say so. A concrete ve
 
 ## Stakes for Personal Identity
 
-If the Map's reading is even approximately right, the consequence for [personal identity](/topics/personal-identity/) is severe and runs through an established fact, not only a posited one. Because retrieval reopens traces, the self is not recalling a fixed past; it is, with each act of remembering, lightly rewriting the record it remembers from. This is the lability-level counterpart of the [simulation theory of memory](/concepts/simulation-theory-of-memory/)'s claim that remembering is construction rather than retrieval; the reconsolidation window is the concrete physical occasion the Map points to for the directional input that construction-talk leaves unspecified. The person you take yourself to have been is shaped by every occasion on which you have recalled being that person. This much follows from the lability data alone: the autobiographical record is perpetually under revision, a moving target rather than an archive.
+If the Map's reading is even approximately right, the consequence for [personal identity](/topics/personal-identity/) is severe and runs through an established fact, not only a posited one. Because retrieval can reopen traces, the self is not always recalling a fixed past; on the occasions the window opens it is lightly rewriting the record it remembers from. This is the lability-level counterpart of the [simulation theory of memory](/concepts/simulation-theory-of-memory/)'s claim that remembering is construction rather than retrieval; the reconsolidation window is the concrete physical occasion the Map points to for the directional input that construction-talk leaves unspecified. The person you take yourself to have been is shaped by those occasions on which recall reopened the record. This much follows from the lability data alone: the autobiographical record is under intermittent revision, a moving target rather than an archive.
 
-The Map's posited overlay sharpens the stake. If conscious directional input is what selects among reconstructions within the window, then the continuity of the self is partly *authored* by the subject across time rather than merely *suffered* as drift. The "I" that persists is not a pattern passively reinstantiated but one that, at each reconsolidation, has a hand—on the Map's reading—in which version of itself restabilises. Indexical identity, which the Map already treats as a real further fact rather than a convention (Tenet 4's discussion in [personal-identity](/topics/personal-identity/)), would then be reinforced rather than dissolved by reconsolidation: the perpetually-rewriting self is, on this view, perpetually *self*-rewriting. The qualifier remains in force—this stake is contingent on the posited reading; the bare lability fact gives a rewriting self without an authoring one.
+The Map's posited overlay sharpens the stake. If conscious directional input is what selects among reconstructions within the window, then the continuity of the self is partly *authored* by the subject across time rather than merely *suffered* as drift. The "I" that persists is not a pattern passively reinstantiated but one that, at each reconsolidation, has a hand—on the Map's reading—in which version of itself restabilises. Indexical identity, which the Map already treats as a real further fact rather than a convention (Tenet 4's discussion in [personal-identity](/topics/personal-identity/)), would then be reinforced rather than dissolved by reconsolidation: the intermittently-rewriting self is, on this view, *self*-rewriting. The qualifier remains in force—this stake is contingent on the posited reading; the bare lability fact gives a rewriting self without an authoring one.
 
 ## Relation to Site Perspective
 
@@ -105,7 +105,7 @@ None of these has been shown, and the contrary—residual, hard-to-predict varia
 
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — the parent topic; reconsolidation is the across-time face of the phenomenal-output / causal-machinery dissociation.
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — the mechanism by which selection within an open window could operate after decoherence.
-- [personal-identity](/topics/personal-identity/) — the perpetually-rewriting self and indexical identity.
+- [personal-identity](/topics/personal-identity/) — the intermittently-rewriting self and indexical identity.
 - [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery and the Tulving bandwidth hierarchy as a vulnerability-ordered exhibit.
 - [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — the engineered, controlled analogue of this naturally-occurring lability window: a reversible perturbation whose reopening-phase ramp is the methodological counterpart to retrieval's reconsolidation window.
 - [episodic-memory](/concepts/episodic-memory/) — the dual-domain framework for autonoetic recall.
