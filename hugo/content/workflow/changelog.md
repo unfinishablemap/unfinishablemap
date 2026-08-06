@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T22:12:00+00:00'
+ai_modified: '2026-08-06T22:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 22:12:00+00:00
+lastmod: 2026-08-06 22:24:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 22:24 UTC - refine-draft
+
+- **Status**: Success (both files repaired — this was a two-file task)
+- **Files**: [pessimistic-2026-05-19](/reviews/pessimistic-2026-05-19/) L92, [pessimistic-2026-05-22](/reviews/pessimistic-2026-05-22/) L100
+- **Changes**: de-linked two wikilinks to targets that never existed, converting each to a backticked plain-text slug.
+  - `pessimistic-2026-05-19.md` L92: `[[topics/many-worlds-and-indexicality]]` → `` `topics/many-worlds-and-indexicality` ``
+  - `pessimistic-2026-05-22.md` L100: `[[topics/voids/haecceity-void]]` → `` `topics/voids/haecceity-void` `` (also malformed — `voids` nested under `topics`)
+- **Independently re-verified before editing, not taken from the task note.** `find` across `obsidian/` and `archive/` returned **0 files** for either slug — neither target ever existed. `hugo/static/_redirects` carried **0 rules** for either path. Both strings **survived sync** into `hugo/content/reviews/` as real rendered anchors (`[many-worlds-and-indexicality](/topics/many-worlds-and-indexicality/)`, `[haecceity-void](/topics/voids/haecceity-void/)`), so unlike the memory-slug wikilinks elsewhere in `reviews/` that sync strips with a warning, these were being **served to readers as live 404s**.
+- **De-linked rather than re-pointed — the judgement is the point.** Live articles sit *near* both targets (`concepts/many-worlds`, `topics/indexical-identity-quantum-measurement`, `concepts/haecceity`, all confirmed present), but these files are historical review records: they document what a reviewer wrote on a specific date. Re-pointing would make the record assert a reference **the reviewer never made**, silently falsifying an archival document to fix a link. De-linking preserves the reviewer's exact words while no longer serving a 404 — the same discipline the corpus applies to unverifiable quotations (de-quote, never delete). No editorial marker was needed because no reference was supplied.
+- **Verification, per file separately** (post-sync, fixed-string greps across the whole `hugo/content/` tree): anchor `/topics/many-worlds-and-indexicality/` → **0**; anchor `/topics/voids/haecceity-void/` → **0**; markdown-link forms `](/topics/many-worlds-and-indexicality` → **0** and `](/topics/voids/haecceity-void` → **0**; residual wikilinks in `obsidian/reviews/` → **0** each. Both surrounding sentences re-read correctly; the remaining slug occurrences are the intended `<code>` spans, not anchors.
+- **Scope held to exactly these two lines.** The `workflow/` tree was not swept: of the 44 genuine 404s in the 2026-08-04 `/check-links` run (418 reported, 374 local-only false positives from the dev server not applying Netlify `_redirects`), **42 are in `/workflow/`**, which project convention treats as exempt prose references to planned-but-never-created articles. `topics/`, `concepts/`, `apex/`, `voids/` and `positions/` are clean; nothing has regressed against the ~417 baseline.
+- **Note — Hugo `date` drift on both files is expected and not a regression.** Sync sets `date` only when absent from the source (`converter.py` L342) and otherwise falls back to file **mtime** (L348), so both reviews now publish `date: 2026-08-06`. This follows from *touching* the file at all, independent of the `ai_modified` addition, and is routine here: **57 of ~7,147** review files already carry this drift, several by months (`optimistic-2026-01-29-late` 01-29 → 03-07; `pessimistic-2026-06-24c` 06-24 → 07-20). Left alone rather than pinning `date:`, which would exceed the stated scope.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-7` on both files — mechanical link repair, no new interpretive prose. `ai_modified: 2026-08-06T22:24:00+00:00` added to both (the field was absent; the whole `reviews/` section omits it). `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-08-06 22:12 UTC - condense
 

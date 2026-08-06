@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-06 22:24:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-22
-date: '2026-05-22'
+date: '2026-08-06'
 draft: false
-lastmod: 2026-05-22 00:00:00+00:00
+lastmod: 2026-08-06 22:24:00+00:00
 related_articles: []
 title: Pessimistic Review - 2026-05-22
 ---
@@ -101,7 +102,7 @@ The presence problem at line 91 — "It is an all-encompassing spatial envelope 
 
 ### Construction, perspective, and presence are not three independent problems
 - **Current content says**: §"Three Dimensions of the Problem" presents construction, perspective, and presence as three distinguishable aspects "each posing its own challenge."
-- **A critic would argue**: The perspective problem is the indexical-identity problem in spatial dress and is already counted in the Map's case against MWI (Tenet 4) and in the [haecceity-void](/topics/voids/haecceity-void/)-adjacent material. The construction problem is the binding problem applied to space and is already counted at [the-binding-problem](/topics/the-binding-problem/) and [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/). The presence problem is the closest to a genuinely independent contribution. Counting all three as independent puzzles overcounts the spatial-cognition cluster's contribution to the overall dualist case — exactly the convergence-double-counting pattern [concession-convergence](/concepts/concession-convergence/) and [common-cause-null](/project/common-cause-null/) are designed to discipline.
+- **A critic would argue**: The perspective problem is the indexical-identity problem in spatial dress and is already counted in the Map's case against MWI (Tenet 4) and in the `topics/voids/haecceity-void`-adjacent material. The construction problem is the binding problem applied to space and is already counted at [the-binding-problem](/topics/the-binding-problem/) and [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/). The presence problem is the closest to a genuinely independent contribution. Counting all three as independent puzzles overcounts the spatial-cognition cluster's contribution to the overall dualist case — exactly the convergence-double-counting pattern [concession-convergence](/concepts/concession-convergence/) and [common-cause-null](/project/common-cause-null/) are designed to discipline.
 - **Suggested response**: Add a short paragraph in §"Three Dimensions of the Problem" naming the overlap. The construction and perspective problems can be presented as *spatial-cognitive instances* of corpus-wide arguments (binding, indexical identity) rather than as independent contributions; the presence problem can be presented as the article's distinctive addition. The honest framing strengthens the article by clarifying what it uniquely contributes.
 
 ## Unsupported Claims

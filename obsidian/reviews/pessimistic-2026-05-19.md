@@ -4,6 +4,7 @@ created: 2026-05-19
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
+ai_modified: 2026-08-06T22:24:00+00:00
 ---
 
 # Pessimistic Review
@@ -89,7 +90,7 @@ The four mechanisms in §"What the Map Hypothesises Consciousness Does" share a 
 
 - **Current content says**: §"Selection among alternatives" parenthetically notes that the framework presupposes a non-Everettian interpretation and that the rejection "does load-bearing work here."
 - **A critic would argue**: The parenthetical understates the load. Every causal claim the article makes is predicated on there being *one* actualised outcome to be selected; under MWI there is nothing to select. The Map's rejection of MWI is itself an unexplained postulate (the Map's collapse mechanism is consciousness, but the article cannot use that to justify the rejection without circularity). The §"Ontological restraint" virtue is calculated *after* MWI has been rejected without counting the rejection as a cost.
-- **Suggested response**: Add a sentence to §"Selection among alternatives" or to §"Ontological restraint" explicitly registering that the Map's rejection of MWI is itself a substantive metaphysical commitment carrying epistemic cost, and pointing to where that cost is paid (Tenet 4 commentary in [[tenets]] or [[topics/many-worlds-and-indexicality]]).
+- **Suggested response**: Add a sentence to §"Selection among alternatives" or to §"Ontological restraint" explicitly registering that the Map's rejection of MWI is itself a substantive metaphysical commitment carrying epistemic cost, and pointing to where that cost is paid (Tenet 4 commentary in [[tenets]] or `topics/many-worlds-and-indexicality`).
 
 ### The eliminative-materialist redescription of "effort" as noradrenergic modulation
 
