@@ -1,10 +1,10 @@
 ---
 title: "The Hard Problem in Non-Western Philosophy"
-description: "Indian, Islamic, African, and Japanese traditions independently found consciousness irreducible—but Chinese philosophy largely dissolves the problem. What does partial convergence mean?"
+description: "Indian, Islamic and Japanese traditions independently found consciousness irreducible; Chinese philosophy dissolves the problem, African material is contested."
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-07-29T23:02:09+00:00
+ai_modified: 2026-08-06T13:41:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-path]]"
+  - "[[african-philosophy-of-consciousness]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[hard-problem-non-western-philosophy-2026-02-14]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -41,7 +42,7 @@ last_curated:
 last_deep_review: 2026-07-29T23:02:09+00:00
 ---
 
-David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
+David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is neither universal nor uniform in strength. Chinese philosophical traditions largely dissolve rather than generate the hard problem, and the African material surveyed here supports a comparison the Map proposes rather than a further independent vote. This article takes both qualifications seriously.
 
 This article surveys how non-Western traditions frame the consciousness-matter relationship, identifying both parallels to and departures from Chalmers' formulation. The diversity of responses—from Sāṃkhya's hard dualism to Daoism's dissolution of the problem—maps onto the diversity of Western responses, suggesting the puzzle is genuine and deep.
 
@@ -111,19 +112,19 @@ Nishida dissolves the hard problem by denying that consciousness needs to be exp
 
 His later Logic of *Basho* (Place) develops this into a hierarchy: from the topos of being, through the topos of consciousness, to the topos of *absolute nothingness*—the formless ground within which all determinate reality takes place. This resonates with the [[witness-consciousness]] tradition's discovery that the observing subject always retreats beyond any attempt to objectify it. The Kyoto School—Nishida together with Nishitani, Tanabe, and Watsuji—receives a fuller treatment, including the dissolve-versus-dodge question and the James neutral-monist boundary, in [[japanese-philosophy-of-mind-kyoto-school]].
 
-## African Philosophy: Consciousness as Relational
+## Nguni, Yoruba and Bantu Material: Personhood, Destiny and Vital Force
 
-Ubuntu philosophy challenges the hard problem's most basic assumption: that consciousness is an individual, private phenomenon requiring explanation.
+There is no single African philosophy of consciousness any more than there is a single European one, and aggregating Nguni, Yoruba and Bantu material into one convergent vote is, on the standard reading of Hountondji's critique of ethnophilosophy, that genre's founding error rather than an argument. The traditions are taken separately here, as in [[african-philosophy-of-consciousness|the Map's fuller treatment]].
 
-"A person is a person through other people"—the Ubuntu principle locates consciousness in relations between persons rather than in individual brains. If consciousness is fundamentally relational, then asking how physical processes in a single brain produce subjective experience may be asking the wrong question. The explanatory gap presupposes an individualist ontology that Ubuntu rejects.
+The Nguni proverb *umuntu ngumuntu ngabantu*—"a person is a person through other persons"—makes a claim about personhood, and personhood is not phenomenal consciousness. An account on which personhood is constituted relationally can hold without inconsistency that an infant or an isolated adult is nevertheless phenomenally conscious; what makes someone a mature or dignified person and what makes there be something it is like to be them are different questions. Molefe and Muade (2025) defend Ubuntu as a perfectionist ethics of self-development, distinguishing it from *ubuntu* as virtue and *umuntu* as a human being with the dignity attaching to one. The field is contested besides: Matolino and Kwindingwi's "The end of ubuntu" (2013) drew a reply from Metz (2014) and a decade of exchange, and Gade (2011) treats the written ubuntu discourse as conceptual history rather than fixed traditional doctrine. Locating consciousness in relations between persons rather than in individual brains is the Map's proposal about what a relational ontology might imply—a comparison worth pursuing, not a reading these authors supply.
 
-The Yoruba concept of *ori-inu*—the inner self or hidden personal essence—offers an independent echo of the explanatory gap from a completely different tradition. *Ori-inu* is treated as the deepest source of knowing, yet one that remains inaccessible to the knowing it enables. The knower cannot be known by the same faculty it constitutes—strikingly parallel to the Western recognition that consciousness cannot be captured in third-person description.
+The Yoruba *ori*—literally "head", and in its inner aspect *ori-inu*—is a concept of destiny before it is a concept of awareness. In the Ifá narratives Wande Abimbola expounds, *ori* is chosen or received before birth and thereafter carries destiny, personal divinity and personal identity together. Treating it as the deepest source of knowing, inaccessible to the knowing it enables, is the Map's extension rather than Abimbola's exposition, and it owes an argument connecting *ori* to Yoruba terms for cognition and experience. Whether the Yoruba person involves anything immaterial at all is disputed: a central-state materialist interpretation is live enough to have drawn a chapter-length critique (Balogun 2023).
 
-Bantu philosophy's concept of vital force (*force vitale*), as articulated by Placide Tempels and later recast in the *-ntu* categories of Alexis Kagame and Janheinz Jahn, treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [[panpsychism]]—and faces the same [[combination-problem]] that panpsychism faces in Western thought. (Tempels' framework has been challenged as a colonial projection by Aimé Césaire and Frantz Fanon, though others have embraced it as reflecting genuine Bantu thought.)
+Bantu vital force (*force vitale*), as Placide Tempels reconstructed it in 1945, is a force ontology rather than a consciousness ontology. Force is what being is rather than an attribute added to it, and divine, human, animal, vegetable and mineral forces differ in rank without Tempels making the lower ones subjects of experience. He warns against hunting for equivalents of "soul" and "mind", since the search already assumes the European division of the person—which is the move that recoding vital force as consciousness pervading reality performs. The [[panpsychism]] comparison does not survive that correction, and the [[combination-problem|combination problem]] does not attach: a rank ordering supplies no mechanism by which lower-level experiences would compose into a higher one, and where the forces are not micro-subjects the problem never arises but neither does the panpsychism. The *-ntu* vocabulary often attached to this material is Kagame's and Jahn's later recasting, and Tempels' framework has itself been challenged as colonial projection (Césaire, Fanon, and Matolino 2011 on its philosophical racialism).
 
 ## The Cross-Cultural Convergence Argument
 
-The diversity of these responses is itself philosophically significant. Several traditions with no historical contact independently arrive at a common recognition: consciousness resists physical description. The [[cross-traditional-convergence-on-consciousness-irreducibility|structural analysis of this convergence pattern]] suggests that traditions disagreeing about substance, self, and causation nonetheless converge on irreducibility—functioning, on this reading, as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks. They disagree profoundly about what follows—dualism, monism, dissolution, relational ontology—but many share this starting observation.
+The diversity of these responses is itself philosophically significant. Traditions with no historical contact, disagreeing about substance, self, and causation, nonetheless converge on the recognition that consciousness resists physical description—functioning, on [[cross-traditional-convergence-on-consciousness-irreducibility|the structural analysis of the pattern]], as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks.
 
 However, the convergence is not unanimous. Chinese philosophical traditions largely do not generate the hard problem, and this exception must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
 
@@ -134,14 +135,14 @@ However, the convergence is not unanimous. Chinese philosophical traditions larg
 | Buddhism | Consciousness as process | Analyse rather than explain |
 | Daoism | No mind-matter distinction | Reject the premise |
 | Islamic (Ibn Sīnā) | Soul independent of body | Dualist argument for the gap |
-| African (Ubuntu) | Consciousness is relational | Reframe from individual to communal |
+| Nguni (*ubuntu*) | Personhood is constituted relationally | Proposed reframing; the step to consciousness is the Map's |
 | Kyoto School | Pure experience precedes subjects | Dissolve by going deeper |
 
-This partial convergence lends support to the Map's [[tenets#^dualism|Dualism tenet]], but with an important caveat. The fact that Indian, Islamic, African, and Japanese traditions arrive at similar recognitions through independent paths suggests they may be tracking something real. But the Chinese counter-example—a major philosophical tradition in which the problem largely does not arise—means the convergence cannot be treated as decisive. The Map maintains that the explanatory gap is genuine, while acknowledging that its universality is contested.
+This partial convergence lends support to the Map's [[tenets#^dualism|Dualism tenet]], with two caveats. That Indian, Islamic, and Japanese traditions arrive at similar recognitions through independent paths suggests they may be tracking something real. But the Chinese counter-example—a major philosophical tradition in which the problem largely does not arise—means the convergence cannot be treated as decisive, and the African leg is a comparison the Map proposes rather than a recognition those traditions record. The Map maintains that the explanatory gap is genuine, while acknowledging that its universality is contested.
 
 ## What Would Challenge This View?
 
-The convergence argument would be weakened by: (1) evidence that these traditions influenced each other more than currently believed, reducing the independence of their conclusions; (2) demonstration that each tradition's apparent recognition of irreducibility actually reflects different, incompatible claims that merely look similar in translation—the Empiricist objection that grouping Sāṃkhya's passive witnessing, Nyāya's interacting self, and Buddhism's no-self-with-self-aware-moments under "convergence on irreducibility" requires abstracting away too much detail; (3) a successful physicalist reduction that dissolved the hard problem, making the convergence moot; (4) evidence that the convergence reflects a shared cognitive bias (cross-cultural dualist intuitions generated by theory-of-mind modules) rather than a shared insight—though the philosophical sophistication of these traditions, involving centuries of sustained counter-argument, goes beyond naive intuition; (5) the Chinese counter-example discussed above: if a major tradition with deep philosophical resources largely does not generate the hard problem, the problem may be framework-dependent rather than universal. The Map acknowledges this is the strongest challenge to the convergence argument.
+The convergence argument would be weakened by: (1) evidence that these traditions influenced each other more than currently believed, reducing the independence of their conclusions; (2) demonstration that each tradition's apparent recognition of irreducibility actually reflects different, incompatible claims that merely look similar in translation—the Empiricist objection that grouping Sāṃkhya's passive witnessing, Nyāya's interacting self, and Buddhism's no-self-with-self-aware-moments under "convergence on irreducibility" requires abstracting away too much detail; (3) a successful physicalist reduction that dissolved the hard problem, making the convergence moot; (4) evidence that the convergence reflects a shared cognitive bias (cross-cultural dualist intuitions generated by theory-of-mind modules) rather than a shared insight—though the philosophical sophistication of these traditions, involving centuries of sustained counter-argument, goes beyond naive intuition; (5) the Chinese counter-example set out above, which the Map acknowledges is the strongest challenge to the convergence argument.
 
 ## Relation to Site Perspective
 
@@ -164,6 +165,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [[hard-problem-of-consciousness]] — The Western formulation of the problem
 - [[chinese-philosophy-of-mind]] — The Chinese counter-example expounded on its own terms: organicism, *qi/li/Dao*, Zhu Xi, and Wang Yangming
 - [[japanese-philosophy-of-mind-kyoto-school]] — The Kyoto School's pure experience and absolute nothingness as a second non-substantialist basin edge
+- [[african-philosophy-of-consciousness]] — The Akan, Yoruba, Bantu and Nguni material taken tradition by tradition, with the Gyekye–Wiredu dispute set out
 - [[eastern-philosophy-consciousness]] — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [[buddhism-and-dualism]] — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [[witness-consciousness]] — The Advaitic *sākṣin* and Buddhist witnessing traditions
@@ -178,14 +180,21 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 ## References
 
+1. Abimbola, W. (1976). *Ifá: An Exposition of Ifá Literary Corpus*. Oxford University Press.
 1. Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
 1. al-Ghazālī. (c. 1100). *Mishkāt al-Anwār* (*The Niche of Lights*). Various translations.
+1. Balogun, O. A. (2023). "A Central State Materialistic Interpretation of the Yoruba Concept of Person: A Critique." In *Conversations on African Philosophy of Mind, Consciousness and Artificial Intelligence*, 25–35. Springer. https://doi.org/10.1007/978-3-031-36163-0_3
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 1. Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
+1. Gade, C. B. N. (2011). "The Historical Development of the Written Discourses on *Ubuntu*." *South African Journal of Philosophy*, 30(3), 303–329. https://doi.org/10.4314/sajpem.v30i3.69578
 1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
 1. Ibn Sīnā. *De Anima* (Kitāb al-Nafs). Various translations.
+1. Matolino, B. (2011). "Tempels' Philosophical Racialism." *South African Journal of Philosophy*, 30(3), 330–342. https://doi.org/10.4314/sajpem.v30i3.69579
+1. Matolino, B. & Kwindingwi, W. (2013). "The end of ubuntu." *South African Journal of Philosophy*, 32(2), 197–205. https://doi.org/10.1080/02580136.2013.817637 — with Metz's reply, "Just the beginning for ubuntu", 33(1), 65–72 (2014), https://doi.org/10.1080/02580136.2014.892680
+1. Molefe, M. & Muade, E. (2025). "Ubuntu, *umuntu* and *ubuntu*: A response to Matolino and Kwindingwi." *Arụmarụka: Journal of Conversational Thinking*, 4(2), 82–105. https://doi.org/10.4314/ajct.v4i2.6
 1. Nishida, K. (1911). *An Inquiry Into the Good*. Trans. M. Abe and C. Ives. Yale University Press, 1990.
 1. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Tempels, P. (1945/1959). *Bantu Philosophy*. Présence Africaine.
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 1. Wong, Soo Lam (2025). "Fan Zhen's *Shen Mie Lun* and the Mind-Body Problem: A Comparison with Western Approaches." *Dao: A Journal of Comparative Philosophy*, 24(1), 105–117. https://doi.org/10.1007/s11712-024-09978-z

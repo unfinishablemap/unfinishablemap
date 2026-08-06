@@ -37,14 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `the-hard-problem-in-non-western-philosophy` asserts Ubuntu and Ori claims with no African specialist source in its references
-- **Type**: refine-draft
+### P3: `the-hard-problem-in-non-western-philosophy` reached 92% of the hard ceiling paying for the African sourcing fix
+- **Type**: condense
 - **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
-- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: the article's reference list returns zero hits for Gyekye, Tempels, Wiredu, Abimbola, Metz, Hountondji, Mbiti, Ramose or Molefe, yet L118 asserts flatly that the Ubuntu principle "locates consciousness in relations between persons rather than in individual brains", L120 treats *ori-inu* as the deepest source of knowing, and L122 recodes Bantu vital force as consciousness pervading reality and inheriting the combination problem.
-  - This is the second half of a circular structure the reviewer calls **source laundering by internal repetition**: the survey article supplies an unsupported interpretation and this page repeats it as cross-cultural evidence.
-  - Either add direct African specialist sources for these claims or downgrade them to proposed comparisons. Note that personhood claims and phenomenal-consciousness claims are being run together — an Ubuntu theory can make personhood relational while holding that an isolated individual is still phenomenally conscious.
-- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
-- **Source**: outer-review
+- **Notes**: 3242 → 3674 w (`soft_warning`; topics soft 3000 / hard 4000). The 2026-08-06 refine had to install five specialist attributions, seven reference entries and a scope paragraph to close the source-laundering finding, and only ~90 w of genuine redundancy was available to offset it.
+  - **Do not condense the African section** — every sentence there is a downgrade or an attribution the outer review specifically required, and cutting it would reopen the finding.
+  - Real targets: "Chinese Philosophy: A Genuine Challenge" is the largest section at 453 w and states the framework-dependence caveat twice within itself; the 17-entry Further Reading list at ~206 w duplicates most of its entries as inline body wikilinks with glosses.
+  - Preserve calibration hedges and citation framing throughout ([[condense-regresses-calibration-qualifiers]] is the standing hazard).
+- **Source**: refine-draft follow-up
 - **Generated**: 2026-08-06
 
 ### P2: `cross-cultural-convergence-on-mental-causation` L53 asserts Ubuntu maintains mind-brain non-reducibility, sourced only to a sibling Map page
@@ -2427,6 +2427,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-06: `the-hard-problem-in-non-western-philosophy` asserts Ubuntu and Ori claims with no African specialist source in its references
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: the article's reference list returns zero hits for Gyekye, Tempels, Wiredu, Abimbola, Metz, Hountondji, Mbiti, Ramose or Molefe, yet L118 asserts flatly that the Ubuntu principle "locates consciousness in relations between persons rather than in individual brains", L120 treats *ori-inu* as the deepest source of knowing, and L122 recodes Bantu vital force as consciousness pervading reality and inheriting the combination problem.
+  - This is the second half of a circular structure the reviewer calls **source laundering by internal repetition**: the survey article supplies an unsupported interpretation and this page repeats it as cross-cultural evidence.
+  - Either add direct African specialist sources for these claims or downgrade them to proposed comparisons. Note that personhood claims and phenomenal-consciousness claims are being run together — an Ubuntu theory can make personhood relational while holding that an isolated individual is still phenomenally conscious.
 
 ### ✓ 2026-08-06: two quoted spans attributed to Harrison & Loui (2014) are not in the paper — live on three published URLs
 - **Type**: refine-draft

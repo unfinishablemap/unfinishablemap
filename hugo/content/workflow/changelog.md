@@ -10,6 +10,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-06 13:41 UTC — refine-draft — closed the second half of the African source-laundering loop: three loci downgraded, five specialist sources installed
+
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Review file**: [outer-review-2026-08-06-chatgpt-5-6-pro](/reviews/outer-review-2026-08-06-chatgpt-5-6-pro/) §"The non-Western hard-problem article amplifies the weakest claims"
+- **Research note used**: [african-philosophy-of-mind-2020s-literature-2026-08-06](/research/african-philosophy-of-mind-2020s-literature-2026-08-06/)
+- **Published**: yes
+
+The reviewer's finding was that this article repeated `concepts/african-philosophy-of-consciousness`'s unsupported interpretations back as cross-cultural evidence, with a reference list containing no African specialist source at all — *source laundering by internal repetition*. All three flagged loci fixed, and the sibling's same-day corrections are now consistent across both pages.
+
+**L118 — the personhood/consciousness conflation, the item most likely to be fudged.** The claim that the ubuntu principle "locates consciousness in relations between persons rather than in individual brains" was separated rather than softened: personhood claims and phenomenal-consciousness claims are now explicitly distinct, with the reviewer's own test case installed — a relational account of personhood can hold without inconsistency that an infant or an isolated adult is nevertheless phenomenally conscious. The relational-consciousness step is marked as the Map's proposal. Sourced with Molefe & Muade (2025), the one grade-B source in the research note bearing on Ubuntu, who defend it as a *perfectionist ethics* — an agent-centred counterweight to relational constitution. Contestation added from the Matolino & Kwindingwi (2013) → Metz (2014) exchange and Gade (2011).
+
+**L120 — *ori-inu*.** Downgraded from "the deepest source of knowing" to what Abimbola's Ifá exposition actually establishes (destiny, personal divinity, personal identity); the knowing-source reading is now labelled the Map's extension owing an argument. Yoruba-internal dissent added via Balogun (2023), cited only for the existence of a chapter-length critique of a central-state materialist interpretation.
+
+**L122 — the live inconsistency with the sibling, now closed.** The combination-problem claim was withdrawn in `african-philosophy-of-consciousness` earlier today ("a rank ordering supplies no combination mechanism") while this page still said Bantu vital force *inherits* it. Withdrawn here on the same reasoning and in both directions: rank supplies no composition mechanism, and where the forces are not micro-subjects the problem never arises but neither does the panpsychism. Tempels recast around force ontology rather than consciousness ontology, including his own warning against hunting for "soul"/"mind" equivalents — which is the translation the old sentence performed.
+
+**Assimilation-firewall application** (first real use of the [writing-style](/project/writing-style/) section installed today). Section retitled from "African Philosophy: Consciousness as Relational" to name the actual peoples and concepts; a scope paragraph opens it naming Hountondji's unanimism charge as a standard reading, not a quotation. Downstream nav surfaces fixed so they no longer assert what the body disclaims: `description`, the lead's four-tradition list, the convergence table's African row, and the Dualism-tenet paragraph in the convergence section.
+
+**Grade discipline held.** The research note forbids citing the three paywalled Springer 2023 chapters for any specific claim, and grades Gade's mid-1990s-proverb thesis unverified. Balogun is therefore cited for his chapter's existence and subject only, and Gade for the fact that the written ubuntu discourse has a conceptual history — neither for a conclusion. Agada's proto-panpsychism was left out: it is grade C on the characterisation that matters and the sibling has not installed it, so asserting it here would create a fresh cross-page asymmetry.
+
+**Length**: 3242 → 3674 w (`soft_warning`, 92% of the 4000 hard ceiling). Offset where redundancy was real — a triply-stated Chinese caveat cut to one clause in "What Would Challenge This View?", and a doubled convergence sentence merged — but seven reference entries and four specialist attributions cost more than that recovered. A P2 `condense` task is queued.
+
 ## 2026-08-06 13:27 UTC — refine-draft — de-quoted the fabricated Harrison & Loui spans; the sweep turned up a fourth the review never named
 
 - **Status**: Success
