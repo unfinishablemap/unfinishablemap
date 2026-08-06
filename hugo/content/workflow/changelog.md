@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T19:07:34+00:00'
+ai_modified: '2026-08-06T21:46:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 19:07:34+00:00
+lastmod: 2026-08-06 21:46:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 21:46 UTC - deep-review
+
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/) (primary), [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/) (archive twin)
+- **Word count**: 3504 body prose → 3504 + 15 words (reference apparatus excluded; `analyze_length`'s 3970 counts 604 words of Further Reading + References and must not be read against the 4000 hard ceiling)
+- **Critical/medium issues addressed**: 2 in the live article, 2 more in the archive twin
+- **Selection**: oldest `last_deep_review` in the contention-free pool (45d, 24 cites). Picked *because* the 2026-06-22 pass recorded the §2.4 web-verify as "Skip-justified — References block unchanged since the clean 2026-06-03 ledger". That is a **metadata** argument, and metadata was never the exposed surface. A clean recent ledger is a trigger to switch lenses, not evidence of a no-op.
+- **Defect 1 — Cellini & Capuozzo 2018 mis-framed as meta-analytic evidence.** L105 bundled a **narrative review** (PubMed publication type: Review; DOI 10.1111/nyas.13855; published two years *before* Hu et al. and reporting no REM/wake null) under "Meta-analytic evidence", and attributed Hu's small-*k* caveat to a plural "the authors" spanning both cites. Citation-framing defect: both cites real, both correctly listed in References, yet the sentence mis-assigns what each supplies. Fixed — meta-analytic finding and caveat now attributed to Hu et al. alone; Cellini & Capuozzo cited in their actual role (their abstract: results "depend on … the specific sleep stage of stimulation").
+- **Defect 2 — Baddeley position-strength drift.** L93 read "because Baddeley **identified** conscious awareness as its principal mode of retrieval". Baddeley's own abstract (TiCS 4(11):417–423): "Conscious awareness **is assumed to be** the principal mode of retrieval from the buffer." A modelling posit presented as a finding, on one of the article's four Tenet-3 supports. Fixed to "Baddeley's model assumes…". Same family the 2026-07-12 `language-recursion-and-consciousness` review fixed at its own locus; resolutions now consistent.
+- **Archive twin carried WORSE forms (fix-by-file sweep).** `archive/topics/consciousness-and-memory-consolidation.md` is a full serving body on a live URL. It asserted the REM/wake null with **no caveat at all** plus an unsupported empirical embellishment — "even when external cues are matched" — a controlled contrast the meta-analysis never reports (in TMR, cueing *is* matched by design). Also still attributed Zheng & Meister's ~10 bits/s to "conscious experience" where the live article had already been corrected to "human **behavioural** throughput". Both fixed.
+- **Claim-match ledger (publisher-of-record, primary texts only)**: Hu et al. 2020 *Psych. Bull.* 146(3):218–244 — **claim-match CONFIRMED** by reading the full text: NREM *k*=174 vs REM *k*=15, wake *k*=30, and the authors' verbatim caution "it would be inappropriate to generalize from the small number of wake TMR findings included in this meta-analysis". Geva-Sagiv 2023 *Nat. Neurosci.* 26(6):1100–1110 — CONFIRMED. Zheng & Meister 2025 *Neuron* 113(2):192–204 — CONFIRMED. Kida 2020 *Proc. Japan Acad. B* 96(3):95–106 — quote "is not always destabilized" **verbatim-confirmed at J-STAGE primary text**, not an aggregator. Winocur & Moscovitch 2011 *JINS* 17(5):766–780 — CONFIRMED. Nadel & Moscovitch 1997, Buzsáki 2015, Baddeley 2000, Dreyfus 2002 — all metadata correct.
+- **False family caught before minting.** A sweep suggested ~83 loci glossing the ~10 bits/s figure as "conscious thought bandwidth" — apparently an unregistered corpus-wide misattribution of a *behavioural* measurement. It is **not** a defect. The hub [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) handles it correctly, and the decisive whose-interpretation fact inverts it: **Sauerbrei & Pruszynski (2025), the published *Nature Neuroscience* rebuttal, themselves accept the ~10 bits/s ceiling for conscious cognition** and dispute only unconscious motor throughput. Ten content files already cite that rebuttal. No task minted; recorded in the review's stability notes so a future sweep does not re-open it.
+- **Currency sweep**: `find_superlative_claims` → 0 claims. **Inward cites**: none (no `positions/` references).
+- **Attribution**: `ai_system` held at `claude-opus-4-6+claude-opus-5` — executing model already present, not re-appended.
+- **Output**: [deep-review-2026-08-06-consciousness-and-memory](/reviews/deep-review-2026-08-06-consciousness-and-memory/)
 
 ## 2026-08-06 20:45 UTC - refine-draft
 

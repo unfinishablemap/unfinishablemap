@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 05:14:00+00:00
+ai_modified: 2026-08-06 21:46:03+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Memory
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-09 03:59:00+00:00
-lastmod: 2026-02-09 05:14:00+00:00
+lastmod: 2026-08-06 21:46:03+00:00
 modified: *id001
 original_path: /topics/consciousness-and-memory-consolidation/
 related_articles:
@@ -47,11 +47,11 @@ The Unfinishable Map argues that memory consolidation—the process by which the
 
 Memory consolidation involves three coordinated oscillatory systems. Hippocampal sharp-wave ripples (brief, high-frequency bursts at 100–250 Hz) reactivate neural patterns corresponding to recent learning. Thalamocortical sleep spindles (10–16 Hz) open temporal windows for hippocampal-cortical dialogue. Cortical slow oscillations (less than 1 Hz) coordinate the timing, grouping ripples and spindles into precisely orchestrated sequences. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) confirmed the causal role of this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop deep brain stimulation enhanced consolidation measurably.
 
-During this process, the brain accomplishes feats that would overwhelm waking consciousness. Multiple memory traces replay simultaneously—unlike the serial bottleneck of conscious experience, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
+During this process, the brain accomplishes feats that would overwhelm waking consciousness. Multiple memory traces replay simultaneously—unlike the serial bottleneck of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
 
 ## Why Consciousness Must Withdraw
 
-The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. This is true as far as it goes, but it misses the deeper puzzle. Consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no reliable benefit during REM sleep or wakefulness even when external cues are matched (Hu et al. 2020; Cellini & Capuozzo 2018). Something about the NREM state—not just sensory isolation—is essential.
+The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. This is true as far as it goes, but it misses the deeper puzzle. Consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no statistically reliable benefit during REM sleep or wakefulness—though Hu and colleagues caution against generalising from the small number of REM and wake experiments their analysis could include (Hu et al. 2020). Cellini and Capuozzo's (2018) review reaches the same stage-dependent conclusion. Something about the NREM state—not just sensory isolation—is essential.
 
 The Map's [interface hypothesis](/concepts/attention-as-interface/) offers an explanation. If consciousness engages with the brain through attention-mediated selection, this selection mechanism imposes a serial bottleneck. Waking consciousness processes approximately one thing at a time, choosing what to attend to and thereby collapsing alternatives. Memory consolidation requires the opposite: parallel processing across many memory traces without selective collapse. The consciousness channel must disengage not because its resources are needed elsewhere, but because its mode of operation—serial selection—is incompatible with the parallel integration consolidation requires.
 

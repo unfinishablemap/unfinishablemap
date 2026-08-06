@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-08-05T23:58:16+00:00
+ai_modified: 2026-08-06T21:46:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-06-22T23:20:11+00:00
+last_deep_review: 2026-08-06T21:46:03+00:00
 coalesced_from:
   - "/topics/consciousness-and-memory/"
   - "/topics/consciousness-and-memory-consolidation/"
@@ -90,7 +90,7 @@ The split is puzzling on materialist accounts. If consciousness is identical to 
 
 ### The Manipulation-Maintenance Distinction
 
-Working memory reveals a parallel asymmetry. Storage of information can proceed through activity-silent mechanisms—synaptic traces that maintain content without sustained neural firing and without conscious awareness. But *manipulating* stored content—reordering, transforming, combining—requires conscious engagement. Baddeley's episodic buffer, the component that binds information from different modalities into unified representations, remains the most theoretically mysterious component precisely because Baddeley identified conscious awareness as its principal mode of retrieval.
+Working memory reveals a parallel asymmetry. Storage of information can proceed through activity-silent mechanisms—synaptic traces that maintain content without sustained neural firing and without conscious awareness. But *manipulating* stored content—reordering, transforming, combining—requires conscious engagement. Baddeley's episodic buffer, the component that binds information from different modalities into unified representations, remains the most theoretically mysterious component precisely because Baddeley's model assumes conscious awareness to be its principal mode of retrieval.
 
 If consciousness were epiphenomenal, this distinction would be inexplicable. Why would an inert by-product be selectively required for one operation but not the other?
 
@@ -102,7 +102,7 @@ The materialist can reframe this as neural competition—prefrontal explicit-mon
 
 ## Why Consciousness Must Withdraw for Consolidation
 
-The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. This is true as far as it goes, but it misses the deeper puzzle. Consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no statistically reliable benefit during REM sleep or wakefulness—though the authors caution that REM and wakefulness studies remain limited in number (Hu et al. 2020; Cellini & Capuozzo 2018).
+The standard explanation for why consolidation occurs during sleep invokes neural resource competition: the brain cannot simultaneously process external input and reorganise internal representations. This is true as far as it goes, but it misses the deeper puzzle. Consolidation does not merely require reduced sensory input—it appears to require reduced *consciousness*. Meta-analytic evidence on targeted memory reactivation (TMR) finds that cueing memory during sleep enhances consolidation specifically during NREM stages, with no statistically reliable benefit during REM sleep or wakefulness—though Hu and colleagues caution against generalising from the small number of REM and wake experiments their analysis could include (Hu et al. 2020). Cellini and Capuozzo's (2018) review reaches the same stage-dependent conclusion.
 
 The Map's [[attention-as-interface|interface hypothesis]] offers an explanation. If consciousness engages with the brain through attention-mediated selection, this selection mechanism imposes a serial bottleneck. Waking consciousness processes approximately one thing at a time, choosing what to attend to and thereby collapsing alternatives. Memory consolidation requires the opposite: parallel processing across many memory traces without selective collapse. On this reading the consciousness channel may disengage not because its resources are needed elsewhere, but because its mode of operation—serial selection—appears incompatible with the parallel integration consolidation requires.
 
