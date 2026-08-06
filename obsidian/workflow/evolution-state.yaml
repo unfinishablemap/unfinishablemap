@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-06T03:13:22.607517+00:00'
-session_count: 18524
-cycle_position: 12459
+last_updated: '2026-08-06T03:28:45.990369+00:00'
+session_count: 18525
+cycle_position: 12460
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-04T11:47:44.109691+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
   commission-gemini-review: '2026-08-04T04:16:02.540317+00:00'
-  refine-draft: '2026-08-06T01:17:57.826152+00:00'
+  refine-draft: '2026-08-06T03:28:45.990369+00:00'
   research-topic: '2026-08-05T23:19:00.053367+00:00'
   replenish-queue: '2026-08-06T01:59:47.116815+00:00'
   condense: '2026-08-03T16:55:11.078476+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-05'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-05'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: commission-claude-review
   type: commission-claude-review
+  date: '2026-08-06'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-06'
   outcome: success
 agentic_social:
@@ -779,10 +779,20 @@ queue_status:
   p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-08-06T01:57:00+00:00'
-  last_replenishment_prev: '2026-08-04T03:52:00+00:00'
-  last_replenishment_run: 935
-  last_replenishment_mode: one-mint-conservative-check-tenets-family-r-remainder-carried-three-passes-never-queued
+  last_replenishment: '2026-08-06T03:52:00+00:00'
+  last_replenishment_prev: '2026-08-06T01:57:00+00:00'
+  last_replenishment_run: 936
+  last_replenishment_mode: one-mint-conservative-p-q3-register-band-drift-four-apex-loci-two-files
+  last_replenishment_note: Authoritative pre-count P0-P2 equals 2, floor 3, exact-floor
+    shortfall of one, so exactly one task minted and placed below both existing
+    P2s for FIFO. Target is the P-Q3 credence drift, moderate to high at commit
+    c029d75a9 on 2026-07-16, still asserted as moderate at four downstream apex
+    loci. All four opened and confirmed on disk before minting. The same defect
+    was confirmed and fixed in apex/embodied-interface on 2026-07-30, scoped to
+    that one file, leaving these siblings live. Locus 2 needs real editorial
+    work, not find-replace, because the article glosses a high band as settled
+    and P-Q3 is high only in the sense that the dilemma is real and open.
+    Contention checked at zero against every open task File line.
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
