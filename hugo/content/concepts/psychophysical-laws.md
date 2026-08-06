@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-03 16:25:50+00:00
+ai_modified: 2026-08-06 00:58:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-03 16:25:50+00:00
+lastmod: 2026-08-06 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Scope restriction.** Coupling appears limited to the subject's own brain: you cannot select quantum outcomes in another's neural system or in external apparatus, because attention is neurally implemented and first-personal.
 
-**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [basis control mode](/concepts/coupling-modes/) favoured by the Map preserves Born statistics, making coupling consistent with all precision experiments to date. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's quantum Zeno on the Born-rule-bending side.
+**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The post-decoherence outcome selection the Map endorses preserves Born statistics—its per-trial bias averages back to the Born measure—making coupling consistent with all precision experiments to date, as does the unadopted [basis control mode](/concepts/coupling-modes/). Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [corridor taxonomy](/topics/born-rule-and-the-consciousness-interface/#corridor-taxonomy) files Stapp's quantum Zeno on the Born-rule-bending side.
 
 **Amplification.** Even if coupling laws specify *which* quantum outcomes consciousness selects, something must bridge the scale gap from quantum events (femtosecond, subnanometre) to neural processes (millisecond, centimetre). Six proposed [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—including Zeno stabilization, chaotic sensitivity, and self-organized criticality—address different segments of this chain. No single mechanism traces the full path; the [amplification-void](/voids/amplification-void/) marks this as a structurally necessary gap.
 

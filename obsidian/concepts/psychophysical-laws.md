@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-08-03T16:25:50+00:00
+ai_modified: 2026-08-06T00:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Scope restriction.** Coupling appears limited to the subject's own brain: you cannot select quantum outcomes in another's neural system or in external apparatus, because attention is neurally implemented and first-personal.
 
-**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [[coupling-modes|basis control mode]] favoured by the Map preserves Born statistics, making coupling consistent with all precision experiments to date. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [[born-rule-and-the-consciousness-interface#corridor-taxonomy|corridor taxonomy]] files Stapp's quantum Zeno on the Born-rule-bending side.
+**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The post-decoherence outcome selection the Map endorses preserves Born statistics—its per-trial bias averages back to the Born measure—making coupling consistent with all precision experiments to date, as does the unadopted [[coupling-modes|basis control mode]]. Timing control preserves them per measurement, but whether Zeno-style modulation of observation rate leaves *ensemble* statistics untouched is unsettled — the [[born-rule-and-the-consciousness-interface#corridor-taxonomy|corridor taxonomy]] files Stapp's quantum Zeno on the Born-rule-bending side.
 
 **Amplification.** Even if coupling laws specify *which* quantum outcomes consciousness selects, something must bridge the scale gap from quantum events (femtosecond, subnanometre) to neural processes (millisecond, centimetre). Six proposed [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]—including Zeno stabilization, chaotic sensitivity, and self-organized criticality—address different segments of this chain. No single mechanism traces the full path; the [[amplification-void]] marks this as a structurally necessary gap.
 

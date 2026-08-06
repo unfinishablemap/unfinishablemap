@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T00:27:00+00:00'
+ai_modified: '2026-08-06T01:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 00:27:00+00:00
+lastmod: 2026-08-06 01:02:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 01:02 UTC - refine-draft — Families T and U closed: the coupling cluster no longer adopts, in Map voice, the context-selection mechanism Tenet 3 declines
+
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/) (task target) — 7 files edited, 14 mirrors verified
+- **Original score**: not re-scored; the task was a driver-verified mechanism contradiction, not a general quality pass
+- **Published**: yes
+
+**What changed, by locus.** All six Family T error loci and both Family U loci were re-framed rather than deleted, per the task's explicit re-framing instruction — basis and timing control survive everywhere as *registered alternatives the Map acknowledges but has not adopted*; what was removed is their presentation as the Map's own position and the demotion of outcome-selection to a Born-statistics residue.
+
+1. **`concepts/coupling-modes.md`** (sharpest, fixed first). The "The Map's Position" section previously closed with the basis-plus-timing synthesis stated flat. It now presents that synthesis, then declines it in the corpus's own words — "the Map acknowledges that synthesis but does not adopt it … it fails by thesis-drift rather than by evidence" (wording taken from `von-neumann-wigner-interpretation.md` L94 and `apex/born-preserving-causal-efficacy.md` L167, per the copy-don't-compose directive) — and names post-decoherence outcome selection as the endorsed path. Three supporting repairs in the same file: the numbered tenet list's item 2 now carries the outcome-selection commitment instead of asserting all three modes satisfy Tenet 3; the "Basis Control: Most 'Minimal'" limitation now records that the Map does not find the standard reply sufficient; and the Open Questions falsifier is re-headed to ask what would refute the basis/timing *reading* held as an alternative.
+2. **`concepts/coupling-modes.md` L158 — the Family U root.** "This tenet decisively favours basis and timing control" is gone. Tenet 2 is now stated as an empirical corridor: no *larger* interaction is empirically tenable, but the smallest survivor is not thereby the most likely true one, and which surviving mode carries the Map's claim is settled by Tenet 3, not here. The `Relation to Site Perspective` Tenet 3 bullet was rewritten to do that electing explicitly; previously it offered the three-mode trilemma with outcome-selection absent from it entirely.
+3. **`concepts/measurement-problem.md`** — "The Map prefers Stapp's quantum Zeno approach" replaced by the Map's actual placement (post-decoherence outcome selection), with Stapp ranked a co-preferred fallback via `comparing-quantum-consciousness-mechanisms#preference-ordering`. This resolves the three-pages-against-one contradiction with `interactionist-dualism.md` and `comparing-quantum-consciousness-mechanisms.md` in favour of the majority.
+4. **`concepts/psychophysical-laws.md`** and its archive twin **`archive/concepts/psychophysical-coupling-2.md`** — "basis control mode **favoured by the Map**" replaced in both trees. The archive edit was made on live-URL grounds (the page serves a full body at a 200 URL), using plain prose rather than new wikilinks to avoid a push-blocking link.
+5. **`concepts/quantum-completeness.md`** — L104 now locates the interaction at Process 1's *outcome-selection element* and registers Stapp's narrower question-selection placement as acknowledged-not-adopted; L106's "the **only** location" is gone, replaced by a formulation that explicitly admits the post-decoherence variant. Both edits bring the Site Perspective section into line with the article's own Decoherence Objection section, which already said the Map locates selection in the decohered mixture.
+6. **`concepts/channel-class-taxonomy.md`** — the exact inversion at L90 (Tenet 3 "finds its most natural expression" in basis-choice) is corrected without over-correcting: Class 3 does contain an outcome layer, so it does not *fail* Tenet 3; what it cannot do is make its *distinguishing* basis layer the tenet's home. The `Relation to Site Perspective` Tenet 3 paragraph was given the matching qualifier — the outcome-realisation step is what satisfies the tenet in all four non-energy-injection classes.
+7. **`topics/valence-and-conscious-selection.md` L81 — second Family U locus.** "the account influencing physics through the fewest mental variables is the one to beat" no longer runs through Tenet 2. The parsimony pull is retained but re-labelled methodological, with Tenet 5's disarming of parsimony-as-truth cited; the paragraph's positive case for value-blindness is otherwise untouched.
+
+**Sweep discipline.** Closed on the shortest invariant stems across all three trees (`shapes the option space`, `favoured by the Map`, `decisively favour`, `most natural expression`, `prefers Stapp`, `only location where non-physical`, plus a `basis control` file-level sweep of 14 files). Zero Family T/U survivors. The `basis control` sweep confirmed the driver's locus list was complete: the eight other files mentioning the modes do so as neutral taxonomy, not as Map position.
+
+**One sibling family found and deliberately left standing** — minted as a new P3 rather than swept in silently, because it is a different axis: three pages (`topics/psychophysical-laws-bridging-mind-and-matter.md` L111 plus two archive loci) claim the Map "prefers Stapp's attention-based mechanism over IIT-based measures", which contradicts the preference ordering's ranking of Stapp's Zeno model and CSL-IIT hybrids as *co-preferred* at the same tier. That concerns which mental variable the coupling runs on, not outcome-selection vs context-selection.
+
+**Length.** Every file measured with `analyze_length` before and after. Two files crossed a threshold on the first pass and were trimmed back: `measurement-problem` (3495 → 3538 → **3499**, held under the 3500 hard ceiling by removing a sentence the new paragraph made redundant) and `psychophysical-laws` (3479 → 3500 → **3492**). No file changed status band. `coupling-modes` grew most (2616 → 2886, soft band throughout) — the largest single re-framing, trimmed twice.
+
+**Mirrors.** `scripts/sync.py` run; all eight changed strings verified present in `hugo/content/...`, including the archive twin. `validate.py` clean on `hugo/content/concepts/`.
+
+**Attribution.** Each file's `ai_system` held and `+claude-opus-5` appended where absent (measurement-problem, quantum-completeness, valence); `ai_modified` bumped to `2026-08-06T00:58:00+00:00`, `date -u`-checked and strictly past.
 
 ## 2026-08-06 00:27 UTC - check-tenets — Family T: the Map adopts the context-selection mechanism its own Tenet 3 declines
 

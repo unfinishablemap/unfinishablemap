@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-02 12:33:51+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 00:58:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-08-02 12:33:51+00:00
+lastmod: 2026-08-06 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,11 +133,11 @@ Particles always have definite positions guided by a [pilot wave](/concepts/bohm
 
 ### Consciousness-Based Interpretations
 
-Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at consciousness. See [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) for the foundational account. The Map prefers Stapp's quantum Zeno approach: consciousness *selects* within orthodox quantum mechanics rather than intervening from outside it. The specific [coupling mode](/concepts/coupling-modes/) matters—basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
+Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at consciousness. See [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) for the foundational account. The Map's placement is post-decoherence outcome selection: consciousness *selects* which element of the decohered mixture becomes actual, within orthodox quantum mechanics rather than from outside it. Stapp's basis and timing control [coupling modes](/concepts/coupling-modes/) select only the question — a context-setting relocation the Map acknowledges without adopting, ranking his approach a co-preferred fallback ([preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)).
 
 #### Stapp's Quantum Zeno Framework
 
-[Mental effort](/concepts/mental-effort/) protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness selecting among quantum possibilities, not causing collapse from outside physics. The framework has an implicitly [retrocausal](/concepts/retrocausality/) dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [atemporal selection](/concepts/retrocausality/#the-atemporal-selection-model).
+[Mental effort](/concepts/mental-effort/) protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. The framework has an implicitly [retrocausal](/concepts/retrocausality/) dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [atemporal selection](/concepts/retrocausality/#the-atemporal-selection-model).
 
 **Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [ten-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
 

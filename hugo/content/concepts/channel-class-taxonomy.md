@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-06 00:58:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 16:32:00+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-08-06 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Theories that occupy it.** Stapp's quantum mind model, particularly his "Process 1" framework (Stapp 1993, 2007; see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). Stapp is explicit that mind's role is basis-choice combined with timing control (quantum Zeno effect) and that the outcome-level kernel is selection-only. [coupling-modes](/concepts/coupling-modes/)'s "basis control" mode is this class viewed from the phenomenological side.
 
-**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. The class is also where the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds its most natural expression — mind shapes the option space while physics determines outcomes within it.
+**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. This class can look like the natural home of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but what makes the class distinctive is not what the tenet commits to. Mind shaping the option space while physics determines outcomes within it is context-setting; the tenet commits to influence over which outcome becomes actual, and registers a Process-1 / context-selection relocation as an alternative the Map acknowledges but does not adopt. What satisfies Tenet 3 in this class is the outcome layer it shares with selection-only, rather than the basis layer stacked above it.
 
 ## Class 4: Candidate-Generation
 
@@ -128,7 +128,7 @@ The taxonomy is the formal vocabulary in which the Map states its tenet commitme
 
 [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) (Tenet 2) is a class-level commitment. The Map does not commit to a single class but ranks them by minimality: selection-only is strictest, probability-bias is intermediate, basis-choice is wider, candidate-generation is wider still, and energy-injection is explicitly ruled out. The Map's preferred reading sits in the selection-only / probability-bias / basis-choice band, with selection-only as the cleanest reference point.
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) (Tenet 3) is satisfied by any of the four non-energy-injection classes; the forward direction (mind→physical) differs in capacity across them but is non-trivial in all, and the reverse direction (physical→mind) is bounded by candidate-set dimensionality for selection-only and probability-bias and is wider for basis-choice and candidate-generation. [Dualism](/tenets/#dualism) (Tenet 1) is presupposed by every non-trivial class: if mind were not a distinct sender, the input alphabet would collapse into the output alphabet. [No Many Worlds](/tenets/#no-many-worlds) (Tenet 4) is presupposed at the outcome-realisation step in classes 1–4; under MWI the realisation step is vacuous and the taxonomy loses its outcome layer.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) (Tenet 3) is satisfied by any of the four non-energy-injection classes, but always through the same element: the outcome-realisation step, which the tenet names specifically, rather than the upstream structure-altering layers that distinguish the wider classes from each other. A class stripped of that step — mind choosing only the question and leaving the answer to nature — would not satisfy the tenet at all. The forward direction (mind→physical) differs in capacity across them but is non-trivial in all, and the reverse direction (physical→mind) is bounded by candidate-set dimensionality for selection-only and probability-bias and is wider for basis-choice and candidate-generation. [Dualism](/tenets/#dualism) (Tenet 1) is presupposed by every non-trivial class: if mind were not a distinct sender, the input alphabet would collapse into the output alphabet. [No Many Worlds](/tenets/#no-many-worlds) (Tenet 4) is presupposed at the outcome-realisation step in classes 1–4; under MWI the realisation step is vacuous and the taxonomy loses its outcome layer.
 
 The Map treats the class hierarchy as a *menu, not a verdict*. Which class is correct is an empirical and metaphysical open question; the taxonomy's job is to make the alternatives discussable in the same vocabulary. The fact that selection-only's [three constraints](/concepts/selection-only-channel/) are the strictest expression of Tenet 2 is a structural observation about the menu, not a claim that selection-only is the right answer. Treating coherence-with-the-tenets as evidence-for-the-class would be a textbook case of [possibility-probability-slippage](/concepts/possibility-probability-slippage/).
 

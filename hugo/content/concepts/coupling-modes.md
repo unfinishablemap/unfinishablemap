@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-06 00:58:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:25:00+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-08-06 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ Basis control changes nothing about quantum mechanics' answers—only which ques
 
 This makes basis control the most minimal mode. It's also well-motivated by attention phenomenology: attending to something feels like selecting what matters, not forcing outcomes. The "executive selection" model of consciousness—choosing among pre-formed alternatives rather than generating new states—maps naturally to basis control.
 
-**Limitation:** Basis control alone seems too weak for agency. If consciousness only picks what to measure and physics determines the outcome, how does intention actually steer behaviour? The response: basis selection constrains which outcomes are possible. Choosing to attend to "raise arm" rather than "stay still" makes arm-raising one of the actualised possibilities. Physics picks which actualised outcome occurs, but without basis selection, "raise arm" might never have been in the option set.
+**Limitation:** Basis control alone seems too weak for agency. If consciousness only picks what to measure and physics determines the outcome, how does intention actually steer behaviour? The response: basis selection constrains which outcomes are possible. Choosing to attend to "raise arm" rather than "stay still" makes arm-raising one of the actualised possibilities. Physics picks which actualised outcome occurs, but without basis selection, "raise arm" might never have been in the option set. The Map does not find that response sufficient, which is why its own commitment sits at the outcome level rather than here.
 
 ### Timing Control: Intermediate
 
@@ -125,17 +125,17 @@ Random number generator (RNG) experiments have attempted to detect such deviatio
 
 ## The Map's Position
 
-The Unfinishable Map does not commit to a single coupling mode, but the tenets favour basis and timing control over probability control:
+The Unfinishable Map does not commit to a single coupling mode, and what the tenets settle is narrower than a ranking:
 
-1. **Minimal Quantum Interaction** demands the smallest deviation from standard physics. Basis control deviates least (no change to quantum mechanics), timing control next (Zeno effect is orthodox physics), probability control most (requires modified Born rule in affected systems).
+1. **Minimal Quantum Interaction** is an empirical corridor rather than a likelihood ordering. It holds that no *larger* interaction is empirically tenable—no detectable energy injection, no aggregate Born-statistics violation—which is what presses on probability control. It does not add that the smallest surviving mode is therefore the most likely true one; that inference is the parsimony-as-truth move [Occam's Razor Has Limits](/tenets/#occams-limits) disarms.
 
-2. **Bidirectional Interaction** requires consciousness to actually affect outcomes, ruling out pure epiphenomenalism. All three modes satisfy this if they work—the question is which can work while remaining minimal.
+2. **Bidirectional Interaction** does the discriminating work minimality cannot. It commits to a *kind* of how—outcome-selection, influence over which definite outcome becomes actual—and registers a Process-1 / context-selection alternative as a path the Map has *not* adopted, since relocating the influence to context-setting alone would weaken the tenet. Basis control taken as the whole story is that alternative.
 
 3. **No Many Worlds** implies collapse is real and outcomes are genuinely selected. This is compatible with all three modes but frames the question: when collapse happens, does consciousness influence what collapses to (probability), when it collapses (timing), or what the collapsing alternatives are (basis)?
 
-The most promising synthesis: **basis control sets the alternatives; timing control stabilises preferred patterns; probability control, if present at all, operates at the margin**. Consciousness primarily shapes the option space (basis) and sustains attention on relevant alternatives (timing), with outcome selection mostly following Born statistics.
+A synthesis suggests itself at this point: **basis control sets the alternatives; timing control stabilises preferred patterns; probability control, if present at all, operates at the margin**—consciousness shaping the option space and sustaining attention on relevant alternatives, with outcome selection left to Born statistics. The Map acknowledges that synthesis but does not adopt it. A coupling that selects only the question has answered the efficacy worry by becoming a context-setting dualism: coherent, but a different thesis from the one the tenets fix, and it fails by thesis-drift rather than by evidence. The path the Map endorses most strongly is *post-decoherence outcome selection*—consciousness supplying the actualisation that fixes which element of the already-decohered improper mixture becomes actual, an additional postulate rather than a pick from a pre-existing classical menu (see [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/)). Basis and timing control remain live as upstream companions and as registered fallbacks; what the Map declines is their promotion to the whole mechanism.
 
-A still-stricter outcome-level reading sits beneath these three modes. The [selection-only-channel](/concepts/selection-only-channel/) concept formalises the strictest possible coupling: mind contributes nothing to the candidate set, neither selecting the basis nor reweighting probabilities, only realising one of the brain-prepared alternatives at its Born-rule rate. Basis control modifies the candidate set by choosing the question; timing control modifies it by choosing when measurement happens; probability control modifies its weights. Selection-only sits below all three as the channel class that touches none of them — its log₂(N) per-event ceiling, Born-preservation of the unconditioned marginal, and content-confinement bound are the channel-theoretic price of doing none of the upstream work. The parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives the empirical signature corridor; the channel concept isolates the per-event arithmetic.
+That outcome-level commitment has a strictest formalisation, and it sits beneath these three modes. The [selection-only-channel](/concepts/selection-only-channel/) concept states the strictest possible coupling: mind contributes nothing to the candidate set, neither selecting the basis nor reweighting probabilities, only realising one of the brain-prepared alternatives at its Born-rule rate. Basis control modifies the candidate set by choosing the question; timing control modifies it by choosing when measurement happens; probability control modifies its weights. Selection-only sits below all three as the channel class that touches none of them — its log₂(N) per-event ceiling, Born-preservation of the unconditioned marginal, and content-confinement bound are the channel-theoretic price of doing none of the upstream work. The parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives the empirical signature corridor; the channel concept isolates the per-event arithmetic.
 
 ## Open Questions
 
@@ -151,7 +151,7 @@ A still-stricter outcome-level reading sits beneath these three modes. The [sele
 
 **Is there empirical leverage?** Timing control predicts attention-correlated neural pattern stability. Probability control predicts deviations from baseline quantum statistics in brain tissue. Basis control is hardest to test directly, since it changes what's measured rather than measurement results.
 
-**What would refute the preferred modes?** The basis/timing control framework would face serious challenge if: (1) attention-correlated pattern stability showed no systematic relationship in well-controlled studies; (2) meditation training produced no measurable changes in neural dynamics despite subjective reports of increased attentional control; (3) neuroplasticity occurred identically with and without conscious engagement; or (4) the phenomenology of effort proved inconsistent across trained observers.
+**What would refute the basis/timing reading?** Held as a registered alternative rather than the Map's own position, the basis/timing control framework would still face serious challenge if: (1) attention-correlated pattern stability showed no systematic relationship in well-controlled studies; (2) meditation training produced no measurable changes in neural dynamics despite subjective reports of increased attentional control; (3) neuroplasticity occurred identically with and without conscious engagement; or (4) the phenomenology of effort proved inconsistent across trained observers.
 
 ## Relation to Site Perspective
 
@@ -159,9 +159,9 @@ The coupling modes taxonomy connects directly to the Map's foundational commitme
 
 **[Dualism](/tenets/#dualism)**: All three modes presuppose that consciousness is distinct from and can influence physical processes. The question is how influence is structured, not whether it exists.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet decisively favours basis and timing control. "Minimal" means preserving as much of physics as possible while permitting influence. Probability control preserves least; basis control preserves most.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet is an empirical corridor, not a likelihood ranking: no *larger* interaction is empirically tenable, but the smallest survivor is not thereby the most likely true one. It presses hard on probability control, which preserves least, while stopping short of electing basis control, which preserves most. Which surviving mode carries the Map's claim is settled by Bidirectional Interaction below.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The coupling mode specifies how bidirectional interaction is implemented. Without specifying a mode, "consciousness selects" remains metaphorical. With mode specification, the claim becomes: consciousness selects which question to ask (basis), when to ask it (timing), or how answers are weighted (probability).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet does the electing the minimality tenet declines to do. Without a mode, "consciousness selects" remains metaphorical; the taxonomy above supplies three candidate readings—consciousness selects which question to ask (basis), when to ask it (timing), or how answers are weighted (probability). The tenet constrains the choice by committing to influence over which definite outcome becomes actual, so the Map's own claim lands on the outcome-level channel described above rather than on basis or timing control.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting MWI means one outcome becomes actual and others don't. Chalmers and McQueen (2022) develop a rigorous framework for consciousness-collapse theories that bears on this: if consciousness triggers collapse, the coupling mode specifies how it participates in actualisation—not whether it does (that's a tenet) but through what mechanism.
 

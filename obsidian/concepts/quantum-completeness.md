@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-07-14T08:44:03+00:00
+ai_modified: 2026-08-06T00:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[completeness-in-physics-epr-bell-2026-03-17]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-6
+ai_system: claude-sonnet-4-6+claude-opus-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-14T08:44:03+00:00
@@ -101,9 +101,9 @@ The "partial but complete" framing integrates directly with all five of the Map'
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness supports this: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, then something non-physical is required. Barrett's (2006) argument that the measurement problem structurally favours dualism provides independent philosophical support.
 
-The **Minimal Quantum Interaction** tenet holds that consciousness acts at the quantum level, biasing indeterminate outcomes [[conservation-laws-and-mental-causation|without injecting energy or violating conservation laws]]. Quantum completeness specifies where this interaction occurs: at Process 1, the selection of which measurement question is posed and which answer obtains. Physics determines Processes 2 and 3; consciousness participates in Process 1. Stapp's quantum interactive dualism (2005) formalises this using orthodox von Neumann quantum mechanics, with conscious choices constituting Process 1 events that physics leaves undetermined.
+The **Minimal Quantum Interaction** tenet holds that consciousness acts at the quantum level, biasing indeterminate outcomes [[conservation-laws-and-mental-causation|without injecting energy or violating conservation laws]]. Quantum completeness specifies where this interaction occurs: at Process 1, and specifically at its outcome-selection element—which answer obtains, not merely which question is posed. Physics determines Processes 2 and 3. Stapp's quantum interactive dualism (2005) formalises the narrower reading using orthodox von Neumann quantum mechanics, locating conscious choice in the question-selection step and leaving the answer to nature; the Map acknowledges that placement but does not adopt it, since selecting only the question would weaken outcome-selection to context-setting ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]).
 
-The **Bidirectional Interaction** tenet holds that consciousness causally influences the physical world. Quantum completeness shows why the interaction point cannot be classical: at the macroscale, physics is deterministic enough that non-physical influence would require energy injection and would violate conservation laws. The quantum gap at Process 1 is the only location where non-physical selection is compatible with physical law.
+The **Bidirectional Interaction** tenet holds that consciousness causally influences the physical world. Quantum completeness shows why the interaction point cannot be classical: at the macroscale, physics is deterministic enough that non-physical influence would require energy injection and would violate conservation laws. The quantum gap at outcome selection is where non-physical selection stays compatible with physical law—including *after* decoherence completes, since a decohered mixture still leaves which outcome obtains undetermined ([discussed above](#decoherence-objection)). That post-decoherence variant, requiring no coherence at neural timescales, is the path the Map endorses most strongly.
 
 The **No Many Worlds** tenet rejects interpretations on which all quantum branches become equally real. As [discussed in detail](#many-worlds-honestly), the Map's objection is not that Everettian quantum mechanics adds formalism—it removes the collapse postulate. The objection is that many-worlds dissolves the selection question by denying indexical identity: there is no fact about which outcome *I* experience because every version of me experiences each one. The Map holds that indexical identity is real and that the question of which outcome becomes actual for a determinate subject requires an answer, not a dissolution.
 

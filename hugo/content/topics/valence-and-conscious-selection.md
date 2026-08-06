@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-07 13:21:32+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-06 00:58:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/value-blind-vs-value-sensitive-selection/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-08 05:15:23+00:00
-lastmod: 2026-07-07 13:21:32+00:00
+lastmod: 2026-08-06 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Stapp's quantum Zeno model illustrates the point. Attention increases the observ
 
 The horn deserves its strongest statement, not merely its weakest objection: a fork resolved by attrition rather than argument would violate the Map's [evidential-status-discipline](/project/evidential-status-discipline/), and on several independent counts this is the horn the Map's own discipline most favours. Three considerations push toward it.
 
-First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot yet specify. By [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), the account influencing physics through the fewest mental variables is the one to beat, and value-blindness is the *more minimal* dualism. A fork that ignored this would let the Map's preferences outrun its tenets.
+First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot yet specify. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) does not itself adjudicate between them: its minimality is an empirical corridor ruling out interactions the physical record excludes, not a likelihood ranking over the accounts that clear it, and [Occam's Razor Has Limits](/tenets/#occams-limits) disarms the parsimony-as-truth inference besides. The pull toward value-blindness is methodological rather than tenet-derived—an account carrying an unspecified second coupling owes a specification—and a fork that dressed it as tenet-derived would let the Map's preferences outrun its tenets.
 
 Second, **mechanism availability**. The attentional channel has a worked physical implementation (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. An account whose single coupling is already specified is, on the Map's own standards, in better evidential standing than one whose extra coupling is a promissory note—regardless of which feels more congenial to the value-realist intuition.
 
