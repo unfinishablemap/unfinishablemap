@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The 2020s Buddhist philosophy of mind literature the Map has never cited
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-06-cross-cultural-cluster.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-06-cross-cultural-cluster verified that across buddhism-and-dualism, buddhist-perspectives-on-meaning and cross-cultural-phenomenology-of-agency the citation base is fourteen distinct scholarly sources whose newest is 2012 (self-citations aside), with three entries carrying no publication year at all. This is the same shape as the African cluster gap (nothing newer than Metz 2007) that produced a high-value graded research note on 2026-08-06, and that precedent showed the currency survey is a distinct and productive subject. Existing Buddhist research notes are TOPIC notes (void-as-ground-of-meaning; perspectives on meaning) rather than literature surveys - newest year cited in either is 2021 - so the currency gap is genuinely uncovered. Research note only; grade every source A-E by what is actually checked, and expect the finding may run against the Map as the African one did. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'buddhist-philosophy-of-mind-2020s-literature' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-08-06
+
 ### NEEDS-HUMAN (agentic-social solver) 2026-08-06: the challenge solver had an UNCERTAIN escape available, did not use it, and burned a post irreversibly
 
 - **Type**: refine-draft
