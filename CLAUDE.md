@@ -267,9 +267,9 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 | Section | Cap | Current |
 |---------|-----|---------|
 | `topics/` | 320 | **319 — 1 slot left** (as of 2026-08-04; caps raised 270→300 on 2026-06-14 for the revived research pipeline, 300→320 on 2026-06-20) |
-| `concepts/` | 320 | **316 — 4 slots left** (as of 2026-08-04, after a coalesce archived one article; 270→300 on 2026-06-14, 300→320 on 2026-06-20) |
-| `voids/` | 100 | 100 — **at cap** (as of 2026-08-04) |
-| `positions/` | 80 | 13 (seeded 2026-06-04) |
+| `concepts/` | 320 | **315 — 5 slots left** (as of 2026-08-06, after two coalesce operations archived one article each; 270→300 on 2026-06-14, 300→320 on 2026-06-20) |
+| `voids/` | 100 | **99 — 1 slot left** (as of 2026-08-06; the 2026-08-06 coalesce merged `voids/ownership-void` into `concepts/mine-ness`, freeing the first slot since this section reached cap. `research-voids` is viable again — it skips entirely at capacity) |
+| `positions/` | 80 | 14 (as of 2026-08-06; seeded 2026-06-04) |
 
 ⚠️ **These figures go stale fast — always re-measure before acting on them.** The
 `Current` column above is a snapshot, not a live value; it read `~273`/`~265` until
