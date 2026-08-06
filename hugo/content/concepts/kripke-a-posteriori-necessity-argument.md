@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-04 09:15:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-06 16:13:48+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - type-identity-theory
@@ -18,8 +18,8 @@ description: How Kripke's modal argument turns rigid designation and a-posterior
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 15:11:26+00:00
-lastmod: 2026-08-04 09:15:00+00:00
+last_deep_review: 2026-08-06 16:13:48+00:00
+lastmod: 2026-08-06 16:13:48+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -33,7 +33,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Saul Kripke's modal argument, developed in Lecture III of *Naming and Necessity*, is one of the standard anti-materialist arguments the Map treats as congenial to [dualism](/concepts/dualism/) — but, like the others, framework-relative rather than a knockdown. Its distinctive move is to turn a materialist's own semantic apparatus against them. If mind-brain identity theory says "pain is C-fibre firing" in the way physics says "heat is molecular motion," then — given how identity and reference actually work — that claim must be *necessarily* true if it is true at all. Yet the mind-brain identity seems contingent in a way Kripke argues cannot be explained away. If he is right, the identity is not merely unproven but false, and with it [type-identity materialism](/concepts/type-identity-theory/). The leading materialist rebuttal, the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), contests exactly the step that does the work, and remains live. The argument therefore strengthens the anti-materialist case without settling it.
+Saul Kripke's modal argument, developed in Lecture III of *Naming and Necessity*, is one of the standard anti-materialist arguments the Map treats as congenial to [dualism](/concepts/dualism/) — but, like the others, framework-relative rather than a knockdown. Its distinctive move is to turn a materialist's own semantic apparatus against them. If mind-brain identity theory says "pain is C-fibre firing" in the way physics says "heat is molecular motion," then — given how identity and reference actually work — that claim must be *necessarily* true if it is true at all. Yet the mind-brain identity seems contingent in a way Kripke argues cannot be explained away. If he is right, the identity is not merely unproven but false, and with it [type-identity materialism](/concepts/type-identity-theory/). The leading materialist rebuttal, the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), contests exactly the step that does the work, and remains live. The argument therefore strengthens the anti-materialist case without settling it — and Kripke goes no further than that, expressly denying that rejecting mind-brain identity implies dualism.
 
 ## The Machinery: Rigid Designation and A-Posteriori Necessity
 
@@ -57,7 +57,11 @@ The identity theorist has a well-known escape route, and Kripke's argument turns
 
 The conclusion follows. Because the reassignment move is unavailable, the apparent contingency of "pain is C-fibre firing" is not an illusion but genuine possibility: worlds with pain and no C-fibres, or C-fibres and no pain, are real possibilities. By the necessity of identity, a genuinely contingent "identity" between rigid designators is no identity at all. Therefore "pain is C-fibre firing" is false, and type-identity materialism with it.
 
-Kripke himself states the upshot more cautiously than this reconstruction does. The unavailability of the usual moves "is, of course, no proof that no moves are available"; he says only that he suspects "the present considerations tell heavily against the usual forms of materialism" (1980, p. 155) — and in the accompanying footnote he declares the mind-body problem "wide open and extremely confusing" (p. 155 n. 77). The argument, so calibrated, reaches the same destination as the [knowledge-argument](/concepts/knowledge-argument/) and [philosophical-zombies](/concepts/philosophical-zombies/) by a distinct, modal-semantic route: a heavy consideration against type-identity materialism rather than a demonstrated refutation.
+Kripke himself states the upshot more cautiously than this reconstruction does. The unavailability of the usual moves "is, of course, no proof that no moves are available"; he says only that he suspects "the present considerations tell heavily against the usual forms of materialism" (1980, p. 155). The accompanying footnote concedes more still. Identity theorists, Kripke notes, "have presented positive arguments for their view, which I certainly have not answered here" — some of which he judges weak, but "others strike me as highly compelling arguments which I am at present unable to answer convincingly" (p. 155 n. 77). The argument, so calibrated, reaches the same destination as the [knowledge-argument](/concepts/knowledge-argument/) and [philosophical-zombies](/concepts/philosophical-zombies/) by a distinct, modal-semantic route: a heavy consideration against type-identity materialism rather than a demonstrated refutation.
+
+### What Kripke Does Not Conclude
+
+The same footnote blocks the further step the Map takes. "Rejection of the identity thesis does not imply acceptance of Cartesian dualism," Kripke writes. His own origin essentialism — the thesis that a person could not have come from a different sperm and egg — "implicitly suggests a rejection of the Cartesian picture," and he reads the difficulty of imagining oneself from different origins as indicating "that we have no such clear conception of a soul or self." Only then does he close by calling the mind-body problem "wide open and extremely confusing" (all p. 155 n. 77). Kripke's argument is anti-materialist without being pro-dualist, and he is on record declining the inference from the one to the other. The Map cites him for the negative conclusion only; its positive dualism rests on separate grounds, set out in [dualism](/concepts/dualism/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/).
 
 ## The Materialist Reply: Phenomenal Concepts
 
@@ -71,11 +75,11 @@ A second reply grants Kripke the no-appearance/reality-gap point but challenges 
 
 ## Relation to Site Perspective
 
-The argument is congenial to **Tenet 1 (dualism — the irreducibility of consciousness)**. It supplies a modal-semantic route to the conclusion that phenomenal states are not identical to physical states, converging with the epistemic route of the [knowledge-argument](/concepts/knowledge-argument/), the conceivability route of [philosophical-zombies](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/). That convergence from independent starting points is part of why the Map holds the anti-materialist case to be strong.
+The argument is congenial to **Tenet 1 (dualism — the irreducibility of consciousness)**. It supplies a modal-semantic route to the conclusion that phenomenal states are not identical to physical states, converging with the epistemic route of the [knowledge-argument](/concepts/knowledge-argument/), the conceivability route of [philosophical-zombies](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/). That convergence from independent starting points is part of why the Map holds the anti-materialist case to be strong. The step from that negative result to the Map's positive dualism is the Map's own, taken on separate grounds; Kripke expressly declines it, as recorded above.
 
-Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat the argument as a knockdown — a restraint Kripke himself models in calling the mind-body problem "wide open and extremely confusing" (1980, p. 155 n. 77). Its force is framework-relative: it depends on treating "pain" as a rigid designator, on the conceivability-to-possibility bridge, and above all on the denial that pain has any contingent mode of presentation — the exact point the phenomenal-concepts reply contests and has not, on the Map's reading, been forced to concede. The argument also targets [type-identity-theory](/concepts/type-identity-theory/) specifically; token-identity and some functionalist positions are less directly hit, though the underlying conceivability point generalises into the broader anti-physicalist family. The Map's position is that Kripke adds real weight to the anti-materialist convergence without closing the question — a contribution to the case, not a proof.
+Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat the argument as a knockdown — a restraint Kripke himself models, both in calling the mind-body problem "wide open and extremely confusing" and in conceding that some identity-theorist arguments strike him as "highly compelling" and so far unanswered (1980, p. 155 n. 77). Its force is framework-relative: it depends on treating "pain" as a rigid designator, on the conceivability-to-possibility bridge, and above all on the denial that pain has any contingent mode of presentation — the exact point the phenomenal-concepts reply contests and has not, on the Map's reading, been forced to concede. The argument also targets [type-identity-theory](/concepts/type-identity-theory/) specifically; token-identity and some functionalist positions are less directly hit, though the underlying conceivability point generalises into the broader anti-physicalist family. The Map's position is that Kripke adds real weight to the anti-materialist convergence without closing the question — a contribution to the case, not a proof.
 
-*Note on sources:* Kripke's mind-body discussion occupies the closing pages of Lecture III (1980, pp. 144–155). All quotations above were verified verbatim against the 1980 Harvard edition; the remainder of the exposition is paraphrase of the same pages.
+*Note on sources:* Kripke's mind-body discussion occupies the closing pages of Lecture III (1980, pp. 144–155), with footnote 77 printed at the foot of p. 155. All quotations above were verified verbatim against the 1980 Harvard edition, and every page locator was checked against that edition's running heads; the remainder of the exposition is paraphrase of the same pages.
 
 ## Further Reading
 

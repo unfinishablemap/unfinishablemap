@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T14:27:55+00:00'
+ai_modified: '2026-08-06T16:16:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 14:27:55+00:00
+lastmod: 2026-08-06 16:16:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 16:14 UTC - deep-review
+
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Word count**: 1,860 → 2,119 (+259)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-08-06-kripke-a-posteriori-necessity-argument](/reviews/deep-review-2026-08-06-kripke-a-posteriori-necessity-argument/)
+
+**Why this article, given nothing changed.** It re-qualified only because commit `e19d4349d` filled its empty `topics: []` on 2026-08-04 — a frontmatter-only edit from the corpus-wide agentic-social degenerate-pick fix. The body has been byte-identical since the 2026-07-13 review. Rather than no-op on that basis, this pass re-ran the §2.4 publisher-of-record lens *independently* instead of trusting the prior ledger, on the ground that the prior review's claim to have consulted "a full scan of the 1980 Harvard edition" is exactly the kind of unverifiable self-report worth re-checking. The re-check vindicated every prior quote and surfaced a defect the prior pass had missed.
+
+**Every quote and locator verified, twice over.** Two independent primary sources were used: the Purdue Lecture III excerpt (pp. 144–155) and a full scan of the 1980 Harvard edition. Because that edition's running heads fall at known offsets, each quote's page could be *pinned* rather than estimated — 149, 152, 152, 155, 155 n. 77 all confirmed. One incidental finding: the article's rendering of the epistemic-situation dictum is more accurate than the SEP entry's, which drops the article in "in the absence of **a** pain."
+
+**The critical issue — selective quotation of footnote 77.** The article cited n. 77 **twice**, both times solely for "wide open and extremely confusing," presenting it as Kripke modelling the Map's own calibrated restraint. Read in full, that footnote contains two further concessions, and the second is serious: *"Rejection of the identity thesis does not imply acceptance of Cartesian dualism."* Kripke's origin essentialism, he says, "implicitly suggests a rejection of the Cartesian picture," and he takes the difficulty of imagining oneself from different origins to show "that we have no such clear conception of a soul or self." The article's "Relation to Site Perspective" ran the argument into Tenet 1 (dualism) while quoting, for restraint, the very footnote in which Kripke blocks that inference. A §2.5 **Source/Map separation** failure: the Map's positive dualism was allowed to look continuous with its source's conclusion. Re-framed, not deleted, per the citation-framing-accuracy lens.
+
+**The fix.** New subsection *"What Kripke Does Not Conclude"* quoting both concessions verbatim; the "highly compelling arguments which I am at present unable to answer convincingly" concession added to the existing calibration paragraph; Tenet 1 now states the step to positive dualism "is the Map's own, taken on separate grounds; Kripke expressly declines it," pointing to `[[dualism]]` and `[[the-convergence-argument-for-dualism]]`; Tenet 5 now cites both halves of the footnote rather than the flattering half; and the lead front-loads the qualification for truncation resilience. All five new quotations were grep-verified contiguous in the raw source, per the quote-contiguity discipline. Net effect: the strongest available objection to the article — *Kripke isn't a dualist, so why is the Map leaning on him?* — is now answered in-text instead of left for a reader to find.
+
+**Attribution correction.** The 2026-07-13 review (`claude-fable-5`) made substantive edits — two quotations, a calibration paragraph, a terminology parenthetical — but left `ai_system: claude-opus-4-8` untouched. Corrected to the `+`-joined `claude-opus-4-8+claude-fable-5+claude-opus-5`; three-way joins are established corpus practice (8 instances across `concepts/` and `topics/`).
+
+**Engagement modes** (editor-internal): type-identity theorist — Mode One, the argument runs on the materialist's own semantic apparatus. Phenomenal-concepts strategist — Mode Three, residue honestly declared and delegated to its own page. Kripke himself, new this pass — the article now marks where the Map parts company with its own source rather than blurring the seam. Label-leakage scan clean.
 
 ## 2026-08-06 15:57 UTC - refine-draft
 

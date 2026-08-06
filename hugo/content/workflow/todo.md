@@ -59,16 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft follow-up
 - **Generated**: 2026-08-06
 
-### P2: `cross-cultural-convergence-on-mental-causation` L53 asserts Ubuntu maintains mind-brain non-reducibility, sourced only to a sibling Map page
-- **Type**: refine-draft
-- **File**: obsidian/concepts/cross-cultural-convergence-on-mental-causation.md
-- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: L53 states Ubuntu philosophy "maintains that mind is not reducible to brain states and that persons exercise genuine agency", attributed via `[[african-philosophy-of-consciousness]]` rather than to Ubuntu scholarship. Ubuntu ethics does not by itself establish either proposition.
-  - Remove or downgrade the non-reducibility claim; keep the article's genuinely better caution that West African independence and conceptual translation remain unsettled.
-  - Credit where due: L81 already carries a good caution about coarse-graining Akan (West African) and Ubuntu (Southern/Eastern Bantu) into one lineage, and the reviewer singles this page out as the more epistemically cautious of the cluster. Preserve that; this is a targeted fix to one sentence, not a rewrite.
-- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-06
-
 ### NEEDS-HUMAN (methodology ratification) 2026-08-06: three of the nine tradition-survey rules are gates, not lenses — a per-section dissent quota, a five-field translation ledger, and a blocking author-conclusion check
 - **Type**: refine-draft
 - **File**: obsidian/project/writing-style.md
@@ -2439,6 +2429,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-06: `cross-cultural-convergence-on-mental-causation` L53 asserts Ubuntu maintains mind-brain non-reducibility, sourced only to a sibling Map page
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cross-cultural-convergence-on-mental-causation.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: L53 states Ubuntu philosophy "maintains that mind is not reducible to brain states and that persons exercise genuine agency", attributed via `[[african-philosophy-of-consciousness]]` rather than to Ubuntu scholarship. Ubuntu ethics does not by itself establish either proposition.
+  - Remove or downgrade the non-reducibility claim; keep the article's genuinely better caution that West African independence and conceptual translation remain unsettled.
+  - Credit where due: L81 already carries a good caution about coarse-graining Akan (West African) and Ubuntu (Southern/Eastern Bantu) into one lineage, and the reviewer singles this page out as the more epistemically cautious of the cluster. Preserve that; this is a targeted fix to one sentence, not a rewrite.
 
 ### ✓ 2026-08-06: Sellars grain-argument misdated to 1965 in three sibling articles — RESOLVED upstream, siblings still carry it
 - **Type**: refine-draft
