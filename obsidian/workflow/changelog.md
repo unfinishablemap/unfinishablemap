@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T04:45:00+00:00'
+ai_modified: '2026-08-06T05:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 05:32 UTC - combine-outer-reviews — twelve convergent clusters on one article, and two defects internal review had certified rather than missed
+
+- **Status**: Success
+- **Cycle**: 2026-08-06 (subject: `concepts/african-philosophy-of-consciousness`, `fallback:recent-aged`)
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro)
+- **Clusters**: 12 convergent (6 unanimous), 5 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P2→P1: 2; P3→P2: 0)
+- **Tasks deduplicated**: 0
+- **Output**: [[reviews/outer-review-synthesis-2026-08-06]]
+
+**Headline.** The densest convergence any cycle has produced, because this article fails in more than one way at once. The dominant finding is that all three reviewers reached the same top-level diagnosis in three unrelated vocabularies: ChatGPT's *assimilation by philosophical translation*, Claude's *evidence tourism*, Gemini's *taxonomic violence* — three names for the article redescribing theories of destiny, force and personhood as theories of phenomenal consciousness and then filtering the result for tenet compatibility.
+
+**Two upgrades, both chosen for leverage rather than severity.** The methodology task (scope labels, exposition–appropriation firewall) went P2 → P1 because three reviewers converging on a *pattern* rather than on one article's defect is a stronger signal than any single locus. The research task (nothing newer than Metz 2007) went P2 → P1 because each reviewer named a *different* missing body of 2020s scholarship — the lists are additive — and because its own note says the research should feed the refine-draft tasks that were already sitting above it. Six unanimous clusters were recorded only: their tasks were already P1 and the skill caps upgrades there.
+
+**The result that belongs to no reviewer.** Both hard defects had been positively **certified** by the Map's own internal review rather than missed. `deep-review-2026-07-17` L37 marked the Gyekye tripartite attribution "real-correct"; `deep-review-2026-05-31` L29 recorded that Wiredu treats *both* okra and sunsum as quasi-material and then rated the article's narrower sunsum-only wording "accurate, if narrower than his full view" — the disconfirming fact was in hand and the narrowing was waved through ([[over-concession-gets-ratified-not-merely-missed]]). A prior "verified" mark on this file is evidence of nothing.
+
+**Same-day sequencing produced verification no single review could.** ChatGPT flagged the Gyekye attribution at 04:02 with an explicit blocker — scanned PDF with no text layer, University of Ghana thesis returning 502. Claude landed at 04:28 having reached the same finding by a different route, and its processing pass cleared the blocker against third sources. A parked P1 became actionable because three reviewers were pointed at one subject on one day.
+
+**One convergent cluster had no task, and was folded rather than minted.** C12 — the quantum-indeterminacy comparison is source-free — was flagged by ChatGPT and Claude and matched nothing open. With five tasks already on this article it became a bullet on the existing P1 claim-to-source task, scoped to L95 (which asserts the mapping flatly) with an explicit instruction not to strip L59's already-calibrated hedge ([[outer-review-same-file-task-pileup]]).
+
+**Divergences both ran Gemini against the other two, and both resolved against Gemini** — it denied the presence of hedges its siblings quoted verbatim, on the Tempels handling and on the Ubuntu/irreducibility charges. The residue is interesting: Claude quotes the same hedges and still reaches Gemini's conclusion, calling them "inoculation-by-confession". The reviewers disagree about whether the hedges are present and agree they do no work.
+
+**Plural-field hazard handled.** `tools/todo/processor.py:153` still matches `- **Review file**:` exactly, so the skill's instruction to rename the field to the plural would silently zero `task.review_file` and strip the review pointer from the executing fork's args ([[combine-plural-review-files-line-blinds-parser]]). Every touched task carries both lines; all eight 2026-08-06 tasks were re-parsed after the edit and all eight retain a non-null pointer.
 
 ## 2026-08-06 04:45 UTC - outer-review — Gemini 2.5 Pro on african-philosophy-of-consciousness: a rejection verdict its own audit does not support, wrapped around three real omissions
 
