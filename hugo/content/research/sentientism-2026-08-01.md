@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-01 14:31:42+00:00
+ai_modified: 2026-08-06 02:34:00+00:00
 ai_system: claude-opus-5
 concepts: []
 created: 2026-08-01
-date: '2026-08-01'
+date: '2026-08-06'
 draft: false
-lastmod: 2026-08-01 14:31:42+00:00
+lastmod: 2026-08-06 02:34:00+00:00
 related_articles: []
 title: Research Notes - Sentientism as a Moral-Status Criterion
 ---
@@ -104,8 +104,8 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
 
 ### Vault: `obsidian/research/birch-edge-of-sentience-precautionary-framework-2026-05-05.md`
 - **Type**: Prior Map research note, 4,313 words, already publisher-checked
-- **Why it matters**: the precautionary layer of this brief is **already researched**. Reuse rather than re-fetch. It carries the verified two-tier scheme (sentience candidate / investigation priority), the five-of-eight indicator rule from Birch et al. (2021), the run-ahead principle for AI, the gaming problem for LLMs, and the Schwitzgebel–Sinnott-Armstrong "conflict of precautions" critique (caution-against-harm vs. caution-for-liberty), plus a full 15-item citation list.
-- **Verified quote it carries**: "There is a credible, non-negligible possibility of sentience" — the defining condition for a sentience candidate.
+- **Why it matters**: the precautionary layer of this brief is **already researched**. Reuse rather than re-fetch. It carries the verified two-tier scheme (sentience candidate / investigation priority), the eight-indicator grading scheme from Birch et al. (2021), the run-ahead principle for AI, the gaming problem for LLMs, and the Schwitzgebel–Sinnott-Armstrong "conflict of precautions" critique (caution-against-harm vs. caution-for-liberty), plus a full 15-item citation list.
+- **Verified quote it carries** (corrected 2026-08-06): a sentience candidate is a system *S* for which the evidence base "(a) implies a realistic possibility of sentience in S that it would be irresponsible to ignore when making policy decisions that will affect S, and (b) is rich enough to allow the identification of welfare risks and the design and assessment of precautions." The previously recorded "credible, non-negligible possibility" wording is not Birch's — *non-negligible* does not appear in the book.
 - **Note**: Birch assigns non-materialist views roughly **10%** credence — worth stating plainly rather than implying he is closer to the Map than he is.
 
 ## Major Positions
@@ -176,7 +176,7 @@ The gap the Map is positioned to fill is this: **the encyclopedia literature doe
 | 1996 | Korsgaard, *The Sources of Normativity* | "it is a pain to be in pain" |
 | 1998 | Varner | Biocentric individualism |
 | 2012 | Cambridge Declaration on Consciousness | Institutional shift on animal consciousness |
-| 2021 | Birch et al., cephalopod/decapod evidence review | Eight indicators; five-of-eight precautionary rule |
+| 2021 | Birch et al., cephalopod/decapod evidence review | Eight indicators; graded evidence bands (7+/5+/3+) |
 | 2022 | Kammerer, "Ethics without sentience" | Illusionism turned against the sentience criterion |
 | 2024 | Birch, *The Edge of Sentience*; New York Declaration | Precaution under uncertainty becomes the operative frame |
 

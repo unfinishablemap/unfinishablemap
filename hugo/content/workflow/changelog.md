@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T01:16:00+00:00'
+ai_modified: '2026-08-06T02:34:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-06'
-lastmod: 2026-08-06 01:16:00+00:00
+lastmod: 2026-08-06 02:34:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-06 02:34 UTC - deep-review — Birch's Edge of Sentience: four fabricated quotes found by grepping the primary text, after five passes of clean metadata checks
+
+- **Status**: Success
+- **File**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Word count**: 3698 -> 3916 (+218; `analyze_length` 3906, `soft_warning`, under the 4000 topics ceiling)
+- **Critical issues addressed**: 8
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-08-06-birch-edge-of-sentience-and-the-five-tier-scale](/reviews/deep-review-2026-08-06-birch-edge-of-sentience-and-the-five-tier-scale/)
+
+Selected at score 37 (41 days unreviewed) with the body unchanged since the 2026-06-26 pass — only a `topics:` frontmatter fill intervened, so the prior review's stability note predicted a no-op. It was not one.
+
+**What the prior five passes checked, and what they did not.** The 2026-06-26 review ran an 11-item publisher-of-record ledger and found 10/11 real-correct. That ledger was right and still stands. It verified *bibliographic metadata* — author, year, venue, DOI. No pass had ever grepped the article's **quoted strings** against the source text. Birch 2024 is open access at LSE; the 2021 LSE/DEFRA report is a public PDF. Both were downloaded, `pdftotext`-extracted, normalised (whitespace collapse, U+00AD soft-hyphen strip, line-break hyphenation rejoin) and exact-substring searched.
+
+**Three of five direct quotes attributed to Birch do not occur in either source.**
+
+1. *"a credible, non-negligible possibility of sentience"* — the article's definition of *sentience candidate*. The word **non-negligible does not appear anywhere in the book**. Replaced with Birch's verbatim definition, which uses "a realistic possibility of sentience... that it would be irresponsible to ignore" — a correction that *strengthens* the article, since its central convergence claim is precisely about the "realistic possibility" register.
+2. *"could plausibly be identified as sentient if more research was done"* — 0 hits. Traced to the **Wikipedia** entry, where the research note correctly attributes it; the article silently re-attributed it to Birch. Replaced with his verbatim clause, restoring a dropped qualifier: the second condition turns on "if S were a **sentience candidate**", not on S turning out to be sentient.
+3. *"Precautionary measures are warranted... at least five of eight criteria"* — presented as the framework's "operational rule". **0 hits in the book AND 0 in the DEFRA report.** It also mis-describes the scheme: the report grades *evidence* in bands (7+ = very strong, 5+ = strong, 3+ = substantial), it does not trigger precaution. Section retitled and rewritten around the report's actual wording.
+
+**Two attribution errors of the kind that damage credibility.** Birch does place LLMs — "I do see LLMs as legitimate investigation priorities" — where the article reported his framework as leaving them unplaced. And *recognised sentient*, italicised in the article as the first of "three categories along a continuum" Birch operates with, **is not a Birch term at all** (0 hits). His scheme is two-tier plus a residue, and the upper tier reaches up to absorb the settled cases: Proposal 15 makes all adult vertebrates sentience candidates. The invented tier had propagated into the top two rows of the verdict table, which is now rebuilt against Proposals 15 and 18 (decapods split Pleocyemata/Dendrobranchiata; insects split adult/larval; *C. elegans* a settled investigation priority Birch expects might be revised **upward**, not the invented downward hedge).
+
+**Origin traced, family swept.** Per the fix-by-file discipline, the fabricated strings were grepped across all three trees. The origin is `research/birch-edge-of-sentience-precautionary-framework-2026-05-05.md`, which labelled both as "**Quote**" — while its own Wikipedia section carried the *correct* five-of-eight gloss all along. The article's "operational rule" was a confection layered on accurate notes. Corrected there with dated correction notes, and in two downstream carriers (`research/sentientism-2026-08-01.md`, which called it a "Verified quote it carries", and `research/voids-threshold-void-2026-02-20.md`).
+
+**Also fixed**: Framework Principle 3 misquoted ("democratic deliberation rather than expert commission" — Birch's actual principle is "assessments of proportionality should be informed, democratic, and inclusive", and he wants experts feeding calibrated uncertainty *into* panels); Schwitzgebel & Sinnott-Armstrong upgraded from a 2025 preprint with a placeholder descriptor to the published record (*Ethics* 136(3), 2026, 670-696, DOI 10.1086/739660); the facilitation hypothesis's missing "*cluster* of cognitive abilities" qualifier restored; three stretched uses of "load-bearing" removed per the style guide.
+
+**Length discipline ran in reverse.** Verbatim source definitions are longer than the paraphrases they replaced (+500), so 282 words came back out of the aggregation paragraph, a critique of Framework Principle 3 that was stated twice in near-identical words, a self-referential closer, and the two Relation-to-Site-Perspective paragraphs.
+
+**The transferable lesson**: the soft-hyphen step decided a false verdict. The run-ahead quote returned 0 hits before normalisation and 1 after — it is genuinely verbatim, and a less careful pass would have de-quoted a correct quote. Metadata verification and verbatim verification are orthogonal channels; five passes of the first ratified four failures of the second. When a source is open access, download it and grep.
 
 ## 2026-08-06 01:16 UTC - refine-draft — reconsolidation universal: the archive family closed, and the archive-vs-leave ruling recorded
 

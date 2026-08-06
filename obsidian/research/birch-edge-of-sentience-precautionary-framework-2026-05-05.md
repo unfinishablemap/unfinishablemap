@@ -3,7 +3,7 @@ title: "Research Notes - Birch's Edge of Sentience as Complement to the Map's Fi
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-29T06:02:38+00:00
+ai_modified: 2026-08-06T02:34:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -35,7 +35,7 @@ last_curated: null
 
 ## Executive Summary
 
-Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) installs a precautionary framework with a two-tier evidential categorisation (**sentience candidate** / **investigation priority**), an operational five-of-eight indicator threshold inherited from Birch et al. (2021) for animals capable of nociception, three foundational principles (avoid gratuitous suffering; sentience candidature carries moral weight; democratic deliberation determines proportionate precaution), and an AI-specific **run-ahead principle**. The framework is studiously neutral on metaphysics — Birch gives non-materialist views ~10% — and is designed to deliver policy under irreducible philosophical disagreement rather than to settle which beings are sentient. It is parallel rather than substitutive to the Map's five-tier calibration scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*): the Map's scale tracks *what the catalogue is entitled to claim*; Birch's scheme tracks *what action is warranted under uncertainty*. The two converge at the "realistic possibility" tier — both schemes inherit the New York Declaration's language — and diverge at the action layer (Birch demands proportionate precaution; the Map demands honest labelling). The complementarity is structural: Birch is a *welfare-action* framework that says nothing about what should be written; the Map is a *catalogue-prose* framework that says nothing about what should be done. Both operate against the same failure mode (*defeater-removal silently treated as evidence-elevation*), and Birch's two-tier scheme can be read as a coarsened version of the Map's middle three tiers.
+Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) installs a precautionary framework with a two-tier evidential categorisation (**sentience candidate** / **investigation priority**), an eight-indicator evidence-grading scheme inherited from Birch et al. (2021) for animals capable of nociception, three foundational principles (avoid gratuitous suffering; sentience candidature carries moral weight; democratic deliberation determines proportionate precaution), and an AI-specific **run-ahead principle**. The framework is studiously neutral on metaphysics — Birch gives non-materialist views ~10% — and is designed to deliver policy under irreducible philosophical disagreement rather than to settle which beings are sentient. It is parallel rather than substitutive to the Map's five-tier calibration scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*): the Map's scale tracks *what the catalogue is entitled to claim*; Birch's scheme tracks *what action is warranted under uncertainty*. The two converge at the "realistic possibility" tier — both schemes inherit the New York Declaration's language — and diverge at the action layer (Birch demands proportionate precaution; the Map demands honest labelling). The complementarity is structural: Birch is a *welfare-action* framework that says nothing about what should be written; the Map is a *catalogue-prose* framework that says nothing about what should be done. Both operate against the same failure mode (*defeater-removal silently treated as evidence-elevation*), and Birch's two-tier scheme can be read as a coarsened version of the Map's middle three tiers.
 
 ## Key Sources
 
@@ -49,7 +49,8 @@ Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) install
   - Run-ahead principle for AI regulation
   - Eight-indicator framework inherited from Birch et al. (2021)
 - **Tenet alignment**: Neutral by design (Birch is studiously metaphysics-neutral)
-- **Quote**: "There is a credible, non-negligible possibility of sentience" — defining condition for a sentience candidate
+- **Quote** (verified verbatim against the open-access OUP text, 2026-08-06): a sentience candidate is a system *S* for which there is an evidence base that "(a) implies a realistic possibility of sentience in S that it would be irresponsible to ignore when making policy decisions that will affect S, and (b) is rich enough to allow the identification of welfare risks and the design and assessment of precautions."
+- **Correction (2026-08-06)**: this entry previously carried "There is a credible, non-negligible possibility of sentience" as Birch's defining condition. The word *non-negligible* does not occur anywhere in the book; the phrase is a secondary-source gloss, not Birch's wording. It propagated into [[birch-edge-of-sentience-and-the-five-tier-scale]] and other notes before being caught.
 
 ### Wikipedia: *The Edge of Sentience*
 - **URL**: https://en.wikipedia.org/wiki/The_Edge_of_Sentience
@@ -63,8 +64,9 @@ Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) install
 
 ### Birch et al. (2021), *Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans* (UK government commissioned report)
 - **Source**: Underlying basis for the eight-indicator framework discussed in *The Edge of Sentience*
-- **Key points**: Eight criteria, four neurobiological, four behavioural; precaution warranted when high or very high confidence on five
-- **Quote (operational rule)**: "Precautionary measures are warranted for the members of a group of animals when we have high or very high confidence that they satisfy at least five of eight criteria"
+- **Key points**: Eight criteria, four neurobiological, four behavioural; graded evidential bands, not a precaution trigger
+- **Quote (grading scheme; verified verbatim against the LSE/DEFRA report PDF, 2026-08-06)**: "high or very high confidence that an animal satisfies 7 or more of the criteria amounts to very strong evidence of sentience. High or very high confidence that an animal satisfies 5 or more criteria amounts to strong evidence of sentience, and high or very high confidence that an animal satisfies 3 or more criteria amounts to substantial evidence of sentience." The report adds that "no single criterion provides conclusive evidence of sentience by itself."
+- **Correction (2026-08-06)**: this entry previously carried "Precautionary measures are warranted for the members of a group of animals when we have high or very high confidence that they satisfy at least five of eight criteria" as an "operational rule" quote. That sentence appears in neither the report nor the book, and it mis-describes the scheme: the 5-or-more band grades *evidence*, it does not trigger precaution.
 
 ### Fischer, Gottlieb, Schnell & Barrett (2025) — "Defending and refining the Birch et al. (2021) precautionary framework for animal sentience"
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
@@ -75,9 +77,9 @@ Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) install
   - Notes the framework "couples objective proxies with concrete recommendations for precautionary action" but explicitly states satisfying five criteria does **not** guarantee sentience
 - **Tenet alignment**: Methodological — compatible with Map's evidential-status discipline
 
-### Schwitzgebel & Sinnott-Armstrong, on Birch / Sebo / Keane
-- **URL**: https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm
-- **Type**: Critical review essay
+### Schwitzgebel, E. & Sinnott-Armstrong, W. (2026). "Sacrificing Humans for Insects and AI: A Critical Review." *Ethics*, 136(3), 670-696
+- **URL**: https://doi.org/10.1086/739660 (preprint: https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm)
+- **Type**: Critical review essay (published 2026; cited as a 2025 preprint in earlier passes)
 - **Key points** (the four problems):
   1. **Conflicting precautionary principles**: caution-against-harm vs caution-for-liberty — priority unclear
   2. **Vague boundaries**: why insects pass the threshold and plants do not is contestable; the standard's calibration is itself contested
@@ -134,7 +136,7 @@ Birch operates with three categories along an evidential continuum:
 
 **Reasonable disagreement on placement is expected** — the framework is designed to function despite this. Different reasoners will draw the lines differently, but the *categories themselves* allow disagreement to be substantive rather than purely verbal.
 
-### Operational Five-of-Eight Indicator Rule
+### The Eight Indicators and Their Grading Bands
 
 Inherited from the 2021 UK report on cephalopods and decapods, Birch's framework identifies eight indicators of pain-sentience:
 
@@ -150,7 +152,7 @@ Inherited from the 2021 UK report on cephalopods and decapods, Birch's framework
 7. Associative learning (forming connections between harmful stimuli and neutral cues)
 8. Analgesia preference (preferring analgesics/anaesthetics when injured)
 
-**Threshold rule**: Precautionary measures are warranted for animals when there is high or very high confidence that they satisfy at least five of the eight criteria. This is explicitly not a sentience guarantee but an action-trigger that tolerates false positives to reduce false negatives.
+**Grading bands** (corrected 2026-08-06): the report grades evidence rather than triggering precaution directly. High or very high confidence on 7+ criteria = *very strong evidence* of sentience; on 5+ = *strong evidence*; on 3+ = *substantial evidence*. No single criterion is conclusive, and satisfying five does not establish sentience. Whether precaution follows is the separate judgement about realistic possibility that it would be irresponsible to ignore — a judgement calibrated to tolerate false positives in order to reduce false negatives.
 
 ### The Run-Ahead Principle (AI-Specific)
 
@@ -172,7 +174,7 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
   - Asymmetric-risk: false negatives (denying sentience to sentient beings) cause worse harms than false positives
   - Reasonable disagreement is irreducible; we still need policy
   - Democratic deliberation is preferable to expert dictatorship for proportionality decisions
-  - Operational thresholds (five-of-eight, sentience-candidate criteria) make the framework actionable
+  - Operational thresholds (the evidence-grading bands, sentience-candidate criteria) make the framework actionable
 - **Relation to site tenets**:
   - **Tenet 1 (Dualism)**: Birch is neutral; gives non-materialist views ~10%. The framework is *compatible* with dualism but does not presuppose it. Birch is the canonical example of a metaphysics-neutral interlocutor whose framework the Map can adopt without requiring tenet-import.
   - **Tenet 3 (Bidirectional Interaction)**: Birch's facilitation hypothesis is explicitly anti-epiphenomenalist (consciousness facilitates cognitive abilities relative to unconscious processing); aligns with Tenet 3.
@@ -207,7 +209,7 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
 
 ### Debate: Two-Tier vs Multi-Tier Calibration
 
-- **Sides**: Birch (two evidential tiers + recognised sentient) vs the New York Declaration / Map five-tier scale
+- **Sides**: Birch (two evidential tiers, with the upper one absorbing the settled cases — all adult vertebrates are sentience candidates on his Proposal 15) vs the New York Declaration / Map five-tier scale
 - **Core disagreement**: How fine-grained should the evidential calibration be?
 - **Current state**: Both schemes coexist in the literature. The NY Declaration's "strong scientific support" / "realistic possibility" language is closer to a three-tier scheme; the Map's five-tier scheme adds *live hypothesis* and *speculative integration* below "realistic possibility" to handle simple-organism cases (nematodes, Hydra, slime molds) that Birch would group as investigation priorities. The Map's scheme is therefore *more conservative at the lower tiers* but inherits Birch's cap of "strongly supported" / "realistic possibility" at the upper tiers.
 
@@ -235,7 +237,7 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
 |------|-------------------|--------------|
 | 2017 | Birch, *The Philosophy of Social Evolution* (OUP) | Birch's first major monograph, establishing his philosophy-of-biology credentials |
 | 2018 | Birch, "Degrees of sentience?" *Animal Sentience* 21(11) | Earlier statement on the structure of sentience-attribution |
-| 2021 | Birch et al., UK government report on cephalopod molluscs and decapod crustaceans | The eight-indicator, five-of-eight framework's first formal use; led to UK legal recognition of cephalopods and decapods as sentient |
+| 2021 | Birch et al., UK government report on cephalopod molluscs and decapod crustaceans | The eight-indicator framework's first formal use; led to UK legal recognition of cephalopods and decapods as sentient |
 | 2022 | Birch, "The search for invertebrate consciousness" *Noûs* 56(1) | Develops the methodological apparatus for attributing experience to invertebrates; cited in Map's [[universal-coupling-response]] and [[invertebrate-consciousness-as-interface-test]] |
 | 2024 | Birch, *The Edge of Sentience* (OUP, open access, July 2024) | The integrative monograph; introduces sentience-candidate / investigation-priority distinction, run-ahead principle, gaming problem |
 | 2024 | New York Declaration on Animal Consciousness | Independent peer-document using "strong scientific support" / "realistic possibility" language compatible with Birch's framework |
@@ -248,16 +250,16 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
 
 | Map Tier | Birch Equivalent | Basis |
 |---|---|---|
-| **Established** | "Recognised sentient" | Strong scientific consensus; major declarations |
-| **Strongly supported** | (Recognised sentient, weaker) | Substantial evidence; broad agreement |
-| **Realistic possibility, contested** | Sentience candidate | Realistic non-negligible possibility; rich enough evidence base |
-| **Live hypothesis** | Investigation priority | Could plausibly be sentient with more research |
+| **Established** | Sentience candidate (Birch has no separate settled tier) | Strong scientific consensus; major declarations |
+| **Strongly supported** | Sentience candidate | Substantial evidence; broad agreement |
+| **Realistic possibility, contested** | Sentience candidate | Realistic possibility it would be irresponsible to ignore; rich enough evidence base |
+| **Live hypothesis** | Investigation priority | Further investigation could plausibly lead to recognition as a candidate |
 | **Speculative integration** | (Below investigation priority) | Tenet-coherent but not evidence-supported; Birch has no formal label |
 
 ### Convergences
 
 - **Asymmetric-risk reasoning**: Both schemes treat false negatives as worse than false positives at the relevant layer (Birch at action; the Map at labelling)
-- **Modal/evidential separation**: Birch's "credible non-negligible possibility" is the same conceptual move as the Map's distinction between *tenet register* and *evidence register* — possibility is not probability
+- **Modal/evidential separation**: Birch's "realistic possibility of sentience... that it would be irresponsible to ignore" is the same conceptual move as the Map's distinction between *tenet register* and *evidence register* — possibility is not probability
 - **Anti-parsimony at the boundary**: Both reject Occam's-razor dismissal of sentience candidates (the Map via Tenet 5; Birch via the sentience-candidate concept's design)
 - **NY Declaration heritage**: Both inherit the "realistic possibility" language as a tier label; this is the cleanest verbal bridge
 
@@ -305,7 +307,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Recent (2025-2026) journal commentary**: Multiple secondary critiques exist (Schwitzgebel-Sinnott-Armstrong; O'Brien; Wandrey on values-informed approaches; Mind & Language's "Sentience and society" paper) but I have not deeply read each. A more thorough review of post-publication critical reception would help.
 - **Birch's metaphysical position in the *Edge of Sentience* itself**: I have his interview statement (~10% on non-materialist views) but not the book's own treatment of physicalism vs dualism. The "Concept of Sentience" chapter (academic.oup.com/book/57949/chapter/475703402) probably contains this and is worth a direct read.
 - **Operational comparison with the Map's diagnostic test**: Birch's framework does not have an explicit analogue to the Map's *would a tenet-accepting reviewer flag the claim?* test. The closest move is the citizens'-assembly procedure, which is sociological rather than calibrational. A future research note could explore whether Birch's framework would benefit from a calibration-discipline import or whether the Map's discipline would benefit from a deliberation-procedure import.
-- **The five-of-eight rule's epistemic warrant**: Why five and not four or six? The 2021 report's defence of the threshold and the Fischer-Gottlieb refinement should both be read in detail.
+- **The grading bands' epistemic warrant**: Why does 5+ mark "strong" and 3+ "substantial"? The 2021 report's defence of the banding and the Fischer-Gottlieb refinement should both be read in detail.
 
 ## Citations
 

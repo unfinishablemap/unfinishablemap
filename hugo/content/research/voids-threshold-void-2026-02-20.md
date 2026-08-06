@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-08-06 02:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-02-20
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-08-06 02:34:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -97,7 +97,7 @@ The threshold void names the impossibility of identifying the precise boundary w
 - **Key points**:
   - Defines sentience as the capacity for valenced experience (experiences that feel pleasant or unpleasant)
   - Argues there is a real boundary to the class of sentient beings — and a separate boundary in our confidence about where that boundary falls
-  - Introduces the concept of "sentience candidate" — a system for which there is a credible, non-negligible possibility of sentience
+  - Introduces the concept of "sentience candidate" — a system whose evidence base implies "a realistic possibility of sentience... that it would be irresponsible to ignore when making policy decisions" (verified verbatim at the OUP open-access text, 2026-08-06)
   - Proposes a precautionary framework rather than a definitive threshold, acknowledging the void
   - Key distinction: the edge in the world vs. the edge in our knowledge — and the void between them
 - **Tenet alignment**: Occam's Razor Has Limits (the precautionary approach acknowledges that the desire for a clean answer may be misplaced); Dualism (if consciousness is non-physical, physical markers may never fully capture the boundary)
