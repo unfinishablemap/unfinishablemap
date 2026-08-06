@@ -214,3 +214,32 @@
   subject_articles:
   - concepts/african-philosophy-of-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9ac87d0d-7942-4635-92b1-7fc0a0a243ab
+  commissioned_at: '2026-08-06T03:12:15.239298+00:00'
+  prompt_summary: Audit african-philosophy-of-consciousness
+  target_filename: outer-review-2026-08-06-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist
+    dualist framework. Audit https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/,
+    last substantively revised 2026-07-29. Web indexes lag 24-48 hours, so consult
+    https://unfinishablemap.org/workflow/changelog/ before judging the article''s
+    current state. Research primary Africana scholarship rather than summaries. Assess:
+    (1) whether its accounts of Akan okra/sunsum, Yoruba Ori, Bantu vital force, and
+    Ubuntu relational personhood are accurate, properly sourced, and not flattened
+    into a single "African view"; (2) whether every citation is real, current, and
+    framed as its author intended - quote-check the ones doing argumentative work;
+    (3) which dissenting scholars go unengaged, including Wiredu on quasi-physical
+    readings, the Gyekye-Wiredu disputes, Hallen, and Appiah on ethnophilosophy; (4)
+    whether the framing bends these traditions toward the site''s dualist tenets rather
+    than reporting them on their own terms. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit african-philosophy-of-consciousness
+  subject_articles:
+  - concepts/african-philosophy-of-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-06-chatgpt-5-6-pro.md
