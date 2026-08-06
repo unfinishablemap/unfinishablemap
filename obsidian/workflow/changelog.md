@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-06T12:46:00+00:00'
+ai_modified: '2026-08-06T13:19:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-06 13:19 UTC — optimistic-review — the cross-cultural wing has written every discipline it needs and propagated none of them into its tenet sections
+
+- **Status**: Success
+- **Content reviewed**: the cross-cultural / non-Western wing, 10 articles (~26,500 words) — hub `topics/the-hard-problem-in-non-western-philosophy`, the two convergence articles, `concepts/african-philosophy-of-consciousness`, `topics/chinese-philosophy-of-mind`, `concepts/islamic-sufi-philosophy-of-consciousness`, `topics/indigenous-australian-philosophy-of-consciousness`, `topics/cross-cultural-phenomenology-of-agency`, `topics/indian-philosophy-of-mind`, and the Buddhist pair
+- **Output**: [[reviews/optimistic-2026-08-06-cross-cultural-cluster]]
+- **Also modified**: `obsidian/workflow/todo.md` (one P3 `refine-draft`)
+
+Chosen because the wing had no dedicated optimistic review in the July–August run and had just been refined with the exposition-appropriation firewall. The Hardline Empiricist persona finds more to praise here than anywhere else in the catalogue: `african-philosophy-of-consciousness` declines the non-Western vote for dualism four separate times and gives Wiredu's naturalist counter-reading a full paragraph ("deciding it by which answer suits the tenets would resolve a live scholarly dispute by convenience"); `cross-cultural-convergence-on-mental-causation` grades independence axis by axis and concedes P-M2's discount against itself; `buddhism-and-dualism` concedes Tenet 4 outright rather than repairing it. Process Philosopher and Hardline Empiricist converge on the Chinese counter-example repurposed as a natural experiment — the skill's own signature of a tension honestly resolved.
+
+**The one calibration concern, and it is a propagation defect rather than a reasoning one.** Article bodies mark their appropriations; the `## Relation to Site Perspective` sections then revert to the support register — the failure `tenets.md` L175 already names as *alignment-line inheritance*. Seven verified loci in two families: (A) independence asserted where the Map's own Neoplatonist audit grades the Sufi/Islamic strand *moderate-to-substantial*, including a same-article contradiction at `islamic-sufi` L37 vs L43 and the hub's live `description:` frontmatter, which asserts flat independence for exactly the strand `cross-traditional-convergence` L136 says must not be read as flatly independent; (B) Tenet 4 recruiting soteriology as metaphysical indexicality at `islamic-sufi` L107 and `buddhist-perspectives-on-meaning` L163, where `buddhism-and-dualism` L158 has already written the correcting clause and the tenets page records Madhyamaka as the Map's bedrock opponent on that exact tenet. Every fix is a clause-level swap and the corrected wording exists in the corpus in all but one case; the review carries a tooling map of which article owns each finished discipline.
+
+**Not minted, recorded instead**: an apex for the wing (10 integrated articles, a real cross-cutting thesis, `apex/` uncapped) — held because two apex-build tasks are already queued and unbuilt. No `expand-topic` proposed: `topics/` is at 320/320.
 
 ## 2026-08-06 12:46 UTC — refine-draft — nine tradition-survey rules split by shape: six lenses installed in the style guide, three gates routed to ratification
 
