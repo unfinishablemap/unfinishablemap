@@ -37,6 +37,83 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `interaction-problem-across-traditions` and `african-philosophy-of-consciousness` classify Tempels and Yoruba two incompatible ways
+- **Type**: refine-draft
+- **File**: obsidian/topics/interaction-problem-across-traditions.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified directly against both files, not taken on the reviewer's word.** `interaction-problem-across-traditions.md` L102-108 files Tempelsian force ontology and the Yoruba person under "Type 5: Monist Avoidance" ("There is no gap between inert matter and immaterial mind because nothing is inert"), and L132 then states the Bidirectional Interaction tenet "rules out ... all monist avoidance strategies (Type 5)". `concepts/african-philosophy-of-consciousness.md` L95 says "The Akan sunsum, Yoruba ori, and Bantu vital force all exercise causal power over physical outcomes" and reads the same material as tenet support. So one page rules these traditions out by tenet while another cites them as evidence for it.
+  - Decide which reading the Map holds, or present both as competing scholarly interpretations with an explicit note on what evidential role each can then play. Do NOT resolve by quietly softening one page — the disagreement is real scholarship (force ontology genuinely is read both ways) and deserves to be shown.
+  - Both files must end up consistent; treat this as one edit spanning two articles.
+  - Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
+### P1: `african-philosophy-of-consciousness` attributes doctrines to Gyekye, Abimbola and Tempels that its cited sources do not carry
+- **Type**: refine-draft
+- **File**: obsidian/concepts/african-philosophy-of-consciousness.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). The reviewer's summary: this is not a fabricated-bibliography problem — all six sources are genuine — it is a **claim-to-source and inferential-attribution problem**. Distinct theories of destiny, force, personhood and social relation are redescribed as theories of phenomenal consciousness. Loci confirmed present in the current text:
+  - **L63 Ajala narrative is misstated.** The article has an already-existing *ori* kneel before Ajala and select a destiny. In Abimbola's narrative prospective persons travel to Ajala and choose or receive heads; *Ori* is the thing chosen, not a pre-embodied conscious agent that chooses itself. This changes the metaphysics, not just the wording.
+  - **L65 over-attributes to Abimbola.** "inner consciousness", "conscious experience", "awareness", and the body-as-vessel doctrine are presented as things Abimbola "documents". Remove or supply exact textual evidence with page references.
+  - **L51/L59 Gyekye tripartism + *sunsum*-as-interface.** The reviewer holds Gyekye concludes the Akan conception is dualistic (okra and sunsum a spiritual unity) rather than three-substance tripartite, so the "interface layer" is a Map reconstruction rather than Gyekye's position. ⚠ **This specific claim is NOT yet verified — see the review's Verification Notes.** The cited Gyekye PDF is a scanned image with no text layer and the UG thesis 502'd. **Verify at the publisher before editing on this basis.** If it holds, present tripartism as a contested revisionary reading, not as Gyekye's.
+  - **L71 Tempels.** Rewrite around force ontology rather than consciousness ontology: distinguish vital rank from sentience, and human supremacy among created forces from "highest concentration of consciousness".
+  - **L75 combination problem.** The article implies African vital-force hierarchies dispose of the panpsychist combination problem. A rank ordering supplies no combination mechanism. At most say some force ontologies avoid the problem by not positing micro-subjects.
+  - **L79 "Most African philosophical traditions" ancestors claim** — replace with named traditions and sources, and distinguish belief in continuing social membership from a demonstration of persisting phenomenal consciousness.
+  - **L89 "what is it like for *us*?"** — label as a Map-generated heuristic, not the question asked by "the African oral tradition".
+  - **Ubuntu section**: the article resolves Ubuntu's anti-substantialist pressure by importing the Akan *okra*. No source supports that synthesis, and it combines traditions exactly where one threatens a tenet. Mark it explicitly as Map synthesis rather than as an interpretation of Ubuntu.
+  - **Scope note**: the article's global disclaimer at L73 (Hountondji/Wiredu anti-monolith critique, "no single African philosophy of consciousness") already exists and is good — do not re-add it. The flattening charge lands on the specific loci above, not on a missing disclaimer.
+  - Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
+### P2: `the-hard-problem-in-non-western-philosophy` asserts Ubuntu and Ori claims with no African specialist source in its references
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: the article's reference list returns zero hits for Gyekye, Tempels, Wiredu, Abimbola, Metz, Hountondji, Mbiti, Ramose or Molefe, yet L118 asserts flatly that the Ubuntu principle "locates consciousness in relations between persons rather than in individual brains", L120 treats *ori-inu* as the deepest source of knowing, and L122 recodes Bantu vital force as consciousness pervading reality and inheriting the combination problem.
+  - This is the second half of a circular structure the reviewer calls **source laundering by internal repetition**: the survey article supplies an unsupported interpretation and this page repeats it as cross-cultural evidence.
+  - Either add direct African specialist sources for these claims or downgrade them to proposed comparisons. Note that personhood claims and phenomenal-consciousness claims are being run together — an Ubuntu theory can make personhood relational while holding that an isolated individual is still phenomenally conscious.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
+### P2: `cross-cultural-convergence-on-mental-causation` L53 asserts Ubuntu maintains mind-brain non-reducibility, sourced only to a sibling Map page
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cross-cultural-convergence-on-mental-causation.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). **Verified**: L53 states Ubuntu philosophy "maintains that mind is not reducible to brain states and that persons exercise genuine agency", attributed via `[[african-philosophy-of-consciousness]]` rather than to Ubuntu scholarship. Ubuntu ethics does not by itself establish either proposition.
+  - Remove or downgrade the non-reducibility claim; keep the article's genuinely better caution that West African independence and conceptual translation remain unsettled.
+  - Credit where due: L81 already carries a good caution about coarse-graining Akan (West African) and Ubuntu (Southern/Eastern Bantu) into one lineage, and the reviewer singles this page out as the more epistemically cautious of the cluster. Preserve that; this is a targeted fix to one sentence, not a rewrite.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
+### P2: African philosophy of mind cluster cites nothing newer than Metz 2007 — a dedicated 2023 specialist volume is missing
+- **Type**: research-topic
+- **File**: obsidian/concepts/african-philosophy-of-consciousness.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). For a page revised in 2026, the newest external bibliography item is Metz 2007. **Sources verified real at Crossref before minting this task:**
+  - *Conversations on African Philosophy of Mind, Consciousness and Artificial Intelligence* (Springer, 2023), DOI `10.1007/978-3-031-36163-0` — a volume devoted to exactly this article's subject. Confirmed chapters: `_2` Tartaglia, "Gyekye and Contemporary Idealism"; `_3` Balogun, "A Central State Materialistic Interpretation of the Yoruba Concept of Person: A Critique"; `_4` Agada, "Between Sense-Phenomenalism, Equi-phenomenalism, Quasi-physicalism, and Proto-panpsychism". These give the competing idealist, materialist, quasi-physicalist and proto-panpsychist readings the cluster currently lacks.
+  - Matolino and Kwindingwi, "The end of ubuntu", *South African Journal of Philosophy* (2013) — confirmed, plus a live debate around it (Chimakonam 2016, Molefe 2025). The Ubuntu field is contested, not settled.
+  - Also seek: the 2024 reassessment of Tempels (*Beyond Bantu Philosophy*, reviewer's claim — unverified); Adefarakan on *Ori* within embodied integration; Molefe's systematic Ubuntu ethics; Wiredu's quasi-physical reading of *sunsum*.
+  - Research should feed the refine-draft tasks above rather than a new article — `concepts/` has limited headroom and this is a sourcing gap in existing pages, not a missing topic.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
+### P2: Adopt scope labels and an exposition-appropriation firewall for articles surveying other traditions
+- **Type**: refine-draft
+- **File**: obsidian/project/writing-style.md
+- **Notes**: From outer review 2026-08-06 (ChatGPT 5.6 Pro). The reviewer's methodology list is aimed at a failure the Map has now demonstrated across four pages: **assimilation by philosophical translation**, where another tradition's categories are redescribed in the Map's vocabulary and then filtered for tenet compatibility. The transferable rules, in rough order of value:
+  - **Scope labels on cultural generalisations** — specify people, language, period, corpus, region and interpreting scholar; prohibit movement from "one author's reconstruction" to "African traditions" without further evidence.
+  - **Exposition-appropriation firewall** — complete the neutral account and its internal disputes before asking how the material relates to the Map's tenets.
+  - **Minimum-dissent rule** — each tradition-specific section carries at least one serious internal disagreement and one methodological challenge to the dominant interpretation.
+  - **No unmarked cross-tradition repairs** — an Akan soul cannot be used to patch Ubuntu anti-substantialism while the result is still presented as an African traditional position.
+  - **Translation ledger for key terms** — original term, literal range, ritual/social use, competing philosophical translations, and why "mind"/"soul"/"consciousness"/"force" was chosen.
+  - **Inference test for religious and ancestral claims** — separate "this community has a concept of survival" from "survival is metaphysically possible" from "survival actually occurs".
+  - **Symmetry test** — compare specific traditions with specific traditions, not a selected relational ideal with a flattened Cartesian-materialist "West".
+  - Scope: adopt the ones that generalise beyond the African cluster. This overlaps the existing [[evidential-status-discipline]]; extend that rather than creating a competing vocabulary.
+- **Review file**: `reviews/outer-review-2026-08-06-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-06
+
 ### P3: the Stapp-over-IIT preference claim survives the coupling-modes fix — a second, distinct axis the 2026-08-06 sweep deliberately left standing
 - **Type**: refine-draft
 - **Status**: pending
