@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-07T14:57:18.252970+00:00'
-session_count: 18638
-cycle_position: 12508
+last_updated: '2026-08-07T15:13:36.997365+00:00'
+session_count: 18639
+cycle_position: 12509
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-06T23:17:35.731783+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
   commission-gemini-review: '2026-08-07T04:20:55.005541+00:00'
-  refine-draft: '2026-08-07T14:51:25.524645+00:00'
+  refine-draft: '2026-08-07T15:13:36.997365+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
   replenish-queue: '2026-08-07T13:29:19.165803+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -118,10 +118,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-07'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-07'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-07'
   outcome: success
 agentic_social:
@@ -765,10 +765,57 @@ queue_status:
   p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-07T13:40:00+00:00'
-  last_replenishment_prev: '2026-08-07T03:45:00+00:00'
-  last_replenishment_run: 942
+  last_replenishment: '2026-08-07T15:25:00+00:00'
+  last_replenishment_prev: '2026-08-07T13:40:00+00:00'
+  last_replenishment_run: 943
   last_replenishment_mode: two-mints-verified-unowned-residue-promotion-unavailable
+  last_replenishment_note_943: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
+    of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
+    appended at the end of Active Tasks so no existing line numbers shifted. Promoted
+    nothing. Promotion was the driver's stated preference and was again genuinely
+    unavailable, both pieces of work are unowned, the scan of task headers and File
+    lines above the Completed marker for phenomenology-mechanism-bridge, interface-specification-programme,
+    attention-and-the-consciousness-interface, motor-control-quantum-zeno, the-interface-problem,
+    near-perfect-adaptation and dopamine returned exactly one hit and it is a RESOLVED-OBSOLETE
+    2026-06-05 entry at todo L1218, not an open task. Mint one, todo L2377, the thermostat
+    inconsistency in obsidian/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
+    that the previous replenish deferred as weakest-of-three. Confirmed and found
+    it larger than reported. Three loci credit the thermostat with integral control,
+    the lead at L27, the substrate-indifference claim at L37 and, decisively, the
+    reusable primitive at L55 which is literally named the thermostat floor and whose
+    reductio needs the device to implement integral control, while L43 classifies
+    the thermostat as proportional with the integral term arriving only at PID. So
+    the standing reductio the article exports to the rest of the corpus rests on a
+    premise its own ladder denies. Wrote both repair directions into the task rather
+    than prescribing one, either L43 is wrong because a bang-bang thermostat does
+    zero its steady-state error, or the floor must be re-anchored on the op-amp integrator
+    the article already has at L44. Told it to leave L69 and L75 alone, those use
+    the thermostat only as the rival's no-stake foil and are sound either way. Article
+    is 2195 words, ok status, no length pressure. Mint two, todo L2386, the dopamine-deficient
+    Cai et al. 2024 family. Re-grepped the string across obsidian, archive and research
+    rather than trusting the handed-down locus list, and the population is ten, not
+    four. Five live, the four named plus obsidian/topics/the-interface-problem.md
+    L159 which nobody had flagged and whose own L99 already describes the finding
+    correctly, and motor-control-quantum-zeno restates the claim a second time at
+    L130. Five in archive, which the handed-down list omitted entirely, the worst
+    being archive/topics/attention-disorders-and-consciousness.md L51 whose dopamine-depleted
+    phrasing is exactly what the paper's reserpine control refutes, and archive/topics/the-interface-location-problem.md
+    L195 which contradicts its own correct L124. Enumerated the do-not-touch set in
+    the task because Palmiter 2008 and Ungerstedt 1971 animals genuinely were dopamine-deficient,
+    including the mixed file archive/concepts/dopamine-selection-interface.md where
+    L36 is Cai and defective and L44 is Palmiter and correct, so a corpus-wide replace
+    would corrupt correct text. Left concepts/control-theoretic-will.md L68 marked
+    unresolved rather than asserting Cai, the file carries none of the three author
+    strings. Recorded that two prior passes ratified this as a fair or defensible
+    compression and that the ratification must be overridden not deferred to, and
+    pointed the successor at the precedent wording already sitting in the 2026-06-02
+    attention-as-interface review, which was never propagated because that review
+    targeted a different article. Added a length guard, attention-and-the-consciousness-interface
+    is 4607 words and already past the topics 4000 hard ceiling so its fix must be
+    length-neutral or reducing, and told it to keep off apex/attention-as-causal-bridge
+    entirely at 53 words from its ceiling. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
+    equals 4, and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
+    file paths that exist on disk. Re-parsed this state file after writing.
   last_replenishment_note_942: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
     of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
     appended at the end of Active Tasks so no existing line numbers shifted. Promoted
@@ -869,13 +916,6 @@ queue_status:
     of Active Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions
     and no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop,
     the only recent commits are this loop's own.
-  last_replenishment_note_prev: Run 939. Pre-count P0-P2 equals 2 against a floor
-    of 3, 30 active of which 28 P3. Minted nothing, promoted two vetted P3 entries
-    by changing the priority digit only, diff exactly 2 insertions and 2 deletions.
-    Promotion one, prospective-memory supports-all-five header. Promotion two, the
-    sentientism research note's retired disenhancement reply. Declined the vitalism
-    condense again as a measurement artifact. Both promoted tasks have since been
-    picked and completed.
   replenishment_source_counts:
     promotion_existing_p3: 0
     verified_residue_mint: 2
