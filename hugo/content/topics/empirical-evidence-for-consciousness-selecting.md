@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-07 02:59:13+00:00
+ai_modified: 2026-08-07 13:05:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-08-07 02:59:13+00:00
+lastmod: 2026-08-07 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ This line addresses whether the physical substrate for consciousness-selecting e
 
 The quantum-biological line supports the following claims:
 
-- **Warm biology appears to exploit quantum effects.** The categorical objection seems empirically refuted.
+- **Warm biology can host quantum effects.** That refutes the categorical objection but licenses no neural-scale inference.
 - **Evolution may have tuned quantum effects in specific systems.** If it has for navigation and catalysis, the neural case cannot be ruled out a priori.
 - **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delays unconsciousness.
 - **Decoherence does not solve the measurement problem.** The conceptual opening for consciousness at collapse survives regardless of coherence timescales.

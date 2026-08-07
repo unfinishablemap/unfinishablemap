@@ -4,7 +4,7 @@ description: "Evolutionary, cognitive, neurological and quantum-biological evide
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-08-07T02:59:13+00:00
+ai_modified: 2026-08-07T13:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ This line addresses whether the physical substrate for consciousness-selecting e
 
 The quantum-biological line supports the following claims:
 
-- **Warm biology appears to exploit quantum effects.** The categorical objection seems empirically refuted.
+- **Warm biology can host quantum effects.** That refutes the categorical objection but licenses no neural-scale inference.
 - **Evolution may have tuned quantum effects in specific systems.** If it has for navigation and catalysis, the neural case cannot be ruled out a priori.
 - **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delays unconsciousness.
 - **Decoherence does not solve the measurement problem.** The conceptual opening for consciousness at collapse survives regardless of coherence timescales.

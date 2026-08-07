@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T12:33:00+00:00'
+ai_modified: '2026-08-07T13:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 12:33:00+00:00
+lastmod: 2026-08-07 13:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 13:05 UTC - refine-draft (`empirical-evidence-for-consciousness-selecting` L104 scoped; +3 words — and the task's "L92 string does not exist" driver correction is FALSE)
+
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **One-locus scoping fix, L104.** Was: *"- **Warm biology appears to exploit quantum effects.** The categorical objection seems empirically refuted."* Now: *"- **Warm biology can host quantum effects.** That refutes the categorical objection but licenses no neural-scale inference."*
+- **The fix is scoping, not hedging.** Two propositions were fused in one bullet and only one is over-claimed. *(1)* "Quantum effects cannot occur at all in warm biology" is genuinely refuted — photosynthesis, avian magnetoreception, enzyme tunnelling establish it — so the bullet's two hedges (*"appears to"*, *"seems"*) were mis-placed and **under**-claimed against the evidence; both removed. *(2)* The inference from (1) to neural, consciousness-relevant scales is **not** established, and the bullet's placement at the head of the section's claim list implied it; now marked explicitly. A mechanical `refuted → weakened` swap would have introduced the opposite error.
+- **Head calibrated to the corpus model**, not to my own preference: `topics/neural-implementation-specifics` L200 reads *"**Strongly supported, as precedent**: Warm, wet biological tissue can **host** functional quantum coherence."* `exploit` (functional deployment) overshoots what this article's own body carries — L94 calls the radical-pair account *"leading but undemonstrated"* and L96 leaves tunnelling's contribution *"contested"*. `can host` is the claim those hedges actually support, and it matches this article's own grading table at L125 (`supports-substrate-relevance`).
+- **Length paid for in the same bullet.** 3794 → **3797** raw (+3), body prose 2994 → 2997 against topics soft 3000. Status `soft_warning`, unchanged; no threshold crossed. The three words the scoping clause cost were funded by dropping `appears to` and `seems`.
+- **The bullet does not duplicate its neighbours.** L105 says the neural case *"cannot be ruled out a priori"* (negative/defensive); L109 says neural quantum effects are not shown functionally operative (a section-closing caveat). L104 now blocks the *positive* inference at the point where the reader would draw it.
+- **⚠️ DRIVER-CORRECTION ERROR — the task asserted, twice and emphatically, that *"This objection has collapsed"* does not exist anywhere in this file, and instructed that no fork go looking. It does exist: `obsidian/topics/empirical-evidence-for-consciousness-selecting.md` **L92**, sentence-final.** The instruction not to touch it was nonetheless **correct, for a different reason than the one given**: L92 pins its own referent in the immediately preceding clause (*"the categorical objection was that quantum effects cannot survive in warm, wet biological systems"*), so the collapse claim ranges over proposition (1) only — the one that genuinely has collapsed. Left unedited. Recording the false premise because the next task inheriting this note would grep, find the string, and conclude the file is unfixed.
+- **Residue sweep** (`empirically refuted`, `objection has collapsed`) across `obsidian/`, `archive/`, `hugo/content/`: **no defects outside review/changelog/todo records.** Two sibling live loci — `concepts/libet-experiments` L127 and `concepts/quantum-indeterminacy-free-will` L157 — carry the identical sentence *"The categorical objection—that biology cannot use quantum mechanics—is empirically refuted"*, and both are **already correctly scoped**: the em-dash gloss names the categorical objection inline, which is the same discipline installed here. Four further hits are unrelated senses (`time-symmetric-physics` L152, `retrocausality` L93 — both *"cannot be empirically refuted"*; `voids/tacit-integration-void` L113; `archive/topics/history-of-interactionist-dualism` L67, historical exposition of the Leibniz objection).
+- **Attribution**: `ai_system` **held** — scoping is calibration, not new authorship. `ai_modified` bumped from a live `date -u` read (13:08:02) and set behind it, not ahead.
+- **Not re-opened**, per driver: the enzyme figure (L96), the tenets section, Denton, `description:`, the grading ladder (L115–128) and the L139 footnote.
+- **Published**: yes
 
 ## 2026-08-07 12:33 UTC - refine-draft (anchoring audit: `memory-channel-interface-evidence` calibrated structurally; flag clears, article 22 words SHORTER)
 
