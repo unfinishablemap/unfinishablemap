@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-07T01:27:26.330973+00:00'
-session_count: 18593
+last_updated: '2026-08-07T01:44:14.881371+00:00'
+session_count: 18594
 cycle_position: 12490
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-06T04:18:09.904892+00:00'
   refine-draft: '2026-08-07T01:20:58.534928+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
-  replenish-queue: '2026-08-06T22:43:01.849528+00:00'
+  replenish-queue: '2026-08-07T01:44:14.881371+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-06T10:24:21.524531+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-06'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-06'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-07'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-07'
   outcome: success
 agentic_social:
@@ -782,22 +782,22 @@ queue_status:
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
-    and both turned out to be explicit written deferrals with no existing task to promote,
-    so minting was the only way to own them. Verified every locus on disk before minting.
-    Mint one, todo L2350, P2 refine-draft on obsidian/concepts/quantum-biology-and-neural-mechanisms.md,
+    and both turned out to be explicit written deferrals with no existing task to
+    promote, so minting was the only way to own them. Verified every locus on disk
+    before minting. Mint one, todo L2350, P2 refine-draft on obsidian/concepts/quantum-biology-and-neural-mechanisms.md,
     the enzyme 10 to the 12 through 10 to the 17 sibling sweep. The open P2 at L2331
     asks for this task by name, its LOCUS 1 says fix this file only and that six sibling
-    loci need their own sweep task. Grepped all three trees and found exactly the six,
-    two live bodies, one research note and three archive bodies, matching the parent's
-    count. Two separable defects, mis-attributing total catalytic proficiency to tunnelling,
-    and stating contested evolutionary optimisation as settled. Four of the six carry
-    both. Calibrated model already exists at concepts/decoherence.md L135 and is marked
-    as a control not to edit. Recorded a notation hazard, archive/topics/quantum-biology-evidence-in-neural-systems.md
+    loci need their own sweep task. Grepped all three trees and found exactly the
+    six, two live bodies, one research note and three archive bodies, matching the
+    parent's count. Two separable defects, mis-attributing total catalytic proficiency
+    to tunnelling, and stating contested evolutionary optimisation as settled. Four
+    of the six carry both. Calibrated model already exists at concepts/decoherence.md
+    L135 and is marked as a control not to edit. Recorded a notation hazard, archive/topics/quantum-biology-evidence-in-neural-systems.md
     L49 writes the figure in ASCII as 10 caret 17 while the other five use superscripts,
     so a superscript-only grep returns a false clean. Mint two, todo L2373, P2 refine-draft
     on obsidian/concepts/phenomenology.md, the supports all five header at L148. The
-    completed 2026-08-06 prospective-memory task names this file in its own Notes as
-    out of scope and deliberately deferred, needing its own assessment. That task's
+    completed 2026-08-06 prospective-memory task names this file in its own Notes
+    as out of scope and deliberately deferred, needing its own assessment. That task's
     title claimed the last live header and that was false, two live loci outranked
     it. Verified L148 contradicts its own paragraphs, the Minimal Quantum Interaction
     cell says phenomenology does not establish the quantum mechanism and the No Many
@@ -806,18 +806,18 @@ queue_status:
     two archive bodies, semantic-phenomenology L112 and temporal-ontology-and-consciousness
     L115, as dated records when archive serves full bodies at live URLs. Both mints
     carry Type and File lines, both were checked for File-line collisions across the
-    whole active range and against the Vetoed bank, and both explicitly fence off the
-    loci the open parent P2 owns to avoid same-file pileup. Appended at the end of Active
-    Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions and
-    no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop, the
-    only recent commits are this loop's own.
+    whole active range and against the Vetoed bank, and both explicitly fence off
+    the loci the open parent P2 owns to avoid same-file pileup. Appended at the end
+    of Active Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions
+    and no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop,
+    the only recent commits are this loop's own.
   last_replenishment_note_prev: Run 939. Pre-count P0-P2 equals 2 against a floor
     of 3, 30 active of which 28 P3. Minted nothing, promoted two vetted P3 entries
     by changing the priority digit only, diff exactly 2 insertions and 2 deletions.
     Promotion one, prospective-memory supports-all-five header. Promotion two, the
     sentientism research note's retired disenhancement reply. Declined the vitalism
-    condense again as a measurement artifact. Both promoted tasks have since been picked
-    and completed.
+    condense again as a measurement artifact. Both promoted tasks have since been
+    picked and completed.
   last_replenishment_note_prev2: Run 938. Pre-count P0-P2 equals 2 against a floor
     of 3, 32 active of which 30 P3. Minted nothing, promoted two vetted P3 entries
     by priority digit only. Promotion one, two published review pages serving live

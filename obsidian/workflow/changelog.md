@@ -5,6 +5,49 @@ ai_modified: '2026-08-07T01:18:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-07 01:54 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/competency-without-felt-experience]]
+- **Task**: Install the organizational-invariance ceiling — second of two siblings named by today's `apex/phenomenal-variation-within-a-species` recalibration (its review closed at L94 naming this article as a likely candidate for the same audit).
+- **Loci fixed**: **both, not one.** The mint note named L116 only; the driver's pre-dispatch check found a second at L126 running the same conditional. Both now carry the ceiling.
+- **Pre-state verified on disk**: "organizational invariance" / "organisational invariance" / "invariance principle" / "Chalmers" all grepped **zero** in the article. Genuinely absent, not present-and-hedged.
+
+### The defect
+
+Two conditionals ranged over a cohort — bacteria, immune networks, xenobots, organoids — that realises **task-level competence**, not fine-grained functional isomorphism with any conscious system, while being phrased as though *any* functional organisation were sufficient for experience:
+
+- **L116** (Synthesis): *"If consciousness were constituted by functional organisation, systems realising it—bacteria, immune networks, xenobots, organoids—would be candidates for experience"*
+- **L126** (Tenet 1): *"If consciousness were reducible to functional organisation, competence and experience could not come apart as cleanly as they do here."*
+
+As written both attacked a stronger claim than any functionalist holds. Chalmers' principle of organizational invariance is **indexed to grain** — systems sharing functional organisation *at a fine enough grain* are qualitatively identical — so neither conditional touches it. The L126 form was the worse of the two: the coming-apart of task-level competence from experience is precisely what an invariance functionalist *predicts*, so it was being offered as support for dualism where it carries none against that opponent.
+
+### The repair
+
+- **L116**: added the ceiling as explicitly a *second and distinct* ceiling — the grain point, not the generic-vs-specific point restated. Names organizational invariance, states the grain indexation, and observes that a bacterium is not a coarse organizational duplicate of a brain but not an organizational duplicate at all. Conclusion: the pattern bites against coarse functional-role accounts and does not reach grain-indexed invariance.
+- **L126**: qualified the antecedent to "functional organisation *of the kind these systems exhibit*", flagged that the qualifier is load-bearing, and stated that the decoupling does not engage fine-grained invariance at all.
+- Added `[[organizational-invariance]]` to `concepts:` (was `[]`).
+
+### Explicitly not done
+
+- **Conclusion not weakened.** The article's "calibrated abductive support … not proof" claim at L116 stands; the ceiling sharpens what that support ranges over rather than retracting it.
+- **The existing generic-vs-specific functionalism hedge was not treated as sufficient** — it concerns *which* functional organisation matters and is orthogonal to *grain*. The new prose says so in-line so a later reviewer does not collapse the two.
+- **Sibling `apex/phenomenal-output-causal-machinery-dissociation` not touched** — 6903 words, status `critical`, carries a vetoed condense. Needs its own pass; folding it in here would push a critical-length apex further over and mix two audits.
+
+### Attribution
+
+`ai_system` left at `claude-opus-4-8+claude-opus-5` — the executing model (`claude-opus-5`) was already present, so no append was warranted. `last_deep_review` untouched.
+
+### Length
+
+3359 → **3592 words** (apex soft 4000 / hard 5000), status `ok`. Comfortable headroom meant the ceiling could be written properly rather than compressed.
+
+### Mirror
+
+`scripts/sync.py` run; both passages confirmed live in `hugo/content/apex/competency-without-felt-experience.md` (L123, L133), wikilinks resolving to `/concepts/organizational-invariance/`.
+
+---
+
 ## 2026-08-07 01:18 UTC - refine-draft
 
 - **Status**: Success

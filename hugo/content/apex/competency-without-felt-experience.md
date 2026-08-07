@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-04 09:15:00+00:00
+ai_modified: 2026-08-07 01:54:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 14:04:05+00:00
 apex_sources:
@@ -21,7 +21,8 @@ apex_thesis: Genuine cognitive-grade competency is realised across the whole tre
   phenomenal question.
 apex_type: synthesis
 author: null
-concepts: []
+concepts:
+- '[[organizational-invariance]]'
 created: 2026-07-09
 date: &id001 2026-07-09
 description: Across the tree of life—single cells to engineered cortex—cognitive-grade
@@ -31,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:35:37+00:00
-lastmod: 2026-08-04 09:15:00+00:00
+lastmod: 2026-08-07 01:54:20+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
@@ -119,7 +120,7 @@ That the **decoupling is universal across the tree of life**, not a quirk of one
 
 That the **discipline is bidirectional**, and this is its non-obvious payload. The same refusal to let third-person facts settle the phenomenal question blocks inflation at the sub-personal rungs and deflation at the fish rung: a framework that only ever lowered credence in non-human minds would be a machine for denial, one that only ever raised it would be credulous, and the Map's symmetric instrument is neither—the explanatory gap cuts both the "therefore conscious" and the "therefore not."
 
-And that the pattern furnishes **calibrated abductive support for the interface being neural-specific**, not proof. If consciousness were constituted by functional organisation, systems realising it—bacteria, immune networks, xenobots, organoids—would be candidates for experience, and they are the systems almost no one counts—though this unseats only *generic* functionalism, since a *specific*-functionalist (IIT, global-workspace) declines to count them too, which leaves a neural interface and experience-in-a-particular-architecture undiscriminated by the data. Once the framework-generated share of the convergence is subtracted out, the pattern is *consistent with* the interface tracking specific neural machinery rather than sophistication in general; the stronger reading, that it positively *points toward* neural specificity, is what the Map's own interface commitment yields from inside the framework, not a survivor of the framework-neutral subtraction. The Map claims each ceiling at its honest height and not one inch above it.
+And that the pattern furnishes **calibrated abductive support for the interface being neural-specific**, not proof. If consciousness were constituted by functional organisation, systems realising it—bacteria, immune networks, xenobots, organoids—would be candidates for experience, and they are the systems almost no one counts—though this unseats only *generic* functionalism, since a *specific*-functionalist (IIT, global-workspace) declines to count them too, which leaves a neural interface and experience-in-a-particular-architecture undiscriminated by the data. A second ceiling caps the same conditional, and it is not that point restated: the generic-versus-specific distinction is about *which* functional organisation matters, whereas this one is about *grain*. As written, the conditional treats any functional organisation whatever as sufficient for experience, which is stronger than what functionalists actually hold. Chalmers' principle of [organizational invariance](/concepts/organizational-invariance/) is indexed to grain—systems sharing functional organisation *at a fine enough grain* have qualitatively identical experience—and what every rung of this ladder realises is task-level competence, not fine-grained functional isomorphism with any system anyone takes to be conscious. A bacterium is not a coarse organizational duplicate of a brain; it is not an organizational duplicate of a brain at all, and neither is an immune network, a xenobot, or a dish of cortical tissue with no body and no world. So the pattern bites against coarse functional-role accounts, which read experience off what a system can do, and does not reach grain-indexed invariance—no case in the cluster is the duplicate that principle quantifies over. Once the framework-generated share of the convergence is subtracted out, the pattern is *consistent with* the interface tracking specific neural machinery rather than sophistication in general; the stronger reading, that it positively *points toward* neural specificity, is what the Map's own interface commitment yields from inside the framework, not a survivor of the framework-neutral subtraction. The Map claims each ceiling at its honest height and not one inch above it.
 
 ## Relation to Site Perspective
 
@@ -129,7 +130,7 @@ The cluster bears on four of the Map's [five tenets](/tenets/).
 
 **[Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction)** bears on the floor cases as an allocation rule, not as a parsimony argument. Minimality counsels the smallest non-physical footprint the empirical record demands—a constraint on the magnitude of an interaction rather than a heuristic about how experience is distributed—so what it licenses is declining to multiply interfaces beyond the machinery that could host them. The principle is *no interface where no substrate*—and, at the organoid edge, no interface merely because neuron count or oscillatory complexity crosses a threshold. Both are framework-relative rules about where influence is exerted, and neither turns on how complete the underlying biochemistry is: an experience making no difference to any physical outcome would add no footprint for minimality to weigh. The enteric nervous system is the exception that locates the rule: it has ample neural substrate, so the withholding there rests not on absent substrate but on absent felt agency and the still-open question of where the interface sits.
 
-**[Tenet 1 (Dualism)](/tenets/#dualism)** is what the decoupling illustrates. If consciousness were reducible to functional organisation, competence and experience could not come apart as cleanly as they do here. Their coming apart is consistent with dualism—indeed it is what dualism leads one to expect—though on its own it does not decide between dualism and a functionalism that locates experience in a *specific* functional organisation. The cluster narrows the field without closing it.
+**[Tenet 1 (Dualism)](/tenets/#dualism)** is what the decoupling illustrates. If consciousness were reducible to functional organisation *of the kind these systems exhibit*, competence and experience could not come apart as cleanly as they do here. The qualifier is doing real work, and the same grain ceiling applies as above: what comes apart at these rungs is *task-level* competence from experience, which is exactly what an [organizational-invariance](/concepts/organizational-invariance/) functionalist would predict, since none of these systems matches a conscious one at the grain that principle indexes. Their coming apart is consistent with dualism—indeed it is what dualism leads one to expect—though on its own it does not decide between dualism and a functionalism that locates experience in a *specific* functional organisation, and it does not engage fine-grained invariance at all. The cluster narrows the field without closing it.
 
 **[Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits)** guards both flanks. It blocks the deflationist from wielding parsimony as a proof that nothing is felt, and blocks the inflationist from reading experience off behavioural sophistication. Simplicity is an unreliable guide when the phenomenal layer is, by hypothesis, invisible to the third-person evidence parsimony weighs. The honest verdict the cluster protects is the non-simple one: functional competence that is real, and felt experience that its presence never establishes.
 
