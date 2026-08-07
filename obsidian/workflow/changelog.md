@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T15:10:00+00:00'
+ai_modified: '2026-08-07T15:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 15:47 UTC - pessimistic-review (`concepts/entropic-brain-hypothesis` — four source papers compressed into one citation, and a 2025 DMT result filed with its direction removed)
+
+- **Status**: Success
+- **Content reviewed**: [[concepts/entropic-brain-hypothesis]] (1542w, created and last reviewed 2026-06-22, untouched since — selected as the oldest untouched article in a filter-framed, citation-dense cluster outside the contention list)
+- **Output**: [[reviews/pessimistic-2026-08-07-entropic-brain-hypothesis]]
+- **Method**: every external claim in the criticality paragraph traced to primary text. Four papers retrieved via PubMed / EuropePMC / publisher; nothing asserted from memory.
+- **Finding 1 — the concession ran the wrong way (High).** L48 reports "In 2025, work on DMT reported that shifts in criticality correlate with the *degree of self-dissolution*". The paper — Irrmischer, Aqil, Luan, Wang, Engelbregt, Carhart-Harris, Linkenkaer-Hansen and Timmermann, *J. Neurosci.* 46(2):e0344252025 — actually finds DMT shifts dynamics **away** from criticality, "toward subcritical regimes", with "entropy increased while complexity is reduced". The paragraph builds conscious-equals-near-critical and then files a counter-example as a friendly refinement. **The omission runs against the Map**: entropy rising while criticality and complexity fall decouples the two quantities EBH's 2018 revision fused, which is exactly the wedge *Where the Measure Is Contested* argues for from Papo's conceptual critique alone.
+- **Finding 2 — one paragraph, four papers, one citation (High).** Toker et al. 2022 *PNAS* 119(7):e2024455119 retrieved in full: its record contains no thalamic content, no ketamine, no avalanches. The cortico-thalamic claim is **Toker et al. (2024), *eLife* 13:e86547**; the propofol/ketamine dissociation is **Varley, Sporns, Puce & Beggs (2020), *PLoS Comput. Biol.***. Neither is in the reference list. Not a research failure — `research/entropic-brain-hypothesis-2026-06-22` lists all four separately at L92-95; the article inherited the note's heading and dropped its enumeration.
+- **Finding 3 — a string sibling of a fix already recorded.** `reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics` L117 already ruled "Do **not** restate Toker et al. 2022 in sub/supercritical avalanche language." Applied by file to `amplification-mechanisms`; this article still runs avalanche language one clause after the Toker cite.
+- **Finding 4 — "Independent work" is not independent.** Carhart-Harris, first-named author of refs 1-3, is the 7th of 13 authors on Toker et al. 2022 (verified at PMID 35145021) and 6th author on the DMT paper. The Map enforces exactly this standard against the other side at `topics/psychedelics-and-the-filter-model` L119; applying it asymmetrically is the defect. Dropping "Independent" strengthens the Map's position.
+- **Finding 5 — a concession that never reaches the claim.** L42 says the data "report the reverse" of the production model's prediction; L70 says the readings are "empirically equivalent ... not a discriminating prediction". Both cannot hold, and the article L42 points at develops the *retraction* (its L55 and L117), not the reversal.
+- **Verified clean, recorded so a later pass does not repeat it**: Safron ALBUS 2025(1) niae038 exact; Papo 2016 metadata correct and the "random side of complexity" phrase attested — **do not de-quote**; Toker 2022 metadata exact; **altered-state symmetry audit PASSES** (supportive gate opens, disruptive cluster genuinely engaged, symmetry acknowledged in empirical-equivalence form at L34 and L70 — a real strength); no reasoning-mode label leakage; no positions or P-xx cites.
+- **Task minted**: one P2 `refine-draft` on the reviewed article, appended at the end of Active Tasks (parse-verified: REFINE_DRAFT, `obsidian/concepts/entropic-brain-hypothesis.md`, P0-P2 count 4 → 5). Notes carry all four verified citations, the Varley single-macaque and persistent-criticality caveats, the research-note fix, and the 960-word length headroom.
+- **Recorded but not minted (outside contract)**: `topics/psychedelics-and-the-filter-model` L3 `description:` still reads "reversing the prediction of production models", which the same article's body retracts at L117 — four refine passes fixed the body and never touched the blurb.
 
 ## 2026-08-07 15:10 UTC - refine-draft (`apex/phenomenology-mechanism-bridge` — bandwidth misattribution sweep: ~10 bits/s is Zheng & Meister 2025, not Nørretranders 1998. 11 obsidian files read, 5 edited, 6 confirmed already correct)
 
