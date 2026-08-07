@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-08-06 17:13:00+00:00
+ai_modified: 2026-08-07 01:18:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 12:40:51+00:00
-lastmod: 2026-08-06 17:13:00+00:00
+lastmod: 2026-08-07 01:18:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ Russell insists on two conditions. First, a *collapse* interpretation of quantum
 
 ## Plantinga's Divine Collapse-Causation
 
-Alvin Plantinga makes the same structural move from the analytic-philosophy side. In *Where the Conflict Really Lies* (2011) he proposes **divine collapse-causation**: when a quantum measurement collapses the wave function to a definite result, it is God who causes that particular outcome. Because collapse is not fixed by prior physical law, God supplies the determination "without in any way abrogating the laws of physics." Plantinga finds the view attractive partly because it dovetails with libertarian free will.
+Alvin Plantinga makes the same structural move from the analytic-philosophy side. In *Where the Conflict Really Lies* (2011) he proposes **divine collapse-causation**: when a quantum measurement collapses the wave function to a definite result, it is God who causes that particular outcome. Because collapse is not fixed by prior physical law, God supplies the determination — in the phrasing of his companion 2008 essay — "without in any way 'violating' the created natures of the things he has created": it is in a physical system's nature to collapse, Plantinga argues, but not to collapse to any particular eigenstate. He finds the view attractive partly because it dovetails with libertarian free will.
 
 Plantinga's version tends toward God causing *all* collapses—constant engagement everywhere—which sharpens the omni-determining worry the ledger below isolates. In a companion methodological essay, "What is 'Intervention'?" (2008), he argues that on contemporary quantum mechanics there is no principled way even to *define* intervention, so the alleged conflict between science and special divine action cannot be stated in the first place.
 
@@ -105,7 +105,7 @@ On [Tenet 1 (Dualism)](/tenets/#dualism), the two views agree that mind and agen
 ## References
 
 1. Plantinga, Alvin. *Where the Conflict Really Lies: Science, Religion, and Naturalism*. Oxford University Press, 2011.
-2. Plantinga, Alvin. "What is 'Intervention'?" *Theology and Science* 6, no. 4 (2008): 369–401. DOI: 10.1080/14746700802396106.
+2. Plantinga, Alvin. "What is 'Intervention'?" *Theology and Science* 6, no. 4 (2008): 369–401. DOI: 10.1080/14746700802396106. (Carries the divine collapse-causation passage quoted above, verbatim at p. 393; the same sentence recurs in *Where the Conflict Really Lies*.)
 3. Russell, Robert John. *Cosmology: From Alpha to Omega: The Creative Mutual Interaction of Theology and Science*. Fortress Press, 2008. (Book-length statement of NIODA; source of the nonphysical "hidden variable" formulation at p. 157.)
 4. Russell, Robert J., Philip Clayton, Kirk Wegter-McNelly, and John Polkinghorne, eds. *Quantum Mechanics: Scientific Perspectives on Divine Action*. Vatican Observatory & Center for Theology and the Natural Sciences, 2001. ISBN 9780268039783. (Contains Ellis's essay on quantum theory and the macroscopic world.)
 5. Murphy, Nancey. "Divine Action in the Natural Order: Buridan's Ass and Schrödinger's Cat"; and Tracy, Thomas F. "Particular Providence and the God of the Gaps." In *Chaos and Complexity: Scientific Perspectives on Divine Action*, ed. Robert J. Russell, Nancey Murphy, and Arthur R. Peacocke. Vatican Observatory & CTNS, 1995.

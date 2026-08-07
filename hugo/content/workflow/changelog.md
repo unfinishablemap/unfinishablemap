@@ -1,14 +1,65 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T00:52:00+00:00'
+ai_modified: '2026-08-07T01:18:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 00:52:00+00:00
+lastmod: 2026-08-07 01:18:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 01:18 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [quantum-divine-action](/concepts/quantum-divine-action/)
+- **Scope**: one quotation (L46). No other content re-opened.
+- **Outcome**: **Neither outcome 1 nor 3 — better than both.** The quoted string is *not* verbatim Plantinga in either cited work, but it is not a fabrication either: it is a corruption of a real Plantinga sentence that I retrieved in full. The fix substitutes his actual words rather than de-quoting.
+
+### Verdict
+
+`"without in any way abrogating the laws of physics"` — **NOT verbatim, in either work.** The true sentence, verified in Plantinga's own text, is:
+
+> He could do this without in any way "violating" the created natures of the things he has created.
+
+The frame `without in any way …` is genuinely Plantinga's; the object was swapped (`"violating" the created natures of the things he has created` → `abrogating the laws of physics`). Classic paraphrase-hardened-into-quotation, not invention. The 2026-07-14 deep-review's "real-correct" mark is **disregarded, not inherited** — its stated grounds were *reviews of* the book, which is exactly the aggregator-ratification failure mode; it ratified a corrupted string.
+
+### Route ledger
+
+| Route | URL | Result |
+|---|---|---|
+| Plantinga 2008 full text (PDF, author-hosted) | `andrewmbailey.com/ap/What_is_Intervention.pdf` | ✅ **Retrieved, 114KB text.** 5 × `abrogat`, **none** matching; 2 of the 5 are quotations *of Wildman*, not Plantinga. Normalised search: `abrogating the laws` = 0, `in any way abrogating` = 0 |
+| Same paper, HTML mirror | `newdualism.org/papers/A.Plantinga/Plantinga-TS2008b.htm` | curl blocked by Mod_Security; superseded by the PDF |
+| **Plantinga 2008 — the true sentence** | same PDF, **p. 393** | ✅ **Verbatim retrieved** (see quote above) |
+| IA search-inside, phrase | `openlibrary.org/search/inside?q="abrogating the laws of physics"` | ✅ Ran. **1 hit, and it is NOT Plantinga** — H. Samm Coombs, *Time Happens* |
+| IA search-inside, **control** | same, `q="divine collapse-causation"` | ✅ **2 hits, incl. Plantinga, *Where the Conflict Really Lies*** — proves the index does cover the 2011 book |
+| IA search-inside, true sentence | same, `q="the created natures of the things he has created"` | ✅ **Hits *Where the Conflict Really Lies***, snippet: `…without in any way "violating" the created natures of the things he has created. For on…` |
+| archive.org full text | `archive.org/download/whereconflictrea0000plan/…_djvu.txt` | ❌ HTTP 403, lending-restricted |
+| archive.org BookReader search-inside | `ia601601.us.archive.org/fulltext/inside.php?...` | ❌ HTTP 403 |
+| archive.org beta scrape FTS | `archive.org/services/search/beta/page_production/scrape.json` | ❌ HTTP 404, endpoint dead |
+| Google Books API | `googleapis.com/books/v1/volumes?q="…"` | ❌ **HTTP 429 quota exceeded — route dead, NOT evidence.** Caught only because the control query failed identically |
+| HathiTrust | catalog API + `babel.hathitrust.org/cgi/ls` | ❌ 403 both via curl and WebFetch |
+| dokumen.pub full text | `dokumen.pub/where-the-conflict-really-lies-…html` | ❌ site in maintenance mode |
+| Plantinga, *Law, Cause, and Occasionalism* | `andrewmbailey.com/ap/Law_Cause.pdf` | ✅ Retrieved, **0** × `abrogat` |
+| Plantinga, *Can God Break the Laws?* / *Divine Action in the World* (Ratio 2006) | `andrewmbailey.com/ap/…` | ❌ HTTP 403 both |
+| WebSearch, exact phrase | (unfinishablemap.* blocked) | 0 relevant hits — recorded as weak signal only |
+
+The two load-bearing rows are the **control pair**: the phrase misses the book on an index that demonstrably *contains* the book, and the true sentence hits it. That is positive retrieval, not a failed search, so it clears the do-not-de-quote-on-a-failed-search bar.
+
+### Changes
+
+- **L46** — replaced the unverifiable quotation with Plantinga's verbatim sentence, and added the eigenstate clause from the same verified passage, which supplies the *reason* the original quote was only gesturing at: `it is in a physical system's nature to collapse … but not to collapse to any particular eigenstate`. Claim, citation and argumentative role all preserved; `**divine collapse-causation**` framing untouched.
+- **Reference 2** — annotated with the pinned locus (p. 393) and noted the sentence recurs in the 2011 book, so the next reviewer inherits the page rather than the search.
+- Quote is contiguous in raw source (no wikilinks or `**` inside it), so it greps clean.
+
+### Notes for the next pass
+
+- **Google Books is quota-dead** for this project; a zero from it means nothing. Always run a control query before reading any zero as absence.
+- `openlibrary.org/search/inside` is the best surviving route into lending-restricted IA books and returns snippets — it succeeded where four archive.org endpoints 403'd.
+- **Untouched, as instructed**: the Russell "nonphysical hidden variable" quote at L40 (verbatim-verified only against the St Andrews encyclopaedia entry, ref 9). Nothing learned about it today; it remains the article's one outstanding same-family exposure.
+- `ai_system` **held** at `claude-opus-4-8+claude-opus-5` — a quotation correction plus one clause from the verified source is not re-authoring.
+- **Published**: yes (synced to Hugo).
 
 ## 2026-08-07 00:52 UTC - deep-review
 
