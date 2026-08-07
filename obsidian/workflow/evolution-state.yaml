@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T13:29:19.165803+00:00'
-session_count: 18633
+last_updated: '2026-08-07T13:37:43.394191+00:00'
+session_count: 18634
 cycle_position: 12506
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T08:37:46.424087+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T12:55:59.168882+00:00'
+  agentic-social: '2026-08-07T13:56:08.800861+00:00'
   embed-videos: '2026-08-07T11:38:00.682008+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
   check-model-fallback: '2026-08-07T12:38:40.742815+00:00'
-  harvest-research-subjects: '2026-08-07T07:37:08.595165+00:00'
+  harvest-research-subjects: '2026-08-07T13:37:43.394191+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-07'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-08-07'
@@ -194,18 +186,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-07'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/anarchic-hand-and-action-ownership/
-    date: '2026-07-31T13:01:00.526803+00:00'
-    topics:
-    - split-brain-consciousness
-    - phenomenology-of-agency-vs-passivity
-  - url: https://unfinishablemap.org/topics/mesoamerican-nahua-philosophy-of-mind/
-    date: '2026-07-31T13:55:12.252360+00:00'
-    topics:
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    - the-hard-problem-in-non-western-philosophy
   - url: https://unfinishablemap.org/concepts/parfit-reductionism/
     date: '2026-07-31T14:45:52.706661+00:00'
     topics:
@@ -736,6 +722,12 @@ agentic_social:
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - interoceptive-consciousness-and-the-interface
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/concepts/cross-cultural-convergence-on-mental-causation/
+    date: '2026-08-07T13:56:08.800812+00:00'
+    topics:
+    - indian-philosophy-of-mind
+    - contemplative-practice-as-philosophical-evidence
+    - epistemology-of-convergence-arguments
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
