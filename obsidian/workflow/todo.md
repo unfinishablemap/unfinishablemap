@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (check-model-fallback dedup) 2026-08-07: the `[SKIP]` dedup is session-id-only and status-blind, so a long-lived session is permanently immune to re-detection after its first hit
+
+**This is a TOOLING FLAG, not an attribution task — do not treat it as the `refine-draft` the script normally mints. The attribution surface is verifiably CLEAN right now (evidence below); the defect is that the next genuine fallback in this session would be silently suppressed.**
+
+`scripts/check_model_fallback.py --queue-task` at 2026-08-07T16:55 UTC reported:
+
+```
+[FALLBACK-SUSPECTED] 2995cfa7-…-2752.jsonl: dominant=claude-opus-5, foreign=2148x claude-opus-5,
+    window=2026-08-05T18:09:27+00:00..2026-08-07T16:52:40+00:00
+[SKIP] todo.md already references 2995cfa7-…-2752
+```
+
+**The task it deduped against is CLOSED and covers 3 hours of a 46-hour window.** That entry (`### ✓ 2026-08-05: Verify ai_system attribution after model-fallback event`) records `158x` messages over `18:09:27..21:07:25` on 08-05. The live detection now spans `18:09:27 08-05 .. 16:52:40 08-07` — `2148x` messages. So the dedup matched on session id while ignoring (a) that the task is already completed and (b) that the window has since grown ~15x. Everything the loop wrote from 08-05T21:07 onward is outside what that closed task examined.
+
+**Why no attribution task is warranted anyway — measured, not assumed.** Of the **138** articles with `ai_modified` inside the uncovered stretch (`obsidian/` + `archive/`, excluding `workflow/` and `reviews/`), exactly **one** claims a fable model: `concepts/kripke-a-posteriori-necessity-argument.md` at `claude-opus-4-8+claude-fable-5+claude-opus-5` — and that already carries `+claude-opus-5` in the joint form, so the opus contribution is recorded. The other 137 attribute to opus variants, with `claude-opus-5` appended where this session's forks contributed. The forks have been self-attributing correctly.
+
+**Note also that `dominant == foreign` here is correct output, not a display bug** (session-level stick shape). But in this instance the cause is probably not a safety fallback at all: `/model` at session start reported *"saved as your default for **new sessions**"*, and this session's own system prompt names Opus 5. A deliberate model switch is the `[MIXED-MODELS]` case the script treats as informational — it only escalated to `[FALLBACK-SUSPECTED]` because a small fable head precedes the switch.
+
+**The decision for a human** (I did not act on any of these — `scripts/` is operator territory):
+1. Should the dedup skip only when a matching task is **open**, and re-queue when the detected window extends materially beyond the one already recorded?
+2. Should a session whose fable messages all precede a `/model` switch be classified `[MIXED-MODELS]` rather than `[FALLBACK-SUSPECTED]`?
+
+**Risk if left:** this session has been alive 46h and is still running. Any genuine fable→opus fallback in its remaining life will hit the same `[SKIP]` and never be recorded.
+
 ### NEEDS-HUMAN (agentic-social topic dedup) 2026-08-06: the topic-dedup filter is saturated — 0 of 776 articles survive it, so the selector's anti-duplication guarantee is inoperative
 
 - **Type**: refine-draft
