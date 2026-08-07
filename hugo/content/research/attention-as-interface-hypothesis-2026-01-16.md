@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 22:00:00+00:00
+ai_modified: 2026-08-07 05:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-16 22:00:00+00:00
+lastmod: 2026-08-07 05:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,12 +157,12 @@ If attention is the interface, where in the brain does interface occur? Research
 
 Neuroimaging research provides spectral signatures distinguishing attention and consciousness:
 
-| Process | Frequency Band | Source |
-|---------|---------------|--------|
-| Consciousness | Low gamma (55-65 Hz) | MEG studies |
-| Attention | High gamma (75-90 Hz) | MEG studies |
+| Process | Frequency Band | Source | Paradigm the figure comes from |
+|---------|---------------|--------|-------------------------------|
+| Visual awareness | Mid-frequency gamma (54–64 Hz) | Wyart & Tallon-Baudry 2008 | MEG; faint near-threshold gratings; contralateral visual cortex, 240–500 ms post-stimulus |
+| Spatial attention | High-frequency gamma (76–90 Hz) | Wyart & Tallon-Baudry 2008 | MEG; same experiment; modulation present whether or not the stimulus was consciously seen |
 
-This double dissociation at the frequency level supports the hypothesis that attention and consciousness are separate processes with distinct neural substrates—exactly what the interface hypothesis requires.
+The dissociation traces to one experiment, not to a body of "MEG studies": Wyart, V. & Tallon-Baudry, C. (2008), "Neural dissociation between visual awareness and spatial attention," *The Journal of Neuroscience* 28(10), 2667-2679, https://doi.org/10.1523/JNEUROSCI.4748-07.2008. Within that paradigm awareness and spatial attention modulated distinct gamma bands independently, which is the pattern the interface hypothesis requires. The result does not establish general operating frequencies for consciousness and attention, and it has not been replicated across modalities — any article drawing on this note should carry the paradigm scoping with the numbers.
 
 ## Research Questions: Converting to Empirical Program
 

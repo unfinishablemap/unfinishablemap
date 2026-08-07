@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-03 10:10:28+00:00
+ai_modified: 2026-08-07 05:42:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-08-03 10:10:28+00:00
+lastmod: 2026-08-07 05:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ You're at a noisy party. You decide to focus on your conversation partner's word
 
 The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadra & Mangun 2023) identifies three neural signatures unique to willed attention:
 
-**Frontal theta oscillations**: frontal theta power (~4-8 Hz) increases approximately 500ms after the moment of free choice—absent when the same attentional shift is externally instructed. Theta oscillations in this context index genuine decision-making: the brain doing something during willed attention that instruction-following bypasses.
+**Frontal theta oscillations**: frontal theta power (3–7 Hz) increases approximately 500ms after the moment of free choice—absent when the same attentional shift is externally instructed. Theta oscillations in this context index genuine decision-making: the brain doing something during willed attention that instruction-following bypasses.
 
 **Bidirectional frontoparietal coherence**: during instructed attention, information flows predominantly from frontal decision regions to parietal attention-control regions, a unidirectional command structure. During willed attention, Granger causality analysis reveals *bidirectional* theta-band coherence between the same regions. If consciousness merely triggered attention mechanisms, we would expect the one-way pattern: decision → implementation. The bidirectional flow suggests that willed attention is an ongoing dialogue between decision systems and attention-execution systems rather than a single command issued and abandoned.
 
@@ -164,13 +164,15 @@ When you *choose* to redirect attention from an absorbing task, the salience net
 
 Neuroimaging research reveals distinct frequency signatures across the processes involved:
 
-| Process | Frequency Band | Source |
-|---------|---------------|--------|
-| Consciousness (content) | Low gamma (55-65 Hz) | Koch & Tsuchiya 2007 |
-| Attention (control) | High gamma (75-90 Hz) | Koch & Tsuchiya 2007 |
-| Willed decision | Theta (4-8 Hz) | Rajan et al. 2019 |
+| Process | Frequency Band | Source | Paradigm the figure comes from |
+|---------|---------------|--------|-------------------------------|
+| Visual awareness | Mid-frequency gamma (54–64 Hz) | Wyart & Tallon-Baudry 2008 | MEG; faint near-threshold gratings; contralateral visual cortex, 240–500 ms post-stimulus |
+| Spatial attention | High-frequency gamma (76–90 Hz) | Wyart & Tallon-Baudry 2008 | MEG; same experiment; modulation present whether or not the stimulus was consciously seen |
+| Willed decision | Frontal theta (3–7 Hz) | Rajan et al. 2019 | EEG; choice cues contrasted against instructional cues; frontal theta rising ~500 ms post-cue |
 
-The spectral dissociation between consciousness and attention supports their separability—a foundation of the [interface hypothesis](/concepts/attention-as-interface/) and a key finding in [NCC research](/concepts/neural-correlates-of-consciousness/). Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
+Within Wyart and Tallon-Baudry's experiment awareness and spatial attention modulated separate bands independently, which is consistent with the separability the [interface hypothesis](/concepts/attention-as-interface/) requires. The scope of that result is narrow and worth stating plainly: these are bands recovered from a single MEG paradigm using faint visual stimuli, over one cortical region, in one post-stimulus window. They are not established operating frequencies of consciousness and attention in general, and whether the separation survives in other modalities has not been tested. Read at its actual scope, the finding contributes one strand to [NCC research](/concepts/neural-correlates-of-consciousness/) rather than settling the separability question.
+
+The theta signature of willed decision comes from a different paradigm again—an EEG contrast of choice against instructional cues—so the three rows point in a common direction without constituting a single unified spectral map. Counting them as three independent confirmations would overstate what the table shows; the act of *choosing* what to attend to having its own spectral marker is a separate result that happens to sit alongside the gamma dissociation, not a third measurement of the same effect.
 
 ## The Stochastic Challenge
 
@@ -277,3 +279,4 @@ Attention divides into three architecturally distinct modes—exogenous, instruc
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R. Jr., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Wyart, V. & Tallon-Baudry, C. (2008). Neural dissociation between visual awareness and spatial attention. *The Journal of Neuroscience*, 28(10), 2667-2679. https://doi.org/10.1523/JNEUROSCI.4748-07.2008

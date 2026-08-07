@@ -3,7 +3,7 @@ title: "Voluntary Attention Control"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-23T00:10:21+00:00
+ai_modified: 2026-08-07T05:42:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -50,9 +50,9 @@ This temporal asymmetry matters for understanding consciousness-brain interactio
 
 Recent neuroscience distinguishes "willed attention" from merely "top-down" or "endogenous" attention. Top-down attention can be triggered by external instructions—a cue telling you where to look. Willed attention involves purely internal decision processes: choosing to attend without external prompting.
 
-A 2019 study in *Cerebral Cortex* identified three distinctive neural signatures of willed versus instructed attention:
+Rajan et al. (2019), in *Cerebral Cortex*, identified three distinctive neural signatures of willed versus instructed attention across two EEG experiments run at different sites:
 
-1. **Frontal theta oscillations**: Increased theta power (~4-8 Hz) in frontal cortex approximately 500ms after the decision point, specifically during willed choices
+1. **Frontal theta oscillations**: Increased theta power (3–7 Hz) in frontal cortex starting approximately 500ms after the cue, specifically during willed choices
 2. **Frontal-parietal coherence**: Enhanced theta-band coherence between frontal executive regions and parietal attention control regions
 3. **Bidirectional Granger causality**: Information flows both ways between frontal and parietal systems during willed attention—not just top-down commands but reciprocal communication
 
@@ -207,9 +207,11 @@ Yet the gap is instructive: the phenomenology of effort provides evidence for ca
 
 ## References
 
-Frontiers in Cognition (2023). Willed attention and its relationship to attention and inhibition: A conceptual analysis based on empirical evidence. *Frontiers in Cognition*, 2. [https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1205618/full](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1205618/full)
+Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. [https://doi.org/10.1093/cercor/bhy149](https://doi.org/10.1093/cercor/bhy149) — the source of the three willed-attention signatures described above.
 
-van Diepen, R. M., Cohen, M. X., Denys, D., & Mazaheri, A. (2019). Attention and temporal expectations modulate power and interactions between neuronal oscillations. *Cerebral Cortex*, 29(12), 5094-5103. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6611462/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6611462/)
+Nadra, J. G., & Mangun, G. R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618. [https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1205618/full](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1205618/full)
+
+van Diepen, R. M., Cohen, M. X., Denys, D., & Mazaheri, A. (2019). Attention and temporal expectations modulate power and interactions between neuronal oscillations. *Cerebral Cortex*, 29(12), 5094-5103. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6611462/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6611462/) — background on attention-related oscillatory coupling; not the willed-attention study.
 
 Frontiers in Neuroscience (2019). Neural correlates of attentional control. [https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01169/full](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.01169/full)
 

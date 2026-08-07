@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-07-31 01:50:11+00:00
+ai_modified: 2026-08-07 05:42:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-07-31 01:50:11+00:00
+lastmod: 2026-08-07 05:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The foundation is a dissociation. [Attention and consciousness come apart](/topi
 
 Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) found that neither Global Workspace Theory nor Integrated Information Theory was clearly vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
 
-The Map's interpretation: consciousness and attention are ontologically distinct. Consciousness is the non-physical subject; attention is the physical mechanism through which that subject engages with neural processes. Frequency analysis supports the separability: conscious content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz). They can come apart because they are different things that normally work together—like a pianist and a piano.
+The Map's interpretation: consciousness and attention are ontologically distinct. Consciousness is the non-physical subject; attention is the physical mechanism through which that subject engages with neural processes. One spectral finding is consistent with the separability. Wyart and Tallon-Baudry (2008) recorded magnetoencephalographic signals while subjects viewed faint gratings at attended and unattended locations, and found awareness and spatial attention modulating distinct bands within the gamma range: consciously seen stimuli drove mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was seen. The result is paradigm-specific—near-threshold visual stimuli, one cortical region, one time window—and establishes a dissociation inside that paradigm rather than fixed operating frequencies for consciousness and attention; whether it generalises across modalities remains open. They can come apart because they are different things that normally work together—like a pianist and a piano.
 
 ## The Three Modes
 
@@ -70,7 +70,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 **Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network. Consciousness follows a rule already established.
 
-**Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
+**Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
 
 The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [Rizzolatti's premotor theory of attention](/topics/attention-and-the-consciousness-interface/) demonstrates that attending and preparing to act share neural substrates—Fine and Hayden (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
 
@@ -162,7 +162,7 @@ The bandwidth constraint is not a design flaw to be overcome but a constitutive 
 
 The attention cluster forms the Map's most detailed answer to the interaction problem. Five interlocking components build the case:
 
-The dissociation between attention and consciousness—supported by blindsight, peripheral phenomenal overflow, and frequency-band separation—establishes that they are functionally and potentially ontologically distinct. The three-mode architecture pinpoints willed attention as consciousness's contribution, marked by neural signatures absent from automatic processing. The phenomenology of effort, corroborated by Sjöberg's neurosurgical evidence that the sense of willing survives motor area resection, indicates consciousness does genuine causal work—while the felt-effort/operation dissociations *constrain* the dualist reading without *establishing* it on their own, with cumulative convergence across the broader phenomenal-output / causal-machinery cluster carrying the evidential weight. The three-layer architecture—neural competition, dopamine threshold modulation, conscious selection—specifies how the interface is organised. And the bandwidth and habituation constraints define the boundaries within which conscious influence operates.
+The dissociation between attention and consciousness—supported by blindsight, peripheral phenomenal overflow, and a paradigm-specific frequency-band separation—establishes that they are functionally and potentially ontologically distinct. The three-mode architecture pinpoints willed attention as consciousness's contribution, marked by neural signatures absent from automatic processing. The phenomenology of effort, corroborated by Sjöberg's neurosurgical evidence that the sense of willing survives motor area resection, indicates consciousness does genuine causal work—while the felt-effort/operation dissociations *constrain* the dualist reading without *establishing* it on their own, with cumulative convergence across the broader phenomenal-output / causal-machinery cluster carrying the evidential weight. The three-layer architecture—neural competition, dopamine threshold modulation, conscious selection—specifies how the interface is organised. And the bandwidth and habituation constraints define the boundaries within which conscious influence operates.
 
 A candid limitation: the interface hypothesis specifies *where* and *how* consciousness acts but does not explain *why* phenomenal attention exists or how subjective experience connects to physical processes. The [hard problem](/topics/hard-problem-of-consciousness/) is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This narrowing may prove productive—constraining where the explanatory gap sits is progress even if the gap remains—but it should not be mistaken for a solution.
 
@@ -193,12 +193,14 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. https://doi.org/10.1093/cercor/bhy149
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2269.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Wyart, V. & Tallon-Baudry, C. (2008). Neural dissociation between visual awareness and spatial attention. *The Journal of Neuroscience*, 28(10), 2667-2679. https://doi.org/10.1523/JNEUROSCI.4748-07.2008
 1. Fine, J.M. & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/

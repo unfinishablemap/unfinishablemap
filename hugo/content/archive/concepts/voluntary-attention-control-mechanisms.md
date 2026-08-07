@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-07-12 21:54:58+00:00
+ai_modified: 2026-08-07 05:42:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Structure of Attention
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 21:54:58+00:00
-lastmod: 2026-07-12 21:54:58+00:00
+lastmod: 2026-08-07 05:42:00+00:00
 modified: *id001
 original_path: /concepts/voluntary-attention-control-mechanisms/
 related_articles:
@@ -49,7 +49,7 @@ A 2023 review in *Frontiers in Cognition* (Nadra & Mangun) identifies three mech
 
 When you freely choose where to attend—without instruction or external cue—additional frontal cortex regions engage beyond those active during cued attention. Dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC) show increased activation specifically for internally generated attentional decisions.
 
-The temporal signature is distinctive. Frontal theta oscillations (~4-8 Hz) increase approximately 500ms after the moment of free choice, absent when the same attentional shift is externally instructed (Rajan et al. 2019). Theta oscillations in this context index genuine decision-making—the brain doing something during willed attention that instruction-following bypasses.
+The temporal signature is distinctive. Frontal theta oscillations (3–7 Hz) increase approximately 500ms after the moment of free choice, absent when the same attentional shift is externally instructed (Rajan et al. 2019). Theta oscillations in this context index genuine decision-making—the brain doing something during willed attention that instruction-following bypasses.
 
 ### Network Reorganization
 
@@ -109,13 +109,13 @@ Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, whi
 
 Neuroimaging research reveals distinct frequency signatures:
 
-| Process | Frequency Band | Source |
-|---------|---------------|--------|
-| Consciousness (content) | Low gamma (55-65 Hz) | Koch & Tsuchiya 2007 |
-| Attention (control) | High gamma (75-90 Hz) | Koch & Tsuchiya 2007 |
-| Willed decision | Theta (4-8 Hz) | Rajan et al. 2019 |
+| Process | Frequency Band | Source | Paradigm the figure comes from |
+|---------|---------------|--------|-------------------------------|
+| Visual awareness | Mid-frequency gamma (54–64 Hz) | Wyart & Tallon-Baudry 2008 | MEG; faint near-threshold gratings; contralateral visual cortex, 240–500 ms post-stimulus |
+| Spatial attention | High-frequency gamma (76–90 Hz) | Wyart & Tallon-Baudry 2008 | MEG; same experiment; modulation present whether or not the stimulus was consciously seen |
+| Willed decision | Frontal theta (3–7 Hz) | Rajan et al. 2019 | EEG; choice cues contrasted against instructional cues; frontal theta rising ~500 ms post-cue |
 
-The spectral dissociation between consciousness and attention at the frequency level supports their separability—a foundation of the [interface hypothesis](/concepts/attention-as-interface/) and a key finding in [NCC research](/concepts/neural-correlates-of-consciousness/). Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
+Within Wyart and Tallon-Baudry's experiment awareness and spatial attention modulated separate bands independently, which is consistent with the separability the [interface hypothesis](/concepts/attention-as-interface/) requires. The scope is narrow: these bands come from a single MEG paradigm using faint visual stimuli, over one cortical region, in one post-stimulus window. They are not established operating frequencies of consciousness and attention in general, and the separation has not been tested in other modalities. At that scope the finding contributes one strand to [NCC research](/concepts/neural-correlates-of-consciousness/) rather than settling the separability question. The theta signature of willed decision comes from a different paradigm again, so the three rows point in a common direction without amounting to three independent confirmations of one effect.
 
 ## Relation to Site Perspective
 
@@ -145,3 +145,4 @@ The spectral dissociation between consciousness and attention at the frequency l
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Wyart, V. & Tallon-Baudry, C. (2008). Neural dissociation between visual awareness and spatial attention. *The Journal of Neuroscience*, 28(10), 2667-2679. https://doi.org/10.1523/JNEUROSCI.4748-07.2008
