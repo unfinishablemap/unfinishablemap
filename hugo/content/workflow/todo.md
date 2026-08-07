@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Experimental philosophy of aesthetic judgment
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-07-aesthetics-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. The review named the narrow entry point (empirical work on aesthetic deference); the driver verified a WIDER gap. grep across topics/ and concepts/ for experimental philosophy, x-phi, empirical aesthetics, neuroaesthetics returns ZERO articles, and no research note covers any of them. The entry point is sharp: topics/aesthetic-testimony-and-the-acquaintance-principle L63 rests Meskin pragmatic deflation on a COMPARATIVE EMPIRICAL claim - that aesthetic testifiers are differentially more insincere and incompetent than mundane testifiers - which the article itself flags as hard to verify. A testable claim the Map own article identifies as untested. NOT a duplicate of the testimony article, which is entirely armchair. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/experimental-philosophy-of-aesthetic-judgment-2026-08-07.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'experimental-philosophy-of-aesthetic-judgment' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-07
-
 ### P2: the aesthetic **creation** argument is the one line the Map says survives both a closed gap and a successful holistic reduction — and neither dualism-arguments nor mental-causation register records it
 - **Type**: positions-evolve
 - **Status**: pending
@@ -2493,6 +2487,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-07: Research Experimental philosophy of aesthetic judgment
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-07-aesthetics-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. The review named the narrow entry point (empirical work on aesthetic deference); the driver verified a WIDER gap. grep across topics/ and concepts/ for experimental philosophy, x-phi, empirical aesthetics, neuroaesthetics returns ZERO articles, and no research note covers any of them. The entry point is sharp: topics/aesthetic-testimony-and-the-acquaintance-principle L63 rests Meskin pragmatic deflation on a COMPARATIVE EMPIRICAL claim - that aesthetic testifiers are differentially more insincere and incompetent than mundane testifiers - which the article itself flags as hard to verify. A testable claim the Map own article identifies as untested. NOT a duplicate of the testimony article, which is entirely armchair. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/experimental-philosophy-of-aesthetic-judgment-2026-08-07.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'experimental-philosophy-of-aesthetic-judgment' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-08-07: Research Machine aesthetic judgment and generative-music systems
 - **Type**: research-topic
