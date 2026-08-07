@@ -335,3 +335,41 @@
   subject_articles:
   - apex/attention-as-causal-bridge.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/17fb0e20b99ca0d8
+  commissioned_at: '2026-08-07T04:19:41.221330+00:00'
+  prompt_summary: Audit attention-as-causal-bridge
+  target_filename: outer-review-2026-08-07-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    and makes claims about attention, neural gain and volition; the site argues for
+    a non-reductive view of consciousness. It was last revised on 2026-07-31, and
+    external search indexes lag this site by 24 to 48 hours, so consult https://unfinishablemap.org/workflow/changelog/
+    and https://unfinishablemap.org before judging currency. Do not describe the site's
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article's empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit whether its empirical claims about attention, neural
+    gain and volition match what the cited studies actually found; whether cited results
+    have been challenged, retracted, or failed to replicate; which strong counterarguments
+    (physicalist, predictive-processing, epiphenomenalist, illusionist) it leaves
+    untested; and where it treats a disputed framing as settled or brackets a problem
+    to protect a prior commitment. End your report with at least five specific weaknesses,
+    each citing at least one peer-reviewed source from 2020 to 2025 that the article
+    omits, contradicts, or mishandles. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site's strengths, methodology, or architectural ambition. The report ends with
+    the weaknesses list and a one-sentence verdict on whether the article is ready
+    for academic submission. Do not append summary praise.
+  subject_type: recent
+  subject_title: Audit attention-as-causal-bridge
+  subject_articles:
+  - apex/attention-as-causal-bridge.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
