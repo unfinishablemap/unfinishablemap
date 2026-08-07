@@ -2,9 +2,9 @@
 title: "Arguments for Dualism Positions"
 description: "The Map's positions on what its own argument catalogue for dualism actually supports: premise-sharing rather than independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation."
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-08-07
 human_modified:
-ai_modified: 2026-08-03T08:44:28+00:00
+ai_modified: 2026-08-07T21:46:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -46,7 +46,7 @@ Calibration follows the [[methodology-and-calibration#^calibration-schema|multi-
 - **Calibration** ([[methodology-and-calibration#^calibration-schema|multi-axis]]): credence high · external-evidence grade B (the dependency is establishable by inspection of the published arguments, and the phenomenal concept strategy is the mainstream physicalist statement of exactly this shared premise) · structural centrality moderate · model maturity developed (worked cluster analysis, no formal independence metric) · empirical discriminability n/a (a claim about argument structure, not about the world) · framework-internal only: no
 - **Asserts**: The Map holds that its catalogue of arguments against physicalism converges on irreducibility from *shared* rather than independent premises, so their cumulative force is real but modest. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails — if phenomenal concepts do not track a genuine ontological category — they fail together rather than confirming one another. Arguments within a single cluster therefore contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters: phenomenal intuition, the explanatory gap, and at least the unity prong resist physical explanation by routes that do not reduce to one another. The defensible reading is "substantially stronger than any single argument," never "overwhelming." The Map holds this concession as a standing calibration on every article that cites the convergence, not as a retraction of the case.
 - **Depends on**: [[positions/methodology-and-calibration|P-M2]] (the common-cause null as a standing discount on convergence — this is its first-order dualism-argument instance); [[positions/methodology-and-calibration|P-M1]] (coherence cannot upgrade its own evidential tier); the per-cluster independence scoring in [[project/per-cluster-independence-scoring]]; the phenomenal concept strategy (Loar 1990, Papineau 2002, Balog 2012) as the physicalist statement of the shared premise
-- **Argued in**: [[topics/the-convergence-argument-for-dualism]], [[concepts/philosophical-zombies]], [[concepts/qualia]], [[concepts/dualism]]
+- **Argued in**: [[topics/the-convergence-argument-for-dualism]], [[concepts/philosophical-zombies]], [[concepts/qualia]], [[concepts/dualism]]; and instantiated independently in a domain this entry never scored by [[topics/aesthetics-and-consciousness]], whose own audit collapses five aesthetic lines onto the unity prong and the explanatory gap and finds one — aesthetic creation — separable but not independent, registered as [[positions/arguments-for-mental-causation|P-MC4]]
 - **Would shift if**: an independence-scoring instrument showed one or more clusters to be genuinely premise-disjoint from the conceivability route (which would raise the cumulative reading back toward multiplication); or the phenomenal concept strategy were shown to fail in all its variants, removing the mainstream account of *why* the arguments share a premise; or the third-personally-anchored prong of the unity argument were shown to collapse into report-dependence after all, which would tighten the discount further by removing the one genuinely cross-cluster contribution.
 - **Last reviewed**: 2026-07-28
 

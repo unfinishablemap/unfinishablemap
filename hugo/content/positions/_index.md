@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 08:45:53+00:00
+ai_modified: 2026-08-07 21:44:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-04
-date: &id001 2026-08-03
+date: &id001 2026-08-07
 description: The Map's explicit, maintained register of positions it currently holds
   — claims with status, confidence, dependencies, and conditions that would shift
   them.
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 08:45:53+00:00
+lastmod: 2026-08-07 21:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Consciousness scope](/positions/consciousness-scope/) — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
 - [AI consciousness scope](/positions/ai-consciousness-scope/) — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
 - [Arguments for dualism](/positions/arguments-for-dualism/) — what the anti-physicalist argument catalogue actually supports: premise-sharing rather than evidential independence, irreducibility-then-selection rather than three compounding routes, and cross-traditional near-independence rather than a third confirmation
-- [Arguments for mental causation](/positions/arguments-for-mental-causation/) — the same accounting for the anti-*epiphenomenalism* catalogue, and the register home of the selector P-D2 leans on: self-stultification burdens bare-correlation epiphenomenalism while the phenomenal-concept version relocates the dispute, the argument establishes an existential claim where Tenet 3 asserts a universal one, and the escape from the epiphenomenalist gravity well runs through denying causal completeness
+- [Arguments for mental causation](/positions/arguments-for-mental-causation/) — the same accounting for the anti-*epiphenomenalism* catalogue, and the register home of the selector P-D2 leans on: self-stultification burdens bare-correlation epiphenomenalism while the phenomenal-concept version relocates the dispute, the argument establishes an existential claim where Tenet 3 asserts a universal one, the escape from the epiphenomenalist gravity well runs through denying causal completeness, and aesthetic creation is the one aesthetic line that survives both a closed explanatory gap and a successful holistic reduction — separable from the gap family, though not independent of it
 - [Methodology and calibration](/positions/methodology-and-calibration/) — what the Map commits to *about its own evidence and conduct*: the tenet-register / evidence-register separation (a tenet removes a defeater but never upgrades the evidence), the common-cause null as a standing discount on convergence, the publisher-of-record citation and weight-class standard, the framework-stage / open-programme self-calibration, and the honest gap between disclosure and enforcement
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)

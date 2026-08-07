@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-02
-ai_modified: 2026-08-03 08:44:28+00:00
+ai_modified: 2026-08-07 21:44:00+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -9,15 +9,17 @@ concepts:
 - '[[ai-epiphenomenalism]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[evidential-status-discipline]]'
+- '[[direction-of-fit]]'
 created: 2026-08-02
-date: &id001 2026-08-02
+date: &id001 2026-08-07
 description: 'The Map''s positions on what its case against epiphenomenalism actually
   earns: a scope limit to bare-correlation versions, an existential claim where Tenet
-  3 asserts a universal one, and the completeness-denial that makes the escape available.'
+  3 asserts a universal one, the completeness-denial that makes the escape available,
+  and the one aesthetic line that survives a closed gap.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 08:44:28+00:00
+lastmod: 2026-08-07 21:44:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -30,6 +32,7 @@ topics:
 - '[[self-stultification-as-master-argument]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[evolutionary-case-for-mental-causation]]'
+- '[[aesthetics-and-consciousness]]'
 ---
 
 ## About this domain
@@ -40,7 +43,9 @@ It exists because the register had a hole where two entries lean hardest. [P-D2]
 
 The entries transcribe settled corpus wording, argued first in [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/), [epiphenomenalism](/concepts/epiphenomenalism/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) and [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), so a downstream piece can cite the scope limit by ID instead of restating it. As with the dualism-argument entries, the first two are self-limiting — each subtracts from a claim the Map would like to make, which is why their centrality bands sit low to moderate despite high credence.
 
-**The foundational-dependency test (applied 2026-08-03).** Under the register's rule — *a position counts as retireable only if removing it leaves every tenet with an intact rationale* (see [positions](/positions/)) — this domain does not come out uniformly, and the split runs *inside* an entry rather than between entries. **P-MC1 fails on its first conjunct.** [Tenet 3](/tenets/#bidirectional-interaction)'s stated rationale names self-stultification as one of its two supports, and the tenets page then re-bases the burden onto a comparative judgement — that the alternative leaves report-reliability hanging on a contested epistemological premise — which is that same argument's residue rather than an independent ground. Retire the claim that self-stultification decisively burdens bare-correlation epiphenomenalism, and Tenet 3 is left with the comparative-cognition evidence the tenets page itself says corroborates rather than establishes it. The entry's *second* conjunct, the phenomenal-concept scope limit, is freely retireable — and retiring it would strengthen the tenet's rationale rather than damage it, which is why the failure has to be recorded as asymmetric within one entry rather than as a verdict on the whole. **P-MC2 and P-MC3 pass.** P-MC2 is purely subtractive: retiring it would let the existential result read as the universal claim Tenet 3 asserts, inflating the rationale rather than removing it. P-MC3 restates Kim's exclusion argument, a mainstream external result, and its denial of causal completeness *is* Tenet 2 rather than a ground for it; its retirement cascades to [P-D2](/positions/arguments-for-dualism/), whose selection step borrows its exclusion criterion, and not to any tenet.
+P-MC4 extends the same accounting to the *aesthetic* case for mental causation, which the corpus audits at [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) without registering the result anywhere: of five aesthetic lines only creation is separable from the explanatory-gap family, and it is separable rather than independent. It is registered here rather than next door in the dualism-argument domain because what survives is a causal argument against epiphenomenalism, not a fourth anti-physicalist route — the placement is itself part of the claim.
+
+**The foundational-dependency test (applied 2026-08-03).** Under the register's rule — *a position counts as retireable only if removing it leaves every tenet with an intact rationale* (see [positions](/positions/)) — this domain does not come out uniformly, and the split runs *inside* an entry rather than between entries. **P-MC1 fails on its first conjunct.** [Tenet 3](/tenets/#bidirectional-interaction)'s stated rationale names self-stultification as one of its two supports, and the tenets page then re-bases the burden onto a comparative judgement — that the alternative leaves report-reliability hanging on a contested epistemological premise — which is that same argument's residue rather than an independent ground. Retire the claim that self-stultification decisively burdens bare-correlation epiphenomenalism, and Tenet 3 is left with the comparative-cognition evidence the tenets page itself says corroborates rather than establishes it. The entry's *second* conjunct, the phenomenal-concept scope limit, is freely retireable — and retiring it would strengthen the tenet's rationale rather than damage it, which is why the failure has to be recorded as asymmetric within one entry rather than as a verdict on the whole. **P-MC2 and P-MC3 pass.** P-MC2 is purely subtractive: retiring it would let the existential result read as the universal claim Tenet 3 asserts, inflating the rationale rather than removing it. P-MC3 restates Kim's exclusion argument, a mainstream external result, and its denial of causal completeness *is* Tenet 2 rather than a ground for it; its retirement cascades to [P-D2](/positions/arguments-for-dualism/), whose selection step borrows its exclusion criterion, and not to any tenet. **P-MC4 passes** plainly: [Tenet 3](/tenets/#bidirectional-interaction)'s stated rationale names self-stultification and the comparative-cognition corroboration, never the aesthetic line, so retiring the entry leaves it untouched — and removing the entry's restraining half would inflate the aesthetic case rather than damage the tenet.
 
 **Mechanism debt inherited, not discharged.** P-MC3 records *how* the Map escapes the epiphenomenalist gravity well — by denying that physical events always have sufficient physical causes. That escape is the quantum-interface programme, carrying that register's open debt: no worked toy model, and the bias-without-deviation dilemma. Full statement: [the mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt).
 
@@ -78,3 +83,13 @@ Calibration follows the [multi-axis schema](/positions/methodology-and-calibrati
 - **Argued in**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Would shift if**: a rival secured genuine causal work for consciousness while retaining causal completeness (removing the exclusion criterion); or the exclusion argument were shown to fail on independent grounds, so that a sufficient physical cause does not crowd out a mental one (defusing the well for everyone, the Map included); or the relevant quantum indeterminacy were shown to be epistemic rather than ontological (closing the Map's own escape and leaving it inside the well).
 - **Last reviewed**: 2026-08-02
+
+## P-MC4: Aesthetic creation is the one line of the Map's aesthetic case that survives both a closed explanatory gap and a successful holistic reduction, and it is separable rather than independent
+
+- **Status**: live
+- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade n/a (an accounting claim about the Map's own argument catalogue, not a first-order world-claim) · structural centrality low · model maturity developed (a worked audit carried in article prose, with no independence score behind it) · empirical discriminability n/a (a claim about argument structure, not about the world) · framework-internal only: no
+- **Asserts**: The Map holds that of the five lines its aesthetic case runs, only *aesthetic creation* is separable from the others, and that separability falls short of independence. The other four collapse onto two premises: feature convergence and aesthetic binding both run constitutive holism, at two grains that a single integrative-architecture reply meets together, while substrate independence and formal precision both fall back on the structure-experience gap — the [explanatory gap](/concepts/explanatory-gap/) in aesthetic dress. Creation differs in kind because it is a *causal* argument. The creative revision loop — phenomenal judgment → motor action → material change — asks the epiphenomenalist to account for a systematic correlation between what artists experience as wrong and what they change, and that demand needs no explanatory gap to stay open. It would still stand if the gap closed and if the holistic reduction the Map says physicalism owes were supplied. What it would stand *as* is narrower than the aesthetic case's billing suggests: an argument against epiphenomenalism rather than a fourth route to irreducibility, since a successful reduction would relocate the causal work into physical description rather than remove it. The phenomenal-concept physicalist meets the unsharpened loop with the reply P-MC1 records against self-stultification — the phenomenal judgment is the physically realised state that moves the hand — and what pushes past that reply, the zombie artist, does so only by borrowing back the conceivability intuition the other aesthetic lines run on. The line must therefore not be tallied as a clean fourth route; counting it as one would be the count-inflation [P-D2](/positions/arguments-for-dualism/) forbids. Credence is *moderate* rather than high: the premise-pairing is establishable by inspection, but it rests on one article's self-audit with no independence instrument, and the unsharpened argument's residual force against a physicalist who grants causal work under a physical description is unassessed.
+- **Depends on**: P-MC1 (its phenomenal-concept scope limit transfers to the unsharpened creation loop); P-MC3 (a causal argument bites only where a difference-making point physical description misses is identified, whose mechanism debt is inherited here too); [P-D1](/positions/arguments-for-dualism/) (the shared conceivability premise the zombie-artist sharpening borrows back) and [P-D2](/positions/arguments-for-dualism/) (the count-inflation rule this applies at the aesthetic grain); Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), which the argument supports and whose stated rationale does not name it; [direction-of-fit](/concepts/direction-of-fit/) (the world-to-mind reversal that makes the causal contribution explicit)
+- **Argued in**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), [direction-of-fit](/concepts/direction-of-fit/), [contemplative-path](/apex/contemplative-path/)
+- **Would shift if**: the unsharpened creation loop were shown to bind the phenomenal-concept physicalist without the zombie-artist step (making it genuinely independent and licensing a separate count); or the artist's phenomenal discriminations were given a functional redescription preserving the revision behaviour without phenomenal character (collapsing creation into the reply that meets the other four); or an independence-scoring instrument found creation to share a premise with constitutive holism or the structure-experience gap after all (reducing the aesthetic catalogue from three premises to two).
+- **Last reviewed**: 2026-08-07

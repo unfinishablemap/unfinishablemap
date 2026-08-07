@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-28
-ai_modified: 2026-08-03 08:44:28+00:00
+ai_modified: 2026-08-07 21:46:00+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[evidential-status-discipline]]'
 created: 2026-07-28
-date: &id001 2026-07-28
+date: &id001 2026-08-07
 description: 'The Map''s positions on what its own argument catalogue for dualism
   actually supports: premise-sharing rather than independence, irreducibility-then-selection
   rather than three compounding routes, and cross-traditional near-independence rather
@@ -18,7 +18,7 @@ description: 'The Map''s positions on what its own argument catalogue for dualis
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 08:44:28+00:00
+lastmod: 2026-08-07 21:46:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -50,7 +50,7 @@ Calibration follows the [multi-axis schema](/positions/methodology-and-calibrati
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade B (the dependency is establishable by inspection of the published arguments, and the phenomenal concept strategy is the mainstream physicalist statement of exactly this shared premise) · structural centrality moderate · model maturity developed (worked cluster analysis, no formal independence metric) · empirical discriminability n/a (a claim about argument structure, not about the world) · framework-internal only: no
 - **Asserts**: The Map holds that its catalogue of arguments against physicalism converges on irreducibility from *shared* rather than independent premises, so their cumulative force is real but modest. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails — if phenomenal concepts do not track a genuine ontological category — they fail together rather than confirming one another. Arguments within a single cluster therefore contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters: phenomenal intuition, the explanatory gap, and at least the unity prong resist physical explanation by routes that do not reduce to one another. The defensible reading is "substantially stronger than any single argument," never "overwhelming." The Map holds this concession as a standing calibration on every article that cites the convergence, not as a retraction of the case.
 - **Depends on**: [P-M2](/positions/methodology-and-calibration/) (the common-cause null as a standing discount on convergence — this is its first-order dualism-argument instance); [P-M1](/positions/methodology-and-calibration/) (coherence cannot upgrade its own evidential tier); the per-cluster independence scoring in [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/); the phenomenal concept strategy (Loar 1990, Papineau 2002, Balog 2012) as the physicalist statement of the shared premise
-- **Argued in**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), [dualism](/concepts/dualism/)
+- **Argued in**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), [dualism](/concepts/dualism/); and instantiated independently in a domain this entry never scored by [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), whose own audit collapses five aesthetic lines onto the unity prong and the explanatory gap and finds one — aesthetic creation — separable but not independent, registered as [P-MC4](/positions/arguments-for-mental-causation/)
 - **Would shift if**: an independence-scoring instrument showed one or more clusters to be genuinely premise-disjoint from the conceivability route (which would raise the cumulative reading back toward multiplication); or the phenomenal concept strategy were shown to fail in all its variants, removing the mainstream account of *why* the arguments share a premise; or the third-personally-anchored prong of the unity argument were shown to collapse into report-dependence after all, which would tighten the discount further by removing the one genuinely cross-cluster contribution.
 - **Last reviewed**: 2026-07-28
 
