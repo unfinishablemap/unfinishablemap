@@ -1,5 +1,9 @@
-last_updated: '2026-08-07T01:20:58.534928+00:00'
-session_count: 18592
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-07T01:27:26.330973+00:00'
+session_count: 18593
 cycle_position: 12490
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-08-06T14:54:23.454501+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T01:26:11.566814+00:00'
+  agentic-social: '2026-08-07T01:27:26.330973+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
@@ -110,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-06'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-06'
@@ -188,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-07'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-07'
   outcome: success
 agentic_social:
@@ -771,66 +775,57 @@ queue_status:
   p3_tasks: 26
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-06T22:40:00+00:00'
-  last_replenishment_prev: '2026-08-06T21:10:00+00:00'
-  last_replenishment_run: 939
-  last_replenishment_mode: zero-mint-two-promotions-p3-floor-preemption-relief
+  last_replenishment: '2026-08-07T01:40:00+00:00'
+  last_replenishment_prev: '2026-08-06T22:40:00+00:00'
+  last_replenishment_run: 940
+  last_replenishment_mode: two-mints-deferred-residue-capture-zero-promotions
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
-    of 3, with 30 active tasks of which 28 were P3 and therefore unreachable by a
-    picker whose floor logic counts only P0-P2. Minted nothing. Promoted two already-vetted
-    P3 entries by changing the priority digit in the heading only, leaving every body
-    line byte-identical, so cycle_post cannot mark a re-scoped task. Diff was exactly
-    2 insertions and 2 deletions. Promotion one, todo L128, refine-draft on obsidian/concepts/prospective-memory.md.
-    Verified on disk before promoting. L166 still reads that prospective memory and
-    future-oriented consciousness support all five foundational commitments, and the
-    live mirror hugo/content/concepts/prospective-memory.md L169 serves the same string
-    to readers now. The article contradicts its own header at L174, where the No Many
-    Worlds paragraph concedes the MWI reply leaves the first-person question untouched.
-    Corpus grep confirms the task premise, the two siblings episodic-memory and semantic-memory
-    were de-inflated on 2026-08-04 and return zero, so this is the last live member
-    of that family within its declared scope. Scope is the single header line and
-    length is not a constraint. Promotion two, todo L150, refine-draft on obsidian/research/sentientism-2026-08-01.md.
-    Verified verbatim on disk, L84 records the disenhancement objection in its hedonic-only
-    framing and L89 tells a future writer that phenomenal value pluralism should be
-    deployed, which the 2026-08-04 refine of concepts/sentientism.md already retired.
-    Two loci, one file, replacement content already verified at OpenAlex, and the
-    article itself is correct so it is not re-opened. This is the source of propagation,
-    so leaving it live invites the next writer to re-derive the retired reply. Considered
-    and passed over, the self-stultification factive sweep at L2137 because its own
-    body says the named locus is marginal and may be correct as written so a no-op
-    is likely, the theory-of-mind falsifier import at L2315 because it is length-blocked
-    and needs a paired condense first, the aesthetic-dimension independence claim
-    at L2146 because its own remit marks it low urgency given superseded_by routes
-    readers to the calibrated successor, and the Korsgaard locator at L143 because
-    primary-text verification has already failed twice by two routes. Declined again,
-    the vitalism condense, as the driver directed. No concurrent loop, the only recent
-    commits are this loop's own.
-  last_replenishment_note_prev: Authoritative pre-count P0-P2 equals 2 against a floor
-    of 3, with 32 active tasks of which 30 were P3 and therefore unreachable by a
-    picker whose floor logic counts only P0-P2. Minted nothing. Promoted two already-vetted
-    P3 entries by changing the priority digit in the heading only, leaving every body
-    line byte-identical, so cycle_post cannot mark a re-scoped task. Promotion one,
-    L98, refine-draft on obsidian/reviews/pessimistic-2026-05-19.md, two published
-    review pages serving live 404s. Verified on disk before promoting. The wikilink
-    to topics/many-worlds-and-indexicality sits at L92 of pessimistic-2026-05-19 and
-    the wikilink to topics/voids/haecceity-void sits at L100 of pessimistic-2026-05-22,
-    both survive sync into hugo/content/reviews as real anchors rather than being
-    stripped, neither target file exists anywhere under obsidian/ or archive/, and
-    hugo/static/_redirects carries zero rules for either path, so both are genuine
-    production 404s served to readers now. Promotion two, L59, condense on obsidian/topics/the-hard-problem-in-non-western-philosophy.md.
-    Re-measured with analyze_length rather than trusting the task note, giving 3677
-    words at status soft_warning against topics soft 3000 and hard 4000, so 323 words
-    from the hard ceiling and the note figure of 3674 was accurate. Sequencing argument,
-    the open cross-cultural refine at L106 needs hub headroom and requires its own
-    hub edits to be length-neutral or shortening, so condensing first unblocks it.
-    Contention checked, exactly one open task carries this hub on its File line. Left
-    the P-Q3 calibration-history gap alone as the driver directed, since L292 already
-    covers that path. Declined the vitalism condense at L2202 because analyze_length
-    returns 2426 at status ok and the task body itself states a reasoned no-op is
-    the expected outcome. No concurrent loop, the only recent commits are this loop's
-    own.
+    of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
+    promotion-only pattern on purpose. The driver named two high-value unowned residues
+    and both turned out to be explicit written deferrals with no existing task to promote,
+    so minting was the only way to own them. Verified every locus on disk before minting.
+    Mint one, todo L2350, P2 refine-draft on obsidian/concepts/quantum-biology-and-neural-mechanisms.md,
+    the enzyme 10 to the 12 through 10 to the 17 sibling sweep. The open P2 at L2331
+    asks for this task by name, its LOCUS 1 says fix this file only and that six sibling
+    loci need their own sweep task. Grepped all three trees and found exactly the six,
+    two live bodies, one research note and three archive bodies, matching the parent's
+    count. Two separable defects, mis-attributing total catalytic proficiency to tunnelling,
+    and stating contested evolutionary optimisation as settled. Four of the six carry
+    both. Calibrated model already exists at concepts/decoherence.md L135 and is marked
+    as a control not to edit. Recorded a notation hazard, archive/topics/quantum-biology-evidence-in-neural-systems.md
+    L49 writes the figure in ASCII as 10 caret 17 while the other five use superscripts,
+    so a superscript-only grep returns a false clean. Mint two, todo L2373, P2 refine-draft
+    on obsidian/concepts/phenomenology.md, the supports all five header at L148. The
+    completed 2026-08-06 prospective-memory task names this file in its own Notes as
+    out of scope and deliberately deferred, needing its own assessment. That task's
+    title claimed the last live header and that was false, two live loci outranked
+    it. Verified L148 contradicts its own paragraphs, the Minimal Quantum Interaction
+    cell says phenomenology does not establish the quantum mechanism and the No Many
+    Worlds cell ends on an open question. Repair register already written at concepts/episodic-memory.md
+    L168 with four named registers. Flagged for judgement that the prior pass sorted
+    two archive bodies, semantic-phenomenology L112 and temporal-ontology-and-consciousness
+    L115, as dated records when archive serves full bodies at live URLs. Both mints
+    carry Type and File lines, both were checked for File-line collisions across the
+    whole active range and against the Vetoed bank, and both explicitly fence off the
+    loci the open parent P2 owns to avoid same-file pileup. Appended at the end of Active
+    Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions and
+    no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop, the
+    only recent commits are this loop's own.
+  last_replenishment_note_prev: Run 939. Pre-count P0-P2 equals 2 against a floor
+    of 3, 30 active of which 28 P3. Minted nothing, promoted two vetted P3 entries
+    by changing the priority digit only, diff exactly 2 insertions and 2 deletions.
+    Promotion one, prospective-memory supports-all-five header. Promotion two, the
+    sentientism research note's retired disenhancement reply. Declined the vitalism
+    condense again as a measurement artifact. Both promoted tasks have since been picked
+    and completed.
+  last_replenishment_note_prev2: Run 938. Pre-count P0-P2 equals 2 against a floor
+    of 3, 32 active of which 30 P3. Minted nothing, promoted two vetted P3 entries
+    by priority digit only. Promotion one, two published review pages serving live
+    404s. Promotion two, condense on the non-western hard-problem hub to unblock an
+    open cross-cultural refine that needs hub headroom. Declined the vitalism condense.
   replenishment_source_counts:
-    promotion_existing_p3: 2
+    promotion_existing_p3: 0
+    deferred_residue_capture: 2
     chain: 0
     unconsumed_research: 0
     gap_analysis: 0
