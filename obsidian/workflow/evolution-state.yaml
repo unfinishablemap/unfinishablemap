@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T04:48:33.144824+00:00'
-session_count: 18606
+last_updated: '2026-08-07T05:02:31.487250+00:00'
+session_count: 18607
 cycle_position: 12493
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-06T14:54:23.454501+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T03:28:40.849468+00:00'
+  agentic-social: '2026-08-07T05:09:43.163032+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -32,7 +28,7 @@ last_runs:
   collect-chatgpt-review: '2026-08-07T03:57:27.600979+00:00'
   collect-claude-review: '2026-08-07T04:48:33.144824+00:00'
   combine-outer-reviews: '2026-08-06T05:32:32.837477+00:00'
-  collect-gemini-review: '2026-08-06T04:47:52.709741+00:00'
+  collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
   check-model-fallback: '2026-08-07T04:22:42.513480+00:00'
   harvest-research-subjects: '2026-08-06T23:53:17.514263+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 14
   research_notes: 535
-  reviews_completed: 7152
+  reviews_completed: 7153
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-06'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-06'
@@ -194,21 +186,12 @@ recent_tasks:
   type: collect-claude-review
   date: '2026-08-07'
   outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
-    date: '2026-07-31T03:43:22.824809+00:00'
-    topics:
-    - consciousness-and-social-understanding
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-deliberation-under-uncertainty
-    - consciousness-and-testimony
-    - consciousness-and-intersubjectivity
-  - url: https://unfinishablemap.org/concepts/manyism/
-    date: '2026-07-31T05:04:54.427811+00:00'
-    topics:
-    - panpsychisms-combination-problem
-    - consciousness-and-the-metaphysics-of-composition
   - url: https://unfinishablemap.org/topics/contemplative-pathology-and-interface-malfunction/
     date: '2026-07-31T07:25:28.970488+00:00'
     topics:
@@ -745,6 +728,10 @@ agentic_social:
     date: '2026-08-07T03:27:10.251406+00:00'
     topics:
     - the-naturalisation-failure-for-content
+  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
+    date: '2026-08-07T05:09:43.162991+00:00'
+    topics:
+    - pain-consciousness-and-causal-power
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
