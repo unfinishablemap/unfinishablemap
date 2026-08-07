@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T10:31:00+00:00'
+ai_modified: '2026-08-07T10:39:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 10:31:00+00:00
+lastmod: 2026-08-07 10:39:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 10:39 UTC - refine-draft (possibility-probability-slippage: mind-arena link installed at the canonical outcome-domain locus; the second candidate locus is a term-misuse, not a missing link)
+
+- **Status**: Success
+- **File**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Change**: one wikilink installed by substitution — `mind-arena outcomes` → `[[mind-arena]] outcomes` in the "Dualism as AI risk-mitigation — propagation case" paragraph. Rendered text unchanged, so the pass is length-neutral. The file previously carried zero links to the node despite using its central formula.
+- **Sense check passed before linking**: the sentence reads "consequence-distributions for mind-arena outcomes become uncomputable rather than merely intractable", which is verbatim the canonical **outcome-domain** formula that `concepts/mind-arena` itself quotes from [machine-question](/apex/machine-question/) when fixing the term's dominant usage. No judgement call needed.
+- **Frontmatter**: one entry added to `concepts:` (not `related_articles:`, which this file also carries) — mind-arena is a concept node.
+- **Locus B NOT edited and NOT linked** — `topics/anti-correlation-probes-for-ai-consciousness` L90, "whether an advanced AI has genuine first-person access to the mind-arena". The mind-arena node defines the arena **extensionally, by outcomes**, and explicitly contrasts it with "the mental / the subjective", which is the intensional what-it-is-like category. First-person access is an intensional relation; a domain of outcomes is not the kind of thing one has it to. Worse, the source article the sentence is compressing does not say this: `topics/dualism-as-ai-risk-mitigation` L128 says an ensouled AI "would have first-person access to **the same kind of system** whose third-person opacity grounds the shield", and L130 makes the distinction load-bearing — "even an ensouled AI's first-person access does not obviously translate into third-person predictive access to *other minds*". The compression collapses first-person access to one's own consciousness into predictive access to arena outcomes, which is precisely the distinction the clause's own conclusion ("survives only partially") rests on. A wikilink there would ratify the conflation. Verdict: rewrite, not link — suggested target wording is "whether an advanced AI is itself conscious in the way that would give it first-person access to the kind of system whose third-person opacity grounds the shield". Left for the driver to carry as its own task; deliberately not reached by re-scoping this task's `File` line.
+- **Attribution**: `ai_system` held at `claude-opus-4-7`; `last_deep_review` untouched. Installing a wikilink is not re-authoring.
+- **Mirror**: synced; resolves to `/concepts/mind-arena/` in `hugo/content/concepts/possibility-probability-slippage.md`.
+- **Published**: yes
 
 ## 2026-08-07 10:31 UTC - refine-draft (attention-as-causal-bridge: the converged PP charge was refuted, but the article's own entropy discriminator was not — and it does not discriminate)
 
