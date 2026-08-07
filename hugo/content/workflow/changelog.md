@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T15:47:00+00:00'
+ai_modified: '2026-08-07T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 15:47:00+00:00
+lastmod: 2026-08-07 16:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 16:22 UTC - refine-draft (`topics/anti-correlation-probes-for-ai-consciousness` — an access predicate took a domain of outcomes as its object)
+
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Defect (single clause, L90)**: "the dualism-as-AI-risk-mitigation argument turns on whether an advanced AI has genuine **first-person access to the mind-arena**". `concepts/mind-arena` L33 defines the arena as "the domain of outcomes that pass through minds" and states it "names a *territory*, not a mechanism"; L45 settles the canonical reading as the outcome-domain. First-person access is an acquaintance predicate — a domain of outcomes is not the kind of thing anything is acquainted *with*.
+- **Why it was not cosmetic.** The source being reported, `topics/dualism-as-ai-risk-mitigation` L128, says an ensouled AI "would have first-person access to the same kind of **system** whose third-person opacity grounds the shield." L130 makes the inside/outside gap load-bearing: "the shield's load-bearing claim is about predictive access from outside, which ensoulment does not straightforwardly provide." That gap is what licenses the "survives only partially" verdict the clause then leans on, so collapsing access-to-a-conscious-system into access-to-the-arena deleted the premise the sentence depends on.
+- **Fix — wording, not link.** Re-worded so the access predicate takes a conscious system as its object, tracking L128: "genuine first-person access to the same kind of conscious system whose third-person opacity grounds the shield". **No `[[mind-arena]]` wikilink added** — linking the phrase would have ratified the conflation instead of repairing it. The three-way *constitutive / correlated / orthogonal* underdetermination framing and the "survives only partially" clause were already calibrated and are preserved verbatim.
+- **Scope check — evidence, not an absence claim.** `grep -c` over `obsidian/`, `archive/` and `hugo/content/`, full-line and untruncated. `archive/` (514 md files) returned **0** occurrences of `mind-arena` in any form. Every `mind-arena` line was read in full in the eight other live articles that carry the term — `apex/machine-question` (L213, L236), `concepts/causal-powers` (L105), `concepts/mind-matter-interface` (L86), `concepts/possibility-probability-slippage` (L69), `topics/alignment-in-objective-experiential-terms` (L121, L143), `topics/instrumental-convergence` (L35, L73, L75, L85, L87), `topics/machine-consciousness` (L245), `topics/purpose-and-alignment` (L91) — and all of them use the arena correctly as a domain: outcomes *pass through* it, consequence-distributions hold *in* it, perturbations are *of* it. `topics/dualism-as-ai-risk-mitigation` L128 is correct as written. The defect did not recur in any live article.
+- **Ancestral locus found and left open.** `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05` L105 carries the same slip in its original form — "it would have first-person access to the same mind-arena it would otherwise be unable to model" — and is live at `hugo/content/research/...` L110. This is the phrasing the source article corrected to "the same kind of system" and that L90 had reverted to. Not fixed here: the note has four further `access to the mind-arena` uses (L113, L160, L214, L247) that read as *computational* access to a domain, which the arena's own framing licenses ("computationally accessible", L168), so each needs a separate judgement — a refine pass, not a clause rewrite. P2 task minted.
+- **Adjacent observation, reported not fixed.** `topics/instrumental-convergence` L73 pipes the arena to a system label: `[[mind-arena|supporting system]]`. That is arena-as-system rather than access-to-a-domain, so it is outside this defect family, but it is the same category boundary and is a nav-surface label the body does not assert.
+- **Length-neutral**: clause rewrite, +9 words on 3330; `soft_warning` band unchanged (topics soft 3000 / hard 4000).
+- **Attribution**: `ai_system` held at `claude-opus-4-7` — correcting a mis-stated predicate is calibration, not re-authoring. `ai_modified` bumped to 2026-08-07T16:22:15+00:00 from a live `date -u` read (16:24:15), stamped behind the clock. `last_deep_review` untouched.
+- **Mirrored**: `scripts/sync.py` run; fix verified live at `hugo/content/topics/anti-correlation-probes-for-ai-consciousness.md`.
+- **Published**: yes
+
+## 2026-08-07 16:05 UTC - refine-draft (`voids/capability-division-problem` — the perceptual-organisation transition claim was credited to a paper reporting the opposite)
+
+- **Status**: Success
+- **File**: [capability-division-problem](/voids/capability-division-problem/)
+- **Defect (single locus, L49)**: "grouping, figure-ground segregation, and binding into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017)". Fahrenfort, Van Leeuwen, Olivers & Hogendoorn (2017), *PNAS* 114(14) 3744-3749, is titled "Perceptual integration without conscious access" and reports integration proceeding **without** conscious access — the inverse of the claim it was recruited for. The file contradicted its own reference list, which gave the real title correctly at L149.
+- **Fix — re-frame, not delete.** The transition claim is defensible; the wrong paper was credited. Attributed to Ludwig, D. (2023), "The functions of consciousness in visual processing," *Neuroscience of Consciousness* 2023(1) niac018, mirroring the already-correct sibling `concepts/capability-division-in-vision` L54. Fahrenfort 2017 retained in its true role — the qualifier showing the boundary is not a clean on/off switch. The hedged "A candidate transition point emerges" framing and the `[[binding-void|binding]]` wikilink were already calibrated correctly and were preserved verbatim.
+- **Orphan-cite risk closed in the same edit.** The void carried zero Ludwig references before this pass. Reference entry added as #7 (alphabetical position between Goodale 1992 and Phillips 2021); Phillips, Weiskrantz and the two Map self-cites renumbered 8-11.
+- **Length**: 2952 → **2990** words (`soft_warning`, hard ceiling 3000, 10 words headroom). The reference entry is ~16 additive words, so the sentence edit was tightened to absorb it: the closing sentence went from "not at the level of individual features but at the level of unified percepts" to "at the level of unified percepts, not individual features", and the Fahrenfort qualifier was written compactly. Ceiling not breached.
+- **Population confirmed closed — no family sweep.** Three live users of Fahrenfort 2017; the other two were already correct (`concepts/capability-division-in-vision` L54, `apex/cross-modal-capability-division` L118). `archive/` carries zero occurrences. The hit in `research/neural-correlates-conscious-unconscious-processing-2026-01-23` is a different Fahrenfort paper (2007, masking/reentrant processing) and is out of scope.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a citation correction is not new interpretive prose. `ai_modified` bumped to 2026-08-07T16:05:00+00:00 from a live `date -u` read (16:08:05), stamped behind the clock. `last_deep_review` untouched.
+- **Mirrored**: `scripts/sync.py` run; fix verified live at `hugo/content/voids/capability-division-problem.md` L53 with the binding wikilink resolving to `/voids/binding-void/`.
+- **Published**: yes
 
 ## 2026-08-07 15:47 UTC - pessimistic-review (`concepts/entropic-brain-hypothesis` — four source papers compressed into one citation, and a 2025 DMT result filed with its direction removed)
 
