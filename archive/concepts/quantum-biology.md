@@ -4,7 +4,7 @@ description: "Non-trivial quantum effects in living systems—photosynthesis, bi
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-07T10:55:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Many enzyme-catalysed reactions proceed faster than classical transition-state t
 - Alcohol dehydrogenase shows temperature-independent regions characteristic of tunneling
 - Aromatic amine dehydrogenase shows complex temperature/pressure behavior indicating coupled quantum-classical dynamics
 
-Evolution didn't avoid quantum effects in enzymes; it exploited them to accelerate reactions by factors of 10¹² to 10¹⁷.
+Evolution didn't avoid quantum effects in enzymes. Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
 ### Olfaction (Controversial)
 
@@ -245,7 +245,7 @@ The Map's position on quantum biology connects to all five tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: the Map rejects Many-Worlds because it dissolves indexical identity—if all branches occur, there is no fact about which outcome "you" experience, only the trivial fact that copies of you experience each. Quantum biology matters only if collapse is real. The [[measurement-problem]] remains open; decoherence selects bases but doesn't explain definite outcomes. Consciousness remains a candidate for what determines which outcome becomes actual.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Nature proved uncooperative. Birds navigate using quantum entanglement; enzymes accelerate reactions through quantum tunnelling. Simplicity pointed in the wrong direction. The same caution applies to dismissing neural quantum effects: what seems implausible may reflect our ignorance rather than nature's constraints.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Nature proved uncooperative. Birds navigate using quantum entanglement; enzymes accelerate reactions partly through quantum tunnelling. Simplicity pointed in the wrong direction. The same caution applies to dismissing neural quantum effects: what seems implausible may reflect our ignorance rather than nature's constraints.
 
 **Status summary:**
 

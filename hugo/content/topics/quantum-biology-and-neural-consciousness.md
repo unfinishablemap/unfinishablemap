@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-30 13:13:52+00:00
+ai_modified: 2026-08-07 10:55:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:22:00+00:00
-lastmod: 2026-07-30 13:13:52+00:00
+lastmod: 2026-08-07 10:55:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). This establishes that warm Zeno-type quantum effects *can* occur in a specific, specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 
-**Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
+**Enzyme catalysis** draws on quantum tunnelling, which contributes to reaction acceleration factors of 10¹² to 10¹⁷ (confirmed by large kinetic isotope effects); how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested. **Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
 
 The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biology is not categorically inhospitable to quantum function. It does not follow that neural systems sustain coherence at consciousness-relevant scales. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question, but argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-20 13:03:00+00:00
+ai_modified: 2026-08-07 10:55:50+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Biology and Neural Consciousness
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-26 08:23:00+00:00
-lastmod: 2026-03-20 13:03:00+00:00
+lastmod: 2026-08-07 10:55:50+00:00
 modified: *id001
 original_path: /topics/quantum-biology-and-the-consciousness-debate/
 related_articles:
@@ -47,7 +47,7 @@ The assumption proved false. Nature had already solved the decoherence problem�
 
 **Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—not femtoseconds—because tight molecular binding protects the spin states. In January 2026, Princeton researchers published computational confirmation of this mechanism. More striking: a 2024 *Nature Communications* study demonstrated that the [quantum Zeno effect](/concepts/stapp-quantum-mind/) enables cryptochrome magnetosensitivity. This finding deserves emphasis: the same mechanism that Stapp proposes for consciousness-brain interaction—repeated observation stabilising quantum states—has a confirmed biological precedent. Evolution has already implemented Zeno-like dynamics in a functional sensory system.
 
-**Enzyme catalysis** relies on quantum tunnelling. Particles don't surmount energy barriers—they pass through them. Kinetic isotope effects (hydrogen reactions proceeding faster than deuterium) confirm the mechanism. Evolution didn't avoid quantum effects; it exploited them to accelerate reactions by factors of 10¹² to 10¹⁷.
+**Enzyme catalysis** relies on quantum tunnelling. Particles don't surmount energy barriers—they pass through them. Kinetic isotope effects (hydrogen reactions proceeding faster than deuterium) confirm the mechanism. Evolution didn't avoid quantum effects in catalysis. Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
 **Photosynthesis** achieves near-perfect energy transfer efficiency through quantum coherence. Although recent work has revised the picture—coherence times are shorter than initially claimed, and functional importance is now disputed—the demonstration stands: quantum effects can operate in warm biological conditions.
 

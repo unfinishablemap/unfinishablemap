@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-08-05T19:25:38+00:00
+ai_modified: 2026-08-07T10:55:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ Selection has propagated cryptochrome variants that exploit radical-pair quantum
 
 ### Enzyme Quantum Tunneling
 
-Many enzyme-catalysed reactions proceed faster than classical transition-state theory predicts through quantum tunneling: particles tunnel *through* energy barriers rather than going over them. Large kinetic isotope effects, anomalous temperature dependencies, and QM/MM simulations confirm the mechanism. Selection has propagated active-site geometries that exploit tunneling to accelerate reactions by factors of 10¹² to 10¹⁷.
+Many enzyme-catalysed reactions proceed faster than classical transition-state theory predicts through quantum tunnelling: particles tunnel *through* energy barriers rather than going over them. Large kinetic isotope effects, anomalous temperature dependencies, and QM/MM simulations confirm the mechanism. Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷; how much of that acceleration tunnelling itself supplies, and whether selection tuned active-site geometries for it, remain contested.
 
 ### Olfaction (Controversial)
 
@@ -169,7 +169,7 @@ The Map's position would face serious difficulty if: (1) biological quantum effe
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Protected quantum coherence matters only if collapse is real. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Birds navigate using quantum entanglement; enzymes accelerate reactions through quantum tunnelling. Simplicity pointed in the wrong direction.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Birds navigate using quantum entanglement; enzymes accelerate reactions partly through quantum tunnelling. Simplicity pointed in the wrong direction.
 
 **A mysterian caveat:** [[mysterianism|McGinn's cognitive closure thesis]] suggests we may be constitutionally incapable of understanding the connection between phenomenal experience and physical processes. The Map documents these mechanisms as candidates constrained by physics, not final explanations.
 

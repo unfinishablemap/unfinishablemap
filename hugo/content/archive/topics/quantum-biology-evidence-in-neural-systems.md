@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-07 10:55:50+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Biology and Neural Consciousness
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 13:03:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-07 10:55:50+00:00
 modified: *id001
 original_path: /topics/quantum-biology-evidence-in-neural-systems/
 related_articles:
@@ -50,7 +50,7 @@ Three established systems set the prior:
 
 **Avian magnetoreception** relies on quantum spin coherence in cryptochrome proteins. Radical pairs maintain entangled states for microseconds in warm tissue. A 2024 *Nature Communications* study demonstrated that the quantum Zeno effect—where frequent environmental interactions stabilise quantum states rather than destroying them—enables this magnetosensitivity (Atkins et al., 2024). Stapp's model of [consciousness-brain interaction](/concepts/stapp-quantum-mind/) invokes the same general principle, though applied differently: mental acts as repeated observations holding desired neural patterns. The biological precedent does not validate Stapp's specific proposal, but it establishes that Zeno-type dynamics operate in warm tissue. A 2026 Princeton study provided computational confirmation of the radical pair mechanism in European robin cryptochrome (Xu et al., 2026).
 
-**Enzyme quantum tunnelling** accelerates reactions by factors of 10^12 to 10^17. Kinetic isotope effects confirm the mechanism. Evolution did not avoid quantum effects in catalysis; it optimised them.
+**Enzyme quantum tunnelling** contributes to reaction acceleration factors of 10¹² to 10¹⁷. Large kinetic isotope effects confirm the mechanism. Evolution did not avoid quantum effects in catalysis; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
 **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency. Although coherence times are shorter than initially claimed and functional importance is now debated, the demonstration stands: quantum effects operate at biological temperatures.
 

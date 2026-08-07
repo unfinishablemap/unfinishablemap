@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 00:30:00+00:00
+ai_modified: 2026-08-07 10:55:50+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-16 00:30:00+00:00
+lastmod: 2026-08-07 10:55:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Frontiers in Human Neuroscience (2025) reported new insights into macroscopic qu
 
 1. **Biological precedent**: Avian magnetoreception proves evolution can harness quantum coherence for function. Dismissing neural quantum effects as impossible requires explaining why navigation succeeds but consciousness cannot.
 
-2. **Enzyme tunneling analogy**: If enzymes routinely use quantum tunneling to accelerate reactions by factors of 10¹⁷, the claim that quantum effects cannot influence neural processing is weakened.
+2. **Enzyme tunneling analogy**: If quantum tunnelling contributes to the 10¹²–10¹⁷ reaction accelerations enzymes achieve — how much of that acceleration tunnelling itself supplies remains contested — the claim that quantum effects cannot influence neural processing is weakened.
 
 3. **Decoherence is not the end**: Even when coherence is short-lived (as in photosynthesis), quantum effects can still be functional. The Map's framework requires only that consciousness bias outcomes at measurement—not that it maintain long-lived superpositions.
 

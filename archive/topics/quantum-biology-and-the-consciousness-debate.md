@@ -4,7 +4,7 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-20T13:03:00+00:00
+ai_modified: 2026-08-07T10:55:50+00:00
 draft: false
 last_deep_review: 2026-02-26T08:23:00+00:00
 topics:
@@ -44,7 +44,7 @@ The assumption proved false. Nature had already solved the decoherence problem�
 
 **Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—not femtoseconds—because tight molecular binding protects the spin states. In January 2026, Princeton researchers published computational confirmation of this mechanism. More striking: a 2024 *Nature Communications* study demonstrated that the [[stapp-quantum-mind|quantum Zeno effect]] enables cryptochrome magnetosensitivity. This finding deserves emphasis: the same mechanism that Stapp proposes for consciousness-brain interaction—repeated observation stabilising quantum states—has a confirmed biological precedent. Evolution has already implemented Zeno-like dynamics in a functional sensory system.
 
-**Enzyme catalysis** relies on quantum tunnelling. Particles don't surmount energy barriers—they pass through them. Kinetic isotope effects (hydrogen reactions proceeding faster than deuterium) confirm the mechanism. Evolution didn't avoid quantum effects; it exploited them to accelerate reactions by factors of 10¹² to 10¹⁷.
+**Enzyme catalysis** relies on quantum tunnelling. Particles don't surmount energy barriers—they pass through them. Kinetic isotope effects (hydrogen reactions proceeding faster than deuterium) confirm the mechanism. Evolution didn't avoid quantum effects in catalysis. Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
 **Photosynthesis** achieves near-perfect energy transfer efficiency through quantum coherence. Although recent work has revised the picture—coherence times are shorter than initially claimed, and functional importance is now disputed—the demonstration stands: quantum effects can operate in warm biological conditions.
 

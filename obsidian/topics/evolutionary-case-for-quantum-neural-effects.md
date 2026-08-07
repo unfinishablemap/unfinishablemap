@@ -4,7 +4,7 @@ description: "Selection has propagated quantum-exploiting variants in bird navig
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-07-30T12:20:02+00:00
+ai_modified: 2026-08-07T10:55:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ Two established quantum biological effects demonstrate that selection can propag
 
 **[[radical-pair-magnetoreception|Avian magnetoreception]]** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark calculated for *microtubule superpositions of conformational states* (Tegmark, 2000), the specific structures Penrose-Hameroff theory requires. A 2025 Princeton computational study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2025). The selected protein geometry tracks the angstrom level at which quantum coherence is preserved.
 
-**Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Selection has propagated active-site geometries that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
+**Enzyme catalysis** exploits quantum tunnelling in hydrogen transfer reactions. Active-site geometries that control donor-acceptor distances and vibrational coupling raise tunnelling probability; whether selection tuned those geometries for tunnelling specifically, rather than for the electrostatic preorganisation that supplies much of the rate enhancement, remains contested.
 
 **Photosynthetic energy transfer** was for a decade the headline precedent and no longer serves. Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role; the long-lived oscillations Engel et al. (2007) read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question, but the case cannot be cited as selection retaining *long-lived electronic* coherence. The precedent claim rests on magnetoreception and enzyme catalysis, neither of which Duan's result touches.
 

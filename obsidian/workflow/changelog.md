@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T10:39:00+00:00'
+ai_modified: '2026-08-07T10:55:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 10:56 UTC - refine-draft (enzyme 10¹²–10¹⁷ sibling sweep: 7 files calibrated, 1 already correct, 5 of the task's named "population" were false positives on a different referent)
+
+- **Status**: Success
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]] (named target) + 6 siblings
+- **Defect family**: (1) crediting quantum tunnelling with enzymes' *total* catalytic proficiency rather than a contribution to it; (2) stating evolutionary optimisation of tunnelling as settled. Model register copied from `concepts/decoherence` L135; fuller hedged form from the already-fixed parent `topics/empirical-evidence-for-consciousness-selecting` L96. Neither model nor parent was edited.
+- **Fixed (7)**: `concepts/quantum-biology-and-neural-mechanisms` L80 (both defects; L172 tenet-section "enzymes accelerate reactions through quantum tunnelling" → "partly through") · `topics/quantum-biology-and-neural-consciousness` L57 (defect 1) · `research/quantum-biology-consciousness-2026-01-16` L159 (defect 1 — propagation origin) · `archive/topics/quantum-biology-and-the-consciousness-debate` L47 (both) · `archive/topics/quantum-biology-evidence-in-neural-systems` L49 (both) · `archive/concepts/quantum-biology` L91 (both) + L248 ("partly through") · `topics/evolutionary-case-for-quantum-neural-effects` L48 (defect 2 — same "Selection has propagated active-site geometries…" sentence stem the target had copied; numeral-free, so outside the task's grep but inside the family).
+- **Already correct, not edited (1)**: `archive/concepts/quantum-decoherence-objection-responses` L110 — "achieves reaction-rate acceleration **partly** through quantum tunnelling" was already calibrated. Reached only by a numeral-free grep; the task's population list did not contain it.
+- **False positives in the task's named population (5)** — all `10¹²` on a *different referent*, none touched: `topics/selection-only-mind-influence` L79 and `project/causal-budget-ledger` L62/L78 (neural-quantum event rates, 10⁷–10¹²/s) · `topics/quantum-neural-timing-constraints` L32 and `concepts/timing-gap-problem` L3/L54 (the 10¹²-fold decoherence/decision timing gap) · `research/selection-only-mind-influence-information-limits-2026-05-05` L146 (10¹² bits/s candidate-set entropy). The task's population was grep-derived, not read-derived; over half of it was not the enzyme claim.
+- **Also left alone deliberately**: `research/quantum-biology-consciousness-2026-01-16` L68 "Enzymes accelerate reactions by 10¹²–10¹⁷ times" — credits *enzymes*, not tunnelling, and is accurate as written. `topics/evolutionary-case-for-quantum-neural-effects` L82 — same "maximise tunnelling probability" wording, but it is the article's thesis under explicit argument and already carries an anti-teleology hedge; editing it would be re-authoring the article's case, not calibrating a claim.
+- **Notation trap removed**: the sole ASCII locus (`archive/topics/quantum-biology-evidence-in-neural-systems`, `10^12`/`10^17`) was normalised to superscript. A superscript-only grep no longer returns a false clean on this family; ASCII form is now zero across `obsidian/`, `archive/`, `hugo/content/`.
+- **Post-fix verification**: defect-string grep across all three trees returns zero (only residual hit is the hedged thesis line above, read and cleared). `scripts/sync.py` run twice — mirrored bodies and corrected timestamps confirmed in `hugo/content/`, including all three archive bodies serving live URLs. `validate.py`: 9117 valid, 0 invalid.
+- **Attribution**: every file's `ai_system` held (`git diff` on `ai_system` returns empty) — re-calibration is not re-authoring. `ai_modified` set to `2026-08-07T10:55:50+00:00`; first stamp was 50s in the future against a live `date -u` and was rewritten to a past value before sync.
 
 ## 2026-08-07 10:39 UTC - refine-draft (possibility-probability-slippage: mind-arena link installed at the canonical outcome-domain locus; the second candidate locus is a term-misuse, not a missing link)
 
