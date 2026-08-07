@@ -9,7 +9,7 @@ superseded_by: "/topics/volitional-control/"
 archive_reason: "Coalesced into Volitional Control"
 original_path: "/topics/volitional-control-empirical-evidence/"
 human_modified:
-ai_modified: 2026-03-24T13:58:00+00:00
+ai_modified: 2026-08-07T07:55:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -147,7 +147,7 @@ The Map interprets these converging empirical lines as evidence that the phenome
 14. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 15. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 16. Schwartz, J. M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109–113.
-17. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
+17. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2269.
 18. Voss, M., et al. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. *Brain*, 133(10), 3104–3112.
 19. Wolpe, N., et al. (2013). Cues, beliefs, and the sense of agency. *Frontiers in Human Neuroscience*, 7, 734.
 20. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/

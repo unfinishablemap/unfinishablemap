@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates—a convergen
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-06T11:22:00+00:00
+ai_modified: 2026-08-07T07:55:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -171,7 +171,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 7. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 
-8. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+8. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2269.
 
 9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 

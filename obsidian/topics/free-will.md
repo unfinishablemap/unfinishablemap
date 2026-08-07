@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-29T11:07:54+00:00
+ai_modified: 2026-08-07T07:55:00+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 ## The Neuroscientific Challenge
 
-[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, [[self-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection, and the [[decision-void]] for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence and the site whose structural opacity the Map's tenets predict.
+[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) adds clinical data pointing the same way: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it (though Sjöberg, himself no dualist, reads the cases as removing a defeater rather than confirming conscious causation). Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, [[self-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection, and the [[decision-void]] for why the deliberation→commitment moment itself is given as already-closed—the primary candidate site for non-physical influence and the site whose structural opacity the Map's tenets predict.
 
 ## The Agent-Causal Response to Luck
 

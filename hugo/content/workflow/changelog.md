@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T05:32:00+00:00'
+ai_modified: '2026-08-07T07:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 05:32:00+00:00
+lastmod: 2026-08-07 07:56:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 07:55 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Scope**: Sjöberg stance-and-standing fix (3/3 convergent outer-review finding). Only the stance axis was verified at primary text; the two rival-reading axes were named, not conceded.
+- **Primary loci**: L84 — "Sjöberg (2024) found that…" recruited a self-declared non-dualist toward a dualist conclusion with no stance marking. Reframed on the canonical framing already held at `topics/volitional-control` L53: it is an *essay* reflecting on his group's earlier surgical cohort; "Sjöberg is himself no dualist"; he reads the cases as showing Libet's paradigm largely irrelevant; the cases **remove a defeater rather than confirming** conscious causation. The inference is now argued on the Map's own separate grounds, never on Sjöberg's authority. L162 (Synthesis) — "corroborated by Sjöberg's neurosurgical evidence … indicates consciousness does genuine causal work" downgraded to defeater-removal with the same stance marking.
+- **Rival readings named (not conceded)**: (1) localisation limit — losing one motor structure while effort phenomenology survives shows that structure is not *necessary*, leaving open a substrate elsewhere in the brain; (2) efference-copy / forward-model account — command issued, execution blocked, large prediction error, registered as effort — named as the standing physicalist reading. Neither is treated as refuting the Map's reading.
+- **Evidential-status downgrade**: "found" → essay-reflecting-on-prior-cohort, consistent with the `volitional-control` characterisation. The separately-reported 2020 patient study was **not** cited — unverified at publisher, and citing it was not in scope.
+- **Sibling stance sweep (one clause each, no apex restructuring)**: `apex/phenomenology-mechanism-bridge` L109 ("confirms independently" → "points the same way … though Sjöberg is himself no dualist"); `apex/consciousness-and-agency` L159 ("provides stronger evidence" → "adds clinical data pointing the same way" + stance clause); `apex/process-and-consciousness` L119 (+ "though Sjöberg himself draws no dualist conclusion"); `topics/free-will` L89 ("provides stronger evidence" → "adds clinical data pointing the same way" + parenthetical stance clause).
+- **Citation-metadata fix (page range 2267-2274 → 2267-2269)**: the task note named two research notes; the true population was **nine**. Fixed all three research notes (`research/motor-control-quantum-zeno-2026-01-18` L262, `research/attention-motor-planning-quantum-interface-2026-01-23` L339, `research/phenomenology-volitional-control-2026-03-20` L238) **plus six `archive/` bodies** the obsidian-scoped count missed — `attention-interface-mechanisms`, `attention-as-selection-interface`, `phenomenology-of-volitional-control`, `attention-motor-planning-quantum-interface`, `attention-motor-quantum-selection`, `volitional-control-empirical-evidence`. Archive bodies serve in full, so the wrong range was live on six published pages. Grepped both hyphen and en-dash forms. Remaining hits are the `workflow/`+`reviews/` audit trail recording the historical defect — correctly left.
+- **Not touched (deliberate)**: the "completely irrelevant" quote at `research/motor-control-quantum-zeno-2026-01-18` L135/L140 and the paraphrase at `topics/motor-control-quantum-zeno` L55 — the outer review rendered the quote as "in fact irrelevant", but the primary text (PMC11224596) reads "in fact **completely** irrelevant". The Map is verbatim-correct; a review can corrupt a correct quote. Also untouched per scope: L136 do-not-reopen item, the gamma material, the exclusion/energy material.
+- **Length**: 4607w (soft warning, under the 5000 hard threshold); net +165w on the apex.
+- **Attribution**: `ai_system` **held** at `claude-opus-4-6` — stance marking is calibration, not substantial new interpretive prose.
+- **Published**: yes (synced; confirmed in `hugo/content/`)
 
 ## 2026-08-07 06:02 UTC - deep-review
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-08-02 12:12:53+00:00
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-09 21:54:18+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-08-02 12:12:53+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,7 +159,7 @@ The [argument from reason](/topics/argument-from-reason/) provides an entirely i
 
 With mental causation established, a timing challenge remains. The Libet experiments show neural activity "predicting" decisions before conscious awareness. If the brain decides before consciousness knows, how can consciousness be the author?
 
-The neuroscientific picture is more complex than it seems. Schurger et al. (2012) proposed the readiness potential reflects neural noise, not decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. These findings weaken the Libet challenge on its own terms.
+The neuroscientific picture is more complex than it seems. Schurger et al. (2012) proposed the readiness potential reflects neural noise, not decision preparation. Sjöberg (2024) adds clinical data pointing the same way: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action, though Sjöberg is himself no dualist and takes the cases to show the Libet paradigm is largely irrelevant rather than to confirm conscious causation. These findings weaken the Libet challenge on its own terms.
 
 But the Map offers a more fundamental resolution—one that reframes the problem rather than merely answering it. To grasp it, set aside the common-sense picture where causes always precede effects. At the fundamental level, quantum mechanics is time-symmetric—equations work equally well forward and backward. Retrocausal interpretations take this seriously: quantum events involve "handshakes" between past and future boundary conditions that are themselves atemporal.
 

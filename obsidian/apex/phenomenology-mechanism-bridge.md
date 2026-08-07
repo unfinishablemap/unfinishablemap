@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-07-29T12:15:54+00:00
+ai_modified: 2026-08-07T07:55:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -106,7 +106,7 @@ Brass and Haggard's (2007, 2008) "what, when, whether" model sharpens the gap fu
 
 The third level asks: what fills the selection gap? The Map's answer requires first removing what appeared to be strong evidence against it. The [[libet-experiments|Libet experiments]] seemed to show the brain decides before consciousness knows — the readiness potential begins ~550ms before movement while awareness of intention appears only ~200ms before — and for decades this anchored the claim that conscious will is illusory. The challenge has substantially dissolved: Mele argues the 200ms mark may register "an urge to flex that has already arisen" rather than a decision already made, and Braun, Wessler, and Friese's (2021) meta-analysis finds the RP-precedes-intention evidence "uncertain and based on only a small number of studies."
 
-Schurger's stochastic accumulator model (2012) reinterprets the readiness potential as an artefact of averaging neural noise: movement occurs when random fluctuations cross a threshold, and averaging many trials produces the RP's gradual ramp — the statistical shape of threshold-crossing events, not a decision preceding awareness. Sjöberg's 2024 review confirms independently that patients with the supplementary motor area resected — the very region generating the readiness potential — retain their sense of voluntary action. If the RP were the neural signature of volition, removing its source should impair the experience of willing. It does not.
+Schurger's stochastic accumulator model (2012) reinterprets the readiness potential as an artefact of averaging neural noise: movement occurs when random fluctuations cross a threshold, and averaging many trials produces the RP's gradual ramp — the statistical shape of threshold-crossing events, not a decision preceding awareness. Sjöberg's 2024 essay points the same way from clinical data — patients with the supplementary motor area resected, the very region generating the readiness potential, retain their sense of voluntary action — though Sjöberg is himself no dualist and reads the cases as removing a defeater rather than confirming conscious causation. If the RP were the neural signature of volition, removing its source should impair the experience of willing. It does not.
 
 With the Libet obstacle removed, the quantum opening becomes available. Quantum mechanics specifies probabilities for outcomes but not which outcome actualises. At these indeterminacies, physics provides necessary but not sufficient causes — [[causal-closure|causal closure]] fails at exactly these points. The Map proposes that [[consciousness-and-causal-powers|consciousness biases which outcome actualises]], selecting among energetically equivalent alternatives without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
 

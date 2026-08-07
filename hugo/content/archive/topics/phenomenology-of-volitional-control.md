@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 17:19:00+00:00
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Volitional Control
 archived: true
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 12:13:00+00:00
-lastmod: 2026-03-24 00:00:00+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-volitional-control/
 related_articles:
@@ -145,7 +145,7 @@ The Map speculates that the phenomenology of volitional control points toward a 
 9. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
 10. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14–21.
 11. Braun, M. N., Wessler, J., & Friese, M. (2021). A meta-analysis of Libet-style experiments. *Neuroscience & Biobehavioral Reviews*, 128, 182–198.
-12. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
+12. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2269.
 13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Epiphenomenalist Threat. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-epiphenomenalist-threat/
 14. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenology of Agency vs Passivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Attention as the Selection Interface
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 12:07:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 modified: *id001
 original_path: /topics/attention-interface-mechanisms/
 related_articles:
@@ -431,7 +431,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 12. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 
-13. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+13. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2269.
 
 14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 

@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-23
-date: '2026-07-31'
+date: '2026-08-07'
 draft: false
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 related_articles: []
 title: Research Notes - Attention and Motor Planning Quantum Interface
 ---
@@ -340,7 +340,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 9. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 
-10. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+10. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2269.
 
 11. Stapp, H.P. (1999). Attention, intention, and will in quantum physics. *Journal of Consciousness Studies*, 6(8-9), 143-164.
 

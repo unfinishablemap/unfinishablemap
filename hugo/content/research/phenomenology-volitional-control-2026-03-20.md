@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-20
-date: '2026-03-20'
+date: '2026-08-07'
 draft: false
-lastmod: 2026-03-20 00:00:00+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 related_articles: []
 title: Research Notes - Phenomenology of Volitional Control
 ---
@@ -239,5 +240,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 10. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 11. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 12. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3), 599–616.
-13. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
+13. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2269.
 14. Schurger, A., & Uithol, S. (2015). Nowhere and everywhere: The causal origin of voluntary action. *Review of Philosophy and Psychology*, 6(4), 761–778.

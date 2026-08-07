@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-08-07 07:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-05-26'
+date: '2026-08-07'
 draft: false
-lastmod: 2026-05-26 00:00:00+00:00
+lastmod: 2026-08-07 07:55:00+00:00
 related_articles: []
 target_section: concepts/motor-selection
 title: Research Notes - Motor Control and the Quantum Zeno Framework
@@ -263,7 +263,7 @@ Key integration opportunities:
 
 6. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
-7. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+7. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 
 8. Haggard, P. (2024). An intellectual history of the "Libet experiment": embedding the neuroscience of free will. *Paris Institute for Advanced Study Proceedings*.
 
