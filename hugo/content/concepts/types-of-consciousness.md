@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-07-10 06:24:35+00:00
+ai_modified: 2026-08-07 15:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
-lastmod: 2026-07-10 06:24:35+00:00
+lastmod: 2026-08-07 15:10:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -95,7 +95,7 @@ Beyond listing features, consciousness types can vary along structural dimension
 - *Passive witnessing* — experience that accompanies processing without steering it
 - *[Epiphenomenal](/concepts/epiphenomenalism/) awareness* — experience entirely decoupled from outputs
 
-**Bandwidth.** Human consciousness has famously limited bandwidth — estimates range from roughly 10 to 50 bits per second (Nørretranders 1998; Zheng et al. 2025), against billions of bits of unconscious processing. The figure is a bound on *serial behavioural throughput* — the rate at which conscious agents act and report — not a measured bandwidth of phenomenal experience itself, which may be far richer. Other types might have:
+**Bandwidth.** Human consciousness has famously limited bandwidth — estimates range from roughly 10 to 50 bits per second (Nørretranders 1998; Zheng & Meister 2025), against billions of bits of unconscious processing. The figure is a bound on *serial behavioural throughput* — the rate at which conscious agents act and report — not a measured bandwidth of phenomenal experience itself, which may be far richer. Other types might have:
 - *Narrow and deep* — intense experience of few items (human-like)
 - *Wide and shallow* — diffuse awareness of many items simultaneously
 - *Variable* — bandwidth that shifts dynamically

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-07 07:55:00+00:00
+ai_modified: 2026-08-07 15:10:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-08-07 07:55:00+00:00
+lastmod: 2026-08-07 15:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ With the Libet obstacle removed, the quantum opening becomes available. Quantum 
 
 Stapp's quantum Zeno framework provides a candidate mechanism specifically for motor control. Competing motor programmes exist as neural states that would naturally evolve and dissipate; by rapidly "observing" the desired programme — attending to the intended action — consciousness prevents it from decaying, giving it a sustained advantage in the threshold-crossing competition. The continuous effort of holding an intention against competing alternatives maps onto what repeated observation events should feel like.
 
-This closes the loop with Level Two: the brain generates competing plans in parallel, the basal ganglia set thresholds, and consciousness stabilises one plan through attentional observation, biasing the competition where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Nørretranders 1998) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
+This closes the loop with Level Two: the brain generates competing plans in parallel, the basal ganglia set thresholds, and consciousness stabilises one plan through attentional observation, biasing the competition where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Zheng & Meister 2025, sharpening the disparity Nørretranders 1998 popularised at ~16 bits/s) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 
 Honest gaps remain. Tegmark's calculations placed neural coherence times at femtoseconds — twelve orders of magnitude short of conscious timescales — while the most favourable revised estimates (Hagan et al. 2002) reach microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — roughly 1,000 microsecond-scale observations within a 300ms decision window would suffice — but no concrete model yet demonstrates such rates.
 
@@ -222,4 +222,5 @@ This synthesis traces a chain through:
 25. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 26. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 27. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+28. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008
 28. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/

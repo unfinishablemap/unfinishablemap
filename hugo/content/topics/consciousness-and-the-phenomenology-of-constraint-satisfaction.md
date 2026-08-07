@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-06-26 12:32:25+00:00
+ai_modified: 2026-08-07 15:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 12:32:25+00:00
-lastmod: 2026-06-26 12:32:25+00:00
+lastmod: 2026-08-07 15:10:00+00:00
 modified: *id001
 related_articles:
 - '[[bandwidth-of-consciousness]]'
@@ -54,7 +54,7 @@ The [phenomenology of cognitive capacity](/topics/phenomenology-of-cognitive-cap
 
 The Unfinishable Map's framework — particularly the [control-theoretic model of will](/concepts/control-theoretic-will/) — reframes constraint satisfaction as a domain where consciousness performs its core function: selection among options the brain prepares.
 
-In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate neural processing reaches ~10⁹ bits/second (Zheng & Meister, 2025), while consciousness operates at roughly 10 bits/second (Nørretranders, 1998), selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
+In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate neural processing reaches ~10⁹ bits/second while consciousness operates at roughly 10 bits/second (Zheng & Meister, 2025), sharpening the disparity Nørretranders (1998) popularised at ~16 bits/s of conscious throughput. Consciousness selects among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
 
 This is the phenomenological face of the Map's strictest reading of conscious agency: [selection-only mind-influence](/topics/selection-only-mind-influence/), where consciousness contributes nothing to the candidate set the brain physically prepares and only chooses which already-generated alternative becomes actual. That information-theoretic account derives a hard ceiling — each selection event transfers at most log₂(N) bits over a brain-prepared candidate set of size N. The felt narrowing of constraint satisfaction is what a high-N candidate set collapsing toward a single actualised solution feels like from the inside. What that account leaves open — by what evaluative criterion consciousness prefers one candidate over another — is named explicitly as the [selection-criterion problem](/concepts/selection-criterion-problem/); constraint phenomenology supplies a partial, first-person gloss on the criterion (personal significance, felt rightness) without pretending to resolve the primitive the framework still owes a story about.
 
@@ -133,7 +133,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 ## References
 
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. [Source for the ~10⁹ bits/second aggregate neural processing estimate and the conscious throughput of ~10 bits/second.]
-1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Popularises the user-illusion framing of the bandwidth disparity and reports conscious bandwidth at ~10–40 bits/second.]
+1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Popularises the user-illusion framing of the bandwidth disparity and reports conscious bandwidth at ~16–20 bits/second.]
 1. Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
 1. Dreyfus, H. L. (2002). Intelligence without representation — Merleau-Ponty's critique of mental representation: The relevance of phenomenology to scientific explanation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]

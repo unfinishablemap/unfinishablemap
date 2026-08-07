@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-17 07:25:16+00:00
+ai_modified: 2026-08-07 15:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:45:15+00:00
-lastmod: 2026-06-17 07:25:16+00:00
+lastmod: 2026-08-07 15:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Convergence arguments cannot establish mechanism. They establish correlation acr
 
 ### Negative Constraints
 
-We can learn about the interface by establishing what it *cannot* be. Conservation law analysis constrains the interface to operate without energy injection. Decoherence timescale analysis constrains the physical sites where quantum effects could persist long enough for selection to operate—and these constraints are severe, with Tegmark's calculations suggesting decoherence timescales of ~10⁻¹³ seconds for neural superpositions, limiting viable sites to those with special protection mechanisms. The bandwidth constraint on conscious processing (estimated at roughly 10 bits/second by Nørretranders and others) constrains the throughput of any interface mechanism.
+We can learn about the interface by establishing what it *cannot* be. Conservation law analysis constrains the interface to operate without energy injection. Decoherence timescale analysis constrains the physical sites where quantum effects could persist long enough for selection to operate—and these constraints are severe, with Tegmark's calculations suggesting decoherence timescales of ~10⁻¹³ seconds for neural superpositions, limiting viable sites to those with special protection mechanisms. The bandwidth constraint on conscious processing (measured at roughly 10 bits/second by Zheng and Meister, sharpening the coarser figures Nørretranders and others popularised) constrains the throughput of any interface mechanism.
 
 Negative constraints are epistemically powerful because they hold regardless of the specific mechanism. Even if we never discover the positive account of how consciousness biases quantum outcomes, we can progressively tighten the space of possibility. This is the epistemological strategy the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet embodies: specifying the *smallest possible* non-physical influence constrains the interface from the physical side without requiring full specification from the phenomenal side.
 
@@ -155,3 +155,4 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008

@@ -4,7 +4,7 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-26T23:18:16+00:00
+ai_modified: 2026-08-07T15:10:00+00:00
 last_deep_review: 2026-07-18T22:06:30+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ Three features make content-specificity philosophically significant:
 
 **Qualifier sensitivity.** The physical outcome tracks not just the broad category of belief but its specific qualifiers. Believing a pill is a *strong* painkiller produces greater analgesia than believing it is *mild* (Pollo et al., 2001). The granularity of the mapping—where finer distinctions in conscious content produce correspondingly finer distinctions in physiological response—is what would be expected if content were causally operative and what would be remarkable if it were coincidental.
 
-**Bandwidth constraint.** The [[bandwidth-of-consciousness|resolution-bandwidth interface]] adds an architectural dimension. Consciousness operates at roughly ten bits per second (Nørretranders, 1998)—a narrow channel that can make only a few selections per second among prepared alternatives. Content-specificity shows that these few selections are *semantically loaded*: each carries meaning that determines which of the brain's prepared options actualises. The bandwidth constraint limits the *quantity* of conscious intervention; content-specificity determines its *quality*. Together they define a system that exercises sparse but meaningful causal influence. Any bottleneck architecture would exhibit sparse selection, but the Map interprets the combination of sparsity and semantic loading as fitting the pattern its [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet predicts: a few decisive interventions at points of physical indeterminacy.
+**Bandwidth constraint.** The [[bandwidth-of-consciousness|resolution-bandwidth interface]] adds an architectural dimension. Consciousness operates at roughly ten bits per second (Zheng & Meister, 2025, sharpening the disparity Nørretranders, 1998, popularised at ~16 bits/s)—a narrow channel that can make only a few selections per second among prepared alternatives. Content-specificity shows that these few selections are *semantically loaded*: each carries meaning that determines which of the brain's prepared options actualises. The bandwidth constraint limits the *quantity* of conscious intervention; content-specificity determines its *quality*. Together they define a system that exercises sparse but meaningful causal influence. Any bottleneck architecture would exhibit sparse selection, but the Map interprets the combination of sparsity and semantic loading as fitting the pattern its [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet predicts: a few decisive interventions at points of physical indeterminacy.
 
 ## Complications
 
@@ -115,3 +115,4 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 1. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424-3433.e8.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-02). Choking Under Pressure as Evidence for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/choking-phenomenon-mental-causation/
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008
