@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-07 06:02:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-15
-date: '2026-07-15'
+date: '2026-08-07'
 draft: false
-lastmod: 2026-07-15 00:00:00+00:00
+lastmod: 2026-08-07 06:02:30+00:00
 related_articles: []
 title: Research Notes - Consciousness and the Major Evolutionary Transitions
 ---
@@ -114,7 +115,7 @@ The Major Transitions in Evolution (MTE) framework, canonized by Maynard Smith &
 - **Type**: Book + journal primer
 - **Key points**:
   - Proposes a **transition marker** for minimal/basic consciousness: **Unlimited Associative Learning (UAL)** — the capacity to assign motivational value to novel compound stimuli/actions and use them as the basis for further learning.
-  - UAL implies a *generous distribution* of consciousness (all vertebrates, many arthropods, some cephalopods) and dates the transition to ~the **Cambrian explosion** (~540 Mya), which they argue consciousness helped *drive*.
+  - UAL implies a *generous distribution* of consciousness — verbatim in Birch, Ginsburg & Jablonka 2020: "UAL is present in most vertebrates, some cephalopod molluscs (the coleoid cephalopods: octopods, squid and cuttlefish) and some arthropods (including honey bees and fruit flies)"; note *some* arthropods, not *many*, and *most* vertebrates, not *all* — and dates the transition to ~the **Cambrian explosion** (~540 Mya), which they argue consciousness helped *drive*.
   - Explicitly nested in a **transitions** scheme: living → living-conscious → living-conscious-rational (the last marked by symbolic language, echoing Aristotle's nutritive/sensitive/rational souls).
 - **Tenet alignment**: **Partial conflict / crucial contrast.** This is the closest existing work to the Map's thesis, and it is a *functionalist/learning-based* reading. UAL is a **behavioural marker** — a proxy detectable from the outside. The Map's dualism holds that a learning-capacity marker cannot *constitute* phenomenal experience (that is exactly the explanatory gap). So Ginsburg & Jablonka pre-empt the *label* "consciousness as a major transition" but not the Map's *content*: they operationalize the transition informationally, which (on the Map's reading) is what a phenomenality-blind framework would be forced to do.
 

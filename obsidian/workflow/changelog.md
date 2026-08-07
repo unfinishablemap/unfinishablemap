@@ -5,6 +5,28 @@ ai_modified: '2026-08-07T05:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-07 06:02 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]] (+ upstream research note)
+- **Word count**: 2471 → 2492 (+21)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 5
+- **Output**: [[reviews/deep-review-2026-08-07-consciousness-and-the-major-evolutionary-transitions]]
+
+**A clean metadata ledger was the reason to switch lenses, not to no-op.** The 2026-07-15 review web-verified all 14 cites at the publisher and found them `real-correct`. This pass checked what the sources *say* instead of whether they exist, and every defect it found sat inside a cite that ledger had certified clean.
+
+- **Quasi-quotation with no source** — "the higher-level individual becomes, *in Michod's phrase*, a new focus of adaptation". Absent from both cited works: Michod 2007 full text (NCBI NBK254316) contains "focus" exactly twice, neither being this (positive control Volvox ×4 passed); the published Michod & Nedelcu 2003 abstract lacks it too. The phrase traces to an uncited **seminar abstract** ("a new focus level of complex adaptation"). The prior review had passed it as "faithful paraphrase" — but "in Michod's phrase" claims verbatim wording. Replaced with Michod's real words, confirmed at two loci in the cited 2007 paper: "the group becomes indivisible and, hence, an individual."
+- **Quantifier inflation on an opponent's claim** — the article had UAL distributing consciousness across "**many** arthropods"; Birch, Ginsburg & Jablonka 2020 say verbatim "**some** arthropods (including honey bees and fruit flies)", and "**most** vertebrates" where the article dropped the qualifier. Arthropoda is the largest animal phylum and the source names two genera, hedging even those. Corrected. The article's "some cephalopods" was **correct** and was left alone — the source does say "some cephalopod molluscs".
+- **Second live locus, upstream** — the origin was the research note L113, which read "**all** vertebrates, many arthropods". Fixed there with the source sentence quoted verbatim in place so it cannot re-seed the drift.
+- **Opponent over-strengthened** — "Godfrey-Smith **settles the matter**" became "disposes of the dualist option in a bracketing clause". He writes the hedged "*it seems that*…" and calls the paper "very much an exploratory one". Premise-strength drift running *against* the opponent; the article's real charge (the bracket is stipulated, not argued) is untouched and correct.
+- **Self-contradiction removed** — the 2026-08-04 refine-draft left "enumerates … **and stops**" adjacent to "is **nonetheless** asked".
+- **Jablonka & Ginsburg 2025 scope restored** — "types, targets and regimes of natural and **sexual-social** selection" (was "targets and regimes of natural and social").
+- **Verified, not changed**: the Godfrey-Smith 2016 quote is verbatim at the author's own PDF (single exact grep hit, positive control ×7); Nature 1995 author order; the eight-transition list item-by-item; all four Szathmáry 2015 claims (sex removed, plastids promoted, Queller imported, MLS foregrounded); both Map self-cite URLs live (HTTP 200).
+- **Aggregator trap logged** — Crossref *and* OpenAlex both report Michod & Nedelcu 2003 as **solo Michod**; the Oxford Academic byline lists both. The earlier solo→co-author correction was right. Recorded in Stability Notes so a future pass does not "fix" it backwards.
+- **Engagement classification** (editor-internal): Ginsburg & Jablonka — Mixed, Mode Two → Mode Three, unchanged and honest. Godfrey-Smith 2016 — Mode Two: an unsupported foundational move identified from the author's own text. No label leakage in prose.
+
 ## 2026-08-07 05:45 UTC - refine-draft
 
 - **Status**: Success
