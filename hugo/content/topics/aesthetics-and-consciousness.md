@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-07 18:40:00+00:00
+ai_modified: 2026-08-07 19:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:45:48+00:00
-lastmod: 2026-08-07 18:40:00+00:00
+lastmod: 2026-08-07 19:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The five are not five independent arguments. The [audit below](#the-convergence-
 
 ## The Pervasiveness of Aesthetic Quality
 
-Aesthetic experience suffuses ordinary consciousness far beyond art galleries. Colours have aesthetic quality independent of what they represent—a particular blue is *cool* or *warm*, *deep* or *shallow* (Byrne & Hilbert, 2003, show that colour science fully specifies the physical properties without capturing the aesthetic ones). Spatial experience carries felt character—a vaulted ceiling creates uplift irreducible to cubic metres. Musical rhythm creates tension and release that are intrinsically aesthetic. Ideas themselves have aesthetic character: a mathematical proof can be *elegant* or *clunky*, an argument *beautiful* or *ugly* independent of its validity. [Emotions](/topics/emotion-and-dualism/) are not merely valenced but aesthetically textured—joy can be *radiant* or *quiet*, sadness *poignant* or *heavy*.
+Aesthetic experience suffuses ordinary consciousness far beyond art galleries. Colours have aesthetic quality independent of what they represent—a particular blue is *cool* or *warm*, *deep* or *shallow*. Byrne and Hilbert (2003) defend the strongest physicalist ontology of colour on offer: colours *are* physical properties, specifically types of surface reflectance. Grant them that in full and the blue's coolness is still not among the properties a reflectance specification fixes. That residue is the Map's inference rather than theirs—their target is the reality of colour, and they say nothing about aesthetic character either way. Spatial experience carries felt character—a vaulted ceiling creates uplift irreducible to cubic metres. Musical rhythm creates tension and release that are intrinsically aesthetic. Ideas themselves have aesthetic character: a mathematical proof can be *elegant* or *clunky*, an argument *beautiful* or *ugly* independent of its validity. [Emotions](/topics/emotion-and-dualism/) are not merely valenced but aesthetically textured—joy can be *radiant* or *quiet*, sadness *poignant* or *heavy*.
 
 This pervasiveness matters because it means aesthetic quality is not a special-purpose capacity bolted onto consciousness but a dimension of experience as such. Wherever consciousness operates—sensory perception, abstract thought, emotional life—aesthetic quality follows.
 

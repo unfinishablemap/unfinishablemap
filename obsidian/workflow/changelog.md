@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T19:01:31+00:00'
+ai_modified: '2026-08-07T19:25:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 19:25 UTC - refine-draft (Byrne & Hilbert 2003 make no aesthetic claim — full text retrieved, 0 hits across the whole aesthetic vocabulary; de-attributed the residue step)
+
+- **Status**: Success
+- **File**: [[topics/aesthetics-and-consciousness]]
+- **Locus**: L92, single live locus (scope check below)
+- **Lens**: citation-framing accuracy — the cite is real, the bibliographic entry (BBS 26(1):3–21) is correct, and the framing was wrong.
+- **Source check (the whole task)**: Retrieved the full BBS target article from Byrne's MIT page (`web.mit.edu/abyrne/www/ColorRealism.html`, HTTP 200, 261KB → **22,298 words** of plain text). Retrieval verified complete end-to-end: opens with the title block and abstract ("*We defend the view that physical objects (for instance, tomatoes, radishes, and rubies) are colored, and that colors are physical properties, specifically types of reflectance*") and runs through the close of the alphabetical references (Zeki 1990). Positive retrieval established before any absence was recorded.
+- **Term search over the full text**: `aesthetic` 0, `esthetic` 0, `beaut*` 0, `ugl*` 0, `sublime` 0, `elegan*` 0, `pleas*` 0, `warm` 0, `cool` 0. Three near-misses inspected in context and all false: `artistic` appears only inside a reference title (S. Davis, *Color perception: Philosophical, psychological, artistic, and computational perspectives*), `taste` only inside the quoted Galileo passage on secondary qualities (gustatory, not aesthetic), `evaluat` only in the Maloney 1986 reference title. **I did not find any aesthetic claim in this paper.**
+- **Verdict — Outcome 2 (de-attribute), with the credit re-framed rather than dropped.** L92 read "*Byrne & Hilbert, 2003, show that colour science fully specifies the physical properties without capturing the aesthetic ones*". They argue no such thing: their target article defends colour physicalism against the eliminativist/subjectivist textbook line, and the "without capturing X" clause credited them with a residue claim about a property class they never mention — a claim pointing in the Map's favour that they never made.
+- **Fix**: the parenthetical is replaced by prose that credits Byrne and Hilbert with the thesis they actually defend (colours *are* physical properties, types of surface reflectance) and marks the aesthetic-residue step explicitly as the Map's own inference — "*their target is the reality of colour, and they say nothing about aesthetic character either way*". Granting the opponent their strongest ontology and locating the residue afterwards is a better argument than the misattribution was, so no argumentative ground is lost.
+- **Reasoning-mode**: engagement with Byrne and Hilbert = Mode Three (framework-boundary marking). The Map now concedes their thesis in full and notes only that it does not reach aesthetic character; no refutation of colour physicalism is claimed or needed. No label leakage into article prose.
+- **Direction note**: this is the mirror of the usual over-concession failure — an over-claim running *for* the Map had been ratified through a coalesce and a deep-review without the source being opened.
+- **Scope checks (run, not assumed)**: `grep -rn "Byrne" | grep -i hilbert` across `obsidian/`, `archive/` and `hugo/content/` returns 8 hits. One live prose locus (the one fixed) + 3 reference-list entries + 1 research-note aside. The two other substantive prose uses — `archive/topics/aesthetic-dimension-of-consciousness.md` L136 and `archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md` L66 — cite the pair for colour-space structural constraints on inversion, which the source **supports**: §3.2 "The phenomenal structure of the colors" develops hue-similarity and opponent structure (`unique hue` ×3, `binary hue` ×6, `unique green` ×23) and §3.5 treats the inverted spectrum (×7). Those two are sound and were left untouched. (Minor, not acted on: the descriptive gloss "warm/cool" in that archive phrasing returns 0 hits in the source, but it is attributed there to "some philosophers", not to Byrne & Hilbert.) `concepts/first-order-representationalism.md` L98 describes them accurately as colour physicalists.
+- **Not re-opened**: the Revonsuo fix at L128, per instruction — left exactly as committed.
+- **Length**: 3169/3000 raw incl. apparatus; decomposed prose ~2700/3000. Net +47 words against ~347 of headroom.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — re-framing a citation is correction, not authoring. `ai_contribution` unchanged at 100.
+- **Published**: yes
 
 ## 2026-08-07 19:01 UTC - deep-review (Tracy answers the gaps worry he is cited as conceding; Saunders' label objection is scope-independent and was booked as escaped)
 
