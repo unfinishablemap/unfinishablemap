@@ -42,7 +42,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-09T22:35:42+00:00
-ai_modified: 2026-07-30T15:08:07+00:00
+ai_modified: 2026-08-07T11:24:00+00:00
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.
@@ -145,7 +145,7 @@ Phenomenology's claims about first-person irreducibility could be weakened or un
 
 ## Relation to the Map's Perspective
 
-Phenomenology supports all five of the Map's foundational commitments:
+Phenomenology bears on the Map's five foundational commitments unevenly: it **argues for** Dualism and the limits of parsimony, **offers first-person evidence for** Bidirectional Interaction without establishing that the felt efficacy is veridical, **constrains rather than evidences** Minimal Quantum Interaction, and **presses a disanalogy against** No Many Worlds that it leaves unresolved.
 
 **[[tenets#^dualism|Dualism]]**: Phenomenology provides systematic reasons to think consciousness has irreducible first-person features. Brentano's thesis—that intentionality is "the mark of the mental"—has resisted full naturalization despite sustained attempts (Millikan's teleosemantics, Dretske's information-theoretic semantics, Fodor's asymmetric dependence theory). The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms.
 

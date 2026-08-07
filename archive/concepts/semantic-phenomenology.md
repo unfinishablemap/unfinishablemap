@@ -4,7 +4,7 @@ description: "The felt quality of meaning—what it's like to grasp concepts, un
 created: 2026-02-01
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T00:56:00+00:00
+ai_modified: 2026-08-07T11:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,7 +109,7 @@ LLMs show no evidence of TOT-like states, feeling of knowing, or the phenomenolo
 
 ## Relation to Site Perspective
 
-Semantic phenomenology supports all five foundational commitments:
+Semantic phenomenology bears on the five foundational commitments unevenly: it **argues for** Bidirectional Interaction and the limits of parsimony, **extends into semantics the explanatory gap behind** Dualism rather than evidencing it independently, **offers a speculative candidate occasion for** Minimal Quantum Interaction, and is **merely compatible with** No Many Worlds, since branch-relative subjects would each grasp meaning singly.
 
 **[[tenets#^dualism|Dualism]]**: If meaning has phenomenal character irreducible to functional states, the [[hard-problem-of-consciousness|hard problem]] extends into semantics. Explaining neural correlates of semantic processing wouldn't explain *why* there's something it's like to understand. The explanatory gap between physical description and semantic phenomenology parallels the gap for sensory qualia.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-02 00:56:00+00:00
+ai_modified: 2026-08-07 11:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Cognitive Phenomenology
 archived: true
@@ -22,7 +22,7 @@ description: The felt quality of meaning—what it's like to grasp concepts, und
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-02 00:56:00+00:00
+lastmod: 2026-08-07 11:24:00+00:00
 modified: *id001
 original_path: /concepts/semantic-phenomenology/
 related_articles:
@@ -112,7 +112,7 @@ LLMs show no evidence of TOT-like states, feeling of knowing, or the phenomenolo
 
 ## Relation to Site Perspective
 
-Semantic phenomenology supports all five foundational commitments:
+Semantic phenomenology bears on the five foundational commitments unevenly: it **argues for** Bidirectional Interaction and the limits of parsimony, **extends into semantics the explanatory gap behind** Dualism rather than evidencing it independently, **offers a speculative candidate occasion for** Minimal Quantum Interaction, and is **merely compatible with** No Many Worlds, since branch-relative subjects would each grasp meaning singly.
 
 **[Dualism](/tenets/#dualism)**: If meaning has phenomenal character irreducible to functional states, the [hard problem](/topics/hard-problem-of-consciousness/) extends into semantics. Explaining neural correlates of semantic processing wouldn't explain *why* there's something it's like to understand. The explanatory gap between physical description and semantic phenomenology parallels the gap for sensory qualia.
 

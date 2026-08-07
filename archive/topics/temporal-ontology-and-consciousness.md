@@ -4,7 +4,7 @@ description: "Your theory of time shapes your theory of mind. Deep affinities be
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-27T22:45:00+00:00
+ai_modified: 2026-08-07T11:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The affinity also runs in the other direction. If consciousness is irreducible a
 
 ## Relation to Site Perspective
 
-This article's argument—that temporal ontology and consciousness theories are deeply entangled, forming natural pairings—supports all five of the Map's [[tenets]]:
+This article's argument—that temporal ontology and consciousness theories are deeply entangled, forming natural pairings—bears unevenly on the Map's five [[tenets]]: it **argues for** the limits of parsimony, **draws consequences from** Dualism rather than evidencing it, **offers a candidate occasion for** Minimal Quantum Interaction, **provides a hospitable metaphysics for** Bidirectional Interaction, and **coheres with** No Many Worlds without entailing it.
 
 **[[tenets#^dualism|Dualism]]**: Taking temporal phenomenology seriously (as dualism does) calls for a temporal ontology that makes experience veridical. The growing block provides this, while eternalism pressures consciousness theories toward illusionism or functionalism—positions in tension with irreducible phenomenal experience.
 
