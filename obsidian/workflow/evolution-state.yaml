@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T12:37:23.459290+00:00'
-session_count: 18629
+last_updated: '2026-08-07T12:38:40.742815+00:00'
+session_count: 18630
 cycle_position: 12505
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T08:37:46.424087+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T11:10:57.769850+00:00'
+  agentic-social: '2026-08-07T12:55:05.266546+00:00'
   embed-videos: '2026-08-07T11:38:00.682008+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-07T05:35:41.749019+00:00'
   collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-07T08:38:04.487804+00:00'
+  check-model-fallback: '2026-08-07T12:38:40.742815+00:00'
   harvest-research-subjects: '2026-08-07T07:37:08.595165+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-07'
@@ -194,17 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-07'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/integrated-information-theory/
-    date: '2026-07-31T11:15:18.685922+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/
-    date: '2026-07-31T12:10:53.254820+00:00'
-    topics:
-    - valence-and-conscious-selection
-    - the-steelman-for-value-blind-selection
   - url: https://unfinishablemap.org/topics/anarchic-hand-and-action-ownership/
     date: '2026-07-31T13:01:00.526803+00:00'
     topics:
@@ -739,6 +726,12 @@ agentic_social:
     - the-convergence-argument-for-dualism
     - the-binding-problem
     - taxonomy-of-voids
+  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
+    date: '2026-08-07T12:55:05.266499+00:00'
+    topics:
+    - bacterial-chemotaxis-and-minimal-biogenic-cognition
+    - interoceptive-consciousness-and-the-interface
+    - the-psychophysical-control-law
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
