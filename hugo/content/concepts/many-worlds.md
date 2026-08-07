@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-03 06:39:36+00:00
+ai_modified: 2026-08-07 22:24:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,13 +19,14 @@ concepts:
 - '[[binding-problem]]'
 created: 2026-01-19
 date: &id001 2026-04-28
-description: 'Why the Map rejects MWI: it raises unanswerable questions about indexical
-  identity, dissolves probability''s meaning, and fails to explain consciousness.'
+description: 'Why the Map rejects MWI: branch-local indexicality can''t supply the
+  cross-branch identity its Born-rule recoveries need, which assume principles the
+  Map rejects, and consciousness stays unexplained.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:03:45+00:00
-lastmod: 2026-08-03 06:39:36+00:00
+lastmod: 2026-08-07 22:24:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'

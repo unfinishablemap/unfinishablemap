@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-04 11:01:37+00:00
+ai_modified: 2026-08-07 22:24:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ created: 2026-01-14
 date: &id001 2026-04-17
 description: Split-brain surgery, anaesthesia, and dissociation each fracture conscious
   expression—but the evidence suggests what breaks is the physical interface, not
-  consciousness itself. Unity proves remarkably resilient.
+  consciousness itself. Unity of agency survives; unity of experience remains undetermined.
 draft: false
 embedded_videos:
 - embedded: 2026-05-05 15:25:16.877598+00:00
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:12:20+00:00
-lastmod: 2026-08-04 11:01:37+00:00
+lastmod: 2026-08-07 22:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

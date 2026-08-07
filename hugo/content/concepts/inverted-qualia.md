@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-28 10:20:39+00:00
+ai_modified: 2026-08-07 22:24:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -21,8 +21,9 @@ concepts:
 - '[[organizational-invariance]]'
 created: 2026-01-15
 date: &id001 2026-04-18
-description: What if your red looks like my green? Functionally identical beings could
-  differ in experience—proving function doesn't fix phenomenology.
+description: What if your red looks like my green? Inversion is conceivable, so function
+  doesn't conceptually fix phenomenology—but the Map treats strict behavioural inversion
+  as physically unrealised.
 draft: false
 embedded_videos:
 - embedded: 2026-07-20 18:45:13.773287+00:00
@@ -32,7 +33,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 10:13:31+00:00
-lastmod: 2026-07-28 10:20:39+00:00
+lastmod: 2026-08-07 22:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

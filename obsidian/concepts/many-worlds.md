@@ -1,10 +1,10 @@
 ---
 title: "The Many-Worlds Interpretation"
-description: "Why the Map rejects MWI: it raises unanswerable questions about indexical identity, dissolves probability's meaning, and fails to explain consciousness."
+description: "Why the Map rejects MWI: branch-local indexicality can't supply the cross-branch identity its Born-rule recoveries need, which assume principles the Map rejects, and consciousness stays unexplained."
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-08-03T06:39:36+00:00
+ai_modified: 2026-08-07T22:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

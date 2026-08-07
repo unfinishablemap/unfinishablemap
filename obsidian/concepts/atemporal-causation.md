@@ -1,10 +1,10 @@
 ---
 title: "Atemporal Causation"
-description: "Causation outside temporal sequence — consciousness selects which quantum history becomes actual, dissolving the Libet timing puzzle without violating physical law."
+description: "Causation outside temporal sequence — consciousness selects which quantum history becomes actual, dissolving the Libet timing puzzle. Non-violation of physical law is a design constraint, not a demonstrated result."
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-02T23:15:00+00:00
+ai_modified: 2026-08-07T22:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

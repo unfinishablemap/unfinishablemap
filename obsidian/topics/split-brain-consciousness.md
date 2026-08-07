@@ -1,10 +1,10 @@
 ---
 title: "When Consciousness Fragments"
-description: "Split-brain surgery, anaesthesia, and dissociation each fracture conscious expression—but the evidence suggests what breaks is the physical interface, not consciousness itself. Unity proves remarkably resilient."
+description: "Split-brain surgery, anaesthesia, and dissociation each fracture conscious expression—but the evidence suggests what breaks is the physical interface, not consciousness itself. Unity of agency survives; unity of experience remains undetermined."
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-08-04T11:01:37+00:00
+ai_modified: 2026-08-07T22:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

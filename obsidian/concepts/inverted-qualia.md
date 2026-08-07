@@ -1,10 +1,10 @@
 ---
 title: "Inverted Qualia"
-description: "What if your red looks like my green? Functionally identical beings could differ in experience—proving function doesn't fix phenomenology."
+description: "What if your red looks like my green? Inversion is conceivable, so function doesn't conceptually fix phenomenology—but the Map treats strict behavioural inversion as physically unrealised."
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-07-28T10:20:39+00:00
+ai_modified: 2026-08-07T22:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
