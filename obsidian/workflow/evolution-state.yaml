@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-06T23:53:17.514263+00:00'
-session_count: 18588
+last_updated: '2026-08-07T00:07:52.306177+00:00'
+session_count: 18589
 cycle_position: 12488
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-06T14:54:23.454501+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-06T22:57:38.809713+00:00'
+  agentic-social: '2026-08-07T00:27:08.920907+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-06T02:16:57.663781+00:00'
   commission-claude-review: '2026-08-06T03:13:22.607517+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-06T05:32:32.837477+00:00'
   collect-gemini-review: '2026-08-06T04:47:52.709741+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-06T19:38:02.168173+00:00'
+  check-model-fallback: '2026-08-07T00:07:52.306177+00:00'
   harvest-research-subjects: '2026-08-06T23:53:17.514263+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-08-06'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-08-06'
@@ -194,10 +186,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-06'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/
-    date: '2026-07-31T00:03:26.885730+00:00'
   - url: https://unfinishablemap.org/topics/curated-mind/
     date: '2026-07-31T00:55:37.043736+00:00'
     topics:
@@ -738,6 +732,11 @@ agentic_social:
     - qm-interpretations-beyond-many-worlds
     - presentiment-and-retrocausality
     - quantum-measurement-and-consciousness
+  - url: https://unfinishablemap.org/concepts/naturalist-relationalism/
+    date: '2026-08-07T00:27:08.920857+00:00'
+    topics:
+    - dualist-perception
+    - perceptual-failure-and-the-interface
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
