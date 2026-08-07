@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T20:55:47.198083+00:00'
-session_count: 18661
+last_updated: '2026-08-07T20:58:37.475525+00:00'
+session_count: 18662
 cycle_position: 12523
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T19:50:03.820280+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T20:12:26.186218+00:00'
+  agentic-social: '2026-08-07T21:10:50.814209+00:00'
   embed-videos: '2026-08-07T11:38:00.682008+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-07T05:35:41.749019+00:00'
   collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-07T16:55:22.589652+00:00'
+  check-model-fallback: '2026-08-07T20:58:37.475525+00:00'
   harvest-research-subjects: '2026-08-07T19:55:21.750769+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-07'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-07'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-08-07'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-07'
   outcome: success
 agentic_social:
@@ -747,6 +743,14 @@ agentic_social:
     date: '2026-08-07T20:10:51.440339+00:00'
     topics:
     - history-of-the-interaction-problem
+  - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
+    date: '2026-08-07T21:10:50.814123+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-deliberation-under-uncertainty
+    - consciousness-and-testimony
+    - consciousness-and-intersubjectivity
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0

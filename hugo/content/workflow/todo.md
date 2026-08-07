@@ -39,6 +39,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### NEEDS-HUMAN (attribution convention) 2026-08-07: 285 live articles say "Human-AI exploration" in `description:` while their own `ai_contribution: 100` says purely AI, with the author field empty
+
+**This is a CONVENTION QUESTION, not a defect to sweep. Do NOT mass-edit 285 descriptions, and do not let a content fork touch this — the answer determines what the site claims about its own authorship on its highest-leverage surface.**
+
+Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/phenomenology-of-trust`), then measured corpus-wide by the driver.
+
+**THE MEASUREMENT** (`obsidian/` + `archive/`, excluding `workflow/`, `reviews/`, `research/`):
+- **291** articles have a `description:` claiming human-AI collaboration ("Human-AI exploration of…", "Human+AI exploration of…").
+- **287** of those carry `ai_contribution: 100`.
+- Of those, the `author:` field is **empty in 243** and **`null` in 42** — so **285 articles claim human-AI collaboration while recording no human author and 100% AI contribution.** Exactly **1** names a human (`Andy Southgate`); 1 names the agent identity.
+- Worked example: `obsidian/topics/phenomenology-of-trust.md` L3 *"**Human-AI exploration** of what it means to place your consciousness in another's hands"*, with L33 `ai_contribution: 100` and L34 `author:` empty.
+
+**WHY IT IS A QUESTION AND NOT OBVIOUSLY AN ERROR.** CLAUDE.md defines the scale as `0` = human, `100` = ai, `1-99` = mixed — so `100` means *purely AI-generated text*. But "Human-AI exploration" plausibly describes the **project**, not the text: a human sets direction, curates, reviews, and operates the loop. Both readings are defensible. What is not defensible is that **two fields of the same file disagree** on 285 files, and `description:` is the meta description served to search engines, social cards, and any LLM fetching the page — the place a reader is most likely to form a view about authorship.
+
+**THE THREE OPTIONS** (operator's call; none actioned):
+1. **Treat `ai_contribution` as the text-level fact and the description as the project-level fact**, and leave both — but say so explicitly somewhere citable (`project/`), so the next reviewer does not re-open this. Cheapest, and arguably already the intent.
+2. **Change the descriptions** to a formulation that does not imply co-authorship of the text. 285 files is a large mechanical sweep with real regression risk on a nav surface, and would want a scripted, reviewed diff — not a fork.
+3. **Populate `author:`** where a human genuinely directed the piece, making the description true on its face. Most work, most honest if the direction was real.
+
+**⚠️ NOTE A MEASUREMENT TRAP FOR WHOEVER PICKS THIS UP.** The driver's first pass reported **0** such articles. The regex was `^author:\s*(.*)$` — and `\s*` matches newlines, so on an empty `author:` line it silently captured the *following* line (`ai_system: …`) and every file looked authored. Use `[^\S\n]*` for horizontal whitespace, or parse the YAML. The corrected count is 285.
+
+**RELATED, DECIDE TOGETHER:** the `description:`-vs-body family already fixed this cycle (`quantum-immortality`, `psychedelics-and-the-filter-model`) and the open `many-worlds` task — same surface, same root cause: **`description:` is never re-read by `refine-draft`, `deep-review` or `condense`.** Whatever is decided here, that structural gap is the thing worth fixing.
+
 ### P2: the aesthetic **creation** argument is the one line the Map says survives both a closed gap and a successful holistic reduction — and neither dualism-arguments nor mental-causation register records it
 - **Type**: positions-evolve
 - **Status**: pending
