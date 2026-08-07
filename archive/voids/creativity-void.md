@@ -4,7 +4,7 @@ description: "Where do novel ideas come from before they arrive in consciousness
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 last_deep_review: 2026-03-05T09:06:00+00:00
 draft: false
 archived: true
@@ -169,5 +169,5 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the haecceity of
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 1. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity—the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
-1. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
+1. Bartoli, E. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3425.
 1. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/

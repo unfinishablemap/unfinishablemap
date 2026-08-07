@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-08-07 09:45:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Imagination and Creativity Void
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-05 09:06:00+00:00
-lastmod: 2026-03-23 12:23:00+00:00
+lastmod: 2026-08-07 09:45:30+00:00
 modified: *id001
 original_path: /voids/creativity-void/
 related_articles:
@@ -172,5 +172,5 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 1. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity—the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
-1. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
+1. Bartoli, E. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3425.
 1. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/

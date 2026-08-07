@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,6 +212,6 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 16. Dawes, A.J. et al. (2020). "A Cognitive Profile of Multi-Sensory Imagery, Memory and Dreaming in Aphantasia." *Scientific Reports*, 10(1), 10022.
 17. Kounios, J. & Beeman, M. (2009). "The Aha! Moment: The Cognitive Neuroscience of Insight." *Current Directions in Psychological Science*, 18(4), 210-216.
 18. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity---the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
-19. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
+19. Bartoli, E. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3425.
 20. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
 21. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/

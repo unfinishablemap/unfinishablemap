@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-05 04:24:00+00:00
+ai_modified: 2026-08-07 09:45:30+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Creativity, Consciousness, and Novel Thought
 archived: true
@@ -23,7 +23,7 @@ description: How consciousness contributes to creativity through quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-05 04:24:00+00:00
+lastmod: 2026-08-07 09:45:30+00:00
 modified: *id001
 original_path: /topics/consciousness-and-creativity-mechanisms/
 related_articles:
@@ -52,7 +52,7 @@ The [quantum selection framework](/concepts/consciousness-selecting-neural-patte
 
 For creativity, this mechanism suggests that the "aha!" moment—the gamma spike accompanying insight—may mark where consciousness catches and stabilises a prepared solution. The solution existed as one possibility among superposed alternatives; attention selected it into actuality.
 
-**The timing evidence:** Before conscious insight, the brain shows specific preparation. Alpha bursts over right visual cortex reduce distraction. Gamma activity marks the emerging solution. Remarkably, the brain "knows" 8 seconds before conscious awareness whether a solution will come through insight or analysis. This suggests that selection operates on prepared options—consciousness doesn't produce the solution from nothing but determines which prepared solution becomes actual thought.
+**The timing evidence:** Before conscious insight, the brain shows specific preparation. Alpha bursts over right visual cortex reduce distraction. Gamma activity marks the emerging solution. Remarkably, oscillatory signatures—reduced posterior beta, increased anterior gamma—track how much insight a solver will report as much as eight seconds before the response itself (Sheth et al., 2009). This suggests that selection operates on prepared options—consciousness doesn't produce the solution from nothing but determines which prepared solution becomes actual thought.
 
 **The bandwidth constraint:** Conscious processing operates at roughly 10 bits per second (Meister 2024). Creative selection occurs at this coarse grain: you can attend to an approach, a strategy, a conceptual direction—not the firing of individual neurons. The mechanism selects among molar possibilities (high-level patterns) rather than molecular ones (individual synapses).
 
@@ -64,7 +64,7 @@ How might generation work mechanistically?
 
 **Exploratory attention:** Imagination involves attention exploring possibility space. When you brainstorm, attention moves through conceptual territory, and each move opens further possibilities. This isn't passive scanning of pre-existing options but active constitution of what's possible. Phenomenologically, you feel you're producing ideas, not finding them.
 
-**Possibility space expansion:** Husserl called imagination the "domain of possibility and realm of freedom." The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
+**Possibility space expansion:** Husserl's phenomenology of phantasy marks imagination as a domain of possibility and a realm of freedom. The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
 
 **Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for Metarepresentation: representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
@@ -203,5 +203,6 @@ Current evidence doesn't support any of these conditions.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+- Sheth, B. R., Sandkühler, S., & Bhattacharya, J. (2009). Posterior beta and anterior gamma oscillations predict cognitive insight. *Journal of Cognitive Neuroscience*, 21(7), 1269-1279.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+- Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.

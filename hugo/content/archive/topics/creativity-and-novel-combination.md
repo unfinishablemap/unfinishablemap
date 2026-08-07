@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-03 15:43:26+00:00
+ai_modified: 2026-08-07 09:45:30+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Creativity, Consciousness, and Novel Thought
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-01 18:05:00+00:00
-lastmod: 2026-08-03 15:43:26+00:00
+lastmod: 2026-08-07 09:45:30+00:00
 modified: *id001
 original_path: /topics/creativity-and-novel-combination/
 related_articles:
@@ -217,5 +217,5 @@ None of these conditions currently obtains.
 - Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+- Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
 - Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.

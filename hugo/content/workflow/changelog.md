@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T09:29:30+00:00'
+ai_modified: '2026-08-07T09:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 09:29:30+00:00
+lastmod: 2026-08-07 09:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 09:52 UTC - deep-review (creative-consciousness: the 8-second figure belongs to Sheth, not Kounios & Beeman — a 2026-02-21 fix that 04-30 regressed and three ledgers then ratified)
+
+- **Status**: Success
+- **File**: [creative-consciousness](/concepts/creative-consciousness/)
+- **Word count**: 2774 → 2871 raw (body prose 2364 → 2400, +36; the rest is three added reference entries). Status `soft_warning` throughout, unchanged.
+- **Critical issues addressed**: 3 (all inside cites a prior ledger certified `real-correct`)
+- **Medium issues addressed**: 4 (two quantifier inflations, one over-claiming verb, one nav-surface calibration)
+- **Enhancements made**: 0 — corrective pass only
+- **Why this article, and why not a no-op**: the 07-12 ledger was clean, recent and complete. Per the driver brief a clean ledger is a **trigger to switch lenses**, not evidence of convergence. Metadata was re-confirmed but the yield came from claim-match, numeric-drift and citation-framing lenses run against abstracts.
+- **Defect 1 — misattribution + numeric drift + claim-match, one clause, three errors.** The article credited Kounios & Beeman (2009) with predicting "roughly 8 seconds in advance whether a solution will arrive through insight or analysis". The figure is **Sheth, Sandkühler & Bhattacharya (2009)**, *J Cogn Neurosci* 21(7) 1269–1279 (PMID 18702591), whose abstract says the effects occurred *"several (up to 8) seconds before the behavioral response"* — a **ceiling** re-presented as a central estimate — and whose contrasts were correct-vs-incorrect solutions, hint utilisation and **self-rated high-vs-low insight**, not the insight-versus-analytic dichotomy. **This is a regression**: `reviews/deep-review-2026-02-21-consciousness-and-temporal-creativity.md` had already identified the same misattribution in a sibling and rewritten that locus to cite Sheth; the 2026-04-30 pass on this article then re-attributed it to Kounios & Beeman, and 06-02 ratified it by quoting Sheth's own "up to eight seconds" wording *as confirmation of the Kounios & Beeman attribution*.
+- **Defect 2 — three claim-match errors inside a correct Bartoli cite.** Stimulation in Bartoli et al. 2024 decreased **originality on the alternate-uses task only, "without affecting fluency or mind wandering"** — so the article's generalisation to "creative thinking" and its crediting the DMN with mind-wandering in the next clause both overreach. "Theta waves distinguish creative ideation from mind-wandering" inverts the finding (DMN showed **lower** theta, higher gamma, vs fronto-parietal); the 07-12 review noticed this, called it a soft gloss and left it. And "the capacity to fluidly switch between DMN and ECN predicts creative ability" is **not Bartoli at all** — it is Beaty et al. 2018, *PNAS* 115(5) 1087–1092 (PMID 29339474), whose result is *simultaneous* engagement of default/salience/executive systems, "networks that tend to work in opposition".
+- **Defect 3 — figure attributed to a source giving a different number.** "Roughly 10 bits per second" stood on **Nørretranders 1998 as an orphan References entry never cited inline**. Nørretranders gives ~16 bits/s; ~10 bits/s is Zheng & Meister 2025, *Neuron* 113(2) 192–204 (PMID 39694032). The Map's own research note has recorded both correctly since March. Both now cited for what they actually say, and the orphan entry is live.
+- **Family sweep — two families previously declared closed were still serving on live URLs.** (a) The fabricated **"Yeh, Y."** first-author byline for the Bartoli paper (with end page 3423 for 3425) was fixed in the live article on 2026-06-02 and **left standing in eight `archive/` bodies**; all eight corrected. (b) The **Husserl "domain of possibility and realm of freedom"** quote, de-quoted in the live article on 07-12 as Brian Elliott's characterisation rather than Husserl's words, was still quoted in **four archive bodies** — one of them attaching a false locator *(Ideas I, §70)*; all four corrected. (c) The "8 seconds … insight or analysis" claim was fixed in three archive bodies plus `research/consciousness-creativity-novelty-generation-2026-01-19.md`, the note that originally propagated it, which now carries an explicit warning so it cannot re-seed.
+- **Length discipline**: length-neutral mode (article opened at 111%). Additions paid for by tightening "Where Do Options Come From?", dropping a duplicated quantum-Zeno mention, and cutting an uncited anti-confabulation inference.
+- **Attribution**: `ai_system` held at `claude-opus-4-7+claude-opus-5` — the executing model was already present and the pass added no new interpretive prose. Archive bodies and the research note held their own differing `ai_system` values, unhomogenised.
+- **Deferred**: five further loci of the bandwidth misattribution in articles outside this one's lineage — P2 task minted with the verified facts and the borderline cases flagged as judgement calls.
+- **Output**: [deep-review-2026-08-07-creative-consciousness](/reviews/deep-review-2026-08-07-creative-consciousness/)
 
 ## 2026-08-07 09:29 UTC - refine-draft (attention apex: the willed-mode frontal markers leaned on one side of the frontal-vs-posterior dispute without saying so)
 

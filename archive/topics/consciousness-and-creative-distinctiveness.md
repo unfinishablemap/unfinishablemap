@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 draft: false
 archived: true
 archived_date: 2026-04-12T17:56:00+00:00
@@ -91,7 +91,7 @@ Beyond these functional requirements, several features of human creativity depen
 
 ### Generation and Selection
 
-The generation-selection synthesis holds that consciousness both generates creative options through imagination and selects among them through attention. Generation is not passive scanning of pre-existing options but active constitution of possibilities—phenomenologically, you feel you are *producing* ideas, not finding them. (The Dennettian challenge applies here: heterophenomenology treats such reports as data to explain, not privileged access to creative processes. The Map takes the phenomenology seriously while acknowledging this objection.) Husserl called imagination the "domain of possibility and realm of freedom." The neural basis may be the Default Mode Network's capacity for remote associative thinking.
+The generation-selection synthesis holds that consciousness both generates creative options through imagination and selects among them through attention. Generation is not passive scanning of pre-existing options but active constitution of possibilities—phenomenologically, you feel you are *producing* ideas, not finding them. (The Dennettian challenge applies here: heterophenomenology treats such reports as data to explain, not privileged access to creative processes. The Map takes the phenomenology seriously while acknowledging this objection.) Husserl's phenomenology of phantasy marks imagination as a domain of possibility and a realm of freedom. The neural basis may be the Default Mode Network's capacity for remote associative thinking.
 
 Selection operates through focused attention. The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] offers a speculative mechanism: if neural processes involve quantum superpositions at decision points, conscious attention may stabilise certain outcomes through the quantum Zeno effect, while unattended patterns decohere. The timing evidence is suggestive—EEG studies show neural activity patterns diverge seconds before conscious awareness depending on whether a solution will come through insight or analysis (Kounios & Beeman, 2009), and gamma spikes mark the emerging solution crossing threshold.
 
@@ -182,5 +182,5 @@ Current evidence does not support any of these conditions.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+1. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
 1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.

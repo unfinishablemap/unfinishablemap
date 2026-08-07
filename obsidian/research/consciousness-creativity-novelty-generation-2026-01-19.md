@@ -3,7 +3,7 @@ title: "Research Notes - Consciousness and Creativity"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-02T05:51:34+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -87,7 +87,7 @@ This research investigates whether consciousness merely selects among pre-existi
 - **Type**: Research review
 - **Key points**:
   - Insight is culmination of unconscious processing, not sudden flash from nowhere
-  - Brain knows 8 seconds before whether solution will be insight or analytic
+  - Oscillatory signatures (reduced posterior beta, increased anterior gamma) track how much insight a solver reports, up to 8 seconds before the response — Sheth, Sandkühler & Bhattacharya (2009), *J Cogn Neurosci* 21(7), 1269-1279. NOT a Kounios & Beeman finding, and NOT a prediction of insight-vs-analytic route
   - Gamma spike immediately precedes conscious "aha!"
   - Alpha burst over right visual cortex reduces distraction before insight
   - Incubation period allows DMN to form novel associations
@@ -126,7 +126,7 @@ This research investigates whether consciousness merely selects among pre-existi
 - **Key points**:
   - Imagination expands intuition from actual to possible
   - Provides freedom from dependence on what presents itself perceptually
-  - Imagination as "domain of possibility and realm of freedom"
+  - Imagination as a domain of possibility and realm of freedom — NOTE: this is Brian Elliott's characterisation of Husserl (Routledge 2005), NOT Husserl's own words; do not quote it as Husserl
   - Three-level model: realizing, imagining, eidetic consciousness
   - Imagination is both self-constituting and lifeworld-constituting
 - **Tenet alignment**: Supports consciousness as generator of possibility space

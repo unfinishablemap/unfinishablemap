@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-21 07:36:00+00:00
+ai_modified: 2026-08-07 09:45:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness and Temporal Becoming
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-21 07:36:00+00:00
-lastmod: 2026-02-21 07:36:00+00:00
+lastmod: 2026-08-07 09:45:30+00:00
 modified: *id001
 original_path: /topics/consciousness-and-temporal-creativity/
 related_articles:
@@ -167,4 +167,4 @@ A legitimate challenge comes from computational systems with state history. Recu
 - Sheth, B.R., Sandkühler, S. & Bhatt, J. (2009). Cerebral cortical signals of creativity. *NeuroReport*, 20(6), 540-545.
 - Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
 - Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+- Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.

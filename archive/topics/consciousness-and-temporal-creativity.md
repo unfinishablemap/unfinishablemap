@@ -4,7 +4,7 @@ description: "Why creativity requires time-as-lived rather than time-as-measured
 created: 2026-02-17
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-21T07:36:00+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 last_deep_review: 2026-02-21T07:36:00+00:00
 draft: false
 archived: true
@@ -163,4 +163,4 @@ A legitimate challenge comes from computational systems with state history. Recu
 - Sheth, B.R., Sandkühler, S. & Bhatt, J. (2009). Cerebral cortical signals of creativity. *NeuroReport*, 20(6), 540-545.
 - Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
 - Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+- Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.

@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity through both generating po
 created: 2026-01-19
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-30T17:54:00+00:00
+ai_modified: 2026-08-07T09:45:30+00:00
 draft: false
 archived: true
 archived_date: 2026-04-30T17:54:00+00:00
@@ -47,7 +47,7 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Neural signatures**: Default Mode Network (DMN) activity correlates with spontaneous idea generation, while Executive Control Network (ECN) activity correlates with evaluation. The "aha!" moment—the gamma spike that accompanies insight—may mark the selection point where consciousness catches what was prepared unconsciously.
 
-**Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second (Nørretranders 1998), vastly slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
+**Bandwidth constraints**: Nørretranders (1998) popularised the gulf between sensory intake and conscious throughput; Zheng and Meister (2025) put the conscious rate at roughly 10 bits per second, vastly slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
 The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
@@ -65,7 +65,7 @@ Bergson's framework implies that the "options" consciousness selects from don't 
 
 The apparent opposition between generation and selection dissolves on closer examination. Imagination and attention are two aspects of consciousness's creative contribution:
 
-**Imagination generates possibility space**: Phenomenologically, imagination expands intuition from actual to possible. Husserl called imagination the "domain of possibility and realm of freedom" (*Ideas I*, §70). When you imagine alternatives, you're not accessing a pre-existing database but actively exploring what could be. This exploration is generative—it constitutes the possibilities it considers.
+**Imagination generates possibility space**: Phenomenologically, imagination expands intuition from actual to possible. Husserl's phenomenology of phantasy marks imagination as a domain of possibility and a realm of freedom. When you imagine alternatives, you're not accessing a pre-existing database but actively exploring what could be. This exploration is generative—it constitutes the possibilities it considers.
 
 **Attention actualizes specific possibilities**: Through the [[attention-as-interface|attention mechanism]], consciousness selects which imagined possibilities become actual thoughts, intentions, and eventually actions. The quantum Zeno mechanism provides the physical implementation: repeated observation holds neural patterns in place.
 
@@ -91,7 +91,7 @@ Contemporary neuroscience illuminates how generation and selection interweave ne
 
 **Dynamic switching predicts creativity**: The capacity to fluidly switch between DMN and ECN states—not either alone—predicts creative ability. Creative people show greater coupling between these networks during creative tasks. This finding is crucial: creativity isn't about maximising either spontaneous generation or controlled evaluation but about the dynamic interplay between them. This switching demands [[mental-effort|mental effort]]—the conscious work of transitioning between exploratory and evaluative modes. The [[agent-causation#Creative Generation: Beyond Pure Selection|agent-causal framework]] interprets this as consciousness orchestrating transitions between modes—selecting when to explore and when to evaluate.
 
-**The insight moment**: Before conscious insight, the brain shows specific preparation: alpha bursts over right visual cortex reduce distraction, gamma activity marks the emerging solution. Remarkably, the brain "knows" 8 seconds before you consciously do whether a solution will come through insight or analysis. This doesn't reduce insight to unconscious processes—rather, it suggests preparation and selection operate on different timescales. Consciousness may not produce the solution but determines *which* prepared solution becomes actual thought. The "aha!" itself belongs to the family of [[noetic-feelings-void|noetic feelings]]: a verdict-like felt signal—of rightness, of insight—that gates which candidate survives into explicit thought, produced by heuristic machinery consciousness cannot directly inspect.
+**The insight moment**: Before conscious insight, the brain shows specific preparation: alpha bursts over right visual cortex reduce distraction, gamma activity marks the emerging solution. Remarkably, oscillatory signatures—reduced posterior beta, increased anterior gamma—track how much insight a solver will report as much as eight seconds before the response itself (Sheth et al., 2009). This doesn't reduce insight to unconscious processes—rather, it suggests preparation and selection operate on different timescales. Consciousness may not produce the solution but determines *which* prepared solution becomes actual thought. The "aha!" itself belongs to the family of [[noetic-feelings-void|noetic feelings]]: a verdict-like felt signal—of rightness, of insight—that gates which candidate survives into explicit thought, produced by heuristic machinery consciousness cannot directly inspect.
 
 This suggests that unconscious generation (DMN) prepares options while the moment of conscious insight marks selection. But the preparation isn't mechanically deterministic—it's shaped by prior conscious engagement with the problem. Your earlier attention influenced what the DMN explored. The creative process is thus a loop: conscious engagement shapes unconscious preparation; unconscious preparation provides options for conscious selection; selection shapes further engagement.
 
@@ -171,4 +171,6 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 1. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577-592.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+1. Sheth, B. R., Sandkühler, S., & Bhattacharya, J. (2009). Posterior beta and anterior gamma oscillations predict cognitive insight. *Journal of Cognitive Neuroscience*, 21(7), 1269-1279.
+1. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
