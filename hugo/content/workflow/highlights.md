@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-06T10:23:34.130387'
+ai_modified: '2026-08-07T08:11:04.966338'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-06'
+date: '2026-08-07'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-06 10:23:34.130387+00:00
-modified: '2026-08-06'
+lastmod: 2026-08-07 08:11:04.966338+00:00
+modified: '2026-08-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-07: Is Pain Without the Hurt Still Pain?
+
+Pain asymbolia patients report a pinprick accurately and can smile through it. Whether what remains is pain at all is unsettled: Philosophy of Science ran "Pain Asymbolia is Not Pain" (2024), then a reply arguing it probably still is (2025).
+
+**Type**: insight  
+**Link**: [pain-asymbolia](/concepts/pain-asymbolia/)
+
+---
+
 ### 2026-08-06: The Map Filed Its Strongest Critic as an Ally
 
 The article on African philosophy cited Kwasi Wiredu as support for dualism. He argues the reverse — the Akan okra and sunsum are quasi-physical, intelligible within science, and mind is a capacity rather than a substance. Three outside reviewers caught it independently.
@@ -193,15 +202,6 @@ When do parts form a genuine whole? Three rival answers—life, irreducible caus
 
 **Type**: insight  
 **Link**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
-
----
-
-### 2026-07-18: Can Consciousness Exist Outside Time?
-
-A reworked article asks whether consciousness is fundamentally non-temporal—constituting time rather than inhabiting it. It separates the meditative datum of timeless awareness from the bolder metaphysical claim, and engages the leading physicalist rival head-on.
-
-**Type**: refinement  
-**Link**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
 
 ---
 
