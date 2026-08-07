@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-08-07T05:42:00+00:00
+ai_modified: 2026-08-07T14:46:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ The Map's proposed mechanism—the quantum Zeno effect ([[stapp-quantum-mind|Sta
 
 Rizzolatti's premotor theory of attention (PMTA) provides striking support: selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there—attention *is* motor preparation.
 
-Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed—matching the ~300ms deployment time of willed attention. If these were independent systems, why share the same timeline?
+Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed. That near-matches willed attention's ~300ms deployment time, but the anchors differ — theirs counts back from movement onset in monkeys choosing reaches, the attentional figure forward from a cue in humans — so the coincidence is not yet a shared timeline.
 
 The [[dopamine-and-the-unified-interface|dopamine system]] illuminates further. A 2024 *Nature* study showed mice with impaired phasic dopamine release still move spontaneously but lose reward-oriented vigour—dopamine dynamics modulate the *decision threshold*, not raw motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and—on the Map's reading—willed attention participates in threshold selection. The rival reading needs no such addition: classical models of top-down attentional control plus dopaminergic threshold-setting already determine which option crosses the line, with the felt effort of willing a phenomenal accompaniment rather than a causal contributor. What the data establish is the layered threshold architecture; that phenomenal attention is doing selective work within it is the interface hypothesis's interpretation, not a result the study isolates.
 

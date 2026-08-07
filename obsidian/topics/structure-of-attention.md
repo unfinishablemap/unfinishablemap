@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-08-03
 human_modified:
-ai_modified: 2026-08-07T05:42:00+00:00
+ai_modified: 2026-08-07T14:46:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -104,11 +104,11 @@ Both instructed and willed attention take ~300ms to deploy, compared to ~100ms f
 | Process | Timescale | Implication |
 |---------|-----------|-------------|
 | Exogenous capture | ~100ms | Too fast and transient for sustained influence |
-| Voluntary deployment | ~300ms | Matches motor selection timing (Thura & Cisek 2014) |
+| Voluntary deployment | ~300ms (post-cue) | Close in magnitude to motor selection timing (Thura & Cisek 2014), differently anchored |
 | Sustained voluntary attention | Seconds to minutes | Enables cumulative effects and neuroplasticity |
 | Pre-decision bias | ~1000ms before choice | Prior neural states constrain but may not determine choices |
 
-The same ~300ms window appears in motor selection. Thura & Cisek (2014) identified a "commitment point" ~280ms before voluntary movement where frontal-parietal coherence strengthens and options collapse to a decision. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
+A comparable figure appears in motor selection, though not on the same clock. Thura & Cisek (2014) identified a "commitment point" ~280ms before voluntary movement where frontal-parietal coherence strengthens and options collapse to a decision — counted back from movement onset in monkeys, where the attentional ~300ms is counted forward from a cue in humans. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
 
 If willed attention and willed action share a common mechanism, the ~300ms window marks where consciousness engages the selection interface. The timing is too slow for exogenous reflexes, too slow for automatic processing, but right for deliberate choice.
 

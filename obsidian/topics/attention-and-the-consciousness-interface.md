@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-07T14:46:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ Attention and motor planning share neural substrates—directing attention *is* 
 
 Rizzolatti's premotor theory of attention (PMTA) holds that selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there; microstimulation of motor regions enhances processing at the target. Fine and Hayden (2022) extended PMTA, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor"—executive function is motor preparation at varying levels of abstraction.
 
-Three signatures appear to distinguish willed from automatic processing in both domains: frontal theta oscillations (present for willed, absent for instructed; Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and matching commitment timing (~300ms for willed attention, ~280ms before movement; Thura & Cisek 2014). If attention and motor selection were independent systems, this convergence would seem coincidental — though the convergence pattern is compatible with both shared-substrate readings and with independent systems that happen to share oscillatory signatures because both interface with the same downstream selection machinery.
+Three signatures appear to distinguish willed from automatic processing in both domains: frontal theta oscillations (present for willed, absent for instructed; Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and commitment timing that is close in magnitude but differently anchored (~300ms post-cue for willed attention in humans, ~280ms before movement onset in monkeys; Thura & Cisek 2014). If attention and motor selection were independent systems, this convergence would seem coincidental — though the convergence pattern is compatible with both shared-substrate readings and with independent systems that happen to share oscillatory signatures because both interface with the same downstream selection machinery.
 
 Traditional philosophy of mind treats perception and action as separate puzzles. If attention is motor planning at varying levels of abstraction — as the Rizzolatti–Fine–Hayden line suggests — then selecting what to perceive may already be selecting what to do, one interface rather than two. The identification is a live hypothesis that the empirical convergence motivates rather than settles; the data are compatible with weaker readings on which attention and motor selection are tightly coupled rather than identical.
 
