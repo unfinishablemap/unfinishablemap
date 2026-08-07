@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T18:40:00+00:00'
+ai_modified: '2026-08-07T19:01:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 18:40:00+00:00
+lastmod: 2026-08-07 19:01:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 19:01 UTC - deep-review (Tracy answers the gaps worry he is cited as conceding; Saunders' label objection is scope-independent and was booked as escaped)
+
+- **Status**: Success
+- **File**: [quantum-divine-action](/concepts/quantum-divine-action/)
+- **Output**: [deep-review-2026-08-07-quantum-divine-action](/reviews/deep-review-2026-08-07-quantum-divine-action/)
+- **Lens applied**: **citation-framing accuracy** — is each position ascribed to a named thinker one they actually hold? Explicitly **not** metadata and **not** quote-fidelity, both of which had already cleared this article: the 2026-07-14 deep-review verified wikilinks/tenets/three quotes, and the 2026-08-04 pessimistic review verified every Crossref record plus two verbatim spans. Neither asked whether the *views attributed* to Tracy, Saunders and Qureshi-Hurst are theirs. Two are not. Prior clearances cover metadata and quotes only — do not inherit them as framing clearances.
+- **Word count**: prose 2239 → **2449** (soft 2500). Raw `analyze_length` 2550 → 2877 is the known reference-apparatus artifact: References 412 + Further Reading 14. Not length-constrained; ~51 words of prose headroom now remain.
+- **Critical issues addressed**: 4. **Medium**: 0. **Enhancements**: 3.
+
+**1. Tracy recruited for a self-criticism he does not make.** Three loci asserted he raises the God-of-the-gaps worry "against his own position", and the ledger summary made him bear objection 4 "since Tracy raised it against himself". Evidence to the contrary: Counterbalance (CTNS's own essay summary) has him canvassing three strategies and endorsing the third, raising the worry **to rebut it**; Russell's *Oxford Handbook* chapter states the programme standard — "NIODA is not a gaps argument in either the epistemic or the ontological sense", a candidate "must not be based on epistemic gaps" — and records that "Tom Tracy dismisses the tetralemma out of hand". Classic thinker-recruited-for-a-stronger-verdict.
+
+**2. Objection 9 misattributed AND mis-sorted — the consequential one.** The article had *"Critics (Saunders; Qureshi-Hurst) argue that determining countless outcomes throughout the universe is maximally interventionist in substance … specific to the universal-scope version."* Retrieved Qureshi-Hurst 2023's accepted manuscript from the Oxford Research Archive and text-extracted it (8,841 words): grep for `maximal|countless|misnomer|mislabel|misrepresent|not really non` returns **zero hits**; her abstract names **theodicy** and **everyday relevance** as NIODA's areas of incompleteness, and her one substantive Saunders cite is the *efficacy* point (asteroid redirection, three million years). Saunders' real label-bearing critique is the **tetralemma** (Wildman 2004, which Russell quotes and calls "careful, and I believe fair"): objectivity + incompatibilism + non-interventionism + a "strong ontological" reading of the stochastic laws as governing "each individual event". That is **scope- and agent-independent** — fixing *any* one outcome is caught. So the article was booking as escaped a liability it **shares**. Moved to the inherited column as item 6 with Russell's reply recorded, because the Map needs that reply too. Peculiar column renumbered 7–9; summary and Relation-to-Site-Perspective passages updated. **This correction runs against the Map's interest**, which is why it survived two prior passes — it reads as a concession the article had already generously made.
+
+**3. Explores ≠ holds.** "Thomas Tracy **holds** that God acts in only some events" → "**explores the option**", which is Russell's own wording (Tracy 1995: 321–2). The unverified rationale (traced only to the St Andrews entry) was replaced with the one Russell states.
+
+**4. Reference 2's second-work addendum softened, not deleted.** "The same sentence recurs in *Where the Conflict Really Lies*" — **I did not find it there**; the reference now says what was not established rather than asserting an absence. The body attribution at L46 **is confirmed**: *WTCRL* (2011) does propose divine collapse-causation (all collapses, constant engagement, no law violated, fits libertarian free will). No right-author-wrong-work defect in the body.
+
+- **Verified sound under the same lens** (so the next pass need not redo): Murphy "every measurement event" (Russell: "God acts intentionally in all quantum events", Murphy 1995: 340–3); Russell's two NIODA conditions; Saunders at objections 2 and 5; Qureshi-Hurst & Bennett at theodicy; Ellis's mutation pathway (Ellis 2001: 259–62); Plantinga's collapse-causation and "all collapses" scope.
+- **Latent internal inconsistency resolved**: objection 4 had described the Map's opening *epistemically* ("the ones the unsettled measurement problem leaves open") while objection 1 and Tenet 2 ground it *ontologically*. The epistemic/ontological gap distinction is now stated explicitly and forward-referenced.
+- **Candour preserved as instructed**: the concessions that the ledger "does real work" against Murphy and Plantinga but "does none" against Tracy, and that it "also debits the Map", are intact. The debit list was **lengthened** by this pass, not smoothed.
+- **References**: added Russell's *Oxford Handbook* chapter (DOI 10.1093/oxfordhb/9780199543656.003.0035) and Wildman 2004 (*Theology and Science* 2/1: 31–75) — the primary sources for the corrections. Murphy/Tracy pagination added (325–358 / 289–324). Renumbered 1–13; verified no numeric in-body citation markers exist, so renumbering was safe.
+- **Scope check (evidence)**: `grep -rn "Tracy"` across `obsidian/`, `archive/` and `hugo/content/` returns the person **only** in this article, its hugo twin, and the research note — no propagation elsewhere (the many `Saunders` hits in the corpus are Russell–Saunders coupling in physics contexts, excluded by grepping the discriminating phrase rather than the bare surname). `grep -rn "non-interventionist|NIODA|Qureshi-Hurst"` outside workflow/reviews/research returns only this article and `concepts/occasionalism.md` L62/L89, which carry no scope or label claim and needed no edit.
+- **Research note corrected too** (`research/quantum-divine-action-2026-07-14.md`): both defects originated there — L54 ("a pressure the Map's selective channel must also answer") and item 7 (the label objection). Both now carry dated CORRECTED annotations, so a future pass cannot re-derive the same errors from the note.
+- **Sync**: `scripts/sync.py` run; both trees carry the corrections, so the live page does not keep them.
 
 ## 2026-08-07 18:40 UTC - refine-draft (Revonsuo re-framed: credited with the BP2 distinction, not with an anti-materialist verdict)
 
