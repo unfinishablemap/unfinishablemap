@@ -4,7 +4,7 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-07-23T09:17:43+00:00
+ai_modified: 2026-08-07T10:28:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,6 +152,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [[selection-only-mind-influence]] — Consciousness biases which physically-available outcome is realised without adding energy
 - [[born-rule-and-the-consciousness-interface]] — Where a conscious precision-selection would express itself at the quantum level
 - [[attention-and-the-consciousness-interface]] — Attention and motor planning as unified selection
+- [[attention-as-causal-bridge]] — The apex synthesis of the attention cluster, which defers its framework-level confrontation with active inference to this article
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like
 - [[categorical-surprise]] — When prediction fails at the framework level
 - [[bohm-implicate-order-and-active-information]] — Active information as a form-directs-energy channel, an ontological cousin of information-first mind–matter coupling

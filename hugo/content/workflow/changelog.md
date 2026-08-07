@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T09:52:00+00:00'
+ai_modified: '2026-08-07T10:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 09:52:00+00:00
+lastmod: 2026-08-07 10:31:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 10:31 UTC - refine-draft (attention-as-causal-bridge: the converged PP charge was refuted, but the article's own entropy discriminator was not — and it does not discriminate)
+
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Also modified**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) (one reciprocal Further Reading line)
+- **Length**: raw 4644 → 4702; **body prose 4074 → 4076 (+2)**, `soft_warning` unchanged, hard ceiling 5000 not approached. The entire raw delta is the two added reference entries. Length-neutral as required.
+- **Converged charge confirmed refuted, not executed.** All three reviewers flagged "no engagement with predictive processing"; Gemini's "total failure to engage… fails to even mention precision weighting" is flatly false. The article has carried a dedicated PP section naming Hohwy, Clark and Friston, defining attention as precision-weighting of prediction error, and re-reading every piece of its own evidence through the rival. The reviewers worked from a stale index. No change made on that charge.
+- **Framework-level derivation: DECLINED, and the confession converted into a discharge.** The article previously confessed that confronting active inference as a *total* generative framework was "owed and not discharged here", and that admitting the rival only where it leaves a dualist gap "is a move to name rather than lean on". Driver-verified: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) **already does that work** — it steelmans active inference in its own vocabulary, engages Laukkonen, Friston & Chandaria (2025) beautiful-loop theory as active inference advanced as a *direct theory of consciousness* and as the strongest physicalist rival, diagnoses Markovian monism as disguised property dualism, and marks the residue as a framework boundary. The apex did not link it (grep 0). Re-deriving it inside a 4000-word-capped apex would duplicate a topic article and breach the ceiling. The caveat paragraph now points at that article instead of confessing an undischarged debt, and a reciprocal link was added there. Net effect on that paragraph: −45 words.
+- **The sub-point was NOT declined, and it did not survive.** ChatGPT's objection to the article's own falsifier holds. Both contested citations were **verified at source** before use: Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead (2021), *Neuroscience of Consciousness* 2021(1) niab018 (10.1093/nc/niab018) models covert attentional control as policy selection over **mental actions**, simulating mind-wandering and its regulation during sustained attention — the apex's own Return Cycle; and Parr, Holmes, Friston & Pezzulo (2023), *Neuropsychologia* 184, 108562 (10.1016/j.neuropsychologia.2023.108562) formalises mental effort as covert mental action **in the Stroop paradigm**, which is the very paradigm the apex's Naccache anterior-cingulate case rests on. So active inference natively predicts effort rising with a contested option set. The article's claim that option-set entropy "is a prediction precision-weighting accounts do not obviously share" was **wrong as stated**; it is now marked provisional, with the condition named — the test bites only if the two accounts are shown to predict different *functional forms*, and none has been derived. Recorded as a debt on the interface hypothesis, not a measurement awaiting a laboratory.
+- **Consequential fix the sub-point forced.** The falsifiability paragraph called the entropy claim "the first attempt at a model-specific forward prediction". Since it does not discriminate, that now reads "the one attempt… and it does not yet discriminate; the framework owes a prediction its strongest rival cannot match." The paragraph's own charge — that the interface hypothesis's falsifiers are *borrowed* risks — is thereby left standing undiluted rather than softened by a discriminator that does not work. This is the specific confession-without-correction pattern the reviewers named, and closing it was the point of the pass.
+- **Engagement classification (editor-internal):** predictive processing / active inference — **Mode Three**, framework-boundary marking, and now honestly so. The prior text claimed a Mode-Two-style unsupported-move identification on the effort residue *plus* a model-specific discriminator; the discriminator has been withdrawn to provisional, leaving the effort residue (Mode Two: a precision reset is a functional event and the account does not specify why it should be *felt*) as the only live in-framework pressure, explicitly qualified as constraining both readings.
+- **Scope respected**: no changes to the do-not-reopen list, the gamma/Wyart material, the Sjöberg stance loci, the COGITATE framing, or the frontal/posterior marking.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — corrective and referential prose, no substantial new interpretive argument.
+- **Mirror**: synced; `/topics/predictive-processing-and-dualism/` link resolves, no unconverted body wikilinks, frontmatter validates.
+- **Published**: yes
 
 ## 2026-08-07 09:52 UTC - deep-review (creative-consciousness: the 8-second figure belongs to Sheth, not Kounios & Beeman — a 2026-02-21 fix that 04-30 regressed and three ledgers then ratified)
 

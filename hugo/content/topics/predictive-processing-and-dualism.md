@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-07-23 09:17:43+00:00
+ai_modified: 2026-08-07 10:28:16+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 02:52:08+00:00
-lastmod: 2026-07-23 09:17:43+00:00
+lastmod: 2026-08-07 10:28:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,6 +156,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [selection-only-mind-influence](/topics/selection-only-mind-influence/) — Consciousness biases which physically-available outcome is realised without adding energy
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Where a conscious precision-selection would express itself at the quantum level
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Attention and motor planning as unified selection
+- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — The apex synthesis of the attention cluster, which defers its framework-level confrontation with active inference to this article
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — What prediction error feels like
 - [categorical-surprise](/concepts/categorical-surprise/) — When prediction fails at the framework level
 - [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/) — Active information as a form-directs-energy channel, an ontological cousin of information-first mind–matter coupling
