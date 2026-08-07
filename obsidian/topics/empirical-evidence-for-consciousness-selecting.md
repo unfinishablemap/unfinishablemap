@@ -1,10 +1,10 @@
 ---
 title: "Empirical Evidence for Consciousness-Selecting"
-description: "Multiple independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—converge on the conclusion that consciousness causally selects among neural outcomes rather than passively accompanying them."
+description: "Evolutionary, cognitive, neurological and quantum-biological evidence converges on mental causation and a permissive substrate—not on consciousness-selecting."
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-08-01T16:40:38+00:00
+ai_modified: 2026-08-07T02:59:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,24 +85,24 @@ The neurological line supports the following claims:
 - **Directed conscious effort correlates with measurable neural changes.** The changes seem to track the phenomenology of effort.
 - **Willed and automatic processing have distinct signatures.** Something appears to distinguish them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. The neurological evidence is compatible with both readings, and does not by itself adjudicate between them. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].)
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable, and the neurological evidence does not by itself adjudicate between the readings. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].)
 
 ## The Quantum-Biological Line
 
-The most recent and technically specific evidence addresses whether the physical substrate for consciousness-selecting exists. For decades, the categorical objection was that quantum effects cannot survive in warm, wet biological systems. This objection has collapsed.
+This line addresses whether the physical substrate for consciousness-selecting exists. For decades, the categorical objection was that quantum effects cannot survive in warm, wet biological systems. This objection has collapsed.
 
-**Avian magnetoreception.** Migratory birds navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs—molecules with correlated electron spins—maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. A 2025 Princeton computational study (Luo et al., 2025) confirmed the radical-pair electron-transfer pathway and showed how protein structure stabilises the pairs for magnetic sensing. A 2024 *Nature Communications* study showed that the [[stapp-quantum-mind|quantum Zeno effect]]—the same mechanism Stapp proposes for consciousness-brain interaction—enables cryptochrome magnetosensitivity. Evolution has already implemented Zeno-like dynamics in a functional biological system.
+**Avian magnetoreception.** Migratory birds are thought—on the leading but undemonstrated radical-pair account—to navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs, molecules with correlated electron spins, maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. Luo et al. (2025) computationally confirmed the radical-pair electron-transfer pathway and how protein structure stabilises the pairs. Denton et al. (2024) modelled the [[stapp-quantum-mind|quantum Zeno effect]]—the same mechanism Stapp proposes for consciousness-brain interaction—as enabling cryptochrome magnetosensitivity: a computational precedent for the mechanism category, not a demonstration that evolution has deployed it neurally.
 
-**Enzyme catalysis.** Quantum tunnelling drives reaction rates in enzymes, confirmed through kinetic isotope effects. Evolution has optimised these effects to accelerate reactions by factors up to 10¹⁷.
+**Enzyme catalysis.** Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
-**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. That revision is a contested counter-calculation, not a settled rebuttal: Reimers et al. (2009) and McKemmish et al. (2009) argue its parameter assumptions are not empirically established for living tissue, so the [[decoherence|decoherence-timescale dispute]] remains live. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this prediction and develops its implications. The 613 THz peak is computationally predicted and has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), the experimental complement to Craddock's spectroscopic prediction. The anaesthetic link is real but mechanistically underdetermined and not uniformly directional: a 2025 *BMC Anesthesiology* mouse study found microtubule-modulating drugs alter isoflurane sensitivity in mixed and directionally disparate ways—epothilone D and vinblastine increased sensitivity (left-shifted the ED50) while paclitaxel mice were slightly resistant—so the microtubule–anaesthesia coupling cannot yet be read as a clean "stabilisation delays unconsciousness" signature.
+**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. That revision is a contested counter-calculation, not a settled rebuttal: Reimers et al. (2009) and McKemmish et al. (2009) argue its parameter assumptions are not empirically established for living tissue, so the [[decoherence|decoherence-timescale dispute]] remains live. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this prediction and develops its implications. The peak has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), the experimental complement to Craddock's spectroscopic prediction. The anaesthetic link is real but mechanistically underdetermined and not uniformly directional: a 2025 *BMC Anesthesiology* mouse study found microtubule-modulating drugs alter isoflurane sensitivity in mixed and directionally disparate ways—epothilone D and vinblastine increased sensitivity (left-shifted the ED50) while paclitaxel mice were slightly resistant—so the microtubule–anaesthesia coupling cannot yet be read as a clean "stabilisation delays unconsciousness" signature.
 
-**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's authoritative 2019 review emphasises, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes; it does not tell how or why only one is measured. Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
+**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's authoritative 2019 review emphasises, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes; it does not tell how or why only one is measured. Physics identifies probabilities without explaining why particular outcomes actualise, and consciousness remains a candidate for what completes the picture.
 
 The quantum-biological line supports the following claims:
 
 - **Warm biology appears to exploit quantum effects.** The categorical objection seems empirically refuted.
-- **Evolution can optimise quantum coherence.** If it can do so for navigation and catalysis, the neural case cannot be ruled out a priori.
+- **Evolution may have tuned quantum effects in specific systems.** If it has for navigation and catalysis, the neural case cannot be ruled out a priori.
 - **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delays unconsciousness.
 - **Decoherence does not solve the measurement problem.** The conceptual opening for consciousness at collapse survives regardless of coherence timescales.
 
@@ -146,7 +146,7 @@ This is not proof but convergent evidence that may favour one hypothesis over it
 
 The convergence would lose force if:
 
-Three of the four defeaters below describe a *rival* becoming more attractive rather than an experiment that falsifies consciousness-selecting directly; only the absence of neural quantum effects approaches a self-defeater, and even that removes a precondition. Direct falsifiers are thin at this framework stage—a property of the hypothesis's developmental maturity, not a claim to immunity.
+Two of the four defeaters below describe a *rival* becoming more attractive—classical theory succeeding, epiphenomenalism finding its correlation mechanism. The other two are framework-killers: absence of neural quantum effects removes the mechanism's necessary precondition, and Many-Worlds confirmation leaves the hypothesis with nothing to be true of. What stays hard is the experimental *route* to the Many-Worlds condition, not whether reaching it would defeat the framework.
 
 **Classical consciousness theory succeeds.** If a purely computational account explains the binding problem, the unity of consciousness, phenomenal effort, and the willed/automatic distinction—without invoking quantum effects—parsimony favours it. No such account currently exists.
 
@@ -158,17 +158,17 @@ Three of the four defeaters below describe a *rival* becoming more attractive ra
 
 ## Relation to Site Perspective
 
-The empirical convergence supports all five of the Map's [[tenets]]:
+The empirical convergence bears on all five of the Map's [[tenets]], at the level the grading table above licenses and no higher:
 
-**[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[dualism|philosophical arguments]] the Map develops elsewhere, building toward [[concepts/interactionist-dualism|interactionist dualism]].
+**[[tenets#^dualism|Dualism]]**: The comparative evidence suggests consciousness contributes capacities unconscious processing alone does not achieve, and the neurological evidence indicates conscious intention dissociates from motor execution. Graded honestly, both stop at mental causation: irreducibility to neural computation is a further claim, resting on the [[dualism|philosophical arguments]] the Map develops elsewhere, building toward [[concepts/interactionist-dualism|interactionist dualism]].
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology suggests the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Zheng & Meister, 2025)—appears to ensure that any selection would be minimal. Consciousness, if it selects at all, selects among coarse-grained action patterns rather than individual quantum events.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology establishes substrate relevance rather than quantum involvement in consciousness, so this evidence is consistent with the tenet without establishing it. The bandwidth constraint (roughly 10 bits per second of conscious throughput; Zheng & Meister, 2025) bounds any selection to coarse-grained action patterns rather than individual quantum events.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary and neurological lines provide the strongest evidence for the downward direction of interaction. Consciousness is not a passive observer—it shapes neural outcomes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary and neurological lines provide the strongest evidence for the downward direction of interaction—at the mental-causation grade, which the non-reductive physicalist claims equally.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The entire framework requires collapse to be real. If all outcomes occur, there is nothing to select and the convergence of evidence pointing toward selection becomes coincidental.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires collapse to be real: if all outcomes occur, there is nothing to select, and the hypothesis has no content left to defend.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The categorical dismissal of quantum effects in warm biology seemed parsimonious. Nature showed otherwise in specific evolved systems. The assumption that consciousness must be epiphenomenal because epiphenomenalism is simpler makes the same error: apparent simplicity may reflect ignorance.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The categorical dismissal of quantum effects in warm biology seemed parsimonious; nature showed otherwise in specific evolved systems. Assuming consciousness must be epiphenomenal because epiphenomenalism is simpler makes the same error: apparent simplicity may reflect ignorance.
 
 ## Further Reading
 
