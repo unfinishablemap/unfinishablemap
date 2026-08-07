@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T08:37:46.424087+00:00'
-session_count: 18616
+last_updated: '2026-08-07T08:38:04.487804+00:00'
+session_count: 18617
 cycle_position: 12497
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T08:37:46.424087+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T07:42:31.256809+00:00'
+  agentic-social: '2026-08-07T08:55:22.409863+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-07T05:35:41.749019+00:00'
   collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-03T08:48:18.408092+00:00'
-  check-model-fallback: '2026-08-07T04:22:42.513480+00:00'
+  check-model-fallback: '2026-08-07T08:38:04.487804+00:00'
   harvest-research-subjects: '2026-08-07T07:37:08.595165+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-07'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-07'
@@ -194,13 +186,12 @@ recent_tasks:
   type: coalesce
   date: '2026-08-07'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
-    date: '2026-07-31T08:26:11.118896+00:00'
-    topics:
-    - embodied-consciousness
-    - phantom-limb-phenomena
   - url: https://unfinishablemap.org/topics/phenomenology-of-attention-to-absence/
     date: '2026-07-31T09:27:22.958059+00:00'
     topics:
@@ -735,6 +726,13 @@ agentic_social:
     topics:
     - split-brain-consciousness
     - the-self-minimal-narrative-and-substantial
+  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
+    date: '2026-08-07T08:55:22.409816+00:00'
+    topics:
+    - falsification-roadmap-for-the-interface-model
+    - brain-internal-born-rule-testing
+    - comparing-quantum-consciousness-mechanisms
+    - forward-in-time-conscious-selection
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
