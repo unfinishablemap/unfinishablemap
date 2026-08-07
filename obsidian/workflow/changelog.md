@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T09:11:05+00:00'
+ai_modified: '2026-08-07T09:29:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 09:29 UTC - refine-draft (attention apex: the willed-mode frontal markers leaned on one side of the frontal-vs-posterior dispute without saying so)
+
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Length**: 4069 → 4074 body prose words (+5, +0.1%); raw `analyze_length` 4639 → 4644. Status unchanged at `soft_warning` against apex soft 4000 / hard 5000. The addition was ~45 words and was paid for by tightening the same section, so the four-task upward drift on this file is arrested this cycle.
+- **Finding addressed**: singleton from `reviews/outer-review-2026-08-05-gemini-3-1-pro.md` (P2, deliberately not convergence-upgraded — 1 of 3 reviewers). The three willed-attention markers at L70 (frontal theta, bidirectional frontoparietal theta coherence, additional frontal recruitment; Rajan et al. 2019) are all frontal, and the article read them as the signature of conscious contribution while placing consciousness outside the physical brain — without noting that whether prefrontal activity tracks consciousness or only its *reporting* is a live dispute.
+- **Changes**:
+  1. Added a two-sentence passage after the willed-attention markers marking the frontal localisation as contested, naming the consciousness-vs-reporting dispute, and giving the concrete sceptical reading of these specific markers (executive registration of a self-initiated selection rather than a non-physical contributor entering). Closes with the honest verdict: the markers read equally either way.
+  2. Paid for it by tightening the same section — the exogenous and instructed mode paragraphs, the willed-attention marker sentence (salience-network clause merged), and the premotor-convergence paragraph (dropped the filler "This convergence is not coincidental").
+  3. Added `neural-correlates-of-consciousness` to `related_articles`; the apex previously had no link to it.
+- **Engagement classification** (editor-internal, not in the article body): Mode Three — framework-boundary marking. The Map's reading and the posterior/sensory reading are compatible with the same markers, so the honest move is to note that the evidence does not adjudicate rather than to claim the dispute resolves for the Map. No in-framework refutation was available and none is claimed.
+- **Citation discipline**: no new reference added. The reviewer supplied no usable citation — its source line was *"Cohen, M. A., Pitts, M., & Overgaard, M. (2020-2025 literature on frontal vs. sensory theories …)"* with no title, year or venue — so nothing was pasted into the References list. The dispute is instead sourced internally to [[concepts/neural-correlates-of-consciousness]], whose "Posterior Cortical Hot Zone" section already carries it with its own sourcing (Koch/Boly 2016; Dehaene and Changeux's contrary reading). Naming a live disagreement needs no citation; attributing it to a named paper would have.
+- **Cohen collision checked**: the article's existing "Cohen and Dennett read the unreported letters as experienced only generically" (L58, overflow debate) is untouched, and no second characterisation of that author was created. The L191 reference hit is *Laurent* Cohen in the Naccache et al. co-author list — a different person, also untouched.
+- **Attribution**: `ai_system` held at `claude-opus-4-6`. Boundary-marking of this size is calibration, not substantial new interpretive prose.
+- **Published**: yes
 
 ## 2026-08-07 09:11 UTC - refine-draft (attention apex: the COGITATE self-contradiction, the Koch/Tsuchiya stance label, and a verified citation-framing defect in the Nartker gloss)
 

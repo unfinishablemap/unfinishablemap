@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-08-07T09:11:05+00:00
+ai_modified: 2026-08-07T09:29:30+00:00
 last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[common-cause-null]]"
   - "[[embodied-interface]]"
+  - "[[neural-correlates-of-consciousness]]"
 
 ai_contribution: 100
 author: null
@@ -61,15 +62,17 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 ## The Three Modes
 
-[[structure-of-attention|Attention divides into three architecturally distinct modes]], each with different triggers, timescales, and neural signatures:
+[[structure-of-attention|Attention divides into three distinct modes]], each with different triggers, timescales, and neural signatures:
 
-**Exogenous attention** (~100ms): a loud noise, a flash of light. The brain captures attention reflexively through the ventral attention network. Consciousness registers a selection the brain has already made.
+**Exogenous attention** (~100ms): a loud noise, a flash of light. The ventral attention network captures it reflexively; consciousness registers a selection the brain has already made.
 
-**Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network. Consciousness follows a rule already established.
+**Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network; consciousness follows an established rule.
 
-**Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
+**Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction. Three neural markers distinguish it from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment—while the salience network switches processing between stimulus-driven and endogenous control.
 
-The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory of attention]] demonstrates that attending and preparing to act share neural substrates—Fine and Hayden (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
+That frontal localisation is contested. Whether prefrontal activity tracks consciousness or only the machinery of reporting it remains open in the [[neural-correlates-of-consciousness|neural-correlates literature]], and these markers read equally as executive registration of a self-initiated selection rather than as a non-physical contributor entering.
+
+The willed mode is where the Map locates genuine conscious contribution. Its 300ms timescale is shared with motor selection: Thura and Cisek's (2014) urgency-gating work gives attention and action a common selection architecture, [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory]] gives attending and preparing to act shared substrates, and Fine and Hayden (2022) call all prefrontal cortex premotor. One interface serves thought and action alike.
 
 ## Why Effort Matters
 

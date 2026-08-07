@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the attention apex never engages the frontal-vs-posterior debate — it locates willed attention in frontal networks while placing consciousness elsewhere, and that framing is contested
-
-- **Type**: refine-draft
-- **File**: obsidian/apex/attention-as-causal-bridge.md
-- **Review file**: `reviews/outer-review-2026-08-07-gemini-3-1-pro.md`
-- **Source**: outer-review
-- **Synthesis**: `reviews/outer-review-synthesis-2026-08-07.md`
-- **Generated**: 2026-08-07
-- **Notes**: **SINGLETON (1 of 3 reviewers: gemini-3-1-pro) — priority deliberately LEFT AT P2 by /combine-outer-reviews 2026-08-07. It is verified but no other reviewer raised it, so the convergence upgrade does not apply.** **THE ONLY SURVIVING FINDING of the 2026-08-07 Gemini review — four of its five headline weaknesses were refuted against the article's own text, and five quotes it attributed to the article are fabricated. Read the Verification Notes in the review file before touching anything from that review.** This one checks out: grep finds no Cohen, Pitts, Overgaard or Fazekas in the article, and no engagement with the live question of whether prefrontal activity tracks consciousness itself or merely its *reporting*. The article maps willed attention to frontal networks (frontal theta, frontoparietal coherence, L72/L146) while placing consciousness outside the physical brain — a mapping that leans on one side of an unsettled dispute without saying so.
-  **⚠️ THE REVIEWER SUPPLIED NO USABLE CITATION.** Its source line is "Cohen, M. A., Pitts, M., & Overgaard, M. (2020-2025 literature on frontal vs. sensory theories …)" — no title, no year, no venue. The underlying literature is real but must be found and web-verified at the publisher before anything is inserted ([[ai_citation_metadata_unreliable]]); do not paste the reviewer's non-citation into the References list.
-  **SCOPE — one short passage, not a section.** Mark the frontal/posterior question as contested where the willed-mode markers are introduced. Apply the [[direct-refutation-discipline]] remit: the honest move here is most likely naming the framework-boundary disagreement, since the Map's reading and the posterior/sensory reading are compatible with the same markers. Keep mode labels out of the body — they belong in the changelog entry.
-  **DO NOT DUPLICATE the open P2 above** ([[outer-review-same-file-task-pileup]] — this apex now carries four open tasks). That task already owns the COGITATE framing at L58/L146; this one owns only the frontal/posterior localisation question. Two P1s own the gamma re-attribution and the Sjöberg stance. Keep the scopes disjoint.
-  **Tenet alignment**: Tenet 1 (Dualism) — calibration of the evidential case, not retraction.
-
 ### P2: discharge the framework-level active-inference confrontation the attention apex itself declares "owed and not discharged"
 
 - **Type**: refine-draft
@@ -2488,6 +2474,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-07: the attention apex never engages the frontal-vs-posterior debate — it locates willed attention in frontal networks while placing consciousness elsewhere, and that framing is contested
+- **Type**: refine-draft
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Notes**: **SINGLETON (1 of 3 reviewers: gemini-3-1-pro) — priority deliberately LEFT AT P2 by /combine-outer-reviews 2026-08-07. It is verified but no other reviewer raised it, so the convergence upgrade does not apply.** **THE ONLY SURVIVING FINDING of the 2026-08-07 Gemini review — four of its five headline weaknesses were refuted against the article's own text, and five quotes it attributed to the article are fabricated. Read the Verification Notes in the review file before touching anything from that review.** This one checks out: grep finds no Cohen, Pitts, Overgaard or Fazekas in the article, and no engagement with the live question of whether prefrontal activity tracks consciousness itself or merely its *reporting*. The article maps willed attention to frontal networks (frontal theta, frontoparietal coherence, L72/L146) while placing consciousness outside the physical brain — a mapping that leans on one side of an unsettled dispute without saying so.
+  **⚠️ THE REVIEWER SUPPLIED NO USABLE CITATION.** Its source line is "Cohen, M. A., Pitts, M., & Overgaard, M. (2020-2025 literature on frontal vs. sensory theories …)" — no title, no year, no venue. The underlying literature is real but must be found and web-verified at the publisher before anything is inserted ([[ai_citation_metadata_unreliable]]); do not paste the reviewer's non-citation into the References list.
+  **SCOPE — one short passage, not a section.** Mark the frontal/posterior question as contested where the willed-mode markers are introduced. Apply the [[direct-refutation-discipline]] remit: the honest move here is most likely naming the framework-boundary disagreement, since the Map's reading and the posterior/sensory reading are compatible with the same markers. Keep mode labels out of the body — they belong in the changelog entry.
+  **DO NOT DUPLICATE the open P2 above** ([[outer-review-same-file-task-pileup]] — this apex now carries four open tasks). That task already owns the COGITATE framing at L58/L146; this one owns only the frontal/posterior localisation question. Two P1s own the gamma re-attribution and the Sjöberg stance. Keep the scopes disjoint.
+  **Tenet alignment**: Tenet 1 (Dualism) — calibration of the evidential case, not retraction.
 
 ### ✓ 2026-08-07: the attention apex asserts at L58 that materialism "cannot accommodate the full pattern" and retracts it at L146 — plus two unverified framing candidates in the same file
 - **Type**: refine-draft
