@@ -2,8 +2,9 @@
 title: "Research Notes - Petitmengin's Microphenomenological Interview Method"
 created: 2026-04-19
 draft: false
+ai_modified: 2026-08-07T00:52:00+00:00
 ai_contribution: 100
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-04-19
 topics: []
 concepts: []
@@ -29,7 +30,7 @@ related_articles: []
 
 ## Executive Summary
 
-Microphenomenology is a disciplined second-person interview method developed by Claire Petitmengin (building on Pierre Vermersch's *entretien d'explicitation*) that guides a subject through a phenomenological reduction, evokes a specific past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading content- and position-direction questions. Analysis transforms singular descriptions into generic diachronic (temporal) and synchronic (momentary) structures via a 15-stage iterative abductive procedure. Applications include epileptic prodrome recognition, meditation phenomenology, pain, creative insight, and HCI. No published study has used the method to test metaphysical dualism directly, but the technique bears on Husserlian evidence standards: it systematically strengthens assertoric and presumptive claims about experiential content while leaving apodictic claims (that experience has structure at all) untouched. Documented limits include retrospective reconstruction risk, demand characteristics, cognitive load, and the need for extensive interviewer training; reliability studies (Olivares et al. 2015) show ~80% detection of experimental manipulations.
+Microphenomenology is a disciplined second-person interview method developed by Claire Petitmengin (building on Pierre Vermersch's *entretien d'explicitation*) that guides a subject through a phenomenological reduction, evokes a specific past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading content- and position-direction questions. Analysis transforms singular descriptions into generic diachronic (temporal) and synchronic (momentary) structures via an iterative abductive procedure (the fifteen-stage "concertina" protocol is Valenzuela-Moguillansky & Vásquez-Rosati's 2019 companion paper, not Petitmengin et al.'s). Applications include epileptic prodrome recognition, meditation phenomenology, pain, creative insight, and HCI. No published study has used the method to test metaphysical dualism directly, but the technique bears on Husserlian evidence standards: it systematically strengthens assertoric and presumptive claims about experiential content while leaving apodictic claims (that experience has structure at all) untouched. Documented limits include retrospective reconstruction risk, demand characteristics, cognitive load, and the need for extensive interviewer training; the choice-blindness study (Petitmengin et al. 2013, reviewed by Olivares et al. 2015) showed 80% detection of experimental manipulations with an elicitation interview against 33% without.
 
 ## Key Sources
 
@@ -59,9 +60,10 @@ Microphenomenology is a disciplined second-person interview method developed by 
 - **Type**: Peer-reviewed paper (*Phenomenology and the Cognitive Sciences*, 18(4), 691–730)
 - **Key points**:
   - Systematises the *analysis* side of the method (separate from interview technique)
-  - 15-stage "concertina" procedure across five sections
   - Iterative abductive process: singular pre-reflective descriptions → refined generic experiential structures
   - Diachronic (temporal unfolding) and synchronic (momentary structure) units of analysis constructed and linked
+  - Specifies **four modes** of assessing an analysis's *performative consistency* (§5.4): confirmation/invalidation by iteration; by partition; neurophenomenological triangulation with neural measures (Lutz 2002); inter-researcher confirmation
+  - ⚠️ This paper gives **no stage count**. The "15-stage concertina procedure across five sections" belongs to Valenzuela-Moguillansky & Vásquez-Rosati (2019), *Constructivist Foundations* 14(2): 123–145 — a different paper. Verified at primary text 2026-08-07.
 - **Tenet alignment**: Methodological — enables replicability claims
 - **Relevance**: Answers the question "how is microphenomenological data coded?" The paper makes the analytic procedure traceable and thereby intersubjectively checkable.
 
@@ -81,35 +83,38 @@ Microphenomenology is a disciplined second-person interview method developed by 
   - Very few studies on the lived experience of meditation (moment-to-moment) exist — microphenomenology fills this gap
   - Boundary-dissolution studies identify six experiential features: sense of location, agency, first-person perspective, attention, body sensations, affective valence
 
-### Petitmengin, Navarro & Le Van Quyen (2006/2007) — Seizure anticipation studies
+### Petitmengin et al. (2006, 2007) — Seizure anticipation studies
 - **URL**: https://pubmed.ncbi.nlm.nih.gov/16861044/ and https://pubmed.ncbi.nlm.nih.gov/17590351/
-- **Type**: Peer-reviewed papers (*Epilepsy and Behavior*; *Phenomenology and the Cognitive Sciences*)
+- **Type**: Peer-reviewed papers — Petitmengin, **Baulac** & Navarro (2006), *Epilepsy & Behavior* 9(2), 298–306; Petitmengin, Navarro & Le Van Quyen (2007), ***Consciousness and Cognition*** 16(3), 746–764. ⚠️ Le Van Quyen is on the 2007 paper only; the 2007 venue is *not* *Phenomenology and the Cognitive Sciences*.
 - **Key points**:
-  - Conducted at Varela's Salpêtrière team
+  - Conducted with the Pitié-Salpêtrière epilepsy unit, in the neurophenomenological programme Varela had founded there (the 2006 paper is dedicated to his memory; he died 2001)
+  - Nine patients with auras studied; six also experienced prodromes
   - Interviews revealed *prodromes* (continuous, hour-scale preictal symptoms) distinct from *auras* (sudden, intermittent)
-  - Prodromes were invisible to casual introspection and to third-person neurodynamic measurements alone; microphenomenology surfaced them
-  - Clinical pay-off: patients can learn to recognise prodromes and take counter-measures, reducing seizures non-pharmacologically
-- **Relevance**: Strongest extant demonstration that the method yields *novel*, clinically actionable first-person data that would be otherwise unavailable
+  - Prodromes were invisible to casual introspection; third-person measures could locate a preictal state without characterising its experiential nature
+  - Counter-measures documented (neutralising/avoiding a facilitating factor, physical activity, regular breathing, focused attention, conversation) were **developed spontaneously by patients**, not taught by the interview
+  - ⚠️ **No clinical follow-up and no seizure-frequency outcome is reported.** The authors state they "cannot give a precise evaluation of the success of these countermeasures," offer patient testimony about *believed* effectiveness, and endorse Spatt et al.'s warning that self-reported seizure abortion does not demonstrate efficacy (auras often stop unaided). Their verdict: prodromes "are not specific enough for clinical use," though they may refine behavioural treatment strategies. Verified at primary text 2026-08-07.
+- **Relevance**: Strongest extant demonstration that the method yields *novel* first-person data otherwise unavailable — a methodological result, not a demonstrated clinical benefit
 
 ### Olivares et al. (2015) / reliability literature — cited via Sparby & others
 - **URL**: Discussed in https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12858 and https://link.springer.com/article/10.1007/s11097-021-09744-z
-- **Type**: Empirical reliability study (cited in reviews)
+- **Type**: Review paper — ⚠️ Olivares et al. *review* the 80% figure; the finding itself is Petitmengin, Remillieux, Cahour & Carter-Thomas (2013)
 - **Key points**:
   - Experimental manipulations detected in ~80% of trials when microphenomenological interview was used
   - Supports claim that the method produces descriptions tracking real experiential differences, not noise
 - **Limit**: 80% is far from 100%; leaves room for false positives and misses
 
-### Hurlburt & Akhter / Petitmengin response — Can we trust the phenomenological interview?
-- **URL**: https://link.springer.com/article/10.1007/s11097-021-09744-z
-- **Type**: Peer-reviewed paper on *Phenomenology and the Cognitive Sciences*
+### Høffding, Martiny & Roepstorff (2022) — Can we trust the phenomenological interview?
+- **URL**: https://doi.org/10.1007/s11097-021-09744-z
+- **Type**: Peer-reviewed paper (*Phenomenology and the Cognitive Sciences*, 21(1), 33–51)
 - **Key points**:
   - Catalogues metaphysical, epistemological, and methodological objections
   - Memory reconstruction / confabulation concern — Nisbett & Wilson (1977) heritage
-  - Response: the method's evocation and non-leading structure *address* these concerns but do not eliminate them
+  - ⚠️ **The paper is a DEFENCE, not a sceptical verdict.** It concludes phenomenological interviews are "in no principled way less reliable or less valid than quantitative or experimental methods," and that a critic must either grant the method its grounds or adopt a scepticism corrosive to all consciousness science. Cite it for the catalogue, never for "finds the method's responses partial." Not authored by Hurlburt or Petitmengin. Verified 2026-08-07.
 
-### Valenzuela-Moguillansky & Vásquez-Rosati (2019) — Micro-phenomenology applied to itself
+### Heimann et al. (2022) — Micro-phenomenology applied to itself
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC9834112/
-- **Type**: Peer-reviewed paper
+- **Type**: Peer-reviewed paper (*Phenomenology and the Cognitive Sciences*, 22(1), 217–245)
+- **Authors**: Heimann, K., Boelsbjerg, H. B., Allen, C. T., van Beek, M., Suhr, C., Lübbert, A., & Petitmengin, C. — ⚠️ **not** Valenzuela-Moguillansky & Vásquez-Rosati, whose 2019 *Constructivist Foundations* paper is a different work (the fifteen-stage analysis procedure). Verified 2026-08-07.
 - **Key points**:
   - Meta-study: what is it like to be interviewed, what makes a "good" interview?
   - Supports claim that the method is *self-applicable* — an unusual form of reflexive validation
@@ -121,13 +126,14 @@ Microphenomenology is a disciplined second-person interview method developed by 
   - Enactivist critics: method works well for individual experiential moments but struggles with intrinsically relational experiences (interpersonal encounters)
   - Some experiences resist elicitation because "there is just too much going on"
 
-### Sparby (2023) — Training naive subjects in micro-phenomenological self-inquiry for headache
+### Sparby, Leass, Weger & Edelhäuser (2023) — Training naive subjects in micro-phenomenological self-inquiry for headache
 - **URL**: https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12858
-- **Type**: Peer-reviewed paper (*Scandinavian Journal of Psychology*)
+- **Type**: Peer-reviewed paper (*Scandinavian Journal of Psychology*, 64(1), 60–70)
 - **Key points**:
-  - Extends method to *self-inquiry* (no external interviewer)
-  - Removes second-person bias but admits first-person bias
+  - Extends method to *self-inquiry* (no external interviewer); training reported as workable
+  - Stated trade-off is that bracketing interpretation buys depth about singular moments at the cost of overlooking overarching dimensions of meaning
   - Cognitively demanding; requires training
+  - ⚠️ The paper does **not** concede that interviewer-mediation supplies reliability self-inquiry forgoes; it concludes self-inquiry "can potentially be employed successfully in a clinical setting with initially untrained subjects". That question is contested, not conceded. Verified 2026-08-07.
 
 ## Major Positions
 
@@ -136,7 +142,7 @@ Microphenomenology is a disciplined second-person interview method developed by 
 - **Core claim**: Disciplined interview guided by phenomenological reduction + evocation of a specific, singular moment + non-leading content- and position-direction questions enables description of pre-reflective experiential structure previously inaccessible to casual introspection. Iterative analysis yields generic structures that converge across subjects and across independent analysts.
 - **Key arguments**:
   - Procedural specificity makes steps traceable (2019 analysis paper)
-  - Convergence at three levels: intra-subject consistency, inter-subject structural recurrence, inter-analyst reliability
+  - Assessment of results: four modes of *performative consistency* (iteration, partition, neurophenomenological triangulation, inter-researcher confirmation) — ⚠️ earlier drafts of this note said "convergence at three levels: intra-subject / inter-subject / inter-analyst"; that taxonomy is not in the source
   - Novel clinically useful data in epilepsy case (2006/2007)
   - Reliability study: 80% detection of manipulations
 - **Relation to site tenets**: Directly supports the *Phenomenological Method and Evidence Standards* topic and the Dualism tenet. Microphenomenology operationalises what Husserl's evidence taxonomy names — it sharpens assertoric descriptions of pre-reflective content while the apodictic bedrock (*that* there is experiencing) is not at stake. Supports Occam's Razor Has Limits: materialist "simplicity" may reflect methods that cannot detect the relevant structure, not absence of structure (cf. epilepsy prodromes invisible to neurodynamic analysis alone).
@@ -199,10 +205,11 @@ Microphenomenology is a disciplined second-person interview method developed by 
 | 2006–2007 | Petitmengin et al. on seizure anticipation | First major clinical demonstration — prodrome discovery |
 | 2015 | Olivares et al. reliability study (~80% detection) | Empirical validation that the method tracks real experiential differences |
 | 2017 | Bitbol & Petitmengin, *Blackwell Companion* chapter | Consolidates microphenomenology as operational arm of neurophenomenology |
-| 2019 | Petitmengin, Remillieux & Valenzuela-Moguillansky analysis paper | Formalises 15-stage analysis procedure |
+| 2019 | Petitmengin, Remillieux & Valenzuela-Moguillansky analysis paper | Formalises the analysis side; four modes of performative consistency |
+| 2019 | Valenzuela-Moguillansky & Vásquez-Rosati, *Constructivist Foundations* 14(2) | Fifteen-stage "concertina" analysis protocol |
 | 2019 | Petitmengin on meditation (*Current Opinion in Psychology*) | Contemplative applications |
 | 2019 | Di Paolo & De Jaegher sympathetic critique | Enactivist limits — relational experiences |
-| 2021 | Hurlburt-adjacent "Can we trust the phenomenological interview?" | Cataloguing of metaphysical, epistemological, methodological objections |
+| 2022 | Høffding, Martiny & Roepstorff, "Can we trust the phenomenological interview?" | Catalogues the objections — and answers them; a defence of the method |
 | 2022 | Valenzuela-Moguillansky et al. — microphenomenology applied to itself | Reflexive validation |
 | 2023 | Sparby — training naive subjects in MPSI for headache | Self-inquiry extension |
 | 2025 | Sandved-Smith et al., "Deep computational neurophenomenology" | Integration with computational active-inference models |
@@ -246,7 +253,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Minimal Quantum Interaction**: Neutral. Microphenomenology is compatible with any metaphysics that admits phenomenological data as real.
 - **Bidirectional Interaction**: Weak support. If phenomenological reports reliably track experiential structure (as the 80% reliability result suggests), then the very existence of these reports is evidence that consciousness has causal access to its own structure — a fact epiphenomenalism must handle.
 - **No Many Worlds**: Irrelevant.
-- **Occam's Razor Has Limits**: Direct support via the epilepsy prodrome case. Prodromes existed, were clinically actionable, and were invisible to the simpler third-person methodology. Microphenomenology detected them. A parsimony-first methodology would have missed them. This is a concrete illustration of the tenet.
+- **Occam's Razor Has Limits**: Direct support via the epilepsy prodrome case. Prodromes existed and were not characterised by the simpler third-person methodology (the authors judge them "not specific enough for clinical use", so the tenet point is about what inquiry *surfaces*, not clinical pay-off). Microphenomenology detected them. A parsimony-first methodology would have missed them. This is a concrete illustration of the tenet.
 
 ## Gaps in Research
 
@@ -255,7 +262,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Reliability literature is thin.** The 80% figure from Olivares et al. is widely cited but I did not find replications or a meta-analysis.
 - **Relation to Husserlian evidence taxonomy is under-theorised** — the literature tends to treat microphenomenology as "inspired by Husserl" rather than mapping it onto the apodictic/assertoric/presumptive distinctions explicitly. An article drawing those connections explicitly would be novel.
 - **Training requirements are described qualitatively** but not quantified — how many hours, what exactly is trained, what the acquisition curve looks like.
-- **Philosophical critique beyond introspective scepticism** is sparse. The Hurlburt-adjacent objections paper catalogues concerns, but deeper engagement with e.g. heterophenomenological challenges is limited.
+- **Philosophical critique beyond introspective scepticism** is sparse. Høffding, Martiny & Roepstorff catalogue concerns (while defending the method), but deeper engagement with e.g. heterophenomenological challenges is limited.
 
 ## Citations
 
@@ -268,8 +275,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59. https://podcast.mindandlife.org/wp-content/uploads/2021/01/Petitmengin_Studying-the-experience_CurrOpin2019.pdf
 - Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730. https://link.springer.com/article/10.1007/s11097-018-9597-4
 - Petitmengin, C., van Beek, M., Bitbol, M., Nissou, J.-M., & Roepstorff, A. (2017). What is it like to meditate? *Journal of Consciousness Studies*.
-- Sparby, T. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*. https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12858
-- Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022/2023). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*. https://pmc.ncbi.nlm.nih.gov/articles/PMC9834112/
+- Sparby, T., Leass, M., Weger, U. W., & Edelhäuser, F. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*, 64(1), 60–70. https://onlinelibrary.wiley.com/doi/full/10.1111/sjop.12858
+- Heimann, K., Boelsbjerg, H. B., Allen, C. T., van Beek, M., Suhr, C., Lübbert, A., & Petitmengin, C. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*, 22(1), 217–245. https://pmc.ncbi.nlm.nih.gov/articles/PMC9834112/
+- Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2019). An analysis procedure for the micro-phenomenological interview. *Constructivist Foundations*, 14(2), 123–145.
 - Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
 - Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
-- (Reliability/objections review) "Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections." *Phenomenology and the Cognitive Sciences* (2022). https://link.springer.com/article/10.1007/s11097-021-09744-z
+- Høffding, S., Martiny, K. M., & Roepstorff, A. (2022). Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections. *Phenomenology and the Cognitive Sciences*, 21(1), 33–51. https://doi.org/10.1007/s11097-021-09744-z

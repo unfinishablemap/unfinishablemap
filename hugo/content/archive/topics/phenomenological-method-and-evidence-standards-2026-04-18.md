@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-25 19:34:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-07 00:52:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 archive_reason: Re-coalesced into Phenomenal Authority and First-Person Evidence.
   The original article at this slug was coalesced 2026-04-05; a new article was created
   at the same slug 2026-04-18 covering substantially the same Husserlian-evidence
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-20 17:46:00+00:00
-lastmod: 2026-04-25 19:34:00+00:00
+lastmod: 2026-08-07 00:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The intersubjective dimension of phenomenological method is its most underapprec
 Three sources of convergence carry distinctive evidential weight—each with a more defensible narrow form and a contested broader form that the literature has engaged at length.
 
 - **Trained meditators across contemplative traditions** converge on a limited set of structural features—the distinction between focused attention and open monitoring, the malleability of the attentional field under training, the phenomenological reality of background awareness distinct from object-directed cognition—even when the traditions theorise these features very differently. The stronger "perennialist" convergence claim (Stace 1960; Forman 1990 on the "pure consciousness event") has been met by serious contextualist critique: Katz (1978) argues that apparently-convergent reports are heavily shaped by tradition-specific theory and training, and Sharf (1995) challenges the meditator-as-empiricist model that the convergence argument presupposes. The foundational-level divergences are real: Madhyamaka denies inherent structures; Vedānta posits eternal *sat-cit-ānanda*; theistic traditions report union with a personal God. The defensible claim is restricted to structural features that survive translation across these frameworks; the stronger "all traditions report the same thing" claim fails under the contextualist critique and is disavowed here. The [contemplative epistemology](/concepts/contemplative-epistemology/) article develops the narrower case.
-- **[Microphenomenological interview techniques](/topics/microphenomenological-interview-method/)** (Petitmengin 2006; Bitbol & Petitmengin 2017) elicit fine-grained descriptions of brief experiential moments through non-leading prompts and re-enactment, revealing structures invisible to casual introspection while controlling for suggestion and theory-contamination. The epilepsy-prodrome work (Petitmengin, Navarro & Le Van Quyen 2007) provides the strongest empirical demonstration: continuous preictal experiences invisible to both casual introspection and contemporary neurodynamic measurement were surfaced by disciplined interviewing and proved clinically actionable. Mapped against the Husserlian taxonomy, the method strengthens *assertoric* warrant for pre-reflective content and raises *presumptive* claims about generic structure via inter-subject convergence; it does not deliver apodictic certainty, and it does not resolve the adequacy problem—a sober ceiling that the [sibling article](/topics/microphenomenological-interview-method/) develops in detail. Because the convergence here is within a single methodological framework, it escapes the cross-tradition contextualist objection: the agreement is between independent interviewers processing the same elicitation protocol rather than between meditators embedded in different theoretical worlds.
+- **[Microphenomenological interview techniques](/topics/microphenomenological-interview-method/)** (Petitmengin 2006; Bitbol & Petitmengin 2017) elicit fine-grained descriptions of brief experiential moments through non-leading prompts and re-enactment, revealing structures invisible to casual introspection while controlling for suggestion and theory-contamination. The epilepsy-prodrome work (Petitmengin, Baulac & Navarro 2006; Petitmengin, Navarro & Le Van Quyen 2007) provides the strongest empirical demonstration: continuous preictal experiences that casual introspection did not report and contemporary neurodynamic measurement did not characterise were surfaced by disciplined interviewing, though the authors judge prodromes "not specific enough for clinical use". Mapped against the Husserlian taxonomy, the method strengthens *assertoric* warrant for pre-reflective content and raises *presumptive* claims about generic structure via inter-subject convergence; it does not deliver apodictic certainty, and it does not resolve the adequacy problem—a sober ceiling that the [sibling article](/topics/microphenomenological-interview-method/) develops in detail. Because the convergence here is within a single methodological framework, it escapes the cross-tradition contextualist objection: the agreement is between independent interviewers processing the same elicitation protocol rather than between meditators embedded in different theoretical worlds.
 - **Cross-cultural phenomenological reports** of altered states, anomalous experiences, and developmental milestones in attention show *some* structural agreement across linguistic and theoretical frameworks. The extent of genuine agreement versus homophonous reports masking deep disagreement is a live question; contextualists read most apparent agreement as methodological artefact, while perennialists read it as evidence of trans-traditional features of consciousness. The claim this article rests on is the modest one: agreement exists on specific structural features (the possibility of training attention, the phenomenological reality of effortless or absorbed states, the distinction between reflective and pre-reflective modes) while large tracts of the phenomenological map remain tradition-specific.
 
 None of these is conclusive on its own. Taken together, and limited to the narrower formulations above, they suggest that what trained observers find is at least partly a feature of consciousness itself and partly an artefact of the training programme—and the empirical work of the next decades is to sort which is which.
@@ -172,7 +172,7 @@ Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 
 Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 
-Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
+Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Consciousness and Cognition*, 16(3), 746–764.
 
 Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691-730.
 

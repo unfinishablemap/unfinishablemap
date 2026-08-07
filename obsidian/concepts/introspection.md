@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-04T03:15:23+00:00
+ai_modified: 2026-08-07T00:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[contentless-awareness-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T11:35:46+00:00
@@ -96,7 +96,7 @@ Even granting this limitation, the finding suggests introspection resembles othe
 
 Claire Petitmengin's [[microphenomenological-interview-method|microphenomenology]] is a disciplined second-person interview procedure designed to minimize confabulation. Subjects are guided into embodied evocation of a singular past experiential moment, then elicited through non-leading prompts that distinguish *what* the experience contained from *how* it was given—the structure of lived experience, not the neural processes producing it. In Metzinger's terms, the method cultivates [[phenomenal-transparency-opacity-spectrum|phenomenal opacity]]—shifting experience from transparent (presenting as direct contact with reality) toward opaque (visible *as* representation).
 
-The method's strongest empirical demonstration is Petitmengin, Navarro, and Le Van Quyen's (2006/2007) work on epilepsy prodromes: continuous, hour-scale premonitory experiences that patients did not spontaneously report and that third-person measurements did not detect. Microphenomenological interviewing surfaced them, and patients who learned to recognise their own prodromes reduced seizure frequency non-pharmacologically. Trained first-person inquiry can be *ampliative*—surfacing content that casual introspection and external instruments both miss.
+The method's strongest empirical demonstration is Petitmengin and colleagues' (2006, 2007) work on epilepsy prodromes: continuous, hour-scale premonitory experiences that patients did not spontaneously report and that third-person measurements did not characterise. Microphenomenological interviewing surfaced them, and documented the counter-measures patients had developed spontaneously—though the authors report they cannot evaluate how well those counter-measures worked, and judge prodromes "not specific enough for clinical use". Trained first-person inquiry can be *ampliative*—surfacing content that casual introspection and external instruments both miss.
 
 "Performative coherence" replaces correspondence as the validity criterion—but determining the "actual texture" requires the very access under evaluation. Microphenomenology constrains the calibration problem without solving it.
 

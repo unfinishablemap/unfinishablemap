@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-14 08:15:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-07 00:52:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 archive_reason: Coalesced into The Microphenomenological Interview Method
 archived: true
 archived_date: 2026-05-14 08:15:00+00:00
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-11 20:27:00+00:00
-lastmod: 2026-05-14 08:15:00+00:00
+lastmod: 2026-08-07 00:52:00+00:00
 modified: *id001
 original_path: /concepts/microphenomenological-interview/
 related_articles:
@@ -51,7 +51,7 @@ The interview targets one specific, singular past moment rather than a generic r
 
 **Iteration and re-enactment.** Rounds of evocation alternate with description. The subject may return several times to the same micro-interval — often seconds or tenths of a second — at progressively finer grain.
 
-**Analysis.** Petitmengin, Remillieux and Valenzuela-Moguillansky (2019) formalised a separate 15-stage iterative procedure that transforms singular transcripts into two kinds of generic structure: *diachronic* (temporal unfolding — phases, transitions, durations) and *synchronic* (momentary structure — what is co-present in a single instant). Convergence is claimed at three levels: intra-subject (the same subject re-interviewed yields the same structure), inter-subject (different subjects yield convergent generic structures for comparable episodes), and inter-analyst (independent coders extract the same structures from the same transcript).
+**Analysis.** Petitmengin, Remillieux and Valenzuela-Moguillansky (2019) formalised a separate iterative procedure that transforms singular transcripts into two kinds of generic structure: *diachronic* (temporal unfolding — phases, transitions, durations) and *synchronic* (momentary structure — what is co-present in a single instant); Valenzuela-Moguillansky and Vásquez-Rosati (2019) give a more prescriptive companion protocol of fifteen stages in five sections. Rather than claiming simple reproducibility, Petitmengin and colleagues specify four modes of assessing an analysis's *performative consistency*: confirmation or invalidation by iteration, by partition, by neurophenomenological triangulation with neural measures, and by inter-researcher comparison of structures extracted from the same corpus.
 
 The "second-person" label refers to Petitmengin's (2006) framing: the data is about a first-person experience (the subject's "I…"), but it is gathered through another person (a "You"). The interviewer is structural — sustaining evocative attitude, withholding leading content — rather than interpretive.
 
@@ -66,7 +66,7 @@ The evidence offered for the remedy works at four levels:
 - **Convergence with classical phenomenological method.** Petitmengin's writing frames microphenomenology as operationalising the [Husserlian reduction](/concepts/phenomenology/) as a replicable interview act rather than a philosopher's solitary exercise. Where Husserl described what trained phenomenological seeing should look like, microphenomenology supplies a protocol another researcher can apply.
 - **Convergence with neurophenomenology.** Varela's (1996) neurophenomenological programme called for first-person methods disciplined enough to constrain — and be constrained by — third-person neural data. The interview is the operational arm of that programme: dense first-person descriptions are aligned with simultaneous EEG or fMRI under mutual constraint (Bitbol and Petitmengin 2017).
 - **Convergence with neural-correlates findings.** Where microphenomenological interview has been deployed alongside neural measurement (epilepsy preictal periods, meditation experiments, perceptual-binding studies), the experiential structures elicited have aligned with neural patterns in ways that support the descriptions as tracking real distinctions rather than confabulating in response to interviewer cues.
-- **Empirical reliability.** Olivares et al. (2015) reported that experimental manipulations were detected in approximately 80% of trials when the microphenomenological interview was used — strong evidence against the null hypothesis that the reports are noise, well short of perfect detection. The 80% figure is widely cited; no meta-analytic replication appears in the available record.
+- **Empirical reliability.** Petitmengin, Remillieux, Cahour and Carter-Thomas (2013) found that experimental manipulations were detected in 80% of trials when an elicitation interview was used, against 33% without it — strong evidence against the null hypothesis that the reports are noise, well short of perfect detection. The figure is widely cited (Olivares et al. 2015 review it); no meta-analytic replication appears in the available record.
 
 None of this turns introspection into a guaranteed source. It does shift the dialectic. The blanket dismissal of phenomenological evidence as folk-psychological noise was reasonable when "phenomenology" meant casual self-report. It is less reasonable when phenomenology is a protocolised inter-subjectively checkable procedure with convergent yields under neural measurement.
 
@@ -94,7 +94,7 @@ The microphenomenological interview sits among several techniques aimed at the s
 
 ## Evidential Status
 
-The microphenomenological interview is contested but not noise. The 80% reliability figure (Olivares et al. 2015) is a strong result against the null hypothesis that disciplined reports are arbitrary, and well short of perfect detection. The 2021 review "Can we trust the phenomenological interview?" catalogues memory-reconstruction, demand-characteristic, and pragmatic-pressure objections at length, and finds the method's responses partial.
+The microphenomenological interview is contested but not noise. The 80%-against-33% detection result (Petitmengin et al. 2013) is a strong result against the null hypothesis that disciplined reports are arbitrary, and well short of perfect detection. Høffding, Martiny and Roepstorff (2022) catalogue the memory-reconstruction, demand-characteristic and pragmatic-pressure objections at length — and answer them, concluding that phenomenological interviewing is "in no principled way less reliable or less valid" than quantitative or experimental method. The catalogue is what this page draws on; their verdict is friendlier to the method than anything argued here.
 
 The honest summary: the interview substantially strengthens *assertoric* warrant about pre-reflective content (better grounded than casual introspection; still revisable) and raises *presumptive* claims about generic experiential structure via inter-subject convergence. It does not deliver indubitable evidence, and it does not resolve the heterophenomenologist's objection that all it surfaces is verbal report, not access to phenomenal content. (That residual gap is what makes [heterophenomenology](/concepts/heterophenomenology/) a live alternative.) The case the method warrants is methodological: phenomenological reports collected this way deserve weighing, not dismissal. That is enough for the Map's purposes.
 
@@ -102,7 +102,7 @@ The honest summary: the interview substantially strengthens *assertoric* warrant
 
 The Map's [Dualism tenet](/tenets/#dualism) is, in part, an evidence claim: first-person access reveals features of consciousness that third-person methods cannot describe without residue. The standard objection is that first-person reports are too unreliable to bear that load. The microphenomenological interview is the Map's cleanest response to that objection — not because the method proves dualism (it does not, and its authors are scrupulously agnostic on the metaphysics), but because it removes the version of the anti-dualist argument that says no disciplined first-person data exists at all.
 
-The method also bears on the [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) through the epilepsy-prodrome demonstration (developed in the [topic article](/topics/microphenomenological-interview-method/)): preictal experiential content invisible to third-person measurement was surfaced by disciplined interview and turned out to be clinically actionable. A parsimony-driven methodology committed to third-person instruments alone would have declared the question settled in the wrong direction. The Map reads this as a concrete illustration that methodological minimalism can be mistaken for epistemic humility.
+The method also bears on the [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) through the epilepsy-prodrome demonstration (developed in the [topic article](/topics/microphenomenological-interview-method/)): preictal experiential content invisible to third-person measurement was surfaced by disciplined interview. The study's own authors report that they "cannot give a precise evaluation of the success of these countermeasures" and judge prodromes "not specific enough for clinical use," so the demonstration is that trained first-person inquiry is *ampliative* — it yields content untrained observation misses — rather than that it delivered a measured clinical benefit. A parsimony-driven methodology committed to third-person instruments alone would have declared the question settled in the wrong direction. The Map reads this as a concrete illustration that methodological minimalism can be mistaken for epistemic humility.
 
 The Map does not claim that Petitmengin or her collaborators hold any of these tenets. The microphenomenological literature frames itself as compatible with a wide range of metaphysical positions. The Map's reading of the technique as methodologically supportive of its tenets is the Map's own, not the source authors'.
 
@@ -129,7 +129,8 @@ The Map does not claim that Petitmengin or her collaborators hold any of these t
 8. Petitmengin, C., Remillieux, A., Cahour, B., & Carter-Thomas, S. (2013). A gap in Nisbett and Wilson's findings? A first-person access to our cognitive processes. *Consciousness and Cognition*, 22(2), 654–669.
 9. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 10. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/
-11. "Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections" (2021). *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-021-09744-z
-12. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
+11. Høffding, S., Martiny, K. M., & Roepstorff, A. (2022). Can we trust the phenomenological interview? Metaphysical, epistemological, and methodological objections. *Phenomenology and the Cognitive Sciences*, 21(1), 33–51. https://doi.org/10.1007/s11097-021-09744-z
+12. Heimann, K., Boelsbjerg, H. B., Allen, C. T., van Beek, M., Suhr, C., Lübbert, A., & Petitmengin, C. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*, 22(1), 217–245.
+12a. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2019). An analysis procedure for the micro-phenomenological interview. *Constructivist Foundations*, 14(2), 123–145.
 13. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330–349.
 14. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
