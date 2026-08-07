@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-07T13:12:20.279894+00:00'
-session_count: 18632
+last_updated: '2026-08-07T13:29:19.165803+00:00'
+session_count: 18633
 cycle_position: 12506
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-07T04:20:55.005541+00:00'
   refine-draft: '2026-08-07T13:12:20.279894+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
-  replenish-queue: '2026-08-07T03:43:45.149682+00:00'
+  replenish-queue: '2026-08-07T13:29:19.165803+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-07T08:12:33.909779+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-07'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-07'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-07'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-07'
   outcome: success
 agentic_social:
@@ -788,26 +788,27 @@ queue_status:
     and two are already correct, concepts/capability-division-in-vision L54 attributes
     the transition to Ludwig 2023 and apex/cross-modal-capability-division L118 states
     the integration-without-access reading properly, archive carries zero occurrences,
-    and the one research hit is a different 2007 Fahrenfort paper on masking. The void
-    also contradicts its own reference list at L149, which gives the real title. Defect
-    is live in hugo at L53. Scoped the task as re-frame not delete and told it to add
-    the Ludwig reference entry rather than leave an orphan cite. Mint two, obsidian/topics/anti-correlation-probes-for-ai-consciousness.md
-    L90, which grants an advanced AI genuine first-person access to the mind-arena.
-    Verified the mismatch at all three loci, concepts/mind-arena L33 and L45 define
-    the arena extensionally as a domain of outcomes and say explicitly that it names
-    a territory not a mechanism, while the source article topics/dualism-as-ai-risk-mitigation
-    L128 says access to the same kind of system whose third-person opacity grounds
-    the shield, a conscious system. L130 makes the inside-outside gap the thing that
-    licenses the survives-only-partially verdict that L90's own clause leans on, so
-    the slip is not cosmetic. Instructed the successor to rewrite the clause and explicitly
-    not to add a mind-arena wikilink, since linking would ratify the conflation. Third
-    residue deliberately left unowned and reported to the driver instead, concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience
+    and the one research hit is a different 2007 Fahrenfort paper on masking. The
+    void also contradicts its own reference list at L149, which gives the real title.
+    Defect is live in hugo at L53. Scoped the task as re-frame not delete and told
+    it to add the Ludwig reference entry rather than leave an orphan cite. Mint two,
+    obsidian/topics/anti-correlation-probes-for-ai-consciousness.md L90, which grants
+    an advanced AI genuine first-person access to the mind-arena. Verified the mismatch
+    at all three loci, concepts/mind-arena L33 and L45 define the arena extensionally
+    as a domain of outcomes and say explicitly that it names a territory not a mechanism,
+    while the source article topics/dualism-as-ai-risk-mitigation L128 says access
+    to the same kind of system whose third-person opacity grounds the shield, a conscious
+    system. L130 makes the inside-outside gap the thing that licenses the survives-only-partially
+    verdict that L90's own clause leans on, so the slip is not cosmetic. Instructed
+    the successor to rewrite the clause and explicitly not to add a mind-arena wikilink,
+    since linking would ratify the conflation. Third residue deliberately left unowned
+    and reported to the driver instead, concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience
     L37 credits a mechanical thermostat with realising the integral-control relation
     while L43 describes the thermostat as proportional with the integral term arriving
     only at PID. Real but the weakest and most arguable of the three, and the budget
-    was one to two tasks. Confirmed the fourth item needed no action, the missing scripts/curate.py
-    in the refine-draft skill is still recorded as a picker-invisible NEEDS-HUMAN at
-    todo L469 and was not duplicated. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
+    was one to two tasks. Confirmed the fourth item needed no action, the missing
+    scripts/curate.py in the refine-draft skill is still recorded as a picker-invisible
+    NEEDS-HUMAN at todo L469 and was not duplicated. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
     equals 4 and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
     file paths. Re-parsed this state file after writing.
   last_replenishment_note_941: Pre-count P0-P2 equals 2 against a floor of 3, 31 active
