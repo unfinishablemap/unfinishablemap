@@ -2416,6 +2416,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
 
+### ✓ 2026-08-07: the research note that spawned `near-perfect-adaptation-...` is the ANCESTOR of the thermostat contradiction and still carries both halves of it, live
+- **Type**: refine-draft
+- **File**: obsidian/research/near-perfect-adaptation-and-control-theoretic-competency-without-experience-2026-07-15.md
+- **Notes**: Surfaced 2026-08-07T17:28Z while verifying the refine-draft that fixed the article (see the ✓ task on `concepts/near-perfect-adaptation-...`). **The article's contradiction was INHERITED, and the note asserts both halves of it in adjacent sections** — all four loci read on disk:
+
 ### ✓ 2026-08-07: `concepts/near-perfect-adaptation-...-without-experience` contradicts itself on the thermostat — three loci credit it with integral control, and the article's own ladder says it is proportional-only
 - **Type**: refine-draft
 - **File**: obsidian/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md

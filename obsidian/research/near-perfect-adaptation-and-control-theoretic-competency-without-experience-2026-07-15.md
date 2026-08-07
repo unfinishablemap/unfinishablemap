@@ -1,6 +1,7 @@
 ---
 title: Research Notes - Near-Perfect Adaptation and Control-Theoretic Competency Without Experience
 created: 2026-07-15
+ai_modified: 2026-08-07T17:40:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
@@ -30,7 +31,7 @@ Verdict: **worth covering, distinct.** The concept's job is to isolate the ortho
 
 ## Executive Summary
 
-Bacterial chemotaxis's near-perfect adaptation was shown by Yi, Huang, Simon & Doyle (2000) to be an instance of **integral feedback control** — a textbook engineering strategy for making a system's output track a setpoint robustly, independent of parameter noise. The same control primitive (integral / PID feedback, robust perfect adaptation) recurs across thermostats, industrial controllers, cell homeostasis, synthetic gene circuits, and physiological allostasis. This makes robust adaptation a **domain-general competency marker** that is realised end-to-end in systems where no one posits experience (a thermostat, an op-amp integrator). The Map's reading: control-theoretic sophistication is **orthogonal to phenomenality** — "it regulates robustly" gives no purchase on "it feels." The principal rival is the family of **homeostasis-and-feeling** theories (Man & Damasio; Seth's "beast machine" interoceptive inference; Barrett/Sterling allostasis) which tie regulation, or a specific kind of it, constitutively to affect. These must be presented fairly as the strongest opposing case.
+Bacterial chemotaxis's near-perfect adaptation was shown by Yi, Huang, Simon & Doyle (2000) to be an instance of **integral feedback control** — a textbook engineering strategy for making a system's output track a setpoint robustly, independent of parameter noise. The same control primitive (integral / PID feedback, robust perfect adaptation) recurs across industrial controllers, cell homeostasis, synthetic gene circuits, and physiological allostasis. This makes robust adaptation a **domain-general competency marker** that is realised end-to-end in systems where no one posits experience (op-amp integrators, PID integral channels). The Map's reading: control-theoretic sophistication is **orthogonal to phenomenality** — "it regulates robustly" gives no purchase on "it feels." The principal rival is the family of **homeostasis-and-feeling** theories (Man & Damasio; Seth's "beast machine" interoceptive inference; Barrett/Sterling allostasis) which tie regulation, or a specific kind of it, constitutively to affect. These must be presented fairly as the strongest opposing case.
 
 ## Key Sources
 
@@ -100,9 +101,9 @@ Bacterial chemotaxis's near-perfect adaptation was shown by Yi, Huang, Simon & D
 
 ### Position A — Control-Theoretic Sophistication Is Orthogonal to Phenomenality (the Map's reading)
 - **Proponents**: The Unfinishable Map; broadly consonant with deflationary/functionalist-skeptic readings that treat the hard problem as untouched by mechanism.
-- **Core claim**: Robust homeostasis / integral feedback / near-perfect adaptation are **domain-general control competencies** fully realised in uncontroversially non-experiencing systems (thermostat = proportional feedback; op-amp integrator = literal integral control; synthetic gene circuits = engineered robust perfect adaptation). Therefore the presence of such regulation in an organism is a **defeasible functional marker at best, and decisive nowhere** for felt experience.
+- **Core claim**: Robust homeostasis / integral feedback / near-perfect adaptation are **domain-general control competencies** fully realised in uncontroversially non-experiencing systems (op-amp integrator and industrial PID loop = literal integral control; synthetic gene circuits = engineered robust perfect adaptation). Therefore the presence of such regulation in an organism is a **defeasible functional marker at best, and decisive nowhere** for felt experience.
 - **Key arguments**:
-  1. **The thermostat/PID floor.** Integral control is implemented in devices no one thinks feel anything. If the *same* control property appears in a cell, the property itself cannot be what carries phenomenality (else the thermostat would qualify) — a *reductio* against control-sophistication-implies-feeling.
+  1. **The integrator floor.** Integral control is implemented in devices no one thinks feel anything. If the *same* control property appears in a cell, the property itself cannot be what carries phenomenality (else the integrator would qualify) — a *reductio* against control-sophistication-implies-feeling.
   2. **Engineerability (Aoki et al. 2019).** Robust perfect adaptation can be *built into* a molecular circuit on demand. A property you can install by wiring is a structural/dynamical fact, not evidence of an inner point of view.
   3. **Explanatory closure.** As with chemotaxis, the control loop leaves no functional residue that an experiencer is needed to fill (mirrors the bacterial article's argument). Every term — "senses," "tracks a setpoint," "adapts" — names a dynamical feature, none names anything felt.
   4. **Continuity with the Map's cluster.** Same discipline the Map applies across sponges, plants, immune systems, and bacteria: functional competency is not evidence of experience; the hard problem stands where it stood.
@@ -144,7 +145,7 @@ Bacterial chemotaxis's near-perfect adaptation was shown by Yi, Huang, Simon & D
 
 ## Potential Article Angles
 
-1. **"Robust adaptation is a control competency, not a mind" (recommended, concepts/).** Lead with the orthogonality claim; establish integral feedback as domain-general via the thermostat/op-amp/synthetic-circuit floor (Yi et al. + Aoki et al.); use chemotaxis as *one* worked example (cross-link, don't re-derive); stage Damasio/Seth/allostasis fairly as the rival; close with the explanatory-gap reply and the "Relation to Site Perspective" tenet section. Cross-link `control-theoretic-will` (the mirror-image use of control theory) and `phenomenology-vs-function-axis`.
+1. **"Robust adaptation is a control competency, not a mind" (recommended, concepts/).** Lead with the orthogonality claim; establish integral feedback as domain-general via the op-amp/PID/synthetic-circuit floor (Yi et al. + Aoki et al.); use chemotaxis as *one* worked example (cross-link, don't re-derive); stage Damasio/Seth/allostasis fairly as the rival; close with the explanatory-gap reply and the "Relation to Site Perspective" tenet section. Cross-link `control-theoretic-will` (the mirror-image use of control theory) and `phenomenology-vs-function-axis`.
 2. **Alternative: "The setpoint has no inside."** Narrower, sharper framing around setpoint-tracking and what a setpoint is (a reference value, not a preference), foregrounding the reductio. Riskier — needs care not to strawman the restricted rival claim.
 
 Follow `obsidian/project/writing-style.md`: front-load the orthogonality thesis (truncation resilience); use named-anchor summaries for the forward reference to the homeostasis-feeling rival; include only the control-theory background framed for the dualist reading; avoid the "This is not X, it is Y" construct; keep "load-bearing" out unless a premise genuinely bears load.
