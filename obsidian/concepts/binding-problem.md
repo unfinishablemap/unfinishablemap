@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-08-04T02:24:11+00:00
+ai_modified: 2026-08-07T21:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -168,7 +168,7 @@ Experimental work has moved from theoretical possibility toward direct support:
 - **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Baum argues that zero-lag gamma synchrony cannot arise classically without violating relativistic causality, which he reads as pointing toward quantum non-locality. The inference is contested—classical dynamical-relaying models reproduce zero-lag synchrony despite long conduction delays—so this is a live argument rather than settled evidence (see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]).
 
-None of this proves quantum unity generates phenomenal unity. But three converging lines—pharmacological predictions confirmed, imaging signatures detected, classical mechanisms physically constrained—shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The broader [[testing-consciousness-collapse|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand.
+None of this proves quantum unity generates phenomenal unity. Two lines carry weight—pharmacological predictions confirmed, imaging signatures detected—and together they shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The relativistic constraint is not a third: as the bullet above records, classical relay-hub models reproduce zero-lag synchrony despite long delays, so that line is contested at its premise. The broader [[testing-consciousness-collapse|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand.
 
 ## Phenomenal Unity as Primitive
 

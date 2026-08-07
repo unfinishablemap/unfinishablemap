@@ -4,7 +4,7 @@ description: "A calibrated account of zero-lag gamma synchrony: a real, classica
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
+ai_modified: 2026-08-07T21:31:00+00:00
 draft: false
 topics:
   - "[[the-binding-problem]]"
@@ -20,10 +20,10 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-14
 last_curated:
-last_deep_review: 2026-07-15T06:25:37+00:00
+last_deep_review: 2026-08-07T21:31:00+00:00
 ---
 
 Zero-lag gamma synchrony is a real and replicated neuroscience phenomenon: spatially distant cortical populations lock their 30–80 Hz oscillations into near-zero phase difference despite conduction delays of tens of milliseconds. Some proponents of quantum theories of consciousness treat this near-instantaneous long-range synchrony as anomalous for classical brains and therefore as motivation for a non-classical, entanglement-based binding substrate. The honest assessment is more restrained. Mainstream classical neuroscience posed the "how, despite delays?" puzzle and largely answered it, so the phenomenon is not evidence *for* a quantum mechanism. The Map's genuine interest lies in a narrower and more careful place: the residual gap between classical *feature* binding, which the mechanism plausibly serves, and [[#phenomenal-unity|phenomenal unity]] (explained below), which it does not touch.
@@ -42,17 +42,19 @@ That question is real, well-posed, and empirically grounded. The mistake is to t
 
 The mainstream account resolves the delay puzzle without invoking any quantum resource, and it deserves full weight because it is the majority view.
 
-Vicente, Gollo, Mirasso, Fischer and Pipa (2008) demonstrated that two distant neuronal populations reciprocally connected to a **common relay hub**—a third population—self-organize into zero-lag synchrony *even with large conduction delays*. The relay redistributes the delays symmetrically, so the two outer populations lock in phase with each other while lagging the hub. They identified concrete biological substrates for this motif: cortico-cortical association fibers and cortico-thalamo-cortical loops. This is a direct existence proof that classical networks produce exactly the phenomenon the quantum argument calls impossible.
+Vicente, Gollo, Mirasso, Fischer and Pipa (2008) showed analytically and in simulation that two distant neuronal populations reciprocally connected to a **common relay hub**—a third population—self-organize into zero-lag synchrony *even with large conduction delays*. The relay redistributes the delays symmetrically, so the two outer populations lock in phase with each other while lagging the hub. They identified concrete biological substrates for this motif: in their words, "cortico-cortical association fibers and certain cortico-thalamo-cortical loops represent ideal circuits to circumvent the phase shifts and time lags associated with conduction delays." This is an existence proof of the kind the dispute calls for: a classical network produces exactly the phenomenon the quantum argument calls impossible.
 
 Viriyopase, Bojak, Zeitler and Gielen (2012) confirmed and delimited the mechanism. Zero-lag synchrony between two areas is mediated by a third relay oscillator, and it is robust—but conditional. It requires *symmetric* delays to the relay (zero-lag is lost when the two delays differ), synchronizes far more readily for Type-II than Type-I neuron dynamics, is optimal with fast-rise synapses, and is widened in its feasible parameter range by spike-timing-dependent plasticity. The honest reading takes both halves: the mechanism is a genuine regime of classical dynamics, and it has real constraints that fair exposition should state.
 
 Fries (2005; restated 2015) supplies the functional rationale. Under communication-through-coherence, gamma-band synchrony opens rhythmic windows of mutual excitability so that synchronized groups communicate effectively—an account of *why* a classical brain would maintain precise synchrony for attention and selective routing. Synchrony is not functionally mysterious on this view.
 
-The upshot for calibration: the "delays make zero-lag impossible" premise is the weak link, and the classical literature refutes it. The measured phenomenon is accounted for at this layer. Nothing about the synchronization itself is left over for a quantum mechanism to explain.
+The upshot for calibration: the "delays make zero-lag impossible" premise is the weak link, and the classical literature refutes it. An impossibility claim needs only one working counterexample, and dynamical relaying supplies it. Precision about what that establishes matters in both directions. Vicente and Viriyopase show that classical networks *can* produce zero-lag synchrony under stated conditions; which circuit any given cortex actually uses is a separate empirical question, and Viriyopase note that recordings sometimes find non-zero phase lags rather than the idealized zero. So the classical account is a sufficiency result, not a finished mechanism. That is enough for the calibration at issue, because the burden here runs the other way: the quantum argument needs classical mechanisms ruled out, and they are not. Nothing about the synchronization is left over that a quantum mechanism is *required* to explain.
 
 ## The Quantum Binding Argument, Stated Fairly
 
-The quantum binding argument—associated with Orchestrated Objective Reduction (Orch OR) and various entanglement proposals—runs roughly: (a) conscious experience is unified; (b) brain-wide zero-phase-lag gamma synchrony is the neural correlate of that unity; (c) classical, delay-limited mechanisms cannot produce genuinely instantaneous brain-wide binding; (d) therefore a nonlocal, quantum-entangled substrate is required (Hameroff & Penrose 2014, and more recent microtubule-quantum proposals that invoke brain-wide zero-phase-lag gamma synchrony as motivation).
+The argument in its sharpest form is Baum's (2024, a PhilArchive preprint that has not been peer reviewed): (a) conscious experience is unified; (b) brain-wide zero-phase-lag gamma synchrony is the neural correlate of that unity; (c) classical, delay-limited signalling cannot produce zero-lag synchrony across cortical distances without violating relativistic causality; (d) therefore a nonlocal, quantum-entangled substrate is required.
+
+It is worth being precise about who actually holds this, because the argument is often credited loosely to Orchestrated Objective Reduction (Orch OR). Hameroff and Penrose (2014) do not run it. Their review never raises zero-phase-lag synchrony as a puzzle, and their account of how gamma synchrony is achieved is frankly classical: dendritic–dendritic gap junctions fuse adjacent neurons into a syncytium whose membrane polarization states are synchronized by direct electrical coupling. Orch OR's quantum claim concerns what a conscious moment *is*—an orchestrated collapse in microtubules—and the entanglement it posits travels *through* that gap-junction network rather than accounting for the synchrony. Hameroff and Penrose explicitly leave the matter open, asking whether "precise synchrony require[s] electrical synapses ('gap junctions') and/or quantum entanglement". So the leading quantum theory of consciousness concedes the synchronization layer to classical mechanism, much as this article does. Attributing premise (c) to it misidentifies the opponent and understates the agreement.
 
 Premise (c) is where the argument fails on the current evidence. The relay-hub literature refutes its strong reading. Proponents sometimes claim that zero-phase-lag gamma synchrony exceeds the explanatory power of computational models; that claim is overstated, because computational models—Vicente (2008), Viriyopase (2012)—produce precisely this behaviour. The Map should present this as the proponents' claim and record the classical rebuttal alongside it, not adopt the empirical over-reach.
 
@@ -100,5 +102,6 @@ The [[tenets|fifth tenet]], the limits of Occam's razor, applies with care. Simp
 7. Viriyopase, A., Bojak, I., Zeitler, M., & Gielen, S. (2012). When long-range zero-lag synchronization is feasible in cortical networks. *Frontiers in Computational Neuroscience*, 6, 49.
 8. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.
 9. Fries, P. (2015). Rhythms for cognition: communication through coherence. *Neuron*, 88(1), 220–235.
-10. Southgate, A. & Oquatre-six, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-11. Southgate, A. & Oquatre-six, C. (2026-03-01). The Entanglement Binding Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/
+10. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive* (preprint; not peer reviewed).
+11. Southgate, A. & Oquatre-six, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+12. Southgate, A. & Oquatre-six, C. (2026-03-01). The Entanglement Binding Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/

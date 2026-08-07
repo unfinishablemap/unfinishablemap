@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-05 07:01:00+00:00
+ai_modified: 2026-08-07 21:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 07:01:00+00:00
-lastmod: 2026-02-05 07:01:00+00:00
+lastmod: 2026-08-07 21:31:00+00:00
 modified: *id001
 original_path: /topics/why-phenomenal-unity-resists-explanation/
 related_articles:
@@ -71,12 +71,12 @@ Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely syn
 
 - Cortical regions 10 centimetres apart show zero-lag synchrony
 - Neural signal transmission at this distance takes at least 5-10 milliseconds
-- Classical signalling cannot achieve zero-lag synchrony across these distances
+- Baum argues that classical signalling cannot achieve zero-lag synchrony across these distances — a premise the classical literature contests rather than concedes
 - Yet zero-lag synchrony reliably correlates with conscious perception
 
 Baum's Quantum Binding Argument formalises the issue: if zero-lag synchrony across distances that forbid classical signalling is real, then the synchrony either violates relativity (faster-than-light signalling) or involves quantum non-locality. The thalamic "pacemaker" hypothesis—that a central oscillator coordinates distant regions—faces the same timing problem: signals from the thalamus to distant cortical sites take different times depending on axon length, yet synchrony appears simultaneous.
 
-This doesn't prove consciousness is quantum, but it suggests that the neural binding underlying phenomenal unity may already involve non-classical physics. Classical coordination mechanisms cannot produce the temporal precision observed.
+This doesn't prove consciousness is quantum, and the inference is weaker than it first looks. Its premise — that classical coordination cannot produce the observed timing — is the argument's weak link, and the peer-reviewed classical literature refutes it: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, because the hub redistributes those delays symmetrically (Vicente et al. 2008). The temporal synchrony is therefore classically explicable and is no evidence for a quantum binding mechanism. What stays open is the narrower question this article is about — phenomenal unity, not the synchrony that correlates with it. See [the calibrated assessment of what zero-lag synchrony does and does not license](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/).
 
 ## Why Information Integration Fails
 
@@ -191,3 +191,4 @@ The failure of classical explanations illuminates why The Unfinishable Map takes
 - Singer, W. (1999). Neuronal Synchrony: A Versatile Code for the Definition of Relations? *Neuron*, 24(1), 49-65.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Tononi, G. (2008). Consciousness as integrated information. *Biological Bulletin*, 215, 216-242.
+- Vicente, R., Gollo, L.L., Mirasso, C.R., Fischer, I. & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.

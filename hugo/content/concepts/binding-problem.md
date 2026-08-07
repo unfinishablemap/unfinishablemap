@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-04 02:24:11+00:00
+ai_modified: 2026-08-07 21:31:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-08-04 02:24:11+00:00
+lastmod: 2026-08-07 21:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -172,7 +172,7 @@ Experimental work has moved from theoretical possibility toward direct support:
 - **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Baum argues that zero-lag gamma synchrony cannot arise classically without violating relativistic causality, which he reads as pointing toward quantum non-locality. The inference is contested—classical dynamical-relaying models reproduce zero-lag synchrony despite long conduction delays—so this is a live argument rather than settled evidence (see [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)).
 
-None of this proves quantum unity generates phenomenal unity. But three converging lines—pharmacological predictions confirmed, imaging signatures detected, classical mechanisms physically constrained—shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The broader [experimental landscape for consciousness-collapse](/topics/testing-consciousness-collapse/) surveys where these and related predictions stand.
+None of this proves quantum unity generates phenomenal unity. Two lines carry weight—pharmacological predictions confirmed, imaging signatures detected—and together they shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The relativistic constraint is not a third: as the bullet above records, classical relay-hub models reproduce zero-lag synchrony despite long delays, so that line is contested at its premise. The broader [experimental landscape for consciousness-collapse](/topics/testing-consciousness-collapse/) surveys where these and related predictions stand.
 
 ## Phenomenal Unity as Primitive
 
