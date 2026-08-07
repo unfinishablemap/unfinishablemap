@@ -10,6 +10,50 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-07 22:41 UTC - refine-draft (blurb/body mismatch — positions-register lens; one fix, eight clears)
+
+- **Status**: Success
+- **File changed**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — frontmatter `description:` only. No body text touched.
+- **Files read and cleared as non-defects** (8): [emotion-and-dualism](/topics/emotion-and-dualism/), [finding-level-calibration](/positions/finding-level-calibration/), [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/), [project](/project/), [witnessing-void](/voids/witnessing-void/), [self-transcendence-void](/voids/self-transcendence-void/), [occasionalism](/concepts/occasionalism/), [self-reference-paradox](/concepts/self-reference-paradox/).
+
+### The one fix: `topics/pain-consciousness-and-causal-power`
+
+**New lens — the conflict was with the positions register, not the body.** The blurb announced *"epiphenomenalism made untenable"* full stop. [P-MC1](/positions/arguments-for-mental-causation/) records the Map's own scope limit verbatim: the strongest anti-epiphenomenalism argument *"binds the bare-correlation version of the view and does not reach the sophisticated phenomenal-concept version."* The body already meets that standard and never says "untenable" — its section heading is *"Why Pain Is the Hardest Case for Epiphenomenalism"*, it concedes the physicalist reply three times (the felt unity may be *"a product of the underlying physical process"*; the neural differences *"could carry the full explanatory load"*; asymbolia *"suggests"* rather than shows), it engages the [phenomenal-concepts strategy](/concepts/phenomenal-concepts-strategy/) directly, and it closes with *"A note of honesty: dualism identifies the explanatory gap without claiming to close it from the other side… The Map holds this as an open question."*
+
+- **Before** (233 ch): *"Pain is the hard problem made personal and epiphenomenalism made untenable. Its felt awfulness resists physical reduction while inseparably driving behaviour—the strongest case for consciousness as both irreducible and causally real."*
+- **After** (242 ch): *"Pain is the hard problem made personal, and the sharpest pressure on epiphenomenalism: felt awfulness resists physical reduction while inseparably driving behaviour—though it binds the bare-correlation version, not the phenomenal-concept one."*
+
+**Precision gained, not hedging added.** "Untenable" → "the sharpest pressure on" tracks the body's own "hardest case for" heading; the appended clause names the reach the register already fixed. The irreducible-plus-causally-real convergence survives intact in *"resists physical reduction while inseparably driving behaviour"* — nothing was dropped, the scope was added. "Hardest case for X" was avoided in favour of "sharpest pressure on X" because the former reads ambiguously as *in favour of* X when the blurb stands alone in a search snippet.
+
+### `topics/emotion-and-dualism` — verified NON-DEFECT
+
+The driver's read was correct and is confirmed on disk. Both blurb clauses are asserted in the body's own voice: L56 *"Emotional consciousness provides the strongest empirical case for interactionist dualism"* and *"phenomenal properties are not only irreducible but causally indispensable"*; L82 *"On the Map's reading it provides the strongest empirical case for dualism"*; the H2 at L90 is literally *"How Dualism Transforms the Philosophy of Emotion"*. Blurb faithful to body. **No edit made.** Recording this so the next pass does not re-litigate it.
+
+**Two body-level observations, reported not acted on** (out of scope for a blurb task):
+
+1. **P-MC1 tension.** L86 says *"Emotion blocks this retreat"* of the epiphenomenalist — unqualified, where P-MC1 scopes exactly that move to bare-correlation epiphenomenalism. [P-MC4](/positions/arguments-for-mental-causation/) states the transfer explicitly: *"The phenomenal-concept physicalist meets the unsharpened loop with the reply P-MC1 records against self-stultification."* Same defect family as the pain fix, one register up in the body rather than the blurb.
+2. **Internal tension in the lead.** L56 hedges asymbolia hard — *"constrains identity readings of valence rather than establishing that these properties do genuine causal work… evidence for Bidirectional Interaction, not a demonstration of it"* — and then in the same paragraph concludes *"causally indispensable."* L132 and L136 carry the hedge; the lead's conclusion does not. A body-lens task, not a blurb one.
+
+**P-D1 checked and cleared.** [P-D1](/positions/arguments-for-dualism/)'s premise-sharing discount governs *count-inflation across the Western anti-physicalist catalogue* (gap, zombie, Mary, Kripke), and says genuine force comes from *across* clusters. Emotion's claim — irreducibility and causal indispensability converging in one phenomenon — is a ranking claim, not a count of converging arguments, and the body at L86 expressly notes standard arguments reach irreducibility only. Not the inflation P-D1 forbids.
+
+### The seven verb-form candidates — all cleared, each body read
+
+- **`positions/finding-level-calibration`** — *"architecture-vs-significance two-tier discount"* is the literal name of P-F1 (*"A finding's architecture-tier and significance-tier claims are cited at their own discounts"*). Exact.
+- **`topics/the-hard-problem-in-non-western-philosophy`** — *"independently found"* is body voice at L45 (*"through independent paths"*) and L151 (*"through independent arguments and methods"*); the Chinese dissolution and the African qualification are both in the blurb *and* the lead. The blurb carries the body's principal caveat rather than suppressing it. Also cleared against P-D2, which names cross-traditional patterns as one of the two genuinely independent sources and lets them earn *irreducibility* — which is all this blurb claims.
+- **`voids/witnessing-void`** — *"cannot witness itself"* and *"at the centre of consciousness"* both verbatim in the lead.
+- **`concepts/self-reference-paradox`** — *closest call of the batch, still sound.* L134: *"no improved apparatus can be external to its object when the object is or constitutes the apparatus"*; L154: *"the limit is architectural, not technical."* The Weak/Strong section does allow weak forms to be *"partly escaped by triangulation"* — but only where the object is publicly accessible, and it states that *"where the object is private, benignity fails and the circle bites."* The blurb is scoped to consciousness knowing itself, which is the private case. Backed.
+- **`concepts/occasionalism`** — first clause *attributes* to occasionalism (reporting, per the non-defect rule); *"quantum divine action is its living form"* is L64's *"uses the same causal joint… but assigns the selecting to God rather than to creaturely minds"*, which is exactly the blurb's *"sharing Tenet 2's joint, not its agent."*
+- **`voids/self-transcendence-void`** — question-framed (*"exploration of whether"*); body opens *"Can consciousness upgrade itself?"* and names Münchhausen.
+- **`project/project`** — descriptive; body L1 matches clause for clause.
+
+**Base rate this run: 1 defect in 9 read (11%)** — below the 31% expectation, consistent with the driver's finding that most ranked candidates are sound. Verb-form ranking is a weak signal on its own; the positions-register cross-check is the sharper one.
+
+### Not reached
+
+The 12 remaining verb-form candidates beyond the 7 named live ones were not read. The two body-level `emotion-and-dualism` findings above are unactioned by design and would need a body-lens task.
+
+- **Published**: yes
+
 ## 2026-08-07 22:24 UTC - refine-draft (blurb/body mismatch — four descriptions)
 
 - **Status**: Success

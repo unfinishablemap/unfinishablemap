@@ -1,10 +1,10 @@
 ---
 title: "Pain, Consciousness, and Causal Power"
-description: "Pain is the hard problem made personal and epiphenomenalism made untenable. Its felt awfulness resists physical reduction while inseparably driving behaviour—the strongest case for consciousness as both irreducible and causally real."
+description: "Pain is the hard problem made personal, and the sharpest pressure on epiphenomenalism: felt awfulness resists physical reduction while inseparably driving behaviour—though it binds the bare-correlation version, not the phenomenal-concept one."
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-06-22T10:45:28+00:00
+ai_modified: 2026-08-07T22:38:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
