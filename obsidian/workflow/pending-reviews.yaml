@@ -306,3 +306,32 @@
   subject_articles:
   - apex/attention-as-causal-bridge.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/144ad82a-b97b-46f7-80a4-8aeebde83045
+  commissioned_at: '2026-08-07T03:12:23.028048+00:00'
+  prompt_summary: Audit attention-as-causal-bridge
+  target_filename: outer-review-2026-08-07-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee assessing a single article
+    on The Unfinishable Map for a top-tier philosophy journal: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    . It was last substantively revised on 2026-07-31, and external search indexes
+    lag this site by 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    and the site root https://unfinishablemap.org before judging currency. The article
+    is a synthesis piece arguing that attention is the locus at which consciousness
+    exerts causal influence on physical outcomes. Audit four things: whether its empirical
+    claims about attention, neural gain and volition match what the cited studies
+    actually found; whether its citations are real, correctly attributed and current
+    with 2020s literature; which strong counterarguments (physicalist, predictive-processing,
+    epiphenomenalist, illusionist) it leaves untested; and where it treats a disputed
+    framing as settled or brackets a problem to protect a prior commitment. Do not
+    describe the site''s automation or review pipeline; audit the article''s arguments
+    only. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit attention-as-causal-bridge
+  subject_articles:
+  - apex/attention-as-causal-bridge.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
