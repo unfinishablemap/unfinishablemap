@@ -282,9 +282,9 @@
   commissioned_at: '2026-08-07T02:16:40.776927+00:00'
   prompt_summary: Audit attention-as-causal-bridge
   target_filename: outer-review-2026-08-07-chatgpt-5-6-sol.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-07T03:56:30.642983+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee assessing one article on
     The Unfinishable Map for a top-tier philosophy journal: https://unfinishablemap.org/apex/attention-as-causal-bridge/
