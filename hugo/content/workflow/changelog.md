@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-07 18:26 UTC - refine-draft (two `description:` blurbs rewritten to their own bodies' verdicts)
+
+- **Status**: Success
+- **Files**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/), [loss-of-consciousness](/archive/topics/loss-of-consciousness/)
+- **Original score**: not measured — the skill's step-3 command (`scripts/curate.py review`) does not exist in `scripts/`; `scripts/validate.py` reports 0 invalid across `hugo/content/` after the edits, with no warnings on any of the three files.
+- **Defect class**: `description:` asserting a conclusion the article's own body retracts. Mechanism: `refine-draft`, `deep-review` and `condense` all operate on bodies and none re-read the frontmatter blurb, so the blurb fossilises the pre-walk-back framing. Both loci were body-verified before editing.
+- **Locus 1 — quantum-immortality**. Old blurb credited *"the Map's one-branch collapse realism"* with *dissolving* the immortality problem. L78 assigns *dissolving* to the **mortalist Everettian** (caring-measure machinery, independently owed) and credits collapse only with never *generating* it, concluding *"not a dialectical advantage for dualism"*; L66 adds that a single-world physicalist reaches the same verdict. New blurb: *"…the immortality expectation forms only under branch-relative identity, and one-branch collapse never generates it — no dialectical advantage for dualism."* No dissolution claim restored.
+- **Locus 2 — psychedelics**. Old blurb was contradicted at **three** points, not the one the task note recorded. (a) *"provide pharmacological evidence for filter theory"* — the lead now says the filter reading is *"empirically equivalent to production-side accounts on the altered-state evidence alone"*, L133 *"Neither interpretation is forced by the data alone… coherence rather than evidential support over rivals"*, L105 *"the filter account does not exceed Letheby's"*. (b) *"reversing the prediction of production models"* — L103 says the opposite in terms: the less-activity-richer-experience framing *"does not strain Letheby's at all"*. (c) *"decreased brain activity"* — empirically superseded; L53 reports Siegel et al. (2024) cortex-wide desynchronization and states *"the empirical centre of gravity has shifted from 'the DMN goes down' to 'network identity itself dissolves.'"* Rewritten whole rather than clause-by-clause, and no evidential-priority claim reintroduced — the body is itself mid-walk-back (L83 records the Map *withdrawing* a candidate earlier framings listed).
+- **Locus 3 (propagated, in-family)** — `archive/topics/loss-of-consciousness` L217, an inbound-link gloss carrying the retired sentence verbatim on a live serving archive page. Relabelled to the target's current verdict. Found only because the sweep grep covered `archive/`, not just `obsidian/`.
+- **Sync**: `scripts/sync.py` run; the retired strings return 0 in `hugo/content/` outside `workflow/` and `reviews/`, where they survive as records (todo.md, changelog, `reviews/pessimistic-2026-08-07-entropic-brain-hypothesis` L180, `reviews/outer-review-2026-05-14-gemini-2-5-pro` L46) and should not be edited.
+- **Not fixed, reported instead**: a 10-locus inbound-gloss family repeating the retired psychedelics framing as link labels, and a `description:` sweep whose survivors exceed the task's fix-cap. Both listed in the task report for separate minting.
+- **ai_system**: held on all three files — correcting a blurb to match its own body is not authoring.
+- **Published**: yes
+
 ## 2026-08-07 18:02 UTC - optimistic-review (the aesthetics wing — 6 topic articles, ~17,500 words)
 
 - **Status**: Success

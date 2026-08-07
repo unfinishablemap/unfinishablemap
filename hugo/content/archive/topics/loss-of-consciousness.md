@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-01 18:28:07+00:00
+ai_modified: 2026-08-07 18:25:13+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Consciousness Disruption and the Mind-Brain Interface
 archived: true
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-30 04:56:00+00:00
-lastmod: 2026-08-01 18:28:07+00:00
+lastmod: 2026-08-07 18:25:13+00:00
 modified: *id001
 original_path: /topics/loss-of-consciousness/
 related_articles:
@@ -217,7 +217,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Terminal lucidity as strongest single-phenomenon case for filter/transmission theory despite severe brain damage
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Blindsight, anosognosia, and alien hand syndrome mapping the functional anatomy of the mind-brain channel
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Dissociative disorders as evidence that connectivity disruption supports dualist interface architecture
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity producing expanded consciousness as pharmacological evidence for filter theory
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Cortex-wide desynchronization under psychedelics as a case congenial to filter theory, though not discriminating against production accounts
 
 ## References
 

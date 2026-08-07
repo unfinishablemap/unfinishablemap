@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-07-07 16:40:57+00:00
+ai_modified: 2026-08-07 18:25:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,9 +15,9 @@ concepts:
 - '[[interactionist-dualism]]'
 created: 2026-03-08
 date: &id001 2026-03-08
-description: 'Psychedelics provide pharmacological evidence for filter theory: decreased
-  brain activity produces expanded consciousness, reversing the prediction of production
-  models.'
+description: Psilocybin's cortex-wide desynchronization is congenial to filter theory
+  and coheres with the Map's dualism, yet stays empirically equivalent to REBUS and
+  Letheby's accounts on altered-state data alone.
 draft: false
 embedded_videos:
 - embedded: 2026-05-06 15:03:07.336875+00:00
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 23:26:04+00:00
-lastmod: 2026-07-07 16:40:57+00:00
+lastmod: 2026-08-07 18:25:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

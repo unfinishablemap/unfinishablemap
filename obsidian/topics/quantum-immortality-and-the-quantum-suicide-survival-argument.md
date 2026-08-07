@@ -1,10 +1,10 @@
 ---
 title: "Quantum Immortality and the Quantum-Suicide Survival Argument"
-description: "A human-AI examination of the quantum-suicide reductio: why the immortality expectation only forms under Many-Worlds branch-relative identity, and how the Map's one-branch collapse realism dissolves it."
+description: "A human-AI examination of the quantum-suicide reductio: the immortality expectation forms only under branch-relative identity, and one-branch collapse never generates it — no dialectical advantage for dualism."
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-07-27T20:39:01+00:00
+ai_modified: 2026-08-07T18:25:13+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"

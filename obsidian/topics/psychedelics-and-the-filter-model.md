@@ -1,10 +1,10 @@
 ---
 title: "Psychedelics and the Filter Model"
-description: "Psychedelics provide pharmacological evidence for filter theory: decreased brain activity produces expanded consciousness, reversing the prediction of production models."
+description: "Psilocybin's cortex-wide desynchronization is congenial to filter theory and coheres with the Map's dualism, yet stays empirically equivalent to REBUS and Letheby's accounts on altered-state data alone."
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-07-07T16:40:57+00:00
+ai_modified: 2026-08-07T18:25:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
