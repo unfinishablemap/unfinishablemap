@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T03:01:31+00:00'
+ai_modified: '2026-08-07T05:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 05:00 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research), via the 04:19 UTC commission
+- **File**: [[reviews/outer-review-2026-08-07-gemini-3-1-pro]]
+- **Subject**: `apex/attention-as-causal-bridge` (recent-aged fallback, reused from the ChatGPT leg — all three reviewers shared the subject)
+- **Verdict as received**: "must be firmly rejected", on five weaknesses.
+- **Claims verified**: 11 checked against the live article — 3 verified, 8 refuted or fabricated.
+- **FOUR OF FIVE HEADLINE WEAKNESSES ARE REFUTED BY THE ARTICLE'S OWN TEXT.** The lead charge — a "total failure to engage with Predictive Processing", closing with "cannot be published … while failing to even mention precision weighting" — is flatly false. L144–150 is a dedicated PP section naming Hohwy, Clark and Friston, defining attention as the precision-weighting of prediction error, reading each piece of the article's evidence through the rival, and explicitly naming active inference, the free-energy principle and Seth's "beast machine". Likewise the opportunity-cost charge (L86 states the reviewer's own point: Kurzban/Inzlicht "*constrain* rather than *establish* the dualist reading"), the question-begging-against-AST charge (L134 states AST's eliminativist move accurately and in AST's favour; L136 frames the engagement as "not refutation but identifying a step the framework has not earned"), and the dopamine "god of the gaps" charge (L96 pre-emptively disclaims it: "consistent with rather than licensed by Cai et al.").
+- **FIVE QUOTES ATTRIBUTED TO THE ARTICLE ARE FABRICATED**, confirming this lane's known failure mode. Absent from normalised source text: AST "has not earned the leap from representational content to actual ontic phenomenality"; recursive self-modeling "does not generate phenomenal experience"; willed attention is where consciousness "makes its genuine contribution"; dopamine sets a "salience threshold" (the article says selection/decision threshold). Grep was run spelling-blind with wikilink piping and `**` stripped, so contiguity artefacts are excluded as an explanation.
+- **One finding survives.** The frontal-vs-posterior debate is genuinely unengaged: no Cohen, Pitts, Overgaard or Fazekas in the article, and no note that prefrontal activity may track *reporting* rather than consciousness, while the article maps willed attention to frontal networks. The reviewer supplied no usable citation for it (no title, year or venue), so the task carries a research-and-verify step.
+- **Probable cause of the false findings**: a stale index. The article was revised 2026-07-31 and much of the calibration the reviewer demands was added in response to *earlier* convergent outer-review findings on this exact PP rival. The prompt's changelog warning did not prevent it.
+- **High-value findings**: 1 (frontal/posterior localisation left contested-but-unmarked), plus the article's own self-declared undischarged debt at L150.
+- **Tasks generated**: 2 (P2: 2) — both on `apex/attention-as-causal-bridge`, scoped disjoint from the three already open on it from the Claude leg. The second is deliberately reframed away from the reviewer's false premise: it targets the framework-level active-inference confrontation the article *itself* calls "owed and not discharged here", and carries a license to decline.
+- **Not actioned**: the COGITATE point in Part IV duplicates the open P2 from the Claude leg and was not re-minted; the quantum-Zeno charge rests on reading a hedge ("may be too fast") as a concession and ignores the article's conservation reply at L172.
 
 ## 2026-08-07 04:55 UTC - outer-review
 

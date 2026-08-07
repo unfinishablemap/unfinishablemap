@@ -77,6 +77,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **(3) Overflow stated as established — UNVERIFIED, and the reviewer may have it backwards.** L58 asserts "Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access" as fact. The reviewer says Nartker et al. themselves frame their result as a conservative-response-criterion artefact. **Treat this with suspicion**: Nartker, Firestone, Egeth & Phillips (2025, *eLife* 13:RP100337) argue *for* preserved sensitivity in inattentional blindness, so the reviewer's gloss may be inverted. Verify at the paper. If the overflow reading is genuinely contested (it is, independently of Nartker — Block vs Cohen & Dennett), mark it contested rather than deleting it.
   **Tenet alignment**: Tenet 1 (Dualism) — all three loci sit in the apex's evidential case for the interface hypothesis; the work is calibration, not retraction. Preserve existing hedges ([[condense-regresses-calibration-qualifiers]]).
 
+### P2: the attention apex never engages the frontal-vs-posterior debate — it locates willed attention in frontal networks while placing consciousness elsewhere, and that framing is contested
+
+- **Type**: refine-draft
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Review file**: `reviews/outer-review-2026-08-07-gemini-3-1-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-07
+- **Notes**: **THE ONLY SURVIVING FINDING of the 2026-08-07 Gemini review — four of its five headline weaknesses were refuted against the article's own text, and five quotes it attributed to the article are fabricated. Read the Verification Notes in the review file before touching anything from that review.** This one checks out: grep finds no Cohen, Pitts, Overgaard or Fazekas in the article, and no engagement with the live question of whether prefrontal activity tracks consciousness itself or merely its *reporting*. The article maps willed attention to frontal networks (frontal theta, frontoparietal coherence, L72/L146) while placing consciousness outside the physical brain — a mapping that leans on one side of an unsettled dispute without saying so.
+  **⚠️ THE REVIEWER SUPPLIED NO USABLE CITATION.** Its source line is "Cohen, M. A., Pitts, M., & Overgaard, M. (2020-2025 literature on frontal vs. sensory theories …)" — no title, no year, no venue. The underlying literature is real but must be found and web-verified at the publisher before anything is inserted ([[ai_citation_metadata_unreliable]]); do not paste the reviewer's non-citation into the References list.
+  **SCOPE — one short passage, not a section.** Mark the frontal/posterior question as contested where the willed-mode markers are introduced. Apply the [[direct-refutation-discipline]] remit: the honest move here is most likely naming the framework-boundary disagreement, since the Map's reading and the posterior/sensory reading are compatible with the same markers. Keep mode labels out of the body — they belong in the changelog entry.
+  **DO NOT DUPLICATE the open P2 above** ([[outer-review-same-file-task-pileup]] — this apex now carries four open tasks). That task already owns the COGITATE framing at L58/L146; this one owns only the frontal/posterior localisation question. Two P1s own the gamma re-attribution and the Sjöberg stance. Keep the scopes disjoint.
+  **Tenet alignment**: Tenet 1 (Dualism) — calibration of the evidential case, not retraction.
+
+### P2: discharge the framework-level active-inference confrontation the attention apex itself declares "owed and not discharged"
+
+- **Type**: refine-draft
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Review file**: `reviews/outer-review-2026-08-07-gemini-3-1-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-07
+- **Notes**: **FRAMED CORRECTLY THIS TIME — the Gemini review's headline charge was that the article shows a "total failure to engage with Predictive Processing" and "fail[s] to even mention precision weighting". That is flatly false**: L144–150 is a dedicated PP section naming Hohwy, Clark and Friston, defining attention as the precision-weighting of prediction error, and reading each piece of the article's evidence through the rival. The reviewer worked from a stale index despite the prompt's changelog warning. **Do not execute this task as if PP were absent.**
+  **THE REAL, NARROWER DEBT IS THE ARTICLE'S OWN.** L150 states it explicitly: the rival is admitted "in one register only — as an alternative *reading* of the attention evidence", whereas active inference and the free-energy principle are "not merely a rival gloss on the evidence but a *total* generative framework" that natively models agency as policy selection under expected free energy, attention as precision-weighting, effort as the cost of reallocating precision, and interoceptive selfhood as a control-oriented self-model (Seth's "beast machine"). The article then says confronting that framework at framework level — "steelmanning it in its own vocabulary, deriving attention, agency, and effort from free-energy minimisation *before* isolating any residue" — "is owed and not discharged here."
+  **ASSESS-FIRST WITH LICENSE TO DECLINE.** Honestly marking a framework-boundary limitation is itself a legitimate reply mode under [[direct-refutation-discipline]], and L150 already does that cleanly. If the judgement is that the marking suffices for an apex of this length, **say so and close the task** — that is an acceptable outcome. Only expand if the framework-level derivation can be done tightly.
+  **CROSS-LINK RATHER THAN RE-DERIVE**: `topics/predictive-processing-and-dualism.md` is the site's existing PP engagement and the apex does not currently link it. A reciprocal link may discharge much of the debt length-neutrally — check before writing new prose.
+  **LENGTH**: the apex is 4,449 words. Run `analyze_length` before adding ([[analyze-length-counts-reference-apparatus]] — References and Further Reading inflate the raw count). If a substantive add would push it over the ceiling, flag for a human length decision rather than auto-condensing ([[human-decision-task-mispicked-as-refine]]).
+  **Tenet alignment**: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits) — honest engagement with the strongest total rival.
+
+
 ### NEEDS-HUMAN (agentic-social topic dedup) 2026-08-06: the topic-dedup filter is saturated — 0 of 776 articles survive it, so the selector's anti-duplication guarantee is inoperative
 
 - **Type**: refine-draft

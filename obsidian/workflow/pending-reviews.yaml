@@ -340,9 +340,9 @@
   commissioned_at: '2026-08-07T04:19:41.221330+00:00'
   prompt_summary: Audit attention-as-causal-bridge
   target_filename: outer-review-2026-08-07-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-07T04:55:37.738885+00:00'
   failure_reason: null
   prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
     journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
