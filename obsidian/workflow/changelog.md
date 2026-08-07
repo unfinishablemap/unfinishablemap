@@ -5,6 +5,21 @@ ai_modified: '2026-08-07T03:01:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-07 04:55 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (High), via the 03:10 UTC commission
+- **File**: [[reviews/outer-review-2026-08-07-claude-opus-5]]
+- **Subject**: `apex/attention-as-causal-bridge` (recent-aged fallback, reused from the ChatGPT leg so all three reviewers share the subject)
+- **Verdict as received**: REVISE-HARD bordering DEMOTE-TO-COHERENCE-ONLY, on two "blocking" defects — a "fabricated" gamma-band claim and two author-stance inversions (Sjöberg 2024; Koch & Tsuchiya 2007).
+- **Claims verified**: 8 checked at primary sources — 5 verified, 3 refuted or partially disputed.
+- **The headline finding is REFUTED, and this changed the remedy.** The reviewer called the "~55-65 Hz / ~75-90 Hz" gamma claim a fabrication that "corresponds to no primary source" and "inverts what the actual gamma literature reports", prescribing deletion. Both charges fail: the bands trace to **Wyart & Tallon-Baudry (2008), *J. Neurosci.* 28(10):2667–2679, PMID 18322110**, whose abstract reports awareness at mid-frequency gamma (54–64 Hz) and spatial attention at high-frequency gamma (76–90 Hz) — the same direction the Map states. The sibling ChatGPT review found this source independently and had the correct diagnosis; the two reviewers converge on the defect and diverge on the cure. The real defect is misattribution (credited to Koch & Tsuchiya, who report no such numbers), an uncited apex locus, and overgeneralisation of one MEG paradigm into fixed "operating frequencies". Re-attribute and scope — do not delete.
+- **The Sjöberg finding is verified.** Primary text (PMC11224596) confirms *"dualism has been completely out of fashion in the neurosciences for almost half a century"*; he rejects Eccles and endorses Schurger. The apex recruits him at L84/L162 with no stance marking. But the Map already holds the correct framing at `topics/volitional-control` L53 and `topics/motor-control-quantum-zeno` L55, making this an internal inconsistency rather than a blind spot — a stronger and more tractable finding than the reviewer's. Also confirmed the Map's *"completely irrelevant"* quotation is verbatim-correct and must **not** be "corrected" to the reviewer's looser "in fact irrelevant".
+- **Process finding**: the Koch & Tsuchiya misattribution was introduced by an internal review — `reviews/deep-review-2026-03-11-attention-as-interface` L30 records the uncited claim "**Resolved** — Added inline citation", the citation copied from a sibling rather than verified at source. The fix is not even present today; `concepts/attention-as-interface` L115 is still uncited. Argues for a rule: a citation added to discharge an uncited-claim flag must be verified at the source.
+- **High-value findings**: 3 (gamma misattribution family across 6 loci in 3 trees; Sjöberg author-stance across 5 loci; three apex framing over-statements)
+- **Tasks generated**: 3 (P1: 2, P2: 1) — all on `apex/attention-as-causal-bridge` but with deliberately disjoint scopes, bundled to avoid the known same-file pileup.
+- **Not actioned**: the reviewer's COGITATE-asymmetry and Nartker-overflow claims were left unverified and flagged as candidates in the P2 task; the Nartker gloss looks possibly inverted and must be checked before editing.
+
 ## 2026-08-07 03:00 UTC - refine-draft
 
 - **Status**: Success
