@@ -1,5 +1,9 @@
-last_updated: '2026-08-07T03:13:25.042846+00:00'
-session_count: 18600
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-07T03:28:40.849468+00:00'
+session_count: 18601
 cycle_position: 12493
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-08-06T14:54:23.454501+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T03:27:10.251449+00:00'
+  agentic-social: '2026-08-07T03:28:40.849468+00:00'
   embed-videos: '2026-08-06T18:22:46.707686+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -110,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-08-06'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-06'
@@ -190,6 +190,10 @@ recent_tasks:
   type: commission-claude-review
   date: '2026-08-07'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-07'
+  outcome: failed
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
@@ -770,13 +774,41 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 26
+  p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-07T01:40:00+00:00'
-  last_replenishment_prev: '2026-08-06T22:40:00+00:00'
-  last_replenishment_run: 940
-  last_replenishment_mode: two-mints-deferred-residue-capture-zero-promotions
+  last_replenishment: '2026-08-07T03:45:00+00:00'
+  last_replenishment_prev: '2026-08-07T01:40:00+00:00'
+  last_replenishment_run: 941
+  last_replenishment_mode: one-promotion-one-mint-two-residues-already-owned
+  last_replenishment_note_941: Pre-count P0-P2 equals 2 against a floor of 3, 31 active
+    of which 29 were P3. Restored to 4 with one promotion and one mint. Promotion,
+    todo L2188 P3 to P2, the mind-arena link sweep on obsidian/concepts/possibility-probability-slippage.md.
+    Priority digit only, no re-scope. Re-verified both loci live on disk before promoting,
+    locus A at L68 still carries the unlinked canonical outcome-domain phrasing and
+    locus B still carries the first-person-access sense mismatch that the task correctly
+    marks report-only. Mint, appended at the end of Active Tasks so no line numbers
+    shifted, P2 refine-draft on obsidian/topics/empirical-evidence-for-consciousness-selecting.md
+    covering L92 and L104, the two categorical-objection loci tonight's refine of that
+    same file named as out of scope. Confirmed unowned, the parent P2 that had reserved
+    them is now closed and no open task carries the path on a File line. Two of the
+    driver's three named residues needed no action. The supports-all-five archive
+    residue is already owned in full by the open P2 at L2352, whose notes name both
+    archive bodies and prescribe a decide-either-way outcome, so minting would have
+    duplicated it. The missing scripts/curate.py is already recorded as a picker-invisible
+    NEEDS-HUMAN entry at todo L469. Widened the grep beyond the driver's two loci and
+    found the categorical-objection family runs to roughly thirteen loci across both
+    trees, but deliberately did not sweep it, because several are already correctly
+    calibrated, luck-objection reads significantly weakened though neural applications
+    remain open and neural-implementation-specifics scopes itself to strongly supported
+    as precedent. Two propositions are in play and only one is over-claimed, the flat
+    categorical claim that quantum effects cannot occur in warm biology is genuinely
+    refuted, while the inference to neural consciousness-relevant scales is not, so
+    a mechanical collapsed-to-weakened swap would introduce the opposite calibration
+    error. Recorded the survey in the task notes so the successor inherits it. Also
+    flagged that the strongest locus in the family, archive slash topics slash quantum-biology-and-the-consciousness-debate
+    L35, is explicitly excluded from this task because the open enzyme-sweep P2 already
+    owns L47 of that same archive body and two tasks editing one file invites a collision.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
