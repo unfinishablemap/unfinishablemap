@@ -3,9 +3,9 @@ title: "Research Notes - The Chinese Room Argument"
 created: 2026-07-11
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-07T14:18:00+00:00
 ---
 
 # Research: The Chinese Room Argument
@@ -49,9 +49,9 @@ Searle later (1984; 1990) distilled the argument into a compact valid form (the 
 3. **Syntax is neither constitutive of nor sufficient for semantics.** (This is the load-bearing premise — the Chinese Room is the *intuition pump* supporting it.)
 4. **Therefore programs are neither constitutive of nor sufficient for minds.**
 
-Verbatim, from the primary 1980 text: *"no purely formal model will ever be sufficient by itself for intentionality because the formal properties are not by themselves constitutive of intentionality, and they have by themselves no causal powers…"* (Searle 1980, BBS 3(3), verified against primary text).
+Verbatim, from the primary 1980 text: *"no purely formal model will ever be sufficient by itself for intentionality because the formal properties are not by themselves constitutive of intentionality, and they have by themselves no causal powers except the power, when instantiated, to produce the next stage of the formalism when the machine is running."* (Searle 1980, BBS 3(3), verified against primary text).
 
-And the famous naturalizing coda: *"Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomenon."* (Searle 1980 — this is the seam to [[biological-naturalism]].)
+And the famous naturalizing coda: *"Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena."* (Searle 1980 — this is the seam to [[biological-naturalism]].)
 
 ## Derived vs Original (Intrinsic) Intentionality
 
@@ -175,8 +175,8 @@ All four primary Searle/Churchland sources were web-verified by **title + venue*
 - Systems reply internalization: *"let the individual internalize all of these elements of the system. He memorizes the rules in the ledger and the data banks of Chinese symbols, and he does all the calculations in his head. The individual then incorporates the entire system."*
 - Systems reply verdict: *"the systems reply simply begs the question by insisting without argument that the system must understand Chinese."*
 - Robot reply: *"the addition of such 'perceptual' and 'motor' capacities adds nothing by way of understanding, in particular, or intentionality, in general."*
-- Intentionality coda: *"Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomenon."*
-- Formal-model insufficiency: *"no purely formal model will ever be sufficient by itself for intentionality because the formal properties are not by themselves constitutive of intentionality, and they have by themselves no causal powers…"*
+- Intentionality coda: *"Whatever else intentionality is, it is a biological phenomenon, and it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena."*
+- Formal-model insufficiency: *"no purely formal model will ever be sufficient by itself for intentionality because the formal properties are not by themselves constitutive of intentionality, and they have by themselves no causal powers except the power, when instantiated, to produce the next stage of the formalism when the machine is running."*
 
 ## Gaps in Research
 
