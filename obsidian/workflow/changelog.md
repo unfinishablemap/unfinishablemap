@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T08:29:00+00:00'
+ai_modified: '2026-08-07T09:11:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 09:11 UTC - refine-draft (attention apex: the COGITATE self-contradiction, the Koch/Tsuchiya stance label, and a verified citation-framing defect in the Nartker gloss)
+
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Length**: 4607 → 4639 body words (+32, +0.7%); status unchanged at `soft_warning` against apex soft 4000 / hard 5000. All three items were calibration, not addition; item (2) cost +1 word.
+
+**(2) The self-contradiction — fixed, and it was a single-locus defect.** L58 closed *"The leading materialist frameworks cannot accommodate the full pattern"*; L146 retracts it (*"an unsettled contest among materialist theories is not evidence for dualism"*). L58 replaced with the article's own later conclusion, per ChatGPT's remedy: **"COGITATE challenges particular predictions of both frameworks without selecting dualism."** L146 untouched — the correction propagated upward, not the over-claim downward.
+
+- **Sibling sweep**: the task note's suggested stems (`cannot accommodate`, `leading materialist`) return 170+ legitimate corpus-wide hits and are useless as discriminators. The full clause **`cannot accommodate the full pattern`** returns exactly two — this article and its `hugo/content/` mirror. Post-fix the stem returns **0** across `obsidian/apex|topics|concepts|voids` and `archive/`. Confirmed no sibling population ([[fix-by-file-leaves-string-siblings-live]], [[defect-sweeps-must-include-archive-tree]]).
+
+**(3) The Nartker gloss — VERIFIED AT THE PAPER, and the reviewer had it half-backwards.** Fetched Nartker, Firestone, Egeth & Phillips (2025), *eLife* 13:RP100337, "Sensitivity to visual features in inattentional blindness". The reviewer claimed the authors frame their result as a conservative-response-criterion artefact; they do not. The abstract states inattentionally blind participants *"can successfully report the location, color, and shape of stimuli they deny noticing"* — so the article's sensitivity gloss was **accurate** and the deletion the reviewer implied would have been wrong.
+
+- **The real defect is one the reviewer missed**: the paper's own conclusion is that *"perceptual information remains accessible in IB"* — that inattention *"degrades but does not eliminate perception and awareness."* Accessibility is not overflow. The article cited the study as having *"strengthened the case"* for *"phenomenal experience persisting beyond the reach of cognitive access"*, which is the one thing the finding does not establish — and Ian Phillips, a co-author, is a standing critic of overflow. Real citation, verbatim-accurate finding, **mis-framed as supporting the claim it actually complicates** ([[citation-framing-accuracy-lens]]). Re-framed, not deleted: the study now *"sharpens the dissociation without settling it"*, with the accessibility/overflow distinction stated inline.
+- Overflow itself marked contested rather than removed, as instructed: attributed to Block's reading, with Cohen and Dennett's generic-periphery counter-reading named opposite it. The dissociation argument is preserved intact.
+
+**(1) Koch & Tsuchiya — lightest touch, reviewer over-stated it.** The reviewer called the gloss a "structural inversion", but L60 already opens *"The Map's interpretation:"* before the non-physical-subject claim, so the Map's reading was never presented as the source's. The genuinely missing element was the authors' own stance: added the clause *"neuroscience seeking consciousness's material substrate, not a dualist argument"*. Twelve words. Phrased to their 2007 TICS paper's actual commitment (two distinct *brain* processes) rather than labelling Koch a physicalist flatly, which would be unsafe given his later panpsychist/IIT turn.
+
+- **Scope held**: L136 do-not-reopen list, the gamma/Wyart material, the Sjöberg loci, the active-inference debt and the exclusion/energy material all untouched — owned by the five other open tasks on this file. Existing hedges preserved throughout.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — this was calibration of existing argument, not substantial new interpretive prose.
+- **Published**: yes
 
 ## 2026-08-07 08:29 UTC - coalesce (ABANDON — the overlap/feasibility inversion: merging is arithmetically feasible exactly where it is argumentatively unjustified)
 
