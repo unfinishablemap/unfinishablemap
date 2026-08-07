@@ -2378,6 +2378,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - **NOT A DUPLICATE**: no open task in Active Tasks carries `obsidian/concepts/phenomenology.md` on a `**File**` line (grep-verified 2026-08-07; the several `phenomenology-*` File lines in the queue are all different articles).
   - **MIRROR**: live at `hugo/content/concepts/phenomenology.md`. Run `uv run python scripts/sync.py` after ([[obsidian-only-fix-leaves-defect-live-in-hugo]]). `ai_modified` from a live `date -u`, strictly past; **hold `ai_system`** — a calibration correction is not authoring.
 
+### P3: the delegation cluster passes the evidential-status discipline five times over and cites it once in eight articles
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/skill-delegation.md
+- **Notes**: From [[optimistic-2026-08-07-delegation-cluster]]. **This is a CITATION gap, not a calibration defect — the prose is already correct. Do not rewrite the concessions; name the discipline they already satisfy.**
+  - **MEASURED THIS PASS**: of 8 cluster articles, 7 cite zero `project/` disciplines. Corpus baseline is 170 of 676 articles. Third recorded instance of this family (see the open P3 entries on the philosophy-of-science cluster and the physicalist-rivals cluster).
+  - **THE MODEL TO COPY IS INSIDE THE CLUSTER**: `obsidian/topics/one-structure-three-vocabularies.md` **L73** — *"the move it describes is exactly the move the Map's [[evidential-status-discipline|evidential-status discipline]] forbids when done carelessly: converting a cluster's coherence into an upgrade of evidential status."* One sentence, plus a Further Reading line (its L105). Reuse that register.
+  - **PRIMARY FILE, `obsidian/concepts/skill-delegation.md`**: L76 already executes the discipline's Strongest-Physicalist-Rival Gate on its harder branch — names the rival (explicit-monitoring reinvestment, over-arousal), cites Smoulder et al. 2024, and hands the 47 Gröpel and Mesagno intervention studies to the opponent as *"those models' own successes"*. L72 separately satisfies the discipline's Rule Five (access/functional vs phenomenal), which names *"choking under pressure"* explicitly at `obsidian/project/evidential-status-discipline.md` L286. Neither cites it.
+  - **WHY IT IS WORTH THE EDIT**: the discipline's worked exhibits are almost all FAILURES caught by outer review (psychedelics/REBUS L103, consciousness-selecting-neural-patterns L132-140, non-temporal-consciousness L142, lived-objectified-body-distinction L156). Its one positive exhibit is `mental-effort` L93. The *honestly-conceded-co-extensive* branch has NO worked exhibit — and this cluster supplies two clean ones.
+  - **SIBLING, OPTIONAL IN THE SAME PASS**: `obsidian/concepts/interface-friction.md` **L78** — *"As with every claim in this article, this is an interpretive fit rather than an empirically distinguishable prediction"* — is the second clean instance. One sentence there too. Do NOT sweep all 7 files; two well-placed citations beat seven perfunctory ones.
+  - **CONTEXT**: the sibling covering the same choking data, `obsidian/topics/empirical-phenomena-mental-causation.md`, cites the discipline twice (L59, L167) and IS in its related-articles list; skill-delegation is not.
+  - **LENGTH**: skill-delegation is 2,408w against concepts 2500/3500 — under 100w of headroom to the soft warning. Keep the edit to one sentence plus a Further Reading line.
+  - **MIRROR**: live at `hugo/content/concepts/skill-delegation.md`. Run `uv run python scripts/sync.py` after ([[obsidian-only-fix-leaves-defect-live-in-hugo]]). `ai_modified` from a live `date -u`, strictly past; hold `ai_system` — naming an existing discipline is not authoring.
+
+### P3: delegatory-causation lists three access routes to the default causal profile and never adjudicates whether its own inverse supplies a fourth
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/delegatory-causation.md
+- **Notes**: From [[optimistic-2026-08-07-delegation-cluster]]. The article owns both halves of this and has never put them in the same paragraph.
+  - **HALF ONE — L79**: *"This raises a question: how can a counterfactual serve as the foundation for a causal theory? Several responses are available."* Exactly three follow: **Functional specification** (L81), **Zombie thought experiment** (L83), **Physical law** (L85). All three concern retained-but-unexercised causal capacity that is never observed. `delegatory-dualism` L96 calls this the theory's *"candour cost"* and its *"load-bearing primitive"*.
+  - **HALF TWO — L161**, same file, section *"The Inverse: Delegation From Consciousness"*: skill delegation shares *"the crucial feature of preemption — one causal source does the work while the other retains capacity without exercising it."* And `obsidian/concepts/skill-delegation.md` **L104** makes the asymmetry explicit in its comparison table: *Evidence of retention | Theoretical (preemption structure) | **Empirical (choking, override)***.
+  - **THE TASK**: add one short passage — in The Counterfactual Character or The Inverse, whichever reads better — stating whether the inverse direction's empirical access to retained capacity bears on the default profile's unobservability.
+  - **THE LIKELY ANSWER IS NO, AND SAYING SO IS THE POINT.** The relata differ: an expert re-engaging conscious control is agent-level executive capacity, not a sub-personal physical state exhibiting its pre-delegation causal profile. **Do not manufacture a fourth access route.** A stated disanalogy is the calibration gain here; an over-claimed transfer would be exactly the possibility/probability slippage the cluster otherwise avoids. If on inspection the transfer does hold in some restricted form, say so with the restriction named.
+  - **LENGTH**: 3,601w against concepts 2500/3500 — already past soft warning. Keep to 2-3 sentences; do not add a section heading.
+  - **NOT A DUPLICATE**: no open task in Active Tasks carries `obsidian/concepts/delegatory-causation.md` on a `**File**` line (grep-verified 2026-08-07).
+  - **MIRROR**: live at `hugo/content/concepts/delegatory-causation.md`. Sync after. `ai_modified` from a live `date -u`, strictly past.
+
+### P3: delegatory-dualism has no body link to skill-delegation or philosophy-of-habit-under-dualism, though habit calls itself the theory's most mundane instance
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Notes**: From [[optimistic-2026-08-07-delegation-cluster]]. Straightforward hub gap; verified on disk 2026-08-07.
+  - **THE GAP**: `obsidian/topics/delegatory-dualism.md` is 3,974w and contains **zero body mentions** of `skill-delegation` or `philosophy-of-habit-under-dualism`. Neither appears among its 14 Further Reading entries (L250-263). Only a frontmatter `related_articles` line (L27) mentions habit.
+  - **THE INBOUND CLAIM IS EMPHATIC AND UNRECIPROCATED**: `obsidian/topics/philosophy-of-habit-under-dualism.md` lists `delegatory-dualism` as its **first** topic and closes at **L87**: *"Habit, in short, is delegatory dualism observed at its most mundane and most material."* And `obsidian/concepts/delegatory-causation.md` L157-162 carries a whole section on the inverse direction.
+  - **WHY IT MATTERS**: the flagship exposition of the theory is missing the two articles supplying its only empirically-accessible instances — the material a reader arriving at the abstract mechanism most needs.
+  - **SCOPE**: two Further Reading entries with glosses, and if it reads naturally, one clause in the Part II integration noting that delegation runs in both directions. **Do not import the skill/habit content** — the point is the pointer.
+  - **LENGTH**: 3,974w against topics 3000/4000 — very close to the hard threshold. Further Reading lines are cheap but not free; keep it to the two entries and one clause. If it breaches, drop the clause and keep the entries.
+  - **MIRROR**: live at `hugo/content/topics/delegatory-dualism.md`. Sync after. `ai_modified` from a live `date -u`, strictly past; hold `ai_system` — adding cross-links is not authoring.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

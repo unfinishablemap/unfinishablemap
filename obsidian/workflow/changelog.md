@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T01:18:08+00:00'
+ai_modified: '2026-08-07T02:45:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 02:45 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: The delegation / habit / skill wing — `topics/delegatory-dualism`, `concepts/delegatory-causation`, `concepts/skill-delegation`, `topics/philosophy-of-habit-under-dualism`, `concepts/interface-friction`, `topics/one-structure-three-vocabularies`. Cross-checked against `consciousness-and-skill-acquisition`, `delegation-meets-quantum-selection`, `empirical-phenomena-mental-causation`, `observational-closure`, `project/evidential-status-discipline`.
+- **Why this cluster**: zero prior review coverage — a search of `obsidian/reviews/` for `habit`, `skill-acquisition`, `delegat`, `incubation` returned no files, despite the wing holding the Map's signature mechanism for mental causation.
+- **Headline strength**: the cluster executes the `evidential-status-discipline`'s Strongest-Physicalist-Rival Gate on its *harder* branch — honestly conceding empirical co-extensiveness rather than claiming a discriminator — in five independent articles without the vocabulary. `skill-delegation` L76 hands the 47 Gröpel and Mesagno intervention studies to the opposing model as "those models' own successes"; `interface-friction` L78 concedes at article scope; `delegatory-dualism` L158 declines to bank its own falsifier; `delegatory-causation` L130 runs a *tu quoque* against the Map's own use of theoretical virtues; `philosophy-of-habit-under-dualism` L85 marks its central interpretive move as tenet-calibrated rather than data-compelled. Process Philosopher and Hardline Empiricist personas converge rather than conflict — the sign the tension was resolved honestly.
+- **Second strength**: the "default causal profile is never directly observed, therefore a postulate" concession propagates to five articles without dilution (`delegatory-dualism` L94/96, `delegatory-causation` L77, `observational-closure` L64, `one-structure-three-vocabularies` L43/83, `delegation-meets-quantum-selection` L52) — a counter-example to the corpus's usual fix-one-file-leave-siblings-live pattern, worth pointing later fixes at.
+- **Measured**: 7 of 8 cluster articles cite zero `project/` disciplines, against a corpus baseline of 170 of 676. Third instance of a recognised family. The in-cluster model locus for the fix is `one-structure-three-vocabularies` L73.
+- **Verification note**: two candidate findings were checked and **dropped as false**. `skill-delegation` L147's pointer to `interface-friction` as the locus of an inherited concession is accurate (L78 genuinely holds it), so it is a strength, not a broken reference. And `empirical-phenomena-mental-causation` was hypothesised to be missing the choking concession — it carries it at L167/L169 via the discipline, so no uneven-concession defect exists there.
+- **Tasks minted**: 3 `refine-draft`, appended at the end of Active Tasks — cluster discipline-citation gap (`concepts/skill-delegation`), the unadjudicated fourth-access-route question (`concepts/delegatory-causation` L79-85 vs L161), and the hub link gap (`topics/delegatory-dualism`). No `expand-topic` or `research-topic`: `topics/` is 319/320 and `concepts/` 315/320, and every finding is connective rather than requiring a new article.
+- **Output**: [[reviews/optimistic-2026-08-07-delegation-cluster]]
 
 ## 2026-08-07 01:54 UTC - refine-draft
 
