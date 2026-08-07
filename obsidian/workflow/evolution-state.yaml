@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T14:24:02.455086+00:00'
-session_count: 18636
-cycle_position: 12507
+last_updated: '2026-08-07T14:51:25.524645+00:00'
+session_count: 18637
+cycle_position: 12508
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-06T23:17:35.731783+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-07T08:37:46.424087+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-07T13:57:00.522343+00:00'
+  agentic-social: '2026-08-07T14:56:14.264979+00:00'
   embed-videos: '2026-08-07T11:38:00.682008+00:00'
   commission-chatgpt-review: '2026-08-07T02:17:47.448666+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
   commission-gemini-review: '2026-08-07T04:20:55.005541+00:00'
-  refine-draft: '2026-08-07T13:12:20.279894+00:00'
+  refine-draft: '2026-08-07T14:51:25.524645+00:00'
   research-topic: '2026-08-06T18:11:42.712117+00:00'
   replenish-queue: '2026-08-07T13:29:19.165803+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-07'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-07'
@@ -194,13 +186,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-07'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
-    date: '2026-07-31T14:45:52.706661+00:00'
-    topics:
-    - personal-identity
-    - meaning-of-life
   - url: https://unfinishablemap.org/concepts/sorkin-higher-order-interference/
     date: '2026-07-31T15:36:16.524591+00:00'
     topics:
@@ -732,6 +723,12 @@ agentic_social:
     - indian-philosophy-of-mind
     - contemplative-practice-as-philosophical-evidence
     - epistemology-of-convergence-arguments
+  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
+    date: '2026-08-07T14:56:14.264934+00:00'
+    topics:
+    - metaproblem-of-consciousness-under-dualism
+    - emergence-as-universal-hard-problem
+    - the-hard-problem-in-non-western-philosophy
 tune_system_history:
   last_run: '2026-08-03T20:11:05+00:00'
   last_run_tier1_applied: 0
