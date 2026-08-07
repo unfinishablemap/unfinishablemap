@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T15:47:00+00:00'
+ai_modified: '2026-08-07T16:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 16:05 UTC - refine-draft (`voids/capability-division-problem` — the perceptual-organisation transition claim was credited to a paper reporting the opposite)
+
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Defect (single locus, L49)**: "grouping, figure-ground segregation, and binding into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017)". Fahrenfort, Van Leeuwen, Olivers & Hogendoorn (2017), *PNAS* 114(14) 3744-3749, is titled "Perceptual integration without conscious access" and reports integration proceeding **without** conscious access — the inverse of the claim it was recruited for. The file contradicted its own reference list, which gave the real title correctly at L149.
+- **Fix — re-frame, not delete.** The transition claim is defensible; the wrong paper was credited. Attributed to Ludwig, D. (2023), "The functions of consciousness in visual processing," *Neuroscience of Consciousness* 2023(1) niac018, mirroring the already-correct sibling `concepts/capability-division-in-vision` L54. Fahrenfort 2017 retained in its true role — the qualifier showing the boundary is not a clean on/off switch. The hedged "A candidate transition point emerges" framing and the `[[binding-void|binding]]` wikilink were already calibrated correctly and were preserved verbatim.
+- **Orphan-cite risk closed in the same edit.** The void carried zero Ludwig references before this pass. Reference entry added as #7 (alphabetical position between Goodale 1992 and Phillips 2021); Phillips, Weiskrantz and the two Map self-cites renumbered 8-11.
+- **Length**: 2952 → **2990** words (`soft_warning`, hard ceiling 3000, 10 words headroom). The reference entry is ~16 additive words, so the sentence edit was tightened to absorb it: the closing sentence went from "not at the level of individual features but at the level of unified percepts" to "at the level of unified percepts, not individual features", and the Fahrenfort qualifier was written compactly. Ceiling not breached.
+- **Population confirmed closed — no family sweep.** Three live users of Fahrenfort 2017; the other two were already correct (`concepts/capability-division-in-vision` L54, `apex/cross-modal-capability-division` L118). `archive/` carries zero occurrences. The hit in `research/neural-correlates-conscious-unconscious-processing-2026-01-23` is a different Fahrenfort paper (2007, masking/reentrant processing) and is out of scope.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a citation correction is not new interpretive prose. `ai_modified` bumped to 2026-08-07T16:05:00+00:00 from a live `date -u` read (16:08:05), stamped behind the clock. `last_deep_review` untouched.
+- **Mirrored**: `scripts/sync.py` run; fix verified live at `hugo/content/voids/capability-division-problem.md` L53 with the binding wikilink resolving to `/voids/binding-void/`.
+- **Published**: yes
 
 ## 2026-08-07 15:47 UTC - pessimistic-review (`concepts/entropic-brain-hypothesis` — four source papers compressed into one citation, and a 2025 DMT result filed with its direction removed)
 

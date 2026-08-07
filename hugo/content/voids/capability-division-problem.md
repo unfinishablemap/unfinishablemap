@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-07-19 00:18:39+00:00
+ai_modified: 2026-08-07 16:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 00:18:39+00:00
-lastmod: 2026-07-19 00:18:39+00:00
+lastmod: 2026-08-07 16:05:00+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -50,7 +50,7 @@ Neuroscience has mapped extensive visual processing that proceeds without consci
 
 The two-streams hypothesis (Goodale & Milner, 1992) provides neuroanatomical grounding. The dorsal stream guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on awareness; the ventral stream handles object recognition and conscious perception. Patient DF, whose visual-form agnosia followed ventral-stream damage, could orient her hand to a mail slot she could not consciously perceive — dorsal intact, ventral impaired (Goodale, Milner, Jakobson & Carey, 1991). [Capability division in vision](/concepts/capability-division-in-vision/) examines the full evidence constraining where this boundary falls. The dissociation suggests visual capabilities fall into two classes: those that require consciousness and those that do not.
 
-A candidate transition point emerges: perceptual organisation. Feature extraction and categorisation occur without awareness; grouping, figure-ground segregation, and [binding](/voids/binding-void/) into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017). Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
+A candidate transition point emerges: perceptual organisation. Feature extraction and categorisation occur without awareness; grouping, figure-ground segregation, and [binding](/voids/binding-void/) into coherent objects mark the transition to conscious seeing (Ludwig, 2023). The threshold is not sharp: some perceptual integration proceeds without conscious access (Fahrenfort et al., 2017), so it marks where integration reliably *tracks* awareness rather than a clean switch. Consciousness may enter vision at the level of unified percepts, not individual features.
 
 ## Why the Division Resists Specification
 
@@ -154,7 +154,8 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 4. Ffytche, D. H., Howard, R. J., Brammer, M. J., David, A., Woodruff, P. & Williams, S. (1998). "The anatomy of conscious vision: an fMRI study of visual hallucinations." *Nature Neuroscience*, 1(8), 738-742.
 5. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
 6. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-7. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
-8. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/
-10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
+7. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
+8. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+9. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+10. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/
+11. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
