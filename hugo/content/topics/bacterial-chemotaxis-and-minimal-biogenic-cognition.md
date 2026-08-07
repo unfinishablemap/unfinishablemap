@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-03 14:14:00+00:00
+ai_modified: 2026-08-07 17:26:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 17:11:44+00:00
-lastmod: 2026-08-03 14:14:00+00:00
+lastmod: 2026-08-07 17:26:00+00:00
 modified: *id001
 related_articles: []
 title: Bacterial Chemotaxis and Minimal Biogenic Cognition
@@ -92,7 +92,7 @@ This is where the Map answers the **Cellular Basis of Consciousness** directly, 
 ## Further Reading
 
 - [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — takes up the noise-vs-choice question this article parks: what would count as evidence of proto-agency, and whether the distinction is empirically tractable at all
-- [Near-Perfect Adaptation and Control-Theoretic Competency Without Experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) — the general control-theory primitive this cell instantiates: the methylation loop's near-perfect adaptation is integral feedback control, and that competency is orthogonal to phenomenality across thermostats, PID controllers, and synthetic gene circuits alike
+- [Near-Perfect Adaptation and Control-Theoretic Competency Without Experience](/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/) — the general control-theory primitive this cell instantiates: the methylation loop's near-perfect adaptation is integral feedback control, and that competency is orthogonal to phenomenality across op-amp integrators, PID controllers, and synthetic gene circuits alike
 - [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — The eukaryotic rung one step up (nematodes, *Hydra*, slime moulds); bacteria are the prokaryotic floor beneath it
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — Whole-body behaviour with zero neurons; still multicellular, one rung above the single-celled bacterial floor

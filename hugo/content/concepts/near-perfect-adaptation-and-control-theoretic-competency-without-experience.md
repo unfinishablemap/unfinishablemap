@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-15
-ai_modified: 2026-08-03 14:51:32+00:00
+ai_modified: 2026-08-07 17:26:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 14:51:32+00:00
-lastmod: 2026-08-03 14:51:32+00:00
+lastmod: 2026-08-07 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,7 +28,7 @@ topics:
 - '[[the-psychophysical-control-law]]'
 ---
 
-On the Map's dualist framework, control-theoretic sophistication is **orthogonal to phenomenality**: how robustly a system regulates itself gives no purchase on whether anything is felt inside it. Integral feedback, robust (near-perfect) adaptation, and robust homeostasis are domain-general control competencies, fully realised end to end in systems no one credits with experience—a thermostat, an operational-amplifier integrator—and installable on demand, by synthetic-biology protocol, in a living cell. This concept isolates that orthogonality as a **reusable primitive**: a marker the Map can carry across cases, so each new instance of exquisite regulation is not re-litigated from scratch.
+On the Map's dualist framework, control-theoretic sophistication is **orthogonal to phenomenality**: how robustly a system regulates itself gives no purchase on whether anything is felt inside it. Integral feedback, robust (near-perfect) adaptation, and robust homeostasis are domain-general control competencies, fully realised end to end in systems no one credits with experience—an operational-amplifier integrator, an industrial PID loop—and installable on demand, by synthetic-biology protocol, in a living cell. This concept isolates that orthogonality as a **reusable primitive**: a marker the Map can carry across cases, so each new instance of exquisite regulation is not re-litigated from scratch.
 
 The primitive matters because "it regulates robustly" is one of the most persuasive-sounding routes from mechanism to mind. A cell that tracks a setpoint, remembers where it has been, and corrects its own errors looks, described in the right vocabulary, like an agent with interests. The [control-theoretic account](#the-primitive) (given below) drains that appearance of its inferential force without denying any of the behaviour: every competency is real, and none of it is evidence of felt experience. The strongest opposing view—the [homeostasis-and-feeling family](#the-rival) (Man & Damasio, Seth, allostasis theorists)—ties a specific kind of regulation constitutively to affect, and is engaged fairly below rather than caricatured.
 
@@ -38,14 +38,14 @@ Robust perfect adaptation is a control system's capacity to return its output ex
 
 Yi, Huang, Simon and Doyle (2000) established the primitive's biological reach by proving that bacterial chemotaxis achieves its near-perfect adaptation *by* integral feedback control. In their framing, "Integral feedback control is a basic engineering strategy for ensuring that the output of a system robustly tracks its desired value independent of noise or variations in system parameters." They argue "that integral control in some form is necessary for a robust implementation of perfect adaptation," and generalise: "integral control may underlie the robustness of many homeostatic mechanisms." The structural precondition was supplied by Barkai and Leibler (1997), who showed that robustness of adaptation follows from network *connectivity* rather than fine-tuned parameter values—confirmed experimentally by Alon, Surette, Barkai and Leibler (1999). A robustness nuance the primitive must preserve: what is robust is the *precision* of adaptation (the return-to-baseline setpoint), not the *kinetics* (how fast it returns). "Near-perfect" names the precision claim, carefully.
 
-The philosophically decisive point is that integral control is substrate-indifferent. The same mathematical relation is realised by a mechanical thermostat closing a feedback loop, by an operational-amplifier circuit performing literal integration, and by a biochemical network methylating a receptor. It names a dynamical property, not a kind of stuff and not a kind of inner life.
+The philosophically decisive point is that integral control is substrate-indifferent. The same mathematical relation is realised by an operational-amplifier circuit performing literal integration, by the integral channel of an industrial PID loop holding a process variable on setpoint, and by a biochemical network methylating a receptor. It names a dynamical property, not a kind of stuff and not a kind of inner life.
 
 ## The Domain-General Ladder
 
 The primitive recurs across an unbroken ladder of systems, and the ladder is what makes the orthogonality vivid. It begins with devices no one credits with experience and climbs, without a break in the control mathematics, to organisms whose phenomenal status is actively contested:
 
-- **Proportional and PID controllers.** A thermostat outputs a corrective signal proportional to temperature error; an industrial PID controller adds integral and derivative terms. These are textbook regulators, wholly transparent, with no candidate for felt experience anywhere in them.
-- **Op-amp integrators.** An analog circuit can implement the integral term *as such*—the very operation Yi et al. identify in the bacterium—in a handful of passive components.
+- **On-off and PID controllers.** The simplest regulators sit *below* the primitive: a household thermostat is a bang-bang device—if temperature is under setpoint the heat is on, otherwise off—and has no integral term at all. An industrial PID controller adds one, accumulating error over time to hold a process variable on setpoint. Both are textbook regulators, wholly transparent, with no candidate for felt experience anywhere in them.
+- **Op-amp integrators.** An analog circuit can implement the integral term *as such*—the very operation Yi et al. identify in the bacterium—from an amplifier, a resistor and a capacitor.
 - **Synthetic gene circuits.** Aoki, Lillacci, Gupta and colleagues in the Khammash group (2019) engineered an *antithetic integral feedback* controller into living *E. coli*, conferring robust perfect adaptation by design. The competency is portable: it can be *built* into an arbitrary molecular network on demand. This is also the rung where the ladder leaves uncontested ground: the host is a living cell, and cellular-basis-of-consciousness theorists (Reber and Baluška) hold that living cells already feel. What survives that disagreement is the engineerability point, which concerns the *installation* of the competency rather than the host's phenomenal status.
 - **Bacterial chemotaxis.** [The single-cell instance](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/)—sensing, short-term memory, and adaptive decision compressed into one neuron-free cell—is one worked example on this ladder, not its subject. The Map treats it in depth elsewhere; here it is a rung.
 - **Physiological allostasis.** Whole-organism regulation of internal states sits at the top of the ladder and is where the rival theories of feeling locate their claim.
@@ -56,7 +56,7 @@ The ladder has no joint at which the control mathematics changes character. A pr
 
 Three considerations make the orthogonality claim a primitive the Map can reuse rather than re-derive case by case.
 
-**The thermostat floor.** Integral control is implemented in devices that plainly feel nothing. If the *same* control property carried phenomenality, the thermostat would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. The floor holds even against the most inflationary rival in view: cellular-basis-of-consciousness theorists tie sentience to *life*, so they decline the thermostat too—which is exactly why the reductio bites at the thermostat and not at the engineered cell. This is a standing reductio the Map can invoke against any future instance. The mirror argument over-generates just as badly, and the Map is bound by that one. "The mechanism is complete, therefore nothing is felt" would license denying experience in humans, whose behaviour is—on the physicalist assumptions such an argument borrows—likewise explicable without functional residue. Mechanistic completeness no more settles the phenomenal question downward than robust regulation settles it upward, and the second reductio constrains the Map's own floor verdicts exactly as the first constrains its opponents' inflationary ones.
+**The integrator floor.** Integral control is implemented in devices that plainly feel nothing: a three-component analog circuit performs the very operation Yi et al. find in the bacterium. If the *same* control property carried phenomenality, that circuit would qualify—so the property itself cannot be what carries phenomenality. Any argument of the form "this system regulates robustly, therefore it experiences" over-generates: it licenses attributing experience to the op-amp. The floor holds even against the most inflationary rival in view: cellular-basis-of-consciousness theorists tie sentience to *life*, so they decline the op-amp too—which is exactly why the reductio bites at the circuit and not at the engineered cell. This is a standing reductio the Map can invoke against any future instance. The mirror argument over-generates just as badly, and the Map is bound by that one. "The mechanism is complete, therefore nothing is felt" would license denying experience in humans, whose behaviour is—on the physicalist assumptions such an argument borrows—likewise explicable without functional residue. Mechanistic completeness no more settles the phenomenal question downward than robust regulation settles it upward, and the second reductio constrains the Map's own floor verdicts exactly as the first constrains its opponents' inflationary ones.
 
 **Engineerability.** Robust perfect adaptation can be wired into a molecular circuit deliberately (Aoki et al. 2019). A capacity you can install by design is a fact about dynamics and connectivity, not evidence of an inner point of view that the wiring somehow summons.
 
