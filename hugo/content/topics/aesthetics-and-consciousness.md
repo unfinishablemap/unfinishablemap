@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 14:28:00+00:00
+ai_modified: 2026-08-07 18:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:45:48+00:00
-lastmod: 2026-08-02 14:28:00+00:00
+lastmod: 2026-08-07 18:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ The [binding problem](/topics/the-binding-problem/) distinguishes five varieties
 
 Aesthetic binding exceeds perceptual binding in three ways. First, it crosses radically different processing domains—sensory, emotional, cognitive, evaluative, temporal, bodily—that have no obvious common representational format. Second, the aesthetic gestalt has properties categorically different from anything in its parts: no amount of pitch, timbre, rhythm, emotion, and cognition individually exhibits beauty. Beauty appears only when they are bound. Third, it operates across radically different timescales simultaneously—the present moment's sound must be bound with memory of what came before and anticipation of what follows.
 
-The decomposition test reveals constitutive unity: list every feature of Vermeer's *Girl with a Pearl Earring* and the beauty has not been captured. Decompose the experience and the beauty does not divide into components—it disappears. Unlike ordinary perception where features are bound but separable in principle, aesthetic elements are mutually constitutive in a way that resists even conceptual separation. If [phenomenal unity](/concepts/unity-of-consciousness/) in seeing a red apple already poses problems for materialism (Revonsuo, 2006), the unity of experiencing beauty—that same six-domain binding, carrying intrinsic value—poses those problems in amplified form.
+The decomposition test reveals constitutive unity: list every feature of Vermeer's *Girl with a Pearl Earring* and the beauty has not been captured. Decompose the experience and the beauty does not divide into components—it disappears. Unlike ordinary perception where features are bound but separable in principle, aesthetic elements are mutually constitutive in a way that resists even conceptual separation. Revonsuo (2006) supplies the distinction this turns on: [phenomenal unity](/concepts/unity-of-consciousness/) is a distinct explanandum from feature-binding, so settling how the brain assigns *red* and *round* to the same apple leaves untouched why the bound features constitute one experience rather than coordinated parallel ones. Revonsuo poses that residue as a hard problem for consciousness science and pursues it inside a naturalistic framework—*Inner Presence* argues for consciousness as a biological phenomenon—so the step from the residue to trouble for materialism is the Map's inference rather than his verdict. Granting that inference, the unity of experiencing beauty—that same six-domain binding, carrying intrinsic value—poses the problem in amplified form.
 
 ## Aesthetic Creation and Bidirectional Interaction
 

@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T16:05:00+00:00'
+ai_modified: '2026-08-07T18:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-07'
-lastmod: 2026-08-07 16:05:00+00:00
+lastmod: 2026-08-07 18:40:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-07 18:40 UTC - refine-draft (Revonsuo re-framed: credited with the BP2 distinction, not with an anti-materialist verdict)
+
+- **Status**: Success
+- **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
+- **Original score**: not measured — the skill's step-3 command (`scripts/curate.py review`) does not exist in `scripts/` (directory listed; only `validate.py` is available). `scripts/validate.py hugo/content/` reports **0 invalid** after the edit; the target file validates individually.
+- **Lens applied**: citation-framing accuracy — *is the cited author's position compatible with the claim they are cited for?* Explicitly **not** the metadata lens. This matters because `deep-review-2026-07-18-unity-of-consciousness` L50 cleared this exact locus as "Deliberately NOT changed" on the grounds that it "correctly cite[s] Revonsuo's genuine 2006 book". That verdict was **correct** — the work, year and publisher are all right, and I re-verified they are. It simply answered a different question. The defect was never in the reference; it was in recruiting a biological naturalist as the authority for "phenomenal unity poses problems for materialism", a conclusion he does not draw.
+- **Defect**: L128 read *"If [phenomenal unity](/concepts/unity-of-consciousness/) in seeing a red apple already poses problems for materialism (Revonsuo, 2006)…"*. The article's own reference list at L198 prints the book's subtitle — *Inner Presence: **Consciousness as a Biological Phenomenon*** — so the page contradicted its own bibliography. Revonsuo poses BP2 as a hard problem **for consciousness science**, from inside naturalism.
+- **Fix — re-framed, not deleted**. Revonsuo now supplies the *distinction* (phenomenal unity is a distinct explanandum from feature-binding); his naturalistic framing is stated on the page by name (*Inner Presence* argues for consciousness as a biological phenomenon); and the step to "trouble for materialism" is marked as the Map's own inference rather than his verdict. The argument's conclusion is unchanged — the amplification claim still stands, now reached honestly.
+- **Engagement classification** (editor-internal, not in the body): Revonsuo — **Mode Three**, framework-boundary marking. The prior text let a naturalist's authority stand in for an in-framework refutation the Map had not earned from him; the fix declares the boundary instead of dressing it as agreement. No editor vocabulary written into the article.
+- **Sibling form matched, year deliberately not switched**: four live articles cite the BP1/BP2 taxonomy as **Revonsuo 1999** (`topics/quantum-holism-and-phenomenal-unity` L52, `concepts/binding-problem` L73, `topics/the-binding-problem` L71, `concepts/unity-of-consciousness` L76; plus `project/cluster-integration-discipline` L59 for the taxonomy's pre-Map provenance). I matched their **framing** — neutral, taxonomic, no verdict — but kept the **2006 book**, which already sits in this article's reference list, genuinely develops BP1/BP2, and is the work whose subtitle makes the naturalism legible to the reader. No new reference entry was added, because no new work was introduced.
+- **Length**: `analyze_length` reports 3048 words against a 3000 soft threshold, i.e. "48 over" — a **false positive**, the known reference-apparatus artifact. Decomposed on disk: References 188 + Further Reading 281, leaving **prose 2579/3000**. The fix was therefore written to the length it needed rather than cramped: prose is now **2653/3000**.
+- **Scope check (evidence)**: `grep -rn "poses problems for materialism"` across `obsidian/`, `archive/` and `hugo/content/` now returns the misattribution locus in **neither** live tree. The only survivors are the two `archive/topics/binding-and-beauty` loci (obsidian L119, hugo L123), left untouched by instruction — they are the **uncited ancestor** form, an assertion in the Map's own voice with no authority attached, which is a claim a dualist site may make. A full `Revonsuo` sweep of `obsidian/` + `archive/` found no second misattribution: every other citation is taxonomic (1999/2006), labels him physicalist outright (`topics/lucid-dreaming-and-dualist-rendering` L48), or cites a definition the text goes on to dispute (`concepts/altered-states-of-consciousness` L48). `concepts/type-specificity` L154 carries the 2006 book in its reference list only, with no in-text claim.
+- **Sync**: `scripts/sync.py` run; `hugo/content/topics/aesthetics-and-consciousness.md` L133 now carries the re-framed text, so the published page does not keep the defect.
+- **ai_system**: **held** at `claude-opus-4-6`. Re-framing a citation to match its source is correction, not authoring.
+- **Published**: yes
 
 ## 2026-08-07 18:26 UTC - refine-draft (two `description:` blurbs rewritten to their own bodies' verdicts)
 
