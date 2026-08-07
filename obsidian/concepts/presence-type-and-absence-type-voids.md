@@ -4,8 +4,8 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-08-06T17:02:30+00:00
-last_deep_review: 2026-06-26T02:56:00+00:00
+ai_modified: 2026-08-07T16:44:00+00:00
+last_deep_review: 2026-08-07T16:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,9 +83,9 @@ Paradigm cases:
 
 The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, tears, a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
 
-## The Seventh Failure Signature
+## Dissolution Under Attention
 
-The [[compound-failure-signatures|failure-signature framework]] catalogues the distinct phenomenologies that accompany different kinds of cognitive limit. Six primary signatures cover most consciousness-related voids: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. (The framework also lists modular selective loss and wrong model selection among secondary signatures.) Presence-type voids add a characteristic seventh primary signature that the [[taxonomy-of-voids|taxonomy apex]] names **dissolution under attention**, the diagnostic signature for presence-type voids: the knowing is genuine and conscious yet evaporates when subjected to analytical scrutiny.
+The [[compound-failure-signatures|failure-signature framework]] catalogues the distinct phenomenologies that accompany different kinds of cognitive limit, tabulating eight of them by limit type without ranking any above the others. Six recur across the voids catalogue itself: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. Two further signatures complete the [[taxonomy-of-voids|taxonomy apex]]'s inventory, and they are the presence/absence pair. Presence-type voids contribute **dissolution under attention**, which the apex names the diagnostic signature for this class: the knowing is genuine and conscious yet evaporates when subjected to analytical scrutiny. Absence-type voids contribute its counterpart, **silent erasure** — the [[erasure-void|erasure void]]'s signature, in which the inventory of self is revised downward without notification, the zero-signal case against which the other signatures register as signals at all. That the two completing entries are one of each type is suggestive rather than confirmatory: the same catalogue supplied both the signatures and the axis, so the fit is framework-internal coherence rather than independent triangulation.
 
 Dissolution under attention is related to but distinct from the [[mutation-void|mutation pattern]]. Mutation transforms the *content* of a thought when attention reaches for it; dissolution destroys the *mode of knowing itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
 
@@ -93,7 +93,11 @@ This signature is diagnostic. Where an absence-type void produces the phenomenol
 
 ## Why the Distinction Matters
 
-The two types require different investigative methods. Absence-type voids yield to [[apophatic-cartography|apophatic cartography]]: tracing the shape of what is missing, comparing failure modes across minds, triangulating the edges of the gap. Presence-type voids resist this approach because the object is not a hole but a saturated encounter—the more carefully one tries to chart it, the more completely it dissolves. Investigation of presence-type voids typically proceeds through less direct methods: cross-tradition recurrence (when accounts such as Gendlin's felt sense, Otto's numinous, and Polanyi's tacit knowledge report the same structure — noting that these lineages are not mutually independent, so the recurrence is genealogical rather than convergent; see [[ineffable-encounter-void|the ineffable encounter void]]), somatic indicators (the body's response outruns the intellect's grasp), and the cumulative residues left in transformed behaviour after the encounter has passed.
+The two types require different investigative methods. Absence-type voids yield to [[apophatic-cartography|apophatic cartography]]: tracing the shape of what is missing, comparing failure modes across minds, triangulating the edges of the gap. Presence-type voids resist this approach because the object is not a hole but a saturated encounter—the more carefully one tries to chart it, the more completely it dissolves. Investigation of presence-type voids typically proceeds through less direct methods.
+
+The first is cross-tradition recurrence, and the [[ineffable-encounter-void|ineffable encounter void]] page has already established how much that method delivers. Grouped by what each source actually claims, the roster collapses into fewer strands than its length suggests: Gendlin's felt sense and Polanyi's tacit knowing form one strand; Otto's numinous and James's noetic quality of mystical states form a second whose members are genealogically linked rather than independent, since Otto read *Varieties* directly; and Rosa's resonance is cited for one narrower point, that such encounters cannot be manufactured or scheduled. Katz's constructivism then sources most of the remaining agreement to vocabulary the traditions themselves supply. Two features survive that deflation: dissolution under attention, which is an obstacle to Gendlin's clinical method rather than something it predicts, and non-manufacturability, which cuts against the interest of traditions that prescribe practices for producing the state. Two surviving features is a far smaller result than a roster of converging traditions would suggest — but it is a result, and the smaller claim is the one this method actually supports.
+
+The remaining methods are somatic indicators (the body's response outruns the intellect's grasp) and the cumulative residues left in transformed behaviour after the encounter has passed.
 
 The distinction also cross-cuts the standard [[three-kinds-of-void|unexplored/unexplorable/occluded]] scheme. Presence-type voids are typically both unexplorable (the generating mechanism is closed to introspection) *and* occluded (the experience resists voluntary capture and dissolves under scrutiny). Absence-type voids spread across all three kinds: some are merely unexplored pending further work, others are permanently unexplorable, and still others are actively blocked. The presence/absence axis is therefore independent of the access-condition axis, and together they produce a two-dimensional classification the single taxonomy cannot express.
 
@@ -137,9 +141,11 @@ The classification does not commit the Map to any particular metaphysics of the 
 ## References
 
 1. Gendlin, E. (1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
-2. Otto, R. (1923). *The Idea of the Holy*. Oxford University Press.
+2. Otto, R. (1917/1923). *The Idea of the Holy*. Trans. John W. Harvey. Oxford University Press.
 3. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
-4. Rosa, H. (2019). *Resonance: A Sociology of Our Relationship to the World*. Polity Press.
+4. Rosa, H. (2016/2019). *Resonance: A Sociology of Our Relationship to the World*. Polity Press.
 5. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
-6. Southgate, A. & Oquatre-sept, C. (2026-03-24). The Ineffable Encounter Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/ineffable-encounter-void/
-7. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/
+6. Katz, S. T. (1978). "Language, Epistemology, and Mysticism." In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis*. Oxford University Press.
+7. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+8. Southgate, A. & Oquatre-sept, C. (2026-03-24). The Ineffable Encounter Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/ineffable-encounter-void/
+9. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/
