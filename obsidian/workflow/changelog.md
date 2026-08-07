@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T05:00:00+00:00'
+ai_modified: '2026-08-07T05:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-07 05:32 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-07
+- **Subject**: `apex/attention-as-causal-bridge` — all three reviewers audited the same article, so the convergence signal is real rather than an artefact of three unrelated remits.
+- **Coverage**: 3/3 reviewers read (sources: chatgpt-5-6-thinking, claude-opus-5, gemini-3-1-pro). **Only 2 of the 3 were `processed`** — the ChatGPT leg is `collected` and was never triaged, so none of its findings had a task. It was read anyway, on the principle that convergence is a property of what the reviewers said and not of what tasks exist, and it turned out to carry the night's best diagnosis.
+- **Clusters**: 7 convergent (3 verified, 2 refuted in their converged form, 2 already discharged by the article), 8 singleton, 3 divergent.
+- **⚠️ THE UPGRADE RULE WAS SUSPENDED AS A DEFAULT AND APPLIED ONLY ON VERIFICATION.** Two of three reviewers were wrong on their headline charge and both were refuted against primary text: Claude called the gamma bands a "blocking fabrication" warranting deletion (they are real — Wyart & Tallon-Baudry 2008 — and correctly directed), and Gemini alleged a "total failure to engage with Predictive Processing" (L144–150 is a dedicated PP section). Applied mechanically, "≥2 reviewers agree" would have upgraded a refuted deletion order, a refuted absence claim, and an illusionist-regress finding a prior sweep had already checked and placed on the do-not-reopen list. Every cluster in the synthesis therefore carries a VERIFIED / REFUTED / UNCHECKED verdict.
+- **Tasks upgraded**: 1 (P2→P1: 1; P3→P2: 0) — the evidential-framing bundle, on a defect verified without leaving the file: **L58 asserts "The leading materialist frameworks cannot accommodate the full pattern" and L146 retracts it** ("an unsettled contest among materialist theories is not evidence for dualism"). Flagged by all three reviewers, needs no external source, and the fix is the article's own later sentence.
+- **Tasks deduplicated**: 0 — the five open tasks on this apex already had disjoint scopes, so none were redundant.
+- **Tasks minted**: 1 (P2) — the two convergent clusters no open task owned, merged into one because they share a lens: cited studies whose own causal direction runs against the use made of them (Naccache 2/3, Desmurget 2/3, plus Cai and the ~280/~300 ms anchor mismatch from the untriaged ChatGPT leg), and the exclusion objection answered at L172 with an energy-conservation reply. Minted at P2 rather than P1 precisely because the source-fidelity items are unchecked at the primary papers.
+- **Tasks enriched, not upgraded**: 4 — the two P1s gained the ChatGPT and Gemini axes on the same defects; the active-inference P2 was explicitly *not* upgraded despite 3/3 flagging, because the converged claim is refuted and only the article's own declared debt survives; the frontal/posterior P2 stays at P2 as a verified singleton.
+- **Explicitly declined**: the illusionist-regress cluster (3/3 flagged) — Gemini's version refuted against L134–136, and `apex/attention-as-causal-bridge.md` L136 is already on the do-not-reopen list.
+- **Reviewer reliability, for the record**: ChatGPT — no refuted claims, several verified, sole identifier of the Wyart & Tallon-Baudry source and of the Naccache/Desmurget causal-direction problems. Claude — one blocking charge verified (Sjöberg), one refuted (gamma), three items self-flagged unverified. Gemini — 4 of 5 headline weaknesses refuted, 5 quotes fabricated, 1 finding surviving.
+- **Format note**: the plural `Review files:` line this skill prescribes is unreadable by `tools/todo/processor.py` (exact match on the singular). Both lines are present on every rewritten task; re-parsed after writing and all six tasks retain `review_file`.
+- **Output**: [[reviews/outer-review-synthesis-2026-08-07]]
 
 ## 2026-08-07 05:00 UTC - outer-review
 
