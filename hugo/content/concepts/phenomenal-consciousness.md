@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-02 03:04:04+00:00
+ai_modified: 2026-08-08 12:09:47+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 09:19:00+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+lastmod: 2026-08-08 12:09:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [Global Workspace Theory](/concepts/global-workspace-theory/) and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [hard problem](/topics/hard-problem-of-consciousness/) untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology; Sperling's iconic memory experiments suggest phenomenology exceeding access capacity, though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. [Perception and conscious experience](/topics/dualist-perception/) treats these cases in detail, adding inattentional blindness and subliminal perception. The [extended cognition debate](/topics/consciousness-epistemology-extended-cognition/) reveals a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not—an asymmetry that strengthens the dualist case.
+Block argues the two can dissociate. [blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology; Sperling's iconic memory experiments suggest phenomenology exceeding access capacity, though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. [Perception and conscious experience](/topics/dualist-perception/) treats these cases in detail, adding inattentional blindness and subliminal perception. The [extended cognition debate](/topics/consciousness-epistemology-extended-cognition/) draws out a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not. That asymmetry is argued in the linked article, not established here; taken as given, it is coherent with dualism rather than evidence for it.
 
 ## The Hard Problem {#hard-problem}
 

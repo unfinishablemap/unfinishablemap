@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-08-02T03:04:04+00:00
+ai_modified: 2026-08-08T12:09:47+00:00
 last_deep_review: 2026-07-31T09:19:00+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [[global-workspace-theory|Global Workspace Theory]] and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [[hard-problem-of-consciousness|hard problem]] untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [[blindsight]] patients may have degraded access without phenomenology; Sperling's iconic memory experiments suggest phenomenology exceeding access capacity, though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. [[dualist-perception|Perception and conscious experience]] treats these cases in detail, adding inattentional blindness and subliminal perception. The [[consciousness-epistemology-extended-cognition|extended cognition debate]] reveals a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not—an asymmetry that strengthens the dualist case.
+Block argues the two can dissociate. [[blindsight]] patients may have degraded access without phenomenology; Sperling's iconic memory experiments suggest phenomenology exceeding access capacity, though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. [[dualist-perception|Perception and conscious experience]] treats these cases in detail, adding inattentional blindness and subliminal perception. The [[consciousness-epistemology-extended-cognition|extended cognition debate]] draws out a further consequence of the distinction: A-consciousness plausibly extends into notebooks and tools via functional parity, while P-consciousness does not. That asymmetry is argued in the linked article, not established here; taken as given, it is coherent with dualism rather than evidence for it.
 
 ## The Hard Problem {#hard-problem}
 
