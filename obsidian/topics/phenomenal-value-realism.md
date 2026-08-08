@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-07-07T13:21:32+00:00
+ai_modified: 2026-08-08T13:42:47+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -61,33 +61,33 @@ Three tests support the identity:
 
 ### Pain Dissociation: A Challenge
 
-[[pain-consciousness-and-causal-power|Pain asymbolia]] patients feel pain sensations without finding them distressing. Does this refute the identity of pain and badness? It complicates the naive version. What it reveals is that "pain" as used in ordinary language conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). Phenomenal value realism's identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Pain asymbolia patients lack the affective component; they detect tissue damage without experiencing it as bad. This is consistent with the identity thesis: where the felt badness is absent, so is the disvalue.
+[[pain-consciousness-and-causal-power|Pain asymbolia]] patients feel pain sensations without finding them distressing. This complicates the naive identity of pain and badness rather than refuting it, by revealing that ordinary-language "pain" conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). The identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Asymbolia patients lack that component, detecting tissue damage without experiencing it as bad, which is what the identity thesis predicts: where felt badness is absent, so is the disvalue.
 
 ## The Metaethical Landscape
 
-Phenomenal value realism sits uneasily in standard metaethical categories. Understanding where it fits—and where it breaks the categories—illuminates what the position actually claims.
+Phenomenal value realism sits uneasily in standard metaethical categories, and where it breaks them is where its claims are clearest.
 
 ### The Queerness Objection Transformed
 
 G.E. Moore's non-naturalism holds that goodness is a simple, indefinable property—we recognise it directly, but cannot analyse it in natural terms. J.L. Mackie's "argument from queerness" targeted this: if goodness were a non-natural property, we would need a special faculty to perceive it, and there would be strange metaphysical entities (objective values) floating free in reality.
 
-Phenomenal value realism transforms the queerness objection. Value is not a mysterious property floating in Platonic space—it is a feature of conscious experience, which we access directly through having experiences. The "special faculty" for perceiving value is just consciousness itself. The intrinsic badness of pain is not detected by some sixth moral sense; it is constitutive of what pain feels like.
+Phenomenal value realism transforms the objection. Value is a feature of conscious experience, accessed directly by having experiences, rather than a property floating in Platonic space. The "special faculty" for perceiving it is just consciousness itself, and the intrinsic badness of pain is constitutive of what pain feels like rather than detected by a sixth moral sense.
 
-This does not entirely dissolve queerness worries. If consciousness is irreducible (as the Map's [[tenets#^dualism|dualism]] holds), then phenomenal properties are themselves "queer" from a physicalist perspective. But this shifts the queerness: it is the queerness of consciousness, not the additional queerness of moral properties. If you have already accepted irreducible phenomenal properties, adding that some of them are value-properties requires no further ontological cost.
+This does not entirely dissolve queerness worries. If consciousness is irreducible (as the Map's [[tenets#^dualism|dualism]] holds), phenomenal properties are themselves "queer" from a physicalist perspective. But the queerness shifts: it belongs to consciousness, not additionally to moral properties. Having already accepted irreducible phenomenal properties, adding that some are value-properties costs nothing further.
 
 ### The Is-Ought Gap
 
 Hume's is-ought gap—the claim that normative conclusions cannot be derived from purely descriptive premises—has shaped metaethics since the eighteenth century. Phenomenal value realism claims to dissolve this gap: some experiential properties are simultaneously descriptive (how experiences feel) and normative (what intrinsic goodness is).
 
-The response distinguishes two readings. On one reading, the is-ought gap concerns logical derivation: you cannot derive an "ought" statement from purely "is" statements without smuggling in normative premises. Phenomenal value realism does not violate this—it does not derive "suffering is bad" from non-normative premises; it identifies the normative fact with the phenomenal fact. On the stronger reading, the gap concerns ontology: there cannot be properties that are both descriptive and normative. Phenomenal value realism rejects this stronger claim. The experiential quality of suffering just is intrinsically bad; this is not a derivation but an identity.
+The response distinguishes two readings. On the logical reading, you cannot derive an "ought" from purely "is" statements without smuggling in normative premises—which phenomenal value realism does not violate, since it identifies the normative fact with the phenomenal fact rather than deriving one from the other. On the stronger ontological reading, there cannot be properties that are both descriptive and normative. That stronger claim the position rejects: the experiential quality of suffering just is intrinsically bad, by identity rather than derivation.
 
 ### Naturalism's Open Question
 
 Analytic naturalists identify moral properties with natural properties—"good" means something like "pleasure" or "desire-satisfaction." Moore's Open Question Argument challenges this: for any natural property N, we can coherently ask "X is N, but is it good?" This suggests goodness and N are conceptually distinct.
 
-Rawlette's response: the question only seems open when we consider pleasure abstractly. When actually experiencing intense pleasure and asking "is *this* good?"—attending directly to its phenomenal character—the question closes. The goodness is manifest in the experience, not inferred from description. The apparent openness at the conceptual level does not survive phenomenological engagement.
+Rawlette's response is the transparency test above: the question only seems open while pleasure is considered abstractly, and closes under direct attention to its phenomenal character. The apparent openness at the conceptual level does not survive phenomenological engagement.
 
-The Map extends this response beyond hedonism. The same closing-under-attention applies to other phenomenal features: genuine understanding feels intrinsically valuable when you are experiencing it, not merely when you describe it. Authentic connection carries its significance in the experience itself.
+The Map extends this beyond hedonism. The same closing-under-attention applies to other phenomenal features: genuine understanding feels intrinsically valuable when you are experiencing it, not merely when you describe it. Authentic connection carries its significance in the experience itself.
 
 ## What the Alternatives Miss
 
@@ -95,25 +95,25 @@ The Map extends this response beyond hedonism. The same closing-under-attention 
 
 The dominant approach in economics and much of AI alignment grounds value in preference satisfaction: what is good for you is getting what you want. The Map rejects this. Evolution shaped preferences for reproductive fitness, not flourishing. You can prefer things that make your experience worse—addictive substances, status games that produce anxiety, comfort zones that prevent growth.
 
-More fundamentally, preferences are *about* experiential states they do not capture. You prefer to avoid pain because pain feels bad. The preference tracks the value; it does not constitute it. A system that satisfies preferences without generating any conscious experience has achieved nothing of value—it has optimised a function that was only ever a proxy for what matters.
+More fundamentally, preferences are *about* experiential states they do not capture. You prefer to avoid pain because pain feels bad: the preference tracks the value without constituting it. A system that satisfies preferences while generating no conscious experience has optimised a function that was only ever a proxy for what matters.
 
-This matters urgently for [[purpose-and-alignment|AI alignment]]. If we align AI systems to maximise preference satisfaction, we target a proxy that can come apart from the thing it tracks. Preferences offer epistemic objectivity (choices are observable) but lack metaphysical objectivity (what people happen to want is not what is genuinely good). [[experiential-alignment|Experiential alignment]]—targeting the felt quality of conscious life—aims at the real thing. See [[alignment-in-objective-experiential-terms]] for the full case that phenomenal qualities ground genuinely objective alignment criteria.
+This matters urgently for [[purpose-and-alignment|AI alignment]], where aligning systems to maximise preference satisfaction targets a proxy that can come apart from what it tracks. Preferences offer epistemic objectivity (choices are observable) but lack metaphysical objectivity (what people happen to want is not what is genuinely good). [[experiential-alignment|Experiential alignment]]—targeting the felt quality of conscious life—aims at the real thing; see [[alignment-in-objective-experiential-terms]] for the full case.
 
 ### Error Theory
 
 Error theorists—most influentially J. L. Mackie in *Ethics: Inventing Right and Wrong* (1977)—hold that all moral claims are false because nothing has objective value. The universe is just matter in motion; "good" and "bad" are projections we impose.
 
-Phenomenal value realism's response is direct: attend to actual suffering. Not the concept of suffering, not a description of neural activation patterns—the experience itself. The claim "this suffering contains nothing bad" is no bold philosophical thesis but a failure to understand what the word "bad" refers to.
-
-Error theory gains its plausibility from considering value abstractly, at a distance. It loses plausibility the moment one considers actual experience.
+Phenomenal value realism's response is direct: attend to actual suffering. Not the concept of suffering, not a description of neural activation patterns—the experience itself. The claim "this suffering contains nothing bad" is no bold philosophical thesis but a failure to understand what the word "bad" refers to. Error theory draws its plausibility from considering value abstractly, at a distance, and loses it the moment one considers actual experience.
 
 ### Constructivism
 
 Constructivists hold that value is built through rational procedures—whether Rawls's contractualism or Korsgaard's Kantian appeal to practical identity and rational agency. Moral facts are products of reasoning, not features of experience waiting to be discovered.
 
-The Map's objection: consciousness was valuable before any reasoning being existed to construct value systems. The suffering of the first creature capable of feeling pain was bad—not because a social practice labelled it so, but because of what pain feels like from the inside. Value was there before anyone constructed it.
+The Map's objection: consciousness was valuable before any reasoning being existed to construct value systems. The suffering of the first creature capable of feeling pain was bad because of what pain feels like from the inside, well before any social practice could label it so.
 
 Constructivism also cannot explain the authority of moral claims. If value is constructed, why should the construction bind us? The constructivist answer—because rational agents would endorse it—assumes rationality is authoritative, which requires further construction. The regress terminates only when we reach something that matters intrinsically: the felt quality of experience.
+
+"Constructivism" names a sharper thesis in the empirical literature, where the construction is inferential rather than procedural. That version is treated as an open problem below (see [the construction problem](#the-construction-problem)), not as an alternative already answered.
 
 ## Beyond Hedonism
 
@@ -128,9 +128,9 @@ Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value
 | Understanding | Phenomenal "click" of grasping | Epistemic value |
 | Connection | Felt quality of authentic relating | Relational value |
 
-Each row identifies a phenomenal feature—something that shows up in the character of experience—and claims it contributes to intrinsic value. This is not an objective list theory (where items are valuable independent of experience); all value resides in how things are experienced.
+Each row names a feature that shows up in the character of experience and claims it contributes to intrinsic value. The list differs from an objective list theory, whose items are valuable independent of experience; here all value resides in how things are experienced.
 
-A dependency note forestalls an apparent circularity. [[meaning-of-life]] grounds life's meaning partly in phenomenal value, while the table here lists "Meaning: felt significance" as one value dimension—so the two articles can look mutually dependent. They are not: the eudaimonic *felt significance* in this row is the primitive phenomenal datum—the immediate quality of an engagement feeling significant—whereas the meaning *of a life* is a higher-order structure built from that primitive together with agency, understanding, connection, and narrative integration over time. Felt significance is one input; meaning-as-lived is the integration. The dependence runs one way—from the phenomenal primitive to the life-level structure—so the appearance of circularity dissolves.
+A dependency note forestalls an apparent circularity. [[meaning-of-life]] grounds life's meaning partly in phenomenal value, while the table here lists "Meaning: felt significance" as one value dimension—so the two articles can look mutually dependent. They are not. The *felt significance* in this row is the primitive phenomenal datum, the immediate quality of an engagement feeling significant; the meaning *of a life* is a higher-order structure built from that primitive together with agency, understanding, connection, and narrative integration over time. The dependence runs one way, from the primitive to the life-level structure.
 
 ### Why Extend Beyond Hedonism?
 
@@ -138,21 +138,21 @@ Three considerations motivate the extension:
 
 **The meaning problem.** Some experiences are deeply meaningful without being particularly pleasant. Completing a difficult creative project can involve frustration and exhaustion, yet the engagement feels intrinsically significant. The distinctive phenomenal quality of meaningful activity—absorbing, purposive, connected to something larger—resists reduction to a balance of pleasures over pains.
 
-**The aesthetic problem.** [[aesthetics-and-consciousness|Beauty and ugliness]] seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
+**The aesthetic problem.** [[aesthetics-and-consciousness|Beauty and ugliness]] seem intrinsically significant in experience, and the two come apart from pleasure in both directions: an experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (a masterpiece that disturbs, or the awe-inspiring yet terrifying sublime). This suggests aesthetic quality is a distinct value dimension.
 
-**The agency problem.** Exercising genuine choice feels valuable even when difficult. The experience of authoring one's actions carries significance independent of hedonic payoff. Under the Map's framework of [[agent-causation|agent causation]], this makes sense: if consciousness genuinely shapes outcomes, the exercise of that capacity is intrinsically significant—not just as means to pleasant outcomes, but as a distinct value.
+**The agency problem.** Exercising genuine choice feels valuable even when difficult, and the experience of authoring one's actions carries significance independent of hedonic payoff. Under [[agent-causation|agent causation]] this makes sense: if consciousness genuinely shapes outcomes, exercising that capacity is intrinsically significant, a distinct value rather than a means to pleasant outcomes.
 
 ### How Do Value Dimensions Trade Off?
 
 Pluralism raises the problem of incommensurability. How do we compare aesthetic beauty against hedonic pleasure? Is profound but unpleasant understanding more valuable than shallow pleasant contentment?
 
-The Map offers no algorithmic answer—this may be irreducibly a matter for wise judgement. But several structural points help:
+The Map offers no algorithmic answer—this may be irreducibly a matter for wise judgement. But three structural points help.
 
-**Lexical priority is unlikely.** No single value dimension always trumps others. Extreme hedonic suffering probably overrides aesthetic appreciation (torture cannot be redeemed by making it beautiful). But beyond extremes, the dimensions interact complexly.
+**Lexical priority is unlikely.** No single dimension always trumps the others. Extreme hedonic suffering probably overrides aesthetic appreciation—torture cannot be redeemed by making it beautiful—but beyond the extremes the dimensions interact complexly.
 
-**Context shapes weight.** What matters most varies with situation. In crisis, hedonic suffering takes priority; in reflection, meaning and understanding may dominate; in creation, aesthetic quality matters most. The phenomenal features themselves indicate which dimension is salient.
+**Context shapes weight.** What matters most varies with situation: hedonic suffering takes priority in crisis, meaning and understanding in reflection, aesthetic quality in creation. The phenomenal features themselves indicate which dimension is salient.
 
-**Integration matters.** The best experiences integrate multiple value dimensions—meaningful work that is also pleasant, understanding that is also aesthetically elegant, connection that is also enjoyable. The ideal is not maximising one dimension but achieving rich integration.
+**Integration matters.** The best experiences combine dimensions—meaningful work that is also pleasant, understanding that is also elegant. The ideal is rich integration rather than maximising any one.
 
 ## Why Dualism Matters Here
 
@@ -162,7 +162,7 @@ Phenomenal value realism can be held within physicalist frameworks—Rawlette he
 
 If consciousness is irreducible—if phenomenal properties are not captured by physical description—then value inherits this irreducibility. Valence appears to be constitutive of phenomenal states themselves. Pain is not a neutral quale with badness added as a separate property—the badness is intrinsic to what pain phenomenally is. Value is not an overlay on physical reality or a projection onto it; it is built into what fundamentally exists.
 
-This addresses a persistent challenge for moral realism: where do objective values "fit" in the natural world? The physicalist has trouble locating them; the non-naturalist posits mysterious entities. The dualist who grounds value in consciousness can answer: values fit wherever consciousness fits. If consciousness is fundamental, so is value. Moore's *Principia Ethica* (1903) argued that goodness is a simple, non-natural property—his "open question argument" holds that for any natural property N, "X has N, but is it good?" remains a genuine question. Phenomenal value realism locates goodness in something Moore did not have the tools to specify: the qualitative character of conscious experience.
+This addresses a persistent challenge for moral realism: where do objective values "fit" in the natural world? The physicalist has trouble locating them; the non-naturalist posits mysterious entities. The dualist who grounds value in consciousness can answer that values fit wherever consciousness fits—if consciousness is fundamental, so is value. Moore's simple, non-natural property is thereby located in something *Principia Ethica* (1903) did not have the tools to specify: the qualitative character of conscious experience.
 
 The [[philosophical-zombies|zombie thought experiment]] illustrates this directly: a universe of zombies—physically identical to ours but lacking experience—would contain no value at all. The moral emptiness of the zombie world just *is* its experiential emptiness.
 
@@ -170,15 +170,15 @@ The [[philosophical-zombies|zombie thought experiment]] illustrates this directl
 
 Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([[concepts/epiphenomenalism]]). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behaviour, with no causal work done by the suffering itself.
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism. Consciousness causally influences physical outcomes. This matters for value: if suffering's badness makes no causal difference, why would we care about it? Epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states that the value does not influence. The [[topics/consciousness-and-integrated-information#does-quantum-selection-escape-this-charge|type-token causation distinction]] supplies the operational mechanism by which value's causal efficacy can survive even when statistically invisible: at the type level, value-laden experience adds nothing to Born-rule predictions, but at the token level it determines which particular outcome actualises in this specific instance—and token-level causation is where the moral weight of *this* suffering, in *this* moment, lives. The [[valence-and-conscious-selection|value-blind vs value-sensitive selection]] fork sharpens what is at stake: even granting that consciousness acts causally through attention, if the specifically *evaluative* dimension is causally idle in the selection mechanism, value's non-epiphenomenality is weaker than it first appears.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism. This matters for value: epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states the value does not influence. The [[topics/consciousness-and-integrated-information#does-quantum-selection-escape-this-charge|type-token causation distinction]] supplies the mechanism by which value's efficacy can survive even when statistically invisible: at the type level, value-laden experience adds nothing to Born-rule predictions; at the token level it determines which outcome actualises in this instance, and token-level causation is where the moral weight of *this* suffering lives. The [[valence-and-conscious-selection|value-blind vs value-sensitive selection]] fork sharpens what is at stake: even granting that consciousness acts causally through attention, if the specifically *evaluative* dimension is causally idle in the selection mechanism, value's non-epiphenomenality is weaker than it first appears.
 
-The self-undermining argument applies: epiphenomenalists trust their introspective judgements about consciousness enough to engage in debate. But if consciousness is epiphenomenal, those judgements are causally disconnected from the consciousness they purport to describe. The same reasoning applies to value: our judgements about what is good would be accidentally related to actual goodness.
+The self-undermining argument applies: epiphenomenalists trust their introspective judgements about consciousness enough to debate them, yet on their own view those judgements are causally disconnected from the consciousness they describe. So too for value—judgements about what is good would be only accidentally related to actual goodness.
 
 ### Indexical Value
 
-The Map's emphasis on [[haecceity|indexical identity]] extends to value. *This* experience matters—not just experiences-of-this-type. Your particular suffering is not interchangeable with a qualitatively identical suffering in someone else. Most value theories treat value as type-based; the Map suggests it is token-based. This connects to the [[tenets#^no-many-worlds|No Many Worlds]] tenet: if every quantum event spawns branches where all outcomes occur, moral urgency dissolves. Reducing *this* suffering matters only if *this* outcome is the outcome.
+The Map's emphasis on [[haecceity|indexical identity]] extends to value. *This* experience matters, not just experiences-of-this-type: your particular suffering is not interchangeable with a qualitatively identical suffering in someone else. Most value theories treat value as type-based; the Map suggests it is token-based. This connects to the [[tenets#^no-many-worlds|No Many Worlds]] tenet, since if every quantum event spawns branches where all outcomes occur, moral urgency dissolves.
 
-Implications: creating a replica of you does not transfer your experiential value to the replica. The replica has its own token experiences, which matter, but they are not continuations of yours. This constrains upload scenarios, simulation ethics, and duplication thought experiments in ways patternist value theories cannot.
+Creating a replica of you therefore does not transfer your experiential value to it. The replica has its own token experiences, which matter, but they are not continuations of yours—a constraint on upload scenarios, simulation ethics, and duplication thought experiments that patternist value theories cannot supply.
 
 ## The Hardest Objection
 
@@ -186,37 +186,35 @@ The strongest challenge comes from [[illusionism]]: the claim that phenomenal co
 
 Three responses bear weight.
 
-**The regress response.** For the illusion to occur, something must be deceived. If the subject is itself illusory, no one is deceived and there is no illusion. If the subject is real, it has genuine states of being-appeared-to—which are themselves phenomenal. Illusionism cannot eliminate phenomenal experience without eliminating the very thing that makes an experience illusory.
+**The regress response.** For the illusion to occur, something must be deceived. If the subject is itself illusory, no one is deceived and there is no illusion; if the subject is real, it has genuine states of being-appeared-to, which are themselves phenomenal. Illusionism cannot eliminate phenomenal experience without eliminating what makes an experience illusory.
 
-**The practical response.** Illusionists treat their own suffering as mattering. They take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated. The functional state generating "reports of badness" would have no normative significance—yet illusionists act as if it does.
+**The practical response.** Illusionists take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated: the functional state generating "reports of badness" would have no normative significance, yet illusionists act as if it does.
 
 **The contemplative response.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] offer mixed evidence here. Some practitioners (particularly in Hindu and Christian contemplative traditions) report that sustained attention to experience reveals valence as intrinsic to it, not attributed by judgement. If illusionism were correct, deeper investigation should reveal the construction mechanism—instead, the value becomes more apparent. However, Buddhist *vipassana* practitioners often report the opposite: that valence arises from craving and aversion, and dissolves through equanimity practice. The phenomenal value realist can respond that equanimity does not eliminate felt valence but transforms the *reactive* relationship to it—the badness of pain is still apprehended, but the secondary suffering of resistance falls away.
 
 ## Challenges Requiring Development
 
+### The Construction Problem
+
+The most serious empirical challenge grants the phenomenology and disputes its status. Interoceptive-inference and active-inference accounts hold that affective valence is constructed by hierarchical Bayesian prediction rather than given as a primitive—Joffily and Coricelli (2013) define it formally as the negative rate of change of free energy over time. Felt badness would then be the output of inferential machinery, and the identity claim would describe a downstream product rather than a basic property. The Map's reply is that the formalism underdetermines its own metaphysics: within the same programme, leading figures read it as naturalising felt affect rather than explaining it away, and none specifies why a precision-weighted estimate should be felt at all. It accounts for how valence is computed and accessed, which leaves the identity thesis its subject. The engagement is developed with its residue stated honestly in [[evaluative-phenomenal-character|evaluative phenomenal character]], and [[the-steelman-for-value-blind-selection|the steelman for value-blind selection]] assembles the deflationary reading at full strength.
+
 ### The Scope Problem
 
 If only conscious experience has intrinsic value, what about ecosystem preservation, historical artefacts, mathematical truths? Are they valuable only when experienced?
 
-The response distinguishes intrinsic from instrumental value. Ecosystems, artefacts, and truths have no intrinsic value outside their connection to consciousness—but that connection is vast. Ecosystems support conscious life; their destruction reduces future conscious flourishing. Historical artefacts connect present conscious beings to past conscious lives, enabling understanding and meaning. Mathematical truths, when grasped, produce the phenomenal "click" of understanding that is intrinsically valuable.
-
-Nothing has intrinsic value outside experience, but much has instrumental value for experience—genuine value, grounded in its service to intrinsic goods.
+The response distinguishes intrinsic from instrumental value. Ecosystems, artefacts, and truths have no intrinsic value outside their connection to consciousness—but that connection is vast. Ecosystems support conscious life; their destruction reduces future conscious flourishing. Historical artefacts connect present conscious beings to past conscious lives, enabling understanding and meaning. Mathematical truths, when grasped, produce the phenomenal "click" of understanding that is intrinsically valuable. Nothing has intrinsic value outside experience, but much has genuine instrumental value in its service to intrinsic goods.
 
 ### The Measurement Problem
 
-How do we measure phenomenal value? Hedonic intensity is somewhat tractable (pleasure scales, though imperfect, exist). But how do we quantify meaning? Aesthetic quality? Understanding?
+How do we measure phenomenal value? Hedonic intensity is somewhat tractable—imperfect pleasure scales exist—but quantifying meaning, aesthetic quality, or understanding is another matter. Pluralism implies that value comparisons often cannot be reduced to a single metric: a profound understanding and a pleasant meal are different kinds of good.
 
-Phenomenal value pluralism implies that value comparisons often cannot be reduced to a single metric. The value of a profound understanding cannot be directly compared to the value of a pleasant meal—they are different kinds of good.
-
-For practical purposes—AI alignment, policy decisions, personal choices—we need heuristics, not perfect measurement. Tracking proxies for phenomenal value (behavioural indicators of flourishing, self-reports, neurological correlates of positive experience) provides guidance without requiring direct phenomenal measurement. See [[experiential-alignment]] for how this applies to AI.
+For practical purposes—AI alignment, policy decisions, personal choices—heuristics suffice. Proxies such as behavioural indicators of flourishing, self-reports, and neurological correlates of positive experience provide guidance without direct phenomenal measurement. See [[experiential-alignment]] for how this applies to AI.
 
 ### The Problem of Evil States
 
 Some experiences seem intrinsically bad beyond their negative valence. Malicious joy in others' suffering, for instance, seems bad even though it is pleasant. Does this challenge phenomenal value realism?
 
-Two responses are available. First, the pluralist can say: malicious joy fails on other value dimensions. It violates the connection dimension (authentic relating excludes taking pleasure in suffering) and possibly the agency dimension (the choice to harm is a misuse of causal efficacy). The hedonic pleasure is outweighed by failures on other dimensions.
-
-Second, pleasure in others' suffering instrumentally causes more suffering than it creates pleasure. Taking the total hedonic economy into account, malicious joy is a poor bargain.
+Two responses are available. First, malicious joy fails on other value dimensions: it violates the connection dimension (authentic relating excludes taking pleasure in suffering) and possibly the agency dimension (the choice to harm is a misuse of causal efficacy), so the hedonic pleasure is outweighed. Second, it instrumentally causes more suffering than it creates pleasure, making it a poor bargain in the total hedonic economy.
 
 ## What Would Challenge This View?
 
@@ -230,7 +228,9 @@ Phenomenal value realism would face pressure from:
 
 **Abstract value demonstrated.** If something could be shown to have intrinsic value without any connection to conscious experience—value that no conscious being could ever access—this would challenge the experience requirement.
 
-None has occurred. The identity between phenomenal character and value remains the most economical account of what we know most directly.
+**Predictive construction shown sufficient.** If the interoceptive-inference programme specified how a precision-weighted estimate of bodily state comes to be *felt*—not merely how valence is computed and reported—the felt quality would be an inferential product rather than a basic property, and the identity would lose its subject.
+
+None has occurred, and they are not equally remote: the last names an active research programme rather than a hypothetical, which makes it the condition under live pressure.
 
 ## Relation to Site Perspective
 
@@ -248,30 +248,31 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [[evaluative-phenomenal-character]] — The definitional concept: phenomenal qualities whose character is simultaneously descriptive and normative
-- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western traditions
+- [[evaluative-phenomenal-character]] — The definitional concept, and where the predictive-construction challenge is engaged in full
+- [[the-steelman-for-value-blind-selection]] — The deflationary reading of valence-as-inference at full strength
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
-- [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
+- [[phenomenology-of-moral-life]] — Moral consciousness from perception through deliberation to choice
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[ethics-under-dualism]] — Ethical implications of consciousness-grounded value
 - [[experiential-alignment]] — Operationalising phenomenal value realism for AI alignment
-- [[alignment-in-objective-experiential-terms]] — Why phenomenal qualities ground genuinely objective alignment criteria
+- [[alignment-in-objective-experiential-terms]] — Why phenomenal qualities ground objective alignment criteria
 - [[purpose-and-alignment]] — Why AI alignment should target experiential quality
 - [[hard-problem-of-consciousness]] — The evaluative dimension of the explanatory gap
 - [[topics/free-will]] — Agency as intrinsically valuable phenomenal experience
-- [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
+- [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value
 - [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
-- [[aesthetics-beyond-art]] — Whether pervasive low-key aesthetic value, and the beauty of an unwitnessed sunset, support intrinsic phenomenal value or invite a deflationary functionalist gloss
-- [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, and disgust as the sharpest case for phenomenal value pluralism over hedonism
+- [[aesthetics-beyond-art]] — Whether low-key aesthetic value supports intrinsic phenomenal value or invites a deflationary gloss
+- [[the-sublime-and-negative-aesthetics]] — The sharpest case for value pluralism over hedonism
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
-- [[graduated-middle-path-valence-modulated-attention]] — Why the fork's most defensible stance gives felt value only "causally relevant via attention" standing, one remove short of value being efficacious *as value*
+- [[graduated-middle-path-valence-modulated-attention]] — Why the most defensible stance gives felt value only "causally relevant via attention" standing
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge
 - [[phenomenology-of-intellectual-life]] — Evaluative meaning as one of five phenomenal meaning modes
-- [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral categories from useful fictions into responses to metaphysical fact
-- [[moral-architecture-of-consciousness]] — Apex synthesis: how phenomenal value realism integrates with agency, normativity, and moral perception
+- [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral categories into responses to metaphysical fact
+- [[moral-architecture-of-consciousness]] — Apex synthesis integrating value realism with agency and normativity
 
 ## References
 
@@ -280,3 +281,4 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Joffily, M., & Coricelli, G. (2013). Emotional valence and the free-energy principle. *PLOS Computational Biology*, 9(6), e1003094. https://doi.org/10.1371/journal.pcbi.1003094

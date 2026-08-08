@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-06-21
 human_modified:
-ai_modified: 2026-08-02T13:14:16+00:00
+ai_modified: 2026-08-08T13:42:47+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -34,6 +34,7 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[explanatory-gap]]"
   - "[[blindsight]]"
+  - "[[predictive-processing]]"
 related_articles:
   - "[[tenets]]"
   - "[[philosophical-zombies]]"
@@ -50,6 +51,8 @@ related_articles:
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[embodied-interface]]"
+  - "[[the-steelman-for-value-blind-selection]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -164,6 +167,14 @@ Iris Murdoch and Simone Weil developed complementary accounts of moral [[attenti
 
 [[illusionism|Illusionism]] denies phenomenal consciousness has the properties we attribute to it. **The regress response**: something must *seem* a certain way for the illusion to occur; if the seeming has phenomenal character, that character includes the normative seeming. **The valence problem**: illusionism about colour can point to wavelengths as the underlying reality, but illusionism about valence must explain what suffering *really is* without the badness.
 
+### The Predictive-Construction Challenge
+
+The leading empirical rival grants that suffering feels bad and disputes whether the feeling is basic. On interoceptive-inference and [[predictive-processing|active-inference]] accounts, affective valence is *constructed*: a hierarchical generative model issues predictions about the body's internal state, and what arrives in experience as felt goodness or badness is the output of that inferential machinery rather than a primitive evaluative quality. Joffily and Coricelli (2013) give the sharpest formal version, defining valence as the negative rate of change of free energy over time—positive valence just is prediction error falling. If that is what valence *is*, the identity between felt badness and badness starts to look less like a discovery than like a description of a downstream inferential product.
+
+The Map's reply grants the mechanism and denies that it settles the metaphysics, and the programme's own practitioners supply the reason. Hesp and colleagues (2021) build valence into deep active inference under the title "Deeply *Felt* Affect," treating it as a genuinely inferred felt state rather than a bookkeeping quantity; Solms and Friston (2018) run the same mathematics toward identifying affect with felt experience and treating it as constitutive of consciousness. Neither is an ally—Solms holds a dual-aspect monism the Map does not adopt, and Friston's Markovian monism argues directly against the two-sided reading—but their split with the deflationary wing shows the mathematics settles nothing by itself. The formalism specifies how valence is computed, weighted, and accessed. It does not specify why the computation should be *felt*, which is the [[explanatory-gap|explanatory gap]] arriving in evaluative form rather than being closed. [[the-steelman-for-value-blind-selection|The steelman for value-blind selection]] assembles the deflationary reading at full strength, and [[topics/predictive-processing-and-dualism|predictive processing and dualism]] treats the wider framework.
+
+The residue is stated rather than resolved. If prediction explains access to valence while leaving its felt character unexplained, the identity thesis survives with its subject intact. If the felt character proves to be nothing over and above a precision-weighted estimate, it does not—and nothing argued here forecloses that.
+
 ### The Projection Objection
 
 Perhaps normativity is projected onto phenomenal states by evolution, as Mackie's error theory holds for moral properties generally (Mackie 1977). **Response**: projection theories must identify what the projection latches onto. If evolution causes us to *treat* pain as bad, some feature of pain makes it apt for negative treatment. The [[explanatory-gap]] reappears.
@@ -195,10 +206,11 @@ Evaluative phenomenal character as described here would face pressure if:
 1. **Value-experience dissociation appeared**: Subjects genuinely experienced pleasure but found nothing good in it—not anhedonia, but pleasure-without-goodness.
 2. **Illusionism gained empirical support**: If the "seeming" of pleasure could be fully explained as information processing with no experiential residue.
 3. **Contemplative investigation revealed construction**: If careful phenomenological analysis showed valence is entirely interpretation-dependent rather than constitutive.
-4. **Moral qualia proved epiphenomenal**: Subjects with selective lesions lost moral phenomenal character while retaining all functional moral capacities.
-5. **Cross-cultural divergence**: The phenomenal structure of normative experience (demand character, independence from attitude) proved parochial rather than universal.
+4. **Predictive construction proved sufficient**: If the interoceptive-inference programme specified how a precision-weighted estimate of bodily state comes to be *felt*—not merely how valence is computed, weighted, and reported—the felt quality would be a downstream product of inference rather than a basic evaluative property, and the identity thesis would lose its subject.
+5. **Moral qualia proved epiphenomenal**: Subjects with selective lesions lost moral phenomenal character while retaining all functional moral capacities.
+6. **Cross-cultural divergence**: The phenomenal structure of normative experience (demand character, independence from attitude) proved parochial rather than universal.
 
-None of these findings currently obtains.
+None currently obtains, but they are not equally remote. The fourth names an active research programme rather than a hypothetical, so it is the condition under live pressure rather than merely the one conceivable in principle.
 
 ## Further Reading
 
@@ -206,6 +218,8 @@ None of these findings currently obtains.
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[topics/consciousness-and-normative-force]] — How phenomenal normativity manifests across domains
 - [[topics/tactile-consciousness-and-the-interface]] — Affective touch and pain as a dissociable two-channel contact case for constitutive valence
+- [[the-steelman-for-value-blind-selection]] — The deflationary reading of valence-as-inference at full strength, and why the free-energy formalism settles neither side
+- [[topics/predictive-processing-and-dualism]] — The wider framework: what the Map can adopt from predictive processing and where the disagreement sits
 - [[pragmatisms-path-to-dualism]] — How demand-character and pragmatism's reflexive argument jointly foreclose functionalism
 - [[experiential-alignment]] — Operationalising phenomenal normativity for AI alignment
 - [[alignment-in-objective-experiential-terms]] — Why evaluative qualia ground genuinely objective AI alignment criteria
@@ -219,17 +233,20 @@ None of these findings currently obtains.
 
 1. Dimitrov, M. (2025). Direct Acquaintance with Intrinsic Value. *The Philosophical Quarterly*, 75(2), 428–449.
 2. Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
-3. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56–77.
-4. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
-5. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1–19.
-6. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-7. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331–350.
-8. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-9. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-10. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
-11. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
-12. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-13. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
-14. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
-15. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
-16. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
+3. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K. J., & Ramstead, M. J. D. (2021). Deeply felt affect: the emergence of valence in deep active inference. *Neural Computation*, 33(2), 398–446. https://doi.org/10.1162/neco_a_01341
+4. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56–77.
+5. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
+6. Joffily, M., & Coricelli, G. (2013). Emotional valence and the free-energy principle. *PLOS Computational Biology*, 9(6), e1003094. https://doi.org/10.1371/journal.pcbi.1003094
+7. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1–19.
+8. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
+9. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331–350.
+10. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+12. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
+13. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
+14. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+15. Solms, M., & Friston, K. (2018). How and why consciousness arises: some considerations from physics and physiology. *Journal of Consciousness Studies*, 25(5–6), 202–238.
+16. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
+17. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
+18. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
+19. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
