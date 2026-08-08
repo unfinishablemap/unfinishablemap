@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-07-30 13:13:52+00:00
+ai_modified: 2026-08-08 09:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-07-30 13:13:52+00:00
+lastmod: 2026-08-08 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,12 +70,12 @@ Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin 
 
 **Recent evidence** (2024-2025):
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
-- Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures, sustained at body temperature rather than requiring cryogenic isolation—though this is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism
+- Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures—though this is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism
 - **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025) reviews and develops the prediction's implications but reports no new 613 THz data.
 
 These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/) that strengthens the cumulative case even where individual lines remain inconclusive.
 
-**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains four to five orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -87,12 +87,12 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 
 **Key features**:
 - **No energy injection**: Consciousness shapes outcomes without adding energy—matching Minimal Quantum Interaction
-- **Discrete, not sustained**: Unlike Orch OR, the Zeno mechanism operates through discrete observation cycles, not continuous coherence—sidestepping the decoherence timing gap entirely
+- **Discrete, not sustained**: Unlike Orch OR, the Zeno mechanism operates through discrete observation cycles rather than continuous coherence—which relocates the decoherence timing gap rather than removing it
 - **Attention as interface**: The [attention-consciousness dissociation](/concepts/attention-as-interface/) (Koch & Tsuchiya) shows attention is the mechanism consciousness uses, not consciousness itself
-- **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
+- **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—which the Zeno mechanism accommodates rather than independently predicts
 - **Biological precedent**: Denton et al. (2024) modelled quantum Zeno protection in cryptochrome radical pairs
 
-The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
+The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology.
 
 The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
 
@@ -114,7 +114,7 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. Two distin
 
 ### The Philosophical Question: Does Decoherence Close the Quantum Opening?
 
-**Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence, the system remains in a statistical mixture—something must still select which outcome becomes actual. This point is independent of whether any particular quantum consciousness mechanism works in brains. Even if neural tissue is too warm for sustained coherence, the measurement problem remains open, and the philosophical case for consciousness as outcome-selector stands on its own.
+**Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence, the system remains in a statistical mixture—something must still select which outcome becomes actual. Even if neural tissue is too warm for sustained coherence, the measurement problem remains open, and the philosophical case for consciousness as outcome-selector stands on its own.
 
 ### The Empirical Question: Can Quantum Mechanisms Operate in Neural Tissue?
 
@@ -122,9 +122,9 @@ Even granting that the measurement problem leaves room for consciousness, specif
 
 **Biology exploits quantum effects, but the neural case is unproven.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/) (spin coherence) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous. But discrete mechanisms still require coherent states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. But outpacing decoherence at Hagan's microsecond scale requires observation intervals of a microsecond or shorter—hundreds of thousands of events per 300ms window, not the ~1000 Stapp estimates (Stapp 2007), which is a modelling assumption rather than an independent prediction. No concrete model supplies events at that rate, so the timing gap relocates rather than closes. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with the picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
@@ -166,7 +166,7 @@ For the Map this demarcation has a *structural* rather than merely reputational 
 
 Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005) argues that quantum-based accounts leave the structure of qualia unexplained where self-reflective dynamical access already does the work. His sharper claims — that brain processing requires *differentiation* rather than the global synchronisation quantum-coherence proposals require, and that decoherence makes sustained quantum effects implausible at biological temperatures, echoing Tegmark 2000 — he makes in popular and online writing, not in the papers cited here. His positive view (consciousness as the "shadow" of neurodynamics, with the [articon architecture](/concepts/geometric-model-of-mind/) from Duch 2005 sufficient in principle) is a classical-computational alternative.
 
-The relationship to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the two points are kept structurally distinct: articles citing his quantum critique must specify which is being borrowed, since importing classical sufficiency alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+The relationship to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the two points are kept structurally distinct: importing classical sufficiency alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ## What Would Challenge This View?
 

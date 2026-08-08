@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-01 16:20:00+00:00
+ai_modified: 2026-08-08 09:15:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:01:20+00:00
-lastmod: 2026-08-01 16:20:00+00:00
+lastmod: 2026-08-08 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This makes all introspective reports systematically unreliable—not occasionall
 
 The [self-stultification argument](/concepts/interactionist-dualism/#argument-6-self-stultification-of-epiphenomenalism) presses hard on anyone who reasoned their way to epiphenomenalism from their own experience, but its force is conditional rather than decisive. It turns on the premise that knowing one's experience requires *causal traffic* from experience to belief—the causal-theory-of-knowledge premise. The strongest reply available to the epiphenomenalist borrows the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Papineau 2002; Balog 2012)—a physicalist programme rather than an epiphenomenalist one, though its machinery transfers—which rejects that premise: reports about phenomenal states are produced by physical-to-physical chains, and phenomenal concepts are themselves physically realised states that refer to the very brain states producing the reports, so report-reliability can hold without phenomenal causation and the self-undermining charge dissolves. The dispute then relocates rather than ending—to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, but records honestly that the disagreement runs closer to bedrock than "self-defeating" implies. It holds Bidirectional Interaction not because self-stultification refutes epiphenomenalism from inside the epiphenomenalist's framework, but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than the minimal causal interface the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already commits to.
 
-A related self-defeat argument—the [argument-from-reason](/topics/argument-from-reason/)—extends this point to physicalism generally: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including physicalism. Both arguments share the structure of showing a position undermines the rational credentials it needs to be credibly held.
+A related self-defeat argument—the [argument-from-reason](/topics/argument-from-reason/)—extends this point to physicalism generally: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including physicalism. Both arguments show a position undermining the rational credentials it needs to be credibly held.
 
 **The illusionist response**: A more radical reply (Frankish, Dennett) holds that we can report on consciousness without consciousness doing causal work—our reports describe functional states that merely *seem* phenomenal. This one concedes too much for the Map's purposes: the seeming is either phenomenal (and needs explanation) or is nothing beyond the functional states (in which case it denies consciousness rather than explaining its causal role). Where the phenomenal-concept strategy above keeps phenomenality and relocates the dispute, illusionism dissolves it by giving phenomenality up.
 
@@ -85,7 +85,7 @@ For detailed specification of how phenomenal properties map to physical paramete
 
 ### The Timing Challenge
 
-A persistent objection concerns timescales: Tegmark (2000) calculated quantum [decoherence](/concepts/decoherence/) at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (Stapp estimates ~1000 observations within a 300ms attentional window). See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy and [the decoherence article](/concepts/decoherence/) for five independent responses to the objection.
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum [decoherence](/concepts/decoherence/) at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude. Hagan, Hameroff and Tuszyński (2002) disputed Tegmark's superposition sites and separation distances, obtaining 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. But Reimers et al. (2009) and McKemmish et al. (2009) contest the parameters that revision rests on: citing Hagan as a settled rebuttal of Tegmark would be selective citation, the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The quantum Zeno mechanism needs no sustained coherence, operating instead through discrete observation events—but this sharpens the burden rather than easing it. Outpacing decoherence even at Hagan's microsecond scale requires observation intervals of a microsecond or shorter, so a single 300ms window would demand hundreds of thousands of events; Stapp's ~1000 observations per window (Stapp 2007) is a modelling assumption rather than an independent prediction, and no concrete model supplies events at the required rate. The gap relocates rather than closes. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy and [the decoherence article](/concepts/decoherence/) for the range of responses to the objection.
 
 ## Empirical Support
 
@@ -142,7 +142,7 @@ See [causal-closure](/concepts/causal-closure/) and [mental causation](/concepts
 
 **Not quantum mysticism**: This is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of "quantum woo" or New Age beliefs that misappropriate physics terminology.
 
-**Not proven**: The quantum mechanism is speculative, and even the self-stultification case for *some* interface is conditional rather than a proof—it presses hard for consciousness being causally relevant but depends on the epistemological premise the phenomenal-concept strategy contests (above). *Where* and *how* consciousness acts remains empirically open.
+**Not proven**: The quantum mechanism is speculative, and even the self-stultification case for *some* interface is conditional rather than a proof, depending on the epistemological premise the phenomenal-concept strategy contests (above). *Where* and *how* consciousness acts remains empirically open.
 
 ## Relation to Site Perspective
 
@@ -178,7 +178,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
-- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Why the two-way interface makes the dualist contribution to AI risk arguments load-bearing rather than incidental
+- [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — Why the two-way interface is essential rather than incidental to the dualist contribution to AI risk arguments
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [tenets](/tenets/) — The Map's foundational commitments
 - [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) — Penfield's "programmer directs the computer" framing as a clinical illustration of downward mind→brain influence
@@ -191,8 +191,11 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a theory of consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M.A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C.P., Vinicius, L., & Migliano, A.B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920-925.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
 1. Schleihauf, H., Sanford, E. M., Thompson, B. D., Zhang, S., Rukundo, J., Call, J., Herrmann, E., & Engelmann, J. M. (2025). Chimpanzees rationally revise their beliefs. *Science*, 390(6772), 521-526. https://doi.org/10.1126/science.adq5229
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
