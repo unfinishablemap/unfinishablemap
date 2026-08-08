@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Musical Understanding"
-description: "Musical understanding reveals consciousness as irreducibly temporal, aesthetic, and non-propositional—a test case for dualism that materialist accounts struggle to accommodate."
+description: "Musical understanding is, on the Map's reading, irreducibly temporal, aesthetic, and non-propositional—a test case for dualism that materialist accounts struggle to accommodate."
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-07-16T07:15:41.833583+00:00
+ai_modified: 2026-08-08T10:38:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

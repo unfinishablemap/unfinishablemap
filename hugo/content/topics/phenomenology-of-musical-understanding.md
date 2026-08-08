@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-16 07:15:41.833583+00:00
+ai_modified: 2026-08-08 10:38:52+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[philosophical-zombies]]'
 created: 2026-02-18
 date: &id001 2026-02-18
-description: Musical understanding reveals consciousness as irreducibly temporal,
+description: Musical understanding is, on the Map's reading, irreducibly temporal,
   aesthetic, and non-propositional—a test case for dualism that materialist accounts
   struggle to accommodate.
 draft: false
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:32:09+00:00
-lastmod: 2026-07-16 07:15:41.833583+00:00
+lastmod: 2026-08-08 10:38:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
