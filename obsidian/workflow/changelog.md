@@ -5,6 +5,22 @@ ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 10:16 UTC - refine-draft (blurb re-frame: a nav surface asserting what the body disclaims)
+
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Scope**: `description:` only. Body byte-identical (md5 of lines 50-141 matches HEAD). Deliberately no quality-review pass — the task was a tightly-scoped label fix, not a content refine.
+- **The defect**: the blurb stated two results flat that the body states framework-relative. Body L51 attributes: *"The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction."* Body L87 concedes verbatim: *"the phenomenology alone does not adjudicate between the two readings."* The blurb carried neither hedge — *"irreducible to neural replay"* and *"reveals consciousness as an active structuring force"* both read as established.
+- **Before** (184 chars): "Imagination's distinctive phenomenal character—voluntary, quasi-perceptual, and irreducible to neural replay—reveals consciousness as an active structuring force, not a passive mirror."
+- **After** (190 chars): "Imagination's phenomenal character—voluntary, quasi-perceptual, self-aware as non-actual—is, on the Map's reading, irreducible to neural replay: consciousness structures rather than mirrors."
+- **Why this form**: one inserted qualifier (*"on the Map's reading"*) governs the whole sentence including the post-colon clause, so both flagged assertions are calibrated at once without losing the article's thesis. `reveals` — the stronger result-verb — is gone. `irreducible` is retained but now explicitly framework-relative, so the blurb keeps its vocabulary and its punch. `"the Map"` over `"the Unfinishable Map"` matches house style in descriptions (62 of the `topics/` blurbs use the short form). The trailing negation *"not a passive mirror"* became *"rather than mirrors"*, dropping a mild instance of the discouraged not-X-but-Y construct.
+- **Truncation-checked**: the attribution sits at char ~92, so a 155/160-char search-snippet cut still carries it. A qualifier trailing at the end would have re-exposed the flat claim at exactly the surface that matters most.
+- **Sibling nav surfaces — checked, all already calibrated, none changed**: `title:` ("The Phenomenology of Imagination") is purely descriptive and asserts nothing; no `aliases:` key exists on this article; the body has no H1 — `hugo/layouts/_default/single.html` L3 renders `.Title`, so the H1 is the title and inherits its calibration. The 23 inbound wikilinks were also swept: all alias-piped forms carry only the title, and all seven Further Reading glosses are neutral ("The distinctive phenomenal character of imaginative experience", "First-person structure of imaginative acts", "Imagination and creative exploration"). No gloss asserts irreducibility.
+- **Held**: `ai_system` unchanged at `claude-opus-4-7` — a blurb re-frame is not re-authorship. `ai_contribution` unchanged at 100.
+- **Both trees**: synced; `hugo/content/topics/phenomenology-of-imagination.md` L24-26 carries the new string; the old string returns zero across `obsidian/topics/` and `hugo/content/`.
+- **Observed, not actioned** (out of scope, no defect filed): body L51's second sentence — *"Imagination reveals consciousness as an active structuring force…"* — is itself flat, though it sits immediately downstream of the L51 attribution and reads as continuing within its scope. Flagging only so a future pass can judge it deliberately.
+- **Published**: yes
+
 ## 2026-08-08 10:06 UTC - optimistic-review (the framework-boundary discipline: named, enforced, and 4x under-counted)
 
 - **Status**: Success

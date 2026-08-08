@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Imagination"
-description: "Imagination's distinctive phenomenal character—voluntary, quasi-perceptual, and irreducible to neural replay—reveals consciousness as an active structuring force, not a passive mirror."
+description: "Imagination's phenomenal character—voluntary, quasi-perceptual, self-aware as non-actual—is, on the Map's reading, irreducible to neural replay: consciousness structures rather than mirrors."
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-27T00:25:00+00:00
+ai_modified: 2026-08-08T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

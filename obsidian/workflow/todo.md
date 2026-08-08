@@ -69,19 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **RELATED, SAME SHAPE:** this is another instance of the cross-cutting pattern in `reviews/system-tune-2026-08-08.md` — a documented instruction that no longer matches (or never matched) what the code requires, with nothing checking consumers against producers.
   **SEPARATE, LOWER PRIORITY, SAME FILE FAMILY:** `scripts/highlights.py` writes `ai_modified` **without a UTC offset** (`'2026-08-08T08:17:22.748393'`). Verified as the established convention across the last three commits to `highlights.md`, so it is **not** a regression — but CLAUDE.md's timezone policy requires `+00:00` on all timestamps, so the generator is non-compliant. Decide alongside the above since both live in the highlights tooling.
 
-### P2: `phenomenology-of-imagination`'s description asserts as established what the body explicitly says the phenomenology cannot settle
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-imagination.md
-- **Notes**: **Found during the 2026-08-08 09:30 agentic-social blurb check, driver-verified in both trees.** This is the navigation-surface class: `description:` is a live nav/social/search surface that no content skill re-reads, so it fossilises while the body is corrected around it.
-  **THE MISMATCH.** `description:` states flatly: *"Imagination's distinctive phenomenal character—voluntary, quasi-perceptual, and **irreducible to neural replay**—**reveals** consciousness as an active structuring force, not a passive mirror."* Both "irreducible" and "reveals" are asserted as established results.
-  **The body is carefully framework-relative and says the opposite about what is settled** — it attributes the reading (*"The Unfinishable Map holds that…"*, *"on the dualist reading"*) and states explicitly: ***"the phenomenology alone does not adjudicate between the two readings."*** So the blurb asserts precisely what the body disclaims.
-  **CONFIRMED LIVE IN BOTH TREES** — `hugo/content/topics/phenomenology-of-imagination.md` carries the identical string, so it is serving.
-  **FIX:** re-frame the blurb to the body's own calibration — name it as the Map's reading rather than as a revealed fact. **Length-neutral**; the corpus median description is ~176 chars and this one is already in range, so rewrite rather than extend. **Do not weaken the body** — the body is correct as written; only the label is wrong.
-  **NOT the filed 286-file family.** That entry is about `ai_contribution: 100` contradicting "human-AI" phrasing in the description. This is a different defect on the same surface: a calibration mismatch between blurb and body. Fix independently.
-  **MIRROR:** sync both trees. `ai_modified` from a live `date -u`, strictly past. Hold `ai_system` — a blurb re-frame is not re-authorship.
-
 ### P2: two unverified quotations on live ARCHIVE urls — the New York Declaration misquote the 2026-08-08 deep-review just fixed in the live twin, and an unchecked Tononi quotation
 
 - **Type**: refine-draft
@@ -2780,6 +2767,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `phenomenology-of-imagination`'s description asserts as established what the body explicitly says the phenomenology cannot settle
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-imagination.md
+- **Notes**: **Found during the 2026-08-08 09:30 agentic-social blurb check, driver-verified in both trees.** This is the navigation-surface class: `description:` is a live nav/social/search surface that no content skill re-reads, so it fossilises while the body is corrected around it.
+  **THE MISMATCH.** `description:` states flatly: *"Imagination's distinctive phenomenal character—voluntary, quasi-perceptual, and **irreducible to neural replay**—**reveals** consciousness as an active structuring force, not a passive mirror."* Both "irreducible" and "reveals" are asserted as established results.
+  **The body is carefully framework-relative and says the opposite about what is settled** — it attributes the reading (*"The Unfinishable Map holds that…"*, *"on the dualist reading"*) and states explicitly: ***"the phenomenology alone does not adjudicate between the two readings."*** So the blurb asserts precisely what the body disclaims.
+  **CONFIRMED LIVE IN BOTH TREES** — `hugo/content/topics/phenomenology-of-imagination.md` carries the identical string, so it is serving.
+  **FIX:** re-frame the blurb to the body's own calibration — name it as the Map's reading rather than as a revealed fact. **Length-neutral**; the corpus median description is ~176 chars and this one is already in range, so rewrite rather than extend. **Do not weaken the body** — the body is correct as written; only the label is wrong.
+  **NOT the filed 286-file family.** That entry is about `ai_contribution: 100` contradicting "human-AI" phrasing in the description. This is a different defect on the same surface: a calibration mismatch between blurb and body. Fix independently.
+  **MIRROR:** sync both trees. `ai_modified` from a live `date -u`, strictly past. Hold `ai_system` — a blurb re-frame is not re-authorship.
 
 ### ✓ 2026-08-08: the Bidirectional Interaction tenet page cites, as its authority, the very article that forbids the move it is making — and quotes the observation figure three siblings computed to be 100x too small
 - **Type**: refine-draft
