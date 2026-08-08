@@ -406,9 +406,9 @@
   commissioned_at: '2026-08-08T03:11:51.498943+00:00'
   prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
   target_filename: outer-review-2026-08-08-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-08T04:30:39.427228+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site developing an interactionist-dualist

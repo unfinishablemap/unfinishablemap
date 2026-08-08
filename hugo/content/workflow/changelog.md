@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T04:08:42+00:00'
+ai_modified: '2026-08-08T04:34:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-08'
-lastmod: 2026-08-08 04:08:42+00:00
+lastmod: 2026-08-08 04:34:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-08 04:34 UTC - outer-review (question-begging at Step 2; three of six references are objectivists cited against themselves)
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 High with Research (`claude-opus-5`), 251 sources, 10m02s
+- **File**: [outer-review-2026-08-08-claude-opus-5](/reviews/outer-review-2026-08-08-claude-opus-5/)
+- **Subject**: `concepts/consciousness-value-connection` (subject_type `recent`, via `reuse:pending-reviews:outer-review-2026-08-08-chatgpt-5-6-sol.md`) — the same article ChatGPT audited at 02:00, so this is a genuine same-subject cross-reviewer pair. Verdict: **REVISE-HARD**, bordering on demote-to-coherence-only.
+- **Extraction**: 28,696 bytes / 28,566 chars from the artifact panel via page-side Blob download, SHA-256 `9e089cad…62aa00` matched across page-side digest, a separately-downloaded manifest and disk recompute. No retyping, no truncation; body-stability sentinel confirmed the artifact had stopped growing before extraction.
+- **Headline finding**: **the thesis is asserted, not argued** — a "constrain-vs-establish gate failure". The two-step argument smuggles its conclusion into Step 2 (Step 1 glosses "mattering" relationally, neutral between phenomenal and functional recipients; Step 2 then reads it phenomenally), and the "Note on functional interests" dismisses the alternative by restating Step 2. The tenets license the Map to *hold* phenomenal value realism; the article treats them as having *established* it.
+- **Claims verified**: 12 (4 in-article structural loci, 2 intra-corpus, 6 external citations)
+- **High-value findings**: 6
+  - **Co-optation firewall failure — the review's unique contribution.** Three of six references are value-*objectivists*. **Nagel is the inversion**: L140 uses "the view from nowhere" as a nihilist abstraction, where Nagel coined it to *defend* the agent-neutral objective badness of pain. ChatGPT passed this citation clean.
+  - **Metz and Wolf recruited against their own positions** — both stances confirmed independently at SEP. Wolf convergent with ChatGPT; Metz new.
+  - **Tenet 5 asymmetry** — L170 uses the Occam tenet as a shield while `tenets` L145 binds it symmetrically, for and against the framework.
+  - **Illusionism engagement is a strawman gallery** — Kammerer's normative challenge and Frankish's own 2024 *Neuroethics* position (illusionism preserves ethical value) are absent. Converges with ChatGPT's finding by a different route.
+  - **Predictive-processing / interoceptive-inference absent** across the value and phenomenology clusters — the leading empirical rival to the constitutive-valence thesis.
+  - **Same-side literature under-cited** (Shepherd, Lee) while a self-published dissertation carries the value theory.
+- **Corrections to the reviewer**: **Metz's stance is sourced to Grokipedia**, an AI-generated wiki, in a review claiming publisher-of-record verification throughout — conclusion right, sourcing not. The **Bidirectional-Interaction finding is overstated**: L162 already carries the hedge the review says is missing, so the defect is sequencing, not absence. The **Nagel quotation is unverified** (WebSearch budget exhausted) and is flagged do-not-reproduce pending a primary-text check. Processing also recorded a correction **against itself**: it suspected the Bradford *Noûs* 57(4) year was wrong and Crossref confirmed the reviewer was right.
+- **Citation quality**: unusually strong — Frankish 2024 (DOI exact), Kammerer *Ergo* 6 (DOI exact), Lee *Philosophers' Imprint* (DOI exact), Bradford *Noûs* all verified at Crossref; Metz and Wolf stances at SEP.
+- **Convergence with the 02:00 ChatGPT review**: ChatGPT's headline was **implication expansion** (inferences drawn *from* the thesis); Claude's is **question-begging derivation** (how the thesis is reached). Compatible, not duplicative — they indict opposite ends of the same argument. Independently convergent on Wolf co-optation, the Rawlette boundary, the panpsychism self-undercut, missing Shepherd, and the tenet-protective closer. Both reviewers independently proposed the same missing instrument: a source-role / co-optation ledger.
+- **Tasks generated**: 2 (P1: 1, P2: 1) — deliberately restrained. Six tasks from the ChatGPT review were already open on this file, and most of Claude's findings land inside them; only unowned findings were minted, and the two new article-level defects were consolidated into one task rather than deepening a seven-task pileup. Convergence-driven priority upgrades left to `/combine-outer-reviews`.
+- **Published**: pending sync
 
 ## 2026-08-08 04:08 UTC - outer-review (implication expansion; the illusionism rebuttal is answered inside the paper the article cites)
 
