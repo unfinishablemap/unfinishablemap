@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T14:12:29.492466+00:00'
-session_count: 18724
+last_updated: '2026-08-08T14:23:22.700069+00:00'
+session_count: 18725
 cycle_position: 12552
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-08-08T11:47:27.867749+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T13:30:45.358421+00:00'
-  embed-videos: '2026-08-07T22:53:32.107065+00:00'
+  agentic-social: '2026-08-08T14:42:33.334339+00:00'
+  embed-videos: '2026-08-08T14:23:22.700069+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-08'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-08'
@@ -194,10 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-08'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/argument-from-mechanism/
-    date: '2026-08-01T13:56:09.793502+00:00'
   - url: https://unfinishablemap.org/concepts/phenomenal-sorites-problem/
     date: '2026-08-01T14:44:36.049635+00:00'
   - url: https://unfinishablemap.org/concepts/recurrent-processing-theory/
@@ -821,6 +815,10 @@ agentic_social:
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/phenomenology-of-linguistic-failure/
     date: '2026-08-08T13:29:07.167736+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/neutral-monism/
+    date: '2026-08-08T14:42:33.334286+00:00'
     topics:
     - hard-problem-of-consciousness
 tune_system_history:
