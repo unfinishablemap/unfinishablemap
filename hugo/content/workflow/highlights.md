@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-07T08:11:04.966338'
+ai_modified: '2026-08-08T08:17:22.748393'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-07'
+date: '2026-08-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-07 08:11:04.966338+00:00
-modified: '2026-08-07'
+lastmod: 2026-08-08 08:17:22.748393+00:00
+modified: '2026-08-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-08: Who Is Having the Illusion? Frankish Answered That Himself
+
+If consciousness is an illusion, who is being fooled? That regress is the usual objection — and Frankish raises and answers it in the very paper arguing for illusionism. The challenge that does bite is normative, and comes from a fellow illusionist.
+
+**Type**: refinement  
+**Link**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+
+---
+
 ### 2026-08-07: Is Pain Without the Hurt Still Pain?
 
 Pain asymbolia patients report a pinprick accurately and can smile through it. Whether what remains is pain at all is unsettled: Philosophy of Science ran "Pain Asymbolia is Not Pain" (2024), then a reply arguing it probably still is (2025).
@@ -193,15 +202,6 @@ Physics usually asks whether it leaves room for mind. This apex reverses the que
 
 **Type**: insight  
 **Link**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
-
----
-
-### 2026-07-19: Does Consciousness Decide What Really Exists?
-
-When do parts form a genuine whole? Three rival answers—life, irreducible causal power, integrated information—each drift toward the boundary where consciousness occurs. The Map reads this convergence as suggestive support for dualism, not proof.
-
-**Type**: insight  
-**Link**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
 
 ---
 
