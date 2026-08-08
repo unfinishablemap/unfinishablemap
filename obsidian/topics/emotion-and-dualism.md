@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-05T17:59:10+00:00
+ai_modified: 2026-08-08T01:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[epistemic-emotions]]"
   - "[[explanatory-gap]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[phenomenal-concepts-strategy]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[introspection]]"
@@ -53,7 +54,7 @@ embedded_videos:
     source: notebooklm/0080-01-emotion-and-dualism
 ---
 
-Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though all functional machinery remains intact—evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not a demonstration of it. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—two conclusions standard arguments for dualism reach only separately, and a convergence the Map treats as the empirical backbone of its dualist framework.
+Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though all functional machinery remains intact—evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not a demonstration of it. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 <details class="yt-embed" data-video-id="QTHO8WgPnUc">
 <summary>Video introduction</summary>
@@ -79,11 +80,13 @@ Pain asymbolia cases reveal which account is correct. Patients with damage to sp
 
 ## The Pain Asymbolia Argument
 
-Pain asymbolia does more than settle the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by indicating the causal indispensability of phenomenal properties.
+Pain asymbolia does more than settle the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by bearing on the causal standing of phenomenal properties and not only on their reducibility.
 
 The dissociation presses hard against functionalism. The representation exists—patients accurately represent tissue damage. The functional machinery operates—nociceptive signals reach the brain, defensive circuits are intact. The felt quality is absent—despite intact representation and intact functionality, the intrinsic badness is gone. And motivation collapses—without the felt quality, patients do not care enough to act.
 
-Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. A common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are [[concepts/epiphenomenalism|epiphenomenal]], riding atop physical processes without influencing them. Emotion blocks this retreat. When the felt badness is present, avoidance is robust. When absent—despite identical functional pain processing—motivation deteriorates. The phenomenal property makes a causal difference.
+Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. A common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are [[concepts/epiphenomenalism|epiphenomenal]], riding atop physical processes without influencing them. Emotion blocks that retreat in its bare-correlation form. When the felt badness is present, avoidance is robust. When absent—despite identical functional pain processing—motivation deteriorates, and an epiphenomenalism on which felt quality merely accompanies the functional story owes an account of why the accompaniment tracks behaviour this closely.
+
+The block reaches that far and no further. The [[phenomenal-concepts-strategy|phenomenal-concept]] version of epiphenomenalism survives the same pressure, and the Map concedes it: [[positions/arguments-for-mental-causation|P-MC1]] records that the Map's strongest anti-epiphenomenalism argument binds bare correlation and relocates the dispute rather than ending it. Emotion inherits that scope. Asymbolia shows where the difference appears; it does not show that the phenomenal property is what makes it.
 
 The evolutionary dimension reinforces this. Pain correlates with tissue damage, pleasure with survival-promoting activities, fear with genuine threats. These correlations are too systematic and too fine-grained to be accidental byproducts. William James noticed this in *The Principles of Psychology* (1890): the alignment of pleasure with benefit and pain with harm only makes sense if felt qualities influence behaviour and thus face selection pressure. An epiphenomenal pleasure—one that feels good but does not motivate approach—would not correlate reliably with biological advantage.
 
@@ -166,6 +169,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[dualism]] — The full range of positive arguments for dualism
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy, and why it fails
+- [[phenomenal-concepts-strategy]] — The physicalist reply that keeps the sophisticated version of epiphenomenalism in play
 - [[agent-causation]] — How consciousness exercises causal influence through valenced assessment
 - [[attention-as-interface]] — How attention operates as the consciousness-brain interface
 - [[intentionality]] — How mental states can be about things

@@ -68,6 +68,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **MIRROR**: live at `hugo/content/topics/emotion-and-dualism.md`. Sync both trees after editing. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — installing a scope limit the register already records is correction, not authoring.
 - **Source**: verified_residue (refine-draft 2026-08-07 22:38Z, blurb-clearing pass; both loci and the zero-occurrence count re-verified by the driver)
 
+### P2: `emotion-and-dualism` `description:` says "causally indispensable" — the three body loci that backed it were scoped on 2026-08-08 and the blurb is now unbacked
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/emotion-and-dualism.md
+- **Notes**: **NOT a re-litigation of the 2026-08-07 22:38Z blurb clearance, and not a contradiction of `reviews/tenet-check-2026-08-08.md` N2.** Both were right at the time: the blurb was cleared *because* L56 and L82 asserted "causally indispensable" / "causal indispensability" in the body's own voice. The 2026-08-08 01:55Z refine removed that step at both, and at L86 (which had said "Emotion blocks this retreat" flat), installing the bare-correlation scope limit [P-MC1](/positions/arguments-for-mental-causation/) records. The clearance is stale by construction, not by error.
+  **MEASURED ON DISK AFTER THAT PASS**: "causally indispensable" and "causal indispensability" now occur **zero** times in the body and **exactly once** in the file — L3, the `description:`. So the blurb asserts on the corpus's highest-leverage surface (meta description, social cards) what the body now declines to assert.
+  **FIX**: rewrite the third clause of `description:` to match the body's scoped conclusion. **Preserve the ranking claim** ("strongest empirical case for dualism") — still body-backed at L56 and L82, and independently cleared. Do not just delete "causally indispensable" and leave a two-item list; the family's fix standard is *gain precision*, naming the claim and its limit together. The sibling `topics/pain-consciousness-and-causal-power` solves exactly this in its own blurb: *"…though it binds the bare-correlation version, not the phenomenal-concept one."* 150-160 chars.
+  **DO NOT touch the body** — L56 / L82 / L86-88 / L132 / L136 are the settled versions as of 2026-08-08 01:55Z.
+  **MIRROR**: live at `hugo/content/topics/emotion-and-dualism.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**.
+- **Source**: verified_residue (refine-draft 2026-08-08 01:55Z; occurrence counts re-measured on disk after the fix)
+
+### P3: `archive/topics/emotion-as-evidence-for-dualism` still says asymbolia "demonstrates" causal work, after its successor scoped exactly that claim
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: archive/topics/emotion-as-evidence-for-dualism.md
+- **Notes**: **SERVING STATUS, CHECKED — this is why it is P3 and not P2.** The original URL does *not* serve this body: `hugo/static/_redirects` L254 301s `/topics/emotion-as-evidence-for-dualism/` → `/topics/emotion-and-dualism/`. The archived body is reachable only at `/archive/topics/emotion-as-evidence-for-dualism/`, and `hugo/layouts/_default/baseof.html` L15 stamps `noindex, nofollow` on anything with `archived: true`. So it is fetchable but not indexed and not linked from the live path. Worth correcting, not urgent.
+  **VERIFIED ON DISK 2026-08-08 01:55Z**, verbatim:
+  - **L39 (lead)** — *"Pain asymbolia **demonstrates** that these properties do genuine causal work… it reveals not only that phenomenal properties are irreducible, but that they are *causally indispensable*."*
+  - **L53** — *"This dissociation is **philosophically devastating** for functionalism"* (the successor softened this to "presses hard against functionalism" in the 2026-06-05 deep-review).
+  - **L100** — *"Together, they **establish** emotions as both **causally indispensable** and epistemically irreplaceable."*
+  The successor `topics/emotion-and-dualism` scoped all three claims on 2026-08-08 under P-MC1 — the argument binds bare correlation and does not reach the phenomenal-concept version. Same family as commit `f4b4fc19` (`archive/topics/consciousness-and-scientific-methodology` L116).
+  **FIX**: scope those three loci to match the successor. Minimal in-place correction only — an archived page should not assert more than the page that replaced it, but it is a historical record and is not to be rewritten.
+  **DO NOT** delete the article, alter its `archived` / `archived_date` / `superseded_by` / `original_path` frontmatter, or "modernise" anything beyond these three claims.
+  **MIRROR**: `hugo/content/archive/topics/emotion-as-evidence-for-dualism.md`. Sync both trees.
+- **Source**: verified_residue (refine-draft 2026-08-08 01:55Z; string-sibling grep of `causally indispensable` / `causal indispensability` across `obsidian/`, `archive/` and `hugo/content/`)
+
 ### NEEDS-HUMAN (attribution convention) 2026-08-07: 285 live articles say "Human-AI exploration" in `description:` while their own `ai_contribution: 100` says purely AI, with the author field empty
 
 **This is a CONVENTION QUESTION, not a defect to sweep. Do NOT mass-edit 285 descriptions, and do not let a content fork touch this — the answer determines what the site claims about its own authorship on its highest-leverage surface.**

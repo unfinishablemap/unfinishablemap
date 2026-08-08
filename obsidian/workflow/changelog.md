@@ -5,6 +5,21 @@ ai_modified: '2026-08-08T00:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 01:55 UTC - refine-draft (P-MC1 scope limit installed; the un-hedged causal conclusion scoped at all three loci)
+
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Original score**: n/a (targeted two-defect fix from a verified_residue task; no full quality review run)
+- **Changes**:
+  - **Defect 1 (L86 → L86–88).** "Emotion blocks this retreat." → "Emotion blocks that retreat **in its bare-correlation form**", with the deteriorating-motivation clause turned into the demand bare-correlation epiphenomenalism owes, and a new short paragraph installing the scope limit by citation: the [[concepts/phenomenal-concepts-strategy|phenomenal-concept]] version survives, [[positions/arguments-for-mental-causation|P-MC1]] records that the Map's strongest anti-epiphenomenalism argument binds bare correlation and relocates the dispute, "Emotion inherits that scope." Reasoning restated only to the minimum needed to make the citation legible — P-MC1 carries the argument. The block claim is retained, as instructed: against bare correlation it is the Map's position.
+  - **Defect 2 (L56 lead).** "not only irreducible but *causally indispensable*—two conclusions standard arguments for dualism reach only separately, and a convergence the Map treats as the empirical backbone of its dualist framework" → "not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the phenomenal-concept version standing (P-MC1)." The hedge governs, per L132/L136 in the article's own voice; the ranking claim is preserved. Drops "the empirical backbone of its dualist framework", which `reviews/tenet-check-2026-08-03.md` had named for deletion and which survived two prior passes.
+  - **String sibling in the same file (L82), not in the task's locus list but the same unearned step.** "by indicating the causal indispensability of phenomenal properties" → "by bearing on the causal standing of phenomenal properties and not only on their reducibility". Ranking claim preserved. `causally indispensable` / `causal indispensability` now occur zero times in this article's body.
+  - Added `[[phenomenal-concepts-strategy]]` to `concepts:` and one Further Reading line, since the body now links it twice.
+- **Engagement classification** (editor-internal): engagement with the epiphenomenalist is **mixed** — Mode One against the bare-correlation version (the demand for an account of why the accompaniment tracks behaviour is internal to the epiphenomenalist's own reliance on introspective evidence), Mode Three at the phenomenal-concept boundary (the disagreement relocates to whether the first-person mode of presentation is exhaustively physically characterisable, and the article now says so rather than claiming a refutation). This corrects a prior boundary-substitution: "Emotion blocks this retreat" presented as settled what the register scopes.
+- **Length**: raw 3133/3000 `soft_warning` is an artefact — References 464 + Further Reading 370 = 834 of apparatus. **Prose 2299/3000.** Net +134 words; no condensing done or needed.
+- **Not reached** (see todo): the `description:` still says "causally indispensable" and is now unbacked by the body; `archive/topics/emotion-as-evidence-for-dualism.md` carries the pre-hedge framing on a live URL.
+- **Published**: yes
+
 ## 2026-08-08 01:04 UTC - tune-system (fifth zero-Tier-1 run; the blocker is structural, and a cross-cutting pattern named)
 
 - **Status**: Success
