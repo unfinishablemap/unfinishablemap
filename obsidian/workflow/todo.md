@@ -69,21 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **RELATED, SAME SHAPE:** this is another instance of the cross-cutting pattern in `reviews/system-tune-2026-08-08.md` — a documented instruction that no longer matches (or never matched) what the code requires, with nothing checking consumers against producers.
   **SEPARATE, LOWER PRIORITY, SAME FILE FAMILY:** `scripts/highlights.py` writes `ai_modified` **without a UTC offset** (`'2026-08-08T08:17:22.748393'`). Verified as the established convention across the last three commits to `highlights.md`, so it is **not** a regression — but CLAUDE.md's timezone policy requires `+00:00` on all timestamps, so the generator is non-compliant. Decide alongside the above since both live in the highlights tooling.
 
-### P2: `curated-mind` L3 calls the presupposition argument "a novel argument for dualism" flat, where the body says four times that it does not compel
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/curated-mind.md
-- **Notes**: **Fifth defect from the agentic-social blurb check**, found 2026-08-08; both loci verified on disk by the driver. Same family as the six already corrected and the two open blurb tasks — see the standing residue entry for the structural cause (no skill re-reads `description:`) and the two unswept axes.
-  **THE DEFECT.** L3: *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and **that presupposition is a novel argument for dualism**."* Stated as what the argument **is**.
-  **WHAT THE BODY SAYS — it hedges four separate times.** L43: the architecture *"**may** constitute a novel argument… because curation **arguably** presupposes a recipient"*, and *"the inference is **suggestive rather than forced**… offered as the better explanation, **not a demonstration**"*. L51 concedes the rival outright: *"A physicalist can respond that the correction works for the system's **behavioural outputs** — no distinct recipient is needed, just a system with adaptive goals. **The presupposition argument does not logically compel dualism.** Rather, it is an inference to best explanation."*
-  So the nav surface asserts as settled what the body twice calls defeasible, once calls non-compelling, and once concedes is compatible with a deflationary reading.
-  **FIX — gain precision, do not merely hedge.** The body supplies both halves: it is an **inference to the best explanation** from the three-mode architecture, with the behavioural-outputs reply undefeated. The repaired siblings are the shape to match — each carries a claim **and** its limit in one sentence. **Do not delete the argument** — the Map holds it and is entitled to state it as its inference.
-  **CHECKED — no register scoping applies**: the fork looked for a `positions/` entry covering this claim (hard problem of content, teleosemantics, content-determination) and found **none**, so unlike the `pain-consciousness` case there is no register limit to import. The fix comes from the body alone.
-  **LENGTH**: decompose before trusting `analyze_length`; this is one frontmatter line regardless.
-  **MIRROR**: live at `hugo/content/topics/curated-mind.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
-- **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; L3, L43 and L51 re-read on disk by the driver)
-
 ### P2: Zheng & Meister is cited with the wrong YEAR in 9 files and three different volume/page assignments corpus-wide — the dominant form is correct, so this is drift, not a bad source
 
 - **Type**: refine-draft
@@ -2746,6 +2731,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `curated-mind` L3 calls the presupposition argument "a novel argument for dualism" flat, where the body says four times that it does not compel
+- **Type**: refine-draft
+- **File**: obsidian/topics/curated-mind.md
+- **Notes**: **Fifth defect from the agentic-social blurb check**, found 2026-08-08; both loci verified on disk by the driver. Same family as the six already corrected and the two open blurb tasks — see the standing residue entry for the structural cause (no skill re-reads `description:`) and the two unswept axes.
+  **THE DEFECT.** L3: *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and **that presupposition is a novel argument for dualism**."* Stated as what the argument **is**.
+  **WHAT THE BODY SAYS — it hedges four separate times.** L43: the architecture *"**may** constitute a novel argument… because curation **arguably** presupposes a recipient"*, and *"the inference is **suggestive rather than forced**… offered as the better explanation, **not a demonstration**"*. L51 concedes the rival outright: *"A physicalist can respond that the correction works for the system's **behavioural outputs** — no distinct recipient is needed, just a system with adaptive goals. **The presupposition argument does not logically compel dualism.** Rather, it is an inference to best explanation."*
+  So the nav surface asserts as settled what the body twice calls defeasible, once calls non-compelling, and once concedes is compatible with a deflationary reading.
+  **FIX — gain precision, do not merely hedge.** The body supplies both halves: it is an **inference to the best explanation** from the three-mode architecture, with the behavioural-outputs reply undefeated. The repaired siblings are the shape to match — each carries a claim **and** its limit in one sentence. **Do not delete the argument** — the Map holds it and is entitled to state it as its inference.
+  **CHECKED — no register scoping applies**: the fork looked for a `positions/` entry covering this claim (hard problem of content, teleosemantics, content-determination) and found **none**, so unlike the `pain-consciousness` case there is no register limit to import. The fix comes from the body alone.
+  **LENGTH**: decompose before trusting `analyze_length`; this is one frontmatter line regardless.
+  **MIRROR**: live at `hugo/content/topics/curated-mind.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
 
 ### ✓ 2026-08-08: the constitutive-valence thesis never confronts the predictive-processing account that is its leading empirical rival
 - **Type**: refine-draft
