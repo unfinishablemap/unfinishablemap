@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 23:30:00+00:00
+ai_modified: 2026-08-08 23:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-19 23:30:00+00:00
+lastmod: 2026-08-08 23:47:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ What happens *experientially* when consciousness approaches its own limits? This
   - Introduces "epistemic openness"—an "unobstructed epistemic space" where the agent is "completely open to the possibility of any epistemic state"
   - Proposes the "zero-person perspective" as a genuine form of consciousness that research must take seriously
 - **Tenet alignment**: Strong support for Dualism—if consciousness can operate in a mode stripped of all content yet remain aware, this suggests consciousness is not identical with its contents
-- **Quote**: "Consciousness research will need to take seriously those forms of consciousness it has long been skeptical about—namely, selfless pure-awareness experiences as they occur in meditation."
+- **Quote** (verified verbatim against the publisher text, 2026-08-08): "If the philosophy (and science) of consciousness wants to make genuine progress, it will need to finally take seriously precisely those forms of consciousness that it has long been most skeptical about—namely, selfless pure-awareness experiences as they occur in meditation. Consciousness itself can be experienced from what this book terms the 'zero-person perspective,' the perspective created by the most genuine forms of spiritual practice."
 
 ### Danil Kutnyy - The Boundaries of Cognitive Closure (December 2024)
 - **URL**: https://philarchive.org/rec/KUTTBO

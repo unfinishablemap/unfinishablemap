@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-08-08T23:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ If ego dissolution were merely a drug effect, or clarity-at-failure merely a med
 
 ## The Zero-Person Perspective
 
-Metzinger's work on "minimal phenomenal experience" (MPE) introduces a striking concept: the *zero-person perspective*. In ordinary experience, there is always a subject having the experience—a first-person perspective. In MPE, awareness continues but without the usual subject-object structure. Experience becomes non-conceptual, atemporal, non-egoic, and aperspectival.
+Metzinger's work on "minimal phenomenal experience" (MPE) introduces a striking concept, named in *The Elephant and the Blind*: the *zero-person perspective* (Metzinger 2024, chs. 3 and 29). In ordinary experience, there is always a subject having the experience—a first-person perspective. In MPE, awareness continues but without the usual subject-object structure. Experience becomes non-conceptual, atemporal, non-egoic, and aperspectival.
 
 This is not unconsciousness. Reports consistently describe it as awareness—often described as more vivid or real than ordinary experience—but without the self who is usually aware. The witness remains; the witnessed continues; but the usual sense of a self doing the witnessing dissolves.
 

@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-28T19:14:00+00:00
+ai_modified: 2026-08-08T23:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The burden runs the other way too. Anaesthesia and dreamless slow-wave sleep are
 
 ## The Zero-Person Perspective
 
-Metzinger's work on minimal phenomenal experience (MPE) introduces the *zero-person perspective*. In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival, often more vivid than ordinary, but without the self usually aware.
+*The Elephant and the Blind* introduces the term this section borrows: Metzinger calls the epistemic stance of minimal phenomenal experience (MPE) the *zero-person perspective* (Metzinger 2024, chs. 3 and 29). In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival, often more vivid than ordinary, but without the self usually aware.
 
 Metzinger himself reads this naturalistically, and the Map should not enlist him as an ally. He advances MPE as a *minimal-model explanation*: pure awareness "really is the content of a predictive model, namely, a Bayesian representation of tonic alertness," realised by brain properties that on his account cannot exist without the brain (Metzinger 2020). He is an eliminativist about the self—*Being No One* argues the conscious self is the transparent content of a brain-built model—and in *The Elephant and the Blind* he names an "E-fallacy": reading metaphysics directly off phenomenology. MPE's selfless structure is, on his telling, exactly what a self-model going offline while tonic-alertness representation persists would feel like.
 

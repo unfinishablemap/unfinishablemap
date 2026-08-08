@@ -4,7 +4,7 @@ description: "Dan Zahavi defends a pre-reflective minimal self as the constituti
 created: 2026-04-18
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-01T01:15:00+00:00
+ai_modified: 2026-08-08T23:47:00+00:00
 draft: false
 archived: true
 archived_date: 2026-05-01T01:15:00+00:00
@@ -60,7 +60,7 @@ Four features matter:
 
 Thomas Metzinger's *Being No One* (2003) defends **Self-Model Theory of Subjectivity** (SMT). The self is the content of a phenomenally transparent self-model — a brain-generated representation treated as a non-representational presentation of a real self. The transparency gives rise to the illusion of a self "having" experiences: we mistake the model for its (non-existent) target. Metzinger's programme is explicitly *eliminativist*: "No such things as selves exist in the world" (2003, p. 1). What exist are self-models running on brains. When the self-model is disrupted — through meditation, psychedelics, neurological damage — no deeper subject is left over to "witness" the disruption.
 
-His later work on **Minimal Phenomenal Experience** (MPE) characterises deep meditative states as potentially exhibiting a **"zero-person perspective"** — phenomenal consciousness without subject-structure, without for-me-ness (Metzinger 2020).
+His later work on **Minimal Phenomenal Experience** (MPE) characterises deep meditative states as potentially exhibiting what he terms a **"zero-person perspective"** (Metzinger 2024) — phenomenal consciousness without subject-structure, and on the Map's reading without for-me-ness.
 
 Three contrasts with Zahavi:
 
@@ -157,11 +157,12 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 3. Gallagher, S., & Zahavi, D. (2020). *The Phenomenological Mind* (3rd ed.). Routledge.
 4. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 5. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
-6. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-7. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
-8. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
-9. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
-10. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-11. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-12. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
+6. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press. (Open access; the source of the "zero-person perspective," chs. 3 and 29.)
+7. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+8. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
+9. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
+10. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
+11. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+12. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+13. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
 

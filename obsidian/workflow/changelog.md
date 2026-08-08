@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T23:29:00+00:00'
+ai_modified: '2026-08-08T23:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 23:50 UTC - refine-draft (the "zero-person perspective" IS Metzinger's — the book was obtained, and the defect was the citation *year*, not the phrase)
+
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]] (+5 further content files, 1 research note, 1 review ledger)
+- **Source**: todo.md L2564; follow-up to deep-review 2026-08-08 (essential-vs-contingent-consciousness)
+
+**THE QUESTION, ANSWERED.** Does Metzinger use "zero-person perspective" in *The Elephant and the Blind* (MIT Press, 2024)? **Yes — 45 times**, and he introduces it as the book's own term: *"Consciousness itself can be experienced from what this book terms the 'zero-person perspective'"* and *"what in chapters 3 and 29 I will call taking the 'zero-person perspective'"*. So the phrase is genuinely his; **nothing was de-quoted**.
+
+**How it was obtained** (the prior pass was blocked by Cloudflare on MIT Press and PhilPapers; WebSearch was exhausted this session, and Google Books returns a hard 0/day quota):
+- **The route that worked** — the MIT Press open-access deposit on archive.org, `mit_press_book_9780262377287` (collection `mit_press_open_access`), which serves a plain-text derivative: `https://archive.org/download/mit_press_book_9780262377287/book_9780262377287_djvu.txt` (271,074 words). Found by resolving the DOI in OpenAlex → MIT Press OA monograph 5725 → archive.org item search.
+- **Confirmed twice more**: an independent second scan of the same book (`the-elephant-and-the-blind-thomas-metzinger-2024`, 42 hits), and **the author's own self-archived PDF**, `https://thomasmetzinger.com/wp-content/uploads/2024/06/Metzinger_MIT_Press_2024-1.pdf` (live, 6.0 MB), extracted with `pdftotext -layout` (45 hits).
+- **Trap recorded**: in the author-PDF extraction a naive `zero[-\s]?person` grep returns **0** — the PDF carries soft hyphens (U+00AD) inside `zero-­person`. Strip U+00AD and the count is 45. A bare zero looked exactly like absence.
+- **Not blocked, but wrong**: `direct.mit.edu` (403 Cloudflare, both the OA landing page and the `bookpreview-pdf` path), `library.oapen.org` and DOAB (no record — MIT Press deposited to archive.org, not OAPEN), Google Books API (quota 0/day).
+
+**Disposition: citation fix, per the brief's first branch.** The prior finding stands unchanged — the phrase is verifiably *not* in Metzinger (2020), searched four ways. The error was only that the 2020 paper was cited for a term Metzinger introduced in 2024. Every locus was re-pointed rather than removed.
+
+- **Changes**:
+  - `concepts/self-and-self-consciousness` L110 — `(Metzinger 2020)` → `what he terms ... (Metzinger 2024)`; also moved "without for-me-ness" outside the attribution to "on the Map's reading", since **"for-me-ness" occurs 0 times in the 2024 book and 0 times in the 2020 paper** — it is the Map's Zahavian gloss, not Metzinger's word. Added the 2024 book to References (renumbered 10–20).
+  - `voids/edge-states-and-void-probes` L98 — term now explicitly sourced to *The Elephant and the Blind* (chs. 3 and 29), which distinguishes it from the genuine 2020 citation two paragraphs later at L100. **Heading `## The Zero-Person Perspective` kept** — it is Metzinger's own wording, so no rename and no anchor churn; the one inbound anchor (`#the-zero-person-perspective`, L66 of the same file) still resolves. **L102's co-optation framing left untouched** per the closed 2026-06-05 finding.
+  - `voids/minimal-consciousness-void` L104 — added `(Metzinger 2024)` + the book to References.
+  - `archive/concepts/zahavian-minimal-self` L63 — the most explicit defect, a bare `(Metzinger 2020)` on the quoted phrase → `(Metzinger 2024)`; book added to References (renumbered).
+  - `archive/concepts/self-and-consciousness` L88 — `what he terms ... (Metzinger 2024)`; book added to References.
+  - `archive/voids/phenomenology-of-the-edge` L90 — term sourced to the book inline.
+  - `research/voids-phenomenology-of-the-edge-2026-01-19` L50 — **separate quote-fidelity defect found and fixed**: the "Quote" field was a paraphrase presented as verbatim. Replaced with the grep-verified publisher wording.
+  - `reviews/deep-review-2026-08-08-essential-vs-contingent-consciousness` — appended a dated RESOLVED note so the open "is it Metzinger's, Taguchi's, or a Map coinage?" question cannot license a future mass-delete.
+- **Left unchanged (already correct)**: `concepts/witness-consciousness` L114, `topics/eastern-philosophy-consciousness` L194, `archive/voids/{the-unobservable-self, self-reference-paradox, unobservable-self}` — these either already cite the 2024 book or carry no Metzinger citation (they cross-reference the sibling article). `topics/essential-vs-contingent-consciousness` L80 — the earlier removal now looks over-cautious, but its replacement wording (*selfless*, *aperspectival*, *epistemic agent model*) is accurate Metzinger vocabulary, so it was left in place rather than churned back.
+- **Notable**: our own corpus already held the answer. `reviews/outer-review-2026-06-05-claude-opus-4-8.md` L81 stated in June that the term is "a genuine Metzinger term, but from *The Elephant and the Blind* ... (MIT Press, 2024)", and the original 2026-01-19 research note cited the book *with the author's self-archive URL*. The misattribution to 2020 was introduced later, during article writing, and outlived two reviews that had it right.
+- **Also checked**: Metzinger does **not** cite Taguchi (0 occurrences). Taguchi (2019) and an unrelated 2011 use by Esch & Stefano (*Med Sci Monit*, "outside the overall scientific paradigm") are earlier published loci in different senses, so the Map says "Metzinger's term" and avoids any priority/coinage claim.
+- **Published**: yes
 
 ## 2026-08-08 23:29 UTC - refine-draft (evaluative-phenomenal-character: the Buddhist *vedanā* recruitment carries its soteriological caveat at three loci, and the Tenet-5 appeal stops leaning on undiscounted convergence)
 

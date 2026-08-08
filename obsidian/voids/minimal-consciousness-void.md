@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-08-05T22:12:37+00:00
+ai_modified: 2026-08-08T23:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ This sharpens the headline claim. "Permanently beyond examination" carries an ep
 
 Buddhist contemplative traditions offer the closest experiential approach to the void. Advanced practitioners report progressive simplification of experience—loss of body sense, temporal orientation, spatial location—until something remains that resists further reduction. Nirodha samāpatti, the "cessation of feeling and perception," represents the endpoint: a state from which practitioners return reporting nothing, experienced as a short "gap" or "cut" in consciousness (Laukkonen et al. 2023). This evidence is thin in the way honesty requires noting: the cessation-EEG work to date rests on a single practitioner (n=1), and the report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness. It indicates an edge; it cannot certify what lies on the far side.
 
-This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [[edge-states-and-void-probes|edge-experience]] Metzinger calls the "zero-person perspective." On the other, the complete absence of cessation.
+This creates a tantalising phenomenological bracket. On one side, the progressively simplified awareness of deep meditation—the [[edge-states-and-void-probes|edge-experience]] Metzinger calls the "zero-person perspective" (Metzinger 2024). On the other, the complete absence of cessation.
 
 But the bracket cannot be closed from within. From above, the meditator cannot observe the transition without enriching it; from below, cessation offers nothing to report. This makes cessation an *ambiguous probe*, not near-confirmation of an inaccessible lower edge. As [[edge-states-and-void-probes]] frames the tension, a cessation report admits a *transcendence* reading (the practice stepped off the scale entirely) and an *edge-mapping* reading (it approached the lowest rung)—and the two are undecidable from the inside, though third-person cessation-EEG offers the oblique purchase the bracket lacks.
 
@@ -143,6 +143,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 ## References
 
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
+1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press. (Open access; the source of the "zero-person perspective," chs. 3 and 29.)
 1. Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
 1. Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.

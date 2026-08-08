@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-07-28 19:14:00+00:00
+ai_modified: 2026-08-08 23:47:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 03:19:00+00:00
-lastmod: 2026-07-28 19:14:00+00:00
+lastmod: 2026-08-08 23:47:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -99,7 +99,7 @@ The burden runs the other way too. Anaesthesia and dreamless slow-wave sleep are
 
 ## The Zero-Person Perspective
 
-Metzinger's work on minimal phenomenal experience (MPE) introduces the *zero-person perspective*. In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival, often more vivid than ordinary, but without the self usually aware.
+*The Elephant and the Blind* introduces the term this section borrows: Metzinger calls the epistemic stance of minimal phenomenal experience (MPE) the *zero-person perspective* (Metzinger 2024, chs. 3 and 29). In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival, often more vivid than ordinary, but without the self usually aware.
 
 Metzinger himself reads this naturalistically, and the Map should not enlist him as an ally. He advances MPE as a *minimal-model explanation*: pure awareness "really is the content of a predictive model, namely, a Bayesian representation of tonic alertness," realised by brain properties that on his account cannot exist without the brain (Metzinger 2020). He is an eliminativist about the self—*Being No One* argues the conscious self is the transparent content of a brain-built model—and in *The Elephant and the Blind* he names an "E-fallacy": reading metaphysics directly off phenomenology. MPE's selfless structure is, on his telling, exactly what a self-model going offline while tonic-alertness representation persists would feel like.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-08-05 22:12:37+00:00
+ai_modified: 2026-08-08 23:47:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-08-05 22:12:37+00:00
+lastmod: 2026-08-08 23:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ Zahavi's positive view (*Subjectivity and Selfhood* 2005; *Self and Other* 2014)
 
 ## Metzinger's Alternative and Why It Differs
 
-Thomas Metzinger's *Being No One* (2003) defends **Self-Model Theory of Subjectivity** (SMT): the self is the content of a phenomenally transparent self-model — a brain-generated representation we mistake for a real self. Metzinger's programme is explicitly eliminativist: "No such things as selves exist in the world" (2003, p. 1). When the self-model is disrupted, no deeper subject is left over. His later work on **Minimal Phenomenal Experience** (MPE) characterises deep meditative states as potentially exhibiting a "zero-person perspective" — phenomenal consciousness without for-me-ness (Metzinger 2020).
+Thomas Metzinger's *Being No One* (2003) defends **Self-Model Theory of Subjectivity** (SMT): the self is the content of a phenomenally transparent self-model — a brain-generated representation we mistake for a real self. Metzinger's programme is explicitly eliminativist: "No such things as selves exist in the world" (2003, p. 1). When the self-model is disrupted, no deeper subject is left over. His later work on **Minimal Phenomenal Experience** (MPE) characterises deep meditative states as potentially exhibiting what he terms a "zero-person perspective" (Metzinger 2024) — on the Map's reading, phenomenal consciousness without for-me-ness.
 
 Three contrasts with Zahavi:
 
@@ -225,13 +225,14 @@ The minimal self thesis has limited empirical testability: testing requires repo
 7. Gallup, G.G. (1970). "Chimpanzees: Self-Recognition." *Science*, 167(3914), 86-87.
 8. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 9. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
-10. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-11. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
-12. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
-13. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
-14. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-15. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-16. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-17. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-18. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-19. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
+10. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press. (Open access; introduces the "zero-person perspective," chs. 3 and 29.)
+11. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+12. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
+13. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
+14. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
+15. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+16. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+17. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+18. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+19. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+20. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
