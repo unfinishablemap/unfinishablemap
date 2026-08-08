@@ -1,10 +1,10 @@
 ---
 title: "Emotion and Dualism"
-description: "Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible, causally indispensable, and transforms the philosophy of emotion."
+description: "Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism, though it binds bare correlation, not the phenomenal-concept version."
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-08T01:55:00+00:00
+ai_modified: 2026-08-08T16:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

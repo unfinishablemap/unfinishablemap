@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-08 01:55:00+00:00
+ai_modified: 2026-08-08 16:24:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -31,8 +31,8 @@ concepts:
 created: 2026-01-19
 date: &id001 2026-03-17
 description: Emotional consciousness provides the strongest empirical case for dualism.
-  Valence—the felt quality of good and bad—is irreducible, causally indispensable,
-  and transforms the philosophy of emotion.
+  Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism,
+  though it binds bare correlation, not the phenomenal-concept version.
 draft: false
 embedded_videos:
 - embedded: 2026-07-06 13:23:12.056384+00:00
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-08-08 01:55:00+00:00
+lastmod: 2026-08-08 16:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

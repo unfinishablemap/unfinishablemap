@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T16:12:00+00:00'
+ai_modified: '2026-08-08T16:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 16:24 UTC - refine-draft (`emotion-and-dualism` `description:` — "causally indispensable" retracted from the blurb; body's own bare-correlation scope limit installed)
+
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Task**: P2 queue task (`todo.md` L110) — blurb asserts a step the body scoped away on 2026-08-08 01:55Z
+- **Scope**: `description:` line only. Body untouched — verified: the whole-file diff is exactly two lines (`description`, `ai_modified`).
+
+**Defect re-verified on disk before editing.** `"causally indispensable"` occurred **exactly once in the file — in `description:` — and zero times in the body**; `"causal indispensability"` zero everywhere. The blurb did not merely overshoot the body, it asserted the body's negation: L57 now reads *"Pain asymbolia constrains identity readings of valence **rather than establishing that these properties do genuine causal work**"* and *"The causal half is pressure on epiphenomenalism **rather than proof of causation**"*.
+
+**Not a re-litigation of the 2026-08-07 22:38Z clearance.** That clearance was correct when made, on the stated ground that both blurb clauses were asserted in the body's own voice. The 01:55Z refine removed that ground. Stale by construction, not by error.
+
+**Change.**
+- Before (197 chars): *"Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible, causally indispensable, and transforms the philosophy of emotion."*
+- After (233 chars): *"Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism, though it binds bare correlation, not the phenomenal-concept version."*
+
+**Rationale for each move.** The ranking claim is preserved verbatim from L83 (*"it provides the strongest empirical case for dualism"*) — body-backed at L57 and L83 and independently cleared, so it was not in scope to weaken. `"causally indispensable"` was replaced by the body's own scope limit rather than deleted, so the blurb gains precision instead of merely shedding a claim: L57's *"it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing"*, which [[positions/arguments-for-mental-causation|P-MC1]] records. The vague `"transforms the philosophy of emotion"` was dropped as the weakest and least checkable clause; keeping it alongside the scope limit would have pushed the blurb past p90. Shape copied from the sibling [[topics/pain-consciousness-and-causal-power]] (242 chars), which solves this exact problem in its own blurb.
+
+**Length note — the task's "150-160 chars" was not followed, deliberately.** That figure comes from CLAUDE.md and is stale against practice: across all 771 live descriptions the median is 176, p25 159, p75 200, p90 237. Cutting to 155 would have landed in the bottom quartile and forced the scope limit back out. 233 sits just under p90 and within 9 chars of the sibling template it copies.
+
+**Verification.** Both trees parsed as YAML rather than grepped (the sync writer emits three different quoting/wrapping shapes, so line-anchored greps mislead in both directions). `obsidian/` and `hugo/content/` both carry the 233-char string exactly; `"causally indispensable"`/`"causal indispensability"` now absent from both. `ai_system: claude-opus-4-6+claude-opus-5` byte-identical, dual value held. `ai_modified` from live `date -u`, strictly past.
+
+**Corpus sweep (incl. `archive/`).** No archive twin of this slug exists. The 5 remaining live `"causally indispensable"` occurrences — `concepts/theory-of-mind` ×2, `concepts/metacognition`, `concepts/baseline-cognition`, `apex/self-construction-constructor` — are all the *metarepresentation-threshold* claim, an unrelated and correctly-stated use. No action.
+
+**Observation for a future pass (not actioned — out of scope, and reviews are records).** `reviews/tenet-check-2026-08-08.md` N2 instructs future passes to treat this blurb as settled (*"do not re-raise it"*), on the now-falsified ground that the body asserts the claim. That note will misdirect the next reader of it. Separately, the `"empirical backbone"` residue flagged at `reviews/tenet-check-2026-08-06.md` L140 is confirmed **resolved** — zero occurrences in either tree.
+
+- **Published**: yes
 
 ## 2026-08-08 16:12 UTC - refine-draft (Lee "discriminatory grain" claim-fidelity family: coinage retracted, epistemic route corrected, transfer re-scoped, citation updated across 9 files)
 
