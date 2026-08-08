@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T22:34:48.959876+00:00'
-session_count: 18755
+last_updated: '2026-08-08T22:35:37.321435+00:00'
+session_count: 18756
 cycle_position: 12571
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-08T20:58:09.262376+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T21:42:28.191831+00:00'
+  agentic-social: '2026-08-08T22:56:32.494980+00:00'
   embed-videos: '2026-08-08T14:23:22.700069+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-08T05:55:32.568919+00:00'
   collect-gemini-review: '2026-08-08T05:06:54.291665+00:00'
   positions-evolve: '2026-08-07T22:05:52.414688+00:00'
-  check-model-fallback: '2026-08-08T18:12:49.063427+00:00'
+  check-model-fallback: '2026-08-08T22:35:37.321435+00:00'
   harvest-research-subjects: '2026-08-08T21:08:21.719440+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -118,10 +114,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-08'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-08'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-08'
@@ -194,14 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-08'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/pairing-problem/
-    date: '2026-08-01T21:55:45.535708+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/chinese-room-argument/
-    date: '2026-08-01T22:49:25.700322+00:00'
   - url: https://unfinishablemap.org/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/
     date: '2026-08-01T23:42:23.125958+00:00'
     topics:
@@ -827,6 +817,11 @@ agentic_social:
     - methodology-of-consciousness-research
     - hard-problem-of-consciousness
     - consciousness-and-the-authority-of-formal-systems
+  - url: https://unfinishablemap.org/concepts/agent-teleology/
+    date: '2026-08-08T22:56:32.494934+00:00'
+    topics:
+    - free-will
+    - evolution-under-dualism
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0

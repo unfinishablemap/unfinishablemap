@@ -2661,6 +2661,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **DO NOT OVER-CORRECT.** The zero-lag phenomenon is real and well replicated. What is wrong is the claim that classical mechanisms *cannot* produce it. Do not delete the synchrony claim.
   **MIRROR**: edit `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral — this is a clause-level attribution fix.
 
+### P3: `agent-teleology`'s blurb promises a third domain — meaning — that the body never treats
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/agent-teleology.md
+- **Notes**: Found by the 2026-08-08 agentic-social blurb check; **driver-verified with frontmatter and apparatus stripped**, which is the measurement that matters here.
+  **THE DEFECT.** `description:` closes *"A key concept for dualist accounts of action, evolution, and **meaning**."* Two of the three are well earned; the third is not. Counts over **prose only** (frontmatter stripped, `## Further Reading` and `## References` excluded): **`action` 19 · `evolution` 13 · `meaning` 0.** Whole-file `meaning` = 2, and both are non-prose — the description itself, and one Further Reading gloss (`- [[purpose-and-alignment]] — The broader question of human purpose and meaning`). There is no section on meaning and no prose treatment of it. **The blurb's third term is carried entirely by a pointer to a different article.**
+  **A NEW SUB-TYPE, worth naming: "unearned scope promise".** Distinct from the *unearned second front* found on `phenomenology-of-returning-attention` (a blurb naming an opponent school as defeated that the body never engages). Here no opponent is named and nothing is fabricated — the promised domain is real and does have an article — but **this** article does not cover it. Severity is lower for that reason.
+  **TWO ACCEPTABLE FIXES — pick one, do not split:** (a) **drop "and meaning"**, leaving the two terms the body earns; or (b) **swap it for something the body actually does** — the nearest genuine candidate is normativity (`normativ` 2 prose hits, in `## The Phenomenology of Purpose`, on the felt oughtness *inside* an action). ⚠️ **Note (b) is a narrower claim than "meaning"** — the article treats normativity within action, **not** existential meaning. Do not let the swap smuggle the wider claim back in.
+  **✅ THE REST OF THE BLURB IS CLEAN — DO NOT TOUCH IT.** Sentence 1 (*"conscious beings introduce genuine purpose into an otherwise mechanistic universe"*) is near-verbatim to the lead at L42 and correctly bounded by `## What Agent Teleology Does Not Claim`. **No unearned second front**: the blurb names no opponent school, and the schools the body does engage (physicalism, Dennett's intentional stance, Millikan/teleofunctionalism) are engaged in-text.
+  **⚠️ MEASURE PROSE, NOT THE FILE.** A whole-file grep for a blurb term counts the description itself plus link glosses and reference titles, which is how a term with zero prose support scores 2. **Strip frontmatter and cut at `## Further Reading` before counting.**
+  **MIRROR**: edit obsidian, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral.
+
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
