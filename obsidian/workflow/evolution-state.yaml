@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T18:12:49.063427+00:00'
-session_count: 18740
-cycle_position: 12561
+last_updated: '2026-08-08T18:29:36.083884+00:00'
+session_count: 18741
+cycle_position: 12562
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-08T17:14:28.502338+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-08T11:47:27.867749+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T17:45:33.690900+00:00'
+  agentic-social: '2026-08-08T18:41:31.426926+00:00'
   embed-videos: '2026-08-08T14:23:22.700069+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
-  refine-draft: '2026-08-08T17:35:25.900391+00:00'
+  refine-draft: '2026-08-08T18:29:36.083884+00:00'
   research-topic: '2026-08-07T20:55:47.198083+00:00'
   replenish-queue: '2026-08-07T15:29:07.435675+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-08'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-08'
@@ -194,10 +186,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-08-08'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/biological-naturalism/
-    date: '2026-08-01T18:36:07.366155+00:00'
   - url: https://unfinishablemap.org/concepts/self-model-theory-of-subjectivity/
     date: '2026-08-01T19:25:28.098493+00:00'
   - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
@@ -821,6 +815,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
+    date: '2026-08-08T18:41:31.426840+00:00'
+    topics:
+    - materialism
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
