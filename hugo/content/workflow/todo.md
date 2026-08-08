@@ -2638,6 +2638,26 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **NOT A DUPLICATE.** The open P3 from `optimistic-review 2026-08-03` (physicalist-rivals cluster) owns the *functionalism/materialism* register-citation gap across five files; this task owns the **index sentence only**, which no open task targets. Four open tasks target `arguments/` files; none targets `arguments/arguments.md`.
   **MIRROR**: land in both trees — edit obsidian, then `uv run python scripts/sync.py`. Bump `ai_modified` from a live `date -u`, verified strictly past.
 
+### P2: the Fox et al. 2012 correlation-as-training-effect error propagates to five more files, one of them inside another falsifier ledger
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/contemplative-path.md
+- **Notes**: **RESIDUE FROM THE 2026-08-08 deep-review of `concepts/neurophenomenology-and-contemplative-neuroscience`**, which corrected four loci in that file and handed the propagation out rather than sweeping beyond its scope. Every locus below driver-verified on disk 2026-08-08 ~20:25Z.
+  **THE FACT, verified at the publisher of record (PLOS ONE, `10.1371/journal.pone.0045370`).** Fox, K.C.R. et al. (2012), *Meditation experience predicts introspective accuracy*, is a **cross-sectional correlational study, N=38, 1 to 15,000 hours of practice, with no longitudinal and no randomised component.** The authors write that *"The cross-sectional nature of our sample of meditators precludes inferring a direct causal link between meditation practice and greater introspective accuracy"*, warn that *"practitioners who persist... already begin with higher introspective accuracy"* may explain the result, and call for a future *"pre-post design along with a suitable (e.g., wait-list) control group."* **So "experience predicts accuracy" is supported; "training improves accuracy" is not.**
+  **LOCI, worst first:**
+  **(1) `obsidian/apex/contemplative-path.md` L168** — *"Fox et al.'s findings show training helps."* This sits **inside that article's own falsifier list**, the identical load-bearing position just corrected in the source article: an apex falsifier ledger scoring itself a pass on evidence that cannot test the falsifier. **Fix this one even if you fix nothing else.**
+  **(2) `obsidian/concepts/evolution-of-consciousness.md` L101** — *"**Training enhances conscious capacities**: Fox et al. (2012) **demonstrated** that meditators show dramatically better introspective accuracy than novices."* Causal heading, plus *demonstrated*, plus *dramatically*.
+  **(3) `obsidian/topics/eastern-philosophy-consciousness.md` L132** — *"Fox et al. (2012) showed meditation **training** predicts introspective accuracy"*. One word: **training** should be **experience**.
+  **(4) `obsidian/apex/contemplative-path.md` L68** — the heading *"Training matters."* The sentence beneath it is **already correct** (*"meditation experience predicts introspective accuracy on a logarithmic learning curve"*). Re-label the heading; do **not** rewrite the sentence.
+  **(5) `obsidian/research/cognitive-phenomenology-thinking-experience-2026-01-17.md` L125** — *"introspective reliability improves with training (Fox et al. 2012)."* This is a **dated research note**: apply the **dated-correction-notice convention** rather than rewriting in place — see `research/dopamine-attention-motor-quantum-interface-2026-01-24.md` L25 (2026-08-08) and the two earlier precedents at `research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md` L98 and `research/horizon-decoherence-2026-07-31.md` L154.
+  Also sweep the **archive mirrors** of loci 1 to 4 — archive pages serve full bodies on live URLs.
+  **DO NOT TOUCH — these three are already CORRECT, and a string-shaped sweep would corrupt them:**
+  **`obsidian/topics/contemplative-practice-as-philosophical-evidence.md` L139** states the limitation explicitly and is the corpus's canonical correct framing — copy its wording rather than inventing new. **`obsidian/apex/testing-the-map-from-inside.md` L178.** **`obsidian/topics/phenomenal-authority-and-first-person-evidence.md` L166** — its neighbouring **Baird et al. 2014** citation **is** a genuine randomised training study of metacognitive accuracy, so a Fox-shaped correction applied nearby would wrongly de-claim a real causal result.
+  **DO NOT ASSERT that no pre-post trial exists.** The source review deliberately declined to write that: its web budget was exhausted and it could not establish the absence, and Baird et al. 2014 is a counter-example already in the corpus. Correct what Fox supports; do not make a claim about the whole literature.
+  **MIRROR**: edit `obsidian/` and `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a citation-framing correction is not authoring. Check each file's length headroom before adding words.
+
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

@@ -5,6 +5,26 @@ ai_modified: '2026-08-08T19:53:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 20:30 UTC - refine-draft (citation-attribution pass: DMT direction reversal + four-papers-in-one-citation split)
+
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]]
+- **Source review**: `obsidian/reviews/pessimistic-2026-08-07-entropic-brain-hypothesis.md`
+- **Word count**: 1542 → 2434 (+892). Concepts hard ceiling 3500; ample headroom, no condense needed.
+- **Changes**:
+  - **DMT direction corrected (highest-value fix).** Verified at primary text via EuropePMC full record for PMID 41285580 / DOI `10.1523/JNEUROSCI.0344-25.2025` (published *J. Neurosci.* 46(2):e0344252025, 2026; bioRxiv preprint Feb 2025). Abstract states DMT "shifts the dynamics of brain oscillations away from criticality in alpha and adjacent frequency bands", is "toward subcritical regimes", and that "entropy is increased while complexity is reduced". The article had reported this as a friendly refinement of a toward-criticality paragraph. Restated with direction explicit and **relocated into *Where the Measure Is Contested*** as the empirical exhibit that section previously lacked, pairing it with Papo's conceptual critique: the entropy/criticality fusion of the 2018 revision comes apart on the strongest psychedelic case.
+  - **Four papers split out of one citation.** Toker et al. (2022) now carries only the near-critical-electrodynamics claim, with its 0-1-chaos axis distinguished from avalanche statistics — applying the ruling in `reviews/deep-review-2026-07-29-amplification-mechanisms-consciousness-physics.md` L117 that had only ever been applied to the sibling article. Cortico-thalamic transfer reattributed to Toker et al. (2024), *eLife* 13:e86547; avalanche/anaesthesia result reattributed to Varley et al. (2020), *PLoS Comput. Biol.* 16(12):e1008418.
+  - **Varley caveats restored**: single-macaque ECoG sample named, and the authors' own hedge quoted — "all states, however, showed some signs of persistent criticality". "Drives the system away from the critical point" softened to bending-not-abolishing.
+  - **"Independent work" dropped.** Carhart-Harris verified as 7th of 13 authors on Toker et al. 2022 (PMID 35145021) and 6th of 8 on Irrmischer et al. Non-independence now stated in the body and the full 13-author list given in the reference, applying the standard the Map enforces at `topics/psychedelics-and-the-filter-model.md` L119 symmetrically.
+  - **L42/L70 contradiction resolved.** The "psychedelic data jointly report the reverse" framing is replaced by the accommodation framing that L70 and the linked article actually hold; the cross-reference is re-described as developing the accommodation question, matching that article's current L133 ("coherence rather than evidential support over rivals").
+  - **Unsupported Lempel–Ziv claim replaced, not merely cited.** The brief and the review both proposed wiring the orphaned Rankaduwa & Owen (2023) reference to the "weakest associations" claim. Checked the raw EuropePMC full text (PMC10072236): "weakest" occurs **zero** times — that claim is not in the source. Substituted the attested finding, grep-verified verbatim in the raw text: LZC and PCI both *increase* under low and anaesthetic doses of ketamine, so "an increase in complexity seems to be fully compatible with overall reductions in conscious awareness." Ref 6 is now cited in the body, and the article gains a stronger exhibit than the one it lost.
+  - **Papo wording drift fixed**: "rather than measure criticality" → "rather than measure metastability", matching the source ("quantifies (the number of) metastable states ... rather than metastability", verified in PMC5004455). The quoted phrase "the random side of complexity" is attested and was **not** de-quoted.
+  - **Relation to Site Perspective updated for coherence** — the bandwidth gloss previously ran entropy and criticality together as one dial. Now states that the DMT dissociation forces the filter reading to say which quantity the aperture tracks, and works through both branches without claiming either is comfortable.
+  - **References**: added Bak, Tang & Wiesenfeld (1987) *Phys. Rev. Lett.* 59(4):381–384 (body-cited, no entry); Varley et al. (2020); Letheby (2021) *Philosophy of Psychedelics* (named at L64, no entry); Toker et al. (2024); Irrmischer et al. (2026). 8 entries → 13, all metadata verified at EuropePMC/Crossref.
+- **Research note**: dated correction notice added to `research/entropic-brain-hypothesis-2026-06-22.md` at the head of the Executive Summary (correction-notice convention, snapshot preserved in place), recording that the note's four-paper enumeration was correct and only the generalising direction bullet was wrong.
+- **Preserved on revision**: the measure-is-not-explanation wedge, the interpretive-overlay marking, and the engagement of EBH as a rival rather than an ally.
+- **Published**: yes (synced to `hugo/content/concepts/entropic-brain-hypothesis.md`)
+
 ## 2026-08-08 20:14 UTC - deep-review (empirical-claim fidelity pass: Fox 2012 correlation→causation upgrade in the falsification ledger)
 
 - **Status**: Success

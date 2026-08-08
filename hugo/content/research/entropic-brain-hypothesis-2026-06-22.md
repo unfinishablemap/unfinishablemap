@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-08-08 20:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-22
-date: '2026-06-22'
+date: '2026-08-08'
 draft: false
-lastmod: 2026-06-22 00:00:00+00:00
+lastmod: 2026-08-08 20:30:00+00:00
 related_articles: []
 title: Research Notes - The Entropic Brain Hypothesis
 ---
@@ -24,6 +25,8 @@ title: Research Notes - The Entropic Brain Hypothesis
 - REBUS anarchic brain spotlight commentary critique 2020 Safron precision priors falsifiability problems
 
 ## Executive Summary
+
+> **Correction (2026-08-08)**: Where this note generalises that "Psychedelics push the brain *toward* criticality" (the Key Points bullet under "Edge-of-chaos / near-critical electrodynamics", and the corresponding clause in the summary paragraph below), the direction is wrong for the very paper the note lists one line above it. Irrmischer, Aqil, Luan, Wang, Engelbregt, Carhart-Harris, Linkenkaer-Hansen & Timmermann, "DMT-Induced Shifts in Criticality Correlate with Self-Dissolution", *J. Neurosci.* 46(2):e0344252025 (2026; bioRxiv preprint `10.1101/2025.02.08.636868`, Feb 2025), reports the opposite: DMT "shifts the dynamics of brain oscillations away from criticality in alpha and adjacent frequency bands", **toward subcritical regimes**, and in that context "entropy is increased while complexity is reduced". Entropy and criticality come apart rather than moving together. Note that this note's **source enumeration was correct** — the four criticality papers are listed separately, each with its own URL, under "Edge-of-chaos / near-critical electrodynamics during conscious states"; the defect is only the generalising Key Points bullet that flattens them into a single direction. (Related: the 2024 *eLife* cortical–thalamic paper listed alongside it reports 5-MeO-DMT moving dynamics the *other* way on a different measure, so no single direction covers the literature.) For the corrected treatment see [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/). The original text below is left intact as a dated snapshot.
 
 The Entropic Brain Hypothesis (EBH), introduced by Robin Carhart-Harris, David Nutt and colleagues (2014), proposes that the entropy of spontaneous brain activity indexes the richness/informational content of conscious states, within upper and lower bounds beyond which consciousness is lost. Normal waking consciousness sits just *below* criticality (a "sub-critical" regime that constrains experience and enables reality-testing/metacognition); psychedelics push the brain *toward* (or past) the critical point, raising entropy and producing richer, less constrained experience ("primary states"). The 2018 "revisited" update reframed the theory around brain criticality and proposed concrete entropy measures. In 2019 Carhart-Harris and Karl Friston folded EBH into the predictive-processing-based REBUS ("Relaxed Beliefs Under Psychedelics") / "anarchic brain" model. The hypothesis enjoys real but contested empirical support; key concerns are about the reliability of entropy measures (esp. Lempel–Ziv complexity), conceptual ambiguity in "entropy," and falsifiability of the predictive-processing extension.
 
