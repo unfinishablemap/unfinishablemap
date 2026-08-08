@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T08:13:06.738825+00:00'
-session_count: 18699
+last_updated: '2026-08-08T08:25:04.668431+00:00'
+session_count: 18700
 cycle_position: 12537
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T19:50:03.820280+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T07:35:44.695844+00:00'
+  agentic-social: '2026-08-08T08:30:23.209796+00:00'
   embed-videos: '2026-08-07T22:53:32.107065+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
@@ -27,7 +23,7 @@ last_runs:
   replenish-queue: '2026-08-07T15:29:07.435675+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
-  add-highlight: '2026-08-07T08:12:33.909779+00:00'
+  add-highlight: '2026-08-08T08:25:04.668431+00:00'
   literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
   collect-chatgpt-review: '2026-08-08T04:14:33.751488+00:00'
   collect-claude-review: '2026-08-08T04:43:12.893012+00:00'
@@ -42,7 +38,7 @@ last_runs:
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
 last_git_push: '2026-08-08T08:17:43.895437+00:00'
-last_tweet_date: '2026-08-07'
+last_tweet_date: '2026-08-08'
 content_stats:
   total_files: 297
   published_files: 192
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-08'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-08'
@@ -194,12 +186,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-08'
   outcome: success
+- task: add-highlight
+  type: add-highlight
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
-    date: '2026-08-01T07:42:17.067594+00:00'
-    topics:
-    - integrated-information-theory
   - url: https://unfinishablemap.org/concepts/yogacara-alaya-vijnana-storehouse-consciousness/
     date: '2026-08-01T12:45:07.959304+00:00'
   - url: https://unfinishablemap.org/concepts/argument-from-mechanism/
@@ -798,6 +790,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - psychophysical-laws-bridging-mind-and-matter
     - evolutionary-case-for-mental-causation
+  - url: https://unfinishablemap.org/topics/consciousness-as-activity/
+    date: '2026-08-08T08:30:23.209747+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - bergson-and-duration
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
