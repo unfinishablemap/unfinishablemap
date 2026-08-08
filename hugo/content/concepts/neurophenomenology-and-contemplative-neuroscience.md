@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-31 13:28:57+00:00
+ai_modified: 2026-08-08 20:14:38+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 coalesced_from:
@@ -31,8 +31,8 @@ description: 'Varela''s method joins first-person phenomenology to neuroscience.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 03:19:17+00:00
-lastmod: 2026-07-31 13:28:57+00:00
+last_deep_review: 2026-08-08 20:14:38+00:00
+lastmod: 2026-08-08 20:14:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Applications span epilepsy anticipation, pain, creative insight, and mathematica
 
 Long-term meditators show altered brain function; the structural claims have not replicated:
 
-**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
+**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (systematic review of 25 MRI studies; activation-likelihood meta-analysis of 16, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis—biases the grey-matter review itself flagged. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
 
 **Functional connectivity**: Increased connectivity between [DMN](/concepts/default-mode-network/), salience network, and central executive network.[^bremer2022] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
 
@@ -85,7 +85,7 @@ The causal pathway matters: conscious intention → deliberate practice → neur
 
 ### Gamma Synchrony and Temporal Binding
 
-Long-term meditators show markedly increased gamma-band (25–42 Hz, Lutz's band) power and coherence across brain regions—even at baseline rest.[^lutz] The sample was eight practitioners against ten controls nearly thirty years younger—the same caution the structural literature receives above applies here. Contemplative traditions describe unification of experience during concentrated attention; gamma synchrony provides a neural mechanism for this binding.
+Long-term meditators self-induce high-amplitude gamma-band (25–42 Hz, Lutz's band) oscillations and phase-synchrony during practice, most marked over lateral frontoparietal electrodes; their gamma-to-slow-wave ratio already exceeds controls' at resting baseline over medial frontoparietal sites.[^lutz] The sample was eight practitioners against ten controls nearly thirty years younger—the same caution the structural literature receives above applies here. Contemplative traditions describe unification of experience during concentrated attention; gamma synchrony provides a neural mechanism for this binding.
 
 The temporal scale matters. Gamma cycles at that band span roughly 24–40 milliseconds—potentially the temporal grain of conscious moments. Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. If [attention serves as consciousness's interface with brain](/concepts/attention-as-interface/), gamma synchrony may be the physical signature of moment-to-moment [temporal binding](/concepts/temporal-consciousness/).
 
@@ -95,7 +95,7 @@ The [DMN](/concepts/default-mode-network/)—associated with mind-wandering, sel
 
 DMN reduction is the neural signature of a shift [witness-consciousness](/concepts/witness-consciousness/) traditions describe precisely: from discursive self-narrative to present-moment awareness.
 
-These correlates support multiple interpretations. The production hypothesis: neural changes directly generate phenomenology. The filter hypothesis: reduced DMN activity represents altered filtering parameters. Cessation (discussed below) is often read as favouring the filter view—consciousness continuing while neural activity reorganises. But the same move is available to production theorists, who can read cessation as the report-generating substrate going offline while other activity persists; the two accommodations are structurally identical. The wider altered-state record shows the same parity: the supportive cluster (jhana, cessation, unitive states) and the disruptive cluster (anaesthesia, slow-wave sleep, dementia) each admit parallel treatment under both framings—see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/). The cluster carries the evidential weight of one pattern, not five.
+These correlates support multiple interpretations. The production hypothesis: neural changes directly generate phenomenology. The filter hypothesis: reduced DMN activity represents altered filtering parameters. Cessation (discussed below) is often read as favouring the filter view—consciousness continuing while neural activity reorganises. But the same move is available to production theorists, who can read cessation as the report-generating substrate going offline while other activity persists; the two accommodations are structurally identical. The wider altered-state record shows the same parity—see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)—so the cluster carries the evidential weight of one pattern, not five.
 
 ### Attention Network Plasticity
 
@@ -129,7 +129,7 @@ Sceptics argue that [introspection](/concepts/introspection/) is fundamentally u
 
 Neurophenomenology responds:
 
-1. **Training matters**: Fox et al. (2012) tested meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity during body-scanning to objective psychophysical measures. Accuracy rose log-linearly with practice hours. This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable.
+1. **Experience tracks accuracy**: Fox et al. (2012) tested 38 meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity during body-scanning to objective psychophysical measures. Accuracy rose log-linearly with practice hours. The design was cross-sectional, so the caveat above applies here too: as Fox et al. note, persisters may have begun more accurate. This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is fixed.
 2. **Content, not process**: Contemplatives attend to phenomenal character—what jhana is like, how temporal flow presents itself—not to why they choose options.
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents structural convergence on self-dissolution, contentless awareness, and subject-object collapse across Buddhist, Hindu, Christian, Sufi, and Daoist practices.
 4. **Neural correspondence**: Lutz et al. (2004) recorded EEG while long-term practitioners self-induced compassion meditation. Their gamma-band ratio exceeded controls' at baseline and far more sharply during practice, and the gradual gamma rise matched practitioners' reports that entering the state takes five to fifteen seconds.[^lutz] This is correspondence, not prediction of specific signatures from specific reports.
@@ -153,7 +153,7 @@ The materialist responds that "content" just refers to neural structure, not add
 
 **The regress problem**: If phenomenal consciousness is illusion, the *seeming* to have it still demands explanation. Either this seeming involves phenomenal properties (relocating consciousness) or it does not (leaving unexplained why the non-phenomenal seeming convinces). Contemplative practice sharpens this: trained meditators report detailed, replicable structures—jhana progression, self-dissolution, cessation phenomenology—that converge across traditions. An illusion with such remarkable structure itself demands explanation.
 
-**What heterophenomenology owes an account of**: Dennett treats reports as data about "how things seem" without assuming phenomenality. The Fox result puts pressure on that framing: introspective *accuracy* is graded and trainable, so the reports have something to be accurate *about*. Heterophenomenology can answer that the target is the underlying sensory machinery, not phenomenal character, and the Map does not claim to refute the position on its own terms. It claims the answer is owed: the framework must say why a skill trained by attending to how experience *feels* should sharpen correspondence to a target unrelated to feeling.
+**What heterophenomenology owes an account of**: Dennett treats reports as data about "how things seem" without assuming phenomenality. The Fox result puts pressure on that framing: introspective *accuracy* is graded and tracks accumulated practice, so the reports have something to be accurate *about*. Heterophenomenology can answer that the target is the underlying sensory machinery, not phenomenal character, and the Map does not claim to refute the position on its own terms. It claims the answer is owed: the framework must say why a skill trained by attending to how experience *feels* should sharpen correspondence to a target unrelated to feeling.
 
 ### Connection to Stapp's Quantum Framework
 
@@ -189,11 +189,11 @@ For the irreducibility claim:
 7. **All meditation types produce identical changes** regardless of intended content
 8. **Externally inducing "meditation brain states" reliably produces the phenomenology**
 
-None demonstrated—but the falsifiers differ sharply in how much testing they have had. Falsifier 1 has been tested and not met: Fox et al. found robust training effects on introspective accuracy. Falsifier 2 has substantial cross-traditional convergence evidence. Falsifier 3 is *untested rather than passed*—no study has compared trained against untrained observers on prediction of their own neural signatures—so it stands as an open commitment. The remainder are open, with illusionist explanations still promissory.
+None demonstrated—but the falsifiers differ sharply in how much testing they have had. Falsifier 1 is *not tested by this evidence*: Fox et al.'s design was cross-sectional, so accumulated experience predicts accuracy without establishing that training causes it. Falsifier 2 has substantial cross-traditional convergence evidence. Falsifier 3 is *untested rather than passed*—no study has compared trained against untrained observers on prediction of their own neural signatures—so it too stands as an open commitment. The remainder are open, with illusionist explanations still promissory.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Jhana phenomenology and cessation have no third-person equivalents. Researchers cannot predict specific qualitative character from brain data alone. The mutual constraints framework shows phenomenology is not eliminable—if phenomenal consciousness reduced to neural processes, first-person training would not improve correlation with third-person measurements. The explanatory gap is structural, not a temporary limitation.
+**[Dualism](/tenets/#dualism)**: Jhana phenomenology and cessation have no third-person equivalents. Researchers cannot predict specific qualitative character from brain data alone. The mutual constraints framework shows phenomenology is not eliminable—if phenomenal consciousness reduced to neural processes, graded first-person skill would not track correlation with third-person measurements. The explanatory gap is structural, not a temporary limitation.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative neuroscience supplies some of the Map's most direct empirical evidence, though not paradigm evidence—the strongest version of the claim did not survive Kral et al. (2022). Conscious practice reshapes brain *function*; it has not been shown to reshape gross structure. Phenomenological content and quality track functional neural outcomes. The two [meditation modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy. Meditation exhibits the structure of [self-forming actions](/topics/free-will/): the meditator sustains attention against competing impulses, and through effort, functional neural organisation shifts.
 
