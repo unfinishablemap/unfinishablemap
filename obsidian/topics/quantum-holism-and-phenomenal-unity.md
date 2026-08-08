@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-08-02T11:34:43+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ This explains computational binding—how the brain correctly groups features. B
 
 #### Zero-Lag Gamma Synchrony
 
-[[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|Zero-lag gamma synchrony]]—precisely synchronised oscillations across distant cortical regions with less than 1 millisecond timing precision—is observed during conscious perception. Cortical regions 10 centimetres apart show zero-lag synchrony, yet direct neural transmission at this distance takes at least 5-10 milliseconds. Baum's Quantum Binding Argument (a 2024 PhilArchive preprint) reads this as decisive: real zero-lag synchrony across distances forbidding classical signalling would either violate relativity or invoke quantum non-locality. But its central premise—that classical mechanisms cannot achieve zero-lag—is contested by the peer-reviewed classical literature: dynamical relaying through a shared relay hub (Vicente et al. 2008) reproduces zero-lag synchrony across long conduction delays with no quantum resource. The temporal synchrony, then, is classically explicable. What resists classical explanation is a separate and weaker claim—phenomenal unity: why bound features are lived as *one* experience rather than merely coordinated in time. Any appeal to non-classical physics belongs there.
+[[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|Zero-lag gamma synchrony]]—precisely synchronised oscillations across distant cortical regions without measurable time lag—is observed during conscious perception. Cortical regions 10 centimetres apart show zero-lag synchrony, yet direct neural transmission at this distance takes at least 5-10 milliseconds. Baum's Quantum Binding Argument (a 2024 PhilArchive preprint) reads this as decisive: real zero-lag synchrony across distances forbidding classical signalling would either violate relativity or invoke quantum non-locality. The sub-millisecond precision the argument assumes is Baum's own figure, tighter than the experimental record supports. And the argument's central premise—that classical mechanisms cannot achieve zero-lag—is contested by the peer-reviewed classical literature: dynamical relaying through a shared relay hub (Vicente et al. 2008) reproduces zero-lag synchrony across long conduction delays with no quantum resource. The temporal synchrony, then, is classically explicable. What resists classical explanation is a separate and weaker claim—phenomenal unity: why bound features are lived as *one* experience rather than merely coordinated in time. Any appeal to non-classical physics belongs there.
 
 ### Information Integration
 

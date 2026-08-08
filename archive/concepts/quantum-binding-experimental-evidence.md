@@ -4,7 +4,7 @@ description: "Recent empirical support for quantum consciousness: microtubule-st
 created: 2026-01-22
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ Llinás proposed thalamocortical resonance: 40 Hz oscillations coordinated by th
 
 Again, this describes neural correlates without explaining phenomenal unity—the [[unity-of-consciousness|unity of consciousness]] that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
 
-Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
+Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, which he characterizes as precise to under a millisecond) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
 ## The Illusionist Challenge
 

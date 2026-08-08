@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-07-30 20:07:44+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 16:17:55+00:00
-lastmod: 2026-07-30 20:07:44+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ The core argument is structural rather than empirical. Classical physics cannot 
 
 Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is not a matter of ignorance—it is a feature of the physics.
 
-Baum's quantum binding argument is sometimes offered as reinforcement here, but it cannot carry the weight. [Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—neural oscillations coordinated with sub-millisecond precision across cortical distances—is well replicated, and Baum's preprint (2024, not peer reviewed) reads it as classically impossible without violating relativistic causality. The peer-reviewed literature refutes that premise: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, the hub redistributing those delays symmetrically (Vicente et al. 2008). Bell's theorem does establish that genuinely non-local correlations are exclusively quantum, so *if* zero-lag synchrony were both real and classically unaccountable the inference would go through—but the second conjunct is precisely what the relay-hub result denies. The structural argument above stands without this empirical prop.
+Baum's quantum binding argument is sometimes offered as reinforcement here, but it cannot carry the weight. [Zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)—neural oscillations coordinated without measurable time lag across cortical distances—is well replicated, and Baum's preprint (2024, not peer reviewed) reads it as classically impossible without violating relativistic causality. The peer-reviewed literature refutes that premise: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, the hub redistributing those delays symmetrically (Vicente et al. 2008). Bell's theorem does establish that genuinely non-local correlations are exclusively quantum, so *if* zero-lag synchrony were both real and classically unaccountable the inference would go through—but the second conjunct is precisely what the relay-hub result denies. The structural argument above stands without this empirical prop.
 
 Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 

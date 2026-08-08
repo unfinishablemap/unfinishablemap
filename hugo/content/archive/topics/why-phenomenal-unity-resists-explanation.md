@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-07 21:31:00+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 07:01:00+00:00
-lastmod: 2026-08-07 21:31:00+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 original_path: /topics/why-phenomenal-unity-resists-explanation/
 related_articles:
@@ -67,7 +67,7 @@ The synchrony theorist might respond that consciousness just *is* synchronised n
 
 ### Zero-Lag Gamma Synchrony
 
-Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely synchronised oscillations across distant cortical regions with less than 1 millisecond timing precision—is observed during conscious perception. The technical details matter:
+Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely synchronised oscillations across distant cortical regions without measurable time lag—is observed during conscious perception. The technical details matter:
 
 - Cortical regions 10 centimetres apart show zero-lag synchrony
 - Neural signal transmission at this distance takes at least 5-10 milliseconds

@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-08-07T10:55:50+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ A critical distinction: some mechanisms require sustained superposition (Orch OR
 
 The [[binding-problem|binding problem]] asks how distributed brain processes combine into unified consciousness. Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024), in a non-peer-reviewed preprint, argues that [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|zero-lag gamma synchrony]] (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The peer-reviewed literature refutes that premise rather than merely doubting it: two distant populations reciprocally coupled to a shared relay hub lock into zero-lag synchrony despite conduction delays of tens of milliseconds, with cortico-thalamo-cortical loops a candidate substrate (Vicente et al. 2008). The synchrony therefore does not evidence quantum binding; what stays open is the narrower question of phenomenal unity.
+Baum (2024), in a non-peer-reviewed preprint, argues that [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|zero-lag gamma synchrony]] (40-100 Hz, which he characterises as precise to under a millisecond) cannot arise classically without violating relativistic causality. The peer-reviewed literature refutes that premise rather than merely doubting it: two distant populations reciprocally coupled to a shared relay hub lock into zero-lag synchrony despite conduction delays of tens of milliseconds, with cortico-thalamo-cortical loops a candidate substrate (Vicente et al. 2008). The synchrony therefore does not evidence quantum binding; what stays open is the narrower question of phenomenal unity.
 
 ## Experimental Convergence
 

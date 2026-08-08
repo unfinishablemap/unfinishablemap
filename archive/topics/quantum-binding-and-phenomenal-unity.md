@@ -4,7 +4,7 @@ description: "Quantum entanglement provides the only physical substrate structur
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-08-05T19:38:56+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-25T00:30:00+00:00
@@ -105,7 +105,7 @@ Warren (2023) challenged the interpretation on methodological grounds, questioni
 
 Baum's Quantum Binding Argument provides a technical case that classical frameworks literally cannot explain observed neural binding:
 
-Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, with less than 1 millisecond timing precision—is observed during conscious perception. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. The required coordination exceeds what local interactions plus finite signal speed can produce.
+Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, without measurable time lag—is observed during conscious perception. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. The required coordination exceeds what local interactions plus finite signal speed can produce.
 
 Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. If Baum's analysis is correct, the neural binding associated with conscious perception already involves quantum effects—classical mechanisms cannot produce the observed data.
 

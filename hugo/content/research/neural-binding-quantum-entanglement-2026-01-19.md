@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,6 +41,8 @@ topics:
 - "quantum vs classical binding consciousness neural synchrony experimental test distinguish"
 
 ## Executive Summary
+
+> **Correction (2026-08-08)**: The Baum entry below (the "Quantum Binding Argument" source block) records zero-lag gamma synchrony as "40-100Hz, <1ms precision". **That sub-millisecond figure is Baum's own, not an experimental finding.** Shadlen & Movshon (1999, *Neuron* 24(1):67–77) state that "cortical neurons probably lack the biophysical mechanisms needed for precise coincidence detection at a millisecond time scale" and that "reports of cortical activity with synchrony this precise are rare; experimental reports describe 'synchronous' spikes in a somewhat broader window of 10–20 ms (e.g., Gray et al., 1989)." What the experimental record does support is synchrony *without measurable time lag* (Roelfsema et al. 1997) — the wording the Map now uses corpus-wide in place of the sub-millisecond figure. Baum's central premise, that classical mechanisms cannot achieve zero-lag at all, is separately refuted by the relay-hub result of Vicente et al. (2008); see [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/) for the calibrated assessment. **What remains sound in this note**: the phenomenon of long-range zero-lag gamma synchrony is real and well replicated; the Bell's-theorem material is accurate; and the other sources surveyed here — Kerskens & López Pérez, the epothilone B anaesthesia study, Tegmark and the decoherence-time responses, Llinás, the SEP unity entry, and the twin study — are untouched by this correction. The original text below is left intact as a dated snapshot.
 
 This research examines the neural binding problem—how distributed brain processes combine into unified consciousness—and whether quantum entanglement provides a superior explanation to classical mechanisms like gamma synchrony. Recent 2024-2025 experimental evidence significantly strengthens the quantum case: (1) microtubule-stabilizing drugs delay anesthesia onset in rats, supporting microtubules as consciousness substrate; (2) MRI studies detect entanglement signatures correlating with consciousness and working memory; (3) quantum effects survive longer in microtubules than Tegmark's decoherence calculations suggested (eight to nine orders of magnitude longer). Classical binding theories (gamma synchrony, thalamocortical loops) explain correlation of features but cannot explain why coordination *feels* unified. Quantum entanglement uniquely provides ontological holism—the whole is prior to parts—matching phenomenal unity's structure.
 

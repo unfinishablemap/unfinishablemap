@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-31 03:33:32+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: 'Coalesced into Quantum Coherence and Binding: Evidence'
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-08 20:44:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 original_path: /concepts/quantum-binding-experimental-evidence/
 related_articles:
@@ -93,7 +93,7 @@ Llinás proposed thalamocortical resonance: 40 Hz oscillations coordinated by th
 
 Again, this describes neural correlates without explaining phenomenal unity—the [unity of consciousness](/concepts/unity-of-consciousness/) that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
 
-Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
+Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, which he characterizes as precise to under a millisecond) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
 ## The Illusionist Challenge
 

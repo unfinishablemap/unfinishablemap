@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-08-05T19:38:56+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ The [[binding-problem|binding problem]] asks how distributed brain processes com
 
 Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallises the structural problem: classical mechanisms coordinate information without producing ontological unity.
+Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, which he characterises as precise to under a millisecond) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallises the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
 ## Experimental Convergence
 

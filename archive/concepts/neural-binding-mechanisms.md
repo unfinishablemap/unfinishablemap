@@ -4,7 +4,7 @@ description: "Classical neural binding (gamma synchrony, thalamocortical loops) 
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-07-31T03:33:32+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-11T02:19:00+00:00
@@ -74,11 +74,11 @@ These approaches redefine binding as information availability or integration. Bu
 
 Baum's Quantum Binding Argument identifies a specific empirical problem for classical accounts: zero-lag gamma synchrony.
 
-During conscious perception, gamma oscillations across distant cortical regions (separated by ~10 cm) synchronize with less than 1 millisecond precision. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality.
+During conscious perception, gamma oscillations across distant cortical regions (separated by ~10 cm) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality.
 
 Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. If Baum's analysis holds, the neural coordination associated with conscious binding already requires quantum effects—classical mechanisms cannot produce the observed synchronization.
 
-**Responses and caveats:** Some propose thalamic pacemakers as a classical explanation—the thalamus could entrain distant regions to a common rhythm. This addresses some zero-lag cases, but entrainment typically produces *near*-zero lag (within a few milliseconds) rather than the sub-millisecond precision observed in gamma binding. The argument remains under debate and awaits peer-reviewed verification.
+**Responses and caveats:** Some propose thalamic pacemakers as a classical explanation—the thalamus could entrain distant regions to a common rhythm. This addresses some zero-lag cases, but entrainment typically produces *near*-zero lag (within a few milliseconds) rather than the sub-millisecond precision Baum's argument requires—a precision tighter than the experimental record supports, since reports of synchrony describe a broader 10-20 ms window (Shadlen & Movshon 1999). The argument remains under debate and awaits peer-reviewed verification.
 
 ## Why Classical Mechanisms Fail at BP2
 

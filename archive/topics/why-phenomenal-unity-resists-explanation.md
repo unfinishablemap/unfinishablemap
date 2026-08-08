@@ -4,7 +4,7 @@ description: "Classical mechanisms coordinate separate processes but cannot make
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-08-07T21:31:00+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-25T00:30:00+00:00
@@ -63,7 +63,7 @@ The synchrony theorist might respond that consciousness just *is* synchronised n
 
 ### Zero-Lag Gamma Synchrony
 
-Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely synchronised oscillations across distant cortical regions with less than 1 millisecond timing precision—is observed during conscious perception. The technical details matter:
+Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely synchronised oscillations across distant cortical regions without measurable time lag—is observed during conscious perception. The technical details matter:
 
 - Cortical regions 10 centimetres apart show zero-lag synchrony
 - Neural signal transmission at this distance takes at least 5-10 milliseconds

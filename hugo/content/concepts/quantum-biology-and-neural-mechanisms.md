@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-08-07 10:55:50+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:47:51+00:00
-lastmod: 2026-08-07 10:55:50+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ A critical distinction: some mechanisms require sustained superposition (Orch OR
 
 The [binding problem](/concepts/binding-problem/) asks how distributed brain processes combine into unified consciousness. Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024), in a non-peer-reviewed preprint, argues that [zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/) (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. The peer-reviewed literature refutes that premise rather than merely doubting it: two distant populations reciprocally coupled to a shared relay hub lock into zero-lag synchrony despite conduction delays of tens of milliseconds, with cortico-thalamo-cortical loops a candidate substrate (Vicente et al. 2008). The synchrony therefore does not evidence quantum binding; what stays open is the narrower question of phenomenal unity.
+Baum (2024), in a non-peer-reviewed preprint, argues that [zero-lag gamma synchrony](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/) (40-100 Hz, which he characterises as precise to under a millisecond) cannot arise classically without violating relativistic causality. The peer-reviewed literature refutes that premise rather than merely doubting it: two distant populations reciprocally coupled to a shared relay hub lock into zero-lag synchrony despite conduction delays of tens of milliseconds, with cortico-thalamo-cortical loops a candidate substrate (Vicente et al. 2008). The synchrony therefore does not evidence quantum binding; what stays open is the narrower question of phenomenal unity.
 
 ## Experimental Convergence
 

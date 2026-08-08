@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-07-30T20:09:12+00:00
+ai_modified: 2026-08-08T21:57:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-29T01:51:00+00:00
@@ -83,7 +83,7 @@ For the full philosophical argument that this failure is in principle, not merel
 
 ### The Zero-Lag Synchrony Problem
 
-Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision observed. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
+Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision Baum's argument requires—a figure of his own, tighter than the experimental record supports. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
 
 ## The Quantum Alternative
 

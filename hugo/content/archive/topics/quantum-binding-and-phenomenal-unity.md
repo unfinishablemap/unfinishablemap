@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-05 19:38:56+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-27 19:15:41+00:00
-lastmod: 2026-08-05 19:38:56+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 original_path: /topics/quantum-binding-and-phenomenal-unity/
 related_articles:
@@ -109,7 +109,7 @@ Warren (2023) challenged the interpretation on methodological grounds, questioni
 
 Baum's Quantum Binding Argument provides a technical case that classical frameworks literally cannot explain observed neural binding:
 
-Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, with less than 1 millisecond timing precision—is observed during conscious perception. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. The required coordination exceeds what local interactions plus finite signal speed can produce.
+Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, without measurable time lag—is observed during conscious perception. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. The required coordination exceeds what local interactions plus finite signal speed can produce.
 
 Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. If Baum's analysis is correct, the neural binding associated with conscious perception already involves quantum effects—classical mechanisms cannot produce the observed data.
 

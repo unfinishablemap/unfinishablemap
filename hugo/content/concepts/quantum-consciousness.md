@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-08 09:15:00+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-08-08 09:15:00+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -148,7 +148,7 @@ The [binding problem](/concepts/binding-problem/) has two components: BP1 asks h
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: experience comes unified rather than assembled from separate quale-atoms.
 
-**Empirical support**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [the calibrated assessment](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/). Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
+**Empirical support**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [the calibrated assessment](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/). Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
 ## The Illusionist Challenge
 

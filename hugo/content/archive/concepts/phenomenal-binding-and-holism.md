@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-07-30 20:09:12+00:00
+ai_modified: 2026-08-08 21:57:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Binding Problem
 archived: true
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-16 14:18:00+00:00
-lastmod: 2026-07-30 20:09:12+00:00
+lastmod: 2026-08-08 21:57:00+00:00
 modified: *id001
 original_path: /concepts/phenomenal-binding-and-holism/
 related_articles:
@@ -87,7 +87,7 @@ For the full philosophical argument that this failure is in principle, not merel
 
 ### The Zero-Lag Synchrony Problem
 
-Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision observed. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
+Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision Baum's argument requires—a figure of his own, tighter than the experimental record supports. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
 
 ## The Quantum Alternative
 
