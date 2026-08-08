@@ -5,6 +5,28 @@ ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 11:00 UTC - deep-review (8th pass; content lens finds 4 defects under a clean 7-pass metadata ledger)
+
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Word count**: 2593 → 2720 (+127; soft threshold 3000, not length-constrained)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-08-08-phenomenology-of-imagination]]
+- **Lens discipline**: the prior seven passes ran the publisher-of-record **metadata** ledger, which by 2026-06-27 had certified all nine references real-correct. This pass ran **empirical-claim fidelity** and **citation framing** — asking what each source *says*, not whether it exists. Four defects surfaced, one of which the 2026-06-27 ledger had **explicitly certified as correct**. A "changed-since-review" pass would have no-opped: the entire 42-day delta was 6 lines of frontmatter.
+- **Defect 1 — Zeman 2024 is single-authored.** Crossref + OpenAlex both give sole author Adam Zeman (*TiCS* 28(5):467–480, DOI 10.1016/j.tics.2024.02.007). The article carried `Zeman et al.`; the previous ledger asserted *"'et al.' faithful (multi-author review)"* — a false ratification. Fixed inline and in References, with volume/pages added.
+- **Defect 2 — Zeman cited for the converse of his finding.** Article: aphantasics *"though some retain imagery in other sensory modalities."* Zeman's abstract: aphantasia *"often affects imagery across several sense modalities."* His actual preservation result is about **dreaming** (*"Visual dreaming often is preserved"*), which the article appears to have collapsed into a cross-modal-preservation claim. Rewritten to state what he reports.
+- **Defect 3 — Kind 2013 credited with an anachronistic range.** The article sourced a range *"from hyperphantasics … to aphantasics"* to Kind's 2013 *Erkenntnis* paper. **"Aphantasia" was coined in 2015** (Zeman, Dewar & Della Sala, *Cortex* 73:378–380, verified at Crossref; Zeman's own 2024 abstract calls it a *"recent coinage"*). Kind is now cited only for the contested question her title names; the empirical range is anchored on Zeman (2024) with his published figures (~3% hyperphantasia, ~1% aphantasia).
+- **Defect 4 — Walton's *quasi-emotions* mis-glossed, and the rebuttal aimed at the strawman.** The article called them *"make-believe states"* and rebutted *"the resulting anxiety is not make-believe"* — something Walton **already grants**. Verified at IEP: the quasi-emotion is a **real** felt state; what is make-believe is that it *is fear*. Gloss corrected and the objection re-aimed at the contrast that bites — Walton needs an external **prop** and a **game of make-believe** to fix the fictional truths, and self-generated imagination has neither. Engagement upgraded from boundary-substitution-by-misreading to **Mode One**.
+- **Medium**: Husserl (2005) was an **orphan reference** (in References, never cited inline) — same §2.4-step-5 class the 2026-06-27 pass fixed for Gendler and missed here; now anchored inline. Kosslyn (1994) was bundled under predictive-processing vocabulary by a shared predicate; conjuncts separated.
+- **Cleared by this pass (real findings)**: **Hume "the faint images"** verified **verbatim at primary text** (Gutenberg *Treatise* I.I.I: *"By ideas I mean the faint images of these in thinking and reasoning"*). **Kay, Keogh & Pearson 2024** paraphrase faithful (OpenAlex abstract confirms analytic vs object-based strategies, *"slower, but more accurate"*); volume/pages added. **Gendler 2000** asymmetry faithful (SEP). **Radford & Weston 1975** correctly hedged. The driver's flagged **Kosslyn-recruited-for-a-Pylyshyn-claim risk did not materialise**.
+- **Family resolution (§2.4 step 6)**: the `Zeman, A. et al. (2024)` error was **not confined to this article** — corpus sweep including `archive/` found two further live loci, both fixed: `archive/topics/mental-imagery-causal-role-of-consciousness.md` L145 and `archive/concepts/mental-imagery.md` L144. Their body claims were checked against Zeman's abstract and are faithful; only the footnote authorship was wrong. **Correctly left alone**: `Zeman et al. 2015` and `2010` cites elsewhere in the corpus are genuinely multi-author. The fix discriminates by paper, not by surname.
+- **Could not verify (stated as failure to find)**: **Kind's thesis direction** — PhilPapers `/rec/` and `/archive/` 403 to WebFetch and to curl with a browser UA, Springer redirects to an auth gate, OpenAlex and Semantic Scholar both report the abstract elided, SEP's *Imagination* entry cites her other work. The correction was written to be **safe under either reading**. Also unreached: *Ideas I* §111 primary text (archive.org 404) and the MIT Press Kosslyn page (403) — the replacement Kosslyn wording was chosen so it does not depend on the unreached page.
+- **Quoted-span count correction**: the brief expected 33 quoted spans of 15+ chars. Stripping frontmatter first, the body has **4** quoted spans of 8+ chars, 3 of them ≥15, and only **one** is a source quotation (Hume). The 33 counted frontmatter wikilinks — the known "strip frontmatter first" lens error.
+- **Held**: `ai_system` unchanged at `claude-opus-4-7` — corrections are not re-authorship. `ai_contribution` unchanged at 100. The re-framed `description:` from 10:15 UTC was **not** reverted.
+- **Both trees**: synced.
+
 ## 2026-08-08 10:38 UTC - refine-draft (blurb re-frame: attribution stripped from a clause the body's own next sentence attributes)
 
 - **Status**: Success

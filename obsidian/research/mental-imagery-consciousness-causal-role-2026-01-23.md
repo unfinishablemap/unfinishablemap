@@ -254,4 +254,4 @@ The phenomenology of effortful voluntary visualization parallels the phenomenolo
 - Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
 - Stanford Encyclopedia of Philosophy. Imagination. https://plato.stanford.edu/entries/imagination/
 - Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. https://www.researchgate.net/publication/348848303
-- Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+- Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2

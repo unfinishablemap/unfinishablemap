@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-23
-date: '2026-06-05'
+date: '2026-08-08'
 draft: false
-lastmod: 2026-06-05 00:00:00+00:00
+lastmod: 2026-08-08 00:00:00+00:00
 related_articles: []
 target_section: concepts
 title: Research Notes - Mental Imagery and Consciousness's Causal Role
@@ -258,4 +258,4 @@ The phenomenology of effortful voluntary visualization parallels the phenomenolo
 - Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
 - Stanford Encyclopedia of Philosophy. Imagination. https://plato.stanford.edu/entries/imagination/
 - Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. https://www.researchgate.net/publication/348848303
-- Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+- Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2

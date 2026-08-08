@@ -147,7 +147,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly to
 
 [^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Research Ideas and Outcomes*, 5, e38775.
 
-[^zeman]: Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
+[^zeman]: Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*, 28(5), 467–480.
 
 [^nanay]: Nanay, B. (2020). Unconscious mental imagery. *Philosophical Transactions of the Royal Society B*, 376(1817).
 

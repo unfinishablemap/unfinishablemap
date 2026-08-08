@@ -141,7 +141,7 @@ The attention-imagery interface connects to the Map's broader framework. [[atten
 
 [^nanay]: Nanay, B. (2020). Unconscious mental imagery. *Philosophical Transactions of the Royal Society B*, 376(1817).
 
-[^zeman]: Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
+[^zeman]: Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*, 28(5), 467–480.
 
 [^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory.
 
