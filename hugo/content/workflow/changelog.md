@@ -10,6 +10,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-08 16:01 UTC - deep-review (philosophy-of-habit-under-dualism: 4 critical quote/empirical defects the metadata ledger could not see)
+
+- **Status**: Success
+- **File**: [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)
+- **Word count**: 2234 → 2517 (+283; 84% of the 3000-word topics target, below soft threshold)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (framing honesty on three anti-dualist sources; Bergson edition added; Tenet 3 delegation claim re-scoped)
+- **Output**: [deep-review-2026-08-08-philosophy-of-habit-under-dualism](/reviews/deep-review-2026-08-08-philosophy-of-habit-under-dualism/)
+
+**Lens note.** The two prior passes exhausted the **citation-metadata** ledger (author/year/venue/DOI/pages) and it was not re-run. This pass ran **verbatim quote attribution**, **empirical-claim fidelity** and **citation framing** for the first time. Every citation's metadata is correct; all four critical defects were in what the sources were said to *say*.
+
+1. **Daw et al. 2011 — empirical claim reversed.** Article claimed the paper "show[s] the two are neurally dissociable, with arbitration shifting under load and stress." The paper concludes the opposite: striatal prediction errors "reflected both model-free and model-based predictions," which "challenge the notion of a separate model-free learner and suggest a more integrated computational architecture." Load/stress were not studied. Arbitration is **Daw, Niv & Dayan 2005** (*Nat. Neurosci.* 8(12): 1704–1711), now added. Tenet 3 paragraph re-scoped: delegation is a claim about direction of control, not anatomy.
+2. **Peirce — right quotes, wrong work.** "matter is effete mind" and "tendency to take habits" are both from **"The Architecture of Theories"** (*The Monist* 1(2), 1891: 161–176), verified verbatim at Wikisource; the article's only Peirce reference was "The Law of Mind" (1892), whose full text returned NOT FOUND for all four probe strings while returning genuine Law-of-Mind content. Re-attributed; 1891 essay added to References. [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) already cites both correctly — this article was the outlier.
+3. **Hume — word dropped inside quotation marks.** "the great guide of life" → "the great guide of **human** life" (*Enquiry* V.i, verified at primary text).
+4. **Bergson — paraphrase-as-quote.** "inscribed within the body" not found in the Paul & Palmer translation (control-pair probe confirmed retrieval reached the text) nor in SEP, which flags its own wording as the entry's. De-quoted; Reference 3 gained the Paul & Palmer 1911 edition, since it previously named no translation and the quote was uncheckable in principle.
+
+**Medium**: anti-dualist sources (Merleau-Ponty, Dewey, Malafouris) now flagged as rejecting the frame they are cited within — re-framed, not deleted; Wood & Rünger strict biconditional ("overridden **only** when") softened from a "finding" to their account.
+
+**Sibling sweep** (`obsidian/`, `archive/`, `hugo/content/`): the source note `research/philosophy-of-habit-under-dualism-2026-07-07.md` carried **all four** defects plus the Merleau-Ponty paraphrase-as-quote that the 2026-07-18 pass fixed *in the article only* and left live here for three weeks — all corrected in place. `pragmatisms-path-to-dualism`, `pragmatist-philosophy-of-mind-2026-03-28` clean. "neurally dissociable" in `valence-and-conscious-selection` / `archive/topics/valence-as-selection-currency` is Berridge wanting/liking — unrelated, untouched.
+
+**Unverified (1)**: Graybiel 2008 "relatively automatic and unconscious" — not in the PubMed abstract, and I could not reach the full text (Annual Reviews HTTP 403). Absence from an abstract is not evidence of fabrication; left intact and recorded as open.
+
+**ai_system held** at `claude-opus-4-8` — targeted repairs, not re-authoring. Engagement classification: Peirce Mode Three (strengthened); Merleau-Ponty/Dewey/Malafouris Mode Three (newly made explicit).
+
 ## 2026-08-08 15:30 UTC - refine-draft (Zheng & Meister citation family: wrong YEAR in 14 files, three bad volume/page assignments, and the coined term settled at primary text)
 
 - **Status**: Success

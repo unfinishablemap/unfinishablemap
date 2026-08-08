@@ -1,6 +1,7 @@
 ---
 title: Research Notes - Philosophy of Habit Under Dualism
 created: 2026-07-07
+ai_modified: 2026-08-08T16:01:33+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
@@ -54,7 +55,7 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **URL**: https://www.cambridge.org/core/books/merleaupontys-phenomenology-of-perception/
 - **Type**: Book
 - **Key points**:
-  - Habit is acquired by the **body schema**, a pre-conscious, implicit map of bodily capacity — "to have a habit is to have a world" ready-to-hand.
+  - Habit is acquired by the **body schema**, a pre-conscious, implicit map of bodily capacity — to have a habit is to have a world ready-to-hand. (Not a verbatim Merleau-Ponty quotation but a scholarly compression; de-quoted in the article on 2026-07-18.)
   - Habit is not intellectual knowledge nor mechanical reflex but a **motor intentionality**: the body "understands" and "aims at" the world. Consciousness is primarily "I can," not "I think."
   - The organist who masters a new organ, the blind man's cane that becomes an extension of the body — habit *dilates our being in the world* by incorporating instruments into the schema (direct bridge to Malafouris).
   - The **Schneider case** (brain-injured soldier) shows what is lost when motor intentionality is damaged: concrete habitual action survives while abstract/novel movement fails — a natural experiment separating the automatic from the deliberate.
@@ -92,7 +93,7 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **URL**: https://en.wikipedia.org/wiki/Matter_and_Memory
 - **Type**: Book
 - **Key points**:
-  - Two irreducible kinds of memory: **habit-memory** (motor, embodied, built by repetition, oriented to present action, "inscribed within the body") and **pure/recollection memory** (representational, virtual, "spiritual," free, preserving the past *as* past).
+  - Two irreducible kinds of memory: **habit-memory** (motor, embodied, built by repetition, oriented to present action, lodged in the body's sensorimotor mechanisms — note: "inscribed within the body" is commentators' phrasing, not verbatim Bergson; not found in the Paul & Palmer translation) and **pure/recollection memory** (representational, virtual, "spiritual," free, preserving the past *as* past).
   - Habit-memory "acts" the past rather than representing it; it is utilitarian and automatic. Confusing the two produces philosophical error.
 - **Tenet alignment**: Compatible with **Tenet 1** — Bergson explicitly keeps a non-material, non-bodily memory alongside the embodied habit-memory, resisting reduction. The Map can adopt the *distinction* (bodily automatic vs. free/attentive) while being cautious about Bergson's fuller metaphysics of duration.
 
@@ -101,16 +102,16 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **Type**: Journal essays / SEP overview
 - **Key points**:
   - Habit is the master concept unifying Peirce's system: belief *is* a habit of action; laws of nature are cosmic habits.
-  - **Tychism** (absolute chance) plus **habit-taking**: the universe evolves from chance toward regularity as mind's "tendency to take habits" hardens spontaneity into law.
+  - **Tychism** (absolute chance) plus **habit-taking**: the universe evolves from chance toward regularity as the "tendency to take habits" hardens spontaneity into law. ⚠️ Citation note: this phrase is from **"The Architecture of Theories"** (*The Monist* 1, no. 2, 1891: 161–176), not "The Law of Mind" — "Chance is First, Law is Second, the tendency to take habits is Third."
   - "Habituescence" — occasional non-conformity is essential to habit-taking; a habit that could never be broken is not a living habit.
-- **Tenet alignment**: **Handle with care.** Peirce's habit-taking cosmology is genuinely interesting for **Tenet 2 (Minimal Quantum Interaction)** — a universe where regularity crystallizes out of chance resonates loosely with a picture in which consciousness biases otherwise-chancy quantum outcomes. But Peirce's panpsychist/objective-idealist framing ("matter is effete mind") is *not* the Map's dualism. Cite Peirce for the idea that habit is the general form of settled-tendency-out-of-spontaneity; flag the metaphysical divergence explicitly rather than borrowing his monism.
+- **Tenet alignment**: **Handle with care.** Peirce's habit-taking cosmology is genuinely interesting for **Tenet 2 (Minimal Quantum Interaction)** — a universe where regularity crystallizes out of chance resonates loosely with a picture in which consciousness biases otherwise-chancy quantum outcomes. But Peirce's panpsychist/objective-idealist framing is *not* the Map's dualism — "the one intelligible theory of the universe is that of objective idealism, that matter is effete mind, inveterate habits becoming physical laws" ("The Architecture of Theories," 1891; **not** "The Law of Mind"). Cite Peirce for the idea that habit is the general form of settled-tendency-out-of-spontaneity; flag the metaphysical divergence explicitly rather than borrowing his monism.
 
 ### Clare Carlisle, *On Habit* (Routledge, "Thinking in Action," 2014)
 - **URL**: https://www.routledge.com/ ; ISBN 978-0415619141
 - **Type**: Book (contemporary synthesis; Carlisle is Ravaisson's English translator)
 - **Key points**:
   - Habit involves both **receptivity and resistance to change** as basic principles of habit-formation — habit makes us plastic *and* rigid.
-  - The philosophy of habit "anticipates the discoveries of recent neuroscience" and carries **ethical** significance (Aristotle: excellence is a habit; Hume: habit is "the great guide of life"; Proust: "if habit is a second nature, it prevents us from knowing our first").
+  - The philosophy of habit "anticipates the discoveries of recent neuroscience" and carries **ethical** significance (Aristotle: excellence is a habit; Hume: custom is "the great guide of human life" (*Enquiry* V.i); Proust: "if habit is a second nature, it prevents us from knowing our first").
   - Contrasts Spinoza vs. Hume on whether habitual thinking is reliable knowledge.
 - **Tenet alignment**: Neutral/framing; the best single secondary source for structuring the article's history section and its ethical dimension.
 
@@ -119,7 +120,7 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **Type**: Peer-reviewed empirical paper
 - **Key points**:
   - Formalizes the habit/goal split as **model-free** (habitual; caches past action values, cheap, inflexible) vs. **model-based** (goal-directed; simulates consequences using a world-model, costly, flexible) reinforcement learning.
-  - Human behavior blends both, and the two are neurally dissociable; arbitration between them shifts with cognitive load, stress, and training.
+  - Human behavior blends both. ⚠️ Correction (2026-08-08): this note previously said the two are "neurally dissociable" with arbitration shifting under load and stress. That is **not** what this paper found — its headline result is the opposite: "Contrary to expectations, the signal reflected both model-free and model-based predictions in proportions matching those that best explained choice behavior," and the authors conclude the results "challenge the notion of a separate model-free learner and suggest a more integrated computational architecture." Uncertainty-based arbitration between prefrontal and dorsolateral striatal systems is **Daw, Niv & Dayan, *Nature Neuroscience* 8(12) (2005): 1704–1711**; load/stress effects on arbitration are later work again.
 - **Tenet alignment**: Empirical; gives a computational vocabulary for delegation (model-free = delegated procedure) vs. re-engagement (model-based = interface resumes deliberation). Use to sharpen the *cost* of re-engagement — deliberation is expensive, which is *why* the interface delegates.
 
 ## Major Positions
@@ -171,14 +172,15 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
 | c. 350 BCE | Aristotle, *Nicomachean Ethics* Bk II (*hexis*) | Habit as acquired disposition; excellence is a habit — the ethical root. |
-| 1739–40 | Hume, *Treatise* | Habit/custom as "the great guide of life"; basis of causal inference and belief. |
+| 1739–40 | Hume, *Treatise* | Custom as the basis of causal inference and belief. (The phrase "the great guide of human life" is from the 1748 *Enquiry*, V.i — not the *Treatise*.) |
 | 1838 | Ravaisson, *De l'habitude* | The double law; habit as descent of activity into nature; founds the modern philosophy of habit. |
 | 1892 | Peirce, "The Law of Mind" (*The Monist*) | Habit-taking cosmology; belief-as-habit; tychism. |
 | 1896 | Bergson, *Matter and Memory* | Habit-memory vs. pure recollection — two kinds of memory. |
 | 1922 | Dewey, *Human Nature and Conduct* | Habit as transactional, projective, revisable; key to conduct. |
 | 1945 | Merleau-Ponty, *Phenomenology of Perception* | Habit as motor intentionality / body schema; "to have a habit is to have a world." |
 | 2008 | Graybiel, "Habits, Rituals, and the Evaluative Brain" | Basal-ganglia chunking; neural signature of habit. |
-| 2011 | Daw et al., *Neuron* | Model-free vs. model-based RL formalization of habit vs. goal-directed control. |
+| 2005 | Daw, Niv & Dayan, *Nature Neuroscience* | Uncertainty-based competition between prefrontal (model-based) and dorsolateral striatal (model-free) systems. |
+| 2011 | Daw et al., *Neuron* | Model-free vs. model-based RL applied to human choice; striatal prediction errors reflect *both*, challenging a separate model-free learner. |
 | 2013 | Malafouris, *How Things Shape the Mind* | Material Engagement Theory — habit's traces are material, not only neural. |
 | 2014 | Carlisle, *On Habit* | Contemporary synthesis linking the philosophical tradition to neuroscience and ethics. |
 | 2016 | Wood & Rünger, "Psychology of Habit" | Cue-triggering, outcome-insensitivity, override conditions. |
@@ -209,6 +211,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the delegat
 - Aristotle. *Nicomachean Ethics*, Book II (on *hexis* / habit as disposition). c. 350 BCE.
 - Bergson, Henri. *Matter and Memory* (*Matière et mémoire*). 1896. (Habit-memory vs. pure memory.)
 - Carlisle, Clare. *On Habit*. Thinking in Action series. London: Routledge, 2014. ISBN 978-0415619141.
+- Daw, Nathaniel D., Yael Niv & Peter Dayan. "Uncertainty-Based Competition between Prefrontal and Dorsolateral Striatal Systems for Behavioral Control." *Nature Neuroscience* 8, no. 12 (2005): 1704–1711.
 - Daw, Nathaniel D., Samuel J. Gershman, Ben Seymour, Peter Dayan & Raymond J. Dolan. "Model-Based Influences on Humans' Choices and Striatal Prediction Errors." *Neuron* 69, no. 6 (2011): 1204–1215.
 - Dewey, John. *Human Nature and Conduct: An Introduction to Social Psychology*. New York: Henry Holt, 1922.
 - Graybiel, Ann M. "Habits, Rituals, and the Evaluative Brain." *Annual Review of Neuroscience* 31 (2008): 359–387.
@@ -216,6 +219,7 @@ When writing, follow `obsidian/project/writing-style.md`: front-load the delegat
 - Hume, David. *A Treatise of Human Nature*. 1739–40. (Custom/habit as guide of life.)
 - Malafouris, Lambros. *How Things Shape the Mind: A Theory of Material Engagement*. Cambridge, MA: MIT Press, 2013.
 - Merleau-Ponty, Maurice. *Phenomenology of Perception* (*Phénoménologie de la perception*). 1945.
+- Peirce, Charles Sanders. "The Architecture of Theories." *The Monist* 1, no. 2 (1891): 161–176. (Source of "matter is effete mind" and "the tendency to take habits.")
 - Peirce, Charles Sanders. "The Law of Mind." *The Monist* 2, no. 4 (1892): 533–559.
 - Ravaisson, Félix. *Of Habit* (*De l'habitude*, 1838). Trans. Clare Carlisle & Mark Sinclair. London: Continuum, 2008. ISBN 978-1847061980.
 - Wood, Wendy, & Dennis Rünger. "Psychology of Habit." *Annual Review of Psychology* 67 (2016): 289–314.

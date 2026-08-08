@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-08-08 02:52:54+00:00
+ai_modified: 2026-08-08 16:01:33+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: 'Habit is the interface''s delegation function: conscious selection
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 18:59:47+00:00
-lastmod: 2026-08-08 02:52:54+00:00
+last_deep_review: 2026-08-08 16:01:33+00:00
+lastmod: 2026-08-08 16:01:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,9 +45,9 @@ Crucially, Ravaisson reads this as a *descent*, not a break. The will's spontane
 
 Maurice Merleau-Ponty's *Phenomenology of Perception* (1945) locates habit in the **body schema**—a pre-conscious, implicit map of bodily capacity. For Merleau-Ponty, to have a habit is to have a world ready to hand—perceptual habit as the coming into possession of a world. Habit is neither intellectual knowledge nor mechanical reflex but a **motor intentionality**: the body "understands" and aims at the world. Consciousness, he insists, is primarily "I can," not "I think." The organist mastering a new instrument and the blind man whose cane becomes an extension of his body illustrate how habit dilates our being in the world by incorporating instruments into the schema—a direct bridge to the material argument developed below. The Schneider case (a brain-injured soldier in whom concrete habitual action survived while abstract, novel movement failed) offers a natural experiment separating the automatic from the deliberate.
 
-Henri Bergson's *Matter and Memory* (1896) sharpens the point by distinguishing two irreducible kinds of memory. **Habit-memory** is motor, built by repetition, oriented to present action, and "inscribed within the body"; it *acts* the past rather than representing it. **Pure recollection** preserves the past *as* past and is representational and free. Bergson holds that confusing the two produces philosophical error—and, notably, keeps a non-bodily memory alongside the embodied one rather than reducing mind to mechanism.
+Henri Bergson's *Matter and Memory* (1896) sharpens the point by distinguishing two irreducible kinds of memory. **Habit-memory** is motor, built by repetition, oriented to present action, and lodged in the body's sensorimotor mechanisms; it *acts* the past rather than representing it. **Pure recollection** preserves the past *as* past and is representational and free. Bergson holds that confusing the two produces philosophical error—and, notably, keeps a non-bodily memory alongside the embodied one rather than reducing mind to mechanism.
 
-The Map borrows Bergson's *distinction* (bodily automatic versus free and attentive) while remaining cautious about his fuller metaphysics of duration. The exposition here reports what these authors claim; it does not enlist them in the Map's dualism.
+The Map borrows Bergson's *distinction* (bodily automatic versus free and attentive) while remaining cautious about his fuller metaphysics of duration. The exposition here reports what these authors claim; it does not enlist them in the Map's dualism. That caution bears hardest on Merleau-Ponty, whose account of motor intentionality is constructed *as* a critique of the Cartesian division between mind and body: he is cited here for his description of the habitual body, not as an ally of the Map's substance dualism.
 
 ## Habit as Transaction: Dewey and Material Engagement
 
@@ -55,13 +55,13 @@ John Dewey's *Human Nature and Conduct* (1922) makes habit the organizing catego
 
 Lambros Malafouris's *How Things Shape the Mind* (2013) radicalizes the transactional insight through **Material Engagement Theory**. Cognition, Malafouris argues, arises *through* interaction with materials, tools, and environments, not solely inside the brain. The potter does not fully represent the pot in advance and impose it; the form emerges in the ongoing, habituated engagement of hand, wheel, and clay. Skill and habit are enacted at the **brain-body-thing** boundary, where the material scaffold is constitutive of the cognitive act rather than a mere external prop.
 
-Together, Dewey and Malafouris establish a claim the Map's own reading rests on: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
+Neither thinker is a dualist—Dewey's transactionalism is explicitly naturalistic, and Malafouris's material engagement is an anti-internalist cognitive science—so what the Map takes from them is their locational claim about where habit's traces live, not their account of what mind is. Together, Dewey and Malafouris establish a claim the Map's own reading rests on: habit's traces are not only neural but *material*. The worn tool, the shaped clay, the grooved path are physical residues of past conscious engagement that then constrain and enable future action.
 
 ## The Cognitive-Science Signature: Cue-Triggered and Outcome-Insensitive
 
 Contemporary cognitive science operationalizes what the philosophers described. Ann Graybiel's review "Habits, Rituals, and the Evaluative Brain" (*Annual Review of Neuroscience*, 2008) characterizes habits as chunked action sequences—motor or cognitive—elicited by a context or cue and become "relatively automatic and unconscious." Through **chunking**, basal-ganglia circuits bind sub-actions into a single unit run as a whole, with task-bracketing activity marking a routine's start and end. Habits form through experience-dependent plasticity and can outlast the goals that created them.
 
-Wendy Wood and Dennis Rünger's "Psychology of Habit" (*Annual Review of Psychology*, 2016) names the defining marker: habits are **outcome-insensitive**. As a behavior repeats in a stable context, the *cue*—not the goal—comes to trigger the response, so a well-learned response can fire even when it conflicts with current intentions. Habit and deliberate goal pursuit operate synergistically; habit is the efficient default, overridden only when motivation *and* the opportunity for deliberate control are both present. Nathaniel Daw and colleagues (*Neuron*, 2011) formalize the split as **model-free** control (habitual: cheap, inflexible, caches past action values) versus **model-based** control (goal-directed: costly, flexible, simulates consequences using a world-model), and show the two are neurally dissociable, with arbitration shifting under load and stress.
+Wendy Wood and Dennis Rünger's "Psychology of Habit" (*Annual Review of Psychology*, 2016) names the defining marker: habits are **outcome-insensitive**. As a behavior repeats in a stable context, the *cue*—not the goal—comes to trigger the response, so a well-learned response can fire even when it conflicts with current intentions. Habit and deliberate goal pursuit operate synergistically; habit is the efficient default, overridden only when motivation *and* the opportunity for deliberate control are both present. Nathaniel Daw and colleagues formalize the split as **model-free** control (habitual: cheap, inflexible, caches past action values) versus **model-based** control (goal-directed: costly, flexible, simulates consequences using a world-model); their 2005 paper with Yael Niv and Peter Dayan proposes that prefrontal and dorsolateral striatal systems compete for control, arbitrated by which is currently less uncertain. Their later fMRI study (*Neuron*, 2011) then complicates any clean anatomical separation: striatal prediction-error signals expected to be a pure model-free report turned out to reflect model-based valuations too, which the authors read as evidence for a more integrated architecture rather than two independent learners.
 
 These findings are empirical, not metaphysical. They supply the mechanism of the physical trace and an experimental signature of re-engagement without settling what consciousness is—a point the Map is careful to preserve.
 
@@ -73,19 +73,19 @@ The two overlap—Graybiel and Grafton titled a 2015 paper "The Striatum: Where 
 
 ## The Ethics of the Automatic
 
-Habit's valence is double. It enables: Aristotle grounds excellence in habit (*hexis*), Hume calls custom "the great guide of life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our first," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
+Habit's valence is double. It enables: Aristotle grounds excellence in habit (*hexis*), Hume calls custom "the great guide of human life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our first," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
 
 ## A Cosmological Aside: Peirce, Cited and Bounded
 
-Charles Sanders Peirce made habit the master concept of his system: belief *is* a habit of action, and in his "Law of Mind" (*The Monist*, 1892) the laws of nature are cosmic habits. His **tychism** (absolute chance) plus **habit-taking** pictures a universe evolving from spontaneity toward regularity as mind's "tendency to take habits" hardens chance into law—with occasional non-conformity essential, since a habit that could never be broken is not a living habit.
+Charles Sanders Peirce made habit the master concept of his system: belief *is* a habit of action, and across his *Monist* series—"The Architecture of Theories" (1891) and "The Law of Mind" (1892)—the laws of nature are themselves cosmic habits, "inveterate habits becoming physical laws." His **tychism** (absolute chance) plus **habit-taking** pictures a universe evolving from spontaneity toward regularity as the "tendency to take habits" hardens chance into law; the 1891 essay ranks the three as categories—"Chance is First, Law is Second, the tendency to take habits is Third." Occasional non-conformity remains essential, since a habit that could never be broken is not a living habit.
 
-The *form* of this idea—settled tendency crystallizing out of spontaneity—is genuinely suggestive, and it resonates loosely with the Map's picture of consciousness biasing otherwise-chancy outcomes. But Peirce's framing is panpsychist and objective-idealist ("matter is effete mind"), a monism the Map does not share. The Map cites the shape of habit-taking and explicitly declines the metaphysics.
+The *form* of this idea—settled tendency crystallizing out of spontaneity—is genuinely suggestive, and it resonates loosely with the Map's picture of consciousness biasing otherwise-chancy outcomes. But Peirce's framing is panpsychist and objective-idealist—"the one intelligible theory of the universe is that of objective idealism, that matter is effete mind" ("The Architecture of Theories," 1891)—a monism the Map does not share. The Map cites the shape of habit-taking and explicitly declines the metaphysics.
 
 ## Relation to Site Perspective
 
 The Map's five [tenets](/tenets/) frame habit primarily through **Tenet 3 (Bidirectional Interaction)** and secondarily through **Tenet 1 (Dualism)**.
 
-**Tenet 3 — the material trace.** The Map interprets habit as the delegation function running a loop *through the physical world*, not only through the brain. Conscious training deposits durable structural residue—in basal-ganglia circuits (Graybiel), yes, but also, following Malafouris and Dewey, in worn tools, shaped clay, and grooved paths—that keeps operating after attention has withdrawn and then conditions future action. This is precisely the interface writing into durable matter and reading its own inscriptions back: the bidirectional loop made concrete in the most ordinary phenomenon imaginable. Wood and Rünger's finding that a habit is overridden only when motivation *and* opportunity for deliberate control coincide is, on the Map's reading, an experimental signature of **re-engagement**—the interface resuming control when a novelty or salience threshold is crossed. Daw and colleagues sharpen the economics: model-based deliberation is expensive, which is *why* the interface delegates to cheap model-free procedure by default.
+**Tenet 3 — the material trace.** The Map interprets habit as the delegation function running a loop *through the physical world*, not only through the brain. Conscious training deposits durable structural residue—in basal-ganglia circuits (Graybiel), yes, but also, following Malafouris and Dewey, in worn tools, shaped clay, and grooved paths—that keeps operating after attention has withdrawn and then conditions future action. This is precisely the interface writing into durable matter and reading its own inscriptions back: the bidirectional loop made concrete in the most ordinary phenomenon imaginable. Wood and Rünger's account, on which overriding a habit typically requires both motivation and the opportunity for deliberate control, is, on the Map's reading, a signature of **re-engagement**—the interface resuming control when a novelty or salience threshold is crossed. Daw and colleagues sharpen the economics: model-based deliberation is expensive, which is *why* the interface delegates to cheap model-free procedure by default. Their 2011 integration result cuts the other way against any picture of two cleanly separate machines, and the Map's delegation reading should be understood as a claim about the *direction of control*, not about tidy anatomical boundaries.
 
 **Tenet 1 — the non-reductive asymmetry.** The Map speculates that Ravaisson's "descent" is the correct gloss on delegation: consciousness does not disappear from a habituated act but attenuates into an obscure tendency, so the automatic is a *lowered* form of the same activity rather than a different kind of thing. This reading may over-read a phenomenology that stays genuinely ambiguous: the cognitive-science evidence does not decide between Ravaisson's descent and a flat neural-origin story in which the tendency is simply what a well-worn circuit does, so the descent gloss is held as a live position calibrated to the Map's tenets rather than a finding the data compel. Taken on those terms, the reading preserves an asymmetry the Map needs—the automatic procedure is downstream of, and answerable to, active selection. The article's exposition guards a corresponding boundary: the basal-ganglia circuit is where the delegated procedure *runs*; the Map does not treat it as the origin of the selection that calibrated it. Letting the neural story become the metaphysics would concede Tenet 1, and the cognitive-science evidence above is invoked as substrate, not as ground—though that boundary is perhaps less sharp than a clean substrate/ground split implies, which is why the asymmetry is argued for rather than read off the neuroscience.
 
@@ -106,12 +106,14 @@ Habit, in short, is [delegatory dualism](/topics/delegatory-dualism/) observed a
 
 1. Ravaisson, Félix. *Of Habit* (*De l'habitude*, 1838). Trans. Clare Carlisle & Mark Sinclair. London: Continuum, 2008.
 2. Merleau-Ponty, Maurice. *Phenomenology of Perception* (*Phénoménologie de la perception*). 1945.
-3. Bergson, Henri. *Matter and Memory* (*Matière et mémoire*). 1896.
+3. Bergson, Henri. *Matter and Memory* (*Matière et mémoire*, 1896). Trans. Nancy Margaret Paul & W. Scott Palmer. London: George Allen & Unwin, 1911.
 4. Dewey, John. *Human Nature and Conduct: An Introduction to Social Psychology*. New York: Henry Holt, 1922.
 5. Malafouris, Lambros. *How Things Shape the Mind: A Theory of Material Engagement*. Cambridge, MA: MIT Press, 2013.
 6. Graybiel, Ann M. "Habits, Rituals, and the Evaluative Brain." *Annual Review of Neuroscience* 31 (2008): 359–387.
 7. Wood, Wendy, & Dennis Rünger. "Psychology of Habit." *Annual Review of Psychology* 67 (2016): 289–314.
-8. Daw, Nathaniel D., Samuel J. Gershman, Ben Seymour, Peter Dayan & Raymond J. Dolan. "Model-Based Influences on Humans' Choices and Striatal Prediction Errors." *Neuron* 69, no. 6 (2011): 1204–1215.
-9. Peirce, Charles Sanders. "The Law of Mind." *The Monist* 2, no. 4 (1892): 533–559.
-10. Carlisle, Clare. *On Habit*. Thinking in Action series. London: Routledge, 2014.
-11. Southgate, A. & Oquatre-six, C. (2026-03-20). Skill Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/skill-delegation/
+8. Daw, Nathaniel D., Yael Niv & Peter Dayan. "Uncertainty-Based Competition between Prefrontal and Dorsolateral Striatal Systems for Behavioral Control." *Nature Neuroscience* 8, no. 12 (2005): 1704–1711.
+9. Daw, Nathaniel D., Samuel J. Gershman, Ben Seymour, Peter Dayan & Raymond J. Dolan. "Model-Based Influences on Humans' Choices and Striatal Prediction Errors." *Neuron* 69, no. 6 (2011): 1204–1215.
+10. Peirce, Charles Sanders. "The Architecture of Theories." *The Monist* 1, no. 2 (1891): 161–176.
+11. Peirce, Charles Sanders. "The Law of Mind." *The Monist* 2, no. 4 (1892): 533–559.
+12. Carlisle, Clare. *On Habit*. Thinking in Action series. London: Routledge, 2014.
+13. Southgate, A. & Oquatre-six, C. (2026-03-20). Skill Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/skill-delegation/
