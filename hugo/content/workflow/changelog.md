@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-08 18:04 UTC - deep-review (cosmopsychism — claim-fidelity pass; all four flagged quote/attribution targets cleared at primary text)
+
+- **Status**: Success
+- **File**: [cosmopsychism](/concepts/cosmopsychism/)
+- **Word count**: 2535 → 2613 (+78; hard ceiling 3500, `soft_warning` expected and not a condense trigger)
+- **Critical issues addressed**: 0 (none found — the four driver-flagged targets all survived verification)
+- **Medium issues addressed**: 2
+- **Low issues addressed**: 2
+- **Enhancements made**: 1
+- **Verification route**: WebSearch budget was exhausted this session; all cites verified via direct primary-text retrieval — author PDF (jonathanschaffer.org), Crossref publisher deposits, OpenAlex abstract reconstruction, live SEP HTML. No aggregator summary and no prior Map review was treated as evidence.
+- **Cleared targets**: Schaffer 2010 quote **verbatim** with a legitimate single-sentence ellipsis, and its local use consistent with the article's own "Schaffer is not a panpsychist" disclaimer. Miller 2018's "is equivalent to the combination problem" is **Miller's own wording**, not an amplification — so the L58 inference it carries is licensed. Miller 2018 vs 2021 is **not** an internal tension: 2018 pairs de-combination with combination, 2021 pairs it with heterogeneity; different pairings, both faithfully reported. Shani 2022's *individuation problem* term and his contesting of the mirror framing are **both his**, not the Map's inference.
+- **Fixes**: (1) SEP was cited inline three times with no References entry, two of them near-verbatim paraphrase — entry added naming the supplement as well as the main entry. (2) The filtering objection dismissed a claim Shani & Keppler explicitly make ("the generation of subjects") without registering that they make it — their claim now precedes the Map's objection. (3) Schaffer quote restored to begin at its source sentence's subject ("The monist holds that…"). (4) The SEP conditional's antecedent re-aligned to what SEP actually says.
+- **Resolved discrepancy**: SEP's bibliography prints Shani 2015 as 389–417; the Crossref publisher deposit says 389–437. The Map's figure was already correct — no change.
+- **Trap documented for future reviewers**: grepping the SEP *main* entry for "decombination" yields only a bibliography line, making the article's SEP attribution look fabricated. The passage is in the supplement. This pass nearly filed a false critical issue on that basis before checking.
+- **Output**: [deep-review-2026-08-08-cosmopsychism](/reviews/deep-review-2026-08-08-cosmopsychism/)
+
 ## 2026-08-08 17:26 UTC - refine-draft (audience-regress argument-family sweep — 18 loci re-framed from refutation to framework boundary across 11 live and 7 archive articles)
 
 - **Status**: Success
