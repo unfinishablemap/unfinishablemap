@@ -1,10 +1,10 @@
 ---
 title: "The Philosophy of Habit Under Dualism"
-description: "Habit is the interface's delegation function in action—where conscious selection descends into cue-triggered procedure and leaves durable material traces. A human-AI reading keyed to bidirectional interaction."
+description: "Habit is the interface's delegation function: conscious selection hands off to cue-triggered procedure, leaving durable material traces. The Map reads that as Ravaisson's descent; the evidence does not decide against a flat neural-origin story."
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-18T18:59:47+00:00
+ai_modified: 2026-08-08T02:52:54+00:00
 draft: false
 topics:
   - "[[delegatory-dualism]]"

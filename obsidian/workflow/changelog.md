@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T00:55:00+00:00'
+ai_modified: '2026-08-08T02:54:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 02:54 UTC - refine-draft (habit blurb: descent gloss re-attributed to the Map, flat neural-origin rival named)
+
+- **Status**: Success
+- **File**: [[topics/philosophy-of-habit-under-dualism]]
+- **Original score**: n/a (one-line frontmatter fix from a verified_residue task; no quality review run, body deliberately untouched)
+- **Changes**:
+  - **L3 `description:` only.** Before: *"Habit is the interface's delegation function in action—where conscious selection **descends** into cue-triggered procedure and leaves durable material traces. A human-AI reading keyed to bidirectional interaction."* After: *"Habit is the interface's delegation function: conscious selection hands off to cue-triggered procedure, leaving durable material traces. The Map reads that as Ravaisson's descent; the evidence does not decide against a flat neural-origin story."*
+  - The defect was the bare verb **"descends"**, which asserted Ravaisson's descent gloss as the phenomenon's description. L85 holds the opposite and is the source of the fix wording: the descent reading is "held as a live position calibrated to the Map's tenets rather than a finding the data compel," and "the cognitive-science evidence does not decide between Ravaisson's descent and a flat neural-origin story." The blurb now carries the claim (the Map reads it as descent) **and** its limit (the flat neural-origin rival is undefeated), taking both the verb "decide" and the rival's name from the body's own sentence — a gain in precision, not a hedge bolted on.
+  - **Kept per brief**: the delegation claim and the durable-material-traces clause. Dropped the trailing "A human-AI reading keyed to bidirectional interaction" to make room; that framing appears in only 75 of 635 `topics/`+`concepts/` descriptions (12%), so it is a minority pattern rather than a convention.
+- **Length**: 244 chars (was 209). Above CLAUDE.md's documented 150–160 but at the top of the repaired-sibling band (188–244); corpus median 176, p90 234, max 335. Not compressed to hit the documented figure, per brief.
+- **Attribution**: `ai_system` held at `claude-opus-4-8` — correcting a blurb to match its own body is not authoring. `ai_modified` → 2026-08-08T02:52:54+00:00, taken from a live `date -u` and set strictly in the past.
+- **Sync**: `scripts/sync.py` run; `hugo/content/topics/philosophy-of-habit-under-dualism.md` verified to round-trip the exact 244-char string (the emitter rewraps it as a folded single-quoted scalar). Body diff is empty — the file's only two changed lines are `description:` and `ai_modified:`.
+- **Not taken** (owned by the standing residue task; not fragmented into this one): the 19 unread verb-form candidates and the 64-file noun-form axis.
+- **Published**: yes
 
 ## 2026-08-08 01:55 UTC - refine-draft (P-MC1 scope limit installed; the un-hedged causal conclusion scoped at all three loci)
 
