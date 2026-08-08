@@ -373,3 +373,31 @@
   subject_articles:
   - apex/attention-as-causal-bridge.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a7690cc-dac0-83eb-816a-8a2a1744fc11
+  commissioned_at: '2026-08-08T02:14:21.671585+00:00'
+  prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
+  target_filename: outer-review-2026-08-08-chatgpt-5-6-sol.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a site developing an interactionist-dualist
+    philosophy of mind from five tenets: dualism, minimal quantum interaction, bidirectional
+    causation, rejection of many-worlds, and limits to Occam''s razor. Please audit
+    https://unfinishablemap.org/concepts/consciousness-value-connection/, last substantively
+    revised on 2026-07-31. Assess whether its central claims are adequately supported,
+    whether its citations are real, correctly attributed and current, and whether
+    it engages the strongest available counterarguments rather than convenient ones.
+    Pay particular attention to tenet-protective bracketing, where a difficulty is
+    deferred or defined away rather than answered, and to weak integration with neighbouring
+    articles on consciousness, value and normativity. Note that external search indexes
+    lag the site by 24-48 hours; the changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent activity and is more current. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-value-connection
+  subject_articles:
+  - concepts/consciousness-value-connection.md
+  subject_source: fallback:recent-aged
