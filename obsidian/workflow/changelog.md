@@ -5,6 +5,21 @@ ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 10:06 UTC - optimistic-review (the framework-boundary discipline: named, enforced, and 4x under-counted)
+
+- **Status**: Success
+- **Output**: [[reviews/optimistic-2026-08-08-framework-boundary-discipline]]
+- **Denominator**: 48 passages read verbatim across 41 distinct live files, plus `project/direct-refutation-discipline` and `project/writing-style` in full.
+- **Driver hypothesis REFUTED (the good way)**: the practice is *not* "widespread but unnamed". It is specified as **Mode Three (Honest framework-boundary marking)** with a four-question decision heuristic, category lists, before/after prose pairs, skill-level implementation, and a Label Blacklist. `writing-style`'s "Engaging Opponents" carries the prose-layer rule with a pattern annotated *(framework-boundary marking)*.
+- **The naming demonstrably worked**: blacklist terms (`bedrock-perimeter`, `unsupported-jump`, `direct-refutation-feasible`, `mode-mixed`) return **zero** across all live articles in **both** the Obsidian and Hugo trees. Sole carrier is `topics/non-temporal-consciousness.refinement-log.md` — the editor-internal sidecar that does not sync, and which records the labels being *evicted* from the body on 2026-05-13.
+- **Structure corrected**: the driver's proposed 3-move pattern (state strongest → attempt refutation → concede) is not what the corpus does. The refutation attempt is often absent by design (`concepts/sentientism` L76 declines outright), and the boundary sentence is a **hinge**, not a conclusion. Actual pattern is four moves, the third of which neither governing doc records: **convert the concession into a debt assigned to the opponent**.
+- **Self-correction, twice**: initially scored 4 loci as "bare declarations" — falsified by reading full paragraphs. Then nearly reported 3 files as uncalibrated on label-grep zeros — all 3 are correctly calibrated in different words.
+- **Measurement**: label form `in-framework refutation` = 16 files; plain-prose form `does not settle` = 68; union of all markers = **230 of 798 live articles (29%)**. Any census keyed on the label **undercounts ~4x**. Scoped to content dirs only — `obsidian/reviews/` alone holds 1,902 files containing the phrase and would make retired wording look live.
+- **Defect found (1)**: the open P2's "six calibrated models" roster — all six models genuine, but **4 of 6 pointers land on blank lines** (byte count 1): `mind-brain-separation` L97→L96, `quantum-interpretations` L148→L147, `epistemic-advantages-of-dualism` L113→L112, `self-stultification` L130→L131.
+- **Task minted**: 1 × P3 `refine-draft` on `obsidian/project/direct-refutation-discipline.md` (zero competing open tasks on that file — checked). No `expand-topic` / `research-topic` minted; reports-only contract respected.
+- **Persona verdict**: Process Philosopher and Hardline Empiricist **converged** on every passage examined — per the skill's own rule this indicates honest resolution, so no calibration-concern task was generated.
+- **Content modified**: none.
+
 ## 2026-08-08 09:15 UTC - refine-draft (the self-answering citation + the ~10³/~10⁵ desync)
 
 - **Status**: Success

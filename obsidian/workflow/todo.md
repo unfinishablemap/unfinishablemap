@@ -189,6 +189,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **MIRROR**: every fix needs `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — re-framing a citation is not authoring. **Say which loci you did not reach.**
 - **Source**: deep-review driver-briefed claim-fidelity pass, 2026-08-08 (primary-text verification; loci counted over `obsidian/` + `archive/`, excluding `workflow/` and `reviews/`)
 
+### P3: the "copy the calibrated sibling" instruction has no durable referent — 4 of the 6 model pointers already land on blank lines
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/direct-refutation-discipline.md
+- **Notes**: **NOT a claim that the discipline is unnamed — it is named, thoroughly.** `direct-refutation-discipline.md` specifies this as **Mode Three (Honest framework-boundary marking)** with a four-question decision heuristic, category lists, before/after prose pairs, and a Label Blacklist. The blacklist is **100% clean in live prose**: `bedrock-perimeter`, `unsupported-jump`, `direct-refutation-feasible`, `mode-mixed` all return **zero** files across `obsidian/{topics,concepts,apex,voids,positions,arguments,tenets}` AND across `hugo/content/*`. The only carrier is `topics/non-temporal-consciousness.refinement-log.md`, the editor-internal sidecar that does not sync to Hugo. **The discipline works. Do not "fix" the doc's philosophy.**
+  **THE ACTUAL DEFECT — verified by byte count on disk 2026-08-08.** The open P2 on `obsidian/concepts/evolution-of-consciousness.md` tells fixers *"THE TEMPLATE IS ALREADY WRITTEN — COPY IT"* and lists "six more calibrated models". **All six models are real and genuinely calibrated — the roster's judgement is sound.** But four of six pointers hit blank lines (`sed -n 'Np' | wc -c` = 1):
+  - `concepts/mind-brain-separation.md` **L97 = BLANK** → real locus **L96** (*"does not settle the matter, and the Map does not run it as though it did"*)
+  - `concepts/quantum-interpretations.md` **L148 = BLANK** → real locus **L147**
+  - `topics/epistemic-advantages-of-dualism.md` **L113 = BLANK** → real locus **L112**
+  - `concepts/self-stultification.md` **L130 = BLANK** → real locus **L131** (*"this marks where the Map and the illusionist part company rather than refuting him inside his own framework"*)
+  - correct as written: `concepts/illusionism.md` L89-91; `topics/meaning-of-life.md` L163-165 (content at L164)
+  A fixer who opens a blank line will invent wording — the exact outcome the instruction forbids. Line numbers in a todo entry rot with every edit to the target.
+  **FIX**: add a short named section to `direct-refutation-discipline.md` (anchor-addressable, so it cannot drift) recording (a) the canonical Mode Three prose template and (b) the verified model roster **by article + quoted span, not by line number**. Recommended canonical wordings, from 48 passages read across 41 files:
+  - *illusionism / bare-regress family* — `concepts/qualia.md` L153 (already canonical in the open P2; keep it)
+  - *general-purpose, all four moves, compact* — `topics/qm-interpretations-beyond-many-worlds.md` L162-163
+  - *shortest usable form* — `concepts/sentientism.md` L76
+  **ALSO ADD THE MISSING MOVE.** Neither `direct-refutation-discipline.md` nor `writing-style.md` records the step that makes the good instances work: after marking the boundary, the best passages **convert the concession into a debt assigned to the opponent** — *"the residual phenomenal character is the explanandum the deflationist still owes work on"* (`comparative-phenomenology-of-meditative-traditions.md` L171); *"The account names the mechanism it owes and does not yet supply it"* (`mind-brain-separation.md` L96). The writing-style guide's approved pattern (*"…honestly noted as such, not refuted within X's framework"*) stops one move short of this and reads as retreat by comparison.
+  **⚠️ CENSUS WARNING for whoever works this** — a grep keyed on `framework-boundary` or `in-framework refutation` **undercounts the discipline ~4x**. Label form: 16 files. Plain-prose form (`does not settle`): 68 files. Union of all markers: **230 of 798 live articles**. `self-stultification.md`, `mind-brain-separation.md` and `quantum-interpretations.md` all return **zero** on the label greps and are all correctly calibrated in different words. Do not report a file as uncalibrated on a label-grep zero.
+  **DO NOT** edit the four target articles — they are correct as they stand; only their *pointers* are stale.
+- **Source**: optimistic-review 2026-08-08; full evidence at [[reviews/optimistic-2026-08-08-framework-boundary-discipline]]
+- **Generated**: 2026-08-08
+
 ### P3: `apex/moral-architecture-of-consciousness` L82 calls three arguments "tests" that "support" the value identity, and never mentions the rival the register says holds its credence at moderate
 
 - **Type**: refine-draft
@@ -224,6 +247,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: **Found by the 2026-08-08 strawman audit as an ARGUMENT-family sweep, not a string grep — none of these eight files contain the string the existing sweep task keys on.** Every quoted span grep-verified on disk. Full evidence: [[reviews/pessimistic-2026-08-08-strawman-audit]] Issue 3.
   **⚠️ SCOPE — DO NOT OVERLAP THE OPEN P2 ABOVE.** The task titled *"the audience-regress rebuttal retracted from `consciousness-value-connection` is still asserted flat in two other live loci"* owns `voids/smoothness-and-continuity.md` and `archive/voids/smoothness-problem.md`, and correctly protects `concepts/continual-learning-argument.md` L108. **This task owns a disjoint set.** If that task runs first, copy its wording here rather than composing new.
   **THE TEMPLATE IS ALREADY WRITTEN — COPY IT.** `obsidian/concepts/qualia.md` **L153** states the discipline in fully general terms, verbatim: *"The temptation here is to press the bare regress—that all illusions presuppose experience, so something must be experiencing the seeming. But that move begs the question against illusionism: a representational system need not instantiate what it represents, just as a map represents terrain without being mountainous... The bare regress is therefore a framework-boundary point, not an in-framework refutation."* Six more calibrated models: `concepts/illusionism.md` L89-91, `concepts/mind-brain-separation.md` L97, `concepts/quantum-interpretations.md` L148, `topics/meaning-of-life.md` L163-165, `topics/epistemic-advantages-of-dualism.md` L113, `concepts/self-stultification.md` L130. **The Map is not ignorant here — the calibration simply never propagated. Reuse, do not re-derive.**
+  **⚠️ FOUR OF THE POINTERS BELOW ARE OFF BY ONE AND LAND ON BLANK LINES — verified by byte count on disk 2026-08-08. Use the corrected line, or you will open an empty line and invent wording, which is exactly what this task forbids.**
+  - `concepts/mind-brain-separation.md` **L97 is blank → use L96** (*"does not settle the matter, and the Map does not run it as though it did"*)
+  - `concepts/quantum-interpretations.md` **L148 is blank → use L147** (note: `concepts/`, not `topics/`)
+  - `topics/epistemic-advantages-of-dualism.md` **L113 is blank → use L112**
+  - `concepts/self-stultification.md` **L130 is blank → use L131** (*"marks where the Map and the illusionist part company rather than refuting him inside his own framework"*)
+  - Correct as written: `concepts/qualia.md` L153, `concepts/illusionism.md` L89-91, `topics/meaning-of-life.md` L163-165 (content at L164).
   **THE EIGHT DEFECTIVE LOCI, verified on disk:**
   1. **`obsidian/concepts/evolution-of-consciousness.md` L143** — purest instance, zero boundary marking: *"But 'seeming' presupposes a subject to whom things seem... and that something is doing the experiencing illusionists claim doesn't exist."*
   2. **`obsidian/concepts/unity-of-consciousness.md` L122** — *"even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed"*. This is precisely the Cartesian-theatre reading Frankish rejects in §3.3 ("Who is the audience?") of the paper the cluster cites.
