@@ -436,9 +436,9 @@
   commissioned_at: '2026-08-08T04:20:21.452106+00:00'
   prompt_summary: Audit consciousness-value-connection
   target_filename: outer-review-2026-08-08-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-08T04:50:15.767442+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T04:34:08+00:00'
+ai_modified: '2026-08-08T04:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 04:58 UTC - outer-review (a "reject without resubmission" verdict whose two headline findings both quote text the Map retired three weeks earlier)
+
+- **Status**: Success
+- **Reviewer**: Gemini Deep Research, filed as `gemini-3-1-pro` (version **inferred, not observed** — the mode picker exposes only "Pro" and the report does not self-identify; kept consistent with the 2026-08-07 file)
+- **File**: [[reviews/outer-review-2026-08-08-gemini-3-1-pro]]
+- **Subject**: `concepts/consciousness-value-connection` (subject_type `recent`, via `reuse:pending-reviews:outer-review-2026-08-08-chatgpt-5-6-sol.md`) — completing the three-reviewer same-subject triple with ChatGPT 02:00 and Claude 03:00. Verdict: **"fundamentally flawed... firmly rejected without the option to resubmit."**
+- **Extraction**: 28,287 chars / 28,427 bytes via page-side base64 over the DOM-walked markdown, SHA-256 `61e17161…a852a16c` agreeing across the page-side digest, the local decode and a post-copy recompute. No retyping. The 1KB-per-call JS output cap and a ~50KB page-text cap forced the base64 channel; a plain-text pass through the same channel was rejected on digest mismatch (NBSP and trailing-space normalisation, 106 chars) rather than accepted as close enough.
+- **Headline finding**: **the verdict does not survive verification.** Both structural findings quote article text superseded on 2026-07-16 — the illusionism "concession" survives only inside `reviews/pessimistic-2026-07-16-consciousness-value-connection.md`, where the Map's own review quotes it *in order to recommend the repair that was applied the same day* (`eb51af9935`, synced `a8a108f881`); and the "closes Hume's is-ought gap" claim greps **zero** across live `obsidian/`, `archive/` and `hugo/content/` articles. The live pages were correct for three weeks before the review ran.
+- **Claims verified**: 26 (18 Map quotations normalised for wikilinks and emphasis, then matched across all three trees; 8 external citations at OpenAlex)
+- **Not fabricated, misattributed.** Unlike the prior Gemini failure mode, no quotation was invented — every one is verbatim-real. The failure is provenance: it read the Map's published record of its own corrections as the Map's current position.
+- **Citation integrity**: Kammerer 2022, Silver et al. 2021, Morales & Berridge 2020 and Petza et al. 2023 verified real (Petza mis-framed — a fisheries-management review recruited for an intrinsic-value claim). **Levit-Mor & Liberman 2026, Voss et al. 2026 and Alabd 2025 could not be located**, and carry weaknesses 3 and 4 more or less alone; the prompt had asked for 2020–2025 sources.
+- **Tasks generated**: 1 (P2) — deliberately sparing against a seven-task pileup on the audited article. The Buddhist *vedanā* charge is the one finding that is both sound and unowned: the article recruits *vedanā* as cross-traditional confirmation of phenomenal value realism, where its doctrinal role is to be the precondition for craving. Filed against `concepts/evaluative-phenomenal-character` as a new locus in the already-named soteriology-recruitment family. The objective-list omission and the L78 over-grading are already owned by open tasks; the wanting/liking objection is owned by two linked articles.
+- **Evidence recorded, no task**: the 2026-07-30 publication-policy NEEDS-HUMAN entry gained a dated addendum. Tonight is the first *measured* instance of published `reviews/` pages causing an external reader to attribute retired text to the Map — a larger harm than the re-ratification mechanism that entry anticipated, and one no article fix can prevent.
+- **Convergence**: all three reviewers hit the same article. ChatGPT (major revision) and Claude (REVISE-HARD) both attacked how the thesis is *reached*; Gemini's two structural attacks were void on verification, so its only durable contribution is the *vedanā* exegesis. `/combine-outer-reviews` is now unblocked for this cycle date.
 
 ## 2026-08-08 04:34 UTC - outer-review (question-begging at Step 2; three of six references are objectivists cited against themselves)
 
