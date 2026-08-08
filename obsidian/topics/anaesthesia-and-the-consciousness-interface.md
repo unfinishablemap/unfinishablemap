@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-07-30T02:37:43+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[contemplative-pathology-and-interface-malfunction]] — Parallel case: interface disruption from the consciousness side
 - [[self-stultification-as-master-argument]] — Why epiphenomenal consciousness is epistemically self-defeating
 - [[consciousness-under-extreme-metabolic-constraint]] — Gamma surges, threshold effects, and the filter model when metabolic supply collapses
-- [[psychedelics-and-the-filter-model]] — Decreased filtering yields expanded rather than diminished experience
+- [[psychedelics-and-the-filter-model]] — The opposite perturbation: cortex-wide desynchronization with expanded rather than diminished experience, congenial to filter theory though production accounts accommodate it equally
 - [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
 - [[anesthesia-void]] — The first-person epistemic structure of the anaesthetic interval
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The pharmacological cross-state evidence anaesthesia supplies sits inside the cross-mechanism convergence that motivates the memory-hierarchy discriminating-test design space; the test specifies what a focal perturbation would have to deliver to separate production from filter readings on the architecture anaesthesia's three-states picture instantiates

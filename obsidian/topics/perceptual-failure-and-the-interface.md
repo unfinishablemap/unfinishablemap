@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-07-16T23:23:34+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 - [[hypnagogic-phenomenology-and-interface-modulation]]
 - [[selective-correction-and-reconstruction-paradox]]
 - [[consciousness-bandwidth-architecture]] — the asymmetric bandwidth framework formalising transmission capacity
-- [[psychedelics-and-the-filter-model]] — pharmacological case for filter theory invoked in Selective Preservation
+- [[psychedelics-and-the-filter-model]] — the pharmacological material invoked in Selective Preservation: congenial to filter theory, though it does not discriminate against production accounts
 - [[neurological-dissociations-as-interface-architecture]] — blindsight, anosognosia, and other dissociations as interface evidence
 - [[curated-mind]] — the presupposition argument: curation across vision, body, memory, and self-model
 - [[predictive-processing-and-dualism]] — the predictive-processing rival treated at length: why the Map can largely adopt its computational account of the bandwidth signatures while the hard-problem residue remains

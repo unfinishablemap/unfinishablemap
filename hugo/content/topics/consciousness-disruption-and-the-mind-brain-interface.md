@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-07-16 13:21:45+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-07-16 13:21:45+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -195,7 +195,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain wh
 - [near-death-experiences](/concepts/near-death-experiences/) — Heightened consciousness during minimal brain function
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How clinical cases generate philosophical evidence
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Blindsight, anosognosia, and alien hand syndrome mapping the interface
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity producing expanded consciousness
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Cortex-wide desynchronization alongside expanded consciousness, a case congenial to filter theory rather than one deciding against production accounts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding the interface model
 - [death-and-consciousness](/topics/death-and-consciousness/) — Consciousness at and beyond death
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings

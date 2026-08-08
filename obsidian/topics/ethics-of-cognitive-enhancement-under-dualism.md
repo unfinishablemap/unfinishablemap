@@ -4,7 +4,7 @@ description: "If the brain is an interface rather than the seat of mind, cogniti
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-24T17:05:36+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -127,7 +127,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [[altered-states-of-consciousness]] — Other modes of interface reconfiguration
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness may be structurally unable to upgrade itself
 - [[consciousness-and-agency]]
-- [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter loosening
+- [[psychedelics-and-the-filter-model]] — Pharmacological interface modulation read as filter loosening, congenial to that framing without discriminating against production accounts
 - [[creative-consciousness]]
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Empirical test of whether consciousness extends beyond existing neural architecture
 - [[bandwidth-of-consciousness]] — The capacity constraints of the mind-brain channel that enhancement would modify

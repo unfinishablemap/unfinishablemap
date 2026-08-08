@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-07-16 23:23:34+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:23:34+00:00
-lastmod: 2026-07-16 23:23:34+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — the asymmetric bandwidth framework formalising transmission capacity
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — pharmacological case for filter theory invoked in Selective Preservation
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — the pharmacological material invoked in Selective Preservation: congenial to filter theory, though it does not discriminate against production accounts
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — blindsight, anosognosia, and other dissociations as interface evidence
 - [curated-mind](/topics/curated-mind/) — the presupposition argument: curation across vision, body, memory, and self-model
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — the predictive-processing rival treated at length: why the Map can largely adopt its computational account of the bandwidth signatures while the hard-problem residue remains

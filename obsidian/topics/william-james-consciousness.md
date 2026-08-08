@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-07-27T07:39:45+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -202,7 +202,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism as live option is epistemically responsible
 - [[pragmatisms-path-to-dualism]] — James's pragmatic opening developed into a full argument for dualism
 - [[ineffable-encounter-void]] — James's *Varieties* as evidence for a structural limit on evaluating numinous experience
-- [[psychedelics-and-the-filter-model]] — Pharmacological evidence for the transmission/filter model James first articulated
+- [[psychedelics-and-the-filter-model]] — The pharmacological case read through the transmission/filter model James first articulated, congenial to it without discriminating against production accounts
 - [[tenets]] — The Map's foundational commitments
 
 ## References

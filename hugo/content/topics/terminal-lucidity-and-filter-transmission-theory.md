@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-30 10:41:03+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:15:46+00:00
-lastmod: 2026-07-30 10:41:03+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ The Unfinishable Map treats this distinction seriously but acknowledges its cost
 Terminal lucidity's significance is strongest when placed within a broader pattern:
 
 - **Terminal lucidity**: Cognitive function returns despite severe structural damage
-- **[Psychedelic states](/topics/psychedelics-and-the-filter-model/)**: Decreased brain activity accompanies expanded consciousness
+- **[Psychedelic states](/topics/psychedelics-and-the-filter-model/)**: Cortex-wide desynchronization accompanies expanded consciousness — congenial to filter theory, though predictive-processing accounts accommodate the same data
 - **[Near-death experiences](/concepts/near-death-experiences/)**: Enhanced experience during cardiac arrest
 - **Covert consciousness**: Awareness persists when behavioural expression is destroyed
 - **[Hemispherectomy](/concepts/mind-brain-separation/)**: Removing half the brain preserves substantially normal consciousness
@@ -185,7 +185,7 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 - [death-and-consciousness](/topics/death-and-consciousness/) — Terminal lucidity in the broader context of dying phenomenology
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What progressive neural erosion reveals about mind-brain relations
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity with expanded consciousness
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Cortex-wide desynchronization with expanded consciousness, congenial to filter theory without discriminating against production accounts
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for brain-consciousness relations
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience

@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T17:15:00+00:00'
+ai_modified: '2026-08-08T18:57:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 18:57 UTC - refine-draft (inbound-link glosses still asserted the evidential claim `psychedelics-and-the-filter-model` has retracted — 10 loci across 8 files, both trees)
+
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]] (named file; the contract was ten loci across eight files, two in `archive/`)
+- **Original score**: not run — `scripts/curate.py` does not exist in this tree, so the review step was unavailable. This was a targeted nav-surface pass from a pre-verified defect list, not a general quality review.
+- **Premise (re-verified live)**: `topics/psychedelics-and-the-filter-model` L103/L105/L133 now hold that the altered-state data are *congenial to* filter theory and **do not** discriminate against production accounts ("does not strain Letheby's at all"; "the filter account does not exceed Letheby's"; "coherence rather than evidential support over rivals"). Its "decreased brain activity" framing is superseded by Siegel et al. (2024) cortex-wide desynchronization (L53). Inbound labels across the corpus still asserted the retracted framing — the nav-surface family where the LABEL asserts what the body disclaims. Fixed the label, kept every link.
+- **Changes** (10 gloss/bullet loci, wording varied per context, all length-neutral):
+  - `topics/terminal-lucidity-and-filter-transmission-theory` L146 (Convergent Evidence bullet), L184 (Further Reading gloss)
+  - `topics/anaesthesia-and-the-consciousness-interface` L160
+  - `topics/william-james-consciousness` L205
+  - `topics/perceptual-failure-and-the-interface` L156
+  - `concepts/default-mode-network` L213
+  - `topics/consciousness-disruption-and-the-mind-brain-interface` L193
+  - `topics/ethics-of-cognitive-enhancement-under-dualism` L130
+  - `archive/concepts/terminal-lucidity` L91 (body bullet), L115 (gloss) — archive pages serve full bodies on live URLs
+- **Body-prose flags adjudicated (3)**:
+  - `apex/altered-states-as-interface-evidence` L88 — **FIXED**. "provide the most dramatic evidence that" → "furnish the most dramatic case in which … dramatic in its phenomenology, not decisive between the competing readings"; added the Siegel et al. (2024) reframing of the 2012/2016 findings, with the reference inserted alphabetically (list renumbered 15–18; no numeric pointers in the body, checked). The section's surrounding symmetry concession was already sound; the superlative and the superseded imaging were the residue.
+  - `topics/consciousness-under-extreme-metabolic-constraint` L52 — **FIXED**. "This directly contradicts the production model's core prediction" was self-undercutting: the same paragraph introduces the entropic brain hypothesis, which *is* a physicalist production account predicting exactly this finding. Rewritten to cut against the crudest production prediction while conceding the entropic-brain accommodation, keeping the article's threshold/channel thesis intact.
+  - `concepts/neural-correlates-of-consciousness` L119 — **LEFT, sound as scoped**. The bullet's conditional sits four lines above an explicit symmetry paragraph that names psychedelic intensification as accommodated by "disinhibited cortical generation" and concludes the cluster "cannot honestly be cited as independent confirmation of transmission". The article has already had the symmetry remediation; the disclaimer is proximate and specific.
+- **Four extra gloss candidates adjudicated — ALL CLEARED, none changed**: `topics/lucid-dreaming-and-dualist-rendering` L156 and its archive twin `archive/topics/lucid-dreaming-and-mind-side-rendering` L118 ("Parallel evidence from psychedelic states"); `concepts/self-and-self-consciousness` L200 and its archive twin `archive/concepts/zahavian-minimal-self` L145 ("Ego-dissolution evidence … under the Zahavian reading"). Test applied: does the gloss assert evidential support *over rivals*, or name the subject matter? All four name subject matter without invoking a rival — and the source article's own live position is that the data *are* evidence, congenial to filter theory, just not discriminating. "Under the Zahavian reading" additionally marks itself as one reading among others, which the source article's Letheby section is built to contrast. Changing these would over-correct into implying the psychedelic data are irrelevant.
+- **Left deliberately**: `reviews/deep-review-2026-04-29-perceptual-failure-and-the-interface` L28 (obsidian) / L30 (hugo) carries "pharmacological case for filter theory" in a backtick code span. It is a dated historical record of what the gloss said in April; reviews are not nav surfaces and rewriting one falsifies the record.
+- **Attribution**: `ai_modified` bumped to 2026-08-08T18:57:18+00:00 on the 10 edited files. **`ai_system` held unchanged everywhere** — a label correction is not authoring.
+- **Verification**: `scripts/sync.py` run; all 12 edits confirmed present in `hugo/content/` including `hugo/content/archive/concepts/terminal-lucidity.md`. `scripts/validate.py hugo/content/` → 0 errors. Final sweep of the retracted framing over `obsidian/` + `archive/` (excluding `workflow/`) → **0**.
+- **Published**: yes
 
 ## 2026-08-08 18:27 UTC - refine-draft (phenomenology-of-returning-attention — unearned "nor illusionist" blurb clause earned in the body, not dropped)
 

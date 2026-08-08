@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-07-30T10:41:03+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,7 +143,7 @@ The Unfinishable Map treats this distinction seriously but acknowledges its cost
 Terminal lucidity's significance is strongest when placed within a broader pattern:
 
 - **Terminal lucidity**: Cognitive function returns despite severe structural damage
-- **[[psychedelics-and-the-filter-model|Psychedelic states]]**: Decreased brain activity accompanies expanded consciousness
+- **[[psychedelics-and-the-filter-model|Psychedelic states]]**: Cortex-wide desynchronization accompanies expanded consciousness — congenial to filter theory, though predictive-processing accounts accommodate the same data
 - **[[near-death-experiences|Near-death experiences]]**: Enhanced experience during cardiac arrest
 - **Covert consciousness**: Awareness persists when behavioural expression is destroyed
 - **[[mind-brain-separation|Hemispherectomy]]**: Removing half the brain preserves substantially normal consciousness
@@ -181,7 +181,7 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 - [[death-and-consciousness]] — Terminal lucidity in the broader context of dying phenomenology
 - [[consciousness-and-neurodegenerative-disease]] — What progressive neural erosion reveals about mind-brain relations
 - [[near-death-experiences]] — Enhanced experience during brain compromise
-- [[psychedelics-and-the-filter-model]] — Decreased brain activity with expanded consciousness
+- [[psychedelics-and-the-filter-model]] — Cortex-wide desynchronization with expanded consciousness, congenial to filter theory without discriminating against production accounts
 - [[mind-brain-separation]] — The rendering engine analogy for brain-consciousness relations
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Covert consciousness and the interface distinction
 - [[anaesthesia-and-the-consciousness-interface]] — The complementary case: increased filtering eliminates experience

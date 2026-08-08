@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-07-30T16:30:44+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 last_deep_review: 2026-07-09T01:49:44+00:00
 draft: false
 topics:
@@ -210,7 +210,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[filter-theory]] — The framework interpreting DMN as constraint rather than generator
 - [[meditation-and-consciousness-modes]] — Contemplative practices that suppress DMN
 - [[altered-states-of-consciousness]] — States involving DMN modulation
-- [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter theory via DMN suppression
+- [[psychedelics-and-the-filter-model]] — DMN suppression reread as cortex-wide desynchronization: congenial to filter theory, not discriminating against production accounts
 - [[witness-consciousness]] — The awareness that persists when DMN quiets
 - [[self-and-self-consciousness]] — The relationship between self-models and phenomenal experience
 - [[theory-of-mind]] — Higher-level mindreading drawing on the same self/other-modelling substrate as the DMN

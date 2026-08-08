@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-07-30 10:41:03+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Terminal Lucidity and Filter/Transmission Theory
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 07:14:00+00:00
-lastmod: 2026-07-30 10:41:03+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 original_path: /concepts/terminal-lucidity/
 related_articles:
@@ -92,7 +92,7 @@ Filter theorists respond by distinguishing between the brain's filtering functio
 Terminal lucidity gains evidential weight when considered alongside other phenomena that challenge production models:
 
 - **[Near-death experiences](/concepts/near-death-experiences/)**: Enhanced consciousness during cardiac arrest, when the brain is severely compromised
-- **[Psychedelic states](/topics/psychedelics-and-the-filter-model/)**: Decreased brain activity (measured by fMRI) accompanied by expanded, more vivid conscious experience
+- **[Psychedelic states](/topics/psychedelics-and-the-filter-model/)**: Cortex-wide desynchronization accompanied by expanded, more vivid conscious experience — congenial to filter theory, though predictive-processing accounts accommodate the same data
 - **[Covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
 - **[Hemispherectomy](/concepts/mind-brain-separation/)**: Patients with an entire hemisphere removed retain substantially normal consciousness
 
@@ -116,7 +116,7 @@ The evidence base for terminal lucidity, while growing, has significant limitati
 - [death-and-consciousness](/topics/death-and-consciousness/) — Terminal lucidity in the broader context of dying phenomenology
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What progressive neural erosion reveals about mind-brain relations
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity with expanded consciousness
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Cortex-wide desynchronization with expanded consciousness, congenial to filter theory without discriminating against production accounts
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for brain-consciousness relations
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
 

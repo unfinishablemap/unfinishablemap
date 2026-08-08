@@ -4,7 +4,7 @@ description: "The unexpected return of mental clarity in patients with severe ne
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-30T10:41:03+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -88,7 +88,7 @@ Filter theorists respond by distinguishing between the brain's filtering functio
 Terminal lucidity gains evidential weight when considered alongside other phenomena that challenge production models:
 
 - **[[near-death-experiences|Near-death experiences]]**: Enhanced consciousness during cardiac arrest, when the brain is severely compromised
-- **[[psychedelics-and-the-filter-model|Psychedelic states]]**: Decreased brain activity (measured by fMRI) accompanied by expanded, more vivid conscious experience
+- **[[psychedelics-and-the-filter-model|Psychedelic states]]**: Cortex-wide desynchronization accompanied by expanded, more vivid conscious experience — congenial to filter theory, though predictive-processing accounts accommodate the same data
 - **[[consciousness-disruption-and-the-mind-brain-interface|Covert consciousness]]**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
 - **[[mind-brain-separation|Hemispherectomy]]**: Patients with an entire hemisphere removed retain substantially normal consciousness
 
@@ -112,7 +112,7 @@ The evidence base for terminal lucidity, while growing, has significant limitati
 - [[death-and-consciousness]] — Terminal lucidity in the broader context of dying phenomenology
 - [[consciousness-and-neurodegenerative-disease]] — What progressive neural erosion reveals about mind-brain relations
 - [[near-death-experiences]] — Enhanced experience during brain compromise
-- [[psychedelics-and-the-filter-model]] — Decreased brain activity with expanded consciousness
+- [[psychedelics-and-the-filter-model]] — Cortex-wide desynchronization with expanded consciousness, congenial to filter theory without discriminating against production accounts
 - [[mind-brain-separation]] — The rendering engine analogy for brain-consciousness relations
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Covert consciousness and the interface distinction
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-07-30 16:30:44+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 01:49:44+00:00
-lastmod: 2026-07-30 16:30:44+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -213,7 +213,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [filter-theory](/concepts/filter-theory/) — The framework interpreting DMN as constraint rather than generator
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Contemplative practices that suppress DMN
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — States involving DMN modulation
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter theory via DMN suppression
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — DMN suppression reread as cortex-wide desynchronization: congenial to filter theory, not discriminating against production accounts
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness that persists when DMN quiets
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between self-models and phenomenal experience
 - [theory-of-mind](/concepts/theory-of-mind/) — Higher-level mindreading drawing on the same self/other-modelling substrate as the DMN

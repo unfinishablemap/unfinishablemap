@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-16T13:21:45+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,7 +190,7 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 - [[near-death-experiences]] — Heightened consciousness during minimal brain function
 - [[clinical-phenomenology-and-altered-experience]] — How clinical cases generate philosophical evidence
 - [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the interface
-- [[psychedelics-and-the-filter-model]] — Decreased brain activity producing expanded consciousness
+- [[psychedelics-and-the-filter-model]] — Cortex-wide desynchronization alongside expanded consciousness, a case congenial to filter theory rather than one deciding against production accounts
 - [[interactionist-dualism]] — The philosophical framework grounding the interface model
 - [[death-and-consciousness]] — Consciousness at and beyond death
 - [[consciousness-and-causal-powers]] — How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings

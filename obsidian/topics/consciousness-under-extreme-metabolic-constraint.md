@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-07-30T10:41:03+00:00
+ai_modified: 2026-08-08T18:57:18+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -49,7 +49,7 @@ The 44% figure is a statistical classifier derived from clinical data, not a pre
 
 Carhart-Harris et al. (2014) proposed the entropic brain hypothesis: consciousness correlates with neural entropy rather than metabolic rate. Psychedelics increase brain entropy—more random, less predictable neural activity—while producing intensified subjective experience. The critical observation for the metabolic question: psychedelics *decrease* metabolic activity in the default mode network while *increasing* the subjective richness of experience.
 
-This directly contradicts the production model's core prediction. If consciousness is produced by metabolic activity, reducing metabolism in key networks should reduce consciousness. Instead, suppressing DMN metabolism dissolves the ego and produces experiences that subjects consistently rate as among the most meaningful of their lives. The [[psychedelics-and-the-filter-model|psychedelic evidence]] fits the filter model: the DMN normally constrains consciousness into a narrow, ego-structured channel, and metabolic suppression of that network loosens the constraint.
+This cuts against the crudest production prediction—that reducing metabolism in key networks should reduce consciousness. Suppressing DMN metabolism dissolves the ego and produces experiences that subjects consistently rate as among the most meaningful of their lives. It does not, however, cut against production models as such: the entropic brain hypothesis is itself a physicalist account, and it predicts the finding directly, since what matters on that view is the entropy of neural dynamics rather than the metabolic rate sustaining them. The [[psychedelics-and-the-filter-model|psychedelic case]] fits the filter model equally well—the DMN normally constrains consciousness into a narrow, ego-structured channel, and metabolic suppression of that network loosens the constraint—and the altered-state data do not by themselves decide between the readings. What the metabolic profile does establish is that consciousness fails to track total metabolic supply.
 
 ### Agent-Specific Anaesthesia Profiles
 

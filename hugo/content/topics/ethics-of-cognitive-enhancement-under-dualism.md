@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-24 17:05:36+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 17:05:36+00:00
-lastmod: 2026-06-24 17:05:36+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -131,7 +131,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Other modes of interface reconfiguration
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness may be structurally unable to upgrade itself
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter loosening
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological interface modulation read as filter loosening, congenial to that framing without discriminating against production accounts
 - [creative-consciousness](/concepts/creative-consciousness/)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Empirical test of whether consciousness extends beyond existing neural architecture
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The capacity constraints of the mind-brain channel that enhancement would modify

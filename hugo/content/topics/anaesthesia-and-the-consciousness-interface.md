@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-07-30 02:37:43+00:00
+ai_modified: 2026-08-08 18:57:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-07-30 02:37:43+00:00
+lastmod: 2026-08-08 18:57:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -161,7 +161,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Parallel case: interface disruption from the consciousness side
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why epiphenomenal consciousness is epistemically self-defeating
 - [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) — Gamma surges, threshold effects, and the filter model when metabolic supply collapses
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased filtering yields expanded rather than diminished experience
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — The opposite perturbation: cortex-wide desynchronization with expanded rather than diminished experience, congenial to filter theory though production accounts accommodate it equally
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — How pharmacological channel mapping could inform consciousness-collapse experimental design
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person epistemic structure of the anaesthetic interval
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The pharmacological cross-state evidence anaesthesia supplies sits inside the cross-mechanism convergence that motivates the memory-hierarchy discriminating-test design space; the test specifies what a focal perturbation would have to deliver to separate production from filter readings on the architecture anaesthesia's three-states picture instantiates

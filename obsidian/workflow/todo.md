@@ -169,26 +169,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 **RELATED, DECIDE TOGETHER:** the `description:`-vs-body family already fixed this cycle (`quantum-immortality`, `psychedelics-and-the-filter-model`) and the open `many-worlds` task — same surface, same root cause: **`description:` is never re-read by `refine-draft`, `deep-review` or `condense`.** Whatever is decided here, that structural gap is the thing worth fixing.
 
-### P2: inbound-link glosses still label `psychedelics-and-the-filter-model` with the evidential claim that article now retracts
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
-- **Notes**: Second family found by the same 2026-08-07 sweep, reported rather than mass-fixed (one gloss was corrected as the discovery locus; the rest were left so a scoped task could take them as a unit). `topics/psychedelics-and-the-filter-model` now concludes that the altered-state data are *compatible with* filter theory and **do not** discriminate against production accounts — L103 *"does not strain Letheby's at all"*, L105 *"the filter account does not exceed Letheby's"*, L133 *"coherence rather than evidential support over rivals"* — and its "decreased brain activity" framing is superseded by Siegel et al. (2024) cortex-wide desynchronization (L53). **Inbound link labels across the corpus still assert the retracted framing.** Nav surfaces asserting what the body disclaims: fix the LABEL, not the link.
-
-  Loci, from `grep -rnE '\[\[psychedelics-and-the-filter-model.*(Decreased brain activity|Pharmacological evidence|pharmacological case|Decreased filtering)' obsidian/ archive/ --include=*.md`:
-  - `obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md` L146, L184
-  - `obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md` L193
-  - `obsidian/topics/anaesthesia-and-the-consciousness-interface.md` L160
-  - `obsidian/topics/william-james-consciousness.md` L205
-  - `obsidian/topics/perceptual-failure-and-the-interface.md` L156
-  - `obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md` L130
-  - `obsidian/concepts/default-mode-network.md` L213
-  - `archive/concepts/terminal-lucidity.md` L91, L115 — archive pages serve full bodies; do not skip the archive tree
-  - already fixed 2026-08-07: `archive/topics/loss-of-consciousness.md` L217, which is the replacement wording to copy
-
-  **Body prose beyond the glosses, flagged but NOT adjudicated** — do not treat this as a verified defect list: `topics/consciousness-under-extreme-metabolic-constraint` L52 (*"This directly contradicts the production model's core prediction"*), `concepts/neural-correlates-of-consciousness` L119 (*"disrupting them should diminish experience, not enhance it"*), `apex/altered-states-as-interface-evidence` L88 (*"the most dramatic evidence"*, citing only Carhart-Harris 2012 and Tagliazucchi 2016). Each needs reading in its own argumentative context first; several may be sound as scoped.
-- **Source**: verified_residue (refine-draft sweep 2026-08-07)
-
 ### NEEDS-HUMAN (check-model-fallback dedup) 2026-08-07: the `[SKIP]` dedup is session-id-only and status-blind, so a long-lived session is permanently immune to re-detection after its first hit
 
 **This is a TOOLING FLAG, not an attribution task — do not treat it as the `refine-draft` the script normally mints. The attribution surface is verifiably CLEAN right now (evidence below); the defect is that the next genuine fallback in this session would be silently suppressed.**
@@ -2655,6 +2635,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: inbound-link glosses still label `psychedelics-and-the-filter-model` with the evidential claim that article now retracts
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: Second family found by the same 2026-08-07 sweep, reported rather than mass-fixed (one gloss was corrected as the discovery locus; the rest were left so a scoped task could take them as a unit). `topics/psychedelics-and-the-filter-model` now concludes that the altered-state data are *compatible with* filter theory and **do not** discriminate against production accounts — L103 *"does not strain Letheby's at all"*, L105 *"the filter account does not exceed Letheby's"*, L133 *"coherence rather than evidential support over rivals"* — and its "decreased brain activity" framing is superseded by Siegel et al. (2024) cortex-wide desynchronization (L53). **Inbound link labels across the corpus still assert the retracted framing.** Nav surfaces asserting what the body disclaims: fix the LABEL, not the link.
+  Loci, from `grep -rnE '\[\[psychedelics-and-the-filter-model.*(Decreased brain activity|Pharmacological evidence|pharmacological case|Decreased filtering)' obsidian/ archive/ --include=*.md`:
+  - `obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md` L146, L184
+  - `obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md` L193
+  - `obsidian/topics/anaesthesia-and-the-consciousness-interface.md` L160
+  - `obsidian/topics/william-james-consciousness.md` L205
+  - `obsidian/topics/perceptual-failure-and-the-interface.md` L156
+  - `obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md` L130
+  - `obsidian/concepts/default-mode-network.md` L213
+  - `archive/concepts/terminal-lucidity.md` L91, L115 — archive pages serve full bodies; do not skip the archive tree
+  - already fixed 2026-08-07: `archive/topics/loss-of-consciousness.md` L217, which is the replacement wording to copy
+  **Body prose beyond the glosses, flagged but NOT adjudicated** — do not treat this as a verified defect list: `topics/consciousness-under-extreme-metabolic-constraint` L52 (*"This directly contradicts the production model's core prediction"*), `concepts/neural-correlates-of-consciousness` L119 (*"disrupting them should diminish experience, not enhance it"*), `apex/altered-states-as-interface-evidence` L88 (*"the most dramatic evidence"*, citing only Carhart-Harris 2012 and Tagliazucchi 2016). Each needs reading in its own argumentative context first; several may be sound as scoped.
 
 ### ✓ 2026-08-08: `phenomenology-of-returning-attention`'s blurb advertises illusionism as defeated — the word appears ONCE in the file, in the description itself, and the body never engages it
 - **Type**: refine-draft
