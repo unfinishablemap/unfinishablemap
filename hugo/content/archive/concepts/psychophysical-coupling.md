@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-02-06 18:54:00+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Psychophysical Laws
 archived: true
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 09:36:00+00:00
-lastmod: 2026-02-06 18:54:00+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 original_path: /concepts/psychophysical-coupling/
 related_articles:
@@ -106,7 +106,7 @@ The quantum framework addresses constraints (1) and (2) elegantly: consciousness
 
 ## The Bandwidth Constraint
 
-Research (Zheng & Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing.
+Research (Zheng & Meister 2025) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing.
 
 The bandwidth constraint sharply limits what selection can accomplish:
 

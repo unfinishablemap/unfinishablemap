@@ -4,7 +4,7 @@ description: "Fundamental principles specifying how conscious states influence w
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-11T19:05:00+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 draft: false
 archived: true
 archived_date: 2026-03-18T22:32:00+00:00
@@ -176,5 +176,5 @@ None of these currently succeeds, but they mark conditions under which the frame
 2. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 3. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 4. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-5. Zheng, J. & Meister, M. (2024). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 112(24).
+5. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192–204.
 6. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf

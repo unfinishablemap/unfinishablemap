@@ -6,7 +6,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-02
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 modified: 2026-03-02
 author: Andy Southgate
 last_curated: null
@@ -28,13 +28,13 @@ related_articles: []
 
 ## Executive Summary
 
-Consciousness exhibits a striking asymmetry: the inbound bandwidth required to generate conscious experience is enormous (a rich, vivid, smoothly moving 3D world with colour, sound, emotion), while the outbound bandwidth—consciousness's measurable influence on behaviour—is vanishingly small (~10 bits/second). This asymmetry has deep implications for the Map's interactionist dualism. A landmark 2024 Caltech study (Zheng & Meister) quantified the output bottleneck across dozens of cognitive tasks, confirming a universal ~10 bits/s ceiling on conscious throughput. Meanwhile, sensory systems deliver ~1 billion bits/s to the brain. The 100-million-fold gap between sensory input and conscious output remains unexplained by neuroscience and constitutes a genuine paradox. For the Map's framework, this asymmetry suggests consciousness operates at a narrow interface—consistent with the Minimal Quantum Interaction tenet—where it selects among pre-computed options rather than performing the computation itself.
+Consciousness exhibits a striking asymmetry: the inbound bandwidth required to generate conscious experience is enormous (a rich, vivid, smoothly moving 3D world with colour, sound, emotion), while the outbound bandwidth—consciousness's measurable influence on behaviour—is vanishingly small (~10 bits/second). This asymmetry has deep implications for the Map's interactionist dualism. A landmark 2025 Caltech study (Zheng & Meister) quantified the output bottleneck across dozens of cognitive tasks, confirming a universal ~10 bits/s ceiling on conscious throughput. Meanwhile, sensory systems deliver ~1 billion bits/s to the brain. The 100-million-fold gap between sensory input and conscious output remains unexplained by neuroscience and constitutes a genuine paradox. For the Map's framework, this asymmetry suggests consciousness operates at a narrow interface—consistent with the Minimal Quantum Interaction tenet—where it selects among pre-computed options rather than performing the computation itself.
 
 ## Key Sources
 
 ### Zheng & Meister (2025) — "The Unbearable Slowness of Being"
 - **URL**: https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
-- **Type**: Research paper (Neuron, December 2024)
+- **Type**: Perspective article (*Neuron*, 113(2), 192–204; online-first December 2024, print January 2025)
 - **Key points**:
   - Human conscious throughput is ~10 bits/s across all measured tasks (typing, gaming, speech, Rubik's cube solving, memory sports)
   - Sensory systems process ~10^9 bits/s (1 gigabit/s)
@@ -188,7 +188,7 @@ Consciousness exhibits a striking asymmetry: the inbound bandwidth required to g
 | 2010 | Mandik, "Control Consciousness" | Identified the sensory-motor bandwidth asymmetry in phenomenology |
 | 2011 | Block, "Perceptual consciousness overflows cognitive access" | Major defence of the rich/overflow view |
 | 2016 | Cohen, Dennett & Kanwisher, bandwidth of perceptual experience | Argued ensemble statistics explain apparent richness |
-| 2024 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark quantification: ~10 bits/s across all conscious tasks; inner/outer brain framework |
+| 2025 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark quantification: ~10 bits/s across all conscious tasks; inner/outer brain framework |
 
 ## Potential Article Angles
 

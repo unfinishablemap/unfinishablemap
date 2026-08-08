@@ -4,7 +4,7 @@ description: "Moments of consciousness have qualitative depth—layers of retent
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-17T04:12:00+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 last_deep_review: 2026-02-17T04:12:00+00:00
 draft: false
 archived: true
@@ -98,7 +98,7 @@ Whitehead's [[process-philosophy]] offers a complementary framework. Each actual
 
 ## Neural Correlates
 
-[[working-memory|Working memory]] provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024), which the Map's research connects to [[psychophysical-coupling|coupling constraints]], may set the maximum temporal thickness available at any moment. If temporal thickness measures how much of consciousness's finite bandwidth is deployed within a moment, thick moments are those where consciousness invests its full capacity — and the bandwidth ceiling explains why deepening retention requires narrowing protention, or vice versa.
+[[working-memory|Working memory]] provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2025), which the Map's research connects to [[psychophysical-coupling|coupling constraints]], may set the maximum temporal thickness available at any moment. If temporal thickness measures how much of consciousness's finite bandwidth is deployed within a moment, thick moments are those where consciousness invests its full capacity — and the bandwidth ceiling explains why deepening retention requires narrowing protention, or vice versa.
 
 Gamma-band oscillations (30-100 Hz) correlate with temporal binding and conscious processing (Engel et al., 2001). Higher gamma power and wider coherence may correspond to thicker temporal experience — more elements held together in the experienced present. The multi-scale hierarchy of temporal processing — different oscillatory mechanisms for sub-second versus supra-second timescales — suggests temporal thickness is implemented through nested structures, with faster oscillations binding elements within a moment and slower rhythms organising moments into sequences. These remain correlates, not explanations: the Map holds that no oscillatory account explains *why* a given configuration feels dense rather than hollow.
 
@@ -146,4 +146,4 @@ Temporal thickness connects to the Map's [[tenets]] at several points.
 1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Engel, A.K., Fries, P., & Singer, W. (2001). "Dynamic predictions: Oscillations and synchrony in top-down processing." *Nature Reviews Neuroscience*, 2(10), 704-716.
-1. Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.
+1. Zheng, J., & Meister, M. (2025). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192-204.

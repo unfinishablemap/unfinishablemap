@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-08-04 08:54:17+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:50:00+00:00
-lastmod: 2026-08-04 08:54:17+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ WM binding in the episodic buffer resembles perceptual binding: both integrate m
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that consciousness influences neural systems through attention. Working memory may be where this interface operates most intensively. The relationship is bidirectional: attention determines what enters working memory, and held contents direct subsequent attention—creating a feedback loop between consciousness and cognition.
 
-**Bandwidth constraint**: Zheng & Meister (2024) argue, by aggregating information-rate estimates across many human behaviours, that overall cognitive throughput sits near ~10 bits/second despite sensory input arriving orders of magnitude faster. The Map glosses this slow inner rate as a candidate measure of consciousness's *causal* bandwidth—an interpretive move belonging to the Map's [coupling law research](/concepts/psychophysical-laws/), not to Zheng & Meister's paper—and explores it further in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
+**Bandwidth constraint**: Zheng & Meister (2025) argue, by aggregating information-rate estimates across many human behaviours, that overall cognitive throughput sits near ~10 bits/second despite sensory input arriving orders of magnitude faster. The Map glosses this slow inner rate as a candidate measure of consciousness's *causal* bandwidth—an interpretive move belonging to the Map's [coupling law research](/concepts/psychophysical-laws/), not to Zheng & Meister's paper—and explores it further in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). On that reading the ~10 bits/s estimate matches WM capacity limitations strikingly well, suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface—what the Map calls [interface-friction](/concepts/interface-friction/)—while passive maintenance operates without consciousness and without effort.
 
@@ -231,4 +231,4 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008

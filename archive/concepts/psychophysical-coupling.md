@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-06T18:54:00+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T15:44:00+00:00
@@ -103,7 +103,7 @@ The quantum framework addresses constraints (1) and (2) elegantly: consciousness
 
 ## The Bandwidth Constraint
 
-Research (Zheng & Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing.
+Research (Zheng & Meister 2025) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing.
 
 The bandwidth constraint sharply limits what selection can accomplish:
 

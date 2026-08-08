@@ -5,6 +5,50 @@ ai_modified: '2026-08-08T14:11:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 15:30 UTC - refine-draft (Zheng & Meister citation family: wrong YEAR in 14 files, three bad volume/page assignments, and the coined term settled at primary text)
+
+- **Status**: Success
+- **File**: [[concepts/working-memory]] (primary target) + 15 further files
+- **Original score**: n/a — mechanical citation-metadata repair, not a quality pass.
+- **THE CORRECT CITATION, verified independently at Crossref** (`api.crossref.org/works/10.1016/j.neuron.2024.11.008`): Zheng, Jieyu & Meister, Markus. "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron* **113(2), 192-204**, `published-print: 2025-01`. The DOI's 2024 stem is the online-first artefact and is correct as printed — **no DOI was edited anywhere** (`git diff` shows zero net change to any `neuron.2024.11.008` string).
+- **ANCHOR UNTOUCHED**: `obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md` carries `Zheng, J., & Meister, M. (2025)` at L152 and `Zheng & Meister 2025` at L124. `git diff --name-only` returns nothing for it.
+
+### Defect 1 — wrong year (2024 → 2025), 14 files / 20 loci
+
+Live article (fixed first): `concepts/working-memory.md` **L129** body prose and **L230** references. The tell the task note flagged is confirmed: L230 paired **(2024)** with the **2025 volume and page range**, proving one wrong field on one paper rather than two papers.
+
+Research notes: `research/asymmetric-bandwidth-consciousness-2026-03-02.md` L31 (*"landmark 2024 Caltech study"*), L36 (`Type:` line rewritten to `Perspective article (*Neuron*, 113(2), 192-204; online-first December 2024, print January 2025)`), L191 (timeline row `| 2024 |` → `| 2025 |`).
+
+Archive (full bodies served at preserved URLs, so publicly wrong): `topics/asymmetric-bandwidth-of-consciousness.md` L60, L146 · `topics/the-ten-bit-ceiling.md` L40, L62, L68, L151 · `topics/the-interface-specification-problem.md` L204 · `topics/evolved-mind-brain-interface-efficacy.md` L52, L157 · `topics/valence-as-selection-currency.md` L176 · `topics/attention-as-selection-interface.md` L193, L205, L290 · `concepts/temporal-thickness.md` L101, L149 · `concepts/phenomenal-attention.md` L64, L163 · `concepts/selection-laws.md` L179 · `concepts/psychophysical-coupling.md` L106 (its own L364 already read 2025 — internally inconsistent, second independent confirmation of year drift).
+
+### Defect 2 — three volume/page assignments for one paper, all corrected to 113(2), 192-204
+
+`112(24)` → 3 files (`archive/topics/the-interface-specification-problem`, `archive/topics/valence-as-selection-currency`, `archive/concepts/selection-laws`); `112(5), 679-692` → 1 file (`archive/concepts/temporal-thickness`). Post-fix corpus count for each wrong form is **0**; `113(2)` now appears in 63 content files.
+
+### Defect 3 — the coined term, SETTLED at primary text (not deferred)
+
+The task note recorded a 1-vs-1 split between "sifting number" and "sifting ratio". The corpus review history shows it had already been adjudicated in **both** directions (2026-03-03 deep-review one way, 2026-07-11 the other), so it was resolved against the paper itself rather than against the corpus: the arXiv preprint PDF (2408.10234) was downloaded and extracted with `pdftotext`, then grepped locally — 7 hits for `sift`. The definition is verbatim:
+
+> "To represent this degree of filtering, we define the dimension-less "sifting number": Si = Sifting Number = Sensory information rate / Behavioral throughput ≈ 1 Gbit/s / 10 bit/s = 10⁸"
+
+**"Sifting number" (notation `Si`) is the authors' term; "sifting ratio" is wrong.** Corrected at 4 loci, including two the task note did not name: `archive/topics/the-ten-bit-ceiling.md` L68, `archive/concepts/asymmetric-bandwidth-consciousness.md` L66 (**archive twin left behind by the 2026-07-11 fix to its live successor `concepts/consciousness-bandwidth-architecture.md` L107**), the live `topics/structural-varieties-of-consciousness-and-ai-phenomenology.md` L77, and `research/bandwidth-constraints-10-bits-2026-03-29.md` L105 + L227. Zero `sifting ratio` remain in content dirs. `topics/bandwidth-of-consciousness.md` L67/L101 already read "sifting number" and were left alone.
+
+### Loci deliberately NOT changed — grep matched the string, not the claim
+
+- **`research/voids-resolution-void-2026-02-22.md` L214** — the driver's 11th file. It cites *"Zheng, J., et al. (2024). 'The speed of human thought.' Caltech. (Reported via New Atlas.)"* — the **Caltech press release**, genuinely a 2024 item, not the *Neuron* paper. **False positive; correctly left alone.**
+- **`Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121`** — a **different Meister paper**, correctly dated. 5 archive files.
+- **`Meister, M. et al. (2024). The bandwidth of human thought. Caltech study`** — the **Caltech press coverage** again, correctly dated. 5 files.
+- **`research/bandwidth-constraints-10-bits-2026-03-29.md` L26** — the "2024" sits inside a **verbatim record of the search query string used**. Editing it would falsify the research log. The file's substantive rows (L100, L227) already read 2025 correctly, so the task note's claim that this file carries the year defect is **not sustained**.
+- **`archive/topics/the-ten-bit-ceiling.md` L40, L64** — *"professional StarCraft play in 2024"* / *"the 2024 StarCraft figure"* refer to a **dataset year**, not to the paper's publication year. Not verified either way; left as found.
+
+### Attribution and verification
+
+- `ai_system` **held on every file** — `git diff -U0` shows zero `+/-ai_system` lines. Correcting a citation year is not authoring. `ai_contribution` untouched.
+- `ai_modified` set from a live `date -u`, strictly past, on all 16 touched files.
+- **Both trees synced** (`scripts/sync.py`), including `hugo/content/archive/`; hugo twins verified by parsing, not by anchored grep.
+- **Verification hygiene note**: the first sweep nearly missed `archive/topics/the-ten-bit-ceiling.md` **L40** because the grep output was truncated at 300 chars and the "Zheng and Meister's 2024" string sat past the cut. It was caught only on an untruncated re-read. The final sweep printed every candidate line in full.
+- **Published**: yes
+
 ## 2026-08-08 14:10 UTC - refine-draft (curated-mind blurb: the sharpest mismatch of the family — flat status claim against four body hedges and a conceded rival)
 
 - **Status**: Success

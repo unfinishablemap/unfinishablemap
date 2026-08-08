@@ -4,7 +4,7 @@ description: "Consciousness receives ~10⁹ bits/s from the senses but influence
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-03T04:42:00+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ What matters for the asymmetry is the contrast. Whether inbound bandwidth measur
 
 ## The Outbound Channel: The ~10-Bit Ceiling
 
-Zheng and Meister's 2024 *Neuron* paper "The Unbearable Slowness of Being" quantified the outbound side across dozens of cognitive tasks. The results are remarkably consistent:
+Zheng and Meister's 2025 *Neuron* paper "The Unbearable Slowness of Being" quantified the outbound side across dozens of cognitive tasks. The results are remarkably consistent:
 
 | Task Domain | Conscious Throughput |
 |------------|---------------------|
@@ -143,6 +143,6 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 1. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Neural Bandwidth Constraints and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-bandwidth-constraints-and-the-interface/

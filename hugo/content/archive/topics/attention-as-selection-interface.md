@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-07 07:55:00+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Attention and the Consciousness Interface
 archived: true
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 04:57:00+00:00
-lastmod: 2026-08-07 07:55:00+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 original_path: /topics/attention-as-selection-interface/
 related_articles:
@@ -194,7 +194,7 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second to the brain. This [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/) defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3–4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts. The brain generates and evaluates options unconsciously; consciousness selects among results at this narrow bottleneck, a pattern echoing the broader principle of [adaptive computational depth](/concepts/adaptive-computational-depth/).
+Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2025). Yet sensory systems deliver ~10⁹ bits per second to the brain. This [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/) defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3–4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts. The brain generates and evaluates options unconsciously; consciousness selects among results at this narrow bottleneck, a pattern echoing the broader principle of [adaptive computational depth](/concepts/adaptive-computational-depth/).
 
 ## Testable Predictions
 
@@ -206,7 +206,7 @@ The interface hypothesis generates empirical predictions:
 
 **Attention disruption eliminates selection.** Agents that disrupt attention (without eliminating consciousness) should eliminate conscious influence on outcomes. Agents eliminating consciousness should also eliminate influence even if attention mechanisms remain operational.
 
-**Bandwidth limits match selection limits.** Tasks requiring faster selection than the ~10 bits/second ceiling (Zheng & Meister, 2024) should fail or become automatic (unconscious).
+**Bandwidth limits match selection limits.** Tasks requiring faster selection than the ~10 bits/second ceiling (Zheng & Meister, 2025) should fail or become automatic (unconscious).
 
 **Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation of the same neural patterns. Schwartz's OCD research supports this—directed attention produces brain changes that passive processing doesn't.
 
@@ -291,7 +291,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 7. Keppler, J. (2025). Cortical microcolumns and the quantum zero-point field. *Frontiers in Human Neuroscience*.
 
-8. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+8. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 
 9. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 

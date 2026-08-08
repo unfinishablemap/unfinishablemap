@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-19 03:38:00+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-7
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-19 03:38:00+00:00
-lastmod: 2026-04-19 03:38:00+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 original_path: /topics/the-ten-bit-ceiling/
 related_articles:
@@ -41,7 +41,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2024 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
+The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2025 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
 
 This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) and [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/); the mental-causation implications are developed in [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/). Here the question is narrower: how do we know the number, and what does it actually measure?
 
@@ -63,13 +63,13 @@ Pierce and Karlin (1957) applied Shannon's redundancy estimates for English to r
 
 The 39 bits/s speech figure appears to contradict the ~10 bits/s ceiling, but the conflict dissolves on closer inspection. The Coupé measurement captures the information content of the *speech signal* — the bits encoded in the acoustic stream a listener receives. It does not measure the rate of novel conscious decisions in the speaker. A fluent speaker does not consciously select each phoneme; phonological and syntactic processes run below the level of reportable choice. The portion of speech that reflects conscious content selection — what to say, in what register, at what moment — tracks the lower ten-bit figure.
 
-Zheng and Meister (2024), in "The Unbearable Slowness of Being" (*Neuron*), synthesised these scattered measurements into a unified claim. Their table spans choice-reaction tasks, digit memorisation, Tetris, StarCraft, speedcubing, speed cards, and expert typing. The range they report extends from roughly 5 bits/s (choice-reaction, digit memorisation) through 10 bits/s (typing, professional e-sports) to around 18 bits/s (elite memory athletes memorising shuffled decks under competitive conditions). All figures use the same methodology: the entropy of the decision space divided by elapsed time.
+Zheng and Meister (2025), in "The Unbearable Slowness of Being" (*Neuron*), synthesised these scattered measurements into a unified claim. Their table spans choice-reaction tasks, digit memorisation, Tetris, StarCraft, speedcubing, speed cards, and expert typing. The range they report extends from roughly 5 bits/s (choice-reaction, digit memorisation) through 10 bits/s (typing, professional e-sports) to around 18 bits/s (elite memory athletes memorising shuffled decks under competitive conditions). All figures use the same methodology: the entropy of the decision space divided by elapsed time.
 
 Two features of this convergence are worth emphasising. First, the measurements span more than seven decades of experimental work, with no evidence of a systematic upward drift over time. Hick's 1952 figure of ~5 bits/s and the 2024 StarCraft figure of ~10 bits/s sit within the same order of magnitude despite enormous differences in task, measurement apparatus, and participant pool. Second, the ceiling holds regardless of training or expertise. Zheng and Meister observe that the ceiling persists as task-specific skill improves — professionals do not process more bits per second of novel information than amateurs; they have restructured the task so that fewer conscious bits accomplish more work.
 
 ## What Zheng and Meister Actually Argue
 
-Zheng and Meister (2024) frame the ten-bit ceiling within a contrast they call the "inner brain" / "outer brain" distinction. The "outer brain" — sensory systems, motor peripheries, early cortical processing — handles roughly 10⁹ bits per second. The "inner brain" — whatever it is that produces reportable cognition and deliberate action — handles about 10 bits per second. The ratio between these, which they call the "sifting ratio," runs to roughly 10⁸. They describe this as "the largest unexplained number in brain science" and write that "this stark contrast remains unexplained and resolving this paradox should teach us something fundamental about brain function."
+Zheng and Meister (2025) frame the ten-bit ceiling within a contrast they call the "inner brain" / "outer brain" distinction. The "outer brain" — sensory systems, motor peripheries, early cortical processing — handles roughly 10⁹ bits per second. The "inner brain" — whatever it is that produces reportable cognition and deliberate action — handles about 10 bits per second. The ratio between these, which they call the "sifting number," runs to roughly 10⁸. They describe this as "the largest unexplained number in brain science" and write that "this stark contrast remains unexplained and resolving this paradox should teach us something fundamental about brain function."
 
 Three points are worth stating carefully. First, the paper is a perspective synthesising existing data, not a new experiment; its contribution is to apply Shannon methodology consistently across previously scattered measurements and to name the paradox. Second, Zheng and Meister are not committed to any particular metaphysics of consciousness — their paper is compatible with identity theory, functionalism, and interactionist dualism. What it claims is empirical: the ceiling exists, is not explained by individual neuron bandwidth (individual neurons transmit around 200 bits per second at typical firing rates), and is not explained by metabolic costs. Third, they speculate — flagged as speculation — that the serial architecture may be inherited from primitive organisms navigating chemical gradients. The Map treats this as one possible explanation, not as established.
 
@@ -152,6 +152,6 @@ The Map treats the ten-bit figure as one of several convergent structural signat
 1. Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497–516.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27, 379–423 and 623–656.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-18). Asymmetric Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/asymmetric-bandwidth-consciousness/

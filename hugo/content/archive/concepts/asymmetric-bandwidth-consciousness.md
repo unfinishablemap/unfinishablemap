@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-20 21:42:00+00:00
+ai_modified: 2026-08-08 15:29:42+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness Bandwidth Architecture
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-20 21:42:00+00:00
-lastmod: 2026-04-20 21:42:00+00:00
+lastmod: 2026-08-08 15:29:42+00:00
 modified: *id001
 original_path: /concepts/asymmetric-bandwidth-consciousness/
 related_articles:
@@ -67,7 +67,7 @@ This distinction separates the asymmetry concept from the simpler observation th
 
 Any account of how consciousness relates to the brain must explain the asymmetry. The constraint eliminates certain models:
 
-**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Zheng and Meister call this the "sifting ratio" and describe it as "the largest unexplained number in brain science." [Global Workspace Theory](/concepts/global-workspace-theory/) (Baars 1988, Dehaene & Naccache 2001) offers one account: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature—only one coalition of neural activity can dominate at a time. This genuinely explains *a* bottleneck, but the Map notes two residual puzzles. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster; what sets the ceiling? Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). Sauerbrei and Pruszynski's finding sharpens this puzzle: the brain clearly *can* process information at rates far exceeding 10 bits per second—it does so constantly for motor control and sensory processing. The bottleneck appears precisely and exclusively where consciousness enters the picture. If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes.
+**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Zheng and Meister call this the "sifting number" and describe it as "the largest unexplained number in brain science." [Global Workspace Theory](/concepts/global-workspace-theory/) (Baars 1988, Dehaene & Naccache 2001) offers one account: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature—only one coalition of neural activity can dominate at a time. This genuinely explains *a* bottleneck, but the Map notes two residual puzzles. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster; what sets the ceiling? Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). Sauerbrei and Pruszynski's finding sharpens this puzzle: the brain clearly *can* process information at rates far exceeding 10 bits per second—it does so constantly for motor control and sensory processing. The bottleneck appears precisely and exclusively where consciousness enters the picture. If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes.
 
 **[Filter models](/concepts/filter-theory/)** accommodate the asymmetry naturally. If the brain constrains rather than produces consciousness, the outbound bottleneck is the filter itself—the narrow channel through which consciousness acts on the physical world. The inbound channel may represent the brain's capacity to *transmit to* consciousness, while the outbound channel represents consciousness's capacity to *influence* the brain. The Sauerbrei and Pruszynski data reinforces this: the same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second at the point where consciousness participates. On the filter model, this is expected—the filter constrains consciousness specifically, not neural processing in general.
 

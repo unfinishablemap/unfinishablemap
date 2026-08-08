@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-04-18 08:04:00+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-6
 archive_reason: 'Coalesced into The Interface Problem: Location and Specification'
 archived: true
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-18 05:34:00+00:00
-lastmod: 2026-04-18 08:04:00+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 original_path: /topics/the-interface-specification-problem/
 related_articles:
@@ -205,4 +205,4 @@ The specification problem is the Map's most significant open challenge. Acknowle
 1. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+1. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

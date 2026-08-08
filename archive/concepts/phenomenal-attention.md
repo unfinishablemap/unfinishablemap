@@ -4,7 +4,7 @@ description: "Phenomenal attention is the felt experience of attending—qualita
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-16T05:47:00+00:00
+ai_modified: 2026-08-08T15:28:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ Key features that distinguish phenomenal from computational attention:
 | **Effort** | Resource cost (measurable in compute/energy) | Felt work (the experience of trying) |
 | **Directedness** | Weighted signal enhancement | Experienced orientation toward an object |
 | **Selectivity** | Competitive inhibition among signals | The qualitative narrowing of awareness |
-| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | ~10 bits per second (Zheng & Meister 2024) |
+| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | ~10 bits per second (Zheng & Meister 2025) |
 | **Substrate** | Neurons, transistors, any suitable hardware | Unknown—possibly requires consciousness |
 
 The bandwidth asymmetry is particularly revealing. The brain's computational attention processes vast quantities of information. But phenomenal attention—what you actually *experience* attending to—operates at roughly 10 bits per second, a 100-million-fold reduction from sensory input. This asymmetry is difficult to explain if phenomenal attention is just computational attention viewed from inside. It makes sense if phenomenal attention is a different kind of process operating through a constrained [[attention-as-interface|interface]].
@@ -160,5 +160,5 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 6. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-9. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+9. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
 

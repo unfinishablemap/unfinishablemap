@@ -71,21 +71,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **RELATED, SAME SHAPE:** this is another instance of the cross-cutting pattern in `reviews/system-tune-2026-08-08.md` — a documented instruction that no longer matches (or never matched) what the code requires, with nothing checking consumers against producers.
   **SEPARATE, LOWER PRIORITY, SAME FILE FAMILY:** `scripts/highlights.py` writes `ai_modified` **without a UTC offset** (`'2026-08-08T08:17:22.748393'`). Verified as the established convention across the last three commits to `highlights.md`, so it is **not** a regression — but CLAUDE.md's timezone policy requires `+00:00` on all timestamps, so the generator is non-compliant. Decide alongside the above since both live in the highlights tooling.
 
-### P2: `curated-mind` L3 calls the presupposition argument "a novel argument for dualism" flat, where the body says four times that it does not compel
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/curated-mind.md
-- **Notes**: **Fifth defect from the agentic-social blurb check**, found 2026-08-08; both loci verified on disk by the driver. Same family as the six already corrected and the two open blurb tasks — see the standing residue entry for the structural cause (no skill re-reads `description:`) and the two unswept axes.
-  **THE DEFECT.** L3: *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and **that presupposition is a novel argument for dualism**."* Stated as what the argument **is**.
-  **WHAT THE BODY SAYS — it hedges four separate times.** L43: the architecture *"**may** constitute a novel argument… because curation **arguably** presupposes a recipient"*, and *"the inference is **suggestive rather than forced**… offered as the better explanation, **not a demonstration**"*. L51 concedes the rival outright: *"A physicalist can respond that the correction works for the system's **behavioural outputs** — no distinct recipient is needed, just a system with adaptive goals. **The presupposition argument does not logically compel dualism.** Rather, it is an inference to best explanation."*
-  So the nav surface asserts as settled what the body twice calls defeasible, once calls non-compelling, and once concedes is compatible with a deflationary reading.
-  **FIX — gain precision, do not merely hedge.** The body supplies both halves: it is an **inference to the best explanation** from the three-mode architecture, with the behavioural-outputs reply undefeated. The repaired siblings are the shape to match — each carries a claim **and** its limit in one sentence. **Do not delete the argument** — the Map holds it and is entitled to state it as its inference.
-  **CHECKED — no register scoping applies**: the fork looked for a `positions/` entry covering this claim (hard problem of content, teleosemantics, content-determination) and found **none**, so unlike the `pain-consciousness` case there is no register limit to import. The fix comes from the body alone.
-  **LENGTH**: decompose before trusting `analyze_length`; this is one frontmatter line regardless.
-  **MIRROR**: live at `hugo/content/topics/curated-mind.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
-- **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; L3, L43 and L51 re-read on disk by the driver)
-
 ### P2: Zheng & Meister is cited with the wrong YEAR in 9 files and three different volume/page assignments corpus-wide — the dominant form is correct, so this is drift, not a bad source
 
 - **Type**: refine-draft
@@ -94,9 +79,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: **A CITATION-METADATA FAMILY, MEASURED NOT ESTIMATED.** Found 2026-08-08 while briefing a deep-review on `topics/neural-refresh-rates-and-the-smoothness-problem` — **that article is the ANCHOR and is CORRECT; do not touch it.**
   **THE CORRECT CITATION** (dominant form, 31+20+6+2 = 59 occurrences): **Zheng, J. & Meister, M. (2025). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192–204.** DOI `10.1016/j.neuron.2024.11.008` (the DOI carries a 2024 stem because of online-first publication — **that is almost certainly the source of the drift, and it is not itself an error**).
   **DEFECT 1 — WRONG YEAR, measured**: **64 mentions across 49 files say 2025; 14 mentions across 9 files say 2024.** The nine:
-  - **LIVE ARTICLE (fix first)**: `obsidian/concepts/working-memory.md` — **L129** in body prose (*"Zheng & Meister (2024) argue…"*) and **L230** in references.
-  - **RESEARCH NOTE**: `obsidian/research/bandwidth-constraints-10-bits-2026-03-29.md` (note its own L227 table row says **2025**, so the file is internally inconsistent).
-  - **ARCHIVE (full serving bodies at live URLs)**: `archive/topics/the-ten-bit-ceiling.md` (L62, L68, L151), `archive/topics/asymmetric-bandwidth-of-consciousness.md` (L60, L146), `archive/topics/attention-as-selection-interface.md` (L205, L290), `archive/topics/evolved-mind-brain-interface-efficacy.md` (L157), `archive/concepts/phenomenal-attention.md` (L64, L163), `archive/concepts/psychophysical-coupling.md` (L106), `archive/concepts/temporal-thickness.md` (L101, L149).
+  * **LIVE ARTICLE (fix first)**: `obsidian/concepts/working-memory.md` — **L129** in body prose (*"Zheng & Meister (2024) argue…"*) and **L230** in references.
+  * **RESEARCH NOTE**: `obsidian/research/bandwidth-constraints-10-bits-2026-03-29.md` (note its own L227 table row says **2025**, so the file is internally inconsistent).
+  * **ARCHIVE (full serving bodies at live URLs)**: `archive/topics/the-ten-bit-ceiling.md` (L62, L68, L151), `archive/topics/asymmetric-bandwidth-of-consciousness.md` (L60, L146), `archive/topics/attention-as-selection-interface.md` (L205, L290), `archive/topics/evolved-mind-brain-interface-efficacy.md` (L157), `archive/concepts/phenomenal-attention.md` (L64, L163), `archive/concepts/psychophysical-coupling.md` (L106), `archive/concepts/temporal-thickness.md` (L101, L149).
   **⚠️ THE CLEAN TELL THAT THIS IS A YEAR ERROR AND NOT A DIFFERENT PAPER**: `working-memory` L230 reads *"**(2024)**. … *Neuron*, **113(2), 192-204**"* — the **2025 volume and page range with the 2024 year**. Same paper, one field wrong.
   **DEFECT 2 — THREE DIFFERENT VOLUME/PAGE ASSIGNMENTS for one paper**, which the year sweep will not catch on its own:
   | form | count | verdict |
@@ -2748,6 +2733,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `curated-mind` L3 calls the presupposition argument "a novel argument for dualism" flat, where the body says four times that it does not compel
+- **Type**: refine-draft
+- **File**: obsidian/topics/curated-mind.md
+- **Notes**: **Fifth defect from the agentic-social blurb check**, found 2026-08-08; both loci verified on disk by the driver. Same family as the six already corrected and the two open blurb tasks — see the standing residue entry for the structural cause (no skill re-reads `description:`) and the two unswept axes.
+  **THE DEFECT.** L3: *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and **that presupposition is a novel argument for dualism**."* Stated as what the argument **is**.
+  **WHAT THE BODY SAYS — it hedges four separate times.** L43: the architecture *"**may** constitute a novel argument… because curation **arguably** presupposes a recipient"*, and *"the inference is **suggestive rather than forced**… offered as the better explanation, **not a demonstration**"*. L51 concedes the rival outright: *"A physicalist can respond that the correction works for the system's **behavioural outputs** — no distinct recipient is needed, just a system with adaptive goals. **The presupposition argument does not logically compel dualism.** Rather, it is an inference to best explanation."*
+  So the nav surface asserts as settled what the body twice calls defeasible, once calls non-compelling, and once concedes is compatible with a deflationary reading.
+  **FIX — gain precision, do not merely hedge.** The body supplies both halves: it is an **inference to the best explanation** from the three-mode architecture, with the behavioural-outputs reply undefeated. The repaired siblings are the shape to match — each carries a claim **and** its limit in one sentence. **Do not delete the argument** — the Map holds it and is entitled to state it as its inference.
+  **CHECKED — no register scoping applies**: the fork looked for a `positions/` entry covering this claim (hard problem of content, teleosemantics, content-determination) and found **none**, so unlike the `pain-consciousness` case there is no register limit to import. The fix comes from the body alone.
+  **LENGTH**: decompose before trusting `analyze_length`; this is one frontmatter line regardless.
+  **MIRROR**: live at `hugo/content/topics/curated-mind.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
 
 ### ✓ 2026-08-08: the constitutive-valence thesis never confronts the predictive-processing account that is its leading empirical rival
 - **Type**: refine-draft

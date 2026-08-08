@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-25 16:44:00+00:00
+ai_modified: 2026-08-08 15:28:32+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Valence and the Mechanism of Conscious Selection
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 16:44:00+00:00
-lastmod: 2026-03-25 16:44:00+00:00
+lastmod: 2026-08-08 15:28:32+00:00
 modified: *id001
 original_path: /topics/valence-as-selection-currency/
 related_articles:
@@ -177,6 +177,6 @@ The selection currency thesis is where several of the Map's tenets converge into
 5. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 6. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 7. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
-8. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+8. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Value-Blind vs Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/value-blind-vs-value-sensitive-selection/
 10. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-and-dualism/

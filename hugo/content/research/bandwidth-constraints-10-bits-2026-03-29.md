@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-28 22:55:09+00:00
+ai_modified: 2026-08-08 15:29:42+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -12,7 +12,7 @@ date: &id001 2026-03-29
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-28 22:55:09+00:00
+lastmod: 2026-08-08 15:29:42+00:00
 modified: *id001
 related_articles:
 - '[[asymmetric-bandwidth-consciousness-2026-03-02]]'
@@ -105,7 +105,7 @@ The claim that conscious processing operates at approximately 10 bits per second
   - Not a new experiment but a synthesis of existing measurements across domains
   - Applied Shannon information theory consistently to diverse behavioural tasks
   - The "outer brain" (sensory/motor) processes ~10⁹ bits/s; the "inner brain" (conscious thought) processes ~10 bits/s
-  - The "sifting ratio" of 10⁸ is the largest unexplained number in brain science
+  - The "sifting number" (Si) of 10⁸ is the largest unexplained number in brain science
   - Individual neurons can transmit ~2 bits per spike at ~100 spikes/s = ~200 bits/s per neuron — the bottleneck is not at the cellular level
   - The brain stores only ~1 GB over a lifetime, far below its ~50 TB theoretical capacity
   - Speculates the serial architecture was inherited from primitive organisms navigating chemical gradients
@@ -227,7 +227,7 @@ The ~10 bits/s figure measures the throughput of the conscious bottleneck itself
 | 1998 | Nørretranders, "The User Illusion" | Popularised the ~16 bits/s conscious bandwidth figure and the 10⁶-fold disparity with sensory input |
 | 2016 | Wu et al., cognitive control capacity | Estimated cognitive control at ~3-4 bits/s — even lower than perceptual decision-making |
 | 2019 | Coupé et al., universal speech information rate | Showed all human languages converge on ~39 bits/s transmission rate — a cognitive constraint on language |
-| 2025 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark synthesis: ~10 bits/s universal across all conscious tasks; 10⁸-fold sifting ratio; inner/outer brain framework (online-first Dec 2024, *Neuron* print Jan 2025) |
+| 2025 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark synthesis: ~10 bits/s universal across all conscious tasks; 10⁸-fold sifting number; inner/outer brain framework (online-first Dec 2024, *Neuron* print Jan 2025) |
 | 2025 | Sauerbrei & Pruszynski, "The Brain Works at More Than 10 Bits Per Second" | Major critique accepting cognitive ceiling but arguing unconscious motor control exceeds it |
 
 ## Potential Article Angles
