@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-16 13:46:56+00:00
+ai_modified: 2026-08-08 17:18:21+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:39:35+00:00
-lastmod: 2026-07-16 13:46:56+00:00
+lastmod: 2026-08-08 17:18:21+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -44,7 +44,7 @@ The core finding — that process-access reports are unreliable in ways subjects
 
 ## The Founding Statement: Nisbett & Wilson 1977
 
-Nisbett and Wilson's central claim was deliberately narrow. They argued that "people often cannot report accurately on the effects of particular stimuli on higher order, inference-based responses" and that when asked, they "may not be aware of the existence of the stimulus that importantly influenced a response, [or] not aware of the existence of the response, [or] not aware that the stimulus has affected the response." Their thesis was about *process access*, not content access.
+Nisbett and Wilson's central claim was deliberately narrow. They argued that "people often cannot report accurately on the effects of particular stimuli on higher order, inference-based responses." Their abstract sets the failure out as a cumulative one: "Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response." The three unawarenesses are conjoined rather than offered as alternatives: where the effect obtains, the stimulus, the response, and the link between them can each be invisible to the person reporting. Their thesis was about *process access*, not content access.
 
 The verbal-report study series collected cases where the experimenters had independent knowledge of what was actually causing subjects' behaviour, and could therefore check verbal reports against ground truth. The pattern across cases was consistent: subjects produced confident causal explanations that did not match the manipulated variable, and produced them in a way that suggested they were drawing on shared *a priori* theories about plausible causes rather than on privileged introspective access to their own processing.
 

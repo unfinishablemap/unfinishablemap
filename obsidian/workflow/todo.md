@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `process-content-distinction.md` presents a paraphrase of the Nisbett & Wilson ABSTRACT as a bracketed verbatim quotation — the string occurs 0 times in the 29-page paper, and the bracket edits flip a conjunction to a disjunction
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/process-content-distinction.md
-- **Status**: pending
-- **Notes**: **Primary-text verified** — full text of Nisbett & Wilson 1977, *Psychological Review* 84(3), 231–259 retrieved (29 pages, 130,674 chars flattened) and searched. § "The Founding Statement" quotes subjects as *"may not be aware of the existence of the stimulus that importantly influenced a response, [or] not aware of the existence of the response, [or] not aware that the stimulus has affected the response."* **`"may not be aware"` occurs 0 times in the paper; `"aware of the existence of the stimulus"` occurs 0 times.** The actual source is the abstract: *"Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."*
-  Three substitutions ("unaware of" → "may not be aware of"; "a stimulus" → "the stimulus"), plus `(a)/(b)/(c)` replaced by `[or]`. **The last is substantive**: the original is a *conjunction* of three cumulative findings ("and (c)"); the article renders a *disjunction*, weakening the claim it is invoked to support. The editorial brackets make this the severe class — they signal to a reader that everything outside them is verbatim, and nothing outside them is.
-  **Fix**: quote the abstract accurately, or convert to indirect speech. ⚠️ **Do NOT touch the article's other Nisbett quotation** — *"people often cannot report accurately on the effects of particular stimuli on higher order, inference-based responses"* is **exactly verbatim** (p. 231, conclusion 1) and verified clean.
-- **Source**: pessimistic-review 2026-08-08 — see [[reviews/pessimistic-2026-08-08-claim-fidelity-base-rate]]
-
 ### P3: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
 
 - **Type**: refine-draft
@@ -2700,6 +2690,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `process-content-distinction.md` presents a paraphrase of the Nisbett & Wilson ABSTRACT as a bracketed verbatim quotation — the string occurs 0 times in the 29-page paper, and the bracket edits flip a conjunction to a disjunction
+- **Type**: refine-draft
+- **File**: obsidian/concepts/process-content-distinction.md
+- **Notes**: **Primary-text verified** — full text of Nisbett & Wilson 1977, *Psychological Review* 84(3), 231–259 retrieved (29 pages, 130,674 chars flattened) and searched. § "The Founding Statement" quotes subjects as *"may not be aware of the existence of the stimulus that importantly influenced a response, [or] not aware of the existence of the response, [or] not aware that the stimulus has affected the response."* **`"may not be aware"` occurs 0 times in the paper; `"aware of the existence of the stimulus"` occurs 0 times.** The actual source is the abstract: *"Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."*
+  Three substitutions ("unaware of" → "may not be aware of"; "a stimulus" → "the stimulus"), plus `(a)/(b)/(c)` replaced by `[or]`. **The last is substantive**: the original is a *conjunction* of three cumulative findings ("and (c)"); the article renders a *disjunction*, weakening the claim it is invoked to support. The editorial brackets make this the severe class — they signal to a reader that everything outside them is verbatim, and nothing outside them is.
+  **Fix**: quote the abstract accurately, or convert to indirect speech. ⚠️ **Do NOT touch the article's other Nisbett quotation** — *"people often cannot report accurately on the effects of particular stimuli on higher order, inference-based responses"* is **exactly verbatim** (p. 231, conclusion 1) and verified clean.
 
 ### ✓ 2026-08-08: `emotion-and-dualism` `description:` says "causally indispensable" — the three body loci that backed it were scoped on 2026-08-08 and the blurb is now unbacked
 - **Type**: refine-draft

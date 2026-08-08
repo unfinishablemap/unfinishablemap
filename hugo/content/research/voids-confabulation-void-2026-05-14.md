@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 13:36:21+00:00
+ai_modified: 2026-08-08 17:18:21+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-05-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-27 13:36:21+00:00
+lastmod: 2026-08-08 17:18:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ Confabulation — the production of plausible-sounding but ungrounded explanatio
 - **URL**: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf
 - **Type**: Foundational paper (*Psychological Review*)
 - **Key points**:
-  - Reviews evidence that subjects are "(a) sometimes unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."
+  - Reviews evidence that "Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."
   - Proposes that when people report on their cognitive processes, they do so not via introspection but via "a priori, implicit causal theories" — judgements about what plausibly *would have* caused the response.
   - Cited 2,633 times by mid-2006 (one of the most cited articles in the recent history of consciousness studies); "no empirical research program currently exists that continues the work" — the finding has been absorbed but not extended methodologically.
 - **Tenet alignment**: Dualism — supports the view that the introspecting subject does not have direct access to the underlying physical-functional history of cognition; what reaches consciousness is constructed product. Occam's Razor — the implicit-causal-theory machinery is itself a parsimony heuristic that selects plausible-sounding causes, not necessarily true ones.

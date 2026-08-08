@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-04T07:42:00+00:00'
+ai_modified: '2026-08-08T17:09:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-04 07:42:00+00:00
+lastmod: 2026-08-08 17:09:07+00:00
 modified: *id001
 related_articles:
 - '[[project]]'

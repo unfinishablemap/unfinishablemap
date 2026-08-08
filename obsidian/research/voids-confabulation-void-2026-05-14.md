@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Confabulation Void"
 created: 2026-05-14
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-08-08T17:18:21+00:00
 draft: false
 target_section: voids
 topics:
@@ -64,7 +64,7 @@ Confabulation — the production of plausible-sounding but ungrounded explanatio
 - **URL**: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf
 - **Type**: Foundational paper (*Psychological Review*)
 - **Key points**:
-  - Reviews evidence that subjects are "(a) sometimes unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."
+  - Reviews evidence that "Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response."
   - Proposes that when people report on their cognitive processes, they do so not via introspection but via "a priori, implicit causal theories" — judgements about what plausibly *would have* caused the response.
   - Cited 2,633 times by mid-2006 (one of the most cited articles in the recent history of consciousness studies); "no empirical research program currently exists that continues the work" — the finding has been absorbed but not extended methodologically.
 - **Tenet alignment**: Dualism — supports the view that the introspecting subject does not have direct access to the underlying physical-functional history of cognition; what reaches consciousness is constructed product. Occam's Razor — the implicit-causal-theory machinery is itself a parsimony heuristic that selects plausible-sounding causes, not necessarily true ones.
