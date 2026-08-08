@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and the Epistemology of Extended Cognition"
-description: "The extended mind thesis reveals consciousness as the non-negotiable epistemic core. Cognition extends; phenomenal experience does not—and this asymmetry strengthens dualism."
+description: "On the Map's reading, cognition extends but phenomenal experience does not—leaving consciousness the epistemic core, a gap coherent with dualism rather than evidence for it."
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-08-08T11:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-06-26T11:18:14+00:00
 ---
 
-The extended mind thesis—the claim that cognitive processes can literally include notebooks, smartphones, and environmental structures—inadvertently reveals where cognition ends and consciousness begins. Proponents argue that if an external device plays the same functional role as an internal mental state, it should count as part of the mind. This argument works for information storage and processing. It fails for phenomenal experience. The asymmetry is not a minor wrinkle; it is a structural disclosure. The features that resist extension—[[qualia|qualitative character]], subjective justification, the felt presence of experience—are precisely what dualism identifies as irreducible. Extended cognition, far from undermining the case for consciousness as fundamental, strengthens it by marking the exact boundary where functional analysis runs out.
+On the Map's reading, the extended mind thesis—the claim that cognitive processes can literally include notebooks, smartphones, and environmental structures—inadvertently marks where cognition ends and consciousness begins. Proponents argue that if an external device plays the same functional role as an internal mental state, it should count as part of the mind. This argument works for information storage and processing. It fails for phenomenal experience. The asymmetry is not a minor wrinkle; it is a structural disclosure. The features that resist extension—[[qualia|qualitative character]], subjective justification, the felt presence of experience—are precisely what dualism identifies as irreducible. Extended cognition, far from undermining the case for consciousness as fundamental, is coherent with it, tracing the boundary where functional analysis runs out.
 
 ## The Extended Mind Thesis
 
