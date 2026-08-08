@@ -37,6 +37,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `apex/moral-architecture-of-consciousness` L82 calls three arguments "tests" that "support" the value identity, and never mentions the rival the register says holds its credence at moderate
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/moral-architecture-of-consciousness.md
+- **Notes**: **MINOR AND DELIBERATELY P3 — a flagship apex overstating by one word, not a false claim.** Surfaced 2026-08-08 by an agentic-social blurb vet using the positions-register lens; the fork judged it below the defect threshold and I largely agree, but it sits on an apex and the second half is more than word choice. Both loci verified on disk.
+  **THE CLAIM.** L82: *"…some phenomenal properties are simultaneously descriptive and normative. **Three tests support it.** Coherence: … Transparency: … Explanatory economy: …"*
+  **WHAT THE REGISTER SAYS ABOUT THOSE EXACT THREE.** `positions/value-in-selection.md` **P-VS3** names the same trio — *"coherence, transparency, explanatory economy (Rawlette, The Feeling of Value, 2016)"* — and characterises them as **"arguments it runs, not results it has won"**, at credence **moderate**, external-evidence grade **D**. "Tests support it" reads as arguments having been *passed*; the register's own framing is that they are the case being made, not evidence returned.
+  **THE SHARPER HALF: the live rival is absent.** P-VS3 holds credence at *moderate* rather than high **because illusionism is live** — and this apex contains **zero** occurrences of "illusion" (measured). So the flagship states the identity and its supports without the defeater that determines its calibration band. P-VS4 (added 2026-08-07) sits alongside it and is calibrated *low* for related reasons.
+  **FIX — small, and do not overcorrect.** Re-word "Three tests support it" to something that presents them as the arguments they are (the register's own phrasing is available), and add a clause naming illusionism as the live rival that keeps the credence moderate. **Do not weaken the identity claim itself** — the Map holds it, P-VS3 records it as *live*, and the apex is entitled to assert it. One sentence of scope is the whole job.
+  **CHECKED AND SOUND — do not touch**: the article's `description:` is properly conditional (*"If the Map's tenets hold…"*) and the body backs both halves; the patienthood-before-agency structure is correct; P-VS1's *low*/grade-D banding is stated accurately elsewhere in the article, including an explicit discount of the unity-as-evidence move.
+  **LENGTH**: apex thresholds are 4000/5000/6500 — decompose before trusting `analyze_length`, and this is a clause-level edit in any case.
+  **MIRROR**: live at `hugo/content/apex/moral-architecture-of-consciousness.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — installing a scope limit the register already records is correction, not authoring.
+- **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; both loci and the zero-occurrence count re-verified by the driver)
+
 ### P2: `emotion-and-dualism` body — L86 asserts the epiphenomenalist retreat is blocked, unqualified, where the Map's own P-MC1 scopes that block to bare-correlation only; and L56 hedges then un-hedges in one paragraph
 
 - **Type**: refine-draft
