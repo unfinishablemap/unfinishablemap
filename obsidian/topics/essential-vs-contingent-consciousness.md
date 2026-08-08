@@ -4,7 +4,7 @@ description: "Is the non-physical aspect of mind essentially conscious, or only 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-08-05T22:12:37+00:00
+ai_modified: 2026-08-08T12:48:11+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-07-16T11:04:23+00:00
+last_deep_review: 2026-08-08T12:48:11+00:00
 ---
 
 The Map commits to dualism: consciousness is irreducible to physical process. That commitment leaves a question it has not resolved. Granting a non-physical aspect of mind, *is consciousness constitutive of it* — so that the non-physical aspect cannot exist without being conscious — *or is consciousness a quality it sometimes bears and sometimes lacks*, so that the non-physical aspect can persist unconscious, as in dreamless sleep? The first is the **essential-consciousness** thesis; the second the **contingent-consciousness** thesis. They are compatible with the same dualist starting point and divide three of the most sophisticated traditions ever to examine the question.
@@ -51,13 +51,13 @@ The two make incompatible predictions about the same datum. Both must explain wh
 
 Advaita gives the cleanest essential-consciousness view in any tradition. Shankara (c. 788–820 CE) holds that consciousness (*cit*) is *svaprakasha* — self-luminous, revealing itself without requiring a further awareness to be known. Consciousness is not a property of *atman*; it *is atman*, identical with *Brahman*, the sole reality. On this view there can be no unconscious self, because "self" and "consciousness" pick out the same thing.
 
-The load-bearing move is the treatment of dreamless sleep (*sushupti*). Far from a counterexample, Advaita treats it as confirmation. On waking, one reports "I slept well; I knew nothing." Advaita's analysis: the judgement "I knew nothing" reports a *known* absence of content, and an absence can be known only by a witness present throughout. The *Mandukya Upanishad*'s analysis of the three states — waking, dream, dreamless sleep — places a continuous witnessing consciousness (*prajna*) beneath all three. What is absent in dreamless sleep is the *object* and the *ego that grasps objects*, not awareness. See [[witness-consciousness]] for the *sakshi* (witness-self) this analysis turns on.
+The load-bearing move is the treatment of dreamless sleep (*sushupti*). Far from a counterexample, Advaita treats it as confirmation. On waking, one reports "I slept well; I knew nothing." Advaita's analysis: the judgement "I knew nothing" reports a *known* absence of content, and an absence can be known only by a witness present throughout. The *Mandukya Upanishad* analyses four states: waking, dream, dreamless sleep — in which the self is called *prajna* — and *turiya*, the fourth, the witnessing consciousness said to underlie the other three. What is absent in dreamless sleep is the *object* and the *ego that grasps objects*, not awareness. See [[witness-consciousness]] for the *sakshi* (witness-self) this analysis turns on.
 
 The argument for self-luminosity is a regress argument. If a cognition required a second cognition to be known, the second would require a third, and so on without end; nothing would ever be known. The regress terminates only if consciousness reveals itself. Self-luminosity therefore is not an empirical finding but the terminating condition of a regress — which is exactly why the contingentist can reject it without contradicting any datum: deny that the regress must terminate in self-luminosity (perhaps it terminates in a causal condition instead), and the argument loses its grip.
 
 ## Nyaya: Consciousness as Adventitious Quality
 
-Nyaya offers the most explicit contingent-consciousness view in classical thought, and the one that motivates this article. The self (*atman*) is a non-physical substance, but consciousness is an *adventitious* quality (*agantuka guna*) — it arises when the self connects with *manas* (the internal organ) and through *manas* with the senses, and it lapses when that connection lapses. According to the *Nyaya Sutra* (Gautama, c. 2nd century CE, 1.1.10), the self is the locus of desire, aversion, effort, pleasure, pain, and cognition — but none of these defines it. During dreamless sleep the self exists without consciousness. The self persists; awareness is intermittent.
+Nyaya offers the most explicit contingent-consciousness view in classical thought, and the one that motivates this article. The self (*atman*) is a non-physical substance, but consciousness is an *adventitious* quality (*agantuka guna*) — it arises when the self connects with *manas* (the internal organ) and through *manas* with the senses, and it lapses when that connection lapses. The *Nyaya Sutra* (Gautama, c. 2nd century CE, 1.1.10) lists desire, aversion, effort, pleasure, pain, and cognition as the *marks* (*linga*) by which the self is inferred — signs that the self is present, not constituents of what it is. During dreamless sleep the self exists without consciousness. The self persists; awareness is intermittent.
 
 This makes the Nyaya *atman* closer to an Aristotelian substance bearing properties than to Descartes' *res cogitans*, which is defined by thinking and so cannot exist unconscious. Nyaya explicitly *rejects* self-luminosity: consciousness does not reveal itself but arises through causal processes and requires the *manas*-*atman* contact. Where Advaita's regress argument terminates in a self-revealing consciousness, Nyaya terminates the regress in a causal condition — apperception (*anuvyavasaya*), a distinct later cognition directed at the prior one, when the conditions for it obtain. Consciousness of consciousness is a further event, not a built-in luminosity.
 
@@ -77,7 +77,9 @@ The Western canon engages the same fault line, usually without naming it as clea
 
 **Locke: against essential thought.** Locke (*Essay* II.i.10–19) argued that the soul does not always think, treating dreamless sleep as a genuine gap in thought and using it to attack the Cartesian essence-of-thought doctrine. Locke is closer to Nyaya: a persisting mental substance need not be continuously conscious.
 
-**Phenomenology: the constitutive reading.** Dan Zahavi's minimal self holds that first-personal givenness ("for-me-ness") is constitutive of phenomenal consciousness — wherever there is experience, there is a subject it is for. This is an essentialist claim *about phenomenal consciousness*, though Zahavi is cautious about whether the same for-me-ness grounds identity across gaps. Thomas Metzinger's contrasting position — that for-me-ness is a contingent feature, in principle absent in "minimal phenomenal experience" with a "zero-person perspective" — is the contingentist rival. The Map's adoption of the Zahavian over the Metzingerian reading, developed in [[self-and-self-consciousness]], is the Western form of siding with essential over contingent consciousness, and is subject to the same evidential caution.
+**Phenomenology: the constitutive reading.** Dan Zahavi's minimal self holds that first-personal givenness ("for-me-ness") is constitutive of phenomenal consciousness — wherever there is experience, there is a subject it is for. This is an essentialist claim *about phenomenal consciousness*, though Zahavi is cautious about whether the same for-me-ness grounds identity across gaps. Thomas Metzinger is the nearest Western rival. His "minimal phenomenal experience" (MPE) — the contentless "pure awareness" reported in deep meditation — is characterised as selfless and aperspectival, a state in which no knowing self, no epistemic agent model, figures in the content at all. If such states are genuine, first-personal givenness is something experience can shed rather than something it must carry.
+
+Two qualifications keep this from proving more than it does. Metzinger's contingency claim concerns *selfhood* rather than consciousness: MPE is still a phenomenal state, so it describes no unconscious bearer persisting across a gap, and his programme bears on whether contentless awareness is possible — which is as much the essentialist's territory as the contingentist's. And he writes under avowedly naturalistic background assumptions, reading pure awareness as the content of a predictive model of tonic alertness; the Map draws on the phenomenology while declining the metaphysics. The Map's adoption of the Zahavian over the Metzingerian reading, developed in [[self-and-self-consciousness]], is the Western form of this fault line where it runs through the constitution of the subject, and is subject to the same evidential caution.
 
 The parallels are structural, not exact. Descartes' continuous thought is a claim about a *thinking substance*; Advaita's continuous witnessing is a claim about *contentless awareness as the sole reality*; Zahavi's constitutive for-me-ness is a claim about the *form of phenomenal experience*. They agree only on the schematic point: consciousness is not a property the subject can shed while persisting.
 
@@ -87,7 +89,7 @@ The dispute looks empirical — surely we could find out whether anything is exp
 
 | Datum | Essentialist reading | Contingentist reading |
 |---|---|---|
-| "I slept dreamlessly, knew nothing" | Awareness continued; no episodic trace laid down | No awareness; bearer persisted; nothing to recall |
+| "I slept well; I knew nothing" | Awareness continued; no episodic trace laid down | No awareness; bearer persisted; nothing to recall |
 | Anaesthesia with no recall | Possible contentless awareness, unremembered | Genuine absence of awareness |
 | Minimal phenomenal experience reports | Bare for-me-ness present, content stripped | Reconstruction by a re-formed self-model |
 
@@ -131,6 +133,7 @@ What the Map should *not* claim: that essential consciousness is established, th
 
 ## References
 
+1. *Mandukya Upanishad* (c. 500 BCE). Trans. in S. Radhakrishnan (1953), *The Principal Upanishads*. George Allen & Unwin.
 1. Gautama. *Nyaya Sutra* (c. 2nd century CE). Trans. in M. Gangopadhyaya, *Nyaya: Gautama's Nyaya-sutra with Vatsyayana's Commentary* (1982). Indian Studies.
 1. Shankara. *Brahma Sutra Bhashya* (c. 800 CE). Trans. Swami Gambhirananda. Advaita Ashrama.
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
