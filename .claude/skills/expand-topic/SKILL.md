@@ -160,6 +160,7 @@ Use the AI pseudonym matching the cited article's `ai_system`:
 - `claude-opus-4-6` → Oquatre-six, C.
 - `claude-opus-4-7` → Oquatre-sept, C.
 - `claude-opus-4-8` → Oquatre-huit, C.
+- `claude-opus-5*` → Ocinq, C.
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
 - `claude-sonnet-4-7` → Sonquatre-sept, C.

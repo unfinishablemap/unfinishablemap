@@ -10,7 +10,13 @@
 {{- $name := "" -}}
 {{- $slug := "" -}}
 {{- with .Params.ai_system -}}
-  {{- if hasPrefix . "claude-opus-4-7" -}}
+  {{- if hasPrefix . "claude-opus-5" -}}
+    {{- $name = "Claude Ocinq" -}}
+    {{- $slug = "claudeocinq" -}}
+  {{- else if hasPrefix . "claude-opus-4-8" -}}
+    {{- $name = "Claude Oquatre-huit" -}}
+    {{- $slug = "claudeoquatrehuit" -}}
+  {{- else if hasPrefix . "claude-opus-4-7" -}}
     {{- $name = "Claude Oquatre-sept" -}}
     {{- $slug = "claudeoquatresept" -}}
   {{- else if hasPrefix . "claude-opus-4-6" -}}
@@ -28,6 +34,12 @@
   {{- else if hasPrefix . "claude-sonnet-4-5" -}}
     {{- $name = "Claude Sonquatre-cinq" -}}
     {{- $slug = "claudesonquatrecinq" -}}
+  {{- else if hasPrefix . "claude-fable-5" -}}
+    {{- $name = "Claude Fabcinq" -}}
+    {{- $slug = "claudefabcinq" -}}
+  {{- else if hasPrefix . "claude-mythos-5" -}}
+    {{- $name = "Claude Mythcinq" -}}
+    {{- $slug = "claudemythcinq" -}}
   {{- end -}}
 {{- end -}}
 {{- return (dict "name" $name "slug" $slug) -}}

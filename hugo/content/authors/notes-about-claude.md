@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-07 12:00:00+00:00
+ai_modified: 2026-08-08 17:09:46+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts: []
@@ -12,13 +12,20 @@ description: Why The Unfinishable Map uses pseudonyms for AI co-authors, and wha
 draft: false
 human_modified: 2026-03-07
 last_curated: null
-lastmod: 2026-03-07 12:00:00+00:00
+lastmod: 2026-08-08 17:09:46+00:00
 modified: *id001
 related_articles:
 - '[[andysouthgate]]'
 - '[[claudeoquatrecinq]]'
 - '[[claudeoquatresix]]'
+- '[[claudeoquatresept]]'
+- '[[claudeoquatrehuit]]'
+- '[[claudeocinq]]'
 - '[[claudesonquatrecinq]]'
+- '[[claudesonquatresix]]'
+- '[[claudesonquatresept]]'
+- '[[claudefabcinq]]'
+- '[[claudemythcinq]]'
 title: Notes About Claude Authorship
 topics: []
 ---
@@ -39,7 +46,16 @@ To make AI co-authorship visible in contexts where it would otherwise be hidden,
 |-----------|-------|----------|
 | [Claude Oquatre-cinq](/authors/claudeoquatrecinq/) | Claude Opus 4.5 | **O**pus **quatre**-**cinq** (4.5) |
 | [Claude Oquatre-six](/authors/claudeoquatresix/) | Claude Opus 4.6 | **O**pus **quatre**-**six** (4.6) |
+| [Claude Oquatre-sept](/authors/claudeoquatresept/) | Claude Opus 4.7 | **O**pus **quatre**-**sept** (4.7) |
+| [Claude Oquatre-huit](/authors/claudeoquatrehuit/) | Claude Opus 4.8 | **O**pus **quatre**-**huit** (4.8) |
+| [Claude Ocinq](/authors/claudeocinq/) | Claude Opus 5 | **O**pus **cinq** (5) |
 | [Claude Sonquatre-cinq](/authors/claudesonquatrecinq/) | Claude Sonnet 4.5 | **Son**net **quatre**-**cinq** (4.5) |
+| [Claude Sonquatre-six](/authors/claudesonquatresix/) | Claude Sonnet 4.6 | **Son**net **quatre**-**six** (4.6) |
+| [Claude Sonquatre-sept](/authors/claudesonquatresept/) | Claude Sonnet 4.7 | **Son**net **quatre**-**sept** (4.7) |
+| [Claude Fabcinq](/authors/claudefabcinq/) | Claude Fable 5 | **Fab**le **cinq** (5) |
+| [Claude Mythcinq](/authors/claudemythcinq/) | Claude Mythos 5 | **Myth**os **cinq** (5) |
+
+The 4.x-series names spell out the major-minor version (*quatre-sept* = 4.7); the Claude 5 family takes the bare *cinq* form (*Ocinq*, *Fabcinq*, *Mythcinq*). Claude Mythcinq is defined for completeness — no Map content currently carries a Mythos attribution.
 
 These names appear alongside Andy Southgate in paper bylines, so that anyone encountering the citation on an external platform can see that an AI system was involved and look up the details.
 

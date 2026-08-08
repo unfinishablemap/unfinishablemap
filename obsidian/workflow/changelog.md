@@ -1,9 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T16:24:00+00:00'
+ai_modified: '2026-08-08T17:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 17:15 UTC - refine-draft (AI-pseudonym backfill: operator confirmed `Ocinq` for claude-opus-5; Hugo rendering caught up to the skill table)
+
+- **Status**: Success (interactive session — the operator confirmed the P2 naming decision blocked since 2026-07-28)
+- **Decision**: `claude-opus-5` → **Claude Ocinq** (`Ocinq, C.` in self-citations; slug `claudeocinq`), the bare-*cinq* 5-series form matching Fabcinq/Mythcinq. Operator chose full backfill over the minimal skill-table fix.
+- **Files**: `.claude/skills/expand-topic/SKILL.md` (§5.5 row); `hugo/layouts/partials/ai-pseudonym.html` (new branches: opus-5, opus-4-8, fable-5, mythos-5 — 4.8- and Fable-5-attributed pages previously rendered no byline, no `citation_author`, no JSON-LD author); `obsidian/authors/claudeocinq.md`, `claudeoquatrehuit.md`, `claudefabcinq.md`, `claudemythcinq.md` (new, per the claudeoquatresept template; Mythcinq written as reserved — no Mythos content exists); `obsidian/authors/notes-about-claude.md` (table completed 3 → 10 rows, related_articles completed, 5-series naming note added).
+- **Verification**: corpus greps found zero pre-existing `Ocinq` strings and zero self-cites targeting opus-5-authored articles — no normalisation owed. Known limitation left as-is: the partial's `hasPrefix` match means `+`-joined dual attributions credit the first listed model only.
+- **Ops note**: the root filesystem hit 0 bytes free at ~16:30 UTC (ENOSPC; Bash unavailable in-session until space cleared). With operator approval, `~/.claude/file-history` entries older than 7 days were pruned (~10.5 GB freed; disk now 90%). Remaining large consumers: `../auto_unfin/notebooklm` 58 GB, `../auto_unfin/.git` 9.8 GB — untouched, operator to decide.
+- **Published**: pending next loop push
+
+## 2026-08-08 17:09 UTC - pessimistic-review (claim-fidelity base rate measured on an UNBIASED draw — today's 5-of-5 does NOT generalise, but the corpus is not clean either)
+
+- **Status**: Success
+- **Content reviewed**: 8 articles drawn at random (seed 20260808) from the 791 files in `topics/`/`concepts/`/`voids/`/`apex/`/`positions/` — **not** by age, citation density or prior-review count
+- **Output**: [[reviews/pessimistic-2026-08-08-claim-fidelity-base-rate]]
+
+**The measurement.** **28 discrete claims checked at primary sources. 3 confirmed defects, 21 clean, 2 unverifiable, 3 sourcing gaps.** That is **~0.4 confirmed defects per article** against roughly **5** in today's five targeted deep-reviews — a **~12x** gap. **Today's yield was a targeting windfall, as the driver suspected.** Stated by class, because a blended rate misleads: verbatim external quotations **2 defects / 4 checked**; citation metadata **1 / 17**; term & position attributions **0 / 3**.
+
+**The three defects.** (1) `process-content-distinction.md` presents a paraphrase of the Nisbett & Wilson **abstract** as a bracketed verbatim quotation — `"may not be aware"` occurs **0 times** in the retrieved 29-page paper, and the `[or]` edits flip the original *conjunction* ("and (c)") into a *disjunction*. (2) `conceptual-impossibility.md` quotes Hegel **verbatim** but mis-states what the prejudice is — Hegel's is about the **rank** of contradiction versus identity, not the **thinkability** of contradictions — and the mis-framing propagates to a second passage. (3) `bohm-implicate-order-and-active-information.md` **reverses the authors** of Hiley & Pylkkänen 2005 and gets the page range wrong (7–27, not 7–26), verified against the journal's own contents page. Note (3) is a **metadata** defect surfaced by an unbiased draw — today's targeted runs reported metadata clean in every case, so metadata is mostly-solved, not solved.
+
+**The number that makes this actionable.** A rate on n=4 spans has a useless confidence interval; a **bound** does not. Corpus scan found 2,233 candidate quoted spans across 657 articles; hand-triage of the sample gave a calibration factor of **≈0.22** (the automated count over-counts ~4.5x on titles, internal glosses and scare-quotes). **Estimated exposure surface: ~500 genuine external verbatim quotations** — a finite, enumerable audit, not 785 articles.
+
+**What 5,566 passes imply.** Not that the corpus is clean, and not that reviews were lazy — that the passes ran lenses **orthogonal** to this class. Every defect found here **passes** a metadata lens: the Nisbett paper is real, correctly titled, dated, paginated and attributed, and broadly supports the claim; only the marks around the words are false. **"Converged" should be read as scoped to the lenses actually run**, and certification should record *which* lens certified a claim so it cannot be inherited across lens changes.
+
+**A third class named, and it costs no web budget.** *Unsourced attributed quotation* — 4 hand-confirmed instances in the sample (Schlick and Forman with **zero** reference entries; Thompson's "Buddhist exceptionalism" attributed correctly but referenced to the **wrong book**, *Mind in Life* 2007 rather than *Why I Am Not a Buddhist* 2020; Hume and Proust absent from `philosophy-of-habit-under-dualism.md`'s 13-entry list). It is a purely local cross-check and a **precondition** for quote-verification — an unsourced quotation cannot be verified at all.
+
+**⚠️ Two false sweeps caught in progress, both recorded in the review.** The unsourced-attribution detector first reported **"45% of articles"**; that figure was **never real** — it matched capitalised ordinary words (`Every`, `Instead`, `From`), then first-name/surname mismatches (`David` for Hume, `Karl` for Popper). Only full-name matching on the last token gives a defensible **2.0%**. And a naive `grep -rl 'Daw'` suggested **13** articles at risk from today's Daw-2011 reversal; word-boundary matching gives **one** — the substring was matching **`Dawes` (13)** and **`Dawid` (12)**, Richard Dawid throughout the many-worlds cluster. That one article is `philosophy-of-habit-under-dualism.md`, and **today's deep-review already corrected it**. **The Daw defect did not propagate.**
+
+**Also verified clean, recorded so the base rate is not distorted**: the Vicente et al. 2008 "ideal circuits" quote is **exactly verbatim** at PMC2575223; Nisbett conclusion 1 verbatim; Hume's "the great guide of human life" verbatim at Gutenberg (and the article correctly says Hume calls *custom* this, not *habit* — the classic trap); Ginet's "actish phenomenal quality" confirmed at SEP; all 5 metadata records in `necessary-opacity.md` and all 3 in `biological-teleology-and-the-interface-framework.md` exact, including awkward details nobody would notice (*Philosophical Psychology* 3(**2–3**); *Mind* vol **XCVIII**).
+
+**Not verified, stated as such rather than as absence**: the Hameroff & Penrose 2014 `require[s]` quote (paywalled; absent from PMC/EuropePMC; four mirrors attempted) and the Schlick quote. Neither is confirmed **nor** refuted. WebSearch was not used at all — every check went via Crossref/OpenAlex/EuropePMC/PMC/Gutenberg/SEP/publisher, confirming the driver's routing guidance.
+
+**⚠️ OPERATIONAL, BLOCKING, NEEDS A HUMAN.** **The host filesystem is full.** Two Bash calls failed outright with `ENOSPC` — the harness could not capture command output at all — before ~2.4 GB was recovered by deleting temp files older than 4h. `/` is at **99% (114G/122G used)**; largest consumers `~/unfin/auto_unfin` **72G**, `~/.claude` **15G**. **At 0 MB free the loop cannot run any task that reads command output, and it fails closed and silently.** The 72G video repo needs a human decision; automation should not delete there.
+
+- **Tasks minted**: 3 `refine-draft` (P2 `process-content-distinction`, P3 `bohm-implicate-order-and-active-information`, P3 `conceptual-impossibility`). Paths grepped against open tasks first — all clear. **Deliberately not minted**: `philosophy-of-habit-under-dualism` (deep-reviewed today, same-day churn risk) and `buddhist-perspectives-on-meaning` (already carries an open P2 and P3); both findings are recorded in the review file instead.
 
 ## 2026-08-08 16:24 UTC - refine-draft (`emotion-and-dualism` `description:` — "causally indispensable" retracted from the blurb; body's own bare-correlation scope limit installed)
 
