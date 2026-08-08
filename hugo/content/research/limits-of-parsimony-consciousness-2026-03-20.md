@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 01:56:00+00:00
+ai_modified: 2026-08-08 11:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-03-20
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-20 01:56:00+00:00
+lastmod: 2026-08-08 11:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,7 +149,7 @@ Parsimony arguments are the most commonly invoked reason to prefer physicalism o
 - **Type**: Encyclopedia/multiple sources
 - **Key points**:
   - IIT illustrates the tension: it claims methodological parsimony (identifying consciousness with Φ) but leads to panpsychism — ontological extravagance
-  - Tononi "openly stands by panpsychism insofar as it follows from IIT"
+  - Tononi accepts the panpsychist affinity but qualifies it: IIT is "in line with the central intuitions of panpsychism" yet "unlike panpsychism, however, IIT clearly implies that not everything is conscious" (Tononi & Koch 2015, *Phil Trans R Soc B*). NOTE: the wording "openly stands by panpsychism insofar as it follows from IIT" is NOT Tononi's and is not on the IEP page cited above — it derives from Wikipedia's third-person sentence "Tononi openly stands by *it* insofar as it follows from IIT". Do not quote it as Tononi's words.
   - The theory's parsimony at the level of principles produces complexity at the level of implications
   - Searle's critique: panpsychism "does not get up to the level of being false. It is strictly speaking meaningless"
   - Shows how parsimony at one level (axiom count) can generate anti-parsimony at another (entity attribution)

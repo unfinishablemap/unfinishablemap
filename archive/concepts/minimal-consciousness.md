@@ -4,7 +4,7 @@ description: "What the simplest possible conscious experience might be. Evidence
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-02T10:16:00+00:00
+ai_modified: 2026-08-08T11:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,7 +190,7 @@ The baseline cognition hypothesis strengthens this argument. If consciousness we
 
 **No Many Worlds**: If the Many-Worlds Interpretation were correct, every possible outcome of quantum measurements would be realised in some branch. But this dissolves rather than addresses the question of minimal consciousness. In MWI, there are branches where *C. elegans* exhibits consciousness-indicating behaviours and branches where it doesn't—all equally real. The question "is this worm conscious?" has no determinate answer because "this worm" fragments across branches. The Map's rejection of MWI preserves the coherence of asking about particular organisms. Real collapse means definite facts about which organisms are conscious, even if we cannot determine those facts from outside.
 
-**Occam's Razor Has Limits**: The New York Declaration explicitly rejects requiring certainty before moral consideration—"if there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." Parsimony cannot settle questions about consciousness distribution. The simplest theory (no consciousness in invertebrates) may be wrong, and the stakes of being wrong are moral stakes.
+**Occam's Razor Has Limits**: The New York Declaration explicitly rejects requiring certainty before moral consideration—"When there is a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility in decisions affecting that animal." Parsimony cannot settle questions about consciousness distribution. The simplest theory (no consciousness in invertebrates) may be wrong, and the stakes of being wrong are moral stakes.
 
 ## Process Philosophy Perspective
 

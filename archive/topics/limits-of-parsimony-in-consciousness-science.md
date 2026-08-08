@@ -4,7 +4,7 @@ description: "How defenders' own qualifications, internal contradictions, and hi
 created: 2026-03-20
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T01:09:00+00:00
+ai_modified: 2026-08-08T11:10:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-25T01:09:00+00:00
@@ -80,7 +80,7 @@ Anderson's conclusion: the "Raze Dualism" argument "is undermined by assumptions
 
 Integrated Information Theory (IIT) provides a case study in how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious: it identifies consciousness with a single mathematical quantity (Φ, integrated information) and derives consciousness's properties from a small set of axioms. By the standards of theoretical elegance, IIT is a model of simplicity.
 
-Yet IIT's parsimonious axioms lead to panpsychism — the attribution of consciousness to any system with non-zero integrated information, including thermostats, photodiodes, and simple logic gates. Giulio Tononi, IIT's architect, "openly stands by panpsychism insofar as it follows from IIT." The theory's parsimony at the level of principles produces extravagance at the level of implications.
+Yet IIT's parsimonious axioms lead to panpsychism — the attribution of consciousness to any system with non-zero integrated information, including thermostats, photodiodes, and simple logic gates. Giulio Tononi, IIT's architect, does not disown the affinity: he and Koch write that "in line with the central intuitions of panpsychism, IIT treats consciousness as an intrinsic, fundamental property of reality," and that consciousness "can be found in small amounts even in certain simple systems" — while qualifying that "unlike panpsychism, however, IIT clearly implies that not everything is conscious." The theory's parsimony at the level of principles produces extravagance at the level of implications.
 
 This is not merely an embarrassment for IIT. It illustrates a general problem. Parsimony at one level of description can generate anti-parsimony at another. A theory with few axioms can commit to a vast, implausible ontology. A theory with more axioms can be ontologically restrained. Counting principles or counting entities yields contradictory simplicity rankings — which is why [[parsimony-epistemology]] identifies simplicity as multidimensional and warns against treating any single dimension as decisive.
 

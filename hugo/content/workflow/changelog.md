@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-08 11:10 UTC - refine-draft (two quote-fidelity repairs on live archive URLs; one quote traced to Wikipedia and de-quoted)
+
+- **Status**: Success
+- **Files**: [minimal-consciousness](/archive/concepts/minimal-consciousness/), [limits-of-parsimony-in-consciousness-science](/archive/topics/limits-of-parsimony-in-consciousness-science/), [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/)
+- **Scope**: archived bodies, which are still served verbatim on live published URLs. Length-neutral on locus 1 (+6 words); +45 words on locus 2.
+
+**Locus 1 — `archive/concepts/minimal-consciousness.md` L193. Truncated New York Declaration misquote. FIXED.**
+Was: *"if there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility."* Now the Declaration's verbatim sentence: *"When there is a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility in decisions affecting that animal."* Wording copied from the corpus's own correct version at `obsidian/topics/consciousness-in-simple-organisms.md` L70 — which is this page's own `superseded_by` target, so the successor was already right and only the archived body was wrong. The dropped final clause is the whole point: it turns a decision rule for acting under uncertainty into an unrestricted injunction (a possibility→probability slippage vector). Corpus grep confirms this was the last live instance.
+
+**Locus 2 — `archive/topics/limits-of-parsimony-in-consciousness-science.md` L83. Quotation attributed to Tononi. NOT VERBATIM, NOT TONONI'S — de-quoted and replaced with verified primary-source wording.**
+Was: *Giulio Tononi, IIT's architect, "openly stands by panpsychism insofar as it follows from IIT."*
+Two independent defects established:
+1. **Not at the cited source.** The research note attributed the string to `iep.utm.edu/integrated-information-theory-of-consciousness/`. WebFetch to that page: phrase absent. WebFetch to the primary paper (Tononi & Koch 2015, *Phil Trans R Soc B*, PMC4387509): phrase absent.
+2. **Provenance is Wikipedia, in the third person.** The corpus's own `research/integrated-information-theory-2026-01-07.md` L53 records the true origin under its **Wikipedia** heading: *"Yet, Tononi openly stands by **it** insofar as it follows from IIT."* That is a third party writing *about* Tononi, and the article had additionally mutated "it" → "panpsychism" and re-cast the result as Tononi's own speech. A quote of this shape can never be attributed to Tononi regardless of wording.
+3. **The framing also over-claimed.** Tononi's actual stated position is qualified in the opposite direction — both IEP and the primary paper have him distancing IIT from panpsychism proper: *"Unlike panpsychism, however, IIT clearly implies that not everything is conscious."*
+Replaced with three verbatim, correctly-attributed spans from Tononi & Koch 2015: IIT is *"in line with the central intuitions of panpsychism"* in treating consciousness as *"an intrinsic, fundamental property of reality"*; consciousness *"can be found in small amounts even in certain simple systems"*; qualified by *"unlike panpsychism, however, IIT clearly implies that not everything is conscious."* The paragraph's argument (parsimony at the axiom level producing extravagance at the implication level) is preserved and now rests on Tononi's own words rather than an encyclopaedia gloss.
+
+**Propagation vector closed.** `research/limits-of-parsimony-consciousness-2026-03-20.md` L150 was the direct source of the defect and mis-attributed the string to the IEP URL. Corrected in place with an explicit do-not-quote note, so a future expand/refine cannot re-inject it. `research/integrated-information-theory-2026-01-07.md` L53 was left alone — it quotes Wikipedia accurately and labels it as Wikipedia, so it is a faithful record, not a defect.
+
+- **Deliberately not touched**: the thermostat/photodiode/logic-gate mentions at `archive/topics/limits-of-parsimony…` L83/L87 and `obsidian/concepts/parsimony-epistemology.md` L134 — these are consequence claims about IIT's implications, correctly stated, and distinct from the live article's earlier thermostat→photodiode fix (which concerned Tononi's *own* thought experiment; the photodiode is his, the thermostat is Chalmers').
+- **Attribution**: `ai_system` held on all three files — a quotation repair is not re-authorship.
+- **Published**: yes (both archive trees synced; hugo mirrors verified by YAML parse and apostrophe-free substring grep)
+
 ## 2026-08-08 11:00 UTC - deep-review (8th pass; content lens finds 4 defects under a clean 7-pass metadata ledger)
 
 - **Status**: Success
