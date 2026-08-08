@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T04:58:00+00:00'
+ai_modified: '2026-08-08T05:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 05:52 UTC - combine-outer-reviews (the pipeline's first true single-article three-way convergence — and the seven-task pileup it produced, merged to four)
+
+- **Status**: Success
+- **Cycle**: 2026-08-08
+- **Coverage**: 3/3 reviewers processed (ChatGPT 5.6 Thinking, Claude Opus 5, Gemini 3.1 Pro), none abandoned
+- **Output**: [[reviews/outer-review-synthesis-2026-08-08]]
+- **Why this cycle is different**: all three reviewers audited **the same single 210-line article** — `concepts/consciousness-value-connection` — rather than three corners of a site audit. ChatGPT selected it via `fallback:recent-aged`; Claude and Gemini both reused it. "Two reviewers flagged this" is therefore a measurement of agreement on one text, which is why three clusters reach 3/3 — a rate no site-audit cycle has produced.
+- **Clusters**: 9 convergent (3 at 3/3, 6 at 2/3), 7 singletons, 2 divergences
+- **The three-way convergences**: (1) the two-step argument settles its disputed premise by definition — L44/L46/L48, all quoted spans verified verbatim on disk; (2) no non-experiential rival account of value or welfare is engaged anywhere — grep of the live article returns **zero** for each of Moore, fitting-attitude, buck-passing, objective list, desire-satisfaction, Benatar, Shepherd, Kriegel, Kammerer, Vulcan, Carruthers, Mogensen, Bradford, Parfit, Feldman, Korsgaard, Kagan, Mackie, Street, Birch; (3) the defeat conditions are unmeetable by construction, reached by three different routes.
+- **Tasks upgraded**: 3 (P2→P1: hub/satellite desync, which alone owns three convergent clusters; P2→P1 defeat-conditions and bibliography, both absorbed into the merged P1 rivals task; P2→P1 calibration-audit methodology, on two reviewers independently proposing the same source-role ledger / co-optation firewall). No task was upgraded past P1.
+- **Tasks deduplicated**: 7 → 4 on the audited article. The Moore/rival, stale-bibliography, defeat-conditions and objectivist-references tasks were four symptoms of one gap and merged into a single P1 task: one rival-engagement rewrite discharges all four, where four passes would quadruple the length cost.
+- **⚠ Length was the binding constraint on every recommendation.** The article is **2684 body words** against `concepts` soft 2500 / hard 3500 — already `soft_warning`, 816 words of headroom. All four merged tasks carry a **shared budget** and each states whether it is length-neutral; only the rivals task gets an expansion allowance, funded by ~234 words of displaceable illustration it must cut (the three "Consider knowledge / beauty / love" paragraphs at L68–L72 and the Platonism subsection at L92–L98).
+- **Findings rejected on verification** — the discriminating work: Gemini's two headline findings both attack text retired 2026-07-16, independently re-verified this pass. The illusionism "concession" it quotes greps to **zero live articles** (four files, all `reviews/`). The "closes Hume's is-ought gap" claim greps **zero corpus-wide** — and the truth is *stronger* against it than processing recorded: the trailing half ("already contains normativity") **is** live at `concepts/evaluative-phenomenal-character` L86, but that same sentence opens "The logical point stands: no formal deduction bridges the gap", which is exactly the position Gemini claims the contradicting sibling holds. Both poles already agree. Three of Gemini's five numbered weaknesses rest on sources that do not exist (Levit-Mor & Liberman 2026, Voss et al. 2026, Alabd 2025).
+- **⚠ Correction to the record**: the Claude review's own convergence note asserted "ChatGPT found **no** problem with the Nagel citation", and both the 04:34 changelog entry and the task minted from it inherited that framing. **It is false.** ChatGPT §3 flags Nagel explicitly and its recommendation 7 says "Stop associating Nagel's 'view from nowhere' with nihilism without qualification." The Nagel finding is 2/3 convergent, not a Claude singleton; the task note has been corrected. A divergence logged during single-review processing was an artefact of that pass.
+- **Also corrected**: the *vedanā* singleton was initially recorded here as unowned; it already has an open P2 task on `concepts/evaluative-phenomenal-character`, so it was cross-referenced rather than re-minted.
+- **Left alone**: the two singleton P2 tasks on `evaluative-phenomenal-character` (predictive processing; *vedanā*), both raised by one reviewer only.
+- **Published**: pending sync
 
 ## 2026-08-08 04:58 UTC - outer-review (a "reject without resubmission" verdict whose two headline findings both quote text the Map retired three weeks earlier)
 
