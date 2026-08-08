@@ -110,18 +110,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **MIRROR**: live at `hugo/content/apex/moral-architecture-of-consciousness.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — installing a scope limit the register already records is correction, not authoring.
 - **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; both loci and the zero-occurrence count re-verified by the driver)
 
-### P2: `emotion-and-dualism` `description:` says "causally indispensable" — the three body loci that backed it were scoped on 2026-08-08 and the blurb is now unbacked
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/emotion-and-dualism.md
-- **Notes**: **NOT a re-litigation of the 2026-08-07 22:38Z blurb clearance, and not a contradiction of `reviews/tenet-check-2026-08-08.md` N2.** Both were right at the time: the blurb was cleared *because* L56 and L82 asserted "causally indispensable" / "causal indispensability" in the body's own voice. The 2026-08-08 01:55Z refine removed that step at both, and at L86 (which had said "Emotion blocks this retreat" flat), installing the bare-correlation scope limit [P-MC1](/positions/arguments-for-mental-causation/) records. The clearance is stale by construction, not by error.
-  **MEASURED ON DISK AFTER THAT PASS**: "causally indispensable" and "causal indispensability" now occur **zero** times in the body and **exactly once** in the file — L3, the `description:`. So the blurb asserts on the corpus's highest-leverage surface (meta description, social cards) what the body now declines to assert.
-  **FIX**: rewrite the third clause of `description:` to match the body's scoped conclusion. **Preserve the ranking claim** ("strongest empirical case for dualism") — still body-backed at L56 and L82, and independently cleared. Do not just delete "causally indispensable" and leave a two-item list; the family's fix standard is *gain precision*, naming the claim and its limit together. The sibling `topics/pain-consciousness-and-causal-power` solves exactly this in its own blurb: *"…though it binds the bare-correlation version, not the phenomenal-concept one."* 150-160 chars.
-  **DO NOT touch the body** — L56 / L82 / L86-88 / L132 / L136 are the settled versions as of 2026-08-08 01:55Z.
-  **MIRROR**: live at `hugo/content/topics/emotion-and-dualism.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**.
-- **Source**: verified_residue (refine-draft 2026-08-08 01:55Z; occurrence counts re-measured on disk after the fix)
-
 ### P2: the audience regress is asserted flat at eight further live loci — and the corpus's own general statement of why that is illegitimate is already written at `qualia.md` L153
   **⚠️ START WITH `obsidian/voids/smoothness-and-continuity.md` — IT IS NOW INTERNALLY INCONSISTENT, AND THAT IS THE ONLY FILE WHERE THE INCONSISTENCY IS VISIBLE INSIDE ONE ARTICLE.** The 2026-08-08 13:10 string-match sweep fixed **L100** of that file (the regress is now retracted as a refutation and the boundary marked on the `continual-learning-argument` template). **But L88 still asserts the identical move flat** — verified verbatim: *"For there to seem to be temporal succession, there must be a seeming — and that seeming has temporal structure."* Same move, same opponent, **no shared substring**, which is exactly why it belongs to this task and not to that one. The article therefore currently retracts at L100 and asserts at L88. **Fix L88 to the same template so the file is coherent before touching the other seven.**
   **⚠️ A FIFTH STRING MATCH EXISTS AND IS SOUND — PRE-CLEARED, DO NOT "FIX" IT.** `obsidian/topics/consciousness-and-mathematics.md` L182 contains the exact phrase *"The response faces a regress"*, but it is **not** the audience regress: it is a self-undermining challenge (the illusionist must account for their own grasp of logical necessity), it is in-framework, and it closes on an open question rather than a declared refutation. `reviews/optimistic-2026-05-12.md` L56 already assessed it as *"articulated without claiming refutation."* A short-string sweep will hit it; leave it alone.
@@ -2684,6 +2672,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `emotion-and-dualism` `description:` says "causally indispensable" — the three body loci that backed it were scoped on 2026-08-08 and the blurb is now unbacked
+- **Type**: refine-draft
+- **File**: obsidian/topics/emotion-and-dualism.md
+- **Notes**: **NOT a re-litigation of the 2026-08-07 22:38Z blurb clearance, and not a contradiction of `reviews/tenet-check-2026-08-08.md` N2.** Both were right at the time: the blurb was cleared *because* L56 and L82 asserted "causally indispensable" / "causal indispensability" in the body's own voice. The 2026-08-08 01:55Z refine removed that step at both, and at L86 (which had said "Emotion blocks this retreat" flat), installing the bare-correlation scope limit [P-MC1](/positions/arguments-for-mental-causation/) records. The clearance is stale by construction, not by error.
+  **MEASURED ON DISK AFTER THAT PASS**: "causally indispensable" and "causal indispensability" now occur **zero** times in the body and **exactly once** in the file — L3, the `description:`. So the blurb asserts on the corpus's highest-leverage surface (meta description, social cards) what the body now declines to assert.
+  **FIX**: rewrite the third clause of `description:` to match the body's scoped conclusion. **Preserve the ranking claim** ("strongest empirical case for dualism") — still body-backed at L56 and L82, and independently cleared. Do not just delete "causally indispensable" and leave a two-item list; the family's fix standard is *gain precision*, naming the claim and its limit together. The sibling `topics/pain-consciousness-and-causal-power` solves exactly this in its own blurb: *"…though it binds the bare-correlation version, not the phenomenal-concept one."* 150-160 chars.
+  **DO NOT touch the body** — L56 / L82 / L86-88 / L132 / L136 are the settled versions as of 2026-08-08 01:55Z.
+  **MIRROR**: live at `hugo/content/topics/emotion-and-dualism.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**.
 
 ### ✓ 2026-08-08: Andrew Lee is credited across 4 articles with an argument he EXPLICITLY DISCLAIMS — "discriminatory grain" is not his term, and the epistemic route is not his route
 - **Type**: refine-draft
