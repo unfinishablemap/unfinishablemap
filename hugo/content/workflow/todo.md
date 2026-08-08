@@ -39,6 +39,143 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `consciousness-value-connection` proves consciousness is NECESSARY for value, then spends the Implications section using it as SUFFICIENT
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). The reviewer's clearest formal charge, and it verifies verbatim on disk.**
+  **THE DEFECT.** The argument concludes at L50: *"consciousness is necessary for value"* — i.e. Value → Consciousness. Three later passages need the converse:
+  - L130 (For Ethics): *"Conscious beings matter; non-conscious systems don't (except instrumentally)."*
+  - L150 (For Panpsychism): *"wherever experience goes, value follows."*
+  - L148 half-notices the problem — it correctly restates the necessity direction (*"where there is value, there is consciousness"*) two sentences before L150 reverses it.
+  None of these follow from necessity. They require consciousness to be **sufficient** for value, which the article never argues.
+  **WHY IT MATTERS MOST FOR PANPSYCHISM.** Even granting an electron some thin micro-experience, nothing follows about that experience being valenced, meaningful or valuable. As written, the panpsychism paragraph establishes roughly the converse of the thesis it presents itself as illustrating.
+  **FIX — separate the theses rather than hedging the sentences.** The reviewer's recommendation 1 is the right structure: the article currently runs four distinct claims together and should mark each with its own argument and confidence: (a) phenomenal states can instantiate intrinsic value; (b) all intrinsic value is phenomenal; (c) consciousness suffices for moral status; (d) value qua value is causally efficacious. (a) is well supported; (b) is the exclusivity thesis (see the sibling Moore task); (c) is the sufficiency step at issue here; (d) belongs to the causation task. Splitting them makes the bridge premises visible instead of letting one plausible thesis license three ambitious ones.
+  **DO NOT retreat to vagueness.** The Map is entitled to hold that conscious beings have moral status — it just has to argue the sufficiency step (or mark it as a further commitment) rather than presenting it as a corollary.
+  **MIRROR**: live at `hugo/content/concepts/consciousness-value-connection.md`. Sync both trees. `ai_modified` from a live `date -u`, strictly past.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P1: the article's main anti-illusionist rebuttal is a question Frankish poses and answers IN THE PAPER the article cites — verified at the primary text
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). Highest-value finding of the review; verified at primary source during processing, not taken on the reviewer's word.**
+  **THE DEFECT.** L112 answers illusionism with the audience regress: *"For the illusion to occur, something must be deceived. Who is having the illusion?"* — presented as severe and unanswered.
+  **VERIFIED**: Frankish (2016), which this article lists as **reference 5**, contains a section titled **"3.3. Who is the audience?"**. Frankish raises the identical objection (*"An illusion presupposes an audience. Who is the audience for the illusion of phenomenal consciousness?"*), rejects the Cartesian-theatre reading the regress depends on, and answers: *"There need be no unified audience for the illusion smaller than the organism as a whole (or at least its central nervous system)."* The illusionist's subject is the organism/system, not an inner phenomenal observer. Confirmed in Frankish's own eprint PDF; the section heading and quotations above are exact.
+  So the article's principal rebuttal attacks a position its own cited source explicitly disavows, and the regress lands only against an opponent no illusionist is.
+  **WHAT SURVIVES.** The reviewer credits a genuine repair already made at L116 — the practical/intrinsic "mattering" distinction — and that argument is untouched by this finding. Keep it. Only the audience regress at L112–114 is at issue.
+  **FIX — Apply the direct-refutation discipline.** Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+  The substantive target is the **non-phenomenal account of seeming and representation**. As written the rebuttal reduces to "illusionism is false because genuine seeming is phenomenal," which is precisely what illusionism denies — begging the question rather than refuting it.
+  **THE REVIEWER'S SUGGESTED BETTER LINE, worth taking seriously**: Kammerer's normative challenge — asking the illusionist what becomes of the apparent consciousness/value relation — presses illusionism from exactly the domain this article is about, and is dialectically far stronger than the audience regress. Kammerer's *House of Mirrors: The Illusion of Phenomenal Consciousness* (Oxford) was verified to exist; its specific internal argument labels were **not** verified, so check them at the text before citing them by name.
+  **MIRROR**: live at `hugo/content/concepts/consciousness-value-connection.md`. Sync both trees.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P1: the only mind-independence rival the article engages is the Platonic Form of the Good — Moore's beautiful-world argument targets the actual premise and is verified verbatim
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). Verified at primary text during processing.**
+  **THE DEFECT.** L92–98 answers "Value Could Exist Mind-Independently" solely by way of Platonism about abstract objects — the weakest available form of the view. Grep confirms the article mentions Moore, fitting-attitude/buck-passing theories, objective-list/perfectionist theories and Benatar **zero times**.
+  Worse, L58 asserts the verdict on Moore's own thought experiment without engaging it: *"A beautiful sunset in a universe without observers has no value—not even aesthetic value."*
+  **VERIFIED — Moore, *Principia Ethica* (1903), replying to Sidgwick**: *"Let us imagine one world exceedingly beautiful… And then imagine the ugliest world you can possibly conceive… The only thing we are not entitled to imagine is that any human being ever has or ever, by any possibility, can, live in either."* Moore argues the beautiful world is still better in itself. Whatever one concludes, this attacks the disputed premise directly and posits no causally active abstract object — so the article's Platonism response does not touch it.
+  **SECOND, DISTINCT CONFLATION — "good for".** L48 and L86 claim nothing can be good or bad *for* a non-conscious system. **Benatar, "Sentience and Why It Matters," *Cambridge Quarterly of Healthcare Ethics* 34(4) (2025; online April 2026)** — verified at the publisher — reaches a **sentience-friendly** conclusion while explicitly rejecting that move: he distinguishes functional, biotic and conscious interests, allows that things can objectively be good or bad for a non-conscious plant or car, and argues separately that such interests are the wrong kind to confer moral standing. Note the year: **2025**, not the reviewer's "Benatar 2026."
+  **FIX — this strengthens the Map's position rather than conceding it.** Narrow the mattering argument to **welfare / prudential value**, where "good-for-someone" is defensible, and drop the far more vulnerable semantic claim that nothing unconscious can have goods at all. Then engage the realist rivals that actually bite. Keep the Platonic response as one subsection, not the main foil.
+  **Apply the direct-refutation discipline.** Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+  Note the reviewer's diagnosis of the mattering argument itself: the controversial premise sits inside the *definition* of mattering (L44), so the argument excludes objective value before it starts rather than refuting it. That is the unsupported foundational move to name.
+  **LENGTH**: article is 210 lines; decompose before trusting `analyze_length`.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P2: the hub asserts flat what four of its own satellites qualify — Rawlette's scope, "confirmed" convergence, value-causation, and the Everettian steelman
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). All four desyncs verified on disk against the named sibling files.** The reviewer frames this as the substantive analogue of the site's known `fix-by-file-leaves-string-siblings-live` failure mode: the qualification exists **somewhere** in the cluster but never propagated to the hub asserting the parent claim. Not identical strings — argument families.
+  **THE FOUR LOCI, hub line → satellite that already qualifies it:**
+  1. **Rawlette's scope.** L66 presents Rawlette alongside beauty, knowledge, love and meaning as candidate intrinsic values. But `topics/phenomenal-value-realism` L120 states that **Rawlette defends a hedonistic view** (pleasure and pain exhaust intrinsic value) and that **phenomenal pluralism is the Map's own extension**. The hub lets Rawlette's authority carry six value dimensions she does not endorse. Mark the transition explicitly.
+  2. **"Confirmed" convergence.** L78 says the structural features are *"confirmed by cross-traditional convergence"*. `concepts/evaluative-phenomenal-character` L80 says introspection *"provides evidence but not proof"*, and L151 grades the cross-traditional evidence as *"near-independence, not a third confirmation"* — two of the four cases being one Indian lineage. The hub should not upgrade a discounted result to metaphysical confirmation.
+  3. **Value-causation.** L162 infers that because consciousness causes and value is a property of consciousness, *"value influences the physical world"*. A bearer being causally efficacious does not make every property of that bearer efficacious *qua that property*. The hub itself half-concedes one sentence later, and `topics/valence-and-conscious-selection` holds the value-blind / value-sensitive fork **open**. Rewrite as a conditional; the hub must not settle a question its dedicated article leaves open.
+  4. **Everettian steelman.** L166 simply announces Many-Worlds *"dilutes value"*. `apex/moral-architecture-of-consciousness` L190 already does this properly — it grants branch-relative significance and measure-weighting as available responses, **then** rejects them on indexical grounds. Import that argument. Also mark No-Many-Worlds as a further framework commitment rather than an implication of value theory: a phenomenal axiology has no evident consequence for Everettian QM by itself.
+  **ALSO — inherit the apex's discipline.** The apex marks its synthesis *"conditional and framework-internal"* (L52/L60/L158) and states it is not independent evidence for dualism. The hub's Dualism subsection (L156) instead infers irreducibility of value straight from consciousness grounding value — but as `phenomenal-value-realism` L159 concedes, **phenomenal value realism can be held within physicalism**. The Map needs the conjunction (phenomenal value identity **plus** irreducibility), not the inference.
+  **MIRROR**: sync both trees.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P2: `consciousness-value-connection` was revised in July 2026 with a bibliography whose newest item is 2016 — four verified 2019-2025 sources sit directly on its thesis
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). Citation currency, not citation fabrication — the reviewer found no fabricated item, and neither did processing.**
+  **MEASURED**: the References section (L205–210) has exactly six entries — Rawlette 2016, Wolf 2010, Nagel 1986, Metz 2013, Frankish 2016, Chalmers 1996. Newest: 2016. The article was substantively revised 2026-07-31. This is a synchronization failure rather than a shortage of material: the sibling `evaluative-phenomenal-character` already cites Dimitrov 2025.
+  **VERIFIED AND SAFE TO CITE** (each checked at publisher or Crossref during processing):
+  - **Kriegel, "The Value of Consciousness," *Analysis* 79(3), 503–520 (2019)**, DOI `10.1093/analys/anz045` — a taxonomy of consciousness's epistemic, ethical and aesthetic value.
+  - **Shepherd, "Sentience, Vulcans, and zombies: the value of phenomenal consciousness," *AI & Society* (2024)**, DOI `10.1007/s00146-023-01835-6` — distinguishes valence sentientism from broad sentientism.
+  - **Benatar, "Sentience and Why It Matters," *Cambridge Quarterly of Healthcare Ethics* 34(4) (2025)** — the interests taxonomy (see the sibling Moore/good-for task). **Use 2025**, not the reviewer's "2026".
+  - **Kammerer, *House of Mirrors: The Illusion of Phenomenal Consciousness* (Oxford)** — title verified; verify author/year and any internal argument names at the text before citing specifics.
+  **DO NOT CITE WITHOUT CHECKING FIRST**: the reviewer's **Cecchinato 2026** (for the claim that *affective* rather than merely phenomenal consciousness grounds welfare) could **not** be verified this session. The philosophical point does not depend on it — Shepherd 2024 makes the Vulcan case and is verified.
+  **THE SUBSTANTIVE USE, not a reference-list top-up.** The Vulcan — conscious but affectless — is the sharp test of whether *phenomenality* or *valenced phenomenality* does the moral work. The article currently infers moral status from consciousness simpliciter (L130), so the Vulcan is a live counterexample to its own Implications section, and it interlocks with the necessity/sufficiency task.
+  **LENGTH**: adding references inflates the reference apparatus; decompose before trusting `analyze_length`.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P2: the "What Would Challenge This View?" section demands rivals be "demonstrated" and behave like gravity, then closes "The connection stands"
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking). Exactly the tenet-protective bracketing the commissioning prompt asked the reviewer to look for; all three loci verified verbatim.**
+  **THE DEFECT — two of three defeat conditions are unfalsifiable by construction:**
+  - L176: experience-independent value must be **"demonstrated."** Questions of intrinsic value are not settled by demonstration in any empirical or mathematical sense. Benatar (verified, CQHE 34(4), 2025) explicitly says decisive proof is unlikely even on the narrower sentience question and argues from the balance of considerations instead. Requiring demonstration from rivals while the Map's own thesis rests on introspective and abductive grounds is a **burden asymmetry**.
+  - L180: abstract value must exert causal influence, existing **"as a force like gravity."** An objective-value theorist need not claim goodness is a physical force — Moore's beautiful-world argument is a claim about comparative intrinsic value, not a new causal field. This condition confuses **normative/evaluative reality with efficient causation** and imports the Map's own causal metaphysics into the admission test for rivals.
+  - L182 then closes: **"These conditions do not currently obtain. The connection stands."**
+  **FIX.** Replace with conditions that could actually lower credence, as the reviewer proposes: robust intuitions about observer-independent goods; a convincing fitting-attitude analysis; cases of non-conscious welfare or moral status; evidence separating valence from phenomenal character; a successful illusionist account that retains normative reasons. Each is a real epistemic risk the Map runs.
+  **And soften the closer.** "The connection stands" overstates what the arguments deliver. The reviewer's suggested wording — *"the connection remains the Map's working hypothesis"* — matches the evidence and matches the apex's own conditional framing.
+  **This is a calibration fix, not a retreat**: a defeat condition no rival could meet is not a defeat condition, and claiming one costs the article credibility it has otherwise earned.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P2: add an implication-direction audit and an argument-family sibling sweep to the review methodology — the V→C/C→V flip is mechanically detectable
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking), recommendations 12 and 15 — methodology, not content.** Both generalise defects the same review found concretely in `concepts/consciousness-value-connection`, so they are grounded in a worked example rather than proposed in the abstract.
+  **PROPOSAL 1 — implication-direction audit.** For every load-bearing proposition tagged "necessary," "sufficient," "grounds," or "entails," compare downstream uses for converse errors. The focal article proves V → C at L50 and then uses C → V at L130 and L150; that is a formal slip a lightweight dependency check could catch mechanically, and no current lens looks for it. The existing audit triple checks citation currency, quote fidelity and empirical-claim fidelity — all **source-facing**. This would be the first **internal-validity** lens in the set.
+  **PROPOSAL 2 — argument-family sibling sweep.** The site already runs sibling sweeps for identical **strings** (the `fix-by-file-leaves-string-siblings-live` discipline). The reviewer's point is that the same failure occurs at the level of **argument families**: when a satellite gains a qualification — Rawlette-hedonism-vs-Map-pluralism, value-sensitive causation, Everettian measure weighting, evidence-not-proof — nothing propagates it to the hub still asserting the unqualified parent claim. Four such desyncs were verified in this one cluster. A string grep finds none of them, because the hub and satellite use different words for the same proposition.
+  **SCOPE THIS BEFORE BUILDING.** Decide whether either belongs in the calibration audit triple (making it a quad/quintet) or as a `deep-review` checklist item, and whether detection can be even partly mechanical or is inherently a reading task. **Do not add automation on the strength of one review** — the honest first step is a manual pass over two or three hub/satellite clusters to measure how common the desync is before committing a cadence slot.
+  **RELATED, NOT INCLUDED**: the reviewer's recommendation 14 (a source-role ledger recording each citation as ally / rival / background / mixed) is a genuinely interesting third proposal — Wolf and Metz are partly **counterevidence** in the focal article yet sit in the bibliography as if supporting it. Consider it in the same scoping pass rather than as a separate task.
+- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-08
+
+### P2: `curated-mind` L3 calls the presupposition argument "a novel argument for dualism" flat, where the body says four times that it does not compel
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/curated-mind.md
+- **Notes**: **Fifth defect from the agentic-social blurb check**, found 2026-08-08; both loci verified on disk by the driver. Same family as the six already corrected and the two open blurb tasks — see the standing residue entry for the structural cause (no skill re-reads `description:`) and the two unswept axes.
+  **THE DEFECT.** L3: *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and **that presupposition is a novel argument for dualism**."* Stated as what the argument **is**.
+  **WHAT THE BODY SAYS — it hedges four separate times.** L43: the architecture *"**may** constitute a novel argument… because curation **arguably** presupposes a recipient"*, and *"the inference is **suggestive rather than forced**… offered as the better explanation, **not a demonstration**"*. L51 concedes the rival outright: *"A physicalist can respond that the correction works for the system's **behavioural outputs** — no distinct recipient is needed, just a system with adaptive goals. **The presupposition argument does not logically compel dualism.** Rather, it is an inference to best explanation."*
+  So the nav surface asserts as settled what the body twice calls defeasible, once calls non-compelling, and once concedes is compatible with a deflationary reading.
+  **FIX — gain precision, do not merely hedge.** The body supplies both halves: it is an **inference to the best explanation** from the three-mode architecture, with the behavioural-outputs reply undefeated. The repaired siblings are the shape to match — each carries a claim **and** its limit in one sentence. **Do not delete the argument** — the Map holds it and is entitled to state it as its inference.
+  **CHECKED — no register scoping applies**: the fork looked for a `positions/` entry covering this claim (hard problem of content, teleosemantics, content-determination) and found **none**, so unlike the `pain-consciousness` case there is no register limit to import. The fix comes from the body alone.
+  **LENGTH**: decompose before trusting `analyze_length`; this is one frontmatter line regardless.
+  **MIRROR**: live at `hugo/content/topics/curated-mind.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
+- **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; L3, L43 and L51 re-read on disk by the driver)
+
 ### P2: Zheng & Meister is cited with the wrong YEAR in 9 files and three different volume/page assignments corpus-wide — the dominant form is correct, so this is drift, not a bad source
 
 - **Type**: refine-draft
@@ -224,6 +361,9 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **CONSEQUENCE FOR THE FIX:** a recency-weighted or widened filter inherits this bias unless the score is **normalised by topic count** (e.g. mean collision cost per topic, not summed). Otherwise the selector trades one degenerate preference for another — from "whatever just left the window" to "whatever is least tagged". **Fixing (5) — recording the posted article's own slug — partially offsets this**, since a thin-topic article would then at least register its own subject. Worth deciding (5) and (7) together.
   **PARTIAL COUNTER-EVIDENCE, recorded for fairness:** the bias acts on the *ranking*, but the adjacency screen pushes back against it. In the 20:10 run the best-scoring candidate was `cessation-versus-plenitude` at **0.437**; the article actually posted, `logical-behaviourism`, scored **0.841** — roughly half as good on pure collision score, chosen because eight higher-ranked candidates failed subject adjacency. So the human-judgement step is already overriding the score, and the observed thin-topic trend may reflect the ranking's input rather than the final choice. **Do not treat (7) as established from the post stream alone** — if it is being fixed, measure the bias on the *ranking* directly (mean topic count of the top-N by score vs the corpus baseline), not on what got posted.
   **(5) CONFIRMED BITING IN THE SAME RUN, twice, which is the strongest evidence for fixing it first.** `quantum-zeno-effect` was rejected only because the run happened to know `topics/motor-control-quantum-zeno` went out 105h ago — that post keyed `free-will, hard-problem-of-consciousness` and left **zero trace on the Zeno subject**. And `cessation-versus-plenitude` collides with `affective-tone-divergence-across-meditative-traditions` (posted 131h ago), which is **literally one of the candidate's own topic strings recorded under a different key**. Both were caught by manual skim; neither was visible to the filter.
+  **⚠️ (5b) THE INVERSE FORM OF SLUG BLINDNESS — found 2026-08-08 04:00 UTC, and it is the more dangerous direction because the candidate looks *rich and fresh*.** Mode (5) is "a posted article's own slug is never recorded". The inverse is: **the slug IS recorded — as some *other* article's topic key — while the candidate's own keys are disjoint from it, so the score sees nothing.** Live case: the run's ranking winner was `topics/the-naturalisation-failure-for-content` (score 3, **n=5 topics**, penalty coming entirely from aged 57/57/95h entries — i.e. the *safe* direction), and it was nearly posted. But `concepts/content-externalism` had gone out **24.3h earlier tagged `topics: ['the-naturalisation-failure-for-content']`** — **verified on disk**: that is the candidate's own slug, as another article's only topic. The subject had already been published a day before, under a sibling whose keys shared nothing with the candidate's. A second instance surfaced in the same re-ranking: `indigenous-australian-philosophy-of-consciousness`, self-slug posted 26h prior.
+  **Why this one matters most for the fix**: (5) makes a *stale* candidate look clean; (5b) makes a *rich, well-scored, recently-covered* candidate look ideal. **Fixing (5) — recording the posted article's own slug — fixes (5b) too**, since the slug would then be in the window and would collide with any candidate carrying it. That is now two independent arguments for doing (5) first.
+  **✅ (4) THE EXPIRY-RECYCLE HAZARD IS RETIRED FOR THE CURRENT WINDOW — tested, not assumed.** Three consecutive driver briefs warned that `the-unfolding-argument-…` (topic `integrated-information-theory`, then at 164h) would unlock an IIT-cluster recycle on expiry. **It cannot: zero of the 670 published articles carry `integrated-information-theory` as a topic key** (measured with `extract_topics` over `get_published_articles()`). An expiring entry can only unlock candidates that *share its keys*, so an entry whose keys no article carries unlocks nothing. The other two imminent expiries carry `topics: None` and are inert for the same reason. **The general test, worth keeping: before warning about a recycle, check whether any candidate actually carries the expiring entry's keys.** The hazard is real in principle — it was observed on 2026-08-06 — but it is key-dependent, not date-dependent.
   **UPDATE 2026-08-07 17:15 UTC — a FOURTH defect, same split-identity family as the path-prefix one, but MUCH smaller than it first looked. `extract_topics()` does not strip wikilink display ALIASES.** `clean_topic()` (`agentic_social_api.py` L286-292) strips quotes and `[[ ]]` but never splits on `|`, so `[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]` parses to the whole string, pipe and prose included — a phantom key that can never match the bare slug other articles use. Surfaced by the 17:10 run, which passed the **clean** slug to `mark-posted` so the recorded entry is sound; the state file is not polluted.
   **MEASURED WITH THE REAL PARSER, NOT A GREP — and the first grep was wrong.** A naive `grep` for aliased frontmatter list entries returns **448 files**, but that matches `concepts:`/`related_articles:` too. Importing `extract_topics` and running it over `obsidian/` gives the true figure: **9 aliased refs out of 2621 topic refs (0.34%), across 9 files, producing just 2 phantom keys** — and both shadow the same bare slug, `consciousness-and-cognitive-distinctiveness`, which is live elsewhere.
   **So: real defect, worth fixing when the selector is touched (a one-line `t.split("|")[0]`), but it is NOT a cause of the saturation.** The 17:10 run speculated it "may be a contributing cause" — that is disconfirmed. Saturation comes from 121 distinct keys across 107 window entries with `hard-problem-of-consciousness` at 46; 2 phantom keys cannot move that. Do not let this item dilute the recency-weighting fix, which remains the actual remedy.

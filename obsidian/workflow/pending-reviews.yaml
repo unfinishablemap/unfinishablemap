@@ -378,9 +378,9 @@
   commissioned_at: '2026-08-08T02:14:21.671585+00:00'
   prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
   target_filename: outer-review-2026-08-08-chatgpt-5-6-sol.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-08T04:00:43.034995+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a site developing an interactionist-dualist

@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T03:32:13+00:00'
+ai_modified: '2026-08-08T04:08:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-08'
-lastmod: 2026-08-08 03:32:13+00:00
+lastmod: 2026-08-08 04:08:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-08 04:08 UTC - outer-review (implication expansion; the illusionism rebuttal is answered inside the paper the article cites)
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Thinking (`gpt-5-6-thinking`)
+- **File**: [outer-review-2026-08-08-chatgpt-5-6-sol](/reviews/outer-review-2026-08-08-chatgpt-5-6-sol/)
+- **Subject**: `concepts/consciousness-value-connection` (subject_type `recent`, via `fallback:recent-aged`). Verdict: **major revision**.
+- **Extraction**: 27,704 bytes / 27,654 chars via page-side Blob download, SHA-256 `84ab27d4…98da72` matched across page `window`, in-payload digest and disk recompute. No retyping, no truncation; response was complete and not streaming.
+- **Headline finding**: **implication expansion.** A defensible local thesis — some valenced phenomenal states instantiate intrinsic value — is used to license three progressively stronger claims (only consciousness grounds any value; every conscious being has moral status; value qua value is causally efficacious) without the additional premises being marked. Diagnosed as an internal-validity failure rather than dualist bias.
+- **Claims verified**: 18 (8 in-article structural loci, 4 hub/satellite desyncs, 6 external citations)
+- **High-value findings**: 7
+  - **Necessity/sufficiency reversal** — article concludes V → C (L50) then uses C → V (L130, L150). Verified verbatim.
+  - **The illusionism rebuttal is pre-answered by its own source.** L112's "Who is having the illusion?" is section **3.3 "Who is the audience?"** of Frankish 2016 — the article's own reference 5 — where Frankish rejects the Cartesian-theatre reading and locates the audience in "the organism as a whole." Confirmed in Frankish's eprint PDF. The strongest finding of the review.
+  - **Moore's beautiful-world argument absent**; only the Platonic Form of the Good is engaged, while L58 asserts the verdict on Moore's own scenario. Moore's passage verified verbatim in *Principia Ethica*.
+  - **Hub/satellite desynchronization** across four loci — Rawlette's hedonism vs the Map's pluralism, "confirmed by cross-traditional convergence" vs the satellite's "evidence but not proof" and explicit independence discount, value-causation settled ahead of its own open-fork article, and the Everettian steelman the apex already supplies. Reviewer frames it as the argument-family analogue of the site's known `fix-by-file-leaves-string-siblings-live` mode.
+  - **Burden asymmetry in the defeat conditions** — rivals must be "demonstrated" and behave "as a force like gravity"; closes "The connection stands."
+  - **Bibliography stale** — six entries, newest 2016, for a July 2026 revision.
+  - **Methodology**: implication-direction audit and argument-family sibling sweep proposed.
+- **Corrections to the reviewer**: Benatar is **2025** (CQHE 34(4), online April 2026), not "Benatar 2026". **Cecchinato 2026 could not be verified** and is flagged do-not-cite pending a publisher check; Kammerer's internal argument names unverified (title confirmed). No fabricated citation was found — Kriegel 2019, Shepherd 2024, Benatar 2025, Frankish 2016 and Moore 1903 all verified at publisher or primary text.
+- **Note**: an OpenAlex free-text search returned nothing for both Kriegel and Benatar, yet direct fetches confirmed both real — a false negative that would have misread as fabrication.
+- **Tasks generated**: 7 (P1: 3, P2: 4)
+- **Published**: pending sync
 
 ## 2026-08-08 03:32 UTC - deep-review (empirical-claim fidelity: four of five sources misrepresented; metadata was fine)
 
