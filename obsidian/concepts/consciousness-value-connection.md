@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-08T06:13:00+00:00
+ai_modified: 2026-08-08T06:45:29+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -93,11 +93,11 @@ Environmental ethics sometimes attributes intrinsic value to ecosystems, species
 
 ### "Consciousness Might Be an Illusion"
 
-[[illusionism|Illusionism]] holds that phenomenal consciousness is an introspective illusion—there is no "what it's like," only representations of there being a what-it's-like. If consciousness is illusory, the consciousness-value connection has no foundation.
+[[illusionism|Illusionism]] holds that phenomenal consciousness is an introspective illusion: there is no "what it's like," only representations of there being one. If consciousness is illusory, the consciousness-value connection has no foundation.
 
-**Response:** For the illusion to occur, something must be deceived. Who is having the illusion? Either the subject exists and has genuine states of being-appeared-to (which are themselves phenomenal), or no one is having any illusion. The regress problem for illusionism is severe: representation requires a representer, and the representer's states either are phenomenal or require further representation.
+**Response:** Not by the audience regress. Frankish raises that objection in the paper cited below—"Who is the audience?"—and answers it: no unified audience for the illusion need exist smaller than the organism as a whole. Pressed further, the objection only insists that seeming must be felt, which is what illusionism denies.
 
-The heterophenomenological move—treating consciousness reports as data about how things seem without assuming phenomenal states exist—doesn't escape the problem. If there's a "seeming" at all, something seems some way to something. The seeming itself has phenomenal character, or the word loses its meaning. The attempt to reduce seeming to functional responsiveness can't explain why it matters—why the "functional state generating reports of badness" makes anything bad *for* the system.
+The pressure that does bear is normative. François Kammerer, himself an illusionist, presses it from exactly this domain: illusionists must say where they stand on the apparent link between phenomenality and value. Affirming the link may bring revisionary consequences about what is good and bad; denying it requires reasons why situations do not seem good or bad in virtue of the experiences they feature. Kammerer is explicit that this does not show illusionism false—only that it may carry normative consequences that have to be clarified.
 
 More directly: even granting illusionism, the "illusion" of suffering still motivates behavior. But two readings of "matters" must be kept apart. On the *practical* reading, the functional state generating reports of badness is the state that tracks and drives avoidance—and a quasi-phenomenal state can play that value-*tracking* role without contradiction. On the *intrinsic* reading, what makes suffering bad *for* the sufferer is the felt quality itself; a state that registers badness without being felt is not yet what intrinsic mattering *consists in*. That restates the necessity thesis rather than conceding against it: the terminological debate about whether the state is "really" conscious does not change that only a felt state grounds value rather than merely tracking it.
 
@@ -210,4 +210,5 @@ Each entry is marked with the role it plays here. *Contrary authority* means the
 1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*. DOI: 10.1007/s00146-023-01835-6 — Same conclusion, different grounds: value in consciousness without dualism.
 1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956 — Same conclusion, different grounds. With Shepherd, a reminder that the value theory does not by itself buy the Map's interaction tenets.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. — Contrary authority.
+1. Kammerer, F. (2019). "The Normative Challenge for Illusionist Views of Consciousness." *Ergo*, 6. DOI: 10.3998/ergo.12405314.0006.032 — Contrary authority; the source of the normative challenge pressed here.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press. — Background.

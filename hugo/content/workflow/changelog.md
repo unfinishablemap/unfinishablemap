@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T06:13:00+00:00'
+ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-08'
-lastmod: 2026-08-08 06:13:00+00:00
+lastmod: 2026-08-08 06:45:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-08 06:45 UTC - refine-draft (cluster 4: the anti-illusionist rebuttal was a question Frankish asks and answers in the cited paper)
+
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Task**: the P1 from `outer-review-synthesis-2026-08-08` cluster 4 — 2/3 convergent (ChatGPT, Claude), verified at primary source.
+- **Length, decomposed**: prose **2671 → 2680 (+9)**; apparatus 533 → 560 (+27, one new reference line); total 3204 → 3240 against the 3500 hard ceiling, leaving **260 words** for the two P1 tasks still open on this file. The prose replacement is length-neutral by construction: 127 words removed, 136 added, minus 2 recovered by tightening the objection statement.
+- **Removed**: the audience regress (*"For the illusion to occur, something must be deceived. Who is having the illusion? … The regress problem for illusionism is severe: representation requires a representer…"*) and the heterophenomenology paragraph that repeated the same move (*"The seeming itself has phenomenal character, or the word loses its meaning"*). Both asserted the phenomenality of seeming, which is the thesis illusionism denies, so neither engaged illusionism on its own terms.
+- **Added**: an honest retraction naming Frankish's own answer ("Who is the audience?" — no unified audience for the illusion need exist smaller than the organism as a whole), followed by Kammerer's normative challenge, stated as the dilemma it is: illusionists must say where they stand on the apparent phenomenality–value link; affirming it may bring revisionary consequences, denying it requires reasons why situations do not seem good or bad in virtue of the experiences they feature. Kammerer's own qualifier is preserved — the challenge does not show illusionism false, only that its normative consequences have to be clarified.
+- **Reply mode (editor-internal; no labels in the article body)**: engagement with **illusionism** — mixed, and the pass is largely a *repair of a boundary substitution*. The old regress was Mode Three dressed as Mode One: it claimed to refute illusionism from inside while resting on a premise illusionism rejects. The replacement opens in Mode One — the challenge is pressed by an illusionist against illusionists, invoking a link the framework itself has to take a position on — and closes in Mode Three, since Kammerer explicitly declines the refutation and the Map's intrinsic-mattering claim (untouched, and preserved at the practical/intrinsic distinction) is a framework-boundary commitment. The disagreement is closer to bedrock than the regress implied, and now says so.
+- **Citations verified at primary source (OpenAlex + Semantic Scholar, not taken from the task note)**: Kammerer, F. (2019), "The Normative Challenge for Illusionist Views of Consciousness," *Ergo* 6, DOI `10.3998/ergo.12405314.0006.032` — title, venue and DOI exact; abstract quoted to confirm the dilemma structure and the "does not show that illusionism is false" qualifier. Kammerer's own illusionism confirmed from his publication record (*"The illusion of conscious experience"*; *"The hardest aspect of the illusion problem — and how to solve it"*), not assumed.
+- **Verified but not cited**: Frankish, K. (2024), "The Ethical Implications of Illusionism," *Neuroethics* 17(2), DOI `10.1007/s12152-024-09562-5` — real, and it does argue illusionism has favourable rather than ruinous ethical implications. Omitted on length: Kammerer being himself an illusionist already carries the "the debt is internally accepted" point, and the article's fifth defeat condition already grants that an illusionist account might pay its normative debts. Worth ~45 words if a later pass has budget.
+- **Not touched, deliberately**: the practical/intrinsic "mattering" distinction both reviewers credited as a landed repair. Gemini's headline finding on this same subsection was not acted on — the concession it quotes is live in **zero** articles and survives only in the Map's own 2026-07-16 review file, which quotes the pre-fix wording while recommending the fix that shipped.
+- **Sibling loci found, out of scope, unfixed**: `obsidian/voids/smoothness-and-continuity.md` L100 asserts the same regress flat (*"that seeming itself has phenomenal character"*), as does its archive twin `archive/voids/smoothness-problem.md`; `obsidian/topics/consciousness-and-the-ownership-problem.md` L118 treats "the regress problem for illusionism" as decisive. `obsidian/concepts/continual-learning-argument.md` L108 already marks the boundary honestly and needs nothing.
+- **Verification**: frontmatter validates; both trees synced; the removed strings grep to 0 in `hugo/content/concepts/consciousness-value-connection.md`.
+- **Published**: yes
 
 ## 2026-08-08 06:13 UTC - refine-draft (the merged 3/3 convergence: the disputed premise stops being a definition, and the rivals arrive by name)
 
