@@ -5,6 +5,25 @@ ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 08:03 UTC - deep-review (fidelity lenses: minimal-consciousness)
+
+- **Status**: Success
+- **File**: [[concepts/minimal-consciousness]]
+- **Word count**: 2447 → 2751 (+304; hard ceiling 3500, soft 2500 — ample headroom, driver confirmed the article was not length-constrained)
+- **Lens selection**: ninth deep review. The eight prior passes had repeatedly run the **citation-metadata ledger**, which is genuinely clean — every author, year, volume, issue and page verified correct again this pass. This pass ran instead **empirical-claim fidelity**, **verbatim quote attribution**, and **citation framing**. Metadata clean; three substantive fidelity defects found. An article is converged only with respect to the lenses actually applied to it.
+- **Critical issues addressed**: 2
+  - *Bayne, Hohwy & Owen 2016 credited with an axis list that is not theirs* — the article had them holding that global states vary along "wakefulness, content, integration, selfhood." Their abstract enumerates no axes; Páleník 2024's narrative review (PMC11222411) and Bayne's own follow-up Bayne & Carter 2018 (PMC6146157) both describe **two families** — content-gating and functional availability. "Integration" and "selfhood" are **Birch, Schnell & Clayton's** vocabulary from the *next sentence of the same paragraph*, back-projected onto Bayne et al.; "wakefulness" is in neither source. The two cited papers had been partly merged, which also made the paragraph's "parallel case" structure circular. Replaced with their actual proposal; the article's own downstream extrapolation, which had inherited the bad vocabulary, re-grounded on Birch et al.'s real dimensions and marked explicitly as the Map's extension.
+  - *New York Declaration quotation not verbatim, and the omission changes its scope* — article had "If there's a realistic possibility… it is irresponsible to ignore that possibility." Primary source (NYU-hosted Declaration, corroborated independently): "**When there is** a realistic possibility… irresponsible to ignore that possibility **in decisions affecting that animal**." The dropped clause converts a **decision rule for acting under uncertainty** into an unrestricted injunction — a latent possibility/probability slippage vector. Exact text restored, decision-scoping made explicit, and the Declaration itself added to References as the source of record (the prior entry was Andrews et al.'s companion *Background* document, a different text — independently verified correct).
+- **Medium issues addressed**: 2
+  - *IIT example wrong* — "a thermostat, on IIT's account" replaced with Tononi's own **photodiode** ("Information: the photodiode thought experiment," *Biological Bulletin* 215(3)); no thermostat appears in the paper, and the thermostat is Chalmers' example. Added an explicit note that **IIT is a physicalist identity theory** whose widespread-consciousness verdict lends the Map no anti-physicalist support. Reference completed to 215(3).
+  - *Ginsburg & Jablonka orphan reference + garbled criterion* — cited in References but nowhere inline, while the body said "especially associative learning." Their marker is ***Unlimited* Associative Learning**, verified at PMC7116763 and PMC7935133. Named precisely, attached to its authors, orphan resolved, loose reading disclaimed.
+- **Physicalist-recruitment check** (targeted — the reference list is naturalist apart from Nagel): no case found of a physicalist made to testify against physicalism. Birch's precautionary framing was the weakest point, via the truncated quote; now repaired.
+- **Verified exact, no change needed**: the **Birch, Schnell & Clayton 2020** paraphrase reproduces all five dimension names, the "consciousness profile" term and the no-single-scale conclusion accurately. A positive control — the same paragraph held one exact paraphrase and one contaminated one.
+- **Could not verify**: the uncited "*C. elegans* responds to isoflurane similarly to vertebrates." Five relevant Europe PMC papers retrieved; **I did not find** comparative dosimetry against vertebrates in any of them, and did not find refutation either. Left unchanged rather than edited on an unverified basis; flagged for the next pass.
+- **Siblings reported, not fixed** (per driver): `archive/concepts/minimal-consciousness.md` L193 carries the **identical truncated misquote** on a live URL; thermostat/IIT imprecision at `concepts/parsimony-epistemology.md` L134 and `archive/topics/limits-of-parsimony-in-consciousness-science.md` L83/L87 (plus an unverified Tononi quote there). `topics/consciousness-in-simple-organisms.md` L70 already had the Declaration quote **correct** — the reviewed article had drifted from the corpus's own right version. The Bayne axis list has **no** siblings.
+- **Attribution**: `ai_system` held — corrections, not re-authorship.
+- **Output**: [[reviews/deep-review-2026-08-08-minimal-consciousness]]
+
 ## 2026-08-08 07:43 UTC - refine-draft (necessity/sufficiency conflation: consciousness-value-connection)
 
 - **Status**: Success

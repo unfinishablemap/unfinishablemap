@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-05 22:12:37+00:00
+ai_modified: 2026-08-08 08:03:30+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,8 +22,8 @@ description: The simplest form of consciousness—bare phenomenal experience wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 05:06:31+00:00
-lastmod: 2026-08-05 22:12:37+00:00
+last_deep_review: 2026-08-08 08:03:30+00:00
+lastmod: 2026-08-08 08:03:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,9 @@ On this analysis, a system with minimal consciousness would have vijñāna witho
 
 [Integrated Information Theory](/concepts/integrated-information-theory/) proposes that consciousness exists wherever there is integrated information (measured as Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
 
-IIT's predictions are striking: even simple systems with modest Φ values would have minimal consciousness. A thermostat, on IIT's account, might have a flicker of experience. The theory faces resistance precisely because it implies minimal consciousness may be more widespread than intuition suggests.
+IIT's predictions are striking: even simple systems with modest Φ values would have minimal consciousness. Tononi's own worked example is a photodiode that reports "light" or "dark"—a device generating, on his analysis, a single bit where a human observer of the same screen discriminates among an enormous repertoire of alternatives. The theory faces resistance precisely because it implies minimal consciousness may be more widespread than intuition suggests.
+
+IIT is worth placing accurately: it is a physicalist identity theory, holding that experience *is* integrated information rather than something extra that integrated information summons. Its verdict that consciousness is widespread therefore lends the Map no support against physicalism. It matters here as a rival account of where the lower bound falls, and as evidence that the threshold question divides theorists who otherwise share a naturalist framework.
 
 ## The Threshold Problem
 
@@ -95,9 +97,9 @@ Where does minimal consciousness begin? This is the [distribution problem](/topi
 
 ### Is "Minimal" One Dimension or Many?
 
-The "lower bound" and "basement level" metaphors assume a single one-dimensional scale running from zero to richer consciousness. Contemporary work makes that assumption contestable. Bayne, Hohwy and Owen argue that the notion of a *level* of consciousness, as applied to anaesthesia, sleep, and disorders of consciousness, breaks down under scrutiny: global states vary along several independent axes—wakefulness, content, integration, selfhood—rather than along one vertical line (Bayne, Hohwy & Owen 2016). Birch, Schnell and Clayton make the parallel case for animal consciousness, proposing five dimensions of variation—perceptual richness, evaluative richness, integration at a time, integration across time, and self-consciousness—so that each species carries a distinctive *consciousness profile* rather than a rank on a single scale (Birch, Schnell & Clayton 2020).
+The "lower bound" and "basement level" metaphors assume a single one-dimensional scale running from zero to richer consciousness. Contemporary work makes that assumption contestable. Bayne, Hohwy and Owen argue that the notion of a *level* of consciousness, as applied to anaesthesia, sleep, epileptic absence seizures, and post-comatose disorders, breaks down under scrutiny, and they replace it with a multidimensional account of global states. On their treatment, global states differ in which contents can enter consciousness at all and in how far those contents are available to the systems governing cognition and behaviour—two families of variation, not one vertical line (Bayne, Hohwy & Owen 2016). Birch, Schnell and Clayton make the parallel case for animal consciousness, proposing five dimensions of variation—perceptual richness, evaluative richness, integration at a time, integration across time, and self-consciousness—so that each species carries a distinctive *consciousness profile* rather than a rank on a single scale (Birch, Schnell & Clayton 2020).
 
-This is a live position in consciousness science, not a settled result—the levels debate is genuinely contested, with others defending a unified scale. But if minimality is plural, the threshold problem does not dissolve; it multiplies. There would be a minimal wakefulness, a minimal content, a minimal integration, a minimal selfhood, a minimal reportability—and each axis poses the threshold question independently, each resisting a clean boundary between something and nothing. On this reading the Map's case strengthens rather than weakens: not one unexplained edge but several, each marking where the [explanatory-gap](/concepts/explanatory-gap/) reasserts itself. The [minimal-consciousness-void](/voids/minimal-consciousness-void/) develops what the plural framing does to the void's shape.
+This is a live position in consciousness science, not a settled result—the levels debate is genuinely contested, with others defending a unified scale. But if minimality is plural, the threshold problem does not dissolve; it multiplies. Extending the point in the Map's own direction: there would be a minimal perceptual richness, a minimal evaluative richness, a minimal integration, a minimal selfhood—and each axis poses the threshold question independently, each resisting a clean boundary between something and nothing. On this reading the Map's case strengthens rather than weakens: not one unexplained edge but several, each marking where the [explanatory-gap](/concepts/explanatory-gap/) reasserts itself. The [minimal-consciousness-void](/voids/minimal-consciousness-void/) develops what the plural framing does to the void's shape.
 
 ## Metarepresentation and Minimal Consciousness
 
@@ -120,7 +122,7 @@ How might we detect minimal consciousness? No method provides certainty, but pro
 
 **Anaesthetic response**: Systems that show altered behaviour under anaesthetics may have states anaesthetics can disrupt. *C. elegans* responds to isoflurane similarly to vertebrates.
 
-**Learning beyond reflexes**: Habituation, sensitisation, and especially associative learning suggest information integration that might accompany experience.
+**Learning beyond reflexes**: Habituation, sensitisation, and associative learning suggest information integration that might accompany experience. Ginsburg and Jablonka sharpen this into a specific criterion, and the qualifier is the whole of it: not associative learning in general but *unlimited* associative learning—the open-ended capacity to learn about compound stimuli and compound actions, rather than a fixed repertoire of stimulus-response pairings. They propose it as a transition marker for the evolutionary emergence of consciousness (Ginsburg & Jablonka 2019). Cited loosely, as though any associative learning indicated experience, the criterion would sweep in most of the animal kingdom—the opposite of what it was built to do.
 
 **Positive Φ values**: If IIT is correct, measured integrated information correlates with consciousness presence.
 
@@ -132,7 +134,7 @@ None of these proves consciousness exists. The [explanatory-gap](/concepts/expla
 
 The concept matters for several reasons:
 
-**Ethics**: If systems with minimal consciousness have moral status, the range of moral consideration expands dramatically. The 2024 New York Declaration on Animal Consciousness explicitly adopts precautionary reasoning: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility."
+**Ethics**: If systems with minimal consciousness have moral status, the range of moral consideration expands dramatically. The 2024 New York Declaration on Animal Consciousness explicitly adopts precautionary reasoning: "when there is a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility in decisions affecting that animal." The final clause carries the weight. The Declaration states a rule for acting under uncertainty, scoped to decisions affecting the animal; it does not claim consciousness has been established in the creatures it covers. Reading it as a verdict on the evidence would overstate what its signatories asserted.
 
 **Theory testing**: Any adequate theory of consciousness must address minimal cases. A theory that explains only elaborate human consciousness while remaining silent on minimal consciousness is incomplete.
 
@@ -179,6 +181,7 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 
 ## References
 
+1. *The New York Declaration on Animal Consciousness* (2024). New York University, 19 April 2024. nydeclaration.com — source of the quoted precautionary clause.
 1. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). "Background to the New York Declaration on Animal Consciousness." New York University.
 1. Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
 1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.
@@ -186,4 +189,4 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.
+1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3).
