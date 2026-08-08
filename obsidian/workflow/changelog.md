@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T13:42:47+00:00'
+ai_modified: '2026-08-08T14:11:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 14:10 UTC - refine-draft (curated-mind blurb: the sharpest mismatch of the family — flat status claim against four body hedges and a conceded rival)
+
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Scope**: the `description` frontmatter line only. Body diff empty — confirmed by `git diff -U0`, which shows exactly two changed lines (`description`, `ai_modified`). The physicalist-response paragraph (L51) was not touched.
+- **The defect, verified on disk before editing.** The blurb asserted *"…that presupposition **is** a novel argument for dualism"* — the argument's *status*, stated flat. The body hedges the same claim four times and concedes a rival once, each phrase present exactly once: `may constitute a novel argument`, `arguably presupposes a recipient`, `suggestive rather than forced` / `not a demonstration`, `behavioural outputs` (the physicalist reply), and L51's `The presupposition argument does not logically compel dualism. Rather, it is an inference to best explanation.` Two distinct over-claims, not one: the presupposition itself *and* the argument's status.
+- **Fix — precision, not a bare hedge.** Before (172 chars): *"The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and that presupposition is a novel argument for dualism."* After (**170 chars**): *"A best-explanation argument for dualism, not a proof: the brain curates what consciousness receives across vision, body, and memory, and curation presupposes a recipient."* The blurb now says *what kind* of argument this is, matching L51 verbatim in substance. The Map's inference is still stated as its own — nothing was retracted.
+- **Qualifier placement.** At **char 0**, governing both clauses, per the third and best form of the template refined across this family (`b540ec3560` → `4ca2b7c3b2` → `e539e59db2`). This matters here specifically: the contested phrase was a claim about the argument's *status*, so a trailing qualifier would not have reached it. Because the frame governs the whole sentence, `presupposes` needs no second hedge of its own — its scope is already set. Survives a 155-char search-snippet cut with the qualifier intact (the cut lands mid-`presuppos-`, long after the frame). `novel` was dropped rather than hedged: the body separately hedges novelty (`may constitute`), and dropping a claim is safer than qualifying it. Rewritten **at length** — 2 chars shorter than the original, against a corpus median of ~176.
+- **What did not fit.** The body's second half — that the behavioural-outputs reply is *undefeated* — was tested explicitly (`…for dualism, resistible by physicalism: …` = 184 chars; `…a recipient physicalism can redescribe.` = 197). Both extend past the original 172, so both were rejected. `not a proof` carries the concession honestly within budget.
+- **Nav-surface check (reported, not expanded into).** `title: "The Curated Mind"` carries no over-claim — it names the subject, asserts nothing. There is **no `aliases` key** in the frontmatter. The body has no H1. No further nav-surface work is owed on this file.
+- **No archive twin.** Swept the whole tree including `archive/`: `find` returns exactly two `curated-mind*.md` files (obsidian + hugo), and the only surviving instances of the old string are the task note quoting the defect in `todo.md` and its hugo twin — correct, and left alone.
+- **Attribution held.** `ai_system: claude-opus-4-6` and `ai_contribution: 100` unchanged — correcting a blurb to match its own body is not authoring.
+- **Verification**: both trees parsed as YAML (not line-grepped — the sync writer re-emitted this description single-quoted and soft-wrapped across three lines because of the new colon, exactly the inconsistency that defeats anchored greps). Both resolve to the identical 170-char string; `ai_modified` and sync-derived `lastmod` both `2026-08-08T14:09:55+00:00`, strictly past a live `date -u`. Old string absent from both trees.
+- **Published**: yes
 
 ## 2026-08-08 13:42 UTC - refine-draft (predictive-construction rival: the absence was real, but the calibrated reply was already in the corpus — a propagation, not new content)
 

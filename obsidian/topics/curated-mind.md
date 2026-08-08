@@ -1,10 +1,10 @@
 ---
 title: "The Curated Mind"
-description: "The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and that presupposition is a novel argument for dualism."
+description: "A best-explanation argument for dualism, not a proof: the brain curates what consciousness receives across vision, body, and memory, and curation presupposes a recipient."
 created: 2026-03-24
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-07-31T03:15:24+00:00
+ai_modified: 2026-08-08T14:09:55+00:00
 last_deep_review: 2026-07-25T10:45:48+00:00
 draft: false
 topics:
