@@ -5,6 +5,21 @@ ai_modified: '2026-08-08T06:45:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 07:17 UTC - refine-draft (hub/satellite desync: consciousness-value-connection)
+
+- **Status**: Success
+- **File**: [[concepts/consciousness-value-connection]]
+- **Length**: prose 2680 → 2820; apparatus 560 unchanged; gated total 3240 → 3380 (hard ceiling 3500, 120 words headroom). Net +140, inside the 260-word budget; every locus was a qualification of an existing assertion, and ~40 words of genuine redundancy were trimmed to offset (panpsychism's two paragraphs merged, the mattering-recipient closer de-duplicated against its own opening, instrumental/intrinsic background compressed).
+- **Changes**:
+  - *Rawlette scope* — the article credited Rawlette with the pluralist candidate list (pleasure, beauty, knowledge, love, meaning). Per `topics/phenomenal-value-realism` L120 her version is hedonistic and the extension is the Map's; now attributed correctly, with the test stated as common to either scope.
+  - *Cross-traditional convergence* — "confirmed by cross-traditional convergence" replaced. `concepts/evaluative-phenomenal-character` L151 discounts the four cases (vedanā and rasa are one Indian lineage) and grades them near-independent; the hub now inherits that discount instead of contradicting its own satellite. The vedanā doctrinal-inversion point was deliberately **not** folded in — it is a non-convergent singleton with its own open P2 task on the satellite.
+  - *Value-causation sequencing* — the hedge pointing at `valence-and-conscious-selection` already existed but trailed the flat assertions. Rewritten as a conditional so the open question governs the conclusion; no second hedge added. Also removed a "Y, not X" construction.
+  - *Many-Worlds* — imported the shape of the apex steelman (`apex/moral-architecture-of-consciousness` L190) in two sentences: branch-relative significance and measure-weighting granted **first**, then rejected on indexical grounds, preserving the apex's order. Dropped the flat "dilutes value across infinite branches" closer the steelman contests.
+  - *Occam's Razor* — the tenet was doing shield-only duty against critics. Added the self-binding clause, quoting `tenets` L147 verbatim ("any Map argument that leans on parsimony as if this tenet did not apply to it"), so nothing above rests on the connection being the *simpler* account. `phenomenal-value-realism` L60 already carries its own Tenet-5 disclaimer and was correctly left alone.
+  - *Dualism subsection* — was inferring value's irreducibility straight from consciousness grounding value. Given that phenomenal value realism is available to physicalists (`phenomenal-value-realism` L159), the inference needs the **conjunction** of the tenet with the identity thesis; now stated as such and marked framework-internal, inheriting the apex's discipline.
+- **Driver-brief corrections**: the brief flagged the `tenets` quotation *"The discipline is symmetric: parsimony cannot decide for or against a framework when the relevant knowledge is incomplete"* as a paraphrase invented by the task note. It is **verbatim in `obsidian/tenets/tenets.md` L145** (grep-confirmed, count 1). The brief's own replacement line numbers (L147/L149) are the real passages but sit two lines earlier (L145/L147). No content consequence — the substance of the fix was unchanged either way.
+- **Published**: yes
+
 ## 2026-08-08 07:05 UTC - pessimistic-review (the strawman audit: does the Map rebut the strongest form of an opposing view?)
 
 - **Status**: Success

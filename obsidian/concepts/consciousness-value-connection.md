@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-08T06:45:29+00:00
+ai_modified: 2026-08-08T07:17:30+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -51,7 +51,7 @@ Combined: welfare requires a beneficiary, and being a beneficiary requires pheno
 
 ### Distinguishing Instrumental and Intrinsic Value
 
-Instrumental value is derivative: the tree has value if someone values the shade, the lumber or the beauty. Intrinsic value derives from nothing else—if pleasure is intrinsically good, it is good because of what it *is*. The question is whether anything can have intrinsic value independently of consciousness.
+Instrumental value is derivative—the tree has value if someone values the shade, the lumber or the beauty—while intrinsic value derives from nothing else. The question is whether anything can have intrinsic value independently of consciousness.
 
 The consciousness-value connection says no. A beautiful sunset in a universe without observers has no value—not even aesthetic value—because there is no perspective from which beauty exists. Beauty is a property of *experiencing* light wavelengths rather than of the wavelengths. That verdict is contested by a case older than the Map, and it is answered rather than assumed under ["Value Could Exist Without a Subject"](#value-could-exist-without-a-subject) below.
 
@@ -61,13 +61,13 @@ Philosophers reach this conclusion through different paths.
 
 ### The Experience Requirement
 
-Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. All the candidates—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization. An unread proposition, an unseen painting, and love present only as a brain state no one feels each carry the structure of the good without its realisation. Whether that observation is an argument or a restatement is exactly what the objectivist rivals below press.
+Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. Her own version is hedonistic—pleasure and pain exhaust intrinsic value—and the extension to beauty, knowledge, love and meaning is the Map's, not hers. Either scope meets the same test: an unread proposition, an unseen painting, and love present only as a brain state no one feels each carry the structure of the good without its realisation. Whether that observation is an argument or a restatement is exactly what the objectivist rivals below press.
 
 ### The Phenomenal Value Realism Route
 
 [[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain *constitutes* badness rather than correlating with it, and the experience of pleasure is goodness instantiated rather than instrumentally good. This is known through direct [[introspection|introspective]] access, not inference.
 
-On this view the connection is necessary rather than contingent: consciousness supplies the stuff of value, not merely its precondition. [[evaluative-phenomenal-character|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the phenomenal properties through which value is constituted. The [[evaluative-phenomenal-character|evaluative phenomenal character]] article develops the phenomenological grounding in detail: demand character, independence from attitude, and gradedness are structural features of how value presents itself in experience, confirmed by cross-traditional convergence from Buddhist *vedanā* through Neo-Confucian *liángzhī* to Islamic knowledge by presence.
+On this view the connection is necessary rather than contingent: consciousness supplies the stuff of value, not merely its precondition. [[evaluative-phenomenal-character|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the phenomenal properties through which value is constituted. The [[evaluative-phenomenal-character|evaluative phenomenal character]] article develops the phenomenological grounding in detail: demand character, independence from attitude, and gradedness are structural features of how value presents itself in experience. The cross-traditional cases it surveys—Buddhist *vedanā*, Neo-Confucian *liángzhī*, Islamic knowledge by presence—are discounted there rather than counted as separate confirmations, two of them sharing one Indian lineage. They tell against a parochially Western explanation of evaluative character without establishing that it is basic.
 
 The identity is metaphysical rather than merely conceptual: what you undergo in joy *is* the goodness.
 
@@ -75,7 +75,7 @@ The identity is metaphysical rather than merely conceptual: what you undergo in 
 
 A different approach focuses on what value is *for*: value that is good for no one and bad for no one is physics arranged one way rather than another.
 
-For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. The universe before consciousness contained no value in the evaluative sense at all: matter arranged and rearranged, and no arrangement was better or worse than another.
+For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. Before consciousness, matter arranged and rearranged, and no arrangement was better or worse than another.
 
 ## Objections and Responses
 
@@ -135,29 +135,27 @@ The [[meaning-of-life|meaning of life]] connects directly. If value requires con
 
 ### For Panpsychism
 
-[[panpsychism|Panpsychism]]—the view that consciousness is ubiquitous—would extend value ubiquitously. If electrons have micro-experience, then value begins at the fundamental level. This might seem to trivialize the consciousness-value connection (everything has value), but the connection still holds: where there is value, there is consciousness.
-
-The Map does not commit to panpsychism. But if panpsychism is true, the consciousness-value connection explains why: value and experience are inseparable, so wherever experience goes, value follows.
+[[panpsychism|Panpsychism]]—the view that consciousness is ubiquitous—would extend value ubiquitously. If electrons have micro-experience, value begins at the fundamental level. That may look like trivialisation, but the connection survives it: where there is value, there is consciousness, so wherever experience goes value follows. The Map does not commit to panpsychism; the point is that the connection holds either way.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism tenet]] holds that consciousness is irreducible. If consciousness grounds value, value too is irreducible: the explanatory gap between physical descriptions and phenomenal experience extends to an evaluative gap, and no physical description captures what makes states valuable.
+The [[tenets#^dualism|Dualism tenet]] holds that consciousness is irreducible. Value's irreducibility does not follow from grounding alone; it needs the tenet *conjoined with* the identity thesis above—that value properties **are** phenomenal properties—since a merely grounding relation would leave value reducible wherever its base was. [[topics/phenomenal-value-realism|Phenomenal value realism]] is available to physicalists, so the step is framework-internal rather than one a rival must concede. Granted both conjuncts, the explanatory gap between physical description and phenomenal experience extends to an evaluative gap, and no physical description captures what makes states valuable.
 
 This resists reductive ethics that would ground value in evolutionary fitness, social convention, or rational preferences alone. Those may track value, but intrinsic value is phenomenal.
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [[valence-and-conscious-selection|open question]], and how robust the non-epiphenomenality claim is depends on the answer.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. Whether value enters the selection mechanism directly or operates through attention is an [[valence-and-conscious-selection|open question]], and everything below turns on the answer. Where the channel is value-sensitive rather than merely value-correlated, value influences the physical world: choices made for the sake of value shape what happens, moral agency escapes [[concepts/epiphenomenalism|epiphenomenal]] idleness, and [[topics/free-will|libertarian free will]] gains support, since genuine choice about value-laden matters requires that consciousness make a difference. Where the channel runs only through attention, the conclusion holds in a weaker form.
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds tenet]] preserves the weight of value. If every quantum event spawns worlds where all outcomes occur, then suffering is never reduced—it merely becomes distributed. The moral urgency of reducing suffering presupposes that indexical facts matter: *this* suffering, *here*, is what counts. Many-worlds dilutes value across infinite branches where it cannot be concentrated or redirected.
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] preserves the weight of value. If every quantum event spawns worlds where all outcomes occur, suffering is never reduced but only distributed. Branching theories are not without resources here: significance can be assigned branch-relatively, or value measure-weighted across branches. The [[apex/moral-architecture-of-consciousness#Relation to Site Perspective|moral architecture apex]] grants those resources and still judges them inadequate on indexical grounds—measure-weighting says how much value a branch carries but not why *this* branch's outcome is mine rather than a counterpart's. The moral urgency of reducing suffering presupposes that indexical facts matter: *this* suffering, *here*, is what counts.
 
 ### Occam's Razor Has Limits
 
-The [[tenets#^occams-limits|Occam's Razor tenet]] applies when critics dismiss consciousness-grounded value as unnecessarily complex. Simpler accounts—value as preference-satisfaction, value as evolutionary fitness—gain parsimony by ignoring what we know most directly: that suffering feels bad and pleasure feels good. The felt quality is not a theoretical extravagance; it is the datum that needs explaining.
+The [[tenets#^occams-limits|Occam's Razor tenet]] applies when critics dismiss consciousness-grounded value as unnecessarily complex. Simpler accounts—value as preference-satisfaction, value as evolutionary fitness—gain parsimony by ignoring what we know most directly: that suffering feels bad and pleasure feels good. The felt quality earns its place as the datum needing explanation rather than as a theoretical extravagance. The tenet binds symmetrically, though. It rules out "any Map argument that leans on parsimony as if this tenet did not apply to it," so nothing above rests on consciousness-grounded value being the *simpler* account—only on its answering to the datum.
 
 ## What Would Challenge This View?
 
