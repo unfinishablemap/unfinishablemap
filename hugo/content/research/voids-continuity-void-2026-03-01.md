@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-05 01:49:00+00:00
+ai_modified: 2026-08-08 16:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ date: &id001 2026-03-01
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-05 01:49:00+00:00
+lastmod: 2026-08-08 16:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ Consciousness appears to flow continuously—the "stream" of experience—yet ne
   - "Discrete experiences can be smooth"—the intuitive assumption that smoothness entails continuity is wrong
   - The fact that an experience is discretely structured does not entail that it will strike its subject as discretely structured
 - **Tenet alignment**: Occam's Razor Has Limits—our intuitive preference for continuity (the simpler model matching experience) may be wrong
-- **Quote**: "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined."
+- **Quote**: "What it's like for one to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined."
 
 ### "Time Slices: What Is the Duration of a Percept?" (PLOS Biology, 2016)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC4829156/
@@ -224,7 +224,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Lee, A. Y. "Consciousness & Continuity." PhilArchive. https://philarchive.org/archive/LEECAC-14
+- Lee, A. Y. (forthcoming). "Consciousness and Continuity." *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). https://philarchive.org/archive/LEECAC-14
 - Herzog, M. H., Kammer, T., & Scharnowski, F. "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4), 2016. https://pmc.ncbi.nlm.nih.gov/articles/PMC4829156/
 - Dainton, B. "Temporal Consciousness." *Stanford Encyclopedia of Philosophy*, 2024. https://plato.stanford.edu/entries/consciousness-temporal/
 - "Momentariness, Buddhist doctrine of." *Routledge Encyclopedia of Philosophy*. https://www.rep.routledge.com/articles/thematic/momentariness-buddhist-doctrine-of/v-1

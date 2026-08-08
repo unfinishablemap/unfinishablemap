@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-06T14:27:55+00:00
+ai_modified: 2026-08-08T16:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,9 +42,11 @@ This distinguishes the grain mismatch from arguments that physicalism *fails to 
 
 ## The Introspective Opacity Problem
 
-Andrew Lee's formal work on discriminatory grain adds a further dimension. Lee develops precise models of the fineness of distinction that experience can support and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2024).
+Andrew Lee's formal work adds a further dimension, though what he argues and what the Map takes from him need separating. Lee builds formal models of what it takes for an experience to count as continuous or discrete and concludes that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee forthcoming).
 
-This matters because it blocks the obvious physicalist reply: that phenomenal smoothness is illusory — that experience merely *seems* homogeneous while actually being discrete at some fine grain. Lee shows we cannot determine from inside experience whether this is the case. Introspection cannot inspect its own resolution. The grain of consciousness is opaque to the consciousness whose grain it is.
+That conclusion bears on the obvious physicalist reply: that phenomenal smoothness is illusory — that experience merely *seems* homogeneous while actually being discrete at some fine grain. If introspection leaves the question open, the reply cannot be established from the first-person side, and neither can its denial.
+
+Lee reaches the conclusion without appealing to introspective limits, which is worth registering because the corpus has sometimes read him the other way. The natural move for a discrete theorist is to say experience is discrete at a grain too fine for introspection to resolve; Lee reports some sympathy for it but sets it aside as dialectically unsatisfying, developing a structural rather than epistemic account of the difference between smooth and gappy experience — and he argues, cutting against the easy reading, that those most optimistic about our introspective capacities have reason to favour the discrete theory. The stronger claim that introspection cannot inspect its own resolution, that the grain of consciousness is opaque to the consciousness whose grain it is, is the Map's extension rather than Lee's result.
 
 This opacity cuts both ways. The dualist cannot prove from introspection alone that experience is genuinely continuous. But the physicalist cannot rescue identity by claiming experience is "really" discrete either. The structural incompatibility identified by Sellars remains unresolved because the very tool we would need to resolve it — introspective access to phenomenal microstructure — is unavailable.
 
@@ -102,7 +104,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
 3. Lockwood, M. (1993). The Grain Problem. In H. Robinson (ed.), *Objections to Physicalism*. Oxford University Press.
-4. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+4. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
 5. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly* 32(127): 127–136.
 6. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resolution Void"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-08-06T14:27:55+00:00
+ai_modified: 2026-08-08T16:12:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -55,9 +55,10 @@ Consciousness operates at a characteristic resolution—a grain size—radically
 - **Key points**:
   - Uses formal tools to clarify what it means for experience to be continuous or discrete
   - Develops a discrete model of the phenomenal characters of smooth experiences
-  - Argues introspection cannot determine whether smooth experiences are truly continuous or finely discrete
-  - Defines a formal measure of "discriminatory grain" as a tool for empirical consciousness research
-  - Distinguishes the grain of individual experiences from the continuity of the stream of consciousness
+  - Concludes that "introspection leaves open whether smooth experiences are continuous or discrete"
+  - Reaches that conclusion *structurally, not epistemically*: "Unlike some defenses of the discrete theory, my arguments won't appeal to limits in our introspective capacities." He grants "some sympathy" for the too-fine-to-introspect move and then sets it aside as "dialectically unsatisfying", arguing instead that "those most optimistic about our introspective capacities have reason to favor the discrete theory"
+  - Holds his target question structurally distinct from the stream-of-consciousness question — "the former concerns continuous functions; the latter concerns continuous spaces" — so his arguments "won't directly adjudicate debates about the stream of consciousness", though "my defense of the discrete theory may still be relevant"
+- **CORRECTION (2026-08-08)**: two bullets in this entry were wrong and had already propagated into three articles. (1) A bullet read *'Defines a formal measure of "discriminatory grain" as a tool for empirical consciousness research'*. The phrase **does not occur in the paper**. The full text (PDF from the author's own site, `andrewyuanlee.com/consciousness-and-continuity.pdf`, extracted with `pdftotext`) returns three hits for "grain": two for "the grain of introspection" — describing a move Lee *sets aside* — and one bibliography entry for Lockwood's "The grain problem". "Discriminatory" occurs zero times. The term was the Map's coinage and was credited to Lee. (2) A bullet read *'Argues introspection cannot determine whether smooth experiences are truly continuous or finely discrete'*, which reads his conclusion as an argument from introspective limits. It is the route he explicitly declines. Both bullets are replaced above with his actual conclusion and his actual route.
 - **Tenet alignment**: Demonstrates that consciousness has structural properties (grain, resolution) that are philosophically significant and not reducible to functional descriptions
 - **Quote**: "Introspection leaves open whether smooth experiences are continuous or discrete"
 
@@ -131,7 +132,7 @@ The evidence converges from multiple independent lines:
 3. **Information-theoretic**: The 10 bits/second figure represents a measurement, not a theoretical estimate
 4. **Neuroscientific**: The ~100x gap between unconscious temporal resolution (3ms) and conscious temporal resolution (370ms) is empirically established
 5. **Contemplative**: Buddhist momentariness doctrine independently identifies consciousness as operating in discrete temporal units
-6. **Formal**: Andrew Lee's work demonstrates that introspection cannot determine its own grain—we cannot tell from inside whether experience is continuous or finely discrete
+6. **Formal**: Andrew Lee's work concludes that "introspection leaves open whether smooth experiences are continuous or discrete"—though he reaches this by a structural rather than an epistemic route, and explicitly declines to appeal to limits in our introspective capacities (see the correction under his entry above)
 
 ### Phenomenology
 
@@ -209,7 +210,7 @@ Based on this research, a voids article could:
 - Sellars, W. (1962). "Philosophy and the Scientific Image of Man." In R. Colodny (ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press.
 - Sellars, W. (1971). "Science, Sense Impressions, and Sensa: A Reply to Cornman." *Review of Metaphysics* 24(3): 391–447.
 - Lockwood, M. (1993). "The Grain Problem." In H. Robinson (ed.), *Objections to Physicalism*. Oxford University Press.
-- Lee, A. Y. (2023). "Consciousness and Continuity." *PhilArchive*. University of Toronto.
+- Lee, A. Y. (forthcoming). "Consciousness and Continuity." *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
 - Lee, A. Y. (2023). "Degrees of Consciousness." *Noûs*.
 - Zheng, J., et al. (2024). "The speed of human thought." Caltech. (Reported via *New Atlas*.)
 - Cowan, N. (2009). "Capacity Limits and Consciousness." In T. Bayne et al. (eds.), *Oxford Companion to Consciousness*. Oxford University Press.

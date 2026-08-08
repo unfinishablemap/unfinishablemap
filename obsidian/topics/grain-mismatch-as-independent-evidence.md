@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-08-06T15:39:40+00:00
+ai_modified: 2026-08-08T16:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ The brain samples the world in discrete cycles. Alpha oscillations (7–13 Hz) d
 
 This temporal mismatch is logically independent of the spatial one. An identity theorist could concede that spatial phenomenal properties are not identical to spatial neural properties while maintaining that temporal experience *is* identical to temporal neural processing. To dissolve the temporal mismatch specifically, one would need to show either that temporal experience is genuinely discrete (matching neural periodicity) or that neural temporal processing is genuinely continuous at the relevant level. As [[neural-refresh-rates-and-the-smoothness-problem|the smoothness problem]] details, Herzog's two-stage model attempts the latter by locating continuity in unconscious processing — but this relocates the problem rather than solving it, since the question is why *conscious* experience is smooth when the *neural correlate of consciousness* is periodic.
 
-Andrew Lee's introspective opacity finding applies with equal force here: we cannot determine from inside experience whether temporal smoothness is genuine continuity or fine-grained discreteness below our discriminatory threshold. The structural puzzle persists regardless.
+Andrew Lee's work on smooth experience may still be relevant here, though it does not transfer cleanly. Lee concludes that "introspection leaves open whether smooth experiences are continuous or discrete," but he is explicit that his target question and the question about the stream of consciousness are structurally distinct — the first concerns continuous functions, the second continuous spaces — and that his arguments "won't directly adjudicate debates about the stream of consciousness," though he expects a similar analysis could be developed for it. To whatever extent it does transfer, the upshot is that introspective evidence does not settle whether temporal smoothness is genuine continuity or a fine-grained discreteness. The structural puzzle persists either way.
 
 ### Informational Grain
 
@@ -84,7 +84,7 @@ The evidence programme would be substantially weakened by:
 
 **Resolution of all three mismatches independently.** If spatial, temporal, and informational mismatches were each explained by domain-specific physicalist mechanisms (not a single sweeping response), the convergence argument would lose its force. This is the most honest test: not a philosophical argument that grain mismatches *in principle* can be explained, but actual explanations for each specific mismatch.
 
-**Demonstration that phenomenal homogeneity is illusory.** If Lee's introspective opacity were resolved — if it were shown that phenomenal experience is discrete at a fine grain matching neural architecture — the spatial and temporal mismatches would dissolve at their foundation. The informational mismatch would survive (discrete conscious experience could still be informationally coarser than neural processing), but the programme would lose two of its three pillars.
+**Demonstration that phenomenal homogeneity is illusory.** If the question Lee leaves open were closed — if it were shown that phenomenal experience is discrete at a fine grain matching neural architecture — the spatial and temporal mismatches would dissolve at their foundation. The informational mismatch would survive (discrete conscious experience could still be informationally coarser than neural processing), but the programme would lose two of its three pillars.
 
 **A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists ([[global-workspace-theory|Global Workspace Theory's]] serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
 
@@ -123,7 +123,7 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 
 1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
 2. Sellars, W. (1971). Science, Sense Impressions, and Sensa: A Reply to Cornman. *Review of Metaphysics* 24(3): 391–447.
-3. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+3. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365–1366.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.

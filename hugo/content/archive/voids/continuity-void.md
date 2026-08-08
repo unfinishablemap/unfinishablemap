@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-08-08 16:12:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Smoothness and Continuity
 archived: true
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-10 20:53:00+00:00
-lastmod: 2026-03-20 04:33:46+00:00
+lastmod: 2026-08-08 16:12:00+00:00
 modified: *id001
 original_path: /voids/continuity-void/
 related_articles:
@@ -45,7 +45,7 @@ Within the [voids](/voids/) framework, the continuity void is primarily **unexpl
 
 ## Smooth Does Not Mean Continuous
 
-A powerful argument that this void is structural rather than merely difficult comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, 2023). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
+A powerful argument that this void is structural rather than merely difficult comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like for one to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, forthcoming). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
 
 This dismantles the most intuitive argument for continuity. Most people feel certain that consciousness flows. It *seems* to. But Lee shows that this feeling is precisely what cannot be trusted. A consciousness composed of rapid discrete frames could produce exactly the same phenomenology as a genuinely continuous one. The apparent stream could be a flipbook.
 
@@ -112,7 +112,7 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 
 ## References
 
-1. Lee, A. Y. (2023). "Consciousness & Continuity." PhilArchive. https://philarchive.org/archive/LEECAC-14
+1. Lee, A. Y. (forthcoming). "Consciousness and Continuity." *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). https://philarchive.org/archive/LEECAC-14
 2. Herzog, M. H., Kammer, T., & Scharnowski, F. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4). https://pmc.ncbi.nlm.nih.gov/articles/PMC4829156/
 3. Dainton, B. (2024). "Temporal Consciousness." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 4. Bergson, H. (1889). *Time and Free Will*. Chapter 2.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-18 05:05:10+00:00
+ai_modified: 2026-08-08 16:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-07-18 05:05:10+00:00
+lastmod: 2026-08-08 16:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The specious present was named by E.R. Clay and developed by William James, Huss
 
 Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are nested components of temporal experience, not competing estimates.
 
-The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/voids/smoothness-and-continuity/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, 2024)—but the collapse framework makes extensionalism a natural fit.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/voids/smoothness-and-continuity/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, forthcoming)—but the collapse framework makes extensionalism a natural fit.
 
 ### The Irreducibility Argument
 
@@ -239,7 +239,7 @@ Temporal consciousness connects to all five tenets:
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
-1. Lee, A. Y. (2024). Consciousness & Continuity. *PhilArchive*.
+1. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14).
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness."
 1. Stanford Encyclopedia of Philosophy. "Henri Bergson."

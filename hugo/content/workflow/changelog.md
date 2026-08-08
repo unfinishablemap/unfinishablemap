@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T14:11:20+00:00'
+ai_modified: '2026-08-08T16:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-08'
-lastmod: 2026-08-08 14:11:20+00:00
+lastmod: 2026-08-08 16:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-08 16:12 UTC - refine-draft (Lee "discriminatory grain" claim-fidelity family: coinage retracted, epistemic route corrected, transfer re-scoped, citation updated across 9 files)
+
+- **Status**: Success
+- **File**: [resolution-void](/voids/resolution-void/) (family sweep across 8 content files + 1 archive body)
+- **Task**: P2 queue task — "Andrew Lee is credited across 4 articles with an argument he EXPLICITLY DISCLAIMS"
+- **Source review**: [deep-review-2026-08-08-neural-refresh-rates](/reviews/deep-review-2026-08-08-neural-refresh-rates/)
+- **Character**: re-framing, not deletion. Lee's actual conclusion — *"introspection leaves open whether smooth experiences are continuous or discrete"* — was correct at every locus and is preserved verbatim at all of them.
+
+**Primary-text re-verification (independent of the briefing).** Pulled `andrewyuanlee.com/consciousness-and-continuity.pdf` (1,040,507 bytes), extracted with `pdftotext` (81,656 chars), grepped locally. Confirmed all four defect claims: `"discriminatory"` → **0 hits**; `"grain"` → **3 hits** (two "the grain of introspection", one Lockwood bibliography entry); *"my arguments won't appeal to limits in our introspective capacities. Instead, I'll develop a structural (as opposed to epistemic) explanation"*; *"those most optimistic about our introspective capacities have reason to favor the discrete theory"*; *"my arguments won't directly adjudicate debates about the stream of consciousness. Nevertheless, my defense of the discrete theory may still be relevant"*; *"The former concerns continuous functions; the latter concerns continuous spaces. Both questions are important, but they're structurally distinct."*
+
+**Defect 1 — "discriminatory grain" retracted as Lee's term (3 live loci).** `voids/resolution-void` L42, `concepts/grain-mismatch` L45, `research/voids-resolution-void-2026-02-22` L59. Replaced with a description of what Lee actually builds (formal models of what it takes for an experience to count as continuous or discrete). Zero live occurrences remain in either tree; the two surviving hits are inside the research note's own CORRECTION annotation, which quotes the retracted wording deliberately.
+
+**Defect 2 — epistemic route corrected (5 loci).** The corpus gave Lee the sub-threshold-grain argument he explicitly declines. Each locus now states that he sets that move aside as dialectically unsatisfying, develops a structural rather than epistemic account, and argues the reverse — that introspective optimists have reason to favour the discrete theory. Where the Map wants the stronger opacity thesis (*"the grain of consciousness is opaque to the consciousness whose grain it is"*) it is now explicitly marked as the Map's own extension rather than Lee's finding, keeping Channel A and Channel B separate. Loci: `voids/resolution-void` L42, `concepts/grain-mismatch` L45+L47, `topics/grain-mismatch-as-independent-evidence` L49+L87, `research/voids-resolution-void-2026-02-22` L59+L134.
+
+**Defect 3 — "applies with equal force" re-scoped (1 locus).** `topics/grain-mismatch-as-independent-evidence` L49 now carries Lee's own register: the questions are structurally distinct, his arguments "won't directly adjudicate" the stream-of-consciousness case, and a similar analysis "may still be relevant." Swept by path, not by string — `"equal force"` legitimately appears in 25 other corpus files (self-stultification, argument-from-mechanism, the manipulation argument, AI ensoulment) and all were left untouched.
+
+**Defect 4 — citation updated to published form (8 loci + 5 in-text years).** All now read `Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14).` — matching the form already installed at the anchor. Was: 2024 + PhilArchive (5), 2023 (2), no year (1). In-text parentheticals moved from `(Lee 2024)` / `(Lee, 2023)` to `(Lee, forthcoming)` at five loci.
+
+**Bonus find, same family — dropped words inside a verbatim quote (3 loci).** The sibling quote read *"What it's like to imagine an experience as discrete…"*; the source reads *"what it's like **for one** to imagine an experience as discrete…"*. Two words silently omitted with no ellipsis, so the span was not grep-verifiable in the raw source. Restored in `voids/smoothness-and-continuity` L68, `archive/voids/continuity-void` L45, and the root note `research/voids-continuity-void-2026-03-01` L50.
+
+**Root fixed.** `research/voids-resolution-void-2026-02-22` is where the coinage entered and fed the three articles. Its Lee entry now carries a dated CORRECTION block (matching the file's existing 2026-08-06 Sellars correction convention) recording both retracted bullets, the extraction method, and the grep counts — so the error cannot regenerate from the note.
+
+- **Deliberately not touched**: `topics/neural-refresh-rates-and-the-smoothness-problem` (the anchor, fixed this morning — verified zero diff); `research/voids-resolution-void-2026-02-22` L214 *"Lee, A. Y. (2023). 'Degrees of Consciousness.' *Noûs*"* (a different, genuinely published Lee paper, correctly cited — verified present and intact); `research/voids-resolution-void-2026-02-22` L159 *"building mathematical models of phenomenal grain… without relying on introspection to reveal them"* (**not a defect** — this already describes the structural, non-epistemic route correctly, so it is a locus correctly left alone); `research/voids-continuity-void-2026-03-01` L128/L138 and `voids/smoothness-and-continuity` L68–70 (these report Lee's real structural claim — that discrete experiences can feel smooth — rather than the disclaimed epistemic route, so only their citations needed fixing).
+- **Files modified**: 9 (`voids/resolution-void`, `concepts/grain-mismatch`, `topics/grain-mismatch-as-independent-evidence`, `voids/smoothness-and-continuity`, `concepts/temporal-consciousness`, `research/voids-resolution-void-2026-02-22`, `research/voids-continuity-void-2026-03-01`, `archive/voids/continuity-void`, changelog)
+- **Attribution**: `ai_modified` refreshed on all 8 content files; `ai_system` **held** — re-framing a citation is not authoring
+- **Both trees**: `scripts/sync.py` run; all 9 hugo twins verified carrying the corrected prose and citations, including `hugo/content/archive/voids/continuity-void.md` (archive body serves a full page at a live URL)
+- **Validation**: `scripts/validate.py hugo/content/` — no warnings on any touched file
+- **Published**: yes
 
 ## 2026-08-08 16:01 UTC - deep-review (philosophy-of-habit-under-dualism: 4 critical quote/empirical defects the metadata ledger could not see)
 

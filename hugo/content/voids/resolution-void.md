@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-08-06 14:27:55+00:00
+ai_modified: 2026-08-08 16:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-08-06 14:27:55+00:00
+lastmod: 2026-08-08 16:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,7 +43,9 @@ Wilfrid Sellars identified a logical problem at the heart of physicalist theorie
 
 This [grain-mismatch](/concepts/grain-mismatch/) cuts deeper than most arguments against materialism. It identifies a structural incompatibility: homogeneous phenomenal properties and discrete physical substrates cannot be identical because they have incompatible characteristics. If experience is genuinely smooth and neurons are genuinely discrete, then experience is not neurons.
 
-Andrew Lee's formal work sharpens the problem. Lee develops precise models of "discriminatory grain" — the fineness of distinction that a given experience can support — and demonstrates that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee 2024). We cannot inspect our own resolution from inside. The grain of consciousness is opaque to the consciousness whose grain it is. This opacity is itself part of the void: not only does consciousness operate at limited resolution, it cannot determine what that resolution is.
+Andrew Lee's formal work sharpens the problem, though the route he takes to it matters as much as the conclusion. Lee builds formal models of what it takes for an experience to count as continuous or discrete, and concludes that "introspection leaves open whether smooth experiences are continuous or discrete" (Lee forthcoming). He arrives there without appealing to introspective limits. The natural move for a discrete theorist is to say that experience is discrete at a grain too fine for introspection to resolve; Lee reports some sympathy for it but sets it aside as dialectically unsatisfying, developing a structural rather than epistemic account of what separates smooth experience from gappy experience — and he presses further in a direction that cuts against the easy reading, arguing that those most optimistic about our introspective capacities have reason to favour the discrete theory.
+
+His conclusion still bears on this void, by a shorter path than an opacity thesis. If introspection leaves the question open, we cannot settle our own resolution from inside, whatever the explanation for that. The stronger claim — that the grain of consciousness is opaque to the consciousness whose grain it is — is the Map's own extension rather than Lee's finding, and it is what makes the limit part of the void: not only does consciousness operate at limited resolution, it cannot determine what that resolution is.
 
 ## Six Orders of Magnitude
 
@@ -107,7 +109,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 ## References
 
 1. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
-2. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+2. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
 3. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
 4. Wu, T., Dufford, A. J., Mackie, M.-A., Egan, L. J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.

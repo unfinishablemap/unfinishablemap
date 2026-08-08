@@ -89,10 +89,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - `obsidian/research/voids-resolution-void-2026-02-22.md` **L59** — *'Defines a formal measure of "discriminatory grain"'*. **This is the ROOT**: the research note is where the coinage entered and it fed the three articles. Fix it too or the error regenerates (research-note-self-flagged-gaps-propagate-to-the-article).
   **⚠️ DO NOT SWEEP BY THE STRING "equal force"** — it occurs ~15 times corpus-wide in entirely unrelated arguments (self-stultification, argument-from-mechanism, manipulation argument, AI ensoulment…). **Target these four paths.**
   **DEFECT 4 — the citation is stale; the paper is no longer a preprint.** Per the author's own publication listing it is now under Peer-Reviewed Articles: ***Philosophical Studies*, forthcoming**. Correct form (already installed at the anchor): `Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14).` **8 stale loci**, which also carry a year split:
-  - **2024 + PhilArchive (5 live)**: `topics/grain-mismatch-as-independent-evidence.md` L126, `voids/resolution-void.md` L106, `voids/smoothness-and-continuity.md` L137, `concepts/grain-mismatch.md` L105, `concepts/temporal-consciousness.md` L237.
-  - **2023 (2)**: `research/voids-resolution-void-2026-02-22.md` L212, `archive/voids/continuity-void.md` L112 (archive body serves at a live URL).
-  - **no year (1)**: `research/voids-continuity-void-2026-03-01.md` L225.
-  - **⚠️ DO NOT TOUCH** `research/voids-resolution-void-2026-02-22.md` **L213** — *"Lee, A. Y. (2023). Degrees of Consciousness. *Noûs*"* is a **different, genuinely published Lee paper** and is correct.
+  * **2024 + PhilArchive (5 live)**: `topics/grain-mismatch-as-independent-evidence.md` L126, `voids/resolution-void.md` L106, `voids/smoothness-and-continuity.md` L137, `concepts/grain-mismatch.md` L105, `concepts/temporal-consciousness.md` L237.
+  * **2023 (2)**: `research/voids-resolution-void-2026-02-22.md` L212, `archive/voids/continuity-void.md` L112 (archive body serves at a live URL).
+  * **no year (1)**: `research/voids-continuity-void-2026-03-01.md` L225.
+  * **⚠️ DO NOT TOUCH** `research/voids-resolution-void-2026-02-22.md` **L213** — *"Lee, A. Y. (2023). Degrees of Consciousness. *Noûs*"* is a **different, genuinely published Lee paper** and is correct.
   **MIRROR**: every fix needs `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — re-framing a citation is not authoring. **Say which loci you did not reach.**
 - **Source**: deep-review driver-briefed claim-fidelity pass, 2026-08-08 (primary-text verification; loci counted over `obsidian/` + `archive/`, excluding `workflow/` and `reviews/`)
 
