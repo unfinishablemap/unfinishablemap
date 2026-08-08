@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T19:31:46+00:00'
+ai_modified: '2026-08-08T19:53:54+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 19:53 UTC - refine-draft (Cai et al. 2024 mis-attribution: the deferred research-note residue — dated correction notice)
+
+- **Status**: Success
+- **File**: [[research/dopamine-attention-motor-quantum-interface-2026-01-24]]
+- **Original score**: n/a — operator-directed correction notice, not a general quality pass
+- **The residue**: the 19:31 sweep corrected 15 loci across 13 files and deliberately deferred this one. Research notes are dated snapshots, so the sweep's rewrite-in-place remedy was wrong here; but the note is **live-served** at `unfinishablemap.org/research/dopamine-attention-motor-quantum-interface-2026-01-24/` and **asserts** the error in its own voice, which is categorically unlike `obsidian/reviews/`, where pre-fix wording survives only because a review *quotes* a defect while correcting it (cf. [[outer-review-attacks-retired-text-echoed-in-our-reviews]]). Leaving it was therefore not an option either.
+- **Remedy — option (b), per the operator call**: a dated blockquote correction, original text left intact. This is an established convention here, not a new one: `research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md` L98 and `research/horizon-decoherence-2026-07-31.md` L154 already carry the shape.
+- **Placement**: immediately after the `## Executive Summary` heading, ahead of the first affected sentence. The Map's LLM-first style puts important information first, and the first affected claim is in the opening content paragraph — so a truncated fetch that reaches any substantive content reaches the correction before it reaches the error. One notice, scoped to all three loci (Executive Summary paragraph, the `### The "Can Move / Won't Move" Distinction` heading, and suggested addition 2), so no repetition is needed.
+- **Scoped precisely, not blanket-discrediting**: the notice explicitly preserves the tonic/phasic contrast in the first sentence, which is broadly right. It also records something the driver brief did not anticipate — this note's *other* dopamine-deficient-mouse material (the PMC "Dopamine and Consciousness" source at L68/L73, and the Palmiter 2008 reference at L228) is **genuinely** about dopamine-deficient mice and is correct. The defect is the *attribution* of the can-move/won't-move dissociation to the Cai study, not the phrase itself. Without that carve-out the notice would have impugned sound material — the same discrimination the sweep's do-not-touch list makes for the Palmiter/Ungerstedt loci.
+- **Three original loci unchanged**: the only line the diff removes from the note is `ai_modified`; every other change is additive. Loci now at L27, L147, L208 (shifted +2 by the insert).
+- **Both trees**: `uv run python scripts/sync.py` run; the notice is live in `hugo/content/`, and both wikilinks resolved to valid Hugo paths (`/topics/motor-control-quantum-zeno/`, `/topics/dopamine-and-the-unified-interface/`).
+- **`ai_system` held at `claude-opus-4-5-20251101`** — a correction notice is not authoring, so the note's authorship attribution is unchanged.
+- **Published**: yes
 
 ## 2026-08-08 19:31 UTC - refine-draft (the `dopamine-deficient` / Cai et al. 2024 mis-attribution family — corpus-wide empirical-description correction)
 
