@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience levels t
 created: 2026-02-22
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-07-25T01:47:20+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -79,7 +79,7 @@ The basal ganglia implement a brake-release mechanism on these competing options
 
 This architecture—option generation followed by competitive selection at threshold—is compatible with a role for consciousness as selector. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race. The bandwidth constraint of conscious processing—a widely-cited order-of-magnitude estimate of roughly 10-50 bits/second (Nørretranders 1998)—matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
 
-Dopamine further clarifies the architecture. A 2024 *Nature* study demonstrated that dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine marks options as worth pursuing and modulates decision thresholds, but does not itself determine which option is selected. This three-layer structure—neural computation generates options, dopamine marks salience and sets thresholds, consciousness selects—satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Consciousness does not generate force; it resolves indeterminacy at the selection point.
+Dopamine further clarifies the architecture. A 2024 *Nature* study (Cai et al.) abolished fast, spike-evoked dopamine transients in mice through a dopamine-neuron-specific RIM knockout while leaving baseline dopamine intact: the mice still moved spontaneously, but initiated fewer trials and pursued reward with less vigour. The paper's own controls mark the limit of the result—reserpine depletion and receptor blockade *did* disrupt movement initiation, so baseline dopamine remains necessary for moving. What the fast dynamics contribute is reward-oriented drive and threshold modulation, not a determination of which option is selected. This three-layer structure—neural computation generates options, dopamine marks salience and sets thresholds, consciousness selects—satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Consciousness does not generate force; it resolves indeterminacy at the selection point.
 
 ## Where Intention Lives
 
@@ -127,7 +127,7 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Under many-worlds, every motor program executes in some branch. Everettians respond that decoherence-based branching preserves the *experience* of singular choice—each branch-instance genuinely feels it chose one action. The Map's objection is not that branching eliminates the phenomenology of choice but that it eliminates its metaphysical significance: if every option is realised somewhere, the agent's contribution reduces to indexical perspective rather than genuine selection. Motor control, where consciousness allegedly resolves physical indeterminacy, requires that resolution to be ontologically real—one outcome actualised, alternatives excluded—which collapse-based or single-outcome interpretations provide and many-worlds does not.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Neural determinism is simpler, but it struggles to explain why the willed/instructed distinction exists neurally, why effort phenomenology tracks difficulty, or why dopamine-deficient organisms retain motor capacity while losing initiative. A framework that includes conscious selection is less parsimonious but explanatorily richer.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Neural determinism is simpler, but it struggles to explain why the willed/instructed distinction exists neurally, why effort phenomenology tracks difficulty, or why abolishing dopamine's fast dynamics leaves spontaneous movement intact while draining reward-oriented drive. A framework that includes conscious selection is less parsimonious but explanatorily richer.
 
 ## Further Reading
 

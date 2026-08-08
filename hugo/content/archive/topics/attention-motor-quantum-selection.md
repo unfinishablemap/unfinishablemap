@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-07 07:55:00+00:00
+ai_modified: 2026-08-08 19:31:46+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mechanisms of the Attention-Consciousness Interface
 archived: true
@@ -25,7 +25,7 @@ description: Attention and motor control share neural substrates—suggesting co
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-07 07:55:00+00:00
+lastmod: 2026-08-08 19:31:46+00:00
 modified: *id001
 original_path: /topics/attention-motor-quantum-selection/
 related_articles:
@@ -99,17 +99,17 @@ If genuinely indeterminate, something must resolve the indeterminacy. Pure rando
 
 ## Dopamine and the Selection Threshold
 
-### "Can Move" But "Won't Move"
+### Movement Without Reward-Oriented Drive
 
-A 2024 *Nature* study reveals a striking dissociation. Dopamine-deficient mice retain motor capacity—the circuitry for movement is intact. But they lose goal-directed initiative. They "can move" but "won't move."
+A 2024 *Nature* study (Cai et al.) reveals a striking dissociation. Mice whose fast, spike-evoked dopamine transients were knocked out—baseline dopamine intact—still moved spontaneously, but initiated fewer trials and pursued reward with less vigour. Actual depletion or receptor blockade, by contrast, did disrupt movement initiation.
 
-This suggests dopamine functions not as motor fuel but as something that sets the threshold for selection. The mice can move if externally triggered; what they lack is the internal drive that makes movement happen.
+This suggests dopamine's fast dynamics function not as motor fuel but as something that sets the threshold for selection, while baseline dopamine remains necessary for moving at all. What the knockout mice lack is the internal drive that makes reward-directed movement happen.
 
 ### Three-Layer Architecture
 
 The research suggests a three-layer model for motor selection:
 
-1. **Neural computation** generates competing options (preserved without dopamine)
+1. **Neural computation** generates competing options (preserved when fast dopamine dynamics are abolished)
 2. **Dopamine** sets the threshold sensitivity and marks options as salient—worth pursuing
 3. **Consciousness** (via quantum selection) determines which option crosses threshold
 

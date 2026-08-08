@@ -171,26 +171,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 **RELATED, DECIDE TOGETHER:** the `description:`-vs-body family already fixed this cycle (`quantum-immortality`, `psychedelics-and-the-filter-model`) and the open `many-worlds` task — same surface, same root cause: **`description:` is never re-read by `refine-draft`, `deep-review` or `condense`.** Whatever is decided here, that structural gap is the thing worth fixing.
 
-### P2: inbound-link glosses still label `psychedelics-and-the-filter-model` with the evidential claim that article now retracts
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
-- **Notes**: Second family found by the same 2026-08-07 sweep, reported rather than mass-fixed (one gloss was corrected as the discovery locus; the rest were left so a scoped task could take them as a unit). `topics/psychedelics-and-the-filter-model` now concludes that the altered-state data are *compatible with* filter theory and **do not** discriminate against production accounts — L103 *"does not strain Letheby's at all"*, L105 *"the filter account does not exceed Letheby's"*, L133 *"coherence rather than evidential support over rivals"* — and its "decreased brain activity" framing is superseded by Siegel et al. (2024) cortex-wide desynchronization (L53). **Inbound link labels across the corpus still assert the retracted framing.** Nav surfaces asserting what the body disclaims: fix the LABEL, not the link.
-
-  Loci, from `grep -rnE '\[\[psychedelics-and-the-filter-model.*(Decreased brain activity|Pharmacological evidence|pharmacological case|Decreased filtering)' obsidian/ archive/ --include=*.md`:
-  - `obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md` L146, L184
-  - `obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md` L193
-  - `obsidian/topics/anaesthesia-and-the-consciousness-interface.md` L160
-  - `obsidian/topics/william-james-consciousness.md` L205
-  - `obsidian/topics/perceptual-failure-and-the-interface.md` L156
-  - `obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md` L130
-  - `obsidian/concepts/default-mode-network.md` L213
-  - `archive/concepts/terminal-lucidity.md` L91, L115 — archive pages serve full bodies; do not skip the archive tree
-  - already fixed 2026-08-07: `archive/topics/loss-of-consciousness.md` L217, which is the replacement wording to copy
-
-  **Body prose beyond the glosses, flagged but NOT adjudicated** — do not treat this as a verified defect list: `topics/consciousness-under-extreme-metabolic-constraint` L52 (*"This directly contradicts the production model's core prediction"*), `concepts/neural-correlates-of-consciousness` L119 (*"disrupting them should diminish experience, not enhance it"*), `apex/altered-states-as-interface-evidence` L88 (*"the most dramatic evidence"*, citing only Carhart-Harris 2012 and Tagliazucchi 2016). Each needs reading in its own argumentative context first; several may be sound as scoped.
-- **Source**: verified_residue (refine-draft sweep 2026-08-07)
-
 ### NEEDS-HUMAN (check-model-fallback dedup) 2026-08-07: the `[SKIP]` dedup is session-id-only and status-blind, so a long-lived session is permanently immune to re-detection after its first hit
 
 **This is a TOOLING FLAG, not an attribution task — do not treat it as the `refine-draft` the script normally mints. The attribution surface is verifiably CLEAN right now (evidence below); the defect is that the next genuine fallback in this session would be silently suppressed.**
@@ -2593,6 +2573,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: verified_residue (outer-review 2026-08-07 chatgpt; corpus re-grep this session)
 - **Generated**: 2026-08-07
 
+### P2: the Cai et al. mis-description survives in the research note that seeded it — `research/dopamine-attention-motor-quantum-interface-2026-01-24.md`
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/research/dopamine-attention-motor-quantum-interface-2026-01-24.md
+- **Notes**: **RESIDUE FROM THE 2026-08-08 `dopamine-deficient`/Cai sweep**, which corrected 15 loci across 13 files in `obsidian/` and `archive/` but deliberately left the dated research note to an operator decision. This note is the **propagation source** for the whole family and is live at `unfinishablemap.org/research/dopamine-attention-motor-quantum-interface-2026-01-24/`, so an LLM fetching it still receives the wrong empirical description. Three loci: **L25** — *"Dopamine-deficient mice 'can move' but 'won't move'—they retain motor capacity but lose goal-directed initiative"*; **L145** — the H3 `### The "Can Move / Won't Move" Distinction`; **L206** — *"Add 'Can Move / Won't Move' evidence: The dopamine-deficient mouse research directly supports the computation/selection distinction."* **THE FACT**: Cai, X., Liu, C. & Kaeser, P.S. (2024), *Nature* 635(8038):406-414, "Dopamine dynamics are dispensable for movement but promote reward responses" — the manipulation was a dopamine-neuron-specific **RIM knockout** abolishing fast, spike-evoked dopamine transients while **baseline dopamine persisted and supported spontaneous movement**; the paper's own **reserpine-depletion and receptor-blockade controls DID disrupt movement initiation**. The mice were therefore not "dopamine-deficient" and the scare-quoted pair is **not in the paper**. Note L25's own framing (*"tonic dopamine supports spontaneous movement while phasic dopamine drives motivation"*) is broadly right — it is the *next* sentence that mislabels the manipulation. **THE OPERATOR CALL**: research notes are dated snapshots and the Map does not normally rewrite them (cf. `reviews/`, where pre-fix wording is left as an intentional historical echo). Decide whether to (a) correct the three loci in place, (b) add a dated correction note at the top of the file pointing at the corrected live articles, or (c) leave it as a historical record. **Do NOT extend this to `obsidian/reviews/` or `obsidian/workflow/archive/` hits** — those are review/changelog records of the defect and its adjudication, not assertions of it. **DO NOT TOUCH the Palmiter/Ungerstedt loci** — `topics/dopamine-and-the-unified-interface.md` L37/L70/L196/L253, `concepts/motor-selection.md` L102/L111/L279, `archive/concepts/dopamine-selection-interface.md` L44/L61/L277, and `concepts/control-theoretic-will.md` L68/L104 (adjudicated 2026-08-08: sourced to Palmiter via its explicit `motor-selection#The "Can Move / Won't Move" Distinction` anchor link, not to Cai — sound as written). A corpus-wide replace would corrupt correct text. **Length-neutral**; `ai_modified` from a live `date -u`, strictly past; hold `ai_system` — a citation correction is not authoring. Sync after if any body text changes.
+- **Source**: verified_residue (2026-08-08 refine-draft sweep of the Cai mis-attribution family)
+- **Generated**: 2026-08-08
+
 ### P2: the entropic-brain criticality paragraph compresses four source papers into one citation, and the DMT result it reports runs the opposite way from how it is filed
 
 - **Type**: refine-draft
@@ -2652,11 +2640,42 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review 2026-08-08 (`reviews/deep-review-2026-08-08-essential-vs-contingent-consciousness`)
 - **Generated**: 2026-08-08
 
+### P2: `arguments/arguments.md` L106 asserts the undiscounted cumulative claim that live position P-D1 forbids
+- **Type**: refine-draft
+- **File**: obsidian/arguments/arguments.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-08 (arguments wing taken as a unit). See `reviews/optimistic-2026-08-08-arguments-wing-composition.md` → "The Compositional Verdict" and "Calibration Concern".
+- **Generated**: 2026-08-08
+- **Notes**: **THIS IS A ONE-SENTENCE FIX. DO NOT TURN IT INTO A CAMPAIGN, AND DO NOT TOUCH THE FIVE CHILD ARTICLES — they are well-calibrated and three of them already publish an explicit dependency discount.**
+  **THE DEFECT.** `obsidian/arguments/arguments.md` **L106** reads: *"The arguments form a cumulative case. Each strengthens the others: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds."* Two separable problems. **(1) Undiscounted convergence.** "Each strengthens the others" asserts mutual reinforcement with no discount. `positions/arguments-for-dualism.md` **P-D1** (status live, credence high) asserts at **L47** that the anti-physicalist arguments are premise-sharing, that *"the modal ones share the inference from conceivability to possibility; if that common starting point fails ... they fail together rather than confirming one another"*, and that the Map holds this *"as a standing calibration on **every article that cites the convergence**"*. The index cites the convergence and does not apply the calibration. **(2) The chain does not cover the wing.** The colon-list is a *directional* chain (materialism → dualism → interaction → collapse), a different structure from mutual reinforcement, and it omits **functionalism and Occam entirely** — 2 of the 5 articles the index summarises.
+  **THE SHARED PREMISE IS REAL AND VERIFIED, not inferred.** `obsidian/arguments/materialism-argument.md` **L62** (*"2. If zombies are conceivable, zombies are metaphysically possible"*) and `obsidian/arguments/functionalism-argument.md` **L51** (*"**Premise 3**: If zombies are conceivable, they are metaphysically possible."*) are the same bridge. Both defend it against the same two objections in the same order: water analogy (materialism L66 / functionalism L157) and phenomenal-concepts + Chalmers's dilemma (materialism L72 / functionalism L165–167). **Neither article mentions the other**: "materialis" in functionalism-argument = **1** hit, the frontmatter wikilink `[[concepts/materialism]]` at L29, zero in body; "functionalis" in materialism-argument = **2** hits, both incidental (L43 taxonomy, L136 "A functionalist can redescribe"). `materialism-argument.md` has **no dependency-accounting section at all**.
+  **DO NOT NEUTER THE PARTISAN FRAMING.** The index declares itself openly partisan at **L20** and the 2026-06-18 deep-review explicitly warned against imposing false balance here. The final clause of L106 — *"Together they defend a coherent framework"* — is a **coherence** claim and is CORRECT as written under `project/evidential-status-discipline`; leave it. The defect is upstream of it.
+  **MINIMAL CORRECT CHANGE**: make L106 state the discount P-D1 already holds (cumulative but premise-sharing; the modal bridge shared between the materialism and functionalism arguments), and make the chain either cover all five or stop presenting itself as a summary of the wing. Consider adding the wing's first `positions/` citation — the wing currently cites the register **zero** times (`grep -c "positions/"` = 0 in all six files).
+  **PRECEDENT TO FOLLOW, INSIDE THE WING.** This is an extension of a pattern the wing already demonstrates once: `materialism-argument.md` **L86** flags its overlap with `epiphenomenalism-argument`, concedes the same escape its sibling concedes (*"The pressure has a recognised escape, and the Map concedes it"*), and defers — *"See Against Epiphenomenalism for the full treatment."* And `many-worlds-argument.md` **L168** already self-applies the discount by name, cutting its own count from four to three. The discipline exists; it just never reached the index.
+  **NOT A DUPLICATE.** The open P3 from `optimistic-review 2026-08-03` (physicalist-rivals cluster) owns the *functionalism/materialism* register-citation gap across five files; this task owns the **index sentence only**, which no open task targets. Four open tasks target `arguments/` files; none targets `arguments/arguments.md`.
+  **MIRROR**: land in both trees — edit obsidian, then `uv run python scripts/sync.py`. Bump `ai_modified` from a live `date -u`, verified strictly past.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: inbound-link glosses still label `psychedelics-and-the-filter-model` with the evidential claim that article now retracts
+- **Type**: refine-draft
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: Second family found by the same 2026-08-07 sweep, reported rather than mass-fixed (one gloss was corrected as the discovery locus; the rest were left so a scoped task could take them as a unit). `topics/psychedelics-and-the-filter-model` now concludes that the altered-state data are *compatible with* filter theory and **do not** discriminate against production accounts — L103 *"does not strain Letheby's at all"*, L105 *"the filter account does not exceed Letheby's"*, L133 *"coherence rather than evidential support over rivals"* — and its "decreased brain activity" framing is superseded by Siegel et al. (2024) cortex-wide desynchronization (L53). **Inbound link labels across the corpus still assert the retracted framing.** Nav surfaces asserting what the body disclaims: fix the LABEL, not the link.
+  Loci, from `grep -rnE '\[\[psychedelics-and-the-filter-model.*(Decreased brain activity|Pharmacological evidence|pharmacological case|Decreased filtering)' obsidian/ archive/ --include=*.md`:
+  - `obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md` L146, L184
+  - `obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md` L193
+  - `obsidian/topics/anaesthesia-and-the-consciousness-interface.md` L160
+  - `obsidian/topics/william-james-consciousness.md` L205
+  - `obsidian/topics/perceptual-failure-and-the-interface.md` L156
+  - `obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md` L130
+  - `obsidian/concepts/default-mode-network.md` L213
+  - `archive/concepts/terminal-lucidity.md` L91, L115 — archive pages serve full bodies; do not skip the archive tree
+  - already fixed 2026-08-07: `archive/topics/loss-of-consciousness.md` L217, which is the replacement wording to copy
+  **Body prose beyond the glosses, flagged but NOT adjudicated** — do not treat this as a verified defect list: `topics/consciousness-under-extreme-metabolic-constraint` L52 (*"This directly contradicts the production model's core prediction"*), `concepts/neural-correlates-of-consciousness` L119 (*"disrupting them should diminish experience, not enhance it"*), `apex/altered-states-as-interface-evidence` L88 (*"the most dramatic evidence"*, citing only Carhart-Harris 2012 and Tagliazucchi 2016). Each needs reading in its own argumentative context first; several may be sound as scoped.
 
 ### ✓ 2026-08-08: `phenomenology-of-returning-attention`'s blurb advertises illusionism as defeated — the word appears ONCE in the file, in the description itself, and the body never engages it
 - **Type**: refine-draft

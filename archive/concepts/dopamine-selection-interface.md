@@ -4,7 +4,7 @@ description: "Dopamine marks what is worth pursuing and sets action thresholds. 
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-02-05T03:24:00+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ archive_reason: "Coalesced into Motor Selection and the Attention-Motor Interfac
 original_path: "/concepts/dopamine-selection-interface/"
 ---
 
-Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [[attention-motor-quantum-interface|quantum selection interface]]: dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.
+Dopamine's fast dynamics don't cause movement—they mark what's worth moving toward. A landmark 2024 *Nature* study (Cai et al.) knocked out spike-evoked dopamine transients in mice while baseline dopamine persisted: the mice still moved spontaneously but pursued reward with less vigour. Actual depletion or receptor blockade *did* disrupt movement initiation, so baseline dopamine remains necessary for moving at all. The dissociation illuminates dopamine's role in the [[attention-motor-quantum-interface|quantum selection interface]]: dopamine's dynamics set the threshold and mark salience, while consciousness determines which salient option crosses threshold first.
 
 The same molecule mediates both reward anticipation and movement initiation because, evolutionarily, wanting and pursuing are inseparable. Dopamine connects value perception with action initiation—it's the bridge between "this matters" and "go get it." For The Unfinishable Map's framework, this bridges the gap between neural computation (which generates options) and conscious selection (which actualizes one).
 

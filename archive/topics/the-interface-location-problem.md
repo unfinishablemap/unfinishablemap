@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 last_deep_review: 2026-04-11T04:56:00+00:00
 topics:
@@ -192,7 +192,7 @@ The interface location problem sits at the intersection of the Map's philosophic
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires that consciousness acts at quantum indeterminacies. Constrained pluralism specifies: at quantum indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events* during action selection.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The dissociation Cai et al. report — mice whose fast dopamine transients are knocked out still move spontaneously but pursue reward with less vigour, while actual depletion disrupts movement initiation — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hierarchical model itself. A single-site answer would be simpler. But if the interface actually spans multiple levels — molecular, cellular, network — insisting on a single site would sacrifice accuracy for parsimony. The Map should follow the evidence toward complexity if that is where the evidence leads.
 

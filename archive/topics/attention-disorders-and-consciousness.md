@@ -4,7 +4,7 @@ description: "ADHD, hemispatial neglect, Balint syndrome, and extinction each di
 created: 2026-04-03
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T09:38:00+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ Attention-deficit/hyperactivity disorder disrupts voluntary sustained attention 
 
 The philosophical significance lies in what ADHD *preserves*. Subjective experience remains vivid. Consciousness is present; what fails is the reliable translation of intention into sustained attentional deployment. Stimulant-treated patients characteristically report not altered consciousness but that their intentions translate more reliably into action (Barkley, 2015). This dissociation between conscious intention and attentional execution is precisely what an interface model predicts and what an identity model (consciousness *is* attention) cannot accommodate. If consciousness were identical to attention, ADHD should diminish consciousness itself, not merely frustrate its expression.
 
-Cai et al.'s 2024 *Nature* study on dopamine-deficient mice sharpens the point: dopamine-depleted animals retained full motor capacity but lost goal-directed initiative, moving only when externally prompted. On the Map's reading, this suggests a three-layer architecture—neural computation generates options, [[dopamine-and-the-unified-interface|dopamine]] marks salience and modulates the selection threshold, and consciousness determines which salient option crosses threshold. ADHD disrupts the middle layer, leaving the outer two largely intact.
+Cai et al.'s 2024 *Nature* study sharpens the point: mice whose fast, spike-evoked dopamine transients were knocked out — baseline dopamine intact — still moved spontaneously but initiated fewer trials and pursued reward with less vigour. Actual dopamine depletion, by contrast, did disrupt movement initiation, so the dissociation belongs to dopamine's fast dynamics rather than to dopamine as such. On the Map's reading, this suggests a three-layer architecture—neural computation generates options, [[dopamine-and-the-unified-interface|dopamine]] marks salience and modulates the selection threshold, and consciousness determines which salient option crosses threshold. ADHD disrupts the middle layer, leaving the outer two largely intact.
 
 ## Hemispatial Neglect: Erasure Without Remainder
 

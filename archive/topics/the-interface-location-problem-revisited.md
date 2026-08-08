@@ -4,7 +4,7 @@ description: "Since the Map's original survey of candidate interface sites, conv
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ The 2025 COGITATE adversarial collaboration reinforced this constraint by distin
 
 ### Dopamine and the Threshold Architecture
 
-A 2024 *Nature* study demonstrated that tonic dopamine supports movement capacity while phasic dopamine drives motivated action — mice with disrupted phasic dopamine "can move" but "won't move." Separate research (Westbrook et al. 2023) showed that striatal dopamine regulates the decision threshold at which competing motor programmes resolve.
+A 2024 *Nature* study demonstrated that baseline dopamine supports movement while fast, spike-evoked dopamine transients drive motivated action — mice whose transients were knocked out still moved spontaneously but pursued reward with less vigour, whereas actual depletion or receptor blockade disrupted movement initiation. Separate research (Westbrook et al. 2023) showed that striatal dopamine regulates the decision threshold at which competing motor programmes resolve.
 
 This clarifies the relationship between the Map's framework and the physical substrate. Dopamine does not generate movement or select actions — it sets the conditions under which selection occurs. The neural competition model (Cisek 2007) shows that multiple action representations exist simultaneously in premotor cortex, competing until one crosses a threshold. Dopamine modulates that threshold; consciousness, on the Map's account, determines which option crosses first. The interface location, then, must be wherever threshold-crossing events involve quantum indeterminacy.
 
@@ -131,7 +131,7 @@ The interface location problem sits at the intersection of the Map's philosophic
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires that consciousness acts at quantum indeterminacies. Constrained pluralism specifies: at quantum indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events* during action selection. This is more specific than the original article could manage.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The "can move / won't move" dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The dissociation Cai et al. report — mice whose fast dopamine transients are knocked out still move spontaneously but pursue reward with less vigour, while actual depletion disrupts movement initiation — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hierarchical model itself. A single-site answer would be simpler. But if the interface actually spans multiple levels — molecular, cellular, network — insisting on a single site would sacrifice accuracy for parsimony. The Map should follow the evidence toward complexity if that is where the evidence leads.
 

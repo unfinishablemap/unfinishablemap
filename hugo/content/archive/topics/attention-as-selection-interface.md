@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-08 15:28:32+00:00
+ai_modified: 2026-08-08 19:31:46+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Attention and the Consciousness Interface
 archived: true
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 04:57:00+00:00
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-08 19:31:46+00:00
 modified: *id001
 original_path: /topics/attention-as-selection-interface/
 related_articles:
@@ -108,11 +108,11 @@ The Map proposes consciousness fills this role—biasing which option wins at th
 
 ## Dopamine and the Selection Threshold
 
-A 2024 *Nature* study (Cai et al.) reveals a striking dissociation. Dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move."
+A 2024 *Nature* study (Cai et al.) reveals a striking dissociation. Mice whose fast, spike-evoked dopamine transients were knocked out—baseline dopamine intact—still moved spontaneously but pursued reward with less vigour; actual depletion or receptor blockade did disrupt movement initiation.
 
 This suggests a three-layer architecture:
 
-1. **Neural computation** generates competing options (preserved without dopamine)
+1. **Neural computation** generates competing options (preserved when fast dopamine dynamics are abolished)
 2. **Dopamine** marks options as salient and modulates the selection threshold
 3. **Consciousness** determines which salient option crosses threshold
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-05 03:24:00+00:00
+ai_modified: 2026-08-08 19:31:46+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Motor Selection and the Attention-Motor Interface
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-26 12:27:42+00:00
-lastmod: 2026-02-05 03:24:00+00:00
+lastmod: 2026-08-08 19:31:46+00:00
 modified: *id001
 original_path: /concepts/dopamine-selection-interface/
 related_articles:
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [quantum selection interface](/concepts/attention-as-interface/): dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.
+Dopamine's fast dynamics don't cause movement—they mark what's worth moving toward. A landmark 2024 *Nature* study (Cai et al.) knocked out spike-evoked dopamine transients in mice while baseline dopamine persisted: the mice still moved spontaneously but pursued reward with less vigour. Actual depletion or receptor blockade *did* disrupt movement initiation, so baseline dopamine remains necessary for moving at all. The dissociation illuminates dopamine's role in the [quantum selection interface](/concepts/attention-as-interface/): dopamine's dynamics set the threshold and mark salience, while consciousness determines which salient option crosses threshold first.
 
 The same molecule mediates both reward anticipation and movement initiation because, evolutionarily, wanting and pursuing are inseparable. Dopamine connects value perception with action initiation—it's the bridge between "this matters" and "go get it." For The Unfinishable Map's framework, this bridges the gap between neural computation (which generates options) and conscious selection (which actualizes one).
 

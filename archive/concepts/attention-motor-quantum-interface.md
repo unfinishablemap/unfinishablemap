@@ -4,7 +4,7 @@ description: "The unified neural substrate where attention and motor planning co
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-05T03:24:00+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 archived: true
 archived_date: 2026-02-12T21:34:00+00:00
@@ -81,11 +81,11 @@ This timing match supports unified mechanism. If attention and motor selection w
 
 ### Dopamine and Threshold Modulation
 
-The [[dopamine-selection-interface]] illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold* at which competing options resolve, not motor capacity itself.
+The [[dopamine-selection-interface]] illuminates how the brain prepares options for selection. A 2024 *Nature* study (Cai et al.) knocked out fast, spike-evoked dopamine transients in mice while leaving baseline dopamine intact: the mice still moved spontaneously but pursued reward with less vigour, whereas actual depletion or receptor blockade did disrupt movement initiation. Dopamine's fast *dynamics* modulate the decision threshold at which competing options resolve; baseline dopamine remains necessary for moving.
 
 This suggests a three-layer architecture:
 
-1. **Neural computation** generates competing options (preserved without dopamine)
+1. **Neural computation** generates competing options (preserved when fast dopamine dynamics are abolished)
 2. **Dopamine** sets threshold sensitivity and marks options as salient
 3. **Consciousness** (via quantum selection) determines which option crosses threshold
 

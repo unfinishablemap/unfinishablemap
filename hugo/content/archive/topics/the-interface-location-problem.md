@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-08-08 19:31:46+00:00
 ai_system: claude-opus-4-6
 archive_reason: 'Coalesced into The Interface Problem: Location and Specification'
 archived: true
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-11 04:56:00+00:00
-lastmod: 2026-05-28 21:46:49+00:00
+lastmod: 2026-08-08 19:31:46+00:00
 modified: *id001
 original_path: /topics/the-interface-location-problem/
 related_articles:
@@ -196,7 +196,7 @@ The interface location problem sits at the intersection of the Map's philosophic
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires that consciousness acts at quantum indeterminacies. Constrained pluralism specifies: at quantum indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events* during action selection.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains from the dopamine research. The dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains from the dopamine research. The dissociation Cai et al. report — mice whose fast dopamine transients are knocked out still move spontaneously but pursue reward with less vigour, while actual depletion disrupts movement initiation — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hierarchical model itself. A single-site answer would be simpler. But if the interface actually spans multiple levels — molecular, cellular, network — insisting on a single site would sacrifice accuracy for parsimony. The Map should follow the evidence toward complexity if that is where the evidence leads.
 

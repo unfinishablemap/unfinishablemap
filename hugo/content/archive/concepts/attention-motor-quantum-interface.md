@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-02-05 03:24:00+00:00
+ai_modified: 2026-08-08 19:31:46+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Attention as Interface
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 15:54:19+00:00
-lastmod: 2026-02-05 03:24:00+00:00
+lastmod: 2026-08-08 19:31:46+00:00
 modified: *id001
 original_path: /concepts/attention-motor-quantum-interface/
 related_articles:
@@ -84,11 +84,11 @@ This timing match supports unified mechanism. If attention and motor selection w
 
 ### Dopamine and Threshold Modulation
 
-The [dopamine-selection-interface](/concepts/motor-selection/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold* at which competing options resolve, not motor capacity itself.
+The [dopamine-selection-interface](/concepts/motor-selection/) illuminates how the brain prepares options for selection. A 2024 *Nature* study (Cai et al.) knocked out fast, spike-evoked dopamine transients in mice while leaving baseline dopamine intact: the mice still moved spontaneously but pursued reward with less vigour, whereas actual depletion or receptor blockade did disrupt movement initiation. Dopamine's fast *dynamics* modulate the decision threshold at which competing options resolve; baseline dopamine remains necessary for moving.
 
 This suggests a three-layer architecture:
 
-1. **Neural computation** generates competing options (preserved without dopamine)
+1. **Neural computation** generates competing options (preserved when fast dopamine dynamics are abolished)
 2. **Dopamine** sets threshold sensitivity and marks options as salient
 3. **Consciousness** (via quantum selection) determines which option crosses threshold
 

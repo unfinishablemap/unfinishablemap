@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-08-07T15:10:00+00:00
+ai_modified: 2026-08-08T19:31:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -98,7 +98,7 @@ This architecture maps directly onto the phenomenology. The felt openness of del
 
 The mapping extends to attention. Rizzolatti's premotor theory shows attention and motor planning share neural substrates: preparing an eye movement to a location improves visual processing there. Willed attention and willed motor action share timing (~300ms deployment versus ~100ms for automatic responses), neural signatures (frontal theta oscillations, bidirectional frontoparietal coherence), and phenomenology (both feel effortful when chosen) — suggesting one unified selection system for both perceiving and acting.
 
-A crucial finding: dopamine-deficient organisms retain motor capacity but lose goal-directed initiative — they *can* move but *won't* move (Cai et al. 2024). Dopamine marks options as worth pursuing and modulates decision thresholds, but does not itself determine which option is selected. A three-layer structure emerges: neural computation generates options, dopamine marks salience and sets thresholds, and something — the Map says consciousness — selects. The architecture has a gap at exactly the point where the phenomenology says selection occurs.
+A crucial finding: mice whose fast, spike-evoked dopamine transients were abolished by a dopamine-neuron-specific RIM knockout — baseline dopamine persisting — still moved spontaneously, but initiated fewer trials and pursued reward with less vigour (Cai et al. 2024). The paper's own controls fix the limit of the result: depletion or receptor blockade *did* disrupt movement initiation, so baseline dopamine is not dispensable for moving. What the fast dynamics contribute is reward-oriented drive and threshold modulation, not the selection of which option is taken. A three-layer structure emerges: neural computation generates options, dopamine marks salience and sets thresholds, and something — the Map says consciousness — selects. The architecture has a gap at exactly the point where the phenomenology says selection occurs.
 
 Brass and Haggard's (2007, 2008) "what, when, whether" model sharpens the gap further. The "whether" component — the decision to act or refrain — activates dorsal fronto-median cortex, an active neural process of cancellation with its own circuitry rather than the mere absence of a go signal. The selection gap concerns not only which action wins but whether any action proceeds at all. As [[volitional-control]] argues, the veto need not presuppose a prior unconscious veto because it operates at the interface where conscious selection meets neural preparation — precisely where the Map locates the consciousness-brain boundary.
 
