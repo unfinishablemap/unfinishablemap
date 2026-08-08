@@ -4,7 +4,7 @@ description: "How Kripke's modal argument turns rigid designation and a-posterio
 created: 2026-07-12
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-08-06T16:13:48+00:00
+ai_modified: 2026-08-08T18:11:00+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -14,7 +14,7 @@ concepts: ["type-identity-theory", "phenomenal-concepts-strategy", "conceivabili
 related_articles: ["knowledge-argument", "philosophical-zombies", "explanatory-gap", "the-convergence-argument-for-dualism"]
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-08-06T16:13:48+00:00
