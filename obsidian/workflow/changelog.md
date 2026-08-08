@@ -5,6 +5,27 @@ ai_modified: '2026-08-08T17:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 18:27 UTC - refine-draft (phenomenology-of-returning-attention — unearned "nor illusionist" blurb clause earned in the body, not dropped)
+
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-returning-attention]]
+- **Original score**: not run — targeted blurb-integrity pass from a verified defect, not a general quality review
+- **Defect (re-verified live before editing)**: `description:` advertised a micro-structure "that neither materialist **nor illusionist** accounts can easily explain" while the body engaged illusionism nowhere — `illusion` = 1 (the description itself), `Frankish` = 0, `Dennett` = 0. The body canvassed only neural, threshold and selection accounts. Because this article's evidence base is trained-meditator introspective report, and illusionism's central claim is that introspection systematically misrepresents phenomenal character, the blurb was advertising the article's sharpest unaddressed objection as already defeated.
+- **Option taken**: (b) earn it. Preferred over (a) drop-the-clause because the corpus already held every needed piece and this article linked to none of them — so the fix closes a real integration gap as well as the blurb. Budget was permissive (2571w against a 4000 hard ceiling).
+- **Changes**:
+  1. New H2 "The Illusionist Objection" (258 words) placed after "The Meditator's Laboratory" — the seam where the article's convergence argument already answers the *cultural-construction* version of the objection but not the illusionist one.
+  2. `description:` illusionist clause rewritten from defeat to burden; 160 chars.
+  3. Three cross-links introduced (all previously absent): [[concepts/functional-seeming]] (primary — the corpus's home for the "seeming" move), [[concepts/heterophenomenology]], [[topics/contemplative-practice-as-philosophical-evidence]]. Added to the body and to Further Reading.
+- **Description before**: "The moment attention returns from wandering reveals a micro-structure of consciousness that neither materialist nor illusionist accounts can easily explain."
+- **Description after**: "The moment attention returns from wandering reveals a micro-structure of consciousness that materialism cannot easily explain and illusionism must explain away."
+- **Untouched by design**: the rest of the blurb was verified earned before editing — "reveals" is body-matched (3 uses; the lead calls the return "among the most revealing micro-events in conscious life"), "micro-structure" recurs at L127, and the materialist half mirrors the lead's own hedge ("resists easy materialist explanation"). Only the illusionist clause and the noun form carrying it were changed; no verb-shaped rewrite.
+- **Engagement with illusionism (Frankish, Dennett)**: Mode Three, framework-boundary marking, with a Mode One empirical pressure that is explicitly marked as falling short of in-framework refutation. The section grants Frankish's distortion thesis its full strength (introspective *access* real, *interpretation* systematically flawed, so every phase survives as a claim about reports), grants the illusionist the standard reply to the regress ("a representational system need not instantiate what it represents"), and names the bare regress a framework-boundary point rather than an in-framework refutation — following the established formulation at `concepts/qualia.md` L153 and the bedrock-disagreement honesty modelled at `concepts/heterophenomenology.md` L106-108. The training-gradient argument (discriminations grow finer with practice, which sits awkwardly with confabulation) is inherited from `contemplative-practice-as-philosophical-evidence.md` L157 *together with its own stated limit* — no demonstration yet that these reported structures carry distinct neural signatures. Closing sentence declines the win explicitly: the illusionist "is not thereby refuted."
+- **Calibration**: no existing hedge weakened. The article's underdetermination paragraph, the "though shared neural architecture may also contribute" qualifier, and the selection-account stance language are all unchanged.
+- **Word count**: 2571 → 2864 (soft threshold 3000, hard 4000; `status: ok`)
+- **Attribution**: `ai_system` held at `claude-opus-4-6` — a blurb correction plus a short inherited-framing engagement is refinement, not authoring.
+- **Synced**: yes — `scripts/sync.py` run; all three new wikilinks converted to live paths in `hugo/content/`, zero unconverted `[[...]]` remaining in the new section.
+- **Published**: yes
+
 ## 2026-08-08 18:04 UTC - deep-review (cosmopsychism — claim-fidelity pass; all four flagged quote/attribution targets cleared at primary text)
 
 - **Status**: Success

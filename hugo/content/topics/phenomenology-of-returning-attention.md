@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-11 00:00:00+00:00
+ai_modified: 2026-08-08 18:26:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,12 +18,13 @@ concepts:
 created: 2026-02-10
 date: &id001 2026-02-10
 description: The moment attention returns from wandering reveals a micro-structure
-  of consciousness that neither materialist nor illusionist accounts can easily explain.
+  of consciousness that materialism cannot easily explain and illusionism must explain
+  away.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:10:24+00:00
-lastmod: 2026-06-11 00:00:00+00:00
+lastmod: 2026-08-08 18:26:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,6 +130,14 @@ The value of this cycle is not the sustained focus at the end — that is unstab
 
 This has implications for the [contemplative epistemology](/concepts/contemplative-epistemology/) the Map endorses. Trained meditators become expert at observing through [introspection](/concepts/introspection/) the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures (a pattern consistent with the broader cross-cultural findings on mind-wandering reviewed by Smallwood & Schooler, 2015). This convergence, increasingly supported by [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
 
+## The Illusionist Objection
+
+Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. Frankish's distortion thesis, examined at [functional-seeming](/concepts/functional-seeming/), grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [Heterophenomenology](/concepts/heterophenomenology/) supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
+
+The objection cannot be closed by insisting that something must undergo the illusion. A representational system need not instantiate what it represents, and the illusionist is entitled to that reply; the regress is a framework-boundary point rather than an in-framework refutation.
+
+What the return cycle does supply is the training gradient documented above. Discriminations grow finer with practice: the gap shortens, the noticing sheds its evaluative charge, the effort softens into release. Richer confabulation is an awkward explanation for a capacity that becomes more precise under training, and this is the pressure [contemplative evidence](/topics/contemplative-practice-as-philosophical-evidence/) applies generally. It remains pressure rather than proof. No one has yet shown that these particular reported structures carry distinct neural signatures, and an illusionist who holds that refined reports track refined misrepresentation is not thereby refuted. The disagreement sits at the framework boundary.
+
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The gap between wandering and noticing poses a challenge for any identity theory of consciousness. If consciousness just *is* brain activity, then brain activity was present throughout wandering — so why was meta-awareness absent? The meditator's brain was generating thoughts the entire time. What was missing was not neural activity but *a particular relationship between consciousness and that activity* — the monitoring relationship. The gap suggests consciousness is not identical to the stream of thought but can relate to that stream in different ways.
@@ -150,6 +159,9 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer capacity that underlies meta-awareness
 - [structure-of-attention](/topics/structure-of-attention/) — Three-mode architecture of attentional control
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Why trained introspection produces reliable phenomenological data
+- [functional-seeming](/concepts/functional-seeming/) — Frankish's account of "seeming" as functional disposition, illusionism's central defence
+- [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person method for treating introspective reports as data
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether trained first-person report carries evidential weight
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the alert, content-free awareness cultivated through return practice lies outside time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention as the forward-directed structure that returning attention re-engages
 
