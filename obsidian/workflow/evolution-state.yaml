@@ -1,18 +1,14 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-07T23:36:32.007856+00:00'
-session_count: 18672
+last_updated: '2026-08-08T01:03:11.887885+00:00'
+session_count: 18673
 cycle_position: 12528
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-07T15:50:26.222028+00:00'
   optimistic-review: '2026-08-07T18:06:27.453641+00:00'
-  check-tenets: '2026-08-06T00:32:12.579472+00:00'
+  check-tenets: '2026-08-08T01:03:11.887885+00:00'
   check-links: '2026-08-07T23:17:58.967398+00:00'
   deep-review: '2026-08-07T21:39:18.056969+00:00'
-  tune-system: '2026-08-03T20:11:37.721320+00:00'
+  tune-system: '2026-08-08T01:04:00+00:00'
   research-voids: '2026-08-07T23:36:32.007856+00:00'
   coalesce: '2026-08-07T19:50:03.820280+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -41,7 +37,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-07-14T03:06:22.990565+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-08-07T20:55:48.195759+00:00'
+last_git_push: '2026-08-08T01:03:12.974886+00:00'
 last_tweet_date: '2026-08-07'
 content_stats:
   total_files: 297
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 14
   research_notes: 537
-  reviews_completed: 7162
+  reviews_completed: 7163
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-07'
@@ -194,6 +186,10 @@ recent_tasks:
   type: research-voids
   date: '2026-08-07'
   outcome: failed
+- task: check-tenets
+  type: check-tenets
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
@@ -762,30 +758,31 @@ agentic_social:
     - clinical-phenomenology-and-altered-experience
     - anaesthesia-and-the-consciousness-interface
 tune_system_history:
-  last_run: '2026-08-03T20:11:05+00:00'
+  last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
-  last_run_note: 'run 2026-08-03 - zero Tier-1 changes for the FOURTH consecutive
-    run, and structurally impossible again: cadences / overdue_thresholds / locked_settings
-    still absent from state since dd6ce48fa. T2 CONFIRMED IN CODE this run: filter_triggers_by_min_age
-    is correctly configured (tune-system 720h, cycle.py:67) but has exactly ONE call
-    site, evolve_loop.py:1370; cycle_post enqueues and cycle_pick drains (cycle_pick.py:143-146)
-    without it, so the /unfin-cycle path bypasses the gate at both ends. Fired at
-    35.4h age. Five tune reports in nine days. Zero task failures in the full recent_tasks
-    window. New R1: convergence is per-lens not per-article, 4 instances in one day.
-    See reviews/system-tune-2026-08-03.md the third consecutive run (cadences / overdue_thresholds
-    / locked_settings absent from state since commit dd6ce48fa). NEW: the 30-day TRIGGER_MIN_AGE_HOURS
-    gate for tune-system is applied only at scripts/evolve_loop.py:1370; tools/evolution/cycle_pick.py
-    drains .unfin/pending-triggers.json without it, so the gate is inoperative on
-    the /unfin-cycle path - this run fired 2.36 days after the previous one. See T1
-    in reviews/system-tune-2026-08-02.'''
+  last_run_note: 'run 2026-08-08 - FIFTH consecutive zero-Tier-1 run, and structurally impossible for
+    the same reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state since dd6ce48fa,
+    and every Tier-1 change type defined in SKILL.md writes to one of those three blocks. T1 (cadence
+    bypass) re-confirmed in code and NOT re-litigated - filter_triggers_by_min_age has one call site (evolve_loop.py:1370);
+    cycle_pick.py:143-146 drains pending triggers ungated. 81 system-tune reports now exist; last eight
+    gaps 2,1,8,3,1,3,1,4 days against a 30-day design (mean ~2.9d, ~15x over-firing). NEW THIS RUN - cross-cutting
+    pattern evidenced across six instances in 24h: a producer changed and its consumers were never updated,
+    because nothing checks consumers (curate.py deleted vs refine-draft SKILL.md step 3; cadences removed
+    vs this skill''s Tier-1; cap figures vs count_section_files sidecar over-count; a P3''s named grep
+    stem ''prefers Stapp'' vs two live ''prefers Henry Stapp'' loci; six description blurbs vs their corrected
+    bodies; the agentic-social overlap filter vs a saturated window). Tier-3 item 3 proposes a reference-resolution
+    check as the single highest-leverage fix. Backlog: 54 NEEDS-HUMAN, of which 9 length-decision + 8
+    loop-tooling are batchable into two operator decisions. Health otherwise good: critical_issues 0,
+    orphaned_files 0, 1 failure in last 20 (research-voids watchdog stall, no partial writes), queue at
+    floor 4 P2 / 28 P3. See reviews/system-tune-2026-08-08.md'
   changes_applied:
   - setting: queue_status.last_floor_restore_note_*
     old_value: 93 keys (602KB)
     new_value: 3 keys (399KB)
     date: '2026-07-15'
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
-  report: reviews/system-tune-2026-07-29.md
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
+      per-replenish growth bloated every YAML parse.
+  report: reviews/system-tune-2026-08-08.md
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -797,153 +794,127 @@ queue_status:
   last_replenishment_prev: '2026-08-07T13:40:00+00:00'
   last_replenishment_run: 943
   last_replenishment_mode: two-mints-verified-unowned-residue-promotion-unavailable
-  last_replenishment_note_943: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
-    of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
-    appended at the end of Active Tasks so no existing line numbers shifted. Promoted
-    nothing. Promotion was the driver's stated preference and was again genuinely
-    unavailable, both pieces of work are unowned, the scan of task headers and File
+  last_replenishment_note_943: Pre-count P0-P2 equals 2 against a floor of 3, 30 active of which 28 were
+    P3. Restored to 4 by minting two P2 refine-draft tasks, both appended at the end of Active Tasks so
+    no existing line numbers shifted. Promoted nothing. Promotion was the driver's stated preference and
+    was again genuinely unavailable, both pieces of work are unowned, the scan of task headers and File
     lines above the Completed marker for phenomenology-mechanism-bridge, interface-specification-programme,
-    attention-and-the-consciousness-interface, motor-control-quantum-zeno, the-interface-problem,
-    near-perfect-adaptation and dopamine returned exactly one hit and it is a RESOLVED-OBSOLETE
-    2026-06-05 entry at todo L1218, not an open task. Mint one, todo L2377, the thermostat
-    inconsistency in obsidian/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
-    that the previous replenish deferred as weakest-of-three. Confirmed and found
-    it larger than reported. Three loci credit the thermostat with integral control,
-    the lead at L27, the substrate-indifference claim at L37 and, decisively, the
-    reusable primitive at L55 which is literally named the thermostat floor and whose
-    reductio needs the device to implement integral control, while L43 classifies
-    the thermostat as proportional with the integral term arriving only at PID. So
-    the standing reductio the article exports to the rest of the corpus rests on a
-    premise its own ladder denies. Wrote both repair directions into the task rather
-    than prescribing one, either L43 is wrong because a bang-bang thermostat does
-    zero its steady-state error, or the floor must be re-anchored on the op-amp integrator
-    the article already has at L44. Told it to leave L69 and L75 alone, those use
-    the thermostat only as the rival's no-stake foil and are sound either way. Article
-    is 2195 words, ok status, no length pressure. Mint two, todo L2386, the dopamine-deficient
-    Cai et al. 2024 family. Re-grepped the string across obsidian, archive and research
-    rather than trusting the handed-down locus list, and the population is ten, not
-    four. Five live, the four named plus obsidian/topics/the-interface-problem.md
-    L159 which nobody had flagged and whose own L99 already describes the finding
-    correctly, and motor-control-quantum-zeno restates the claim a second time at
-    L130. Five in archive, which the handed-down list omitted entirely, the worst
-    being archive/topics/attention-disorders-and-consciousness.md L51 whose dopamine-depleted
+    attention-and-the-consciousness-interface, motor-control-quantum-zeno, the-interface-problem, near-perfect-adaptation
+    and dopamine returned exactly one hit and it is a RESOLVED-OBSOLETE 2026-06-05 entry at todo L1218,
+    not an open task. Mint one, todo L2377, the thermostat inconsistency in obsidian/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
+    that the previous replenish deferred as weakest-of-three. Confirmed and found it larger than reported.
+    Three loci credit the thermostat with integral control, the lead at L27, the substrate-indifference
+    claim at L37 and, decisively, the reusable primitive at L55 which is literally named the thermostat
+    floor and whose reductio needs the device to implement integral control, while L43 classifies the
+    thermostat as proportional with the integral term arriving only at PID. So the standing reductio the
+    article exports to the rest of the corpus rests on a premise its own ladder denies. Wrote both repair
+    directions into the task rather than prescribing one, either L43 is wrong because a bang-bang thermostat
+    does zero its steady-state error, or the floor must be re-anchored on the op-amp integrator the article
+    already has at L44. Told it to leave L69 and L75 alone, those use the thermostat only as the rival's
+    no-stake foil and are sound either way. Article is 2195 words, ok status, no length pressure. Mint
+    two, todo L2386, the dopamine-deficient Cai et al. 2024 family. Re-grepped the string across obsidian,
+    archive and research rather than trusting the handed-down locus list, and the population is ten, not
+    four. Five live, the four named plus obsidian/topics/the-interface-problem.md L159 which nobody had
+    flagged and whose own L99 already describes the finding correctly, and motor-control-quantum-zeno
+    restates the claim a second time at L130. Five in archive, which the handed-down list omitted entirely,
+    the worst being archive/topics/attention-disorders-and-consciousness.md L51 whose dopamine-depleted
     phrasing is exactly what the paper's reserpine control refutes, and archive/topics/the-interface-location-problem.md
-    L195 which contradicts its own correct L124. Enumerated the do-not-touch set in
-    the task because Palmiter 2008 and Ungerstedt 1971 animals genuinely were dopamine-deficient,
-    including the mixed file archive/concepts/dopamine-selection-interface.md where
-    L36 is Cai and defective and L44 is Palmiter and correct, so a corpus-wide replace
-    would corrupt correct text. Left concepts/control-theoretic-will.md L68 marked
-    unresolved rather than asserting Cai, the file carries none of the three author
-    strings. Recorded that two prior passes ratified this as a fair or defensible
-    compression and that the ratification must be overridden not deferred to, and
-    pointed the successor at the precedent wording already sitting in the 2026-06-02
-    attention-as-interface review, which was never propagated because that review
-    targeted a different article. Added a length guard, attention-and-the-consciousness-interface
-    is 4607 words and already past the topics 4000 hard ceiling so its fix must be
-    length-neutral or reducing, and told it to keep off apex/attention-as-causal-bridge
+    L195 which contradicts its own correct L124. Enumerated the do-not-touch set in the task because Palmiter
+    2008 and Ungerstedt 1971 animals genuinely were dopamine-deficient, including the mixed file archive/concepts/dopamine-selection-interface.md
+    where L36 is Cai and defective and L44 is Palmiter and correct, so a corpus-wide replace would corrupt
+    correct text. Left concepts/control-theoretic-will.md L68 marked unresolved rather than asserting
+    Cai, the file carries none of the three author strings. Recorded that two prior passes ratified this
+    as a fair or defensible compression and that the ratification must be overridden not deferred to,
+    and pointed the successor at the precedent wording already sitting in the 2026-06-02 attention-as-interface
+    review, which was never propagated because that review targeted a different article. Added a length
+    guard, attention-and-the-consciousness-interface is 4607 words and already past the topics 4000 hard
+    ceiling so its fix must be length-neutral or reducing, and told it to keep off apex/attention-as-causal-bridge
     entirely at 53 words from its ceiling. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
-    equals 4, and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
-    file paths that exist on disk. Re-parsed this state file after writing.
-  last_replenishment_note_942: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
-    of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
-    appended at the end of Active Tasks so no existing line numbers shifted. Promoted
-    nothing. Promotion was preferred by the driver but genuinely unavailable for this
-    work, all three of the driver's named residues were re-verified on disk and none
-    of them is covered by any open task, the greps for capability-division, anti-correlation-probes,
-    near-perfect-adaptation, Fahrenfort, mind-arena and thermostat over the Active
-    Tasks span returned only completed or resolved entries. Mint one, obsidian/voids/capability-division-problem.md
-    L49, which credits Fahrenfort et al. 2017 for grouping and figure-ground segregation
-    marking the transition to conscious seeing when that paper is titled Perceptual
-    integration without conscious access and shows integration without consciousness.
-    Widened the sweep past the driver's single locus before writing the task, the
-    stem Fahrenfort across all three trees gives three live users of the 2017 paper
-    and two are already correct, concepts/capability-division-in-vision L54 attributes
-    the transition to Ludwig 2023 and apex/cross-modal-capability-division L118 states
-    the integration-without-access reading properly, archive carries zero occurrences,
-    and the one research hit is a different 2007 Fahrenfort paper on masking. The
-    void also contradicts its own reference list at L149, which gives the real title.
-    Defect is live in hugo at L53. Scoped the task as re-frame not delete and told
-    it to add the Ludwig reference entry rather than leave an orphan cite. Mint two,
-    obsidian/topics/anti-correlation-probes-for-ai-consciousness.md L90, which grants
-    an advanced AI genuine first-person access to the mind-arena. Verified the mismatch
-    at all three loci, concepts/mind-arena L33 and L45 define the arena extensionally
-    as a domain of outcomes and say explicitly that it names a territory not a mechanism,
-    while the source article topics/dualism-as-ai-risk-mitigation L128 says access
-    to the same kind of system whose third-person opacity grounds the shield, a conscious
-    system. L130 makes the inside-outside gap the thing that licenses the survives-only-partially
-    verdict that L90's own clause leans on, so the slip is not cosmetic. Instructed
-    the successor to rewrite the clause and explicitly not to add a mind-arena wikilink,
-    since linking would ratify the conflation. Third residue deliberately left unowned
-    and reported to the driver instead, concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience
-    L37 credits a mechanical thermostat with realising the integral-control relation
-    while L43 describes the thermostat as proportional with the integral term arriving
-    only at PID. Real but the weakest and most arguable of the three, and the budget
-    was one to two tasks. Confirmed the fourth item needed no action, the missing
-    scripts/curate.py in the refine-draft skill is still recorded as a picker-invisible
+    equals 4, and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian file paths that
+    exist on disk. Re-parsed this state file after writing.
+  last_replenishment_note_942: Pre-count P0-P2 equals 2 against a floor of 3, 30 active of which 28 were
+    P3. Restored to 4 by minting two P2 refine-draft tasks, both appended at the end of Active Tasks so
+    no existing line numbers shifted. Promoted nothing. Promotion was preferred by the driver but genuinely
+    unavailable for this work, all three of the driver's named residues were re-verified on disk and none
+    of them is covered by any open task, the greps for capability-division, anti-correlation-probes, near-perfect-adaptation,
+    Fahrenfort, mind-arena and thermostat over the Active Tasks span returned only completed or resolved
+    entries. Mint one, obsidian/voids/capability-division-problem.md L49, which credits Fahrenfort et
+    al. 2017 for grouping and figure-ground segregation marking the transition to conscious seeing when
+    that paper is titled Perceptual integration without conscious access and shows integration without
+    consciousness. Widened the sweep past the driver's single locus before writing the task, the stem
+    Fahrenfort across all three trees gives three live users of the 2017 paper and two are already correct,
+    concepts/capability-division-in-vision L54 attributes the transition to Ludwig 2023 and apex/cross-modal-capability-division
+    L118 states the integration-without-access reading properly, archive carries zero occurrences, and
+    the one research hit is a different 2007 Fahrenfort paper on masking. The void also contradicts its
+    own reference list at L149, which gives the real title. Defect is live in hugo at L53. Scoped the
+    task as re-frame not delete and told it to add the Ludwig reference entry rather than leave an orphan
+    cite. Mint two, obsidian/topics/anti-correlation-probes-for-ai-consciousness.md L90, which grants
+    an advanced AI genuine first-person access to the mind-arena. Verified the mismatch at all three loci,
+    concepts/mind-arena L33 and L45 define the arena extensionally as a domain of outcomes and say explicitly
+    that it names a territory not a mechanism, while the source article topics/dualism-as-ai-risk-mitigation
+    L128 says access to the same kind of system whose third-person opacity grounds the shield, a conscious
+    system. L130 makes the inside-outside gap the thing that licenses the survives-only-partially verdict
+    that L90's own clause leans on, so the slip is not cosmetic. Instructed the successor to rewrite the
+    clause and explicitly not to add a mind-arena wikilink, since linking would ratify the conflation.
+    Third residue deliberately left unowned and reported to the driver instead, concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience
+    L37 credits a mechanical thermostat with realising the integral-control relation while L43 describes
+    the thermostat as proportional with the integral term arriving only at PID. Real but the weakest and
+    most arguable of the three, and the budget was one to two tasks. Confirmed the fourth item needed
+    no action, the missing scripts/curate.py in the refine-draft skill is still recorded as a picker-invisible
     NEEDS-HUMAN at todo L469 and was not duplicated. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
-    equals 4 and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
-    file paths. Re-parsed this state file after writing.
-  last_replenishment_note_941: Pre-count P0-P2 equals 2 against a floor of 3, 31 active
-    of which 29 were P3. Restored to 4 with one promotion and one mint. Promotion,
-    todo L2188 P3 to P2, the mind-arena link sweep on obsidian/concepts/possibility-probability-slippage.md.
-    Priority digit only, no re-scope. Re-verified both loci live on disk before promoting,
-    locus A at L68 still carries the unlinked canonical outcome-domain phrasing and
-    locus B still carries the first-person-access sense mismatch that the task correctly
-    marks report-only. Mint, appended at the end of Active Tasks so no line numbers
-    shifted, P2 refine-draft on obsidian/topics/empirical-evidence-for-consciousness-selecting.md
-    covering L92 and L104, the two categorical-objection loci tonight's refine of
-    that same file named as out of scope. Confirmed unowned, the parent P2 that had
-    reserved them is now closed and no open task carries the path on a File line.
-    Two of the driver's three named residues needed no action. The supports-all-five
-    archive residue is already owned in full by the open P2 at L2352, whose notes
-    name both archive bodies and prescribe a decide-either-way outcome, so minting
-    would have duplicated it. The missing scripts/curate.py is already recorded as
-    a picker-invisible NEEDS-HUMAN entry at todo L469. Widened the grep beyond the
-    driver's two loci and found the categorical-objection family runs to roughly thirteen
-    loci across both trees, but deliberately did not sweep it, because several are
-    already correctly calibrated, luck-objection reads significantly weakened though
-    neural applications remain open and neural-implementation-specifics scopes itself
-    to strongly supported as precedent. Two propositions are in play and only one
-    is over-claimed, the flat categorical claim that quantum effects cannot occur
-    in warm biology is genuinely refuted, while the inference to neural consciousness-relevant
-    scales is not, so a mechanical collapsed-to-weakened swap would introduce the
-    opposite calibration error. Recorded the survey in the task notes so the successor
-    inherits it. Also flagged that the strongest locus in the family, archive slash
-    topics slash quantum-biology-and-the-consciousness-debate L35, is explicitly excluded
-    from this task because the open enzyme-sweep P2 already owns L47 of that same
-    archive body and two tasks editing one file invites a collision.
-  last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
-    of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
-    promotion-only pattern on purpose. The driver named two high-value unowned residues
-    and both turned out to be explicit written deferrals with no existing task to
-    promote, so minting was the only way to own them. Verified every locus on disk
-    before minting. Mint one, todo L2350, P2 refine-draft on obsidian/concepts/quantum-biology-and-neural-mechanisms.md,
-    the enzyme 10 to the 12 through 10 to the 17 sibling sweep. The open P2 at L2331
-    asks for this task by name, its LOCUS 1 says fix this file only and that six sibling
-    loci need their own sweep task. Grepped all three trees and found exactly the
-    six, two live bodies, one research note and three archive bodies, matching the
-    parent's count. Two separable defects, mis-attributing total catalytic proficiency
-    to tunnelling, and stating contested evolutionary optimisation as settled. Four
-    of the six carry both. Calibrated model already exists at concepts/decoherence.md
-    L135 and is marked as a control not to edit. Recorded a notation hazard, archive/topics/quantum-biology-evidence-in-neural-systems.md
-    L49 writes the figure in ASCII as 10 caret 17 while the other five use superscripts,
-    so a superscript-only grep returns a false clean. Mint two, todo L2373, P2 refine-draft
-    on obsidian/concepts/phenomenology.md, the supports all five header at L148. The
-    completed 2026-08-06 prospective-memory task names this file in its own Notes
-    as out of scope and deliberately deferred, needing its own assessment. That task's
-    title claimed the last live header and that was false, two live loci outranked
-    it. Verified L148 contradicts its own paragraphs, the Minimal Quantum Interaction
-    cell says phenomenology does not establish the quantum mechanism and the No Many
-    Worlds cell ends on an open question. Repair register already written at concepts/episodic-memory.md
-    L168 with four named registers. Flagged for judgement that the prior pass sorted
-    two archive bodies, semantic-phenomenology L112 and temporal-ontology-and-consciousness
-    L115, as dated records when archive serves full bodies at live URLs. Both mints
-    carry Type and File lines, both were checked for File-line collisions across the
-    whole active range and against the Vetoed bank, and both explicitly fence off
-    the loci the open parent P2 owns to avoid same-file pileup. Appended at the end
-    of Active Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions
-    and no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop,
-    the only recent commits are this loop's own.
+    equals 4 and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian file paths. Re-parsed
+    this state file after writing.
+  last_replenishment_note_941: Pre-count P0-P2 equals 2 against a floor of 3, 31 active of which 29 were
+    P3. Restored to 4 with one promotion and one mint. Promotion, todo L2188 P3 to P2, the mind-arena
+    link sweep on obsidian/concepts/possibility-probability-slippage.md. Priority digit only, no re-scope.
+    Re-verified both loci live on disk before promoting, locus A at L68 still carries the unlinked canonical
+    outcome-domain phrasing and locus B still carries the first-person-access sense mismatch that the
+    task correctly marks report-only. Mint, appended at the end of Active Tasks so no line numbers shifted,
+    P2 refine-draft on obsidian/topics/empirical-evidence-for-consciousness-selecting.md covering L92
+    and L104, the two categorical-objection loci tonight's refine of that same file named as out of scope.
+    Confirmed unowned, the parent P2 that had reserved them is now closed and no open task carries the
+    path on a File line. Two of the driver's three named residues needed no action. The supports-all-five
+    archive residue is already owned in full by the open P2 at L2352, whose notes name both archive bodies
+    and prescribe a decide-either-way outcome, so minting would have duplicated it. The missing scripts/curate.py
+    is already recorded as a picker-invisible NEEDS-HUMAN entry at todo L469. Widened the grep beyond
+    the driver's two loci and found the categorical-objection family runs to roughly thirteen loci across
+    both trees, but deliberately did not sweep it, because several are already correctly calibrated, luck-objection
+    reads significantly weakened though neural applications remain open and neural-implementation-specifics
+    scopes itself to strongly supported as precedent. Two propositions are in play and only one is over-claimed,
+    the flat categorical claim that quantum effects cannot occur in warm biology is genuinely refuted,
+    while the inference to neural consciousness-relevant scales is not, so a mechanical collapsed-to-weakened
+    swap would introduce the opposite calibration error. Recorded the survey in the task notes so the
+    successor inherits it. Also flagged that the strongest locus in the family, archive slash topics slash
+    quantum-biology-and-the-consciousness-debate L35, is explicitly excluded from this task because the
+    open enzyme-sweep P2 already owns L47 of that same archive body and two tasks editing one file invites
+    a collision.
+  last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor of 3, with 28 active
+    tasks of which 26 were P3. Departed from the prior two runs' promotion-only pattern on purpose. The
+    driver named two high-value unowned residues and both turned out to be explicit written deferrals
+    with no existing task to promote, so minting was the only way to own them. Verified every locus on
+    disk before minting. Mint one, todo L2350, P2 refine-draft on obsidian/concepts/quantum-biology-and-neural-mechanisms.md,
+    the enzyme 10 to the 12 through 10 to the 17 sibling sweep. The open P2 at L2331 asks for this task
+    by name, its LOCUS 1 says fix this file only and that six sibling loci need their own sweep task.
+    Grepped all three trees and found exactly the six, two live bodies, one research note and three archive
+    bodies, matching the parent's count. Two separable defects, mis-attributing total catalytic proficiency
+    to tunnelling, and stating contested evolutionary optimisation as settled. Four of the six carry both.
+    Calibrated model already exists at concepts/decoherence.md L135 and is marked as a control not to
+    edit. Recorded a notation hazard, archive/topics/quantum-biology-evidence-in-neural-systems.md L49
+    writes the figure in ASCII as 10 caret 17 while the other five use superscripts, so a superscript-only
+    grep returns a false clean. Mint two, todo L2373, P2 refine-draft on obsidian/concepts/phenomenology.md,
+    the supports all five header at L148. The completed 2026-08-06 prospective-memory task names this
+    file in its own Notes as out of scope and deliberately deferred, needing its own assessment. That
+    task's title claimed the last live header and that was false, two live loci outranked it. Verified
+    L148 contradicts its own paragraphs, the Minimal Quantum Interaction cell says phenomenology does
+    not establish the quantum mechanism and the No Many Worlds cell ends on an open question. Repair register
+    already written at concepts/episodic-memory.md L168 with four named registers. Flagged for judgement
+    that the prior pass sorted two archive bodies, semantic-phenomenology L112 and temporal-ontology-and-consciousness
+    L115, as dated records when archive serves full bodies at live URLs. Both mints carry Type and File
+    lines, both were checked for File-line collisions across the whole active range and against the Vetoed
+    bank, and both explicitly fence off the loci the open parent P2 owns to avoid same-file pileup. Appended
+    at the end of Active Tasks rather than top-inserted, so the diff is 42 insertions and 0 deletions
+    and no existing task line moved. Post-count P0-P2 equals 4. No concurrent loop, the only recent commits
+    are this loop's own.
   replenishment_source_counts:
     promotion_existing_p3: 0
     verified_residue_mint: 2
@@ -961,8 +932,7 @@ queue_status:
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
   stale_task_anchors_repaired: 0
-  run_933_note: 'run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE
-    MINT, ONE
+  run_933_note: 'run no.933 (2026-08-04T02:52Z, cycle-driven /replenish-queue): ONE MINT, ONE
 
     PROMOTION, TWO PRE-VERIFIED DRIVER CANDIDATES DECLINED ON MEASUREMENT.
 
@@ -1094,8 +1064,7 @@ queue_status:
 
     ceiling, but decomposing by section shows Further Reading 148 w + References
 
-    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone
-    is
+    178 w = 326 w of reference apparatus, plus a 40 w yt-embed block. Prose alone is
 
     3,761 w - 239 UNDER the hard ceiling. This is the identical shape to the
 
@@ -1125,8 +1094,7 @@ queue_status:
 
     CANDIDATE DECLINED no.3 - positions/quantum-interface, which get_length_warnings
 
-    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with
-    no
+    puts at 4,129 w CRITICAL against the positions 4,000 critical threshold, with no
 
     in-scope fix (367 w header + 3,760 w across ten live position entries, and the
 
@@ -1178,8 +1146,7 @@ queue_status:
 
     PLACEMENT AND LIFO, AND THIS RUN DELIBERATELY DID JUMP THE QUEUE ONCE. The new
 
-    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s
-    at
+    mint was APPENDED at the bottom of Active (line 2234), below both run-932 P2s at
 
     2188 and 2213, so it takes the last pick slot and jumps nothing. The PROMOTION
 
@@ -1218,8 +1185,7 @@ queue_status:
     preserved at 20. Pruned run_930_note to hold the note ring at three (931, 932,
 
     933).'
-  run_934_note: 'run no.934 (2026-08-04T03:52Z, cycle-driven /replenish-queue): TWO
-    MINTS, BOTH
+  run_934_note: 'run no.934 (2026-08-04T03:52Z, cycle-driven /replenish-queue): TWO MINTS, BOTH
 
     FROM UNCONSUMED_RESEARCH. NINTH consecutive replenish-at-floor. Floor restored
 
@@ -1254,8 +1220,7 @@ queue_status:
 
     SOURCES 1-8 AUDITED AND RECORDED. (1 chain) available but not needed once
 
-    source 2 yielded two verified candidates. (2 unconsumed_research) USED, twice
-    -
+    source 2 yielded two verified candidates. (2 unconsumed_research) USED, twice -
 
     see below. (3 gap analysis) blocked by caps. (4 staleness) not reached.
 
@@ -1353,8 +1318,7 @@ queue_status:
 
     L144, phenomenology-of-deliberation-under-uncertainty L85 and L137), with L100
 
-    spot-checked on disk this run - fix-by-file-leaves-string-siblings-live cited
-    in
+    spot-checked on disk this run - fix-by-file-leaves-string-siblings-live cited in
 
     the INVERSE direction, because here the grep population is larger than the
 
@@ -1436,61 +1400,54 @@ queue_status:
     YAML re-validated with yaml.safe_load after writing. recent_tasks preserved at
 
     20. Pruned run_931_note to hold the note ring at three (932, 933, 934).'
-  run_935_note: 'run no.935 (2026-08-06T01:57Z, cycle-driven replenish-queue): ONE
-    MINT, conservative, exact-floor shortfall. TENTH consecutive replenish-at-floor.
-    Floor restored 2 -> 3 by minting a single P2 appended at the BOTTOM of Active
-    so FIFO drains the two older P2s first. Fourth consecutive non-zero-mint run.
+  run_935_note: 'run no.935 (2026-08-06T01:57Z, cycle-driven replenish-queue): ONE MINT, conservative,
+    exact-floor shortfall. TENTH consecutive replenish-at-floor. Floor restored 2 -> 3 by minting a single
+    P2 appended at the BOTTOM of Active so FIFO drains the two older P2s first. Fourth consecutive non-zero-mint
+    run.
 
 
-    COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from state.
-    BEFORE 30 active / 0 P0 / 0 P1 / 2 P2 / 28 P3, at the MIN_QUEUE floor of 3 by
-    one. AFTER 31 active / 0 P0 / 0 P1 / 3 P2 / 28 P3. Nothing completed, nothing
-    re-scoped, nothing relocated, nothing promoted. The three condense headings carrying
-    a veto tag are routed out of active by the parser and were never counted. Driver
-    figures matched the live measurement exactly.
+    COUNTS re-derived live via tools.todo.processor.parse_tasks, never read from state. BEFORE 30 active
+    / 0 P0 / 0 P1 / 2 P2 / 28 P3, at the MIN_QUEUE floor of 3 by one. AFTER 31 active / 0 P0 / 0 P1 /
+    3 P2 / 28 P3. Nothing completed, nothing re-scoped, nothing relocated, nothing promoted. The three
+    condense headings carrying a veto tag are routed out of active by the parser and were never counted.
+    Driver figures matched the live measurement exactly.
 
 
-    NO CONCURRENT LOOP. pgrep for evolve_loop returned 0 at write time, independently
-    re-run rather than taken on trust, per the hallucinated-concurrent-loop note.
+    NO CONCURRENT LOOP. pgrep for evolve_loop returned 0 at write time, independently re-run rather than
+    taken on trust, per the hallucinated-concurrent-loop note.
 
 
-    SECTION HEADROOM re-measured with the gating function count_section_files, which
-    takes one positional arg: topics 319, concepts 315, voids 100, positions 14, apex
-    39. One topics slot and five concepts slots against the 320 caps, voids at cap.
-    The CLAUDE.md table is stale and was not used. Because topics has a single slot
-    left, the mint was deliberately steered away from expand-topic toward a refine-draft
+    SECTION HEADROOM re-measured with the gating function count_section_files, which takes one positional
+    arg: topics 319, concepts 315, voids 100, positions 14, apex 39. One topics slot and five concepts
+    slots against the 320 caps, voids at cap. The CLAUDE.md table is stale and was not used. Because topics
+    has a single slot left, the mint was deliberately steered away from expand-topic toward a refine-draft
     that consumes no article slot.
 
 
-    THE MINT: the description of topics/parsimony-case-for-interactionist-dualism
-    asserts a positive simplicity argument that the article body declines in four
-    separate passages. Source is check-tenets, the sole surviving Family R locus,
-    reported unchanged on 2026-08-02b, 2026-08-03 and 2026-08-06 and never once queued
-    as a task. Booked under gap_analysis because the source schema has no check-tenets
-    bucket; the real provenance is the carried tenet-check finding.
+    THE MINT: the description of topics/parsimony-case-for-interactionist-dualism asserts a positive simplicity
+    argument that the article body declines in four separate passages. Source is check-tenets, the sole
+    surviving Family R locus, reported unchanged on 2026-08-02b, 2026-08-03 and 2026-08-06 and never once
+    queued as a task. Booked under gap_analysis because the source schema has no check-tenets bucket;
+    the real provenance is the carried tenet-check finding.
 
 
-    DEFECT VERIFIED ON DISK BEFORE MINTING rather than copied from the report, per
-    the asserted-concrete-defect-often-false note. Frontmatter L3 ends with the phrase
-    positive simplicity argument; body L39, L41, L49 and L97 each decline that inference,
-    and L41 anticipates the misreading for the title only. Two loci, obsidian L3 and
-    the hugo mirror where the dumper wraps the same description across L17 to L19,
-    so the note tells the executor to grep the phrase rather than the sentence. No
-    archive twin. A sibling in research/parsimony-case-interactionist-dualism-2026-03-24
-    L112 carries the same flat assertion and is named in the task so a file-scoped
-    fix does not leave it live.
+    DEFECT VERIFIED ON DISK BEFORE MINTING rather than copied from the report, per the asserted-concrete-defect-often-false
+    note. Frontmatter L3 ends with the phrase positive simplicity argument; body L39, L41, L49 and L97
+    each decline that inference, and L41 anticipates the misreading for the title only. Two loci, obsidian
+    L3 and the hugo mirror where the dumper wraps the same description across L17 to L19, so the note
+    tells the executor to grep the phrase rather than the sentence. No archive twin. A sibling in research/parsimony-case-interactionist-dualism-2026-03-24
+    L112 carries the same flat assertion and is named in the task so a file-scoped fix does not leave
+    it live.
 
 
-    CONTENTION CHECKED: zero. The one grep hit on that path in the open queue is prose
-    inside the check-links entry notes, about a different file, and that entry is
-    explicitly marked do-not-mint.
+    CONTENTION CHECKED: zero. The one grep hit on that path in the open queue is prose inside the check-links
+    entry notes, about a different file, and that entry is explicitly marked do-not-mint.
 
 
-    SOURCES DELIBERATELY NOT SPENT, since the shortfall was exactly one. Unconsumed
-    research: the anti-zeno-effect research-topic to expand-topic chain is already
-    in flight and was not duplicated. Length, staleness, orphan, positions and apex
-    sources were left unexamined rather than padded, per the conservative instruction.
+    SOURCES DELIBERATELY NOT SPENT, since the shortfall was exactly one. Unconsumed research: the anti-zeno-effect
+    research-topic to expand-topic chain is already in flight and was not duplicated. Length, staleness,
+    orphan, positions and apex sources were left unexamined rather than padded, per the conservative instruction.
 
 
-    YAML re-validated with yaml.safe_load after writing. recent_tasks preserved. Pruned
-    run_932_note to hold the note ring at three, now 933, 934 and 935.'
+    YAML re-validated with yaml.safe_load after writing. recent_tasks preserved. Pruned run_932_note to
+    hold the note ring at three, now 933, 934 and 935.'

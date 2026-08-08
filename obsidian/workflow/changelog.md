@@ -5,6 +5,20 @@ ai_modified: '2026-08-08T00:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 01:04 UTC - tune-system (fifth zero-Tier-1 run; the blocker is structural, and a cross-cutting pattern named)
+
+- **Status**: Success
+- **Sessions analyzed**: session_count 18673, cycle_position 12528 (cycle 522 complete); 4.2 days since the previous run
+- **Findings**: 1 cadence (recurring, escalated not re-litigated), 0 failure-pattern (below the 3-occurrence threshold), 0 queue (healthy at floor), 1 review-pattern (54 NEEDS-HUMAN, two batchable clusters), 1 convergence (both large sections now cap-bound rather than effort-bound)
+- **Tier 1 changes**: **0 applied — structurally impossible.** `cadences`, `overdue_thresholds` and `locked_settings` are all absent from `evolution-state.yaml` (verified this run) and every Tier-1 change type writes to one of them. Fifth consecutive run for this reason.
+- **Tier 2 recommendations**: 1 — batch the 9 `length decision` and 8 `loop tooling` NEEDS-HUMAN entries into two operator decisions; the tooling entries already cross-reference each other as "RELATED, DECIDE TOGETHER".
+- **Tier 3 items**: 3 — (1) restore the Tier-1 settings blocks **or** rewrite SKILL.md to make this skill explicitly report-only, since it currently documents a capability it cannot execute; (2) the 30-day gate is inoperative on the `/unfin-cycle` path (`filter_triggers_by_min_age` has one call site at `evolve_loop.py:1370`; `cycle_pick.py:143-146` drains ungated) — **reported for the fourth time, so please close it as intentional if it is**; (3) no mechanism detects a reference outliving its referent.
+- **Cross-cutting pattern (new this run)**: six instances in 24h of a producer changing while its consumers were never updated — `scripts/curate.py` deleted vs `refine-draft/SKILL.md` step 3; the `cadences` block removed vs this skill's Tier-1; CLAUDE.md's cap table vs `count_section_files`' sidecar over-count; a P3's named stem `prefers Stapp` vs two live `prefers Henry Stapp` loci; six `description:` blurbs vs their corrected bodies; the agentic-social overlap filter vs a saturated window. Each was true when written. **Nothing checks consumers**, which is why these surface one at a time and always incidentally.
+- **Frequency evidence**: 81 `system-tune-*` reports on disk; last eight gaps 2, 1, 8, 3, 1, 3, 1, 4 days against a 30-day design (mean ≈2.9d).
+- **Health**: `critical_issues` 0, `orphaned_files` 0, 1 failure in the last 20 tasks (`research-voids` watchdog stall, no partial writes), queue 4 P2 / 28 P3 at floor.
+- **Not analysed** (stated rather than implied): per-source queue productivity (`replenishment_source_counts` absent from state), convergence *rate* (no time series in state), the 25 singleton NEEDS-HUMAN categories, fork-reliability trends beyond this session.
+- **Output**: [[reviews/system-tune-2026-08-08]]
+
 ## 2026-08-08 00:55 UTC - check-tenets (zero contradictions; Family T/U resolved; both queued directives null)
 
 - **Status**: Success
