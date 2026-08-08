@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Zheng & Meister is cited with the wrong YEAR in 9 files and three different volume/page assignments corpus-wide — the dominant form is correct, so this is drift, not a bad source
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/working-memory.md
+- **Notes**: **A CITATION-METADATA FAMILY, MEASURED NOT ESTIMATED.** Found 2026-08-08 while briefing a deep-review on `topics/neural-refresh-rates-and-the-smoothness-problem` — **that article is the ANCHOR and is CORRECT; do not touch it.**
+  **THE CORRECT CITATION** (dominant form, 31+20+6+2 = 59 occurrences): **Zheng, J. & Meister, M. (2025). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192–204.** DOI `10.1016/j.neuron.2024.11.008` (the DOI carries a 2024 stem because of online-first publication — **that is almost certainly the source of the drift, and it is not itself an error**).
+  **DEFECT 1 — WRONG YEAR, measured**: **64 mentions across 49 files say 2025; 14 mentions across 9 files say 2024.** The nine:
+  - **LIVE ARTICLE (fix first)**: `obsidian/concepts/working-memory.md` — **L129** in body prose (*"Zheng & Meister (2024) argue…"*) and **L230** in references.
+  - **RESEARCH NOTE**: `obsidian/research/bandwidth-constraints-10-bits-2026-03-29.md` (note its own L227 table row says **2025**, so the file is internally inconsistent).
+  - **ARCHIVE (full serving bodies at live URLs)**: `archive/topics/the-ten-bit-ceiling.md` (L62, L68, L151), `archive/topics/asymmetric-bandwidth-of-consciousness.md` (L60, L146), `archive/topics/attention-as-selection-interface.md` (L205, L290), `archive/topics/evolved-mind-brain-interface-efficacy.md` (L157), `archive/concepts/phenomenal-attention.md` (L64, L163), `archive/concepts/psychophysical-coupling.md` (L106), `archive/concepts/temporal-thickness.md` (L101, L149).
+  **⚠️ THE CLEAN TELL THAT THIS IS A YEAR ERROR AND NOT A DIFFERENT PAPER**: `working-memory` L230 reads *"**(2024)**. … *Neuron*, **113(2), 192-204**"* — the **2025 volume and page range with the 2024 year**. Same paper, one field wrong.
+  **DEFECT 2 — THREE DIFFERENT VOLUME/PAGE ASSIGNMENTS for one paper**, which the year sweep will not catch on its own:
+  | form | count | verdict |
+  |---|---|---|
+  | `113(2), 192–204` (all punctuation variants) | **59** | **correct** |
+  | `112(24)` | **3** | wrong |
+  | `112(5), 679-692` | **1** | wrong |
+  Loci for the wrong volumes: `archive/topics/the-interface-specification-problem.md` L204, `archive/topics/valence-as-selection-currency.md` L176, `archive/concepts/selection-laws.md` L179 (all `112(24)`), and `archive/concepts/temporal-thickness.md` L149 (`112(5), 679-692`).
+  **SCOPE — this is mechanical, but verify before substituting.** A grep matches strings, not claims: confirm each hit is *this* paper before editing, and **do not touch the DOI** (`…neuron.2024.11.008` is correct as printed). **Fix the live article and the research note first**; the archive bodies serve at preserved URLs so they matter, but they are lower priority and can be reported if the run runs long. **Say what you did not reach.**
+  **ALSO WORTH SETTLING WHILE HERE — an internal terminology split, 1 locus each**: `obsidian/topics/bandwidth-of-consciousness.md` L101 says Zheng and Meister call it the **"sifting number"**; `obsidian/research/bandwidth-constraints-10-bits-2026-03-29.md` L105 says **"sifting ratio"**. One of these is what the paper actually says. **Check the primary text and make the corpus consistent**; do not guess from the surrounding prose.
+  **MIRROR**: every fix needs `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a citation year is not authoring.
+- **Source**: driver, 2026-08-08 (measured with a context-window scan over `obsidian/` + `archive/`, excluding `workflow/` and `reviews/`)
+
+### P2: Andrew Lee is credited across 4 articles with an argument he EXPLICITLY DISCLAIMS — "discriminatory grain" is not his term, and the epistemic route is not his route
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/resolution-void.md
+- **Notes**: **A CLAIM-FIDELITY FAMILY, VERIFIED AGAINST THE PRIMARY TEXT, NOT INFERRED.** Found 2026-08-08 by the deep-review of `topics/neural-refresh-rates-and-the-smoothness-problem` — **that article is the ANCHOR and was FIXED in that pass; do not touch it.** Full evidence and verbatim quotes: [[reviews/deep-review-2026-08-08-neural-refresh-rates]].
+  **HOW IT WAS VERIFIED**: the paper PDF from the author's own site (`andrewyuanlee.com`), extracted with `pdftotext` and grepped locally. This is primary text, not an abstract or an aggregator.
+  **DEFECT 1 — "discriminatory grain" is the Map's coinage, attributed to Lee.** The phrase **does not occur anywhere in the paper**. Grep over the full text returns exactly three hits for "grain": two instances of *"the grain of introspection"* (describing a move Lee sets aside) and one bibliography entry for **Lockwood, "The grain problem"**. The Map appears to have minted the term and then credited it to him.
+  **DEFECT 2 — Lee refuses the sub-threshold-grain argument the corpus gives him.** Verbatim: *"Unlike some defenses of the discrete theory, my arguments **won't appeal to limits in our introspective capacities**. Instead, I'll develop a structural (as opposed to epistemic) explanation of the difference between smooth and gappy experiences."* He grants "some sympathy" for the grain move, then sets it aside as "dialectically unsatisfying." He argues the **reverse** of the corpus's gloss: *"those most optimistic about our introspective capacities have reason to favor the discrete theory."*
+  **DEFECT 3 — "applies with equal force" over-transfers his result.** Lee is explicit the two questions are distinct: continuity of smooth experiences "concerns continuous functions; the latter concerns continuous spaces… they're structurally distinct," and *"my arguments **won't directly adjudicate** debates about the stream of consciousness. **Nevertheless**, my defense of the discrete theory **may still be relevant**."* Available framing is "may still be relevant / a similar analysis is plausible," not "equal force."
+  **⚠️ WHAT IS CORRECT AND MUST BE PRESERVED**: Lee's actual conclusion, quoted correctly at every locus — *"introspection leaves open whether smooth experiences are continuous or discrete."* **This is a RE-FRAMING job, not a deletion job** ([[citation-framing-accuracy-lens]]). The conclusion stays; the route and the coined term go.
+  **LOCI — DEFECT 1/2/3 (4 files, measured):**
+  - `obsidian/voids/resolution-void.md` **L42** — *'Lee develops precise models of "discriminatory grain"'*. Fix first: highest-visibility and most explicit.
+  - `obsidian/concepts/grain-mismatch.md` **L45** ("Andrew Lee's formal work on discriminatory grain") and **L47** ("Lee shows we cannot determine from inside experience…" — same epistemic-route misreading).
+  - `obsidian/topics/grain-mismatch-as-independent-evidence.md` **L49** — carries all three defects in one sentence ("introspective opacity finding applies with equal force here… below our discriminatory threshold").
+  - `obsidian/research/voids-resolution-void-2026-02-22.md` **L59** — *'Defines a formal measure of "discriminatory grain"'*. **This is the ROOT**: the research note is where the coinage entered and it fed the three articles. Fix it too or the error regenerates ([[research-note-self-flagged-gaps-propagate-to-the-article]]).
+  **⚠️ DO NOT SWEEP BY THE STRING "equal force"** — it occurs ~15 times corpus-wide in entirely unrelated arguments (self-stultification, argument-from-mechanism, manipulation argument, AI ensoulment…). **Target these four paths.**
+  **DEFECT 4 — the citation is stale; the paper is no longer a preprint.** Per the author's own publication listing it is now under Peer-Reviewed Articles: ***Philosophical Studies*, forthcoming**. Correct form (already installed at the anchor): `Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14).` **8 stale loci**, which also carry a year split:
+  - **2024 + PhilArchive (5 live)**: `topics/grain-mismatch-as-independent-evidence.md` L126, `voids/resolution-void.md` L106, `voids/smoothness-and-continuity.md` L137, `concepts/grain-mismatch.md` L105, `concepts/temporal-consciousness.md` L237.
+  - **2023 (2)**: `research/voids-resolution-void-2026-02-22.md` L212, `archive/voids/continuity-void.md` L112 (archive body serves at a live URL).
+  - **no year (1)**: `research/voids-continuity-void-2026-03-01.md` L225.
+  - **⚠️ DO NOT TOUCH** `research/voids-resolution-void-2026-02-22.md` **L213** — *"Lee, A. Y. (2023). Degrees of Consciousness. *Noûs*"* is a **different, genuinely published Lee paper** and is correct.
+  **MIRROR**: every fix needs `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — re-framing a citation is not authoring. **Say which loci you did not reach.**
+- **Source**: deep-review driver-briefed claim-fidelity pass, 2026-08-08 (primary-text verification; loci counted over `obsidian/` + `archive/`, excluding `workflow/` and `reviews/`)
+
 ### P3: `apex/moral-architecture-of-consciousness` L82 calls three arguments "tests" that "support" the value identity, and never mentions the rival the register says holds its credence at moderate
 
 - **Type**: refine-draft
@@ -2364,7 +2413,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/workflow/changelog.md
 - **Status**: needs-human
-- **Source**: driver, 2026-08-03 (observed live during the 03:00 UTC commission, which succeeded only by departing from the documented steps)
+- **UPDATE 2026-08-08 03:11 UTC — THE "PROBE IS BLIND TO ITS OWN MENU" HAZARD HAS A MECHANISM, AND IT IS SELF-CONCEALING. This is the single most useful thing to fix in this entry.** The probe is not blind: **running `javascript_tool` at all dismisses the menu before the probe reads it.** This run's first `+` click *did* open the menu; the focus-steal from the probe closed it; the probe then **truthfully reported `menuOpen: false`** — which reads as *"the click failed"*. So the natural response is to re-click, which re-opens and re-closes, indefinitely. **The verification is the thing that breaks the state it verifies.** What worked: click and screenshot inside a **single `browser_batch` with no JS in between**.
+  **⚠️ Step 3's documented verification (querying for an `aria-label="Research mode"` button) would trigger exactly this trap and cause a spurious pre-submit bail.** Menu verification in this lane must be **visual, not JS**.
+  **THIS IS THE SAME ROOT CAUSE AS THE CHATGPT LANE'S KEYSTROKE-DROP** (see the `commission-chatgpt-review` entry, updated the same night): there, a JS focus-check between clicking the composer and typing silently dropped every keystroke. **One rule covers both lanes: any `javascript_tool` call between a click and the action that depends on it can destroy the transient state — menu open, composer focused — and will then report the state it caused.** Worth stating once in whatever shared guidance both commission skills draw on, rather than twice as separate lane quirks.
+  **MODEL POLICY IS TWO GENERATIONS STALE ON BOTH BRANCHES — confirmed again.** This run obtained **Opus 5 High**, not Fable 5 and not the doc's "Opus 4.8". It is acceptable under the rule as literally written (selector text contains "Opus") and the slug regex handled it cleanly (`Opus 5 High` → `opus-5`), matching the established precedent of `outer-review-2026-08-03-claude-opus-5.md`. **No model switching was attempted, and none should be** — the lane self-heals; it is the documentation that is wrong.
+  **TWO SMALLER OBSERVATIONS FROM THE SAME RUN:** clicking via a `find` **element ref did not open the menu** whereas a screenshot-space coordinate click did, so refs are not uniformly reliable on this composer; and the **"Research" menu row sits directly over a recents-list entry**, so the documented click-through-into-a-stale-conversation risk is live here specifically — verify the URL is still the project page before typing.
+- **Source**: driver, 2026-08-03 (observed live during the 03:00 UTC commission, which succeeded only by departing from the documented steps); updated 2026-08-08 from the 03:11 UTC commission, which succeeded the same way and isolated the mechanism
 - **Code path** (not the `File` above, which is set to a content path so a refine fork cannot mangle a skill definition): `.claude/skills/commission-claude-review/SKILL.md`; the stale model description also appears in `CLAUDE.md`
 - **Generated**: 2026-08-03
 - **Notes**: **OBSERVED LIVE. Companion to the same-day NEEDS-HUMAN on `commission-chatgpt-review` — both commission lanes now carry documented steps that no longer match the live UI, and in both cases the failure mode is a bail that fires when nothing is actually wrong.** The 03:00 UTC commission succeeded (`outer-review-2026-08-03-claude-opus-5`, reusing the ChatGPT leg's full-site subject for cross-reviewer convergence), but only by working around the doc.

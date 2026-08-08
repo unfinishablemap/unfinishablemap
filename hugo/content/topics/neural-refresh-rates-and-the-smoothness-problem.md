@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-06 15:39:40+00:00
+ai_modified: 2026-08-08 03:32:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,8 +21,8 @@ description: Discrete neural oscillations at 7-13 Hz clash with smooth conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 17:00:56+00:00
-lastmod: 2026-08-06 15:39:40+00:00
+last_deep_review: 2026-08-08 03:32:13+00:00
+lastmod: 2026-08-08 03:32:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,11 +40,11 @@ topics:
 - '[[the-binding-problem]]'
 ---
 
-The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz in attention-driving alpha rhythms and may bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
+The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz — a sensory alpha rhythm near 10 Hz alongside a slower attentional rhythm near 7 Hz — and may bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
 
 ## The Neural Evidence for Discrete Processing
 
-The brain does not monitor the world continuously. VanRullen's comprehensive review of perceptual cycles established that perception operates rhythmically through multiple oscillatory channels. Alpha oscillations (~10 Hz) drive discrete perceptual sampling at attended locations, while theta oscillations (~4–8 Hz) drive attentional sampling across different objects. As VanRullen summarised: "Perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations."
+The brain does not monitor the world continuously. VanRullen's review of perceptual cycles gathers the evidence that perception operates rhythmically through more than one oscillatory channel: a sensory alpha rhythm (~10 Hz) coexisting with at least one slower rhythm performing attentional sampling at around 7 Hz, which divides further when attention is split across objects. VanRullen states the inference conditionally rather than as a finding — brain function involves oscillations at various frequencies, and "this could imply that perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations." He presents discrete perception as an age-old notion that has resurfaced on the strength of newer techniques, and closes by noting that how these multiple periodic functions are orchestrated, and how internal rhythms coordinate with overt sampling behaviour, "remain open questions." The rhythmicity of sampling is well evidenced; the inference from rhythmic sampling to genuinely discrete perception is the part still under argument.
 
 This periodicity has measurable consequences. At unfavourable phases of the alpha cycle, brief stimuli are less likely to reach awareness. Reaction times fluctuate rhythmically. The attentional blink — the inability to detect a second target presented 200–500 ms after the first — reveals a refractory period in conscious access that mirrors oscillatory timing.
 
@@ -54,11 +54,11 @@ At a faster timescale, gamma-band synchrony (~40 Hz) was proposed by Crick and K
 
 Herzog, Drissi-Daoudi, and Doerig proposed a resolution to the ancient debate over whether consciousness is continuous or discrete. Their two-stage model assigns each property to a different processing level.
 
-**Stage one** is unconscious and operates with high spatiotemporal resolution — effectively continuous. The brain collects sensory data at fine grain, integrating information over periods of up to 400 milliseconds. As Herzog noted: "The brain wants to give you the best, clearest information it can, and this demands a substantial amount of time."
+**Stage one** is unconscious and operates with relatively high temporal resolution — effectively continuous. The brain collects sensory data at fine grain, integrating over substantial periods before any percept becomes conscious. The specific timing figure comes from Herzog's earlier work with Kammer and Scharnowski on the duration of a percept, which found that transcranial magnetic stimulation can modulate unconscious integration for up to 400 milliseconds after stimulus presentation — the source, too, of the "time slice" framing used below. Explaining that delay to the press at the time, Herzog put the rationale plainly: the brain "wants to give you the best, clearest information it can, and this demands a substantial amount of time."
 
 **Stage two** is conscious and discrete. After the integration period, a conscious percept crystallises — a "time slice" of experience that does not unfold continuously but arrives as a completed whole. Evidence for this stage comes from postdictive effects: stimuli presented *after* a target can alter how the target is consciously perceived, suggesting that conscious percepts are not formed in real time but assembled retrospectively.
 
-The two-stage model resolves the continuous-versus-discrete debate but opens a deeper question. What produces the conscious percept from the unconscious processing? The transition from continuous neural computation to discrete conscious moments is precisely the juncture where an [explanatory gap](/concepts/explanatory-gap/) opens. Physical mechanisms describe stage one in detail. Stage two — the emergence of experience — remains unexplained.
+On its authors' own assessment the two-stage model resolves the continuous-versus-discrete debate, marrying the advantages of both. But it opens a deeper question. What produces the conscious percept from the unconscious processing? The transition from continuous neural computation to discrete conscious moments is precisely the juncture where an [explanatory gap](/concepts/explanatory-gap/) opens. Physical mechanisms describe stage one in detail. Stage two — the emergence of experience — remains unexplained.
 
 ## The Phenomenological Counter-Evidence
 
@@ -74,9 +74,13 @@ The phenomenological evidence creates a genuine puzzle. If experience is intrins
 
 ## The Introspective Opacity Caveat
 
-Andrew Lee's work on discriminatory grain introduces a complication that applies with equal force to temporal smoothness. Lee argues that introspection does not decide between phenomenal experience being genuinely continuous or merely discrete at a grain finer than our discriminatory threshold. We cannot inspect the temporal microstructure of our own experience — the resolution of consciousness is opaque to the consciousness whose resolution it is.
+Andrew Lee's analysis of smooth experience introduces a complication, though it reaches the smoothness problem obliquely rather than head-on. Lee's conclusion is that "introspection leaves open whether smooth experiences are continuous or discrete." Two features of how he arrives there matter for the use made of him here.
 
-This cuts both ways. The dualist cannot prove from introspection alone that temporal experience is genuinely smooth. But the physicalist cannot rescue identity by claiming temporal experience is "really" periodic either. If experience were discrete at a grain matching neural oscillations, the smoothness problem would dissolve — but Lee shows we have no introspective access to settle the question. The structural puzzle identified by the phenomenological tradition persists precisely because the tool we would need to resolve it — introspective access to temporal phenomenal microstructure — is unavailable.
+First, he declines the obvious route. The natural move for a discrete theorist is to say that experience is discrete at a grain too fine for introspection to resolve; Lee reports some sympathy for it but sets it aside as dialectically unsatisfying, developing instead a structural rather than epistemic account of what separates smooth experience from gappy experience. He then presses further in a direction that cuts against the easy reading: those most optimistic about our introspective capacities, he argues, have reason to favour the discrete theory rather than the continuous one. The opacity of introspection is not what carries his argument.
+
+Second, his target question is not identical to this one. Lee is explicit that the continuity ascribed to smooth experiences and the continuity ascribed to the stream of consciousness are structurally distinct — the first concerns continuous functions, the second continuous spaces — and that his arguments "won't directly adjudicate debates about the stream of consciousness," though he expects a similar analysis could be developed for it.
+
+With those two qualifications registered, the caveat still cuts both ways. The dualist cannot prove from introspection alone that temporal experience is genuinely smooth. But the physicalist cannot rescue identity by claiming temporal experience is "really" periodic either. If experience were discrete at a grain matching neural oscillations, the smoothness problem would dissolve — and Lee's result, to the extent it transfers to the temporal case, is that introspective evidence does not settle which way to go. The structural puzzle identified by the phenomenological tradition persists precisely because the tool we would most want to resolve it with — introspective access to temporal phenomenal microstructure — cannot by itself decide the matter.
 
 ## Physical Smoothing Mechanisms
 
@@ -141,12 +145,13 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 1. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.
 2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 3. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
-4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
-5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-6. Lee, A. Y. (2024). Consciousness and Continuity. *PhilArchive*. University of Toronto.
-7. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
-8. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
-9. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
-10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-11. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
-12. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
+4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837. https://doi.org/10.1016/j.tics.2020.07.001
+5. Herzog, M.H., Kammer, T., & Scharnowski, F. (2016). Time Slices: What Is the Duration of a Percept? *PLoS Biology*, 14(4), e1002433. https://doi.org/10.1371/journal.pbio.1002433 — source of the ~400 ms unconscious-integration figure and the "time slice" framing. The Herzog quotation above is from the accompanying EPFL press release, "How the brain produces consciousness in 'time slices'" (12 April 2016), not from the paper itself.
+6. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
+7. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
+8. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
+9. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
+10. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
+11. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+12. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
+13. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/

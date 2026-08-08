@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T02:54:00+00:00'
+ai_modified: '2026-08-08T03:32:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 03:32 UTC - deep-review (empirical-claim fidelity: four of five sources misrepresented; metadata was fine)
+
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: prose 2432 → 2785 (+353) against the topics soft threshold of 3000; 215 words headroom. Raw `analyze_length` 3149 / `soft_warning` is the known reference-apparatus false positive (apparatus 370 words). No condensation warranted.
+- **Lens**: **empirical-claim fidelity** — do the paraphrases match what the studies found and claim? Orthogonal to metadata (cleared repeatedly here) and to verbatim quotes. Ten prior reviews cleared metadata and inherited each other's clearance; **the metadata was almost entirely correct and the paraphrases were not.** Body prose was unchanged since 2026-07-16 (only the Sellars 1965→1962 fix landed), so these are original-composition defects that survived nine reviews.
+- **Critical issues addressed**: 6
+  - **VanRullen quote stripped its hedge.** Article: *As VanRullen summarised: "Perception and cognition operate periodically…"*. Publisher abstract: *"**This could imply that** perception and cognition operate periodically…"*. A conditional inference was promoted to a summary conclusion. Rewritten conditionally.
+  - **"Established" over-claimed the review.** VanRullen's abstract says evidence "points", rhythms "may coexist", and closes "remain open questions." The driver asked whether he presents this as established — he does not. Now separates the well-evidenced claim (rhythmic sampling) from the contested one (discrete perception).
+  - **~400 ms and "time slice" cited to the wrong paper.** The 2020 TiCS abstract contains **no** millisecond figures. Both originate in Herzog, Kammer & Scharnowski (2016), *PLoS Biology* 14(4) e1002433 ("TMS can modulate the unconscious integration for up to 400 ms"). Claim is sound; the cite was not. 2016 reference added and named in body.
+  - **Herzog quotation is a press-release remark**, from the 2016 EPFL release — in neither cited paper. Real form begins "The reason is that the brain wants…"; the article had promoted a fragment to a sentence. Excluded the 2020 ScienceDaily release as the source (its Herzog quotes are entirely different). Re-rendered verbatim-contiguous; reference entry now states the provenance.
+  - **Lee credited with an argument he disclaims** (most serious). Verified against the primary PDF, extracted and grepped locally. "Discriminatory grain" **does not occur in the paper** (three "grain" hits: two "grain of introspection" describing a move he sets aside, one Lockwood bibliography entry). Lee: *"Unlike some defenses of the discrete theory, my arguments **won't appeal to limits in our introspective capacities**. Instead, I'll develop a structural (as opposed to epistemic) explanation."* He argues the reverse of the article's gloss — *"those most optimistic about our introspective capacities have reason to favor the discrete theory."* And "applies with equal force" over-transfers: he is explicit the two continuity questions are "structurally distinct" and that his arguments *"won't directly adjudicate debates about the stream of consciousness"* though they *"may still be relevant."* His actual conclusion, which the article had right, is preserved verbatim.
+  - **Lee no longer a preprint** — now *Philosophical Studies*, forthcoming, per the author's own listing. The driver's hypothesis ran the other way; it has passed peer review, so the body framing was always fine and only the reference was stale.
+- **Medium issues addressed**: 3 — alpha/theta roles transposed (VanRullen assigns *sensory* sampling to ~10 Hz alpha and *attentional* to a distinct ~7 Hz rhythm; article had it backwards, and gave theta as ~4–8 Hz); lead sentence collapsed the two rhythms into one mislabelled "attention-driving alpha" band; the 2020 authors' "resolves the debate" self-assessment stated flat, now attributed.
+- **Checked and cleared, unchanged**: Zheng & Meister 2025 (Europe PMC: *Neuron* 113(2), 192–204, DOI 10.1016/j.neuron.2024.11.008; "about 10 bits/s" and "∼10⁹ bits/s" both exact) — **left alone per driver; this article is the correct anchor of that year family**. Herzog 2020 and VanRullen 2016 metadata correct (DOIs added). Postdictive paraphrase faithful. Crick & Koch gamma treatment faithful and hedged.
+- **⚠️ Superlative TESTED AND EARNED, deliberately not hedged**: "the strongest physicalist response" (§Functionalist Response). The body surveys four distinct physicalist families — predictive coding / interpolation / recurrent sustaining, functionalism, illusionism, higher-order + global workspace with the temperature analogy. The ranking has a surveyed field behind it; hedging would have been a regression.
+- **Renumbering safety**: references 12 → 13 entries. Grepped first for numeric cross-references (`[N]`, "reference N", "objection N") — **none exist in this file**, so the insert was safe.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` per driver — these are citation/framing corrections, not new argument. `ai_modified` and `last_deep_review` → 2026-08-08T03:32:13+00:00 from a live `date -u`, strictly past.
+- **Family NOT swept, filed for follow-up**: the Lee misreading propagates to 6 live articles + 1 archive body (`voids/resolution-void` L42 and `concepts/grain-mismatch` L45 both carry "discriminatory grain" verbatim; also `topics/grain-mismatch-as-independent-evidence`, `concepts/temporal-consciousness`, `voids/smoothness-and-continuity`, `archive/voids/continuity-void`). Siblings quote Lee's *conclusion* correctly — it is the framing and the epistemic route that need fixing. Same scoping doctrine the driver applied to the Zheng & Meister family. The stale-preprint fix belongs to the same sweep, which also carries a 2023/2024 year split.
+- **Output**: [[reviews/deep-review-2026-08-08-neural-refresh-rates]]
+- **Published**: yes
 
 ## 2026-08-08 02:54 UTC - refine-draft (habit blurb: descent gloss re-attributed to the Map, flat neural-origin rival named)
 
