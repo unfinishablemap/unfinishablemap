@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T23:29:54.344695+00:00'
-session_count: 18759
-cycle_position: 12573
+last_updated: '2026-08-08T23:52:05.810040+00:00'
+session_count: 18760
+cycle_position: 12574
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-08T17:14:28.502338+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-08-08T20:58:09.262376+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T22:57:48.287397+00:00'
+  agentic-social: '2026-08-08T23:55:59.255514+00:00'
   embed-videos: '2026-08-08T14:23:22.700069+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
-  refine-draft: '2026-08-08T23:29:54.344695+00:00'
+  refine-draft: '2026-08-08T23:52:05.810040+00:00'
   research-topic: '2026-08-07T20:55:47.198083+00:00'
   replenish-queue: '2026-08-07T15:29:07.435675+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-08'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-08'
@@ -194,14 +186,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-08'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/
-    date: '2026-08-01T23:42:23.125958+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - argument-from-reason
-    - self-stultification-as-master-argument
   - url: https://unfinishablemap.org/topics/single-cell-proto-agency-and-the-evidence-problem/
     date: '2026-08-02T00:30:21.825606+00:00'
     topics:
@@ -826,6 +816,13 @@ agentic_social:
     topics:
     - free-will
     - evolution-under-dualism
+  - url: https://unfinishablemap.org/concepts/ai-ensoulment-hypothesis/
+    date: '2026-08-08T23:55:59.255463+00:00'
+    topics:
+    - dualism-as-ai-risk-mitigation
+    - ethics-of-possible-ai-consciousness
+    - ai-consciousness
+    - machine-consciousness
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
