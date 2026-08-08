@@ -56,6 +56,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **RELATED, DECIDE TOGETHER**: the `commission-chatgpt-review` entry (Pro tier no longer exists; three UI mechanics) and the `commission-claude-review` entry (JS-probe dismisses its own menu; model policy two generations stale). **All three lanes share one root cause worth stating once**: `javascript_tool` calls between a click and the dependent action destroy transient state and then report the state they caused — so **UI verification in every commission lane must be visual, not JS.**
 - **Source**: driver, 2026-08-08 (observed live during the 04:20 UTC commission; services.py L50 and the prior-review self-identification independently verified by the driver)
 
+### NEEDS-HUMAN (loop tooling) 2026-08-08: `add-highlight`'s documented "max 280 characters" is wrong by ~25 whenever a link is attached — a doc-compliant description is REJECTED by Twitter, silently killing the daily tweet
+
+- **Type**: refine-draft
+- **Status**: needs-human
+- **File**: obsidian/workflow/todo.md
+- **Notes**: **Found live during the 2026-08-08 08:15 UTC run, verified in code by the driver.** The fork's first draft was **279 characters** — compliant with the documented limit — and would have gone out at **304 weighted** and been rejected. It caught this only by reading `tools/highlights/twitter.py` itself and re-sizing to 249 chars (**274 weighted**). Had it trusted the documentation, the daily tweet would have failed **after the daily slot was already consumed**, which is the expensive form of this failure.
+  **THE MISMATCH, both sides verified:**
+  * `.claude/skills/add-highlight/SKILL.md` states **"Max 280 characters (Twitter-ready)"** at **L37**, repeats "max 280 chars" at **L48** and **L136**. None of the three mentions the URL.
+  * `tools/highlights/twitter.py` **L203** comments *"URLs count as 23 chars in Twitter (t.co wrapping)"*, and `format_tweet` appends `\n\n` + the article URL to the description. **L191** meanwhile describes the incoming description as *"already 280 chars max"* — so the two layers each assume the other left room.
+  * Effective budget for the description is therefore **~254**, not 280: 280 − 23 (t.co) − 2 (the blank line). Every tweeted highlight carries a link, so this applies always, not as an edge case.
+  **WHY IT HAS NOT BITTEN BEFORE:** most descriptions land well under the limit, so the defect only fires when a writer uses the full documented budget — i.e. exactly when someone follows the instruction most carefully. That is why it has survived; it punishes compliance.
+  **OPERATOR TERRITORY — not fixed here.** Both loci are under `.claude/skills/` and `tools/`, which content automation must not edit. **Suggested fix (one line):** change SKILL.md's three mentions to state the real budget and say why — e.g. *"Max 254 characters. The tweet appends the article URL, which Twitter bills at 23 characters regardless of its real length, plus a blank line."* Alternatively have `format_tweet` truncate or reject early with a clear message rather than letting Twitter refuse it after the slot is spent.
+  **RELATED, SAME SHAPE:** this is another instance of the cross-cutting pattern in `reviews/system-tune-2026-08-08.md` — a documented instruction that no longer matches (or never matched) what the code requires, with nothing checking consumers against producers.
+  **SEPARATE, LOWER PRIORITY, SAME FILE FAMILY:** `scripts/highlights.py` writes `ai_modified` **without a UTC offset** (`'2026-08-08T08:17:22.748393'`). Verified as the established convention across the last three commits to `highlights.md`, so it is **not** a regression — but CLAUDE.md's timezone policy requires `+00:00` on all timestamps, so the generator is non-compliant. Decide alongside the above since both live in the highlights tooling.
+
 ### P2: two unverified quotations on live ARCHIVE urls — the New York Declaration misquote the 2026-08-08 deep-review just fixed in the live twin, and an unchecked Tononi quotation
 
 - **Type**: refine-draft

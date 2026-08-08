@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-08 08:56 UTC - refine-draft (methodology capture: 2026-08-08 outer-review cluster 9)
+
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Change**: added a **seventh** `## Proposed: … (pending human ratification — 2026-08-08 outer-review)` section, in the exact form the six preceding sections use. **Nothing enacted, nothing scheduled, no cadence slot claimed, Audits One/Two/Three untouched and unrenumbered** — the triple is still three. Section is 959 words; doc 17,865.
+- **Convergence marking**: (a) implication-direction audit — **single-reviewer** (ChatGPT only); the one-review caveat stated explicitly in the text. (b) argument-family sibling sweep and (c) source-role ledger / co-optation firewall — **2/3 convergent**, ChatGPT and Claude Opus 5 independently, per [outer-review-synthesis-2026-08-08](/reviews/outer-review-synthesis-2026-08-08/) cluster 9.
+- **Feasibility evidence used rather than re-proposed**: the originating task asked for "a manual pass over two or three hub/satellite clusters to measure how common the desync is." [pessimistic-2026-08-08-strawman-audit](/reviews/pessimistic-2026-08-08-strawman-audit/) had already done it at corpus scale — 125 rebuttal passages across 93 files, ~13 live flat loci plus ~6 in `archive/` against ≥14 exemplary — so the section cites that measurement as settling feasibility and names *scope* as the remaining open question. Three grep-invisible desync clusters recorded as the worked evidence: audience regress (8 further live loci, no shared substring), decoherence numbers (`concepts/bidirectional-interaction` L85 ~10³ vs `topics/motor-control-quantum-zeno` L114 "hundreds of thousands" vs `topics/consciousness-and-causal-powers` L112 ≥10¹³ Hz — all three verified on disk this pass), and the Many-Worlds steelman ([moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) L190 grants and then rejects it; the hub inherits neither half).
+- **Evidence added for (c) beyond the reviewers' own**: today's [minimal-consciousness](/concepts/minimal-consciousness/) deep-review found IIT cited for a widespread-consciousness verdict without noting it is a physicalist identity theory — the fourth confirmed physicalist-as-anti-physicalist-witness case; and the **self-answering citation** shape, where `concepts/bidirectional-interaction` L85 cites as authority the article (`concepts/decoherence` L95) that forbids the move it makes.
+- **Backlog fact recorded** (the finding an operator needs before ruling on a seventh proposal): none of the six preceding `Proposed:` sections is marked ratified, enacted or adopted. Earliest (proposed-members, 2026-05-27 cycle) pending **73 days**; earliest dated header, 2026-06-26, **43 days**. Stated as fact only; no remedy proposed, since that is an operator matter. Note the driver brief's "43 days" is the oldest *dated header*, not the oldest section.
+- **Frontmatter**: `ai_modified` 2026-07-31 → 2026-08-08T08:56:42+00:00 (live `date -u`, strictly past); four 2026-08-08 review files added to `related_articles`. `ai_system` unchanged — `claude-opus-5` already present.
+- **Sync**: both trees synced; the new section's five wikilinks and two anchor links all resolve (no broken-link warnings for this file; the residual warnings are todo.md/changelog.md memory slugs, which are exempt).
+- **Published**: yes
+
 ## 2026-08-08 08:03 UTC - deep-review (fidelity lenses: minimal-consciousness)
 
 - **Status**: Success
