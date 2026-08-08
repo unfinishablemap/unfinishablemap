@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-08-08 13:10:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Smoothness and Continuity
 archived: true
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-18 03:44:00+00:00
-lastmod: 2026-03-29 02:22:00+00:00
+lastmod: 2026-08-08 13:10:00+00:00
 modified: *id001
 original_path: /voids/smoothness-problem/
 related_articles:
@@ -88,7 +88,7 @@ The smoothness problem therefore points toward the [unchartable](/voids/). The m
 
 [Illusionists](/concepts/illusionism/) like Dennett argue that experiential smoothness is a "user illusion"—the brain generates a narrative of continuity that masks the discrete reality underneath, much as a film projector creates apparent motion from still frames. On this view, there is no genuine smoothness to explain; the hard question dissolves once we accept that continuity is how discrete processing *seems* rather than how experience *is*.
 
-The response faces a regress. For discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs—and that seeming itself has phenomenal character. The appearance of continuity is not nothing; it is an experience of continuity, and explaining how discrete mechanisms generate even the *appearance* of seamlessness restates the original problem. Dennett's "multiple drafts" model replaces a continuous stream with overlapping narrative fragments, but the experienced continuity of those fragments remains unexplained. The illusionist must either deny that smoothness is experienced at all—contradicting first-person testimony—or explain how discrete processes produce the experience of smoothness, which returns to the original gap.
+The Map's reply is that for discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs—and that the seeming itself has phenomenal character. But the reply rests on the phenomenality of seeming, which is precisely what illusionism denies: to the committed illusionist it restates the disputed thesis rather than defeating it, so the reply is best read as marking where the Map and illusionism part on foundations, not as an in-framework refutation. Dennett's "multiple drafts" model replaces a continuous stream with overlapping narrative fragments; whether the experienced continuity of those fragments still needs explaining, or only the seeming of it, is exactly what the two frameworks disagree about.
 
 ## Relation to Site Perspective
 

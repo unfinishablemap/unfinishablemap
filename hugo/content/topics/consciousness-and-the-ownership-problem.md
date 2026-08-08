@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-30 18:32:26+00:00
+ai_modified: 2026-08-08 13:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:45:39+00:00
-lastmod: 2026-07-30 18:32:26+00:00
+lastmod: 2026-08-08 13:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 The Map's treatment of ownership as primitive would be challenged by: (1) a successful physicalist account showing how ownership emerges from non-first-personal ingredients without circularity or regress; (2) empirical evidence of genuinely unowned experience—conscious states that belong to no subject, as opposed to states whose owner is merely unknown; (3) a demonstration that the sense of ownership is systematically illusory in a way that does not presuppose a subject for whom the illusion occurs; (4) cases where ownership genuinely transfers between subjects, showing it is detachable from any particular consciousness.
 
-None of these challenges has been met. The first faces the hard problem in a new guise. The second seems impossible to verify, since any report of experience presupposes a reporter. The third collapses into the regress problem for illusionism. The fourth would require a conception of experience without a built-in subject—which is precisely what the ownership problem says is incoherent.
+None of these challenges has been met. The first faces the hard problem in a new guise. The second seems impossible to verify, since any report of experience presupposes a reporter. The third meets the regress problem for illusionism—an objection illusionists dispute rather than concede, which leaves this challenge contested rather than closed. The fourth would require a conception of experience without a built-in subject—which is precisely what the ownership problem says is incoherent.
 
 ## Relation to Site Perspective
 

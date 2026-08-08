@@ -4,7 +4,7 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-08-08T13:10:00+00:00
 last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
 archived: true
@@ -84,7 +84,7 @@ The smoothness problem therefore points toward the [[voids|unchartable]]. The mi
 
 [[illusionism|Illusionists]] like Dennett argue that experiential smoothness is a "user illusion"—the brain generates a narrative of continuity that masks the discrete reality underneath, much as a film projector creates apparent motion from still frames. On this view, there is no genuine smoothness to explain; the hard question dissolves once we accept that continuity is how discrete processing *seems* rather than how experience *is*.
 
-The response faces a regress. For discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs—and that seeming itself has phenomenal character. The appearance of continuity is not nothing; it is an experience of continuity, and explaining how discrete mechanisms generate even the *appearance* of seamlessness restates the original problem. Dennett's "multiple drafts" model replaces a continuous stream with overlapping narrative fragments, but the experienced continuity of those fragments remains unexplained. The illusionist must either deny that smoothness is experienced at all—contradicting first-person testimony—or explain how discrete processes produce the experience of smoothness, which returns to the original gap.
+The Map's reply is that for discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs—and that the seeming itself has phenomenal character. But the reply rests on the phenomenality of seeming, which is precisely what illusionism denies: to the committed illusionist it restates the disputed thesis rather than defeating it, so the reply is best read as marking where the Map and illusionism part on foundations, not as an in-framework refutation. Dennett's "multiple drafts" model replaces a continuous stream with overlapping narrative fragments; whether the experienced continuity of those fragments still needs explaining, or only the seeming of it, is exactly what the two frameworks disagree about.
 
 ## Relation to Site Perspective
 

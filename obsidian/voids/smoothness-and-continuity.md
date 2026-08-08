@@ -4,7 +4,7 @@ description: "A double void: neural activity is discrete yet experience flows se
 created: 2026-03-01
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-06-25T12:37:52+00:00
+ai_modified: 2026-08-08T13:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ The analogy breaks down at a critical point. A display has a viewer separate fro
 
 Predictive coding can explain why we *respond* to stimuli as if the world were continuous. It cannot explain why experience *feels* continuous. Functionalism offers a deeper response: if experience is constituted by functional organisation rather than substrate properties, then the right pattern of temporal integration *just is* smooth experience. The Map rejects this for reasons developed across its treatment of [[qualia]] and the [[hard-problem-of-consciousness|hard problem]] — functional organisation specifies what a system does but not what it is like. If that rejection holds, the explanatory gap between functional smoothing and phenomenal smoothness remains.
 
-[[illusionism|Illusionists]] like Dennett argue that experiential smoothness is a "user illusion" — the brain generates a narrative of continuity that masks the discrete reality underneath. The response faces a regress. For discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs — and that seeming itself has phenomenal character. The appearance of continuity is not nothing; it is an experience of continuity, and explaining how discrete mechanisms generate even the *appearance* of seamlessness restates the original problem.
+[[illusionism|Illusionists]] like Dennett argue that experiential smoothness is a "user illusion" — the brain generates a narrative of continuity that masks the discrete reality underneath. The Map's reply is that for discrete processing to *seem* smooth, there must be a subject to whom the seeming occurs — and that the seeming itself has phenomenal character. But the reply rests on the phenomenality of seeming, which is precisely what illusionism denies: to the committed illusionist it restates the disputed thesis rather than defeating it, so the reply is best read as marking where the Map and illusionism part on foundations, not as an in-framework refutation.
 
 ## Relation to Site Perspective
 
