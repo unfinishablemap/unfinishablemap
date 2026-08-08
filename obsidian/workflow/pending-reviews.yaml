@@ -401,3 +401,33 @@
   subject_articles:
   - concepts/consciousness-value-connection.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/784153bb-9441-494b-83df-1c58598d0622
+  commissioned_at: '2026-08-08T03:11:51.498943+00:00'
+  prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
+  target_filename: outer-review-2026-08-08-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist-dualist
+    framework: consciousness is irreducible to physical processes, it influences physical
+    outcomes through minimal quantum-level interaction, and Many-Worlds is rejected
+    because indexical identity matters. Audit https://unfinishablemap.org/concepts/consciousness-value-connection/
+    in depth. Report: (1) claims the article asserts without adequate support, and
+    inferences its own material licenses but has not drawn; (2) citations and empirical
+    claims that fail verification - check representative sources at the publisher
+    rather than trusting the article''s framing; (3) counterarguments and competing
+    accounts of the consciousness-value link (reductive naturalist, functionalist,
+    error-theoretic, and non-phenomenal accounts of welfare) that the article leaves
+    untested; (4) coherence against the site''s foundational commitments and against
+    the neighbouring articles it links to. Search indices lag 24-48 hours, so consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ to account for
+    recent work search has not yet indexed. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-value-connection
+  subject_articles:
+  - concepts/consciousness-value-connection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-08-chatgpt-5-6-sol.md
