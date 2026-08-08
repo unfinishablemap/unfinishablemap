@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-08-08 13:42:47+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-08 23:27:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/phenomenal-normativity/
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 07:47:36+00:00
-lastmod: 2026-08-08 13:42:47+00:00
+lastmod: 2026-08-08 23:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,9 +144,9 @@ The [normative-void](/voids/normative-void/) extends this: if ethical perception
 
 ## Cross-Traditional Convergence
 
-The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar conclusions by routes that are largely, though not wholly, independent.
+The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar descriptions by routes that are largely, though not wholly, independent.
 
-**Buddhist vedanā.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment (Gethin 1998). Buddhist phenomenology treats evaluative character as a basic stratum of experience, not a higher-order addition.
+**Buddhist *vedanā*.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment (Gethin 1998). Buddhist phenomenology treats evaluative character as a basic stratum of experience rather than a higher-order addition. Canonically, though, *vedanā* is the condition out of which craving arises, and attending to it is meant to loosen its grip rather than certify what it presents — a [tension taken up below](#contemplative-evidence).
 
 **Neo-Confucian moral phenomenology.** Wang Yangming's *liángzhī* (innate moral knowledge) holds that moral feeling *is* moral knowledge rather than evidence requiring interpretation—paralleling Rawlette's normative qualia thesis.
 
@@ -158,7 +158,7 @@ Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both
 
 ## Contemplative Evidence
 
-[Contemplative traditions](/concepts/witness-consciousness/) provide additional data. Meditators report observing valence directly—not as attribution but as constituent of experience. Advanced meditators can attend to valence while suspending evaluative judgment; they report that valence persists even when meta-attitudes are suspended.
+[Contemplative traditions](/concepts/witness-consciousness/) provide additional data. Meditators report observing valence directly—not as attribution but as constituent of experience. Advanced meditators report that valence persists when evaluative judgment and meta-attitudes are suspended.
 
 Buddhist *vipassanā* discloses hedonic valence arising moment-to-moment as constitutive, not overlaid. A tension deserves acknowledgment: the tradition concludes that *vedanā* is conditioned and impermanent—a source of suffering when reified. Normative phenomenology can accept the observational finding (normativity is pre-reflective) without endorsing the Buddhist metaphysical conclusion. The methods of sustained attention are separable from the interpretive frameworks.
 
@@ -196,11 +196,11 @@ Meditative traditions cultivate equanimity toward pain. **Response**: equanimity
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness can bias quantum outcomes and carries normative force, value-laden choices influence physical outcomes. Evaluative qualia provide the phenomenal basis for selection: consciousness biases outcomes toward what is experienced as good, right, or fitting.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness were causally inert, we couldn't trust normative judgments to guide behaviour. The cross-traditional recurrence sharpens this: Buddhist, Confucian, Indian, and Islamic traditions all built sustained practical frameworks around evaluative phenomenal character. Discounted for shared lineage as [above](#cross-traditional-convergence), those four cases amount to near-independent recurrence rather than four separate confirmations, and the anti-epiphenomenalist point turns on the frameworks being *sustained* rather than on the tally. Traditions that organised centuries of moral and contemplative practice around evaluative character would, on the epiphenomenalist's account, have been orienting themselves by a feature that does nothing. Moral experience motivates action—people sacrifice comfort and safety because of how moral situations feel.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness were causally inert, we couldn't trust normative judgments to guide behaviour. The cross-traditional recurrence sharpens this: Buddhist, Confucian, Indian, and Islamic traditions all built sustained practical frameworks around evaluative phenomenal character. Discounted for shared lineage as [above](#cross-traditional-convergence), those four cases amount to near-independent recurrence rather than four separate confirmations, and the anti-epiphenomenalist point turns on the frameworks being *sustained* rather than on the tally. Buddhism agrees least and shows it most: a path built around interrupting feeling tone before it becomes craving treats that tone as causally potent. Traditions that organised centuries of moral and contemplative practice around evaluative character would, on the epiphenomenalist's account, have been orienting themselves by a feature that does nothing. Moral experience motivates action—people sacrifice comfort and safety because of how moral situations feel.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If evaluative qualia make genuine moral stakes possible, many-worlds threatens this by ensuring every outcome is realised. Evaluative qualia present their objects as mattering absolutely, not branch-relatively. The felt wrongness of cruelty does not present itself as "wrong-in-this-branch."
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating evaluative qualia in favour of simpler physicalist ontology would require explaining away cross-traditional convergence as mere cognitive bias. The apparent simplicity of projectivism is achieved by ignoring the primary data—what normative experience is actually like when carefully investigated.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away as mere cognitive bias the finding the cross-traditional material does support: that sustained first-person investigation keeps arriving at evaluative character as basic, across traditions whose metaphysics conflict and whose normative conclusions sometimes oppose the Map's. The apparent simplicity of projectivism is achieved by ignoring the primary data—what normative experience is actually like when carefully investigated.
 
 ## What Would Challenge This View
 
