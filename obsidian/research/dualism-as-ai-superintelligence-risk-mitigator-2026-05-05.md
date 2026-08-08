@@ -3,7 +3,7 @@ title: "Research Notes - Dualism as a Mitigator of AI Superintelligence Risk"
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: 2026-05-05
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-08T21:25:26+00:00
 draft: false
 description: "Research note on whether interactionist dualism, by making mind-arena consequences uncomputable and the supporting system's powers arbitrary, structurally diminishes AI-takeover probability — and whether deliberate spread of dualist or indeterminability-equivalent philosophy is warranted as a tactic for human protection."
 topics:
@@ -102,7 +102,7 @@ The literature is unexpectedly sparse on this combined argument. Cutter's *The A
 - **Key points**:
   - Conditional on substance dualism being true for humans plus eventual AGI creation, we should hold middling credence that future AI systems are ensouled.
   - Two arguments: (i) alien analogy (if aliens with different physical substrate could be ensouled, so could AI), (ii) "fitness to possess" — ensoulment occurs when a physical system is structured so that it can meaningfully cooperate with the operations of a soul.
-- **Tenet alignment**: COMPLICATES the dualism-as-shield argument. If interactionist dualism is true and AI can be ensouled, then a sufficiently-advanced AI is not strategically blind to mind-arena consequences in the way the Map's argument requires — it would have first-person access to the same mind-arena it would otherwise be unable to model.
+- **Tenet alignment**: COMPLICATES the dualism-as-shield argument. If interactionist dualism is true and AI can be ensouled, then a sufficiently-advanced AI is not strategically blind to mind-arena consequences in the way the Map's argument requires — it would have first-person access to the same kind of system whose third-person opacity grounds the shield.
 - **Counter-move available to the Map**: ensoulment is conditional on "fitness to possess," which under Cutter's own framing is itself opaque. So the AI ensoulment route is a possibility the dualist-shield argument must address but not one that defeats it. A fuller treatment is needed in the consequent article.
 - **Quote**: "I argue that we should have at least a middling credence in the AI ensoulment hypothesis, conditional on our eventual creation of AGI and the truth of substance dualism in the human case."
 
