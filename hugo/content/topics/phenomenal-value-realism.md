@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-08 13:42:47+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:25:20+00:00
-lastmod: 2026-08-08 13:42:47+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,7 +190,7 @@ The strongest challenge comes from [illusionism](/concepts/illusionism/): the cl
 
 Three responses bear weight.
 
-**The regress response.** For the illusion to occur, something must be deceived. If the subject is itself illusory, no one is deceived and there is no illusion; if the subject is real, it has genuine states of being-appeared-to, which are themselves phenomenal. Illusionism cannot eliminate phenomenal experience without eliminating what makes an experience illusory.
+**The regress response.** That the illusion requires someone to be deceived assumes "seeming" is itself phenomenal—precisely what illusionism denies. It marks a framework boundary rather than an in-framework refutation.
 
 **The practical response.** Illusionists take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated: the functional state generating "reports of badness" would have no normative significance, yet illusionists act as if it does.
 

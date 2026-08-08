@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-08-07T22:24:00+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ Neither point is decisive. Physicalism can explain resilience through redundant 
 
 [[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish offer a radically different interpretation. Dennett's [[multiple-drafts-model|Multiple Drafts Model]] (1991) proposes consciousness was never unified in the first place — the brain runs parallel processing streams, and the sense of unity is a retrospective narrative. If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment.
 
-The Map rejects this move. Dennett's position faces a reflexive problem: constructing a unifying narrative appears to presuppose a unified constructor. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience — the redness co-present with the shape co-present with the spatial location is given immediately, not narrated.
+The Map rejects this move, and should be clear about the grounds. The reflexive point — that constructing a unifying narrative appears to presuppose a unified constructor — assumes the seeming of unity is itself phenomenal, which is what Dennett denies; a representational system need not instantiate what it represents. Likewise, the directness of experience — the redness co-present with the shape co-present with the spatial location, given immediately rather than narrated — is the Map's datum, not a premise Dennett grants. Both mark where the frameworks part rather than refuting the model inside its own.
 
 Split-brain cases pose a specific problem for illusionism: Nagel's indeterminacy. Illusionism predicts that once we fully describe the cognitive processes, no residual puzzle remains. But full knowledge of the neural facts leaves the question of how many subjects are having experiences genuinely open.
 

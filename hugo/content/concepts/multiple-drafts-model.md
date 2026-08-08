@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-02 18:47:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 17:50:00+00:00
-lastmod: 2026-08-02 18:47:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[heterophenomenology]]'
@@ -80,7 +80,7 @@ The Map's other main argument, by contrast, is a framework-boundary one — the 
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person method; MDM is the positive model its report-data are meant to constrain
 - [illusionism](/concepts/illusionism/) — The eliminativist sibling MDM's architecture supports
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The neurally grounded successor Dennett's "cerebral celebrity" welcomes
-- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The "narrator" response: retrospective unity still presupposes a subject
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The "narrator" response, and why it marks a framework boundary rather than refuting the model
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Where the Map's framework does take on empirical risk, in contrast to the non-empirical residue commitment
 
 ## References

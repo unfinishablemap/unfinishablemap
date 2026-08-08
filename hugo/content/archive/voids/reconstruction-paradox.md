@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-24 08:35:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Selective Correction and the Reconstruction Paradox
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 23:19:00+00:00
-lastmod: 2026-03-24 08:35:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /voids/reconstruction-paradox/
 related_articles:
@@ -72,7 +72,7 @@ A computational system can have different processing modes—error correction fo
 
 The reconstruction paradox is, at its core, a reformulation of the [hard problem](/topics/hard-problem-of-consciousness/) in perceptual terms. If the brain fills in the blind spot and consciousness "sees" a complete visual field, then consciousness is receiving the output of a constructive process. The process and its recipient are functionally distinct. If they were identical—if consciousness simply *were* the neural processing—there would be no meaningful sense in which the filling-in "works." It would just be computation, with no subject to be informed or misled.
 
-The illusionist response is to deny the recipient. Dennett, Graziano, and Frankish argue that consciousness is itself a reconstruction—the brain's internal model of its own processing, systematically misrepresenting neural activity as phenomenal experience. On this view, the reconstruction paradox dissolves: there is no paradox because there is no one being fooled. But [illusionism](/concepts/illusionism/) faces a structural difficulty here. Dennett argues for *functional seemings*—dispositions to report and react—without any additional phenomenal layer. Yet the reconstruction paradox exposes exactly where this move fails: the qualitative difference between seeing a filled-in blind spot and seeing optical blur is not a disposition to report. It is a difference in what the experience is *like*. If the illusionist insists that "what it is like" is itself a functional state, then the two-mode operation still requires explanation—why does the system generate functionally distinct seemings for edited versus unedited signals? Illusionism relocates the problem rather than solving it.
+The illusionist response is to deny the recipient. Dennett, Graziano, and Frankish argue that consciousness is itself a reconstruction—the brain's internal model of its own processing, systematically misrepresenting neural activity as phenomenal experience. On this view, the reconstruction paradox dissolves: there is no paradox because there is no one being fooled. But [illusionism](/concepts/illusionism/) faces a structural difficulty here. Dennett argues for *functional seemings*—dispositions to report and react—without any additional phenomenal layer. Yet the reconstruction paradox marks where the frameworks part: the Map takes the difference between seeing a filled-in blind spot and seeing optical blur to be a difference in what the experience is *like* rather than a disposition to report, which is precisely what the illusionist denies. If the illusionist insists that "what it is like" is itself a functional state, then the two-mode operation still requires explanation—why does the system generate functionally distinct seemings for edited versus unedited signals? Illusionism relocates the problem rather than solving it.
 
 ## The Impenetrability Boundary
 

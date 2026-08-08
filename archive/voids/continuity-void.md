@@ -4,7 +4,7 @@ description: "Human+AI investigation of why consciousness cannot determine its o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-08-08T16:12:00+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T04:03:00+00:00
@@ -54,7 +54,7 @@ Philosophy of mind offers at least four accounts of [[temporal-consciousness|tem
 
 **The dissolution model** — Dennett's Multiple Drafts — challenges the question itself. Under Multiple Drafts, there is no single stream of consciousness with a determinate temporal structure. Multiple parallel processes produce content that is "edited" and "revised" without consolidating into one authoritative temporal sequence (Dennett, 1991). The question "continuous or discrete?" presupposes a Cartesian Theatre where experience plays out in a single temporal order. If no such theatre exists, the question is not irresolvable but confused.
 
-The dissolution strategy deserves serious engagement. However, it trades one void for another. If there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? For there to *seem* to be temporal succession, there must be a seeming — and that seeming has temporal structure. The Multiple Drafts model dissolves the continuity question only by denying the phenomenological datum that motivates it, which the Map regards as explanatorily costly. The void persists for anyone who takes the phenomenology of temporal flow at face value.
+The dissolution strategy deserves serious engagement. However, it trades one void for another. If there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? Pressing further — that for there to *seem* to be temporal succession there must be a seeming with temporal structure — assumes the phenomenality of seeming that the dissolution model denies, so it marks where the frameworks part rather than settling between them. The Multiple Drafts model dissolves the continuity question only by denying the phenomenological datum that motivates it, which the Map regards as explanatorily costly. The void persists for anyone who takes the phenomenology of temporal flow at face value.
 
 These frameworks have been debated for over a century without convergence. The first three make identical predictions about what experience will feel like from the inside; the fourth denies that the predictions describe anything real. The [[temporal-structure-of-consciousness|temporal structure of consciousness]] remains underdetermined by all available data.
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-29T16:20:55+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 last_deep_review: 2026-06-25T09:04:46+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ Neural correlates of binding exist. Gamma-range oscillations (30–100 Hz) corre
 
 These findings describe *when* binding occurs but not *why* synchronous firing produces unified experience. No amount of detail about the temporal pattern explains how it generates a seamless experiential field. This is the explanatory gap that appears throughout consciousness studies, but binding makes it especially vivid.
 
-A deflationary response—most associated with Dennett's Multiple Drafts model—denies that experience is unified in the way introspection suggests. On this view, the "binding void" is an artefact of folk psychology, not a genuine explanatory boundary. The Map rejects this move: denying phenomenal unity requires explaining away the most constant datum of conscious life, and the denial itself presupposes a unified perspective from which to issue it.
+A deflationary response—most associated with Dennett's Multiple Drafts model—denies that experience is unified in the way introspection suggests. On this view, the "binding void" is an artefact of folk psychology, not a genuine explanatory boundary. The Map rejects this move: denying phenomenal unity requires explaining away the most constant datum of conscious life. The further thought — that the denial itself presupposes a unified perspective from which to issue it — assumes the seeming of unity is itself phenomenal, which is precisely what the deflationary account denies, so it marks a framework boundary rather than an in-framework refutation.
 
 Integrated Information Theory attempts to formalise binding mathematically through Φ (phi)—a measure of how much a system exceeds the sum of its parts. IIT identifies necessary conditions for integration without revealing sufficient conditions for phenomenal unity. Φ measures integration. Integration is not unity.
 

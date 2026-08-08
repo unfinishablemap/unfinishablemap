@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-07 11:24:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 22:35:42+00:00
-lastmod: 2026-08-07 11:24:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ The hard problem reflects a structural feature of the relationship between first
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—poses a radical challenge to phenomenology. If Frankish and Dennett are correct, phenomenological investigation systematically catalogues misrepresentations rather than genuine features of experience.
 
-Phenomenology's response targets illusionism's core difficulty. The illusionist claim presupposes a subject to whom phenomenal properties *seem* to exist. Raymond Tallis states the point directly: illusions presuppose experience. There must be *something it's like* to have the mistaken belief that one is phenomenally conscious—but this is precisely what illusionism denies. Frankish has responded that "seeming" can be cashed out in purely functional terms—a research programme whose success remains open. (See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) for how Sartre's *pour-soi* analysis extends this argument.)
+Phenomenology's response presses the bare regress. The illusionist claim presupposes a subject to whom phenomenal properties *seem* to exist. Raymond Tallis states the point directly: illusions presuppose experience. There must be *something it's like* to have the mistaken belief that one is phenomenally conscious—but this is precisely what illusionism denies. Frankish has responded that "seeming" can be cashed out in purely functional terms—a research programme whose success remains open. (See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) for how Sartre's *pour-soi* analysis extends this argument.)
 
 The epoché reveals a structural feature of investigation itself: every inquiry occurs from a first-person perspective. The heterophenomenologist who brackets phenomenal consciousness does so from within their own phenomenal perspective—the bracketing itself is an act of consciousness. Illusionism faces the self-stultification challenge: formulating the position appears to require invoking what it denies.
 

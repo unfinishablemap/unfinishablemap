@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-12 11:07:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:07:00+00:00
-lastmod: 2026-07-12 11:07:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Explaining the belief doesn't explain the explanandum.
 
 [Illusionists](/concepts/illusionism/) argue the question of whether dualism is cognitively natural is moot—there are no phenomenal properties to be dualist or materialist *about*. On this view, we systematically misrepresent our mental states as having qualitative character they lack.
 
-The Map rejects illusionism for reasons independent of cognitive naturalness. The [regress problem](/concepts/illusionism/#the-infinite-regress-problem) applies: if mind-body distinction is an illusion, something must be *experiencing* this illusion. Keith Frankish argues that "quasi-phenomenal properties" can create the illusion of phenomenality without phenomenality itself—but this requires explaining what fixes the determinacy of representations (why "represents red" rather than "represents generic colour") and how mere functional covariation generates the *conviction* of phenomenality. Raymond Tallis (2024) presses a sharper version: if physical matter cannot generate phenomenal consciousness, it is hard to see how it could generate even the *illusion* of phenomenal consciousness, since an illusion is itself something experienced—so illusionism compounds the hard problem rather than dissolving it.
+The Map rejects illusionism for reasons independent of cognitive naturalness. The [bare regress](/concepts/illusionism/#the-infinite-regress-problem)—that if the mind-body distinction is an illusion, something must be *experiencing* it—assumes "seeming" is itself phenomenal, which is what illusionism denies, so it marks a framework boundary rather than a refutation. The substantive pressure is elsewhere. Keith Frankish argues that "quasi-phenomenal properties" can create the illusion of phenomenality without phenomenality itself—but this requires explaining what fixes the determinacy of representations (why "represents red" rather than "represents generic colour") and how mere functional covariation generates the *conviction* of phenomenality. Raymond Tallis (2024) presses a causal version: if physical matter cannot generate phenomenal consciousness, it is hard to see how it could generate even the *illusion* of phenomenal consciousness, since an illusion is itself something experienced. That version inherits the same assumption about seeming, so the Map runs it as marking the disagreement rather than settling it.
 
 Contemplative evidence also weighs against illusionism. Trained meditators report that practice *refines* phenomenal access rather than dissolving the illusion. Fox et al. (2012) found meditation experience predicts introspective accuracy on objective measures, not merely increased confidence. See [illusionism](/concepts/illusionism/) for full analysis.
 

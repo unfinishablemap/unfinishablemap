@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-07-29 12:15:54+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:57:00+00:00
-lastmod: 2026-07-29 12:15:54+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -123,7 +123,7 @@ Phenomenal unity also bears on the [combination problem](/concepts/combination-p
 
 **Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [binding-problem](/concepts/binding-problem/) for detailed analysis of classical and quantum binding mechanisms.
 
-**[Multiple Drafts](/concepts/multiple-drafts-model/)** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response: even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed, relocating rather than dissolving the unity problem.
+**[Multiple Drafts](/concepts/multiple-drafts-model/)** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response presses that even post-hoc narrative requires a narrator—that the retrospective construction presupposes a subject for whom the narrative is constructed. But that objection assumes the seeming of unity is itself phenomenal, which is what the model denies; a representational system need not instantiate what it represents. It marks where the Map and Dennett part on foundations rather than refuting the model inside its own framework.
 
 **[Integrated Information Theory](/concepts/integrated-information-theory/)** identifies consciousness with information integration (Φ). High integration would constitute unity. But this redefines unity as integration without explaining why integration produces phenomenal unity rather than computational coordination without experience.
 

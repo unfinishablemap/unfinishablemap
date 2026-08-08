@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-16 13:43:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Temporal Consciousness
 archived: true
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-16 13:43:00+00:00
-lastmod: 2026-02-16 13:43:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /concepts/temporal-unity/
 related_articles:
@@ -91,7 +91,7 @@ Temporal unity can degrade or disappear, revealing its contingent dependence on 
 
 **Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
 
-These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [Illusionists](/concepts/illusionism/) argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing, generating the same explanatory demand at a higher level (see [the regress argument](/concepts/illusionism/#the-infinite-regress-problem)).
+These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [Illusionists](/concepts/illusionism/) argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing — but that assumes the seeming is itself phenomenal, which illusionism denies, so it marks a framework boundary rather than an in-framework refutation (see [the regress argument](/concepts/illusionism/#the-infinite-regress-problem)).
 
 ## Relation to Site Perspective
 

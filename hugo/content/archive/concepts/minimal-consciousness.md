@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 11:10:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Consciousness in Simple Organisms
 archived: true
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-22 06:00:00+00:00
-lastmod: 2026-08-08 11:10:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /concepts/minimal-consciousness/
 related_articles:
@@ -167,7 +167,7 @@ The Map rejects illusionism for reasons detailed on its [dedicated page](/concep
 
 If consciousness is an illusion, the brain generates systematic misrepresentations that *seem* phenomenal. But this illusion-generating machinery presumably requires some neural complexity. A 302-neuron system like *C. elegans* seems an implausible candidate for generating the sophisticated introspective misrepresentations illusionism requires. Either the worm is not under the illusion of consciousness (in which case there's a threshold for the illusion, raising the same questions as thresholds for consciousness itself), or the illusion requires far less machinery than consciousness realists assume (raising the question of why evolution would build elaborate illusion-generators at such minimal complexity).
 
-Raymond Tallis's regress objection applies: illusions presuppose experience. For an organism to be under the illusion of phenomenal experience, something must present the illusion *to* something—and that something is doing the experiencing illusionists claim doesn't exist. The minimal consciousness cases make this regress vivid: in a 302-neuron system, where is the meta-representational machinery generating the illusion, and what is experiencing it?
+Raymond Tallis presses the bare regress here: illusions presuppose experience, so for an organism to be under the illusion of phenomenal experience something must present the illusion *to* something. But the regress assumes "seeming" is itself phenomenal, precisely what illusionists deny: a representational system need not instantiate what it represents. It marks a framework boundary rather than an in-framework refutation. The minimal consciousness cases sharpen the in-framework question instead: in a 302-neuron system, where is the meta-representational machinery generating the illusion?
 
 The mysterian alternative deserves consideration here. [Colin McGinn's cognitive closure hypothesis](/concepts/mysterianism/) suggests we may be permanently unable to understand how consciousness relates to neural activity—not because the problem is supernatural but because our conceptual apparatus lacks the resources. The *C. elegans* case exemplifies this: we possess complete structural knowledge of 302 neurons yet cannot determine whether the worm experiences anything. Complete knowledge doesn't bridge the gap. This is what cognitive closure looks like empirically—we map everything and understand nothing about what matters most.
 

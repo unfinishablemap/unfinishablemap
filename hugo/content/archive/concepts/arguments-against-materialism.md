@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-02 02:41:53+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Case for Dualism
 archived: true
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 18:09:00+00:00
-lastmod: 2026-08-02 02:41:53+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /concepts/arguments-against-materialism/
 related_articles:
@@ -157,7 +157,7 @@ Physicalists have developed several responses:
 
 **[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them—consciousness is a kind of illusion. This is the most radical physicalist response and deserves careful engagement. Keith Frankish and Daniel Dennett argue that we *seem* to have experiences with special qualitative properties, but this seeming is itself a functional misrepresentation—not a phenomenal experience of an illusion.
 
-The illusionist trades the hard problem for what Frankish calls the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious when we're not. This may not be easier. Raymond Tallis argues illusionism is self-stultifying: illusions presuppose experience. To be under an illusion, something must be experiencing it. The seeming is the phenomenon that needs explaining. Even Dennett's heterophenomenology—which treats phenomenal reports as mere data about "how things seem"—must acknowledge that *seeming* itself resists deflationary analysis.
+The illusionist trades the hard problem for what Frankish calls the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious when we're not. This may not be easier. Raymond Tallis argues illusionism is self-stultifying: illusions presuppose experience, so to be under an illusion something must be experiencing it. That argument assumes the seeming is itself phenomenal, which illusionism denies, so it marks a framework boundary rather than an in-framework refutation. Dennett's heterophenomenology—which treats phenomenal reports as mere data about "how things seem"—still owes an account of *seeming* that the deflationary vocabulary does not yet supply.
 
 **The Ability Hypothesis** claims Mary gains new abilities (to imagine, recognize, remember red) rather than new facts. But abilities supervene on facts; if her abilities changed, something factual changed.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 21:18:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into When Consciousness Fragments
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-04 21:18:00+00:00
-lastmod: 2026-03-04 21:18:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /topics/fragmented-consciousness/
 related_articles:
@@ -81,7 +81,7 @@ Daniel Dennett's Multiple Drafts Model (1991) offers a more radical position: co
 
 If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment. The question dissolves.
 
-The Map rejects this move. Dennett's position faces a reflexive problem: the very act of constructing a unifying narrative appears to presuppose a unified constructor. Dennett replies that distributed processes need not be phenomenally unified to produce functionally coordinated output — but this reply shifts the question rather than answering it. Functional coordination of multiple drafts into a single coherent narrative still requires *something* doing the coordinating, and that coordinating process exhibits the very unity Dennett denies. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience. The unity of a visual scene — the redness co-present with the shape co-present with the spatial location — is not something inferred or narrated. It is given immediately. Calling it an illusion without explaining what is having the illusion merely relocates the problem.
+The Map rejects this move. Dennett's position faces a reflexive problem: the very act of constructing a unifying narrative appears to presuppose a unified constructor. Dennett replies that distributed processes need not be phenomenally unified to produce functionally coordinated output — and pressing further, that functional coordination of multiple drafts still requires *something* doing the coordinating, assumes the seeming of unity is itself phenomenal, which is what Dennett denies. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience. The unity of a visual scene — the redness co-present with the shape co-present with the spatial location — is not something inferred or narrated. It is given immediately. That directness is the Map's datum rather than a premise Dennett grants, so the disagreement marks where the frameworks part rather than refuting the model inside its own.
 
 ## What Fragmentation Actually Shows
 

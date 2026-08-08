@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-08 16:12:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-08-08 16:12:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ The framework is speculative, requiring: (1) collapse realism; (2) consciousness
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue temporal flow is a "user illusion." Several responses challenge this. First, for there to *seem* to be temporal flow, there must be a seeming with temporal structure—appearance is itself phenomenal. Second, trained [introspection](/concepts/introspection/) *refines* rather than *dissolves* temporal phenomenology; meditators perceive *finer* temporal structure, not fabrication. Third, while consciousness can be wrong about *when* events occur, no experiment has shown succession absent while seeming present—illusionism requires the stronger claim that temporal extension itself is illusory. Tallis (2024) presses the regress point directly: to call temporal flow an illusion presupposes a subject for whom the illusion unfolds over time, smuggling back the very temporal phenomenology the position aims to deflate.
+[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue temporal flow is a "user illusion." Three responses bear on the claim. First, the bare regress—that for there to *seem* to be temporal flow there must be a seeming with temporal structure, which Tallis (2024) presses directly—assumes appearance is itself phenomenal, precisely what illusionists deny. It marks where the Map and illusionism part on foundations rather than refuting the position inside its own framework. Second, trained [introspection](/concepts/introspection/) *refines* rather than *dissolves* temporal phenomenology; meditators perceive *finer* temporal structure, not fabrication. Third, while consciousness can be wrong about *when* events occur, no experiment has shown succession absent while seeming present—illusionism requires the stronger claim that temporal extension itself is illusory.
 
 ## Implications for Machine Consciousness
 

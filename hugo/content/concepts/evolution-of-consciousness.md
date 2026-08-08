@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-07-30 15:08:07+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-07-30 15:08:07+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 
-If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. But "seeming" presupposes a subject to whom things seem. Raymond Tallis's regress objection applies: illusions presuppose experience. The appearance of experience must appear *to* something—and that something is doing the experiencing illusionists claim doesn't exist.
+If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. Raymond Tallis presses the bare regress here—illusions presuppose experience, so the appearance of experience must appear *to* something. But the regress assumes "seeming" is itself phenomenal, precisely what illusionists deny: a representational system need not instantiate what it represents, as a map represents terrain without being mountainous. It marks where the Map and illusionism part on foundations rather than refuting illusionism inside its own framework.
 
 Moreover, explaining why evolution produced such a powerful, universal illusion is itself a major explanatory burden. Why would natural selection craft organisms that systematically misrepresent their own cognition? If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
 

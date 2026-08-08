@@ -4,7 +4,7 @@ description: "A double void: neural activity is discrete yet experience flows se
 created: 2026-03-01
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-08-08T16:12:00+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ Bergson warned that the conceptual vocabulary of this debate prejudices its outc
 
 Philosophy of mind offers at least four accounts of [[temporal-consciousness|temporal consciousness]], all compatible with the same first-person evidence. **The cinematic model** treats experience as rapid static snapshots. **The retentional model** (Husserl) gives each moment internal temporal structure — retention, primal impression, protention — making moments temporally thick without requiring mathematical continuity. **The extensional model** (Dainton, Russell) holds that experience genuinely spans intervals, with the specious present as a real temporal window. (For detailed treatment, see [[temporal-consciousness]].)
 
-**The dissolution model** — Dennett's Multiple Drafts — challenges the question itself. Under Multiple Drafts, there is no single stream of consciousness with a determinate temporal structure. Multiple parallel processes produce content that is "edited" and "revised" without consolidating into one authoritative temporal sequence. The dissolution strategy trades one void for another: if there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? For there to *seem* to be temporal succession, there must be a seeming — and that seeming has temporal structure.
+**The dissolution model** — Dennett's Multiple Drafts — challenges the question itself. Under Multiple Drafts, there is no single stream of consciousness with a determinate temporal structure. Multiple parallel processes produce content that is "edited" and "revised" without consolidating into one authoritative temporal sequence. The dissolution strategy trades one void for another: if there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? Pressing further — that for there to *seem* to be temporal succession there must be a seeming with temporal structure — assumes the phenomenality of seeming that the dissolution model denies, so it marks where the frameworks part rather than settling between them ([[#Why Physical Smoothing Falls Short|below]]).
 
 These frameworks have been debated for over a century without convergence. The first three make identical predictions about what experience will feel like from the inside; the fourth denies that the predictions describe anything real. When traditions using different methods, different conceptual frameworks, and different starting assumptions all struggle with the same question for millennia, the difficulty is likely in the territory rather than the explorer.
 

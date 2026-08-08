@@ -4,7 +4,7 @@ description: "Dennett's Multiple Drafts Model rejects the Cartesian Theater. The
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 topics:
   - "[[eliminative-materialism]]"
@@ -72,7 +72,7 @@ The Map's other main argument, by contrast, is a framework-boundary one — the 
 - [[heterophenomenology]] — Dennett's third-person method; MDM is the positive model its report-data are meant to constrain
 - [[illusionism]] — The eliminativist sibling MDM's architecture supports
 - [[global-workspace-theory]] — The neurally grounded successor Dennett's "cerebral celebrity" welcomes
-- [[unity-of-consciousness]] — The "narrator" response: retrospective unity still presupposes a subject
+- [[unity-of-consciousness]] — The "narrator" response, and why it marks a framework boundary rather than refuting the model
 - [[falsification-roadmap-for-the-interface-model]] — Where the Map's framework does take on empirical risk, in contrast to the non-empirical residue commitment
 
 ## References

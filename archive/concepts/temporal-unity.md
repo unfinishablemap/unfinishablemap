@@ -4,7 +4,7 @@ description: "Experience is unified across time, not just within moments. Tempor
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-16T13:43:00+00:00
+ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ Temporal unity can degrade or disappear, revealing its contingent dependence on 
 
 **Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
 
-These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [[illusionism|Illusionists]] argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing, generating the same explanatory demand at a higher level (see [[illusionism#The Infinite Regress Problem|the regress argument]]).
+These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [[illusionism|Illusionists]] argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing — but that assumes the seeming is itself phenomenal, which illusionism denies, so it marks a framework boundary rather than an in-framework refutation (see [[illusionism#The Infinite Regress Problem|the regress argument]]).
 
 ## Relation to Site Perspective
 

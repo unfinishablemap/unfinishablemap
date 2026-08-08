@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-07-06 20:50:45+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:29:31+00:00
-lastmod: 2026-07-06 20:50:45+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ The computational account explains *how* the brain decides what to correct, what
 
 This makes the reconstruction paradox a perceptual reformulation of the [hard problem](/topics/hard-problem-of-consciousness/). The experiential difference transforms the brain's three-mode architecture from a neuroscience finding into a philosophical concept. The brain curates a feed for consciousness — sometimes editing, sometimes transmitting raw signal, sometimes presenting alternatives for settlement — and the curation implies a recipient whose experience the curation shapes. If consciousness simply *were* the neural processing, there would be no meaningful sense in which blind spot filling "works." It would just be computation with no subject to be informed or misled.
 
-The [illusionist](/concepts/illusionism/) response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [heterophenomenology](/concepts/heterophenomenology/) would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [phenomenal](/concepts/phenomenal-consciousness/) difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates three distinct types of functional seeming — one for edited signals, one for raw transmission, one for selection under ambiguity — and the existence of this functional differentiation demands explanation. A thermostat operates in two modes (heating, cooling) without generating distinct experiential states for each. The brain's three-mode processing would be equally unremarkable if it produced no qualitative difference. The fact that it does — that blind-spot filling *feels* seamless, blur *feels* degraded, and the Necker reversal *feels* like a discrete switch — is precisely the datum that functional accounts must explain rather than redescribe. Why does the system bother generating distinct functional states for its three processing modes, if no one is there to be informed?
+The [illusionist](/concepts/illusionism/) response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [heterophenomenology](/concepts/heterophenomenology/) would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [phenomenal](/concepts/phenomenal-consciousness/) difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates three distinct types of functional seeming — one for edited signals, one for raw transmission, one for selection under ambiguity — and the existence of this functional differentiation demands explanation. A thermostat operates in two modes (heating, cooling) without generating distinct experiential states for each. The brain's three-mode processing would be equally unremarkable if it produced no qualitative difference. The fact that it does — that blind-spot filling *feels* seamless, blur *feels* degraded, and the Necker reversal *feels* like a discrete switch — is precisely the datum that functional accounts must explain rather than redescribe. Why does the system bother generating distinct functional states for its three processing modes at all?
 
 ## Cognitive Impenetrability and Phenomenal Transparency
 

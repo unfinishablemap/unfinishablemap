@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 00:51:00+00:00
+ai_modified: 2026-08-08 17:26:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Selective Correction and the Reconstruction Paradox
 archived: true
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-23 00:51:00+00:00
-lastmod: 2026-03-23 00:51:00+00:00
+lastmod: 2026-08-08 17:26:00+00:00
 modified: *id001
 original_path: /concepts/selective-perceptual-correction/
 related_articles:
@@ -81,7 +81,7 @@ The computational account explains *how* the brain decides what to correct. It d
 
 This experiential difference is what transforms selective perceptual correction from a neuroscience finding into a philosophical concept. The brain curates a feed for consciousness—sometimes editing, sometimes transmitting raw signal—and the curation implies a recipient whose experience the curation shapes. If consciousness simply *were* the neural processing, there would be no meaningful sense in which blind spot filling "works." It would just be computation with no subject to be informed or misled.
 
-The [illusionist](/concepts/illusionism/) response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [heterophenomenology](/concepts/heterophenomenology/) would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [phenomenal](/concepts/phenomenal-consciousness/) difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates two distinct types of functional seeming—one for edited signals, one for raw transmission—and the existence of this functional bifurcation demands explanation. Why does the system bother generating distinct functional states for its two processing modes, if no one is there to be informed?
+The [illusionist](/concepts/illusionism/) response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [heterophenomenology](/concepts/heterophenomenology/) would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [phenomenal](/concepts/phenomenal-consciousness/) difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates two distinct types of functional seeming—one for edited signals, one for raw transmission—and the existence of this functional bifurcation demands explanation. Why does the system bother generating distinct functional states for its two processing modes at all?
 
 ## Relation to Site Perspective
 
