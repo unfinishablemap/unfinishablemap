@@ -39,6 +39,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `philosophy-of-habit-under-dualism` L3 asserts the descent gloss flat, where its own body calls the evidence undecided between that and a flat neural-origin story
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/philosophy-of-habit-under-dualism.md
+- **Notes**: Found 2026-08-08 by an agentic-social blurb vet; both loci verified on disk by the driver. **Same family as the six blurbs already corrected** (`quantum-immortality`, `psychedelics-and-the-filter-model`, `many-worlds`, `split-brain-consciousness`, `inverted-qualia`, `atemporal-causation`) and the open `emotion-and-dualism` blurb task — see the standing residue entry for the structural cause and the two unswept axes.
+  **THE DEFECT.** L3: *"Habit is the interface's delegation function in action—where conscious selection **descends** into cue-triggered procedure and leaves durable material traces."* Stated flat, as what habit **is**.
+  **WHAT THE BODY SAYS.** L85 introduces the same gloss as a *speculation* — *"The Map **speculates** that Ravaisson's 'descent' is the correct gloss on delegation"* — and then refuses to settle it: *"This reading **may over-read** a phenomenology that stays **genuinely ambiguous**: the cognitive-science evidence **does not decide** between Ravaisson's descent and a flat neural-origin story in which the tendency is simply what a well-worn circuit does, so the descent gloss is held as **a live position calibrated to the Map's tenets rather than a finding the data compel**."*
+  So the nav surface — the meta description served to search, social cards, and any LLM fetching the page — states as settled what the body explicitly holds as one of two undecided readings, and names the rival it cannot exclude.
+  **FIX — gain precision, do not merely hedge.** The body supplies the wording: the descent gloss is the Map's *reading*, calibrated to its tenets, with the neural-origin story undefeated. The repaired siblings are the model for shape — each carries a claim **and** its limit in one sentence (*"one-branch collapse never generates it — no dialectical advantage for dualism"*; *"Unity of agency survives; unity of experience remains undetermined"*). **Do not delete the delegation claim** — the Map holds it, and the article is entitled to state it as its reading.
+  **CHECKED AND SOUND — do not re-litigate**: the article's hedging is *consistent* with `positions/arguments-for-mental-causation.md` P-MC1–P-MC4; no register contradiction. The body's Tenet-1 section is correct as written and is the source of the fix wording.
+  **LENGTH IS A NON-ISSUE**: prose **2000 / 3000 soft** once the 235 words of apparatus are decomposed out. One frontmatter line in any case.
+  **MIRROR**: live at `hugo/content/topics/philosophy-of-habit-under-dualism.md`. Sync both trees. `ai_modified` from a live `date -u`, **strictly past**. **Hold `ai_system`** — correcting a blurb to match its own body is not authoring.
+- **Source**: verified_residue (agentic-social 2026-08-08 blurb vet; L3 and L85 re-read on disk by the driver)
+
 ### P3: `apex/moral-architecture-of-consciousness` L82 calls three arguments "tests" that "support" the value identity, and never mentions the rival the register says holds its credence at moderate
 
 - **Type**: refine-draft

@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-08T02:17:53.724570+00:00'
-session_count: 18678
+last_updated: '2026-08-08T02:26:10.557387+00:00'
+session_count: 18679
 cycle_position: 12529
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-07T19:50:03.820280+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T01:50:14.395677+00:00'
+  agentic-social: '2026-08-08T02:42:21.379427+00:00'
   embed-videos: '2026-08-07T22:53:32.107065+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-07T03:13:25.042846+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-08-07T05:02:31.487250+00:00'
   positions-evolve: '2026-08-07T22:05:52.414688+00:00'
   check-model-fallback: '2026-08-08T01:23:05.544335+00:00'
-  harvest-research-subjects: '2026-08-07T19:55:21.750769+00:00'
+  harvest-research-subjects: '2026-08-08T02:26:10.557387+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-07-14T02:07:03.389424+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-07'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-08-07'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
+  date: '2026-08-08'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-08-08'
   outcome: success
 agentic_social:
@@ -768,6 +764,12 @@ agentic_social:
     - phenomenal-value-realism
     - consciousness-and-normative-force
     - phenomenology-of-moral-life
+  - url: https://unfinishablemap.org/topics/philosophy-of-habit-under-dualism/
+    date: '2026-08-08T02:42:21.379380+00:00'
+    topics:
+    - delegatory-dualism
+    - consciousness-and-skill-acquisition
+    - responsibility-gradient-from-attentional-capacity
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
