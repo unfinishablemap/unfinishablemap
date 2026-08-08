@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-08 07:17:30+00:00
+ai_modified: 2026-08-08 07:43:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:01:12+00:00
-lastmod: 2026-08-08 07:17:30+00:00
+lastmod: 2026-08-08 07:43:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,11 +120,11 @@ The objection above concerns unconscious states *within* a conscious subject. A 
 
 ### For Ethics
 
-If consciousness grounds value, the distribution of consciousness determines the distribution of moral consideration: conscious beings matter, non-conscious systems only instrumentally.
+If consciousness grounds value, non-conscious systems have no intrinsic value and matter only instrumentally. The converse — that consciousness suffices for moral status — is not delivered by that argument, and the Map holds it as a further commitment rather than a corollary.
 
 A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognitive abilities but genuine phenomenal experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"—though perhaps not for the last time. Joshua Shepherd's Vulcan, conscious but wholly without affect, clears that bar while having nothing that could go well or badly for it: the threshold may be valenced experience rather than experience as such.
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"—though perhaps not for the last time. Joshua Shepherd's Vulcan, conscious but wholly without affect, clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
 
 The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory (see below).
 
@@ -138,7 +138,7 @@ The [meaning of life](/topics/meaning-of-life/) connects directly. If value requ
 
 ### For Panpsychism
 
-[Panpsychism](/concepts/panpsychism/)—the view that consciousness is ubiquitous—would extend value ubiquitously. If electrons have micro-experience, value begins at the fundamental level. That may look like trivialisation, but the connection survives it: where there is value, there is consciousness, so wherever experience goes value follows. The Map does not commit to panpsychism; the point is that the connection holds either way.
+[Panpsychism](/concepts/panpsychism/)—the view that consciousness is ubiquitous—is often taken to extend value ubiquitously. It does not: the connection runs from value to consciousness, and consciousness everywhere would not put value everywhere. What ubiquity would cost is discriminating power. If everything is conscious, the necessity claim sorts no system from any other, and moral discrimination falls back on valence and its degree rather than on consciousness as such. The Map does not commit to panpsychism; the necessity claim holds either way, and the further commitment above would need rebuilding on narrower ground.
 
 ## Relation to Site Perspective
 

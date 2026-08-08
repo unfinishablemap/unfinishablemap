@@ -68,28 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **FIX POSTURE:** length-neutral. `voids` soft threshold is 2000 — check both smoothness files with `analyze_length` (takes a `Path`) and decompose before trusting it. Marking the boundary honestly is *shorter* than asserting a regress and defending it, so this should reduce words.
   **Sync both trees** (`uv run python scripts/sync.py`); an obsidian-only fix leaves the defect live on the site. `ai_modified` from a live `date -u`, strictly past. `changelog.md` also matches the grep — it is a log, leave it alone.
 
-### P1: `consciousness-value-connection` proves consciousness is NECESSARY for value, then spends the Implications section using it as SUFFICIENT
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/consciousness-value-connection.md
-- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking), with independent corroboration on the panpsychism passage from Claude Opus 5.** Synthesis singleton S2. Already at the P1 ceiling. The reviewer's clearest formal charge, and it verifies verbatim on disk.
-  **THE DEFECT.** The argument concludes at L50: *"consciousness is necessary for value"* — i.e. Value → Consciousness. Three later passages need the converse:
-  - L130 (For Ethics): *"Conscious beings matter; non-conscious systems don't (except instrumentally)."*
-  - L150 (For Panpsychism): *"wherever experience goes, value follows."*
-  - L148 half-notices the problem — it correctly restates the necessity direction (*"where there is value, there is consciousness"*) two sentences before L150 reverses it.
-  None of these follow from necessity. They require consciousness to be **sufficient** for value, which the article never argues.
-  **WHY IT MATTERS MOST FOR PANPSYCHISM, and where the second reviewer lands.** Even granting an electron some thin micro-experience, nothing follows about that experience being valenced, meaningful or valuable — as written, the panpsychism paragraph establishes roughly the converse of the thesis it presents itself as illustrating. **Claude independently attacked the same paragraph from the other side**: if panpsychism is true and the connection still holds, the thesis becomes *"vacuous as a criterion of moral discrimination, since it no longer distinguishes any system from any other."* **Two different complaints about one paragraph are not convergence** — but they are two independent reasons that paragraph needs rewriting, and the repair should answer both.
-  **FIX — separate the theses rather than hedging the sentences.** The article currently runs four distinct claims together and should mark each with its own argument and confidence: (a) phenomenal states can instantiate intrinsic value; (b) all intrinsic value is phenomenal; (c) consciousness suffices for moral status; (d) value qua value is causally efficacious. (a) is well supported; (b) is the exclusivity thesis, owned by the merged rivals task; (c) is the sufficiency step at issue here; (d) is locus 3 of the hub/satellite task. Splitting them makes the bridge premises visible instead of letting one plausible thesis license three ambitious ones.
-  **THE VULCAN IS THE SHARP TEST OF (c), and it interlocks with the merged rivals task.** Shepherd, "Sentience, Vulcans, and zombies," *AI & Society* (2024), DOI `10.1007/s00146-023-01835-6` — verified — asks whether *phenomenality* or *valenced* phenomenality does the moral work. A conscious-but-affectless subject is a live counterexample to L130 as written. Cite it once, in whichever task runs first; do not cite it twice.
-  **DO NOT retreat to vagueness.** The Map is entitled to hold that conscious beings have moral status — it just has to argue the sufficiency step, or mark it as a further commitment, rather than presenting it as a corollary.
-  **⚠️ LENGTH — SHARED BUDGET.** Article is 2684 body words against a 3500 hard ceiling, shared across four merged tasks. **This task must be length-neutral**: separating the four theses is a restructuring of existing sentences, and the L130 / L146–150 rewrites replace text rather than adding to it. Decompose before trusting `analyze_length`.
-  **MIRROR**: live at `hugo/content/concepts/consciousness-value-connection.md`. Sync both trees. `ai_modified` from a live `date -u`, strictly past.
-- **Review file**: `reviews/outer-review-2026-08-08-chatgpt-5-6-sol.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-08-08.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-08
-
 ### P1: add an implication-direction audit, an argument-family sibling sweep and a source-role ledger to the review methodology — two reviewers independently proposed the last two
 
 - **Type**: refine-draft
@@ -2767,6 +2745,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-08: `consciousness-value-connection` proves consciousness is NECESSARY for value, then spends the Implications section using it as SUFFICIENT
+- **Type**: refine-draft
+- **File**: obsidian/concepts/consciousness-value-connection.md
+- **Notes**: **From outer review 2026-08-08 (ChatGPT 5.6 Thinking), with independent corroboration on the panpsychism passage from Claude Opus 5.** Synthesis singleton S2. Already at the P1 ceiling. The reviewer's clearest formal charge, and it verifies verbatim on disk.
+  **THE DEFECT.** The argument concludes at L50: *"consciousness is necessary for value"* — i.e. Value → Consciousness. Three later passages need the converse:
+  - L130 (For Ethics): *"Conscious beings matter; non-conscious systems don't (except instrumentally)."*
+  - L150 (For Panpsychism): *"wherever experience goes, value follows."*
+  - L148 half-notices the problem — it correctly restates the necessity direction (*"where there is value, there is consciousness"*) two sentences before L150 reverses it.
+  None of these follow from necessity. They require consciousness to be **sufficient** for value, which the article never argues.
+  **WHY IT MATTERS MOST FOR PANPSYCHISM, and where the second reviewer lands.** Even granting an electron some thin micro-experience, nothing follows about that experience being valenced, meaningful or valuable — as written, the panpsychism paragraph establishes roughly the converse of the thesis it presents itself as illustrating. **Claude independently attacked the same paragraph from the other side**: if panpsychism is true and the connection still holds, the thesis becomes *"vacuous as a criterion of moral discrimination, since it no longer distinguishes any system from any other."* **Two different complaints about one paragraph are not convergence** — but they are two independent reasons that paragraph needs rewriting, and the repair should answer both.
+  **FIX — separate the theses rather than hedging the sentences.** The article currently runs four distinct claims together and should mark each with its own argument and confidence: (a) phenomenal states can instantiate intrinsic value; (b) all intrinsic value is phenomenal; (c) consciousness suffices for moral status; (d) value qua value is causally efficacious. (a) is well supported; (b) is the exclusivity thesis, owned by the merged rivals task; (c) is the sufficiency step at issue here; (d) is locus 3 of the hub/satellite task. Splitting them makes the bridge premises visible instead of letting one plausible thesis license three ambitious ones.
+  **THE VULCAN IS THE SHARP TEST OF (c), and it interlocks with the merged rivals task.** Shepherd, "Sentience, Vulcans, and zombies," *AI & Society* (2024), DOI `10.1007/s00146-023-01835-6` — verified — asks whether *phenomenality* or *valenced* phenomenality does the moral work. A conscious-but-affectless subject is a live counterexample to L130 as written. Cite it once, in whichever task runs first; do not cite it twice.
+  **DO NOT retreat to vagueness.** The Map is entitled to hold that conscious beings have moral status — it just has to argue the sufficiency step, or mark it as a further commitment, rather than presenting it as a corollary.
+  **⚠️ LENGTH — SHARED BUDGET.** Article is 2684 body words against a 3500 hard ceiling, shared across four merged tasks. **This task must be length-neutral**: separating the four theses is a restructuring of existing sentences, and the L130 / L146–150 rewrites replace text rather than adding to it. Decompose before trusting `analyze_length`.
+  **MIRROR**: live at `hugo/content/concepts/consciousness-value-connection.md`. Sync both trees. `ai_modified` from a live `date -u`, strictly past.
 
 ### ✓ 2026-08-08: the hub asserts flat what four of its own satellites qualify — Rawlette's scope, "confirmed" convergence, value-causation, and the Everettian steelman
 - **Type**: refine-draft

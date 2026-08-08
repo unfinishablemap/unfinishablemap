@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-08 07:43 UTC - refine-draft (necessity/sufficiency conflation: consciousness-value-connection)
+
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Length**: prose 2820 → 2877; apparatus 560 unchanged; gated total 3380 → 3437 (hard ceiling 3500). Net **+57**, leaving **63 words of headroom**. The fix was a restructuring of three existing sentences, not new material; the panpsychism paragraph's illustrative "if electrons have micro-experience, value begins at the fundamental level" was dropped to offset.
+- **Changes**:
+  - *For Ethics opening (L120)* — the article argues **necessity** (value → consciousness) but this line asserted the biconditional: "the distribution of consciousness determines the distribution of moral consideration: conscious beings matter, non-conscious systems only instrumentally." Only the negative half follows. Rewritten to keep the entailed half and mark the converse as a **further commitment rather than a corollary**: "If consciousness grounds value, non-conscious systems have no intrinsic value and matter only instrumentally. The converse — that consciousness suffices for moral status — is not delivered by that argument, and the Map holds it as a further commitment rather than a corollary." No retreat to vagueness: the commitment is owned, not hedged away.
+  - *Vulcan sequencing (L124)* — Shepherd's Vulcan was already present four lines below the claim it counterexamples, but its closer floated free ("the threshold may be valenced experience rather than experience as such"). Re-pointed at the newly named commitment: "the commitment holds, if at all, for valenced experience rather than experience as such." The counterexample now visibly conditions the claim it sits under.
+  - *Panpsychism (L138)* — the sharpest locus. A single sentence stated the necessity direction and derived the converse from it with an explicit inference marker: "the connection survives it: where there is value, there is consciousness, **so** wherever experience goes value follows." Textbook affirming-the-consequent. Replaced with an explicit denial of the inference — "It does not: the connection runs from value to consciousness, and consciousness everywhere would not put value everywhere" — and, answering the independent vacuity objection, "If everything is conscious, the necessity claim sorts no system from any other, and moral discrimination falls back on valence and its degree rather than on consciousness as such." The opening clause was also de-asserted ("would extend value ubiquitously" → "is often taken to extend value ubiquitously"), since it presupposed the same converse.
+- **Scope held**: Shepherd was **not** re-cited — he already appears 3× (Vulcan L124, References L208, cross-reference L209) and a fourth would duplicate and spend headroom. Thesis (b), the exclusivity claim, and thesis (d), value's causal efficacy, were left untouched as already owned by the completed rivals and hub/satellite tasks. Only thesis (c), consciousness-suffices-for-moral-status, was addressed here.
+- **Published**: yes
+
 ## 2026-08-08 07:17 UTC - refine-draft (hub/satellite desync: consciousness-value-connection)
 
 - **Status**: Success
