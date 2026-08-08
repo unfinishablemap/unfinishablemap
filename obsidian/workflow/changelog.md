@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-07T21:58:00+00:00'
+ai_modified: '2026-08-08T00:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-08 00:55 UTC - check-tenets (zero contradictions; Family T/U resolved; both queued directives null)
+
+- **Status**: Success
+- **Files checked**: 793 obsidian article-tree, 514 archive, 9125 hugo
+- **Errors**: 0
+- **Warnings**: 2 loci (one family, folded into an existing task rather than minted new)
+- **Notes**: 4
+- **Output**: [[reviews/tenet-check-2026-08-08]]
+
+**Zero tenet contradictions.** No article in any of the three trees asserts, in its own voice and unmarked as a rival's view, anything contradicting Tenets 1–5. Seventh consecutive pass returning zero on the direct-contradiction battery. Five parallel semantic readers covered the whole article tree by section — 26 rival-advocacy articles, 56 recent `concepts`/`positions`/`apex`, 46 recent `topics`/`voids`, 131 remaining `voids`/`apex`, and a bulk blurb-plus-alignment-section sweep of the rest — all returning zero.
+
+**Family T and Family U (2026-08-06) verified resolved.** Six of the seven error loci return **zero** on their invariant strings across all three trees: `outcome selection mostly following Born statistics`, `decisively favours basis`, `favoured by the Map`, `Process 1 is the only location`, `shapes the option space while physics determines`, `fewest mental variables`. The context-selection adoption is out of the corpus and Tenet 2's minimality is no longer run as truth-tracking parsimony.
+
+**Both directives the 08-06 pass queued returned null — the first null lenses in six.** L153 (not-invoked matrix cells): the conceivability/qualia cluster self-marks its quantum and No-MWI subsections as coherence commentary without exception — [[concepts/philosophical-zombies]] L207 *"The zombie argument does not draw on this tenet"*, [[concepts/explanatory-gap]] L181 *"which the gap predicts rather than supports"*. L177 (converse audit): grepping the attention, memory and Born-Rule clusters for substance-leaning language returns **zero across all six flagship articles**. Directive strike rate now four for six, and **the `tenets.md` directive queue is exhausted** — the next pass needs a new discovery method.
+
+**The one substantive finding is a grep-stem defect in an already-queued fix, not a tenet contradiction.** The open P3 at `workflow/todo.md` L191 instructs matching on the stem `prefers Stapp`. That stem returns 6 loci; `prefers [A-Za-z ]{0,12}Stapp` returns 8. The two extra — `archive/topics/chalmers-psychophysical-coupling.md` L125 and its hugo mirror — say *"prefers **Henry** Stapp's"*, and are a full serving body at a preserved archive URL. A second string on the same axis is uncovered too: [[topics/psychophysical-laws-bridging-mind-and-matter]] L145 calls post-decoherence selection *"a significant retreat"* reached only *"if the Zeno mechanism fails"*, inverting `tenets.md` L71, [[topics/comparing-quantum-consciousness-mechanisms]] L159 and P-Q1/P-Q4. **Disposition: widen the existing P3, do not mint a new task** (same-file pileup).
+
+**Calibration explicitly excluded from the finding set.** The 08-07 edits weakened several Map claims on the Map's own initiative (P-MC1 scoping anti-epiphenomenalism to the bare-correlation version; the zero-lag-gamma concession; corrected blurbs on `many-worlds`, `split-brain-consciousness`, `inverted-qualia`, `atemporal-causation`; P-MC4 and P-VS4 entered low/moderate). Tenet alignment is consistency with the five commitments, not the force with which they are asserted.
 
 ## 2026-08-07 22:41 UTC - refine-draft (blurb/body mismatch — positions-register lens; one fix, eight clears)
 
