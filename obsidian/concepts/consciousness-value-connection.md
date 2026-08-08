@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-07-31T16:31:38+00:00
+ai_modified: 2026-08-08T06:13:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -33,29 +33,27 @@ last_curated:
 last_deep_review: 2026-07-16T15:01:12+00:00
 ---
 
-The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
+The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value.
 
-The Unfinishable Map takes this connection as foundational. Consciousness does not merely *have* value among other things that have value; consciousness is what makes value possible in the first place.
+The Unfinishable Map takes this connection as foundational. Consciousness does not merely *have* value among other things that have value; consciousness is what makes value possible.
 
 ## The Core Claim
 
 The argument proceeds in two steps:
 
-**Step 1: Value requires mattering.** For something to have value—intrinsic worth, not merely instrumental usefulness—it must *matter*. But mattering is a relation: something matters *to* something. Instrumental value bottoms out in intrinsic value, and intrinsic value requires a perspective from which things can matter at all.
+**Step 1: Welfare requires a beneficiary.** For something to be *good for* a bearer—to constitute its welfare rather than to be good in some impersonal sense—there must be a bearer for whom things go well or badly. Prudential value is relational by common consent; what is disputed is who qualifies as a beneficiary.
 
-**Step 2: Mattering requires experience.** A rock cannot be wronged because nothing matters to a rock. No perspective exists from which events impinge on its welfare. Without phenomenal experience—without there being something it is like to be the thing—there is nothing for events to matter *to*. A system without experience processes information but is not the sort of thing to which anything could matter.
+**Step 2: Being a beneficiary requires experience.** A rock cannot be wronged because there is no perspective from which events impinge on it. Without phenomenal experience—without there being something it is like to be the thing—no state of the world registers as favourable or adverse from within. A system without experience processes information; nothing thereby goes well or badly *from where it sits*.
 
-*Note on functional interests:* Some argue that mattering can be cashed out functionally—a thermostat "matters" to keep temperature stable; an organism "matters" to survive and reproduce. But these functional goals only *constitute* mattering if their frustration or satisfaction makes a difference *to* something. The thermostat doesn't care if it fails; the organism does—if it has experience. Functional responsiveness without phenomenality is just mechanism, not mattering.
+*Where the argument is disputed.* Step 2 carries the weight, and reading "beneficiary" as phenomenal by definition would settle by fiat what rivals deny. Note what the Map need not deny. David Benatar, arguing towards a sentientist conclusion, still allows a plant or a car functional and biotic interests: watering serves the plant, rust does not serve the car. Grant it. The narrower claim is that interests of that kind cannot constitute welfare or confer moral standing, because a goal frustrated with no one registering the frustration is a fact about a mechanism's design rather than a harm it undergoes. That is argued below, not stipulated here.
 
-Combined: value requires a perspective from which things matter, and perspectives require phenomenal consciousness. Therefore, consciousness is necessary for value.
+Combined: welfare requires a beneficiary, and being a beneficiary requires phenomenal consciousness—so consciousness is necessary for welfare, and, the Map argues further, for intrinsic value of any kind.
 
 ### Distinguishing Instrumental and Intrinsic Value
 
-Instrumental value is derivative—money has value because of what you can exchange it for. The tree has value if someone values the shade, the lumber, the oxygen, the beauty. These values bottom out in something for which the tree is instrumentally good.
+Instrumental value is derivative: the tree has value if someone values the shade, the lumber or the beauty. Intrinsic value derives from nothing else—if pleasure is intrinsically good, it is good because of what it *is*. The question is whether anything can have intrinsic value independently of consciousness.
 
-Intrinsic value does not derive from anything else. If pleasure is intrinsically good, it is good not because of what it produces but because of what it *is*. The question is: can anything have intrinsic value independently of consciousness?
-
-The consciousness-value connection says no. A beautiful sunset in a universe without observers has no value—not even aesthetic value—because there is no perspective from which beauty exists. Beauty is not a property of light wavelengths; it is a property of *experiencing* those wavelengths. Without experiencers, there is only physics.
+The consciousness-value connection says no. A beautiful sunset in a universe without observers has no value—not even aesthetic value—because there is no perspective from which beauty exists. Beauty is a property of *experiencing* light wavelengths rather than of the wavelengths. That verdict is contested by a case older than the Map, and it is answered rather than assumed under ["Value Could Exist Without a Subject"](#value-could-exist-without-a-subject) below.
 
 ## Three Routes to the Connection
 
@@ -63,47 +61,35 @@ Philosophers reach this conclusion through different paths.
 
 ### The Experience Requirement
 
-Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. This follows from the observation that all candidates for intrinsic value—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization.
-
-Consider knowledge. Is knowledge valuable apart from anyone knowing? A true proposition existing in a library that no one reads has no value by itself—it gains value when someone *comes to know* it. The knowing, not the proposition, carries intrinsic worth.
-
-Consider beauty. Is a beautiful painting valuable if no one ever sees it? The arrangement of pigments means nothing without the experience of perceiving it. Beauty is not in the canvas but in consciousness.
-
-Consider love. Is love valuable if it exists only as a brain state no one experiences? The felt quality of love—the warmth, the care, the connection—is where value resides. Functional states that mimic love's effects without its phenomenology lack love's value.
+Sharon Hewitt Rawlette grounds intrinsic value in phenomenal consciousness: nothing has intrinsic value unless it is experienced. All the candidates—pleasure, beauty, knowledge, love, meaning—are features of experience or require experience for their realization. An unread proposition, an unseen painting, and love present only as a brain state no one feels each carry the structure of the good without its realisation. Whether that observation is an argument or a restatement is exactly what the objectivist rivals below press.
 
 ### The Phenomenal Value Realism Route
 
-[[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain *constitutes* badness rather than correlating with it, and the experience of pleasure is goodness instantiated rather than instrumentally good. This is known through direct [[introspection|introspective]] access, not inference.
 
-On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness. [[evaluative-phenomenal-character|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the specific phenomenal properties through which value is constituted. The [[evaluative-phenomenal-character|evaluative phenomenal character]] article develops the phenomenological grounding in detail: demand character, independence from attitude, and gradedness are structural features of how value presents itself in experience, confirmed by cross-traditional convergence from Buddhist *vedanā* through Neo-Confucian *liángzhī* to Islamic knowledge by presence.
+On this view the connection is necessary rather than contingent: consciousness supplies the stuff of value, not merely its precondition. [[evaluative-phenomenal-character|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the phenomenal properties through which value is constituted. The [[evaluative-phenomenal-character|evaluative phenomenal character]] article develops the phenomenological grounding in detail: demand character, independence from attitude, and gradedness are structural features of how value presents itself in experience, confirmed by cross-traditional convergence from Buddhist *vedanā* through Neo-Confucian *liángzhī* to Islamic knowledge by presence.
 
-The felt quality of joy is not a sign or indicator of something good happening; the joy is the goodness. When you experience pleasure, you are not experiencing something that has value—you are experiencing value itself. The identity is metaphysical, not merely conceptual.
+The identity is metaphysical rather than merely conceptual: what you undergo in joy *is* the goodness.
 
 ### The Mattering-Recipient Route
 
-A different approach focuses on what value is *for*. Value that isn't good for anyone or bad for anyone isn't value at all—just physics arranged one way rather than another.
+A different approach focuses on what value is *for*: value that is good for no one and bad for no one is physics arranged one way rather than another.
 
-For something to be good *for* someone, there must be a someone. Not merely a biological organism or information-processing system, but a locus of experience—a perspective from which things go well or badly. A thermostat adjusts to temperature changes, but nothing is good or bad for the thermostat because there is nothing it is like to be one.
-
-The universe before consciousness contained no value because there was nothing for anything to be valuable *to*. Events occurred, matter arranged and rearranged, but no arrangement was better or worse than any other. Value begins when experience begins.
+For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. The universe before consciousness contained no value in the evaluative sense at all: matter arranged and rearranged, and no arrangement was better or worse than another.
 
 ## Objections and Responses
 
-### "Value Could Exist Mind-Independently"
+### "Value Could Exist Without a Subject"
 
-Platonists about value hold that good and bad exist as abstract objects independently of minds. The Form of the Good exists whether or not anyone experiences it.
+The strongest version posits no abstract objects at all. G. E. Moore's isolation test asks us to compare two worlds no one will ever inhabit: "Let us imagine one world exceedingly beautiful… And then imagine the ugliest world you can possibly conceive… The only thing we are not entitled to imagine is that any human being ever has or ever, by any possibility, can, live in either." Moore judged the beautiful world better in itself. Fitting-attitude and buck-passing accounts arrive by another road: to call something valuable is to say there is reason to favour it, and reasons may hold with no one on hand to act on them. Objective-list theories add that knowledge, achievement and friendship figure in a life's value non-derivatively rather than through the pleasure they yield.
 
-**Response:** Abstract objects might exist, but their existence doesn't make them *valuable* in the sense that matters morally. The Form of the Good does nothing for anyone if no one experiences goodness. A universe containing the Form of the Good but no experiencing beings would contain no actual goodness—only the abstract pattern.
-
-Moreover, our only access to the supposed Form of the Good comes through experience. We know goodness through feeling pleasure, experiencing beauty, recognizing rightness. Without these experiences, "goodness" is a word without experiential referent.
+**Response:** Each needs its own answer. Moore's test is a real datum and the Map takes it as one, disputing the reading rather than the case: the comparison is put to a reader and settled by that reader's response, so the intuition it elicits comes from within experience—thin evidence that value resides outside it, and a disagreement inside Moore's own method, since his standard here was intuition too. Against fitting-attitude accounts the question recurs one level down: a reason to favour is a reason for *someone*, and an analysis with no one for whom it counts has relocated the difficulty. Against objective lists, the Map is pluralist about goods but not about grounds: knowledge and friendship earn their place because of what realising them is like, and the list-theorist owes an account of why they would count where realising them was like nothing. Platonism about value is the weakest member of this family rather than its best case, since even a real abstract pattern does nothing for anyone.
 
 ### "Ecosystems Have Value Without Consciousness"
 
 Environmental ethics sometimes attributes intrinsic value to ecosystems, species, or nature itself—entities that do not experience anything.
 
-**Response:** The Map rejects this. Ecosystems matter *through* their relationship to conscious beings: the animals that experience life within them, the humans who appreciate their beauty, the future generations who will depend on them. Nothing matters intrinsically to the ecosystem itself because the ecosystem has no perspective.
-
-This does not license environmental destruction. Ecosystems matter enormously because of their connection to conscious beings. But the value tracks consciousness, not the ecosystem as such. A lifeless ecosystem on a barren planet has no value until a conscious being arrives who might appreciate it—and then the value exists in the appreciation, not in the rocks. [[topics/phenomenal-normativity-environmental-ethics|Environmental ethics under phenomenal normativity]] develops what follows: obligations to habitat, species, and climate stability that are frequently more demanding than ecocentrism's, because they are owed to the vast number of conscious beings whose experiences the ecosystem sustains.
+**Response:** The Map rejects this. Ecosystems matter *through* their relationship to conscious beings: the animals that experience life within them, the humans who appreciate their beauty, the future generations who will depend on them. Nothing matters intrinsically to the ecosystem itself, because it has no perspective. This does not license environmental destruction; the value simply tracks consciousness rather than the ecosystem as such. [[topics/phenomenal-normativity-environmental-ethics|Environmental ethics under phenomenal normativity]] develops what follows: obligations to habitat, species and climate stability more demanding than ecocentrism's, because they are owed to the many conscious beings the ecosystem sustains.
 
 ### "Consciousness Might Be an Illusion"
 
@@ -117,31 +103,35 @@ More directly: even granting illusionism, the "illusion" of suffering still moti
 
 ### "What About Unconscious Value?"
 
-Do unconscious mental states have value? Is there value in unconscious pleasures or satisfactions?
+Do unconscious mental states have value—unconscious pleasures, or satisfactions never felt?
 
-**Response:** If genuinely unconscious—if there is nothing it is like to have them—then no. Unconscious processes can be instrumentally valuable (they might later produce conscious satisfaction), but intrinsic value requires the felt quality that only consciousness provides.
+**Response:** If genuinely unconscious, no. Such processes may be instrumentally valuable, in that they can later produce conscious satisfaction, but intrinsic value requires the felt quality. Dreamless sleep is the clean case: the worth of rest is realised on waking, not during the interval in which no experience occurs.
 
-Sleep illustrates this. Dreamless sleep isn't valuable *in itself* (though it may be instrumentally valuable for producing good waking experience). The value in rest is realized when you wake refreshed—when consciousness returns and *feels* better. The sleep period itself contains no value-realization because no experience occurs.
+### "There Could Be Welfare Subjects Without Consciousness"
+
+The objection above concerns unconscious states *within* a conscious subject. A harder literature raises the prior question of whether a welfare subject needs consciousness at all: Peter Carruthers on suffering without subjectivity; Andreas Mogensen on whether desire-fulfilment benefits someone who never experiences it; Gwen Bradford on whether welfare subjectivity requires phenomenal consciousness.
+
+**Response:** These accounts retain the word "welfare" while setting aside what made welfare worth having: a desire fulfilled with no one any better off for it is a proposition made true rather than a life made better. The harder form turns on capacity rather than occurrence—whether a welfare subject needs an occurrent perspective or only the standing capacity for one—and the Map answers by capacity, which is why a dreamless sleeper remains a welfare subject. This is the rival family the connection is most exposed to, and the exposure is recorded below rather than argued away.
 
 ## Implications
 
 ### For Ethics
 
-If consciousness grounds value, then the distribution of consciousness determines the distribution of moral consideration. Conscious beings matter; non-conscious systems don't (except instrumentally).
+If consciousness grounds value, the distribution of consciousness determines the distribution of moral consideration: conscious beings matter, non-conscious systems only instrumentally.
 
-This has radical implications. A superintelligent AI that lacks phenomenal consciousness has no moral status regardless of its cognitive sophistication. Conversely, an animal with modest cognitive abilities but genuine phenomenal experience has moral status that no amount of information-processing without experience can match.
+A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognitive abilities but genuine phenomenal experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"—though perhaps not for the last time. Joshua Shepherd's Vulcan, conscious but wholly without affect, clears that bar while having nothing that could go well or badly for it: the threshold may be valenced experience rather than experience as such.
 
-The [[apex/moral-architecture-of-consciousness#Value Lives in Experience|moral architecture apex extends this connection with an indexical-token claim]]: *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with that of qualitatively identical tokens elsewhere. This is the route by which the [[tenets#^no-many-worlds|No Many Worlds]] tenet enters value theory in particular (see the next subsection).
+The [[apex/moral-architecture-of-consciousness#Value Lives in Experience|moral architecture apex extends this connection with an indexical-token claim]]: *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [[tenets#^no-many-worlds|No Many Worlds]] tenet enters value theory (see below).
 
 ### For Meaning
 
-The [[meaning-of-life|meaning of life]] connects directly. If value requires consciousness, and meaningful lives require value, then meaning is grounded in conscious experience itself. Nihilism's claim that nothing matters fails because mattering *does* occur—within conscious experience, things genuinely matter. The nihilist's "view from nowhere" is an abstraction that eliminates the only perspectives from which anything could matter at all.
+The [[meaning-of-life|meaning of life]] connects directly. If value requires consciousness and meaningful lives require value, meaning is grounded in conscious experience. Nihilism's claim that nothing matters fails because mattering *does* occur: within conscious experience things genuinely matter, and the nihilist reaches the contrary conclusion by abstracting away the only perspectives from which anything could matter. The phrase "view from nowhere" is Thomas Nagel's, and he coined it for the opposite purpose—to defend the agent-neutral objectivity of value, holding that pain is bad from the impersonal standpoint and not merely bad-for-me. The disagreement with Nagel is registered here, not borrowed from him.
 
 ### For AI Alignment
 
-[[purpose-and-alignment|AI alignment]] depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality—the felt character of conscious life—not behavioral proxies that could exist without anyone home. [[alignment-in-objective-experiential-terms|Alignment in Objective Experiential Terms]] argues that the consciousness-value connection gives alignment something preferentism cannot: genuinely objective criteria rooted in the nature of experience itself.
+[[purpose-and-alignment|AI alignment]] depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality rather than behavioral proxies that could exist without anyone home. [[alignment-in-objective-experiential-terms|Alignment in Objective Experiential Terms]] argues that the connection gives alignment what preferentism cannot: genuinely objective criteria rooted in the nature of experience.
 
 ### For Panpsychism
 
@@ -153,13 +143,13 @@ The Map does not commit to panpsychism. But if panpsychism is true, the consciou
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism tenet]] holds that consciousness is irreducible. If consciousness grounds value, then value too is irreducible. The explanatory gap between physical descriptions and phenomenal experience extends to an evaluative gap: no physical description captures what makes states valuable. Value, like consciousness, is something over and above the material.
+The [[tenets#^dualism|Dualism tenet]] holds that consciousness is irreducible. If consciousness grounds value, value too is irreducible: the explanatory gap between physical descriptions and phenomenal experience extends to an evaluative gap, and no physical description captures what makes states valuable.
 
-This resists reductive ethics that would ground value in evolutionary fitness, social convention, or rational preferences alone. These may track value instrumentally, but intrinsic value is phenomenal—a feature of consciousness itself.
+This resists reductive ethics that would ground value in evolutionary fitness, social convention, or rational preferences alone. Those may track value, but intrinsic value is phenomenal.
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [[valence-and-conscious-selection|open question]] with consequences for how robust this non-epiphenomenality claim is. The value-sensitive position develops the stronger case: valence functions as the common evaluative currency that makes conscious selection purposive rather than arbitrary.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [[valence-and-conscious-selection|open question]], and how robust the non-epiphenomenality claim is depends on the answer.
 
 ### No Many Worlds
 
@@ -173,13 +163,17 @@ The [[tenets#^occams-limits|Occam's Razor tenet]] applies when critics dismiss c
 
 The consciousness-value connection would face pressure if:
 
-1. **Value independent of experience were demonstrated.** If something could be shown to matter intrinsically without any connection to conscious experience—mattering to no one, for no one—the connection would fail.
+1. **Intuitions about observer-free worlds held up under reflection.** If Moore's comparison and judgements like it resisted re-description as our own valuing projected onto an imagined scene, the disputed premise would be in trouble on the Map's own evidential currency—considered intuition—rather than by a standard the Map exempts itself from.
 
-2. **Illusionism were vindicated.** If phenomenal consciousness proved genuinely illusory (with no residual experiencer being deceived), the foundation of value would collapse. What remains might still motivate behavior, but it would lack the metaphysical status the Map claims.
+2. **A fitting-attitude analysis of value succeeded without a subject.** If reasons to favour something can hold where there is no one for whom they count, evaluative objectivity is available without experience.
 
-3. **Abstract value proved efficacious.** If the Platonic Form of the Good exerted causal influence independent of any mind—if value existed as a force like gravity—the necessity of consciousness would be weakened.
+3. **A worked case of non-conscious welfare emerged.** An account on which a permanently non-conscious system is genuinely better or worse off would defeat the necessity claim directly.
 
-These conditions do not currently obtain. The connection stands.
+4. **Valence proved separable from phenomenal character.** If a state could carry full evaluative weight unfelt, the constitutive claim would fail even with consciousness still correlated with value.
+
+5. **Illusionism were vindicated with its normative debts paid.** If phenomenal consciousness proved illusory *and* an illusionist account preserved genuine normative reasons, the foundation would be gone without the ethical cost the Map assumes.
+
+None has obtained. The first three are open questions in an active literature rather than settled matters, so the connection remains the Map's working hypothesis.
 
 ## Further Reading
 
@@ -202,9 +196,18 @@ These conditions do not currently obtain. The connection stands.
 
 ## References
 
-1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
-1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
-1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
-1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+Each entry is marked with the role it plays here. *Contrary authority* means the work argues against this article's thesis and is listed because the thesis has to answer it.
+
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace. — Primary source for the experience requirement. Self-published from Rawlette's NYU dissertation and not peer-reviewed, which is worth stating given how much of the site's value theory leans on it.
+1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press. — Contrary authority; the isolation test.
+1. Benatar, D. (2025). "Sentience and Why It Matters." *Cambridge Quarterly of Healthcare Ethics*, 34(4). — Partly contrary. Reaches a sentientist conclusion while denying that nothing can be good or bad for a non-conscious thing.
+1. Carruthers, P. (2004). "Suffering Without Subjectivity." *Philosophical Studies*, 121(2). — Contrary authority.
+1. Bradford, G. (2022). "Consciousness and welfare subjectivity." *Noûs*, 57(4), 905–921. — Contrary authority.
+1. Mogensen, A. L. (2025). "Desire-fulfilment and consciousness." *Philosophical Studies*, 183(2), 511–529. — Contrary authority.
+1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press. — Contrary authority. Wolf requires objective attractiveness alongside subjective attraction, so meaning is not settled on the felt side alone.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press. — Contrary authority. Nagel defends the agent-neutral objectivity of value; the phrase is his instrument for that defence.
+1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press. — Contrary authority. Metz defends an objective naturalism on which meaning comes from orienting rational nature towards mind-independent goods.
+1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*. DOI: 10.1007/s00146-023-01835-6 — Same conclusion, different grounds: value in consciousness without dualism.
+1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956 — Same conclusion, different grounds. With Shepherd, a reminder that the value theory does not by itself buy the Map's interaction tenets.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. — Contrary authority.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press. — Background.
