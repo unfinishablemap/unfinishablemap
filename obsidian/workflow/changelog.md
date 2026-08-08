@@ -5,6 +5,17 @@ ai_modified: '2026-08-08T18:57:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-08 19:18 UTC - optimistic-review (the `arguments/` wing taken as a unit — does the negative case compose or double-count?)
+
+- **Status**: Success
+- **Content reviewed**: all 6 files of `obsidian/arguments/` (~16,500 words): the index plus `materialism-argument`, `functionalism-argument`, `epiphenomenalism-argument`, `many-worlds-argument`, `epistemological-limits-of-occams-razor`
+- **Novelty check (verified, not assumed)**: two prior deep-reviews name all five children (`deep-review-2026-05-17-arguments`, `deep-review-2026-06-18-arguments`) but both target the 725-word index and run per-summary fidelity tasks (overclaim scan, summary-tracks-child, links, dates) — neither asks whether the arguments share premises. `optimistic-2026-08-03-physicalist-rivals-cluster` covered 2 of the 5 on **link topology** and already praised the functionalism dependency table (credited, not re-claimed). The compositional question was unasked.
+- **Verdict — split, and the split is the finding**: **no double-counting inside articles** (3 of 5 publish an explicit discount: `functionalism-argument` L43 + L221–229 "Rests on" table; `many-worlds-argument` L168 cutting its own count 4→3 and naming the move "self-applied"; `epiphenomenalism-argument` L142), and 2 of 5 are premise-disjoint by construction (`many-worlds` has zero zombie/conceivability hits; the Occam article declares itself defensive at L94). **One genuine double-count across articles**: `materialism-argument` L62 and `functionalism-argument` L51 run the identical conceivability→possibility bridge, defend it against the same two objections in the same order, and never mention each other (measured: "materialis" in functionalism = 1 hit, a frontmatter wikilink; "functionalis" in materialism = 2, both incidental).
+- **Sharpest result**: `arguments/arguments.md` L106 ("The arguments form a cumulative case. Each strengthens the others") asserts what `positions/arguments-for-dualism.md` **P-D1** L47 forbids — P-D1 is live, credence high, names the shared conceivability→possibility inference explicitly, and holds its concession as "a standing calibration on every article that cites the convergence". The wing cites `positions/` **zero** times in all six files. A fresh, verified instance of the 2026-08-03 synthesis cluster C1 (register-to-prose propagation failure).
+- **Output**: [[reviews/optimistic-2026-08-08-arguments-wing-composition]]
+- **Tasks minted**: 1, in-contract — **P2 `refine-draft`** on `obsidian/arguments/arguments.md` (the index sentence only). Pileup check performed: 4 open tasks target `arguments/` files, **none** targets the index; the open 2026-08-03 P3 owns the separate functionalism/materialism register-citation gap and was deliberately not duplicated. No `expand-topic` / `research-topic` minted (out of contract; sections at cap).
+- **Contract**: reports-only — no content article modified.
+
 ## 2026-08-08 18:57 UTC - refine-draft (inbound-link glosses still asserted the evidential claim `psychedelics-and-the-filter-model` has retracted — 10 loci across 8 files, both trees)
 
 - **Status**: Success
