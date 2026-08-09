@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-08-09T00:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ Great apes succeed at tool use, social cognition, and procedural metacognition�
 
 **Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans'—estimated at 2±1 items against Miller's 7±2, on a review of the comparative data whose cross-species comparison remains contested (Read, Manrique & Walker 2022). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
-**Training enhances conscious capacities**: Fox et al. (2012) demonstrated that meditators show dramatically better introspective accuracy than novices. This trainability supports the evolutionary argument: if consciousness were epiphenomenal, training attention should have no effect—you cannot improve causally inert processes through practice.
+**Introspective skill tracks contemplative experience**: Fox et al. (2012) found that meditation experience predicts introspective accuracy, experienced practitioners outperforming novices. The design is cross-sectional, so it cannot show that practice produced the gap; either way the gap needs explaining. If consciousness were epiphenomenal, attentional expertise should make no difference to introspective performance—you cannot get better at observing a causally inert process.
 
 The gap is not random. This systematic pattern—sophisticated within the baseline, limited where consciousness appears required—supports the claim that consciousness does the amplifying work.
 

@@ -4,7 +4,7 @@ description: "First-person experience provides genuine evidence for consciousnes
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-07-30T16:30:44+00:00
+ai_modified: 2026-08-09T00:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ This parallels scientific methodology: individual observations are fallible, but
 
 Francisco Varela's [[neurophenomenology]] established explicit standards for phenomenological evidence:
 
-**Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more training, better accuracy.
+**Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more experience, better accuracy.
 
 **Mutual constraint**: Phenomenological reports gain evidential weight where they can be checked against independent measurement — neural where recording has been done, psychophysical otherwise — and neural findings in turn validate phenomenological distinctions. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 

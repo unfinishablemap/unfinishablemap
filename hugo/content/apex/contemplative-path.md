@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-07 00:52:00+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-08-03 20:00:07+00:00
 apex_sources:
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-08-07 00:52:00+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ We face an asymmetry. External observation detects brain states; internal observ
 
 [Introspection](/concepts/introspection/) faces real challenges. Nisbett and Wilson demonstrated that people confabulate reasons for their choices; Schwitzgebel catalogued domains where self-reports fail. But the critique's target matters: these studies show we lack access to cognitive *processes*, not to phenomenal *content*. When a meditator reports "awareness observing thoughts without engaging with them," they describe an experiential structure present to consciousness, claiming nothing about the neural mechanisms producing it. Contemplative phenomenology can therefore stand where the causal machinery remains opaque.
 
-Training matters. Fox et al. (2012) found meditation experience predicts introspective accuracy on a logarithmic learning curve, with no novice meditators scoring high. Husserlian [phenomenological reduction](/concepts/phenomenology/) and contemplative training stand to casual introspection as telescopic observation stands to the naked eye: same domain, same commitment to careful attention, dramatically different resolving power. Dismissing contemplative reports because untrained introspection is unreliable takes the wrong instrument as the measure.
+Expertise tracks accuracy. Fox et al. (2012) found meditation experience predicts introspective accuracy on a logarithmic learning curve, with no novice meditators scoring high. Husserlian [phenomenological reduction](/concepts/phenomenology/) and contemplative training stand to casual introspection as telescopic observation stands to the naked eye: same domain, same commitment to careful attention, dramatically different resolving power. Dismissing contemplative reports because untrained introspection is unreliable takes the wrong instrument as the measure.
 
 ## What Contemplatives Discover
 
@@ -170,7 +170,7 @@ The Map's reliance on contemplative evidence would be undermined if:
 
 1. **Cross-tradition convergence failed.** If trained contemplatives from different traditions reported irreconcilably incompatible phenomenologies, the claim that training reveals objective features would weaken. Convergence on impermanence, witness capacity, two modes, and the jhana sequence supports reliability.
 
-2. **Training proved ineffective.** If extensive practice failed to improve introspective accuracy across measures, the trained-versus-untrained response would collapse. Fox et al.'s findings show training helps.
+2. **Training proved ineffective.** If extensive practice failed to improve introspective accuracy across measures, the trained-versus-untrained response would collapse. This falsifier is only partly discharged. Fox et al. (2012) is cross-sectional, so it establishes that meditation experience *predicts* introspective accuracy, not that practice produced the difference—the authors note that practitioners who persist may begin more accurate, and call for a pre-post design with a wait-list control. Randomised work exists but cuts finer than the response needs: Baird et al. (2014), a two-week program with an active control, enhanced introspective accuracy in a memory but not a perception domain—and Fox's result is in the perception domain. Two designs measuring different things can both be right, so this is no failed replication; it does mean the trained-versus-untrained response rests on correlational evidence in the one domain where the controlled test came out null.
 
 3. **Meta-awareness proved fabricated.** If "witnessing awareness" turned out to be confabulation rather than genuine higher-order access, the core contemplative claim would fall. It is reported consistently by practitioners whose reports prove reliable on other measures.
 

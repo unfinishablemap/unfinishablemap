@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-08-09T00:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,7 +129,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 The first is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems, so the illusion of suffering would require someone for whom the suffering seems. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why suffering is *undergone* for the question of why a self-model *represents* it as undergone, and that trade earns its keep only if the second question is tractable where the first was not. Buddhism marks the same distinction from its own side through *vijñāna*: awareness is treated as existing even where the self that owns it does not. Neither side closes the case against the other inside the rival's framework.
 
-The second response carries the weight here, because it is independent of the regress. Fox et al. (2012) showed meditation training predicts introspective accuracy. If phenomenal consciousness were illusion, training should eventually *dissolve* it. Instead, training *refines* phenomenal access—meditators report increasingly subtle distinctions, not recognition that there was nothing there. An illusionist can reply that what improves is the fidelity of quasi-phenomenal self-representation rather than access to anything phenomenal, so this is evidential pressure rather than proof—but it is pressure the illusionist owes an account of, which the regress on its own never generates.
+The second response carries the weight here, because it is independent of the regress. Fox et al. (2012) showed meditation experience predicts introspective accuracy. If phenomenal consciousness were illusion, training should eventually *dissolve* it. Instead, training *refines* phenomenal access—meditators report increasingly subtle distinctions, not recognition that there was nothing there. An illusionist can reply that what improves is the fidelity of quasi-phenomenal self-representation rather than access to anything phenomenal, so this is evidential pressure rather than proof—but it is pressure the illusionist owes an account of, which the regress on its own never generates.
 
 Buddhism's own response is more subtle than either Western illusionism or realism. Madhyamaka emptiness applies to consciousness too—consciousness lacks inherent existence—but emptiness doesn't mean non-existence. Conventionally, consciousness exists and can be trained; ultimately, both consciousness and its objects are empty of independent essence.
 

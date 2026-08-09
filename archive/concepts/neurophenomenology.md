@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-02T09:20:13+00:00
+ai_modified: 2026-08-09T00:41:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-26T09:02:00+00:00
@@ -89,7 +89,7 @@ Skeptics argue that [[introspection]] is fundamentally unreliable. But the intro
 
 Neurophenomenology responds:
 
-1. **Training matters**: Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve. No novice showed high accuracy.
+1. **Expertise tracks accuracy**: Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve. No novice showed high accuracy.
 2. **Content, not process**: Contemplatives attend to phenomenal character—what jhana is like, how temporal flow presents itself—not to why they choose options.
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects.
 4. **Predictive power**: Trained observers' reports are measurably more accurate than untrained ones against objective psychophysical criteria (Fox et al. 2012), and where EEG has been recorded, their reported states track distinctive neural signatures (Lutz et al. 2004).
@@ -133,7 +133,7 @@ For the irreducibility claim:
 6. **Phenomenal prediction from structure alone**: predicting novel phenomenal qualities from neural patterns before subjects report them—e.g., successfully specifying what an unprecedented jhana state will feel like based only on brain scans
 7. **Successful heterophenomenology**: matching neurophenomenology's power while treating reports as mere behavior
 
-None demonstrated. Fox et al. shows robust training effects; cross-traditional studies find convergence; neural correlates track phenomenological distinctions but don't predict qualities from structure alone; illusionist explanations remain promissory.
+None demonstrated. Fox et al. shows a robust experience-accuracy relationship; cross-traditional studies find convergence; neural correlates track phenomenological distinctions but don't predict qualities from structure alone; illusionist explanations remain promissory.
 
 ## Relation to the Map's Perspective
 

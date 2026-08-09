@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-03-29 00:17:00+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Phenomenological Evidence
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-29 00:17:00+00:00
-lastmod: 2026-03-29 00:17:00+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 original_path: /concepts/convergent-phenomenological-evidence/
 related_articles:
@@ -47,7 +47,7 @@ When Buddhist vipassana practitioners, Hindu contemplatives following Patanjali'
 
 Convergent phenomenological evidence occupies a specific methodological niche, extending the phenomenological tradition inaugurated by Husserl (1913/1983) beyond individual observation to cross-traditional comparison. It differs from three neighbouring categories:
 
-**Standard [phenomenological-evidence](/concepts/phenomenological-evidence/)** is first-person data gathered by individual trained observers. It faces the [circularity objection](/concepts/phenomenological-evidence/#the-circularity-objection): first-person methods validated by the consistency of first-person outputs. Empirical work suggests training matters: Fox et al. (2012) found that meditation experience predicts [introspective](/concepts/introspection/) accuracy, supporting the claim that contemplative training refines rather than distorts self-observation. Convergent phenomenological evidence builds on this by multiplying independent sources — the validation comes not from one tradition's internal consistency but from agreement across traditions that did not train each other.
+**Standard [phenomenological-evidence](/concepts/phenomenological-evidence/)** is first-person data gathered by individual trained observers. It faces the [circularity objection](/concepts/phenomenological-evidence/#the-circularity-objection): first-person methods validated by the consistency of first-person outputs. Empirical work suggests expertise tracks accuracy: Fox et al. (2012) found that meditation experience predicts [introspective](/concepts/introspection/) accuracy, supporting the claim that contemplative training refines rather than distorts self-observation. Convergent phenomenological evidence builds on this by multiplying independent sources — the validation comes not from one tradition's internal consistency but from agreement across traditions that did not train each other.
 
 **[Convergence arguments](/topics/epistemology-of-convergence-arguments/)** in general concern any case where independent lines of reasoning reach the same conclusion. The phenomenological variant is narrower: it concerns convergence specifically among first-person experiential reports, not among philosophical arguments or empirical findings. The knowledge argument and the conceivability argument converge on irreducibility through different logical routes; convergent phenomenological evidence converges through different *experiential* routes.
 

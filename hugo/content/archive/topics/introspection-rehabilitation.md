@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Epistemology of Introspection and Its Calibration
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-18 06:14:00+00:00
-lastmod: 2026-03-20 04:33:46+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 original_path: /topics/introspection-rehabilitation/
 related_articles:
@@ -47,7 +47,7 @@ topics:
 
 Introspection was pronounced unreliable in the 1970s and has spent decades under suspicion. Nisbett and Wilson showed that people confabulate explanations for decisions shaped by factors they cannot access. Choice blindness experiments confirmed the pattern. Schwitzgebel catalogued failures across multiple domains. The cumulative effect was devastating: if we cannot trust what we say about our own minds, how can first-person evidence anchor any theory of consciousness?
 
-The Unfinishable Map argues that the case against introspection, while identifying real failures, was never as comprehensive as its reception suggested. Three developments collectively rehabilitate introspection as a serious method: the process/content distinction reveals that the critiques targeted the wrong domain; empirical research demonstrates that training dramatically improves introspective accuracy; and rigorous first-person methods provide techniques that minimise the confabulation problem. Introspection is not infallible. But the choice is not between perfect self-knowledge and none—it is between careful use of fallible methods and abandoning the only direct access to consciousness we have.
+The Unfinishable Map argues that the case against introspection, while identifying real failures, was never as comprehensive as its reception suggested. Three developments collectively rehabilitate introspection as a serious method: the process/content distinction reveals that the critiques targeted the wrong domain; empirical research finds introspective accuracy tracking contemplative experience closely; and rigorous first-person methods provide techniques that minimise the confabulation problem. Introspection is not infallible. But the choice is not between perfect self-knowledge and none—it is between careful use of fallible methods and abandoning the only direct access to consciousness we have.
 
 ## The Prosecution's Case
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-16 12:09:46+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-17
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-17 00:00:00+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -24,6 +24,8 @@ topics:
 ---
 
 Research notes on cognitive phenomenology—the question of whether there is a distinctive "what it's like" character to thinking itself, irreducible to sensory imagery, emotional tone, or inner speech. This debate matters for consciousness studies, the hard problem, and AI consciousness.
+
+> **Correction (2026-08-09)**: Where this note states under "Empirical Considerations → Training Effects" that "introspective reliability improves with training (Fox et al. 2012)", the causal framing is wrong for the cited study. Fox, K.C.R. et al., "Meditation experience predicts introspective accuracy", *PLOS ONE* 7(9):e45370 (2012), `10.1371/journal.pone.0045370`, is cross-sectional and correlational — N=38, 1–15,000 practice hours, with no longitudinal and no randomised arm. The authors state the design "precludes inferring a direct causal link", warn that "practitioners who persist… already begin with higher introspective accuracy", and call for a future "pre-post design… with a suitable (e.g., wait-list) control group". So *meditation experience predicts introspective accuracy* is supported; *training improves introspective accuracy* is not, at least not by this study. This is a correction to the causal wording only — the underlying observation that expert and novice introspectors differ in measured accuracy stands, and so does the note's use of it to support liberalism, which needs only the differential and not its cause. The rest of the Training Effects paragraph, and the note's arguments, sources, and philosopher survey, are unaffected. For the corrected framing see [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/). The original text below is left intact as a dated snapshot.
 
 ## The Central Question
 

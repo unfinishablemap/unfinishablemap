@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Great apes succeed at tool use, social cognition, and procedural metacognition�
 
 **Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans'—estimated at 2±1 items against Miller's 7±2, on a review of the comparative data whose cross-species comparison remains contested (Read, Manrique & Walker 2022). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
-**Training enhances conscious capacities**: Fox et al. (2012) demonstrated that meditators show dramatically better introspective accuracy than novices. This trainability supports the evolutionary argument: if consciousness were epiphenomenal, training attention should have no effect—you cannot improve causally inert processes through practice.
+**Introspective skill tracks contemplative experience**: Fox et al. (2012) found that meditation experience predicts introspective accuracy, experienced practitioners outperforming novices. The design is cross-sectional, so it cannot show that practice produced the gap; either way the gap needs explaining. If consciousness were epiphenomenal, attentional expertise should make no difference to introspective performance—you cannot get better at observing a causally inert process.
 
 The gap is not random. This systematic pattern—sophisticated within the baseline, limited where consciousness appears required—supports the claim that consciousness does the amplifying work.
 

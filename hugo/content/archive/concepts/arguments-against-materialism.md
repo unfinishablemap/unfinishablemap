@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into The Case for Dualism
 archived: true
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 18:09:00+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 original_path: /concepts/arguments-against-materialism/
 related_articles:
@@ -185,7 +185,7 @@ A deeper challenge asks: can we trust [introspective](/concepts/introspection/) 
 
 The introspection literature reveals a crucial distinction: we lack access to cognitive *processes* (why we choose as we do) but retain access to phenomenal *content* (what experience is like right now). The anti-materialist arguments depend on the latter, not the former. Choice blindness shows we confabulate decision justifications; it doesn't show we're wrong that visual experience exists.
 
-Moreover, contemplative training dramatically improves introspective accuracy (Fox et al. 2012), suggesting apparent unreliability reflects untrained observation rather than fundamental inaccessibility. See [introspection](/concepts/introspection/) for detailed treatment.
+Moreover, contemplative experience predicts substantially better introspective accuracy (Fox et al. 2012), suggesting apparent unreliability reflects untrained observation rather than fundamental inaccessibility. See [introspection](/concepts/introspection/) for detailed treatment.
 
 ## Process Philosophy Perspective
 

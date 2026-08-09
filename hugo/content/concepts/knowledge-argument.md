@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 13:07:12+00:00
+ai_modified: 2026-08-09 00:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 18:20:42+00:00
-lastmod: 2026-07-31 13:07:12+00:00
+lastmod: 2026-08-09 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 Mary's recognition depends on [introspection](/concepts/introspection/)—her capacity to notice the difference between before and after. Might introspective error explain away the intuition?
 
-The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Additionally, Fox et al. (2012) found that contemplative training improves introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty.
+The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Additionally, Fox et al. (2012) found that contemplative experience predicts introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty.
 
 The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) develops this further: introspection provides direct phenomenal presentation combined with fallible judgement, making it well-suited to ground Mary's recognition of novelty.
 

@@ -4,7 +4,7 @@ description: "The case against materialism includes the explanatory gap, zombie 
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-08-09T00:41:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -182,7 +182,7 @@ A deeper challenge asks: can we trust [[introspection|introspective]] reports ab
 
 The introspection literature reveals a crucial distinction: we lack access to cognitive *processes* (why we choose as we do) but retain access to phenomenal *content* (what experience is like right now). The anti-materialist arguments depend on the latter, not the former. Choice blindness shows we confabulate decision justifications; it doesn't show we're wrong that visual experience exists.
 
-Moreover, contemplative training dramatically improves introspective accuracy (Fox et al. 2012), suggesting apparent unreliability reflects untrained observation rather than fundamental inaccessibility. See [[introspection]] for detailed treatment.
+Moreover, contemplative experience predicts substantially better introspective accuracy (Fox et al. 2012), suggesting apparent unreliability reflects untrained observation rather than fundamental inaccessibility. See [[introspection]] for detailed treatment.
 
 ## Process Philosophy Perspective
 
