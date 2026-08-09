@@ -2575,26 +2575,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **NOT the same defect as the 2026-08-08 predicate fix** (`first-person access to a domain`, fixed at `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05` L105 and its two descendants). That family is about the **modality of an access predicate**; this is **arena-as-system**. Both cross the territory/mechanism boundary, hence the cross-reference, but the fixes differ.
   **MIRROR**: edit obsidian, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a label correction is not authoring. Length-neutral.
 
-### P2: the 2026-08-07 Baum family-one fix landed in obsidian and MISSED the archive tree — three published pages still assert the refuted premise flat
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: archive/concepts/neural-binding-mechanisms.md
-- **Notes**: Found 2026-08-08 by the family-two (sub-millisecond precision) pass on the same cluster, and **driver-verified line by line** — the fork reported three loci and I confirmed the count and the wording independently.
-  **THE DEFECT.** Three `archive/` pages assert, **flat and in the Map's voice with no attribution and no rebuttal**: *"Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality."* That premise is Baum's (2024 PhilArchive preprint) and it is **refuted by the peer-reviewed classical literature** — dynamical relaying through a shared relay hub (**Vicente et al. 2008**) reproduces zero-lag synchrony across long conduction delays with no quantum resource. `Vicente` appears **zero** times in all three files.
-  **THE THREE LOCI** (exact string `cannot achieve zero-lag synchrony`, verified untruncated):
-  **`archive/concepts/neural-binding-mechanisms.md` L77** · **`archive/concepts/phenomenal-binding-and-holism.md` L86** · **`archive/topics/quantum-binding-and-phenomenal-unity.md` L108**
-  **archive pages serve full bodies on live URLs**, so these are published assertions, not history.
-  **✅ THE FIX WORDING ALREADY EXISTS — copy it, do not invent.** Two loci were corrected on 08-07 and are the models:
-  **`obsidian/concepts/binding-problem.md` L107** — *"**Baum argues that** classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. **This premise is contested rather than established**: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*…"*
-  **`archive/topics/why-phenomenal-unity-resists-explanation.md` L70** — *"**Baum argues that** classical signalling cannot achieve zero-lag synchrony across these distances — **a premise the classical literature contests rather than concedes**."*
-  **THE DISCRIMINATOR (same as family two): attributed-to-Baum-and-contested is SOUND; asserted-flat is the defect.** Read the premise clause specifically.
-  **✅ DO NOT TOUCH — verified sound this session:** `obsidian/concepts/binding-problem.md` L107 and `archive/topics/why-phenomenal-unity-resists-explanation.md` L70 (both already attributed and rebutted); `obsidian/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument.md`, the cluster's calibration anchor.
-  **✅ POPULATION IS CLOSED AT THREE.** A fixed-string grep for `cannot achieve zero-lag synchrony` across `obsidian/` and `archive/` returns exactly five hits; two are the corrected models above. Do not open a wider sweep.
-  **✅ FAMILY TWO IS ALREADY DONE — do not redo it.** The sub-millisecond precision figure was re-scoped across twelve loci on 2026-08-08; every surviving instance is explicitly Baum's. The two families are independent.
-  **DO NOT OVER-CORRECT.** The zero-lag phenomenon is real and well replicated. What is wrong is the claim that classical mechanisms *cannot* produce it. Do not delete the synchrony claim.
-  **MIRROR**: edit `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral — this is a clause-level attribution fix.
-
 ### P3: `agent-teleology`'s blurb promises a third domain — meaning — that the body never treats
 
 - **Type**: refine-draft
@@ -2660,7 +2640,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **DO NOT** convert these into content edits, do not "update" what the notes say about the archived material, and do not chase the 410 workflow links.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past, on each note edited. **Hold `ai_system`** — a link repoint is not authoring. Length-neutral.
 
-
 ### P3: the Map cites suggestion and hypnosis as evidence for mental causation, in a literature that holds first-person reports about those very phenomena are the least diagnostic
 
 - **Type**: refine-draft
@@ -2674,12 +2653,29 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **SCOPE:** these two articles only. `hypnos` returns **0 files** across all 99 void articles and `suggestib` returns **1**, so there is no wider sweep to open in `voids/`. Re-grep the content tree on `suggestib`, `hypnos` and `placebo` before widening anywhere else — do not inherit that count.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** unless you author substantial new prose.
 
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-09: the 2026-08-07 Baum family-one fix landed in obsidian and MISSED the archive tree — three published pages still assert the refuted premise flat
+- **Type**: refine-draft
+- **File**: archive/concepts/neural-binding-mechanisms.md
+- **Notes**: Found 2026-08-08 by the family-two (sub-millisecond precision) pass on the same cluster, and **driver-verified line by line** — the fork reported three loci and I confirmed the count and the wording independently.
+  **THE DEFECT.** Three `archive/` pages assert, **flat and in the Map's voice with no attribution and no rebuttal**: *"Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality."* That premise is Baum's (2024 PhilArchive preprint) and it is **refuted by the peer-reviewed classical literature** — dynamical relaying through a shared relay hub (**Vicente et al. 2008**) reproduces zero-lag synchrony across long conduction delays with no quantum resource. `Vicente` appears **zero** times in all three files.
+  **THE THREE LOCI** (exact string `cannot achieve zero-lag synchrony`, verified untruncated):
+  **`archive/concepts/neural-binding-mechanisms.md` L77** · **`archive/concepts/phenomenal-binding-and-holism.md` L86** · **`archive/topics/quantum-binding-and-phenomenal-unity.md` L108**
+  **archive pages serve full bodies on live URLs**, so these are published assertions, not history.
+  **✅ THE FIX WORDING ALREADY EXISTS — copy it, do not invent.** Two loci were corrected on 08-07 and are the models:
+  **`obsidian/concepts/binding-problem.md` L107** — *"**Baum argues that** classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. **This premise is contested rather than established**: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*…"*
+  **`archive/topics/why-phenomenal-unity-resists-explanation.md` L70** — *"**Baum argues that** classical signalling cannot achieve zero-lag synchrony across these distances — **a premise the classical literature contests rather than concedes**."*
+  **THE DISCRIMINATOR (same as family two): attributed-to-Baum-and-contested is SOUND; asserted-flat is the defect.** Read the premise clause specifically.
+  **✅ DO NOT TOUCH — verified sound this session:** `obsidian/concepts/binding-problem.md` L107 and `archive/topics/why-phenomenal-unity-resists-explanation.md` L70 (both already attributed and rebutted); `obsidian/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument.md`, the cluster's calibration anchor.
+  **✅ POPULATION IS CLOSED AT THREE.** A fixed-string grep for `cannot achieve zero-lag synchrony` across `obsidian/` and `archive/` returns exactly five hits; two are the corrected models above. Do not open a wider sweep.
+  **✅ FAMILY TWO IS ALREADY DONE — do not redo it.** The sub-millisecond precision figure was re-scoped across twelve loci on 2026-08-08; every surviving instance is explicitly Baum's. The two families are independent.
+  **DO NOT OVER-CORRECT.** The zero-lag phenomenon is real and well replicated. What is wrong is the claim that classical mechanisms *cannot* produce it. Do not delete the synchrony claim.
+  **MIRROR**: edit `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral — this is a clause-level attribution fix.
 
 ### ✓ 2026-08-09: the Fox et al. 2012 correlation-as-training-effect error propagates to five more files, one of them inside another falsifier ledger
 - **Type**: refine-draft

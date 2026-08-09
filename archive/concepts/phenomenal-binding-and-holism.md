@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-08-08T21:57:00+00:00
+ai_modified: 2026-08-09T02:26:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-29T01:51:00+00:00
@@ -83,7 +83,7 @@ For the full philosophical argument that this failure is in principle, not merel
 
 ### The Zero-Lag Synchrony Problem
 
-Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision Baum's argument requires—a figure of his own, tighter than the experimental record supports. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
+Baum's Quantum Binding Argument identifies a specific empirical problem: during conscious perception, gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Baum argues that classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality — a premise the classical literature contests rather than concedes: dynamical relaying through a shared cortico-cortical or thalamo-cortical relay hub yields zero-lag synchrony despite long conduction delays, with no quantum resource required (Vicente et al. 2008; see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument]]). Some propose thalamic pacemakers as a classical explanation, but entrainment typically produces near-zero lag (within a few milliseconds) rather than the sub-millisecond precision Baum's argument requires—a figure of his own, tighter than the experimental record supports. This argument is a preprint (PhilArchive) and awaits peer-reviewed verification (Baum, 2024).
 
 ## The Quantum Alternative
 
@@ -172,6 +172,7 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & Halassa, M. M. (2015). Consciousness depends on integration between parietal cortex, striatum and thalamus. *Cell Reports*, 10(8), 1-12.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-08-08 21:57:00+00:00
+ai_modified: 2026-08-09 02:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Phenomenal Binding and Holism along with Phenomenal
   Unity and Multimodal Binding
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-28 16:57:00+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-08-09 02:26:00+00:00
 modified: *id001
 original_path: /concepts/neural-binding-mechanisms/
 related_articles:
@@ -79,7 +79,7 @@ These approaches redefine binding as information availability or integration. Bu
 
 Baum's Quantum Binding Argument identifies a specific empirical problem for classical accounts: zero-lag gamma synchrony.
 
-During conscious perception, gamma oscillations across distant cortical regions (separated by ~10 cm) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality.
+During conscious perception, gamma oscillations across distant cortical regions (separated by ~10 cm) synchronize without measurable time lag. Neural transmission at this distance takes more than 5 milliseconds. Baum argues that classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. This premise is contested rather than established: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*, in which two distant populations reciprocally coupled to a shared cortico-cortical or thalamo-cortical hub self-organize into zero-lag synchrony despite long conduction delays, because the hub redistributes the delays symmetrically (Vicente et al. 2008). For the peer-reviewed classical account and a calibrated assessment of what it does and does not license, see [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/).
 
 Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. If Baum's analysis holds, the neural coordination associated with conscious binding already requires quantum effects—classical mechanisms cannot produce the observed synchronization.
 
@@ -174,4 +174,5 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
 - Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
+- Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
 - Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

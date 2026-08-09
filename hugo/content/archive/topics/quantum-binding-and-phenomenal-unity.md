@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-08-08 21:57:00+00:00
+ai_modified: 2026-08-09 02:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Quantum Holism and Phenomenal Unity
 archived: true
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-27 19:15:41+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-08-09 02:26:00+00:00
 modified: *id001
 original_path: /topics/quantum-binding-and-phenomenal-unity/
 related_articles:
@@ -109,7 +109,7 @@ Warren (2023) challenged the interpretation on methodological grounds, questioni
 
 Baum's Quantum Binding Argument provides a technical case that classical frameworks literally cannot explain observed neural binding:
 
-Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, without measurable time lag—is observed during conscious perception. Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. The required coordination exceeds what local interactions plus finite signal speed can produce.
+Zero-lag gamma synchrony—precisely synchronized 40-100 Hz oscillations across distant cortical regions, without measurable time lag—is observed during conscious perception. Baum argues that classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality, and that the required coordination exceeds what local interactions plus finite signal speed can produce. This premise is contested rather than established: dynamical relaying through a shared relay hub reproduces zero-lag synchrony across long conduction delays with no quantum resource, because the hub redistributes the delays symmetrically (Vicente et al. 2008; see [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/)).
 
 Bell's theorem and loophole-free experiments confirm that non-local correlations of this type are exclusively quantum phenomena. If Baum's analysis is correct, the neural binding associated with conscious perception already involves quantum effects—classical mechanisms cannot produce the observed data.
 
@@ -248,6 +248,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+- Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162.
 - Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
 - Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
