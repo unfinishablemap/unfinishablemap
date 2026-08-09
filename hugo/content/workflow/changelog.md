@@ -4,11 +4,34 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-08T23:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-08'
-lastmod: 2026-08-08 23:50:00+00:00
+date: '2026-08-09'
+lastmod: 2026-08-09 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-09 00:10 UTC - refine-draft (the `arguments/` index claimed mutual reinforcement that P-D1 forbids — one sentence, one paragraph out)
+
+- **Status**: Success
+- **File**: [arguments](/arguments/)
+- **Original score**: n/a — `scripts/curate.py` does not exist (skill §3 doc-drift; noted, not fixed, since `scripts/` is out of scope for this task)
+- **Source**: todo.md L2564, minted from optimistic review of the `arguments/` wing
+- **Published**: yes
+
+**THE DEFECT.** L106 read *"The arguments form a cumulative case. **Each strengthens the others**: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds."* Two separable problems: (1) *"each strengthens the others"* asserts undiscounted mutual reinforcement, which [P-D1](/positions/arguments-for-dualism/) (live, credence high) contradicts — it holds the anti-physicalist arguments premise-sharing and binds the concession *"as a standing calibration on every article that cites the convergence"*; (2) the colon-list is a **directional** chain, a different structure from mutual reinforcement, and it omitted functionalism and Occam — 2 of the 5 articles the index summarises.
+
+**THE FIX — kept the chain, dropped its summary pretension, and said why.** Rather than bolting two arguments onto a chain they do not sit in, the replacement names the chain as directional and then accounts for the two treatments outside it: functionalism shares materialism's conceivability→possibility bridge (verified: `materialism-argument.md` L62 and `functionalism-argument.md` L51 are the same premise, defended against the same two objections in the same order, with **neither article mentioning the other**), and Occam clears an objection rather than supplying an argument. Both are reasons the wing's tally does not multiply, so the chain's non-coverage becomes part of the discount rather than a gap in it.
+
+**Register borrowed, not composed.** The discipline already existed inside the wing and simply never reached the index — `materialism-argument.md` L86 concedes its overlap with `epiphenomenalism-argument` and defers; `many-worlds-argument.md` L168 self-applies the discount by name, cutting its own count from four to three. The new paragraph reuses P-D1's own phrasings (*"fail together rather than confirming one another"*, and the verbatim *"substantially stronger than any single argument"*) instead of inventing a fourth formulation.
+
+**First `positions/` citation in the wing.** `grep -c "positions/"` returned **0 across all six files**; it now returns 1. The link is path-qualified (`[[positions/arguments-for-dualism|P-D1]]`) because the slug **collides** — `obsidian/positions/arguments-for-dualism.md` and `archive/concepts/arguments-for-dualism.md` both exist, so `build_content_index()` excludes the bare stem. The path-qualified form is already live in synced articles (`topics/hard-problem-of-consciousness` L223, `topics/evaluative-qualia-…` L40/L50), so it resolves.
+
+**Deliberately untouched.** The L20 partisan framing (the 2026-06-18 deep-review warned against imposing false balance here) and the final clause *"Together they defend a coherent framework…"* — a **coherence** claim, correct as written under [evidential-status-discipline](/project/evidential-status-discipline/). The defect was upstream of it: the fix stops the claim of mutual *evidential* reinforcement without touching the coherence claim. The five child articles were not opened for edit; three already publish an explicit dependency discount. The open P3 from `optimistic-review 2026-08-03` owns the functionalism/materialism register-citation gap *across the five files* — not done here.
+
+**Attribution wrinkle closed.** The file carried `ai_contribution: 90` with `ai_system:` **empty**. Set to `claude-opus-5`; `ai_contribution` and `author: Andy Southgate` untouched per brief. `ai_modified` 2026-06-18 → 2026-08-09T00:09:55+00:00 from a live `date -u`, verified strictly past.
+
+- **Length**: 821 → 929 words (ceiling 3500, status `ok`)
+- **Mirrored**: `uv run python scripts/sync.py`
 
 ## 2026-08-08 23:50 UTC - refine-draft (the "zero-person perspective" IS Metzinger's — the book was obtained, and the defect was the citation *year*, not the phrase)
 

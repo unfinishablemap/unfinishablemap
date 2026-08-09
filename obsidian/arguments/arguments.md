@@ -4,14 +4,14 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-06-18T13:18:44+00:00
+ai_modified: 2026-08-09T00:09:55+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 90
 author: Andy Southgate
-ai_system:
+ai_system: claude-opus-5
 ai_generated_date:
 last_curated:
 last_deep_review: 2026-06-18T13:18:44+00:00
@@ -103,5 +103,5 @@ These arguments directly support the Map's [[tenets|foundational commitments]]:
 - **[[tenets#^no-many-worlds|No Many Worlds]]**: The arguments against many-worlds show why the Map requires collapse to be real—consciousness selecting among outcomes that physics leaves undetermined.
 - **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The epistemological limits of parsimony remove the most common objection to dualism—that it is less "simple" than physicalism.
 
-The arguments form a cumulative case. Each strengthens the others: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds. Together they defend a coherent framework where consciousness is real, irreducible, and causally relevant.
+The arguments form a cumulative case, but a discounted one. Their structure is directional rather than mutually reinforcing: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds. The two treatments outside that chain do not add independent weight to it. The case against functionalism turns at its centre on the same bridge as the case against materialism—if zombies are conceivable, they are metaphysically possible—so if that inference fails the two fail together rather than confirming one another; and the limits of Occam's Razor clear an objection rather than supply a further argument. [[positions/arguments-for-dualism|P-D1]] holds this discount as a standing calibration on every article that cites the convergence, and it applies here: the defensible reading is "substantially stronger than any single argument", never that each strengthens the others. Together they defend a coherent framework where consciousness is real, irreducible, and causally relevant.
 
