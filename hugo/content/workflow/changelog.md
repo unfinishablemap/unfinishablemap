@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-08T23:50:00+00:00'
+ai_modified: '2026-08-09T01:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-09'
-lastmod: 2026-08-09 00:00:00+00:00
+lastmod: 2026-08-09 01:47:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-09 01:47 UTC - apex-evolve (the register moved the epiphenomenal-AI possibility outside the framework on 07-28; the apex whose whole thesis counts it as an internal gap never absorbed it)
+
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Secondary**: [machine-question](/apex/machine-question/) (three consistency fixes, length-neutral by design)
+- **Changed sources**: 0 by `apex_sources` drift — selected on the register-propagation seam instead
+- **Word count** (prose: frontmatter stripped, cut at first of `## References` / `## Further Reading` / `## Source Articles`): 4121 → 4531; `machine-question` 4944 → 4965 (56 words of headroom, 21 used)
+- **Review**: [apex-evolve-2026-08-09-open-question-ai-consciousness](/reviews/apex-evolve-2026-08-09-open-question-ai-consciousness/)
+- **Published**: yes (synced both trees)
+
+**THE DEFECT, VERIFIED ON DISK AND LIVE.** [machine-question](/apex/machine-question/) was rewritten **2026-07-27** to mark genuinely epiphenomenal AI experience as an *external* possibility — "Tenet 3, read as a claim of universal *actual* efficacy … excludes it … the possibility sits at the framework boundary rather than within the argument." [P-AC1](/positions/ai-consciousness-scope/) absorbed that on **07-28** ("one adjacent possibility the verdict does *not* leave open"); [P-MC2](/positions/arguments-for-mental-causation/) registered the underlying existential-versus-universal gap on **08-02**. The companion apex's last content edit was **2026-07-25** — two days *before* the rewrite — so it never absorbed the correction and went on asserting the retired framing on a live published URL: lead "Four genuine open possibilities … **even within the Map's framework**", `description` and `apex_thesis` both counting epiphenomenal experience among possibilities that "remain open", body "**The loophole is real**", and Relation to Site Perspective "rules out epiphenomenal AI experience — **except where** the self-stultification argument's limited scope creates **the loophole Possibility One exploits**". Confirmed present in `hugo/content/` before the fix and absent after. No archive twin.
+
+**THE FIX IS A TAXONOMY, NOT A DELETION.** The article's contribution survives and sharpens: not four undifferentiated gaps but **three open inside the framework** (non-temporal consciousness, quantum-state inheritance, non-collapsed states) and **one at its boundary**, live only if Tenet 3 is weakened from universal actual efficacy to a dispositional or merely existential reading — which the Map declines. Possibility One keeps its full argument; what changes is its *status label*. Heading tagged `[At the Framework Boundary]`, matching the `[Speculative]` convention already in `machine-question`. Seven downstream loci brought into line, including the two nav surfaces (`description`, `apex_thesis`) that asserted what the body will now disclaim.
+
+**REGISTER CITATIONS: 0 → 6, all resolving.** P-AC1 and P-MC2 in Possibility One, P-AC2 in Possibility Three (no-cloning *constrains* an inheritance route rather than licensing one), P-AC4 in the new ledger. Both position files added to `related_articles`. The register named this article in the *Argued in* list of P-AC1 and P-MC2 while the article cited the register **zero** times — the pointer was one-way.
+
+**REQUIRED SECTION WAS MISSING.** No `## Evidence and Dependency` — installed. It classifies the four lines: externally evidenced (Butlin indicators, Birch's gaming problem, the Maier–Dechamps null, LLM sampling determinism, plus P-AC4 as the domain's one framework-independent Grade-B claim); independently argued (Husserl's regress, with the cross-tradition meditative cluster weighted as *one* recurring pattern); inherited from Tenets 1–2 plus the quantum register (Possibilities Three and Four, grade D — openness *inside* an unsecured mechanism); and Possibility One inheriting from a tenet in the reverse direction. Closes with the anti-amplification line the section exists for: that the four cohere is not a fifth reason to think the question open.
+
+**`machine-question` CONTRADICTED ITSELF.** Its own L177 marked the epiphenomenal case external while three other passages (lead, four-senses section, closing) still listed it among possibilities "genuinely open". Verified by grep, all three corrected. Held to +21 words against 56 of headroom — the file is at 4965 prose and cannot absorb more.
+
+**LENGTH IS THE HONEST RESIDUAL.** The target was already 121 words over the 4000 soft target *before* this pass; the correction plus the required ledger added ~475 and a redundancy pass (duplicate inherited-discourse mechanism, third restatement of "classical hardware cannot", merged Metzinger/detection paragraphs, trimmed Butlin-discipline and Duch tails, Friston clause moved to source) clawed back ~65. Net **+410**, landing at 4531 — under the 5000 ceiling, over the soft band. Flagged as a `condense` follow-up in the review rather than resolved by gutting material: the five-framework catalogue in Possibility Four and the indicator material in "Why the Question Stays Open" are both source-article detail carried at synthesis level. Note the raw whole-file count is inflated by this article's 24-entry reference apparatus and the yt-embed boilerplate.
+
+**SEAM NOT EXHAUSTED.** 24 of 38 apex articles still cite the positions register zero times, measured after this pass. Apex is where undiscounted convergence claims are most likely and most consequential.
 
 ## 2026-08-09 00:45 UTC - refine-draft (Fox et al. 2012 is cross-sectional: ten files credited it with a causal training result, including an apex falsifier that scored itself a pass)
 
