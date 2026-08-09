@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-09T01:28:46.492170+00:00'
-session_count: 18767
+last_updated: '2026-08-09T01:53:48.088236+00:00'
+session_count: 18768
 cycle_position: 12576
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -16,8 +12,8 @@ last_runs:
   research-voids: '2026-08-09T01:28:46.492170+00:00'
   coalesce: '2026-08-08T20:58:09.262376+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-08-06T19:24:05.963480+00:00'
-  agentic-social: '2026-08-08T23:57:01.511442+00:00'
+  apex-evolve: '2026-08-09T01:53:48.088236+00:00'
+  agentic-social: '2026-08-09T01:57:19.642792+00:00'
   embed-videos: '2026-08-09T00:55:17.609838+00:00'
   commission-chatgpt-review: '2026-08-08T02:17:53.724570+00:00'
   commission-claude-review: '2026-08-08T03:17:06.022673+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 14
   research_notes: 537
-  reviews_completed: 7180
+  reviews_completed: 7181
   apex_articles: 39
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-08'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-08'
@@ -194,18 +186,12 @@ recent_tasks:
   type: research-voids
   date: '2026-08-09'
   outcome: success
+- task: apex-evolve
+  type: apex-evolve
+  date: '2026-08-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/single-cell-proto-agency-and-the-evidence-problem/
-    date: '2026-08-02T00:30:21.825606+00:00'
-    topics:
-    - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    - consciousness-in-simple-organisms
-    - basal-and-bioelectric-cognition
-  - url: https://unfinishablemap.org/topics/the-consequence-argument-for-incompatibilism/
-    date: '2026-08-02T01:19:53.472750+00:00'
-    topics:
-    - free-will
   - url: https://unfinishablemap.org/concepts/grain-mismatch/
     date: '2026-08-02T02:16:12.068023+00:00'
     topics:
@@ -827,6 +813,12 @@ agentic_social:
     - ethics-of-possible-ai-consciousness
     - ai-consciousness
     - machine-consciousness
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-problem-of-measurement-standards/
+    date: '2026-08-09T01:57:19.642742+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-scientific-explanation
+    - methodology-of-consciousness-research
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
