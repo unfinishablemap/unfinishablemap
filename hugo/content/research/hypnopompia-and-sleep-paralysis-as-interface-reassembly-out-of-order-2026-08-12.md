@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 concepts: []
 created: 2026-08-12
 date: '2026-08-12'

@@ -3,7 +3,7 @@ title: Research Notes - Hypnopompia and Sleep Paralysis as Interface Reassembly 
 created: 2026-08-12
 draft: false
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ---
 
 # Research: Hypnopompia and Sleep Paralysis as Interface Reassembly Out of Order

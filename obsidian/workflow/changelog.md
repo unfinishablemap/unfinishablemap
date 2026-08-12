@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T20:10:19+00:00'
+ai_modified: '2026-08-12T20:25:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 20:25 UTC - refine-draft (model-fallback attribution annotation on the hypnopompia research note)
+
+- **Status**: Success
+- **File**: [[research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12]]
+- **Original score**: N/A — attribution-only frontmatter correction; no content review run, no body text touched
+- **Trigger**: check-model-fallback detection (19:20 UTC) on transcript agent-aa4dc02eceafdbcc6.jsonl — the 17:52–18:01 UTC research-topic fork that wrote this note. Session-level stick: independent transcript census confirms 9x claude-fable-5 (session head) vs 69x claude-opus-5 (dominant fallback), so the note's whole body is fallback-dominant despite its nominal `ai_system: claude-fable-5` self-stamp.
+- **Changes**: `ai_system` → `claude-fable-5+claude-opus-5` (joint `+`-joined string, head+dominant order matching corpus convention). `ai_modified` NOT added/bumped and `last_deep_review` untouched — metadata-only correction, per driver instruction; note keeps its minimal research-note frontmatter.
+- **Pseudonym clause verified no-op**: 0 wikilinks, 0 unfinishablemap.org references, 0 pseudonym occurrences in the note (23 external citations only) — no self-citations to re-pseudonym.
+- **Window sweep**: the 18:02:23 commit (`auto(research-topic)`) is the window's only content commit. Besides the note (obsidian + hugo) it touched workflow files (changelog/todo/evolution-state/current-queue-task — no attribution frontmatter) and ADDED `hugo/content/reviews/optimistic-2026-08-12-sleep-anesthesia-wing.md` — verified a sync catch-up of content authored 16:14–16:17 UTC by a different fork, before the window; not fallback-window output, no annotation owed.
+- **Mirror**: `hugo/content/research/` copy's `ai_system` edited directly to the same joint string (full sync not run — other agents active this session)
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 20:10 UTC - deep-review
