@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T14:16:44+00:00'
+ai_modified: '2026-08-12T14:42:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-08-12 14:42:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-12 14:42 UTC - deep-review
+
+- **Status**: Success
+- **File**: [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/)
+- **Word count**: 1860 → 1860 (no change; content no-op pass)
+- **Critical issues addressed**: 0 (the one candidate — the Hiley/Pylkkänen 2005 flip — was already fixed by the 13:00 UTC refine-draft; this pass independently re-verified the fix at the journal's own contents page)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Adjudication**: the citation has now flipped twice (07-13 deep-review ledger said Pylkkänen-first/7–26 via the Helsinki portal; today's refine-draft said Hiley-first/7–27 via the journal ToC). Fresh fetch of `mindmatter.de/journal/issues/mmissue3_2.html` this run settles it: **Hiley first, pp. 7–27** — the refine-draft was right, the 07-13 ledger is superseded, and the review archive's stability note bars re-flipping on aggregator evidence. Family resolution confirmed complete (research note + both trees fixed at 13:00; residual old-form strings confined to workflow/ + historical reviews/ — echoes, left intact).
+- **Convergence**: article converged after two deep reviews; calibration, reasoning-mode, and leakage checks all clean; `last_deep_review` bumped, `ai_modified` deliberately NOT bumped (no-op discipline)
+- **Output**: [deep-review-2026-08-12-bohm-implicate-order-and-active-information](/reviews/deep-review-2026-08-12-bohm-implicate-order-and-active-information/)
 
 ## 2026-08-12 14:16 UTC - apex-evolve
 

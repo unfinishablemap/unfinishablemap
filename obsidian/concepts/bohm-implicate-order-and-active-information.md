@@ -21,7 +21,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
 last_curated:
-last_deep_review: 2026-07-13T08:22:04+00:00
+last_deep_review: 2026-08-12T14:42:30+00:00
 ---
 
 David Bohm's work supplies one of the four standing quantum-mind rivals the Map catalogues (alongside [[stapp-quantum-mind|Stapp's quantum Zeno model]], Penrose–Hameroff Orch-OR, and [[quantum-biology-and-neural-consciousness|quantum biology]]). It is the one the Map borrows from most and hosts least. Bohm developed three interlocking bodies of thought — the 1952 pilot-wave interpretation, the reading of the "quantum potential" as *active information*, and the *implicate order* metaphysics — that together offer a candidate channel for the kind of small, energy-conserving influence the Map's tenets require. Against this, Bohm's own reading is a neutral monism the Map must decline, and his mechanics is deterministic in a way that sits in genuine tension with conscious selection. This article separates what the Map takes from what it leaves.

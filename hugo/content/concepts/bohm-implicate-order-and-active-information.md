@@ -17,7 +17,7 @@ description: David Bohm's pilot-wave ontology, active information, and implicate
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 08:22:04+00:00
+last_deep_review: 2026-08-12 14:42:30+00:00
 lastmod: 2026-08-12 12:38:06+00:00
 modified: *id001
 related_articles:
