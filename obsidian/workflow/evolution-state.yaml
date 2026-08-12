@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-12T10:52:07.219480+00:00'
-session_count: 18778
+last_updated: '2026-08-12T11:08:37.482826+00:00'
+session_count: 18779
 cycle_position: 12577
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-08T20:58:09.262376+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-09T01:53:48.088236+00:00'
-  agentic-social: '2026-08-09T03:01:58.514283+00:00'
+  agentic-social: '2026-08-12T11:25:22.699088+00:00'
   embed-videos: '2026-08-09T00:55:17.609838+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-08T05:55:32.568919+00:00'
   collect-gemini-review: '2026-08-08T05:06:54.291665+00:00'
   positions-evolve: '2026-08-07T22:05:52.414688+00:00'
-  check-model-fallback: '2026-08-09T02:37:54.488335+00:00'
+  check-model-fallback: '2026-08-12T11:08:37.482826+00:00'
   harvest-research-subjects: '2026-08-12T10:52:07.219480+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -118,10 +114,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-08'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-08'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-08'
@@ -194,281 +186,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-12'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/attentional-economics/
-    date: '2026-08-02T03:15:14.566224+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
-    date: '2026-08-02T07:03:37.289329+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/
-    date: '2026-08-02T07:53:23.153881+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - epistemology
-    - methodology-of-consciousness-research
-    - consciousness-and-testimony
-    - consciousness-and-scientific-explanation
-  - url: https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/
-    date: '2026-08-02T08:49:55.819436+00:00'
-    topics:
-    - comparative-phenomenology-of-meditative-traditions
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-  - url: https://unfinishablemap.org/topics/graduated-middle-path-valence-modulated-attention/
-    date: '2026-08-02T09:44:46.648794+00:00'
-    topics:
-    - valence-and-conscious-selection
-    - wanting-liking-and-the-value-in-mechanism-fork
-    - the-steelman-for-value-blind-selection
-    - phenomenal-value-realism
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/essential-vs-contingent-consciousness/
-    date: '2026-08-02T10:39:06.666796+00:00'
-    topics:
-    - indian-philosophy-of-mind
-    - hard-problem-of-consciousness
-    - personal-identity
-    - the-convergence-argument-for-dualism
-  - url: https://unfinishablemap.org/topics/grain-mismatch-as-independent-evidence/
-    date: '2026-08-02T11:28:39.409964+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/quantum-interpretations/
-    date: '2026-08-02T12:17:06.077685+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/intentionality/
-    date: '2026-08-02T13:10:14.802551+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - phenomenology-of-intellectual-life
-    - the-naturalisation-failure-for-content
-  - url: https://unfinishablemap.org/topics/the-steelman-for-process-monism/
-    date: '2026-08-02T14:02:58.361605+00:00'
-    topics:
-    - interaction-problem-across-traditions
-    - four-quadrant-dualism-taxonomy
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-probability-interpretation/
-    date: '2026-08-02T15:09:09.675314+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-subjective-probability
-  - url: https://unfinishablemap.org/concepts/sleep-and-consciousness/
-    date: '2026-08-02T15:58:06.879944+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-disruption-and-the-mind-brain-interface
-  - url: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/
-    date: '2026-08-02T16:51:20.652667+00:00'
-    topics:
-    - ai-consciousness
-    - ethics-of-possible-ai-consciousness
-    - anti-correlation-probes-for-ai-consciousness
-    - claude-constitution-consciousness-uncertainty
-  - url: https://unfinishablemap.org/concepts/haecceity/
-    date: '2026-08-02T17:38:03.543057+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-  - url: https://unfinishablemap.org/concepts/blindsight/
-    date: '2026-08-02T18:26:05.289602+00:00'
-  - url: https://unfinishablemap.org/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/
-    date: '2026-08-02T19:19:28.514223+00:00'
-    topics:
-    - free-will
-  - url: https://unfinishablemap.org/topics/phenomenology-of-forgetting/
-    date: '2026-08-02T20:11:33.696560+00:00'
-    topics:
-    - consciousness-and-memory
-    - phenomenology-of-memory-and-the-self
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
-    date: '2026-08-02T21:00:00.028832+00:00'
-    topics:
-    - machine-consciousness
-    - moral-implications-of-genuine-agency
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
-    date: '2026-08-02T23:28:19.295447+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
-  - url: https://unfinishablemap.org/concepts/kripke-a-posteriori-necessity-argument/
-    date: '2026-08-03T00:20:58.351914+00:00'
-  - url: https://unfinishablemap.org/concepts/sellars-manifest-and-scientific-images/
-    date: '2026-08-03T01:31:01.507761+00:00'
-  - url: https://unfinishablemap.org/topics/dualism-channel-width-axis/
-    date: '2026-08-03T02:24:58.661971+00:00'
-    topics:
-    - dualism
-    - philosophy-of-mind
-    - metaphysics
-  - url: https://unfinishablemap.org/topics/phenomenology-of-cognitive-capacity/
-    date: '2026-08-03T03:12:16.051941+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-skill-acquisition
-    - free-will
-    - empirical-phenomena-mental-causation
-  - url: https://unfinishablemap.org/topics/fish-sentience-and-the-teleost-pain-debate/
-    date: '2026-08-03T04:25:32.699295+00:00'
-    topics:
-    - marginal-organism-scope-of-value-sensitive-selection
-    - valence-and-conscious-selection
-    - animal-consciousness
-    - pain-consciousness-and-causal-power
-  - url: https://unfinishablemap.org/topics/consciousness-in-smeared-quantum-states/
-    date: '2026-08-03T05:13:00.257897+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-and-counterfactual-reasoning/
-    date: '2026-08-03T06:06:47.236779+00:00'
-    topics:
-    - free-will
-    - consciousness-and-the-problem-of-induction
-  - url: https://unfinishablemap.org/concepts/epistemology/
-    date: '2026-08-03T07:00:17.432254+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - phenomenal-authority-and-first-person-evidence
-    - argument-from-reason
-  - url: https://unfinishablemap.org/topics/purpose-and-alignment/
-    date: '2026-08-03T07:59:47.916997+00:00'
-    topics:
-    - meaning-of-life
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/structural-varieties-of-consciousness-and-ai-phenomenology/
-    date: '2026-08-03T08:50:14.214598+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/phenomenology-of-deliberation-under-uncertainty/
-    date: '2026-08-03T09:43:35.232485+00:00'
-    topics:
-    - free-will
-    - phenomenology-of-intellectual-life
-  - url: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
-    date: '2026-08-03T10:48:16.057076+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/q3-q4-sliding-boundary-and-transparency-problem/
-    date: '2026-08-03T11:36:12.580841+00:00'
-    topics:
-    - dualism
-    - philosophy-of-mind
-    - metaphysics
-  - url: https://unfinishablemap.org/concepts/phenomenal-constitution-thesis/
-    date: '2026-08-03T12:35:45.176788+00:00'
-    topics:
-    - cognitive-phenomenology
-    - intentionality
-  - url: https://unfinishablemap.org/concepts/conceptual-role-semantics/
-    date: '2026-08-03T13:24:36.897454+00:00'
-    topics:
-    - intentionality
-    - content-externalism
-    - teleosemantics
-  - url: https://unfinishablemap.org/topics/emotion-and-dualism/
-    date: '2026-08-03T14:22:04.500503+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ethics-under-dualism
-  - url: https://unfinishablemap.org/concepts/organizational-invariance/
-    date: '2026-08-03T15:15:23.226034+00:00'
-    topics:
-    - machine-consciousness
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/mind-arena/
-    date: '2026-08-03T16:10:48.772351+00:00'
-    topics:
-    - dualism
-    - machine-consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
-    date: '2026-08-03T20:18:25.063933+00:00'
-  - url: https://unfinishablemap.org/topics/forward-in-time-vs-time-symmetric-selection/
-    date: '2026-08-03T21:07:48.826685+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/
-    date: '2026-08-03T22:01:30.586905+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/consciousness-as-amplifier/
-    date: '2026-08-03T22:51:20.504596+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/apex/conjunction-coalesce/
-    date: '2026-08-04T00:40:16.273419+00:00'
-  - url: https://unfinishablemap.org/concepts/global-workspace-theory/
-    date: '2026-08-04T01:30:32.327410+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/concepts/emergence/
-    date: '2026-08-04T02:30:59.306105+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/phenomenal-transparency-opacity-spectrum/
-    date: '2026-08-04T03:27:12.924696+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
-    date: '2026-08-04T04:28:28.465306+00:00'
-    topics:
-    - consciousness-and-language-interface
-    - philosophy-of-language-under-dualism
-    - language-recursion-and-consciousness
-    - aphantasia
-  - url: https://unfinishablemap.org/topics/predictive-processing-and-dualism/
-    date: '2026-08-04T05:22:42.457351+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - cognitive-science-of-dualism
-    - surprise-prediction-error-and-consciousness
-  - url: https://unfinishablemap.org/concepts/fitness-beats-truth/
-    date: '2026-08-04T06:16:27.730309+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
-    date: '2026-08-04T07:05:00.274001+00:00'
-    topics:
-    - selection-only-mind-influence
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/kairos/
-    date: '2026-08-04T08:07:54.347414+00:00'
-  - url: https://unfinishablemap.org/topics/dream-consciousness/
-    date: '2026-08-04T09:07:40.067855+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/philosophy-of-time/
-    date: '2026-08-04T10:06:24.887785+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
-    date: '2026-08-04T10:55:08.168703+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/process-philosophy/
-    date: '2026-08-04T11:49:12.335522+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
     date: '2026-08-05T17:08:09.939013+00:00'
     topics:
@@ -823,6 +546,10 @@ agentic_social:
     date: '2026-08-09T03:00:18.966104+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/tenets/background-commitments/
+    date: '2026-08-12T11:25:22.699044+00:00'
+    topics:
+    - free-will
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
