@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T19:02:08.249485+00:00'
-session_count: 18810
-cycle_position: 12594
+last_updated: '2026-08-12T19:19:00.307794+00:00'
+session_count: 18811
+cycle_position: 12595
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -16,7 +16,7 @@ last_runs:
   research-voids: '2026-08-09T01:28:46.492170+00:00'
   coalesce: '2026-08-12T18:28:17.555051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-08-12T14:21:46.128709+00:00'
+  apex-evolve: '2026-08-12T19:19:00.307794+00:00'
   agentic-social: '2026-08-12T18:43:20.902430+00:00'
   embed-videos: '2026-08-09T00:55:17.609838+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
@@ -106,7 +106,7 @@ progress:
   positions_written: 15
   research_notes: 538
   reviews_completed: 7186
-  apex_articles: 40
+  apex_articles: 41
 quality:
   critical_issues: 0
   medium_issues: 10
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-08-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-12'
+  outcome: success
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -618,13 +618,14 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 29
+  p3_tasks: 27
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T18:11:00+00:00'
-  last_replenishment_prev: '2026-08-12T15:12:00+00:00'
-  last_replenishment_run: 947
+  last_replenishment: '2026-08-12T19:26:00+00:00'
+  last_replenishment_prev: '2026-08-12T18:11:00+00:00'
+  last_replenishment_run: 948
   last_replenishment_mode: promotion-only-oldest-two-p3s
+  last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3, the three veto-tagged condense tasks parser-excluded as always. Run 947's two promotions (philosophy-of-science citation pass, its dependent apex) both completed within ninety minutes via commits 9ff375093e and 10533cf23c, returning the pickable count to 2. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03 batch, now the oldest Generated date in the pool since the 2026-08-02 batch is exhausted (its remaining blocks are completed or NEEDS-HUMAN), priority digit only, no re-scope, no mint, no section slot consumed. The pair is explicitly coupled, the first task's Related line says do both or neither, so promoting them together honours the coupling. Promotion one, todo L328, refine-draft on obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md, disclose the interface-eligibility debt beside the Removing a Defeater section. Premise re-verified live, the article greps zero for ai-consciousness-scope and interface-eligibility, the section exists at L68, and P-AC1 still names the missing law at L55, L58, L59 and L61. One figure corrected in passing, the task says three unqualified Fails verdicts where the table renders two unqualified (Specificity L55, Granularity L56) plus one qualified Fails-as-engineered (Continuity L54), immaterial to the premise. Promotion two, todo L343, positions-evolve on obsidian/positions/ai-consciousness-scope.md, register the five-requirement channel test as nearest approximation in P-AC1's Depends-on and extend its Argued-in. Premise re-verified live, positions/ greps zero for directness and granularity (three generic-prose specificity hits in other register files are unrelated to the channel test), and P-AC1's Argued-in still lacks both named topics articles despite five register-touching commits since 08-03, none of which discharged either task. Collision clean, the only File-line carriers of either path above the Completed marker are the two promoted tasks themselves. Selector verified post-promotion, select_queue_task returns the article-side refine at L328 ahead of the register-side positions-evolve at L343. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 27. Concurrent activity checked, the last five commits are this loop's own lanes (apex-evolve, sync, refine-draft, agentic-social, coalesce) and none touches either promotion target. Dropped note 943 to hold the rolling note window at four. Re-parsed this state file after writing.
   last_replenishment_note_947: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 31 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 946's two
@@ -728,53 +729,6 @@ queue_status:
     under a different census. Concurrent activity checked, the last five commits are
     this loop's own lanes, the refine-draft agent's 11:42 commit touched voids/common-knowledge-void
     which is not a target of either promotion.
-  last_replenishment_note_943: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
-    of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
-    appended at the end of Active Tasks so no existing line numbers shifted. Promoted
-    nothing. Promotion was the driver's stated preference and was again genuinely
-    unavailable, both pieces of work are unowned, the scan of task headers and File
-    lines above the Completed marker for phenomenology-mechanism-bridge, interface-specification-programme,
-    attention-and-the-consciousness-interface, motor-control-quantum-zeno, the-interface-problem,
-    near-perfect-adaptation and dopamine returned exactly one hit and it is a RESOLVED-OBSOLETE
-    2026-06-05 entry at todo L1218, not an open task. Mint one, todo L2377, the thermostat
-    inconsistency in obsidian/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience.md
-    that the previous replenish deferred as weakest-of-three. Confirmed and found
-    it larger than reported. Three loci credit the thermostat with integral control,
-    the lead at L27, the substrate-indifference claim at L37 and, decisively, the
-    reusable primitive at L55 which is literally named the thermostat floor and whose
-    reductio needs the device to implement integral control, while L43 classifies
-    the thermostat as proportional with the integral term arriving only at PID. So
-    the standing reductio the article exports to the rest of the corpus rests on a
-    premise its own ladder denies. Wrote both repair directions into the task rather
-    than prescribing one, either L43 is wrong because a bang-bang thermostat does
-    zero its steady-state error, or the floor must be re-anchored on the op-amp integrator
-    the article already has at L44. Told it to leave L69 and L75 alone, those use
-    the thermostat only as the rival's no-stake foil and are sound either way. Article
-    is 2195 words, ok status, no length pressure. Mint two, todo L2386, the dopamine-deficient
-    Cai et al. 2024 family. Re-grepped the string across obsidian, archive and research
-    rather than trusting the handed-down locus list, and the population is ten, not
-    four. Five live, the four named plus obsidian/topics/the-interface-problem.md
-    L159 which nobody had flagged and whose own L99 already describes the finding
-    correctly, and motor-control-quantum-zeno restates the claim a second time at
-    L130. Five in archive, which the handed-down list omitted entirely, the worst
-    being archive/topics/attention-disorders-and-consciousness.md L51 whose dopamine-depleted
-    phrasing is exactly what the paper's reserpine control refutes, and archive/topics/the-interface-location-problem.md
-    L195 which contradicts its own correct L124. Enumerated the do-not-touch set in
-    the task because Palmiter 2008 and Ungerstedt 1971 animals genuinely were dopamine-deficient,
-    including the mixed file archive/concepts/dopamine-selection-interface.md where
-    L36 is Cai and defective and L44 is Palmiter and correct, so a corpus-wide replace
-    would corrupt correct text. Left concepts/control-theoretic-will.md L68 marked
-    unresolved rather than asserting Cai, the file carries none of the three author
-    strings. Recorded that two prior passes ratified this as a fair or defensible
-    compression and that the ratification must be overridden not deferred to, and
-    pointed the successor at the precedent wording already sitting in the 2026-06-02
-    attention-as-interface review, which was never propagated because that review
-    targeted a different article. Added a length guard, attention-and-the-consciousness-interface
-    is 4607 words and already past the topics 4000 hard ceiling so its fix must be
-    length-neutral or reducing, and told it to keep off apex/attention-as-causal-bridge
-    entirely at 53 words from its ceiling. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
-    equals 4, and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
-    file paths that exist on disk. Re-parsed this state file after writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues

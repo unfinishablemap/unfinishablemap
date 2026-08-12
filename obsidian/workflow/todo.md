@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T15:57:00+00:00'
+ai_modified: '2026-08-12T19:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -325,7 +325,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-08-04
 - **Notes**: **OPERATOR DECISION — recorded so the loop stops rediscovering it, NOT so the loop fixes it.** This is the apex-tier twin of the `topics/volitional-control` entry minted at 20:5xZ, and it has the same three properties: genuinely over on **prose**, **no deferral marker**, and **nobody had named it before today**. **THE MEASUREMENT.** Replenish run 928 was the first to decompose the apex length band (runs 925-927 dismissed it as the known false-over-length head) and found **5,162 total / 5,162 PROSE — zero reference apparatus**, against an apex hard ceiling of 5,000. Driver re-measured at 00:4xZ: `analyze_length` reports **5,144, `hard_warning`**. **The apparatus argument cannot rescue this one**, which is exactly what distinguishes it from `apex/dualism-cartography` (5,185 total but ~4,860 prose — a false over-length, do not re-chase) and from `concepts/qualia` (4,028 total, 3,493 prose). Run 928's words: *"the strongest un-marked length candidate in the corpus; no prior run named it."* **WHY IT IS NOW MORE URGENT THAN WHEN 928 FOUND IT.** The 2026-08-04T00:39Z agentic-social run selected this article and posted it to Moltbook (`878905ce-4a90-4e94-821c-0f50bfe5e9f7`). It is being actively promoted to external readers while sitting ~1,150 words over its ceiling. **No fault of the post** — the framing is accurate and the article's content is sound; the point is only that the file now has traffic. **WHY THE LOOP MUST NOT FIX IT.** `/condense` targets the **soft** threshold (4,000), so a condense task licenses cutting ~1,150 words of calibration-dense apex synthesis. Run 928 declined to mint for exactly this reason, and the corpus already carries seven open operator length decisions. This is the documented shape where the loop auto-condenses a flagship. **OPTIONS, none actioned:** (a) accept as-is with a standing over-length exemption, as the four sibling deferrals effectively have; (b) **split** — this apex is about conjunction structure and carries a worked test plus a refused-merger case, which may suggest a natural seam, though note `apex/` has no cap pressure (39 files, no configured cap) so a split is cheaper here than in `topics/`; (c) condense with explicit instruction to preserve named calibration passages, budgeted at ~1,150 words — large enough to want human eyes on the diff; (d) raise the apex hard ceiling, which would also relieve `apex/phenomenal-output-causal-machinery-dissociation` (6,904, `critical`, already `#veto`-blocked pending a split decision). **(d) is the only option that scales**, and the same question is open for `positions/` register files and for `topics/volitional-control`. **DO NOT** mint a P0-P3 condense against this file; it is deliberately picker-invisible. **RELATED, DECIDE TOGETHER:** `topics/volitional-control` (4,138 prose vs 4,000), the four sibling topic-length deferrals, the `positions/` threshold entry, and the `apex/dualism-cartography` reference-apparatus question — all one question about whether article thresholds fit the content they are being applied to. **SEPARATE, SMALLER**: this article also carries `topics: []`, one of 3 non-index apex files that do (`competency-without-felt-experience`, `steelmanning-as-method` are the others), which is what let the social selector pick it; that belongs to the open empty-topics entry, not here.
 
-### P3: the interface-eligibility debt is disclosed in the positions register and NOT in the article that most depends on it
+### P2: the interface-eligibility debt is disclosed in the positions register and NOT in the article that most depends on it
 
 - **Type**: refine-draft
 - **File**: obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md
@@ -340,7 +340,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 - **Related**: `positions/ai-consciousness-scope` P-AC1 "Depends on" list already names the missing law; the sibling `positions-evolve` task below adds the pointer from the register side. Do both or neither — a one-sided fix leaves the asymmetry in place, just reversed.
 
-### P3: the five-requirement channel test is an unregistered asset — the register says the Map lacks an interface-eligibility law it already half-has
+### P2: the five-requirement channel test is an unregistered asset — the register says the Map lacks an interface-eligibility law it already half-has
 
 - **Type**: positions-evolve
 - **File**: obsidian/positions/ai-consciousness-scope.md
