@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-08-12 19:14:57+00:00
+ai_modified: 2026-08-12 20:10:19+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,8 +19,8 @@ description: 'The Map''s argumentative move: take a rival framework''s own crite
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 19:45:00+00:00
-lastmod: 2026-08-12 19:14:57+00:00
+last_deep_review: 2026-08-12 20:10:19+00:00
+lastmod: 2026-08-12 20:10:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The Map's move sits closest to **immanent critique** combined with **dialectical
 
 [Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences: what works. The Map runs this criterion on the pragmatist's own materialism. Evaluation is itself a conscious activity — the felt sense that one framework illuminates while another obscures is what gives pragmatic assessment its normative force. Reduce evaluation to physical mechanism and "what works" threatens to collapse into "what merely happens to occur," because there is no longer any standpoint from which to judge that a problem has been *resolved*.
 
-This instance, unlike the closure and Cutter instances that follow, is not fully premise-neutral, and the Map should not bill it as if it were. A naturalist pragmatist in the line of Dewey or Rorty holds that evaluation and normativity are constituted by physical, functional, and social processes with no irreducible conscious standpoint required; on that view a physically-constituted standpoint simply *is* a genuine evaluative standpoint, and "what works" does not collapse. The collapse follows only given the Map's own commitment that a physically-constituted standpoint is *not* a genuine evaluative one — which is the irreducibility the wider argument is trying to reach, not a premise the pragmatist concedes. So this instance engages the physicalist at a framework boundary: it functions as immanent critique for a pragmatist who already grants that evaluation outruns physical mechanism, and as a marked disagreement, not a premise-neutral defeat, for one who does not. The [full argument](/topics/pragmatisms-path-to-dualism/) carries that standpoint premise openly rather than smuggling it in, and shows the pragmatist norm generating a positive dualist successor once the premise is granted.
+This instance, unlike the closure and Cutter instances that follow, is not fully premise-neutral, and the Map should not bill it as if it were. A naturalist pragmatist in the line of Dewey or Rorty holds that evaluation and normativity are constituted by physical, functional, and social processes with no irreducible conscious standpoint required; on that view a physically-constituted standpoint simply *is* a genuine evaluative standpoint, and "what works" does not collapse. The collapse follows only given the Map's own commitment that a physically-constituted standpoint is *not* a genuine evaluative one — which is the irreducibility the wider argument is trying to reach, not a premise the pragmatist concedes. So this instance engages the physicalist at a framework boundary: it functions as immanent critique for a pragmatist who already grants that evaluation outruns physical mechanism, and as a [marked disagreement](/project/bedrock-clash-vs-absorption/), not a premise-neutral defeat, for one who does not. The [full argument](/topics/pragmatisms-path-to-dualism/) carries that standpoint premise openly rather than smuggling it in, and shows the pragmatist norm generating a positive dualist successor once the premise is granted.
 
 ### Causal Closure — Circularity and Self-Stultification
 

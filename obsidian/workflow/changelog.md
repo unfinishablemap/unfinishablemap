@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T19:14:57+00:00'
+ai_modified: '2026-08-12T20:10:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 20:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/reflexive-methodology]]
+- **Word count**: 2401 → 2401 (+0; inline link alias only — length-neutral at 96% of soft)
+- **Critical issues addressed**: 0 (none found — converged; delta since 2026-07-07 review was cross-link integration only)
+- **Medium issues addressed**: 1 (inline [[bedrock-clash-vs-absorption|marked disagreement]] link installed in the pragmatism instance — the article's central premise-neutral-vs-boundary distinction now points at the discipline that governs the call)
+- **Enhancements made**: 1 (the same link); new Further Reading glosses to [[apex/steelmanning-as-method]] and [[apex/judging-the-map-as-science]] verified accurate against their targets
+- **Citations**: References block unchanged since 2026-07-07 publisher-of-record verify (5/5 real-correct); Cutter quote re-spot-checked verbatim; superlative sweep zero
+- **Engagement modes** (editor-internal): pragmatism = Mode Three, marked in natural prose; causal-closure = Mode One (formulation dilemma) + retorsive supplement; Russellian monism = Mode One via Cutter's recoil; Stroud = mixed (in-framework datum reply, then honest boundary-marking)
+- **Output**: [[reviews/deep-review-2026-08-12-reflexive-methodology]]
+
 ---
 
 ## 2026-08-12 19:14 UTC - apex-evolve
