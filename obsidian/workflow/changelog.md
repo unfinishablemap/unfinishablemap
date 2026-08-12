@@ -1,8 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T17:24:00+00:00'
+ai_modified: '2026-08-12T17:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 17:56 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Hypnopompia and sleep paralysis as interface reassembly out of order
+- **Output**: [[research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12]]
+- **Sources consulted**: 23 cited (16 searches, 8 fetch attempts; 4 paywalled/blocked and flagged as unverified in the note)
+- **Assess-first verdict**: WRITE, with a corrected frame. The commissioning premise — that the anaesthesia article's induction/emergence asymmetry "predicts hypnopompia should differ structurally from hypnagogia" — collides with the field's default position (Mavromatis 1987, restated in Ghibellini & Meier 2023: no clear phenomenological or physiological HG/HP difference established; the two are usually treated as one phenomenon). The better-evidenced version of the same thesis rests instead on three literatures that do not depend on that contrast: measured asynchronous network recovery on awakening (Wang et al. 2024, n=21, thalamus > ACC > sensorimotor), hysteresis as a general network mechanism rather than a pharmacological artefact (Kim/Moon/Mashour/Lee 2018 — the clean bridge from the anaesthesia wing to the sleep wing), and sleep paralysis's own spectral signature intermediate between REM and wake (Mainieri et al. 2020; Herrero et al. 2025). Ascent-side framing checks out: ~64% of isolated sleep-paralysis episodes occur on awakening.
+- **Counter-positions recorded at full strength**: REM-wake dissociation is mechanistically well characterised (GABA/glycine motoneuron hyperpolarisation persisting past arousal); hallucination content is explained by threat-activated vigilance plus TPJ body-map projection (Cheyne; Jalal & Ramachandran) and is heavily culturally shaped (Hufford; Jalal et al. 2021). The note therefore restricts the available claim to the *order and timing* of channel restoration and explicitly forbids content-based inference — and forbids reintroducing the "you cannot train an epiphenomenon" over-claim the same-day optimistic review flagged in [[concepts/sleep-and-consciousness]].
+- **Lineage find**: "hypnopompic" was coined in 1897 by Frederic W. H. Myers — the Map's own filter/transmission ancestor ([[topics/terminal-lucidity-and-filter-transmission-theory]]) — explicitly to mark the departure of sleep as a process distinct from its arrival.
+- **Verification debt flagged in the note**: Cheyne/Newby-Clark/Rueffer 1999 (*J Sleep Res*, the single most on-point source) not retrieved — paywalled; Ghibellini & Meier and Mainieri et al. paywalled, their figures from secondary summary; the Stevner 2019 "two asymmetric processes" sentence is NOT in the retrieved abstract and must not be quoted; Kim et al. and Wang et al. quotes need verbatim re-verification at primary text.
+
 ---
 
 ## 2026-08-12 17:24 UTC - deep-review

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Hypnopompia and sleep paralysis as interface reassembly out of order
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-12-sleep-anesthesia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-12-sleep-anesthesia-wing (High Priority) flags the ascent side of the sleep wing as unmapped: the corpus documents interface disassembly in detail (hypnagogia, anaesthesia induction) but reassembly almost nowhere. Sleep paralysis is the natural experiment - waking awareness returning while REM atonia and hallucinatory intrusion persist, channels re-engaging out of order. Sleep paralysis has one passing mention corpus-wide (out-of-body-experiences); hypnopompia none. Live literature: Cheyne intruder/incubus/vestibular taxonomy. The anaesthesia article predicts hypnopompia should differ structurally from hypnagogia. If topics/ is at cap when the expand stage runs, the review names the fallback: a Reassembly-out-of-order section extending hypnagogic-phenomenology-and-interface-modulation. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-12
-
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft
@@ -2604,6 +2598,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-12: Research Hypnopompia and sleep paralysis as interface reassembly out of order
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-12-sleep-anesthesia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-12-sleep-anesthesia-wing (High Priority) flags the ascent side of the sleep wing as unmapped: the corpus documents interface disassembly in detail (hypnagogia, anaesthesia induction) but reassembly almost nowhere. Sleep paralysis is the natural experiment - waking awareness returning while REM atonia and hallucinatory intrusion persist, channels re-engaging out of order. Sleep paralysis has one passing mention corpus-wide (out-of-body-experiences); hypnopompia none. Live literature: Cheyne intruder/incubus/vestibular taxonomy. The anaesthesia article predicts hypnopompia should differ structurally from hypnagogia. If topics/ is at cap when the expand stage runs, the review names the fallback: a Reassembly-out-of-order section extending hypnagogic-phenomenology-and-interface-modulation. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-08-12: consciousness-and-the-problem-of-induction is pre-guardrail — it runs a reflexive-methodology instance without the datum/claim crossing marked
 - **Type**: refine-draft
