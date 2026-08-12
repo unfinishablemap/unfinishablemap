@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T14:42:30+00:00'
+ai_modified: '2026-08-12T14:57:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 14:57 UTC - refine-draft (Fox 2012 residue: the two research-note table glosses left by the 2026-08-09 sweep, closed by dated-correction-notice)
+
+- **Status**: Success
+- **File**: [[research/metacognition-consciousness-2026-01-18]] + [[research/introspection-reliability-first-person-2026-01-15]]
+- **Original score**: n/a — `scripts/curate.py` does not exist (skill §3 doc-drift, unchanged since 2026-08-09)
+- **Source**: the follow-up task minted by the 2026-08-09 00:45 refine-draft (changelog-2026-W32 L73)
+- **Changes**: dated correction notices per the `dopamine`/`entropic-brain`/`cognitive-phenomenology` precedent, placed at the top of each Executive Summary so a truncated fetch reaches them before the Historical Timeline tables; original text left intact as dated snapshots, table rows deliberately NOT rewritten in place. (1) `metacognition-consciousness-2026-01-18` — the L191 timeline row *"Training improves metacognitive accuracy"* is doubly wrong: causal framing (Fox 2012, `10.1371/journal.pone.0045370`, is cross-sectional, N=38, authors say the design "precludes inferring a direct causal link") **and** domain (Fox measured perceptual introspective accuracy — self-assessed tactile sensitivity against normative two-point-discrimination and cortical body-representation data — not confidence-calibration metacognitive accuracy). The notice also names the same causal upgrade where the note speaks in its own voice ("Metacognition as Trainable Skill" core claim; the debate section's "Training dramatically improves accuracy") — visible only on a re-grep of the file body, invisible to a Fox-shaped grep, per the 2026-08-09 narrow-pattern lesson. Baird et al. (2014) cited with its qualifier intact (randomised, active control, memory-but-not-perception domain; Fox's measure is perceptual); no claim made about the literature as a whole. (2) `introspection-reliability-first-person-2026-01-15` — the L207 timeline gloss *"Empirical evidence for training effects"* contradicts the note's own Key Sources entry, which says "Cross-sectional study" outright; milder notice, gloss-only scope stated.
+- **Scope discipline**: re-grepped `Fox` across both trees before editing rather than inheriting the task's counts; all other Fox loci are reviews/changelog echoes, different Foxes, or the explicitly-leave list (`contemplative-practice-as-philosophical-evidence` L139 canonical, `testing-the-map-from-inside` L178, `phenomenal-authority-and-first-person-evidence` L166, `contemplative-path` L128/L168 — all confirmed already correct, untouched). No sweep.
+- **Frontmatter**: `ai_modified` bumped on both (the introspection note lacked the field entirely — added); `ai_system` held on both — a citation-framing correction is not authoring.
+- **Engagement classification**: none — no named-opponent reply altered.
+- **Mirror**: synced; both notices verified in `hugo/content/research/` with the pointer wikilink converted to `/topics/contemplative-practice-as-philosophical-evidence/`.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 14:42 UTC - deep-review

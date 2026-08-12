@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-11 09:56:00+00:00
+ai_modified: 2026-08-12 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-07-11'
+date: '2026-08-12'
 draft: false
-lastmod: 2026-07-11 09:56:00+00:00
+lastmod: 2026-08-12 14:56:00+00:00
 related_articles: []
 title: Research Notes - Metacognition and Consciousness
 ---
@@ -17,6 +17,8 @@ title: Research Notes - Metacognition and Consciousness
 **Search queries used**: "metacognition consciousness philosophy Stanford Encyclopedia", "metacognition higher-order theories consciousness introspection", "metacognition neuroscience prefrontal cortex self-awareness 2024 2025", "lucid dreaming metacognition anterior prefrontal cortex", "introspection reliability consciousness philosophy", "metacognitive monitoring confidence calibration neural mechanisms", "theory of mind metacognition consciousness self-awareness development", "metacognition animals primates rats uncertainty monitoring", "metacognition consciousness necessary sufficient blindsight", "Rosenthal higher-order thought theory consciousness", "metamemory feeling of knowing tip of tongue", "metacognition meditation mindfulness"
 
 ## Executive Summary
+
+> **Correction (2026-08-12)**: Where the Historical Timeline below glosses the 2012 entry as "Fox et al. meditation-introspection study — Training improves metacognitive accuracy", both halves of the gloss are wrong for the cited study. Fox, K.C.R. et al., "Meditation experience predicts introspective accuracy", *PLOS ONE* 7(9):e45370 (2012), `10.1371/journal.pone.0045370`, is cross-sectional and correlational — N=38, 1–15,000 practice hours, no longitudinal and no randomised arm; the authors state the design "precludes inferring a direct causal link" and call for a future "pre-post design… with a suitable (e.g., wait-list) control group". And what it measured was introspective accuracy in a perceptual domain — participants' assessments of their own tactile sensitivity, scored against normative two-point-discrimination thresholds and mean cortical body-representation areas — not metacognitive accuracy in the confidence-calibration sense this note's neuroscience sections use. So *meditation experience predicts perceptual introspective accuracy* is supported; *training improves metacognitive accuracy* is not, at least not by this study. The same causal upgrade recurs where the note speaks in its own voice — the "Metacognition as Trainable Skill" position summary ("improves with training (meditation)") and the Introspection Reliability debate's "Training dramatically improves accuracy" — and should be read with the same discount. (A randomised pre-post study does exist: Baird et al. (2014), *Journal of Experimental Psychology: General* 143(5):1972–1979, a two-week randomised program with active control, enhanced introspective accuracy in a memory but not a perception domain — and Fox's measure is perceptual.) The rest of the note stands: the expert/novice differential and its logarithmic shape are Fox's actual findings, and the note's higher-order-theory exposition, aPFC/lucid-dreaming material, and consciousness–metacognition dissociation arguments are unaffected. For the corrected framing see [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/). The original text below is left intact as a dated snapshot.
 
 Metacognition—thinking about thinking—occupies a pivotal but contested position in consciousness studies. The research reveals three distinct but interrelated phenomena: (1) metacognitive monitoring (confidence, error detection, feeling of knowing), (2) metacognitive control (using monitoring to regulate behavior), and (3) higher-order representation (the theoretical claim that consciousness requires awareness of one's mental states). The neuroscience converges on prefrontal cortex—particularly anterior PFC/frontopolar cortex—as critical for explicit metacognitive judgments, with fascinating structural connections to lucid dreaming (larger aPFC in lucid dreamers). However, metacognition and phenomenal consciousness may dissociate: blindsight suggests consciousness without metacognitive access; "blind insight" suggests metacognitive discrimination without conscious experience. For The Unfinishable Map's framework, metacognition appears to be a cognitive capacity that consciousness *enables* rather than constitutes.
 

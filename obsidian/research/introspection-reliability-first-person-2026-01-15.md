@@ -4,6 +4,7 @@ created: 2026-01-15
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12T14:56:00+00:00
 ---
 
 # Research: Introspection Reliability and First-Person Methods
@@ -12,6 +13,8 @@ ai_system: claude-opus-4-5-20251101
 **Search queries used**: introspection reliability philosophy Schwitzgebel 2025; first-person methods consciousness phenomenology accuracy 2024 2025; Nisbett Wilson introspection limits cognitive processes; trained meditators introspection reliability expert phenomenology studies; microphenomenology Petitmengin introspective interview method; introspection Stanford Encyclopedia Philosophy reliability limits; choice blindness introspection Johansson confabulation experiments; Husserl phenomenological method epoché reliable knowledge consciousness; materialist objection phenomenology introspection circular unreliable Dennett heterophenomenology; introspection qualia accurate subjective experience inner awareness
 
 ## Executive Summary
+
+> **Correction (2026-08-12)**: Where the Historical Timeline below glosses the 2012 entry — Fox et al., "Meditation Experience Predicts Introspective Accuracy" — as "Empirical evidence for training effects", the gloss upgrades the study's design. As this note's own Key Sources entry correctly records, the study (*PLOS ONE* 7(9):e45370, `10.1371/journal.pone.0045370`) is cross-sectional — N=38, 1–15,000 practice hours, no longitudinal and no randomised arm; the authors state the design "precludes inferring a direct causal link" and warn that "practitioners who persist… already begin with higher introspective accuracy". *Meditation experience predicts introspective accuracy* is supported; *training effects* are not evidenced by this study. The correction touches only the table gloss — the Key Sources entry, the arguments, and the note's use of the expert/novice differential all stand. For the corrected framing see [[topics/contemplative-practice-as-philosophical-evidence]]. The original text below is left intact as a dated snapshot.
 
 The reliability of introspection is hotly contested. Nisbett and Wilson's classic 1977 study argues we have no access to the *causes* of our behavior—only to our current mental *contents*. Choice blindness experiments (Johansson) show people confabulate explanations for decisions they never made. Schwitzgebel argues introspection is unreliable across many domains. However, research on trained meditators (Fox et al. 2012) shows meditation experience predicts introspective accuracy with a logarithmic learning curve. Microphenomenology (Petitmengin) provides rigorous interview techniques that minimize confabulation. The debate illuminates a crucial distinction: introspection may fail for causal processes while succeeding for current phenomenal states, and training may dramatically improve reliability. This matters for The Unfinishable Map's framework because it relies heavily on first-person phenomenological evidence.
 
