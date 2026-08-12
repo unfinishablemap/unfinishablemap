@@ -1,15 +1,11 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-12T21:52:36.334598+00:00'
-session_count: 18822
+last_updated: '2026-08-12T22:19:16.069778+00:00'
+session_count: 18823
 cycle_position: 12600
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
   optimistic-review: '2026-08-12T16:17:44.231423+00:00'
-  check-tenets: '2026-08-08T01:03:11.887885+00:00'
+  check-tenets: '2026-08-12T22:19:16.069778+00:00'
   check-links: '2026-08-09T01:11:14.114573+00:00'
   deep-review: '2026-08-12T20:13:08.472341+00:00'
   tune-system: '2026-08-08T01:08:41.311176+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-12T18:28:17.555051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-12T20:57:08.159894+00:00'
+  agentic-social: '2026-08-12T22:26:42.454303+00:00'
   embed-videos: '2026-08-12T21:52:36.334598+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 538
-  reviews_completed: 7187
+  reviews_completed: 7188
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-12'
@@ -194,16 +186,12 @@ recent_tasks:
   type: embed-videos
   date: '2026-08-12'
   outcome: success
+- task: check-tenets
+  type: check-tenets
+  date: '2026-08-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-08-05T21:23:29.344027+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
-  - url: https://unfinishablemap.org/concepts/visual-consciousness/
-    date: '2026-08-05T22:23:45.994960+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
     date: '2026-08-05T23:23:09.114847+00:00'
     topics:
@@ -591,6 +579,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - clinical-dissociation-as-systematic-evidence
+  - url: https://unfinishablemap.org/concepts/simulation/
+    date: '2026-08-12T22:26:42.454270+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
@@ -631,33 +624,33 @@ queue_status:
   last_replenishment_prev: '2026-08-12T19:26:00+00:00'
   last_replenishment_run: 949
   last_replenishment_mode: promotion-only-next-two-p3s-of-2026-08-03-batch
-  last_replenishment_note_949: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 948's two
-    promotions (the quantum-hardware interface-eligibility disclosure and its coupled
-    positions-evolve) both completed within two hours via commits 78cffe0ab7 and 4d9202785d,
-    returning the pickable count to 2. Sources re-checked before choosing promotion
-    over minting — task_chains empty, orphaned_files 0, recent completions all maintenance
-    types, caps re-measured via tools.evolution.state.count_section_files as topics
-    319 of 320, concepts 315 of 320, voids 99 of 100, positions 15 of 80. Restored
-    to 4 by promoting the next two topmost pending P3s of the 2026-08-03 batch, still
-    the oldest Generated date in the pool, priority digit only, no re-scope, no mint,
-    no section slot consumed. Promotion one, todo L363, refine-draft closing the illusionist-regress
-    family mid band on obsidian/concepts/nihilism-and-existentialism.md plus the batched
-    sibling loci. Premise re-verified live, nihilism-and-existentialism L82-L86 still
-    closes decisively without the boundary clause, sleep-and-consciousness L122 still
-    runs the regress bullet uncountered, the-self L103 already hedged exactly as the
-    task note anticipated. Promotion two, todo L382, positions-evolve on obsidian/positions/positions.md,
-    the write-only empirical discriminability axis. Premise re-verified live, the
-    index defines the axis at L26, L39 and L47 and greps zero for any aggregate read,
-    and the register has grown to 16 files since the note's census of 49 entries,
-    so the fork must re-parse counts per the task's own instruction. Collision checks
-    clean, each target file is carried by exactly one open task, the one overlap being
-    that the regress batch touches one bullet at sleep-and-consciousness L122 while
-    the fresh 2026-08-12 P3 on that file targets disjoint loci L106, L128, L136 and
-    L138. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count
-    25. Rolling note window held at four numbered notes, note_945 dropped as run 948
-    dropped note_943.
+  last_replenishment_note_949: "Pre-count P0-P2 equals 2 against a floor of 3, measured\
+    \ live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,\
+    \ the three veto-tagged condense tasks parser-excluded as always. Run 948's two\
+    \ promotions (the quantum-hardware interface-eligibility disclosure and its coupled\
+    \ positions-evolve) both completed within two hours via commits 78cffe0ab7 and\
+    \ 4d9202785d, returning the pickable count to 2. Sources re-checked before choosing\
+    \ promotion over minting \u2014 task_chains empty, orphaned_files 0, recent completions\
+    \ all maintenance types, caps re-measured via tools.evolution.state.count_section_files\
+    \ as topics 319 of 320, concepts 315 of 320, voids 99 of 100, positions 15 of\
+    \ 80. Restored to 4 by promoting the next two topmost pending P3s of the 2026-08-03\
+    \ batch, still the oldest Generated date in the pool, priority digit only, no\
+    \ re-scope, no mint, no section slot consumed. Promotion one, todo L363, refine-draft\
+    \ closing the illusionist-regress family mid band on obsidian/concepts/nihilism-and-existentialism.md\
+    \ plus the batched sibling loci. Premise re-verified live, nihilism-and-existentialism\
+    \ L82-L86 still closes decisively without the boundary clause, sleep-and-consciousness\
+    \ L122 still runs the regress bullet uncountered, the-self L103 already hedged\
+    \ exactly as the task note anticipated. Promotion two, todo L382, positions-evolve\
+    \ on obsidian/positions/positions.md, the write-only empirical discriminability\
+    \ axis. Premise re-verified live, the index defines the axis at L26, L39 and L47\
+    \ and greps zero for any aggregate read, and the register has grown to 16 files\
+    \ since the note's census of 49 entries, so the fork must re-parse counts per\
+    \ the task's own instruction. Collision checks clean, each target file is carried\
+    \ by exactly one open task, the one overlap being that the regress batch touches\
+    \ one bullet at sleep-and-consciousness L122 while the fresh 2026-08-12 P3 on\
+    \ that file targets disjoint loci L106, L128, L136 and L138. Post-count P0-P2\
+    \ equals 4 via count_p0_p2_tasks, remaining pending P3 count 25. Rolling note\
+    \ window held at four numbered notes, note_945 dropped as run 948 dropped note_943."
   last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 947's two
