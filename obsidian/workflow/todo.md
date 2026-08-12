@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
+### P2: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
 
 - **Type**: refine-draft
 - **File**: obsidian/concepts/bohm-implicate-order-and-active-information.md
@@ -47,7 +47,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **Fix**: `Hiley, B. J. & Pylkkänen, P. (2005) … Mind and Matter, 3(2), 7–27.` Also grep the corpus for other citations of this paper before closing. Everything else checked in this article verified clean (Bohm 1990 *Philosophical Psychology* 3(2–3), 271–286; Landsman 2022 *Foundations of Physics* 52, 73).
 - **Source**: pessimistic-review 2026-08-08 — see [[reviews/pessimistic-2026-08-08-claim-fidelity-base-rate]]
 
-### P3: `conceptual-impossibility.md` quotes Hegel verbatim but mis-states what the prejudice IS, and the mis-framing propagates; the Schlick quotation is unsourced
+### P2: `conceptual-impossibility.md` quotes Hegel verbatim but mis-states what the prejudice IS, and the mis-framing propagates; the Schlick quotation is unsourced
 
 - **Type**: refine-draft
 - **File**: obsidian/voids/conceptual-impossibility.md
