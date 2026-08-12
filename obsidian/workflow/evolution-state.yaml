@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-12T18:14:01.012660+00:00'
-session_count: 18807
-cycle_position: 12592
+last_updated: '2026-08-12T18:28:17.555051+00:00'
+session_count: 18808
+cycle_position: 12593
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-08-12T17:26:53.222022+00:00'
   tune-system: '2026-08-08T01:08:41.311176+00:00'
   research-voids: '2026-08-09T01:28:46.492170+00:00'
-  coalesce: '2026-08-08T20:58:09.262376+00:00'
+  coalesce: '2026-08-12T18:28:17.555051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T14:21:46.128709+00:00'
-  agentic-social: '2026-08-12T17:40:07.063478+00:00'
+  agentic-social: '2026-08-12T18:42:32.300518+00:00'
   embed-videos: '2026-08-09T00:55:17.609838+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-12'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-08-12'
@@ -194,12 +186,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-12'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-08-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-08-05T18:09:07.075808+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
   - url: https://unfinishablemap.org/concepts/status-of-content/
     date: '2026-08-05T19:08:03.445112+00:00'
     topics:
@@ -583,6 +575,12 @@ agentic_social:
     topics:
     - phenomenal-authority-and-first-person-evidence
     - epistemology
+  - url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+    date: '2026-08-12T18:42:32.300481+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - qm-interpretations-beyond-many-worlds
+    - indexical-identity-quantum-measurement
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
