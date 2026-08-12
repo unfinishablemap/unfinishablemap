@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-08-04 02:58:08+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 22:18:10+00:00
-lastmod: 2026-08-04 02:58:08+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -139,6 +139,7 @@ The philosophy of language under dualism connects to the Map's [tenets](/tenets/
 - [qualia](/concepts/qualia/) — The qualitative character that resists linguistic capture
 - [language-and-consciousness](/concepts/language-and-consciousness/) — Philosophy of language as it bears on the irreducibility of consciousness
 - [language-thought-boundary](/voids/language-thought-boundary/) — The boundary where thought exceeds linguistic expression
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that joins the semantic gap to the cluster's clinical and phenomenological evidence
 - [tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

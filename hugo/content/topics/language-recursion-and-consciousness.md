@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-04 02:58:08+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-08-04 02:58:08+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -206,6 +206,7 @@ Language, recursion, and consciousness connect to all five tenets:
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its regress problem
 - [language-and-consciousness](/concepts/language-and-consciousness/) — Meaning, reference, private language, and why consciousness resists linguistic dissolution
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds current AI systems lack consciousness
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — How this article's capacity argument joins the aphasia, failure-mode, boundary, and semantic-gap evidence in a single synthesis
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References

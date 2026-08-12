@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-04 08:54:17+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:54:20+00:00
-lastmod: 2026-08-04 08:54:17+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -160,6 +160,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The broader question: can consciousness upgrade itself at all?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [The Common-Knowledge Void](/voids/common-knowledge-void/) — How the recursion ceiling bounds shared knowledge between minds
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that pairs this void's depth ceiling with language's parallel embedding limit
 
 ## References
 

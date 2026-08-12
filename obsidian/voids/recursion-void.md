@@ -4,7 +4,7 @@ description: "Human+AI exploration of why metacognitive depth is bounded—consc
 created: 2026-02-05
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-08-04T08:54:17+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 last_deep_review: 2026-07-19T02:54:20+00:00
 draft: false
 topics:
@@ -156,6 +156,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[self-transcendence-void|The Self-Transcendence Void]] — The broader question: can consciousness upgrade itself at all?
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[common-knowledge-void|The Common-Knowledge Void]] — How the recursion ceiling bounds shared knowledge between minds
+- [[tool-that-cannot-say-its-user]] — The synthesis that pairs this void's depth ceiling with language's parallel embedding limit
 
 ## References
 

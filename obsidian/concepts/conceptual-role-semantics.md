@@ -4,7 +4,7 @@ description: "Why conceptual role semantics sidesteps the covariance dilemma and
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-08-06T12:14:13+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 last_deep_review: 2026-08-06T12:14:13+00:00
 draft: false
 topics:
@@ -70,6 +70,7 @@ The upshot for the [[the-naturalisation-failure-for-content|hard problem of cont
 - [[content-externalism]]
 - [[sellars-manifest-and-scientific-images]]
 - [[carrolls-regress]]
+- [[tool-that-cannot-say-its-user]]
 
 ## References
 

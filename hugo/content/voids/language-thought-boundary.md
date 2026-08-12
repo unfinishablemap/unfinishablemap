@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-03 12:13:58+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-08-03 12:13:58+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -184,6 +184,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside: five distinct experiential modes
 - [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. The first two faces are now incorporated above (the linguistic-limits and qualia sections); the analogical-domain face is folded into [metaphor-void](/voids/metaphor-void/)
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that reads this boundary's structural limits alongside the cluster's dissociation and failure-mode evidence
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-04T02:58:08+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -203,6 +203,7 @@ Language, recursion, and consciousness connect to all five tenets:
 - [[illusionism]] — The eliminativist challenge and its regress problem
 - [[language-and-consciousness]] — Meaning, reference, private language, and why consciousness resists linguistic dissolution
 - [[ai-consciousness]] — Why the Map holds current AI systems lack consciousness
+- [[tool-that-cannot-say-its-user]] — How this article's capacity argument joins the aphasia, failure-mode, boundary, and semantic-gap evidence in a single synthesis
 - [[tenets]] — The foundational commitments of the Map
 
 ## References

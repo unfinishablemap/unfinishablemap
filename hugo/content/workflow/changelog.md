@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T13:58:30+00:00'
+ai_modified: '2026-08-12T14:16:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 13:58:30+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-12 14:16 UTC - apex-evolve
+
+- **Status**: Success
+- **Mode**: create — new synthesis [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) (admitted as #36 in [apex-articles](/apex/apex-articles/))
+- **Cluster**: the eight-article language-consciousness cluster (recursion, interface, language-thought boundary, language-and-consciousness, recursion void, linguistic failure, philosophy of language under dualism, conceptual role semantics) — well-integrated, real cross-cutting thesis, no prior synthesis home. `minds-without-words` confirmed as a non-overlapping neighbour (its subjects *lack* language) and left untouched.
+- **Thesis**: language is a physical-functional tool consciousness uses, and the structured, non-uniform pattern of its failures is evidence about the user, not the tool's poverty. Methodological spine copied verbatim (grep-verified both trees) from `language-recursion-and-consciousness`'s two-stage access/phenomenality discipline.
+- **LLM-spread fix**: verified the 2026-08-03 sibling refine-draft already landed the [ai-consciousness-scope](/positions/ai-consciousness-scope/) register in the three source articles (verified, not re-fixed); the synthesis adopts and cites P-AC1 (*low probability, not ruled out*) and P-AC4 — the cluster's first apex-level citation of the AI-scope register.
+- **Word count**: 3,599 (`analyze_length`, apex soft 4,000 — ok). Slug-collision check clean. All wikilink targets resolve. Citations reuse the sources' verified set only.
+- **Integration**: reciprocal Further Reading links added in all eight source articles (`ai_modified` bumped, `ai_system` held). Evidence and Dependency ledger present; five-face convergence discounted per [common-cause-null](/project/common-cause-null/).
+- **Published**: yes
 
 ## 2026-08-12 13:58 UTC - positions-evolve
 

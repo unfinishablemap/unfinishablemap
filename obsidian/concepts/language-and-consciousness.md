@@ -4,7 +4,7 @@ description: "How meaning, reference, and the private language argument reveal t
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-08-02T03:25:11+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,6 +109,7 @@ The philosophy of language provides independent support for several of the Map's
 - [[mental-causation-and-downward-causation|mental causation]] — How conscious states cause physical effects
 - [[problem-of-other-minds]] — How private experience relates to public knowledge of others' minds
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — The first-person experience of language failing to capture conscious content
+- [[tool-that-cannot-say-its-user]] — The synthesis that places this article's semantic anomalies within the cluster's wider failure-pattern argument
 - [[tenets]] — The foundational commitments of the Map
 
 ## References

@@ -2269,27 +2269,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: apex_discipline_coverage_gap (verified live; concurrent with /apex-evolve changelog FINDING A)
 - **Generated**: 2026-07-29
 
-### P2: the language-consciousness cluster has eight well-integrated articles, a real cross-cutting thesis, and no apex
-
-- **Type**: apex-evolve
-- **File**: obsidian/apex/apex-articles.md
-- **Status**: pending
-- **Source**: [[reviews/optimistic-2026-08-02-language-consciousness-cluster]] — structural opportunity
-- **Generated**: 2026-08-02
-- **Notes**: **THE NEAR-MISS IS NOT THE PIECE — THIS WAS CHECKED, NOT ASSUMED.** `obsidian/apex/minds-without-words.md` is the only apex in the neighbourhood and its subject is **non-linguistic animal and minimal-organism consciousness** — marker method, UAL, C. elegans, the standing agnostic challenge. Its relation to language is that its subjects *lack* it. The cluster below concerns what happens **at the interface for creatures that have language**, on different evidence entirely. Do **not** extend `minds-without-words`; its `apex_thesis` is about experience being more fundamental than cognition and would be diluted.
-
-  **SOURCE ARTICLES (all live, all non-draft, no orphans — inbound counts verified):** `topics/language-recursion-and-consciousness` (33 in) · `topics/consciousness-and-language-interface` (27 in) · `voids/language-thought-boundary` (60 in) · `concepts/language-and-consciousness` (26 in) · `voids/recursion-void` (38 in) · `topics/phenomenology-of-linguistic-failure` (14 in) · `topics/philosophy-of-language-under-dualism` (12 in) · `concepts/conceptual-role-semantics` (10 in).
-
-  **THE THESIS NO SINGLE ARTICLE CAN VOICE FROM INSIDE ITSELF:** *language is a physical-functional system consciousness uses as a tool, and the structured, non-uniform pattern of its failures is evidence about consciousness rather than about language's poverty.* Each source supplies one face — recursion the capacity argument, aphasia the dissociation argument, linguistic-failure the phenomenological argument, the language-thought boundary the structural-limit argument, philosophy-of-language the semantic-gap argument.
-
-  **THE DISCIPLINE TO MAKE EXPLICIT — copy it, do not compose it.** `language-recursion-and-consciousness` **L37** already states the cluster's method: *"The evidence carries the first stage but not the second; keeping them distinct is the discipline this article models, since the inviting mistake is to let evidence for access stand in for a conclusion about phenomenality."* That is the language-cluster counterpart of `minds-without-words`'s constrain-vs-establish signature and should be the apex's methodological spine.
-
-  **⚠️ FIX THE LLM SPREAD OR INHERIT IT.** An apex must state one verdict, and the three source articles currently state three (see the sibling P3 on `philosophy-of-language-under-dualism`). Adopt `positions/ai-consciousness-scope` **P-AC1**'s register — *"low probability," not "ruled out"* — and **cite the register**, which no article in the cluster currently does. If the sibling refine-draft has already landed, verify rather than re-fix.
-
-  **LENGTH.** Apex articles run long and this cluster is large; `minds-without-words` is ~4,000w. Decompose before trusting any over-length signal ([[analyze-length-counts-reference-apparatus]]) and use `analyze_length` rather than a raw word count.
-
-  **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
-
 ### ✓ 2026-08-03: eastern-philosophy-consciousness L130 bare regress — SATISFIED out-of-band by the family top-band pass, closed unexecuted
 - **Type**: refine-draft
 - **File**: obsidian/topics/eastern-philosophy-consciousness.md
@@ -2643,6 +2622,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-12: the language-consciousness cluster has eight well-integrated articles, a real cross-cutting thesis, and no apex
+- **Type**: apex-evolve
+- **File**: obsidian/apex/apex-articles.md
+- **Notes**: **THE NEAR-MISS IS NOT THE PIECE — THIS WAS CHECKED, NOT ASSUMED.** `obsidian/apex/minds-without-words.md` is the only apex in the neighbourhood and its subject is **non-linguistic animal and minimal-organism consciousness** — marker method, UAL, C. elegans, the standing agnostic challenge. Its relation to language is that its subjects *lack* it. The cluster below concerns what happens **at the interface for creatures that have language**, on different evidence entirely. Do **not** extend `minds-without-words`; its `apex_thesis` is about experience being more fundamental than cognition and would be diluted.
+  **SOURCE ARTICLES (all live, all non-draft, no orphans — inbound counts verified):** `topics/language-recursion-and-consciousness` (33 in) · `topics/consciousness-and-language-interface` (27 in) · `voids/language-thought-boundary` (60 in) · `concepts/language-and-consciousness` (26 in) · `voids/recursion-void` (38 in) · `topics/phenomenology-of-linguistic-failure` (14 in) · `topics/philosophy-of-language-under-dualism` (12 in) · `concepts/conceptual-role-semantics` (10 in).
+  **THE THESIS NO SINGLE ARTICLE CAN VOICE FROM INSIDE ITSELF:** *language is a physical-functional system consciousness uses as a tool, and the structured, non-uniform pattern of its failures is evidence about consciousness rather than about language's poverty.* Each source supplies one face — recursion the capacity argument, aphasia the dissociation argument, linguistic-failure the phenomenological argument, the language-thought boundary the structural-limit argument, philosophy-of-language the semantic-gap argument.
+  **THE DISCIPLINE TO MAKE EXPLICIT — copy it, do not compose it.** `language-recursion-and-consciousness` **L37** already states the cluster's method: *"The evidence carries the first stage but not the second; keeping them distinct is the discipline this article models, since the inviting mistake is to let evidence for access stand in for a conclusion about phenomenality."* That is the language-cluster counterpart of `minds-without-words`'s constrain-vs-establish signature and should be the apex's methodological spine.
+  **⚠️ FIX THE LLM SPREAD OR INHERIT IT.** An apex must state one verdict, and the three source articles currently state three (see the sibling P3 on `philosophy-of-language-under-dualism`). Adopt `positions/ai-consciousness-scope` **P-AC1**'s register — *"low probability," not "ruled out"* — and **cite the register**, which no article in the cluster currently does. If the sibling refine-draft has already landed, verify rather than re-fix.
+  **LENGTH.** Apex articles run long and this cluster is large; `minds-without-words` is ~4,000w. Decompose before trusting any over-length signal ([[analyze-length-counts-reference-apparatus]]) and use `analyze_length` rather than a raw word count.
+  **CAP.** `apex/` has no section cap in `evolution-state.yaml`; 39 apex files exist. Register the new file in `obsidian/apex/apex-articles.md` or it will be invisible.
 
 ### ✓ 2026-08-12: positions-evolve — the Map holds a first-order moral-status criterion (phenomenal sentientism) and the register does not contain it
 - **Type**: positions-evolve

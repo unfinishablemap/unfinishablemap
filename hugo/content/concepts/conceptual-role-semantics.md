@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-08-06 12:14:13+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 12:14:13+00:00
-lastmod: 2026-08-06 12:14:13+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - the-naturalisation-failure-for-content
@@ -73,6 +73,7 @@ The upshot for the [hard problem of content](/topics/the-naturalisation-failure-
 - [content-externalism](/concepts/content-externalism/)
 - [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/)
 - [carrolls-regress](/concepts/carrolls-regress/)
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/)
 
 ## References
 

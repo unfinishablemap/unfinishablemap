@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-04 03:34:30+00:00
+ai_modified: 2026-08-12 14:16:44+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-08-04 03:34:30+00:00
+lastmod: 2026-08-12 14:16:44+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -277,6 +277,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 - [qualia](/concepts/qualia/) — The qualitative character of experience and its resistance to description
 - [introspection](/concepts/introspection/) — Self-knowledge and its linguistic mediation
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Five distinct modes of what linguistic failure feels like from the inside
+- [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that reads this article's separability evidence together with the cluster's failure-pattern arguments
 - [tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-08-04T02:58:08+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,6 +135,7 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 - [[qualia]] — The qualitative character that resists linguistic capture
 - [[language-and-consciousness]] — Philosophy of language as it bears on the irreducibility of consciousness
 - [[language-thought-boundary]] — The boundary where thought exceeds linguistic expression
+- [[tool-that-cannot-say-its-user]] — The synthesis that joins the semantic gap to the cluster's clinical and phenomenological evidence
 - [[tenets]] — The foundational commitments shaping this investigation
 
 ## References

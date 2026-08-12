@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-08-03T12:13:58+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -181,6 +181,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes
 - [[research/voids-translation-void-2026-05-09|The Translation Void (research-stage)]] — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. The first two faces are now incorporated above (the linguistic-limits and qualia sections); the analogical-domain face is folded into [[metaphor-void]]
+- [[tool-that-cannot-say-its-user]] — The synthesis that reads this boundary's structural limits alongside the cluster's dissociation and failure-mode evidence
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
 ## References

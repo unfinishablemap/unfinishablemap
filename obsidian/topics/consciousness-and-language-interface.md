@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-08-04T03:34:30+00:00
+ai_modified: 2026-08-12T14:16:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -273,6 +273,7 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 - [[qualia]] — The qualitative character of experience and its resistance to description
 - [[introspection]] — Self-knowledge and its linguistic mediation
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Five distinct modes of what linguistic failure feels like from the inside
+- [[tool-that-cannot-say-its-user]] — The synthesis that reads this article's separability evidence together with the cluster's failure-pattern arguments
 - [[tenets]] — The foundational commitments shaping this investigation
 
 ## References
