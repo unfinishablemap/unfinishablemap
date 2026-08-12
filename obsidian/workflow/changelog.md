@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T16:24:02+00:00'
+ai_modified: '2026-08-12T16:59:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 16:59 UTC - refine-draft (calibration outlier of the argument-from-reason cluster: induction article inherits the reflexive-methodology datum/claim discipline)
+
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-problem-of-induction]]
+- **Original score**: n/a — `scripts/curate.py` does not exist (skill §3 doc-drift, unchanged since 2026-08-09)
+- **Source**: queue task; mechanical cause verified — `concepts/reflexive-methodology.md` (created 2026-07-07) postdates this article's last touch (2026-05-28) and its §"Datum Is Not Yet the Metaphysical Claim" names exactly the unmarked crossing this article's §"The Self-Application Problem" makes. Cross-link absence re-verified (grep 0 both directions) before editing.
+- **Changes** (three verified loci + reciprocal link; argument-from-reason payload preserved per remit — calibration, not demotion):
+  - **Lead (was L36)**: bald constitutive claim ("consciousness... *constitutes* the arena...") recast as the conditional the body defends — datum ("in us, inductive reasoning is a conscious, felt activity") explicitly separated from the contested claim ("the capacities this activity requires resist purely physical explanation"), with the constitutive phrase retained as the conditional's consequent. Matches the cluster's hedged-lead practice ([[project/evidential-status-discipline]], [[project/framework-stage-calibration]]).
+  - **Rockslide (was L52)**: re-marked as the argument's contention ("the argument contends... would be no more 'justified'"); new paragraph engages the standard replies previously engaged nowhere — reliabilism (Goldman, Kornblith: justification *is* reliable production) and Quinean naturalised epistemology — then gives the Map's relocate-not-dissolve reply (truth as norm; generality problem), inherited from [[topics/argument-from-reason]] §Reliabilism and [[concepts/reasons-responsiveness]] rather than re-argued, and closes with the calibrated concession that the dispute is unsettled (phrasing pattern from [[topics/consciousness-and-the-normativity-of-reason]] L100).
+  - **Dilemma (was L82)**: antecedent flagged as the contested claim; horns marked exhaustive only given the antecedent; functionalist horn-splitting upgraded from one-sentence dismissal to a genuine third option.
+  - **Self-application section**: named as a reflexive-methodology instance; over-claim "whose reality their conclusion denies" narrowed to "whose standing their conclusion puts in question" (identity physicalism denies irreducibility, not reality — the exact datum/claim slide); new boundary paragraph installs the crossing-marking discipline (argument bites hardest against eliminativism/epiphenomenalism; against efficacious-identity theorists it marks a framework boundary).
+  - **Reciprocal link**: `[[reflexive-methodology]]` added to frontmatter concepts, twice in body (aliased in prose), and Further Reading. Scope held to this file — reflexive-methodology.md itself untouched per remit.
+  - **References**: Goldman 1979 ("What Is Justified Belief?", Pappas ed., Reidel) and Quine 1969 ("Epistemology Naturalized", *Ontological Relativity and Other Essays*, Columbia UP) added to support the new engagement; citation forms match [[concepts/reasons-responsiveness]]'s existing Goldman entry.
+- **Engagement classification**: engagement with the reliabilist/naturalised epistemologist: mixed — the Map's relocate-not-dissolve reply invokes standards the rival endorses (truth-tracking, non-circular specification), closing with honest unsettledness; engagement with the functionalist: mixed — opens by identifying the unsupported foundational move (helps itself to normativity from dispositional structure without specifying how), closes with explicit framework-boundary marking ("the Map holds... the functionalist holds..."), replacing the prior boundary-substitution ("The 'should'... is not a physical relation" asserted as if it refuted the functionalist in-framework); engagement with the identity theorist (self-application section): framework-boundary marking, newly honest.
+- **Length**: body 1,837 → 2,409 words; well under topic thresholds.
+- **Frontmatter**: `ai_modified` bumped (future-date checked against `date -u`); `modified` left at 2026-02-17 matching this file's practice (Hugo `date` anchor preserved); **`ai_system` held at `claude-opus-4-6` per explicit task instruction**.
+- **Mirror**: targeted single-file sync through the real converter pipeline (`build_content_index` + `convert_file`, wikilink validation passing; full sync not run — other agents active this session). All changed strings grep-verified in `hugo/content/topics/consciousness-and-the-problem-of-induction.md`; `lastmod` 16:59, `date` unchanged 2026-02-17.
+- **Editor-vocabulary leak check**: grep for mode labels / discipline jargon in article body — clean.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 16:24 UTC - refine-draft (three-limb argument-independence claim deflated in archived aesthetic-evidence article)
