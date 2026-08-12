@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T14:45:34.746729+00:00'
-session_count: 18793
-cycle_position: 12585
+last_updated: '2026-08-12T14:59:42.461957+00:00'
+session_count: 18794
+cycle_position: 12586
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
-  refine-draft: '2026-08-12T12:58:54.388191+00:00'
+  refine-draft: '2026-08-12T14:59:42.461957+00:00'
   research-topic: '2026-08-07T20:55:47.198083+00:00'
   replenish-queue: '2026-08-12T13:11:09.981712+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-08-09'
-  outcome: failed
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-09'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-08-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -603,13 +603,42 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 32
+  p3_tasks: 30
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T13:10:00+00:00'
-  last_replenishment_prev: '2026-08-12T11:56:00+00:00'
-  last_replenishment_run: 945
+  last_replenishment: '2026-08-12T15:12:00+00:00'
+  last_replenishment_prev: '2026-08-12T13:10:00+00:00'
+  last_replenishment_run: 946
   last_replenishment_mode: promotion-only-oldest-two-p3s
+  last_replenishment_note_946: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 32 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 945's two
+    promotions (sentientism positions-evolve, language-consciousness apex-evolve)
+    both completed within two hours via commits 16b83cce2e and 9c4514ae5f, returning
+    the pickable count to 2. Restored to 4 by promoting the two topmost pending P3s
+    of the 2026-08-02 batch, the oldest Generated date in the pool, priority digit
+    only, no re-scope, no line count change, no mint, no section slot consumed.
+    Promotion one, todo L2290, refine-draft on archive/topics/aesthetic-dimension-of-consciousness.md,
+    the four-limb argument-level independence claim. Premise re-verified live, the
+    sentence still greps exactly once and sits in the L210 Dualism paragraph as the
+    task describes. Collision clean, exactly one open task carries the file. Low-urgency
+    archive target but FIFO within the date batch governs, matching run 945's rule.
+    Promotion two, todo L2299, refine-draft calibration on obsidian/topics/consciousness-and-the-problem-of-induction.md.
+    All three loci re-verified verbatim on disk, the L36 constitutive lead, the L52
+    rockslide sentence, the L82 dilemma, and the zero-reciprocal-link premise re-verified,
+    grep count 0 in both directions between the article and reflexive-methodology.
+    Collision noted and accepted, the file is also one of nine in scope of the L2308
+    citation-pass task which stays P3, overlap is bounded to the single reciprocal
+    reflexive-methodology link and is idempotent, and the calibration task landing
+    first shrinks the citation pass rather than conflicting with it. FIFO kept the
+    calibration task ahead, the citation pass and its dependent apex task (whose
+    notes name the citation pass as prerequisite) remain next in batch order for
+    a future promotion. Post-count P0-P2 equals 4, remaining pending P3 count 30.
+    Counters record pending-unblocked tasks per parse_tasks, same census as runs
+    944 and 945. Concurrent activity checked, the last five commits are this loop's
+    own lanes (refine-draft 14:59, deep-review 14:45, agentic-social 14:29, apex-evolve
+    14:21, positions-evolve 14:01) and none touches either promotion target. Re-parsed
+    this state file after writing.
   last_replenishment_note_945: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live by parsing Active Tasks on disk, 34 pending P3, the three veto-tagged condense
     tasks parser-excluded as always. Run 944's two promotions (bohm author-order,
