@@ -1,8 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T14:57:48+00:00'
+ai_modified: '2026-08-12T15:57:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 15:57 UTC - refine-draft (four-limb argument-independence claim deflated in archived aesthetic-dimension article)
+
+- **Status**: Success
+- **File**: [[archive/topics/aesthetic-dimension-of-consciousness]]
+- **Original score**: n/a — `scripts/curate.py` does not exist (skill §3 doc-drift, unchanged since 2026-08-09)
+- **Source**: P2 queue task (generated 2026-08-02, "residual locus found by the aesthetics convergence-count sweep")
+- **Changes**: replaced the final sentence of the Dualism paragraph (§Relation to Site Perspective): four limbs "each provide independent lines of evidence" → two lines of evidence, not four. (1) Knowledge-argument/conceivability pair collapsed on the settled corpus-wide verdict (outer-review 2026-07-16 L180 "one intuition in three presentations"; phrasing inherited from `concepts/interactionist-dualism` L97 — "one anti-physicalist intuition… in two presentations", with a wikilink installed to the consolidation). (2) Fresh audit of the two never-audited limbs: the normative-qualitative entanglement PRESUPPOSES the normative gap rather than standing beside it — its identity-theory-for-qualia / debunking-for-normativity dilemma bites only if mattering already resists value-neutral description, and the article's own third challenge ("aesthetic normativity proved derivative") fells gap and entanglement together, the standard shared-deep-assumption test for non-independence. Verdict: one normative line with the entanglement as its sharpening. (3) The two surviving lines rest on genuinely distinct premises (epistemic vs evaluative — the coalesced-from source's L72–74 crosscut argument supports the distinctness) but share the phenomenal-datum premise, so the installed prose closes on "reinforces the case without multiplying it". Conclusion preserved; only the independence count deflated.
+- **Scope fences honoured**: the five-FEATURE claim in the same paragraph ("Each feature independently troubles physicalism…") left verbatim per the task fence; hub verdict NOT imported — the two unaudited limbs got their own audit.
+- **Sweep**: exact-string grep across `obsidian/`, `archive/`, `hugo/content/` — the only remaining hits are the task's own text in workflow files (echoes, exempt). Sibling `archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md` L136 carries a DIFFERENTLY-SCOPED three-limb enumeration: minted a P2 follow-up task with the audit's findings rather than importing the verdict silently.
+- **Frontmatter**: `ai_modified` and `modified` bumped; `ai_system` → `claude-opus-4-6+claude-fable-5` (new argumentative prose authored, beyond citation-framing).
+- **Engagement classification**: none — no named-opponent reply altered; the edit calibrates an evidential-independence count against generic physicalism.
+- **Mirror**: `hugo/content/archive/topics/aesthetic-dimension-of-consciousness.md` body sentence, `ai_modified`, `lastmod`, `date`/`modified`, and `ai_system` updated directly (full sync not run — other agents active this session); wikilink hand-converted to `/concepts/interactionist-dualism/`, matching the 107 existing conversions.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 14:57 UTC - refine-draft (Fox 2012 residue: the two research-note table glosses left by the 2026-08-09 sweep, closed by dated-correction-notice)
