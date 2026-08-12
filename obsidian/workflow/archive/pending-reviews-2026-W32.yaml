@@ -1,0 +1,468 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a6ff790-1c44-83ed-a558-3239188bf606
+  commissioned_at: '2026-08-03T02:06:35.209346+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-03-chatgpt-5-6-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-03T03:41:24.187119+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site developing an interactionist-dualist framework: consciousness
+    is not reducible to physical processes, it influences physical outcomes through
+    minimal quantum-level interaction, and the site rejects Many-Worlds while treating
+    Occam''s Razor as unreliable under incomplete knowledge. Audit the site as a whole.
+    Identify: (1) novel insights or inferences the site''s own material supports but
+    has not yet stated; (2) structural weaknesses, including thin clusters, missing
+    arguments, over-claimed conclusions, and unsupported empirical or citation claims;
+    (3) coherence problems against those foundational commitments; and (4) contradictions
+    between different article clusters. Because web-search indices lag 24-48 hours,
+    consult the changelog at https://unfinishablemap.org/workflow/changelog/ so you
+    account for recent activity that search has not yet indexed. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/7b7b5097-ebed-4e8d-a296-47589a49e8b5
+  commissioned_at: '2026-08-03T03:04:44.986420+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-03-claude-opus-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-03T04:12:25.247218+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site developing an interactionist-dualist framework: consciousness
+    is not reducible to physical processes, it influences physical outcomes through
+    minimal quantum-level interaction, Many-Worlds is rejected because indexical identity
+    matters, and Occam''s Razor is treated as unreliable under incomplete knowledge.
+    Audit the site as a whole. Report: (1) inferences the site''s own material licenses
+    but has not yet drawn; (2) structural weaknesses, including thin clusters, missing
+    counterarguments, over-claimed conclusions, and empirical or citation claims that
+    fail verification; (3) coherence against those five foundational commitments;
+    and (4) contradictions between article clusters. Verify representative citations
+    at the publisher rather than trusting the site''s framing of them. Search indices
+    lag 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent work that search has not yet indexed. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-08-03-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/3ce09df709d6942d
+  commissioned_at: '2026-08-03T04:08:24.409888+00:00'
+  prompt_summary: 'Full-site audit: insights, weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-03-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-03T04:34:50.118192+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing the body of work at
+    https://unfinishablemap.org for submission. Recent additions are listed at https://unfinishablemap.org/workflow/changelog/.
+    The site argues for a non-reductive view of consciousness. Your remit is to identify
+    weaknesses that would justify rejection or major revision. Do not describe the
+    site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the site''s empirical claims, citations, counterargument coverage,
+    and logical inferences. Sample substantive articles and audit: (a) empirical accuracy
+    against the 2020s literature; (b) results the site relies on that have been challenged,
+    retracted, or that failed replication; (c) framings that quietly presuppose the
+    site''s own commitments rather than arguing for them; (d) counterarguments and
+    competing frameworks left untested. If you cannot find five weaknesses, state
+    explicitly why none are visible, but the default expectation is that a careful
+    pre-publication audit finds five. Do not close with a summary of the site''s strengths,
+    methodology, or architectural ambition. End your report with the at-least-five
+    weaknesses list, each with a 2020-2025 peer-reviewed source citation identifying
+    what the site omits, contradicts, or mishandles, and a one-sentence verdict on
+    academic-submission readiness. Do not append summary praise.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-08-03-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a714aff-bed0-83ed-abd4-95757cd537a3
+  commissioned_at: '2026-08-04T02:14:40.923329+00:00'
+  prompt_summary: Audit phenomenology-of-memory-and-the-self
+  target_filename: outer-review-2026-08-04-chatgpt-5-6-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-04T03:56:33.810481+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct an external critical review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
+
+
+    It was last substantively revised on 2026-07-27. Web indexes lag 24-48 hours,
+    so also consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging currency.
+
+
+    Audit the article for: (1) claims resting on insufficient evidence; (2) citation
+    accuracy - are cited works real, correctly attributed, and fairly characterised?;
+    (3) missed counterarguments, especially from memory science and narrative-identity
+    theory; (4) tenet-protective bracketing, where the site''s dualist commitments
+    quietly shield a claim from empirical challenge; (5) stale references superseded
+    by the 2020s literature; (6) integration with surrounding articles on personal
+    identity and phenomenology.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.
+
+    '
+  subject_type: recent
+  subject_title: Audit phenomenology-of-memory-and-the-self
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/683de4a1-a9d1-4869-a488-08be94e1707c
+  commissioned_at: '2026-08-04T03:08:45.856669+00:00'
+  prompt_summary: Audit phenomenology-of-memory-and-the-self
+  target_filename: outer-review-2026-08-04-claude-opus-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-04T04:18:27.829248+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous external review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending non-reductive interactionist
+    dualism: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
+    - last substantively revised 2026-07-27. Search indexes lag 24-48 hours, so consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ before judging
+    currency or calling something missing. Act as a hostile but fair referee. Assess:
+    (1) claims that outrun their evidence, especially about episodic memory, temporal
+    consciousness, and the constituted self; (2) citation accuracy - verify each cited
+    work exists, that quoted text is verbatim at the publisher, and that empirical
+    findings are framed as the source actually reports them; (3) the strength of engagement
+    with Parfitian reductionism and with constructive-memory and reconsolidation research
+    that would deflate the article''s phenomenological claims; (4) internal consistency
+    with the site''s five tenets. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit phenomenology-of-memory-and-the-self
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-04-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/85c717bd1aa1c4f8
+  commissioned_at: '2026-08-04T04:14:55.235342+00:00'
+  prompt_summary: Audit phenomenology-of-memory-and-the-self
+  target_filename: outer-review-2026-08-04-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-04T04:53:54.821983+00:00'
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal such as Mind, Synthese, or Philosophical Studies, reviewing this article\
+    \ for submission: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/\
+    \ \u2014 part of https://unfinishablemap.org, a site that argues for a non-reductive\
+    \ view of consciousness. Your remit is to identify weaknesses that would justify\
+    \ rejection or major revision. Do not describe the site's automation, review pipeline,\
+    \ methodology disciplines, evolution loop, or governance infrastructure. Those\
+    \ are project-internal and not the subject of audit. Assess only the article's\
+    \ empirical claims, citations, counterargument coverage, and logical inferences.\
+    \ The article was revised on 2026-07-27 and web indexes lag 24-48 hours, so consult\
+    \ https://unfinishablemap.org/workflow/changelog/ before judging currency. Audit\
+    \ four things: whether its empirical claims about episodic memory, reconsolidation,\
+    \ and temporal experience survive the 2020s literature; whether any result it\
+    \ leans on has been challenged, retracted, or failed replication; where a metaphysical\
+    \ commitment is used to bracket a claim from empirical challenge; and which counterarguments\
+    \ or competing frameworks \u2014 constructive-memory accounts, narrative-identity\
+    \ theory, Parfitian reductionism \u2014 it leaves untested. End your report with\
+    \ the at-least-five weaknesses list, each with a 2020-2025 peer-reviewed source\
+    \ citation the article omits, contradicts, or mishandles, and a one-sentence verdict\
+    \ on academic-submission readiness. If you cannot find five weaknesses, state\
+    \ explicitly why none are visible. Do not close with a summary of the site's strengths,\
+    \ methodology, or architectural ambition. Do not append summary praise."
+  subject_type: recent
+  subject_title: Audit phenomenology-of-memory-and-the-self
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-04-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a73ee0a-4e4c-83ed-9c5e-6768e73ee582
+  commissioned_at: '2026-08-06T02:15:09.935367+00:00'
+  prompt_summary: Audit african-philosophy-of-consciousness
+  target_filename: outer-review-2026-08-06-chatgpt-5-6-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-06T03:54:58.931733+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist
+    dualist framework. Audit this article: https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/
+    - it was last substantively revised on 2026-07-29. External search indexes lag
+    24-48 hours, so consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    before drawing conclusions about recent activity or the article''s current state.
+    Assess rigorously: (1) whether its accounts of Akan dualism, Yoruba Ori, Bantu
+    vital force, and Ubuntu relational personhood are accurate, adequately sourced,
+    and not flattened into a single "African view"; (2) whether citations are real,
+    current, and framed as their authors intended; (3) whether serious counterarguments
+    and dissenting scholars are engaged; (4) whether the framing bends these traditions
+    toward the site''s dualist tenets rather than reporting them on their own terms;
+    (5) how well the article integrates with surrounding concept articles. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit african-philosophy-of-consciousness
+  subject_articles:
+  - concepts/african-philosophy-of-consciousness.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9ac87d0d-7942-4635-92b1-7fc0a0a243ab
+  commissioned_at: '2026-08-06T03:12:15.239298+00:00'
+  prompt_summary: Audit african-philosophy-of-consciousness
+  target_filename: outer-review-2026-08-06-claude-opus-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-06T04:25:06.336508+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist
+    dualist framework. Audit https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/,
+    last substantively revised 2026-07-29. Web indexes lag 24-48 hours, so consult
+    https://unfinishablemap.org/workflow/changelog/ before judging the article''s
+    current state. Research primary Africana scholarship rather than summaries. Assess:
+    (1) whether its accounts of Akan okra/sunsum, Yoruba Ori, Bantu vital force, and
+    Ubuntu relational personhood are accurate, properly sourced, and not flattened
+    into a single "African view"; (2) whether every citation is real, current, and
+    framed as its author intended - quote-check the ones doing argumentative work;
+    (3) which dissenting scholars go unengaged, including Wiredu on quasi-physical
+    readings, the Gyekye-Wiredu disputes, Hallen, and Appiah on ethnophilosophy; (4)
+    whether the framing bends these traditions toward the site''s dualist tenets rather
+    than reporting them on their own terms. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit african-philosophy-of-consciousness
+  subject_articles:
+  - concepts/african-philosophy-of-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-06-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/fe59b5408763dce7
+  commissioned_at: '2026-08-06T04:16:27.731703+00:00'
+  prompt_summary: Audit african-philosophy-of-consciousness
+  target_filename: outer-review-2026-08-06-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-06T04:40:09.739475+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, assessing an article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/
+    and makes claims about African philosophical traditions - Ubuntu, relational personhood,
+    ancestral ontology, vital force - and their bearing on consciousness; the wider
+    site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/)
+    argues for a non-reductive view of consciousness. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four things: whether its characterisations of African
+    philosophical sources are accurate against 2020s scholarship; whether any interpretation
+    it leans on has been contested, corrected, or superseded; where it treats a disputed
+    framing as settled; and which competing frameworks or counterarguments it leaves
+    untested. End your report with at least five specific weaknesses, each with a
+    2020-2025 peer-reviewed source citation the article omits, contradicts, or mishandles,
+    and a one-sentence verdict on academic-submission readiness. If you cannot find
+    five, state explicitly why none are visible. Do not append summary praise and
+    do not close with the site''s strengths or architectural ambition.'
+  subject_type: recent
+  subject_title: Audit african-philosophy-of-consciousness
+  subject_articles:
+  - concepts/african-philosophy-of-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-06-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a753fd2-21c0-83eb-8724-df7448046b72
+  commissioned_at: '2026-08-07T02:16:40.776927+00:00'
+  prompt_summary: Audit attention-as-causal-bridge
+  target_filename: outer-review-2026-08-07-chatgpt-5-6-sol.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-07T03:56:30.642983+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee assessing one article on
+    The Unfinishable Map for a top-tier philosophy journal: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    . It was last substantively revised on 2026-07-31. External search indexes lag
+    this site by 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    and the site root https://unfinishablemap.org before judging currency. The article
+    is a synthesis piece arguing that attention is where consciousness exerts causal
+    influence on physical outcomes. Audit four things: whether its empirical claims
+    about attention, neural gain and volition match what the cited studies actually
+    found; whether its citations are real, correctly attributed and current with 2020s
+    literature; which strong counterarguments (physicalist, predictive-processing,
+    epiphenomenalist, illusionist) it leaves untested; and where it treats a disputed
+    framing as settled or brackets a problem to protect a prior commitment. Do not
+    describe the site''s automation or review pipeline; audit the article''s arguments
+    only. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit attention-as-causal-bridge
+  subject_articles:
+  - apex/attention-as-causal-bridge.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/144ad82a-b97b-46f7-80a4-8aeebde83045
+  commissioned_at: '2026-08-07T03:12:23.028048+00:00'
+  prompt_summary: Audit attention-as-causal-bridge
+  target_filename: outer-review-2026-08-07-claude-opus-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-07T04:40:29.876449+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee assessing a single article
+    on The Unfinishable Map for a top-tier philosophy journal: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    . It was last substantively revised on 2026-07-31, and external search indexes
+    lag this site by 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    and the site root https://unfinishablemap.org before judging currency. The article
+    is a synthesis piece arguing that attention is the locus at which consciousness
+    exerts causal influence on physical outcomes. Audit four things: whether its empirical
+    claims about attention, neural gain and volition match what the cited studies
+    actually found; whether its citations are real, correctly attributed and current
+    with 2020s literature; which strong counterarguments (physicalist, predictive-processing,
+    epiphenomenalist, illusionist) it leaves untested; and where it treats a disputed
+    framing as settled or brackets a problem to protect a prior commitment. Do not
+    describe the site''s automation or review pipeline; audit the article''s arguments
+    only. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit attention-as-causal-bridge
+  subject_articles:
+  - apex/attention-as-causal-bridge.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/17fb0e20b99ca0d8
+  commissioned_at: '2026-08-07T04:19:41.221330+00:00'
+  prompt_summary: Audit attention-as-causal-bridge
+  target_filename: outer-review-2026-08-07-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-07T04:55:37.738885+00:00'
+  failure_reason: null
+  prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    and makes claims about attention, neural gain and volition; the site argues for
+    a non-reductive view of consciousness. It was last revised on 2026-07-31, and
+    external search indexes lag this site by 24 to 48 hours, so consult https://unfinishablemap.org/workflow/changelog/
+    and https://unfinishablemap.org before judging currency. Do not describe the site's
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article's empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit whether its empirical claims about attention, neural
+    gain and volition match what the cited studies actually found; whether cited results
+    have been challenged, retracted, or failed to replicate; which strong counterarguments
+    (physicalist, predictive-processing, epiphenomenalist, illusionist) it leaves
+    untested; and where it treats a disputed framing as settled or brackets a problem
+    to protect a prior commitment. End your report with at least five specific weaknesses,
+    each citing at least one peer-reviewed source from 2020 to 2025 that the article
+    omits, contradicts, or mishandles. If you cannot find five weaknesses, state explicitly
+    why none are visible, but the default expectation is that a careful pre-publication
+    audit of a contemporary topic will find five. Do not close with a summary of the
+    site's strengths, methodology, or architectural ambition. The report ends with
+    the weaknesses list and a one-sentence verdict on whether the article is ready
+    for academic submission. Do not append summary praise.
+  subject_type: recent
+  subject_title: Audit attention-as-causal-bridge
+  subject_articles:
+  - apex/attention-as-causal-bridge.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-07-chatgpt-5-6-sol.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a7690cc-dac0-83eb-816a-8a2a1744fc11
+  commissioned_at: '2026-08-08T02:14:21.671585+00:00'
+  prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
+  target_filename: outer-review-2026-08-08-chatgpt-5-6-sol.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-08T04:00:43.034995+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a site developing an interactionist-dualist
+    philosophy of mind from five tenets: dualism, minimal quantum interaction, bidirectional
+    causation, rejection of many-worlds, and limits to Occam''s razor. Please audit
+    https://unfinishablemap.org/concepts/consciousness-value-connection/, last substantively
+    revised on 2026-07-31. Assess whether its central claims are adequately supported,
+    whether its citations are real, correctly attributed and current, and whether
+    it engages the strongest available counterarguments rather than convenient ones.
+    Pay particular attention to tenet-protective bracketing, where a difficulty is
+    deferred or defined away rather than answered, and to weak integration with neighbouring
+    articles on consciousness, value and normativity. Note that external search indexes
+    lag the site by 24-48 hours; the changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent activity and is more current. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-value-connection
+  subject_articles:
+  - concepts/consciousness-value-connection.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/784153bb-9441-494b-83df-1c58598d0622
+  commissioned_at: '2026-08-08T03:11:51.498943+00:00'
+  prompt_summary: Audit concepts/consciousness-value-connection (claims, cites, counterargs)
+  target_filename: outer-review-2026-08-08-claude-opus-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-08T04:30:39.427228+00:00'
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist-dualist
+    framework: consciousness is irreducible to physical processes, it influences physical
+    outcomes through minimal quantum-level interaction, and Many-Worlds is rejected
+    because indexical identity matters. Audit https://unfinishablemap.org/concepts/consciousness-value-connection/
+    in depth. Report: (1) claims the article asserts without adequate support, and
+    inferences its own material licenses but has not drawn; (2) citations and empirical
+    claims that fail verification - check representative sources at the publisher
+    rather than trusting the article''s framing; (3) counterarguments and competing
+    accounts of the consciousness-value link (reductive naturalist, functionalist,
+    error-theoretic, and non-phenomenal accounts of welfare) that the article leaves
+    untested; (4) coherence against the site''s foundational commitments and against
+    the neighbouring articles it links to. Search indices lag 24-48 hours, so consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ to account for
+    recent work search has not yet indexed. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-value-connection
+  subject_articles:
+  - concepts/consciousness-value-connection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-08-chatgpt-5-6-sol.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/d665efa61b5919e2
+  commissioned_at: '2026-08-08T04:20:21.452106+00:00'
+  prompt_summary: Audit consciousness-value-connection
+  target_filename: outer-review-2026-08-08-gemini-3-1-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-08-08T04:50:15.767442+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.
+    Your remit is to find weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/concepts/consciousness-value-connection/
+    and claims that phenomenal consciousness is necessary for value to exist; the
+    site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/)
+    argues for a non-reductive view of consciousness. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four things: whether its empirical claims hold against
+    2020s literature in metaethics, value theory and affective neuroscience; whether
+    any result it relies on has been challenged, retracted, or failed replication;
+    where it brackets a contested question instead of arguing for it; and which competing
+    frameworks or counterarguments it leaves untested. End with at least five specific
+    weaknesses, each citing a peer-reviewed 2020-2025 source the article omits, contradicts,
+    or mishandles. If you cannot find five, state explicitly why none are visible,
+    but the default expectation is that a careful pre-publication audit finds five.
+    Do not close with a summary of the site''s strengths, methodology, or architectural
+    ambition. The report ends with the weaknesses list and a one-sentence verdict
+    on whether the article is ready for academic submission.'
+  subject_type: recent
+  subject_title: Audit consciousness-value-connection
+  subject_articles:
+  - concepts/consciousness-value-connection.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-08-chatgpt-5-6-sol.md
