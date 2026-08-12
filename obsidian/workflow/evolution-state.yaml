@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-12T12:58:54.388191+00:00'
-session_count: 18786
+last_updated: '2026-08-12T13:11:09.981712+00:00'
+session_count: 18787
 cycle_position: 12581
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-08-08T20:58:09.262376+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-09T01:53:48.088236+00:00'
-  agentic-social: '2026-08-12T12:26:57.870357+00:00'
+  agentic-social: '2026-08-12T13:26:42.442441+00:00'
   embed-videos: '2026-08-09T00:55:17.609838+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
   refine-draft: '2026-08-12T12:58:54.388191+00:00'
   research-topic: '2026-08-07T20:55:47.198083+00:00'
-  replenish-queue: '2026-08-12T11:57:39.681963+00:00'
+  replenish-queue: '2026-08-12T13:11:09.981712+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-12T10:38:26.346206+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-08-09'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-08-09'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-12'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -558,6 +554,11 @@ agentic_social:
     date: '2026-08-12T12:26:18.704839+00:00'
     topics:
     - dualism
+  - url: https://unfinishablemap.org/voids/expertise-and-its-occlusion/
+    date: '2026-08-12T13:26:42.442407+00:00'
+    topics:
+    - philosophy-of-mind
+    - consciousness
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
@@ -612,36 +613,35 @@ queue_status:
     files where 15 now exist, immaterial against a cap of 80. Promotion two, todo
     L2280, Generated 2026-08-02 and topmost of that date's batch, apex-evolve for
     the language-consciousness cluster. Re-verified live, no language apex exists,
-    only minds-without-words which the task itself correctly fences off as the
-    non-linguistic-minds piece, and all four spot-checked source articles are live
-    on disk. Collision check, neither target file is carried by another open task.
-    Post-count P0-P2 equals 4, remaining pending P3 count 32. Counters record
-    pending-unblocked tasks per the parse, same census as run 944.
-    live with count_p0_p2_tasks after parsing the file on disk, 36 pending P3, the
-    three condense tasks tagged veto in their headers parser-excluded as always. Restored
-    to 4 by promoting the two oldest pending P3s to P2, priority digit only, no re-scope,
-    no line count change, so no existing task line moved and no mint was needed. Promotion
-    was available this run for the first time since 941 because the 2026-08-08 pessimistic
-    review left a queue of verified citation-fidelity refine-drafts at the top of
-    Active Tasks. Promotion one, todo L40, the Hiley and Pylkkanen 2005 author-order
-    reversal plus wrong page range in obsidian/concepts/bohm-implicate-order-and-active-information.md.
-    Re-verified live before promoting, reference 5 at L91 still reads Pylkkanen then
-    Hiley with pages 7 to 26 where the publisher's own contents page gives Hiley then
-    Pylkkanen and 7 to 27, and the defect is mirrored in hugo. First-author reversal
-    is the class that propagates hardest, and the task already instructs a corpus
-    grep before closing. Promotion two, todo L50, the Hegel prejudice mis-framing
-    plus unsourced Schlick quotation in obsidian/voids/conceptual-impossibility.md.
-    Re-verified live, the L76 gloss, the L94 propagated repeat and the single unsourced
-    Schlick sentence are all still on disk exactly as the task describes. Collision
-    checks clean, each target file is carried by exactly one open task, and the lone
-    conceptual-impossibility grep hit below the Vetoed header is a closed 2026-05-26
-    deep-review in the Completed span, not a veto. Both promoted tasks sit at the
-    head of the queue so FIFO picks them next. Post-count P0-P2 equals 4. Counters
-    this run record pending-unblocked tasks per parse_tasks, which is why p2 reads
-    4 where the previous run wrote 6 under a different census. Concurrent activity
-    checked, the last five commits are this loop's own lanes, the refine-draft agent's
-    11:42 commit touched voids/common-knowledge-void which is not a target of either
-    promotion.
+    only minds-without-words which the task itself correctly fences off as the non-linguistic-minds
+    piece, and all four spot-checked source articles are live on disk. Collision check,
+    neither target file is carried by another open task. Post-count P0-P2 equals 4,
+    remaining pending P3 count 32. Counters record pending-unblocked tasks per the
+    parse, same census as run 944. live with count_p0_p2_tasks after parsing the file
+    on disk, 36 pending P3, the three condense tasks tagged veto in their headers
+    parser-excluded as always. Restored to 4 by promoting the two oldest pending P3s
+    to P2, priority digit only, no re-scope, no line count change, so no existing
+    task line moved and no mint was needed. Promotion was available this run for the
+    first time since 941 because the 2026-08-08 pessimistic review left a queue of
+    verified citation-fidelity refine-drafts at the top of Active Tasks. Promotion
+    one, todo L40, the Hiley and Pylkkanen 2005 author-order reversal plus wrong page
+    range in obsidian/concepts/bohm-implicate-order-and-active-information.md. Re-verified
+    live before promoting, reference 5 at L91 still reads Pylkkanen then Hiley with
+    pages 7 to 26 where the publisher's own contents page gives Hiley then Pylkkanen
+    and 7 to 27, and the defect is mirrored in hugo. First-author reversal is the
+    class that propagates hardest, and the task already instructs a corpus grep before
+    closing. Promotion two, todo L50, the Hegel prejudice mis-framing plus unsourced
+    Schlick quotation in obsidian/voids/conceptual-impossibility.md. Re-verified live,
+    the L76 gloss, the L94 propagated repeat and the single unsourced Schlick sentence
+    are all still on disk exactly as the task describes. Collision checks clean, each
+    target file is carried by exactly one open task, and the lone conceptual-impossibility
+    grep hit below the Vetoed header is a closed 2026-05-26 deep-review in the Completed
+    span, not a veto. Both promoted tasks sit at the head of the queue so FIFO picks
+    them next. Post-count P0-P2 equals 4. Counters this run record pending-unblocked
+    tasks per parse_tasks, which is why p2 reads 4 where the previous run wrote 6
+    under a different census. Concurrent activity checked, the last five commits are
+    this loop's own lanes, the refine-draft agent's 11:42 commit touched voids/common-knowledge-void
+    which is not a target of either promotion.
   last_replenishment_note_943: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
     of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
     appended at the end of Active Tasks so no existing line numbers shifted. Promoted
