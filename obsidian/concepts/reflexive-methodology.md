@@ -4,7 +4,7 @@ description: "The Map's argumentative move: take a rival framework's own criteri
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-07-07T19:45:00+00:00
+ai_modified: 2026-08-12T18:56:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ last_deep_review: 2026-07-07T19:45:00+00:00
 
 Reflexive methodology is The Unfinishable Map's recurring argumentative move: take a *rival* framework's own criterion of success and run the rival through it, showing that by its own lights the rival either fails or is driven toward a dualist or deflationary conclusion. Where it can, the Map defeats materialism, pragmatism, or Russellian monism without importing dualist premises the opponent rejects: it measures the rival against the standard that rival itself avows and lets the standard do the work. This premise-neutrality is real in the method's cleanest instances, but it is not uniform across all of them. In some instances a shared standard runs out and the reflexive move turns on a commitment the rival does not grant; the Map marks that boundary honestly rather than passing the engagement off as premise-neutral. Distinguishing the two kinds of instance is itself part of the method's discipline, and the sections below flag which is which.
 
-This is worth naming as a method because the same shape recurs across the corpus with different engines inside it. Pragmatism is judged by its own "what works" test and fails it; the causal-closure argument is judged by its own demand for a non-circular formulation and cannot supply one; Russellian monism is judged by the very anti-physicalist arguments that motivate it and is destabilised by them. One move, four theatres.
+This is worth naming as a method because the same shape recurs across the corpus with different engines inside it. Pragmatism is judged by its own "what works" test and fails it; the causal-closure argument is judged by its own demand for a non-circular formulation and cannot supply one; Russellian monism is judged by the very anti-physicalist arguments that motivate it and is destabilised by them. One move, four theatres. Reflexive methodology is one of the Map's two named methods: its constructive companion, [[apex/steelmanning-as-method|steelmanning as method]], runs the complementary direction — building the strongest unified rival, granting that it absorbs the shape of the evidence, and isolating the residue that survives the grant.
 
 ## Distinct from Self-Stultification
 
@@ -96,6 +96,7 @@ The Stroud reply secures a phenomenal *datum* — that evaluation, reasoning, an
 
 ## Further Reading
 
+- [[apex/steelmanning-as-method|Steelmanning as Method]] — The Map's other named method and this one's constructive companion: build the strongest unified rival, grant the absorption, isolate the residue
 - [[self-stultification]] — The property the method sometimes deploys: a belief whose truth undercuts its own grounds
 - [[self-stultification-as-master-argument]] — The single structure across four targets
 - [[pragmatism]] — Immanent critique of the pragmatist's own materialism

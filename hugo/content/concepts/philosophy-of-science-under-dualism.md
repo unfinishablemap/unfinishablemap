@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-01 12:08:27+00:00
+ai_modified: 2026-08-12 18:56:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 20:17:47+00:00
-lastmod: 2026-06-01 12:08:27+00:00
+lastmod: 2026-08-12 18:56:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The demarcation problem asks: what distinguishes science from non-science? Duali
 
 The stronger objection is that dualism is not falsifiable *in practice* at current measurement precision. But this objection also applies to string theory, certain multiverse hypotheses, and other proposals that philosophy of science does not typically dismiss as unscientific. Practical unfalsifiability at a given technological stage does not equal unfalsifiability in principle.
 
-**Methodological naturalism.** A common criterion holds that science restricts itself to natural (physical) explanations. Under this criterion, dualism is unscientific by definition — not because it fails empirically, but because it posits something non-physical. This is circular when applied to the question of whether consciousness is physical. Using "only physical explanations count as scientific" to argue against dualism presupposes the conclusion.
+**Methodological naturalism.** A common criterion holds that science restricts itself to natural (physical) explanations. Under this criterion, dualism is unscientific by definition — not because it fails empirically, but because it posits something non-physical. This is circular when applied to the question of whether consciousness is physical. Using "only physical explanations count as scientific" to argue against dualism presupposes the conclusion — the circularity-exposure form of the Map's [reflexive methodology](/concepts/reflexive-methodology/), which holds a rival's criterion to that criterion's own requirement for a non-question-begging formulation.
 
 The Map's position: demarcation should be functional rather than ontological. What makes an inquiry scientific is systematic investigation, lawful regularity, empirical constraint, and intersubjective testability — not a prior commitment to the ontological nature of the domain.
 
@@ -121,6 +121,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) — How non-reductive explanation works under dualism
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why the scientific method structurally excludes subjectivity
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why every model of explanation and theoretical virtue fails for consciousness
+- [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's named method of running a rival framework through its own criterion of success, deployed against methodological naturalism above
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Bridge laws as the positive alternative to reduction
 - [reductionism](/concepts/reductionism/) — Why reductive strategies fail for consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions

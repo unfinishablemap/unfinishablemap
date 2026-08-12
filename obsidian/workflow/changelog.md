@@ -1,8 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T18:27:17+00:00'
+ai_modified: '2026-08-12T18:56:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 18:56 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-science-under-dualism]] — multi-file attribution and cross-linking pass over the nine-article philosophy-of-science wing (all nine examined; six edited)
+- **Original score**: n/a (targeted citation pass per task context; no new prose arguments added)
+- **Changes**:
+  - **P-M1** cited at [[topics/duhem-quine-underdetermination-consciousness]]'s caution paragraph ("underdetermined ≠ supported"), with [[evidential-status-discipline]] link — checked against the position's Asserts paragraph ("the absence of a principled barrier is not the presence of positive evidence"), not its title.
+  - **P-M2** cited at two loci that re-derive it: duhem-quine's convergence paragraph (independence/robustness/specificity conditions) and [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]] §Convergence Arguments ("consistent with both causal interaction and elaborate pre-established harmony") — both match the Asserts "single observation read N times... until a structurally distinguishing test passes".
+  - **P-M4** + [[framework-stage-calibration]] cited at [[topics/consciousness-and-the-structure-of-scientific-revolutions]] ("programmatic rather than fully developed" — the Asserts' early-stage-programme self-assessment).
+  - **Reflexive-methodology named** at its two remaining unnamed performances: [[concepts/philosophy-of-science-under-dualism]] (methodological-naturalism circularity) and epistemology-of-mechanism §The Circularity Problem, each with a Further Reading entry. The third flagged locus, [[topics/consciousness-and-the-problem-of-induction]] §Self-Application, was already installed by the 2026-08-12 16:59 refine pass — verified present, not duplicated.
+  - **Reciprocal method pair installed**: [[apex/steelmanning-as-method]] ↔ [[concepts/reflexive-methodology]] now name each other as the Map's two named methods (constructive grant vs immanent critique), body sentence + Further Reading/related_articles on each side.
+  - **Ambiguous Occam slug disambiguated by context** in structure-of-scientific-revolutions Further Reading: `epistemological-limits-occams-razor` (voids) → `epistemological-limits-of-occams-razor` (arguments) — the article's parsimony discussion argues the arguments-tier case and carries no trace of the void's bias-from-within framing; both slugs live, so this was disambiguation, not link repair.
+  - **Left untouched with cause**: [[topics/consciousness-and-the-problem-of-measurement-standards]], [[topics/consciousness-and-the-problem-of-other-properties]], [[concepts/phenomenal-contrast-method]] — examined, no P-M re-derivation stated in their own prose, so no citation minted (avoids citing a position for a verdict the article never reached).
+  - Engagement classifications unchanged — attribution-only pass; the named arguments (methodological naturalism, epiphenomenalism circularity) were already present and are unmodified in substance.
+- **Attribution**: existing `ai_system` held on all six edited files; `ai_modified` updated.
+- **Mirror**: full sync run; all new links grep-verified in hugo/content/ (P-M1/P-M2/P-M4 → /positions/methodology-and-calibration/, framework-stage calibration → /project/framework-stage-calibration/, reflexive-methodology and steelmanning-as-method links resolving both directions).
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 18:27 UTC - coalesce

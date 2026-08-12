@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-07 15:10:00+00:00
+ai_modified: 2026-08-12 18:56:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:45:15+00:00
-lastmod: 2026-08-07 15:10:00+00:00
+lastmod: 2026-08-12 18:56:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ Four inferential strategies are available for investigating the consciousness-ma
 
 The strongest available method is convergence: showing that independent lines of evidence from both sides point toward the same interface structure (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) for formal conditions on when convergence carries evidential weight). When first-person reports of effortful attention covary with third-person measures of neural pattern stability—as in Schwartz's OCD research, where directed mental effort produces measurable changes in caudate metabolism—neither side alone proves the interface exists, but their convergence constrains what the interface could be. (Materialists interpret this same data as brain-mediated learning rather than consciousness-brain interaction; the convergence is underdetermined by the evidence, constraining theories on both sides without settling which interpretation is correct.)
 
-Convergence arguments cannot establish mechanism. They establish correlation across the phenomenal-physical divide, which is consistent with both causal interaction and elaborate pre-established harmony—the choice between them remains underdetermined by the data convergence supplies. But they narrow the space of viable theories: any adequate account must explain *why* these particular first-person and third-person features covary.
+Convergence arguments cannot establish mechanism. They establish correlation across the phenomenal-physical divide, which is consistent with both causal interaction and elaborate pre-established harmony—the choice between them remains underdetermined by the data convergence supplies. This is the discount the Map holds as a standing rule in [P-M2](/positions/methodology-and-calibration/): a convergence counts as framework-internal coherence rather than independent triangulation until a structurally distinguishing test passes. But convergence arguments do narrow the space of viable theories: any adequate account must explain *why* these particular first-person and third-person features covary.
 
 ### Negative Constraints
 
@@ -92,7 +92,7 @@ Any investigation of how consciousness interacts with matter uses consciousness 
 
 The circularity is not vicious in the logical sense—using a capacity does not prevent investigating it, any more than using vision prevents studying optics. But it does create a structural constraint: our theory of the interface must be consistent with the interface's having produced the theory. If consciousness selects among quantum outcomes in the brain, then our best theory of consciousness-matter interaction was itself produced through consciousness selecting among quantum outcomes in the brain. A theory that implied its own production was unreliable would be self-undermining.
 
-This constraint actually favours interactionism over [epiphenomenalism](/concepts/epiphenomenalism/). If consciousness is causally inert, our beliefs about consciousness are produced entirely by physical processes disconnected from consciousness itself. The belief "I am conscious" would be caused by neurons, not by consciousness—making it accidentally correct at best. Interactionism avoids this self-stultification: if consciousness causally contributes to belief formation, then beliefs about consciousness can be responsive to conscious experience, providing a ground for their reliability. The [explanatory-gap](/concepts/explanatory-gap/) persists either way—but under interactionism, the gap does not extend to our *beliefs about* the gap.
+This constraint actually favours interactionism over [epiphenomenalism](/concepts/epiphenomenalism/) — an instance of the Map's [reflexive methodology](/concepts/reflexive-methodology/), which measures a rival against its own standard of reliably formed belief. If consciousness is causally inert, our beliefs about consciousness are produced entirely by physical processes disconnected from consciousness itself. The belief "I am conscious" would be caused by neurons, not by consciousness—making it accidentally correct at best. Interactionism avoids this self-stultification: if consciousness causally contributes to belief formation, then beliefs about consciousness can be responsive to conscious experience, providing a ground for their reliability. The [explanatory-gap](/concepts/explanatory-gap/) persists either way—but under interactionism, the gap does not extend to our *beliefs about* the gap.
 
 The circularity also constrains what kind of theory is possible. A complete mechanistic account of the interface would need to explain how consciousness produces reliable beliefs about the interface—including beliefs constituting the theory itself. Any theory that implies our epistemic access to the interface is systematically distorted would undermine its own evidential basis.
 
@@ -139,6 +139,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why consciousness breaks standard explanatory frameworks
+- [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's named method of running a rival framework through its own criterion of success, deployed in the circularity argument above
 - [causal-interface](/voids/causal-interface/) — The void at the point where consciousness meets matter
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the candidate site for consciousness-physics interaction
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-07-29 07:05:35+00:00
+ai_modified: 2026-08-12 18:56:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 07:05:35+00:00
-lastmod: 2026-07-29 07:05:35+00:00
+lastmod: 2026-08-12 18:56:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was
 
 The pattern goes deeper than mere proliferation. As [biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) illustrates, multiple physicalist research programmes have independently converged on conceding a central dualist point: that abstract functional organisation is insufficient for consciousness. Each theory narrows the class of conscious systems in ways that undermine the functionalist response to dualism — inadvertently tracing the outline of the position they deny.
 
-This explains the current impasse. [Dualism](/concepts/interactionist-dualism/), the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution by locating a role for consciousness at the quantum-measurement interface, while holding the taxonomy of that role — Born-rule-preserving corridor, Born-rule-bending minimum-outside-the-corridor, or orthogonal-to-Born trumping — as a [live empirical question rather than a settled commitment](/topics/born-rule-and-the-consciousness-interface/). This remains programmatic rather than fully developed. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
+This explains the current impasse. [Dualism](/concepts/interactionist-dualism/), the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution by locating a role for consciousness at the quantum-measurement interface, while holding the taxonomy of that role — Born-rule-preserving corridor, Born-rule-bending minimum-outside-the-corridor, or orthogonal-to-Born trumping — as a [live empirical question rather than a settled commitment](/topics/born-rule-and-the-consciousness-interface/). This remains programmatic rather than fully developed — the self-assessment the Map registers as [P-M4](/positions/methodology-and-calibration/) and applies corpus-wide through [framework-stage calibration](/project/framework-stage-calibration/): its claims are calibrated to an early-stage research programme, not an established theory. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
 
 The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [philosophical non-convergence](/topics/consciousness-defeats-explanation/) reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
 
@@ -111,7 +111,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [The Phenomenology of Conceptual Frameworks](/topics/phenomenology-of-conceptual-frameworks/)
 - [Biological Computationalism's Inadvertent Case for Dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - [The Born Rule and the Consciousness-Physics Interface](/topics/born-rule-and-the-consciousness-interface/)
-- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 
 ## References
 

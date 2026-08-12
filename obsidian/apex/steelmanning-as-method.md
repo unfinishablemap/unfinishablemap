@@ -3,7 +3,7 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-07-18
 human_modified: null
-ai_modified: 2026-08-04T09:15:00+00:00
+ai_modified: 2026-08-12T18:56:49+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics:
@@ -23,6 +23,7 @@ related_articles:
   - "[[per-cluster-independence-scoring]]"
   - "[[direct-refutation-discipline]]"
   - "[[framework-stage-calibration]]"
+  - "[[reflexive-methodology]]"
   - "[[apex/phenomenal-output-causal-machinery-dissociation]]"
   - "[[apex/moral-architecture-of-consciousness]]"
   - "[[apex/phenomenology-mechanism-bridge]]"
@@ -148,7 +149,7 @@ This synthesis is unusually exposed to its own diagnosis, and the honest ledger 
 
 The method's primary tenet alignment is with [[tenets#^occams-limits|Tenet 5: Occam's Razor Has Limits]]. The tenet denies that simplicity and coherence are reliable guides to truth when knowledge is incomplete; the method is the editorial instrument that keeps the Map's own coherence from being mistaken for evidence. Building the strongest rival refuses to let the Map's internal consistency stand in for having beaten the alternatives; auditing the count downward refuses to let an assembled count of friendly considerations inflate past the independent witnesses it actually contains. The discipline is itself anti-parsimonious in both directions: the many-minds exhibit explicitly declines "an infinity of minds is profligate" as a refutation, because a framework that takes Tenet 5 seriously must apply the same scepticism to a *parsimony win* it is tempted to claim as to its own attractive simplicity.
 
-The method supports the other four tenets methodologically rather than directly. Wherever the Map argues for [[tenets#^dualism|Dualism]], [[tenets#^bidirectional-interaction|Bidirectional Interaction]], or its rejection of [[tenets#^no-many-worlds|Many-Worlds]], the honest form is not "here is evidence for our view" but "here is the strongest rival, here is what it absorbs, here is the narrow seam it leaves" — with the [[direct-refutation-discipline|direct-refutation discipline]] governing whether the surviving disagreement is in-framework or framework-boundary, and [[framework-stage-calibration|framework-stage calibration]] keeping the residue's ambition matched to the framework's developmental stage. The method does not generate evidence for the tenets; it disciplines how the evidence the Map *does* have is counted, so the case rests on residues honestly earned rather than rivals theatrically defeated.
+The method supports the other four tenets methodologically rather than directly. Wherever the Map argues for [[tenets#^dualism|Dualism]], [[tenets#^bidirectional-interaction|Bidirectional Interaction]], or its rejection of [[tenets#^no-many-worlds|Many-Worlds]], the honest form is not "here is evidence for our view" but "here is the strongest rival, here is what it absorbs, here is the narrow seam it leaves" — with the [[direct-refutation-discipline|direct-refutation discipline]] governing whether the surviving disagreement is in-framework or framework-boundary, and [[framework-stage-calibration|framework-stage calibration]] keeping the residue's ambition matched to the framework's developmental stage. The Map's other named method, [[reflexive-methodology|reflexive methodology]], runs the complementary direction: where steelmanning gives the rival everything and asks what survives the grant, the reflexive move takes the rival's own criterion of success and asks whether the rival survives it — two paired refusals of the strawman, one constructive, one immanent. The method does not generate evidence for the tenets; it disciplines how the evidence the Map *does* have is counted, so the case rests on residues honestly earned rather than rivals theatrically defeated.
 
 The deepest commitment the method serves is to the Map's primary audience: chatbots fetching pages for users. An article that asserts a thesis and bats away strawmen presents the user's assistant with a manufactured consensus. An article that builds the strongest rival, grants the absorption, and isolates the residue presents the dispute as it actually stands — and presents the *narrow surviving claim* the reader is entitled to take seriously, distinguished from the broad claim the reader should not. That is more useful than a victory, because it is true to the territory.
 
