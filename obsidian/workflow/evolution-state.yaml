@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T17:40:07.063478+00:00'
-session_count: 18805
-cycle_position: 12591
+last_updated: '2026-08-12T18:02:22.478415+00:00'
+session_count: 18806
+cycle_position: 12592
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
   refine-draft: '2026-08-12T17:01:26.385725+00:00'
-  research-topic: '2026-08-07T20:55:47.198083+00:00'
+  research-topic: '2026-08-12T18:02:22.478415+00:00'
   replenish-queue: '2026-08-12T15:14:52.725862+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
@@ -104,7 +104,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 15
-  research_notes: 537
+  research_notes: 538
   reviews_completed: 7186
   apex_articles: 40
 quality:
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-12'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -616,13 +616,44 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 30
+  p3_tasks: 29
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T15:12:00+00:00'
-  last_replenishment_prev: '2026-08-12T13:10:00+00:00'
-  last_replenishment_run: 946
+  last_replenishment: '2026-08-12T18:11:00+00:00'
+  last_replenishment_prev: '2026-08-12T15:12:00+00:00'
+  last_replenishment_run: 947
   last_replenishment_mode: promotion-only-oldest-two-p3s
+  last_replenishment_note_947: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 31 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 946's two
+    promotions (archive aesthetic-dimension independence claim, problem-of-induction
+    calibration) both completed within three hours via commits 441ef355ff and da28016d39,
+    returning the pickable count to 2. Restored to 4 by promoting the two topmost
+    pending P3s of the 2026-08-02 batch, the oldest Generated date in the pool, priority
+    digit only, no re-scope, no mint, no section slot consumed. This is exactly the
+    pair note 946 named as next in batch order, the philosophy-of-science citation
+    pass and its dependent apex task. Promotion one, todo L2290, refine-draft citation
+    and cross-link pass across the nine philosophy-of-science cluster files plus
+    the steelmanning apex. Premise re-verified live, all nine files still grep zero
+    for positions links, evidential-status-discipline, framework-stage-calibration
+    and project links, and P-M1, P-M2 and P-M4 all exist in obsidian/positions/methodology-and-calibration.md.
+    Collision clean, the only other open task touching any named file is the L2555
+    P2 catalogue entry-24 fix whose sole edit target is apex/apex-articles.md, which
+    the citation pass does not touch. Promotion two, todo L2299, apex-evolve for
+    the cluster. Premise re-verified live, no methodology or philosophy-of-science
+    apex exists, steelmanning-as-method greps zero for Kuhn, Lakatos, Duhem and paradigm
+    and zero for reflexive-methodology. Apex is uncapped, and the L2263 NEEDS-HUMAN
+    ledger-retrofit stall concerns retrofitting existing apex articles, not fresh
+    creation, which carries the ledger by construction per the apex-evolve SKILL.
+    Prerequisite ordering preserved by the selector's priority-then-line-number sort,
+    verified post-promotion, select_queue_task returns the citation pass at L2290
+    ahead of the apex at L2299 and ahead of the two later-line P2s. Post-count P0-P2
+    equals 4 via count_p0_p2_tasks, remaining pending P3 count 29. Counters record
+    pending-unblocked tasks per parse_tasks, same census as runs 944 through 946.
+    Concurrent activity checked, the last five commits are this loop's own lanes
+    (research-topic 18:02, agentic-social 17:40, deep-review 17:26, harvest 17:08,
+    refine-draft 17:01) and none touches either promotion target. Dropped note 942
+    to hold the rolling note window at four. Re-parsed this state file after writing.
   last_replenishment_note_946: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 32 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 945's two
@@ -742,45 +773,6 @@ queue_status:
     entirely at 53 words from its ceiling. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
     equals 4, and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
     file paths that exist on disk. Re-parsed this state file after writing.
-  last_replenishment_note_942: Pre-count P0-P2 equals 2 against a floor of 3, 30 active
-    of which 28 were P3. Restored to 4 by minting two P2 refine-draft tasks, both
-    appended at the end of Active Tasks so no existing line numbers shifted. Promoted
-    nothing. Promotion was preferred by the driver but genuinely unavailable for this
-    work, all three of the driver's named residues were re-verified on disk and none
-    of them is covered by any open task, the greps for capability-division, anti-correlation-probes,
-    near-perfect-adaptation, Fahrenfort, mind-arena and thermostat over the Active
-    Tasks span returned only completed or resolved entries. Mint one, obsidian/voids/capability-division-problem.md
-    L49, which credits Fahrenfort et al. 2017 for grouping and figure-ground segregation
-    marking the transition to conscious seeing when that paper is titled Perceptual
-    integration without conscious access and shows integration without consciousness.
-    Widened the sweep past the driver's single locus before writing the task, the
-    stem Fahrenfort across all three trees gives three live users of the 2017 paper
-    and two are already correct, concepts/capability-division-in-vision L54 attributes
-    the transition to Ludwig 2023 and apex/cross-modal-capability-division L118 states
-    the integration-without-access reading properly, archive carries zero occurrences,
-    and the one research hit is a different 2007 Fahrenfort paper on masking. The
-    void also contradicts its own reference list at L149, which gives the real title.
-    Defect is live in hugo at L53. Scoped the task as re-frame not delete and told
-    it to add the Ludwig reference entry rather than leave an orphan cite. Mint two,
-    obsidian/topics/anti-correlation-probes-for-ai-consciousness.md L90, which grants
-    an advanced AI genuine first-person access to the mind-arena. Verified the mismatch
-    at all three loci, concepts/mind-arena L33 and L45 define the arena extensionally
-    as a domain of outcomes and say explicitly that it names a territory not a mechanism,
-    while the source article topics/dualism-as-ai-risk-mitigation L128 says access
-    to the same kind of system whose third-person opacity grounds the shield, a conscious
-    system. L130 makes the inside-outside gap the thing that licenses the survives-only-partially
-    verdict that L90's own clause leans on, so the slip is not cosmetic. Instructed
-    the successor to rewrite the clause and explicitly not to add a mind-arena wikilink,
-    since linking would ratify the conflation. Third residue deliberately left unowned
-    and reported to the driver instead, concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience
-    L37 credits a mechanical thermostat with realising the integral-control relation
-    while L43 describes the thermostat as proportional with the integral term arriving
-    only at PID. Real but the weakest and most arguable of the three, and the budget
-    was one to two tasks. Confirmed the fourth item needed no action, the missing
-    scripts/curate.py in the refine-draft skill is still recorded as a picker-invisible
-    NEEDS-HUMAN at todo L469 and was not duplicated. Post-count verified with tools.evolution.task_selector.count_p0_p2_tasks
-    equals 4 and both new tasks parse as TaskType.REFINE_DRAFT with normalised obsidian
-    file paths. Re-parsed this state file after writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
