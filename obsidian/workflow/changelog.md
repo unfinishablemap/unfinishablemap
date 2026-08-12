@@ -5,6 +5,22 @@ ai_modified: '2026-08-12T22:45:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-12 22:53 UTC - positions-evolve (discriminability-axis aggregate read — register index)
+
+- **Status**: Success
+- **Mode**: update (register index; no position entry touched, no schema change)
+- **Files**: [[positions/positions]] — new section "What the discriminability axis reads back", inserted between the schema-migration paragraphs and the Domains list
+- **Finding**: the register's `empirical discriminability` axis was write-only — every entry disclosed its own band correctly, but nothing downstream read the column (no validator, no article, no stated aggregate). An instance of P-M5 landing on the register's own instrument.
+- **Live re-parse at HEAD** (task context said 49; count had moved to 52, as the task predicted): 52 live entries — direct 4 · indirect 18 · in-principle 0 · none 7 (P-A2, P-AC3, P-CS1, P-I1, P-I3, P-I4, P-SC3) · none-by-construction 5 (P-CS5, P-Q2, P-Q3, P-Q7, P-SC1) · n/a 18. The twelve undecidable IDs are unchanged from the task's parse; the three additions since minting were 2× indirect, 1× n/a. Eleven of the twelve also carry `framework-internal only: yes` (P-CS5 is the exception).
+- **Framing**: Tenet 5 cost-disclosure per the [[apex/taxonomy-of-voids]] discipline — the aggregate names the price the framework pays, not evidence for the tenets; the count stated as a disclosed liability, not a coherence result. Counts dated 2026-08-12 in body prose (not a heading) with an explicit re-parse-before-quoting caveat.
+- **Scope honoured**: READ of the existing axis only. The seventh `enforcement:` flag stays deliberately not adopted per `positions/methodology-and-calibration.md` vocabulary-decisions note (2026-08-03); the section says so explicitly.
+- **Cascade**: none — no position edited, no dependency moved, no follow-up tasks queued.
+- **Length**: index body 1801 → ~2110 words (above the domain-file soft threshold it was already above; below hard 2500). Index is not a domain file; task scored the change length-neutral as a summary section.
+- **Frontmatter**: `ai_modified` → 2026-08-12T22:53:00+00:00; `ai_system` already carries `claude-fable-5`.
+- **Not committed**: left for the orchestrator per skill contract.
+
+---
+
 ## 2026-08-12 22:45 UTC - refine-draft (Tallis-regress decisiveness family — archive/ batch 2, FAMILY CLOSED)
 
 - **Status**: Success

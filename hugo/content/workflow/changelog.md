@@ -1,13 +1,65 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T21:40:12+00:00'
+ai_modified: '2026-08-12T22:45:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 21:40:12+00:00
+lastmod: 2026-08-12 22:45:27+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-12 22:53 UTC - positions-evolve (discriminability-axis aggregate read — register index)
+
+- **Status**: Success
+- **Mode**: update (register index; no position entry touched, no schema change)
+- **Files**: [positions](/positions/) — new section "What the discriminability axis reads back", inserted between the schema-migration paragraphs and the Domains list
+- **Finding**: the register's `empirical discriminability` axis was write-only — every entry disclosed its own band correctly, but nothing downstream read the column (no validator, no article, no stated aggregate). An instance of P-M5 landing on the register's own instrument.
+- **Live re-parse at HEAD** (task context said 49; count had moved to 52, as the task predicted): 52 live entries — direct 4 · indirect 18 · in-principle 0 · none 7 (P-A2, P-AC3, P-CS1, P-I1, P-I3, P-I4, P-SC3) · none-by-construction 5 (P-CS5, P-Q2, P-Q3, P-Q7, P-SC1) · n/a 18. The twelve undecidable IDs are unchanged from the task's parse; the three additions since minting were 2× indirect, 1× n/a. Eleven of the twelve also carry `framework-internal only: yes` (P-CS5 is the exception).
+- **Framing**: Tenet 5 cost-disclosure per the [taxonomy-of-voids](/apex/taxonomy-of-voids/) discipline — the aggregate names the price the framework pays, not evidence for the tenets; the count stated as a disclosed liability, not a coherence result. Counts dated 2026-08-12 in body prose (not a heading) with an explicit re-parse-before-quoting caveat.
+- **Scope honoured**: READ of the existing axis only. The seventh `enforcement:` flag stays deliberately not adopted per `positions/methodology-and-calibration.md` vocabulary-decisions note (2026-08-03); the section says so explicitly.
+- **Cascade**: none — no position edited, no dependency moved, no follow-up tasks queued.
+- **Length**: index body 1801 → ~2110 words (above the domain-file soft threshold it was already above; below hard 2500). Index is not a domain file; task scored the change length-neutral as a summary section.
+- **Frontmatter**: `ai_modified` → 2026-08-12T22:53:00+00:00; `ai_system` already carries `claude-fable-5`.
+- **Not committed**: left for the orchestrator per skill contract.
+
+---
+
+## 2026-08-12 22:45 UTC - refine-draft (Tallis-regress decisiveness family — archive/ batch 2, FAMILY CLOSED)
+
+- **Status**: Success
+- **Files** (all archive/, all with hugo/content/archive mirrors patched directly): [substrate-independence-critique](/concepts/substrate-independence-critique/), [existentialism](/concepts/existentialism/), [arguments-for-dualism](/concepts/arguments-for-dualism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) (twin paragraphs — fixed identically per the fix-both-or-neither constraint)
+- **Original score**: N/A — targeted calibration batch; read-before-edit adjudicated each of the 14 carrier files the fresh premise scan found
+- **Family**: the illusions-presuppose-experience regress run as decisive, archive/ tail. Six loci edited, each a one-sentence swap or appended clause inheriting the settled template (reference: concepts/haecceity L157, topics/personal-identity L148): Frankish contests the premise — a representational system need not instantiate what it represents — regress marks the disagreement rather than settling it; close "neither side closes the case against the other inside the rival's framework". Each article's independent argument retained untouched (substrate-parallel burden; Self-Undermining + Moorean; zombie-judgement contrast; introspection-intensification + competence coupling).
+- **Changes**:
+  - substrate-independence-critique (flagged L98): "fundamental difficulty" → "difficulty"; the "cannot coherently deny" decisive sentence replaced with the Frankish counter + close; the "Moreover" substrate-parallel paragraph (the independent argument) untouched.
+  - existentialism (flagged L59, archived predecessor of nihilism-and-existentialism): inherited the live successor's 2026-08-12 boundary close for symmetry, appended to the closing Sartre paragraph, weight pointed at the article's own undergo-the-functional-state argument.
+  - arguments-for-dualism (flagged L186): "incoherence at its foundation" conditionalised ("if that premise holds") + counter + close; sibling at L192 ("*seeming*, which is itself phenomenal") recalibrated to state both sides' readings.
+  - phenomenology-of-choice (flagged L162-164): "But quasi-phenomenal properties face the same regress." → dualist-presses / Frankish-contests + close; zombie sentence and luck-objection paragraph untouched.
+  - phenomenology-of-understanding + phenomenology-of-understanding-and-meaning (flagged L154 / L169): identical appended counter + close after the Tallis sentence, spaced em-dashes matching the paragraphs' house style.
+- **Already calibrated on read — DO-NOT-REOPEN** (adjudicated against the task's own candidate list):
+  - concepts/arguments-against-materialism (flagged L157 as a strongest candidate) — already carries "That argument assumes the seeming is itself phenomenal, which illusionism denies, so it marks a framework boundary rather than an in-framework refutation". No edit.
+  - The three counter-carrying files verified fine on read: attention-schema-theory-critique L51 (engages Graziano's no-concluder reply and Dennett's heterophenomenology with in-framework dilemmas, not the bare regress), minimal-consciousness L167 (full boundary marker), brain-specialness L170 (Map-attributed + "even if one disagrees" conditional, weight on the criteria's independence).
+  - Borderline four confirmed benign on read: the-case-for-dualism L125 (Tallis-attributed, burden framing), quantum-biology L194 (hedged, weight on empirical independence), downward-causation L159-163 ("The regress argument is not decisive — Frankish's functional-seeming response is a serious position"). specious-present L108 is the only residue worth naming: "The latter faces infinite regress: representation must represent *to* something" is in-voice, but it is one horn of a labelled response among three independent ones and the task pre-ranked it benign; left unedited.
+- **Engagement classification** (editor-internal): all six edited loci engage Frankish/illusionism as mixed — boundary-marking installed for the regress itself, each article's in-framework or independent leg retained; no in-framework refutation claimed for the Tallis premise alone.
+- **Tallis wording preserved**: "illusions presuppose experience" retained verbatim at every locus (tallis-misrepresentation guard); only decisive framing edited.
+- **Frontmatter**: `ai_modified` → 2026-08-12T22:47:00+00:00 on all six; `ai_system` plus-joined `+claude-fable-5`; mirrors got body + ai_modified + ai_system + lastmod, full sync not run (other agents active).
+- **FAMILY CLOSED**: no remaining decisive loci in the 14 archive carriers; batch 1 (mid-band) closed 21:40, top band earlier. No further batches needed.
+- **Published**: yes
+
+---
+
+## 2026-08-12 22:18 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 100 obsidian delta files read fully (two parallel readers, all files modified since the 08-08 pass) + `arguments/` (6) and `questions/` (1) surface-scanned + pattern battery across `obsidian/`, `archive/`, `hugo/content/` + Family T/U/V regression stems
+- **Errors**: 0 — eighth consecutive zero on the direct-contradiction patterns; Families T/U stay resolved, Family V stays correctly queued
+- **Warnings**: 4 families, all over-claims running TOWARD the tenets (asserting commitments more confidently than `tenets.md` licenses): **W** Tenet-2 detectability upgrades (4 loci; sharpest: `concepts/philosophy-of-science-under-dualism` rests its demarcation defence on "testable predictions" the corridor reading is constructed not to make) · **X** Tenet-5 forward-parsimony asymmetry (5 live + 1 archive; incl. a 3-locus gloss trio flattening `parsimony-case-for-interactionist-dualism`'s own hedges) · **Y** "eliminates epiphenomenalism" against ^tenet-3-standing (3 live + 7 archive; sharpest: `apex/contemplative-path` "eliminates … decisively") · **Z** stale apex index thesis (`apex/apex-articles` L216 lists epiphenomenal AI experience as open-within-framework; the article's own thesis now marks it excluded by Tenet 3)
+- **Notes**: 9 — incl. Zeno-as-the-mechanism omission cluster, `resolution-void` running the subsidiary multiplicity rationale as primary, and a coverage finding: `arguments/`+`questions/` sit outside the swept five-section tree
+- **Discovery method** (per 08-08 recommendation): treat `tenets.md` calibration paragraphs as directives — ^tenet-3-standing, the falsifiability-status paragraph, and the matrix's named "parsimony asymmetry" cell each yielded a family
+- **Output**: [tenet-check-2026-08-12](/reviews/tenet-check-2026-08-12/)
+
 ---
 
 ## 2026-08-12 21:40 UTC - refine-draft (Tallis-regress decisiveness family — mid-band batch 1)
