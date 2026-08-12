@@ -1,8 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T17:56:00+00:00'
+ai_modified: '2026-08-12T18:27:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 18:27 UTC - coalesce
+
+- **Status**: Success (reasoned abandon — no merge; expected steady-state outcome at this corpus maturity)
+- **Section pressure measured** (`tools.evolution.state.count_section_files`): topics 319/320, voids 99/100, concepts 315/320, positions 15/80. Searched topics/ and voids/ first per cap pressure.
+- **Angle 1 — shared `coalesced_from` ancestry** (4 sibling pairs, all age-floor-blocked on 2026-07-30): three are age-floor-blocked AGAIN (attention-as-interface 08-07; split-brain-consciousness 08-08; binding-problem 08-07 + unity-of-consciousness 08-08). The one eligible pair, [[concepts/anoetic-noetic-autonoetic-consciousness]] + [[concepts/episodic-memory]], is a **durable structural decline**, not an age deferral: zero shared 12-gram passages (no verbatim duplication, so not even a dedup-by-deferral task to mint); explicit anchor↔category split with deferral already installed ("See [[anoetic-noetic-autonoetic-consciousness]] for the full tripartite hierarchy"); merged prose ~5,963w vs the 3,500w hard ceiling (above the 5,000w critical threshold); 337 inbound wikilink occurrences across 171 files. Future runs need not re-open this pair.
+- **Angle 2 — TF-IDF on discriminative body terms (2–8% df, boilerplate sections stripped) over topics/+voids/** (418 docs): top eligible pairs all declined on argumentative-role grounds. (1) [[topics/brain-internal-born-rule-testing]] + [[topics/sorkin-delta-brain-internal-analogues]] (0.487): explicitly designed criterion↔design-space companions — each names the other's role in Further Reading. (2) [[topics/indexical-identity-quantum-measurement]] + [[topics/quantum-measurement-and-subjective-probability]] (0.463): indexical-gap problem statement vs structural QBism critique; 5 deferral links in place. (3) [[topics/time-collapse-and-agency]] + [[topics/time-symmetric-selection-mechanism]] (0.446): temporal-metaphysics exposition vs selection mechanism; "What Selection Is Not" heading; deferral links in place. (4) [[topics/aphantasia]] + [[voids/imagery-void]] (0.440): empirical-condition article vs three-faces structural void instantiating the apex [[conjunction-coalesce]] template (evidential-triangulation seam); 18 mutual references. Age-floor-blocked, not evaluated: quantum-biology-and-neural-consciousness (08-07), neural-refresh-rates + smoothness-and-continuity (both 08-08).
+- **Iterations**: 10 candidate pairs screened (>5 threshold); no merge performed, no files archived, no content changed.
+- **Cap-relief note for operator**: coalesce cannot relieve topics/ (319/320 by gate; ~318 real given the known sidecar over-count) or voids/ (99/100) — relief must come from archival or a cap raise, consistent with the 2026-07-30 finding.
+
 ---
 
 ## 2026-08-12 17:56 UTC - research-topic
