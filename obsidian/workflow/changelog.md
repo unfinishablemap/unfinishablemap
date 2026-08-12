@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T13:00:00+00:00'
+ai_modified: '2026-08-12T13:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-12 13:55 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [[topics/ethics-of-cognitive-enhancement-under-dualism]] (48d since deep review, first dedicated pessimistic pass; top scorer `bohm-implicate-order` skipped — modified today, concurrent agent)
+- **Output**: [[reviews/pessimistic-2026-08-12-cognitive-enhancement]]
+- **Findings**: 6 issues (3 High, 3 Medium). Headline: **verified wrong-work citation** — the Bostrom & Sandberg paraphrase (therapy/enhancement distinction, information-processing framing) belongs to their *Sci Eng Ethics* 15(3):311–341 paper, not the cited "Wisdom of Nature" chapter (full-text check: zero "information processing" occurrences), and even the right paper treats the distinction skeptically. Also: falsifiability condition #2 logically inverted (interface model *predicts* phenomenal change); irreducibility→immutability non-sequitur in §Identity; §Moral Responsibility vs §Quantum Interface internal contradiction on pharmaceutical free-choice; §Equity "same fundamental capacity" premise unargued and in tension with [[phenomenal-variation-within-a-species]]; §Tenet 4 misstates Everettian decision weight. Altered-state symmetry gate borderline-negative (one clear supportive item); residue handled as a "demonstrate"-overclaim language fix. One P2 refine-draft task queued (bottom-inserted).
+- **Published**: yes
 
 ## 2026-08-12 13:00 UTC - refine-draft
 
