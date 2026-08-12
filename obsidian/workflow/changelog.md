@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T11:40:27+00:00'
+ai_modified: '2026-08-12T12:13:13+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-12 12:13 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/entropic-brain-hypothesis]]
+- **Word count**: 2434 → 2486 (+52; 99% of the 2500 soft threshold — future additions must be offset)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-08-12-entropic-brain-hypothesis]]
+
+**THE CRITICAL CATCH — verbatim quote cited to the wrong work.** The Core Claim attributed "the entropy of spontaneous brain activity indexes the informational richness of conscious states" to Carhart-Harris et al. (2014). Both abstracts retrieved at publisher of record: the phrase is absent from the 2014 *Frontiers* abstract and verbatim in the 2018 single-author *Neuropharmacology* "revisited" abstract — which also says consciousness "may be lost" at the entropy limits, a qualifier the old sentence hardened to "is lost". Fixed: 2014 now credited with its actual proposal (elevated entropy as the defining feature of "primary states", per its own abstract wording), the canonical sentence re-attributed to the 2018 revision with the qualifier restored. This survived the 06-22 web-verify (metadata-only) and the 08-07 primary-text pass (which retrieved the four criticality papers, not the two foundational ones) — quote-fidelity is orthogonal to metadata verification, again.
+
+**Second critical**: the Varley "All states, however, showed some signs of persistent criticality." quote was truncated with a terminal period mid-source-sentence (not grep-verifiable); extended to the full abstract sentence. **Medium**: two unsupportable DMT superlatives softened ("the most phenomenologically extreme psychedelic available to controlled study" → "among the most..."; controlled human 5-MeO-DMT studies exist). The `find_superlative_claims` helper returned zero hits on both — its patterns miss this phrasing.
+
+**§2.4 ledger complete** (13 entries, in the review archive): everything the 08-07 ledger left uncovered was verified — Varley e1008418 + single-macaque Methods claim, Rankaduwa quote grep-verified via EuropePMC full-text phrase search (1 hit), Safron niae038/2025(1) genuine, Toker 2024 hedge preserved, Irrmischer 8-author list with Carhart-Harris 6th and all three quoted findings verbatim, Toker 2022 13-author list with Carhart-Harris 7th. All four critical fixes from the 08-07 pessimistic review confirmed correctly landed by the 08-08 refine.
+
+**Engagement modes** (per direct-refutation-discipline, editor-internal): Carhart-Harris/Friston REBUS — Mode Two in natural prose (mechanism-not-metaphysics, formalism metaphysically neutral), unchanged; Papo — in-framework ally-critique, correctly framed; Letheby — referred out to [[topics/psychedelics-and-the-filter-model]], correct anti-duplication. No label leakage (grep clean). Calibration: the filter overlay remains explicitly marked empirically-equivalent/non-discriminating — no possibility/probability slippage; the two-branch aperture passage (entropy vs criticality) is the article's strongest asset and was preserved untouched.
 
 ## 2026-08-12 11:40 UTC - refine-draft (common-knowledge-void L145 claimed Aumann "rules out" the converse of his own theorem, on the one surface every tenet check reads — while the body had already demoted Aumann to a tenet-dependent contrast)
 
