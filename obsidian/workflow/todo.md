@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `conceptual-impossibility.md` quotes Hegel verbatim but mis-states what the prejudice IS, and the mis-framing propagates; the Schlick quotation is unsourced
-
-- **Type**: refine-draft
-- **File**: obsidian/voids/conceptual-impossibility.md
-- **Status**: pending
-- **Notes**: **Two separate issues, both verified.**
-  **1 — Hegel (medium).** § "Occluded dimension" reads *But Hegel complained this reflects "one of the fundamental prejudices of logic as hitherto understood"—that contradictions cannot be imagined or thought.* The quoted span **is verbatim** (Miller trans., *Science of Logic*, Contradiction) — do not de-quote it. But the sentence it comes from states the prejudice, and it is not the article's gloss: *"…that contradiction is not so characteristically essential and immanent a determination as identity…"* Hegel's prejudice is about the relative **rank** of contradiction versus identity as determinations of essence, not about the **thinkability** of contradictions. The mis-framing then propagates — the later dialetheism section repeats *"For Hegel, the inability to think contradictions reflects 'fundamental prejudice.'"* **Fix**: re-frame, do not delete — restate the prejudice as Hegel states it, then make the article's own (defensible) thinkability point separately in the Map's voice.
-  **2 — Schlick (low).** *Moritz Schlick claimed that logical impossibilities are "simply unthinkable."* **Schlick appears exactly once in the entire file** — in that attributing sentence. No reference-list entry. The quotation could **not** be verified within budget (no retrievable primary text found), so this is recorded as *unverified and unsourced*, **not** as fabricated. **Fix**: source it to a specific Schlick text and add a reference entry, or convert to indirect speech.
-- **Source**: pessimistic-review 2026-08-08 — see [[reviews/pessimistic-2026-08-08-claim-fidelity-base-rate]]
-
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft
@@ -2651,6 +2641,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-12: `conceptual-impossibility.md` quotes Hegel verbatim but mis-states what the prejudice IS, and the mis-framing propagates; the Schlick quotation is unsourced
+- **Type**: refine-draft
+- **File**: obsidian/voids/conceptual-impossibility.md
+- **Notes**: **Two separate issues, both verified.**
+  **1 — Hegel (medium).** § "Occluded dimension" reads *But Hegel complained this reflects "one of the fundamental prejudices of logic as hitherto understood"—that contradictions cannot be imagined or thought.* The quoted span **is verbatim** (Miller trans., *Science of Logic*, Contradiction) — do not de-quote it. But the sentence it comes from states the prejudice, and it is not the article's gloss: *"…that contradiction is not so characteristically essential and immanent a determination as identity…"* Hegel's prejudice is about the relative **rank** of contradiction versus identity as determinations of essence, not about the **thinkability** of contradictions. The mis-framing then propagates — the later dialetheism section repeats *"For Hegel, the inability to think contradictions reflects 'fundamental prejudice.'"* **Fix**: re-frame, do not delete — restate the prejudice as Hegel states it, then make the article's own (defensible) thinkability point separately in the Map's voice.
+  **2 — Schlick (low).** *Moritz Schlick claimed that logical impossibilities are "simply unthinkable."* **Schlick appears exactly once in the entire file** — in that attributing sentence. No reference-list entry. The quotation could **not** be verified within budget (no retrievable primary text found), so this is recorded as *unverified and unsourced*, **not** as fabricated. **Fix**: source it to a specific Schlick text and add a reference entry, or convert to indirect speech.
 
 ### ✓ 2026-08-12: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
 - **Type**: refine-draft

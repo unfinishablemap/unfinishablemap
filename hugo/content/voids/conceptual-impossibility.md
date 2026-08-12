@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-25 00:35:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12 12:56:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 00:35:00+00:00
-lastmod: 2026-06-25 00:35:00+00:00
+lastmod: 2026-08-12 12:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ Conceptual impossibility appears to be both:
 
 **Unexplorable dimension.** Formal contradictions may genuinely resist conception. Colin McGinn's "cognitive closure" thesis holds that minds are cognitively closed to certain problems—not through insufficient data but through inherent limits in concept-forming procedures. Just as rats lack the neural architecture for calculus, humans may lack the cognitive architecture for grasping certain impossibilities. The blockage is structural, not circumstantial. No amount of effort will make round squares conceivable if our concept-forming machinery requires non-contradiction as a precondition for generating concepts at all.
 
-**Occluded dimension.** Yet the phenomenology suggests more than passive absence. The experience of *resistance*—the sense that thought "bounces off" rather than finding nothing—points toward active blockage. Something seems to *prevent* rather than merely *fail to enable*. Moritz Schlick claimed that logical impossibilities are "simply unthinkable." But Hegel complained this reflects "one of the fundamental prejudices of logic as hitherto understood"—that contradictions cannot be imagined or thought. If impossibilities are actively *defended against* rather than merely absent from our architecture, the void shifts from unexplorable to occluded.
+**Occluded dimension.** Yet the phenomenology suggests more than passive absence. The experience of *resistance*—the sense that thought "bounces off" rather than finding nothing—points toward active blockage. Something seems to *prevent* rather than merely *fail to enable*. In their survey of impossible worlds, Berto and Jago note that Moritz Schlick claimed the logically impossible—an explicit inconsistency, say—is simply unthinkable. Hegel pushed in the opposite direction: what he called "one of the fundamental prejudices of logic as hitherto understood" is the assumption that contradiction is not as essential and immanent a determination as identity, whereas Hegel takes contradiction to be the profounder of the two. His target is contradiction's standing within logic; the thinkability question is ours to draw out. If logic's marginalizing of contradiction is inherited prejudice rather than structural necessity—and Hegel's dialectical practice presupposes that contradictions can be genuinely engaged in thought—then the felt blockage may be enforced habit rather than hard architecture. And if impossibilities are actively *defended against* rather than merely absent from our architecture, the void shifts from unexplorable to occluded.
 
 The distinction matters. If impossibilities are unexplorable, investigating them means understanding our cognitive architecture's constraints. If they're occluded, investigating them means asking *why* access is prevented.
 
@@ -94,7 +94,7 @@ Large language models process "round square" without phenomenological blockage�
 
 ## Dialectical Approaches
 
-Not everyone accepts that impossibilities are unthinkable. Hegel's dialectical method *requires* thinking contradictions—thesis and antithesis aren't merely opposed but contradictory, yet contradiction drives synthesis. For Hegel, the inability to think contradictions reflects "fundamental prejudice," not cognitive architecture.
+Not everyone accepts that impossibilities are unthinkable. Hegel's dialectical method *requires* thinking contradictions—thesis and antithesis aren't merely opposed but contradictory, yet contradiction drives synthesis. Where logic as traditionally practiced ranks contradiction below identity—the prejudice Hegel diagnosed—dialectic treats contradiction as the profounder determination, and its practice presupposes that contradictions can be thought rather than merely dismissed.
 
 Graham Priest's dialetheism goes further: some contradictions are *true*. Impossible worlds semantics models intentional states containing contradictions, while paraconsistent logic formalizes reasoning about impossible scenarios without explosion.
 

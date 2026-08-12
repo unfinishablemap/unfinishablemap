@@ -1,11 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T12:40:00+00:00'
+ai_modified: '2026-08-12T13:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-12 12:40 UTC - refine-draft
+## 2026-08-12 13:00 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/conceptual-impossibility]]
+- **Original score**: n/a (targeted citation-fidelity fix; `scripts/curate.py review` no longer exists — skill-doc drift)
+- **Changes**: Two verified issues from [[reviews/pessimistic-2026-08-08-claim-fidelity-base-rate]]. **(1) Hegel re-framed, quote preserved.** The "Occluded dimension" paragraph glossed "one of the fundamental prejudices of logic as hitherto understood" as the prejudice *that contradictions cannot be imagined or thought*; at the primary text (Miller trans., *Science of Logic*, Contradiction) the sentence continues "that contradiction is not so characteristically essential and immanent a determination as identity" — a claim about contradiction's **rank** versus identity, not its thinkability. Restated the prejudice as Hegel states it, then made the thinkability point separately in the Map's voice ("His target is contradiction's standing within logic; the thinkability question is ours to draw out"). Also fixed the propagated repeat in "Dialectical Approaches" ("For Hegel, the inability to think contradictions reflects 'fundamental prejudice'" → rank-prejudice framing with dialectical practice presupposing thinkability). **(2) Schlick de-quoted and sourced.** "Simply unthinkable" was quotation-marked as Schlick's words; it is Berto & Jago's uncited paraphrase in the SEP "Impossible Worlds" entry (verified live this run: SEP attaches no citation and has no Schlick bibliography entry). Converted to indirect speech attributed in prose to Berto and Jago's survey (already Reference 1). No new reference entry — no primary Schlick text retrievable.
+- **Note**: Upstream research note [[research/voids-conceptual-impossibility-2026-01-23]] carried the same SEP passage and gloss; added a source-fidelity caution under its SEP quote and re-framed its "Direct Methods" Hegel claim so the mis-frame cannot re-propagate. The SEP entry itself joins the two Hegel spans — this is aggregator compression; three prior deep-reviews (02-25, 04-01, 05-26) had ratified the gloss as "verified". Synced both trees; old quoted form greps 0 in obsidian/ and hugo/content/.
+- **Published**: yes
 
 - **Status**: Success
 - **File**: [[concepts/bohm-implicate-order-and-active-information]]

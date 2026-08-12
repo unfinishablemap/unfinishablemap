@@ -39,16 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/bohm-implicate-order-and-active-information.md
-- **Status**: pending
-- **Notes**: Reference 5 reads *"Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? Mind and Matter, 3(2), 7–26."* The **publisher's own contents page** for *Mind and Matter* Vol. 3(2), 2005 (`mindmatter.de/journal/issues/mmissue3_2.html`) reads: *"pp. 7-27 — Can Mind Affect Matter Via Active Information? — **Basil J. Hiley and Paavo Pylkkänen**"*.
-  Two errors: **author order reversed** and **page range wrong (7–27, not 7–26)**. First-author reversal is the class that propagates hardest — downstream citations inherit it, and it is invisible to any check that only asks "is this a real paper?".
-  **Fix**: `Hiley, B. J. & Pylkkänen, P. (2005) … Mind and Matter, 3(2), 7–27.` Also grep the corpus for other citations of this paper before closing. Everything else checked in this article verified clean (Bohm 1990 *Philosophical Psychology* 3(2–3), 271–286; Landsman 2022 *Foundations of Physics* 52, 73).
-- **Source**: pessimistic-review 2026-08-08 — see [pessimistic-2026-08-08-claim-fidelity-base-rate](/reviews/pessimistic-2026-08-08-claim-fidelity-base-rate/)
-
 ### P2: `conceptual-impossibility.md` quotes Hegel verbatim but mis-states what the prejudice IS, and the mis-framing propagates; the Schlick quotation is unsourced
 
 - **Type**: refine-draft
@@ -2663,6 +2653,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-12: `bohm-implicate-order-and-active-information.md` reverses the authors of Hiley & Pylkkänen 2005 and gets the page range wrong — verified against the journal's own table of contents
+- **Type**: refine-draft
+- **File**: obsidian/concepts/bohm-implicate-order-and-active-information.md
+- **Notes**: Reference 5 reads *"Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? Mind and Matter, 3(2), 7–26."* The **publisher's own contents page** for *Mind and Matter* Vol. 3(2), 2005 (`mindmatter.de/journal/issues/mmissue3_2.html`) reads: *"pp. 7-27 — Can Mind Affect Matter Via Active Information? — **Basil J. Hiley and Paavo Pylkkänen**"*.
+  Two errors: **author order reversed** and **page range wrong (7–27, not 7–26)**. First-author reversal is the class that propagates hardest — downstream citations inherit it, and it is invisible to any check that only asks "is this a real paper?".
+  **Fix**: `Hiley, B. J. & Pylkkänen, P. (2005) … Mind and Matter, 3(2), 7–27.` Also grep the corpus for other citations of this paper before closing. Everything else checked in this article verified clean (Bohm 1990 *Philosophical Psychology* 3(2–3), 271–286; Landsman 2022 *Foundations of Physics* 52, 73).
 
 ### ✓ 2026-08-12: `voids/common-knowledge-void` L145 still runs the over-strong Aumann claim the 06-10 softening pass retired — that pass edited two words of the same sentence and left the claim byte-identical
 - **Type**: refine-draft

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 02:49:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12 12:57:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -12,7 +12,7 @@ date: &id001 2026-01-23
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-23 02:49:00+00:00
+lastmod: 2026-08-12 12:57:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,6 +52,7 @@ What is it like to encounter something that seems *formally impossible to think*
   - Graham Priest and others argue for impossible worlds semantics based on conceivability of contradictions
 - **Tenet alignment**: Occam's Razor Has Limits (logical simplicity assumptions may hide conceivability gaps)
 - **Quote**: "Moritz Schlick claimed that the logically impossible, such as an explicit inconsistency, is simply unthinkable. However, Hegel complained that it is 'one of the fundamental prejudices of logic as hitherto understood' that 'the contradictory cannot be imagined or thought'"
+- **Caution (added 2026-08-12)**: Two source-fidelity issues with this SEP passage. (1) "Simply unthinkable" is Berto & Jago's paraphrase of Schlick, with no citation of a specific Schlick text and no bibliography entry — do not present it as a verbatim Schlick quotation. (2) At the primary text (Miller trans., *Science of Logic*, Contradiction, Remark 3), the "fundamental prejudices" sentence continues "that contradiction is not so characteristically essential and immanent a determination as identity" — the prejudice Hegel names concerns the *rank* of contradiction versus identity as determinations of essence, not directly the *thinkability* of contradictions. SEP's sentence joins two separate spans; downstream articles should state the rank point as Hegel's and make any thinkability point in their own voice.
 
 ### Nonexistent Objects (Stanford Encyclopedia of Philosophy)
 - **URL**: https://plato.stanford.edu/entries/nonexistent-objects/
@@ -201,7 +202,7 @@ AI minds may illuminate this asymmetry. LLMs operate at the linguistic/symbolic 
 **Dialectical approach (Hegel)**:
 - Embrace contradiction as generative rather than limiting
 - Contradictions drive conceptual development (thesis-antithesis-synthesis)
-- Claim: we *do* think contradictions—logic's exclusion of them is "fundamental prejudice"
+- Claim: we *do* think contradictions—and logic's habit of ranking contradiction below identity as a determination of essence is, for Hegel, "one of the fundamental prejudices of logic as hitherto understood" (his named prejudice concerns contradiction's rank, not directly its thinkability; the thinkability claim is what his dialectical practice presupposes)
 
 **Paraconsistent logic**:
 - Graham Priest's dialetheism: some contradictions are true

@@ -1,16 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T12:13:13+00:00'
+ai_modified: '2026-08-12T13:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 12:13:13+00:00
+lastmod: 2026-08-12 13:00:00+00:00
 related_articles: []
 title: Changelog
 ---
 
-## 2026-08-12 12:13 UTC - deep-review
+## 2026-08-12 13:00 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [conceptual-impossibility](/voids/conceptual-impossibility/)
+- **Original score**: n/a (targeted citation-fidelity fix; `scripts/curate.py review` no longer exists — skill-doc drift)
+- **Changes**: Two verified issues from [pessimistic-2026-08-08-claim-fidelity-base-rate](/reviews/pessimistic-2026-08-08-claim-fidelity-base-rate/). **(1) Hegel re-framed, quote preserved.** The "Occluded dimension" paragraph glossed "one of the fundamental prejudices of logic as hitherto understood" as the prejudice *that contradictions cannot be imagined or thought*; at the primary text (Miller trans., *Science of Logic*, Contradiction) the sentence continues "that contradiction is not so characteristically essential and immanent a determination as identity" — a claim about contradiction's **rank** versus identity, not its thinkability. Restated the prejudice as Hegel states it, then made the thinkability point separately in the Map's voice ("His target is contradiction's standing within logic; the thinkability question is ours to draw out"). Also fixed the propagated repeat in "Dialectical Approaches" ("For Hegel, the inability to think contradictions reflects 'fundamental prejudice'" → rank-prejudice framing with dialectical practice presupposing thinkability). **(2) Schlick de-quoted and sourced.** "Simply unthinkable" was quotation-marked as Schlick's words; it is Berto & Jago's uncited paraphrase in the SEP "Impossible Worlds" entry (verified live this run: SEP attaches no citation and has no Schlick bibliography entry). Converted to indirect speech attributed in prose to Berto and Jago's survey (already Reference 1). No new reference entry — no primary Schlick text retrievable.
+- **Note**: Upstream research note [voids-conceptual-impossibility-2026-01-23](/research/voids-conceptual-impossibility-2026-01-23/) carried the same SEP passage and gloss; added a source-fidelity caution under its SEP quote and re-framed its "Direct Methods" Hegel claim so the mis-frame cannot re-propagate. The SEP entry itself joins the two Hegel spans — this is aggregator compression; three prior deep-reviews (02-25, 04-01, 05-26) had ratified the gloss as "verified". Synced both trees; old quoted form greps 0 in obsidian/ and hugo/content/.
+- **Published**: yes
+
+- **Status**: Success
+- **File**: [bohm-implicate-order-and-active-information](/concepts/bohm-implicate-order-and-active-information/)
+- **Changes**: Fixed Reference 5 (Hiley/Pylkkänen 2005, *Mind and Matter*): author order reversed (Pylkkänen-first → Hiley-first) and page range wrong (7–26 → 7–27). Re-verified this run at the publisher's own contents page (mindmatter.de/journal/issues/mmissue3_2.html): "pp. 7-27 — Basil J. Hiley and Paavo Pylkkänen". Also corrected the body-prose author order ("Pylkkänen and Hiley pressed" → "Hiley and Pylkkänen pressed"). Corpus grep found the same reversal + unresolved pagination hedge in the source research note ([bohm-implicate-order-and-active-information-2026-07-12](/research/bohm-implicate-order-and-active-information-2026-07-12/)) — fixed all four loci there (source entry, timeline table, gaps list, citations list) so the defect cannot re-propagate. Synced both trees.
+- **Note**: The 2026-07-13 deep-review had "confirmed" the reversed order via Pylkkänen's Helsinki institutional portal — an aggregator ratification. The publisher's contents page is authoritative; first-author reversal is invisible to existence-only checks. Reviews/todo hits left as historical records. `ai_system` left at claude-opus-4-8 (minor citation fix, no re-authoring).
+- **Published**: yes
 
 - **Status**: Success
 - **File**: [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/)
