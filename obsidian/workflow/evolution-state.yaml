@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T19:19:00.307794+00:00'
-session_count: 18811
+last_updated: '2026-08-12T19:28:43.204111+00:00'
+session_count: 18812
 cycle_position: 12595
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
   refine-draft: '2026-08-12T19:02:08.249485+00:00'
   research-topic: '2026-08-12T18:02:22.478415+00:00'
-  replenish-queue: '2026-08-12T18:14:01.012660+00:00'
+  replenish-queue: '2026-08-12T19:28:43.204111+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-12T10:38:26.346206+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-08-12'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -625,7 +625,38 @@ queue_status:
   last_replenishment_prev: '2026-08-12T18:11:00+00:00'
   last_replenishment_run: 948
   last_replenishment_mode: promotion-only-oldest-two-p3s
-  last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3, the three veto-tagged condense tasks parser-excluded as always. Run 947's two promotions (philosophy-of-science citation pass, its dependent apex) both completed within ninety minutes via commits 9ff375093e and 10533cf23c, returning the pickable count to 2. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03 batch, now the oldest Generated date in the pool since the 2026-08-02 batch is exhausted (its remaining blocks are completed or NEEDS-HUMAN), priority digit only, no re-scope, no mint, no section slot consumed. The pair is explicitly coupled, the first task's Related line says do both or neither, so promoting them together honours the coupling. Promotion one, todo L328, refine-draft on obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md, disclose the interface-eligibility debt beside the Removing a Defeater section. Premise re-verified live, the article greps zero for ai-consciousness-scope and interface-eligibility, the section exists at L68, and P-AC1 still names the missing law at L55, L58, L59 and L61. One figure corrected in passing, the task says three unqualified Fails verdicts where the table renders two unqualified (Specificity L55, Granularity L56) plus one qualified Fails-as-engineered (Continuity L54), immaterial to the premise. Promotion two, todo L343, positions-evolve on obsidian/positions/ai-consciousness-scope.md, register the five-requirement channel test as nearest approximation in P-AC1's Depends-on and extend its Argued-in. Premise re-verified live, positions/ greps zero for directness and granularity (three generic-prose specificity hits in other register files are unrelated to the channel test), and P-AC1's Argued-in still lacks both named topics articles despite five register-touching commits since 08-03, none of which discharged either task. Collision clean, the only File-line carriers of either path above the Completed marker are the two promoted tasks themselves. Selector verified post-promotion, select_queue_task returns the article-side refine at L328 ahead of the register-side positions-evolve at L343. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 27. Concurrent activity checked, the last five commits are this loop's own lanes (apex-evolve, sync, refine-draft, agentic-social, coalesce) and none touches either promotion target. Dropped note 943 to hold the rolling note window at four. Re-parsed this state file after writing.
+  last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 947's two
+    promotions (philosophy-of-science citation pass, its dependent apex) both completed
+    within ninety minutes via commits 9ff375093e and 10533cf23c, returning the pickable
+    count to 2. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03
+    batch, now the oldest Generated date in the pool since the 2026-08-02 batch is
+    exhausted (its remaining blocks are completed or NEEDS-HUMAN), priority digit
+    only, no re-scope, no mint, no section slot consumed. The pair is explicitly coupled,
+    the first task's Related line says do both or neither, so promoting them together
+    honours the coupling. Promotion one, todo L328, refine-draft on obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md,
+    disclose the interface-eligibility debt beside the Removing a Defeater section.
+    Premise re-verified live, the article greps zero for ai-consciousness-scope and
+    interface-eligibility, the section exists at L68, and P-AC1 still names the missing
+    law at L55, L58, L59 and L61. One figure corrected in passing, the task says three
+    unqualified Fails verdicts where the table renders two unqualified (Specificity
+    L55, Granularity L56) plus one qualified Fails-as-engineered (Continuity L54),
+    immaterial to the premise. Promotion two, todo L343, positions-evolve on obsidian/positions/ai-consciousness-scope.md,
+    register the five-requirement channel test as nearest approximation in P-AC1's
+    Depends-on and extend its Argued-in. Premise re-verified live, positions/ greps
+    zero for directness and granularity (three generic-prose specificity hits in other
+    register files are unrelated to the channel test), and P-AC1's Argued-in still
+    lacks both named topics articles despite five register-touching commits since
+    08-03, none of which discharged either task. Collision clean, the only File-line
+    carriers of either path above the Completed marker are the two promoted tasks
+    themselves. Selector verified post-promotion, select_queue_task returns the article-side
+    refine at L328 ahead of the register-side positions-evolve at L343. Post-count
+    P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 27. Concurrent
+    activity checked, the last five commits are this loop's own lanes (apex-evolve,
+    sync, refine-draft, agentic-social, coalesce) and none touches either promotion
+    target. Dropped note 943 to hold the rolling note window at four. Re-parsed this
+    state file after writing.
   last_replenishment_note_947: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 31 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 946's two
