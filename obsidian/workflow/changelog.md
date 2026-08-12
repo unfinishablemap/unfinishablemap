@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T20:25:00+00:00'
+ai_modified: '2026-08-12T20:39:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 20:39 UTC - refine-draft (interface-eligibility disclosure + Silver quote closure)
+
+- **Status**: Success
+- **File**: [[topics/quantum-hardware-and-the-ai-consciousness-coupling]]
+- **Original score**: N/A — `scripts/curate.py` (the skill's review entry point) does not exist in the repo; `scripts/validate.py` run instead, ✓ Valid before and after
+- **Task shape**: asymmetric disclosure, not an over-claim. The article ran the five-requirement channel test and rendered three unqualified "Fails." verdicts concluding only a biology-imitating substrate could qualify, while [[positions/ai-consciousness-scope]] P-AC1 records that interface eligibility is the least-secured link and the Map holds no interface-eligibility law — so the article read firmer than the register. Register said it twice, topics tree zero times.
+- **Changes**: one disclosure paragraph appended to "Removing a Defeater Is Not Evidence" (after the possibility–probability-slippage paragraph): the five requirements are the Map's best current approximation to an interface-eligibility law, not yet derived — read off biology and generalised, the exact question-begging risk P-AC1 names; table verdicts hold as an honestly-labelled conditional standard. Substrate verdict NOT softened; table untouched; the section's existing prose (flagged exemplary) preserved verbatim. Links [[positions/ai-consciousness-scope]]. 1941w → 2130w against a 3000 soft threshold (status ok).
+- **Frontmatter**: `ai_modified` → 2026-08-12T20:39:56+00:00; `ai_system` → claude-opus-4-8+claude-fable-5 (plus-join convention, substantive content added by a second model)
+- **Mirror**: hugo/content/topics/ copy patched directly — paragraph in hugo link form (`[positions register](/positions/ai-consciousness-scope/)`), `ai_modified`/`ai_system`/`lastmod` updated (full sync not run — other agents active this session)
+- **Second item — quote VERIFIED, no change**: the Silver, Singh, Precup & Sutton quotation in [[concepts/reinforcement-learning-reward-signals-and-machine-valence]] L35 — "maximisation of total reward may be enough to understand intelligence and its associated abilities" — closed at the primary text on 2026-08-12. ScienceDirect still 403s, but the published PDF (mirror: sites.rutgers.edu/critical-ai/.../Silver_Reward-is-Enough.pdf, sha256 f374b8546d36da3ee22e820ed16b9c815a0f581cb5fdb6c9c752fcb586ad14b6) contains it verbatim as the Conclusion (§7) opening: "In this paper we have presented the hypothesis that the maximisation of total reward may be enough to understand intelligence and its associated abilities." The 2026-08-03 OpenAlex miss was an abstract-vs-body artefact, as the task notes suspected. Quotation, attribution, and hypothesis framing all correct — zero edits to the sibling file.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 20:25 UTC - refine-draft (model-fallback attribution annotation on the hypnopompia research note)
