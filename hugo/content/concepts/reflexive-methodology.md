@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-08-12 18:56:49+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 19:45:00+00:00
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,6 +101,7 @@ The Stroud reply secures a phenomenal *datum* — that evaluation, reasoning, an
 ## Further Reading
 
 - [Steelmanning as Method](/apex/steelmanning-as-method/) — The Map's other named method and this one's constructive companion: build the strongest unified rival, grant the absorption, isolate the residue
+- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis in which this method's premise-neutrality audit becomes one of the norms the Map is judged by
 - [self-stultification](/concepts/self-stultification/) — The property the method sometimes deploys: a belief whose truth undercuts its own grounds
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The single structure across four targets
 - [pragmatism](/concepts/pragmatism/) — Immanent critique of the pragmatist's own materialism

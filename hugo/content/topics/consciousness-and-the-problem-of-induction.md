@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-12 16:59:00+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 22:08:25+00:00
-lastmod: 2026-08-12 16:59:00+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -114,6 +114,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 
 - [argument-from-reason](/topics/argument-from-reason/)
 - [reflexive-methodology](/concepts/reflexive-methodology/)
+- [Judging the Map as Science](/apex/judging-the-map-as-science/)
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)

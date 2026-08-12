@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-08-12 18:56:49+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 10:45:59+00:00
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,6 +131,7 @@ A caution against the article's own temptation: that a theory is underdetermined
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- [Judging the Map as Science](/apex/judging-the-map-as-science/)
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
 - [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)

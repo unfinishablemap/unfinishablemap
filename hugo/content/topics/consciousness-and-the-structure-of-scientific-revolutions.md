@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-08-12 18:56:49+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 07:05:35+00:00
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,6 +106,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 ## Further Reading
 
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- [Judging the Map as Science](/apex/judging-the-map-as-science/)
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [The Phenomenology of Conceptual Frameworks](/topics/phenomenology-of-conceptual-frameworks/)

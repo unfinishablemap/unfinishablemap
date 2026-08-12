@@ -4,7 +4,7 @@ description: "The Map's positions on its own method: the tenet-register / eviden
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-08-03T16:52:00+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics: []
 concepts:
@@ -12,6 +12,7 @@ concepts:
 related_articles:
   - "[[positions]]"
   - "[[tenets]]"
+  - "[[apex/judging-the-map-as-science]]"
   - "[[project/common-cause-null]]"
   - "[[project/coherence-inflation-countermeasures]]"
   - "[[project/framework-stage-calibration]]"

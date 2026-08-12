@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-12 18:56:49+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 20:17:47+00:00
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,6 +118,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 
 ## Further Reading
 
+- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that assembles this article's revised norms, the cluster's appraisal instruments, and the measurement limit into a single verdict on how to judge the Map
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) — How non-reductive explanation works under dualism
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why the scientific method structurally excludes subjectivity
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why every model of explanation and theoretical virtue fails for consciousness

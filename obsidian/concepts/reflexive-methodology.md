@@ -4,7 +4,7 @@ description: "The Map's argumentative move: take a rival framework's own criteri
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-08-12T18:56:49+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,6 +97,7 @@ The Stroud reply secures a phenomenal *datum* — that evaluation, reasoning, an
 ## Further Reading
 
 - [[apex/steelmanning-as-method|Steelmanning as Method]] — The Map's other named method and this one's constructive companion: build the strongest unified rival, grant the absorption, isolate the residue
+- [[apex/judging-the-map-as-science|Judging the Map as Science]] — The applied synthesis in which this method's premise-neutrality audit becomes one of the norms the Map is judged by
 - [[self-stultification]] — The property the method sometimes deploys: a belief whose truth undercuts its own grounds
 - [[self-stultification-as-master-argument]] — The single structure across four targets
 - [[pragmatism]] — Immanent critique of the pragmatist's own materialism

@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-08-12T18:56:49+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,6 +127,7 @@ A caution against the article's own temptation: that a theory is underdetermined
 
 - [[hard-problem-of-consciousness]]
 - [[philosophy-of-science-under-dualism]]
+- [[apex/judging-the-map-as-science|Judging the Map as Science]]
 - [[epistemological-limits-of-occams-razor]]
 - [[consciousness-defeats-explanation]]
 - [[phenomenology-of-conceptual-frameworks]]

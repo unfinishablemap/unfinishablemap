@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-07-31T00:43:33+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,6 +133,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Bridging first-person contrasts with third-person neuroscience
 - [[imagery-void]] — Where phenomenal contrasts in imagery vividness expose structural limits of introspective comparability
 - [[phenomenal-variation-within-a-species]] — The apex synthesis extending the contrast method from individual to population scale across four within-species divergence classes
+- [[apex/judging-the-map-as-science|Judging the Map as Science]] — The applied synthesis that identifies within-subject contrast structure as the defensible instrument class left standing by the measurement-standards limit
 
 ## References
 

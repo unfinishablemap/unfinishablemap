@@ -4,7 +4,7 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-08-12T18:56:49+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 last_deep_review: 2026-07-29T07:05:35+00:00
 draft: false
 topics:
@@ -102,6 +102,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 ## Further Reading
 
 - [[philosophy-of-science-under-dualism]]
+- [[apex/judging-the-map-as-science|Judging the Map as Science]]
 - [[consciousness-defeats-explanation]]
 - [[methodology-of-consciousness-research]]
 - [[phenomenology-of-conceptual-frameworks|The Phenomenology of Conceptual Frameworks]]

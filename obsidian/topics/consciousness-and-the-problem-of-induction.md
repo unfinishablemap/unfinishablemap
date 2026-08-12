@@ -4,7 +4,7 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-08-12T16:59:00+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,6 +110,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 
 - [[argument-from-reason]]
 - [[reflexive-methodology]]
+- [[apex/judging-the-map-as-science|Judging the Map as Science]]
 - [[phenomenology-of-intellectual-life]]
 - [[temporal-consciousness-structure-and-agency]]
 - [[consciousness-and-normative-force]]

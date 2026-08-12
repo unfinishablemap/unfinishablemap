@@ -4,7 +4,7 @@ description: "Science requires measurement standards—units, instruments, calib
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-06-01T06:00:00+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,6 +110,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 
 ## Further Reading
 
+- [[apex/judging-the-map-as-science|Judging the Map as Science]] — The applied synthesis that carries this article's structural limit into programme appraisal, including its unreconciled tension with the interface programme's phenomenal-metrics progress condition
 - [[methodology-of-consciousness-research]]
 - [[phenomenal-authority-and-first-person-evidence]]
 - [[introspection]]

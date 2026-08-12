@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-22 21:58:23+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 20:55:41+00:00
-lastmod: 2026-06-22 21:58:23+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[voids-between-minds]]'
@@ -121,6 +121,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [voids-between-minds](/voids/voids-between-minds/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- [Judging the Map as Science](/apex/judging-the-map-as-science/)
 
 ## References
 

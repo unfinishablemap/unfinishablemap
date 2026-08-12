@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-12 18:56:49+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:45:15+00:00
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,6 +140,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why consciousness breaks standard explanatory frameworks
 - [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's named method of running a rival framework through its own criterion of success, deployed in the circularity argument above
+- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that assembles this article's inferential methods and progress conditions into a programme-appraisal verdict, and surfaces the tension between the phenomenal-metrics condition and the measurement-standards limit
 - [causal-interface](/voids/causal-interface/) — The void at the point where consciousness meets matter
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the candidate site for consciousness-physics interaction
 

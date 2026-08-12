@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-08-12T18:56:49+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,6 +136,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [[epistemology-of-convergence-arguments]] — When and how convergence carries evidential weight
 - [[consciousness-defeats-explanation]] — Why consciousness breaks standard explanatory frameworks
 - [[reflexive-methodology]] — The Map's named method of running a rival framework through its own criterion of success, deployed in the circularity argument above
+- [[apex/judging-the-map-as-science|Judging the Map as Science]] — The applied synthesis that assembles this article's inferential methods and progress conditions into a programme-appraisal verdict, and surfaces the tension between the phenomenal-metrics condition and the measurement-standards limit
 - [[causal-interface]] — The void at the point where consciousness meets matter
 - [[attention-as-interface]] — Attention as the candidate site for consciousness-physics interaction
 

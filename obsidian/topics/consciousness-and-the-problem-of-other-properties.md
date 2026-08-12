@@ -4,7 +4,7 @@ description: "The problem of other minds generalises: if phenomenal properties a
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-22T21:58:23+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,6 +117,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [[voids-between-minds]]
 - [[modal-structure-of-phenomenal-properties]]
 - [[phenomenal-authority-and-first-person-evidence]]
+- [[apex/judging-the-map-as-science|Judging the Map as Science]]
 
 ## References
 

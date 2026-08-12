@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-08-12T18:56:49+00:00
+ai_modified: 2026-08-12T19:14:57+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -114,6 +114,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 ## Further Reading
 
+- [[apex/judging-the-map-as-science|Judging the Map as Science]] — The applied synthesis that assembles this article's revised norms, the cluster's appraisal instruments, and the measurement limit into a single verdict on how to judge the Map
 - [[consciousness-and-scientific-explanation]] — How non-reductive explanation works under dualism
 - [[methodology-of-consciousness-research]] — Why the scientific method structurally excludes subjectivity
 - [[consciousness-defeats-explanation]] — Why every model of explanation and theoretical virtue fails for consciousness

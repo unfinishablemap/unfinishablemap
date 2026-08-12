@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-01 06:00:00+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 00:31:37+00:00
-lastmod: 2026-06-01 06:00:00+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -114,6 +114,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 ## Further Reading
 
+- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that carries this article's structural limit into programme appraisal, including its unreconciled tension with the interface programme's phenomenal-metrics progress condition
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [introspection](/concepts/introspection/)

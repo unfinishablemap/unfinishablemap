@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T18:56:49+00:00'
+ai_modified: '2026-08-12T19:14:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 18:56:49+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-12 19:14 UTC - apex-evolve
+
+- **Status**: Complete (create mode, applied)
+- **Article**: [judging-the-map-as-science](/apex/judging-the-map-as-science/) — new applied apex (A7) for the philosophy-of-science / methodology-under-dualism cluster, per optimistic-2026-08-02's verified apex gap
+- **Thesis**: dualism does not exempt the Map from scientific norms; it changes which norms apply and obliges the Map to run them on itself
+- **Sources**: 10 (nine cluster articles + positions/methodology-and-calibration)
+- **Positions cited**: P-M1, P-M2, P-M4, P-M5 with credence bands in prose; `positions/quantum-interface#^mechanism-debt` deep-linked; "What This Implies for Decisions" present (six implications, cascade-tagged)
+- **Seam carried**: epistemology-of-mechanism's phenomenal-metrics progress condition vs measurement-standards' structural impossibility — dedicated section, three resolutions costed, within-subject-scaling reading proposed and flagged mutually-coherent-only in the Evidence and Dependency ledger
+- **Prerequisite verified**: the 18:56 P-M citation pass had landed first; apex inherits attributed positions
+- **Word count**: 3,747 (`analyze_length`, ok)
+- **Integration**: reciprocal inbound links added from all ten sources; apex-articles.md A7 entry + "Four are live" intro update
+- **Citations**: reuse of the cluster's verified set only; three verbatim quotes grep-verified contiguous at HEAD
+
 ---
 
 ## 2026-08-12 18:56 UTC - refine-draft

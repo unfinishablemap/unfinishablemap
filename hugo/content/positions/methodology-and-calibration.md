@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-03 16:52:00+00:00
+ai_modified: 2026-08-12 19:14:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -15,11 +15,12 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-08-03 16:52:00+00:00
+lastmod: 2026-08-12 19:14:57+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
 - '[[tenets]]'
+- '[[apex/judging-the-map-as-science]]'
 - '[[project/common-cause-null]]'
 - '[[project/coherence-inflation-countermeasures]]'
 - '[[project/framework-stage-calibration]]'
