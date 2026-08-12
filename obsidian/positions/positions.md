@@ -2,9 +2,9 @@
 title: "Positions"
 description: "The Map's explicit, maintained register of positions it currently holds — claims with status, confidence, dependencies, and conditions that would shift them."
 created: 2026-06-04
-modified: 2026-08-07
+modified: 2026-08-12
 human_modified: 2026-06-04
-ai_modified: 2026-08-07T21:44:00+00:00
+ai_modified: 2026-08-12T13:58:00+00:00
 draft: false
 topics: []
 concepts:
@@ -16,7 +16,7 @@ related_articles:
   - "[[project/calibration-audit-triple]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-06-04
 last_curated: 2026-06-04
 ---
@@ -58,6 +58,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[agency-and-will|Agency and will]] — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
 - [[voids-as-evidence|Voids as evidence]] — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [[value-in-selection|Value in selection]] — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, the collated battery of evidence that would move the fork in either direction, and the upstream premise both entries rest on (intrinsic value resides in phenomenal experience)
+- [[moral-status|Moral status]] — who can be wronged: the phenomenal-sentientism criterion (valenced experience necessary and sufficient for moral status, read phenomenally rather than functionally), registered downstream of the value domain's premise about what bears intrinsic value and kept distinct from it — biocentrism named as the live rival on the necessity direction
 - [[individuation-and-subjecthood|Individuation and subjecthood]] — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, and the indivisibility of a perspective under fission and duplication
 - [[subject-census|Subject census]] — the same subject matter carrying the *quantum-interface* dependency: why subject count and pairing become part of the interface's physical state description once conscious-state conditionals do causal work, the pairing law the Map owes and does not have (multi-agent composition and artificial-subject eligibility are its instances), and the undated onset and cessation of the channel
 - [[consciousness-scope|Consciousness scope]] — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness

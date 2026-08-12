@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T13:00:00+00:00'
+ai_modified: '2026-08-12T13:58:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 13:00:00+00:00
+lastmod: 2026-08-12 13:58:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-12 13:58 UTC - positions-evolve
+
+- **Status**: Success
+- **Operation**: add — new domain file [moral-status](/positions/moral-status/) seeded with **P-MS1** (phenomenal sentientism: valenced experience necessary and sufficient for moral status, read phenomenally rather than functionally)
+- **Domain decision**: decided explicitly, not defaulted. The task's `File:` anchor pointed at [value-in-selection](/positions/value-in-selection/), but that file's stated scope (L36) is the value-blind/value-sensitive *selection* fork; moral standing is not selection mechanics. New domain opened (prefix `P-MS` — free; `P-M`/`P-MC` exist but full IDs are distinct tokens) and registered in the [positions](/positions/) Domains list.
+- **Direction discipline**: P-VS3 (what bears intrinsic value) and P-MS1 (who can be wronged) kept distinct, with the derivation — normative teleology requires an experiencer ([consciousness-value-connection](/concepts/consciousness-value-connection/), per [sentientism](/concepts/sentientism/)) — recorded as the dependency rather than an identity. Audit determination on the "numbered last, logically first" ordering: P-MS1 sits *downstream* of P-VS3, so value-in-selection's internal ordering is unaffected; no upstream insertion warranted.
+- **Calibration**: copied from [sentientism](/concepts/sentientism/) ("stands or falls with the tenet, and does not claim independent support from the applied literature that leaves the distinction unmade") — framework-internal yes, grade D, credence moderate (capped by P-VS3), centrality moderate (overturn restructures the applied-ethics wing but moves no tenet, interface claim, or scope verdict — the article's own concession that the phenomenal reading changes no actual verdict decides moderate over high), discriminability indirect (tracks P-VS3). Biocentrism (Taylor/Attfield/Varner) named as the live rival on the necessity direction, not ecocentrism.
+- **Cascade**: [P-VS3](/positions/value-in-selection/) *Depended on by* now names P-MS1 (Asserts sentence + Depends-on line + update note; Last reviewed → 2026-08-12). Passes the foundational-dependency test — freely retireable.
+- **State**: `progress.positions_written` 14 → 15 (counter counts domain files); positions cap 80, ample headroom.
+- **Published**: yes
+
+## 2026-08-12 13:55 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) (48d since deep review, first dedicated pessimistic pass; top scorer `bohm-implicate-order` skipped — modified today, concurrent agent)
+- **Output**: [pessimistic-2026-08-12-cognitive-enhancement](/reviews/pessimistic-2026-08-12-cognitive-enhancement/)
+- **Findings**: 6 issues (3 High, 3 Medium). Headline: **verified wrong-work citation** — the Bostrom & Sandberg paraphrase (therapy/enhancement distinction, information-processing framing) belongs to their *Sci Eng Ethics* 15(3):311–341 paper, not the cited "Wisdom of Nature" chapter (full-text check: zero "information processing" occurrences), and even the right paper treats the distinction skeptically. Also: falsifiability condition #2 logically inverted (interface model *predicts* phenomenal change); irreducibility→immutability non-sequitur in §Identity; §Moral Responsibility vs §Quantum Interface internal contradiction on pharmaceutical free-choice; §Equity "same fundamental capacity" premise unargued and in tension with [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/); §Tenet 4 misstates Everettian decision weight. Altered-state symmetry gate borderline-negative (one clear supportive item); residue handled as a "demonstrate"-overclaim language fix. One P2 refine-draft task queued (bottom-inserted).
+- **Published**: yes
 
 ## 2026-08-12 13:00 UTC - refine-draft
 
