@@ -4,7 +4,7 @@ description: "Nihilism diagnoses the absence of cosmic purpose; existentialism r
 created: 2026-01-06
 modified: 2026-04-11
 human_modified: null
-ai_modified: 2026-07-31T03:04:00+00:00
+ai_modified: 2026-08-12T21:40:12+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[consciousness-and-the-phenomenology-of-place]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-31T03:04:00+00:00
@@ -81,7 +81,7 @@ The pour-soi cannot coincide with itself. When I am aware of my fear, the awaren
 
 The illusionist must answer: to whom does the illusion appear? Frankish (2016), who names Dennett's *Consciousness Explained* (1991) and its user-illusion analogy as the position's pre-eminent statement, responds that "seeming" can be deflated into purely functional terms—a cognitive error, not a phenomenal illusion requiring a phenomenal experiencer. He accepts the constraint this imposes: it is essential to the approach that the introspective representations it posits are not themselves phenomenally conscious, since explaining illusory phenomenal properties by appeal to real ones would be self-defeating. That is illusionism's own standard, and Sartre's analysis shows why deflation cannot meet it. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve.
 
-As Tallis argues, illusions presuppose experience. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The illusionist's move treats consciousness as a thing with properties that might be illusory, but consciousness is the perspective from which properties appear. [[witness-consciousness|Witness consciousness]]—observing thoughts without identification—provides independent support: sustained practice *refines* rather than dissolves phenomenal access.
+As Tallis argues, illusions presuppose experience. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The illusionist's move treats consciousness as a thing with properties that might be illusory, but consciousness is the perspective from which properties appear. Frankish contests exactly this premise—a deflated "seeming", on his account, needs no experiencer—so the regress on its own marks the disagreement rather than settling it: the weight rests on the internal argument above, that deflation fails illusionism's own standard, and neither side closes the case against the other inside the rival's framework. [[witness-consciousness|Witness consciousness]]—observing thoughts without identification—provides independent support: sustained practice *refines* rather than dissolves phenomenal access.
 
 ## Heidegger's Dasein: Being-in-the-World
 
@@ -141,7 +141,7 @@ The Map does not affirm or deny cosmic meaning. But if consciousness is real and
 
 The existentialist-dualist synthesis would face difficulty if:
 
-- **Illusionism resolved the regress**: A coherent formulation that did not presuppose phenomenal consciousness. No such formulation has been produced.
+- **Illusionism resolved the regress**: A deflationary formulation that met illusionism's own standard—explaining the "seeming" without phenomenal remainder. Frankish holds that deflation already achieves this; the argument above holds that it does not, and the dispute remains live.
 - **Being-in-the-world proved reducible**: A physical account explaining Dasein's structures without presupposing them in the investigator.
 - **Bad faith became explicable functionally**: A materialist account of self-deception that did not invoke the pour-soi's self-distance.
 - **Many-Worlds proved inescapable**: Strong reasons to accept MWI outweighing existentialist objections about singular choice.

@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-12T21:40:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-memory]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-11T10:11:00+00:00
@@ -119,7 +119,7 @@ Several features resist this reading:
 
 **The asymmetry of dreamless sleep**: Dreamless sleep involves complete temporal collapse—seven hours feel like nothing, not like forgotten experience. This differs from waking amnesia and suggests consciousness genuinely *wasn't present*.
 
-**The regress problem**: The illusionist must explain what experiences the "seeming" of consciousness. As Raymond Tallis argues, illusions presuppose experience.
+**The regress problem**: The illusionist must explain what experiences the "seeming" of consciousness. As Raymond Tallis argues, illusions presuppose experience—though Frankish replies that a representational system need not instantiate what it represents, so the regress marks a pressure point rather than a stand-alone refutation.
 
 **Lucid dreaming**: The trainability of lucidity suggests consciousness is a genuine capacity rather than mere representation. Training a capacity to operate in new conditions is standard skill acquisition.
 

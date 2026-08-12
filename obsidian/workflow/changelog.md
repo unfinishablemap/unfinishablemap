@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T20:39:56+00:00'
+ai_modified: '2026-08-12T21:40:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 21:40 UTC - refine-draft (Tallis-regress decisiveness family — mid-band batch 1)
+
+- **Status**: Success
+- **Files**: [[concepts/nihilism-and-existentialism]], [[concepts/sleep-and-consciousness]], [[apex/self-construction-constructor]] (flagship, light touch)
+- **Original score**: N/A — targeted calibration batch, not general refinement; `scripts/curate.py` does not exist, `scripts/validate.py` ✓ Valid on all three after edit
+- **Family**: the illusions-presuppose-experience regress run as decisive. Mid band per the corrected population (74 loci carry the premise, ~18 ran it decisive, 7 fixed in `93c1beed`). All three edits inherit the settled template's counter clause; none rebuilds an argument.
+- **Changes**:
+  - nihilism-and-existentialism (flagged L84): boundary close only — Frankish contests the premise (a deflated "seeming" needs no experiencer), weight moved to the article's existing in-framework argument (deflation fails illusionism's own standard — untouched), template close "neither side closes the case against the other inside the rival's framework". Also recalibrated the same file's "What Would Challenge This View?" bullet, which asserted "No such formulation has been produced" — now states the dispute as live (same decisive-framing defect, same family, same file).
+  - sleep-and-consciousness (flagged L122, one bullet of four): appended the inherited clause — a representational system need not instantiate what it represents; regress downgraded to a pressure point, not a stand-alone refutation.
+  - apex/self-construction-constructor (flagged L92, FLAGSHIP): one clause appended to the harder-line eliminativist sentence — the premise is denied rather than overlooked, pointing at the section's own minimal/strong-claim distinction (already present, untouched). No restructuring.
+- **Already calibrated on read — ADD TO DO-NOT-REOPEN** (counter-regex false negatives, the family's methodological lesson):
+  - topics/the-self-minimal-narrative-and-substantial (flagged L103) — already closes "the regress is pressing but not, on its own, decisive" (landed 2026-05-31, commit `1344722159`). No edit.
+  - apex/identity-across-transformations (flagged L85) — full calibration in its own words: "Eliminativists contest this move… precisely what eliminativism denies" (the regex sought "illusionists"). No edit.
+- **Engagement classification** (editor-internal): all three edited loci engage Frankish/eliminativists as mixed — the in-framework leg retained where present (deflation fails illusionism's own standard; regress against Metzinger/Duch), boundary-marking close installed for the regress itself; no in-framework refutation claimed for the Tallis premise alone.
+- **Tallis wording preserved**: "illusions presuppose experience" retained verbatim at every locus — the quote is genuine; only the decisive framing was the defect.
+- **Frontmatter**: `ai_modified` → 2026-08-12T21:40:12+00:00 on all three; `ai_system` plus-joined `+claude-fable-5`.
+- **Mirror**: hugo/content copies of all three patched directly (body + ai_modified + ai_system + lastmod) — full sync not run, other agents active this session.
+- **Remaining family tail**: BATCH 2 (the four archive/ loci) still open as its own pick. Batch 1 outcome supports closing soon: of 5 mid-band loci, only 3 needed edits, all one clause.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 21:08 UTC - positions-evolve (update P-AC1 — five-requirement channel test registered as nearest approximation to the interface-eligibility law)
