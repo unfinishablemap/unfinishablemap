@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T22:46:35.722039+00:00'
-session_count: 18825
-cycle_position: 12601
+last_updated: '2026-08-12T22:55:40.971489+00:00'
+session_count: 18826
+cycle_position: 12602
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -33,7 +33,7 @@ last_runs:
   collect-claude-review: '2026-08-08T04:43:12.893012+00:00'
   combine-outer-reviews: '2026-08-08T05:55:32.568919+00:00'
   collect-gemini-review: '2026-08-08T05:06:54.291665+00:00'
-  positions-evolve: '2026-08-12T21:10:33.514041+00:00'
+  positions-evolve: '2026-08-12T22:55:40.971489+00:00'
   check-model-fallback: '2026-08-12T19:38:00.904446+00:00'
   harvest-research-subjects: '2026-08-12T17:08:09.704687+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-08-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-12'
+  outcome: success
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -621,13 +621,52 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 25
+  p3_tasks: 24
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T21:30:00+00:00'
-  last_replenishment_prev: '2026-08-12T19:26:00+00:00'
-  last_replenishment_run: 949
-  last_replenishment_mode: promotion-only-next-two-p3s-of-2026-08-03-batch
+  last_replenishment: '2026-08-12T23:13:00+00:00'
+  last_replenishment_prev: '2026-08-12T21:30:00+00:00'
+  last_replenishment_run: 950
+  last_replenishment_mode: mint-unconsumed-research-chain-plus-one-promotion
+  last_replenishment_note_950: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3, the
+    three veto-tagged condense tasks parser-excluded as always. Run 949's two promotions
+    (illusionist-regress mid band, positions register empirical-discriminability read)
+    completed via commits 806facb968 and fa03efb104 plus the archive follow-on
+    175934f952, returning the pickable count to 2. Departed from the promotion-only
+    pattern of runs 944 through 949 on the driver's correction, which the sources re-
+    check confirmed — the unconsumed research note research/hypnopompia-and-sleep-
+    paralysis-as-interface-reassembly-out-of-order-2026-08-12.md (research-topic
+    completed 18:02 UTC, commit 5ebd2644) is a live research-to-expand chain that runs
+    947 through 949 passed over while citing the promotion precedent, and per the
+    skill's source priority unconsumed research outranks every other mint source.
+    Assessed the note ready, not premature — it carries an executive summary that
+    corrects the commissioning premise (the field default since Mavromatis 1987 is HG/HP
+    equivalence), three evidenced angles with angle one preferred, and a Gaps section
+    fencing its four paywalled or secondary-sourced items. Mint one, appended at the end
+    of Active Tasks so no existing task line moved, P2 expand-topic titled Write article
+    on hypnopompia and sleep paralysis as interface reassembly out of order, File line
+    pointing at the research note. Target section topics, gate re-measured live at 319
+    of 320 via tools.evolution.state.count_section_files, so the expand consumes the
+    last gated slot at execution; the task notes carry the note's own recorded fallback
+    (a Reassembly-out-of-order section extending topics/hypnagogic-phenomenology-and-
+    interface-modulation) if the gate reads 320 at execution, the verification-debt
+    inheritance for the four paywalled or secondary-sourced items, the framing
+    correction, the wing-register calibration constraints including the do-not-
+    reintroduce trainability over-claim, and the integration chain. Dedupe verified
+    clean, no live or archived article for hypnopompia, sleep paralysis or reassembly,
+    no Vetoed-bank match, no open task carrying the research note path or the fallback
+    article path. Restored to 4 by additionally promoting the next topmost pending P3 of
+    the 2026-08-03 batch, still the oldest Generated date in the pool, priority digit
+    only, no re-scope, no line moved. Promotion, todo L372, positions-evolve on
+    obsidian/positions/subject-census.md, the P-SC1 Argued-in re-label. Premise re-
+    verified live, subject-census.md L46 still lists all four articles including
+    apex/post-decoherence-selection-programme and concepts/selection-only-channel, and
+    the register greps zero for formalism drawn from. Collision clean, the only File-
+    line carrier of the path in the Active section is the promoted task itself. Post-
+    count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 24. Rolling
+    note window held at four numbered notes, note_946 dropped as run 949 dropped
+    note_945. Re-parsed this state file after writing.
   last_replenishment_note_949: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 948's two
@@ -718,35 +757,6 @@ queue_status:
     18:02, agentic-social 17:40, deep-review 17:26, harvest 17:08, refine-draft 17:01)
     and none touches either promotion target. Dropped note 942 to hold the rolling
     note window at four. Re-parsed this state file after writing.
-  last_replenishment_note_946: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 32 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 945's two
-    promotions (sentientism positions-evolve, language-consciousness apex-evolve)
-    both completed within two hours via commits 16b83cce2e and 9c4514ae5f, returning
-    the pickable count to 2. Restored to 4 by promoting the two topmost pending P3s
-    of the 2026-08-02 batch, the oldest Generated date in the pool, priority digit
-    only, no re-scope, no line count change, no mint, no section slot consumed. Promotion
-    one, todo L2290, refine-draft on archive/topics/aesthetic-dimension-of-consciousness.md,
-    the four-limb argument-level independence claim. Premise re-verified live, the
-    sentence still greps exactly once and sits in the L210 Dualism paragraph as the
-    task describes. Collision clean, exactly one open task carries the file. Low-urgency
-    archive target but FIFO within the date batch governs, matching run 945's rule.
-    Promotion two, todo L2299, refine-draft calibration on obsidian/topics/consciousness-and-the-problem-of-induction.md.
-    All three loci re-verified verbatim on disk, the L36 constitutive lead, the L52
-    rockslide sentence, the L82 dilemma, and the zero-reciprocal-link premise re-verified,
-    grep count 0 in both directions between the article and reflexive-methodology.
-    Collision noted and accepted, the file is also one of nine in scope of the L2308
-    citation-pass task which stays P3, overlap is bounded to the single reciprocal
-    reflexive-methodology link and is idempotent, and the calibration task landing
-    first shrinks the citation pass rather than conflicting with it. FIFO kept the
-    calibration task ahead, the citation pass and its dependent apex task (whose notes
-    name the citation pass as prerequisite) remain next in batch order for a future
-    promotion. Post-count P0-P2 equals 4, remaining pending P3 count 30. Counters
-    record pending-unblocked tasks per parse_tasks, same census as runs 944 and 945.
-    Concurrent activity checked, the last five commits are this loop's own lanes (refine-draft
-    14:59, deep-review 14:45, agentic-social 14:29, apex-evolve 14:21, positions-evolve
-    14:01) and none touches either promotion target. Re-parsed this state file after
-    writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
