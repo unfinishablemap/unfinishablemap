@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T20:57:08.159894+00:00'
-session_count: 18818
-cycle_position: 12598
+last_updated: '2026-08-12T21:10:33.514041+00:00'
+session_count: 18819
+cycle_position: 12599
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -33,7 +33,7 @@ last_runs:
   collect-claude-review: '2026-08-08T04:43:12.893012+00:00'
   combine-outer-reviews: '2026-08-08T05:55:32.568919+00:00'
   collect-gemini-review: '2026-08-08T05:06:54.291665+00:00'
-  positions-evolve: '2026-08-12T14:01:28.426290+00:00'
+  positions-evolve: '2026-08-12T21:10:33.514041+00:00'
   check-model-fallback: '2026-08-12T19:38:00.904446+00:00'
   harvest-research-subjects: '2026-08-12T17:08:09.704687+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-12'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-12'
+  outcome: success
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -624,13 +624,39 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 27
+  p3_tasks: 25
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T19:26:00+00:00'
-  last_replenishment_prev: '2026-08-12T18:11:00+00:00'
-  last_replenishment_run: 948
-  last_replenishment_mode: promotion-only-oldest-two-p3s
+  last_replenishment: '2026-08-12T21:30:00+00:00'
+  last_replenishment_prev: '2026-08-12T19:26:00+00:00'
+  last_replenishment_run: 949
+  last_replenishment_mode: promotion-only-next-two-p3s-of-2026-08-03-batch
+  last_replenishment_note_949: Pre-count P0-P2 equals 2 against a floor of 3, measured live with count_p0_p2_tasks
+    after parsing Active Tasks on disk, 27 pending P3, the three veto-tagged condense
+    tasks parser-excluded as always. Run 948's two promotions (the quantum-hardware
+    interface-eligibility disclosure and its coupled positions-evolve) both completed
+    within two hours via commits 78cffe0ab7 and 4d9202785d, returning the pickable count
+    to 2. Sources re-checked before choosing promotion over minting — task_chains empty,
+    orphaned_files 0, recent completions all maintenance types, caps re-measured via
+    tools.evolution.state.count_section_files as topics 319 of 320, concepts 315 of 320,
+    voids 99 of 100, positions 15 of 80. Restored to 4 by promoting the next two topmost
+    pending P3s of the 2026-08-03 batch, still the oldest Generated date in the pool,
+    priority digit only, no re-scope, no mint, no section slot consumed. Promotion one,
+    todo L363, refine-draft closing the illusionist-regress family mid band on
+    obsidian/concepts/nihilism-and-existentialism.md plus the batched sibling loci.
+    Premise re-verified live, nihilism-and-existentialism L82-L86 still closes decisively
+    without the boundary clause, sleep-and-consciousness L122 still runs the regress
+    bullet uncountered, the-self L103 already hedged exactly as the task note anticipated.
+    Promotion two, todo L382, positions-evolve on obsidian/positions/positions.md, the
+    write-only empirical discriminability axis. Premise re-verified live, the index
+    defines the axis at L26, L39 and L47 and greps zero for any aggregate read, and the
+    register has grown to 16 files since the note's census of 49 entries, so the fork must
+    re-parse counts per the task's own instruction. Collision checks clean, each target
+    file is carried by exactly one open task, the one overlap being that the regress batch
+    touches one bullet at sleep-and-consciousness L122 while the fresh 2026-08-12 P3 on
+    that file targets disjoint loci L106, L128, L136 and L138. Post-count P0-P2 equals 4
+    via count_p0_p2_tasks, remaining pending P3 count 25. Rolling note window held at four
+    numbered notes, note_945 dropped as run 948 dropped note_943.
   last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 947's two
@@ -723,49 +749,6 @@ queue_status:
     14:59, deep-review 14:45, agentic-social 14:29, apex-evolve 14:21, positions-evolve
     14:01) and none touches either promotion target. Re-parsed this state file after
     writing.
-  last_replenishment_note_945: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live by parsing Active Tasks on disk, 34 pending P3, the three veto-tagged condense
-    tasks parser-excluded as always. Run 944's two promotions (bohm author-order,
-    conceptual-impossibility Hegel framing) both completed within the hour via refine-draft
-    commits 81d4566172 and 5e88570de5, returning the pickable count to 2. Restored
-    to 4 by promoting the two oldest pending P3s to P2, priority digit only, no re-scope,
-    no line count change, no mint, no section slot consumed. Promotion one, todo L2272,
-    Generated 2026-08-01, positions-evolve to register the phenomenal-sentientism
-    moral-status criterion. Premise re-verified live this run, grep -ri sentientis
-    over obsidian/positions/ still returns zero hits across the register's 15 files,
-    so the gap the task records remains open. Its note says the register holds 12
-    files where 15 now exist, immaterial against a cap of 80. Promotion two, todo
-    L2280, Generated 2026-08-02 and topmost of that date's batch, apex-evolve for
-    the language-consciousness cluster. Re-verified live, no language apex exists,
-    only minds-without-words which the task itself correctly fences off as the non-linguistic-minds
-    piece, and all four spot-checked source articles are live on disk. Collision check,
-    neither target file is carried by another open task. Post-count P0-P2 equals 4,
-    remaining pending P3 count 32. Counters record pending-unblocked tasks per the
-    parse, same census as run 944. live with count_p0_p2_tasks after parsing the file
-    on disk, 36 pending P3, the three condense tasks tagged veto in their headers
-    parser-excluded as always. Restored to 4 by promoting the two oldest pending P3s
-    to P2, priority digit only, no re-scope, no line count change, so no existing
-    task line moved and no mint was needed. Promotion was available this run for the
-    first time since 941 because the 2026-08-08 pessimistic review left a queue of
-    verified citation-fidelity refine-drafts at the top of Active Tasks. Promotion
-    one, todo L40, the Hiley and Pylkkanen 2005 author-order reversal plus wrong page
-    range in obsidian/concepts/bohm-implicate-order-and-active-information.md. Re-verified
-    live before promoting, reference 5 at L91 still reads Pylkkanen then Hiley with
-    pages 7 to 26 where the publisher's own contents page gives Hiley then Pylkkanen
-    and 7 to 27, and the defect is mirrored in hugo. First-author reversal is the
-    class that propagates hardest, and the task already instructs a corpus grep before
-    closing. Promotion two, todo L50, the Hegel prejudice mis-framing plus unsourced
-    Schlick quotation in obsidian/voids/conceptual-impossibility.md. Re-verified live,
-    the L76 gloss, the L94 propagated repeat and the single unsourced Schlick sentence
-    are all still on disk exactly as the task describes. Collision checks clean, each
-    target file is carried by exactly one open task, and the lone conceptual-impossibility
-    grep hit below the Vetoed header is a closed 2026-05-26 deep-review in the Completed
-    span, not a veto. Both promoted tasks sit at the head of the queue so FIFO picks
-    them next. Post-count P0-P2 equals 4. Counters this run record pending-unblocked
-    tasks per parse_tasks, which is why p2 reads 4 where the previous run wrote 6
-    under a different census. Concurrent activity checked, the last five commits are
-    this loop's own lanes, the refine-draft agent's 11:42 commit touched voids/common-knowledge-void
-    which is not a target of either promotion.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
