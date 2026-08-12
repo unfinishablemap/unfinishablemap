@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T21:40:12+00:00'
+ai_modified: '2026-08-12T22:18:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 22:18 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 100 obsidian delta files read fully (two parallel readers, all files modified since the 08-08 pass) + `arguments/` (6) and `questions/` (1) surface-scanned + pattern battery across `obsidian/`, `archive/`, `hugo/content/` + Family T/U/V regression stems
+- **Errors**: 0 — eighth consecutive zero on the direct-contradiction patterns; Families T/U stay resolved, Family V stays correctly queued
+- **Warnings**: 4 families, all over-claims running TOWARD the tenets (asserting commitments more confidently than `tenets.md` licenses): **W** Tenet-2 detectability upgrades (4 loci; sharpest: `concepts/philosophy-of-science-under-dualism` rests its demarcation defence on "testable predictions" the corridor reading is constructed not to make) · **X** Tenet-5 forward-parsimony asymmetry (5 live + 1 archive; incl. a 3-locus gloss trio flattening `parsimony-case-for-interactionist-dualism`'s own hedges) · **Y** "eliminates epiphenomenalism" against ^tenet-3-standing (3 live + 7 archive; sharpest: `apex/contemplative-path` "eliminates … decisively") · **Z** stale apex index thesis (`apex/apex-articles` L216 lists epiphenomenal AI experience as open-within-framework; the article's own thesis now marks it excluded by Tenet 3)
+- **Notes**: 9 — incl. Zeno-as-the-mechanism omission cluster, `resolution-void` running the subsidiary multiplicity rationale as primary, and a coverage finding: `arguments/`+`questions/` sit outside the swept five-section tree
+- **Discovery method** (per 08-08 recommendation): treat `tenets.md` calibration paragraphs as directives — ^tenet-3-standing, the falsifiability-status paragraph, and the matrix's named "parsimony asymmetry" cell each yielded a family
+- **Output**: [[reviews/tenet-check-2026-08-12]]
+
 ---
 
 ## 2026-08-12 21:40 UTC - refine-draft (Tallis-regress decisiveness family — mid-band batch 1)
