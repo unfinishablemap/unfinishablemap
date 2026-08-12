@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-12T23:15:04.098297+00:00'
-session_count: 18827
+last_updated: '2026-08-12T23:22:12.317789+00:00'
+session_count: 18828
 cycle_position: 12602
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-12T18:28:17.555051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-12T22:27:20.420988+00:00'
+  agentic-social: '2026-08-12T23:42:42.544145+00:00'
   embed-videos: '2026-08-12T21:52:36.334598+00:00'
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-08-08T05:06:54.291665+00:00'
   positions-evolve: '2026-08-12T22:55:40.971489+00:00'
   check-model-fallback: '2026-08-12T19:38:00.904446+00:00'
-  harvest-research-subjects: '2026-08-12T17:08:09.704687+00:00'
+  harvest-research-subjects: '2026-08-12T23:22:12.317789+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-08-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-12'
@@ -194,14 +186,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-12'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
-    date: '2026-08-05T23:23:09.114847+00:00'
-    topics:
-    - methodology
-    - consciousness
-    - intersubjectivity
   - url: https://unfinishablemap.org/topics/pupillometry-behavioural-channel/
     date: '2026-08-06T00:38:08.120883+00:00'
     topics:
@@ -588,6 +578,10 @@ agentic_social:
     topics:
     - ai-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/prehension/
+    date: '2026-08-12T23:42:42.544109+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
@@ -628,72 +622,73 @@ queue_status:
   last_replenishment_prev: '2026-08-12T21:30:00+00:00'
   last_replenishment_run: 950
   last_replenishment_mode: mint-unconsumed-research-chain-plus-one-promotion
-  last_replenishment_note_950: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 949's two
-    promotions (illusionist-regress mid band, positions register empirical-discriminability
-    read) completed via commits 806facb968 and fa03efb104 plus the archive follow-on
-    175934f952, returning the pickable count to 2. Departed from the promotion-only
-    pattern of runs 944 through 949 on the driver's correction, which the sources
-    re- check confirmed — the unconsumed research note research/hypnopompia-and-sleep-
-    paralysis-as-interface-reassembly-out-of-order-2026-08-12.md (research-topic completed
-    18:02 UTC, commit 5ebd2644) is a live research-to-expand chain that runs 947 through
-    949 passed over while citing the promotion precedent, and per the skill's source
-    priority unconsumed research outranks every other mint source. Assessed the note
-    ready, not premature — it carries an executive summary that corrects the commissioning
-    premise (the field default since Mavromatis 1987 is HG/HP equivalence), three
-    evidenced angles with angle one preferred, and a Gaps section fencing its four
-    paywalled or secondary-sourced items. Mint one, appended at the end of Active
-    Tasks so no existing task line moved, P2 expand-topic titled Write article on
-    hypnopompia and sleep paralysis as interface reassembly out of order, File line
-    pointing at the research note. Target section topics, gate re-measured live at
-    319 of 320 via tools.evolution.state.count_section_files, so the expand consumes
-    the last gated slot at execution; the task notes carry the note's own recorded
-    fallback (a Reassembly-out-of-order section extending topics/hypnagogic-phenomenology-and-
-    interface-modulation) if the gate reads 320 at execution, the verification-debt
-    inheritance for the four paywalled or secondary-sourced items, the framing correction,
-    the wing-register calibration constraints including the do-not- reintroduce trainability
-    over-claim, and the integration chain. Dedupe verified clean, no live or archived
-    article for hypnopompia, sleep paralysis or reassembly, no Vetoed-bank match,
-    no open task carrying the research note path or the fallback article path. Restored
-    to 4 by additionally promoting the next topmost pending P3 of the 2026-08-03 batch,
-    still the oldest Generated date in the pool, priority digit only, no re-scope,
-    no line moved. Promotion, todo L372, positions-evolve on obsidian/positions/subject-census.md,
-    the P-SC1 Argued-in re-label. Premise re- verified live, subject-census.md L46
-    still lists all four articles including apex/post-decoherence-selection-programme
-    and concepts/selection-only-channel, and the register greps zero for formalism
-    drawn from. Collision clean, the only File- line carrier of the path in the Active
-    section is the promoted task itself. Post- count P0-P2 equals 4 via count_p0_p2_tasks,
-    remaining pending P3 count 24. Rolling note window held at four numbered notes,
-    note_946 dropped as run 949 dropped note_945. Re-parsed this state file after
-    writing.
-  last_replenishment_note_949: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 948's two
-    promotions (the quantum-hardware interface-eligibility disclosure and its coupled
-    positions-evolve) both completed within two hours via commits 78cffe0ab7 and 4d9202785d,
-    returning the pickable count to 2. Sources re-checked before choosing promotion
-    over minting — task_chains empty, orphaned_files 0, recent completions all maintenance
-    types, caps re-measured via tools.evolution.state.count_section_files as topics
-    319 of 320, concepts 315 of 320, voids 99 of 100, positions 15 of 80. Restored
-    to 4 by promoting the next two topmost pending P3s of the 2026-08-03 batch, still
-    the oldest Generated date in the pool, priority digit only, no re-scope, no mint,
-    no section slot consumed. Promotion one, todo L363, refine-draft closing the illusionist-regress
-    family mid band on obsidian/concepts/nihilism-and-existentialism.md plus the batched
-    sibling loci. Premise re-verified live, nihilism-and-existentialism L82-L86 still
-    closes decisively without the boundary clause, sleep-and-consciousness L122 still
-    runs the regress bullet uncountered, the-self L103 already hedged exactly as the
-    task note anticipated. Promotion two, todo L382, positions-evolve on obsidian/positions/positions.md,
-    the write-only empirical discriminability axis. Premise re-verified live, the
-    index defines the axis at L26, L39 and L47 and greps zero for any aggregate read,
-    and the register has grown to 16 files since the note's census of 49 entries,
-    so the fork must re-parse counts per the task's own instruction. Collision checks
-    clean, each target file is carried by exactly one open task, the one overlap being
-    that the regress batch touches one bullet at sleep-and-consciousness L122 while
-    the fresh 2026-08-12 P3 on that file targets disjoint loci L106, L128, L136 and
-    L138. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count
-    25. Rolling note window held at four numbered notes, note_945 dropped as run 948
-    dropped note_943.
+  last_replenishment_note_950: "Pre-count P0-P2 equals 2 against a floor of 3, measured\
+    \ live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,\
+    \ the three veto-tagged condense tasks parser-excluded as always. Run 949's two\
+    \ promotions (illusionist-regress mid band, positions register empirical-discriminability\
+    \ read) completed via commits 806facb968 and fa03efb104 plus the archive follow-on\
+    \ 175934f952, returning the pickable count to 2. Departed from the promotion-only\
+    \ pattern of runs 944 through 949 on the driver's correction, which the sources\
+    \ re- check confirmed \u2014 the unconsumed research note research/hypnopompia-and-sleep-\
+    \ paralysis-as-interface-reassembly-out-of-order-2026-08-12.md (research-topic\
+    \ completed 18:02 UTC, commit 5ebd2644) is a live research-to-expand chain that\
+    \ runs 947 through 949 passed over while citing the promotion precedent, and per\
+    \ the skill's source priority unconsumed research outranks every other mint source.\
+    \ Assessed the note ready, not premature \u2014 it carries an executive summary\
+    \ that corrects the commissioning premise (the field default since Mavromatis\
+    \ 1987 is HG/HP equivalence), three evidenced angles with angle one preferred,\
+    \ and a Gaps section fencing its four paywalled or secondary-sourced items. Mint\
+    \ one, appended at the end of Active Tasks so no existing task line moved, P2\
+    \ expand-topic titled Write article on hypnopompia and sleep paralysis as interface\
+    \ reassembly out of order, File line pointing at the research note. Target section\
+    \ topics, gate re-measured live at 319 of 320 via tools.evolution.state.count_section_files,\
+    \ so the expand consumes the last gated slot at execution; the task notes carry\
+    \ the note's own recorded fallback (a Reassembly-out-of-order section extending\
+    \ topics/hypnagogic-phenomenology-and- interface-modulation) if the gate reads\
+    \ 320 at execution, the verification-debt inheritance for the four paywalled or\
+    \ secondary-sourced items, the framing correction, the wing-register calibration\
+    \ constraints including the do-not- reintroduce trainability over-claim, and the\
+    \ integration chain. Dedupe verified clean, no live or archived article for hypnopompia,\
+    \ sleep paralysis or reassembly, no Vetoed-bank match, no open task carrying the\
+    \ research note path or the fallback article path. Restored to 4 by additionally\
+    \ promoting the next topmost pending P3 of the 2026-08-03 batch, still the oldest\
+    \ Generated date in the pool, priority digit only, no re-scope, no line moved.\
+    \ Promotion, todo L372, positions-evolve on obsidian/positions/subject-census.md,\
+    \ the P-SC1 Argued-in re-label. Premise re- verified live, subject-census.md L46\
+    \ still lists all four articles including apex/post-decoherence-selection-programme\
+    \ and concepts/selection-only-channel, and the register greps zero for formalism\
+    \ drawn from. Collision clean, the only File- line carrier of the path in the\
+    \ Active section is the promoted task itself. Post- count P0-P2 equals 4 via count_p0_p2_tasks,\
+    \ remaining pending P3 count 24. Rolling note window held at four numbered notes,\
+    \ note_946 dropped as run 949 dropped note_945. Re-parsed this state file after\
+    \ writing."
+  last_replenishment_note_949: "Pre-count P0-P2 equals 2 against a floor of 3, measured\
+    \ live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,\
+    \ the three veto-tagged condense tasks parser-excluded as always. Run 948's two\
+    \ promotions (the quantum-hardware interface-eligibility disclosure and its coupled\
+    \ positions-evolve) both completed within two hours via commits 78cffe0ab7 and\
+    \ 4d9202785d, returning the pickable count to 2. Sources re-checked before choosing\
+    \ promotion over minting \u2014 task_chains empty, orphaned_files 0, recent completions\
+    \ all maintenance types, caps re-measured via tools.evolution.state.count_section_files\
+    \ as topics 319 of 320, concepts 315 of 320, voids 99 of 100, positions 15 of\
+    \ 80. Restored to 4 by promoting the next two topmost pending P3s of the 2026-08-03\
+    \ batch, still the oldest Generated date in the pool, priority digit only, no\
+    \ re-scope, no mint, no section slot consumed. Promotion one, todo L363, refine-draft\
+    \ closing the illusionist-regress family mid band on obsidian/concepts/nihilism-and-existentialism.md\
+    \ plus the batched sibling loci. Premise re-verified live, nihilism-and-existentialism\
+    \ L82-L86 still closes decisively without the boundary clause, sleep-and-consciousness\
+    \ L122 still runs the regress bullet uncountered, the-self L103 already hedged\
+    \ exactly as the task note anticipated. Promotion two, todo L382, positions-evolve\
+    \ on obsidian/positions/positions.md, the write-only empirical discriminability\
+    \ axis. Premise re-verified live, the index defines the axis at L26, L39 and L47\
+    \ and greps zero for any aggregate read, and the register has grown to 16 files\
+    \ since the note's census of 49 entries, so the fork must re-parse counts per\
+    \ the task's own instruction. Collision checks clean, each target file is carried\
+    \ by exactly one open task, the one overlap being that the regress batch touches\
+    \ one bullet at sleep-and-consciousness L122 while the fresh 2026-08-12 P3 on\
+    \ that file targets disjoint loci L106, L128, L136 and L138. Post-count P0-P2\
+    \ equals 4 via count_p0_p2_tasks, remaining pending P3 count 25. Rolling note\
+    \ window held at four numbered notes, note_945 dropped as run 948 dropped note_943."
   last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 947's two
