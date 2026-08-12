@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-17 13:12:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-12 16:24:02+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into The Aesthetic Dimension of Consciousness
 archived: true
 archived_date: 2026-02-18 13:47:00+00:00
@@ -21,7 +21,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-02-15
-date: &id001 2026-02-17
+date: &id001 2026-08-12
 description: Aesthetic experience provides underappreciated philosophical evidence
   for dualism. Beauty's irreducibility, normative pull, and resistance to functional
   analysis strengthen the case that consciousness exceeds the physical.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-17 13:12:00+00:00
-lastmod: 2026-02-17 13:12:00+00:00
+lastmod: 2026-08-12 16:24:02+00:00
 modified: *id001
 original_path: /topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/
 related_articles:
@@ -137,7 +137,7 @@ None of these conditions is currently met, and several face significant conceptu
 
 Aesthetic experience strengthens the Map's case across multiple tenets.
 
-**[Dualism](/tenets/#dualism)**: The aesthetic knowledge argument, aesthetic conceivability, and the normative gap each provide independent lines of evidence that aesthetic phenomenology exceeds physical description. These are not mere repetitions of standard qualia arguments—they introduce additional features (gestalt dependence, intrinsic normativity, temporal complexity) that compound the difficulty for physicalist accounts.
+**[Dualism](/tenets/#dualism)**: The aesthetic knowledge argument, aesthetic conceivability, and the normative gap show that aesthetic phenomenology exceeds physical description as two lines of evidence, not three. The knowledge argument and conceivability are one anti-physicalist intuition—that structural and functional facts do not entail phenomenal facts—in two presentations, the same consolidation the Map applies to their standard forms in [the case for interactionist dualism](/concepts/interactionist-dualism/); the normative gap rests on a genuinely distinct evaluative premise, since the authority of *mattering* would remain unexplained even if the standard explanatory gap were closed (as argued above). These are not mere repetitions of standard qualia arguments—they introduce additional features (gestalt dependence, intrinsic normativity, temporal complexity) that compound the difficulty for physicalist accounts.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The causal role of aesthetic experience in artistic creation and life decisions provides evidence that phenomenal properties influence physical outcomes. The systematic relationship between what artists experience and what they create is difficult to explain if aesthetic qualia are epiphenomenal.
 

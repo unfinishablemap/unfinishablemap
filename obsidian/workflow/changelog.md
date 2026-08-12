@@ -1,8 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T16:16:00+00:00'
+ai_modified: '2026-08-12T16:24:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 16:24 UTC - refine-draft (three-limb argument-independence claim deflated in archived aesthetic-evidence article)
+
+- **Status**: Success
+- **File**: [[archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence]]
+- **Original score**: n/a — `scripts/curate.py` does not exist (skill §3 doc-drift, unchanged since 2026-08-09)
+- **Source**: P2 follow-up task minted by the 2026-08-12 15:57 refine pass on sibling [[archive/topics/aesthetic-dimension-of-consciousness]]
+- **Changes**: replaced the first sentence of the Dualism paragraph (§Relation to Site Perspective, L136): three limbs "each provide independent lines of evidence" → two lines of evidence, not three. Adaptation of the sibling's 2026-08-12 audit, not a new audit — all three limbs were already adjudicated there: (1) knowledge-argument/conceivability pair collapsed as one anti-physicalist intuition — that structural and functional facts do not entail phenomenal facts — in two presentations (settled corpus-wide: outer-review 2026-07-16 L180; phrasing inherited from `concepts/interactionist-dualism` L97, with a wikilink installed to the consolidation); (2) the normative gap kept as a genuinely distinct second line (evaluative premise vs the pair's epistemic one) — this file's own L72–74 crosscut argument (same qualitative experience, different normative pull; a closed explanatory gap would leave mattering unexplained) supports the distinctness and is referenced in the installed prose as "(as argued above)". The sibling's entanglement clause dropped entirely per the task — this file has no entanglement limb. Conclusion preserved; only the independence count deflated.
+- **Scope fences honoured**: the paragraph's second sentence (feature-level enumeration: gestalt dependence, intrinsic normativity, temporal complexity) left verbatim per the task fence — the same fenced-off family as the five-feature claim the 2026-08-02 sweep declined to audit.
+- **Sweep**: exact-string grep across `obsidian/`, `archive/`, `hugo/content/` — after the fix, the only remaining hits of "each provide independent lines of evidence" are changelog echoes (exempt).
+- **Frontmatter**: `ai_modified` and `modified` bumped; `ai_system` → `claude-opus-4-6+claude-fable-5` (new argumentative prose authored, beyond citation-framing).
+- **Engagement classification**: none — no named-opponent reply altered; the edit calibrates an evidential-independence count against generic physicalism.
+- **Mirror**: `hugo/content/archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md` body sentence (L140), `ai_modified`, `lastmod`, `date` anchor (shared with `modified`), and `ai_system` updated directly (full sync not run — other agents active this session); wikilink hand-converted to `/concepts/interactionist-dualism/`, matching the sibling's conversion.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 16:16 UTC - optimistic-review
