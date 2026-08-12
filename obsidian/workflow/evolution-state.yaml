@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T12:40:45.958546+00:00'
-session_count: 18785
-cycle_position: 12580
+last_updated: '2026-08-12T12:58:54.388191+00:00'
+session_count: 18786
+cycle_position: 12581
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-08T17:14:28.502338+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
-  refine-draft: '2026-08-12T12:40:45.958546+00:00'
+  refine-draft: '2026-08-12T12:58:54.388191+00:00'
   research-topic: '2026-08-07T20:55:47.198083+00:00'
   replenish-queue: '2026-08-12T11:57:39.681963+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-08-09'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-08-09'
@@ -188,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-12'
   outcome: success
 - task: refine-draft
@@ -591,14 +591,32 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 34
+  p3_tasks: 32
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T11:56:00+00:00'
-  last_replenishment_prev: '2026-08-09T03:45:00+00:00'
-  last_replenishment_run: 944
-  last_replenishment_mode: promotion-only-two-citation-fidelity-p3s
-  last_replenishment_note_944: Pre-count P0-P2 equals 2 against a floor of 3, measured
+  last_replenishment: '2026-08-12T13:10:00+00:00'
+  last_replenishment_prev: '2026-08-12T11:56:00+00:00'
+  last_replenishment_run: 945
+  last_replenishment_mode: promotion-only-oldest-two-p3s
+  last_replenishment_note_945: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live by parsing Active Tasks on disk, 34 pending P3, the three veto-tagged condense
+    tasks parser-excluded as always. Run 944's two promotions (bohm author-order,
+    conceptual-impossibility Hegel framing) both completed within the hour via refine-draft
+    commits 81d4566172 and 5e88570de5, returning the pickable count to 2. Restored
+    to 4 by promoting the two oldest pending P3s to P2, priority digit only, no re-scope,
+    no line count change, no mint, no section slot consumed. Promotion one, todo L2272,
+    Generated 2026-08-01, positions-evolve to register the phenomenal-sentientism
+    moral-status criterion. Premise re-verified live this run, grep -ri sentientis
+    over obsidian/positions/ still returns zero hits across the register's 15 files,
+    so the gap the task records remains open. Its note says the register holds 12
+    files where 15 now exist, immaterial against a cap of 80. Promotion two, todo
+    L2280, Generated 2026-08-02 and topmost of that date's batch, apex-evolve for
+    the language-consciousness cluster. Re-verified live, no language apex exists,
+    only minds-without-words which the task itself correctly fences off as the
+    non-linguistic-minds piece, and all four spot-checked source articles are live
+    on disk. Collision check, neither target file is carried by another open task.
+    Post-count P0-P2 equals 4, remaining pending P3 count 32. Counters record
+    pending-unblocked tasks per the parse, same census as run 944.
     live with count_p0_p2_tasks after parsing the file on disk, 36 pending P3, the
     three condense tasks tagged veto in their headers parser-excluded as always. Restored
     to 4 by promoting the two oldest pending P3s to P2, priority digit only, no re-scope,
