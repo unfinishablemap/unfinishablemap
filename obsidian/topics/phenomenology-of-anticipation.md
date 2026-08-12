@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-06-04T17:15:53+00:00
+ai_modified: 2026-08-12T21:52:03.447983+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,9 +40,20 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-14T18:49:28+00:00
+embedded_videos:
+  - id: Y7ALATbUtew
+    url: https://www.youtube-nocookie.com/embed/Y7ALATbUtew
+    embedded: 2026-08-12T21:52:03.447983+00:00
+    source: notebooklm/0103-01-phenomenology-of-anticipation
 ---
 
 Every moment of conscious experience leans forward. When you hear the opening notes of a familiar melody, something in your experience already reaches toward the next note—not as a thought about what will come, but as a felt directedness woven into the present itself. Husserl called this *protention*: the forward-directed structure of temporal consciousness that makes each moment pregnant with what it anticipates. Unlike [[prospective-memory|episodic future thinking]], which deliberately constructs scenarios, protention operates pre-reflectively, shaping the texture of present experience before reflection begins. The Unfinishable Map argues that protention reveals something essential about the relationship between consciousness and time: minds don't merely register the present and then project forward—they inhabit a present already structured by anticipation.
+
+<details class="yt-embed" data-video-id="Y7ALATbUtew">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Y7ALATbUtew">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Husserl's Tripartite Structure
 

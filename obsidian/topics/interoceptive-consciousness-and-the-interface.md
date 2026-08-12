@@ -4,7 +4,7 @@ description: "Interoception completes the Map's modality survey inward and break
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-07-15T23:33:41+00:00
+ai_modified: 2026-08-12T21:52:03.447983+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -26,11 +26,22 @@ ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-20
 last_curated:
 last_deep_review: 2026-07-19T15:12:08+00:00
+embedded_videos:
+  - id: ZwsyF-Kh9C0
+    url: https://www.youtube-nocookie.com/embed/ZwsyF-Kh9C0
+    embedded: 2026-08-12T21:52:03.447983+00:00
+    source: notebooklm/0101-01-interoceptive-consciousness-and-the-interface
 ---
 
 Interoception—the body's sense of its own physiological condition: cardiac, respiratory, gastric, thermal, and nociceptive signal, alongside the visceral chemistry that never reaches awareness at all—is the inward completion of The Unfinishable Map's survey of perceptual modalities. The Map has worked the same capability division across five exteroceptive and proprioceptive senses: the brain extracts and integrates candidate content without consciousness, and conscious experience supplies phenomenal unity, ownership, and flexible deployment. Interoception inherits the division but **breaks the headline asymmetry** that the [[cross-modal-capability-division|cross-modal synthesis]] established—and it breaks it on both terms. On the brain side, where exteroception shows no shared substrate across V1, the cochlea, and the olfactory receptor code, interoception *converges* onto a single visceral-integration cortex in the insula and anterior cingulate. On the mind side, where exteroception delivers detached perceptual objects, interoception delivers valenced, owned bodily feeling—the felt ground of selfhood rather than content presented to a subject. So the cross-modal asymmetry is an *exteroceptive* regularity, not a universal one. That is the article's reason to exist, and it sharpens the apex rather than merely extending it.
 
 This double inversion is, on the Map's own discipline, equally a physicalist story. The convergent insular substrate is exactly what a physicalist predicts if the body needs one homeostatic integrator, and the strongest rival framing—interoceptive inference—predicts the affective, self-constituting character of visceral experience without any non-physical interface. The structural finding is therefore held as consonant with the interface reading, not probative of it, in the same register the apex holds the supramodal signature it surveys.
+
+<details class="yt-embed" data-video-id="ZwsyF-Kh9C0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ZwsyF-Kh9C0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Interoception Is, and How It Divides
 

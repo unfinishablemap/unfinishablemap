@@ -11,7 +11,7 @@ concepts:
 - '[[access-consciousness]]'
 - '[[global-workspace-theory]]'
 created: 2026-06-22
-date: &id001 2026-06-22
+date: &id001 2026-08-12
 description: 'The Map''s positions on consciousness in artificial systems, with per-claim
   dependency tracking: current digital AI on the low-probability side of the substrate
   analysis (inherits the quantum-interface register), quantum-state inheritance as
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: 2026-06-22
 lastmod: 2026-08-12 21:08:11+00:00
-modified: 2026-08-12
+modified: *id001
 related_articles:
 - '[[positions]]'
 - '[[tenets]]'

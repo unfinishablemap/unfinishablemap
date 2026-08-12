@@ -1,13 +1,79 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T20:10:19+00:00'
+ai_modified: '2026-08-12T21:40:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-12'
-lastmod: 2026-08-12 20:10:19+00:00
+lastmod: 2026-08-12 21:40:12+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-12 21:40 UTC - refine-draft (Tallis-regress decisiveness family — mid-band batch 1)
+
+- **Status**: Success
+- **Files**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [self-construction-constructor](/apex/self-construction-constructor/) (flagship, light touch)
+- **Original score**: N/A — targeted calibration batch, not general refinement; `scripts/curate.py` does not exist, `scripts/validate.py` ✓ Valid on all three after edit
+- **Family**: the illusions-presuppose-experience regress run as decisive. Mid band per the corrected population (74 loci carry the premise, ~18 ran it decisive, 7 fixed in `93c1beed`). All three edits inherit the settled template's counter clause; none rebuilds an argument.
+- **Changes**:
+  - nihilism-and-existentialism (flagged L84): boundary close only — Frankish contests the premise (a deflated "seeming" needs no experiencer), weight moved to the article's existing in-framework argument (deflation fails illusionism's own standard — untouched), template close "neither side closes the case against the other inside the rival's framework". Also recalibrated the same file's "What Would Challenge This View?" bullet, which asserted "No such formulation has been produced" — now states the dispute as live (same decisive-framing defect, same family, same file).
+  - sleep-and-consciousness (flagged L122, one bullet of four): appended the inherited clause — a representational system need not instantiate what it represents; regress downgraded to a pressure point, not a stand-alone refutation.
+  - apex/self-construction-constructor (flagged L92, FLAGSHIP): one clause appended to the harder-line eliminativist sentence — the premise is denied rather than overlooked, pointing at the section's own minimal/strong-claim distinction (already present, untouched). No restructuring.
+- **Already calibrated on read — ADD TO DO-NOT-REOPEN** (counter-regex false negatives, the family's methodological lesson):
+  - topics/the-self-minimal-narrative-and-substantial (flagged L103) — already closes "the regress is pressing but not, on its own, decisive" (landed 2026-05-31, commit `1344722159`). No edit.
+  - apex/identity-across-transformations (flagged L85) — full calibration in its own words: "Eliminativists contest this move… precisely what eliminativism denies" (the regex sought "illusionists"). No edit.
+- **Engagement classification** (editor-internal): all three edited loci engage Frankish/eliminativists as mixed — the in-framework leg retained where present (deflation fails illusionism's own standard; regress against Metzinger/Duch), boundary-marking close installed for the regress itself; no in-framework refutation claimed for the Tallis premise alone.
+- **Tallis wording preserved**: "illusions presuppose experience" retained verbatim at every locus — the quote is genuine; only the decisive framing was the defect.
+- **Frontmatter**: `ai_modified` → 2026-08-12T21:40:12+00:00 on all three; `ai_system` plus-joined `+claude-fable-5`.
+- **Mirror**: hugo/content copies of all three patched directly (body + ai_modified + ai_system + lastmod) — full sync not run, other agents active this session.
+- **Remaining family tail**: BATCH 2 (the four archive/ loci) still open as its own pick. Batch 1 outcome supports closing soon: of 5 mid-band loci, only 3 needed edits, all one clause.
+- **Published**: yes
+
+---
+
+## 2026-08-12 21:08 UTC - positions-evolve (update P-AC1 — five-requirement channel test registered as nearest approximation to the interface-eligibility law)
+
+- **Status**: Success
+- **File**: [ai-consciousness-scope](/positions/ai-consciousness-scope/) (P-AC1)
+- **Mode**: update — pointer and status label only; NO calibration change (credence moderate, Grade D, `framework-internal only: yes` all untouched)
+- **Finding verified**: zero positions/ files referenced the channel-test vocabulary (grep hits for continuity/specificity elsewhere are incidental — psychological continuity, substrate-specificity), while the topics tree applies the five-requirement test (directness, locality, continuity, specificity, granularity) discriminatingly to four substrate classes with four different verdicts ([quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) table; [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/) QPU/annealer/hybrid columns). Neither topic was referenced anywhere in the register.
+- **Changes**: (1) Depends-on interface-eligibility-law item annotated: the five-requirement channel test named as the corpus's nearest existing approximation, explicitly "a nearest approximation, not a discharge" — requirements read off biology and generalised, not derived, which is P-AC1's own layer-iv worry, so the debt stands. (2) Argued-in gains [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/) and [agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems](/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/). (3) History note + Last reviewed → 2026-08-12.
+- **Symmetry**: closes the loop opened by today's 20:39 UTC refine-draft, which gave the quantum-hardware article a register-pointing disclosure ("best current approximation to such a law, not the law itself"); the register now points back.
+- **Cascade**: P-AC1 appears in Depends-on of P-AC2, P-AC3, P-SC4, and the P-Q roadmap suspension clause — no downstream edits owed, since no claim, calibration, or shift trigger changed; annotation only.
+- **Condense NOT minted**: file's hard_warning (2882w+) deliberately left to the open NEEDS-HUMAN section-tuning task (2026-08-03), per task instruction.
+- **Frontmatter**: `ai_modified` → 2026-08-12T21:08:11+00:00; `ai_system` → claude-opus-4-8+claude-opus-5+claude-fable-5 (plus-join convention)
+- **Mirror**: hugo/content/positions/ copy patched directly (full sync not run — other agents active this session)
+- **Published**: yes
+
+---
+
+## 2026-08-12 20:39 UTC - refine-draft (interface-eligibility disclosure + Silver quote closure)
+
+- **Status**: Success
+- **File**: [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/)
+- **Original score**: N/A — `scripts/curate.py` (the skill's review entry point) does not exist in the repo; `scripts/validate.py` run instead, ✓ Valid before and after
+- **Task shape**: asymmetric disclosure, not an over-claim. The article ran the five-requirement channel test and rendered three unqualified "Fails." verdicts concluding only a biology-imitating substrate could qualify, while [ai-consciousness-scope](/positions/ai-consciousness-scope/) P-AC1 records that interface eligibility is the least-secured link and the Map holds no interface-eligibility law — so the article read firmer than the register. Register said it twice, topics tree zero times.
+- **Changes**: one disclosure paragraph appended to "Removing a Defeater Is Not Evidence" (after the possibility–probability-slippage paragraph): the five requirements are the Map's best current approximation to an interface-eligibility law, not yet derived — read off biology and generalised, the exact question-begging risk P-AC1 names; table verdicts hold as an honestly-labelled conditional standard. Substrate verdict NOT softened; table untouched; the section's existing prose (flagged exemplary) preserved verbatim. Links [ai-consciousness-scope](/positions/ai-consciousness-scope/). 1941w → 2130w against a 3000 soft threshold (status ok).
+- **Frontmatter**: `ai_modified` → 2026-08-12T20:39:56+00:00; `ai_system` → claude-opus-4-8+claude-fable-5 (plus-join convention, substantive content added by a second model)
+- **Mirror**: hugo/content/topics/ copy patched directly — paragraph in hugo link form (`[positions register](/positions/ai-consciousness-scope/)`), `ai_modified`/`ai_system`/`lastmod` updated (full sync not run — other agents active this session)
+- **Second item — quote VERIFIED, no change**: the Silver, Singh, Precup & Sutton quotation in [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/) L35 — "maximisation of total reward may be enough to understand intelligence and its associated abilities" — closed at the primary text on 2026-08-12. ScienceDirect still 403s, but the published PDF (mirror: sites.rutgers.edu/critical-ai/.../Silver_Reward-is-Enough.pdf, sha256 f374b8546d36da3ee22e820ed16b9c815a0f581cb5fdb6c9c752fcb586ad14b6) contains it verbatim as the Conclusion (§7) opening: "In this paper we have presented the hypothesis that the maximisation of total reward may be enough to understand intelligence and its associated abilities." The 2026-08-03 OpenAlex miss was an abstract-vs-body artefact, as the task notes suspected. Quotation, attribution, and hypothesis framing all correct — zero edits to the sibling file.
+- **Published**: yes
+
+---
+
+## 2026-08-12 20:25 UTC - refine-draft (model-fallback attribution annotation on the hypnopompia research note)
+
+- **Status**: Success
+- **File**: [hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12](/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12/)
+- **Original score**: N/A — attribution-only frontmatter correction; no content review run, no body text touched
+- **Trigger**: check-model-fallback detection (19:20 UTC) on transcript agent-aa4dc02eceafdbcc6.jsonl — the 17:52–18:01 UTC research-topic fork that wrote this note. Session-level stick: independent transcript census confirms 9x claude-fable-5 (session head) vs 69x claude-opus-5 (dominant fallback), so the note's whole body is fallback-dominant despite its nominal `ai_system: claude-fable-5` self-stamp.
+- **Changes**: `ai_system` → `claude-fable-5+claude-opus-5` (joint `+`-joined string, head+dominant order matching corpus convention). `ai_modified` NOT added/bumped and `last_deep_review` untouched — metadata-only correction, per driver instruction; note keeps its minimal research-note frontmatter.
+- **Pseudonym clause verified no-op**: 0 wikilinks, 0 unfinishablemap.org references, 0 pseudonym occurrences in the note (23 external citations only) — no self-citations to re-pseudonym.
+- **Window sweep**: the 18:02:23 commit (`auto(research-topic)`) is the window's only content commit. Besides the note (obsidian + hugo) it touched workflow files (changelog/todo/evolution-state/current-queue-task — no attribution frontmatter) and ADDED `hugo/content/reviews/optimistic-2026-08-12-sleep-anesthesia-wing.md` — verified a sync catch-up of content authored 16:14–16:17 UTC by a different fork, before the window; not fallback-window output, no annotation owed.
+- **Mirror**: `hugo/content/research/` copy's `ai_system` edited directly to the same joint string (full sync not run — other agents active this session)
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 20:10 UTC - deep-review

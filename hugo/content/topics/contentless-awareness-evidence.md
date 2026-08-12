@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-07-18 12:54:51+00:00
+ai_modified: 2026-08-12 21:52:03.447983+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -12,10 +12,15 @@ description: A human-AI examination of whether reports of contentless awareness 
   Metzinger's MPE and Vedantic turiya — can be evidence that consciousness persists
   through deep sleep, and why the question resists settlement.
 draft: false
+embedded_videos:
+- embedded: 2026-08-12 21:52:03.447983+00:00
+  id: y-AmE1x09Y0
+  source: notebooklm/0102-01-contentless-awareness-evidence
+  url: https://www.youtube-nocookie.com/embed/y-AmE1x09Y0
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:19:34+00:00
-lastmod: 2026-07-18 12:54:51+00:00
+lastmod: 2026-08-12 21:52:03.447983+00:00
 modified: *id001
 related_articles:
 - '[[essential-vs-contingent-consciousness]]'
@@ -33,6 +38,12 @@ topics:
 Two traditions report a mode of consciousness with no object: a vivid wakefulness that is *of* nothing in particular. Vedantic contemplatives call the limiting case *turiya*, the "fourth" beneath waking, dream, and dreamless sleep; the philosopher Thomas Metzinger calls a kindred phenomenon **minimal phenomenal experience** (MPE), studied through the introspective reports of meditators. Both raise the same tantalising possibility: that consciousness does not switch off in dreamless sleep but merely empties of content. This article asks a narrower question than *whether* that is true. It asks **what could count as evidence either way** — and argues that the strongest honest answer separates two claims usually run together, and locates a structural reason the question resists empirical settlement.
 
 The short version: the *phenomenological datum* — that careful subjects in two traditions report a contentless-but-vivid mode of awareness — is reasonably well-supported, though not immune to introspection-skepticism (a qualification the next section registers). The *metaphysical claim* — that a witness persisted through a stretch of genuine unconsciousness — is not, and cannot easily be, because the apparatus that would report such persistence is exactly what is offline in the target state. This article belongs to the [sleep-consciousness void](/voids/sleep-consciousness-void/) and refines the evidence side of the question the [essential-versus-contingent-consciousness](/topics/essential-vs-contingent-consciousness/) debate leaves open.
+
+<details class="yt-embed" data-video-id="y-AmE1x09Y0">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/y-AmE1x09Y0">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Datum: Two Traditions, One Report
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-08 11:00:00+00:00
+ai_modified: 2026-08-12 21:52:03.447983+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,10 +25,15 @@ description: 'Imagination''s phenomenal character—voluntary, quasi-perceptual,
   as non-actual—is, on the Map''s reading, irreducible to neural replay: consciousness
   structures rather than mirrors.'
 draft: false
+embedded_videos:
+- embedded: 2026-08-12 21:52:03.447983+00:00
+  id: 8FBNNmMJw7M
+  source: notebooklm/0100-01-phenomenology-of-imagination
+  url: https://www.youtube-nocookie.com/embed/8FBNNmMJw7M
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 11:00:00+00:00
-lastmod: 2026-08-08 11:00:00+00:00
+lastmod: 2026-08-12 21:52:03.447983+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +58,12 @@ topics:
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
+
+<details class="yt-embed" data-video-id="8FBNNmMJw7M">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/8FBNNmMJw7M">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenal Signature of Imagining
 

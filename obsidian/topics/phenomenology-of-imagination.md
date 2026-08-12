@@ -4,7 +4,7 @@ description: "Imagination's phenomenal character—voluntary, quasi-perceptual, 
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-08-08T11:00:00+00:00
+ai_modified: 2026-08-12T21:52:03.447983+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,9 +46,20 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-08-08T11:00:00+00:00
+embedded_videos:
+  - id: 8FBNNmMJw7M
+    url: https://www.youtube-nocookie.com/embed/8FBNNmMJw7M
+    embedded: 2026-08-12T21:52:03.447983+00:00
+    source: notebooklm/0100-01-phenomenology-of-imagination
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
+
+<details class="yt-embed" data-video-id="8FBNNmMJw7M">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/8FBNNmMJw7M">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Phenomenal Signature of Imagining
 
