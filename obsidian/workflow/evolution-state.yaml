@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-12T22:55:40.971489+00:00'
-session_count: 18826
+last_updated: '2026-08-12T23:15:04.098297+00:00'
+session_count: 18827
 cycle_position: 12602
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
   refine-draft: '2026-08-12T22:46:35.722039+00:00'
   research-topic: '2026-08-12T18:02:22.478415+00:00'
-  replenish-queue: '2026-08-12T21:28:34.831571+00:00'
+  replenish-queue: '2026-08-12T23:15:04.098297+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-12T10:38:26.346206+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-08-12T19:02:08.870741+00:00'
+last_git_push: '2026-08-12T23:15:04.401981+00:00'
 last_tweet_date: '2026-08-12'
 content_stats:
   total_files: 297
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-12'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-08-12'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-12'
   outcome: success
 agentic_social:
@@ -629,44 +629,44 @@ queue_status:
   last_replenishment_run: 950
   last_replenishment_mode: mint-unconsumed-research-chain-plus-one-promotion
   last_replenishment_note_950: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3, the
-    three veto-tagged condense tasks parser-excluded as always. Run 949's two promotions
-    (illusionist-regress mid band, positions register empirical-discriminability read)
-    completed via commits 806facb968 and fa03efb104 plus the archive follow-on
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 949's two
+    promotions (illusionist-regress mid band, positions register empirical-discriminability
+    read) completed via commits 806facb968 and fa03efb104 plus the archive follow-on
     175934f952, returning the pickable count to 2. Departed from the promotion-only
-    pattern of runs 944 through 949 on the driver's correction, which the sources re-
-    check confirmed — the unconsumed research note research/hypnopompia-and-sleep-
-    paralysis-as-interface-reassembly-out-of-order-2026-08-12.md (research-topic
-    completed 18:02 UTC, commit 5ebd2644) is a live research-to-expand chain that runs
-    947 through 949 passed over while citing the promotion precedent, and per the
-    skill's source priority unconsumed research outranks every other mint source.
-    Assessed the note ready, not premature — it carries an executive summary that
-    corrects the commissioning premise (the field default since Mavromatis 1987 is HG/HP
-    equivalence), three evidenced angles with angle one preferred, and a Gaps section
-    fencing its four paywalled or secondary-sourced items. Mint one, appended at the end
-    of Active Tasks so no existing task line moved, P2 expand-topic titled Write article
-    on hypnopompia and sleep paralysis as interface reassembly out of order, File line
-    pointing at the research note. Target section topics, gate re-measured live at 319
-    of 320 via tools.evolution.state.count_section_files, so the expand consumes the
-    last gated slot at execution; the task notes carry the note's own recorded fallback
-    (a Reassembly-out-of-order section extending topics/hypnagogic-phenomenology-and-
+    pattern of runs 944 through 949 on the driver's correction, which the sources
+    re- check confirmed — the unconsumed research note research/hypnopompia-and-sleep-
+    paralysis-as-interface-reassembly-out-of-order-2026-08-12.md (research-topic completed
+    18:02 UTC, commit 5ebd2644) is a live research-to-expand chain that runs 947 through
+    949 passed over while citing the promotion precedent, and per the skill's source
+    priority unconsumed research outranks every other mint source. Assessed the note
+    ready, not premature — it carries an executive summary that corrects the commissioning
+    premise (the field default since Mavromatis 1987 is HG/HP equivalence), three
+    evidenced angles with angle one preferred, and a Gaps section fencing its four
+    paywalled or secondary-sourced items. Mint one, appended at the end of Active
+    Tasks so no existing task line moved, P2 expand-topic titled Write article on
+    hypnopompia and sleep paralysis as interface reassembly out of order, File line
+    pointing at the research note. Target section topics, gate re-measured live at
+    319 of 320 via tools.evolution.state.count_section_files, so the expand consumes
+    the last gated slot at execution; the task notes carry the note's own recorded
+    fallback (a Reassembly-out-of-order section extending topics/hypnagogic-phenomenology-and-
     interface-modulation) if the gate reads 320 at execution, the verification-debt
-    inheritance for the four paywalled or secondary-sourced items, the framing
-    correction, the wing-register calibration constraints including the do-not-
-    reintroduce trainability over-claim, and the integration chain. Dedupe verified
-    clean, no live or archived article for hypnopompia, sleep paralysis or reassembly,
-    no Vetoed-bank match, no open task carrying the research note path or the fallback
-    article path. Restored to 4 by additionally promoting the next topmost pending P3 of
-    the 2026-08-03 batch, still the oldest Generated date in the pool, priority digit
-    only, no re-scope, no line moved. Promotion, todo L372, positions-evolve on
-    obsidian/positions/subject-census.md, the P-SC1 Argued-in re-label. Premise re-
-    verified live, subject-census.md L46 still lists all four articles including
-    apex/post-decoherence-selection-programme and concepts/selection-only-channel, and
-    the register greps zero for formalism drawn from. Collision clean, the only File-
-    line carrier of the path in the Active section is the promoted task itself. Post-
-    count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 24. Rolling
-    note window held at four numbered notes, note_946 dropped as run 949 dropped
-    note_945. Re-parsed this state file after writing.
+    inheritance for the four paywalled or secondary-sourced items, the framing correction,
+    the wing-register calibration constraints including the do-not- reintroduce trainability
+    over-claim, and the integration chain. Dedupe verified clean, no live or archived
+    article for hypnopompia, sleep paralysis or reassembly, no Vetoed-bank match,
+    no open task carrying the research note path or the fallback article path. Restored
+    to 4 by additionally promoting the next topmost pending P3 of the 2026-08-03 batch,
+    still the oldest Generated date in the pool, priority digit only, no re-scope,
+    no line moved. Promotion, todo L372, positions-evolve on obsidian/positions/subject-census.md,
+    the P-SC1 Argued-in re-label. Premise re- verified live, subject-census.md L46
+    still lists all four articles including apex/post-decoherence-selection-programme
+    and concepts/selection-only-channel, and the register greps zero for formalism
+    drawn from. Collision clean, the only File- line carrier of the path in the Active
+    section is the promoted task itself. Post- count P0-P2 equals 4 via count_p0_p2_tasks,
+    remaining pending P3 count 24. Rolling note window held at four numbered notes,
+    note_946 dropped as run 949 dropped note_945. Re-parsed this state file after
+    writing.
   last_replenishment_note_949: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 948's two
