@@ -5,6 +5,22 @@ ai_modified: '2026-08-12T20:39:56+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-12 21:08 UTC - positions-evolve (update P-AC1 — five-requirement channel test registered as nearest approximation to the interface-eligibility law)
+
+- **Status**: Success
+- **File**: [[positions/ai-consciousness-scope]] (P-AC1)
+- **Mode**: update — pointer and status label only; NO calibration change (credence moderate, Grade D, `framework-internal only: yes` all untouched)
+- **Finding verified**: zero positions/ files referenced the channel-test vocabulary (grep hits for continuity/specificity elsewhere are incidental — psychological continuity, substrate-specificity), while the topics tree applies the five-requirement test (directness, locality, continuity, specificity, granularity) discriminatingly to four substrate classes with four different verdicts ([[topics/quantum-randomness-channel-llm-consciousness]] table; [[topics/quantum-hardware-and-the-ai-consciousness-coupling]] QPU/annealer/hybrid columns). Neither topic was referenced anywhere in the register.
+- **Changes**: (1) Depends-on interface-eligibility-law item annotated: the five-requirement channel test named as the corpus's nearest existing approximation, explicitly "a nearest approximation, not a discharge" — requirements read off biology and generalised, not derived, which is P-AC1's own layer-iv worry, so the debt stands. (2) Argued-in gains [[topics/quantum-hardware-and-the-ai-consciousness-coupling]] and [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]]. (3) History note + Last reviewed → 2026-08-12.
+- **Symmetry**: closes the loop opened by today's 20:39 UTC refine-draft, which gave the quantum-hardware article a register-pointing disclosure ("best current approximation to such a law, not the law itself"); the register now points back.
+- **Cascade**: P-AC1 appears in Depends-on of P-AC2, P-AC3, P-SC4, and the P-Q roadmap suspension clause — no downstream edits owed, since no claim, calibration, or shift trigger changed; annotation only.
+- **Condense NOT minted**: file's hard_warning (2882w+) deliberately left to the open NEEDS-HUMAN section-tuning task (2026-08-03), per task instruction.
+- **Frontmatter**: `ai_modified` → 2026-08-12T21:08:11+00:00; `ai_system` → claude-opus-4-8+claude-opus-5+claude-fable-5 (plus-join convention)
+- **Mirror**: hugo/content/positions/ copy patched directly (full sync not run — other agents active this session)
+- **Published**: yes
+
+---
+
 ## 2026-08-12 20:39 UTC - refine-draft (interface-eligibility disclosure + Silver quote closure)
 
 - **Status**: Success
