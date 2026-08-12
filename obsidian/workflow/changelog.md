@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T16:59:30+00:00'
+ai_modified: '2026-08-12T17:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 17:24 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Word count**: 2259 → 2271 (+12)
+- **Critical issues addressed**: 1 (compatibility-vs-support slippage: body sentence placed the configurable-interface reading inside the scope of "demonstrate"; recalibrated to "suggesting a configurable interface—though the altered-state data alone does not discriminate this reading from production accounts", matching the calibrated stance of [[concepts/altered-states-of-consciousness]] and [[topics/psychedelics-and-the-filter-model]]. Residual fallout of the psychedelics article's evidential retraction — the 2026-08-08 refine-draft fixed the Further Reading gloss but missed this body locus; grep confirms no other locus remains)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; article converged — citation web-verify skipped with cause: References block byte-identical to the 2026-06-24 per-cite publisher-of-record ledger; superlative sweep empty)
+- **Mirror**: targeted single-file sync through the real converter pipeline (build_content_index + convert_file, wikilink validation passing; full sync not run — other agents active this session); fix grep-verified in hugo/content/topics/
+- **Output**: [[reviews/deep-review-2026-08-12-ethics-of-cognitive-enhancement-under-dualism]]
+
 ---
 
 ## 2026-08-12 16:59 UTC - refine-draft (calibration outlier of the argument-from-reason cluster: induction article inherits the reflexive-methodology datum/claim discipline)
