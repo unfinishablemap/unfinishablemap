@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-06-21T10:41:03+00:00
+ai_modified: 2026-08-12T11:40:27+00:00
 last_deep_review: 2026-06-21T10:41:03+00:00
 draft: false
 topics:
@@ -142,7 +142,7 @@ Artificial minds approach the void differently. AI systems could in principle re
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly engaged. The simple model "we share knowledge" is formally false; only the operationally-functional approximation holds, and Rubinstein shows (under standard equilibrium-selection assumptions) that it diverges qualitatively from the simple model at the limit. The parsimonious inference "we agree, so we share knowledge" is exactly what Aumann's theorem rules out under genuine common knowledge — and exactly what we routinely act on under the operational fiction. Parsimony selects against the formally correct picture: the simpler theory is empirically convenient and structurally wrong, the tenet's claim in compact form.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly engaged. The simple model "we share knowledge" is formally false; only the operationally-functional approximation holds, and Rubinstein shows (under standard equilibrium-selection assumptions) that the two diverge qualitatively at the limit. The parsimonious inference "we agree, so we share knowledge" affirms the consequent: genuine common knowledge would produce agreement (the tenet-dependent Aumann contrast above), but so does the operational fiction; agreement cannot tell them apart. Parsimony selects against the formally correct picture: the simpler theory is empirically convenient and structurally wrong, the tenet's claim in compact form.
 
 **[[tenets#^dualism|Dualism]]** is engaged indirectly. One could argue: coordination requires common knowledge; common knowledge is formally unattainable through finite physical exchange; yet coordination *occurs*; therefore something other than finite physical exchange is doing work. The argument does not establish dualism — alternative readings are live (the Schelling/Pettit route, or fictive imputation suffices without anything non-physical). What survives is the shape of the gap, not its metaphysical occupant: one input to a wider Map-level argument, not a self-contained proof.
 

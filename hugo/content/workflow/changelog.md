@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-09T02:28:00+00:00'
+ai_modified: '2026-08-12T11:40:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-09'
-lastmod: 2026-08-09 02:28:00+00:00
+date: '2026-08-12'
+lastmod: 2026-08-12 11:40:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-12 11:40 UTC - refine-draft (common-knowledge-void L145 claimed Aumann "rules out" the converse of his own theorem, on the one surface every tenet check reads — while the body had already demoted Aumann to a tenet-dependent contrast)
+
+- **Status**: Complete
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Type**: targeted one-sentence re-frame (logic + calibration; `ai_system` held, `last_deep_review` untouched — this is a refine, not a review)
+- **Word count**: 2998 after (was 2999 against the voids hard ceiling of 3000 — net −1, measured with `tools.curate.length.analyze_length` before and after)
+- **Published**: yes (synced both trees; defect was live at `hugo/content/voids/common-knowledge-void.md` L149)
+
+**THE DEFECT (both halves fixed in one sentence).** (1) *Inverted status*: L145 made Aumann the operative theorem on the tenet-alignment surface, unhedged, while the article's own Formal Anchoring section (L76) had demoted it to *"a contrast rather than a third converging anchor"* and L78 had made the contrast conditional on [No Many Worlds](/tenets/#no-many-worlds). (2) *Wrong proposition*: Aumann's theorem is (common prior AND common knowledge of posteriors) → agreement; what it forbids is disagreement while common knowledge holds. The inference L145 named — *"we agree, so we share knowledge"* — is the converse, on which the theorem is silent.
+
+**THE FIX RE-FRAMES, PER THE TASK — the underlying point survives as the strictly better claim.** New wording: the parsimonious inference *"affirms the consequent: genuine common knowledge would produce agreement (the tenet-dependent Aumann contrast above), but so does the operational fiction; agreement cannot tell them apart."* Agreement is uninformative between the two hypotheses — a better fit for the Occam tenet than "ruled out", and now consistent with the body: "contrast" carries the L76 demotion, "tenet-dependent" carries the L78 conditionality, "above" points at Formal Anchoring where both are argued. The Rubinstein hedge *"(under standard equilibrium-selection assumptions)"* was preserved verbatim. The −1 net was paid inside the same paragraph: *"it diverges qualitatively from the simple model at the limit"* → *"the two diverge qualitatively at the limit"* (same referents, named in the preceding clause).
+
+**SCOPE HELD AT TWO LOCI.** Post-fix sweep: `rules out under genuine common knowledge` returns 0 hits in both article trees; remaining hits are the task's own text in `workflow/todo.md` (exempt). `obsidian/research/voids-common-knowledge-void-2026-04-29.md` left untouched per the task — it mentions Aumann but never contained the defective sentence.
 
 ## 2026-08-09 02:28 UTC - refine-draft (the 08-07 Baum zero-lag fix landed in `obsidian/` and missed the archive tree — three archive pages went on asserting the impossibility premise flat on live URLs)
 
