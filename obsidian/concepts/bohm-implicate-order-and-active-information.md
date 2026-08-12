@@ -4,7 +4,7 @@ description: "David Bohm's pilot-wave ontology, active information, and implicat
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-13T08:22:04+00:00
+ai_modified: 2026-08-12T12:38:06+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -56,7 +56,7 @@ Bohm extended the implicate order to the mind–matter relation, most directly i
 
 Paavo Pylkkänen developed this program furthest in *Mind, Matter and the Implicate Order* (Springer, 2007), applying active information, soma-significance, and the implicate order to mental causation, the hard problem, and time-consciousness. On Pylkkänen's reading, active information is the *bridge* between mind and matter: because it already carries something like meaning or semantic content in a primitive form, it is a candidate proto-mental or proto-experiential property, making the mind–matter transition less abrupt than dualism suggests.
 
-Pylkkänen and Hiley pressed the interaction question directly in "Can Mind Affect Matter Via Active Information?" (*Mind and Matter*, 3(2), 2005). Their argument is that mental processes, treated as non-classical physical processes, could act on classically describable neural processes without violating energy conservation — precisely because active information directs energy rather than injecting it. This is structurally close to what the Map wants, but its framing is designed to *avoid* dualist interaction by keeping mind and matter within a single informational ontology.
+Hiley and Pylkkänen pressed the interaction question directly in "Can Mind Affect Matter Via Active Information?" (*Mind and Matter*, 3(2), 2005). Their argument is that mental processes, treated as non-classical physical processes, could act on classically describable neural processes without violating energy conservation — precisely because active information directs energy rather than injecting it. This is structurally close to what the Map wants, but its framing is designed to *avoid* dualist interaction by keeping mind and matter within a single informational ontology.
 
 ## Relation to Site Perspective
 
@@ -88,7 +88,7 @@ Neither seam is free, and the Map should not pretend otherwise: each buys compat
 2. Bohm, D. (1980). *Wholeness and the Implicate Order*. Routledge.
 3. Bohm, D. & Hiley, B. J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
 4. Bohm, D. (1990). A New Theory of the Relationship of Mind and Matter. *Philosophical Psychology*, 3(2–3), 271–286.
-5. Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? *Mind and Matter*, 3(2), 7–26.
+5. Hiley, B. J. & Pylkkänen, P. (2005). Can Mind Affect Matter Via Active Information? *Mind and Matter*, 3(2), 7–27.
 6. Pylkkänen, P. T. I. (2007). *Mind, Matter and the Implicate Order*. Springer (The Frontiers Collection).
 7. Goldstein, S. Bohmian Mechanics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-bohm/
 8. Landsman, K. (2022). Bohmian Mechanics is Not Deterministic. *Foundations of Physics*, 52, 73. arXiv:2202.12279.

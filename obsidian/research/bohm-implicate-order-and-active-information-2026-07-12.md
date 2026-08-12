@@ -5,6 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-12
+ai_modified: 2026-08-12T12:38:06+00:00
 ---
 
 # Research: Bohm's Implicate Order and Active Information
@@ -58,8 +59,8 @@ David Bohm developed three interlocking bodies of thought that the Map's ~31 Boh
   - Active information proposed as the bridge between mind and matter; it is read as carrying semantic content in a primitive/proto form, making it a candidate proto-mental or proto-experiential property.
 - **Tenet alignment**: Directly relevant but framework-rival: Pylkkänen's route is broadly non-reductive-but-monist (mind and matter as aspects/orders of one ground), NOT substance dualism (Tenet 1). Borrow the mechanism, decline the monism.
 
-### Can Mind Affect Matter Via Active Information? (Pylkkänen & Hiley 2005)
-- **Type**: Journal paper. Pylkkänen, P. & Hiley, B. J., "Can Mind Affect Matter Via Active Information?", Mind and Matter, vol. 3, no. 2 (2005). Pages approximately 7-27 (some indexes list 7-26 / 8-27 — VERIFY exact pagination at Ingenta/imprint-academic before citing a precise range). Author order is Pylkkänen then Hiley on the article (Hiley-Pylkkänen order also appears in some catalogs).
+### Can Mind Affect Matter Via Active Information? (Hiley & Pylkkänen 2005)
+- **Type**: Journal paper. Hiley, B. J. & Pylkkänen, P., "Can Mind Affect Matter Via Active Information?", Mind and Matter, vol. 3, no. 2 (2005), pp. 7-27. VERIFIED 2026-08-12 at the publisher's own contents page (mindmatter.de/journal/issues/mmissue3_2.html): author order is Hiley then Pylkkänen, pages 7-27. (Some aggregators — including Pylkkänen's Helsinki institutional portal — list Pylkkänen first and/or 7-26; the publisher's contents page is authoritative.)
 - **Key points**:
   - Argues mental processes (as non-classical physical processes) could act on classically describable neural processes without violating energy conservation, because active information directs energy rather than supplying it.
   - Directly addresses the mental-causation / interaction problem via the form-not-force character of active information.
@@ -121,7 +122,7 @@ David Bohm developed three interlocking bodies of thought that the Map's ~31 Boh
 | 1980 | Wholeness and the Implicate Order (Routledge) | Implicate/explicate order, holomovement |
 | 1990 | Bohm, "A New Theory of the Relationship of Mind and Matter" (Philosophical Psychology) | Soma-significance; mind-matter as one implicate ground |
 | 1993 | Bohm & Hiley, The Undivided Universe (Routledge) | Systematic ontological interpretation; active information developed |
-| 2005 | Pylkkänen & Hiley, "Can Mind Affect Matter Via Active Information?" (Mind and Matter 3(2)) | Mental causation via active information, conservation-friendly |
+| 2005 | Hiley & Pylkkänen, "Can Mind Affect Matter Via Active Information?" (Mind and Matter 3(2)) | Mental causation via active information, conservation-friendly |
 | 2007 | Pylkkänen, Mind, Matter and the Implicate Order (Springer) | Full philosophy-of-mind application |
 
 ## The Map's Angle (Potential Article Angles)
@@ -149,7 +150,7 @@ Do NOT reproduce these as verbatim quotations in an article without confirming t
 
 ## Gaps in Research
 
-- Exact pagination of Pylkkänen & Hiley (Mind and Matter 2005) not pinned to a single authoritative source this run (7-26 vs 7-27 vs 8-27). Verify at Ingenta / Imprint Academic.
+- ~~Exact pagination of the Mind and Matter 2005 paper not pinned to a single authoritative source this run (7-26 vs 7-27 vs 8-27).~~ RESOLVED 2026-08-12: publisher's contents page confirms Hiley & Pylkkänen, pp. 7-27.
 - Bohm 1990 Philosophical Psychology volume/issue/pages not independently confirmed this run (commonly 3(2-3):271-286) — verify at publisher.
 - Did not verify any candidate direct quote at the primary text (publisher access blocked for Springer/PhilPapers this run). All quotes remain UNVERIFIED.
 - Hiley's individual active-information papers (e.g., his single-author expositions) not individually pinned; only the joint works were verified.
@@ -160,7 +161,7 @@ Do NOT reproduce these as verbatim quotations in an article without confirming t
 - Bohm, D. (1980). Wholeness and the Implicate Order. Routledge. (Publication facts verified via Wikipedia/publisher listings.)
 - Bohm, D. & Hiley, B. J. (1993). The Undivided Universe: An Ontological Interpretation of Quantum Theory. Routledge. ISBN 9780415065887. https://philpapers.org/rec/BOHTUU-3
 - Bohm, D. (1990). A New Theory of the Relationship of Mind and Matter. Philosophical Psychology, 3 (pagination TO VERIFY). https://philpapers.org/rec/BOHANT
-- Pylkkänen, P. & Hiley, B. J. (2005). Can Mind Affect Matter Via Active Information? Mind and Matter, 3(2), ~7-27 (pagination TO VERIFY). https://www.ingentaconnect.com/content/imp/mm/2005/00000003/00000002/art00002
+- Hiley, B. J. & Pylkkänen, P. (2005). Can Mind Affect Matter Via Active Information? Mind and Matter, 3(2), 7-27. VERIFIED 2026-08-12 at publisher contents page: https://www.mindmatter.de/journal/issues/mmissue3_2.html
 - Pylkkänen, P. T. I. (2007). Mind, Matter and the Implicate Order. Springer (The Frontiers Collection). DOI 10.1007/978-3-540-48058-7; print ISBN 9783540238911.
 - Goldstein, S. Bohmian Mechanics. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/qm-bohm/
 - "Bohmian mechanics is not deterministic." Foundations of Physics (2022). arXiv:2202.12279. https://arxiv.org/abs/2202.12279

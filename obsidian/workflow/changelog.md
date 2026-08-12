@@ -1,11 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T12:13:13+00:00'
+ai_modified: '2026-08-12T12:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-12 12:13 UTC - deep-review
+## 2026-08-12 12:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/bohm-implicate-order-and-active-information]]
+- **Changes**: Fixed Reference 5 (Hiley/Pylkkänen 2005, *Mind and Matter*): author order reversed (Pylkkänen-first → Hiley-first) and page range wrong (7–26 → 7–27). Re-verified this run at the publisher's own contents page (mindmatter.de/journal/issues/mmissue3_2.html): "pp. 7-27 — Basil J. Hiley and Paavo Pylkkänen". Also corrected the body-prose author order ("Pylkkänen and Hiley pressed" → "Hiley and Pylkkänen pressed"). Corpus grep found the same reversal + unresolved pagination hedge in the source research note ([[research/bohm-implicate-order-and-active-information-2026-07-12]]) — fixed all four loci there (source entry, timeline table, gaps list, citations list) so the defect cannot re-propagate. Synced both trees.
+- **Note**: The 2026-07-13 deep-review had "confirmed" the reversed order via Pylkkänen's Helsinki institutional portal — an aggregator ratification. The publisher's contents page is authoritative; first-author reversal is invisible to existence-only checks. Reviews/todo hits left as historical records. `ai_system` left at claude-opus-4-8 (minor citation fix, no re-authoring).
+- **Published**: yes
 
 - **Status**: Success
 - **File**: [[concepts/entropic-brain-hypothesis]]
