@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-08-02 02:21:38+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-12 22:47:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into The Phenomenology of Intellectual Life
 archived: true
 archived_date: 2026-04-03 20:38:00+00:00
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-16 17:02:00+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-08-12 22:47:00+00:00
 modified: *id001
 original_path: /topics/phenomenology-of-understanding-and-meaning/
 related_articles:
@@ -170,7 +170,7 @@ Evidence from [semantic-memory](/concepts/semantic-memory/) reinforces the case.
 
 [Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion — "quasi-phenomenal properties" that the brain misrepresents as genuinely phenomenal.
 
-This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience.
+This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience. Keith Frankish contests the premise — a representational system need not instantiate what it represents, so registering a quasi-seeming needs no phenomenal registrar — and the regress on its own marks the disagreement rather than settling it; neither side closes the case against the other inside the rival's framework.
 
 Careful [introspection](/concepts/introspection/) intensifies rather than dissolves the phenomenology. Advanced contemplative practitioners report that sustained attention reveals *more* phenomenal structure, not less. Illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-30 15:14:45+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12 22:47:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Phenomenology of Choice and Volition
 archived: true
 archived_date: 2026-03-24 08:06:00+00:00
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-04 23:17:00+00:00
-lastmod: 2026-07-30 15:14:45+00:00
+lastmod: 2026-08-12 22:47:00+00:00
 modified: *id001
 original_path: /concepts/phenomenology-of-choice/
 related_articles:
@@ -164,7 +164,7 @@ The felt openness of alternatives thus tracks ontological openness. The phenomen
 
 If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis's regress: illusions presuppose experience.
 
-Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. But quasi-phenomenal properties face the same regress. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
+Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. The dualist will press that quasi-phenomenal properties face the same regress; Frankish contests the premise—a representational system need not instantiate what it represents—so the regress marks the disagreement rather than settling it, and neither side closes the case against the other inside the rival's framework. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
 
 The [luck objection](/concepts/luck-objection/) compounds this: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like achievement while lucky outcomes don't?
 

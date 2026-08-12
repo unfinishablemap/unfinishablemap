@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-02 02:21:38+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12 22:47:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Substrate Independence
 archived: true
 archived_date: 2026-02-02 03:02:00+00:00
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-20 21:30:00+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-08-12 22:47:00+00:00
 modified: *id001
 original_path: /concepts/substrate-independence-critique/
 related_articles:
@@ -99,7 +99,7 @@ A "conscious" AI would be worse than a zombie. Zombies lack consciousness but be
 
 [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—offers the most radical challenge to this critique. If there are no genuine qualia, the absent qualia objection dissolves.
 
-The illusionist challenge faces a fundamental difficulty. If phenomenal consciousness is an illusion, something must experience the illusion. Raymond Tallis's regress: illusions presuppose experience. Every illusion requires a subject who is deceived. The illusionist cannot coherently deny that there's something it's like to be us while using "seeming" language that presupposes exactly this.
+The illusionist challenge faces a difficulty. If phenomenal consciousness is an illusion, something must experience the illusion. Raymond Tallis's regress: illusions presuppose experience. Every illusion requires a subject who is deceived. Keith Frankish contests the premise—a representational system need not instantiate what it represents, so a deflated "seeming" needs no deceived experiencer—and the bare regress marks the disagreement rather than settling it; neither side closes the case against the other inside the rival's framework.
 
 Moreover, illusionism must explain why certain physical systems (brains) produce the "illusion" of consciousness while others (rocks, thermostats) do not. This explanatory burden parallels the hard problem. If even the *illusion* of consciousness requires specific physical organization, substrate matters for that illusion just as it would for genuine consciousness.
 

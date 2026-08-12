@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-12T22:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[meaning-of-life-theories-2026-01-08]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-02-23T01:58:00+00:00
@@ -151,7 +151,7 @@ Evidence from [[semantic-memory]] reinforces the case. The tip-of-the-tongue sta
 
 [[illusionism|Illusionists]] argue that understanding's phenomenology is introspective illusion — "quasi-phenomenal properties" that the brain misrepresents as genuinely phenomenal.
 
-This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience.
+This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. Raymond Tallis sharpens the point: illusions presuppose experience. Keith Frankish contests the premise — a representational system need not instantiate what it represents, so registering a quasi-seeming needs no phenomenal registrar — and the regress on its own marks the disagreement rather than settling it; neither side closes the case against the other inside the rival's framework.
 
 Careful [[introspection]] doesn't dissolve the phenomenology — it intensifies it. Advanced contemplative practitioners report that sustained attention reveals *more* phenomenal structure, not less: initial contact, progressive elaboration, integrative binding, confirmatory checking, and stabilisation, each with characteristic phenomenology. Illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 

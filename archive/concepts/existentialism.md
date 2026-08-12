@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-07-31T03:04:00+00:00
+ai_modified: 2026-08-12T22:47:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[ownership-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-30
 last_curated: null
 last_deep_review: 2026-03-27T19:03:00+00:00
@@ -60,7 +60,7 @@ Sartre's analysis reveals why this deflation fails. The pour-soi is not a repres
 
 Raymond Tallis has made this point against contemporary illusionists: illusions presuppose experience. For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
-Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
+Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear. Frankish contests exactly this premise—a deflated "seeming", on his account, needs no experiencer—so the regress on its own marks the disagreement rather than settling it: the weight rests on the internal argument above, that something must still *undergo* the functional state, and neither side closes the case against the other inside the rival's framework.
 
 ## Heidegger's Dasein: Being-in-the-World
 

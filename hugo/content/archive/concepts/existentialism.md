@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-07-31 03:04:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-12 22:47:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Nihilism and Existentialism
 archived: true
 archived_date: 2026-04-11 13:02:00+00:00
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-27 19:03:00+00:00
-lastmod: 2026-07-31 03:04:00+00:00
+lastmod: 2026-08-12 22:47:00+00:00
 modified: *id001
 original_path: /concepts/existentialism/
 related_articles:
@@ -64,7 +64,7 @@ Sartre's analysis reveals why this deflation fails. The pour-soi is not a repres
 
 Raymond Tallis has made this point against contemporary illusionists: illusions presuppose experience. For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
-Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
+Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear. Frankish contests exactly this premise—a deflated "seeming", on his account, needs no experiencer—so the regress on its own marks the disagreement rather than settling it: the weight rests on the internal argument above, that something must still *undergo* the functional state, and neither side closes the case against the other inside the rival's framework.
 
 ## Heidegger's Dasein: Being-in-the-World
 

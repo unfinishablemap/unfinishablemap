@@ -4,7 +4,7 @@ description: "Positive arguments for dualism span metaphysics, epistemology, and
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-07-31T09:50:20+00:00
+ai_modified: 2026-08-12T22:47:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-16T05:40:00+00:00
@@ -41,7 +41,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-02-06T14:07:00+00:00
@@ -183,13 +183,13 @@ The strongest materialist response to these arguments isn't to explain conscious
 
 Illusionism trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. But this trade is not favorable for three reasons:
 
-**The Regress Objection**: Raymond Tallis argues that illusions presuppose experience. To be under an illusion, something must experience the illusion. There must be *something it's like* to mistakenly believe consciousness is phenomenal. Illusionism invokes experience to deny experience—incoherence at its foundation.
+**The Regress Objection**: Raymond Tallis argues that illusions presuppose experience. To be under an illusion, something must experience the illusion. There must be *something it's like* to mistakenly believe consciousness is phenomenal. Illusionism invokes experience to deny experience—incoherence at its foundation, if that premise holds. Frankish contests it—a representational system need not instantiate what it represents, so a deflated "seeming" needs no phenomenal experiencer—and the bare regress marks the disagreement rather than settling it; neither side closes the case against the other inside the rival's framework.
 
 **Self-Undermining**: If [[introspection]] is so radically unreliable that it invents phenomenal consciousness wholesale, why trust it for the philosophical reasoning that leads to illusionism? The illusionist arrives at their position through introspection and reasoning about their own experience. The position cannot be rationally held by someone who distrusts the very faculties that produced it.
 
 **The Moorean Response**: We know we're conscious with more certainty than we know any philosophical theory is correct. The existence of phenomenal pain is more obvious than any premises used to deny it. Denying the obvious to preserve materialism is methodological desperation.
 
-The [[illusionism]] article details these objections further. Illusionism doesn't weaken the dualist arguments—it changes the subject from "what explains consciousness?" to "why do we believe we're conscious?" The second question is no easier, and answering it still requires accounting for *seeming*, which is itself phenomenal.
+The [[illusionism]] article details these objections further. Illusionism doesn't weaken the dualist arguments—it changes the subject from "what explains consciousness?" to "why do we believe we're conscious?" The second question is no easier, and answering it still requires accounting for *seeming*—itself phenomenal on the dualist's view, a deflated functional state on the illusionist's.
 
 ### The Phenomenal Concept Strategy
 

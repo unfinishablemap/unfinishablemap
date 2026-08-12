@@ -1,8 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T22:18:12+00:00'
+ai_modified: '2026-08-12T22:45:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-12 22:45 UTC - refine-draft (Tallis-regress decisiveness family — archive/ batch 2, FAMILY CLOSED)
+
+- **Status**: Success
+- **Files** (all archive/, all with hugo/content/archive mirrors patched directly): [[concepts/substrate-independence-critique]], [[concepts/existentialism]], [[concepts/arguments-for-dualism]], [[concepts/phenomenology-of-choice]], [[topics/phenomenology-of-understanding]], [[topics/phenomenology-of-understanding-and-meaning]] (twin paragraphs — fixed identically per the fix-both-or-neither constraint)
+- **Original score**: N/A — targeted calibration batch; read-before-edit adjudicated each of the 14 carrier files the fresh premise scan found
+- **Family**: the illusions-presuppose-experience regress run as decisive, archive/ tail. Six loci edited, each a one-sentence swap or appended clause inheriting the settled template (reference: concepts/haecceity L157, topics/personal-identity L148): Frankish contests the premise — a representational system need not instantiate what it represents — regress marks the disagreement rather than settling it; close "neither side closes the case against the other inside the rival's framework". Each article's independent argument retained untouched (substrate-parallel burden; Self-Undermining + Moorean; zombie-judgement contrast; introspection-intensification + competence coupling).
+- **Changes**:
+  - substrate-independence-critique (flagged L98): "fundamental difficulty" → "difficulty"; the "cannot coherently deny" decisive sentence replaced with the Frankish counter + close; the "Moreover" substrate-parallel paragraph (the independent argument) untouched.
+  - existentialism (flagged L59, archived predecessor of nihilism-and-existentialism): inherited the live successor's 2026-08-12 boundary close for symmetry, appended to the closing Sartre paragraph, weight pointed at the article's own undergo-the-functional-state argument.
+  - arguments-for-dualism (flagged L186): "incoherence at its foundation" conditionalised ("if that premise holds") + counter + close; sibling at L192 ("*seeming*, which is itself phenomenal") recalibrated to state both sides' readings.
+  - phenomenology-of-choice (flagged L162-164): "But quasi-phenomenal properties face the same regress." → dualist-presses / Frankish-contests + close; zombie sentence and luck-objection paragraph untouched.
+  - phenomenology-of-understanding + phenomenology-of-understanding-and-meaning (flagged L154 / L169): identical appended counter + close after the Tallis sentence, spaced em-dashes matching the paragraphs' house style.
+- **Already calibrated on read — DO-NOT-REOPEN** (adjudicated against the task's own candidate list):
+  - concepts/arguments-against-materialism (flagged L157 as a strongest candidate) — already carries "That argument assumes the seeming is itself phenomenal, which illusionism denies, so it marks a framework boundary rather than an in-framework refutation". No edit.
+  - The three counter-carrying files verified fine on read: attention-schema-theory-critique L51 (engages Graziano's no-concluder reply and Dennett's heterophenomenology with in-framework dilemmas, not the bare regress), minimal-consciousness L167 (full boundary marker), brain-specialness L170 (Map-attributed + "even if one disagrees" conditional, weight on the criteria's independence).
+  - Borderline four confirmed benign on read: the-case-for-dualism L125 (Tallis-attributed, burden framing), quantum-biology L194 (hedged, weight on empirical independence), downward-causation L159-163 ("The regress argument is not decisive — Frankish's functional-seeming response is a serious position"). specious-present L108 is the only residue worth naming: "The latter faces infinite regress: representation must represent *to* something" is in-voice, but it is one horn of a labelled response among three independent ones and the task pre-ranked it benign; left unedited.
+- **Engagement classification** (editor-internal): all six edited loci engage Frankish/illusionism as mixed — boundary-marking installed for the regress itself, each article's in-framework or independent leg retained; no in-framework refutation claimed for the Tallis premise alone.
+- **Tallis wording preserved**: "illusions presuppose experience" retained verbatim at every locus (tallis-misrepresentation guard); only decisive framing edited.
+- **Frontmatter**: `ai_modified` → 2026-08-12T22:47:00+00:00 on all six; `ai_system` plus-joined `+claude-fable-5`; mirrors got body + ai_modified + ai_system + lastmod, full sync not run (other agents active).
+- **FAMILY CLOSED**: no remaining decisive loci in the 14 archive carriers; batch 1 (mid-band) closed 21:40, top band earlier. No further batches needed.
+- **Published**: yes
+
 ---
 
 ## 2026-08-12 22:18 UTC - check-tenets
