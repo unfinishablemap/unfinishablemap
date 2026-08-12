@@ -2577,26 +2577,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **NOT the same defect as the 2026-08-08 predicate fix** (`first-person access to a domain`, fixed at `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05` L105 and its two descendants). That family is about the **modality of an access predicate**; this is **arena-as-system**. Both cross the territory/mechanism boundary, hence the cross-reference, but the fixes differ.
   **MIRROR**: edit obsidian, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a label correction is not authoring. Length-neutral.
 
-### P2: the 2026-08-07 Baum family-one fix landed in obsidian and MISSED the archive tree — three published pages still assert the refuted premise flat
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: archive/concepts/neural-binding-mechanisms.md
-- **Notes**: Found 2026-08-08 by the family-two (sub-millisecond precision) pass on the same cluster, and **driver-verified line by line** — the fork reported three loci and I confirmed the count and the wording independently.
-  **THE DEFECT.** Three `archive/` pages assert, **flat and in the Map's voice with no attribution and no rebuttal**: *"Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality."* That premise is Baum's (2024 PhilArchive preprint) and it is **refuted by the peer-reviewed classical literature** — dynamical relaying through a shared relay hub (**Vicente et al. 2008**) reproduces zero-lag synchrony across long conduction delays with no quantum resource. `Vicente` appears **zero** times in all three files.
-  **THE THREE LOCI** (exact string `cannot achieve zero-lag synchrony`, verified untruncated):
-  **`archive/concepts/neural-binding-mechanisms.md` L77** · **`archive/concepts/phenomenal-binding-and-holism.md` L86** · **`archive/topics/quantum-binding-and-phenomenal-unity.md` L108**
-  **archive pages serve full bodies on live URLs**, so these are published assertions, not history.
-  **✅ THE FIX WORDING ALREADY EXISTS — copy it, do not invent.** Two loci were corrected on 08-07 and are the models:
-  **`obsidian/concepts/binding-problem.md` L107** — *"**Baum argues that** classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. **This premise is contested rather than established**: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*…"*
-  **`archive/topics/why-phenomenal-unity-resists-explanation.md` L70** — *"**Baum argues that** classical signalling cannot achieve zero-lag synchrony across these distances — **a premise the classical literature contests rather than concedes**."*
-  **THE DISCRIMINATOR (same as family two): attributed-to-Baum-and-contested is SOUND; asserted-flat is the defect.** Read the premise clause specifically.
-  **✅ DO NOT TOUCH — verified sound this session:** `obsidian/concepts/binding-problem.md` L107 and `archive/topics/why-phenomenal-unity-resists-explanation.md` L70 (both already attributed and rebutted); `obsidian/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument.md`, the cluster's calibration anchor.
-  **✅ POPULATION IS CLOSED AT THREE.** A fixed-string grep for `cannot achieve zero-lag synchrony` across `obsidian/` and `archive/` returns exactly five hits; two are the corrected models above. Do not open a wider sweep.
-  **✅ FAMILY TWO IS ALREADY DONE — do not redo it.** The sub-millisecond precision figure was re-scoped across twelve loci on 2026-08-08; every surviving instance is explicitly Baum's. The two families are independent.
-  **DO NOT OVER-CORRECT.** The zero-lag phenomenon is real and well replicated. What is wrong is the claim that classical mechanisms *cannot* produce it. Do not delete the synchrony claim.
-  **MIRROR**: edit `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral — this is a clause-level attribution fix.
-
 ### P3: `agent-teleology`'s blurb promises a third domain — meaning — that the body never treats
 
 - **Type**: refine-draft
@@ -2662,7 +2642,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **DO NOT** convert these into content edits, do not "update" what the notes say about the archived material, and do not chase the 410 workflow links.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past, on each note edited. **Hold `ai_system`** — a link repoint is not authoring. Length-neutral.
 
-
 ### P3: the Map cites suggestion and hypnosis as evidence for mental causation, in a literature that holds first-person reports about those very phenomena are the least diagnostic
 
 - **Type**: refine-draft
@@ -2676,12 +2655,50 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **SCOPE:** these two articles only. `hypnos` returns **0 files** across all 99 void articles and `suggestib` returns **1**, so there is no wider sweep to open in `voids/`. Re-grep the content tree on `suggestib`, `hypnos` and `placebo` before widening anywhere else — do not inherit that count.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** unless you author substantial new prose.
 
+### P2: the apex catalogue's entry 24 still asserts the seven-independent-traditions count the article itself audited down to five-or-six on 2026-05-18, and still names Bergson among them
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/apex-articles.md
+- **Source**: register_to_prose_propagation (apex nav surface; verified live this run)
+- **Generated**: 2026-08-09
+- **Notes**: **FLOOR-RESTORING mint by interactive /replenish-queue 2026-08-09T~03:4xZ (conservative, exact-floor +1, ONE mint, no padding).** AUTHORITATIVE PRE-COUNT supplied by the driver and re-verified here by parsing the Active section (lines 38–2655): **41 open task headings, 0 P0, 0 P1, 5 P2 of which 3 carry the operator veto tag, 36 P3 → 2 loop-pickable P0–P2 against a floor of 3.** Caps re-measured via `tools.evolution.state.count_section_files` with a bare string arg: topics **319**/320, concepts **315**/320, voids **99**/100, positions **14**/80, apex **39** files (37 articles plus two index pages). This mint consumes **no section slot**.
+  **THE DEFECT, EVERY STRING GREP-VERIFIED AGAINST THE FILES THIS RUN.** `obsidian/apex/apex-articles.md` **L536** is the catalogue thesis for entry **24. Phenomenal Output and Causal Machinery**, and it reads: `The cumulative convergence across seven independent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel) is what carries the evidential weight`. The article it summarises has **retracted exactly that count and exactly that membership**, in three places:
+  **(a)** `obsidian/apex/phenomenal-output-causal-machinery-dissociation.md` **L157**: `The honest re-count is five-or-six traditions, not seven, with Bergson a parallel proposer and Schwitzgebel a witness whose scepticism applies to both sides of the frame.`
+  **(b)** its own frontmatter `apex_thesis` at **L59**: `the cumulative convergence across five-or-six traditions (with Bergson as a parallel proposer rather than a witness, Carruthers reassigned to the strongest absorption rather than counted as a witness, and Schwitzgebel cited with his scepticism applying both to operations and to outputs)`.
+  **(c)** body **L69** (`five-or-six traditions on the audited count below`) and **L191** (`The same dissociation is observed across five-or-six traditions on the audited count`).
+  **WHY THIS ONE MATTERS MORE THAN A STALE NUMBER.** `obsidian/apex/steelmanning-as-method.md` **L93** holds this very downgrade up as the Map's worked exhibit of convergence-count discipline: `The same dissociation apex originally rested its case on *seven* independent traditions converging on one diagnostic signature. In the same work that built the unified rival, it audited that count *downward* to five-or-six, and the reassignments catalogue how a convergence count silently inflates:` — and **L96** is headed `**Bergson, witness to parallel proposer.**` So the catalogue page is publishing, as the article's headline claim, the precise inflated count another apex publishes as the Map's textbook case of count inflation. It is also a **navigation surface**: the catalogue thesis is what a reader or a fetching model sees before opening the article, so the label asserts what the body disclaims.
+  **PROVENANCE, GIT-VERIFIED.** `git log -S "five-or-six traditions"` on the article: introduced **2026-05-18**, commit `32d6cb9cb7` (*auto(refine-draft): Address six critical issues in apex/phenomenal-output-causal-machinery-dissociation.md*). `git log -S "seven independent traditions"` on the catalogue: **one commit only**, `7b165e01a7` **2026-05-09**, the article's creation. The catalogue has been edited since (last touched `aad6233f85`, **2026-08-06**) without this being caught. The gap has therefore stood **83 days**, across at least one later edit to the same file.
+  **THE SWEEP, AND ITS ONE FALSE-POSITIVE.** `grep -rn "seven independent traditions"` over `obsidian/{apex,topics,concepts,voids,positions,arguments,questions,project}`, `archive`, and `hugo/content` returns **exactly three** hits: the obsidian catalogue **L536**, its synced twin `hugo/content/apex/apex-articles.md` **L539**, and `hugo/content/reviews/pessimistic-2026-05-09b.md` **L20**. ⚠️ **The review hit is NOT a defect and must NOT be edited** — that 2026-05-09 pessimistic review is the document that *drove* the audit, so it correctly quotes the pre-audit wording as the thing it is attacking. Leaving pre-fix wording standing inside `reviews/` is the documented echo pattern. There is no wider family here: two live loci, one file, one synced mirror.
+  **A NEGATIVE FINDING THAT BOUNDS THE SCOPE — DO NOT WIDEN ON IT.** I compared every apex article's frontmatter `apex_thesis` against its catalogue `**Thesis**` block programmatically: **24 of the 35 registered entries differ**, in length and wording, as a matter of course. Divergence between the two summaries is therefore **the norm and not a defect signal**. Do **not** open a corpus-wide thesis-reconciliation sweep off the back of this task. What makes entry 24 a defect is not that the strings differ but that the catalogue asserts a *specific numeric count and membership list the article explicitly audited away*.
+  **THE FIX IS SMALL AND ITS TARGET WORDING ALREADY EXISTS — MIRROR IT, DO NOT COMPOSE IT.** Rewrite the convergence clause of **L536** so it carries the audited count and the two reassignments, taking its language from the article's own **L59** and **L157** rather than inventing a new formulation. The rest of the thesis (the positive companion, the constrain-versus-establish discipline, the tightest-worked-instance claim) is unaffected and should be left alone. Keep it roughly length-neutral: this is a clause swap, not an expansion.
+  **⚠️ DO NOT TOUCH THE ARTICLE'S LENGTH.** `apex/phenomenal-output-causal-machinery-dissociation.md` is over the apex hard ceiling and its condense task carries a **standing operator veto**; the NEEDS-HUMAN methodology entry dated 2026-07-29 above records that veto as an operator decision the loop must not resolve. This task edits the **catalogue page only**. Do not condense, expand, or restructure the article, and do not install an Evidence and Dependency section anywhere as a side effect.
+  **MIRROR**: edit `obsidian/apex/apex-articles.md`, then run `uv run python scripts/sync.py` and confirm `hugo/content/apex/apex-articles.md` no longer carries the phrase. A fork that edits only the obsidian tree leaves the defect live on the published page.
+  **ATTRIBUTION**: a clause rewrite, not substantial new prose — bump `ai_modified` from a live `date -u` and verify it is strictly in the past; **hold `ai_system`** unchanged.
 
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-09: the 2026-08-07 Baum family-one fix landed in obsidian and MISSED the archive tree — three published pages still assert the refuted premise flat
+- **Type**: refine-draft
+- **File**: archive/concepts/neural-binding-mechanisms.md
+- **Notes**: Found 2026-08-08 by the family-two (sub-millisecond precision) pass on the same cluster, and **driver-verified line by line** — the fork reported three loci and I confirmed the count and the wording independently.
+  **THE DEFECT.** Three `archive/` pages assert, **flat and in the Map's voice with no attribution and no rebuttal**: *"Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality."* That premise is Baum's (2024 PhilArchive preprint) and it is **refuted by the peer-reviewed classical literature** — dynamical relaying through a shared relay hub (**Vicente et al. 2008**) reproduces zero-lag synchrony across long conduction delays with no quantum resource. `Vicente` appears **zero** times in all three files.
+  **THE THREE LOCI** (exact string `cannot achieve zero-lag synchrony`, verified untruncated):
+  **`archive/concepts/neural-binding-mechanisms.md` L77** · **`archive/concepts/phenomenal-binding-and-holism.md` L86** · **`archive/topics/quantum-binding-and-phenomenal-unity.md` L108**
+  **archive pages serve full bodies on live URLs**, so these are published assertions, not history.
+  **✅ THE FIX WORDING ALREADY EXISTS — copy it, do not invent.** Two loci were corrected on 08-07 and are the models:
+  **`obsidian/concepts/binding-problem.md` L107** — *"**Baum argues that** classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality. **This premise is contested rather than established**: mainstream classical neuroscience accounts for zero-lag synchrony through *dynamical relaying*…"*
+  **`archive/topics/why-phenomenal-unity-resists-explanation.md` L70** — *"**Baum argues that** classical signalling cannot achieve zero-lag synchrony across these distances — **a premise the classical literature contests rather than concedes**."*
+  **THE DISCRIMINATOR (same as family two): attributed-to-Baum-and-contested is SOUND; asserted-flat is the defect.** Read the premise clause specifically.
+  **✅ DO NOT TOUCH — verified sound this session:** `obsidian/concepts/binding-problem.md` L107 and `archive/topics/why-phenomenal-unity-resists-explanation.md` L70 (both already attributed and rebutted); `obsidian/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument.md`, the cluster's calibration anchor.
+  **✅ POPULATION IS CLOSED AT THREE.** A fixed-string grep for `cannot achieve zero-lag synchrony` across `obsidian/` and `archive/` returns exactly five hits; two are the corrected models above. Do not open a wider sweep.
+  **✅ FAMILY TWO IS ALREADY DONE — do not redo it.** The sub-millisecond precision figure was re-scoped across twelve loci on 2026-08-08; every surviving instance is explicitly Baum's. The two families are independent.
+  **DO NOT OVER-CORRECT.** The zero-lag phenomenon is real and well replicated. What is wrong is the claim that classical mechanisms *cannot* produce it. Do not delete the synchrony claim.
+  **MIRROR**: edit `archive/`, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`.** Length-neutral — this is a clause-level attribution fix.
 
 ### ✓ 2026-08-09: the Fox et al. 2012 correlation-as-training-effect error propagates to five more files, one of them inside another falsifier ledger
 - **Type**: refine-draft

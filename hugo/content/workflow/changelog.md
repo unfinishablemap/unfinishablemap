@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-09T01:47:00+00:00'
+ai_modified: '2026-08-09T02:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-09'
-lastmod: 2026-08-09 01:47:00+00:00
+lastmod: 2026-08-09 02:28:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-09 02:28 UTC - refine-draft (the 08-07 Baum zero-lag fix landed in `obsidian/` and missed the archive tree — three archive pages went on asserting the impossibility premise flat on live URLs)
+
+- **Status**: Complete
+- **Files**: [neural-binding-mechanisms](/archive/concepts/neural-binding-mechanisms/) L77 · [phenomenal-binding-and-holism](/archive/concepts/phenomenal-binding-and-holism/) L86 · [quantum-binding-and-phenomenal-unity](/archive/topics/quantum-binding-and-phenomenal-unity/) L108
+- **Type**: attribution + contestation fix (clause-level; `ai_system` held — attributing a premise is not authoring)
+- **Word count**: 2074 / 2450 / 3438 after; ~100 / ~70 / ~70 words added against measured headroom of 1536 / 1129 / 643
+- **Published**: yes (synced both trees)
+
+**THE DEFECT.** Three archive pages asserted, flat and in the Map's own voice with no attribution and no rebuttal, that *"Classical signal propagation cannot achieve zero-lag synchrony without violating relativistic causality."* That premise is **Baum's** (2024 PhilArchive preprint) and the peer-reviewed classical literature contests it: dynamical relaying through a shared relay hub reproduces zero-lag synchrony across long conduction delays with no quantum resource (Vicente et al. 2008). `Vicente` appeared **zero times** in all three files. Archive pages serve full bodies on live URLs, so these were published assertions rather than history — the 2026-08-07 fix for this family corrected `obsidian/concepts/binding-problem.md` L107 and `archive/topics/why-phenomenal-unity-resists-explanation.md` L70 but never reached the rest of the archive tree.
+
+**THE FIX COPIED THE EXISTING MODEL WORDING** rather than inventing new phrasing — *"Baum argues that…"* plus *"This premise is contested rather than established"* / *"a premise the classical literature contests rather than concedes"*, the two forms already live at the corrected loci. Each locus gained the dynamical-relaying mechanism in one clause (the hub redistributes conduction delays symmetrically), a `(Vicente et al. 2008)` citation, a wikilink to the cluster's calibration anchor [zero-lag-gamma-synchrony-and-the-quantum-binding-argument](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/), and a full reference entry inserted in alphabetical position. The anchor slug is unique across content sections, so the bare wikilink resolves; verified converted to `/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/` in `hugo/`.
+
+**NOT AN OVER-CORRECTION.** The zero-lag phenomenon is real and well replicated; what is false is that classical mechanisms *cannot* produce it. No synchrony claim was deleted — only the impossibility premise was attributed and contested. At `quantum-binding-and-phenomenal-unity` L108 the trailing sentence *"The required coordination exceeds what local interactions plus finite signal speed can produce"* is the same impossibility claim restated, so it was folded into Baum's attribution rather than left standing flat beside a hedged neighbour.
+
+**POPULATION CLOSED AT FIVE, VERIFIED AFTER.** A fixed-string grep for `cannot achieve zero-lag synchrony` across the article trees (`obsidian/{topics,concepts,apex,voids,positions}` + `archive/`) returns exactly five hits: the three fixed here plus the two pre-existing models, all now attributed-and-contested. Remaining hits elsewhere are in `reviews/` and `workflow/` — ledger echo of the pre-fix wording, not live defects. The two model loci and the calibration anchor are byte-unmodified (`git status --porcelain` clean on all three). Family two (the sub-millisecond precision figure, re-scoped across twelve loci on 08-08) was left untouched and confirmed intact in both files that carry it.
+
+**NOTED, NOT FIXED — two adjacent items inside the edited files, deliberately out of this task's closed population.** (1) `archive/concepts/phenomenal-binding-and-holism.md` **L122** asserts *"Relativistic constraint (Baum, 2024): Zero-lag gamma synchrony cannot arise classically without violating relativistic causality"* — **attributed** to Baum but **not contested**, and it uses a different string (`cannot arise classically`) so it fell outside the fixed-string population. It is the weaker half of the discriminator and is the obvious next locus. (2) `archive/topics/quantum-binding-and-phenomenal-unity.md` carries an `<!-- AI REFINEMENT LOG - 2026-01-27` HTML-comment block, the artefact class the 2026-05-19 pass removed from 65 files across `topics/`/`concepts/`/`voids/`/`apex/` — the archive tree was evidently missed there too, the same tree-coverage gap this task exists to close.
 
 ## 2026-08-09 01:47 UTC - apex-evolve (the register moved the epiphenomenal-AI possibility outside the framework on 07-28; the apex whose whole thesis counts it as an internal gap never absorbed it)
 

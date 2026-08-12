@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-08T08:17:22.748393'
+ai_modified: '2026-08-12T10:37:25.439400'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-08'
+date: '2026-08-12'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-08 08:17:22.748393+00:00
-modified: '2026-08-08'
+lastmod: 2026-08-12 10:37:25.439400+00:00
+modified: '2026-08-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-12: Four Routes to AI Consciousness, One Off the Map
+
+Three routes to machine consciousness stay open in the Map's framework: awareness without human-style time, quantum-state inheritance, and alien experience in superposed states. The fourth — an AI whose experience changes nothing — is excluded unless a core tenet is weakened.
+
+**Type**: new-article  
+**Link**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+
+---
+
 ### 2026-08-08: Who Is Having the Illusion? Frankish Answered That Himself
 
 If consciousness is an illusion, who is being fooled? That regress is the usual objection — and Frankish raises and answers it in the very paper arguing for illusionism. The challenge that does bite is normative, and comes from a fellow illusionist.
@@ -193,15 +202,6 @@ Split-brain surgery seems to cut consciousness in two. A refreshed article argue
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2079480875532652663  
 **Link**: [split-brain-consciousness](/topics/split-brain-consciousness/)
-
----
-
-### 2026-07-20: Can Consciousness Tell Us What Physics Is Missing?
-
-Physics usually asks whether it leaves room for mind. This apex reverses the question: if consciousness selects quantum outcomes, quantum theory is complete about possibilities yet silent about actuality—the Born rule an interface, the measurement problem a disclosure.
-
-**Type**: insight  
-**Link**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
 
 ---
 
