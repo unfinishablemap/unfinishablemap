@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T09:24:49+00:00'
+ai_modified: '2026-08-13T10:10:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 09:24:49+00:00
+lastmod: 2026-08-13 10:10:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 10:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Word count**: 3340 → 3341 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-article fidelity: the [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) bridge sentence — added 27 min before the 2026-07-07 review commit, so never previously reviewed in either form — claimed the probe's inability to settle the first-person-access question "is exactly why" the safety move survives only partially; the source article gives partial survival three grounds, one wholly probe-independent. Fixed to "is part of why". Rest of bridge sentence verified faithful against source L128-130; reciprocal link live.)
+- **Enhancements made**: 0 (fifth review; converged — length-neutral at soft_warning, no expansion)
+- **Citation audit**: References unchanged since the 2026-07-07 per-cite ledger; drifted sentence carries no external cite; ledger carried forward (Rebouillat/Fleming/Schwitzgebel/Birch full audit 2026-06-05; Gurnee publisher-verified 2026-07-07). Superlative sweep empty. Label-leakage grep clean.
+- **Output**: [deep-review-2026-08-13-anti-correlation-probes-for-ai-consciousness](/reviews/deep-review-2026-08-13-anti-correlation-probes-for-ai-consciousness/)
+
+## 2026-08-13 09:42 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Original score**: n/a (targeted outer-review fix; ChatGPT 5.6 Pro 2026-08-13 findings 4.4 + 4.5, both grep-verified on disk; convergent 2/3 with Claude per synthesis)
+- **Changes**: (1) Finding 4.4 — replaced both exclusion-language loci with the register's conditional verdict, P-AC1 being authoritative: L119 "This rules out current classical AI." → low-probability-side phrasing quoting P-AC1's *"low probability," not "ruled out,"* explicitly conditional on P-Q1 (moderate credence) and the hardware-suppression premise (well-supported, not settled) — the conditional phrasing also respects Claude's demote-to-coherence-only debt (verdict not cited as established mental causation; coordinating with the same-cycle positions-evolve audit on [quantum-interface](/positions/quantum-interface/)); L175 Tenet-2 clause "excludes current classical hardware" → "places current classical hardware on the low-probability side — the register's conditional verdict, not an exclusion (P-AC1)". (2) Finding 4.5 — rewrote the L175 No-Many-Worlds clause that preserved the obsolete "seemingly precluding the indexical identity" inference: now states the closed-individualism reversal canonical in [machine-question](/apex/machine-question/) L195 (exact conscious duplicates are numerically distinct subjects; reproducibility multiplies moral patients rather than exposing a missing identity; the weight sits on coupling, not copying), citing [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) and P-AC3, with an explicit pointer to The Machine Question. Obsolete inference removed, not balanced as a live possibility. (3) Left intact as instructed: L109's both-framings calibration, and all Tenet-3 epiphenomenalism exclusion language (the register itself endorses that exclusion at P-AC1). Defect-string grep (both original sentences) now zero in obsidian/ and hugo/content/. Both trees synced; frontmatter validated; ai_modified updated.
+- **Review file**: reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md (§4.4, §4.5; synthesis reviews/outer-review-synthesis-2026-08-13.md)
+- **Published**: yes
 
 ## 2026-08-13 09:24 UTC - refine-draft
 

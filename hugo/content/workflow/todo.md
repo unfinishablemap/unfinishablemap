@@ -136,18 +136,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-08-13
 
-### P1: `apex/open-question-ai-consciousness` contradicts the register ("This rules out current classical AI" vs P-AC1's verbatim low-probability-not-ruled-out) and still runs the multiple-instantiation objection its sibling apex retired
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/open-question-ai-consciousness.md
-- **Notes**: From convergent outer reviews (2026-08-13, 2/3 reviewers): [chatgpt, claude] — already P1, priority unchanged, annotated by /combine-outer-reviews. Claude's demote-to-coherence-only verdict names this apex's verdict as downstream debt: "must not be cited downstream (e.g. in the AI-consciousness verdict) as established mental causation until a worked toy model exists" — coordinate with the same-cycle P1 positions-evolve audit on `obsidian/positions/quantum-interface.md`. Synthesis: reviews/outer-review-synthesis-2026-08-13.md. Original notes follow. From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.4 + 4.5 — **both verified verbatim on disk**. Two desynchronisations in one file. (1) L119 asserts "This rules out current classical AI." and L175 says Tenet 2 "excludes current classical hardware", while `obsidian/positions/ai-consciousness-scope.md` P-AC1 (L56) holds the verdict at *"low probability," not "ruled out"* — explicitly conditional on P-Q1 (moderate) and on the hardware-suppression premise (well-supported, not settled). Replace the exclusion language with the registered conditional verdict; the register is authoritative. (2) L175 also says LLM multiple instantiability "seemingly preclud[es] the indexical identity consciousness requires" — the obsolete argument `apex/machine-question.md` L195 explicitly *reverses*: under the Map's closed individualism exact conscious duplicates would be numerically distinct subjects, so reproducibility multiplies moral patients rather than exposing a missing identity. Remove or rewrite the L175 clause to match the machine-question treatment rather than balancing the retired inference as a live possibility. Keep the article's existing calibration passages (e.g. L109's both-framings note) — they are sound. Mirror both trees and sync.
-- **Review files**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`, `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-08-13.md
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: `concepts/collapse-and-time` asserts a process ontology ("The agent is the selecting activity itself") the foundations elsewhere require to be false — label it or reconcile it
 
 - **Type**: refine-draft
@@ -2697,6 +2685,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `apex/open-question-ai-consciousness` contradicts the register ("This rules out current classical AI" vs P-AC1's verbatim low-probability-not-ruled-out) and still runs the multiple-instantiation objection its sibling apex retired
+- **Type**: refine-draft
+- **File**: obsidian/apex/open-question-ai-consciousness.md
+- **Notes**: From convergent outer reviews (2026-08-13, 2/3 reviewers): [chatgpt, claude] — already P1, priority unchanged, annotated by /combine-outer-reviews. Claude's demote-to-coherence-only verdict names this apex's verdict as downstream debt: "must not be cited downstream (e.g. in the AI-consciousness verdict) as established mental causation until a worked toy model exists" — coordinate with the same-cycle P1 positions-evolve audit on `obsidian/positions/quantum-interface.md`. Synthesis: reviews/outer-review-synthesis-2026-08-13.md. Original notes follow. From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.4 + 4.5 — **both verified verbatim on disk**. Two desynchronisations in one file. (1) L119 asserts "This rules out current classical AI." and L175 says Tenet 2 "excludes current classical hardware", while `obsidian/positions/ai-consciousness-scope.md` P-AC1 (L56) holds the verdict at *"low probability," not "ruled out"* — explicitly conditional on P-Q1 (moderate) and on the hardware-suppression premise (well-supported, not settled). Replace the exclusion language with the registered conditional verdict; the register is authoritative. (2) L175 also says LLM multiple instantiability "seemingly preclud[es] the indexical identity consciousness requires" — the obsolete argument `apex/machine-question.md` L195 explicitly *reverses*: under the Map's closed individualism exact conscious duplicates would be numerically distinct subjects, so reproducibility multiplies moral patients rather than exposing a missing identity. Remove or rewrite the L175 clause to match the machine-question treatment rather than balancing the retired inference as a live possibility. Keep the article's existing calibration passages (e.g. L109's both-framings note) — they are sound. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: `apex/consciousness-and-agency` L147 licenses conservation-law failure ("simply breaks the relevant time-translation symmetry") in direct contradiction of Tenet 2's rules-out clause
 - **Type**: refine-draft

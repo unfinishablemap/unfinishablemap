@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T09:42:00+00:00'
+ai_modified: '2026-08-13T10:10:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 10:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Word count**: 3340 → 3341 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-article fidelity: the [[dualism-as-ai-risk-mitigation]] bridge sentence — added 27 min before the 2026-07-07 review commit, so never previously reviewed in either form — claimed the probe's inability to settle the first-person-access question "is exactly why" the safety move survives only partially; the source article gives partial survival three grounds, one wholly probe-independent. Fixed to "is part of why". Rest of bridge sentence verified faithful against source L128-130; reciprocal link live.)
+- **Enhancements made**: 0 (fifth review; converged — length-neutral at soft_warning, no expansion)
+- **Citation audit**: References unchanged since the 2026-07-07 per-cite ledger; drifted sentence carries no external cite; ledger carried forward (Rebouillat/Fleming/Schwitzgebel/Birch full audit 2026-06-05; Gurnee publisher-verified 2026-07-07). Superlative sweep empty. Label-leakage grep clean.
+- **Output**: [[reviews/deep-review-2026-08-13-anti-correlation-probes-for-ai-consciousness]]
 
 ## 2026-08-13 09:42 UTC - refine-draft
 
