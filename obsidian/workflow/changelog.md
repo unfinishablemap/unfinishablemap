@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T18:24:08+00:00'
+ai_modified: '2026-08-13T18:54:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 18:54 UTC - coalesce
+
+- **Status**: Success (reasoned abandon — no merge; confirms the standing 2026-08-12/13 declines)
+- **Section pressure measured** (`tools.evolution.state.count_section_files`): topics 319/320, voids 99/100, concepts 315/320, positions 15/80 — unchanged from this morning's run.
+- **Standing record honoured**: the anoetic/episodic ancestry pair was independently re-derived before reading the changelog (zero shared ≥12-word sentences; mutual anchor↔category deferral installed both directions; merged ~5,963w vs 3,500w ceiling; 129+203 inbound occurrences) — same verdict as the recorded **durable structural decline**; per the 09:11 entry, future runs should consult the changelog's recent coalesce entries FIRST and skip re-derivation. The three remaining ancestry pairs stay age-floor-blocked (eligible ~08-14/15). TF-IDF angles were swept 08-12 (topics+voids) and 08-13 09:11 (all three sections, verbatim scan included) with all pairs declined — not re-run.
+- **New ground this run — fresh-creates check**: the only articles created in capped sections since the 2026-07-30 sweep are [[topics/inner-speech-and-anendophasia]] (08-04) and [[concepts/sentientism]] (08-01). Both declined: the former is a specific empirical-dispute article distinct in role from [[language-and-consciousness]]/[[consciousness-and-language-interface]]; the latter is a moral-status framework article distinct from [[birch-edge-of-sentience-and-the-five-tier-scale]]/[[fish-sentience-and-the-teleost-pain-debate]]/[[animal-consciousness]]. Both are barely past the ~7-day age floor; merging either would be create-then-coalesce churn.
+- **Merged**: nothing. **Archived**: nothing. **Tasks minted**: none.
 
 ## 2026-08-13 18:24 UTC - refine-draft
 
