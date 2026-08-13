@@ -39,18 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt counterfactual-reasoning calibration in consciousness-and-the-problem-of-induction
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-problem-of-induction.md
-- **Notes**: From topic-concept anchoring audit 2026-08-13. The topic article over-claims relative to its anchor concept [counterfactual-reasoning](/concepts/counterfactual-reasoning/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.29/kw is below 3.00/kw (target = 60% of anchor 10.82/kw, capped at 3.0/kw)
-  - topic uses 3 strong-assertion verbs (0.98/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-08-13
-
-
 ### P2: predictive-processing-and-dualism defuses active inference metaphysically but never makes it compete mechanistically with post-decoherence selection
 
 - **Type**: refine-draft
@@ -2663,6 +2651,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: Adopt counterfactual-reasoning calibration in consciousness-and-the-problem-of-induction
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-the-problem-of-induction.md
+- **Notes**: From topic-concept anchoring audit 2026-08-13. The topic article over-claims relative to its anchor concept [counterfactual-reasoning](/concepts/counterfactual-reasoning/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.29/kw is below 3.00/kw (target = 60% of anchor 10.82/kw, capped at 3.0/kw)
+  - topic uses 3 strong-assertion verbs (0.98/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-08-13: the NDE/death cluster never names the anoxic terminal-depolarization deflationary reading of the Borjigin gamma surge
 - **Type**: refine-draft

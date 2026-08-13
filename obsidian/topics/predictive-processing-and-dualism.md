@@ -4,7 +4,7 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-08-07T10:28:16+00:00
+ai_modified: 2026-08-13T13:25:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,9 +32,11 @@ related_articles:
   - "[[selection-only-mind-influence]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[brain-specialness-boundary]]"
+  - "[[post-decoherence-selection-programme]]"
+  - "[[born-preserving-causal-efficacy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-07-15T02:52:08+00:00
@@ -43,7 +45,7 @@ coalesced_from:
   - "/topics/predictive-processing-and-active-inference-under-dualism/"
 ---
 
-Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both are almost universally presented within physicalism, and their leading proponents read them that way: Seth (2021) treats predictive processing as a route to demystifying consciousness, Friston's "Markovian monism" is explicitly anti-dualist, and active inference was built to dissolve the appearance of a Cartesian gap, not to vindicate it. Yet the mathematical formalism does not mandate physicalism: nothing in the equations settles the metaphysics either way. Two distinct claims follow, and the Map keeps them apart. The first is neutrality — the formalism adjudicates neither side, and the evidence below supports it. The second is a separate positive diagnostic: once unpacked, Markovian monism turns out to be covertly dualist (developed below). On the strength of the first, PP and active inference supply the kind of physical architecture [[interactionist-dualism]] needs — brain machinery that nonetheless contains an unexplained gap where consciousness enters. The Map appropriates the architecture while rejecting its originators' physicalist metaphysics. This holds while active inference is a theory of *perception and action*. Once it advances a direct *theory of consciousness* — as in the beautiful-loop account engaged below — it becomes a rival for the Map's own explanatory ground, confronted as the strongest physicalist alternative rather than adopted.
+Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both are almost universally presented within physicalism, and their leading proponents read them that way: Seth (2021) treats predictive processing as a route to demystifying consciousness, Friston's "Markovian monism" is explicitly anti-dualist, and active inference was built to dissolve the appearance of a Cartesian gap, not to vindicate it. Yet the mathematical formalism does not mandate physicalism: nothing in the equations settles the metaphysics either way. Two distinct claims follow, and the Map keeps them apart. The first is neutrality — the formalism adjudicates neither side, and the evidence below supports it. The second is a separate positive diagnostic: once unpacked, Markovian monism turns out to be covertly dualist (developed below). On the strength of the first, PP and active inference supply the kind of physical architecture [[interactionist-dualism]] needs — brain machinery that nonetheless contains an unexplained gap where consciousness enters. The Map appropriates the architecture while rejecting its originators' physicalist metaphysics. This holds while active inference is a theory of *perception and action*. Once it advances a direct *theory of consciousness* — as in the beautiful-loop account engaged below — it becomes a rival for the Map's own explanatory ground, confronted as the strongest physicalist alternative rather than adopted. Even short of a consciousness theory, active inference competes mechanistically: it offers a positive story for action selection, attention, and felt effort — the phenomena the Map assigns to the interface — and that contest, engaged below, is one the Map currently loses on articulation and holds on what precision-weighting leaves unexplained.
 
 ## The Neural Machinery Consciousness Needs
 
@@ -103,6 +105,16 @@ The Map treats this as a surface manifestation of something deeper. Consciousnes
 
 This inversion matters. Active inference's emphasis on genuinely world-shaping action puts the causal direction where Tenet 3 requires it: from agent to world. The Map argues that genuine agency requires something outside the predictive loop to break symmetries and select among options. Compatibilists may dispute this — computational selection, they argue, *is* genuine agency without a non-physical selector. The Map's response is that compatibilism explains agency-*talk* but not the phenomenology of deciding: the felt difference between choosing and being moved.
 
+## The Mechanistic Rival: Active Inference versus Post-Decoherence Selection
+
+Neutralising active inference as a metaphysical threat leaves a separate obligation standing: facing it as an explanatory rival. It competes at precisely the phenomena the Map assigns to the interface. For action selection it offers a fully specified mechanistic story — candidate policies are evaluated by the free energy expected under their pursuit, action falls out of that evaluation, and a precision parameter sets how sharply the best-scoring policy dominates, with dopaminergic gain control proposed as that parameter's neural vehicle (Friston et al., 2013). For attention it offers precision-weighted gain modulation with a worked computational implementation (Feldman & Friston, 2010). For the felt effort the Map reads as causal work at the interface, it offers a positive account as well: effort tracks the informational cost of updating — how far beliefs and policies must be moved from where they would settle by default (Zénon, Solopchuk & Pezzulo, 2019). The Map concedes the comparison on articulation without qualification. Where [[post-decoherence-selection-programme|the post-decoherence selection programme]] offers constraints, candidate mechanisms, and an amplification pathway it grades as pre-Keplerian, active inference offers equations, process theories, and neural implementations generating testable predictions now. On mechanistic specification the rival is ahead, and by a wide margin.
+
+The disagreement is confined to two commitments, neither settled by mathematics both sides accept. The first concerns what resolves policy competition near equipoise. Active inference's answer: nothing further — precision-weighted evaluation plus the tissue's intrinsic variability settles the outcome, and what the model cannot predict trial-to-trial it books as noise. The Map's answer: at the commitment point where threshold-crossing races complete, conscious selection biases which physically available outcome is realised, within Born statistics — part of what the physical model books as noise is [[selection-only-mind-influence|selection]]. The second concerns effort: active inference treats felt effort as tracking the cost of information processing; the Map treats it as the first-person face of selection being performed. In every natural case, though, measured cost and felt engagement covary — the same covariance that blocks the placebo discriminator below — so no current experiment separates the two readings directly.
+
+The evidential situation is asymmetric, and stating the asymmetry plainly is part of the engagement. Active inference accrues support as variance explained: each demonstration that measured precision dynamics predict the trial-by-trial resolution of near-equipoise decisions shrinks the residue in which the Map's selector could operate, and a demonstration that the remaining variability is wholly classical in origin would shrink it toward irrelevance. The Map's claim lives entirely in that residue, and by its own [[born-preserving-causal-efficacy|bias-without-deviation commitment]] the selection it posits is undetectable in ensemble statistics. What could favour the Map is correspondingly modest: evidence that decision-threshold races are seeded by quantum rather than only classical noise, or measurement of the amplification chain's biophysical parameters confirming they can carry a quantum-scale bias to threshold — necessary conditions surviving rather than positive confirmation.
+
+Yet the rival's advantage has a boundary of exactly the kind the neutrality argument above identified. Active inference's equations specify how precision is learned, propagated, and implemented; nowhere do they say why any of it is accompanied by experience, and effort-as-information-cost explains why effort tracks demand while leaving untouched why expensive updating feels like anything. Its claim to completeness — that the residue at the moment of resolution contains noise and nothing else — is likewise a commitment the equations do not deliver: the framework models residual variability, it does not derive its provenance, so "only noise" is adopted rather than shown. That adoption is reasonable by physicalist lights and question-begging by the Map's, which is to say the provenance of the residue is a disagreement neither side can currently resolve from inside the other's commitments — closer to bedrock than the mechanistic contest first suggests. The verdict is accordingly mixed, and the Map records it as such: active inference has won the articulation contest as it stands; the Map holds the residue and the phenomenal remainder; and the contest moves only if the residue is closed empirically or the remainder explained.
+
 ## The Quantum-Bayesian Connection
 
 Gunji, Shinohara, and Basios (2022) propose a mathematical bridge between the free energy principle and quantum cognition. Their "excess Bayesian" procedure suggests free energy minimisation and quantum probability may connect formally through orthomodular lattices: classic Bayesian inference entails a Boolean (classical-logic) lattice of propositions, while excess Bayesian inference entails an orthomodular (quantum-logic) one. Quantum cognition appears to capture cognitive phenomena — order effects, conjunction fallacies, disjunction effects — that classical probability cannot.
@@ -151,6 +163,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [[attention-as-interface]] — Precision weighting as the causal bridge
 - [[selection-only-mind-influence]] — Consciousness biases which physically-available outcome is realised without adding energy
 - [[born-rule-and-the-consciousness-interface]] — Where a conscious precision-selection would express itself at the quantum level
+- [[post-decoherence-selection-programme]] — The Map's physics-side selection programme, engaged above as the mechanistic contrast to active inference's policy-selection story
 - [[attention-and-the-consciousness-interface]] — Attention and motor planning as unified selection
 - [[attention-as-causal-bridge]] — The apex synthesis of the attention cluster, which defers its framework-level confrontation with active inference to this article
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like
@@ -174,12 +187,14 @@ The Unfinishable Map adopts predictive processing as the best available account 
 4. Clark, A., Friston, K. & Wilkinson, S. (2019). "Bayesing qualia: consciousness as inference, not raw datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
 5. Feldman, H. & Friston, K. (2010). "Attention, uncertainty, and free-energy." *Frontiers in Human Neuroscience*, 4, 215.
 6. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
-7. Friston, K., Wiese, W. & Hobson, J. A. (2020). Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism. *Entropy*, 22(5), 516.
-8. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-9. Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
-10. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
-11. Gunji, Y.-P., Shinohara, S. & Basios, V. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161.
-12. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
-13. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
-14. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-15. Wiese, W. & Friston, K. (2021). Active Inference as a Computational Framework for Consciousness. *Review of Philosophy and Psychology*, 12, 743-765.
+7. Friston, K., Schwartenbeck, P., FitzGerald, T., Moutoussis, M., Behrens, T. & Dolan, R. J. (2013). "The anatomy of choice: active inference and agency." *Frontiers in Human Neuroscience*, 7, 598.
+8. Friston, K., Wiese, W. & Hobson, J. A. (2020). Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism. *Entropy*, 22(5), 516.
+9. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+10. Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
+11. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
+12. Gunji, Y.-P., Shinohara, S. & Basios, V. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161.
+13. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
+14. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
+15. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+16. Wiese, W. & Friston, K. (2021). Active Inference as a Computational Framework for Consciousness. *Review of Philosophy and Psychology*, 12, 743-765.
+17. Zénon, A., Solopchuk, O. & Pezzulo, G. (2019). "An information-theoretic perspective on the costs of cognition." *Neuropsychologia*, 123, 5-18.
