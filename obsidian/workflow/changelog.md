@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T16:46:01+00:00'
+ai_modified: '2026-08-13T17:31:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 17:31 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed methodology capture from outer review 2026-08-13 (Claude Opus 5 full-site audit) process recommendations 1+3, 2/3 convergent with ChatGPT 5.6 Pro §2.6, deliberately left at P2 per the 2026-07-31 NEEDS-HUMAN precedent)
+- **Changes**: Added new section "The Congenial-Citation Mirror Lens (documented) and the Parapsychology Tripwire (gate-wiring pending human ratification — 2026-08-13 outer-review)" between the 2026-08-08 capture and the bedrock-freshness tension section — the document's eighth dated capture, with the split status the task directed: the LENS is documented as review-pass content for /deep-review and the weekly literature-drift pass (same class as Audit One's quantum-foundations freshness checklist — no new cadence, no budget, audit-cadence structure untouched); the TRIPWIRE (precognition/psi/remote-viewing/supra-Tsirelson sources route through [[parapsychology-firewall]] before use as support, default disconfirmation-or-exclusion, reversal threshold an independent pre-registered replication in a mainstream physics venue) is recorded in enforcement form only, gate-wiring reserved to the operator per the open NEEDS-HUMAN methodology entries (2026-07-30 ledger; 2026-07-27 "Two epistemic voices"). Lens clauses per task: (a) headline-conclusion check, (b) firewall test generalised to any tenet/position, (c) hostile counterfactual. Worked examples Escolà-Gascón/Wiest/Kerskens each mapped to the clause that catches it. Genuinely-new-vs-covered disposition argued in-section: the anti-inversion instruments (author-stance-direction check, Audit Six, 2026-08-08 source-role ledger) all fire on out-of-camp inversion and Escolà-Gascón passes them (would-author-accept = yes); nearest kin is the 2026-07-31 understatement-parity singleton. DATE CORRECTION vs task note: the metadata-clean passes were 2026-06-01 and 2026-06-05 (W23 changelog, "first-author/co-authors/venue/year/key-numbers/stance" field list), not "06-01/06-02"; section states the changelog-accurate dates and notes every axis those passes owned was in fact clean — the unowned axis was direction. Exhibit framed as closed content (same-cycle P1 already swept all live carriers to "neither support nor neutral evidence") with this capture as process residue. QUOTE DISCIPLINE: all nine quoted spans grep-verified contiguous in their raw sources (claude review ×3, chatgpt review ×2, synthesis ×1, parapsychology-firewall ×2, W23 changelog ×1). Frontmatter: 4 related_articles added (3 cycle review files + topics/parapsychology-firewall); ai_system appended → claude-opus-4-7+claude-opus-5+claude-fable-5; ai_modified from live `date -u`. Both trees synced. Pre-existing CRITICAL LENGTH warning (18.8k words) is the document's own recorded backlog fact — operator matter, not touched.
+- **Published**: yes
 
 ## 2026-08-13 16:46 UTC - optimistic-review
 
