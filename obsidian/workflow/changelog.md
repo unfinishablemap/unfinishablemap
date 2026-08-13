@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T19:29:00+00:00'
+ai_modified: '2026-08-13T19:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 19:45 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]] (+ required second file [[topics/split-brain-consciousness]]; sweep also caught the archived ancestor [[archive/topics/fragmented-consciousness]])
+- **Original score**: n/a (`scripts/curate.py` does not exist — skill doc drift)
+- **Review context**: outer-review-2026-08-13-chatgpt-5-6-pro findings 4.7 + 4.8, both verified verbatim on disk before editing; fix follows the review's item-8 four-way separation (brain-to-experience dependence / functional separability / downward mental causation / nonphysical downward causation).
+- **Changes**:
+  - Dissociations article, Bidirectional Interaction relation entry: removed "confirm bidirectional causation"; downgraded to the body's own compatibility grade (reusing its "compatibility-grade, not vindication-grade" vocabulary); the entry now separates the four claims, credits the dissociations with the first two only, and routes the descending-direction case to the agency arguments ([[motor-selection|motor selection]], [[consciousness-and-agency|consciousness and agency]]).
+  - Split-brain article, Bidirectional Interaction relation entry: deleted the false claim that epiphenomenalism predicts fragmentation "should not affect experience at all" (epiphenomenalism denies only mental-to-physical causation); reframed via the same four-way separation with links to [[concepts/epiphenomenalism]], [[concepts/consciousness-selecting-neural-patterns]], [[mental-causation-and-downward-causation]].
+  - String-sibling sweep (both trees + archive) found the same epiphenomenalism error in the archived ancestor `archive/topics/fragmented-consciousness.md` L103; applied a minimal parallel correction there.
+  - Synced obsidian+archive → hugo; all three hugo mirrors verified (defect strings absent, new links resolve, frontmatter valid).
+- **Engagement classification** (editor-internal): epiphenomenalist (both files): the removed text posed as Mode One but misstated the opponent's commitments; replacement is honest boundary-marking — the evidence does not discriminate, and the downward-causation case is routed to the agency arguments rather than claimed from the clinical data. Functionalist (dissociations article): Mode Three, already present in the body; the relation section is now aligned with it. No mode labels appear in article prose.
+- **Published**: yes
 
 ## 2026-08-13 19:29 UTC - research-topic
 

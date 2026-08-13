@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-07-16T12:07:49+00:00
+ai_modified: 2026-08-13T19:40:00+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 topics:
@@ -192,7 +192,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[[tenets#^dualism|Dualism]]**: The dissociation pattern is the Map's strongest empirical argument for a genuine interface between mind and brain. Selective disconnections between consciousness and processing are what dualism predicts. Identity theory predicts uniform degradation; the clinical evidence shows structured disconnection instead.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The ascending and descending channels confirm bidirectional causation. Brain-to-consciousness: sensory content, affect, and self-model are delivered upward. Consciousness-to-brain: motor selections flow downward. Alien hand syndrome and blindsight demonstrate that each direction can fail independently—confirming that information genuinely flows both ways rather than one direction producing the illusion of the other.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The ascending and descending channels fit the tenet's picture: on the interface reading, sensory content, affect, and self-model are delivered upward, motor selections flow downward, and alien hand syndrome and blindsight show that each direction's channel can fail independently. Fit, however, is the honest grade—not confirmation. Four claims come apart here: that experience depends on brain function (every dissociation shows this); that the directional channels are functionally separable (the double dissociations establish this); that consciousness causes physical events; and that such causation is nonphysical. The dissociations secure the first two claims strongly and cannot secure the last two—as the body's closing analysis concedes, a functionalist reading of the same separable channels predicts the identical phenomenology, so the inference stays compatibility-grade for the tenet, not vindication-grade. What the clinical pattern supplies is the anatomy a bidirectional interface would need, each direction independently severable; the case that consciousness actually exercises the descending direction rests on the Map's agency arguments ([[motor-selection|motor selection]], [[consciousness-and-agency|consciousness and agency]]), not on the dissociation evidence alone.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at roughly 10 bits per second against the brain's billions (Norretranders, 1998)—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
 

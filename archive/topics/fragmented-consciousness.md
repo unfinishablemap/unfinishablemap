@@ -4,7 +4,7 @@ description: "When consciousness splits—through surgery, anaesthesia, or disso
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-08-13T19:40:00+00:00
 draft: false
 archived: true
 archived_date: 2026-04-03T15:38:00+00:00
@@ -100,7 +100,7 @@ Fragmented consciousness engages the Map's [[tenets]] at several points:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If — as the Map speculatively proposes — consciousness interacts with the brain through quantum-level processes that require integrated neural activity, disrupting integration disrupts the interaction site. Anaesthesia may eliminate consciousness's capacity to bias quantum outcomes by fragmenting the coordinated neural substrate through which the biasing occurs. The mind does not fragment; the mechanism for mind-brain coupling does.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fragmentation evidence actually supports bidirectional interaction. If consciousness were epiphenomenal — causally inert — then fragmenting the brain should not affect experience at all. The fact that disrupting integration disrupts the *expression* of consciousness (while potentially leaving consciousness itself intact) is precisely what interactionist dualism predicts: the interaction requires a functioning interface.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fragmentation evidence is compatible with bidirectional interaction but does not confirm it. Epiphenomenalism denies only mental-to-physical causation while fully allowing brain events to shape experience, so brain damage altering experience does not discriminate interactionism from epiphenomenalism. What fragmentation shows is that disrupting integration disrupts the *expression* of consciousness (while potentially leaving consciousness itself intact) — the channel that downward causation would use, and what interactionist dualism expects of a functioning interface; the case for the downward direction itself rests on the Map's agency arguments, not on fragmentation.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist reading of fragmentation — consciousness fragments because it is physical integration — appears simpler. But this simplicity purchases a commitment: that consciousness is *nothing more* than integration. The resilience of unity and the all-or-nothing character of anaesthetic loss are then coincidences rather than expected features. The apparently more complex dualist reading (consciousness plus interface) may be the more explanatory account.
 

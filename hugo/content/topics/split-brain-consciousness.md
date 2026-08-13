@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-08-13 19:40:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:12:20+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-13 19:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,7 +183,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness interacts with the brain through quantum-level processes requiring integrated neural activity, disrupting integration disrupts the interaction site. Anaesthesia may eliminate consciousness's capacity to bias quantum outcomes by fragmenting the coordinated substrate through which biasing occurs. The mind does not fragment; the mechanism for mind-brain coupling does.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The fragmentation evidence supports bidirectional interaction. If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all. That disrupting integration disrupts the *expression* of consciousness is precisely what interactionist dualism predicts.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The fragmentation evidence bears on this tenet more modestly than a quick reading suggests. Four claims need separating: that experience depends on brain function; that the interface has functionally separable components; that consciousness causes physical events; and that such causation is nonphysical. Fragmentation establishes the first two—disrupting the substrate demonstrably alters what consciousness can express, and the three routes dissociate cleanly. It cannot establish the last two: [epiphenomenalism](/concepts/epiphenomenalism/) denies only mental-to-physical causation while fully allowing brain events to shape experience, so brain-to-experience dependence does not discriminate interactionism from it. What the fragmentation cases contribute is the expression channel that downward causation would use; the case that consciousness exercises that channel comes from the Map's agency and selection arguments ([consciousness selecting neural patterns](/concepts/consciousness-selecting-neural-patterns/), [mental causation and downward causation](/concepts/mental-causation-and-downward-causation/)), not from fragmentation itself.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [indexical identity](/topics/personal-identity/#indexical-identity) view accommodates partial anatomical division within a single causal history more easily than infinite branching.
 

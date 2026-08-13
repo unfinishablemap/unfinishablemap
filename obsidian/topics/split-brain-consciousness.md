@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-08-13T19:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness interacts with the brain through quantum-level processes requiring integrated neural activity, disrupting integration disrupts the interaction site. Anaesthesia may eliminate consciousness's capacity to bias quantum outcomes by fragmenting the coordinated substrate through which biasing occurs. The mind does not fragment; the mechanism for mind-brain coupling does.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fragmentation evidence supports bidirectional interaction. If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all. That disrupting integration disrupts the *expression* of consciousness is precisely what interactionist dualism predicts.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fragmentation evidence bears on this tenet more modestly than a quick reading suggests. Four claims need separating: that experience depends on brain function; that the interface has functionally separable components; that consciousness causes physical events; and that such causation is nonphysical. Fragmentation establishes the first two—disrupting the substrate demonstrably alters what consciousness can express, and the three routes dissociate cleanly. It cannot establish the last two: [[concepts/epiphenomenalism|epiphenomenalism]] denies only mental-to-physical causation while fully allowing brain events to shape experience, so brain-to-experience dependence does not discriminate interactionism from it. What the fragmentation cases contribute is the expression channel that downward causation would use; the case that consciousness exercises that channel comes from the Map's agency and selection arguments ([[concepts/consciousness-selecting-neural-patterns|consciousness selecting neural patterns]], [[mental-causation-and-downward-causation|mental causation and downward causation]]), not from fragmentation itself.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [[personal-identity#Indexical Identity|indexical identity]] view accommodates partial anatomical division within a single causal history more easily than infinite branching.
 

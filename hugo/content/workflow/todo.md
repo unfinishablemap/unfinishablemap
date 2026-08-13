@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Descriptive Experience Sampling
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-13-introspective-access-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-13-introspective-access-wing: Hurlburt's method is load-bearing in at least 8 live files (inner-speech-and-anendophasia, consciousness-and-language-interface, tool-that-cannot-say-its-user, microphenomenological-interview-method, phenomenology-of-memory-and-the-self, minimal-consciousness-void, voids-between-minds, apex-articles) with no dedicated page. A home for the fidelity-vs-validity distinction (Hurlburt 2026), the moments-vs-generalisation contrast (cued sampling vs retrospective questionnaire) three articles restate independently, and the method's own limitation register. Distinct from the micro-phenomenological interview (Petitmengin), which has its own page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/descriptive-experience-sampling-2026-08-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'descriptive-experience-sampling' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-13
-
 ### P2: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
 
 - **Type**: refine-draft
@@ -2570,6 +2564,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: Research Descriptive Experience Sampling
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-13-introspective-access-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-13-introspective-access-wing: Hurlburt's method is load-bearing in at least 8 live files (inner-speech-and-anendophasia, consciousness-and-language-interface, tool-that-cannot-say-its-user, microphenomenological-interview-method, phenomenology-of-memory-and-the-self, minimal-consciousness-void, voids-between-minds, apex-articles) with no dedicated page. A home for the fidelity-vs-validity distinction (Hurlburt 2026), the moments-vs-generalisation contrast (cued sampling vs retrospective questionnaire) three articles restate independently, and the method's own limitation register. Distinct from the micro-phenomenological interview (Petitmengin), which has its own page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/descriptive-experience-sampling-2026-08-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'descriptive-experience-sampling' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-08-13: `apex/interface-specification-programme` says under Everett there is "nothing for a control law to govern" — its own background audit concedes branch-local agency survives
 - **Type**: refine-draft
