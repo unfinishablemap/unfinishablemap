@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T07:24:07+00:00'
+ai_modified: '2026-08-13T07:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 07:50 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 2337 → 2337 (no change)
+- **Critical issues addressed**: 0 (delta-validation pass — the only change since the converged 2026-06-26 review was the 2026-08-07 corpus-wide bandwidth-attribution fix, commit 5c2e104b0c; both touched cites independently re-verified at primary sources this pass: Zheng & Meister 2025 ~10 bits/s via arXiv 2408.10234, Nørretranders ~16 bits/s via the book's Küpfmüller sixteen-of-eleven-million claim — the delta is faithful)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op on content; only `last_deep_review` moved, `ai_modified` held per no-op discipline)
+- **Ledger**: 2 cites re-verified this pass; Simon 1956 / Beilock & Carr 2001 / Dreyfus 2002 carried forward from the untouched full 2026-06-26 publisher-of-record ledger. Superlative sweep empty. Noted-nuance recorded: "aggregate neural processing ~10⁹" is the corpus family form (paper's abstract says "sensory systems gather data"; the flagship [[topics/bandwidth-of-consciousness]] carries the harmonisation) — any re-adjudication must be family-level, not single-article
+- **Reasoning-mode classification**: generic-materialist engagement unchanged — Mode Two (unsupported foundational move), natural prose, no label leakage
+- **Output**: [[reviews/deep-review-2026-08-13-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
 
 ## 2026-08-13 07:24 UTC - refine-draft
 

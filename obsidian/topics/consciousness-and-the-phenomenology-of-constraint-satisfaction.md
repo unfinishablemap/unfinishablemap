@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-06-26T12:32:25+00:00
+last_deep_review: 2026-08-13T07:45:00+00:00
 ---
 
 Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. The Unfinishable Map argues this phenomenal character is not decorative but constitutive: constraint satisfaction feels like something *because* consciousness is doing genuine causal work at the interface between mind and brain.

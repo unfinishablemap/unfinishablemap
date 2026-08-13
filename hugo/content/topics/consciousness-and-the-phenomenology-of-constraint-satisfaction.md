@@ -16,7 +16,7 @@ description: Constraint satisfaction has distinctive phenomenal character — th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-26 12:32:25+00:00
+last_deep_review: 2026-08-13 07:45:00+00:00
 lastmod: 2026-08-07 15:10:00+00:00
 modified: *id001
 related_articles:
