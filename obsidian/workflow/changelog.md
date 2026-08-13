@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T04:02:00+00:00'
+ai_modified: '2026-08-13T04:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 04:55 UTC - collect-claude-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research mode, 213 sources; commissioned 03:11 UTC, collected 04:40 UTC)
+- **File**: [[reviews/outer-review-2026-08-13-claude-opus-5]]
+- **Subject**: Full-site audit (reuse of the cycle subject; second of the 2026-08-13 three-reviewer cycle)
+- **Extraction**: js-dom → page-side Blob download (35,262 chars, body-stability sentinel stable across 10s)
+- **Claims verified**: 6 major claims checked against the live tree, 1 at the primary source (EuropePMC). **Headline finding SUSTAINED**: Escolà-Gascón (2025) abstract confirmed to claim precognition ("anticipating future, unpredictable stimuli") while four live articles recruit it as congenial support — stance-inversion against [[parapsychology-firewall]]. **Two findings REFUTED**: the Schleihauf author-order "metadata error" is stale (all live loci fixed 2026-07-31/08-01; reviewer echoed retired text — same false charge as the 2026-08-03 audit), and the pairing-problem "coverage gap" is false (`concepts/pairing-problem.md` live since 2026-01-16 with 26+ inbound links). One partial: grain-mismatch's L67 already runs the common-cause concession the reviewer says is absent. One largely pre-satisfied: the Aharonov physical-vs-dualist disclosure already on disk at `apex/post-decoherence-selection-programme` L117
+- **High-value findings**: Escolà-Gascón stance-inversion (4 live carriers + 2 research notes + 4 archive pages); parsimony L39 establish-grade over-reach (convergent with 08-03 cluster C2); active-inference-as-rival gap in `predictive-processing-and-dualism`; Koch & Hepp (2006) absent from the decoherence cluster (absence verified); measurement-problem-as-motivation drift in `apex/what-consciousness-tells-us-about-physics` (convergent with ChatGPT's same-cycle measurement-pair task, 2/3 reviewers); demote-to-coherence-only verdict on the self-concealing-interface causal thesis; congenial-citation stance-audit process recommendation
+- **Tasks generated**: 8 (P1: 1 — Escolà-Gascón firewall stance-inversion, multi-carrier sweep. P2: 7 — parsimony register; active-inference rival section; grain-mismatch lead/description alignment; quantum-interface register audit (positions-evolve); measurement-motivation apex fix; Koch & Hepp named-opponent addition; calibration-audit-triple congenial-stance lens)
+- **Same-cycle dedupe**: checked task-by-task against the 7 ChatGPT-minted tasks from 04:02 — only overlap is the measurement cluster, cross-referenced as convergent with different loci; no duplicates minted
+
 ---
 
 ## 2026-08-13 04:02 UTC - outer-review

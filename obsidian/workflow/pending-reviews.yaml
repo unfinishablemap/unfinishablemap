@@ -29,9 +29,9 @@
   commissioned_at: '2026-08-13T03:11:34.691512+00:00'
   prompt_summary: 'Full-site audit: novel inferences, weaknesses, tenet coherence'
   target_filename: outer-review-2026-08-13-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-13T04:40:45.412606+00:00'
   failure_reason: null
   prompt_text: 'You are acting as a rigorous external referee for The Unfinishable
     Map (https://unfinishablemap.org), a philosophical content platform defending
