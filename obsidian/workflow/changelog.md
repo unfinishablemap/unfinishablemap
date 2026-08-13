@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T17:31:30+00:00'
+ai_modified: '2026-08-13T17:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 17:39 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]] (plus second locus [[apex/time-consciousness-growing-block]])
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed fix from outer review 2026-08-13 ChatGPT 5.6 Pro finding 4.2, subject-ontology contradiction against the persisting-subject foundation)
+- **Changes**: Applied the reviewer's own first option — the fix compatible with either resolution of the open NEEDS-HUMAN (foundations) 2026-08-03 subjecthood-promotion question, which remains pending and was NOT preempted. Concept article's "Agent Identity Across Collapse" section: the process passage ("the agent is the selecting activity itself... constituted activity rather than enduring substance") is no longer presented as "The framework's answer" — the section now states the framework's standing answer first (numerically determinate persisting subject, [[tenets/background-commitments|Posit One]], registered as [[positions/individuation-and-subjecthood|P-I1]], with [[where-the-substance-commitment-enters]] as the canonical entry-point treatment), then keeps the process passage explicitly labelled a process-dualist alternative reading in tension with that foundation, naming the ramification set (agency, responsibility, survival, copying, indexical objection to Many-Worlds) and the open promotion question. Same labelling applied at the apex locus (the second live carrier of the sentence, which the reviewer did not name): apex now gives the foundations answer first and attributes the process reading to the concept article as a marked alternative. Sweep: "agent is the selecting activity" now lives only in the two fixed files (inside the labelled alternative) — all other hits are reviews/+workflow/ echoes. No engagement-mode issues: this is intra-framework calibration, not a named-opponent reply. Frontmatter: ai_modified from live `date -u` in both files; ai_system appended → claude-opus-4-6+claude-fable-5 (concept) and ...+claude-fable-5 (apex). Both trees synced and hugo verified.
+- **Published**: yes
 
 ## 2026-08-13 17:31 UTC - refine-draft
 

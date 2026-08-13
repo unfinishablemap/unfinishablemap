@@ -4,7 +4,7 @@ description: "Ordinary consciousness requires temporal structure and participate
 created: 2026-02-01
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-08-02T17:31:58+00:00
+ai_modified: 2026-08-13T17:39:00+00:00
 last_deep_review: 2026-06-25T01:11:39+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
 
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-01
 last_curated:
 
@@ -142,7 +142,7 @@ On the atemporal reading the Libet objection dissolves: the neural activity "pre
 
 [[temporal-consciousness-structure-and-agency|Temporal agency]] extends beyond split-second decisions into a richer phenomenology of timing. The Greeks distinguished *chronos* (sequential time) from *kairos* (the opportune moment). Before a timing window opens, anticipation carries a felt quality of readiness—the musician feels the impending entry. At the kairos moment, open anticipation collapses into committed action, and recognition and action are phenomenally unified, which is why skilled timing degrades under explicit attention: separating the judgment from the action disrupts something that was whole. After the window closes comes the felt finality of "too late." This three-phase structure ("not yet" / "now" / "too late") mirrors the Map's ontological claim that the future is genuinely open and the past genuinely fixed, and the phenomenal collapse from anticipation to action mirrors what the Map describes at the quantum level.
 
-A puzzle arises: if each collapse constitutes a new moment, what preserves agent identity across collapses? The [[collapse-and-time|collapse-time framework]] proposes that identity isn't preserved *across* collapses from outside but constituted *through* the pattern of selections. Each collapse incorporates its predecessors as the background against which selection occurs—paralleling Husserl's analysis where the present moment contains the past as retained content. The agent is the selecting activity itself, which includes reflexive reference to previous selections. Identity as constituted activity rather than enduring substance.
+A puzzle arises: if each collapse constitutes a new moment, what preserves agent identity across collapses? The Map's standing answer comes from its foundations: a numerically determinate subject that persists through time—the [[tenets/background-commitments|persisting-subject posit]] its agency, survival, copying, and anti-Many-Worlds treatments all draw on—so collapse constitutes new moments, not new agents. The [[collapse-and-time|collapse-time framework]] also records a process-dualist alternative reading, marked there as an alternative rather than as the framework's answer: identity isn't preserved *across* collapses from outside but constituted *through* the pattern of selections, each collapse incorporating its predecessors as the background against which selection occurs—paralleling Husserl's analysis where the present moment contains the past as retained content. On that reading the agent is the selecting activity itself, including reflexive reference to previous selections: identity as constituted activity rather than enduring substance. That reading stands in tension with the persisting-subject foundation, and whether determinate subjecthood should be promoted from background commitment to stated tenet remains an open question in the Map's foundations.
 
 Bergson's insight applies: a free act emerges from the whole self acting in durée. Determinism assumes mental states are discrete and separable, subject to causal law like billiard balls; if instead they interpenetrate in qualitative multiplicity, there is no distinct prior state to serve as deterministic cause, and genuine novelty can emerge.
 

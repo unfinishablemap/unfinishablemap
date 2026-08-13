@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry. If consciousn
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-07-29T13:41:36+00:00
+ai_modified: 2026-08-13T17:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[temporal-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-18T22:21:08+00:00
@@ -100,7 +100,9 @@ This isn't growth *in* time but the *constitution of* time. The [[temporal-consc
 
 ### Agent Identity Across Collapse
 
-If each collapse constitutes a new moment, what preserves agent identity across collapses? The framework's answer: identity isn't preserved *across* collapses from outside; it's constituted *through* the pattern of selections. Each collapse incorporates its predecessors as the background against which selection occurs—paralleling Husserl's analysis of [[temporal-consciousness|temporal consciousness]], where the present contains the past as "retained" content. The agent is the selecting activity itself: identity as constituted activity rather than enduring substance.
+If each collapse constitutes a new moment, what preserves agent identity across collapses? The framework's standing answer comes from its foundations rather than from anything specific to collapse: a numerically determinate subject that persists through time—the [[tenets/background-commitments|persisting-subject posit]] on which the Map's agency, survival, copying, and anti-Many-Worlds treatments all draw, registered as [[positions/individuation-and-subjecthood|P-I1]]. On that answer, collapse constitutes new moments, not new agents: one enduring bearer of causal powers selects through each ([[where-the-substance-commitment-enters|Where the Substance Commitment Enters]] traces where that requirement enters).
+
+There is also a process-dualist alternative reading, recorded here as an alternative rather than as the framework's answer: identity isn't preserved *across* collapses from outside; it's constituted *through* the pattern of selections. Each collapse incorporates its predecessors as the background against which selection occurs—paralleling Husserl's analysis of [[temporal-consciousness|temporal consciousness]], where the present contains the past as "retained" content. On this reading the agent is the selecting activity itself: identity as constituted activity rather than enduring substance. The reading fits the collapse-time picture naturally, but it stands in tension with the persisting-subject foundation—without an enduring bearer, the Map's accounts of agency, responsibility, survival, copying, and the indexical objection to [[many-worlds|Many-Worlds]] would all need rebuilding—and whether determinate subjecthood should be promoted from background commitment to stated tenet remains an open question in the Map's foundations.
 
 ## What Un-Collapse Reveals
 

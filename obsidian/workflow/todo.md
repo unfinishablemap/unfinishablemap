@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `concepts/collapse-and-time` asserts a process ontology ("The agent is the selecting activity itself") the foundations elsewhere require to be false — label it or reconcile it
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/collapse-and-time.md
-- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.2 — **verified verbatim on disk, plus a second live locus the reviewer did not name: `obsidian/apex/time-consciousness-growing-block.md` carries the same sentence.** The background-commitments/P-I1 layer requires a determinate persisting bearer of causal powers; this article contrasts constituted activity with enduring substance and makes the agent the activity. **COORDINATE, DO NOT PREEMPT**: the open NEEDS-HUMAN (foundations) 2026-08-03 queue entry already puts the subjecthood-promotion question to the operator. The compatible-with-either-resolution fix is the reviewer's own first option: keep the process passage but explicitly mark it as a process-dualist *alternative reading*, not the framework's answer, with a pointer to the persisting-subject foundation it stands in tension with. Apply the same labelling at the growing-block apex locus. If the operator's foundations decision lands first, follow it instead.
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: `apex/interface-specification-programme` says under Everett there is "nothing for a control law to govern" — its own background audit concedes branch-local agency survives
 
 - **Type**: refine-draft
@@ -2582,6 +2572,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `concepts/collapse-and-time` asserts a process ontology ("The agent is the selecting activity itself") the foundations elsewhere require to be false — label it or reconcile it
+- **Type**: refine-draft
+- **File**: obsidian/concepts/collapse-and-time.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.2 — **verified verbatim on disk, plus a second live locus the reviewer did not name: `obsidian/apex/time-consciousness-growing-block.md` carries the same sentence.** The background-commitments/P-I1 layer requires a determinate persisting bearer of causal powers; this article contrasts constituted activity with enduring substance and makes the agent the activity. **COORDINATE, DO NOT PREEMPT**: the open NEEDS-HUMAN (foundations) 2026-08-03 queue entry already puts the subjecthood-promotion question to the operator. The compatible-with-either-resolution fix is the reviewer's own first option: keep the process passage but explicitly mark it as a process-dualist *alternative reading*, not the framework's answer, with a pointer to the persisting-subject foundation it stands in tension with. Apply the same labelling at the growing-block apex locus. If the operator's foundations decision lands first, follow it instead.
 
 ### ✓ 2026-08-13: add a congenial-citation stance-audit lens to the calibration audit triple — in-loop review verified Escolà-Gascón's metadata clean twice and never asked whose conclusion it was
 - **Type**: refine-draft
