@@ -4,7 +4,7 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-03T09:51:20+00:00
+ai_modified: 2026-08-13T15:22:15+00:00
 last_deep_review: 2026-08-03T09:51:20+00:00
 draft: false
 topics:
@@ -139,9 +139,9 @@ Type-token causation operationalises two tenets without overcommitting on either
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The interaction is minimal in the precise sense that it produces no effect on the unconditioned long-run marginal — Born-rule statistics are preserved exactly at that grain, and the Map asserts preservation at that grain only. The "minimal" qualifier is not vague modesty; it names the grain at which physics remains causally complete.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Bidirectional causation is real at the token grain. Consciousness influences which particular outcomes occur, and the resulting outcomes shape the brain states that subsequent experiences arise from. The bidirectionality is not paradoxical because the two directions operate at compatible grains: physical states fix type-level constraints; conscious selection fixes token outcomes within those constraints.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The token grain is where this tenet's claim operates. On the Map's reading, consciousness selects which particular outcomes occur, and the resulting outcomes shape the brain states that subsequent experiences arise from. The bidirectionality is not paradoxical because the two directions operate at compatible grains: physical states fix type-level constraints; conscious selection fixes token outcomes within those constraints.
 
-The combination is what makes the Map's framework *minimal in the technical sense Tenet 2 specifies* without being deflationary: mental causation is metaphysically real (against [[concepts/epiphenomenalism|epiphenomenalism]]); physics is structurally complete (against magic); and the apparent conflict between these dissolves once the type-token distinction is in hand. The minimality claim is technical, not a parsimony argument — Tenet 5 ([[tenets#^occams-limits|Occam's Razor Has Limits]]) is the Map's own brake on leaning on parsimony at this level.
+The combination is what would make the Map's framework *minimal in the technical sense Tenet 2 specifies* without being deflationary: mental causation metaphysically real (against [[concepts/epiphenomenalism|epiphenomenalism]]), physics structurally complete (against magic), and the apparent conflict between the two dissolved. That dissolution is the framework's claim, and its current standing is candidate resolution rather than accomplished result: the compatibility it turns on — token-robust selection that stays invisible in the unconditioned aggregate — must be demonstrated rather than assumed ([[born-preserving-causal-efficacy]]), and whether the per-trial move discharges the epiphenomenalism worry or merely relocates it remains open. Until that debt is paid, the selection thesis is citable as a framework-internal coherence result, not as established mental causation ([[positions/quantum-interface#^mechanism-debt|mechanism debt]]). The minimality claim is technical, not a parsimony argument — Tenet 5 ([[tenets#^occams-limits|Occam's Razor Has Limits]]) is the Map's own brake on leaning on parsimony at this level.
 
 ## Further Reading
 
