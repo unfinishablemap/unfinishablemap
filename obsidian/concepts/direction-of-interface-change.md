@@ -4,7 +4,7 @@ description: "A human+AI concept page naming the evidence type in which the dire
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-08-13T22:20:00+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -80,6 +80,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 ## Further Reading
 
 - [[memory-channel-interface-evidence]] — Where the family is first developed at topic length, with each member's empirical case; also the substrate-state face of the same architecture
+- [[sleep-paralysis-and-interface-reassembly]] — The sleep-wake instance: transition-module asymmetry, staggered channel restoration, and sleep paralysis as the mis-ordering experienced from inside
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
 - [[direction-dependent-discriminating-test-design]] — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [[self-concealing-interface]] — The synthesis that catalogues direction-of-interface-change as a seam class

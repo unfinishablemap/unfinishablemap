@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T20:30:00+00:00'
+ai_modified: '2026-08-13T22:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 20:30:00+00:00
+lastmod: 2026-08-13 22:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 22:20 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: hypnopompia and sleep paralysis as interface reassembly out of order
+- **Output**: [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/)
+- **Word count**: 2999 (topics/ status ok; trimmed from 3207 in two self-edit passes)
+- **Based on research**: yes — [hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12](/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12/)
+- **Section cap**: re-measured at execution per task note — `count_section_files('topics')` read 319/320 before creation, so the new-page path (note's Angle 1) was taken, not the fallback section-extension of the hypnagogia article. Topics/ now at gated cap (320).
+- **Framing**: per the note's headline correction, the article leads with the measured channel-staggered evidence (Wang 2024; Stevner 2019; Kim 2018) and treats the hypnagogic/hypnopompic difference question as an open default-not-finding debate, not as the thesis. Calibration held at explanatory-debt asymmetry; content accounts (Cheyne taxonomy, Jalal & Ramachandran, cultural construction) conceded in full; the "cannot train an epiphenomenon" construct was NOT reintroduced.
+- **Verification debt from the research note, resolved at source before drafting**:
+  - Cheyne, Newby-Clark & Rueffer 1999 (*J Sleep Res* 8(4)) — abstract retrieved via OpenAlex AND EuropePMC (agreeing): it is the Waterloo Sleep Experiences Scale prevalence/structure paper; its abstract draws NO hypnagogic/hypnopompic contrast, treating both as one class of "hallucinoid experiences." Cited accordingly (as an instance of the treat-as-one convention), not as adjudicating the difference question.
+  - Ghibellini & Meier 2023 — verified at PMC full text (PMC10078162): "Hypnopompic, on the other hand, refers to the very same phenomena occurring at sleep-offset" (verbatim, used); they fold both under one term. NOTE: no Mavromatis citation found in their text, so the note's "traced to Mavromatis, restated in G&M" lineage was NOT reproduced. Their terminology section credits Maury (1848) and Myers for the coinages — used as the citation for the Myers claim (no Myers primary quote shipped).
+  - Mainieri et al. 2021 — theta percentages 70.8/89.7/21.2 verified at EuropePMC abstract, plus verbatim "intermediate between wakefulness and REM sleep in the alpha, theta, and delta frequencies" and conclusion "is not in an awake but in a dreaming state" (used; their own verdict-direction preserved). "Lucid paralysis" does NOT appear in title/abstract — term attribution dropped.
+  - Stevner 2019 — "two asymmetric processes ... two separated transition modules" sentence VERIFIED verbatim in the PMC full text (PMC6399232) Discussion; quoted with its "during wakefulness" qualifier intact.
+  - Kim et al. 2018 — both candidate quotes verified verbatim at the PLOS page; "topographic similarities" and "not a pharmacokinetic attribute" quotes used, "critical coupling strength" quote cut in length trim.
+  - Wang et al. 2024 — PMC full text confirms the "first regions to restore normal CBF" sentence is Wang citing Balkin et al. 2002 (*Brain*, PET), NOT Wang's own result; article attributes it to Balkin. Wang's own results (thalamus lag ~8s→~2.5s, ACC intermediate, sensorimotor no significant coupling change; n=21, three 5-min scans at 20-min intervals) verified and used.
+  - Herrero et al. 2025 — full text (PMC12479757): 7 analysed (11 enrolled), 2 SP episodes; theta reduced + low-gamma increased vs REM in BOTH episodes, beta increased in only ONE of two (research note's "increased beta" corrected accordingly); authors' sample-size caveat quoted verbatim.
+  - Ohayon 1996 — 37%/12.5% verified verbatim at EuropePMC; n=4,972 UK confirmed; bonus verified finding (hypnopompic hallucinations stronger narcolepsy indicator) used.
+  - Sharpless & Barber 2011 — 7.6% lifetime prevalence verified at PMC (N=36,533, 35 studies).
+  - Dropped as unverifiable this pass: the 64% episodes-on-awakening figure (not found in the JCM 2023 review full text; replaced with that review's verified qualitative "transition from REM sleep to the waking state"); the narcolepsy/familial sleep-onset reversal claim; the PMC10270716 sensorimotor-vs-DMN recovery claim (full text does not report it); any Myers verbatim gloss.
+- **Citations**: JCM 2023 review author list (Sodré, Wießner, Irfan, Schenck, Mota-Rolim) retrieved for the reference. Self-citations: anaesthesia article (Oquatre-six per its ai_system) and direction-of-interface-change (Oquatre-huit).
+- **Integration chain**: inbound links added to [out-of-body-experiences](/topics/out-of-body-experiences/) (SP wikilink + one-sentence Herrero sleep-OBE upgrade + Herrero reference + Further Reading entry), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) (Further Reading), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) (Further Reading), [direction-of-interface-change](/concepts/direction-of-interface-change/) (Further Reading); ai_modified bumped in all four. `topics:` frontmatter populated with bare slugs (non-empty, agentic-social overlap filter engaged). Non-independence caution from direction-of-interface-change carried into the new article's tenet section (common-cause null cited; sleep-side asymmetries framed as a further view of the same architecture, not an added confirmation).
 
 ## 2026-08-13 20:55 UTC - refine-draft
 

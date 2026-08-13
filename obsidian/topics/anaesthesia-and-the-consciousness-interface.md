@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-08-08T18:57:18+00:00
+ai_modified: 2026-08-13T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,6 +154,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[filter-theory]] — The transmission model of brain-consciousness relation
 - [[the-interface-problem]] — Where consciousness meets the brain: candidates and constraints
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Disorders of consciousness, coma, sleep, and covert consciousness as parallel cases
+- [[sleep-paralysis-and-interface-reassembly]] — The sleep-side extension of the induction/emergence asymmetry: staggered channel restoration on waking, with sleep paralysis as its first-person case
 - [[contemplative-pathology-and-interface-malfunction]] — Parallel case: interface disruption from the consciousness side
 - [[self-stultification-as-master-argument]] — Why epiphenomenal consciousness is epistemically self-defeating
 - [[consciousness-under-extreme-metabolic-constraint]] — Gamma surges, threshold effects, and the filter model when metabolic supply collapses

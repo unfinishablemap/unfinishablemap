@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-07-20 02:09:08+00:00
+ai_modified: 2026-08-13 22:20:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 anchoring_audit_exempt: true
 author: null
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:46:23+00:00
-lastmod: 2026-07-20 02:09:08+00:00
+lastmod: 2026-08-13 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,6 +151,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 ## Further Reading
 
 - [dream-consciousness](/topics/dream-consciousness/) — What happens after hypnagogia: consciousness during REM and NREM sleep
+- [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/) — The ascent side: interface reassembly out of order, with sleep paralysis as its conspicuous case
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The rendering dilemma and capability signatures visible when the interface fully reconfigures into REM
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — The extreme case: interface disruption through anaesthesia, coma, and injury
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary channel through which consciousness influences neural activity

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-08 18:57:18+00:00
+ai_modified: 2026-08-13 22:20:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-08-08 18:57:18+00:00
+lastmod: 2026-08-13 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,6 +158,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [the-interface-problem](/topics/the-interface-problem/) — Where consciousness meets the brain: candidates and constraints
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Disorders of consciousness, coma, sleep, and covert consciousness as parallel cases
+- [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/) — The sleep-side extension of the induction/emergence asymmetry: staggered channel restoration on waking, with sleep paralysis as its first-person case
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Parallel case: interface disruption from the consciousness side
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why epiphenomenal consciousness is epistemically self-defeating
 - [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) — Gamma surges, threshold effects, and the filter model when metabolic supply collapses

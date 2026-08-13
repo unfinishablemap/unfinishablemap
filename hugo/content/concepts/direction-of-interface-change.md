@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-08-13 22:20:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:00:46+00:00
-lastmod: 2026-06-03 00:00:00+00:00
+lastmod: 2026-08-13 22:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,6 +84,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 ## Further Reading
 
 - [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) — Where the family is first developed at topic length, with each member's empirical case; also the substrate-state face of the same architecture
+- [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/) — The sleep-wake instance: transition-module asymmetry, staggered channel restoration, and sleep paralysis as the mis-ordering experienced from inside
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Why emergence timing is not the deterministic reverse of induction
 - [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [self-concealing-interface](/apex/self-concealing-interface/) — The synthesis that catalogues direction-of-interface-change as a seam class
