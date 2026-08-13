@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T15:41:07+00:00'
+ai_modified: '2026-08-13T16:09:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 15:41:07+00:00
+lastmod: 2026-08-13 16:09:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 16:09 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed one-clause labelling fix from positions-audit-2026-08-13 check (c) item 3 + outer review 2026-08-13 (Claude Opus 5) §1a, the 3/3 convergence cycle's central charge: the compatibility inference "asserted, not modelled")
+- **Changes**: Single-sentence verdict/labelling change in the Bias-Without-Deviation Dilemma section's first horn. The flat "Token-level causal robustness and ensemble-level undetectability are compatible" becomes "are, the corridor reading holds, compatible—a compatibility P-Q10's toy-model desiderata require to be demonstrated rather than assumed—and the reading claims this is the actual structure of the interface, not a verbal escape." Aligns the compatibility claim with [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) desideratum 3 ("demonstrated, not assumed" — the whole content of P-Q3 is that the two might be jointly impossible) and with the paragraph's second horn, which already hedged the genuineness claim. Purchased-not-free cost framing, the paragraph's closing pointer to the six toy-model desiderata, and all other prose untouched; no new content. Label-only attribution: `ai_system` held (claude-opus-4-6) per task directive; `ai_modified` bumped from live `date -u` (2026-08-13T16:08:30+00:00, strictly past). Both trees synced by hand (hugo mirror clause identical — no wikilinks in the clause; `lastmod` brought in line with the new `ai_modified` per derive_lastmod's cascade) to avoid full-tree sync during concurrent agent activity. Residue sweep on "undetectability are compatible" across obsidian/, hugo/content/, archive/: hits confined to workflow/ + reviews/ (task text and audit/review quotes — echo, not defect).
+- **Published**: yes
 
 ## 2026-08-13 15:41 UTC - deep-review
 

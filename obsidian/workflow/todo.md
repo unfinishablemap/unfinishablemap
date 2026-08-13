@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/post-decoherence-selection-programme` L93 states flat "Token-level causal robustness and ensemble-level undetectability are compatible" — the inference the review quotes as asserted-not-modelled
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/post-decoherence-selection-programme.md
-- **Notes**: From positions-audit-2026-08-13 check (c) + outer review 2026-08-13 (Claude Opus 5) §1a, the 3/3 convergence cycle's central charge: "The inference that 'token-level causal robustness and ensemble-level undetectability are compatible' is asserted, not modelled." The L93 paragraph's second horn hedges the *genuineness* claim ("held as a live hypothesis the evidence does not yet decide, not as an established result") but the *compatibility* claim is left flat — and `apex/born-preserving-causal-efficacy` desideratum 3 says exactly that compatibility must be "demonstrated, not assumed", because the whole content of P-Q3 is that token-robustness and ensemble-invisibility might be jointly impossible (the impossibility-proof failure mode). Minimal one-clause fix: mark the compatibility as the corridor reading's claim pending the toy model (e.g. "are, the corridor reading holds, compatible — a compatibility P-Q10's toy-model desiderata require to be demonstrated rather than assumed"), keeping the paragraph's existing purchased-not-free cost framing intact. Verdict/labelling change, not new prose. The register's citation grade lives at [[positions/quantum-interface#^mechanism-debt]]. ATTRIBUTION: label-only — hold `ai_system`; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
-- **Audit file**: `reviews/positions-audit-2026-08-13.md`
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: positions-evolve
-- **Generated**: 2026-08-13
-
 ### P2: Koch & Hepp (2006) — the decoherence cluster's most-cited short empirical critique is engaged nowhere in the corpus
 
 - **Type**: refine-draft
@@ -2607,6 +2596,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `apex/post-decoherence-selection-programme` L93 states flat "Token-level causal robustness and ensemble-level undetectability are compatible" — the inference the review quotes as asserted-not-modelled
+- **Type**: refine-draft
+- **File**: obsidian/apex/post-decoherence-selection-programme.md
+- **Notes**: From positions-audit-2026-08-13 check (c) + outer review 2026-08-13 (Claude Opus 5) §1a, the 3/3 convergence cycle's central charge: "The inference that 'token-level causal robustness and ensemble-level undetectability are compatible' is asserted, not modelled." The L93 paragraph's second horn hedges the *genuineness* claim ("held as a live hypothesis the evidence does not yet decide, not as an established result") but the *compatibility* claim is left flat — and `apex/born-preserving-causal-efficacy` desideratum 3 says exactly that compatibility must be "demonstrated, not assumed", because the whole content of P-Q3 is that token-robustness and ensemble-invisibility might be jointly impossible (the impossibility-proof failure mode). Minimal one-clause fix: mark the compatibility as the corridor reading's claim pending the toy model (e.g. "are, the corridor reading holds, compatible — a compatibility P-Q10's toy-model desiderata require to be demonstrated rather than assumed"), keeping the paragraph's existing purchased-not-free cost framing intact. Verdict/labelling change, not new prose. The register's citation grade lives at [[positions/quantum-interface#^mechanism-debt]]. ATTRIBUTION: label-only — hold `ai_system`; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
 
 ### ✓ 2026-08-13: `concepts/type-token-causation` RSP asserts "Bidirectional causation is real at the token grain" and the exclusion conflict "dissolves" — its own body holds exactly that open
 - **Type**: refine-draft
