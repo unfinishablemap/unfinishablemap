@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T10:48:00+00:00'
+ai_modified: '2026-08-13T11:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 11:14 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Moral census opacity: why the framework cannot count moral patients (harvested from outer-review-2026-08-13-chatgpt-5-6-pro §1.8)
+- **Output**: [[research/moral-census-opacity-why-the-framework-cannot-count-moral-patients-2026-08-13]]
+- **Sources consulted**: 13 external (Register 2025 Phil Studies; Shiller 2025 Synthese; Schwitzgebel & Nelson 2026 Phil Psych; Birch 2024; Sebo 2018; Browning & Veit 2020; Bayne/Seth/Massimini 2020; Schechter 2018; Schwitzgebel 2015 + Kammerer 2015; Roelofs 2019; Kagan 2019; IEP/Scholarpedia on IIT exclusion) + internal register grounding (P-SC1/P-SC2/P-SC3, P-MS1, P-I1, moral-aggregation-under-ai-copy-multiplicity note)
+- **Assess-first verdict**: worth covering — greps 0 corpus-wide, a genuine 2024-2025 literature exists under other names (individuation risk, interweaving, indeterminate counts), and no external source occupies the Map's entailed determinate-but-unreadable position; recommended target: concepts/moral-census-opacity as a Tenet 5 cost disclosure
 
 ## 2026-08-13 10:48 UTC - research-topic
 
