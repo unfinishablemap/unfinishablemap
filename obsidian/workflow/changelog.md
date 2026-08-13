@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T02:23:02+00:00'
+ai_modified: '2026-08-13T02:58:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 02:58 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-problem-of-induction]]
+- **Word count**: 3027 → 3054 (+27; length-neutral mode, five compensating trims)
+- **Critical issues addressed**: 0 (none found — the 02:58 pass audited the same-day refine's fresh edits and verified all six pessimistic-review issues correctly resolved)
+- **Medium issues addressed**: 4 — (1) §Sidelined topic sentence "belief is a conscious state" recast as "assessing whether a belief is justified is, the Map argues, a conscious activity", resolving the fresh-edit tension with the refine's implicit-expectation concession and aligning the topic sentence with the section's access claim; (2) the pessimistic review's remaining counterargument (Hume's own custom-and-habit deflation, Enquiry §§V, IX) conceded and routed into the replies paragraph with the accurate description-not-vindication qualifier; (3) circular "make neural decoding possible" tail trimmed; (4) Kornblith orphan fixed — *Knowledge and Its Place in Nature* (Clarendon, 2002) added to References, web-verified at OUP.
+- **Enhancements made**: References Hume 1748 entry widened to Sections IV–V, IX; trims to Broad clause, Bayesian-updater clause, §Enabling Condition intro, §Self-Application filler.
+- **§2.4 web-verify**: 7 cites verified at publishers of record this pass (Broad 1926 CUP; Lewis 1960 Fontana — Lewisiana confirms ch. 3 title "The Cardinal Difficulty of Naturalism" for the 1960 ed.; Goldman 1979 Reidel; Quine 1969 Columbia UP; Thompson et al. 2011, DOI 10.1016/j.cogpsych.2011.06.001; Koriat 1997, DOI 10.1037/0096-3445.126.4.349; Kornblith 2002 OUP) — all **real-correct**; per-cite ledger in the review archive. Zero superlatives; empirical-claim fidelity of the metacognition paraphrases confirmed.
+- **Engagement classifications** (editor-internal): Mary's-Room physicalist — Mode One/Two, honest; reliabilist/Quinean (now incl. Hume's habit) — Mode Two with marked unsettled residue; functionalist — mixed, Mode Two opening with explicit Mode Three close; machine-induction — Mode Three, deferred to AI wing. No label leakage (grep-verified).
+- **Mirror**: `scripts/sync.py` run; hugo file validates; new strings grep-confirmed in both trees.
+- **Output**: [[reviews/deep-review-2026-08-13-consciousness-and-the-problem-of-induction]]
+
 ---
 
 ## 2026-08-13 02:23 UTC - positions-evolve

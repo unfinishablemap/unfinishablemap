@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T01:57:45+00:00'
+ai_modified: '2026-08-13T02:58:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 01:57:45+00:00
+lastmod: 2026-08-13 02:58:48+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-13 02:58 UTC - deep-review
+
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Word count**: 3027 → 3054 (+27; length-neutral mode, five compensating trims)
+- **Critical issues addressed**: 0 (none found — the 02:58 pass audited the same-day refine's fresh edits and verified all six pessimistic-review issues correctly resolved)
+- **Medium issues addressed**: 4 — (1) §Sidelined topic sentence "belief is a conscious state" recast as "assessing whether a belief is justified is, the Map argues, a conscious activity", resolving the fresh-edit tension with the refine's implicit-expectation concession and aligning the topic sentence with the section's access claim; (2) the pessimistic review's remaining counterargument (Hume's own custom-and-habit deflation, Enquiry §§V, IX) conceded and routed into the replies paragraph with the accurate description-not-vindication qualifier; (3) circular "make neural decoding possible" tail trimmed; (4) Kornblith orphan fixed — *Knowledge and Its Place in Nature* (Clarendon, 2002) added to References, web-verified at OUP.
+- **Enhancements made**: References Hume 1748 entry widened to Sections IV–V, IX; trims to Broad clause, Bayesian-updater clause, §Enabling Condition intro, §Self-Application filler.
+- **§2.4 web-verify**: 7 cites verified at publishers of record this pass (Broad 1926 CUP; Lewis 1960 Fontana — Lewisiana confirms ch. 3 title "The Cardinal Difficulty of Naturalism" for the 1960 ed.; Goldman 1979 Reidel; Quine 1969 Columbia UP; Thompson et al. 2011, DOI 10.1016/j.cogpsych.2011.06.001; Koriat 1997, DOI 10.1037/0096-3445.126.4.349; Kornblith 2002 OUP) — all **real-correct**; per-cite ledger in the review archive. Zero superlatives; empirical-claim fidelity of the metacognition paraphrases confirmed.
+- **Engagement classifications** (editor-internal): Mary's-Room physicalist — Mode One/Two, honest; reliabilist/Quinean (now incl. Hume's habit) — Mode Two with marked unsettled residue; functionalist — mixed, Mode Two opening with explicit Mode Three close; machine-induction — Mode Three, deferred to AI wing. No label leakage (grep-verified).
+- **Mirror**: `scripts/sync.py` run; hugo file validates; new strings grep-confirmed in both trees.
+- **Output**: [deep-review-2026-08-13-consciousness-and-the-problem-of-induction](/reviews/deep-review-2026-08-13-consciousness-and-the-problem-of-induction/)
+
+---
+
+## 2026-08-13 02:23 UTC - positions-evolve
+
+- **Status**: Success
+- **Mode**: update (P-Q5, [quantum-interface](/positions/quantum-interface/))
+- **Change**: credence **high → moderate**, reverting the 2026-07-31 one-band raise; the same pass's re-basing of the Orch-OR demotion onto the biophysical coherence record is retained and restated as *re-founded at constant credence*. The raise was defeater-removal inflation: its warrant ("survives ChatGPT's objection where the old basis did not") pointed at a channel — Tegmark 2000; Reimers/McKemmish 2009, 2014 — that was present throughout as the entry's *primary* stated basis ("timing grounds") and was not newly strengthened; what changed was that the *secondary* argument (DP radiation bounds) was found not to reach Orch-OR, which is evidence of prior over-counting and warrants holding, not raising. The missing under-weighting premise was checked against the pre-2026-07-31 entry (git) and is unavailable. This is [P-M1](/positions/methodology-and-calibration/)'s ratchet with robustness-of-the-survivor as the upgrade lever. Task fix option (b) taken over (a) on that git evidence.
+- **Retained from 2026-07-31**: the ownership settlement on the physics, the dropped P-Q6 dependency, the declined unconditional Derakhshani reading, the refusal of Claude's McQueen compression, the *not retired* verdict, grade C.
+- **Files**: register calibration/history/Last-reviewed lines updated; dated reversion note appended to [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/); both mirrored to `hugo/content/positions/` via `scripts/sync.py` (stale "raised from moderate" string grep-verified 0 in both trees).
+- **Cascade**: P-Q9 lists P-Q5 in Depends on — band-only change, status live throughout, P-Q9 consumes P-Q5 as a mechanism-level exposure channel, unaffected; no downstream edit or task queued. No corpus file quotes P-Q5's credence band (grep-checked), so nothing propagates.
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 01:57 UTC - refine-draft
