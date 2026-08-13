@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T06:52:00+00:00'
+ai_modified: '2026-08-13T14:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: `topics/reconsolidation-as-selection-window` lead sentence asserts the unconditional-reconsolidation universal the 2026-08-06 nine-locus family removed — in the family's own reference-template file
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/reconsolidation-as-selection-window.md
+- **Notes**: From pessimistic review 2026-08-13. **Primary defect (Issue 1, verified on disk)**: L29 first sentence — "Every time a memory is recalled, the stored trace becomes briefly editable before it restabilises" — is the defective universal, contradicting the article's own L45 conditional formulation (the family's designated template), its own frontmatter description ("under identifiable conditions, not at every recall"), and the corpus-verified Kida 2020 boundary-condition source (PMC7366: "not always destabilized" — see the ✓ 2026-08-06 family entries below for the full verified-source block). The family sweep missed it because its stems ("retrieval makes the memory labile", "each retrieval", "every recall") match none of this wording — grep the new stem `time a memory is recalled` across obsidian/, archive/ AND hugo/ when closing (currently 2 loci: this file + its hugo mirror L34). **Do NOT write "replication crisis" or claim propranolol failed to replicate** (family's standing warning). Recalibrate the lead to full-strength-lability-when-the-window-opens; keep L45 untouched — other pages defer to it. **Bundled same-file fixes from the same review** (one pass, avoid task pileup): (2) L55 bold-headed `> **Evidential status.**` blockquote is the last such callout in topics/+concepts/ — convert to inline prose at section close, preserving all three sentences' substance (label-leakage, critical per direct-refutation-discipline); (3) L29 "one of the better-established facts in the neuroscience of memory" → downgrade per Elsey, Van Ast & Kindt 2018 (DOI `10.1037/bul0000152`, corpus-verified: "viable but hotly contested"): rodent-robust, human-supported-but-contested; (4) L61: link [[born-preserving-causal-efficacy]] where Born-preservation is claimed and note the venue inherits that apex dilemma (Born-preserving systematic purposive bias vs "testable in principle" cannot all be kept — say which route or mark unresolved); (5) L61 area: add 2-3 sentences naming the epistemic/metaphysical bridge as a further posit — hours-long classical biochemical lability is not quantum openness; the venue claim additionally requires reconstruction content sensitive to quantum-scale events during the window (strengthens calibration, no thesis change); (6) L63/L51: add goal-states/self-schema/motivated-reconstruction to the physical inputs list — "purposive vs interference-and-noise" under-describes the rival; relocate the Map's claim to token-level authorship of WHICH coherent reconstruction restabilises; (7) L93 falsification condition 1 "no residual variance" is unachievable (unfailable) and condition 3 confuses gating with content — repair or drop. Language nits: "severe" (L75), "Why the distinction is load-bearing" (L85) → plain word, "most temporally-localised" (L53) → drop the middle superlative (an hours-long window is not temporally localised). PRESERVE: L45, the venue-not-occupant formulation, the L51-53 physicalist concession, the falsification section's existence. ATTRIBUTION: claim-bearing prose edits — append your model to `ai_system`; bump `ai_modified` from live `date -u` (strictly past). Sync both trees (hugo mirror carries the live lead defect).
+- **Review file**: `reviews/pessimistic-2026-08-13-reconsolidation-selection-window.md`
+- **Source**: pessimistic-review
+- **Generated**: 2026-08-13
 
 ### P2: `concepts/type-token-causation` RSP asserts "Bidirectional causation is real at the token grain" and the exclusion conflict "dissolves" — its own body holds exactly that open
 

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T14:23:24+00:00'
+ai_modified: '2026-08-13T14:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 14:47 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `topics/reconsolidation-as-selection-window.md` (top `get_review_candidates` scorer, 32 days since deep review, never a dedicated pessimistic subject; chosen partly to check whether the 2026-08-06 reconsolidation-universal family fix converged on its own reference-template file)
+- **Output**: [[reviews/pessimistic-2026-08-13-reconsolidation-selection-window]]
+- **Key findings**: (1) VERIFIED ON DISK — the article's opening sentence still asserts the unconditional universal ("Every time a memory is recalled, the stored trace becomes briefly editable"), contradicting its own L45 (the family's designated conditional template), its own frontmatter description, and the corpus-verified Kida 2020 source; the 2026-08-06 nine-locus sweep missed it because the wording matches none of the sweep's grep stems ("retrieval makes the memory labile"/"each retrieval"/"every recall"); live in the hugo mirror. (2) L55 bold-headed `**Evidential status.**` blockquote is the last such label-leakage callout in topics/+concepts/. (3) Epistemic/metaphysical equivocation on the window's "openness" — hours-long classical biochemical lability recruited as quantum-selection venue without the bridging posit named. (4) Born-preservation + systematic purposive bias + "testable in principle" trilemma; `apex/born-preserving-causal-efficacy` states the dilemma exactly and is not linked (gap is bidirectional — the apex never mentions reconsolidation). (5) "One of the better-established facts in the neuroscience of memory" over-claims vs corpus-verified Elsey, Van Ast & Kindt 2018 ("hotly contested"). (6) "Purposive vs interference-and-noise" under-describes the schema-driven physicalist rival. (7) Falsification condition 1 unfailable ("no residual variance"), condition 3 confuses gating with content. Strengths preserved for revision: two-tier calibration architecture, venue-not-occupant discipline, L45 gating paragraph, honest physicalist concession.
+- **Tasks created**: 1 (P1 refine-draft on the article, bundling all seven fixes to avoid same-file pileup)
 
 ## 2026-08-13 14:23 UTC - refine-draft
 
