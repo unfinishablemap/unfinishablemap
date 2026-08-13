@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-03 08:44:28+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-13 02:23:02+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[post-decoherence-selection]]'
@@ -17,7 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-03 08:44:28+00:00
+lastmod: 2026-08-13 02:23:02+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -94,13 +94,13 @@ These positions cover what the Map currently holds about the mechanism by which 
 ## P-Q5: Orch-OR is currently demoted relative to post-decoherence selection
 
 - **Status**: live
-- **Calibration**: credence high (raised from moderate 2026-07-31, the demotion having been re-based; see history) · external-evidence grade C · structural centrality low · model maturity programme · empirical discriminability indirect · framework-internal only: no
+- **Calibration**: credence moderate (the 2026-07-31 re-basing is held at *constant* credence — a 2026-08-13 review reverted that pass's one-band raise as defeater-removal inflation; see history) · external-evidence grade C · structural centrality low · model maturity programme · empirical discriminability indirect · framework-internal only: no
 - **Asserts**: Penrose-Hameroff Orchestrated Objective Reduction is ranked below post-decoherence selection and is not retired. The demotion rests on the biophysical coherence record — Tegmark (2000), and Reimers, McKemmish and colleagues (2009, 2014) finding the revised Hagan-Hameroff-Tuszyński (2002) parameters either unphysical or descriptive of regimes microtubules do not occupy in living tissue — and *not* on the underground radiation bounds, which test a Poissonian, Markovian Diósi-Penrose completion Orch-OR never specified. That leaves Orch-OR untested on the radiation channel rather than constrained, and untested *because* underspecified, which is not a point in its favour. Derakhshani et al.'s (2022) "highly implausible in all the cases analyzed" verdict is likewise conditional on a DP pairing its own authors say further-modified collapse models could reopen.
 - **Depends on**: P-Q1, plus the coherence-feasibility record cited above. **Not P-Q6** — the radiation bounds do not reach this position
 - **Argued in**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
 - **Would shift if**: a microtubule coherence-time model lands and survives review, which would re-elevate the family; or Orch-OR is supplied with the collapse dynamics it currently lacks, at which point the radiation bounds would bear on it directly; or Orch-OR develops a specific neural signature that post-decoherence selection does not predict. Retiring it would take the coherence question closed negatively, not merely the DP pairing constrained.
-- **Calibration history**: [note of 2026-07-31](/positions/quantum-interface-calibration-history/#p-q5) — the three-reviewer disagreement over whether the tested dynamics were ever Orch-OR's to own, and why re-basing raised credence.
-- **Last reviewed**: 2026-07-31
+- **Calibration history**: [notes of 2026-07-31 and 2026-08-13](/positions/quantum-interface-calibration-history/#p-q5) — the three-reviewer disagreement over whether the tested dynamics were ever Orch-OR's to own; the re-basing of the demotion onto the coherence record; and the reversion of that pass's credence raise, the basis having been re-founded at constant credence.
+- **Last reviewed**: 2026-08-13
 
 ## P-Q6: The parameter-free Diósi-Penrose model has been empirically falsified
 

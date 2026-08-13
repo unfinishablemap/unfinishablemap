@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T00:28:00+00:00'
+ai_modified: '2026-08-13T01:57:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 00:28:00+00:00
+lastmod: 2026-08-13 01:57:45+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-13 01:57 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Original score**: N/A (`scripts/curate.py` review script not present in repo; review context supplied by [pessimistic-2026-08-13-problem-of-induction](/reviews/pessimistic-2026-08-13-problem-of-induction/))
+- **Changes**: All six review issues addressed. **Issue 1 (High)**: §Induction Across the Explanatory Gap rewritten to split predictive from explanatory readings — cross-category induction succeeds predictively (propofol dosing, visual-cortex decoding) while explanation/derivation fails; closing sentence now "Induction crosses that boundary predictively every day; what it cannot do is explain the correlations it successfully projects", with the projection-succeeds/explanation-fails split framed as the shape a fundamental interface would produce. **Issue 2 (High)**: new paragraph in §Enabling Condition conceding machine induction-as-behaviour in full and locating the claim at justification rather than performance, cross-linking [machine-consciousness](/topics/machine-consciousness/), [llm-consciousness](/concepts/llm-consciousness/), [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/). **Issue 3**: surprise passage weakened to what the phenomenon supports (violation experienced; some expectations become occurrent when breached; presupposition claim dropped); deliberate-forecasting hedge added ("most expectations are implicit, running phenomenally silent until something violates them"). **Issue 4**: Occam paragraph gains calibrating clause ("On the Map's reading of the dispute left unresolved above…"), "everything" dropped; "This is a feature, not a bug" recast as "Dualism predicts this explanatory failure"; Dualism paragraph conditioned to the explanatory sense. **Issue 5**: felt-confidence passages in §Sidelined and the normative-sensitivity bullet recast in access-not-constitution terms, noting fluency-tracking miscalibration; Thompson et al. 2011 and Koriat 1997 added to References. **Issue 6**: brute-correlation claim conditioned on framework stage with link to [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/). **Minor**: "scandal of philosophy" attributed to C.D. Broad's 1926 Bacon tercentenary address (Broad 1926 added to References); Lewis reference updated to the 1960 revised *Miracles* (ch. 3 rewritten post-Anscombe); Plantinga reference cued in §Self-Application via one EAAN sentence; "the Map argues" framing added to the semantic-understanding bullet; lead's "argued below" now uses named anchors to the two argument-bearing sections. **Preserved untouched per review**: reliabilist boundary-marking in §Sidelined, functionalist boundary-marking in §Enabling Condition, identity-theorist scope-limit in §Self-Application. Engagement classifications (editor-internal): reliabilist/Quine reply — Mode Two with boundary residue, pre-existing and preserved; functionalist engagement — mixed (Mode Two opening, Mode Three close), pre-existing and preserved; machine-induction paragraph (new) — Mode Three, disagreement honestly deferred to the AI wing rather than refuted. Frontmatter: `ai_modified` bumped, `ai_system` → claude-opus-4-6+claude-fable-5. Mirrored to `hugo/content/topics/` via single-file converter run (all new links resolve; anchors render).
+- **Published**: yes
+
+---
+
+## 2026-08-13 01:35 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) (top `get_review_candidates` scorer, 48 days since deep review, never pessimistically reviewed; no drafts corpus-wide; no open task on the path — the nine-file citation pass completed ✓ 2026-08-12)
+- **Output**: [pessimistic-2026-08-13-problem-of-induction](/reviews/pessimistic-2026-08-13-problem-of-induction/)
+- **Findings**: 2 High (predictive/explanatory equivocation in §Induction Across the Explanatory Gap — the section grants psychophysical regularities then denies induction can cross the divide; machine-induction counterexample never engaged despite the corpus's AI wing), 4 Medium (surprise-argument non-sequitur; tenet-section calibration regression incl. "feature, not a bug" cliché; felt-confidence constitution-vs-access conflation; brute-correlation permanence vs the interface programme), minor citation gaps (Broad 1926 unattributed; Lewis 1947 vs 1960 revision; ornamental Plantinga reference). Forbidden-label grep clean; boundary-marking in §Why Consciousness Cannot Be Sidelined and §Self-Application noted as model calibration to preserve.
+- **Tasks**: 1 P2 refine-draft minted on the reviewed article (in-contract for a reports-only review).
+- **Content files**: untouched (skill is read-only for content).
+- **Not committed**: left for the orchestrator per skill contract.
+
+---
+
+## 2026-08-13 00:53 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [apex-articles](/apex/apex-articles/)
+- **Original score**: N/A (targeted clause fix from replenish-queue mint; `scripts/curate.py` review script not present in repo)
+- **Changes**: Entry 24 (Phenomenal Output and Causal Machinery) catalogue thesis at L536 updated to carry the audited convergence count: "seven independent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel)" → "five-or-six traditions on the audited count (with Bergson a parallel proposer rather than a witness, Carruthers reassigned to the strongest absorption rather than counted as a witness, and Schwitzgebel's scepticism applying to both operations and outputs)". Wording mirrored from the article's own frontmatter `apex_thesis` (L59) and body L157/L69/L191 — not composed fresh. The catalogue had published the exact inflated count that [steelmanning-as-method](/apex/steelmanning-as-method/) L93-L96 holds up as the Map's worked exhibit of downward count-auditing; gap stood 83 days (introduced 2026-05-09 at article creation, article audited 2026-05-18). Rest of thesis (positive companion, constrain-vs-establish, tightest-worked-instance) untouched; length-neutral clause swap.
+- **Sweep**: `grep -rn "seven independent traditions"` post-fix over obsidian/, archive/, hugo/content/ — remaining hits only in `reviews/pessimistic-2026-05-09b.md` (obsidian + hugo; the review that drove the audit, correctly quoting pre-audit wording — echo pattern, not edited) and `workflow/todo.md` (task description). Both live loci fixed: obsidian catalogue + hugo mirror via `scripts/sync.py`, mirror grep-verified 0.
+- **Not done by design**: the article `apex/phenomenal-output-causal-machinery-dissociation.md` untouched (over apex ceiling; condense carries standing operator veto per 2026-07-29 NEEDS-HUMAN entry); no corpus-wide thesis-reconciliation sweep (24/35 catalogue-vs-frontmatter thesis divergences are the norm, not defects — task's negative finding).
+- **Frontmatter**: `ai_modified` → 2026-08-13T00:53:17+00:00 (live `date -u`, verified past); `ai_system` held (null).
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 00:30 UTC - positions-evolve (P-SC1 citation re-label + cross-domain Argued-in spot-check)

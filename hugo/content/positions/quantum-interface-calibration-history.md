@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-29
-ai_modified: 2026-07-31 08:09:00+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-13 02:23:02+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -13,7 +13,7 @@ description: 'Relocated calibration audit trail for the quantum-interface positi
 draft: false
 human_modified: 2026-07-29
 last_curated: null
-lastmod: 2026-07-31 08:09:00+00:00
+lastmod: 2026-08-13 02:23:02+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -66,6 +66,7 @@ Orch-OR is currently demoted relative to post-decoherence selection.
 - **The ownership question was settled first, and ChatGPT has the better of it.** Penrose supplies a decay timescale (τ ≈ ℏ/E_Δ), not a stochastic collapse dynamics; Donadi et al. assume Poissonian collapse to derive the master equation their radiation rate comes from. Orch-OR never committed to that completion, so the underground bounds do not reach it, and this entry no longer depends on P-Q6. But non-ownership is exemption from the test, not credit for passing it — as that reviewer also grants, it "exposes how underspecified its collapse dynamics is". Orch-OR is untested on that channel *because* underspecified, so the re-scoping does not raise it.
 - **What survives the dispute is the coherence channel**, independent of which dynamics completes DP: Tegmark (2000), and the Reimers/McKemmish assessments (2009, 2014) of the Hagan-Hameroff-Tuszyński (2002) reply. That record now carries the demotion in place of "timing grounds" loosely construed, and because it survives ChatGPT's objection where the old basis did not, credence rises a band. Grade held at **C** — peer-reviewed and multi-group, but calculational and still disputed by Hameroff's group.
 - **Retained deliberately**: the *not retired* verdict. A microtubule coherence-time result would re-elevate the family, and Derakhshani et al.'s "highly implausible in all the cases analyzed" is conditional on the atomic-scale DP pairing its own authors say further-modified collapse models could reopen — so Gemini's unconditional reading of it is not adopted. Claude's compression "the tested variant was never advocated by anyone" is that reviewer's wording, not McQueen's, and is quoted nowhere in the register.
+- **Updated 2026-08-13**: credence **high → moderate** — the 2026-07-31 raise is reverted, and the re-basing restated as *re-founded at constant credence*. The raise's stated warrant was that the coherence channel "survives ChatGPT's objection where the old basis did not". But that channel — Tegmark (2000); Reimers/McKemmish (2009, 2014) on Hagan-Hameroff-Tuszyński (2002) — was present throughout and was not newly strengthened by anything in the 2026-07-31 pass; the pre-revision entry had already named "timing grounds" as the demotion's primary basis, with the radiation bounds secondary ("constraining but not fatal"). What changed on 2026-07-31 is that the secondary argument was found not to reach Orch-OR at all. Discovering that one of two supporting arguments never applied is evidence of prior over-counting, which warrants holding or lowering, not raising. Raising would need the further premise that the survivor had been *under-weighted* while the inapplicable argument did visible work — and that premise is unavailable here, the survivor having carried the demotion by name all along. This is [P-M1](/positions/methodology-and-calibration/)'s ratchet (defeater-removal never upgrades an evidential tier) reappearing with robustness-of-the-survivor as the upgrade lever; the same pass had itself stated the blocking principle — "non-ownership is exemption from the test, not credit for passing it" — and the upgrade sat oddly against it. **Everything else in the 2026-07-31 note stands**: the ownership settlement on the physics rather than by count, the dropped P-Q6 dependency, the declined unconditional reading of Derakhshani et al., the refusal to quote Claude's compression of McQueen, and the *not retired* verdict. Only the band-move is undone.
 
 ## P-Q6
 

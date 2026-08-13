@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T01:57:45+00:00'
+ai_modified: '2026-08-13T02:23:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 02:23 UTC - positions-evolve
+
+- **Status**: Success
+- **Mode**: update (P-Q5, [[positions/quantum-interface]])
+- **Change**: credence **high → moderate**, reverting the 2026-07-31 one-band raise; the same pass's re-basing of the Orch-OR demotion onto the biophysical coherence record is retained and restated as *re-founded at constant credence*. The raise was defeater-removal inflation: its warrant ("survives ChatGPT's objection where the old basis did not") pointed at a channel — Tegmark 2000; Reimers/McKemmish 2009, 2014 — that was present throughout as the entry's *primary* stated basis ("timing grounds") and was not newly strengthened; what changed was that the *secondary* argument (DP radiation bounds) was found not to reach Orch-OR, which is evidence of prior over-counting and warrants holding, not raising. The missing under-weighting premise was checked against the pre-2026-07-31 entry (git) and is unavailable. This is [[positions/methodology-and-calibration|P-M1]]'s ratchet with robustness-of-the-survivor as the upgrade lever. Task fix option (b) taken over (a) on that git evidence.
+- **Retained from 2026-07-31**: the ownership settlement on the physics, the dropped P-Q6 dependency, the declined unconditional Derakhshani reading, the refusal of Claude's McQueen compression, the *not retired* verdict, grade C.
+- **Files**: register calibration/history/Last-reviewed lines updated; dated reversion note appended to [[positions/quantum-interface-calibration-history]]; both mirrored to `hugo/content/positions/` via `scripts/sync.py` (stale "raised from moderate" string grep-verified 0 in both trees).
+- **Cascade**: P-Q9 lists P-Q5 in Depends on — band-only change, status live throughout, P-Q9 consumes P-Q5 as a mechanism-level exposure channel, unaffected; no downstream edit or task queued. No corpus file quotes P-Q5's credence band (grep-checked), so nothing propagates.
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 01:57 UTC - refine-draft
