@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T08:42:26+00:00'
+ai_modified: '2026-08-13T09:11:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 09:11 UTC - coalesce
+
+- **Status**: Success (reasoned abandon — no merge; expected steady-state outcome at this corpus maturity)
+- **Section pressure measured** (`tools.evolution.state.count_section_files`): topics 319/320, voids 99/100, concepts 315/320, positions 15/80.
+- **Angle 1 — shared `coalesced_from` ancestry, re-run**: same 4 sibling pairs as 2026-08-12. Three remain age-floor-blocked (attention-as-interface 08-07; split-brain-consciousness 08-08; binding-problem 08-07 + unity-of-consciousness 08-08 — eligible from ~08-14/15). The eligible pair [[concepts/anoetic-noetic-autonoetic-consciousness]] + [[concepts/episodic-memory]] was independently re-derived and declined on the same grounds the 2026-08-12 entry recorded as a **durable structural decline** (mutual deferral installed both directions; merged ~5,963w vs 3,500w ceiling). Confirms that record; future runs should skip it without re-deriving.
+- **Angle 2 — TF-IDF (2–8% df, boilerplate stripped) over topics/+voids/+concepts/** — a broader sweep than 2026-08-12's topics/+voids/-only run, surfacing cross-section pairs that run did not evaluate. Three new pairs, all declined: (1) [[concepts/selection-only-channel]] + [[topics/selection-only-mind-influence]] (0.594): deliberate companion pieces — channel-formalism reframing vs strict-reading exposition with empirical signatures; the concept's own description names itself "Information-channel framing of selection-only mind-influence"; carries "What the Channel Is Not"; merged ~6,144w prose (`analyze_length`). (2) [[concepts/consciousness-physics-interface-formalism]] + [[topics/mathematical-structure-of-the-consciousness-physics-interface]] (0.558): requirements-spec ("components any theory must satisfy") vs corridor-argument narrative; created a day apart (03-19/03-18), a deliberate split at birth; merged ~6,376w. (3) [[concepts/biological-computationalism]] + [[topics/biological-computationalisms-inadvertent-case-for-dualism]] (0.628, top score): textbook exposition↔Map-response role split; merged ~5,628w. Also in the top ranks: luck-objection + quantum-indeterminacy-free-will (0.574, adjudicated 2026-07-30, dedupe-by-deferral P2 already minted) and aphantasia + imagery-void (0.486, declined 2026-08-12; re-checked — explicit mutual deferral, void is three-faced and broader than the condition).
+- **Verbatim-duplication scan (12-grams, apparatus stripped) on the three new pairs**: 23 / 30 / **246** shared 12-grams. The 246 (selection-only pair, 11 passages, ~378w) is **NOT a dedupe-by-deferral candidate**: the dominant passages (~256w) are the two "Withdrawn: …" notices at `selection-only-channel.md:76` and `selection-only-mind-influence.md:77` — deliberately parallel withdrawals of the invalid zero-throughput derivation, each calibrated to its own article's formula, with the topic article explicitly naming "The parallel withdrawal on the companion concept page." That is the correction-propagation discipline the 2026-08-03 convergent reviews demanded; cutting one side would regress it. The cluster is also operator-reserved (the 2026-08-03 convergence cluster in todo.md says DO NOT mint from it) and `selection-only-channel.md:73` is already individually tasked. Residual ~120w are 12–26w canonical doctrine formulations (house phrasing, not duplicated argument). The 23/30-gram overlaps in the other two pairs are likewise shared tenet formulations. **No task minted; recorded so future duplication sweeps don't re-derive this.**
+- **Merged**: nothing. **Archived**: nothing. **Tasks minted**: none.
 
 ## 2026-08-13 08:42 UTC - positions-evolve
 
