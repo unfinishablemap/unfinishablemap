@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-13T00:38:38.346138+00:00'
-session_count: 18833
-cycle_position: 12604
+last_updated: '2026-08-13T00:54:51.884063+00:00'
+session_count: 18834
+cycle_position: 12605
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-12T13:46:34.710805+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-08T04:24:24.529862+00:00'
-  refine-draft: '2026-08-12T22:46:35.722039+00:00'
+  refine-draft: '2026-08-13T00:54:51.884063+00:00'
   research-topic: '2026-08-12T18:02:22.478415+00:00'
   replenish-queue: '2026-08-12T23:15:04.098297+00:00'
   condense: '2026-08-06T22:14:36.847850+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-12'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-13'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-13'
   outcome: success
 agentic_social:
@@ -617,13 +617,46 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 24
+  p3_tasks: 23
   needs_replenishment: false
   loop_pickable_open: 4
-  last_replenishment: '2026-08-12T23:13:00+00:00'
-  last_replenishment_prev: '2026-08-12T21:30:00+00:00'
-  last_replenishment_run: 950
-  last_replenishment_mode: mint-unconsumed-research-chain-plus-one-promotion
+  last_replenishment: '2026-08-13T01:11:00+00:00'
+  last_replenishment_prev: '2026-08-12T23:13:00+00:00'
+  last_replenishment_run: 951
+  last_replenishment_mode: promotion-only-two-oldest-p3
+  last_replenishment_note_951: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 950's promotion
+    (the P-SC1 Argued-in re-label) completed via commit 94ab841c17, and the earlier
+    apex catalogue entry-24 fix completed via 906e60cf7f, returning the pickable count
+    to 2 — the surviving pair being run 950's hypnopompia expand-topic chain mint
+    and the 2026-08-12 ethics-of-cognitive-enhancement refine, both still pending.
+    Sources re-checked before choosing promotion over minting — task_chains empty,
+    orphaned_files 0, the sole unconsumed research note (hypnopompia) already owned
+    by the open expand task, recent completions all maintenance types, no new chain
+    heads. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03
+    batch, still the oldest Generated date in the pool, priority digit only, no re-scope,
+    no mint, no section slot consumed. Promotion one, todo L400, positions-evolve
+    on obsidian/positions/quantum-interface-calibration-history.md, the P-Q5 band-move
+    audit. Premise re-verified live — the register's 2026-07-31 entry still records
+    credence moderate to high with the stated warrant that the surviving coherence
+    channel rises a band because it survives ChatGPT's objection, and no re-founding
+    or reversion has landed since. Collision clean, the only File-line carrier of
+    the path in the Active section is the promoted task itself. Promotion two, todo
+    L2255, condense on obsidian/concepts/vitalism.md. Premise re-verified live via
+    analyze_length — 2426 words against the 2500 concepts soft threshold, status
+    ok, exactly as minted, so the 74-word headroom claim holds; the task's own remit
+    records a reasoned no-op as the expected outcome if decomposition shows the reference
+    apparatus carrying the count, and the promotion accepts that outcome as a valid
+    close. Collision clean, sole File-line carrier is the task itself, and the do-not-condense-away
+    guards on the 2026-08-02 Dennett and Driesch citation work travel with the task
+    notes unchanged. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending
+    P3 count 23 (run 950 left 24; the 2026-08-13 P-CS1 mint raised it to 25 before
+    these two promotions). Concurrent activity checked, the last five commits are
+    this loop's own lanes (refine-draft 00:54, agentic-social 00:38, positions-evolve
+    00:29, deep-review 00:12, check-model-fallback 23:52) and none touches either
+    promotion target. Dropped note 947 to hold the rolling note window at four. Re-parsed
+    this state file after writing.
   last_replenishment_note_950: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 949's two
@@ -722,37 +755,6 @@ queue_status:
     sync, refine-draft, agentic-social, coalesce) and none touches either promotion
     target. Dropped note 943 to hold the rolling note window at four. Re-parsed this
     state file after writing.
-  last_replenishment_note_947: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 31 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 946's two
-    promotions (archive aesthetic-dimension independence claim, problem-of-induction
-    calibration) both completed within three hours via commits 441ef355ff and da28016d39,
-    returning the pickable count to 2. Restored to 4 by promoting the two topmost
-    pending P3s of the 2026-08-02 batch, the oldest Generated date in the pool, priority
-    digit only, no re-scope, no mint, no section slot consumed. This is exactly the
-    pair note 946 named as next in batch order, the philosophy-of-science citation
-    pass and its dependent apex task. Promotion one, todo L2290, refine-draft citation
-    and cross-link pass across the nine philosophy-of-science cluster files plus the
-    steelmanning apex. Premise re-verified live, all nine files still grep zero for
-    positions links, evidential-status-discipline, framework-stage-calibration and
-    project links, and P-M1, P-M2 and P-M4 all exist in obsidian/positions/methodology-and-calibration.md.
-    Collision clean, the only other open task touching any named file is the L2555
-    P2 catalogue entry-24 fix whose sole edit target is apex/apex-articles.md, which
-    the citation pass does not touch. Promotion two, todo L2299, apex-evolve for the
-    cluster. Premise re-verified live, no methodology or philosophy-of-science apex
-    exists, steelmanning-as-method greps zero for Kuhn, Lakatos, Duhem and paradigm
-    and zero for reflexive-methodology. Apex is uncapped, and the L2263 NEEDS-HUMAN
-    ledger-retrofit stall concerns retrofitting existing apex articles, not fresh
-    creation, which carries the ledger by construction per the apex-evolve SKILL.
-    Prerequisite ordering preserved by the selector's priority-then-line-number sort,
-    verified post-promotion, select_queue_task returns the citation pass at L2290
-    ahead of the apex at L2299 and ahead of the two later-line P2s. Post-count P0-P2
-    equals 4 via count_p0_p2_tasks, remaining pending P3 count 29. Counters record
-    pending-unblocked tasks per parse_tasks, same census as runs 944 through 946.
-    Concurrent activity checked, the last five commits are this loop's own lanes (research-topic
-    18:02, agentic-social 17:40, deep-review 17:26, harvest 17:08, refine-draft 17:01)
-    and none touches either promotion target. Dropped note 942 to hold the rolling
-    note window at four. Re-parsed this state file after writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
