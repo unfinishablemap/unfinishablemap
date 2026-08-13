@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T19:29:00+00:00'
+ai_modified: '2026-08-13T19:55:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 19:29:00+00:00
+lastmod: 2026-08-13 19:55:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 19:55 UTC - deep-review
+
+- **Status**: Success
+- **File**: [kairos](/concepts/kairos/)
+- **Word count**: 1892 → 1892 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-08-13-kairos](/reviews/deep-review-2026-08-13-kairos/)
+- **Notes**: Third review; body byte-unchanged since 2026-07-18 pass — only delta was the 2026-08-04 frontmatter fix populating `topics:`/`concepts:` (audited: bare-slug compliant, targets live; cross-section `concepts:` entries are corpus-conventional, 252/5912 precedent). §2.4 web-verify skipped per trigger rule (body and References unmodified; 2026-06-03 ledger stands). Mechanical checks clean: all 12 wikilink targets + tenet block anchor resolve; 76% of soft threshold; hugo in sync. No-op convergence confirmation: only `last_deep_review` advanced, `ai_modified` deliberately untouched.
+- **Engagement classification** (editor-internal): the functionalist (Relation to Site Perspective): Mode Three — framework-boundary disagreement noted honestly ("earns the disagreement honestly as a framework-boundary commitment"), no in-framework refutation claimed, no label leakage in prose. Unchanged from prior reviews.
+
+## 2026-08-13 19:45 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (+ required second file [split-brain-consciousness](/topics/split-brain-consciousness/); sweep also caught the archived ancestor [fragmented-consciousness](/archive/topics/fragmented-consciousness/))
+- **Original score**: n/a (`scripts/curate.py` does not exist — skill doc drift)
+- **Review context**: outer-review-2026-08-13-chatgpt-5-6-pro findings 4.7 + 4.8, both verified verbatim on disk before editing; fix follows the review's item-8 four-way separation (brain-to-experience dependence / functional separability / downward mental causation / nonphysical downward causation).
+- **Changes**:
+  - Dissociations article, Bidirectional Interaction relation entry: removed "confirm bidirectional causation"; downgraded to the body's own compatibility grade (reusing its "compatibility-grade, not vindication-grade" vocabulary); the entry now separates the four claims, credits the dissociations with the first two only, and routes the descending-direction case to the agency arguments ([motor selection](/concepts/motor-selection/), [consciousness and agency](/apex/consciousness-and-agency/)).
+  - Split-brain article, Bidirectional Interaction relation entry: deleted the false claim that epiphenomenalism predicts fragmentation "should not affect experience at all" (epiphenomenalism denies only mental-to-physical causation); reframed via the same four-way separation with links to [epiphenomenalism](/concepts/epiphenomenalism/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/).
+  - String-sibling sweep (both trees + archive) found the same epiphenomenalism error in the archived ancestor `archive/topics/fragmented-consciousness.md` L103; applied a minimal parallel correction there.
+  - Synced obsidian+archive → hugo; all three hugo mirrors verified (defect strings absent, new links resolve, frontmatter valid).
+- **Engagement classification** (editor-internal): epiphenomenalist (both files): the removed text posed as Mode One but misstated the opponent's commitments; replacement is honest boundary-marking — the evidence does not discriminate, and the downward-causation case is routed to the agency arguments rather than claimed from the clinical data. Functionalist (dissociations article): Mode Three, already present in the body; the relation section is now aligned with it. No mode labels appear in article prose.
+- **Published**: yes
 
 ## 2026-08-13 19:29 UTC - research-topic
 

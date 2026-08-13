@@ -39,16 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
-- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.7 + 4.8 — **both verified verbatim on disk**. Primary file: L179 (body) concedes both the functionalist and interface readings "predict the same dissociation phenomenology" and that adjudicating "requires evidence the dissociations alone cannot supply"; the relation section at L195 then says the ascending/descending channels "confirm bidirectional causation." Downgrade "confirm" to the body's own compatibility grade — the dissociations show independent failure of each direction's *channel*, not nonphysical downward causation. **Second file, explicit and required** (do not drop it): `obsidian/topics/split-brain-consciousness.md` L182 argues "If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all" — false as a statement of epiphenomenalism, which denies mental-to-physical causation while fully allowing brain events to shape experience. Physical-to-mental dependence does not discriminate interactionism from epiphenomenalism; reframe as the review's four-way separation (dependence / separability / downward causation / nonphysical downward causation). Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
 
 - **Type**: refine-draft
@@ -2564,6 +2554,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
+- **Type**: refine-draft
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.7 + 4.8 — **both verified verbatim on disk**. Primary file: L179 (body) concedes both the functionalist and interface readings "predict the same dissociation phenomenology" and that adjudicating "requires evidence the dissociations alone cannot supply"; the relation section at L195 then says the ascending/descending channels "confirm bidirectional causation." Downgrade "confirm" to the body's own compatibility grade — the dissociations show independent failure of each direction's *channel*, not nonphysical downward causation. **Second file, explicit and required** (do not drop it): `obsidian/topics/split-brain-consciousness.md` L182 argues "If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all" — false as a statement of epiphenomenalism, which denies mental-to-physical causation while fully allowing brain events to shape experience. Physical-to-mental dependence does not discriminate interactionism from epiphenomenalism; reframe as the review's four-way separation (dependence / separability / downward causation / nonphysical downward causation). Mirror both trees and sync.
 
 ### ✓ 2026-08-13: Research Descriptive Experience Sampling
 - **Type**: research-topic

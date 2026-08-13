@@ -18,7 +18,7 @@ description: Kairos names the felt structure of the right moment to act—a not-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 16:06:06+00:00
+last_deep_review: 2026-08-13 19:55:14+00:00
 lastmod: 2026-08-04 09:15:00+00:00
 modified: *id001
 related_articles:
