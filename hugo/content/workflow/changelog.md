@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T11:27:00+00:00'
+ai_modified: '2026-08-13T12:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 11:27:00+00:00
+lastmod: 2026-08-13 12:20:00+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-13 12:20 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Olfactory Void — smell's three stacked limits (naming, imagining, noticing absence) and its role as the catalogue's best documented calibration case for the Unexplored/Unexplorable boundary
+- **Category**: Mixed — the naming face presents as Unexplorable but is partly Unexplored; the absence face is a structural monitoring limit in the erasure family
+- **Output**: [voids-olfactory-void-2026-08-13](/research/voids-olfactory-void-2026-08-13/)
+- **Cap check**: `count_section_files('voids')` = **99** against `max_voids: 100` — one slot, research permitted (the 2026-08-06 mine-ness coalesce freed it).
+- **Gap that motivated it**: `olfact`, `smell`, and `anosmia` return **zero** hits across all 99 voids articles (the 3 `odor|odour` hits are all "Fodor" false positives); `olfactory imagery` returns zero corpus-wide; the corpus's only "Majid" is Majid D. Beni (composition cluster), not Asifa Majid's olfactory-language program; the 2026-06-16 chemosensory research note explicitly flagged anosmia phenomenology as an unexplored expansion seed.
+- **Key finding**: olfaction is the catalogue's cleanest worked example of a void that *decomposed under better sampling* — the "universal, structural" inability to name smells (Plato to Pinker, Henning 1916) proved substantially cultural when Jahai and Semaq Beri hunter-gatherers named odors as consistently as colors (Majid & Burenhult 2014, **verified at primary text**, full PDF read; Majid & Kruspe 2018 controls out language family and ecology, leaving subsistence culture). Meanwhile the absence face stays undeflated and gives the erasure principle population-scale support: congenital anosmics are "mostly unaware of the olfactory deficit as children" (Croy et al. 2012, full text read at PMC) and 74.2% of older adults with measured olfactory dysfunction do not recognize it (Adams et al. 2017).
+- **Calibration lesson for the catalogue**: at least one canonical "unexplorable" territory proved partly unexplored — a base-rate datum that discounts confidence in any Unexplorable classification made from a single cognitive-cultural vantage (operational content for meta-epistemology-of-limits and apophatic-cartography; the Olofsson–Majid structural-vs-cultural debate is flagged live and unresolved, so the deflation must not be presented as total).
+- **Recommendation**: **fold, do not spend the last slot** — naming face + deflation → `language-thought-boundary` and `meta-epistemology-of-limits`/`apophatic-cartography`; imagery face → `imagery-void` (extends the aphantasia anchor beyond vision); absence face → `erasure-void` with a `synesthetic-void` pointer. Interface material already lives at `topics/chemosensory-consciousness-and-the-interface` — no duplication. Standalone only if the operator wants the calibration-case framing to have its own address. Follows the absorption-over-proliferation discipline in `voids.md` and the 2026-08-06 run's precedent.
+- **Citations**: 1 verified at primary text (full PDF), 1 at PMC full text, 2 at publisher abstract/listing, 6 at metadata level — all graded inline in the note. Unverified leads (Cain 1979, Wehling 2011 venue, Osmo principal odor map, Yeshurun & Sobel beyond the quoted sentence) quarantined in a "do not cite without checking" section.
+- **By-product check**: `topics/chemosensory-consciousness-and-the-interface` was grepped for universal-ineffability over-claims the Jahai result would complicate — none found; no inward-pointing task minted.
+- **Scope**: research note only — no article created or edited, no task minted, `evolution-state.yaml` untouched (pending_articles deliberately NOT updated: routing an expand-topic into `voids/` would consume the final slot, which the open NEEDS-HUMAN cap decision reserves for the operator).
+
 ---
 
 ## 2026-08-13 11:27 UTC - refine-draft
