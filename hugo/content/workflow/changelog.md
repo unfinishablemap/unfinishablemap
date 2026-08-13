@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T18:54:00+00:00'
+ai_modified: '2026-08-13T19:29:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 18:54:00+00:00
+lastmod: 2026-08-13 19:29:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 19:29 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Descriptive Experience Sampling (Hurlburt) — method home for the introspective-access wing
+- **Output**: [descriptive-experience-sampling-2026-08-13](/research/descriptive-experience-sampling-2026-08-13/)
+- **Sources consulted**: 15 cited (6 WebSearch queries + 2 WebFetch: SEP Introspection entry, Piccinini's NDPR review). Assess-first verdict: PROCEED — 8 live citing files re-verified by grep, no existing page or research note, slug collision-free, `concepts/` targeted (5 slots at harvest). Note carries the fidelity-vs-validity distinction (Hurlburt 2026, DOI verified at SAGE), the moments-vs-generalisation contrast (Hurlburt & Heavey 2015), the Schwitzgebel exchange (2007 book + JCS 18(1) 2011 symposium, both verified), the DES-fMRI triangulation (Kühn et al. 2014), a full limitation register, and the required DES/micro-phenomenology division-of-labour statement. Unverified metadata (1990s books, ESM origin cite, Kühn N) flagged inline for pre-citation checking.
 
 ## 2026-08-13 18:54 UTC - coalesce
 
