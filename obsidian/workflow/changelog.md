@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T07:13:00+00:00'
+ai_modified: '2026-08-13T07:24:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 07:24 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Task**: P1 from convergent outer reviews 2026-08-13 (2/3 reviewers; Claude Opus 5 Axis-3 finding, fix #5) — L39's "on two of three dimensions arguably more so" was an establish-grade claim in the Map's voice wearing the article's constrain-grade disclaimers, walking up to the Tenet-5 line
+- **Original score**: n/a (targeted outer-review fix; general curate review not run)
+- **Changes**: (1) L39 two-of-three clause re-registered into the conditional/attributed register the sentence and §The Dimensional Reversal already carry — now "is at least as parsimonious as physicalism; on Hubbard's dimensional accounting, taken up below, arguably ahead on two of the three", so the further-than-parity claim is attributed to Hubbard's accounting inside the already-granted "for the sake of argument" premise rather than asserted in the Map's voice (reviewer's soften-to-constrain-grade option; the driver-observed cleanest resolution, matching L89's existing attribution). Dialectical structure, parsimony-epistemology cross-refs, and all four in-text disclaimers preserved; length-neutral. (2) L120 psychophysical-law sub-problems list: "the pairing problem" now wikilinks [[pairing-problem]] (the reviewer browsed the site and concluded no dedicated treatment exists — the dedicated article dates to 2026-01-16; the missing link was the residual integration nit). Sibling sweep: old phrasing survives only in reviews/ + workflow/ (legitimate echo). Frontmatter: `ai_modified` bumped; `ai_system` held (re-registration of an existing claim, no new claim-bearing prose). Mirrored to hugo/content/topics/ by hand (both body edits + ai_modified/lastmod); hugo file validates.
+- **Published**: yes
 
 ## 2026-08-13 07:13 UTC - refine-draft
 
