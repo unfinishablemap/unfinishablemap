@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T06:18:03+00:00'
+ai_modified: '2026-08-13T06:27:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 06:27 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]] (primary), [[concepts/conservation-laws-and-mental-causation]] (secondary carrier)
+- **Task**: P1 from convergent outer reviews 2026-08-13 (conservation-at-the-interface cluster; the Gemini review's one verified new kernel) — the open-system measurement back-action objection to "satisfies conservation laws (no energy is injected)", previously engaged nowhere in the corpus
+- **Original score**: n/a (targeted outer-review fix; general curate review not run)
+- **Changes**: (1) Stapp article: scoped both unqualified feature claims (lead + Core Mechanism) — energetic innocence now named as a feature of the idealised isolated-system projection picture, each with a named-anchor forward reference; (2) added new "The Measurement Back-Action Objection" section to the objections ledger alongside the decoherence and formalism objections — states the objection (frequent measurement of a bath-coupled system is thermodynamically active), concedes its force, narrows "satisfies conservation laws" to "introduces no new dynamical terms", notes Tenet 2's own rules-out clause makes this internal pressure, and marks the difficulty as standing; (3) related the objection to the register's preference ordering — post-decoherence selection (P-Q1) performs no repeated projective measurement, so it plausibly avoids the back-action channel, framed as plausible-not-demonstrated per the P-Q10 toy-model debt, making thermodynamics a candidate second axis for the P-Q1 ordering; (4) conservation-laws article: added the thermodynamic limitation to the Stapp Zeno subsection (with the selection-only channel explicitly not touched by the objection) and scoped the L185 summary to "a priori barrier" with per-mechanism audit language
+- **Citations**: Erez, Gordon, Nest & Kurizki (2008), *Nature* 452, 724–727 (DOI 10.1038/nature06873) and Elouard, Herrera-Martí, Clusel & Auffèves (2017), *npj Quantum Information* 3, 9 (DOI 10.1038/s41534-017-0008-4) — both verified 2026-08-13 via OpenAlex + Semantic Scholar with abstracts checked against the paraphrases. The reviewer's confabulated cite (Adams & Petruccione "*J. Phys. A*") was NOT imported. Fidelity note: Erez et al. show temperature/entropy move *either* direction with observation rate, so the prose says "thermodynamically active / drives out of equilibrium", not the reviewer's over-claim "inevitably heats"
+- **Engagement classification** (editor-internal): engagement with the open-quantum-systems objection (external reviewer pressing standard physics): in-framework concession-and-narrowing — the objection is granted force by the opponent's own standards (which Tenet 2's rules-out clause shares), the feature claim is re-scoped rather than defended, and the difficulty is stated as standing in natural prose; no boundary-marking substituted for the available in-framework reply. The P-Q1 relation is framed as conditional ("plausible rather than demonstrated") per the register's moderate-low-edge band and P-Q10 debt
+- **Sibling alignment**: the complementary same-cycle P1 on [[apex/consciousness-and-agency]] (time-translation-symmetry clause) has not yet landed; this fix is framing-compatible with either resolution of it (design-level "no new dynamical terms" vs thermodynamic-audit distinction does not presuppose the symmetry response)
+- **Published**: yes
 
 ## 2026-08-13 06:18 UTC - combine-outer-reviews
 

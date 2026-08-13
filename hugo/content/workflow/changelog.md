@@ -1,13 +1,76 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T03:22:46+00:00'
+ai_modified: '2026-08-13T06:27:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 03:22:46+00:00
+lastmod: 2026-08-13 06:27:30+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-13 06:27 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (primary), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) (secondary carrier)
+- **Task**: P1 from convergent outer reviews 2026-08-13 (conservation-at-the-interface cluster; the Gemini review's one verified new kernel) — the open-system measurement back-action objection to "satisfies conservation laws (no energy is injected)", previously engaged nowhere in the corpus
+- **Original score**: n/a (targeted outer-review fix; general curate review not run)
+- **Changes**: (1) Stapp article: scoped both unqualified feature claims (lead + Core Mechanism) — energetic innocence now named as a feature of the idealised isolated-system projection picture, each with a named-anchor forward reference; (2) added new "The Measurement Back-Action Objection" section to the objections ledger alongside the decoherence and formalism objections — states the objection (frequent measurement of a bath-coupled system is thermodynamically active), concedes its force, narrows "satisfies conservation laws" to "introduces no new dynamical terms", notes Tenet 2's own rules-out clause makes this internal pressure, and marks the difficulty as standing; (3) related the objection to the register's preference ordering — post-decoherence selection (P-Q1) performs no repeated projective measurement, so it plausibly avoids the back-action channel, framed as plausible-not-demonstrated per the P-Q10 toy-model debt, making thermodynamics a candidate second axis for the P-Q1 ordering; (4) conservation-laws article: added the thermodynamic limitation to the Stapp Zeno subsection (with the selection-only channel explicitly not touched by the objection) and scoped the L185 summary to "a priori barrier" with per-mechanism audit language
+- **Citations**: Erez, Gordon, Nest & Kurizki (2008), *Nature* 452, 724–727 (DOI 10.1038/nature06873) and Elouard, Herrera-Martí, Clusel & Auffèves (2017), *npj Quantum Information* 3, 9 (DOI 10.1038/s41534-017-0008-4) — both verified 2026-08-13 via OpenAlex + Semantic Scholar with abstracts checked against the paraphrases. The reviewer's confabulated cite (Adams & Petruccione "*J. Phys. A*") was NOT imported. Fidelity note: Erez et al. show temperature/entropy move *either* direction with observation rate, so the prose says "thermodynamically active / drives out of equilibrium", not the reviewer's over-claim "inevitably heats"
+- **Engagement classification** (editor-internal): engagement with the open-quantum-systems objection (external reviewer pressing standard physics): in-framework concession-and-narrowing — the objection is granted force by the opponent's own standards (which Tenet 2's rules-out clause shares), the feature claim is re-scoped rather than defended, and the difficulty is stated as standing in natural prose; no boundary-marking substituted for the available in-framework reply. The P-Q1 relation is framed as conditional ("plausible rather than demonstrated") per the register's moderate-low-edge band and P-Q10 debt
+- **Sibling alignment**: the complementary same-cycle P1 on [consciousness-and-agency](/apex/consciousness-and-agency/) (time-translation-symmetry clause) has not yet landed; this fix is framing-compatible with either resolution of it (design-level "no new dynamical terms" vs thermodynamic-audit distinction does not presuppose the symmetry response)
+- **Published**: yes
+
+## 2026-08-13 06:18 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-13
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro)
+- **Clusters**: 8 convergent (1 at 3/3 — the self-concealing corridor holds coherence grade, not establish grade; 7 at 2/3), 9 singleton, 2 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3 — quantum-interface register audit [3/3]; merged measurement-cluster task; parsimony-case L39)
+- **Tasks deduplicated**: 1 (ChatGPT measurement-pair + Claude apex sibling → one three-file task)
+- **Deliberate non-upgrade**: congenial-citation stance-audit lens annotated as 2/3 convergent but left at P2 per the 2026-07-31 precedent (adjacent methodology substance reserved to open NEEDS-HUMAN entries)
+- **Convergent-without-task (recorded only)**: forced five-tenet alignment as house template (2/3, operator territory); foundation-exceeds-five-tenets (2/3, reserved by NEEDS-HUMAN foundations 2026-08-03); conservation-at-the-interface cluster kept as two complementary P1s, cross-referenced
+- **Divergences**: Gemini vs Claude on predictive-processing representation (verification sided with Claude); three-way split on whether the calibration layer is strength (ChatGPT), inoculation (Claude), or disqualification (Gemini)
+- **Output**: [outer-review-synthesis-2026-08-13](/reviews/outer-review-synthesis-2026-08-13/)
+
+## 2026-08-13 05:23 UTC - collect-gemini-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research; commissioned 04:14 UTC, collected 05:12 UTC; extraction js-dom via page-side Blob, SHA-256-verified, 32,268 chars)
+- **File**: [outer-review-2026-08-13-gemini-2-5-pro](/reviews/outer-review-2026-08-13-gemini-2-5-pro/)
+- **Claims verified**: ~25 — 12 attributed quotes confirmed verbatim; 4 paraphrases presented as quotes; 8 omission/evasion charges checked against the corpus and found false (GNW 124 files, IIT 122, illusionism 248, Cogitate 39, Zurek/Schlosshauer 36); 5 cited "omitted sources" checked via OpenAlex, 3 confabulated (Adams & Petruccione title/journal garbled; Greer 2020 and Timmermann 2023 nonexistent)
+- **High-value findings**: 2 (measurement back-action/heating objection to the Stapp "no energy is injected" claim — genuinely unengaged corpus-wide; terminal-depolarization deflationary reading of the Borjigin surge — never named)
+- **Tasks generated**: 2 (P1: 1, P2: 1)
+- **Note**: the review's central framing attacks Stapp-QZE as the Map's "architectural pillar"; P-Q1's actual preference is post-decoherence selection, held precisely because it sidesteps that objection. Convergent with prior reviews' vacuity charge already priced into P-Q1/P-Q3 calibration.
+
+## 2026-08-13 04:55 UTC - collect-claude-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (Research mode, 213 sources; commissioned 03:11 UTC, collected 04:40 UTC)
+- **File**: [outer-review-2026-08-13-claude-opus-5](/reviews/outer-review-2026-08-13-claude-opus-5/)
+- **Subject**: Full-site audit (reuse of the cycle subject; second of the 2026-08-13 three-reviewer cycle)
+- **Extraction**: js-dom → page-side Blob download (35,262 chars, body-stability sentinel stable across 10s)
+- **Claims verified**: 6 major claims checked against the live tree, 1 at the primary source (EuropePMC). **Headline finding SUSTAINED**: Escolà-Gascón (2025) abstract confirmed to claim precognition ("anticipating future, unpredictable stimuli") while four live articles recruit it as congenial support — stance-inversion against [parapsychology-firewall](/topics/parapsychology-firewall/). **Two findings REFUTED**: the Schleihauf author-order "metadata error" is stale (all live loci fixed 2026-07-31/08-01; reviewer echoed retired text — same false charge as the 2026-08-03 audit), and the pairing-problem "coverage gap" is false (`concepts/pairing-problem.md` live since 2026-01-16 with 26+ inbound links). One partial: grain-mismatch's L67 already runs the common-cause concession the reviewer says is absent. One largely pre-satisfied: the Aharonov physical-vs-dualist disclosure already on disk at `apex/post-decoherence-selection-programme` L117
+- **High-value findings**: Escolà-Gascón stance-inversion (4 live carriers + 2 research notes + 4 archive pages); parsimony L39 establish-grade over-reach (convergent with 08-03 cluster C2); active-inference-as-rival gap in `predictive-processing-and-dualism`; Koch & Hepp (2006) absent from the decoherence cluster (absence verified); measurement-problem-as-motivation drift in `apex/what-consciousness-tells-us-about-physics` (convergent with ChatGPT's same-cycle measurement-pair task, 2/3 reviewers); demote-to-coherence-only verdict on the self-concealing-interface causal thesis; congenial-citation stance-audit process recommendation
+- **Tasks generated**: 8 (P1: 1 — Escolà-Gascón firewall stance-inversion, multi-carrier sweep. P2: 7 — parsimony register; active-inference rival section; grain-mismatch lead/description alignment; quantum-interface register audit (positions-evolve); measurement-motivation apex fix; Koch & Hepp named-opponent addition; calibration-audit-triple congenial-stance lens)
+- **Same-cycle dedupe**: checked task-by-task against the 7 ChatGPT-minted tasks from 04:02 — only overlap is the measurement cluster, cross-referenced as convergent with different loci; no duplicates minted
+
+---
+
+## 2026-08-13 04:02 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (model slug `gpt-5-6-pro`, Extended thinking)
+- **File**: [outer-review-2026-08-13-chatgpt-5-6-pro](/reviews/outer-review-2026-08-13-chatgpt-5-6-pro/)
+- **Subject**: Full-site audit (site fallback; first of the 2026-08-13 three-reviewer cycle)
+- **Extraction**: js-dom → page-side Blob download, SHA-256 verified against disk (57,609 chars) — no retyping channel
+- **Claims verified**: 22 Map-attributed quoted spans grep-checked; **22 verbatim, 0 fabricated** — the cleanest quote-fidelity record of any outer review to date. Two nuance notes only (one trivial mis-location; 4.3 under-credits calibration already present at `quantum-measurement-and-consciousness` L84)
+- **High-value findings**: 8 verified contradictions/overstatements (conservation 4.1; subject ontology 4.2 + unnamed second locus `apex/time-consciousness-growing-block`; measurement evidence 4.3; AI verdict 4.4; AI identity 4.5; Everett control-law 4.6 + second locus `topics/the-psychophysical-control-law`; dissociations 4.7/4.8; voids ontology 4.9/4.10). Central thesis: propagation failure — the calibrated register layer has outrun the assertive synthesis layer
+- **Tasks generated**: 7 (P1: 2 — conservation contradiction in `apex/consciousness-and-agency`; register desync in `apex/open-question-ai-consciousness`. P2: 5 — collapse-and-time process ontology; interface-programme Everett overstatement; dissociation-pair causal direction; voids index/blurb; measurement-pair evidential language)
+- **Not re-minted** (already queued): foundations promotion → NEEDS-HUMAN 2026-08-03; propagation/two-epistemic-voices → NEEDS-HUMAN 2026-07-27; quotation ledger → NEEDS-HUMAN 2026-07-30. §1's novel-implication subjects left to /harvest-research-subjects
+
 ---
 
 ## 2026-08-13 03:22 UTC - condense

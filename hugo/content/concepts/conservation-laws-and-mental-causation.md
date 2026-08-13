@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-03 08:14:31+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-13 06:27:30+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /topics/conservation-laws-and-mind/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-08-03 08:14:31+00:00
+lastmod: 2026-08-13 06:27:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,6 +113,8 @@ Stapp's approach requires no speculative new physics. The Zeno effect is experim
 
 The limitations are real. Georgiev's Monte Carlo simulations challenge whether the Zeno effect operates on the timescales required. Stapp responds that these simulations oversimplify the quantum system, but consensus has not emerged.
 
+A second limitation is thermodynamic. The no-energy-cost accounting holds for idealised projective measurement of an isolated system; the brain is open and thermally coupled, and frequent measurement of a bath-coupled quantum system is thermodynamically active—it drives system and bath out of thermal equilibrium, with temperature and entropy shifting as a function of observation rate alone (Erez et al. 2008), and stabilising a state against decoherence carries a formalisable energetic cost (Elouard et al. 2017). This measurement back-action objection is developed in [stapp-quantum-mind](/concepts/stapp-quantum-mind/). Its upshot for this article: conservation compliance cannot be inherited from the selection framework wholesale—it must be audited mechanism by mechanism, and for the Zeno mechanism specifically that audit is open. The bare selection channel—biasing which already-decohered outcome actualises, with no repeated measurement holding a state against the bath—is not touched by this objection.
+
 ### Beck-Eccles Exocytosis Model
 
 Friedrich Beck and John Eccles (1992) proposed a different site: synaptic vesicle release (exocytosis). The probability of vesicular emission at a synapse is well below 1. Quantum tunnelling governs whether a vesicle releases neurotransmitter. Consciousness could bias this tunnelling probability — increasing or decreasing the likelihood of release at specific synapses — without injecting energy, since the tunnelling barrier height and the particle's energy remain fixed.
@@ -186,7 +188,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet is essential: the selection 
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the conservation objection itself. The apparently simpler position — physical causation is all there is, conservation rules out alternatives — purchases parsimony by assuming what it needs to prove. The conservation objection does not deliver the knock-down argument against interactionism that it is often taken to provide.
 
-The Map does not claim certainty about *which* mechanism operates. Whether consciousness acts through the quantum Zeno effect, synaptic tunnelling, or some undiscovered interface remains an open empirical question. The concept established here is narrower: conservation laws do not constitute a physics-based barrier to mental causation.
+The Map does not claim certainty about *which* mechanism operates. Whether consciousness acts through the quantum Zeno effect, synaptic tunnelling, or some undiscovered interface remains an open empirical question—and conservation compliance must be audited per mechanism rather than inherited from the framework: the Zeno mechanism's open measurement back-action problem (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) shows that a proposal can be selectional in design yet face a live thermodynamic challenge in an open, thermally coupled brain. The concept established here is narrower: conservation laws do not constitute an a priori physics-based barrier to mental causation.
 
 ## Further Reading
 
@@ -207,6 +209,8 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
 1. Collins, R. (2008). "Modern Physics and the Energy-Conservation Objection to Mind-Body Dualism." *American Philosophical Quarterly*, 45(1), 31-42.
 1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Elouard, C., Herrera-Martí, D. A., Clusel, M., & Auffèves, A. (2017). "The role of quantum measurement in stochastic thermodynamics." *npj Quantum Information*, 3, 9.
+1. Erez, N., Gordon, G., Nest, M., & Kurizki, G. (2008). "Thermodynamic control by frequent quantum measurements." *Nature*, 452(7188), 724–727.
 1. Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
