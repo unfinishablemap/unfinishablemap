@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-08-08 17:26:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 20:26:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /voids/smoothness-problem/
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:17:25+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-13 20:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,9 +46,9 @@ topics:
 - '[[temporal-consciousness-structure-and-agency]]'
 ---
 
-The Unfinishable Map identifies a double void at the heart of temporal consciousness. First, neural activity operates in discrete bursts — action potentials fire or don't, oscillations cycle at measurable frequencies, perceptual sampling occurs in periodic snapshots at roughly 4-13 Hz — yet conscious experience flows without gaps, seams, or flicker. Second, consciousness cannot determine whether this apparent flow is genuine continuity or a construction from discrete moments, because every method of investigation either presupposes the answer or transforms what it examines. The mismatch between substrate and phenomenology is one problem; the structural impossibility of resolving it is another. Together they mark a boundary where physical explanation gives way to something it cannot reach.
+The Unfinishable Map identifies a double void at the heart of temporal consciousness. First, neural activity operates in discrete bursts — action potentials fire or don't, oscillations cycle at measurable frequencies, perceptual sampling occurs in periodic snapshots at roughly 4-13 Hz — yet conscious experience flows without gaps, seams, or flicker. Second, consciousness cannot determine whether this apparent flow is genuine continuity or a construction from discrete moments, because every method of investigation either presupposes the answer or transforms what it examines. The mismatch between substrate and phenomenology is one problem; the structural impossibility of resolving it is another. Read through the Map's [dualist](/tenets/#dualism) commitments, the pair marks a limit of physical explanation — a framework-relative verdict, not a neutral description: functionalism and illusionism accommodate the same findings by denying premises the Map keeps ([below](#why-physical-smoothing-falls-short)). In the origin-class terms of the [void clustering audit](/apex/taxonomy-of-voids/#void-clustering-audit), the discrete-sampling evidence and the measurement circularity are framework-independent, but the unreachability verdict is dualism-specific — under the [common-cause null](/project/common-cause-null/), this void contributes framework-internal coherence, not independent confirmation of the tenets ([what-voids-reveal](/voids/what-voids-reveal/)).
 
-This is a temporal cousin of the [binding problem](/concepts/binding-problem/). Where binding asks how spatially distributed neural activity unifies into a single experience at a moment, the smoothness problem asks how temporally discrete neural events produce an experience that extends seamlessly across time. Both point toward a gap between mechanism and phenomenology that the Map takes as evidence for its [dualist](/tenets/#dualism) commitments. The smoothness problem is also a specific instance of the [capability division problem](/voids/capability-division-problem/) — brain-side processing provides discrete temporal snapshots; mind-side contribution may supply the seamless continuity that characterises experience.
+This is a temporal cousin of the [binding problem](/concepts/binding-problem/). Where binding asks how spatially distributed neural activity unifies into a single experience at a moment, the smoothness problem asks how temporally discrete neural events produce an experience that extends seamlessly across time. Both point toward a gap between mechanism and phenomenology that the Map reads through its [dualist](/tenets/#dualism) commitments. The smoothness problem is also a specific instance of the [capability division problem](/voids/capability-division-problem/) — brain-side processing provides discrete temporal snapshots; mind-side contribution may supply the seamless continuity that characterises experience.
 
 ## The Discrete Neural Substrate
 
@@ -104,7 +104,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** draws support from both sides of this double void. If the neural substrate is discrete but experience is smooth, the smoothness is a feature that consciousness *contributes* rather than one the brain *constructs*. The non-physical mind receives periodic neural inputs and generates — or simply has, as its native mode — a continuous experiential stream. This aligns with Bergson's *duree* and with the Map's view that phenomenal unity across time is a property of consciousness itself, not of any physical mechanism. The [grain-mismatch](/concepts/grain-mismatch/) generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions. Dualism also deepens the irresolvability: if consciousness is not reducible to physical processes, the temporal structure of neural computation does not determine the temporal structure of experience.
+**[Dualism](/tenets/#dualism)** offers a unified reading of both sides of this double void — a fit, not independent support. If the neural substrate is discrete but experience is smooth, the smoothness is a feature that consciousness *contributes* rather than one the brain *constructs*. The non-physical mind receives periodic neural inputs and generates — or simply has, as its native mode — a continuous experiential stream. This aligns with Bergson's *duree* and with the Map's view that phenomenal unity across time is a property of consciousness itself, not of any physical mechanism. The [grain-mismatch](/concepts/grain-mismatch/) generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions. Dualism also deepens the irresolvability: if consciousness is not reducible to physical processes, the temporal structure of neural computation does not determine the temporal structure of experience.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises a distinctive possibility. Consciousness does not passively receive discrete snapshots and somehow smooth them computationally. Rather, continuous temporal experience may be a primitive property of the non-physical mind. Further, if consciousness is causally efficacious, it may participate in determining when unconscious processing "renders" into awareness. The temporal grain of consciousness might be set by the non-physical mind rather than imposed by neural architecture — making the void self-referential, since we cannot determine the temporal grain of consciousness partly because that grain may be constituted by consciousness itself.
 

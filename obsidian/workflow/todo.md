@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/voids.md
-- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.9 + 4.10 — **both verified verbatim on disk**. Primary file: `voids/voids.md` L48 says Topics and Concepts "represent the Map's considered positions," while `positions/positions.md` L30 assigns that role to the positions register ("Topics and concepts catalogue and define"). Amend the voids index sentence to match the register architecture — only one section should be described as carrying maintained positions. **Second file, explicit and required** (do not drop it): `obsidian/voids/smoothness-and-continuity.md` L46 concludes the substrate/phenomenology mismatch and its resolution-impossibility "mark a boundary where physical explanation gives way to something it cannot reach" — a categorical anti-physicalist conclusion that bypasses `voids/what-voids-reveal`'s own common-cause discount and origin classification (most catalogue entries are tenet-generated; the clustering carries no confirming force). Reframe framework-relatively and surface the void's origin class. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft
@@ -2552,6 +2542,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
+- **Type**: refine-draft
+- **File**: obsidian/voids/voids.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.9 + 4.10 — **both verified verbatim on disk**. Primary file: `voids/voids.md` L48 says Topics and Concepts "represent the Map's considered positions," while `positions/positions.md` L30 assigns that role to the positions register ("Topics and concepts catalogue and define"). Amend the voids index sentence to match the register architecture — only one section should be described as carrying maintained positions. **Second file, explicit and required** (do not drop it): `obsidian/voids/smoothness-and-continuity.md` L46 concludes the substrate/phenomenology mismatch and its resolution-impossibility "mark a boundary where physical explanation gives way to something it cannot reach" — a categorical anti-physicalist conclusion that bypasses `voids/what-voids-reveal`'s own common-cause discount and origin classification (most catalogue entries are tenet-generated; the clustering carries no confirming force). Reframe framework-relatively and surface the void's origin class. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
 - **Type**: refine-draft

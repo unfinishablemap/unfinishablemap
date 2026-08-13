@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-08-03 17:09:35+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-13 20:26:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-08-03 17:09:35+00:00
+lastmod: 2026-08-13 20:26:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -49,7 +49,7 @@ This section explores those voids: the dark spaces on our map where the terrain 
 
 > **Note on Epistemic Status**
 >
-> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the Map's considered positions, Voids content probes boundaries we may not be able to cross.
+> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. The Map's maintained positions live in the [positions register](/positions/); the Topics and Concepts sections catalogue and define the material those positions draw on. Voids content, by contrast, probes boundaries we may not be able to cross.
 >
 > Some of this content may be unsettling. It touches on limits to knowledge, identity, and reality. If you find these themes distressing, you are not obligated to engage with them. The stable, grounded framework is available in the [tenets](/tenets/) and [topics](/topics/) sections.
 >

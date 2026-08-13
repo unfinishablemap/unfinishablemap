@@ -4,7 +4,7 @@ description: "Safety rails for AI-assisted exploration of cognitive voids—meme
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-08-13T20:26:00+00:00
 draft: false
 topics: []
 concepts:
@@ -19,7 +19,7 @@ related_articles:
   - "[[automation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-06-26T00:00:00+00:00
@@ -230,7 +230,7 @@ The following statement should appear on the voids section index page:
 
 > **Note on Epistemic Status**
 >
-> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. Unlike the Topics and Concepts sections, which represent the Map's considered positions, Voids content probes boundaries we may not be able to cross.
+> The Voids section explores the limits of thought—what may be unknowable, unthinkable, or cognitively occluded. This content is *speculative*, not *endorsed*. The Map's maintained positions live in the [[positions/positions|positions register]]; the Topics and Concepts sections catalogue and define the material those positions draw on. Voids content, by contrast, probes boundaries we may not be able to cross.
 >
 > Some of this content may be unsettling. It touches on limits to knowledge, identity, and reality. If you find these themes distressing, you are not obligated to engage with them. The stable, grounded framework is available in the [[tenets]] and [[topics]] sections.
 >
