@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-03
-ai_modified: 2026-08-03 06:29:08+00:00
+ai_modified: 2026-08-13 00:26:00+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s positions on the subject census its interface requires:
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 06:29:08+00:00
+lastmod: 2026-08-13 00:26:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -46,9 +46,11 @@ Two of the three pass the [foundational-dependency test](/positions/individuatio
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high (it follows from the form of the Map's own selection conditional) · external-evidence grade D (structural, framework-internal; no independent empirical support) · structural centrality high (it converts the individuation domain into a constraint on the interface programme) · model maturity developed · empirical discriminability none-by-construction (exact Born preservation makes models differing only in subject count statistically indistinguishable) · framework-internal only: yes
 - **Asserts**: The Map holds that once conscious-state conditionals do causal work — the interface writing *P(O | C, X)* rather than *P(O | X)* — the question of which subjects exist and which physical system each is paired to becomes part of the model's state description rather than downstream metaphysical decoration. The conditioning variable cannot stay an unspecified "consciousness variable": it must attach to a subject, a moment and a phenomenal state, and in any system with more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until the count and the pairing are. Questions the corpus files as personal-identity metaphysics — how many subjects a split brain houses, what fission and fusion do to the channel count, whether copies share or duplicate a channel, when a channel begins and ends, whether an artefact can instantiate one — are therefore boundary conditions on the selection law. The commitment is to the *requirement*, not to any particular census; the Map has not discharged it (P-SC2). One consequence is registered immediately: the census leaves no statistical trace, because under the corridor reading Born statistics are preserved exactly ([P-Q2](/positions/quantum-interface/)), so two models differing only in subject count are empirically indistinguishable by construction. The requirement is structural, and no measurement will settle it.
 - **Depends on**: Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), read at [its registered standing](/tenets/#tenet-3-standing) — the interface argument shows downward causation available, not actual, and this position inherits that limit; Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)); [P-Q1](/positions/quantum-interface/) (post-decoherence selection as the preferred mechanism) and [P-Q2](/positions/quantum-interface/) (exact Born preservation, the source of the indistinguishability); [P-I1](/positions/individuation-and-subjecthood/) (boundaries are real, so there is a determinate census to be part of the description); [selection-only-channel](/concepts/selection-only-channel/)
-- **Argued in**: [interface-specification-programme](/apex/interface-specification-programme/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [selection-only-channel](/concepts/selection-only-channel/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Argued in**: [interface-specification-programme](/apex/interface-specification-programme/) (the subject–brain pairing law as an unpaid debt underlying every token causal claim), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) (indexical facts about which subject experiences which outcome)
+- **Formalism drawn from**: [selection-only-channel](/concepts/selection-only-channel/) and [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — the pages that state the conditional and the selection mechanism whose unindexed *C* this position indexes. Neither argues the census requirement: both predate the 2026-08-03 finding, and the domain preamble records that the requirement was *unstated* in the corpus until external review named it.
 - **Would shift if**: the interface were relocated to context-selection rather than outcome-selection (the Process-1 route Tenet 3 registers but declines), which would weaken the pairing requirement without removing it; or a genuinely subject-neutral formulation of the selection law were found in which the conditional's subject-index does no work, which would retire the census requirement outright; or the Map abandoned the causal-efficacy reading, returning individuation to pure metaphysics with no bearing on the physics.
-- **Last reviewed**: 2026-08-03
+- **Updated 2026-08-13**: citation relation corrected — [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) and [selection-only-channel](/concepts/selection-only-channel/) moved from *Argued in* to a new *Formalism drawn from* line. The selection-only-channel page treats the conditional's *C* as an unindexed mind-state throughout without asking *whose* — the omission this position names, not an argument for it — and the selection programme's one observer passage argues the complementary point, that quantum Darwinism handles intersubjective agreement without consciousness synchronising observations. Re-label only; no calibration change.
+- **Last reviewed**: 2026-08-13
 
 ## P-SC2: The Map owes a subject-pairing law and does not have one
 

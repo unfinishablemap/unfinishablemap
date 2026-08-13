@@ -1,8 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T00:10:04+00:00'
+ai_modified: '2026-08-13T00:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 00:30 UTC - positions-evolve (P-SC1 citation re-label + cross-domain Argued-in spot-check)
+
+- **Status**: Success
+- **Mode**: update (P-SC1, [[positions/subject-census]])
+- **Fix**: `Argued in` split — [[apex/post-decoherence-selection-programme]] and [[concepts/selection-only-channel]] moved to a new **Formalism drawn from** line (re-label, not delete). Both verified at HEAD before editing: selection-only-channel L74 states the conditional q(O | X) = Σ_C P(O | C, X) · P(C | X) with *C* unindexed throughout — the omission P-SC1 names, not an argument for it; the selection programme's only observer passage (L85) argues the complementary point (quantum Darwinism handles intersubjective agreement without consciousness synchronising observations). The two genuine citations retained with glosses: [[apex/interface-specification-programme]] (L147 pairing-law debt) and [[topics/indexical-identity-quantum-measurement]]. Updated history note added; `Last reviewed` → 2026-08-13; re-label only, no calibration change. Hugo mirror patched directly (other agents active; full sync not safe).
+- **Cross-domain spot-check** (per task: a locus list is a sample, not the population): 6 further citations read for content, 4 pass (P-AC2→apex/machine-question, P-I2→topics/vertiginous-question, P-CS1→topics/animal-consciousness, P-CS1→apex/machine-question), 1 fail (**P-CS1→concepts/substrate-independence** — argues the causal-eligibility filter, the axis P-CS1's own Asserts brackets out; **P3 minted** in todo.md), 1 borderline noted-not-tasked (P-MC4→concepts/direction-of-fit, argues a component premise and already sits in Depends on).
+- **Machinery half reported, not patched** (skill file is operator-gated): SKILL.md verifies `Argued in` at layer one (existence) only while P-M3 commits to existence-and-content — recorded as a dated ADDENDUM on the existing NEEDS-HUMAN (loop tooling) write-path entry in todo.md, folded rather than forked, with a concrete instruction for candidate fix (a) and the note that fix (b)'s vocabulary validator cannot check this half.
+- **Cascade**: none — no dependency moved, no status or band change. P-SC2/P-SC3 `Argued in` lines glanced clean (interface-specification-programme genuinely argues the pairing debt).
+- **Frontmatter**: `ai_modified` → 2026-08-13T00:26:00+00:00; `ai_system` held per task.
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 00:10 UTC - deep-review
