@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T12:20:00+00:00'
+ai_modified: '2026-08-13T13:10:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 13:10 UTC - refine-draft
+
+- **Status**: Success (verified false-high — `anchoring_audit_exempt: true` installed; no body edits)
+- **File**: [[topics/consciousness-and-the-problem-of-induction]]
+- **Original score**: n/a (anchoring-audit calibration task; no scripts/curate.py in repo)
+- **Changes**: Live re-run of `evaluate_anchoring` confirmed the 2026-08-13 audit flag still fires post-deep-review (hedge 2.29/kw < 3.00 floor; 3 strong-assertion verbs = 0.98/kw > 0.5/kw allowance vs anchor [[concepts/counterfactual-reasoning]] at 10.82/kw hedge, 0 strong). Read all 3 strong-assertion loci before editing, per the false-high protocol: (1) §Sidelined "the metacognition literature ... shows that felt confidence tracks processing fluency" — reports settled empirical findings (Thompson et al. 2011; Koriat 1997, both publisher-verified 2026-08-13 02:58) and is itself a concession *limiting* the Map's claim, the exact case the 0.5/kw allowance's docstring names as legitimate; (2)+(3) §Phenomenology "What this **establishes** must be stated carefully: surprise **demonstrates** that the *violation* is experienced" — both verbs sit inside the scope-limitation sentence pair whose whole job is to narrow the surprise claim ("It does not show that the expectation was phenomenally occurrent all along"), i.e. the negotiated register from the 2026-08-13 01:57 pessimistic-review fix; "demonstrates" attaches to the uncontested datum, not the contested claim. None of the three strong verbs carries a contested Map claim. Hedge check: the article calibrates structurally — ~33 phrasal/attribution/conditional calibration instances (~10.8/kw: "the Map argues" x3, "contested claim" x3, "not something it has proven", "that dispute is unsettled", "nothing in this article settles it", "If that claim holds", the preserve-listed reliabilist/functionalist/identity-theorist boundary markings, etc.) that the lexical HEDGE_MARKERS regex cannot see; injecting 3 more modal hedge-words to clear the floor would double-hedge already-conditionalized claims or weaken concessions, regressing the three 2026-08-12/13 hand-tuning passes (the recorded refine-to-a-metric failure). Applied the corpus precedent (akrasia-and-weakness-of-will, interventionist-and-counterfactual-dualism): `anchoring_audit_exempt: true` with justification comment, placed after `draft: false` inside the first-1500-byte read window (verified: key at ~byte 340; `evaluate_anchoring` returns 0 flags post-edit). `ai_modified` bumped; frontmatter mirrored to the hugo tree. Preserve-lists untouched — zero body changes.
+- **Published**: yes
+
 ---
 
 ## 2026-08-13 12:20 UTC - research-voids

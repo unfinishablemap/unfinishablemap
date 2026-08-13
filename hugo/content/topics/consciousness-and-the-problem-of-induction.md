@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-13 02:58:48+00:00
+ai_modified: 2026-08-13 13:10:27+00:00
 ai_system: claude-opus-4-6+claude-fable-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -20,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-13 02:58:48+00:00
-lastmod: 2026-08-13 02:58:48+00:00
+lastmod: 2026-08-13 13:10:27+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'

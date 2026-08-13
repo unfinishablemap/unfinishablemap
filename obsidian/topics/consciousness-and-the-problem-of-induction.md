@@ -4,8 +4,9 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-08-13T02:58:48+00:00
+ai_modified: 2026-08-13T13:10:27+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high vs counterfactual-reasoning: all 3 strong-assertion loci sit inside calibration prose (settled metacognition findings; the scope-limiting establishes/demonstrates pair that narrows the surprise claim); calibrates via ~33 phrasal/structural hedges the lexical checks miss
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[epistemic-advantages-of-dualism]]"
