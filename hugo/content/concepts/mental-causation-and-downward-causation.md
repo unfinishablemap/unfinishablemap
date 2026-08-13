@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-08-02 09:05:29+00:00
+ai_modified: 2026-08-13 09:24:49+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-08-02 09:05:29+00:00
+lastmod: 2026-08-13 09:24:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 Several mechanisms have been proposed. Henry Stapp's quantum Zeno mechanism is the most developed: sustained attention repeatedly "observes" quantum states, holding neural patterns in place through the quantum Zeno effect. Others include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)). The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) argues evolution would have selected for neural architectures supporting such an interface.
 
-The mechanism's key claim is that it adds **no energy injection (under degenerate outcomes)**: where consciousness selects among outcomes of equal energy—the degenerate case—no energy is added or removed; only which possibility actualises differs from what chance would produce, so no [conservation law](/concepts/conservation-laws-and-mental-causation/) is touched. This exactness holds *only* in the degenerate case. Real neural superpositions need not be energy-degenerate, and biasing toward a higher- or lower-energy outcome would shift the selected branch's expected energy. For those non-degenerate cases the Map relies on a second, independent response: conservation laws derive from symmetries (Noether's theorem), and a non-physical influence breaks the relevant time-translation symmetry, so expecting conservation to hold at the interface begs the question against interactionism (Cucu and Pitts 2019). The [conservation-laws article](/concepts/conservation-laws-and-mental-causation/) develops both responses in full.
+The mechanism's key claim is that it adds **no energy injection (under degenerate outcomes)**: where consciousness selects among outcomes of equal energy—the degenerate case—no energy is added or removed; only which possibility actualises differs from what chance would produce, so no [conservation law](/concepts/conservation-laws-and-mental-causation/) is touched. This exactness holds *only* in the degenerate case. Real neural superpositions need not be energy-degenerate, and biasing toward a higher- or lower-energy outcome shifts the energy of that single trial relative to its chance counterfactual. For those non-degenerate cases the framework's answer stays within [Tenet 2](/tenets/#minimal-quantum-interaction)'s no-violation constraint: selection that preserves Born frequencies leaves the ensemble energy expectation unchanged, and conservation—a statistical, local law—is tested at the ensemble level, not trial by trial. A second response circulates in the literature: conservation laws derive from symmetries (Noether's theorem), a non-physical influence would break the relevant time-translation symmetry, and expecting conservation to hold at the interface therefore begs the question against interactionism (Cucu and Pitts 2019). The Map deploys that point dialectically—the objector cannot presuppose conservation at the interface—without adopting symmetry-breaking as its own mechanism, which would permit conservation failure there and require revising Tenet 2. The [conservation-laws article](/concepts/conservation-laws-and-mental-causation/) develops both responses in full.
 
 ### The Decoherence Challenge
 

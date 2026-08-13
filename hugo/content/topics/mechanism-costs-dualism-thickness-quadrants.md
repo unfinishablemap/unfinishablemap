@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-07-13 05:34:59+00:00
+ai_modified: 2026-08-13 09:24:49+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 05:34:59+00:00
-lastmod: 2026-07-13 05:34:59+00:00
+lastmod: 2026-08-13 09:24:49+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -126,7 +126,7 @@ The Map's [five tenets](/tenets/) — Dualism, Bidirectional Interaction, Minima
 
 - **Causation account.** Selection / biasing of quantum-permitted outcomes, structurally close to Saad's [delegatory-dualism](/topics/delegatory-dualism/) when read minimally, with room to expand toward thicker Stappian or Myersian accounts if evidence warrants.
 - **Interface specification.** Narrow probabilistic channel at neural indeterminacy sites; consciousness biases the wavefunction's actualisation without injecting energy. The [interface problem](/topics/the-interface-problem/) is the cell's most demanding methodological burden.
-- **Conservation engagement.** Selection-without-injection (conservation holds because biasing among equal-energy outcomes adds no energy) and the Noether-symmetry response when influence is read as breaking time-translation symmetry locally. Both are available; both are deployed in [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/).
+- **Conservation engagement.** Selection-without-injection: biasing among equal-energy outcomes adds no energy, and in non-degenerate cases Born-frequency-preserving selection leaves the ensemble energy expectation intact—the no-violation constraint [Tenet 2](/tenets/#minimal-quantum-interaction) fixes. The Noether-symmetry response—conservation as locally symmetry-conditional, so an objector cannot presuppose it at the interface—remains a dialectical resource, but adopting local symmetry-breaking as the Map's own engagement would permit conservation failure at the interface and require revising Tenet 2. [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) develops both.
 
 The Map's *neighbouring* cells deserve explicit comparison:
 

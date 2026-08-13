@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T09:11:26+00:00'
+ai_modified: '2026-08-13T09:24:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 09:24 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Original score**: n/a (targeted outer-review fix; ChatGPT 5.6 Pro 2026-08-13 top-severity finding, convergent 2/3 with Gemini — conservation-at-the-interface cluster)
+- **Changes**: (1) Resolved the direct Tenet-2 contradiction at the mental-causation section's conservation clause: kept energy-degenerate selection, replaced the symmetry-breaking *fallback* with the framework-internal non-degenerate answer already canonical in [[concepts/conservation-laws-and-mental-causation]] (Born-frequency-preserving selection leaves the ensemble energy expectation intact; conservation is a statistical, local law tested at ensemble level), and explicitly demoted the Noether/Cucu-Pitts symmetry-breaking move to a dialectical point only — adopting it as the Map's own answer is now marked as an option outside the current framework that would require revising Tenet 2. Tenet untouched (operator territory). The article now states which version the Map adopts, as the review demanded. (2) Secondary: reworded the luck-objection section's "The simpler explanation: phenomenology tracks something real" — a positive parsimony appeal Tenet 5's symmetric self-binding does not license — into a coherence consideration with an explicit Tenet-5 disclaimer. (3) Sibling sweep (fix-by-file leaves siblings live): aligned [[concepts/mental-causation-and-downward-causation]] ("the Map relies on" the symmetry-breaking response → framework answer is ensemble-level within Tenet 2; symmetry-breaking dialectical-only, would require tenet revision) and [[topics/mechanism-costs-dualism-thickness-quadrants]] (Map's-cell "Conservation engagement" bullet: "Both are available; both are deployed" → selection-without-injection is the engagement, Noether response a dialectical resource only). Left intact: `concepts/objections-to-interactionism` (already carries the symmetric-standoff calibration — dialectical use, no framework assertion of symmetry breaking) and `concepts/conservation-laws-and-mental-causation` (develops both responses as replies to the objection, with the ensemble accounting and standoff paragraph; Q4-inhabitant description in the quadrants article likewise describes other positions, not the Map). Defect-string grep across obsidian/, hugo/content/, archive/ now hits only reviews/ and workflow/ echo loci. Both trees synced; frontmatter validated.
+- **Review file**: reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md (§4.1 contradiction, §3.5 parsimony; synthesis reviews/outer-review-synthesis-2026-08-13.md)
+- **Published**: yes
 
 ## 2026-08-13 09:11 UTC - coalesce
 
