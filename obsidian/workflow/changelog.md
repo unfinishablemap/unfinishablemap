@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T05:23:00+00:00'
+ai_modified: '2026-08-13T06:18:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 06:18 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-13
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro)
+- **Clusters**: 8 convergent (1 at 3/3 — the self-concealing corridor holds coherence grade, not establish grade; 7 at 2/3), 9 singleton, 2 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3 — quantum-interface register audit [3/3]; merged measurement-cluster task; parsimony-case L39)
+- **Tasks deduplicated**: 1 (ChatGPT measurement-pair + Claude apex sibling → one three-file task)
+- **Deliberate non-upgrade**: congenial-citation stance-audit lens annotated as 2/3 convergent but left at P2 per the 2026-07-31 precedent (adjacent methodology substance reserved to open NEEDS-HUMAN entries)
+- **Convergent-without-task (recorded only)**: forced five-tenet alignment as house template (2/3, operator territory); foundation-exceeds-five-tenets (2/3, reserved by NEEDS-HUMAN foundations 2026-08-03); conservation-at-the-interface cluster kept as two complementary P1s, cross-referenced
+- **Divergences**: Gemini vs Claude on predictive-processing representation (verification sided with Claude); three-way split on whether the calibration layer is strength (ChatGPT), inoculation (Claude), or disqualification (Gemini)
+- **Output**: [[reviews/outer-review-synthesis-2026-08-13]]
 
 ## 2026-08-13 05:23 UTC - collect-gemini-review + outer-review
 
