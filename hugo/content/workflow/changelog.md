@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T19:55:14+00:00'
+ai_modified: '2026-08-13T20:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 19:55:14+00:00
+lastmod: 2026-08-13 20:30:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 20:30 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [voids](/voids/) (+ required second file [smoothness-and-continuity](/voids/smoothness-and-continuity/); string-sibling sweep also caught [voids-safety-protocol](/project/voids-safety-protocol/), which defines the canonical banner text the voids index carries)
+- **Original score**: n/a (`scripts/curate.py` does not exist — skill doc drift)
+- **Review context**: outer-review-2026-08-13-chatgpt-5-6-pro findings 4.9 + 4.10, both verified verbatim on disk before editing.
+- **Changes**:
+  - **4.10 (voids index banner)**: replaced "Unlike the Topics and Concepts sections, which represent the Map's considered positions" with the register architecture — maintained positions live in the [positions register](/positions/); Topics and Concepts catalogue and define (matching `positions/positions.md`'s own wording). Only one section is now described as carrying maintained positions. Same fix applied to [voids-safety-protocol](/project/voids-safety-protocol/) §Reader Notice, which is the canonical source of that banner text ("The following statement should appear on the voids section index page") — fixing only the index would have left the protocol prescribing the defective wording.
+  - **4.9 (smoothness-and-continuity lead)**: replaced the categorical "Together they mark a boundary where physical explanation gives way to something it cannot reach" with a framework-relative verdict (dualist reading, with functionalism/illusionism accommodation noted via existing in-page anchor) plus explicit origin-class surfacing per [the void clustering audit](/apex/taxonomy-of-voids/#void-clustering-audit): discrete-sampling evidence and measurement circularity framework-independent, unreachability verdict dualism-specific, net contribution framework-internal coherence not independent confirmation, citing [common-cause-null](/project/common-cause-null/) and [what-voids-reveal](/voids/what-voids-reveal/).
+  - Two sibling instances of the same evidence-direction over-claim in the same article, aligned with P-V1/P-V2: "the Map takes as evidence for its dualist commitments" → "reads through"; Relation section "Dualism draws support from both sides" → "offers a unified reading … a fit, not independent support".
+- **Not changed**: `archive/voids/smoothness-problem.md` retains the ancestor's categorical wording — archived snapshot behind its archive notice, historical record preserved per archive convention. The article's substantive filter/dualist argument and conclusions are untouched (calibration reframe, not retraction).
+- **Verification**: synced; fix confirmed in `hugo/content/voids/_index.md` (the index's mirror, per task note), `hugo/content/voids/smoothness-and-continuity.md`, `hugo/content/project/voids-safety-protocol.md`. All new link conversions resolve (`/positions/`, `/project/common-cause-null/`, `/voids/what-voids-reveal/`, `/apex/taxonomy-of-voids/#void-clustering-audit`, in-page anchor). Live-tree residual sweep for both flagged strings: zero outside archive/reviews/workflow. Validator: no new issues on touched files (voids index length warning pre-existing).
+- **Engagement classification** (editor-internal): the physicalist/illusionist (smoothness lead + §Why Physical Smoothing Falls Short): Mode Three — the lead now marks the framework boundary honestly rather than asserting cross-framework refutation; the body's existing illusionism paragraph already carried the correct boundary-marking language and needed no change.
+- **Published**: yes
 
 ## 2026-08-13 19:55 UTC - deep-review
 

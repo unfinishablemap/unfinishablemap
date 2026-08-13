@@ -39,16 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/voids.md
-- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.9 + 4.10 — **both verified verbatim on disk**. Primary file: `voids/voids.md` L48 says Topics and Concepts "represent the Map's considered positions," while `positions/positions.md` L30 assigns that role to the positions register ("Topics and concepts catalogue and define"). Amend the voids index sentence to match the register architecture — only one section should be described as carrying maintained positions. **Second file, explicit and required** (do not drop it): `obsidian/voids/smoothness-and-continuity.md` L46 concludes the substrate/phenomenology mismatch and its resolution-impossibility "mark a boundary where physical explanation gives way to something it cannot reach" — a categorical anti-physicalist conclusion that bypasses `voids/what-voids-reveal`'s own common-cause discount and origin classification (most catalogue entries are tenet-generated; the clustering carries no confirming force). Reframe framework-relatively and surface the void's origin class. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft
@@ -2549,11 +2539,30 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review
 - **Generated**: 2026-08-13
 
+### P2: Write article on Descriptive Experience Sampling
+
+- **Type**: expand-topic
+- **Status**: pending
+- **File**: obsidian/research/descriptive-experience-sampling-2026-08-13.md
+- **Source**: unconsumed_research
+- **Generated**: 2026-08-13
+- **Notes**: **CHAIN MINT from unconsumed research by /replenish-queue run 952 (2026-08-13 20:41 UTC).** The research note at the File path above (research-topic completed 19:36 UTC same day, commit 76a6695a0f, verdict PROCEED after an exercised assess-first licence) is ready for synthesis; per the documented replenishment source priority, unconsumed research outranks every other mint source — and runs 947-949 each cited the promotion-only precedent while a fresh note sat unconsumed for three runs, so this mint goes in the same session the note landed.
+  **TARGET SECTION: concepts/** — gate read **315/320 at mint** (via `tools.evolution.state.count_section_files`, bare string arg; 5 slots free); re-measure at execution. Do **NOT** fall back to topics/ — that gate reads 319/320 and the last slot is reserved for the open hypnopompia expand (P2, Generated 2026-08-12); the note's own Angles section also rejects topics/ on genre grounds (a methods page belongs beside `introspection`, `heterophenomenology`, `phenomenological-evidence`). Slug `descriptive-experience-sampling` is collision-free across live and archive trees (checked at research time, re-verified at mint — no live article, no archive match, no Vetoed-bank entry, no other open task carrying this path).
+  **THE DESIGN IS ANGLE 1 OF THE NOTE'S "Potential Article Angles" — treat it as the spec.** One owner for Hurlburt's method, so its citations, epistemics, and limits are stated once and linked to rather than re-derived per consumer: method summary front-loaded (five defining features, headline frequencies); the fidelity-vs-validity distinction (Hurlburt 2026) promoted to a general-purpose evidence-grading tool with the anendophasia dispute as the worked example; moments-vs-generalisation as the shared citation for the three articles that currently restate it independently; the limitation register; the division-of-labour section (MPI evoked-depth vs DES random-breadth, heterophenomenology, ESM/questionnaires). Fold-ins were considered and REJECTED in the note (the introspection page is the baseline the method improves on; the MPI page cannot host its own principal critic) — do not re-litigate. Length discipline: methods page, not a survey — the anendophasia article keeps the dispute narrative; concepts/ soft ceiling is 2500 words.
+  **VERIFICATION DEBT INHERITED — the note's Gaps section is binding; resolve or hedge before anything ships.** (a) Not verified at research time: Hurlburt 1990/1993 and 2011 book metadata; Schwitzgebel 2011 *Perplexities* full cite; the Larson & Csikszentmihalyi ESM-origin citation; participant N in Kühn et al. 2014; author list/volume of the ~2021 *Perspectives on Psychological Science* frequency paper — verify at publisher or omit (ai-citation-metadata-unreliable; WebFetch via OpenAlex/EuropePMC works even when WebSearch budget is exhausted). (b) The SEP sentence and any search-summary phrasing must be grep-verified at the raw source before appearing quoted (quote-must-be-grep-verifiable-in-raw-source). (c) Melanie case details come via Piccinini's NDPR review, not the book — keep book-internal claims coarse. Nothing unverified ships as a quote or a load-bearing figure.
+  **CALIBRATION**: the Schwitzgebel exchange ended in a productive standoff, not a verdict — state both parties' agreement (DES beats armchair generalisation) and their residual disagreement (how much error survives); do not upgrade "best-available momentary-fidelity discipline" into "delivers pristine experience". DES supports Tenet 5's evidence-quality theme and supplies (without itself asserting) the frequency premise in the Tenet-1 burden-transfer argument; it still runs through the bounded report channel and does not escape introspection-as-reconstruction. Match the introspective-access wing's register.
+  **INTEGRATION — run the full chain, not just the create** (expand-topic-skips-integration-chain): add inbound links from the eight consumer files — [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/) (its §"What Would Challenge This View" item 1 is the natural cross-reference for the reflexive fidelity point), [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) (its "Position Among Related Techniques" DES bullet should link here), [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/), [minimal-consciousness-void](/voids/minimal-consciousness-void/), [voids-between-minds](/voids/voids-between-minds/), the tool-that-cannot-say-its-user apex, and the apex register where appropriate. Populate `topics:` frontmatter with BARE slugs — an empty `topics: []` bypasses the agentic-social overlap filter. MIRROR: create in obsidian/, then `uv run python scripts/sync.py` so hugo/content/concepts/ picks it up. Style per `obsidian/project/writing-style.md`. Assess-first with license-to-decline stands as always, but the note already exercised assess-first this session and returned PROCEED.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
+- **Type**: refine-draft
+- **File**: obsidian/voids/voids.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.9 + 4.10 — **both verified verbatim on disk**. Primary file: `voids/voids.md` L48 says Topics and Concepts "represent the Map's considered positions," while `positions/positions.md` L30 assigns that role to the positions register ("Topics and concepts catalogue and define"). Amend the voids index sentence to match the register architecture — only one section should be described as carrying maintained positions. **Second file, explicit and required** (do not drop it): `obsidian/voids/smoothness-and-continuity.md` L46 concludes the substrate/phenomenology mismatch and its resolution-impossibility "mark a boundary where physical explanation gives way to something it cannot reach" — a categorical anti-physicalist conclusion that bypasses `voids/what-voids-reveal`'s own common-cause discount and origin classification (most catalogue entries are tenet-generated; the clustering carries no confirming force). Reframe framework-relatively and surface the void's origin class. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
 - **Type**: refine-draft
