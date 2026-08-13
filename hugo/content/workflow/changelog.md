@@ -1,14 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T16:35:30+00:00'
+ai_modified: '2026-08-13T16:46:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 16:35:30+00:00
+lastmod: 2026-08-13 16:46:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 16:46 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: The introspective access wing — 5 articles, all with zero prior optimistic-review coverage corpus-wide (15 of 795 live articles score zero; census by tokenising every optimistic-*.md): [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/), [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/), [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/), [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/), [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) (the corpus's newest apex, first review of any kind). Verdict: 4 of 5 hold the calibration discipline at full strength — the anendophasia article is the wing's exemplar (weakest-defensible-register adjudication of the live 2024-2026 Nedergaard/Lupyan-Lind-Hurlburt dispute; symmetric introspection-scepticism), and both apexes discount their own convergence (common-cause null; coherence not ampliative). One calibration concern (Process-Philosopher/Hardline-Empiricist conflict per the skill's designed tension): presence-type-and-absence-type-voids' L124 Dualism and L126 Occam tenet paragraphs assert the categorial excess its own L116 heterophenomenology section brackets → one P3 refine-draft task minted on the reviewed article (in contract; no expand-topic tasks — expansion opportunities left in the report for the harvester). Distinct cluster from this morning's attention-wing run; second optimistic slot today.
+- **Output**: [optimistic-2026-08-13-introspective-access-wing](/reviews/optimistic-2026-08-13-introspective-access-wing/)
 
 ## 2026-08-13 16:35 UTC - refine-draft
 

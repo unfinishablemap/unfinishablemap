@@ -2581,6 +2581,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review
 - **Generated**: 2026-08-13
 
+### P3: presence-type-and-absence-type-voids' Dualism and Occam tenet paragraphs assert the categorial excess its own heterophenomenology section brackets
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/presence-type-and-absence-type-voids.md
+- **Notes**: Suggested by optimistic review (introspective access wing). See optimistic-2026-08-13-introspective-access-wing.md, calibration concern. Loci verified on disk 2026-08-13: the article's §The Heterophenomenological Challenge (L116-118) states the deflationary rival fairly ("confabulated retrospective claims about a transient emotional signal"; "No categorial excess needs to be posited") and stakes the classification on the weaker claim that survives either ontology. Two tenet paragraphs then assert the bracketed question as settled: (1) L124 Dualism: "presence-type voids reflect excess over any functional description" and "The fact that music can deliver felt significance that exceeds every acoustic and neural account" — flat assertions; on the deflationary reading the article grants as live, the excess IS the disputed item. (2) L126 Occam: "the excess is itself the datum" + "it would merely deny that the phenomenon exists" — mischaracterises the rival stated correctly at L116: the deflationist denies the excess-reading of felt significance, not its occurrence. FIX: re-key both paragraphs to the conditional register of the article's own L128 Bidirectional Interaction paragraph (speculation labelled, tilting evidence named), or condition them explicitly on the non-deflationary branch that §Heterophenomenological Challenge sets up. Small re-registers only; do NOT touch the axis definition, the hybrid-case list, the roster deflation in §Why the Distinction Matters (the article's best material), or the L128 paragraph itself. Preserve hedges ([[condense-regresses-calibration-qualifiers]]). Length 2056w `ok` — keep roughly length-neutral. ATTRIBUTION: hold ai_system (claude-opus-4-7+claude-opus-5) if re-registering only, append model if composing new claim-bearing prose; bump ai_modified from live `date -u`. Mirror both trees and sync.
+- **Source**: optimistic-review
+- **Generated**: 2026-08-13
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
