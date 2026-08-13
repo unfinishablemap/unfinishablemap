@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T15:13:00+00:00'
+ai_modified: '2026-08-13T15:41:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 15:13:00+00:00
+lastmod: 2026-08-13 15:41:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 15:41 UTC - deep-review
+
+- **Status**: Success
+- **File**: [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)
+- **Word count**: 2881 → 2882 (+1)
+- **Critical issues addressed**: 0 (none found — the 15:13 refine-draft's seven-fix bundle verified clean)
+- **Medium issues addressed**: 2 (internal tension: line-31 "at full strength" vs the recalibrated lead and Relation section, changed to "at its calibrated strength"; Kida 2020 was the sole References entry without a DOI — added 10.2183/pjab.96.008)
+- **Enhancements made**: 0 beyond the two fixes; converged article, strengths preserved
+- **Citation web-verify**: Kida 2020 real-correct at J-STAGE incl. verbatim check of the lead's "is not always destabilized" quote (contiguous in the abstract; "such as" qualifier preserved in the surrounding paraphrase); Elsey, Van Ast & Kindt 2018 real-correct via Europe PMC (144(8):797–848, doi 10.1037/bul0000152); Nader 2000 and Sinclair & Barense 2018 inherited from prior publisher-verified ledgers (References entries unchanged)
+- **Engagement classification** (editor-internal): fully-physical reading of reconsolidation — Mode Three, with the 08-13 revision's Mode Two-adjacent honest concession (schema machinery as the rival's home turf); no label leakage; the former `**Evidential status.**` callout confirmed gone from both trees
+- **Output**: [deep-review-2026-08-13-reconsolidation-as-selection-window](/reviews/deep-review-2026-08-13-reconsolidation-as-selection-window/)
+
+## 2026-08-13 15:29 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed recalibration from positions-audit-2026-08-13 check (c) item 2, downstream of the 2026-08-13 3/3 outer-review convergence, demote-to-coherence-only)
+- **Changes**: Recalibrated the Relation to Site Perspective section (the audit's nav-surface/body mismatch) to the body's own grade; body untouched — L84's deliberately-open mind-conditioned question and L130's conditional residual-structure routing are compliant and preserved verbatim. (1) Bidirectional Interaction paragraph: the flat existence claim ("Bidirectional causation is real at the token grain. Consciousness influences...") becomes framework-relative ("The token grain is where this tenet's claim operates. On the Map's reading, consciousness selects..."). (2) Closing combination paragraph: "is what makes" → "is what would make"; the establish-grade triple ("mental causation is metaphysically real...; physics is structurally complete...; the apparent conflict between these dissolves once the type-token distinction is in hand") replaced with the graded form — the dissolution is the framework's claim, current standing candidate resolution rather than accomplished result; the token-robust-yet-aggregate-invisible compatibility must be demonstrated rather than assumed ([born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) desideratum 3); whether the per-trial move discharges or merely relocates the epiphenomenalism worry remains open (P-Q3); until the debt is paid the selection thesis is citable as a framework-internal coherence result, not established mental causation, deep-linking [the register's citation grade](/positions/quantum-interface/#mechanism-debt). MQI paragraph and Tenet 5 brake sentence unchanged. Label-only recalibration: `ai_system` held per task directive; `ai_modified` bumped from live `date -u`; both trees synced (hugo mirror hand-applied in converter link forms to avoid full-tree sync during concurrent agent activity). Residue sweep on the two quoted establish-grade strings across obsidian/, hugo/content/, archive/: hits confined to workflow/ + reviews/ (task text and audit quotes — echo, not defect).
+- **Published**: yes
 
 ## 2026-08-13 15:13 UTC - refine-draft
 

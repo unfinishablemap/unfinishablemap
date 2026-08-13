@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-08-13 15:11:32+00:00
+ai_modified: 2026-08-13 15:41:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -16,8 +16,8 @@ description: Memory reconsolidation reopens a stored trace to revision under ide
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 11:26:54+00:00
-lastmod: 2026-08-13 15:11:32+00:00
+last_deep_review: 2026-08-13 15:41:07+00:00
+lastmod: 2026-08-13 15:41:07+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-memory]]'
@@ -33,7 +33,7 @@ topics:
 
 When recall reopens a stored memory trace—which happens under identifiable conditions, not at every retrieval—the trace becomes briefly editable before it restabilises. This is **reconsolidation**: retrieval can return a consolidated memory to a labile state, and during a window of several hours the destabilised trace can absorb new information, shift emotional valence, or lose detail. Whether a given retrieval opens the window is governed by boundary conditions—a retrieved memory "is not always destabilized," with destabilisation gated by parameters such as retrieval duration and the memory's strength and age (Kida 2020)—but when the window does open, the lability is full-strength: the trace must be actively rebuilt or it is lost. The evidential base is strongest in rodent fear paradigms, where the protein-synthesis result is well replicated; in humans the phenomenon is supported but contested, with alternative explanations of the interference data still live (Elsey, Van Ast & Kindt 2018). The Map's interest is narrower and explicitly more speculative: this window is the most concrete physical occasion where a [forward-in-time conscious selection](/topics/forward-in-time-conscious-selection/) could enter the reconstruction of a trace. The window is real; that consciousness supplies *directional* input to what happens inside it is the Map's posited reading, not something the lability data establish.
 
-This article keeps those two claims separate throughout. The empirical signature comes first, at full strength. The interface interpretation comes after, clearly flagged as a posited reading of an empirically-real opportunity—a selection-*window*, which is an opportunity, not evidence that the opportunity is taken by a non-physical subject.
+This article keeps those two claims separate throughout. The empirical signature comes first, at its calibrated strength. The interface interpretation comes after, clearly flagged as a posited reading of an empirically-real opportunity—a selection-*window*, which is an opportunity, not evidence that the opportunity is taken by a non-physical subject.
 
 ## The Empirical Signature: Retrieval Destabilises the Trace
 
@@ -114,7 +114,7 @@ Neither has been shown. Residual, hard-to-predict variation in what a reconsolid
 ## References
 
 1. Elsey, J. W. B., Van Ast, V. A., & Kindt, M. (2018). Human memory reconsolidation: A guiding framework and critical review of the evidence. *Psychological Bulletin*, 144(8), 797–848. https://doi.org/10.1037/bul0000152
-1. Kida, S. (2020). Function and mechanisms of memory destabilization and reconsolidation after retrieval. *Proceedings of the Japan Academy, Series B*, 96(3), 95–106.
+1. Kida, S. (2020). Function and mechanisms of memory destabilization and reconsolidation after retrieval. *Proceedings of the Japan Academy, Series B*, 96(3), 95–106. https://doi.org/10.2183/pjab.96.008
 1. Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406(6797), 722–726. https://doi.org/10.1038/35021052
 1. Sinclair, A. H., & Barense, M. D. (2018). Surprise and destabilize: prediction error influences episodic memory reconsolidation. *Learning & Memory*, 25(8), 369–381. https://doi.org/10.1101/lm.046912.117
 1. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/

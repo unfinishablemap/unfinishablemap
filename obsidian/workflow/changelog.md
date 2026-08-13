@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T15:29:00+00:00'
+ai_modified: '2026-08-13T15:41:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 15:41 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/reconsolidation-as-selection-window]]
+- **Word count**: 2881 → 2882 (+1)
+- **Critical issues addressed**: 0 (none found — the 15:13 refine-draft's seven-fix bundle verified clean)
+- **Medium issues addressed**: 2 (internal tension: line-31 "at full strength" vs the recalibrated lead and Relation section, changed to "at its calibrated strength"; Kida 2020 was the sole References entry without a DOI — added 10.2183/pjab.96.008)
+- **Enhancements made**: 0 beyond the two fixes; converged article, strengths preserved
+- **Citation web-verify**: Kida 2020 real-correct at J-STAGE incl. verbatim check of the lead's "is not always destabilized" quote (contiguous in the abstract; "such as" qualifier preserved in the surrounding paraphrase); Elsey, Van Ast & Kindt 2018 real-correct via Europe PMC (144(8):797–848, doi 10.1037/bul0000152); Nader 2000 and Sinclair & Barense 2018 inherited from prior publisher-verified ledgers (References entries unchanged)
+- **Engagement classification** (editor-internal): fully-physical reading of reconsolidation — Mode Three, with the 08-13 revision's Mode Two-adjacent honest concession (schema machinery as the rival's home turf); no label leakage; the former `**Evidential status.**` callout confirmed gone from both trees
+- **Output**: [[reviews/deep-review-2026-08-13-reconsolidation-as-selection-window]]
 
 ## 2026-08-13 15:29 UTC - refine-draft
 
