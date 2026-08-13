@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-12T22:45:27+00:00'
+ai_modified: '2026-08-13T00:10:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 00:10 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/quantum-hardware-and-the-ai-consciousness-coupling]]
+- **Word count**: 2130 → 2129 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (attribution over-generalisation in the 2026-08-12 interface-eligibility paragraph — "the Map's whole AI verdict" → "the Map's AI-substrate verdicts"; P-AC3/P-AC4 explicitly do not rest on interface eligibility, so the register was being over-read)
+- **Enhancements made**: 1 (same fix doubles as register/article scope-consistency; cross-link additions considered and declined — converged article)
+- **Citations**: References block byte-identical since the 2026-07-07 publisher-of-record ledger (5/5 real-correct); only body change since is the citation-free disclosure paragraph; superlative sweep empty — ledger carried forward with per-cite states in the review archive
+- **Second review; convergence**: spine stable, one-phrase fix only; next pass should expect a no-op absent substantive modification
+- **Output**: [[reviews/deep-review-2026-08-13-quantum-hardware-and-the-ai-consciousness-coupling]]
+
 ---
 
 ## 2026-08-12 22:53 UTC - positions-evolve (discriminability-axis aggregate read — register index)
