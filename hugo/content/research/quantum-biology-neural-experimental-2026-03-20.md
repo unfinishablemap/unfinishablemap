@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-04 09:12:53+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 07:11:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 concepts: []
 created: 2026-03-20
-date: '2026-06-04'
+date: '2026-08-13'
 draft: false
-lastmod: 2026-06-04 09:12:53+00:00
+lastmod: 2026-08-13 07:11:00+00:00
 related_articles: []
 title: Research Notes - Quantum Biology in Neural Systems (2025-2026 Experimental
   Evidence)
@@ -19,7 +19,7 @@ title: Research Notes - Quantum Biology in Neural Systems (2025-2026 Experimenta
 
 ## Executive Summary
 
-The 2025-2026 period has seen a notable acceleration in experimental and theoretical work on quantum effects in neural systems. The most significant developments include: (1) a major 2025 review paper in *Neuroscience of Consciousness* synthesizing experimental evidence that microtubules are functional targets of anesthetics and display room-temperature quantum effects; (2) a new "TRAZE" theory proposing that consciousness arises from brain resonance with the zero-point field; (3) a twin study providing EEG-based evidence that quantum entanglement correlates with enhanced conscious experience; (4) the QBIT theory proposing spintronic coherence in microtubules as a mechanism that could survive warm biological conditions; and (5) integration of Orch OR with active inference frameworks. While the experimental evidence is growing, critics maintain that classical explanations may account for observed effects, and the field remains contested.
+The 2025-2026 period has seen a notable acceleration in experimental and theoretical work on quantum effects in neural systems. The most significant developments include: (1) a major 2025 review paper in *Neuroscience of Consciousness* synthesizing experimental evidence that microtubules are functional targets of anesthetics and display room-temperature quantum effects; (2) a new "TRAZE" theory proposing that consciousness arises from brain resonance with the zero-point field; (3) a contested twin study claiming EEG-based evidence that quantum entanglement enhances conscious experience (a precognition claim the Map's parapsychology firewall treats as disconfirming if taken at face value — see that entry's caution); (4) the QBIT theory proposing spintronic coherence in microtubules as a mechanism that could survive warm biological conditions; and (5) integration of Orch OR with active inference frameworks. While the experimental evidence is growing, critics maintain that classical explanations may account for observed effects, and the field remains contested.
 
 ## Key Sources
 
@@ -33,6 +33,7 @@ The 2025-2026 period has seen a notable acceleration in experimental and theoret
   - Direct physical evidence of macroscopic quantum entangled state in the living human brain, correlated with conscious state and working memory performance
   - Anesthetic quantum binding randomizes quantum processes in target proteins, disrupting orchestrated quantum activities
   - Argues the quantum model makes panprotopsychism viable while solving the phenomenal binding problem
+- **Caution**: Advocacy review by an Orch-OR proponent — the title asserts what the field disputes. Also cites Escolà-Gascón (2025), a laundering path for a stance-inverted psi source; treat as an interested party, not a neutral survey.
 - **Tenet alignment**: Strongly aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets. The anesthesia mechanism is particularly relevant — it suggests consciousness depends on quantum coherence that can be selectively disrupted.
 - **Quote**: Experimental evidence supports "functionally relevant quantum effects in microtubules at room temperature, and direct physical evidence of a macroscopic quantum entangled state in the living human brain."
 
@@ -56,8 +57,8 @@ The 2025-2026 period has seen a notable acceleration in experimental and theoret
   - Entanglement of qubits in stimulus configurations explained 13.5% of variance in accuracy
   - Neuroplasticity markers showed 26.2% increase in cognitive performance under entangled conditions
   - Claims to provide evidence that quantum entanglement enhances conscious experience
-- **Tenet alignment**: If valid, supports Bidirectional Interaction (quantum effects causally influence cognitive outcomes). However, this study's methodology and claims warrant significant scrutiny — the leap from qubit stimulus configurations to biological quantum entanglement is not straightforward.
-- **Caution**: This study should be cited carefully; the experimental design and interpretation are controversial.
+- **Tenet alignment**: STANCE-INVERTED — do not cite as support (outer review 2026-08-13 §2a). The paper's own thesis is precognition-scale, content-importing psi: its abstract claims anomalous cognitive mechanisms capable of anticipating future, unpredictable stimuli, and its highlights claim correlations surpassing the Tsirelson bound (2√2). Under the [parapsychology-firewall](/topics/parapsychology-firewall/), any large, lawlike, or content-importing psi effect lands on the *disconfirming* side of the Map's ledger, so taken at face value this study would count against Minimal Quantum Interaction rather than supporting Bidirectional Interaction. The methodological objection also stands — the leap from qubit stimulus configurations to biological quantum entanglement is not straightforward.
+- **Caution**: Cite as neither support nor neutral evidence. The author's corpus is parapsychology (including a 2024 precursor titled "Our brains sense the future through a new quantum-like implicit learning mechanism", *Brain Research Bulletin*); Wiest (2025) cites this study, creating a laundering path — check any source that recruits it.
 
 ### Beshkar (2025) — Spintronic Coherence in Microtubules (QBIT Theory)
 - **URL**: https://www.tandfonline.com/doi/full/10.1080/19420889.2025.2576334

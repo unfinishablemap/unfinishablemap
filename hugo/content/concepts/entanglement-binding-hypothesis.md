@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-08-08 21:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 07:11:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 16:17:55+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-08-13 07:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ As Wiest notes: "Since we don't know of another (i.e., classical) way that anaes
 
 ### Twin Study on Entanglement and Learning
 
-A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. The claims are extraordinary and the methodology has been questioned; the study should be treated as preliminary and provocative rather than confirmatory. If replicated, it would suggest quantum effects influence cognitive processing at a scale detectable in behavioural data.
+A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs reported that entanglement of qubits in stimulus configurations explained 13.5% of variance in learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. The Map cites this study as neither support for the binding hypothesis nor neutral evidence. Its methodology has been questioned, and—decisively for the Map—its own thesis is anomalous anticipation of future, unpredictable stimuli, with claimed correlations exceeding the Tsirelson bound: precognition-scale, content-importing psi. The [parapsychology firewall](/topics/parapsychology-firewall/) places any large, lawlike, or content-importing effect on the falsifying side of the Map's ledger, so if the study's claims replicated they would disconfirm the Map's interface rather than corroborate entanglement binding. Nothing in the structural argument above depends on it.
 
 ## The Decoherence Objection
 

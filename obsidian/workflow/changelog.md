@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T06:50:30+00:00'
+ai_modified: '2026-08-13T07:13:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 07:13 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]] (primary), sweep siblings: [[topics/quantum-biology-and-neural-consciousness]], [[concepts/entanglement-binding-hypothesis]], [[research/quantum-biology-neural-experimental-2026-03-20]], [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]]
+- **Task**: headline finding of outer review 2026-08-13 (Claude Opus 5, §2a/§2b/§2c) — Escolà-Gascón (2025) stance-inversion (a precognition/superquantum psi paper recruited as congenial corroboration against the Map's own [[parapsychology-firewall]]), Kerskens hedge lacking Warren's named comment, Wiest (2025) advocacy review presented as survey-neutral
+- **Original score**: n/a (targeted outer-review fix; general curate review not run)
+- **Changes**: (1) quantum-consciousness: chose the reframe-through-firewall option over bare deletion so the rationale cannot be re-derived away — the Escolà-Gascón sentence now states the Map cites the study as neither support nor neutral evidence because its own thesis (anomalous anticipation of future unpredictable stimuli, Tsirelson-exceeding correlations) is precognition-scale, content-importing psi that the firewall places on the disconfirming side; paragraph opener relabelled "Empirical support" → "Empirical status"; Kerskens downgraded from "contested" to does-not-corroborate-pending-replication with Warren (2023) named inline and added to References (entry copied verbatim from the topics sibling); Wiest (2025) marked as an advocacy review by an Orch OR proponent, not a neutral survey; (2) quantum-biology-and-neural-consciousness: twin-EEG paragraph reframed through the firewall; "twin EEG (Escolà-Gascón 2025)" removed from the calibration-table entanglement row; "Cognitive correlation" row removed from the convergence-structure table (its only referent was the stance-inverted study, so it cannot stand as a convergent evidence line); (3) entanglement-binding-hypothesis: "preliminary and provocative… If replicated, it would suggest" recruitment replaced with the same firewall reframe, noting the structural argument does not depend on it; (4) both research notes updated so the gap cannot re-propagate — the 2026-03-20 note's twin-study entry re-marked STANCE-INVERTED with author-corpus and Wiest-laundering cautions plus a Wiest interested-party caution, exec-summary item (3) reworded; the 2026-04-23 note's disambiguation parenthetical extended with the firewall stance. Escolà-Gascón reference entries retained where the (now quarantined) discussion remains, per the reframe option
+- **Not touched** (per task): Baum/Vicente handling and Duch section (review §2e calls both exemplary); [[topics/sorkin-delta-brain-internal-analogues]] disambiguation-only mention kept, its reference entry retained after reconsideration (it identifies the work the do-not-conflate note names and does no argumentative work)
+- **Archive carriers reported, not swept** (operator policy call): archive/topics/quantum-biology-neural-experimental-turn, archive/concepts/quantum-neural-mechanisms-and-coherence, archive/concepts/quantum-binding-experimental-evidence, archive/concepts/neural-quantum-coherence, plus two more found by grep beyond the task's list: archive/concepts/quantum-coherence-in-neural-systems, archive/concepts/quantum-coherence-and-binding-evidence (four of these cite the paper to *Scientific Reports*, 15, 9219 — a divergent venue worth checking if archives are ever swept)
+- **Published**: yes
 
 ## 2026-08-13 06:50 UTC - optimistic-review
 

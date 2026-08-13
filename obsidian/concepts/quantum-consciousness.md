@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-08-08T21:57:00+00:00
+ai_modified: 2026-08-13T07:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T08:33:15+00:00
@@ -68,7 +68,7 @@ Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin 
 **Recent evidence** (2024-2025):
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
 - Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures—though this is an optical/electronic effect (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, so it is suggestive precedent rather than a demonstration of the mechanism
-- **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025) reviews and develops the prediction's implications but reports no new 613 THz data.
+- **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025)—an advocacy review by an Orch OR proponent whose title asserts what the field disputes, not a neutral survey—develops the prediction's implications but reports no new 613 THz data.
 
 These findings form part of a broader [[quantum-biology-and-neural-consciousness|convergence of independent evidence lines]] that strengthens the cumulative case even where individual lines remain inconclusive.
 
@@ -145,7 +145,7 @@ The [[binding-problem|binding problem]] has two components: BP1 asks how feature
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: experience comes unified rather than assembled from separate quale-atoms.
 
-**Empirical support**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|the calibrated assessment]]. Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
+**Empirical status**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|the calibrated assessment]]. Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep. Warren's formal comment (Warren 2023) argues the paper provides no evidence for the entanglement reading—only that living tissue is complex, multicompartmental, and imprecisely characterised by MRI—so this single-lab, formally disputed result does not corroborate entanglement binding pending independent replication. A 2025 twin study (Escolà-Gascón 2025) is sometimes cited as behavioural evidence that entanglement affects implicit learning; the Map cites it as neither support nor neutral evidence. Taken at face value, the paper's own thesis is anomalous anticipation of future, unpredictable stimuli with claimed correlations exceeding the Tsirelson bound—precognition-scale, content-importing psi—and the [[parapsychology-firewall|parapsychology firewall]] places any large, lawlike, or content-importing effect on the *disconfirming* side of the Map's ledger, so a successful replication would count against the Map's interface, not for it. No replication hedge changes which side of the firewall those claims sit on. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
 
 ## The Illusionist Challenge
 
@@ -257,6 +257,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
 1. Vicente, R., Gollo, L. L., Mirasso, C. R., Fischer, I., & Pipa, G. (2008). Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays. *Proceedings of the National Academy of Sciences USA*, 105(44), 17157-17162. https://doi.org/10.1073/pnas.0809353105
+1. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

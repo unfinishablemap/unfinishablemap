@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-08-07T10:55:50+00:00
+ai_modified: 2026-08-13T07:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-12T23:22:00+00:00
@@ -89,7 +89,7 @@ The most-cited pharmacological line linking quantum effects to consciousness com
 
 **Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "a large and opposite effect on synaptic transmission" between the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity, but unreplicated. The downstream calcium-signalling step Fisher's mechanism relies on also faces contrary biochemical evidence: Bukhteeva et al. (2024) found no lithium-isotope differentiation in mitochondrial calcium efflux through the sodium/calcium/lithium exchanger (NCLX), though the same group reports isotope fractionation during lithium uptake and isotope-dependent effects on the amorphous calcium-phosphate clusters themselves—so the biochemical picture is genuinely mixed, not a clean falsification.
 
-**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG to probe quantum effects on cognition (Escolà-Gascón, 2025); qubit entanglement in stimulus configurations explained 13.5% of accuracy variance. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement is unwarranted as stated.
+**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG to probe quantum effects on cognition (Escolà-Gascón, 2025); qubit entanglement in stimulus configurations explained 13.5% of accuracy variance. The Map cites this study as neither support nor neutral evidence. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement is unwarranted as stated—but the deeper problem is the paper's own thesis: anomalous anticipation of future, unpredictable stimuli, with claimed correlations exceeding the Tsirelson bound. That is precognition-scale, content-importing psi, which the [[parapsychology-firewall|parapsychology firewall]] places on the *disconfirming* side of the Map's ledger—so a successful replication would count against the Map's tenets, not for them, and the study cannot be pooled into the convergence case below.
 
 Most measurements come from isolated preparations or indirect protocols. The critical missing piece: quantum coherence demonstrated in functioning neural tissue in vivo.
 
@@ -116,7 +116,6 @@ Each line has limitations; the case lies in convergence across independent lines
 | Biological precedent | Selection has propagated quantum-exploiting variants in warm biology (cryptochromes, enzymes, photosystems) | That neurons specifically do so |
 | Pharmacological | Quantum disruption correlates with consciousness loss | That quantum effects cause consciousness |
 | Direct measurement | Quantum phenomena exist in neural components | That they persist in vivo or are functional |
-| Cognitive correlation | Quantum stimulus conditions correlate with performance | That biological entanglement causes the effect |
 | Computational | Quantum dynamics improve neural models | That the brain actually uses them |
 | Theoretical | Independent frameworks converge on quantum necessity | That any specific framework is correct |
 
@@ -137,7 +136,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 | UV superradiance in microtubule tryptophan networks (Babcock 2024) | Precedent, not licence: Babcock's effect is UV/optical superradiance (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, and no coupling between the two regimes is established — suggestive of warm-biology coherence, not a demonstration of the Orch OR / Fröhlich-microtubule mechanism | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
 | Posner-molecule lithium isotope effects (Fisher 2015; Esmaeilpour 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
-| Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Escolà-Gascón 2025) | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |
+| Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |
 | Active inference + collapse (Wiest & Puniani 2025); QBIT (Beshkar 2025); microtubule-QED-cavity (Mavromatos 2025); TRAZE (Keppler 2025) | Theoretical load-bearing for the coherence proposal each framework advances | Convergence on "quantum is doing some work" raises the prior on a quantum interface generally | Orthogonal; coherence-mechanism convergence is not the corridor's currency |
 | NV-centre quantum-sensor measurement capability | Will be load-bearing for committed pre-decoherence mechanisms once deployed | Background instrumentation; no bearing on the selection event | Orthogonal; relevant only via [[brain-internal-born-rule-testing]] |
 

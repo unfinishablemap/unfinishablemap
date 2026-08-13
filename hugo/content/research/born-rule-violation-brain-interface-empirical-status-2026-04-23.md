@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-07-31 03:33:32+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-13 07:11:30+00:00
+ai_system: claude-opus-4-7+claude-fable-5
 concepts:
 - '[[measurement-problem]]'
 - '[[quantum-probability-consciousness]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-13 07:11:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
   - Detected MRI signals resembling heartbeat evoked potentials that MRI should not normally resolve.
   - Signal correlated with short-term memory performance and with sleep-wake transitions.
 - **Tenet alignment**: Aligns with Tenet 1 (dualism needs a physical interface where non-physical influence can land); suggests macroscopic quantum coherence is present where a Born-rule-violating interface could plausibly operate.
-- **Caveats**: Alternative classical explanations have been proposed but not fully developed; not a test of the Born rule itself. (The separate 2025 twin-EEG study titled "Evidence of quantum-entangled higher states of consciousness" is sole-authored by Á. Escolà-Gascón, *Computational and Structural Biotechnology Journal*, 30 — distinct from this Kerskens & López Pérez 2022 MRI work; do not conflate.)
+- **Caveats**: Alternative classical explanations have been proposed but not fully developed; not a test of the Born rule itself. (The separate 2025 twin-EEG study titled "Evidence of quantum-entangled higher states of consciousness" is sole-authored by Á. Escolà-Gascón, *Computational and Structural Biotechnology Journal*, 30 — distinct from this Kerskens & López Pérez 2022 MRI work; do not conflate. That study's own thesis is precognition-scale, content-importing psi, which the [parapsychology-firewall](/topics/parapsychology-firewall/) places on the disconfirming side of the Map's ledger — cite it as neither support nor neutral evidence.)
 
 ### Macroscopic quantum effects in the brain (Keppler 2025, Frontiers in Human Neuroscience)
 - **URL**: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
