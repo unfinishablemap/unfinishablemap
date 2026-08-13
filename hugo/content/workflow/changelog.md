@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T17:45:00+00:00'
+ai_modified: '2026-08-13T18:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 17:45:00+00:00
+lastmod: 2026-08-13 18:02:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 17:57 UTC - deep-review
+
+- **Status**: Success
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Word count**: 3303 → 3303 (0)
+- **Critical issues addressed**: 0 (none found — fourth pass on a converged article; the single change since the 2026-07-13 review, the 09:24 UTC Tenet 2 recalibration of the Map's-cell conservation-engagement bullet, verified sound against all three referents: tenets.md's Definition/minimality-constraint/Rules-out text and live `^minimal-quantum-interaction` anchor; the sibling [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) genuinely "develops both" responses at the bullet's claimed registers; and the article's own cell-relative claims — the Q4 symmetry-conditional route is inhabitant-exposition, not the Map's engagement, so no internal conflict. Calibration register check passed: the ensemble-expectation clause states the constraint Tenet 2 fixes, not an accomplished token-robustness/Born-preservation compatibility, which remains marked to-be-demonstrated at [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) desideratum 3)
+- **Medium issues addressed**: 0 (hygiene sweeps clean: no label leakage, no forbidden constructions, EOF clean, hugo mirror carried the recalibrated bullet with correct lastmod)
+- **Enhancements made**: 0 — deliberate no-op on a converged, soft_warning-length article; only `last_deep_review` moved (`ai_modified` and `ai_system` held per no-op discipline)
+- **Citation web-verify**: inherited from the 2026-07-13 full publisher-of-record ledger (References block unmodified since — git-verified; the delta contains zero new external cites); `find_superlative_claims` sweep empty; **first application of the congenial-citation mirror lens** documented in [calibration-audit-triple](/project/calibration-audit-triple/) earlier today — Myers 1903 (psi-encyclopedia source, psi-claiming author) is recruited descriptively as position-inventory (Q3 inhabitants; Q4 drift), never as support, and survives the hostile counterfactual; no firewall routing required, no stance inversion in the citation set
+- **Engagement classification** (editor-internal): unchanged from 2026-07-13 — Kim 2005 exclusion inside Q2: Mode Three; Tegmark 2000 decoherence inside Q4: Mode Three; the delta adds no named-opponent engagement
+- **Output**: [deep-review-2026-08-13-mechanism-costs-dualism-thickness-quadrants](/reviews/deep-review-2026-08-13-mechanism-costs-dualism-thickness-quadrants/)
 
 ## 2026-08-13 17:39 UTC - refine-draft
 

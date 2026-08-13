@@ -21,7 +21,7 @@ description: 'Each min/max cell of the mind-side × physical-side thickness taxo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-13 05:34:59+00:00
+last_deep_review: 2026-08-13 17:57:17+00:00
 lastmod: 2026-08-13 09:24:49+00:00
 modified: *id001
 related_articles:
