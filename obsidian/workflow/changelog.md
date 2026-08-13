@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T13:38:01+00:00'
+ai_modified: '2026-08-13T14:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 14:12 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed fix from outer review)
+- **Changes**: Implemented outer-review 2026-08-13 (Claude Opus 5) §1c + fix #7 as scoped by the driver (charge HALF-FALSE: the objection paragraph already engaged the common-cause objection; live defects were the unqualified independence register on nav surfaces/lead/convergence framing plus 0 references to the discipline apparatus). (1) Frontmatter `description:` rewritten to the qualified register (160 chars): independence-of-falsifiers plus shared-phenomenal-source discount, replacing "Three independent grain mismatches… converge on dualism". (2) Lead: shared-premise concession installed at first use of "independent" — defines the independence as falsifier-independence, names the single felt source, concedes the convergence carries less than three fully independent measurements, forward-anchors to the convergence section. (3) Convergence section: the "multiplicatively low" claim now explicitly conditioned on how independent the mismatches are; continental-drift analogy re-framed as aspiration-plus-gap with the disanalogy named (drift's three data classes did not all describe facets of one phenomenon). (4) Wired the article into [[project/common-cause-null]] explicitly: discipline named and linked at the head of the objection paragraph (one-observation-read-N-times statement); residue extended with the discipline's calibration-vs-dissolution classification (felt unity does not by itself predict the compression ratio or the perceptual-frame durations; what it removes is the right to count three fully independent votes); clause added to Relation to Site Perspective; Further Reading entry added; related_articles frontmatter entry added. Per task directive, the objection paragraph's original engagement and the falsifier list under "What Would Dissolve the Programme" are untouched — only additions. Engagement classification (editor-internal): engagement with the generic physicalist common-cause objector: Mode One with honest residue — in-framework reply via distinct falsifiers, unquantified shared-source discount conceded. ai_modified bumped from live `date -u`; claude-fable-5 appended to ai_system (substantive prose edits, not re-registering only). Both trees synced; all three body wikilinks verified converted in hugo output; frontmatter related_articles wikilink passes verbatim by design. Length: analyze_length post-edit 3075 raw (soft_warning, +75 over the 3000 soft threshold; ~270 words of that is reference apparatus, argumentative body under threshold) — acceptable for a review-mandated calibration install, no condense minted.
+- **Published**: yes
+
 ---
 
 ## 2026-08-13 13:38 UTC - deep-review

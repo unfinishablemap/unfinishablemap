@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: grain-mismatch's description and lead assert the unqualified independence its own L67 concedes cannot yet be quantified
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/grain-mismatch-as-independent-evidence.md
-- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), §1c + fix #7 — **PARTIALLY verified; scope corrected by the driver**. The reviewer charges that three descriptions of a single homogeneity/discreteness mismatch are counted as three votes and that "the corpus's own common-cause-null discipline… is not applied here". HALF-FALSE as stated: L67 already engages exactly this objection (the physicalist reply that the three are "three descriptions of one feature: the felt unity of consciousness"), answers via falsifiability-independence, and concedes "the programme cannot yet quantify how much the common phenomenal source discounts the convergence." **What IS live**: (a) the frontmatter `description:` ("Three independent grain mismatches… converge on dualism") and the lead/convergence sections (L33, L63–65: "multiplicatively low", the continental-drift analogy) run the unqualified independence register that L67's honest residue disclaims — a nav-surface-carries-what-the-body-qualifies defect; (b) the common-cause-null discipline apparatus is unreferenced (0 mentions) — wire the article into it explicitly. FIX: align description + lead + convergence framing to L67's residue; state the shared-premise concession at first use of "independent", not only in the objection paragraph. **Do NOT weaken L67 or the falsifier list at L85** — they are the article's strongest features. ATTRIBUTION: hold `ai_system` if re-registering only; bump `ai_modified` from live `date -u`. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
 
 - **Type**: refine-draft
@@ -2639,6 +2629,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: grain-mismatch's description and lead assert the unqualified independence its own L67 concedes cannot yet be quantified
+- **Type**: refine-draft
+- **File**: obsidian/topics/grain-mismatch-as-independent-evidence.md
+- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), §1c + fix #7 — **PARTIALLY verified; scope corrected by the driver**. The reviewer charges that three descriptions of a single homogeneity/discreteness mismatch are counted as three votes and that "the corpus's own common-cause-null discipline… is not applied here". HALF-FALSE as stated: L67 already engages exactly this objection (the physicalist reply that the three are "three descriptions of one feature: the felt unity of consciousness"), answers via falsifiability-independence, and concedes "the programme cannot yet quantify how much the common phenomenal source discounts the convergence." **What IS live**: (a) the frontmatter `description:` ("Three independent grain mismatches… converge on dualism") and the lead/convergence sections (L33, L63–65: "multiplicatively low", the continental-drift analogy) run the unqualified independence register that L67's honest residue disclaims — a nav-surface-carries-what-the-body-qualifies defect; (b) the common-cause-null discipline apparatus is unreferenced (0 mentions) — wire the article into it explicitly. FIX: align description + lead + convergence framing to L67's residue; state the shared-premise concession at first use of "independent", not only in the objection paragraph. **Do NOT weaken L67 or the falsifier list at L85** — they are the article's strongest features. ATTRIBUTION: hold `ai_system` if re-registering only; bump `ai_modified` from live `date -u`. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: predictive-processing-and-dualism defuses active inference metaphysically but never makes it compete mechanistically with post-decoherence selection
 - **Type**: refine-draft

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-08-08 16:12:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-13 14:09:04+00:00
+ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
 - '[[grain-mismatch]]'
@@ -14,17 +14,18 @@ concepts:
 - '[[causal-closure]]'
 created: 2026-04-07
 date: &id001 2026-04-07
-description: Three independent grain mismatches—spatial, temporal, informational—converge
-  on dualism through distinct empirical routes, each generating testable predictions
-  that distinguish structural argument from pure conceivability.
+description: 'Spatial, temporal, and informational grain mismatches support dualism:
+  independent in their falsifiers, though one shared phenomenal source discounts the
+  count.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:07:57+00:00
-lastmod: 2026-08-08 16:12:00+00:00
+lastmod: 2026-08-13 14:09:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[project/common-cause-null]]'
 - '[[resolution-void]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[bandwidth-of-consciousness]]'
@@ -34,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The [grain mismatch](/concepts/grain-mismatch/) is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
+The [grain mismatch](/concepts/grain-mismatch/) is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. The independence claimed is of a specific, limited kind — independence of falsifiers: any one mismatch could be dissolved while the other two stood. All three nonetheless describe the grain of a single phenomenon, the felt character of conscious experience, and that shared source means the convergence carries less than the weight of three fully independent measurements — a discount the programme concedes up front and cannot yet quantify (see [Why Convergence Matters](#why-convergence-matters)). Within that calibration, the convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
 
 ## Three Independent Mismatches
 
@@ -66,9 +67,9 @@ Any single grain mismatch might be explained away. The spatial mismatch might re
 
 What resists easy dissolution is the convergence. Three independent domains — space, time, information — each exhibit a structural incompatibility between phenomenal properties and neural properties. Each mismatch was discovered through different empirical methods (neuroanatomy, oscillation measurement, information-theoretic analysis). Each requires a different physicalist response. And each would need to be resolved *independently* for the overall evidence programme to fail.
 
-This convergence pattern is characteristic of genuine phenomena rather than conceptual artefacts. When multiple genuinely independent measurements point to the same structural feature, the probability of all being systematically misleading is multiplicatively low. The grain mismatch programme resembles the convergence of evidence for continental drift — geological, palaeontological, and geomagnetic data were individually contestable but jointly decisive. The Map does not claim the grain evidence is yet at that level of decisiveness, but it does claim the structural parallel is instructive.
+This convergence pattern is characteristic of genuine phenomena rather than conceptual artefacts. When multiple genuinely independent measurements point to the same structural feature, the probability of all being systematically misleading is multiplicatively low. Whether the grain programme earns that multiplicative arithmetic is exactly the question of how independent the three mismatches are, and the honest answer — argued in the next paragraph — is: independent in their falsifiers, but not fully independent in their source. The continental-drift comparison marks both the aspiration and the gap. Geological, palaeontological, and geomagnetic data were individually contestable but jointly decisive — and they did not all describe facets of one phenomenon, whereas the three mismatches all measure the grain of a single consciousness. The Map does not claim the grain evidence is at that level of decisiveness, and the disanalogy just named is one reason the multiplicative arithmetic cannot simply be borrowed.
 
-The multiplicative inference depends on the mismatches being genuinely independent rather than three facets of a single underlying fact — and this is where the programme must be careful. A physicalist could object that homogeneity, smoothness, and informational coarseness are not three separate observations but three descriptions of one feature: the felt unity of consciousness. If so, the three mismatches share a common cause, and their agreement no longer multiplies the way independent measurements do. The programme's reply is that the *explananda* are distinct even if the *explanandum* of consciousness is one. Spatial homogeneity is measured by neuroanatomy, temporal smoothness by oscillation studies, informational coarseness by Shannon-calibrated behaviour; each could in principle be dissolved while the others stood, and a physicalist mechanism that resolved one (say, a continuous electromagnetic correlate for spatial homogeneity) would leave the informational compression ratio untouched. Independence at the level of *what could falsify each claim* is what the multiplicative reasoning requires, and that independence survives even if all three trace to the unity of experience. The honest residue is that the programme cannot yet quantify how much the common phenomenal source discounts the convergence — only that the mismatches are not redundant.
+The multiplicative inference depends on the mismatches being genuinely independent rather than three facets of a single underlying fact — and this is where the programme must be careful. The Map maintains a standing discipline for exactly this situation, the [common-cause null](/project/common-cause-null/): when N observations converge, ask whether they share an upstream architecture that would produce the convergence by itself, in which case the apparent triangulation collapses toward one observation read N times. Applied to the grain programme, the null takes a specific form. A physicalist could object that homogeneity, smoothness, and informational coarseness are not three separate observations but three descriptions of one feature: the felt unity of consciousness. If so, the three mismatches share a common cause, and their agreement no longer multiplies the way independent measurements do. The programme's reply is that the *explananda* are distinct even if the *explanandum* of consciousness is one. Spatial homogeneity is measured by neuroanatomy, temporal smoothness by oscillation studies, informational coarseness by Shannon-calibrated behaviour; each could in principle be dissolved while the others stood, and a physicalist mechanism that resolved one (say, a continuous electromagnetic correlate for spatial homogeneity) would leave the informational compression ratio untouched. Independence at the level of *what could falsify each claim* is what the multiplicative reasoning requires, and that independence survives even if all three trace to the unity of experience. The honest residue is that the programme cannot yet quantify how much the common phenomenal source discounts the convergence — only that the mismatches are not redundant. In the discipline's own terms, the felt-unity objection names real shared machinery but licenses calibration rather than dissolution: one felt unity does not by itself predict the specific pattern the three measurements return — an eight-order-of-magnitude compression ratio in one domain, 300–450 millisecond perceptual frames in another. What it removes, and what this article accordingly does not claim, is the right to count the convergence as three fully independent votes.
 
 ## Testable Predictions
 
@@ -112,11 +113,12 @@ The grain mismatch evidence programme directly supports [the Map's first tenet](
 
 The programme also illustrates [why Occam's Razor has limits](/tenets/#occams-limits). The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme shows this assertion is not merely unproven but structurally incoherent for property pairs with contradictory characteristics across three independent domains. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [causal closure](/concepts/causal-closure/) assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types.
 
-The refusal to pad the programme with a fourth leg (see [Is Compositional Grain a Fourth Mismatch?](#is-compositional-grain-a-fourth-mismatch) above) reflects the same discipline. A dualism that inflated its evidence count would be easier to dismiss; a dualism that counts its structural evidence at exactly the number that survives an independence test earns the calibration it claims.
+The refusal to pad the programme with a fourth leg (see [Is Compositional Grain a Fourth Mismatch?](#is-compositional-grain-a-fourth-mismatch) above) reflects the same discipline. A dualism that inflated its evidence count would be easier to dismiss; a dualism that counts its structural evidence at exactly the number that survives an independence test earns the calibration it claims — and, under the [common-cause null](/project/common-cause-null/), holds even that number subject to the shared-source discount conceded above.
 
 ## Further Reading
 
 - [grain-mismatch](/concepts/grain-mismatch/) — The core concept: Sellars' argument and its modern development
+- [common-cause-null](/project/common-cause-null/) — The standing discipline against which the programme's convergence count is calibrated; the felt-unity objection under [Why Convergence Matters](#why-convergence-matters) is its application here
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Seven decades of Shannon-calibrated measurement and the architectural implications of the informational grain
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The temporal mismatch in detail
 - [resolution-void](/voids/resolution-void/) — What grain mismatch means for the limits of self-knowledge
