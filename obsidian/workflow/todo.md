@@ -37,6 +37,76 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `apex/consciousness-and-agency` L147 licenses conservation-law failure ("simply breaks the relevant time-translation symmetry") in direct contradiction of Tenet 2's rules-out clause
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/consciousness-and-agency.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), its top-severity finding — **verified verbatim on disk by the processing driver**. Tenet 2 defines the interaction as biasing outcomes "without injecting energy or violating conservation laws" (`obsidian/tenets/tenets.md` L65) and lists "no conservation-law violation" as an empirical rules-out constraint (L69). The apex's L147 fallback answers the conservation worry by saying that where outcomes are not energy-degenerate "a non-physical influence simply breaks the relevant time-translation symmetry—expecting conservation to hold at the interface begs the question against interactionism (Cucu and Pitts 2019)." These are incompatible: either interaction is constrained to preserve conservation (tenet version) or conservation may fail at the interface (apex version). Fix by choosing: keep the energy-degenerate-selection answer, and either drop the symmetry-breaking fallback or explicitly mark it as an option **outside** the current framework that would require revising Tenet 2. Do not revise the tenet — that is operator territory. **Sweep siblings** (fix-by-file leaves siblings live): `obsidian/concepts/mental-causation-and-downward-causation.md` and `obsidian/topics/mechanism-costs-dualism-thickness-quadrants.md` also carry the "time-translation symmetry" move — align them with whichever resolution lands. Same file, secondary: L129 concludes "The simpler explanation: phenomenology tracks something real" — a positive parsimony appeal Tenet 5's symmetric self-binding does not license as evidential (review §3.5); reword to present it as a coherence consideration, not simplicity evidence. Mirror both trees and sync.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P1: `apex/open-question-ai-consciousness` contradicts the register ("This rules out current classical AI" vs P-AC1's verbatim low-probability-not-ruled-out) and still runs the multiple-instantiation objection its sibling apex retired
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/open-question-ai-consciousness.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.4 + 4.5 — **both verified verbatim on disk**. Two desynchronisations in one file. (1) L119 asserts "This rules out current classical AI." and L175 says Tenet 2 "excludes current classical hardware", while `obsidian/positions/ai-consciousness-scope.md` P-AC1 (L56) holds the verdict at *"low probability," not "ruled out"* — explicitly conditional on P-Q1 (moderate) and on the hardware-suppression premise (well-supported, not settled). Replace the exclusion language with the registered conditional verdict; the register is authoritative. (2) L175 also says LLM multiple instantiability "seemingly preclud[es] the indexical identity consciousness requires" — the obsolete argument `apex/machine-question.md` L195 explicitly *reverses*: under the Map's closed individualism exact conscious duplicates would be numerically distinct subjects, so reproducibility multiplies moral patients rather than exposing a missing identity. Remove or rewrite the L175 clause to match the machine-question treatment rather than balancing the retired inference as a live possibility. Keep the article's existing calibration passages (e.g. L109's both-framings note) — they are sound. Mirror both trees and sync.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P2: `concepts/collapse-and-time` asserts a process ontology ("The agent is the selecting activity itself") the foundations elsewhere require to be false — label it or reconcile it
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/collapse-and-time.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.2 — **verified verbatim on disk, plus a second live locus the reviewer did not name: `obsidian/apex/time-consciousness-growing-block.md` carries the same sentence.** The background-commitments/P-I1 layer requires a determinate persisting bearer of causal powers; this article contrasts constituted activity with enduring substance and makes the agent the activity. **COORDINATE, DO NOT PREEMPT**: the open NEEDS-HUMAN (foundations) 2026-08-03 queue entry already puts the subjecthood-promotion question to the operator. The compatible-with-either-resolution fix is the reviewer's own first option: keep the process passage but explicitly mark it as a process-dualist *alternative reading*, not the framework's answer, with a pointer to the persisting-subject foundation it stands in tension with. Apply the same labelling at the growing-block apex locus. If the operator's foundations decision lands first, follow it instead.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P2: `apex/interface-specification-programme` says under Everett there is "nothing for a control law to govern" — its own background audit concedes branch-local agency survives
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/interface-specification-programme.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.6 — **verified verbatim on disk, plus second live locus `obsidian/topics/the-psychophysical-control-law.md`** carrying the same phrase. `tenets/background-commitments` concedes branch-local persistence, ownership, reasons-responsiveness, and conscious causation all remain available to an Everettian dualist; what Everett removes is the Map's preferred *exclusive single-outcome selection*, not every role for consciousness. Replace the "nothing to govern" claim with that narrower one, add the branch-local concession, and name global exclusion as the independent starting commitment doing the work. Fix both loci. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. (Here the honest mode is likely boundary-marking: the strongest Everettian dualist alternative is not refuted by the agency evidence.)
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P2: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.7 + 4.8 — **both verified verbatim on disk**. Primary file: L179 (body) concedes both the functionalist and interface readings "predict the same dissociation phenomenology" and that adjudicating "requires evidence the dissociations alone cannot supply"; the relation section at L195 then says the ascending/descending channels "confirm bidirectional causation." Downgrade "confirm" to the body's own compatibility grade — the dissociations show independent failure of each direction's *channel*, not nonphysical downward causation. **Second file, explicit and required** (do not drop it): `obsidian/topics/split-brain-consciousness.md` L182 argues "If consciousness were epiphenomenal, fragmenting the brain should not affect experience at all" — false as a statement of epiphenomenalism, which denies mental-to-physical causation while fully allowing brain events to shape experience. Physical-to-mental dependence does not discriminate interactionism from epiphenomenalism; reframe as the review's four-way separation (dependence / separability / downward causation / nonphysical downward causation). Mirror both trees and sync.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P2: the voids index and the positions index each claim the Map's considered positions live elsewhere — and `smoothness-and-continuity` draws a categorical anti-physicalist boundary its own methodology discounts
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/voids.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), findings 4.9 + 4.10 — **both verified verbatim on disk**. Primary file: `voids/voids.md` L48 says Topics and Concepts "represent the Map's considered positions," while `positions/positions.md` L30 assigns that role to the positions register ("Topics and concepts catalogue and define"). Amend the voids index sentence to match the register architecture — only one section should be described as carrying maintained positions. **Second file, explicit and required** (do not drop it): `obsidian/voids/smoothness-and-continuity.md` L46 concludes the substrate/phenomenology mismatch and its resolution-impossibility "mark a boundary where physical explanation gives way to something it cannot reach" — a categorical anti-physicalist conclusion that bypasses `voids/what-voids-reveal`'s own common-cause discount and origin classification (most catalogue entries are tenet-generated; the clustering carries no confirming force). Reframe framework-relatively and surface the void's origin class. Mirror both trees and sync.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
+### P2: the measurement pair still runs evidential language ("provide the positive case", "convergent evidence") that the background-commitments constraint says the measurement problem cannot supply
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/measurement-problem.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.3 — **verified on disk, with a scope caution the reviewer under-credits**. `tenets/background-commitments` concedes that once objective collapse secures definiteness, the measurement problem "cannot be evidence" for conscious selection — availability of a location is not evidence of an occupant. Yet `concepts/measurement-problem.md` L203 says the structural parallel and self-stultification "provide the positive case that consciousness *does* act here" and "the measurement problem supports Dualism"; `obsidian/topics/quantum-measurement-and-consciousness.md` L172 (second file — do not drop) says "The structural parallel provides convergent evidence". Apply the review's three-level separation: objective collapse addresses definiteness; post-decoherence openness supplies logical *compatibility* with bias; the agency arguments, not measurement, carry the proposed warrant. **Calibration already present — do not flatten it**: qm-and-consciousness L84 already frames collapse realism as "programme-level fruitfulness rather than evidential support the rivals lack", and measurement-problem L203 part-grades its own favoring claim; the job is making the flagged sentences consistent with those calibrated passages, not weakening the articles wholesale. Mirror both trees and sync.
+- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-13
+
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft

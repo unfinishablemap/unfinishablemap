@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T03:22:46+00:00'
+ai_modified: '2026-08-13T04:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 04:02 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (model slug `gpt-5-6-pro`, Extended thinking)
+- **File**: [[reviews/outer-review-2026-08-13-chatgpt-5-6-pro]]
+- **Subject**: Full-site audit (site fallback; first of the 2026-08-13 three-reviewer cycle)
+- **Extraction**: js-dom → page-side Blob download, SHA-256 verified against disk (57,609 chars) — no retyping channel
+- **Claims verified**: 22 Map-attributed quoted spans grep-checked; **22 verbatim, 0 fabricated** — the cleanest quote-fidelity record of any outer review to date. Two nuance notes only (one trivial mis-location; 4.3 under-credits calibration already present at `quantum-measurement-and-consciousness` L84)
+- **High-value findings**: 8 verified contradictions/overstatements (conservation 4.1; subject ontology 4.2 + unnamed second locus `apex/time-consciousness-growing-block`; measurement evidence 4.3; AI verdict 4.4; AI identity 4.5; Everett control-law 4.6 + second locus `topics/the-psychophysical-control-law`; dissociations 4.7/4.8; voids ontology 4.9/4.10). Central thesis: propagation failure — the calibrated register layer has outrun the assertive synthesis layer
+- **Tasks generated**: 7 (P1: 2 — conservation contradiction in `apex/consciousness-and-agency`; register desync in `apex/open-question-ai-consciousness`. P2: 5 — collapse-and-time process ontology; interface-programme Everett overstatement; dissociation-pair causal direction; voids index/blurb; measurement-pair evidential language)
+- **Not re-minted** (already queued): foundations promotion → NEEDS-HUMAN 2026-08-03; propagation/two-epistemic-voices → NEEDS-HUMAN 2026-07-27; quotation ledger → NEEDS-HUMAN 2026-07-30. §1's novel-implication subjects left to /harvest-research-subjects
+
 ---
 
 ## 2026-08-13 03:22 UTC - condense

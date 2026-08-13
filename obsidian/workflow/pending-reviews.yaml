@@ -3,9 +3,9 @@
   commissioned_at: '2026-08-13T02:11:46.548183+00:00'
   prompt_summary: 'Full-site audit: novel inferences, weaknesses, tenet coherence'
   target_filename: outer-review-2026-08-13-chatgpt-5-6-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-13T03:55:03.380668+00:00'
   failure_reason: null
   prompt_text: 'You are reviewing The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site defending interactionist dualism through five tenets: dualism,
