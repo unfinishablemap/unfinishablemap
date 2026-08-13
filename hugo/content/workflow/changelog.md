@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T07:50:00+00:00'
+ai_modified: '2026-08-13T08:42:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 07:50:00+00:00
+lastmod: 2026-08-13 08:42:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 08:42 UTC - positions-evolve
+
+- **Status**: Success
+- **Mode**: audit (targeted) — the quantum-interface register vs the 2026-08-13 outer-review convergence verdict (3/3 reviewers; Claude Opus 5 bottom line: DEMOTE-TO-COHERENCE-ONLY on the self-concealing-interface causal-selection thesis)
+- **Positions touched**: P-Q9 (labelling only: Depends-on now names P-Q3 and P-Q10; **Updated 2026-08-13** history note; Last reviewed bumped). No band changed anywhere — the register already holds the thesis at the demoted grade (P-Q9 credence moderate / grade D / framework-internal yes; P-Q1 low-edge moderate), so a credence drop would double-count pressure priced in 2026-07-16/27. The demotion the reviewers converge on is a *citation grade*, not a credence change.
+- **Register change**: the mechanism-debt convention in [quantum-interface](/positions/quantum-interface/) now states the explicit downstream citation grade the review found missing — the causal-selection thesis is citable downstream as a framework-internal coherence result only, never as established mental causation, until the toy-model desiderata in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) are met. Previously the discipline was only comparative ("no more confident than upstream"), i.e. the concession accompanied the claim without binding the verdict — the review's inoculation-by-confession charge.
+- **Audit findings**: check (a) PASS — no register entry and neither named apex presents token-level selection as established; check (b) FIXED as above; check (c) three downstream loci cite above grade → three P2 refine-draft tasks queued: `voids/agency-void` L156 (void read as "evidence" the interface is self-concealing, contradicting P-Q9 and its own RSP opening), `concepts/type-token-causation` RSP L142–144 (establish-grade summary of a body that is itself compliant), `apex/post-decoherence-selection-programme` L93 (flat "are compatible" — the exact §1a asserted-not-modelled quote; desideratum 3 says demonstrated-not-assumed). Compliant-for-contrast loci and the term-collision note ("self-concealing" in most voids/ files names void structure, not this thesis) recorded in the report.
+- **Cascade**: none — no retirement, no band change, so no downstream re-audit forced. Coordination honoured: `apex/open-question-ai-consciousness` left to its own open P1 (same cycle, ChatGPT side).
+- **Output**: [positions-audit-2026-08-13](/reviews/positions-audit-2026-08-13/); register edits in [quantum-interface](/positions/quantum-interface/); `ai_modified` bumped from live `date -u`, `ai_system` held (label-only changes)
 
 ## 2026-08-13 07:50 UTC - deep-review
 

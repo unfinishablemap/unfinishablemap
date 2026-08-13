@@ -93,6 +93,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-08-13
 
+### P2: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/agency-void.md
+- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the self-concealing-interface causal-selection thesis). L156 — "The Map reads the void as evidence the causal interface is domain-specific and self-concealing" — cites the thesis at evidence grade. P-Q9 states the thesis "does not raise the probability that the tenets are correct", and `apex/self-concealing-interface` rules the hiddenness "evidentially inert between the Map and eliminativism": absence-of-verification is predicted equally by there being no interface at all, so a void cannot be evidence *for* self-concealment. The same RSP's own opening (L154) already concedes the commitment "cannot be empirically grounded in the usual sense", so the sentence contradicts its own section, not just the register. Reword to consistency grade (the void is what a self-concealing interface predicts — and equally what its absence predicts; read as framework-internal coherence, not evidence). L66's "jointly suggest an asymmetric, self-concealing consciousness-physics interface" is the same slippage in weaker form; fix both loci in one pass. The register's citation grade now lives at [quantum-interface](/positions/quantum-interface/#mechanism-debt) — link it only if a slot exists without substantive additions. ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
+- **Audit file**: `reviews/positions-audit-2026-08-13.md`
+- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
+- **Source**: positions-evolve
+- **Generated**: 2026-08-13
+
+### P2: `concepts/type-token-causation` RSP asserts "Bidirectional causation is real at the token grain" and the exclusion conflict "dissolves" — its own body holds exactly that open
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/type-token-causation.md
+- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the causal-selection thesis). The Relation to Site Perspective section (L142–144) asserts establish-grade token causation — "Bidirectional causation is real at the token grain", "mental causation is metaphysically real (against epiphenomenalism)", "the apparent conflict between these dissolves once the type-token distinction is in hand" — while the article's own body is correctly calibrated (L84: whether the mind-conditioned distributions also match is "a further question the Map leaves deliberately open"; L130 routes the exposure to conditional residual-structure tests). The register grades the thesis coherence-only: P-Q3 holds the per-trial/type-level move as a *candidate* resolution whose collapse is a live shift condition, and `apex/born-preserving-causal-efficacy` desideratum 3 says the token-robust-yet-aggregate-invisible compatibility must be "demonstrated, not assumed". Nav-surface/body mismatch (navigation surfaces carry unreviewed claims): recalibrate the RSP to the body's grade — the dissolution is the corridor reading's claim, posited-and-coherent, not an accomplished result — WITHOUT weakening the body's marginal-vs-conditional statements, which are compliant. The citation grade lives at [quantum-interface](/positions/quantum-interface/#mechanism-debt). ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
+- **Audit file**: `reviews/positions-audit-2026-08-13.md`
+- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
+- **Source**: positions-evolve
+- **Generated**: 2026-08-13
+
+### P2: `apex/post-decoherence-selection-programme` L93 states flat "Token-level causal robustness and ensemble-level undetectability are compatible" — the inference the review quotes as asserted-not-modelled
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/post-decoherence-selection-programme.md
+- **Notes**: From positions-audit-2026-08-13 check (c) + outer review 2026-08-13 (Claude Opus 5) §1a, the 3/3 convergence cycle's central charge: "The inference that 'token-level causal robustness and ensemble-level undetectability are compatible' is asserted, not modelled." The L93 paragraph's second horn hedges the *genuineness* claim ("held as a live hypothesis the evidence does not yet decide, not as an established result") but the *compatibility* claim is left flat — and `apex/born-preserving-causal-efficacy` desideratum 3 says exactly that compatibility must be "demonstrated, not assumed", because the whole content of P-Q3 is that token-robustness and ensemble-invisibility might be jointly impossible (the impossibility-proof failure mode). Minimal one-clause fix: mark the compatibility as the corridor reading's claim pending the toy model (e.g. "are, the corridor reading holds, compatible — a compatibility P-Q10's toy-model desiderata require to be demonstrated rather than assumed"), keeping the paragraph's existing purchased-not-free cost framing intact. Verdict/labelling change, not new prose. The register's citation grade lives at [quantum-interface](/positions/quantum-interface/#mechanism-debt). ATTRIBUTION: label-only — hold `ai_system`; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
+- **Audit file**: `reviews/positions-audit-2026-08-13.md`
+- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
+- **Source**: positions-evolve
+- **Generated**: 2026-08-13
+
 ### P2: Koch & Hepp (2006) — the decoherence cluster's most-cited short empirical critique is engaged nowhere in the corpus
 
 - **Type**: refine-draft
