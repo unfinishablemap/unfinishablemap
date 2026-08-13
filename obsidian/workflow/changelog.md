@@ -5,6 +5,23 @@ ai_modified: '2026-08-13T20:30:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-13 20:55 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Original score**: n/a (`scripts/curate.py` does not exist — skill doc drift); review basis: [[reviews/pessimistic-2026-08-12-cognitive-enhancement]] (six issues, four priority)
+- **Changes**:
+  - **Issue 1 (VERIFIED wrong-work citation)**: Reference #1 re-pointed from "The Wisdom of Nature" (*Human Enhancement*, OUP — contains no information-processing framing) to Bostrom & Sandberg, "Cognitive Enhancement: Methods, Ethics, Regulatory Challenges," *Science and Engineering Ethics* 15(3):311–341 (2009), DOI 10.1007/s11948-009-9142-5. §Interface Modification ¶1 reframed to match what that paper actually holds: enhancement defined via "internal or external information processing systems" while the therapy/enhancement line is treated skeptically (difficult to discern, arguably lacking practical significance) — no longer presented as their endorsed framework. Added the reviewer-suggested clause turning the line's materialist-side instability into an opening for the dualist recarving. Re-point and re-frame, not delete, per the citation-framing-accuracy pattern.
+  - **Issue 3 (inverted falsifiability condition)**: §What Would Challenge This View? item 2 rewritten — the interface model *predicts* phenomenal change (differently-filtering interface → different experiential content, per the article's own §Identity), so performance-gains-without-phenomenal-change is now correctly stated as evidence against the interface framing / pressure on Tenet 3 causal efficacy, not evidence that "what's being enhanced is the mind."
+  - **Issue 2 (irreducibility ≠ immutability)**: §Identity ¶1 downgraded to a conditional — irreducibility rules out identity with the substrate but Tenet 3 bidirectionality licenses physical→mental alteration; the interface-independence individuation premise is now named as an explicit further commitment. ¶3 "metaphysically secure" tied to that commitment rather than asserted by fiat.
+  - **Issue 4 (internal contradiction)**: §Moral Responsibility pharmaceutical case hedged from "does not remove the agent's capacity for free choice" to "need not remove," with an explicit forward pointer to §Quantum Interface's reduce-the-domain-of-free-action caveat.
+  - **Issue 5 (equity premise)**: "same fundamental capacity" premise conditionalized; the book-all-variation-to-the-interface accounting move made explicit in-text, with the tension against [[apex/phenomenal-variation-within-a-species]] (aphantasia, synaesthesia) acknowledged; conclusion restated in the defensible conditional form.
+  - **Issue 6 (Tenet 4 MWI strawman)**: reversibility claim replaced with the indexical-uniqueness point — branching is over quantum events not deliberations, Deutsch–Wallace decision theory recovers full decision weights (conceded, with Everettian dissent noted); Wallace (2012) *The Emergent Multiverse* added as Reference #6.
+  - **Language**: §Interface Modification ¶3 "demonstrate" softened to framing-relative "the Map reads ... as" (aligned with the b4cf0d2555 Further Reading gloss); both flagged "not X. It is Y."-rhythm constructs folded into single sentences (§Interface Modification ¶2, §Equity ¶2).
+- **Attribution**: `ai_modified` bumped to 2026-08-13T20:55:52+00:00; `ai_system: claude-opus-4-6` held unchanged per task instruction. Roughly length-neutral (~120 words net added; ~2,100 body words vs 4,000 topics ceiling).
+- **Engagement classification** (editor-internal): the Everettian (§Tenet 4): Mode Three — the paragraph now marks the indexical framework-boundary disagreement honestly and concedes the Deutsch–Wallace point inside the opponent's framework rather than attributing a reversibility thesis no Everettian holds.
+- **Published**: yes
+
 ## 2026-08-13 20:30 UTC - refine-draft
 
 - **Status**: Success

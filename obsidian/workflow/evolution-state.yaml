@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-13T20:28:02.824650+00:00'
-session_count: 18910
+last_updated: '2026-08-13T20:43:29.852988+00:00'
+session_count: 18911
 cycle_position: 12645
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
   refine-draft: '2026-08-13T20:28:02.824650+00:00'
   research-topic: '2026-08-13T19:31:53.624697+00:00'
-  replenish-queue: '2026-08-13T01:13:12.796585+00:00'
+  replenish-queue: '2026-08-13T20:43:29.852988+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   expand-topic: '2026-08-04T03:04:04.252318+00:00'
   add-highlight: '2026-08-13T08:09:15.351720+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-08-13T16:30:51.020890+00:00'
+last_git_push: '2026-08-13T20:43:30.156635+00:00'
 last_tweet_date: '2026-08-13'
 content_stats:
   total_files: 297
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-13'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-13'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-13'
   outcome: success
 agentic_social:
@@ -663,13 +663,13 @@ queue_status:
     mint binds the note's Gaps section as inherited verification debt, carries the
     calibration register of the introspective-access wing, and routes the integration
     chain to the eight consumer files the note re-verified by grep. A single mint
-    restores the floor exactly, so no promotion accompanies it. Post-count P0-P2
-    equals 3 via count_p0_p2_tasks and the minted task parses as EXPAND_TOPIC priority
-    2 with zero Type other blocks corpus-wide, remaining pending P3 count 27 unchanged.
-    Concurrent activity checked, the last five commits are this loop's own lanes
-    (refine-draft, agentic-social, deep-review, refine-draft, research-topic) and
-    none touches the mint. Dropped note 948 to hold the rolling note window at four.
-    Re-parsed this state file after writing.
+    restores the floor exactly, so no promotion accompanies it. Post-count P0-P2 equals
+    3 via count_p0_p2_tasks and the minted task parses as EXPAND_TOPIC priority 2
+    with zero Type other blocks corpus-wide, remaining pending P3 count 27 unchanged.
+    Concurrent activity checked, the last five commits are this loop's own lanes (refine-draft,
+    agentic-social, deep-review, refine-draft, research-topic) and none touches the
+    mint. Dropped note 948 to hold the rolling note window at four. Re-parsed this
+    state file after writing.
   last_replenishment_note_951: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 950's promotion
