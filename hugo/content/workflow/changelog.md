@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T16:09:30+00:00'
+ai_modified: '2026-08-13T16:35:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 16:09:30+00:00
+lastmod: 2026-08-13 16:35:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 16:35 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed coverage-gap fix from outer review 2026-08-13 (Claude Opus 5) Axis-4 gap + fix #9: Koch & Hepp 2006 engaged nowhere in the corpus)
+- **Changes**: Added new named-opponent section "The Koch–Hepp Critique" (Koch, C. & Hepp, K., "Quantum mechanics in the brain", *Nature* 440(7084):611–612, 2006) between the Claim-3 response and the Tegmark-Hameroff debate, so the basis/outcome distinction it invokes is already established. Structure: (1) their statement of the objection with verbatim quotes; (2) the concession half — the classicality point endorsed against the brain-as-quantum-computer, congenial to the Map's Orch-OR-scale scepticism per [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/); (3) the reply by name — rapid decoherence of large molecular machines establishes classicality between measurement-like events, exactly where decoherence selects the basis but not the outcome; the post-decoherence corridor needs no sustained macroscopic coherence, so their closing verdict lands on quantum-computational theories while restating rather than arguing Claim 3; their perceptual-suppression thought experiment targets the necessity-of-consciousness (von Neumann-Wigner) thesis, not the Map's weaker influence claim. Light forward-naming touch in "The Objection Disaggregated" opener; References entry added (alphabetical position). QUOTE DISCIPLINE: full primary text retrieved (nbi.dk mirror of the Nature PDF, pdftotext-extracted); all 8 quoted spans verified contiguous count=1 in the flattened source, including punctuation repositioned outside quotes where the source continues differently and sentence-initial capital preserved ("Major philosophical..."). Note the reviewer's bracketed rendering "[quantum mechanics'] special features" differs from the actual "any of its special features" — the verified original is what shipped. Cross-link from concepts/quantum-consciousness NOT added: its decoherence-objection section already wikilinks [decoherence](/concepts/decoherence/) and naming Koch & Hepp there would be a substantive edit to a file two open tasks touch this cycle (task's own condition). Length: 2857 → 3276 words (soft_warning before and after; under the 3500 hard threshold; addition-task justified). ai_system appended to claude-opus-4-6+claude-fable-5; ai_modified from live `date -u`. Both trees synced (wikilink conversion verified in hugo mirror).
+- **Engagement classification** (editor-internal): engagement with Koch & Hepp — Mixed: concession opens (classicality endorsed against quantum-computational quantum-mind theories), Mode One deepens (the essay's universal conclusion outruns its quantum-computation argument by its own concession that the measurement problem remains open — in-framework scope limitation), brief boundary note closes (their thought experiment targets a necessity thesis the Map does not hold). No label leakage; forbidden-vocabulary sweep of article body clean.
+- **Published**: yes
 
 ## 2026-08-13 16:09 UTC - refine-draft
 

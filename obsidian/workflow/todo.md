@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Koch & Hepp (2006) — the decoherence cluster's most-cited short empirical critique is engaged nowhere in the corpus
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/decoherence.md
-- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), Axis-4 gap + fix #9 — **absence verified**: the only "Hepp" in the live corpus is Hepp-Reymond (a different author, in `topics/phantom-limb-phenomena.md` references); C. Koch & K. Hepp, "Quantum mechanics in the brain," *Nature* 440(7084):611–612 (2006), doi:10.1038/440611a, is engaged nowhere, despite Tegmark, Hagan, Schlosshauer and Duch all being named opponents. Add it as a named opponent where this article develops the decoherence objection: the claims to engage (per the reviewer) are that brains "do not seem to exploit any of [quantum mechanics'] special features" and that the relevant molecular machines are large enough to be "treated as classical objects." The Map's existing reply structure (decoherence explains basis selection, not outcome selection; the post-decoherence corridor needs no sustained macroscopic coherence) applies but should be stated AGAINST this source by name rather than around it — and the concession half stated too: Koch & Hepp's classicality point is congenial to the Map's own rejection of Orch-OR-style computational quantum processing. **QUOTE DISCIPLINE**: verify any quoted phrase at the retrieved primary text before inserting quotation marks (Nature paywall — WebFetch an index for metadata; if the text cannot be retrieved, paraphrase and cite without quotes; the reviewer's quotations are NOT verification). Cross-link from `concepts/quantum-consciousness`'s decoherence-objection section only if a wikilink slot exists without substantive edits — two open tasks already touch that file this cycle. P2 not P1: a coverage gap, not a live error. ATTRIBUTION: new claim-bearing prose — append your model to `ai_system`; bump `ai_modified` from live `date -u`. Measure length first with `analyze_length`. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: add a congenial-citation stance-audit lens to the calibration audit triple — in-loop review verified Escolà-Gascón's metadata clean twice and never asked whose conclusion it was
 
 - **Type**: refine-draft
@@ -2596,6 +2586,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: Koch & Hepp (2006) — the decoherence cluster's most-cited short empirical critique is engaged nowhere in the corpus
+- **Type**: refine-draft
+- **File**: obsidian/concepts/decoherence.md
+- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), Axis-4 gap + fix #9 — **absence verified**: the only "Hepp" in the live corpus is Hepp-Reymond (a different author, in `topics/phantom-limb-phenomena.md` references); C. Koch & K. Hepp, "Quantum mechanics in the brain," *Nature* 440(7084):611–612 (2006), doi:10.1038/440611a, is engaged nowhere, despite Tegmark, Hagan, Schlosshauer and Duch all being named opponents. Add it as a named opponent where this article develops the decoherence objection: the claims to engage (per the reviewer) are that brains "do not seem to exploit any of [quantum mechanics'] special features" and that the relevant molecular machines are large enough to be "treated as classical objects." The Map's existing reply structure (decoherence explains basis selection, not outcome selection; the post-decoherence corridor needs no sustained macroscopic coherence) applies but should be stated AGAINST this source by name rather than around it — and the concession half stated too: Koch & Hepp's classicality point is congenial to the Map's own rejection of Orch-OR-style computational quantum processing. **QUOTE DISCIPLINE**: verify any quoted phrase at the retrieved primary text before inserting quotation marks (Nature paywall — WebFetch an index for metadata; if the text cannot be retrieved, paraphrase and cite without quotes; the reviewer's quotations are NOT verification). Cross-link from `concepts/quantum-consciousness`'s decoherence-objection section only if a wikilink slot exists without substantive edits — two open tasks already touch that file this cycle. P2 not P1: a coverage gap, not a live error. ATTRIBUTION: new claim-bearing prose — append your model to `ai_system`; bump `ai_modified` from live `date -u`. Measure length first with `analyze_length`. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: `apex/post-decoherence-selection-programme` L93 states flat "Token-level causal robustness and ensemble-level undetectability are compatible" — the inference the review quotes as asserted-not-modelled
 - **Type**: refine-draft

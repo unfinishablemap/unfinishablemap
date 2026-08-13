@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 21:11:47+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 16:27:58+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/quantum-decoherence-objection/
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:28:50+00:00
-lastmod: 2026-07-30 21:11:47+00:00
+lastmod: 2026-08-13 16:27:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Decoherence timescales range from seconds (isolated photons) to femtoseconds (mo
 
 ## The Objection Disaggregated
 
-The "warm, wet, and noisy" slogan compresses several logically separable claims:
+The "warm, wet, and noisy" slogan—stated most influentially in Koch and Hepp's *Nature* essay (2006; engaged as a named opponent below)—compresses several logically separable claims:
 
 **Claim 1 (Timescale):** Quantum coherence in neural tissue decays in femtoseconds—orders of magnitude faster than neural processing (the [timing-gap-problem](/concepts/timing-gap-problem/)).
 
@@ -89,6 +89,16 @@ The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strength
 Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) formalises this: Zurek's framework explains how environmental redundancy makes pointer states objectively accessible to multiple observers, yet why *this* pointer state becomes actual survives intact. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting; calling outcomes "random" describes statistics without explaining individual actualisation.
 
 This response alone is sufficient to keep quantum consciousness viable regardless of decoherence timescales, provided one takes the measurement problem seriously.
+
+## The Koch–Hepp Critique
+
+*Named opponent stating Claims 1 and 2 via quantum computation. Reply: partial concession plus the basis/outcome distinction.*
+
+The field's most-cited short statement of the objection is Koch and Hepp's *Nature* essay "Quantum mechanics in the brain" (2006). Surveying the engineering obstacles to quantum computation—decoherence as fatal noise, no scalable quantum computer known—they find "a desolate picture for quantum computation inside the wet and warm brain": although brains obey quantum mechanics, "they do not seem to exploit any of its special features." The molecular machines underpinning neuronal excitability—photoreceptor components, synaptic receptors, voltage- and ligand-gated channel proteins—"are so large that they can be treated as classical objects", and synaptic transmission and spiking each involve thousands of ions and transmitter molecules, so the information neurons exchange is classical. They see "no need for quantum skyhooks."
+
+Half of this the Map endorses. The classicality argument tells against the brain as a quantum *computer*—sustained entanglement exploited as a computational resource—and the Map is [similarly sceptical of Orch-OR-scale quantum processing](/topics/comparing-quantum-consciousness-mechanisms/); the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires no quantum algorithm running on neural hardware.
+
+The unconceded half: the essay's conclusion covers more than its argument. Rapid decoherence of large molecular machines establishes that neural dynamics *between* measurement-like events are effectively classical—precisely the regime where decoherence selects the basis while leaving outcome selection untouched (the distinction developed above). Koch and Hepp grant the point—"Major philosophical and conceptual problems surround the process of making measurements in quantum mechanics"—and their classicality argument leaves those problems standing; consciousness figures in their history of the measurement debate only as "a place holder in a chain of mathematical formulae". Outcome selection in the post-decoherence corridor needs no sustained macroscopic coherence (see the discrete-observation mechanisms below), so their verdict that "there is little reason to appeal to quantum mechanics to explain higher brain functions, including consciousness" lands on quantum-computational theories while restating, rather than arguing, Claim 3 against selection-at-measurement views. Their perceptual-suppression thought experiment—one eye viewing a superposed system while salient images in the other eye keep it from conscious perception—proposes an empirical test of whether consciousness is necessary for collapse, and they judge that it is not. But this targets the strong [von Neumann–Wigner](/concepts/von-neumann-wigner-interpretation/) thesis that consciousness is *necessary* for collapse, not the Map's weaker claim that consciousness influences which outcome actualizes where physics leaves the outcome open.
 
 ## The Tegmark-Hameroff Debate
 
@@ -223,6 +233,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Kerskens, C.M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Koch, C., & Hepp, K. (2006). Quantum mechanics in the brain. *Nature*, 440(7084), 611–612.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
