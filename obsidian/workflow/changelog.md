@@ -1,8 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T02:58:48+00:00'
+ai_modified: '2026-08-13T03:22:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 03:22 UTC - condense
+
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/vitalism]]
+- **Measured**: 2426 words total (`analyze_length`, status `ok`) against the concepts soft threshold of 2500
+- **Decomposition**: authored prose 2119 words; reference apparatus (Further Reading + References) 309 words; frontmatter 68
+- **Reason**: The prose is 381 words under the soft threshold — the near-threshold total is carried partly by the citation apparatus, which is a measurement artifact, not a length defect. Per the queue task's remit ("Length only, and only if decomposition shows a genuine prose problem"), a reasoned no-op is the correct outcome; cutting sound argument to buy headroom against future cross-link installs would be refining to a metric. The protected 2026-08-02 citation work was verified intact and untouched: the Dennett *Consciousness Explained* (1991, pp. 281–2) self-quotation attribution with its do-not-re-flip history, the "Chalmers says that this would be a conceptual mistake... and I agree" parity-of-reasoning passage, the Driesch entelechy "acts into space" phrasing, and the Ramberg 2015 and Churchland 1981 references.
+- **Article edits**: none (`ai_modified` and `ai_system` unchanged; no sync needed)
+
 ---
 
 ## 2026-08-13 02:58 UTC - deep-review
