@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-12T10:37:25.439400'
+ai_modified: '2026-08-13T08:08:20.649024'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-12'
+date: '2026-08-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-12 10:37:25.439400+00:00
-modified: '2026-08-12'
+lastmod: 2026-08-13 08:08:20.649024+00:00
+modified: '2026-08-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-13: When Words Fail, the Failures Have a Shape
+
+New synthesis: language is a tool consciousness uses, not what it's made of. Ordinary ineffability splits into five distinct failure modes, and they cluster exactly where subject matter turns phenomenal. The shape of the breakage maps the user.
+
+**Type**: new-article  
+**Link**: [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/)
+
+---
+
 ### 2026-08-12: Four Routes to AI Consciousness, One Off the Map
 
 Three routes to machine consciousness stay open in the Map's framework: awareness without human-style time, quantum-state inheritance, and alien experience in superposed states. The fourth — an AI whose experience changes nothing — is excluded unless a core tenet is weakened.
@@ -192,16 +201,6 @@ Phenomenal conservatism: if something seems true, you have some justification to
 
 **Type**: refinement  
 **Link**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
-
----
-
-### 2026-07-21: When Surgeons Split the Brain, Does the Mind Split Too?
-
-Split-brain surgery seems to cut consciousness in two. A refreshed article argues the classic Sperry–Gazzaniga experiments are underdetermined: what fractures is the physical interface for report, not consciousness itself. Unity proves remarkably resilient.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2079480875532652663  
-**Link**: [split-brain-consciousness](/topics/split-brain-consciousness/)
 
 ---
 
