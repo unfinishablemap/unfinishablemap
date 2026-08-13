@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T14:47:00+00:00'
+ai_modified: '2026-08-13T15:13:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 15:13 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/reconsolidation-as-selection-window]]
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed fix pass from [[reviews/pessimistic-2026-08-13-reconsolidation-selection-window]], all seven bundled issues)
+- **Changes**: (1) Lead recalibrated from the unconditional universal ("Every time a memory is recalled...") to the conditional form — window opens under boundary conditions (Kida 2020 quoted verbatim per the family's verified-source block: "is not always destabilized", gated by retrieval duration and memory strength/age), full-strength lability when it does open; no "replication crisis"/propranolol-failure framing, per the family's standing warning. (2) "One of the better-established facts in the neuroscience of memory" downgraded to rodent-robust / human-supported-but-contested per Elsey, Van Ast & Kindt 2018 (DOI 10.1037/bul0000152); both sources added to References using the corpus-verified formats from episodic-memory.md. (3) Last bold-headed `**Evidential status.**` blockquote in topics/+concepts/ converted to inline prose at section close, all three sentences' substance preserved. (4) Epistemic/metaphysical bridge named as a further posit: hours-long classical biochemical lability is not quantum openness; venue claim additionally requires reconstruction content sensitive to quantum-scale events during the window, currently unevidenced ("genuinely unsettled" → "not yet restabilised"). (5) [[born-preserving-causal-efficacy]] linked where Born-preservation is claimed; venue marked as inheriting the apex dilemma unresolved (Born-preserving systematic purposive bias vs testable-in-principle); L71's "testable in principle" and the Site-Perspective closing sentence conditioned on the same dilemma. (6) Goal states/self-schemas/motivated-memory dynamics added to the physicalist inputs at L51 and the Site-Perspective bullet; Map's claim relocated to token-level authorship of *which* coherent reconstruction restabilises — "purposive vs interference-and-noise" dichotomy removed. (7) Falsification condition 1 replaced with an achievable covariate-accounting discriminator explicitly expected on both readings (bounds the venue, does not adjudicate occupancy); condition 3 (gating/content confusion) dropped; closing paragraph rewritten so residual variance is no longer counted as consistent-with-the-reading. Language: "severe" → "substantial", "Why the distinction is load-bearing" → "Why the distinction matters", "most temporally-localised" dropped with the hours-long-duration difficulty named. PRESERVED: L45 gating paragraph untouched, venue-not-occupant formulation, L51-53 physicalist concession, falsification section's existence. Engagement classification (editor-internal): the physicalist/eliminativist rival (Churchland/Dennett lines) — Mode Two acknowledged honestly: the schema-machinery point is conceded as the rival's home turf rather than refuted, and the Map's posit narrowed to token-level selection; the MWI objection — Mode Three, framework-boundary residue routed to the apex ledger unresolved. Both trees synced (hugo mirror carried the live lead defect); frontmatter validates; stem sweep on "time a memory is recalled" clean in content trees (remaining hits: workflow + the review file itself, exempt); 2,881 words vs 3,000 soft threshold, ok.
+- **Published**: yes
 
 ## 2026-08-13 14:47 UTC - pessimistic-review
 

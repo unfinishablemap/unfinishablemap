@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T06:52:00+00:00'
+ai_modified: '2026-08-13T14:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-13 06:52:00+00:00
+lastmod: 2026-08-13 14:45:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -39,25 +39,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: grain-mismatch's description and lead assert the unqualified independence its own L67 concedes cannot yet be quantified
+### P1: `topics/reconsolidation-as-selection-window` lead sentence asserts the unconditional-reconsolidation universal the 2026-08-06 nine-locus family removed — in the family's own reference-template file
 
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/grain-mismatch-as-independent-evidence.md
-- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), §1c + fix #7 — **PARTIALLY verified; scope corrected by the driver**. The reviewer charges that three descriptions of a single homogeneity/discreteness mismatch are counted as three votes and that "the corpus's own common-cause-null discipline… is not applied here". HALF-FALSE as stated: L67 already engages exactly this objection (the physicalist reply that the three are "three descriptions of one feature: the felt unity of consciousness"), answers via falsifiability-independence, and concedes "the programme cannot yet quantify how much the common phenomenal source discounts the convergence." **What IS live**: (a) the frontmatter `description:` ("Three independent grain mismatches… converge on dualism") and the lead/convergence sections (L33, L63–65: "multiplicatively low", the continental-drift analogy) run the unqualified independence register that L67's honest residue disclaims — a nav-surface-carries-what-the-body-qualifies defect; (b) the common-cause-null discipline apparatus is unreferenced (0 mentions) — wire the article into it explicitly. FIX: align description + lead + convergence framing to L67's residue; state the shared-premise concession at first use of "independent", not only in the objection paragraph. **Do NOT weaken L67 or the falsifier list at L85** — they are the article's strongest features. ATTRIBUTION: hold `ai_system` if re-registering only; bump `ai_modified` from live `date -u`. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
-### P2: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/agency-void.md
-- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the self-concealing-interface causal-selection thesis). L156 — "The Map reads the void as evidence the causal interface is domain-specific and self-concealing" — cites the thesis at evidence grade. P-Q9 states the thesis "does not raise the probability that the tenets are correct", and `apex/self-concealing-interface` rules the hiddenness "evidentially inert between the Map and eliminativism": absence-of-verification is predicted equally by there being no interface at all, so a void cannot be evidence *for* self-concealment. The same RSP's own opening (L154) already concedes the commitment "cannot be empirically grounded in the usual sense", so the sentence contradicts its own section, not just the register. Reword to consistency grade (the void is what a self-concealing interface predicts — and equally what its absence predicts; read as framework-internal coherence, not evidence). L66's "jointly suggest an asymmetric, self-concealing consciousness-physics interface" is the same slippage in weaker form; fix both loci in one pass. The register's citation grade now lives at [quantum-interface](/positions/quantum-interface/#mechanism-debt) — link it only if a slot exists without substantive additions. ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
-- **Audit file**: `reviews/positions-audit-2026-08-13.md`
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: positions-evolve
+- **File**: obsidian/topics/reconsolidation-as-selection-window.md
+- **Notes**: From pessimistic review 2026-08-13. **Primary defect (Issue 1, verified on disk)**: L29 first sentence — "Every time a memory is recalled, the stored trace becomes briefly editable before it restabilises" — is the defective universal, contradicting the article's own L45 conditional formulation (the family's designated template), its own frontmatter description ("under identifiable conditions, not at every recall"), and the corpus-verified Kida 2020 boundary-condition source (PMC7366: "not always destabilized" — see the ✓ 2026-08-06 family entries below for the full verified-source block). The family sweep missed it because its stems ("retrieval makes the memory labile", "each retrieval", "every recall") match none of this wording — grep the new stem `time a memory is recalled` across obsidian/, archive/ AND hugo/ when closing (currently 2 loci: this file + its hugo mirror L34). **Do NOT write "replication crisis" or claim propranolol failed to replicate** (family's standing warning). Recalibrate the lead to full-strength-lability-when-the-window-opens; keep L45 untouched — other pages defer to it. **Bundled same-file fixes from the same review** (one pass, avoid task pileup): (2) L55 bold-headed `> **Evidential status.**` blockquote is the last such callout in topics/+concepts/ — convert to inline prose at section close, preserving all three sentences' substance (label-leakage, critical per direct-refutation-discipline); (3) L29 "one of the better-established facts in the neuroscience of memory" → downgrade per Elsey, Van Ast & Kindt 2018 (DOI `10.1037/bul0000152`, corpus-verified: "viable but hotly contested"): rodent-robust, human-supported-but-contested; (4) L61: link [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) where Born-preservation is claimed and note the venue inherits that apex dilemma (Born-preserving systematic purposive bias vs "testable in principle" cannot all be kept — say which route or mark unresolved); (5) L61 area: add 2-3 sentences naming the epistemic/metaphysical bridge as a further posit — hours-long classical biochemical lability is not quantum openness; the venue claim additionally requires reconstruction content sensitive to quantum-scale events during the window (strengthens calibration, no thesis change); (6) L63/L51: add goal-states/self-schema/motivated-reconstruction to the physical inputs list — "purposive vs interference-and-noise" under-describes the rival; relocate the Map's claim to token-level authorship of WHICH coherent reconstruction restabilises; (7) L93 falsification condition 1 "no residual variance" is unachievable (unfailable) and condition 3 confuses gating with content — repair or drop. Language nits: "severe" (L75), "Why the distinction is load-bearing" (L85) → plain word, "most temporally-localised" (L53) → drop the middle superlative (an hours-long window is not temporally localised). PRESERVE: L45, the venue-not-occupant formulation, the L51-53 physicalist concession, the falsification section's existence. ATTRIBUTION: claim-bearing prose edits — append your model to `ai_system`; bump `ai_modified` from live `date -u` (strictly past). Sync both trees (hugo mirror carries the live lead defect).
+- **Review file**: `reviews/pessimistic-2026-08-13-reconsolidation-selection-window.md`
+- **Source**: pessimistic-review
 - **Generated**: 2026-08-13
 
 ### P2: `concepts/type-token-causation` RSP asserts "Bidirectional causation is real at the token grain" and the exclusion conflict "dissolves" — its own body holds exactly that open
@@ -2641,6 +2630,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
+- **Type**: refine-draft
+- **File**: obsidian/voids/agency-void.md
+- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the self-concealing-interface causal-selection thesis). L156 — "The Map reads the void as evidence the causal interface is domain-specific and self-concealing" — cites the thesis at evidence grade. P-Q9 states the thesis "does not raise the probability that the tenets are correct", and `apex/self-concealing-interface` rules the hiddenness "evidentially inert between the Map and eliminativism": absence-of-verification is predicted equally by there being no interface at all, so a void cannot be evidence *for* self-concealment. The same RSP's own opening (L154) already concedes the commitment "cannot be empirically grounded in the usual sense", so the sentence contradicts its own section, not just the register. Reword to consistency grade (the void is what a self-concealing interface predicts — and equally what its absence predicts; read as framework-internal coherence, not evidence). L66's "jointly suggest an asymmetric, self-concealing consciousness-physics interface" is the same slippage in weaker form; fix both loci in one pass. The register's citation grade now lives at [quantum-interface](/positions/quantum-interface/#mechanism-debt) — link it only if a slot exists without substantive additions. ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
+
+### ✓ 2026-08-13: grain-mismatch's description and lead assert the unqualified independence its own L67 concedes cannot yet be quantified
+- **Type**: refine-draft
+- **File**: obsidian/topics/grain-mismatch-as-independent-evidence.md
+- **Notes**: From outer review 2026-08-13 (Claude Opus 5 full-site audit), §1c + fix #7 — **PARTIALLY verified; scope corrected by the driver**. The reviewer charges that three descriptions of a single homogeneity/discreteness mismatch are counted as three votes and that "the corpus's own common-cause-null discipline… is not applied here". HALF-FALSE as stated: L67 already engages exactly this objection (the physicalist reply that the three are "three descriptions of one feature: the felt unity of consciousness"), answers via falsifiability-independence, and concedes "the programme cannot yet quantify how much the common phenomenal source discounts the convergence." **What IS live**: (a) the frontmatter `description:` ("Three independent grain mismatches… converge on dualism") and the lead/convergence sections (L33, L63–65: "multiplicatively low", the continental-drift analogy) run the unqualified independence register that L67's honest residue disclaims — a nav-surface-carries-what-the-body-qualifies defect; (b) the common-cause-null discipline apparatus is unreferenced (0 mentions) — wire the article into it explicitly. FIX: align description + lead + convergence framing to L67's residue; state the shared-premise concession at first use of "independent", not only in the objection paragraph. **Do NOT weaken L67 or the falsifier list at L85** — they are the article's strongest features. ATTRIBUTION: hold `ai_system` if re-registering only; bump `ai_modified` from live `date -u`. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: predictive-processing-and-dualism defuses active inference metaphysically but never makes it compete mechanistically with post-decoherence selection
 - **Type**: refine-draft
