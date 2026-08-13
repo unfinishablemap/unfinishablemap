@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T04:55:00+00:00'
+ai_modified: '2026-08-13T05:23:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 05:23 UTC - collect-gemini-review + outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research; commissioned 04:14 UTC, collected 05:12 UTC; extraction js-dom via page-side Blob, SHA-256-verified, 32,268 chars)
+- **File**: [[reviews/outer-review-2026-08-13-gemini-2-5-pro]]
+- **Claims verified**: ~25 — 12 attributed quotes confirmed verbatim; 4 paraphrases presented as quotes; 8 omission/evasion charges checked against the corpus and found false (GNW 124 files, IIT 122, illusionism 248, Cogitate 39, Zurek/Schlosshauer 36); 5 cited "omitted sources" checked via OpenAlex, 3 confabulated (Adams & Petruccione title/journal garbled; Greer 2020 and Timmermann 2023 nonexistent)
+- **High-value findings**: 2 (measurement back-action/heating objection to the Stapp "no energy is injected" claim — genuinely unengaged corpus-wide; terminal-depolarization deflationary reading of the Borjigin surge — never named)
+- **Tasks generated**: 2 (P1: 1, P2: 1)
+- **Note**: the review's central framing attacks Stapp-QZE as the Map's "architectural pillar"; P-Q1's actual preference is post-decoherence selection, held precisely because it sidesteps that objection. Convergent with prior reviews' vacuity charge already priced into P-Q1/P-Q3 calibration.
 
 ## 2026-08-13 04:55 UTC - collect-claude-review + outer-review
 
