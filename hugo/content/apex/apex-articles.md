@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-08-12 19:14:57+00:00
+ai_modified: 2026-08-13 00:53:17+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-08-12 19:14:57+00:00
+lastmod: 2026-08-13 00:53:17+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -536,7 +536,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: A structural dissociation visible across perception, cognition, agency, and memory
 
-**Thesis**: Phenomenal access systematically reaches outputs but not the operations that produce them, across perception, cognition, agency, and memory — and the dissociation has a positive companion in which phenomenology couples to causal machinery in matching detail. The cumulative convergence across seven independent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel) is what carries the evidential weight, while each individual dissociation merely constrains identity readings rather than establishing the dualist alternative. The cluster is the catalogue's tightest worked instance of the cumulative-convergence move and the constrain-vs-establish methodological discipline.
+**Thesis**: Phenomenal access systematically reaches outputs but not the operations that produce them, across perception, cognition, agency, and memory — and the dissociation has a positive companion in which phenomenology couples to causal machinery in matching detail. The cumulative convergence across five-or-six traditions on the audited count (with Bergson a parallel proposer rather than a witness, Carruthers reassigned to the strongest absorption rather than counted as a witness, and Schwitzgebel's scepticism applying to both operations and outputs) is what carries the evidential weight, while each individual dissociation merely constrains identity readings rather than establishing the dualist alternative. The cluster is the catalogue's tightest worked instance of the cumulative-convergence move and the constrain-vs-establish methodological discipline.
 
 **Source articles**:
 - topics/memory-anomalies

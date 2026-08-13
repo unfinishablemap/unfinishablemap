@@ -1,8 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T00:28:00+00:00'
+ai_modified: '2026-08-13T00:53:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 00:53 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/apex-articles]]
+- **Original score**: N/A (targeted clause fix from replenish-queue mint; `scripts/curate.py` review script not present in repo)
+- **Changes**: Entry 24 (Phenomenal Output and Causal Machinery) catalogue thesis at L536 updated to carry the audited convergence count: "seven independent traditions (Carruthers, Trick & Pylyshyn, Koriat, Polanyi, Inzlicht/Kurzban, Bergson, Schwitzgebel)" → "five-or-six traditions on the audited count (with Bergson a parallel proposer rather than a witness, Carruthers reassigned to the strongest absorption rather than counted as a witness, and Schwitzgebel's scepticism applying to both operations and outputs)". Wording mirrored from the article's own frontmatter `apex_thesis` (L59) and body L157/L69/L191 — not composed fresh. The catalogue had published the exact inflated count that [[apex/steelmanning-as-method]] L93-L96 holds up as the Map's worked exhibit of downward count-auditing; gap stood 83 days (introduced 2026-05-09 at article creation, article audited 2026-05-18). Rest of thesis (positive companion, constrain-vs-establish, tightest-worked-instance) untouched; length-neutral clause swap.
+- **Sweep**: `grep -rn "seven independent traditions"` post-fix over obsidian/, archive/, hugo/content/ — remaining hits only in `reviews/pessimistic-2026-05-09b.md` (obsidian + hugo; the review that drove the audit, correctly quoting pre-audit wording — echo pattern, not edited) and `workflow/todo.md` (task description). Both live loci fixed: obsidian catalogue + hugo mirror via `scripts/sync.py`, mirror grep-verified 0.
+- **Not done by design**: the article `apex/phenomenal-output-causal-machinery-dissociation.md` untouched (over apex ceiling; condense carries standing operator veto per 2026-07-29 NEEDS-HUMAN entry); no corpus-wide thesis-reconciliation sweep (24/35 catalogue-vs-frontmatter thesis divergences are the norm, not defects — task's negative finding).
+- **Frontmatter**: `ai_modified` → 2026-08-13T00:53:17+00:00 (live `date -u`, verified past); `ai_system` held (null).
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 00:30 UTC - positions-evolve (P-SC1 citation re-label + cross-domain Argued-in spot-check)
