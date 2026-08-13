@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T01:35:00+00:00'
+ai_modified: '2026-08-13T01:57:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 01:57 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-problem-of-induction]]
+- **Original score**: N/A (`scripts/curate.py` review script not present in repo; review context supplied by [[reviews/pessimistic-2026-08-13-problem-of-induction]])
+- **Changes**: All six review issues addressed. **Issue 1 (High)**: §Induction Across the Explanatory Gap rewritten to split predictive from explanatory readings — cross-category induction succeeds predictively (propofol dosing, visual-cortex decoding) while explanation/derivation fails; closing sentence now "Induction crosses that boundary predictively every day; what it cannot do is explain the correlations it successfully projects", with the projection-succeeds/explanation-fails split framed as the shape a fundamental interface would produce. **Issue 2 (High)**: new paragraph in §Enabling Condition conceding machine induction-as-behaviour in full and locating the claim at justification rather than performance, cross-linking [[machine-consciousness]], [[llm-consciousness]], [[anti-correlation-probes-for-ai-consciousness]]. **Issue 3**: surprise passage weakened to what the phenomenon supports (violation experienced; some expectations become occurrent when breached; presupposition claim dropped); deliberate-forecasting hedge added ("most expectations are implicit, running phenomenally silent until something violates them"). **Issue 4**: Occam paragraph gains calibrating clause ("On the Map's reading of the dispute left unresolved above…"), "everything" dropped; "This is a feature, not a bug" recast as "Dualism predicts this explanatory failure"; Dualism paragraph conditioned to the explanatory sense. **Issue 5**: felt-confidence passages in §Sidelined and the normative-sensitivity bullet recast in access-not-constitution terms, noting fluency-tracking miscalibration; Thompson et al. 2011 and Koriat 1997 added to References. **Issue 6**: brute-correlation claim conditioned on framework stage with link to [[epistemology-of-mechanism-at-the-consciousness-matter-interface]]. **Minor**: "scandal of philosophy" attributed to C.D. Broad's 1926 Bacon tercentenary address (Broad 1926 added to References); Lewis reference updated to the 1960 revised *Miracles* (ch. 3 rewritten post-Anscombe); Plantinga reference cued in §Self-Application via one EAAN sentence; "the Map argues" framing added to the semantic-understanding bullet; lead's "argued below" now uses named anchors to the two argument-bearing sections. **Preserved untouched per review**: reliabilist boundary-marking in §Sidelined, functionalist boundary-marking in §Enabling Condition, identity-theorist scope-limit in §Self-Application. Engagement classifications (editor-internal): reliabilist/Quine reply — Mode Two with boundary residue, pre-existing and preserved; functionalist engagement — mixed (Mode Two opening, Mode Three close), pre-existing and preserved; machine-induction paragraph (new) — Mode Three, disagreement honestly deferred to the AI wing rather than refuted. Frontmatter: `ai_modified` bumped, `ai_system` → claude-opus-4-6+claude-fable-5. Mirrored to `hugo/content/topics/` via single-file converter run (all new links resolve; anchors render).
+- **Published**: yes
+
 ---
 
 ## 2026-08-13 01:35 UTC - pessimistic-review
