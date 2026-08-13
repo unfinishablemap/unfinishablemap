@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-13T20:15:12.763870+00:00'
-session_count: 18909
-cycle_position: 12644
+last_updated: '2026-08-13T20:28:02.824650+00:00'
+session_count: 18910
+cycle_position: 12645
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-13T14:45:29.236712+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
   commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
-  refine-draft: '2026-08-13T19:42:59.742597+00:00'
+  refine-draft: '2026-08-13T20:28:02.824650+00:00'
   research-topic: '2026-08-13T19:31:53.624697+00:00'
   replenish-queue: '2026-08-13T01:13:12.796585+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-13'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-13'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-13'
   outcome: success
 agentic_social:
@@ -633,14 +633,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 23
+  p2_tasks: 3
+  p3_tasks: 27
   needs_replenishment: false
-  loop_pickable_open: 4
-  last_replenishment: '2026-08-13T01:11:00+00:00'
-  last_replenishment_prev: '2026-08-12T23:13:00+00:00'
-  last_replenishment_run: 951
-  last_replenishment_mode: promotion-only-two-oldest-p3
+  loop_pickable_open: 3
+  last_replenishment: '2026-08-13T20:41:00+00:00'
+  last_replenishment_prev: '2026-08-13T01:11:00+00:00'
+  last_replenishment_run: 952
+  last_replenishment_mode: chain-mint-unconsumed-research
+  last_replenishment_note_952: Pre-count P0-P2 equals 2 against a floor of 3, measured
+    live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
+    the three veto-tagged condense tasks parser-excluded as always. Run 951's two
+    promotions (the P-Q5 band-move audit and the vitalism condense) are no longer
+    active, returning the pickable count to 2 — the surviving pair being run 950's
+    hypnopompia expand-topic chain mint and the 2026-08-12 ethics-of-cognitive-enhancement
+    refine, both still pending. Departed from promotion on purpose and by the documented
+    source priority — the 19:36 UTC research-topic completion (commit 76a6695a0f)
+    landed obsidian/research/descriptive-experience-sampling-2026-08-13.md with verdict
+    PROCEED and target_section concepts, and unconsumed research outranks every other
+    mint source. The 947-949 precedent of leaving a fresh note unconsumed for three
+    runs while citing the promotion-only pattern is the named failure mode this run
+    avoids, matching run 950's handling of the hypnopompia note. Restored to 3 by
+    a single P2 expand-topic chain mint appended at the end of the Active section
+    (append position shifts no existing task lines), targeting concepts at gate 315
+    of 320 measured at mint via tools.evolution.state.count_section_files, with the
+    last topics slot explicitly reserved for the open hypnopompia expand in the task
+    text. Dedupe verified clean — no live or archived article for the slug descriptive-experience-sampling,
+    no Vetoed-bank match, no other open task carrying the research note path. The
+    mint binds the note's Gaps section as inherited verification debt, carries the
+    calibration register of the introspective-access wing, and routes the integration
+    chain to the eight consumer files the note re-verified by grep. A single mint
+    restores the floor exactly, so no promotion accompanies it. Post-count P0-P2
+    equals 3 via count_p0_p2_tasks and the minted task parses as EXPAND_TOPIC priority
+    2 with zero Type other blocks corpus-wide, remaining pending P3 count 27 unchanged.
+    Concurrent activity checked, the last five commits are this loop's own lanes
+    (refine-draft, agentic-social, deep-review, refine-draft, research-topic) and
+    none touches the mint. Dropped note 948 to hold the rolling note window at four.
+    Re-parsed this state file after writing.
   last_replenishment_note_951: Pre-count P0-P2 equals 2 against a floor of 3, measured
     live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. Run 950's promotion
@@ -740,38 +769,6 @@ queue_status:
     L138. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count
     25. Rolling note window held at four numbered notes, note_945 dropped as run 948
     dropped note_943.
-  last_replenishment_note_948: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 29 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 947's two
-    promotions (philosophy-of-science citation pass, its dependent apex) both completed
-    within ninety minutes via commits 9ff375093e and 10533cf23c, returning the pickable
-    count to 2. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03
-    batch, now the oldest Generated date in the pool since the 2026-08-02 batch is
-    exhausted (its remaining blocks are completed or NEEDS-HUMAN), priority digit
-    only, no re-scope, no mint, no section slot consumed. The pair is explicitly coupled,
-    the first task's Related line says do both or neither, so promoting them together
-    honours the coupling. Promotion one, todo L328, refine-draft on obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md,
-    disclose the interface-eligibility debt beside the Removing a Defeater section.
-    Premise re-verified live, the article greps zero for ai-consciousness-scope and
-    interface-eligibility, the section exists at L68, and P-AC1 still names the missing
-    law at L55, L58, L59 and L61. One figure corrected in passing, the task says three
-    unqualified Fails verdicts where the table renders two unqualified (Specificity
-    L55, Granularity L56) plus one qualified Fails-as-engineered (Continuity L54),
-    immaterial to the premise. Promotion two, todo L343, positions-evolve on obsidian/positions/ai-consciousness-scope.md,
-    register the five-requirement channel test as nearest approximation in P-AC1's
-    Depends-on and extend its Argued-in. Premise re-verified live, positions/ greps
-    zero for directness and granularity (three generic-prose specificity hits in other
-    register files are unrelated to the channel test), and P-AC1's Argued-in still
-    lacks both named topics articles despite five register-touching commits since
-    08-03, none of which discharged either task. Collision clean, the only File-line
-    carriers of either path above the Completed marker are the two promoted tasks
-    themselves. Selector verified post-promotion, select_queue_task returns the article-side
-    refine at L328 ahead of the register-side positions-evolve at L343. Post-count
-    P0-P2 equals 4 via count_p0_p2_tasks, remaining pending P3 count 27. Concurrent
-    activity checked, the last five commits are this loop's own lanes (apex-evolve,
-    sync, refine-draft, agentic-social, coalesce) and none touches either promotion
-    target. Dropped note 943 to hold the rolling note window at four. Re-parsed this
-    state file after writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
