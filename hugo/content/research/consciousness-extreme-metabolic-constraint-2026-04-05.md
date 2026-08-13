@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-05 00:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 11:24:58+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 concepts: []
 created: 2026-04-05
-date: '2026-06-05'
+date: '2026-08-13'
 draft: false
-lastmod: 2026-06-05 00:00:00+00:00
+lastmod: 2026-08-13 11:24:58+00:00
 related_articles: []
 title: Research Notes - Consciousness Under Extreme Metabolic Constraint
 ---
@@ -42,7 +42,7 @@ The relationship between metabolic supply and consciousness presents a major evi
   - Increased interhemispheric functional and directed connectivity in gamma bands
   - Activation of temporo-parieto-occipital (TPO) junctions — regions associated with conscious experience, dreaming, and out-of-body experiences
   - Activity lasted approximately 30 seconds after cardiac arrest
-- **Tenet alignment**: Compatible with dualism — the gamma surge during cardiac arrest is a striking finding but production-model accounts (terminal disinhibition, neurotransmitter cascades, membrane breakdown patterns) have been proposed and remain live. The data constrain naive metabolic-correlation models without uniquely supporting dualism.
+- **Tenet alignment**: Compatible with dualism — the gamma surge during cardiac arrest is a striking finding but production-model accounts (terminal disinhibition, neurotransmitter cascades, membrane breakdown patterns) have been proposed and remain live. The strongest of these is the anoxic-depolarization account: ATP depletion and Na+/K+ pump failure transiently generating high-frequency activity before isoelectric silence, the anoxic relative of terminal spreading depolarization (Dreier, J.P. et al. 2018, *Annals of Neurology*, 83(2), 295-310) — though the surge's organized coupling and connectivity structure keeps a rival reading live. The data constrain naive metabolic-correlation models without uniquely supporting dualism.
 - **Quote**: "The dying human brain can be activated"
 
 ### Consciousness and the Dying Brain (2024)

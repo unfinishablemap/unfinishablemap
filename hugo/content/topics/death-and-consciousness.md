@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 07:38:23+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-13 11:24:58+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /topics/death-and-consciousness/
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 07:38:23+00:00
-lastmod: 2026-07-30 07:38:23+00:00
+lastmod: 2026-08-13 11:24:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ This sharpens the Map's rejection of Parfit. The extended self isn't a pattern t
 
 ### Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found suggestive evidence of conscious awareness during arrest, with AWARE II reporting that around 40% of interviewed survivors recalled some perception of consciousness and roughly 20% described features consistent with a "recalled experience of death." Xu et al. (2023) recorded surges of gamma-band connectivity in four comatose patients during withdrawal of ventilatory support—heightened neural coupling in regions associated with conscious processing, though these patients did not survive to report any experience, so the surge is a neural signal rather than confirmed phenomenology. Materialist explanations exist but none fully accounts for why failing neural function sometimes coincides with reports of *heightened* consciousness. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment.
+[Near-death experiences](/concepts/near-death-experiences/) (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found suggestive evidence of conscious awareness during arrest, with AWARE II reporting that around 40% of interviewed survivors recalled some perception of consciousness and roughly 20% described features consistent with a "recalled experience of death." Xu et al. (2023) recorded surges of gamma-band connectivity in four comatose patients during withdrawal of ventilatory support—heightened neural coupling in regions associated with conscious processing, though these patients did not survive to report any experience, so the surge is a neural signal rather than confirmed phenomenology. The strongest deflationary reading of the surge treats it as an artifact of terminal hypoxia—failing Na+/K+ pumps and anoxic depolarization transiently generating high-frequency activity before isoelectric silence, the anoxic relative of the terminal spreading depolarizations recorded in dying human cortex (Dreier et al. 2018)—though the surge's organized cross-frequency coupling and connectivity structure keeps a rival reading live. Materialist explanations exist but none fully accounts for why failing neural function sometimes coincides with reports of *heightened* consciousness. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment, including what would discriminate between the artifact and filter readings.
 
 ### Deathbed Visions
 
@@ -220,6 +220,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 
 1. Bodien, Y.G., Allanson, J., Cardone, P., et al. (2024). "Cognitive motor dissociation in disorders of consciousness." *New England Journal of Medicine*, 391(7), 598-608.
 1. Callanan, M. & Kelley, P. (1992). *Final Gifts: Understanding the Special Awareness, Needs, and Communications of the Dying*. Poseidon Press.
+1. Dreier, J.P. et al. (2018). "Terminal spreading depolarization and electrical silence in death of human cerebral cortex." *Annals of Neurology*, 83(2), 295-310.
 1. Fenwick, P. & Fenwick, E. (2008). *The Art of Dying*. Continuum.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
 1. Kerr, C. et al. (2014). End-of-life dreams and visions: A longitudinal study of hospice patients' experiences. *Journal of Palliative Medicine*, 17(3), 296-303.

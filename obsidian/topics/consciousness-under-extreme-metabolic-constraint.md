@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-08-08T18:57:18+00:00
+ai_modified: 2026-08-13T11:24:58+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-07-13T17:42:20+00:00
@@ -79,7 +79,7 @@ The [[filter-theory|filter or transmission theory]]—originating with William J
 - **NDEs during metabolic crisis**: Reduced filtering allows broader conscious access, experienced as vivid, expansive awareness.
 - **Gamma surges in dying brains**: The filter is failing, and consciousness briefly breaks through with reduced constraint—though the evidence remains preliminary.
 
-The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. Accommodating all five simultaneously requires auxiliary hypotheses that complicate the model's original simplicity. The filter model accounts for the pattern from a single principle—metabolism sustains constraint, not consciousness—though this parsimony must be weighed against the filter model's own risk of unfalsifiability (addressed in the section on what would challenge filter theory). [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
+The production model can accommodate each anomaly individually—perhaps gamma surges are death throes (the specific proposal: anoxic depolarization from Na+/K+ pump failure transiently generating high-frequency activity before terminal silence, the anoxic relative of the spreading depolarizations recorded in dying human cortex—Dreier et al. 2018; see [[near-death-experiences]] for the full engagement), perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. Accommodating all five simultaneously requires auxiliary hypotheses that complicate the model's original simplicity. The filter model accounts for the pattern from a single principle—metabolism sustains constraint, not consciousness—though this parsimony must be weighed against the filter model's own risk of unfalsifiability (addressed in the section on what would challenge filter theory). [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
 
 ## Chronic Versus Acute Metabolic Failure
 
@@ -137,13 +137,14 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 
 1. Pepperell, R. (2018). Consciousness as a Physical Process Caused by the Organization of Energy in the Brain. *Frontiers in Psychology*, 9, 2091.
 2. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19).
-3. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*, 35(1), 58–65. (Epub 2014; print 2015.)
-4. Mashour, G. A., Lee, U., Pal, D., & Li, D. (2024). Consciousness and the Dying Brain. *Anesthesiology*, 140(6), 1221–1231.
-5. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
-6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
-7. Cerri, M. (2017). Consciousness in hibernation and synthetic torpor. *Journal of Integrative Neuroscience*, 16(s1), S19–S26.
-8. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-9. Batthyány, A. & Greyson, B. (2021). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
-10. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
-11. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
-12. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/
+3. Dreier, J.P., et al. (2018). Terminal spreading depolarization and electrical silence in death of human cerebral cortex. *Annals of Neurology*, 83(2), 295-310.
+4. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*, 35(1), 58–65. (Epub 2014; print 2015.)
+5. Mashour, G. A., Lee, U., Pal, D., & Li, D. (2024). Consciousness and the Dying Brain. *Anesthesiology*, 140(6), 1221–1231.
+6. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
+7. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
+8. Cerri, M. (2017). Consciousness in hibernation and synthetic torpor. *Journal of Integrative Neuroscience*, 16(s1), S19–S26.
+9. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+10. Batthyány, A. & Greyson, B. (2021). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
+11. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
+12. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
+13. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/

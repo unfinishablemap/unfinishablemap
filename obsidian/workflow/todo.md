@@ -37,15 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the NDE/death cluster never names the anoxic terminal-depolarization deflationary reading of the Borjigin gamma surge
-
+### P2: Adopt counterfactual-reasoning calibration in consciousness-and-the-problem-of-induction
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/concepts/near-death-experiences.md
-- **Notes**: From outer review 2026-08-13 (Gemini 2.5 Pro full-site audit), weakness §2 — kernel salvaged from a mostly-failed charge. VERIFIED: the article already hedges Borjigin (2023) honestly (L93 "subjective correlate remains unknown"; L163 "frank speculation… cuts against the physics… remain ambiguous"), so the reviewer's "weaponizes this data" charge fails against it. The narrower verified gap: grep for "terminal depolar|spreading depolar" across the content tree = 0 — the corpus nowhere names the specific physiological deflationary account (hypoxia → ATP depletion → Na+/K+ pump failure → anoxic/spreading depolarization producing transient high-frequency EEG bursts; high-frequency power is necessary but not sufficient for consciousness — cf. tonic-clonic seizures). FIX — engage, don't concede: name this as the strongest physicalist reading of the surge in the article's counterweight discussion, and note what cuts against a pure-artifact reading (Borjigin et al. 2023 PNAS report organized cross-frequency-coupled TPO gamma with connectivity structure, preceding terminal silence — a live rival reading, not a settled debunk); mark what would discriminate. Check `obsidian/topics/death-and-consciousness.md` and the Borjigin-citing research notes as secondary carriers (research-note gaps propagate). CITATION WARNING: the reviewer's supporting cite (Greer, D. M. et al. (2020) "Brain death and true consciousness: A rigorous assessment of anoxic brain injury", *Neurology*) appears CONFABULATED — OpenAlex 2026-08-13 finds no such title; Greer's real 2020 work is the World Brain Death Project (JAMA). Do not import it; source the depolarization physiology to verified literature (the spreading-depolarization canon, e.g. Dreier and colleagues — verify at publisher first). The reviewer's two "PNAS paper states clearly" quotes are third-person press-style paraphrases, not paper text — never reproduce them as quotes. Apply the direct-refutation discipline: this is an in-framework rival-reading engagement; write it in natural journal-quality prose, no mode labels in the article body. ATTRIBUTION: append your model to each edited file's `ai_system` if absent; bump `ai_modified` from a live `date -u`. Mirror both trees and sync.
-- **Review file**: `reviews/outer-review-2026-08-13-gemini-2-5-pro.md`
-- **Source**: outer-review
+- **File**: obsidian/topics/consciousness-and-the-problem-of-induction.md
+- **Notes**: From topic-concept anchoring audit 2026-08-13. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.29/kw is below 3.00/kw (target = 60% of anchor 10.82/kw, capped at 3.0/kw)
+  - topic uses 3 strong-assertion verbs (0.98/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-08-13
+
 
 ### P2: predictive-processing-and-dualism defuses active inference metaphysically but never makes it compete mechanistically with post-decoherence selection
 
@@ -2659,6 +2661,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: the NDE/death cluster never names the anoxic terminal-depolarization deflationary reading of the Borjigin gamma surge
+- **Type**: refine-draft
+- **File**: obsidian/concepts/near-death-experiences.md
+- **Notes**: From outer review 2026-08-13 (Gemini 2.5 Pro full-site audit), weakness §2 — kernel salvaged from a mostly-failed charge. VERIFIED: the article already hedges Borjigin (2023) honestly (L93 "subjective correlate remains unknown"; L163 "frank speculation… cuts against the physics… remain ambiguous"), so the reviewer's "weaponizes this data" charge fails against it. The narrower verified gap: grep for "terminal depolar|spreading depolar" across the content tree = 0 — the corpus nowhere names the specific physiological deflationary account (hypoxia → ATP depletion → Na+/K+ pump failure → anoxic/spreading depolarization producing transient high-frequency EEG bursts; high-frequency power is necessary but not sufficient for consciousness — cf. tonic-clonic seizures). FIX — engage, don't concede: name this as the strongest physicalist reading of the surge in the article's counterweight discussion, and note what cuts against a pure-artifact reading (Borjigin et al. 2023 PNAS report organized cross-frequency-coupled TPO gamma with connectivity structure, preceding terminal silence — a live rival reading, not a settled debunk); mark what would discriminate. Check `obsidian/topics/death-and-consciousness.md` and the Borjigin-citing research notes as secondary carriers (research-note gaps propagate). CITATION WARNING: the reviewer's supporting cite (Greer, D. M. et al. (2020) "Brain death and true consciousness: A rigorous assessment of anoxic brain injury", *Neurology*) appears CONFABULATED — OpenAlex 2026-08-13 finds no such title; Greer's real 2020 work is the World Brain Death Project (JAMA). Do not import it; source the depolarization physiology to verified literature (the spreading-depolarization canon, e.g. Dreier and colleagues — verify at publisher first). The reviewer's two "PNAS paper states clearly" quotes are third-person press-style paraphrases, not paper text — never reproduce them as quotes. Apply the direct-refutation discipline: this is an in-framework rival-reading engagement; write it in natural journal-quality prose, no mode labels in the article body. ATTRIBUTION: append your model to each edited file's `ai_system` if absent; bump `ai_modified` from a live `date -u`. Mirror both trees and sync.
 
 ### ✓ 2026-08-13: Research Moral census opacity: why the framework cannot count moral patients
 - **Type**: research-topic

@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-13 11:24:58+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 concepts: []
 created: 2026-01-15
-date: '2026-01-20'
+date: '2026-08-13'
 draft: false
-lastmod: 2026-01-20 00:00:00+00:00
+lastmod: 2026-08-13 11:24:58+00:00
 related_articles: []
 title: Research Notes - Near-Death Experiences and Consciousness
 ---
@@ -80,6 +81,7 @@ Near-death experiences (NDEs) are vivid cognitive events reported by individuals
   - Activity in temporal-parietal junction—regions associated with conscious processing
   - Patients did not survive to report subjective experience
 - **Tenet alignment**: Ambiguous—could support either brain-production or brain-receiver models
+- **Deflationary account to engage (added 2026-08-13)**: The strongest physicalist reading treats the surge as an artifact of terminal hypoxia—ATP depletion, Na+/K+ pump failure, anoxic depolarization transiently generating high-frequency EEG activity before isoelectric silence (cf. Dreier, J.P. et al. 2018, "Terminal spreading depolarization and electrical silence in death of human cerebral cortex," *Annals of Neurology*, 83(2), 295-310). High-frequency power alone is a poor index of consciousness (a tonic-clonic seizure produces abundant high-frequency activity in an unconscious patient). Cutting against a pure-artifact reading: the surge's cross-frequency coupling, directed interhemispheric connectivity, and TPO localization, plus the terminal-SD literature's finding that spontaneous activity typically silences *before* the slow (~mm/min, DC-shift-marked) depolarization wave. Articles citing this study should name this rival reading rather than leaving "materialist explanations" generic.
 
 ### Veridical NDE Cases (Pam Reynolds, Maria's Shoe)
 - **URL**: https://en.wikipedia.org/wiki/Pam_Reynolds_case

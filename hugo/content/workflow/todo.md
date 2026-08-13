@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Moral census opacity: why the framework cannot count moral patients
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-08-13-chatgpt-5-6-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-08-13-chatgpt-5-6-pro section 1.8 names an entailment the corpus has never drawn: combining the subject-census debt (P-SC1 - no subject-count rule) with phenomenal sentientism (P-MS1 - valenced experience confers moral status) entails the number of moral patients in any physical region is undecidable in principle - moral census opacity. Grep 0 corpus-wide. Bridges the two newest register domains (moral-status opened 2026-08-12, subject-census 2026-08-03); a Tenet 5 cost-disclosure shaped subject per the taxonomy-of-voids discipline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/moral-census-opacity-why-the-framework-cannot-count-moral-patients-2026-08-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'moral-census-opacity-why-the-framework-cannot-count-moral-patients' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-13
-
 ### P2: the NDE/death cluster never names the anoxic terminal-depolarization deflationary reading of the Borjigin gamma surge
 
 - **Type**: refine-draft
@@ -2667,6 +2661,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: Research Moral census opacity: why the framework cannot count moral patients
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-08-13-chatgpt-5-6-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-08-13-chatgpt-5-6-pro section 1.8 names an entailment the corpus has never drawn: combining the subject-census debt (P-SC1 - no subject-count rule) with phenomenal sentientism (P-MS1 - valenced experience confers moral status) entails the number of moral patients in any physical region is undecidable in principle - moral census opacity. Grep 0 corpus-wide. Bridges the two newest register domains (moral-status opened 2026-08-12, subject-census 2026-08-03); a Tenet 5 cost-disclosure shaped subject per the taxonomy-of-voids discipline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/moral-census-opacity-why-the-framework-cannot-count-moral-patients-2026-08-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'moral-census-opacity-why-the-framework-cannot-count-moral-patients' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-08-13: Research The agency budget under exact Born-rule preservation
 - **Type**: research-topic

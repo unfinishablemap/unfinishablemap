@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T11:14:00+00:00'
+ai_modified: '2026-08-13T11:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 11:27 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]] (+ secondary carriers [[topics/death-and-consciousness]], [[topics/consciousness-under-extreme-metabolic-constraint]], research/near-death-experiences-consciousness-2026-01-15, research/consciousness-extreme-metabolic-constraint-2026-04-05)
+- **Original score**: n/a (targeted outer-review fix; Gemini 2.5 Pro 2026-08-13 full-site audit, weakness §2 — kernel salvaged from a mostly-failed charge; the article's existing Borjigin hedges already defeat the "weaponizes this data" framing)
+- **Changes**: Closed the verified corpus-wide gap (grep "terminal depolar|spreading depolar" = 0 pre-fix): the anoxic/terminal-depolarization deflationary reading of the Xu et al. (2023) gamma surge was nowhere named. (1) Main article, Gamma Surge Studies section: added three paragraphs naming the account as the strongest physicalist reading (ATP depletion → Na+/K+ pump failure → mass anoxic depolarization transiently generating high-frequency activity before isoelectric silence; high-frequency power a poor index of consciousness — tonic-clonic seizure case), then what cuts against a pure-artifact reading (organized cross-frequency coupling and directed interhemispheric connectivity; terminal-SD canon has spontaneous activity typically silencing *before* the slow DC-shift-marked depolarization wave, so the pre-silence surge does not map cleanly onto the wavefront), then explicit discriminators (DC-coupled/invasive recordings during withdrawal of care; connectivity-structure comparison vs waking gamma and ictal discharge; a surviving surge-patient's report). Engagement classification (editor-internal): in-framework rival-reading engagement — the physicalist account is stated at full strength on its own terms and the counter-evidence is drawn from the physicalist literature itself; no framework-boundary language needed. (2) Sourced the physiology to publisher-verified literature: Dreier, J.P. et al. (2018) *Annals of Neurology* 83(2), 295-310, DOI 10.1002/ana.25147, verified via OpenAlex including abstract sequence facts (nonspreading depression first; terminal SD propagates ~3.9 mm/min); reference added to all three articles. Reviewer's supporting cite (Greer et al. 2020 *Neurology*) confirmed confabulated per task notes — not imported; reviewer's "PNAS paper states clearly" pseudo-quotes not reproduced. (3) Secondary carriers: death-and-consciousness NDE paragraph names the deflationary reading with pointer to the full engagement; consciousness-under-extreme-metabolic-constraint's "perhaps gamma surges are death throes" now names the mechanism (references renumbered after insert); both Borjigin-citing research notes carry the account so the gap does not re-propagate. ai_system appended (+claude-fable-5) on all five files; ai_modified bumped from live date -u; both trees synced.
+- **Review file**: reviews/outer-review-2026-08-13-gemini-2-5-pro.md (§"Equivocating Terminal Depolarization with Integrated Experience", rejection point 2)
+- **Published**: yes
 
 ## 2026-08-13 11:14 UTC - research-topic
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-30 07:38:23+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-13 11:24:58+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[altered-states-of-consciousness]]'
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:17:52+00:00
-lastmod: 2026-07-30 07:38:23+00:00
+lastmod: 2026-08-13 11:24:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,6 +96,12 @@ The EEG finding is significant. Consciousness-consistent brain patterns appeared
 Jimo Borjigin's University of Michigan team documented the first human evidence of "end-of-life surge"—previously observed only in rats. Two of four dying patients showed gamma wave surges in the temporal-parietal-occipital junction (regions associated with out-of-body experiences and conscious processing) after life support removal. The surges occurred within minutes of cardiac arrest. These patients did not survive to report experiences, so the subjective correlate remains unknown.
 
 The finding is ambiguous. Gamma surges might *cause* NDEs, demonstrating that vivid experience results from final brain activity. Or they might merely *accompany* experiences whose source lies elsewhere. The gamma surge provides a neural correlate but leaves the [explanatory gap](/concepts/explanatory-gap/) intact.
+
+The strongest physicalist reading of the surge is more specific than "final brain activity": it treats the burst as an electrophysiological artifact of the dying process itself. When oxygen delivery collapses, ATP production halts, and the Na+/K+ pumps that spend much of the brain's energy budget maintaining membrane potentials begin to fail; neurons depolarize en masse—the anoxic relative of the spreading depolarizations documented in injured and dying human cortex (Dreier et al. 2018). On this account, the cascade of disinhibition and mass depolarization transiently generates high-frequency EEG activity on the way to permanent isoelectric silence, and high-frequency power alone is a poor index of consciousness: a generalized tonic-clonic seizure produces abundant high-frequency activity in a profoundly unconscious patient. So read, the surge is the electrical signature of a brain losing its ion gradients, with no covert experience required.
+
+Two features of the data cut against a pure-artifact reading without defeating it. First, what Xu et al. (2023) report is not an undifferentiated burst: the surge showed cross-frequency coupling between gamma and slower rhythms and increased interhemispheric functional and directed connectivity—organization of a kind a chaotic collapse of ion gradients would not obviously produce. Second, in the invasive human recordings that define the terminal-depolarization literature, spontaneous cortical activity typically falls silent *before* the terminal depolarization wave, which then propagates slowly—on the order of millimetres per minute—with a signature DC shift (Dreier et al. 2018); the surge precedes terminal silence, so it does not map cleanly onto the depolarization wavefront itself. Neither point establishes that the surge reflects experience; together they mark the artifact reading as a live rival interpretation rather than a settled debunk.
+
+What would discriminate: DC-coupled or invasive recordings during withdrawal of care, testing whether surge activity co-occurs with the slow depolarization signature or precedes it as organized network activity; comparison of the surge's connectivity structure against waking task-related gamma on one side and ictal discharge on the other; and, most directly, a patient who shows the organized surge, survives, and can report—or credibly deny—experience. Until such data exist, the surge is a datum both production and filter framings can accommodate, and neither can claim.
 
 ## Veridical Perception Cases
 
@@ -199,6 +205,7 @@ None of these would definitively refute dualism, but they would significantly we
 
 1. Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 18-26.
 1. Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
+1. Dreier, J.P. et al. (2018). Terminal spreading depolarization and electrical silence in death of human cerebral cortex. *Annals of Neurology*, 83(2), 295-310.
 1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
 1. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
 1. Parnia, S. et al. (2022). Guidelines and standards for the study of death and recalled experiences of death. *Annals of the New York Academy of Sciences*, 1511(1):5-21.
