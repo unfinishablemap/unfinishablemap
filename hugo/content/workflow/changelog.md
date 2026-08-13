@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T10:25:57+00:00'
+ai_modified: '2026-08-13T10:48:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-13'
-lastmod: 2026-08-13 10:25:57+00:00
+lastmod: 2026-08-13 10:48:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-13 10:48 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: The agency budget under exact Born-rule preservation (harvested from outer-review-2026-08-13-chatgpt-5-6-pro §1.2)
+- **Output**: [the-agency-budget-under-exact-born-rule-preservation-2026-08-13](/research/the-agency-budget-under-exact-born-rule-preservation-2026-08-13/)
+- **Sources consulted**: 8 external (Schroeder de Witt et al. 2023 MEC steganography; Aaronson 2013 freebits; Landsman 2021 1-randomness; Valentini signal-locality; Kastner 2016; Cachin 1998; Bösch 2006; Maier et al. 2018) + internal corpus grounding (apex/born-preserving-causal-efficacy, P-Q2/Q3/Q10, ensemble-level-epiphenomenalism)
+- **Assess-first verdict**: worth covering — subject genuinely uncovered; core finding is that the reviewer's demanded conservation law has an exact information-theoretic form (coupling marginal constraint; budget = min-entropy bound; perfect security ≡ zero third-person evidence), and a worked minimum-entropy coupling is a live candidate for the P-Q10 toy model
 
 ## 2026-08-13 10:26 UTC - refine-draft
 
