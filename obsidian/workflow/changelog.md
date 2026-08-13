@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T00:53:17+00:00'
+ai_modified: '2026-08-13T01:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-13 01:35 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-the-problem-of-induction]] (top `get_review_candidates` scorer, 48 days since deep review, never pessimistically reviewed; no drafts corpus-wide; no open task on the path — the nine-file citation pass completed ✓ 2026-08-12)
+- **Output**: [[reviews/pessimistic-2026-08-13-problem-of-induction]]
+- **Findings**: 2 High (predictive/explanatory equivocation in §Induction Across the Explanatory Gap — the section grants psychophysical regularities then denies induction can cross the divide; machine-induction counterexample never engaged despite the corpus's AI wing), 4 Medium (surprise-argument non-sequitur; tenet-section calibration regression incl. "feature, not a bug" cliché; felt-confidence constitution-vs-access conflation; brute-correlation permanence vs the interface programme), minor citation gaps (Broad 1926 unattributed; Lewis 1947 vs 1960 revision; ornamental Plantinga reference). Forbidden-label grep clean; boundary-marking in §Why Consciousness Cannot Be Sidelined and §Self-Application noted as model calibration to preserve.
+- **Tasks**: 1 P2 refine-draft minted on the reviewed article (in-contract for a reports-only review).
+- **Content files**: untouched (skill is read-only for content).
+- **Not committed**: left for the orchestrator per skill contract.
+
 ---
 
 ## 2026-08-13 00:53 UTC - refine-draft
