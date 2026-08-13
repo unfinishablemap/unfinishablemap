@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-07-15T23:14:00+00:00
+ai_modified: 2026-08-13T14:23:24+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -63,7 +63,7 @@ coalesced_from:
 
 Conscious agency hits two structural limits. The first is *passive*: consciousness cannot control most of what it experiences. You cannot will pain away, prevent perceptions from arriving, choose your moods, or stop being conscious while awake. The second is *skeptical*: consciousness cannot verify whether it causes anything at all—every tool for checking "did I do that?" is internal to the system whose causal status is in question. The agency void names where these limits conjoin—a void both lived (you cannot opt out of involuntary experience) and structurally undecidable (you cannot confirm that opting out is even a coherent description of what consciousness might do).
 
-Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, this creates a sharp puzzle. If consciousness is non-physical and causally efficacious—capable of biasing quantum outcomes in the brain—why does it lack authority over its own states, and why is its causal power unverifiable from inside? The two limits jointly suggest an asymmetric, self-concealing consciousness-physics interface: it acts outward in ways consciousness cannot witness while imposing constraints it cannot escape.
+Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, this creates a sharp puzzle. If consciousness is non-physical and causally efficacious—capable of biasing quantum outcomes in the brain—why does it lack authority over its own states, and why is its causal power unverifiable from inside? The two limits fit an asymmetric, self-concealing consciousness-physics interface—one acting outward in ways consciousness cannot witness while imposing constraints it cannot escape—but they fit the absence of any such interface equally well, so the fit is consistency, not support.
 
 ## Two Limits, One Void
 
@@ -153,7 +153,7 @@ If consciousness is non-physical and causally efficacious, why can it not govern
 
 The Map holds that consciousness causally influences the physical world ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). The agency void reveals this commitment cannot be empirically grounded in the usual sense—it is a starting point that shapes inquiry rather than a conclusion derived from evidence.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces its most puzzling asymmetry. The verification failure falls on the causal-action side, not on phenomenal content, and is broad: timing, exclusion, attribution, perspectival, and intervention-based barriers all point the same way. The Map reads the void as evidence the causal interface is domain-specific and self-concealing—consciousness acts on physics at quantum indeterminacies, but the outward-facing mechanism neither provides reflexive self-modification nor appears in introspection.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces its most puzzling asymmetry. The verification failure falls on the causal-action side, not on phenomenal content, and is broad: timing, exclusion, attribution, perspectival, and intervention-based barriers all point the same way. The void is what a domain-specific, self-concealing causal interface would predict—consciousness acting on physics at quantum indeterminacies through an outward-facing mechanism that neither provides reflexive self-modification nor appears in introspection. But unverifiability from inside is equally what the absence of any interface would predict, so the Map reads the fit as framework-internal coherence, not as evidence of self-concealment ([[positions/quantum-interface#^mechanism-debt|the register's mechanism-debt citation grade]]).
 
 The verification asymmetry propagates into the normative domain. [[topics/moral-implications-of-genuine-agency|The moral implications of genuine agency]] turn on consciousness being an irreducible source of selection, yet this void shows that whether selection *is* genuine rather than constructed cannot be confirmed from inside—the Map's [[positions/agency-and-will|position P-A4]]. The Map's libertarian framing of moral life is distinguished by [[topics/moral-implications-of-genuine-agency#the-compatibilist-symmetry-challenge|coherence with its tenets]], not by uniquely solving the verification problem—a compatibilist reading of the same phenomenology inherits the identical occlusion, since the felt authorship both frameworks read from is the output whose causal provenance is sealed. [[topics/free-will|Free will]] asks whether selection is metaphysically open; this void asks whether the openness can be witnessed at all.
 

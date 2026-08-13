@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/agency-void.md
-- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the self-concealing-interface causal-selection thesis). L156 — "The Map reads the void as evidence the causal interface is domain-specific and self-concealing" — cites the thesis at evidence grade. P-Q9 states the thesis "does not raise the probability that the tenets are correct", and `apex/self-concealing-interface` rules the hiddenness "evidentially inert between the Map and eliminativism": absence-of-verification is predicted equally by there being no interface at all, so a void cannot be evidence *for* self-concealment. The same RSP's own opening (L154) already concedes the commitment "cannot be empirically grounded in the usual sense", so the sentence contradicts its own section, not just the register. Reword to consistency grade (the void is what a self-concealing interface predicts — and equally what its absence predicts; read as framework-internal coherence, not evidence). L66's "jointly suggest an asymmetric, self-concealing consciousness-physics interface" is the same slippage in weaker form; fix both loci in one pass. The register's citation grade now lives at [[positions/quantum-interface#^mechanism-debt]] — link it only if a slot exists without substantive additions. ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
-- **Audit file**: `reviews/positions-audit-2026-08-13.md`
-- **Review file**: `reviews/outer-review-2026-08-13-claude-opus-5.md`
-- **Source**: positions-evolve
-- **Generated**: 2026-08-13
-
 ### P2: `concepts/type-token-causation` RSP asserts "Bidirectional causation is real at the token grain" and the exclusion conflict "dissolves" — its own body holds exactly that open
 
 - **Type**: refine-draft
@@ -2629,6 +2618,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `voids/agency-void` RSP reads the void as "evidence the causal interface is domain-specific and self-concealing" — evidence grade where P-Q9 assigns coherence-only
+- **Type**: refine-draft
+- **File**: obsidian/voids/agency-void.md
+- **Notes**: From positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence (demote-to-coherence-only on the self-concealing-interface causal-selection thesis). L156 — "The Map reads the void as evidence the causal interface is domain-specific and self-concealing" — cites the thesis at evidence grade. P-Q9 states the thesis "does not raise the probability that the tenets are correct", and `apex/self-concealing-interface` rules the hiddenness "evidentially inert between the Map and eliminativism": absence-of-verification is predicted equally by there being no interface at all, so a void cannot be evidence *for* self-concealment. The same RSP's own opening (L154) already concedes the commitment "cannot be empirically grounded in the usual sense", so the sentence contradicts its own section, not just the register. Reword to consistency grade (the void is what a self-concealing interface predicts — and equally what its absence predicts; read as framework-internal coherence, not evidence). L66's "jointly suggest an asymmetric, self-concealing consciousness-physics interface" is the same slippage in weaker form; fix both loci in one pass. The register's citation grade now lives at [[positions/quantum-interface#^mechanism-debt]] — link it only if a slot exists without substantive additions. ATTRIBUTION: label-only recalibration — hold `ai_system` unless adding claim-bearing prose; bump `ai_modified` from live `date -u` (strictly past). Sync both trees.
 
 ### ✓ 2026-08-13: grain-mismatch's description and lead assert the unqualified independence its own L67 concedes cannot yet be quantified
 - **Type**: refine-draft

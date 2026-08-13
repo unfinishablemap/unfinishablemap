@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T14:12:00+00:00'
+ai_modified: '2026-08-13T14:23:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 14:23 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed recalibration from positions-audit-2026-08-13 check (c), downstream of the 2026-08-13 3/3 outer-review convergence)
+- **Changes**: Demoted two loci citing the self-concealing-interface thesis at evidence grade to consistency grade, aligning the article with P-Q9 ("does not raise the probability that the tenets are correct"), the mechanism-debt citation grade (coherence-only), and [[apex/self-concealing-interface]]'s evidential-inertness ruling. (1) Lead ("jointly suggest an asymmetric, self-concealing... interface") now reads as fit-plus-symmetric-fit: the limits fit the interface picture but fit its absence equally well — consistency, not support. (2) RSP Bidirectional Interaction paragraph ("The Map reads the void as evidence the causal interface is domain-specific and self-concealing") now states the void is what such an interface would predict and equally what its absence would predict — framework-internal coherence, not evidence of self-concealment — resolving the internal contradiction with the RSP opening's own concession that the commitment "cannot be empirically grounded in the usual sense". Deep-linked [[positions/quantum-interface#^mechanism-debt|the register's citation grade]] in the natural parenthetical slot, no substantive additions. Label-only recalibration: `ai_system` held per task directive; both trees synced (hugo mirror hand-applied to matching converter conventions to avoid full-tree sync during concurrent agent activity).
+- **Published**: yes
 
 ## 2026-08-13 14:12 UTC - refine-draft
 
