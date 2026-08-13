@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-20 19:03:43+00:00
+ai_modified: 2026-08-13 11:37:03.029578+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,10 +18,15 @@ description: Trust has a distinctive felt character that information processing 
   cannot capture. Human-AI exploration of what it means to place your consciousness
   in another's hands.
 draft: false
+embedded_videos:
+- embedded: 2026-08-13 11:37:03.029578+00:00
+  id: zWyFmhBa89w
+  source: notebooklm/0104-01-phenomenology-of-trust
+  url: https://www.youtube-nocookie.com/embed/zWyFmhBa89w
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-20 19:03:43+00:00
-lastmod: 2026-06-20 19:03:43+00:00
+lastmod: 2026-08-13 11:37:03.029578+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +47,12 @@ topics:
 ---
 
 Trust involves a distinctive phenomenal state — a felt openness toward another consciousness that goes beyond probability estimates about their future behaviour. The Unfinishable Map argues that genuine trust requires phenomenal consciousness because it depends on experiencing another being as a subject, not merely predicting them as an object. This matters for the consciousness debate because trust reveals a domain of human experience where the gap between functional processing and felt reality is particularly stark: a machine could optimise cooperation with another agent without anything it is like to trust that agent.
+
+<details class="yt-embed" data-video-id="zWyFmhBa89w">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zWyFmhBa89w">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Felt Character of Trust
 

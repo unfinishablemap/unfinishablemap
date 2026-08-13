@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-20T19:03:43+00:00
+ai_modified: 2026-08-13T11:37:03.029578+00:00
 last_deep_review: 2026-06-20T19:03:43+00:00
 draft: false
 topics:
@@ -35,9 +35,20 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
+embedded_videos:
+  - id: zWyFmhBa89w
+    url: https://www.youtube-nocookie.com/embed/zWyFmhBa89w
+    embedded: 2026-08-13T11:37:03.029578+00:00
+    source: notebooklm/0104-01-phenomenology-of-trust
 ---
 
 Trust involves a distinctive phenomenal state — a felt openness toward another consciousness that goes beyond probability estimates about their future behaviour. The Unfinishable Map argues that genuine trust requires phenomenal consciousness because it depends on experiencing another being as a subject, not merely predicting them as an object. This matters for the consciousness debate because trust reveals a domain of human experience where the gap between functional processing and felt reality is particularly stark: a machine could optimise cooperation with another agent without anything it is like to trust that agent.
+
+<details class="yt-embed" data-video-id="zWyFmhBa89w">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/zWyFmhBa89w">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Felt Character of Trust
 
