@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-02 23:36:23+00:00
+ai_modified: 2026-08-13 10:25:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -27,13 +27,12 @@ created: 2026-02-01
 date: &id001 2026-04-18
 description: 'The measurement problem and the hard problem share an identical logical
   structure: both concern where first-person facts resist absorption into third-person
-  descriptions. This convergence suggests consciousness participates in determining
-  definite outcomes.'
+  descriptions. The Map reads them as two faces of the consciousness-physics interface.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 15:00:19+00:00
-lastmod: 2026-08-02 23:36:23+00:00
+lastmod: 2026-08-13 10:25:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +173,7 @@ What the framework offers is **structural coherence**: treating the measurement 
 
 This topic is central to the Map's framework, connecting all five tenets:
 
-**[Dualism](/tenets/#dualism)**: The structural parallel provides convergent evidence—if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, the failure reflects something genuine about the relationship between consciousness and physical description.
+**[Dualism](/tenets/#dualism)**: The structural parallel offers a unified reading rather than convergent evidence—if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, one framework-internal explanation covers both failures. As the body marks, the parallel presupposes single-world collapse realism and cannot support it without circularity; and [once objective collapse secures definiteness](/tenets/background-commitments/), the measurement problem itself cannot be evidence for conscious selection. The warrant for that further claim is carried by the agency arguments under [Bidirectional Interaction](/tenets/#bidirectional-interaction); what the parallel adds is coherence—the same kind of gap, addressed by the same resource.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/). The structural parallel transforms this from an isolated hypothesis into a prediction: if the hard problem marks where first-person fact exceeds third-person description, quantum measurement is precisely where consciousness should interface with the physical.
 

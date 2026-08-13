@@ -4,7 +4,7 @@ description: "The measurement problem is not a puzzle in physics awaiting a clev
 created: 2026-02-14
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T10:35:00+00:00
+ai_modified: 2026-08-13T10:25:57+00:00
 draft: false
 archived: true
 archived_date: 2026-03-17T06:59:00+00:00
@@ -127,7 +127,7 @@ This structural convergence also contributes to the [[the-convergence-argument-f
 
 The identification of the measurement problem as a hard problem instance is central to the Map's philosophical framework.
 
-The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. The structural parallel provides convergent evidence: if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, the failure reflects something genuine about the relationship between consciousness and physical description. The formalism has a gap exactly where consciousness enters.
+The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. The structural parallel offers a unified reading rather than convergent evidence: if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, one framework-internal explanation covers both failures—though the parallel presupposes single-world collapse realism and cannot support it without circularity. The formalism has a gap exactly where consciousness enters.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences outcomes at quantum indeterminacies. The structural parallel transforms this from an isolated hypothesis into a prediction: if the hard problem marks where first-person fact exceeds third-person description, the measurement problem—the only known point in physics where this same structure appears—is precisely where consciousness should interface with the physical.
 

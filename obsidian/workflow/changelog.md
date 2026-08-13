@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T10:10:27+00:00'
+ai_modified: '2026-08-13T10:25:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 10:26 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]] (+ [[topics/quantum-measurement-and-consciousness]], [[apex/what-consciousness-tells-us-about-physics]], archive/topics/the-measurement-problem-as-philosophical-problem — one cluster, one register)
+- **Original score**: n/a (targeted convergent outer-review fix; ChatGPT 5.6 Pro finding 4.3 + Claude Opus 5 Axis-3 "quiet contradiction", 2/3 convergence per synthesis; anchor: tenets/background-commitments L42 "the measurement problem itself cannot be evidence for conscious selection")
+- **Changes**: Applied one three-level separation across the cluster — (i) definiteness: objective collapse answers "why one definite outcome?" without any mind; (ii) compatibility: post-decoherence openness supplies a location where a bias *could* operate, and availability is not evidence of occupancy; (iii) warrant: the agency arguments under Tenet 3 (self-stultification chief among them) carry the proposed positive case, with the structural parallel functioning as a framework-internal reading of where the causation would sit. Loci: (1) measurement-problem L203 rewritten around the three levels — "provide the positive case that consciousness *does* act here" re-scoped to warrant-carried-by-agency-arguments; "the measurement problem supports Dualism" → "removes an obstacle rather than supplying support ... removing a defeater is not evidence"; also regraded the "Positive Case for Consciousness-Selection" section conclusion so the two arguments' roles differ explicitly (agency = warrant, parallel = framework-internal consilience). (2) qm-and-consciousness L172 Dualism bullet: "provides convergent evidence" → "offers a unified reading rather than convergent evidence", citing the body's own circularity marking (L82) and the background-commitments anchor; description frontmatter nav-surface softened ("This convergence suggests consciousness participates..." → "The Map reads them as two faces of the consciousness-physics interface"). (3) Apex: apex_thesis disclosure sentence made explicitly reading-scoped ("On that reading..."); second guard added beside the headline guard (openness supplies the location, not evidence; disclosure framing conditional on tenets, not support for them); physics-first section gains "licenses a direction of inquiry, not a conclusion"; disclosure section gains direction-of-support sentence; L202 "the measurement problem is evidence *for* that partiality" → "marks the boundary of that partiality". Existing calibration preserved untouched (qm-and-consciousness L84 programme-level-fruitfulness passage; apex Gödel/Lawvere "suggestive rather than rigorous"; Evidence and Dependency section). (4) Sweep per fix-by-file-leaves-siblings-live including archive/: archived predecessor the-measurement-problem-as-philosophical-problem carried the identical "provides convergent evidence" sentence — same fix applied; research-note hit (conservation-laws-mind-brain-causation) is a different claim, left alone. Secondary concepts/quantum-consciousness L58/L114 inspected: already in the calibrated register ("a philosophical commitment, not a settled result"), no over-claim by contrast — left untouched to avoid pileup with the open Escolà-Gascón task. ai_system held (re-scoping only); ai_modified bumped from live date -u; both trees synced.
+- **Review file**: reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md (§4.3; Claude Axis-3 reviews/outer-review-2026-08-13-claude-opus-5.md; synthesis reviews/outer-review-synthesis-2026-08-13.md)
+- **Published**: yes
 
 ## 2026-08-13 10:10 UTC - deep-review
 

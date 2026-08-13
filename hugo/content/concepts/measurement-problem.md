@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-06 00:58:00+00:00
+ai_modified: 2026-08-13 10:25:57+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-08-06 00:58:00+00:00
+lastmod: 2026-08-13 10:25:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -191,7 +191,7 @@ If the loophole only establishes *where* consciousness could act, what supports 
 
 - **[Self-stultification of epiphenomenalism](/concepts/self-stultification/)**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. This argues that consciousness has *some* causal role; it does not by itself locate that role at quantum measurement. Quantum measurement is the *least disruptive* locus for the causation consciousness requires—but that appeal to least disruption is a simplicity consideration, and the Map's own [fifth tenet](/tenets/#occams-limits) holds simplicity unreliable under incomplete knowledge. The move is therefore a defeasible heuristic for *where* to look, not evidence that consciousness acts there, and it stands in acknowledged tension with the tenet that warns against trusting it.
 
-Neither argument is decisive alone. Together they provide cumulative motivation for taking consciousness-modulation of collapse statistics seriously. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing within the Born distribution rather than initiating collapse from outside physics. The loophole is the necessary condition; these arguments provide positive motivation.
+Neither argument is decisive alone, and their roles differ. The warrant is carried by the agency argument—self-stultification, together with the comparative-cognition considerations gathered under [Tenet 3](/tenets/#bidirectional-interaction)—which argues that consciousness has *some* causal role. The structural parallel is a framework-internal consilience consideration about *where* that role would most naturally sit; as [the companion article](/topics/quantum-measurement-and-consciousness/) marks, it presupposes single-world collapse realism and cannot serve as independent evidence for it. The measurement problem itself supplies neither: [once objective collapse secures definiteness](/tenets/background-commitments/), the openness of *which* outcome is compatibility with a bias, not evidence that consciousness supplies one. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing within the Born distribution rather than initiating collapse from outside physics. The loophole is the necessary condition; the agency arguments carry the proposed warrant.
 
 ## What Are Born Probabilities?
 
@@ -203,7 +203,7 @@ The Map proposes that [Born probabilities describe the objective structure of th
 
 ## Relation to Site Perspective
 
-The measurement problem is central to the Map's framework. It provides the *permissibility condition* for [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—physics leaves outcomes undetermined, so consciousness *could* bias them without violating conservation laws. The structural parallel with the hard problem and the self-stultification of epiphenomenalism provide the positive case that consciousness *does* act here, enabling [Bidirectional Interaction](/tenets/#bidirectional-interaction): consciousness causally influencing the physical world at the one point where physics permits it. The [rejection of Many-Worlds](/tenets/#no-many-worlds) follows from indexical problems detailed above. Most fundamentally, the measurement problem supports [Dualism](/tenets/#dualism): physics cannot specify what causes collapse, removing the strongest objection that physics is causally closed. The Map's [disclosure reading](/concepts/physics-as-disclosure/) reframes this: the measurement problem is not a deficiency awaiting a physical solution but a boundary where physics correctly reaches the limit of structural description. The grade of support is the one the body holds throughout: the measurement problem is *consistent with* a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality and, on the disclosure reading, *favors* it—the favoring rests on that reading rather than on the bare result, and the disclosure reading remains a framework choice the body has marked as such, not a fact the result forces.
+The measurement problem is central to the Map's framework, and [the framework's own accounting](/tenets/background-commitments/) fixes what it can and cannot supply—three levels that must be kept separate. *Definiteness*: [objective collapse](/concepts/spontaneous-collapse-theories/) answers "why one definite outcome?" without invoking any mind, so the measurement problem itself cannot be evidence for conscious selection. *Compatibility*: what post-decoherence openness supplies is the *permissibility condition* for [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—physics leaves the selection among decohered alternatives undetermined, so consciousness *could* bias it without violating conservation laws; the availability of that location is not evidence that consciousness occupies it. *Warrant*: the positive case that consciousness *does* act is carried by the agency arguments under [Bidirectional Interaction](/tenets/#bidirectional-interaction)—the [self-stultification of epiphenomenalism](/concepts/self-stultification/) chief among them—while the structural parallel with the hard problem functions as a framework-internal reading of where that causation would sit, not an independent line of support. The [rejection of Many-Worlds](/tenets/#no-many-worlds) follows from indexical problems detailed above. For [Dualism](/tenets/#dualism), the measurement problem removes an obstacle rather than supplying support: physics cannot specify what causes collapse, so the strongest objection—that physics is causally closed—fails at measurement, and removing a defeater is not evidence. The Map's [disclosure reading](/concepts/physics-as-disclosure/) reframes the gap as a boundary where physics correctly reaches the limit of structural description rather than a deficiency awaiting a physical solution. The grade of support is the one the body holds throughout: the measurement problem is *consistent with* a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality and, on the disclosure reading, *favors* it—the favoring rests on that reading rather than on the bare result, and the disclosure reading remains a framework choice the body has marked as such, not a fact the result forces.
 
 ## Further Reading
 

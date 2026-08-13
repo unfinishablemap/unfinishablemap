@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 10:35:00+00:00
+ai_modified: 2026-08-13 10:25:57+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Measurement and Consciousness
 archived: true
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-23 10:35:00+00:00
-lastmod: 2026-02-23 10:35:00+00:00
+lastmod: 2026-08-13 10:25:57+00:00
 modified: *id001
 original_path: /topics/the-measurement-problem-as-philosophical-problem/
 related_articles:
@@ -131,7 +131,7 @@ This structural convergence also contributes to the [broader convergence argumen
 
 The identification of the measurement problem as a hard problem instance is central to the Map's philosophical framework.
 
-The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. The structural parallel provides convergent evidence: if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, the failure reflects something genuine about the relationship between consciousness and physical description. The formalism has a gap exactly where consciousness enters.
+The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. The structural parallel offers a unified reading rather than convergent evidence: if third-person description systematically fails to capture first-person fact both in consciousness studies and in quantum foundations, one framework-internal explanation covers both failures—though the parallel presupposes single-world collapse realism and cannot support it without circularity. The formalism has a gap exactly where consciousness enters.
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences outcomes at quantum indeterminacies. The structural parallel transforms this from an isolated hypothesis into a prediction: if the hard problem marks where first-person fact exceeds third-person description, the measurement problem—the only known point in physics where this same structure appears—is precisely where consciousness should interface with the physical.
 
