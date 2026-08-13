@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/interface-specification-programme` says under Everett there is "nothing for a control law to govern" — its own background audit concedes branch-local agency survives
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/interface-specification-programme.md
-- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.6 — **verified verbatim on disk, plus second live locus `obsidian/topics/the-psychophysical-control-law.md`** carrying the same phrase. `tenets/background-commitments` concedes branch-local persistence, ownership, reasons-responsiveness, and conscious causation all remain available to an Everettian dualist; what Everett removes is the Map's preferred *exclusive single-outcome selection*, not every role for consciousness. Replace the "nothing to govern" claim with that narrower one, add the branch-local concession, and name global exclusion as the independent starting commitment doing the work. Fix both loci. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. (Here the honest mode is likely boundary-marking: the strongest Everettian dualist alternative is not refuted by the agency evidence.)
-- **Review file**: `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-13
-
 ### P2: the dissociation pair claims causal-direction evidence it disclaims — `neurological-dissociations` L195 says "confirm bidirectional causation" after L179 concedes the evidence cannot adjudicate; `split-brain-consciousness` L182 misstates epiphenomenalism
 
 - **Type**: refine-draft
@@ -2572,6 +2562,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-13: `apex/interface-specification-programme` says under Everett there is "nothing for a control law to govern" — its own background audit concedes branch-local agency survives
+- **Type**: refine-draft
+- **File**: obsidian/apex/interface-specification-programme.md
+- **Notes**: From outer review 2026-08-13 (ChatGPT 5.6 Pro full-site audit), finding 4.6 — **verified verbatim on disk, plus second live locus `obsidian/topics/the-psychophysical-control-law.md`** carrying the same phrase. `tenets/background-commitments` concedes branch-local persistence, ownership, reasons-responsiveness, and conscious causation all remain available to an Everettian dualist; what Everett removes is the Map's preferred *exclusive single-outcome selection*, not every role for consciousness. Replace the "nothing to govern" claim with that narrower one, add the branch-local concession, and name global exclusion as the independent starting commitment doing the work. Fix both loci. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. (Here the honest mode is likely boundary-marking: the strongest Everettian dualist alternative is not refuted by the agency evidence.)
 
 ### ✓ 2026-08-13: `concepts/collapse-and-time` asserts a process ontology ("The agent is the selecting activity itself") the foundations elsewhere require to be false — label it or reconcile it
 - **Type**: refine-draft

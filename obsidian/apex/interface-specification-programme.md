@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-08-08T19:31:46+00:00
+ai_modified: 2026-08-13T18:24:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-03-15
 last_curated: null
 last_deep_review: 2026-07-19T11:12:18+00:00
@@ -172,7 +172,7 @@ The interface specification programme serves all five tenets simultaneously.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is specified by the control-theoretic picture as a closed feedback loop: phenomenal experience upward, attentional selection downward. Open-loop control is fragile and unreliable. The programme shows why bidirectionality is architecturally necessary, not just philosophically asserted.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** makes the programme meaningful. If all quantum outcomes actualise in parallel branches, there is nothing for a control law to govern. Real control requires real selection among genuinely exclusive alternatives.
+**[[tenets#^no-many-worlds|No Many Worlds]]** secures the kind of selection the programme specifies, though the dependence needs stating at its true width. Branching removes not every role for consciousness but the Map's particular mechanism of *exclusive single-outcome selection* — a selection channel needs an outcome to be excluded, and under Everett every alternative is realised on some branch. An Everettian dualist retains branch-local persistence, ownership of the action, and reasons-responsive deliberation, and could even grant conscious causation routed through something other than outcome-selection; nothing in the programme's control-theoretic evidence refutes that alternative on its own terms. What separates the Map from it is the further requirement that unchosen alternatives be *globally* nonactual — unrealised anywhere, not merely absent from the agent's branch — a [[tenets/background-commitments|posit the Map adopts]] rather than a conclusion the interface evidence delivers, and the disagreement sits at the framework boundary.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the complexity cost. The programme adds a controller, a control law, and a delegation structure. But control theory shows that systems without adequate control are unstable; the added complexity produces the stability and purposiveness that characterise conscious behaviour — complexity that earns its keep.
 

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-13T18:02:00+00:00'
+ai_modified: '2026-08-13T18:24:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-13 18:24 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]] (plus second locus [[topics/the-psychophysical-control-law]])
+- **Original score**: n/a (no scripts/curate.py review tool in repo; task-directed fix from outer review 2026-08-13 ChatGPT 5.6 Pro finding 4.6, Many-Worlds overstatement in the No-Many-Worlds tenet-alignment paragraphs)
+- **Changes**: Replaced the "nothing for a control law to govern" claim at both live loci with the narrower claim [[tenets/background-commitments]] licenses: branching removes the Map's particular mechanism of exclusive single-outcome selection, not every role for consciousness. Both tenet-alignment paragraphs now (1) concede branch-local persistence, ownership of the action, reasons-responsive deliberation, and available conscious causation routed through something other than outcome-selection; (2) state that nothing in the control-theoretic evidence refutes the Everettian dualist alternative on its own terms; (3) name global exclusion (unchosen alternatives globally nonactual, not merely absent from the agent's branch) as the independent adopted posit doing the work, linked "[[tenets/background-commitments|posit the Map adopts]]" per the established house pattern (free-will, contemplative-path, altered-states-as-interface-evidence, phenomenology-of-consciousness-doing-work, living-with-the-map). The topics locus additionally dropped its failed in-framework move claiming MWI reduces selection to "indexical discovery rather than genuine causal influence" — background-commitments explicitly concedes conscious causation remains available to the Everettian dualist; Wallace 2012 and both indexical-identity links retained, with the indexical fact reframed as an expression of the same adopted commitment rather than a refutation. Sweep: "nothing for a control law to govern" now absent from obsidian/ and archive/ content; remaining hits confined to reviews/ and workflow/ echoes. Frontmatter: ai_modified from live `date -u` in both files; ai_system appended (+claude-fable-5). Both trees synced and hugo verified.
+- **Engagement classification** (editor-internal): engagement with the Everettian dualist at both loci: Mode Three (framework-boundary marking) — background-commitments Posit Three establishes that no in-framework refutation is available (branch-local agency and conscious causation both survive within Everett), so the prior attempted in-framework refutation was downgraded to honest boundary-marking with the global-exclusion posit named as the separating commitment.
+- **Published**: yes
 
 ## 2026-08-13 17:57 UTC - deep-review
 
