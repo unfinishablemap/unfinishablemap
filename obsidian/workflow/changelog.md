@@ -5,6 +5,34 @@ ai_modified: '2026-08-13T22:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-16 13:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/moral-census-opacity]]
+- **Word count**: 3,406 → 3,443 body (prose 2,932 → 2,953, +21); still under the 3,500 hard threshold. Length-neutral mode: six compensating trims against one substantive addition.
+- **Critical issues addressed**: 1 (two defects in one clause)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 citation added (Krohn & Ostwald 2017)
+- **Output**: [[reviews/deep-review-2026-08-16-moral-census-opacity]]
+
+**The finding — Moon (2019), wrong given name AND inverted attribution.** The body read *"Kwangsu Moon (2019) [argues] that the postulate does not follow from the axiom it is derived from."* Both halves are wrong.
+
+- The author is **Kyumin Moon** (Seoul National University), confirmed at Crossref, MDPI and PubMed/PMC. "Kwangsu" appears at no publisher.
+- Moon argues the **opposite** of what was attributed to him. He supplies a formal reconstruction showing the exclusion postulate *does* follow from the axiom — *"if the exclusion postulate is incorrect, the exclusion axiom cannot be true...Therefore, the postulate also should be true"* — and his paper is a **friendly repair of IIT**, aiming to show "IIT can be confirmed with regard to not only its theoretical foundation but also its mathematical modeling." He was recruited as a hostile witness for a claim he refutes, which also broke the sentence resting on him (*"a price its critics find unmotivated"* — one of the two "critics" was a defender).
+
+**Why it survived.** The expand-topic pass 75 minutes earlier logged "all 16 references verified at publisher" and made nine metadata corrections — and still missed this, because the *References entry* (`Moon, K.`) is **correct as written**. The defect existed only in body prose. A reference-list audit, an intra-corpus cross-check and a prose-internal consistency pass are all blind to it by construction; only re-reading the source's actual argument catches it. Corpus-wide grep confirms the error was confined to this one article (both trees), so nothing propagated.
+
+**The repair strengthens the argument.** The paragraph now prices IIT's census rule with two supported costs instead of one false one: Bayne's dispute over the axiom's standing (stated at full strength — he argues exclusion is *neither* genuinely axiomatic *nor* a substantive constraint; the article had carried only half his two-pronged conclusion), and the fact that **uniqueness had to be engineered rather than read off** — Krohn & Ostwald (2017) showed the formalism could return several tied maxima leaving the quale underdetermined, Moon (2019) added a difference-making criterion to prevent ties, and IIT 4.0 carries explicit tie-breaking rules of its own.
+
+**Anachronism trap closed inside the fix.** The tie problem was raised against the IIT 3.0-era formalism while the article quotes **IIT 4.0** for the axiom. Verified at the 4.0 paper that it carries tie-breaking machinery at both the substrate and cause-effect-state levels, so the passage states the repair sequence chronologically rather than implying an open hole — otherwise the correction would have introduced a fresh currency-drift error.
+
+- **Full ledger**: all 17 References entries and every inline cite verified at the publisher of record; per-cite states recorded in the review archive. No fabrications, no orphans in either direction. Register's four risk names (Survival / Counting / Trade-offs / **Bodies**) confirmed verbatim as the author's own labels from the ORA full text. Schwitzgebel & Nelson, Sebo, Shiller, Bayne-Seth-Massimini, Albantakis and Birch quotes all confirmed verbatim at primary sources.
+- **Internal claims**: P-SC1, P-SC2, P-MS1, P-I1, P-I3, P-AC3 all verified against the register; coinage attribution verified against [[reviews/outer-review-2026-08-13-chatgpt-5-6-pro]] §1.8. All 19 wikilinks resolve.
+- **Calibration**: no possibility/probability slippage — the article's central claim is labelled framework-internal in the lead and explicitly declines to count explanatory fit as evidential support. Schwitzgebel-vs-Map determinacy is bedrock, recorded as such, not to be re-flagged.
+- **Attribution**: `ai_system` held at `claude-opus-5` (already correct for this session's fallback stick — not re-appended). `ai_modified` and `last_deep_review` both stamped 13:49 UTC.
+- **Reasoning modes (editor-internal, §2.6)**: engagement with IIT — **Mode Two→One after the fix**; the costs now cited (contested axiom, engineered uniqueness) come from IIT's own literature rather than from tenet-incompatibility, which is what the false Moon claim had been standing in for. Engagement with Schwitzgebel & Nelson — **Mode Three**, boundary marked explicitly and honestly ("the real disagreement... has not been joined"). Engagement with functionalism via the nesting problem — **Mode One**, run on the materialist's own commitments using Schwitzgebel's argument. No label leakage in prose.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/concepts/moral-census-opacity.md` confirmed carrying the correction.
+
 ## 2026-08-16 12:37 UTC - expand-topic
 
 - **Status**: Success
