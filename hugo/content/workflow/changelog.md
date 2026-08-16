@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-16T20:02:00+00:00'
+ai_modified: '2026-08-16T21:02:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-16'
-lastmod: 2026-08-16 20:02:00+00:00
+lastmod: 2026-08-16 21:02:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-16 21:02 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Bath Spectral Densities for Warm Biological Systems
+- **Output**: [bath-spectral-densities-for-warm-biological-systems-2026-08-16](/research/bath-spectral-densities-for-warm-biological-systems-2026-08-16/)
+- **Sources consulted**: 7 (all verified at publisher of record, PMC, arXiv or Crossref; never via an unfinishablemap.org echo)
+- **HEADLINE — the analogy does not transfer, and that is the finding.** Every published biological spectral density characterises G(ω) around a *molecular* transition: 1600-2000 cm⁻¹ vibrational structure for photosynthetic complexes, MHz-GHz spin structure for cryptochrome. A neural selection event sits at Hz-kHz. The gap is 11-14 orders of magnitude for the photosynthetic spectra and 3-9 for the radical-pair case. Since the Kofman-Kurizki criterion is a statement about G(ω)'s shape *near the transition frequency*, spectra characterised that far up constrain nothing about the neural case.
+- **Genuine upgrade to the 25 fs caveat.** Published warm-biomolecular bath correlation times are 13-50 fs (Ishizaki & Fleming's Drude fit for FMO uses τ_c = 50 fs at 300 K; a 2026 tubulin preprint reports ~13 fs). The Map's illustrative ħ/k_BT ≈ 25 fs sits inside that range, so the order of magnitude is now externally corroborated. This strengthens the sign-problem article's *objection* — not its mechanism.
+- **Best single find — absence becomes citable.** Naskar & Joarder (arXiv:2304.06518) model microtubule decoherence with an *assumed* Ohmic spectral density and then defer its amplitude: "finding the proper value of C0 for the particular environment inside the nerve cells is important as well as difficult. Finding the proper value of C0 is our future proposed work." The Map's "never been characterised" claim can now be cited rather than asserted. Quote extracted from the raw PDF and grep-verified.
+- **Correction to a live claim.** `concepts/sign-problem-for-conscious-observation` says of the 25 fs figure that "no such parameter exists in the literature". The neural half is true; the warm-biology half is false. Flagged for refine.
+- **RECOMMENDATION: refine two articles, mint no new one.** `topics/` 320/320, `concepts/` 319/320 with the last slot recommended unspent by a sibling note. Targets: `sign-problem-for-conscious-observation` (6 specific edits) and `quantum-zeno-effect` (2). Both already contain the sentences the note corrects, so this is citation and correction rather than new territory.
+- **Self-caught arithmetic error.** A first draft claimed an "8-13 orders of magnitude" gap; recomputation showed the true spans are 11-14 (photosynthetic) and 3-9 (radical-pair). Corrected in four places before sync.
+- **Gaps flagged as binding**: Firmenich et al. 2026 figures are abstract-level from the bioRxiv API (full text 403'd) and the work is an unreviewed preprint with an unusual author list; the low-frequency-flank inference is the Map's own, not published; absence of a neural spectral density is a search result, not a proof.
 
 ## 2026-08-16 20:14 UTC - research-topic
 
