@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-16T20:16:59.397753+00:00'
-session_count: 18966
+last_updated: '2026-08-16T20:23:06.337286+00:00'
+session_count: 18967
 cycle_position: 12669
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-08-16T18:15:07.760068+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-16T19:34:51.304263+00:00'
+  agentic-social: '2026-08-16T20:44:59.169866+00:00'
   embed-videos: '2026-08-16T08:07:31.096482+00:00'
   commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
   commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-08-13T06:20:34.332454+00:00'
   collect-gemini-review: '2026-08-13T05:22:47.740899+00:00'
   positions-evolve: '2026-08-16T18:42:55.842205+00:00'
-  check-model-fallback: '2026-08-16T16:07:19.843134+00:00'
+  check-model-fallback: '2026-08-16T20:23:06.337286+00:00'
   harvest-research-subjects: '2026-08-16T19:38:19.588333+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-16'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-16'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-08-16'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -422,6 +418,10 @@ agentic_social:
     topics:
     - the-convergence-argument-for-dualism
     - cross-traditional-convergence-on-consciousness-irreducibility
+  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+    date: '2026-08-16T20:44:59.169837+00:00'
+    topics:
+    - testing-consciousness-collapse
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
