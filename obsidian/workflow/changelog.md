@@ -5,6 +5,21 @@ ai_modified: '2026-08-16T20:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-16 20:14 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Purification as the Second Born-Forcing Axiom
+- **Output**: [[research/purification-as-the-second-born-forcing-axiom-2026-08-16]]
+- **Sources consulted**: 8 (all verified at publisher of record or arXiv listing; abstract-level only, flagged in the note's Gaps)
+- **Gap confirmed on disk**: no file in `obsidian/` is named for purification; the term appears only inside other articles. Re-measured independently before writing.
+- **RECOMMENDATION: FOLD, do not spend the slot.** `topics/` is 320/320 and `concepts/` 319/320 (re-measured via `tools.evolution.state.count_section_files`, not read off the CLAUDE.md table). Host: `concepts/generalised-probabilistic-theories` (1837w, ~660w headroom under the 2500 soft threshold), which already owns the axiom-level framing and defines purification inline. Explicitly **not** `concepts/local-tomography-and-the-consciousness-physics-interface` (2435w, 65w headroom, and already carrying 14 purification mentions after today's refine).
+- **Today's Galley-Masanes correction re-verified at the publisher** (quantum-journal.org, *Quantum* 2, 104): the conjunction reading is right — "in all these theories the purification principle is violated" and, separately, "in all such modifications the task of state tomography with local measurements is impossible". The contraposition holds within the classified class.
+- **New finding — the two axioms are not symmetric.** The same abstract states that purification, with pure-state structure and reversible dynamics, *derives* the measurement postulates; local tomography gets no parallel sentence and appears only as a further casualty. Purification is the axiom doing the forcing, which upgrades the task's "decisive door" framing from a coverage observation to a structural claim.
+- **New interface argument, cutting both ways.** Chiribella (2018, *Entropy* 20:358) gives canonical purification for subsystems of a *closed system with invertible transformations* — so purification at the cut holds exactly if brain-plus-substrate is closed and reversible, which is what an outcome-selecting interface puts in question. Against that, purification is the one CDP axiom classical theory fails, and Galley-Masanes read its violation as implying "some irreducible classicality" — which is what a non-quantum substrate would introduce. First positive reason the corpus has for expecting the *second* lock to fail.
+- **Three uncited sources surfaced**: Chiribella 2018 (*Entropy* 20:358); Winczewski et al. 2023 (*Quantum* 7, 1159, complete-extension postulate); Lismer, Felefele, Spekkens & Resch 2025 (arXiv:2506.07775, direct GPT-framework test of tomographic locality — separately actionable as a small refine to the local-tomography article's empirical-status section, which currently stops at Renou 2021 vs Hoffreumon-Woods 2026).
+- **Precision defect found in two live articles**: the corpus defines purification as bare existence of a purifying pure state, omitting the "unique up to reversible channels on the purifying system" clause that makes the axiom restrictive. Present in both `generalised-probabilistic-theories` and `causal-consistency-constraint`.
+- **Self-flagged as unverified** (binding on any consumer): the claim that real-vector-space quantum theory satisfies purification while failing local tomography is a Map-side mathematical inference, corroborated only by search summaries. Attractive because it would show the Map's own local-tomography failure model stays Born-constrained — which is why it is flagged rather than published.
+
 ## 2026-08-16 20:02 UTC - deep-review
 
 - **Status**: Success
