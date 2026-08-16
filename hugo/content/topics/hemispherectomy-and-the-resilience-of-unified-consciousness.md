@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-04 01:36:01+00:00
+ai_modified: 2026-08-16 08:07:01.713017+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,10 +19,15 @@ description: 'An entire hemisphere removed or disconnected, yet one unified self
   why hemispherectomy sharpens, but does not settle, the filter-versus-production
   debate.'
 draft: false
+embedded_videos:
+- embedded: 2026-08-16 08:07:01.713017+00:00
+  id: a9b55bpTIDU
+  source: notebooklm/0107-01-hemispherectomy-and-the-resilience-of-unified-consciousness
+  url: https://www.youtube-nocookie.com/embed/a9b55bpTIDU
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 02:42:57+00:00
-lastmod: 2026-08-04 01:36:01+00:00
+lastmod: 2026-08-16 08:07:01.713017+00:00
 modified: *id001
 related_articles:
 - '[[split-brain-consciousness]]'
@@ -45,6 +50,12 @@ For one of the two operations the word covers, this is arguably a sharper datum 
 The *functional* variant does not license that claim, and the difference is the article's main caveat: there a disconnected remnant of the hemisphere stays in the skull, alive and perfused, and a named live literature asks whether it hosts an experience of its own (see [The functional hemispherectomy caveat](#the-functional-hemispherectomy-caveat)).
 
 The Map's view is that this resilience is congenial to a filter or interface reading of consciousness (explained under [Two readings of the same data](#two-readings-of-the-same-data)), but honesty requires the immediate qualifier: the same clinical facts are equally predicted by a physicalist reorganization account. Hemispherectomy sharpens the discriminating question; it does not by itself answer it.
+
+<details class="yt-embed" data-video-id="a9b55bpTIDU">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/a9b55bpTIDU">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Hemispherectomy Is
 

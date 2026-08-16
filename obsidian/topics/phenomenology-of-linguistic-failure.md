@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-08-12T14:16:44+00:00
+ai_modified: 2026-08-16T08:07:01.713017+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,11 +28,22 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
 last_deep_review: 2026-07-17T18:15:41+00:00
+embedded_videos:
+  - id: ZmIHLPMeZms
+    url: https://www.youtube-nocookie.com/embed/ZmIHLPMeZms
+    embedded: 2026-08-16T08:07:01.713017+00:00
+    source: notebooklm/0106-01-phenomenology-of-linguistic-failure
 ---
 
 Language fails constantly. Not in the dramatic sense of aphasia or stroke, but in the ordinary friction of trying to say what you mean. You reach for a word and find only approximations. You articulate an insight and watch it flatten into something lesser. You sit with a felt meaning so vivid it seems impossible to miss, yet every sentence you produce slides past it. These failures are not blank absences. They have texture, structure, and distinct experiential signatures—and those signatures are philosophically revealing.
 
 The Unfinishable Map's existing articles address where [[language-thought-boundary|thought exceeds language]] and what the [[language-and-consciousness|philosophy of language reveals about consciousness]]. This article examines a different question: what does linguistic failure *feel like* from the inside, and what do its distinctive phenomenal textures tell us about the relationship between consciousness and expression?
+
+<details class="yt-embed" data-video-id="ZmIHLPMeZms">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ZmIHLPMeZms">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Modes of Failure
 

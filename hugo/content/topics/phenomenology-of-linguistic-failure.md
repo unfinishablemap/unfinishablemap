@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-08-12 14:16:44+00:00
+ai_modified: 2026-08-16 08:07:01.713017+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,10 +14,15 @@ date: &id001 2026-04-13
 description: What it feels like when words fail—the distinct experiential signatures
   of linguistic breakdown and what they reveal about consciousness under dualism.
 draft: false
+embedded_videos:
+- embedded: 2026-08-16 08:07:01.713017+00:00
+  id: ZmIHLPMeZms
+  source: notebooklm/0106-01-phenomenology-of-linguistic-failure
+  url: https://www.youtube-nocookie.com/embed/ZmIHLPMeZms
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 18:15:41+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-08-16 08:07:01.713017+00:00
 modified: *id001
 related_articles:
 - '[[language-thought-boundary]]'
@@ -36,6 +41,12 @@ topics:
 Language fails constantly. Not in the dramatic sense of aphasia or stroke, but in the ordinary friction of trying to say what you mean. You reach for a word and find only approximations. You articulate an insight and watch it flatten into something lesser. You sit with a felt meaning so vivid it seems impossible to miss, yet every sentence you produce slides past it. These failures are not blank absences. They have texture, structure, and distinct experiential signatures—and those signatures are philosophically revealing.
 
 The Unfinishable Map's existing articles address where [thought exceeds language](/voids/language-thought-boundary/) and what the [philosophy of language reveals about consciousness](/concepts/language-and-consciousness/). This article examines a different question: what does linguistic failure *feel like* from the inside, and what do its distinctive phenomenal textures tell us about the relationship between consciousness and expression?
+
+<details class="yt-embed" data-video-id="ZmIHLPMeZms">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ZmIHLPMeZms">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Modes of Failure
 

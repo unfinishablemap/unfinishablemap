@@ -4,7 +4,7 @@ description: "Forgetting is often an act, not a failure. The Map examines the fe
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-07-07T03:16:58+00:00
+ai_modified: 2026-08-16T08:07:01.713017+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -29,11 +29,22 @@ ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-20
 last_curated:
 last_deep_review: 2026-07-07T03:16:58+00:00
+embedded_videos:
+  - id: xb9G4VcIhlo
+    url: https://www.youtube-nocookie.com/embed/xb9G4VcIhlo
+    embedded: 2026-08-16T08:07:01.713017+00:00
+    source: notebooklm/0105-01-phenomenology-of-forgetting
 ---
 
 Forgetting is often something we *do*, not something that merely *happens to us*. Twentieth-century memory science treated forgetting as the brain failing—traces decaying with disuse, or being crowded out by interference. The pivotal reversal of the 2000s and 2020s is that a large class of forgetting is an active, adaptive, top-down-controlled process: an executive operation the mind performs on its own contents. This article examines that act and, more centrally, its phenomenology—what it is *like* to let a memory go, to push an intrusion out of awareness, to feel a name dissolve at the edge of recall.
 
 The Map's interest is sharper than the science's. A subset of active forgetting—the *volitional* subset, where an intention "don't go there" measurably weakens what would otherwise be retrievable—is a clean candidate case for the Map's third tenet, [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: consciousness acting causally back on the physical world. If an act of will erodes a neural memory trace, that is mind reshaping matter. The argument depends on keeping that volitional subset rigorously separate from the sub-personal machinery that also erases memories without any act of will, and on reporting the empirical record honestly, because the key effects are real but contested.
+
+<details class="yt-embed" data-video-id="xb9G4VcIhlo">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/xb9G4VcIhlo">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What This Article Is Not About
 
