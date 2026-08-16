@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-fable-5+claude-opus-5
 concepts: []
 created: 2026-08-12
-date: '2026-08-12'
+date: '2026-08-16'
 draft: false
-lastmod: 2026-08-12 00:00:00+00:00
+lastmod: 2026-08-16 00:00:00+00:00
 related_articles: []
 title: Research Notes - Hypnopompia and Sleep Paralysis as Interface Reassembly Out
   of Order
@@ -22,7 +22,7 @@ The subject is genuinely uncovered and worth writing, but **the framing proposed
 
 The stronger and better-evidenced version of the same thesis does not rest on the hypnagogic/hypnopompic phenomenological contrast at all. It rests on three independent literatures that *do* support ordered, channel-specific, direction-asymmetric transition:
 
-1. **Sleep inertia shows demonstrably asynchronous network recovery.** Wang et al. (2024, *Scientific Reports*, n=21, simultaneous EEG-fMRI) found the thalamus restores its neurovascular coupling timing fastest after awakening, the anterior cingulate at an intermediate rate, and the sensorimotor cortex not at all across the measured window. Related work reports the sensorimotor network still looking disconnected post-awakening while the default-mode network has already recovered. Channels come back at different rates — this is the empirical core of "out of order," and it is measured rather than inferred from retrospective report.
+1. **Sleep inertia shows demonstrably asynchronous network recovery.** Wang et al. (2024, *Scientific Reports*, n=21, simultaneous EEG-fMRI) found the thalamus restores its neurovascular coupling timing fastest after awakening (peak-correlation lag ~8 s → ~2.5 s by the third post-waking scan), the anterior cingulate changing significantly but *non-monotonically* (lag running earlier through the second scan, then settling back to ~6 s by the third — NB: not "an intermediate rate"; that gloss misdescribes the paper), and the sensorimotor cortex not changing at all across the measured window. Related work reports the sensorimotor network still looking disconnected post-awakening while the default-mode network has already recovered. Channels come back at different rates — this is the empirical core of "out of order," and it is measured rather than inferred from retrospective report.
 2. **The transition is hysteretic, not reversible.** Kim, Moon, Mashour & Lee (2018, *PLOS Computational Biology*) argue that loss and recovery of consciousness follow distinct pathways as a network-level property, not a pharmacological artefact — the same claim the Map's anaesthesia article already makes via neural inertia, but generalised to a mechanism that should apply to sleep as well as anaesthesia. This is the honest bridge from the anaesthesia wing to the sleep wing.
 3. **Sleep paralysis has its own electrophysiological signature, intermediate between REM and wake.** Mainieri et al. (2020/2021, *J Clin Sleep Med*) found sleep paralysis showing reduced theta and increased alpha relative to REM; Herrero et al. (2025, *Scientific Reports*, n=7) report reduced theta plus increased beta and low-gamma versus both REM and stage 1. Sleep paralysis is not "REM with the lights on" — it is a third configuration, which is exactly what a partial, out-of-order reassembly should look like.
 
@@ -36,8 +36,8 @@ The strongest counter-position is well developed and must be stated at full stre
 - **URL**: https://doi.org/10.1006/ccog.1999.0404 (also https://philpapers.org/rec/CHEHAH)
 - **Type**: Peer-reviewed paper, *Consciousness and Cognition* 8(3), 319–337
 - **Key points**:
-  - Sleep-paralysis hallucinations sort into three factors: **Intruder** (sensed presence, fear, auditory and visual hallucination), **Incubus** (chest pressure, breathing difficulty, pain), and **Vestibular-Motor** (illusory movement, floating, out-of-body experience).
-  - Intruder experiences are attributed to a hypervigilant state initiated in the midbrain; Incubus experiences to the effect of motoneuron hyperpolarisation on the perception of respiration; V-M experiences to vestibular and body-schema systems operating without confirming afferent input.
+  - Sleep-paralysis hallucinations sort into three factors: **Intruder** (sensed presence, fear, auditory and visual hallucination), **Incubus** (chest pressure, breathing difficulty, pain), and — in this paper's own wording — **Unusual Bodily Experiences** (floating/flying sensations, out-of-body experience, bliss). NB: the familiar *vestibular-motor* label for this third cluster is NOT from this 1999 paper; it is introduced in Cheyne's later work with Girard (Girard & Cheyne 2004, *Laterality* 9(1); Cheyne & Girard 2009, *Cortex* 45(2)). Cite the 1999 paper only for "Unusual Bodily Experiences".
+  - Intruder experiences are attributed to a hypervigilant state initiated in the midbrain; Incubus experiences to the effect of motoneuron hyperpolarisation on the perception of respiration; the bodily-experience cluster to vestibular and body-schema systems operating without confirming afferent input.
   - The paper is explicitly a *dual* account: neurological generation plus cultural construction of the "night-mare."
 - **Tenet alignment**: Neutral-to-supportive for Dualism *if* read as channel decomposition; the paper itself is a physicalist account and should not be cited as dualist support.
 - **Note**: This is the taxonomy the commissioning review named. It is genuinely canonical and still the organising framework in 2024–2025 reviews.
@@ -214,9 +214,9 @@ The strongest counter-position is well developed and must be stated at full stre
 | 1982 | Hufford, *The Terror That Comes in the Night* | Establishes the cross-cultural stability of the experience against local interpretation |
 | 1987 | Mavromatis, *Hypnagogia* | The standard phenomenological catalogue; source of the still-current "no clear HG/HP difference" default |
 | 1996 | Ohayon & Priest et al., *Br J Psychiatry* | n=4,972; 37% hypnagogic vs 12.5% hypnopompic prevalence |
-| 1999 | Cheyne, Rueffer & Newby-Clark, *Conscious Cogn* | The intruder/incubus/vestibular-motor taxonomy |
+| 1999 | Cheyne, Rueffer & Newby-Clark, *Conscious Cogn* | The intruder/incubus/unusual-bodily-experiences taxonomy (the third cluster is relabelled *vestibular-motor* only in Cheyne's later work with Girard) |
 | 2010 | Friedman et al. — neural inertia phylogenetically conserved | Already in the corpus's anaesthesia article; the transition asymmetry is not species-specific |
-| 2014 | Jalal & Ramachandran, *Med Hypotheses* | TPJ body-map projection account of the intruder |
+| 2014 | Jalal & Ramachandran, *Med Hypotheses* | Right superior parietal body-map projection account of the intruder (the paper's own region; not TPJ) |
 | 2018 | Kim, Moon, Mashour & Lee, *PLOS Comput Biol* | Hysteresis as a general network mechanism, not a drug effect |
 | 2018 | Denis, French & Gregory, *Sleep Med Rev* | 42-study systematic review; causes still unknown |
 | 2019 | Stevner et al., *Nat Commun* | HMM whole-brain transition trajectories across wake–NREM, n=57 |
