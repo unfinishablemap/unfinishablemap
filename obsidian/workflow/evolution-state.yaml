@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-16T13:23:00.326581+00:00'
-session_count: 18940
-cycle_position: 12656
+last_updated: '2026-08-16T13:52:21.666260+00:00'
+session_count: 18941
+cycle_position: 12657
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
   optimistic-review: '2026-08-13T16:48:12.435796+00:00'
   check-tenets: '2026-08-12T22:19:16.069778+00:00'
   check-links: '2026-08-13T11:55:36.092726+00:00'
-  deep-review: '2026-08-16T09:37:58.000032+00:00'
+  deep-review: '2026-08-16T13:52:21.666260+00:00'
   tune-system: '2026-08-08T01:08:41.311176+00:00'
   research-voids: '2026-08-13T12:18:52.076702+00:00'
   coalesce: '2026-08-13T18:55:45.424562+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-16T13:13:23.724202+00:00'
+  agentic-social: '2026-08-16T14:12:29.936707+00:00'
   embed-videos: '2026-08-16T08:07:31.096482+00:00'
   commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
   commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 542
-  reviews_completed: 7207
+  reviews_completed: 7208
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-08-16'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-08-16'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-08-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -386,6 +382,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - dualist-perception
+  - url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
+    date: '2026-08-16T14:12:29.936676+00:00'
+    topics:
+    - consciousness-disruption-and-the-mind-brain-interface
+    - neurological-dissociations-as-interface-architecture
+    - filter-theory
+    - lived-objectified-body-distinction
 tune_system_history:
   last_run: '2026-08-08T01:04:00+00:00'
   last_run_tier1_applied: 0
@@ -568,46 +571,47 @@ queue_status:
     of 07-19 carried by topics/born-rule-and-the-consciousness-interface which cites
     Valentini 1991. The analog-quantum-devices note of 08-04 stays cap-blocked at
     topics 320 of 320 and must be neither minted nor lost.
-  last_replenishment_note_953: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. The pickable pair
-    going in was run 950's hypnopompia expand and run 952's descriptive-experience-sampling
-    expand; the count dropped to 2 when the 2026-08-12 ethics-of-cognitive-enhancement
-    refine completed at 20:55 UTC. The driver predicted promotion-mode but the mandated
-    unconsumed-research audit found the driver's both-notes-already-chained assertion
-    incomplete — the 2026-08-13 harvest batch landed two further research notes with
-    explicit proceed verdicts that no run had chained, the agency-budget note (completed
-    10:45 UTC, assess-first verdict worth covering, recommended slug concepts/agency-budget)
-    and the moral-census-opacity note (completed 11:14 UTC, executive summary closes
-    that a concepts article is warranted), both targeting concepts at gate 315 of
-    320 measured live via tools.evolution.state.count_section_files. Unconsumed research
-    outranks promotion per the documented source priority and the 947-949 shadowing
-    failure mode, so restored 2 to 4 by TWO P2 expand-topic chain mints appended at
-    the end of the Active section (append shifts no existing task lines), each binding
-    its note's Gaps section as inherited verification debt; the agency-budget mint
-    carries the coherence-only citation grade the same-day quantum-interface register
-    audit installed, the moral-census mint carries the pairing-fact scope guard against
-    evidential-inertness over-claim. Also minted ONE P3 refine-draft shipping the
-    voids-olfactory-void note (completed 12:16 UTC, recommendation fold, do not spend
-    the last slot) into its named voids hosts at zero cap cost, mirroring the standing
-    folded-notes precedent, with per-host lengths measured at mint (erasure-void the
-    only roomy host at 2284w; synesthetic-void human-length-parked, pointer-only).
-    Skipped with reasons — the analog-quantum-devices note (2026-08-04, verdict worth
-    covering, target topics) stays unchained because topics reads 319 of 320 with
-    the last slot reserved for the open hypnopompia expand, revisit after the topics
-    cap decision; values-in-science, phenomenal-individuality and horizon-decoherence
-    are recorded declines; bayesian-confirmation's discharge-in-place verdict is verified
-    executed on disk (duhem-quine L74 and L102 carry the predict-versus-accommodate
-    discipline, ai_modified 2026-08-12 postdates the note); the aesthetics pair (experimental-philosophy,
-    machine-aesthetic) are evidence-state notes with no proceed verdict, one targeting
-    capped topics. Dedupe verified clean for both expand slugs — no live or archived
-    article, no Vetoed-bank match, no other open task carrying either note path. Post-count
-    P0-P2 equals 4 via count_p0_p2_tasks, both expand mints parse as EXPAND_TOPIC
-    priority 2 and the fold parses as REFINE_DRAFT priority 3, zero Type other blocks
-    corpus-wide, pending P3 count 28. Concurrency checked, pgrep clean of any sibling
-    loop, the only worktree delta beyond this write is the pre-existing evolution-state
-    bookkeeping edit, kept. Dropped note 949 to hold the rolling note window at four.
-    Re-parsed this state file after writing.
+  last_replenishment_note_953: "Pre-count P0-P2 equals 2 against a floor of 3, measured\
+    \ live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,\
+    \ the three veto-tagged condense tasks parser-excluded as always. The pickable\
+    \ pair going in was run 950's hypnopompia expand and run 952's descriptive-experience-sampling\
+    \ expand; the count dropped to 2 when the 2026-08-12 ethics-of-cognitive-enhancement\
+    \ refine completed at 20:55 UTC. The driver predicted promotion-mode but the mandated\
+    \ unconsumed-research audit found the driver's both-notes-already-chained assertion\
+    \ incomplete \u2014 the 2026-08-13 harvest batch landed two further research notes\
+    \ with explicit proceed verdicts that no run had chained, the agency-budget note\
+    \ (completed 10:45 UTC, assess-first verdict worth covering, recommended slug\
+    \ concepts/agency-budget) and the moral-census-opacity note (completed 11:14 UTC,\
+    \ executive summary closes that a concepts article is warranted), both targeting\
+    \ concepts at gate 315 of 320 measured live via tools.evolution.state.count_section_files.\
+    \ Unconsumed research outranks promotion per the documented source priority and\
+    \ the 947-949 shadowing failure mode, so restored 2 to 4 by TWO P2 expand-topic\
+    \ chain mints appended at the end of the Active section (append shifts no existing\
+    \ task lines), each binding its note's Gaps section as inherited verification\
+    \ debt; the agency-budget mint carries the coherence-only citation grade the same-day\
+    \ quantum-interface register audit installed, the moral-census mint carries the\
+    \ pairing-fact scope guard against evidential-inertness over-claim. Also minted\
+    \ ONE P3 refine-draft shipping the voids-olfactory-void note (completed 12:16\
+    \ UTC, recommendation fold, do not spend the last slot) into its named voids hosts\
+    \ at zero cap cost, mirroring the standing folded-notes precedent, with per-host\
+    \ lengths measured at mint (erasure-void the only roomy host at 2284w; synesthetic-void\
+    \ human-length-parked, pointer-only). Skipped with reasons \u2014 the analog-quantum-devices\
+    \ note (2026-08-04, verdict worth covering, target topics) stays unchained because\
+    \ topics reads 319 of 320 with the last slot reserved for the open hypnopompia\
+    \ expand, revisit after the topics cap decision; values-in-science, phenomenal-individuality\
+    \ and horizon-decoherence are recorded declines; bayesian-confirmation's discharge-in-place\
+    \ verdict is verified executed on disk (duhem-quine L74 and L102 carry the predict-versus-accommodate\
+    \ discipline, ai_modified 2026-08-12 postdates the note); the aesthetics pair\
+    \ (experimental-philosophy, machine-aesthetic) are evidence-state notes with no\
+    \ proceed verdict, one targeting capped topics. Dedupe verified clean for both\
+    \ expand slugs \u2014 no live or archived article, no Vetoed-bank match, no other\
+    \ open task carrying either note path. Post-count P0-P2 equals 4 via count_p0_p2_tasks,\
+    \ both expand mints parse as EXPAND_TOPIC priority 2 and the fold parses as REFINE_DRAFT\
+    \ priority 3, zero Type other blocks corpus-wide, pending P3 count 28. Concurrency\
+    \ checked, pgrep clean of any sibling loop, the only worktree delta beyond this\
+    \ write is the pre-existing evolution-state bookkeeping edit, kept. Dropped note\
+    \ 949 to hold the rolling note window at four. Re-parsed this state file after\
+    \ writing."
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
