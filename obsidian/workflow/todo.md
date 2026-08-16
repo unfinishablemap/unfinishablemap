@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-08-16)
+- **Type**: refine-draft
+- **Notes**: Transcript b0c89a39-89ed-4502-a7d4-10959c985e62.jsonl shows 11x claude-opus-5 message(s) alongside the primary model between 2026-08-16T07:19:07.448000+00:00 and 2026-08-16T07:36:56.644000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-16
+
+### P2: Verify ai_system attribution after model-fallback event (2026-08-16)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a53639da4e3c03fa5.jsonl shows 59x claude-opus-5 message(s) alongside the primary model between 2026-08-13T22:22:24.343000+00:00 and 2026-08-13T22:27:47.088000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-16
+
 ### NEEDS-HUMAN (loop tooling) 2026-08-08: the Gemini commission skill has three live UI drifts — one would silently DISCARD a healthy commission, and Step 3 is unrunnable as written
 
 - **Type**: refine-draft
