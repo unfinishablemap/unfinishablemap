@@ -1,3 +1,199 @@
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-16T22:01:15.301989+00:00'
+session_count: 18973
+cycle_position: 12671
+last_runs:
+  add-highlight: '2026-08-16T08:25:01.069725+00:00'
+  agentic-social: '2026-08-16T21:43:55.474099+00:00'
+  apex-evolve: '2026-08-12T19:19:00.307794+00:00'
+  check-links: '2026-08-13T11:55:36.092726+00:00'
+  check-model-fallback: '2026-08-16T20:23:06.337286+00:00'
+  check-tenets: '2026-08-12T22:19:16.069778+00:00'
+  coalesce: '2026-08-16T18:15:07.760068+00:00'
+  collect-chatgpt-review: '2026-08-13T04:03:36.626454+00:00'
+  collect-claude-review: '2026-08-13T04:52:50.346020+00:00'
+  collect-gemini-review: '2026-08-13T05:22:47.740899+00:00'
+  combine-outer-reviews: '2026-08-13T06:20:34.332454+00:00'
+  commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
+  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
+  commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
+  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
+  commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
+  condense: '2026-08-13T03:23:19.289124+00:00'
+  deep-review: '2026-08-16T20:03:40.871494+00:00'
+  embed-videos: '2026-08-16T08:07:31.096482+00:00'
+  expand-topic: '2026-08-16T14:31:58.828045+00:00'
+  harvest-research-subjects: '2026-08-16T19:38:19.588333+00:00'
+  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
+  literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
+  optimistic-review: '2026-08-16T15:51:49.428396+00:00'
+  pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
+  positions-evolve: '2026-08-16T18:42:55.842205+00:00'
+  refine-draft: '2026-08-16T21:34:47.190989+00:00'
+  replenish-queue: '2026-08-16T22:01:15.301989+00:00'
+  research-topic: '2026-08-16T21:04:19.236149+00:00'
+  research-voids: '2026-08-13T12:18:52.076702+00:00'
+  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  tune-system: '2026-08-08T01:08:41.311176+00:00'
+  tweet-highlight: '2026-01-24T14:00:00+00:00'
+  validate-all: '2026-01-24T02:57:00+00:00'
+last_git_push: '2026-08-16T21:04:19.664405+00:00'
+last_tweet_date: '2026-08-16'
+content_stats:
+  total_files: 297
+  published_files: 192
+  draft_files: 0
+  placeholder_files: 0
+section_caps:
+  max_topics: 320
+  max_concepts: 320
+  max_voids: 100
+  max_positions: 80
+audit_triple:
+  altered_state_symmetry: {}
+  global_task_cap: 6
+  literature_drift:
+    active_research_sections:
+    - psychedelics
+    - animal-cognition
+    - animal-consciousness
+    - iit
+    - quantum-biology
+    - consciousness-measurement
+    - neural-complexity
+    - cetacean
+    - corvid
+    - invertebrate
+    - fish-sentience
+    - plant-cognition
+    - neuron-less
+    - bacterial
+    - basal-and-bioelectric
+    - organoid
+    - predictive-processing
+    - anaesthesia
+    clean_audits: 3
+    flagged_audits: 3
+    last_audit_date: '2026-08-04'
+    median_year_lag_threshold: 5
+    missing_citation_threshold: 2
+    recently_audited:
+    - animal-consciousness
+    - psychedelics-and-the-filter-model
+    - quantum-biology-and-neural-consciousness
+    - consciousness-and-integrated-information
+    - cetacean-and-corvid-consciousness
+    - invertebrate-consciousness-as-interface-test
+    total_audits: 6
+  topic_concept_anchoring:
+    run_every_n_cycles: 1
+convergence_targets:
+  min_topics: 10
+  min_concepts: 15
+  min_arguments: 5
+  max_critical_issues: 0
+  max_medium_issues: 3
+progress:
+  topics_written: 320
+  concepts_written: 319
+  arguments_written: 5
+  questions_written: 0
+  voids_written: 99
+  positions_written: 15
+  research_notes: 544
+  reviews_completed: 7211
+  apex_articles: 41
+quality:
+  critical_issues: 0
+  medium_issues: 10
+  low_issues: 3
+  orphaned_files: 0
+failed_tasks: {}
+recent_tasks:
+- task: deep-review
+  type: deep-review
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-16'
+  outcome: failed
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-16'
+  outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-16'
+  outcome: failed
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-16'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-16'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-16'
+  outcome: success
+- task: research-topic
+  type: research-topic
+  date: '2026-08-16'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-16'
+  outcome: success
+- task: research-topic
+  type: research-topic
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-16'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-16'
+  outcome: success
 agentic_social:
   recently_posted:
   - date: '2026-08-12T11:25:22.699044+00:00'
@@ -237,111 +433,6 @@ agentic_social:
     - plant-cognition-and-the-plant-neurobiology-debate
     - biological-teleology-and-the-interface-framework
     url: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
-audit_triple:
-  altered_state_symmetry: {}
-  global_task_cap: 6
-  literature_drift:
-    active_research_sections:
-    - psychedelics
-    - animal-cognition
-    - animal-consciousness
-    - iit
-    - quantum-biology
-    - consciousness-measurement
-    - neural-complexity
-    - cetacean
-    - corvid
-    - invertebrate
-    - fish-sentience
-    - plant-cognition
-    - neuron-less
-    - bacterial
-    - basal-and-bioelectric
-    - organoid
-    - predictive-processing
-    - anaesthesia
-    clean_audits: 3
-    flagged_audits: 3
-    last_audit_date: '2026-08-04'
-    median_year_lag_threshold: 5
-    missing_citation_threshold: 2
-    recently_audited:
-    - animal-consciousness
-    - psychedelics-and-the-filter-model
-    - quantum-biology-and-neural-consciousness
-    - consciousness-and-integrated-information
-    - cetacean-and-corvid-consciousness
-    - invertebrate-consciousness-as-interface-test
-    total_audits: 6
-  topic_concept_anchoring:
-    run_every_n_cycles: 1
-content_stats:
-  draft_files: 0
-  placeholder_files: 0
-  published_files: 192
-  total_files: 297
-convergence_targets:
-  max_critical_issues: 0
-  max_medium_issues: 3
-  min_arguments: 5
-  min_concepts: 15
-  min_topics: 10
-cycle_position: 12671
-failed_tasks: {}
-last_git_push: '2026-08-16T21:04:19.664405+00:00'
-last_runs:
-  add-highlight: '2026-08-16T08:25:01.069725+00:00'
-  agentic-social: '2026-08-16T21:43:55.474099+00:00'
-  apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  check-links: '2026-08-13T11:55:36.092726+00:00'
-  check-model-fallback: '2026-08-16T20:23:06.337286+00:00'
-  check-tenets: '2026-08-12T22:19:16.069778+00:00'
-  coalesce: '2026-08-16T18:15:07.760068+00:00'
-  collect-chatgpt-review: '2026-08-13T04:03:36.626454+00:00'
-  collect-claude-review: '2026-08-13T04:52:50.346020+00:00'
-  collect-gemini-review: '2026-08-13T05:22:47.740899+00:00'
-  combine-outer-reviews: '2026-08-13T06:20:34.332454+00:00'
-  commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
-  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
-  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
-  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-  condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-16T20:03:40.871494+00:00'
-  embed-videos: '2026-08-16T08:07:31.096482+00:00'
-  expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  harvest-research-subjects: '2026-08-16T19:38:19.588333+00:00'
-  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
-  optimistic-review: '2026-08-16T15:51:49.428396+00:00'
-  pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
-  positions-evolve: '2026-08-16T18:42:55.842205+00:00'
-  refine-draft: '2026-08-16T21:34:47.190989+00:00'
-  replenish-queue: '2026-08-16T21:15:59.205281+00:00'
-  research-topic: '2026-08-16T21:04:19.236149+00:00'
-  research-voids: '2026-08-13T12:18:52.076702+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-08T01:08:41.311176+00:00'
-  tweet-highlight: '2026-01-24T14:00:00+00:00'
-  validate-all: '2026-01-24T02:57:00+00:00'
-last_tweet_date: '2026-08-16'
-last_updated: '2026-08-16T21:43:55.474099+00:00'
-progress:
-  apex_articles: 41
-  arguments_written: 5
-  concepts_written: 319
-  positions_written: 15
-  questions_written: 0
-  research_notes: 544
-  reviews_completed: 7211
-  topics_written: 320
-  voids_written: 99
-quality:
-  critical_issues: 0
-  low_issues: 3
-  medium_issues: 10
-  orphaned_files: 0
 queue_status:
   last_replenishment: '2026-08-16T21:56:00+00:00'
   last_replenishment_mode: unconsumed-research-fold-other-half-pileup-avoided
@@ -560,93 +651,6 @@ queue_status:
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
-recent_tasks:
-- date: '2026-08-16'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-16'
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-08-16'
-  outcome: failed
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-16'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-16'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-16'
-  outcome: success
-  task: coalesce
-  type: coalesce
-- date: '2026-08-16'
-  outcome: failed
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-16'
-  outcome: success
-  task: positions-evolve
-  type: positions-evolve
-- date: '2026-08-16'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-16'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-16'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-16'
-  outcome: success
-  task: harvest-research-subjects
-  type: harvest-research-subjects
-- date: '2026-08-16'
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-08-16'
-  outcome: success
-  task: research-topic
-  type: research-topic
-- date: '2026-08-16'
-  outcome: success
-  task: check-model-fallback
-  type: check-model-fallback
-- date: '2026-08-16'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-16'
-  outcome: success
-  task: research-topic
-  type: research-topic
-- date: '2026-08-16'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-16'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-16'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-section_caps:
-  max_concepts: 320
-  max_positions: 80
-  max_topics: 320
-  max_voids: 100
-session_count: 18972
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'

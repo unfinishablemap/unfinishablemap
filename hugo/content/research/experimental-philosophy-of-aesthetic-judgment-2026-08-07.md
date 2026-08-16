@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-07 20:44:00+00:00
+ai_modified: 2026-08-16 22:14:27+00:00
 ai_system: claude-opus-5
 concepts: []
 created: 2026-08-07
-date: '2026-08-07'
+date: '2026-08-16'
 draft: false
-lastmod: 2026-08-07 20:44:00+00:00
+lastmod: 2026-08-16 22:14:27+00:00
 related_articles: []
 title: Research Notes - Experimental Philosophy of Aesthetic Judgment
 ---
@@ -48,7 +48,9 @@ The reported finding matters in two ways. First, the asymmetry is real at the le
 
 **None of this tests Meskin.** Andow measured what people *think* about aesthetic testifiers; Meskin's claim is about what aesthetic testifiers *are*. Robson and Wallbank cite Andow for a different purpose — as evidence "that the folk are rather more sceptical about both testimony in general, and aesthetic judgement in general, than most philosophers are inclined to think appropriate" — while their §4.1.3 verdict on verifiability stands unrevised in the same entry. That is the strongest available confirmation that the specialist literature does not regard the comparative claim as tested.
 
-One near-miss. Andow (2020) applied to the *moral* case exactly the design Meskin's claim would need: it tested whether the testimony asymmetry "stems from differing metaphysical beliefs across relevant domains, varying background levels of deception, or relative disagreement between individuals." "Background levels of deception" is the insincerity limb; "relative disagreement" approximates the competence limb. **The instrument exists and has been pointed at morality, not — as far as I found — at aesthetics.**
+One near-miss. Andow (2020) ran the design Meskin's claim would need, asking how far the testimony asymmetry "is explained by different metaphysical beliefs about the relevant domains, or beliefs about the relative background levels of deception or disagreement." Deception is the insincerity limb; disagreement approximates the competence limb.
+
+> **CORRECTION — 2026-08-16, during the refine-draft of the target article.** This paragraph previously claimed that "the instrument exists and has been pointed at morality, not — as far as I found — at aesthetics," and attributed to the abstract a quotation that was not verbatim. Both are **wrong**. The full text (author copy, UEA ePrints 70000) was retrieved during the refine: Andow ran mediation models "separately for each of the two relevant contrasts between domains of belief (aesthetic vs descriptive, moral vs descriptive)," and reports that "perceptions of background levels of disagreement and deception partially explain both asymmetries concerning judgments about legitimacy." Andow (2019) had itself already measured perceived deception and disagreement differentials in the aesthetic case. **What survives, and is the real payload:** these studies measure *perceived* rates, never actual testifier sincerity or competence, so Meskin's comparative claim remains untested. Do not inherit the superseded sentence.
 
 ### Nearest evidence on the competence limb
 
@@ -94,7 +96,7 @@ This supplies a **third pragmatic explanation of the testimony asymmetry that Me
 
 ## Relation to Site Tenets
 
-- **Dualism (Tenet 1).** Nothing found supports the tenet, and one result cuts against the Map's preferred reading. The Map wants aesthetic deference-resistance to track a first-personal epistemic fact; Andow's null — the asymmetry was not moderated by participants' attitudes to the status of aesthetic judgements — weakens *metaphysical* explanations of that resistance generally, the Map's included. Recorded because it is inconvenient.
+- **Dualism (Tenet 1).** Nothing found supports the tenet, and one result cuts against the Map's preferred reading. The Map wants aesthetic deference-resistance to track a first-personal epistemic fact; Andow's null — the asymmetry was not moderated by participants' attitudes to the status of aesthetic judgements — weakens *metaphysical* explanations of that resistance generally, the Map's included. Recorded because it is inconvenient. **Corrected 2026-08-16:** the null does not stand alone. Andow (2020) partly reverses it, finding that metaphysical beliefs explain some of the aesthetic–descriptive asymmetry "and perhaps only there," and cautioning that "the null results in either study should be interpreted cautiously." The mediator is agreement that there is a fact of the matter, with *lower* agreement predicting less willingness to defer — so where folk resistance tracks metaphysics it tracks folk *anti-realism*. Still unhelpful to the Map, but for a different reason than the one recorded here.
 - **Occam's Razor Has Limits (Tenet 5).** The deflationary story is simpler and remains unverified after two decades — a genuine strengthening of the Map's standing position, but only to the extent of "not confirmed," never "disconfirmed."
 - **Minimal Quantum Interaction, Bidirectional Interaction, No Many Worlds.** Untouched. No source engages them.
 - **Honest conflict.** Vessel et al. hands the deflationist a mechanism the Map's article does not mention and that is better evidenced than either of Meskin's. The article's treatment of the deflationary option is incomplete in the deflationist's favour.
@@ -113,7 +115,7 @@ Frame neither as "empirical work refutes/supports the Acquaintance Principle." N
 Flagged so they do not propagate as clean-looking prose.
 
 1. **Andow (2019) full text NOT retrieved — the single most important source here, and I have not read it.** PhilPapers returned 403; the UEA repository copy is embargoed to 2099; Bloomsbury is paywalled. Everything above about Andow's design and results is relayed through the SEP entry by Mikalonytė, Doran and Liao (2024), whose text I did retrieve. **Attribute as "the SEP entry reports."** Sample size, stimuli, statistics and whether the study included any measure of testifier reliability are all unknown to me. Also unresolved: the SEP cites the volume as **2019**, the UEA record as **2018**; page range 33–58 comes from the SEP bibliography only.
-2. **Andow (2020) and Andow (2021) abstracts reconstructed via OpenAlex, full texts not read.** Wiley returned 402 and Taylor & Francis 403. OpenAlex records the *Mind & Language* piece as 2019 while the SEP bibliography gives 2020 with volume 35(4) — 35(4) is a 2020 volume, so **2020 is likely correct**, but I did not confirm at the publisher.
+2. **Andow (2020) and Andow (2021) abstracts reconstructed via OpenAlex, full texts not read.** Wiley returned 402 and Taylor & Francis 403. OpenAlex records the *Mind & Language* piece as 2019 while the SEP bibliography gives 2020 with volume 35(4) — 35(4) is a 2020 volume, so **2020 is likely correct**, but I did not confirm at the publisher. — **Resolved 2026-08-16:** Crossref gives published-print 2020-09, published-online 2019-08-20, volume 35(4), pages 456–474, so **2020** is correct for the version of record. The Andow (2020) **full text was retrieved** on that date via the green OA copy at UEA ePrints 70000; the two corrections above follow from it. Note also that Andow's own reference list cites the aesthetic-testimony chapter as **2018**, against the SEP's 2019 — the date discrepancy in Gap 1 is in the sources and is left unresolved.
 3. **Cova, Olivola, Machery et al. (2019) full text not retrieved.** Metadata verified independently at three institutional repositories and the Wiley listing (DOI 10.1111/mila.12210, *Mind & Language* 34(3): 317–338). The "over 2,000 respondents, 19 countries" figure and the "Neither is correct" finding come from a search summary and the SEP respectively, not from the paper.
 4. **Relayed through the SEP entries, not read: Goodwin and Darley (2008), Rabb et al. (2022), Zangwill (2019), Contesi et al. (2024), Cova/Strickland et al. (2021).** I do not have complete bibliographic records for Goodwin and Darley, Rabb et al., or Zangwill. In particular I did **not** retrieve the actual replication rate reported by Cova, Strickland et al.; the SEP's phrase "relatively replicable" is all I have, and no successor should attach a percentage to it.
 5. **Cova, Núñez García and Liao (2015)** — metadata and abstract verified via OpenAlex (*Philosophy Compass* 10(12): 927–939). The specific discussion of folk views on aesthetic testimony at pp. 931–2, which Robson and Wallbank cite, I did not read.
