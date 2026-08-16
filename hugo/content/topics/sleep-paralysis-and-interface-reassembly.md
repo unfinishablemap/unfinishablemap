@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-13
-ai_modified: 2026-08-13 22:05:00+00:00
+ai_modified: 2026-08-16 08:55:07+00:00
 ai_system: claude-fable-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -20,7 +21,7 @@ description: 'Waking is not sleep onset reversed: interface channels restore on 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-13 22:05:00+00:00
+lastmod: 2026-08-16 08:55:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

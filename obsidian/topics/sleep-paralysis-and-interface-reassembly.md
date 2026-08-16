@@ -4,8 +4,9 @@ description: "Waking is not sleep onset reversed: interface channels restore on 
 created: 2026-08-13
 modified: 2026-08-13
 human_modified:
-ai_modified: 2026-08-13T22:05:00+00:00
+ai_modified: 2026-08-16T08:55:07+00:00
 draft: false
+anchoring_audit_exempt: true  # VERIFIED false-high 2026-08-16 vs filter-theory. The article calibrates STRUCTURALLY, not lexically. It declares the underdetermination outright three times in words the regex set does not list — lead "every finding below is compatible with a production model in which different neural generators simply restart at different rates"; "The finding is neutral between filter and production readings ... nothing in the coupling data forbids it"; tenet close "The evidence permits both; the Map notes which it expects" — where the anchor scores its single marker on the phrase "empirically equivalent". Same move, different words. ~35 phrasal/structural calibration instances (~11.7/kw) against the 2.06/kw lexical floor: a whole concessive section (Conceding the Content), a section header that IS a calibration (A Default, Not a Finding), Herrero 2025 reported as exploratory n=7 with beta in one of two episodes, the "enough to motivate ... not enough to declare" summary, the common-cause-null non-independence caution in the tenet section, and four named falsifiers. No sentence over-claims relative to the evidence; hedge-stuffing would double-hedge claims already conceded in full. Same class as the descent-side sibling topics/hypnagogic-phenomenology-and-interface-modulation.
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[sleep-and-consciousness]]"

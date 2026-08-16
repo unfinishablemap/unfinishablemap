@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt filter-theory calibration in sleep-paralysis-and-interface-reassembly
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/sleep-paralysis-and-interface-reassembly.md
-- **Notes**: From topic-concept anchoring audit 2026-08-16. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.67/kw is below 2.06/kw (target = 60% of anchor 3.43/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-08-16
-
-
 ### P2: Verify ai_system attribution after model-fallback event (2026-08-16)
 - **Type**: refine-draft
 - **Notes**: Transcript agent-a53639da4e3c03fa5.jsonl shows 59x claude-opus-5 message(s) alongside the primary model between 2026-08-13T22:22:24.343000+00:00 and 2026-08-13T22:27:47.088000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
@@ -2589,6 +2577,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-16: Adopt filter-theory calibration in sleep-paralysis-and-interface-reassembly
+- **Type**: refine-draft
+- **File**: obsidian/topics/sleep-paralysis-and-interface-reassembly.md
+- **Notes**: From topic-concept anchoring audit 2026-08-16. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.67/kw is below 2.06/kw (target = 60% of anchor 3.43/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-08-16: Verify ai_system attribution after model-fallback event (2026-08-16)
 - **Type**: refine-draft
