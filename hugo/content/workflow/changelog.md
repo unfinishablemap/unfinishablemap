@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-16 17:18 UTC - deep-review
+
+- **Status**: Success
+- **File**: [descriptive-experience-sampling](/concepts/descriptive-experience-sampling/)
+- **Word count**: 2733 → 2751 (+18; length-neutral mode, soft_warning, under hard 3500)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-08-16-descriptive-experience-sampling](/reviews/deep-review-2026-08-16-descriptive-experience-sampling/)
+
+**Critical: the lead misstated a joint conclusion and contradicted the article's own body.** It claimed Hurlburt and Schwitzgebel "jointly concluded that momentary sampling beats armchair generalisation." Both explicitly refuse that ranking in the paper where they settle it. Hurlburt calls the reading backwards — "There is no tribunal... DES is a defendant before that methodologically plural tribunal, as should be thought sampling, armchair introspection" — and Schwitzgebel agrees with Siewert that DES "does not deserve a uniquely high position." The article's own Rival Readings section already said they "settled on methodological pluralism rather than a verdict", so the lead contradicted the body sixty lines below it. It was also a false shared commitment: it recruited the method's chief critic into ratifying a superiority claim he declined to grant. Lead rewritten around Hurlburt's own formulation, cited to 2011a. The Map's separate evaluative judgement ("the most disciplined available way") is untouched and now reads unambiguously as the Map's.
+
+- Reference 14 pages 252-273 → **253-273** (author's CV and indexers agree; the 234-252 predecessor confirms it). Reference 4 given its missing subtitle *Moments of Truth*.
+- Full publisher-of-record ledger in the review archive: **16 citations verified, inline attributions checked separately from reference entries.** Every other cite came back real-correct, including the four load-bearing empirical claims where direction/magnitude could have inverted — the distress correlation (higher inner speech → *lower* distress), the "two to four times as high" questionnaire inflation and its direction, the N=1 Kühn design (5 recruited, 1 reported), and both Hurlburt 2026 quotes. No fabrications; no superseded superlatives.
+- Engagement classification: Dennett/heterophenomenology Mode Three; Schwitzgebel Mode Three (declines to recruit him as support — correct, and what made the lead's contrary claim conspicuous); psychometric tradition Mode Two. No editor-vocabulary leakage.
+- Checked and deliberately not changed: Schwitzgebel's "manufactured details" worry (unrefuted, and the 24-hour interview window plus Hurlburt's delay argument presuppose it); Hurlburt 1990's publisher (Springer US and Plenum Press both defensible).
+
 ## 2026-08-16 16:44 UTC - refine-draft
 
 - **Status**: Success

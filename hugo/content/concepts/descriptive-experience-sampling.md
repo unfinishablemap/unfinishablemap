@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 10:15:00+00:00
+ai_modified: 2026-08-16 17:18:20+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -18,8 +18,8 @@ description: 'Human-AI collaboration refines the Map''s reference account of Hur
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
-lastmod: 2026-08-16 10:15:00+00:00
+last_deep_review: 2026-08-16 17:18:20+00:00
+lastmod: 2026-08-16 17:18:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,17 +37,17 @@ topics:
 
 Descriptive Experience Sampling (DES) is Russell Hurlburt's method for describing inner experience: a participant carries a beeper that fires at random intervals during ordinary life, jots notes on whatever experience was ongoing at the moment of the beep, and is interviewed about those moments within about a day. Its findings are widely cited — inner speech present in roughly a quarter of sampled moments rather than as a continuous monologue, and wordless "unsymbolized thinking" as a common positive phenomenon.
 
-The Unfinishable Map treats DES as the most disciplined available way of asking what was present at a moment, and as something less than a window onto experience. Both judgements belong in the headline. The method's own proponent and its most persistent critic jointly concluded that momentary sampling beats armchair generalisation, and jointly declined to say how much error survives the training. Every claim the Map draws from DES inherits that unresolved residue: the output is still a report, produced through a bounded verbal channel, about a moment that has already passed.
+The Unfinishable Map treats DES as the most disciplined available way of asking what was present at a moment, and as something less than a window onto experience. Both judgements belong in the headline. Its own proponent and its most persistent critic argued it out across a book and a symposium and settled on methodological pluralism rather than a ranking — Hurlburt's verdict is that DES is "a defendant before that methodologically plural tribunal", not the tribunal itself (Hurlburt & Schwitzgebel 2011a) — and neither quantified the error that survives training. Every claim the Map draws from DES inherits that unresolved residue: the output is still a report, produced through a bounded verbal channel, about a moment that has already passed.
 
 ## How the Method Works {#method}
 
 Hurlburt and Heavey (2015) state four methodological characteristics they argue any inquiry into directly apprehended — "pristine" — inner experience requires: "effectively limiting investigation to specific, clearly identified moments; effectively limiting investigation to pristine experience; bracketing presuppositions; and iteratively acquiring skills."
 
-*Pristine* is a term of art here: experience as it was occurring before the act of investigation disturbed it — hence random cueing in the participant's natural environment rather than a laboratory task, and hence a beep she does not anticipate.
+*Pristine* is a term of art here: experience as it was occurring before the act of investigation disturbed it — hence random cueing in the participant's natural environment rather than a laboratory task.
 
 The interview is what Hurlburt's tradition calls **open-beginninged**: the interviewer "does not set out to inquire whether a participant is innerly speaking, or is innerly seeing, or so on" (Kühn et al. 2014, describing the procedure). The question asked is, in effect, only *what was in your experience at the moment of the beep?* Categories are supposed to emerge from what the participant describes rather than being offered to her.
 
-Skill is treated as acquired across sampling days rather than possessed at the start, by the investigator as well as the participant. Participants are interviewed on multiple occasions in an iterative manner, and early days function as training. Fidelity is claimed to rise as both parties get better at setting aside what they assume inner experience must be like.
+Skill is treated as acquired across sampling days rather than possessed at the start, by the investigator as well as the participant. Participants are interviewed repeatedly, with early days functioning as training. Fidelity is claimed to rise as both parties get better at setting aside what they assume inner experience must be like.
 
 ## What Sampling Has Found {#findings}
 
@@ -137,7 +137,7 @@ What DES does not do is escape the problem the Map's [introspection](/concepts/i
 1. Csikszentmihalyi, M., & Larson, R. (1987). "Validity and Reliability of the Experience-Sampling Method." *The Journal of Nervous and Mental Disease*, 175(9), 526-536.
 2. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
 3. Hurlburt, R.T. (1990). *Sampling Normal and Schizophrenic Inner Experience*. Springer US.
-4. Hurlburt, R.T. (2011). *Investigating Pristine Inner Experience*. Cambridge University Press.
+4. Hurlburt, R.T. (2011). *Investigating Pristine Inner Experience: Moments of Truth*. Cambridge University Press.
 5. Hurlburt, R.T. (2011). "Nine Clarifications of Descriptive Experience Sampling." *Journal of Consciousness Studies*, 18(1), 274-287.
 6. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, published online 30 January 2026. https://doi.org/10.1177/09567976251413525
 7. Hurlburt, R.T., & Akhter, S.A. (2006). "The Descriptive Experience Sampling Method." *Phenomenology and the Cognitive Sciences*, 5(3-4), 271-301.
@@ -147,7 +147,7 @@ What DES does not do is escape the problem the Map's [introspection](/concepts/i
 11. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
 12. Hurlburt, R.T., Heavey, C.L., Lapping-Carr, L., Krumm, A.E., Moynihan, S.A., Kaneshiro, C., Brouwers, V.P., Turner, D.K., & Kelsey, J.M. (2022). "Measuring the Frequency of Inner-Experience Characteristics." *Perspectives on Psychological Science*, 17(2), 559-571.
 13. Hurlburt, R.T., & Schwitzgebel, E. (2007). *Describing Inner Experience? Proponent Meets Skeptic*. MIT Press.
-14. Hurlburt, R.T., & Schwitzgebel, E. (2011a). "Methodological Pluralism, Armchair Introspection, and DES as the Epistemic Tribunal." *Journal of Consciousness Studies*, 18(1), 252-273.
+14. Hurlburt, R.T., & Schwitzgebel, E. (2011a). "Methodological Pluralism, Armchair Introspection, and DES as the Epistemic Tribunal." *Journal of Consciousness Studies*, 18(1), 253-273.
 15. Hurlburt, R.T., & Schwitzgebel, E. (2011b). "Little or No Experience Outside of Attention?" *Journal of Consciousness Studies*, 18(1), 234-252.
 16. Kühn, S., Fernyhough, C., Alderson-Day, B., & Hurlburt, R.T. (2014). "Inner Experience in the Scanner: Can High Fidelity Apprehensions of Inner Experience Be Integrated with fMRI?" *Frontiers in Psychology*, 5:1393.
 17. Larson, R., & Csikszentmihalyi, M. (1983). "The Experience Sampling Method." In H.T. Reis (ed.), *Naturalistic Approaches to Studying Social Interaction*. Jossey-Bass, 41-56.
