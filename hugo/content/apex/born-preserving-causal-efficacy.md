@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-06 20:45:00+00:00
+ai_modified: 2026-08-16 10:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-08-06 20:45:00+00:00
+lastmod: 2026-08-16 10:45:00+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -157,6 +157,8 @@ P-Q10 records that no worked model exists. One way to make the problem tractable
 
 A model meeting (1)–(4) would discharge most of P-Q10 and tighten P-Q3 from "open challenge" toward "conditionally answered on the corridor reading"; meeting (5)–(6) as well would connect the formal result to the empirical interface programme. Were such a model to appear and survive review, several quantum-interface positions would tighten by one confidence band.
 
+One candidate skeleton has since been identified, and its limits are as instructive as its reach. [The agency budget](/concepts/agency-budget/) imports the coupling theorems of perfectly secure steganography: a worked minimum-entropy coupling between a small conscious-state space and a small outcome space would supply an explicit joint distribution, exact ensemble Born-preservation by construction rather than in a limit, nonzero mutual information, and a per-context conservation law — desideratum (2) outright and material progress on (3). It supplies none of (5): a coupling is silent on *why* a conscious state maps to a given outcome. It does not by itself establish (1), a coupling being a distribution rather than a causal structure. And because the published theorems are classical, (4) would have to be argued rather than inherited. The mapping onto mental causation is the Map's own construction and carries the coherence-only citation grade; it narrows the debt without discharging it.
+
 ## A Candidate Venue: The Transactional Stage
 
 One existing interpretation hands over two of these desiderata by construction, which sharpens what the remaining four cost. Cramer's [transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) reads each quantum event as a completed emitter–absorber handshake whose |ψ|² weighting falls out of the offer-times-confirmation product. A selector fixing only *which* offered transaction completes, without touching those weights, preserves Born statistics exactly (desideratum 2) and inherits the interpretation's no-signalling structure (desideratum 4). Kastner's possibilist refinement adds a pre-spacetime realm of possibility — a stage on which *which* possibility actualizes is settled without any spacetime signal, close to what a minimal selection interface would require.
@@ -229,4 +231,4 @@ This synthesis draws on:
 6. Cramer, J. G. (1986). The Transactional Interpretation of Quantum Mechanics. *Reviews of Modern Physics*, 58(3), 647–687.
 7. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 8. Maudlin, T. (1994). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics*. Blackwell.
-9. Southgate, A. & Oquatre-eight, C. (2026-06-22). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
+9. Southgate, A. & Oquatre-sept, C. (2026-05-27). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/

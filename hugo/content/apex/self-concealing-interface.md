@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-07-22 17:16:52+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-16 10:45:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 apex_last_synthesis: 2026-07-18 20:08:16+00:00
 apex_sources:
 - tenets/tenets
@@ -38,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:08:16+00:00
-lastmod: 2026-07-22 17:16:52+00:00
+lastmod: 2026-08-16 10:45:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -91,6 +91,8 @@ The architecture, then, is not "the interface happens to be elusive." It is "the
 ## A Constraint, Not a Defeater—and Not a Vindication
 
 Naming a self-concealing architecture invites two opposite errors, and the discipline of this synthesis is to refuse both.
+
+The concealment now has a formal statement as well as a structural one. [The agency budget](/concepts/agency-budget/) shows that a selector constrained to preserve a distribution exactly is, in information-theoretic terms, a perfectly secure channel — and that perfect security is *equivalent to* zero third-person statistical evidence. That result cuts both ways for this synthesis, and the honest reading takes both halves: the concealment is not an awkward by-product to be excused, it is provably optimal for a selector under the corridor constraint; and by the same equivalence no aggregate test can ever witness the channel, so the architecture inherits a theorem where it might have wanted a defence. The mapping is the Map's own construction and carries the coherence-only citation grade.
 
 The first error is the sceptic's: "a cause that cannot be measured in aggregate is no cause at all; you have defined yourself into unfalsifiability." This overstates. The strict corridor is undetectable by *aggregate Born-statistics tests* specifically; it is not undetectable in every register. The whole point of the reorientation below is that the architecture predicts where evidence *can* appear—at seams—and several of those predictions are operational enough to fail. A framework that says "look here, not there, and here is what would count against me at the seams" is constrained, not vacuous. What it forfeits is the easy falsifier: it can never be the case that a clean ensemble-level anomaly settles the matter, because the Map predicted no such anomaly from the start.
 

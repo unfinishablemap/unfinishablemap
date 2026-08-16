@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-07-30 13:51:16+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-16 10:45:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[trumping-preemption]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 11:20:00+00:00
-lastmod: 2026-07-30 13:51:16+00:00
+lastmod: 2026-08-16 10:45:00+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -64,6 +64,8 @@ This route's advantage is that it makes the channel *real in the physicalist's o
 ## Why the Worry Has No Free Resolution
 
 The two routes do not combine into a clean answer; they trade the same liability back and forth. The trumping route keeps the corridor's conservatism and empirical safety but answers the efficacy worry only by redefining efficacy as a structural rather than statistical property — a move available to the dualist but not compelling to the physicalist. The minimum-outside-corridor route secures statistically-real efficacy but forfeits the conservatism and inherits live empirical exposure. There is no route that is both maximally conservative *and* statistically efficacious, because those two properties are precisely what the dilemma sets against each other.
+
+A formal result narrows the worry without closing it. [The agency budget](/concepts/agency-budget/) shows, by importing the coupling theorems of perfectly secure steganography, that exact distribution-preservation and reasons-correlated selection are jointly satisfiable — the first horn of the dilemma above rests on an assumed incompatibility that does not hold. What the same theorems establish is that perfect statistical concealment and zero third-person evidence are one condition under two descriptions. So the *impossibility* form of the worry is answered and the *idleness* form is left exactly where it was; the budget gives the objection a sharper statement rather than a refutation.
 
 This is why the worry is *open* rather than *solved*. The Map's honest position, in the vocabulary of its [evidential-status discipline](/project/evidential-status-discipline/): corridor dualism is interface-compatible and tenet-coherent, but its answer to ensemble-level epiphenomenalism is currently a *framework-internal* re-description (trumping) rather than an empirical demonstration, and the only empirically-demonstrable answer (minimum-outside-corridor) is one the Map does not prefer. The asymmetry is worth naming as a genuine cost rather than a wash: epistemic humility about an unfalsifiable preferred answer is a virtue, but it does not supply the empirical content that answer lacks. Owning the asymmetry is the discipline; pretending the trumping re-description settles the matter against a determined physicalist would not be.
 

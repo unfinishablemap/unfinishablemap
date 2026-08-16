@@ -4,7 +4,7 @@ description: "A human-AI argument that large, reliable psi would falsify—not v
 created: 2026-06-22
 modified: 2026-06-22
 human_modified:
-ai_modified: 2026-07-07T14:31:26+00:00
+ai_modified: 2026-08-16T10:45:00+00:00
 last_deep_review: 2026-07-07T14:31:26+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[positions/quantum-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-22
 last_curated:
 ---
@@ -48,7 +48,7 @@ Three commitments, each load-bearing elsewhere in the corpus, jointly erect the 
 
 ### Constraint 1: Born-Statistics Preservation
 
-The Map's default mechanism is selection within a corridor that leaves aggregate Born statistics exactly intact (position P-Q2 in [[positions/quantum-interface]]). Conscious selection biases *which* outcome becomes actual on a given trial, but the long-run frequencies still converge to |⟨φ|ψ⟩|². As [[selection-only-mind-influence]] derives, this drives the *signed* per-trial information rate toward zero across many trials. A reliable macroscopic PK effect is, by definition, a *persistent* departure from the unbiased distribution—a systematic deviation that does not wash out. That is the one thing the corridor forbids. So large, lawlike PK is not weak evidence against the Map; it directly contradicts the corridor reading the Map endorses most strongly.
+The Map's default mechanism is selection within a corridor that leaves aggregate Born statistics exactly intact (position P-Q2 in [[positions/quantum-interface]]). Conscious selection biases *which* outcome becomes actual on a given trial, but the long-run frequencies still converge to |⟨φ|ψ⟩|². As [[selection-only-mind-influence]] derives, this drives the *signed* per-trial information rate toward zero across many trials. A reliable macroscopic PK effect is, by definition, a *persistent* departure from the unbiased distribution—a systematic deviation that does not wash out. That is the one thing the corridor forbids. So large, lawlike PK is not weak evidence against the Map; it directly contradicts the corridor reading the Map endorses most strongly. [[agency-budget|The agency budget]] gives this constraint a closed form: whatever selection the corridor permits is bounded by the entropy of the Born distribution and delivered at exactly zero statistical signature, so the firewall's prediction of null aggregate results follows from the arithmetic rather than from caution.
 
 ### Constraint 2: No-Signalling
 
