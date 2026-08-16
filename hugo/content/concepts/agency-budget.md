@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 10:44:00+00:00
+ai_modified: 2026-08-16 20:02:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -15,7 +15,8 @@ description: 'How much selection survives exact Born-rule preservation: a coupli
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-16 10:44:00+00:00
+last_deep_review: 2026-08-16 20:02:00+00:00
+lastmod: 2026-08-16 20:02:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -44,7 +45,7 @@ Two qualifications belong with that headline rather than after it. First, the th
 
 The formal machinery comes from steganography — hiding a message inside innocuous content so that no observer can tell a message is present.
 
-Christian Cachin's 1998 information-theoretic model defines security as a divergence. On the statement Schroeder de Witt and colleagues give it, a stegosystem is ε-secure if "the KL divergence between the distribution of covertext C and the distribution of stegotext S" is less than ε, and "perfectly secure if the KL divergence is zero." Zero divergence means the message-bearing output is distributed *identically* to the innocent output. The authors gloss the strength of that condition directly: "Perfect security is a very strong notion of security, as it renders detection by statistical or human analysis impossible."
+Christian Cachin's 1998 information-theoretic model defines security as a divergence. On the statement Schroeder de Witt and colleagues give it, a stegosystem is ε-secure if "the KL divergence between the distribution of covertext C and the distribution of stegotext S" is less than ε, and "perfectly secure if the KL divergence is zero." One notational warning: the C of that literature is the *covertext*, which under the mapping below is the Born side — the opposite side from the conscious-state C of the conservation law above. Zero divergence means the message-bearing output is distributed *identically* to the innocent output. The authors gloss the strength of that condition directly: "Perfect security is a very strong notion of security, as it renders detection by statistical or human analysis impossible."
 
 A *coupling* of two distributions is a joint distribution over their product space that marginalises to each of them. The 2023 paper's two results are stated verbatim as:
 
@@ -52,6 +53,8 @@ A *coupling* of two distributions is a joint distribution over their product spa
 - **Theorem 2**: "Among perfectly secure encoding procedures, a procedure f : X ⇝ C maximizes the mutual information I(M ; S) if and only if f is induced by a minimum entropy coupling."
 
 Read together these say that exact distribution-preservation and message-correlated structure are not competitors: the class of perfectly secure procedures *is* the class of couplings, and within that class throughput is maximised by minimising the coupling's joint entropy. Since the marginals are fixed, minimising joint entropy maximises mutual information — the identity I(X;S) = H(X) + H(S) − H(X,S) with both marginal entropies held constant.
+
+The minimum-entropy coupling is not the 2023 paper's own construct. Mladen Kovačević, Ivan Stanojević and Vojin Šenk introduced the notion in 2015, and showed in the same paper that certain optimisation problems over distributions with restricted marginals are NP-hard. The conservation law is therefore exact and cheap while the ceiling is set by an optimum nobody can compute efficiently — which costs the budget throughput rather than security, since the standard fast approximations retain exact marginalisation and give up at most one bit of joint entropy.
 
 The ceiling follows from elementary information theory rather than from the paper: mutual information never exceeds either variable's entropy, so throughput is bounded by min(H(source), H(covertext)) bits per event, generally as a strict inequality rather than an attained maximum. Substituting the interface reading — conscious state as source, Born distribution as covertext — gives the budget's closed form: **at most min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event, at exactly zero statistical signature.**
 
@@ -87,7 +90,7 @@ One dependency should be flagged rather than asserted. The per-context form of t
 
 **The zero-budget reading.** Exact preservation leaves selection nothing to do; authorship with no conditional signature is chance under another name. This is the sharpest rival and the Map does not claim to have answered it. The coupling result shows that content is recoverable *relative to a decoder holding the mental-side facts* — and an objector may fairly reply that a channel whose only competent decoder already possesses the mental facts is not obviously a mental-to-physical channel at all.
 
-**The finite-stock reading.** Scott Aaronson examines — the abstract's own verb — a viewpoint that "tries to find scope for 'freedom' in the universe's boundary conditions rather than in the dynamical laws," under the heading of Knightian freedom, "a certain kind of in-principle physical unpredictability that goes beyond probabilistic unpredictability." His freebits are qubits "for which the most complete physical description possible involves Knightian uncertainty," and they "get permanently 'used up' whenever they are amplified to macroscopic scale" — so, given the freebit picture together with a finite observable universe and the holographic principle, the supply available to any observer is finite. This is a budget in the resource sense rather than the bandwidth sense, and it is notable that it requires no dualism: even without a mental ontology, a bounded and statistically inconspicuous freedom allowance is defensible.
+**The finite-stock reading.** Scott Aaronson examines — the abstract's own verb — a viewpoint that "tries to find scope for 'freedom' in the universe's boundary conditions rather than in the dynamical laws," under the heading of Knightian freedom, "a certain kind of in-principle physical unpredictability that goes beyond probabilistic unpredictability." His freebits are qubits "for which the most complete physical description possible involves Knightian uncertainty," and they "get permanently 'used up' whenever they are amplified to macroscopic scale" — so, given the freebit picture together with a finite observable universe and the holographic principle, the supply available to any observer is finite. This is a budget in the resource sense rather than the bandwidth sense, and it is notable that it requires no dualism: even without a mental ontology, a bounded and statistically inconspicuous freedom allowance is defensible. Aaronson should not be recruited past his own verdict, though: his abstract calls the resulting perspective one "of which I myself remain skeptical", so the Map takes a worked possibility from him and no endorsement.
 
 **The non-equilibrium reading.** Real ensemble-level agency requires leaving quantum equilibrium, and exact equilibrium means a zero statistical budget. This is Valentini's programme read adversarially rather than as a thesis about consciousness, and its value to the Map is that it prices the fall-back the Map keeps open — a minimum *outside* the corridor is not statistically free.
 

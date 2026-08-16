@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-16T19:14:00+00:00'
+ai_modified: '2026-08-16T20:02:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-16'
-lastmod: 2026-08-16 19:14:00+00:00
+lastmod: 2026-08-16 20:02:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-16 20:02 UTC - deep-review
+
+- **Status**: Success
+- **File**: [agency-budget](/concepts/agency-budget/)
+- **Word count**: 2342 → 2496 (+154, `ok`, back under the 2500 concepts soft threshold after trimming my own additions — the first draft of the fixes tipped it to 2521)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-08-16-agency-budget](/reviews/deep-review-2026-08-16-agency-budget/)
+- **Selection**: `deep_review.py next` returned it at score 100, never reviewed, created the same day at 10:44 UTC. Fresh create with a heavy new citation surface, so the §2.4 publisher pass was run in full.
+- **Nine reference entries and every inline attribution verified at the publisher of record; eight came back real-correct.** The theorem quotations were the highest-risk construction and were checked against the arXiv **v3 PDF** rather than the abstract, which mattered: the abstract paraphrases both theorems in different words ("maximizes information throughput"), so an abstract-only check would have flagged the article's correct verbatim Theorem 2 — notation `f : X ⇝ C` and the semicolon in `I(M ; S)` included — as a fabrication. Landsman, Valentini, Cachin, Kastner (Crossref) and three Aaronson spans all verified; the two Aaronson body quotes sit outside the abstract and were confirmed in the full text.
+- **CRITICAL — orphan reference discharged, and it was hiding a real gap.** `Kovačević, Stanojević & Šenk (2015)` sat in the References with **zero inline presence**, while the body used "minimum entropy coupling" repeatedly without ever sourcing the notion — which reads as though it were the 2023 paper's construct. It is not; that paper credits it to Kovačević et al. 2015. The fix attributes the notion and records the NP-hardness result, which is load-bearing rather than decorative: the article proposes a worked minimum-entropy coupling as the P-Q10 toy-model candidate, so the ceiling being an intractable optimum is a qualification that proposal needed. Balanced by the countervailing fact from the same 2023 paper — the standard fast approximations retain *exact* marginalisation and lose at most one bit of joint entropy — so the conservation law survives approximation even where maximal throughput does not.
+- **MEDIUM — Aaronson recruited past his own verdict.** The "examines — the abstract's own verb" hedge was careful about the viewpoint's provenance, but the paragraph closed by calling the freebit allowance "defensible" without recording that his abstract calls the resulting perspective one "of which I myself remain skeptical". The source research note had instructed that he be cited as offering a speculative possibility-proof; that instruction was half carried. One clause added.
+- **MEDIUM — notational collision on `C`.** The conservation law defines `C` over conscious states; the quoted Cachin definition and quoted Theorem 2 use `C` for the *covertext*, which under the article's own mapping is the opposite side of the correspondence. Quotations left verbatim; a one-sentence warning added on the Map's side. The `C`-for-conscious-states notation was kept, since it is shared with the source research note and the 2026-08-16 optimistic review.
+- **Calibration**: no possibility/probability slippage. The article grades itself "framework-internal coherence arithmetic and never as established mental causation", deep-links the mechanism-debt citation grade, and concedes the idleness horn stands. A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes** (editor-internal): zero-budget reading — **Mode Three**, disagreement declared open rather than dressed as a reply; Valentini read adversarially — **Mode Three**, scope condition (deterministic hidden-variables theories only) preserved rather than dropped. No boundary-substitution, no label leakage in prose.
+- **Deferred deliberately**: the reciprocal link to `concepts/sign-problem-for-conscious-observation`. An open P3 refine-draft task already owns that work and names `agency-budget` as its second file; doing it here would have duplicated its scope.
+- **Mirrored**: `scripts/sync.py` run; `hugo/content/concepts/agency-budget.md` confirmed carrying all three edits and both frontmatter timestamps.
 
 ## 2026-08-16 19:14 UTC - refine-draft
 
