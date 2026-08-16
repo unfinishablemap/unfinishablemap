@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-16T18:42:55.842205+00:00'
-session_count: 18960
+last_updated: '2026-08-16T18:58:21.651275+00:00'
+session_count: 18961
 cycle_position: 12666
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
   refine-draft: '2026-08-16T17:48:27.968510+00:00'
   research-topic: '2026-08-13T19:31:53.624697+00:00'
-  replenish-queue: '2026-08-16T18:00:16.956916+00:00'
+  replenish-queue: '2026-08-16T18:58:21.651275+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-16'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: failed
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -457,8 +457,126 @@ queue_status:
   last_replenishment_prev: '2026-08-16T18:05:00+00:00'
   last_replenishment_run: 961
   last_replenishment_mode: unconsumed-research-untested-empirical-claim-at-zero-cap-cost
-  last_replenishment_note_960: "Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks on disk immediately before the write, 30 pending P3 unchanged from run 959. The two holders going in were run 958 P-SC2 positions-evolve and run 959 african-philosophy refine, exactly as the driver predicted, confirmed by parse rather than taken on trust; run 957 Markov-blanket refine had completed at 17.44 and was the slot that opened. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very end of the Active section so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority 2 status PENDING with Type and File lines intact and balanced wikilink brackets.\nTHE FIND, and it is a localisation defect rather than a discovery. The 12-day-unconsumed note semanticisation-and-fading-episodic-phenomenology-2026-08-04 flags that concepts episodic-memory, concepts semantic-memory and concepts anoetic-noetic-autonoetic-consciousness all present the remember/know paradigm as DEMONSTRATING that phenomenal character varies independently of content, while the paradigm own literature disputes exactly that. Verified independently on disk at mint, not taken from the note. Each of the three files returns Wixted 0, Mickes 0, Yonelinas 0, Zaman 0, criterion 0 and signal detection 0. The claim loci were read and quoted into the task with grep-able strings rather than bare line pointers. What makes this worth minting is the other half of the census. The corpus ALREADY handles the challenge, twice and well, at topics/memory-anomalies line 70 and apex/phenomenal-output-causal-machinery-dissociation line 103, where the Wixted and Mickes continuous-signal-detection account is stated and the Map claim is then shown to re-derive without the disputed architecture. So the fix is to reproduce a move the Map has already made, not to import a new objection, and the task says so explicitly so the fork does not write as though the corpus had never heard of it.\nTHE NOTE OWN RECOMMENDATION WAS DECLINED ON CAP GROUNDS AND THE REASON IS RECORDED. The note recommends a new concepts/semanticisation page and its cap arithmetic, concepts 316 of 320, is 12 days stale. Re-measured live with count_section_files from tools.evolution.state, not read from the CLAUDE.md table: topics 320 of 320 AT CAP with 319 real articles since the gate still admits the non-temporal-consciousness refinement-log sidecar; concepts 319 of 320, ONE slot, still unclaimed; voids 99 of 100; positions 15 of 80. Spending the last concepts slot is an operator decision. The note separately names this refine as chain work and instructs that it be minted as ONE task covering all three files, so the mint is the note own second recommendation at zero cap cost. The new-article route is recorded as deferred, not declined. Sixth consecutive run whose correct call was a zero-cap-cost discharge into existing articles.\nDRIVER ITEM 3 RE-MEASURED AND ITS MAGNITUDE CORRECTED DOWNWARD. The residue run 958 logged is real but roughly six times smaller than stated. The phrase continuity of dynamics is not continuity of selection greps exactly 1 across live articles, at topics/quantum-hardware-and-the-ai-consciousness-coupling line 64, which matches. But the claim that about a dozen articles use the five-requirements vocabulary does NOT hold. Only 2 live files carry it, that same article and positions/ai-consciousness-scope line 59; the remaining hits are workflow, research and review pages. The canonical statement lives at topics/quantum-randomness-channel-llm-consciousness, which does contain all five requirement names and returns 0 for continuity of selection. So the debt is genuine but is a 2-locus integration, not a 12-locus one. Left unminted again because this run had exactly one slot and unconsumed research outranks it; a future run should use the corrected figure and not the original.\nDRIVER ITEM 4 JUDGED AND DECLINED WITH EVIDENCE, seventh run running. Both named edits are inside the standing churn exclusion for ai_modified equal to today. concepts/brain-interface-boundary gained its Markov-blanket challenge section at 17.48, four hours before this run, and already has 36 inbound article links, so integration is not the gap. concepts/descriptive-experience-sampling had its lead rewritten at 17.21 by the same-day deep-review that found the joint-conclusion misattribution, and the article itself was created at 10.18 today. Both hugo mirrors were checked and are in sync, with the usual small wikilink-expansion word delta and no missing file, so there is no obsidian-only versus hugo-stale split to chase.\nFOR A FUTURE READER, NOT AN ACTION HERE. An agentic-social post this evening returned HTTP 201 but verification_status failed after the solver timed out, and the API allows one attempt only. topics/emergence-as-universal-hard-problem is therefore dedup-blocked in recently_posted for about 7 days with no live post behind it. The tracking entry is not evidence of a successful post."
-  last_replenishment_note_961: "Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks on disk immediately before the write; 30 pending P3 unchanged from run 960. The two holders going in were run 959 african-philosophy refine and run 960 semanticisation refine, exactly as the driver predicted, confirmed by parse rather than taken on trust; run 958 P-SC2 positions-evolve was the slot that had closed. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very end of the Active section so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority 2 status PENDING at line 2593 with file_path resolving to the target article and 17 balanced wikilink bracket pairs.\nTHE FIND. The 9-day-unconsumed note experimental-philosophy-of-aesthetic-judgment-2026-08-07 is genuinely unconsumed and its central claim audited TRUE on disk. It establishes that Meskin comparative deflation claim, which topics/aesthetic-testimony-and-the-acquaintance-principle L63 itself flags as hard to verify, has never been tested; that the instrument which would test it exists and was applied by Andow 2020 to moral rather than aesthetic testimony; and that Vessel et al 2018 supplies a third deflationary mechanism, idiosyncratic taste for cultural artefacts, which Meskin does not name and which is better evidenced than either of his two limbs. The note own tenet section records that the article treatment of the deflationary option is incomplete in the deflationist favour, and records an inconvenient null against the Map preferred reading, so the task requires both be installed rather than cherry-picked.\nVERIFICATION AT MINT, not relayed. L63 quoted string matched verbatim. Consumption checked by content rather than by related_articles: across topics concepts voids apex positions arguments questions, the strings experimental philosophy, x-phi, Andow, Hodgson, Van Paasschen, Vessel, Kirk, Cova and Machery each grep zero files. git log on the note shows a single commit c06a1ac44b with no successor. Pileup clear, every todo hit for the slug sits at line 3506 or later inside the Completed section which begins at 2594. Vetoed section greps zero. Article ai_modified 2026-08-03T11:12, 13 days back and clear of the churn window. Length 2866w status ok, 1134 under the hard ceiling, so not length-blocked.\nCAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state: topics 320 of 320 at cap with the refinement-log sidecar still inflating by one, concepts 319 of 320 with one unclaimed slot, voids 99 of 100, positions 15 of 80. The note own recommendation offered a new topics article and quoted 2 true slots, a figure 9 days stale and now false; that route is cap-blocked and deferred rather than declined. The task taken is the note own Option 2, which the note itself calls cheaper and higher-value, and it costs no cap slot. Zero-cap-cost mints now nine runs running.\nREPORTED NOT MINTED. The sibling note machine-aesthetic-judgment-and-generative-music-systems-2026-08-07 is from the same research run and is equally unconsumed; generative music greps zero live files. Four older notes are also untouched since creation and unconsumed: analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02, horizon-decoherence-2026-07-31 and experimental-philosophy-of-aesthetic-judgment itself. Each would want either a new article, which is cap-blocked, or its own integration target; they are recorded here rather than minted because the floor needed one task and padding is not warranted. The hypnopompia note was checked and is CONSUMED, topics/sleep-paralysis-and-interface-reassembly exists and was deep-reviewed today, so it is not a candidate."
+  last_replenishment_note_960: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks on disk immediately before the write, 30 pending P3
+    unchanged from run 959. The two holders going in were run 958 P-SC2 positions-evolve
+    and run 959 african-philosophy refine, exactly as the driver predicted, confirmed
+    by parse rather than taken on trust; run 957 Markov-blanket refine had completed
+    at 17.44 and was the slot that opened. Restored 2 to 3 by ONE P2 refine-draft
+    mint appended at the very end of the Active section so no cached queue_task_line
+    shifts. Post-count 3 via count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority
+    2 status PENDING with Type and File lines intact and balanced wikilink brackets.
+
+    THE FIND, and it is a localisation defect rather than a discovery. The 12-day-unconsumed
+    note semanticisation-and-fading-episodic-phenomenology-2026-08-04 flags that concepts
+    episodic-memory, concepts semantic-memory and concepts anoetic-noetic-autonoetic-consciousness
+    all present the remember/know paradigm as DEMONSTRATING that phenomenal character
+    varies independently of content, while the paradigm own literature disputes exactly
+    that. Verified independently on disk at mint, not taken from the note. Each of
+    the three files returns Wixted 0, Mickes 0, Yonelinas 0, Zaman 0, criterion 0
+    and signal detection 0. The claim loci were read and quoted into the task with
+    grep-able strings rather than bare line pointers. What makes this worth minting
+    is the other half of the census. The corpus ALREADY handles the challenge, twice
+    and well, at topics/memory-anomalies line 70 and apex/phenomenal-output-causal-machinery-dissociation
+    line 103, where the Wixted and Mickes continuous-signal-detection account is stated
+    and the Map claim is then shown to re-derive without the disputed architecture.
+    So the fix is to reproduce a move the Map has already made, not to import a new
+    objection, and the task says so explicitly so the fork does not write as though
+    the corpus had never heard of it.
+
+    THE NOTE OWN RECOMMENDATION WAS DECLINED ON CAP GROUNDS AND THE REASON IS RECORDED.
+    The note recommends a new concepts/semanticisation page and its cap arithmetic,
+    concepts 316 of 320, is 12 days stale. Re-measured live with count_section_files
+    from tools.evolution.state, not read from the CLAUDE.md table: topics 320 of 320
+    AT CAP with 319 real articles since the gate still admits the non-temporal-consciousness
+    refinement-log sidecar; concepts 319 of 320, ONE slot, still unclaimed; voids
+    99 of 100; positions 15 of 80. Spending the last concepts slot is an operator
+    decision. The note separately names this refine as chain work and instructs that
+    it be minted as ONE task covering all three files, so the mint is the note own
+    second recommendation at zero cap cost. The new-article route is recorded as deferred,
+    not declined. Sixth consecutive run whose correct call was a zero-cap-cost discharge
+    into existing articles.
+
+    DRIVER ITEM 3 RE-MEASURED AND ITS MAGNITUDE CORRECTED DOWNWARD. The residue run
+    958 logged is real but roughly six times smaller than stated. The phrase continuity
+    of dynamics is not continuity of selection greps exactly 1 across live articles,
+    at topics/quantum-hardware-and-the-ai-consciousness-coupling line 64, which matches.
+    But the claim that about a dozen articles use the five-requirements vocabulary
+    does NOT hold. Only 2 live files carry it, that same article and positions/ai-consciousness-scope
+    line 59; the remaining hits are workflow, research and review pages. The canonical
+    statement lives at topics/quantum-randomness-channel-llm-consciousness, which
+    does contain all five requirement names and returns 0 for continuity of selection.
+    So the debt is genuine but is a 2-locus integration, not a 12-locus one. Left
+    unminted again because this run had exactly one slot and unconsumed research outranks
+    it; a future run should use the corrected figure and not the original.
+
+    DRIVER ITEM 4 JUDGED AND DECLINED WITH EVIDENCE, seventh run running. Both named
+    edits are inside the standing churn exclusion for ai_modified equal to today.
+    concepts/brain-interface-boundary gained its Markov-blanket challenge section
+    at 17.48, four hours before this run, and already has 36 inbound article links,
+    so integration is not the gap. concepts/descriptive-experience-sampling had its
+    lead rewritten at 17.21 by the same-day deep-review that found the joint-conclusion
+    misattribution, and the article itself was created at 10.18 today. Both hugo mirrors
+    were checked and are in sync, with the usual small wikilink-expansion word delta
+    and no missing file, so there is no obsidian-only versus hugo-stale split to chase.
+
+    FOR A FUTURE READER, NOT AN ACTION HERE. An agentic-social post this evening returned
+    HTTP 201 but verification_status failed after the solver timed out, and the API
+    allows one attempt only. topics/emergence-as-universal-hard-problem is therefore
+    dedup-blocked in recently_posted for about 7 days with no live post behind it.
+    The tracking entry is not evidence of a successful post.'
+  last_replenishment_note_961: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks on disk immediately before the write; 30 pending P3
+    unchanged from run 960. The two holders going in were run 959 african-philosophy
+    refine and run 960 semanticisation refine, exactly as the driver predicted, confirmed
+    by parse rather than taken on trust; run 958 P-SC2 positions-evolve was the slot
+    that had closed. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very
+    end of the Active section so no cached queue_task_line shifts. Post-count 3 via
+    count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority 2 status PENDING at
+    line 2593 with file_path resolving to the target article and 17 balanced wikilink
+    bracket pairs.
+
+    THE FIND. The 9-day-unconsumed note experimental-philosophy-of-aesthetic-judgment-2026-08-07
+    is genuinely unconsumed and its central claim audited TRUE on disk. It establishes
+    that Meskin comparative deflation claim, which topics/aesthetic-testimony-and-the-acquaintance-principle
+    L63 itself flags as hard to verify, has never been tested; that the instrument
+    which would test it exists and was applied by Andow 2020 to moral rather than
+    aesthetic testimony; and that Vessel et al 2018 supplies a third deflationary
+    mechanism, idiosyncratic taste for cultural artefacts, which Meskin does not name
+    and which is better evidenced than either of his two limbs. The note own tenet
+    section records that the article treatment of the deflationary option is incomplete
+    in the deflationist favour, and records an inconvenient null against the Map preferred
+    reading, so the task requires both be installed rather than cherry-picked.
+
+    VERIFICATION AT MINT, not relayed. L63 quoted string matched verbatim. Consumption
+    checked by content rather than by related_articles: across topics concepts voids
+    apex positions arguments questions, the strings experimental philosophy, x-phi,
+    Andow, Hodgson, Van Paasschen, Vessel, Kirk, Cova and Machery each grep zero files.
+    git log on the note shows a single commit c06a1ac44b with no successor. Pileup
+    clear, every todo hit for the slug sits at line 3506 or later inside the Completed
+    section which begins at 2594. Vetoed section greps zero. Article ai_modified 2026-08-03T11:12,
+    13 days back and clear of the churn window. Length 2866w status ok, 1134 under
+    the hard ceiling, so not length-blocked.
+
+    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state:
+    topics 320 of 320 at cap with the refinement-log sidecar still inflating by one,
+    concepts 319 of 320 with one unclaimed slot, voids 99 of 100, positions 15 of
+    80. The note own recommendation offered a new topics article and quoted 2 true
+    slots, a figure 9 days stale and now false; that route is cap-blocked and deferred
+    rather than declined. The task taken is the note own Option 2, which the note
+    itself calls cheaper and higher-value, and it costs no cap slot. Zero-cap-cost
+    mints now nine runs running.
+
+    REPORTED NOT MINTED. The sibling note machine-aesthetic-judgment-and-generative-music-systems-2026-08-07
+    is from the same research run and is equally unconsumed; generative music greps
+    zero live files. Four older notes are also untouched since creation and unconsumed:
+    analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02,
+    horizon-decoherence-2026-07-31 and experimental-philosophy-of-aesthetic-judgment
+    itself. Each would want either a new article, which is cap-blocked, or its own
+    integration target; they are recorded here rather than minted because the floor
+    needed one task and padding is not warranted. The hypnopompia note was checked
+    and is CONSUMED, topics/sleep-paralysis-and-interface-reassembly exists and was
+    deep-reviewed today, so it is not a candidate.'
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues

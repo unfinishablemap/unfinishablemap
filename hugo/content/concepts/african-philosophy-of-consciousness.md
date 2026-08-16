@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-06 16:47:00+00:00
+ai_modified: 2026-08-16 19:11:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:58:00+00:00
-lastmod: 2026-08-06 16:47:00+00:00
+lastmod: 2026-08-16 19:11:00+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'
@@ -73,7 +73,7 @@ Read as a bearer of experience, *ori* would parallel the Map's argument against 
 
 Placide Tempels' *Bantu Philosophy* (1945), despite its colonial-era limitations and paternalistic framing, described a metaphysical system centred on vital force (*force vitale*), in which force is not an attribute added to being but what being is. Divine, human, animal, vegetable and mineral forces differ in rank, and human beings are supreme among created forces. The ordering is by vital rank rather than by sentience: Tempels does not make mineral or vegetable forces subjects of experience, and he warns that looking for equivalents of "soul" and "mind" presupposes the European division of the person. The *-ntu* vocabulary frequently attached to this ontology — *muntu*, *kintu*, *hantu*, *kuntu*, and NTU as the universal force as such — belongs to the later recasting by Alexis Kagame and Janheinz Jahn rather than to Tempels himself.
 
-Paulin Hountondji and Kwasi Wiredu criticised Tempels for presenting a monolithic "Bantu philosophy" that flattened genuine intellectual diversity — a well-founded criticism: there is no single African philosophy of consciousness any more than there is a single European one.
+Paulin Hountondji and Kwasi Wiredu criticised Tempels for presenting a monolithic "Bantu philosophy" that flattened genuine intellectual diversity — a well-founded criticism: there is no single African philosophy of consciousness any more than there is a single European one. The criticism also reaches the Map. Unanimism — treating African traditions as one collective philosophy — is on the standard reading of Hountondji the founding error of ethnophilosophy, and counting Bantu, Akan, Yoruba and Zulu as separate votes for irreducibility, as [the convergence argument](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) does, performs that operation. What survives the objection is a count of named philosophers disagreeing with one another — Gyekye against Wiredu, Majeed against the quasi-physicalists — which is the individual and authored philosophy Hountondji was arguing for.
 
 What remains philosophically productive is the pattern, in the Bantu and Akan material alike, of treating vital force or spiritual principle as ontologically fundamental rather than derivative. This [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) echoes [panpsychist](/concepts/panpsychism/) intuitions in Western philosophy — the sense that mind or proto-mind pervades reality rather than emerging from wholly mindless matter. The difference is that many African traditions maintain clearer boundaries between human consciousness and the vital force present in other entities. That difference does not dispose of the [combination problem](/concepts/combination-problem/) — how micro-level proto-experiences combine into unified consciousness — since a rank ordering supplies no mechanism by which lower-level experiences compose into a higher-level one. The narrower point that survives is that a force ontology positing no micro-subjects never generates the problem; but such an ontology is then not the panpsychism the comparison invokes.
 
@@ -97,7 +97,7 @@ The Unfinishable Map's [tenets](/tenets/) find independent resonance in African 
 
 The bidirectional interaction tenet — that consciousness causally influences the physical world — is assumed rather than argued in most African frameworks. That the Akan *sunsum*, Yoruba *ori*, and Bantu vital force exercise causal power over physical outcomes is not itself in dispute. What is in dispute is whether the cause is ontologically distinct from what it acts upon, and that distinctness is the whole of what the tenet asserts. Read as a force ontology in Tempels' sense — nothing is inert, and what exists differs in degree of force rather than in kind — the material draws no line between a physical outcome and a non-physical cause of it, and [the Map's survey of interaction solutions](/topics/interaction-problem-across-traditions/) files exactly that ontology among the monist strategies its own dualism excludes. Read instead as interactionism, vital force and *ori* are non-physical principles acting upon a physical body, and the puzzle of how they do so is recognisably the puzzle the Map addresses by locating an interface at quantum indeterminacy.
 
-Nothing in the sources settles which reconstruction is correct, and the Map is not positioned to settle it. Which reading is right is a question about these traditions, to be decided by scholars of them, and deciding it by which answer suits the tenets would resolve a live scholarly dispute by convenience. The situation has the same shape as the Akan dispute above: until it is settled the material cannot be counted as support for bidirectional interaction, and on one of the two live readings it is a rival to the tenet rather than a witness for it. The disagreement here runs closer to bedrock than a filing error, because it turns on whether a substance ontology — a world of distinct kinds, one of which acts upon another — is the right frame for these traditions at all. That is the question the Map's own way of posing the interaction problem takes for granted, and it is not one these traditions were asked.
+The most systematic contemporary reconstruction has chosen, and chosen against the Map's reading: Ada Agada develops the vital-force material into a consolationist metaphysics standardly characterised as a proto-panpsychist neutral monism leaning idealist, a position the dualism tenet excludes. The interactionist reconstruction remains available, and the Map is not positioned to adjudicate between them. Which reading is right is a question about these traditions, to be decided by scholars of them, and deciding it by which answer suits the tenets would resolve a live scholarly dispute by convenience. The situation has the same shape as the Akan dispute above: while the dispute stays live the material cannot be counted as support for bidirectional interaction, and on one of the two live readings it is a rival to the tenet rather than a witness for it. The disagreement here runs closer to bedrock than a filing error, because it turns on whether a substance ontology — a world of distinct kinds, one of which acts upon another — is the right frame for these traditions at all. That is the question the Map's own way of posing the interaction problem takes for granted, and it is not one these traditions were asked.
 
 The Map speculates that Ubuntu's relational ontology may point to something Western individualist frameworks miss: if the structure of consciousness is shaped by intersubjective engagement, studying it in isolation, as Western cognitive science typically does, may distort the phenomenon, and the [intersubjective](/concepts/intersubjectivity/) dimension may be as fundamental as the phenomenal one.
 
@@ -125,3 +125,5 @@ The Map speculates that Ubuntu's relational ontology may point to something West
 1. Hountondji, P. (1983). *African Philosophy: Myth and Reality*. Indiana University Press.
 1. Majeed, H. M. (2013). "A Critique of the Concept of Quasi-Physicalism in Akan Philosophy." *African Studies Quarterly*, 14(1–2), 23–34. https://asq.africa.ufl.edu/wp-content/uploads/sites/168/Majeed-2013.pdf
 1. Ikuenobe, P. & Etieyibo, E. (eds.) (2020). *Menkiti on Community and Becoming a Person*. Lexington Books. https://doi.org/10.5771/9781498583664
+1. Agada, A. (2020). "Grounding the Consolationist Concept of *Mood* in the African Vital Force Theory." *Philosophia Africana*, 19(2), 101–121. https://doi.org/10.5325/philafri.19.2.0101
+1. Agada, A. (2021). *Consolationism and Comparative African Philosophy: Beyond Universalism and Particularism*. Routledge. https://doi.org/10.4324/9781003172123
