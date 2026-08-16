@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 15:21:46+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-16 15:57:22+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[generalised-probabilistic-theories]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-07-16 15:21:46+00:00
+lastmod: 2026-08-16 15:57:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Grep-verified: "local tomography" appears in the corpus in exactly **one** live 
 
 ### Sibling: Galley & Masanes (2018) — why the axiom is load-bearing
 - **URL**: https://quantum-journal.org/papers/q-2018-11-06-104/ ; *Quantum* 2, 104 (2018) — publisher-verified in the sibling GPT note this session.
-- **Relevance here**: establishes that **local tomography** (with purification) is one of the two principles whose violation is *equivalent* to modifying the Born rule. So local-tomography failure at the interface is not a peripheral curiosity — it is one of exactly two doors through which a non-Born interface could formally enter without signalling. This note isolates that door.
+- **Relevance here**: establishes that every modification of the Born rule violates **purification and local tomography together** — the paper proves both, not one or the other. Contraposing, either axiom holding on its own forces the Born rule, so local-tomography failure at the interface is *necessary but not sufficient* for a non-Born coupling: purification must fail across the same cut as well. One door with two locks, rather than two doors either of which would serve. This note isolates one lock; the other is unaddressed here. (Corrected 2026-08-16 against the primary abstract; the earlier "equivalent"/"exactly two doors" framing overstated what the theorem licenses.)
 
 ## The Axiom, Precisely
 
@@ -149,7 +149,7 @@ Grep-verified: "local tomography" appears in the corpus in exactly **one** live 
 | 2007 | Barrett, GPT information processing | Local tomography named and used operationally; boxworld (LT-satisfying, non-quantum). |
 | 2010/12 | Hardy-Wootters, "Limited Holism" | Real QM is *not* locally tomographic — only bilocally; coins the holism framing. |
 | 2012/14 | Barnum-Wilce, "Local Tomography and Jordan Structure" | Local tomography ≈ characterises complex QM; real and quaternionic both fail. |
-| 2018 | Galley-Masanes | Modifying the Born rule ⇔ violating purification + local tomography (the load-bearing link). |
+| 2018 | Galley-Masanes | Modifying the Born rule ⇒ violating purification **and** local tomography (one-directional; either axiom alone forces the rule). |
 | 2021 | Renou et al., Nature | Bilocal-network test: complex QM beats real QM — an empirical LT probe. |
 | 2022 | Superconducting + photonic realisations | Renou test run; real-QM bound violated. |
 | 2026 | Hoffreumon-Woods (preprints) | Challenge: real QM "cannot be experimentally falsified"; product-state-independence untestable. |

@@ -5,6 +5,33 @@ ai_modified: '2026-08-13T22:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-16 16:02 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
+- **Also modified**: [[concepts/generalised-probabilistic-theories]] (sibling), [[research/local-tomography-and-the-consciousness-physics-interface-2026-07-16]] (upstream note carrying the identical defect)
+- **Lens**: citation-framing accuracy — a correctly-cited source recruited one step beyond what it shows. No fabrication, no wrong-source finding.
+
+**Relayed defect audited TRUE at the primary source.** Fetched the Galley & Masanes (2018) abstract at both quantum-journal.org (*Quantum* 2, 104) and arXiv:1801.06414. The theorem is a **conjunction**, exactly as its title states: "We prove that in all these theories the purification principle is violated" *and* "We also prove that in all such modifications the task of state tomography with local measurements is impossible." Both violations, proved for every modification in the classification. Contraposing: if **either** axiom holds, the Born rule is forced; escaping it requires **both** to fail.
+
+The article rendered the conjunction as a disjunction ("violates purification or local tomography") and built a "one of exactly two doors" image on it, which inverts the logic — the theorem gives one door with two locks. The inversion became a sufficiency claim at numbered point 3 of the interface argument ("If (B + S) is *not* locally tomographic, then by Galley and Masanes the door is open"), which the theorem does not license: local-tomography failure is necessary, not sufficient.
+
+- **Changes**:
+  - Lead and the Tenet-2 paragraph re-framed: local tomography is one of two axioms *either* of which independently forces the Born rule; its failure is a necessary condition.
+  - Interface-question paragraph rewritten to state the conjunction, quote both proved halves, and give the contraposition explicitly.
+  - Added the theorem's scope condition (Galley and Masanes vary only the *measurement* postulates, holding Hilbert-space pure states and reversible dynamics fixed) — material because the argument applies the result to a composite not assumed quantum.
+  - Point 3 downgraded from sufficiency to "one lock is off — and only one"; added that the implication runs one way only, with the paper's no-signalling toy theory noted as the existence proof that the destination is reachable.
+  - Both readings corrected in the direction that runs **against** the Map's convenience. "As a problem": the liability shrinks — the clean argument stands on purification alone. "As a signature": the burden grows — dualist holism must now register in both axioms, and the Map has no account of what would make purification fail across the cut.
+  - `The Axiom, Stated Neutrally` bullet on boxworld adjusted ("does not by itself deliver quantum theory ... the reconstruction programme pairs it with purification") so it no longer implies local tomography is insufficient for the Born rule.
+  - Sibling `generalised-probabilistic-theories`: "purification and/or local tomography" → "either purification or local tomography", with the conjunction stated and quoted; the honest-conditional sentence and the Tenet-2 paragraph moved from "those two structural axioms" to "*either* structural axiom".
+  - Upstream research note: the "*equivalent* to modifying the Born rule" / "exactly two doors" gloss and the "⇔" in the timeline table corrected to the one-directional conjunction.
+- **Discipline preserved verbatim**: "The signature reading is speculation the Map finds attractive, not a result"; "this is a coherence move within the framework, not framework-independent support."
+- **Corpus sweep**: `grep -rn Galley` across `obsidian/`, `hugo/content/`, `archive/`. Live Galley & Masanes (2018) hits are confined to the three files above plus `topics/born-rule-and-the-consciousness-interface` L67 ("the Galley-Masanes 2018 modification are no-signalling counterexamples" — accurate, the paper's toy theory does exactly that; left alone). `apex/born-preserving-causal-efficacy` L211 ("no-signalling *under purification* forces Born-preservation") is correct under the contraposition; left alone. All other hits are the different Masanes-Galley-Müller (2019) *Nature Communications* paper — out of scope, untouched.
+- **Length**: 2040 → 2435 words, `ok` (soft threshold 2500). Sibling 1756 → 1837, `ok`. More than the "length-neutral" the task anticipated, because the scope condition and the two corrected readings each needed prose rather than a connective swap.
+- **Sweep caveat for the next pass**: the task's corpus-sweep note ("remaining live Galley hits are all Masanes-Galley-Müller 2019") was not quite right — the two 2026-07-16 research notes also cite Galley & Masanes 2018. One carried the identical defect and is fixed here. The other, [[research/generalised-probabilistic-theories-and-the-born-rule-2026-07-16]], says "forced only once **purification and/or local tomography** are added" (L40, L104, L148, L172). Inclusive-or is literally correct, so it is loose rather than wrong, and it is left alone — but it is the phrasing that seeded the sibling article's wording, so it is the place a future pass would re-import the imprecision from.
+- **Attribution**: `ai_system` moved `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` on all three files — the scope condition and the one-directionality note are new claim-bearing prose, not bare re-registration. Session is in a model-fallback stick; `claude-opus-5` is the running model.
+- **Published**: yes
+
 ## 2026-08-16 15:52 UTC - optimistic-review
 
 - **Status**: Success

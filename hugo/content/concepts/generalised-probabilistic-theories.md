@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 15:57:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-16 15:57:22+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[causal-consistency-constraint]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:16:19+00:00
-lastmod: 2026-07-16 15:57:00+00:00
+lastmod: 2026-08-16 15:57:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,11 +67,11 @@ Second, the Map reads the interface's signature — a consciousness-physics coup
 
 Here the Map corrects a slogan it has sometimes leaned on. The tempting claim is: *no-signalling forces the Born rule, so any agent — physical or non-physical — coupling to quantum outcomes is Born-constrained.* The GPT literature shows the first half of that sentence is false as stated.
 
-No-signalling **alone** does not force the Born rule. Boxworld (Barrett 2007) is a non-quantum theory that respects no-signalling, and Galley and Masanes established in 2018 that the Born measurement rule can be modified while preserving no-signalling — "contrarily to previous claims," as their paper puts it. Their result is titled: "Any modification of the Born rule leads to a violation of the purification and local tomography principles." The Born rule becomes forced only once **purification and/or local tomography** are added to no-signalling.
+No-signalling **alone** does not force the Born rule. Boxworld (Barrett 2007) is a non-quantum theory that respects no-signalling, and Galley and Masanes established in 2018 that the Born measurement rule can be modified while preserving no-signalling — "contrarily to previous claims," as their paper puts it. Their result is titled: "Any modification of the Born rule leads to a violation of the purification and local tomography principles." Both principles, for every modification: the paper proves that "in all these theories the purification principle is violated" and, separately, that "in all such modifications the task of state tomography with local measurements is impossible." Contraposing, the Born rule becomes forced once **either purification or local tomography** is added to no-signalling — each axiom on its own rules the modifications out, so escaping the rule takes both to fail.
 
 This is why the Map's existing anchor, the [causal-consistency-constraint](/concepts/causal-consistency-constraint/), is stated carefully. Torres Alegre's 2025 steering-based derivation — an arXiv preprint, not yet peer-reviewed — shows that *within GPTs satisfying purification*, the Born rule is the unique no-signalling-compatible probability assignment. The purification assumption is doing the real work; the theorem inherits exactly the Galley-Masanes gap. A 2026 preprint extending the result to infinite-dimensional theories suggests the selection line is being generalised rather than overturned, though it too awaits refereeing.
 
-The honest Map statement is therefore a conditional: *an agent coupling to quantum outcomes in a regime that satisfies purification and local tomography — as physics does everywhere it has been tested — is Born-constrained on pain of signalling.* The constraint on a non-physical interface is exactly as strong as the applicability of those two structural axioms to the interface, and no stronger. This is an upgrade, not a retreat: it names the precise open question ([brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)) instead of hiding it inside a slogan.
+The honest Map statement is therefore a conditional: *an agent coupling to quantum outcomes in a regime that satisfies purification or local tomography — as physics does everywhere it has been tested — is Born-constrained on pain of signalling.* The constraint on a non-physical interface is exactly as strong as the applicability of *either* structural axiom to the interface, and no stronger. That the disjunction suffices makes the constraint more robust than a version requiring both, and correspondingly raises what it would take to evade it. This is an upgrade, not a retreat: it names the precise open question ([brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)) instead of hiding it inside a slogan.
 
 ## Rival Readings
 
@@ -85,7 +85,7 @@ An instrumentalist reads GPTs as bookkeeping over laboratory statistics with no 
 
 The GPT framework is the formal setting in which several of the Map's tenets acquire precise statements.
 
-**Tenet 2 (Minimal Quantum Interaction)**: The framework locates the Born rule as one probability rule among many and identifies the exact conditions — purification and local tomography — under which it is forced. A minimal interface that selects outcomes without signalling must preserve the theory's whole convex geometry.
+**Tenet 2 (Minimal Quantum Interaction)**: The framework locates the Born rule as one probability rule among many and identifies the exact conditions under which it is forced — purification or local tomography, either sufficing on its own. A minimal interface that selects outcomes without signalling must preserve the theory's whole convex geometry.
 
 **Tenet 4 (No Many Worlds)**: GPTs are interpretation-neutral and make no appeal to branching, so the Map can use their results without importing many-worlds commitments.
 
