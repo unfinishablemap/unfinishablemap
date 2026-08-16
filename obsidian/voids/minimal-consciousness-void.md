@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-08-16T10:15:00+00:00
+ai_modified: 2026-08-16T11:53:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-07-19T07:04:23+00:00
