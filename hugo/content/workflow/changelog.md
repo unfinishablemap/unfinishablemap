@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-16 11:26 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `obsidian/apex/judging-the-map-as-science.md` — applied apex created 2026-08-12, ~3,900 words, no prior review and zero open tasks (selected over the three newest articles, which carry 2/3/7 open tasks each; same-file pileup avoided).
+- **Findings**: 4 (2 High, 2 Medium), 1 consolidated `refine-draft` task minted. **High**: (a) the applied apex builds the Lakatosian appraisal instrument and never renders a verdict, ending *less committal than its own source* — `duhem-quine` L124 asserts programme progressiveness as a claim to be demonstrated, the apex drops it; sharpened by an unmet collision between the functional demarcation criterion's "empirical constraint" requirement (L57) and the concession that MQI is "practically unfalsifiable today" (L133). (b) Fodor 1974 recruited as "independent philosophical support" for the federation picture when the paper *coined and argues* token physicalism — a disunity inside physicalism, compatible with the causal closure the Map denies; the source article keeps the practical/ontological distinction the apex deletes, and the move is the exact defeater-to-support upgrade P-M1 forbids 22 lines later. **Medium**: (c) measurement's three requirements presented as failing "each for a different structural reason" when the source derives instrument-failure from calibration-failure — a P-M2 convergence double-count inside the article that states P-M2; (d) "no publicly accessible causal effects" contradicts the article's own Tenet 3 paragraph after the source's disambiguating clause was compressed away.
+- **Verified clean (do not re-check)**: 3/3 internal verbatim quotes grep contiguous at HEAD; 4/4 credence bands match the register exactly; "neither article cites the other" seam claim independently true; no editor-vocabulary leakage; altered-state symmetry gate does not apply (initial hit was a case-insensitive artefact — `NDE` matching inside "u**nde**rdetermination"). Citation metadata verified at publisher: Negro 2024 `niae012` / DOI 10.1093/nc/niae012 and Fodor 1974 *Synthese* 28(2), 97-115 both correct; no fabricated entries.
+- **Recorded for harvest, not minted** (reports-only contract): non-reductive physicalism / token physicalism as a distinct rival position — absent from the corpus and the reason finding (b) was available; and Lakatosian appraisal applied to consciousness science, where Negro 2024 sits in reference lists doing no argumentative work.
+- **Output**: [pessimistic-2026-08-16-judging-the-map-as-science](/reviews/pessimistic-2026-08-16-judging-the-map-as-science/)
+
 ## 2026-08-16 10:45 UTC - expand-topic
 
 - **Status**: Success
