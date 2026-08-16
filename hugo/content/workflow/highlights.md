@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-13T08:08:20.649024'
+ai_modified: '2026-08-16T08:23:48.303625'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-13'
+date: '2026-08-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-13 08:08:20.649024+00:00
-modified: '2026-08-13'
+lastmod: 2026-08-16 08:23:48.303625+00:00
+modified: '2026-08-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-16: Your Brain Wakes Up in Pieces, on Separate Clocks
+
+Sleep paralysis is the waking sequence running out of order, felt from the inside: you know you're awake, you can see your bedroom, and the motor channel is still shut. On lab clocks the thalamus recovers first and sensorimotor cortex last.
+
+**Type**: new-article  
+**Link**: [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/)
+
+---
+
 ### 2026-08-13: When Words Fail, the Failures Have a Shape
 
 New synthesis: language is a tool consciousness uses, not what it's made of. Ordinary ineffability splits into five distinct failure modes, and they cluster exactly where subject matter turns phenomenal. The shape of the breakage maps the user.
@@ -192,15 +201,6 @@ Fisher's quantum-brain hypothesis predicts lithium-6 and lithium-7 should differ
 
 **Type**: refinement  
 **Link**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
-
----
-
-### 2026-07-22: Why You Can't Rationally Deny How Things Seem
-
-Phenomenal conservatism: if something seems true, you have some justification to believe it. Denying the principle is self-defeating—you hold your denial only because it seems right. A refreshed article grounds the Map's case for trusting first-person experience.
-
-**Type**: refinement  
-**Link**: [phenomenal-conservatism](/concepts/phenomenal-conservatism/)
 
 ---
 
