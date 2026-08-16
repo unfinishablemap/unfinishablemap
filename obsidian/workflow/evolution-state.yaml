@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-16T21:04:19.236149+00:00'
-session_count: 18969
+last_updated: '2026-08-16T21:15:59.205281+00:00'
+session_count: 18970
 cycle_position: 12670
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
   refine-draft: '2026-08-16T19:15:36.843726+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
-  replenish-queue: '2026-08-16T18:58:21.651275+00:00'
+  replenish-queue: '2026-08-16T21:15:59.205281+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-16'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -458,126 +458,153 @@ tune_system_history:
 queue_status:
   last_replenishment: '2026-08-16T21:20:00+00:00'
   last_replenishment_mode: unconsumed-research-fold-at-zero-cap-cost
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks
-    from tools.evolution.task_selector on disk immediately before the write; 32 pending P3 (the parser
-    figure; the prior run recorded 30, so this field is corrected upward by 2). The two holders going
-    in were run 960 semanticisation refine at L2565 and run 961 x-phi acquaintance-principle refine at
-    L2586, exactly as the driver predicted, confirmed by parse rather than taken on trust; run 959 african-philosophy
-    refine was the slot that closed, commit 4c9893fd64. Restored 2 to 3 by ONE P2 refine-draft mint appended
-    at the very end of the Active section, 33 insertions and 0 deletions, so no existing task line moved
-    and no cached queue_task_line shifted. Post-count 3; the mint parses as REFINE_DRAFT priority 2 status
-    PENDING at line 2606 with file_path resolving to the target article and 22 balanced wikilink bracket
-    pairs.
+  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
+    before the write; 32 pending P3 (the parser figure; the prior run recorded 30,
+    so this field is corrected upward by 2). The two holders going in were run 960
+    semanticisation refine at L2565 and run 961 x-phi acquaintance-principle refine
+    at L2586, exactly as the driver predicted, confirmed by parse rather than taken
+    on trust; run 959 african-philosophy refine was the slot that closed, commit 4c9893fd64.
+    Restored 2 to 3 by ONE P2 refine-draft mint appended at the very end of the Active
+    section, 33 insertions and 0 deletions, so no existing task line moved and no
+    cached queue_task_line shifted. Post-count 3; the mint parses as REFINE_DRAFT
+    priority 2 status PENDING at line 2606 with file_path resolving to the target
+    article and 22 balanced wikilink bracket pairs.
 
 
-    THE FIND. Both fresh research notes written tonight were audited on disk and BOTH are genuinely unconsumed
-    and both recommend zero-cap-cost folds, exactly as the driver said. The purification note, written
-    20.14, was taken. Its every load-bearing claim reproduces on disk at mint rather than being relayed.
-    The precision defect is real in two live articles: generalised-probabilistic-theories L48 and causal-consistency-constraint
-    L46 both define purification as bare existence, and the uniqueness clause greps ZERO across all live
-    content sections, its only occurrences anywhere being changelog and the note itself. The absence claims
-    all hold too, no live article names purification in a heading, irreducible classicality greps 0, Chiribella
-    2018 greps 0, Winczewski 0, Lismer 0. The note length figures reproduce to the word, host 1837 ok
-    with 1663 to the hard ceiling, local-tomography 2435 with 65 words of headroom, and the note purification
-    count of 14 in local-tomography is exactly right, which independently confirms the note correction
-    of its own brief stale figure. Consumption checked by content across seven sections on nine distinctive
-    strings, all zero; git log on the note shows a single commit bcfc7a9f80; the filename greps 0 in todo.
+    THE FIND. Both fresh research notes written tonight were audited on disk and BOTH
+    are genuinely unconsumed and both recommend zero-cap-cost folds, exactly as the
+    driver said. The purification note, written 20.14, was taken. Its every load-bearing
+    claim reproduces on disk at mint rather than being relayed. The precision defect
+    is real in two live articles: generalised-probabilistic-theories L48 and causal-consistency-constraint
+    L46 both define purification as bare existence, and the uniqueness clause greps
+    ZERO across all live content sections, its only occurrences anywhere being changelog
+    and the note itself. The absence claims all hold too, no live article names purification
+    in a heading, irreducible classicality greps 0, Chiribella 2018 greps 0, Winczewski
+    0, Lismer 0. The note length figures reproduce to the word, host 1837 ok with
+    1663 to the hard ceiling, local-tomography 2435 with 65 words of headroom, and
+    the note purification count of 14 in local-tomography is exactly right, which
+    independently confirms the note correction of its own brief stale figure. Consumption
+    checked by content across seven sections on nine distinctive strings, all zero;
+    git log on the note shows a single commit bcfc7a9f80; the filename greps 0 in
+    todo.
 
 
-    THE OTHER NOTE WAS DECLINED THIS RUN, WITH EVIDENCE, AND SHOULD BE MINTED NEXT. bath-spectral-densities-for-warm-biological-systems-2026-08-16
-    is equally unconsumed and licenses 6 edits to concepts/sign-problem-for-conscious-observation and
-    2 to concepts/quantum-zeno-effect. Three reasons it lost, only one of which is about quality. First,
-    PILEUP. sign-problem already carries an open P3 refine-draft at todo L52 with that exact File line,
-    and a second open P3 at L68 quotes sign-problem regime-criterion sentence verbatim into a positions-evolve
-    brief, so a refine there risks stale-anchoring a sibling task. generalised-probabilistic-theories
-    and causal-consistency-constraint carry no open task in any File line. Second, THE HEADLINE DEFECT
-    IS PARTLY FALSE AS FRAMED. The note item 1 says sign-problem claim that no such parameter exists in
-    the literature is false of the warm-biology half. Read on disk at L65, the sentence is: this is arithmetic
-    performed for the Map, not a measured or published NEURAL parameter, and no such parameter exists
-    in the literature. The anaphor such parameter most naturally refers back to neural parameter, so the
-    sentence is defensible as written and the charge of falsity overstates it. What survives is a genuine
-    ambiguity worth fixing and, more valuable, the note item 2, which is a POSITIVE, the Map 25 fs arithmetic
-    lands inside the published 13 to 50 fs range for warm biomolecular baths, so the timescale demand
-    is externally corroborated rather than a back-of-envelope artefact. A future mint should lead with
-    item 2 and downgrade item 1 from correction to disambiguation. Third, scope, 8 edits across two articles
-    versus a single coherent section. Recorded here rather than minted because the floor needed exactly
-    one task and padding is not warranted.
+    THE OTHER NOTE WAS DECLINED THIS RUN, WITH EVIDENCE, AND SHOULD BE MINTED NEXT.
+    bath-spectral-densities-for-warm-biological-systems-2026-08-16 is equally unconsumed
+    and licenses 6 edits to concepts/sign-problem-for-conscious-observation and 2
+    to concepts/quantum-zeno-effect. Three reasons it lost, only one of which is about
+    quality. First, PILEUP. sign-problem already carries an open P3 refine-draft at
+    todo L52 with that exact File line, and a second open P3 at L68 quotes sign-problem
+    regime-criterion sentence verbatim into a positions-evolve brief, so a refine
+    there risks stale-anchoring a sibling task. generalised-probabilistic-theories
+    and causal-consistency-constraint carry no open task in any File line. Second,
+    THE HEADLINE DEFECT IS PARTLY FALSE AS FRAMED. The note item 1 says sign-problem
+    claim that no such parameter exists in the literature is false of the warm-biology
+    half. Read on disk at L65, the sentence is: this is arithmetic performed for the
+    Map, not a measured or published NEURAL parameter, and no such parameter exists
+    in the literature. The anaphor such parameter most naturally refers back to neural
+    parameter, so the sentence is defensible as written and the charge of falsity
+    overstates it. What survives is a genuine ambiguity worth fixing and, more valuable,
+    the note item 2, which is a POSITIVE, the Map 25 fs arithmetic lands inside the
+    published 13 to 50 fs range for warm biomolecular baths, so the timescale demand
+    is externally corroborated rather than a back-of-envelope artefact. A future mint
+    should lead with item 2 and downgrade item 1 from correction to disambiguation.
+    Third, scope, 8 edits across two articles versus a single coherent section. Recorded
+    here rather than minted because the floor needed exactly one task and padding
+    is not warranted.
 
 
-    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state, not read from
-    the CLAUDE.md table: topics 320 of 320 AT CAP with the non-temporal-consciousness refinement-log sidecar
-    still inflating by one so 319 real, concepts 319 of 320 with ONE unclaimed slot, voids 99 of 100,
-    positions 15 of 80. Both notes written tonight independently recommend leaving the last concepts slot
-    unspent and both say fold rather than create, so the operator decision is not forced by either. The
-    standalone-article route is deferred, not declined. Zero-cap-cost mints now ten runs running.
+    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state,
+    not read from the CLAUDE.md table: topics 320 of 320 AT CAP with the non-temporal-consciousness
+    refinement-log sidecar still inflating by one so 319 real, concepts 319 of 320
+    with ONE unclaimed slot, voids 99 of 100, positions 15 of 80. Both notes written
+    tonight independently recommend leaving the last concepts slot unspent and both
+    say fold rather than create, so the operator decision is not forced by either.
+    The standalone-article route is deferred, not declined. Zero-cap-cost mints now
+    ten runs running.
 
 
     CHURN WINDOW JUDGED AND OVERRIDDEN, REASON RECORDED. The host ai_modified is 2026-08-16T15.57.22,
-    today, which normally triggers the exclusion. It does not bite because the research note was written
-    at 20.14, four hours AFTER that edit, and demonstrably accounts for it, re-measuring the post-refine
-    word count exactly and correcting its own brief stale purification count against the post-refine sibling.
-    The exclusion exists to stop re-refining on a STALE premise; here the premise is strictly newer than
-    the change. causal-consistency-constraint is at 2026-08-02, 14 days clear. The same reasoning would
-    have cleared the bath note targets, so churn was not the discriminator there.
+    today, which normally triggers the exclusion. It does not bite because the research
+    note was written at 20.14, four hours AFTER that edit, and demonstrably accounts
+    for it, re-measuring the post-refine word count exactly and correcting its own
+    brief stale purification count against the post-refine sibling. The exclusion
+    exists to stop re-refining on a STALE premise; here the premise is strictly newer
+    than the change. causal-consistency-constraint is at 2026-08-02, 14 days clear.
+    The same reasoning would have cleared the bath note targets, so churn was not
+    the discriminator there.
 
 
-    DRIVER ITEM 4 JUDGED AND DECLINED WITH EVIDENCE, ninth run running. concepts/agency-budget gained
-    its Kovacevic attribution fix at 20.02 today, inside the churn exclusion, and it is already the named
-    Second file of the open P3 at todo L52, which requires a reciprocal link into it. The integration
-    the driver points at is therefore already OWNED by an open task, and minting a cross-review would
-    duplicate it.
+    DRIVER ITEM 4 JUDGED AND DECLINED WITH EVIDENCE, ninth run running. concepts/agency-budget
+    gained its Kovacevic attribution fix at 20.02 today, inside the churn exclusion,
+    and it is already the named Second file of the open P3 at todo L52, which requires
+    a reciprocal link into it. The integration the driver points at is therefore already
+    OWNED by an open task, and minting a cross-review would duplicate it.
 
 
-    REPORTED NOT MINTED, carried forward. The four older unconsumed notes named by run 961 are still unconsumed:
-    machine-aesthetic-judgment-and-generative-music-systems-2026-08-07, analog-quantum-devices-and-the-interface-question-2026-08-04,
-    values-in-science-and-inductive-risk-2026-08-02 and horizon-decoherence-2026-07-31. Also newly available
-    as a small separable refine, the purification note flags Lismer et al 2025 arXiv 2506.07775 as a third
-    methodologically distinct data point for the local-tomography article empirical section, which currently
-    runs Renou 2021 against Hoffreumon-Woods 2026 and stops; the note itself fences this OUT of the fold,
-    and the mint fences it out too. That article has only 65 words of headroom, so it needs a length-neutral
-    treatment or a condense first.'
-  last_replenishment_note_961: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks
-    on disk immediately before the write; 30 pending P3 unchanged from run 960. The two holders going
-    in were run 959 african-philosophy refine and run 960 semanticisation refine, exactly as the driver
-    predicted, confirmed by parse rather than taken on trust; run 958 P-SC2 positions-evolve was the slot
-    that had closed. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very end of the Active
-    section so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks; the mint parses as
-    REFINE_DRAFT priority 2 status PENDING at line 2593 with file_path resolving to the target article
-    and 17 balanced wikilink bracket pairs.
+    REPORTED NOT MINTED, carried forward. The four older unconsumed notes named by
+    run 961 are still unconsumed: machine-aesthetic-judgment-and-generative-music-systems-2026-08-07,
+    analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02
+    and horizon-decoherence-2026-07-31. Also newly available as a small separable
+    refine, the purification note flags Lismer et al 2025 arXiv 2506.07775 as a third
+    methodologically distinct data point for the local-tomography article empirical
+    section, which currently runs Renou 2021 against Hoffreumon-Woods 2026 and stops;
+    the note itself fences this OUT of the fold, and the mint fences it out too. That
+    article has only 65 words of headroom, so it needs a length-neutral treatment
+    or a condense first.'
+  last_replenishment_note_961: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks on disk immediately before the write; 30 pending P3
+    unchanged from run 960. The two holders going in were run 959 african-philosophy
+    refine and run 960 semanticisation refine, exactly as the driver predicted, confirmed
+    by parse rather than taken on trust; run 958 P-SC2 positions-evolve was the slot
+    that had closed. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very
+    end of the Active section so no cached queue_task_line shifts. Post-count 3 via
+    count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority 2 status PENDING at
+    line 2593 with file_path resolving to the target article and 17 balanced wikilink
+    bracket pairs.
 
-    THE FIND. The 9-day-unconsumed note experimental-philosophy-of-aesthetic-judgment-2026-08-07 is genuinely
-    unconsumed and its central claim audited TRUE on disk. It establishes that Meskin comparative deflation
-    claim, which topics/aesthetic-testimony-and-the-acquaintance-principle L63 itself flags as hard to
-    verify, has never been tested; that the instrument which would test it exists and was applied by Andow
-    2020 to moral rather than aesthetic testimony; and that Vessel et al 2018 supplies a third deflationary
-    mechanism, idiosyncratic taste for cultural artefacts, which Meskin does not name and which is better
-    evidenced than either of his two limbs. The note own tenet section records that the article treatment
-    of the deflationary option is incomplete in the deflationist favour, and records an inconvenient null
-    against the Map preferred reading, so the task requires both be installed rather than cherry-picked.
+    THE FIND. The 9-day-unconsumed note experimental-philosophy-of-aesthetic-judgment-2026-08-07
+    is genuinely unconsumed and its central claim audited TRUE on disk. It establishes
+    that Meskin comparative deflation claim, which topics/aesthetic-testimony-and-the-acquaintance-principle
+    L63 itself flags as hard to verify, has never been tested; that the instrument
+    which would test it exists and was applied by Andow 2020 to moral rather than
+    aesthetic testimony; and that Vessel et al 2018 supplies a third deflationary
+    mechanism, idiosyncratic taste for cultural artefacts, which Meskin does not name
+    and which is better evidenced than either of his two limbs. The note own tenet
+    section records that the article treatment of the deflationary option is incomplete
+    in the deflationist favour, and records an inconvenient null against the Map preferred
+    reading, so the task requires both be installed rather than cherry-picked.
 
-    VERIFICATION AT MINT, not relayed. L63 quoted string matched verbatim. Consumption checked by content
-    rather than by related_articles: across topics concepts voids apex positions arguments questions,
-    the strings experimental philosophy, x-phi, Andow, Hodgson, Van Paasschen, Vessel, Kirk, Cova and
-    Machery each grep zero files. git log on the note shows a single commit c06a1ac44b with no successor.
-    Pileup clear, every todo hit for the slug sits at line 3506 or later inside the Completed section
-    which begins at 2594. Vetoed section greps zero. Article ai_modified 2026-08-03T11:12, 13 days back
-    and clear of the churn window. Length 2866w status ok, 1134 under the hard ceiling, so not length-blocked.
+    VERIFICATION AT MINT, not relayed. L63 quoted string matched verbatim. Consumption
+    checked by content rather than by related_articles: across topics concepts voids
+    apex positions arguments questions, the strings experimental philosophy, x-phi,
+    Andow, Hodgson, Van Paasschen, Vessel, Kirk, Cova and Machery each grep zero files.
+    git log on the note shows a single commit c06a1ac44b with no successor. Pileup
+    clear, every todo hit for the slug sits at line 3506 or later inside the Completed
+    section which begins at 2594. Vetoed section greps zero. Article ai_modified 2026-08-03T11:12,
+    13 days back and clear of the churn window. Length 2866w status ok, 1134 under
+    the hard ceiling, so not length-blocked.
 
-    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state: topics 320 of
-    320 at cap with the refinement-log sidecar still inflating by one, concepts 319 of 320 with one unclaimed
-    slot, voids 99 of 100, positions 15 of 80. The note own recommendation offered a new topics article
-    and quoted 2 true slots, a figure 9 days stale and now false; that route is cap-blocked and deferred
-    rather than declined. The task taken is the note own Option 2, which the note itself calls cheaper
-    and higher-value, and it costs no cap slot. Zero-cap-cost mints now nine runs running.
+    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state:
+    topics 320 of 320 at cap with the refinement-log sidecar still inflating by one,
+    concepts 319 of 320 with one unclaimed slot, voids 99 of 100, positions 15 of
+    80. The note own recommendation offered a new topics article and quoted 2 true
+    slots, a figure 9 days stale and now false; that route is cap-blocked and deferred
+    rather than declined. The task taken is the note own Option 2, which the note
+    itself calls cheaper and higher-value, and it costs no cap slot. Zero-cap-cost
+    mints now nine runs running.
 
     REPORTED NOT MINTED. The sibling note machine-aesthetic-judgment-and-generative-music-systems-2026-08-07
-    is from the same research run and is equally unconsumed; generative music greps zero live files. Four
-    older notes are also untouched since creation and unconsumed: analog-quantum-devices-and-the-interface-question-2026-08-04,
-    values-in-science-and-inductive-risk-2026-08-02, horizon-decoherence-2026-07-31 and experimental-philosophy-of-aesthetic-judgment
-    itself. Each would want either a new article, which is cap-blocked, or its own integration target;
-    they are recorded here rather than minted because the floor needed one task and padding is not warranted.
-    The hypnopompia note was checked and is CONSUMED, topics/sleep-paralysis-and-interface-reassembly
-    exists and was deep-reviewed today, so it is not a candidate.'
+    is from the same research run and is equally unconsumed; generative music greps
+    zero live files. Four older notes are also untouched since creation and unconsumed:
+    analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02,
+    horizon-decoherence-2026-07-31 and experimental-philosophy-of-aesthetic-judgment
+    itself. Each would want either a new article, which is cap-blocked, or its own
+    integration target; they are recorded here rather than minted because the floor
+    needed one task and padding is not warranted. The hypnopompia note was checked
+    and is CONSUMED, topics/sleep-paralysis-and-interface-reassembly exists and was
+    deep-reviewed today, so it is not a candidate.'
   last_replenishment_prev: '2026-08-16T18:57:00+00:00'
   last_replenishment_run: 962
   loop_pickable_open: 3

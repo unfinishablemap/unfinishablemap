@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-06-24T12:33:13+00:00
+ai_modified: 2026-08-16T21:27:18+00:00
 last_deep_review: 2026-06-24T12:33:13+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-15
 last_curated:
 coalesced_from:
@@ -85,7 +85,7 @@ The transitions between levels are not merely increases in processing complexity
 
 A physicalist might point to phase transitions—water becoming ice—as precedent for qualitative discontinuities emerging from quantitative physical changes. But phase transitions involve third-person structural properties: crystalline lattice formation, viscosity changes, density shifts—observable, measurable, and fully derivable from molecular dynamics. The consciousness transitions in Tulving's hierarchy introduce first-person phenomenal properties. The jump from noetic to autonoetic is not a change in what the system *does* but in what the system *is like*. No amount of structural description entails that a system processing temporal self-representations should *feel like* anything at all.
 
-### Clinical Dissociations
+### Clinical and Non-Clinical Dissociations
 
 Neuropsychological cases confirm that the levels are genuinely separable:
 
@@ -93,13 +93,17 @@ Neuropsychological cases confirm that the levels are genuinely separable:
 - **Semantic dementia** patients show the inverse: progressive loss of noetic access to factual knowledge while episodic memory remains relatively intact in early stages.
 - **Basal ganglia disorders** (Huntington's, Parkinson's) can impair procedural learning and anoetic skill execution while leaving noetic and autonoetic systems intact.
 
-These dissociations show that each level depends on distinct neural substrates and can be selectively damaged. Consciousness is not a single capacity that scales up—it is a structured hierarchy with separable components.
+A fourth case arrives without a lesion. Palombo et al. (2015) described *severely deficient autobiographical memory* (SDAM): healthy, high-functioning adults with intact semantic memory who report a lifelong inability to relive their own past, corroborated by the absence of the fMRI and event-related-potential signatures that normally accompany episodic recollection. They hold autobiographical content in the noetic mode and never acquire the autonoetic mode for it. [[episodic-memory|The episodic memory article]] develops the case; what matters for the hierarchy is that the noetic/autonoetic boundary shows up in undamaged brains, independently of any laboratory judgement task.
+
+These dissociations show that each level depends on distinct neural substrates and can come apart selectively. Consciousness works as a structured hierarchy with separable components rather than a single capacity that scales up.
 
 ### The Semanticisation Problem
 
 Episodic memories gradually lose their autonoetic character, retaining content while shedding the phenomenal quality of re-experiencing. You may know you went to a particular school without being able to re-inhabit any specific day there. The information migrates from episodic to semantic storage—from autonoetic to noetic consciousness. The Map's treatment of [[consciousness-and-memory|consciousness and memory]] traces this phenomenal trajectory in detail: vivid re-experiencing within hours of encoding, thinning detail over days, progressive schematisation over months, and near-complete semantic absorption over decades—with the qualitative shift tracking hippocampal involvement rather than information content.
 
-This reveals that the *same propositional content* can be accompanied by qualitatively different forms of awareness. The remember/know paradigm confirms this experimentally: subjects encounter the same item and either "remember" it (with autonoetic re-experiencing) or "know" it (with noetic recognition), demonstrating that phenomenal character varies independently of informational content. [[consciousness|Consciousness]] adds something beyond the data.
+This reveals that the *same propositional content* can be accompanied by qualitatively different forms of awareness. The remember/know paradigm operationalises the contrast: subjects encounter the same item and either "remember" it (with autonoetic re-experiencing) or "know" it (with noetic recognition).
+
+How much that paradigm can be asked to carry is contested, and the claim made here is stated so as not to need the contested part. Wixted and Mickes (2010) model recognition as a single memory-strength variable read at different criterion points, on which a "remember" response marks where a graded signal sits rather than a switch between two phenomenal kinds. Zaman et al. (2024), factor-analysing subjective ratings from 342 participants, recovered a stable latent structure for autonoesis — so the construct is measurable — but found re-experiencing and mental time travel, rather than the remember/know contrast, doing the identifying work. Both results bear on the instrument rather than on the phenomenal difference it was built to index; neither supplies a graded reading of that difference. Strip the paradigm out and content-manner independence re-derives from evidence the contesting accounts also grant: [severely deficient autobiographical memory](#clinical-and-non-clinical-dissociations) delivers intact autobiographical content with re-experiencing absent, in undamaged adults who make no remember/know judgement at all, and the [Patient KC](#clinical-and-non-clinical-dissociations) case points the same way from the lesion side. The paradigm operationalises a contrast that independent clinical and non-clinical evidence supports on its own. [[consciousness|Consciousness]] adds something beyond the data.
 
 ## Autonoesis and Causal Efficacy
 
@@ -159,9 +163,12 @@ These challenges bear directly on the arguments developed in [[phenomenology-of-
 1. Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413-426.
 1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 1. Klein, S.B. & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
+1. Palombo, D.J., Alain, C., Söderlund, H., Khuu, W., & Levine, B. (2015). Severely deficient autobiographical memory (SDAM) in healthy adults: A new mnemonic syndrome. *Neuropsychologia*, 72, 105-118.
 1. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). Autonoesis and episodicity: Perspectives from philosophy of memory. *WIREs Cognitive Science*, 15(1), e1665.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
 1. Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness. *Consciousness and Cognition*, 18(4), 1018-1028.
 1. Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: The frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
+1. Wixted, J.T. & Mickes, L. (2010). A continuous dual-process model of remember/know judgments. *Psychological Review*, 117(4), 1025-1054.
+1. Zaman, A., Setton, R., Catmur, C., & Russell, C. (2024). What is autonoetic consciousness? Examining what underlies subjective experience in memory and future thinking. *Cognition*, 253, 105934.

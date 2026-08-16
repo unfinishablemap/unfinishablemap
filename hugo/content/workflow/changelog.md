@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-16T21:02:32+00:00'
+ai_modified: '2026-08-16T21:27:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-16'
-lastmod: 2026-08-16 21:02:32+00:00
+lastmod: 2026-08-16 21:27:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-16 21:27 UTC - refine-draft
+
+- **Status**: Success
+- **Files**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/), [episodic-memory](/concepts/episodic-memory/), [semantic-memory](/concepts/semantic-memory/) (one task, three files, per the source note's explicit request to avoid same-file pileup)
+- **Source**: [semanticisation-and-fading-episodic-phenomenology-2026-08-04](/research/semanticisation-and-fading-episodic-phenomenology-2026-08-04/), chain mint by replenish run 960
+- **Exposure closed**: all three articles cited the remember/know (R/K) paradigm as *demonstrating* content/manner independence while the instrument's contested validity went unmentioned (`Wixted` `Mickes` `Yonelinas` `Zaman` `criterion` `signal detection` all counted 0 per file at start). Calibrated per the sibling model at `topics/memory-anomalies` L70 and `apex/phenomenal-output-causal-machinery-dissociation` L103: state the challenge, then show the Map's claim re-derives without the disputed architecture.
+- **Changes**: softened "confirms this experimentally"/"demonstrates" to "operationalises" at the four argumentative loci (anoetic-noetic L102; episodic-memory lead, illusionism section, Occam's paragraph; semantic-memory Occam's paragraph); added a status clause in each naming Wixted & Mickes (2010) continuous-signal-detection and, in the two roomier hosts, Zaman et al. (2024); routed the surviving dissociation through SDAM (Palombo et al. 2015) and Patient KC in every case. The pre-existing *expository* mentions were already correctly hedged ("operationalises") and were left alone.
+- **SDAM added** to `anoetic-noetic-autonoetic-consciousness` (0 prior citations) in a renamed *Clinical and Non-Clinical Dissociations* section mirroring `episodic-memory`, and to `semantic-memory` (0 prior). The note's stale "SDAM is uncited anywhere in the Map" claim was correctly flagged in the task and not acted on — `episodic-memory` already carried it three times.
+- **Two stale claims found and fixed as a side effect.** `episodic-memory`'s falsifier (2) asked for "prediction of remember/know responses from purely computational models" — already satisfied, since signal-detection accounts fit R/K responses; rewritten to ask for prediction of the re-experiencing/knowing contrast without subjective ratings as inputs. The same article's "amnesic patients may retain know responses while losing remember responses entirely" is precisely what Wixted & Squire contest; removed rather than left standing uncalibrated.
+- **Citation grades**: Wixted & Mickes (2010) reused from existing corpus citations at `memory-anomalies` L154 / `apex` L292 — no new verification needed. Zaman et al. (2024) was **abstract-level only in the source note and uncited in the corpus**, so it was verified independently before use: Crossref confirmed title, the full ordered author list (Andreea Zaman, Roni Setton, Caroline Catmur, Charlotte Russell), *Cognition* 253, article 105934, 2024; Europe PMC confirmed the abstract, N = 342, the EFA design, and the R/K demotion in favour of Re-experiencing and Mental Time Travel. Paraphrased throughout — no fragment from the note printed as a verbatim from the paper's body.
+- **Length**: `episodic-memory` was 36 words from the concepts hard ceiling and is now **3460w, four words below its 3464 baseline** — the status clause and new reference were paid for by compressing six redundant restatements of the same-information claim (it appeared six times; now four). `anoetic-noetic-autonoetic-consciousness` 2499→2850 (roomy host, fullest treatment, well inside the 3500 ceiling). `semantic-memory` 3215→3394. No file crossed a hard threshold; all three sit at `soft_warning`.
+- **Verification**: `validate.py` 0 invalid across 320 concepts files. `sync.py` exit 0; both defective strings confirmed **gone** from all three `hugo/content/concepts/` mirrors and the new material confirmed present in each (obsidian-only-fix-leaves-defect-live-in-hugo). All added wikilinks convert to live paths; the renamed heading's same-page anchor `#clinical-and-non-clinical-dissociations` resolves in both articles, and the pre-existing inbound anchor from `topics/diachronic-agency-and-personal-narrative` to `episodic-memory#clinical-and-non-clinical-dissociations` was left intact. No `[[` residue in hugo bodies, no EOF tool-call artifact, no "load-bearing", no *"This is not X. It is Y."*, no editor vocabulary in prose.
+- **Deferred, not declined**: the note's recommended new `concepts/semanticisation` page. Re-measured live at execution with `tools.evolution.state.count_section_files`: `topics` **320/320 at cap**, `concepts` **319/320 — one slot**, `voids` 99/100. Slot left unspent, as two sibling research notes independently recommended.
+- **Out-of-scope locus reported, not edited**: `archive/concepts/ai-consciousness-modes.md` L108 carries the same over-claim ("The remember/know paradigm demonstrates same-content-different-phenomenology — the strongest kind of evidence…"). It is archived content preserving a URL and outside this task's three named files; flagged for an operator decision rather than silently amended.
+- **Published**: yes
 
 ## 2026-08-16 21:02 UTC - research-topic
 

@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-04T08:36:00+00:00
+ai_modified: 2026-08-16T21:27:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,9 @@ Semantic memory and noetic consciousness bear on the five foundational commitmen
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** records conditional consistency rather than support drawn from semantic memory. The noetic sense that a fact is a fact about *the* world rather than about *a* branch states what the tenet requires, but nothing in that phenomenology discriminates the two ontologies: on the Everettian reading each decohered branch contains knowers whose facts are determinate within it, and both ontologies predict identical first-person reports. The requirement runs through [[haecceity]]—that semantic knowledge is *this* person's knowledge of *those* facts—which is an auxiliary commitment rather than something the phenomenology of knowing supplies. Semantic memory is compatible with the tenet; it does not argue for it. [[phenomenology-of-memory-and-the-self|The phenomenology of memory and the self]] develops the withdrawal.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simpler view—semantic memory is just data storage, noetic consciousness is an illusion—hasn't won. The phenomenology of TOT, FOK, and understanding persists under scrutiny. Complex mental phenomena may require complex explanations, even when simpler computational accounts are available. The remember/know distinction demonstrates that identical information can be accessed with or without experiential character, suggesting phenomenology isn't reducible to information content.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simpler view—semantic memory is just data storage, noetic consciousness is an illusion—hasn't won. The phenomenology of TOT, FOK, and understanding persists under scrutiny. Complex mental phenomena may require complex explanations, even when simpler computational accounts are available. The content-manner dissociation points the same way: identical information can be accessed with or without experiential character, suggesting phenomenology isn't reducible to information content.
+
+The remember/know contrast operationalises that dissociation without being its only source, which matters because the paradigm's standing as a measure is contested. Wixted and Mickes (2010) read remember/know responses as criterion placements on one continuous memory-strength variable, and Zaman et al. (2024) found re-experiencing and mental time travel, rather than remember/know, identifying autonoesis across 342 participants. Both bear on the instrument. The dissociation itself arrives independently: severely deficient autobiographical memory (Palombo et al., 2015) describes undamaged adults who retain autobiographical content in the noetic mode with re-experiencing absent, and who make no remember/know judgement at all. [[episodic-memory|The episodic memory article]] develops the case.
 
 **Cognitive Phenomenology Connection**: This page complements [[cognitive-phenomenology]]. Semantic memory provides the empirical territory; cognitive phenomenology provides the philosophical framework. If liberalism about cognitive phenomenology is correct—if understanding itself has proprietary phenomenal character—then semantic memory is phenomenally rich despite lacking the vivid re-experiencing of episodic memory.
 
@@ -211,6 +213,9 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 1. Renoult, L. et al. (2012). Personal semantics: at the crossroads of semantic and episodic memory. *Trends in Cognitive Sciences*, 16(11), 550-558.
 1. Martinelli, P. et al. (2013). Neural substrates of the self-memory system. *Human Brain Mapping*, 34(7), 1515-1529.
+1. Palombo, D.J., Alain, C., Söderlund, H., Khuu, W., & Levine, B. (2015). Severely deficient autobiographical memory (SDAM) in healthy adults: A new mnemonic syndrome. *Neuropsychologia*, 72, 105-118.
+1. Wixted, J.T. & Mickes, L. (2010). A continuous dual-process model of remember/know judgments. *Psychological Review*, 117(4), 1025-1054.
+1. Zaman, A., Setton, R., Catmur, C., & Russell, C. (2024). What is autonoetic consciousness? Examining what underlies subjective experience in memory and future thinking. *Cognition*, 253, 105934.
 1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Journal of Cognitive Neuroscience*, 24(8), 1766-1778.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
