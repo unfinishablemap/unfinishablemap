@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-08-08 23:47:00+00:00
+ai_modified: 2026-08-16 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:04:23+00:00
-lastmod: 2026-08-08 23:47:00+00:00
+lastmod: 2026-08-16 10:15:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -72,7 +72,7 @@ The enrichment problem blocks one route to the minimum, not all of them. It bloc
 
 No-report paradigms decouple the neural correlates of consciousness from the act of reporting. Tsuchiya, Wilke, Frässle and Lamme (2015) argue that requiring a behavioural report both overestimates those correlates (by including the machinery of report) and underestimates them (by excluding experience too faint to report). Inferring a conscious state from physiological markers rather than introspective access probes states below the report threshold—the region the void calls sealed—without the observer enriching the target.
 
-Retrospective and third-person routes add further oblique purchase. Descriptive Experience Sampling (Hurlburt and Akhter 2006) interrogates experience shortly *after* a sampling beep, trading concurrent contamination for memory's reconstructive cost—a different limit, not the same one. Windt, Nielsen and Thompson (2016) argue that "dreamless" [sleep](/voids/sleep-consciousness-void/) hosts a taxonomy of minimal experiences rather than a clean blank, direct pressure on the assumption that the faint end is unreachable. Third-person cessation-EEG (discussed below) seeks neural signatures of the edge from outside the experiencing system entirely.
+Retrospective and third-person routes add further oblique purchase. [Descriptive Experience Sampling](/concepts/descriptive-experience-sampling/) (Hurlburt and Akhter 2006) interrogates experience shortly *after* a sampling beep, trading concurrent contamination for memory's reconstructive cost—a different limit, not the same one. Its reach into the faint end is bounded in a way that matters here: the beep recruits report, and report plausibly reaches only attended experience, a limit the sampling tradition raised against itself. Windt, Nielsen and Thompson (2016) argue that "dreamless" [sleep](/voids/sleep-consciousness-void/) hosts a taxonomy of minimal experiences rather than a clean blank, direct pressure on the assumption that the faint end is unreachable. Third-person cessation-EEG (discussed below) seeks neural signatures of the edge from outside the experiencing system entirely.
 
 These routes share a structure: each constrains the minimal state rather than establishing it. The void's genuine epistemic limit survives—the *direct concurrent* minimum stays out of reach. What does not survive is the claim that the minimum is wholly beyond inquiry. It is contested terrain probed obliquely from several directions, not a sealed region.
 

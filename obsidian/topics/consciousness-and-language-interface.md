@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-08-12T14:16:44+00:00
+ai_modified: 2026-08-16T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Does this influence extend to phenomenal consciousness, or merely to categorisat
 
 **Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. Cross-linguistic studies suggest that speakers of different languages show measurably different perceptual responses at the boundaries their language marks, consistent with genuine phenomenal differences.
 
-**Inner speech and experience.** [[introspection|Inner speech]]—the internal voice that accompanies reflection—is intermittent rather than a continuous soundtrack. Descriptive experience sampling of randomly cued moments finds it present in roughly a quarter of them, with wide variation between individuals (Heavey & Hurlburt 2008). Where it occurs it structures experience temporally and sequentially, and that shaping is genuinely phenomenal. Where it does not—the majority of sampled moments—thought often proceeds as *unsymbolized thinking*, explicit differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case rather than a meditative achievement.
+**Inner speech and experience.** [[introspection|Inner speech]]—the internal voice that accompanies reflection—is intermittent rather than a continuous soundtrack. [[descriptive-experience-sampling|Descriptive experience sampling]] of randomly cued moments finds it present in roughly a quarter of them, with wide variation between individuals (Heavey & Hurlburt 2008). Where it occurs it structures experience temporally and sequentially, and that shaping is genuinely phenomenal. Where it does not—the majority of sampled moments—thought often proceeds as *unsymbolized thinking*, explicit differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case rather than a meditative achievement.
 
 ### The Formatting Effect
 

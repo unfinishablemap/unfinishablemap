@@ -4,7 +4,7 @@ description: "Three structural limits on access between consciousnesses—existe
 created: 2026-01-27
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-06-03T11:09:45+00:00
+ai_modified: 2026-08-16T10:15:00+00:00
 last_deep_review: 2026-06-26T00:06:00+00:00
 draft: false
 topics:
@@ -123,7 +123,7 @@ Where [[collective-cognitive-limits]] examines emergent group blind spots genera
 
 **Social calibration.** Introspection is far less reliable than assumed (Schwitzgebel 2008). If your experience differs from the norm, you face two options: report the difference (risking dismissal) or adjust your self-understanding to match consensus. This explains a puzzle—why do people agree so readily about phenomenal experience when the void suggests such agreement should be unverifiable? The agreement may be an artefact of calibration masking underlying diversity.
 
-**Spiral of silence** (Noelle-Neumann 1984). Anyone experiencing something non-standard faces social cost in reporting it. Hurlburt's descriptive experience sampling confirms the result: some people have no inner speech at all, visual imagery varies enormously, emotional experience takes forms many subjects had never reported.
+**Spiral of silence** (Noelle-Neumann 1984). Anyone experiencing something non-standard faces social cost in reporting it. Hurlburt's [[concepts/descriptive-experience-sampling|descriptive experience sampling]] documents the underlying diversity: inner speech is absent from most sampled moments and rare in some individuals, visual imagery varies enormously, emotional experience takes forms many subjects had never reported. Sampling cannot establish that anyone has no inner speech *at all* — absence at zero is outside what the method can reach — but the spread it finds is wide enough to make the calibration worry concrete.
 
 These mechanisms form a self-reinforcing cycle: hermeneutical gaps make experiences hard to report; difficulty reporting triggers silence; silence removes pressure to develop hermeneutical resources; and no individual can unilaterally break the cycle because meaning-making is itself social.
 

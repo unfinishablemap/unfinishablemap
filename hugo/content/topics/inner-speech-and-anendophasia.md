@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-04
-ai_modified: 2026-08-06 19:07:34+00:00
+ai_modified: 2026-08-16 10:15:00+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 03:15:23+00:00
-lastmod: 2026-08-06 19:07:34+00:00
+lastmod: 2026-08-16 10:15:00+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -90,7 +90,7 @@ None of these is decisive. A determined defender can reply that unconscious ling
 
 ## What Would Challenge This View?
 
-**1. Sampling could prove unreliable in the relevant way.** Hurlburt's fidelity claim for descriptive experience sampling is a claim, not a demonstration. If cued sampling were shown to systematically manufacture the categories it reports — if participants trained to look for unsymbolized thinking reliably produced it where independent measures found symbolic content — the sturdier evidence base would weaken along with the contested one.
+**1. Sampling could prove unreliable in the relevant way.** Hurlburt's fidelity claim for [descriptive experience sampling](/concepts/descriptive-experience-sampling/) is a claim, not a demonstration — the method's limitation register, including its inability to establish absence at zero, is set out in that article. If cued sampling were shown to systematically manufacture the categories it reports — if participants trained to look for unsymbolized thinking reliably produced it where independent measures found symbolic content — the sturdier evidence base would weaken along with the contested one.
 
 **2. Lind could be right in the strong form.** His argument is live, not dispatched. If further work showed that reports of absent or minimal inner speech track presupposition rather than experience, then the anendophasia case would need to be withdrawn entirely rather than merely softened, and the Map would be left leaning on unsymbolized thinking alone.
 

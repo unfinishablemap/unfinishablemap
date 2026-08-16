@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-12
-ai_modified: 2026-08-12 14:13:07+00:00
+ai_modified: 2026-08-16 10:15:00+00:00
 ai_system: claude-fable-5
 apex_last_synthesis: 2026-08-12 14:13:07+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: Language is a tool consciousness uses; the structured pattern of it
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-12 14:13:07+00:00
+lastmod: 2026-08-16 10:15:00+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
@@ -50,7 +50,7 @@ A neighbouring synthesis, [Minds Without Words](/apex/minds-without-words/), rea
 
 The claim that language is a tool has a precise rival: the claim that language partially *constitutes* higher-order consciousness. Dennett, Carruthers, and the Vygotskian tradition hold versions of the constitutive view — that self-reflection, metacognition, and narrative identity are made of inner speech rather than merely assisted by it. The tool picture and the constitution picture agree about almost everything visible in ordinary fluent adults. They come apart at the edges, which is why the edges carry the argument.
 
-The [interface analysis](/topics/consciousness-and-language-interface/) assembles the separability evidence. Pre-verbal infants show pain responses, preferential attention, and surprise at violated expectations weeks before any comprehension of language. [Non-human animals](/topics/animal-consciousness/) display fear, play, grief, and problem-solving without human language, an acknowledgement the Cambridge Declaration on Consciousness made official in 2012. And within fluent adults, descriptive experience sampling finds inner speech in only about a quarter of randomly cued moments (Heavey & Hurlburt 2008); much of the remainder is *unsymbolized thinking* — explicit, differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case, which means the constitutive view owes an account of how reflection proceeds through roughly three-quarters of a typical conscious life, before any contested population — [people who report little or no inner voice](/topics/inner-speech-and-anendophasia/), deaf individuals who acquired language late — is even consulted.
+The [interface analysis](/topics/consciousness-and-language-interface/) assembles the separability evidence. Pre-verbal infants show pain responses, preferential attention, and surprise at violated expectations weeks before any comprehension of language. [Non-human animals](/topics/animal-consciousness/) display fear, play, grief, and problem-solving without human language, an acknowledgement the Cambridge Declaration on Consciousness made official in 2012. And within fluent adults, [descriptive experience sampling](/concepts/descriptive-experience-sampling/) finds inner speech in only about a quarter of randomly cued moments (Heavey & Hurlburt 2008); much of the remainder is *unsymbolized thinking* — explicit, differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case, which means the constitutive view owes an account of how reflection proceeds through roughly three-quarters of a typical conscious life, before any contested population — [people who report little or no inner voice](/topics/inner-speech-and-anendophasia/), deaf individuals who acquired language late — is even consulted.
 
 None of this evidence says language is unimportant. The interface analysis is equally emphatic in the other direction: language formats experience. Learning *saudade* or *mono no aware* does more than label pre-existing states; verbal overshadowing transforms what memory retrieves; categorical perception shifts at the boundaries a language marks. The tool genuinely shapes the hand that holds it. What the evidence resists is the stronger claim that the hand is made of chisels — that removing the tool would remove the user. The next face tests that directly.
 

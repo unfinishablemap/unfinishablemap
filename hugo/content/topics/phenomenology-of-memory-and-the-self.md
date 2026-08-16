@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-04 10:28:00+00:00
+ai_modified: 2026-08-16 10:15:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-08-04 10:28:00+00:00
+lastmod: 2026-08-16 10:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ The same process that builds the self threatens it: reconstruction means the sel
 
 **Pathological breakdowns**: Severe amnesia strips the self of temporal extension while leaving the minimal self intact. Patient KC knew facts about his life without being able to *remember* living it, though Rosenbaum et al. (2005) document residual semantic-autobiographical structure, so the dissociation is graded rather than total. Tippett, Prebble and Addis (2018) find the *belief* layer surviving where semantic continuity does not: perceived persistence and I-self persistence did not differ across healthy controls, amnestic MCI and Alzheimer's, while semantic continuity was itself impaired—fewest self-event connections and lowest temporal and thematic coherence in Alzheimer's, reduced causal coherence in both patient groups—and Alzheimer's explanations of persistence were significantly less sophisticated. Their own verdict is "a more nuanced and multifaceted relationship than originally proposed in our model" (n = 25/15/15, 14 per patient group interviewed; small and correlational, and the authors note the belief measures may index engagement with hard questions rather than diachronic unity). Klein (2012, 2014), reasoning from severe-amnesia cases rather than dementia, locates the sustaining factor in a pre-reflective felt continuity of first-person subjectivity that outlasts even total episodic loss—itself a phenomenological rather than informational proposal. Episodic re-experiencing is therefore one route to diachronic unity rather than the sole route, and what survives is narrower: when episodic re-experiencing is intact, it carries a phenomenal character (pastness, mineness, double presence) that neither semantic continuity nor a persistence belief delivers—so the dualist consequence rests on phenomenal character rather than identity-grounding monopoly.
 
-**Structured-method response to memory-confabulation.** The constructive turn raises the [confabulation void](/voids/confabulation-void/): a sub-personal generator supplies content where access to the encoded trace is missing, and felt rightness fails to certify recovery—confidence and vividness can run high where accuracy does not. Hurlburt and Akhter's (2006) Descriptive Experience Sampling and Petitmengin's (2006) [microphenomenological interview](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) deploy second-person scaffolding that on the Map's reading *restricts the confabulation-eligible space* rather than dissolving it. That reading is the Map's synthesis rather than a claim either tradition makes; both discipline the *report* rather than the event's historical accuracy; the principals concede *interviewer-prompts-novelty*, the structured question generating content with the same felt-veridicality as genuine recovery; and whether the restriction reaches access is methodologically undetermined.
+**Structured-method response to memory-confabulation.** The constructive turn raises the [confabulation void](/voids/confabulation-void/): a sub-personal generator supplies content where access to the encoded trace is missing, and felt rightness fails to certify recovery—confidence and vividness can run high where accuracy does not. Hurlburt and Akhter's (2006) [Descriptive Experience Sampling](/concepts/descriptive-experience-sampling/) and Petitmengin's (2006) [microphenomenological interview](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) deploy second-person scaffolding that on the Map's reading *restricts the confabulation-eligible space* rather than dissolving it. That reading is the Map's synthesis rather than a claim either tradition makes; both discipline the *report* rather than the event's historical accuracy; the principals concede *interviewer-prompts-novelty*, the structured question generating content with the same felt-veridicality as genuine recovery; and whether the restriction reaches access is methodologically undetermined.
 
 ## Deflationary Readings of Pastness
 
