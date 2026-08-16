@@ -5,6 +5,21 @@ ai_modified: '2026-08-16T21:27:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-16 23:02 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The report-latency void — probe latency as a determinant of the phenomenal record for edge states
+- **Category**: Occluded (instrumental rather than architectural), with an Unexplored face
+- **Output**: [[research/voids-report-latency-void-2026-08-16]]
+- **Key finding**: In anaesthesia — the one edge territory where all three probe latencies have been run against comparable populations — the detected rate moves about 900-fold with the instrument alone: real-time isolated forearm technique 4.6% (12/260, five signalling pain), structured interview within 24 h about 1:800, spontaneous report about 1:19,600. The decisive datum is internal to the fastest probe: of 253 patients questioned after surgery, **none** had explicit recall of a state just detected in one patient in twenty-two.
+- **Calibration held in both directions**: the note does **not** argue from generic memory unreliability, because the literature refutes that. Remembered pain *magnitude* is only mildly biased (paediatric meta-analysis SMD = 0.28 overall, 0.07 experimental; Erskine et al. 1990 "moderately accurate"). The claim is narrowed to all-or-nothing loss of the episode, which is the dangerous case precisely because a zero is invisible where a small bias is correctable.
+- **Map exposure identified**: the MEQ30 validation paper states its ratings were "provided seven hours after capsule administration", persisting-effects ratings came "three to eight weeks" later, and the instrument was normed on accounts of experiences that "occurred on average eight years before the given ratings" — all verified at full text.
+- **Recommendation: FOLD, do not spend the last voids slot** (voids re-measured live at 99/100). Hosts were measured with `analyze_length` at mint, and the measurement **changed the routing**: `voids/edge-states-and-void-probes` (3561w, hard_warning, standing HUMAN LENGTH DECISION) is **do-not-edit**; `topics/anaesthesia-and-the-consciousness-interface` is 3999w, **one word** under hard; `voids/anesthesia-void` has only 186w headroom. The roomy host is `concepts/affective-forecasting-gap` (1861w, ok, 1639w headroom), which becomes the main home rather than a footnote. `voids/erasure-void` is deliberately deferred — it is the open olfactory fold task's primary file ([[outer-review-same-file-task-pileup]]).
+- **No task minted and `pending_articles` untouched** — deliberately. A fold recommendation must not route an expand-topic into the final slot, and the olfactory precedent shows replenish mints the fold task from `unconsumed_research`. Flagged for the driver instead.
+- **Verification**: Sanders et al. 2017, Pandit et al. 2014, Tasbihgou et al. 2018, Erskine et al. 1990 and Redelmeier & Kahneman 1996 verified at EuropePMC/Crossref primary records (abstract level — **graded as such in the note's Gaps**); Barrett et al. 2015 and Siclari et al. 2013 verified at **full text**. SNAP-1's 1:800 is cited via the Tasbihgou review with the primary explicitly marked unretrieved, and its circulating sample figures marked unverified. No unfinishablemap.org source consulted.
+- **Search-control discipline**: the corpus-absence claim is backed by a positive control (`isolated forearm` reaches five files) and a self-caught error is recorded — a case-insensitive grep for `ConsCIOUS` matched "conscious" in 7,536 files and would have falsely read as coverage.
+- **Published**: research note only; no site content created or modified
+
 ## 2026-08-16 22:14 UTC - refine-draft
 
 - **Status**: Success
