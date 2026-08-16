@@ -4,7 +4,7 @@ description: "Sentientism grounds moral status in valenced experience. Why the M
 created: 2026-08-01
 modified: 2026-08-04
 human_modified:
-ai_modified: 2026-08-04T06:27:24+00:00
+ai_modified: 2026-08-16T12:29:00+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -88,6 +88,8 @@ That grading collides with the argument from marginal cases used above, and the 
 The same resource bears on the **disenhancement objection**, which the Map has not previously addressed — though it answers only one version. If suffering is the only bad, a hedonic sentientist appears committed to accepting the genetic removal of farmed animals' capacity to suffer as an alternative to removing the causes of their suffering. Against wholesale removal of valence, value pluralism replies directly: the capacity for valenced experience is also the capacity for positively valenced experience, so eliminating it destroys a bearer of value rather than merely a bearer of disvalue.
 
 The proposal actually in the literature is narrower, and that reply misses it. Shriver's "Knocking Out Pain in Livestock" (2009) targets only the *affective* dimension of pain — its unpleasantness, how much the animal minds it — on the model of cingulotomy and morphine, which relieve suffering while leaving nociceptive detection intact. Positive valence is untouched, as is every other feature on the pluralist's list, so value pluralism counts *for* the intervention rather than against it. The line the Map thinks available is narrower still, and is a direction rather than a settled reply: what negative valence does that no other listed feature does is register damage *to the subject as its own*, the mode in which a creature's welfare shows up to it from the inside. Removing it removes the capacity to be harmed in the first person while leaving the harms in place — the loss of an evaluative capacity, not merely of a disvaluable episode. Whether that outweighs the suffering prevented the Map does not claim to have settled, and the affective-only version stays open here.
+
+**From the criterion alone: the criterion does not supply a count.** Saying what has moral standing is not yet saying how many bearers of it a given system contains, and the two questions come apart most sharply where individuation is unsettled — a GPU cluster, a tray of organoids, a split brain. On the Map's commitments the count is a determinate fact that no physical or behavioural inspection can be shown to settle, so applied arguments turning on numbers of patients inherit an assumption the framework cannot discharge ([[moral-census-opacity|moral census opacity]]).
 
 **Under uncertainty: precaution.** Birch's *The Edge of Sentience* (2024) defines sentience as the capacity for valenced experience and argues that sentience is sufficient for moral consideration, supplying an action layer for cases where the metaphysics is unsettled — proportionate precaution triggered by credible possibility rather than by proof. The framework is deliberately metaphysics-neutral, and Birch himself assigns non-materialist views low credence; the Map adopts the action layer without claiming him as an ally on the grounding question.
 
