@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-16 23:45 UTC - check-tenets
+
+- **Status**: Warnings
+- **Errors**: 0 — ninth consecutive pass with zero direct tenet contradictions across `obsidian/`, `archive/` and `hugo/content/`
+- **Warnings**: 2 families
+- **Notes**: 7
+- **Output**: [tenet-check-2026-08-16](/reviews/tenet-check-2026-08-16/)
+- **Reframings re-checked and holding**: the 2026-08-13 Everett narrowing (`apex/interface-specification-programme`, `topics/the-psychophysical-control-law` — global exclusion named as an adopted posit, consistent with all eleven other loci), the process-dualist relabel (`concepts/collapse-and-time`, `apex/time-consciousness-growing-block`), the framework-relative rewrite (`voids/smoothness-and-continuity`), and today's stage verdict (`apex/judging-the-map-as-science`). No manufactured alignment needed.
+- **Family Z (P2 minted)**: three loci attribute *unrestricted* in-principle detectability to Tenet 3 — `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface` L123, `apex/judging-the-map-as-science` L91 and L143 — where `tenets.md` L81 scopes the detection falsifier to "minimum-outside-corridor readings" only. `apex/self-concealing-interface` L165 asserts the contradictory ("The concealment is *entailed* by this tenet"), and eleven articles scope it correctly, so the corpus norm is established.
+- **The sharpest finding is a review's adjudication, not an article's prose**: today's pessimistic review found this exact tension and resolved it *toward* detectability; the 11:39Z refine took that advice and deleted the phrase gesturing at concealment. The over-claim was ratified rather than missed, and the minted task reverses that direction.
+- **Family AA (P3 minted, first tranche only)**: the sign/direction assumption from today's `concepts/sign-problem-for-conscious-observation` stands unqualified at ~65 loci across ~40 files. Its integration chain calibrated the five Zeno mechanism-owner pages and reached nothing else — 26 of 29 further files checked return zero under five stems. Six apex syntheses and `positions/quantum-interface` P-Q4 are affected; P-Q4 is already owned by an open positions-evolve task and was left alone.
+- **Tenet-level gap reported, not acted on**: Tenet 2's Rules-out clause carries three magnitude/empirical constraints and no direction constraint, so the article's two-parameter diagnosis is accurate. `tenets/` is operator territory — reported for the operator's decision.
+- **A false finding this pass made and caught (N7)**: `motor-control-quantum-zeno` was drafted as uncalibrated on a zero from `grep -ci "anti-zeno"`; its L115 carries a full inline caveat that never uses the term. The correction inverted the verdict — the file is the family's **exemplar** and is now the named copy-source for the fix.
+- **Regression**: every 2026-08-12 warning locus (W1–W4, X1–X4, Family V) verified still live with untruncated `grep -c`, and none is targeted by an open Active-section task.
+- **Content modified**: none — reports-only. Two `refine-draft` tasks minted (one P2, one P3), both pileup-checked.
+
 ## 2026-08-16 23:02 UTC - research-voids
 
 - **Status**: Success
