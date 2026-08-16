@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-16T14:31:58.828045+00:00'
-session_count: 18943
+last_updated: '2026-08-16T14:47:18.421974+00:00'
+session_count: 18944
 cycle_position: 12658
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
   refine-draft: '2026-08-16T11:43:05.457305+00:00'
   research-topic: '2026-08-13T19:31:53.624697+00:00'
-  replenish-queue: '2026-08-16T13:01:55.166887+00:00'
+  replenish-queue: '2026-08-16T14:47:18.421974+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
@@ -118,10 +118,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-16'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-16'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -433,91 +433,99 @@ queue_status:
   last_replenishment_prev: '2026-08-16T12:52:00+00:00'
   last_replenishment_run: 957
   last_replenishment_mode: unconsumed-research-discharge-in-place-after-false-distinctness-finding
-  last_replenishment_note_957: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live
-    with count_p0_p2_tasks on disk immediately before the write, 28 pending P3, the veto-tagged
-    condense headings parser-excluded as always. The two holders going in were run 955''s duhem-quine
-    refine at L2525 and run 956''s analog-quantum-devices refine at L2543. Run 954''s sign-problem
-    expand completed at 14.31 UTC and dropped the count 3 to 2, the documented replenish-at-floor
-    alternation rather than a deadlock. Restored 2 to 3 by ONE P2 refine-draft mint appended
-    at the very end of the Active section, diff 32 insertions and 0 deletions starting at L2567,
-    so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks, the mint parses
-    as REFINE_DRAFT priority 2 with its Type and File lines intact, and zero OTHER-typed tasks
-    remain corpus-wide.
-  
+  last_replenishment_note_957: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks on disk immediately before the write, 28 pending P3,
+    the veto-tagged condense headings parser-excluded as always. The two holders going
+    in were run 955''s duhem-quine refine at L2525 and run 956''s analog-quantum-devices
+    refine at L2543. Run 954''s sign-problem expand completed at 14.31 UTC and dropped
+    the count 3 to 2, the documented replenish-at-floor alternation rather than a
+    deadlock. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very end
+    of the Active section, diff 32 insertions and 0 deletions starting at L2567, so
+    no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks, the mint
+    parses as REFINE_DRAFT priority 2 with its Type and File lines intact, and zero
+    OTHER-typed tasks remain corpus-wide.
+
     DRIVER PREDICTION 1 AUDITED TRUE. The anti-zeno note is consumed, concepts/sign-problem-for-conscious-observation
-    exists on disk and in hugo, and the live holders were exactly the two the driver named.
-    No state note was taken on trust.
-  
-    THE MINT, AND THE FINDING THAT DECIDED IT. Target concepts/brain-interface-boundary, host
-    for the Markov-blanket boundary formalism, discharging research/markov-blankets-and-the-boundary-of-mind-2026-07-12
+    exists on disk and in hugo, and the live holders were exactly the two the driver
+    named. No state note was taken on trust.
+
+    THE MINT, AND THE FINDING THAT DECIDED IT. Target concepts/brain-interface-boundary,
+    host for the Markov-blanket boundary formalism, discharging research/markov-blankets-and-the-boundary-of-mind-2026-07-12
     which has sat unconsumed and unowned for 35 days. Its 6 todo.md hits are one cross-reference
-    inside run 955''s notes at L2534 plus five below the Completed header, so no task has ever
-    carried it, and it greps 0 in the Vetoed bank. THE NOTE''S DISTINCTNESS AUDIT IS HALF FALSE,
-    re-measured on disk this run. It claims the instrumental-versus-realist boundary debate
-    is entirely absent corpus-wide. In fact voids/predictive-construction-void already carries
-    Bruineberg and colleagues 2022 at body L100 and reference L143, Kirchhoff and colleagues
-    2018 at body L50 and reference L149, the Pearl-blanket conflation charge verbatim at L100,
-    and the explicit live-debate framing. The note''s own grep evidently covered concepts and
-    topics and missed voids, the documented dedup-misses-threaded-content shape. Genuinely absent
-    and therefore the actual deliverable are Pearl 1988 as a cited source, Friston 2013 Life
-    as we know it, Kirchhoff and Kiverstein 2019 on the boundaries of the mind, Raja and colleagues
-    2021, and the Map''s own thesis that the boundary of information flow is not the boundary
-    of experience. That is a section, not a page, which is why this is a refine and not the
-    expand-topic the note asks for. RAJA IS A FALSE-FRIEND TRAP worth recording, a bare Raja
-    grep returns six files and every hit is Rajan and colleagues 2019 on willed attention or
-    unrelated Sanskrit usage.
-  
-    WHY ZERO CAP COST MATTERED. Live gates via count_section_files at mint, topics 320 of 320
-    AT CAP, concepts 319 of 320 with ONE slot, voids 99 of 100, positions 15 of 80. Directory
-    census confirms concepts holds 320 files of which one is the section index, so 319 real
-    articles and no sidecar inflation there, whereas topics carries topics/non-temporal-consciousness.refinement-log.md
-    and so reads 320 at the gate while holding 319 real articles. Spending the last concepts
-    slot would freeze new-article generation corpus-wide since topics is already frozen, and
-    that is an operator decision. The host was chosen on structure as well as cost, brain-interface-boundary
-    greps 0 for markov, free energy and predictive, and already runs a named challenge series
-    at L118, L124 and L128, so a Markov-blanket challenge slots into an existing pattern. Length
-    measured at mint, host 2595 w soft_warning against concepts 2500 soft and 3500 hard, so
-    905 w of headroom, budget 350 to 500 w. The three alternative hosts were measured and rejected,
-    topics/predictive-processing-and-dualism 4832 w hard_warning and concepts/disguised-property-dualism
-    3627 w hard_warning would both deepen an existing violation, concepts/predictive-processing
-    has 10 w of headroom.
-  
-    CROSS-REVIEW DECLINED EXPLICITLY, fourth run running, and this run actually opened the files
-    rather than counting inbound links. The sign-problem create edited five siblings at 14.27,
-    mental-effort, quantum-zeno-effect, stapp-quantum-mind, timing-gap-problem and motor-control-quantum-zeno.
-    Diffed all five. Three are frontmatter-only plus a related-articles wikilink. The two substantive
-    ones, quantum-zeno-effect and motor-control-quantum-zeno, install Kofman and Kurizki 2000
-    with four verbatim spans, and all four spans plus the Virzi and Denton spans were grep-confirmed
-    present in the source research note, so the note-to-article quote channel is intact rather
-    than invented at write time. All twelve wikilink targets in the new article resolve on disk,
-    so no push-blocker. The new article correctly marks its 25 fs figure as arithmetic performed
-    for the Map and not a published neural parameter, and grades itself coherence-only. Nothing
-    owed.
-  
-    OTHER SOURCES AUDITED AND BLOCKED. Chain has no un-followed research beyond the mint. The
-    08-13 research batch is fully consumed, hypnopompia, descriptive-experience-sampling, agency-budget
-    and moral-census-opacity all landed as articles and the olfactory-void note already has
-    its P3 fold task at L2516. No research-topic has run since 08-13 so no new notes exist.
-    Gap analysis is cap-blocked. Staleness would target files the length band already covers.
-    Orphans are 0. Length returns the standing flagship band, the veto-tagged condense headings
-    and the known false-over-length apex head. Positions has 15 entries audited 2026-08-03 and
-    so sits inside the 30-day window. No applied-apex cluster gap. No promotion from the 28-entry
-    P3 bank was needed at exact-floor-plus-one.
-  
-    CAP-SHADOWED BACKLOG CARRIED FORWARD, re-verified by grepping each slug against the live
-    content tree. analog-quantum-devices retains its owed article half once a topics slot exists,
-    its correction half is the open L2543 task. aggregation-problem-overlapping-minds and bohmian-quantum-equilibrium
-    were re-checked and remain threaded into concepts/manyism and topics/born-rule-and-the-consciousness-interface
-    respectively, so run 954''s threaded reading is the correct one and run 955''s re-listing
-    of them as unconsumed was the over-count. markov-blankets leaves the backlog this run.
-  
-    HYGIENE. pgrep clean of any sibling loop, HEAD 6ba86802a3, the only worktree delta beyond
-    this write is the pre-existing evolution-state bookkeeping edit, kept. Dropped note 953
-    to hold the numbered window at four. ALSO DROPPED the three legacy run_933_note, run_934_note
-    and run_935_note scalars, 19 KB of 12-day-old bloat fully superseded by the numbered window,
-    and run_935_note in particular asserted a chain was already in flight when it was not, a
-    claim that already caused run 954 to nearly miss the anti-zeno note. Re-parsed this state
-    file with yaml.safe_load after writing.'
+    inside run 955''s notes at L2534 plus five below the Completed header, so no task
+    has ever carried it, and it greps 0 in the Vetoed bank. THE NOTE''S DISTINCTNESS
+    AUDIT IS HALF FALSE, re-measured on disk this run. It claims the instrumental-versus-realist
+    boundary debate is entirely absent corpus-wide. In fact voids/predictive-construction-void
+    already carries Bruineberg and colleagues 2022 at body L100 and reference L143,
+    Kirchhoff and colleagues 2018 at body L50 and reference L149, the Pearl-blanket
+    conflation charge verbatim at L100, and the explicit live-debate framing. The
+    note''s own grep evidently covered concepts and topics and missed voids, the documented
+    dedup-misses-threaded-content shape. Genuinely absent and therefore the actual
+    deliverable are Pearl 1988 as a cited source, Friston 2013 Life as we know it,
+    Kirchhoff and Kiverstein 2019 on the boundaries of the mind, Raja and colleagues
+    2021, and the Map''s own thesis that the boundary of information flow is not the
+    boundary of experience. That is a section, not a page, which is why this is a
+    refine and not the expand-topic the note asks for. RAJA IS A FALSE-FRIEND TRAP
+    worth recording, a bare Raja grep returns six files and every hit is Rajan and
+    colleagues 2019 on willed attention or unrelated Sanskrit usage.
+
+    WHY ZERO CAP COST MATTERED. Live gates via count_section_files at mint, topics
+    320 of 320 AT CAP, concepts 319 of 320 with ONE slot, voids 99 of 100, positions
+    15 of 80. Directory census confirms concepts holds 320 files of which one is the
+    section index, so 319 real articles and no sidecar inflation there, whereas topics
+    carries topics/non-temporal-consciousness.refinement-log.md and so reads 320 at
+    the gate while holding 319 real articles. Spending the last concepts slot would
+    freeze new-article generation corpus-wide since topics is already frozen, and
+    that is an operator decision. The host was chosen on structure as well as cost,
+    brain-interface-boundary greps 0 for markov, free energy and predictive, and already
+    runs a named challenge series at L118, L124 and L128, so a Markov-blanket challenge
+    slots into an existing pattern. Length measured at mint, host 2595 w soft_warning
+    against concepts 2500 soft and 3500 hard, so 905 w of headroom, budget 350 to
+    500 w. The three alternative hosts were measured and rejected, topics/predictive-processing-and-dualism
+    4832 w hard_warning and concepts/disguised-property-dualism 3627 w hard_warning
+    would both deepen an existing violation, concepts/predictive-processing has 10
+    w of headroom.
+
+    CROSS-REVIEW DECLINED EXPLICITLY, fourth run running, and this run actually opened
+    the files rather than counting inbound links. The sign-problem create edited five
+    siblings at 14.27, mental-effort, quantum-zeno-effect, stapp-quantum-mind, timing-gap-problem
+    and motor-control-quantum-zeno. Diffed all five. Three are frontmatter-only plus
+    a related-articles wikilink. The two substantive ones, quantum-zeno-effect and
+    motor-control-quantum-zeno, install Kofman and Kurizki 2000 with four verbatim
+    spans, and all four spans plus the Virzi and Denton spans were grep-confirmed
+    present in the source research note, so the note-to-article quote channel is intact
+    rather than invented at write time. All twelve wikilink targets in the new article
+    resolve on disk, so no push-blocker. The new article correctly marks its 25 fs
+    figure as arithmetic performed for the Map and not a published neural parameter,
+    and grades itself coherence-only. Nothing owed.
+
+    OTHER SOURCES AUDITED AND BLOCKED. Chain has no un-followed research beyond the
+    mint. The 08-13 research batch is fully consumed, hypnopompia, descriptive-experience-sampling,
+    agency-budget and moral-census-opacity all landed as articles and the olfactory-void
+    note already has its P3 fold task at L2516. No research-topic has run since 08-13
+    so no new notes exist. Gap analysis is cap-blocked. Staleness would target files
+    the length band already covers. Orphans are 0. Length returns the standing flagship
+    band, the veto-tagged condense headings and the known false-over-length apex head.
+    Positions has 15 entries audited 2026-08-03 and so sits inside the 30-day window.
+    No applied-apex cluster gap. No promotion from the 28-entry P3 bank was needed
+    at exact-floor-plus-one.
+
+    CAP-SHADOWED BACKLOG CARRIED FORWARD, re-verified by grepping each slug against
+    the live content tree. analog-quantum-devices retains its owed article half once
+    a topics slot exists, its correction half is the open L2543 task. aggregation-problem-overlapping-minds
+    and bohmian-quantum-equilibrium were re-checked and remain threaded into concepts/manyism
+    and topics/born-rule-and-the-consciousness-interface respectively, so run 954''s
+    threaded reading is the correct one and run 955''s re-listing of them as unconsumed
+    was the over-count. markov-blankets leaves the backlog this run.
+
+    HYGIENE. pgrep clean of any sibling loop, HEAD 6ba86802a3, the only worktree delta
+    beyond this write is the pre-existing evolution-state bookkeeping edit, kept.
+    Dropped note 953 to hold the numbered window at four. ALSO DROPPED the three legacy
+    run_933_note, run_934_note and run_935_note scalars, 19 KB of 12-day-old bloat
+    fully superseded by the numbered window, and run_935_note in particular asserted
+    a chain was already in flight when it was not, a claim that already caused run
+    954 to nearly miss the anti-zeno note. Re-parsed this state file with yaml.safe_load
+    after writing.'
   last_replenishment_note_956: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks on disk immediately before the write, 28 pending P3,
     the three veto-tagged condense tasks parser-excluded as always. The two holders

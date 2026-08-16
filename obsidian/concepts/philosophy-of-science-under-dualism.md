@@ -4,12 +4,13 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-08-12T19:14:57+00:00
+ai_modified: 2026-08-16T15:00:28+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-defeats-explanation]]"
   - "[[hard-problem-of-consciousness]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[causal-closure]]"
@@ -24,7 +25,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-07-06T20:17:47+00:00
@@ -100,6 +101,16 @@ Physicalists would contest this characterization. They argue that integrated inf
 
 A Lakatosian assessment might therefore classify the materialist consciousness programme as empirically progressive but theoretically degenerating on its most fundamental claim: the promise that physical description will eventually explain experience. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops this point more fully, arguing that the proliferation of competing consciousness theories and the loosening of methodological standards are precisely the signatures Kuhn identified as paradigm crisis. The dualist alternative is not itself a mature research programme in Lakatos's sense — it has fewer specific predictions and less institutional support. But it may be the more honest framework: it acknowledges the explanatory gap as reflecting genuine ontological structure rather than treating it as a temporary embarrassment.
 
+### Can Bayesian Confirmation Break the Deadlock?
+
+Lakatosian appraisal is qualitative: it asks whether a programme's revisions generate new empirical content or merely absorb anomalies. Could Bayesian confirmation theory make that judgement precise, and adjudicate between programmes the evidence otherwise underdetermines? It cannot. Where two programmes are genuinely empirically equivalent they assign the shared evidence the same probability, so the likelihood ratio is one and the posterior odds reproduce the prior odds. The formalism gives [[duhem-quine-underdetermination-consciousness|underdetermination in consciousness science]] a precise expression rather than dissolving it.
+
+The only remaining lever is the prior, and the fifth tenet closes that route rather than opening it. An asymmetric prior favouring physicalism is normally justified by parsimony, which the argument above holds to be domain-relative and unreliable across the boundary in dispute. That constrains both sides equally; it does not license the Map to set its own prior wherever it likes.
+
+The predictivist escape costs more than the Map should want to pay. A Bayesianism sharp enough to reward theories that predicted the evidence over theories built to accommodate it does so by treating already-known evidence as confirmationally inert — and the Map's evidential base is almost entirely old evidence: the conceivability, knowledge, subjectivity and modal arguments, introspective report, the persistence of the explanatory gap. A predictivism strong enough to break the deadlock is one under which the Map's own case stops confirming. The asymmetry is contested in any case; Hitchcock and Sober (2004) tie the alleged defect of accommodation to the risk of overfitting rather than to accommodation as such, which makes the advantage derivative rather than basic.
+
+What remains open is narrower: whether the progressive-versus-degenerating distinction can be quantified rather than judged. Negro (2024), whose Lakatosian model of consciousness science takes prediction versus accommodation as the first of its three appraisal criteria, treats Bayesianism as something that can complement that framework rather than fully combine with it. McKilliam (2025) presses further, arguing that a theory-driven consciousness science may diverge rather than converge even when it is sensitive to Lakatosian norms and updates in Bayesian fashion, and proposing natural-kind reasoning — modelled on the history of thermometry — as a theory-neutral alternative. That objection cuts against the appraisal machinery this section relies on, and the Map records it as unanswered.
+
 ## Relation to Site Perspective
 
 The Unfinishable Map interprets philosophy of science under dualism as revealing limitations in frameworks originally designed for an entirely physical world.
@@ -133,3 +144,6 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Oppenheim, P. & Putnam, H. (1958). "Unity of Science as a Working Hypothesis." In H. Feigl et al. (eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 2. University of Minnesota Press.
 1. Fodor, J. A. (1974). "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)." *Synthese*, 28(2), 97-115.
+1. Hitchcock, C. & Sober, E. (2004). "Prediction Versus Accommodation and the Risk of Overfitting." *The British Journal for the Philosophy of Science*, 55(1), 1-34. https://doi.org/10.1093/bjps/55.1.1
+1. Negro, N. (2024). "(Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science." *Neuroscience of Consciousness*, 2024(1), niae012. https://doi.org/10.1093/nc/niae012
+1. McKilliam, A. (2025). "Natural Kind Reasoning in Consciousness Science: An Alternative to Theory Testing." *Noûs*, 59(3), 634-651 (first published online 2024; cite the 2025 issue of record). https://doi.org/10.1111/nous.12526
