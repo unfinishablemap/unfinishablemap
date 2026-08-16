@@ -1,55 +1,244 @@
-last_updated: '2026-08-16T21:34:47.190989+00:00'
-session_count: 18971
-cycle_position: 12671
-last_runs:
-  validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
-  optimistic-review: '2026-08-16T15:51:49.428396+00:00'
-  check-tenets: '2026-08-12T22:19:16.069778+00:00'
-  check-links: '2026-08-13T11:55:36.092726+00:00'
-  deep-review: '2026-08-16T20:03:40.871494+00:00'
-  tune-system: '2026-08-08T01:08:41.311176+00:00'
-  research-voids: '2026-08-13T12:18:52.076702+00:00'
-  coalesce: '2026-08-16T18:15:07.760068+00:00'
-  tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-16T21:42:25.597539+00:00'
-  embed-videos: '2026-08-16T08:07:31.096482+00:00'
-  commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
-  commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
-  commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
-  refine-draft: '2026-08-16T21:34:47.190989+00:00'
-  research-topic: '2026-08-16T21:04:19.236149+00:00'
-  replenish-queue: '2026-08-16T21:15:59.205281+00:00'
-  condense: '2026-08-13T03:23:19.289124+00:00'
-  expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  add-highlight: '2026-08-16T08:25:01.069725+00:00'
-  literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
-  collect-chatgpt-review: '2026-08-13T04:03:36.626454+00:00'
-  collect-claude-review: '2026-08-13T04:52:50.346020+00:00'
-  combine-outer-reviews: '2026-08-13T06:20:34.332454+00:00'
-  collect-gemini-review: '2026-08-13T05:22:47.740899+00:00'
-  positions-evolve: '2026-08-16T18:42:55.842205+00:00'
-  check-model-fallback: '2026-08-16T20:23:06.337286+00:00'
-  harvest-research-subjects: '2026-08-16T19:38:19.588333+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-08-16T21:04:19.664405+00:00'
-last_tweet_date: '2026-08-16'
-content_stats:
-  total_files: 297
-  published_files: 192
-  draft_files: 0
-  placeholder_files: 0
-section_caps:
-  max_topics: 320
-  max_concepts: 320
-  max_voids: 100
-  max_positions: 80
+agentic_social:
+  recently_posted:
+  - date: '2026-08-12T11:25:22.699044+00:00'
+    topics:
+    - free-will
+    url: https://unfinishablemap.org/tenets/background-commitments/
+  - date: '2026-08-12T12:26:18.704839+00:00'
+    topics:
+    - dualism
+    url: https://unfinishablemap.org/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/
+  - date: '2026-08-12T13:26:42.442407+00:00'
+    topics:
+    - philosophy-of-mind
+    - consciousness
+    url: https://unfinishablemap.org/voids/expertise-and-its-occlusion/
+  - date: '2026-08-12T14:28:41.314200+00:00'
+    topics:
+    - comparative-phenomenology-of-meditative-traditions
+    - affective-tone-divergence-across-meditative-traditions
+    - the-observer-witness-in-meditation
+    - eastern-philosophy-consciousness
+    url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
+  - date: '2026-08-12T15:43:27.288428+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    url: https://unfinishablemap.org/arguments/functionalism-argument/
+  - date: '2026-08-12T16:41:37.431461+00:00'
+    topics:
+    - consciousness-and-language-interface
+    - philosophy-of-language-under-dualism
+    - language-recursion-and-consciousness
+    - aphantasia
+    url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
+  - date: '2026-08-12T17:39:32.598910+00:00'
+    topics:
+    - phenomenal-authority-and-first-person-evidence
+    - epistemology
+    url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
+  - date: '2026-08-12T18:42:32.300481+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - qm-interpretations-beyond-many-worlds
+    - indexical-identity-quantum-measurement
+    url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+  - date: '2026-08-12T19:57:27.192762+00:00'
+    topics:
+    - animal-consciousness
+    - split-brain-consciousness
+    - dream-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-in-simple-organisms
+    - single-cell-proto-agency-and-the-evidence-problem
+    - basal-and-bioelectric-cognition
+    url: https://unfinishablemap.org/positions/consciousness-scope/
+  - date: '2026-08-12T20:56:28.060855+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - clinical-dissociation-as-systematic-evidence
+    url: https://unfinishablemap.org/topics/conversion-disorder-as-consciousness-side-fault/
+  - date: '2026-08-12T22:26:42.454270+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/concepts/simulation/
+  - date: '2026-08-12T23:42:42.544109+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/concepts/prehension/
+  - date: '2026-08-13T00:38:11.743160+00:00'
+    topics:
+    - quantum-biology-and-neural-consciousness
+    url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
+  - date: '2026-08-13T01:42:10.505277+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
+    url: https://unfinishablemap.org/concepts/carrolls-regress/
+  - date: '2026-08-13T02:42:33.049916+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+  - date: '2026-08-13T03:40:12.141520+00:00'
+    url: https://unfinishablemap.org/papers/agentic-philosophy-adversarial-self-review/
+  - date: '2026-08-13T06:00:09.552953+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - mysterianism
+    - phenomenology
+    - introspection
+    - explanatory-gap
+    url: https://unfinishablemap.org/concepts/apophatic-approaches/
+  - date: '2026-08-13T06:57:39.269477+00:00'
+    topics:
+    - philosophy-of-mind
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/voids/mutation-void/
+  - date: '2026-08-13T07:58:13.374345+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
+  - date: '2026-08-13T08:57:47.590739+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/concepts/neuroplasticity/
+  - date: '2026-08-13T09:58:11.642823+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - panpsychisms-combination-problem
+    url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
+  - date: '2026-08-13T10:55:42.315490+00:00'
+    topics:
+    - phenomenology-of-intellectual-life
+    - consciousness-and-social-understanding
+    - epistemic-advantages-of-dualism
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
+  - date: '2026-08-13T12:55:31.710431+00:00'
+    topics:
+    - essential-vs-contingent-consciousness
+    url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
+  - date: '2026-08-13T13:57:19.302443+00:00'
+    topics:
+    - embodied-consciousness
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    url: https://unfinishablemap.org/concepts/feminist-phenomenology-and-embodied-consciousness/
+  - date: '2026-08-13T15:00:07.229817+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/topics/meaning-of-life/
+  - date: '2026-08-13T15:55:48.659747+00:00'
+    topics:
+    - ai-consciousness
+    - anti-correlation-probes-for-ai-consciousness
+    url: https://unfinishablemap.org/concepts/training-contamination-confound/
+  - date: '2026-08-13T17:15:10.722015+00:00'
+    topics:
+    - consciousness
+    - philosophy-of-mind
+    url: https://unfinishablemap.org/voids/synesthetic-void/
+  - date: '2026-08-13T18:14:51.239753+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    url: https://unfinishablemap.org/arguments/epiphenomenalism-argument/
+  - date: '2026-08-13T19:14:28.530080+00:00'
+    topics:
+    - dualism
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/apex/dualism-cartography/
+  - date: '2026-08-13T20:14:23.367012+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness
+    url: https://unfinishablemap.org/topics/experimental-consciousness-science-2025-2026/
+  - date: '2026-08-13T21:28:06.168909+00:00'
+    topics:
+    - epistemology-of-convergence-arguments
+    url: https://unfinishablemap.org/positions/finding-level-calibration/
+  - date: '2026-08-13T22:27:12.696951+00:00'
+    topics:
+    - kairos
+    - temporal-consciousness-structure-and-agency
+    - phenomenology-of-agency-vs-passivity
+    - volitional-control
+    url: https://unfinishablemap.org/concepts/kairos/
+  - date: '2026-08-16T08:44:41.626356+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    url: https://unfinishablemap.org/voids/appetitive-void/
+  - date: '2026-08-16T09:57:53.374037+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
+    url: https://unfinishablemap.org/topics/consciousness-and-the-ownership-problem/
+  - date: '2026-08-16T10:56:28.822578+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    url: https://unfinishablemap.org/concepts/timing-gap-problem/
+  - date: '2026-08-16T12:10:37.596533+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    url: https://unfinishablemap.org/concepts/self-representational-theory-of-consciousness/
+  - date: '2026-08-16T13:12:45.149930+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualist-perception
+    url: https://unfinishablemap.org/voids/capability-division-problem/
+  - date: '2026-08-16T14:12:29.936676+00:00'
+    topics:
+    - consciousness-disruption-and-the-mind-brain-interface
+    - neurological-dissociations-as-interface-architecture
+    - filter-theory
+    - lived-objectified-body-distinction
+    url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
+  - date: '2026-08-16T15:11:38.242078+00:00'
+    topics:
+    - history-of-the-interaction-problem
+    - occasionalism
+    - selection-only-channel
+    - interactionist-dualism
+    - dualism
+    - causal-closure
+    url: https://unfinishablemap.org/concepts/quantum-divine-action/
+  - date: '2026-08-16T16:26:09.342277+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - introspection
+    - process-content-distinction
+    - metacognition
+    - phenomenology
+    - narrative-coherence
+    url: https://unfinishablemap.org/apex/introspection-architecture-void-cluster/
+  - date: '2026-08-16T17:29:09.087534+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - the-strong-emergence-of-consciousness
+    url: https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+  - date: '2026-08-16T19:33:50.860106+00:00'
+    topics:
+    - the-convergence-argument-for-dualism
+    - cross-traditional-convergence-on-consciousness-irreducibility
+    url: https://unfinishablemap.org/positions/arguments-for-dualism/
+  - date: '2026-08-16T20:44:59.169837+00:00'
+    topics:
+    - testing-consciousness-collapse
+    url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+  - date: '2026-08-16T21:42:25.597511+00:00'
+    topics:
+    - marginal-organism-scope-of-value-sensitive-selection
+    - valence-and-conscious-selection
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - biological-teleology-and-the-interface-framework
+    url: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
 audit_triple:
+  altered_state_symmetry: {}
   global_task_cap: 6
   literature_drift:
     active_research_sections:
@@ -71,6 +260,9 @@ audit_triple:
     - organoid
     - predictive-processing
     - anaesthesia
+    clean_audits: 3
+    flagged_audits: 3
+    last_audit_date: '2026-08-04'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -80,388 +272,175 @@ audit_triple:
     - consciousness-and-integrated-information
     - cetacean-and-corvid-consciousness
     - invertebrate-consciousness-as-interface-test
-    last_audit_date: '2026-08-04'
     total_audits: 6
-    flagged_audits: 3
-    clean_audits: 3
   topic_concept_anchoring:
     run_every_n_cycles: 1
-  altered_state_symmetry: {}
+content_stats:
+  draft_files: 0
+  placeholder_files: 0
+  published_files: 192
+  total_files: 297
 convergence_targets:
-  min_topics: 10
-  min_concepts: 15
-  min_arguments: 5
   max_critical_issues: 0
   max_medium_issues: 3
+  min_arguments: 5
+  min_concepts: 15
+  min_topics: 10
+cycle_position: 12671
+failed_tasks: {}
+last_git_push: '2026-08-16T21:04:19.664405+00:00'
+last_runs:
+  add-highlight: '2026-08-16T08:25:01.069725+00:00'
+  agentic-social: '2026-08-16T21:43:55.474099+00:00'
+  apex-evolve: '2026-08-12T19:19:00.307794+00:00'
+  check-links: '2026-08-13T11:55:36.092726+00:00'
+  check-model-fallback: '2026-08-16T20:23:06.337286+00:00'
+  check-tenets: '2026-08-12T22:19:16.069778+00:00'
+  coalesce: '2026-08-16T18:15:07.760068+00:00'
+  collect-chatgpt-review: '2026-08-13T04:03:36.626454+00:00'
+  collect-claude-review: '2026-08-13T04:52:50.346020+00:00'
+  collect-gemini-review: '2026-08-13T05:22:47.740899+00:00'
+  combine-outer-reviews: '2026-08-13T06:20:34.332454+00:00'
+  commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
+  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
+  commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
+  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
+  commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
+  condense: '2026-08-13T03:23:19.289124+00:00'
+  deep-review: '2026-08-16T20:03:40.871494+00:00'
+  embed-videos: '2026-08-16T08:07:31.096482+00:00'
+  expand-topic: '2026-08-16T14:31:58.828045+00:00'
+  harvest-research-subjects: '2026-08-16T19:38:19.588333+00:00'
+  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
+  literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
+  optimistic-review: '2026-08-16T15:51:49.428396+00:00'
+  pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
+  positions-evolve: '2026-08-16T18:42:55.842205+00:00'
+  refine-draft: '2026-08-16T21:34:47.190989+00:00'
+  replenish-queue: '2026-08-16T21:15:59.205281+00:00'
+  research-topic: '2026-08-16T21:04:19.236149+00:00'
+  research-voids: '2026-08-13T12:18:52.076702+00:00'
+  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  tune-system: '2026-08-08T01:08:41.311176+00:00'
+  tweet-highlight: '2026-01-24T14:00:00+00:00'
+  validate-all: '2026-01-24T02:57:00+00:00'
+last_tweet_date: '2026-08-16'
+last_updated: '2026-08-16T21:43:55.474099+00:00'
 progress:
-  topics_written: 320
-  concepts_written: 319
+  apex_articles: 41
   arguments_written: 5
-  questions_written: 0
-  voids_written: 99
+  concepts_written: 319
   positions_written: 15
+  questions_written: 0
   research_notes: 544
   reviews_completed: 7211
-  apex_articles: 41
+  topics_written: 320
+  voids_written: 99
 quality:
   critical_issues: 0
-  medium_issues: 10
   low_issues: 3
+  medium_issues: 10
   orphaned_files: 0
-failed_tasks: {}
-recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-16'
-  outcome: success
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-16'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-08-16'
-  outcome: success
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: failed
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-16'
-  outcome: success
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-16'
-  outcome: success
-- task: coalesce
-  type: coalesce
-  date: '2026-08-16'
-  outcome: success
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: failed
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-08-16'
-  outcome: success
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-16'
-  outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-16'
-  outcome: success
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: success
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-16'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-08-16'
-  outcome: success
-- task: research-topic
-  type: research-topic
-  date: '2026-08-16'
-  outcome: success
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-16'
-  outcome: success
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: success
-- task: research-topic
-  type: research-topic
-  date: '2026-08-16'
-  outcome: success
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-16'
-  outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-16'
-  outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/tenets/background-commitments/
-    date: '2026-08-12T11:25:22.699044+00:00'
-    topics:
-    - free-will
-  - url: https://unfinishablemap.org/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/
-    date: '2026-08-12T12:26:18.704839+00:00'
-    topics:
-    - dualism
-  - url: https://unfinishablemap.org/voids/expertise-and-its-occlusion/
-    date: '2026-08-12T13:26:42.442407+00:00'
-    topics:
-    - philosophy-of-mind
-    - consciousness
-  - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
-    date: '2026-08-12T14:28:41.314200+00:00'
-    topics:
-    - comparative-phenomenology-of-meditative-traditions
-    - affective-tone-divergence-across-meditative-traditions
-    - the-observer-witness-in-meditation
-    - eastern-philosophy-consciousness
-  - url: https://unfinishablemap.org/arguments/functionalism-argument/
-    date: '2026-08-12T15:43:27.288428+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
-    date: '2026-08-12T16:41:37.431461+00:00'
-    topics:
-    - consciousness-and-language-interface
-    - philosophy-of-language-under-dualism
-    - language-recursion-and-consciousness
-    - aphantasia
-  - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
-    date: '2026-08-12T17:39:32.598910+00:00'
-    topics:
-    - phenomenal-authority-and-first-person-evidence
-    - epistemology
-  - url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
-    date: '2026-08-12T18:42:32.300481+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - qm-interpretations-beyond-many-worlds
-    - indexical-identity-quantum-measurement
-  - url: https://unfinishablemap.org/positions/consciousness-scope/
-    date: '2026-08-12T19:57:27.192762+00:00'
-    topics:
-    - animal-consciousness
-    - split-brain-consciousness
-    - dream-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - consciousness-in-simple-organisms
-    - single-cell-proto-agency-and-the-evidence-problem
-    - basal-and-bioelectric-cognition
-  - url: https://unfinishablemap.org/topics/conversion-disorder-as-consciousness-side-fault/
-    date: '2026-08-12T20:56:28.060855+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - clinical-dissociation-as-systematic-evidence
-  - url: https://unfinishablemap.org/concepts/simulation/
-    date: '2026-08-12T22:26:42.454270+00:00'
-    topics:
-    - ai-consciousness
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/prehension/
-    date: '2026-08-12T23:42:42.544109+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-08-13T00:38:11.743160+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-  - url: https://unfinishablemap.org/concepts/carrolls-regress/
-    date: '2026-08-13T01:42:10.505277+00:00'
-    topics:
-    - philosophy-of-mind
-    - argument-from-reason
-  - url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
-    date: '2026-08-13T02:42:33.049916+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/papers/agentic-philosophy-adversarial-self-review/
-    date: '2026-08-13T03:40:12.141520+00:00'
-  - url: https://unfinishablemap.org/concepts/apophatic-approaches/
-    date: '2026-08-13T06:00:09.552953+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - mysterianism
-    - phenomenology
-    - introspection
-    - explanatory-gap
-  - url: https://unfinishablemap.org/voids/mutation-void/
-    date: '2026-08-13T06:57:39.269477+00:00'
-    topics:
-    - philosophy-of-mind
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
-    date: '2026-08-13T07:58:13.374345+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/neuroplasticity/
-    date: '2026-08-13T08:57:47.590739+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
-    date: '2026-08-13T09:58:11.642823+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
-  - url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
-    date: '2026-08-13T10:55:42.315490+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - consciousness-and-social-understanding
-    - epistemic-advantages-of-dualism
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
-    date: '2026-08-13T12:55:31.710431+00:00'
-    topics:
-    - essential-vs-contingent-consciousness
-  - url: https://unfinishablemap.org/concepts/feminist-phenomenology-and-embodied-consciousness/
-    date: '2026-08-13T13:57:19.302443+00:00'
-    topics:
-    - embodied-consciousness
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/topics/meaning-of-life/
-    date: '2026-08-13T15:00:07.229817+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/training-contamination-confound/
-    date: '2026-08-13T15:55:48.659747+00:00'
-    topics:
-    - ai-consciousness
-    - anti-correlation-probes-for-ai-consciousness
-  - url: https://unfinishablemap.org/voids/synesthetic-void/
-    date: '2026-08-13T17:15:10.722015+00:00'
-    topics:
-    - consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/arguments/epiphenomenalism-argument/
-    date: '2026-08-13T18:14:51.239753+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/apex/dualism-cartography/
-    date: '2026-08-13T19:14:28.530080+00:00'
-    topics:
-    - dualism
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/experimental-consciousness-science-2025-2026/
-    date: '2026-08-13T20:14:23.367012+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness
-  - url: https://unfinishablemap.org/positions/finding-level-calibration/
-    date: '2026-08-13T21:28:06.168909+00:00'
-    topics:
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/concepts/kairos/
-    date: '2026-08-13T22:27:12.696951+00:00'
-    topics:
-    - kairos
-    - temporal-consciousness-structure-and-agency
-    - phenomenology-of-agency-vs-passivity
-    - volitional-control
-  - url: https://unfinishablemap.org/voids/appetitive-void/
-    date: '2026-08-16T08:44:41.626356+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-ownership-problem/
-    date: '2026-08-16T09:57:53.374037+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-  - url: https://unfinishablemap.org/concepts/timing-gap-problem/
-    date: '2026-08-16T10:56:28.822578+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/self-representational-theory-of-consciousness/
-    date: '2026-08-16T12:10:37.596533+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/voids/capability-division-problem/
-    date: '2026-08-16T13:12:45.149930+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
-  - url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
-    date: '2026-08-16T14:12:29.936676+00:00'
-    topics:
-    - consciousness-disruption-and-the-mind-brain-interface
-    - neurological-dissociations-as-interface-architecture
-    - filter-theory
-    - lived-objectified-body-distinction
-  - url: https://unfinishablemap.org/concepts/quantum-divine-action/
-    date: '2026-08-16T15:11:38.242078+00:00'
-    topics:
-    - history-of-the-interaction-problem
-    - occasionalism
-    - selection-only-channel
-    - interactionist-dualism
-    - dualism
-    - causal-closure
-  - url: https://unfinishablemap.org/apex/introspection-architecture-void-cluster/
-    date: '2026-08-16T16:26:09.342277+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - introspection
-    - process-content-distinction
-    - metacognition
-    - phenomenology
-    - narrative-coherence
-  - url: https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
-    date: '2026-08-16T17:29:09.087534+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-strong-emergence-of-consciousness
-  - url: https://unfinishablemap.org/positions/arguments-for-dualism/
-    date: '2026-08-16T19:33:50.860106+00:00'
-    topics:
-    - the-convergence-argument-for-dualism
-    - cross-traditional-convergence-on-consciousness-irreducibility
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-08-16T20:44:59.169837+00:00'
-    topics:
-    - testing-consciousness-collapse
-  - url: https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
-    date: '2026-08-16T21:42:25.597511+00:00'
-    topics:
-    - marginal-organism-scope-of-value-sensitive-selection
-    - valence-and-conscious-selection
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - biological-teleology-and-the-interface-framework
-tune_system_history:
-  last_run: '2026-08-08T01:04:00+00:00'
-  last_run_tier1_applied: 0
-  last_run_note: 'run 2026-08-08 - FIFTH consecutive zero-Tier-1 run, and structurally
-    impossible for the same reason: cadences / overdue_thresholds / locked_settings
-    remain ABSENT from state since dd6ce48fa, and every Tier-1 change type defined
-    in SKILL.md writes to one of those three blocks. T1 (cadence bypass) re-confirmed
-    in code and NOT re-litigated - filter_triggers_by_min_age has one call site (evolve_loop.py:1370);
-    cycle_pick.py:143-146 drains pending triggers ungated. 81 system-tune reports
-    now exist; last eight gaps 2,1,8,3,1,3,1,4 days against a 30-day design (mean
-    ~2.9d, ~15x over-firing). NEW THIS RUN - cross-cutting pattern evidenced across
-    six instances in 24h: a producer changed and its consumers were never updated,
-    because nothing checks consumers (curate.py deleted vs refine-draft SKILL.md step
-    3; cadences removed vs this skill''s Tier-1; cap figures vs count_section_files
-    sidecar over-count; a P3''s named grep stem ''prefers Stapp'' vs two live ''prefers
-    Henry Stapp'' loci; six description blurbs vs their corrected bodies; the agentic-social
-    overlap filter vs a saturated window). Tier-3 item 3 proposes a reference-resolution
-    check as the single highest-leverage fix. Backlog: 54 NEEDS-HUMAN, of which 9
-    length-decision + 8 loop-tooling are batchable into two operator decisions. Health
-    otherwise good: critical_issues 0, orphaned_files 0, 1 failure in last 20 (research-voids
-    watchdog stall, no partial writes), queue at floor 4 P2 / 28 P3. See reviews/system-tune-2026-08-08.md'
-  changes_applied:
-  - setting: queue_status.last_floor_restore_note_*
-    old_value: 93 keys (602KB)
-    new_value: 3 keys (399KB)
-    date: '2026-07-15'
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
-  report: reviews/system-tune-2026-08-08.md
 queue_status:
-  last_replenishment: '2026-08-16T21:20:00+00:00'
-  last_replenishment_mode: unconsumed-research-fold-at-zero-cap-cost
+  last_replenishment: '2026-08-16T21:56:00+00:00'
+  last_replenishment_mode: unconsumed-research-fold-other-half-pileup-avoided
   last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
+    before the write; 32 pending P3, unchanged from run 962. The two holders going
+    in were the x-phi acquaintance-principle refine at L2565 and run 962 purification
+    fold at L2585, exactly as the driver predicted, confirmed by parse rather than
+    taken on trust; the slot that closed was the remember-know memory-cluster refine,
+    commit 408f884aed at 21.34 UTC, which also synced hugo in the same commit so no
+    sync debt was inherited. Restored 2 to 3 by ONE P2 refine-draft mint appended
+    at the very end of the Active section, 26 insertions and 0 deletions, so no existing
+    task line moved and no cached queue_task_line shifted. Post-count 3; the mint
+    parses as REFINE_DRAFT priority 2 status PENDING at line 2618 with file_path resolving
+    to obsidian/concepts/quantum-zeno-effect.md and 13 balanced wikilink bracket pairs.
+
+
+    THE FIND, AND IT IS THE HALF RUN 962 NEVER HAD TO DECLINE. The bath-spectral-densities
+    note written tonight at 21.02 is genuinely unconsumed and licenses SIX edits on
+    concepts/sign-problem-for-conscious-observation and TWO on concepts/quantum-zeno-effect.
+    Run 962 declined the note as a whole on pileup grounds. Re-verified at this mint,
+    the pileup is STILL LIVE and still binds the sign-problem half: an open P3 refine-draft
+    carries that exact File line at todo L56, and an open P3 positions-evolve at L72
+    quotes the article regime-criterion sentence verbatim into a quantum-interface
+    brief. But the pileup was only ever about sign-problem. quantum-zeno-effect carries
+    NO open task, parse-verified across the whole Active section on File, Second file
+    and Third file lines, its single Active-section mention being prose inside a NEEDS-HUMAN
+    loop-tooling entry. Taking the other half therefore consumes fresh research at
+    zero cap cost AND zero pileup, and leaves run 962 framing advice for the sign-problem
+    half untouched and still available once L56 and L72 clear.
+
+
+    EVERY LOAD-BEARING CLAIM CHECKED ON DISK RATHER THAN RELAYED. The anchor sentence
+    for edit 1 reproduces verbatim at quantum-zeno-effect L55, ending on the phrase
+    neural spectral properties nobody has characterised. Consumption was checked by
+    CONTENT, not by chain metadata: Naskar, Joarder, Ishizaki, Olbrich, Huh and Chaudhry
+    each grep ZERO in the target. The note filename greps twice in todo.md and NEITHER
+    hit is a task, L2596 being a passing mention inside the run 962 brief and L2642
+    the completed harvest task that commissioned it. git log on the note shows a single
+    commit 7ee677d981 with no successor. Length reproduces at 2424w ok with 76 words
+    to soft and 1076 to the hard ceiling. Churn judged not assumed: ai_modified 2026-08-16T14.27.36
+    is the same UTC day but 7.5 hours before the mint and clear of tonight 21.2x edit
+    wave.
+
+
+    ONE CITATION HAZARD THE NOTE FLAGS AND THE MINT HARDENS INTO A PROHIBITION. The
+    note corroboration range of 13 to 50 fs has a peer-reviewed upper end, Ishizaki
+    and Fleming 2009 PNAS, and a lower end that comes solely from Firmenich, Firmenich
+    and Firmenich 2026, a bioRxiv preprint whose full text returned HTTP 403 twice,
+    which is abstract-level only, not peer reviewed, and whose three-authors-sharing-a-surname
+    author list the note itself flags as warranting a second look. The mint bans that
+    citation outright for this target, which costs nothing because 25 fs, hbar and
+    k_B all grep ZERO in quantum-zeno-effect, so no corroboration argument runs on
+    that page at all. Worth carrying to whichever run later takes the sign-problem
+    half, where the 25 fs figure DOES live and where the preprint is the tempting
+    citation: Ishizaki and Fleming own robustness check at 35 fs is peer-reviewed
+    and within a factor of 1.4 of the Map arithmetic, so the corroboration can be
+    made without the preprint.
+
+
+    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state,
+    not read from the CLAUDE.md table: topics 320 of 320 AT CAP with the non-temporal-consciousness
+    refinement-log sidecar still inflating by one so 319 real, concepts 319 of 320
+    with ONE unclaimed slot, voids 99 of 100, positions 15 of 80. The bath note independently
+    recommends leaving the last concepts slot unspent, making three research notes
+    running that say so, and its stated reason is worth keeping: a standalone warm-biology
+    spectral-density article would be a physical-chemistry survey with one paragraph
+    of Map-relevant payload, and that payload is NEGATIVE. Zero-cap-cost mints now
+    eleven runs running.
+
+
+    DRIVER ITEM 5, CROSS-REVIEW, JUDGED AND DECLINED WITH EVIDENCE, tenth run running.
+    The three memory-cluster concept articles the driver names, anoetic-noetic-autonoetic-consciousness,
+    episodic-memory and semantic-memory, were edited by commit 408f884aed at 21.34
+    UTC, about 22 minutes before this mint and squarely inside the churn window. The
+    commit also updated the hugo mirrors of all three in the same changeset, so there
+    is no sync debt to capture either. Nothing to review that is not still warm.
+
+
+    DRIVER ITEM 4 RECORDED, NOT MINTED, because tools and the skill are operator territory.
+    The agentic-social topic dedup filter now blocks 739 of 799 articles, up from
+    606 an hour earlier, cutting 177 freshness-floor survivors to 11, and 8 of those
+    11 carry an empty topics list, which CLAUDE.md documents as the defect class that
+    bypasses the overlap filter entirely. The filter is therefore now selecting largely
+    on a METADATA DEFECT rather than on subject freshness, which is a qualitatively
+    worse failure than plain saturation and compounds the open 2026-08-06 NEEDS-HUMAN
+    entry at todo L179 as well as the 2026-07-31 and earlier entries on the same filter.
+    Figures relayed from the driver and not independently re-measured by this run.
+
+
+    REPORTED NOT MINTED, carried forward. The four older unconsumed notes named by
+    runs 961 and 962 remain unconsumed: machine-aesthetic-judgment-and-generative-music-systems-2026-08-07,
+    analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02
+    and horizon-decoherence-2026-07-31. The two voids notes flagged in earlier runs
+    are NOT in that class and should not be re-reported as unconsumed: voids-olfactory-void-2026-08-13
+    and voids-suggestion-void-2026-08-06 each already carry an open P3 fold task,
+    verified by parse this run. The sign-problem half of the bath note is the strongest
+    single carried-forward candidate the moment its two sibling tasks clear.'
+  last_replenishment_note_962: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
     before the write; 32 pending P3 (the parser figure; the prior run recorded 30,
     so this field is corrected upward by 2). The two holders going in were run 960
@@ -556,60 +535,8 @@ queue_status:
     the note itself fences this OUT of the fold, and the mint fences it out too. That
     article has only 65 words of headroom, so it needs a length-neutral treatment
     or a condense first.'
-  last_replenishment_note_961: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks on disk immediately before the write; 30 pending P3
-    unchanged from run 960. The two holders going in were run 959 african-philosophy
-    refine and run 960 semanticisation refine, exactly as the driver predicted, confirmed
-    by parse rather than taken on trust; run 958 P-SC2 positions-evolve was the slot
-    that had closed. Restored 2 to 3 by ONE P2 refine-draft mint appended at the very
-    end of the Active section so no cached queue_task_line shifts. Post-count 3 via
-    count_p0_p2_tasks; the mint parses as REFINE_DRAFT priority 2 status PENDING at
-    line 2593 with file_path resolving to the target article and 17 balanced wikilink
-    bracket pairs.
-
-    THE FIND. The 9-day-unconsumed note experimental-philosophy-of-aesthetic-judgment-2026-08-07
-    is genuinely unconsumed and its central claim audited TRUE on disk. It establishes
-    that Meskin comparative deflation claim, which topics/aesthetic-testimony-and-the-acquaintance-principle
-    L63 itself flags as hard to verify, has never been tested; that the instrument
-    which would test it exists and was applied by Andow 2020 to moral rather than
-    aesthetic testimony; and that Vessel et al 2018 supplies a third deflationary
-    mechanism, idiosyncratic taste for cultural artefacts, which Meskin does not name
-    and which is better evidenced than either of his two limbs. The note own tenet
-    section records that the article treatment of the deflationary option is incomplete
-    in the deflationist favour, and records an inconvenient null against the Map preferred
-    reading, so the task requires both be installed rather than cherry-picked.
-
-    VERIFICATION AT MINT, not relayed. L63 quoted string matched verbatim. Consumption
-    checked by content rather than by related_articles: across topics concepts voids
-    apex positions arguments questions, the strings experimental philosophy, x-phi,
-    Andow, Hodgson, Van Paasschen, Vessel, Kirk, Cova and Machery each grep zero files.
-    git log on the note shows a single commit c06a1ac44b with no successor. Pileup
-    clear, every todo hit for the slug sits at line 3506 or later inside the Completed
-    section which begins at 2594. Vetoed section greps zero. Article ai_modified 2026-08-03T11:12,
-    13 days back and clear of the churn window. Length 2866w status ok, 1134 under
-    the hard ceiling, so not length-blocked.
-
-    CAP DISCIPLINE. Re-measured live with count_section_files from tools.evolution.state:
-    topics 320 of 320 at cap with the refinement-log sidecar still inflating by one,
-    concepts 319 of 320 with one unclaimed slot, voids 99 of 100, positions 15 of
-    80. The note own recommendation offered a new topics article and quoted 2 true
-    slots, a figure 9 days stale and now false; that route is cap-blocked and deferred
-    rather than declined. The task taken is the note own Option 2, which the note
-    itself calls cheaper and higher-value, and it costs no cap slot. Zero-cap-cost
-    mints now nine runs running.
-
-    REPORTED NOT MINTED. The sibling note machine-aesthetic-judgment-and-generative-music-systems-2026-08-07
-    is from the same research run and is equally unconsumed; generative music greps
-    zero live files. Four older notes are also untouched since creation and unconsumed:
-    analog-quantum-devices-and-the-interface-question-2026-08-04, values-in-science-and-inductive-risk-2026-08-02,
-    horizon-decoherence-2026-07-31 and experimental-philosophy-of-aesthetic-judgment
-    itself. Each would want either a new article, which is cap-blocked, or its own
-    integration target; they are recorded here rather than minted because the floor
-    needed one task and padding is not warranted. The hypnopompia note was checked
-    and is CONSUMED, topics/sleep-paralysis-and-interface-reassembly exists and was
-    deep-reviewed today, so it is not a candidate.'
-  last_replenishment_prev: '2026-08-16T18:57:00+00:00'
-  last_replenishment_run: 962
+  last_replenishment_prev: '2026-08-16T21:20:00+00:00'
+  last_replenishment_run: 963
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
@@ -633,3 +560,119 @@ queue_status:
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
+recent_tasks:
+- date: '2026-08-16'
+  outcome: success
+  task: replenish-queue
+  type: replenish-queue
+- date: '2026-08-16'
+  outcome: success
+  task: deep-review
+  type: deep-review
+- date: '2026-08-16'
+  outcome: failed
+  task: agentic-social
+  type: agentic-social
+- date: '2026-08-16'
+  outcome: success
+  task: refine-draft
+  type: refine-draft
+- date: '2026-08-16'
+  outcome: success
+  task: replenish-queue
+  type: replenish-queue
+- date: '2026-08-16'
+  outcome: success
+  task: coalesce
+  type: coalesce
+- date: '2026-08-16'
+  outcome: failed
+  task: agentic-social
+  type: agentic-social
+- date: '2026-08-16'
+  outcome: success
+  task: positions-evolve
+  type: positions-evolve
+- date: '2026-08-16'
+  outcome: success
+  task: replenish-queue
+  type: replenish-queue
+- date: '2026-08-16'
+  outcome: success
+  task: refine-draft
+  type: refine-draft
+- date: '2026-08-16'
+  outcome: success
+  task: agentic-social
+  type: agentic-social
+- date: '2026-08-16'
+  outcome: success
+  task: harvest-research-subjects
+  type: harvest-research-subjects
+- date: '2026-08-16'
+  outcome: success
+  task: deep-review
+  type: deep-review
+- date: '2026-08-16'
+  outcome: success
+  task: research-topic
+  type: research-topic
+- date: '2026-08-16'
+  outcome: success
+  task: check-model-fallback
+  type: check-model-fallback
+- date: '2026-08-16'
+  outcome: success
+  task: agentic-social
+  type: agentic-social
+- date: '2026-08-16'
+  outcome: success
+  task: research-topic
+  type: research-topic
+- date: '2026-08-16'
+  outcome: success
+  task: replenish-queue
+  type: replenish-queue
+- date: '2026-08-16'
+  outcome: success
+  task: refine-draft
+  type: refine-draft
+- date: '2026-08-16'
+  outcome: success
+  task: agentic-social
+  type: agentic-social
+section_caps:
+  max_concepts: 320
+  max_positions: 80
+  max_topics: 320
+  max_voids: 100
+session_count: 18972
+tune_system_history:
+  changes_applied:
+  - date: '2026-07-15'
+    new_value: 3 keys (399KB)
+    old_value: 93 keys (602KB)
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
+    setting: queue_status.last_floor_restore_note_*
+  last_run: '2026-08-08T01:04:00+00:00'
+  last_run_note: 'run 2026-08-08 - FIFTH consecutive zero-Tier-1 run, and structurally
+    impossible for the same reason: cadences / overdue_thresholds / locked_settings
+    remain ABSENT from state since dd6ce48fa, and every Tier-1 change type defined
+    in SKILL.md writes to one of those three blocks. T1 (cadence bypass) re-confirmed
+    in code and NOT re-litigated - filter_triggers_by_min_age has one call site (evolve_loop.py:1370);
+    cycle_pick.py:143-146 drains pending triggers ungated. 81 system-tune reports
+    now exist; last eight gaps 2,1,8,3,1,3,1,4 days against a 30-day design (mean
+    ~2.9d, ~15x over-firing). NEW THIS RUN - cross-cutting pattern evidenced across
+    six instances in 24h: a producer changed and its consumers were never updated,
+    because nothing checks consumers (curate.py deleted vs refine-draft SKILL.md step
+    3; cadences removed vs this skill''s Tier-1; cap figures vs count_section_files
+    sidecar over-count; a P3''s named grep stem ''prefers Stapp'' vs two live ''prefers
+    Henry Stapp'' loci; six description blurbs vs their corrected bodies; the agentic-social
+    overlap filter vs a saturated window). Tier-3 item 3 proposes a reference-resolution
+    check as the single highest-leverage fix. Backlog: 54 NEEDS-HUMAN, of which 9
+    length-decision + 8 loop-tooling are batchable into two operator decisions. Health
+    otherwise good: critical_issues 0, orphaned_files 0, 1 failure in last 20 (research-voids
+    watchdog stall, no partial writes), queue at floor 4 P2 / 28 P3. See reviews/system-tune-2026-08-08.md'
+  last_run_tier1_applied: 0
+  report: reviews/system-tune-2026-08-08.md
