@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-16T12:11:22.656549+00:00'
-session_count: 18936
-cycle_position: 12655
+last_updated: '2026-08-16T12:39:32.084358+00:00'
+session_count: 18937
+cycle_position: 12656
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-08-13T19:31:53.624697+00:00'
   replenish-queue: '2026-08-16T11:14:34.075612+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  expand-topic: '2026-08-16T10:50:45.848401+00:00'
+  expand-topic: '2026-08-16T12:39:32.084358+00:00'
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
   literature-drift-review: '2026-08-04T05:11:23.710804+00:00'
   collect-chatgpt-review: '2026-08-13T04:03:36.626454+00:00'
@@ -41,7 +41,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-last_git_push: '2026-08-16T08:24:02.481173+00:00'
+last_git_push: '2026-08-16T12:39:32.542282+00:00'
 last_tweet_date: '2026-08-16'
 content_stats:
   total_files: 297
@@ -99,7 +99,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 320
-  concepts_written: 317
+  concepts_written: 318
   arguments_written: 5
   questions_written: 0
   voids_written: 99
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-16'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-16'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -417,10 +417,91 @@ queue_status:
   p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-08-16T11:11:00+00:00'
-  last_replenishment_prev: '2026-08-16T10:50:00+00:00'
-  last_replenishment_run: 955
-  last_replenishment_mode: chain-mint-unconsumed-research
+  last_replenishment: '2026-08-16T12:52:00+00:00'
+  last_replenishment_prev: '2026-08-16T11:11:00+00:00'
+  last_replenishment_run: 956
+  last_replenishment_mode: chain-mint-unconsumed-research-discharge-in-place
+  last_replenishment_note_956: Pre-count P0-P2 equals 2 against the floor of 3, measured live with
+    count_p0_p2_tasks on disk immediately before the write, 28 pending P3, the
+    three veto-tagged condense tasks parser-excluded as always. The two holders
+    going in were run 954's sign-problem expand and run 955's duhem-quine refine;
+    run 953's moral-census-opacity expand completed after 11:11 UTC and dropped
+    the count 3 to 2, the documented replenish-at-floor alternation rather than a
+    deadlock. Restored 2 to 3 by ONE P2 refine-draft chain mint appended at the
+    end of the Active section so no cached queue_task_line shifts. Post-count 3
+    via count_p0_p2_tasks, the mint parses as REFINE_DRAFT priority 2 with its
+    Type and File lines intact, and zero OTHER-typed tasks remain corpus-wide.
+
+    DRIVER PREDICTION 1 AUDITED TRUE. The four-note batch is fully consumed on
+    disk, concepts/agency-budget, concepts/moral-census-opacity,
+    concepts/descriptive-experience-sampling and
+    topics/sleep-paralysis-and-interface-reassembly all exist. No state note was
+    taken on trust.
+
+    THE MINT, AND WHY IT COSTS NO CAP SLOT.
+    research/analog-quantum-devices-and-the-interface-question-2026-08-04 has sat
+    parked 12 days because its nominated deliverable is a topics article and
+    topics reads 320 of 320, AT CAP via tools.evolution.state.count_section_files.
+    But the note's executive summary says the Map's current two sentences need
+    correcting BEFORE any article is written, and that correction is a same-file
+    edit on an already-published page. Target
+    topics/quantum-hardware-and-the-ai-consciousness-coupling, 2129 w status ok
+    against a 3000 soft ceiling, so 871 w of headroom, and the defect strings at
+    L40 and L60 were grep-verified verbatim this run. Three corrections bound into
+    the task. One, that no fixed logical code basis is false because the
+    annealer's measurement basis is fixed at problem-specification time by the
+    user's Ising encoding and the schedule terminates in it. Two, that often no
+    active error correction is a decade out of date because quantum annealing
+    correction exists but works by energy penalty, so the Map's gate-QEC syndrome
+    argument genuinely does not transfer and the anti-interface case must be made
+    from the schedule and from adiabatic robustness instead. Three, that the
+    freeze-out literature forces the distinction between continuity of dynamics
+    and continuity of selection. Net verdict unchanged, one row moves from fail to
+    partial. The article was deep-reviewed three days ago and this survived,
+    because it is an empirical-claim-fidelity defect orthogonal to the metadata
+    and quote lenses, so the task forbids a recently-reviewed no-op.
+
+    SIBLING SWEEP AND PILEUP BOTH CLEARED. The two defect strings return the
+    target plus its hugo mirror as the only content loci across obsidian, archive
+    and hugo; every other hit is the research note, the triggering optimistic
+    review, or workflow prose. No archive twin. The only todo.md hits on the
+    target path are two completed entries.
+
+    CAP-SHADOWED BACKLOG CARRIED FORWARD, unchanged from run 955 and re-verified
+    this run by grepping each slug against the live content tree,
+    markov-blankets-and-the-boundary-of-mind at 35 days wanting concepts,
+    aggregation-problem-overlapping-minds at 29 days,
+    bohmian-quantum-equilibrium-and-non-equilibrium at 28 days, and
+    analog-quantum-devices itself whose article half remains owed once a topics
+    slot exists. Live gates this run, topics 320 of 320 AT CAP, concepts 318 of
+    320 with one of the two slots already claimed by the open sign-problem expand,
+    voids 99 of 100, positions 15 of 80. Note that count_section_files counts
+    topics/non-temporal-consciousness.refinement-log.md as an article, so 319 real
+    articles read as 320 at the gate and the section is functionally frozen for
+    expand-topic.
+
+    CROSS-REVIEW DECLINED EXPLICITLY, third run running. Inbound-link census on
+    the four new articles returns sleep-paralysis 4,
+    descriptive-experience-sampling 3, agency-budget 4, moral-census-opacity 5,
+    all measured by grepping the live content tree rather than trusting the
+    creating fork's report. Each ran its integration chain at creation and several
+    already carry other open tasks, so a cross-review mint would be form over
+    substance and would worsen same-file pileup.
+
+    OTHER SOURCES AUDITED AND BLOCKED. Chain has no un-followed research to expand
+    to cross-review beyond the above. Voids has one free slot but neither voids
+    note wants it, the olfactory-void note recommends fold not create and already
+    has a P3 fold task, and the suggestion-void note already produced an inward P3
+    refine. Gap analysis is cap-blocked. Staleness would target files the length
+    band already covers. Orphans are 0. Length returns 66 content-section
+    hard-plus rows, all the standing flagship band, the three veto-tagged condense
+    tasks and the known false-over-length apex head. Positions has 15 entries
+    audited 2026-08-03, inside the 30-day window. No applied-apex cluster gap.
+
+    HYGIENE. pgrep clean of any sibling loop, HEAD fbd1e65c11, the only worktree
+    delta beyond this write is the pre-existing evolution-state bookkeeping edit,
+    kept. Dropped notes 952 and 951 to hold the rolling note window at four.
+    Re-parsed this state file with yaml.safe_load after writing.
   last_replenishment_note_955: Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks on disk immediately before the write, with 28 pending
     P3. The two holders going in were run 953's moral-census-opacity expand and run
@@ -529,68 +610,6 @@ queue_status:
     loop, the only worktree delta beyond this write is the pre-existing evolution-state
     bookkeeping edit, kept. Dropped note 949 to hold the rolling note window at four.
     Re-parsed this state file after writing.
-  last_replenishment_note_952: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 27 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 951's two
-    promotions (the P-Q5 band-move audit and the vitalism condense) are no longer
-    active, returning the pickable count to 2 — the surviving pair being run 950's
-    hypnopompia expand-topic chain mint and the 2026-08-12 ethics-of-cognitive-enhancement
-    refine, both still pending. Departed from promotion on purpose and by the documented
-    source priority — the 19:36 UTC research-topic completion (commit 76a6695a0f)
-    landed obsidian/research/descriptive-experience-sampling-2026-08-13.md with verdict
-    PROCEED and target_section concepts, and unconsumed research outranks every other
-    mint source. The 947-949 precedent of leaving a fresh note unconsumed for three
-    runs while citing the promotion-only pattern is the named failure mode this run
-    avoids, matching run 950's handling of the hypnopompia note. Restored to 3 by
-    a single P2 expand-topic chain mint appended at the end of the Active section
-    (append position shifts no existing task lines), targeting concepts at gate 315
-    of 320 measured at mint via tools.evolution.state.count_section_files, with the
-    last topics slot explicitly reserved for the open hypnopompia expand in the task
-    text. Dedupe verified clean — no live or archived article for the slug descriptive-experience-sampling,
-    no Vetoed-bank match, no other open task carrying the research note path. The
-    mint binds the note's Gaps section as inherited verification debt, carries the
-    calibration register of the introspective-access wing, and routes the integration
-    chain to the eight consumer files the note re-verified by grep. A single mint
-    restores the floor exactly, so no promotion accompanies it. Post-count P0-P2 equals
-    3 via count_p0_p2_tasks and the minted task parses as EXPAND_TOPIC priority 2
-    with zero Type other blocks corpus-wide, remaining pending P3 count 27 unchanged.
-    Concurrent activity checked, the last five commits are this loop's own lanes (refine-draft,
-    agentic-social, deep-review, refine-draft, research-topic) and none touches the
-    mint. Dropped note 948 to hold the rolling note window at four. Re-parsed this
-    state file after writing.
-  last_replenishment_note_951: Pre-count P0-P2 equals 2 against a floor of 3, measured
-    live with count_p0_p2_tasks after parsing Active Tasks on disk, 25 pending P3,
-    the three veto-tagged condense tasks parser-excluded as always. Run 950's promotion
-    (the P-SC1 Argued-in re-label) completed via commit 94ab841c17, and the earlier
-    apex catalogue entry-24 fix completed via 906e60cf7f, returning the pickable count
-    to 2 — the surviving pair being run 950's hypnopompia expand-topic chain mint
-    and the 2026-08-12 ethics-of-cognitive-enhancement refine, both still pending.
-    Sources re-checked before choosing promotion over minting — task_chains empty,
-    orphaned_files 0, the sole unconsumed research note (hypnopompia) already owned
-    by the open expand task, recent completions all maintenance types, no new chain
-    heads. Restored to 4 by promoting the two topmost pending P3s of the 2026-08-03
-    batch, still the oldest Generated date in the pool, priority digit only, no re-scope,
-    no mint, no section slot consumed. Promotion one, todo L400, positions-evolve
-    on obsidian/positions/quantum-interface-calibration-history.md, the P-Q5 band-move
-    audit. Premise re-verified live — the register's 2026-07-31 entry still records
-    credence moderate to high with the stated warrant that the surviving coherence
-    channel rises a band because it survives ChatGPT's objection, and no re-founding
-    or reversion has landed since. Collision clean, the only File-line carrier of
-    the path in the Active section is the promoted task itself. Promotion two, todo
-    L2255, condense on obsidian/concepts/vitalism.md. Premise re-verified live via
-    analyze_length — 2426 words against the 2500 concepts soft threshold, status ok,
-    exactly as minted, so the 74-word headroom claim holds; the task's own remit records
-    a reasoned no-op as the expected outcome if decomposition shows the reference
-    apparatus carrying the count, and the promotion accepts that outcome as a valid
-    close. Collision clean, sole File-line carrier is the task itself, and the do-not-condense-away
-    guards on the 2026-08-02 Dennett and Driesch citation work travel with the task
-    notes unchanged. Post-count P0-P2 equals 4 via count_p0_p2_tasks, remaining pending
-    P3 count 23 (run 950 left 24; the 2026-08-13 P-CS1 mint raised it to 25 before
-    these two promotions). Concurrent activity checked, the last five commits are
-    this loop's own lanes (refine-draft 00:54, agentic-social 00:38, positions-evolve
-    00:29, deep-review 00:12, check-model-fallback 23:52) and none touches either
-    promotion target. Dropped note 947 to hold the rolling note window at four. Re-parsed
-    this state file after writing.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
