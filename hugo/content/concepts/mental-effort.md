@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-30 14:52:44+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-16 14:27:36+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[stapp-quantum-mind]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-07-30 14:52:44+00:00
+lastmod: 2026-08-16 14:27:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -160,6 +160,7 @@ If controlling attention genuinely costs something, something must be doing the 
 
 - [neuroplasticity](/concepts/neuroplasticity/) — Empirical evidence for consciousness-driven brain change
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
+- [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/) — Why effort-as-observation-rate predicts monotonic benefit while the physics predicts a turning point
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ADHD, fatigue, and meditation deficits as interface signatures
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine and theta oscillations in the selection interface
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer

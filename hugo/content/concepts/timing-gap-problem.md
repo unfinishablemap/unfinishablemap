@@ -1,14 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-07-29 03:51:58+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-16 14:27:36+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[stapp-quantum-mind]]'
+- '[[sign-problem-for-conscious-observation]]'
 created: 2026-02-10
 date: &id001 2026-02-15
 description: The 10¹²-fold mismatch between quantum decoherence and neural decision
@@ -22,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:52:35+00:00
-lastmod: 2026-07-29 03:51:58+00:00
+lastmod: 2026-08-16 14:27:36+00:00
 modified: *id001
 related_articles:
 - '[[quantum-neural-timing-constraints]]'
@@ -71,6 +72,8 @@ Different quantum consciousness proposals face the timing gap differently (see [
 **Orch OR** requires sustained quantum coherence in microtubules until gravitational self-collapse occurs. This makes Orch OR highly vulnerable to the timing gap because the mechanism depends on coherence persisting long enough for objective reduction. Perry (2025) has proposed mesoscopic coherent domains with predicted coherence times of 1-10 milliseconds, which would bring quantum timescales into contact with neural oscillations, but this prediction awaits experimental verification.
 
 **[Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/)** avoids sustained coherence requirements. The quantum Zeno effect operates through discrete, repeated observation events rather than through maintaining a coherent state over time. Each observation is instantaneous; the effect accumulates through rapid repetition. If each observation cycle operates at microsecond timescales, hundreds of thousands of observations would fit within a 300-millisecond decision window. Denton et al. (2024) modelled Zeno-mediated coherence protection in cryptochrome proteins—a computational study rather than an experimental demonstration—providing a biological precedent for this mechanism (see the [quantum-zeno-effect](/concepts/quantum-zeno-effect/) for the calibrated framing and the earlier Kominis precedent). The Zeno approach also predicts that sustained attention should feel effortful—a phenomenological signature consistent with the repetitive observation the mechanism requires (see [mental-effort](/concepts/mental-effort/)).
+
+This escape is narrower than it looks, because the observation rate faces a *second* threshold that the decoherence-time comparison does not capture. Being in the Zeno regime at all requires the measurement interval to be short relative to the environment's *correlation* time, not its decoherence time, and the two are distinct quantities. Where the interval is merely comparable to the correlation time, frequent measurement accelerates decay rather than suppressing it—so raising the observation rate does not by itself buy the stabilising side of the effect. Whether a microsecond-scale interval clears that separate bar for warm neural tissue is unknown; no neural correlation time has been measured or computed. The [sign problem](/concepts/sign-problem-for-conscious-observation/) develops what this costs the Map's mechanism, and the [quantum-zeno-effect](/concepts/quantum-zeno-effect/) page carries the physics.
 
 **Fisher's nuclear spin proposal** sidesteps the gap entirely. Phosphorus-31 nuclear spins in Posner molecules have predicted coherence times of hours to possibly a day (Fisher, 2015), though subsequent analysis by Swift et al. (2018) derived shorter upper bounds. Even at reduced estimates, nuclear spin coherence far exceeds neural timescales. The challenge for this proposal is not timing but demonstrating that nuclear spin coherence can influence neural computation.
 

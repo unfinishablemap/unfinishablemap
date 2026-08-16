@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-13 06:27:30+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_modified: 2026-08-16 14:27:36+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[psychophysical-laws]]'
+- '[[sign-problem-for-conscious-observation]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
@@ -30,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-08-13 06:27:30+00:00
+lastmod: 2026-08-16 14:27:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,6 +184,7 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 
 ## Further Reading
 
+- [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/) — Whether the model's observation stabilises or destabilises the attended pattern, and what prediction 7 gains from the question
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer; neural signatures of willed attention

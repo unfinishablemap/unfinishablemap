@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-07-30T14:52:44+00:00
+ai_modified: 2026-08-16T14:27:36+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-30T14:52:44+00:00
@@ -157,6 +157,7 @@ If controlling attention genuinely costs something, something must be doing the 
 
 - [[neuroplasticity]] — Empirical evidence for consciousness-driven brain change
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
+- [[sign-problem-for-conscious-observation]] — Why effort-as-observation-rate predicts monotonic benefit while the physics predicts a turning point
 - [[attention-and-the-consciousness-interface]] — ADHD, fatigue, and meditation deficits as interface signatures
 - [[dopamine-and-the-unified-interface]] — Dopamine and theta oscillations in the selection interface
 - [[attention-as-interface]] — Attention as the interface layer

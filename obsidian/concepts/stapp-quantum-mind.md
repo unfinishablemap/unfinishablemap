@@ -4,13 +4,14 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-13T06:27:30+00:00
+ai_modified: 2026-08-16T14:27:36+00:00
 draft: false
 topics:
   - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[psychophysical-laws]]"
+  - "[[sign-problem-for-conscious-observation]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
@@ -35,7 +36,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-07-16T22:55:04+00:00
@@ -180,6 +181,7 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 
 ## Further Reading
 
+- [[sign-problem-for-conscious-observation]] — Whether the model's observation stabilises or destabilises the attended pattern, and what prediction 7 gains from the question
 - [[psychophysical-laws]] — Comparative analysis; Stapp's model as most developed
 - [[coupling-modes]] — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [[attention-as-interface]] — Attention as the interface layer; neural signatures of willed attention
