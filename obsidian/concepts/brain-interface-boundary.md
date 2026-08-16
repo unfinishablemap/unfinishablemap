@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-07-31T01:37:09+00:00
+ai_modified: 2026-08-16T17:44:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,14 +21,16 @@ concepts:
   - "[[decoherence]]"
   - "[[introspection]]"
   - "[[post-decoherence-selection]]"
+  - "[[predictive-processing]]"
 related_articles:
   - "[[tenets]]"
   - "[[mind-matter-interface]]"
   - "[[brain-specialness-boundary]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
+  - "[[predictive-construction-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-31T01:37:09+00:00
@@ -133,6 +135,18 @@ A further possibility is [[post-decoherence-selection]]: consciousness might act
 
 The epistemological cost is real: compared to pre-decoherence models, the signature of selection is interpretive rather than coherence-dependent, and post-decoherence selection shares its empirical profile with other resolutions of the problem of outcomes (objective collapse, hidden variables, history selection). The framework retains its quantum credentials—the gap is quantum, not classical—while conceding reduced falsifiability. See [[decoherence]] and [[post-decoherence-selection]] for full analysis.
 
+## The Markov-Blanket Challenge
+
+A rival formalism claims to fix where the mind ends without any appeal to consciousness. The Map's answer is that the boundary of information flow is not the boundary of experience: a statistical partition describes across which states a system exchanges signals with its surroundings, and says nothing about which side of itself, if either, is a subject.
+
+Judea Pearl introduced the *Markov blanket* in 1988 as a device for inference over probabilistic graphs — the set of nodes conditioning on which renders a node independent of everything else. In Pearl's hands it is epistemic bookkeeping, a fact about the model rather than about the world. Friston (2013) reappropriated it: any ergodic random dynamical system with short-range couplings develops conditional-independence structure that induces a blanket separating internal from external states, and internal states then *appear to* minimise a variational free-energy functional of their blanket states — the quantity optimised in Bayesian inference. Blanket states divide into sensory and active, and the construct becomes a claim about where the system is. Kirchhoff and Kiverstein (2019) extend it to the mind, offering blanket topology as criteria for demarcating cognitive boundaries — nested, multiscale, and sometimes reaching past the organism into the environment.
+
+Two considerations support the refusal. The first is internal to the formalism, which delivers no single verdict. Kirchhoff and Kiverstein deploy blankets *against* the view that perception and action seal the mind off from its surroundings — a position they attribute to Chalmers, and in blanket-based form to Hohwy — concluding instead that the boundary can extend outward. The same mathematics yields a skull-bounded mind or an environment-involving one according to which variables the modeller admits to the graph. Bruineberg and colleagues (2022) and Raja and colleagues (2021) press this underdetermination from within physicalism; [[predictive-construction-void]] treats their critique in detail.
+
+The second consideration is the Map's own and does not depend on the first. Even with the observer-relativity worry settled and one privileged partition fixed, locating the statistical boundary would not locate the phenomenal one: the framework helps itself to the identification of statistical shielding with mindedness without specifying why the one should confer the other, and mechanistic derivation is the standard it applies elsewhere.
+
+Positioned against the five criteria above, a blanket is a coarse-grained statistical redescription of the physical side of the interface rather than a competitor to it. Blanket topology is indifferent to quantum sensitivity, to attention, and to co-adaptive history: two systems can share a blanket structure while diverging on every criterion above. Friston, Kirchhoff and Kiverstein build physicalist accounts and would reject the interface reading; they are engaged as rivals rather than recruited. Their separate *Markovian monism* thesis — a claim about information geometry, not about where boundaries lie — is treated at [[disguised-property-dualism]] and [[predictive-processing-and-dualism]]; the free-energy principle at [[predictive-processing]].
+
 ## What Would Challenge This View?
 
 The framework would face serious difficulty if:
@@ -180,15 +194,21 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Clinical evidence favouring the interface model
 - [[attention-and-the-consciousness-interface]] — How attention disorders reveal interface architecture
 - [[comparative-consciousness-and-interface-differences]] — How interface boundaries vary across species and neural architectures
+- [[predictive-construction-void]] — The Markov-blanket formalism and the instrumental-versus-realist critique of it
 
 ## References
 
+1. Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The Emperor's New Markov Blankets. *Behavioral and Brain Sciences*, 45, e183.
 1. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
 1. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+1. Friston, K. (2013). Life as we know it. *Journal of the Royal Society Interface*, 10(86), 20130475.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Kirchhoff, M.D., & Kiverstein, J. (2019). How to determine the boundaries of the mind: a Markov blanket proposal. *Synthese*, 198(5), 4791-4810.
+1. Pearl, J. (1988). *Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference*. Morgan Kaufmann.
+1. Raja, V., Valluri, D., Baggs, E., Chemero, A., & Anderson, M.L. (2021). The Markov blanket trick: On the scope of the free energy principle and active inference. *Physics of Life Reviews*, 39, 49-72.
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267-1305.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.

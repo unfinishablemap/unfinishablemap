@@ -3,7 +3,8 @@ title: Research Notes - Markov Blankets and the Boundary of Mind
 created: 2026-07-12
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-16T17:44:49+00:00
 ---
 
 # Research: Markov Blankets and the Boundary of Mind
@@ -138,7 +139,8 @@ Target section: **concepts/** (this page is the Markov-blanket *home*; predictiv
 ## Distinctness (confirmed)
 
 - **Not covered as a dedicated page.** Corpus grep shows Markov material lives in `concepts/predictive-processing.md`, `topics/predictive-processing-and-dualism.md`, and `concepts/disguised-property-dualism.md`, but that coverage is about **Markovian monism** — Friston/Wiese/Hobson's (2020, *Entropy*) *qualia-metaphysics* claim that blanketed systems have dual information geometries, which the Map diagnoses as disguised property dualism. That is a **distinct thesis** from the **Markov blanket as a boundary-of-mind formalism** (where the self/mind *ends*), which is nowhere treated as its own subject.
-- **The boundary/instrumental-vs-realist debate is entirely absent**: no mention of Pearl 1988, "Life as we know it" (2013), the nested "Markov blankets of life," Kirchhoff & Kiverstein's boundaries-of-mind proposal, Bruineberg et al. 2022, or Raja et al. 2021 anywhere in the corpus.
+- **CORRECTED 2026-08-16 — the boundary/instrumental-vs-realist debate is partly covered, not "entirely absent" as this note originally claimed**; the original grep evidently covered `concepts/` and `topics/` but missed the voids section. The existing carrier is the void article `predictive-construction-void`, which already treats Kirchhoff et al. 2018 (body L50, reference L149) and Bruineberg et al. 2022 (body L100, reference L143) — L100 states the instrumental/realist charge in the Map's own words and closes with the "the debate is live" framing, so none of that material should be re-imported. Genuinely absent corpus-wide at the time of correction were Pearl 1988 as a cited primary source, Friston's "Life as we know it" (2013), Kirchhoff & Kiverstein's boundaries-of-mind proposal (2019), and Raja et al. 2021 — and note that a bare `Raja` grep returns only false friends (Rajan et al. 2019 on willed attention).
+- **Consumed 2026-08-16.** Because `topics/` was at cap and `concepts/` had one slot left, this note was consumed by a refine rather than the standalone expand-topic recommended below: the genuinely-absent material became "The Markov-Blanket Challenge" section of `concepts/brain-interface-boundary`. A future reader should not re-mint a standalone page without first re-reading that section.
 - **Cross-references for the expand-topic writer**:
   - [[predictive-processing]] and [[predictive-processing-and-dualism]] — the FEP/active-inference home; Markovian *monism* lives there. Point back to it and explicitly distinguish boundary-formalism (this page) from qualia-monism (there) to avoid overlap.
   - [[brain-interface-boundary]] — the Map's own interface/boundary concept; this is the rival the new page positions against. **No dedicated `free-energy-principle` article exists** (FEP is treated inside predictive-processing); do not link a non-existent page.

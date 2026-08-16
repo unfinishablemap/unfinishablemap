@@ -10,6 +10,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-16 17:45 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Word count**: 2595 → 3187 (+592 net; soft_warning retained, 313 w under hard 3500). Decomposed: +466 section prose, +110 reference apparatus (5 new entries), +16 cross-links and frontmatter.
+- **Source note**: [markov-blankets-and-the-boundary-of-mind-2026-07-12](/research/markov-blankets-and-the-boundary-of-mind-2026-07-12/) (unconsumed 35 days)
+- **Published**: yes
+
+**Added `## The Markov-Blanket Challenge`** between the Decoherence Challenge and *What Would Challenge This View?*, so the rival boundary-formalism is answered before the falsifier section. The host previously returned zero hits for `markov`, `free energy`, and `predictive` despite its subject being where the interface sits. Arc: Pearl 1988 (an inference device over probabilistic graphs) → Friston 2013 (reappropriation as a boundary of self-organising systems) → Kirchhoff & Kiverstein 2019 (extension to the boundary of *mind*) → the Map's answer, that the boundary of information flow is not the boundary of experience.
+
+**Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)) — Friston / Kirchhoff & Kiverstein: mode-mixed.** Mode One opens the reply: the formalism delivers no single verdict, since Kirchhoff & Kiverstein deploy blankets *against* the bounded-mind reading they attribute to Chalmers and to Hohwy, so the same mathematics yields a skull-bounded or an environment-involving mind according to the modeller's choice of variables. Mode Two carries the middle: the framework helps itself to the identification of statistical shielding with mindedness without specifying why the one should confer the other, against its own standard of mechanistic derivation. Mode Three declares the residue: even with observer-relativity settled, locating the statistical boundary would not locate the phenomenal one. No mode vocabulary appears in the article body.
+
+**Distinctness handled by pointer, not re-import.** Bruineberg et al. 2022 and Raja et al. 2021 are cited as pressing the underdetermination from *within physicalism*, with the critique itself left where it already lives in [predictive-construction-void](/voids/predictive-construction-void/) (body L100). Cross-link made reciprocal. *Markovian monism* is explicitly marked as a distinct thesis and pointed to [disguised-property-dualism](/concepts/disguised-property-dualism/) and [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/); FEP pointed to [predictive-processing](/concepts/predictive-processing/), since no `free-energy-principle` article exists.
+
+**Co-optation firewall applied** ([writing-style](/project/writing-style/)): Friston is on the predictive-processing roster. The section states that Friston, Kirchhoff and Kiverstein build physicalist accounts and would reject the interface reading, and engages them as rivals rather than recruiting them.
+
+**Citations — all five verified at the DOI registry of record (Crossref) plus OpenAlex/EuropePMC; publisher pages returned 403.** Friston 2013, *J. R. Soc. Interface* 10(86), 20130475 — confirmed exactly, and the paraphrase checked against the abstract, preserving Friston's own "appear to" hedge on free-energy minimisation. Raja et al. 2021, *Physics of Life Reviews* 39, 49–72 — author order and the "Markov blanket trick" framing confirmed against the abstract. Bruineberg et al. 2022, *BBS* 45, e183 — matches the entry already in the voids article. Pearl 1988, Morgan Kaufmann — confirmed. Kirchhoff & Kiverstein: cited (2019) per the online-first and canonical year, with the final print locus *Synthese* 198(5), 4791–4810 (Crossref records `published-print` as 2021-05; the DOI disambiguates).
+
+**Note correction fed back upstream.** The source note's "Distinctness (confirmed)" section claimed the boundary debate was "entirely absent" corpus-wide; that was false for the voids section. Corrected in place, naming `predictive-construction-void` L50/L100 as the existing carriers and recording that the note is now consumed, so the next reader does not re-mint a standalone page.
+
+**Paraphrase-only, per the note's own gap flag.** The note recorded that no verbatim quotations were extracted and that the Bruineberg instrumental/realist wording and Friston's "blanket states" phrasing were not verbatim-confirmed. Nothing from the note was promoted into quotation marks; the section carries no quoted material.
+
 ## 2026-08-16 17:18 UTC - deep-review
 
 - **Status**: Success

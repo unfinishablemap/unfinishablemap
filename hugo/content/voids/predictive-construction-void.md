@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-06-02 21:25:42+00:00
+ai_modified: 2026-08-16 17:44:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 20:14:29+00:00
-lastmod: 2026-06-02 21:25:42+00:00
+lastmod: 2026-08-16 17:44:49+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -140,6 +140,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [interoceptive-void](/voids/interoceptive-void/) — Construction logic applied to the body's interior
 - [question-formation-void](/voids/question-formation-void/) — Self-applying-apparatus pattern at question generation
 - [relevance-void](/voids/relevance-void/) — Same pattern at selective attention
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why a Markov blanket locates an information-flow boundary rather than the consciousness interface
 
 ## References
 

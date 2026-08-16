@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot determine the bou
 created: 2026-04-16
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-02T21:25:42+00:00
+ai_modified: 2026-08-16T17:44:49+00:00
 last_deep_review: 2026-07-16T20:14:29+00:00
 draft: false
 topics:
@@ -137,6 +137,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [[interoceptive-void]] — Construction logic applied to the body's interior
 - [[question-formation-void]] — Self-applying-apparatus pattern at question generation
 - [[relevance-void]] — Same pattern at selective attention
+- [[brain-interface-boundary]] — Why a Markov blanket locates an information-flow boundary rather than the consciousness interface
 
 ## References
 
