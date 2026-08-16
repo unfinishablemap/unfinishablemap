@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-16T15:12:16.168033+00:00'
-session_count: 18946
+last_updated: '2026-08-16T15:33:51.995274+00:00'
+session_count: 18947
 cycle_position: 12659
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-08-13T04:15:13.947664+00:00'
   refine-draft: '2026-08-16T15:05:08.653290+00:00'
   research-topic: '2026-08-13T19:31:53.624697+00:00'
-  replenish-queue: '2026-08-16T14:47:18.421974+00:00'
+  replenish-queue: '2026-08-16T15:33:51.995274+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-16'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-08-16'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -446,10 +446,11 @@ queue_status:
     live with count_p0_p2_tasks on disk immediately before the write, 28 pending P3,
     the veto-tagged condense headings parser-excluded as always. The two holders going
     in were run 956''s analog-quantum-devices refine and run 957''s Markov-blanket
-    refine, exactly as the driver predicted, confirmed by parse rather than taken on
-    trust. Restored 2 to 3 by ONE P2 positions-evolve mint appended at the very end
-    of the Active section so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks,
-    the mint parses as POSITIONS_EVOLVE priority 2 with its Type and File lines intact.
+    refine, exactly as the driver predicted, confirmed by parse rather than taken
+    on trust. Restored 2 to 3 by ONE P2 positions-evolve mint appended at the very
+    end of the Active section so no cached queue_task_line shifts. Post-count 3 via
+    count_p0_p2_tasks, the mint parses as POSITIONS_EVOLVE priority 2 with its Type
+    and File lines intact.
 
     DRIVER ITEM 4 AUDITED AND FOUND FALSE, and this is the run''s most important negative
     result. The driver asserted that voids/observation-and-measurement-void L92 commits
@@ -472,45 +473,45 @@ queue_status:
     opened the diff rather than counting inbound links. Commit abc8d64a57 at 15.00
     UTC added a 450 w section to concepts/philosophy-of-science-under-dualism titled
     Can Bayesian Confirmation Break the Deadlock, 16 insertions and 2 deletions, plus
-    three references. All three metadata sets check out, Hitchcock and Sober 2004 BJPS
-    55(1) 1 to 34, Negro 2024 Neuroscience of Consciousness niae012, and McKilliam
-    2025 Noues 59(3) 634 to 651 doi 10.1111/nous.12526 which OpenAlex confirms as first
-    published online 2024 exactly as the article''s own parenthetical says. The prose
-    is hedged throughout, records the McKilliam objection as unanswered rather than
-    absorbing it, and the frontmatter ai_system was correctly extended to a plus-joined
-    pair. Nothing owed.
+    three references. All three metadata sets check out, Hitchcock and Sober 2004
+    BJPS 55(1) 1 to 34, Negro 2024 Neuroscience of Consciousness niae012, and McKilliam
+    2025 Noues 59(3) 634 to 651 doi 10.1111/nous.12526 which OpenAlex confirms as
+    first published online 2024 exactly as the article''s own parenthetical says.
+    The prose is hedged throughout, records the McKilliam objection as unanswered
+    rather than absorbing it, and the frontmatter ai_system was correctly extended
+    to a plus-joined pair. Nothing owed.
 
     THE MINT AND WHY IT BEAT THE ALTERNATIVES. Target positions/subject-census P-SC2,
     discharging follow-on 2 of research/phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03,
     unconsumed 13 days with a single commit 5141fc5d85 and no successor. P-SC2 books
     the subject-pairing debt with four gaps and a shift clause that contemplates only
-    the Map producing the law, while the Map''s own voids/boundary-and-projection already
-    carries the external name for that debt at L60, L102, L116 and its reference at
-    L183. Measured absences, the whole positions tree returns 0 for boundary problem,
+    the Map producing the law, while the Map''s own voids/boundary-and-projection
+    already carries the external name for that debt at L60, L102, L116 and its reference
+    at L183. Measured absences, the whole positions tree returns 0 for boundary problem,
     0 for Gomez-Emilsson, 0 for Fekete and 0 for boundary-and-projection, and subject-census
     itself returns 0 for IIT and 0 for exclusion. So this is a linkage and scope defect
-    rather than a missing literature, which is why it is an update rather than an add
-    and why the budget is under 250 w against 1801 w soft_warning with a 2500 hard
-    ceiling. Both citations verified at OpenAlex this run, Gomez-Emilsson and Percy
-    2023 Frontiers in Human Neuroscience 17 article 1233119 doi 10.3389/fnhum.2023.1233119
-    whose abstract confirms the five specific boundary problems claim, and Fekete van
-    Leeuwen and Edelman 2016 Frontiers in Psychology 7 article 1041 doi 10.3389/fpsyg.2016.01041
+    rather than a missing literature, which is why it is an update rather than an
+    add and why the budget is under 250 w against 1801 w soft_warning with a 2500
+    hard ceiling. Both citations verified at OpenAlex this run, Gomez-Emilsson and
+    Percy 2023 Frontiers in Human Neuroscience 17 article 1233119 doi 10.3389/fnhum.2023.1233119
+    whose abstract confirms the five specific boundary problems claim, and Fekete
+    van Leeuwen and Edelman 2016 Frontiers in Psychology 7 article 1041 doi 10.3389/fpsyg.2016.01041
     which is new to the content tree at 0 hits and whose IIT test-case analysis the
     mint binds to the weaker proliferation-cost form rather than the note''s stronger
     IIT-discharges-the-debt phrasing.
 
     UNCONSUMED RESEARCH CENSUS RUN DIRECTLY ON DISK, NOT INHERITED. Nineteen notes
-    dated 07-31 through 08-13 were checked for article, threading, todo ownership and
-    git successor. Consumed and correctly so, horizon-decoherence folded into concepts/prebiotic-collapse,
-    sentientism, inner-speech-and-anendophasia, descriptive-experience-sampling, moral-census-opacity,
-    agency-budget and hypnopompia all landed as articles or in-place extensions, anti-zeno
-    chained via run 954, bayesian-confirmation discharged by the 15.00 duhem-quine
-    refine, voids-suggestion-void and voids-olfactory-void both owned by open P3 tasks.
-    Genuinely unconsumed at run start were five, values-in-science-and-inductive-risk
+    dated 07-31 through 08-13 were checked for article, threading, todo ownership
+    and git successor. Consumed and correctly so, horizon-decoherence folded into
+    concepts/prebiotic-collapse, sentientism, inner-speech-and-anendophasia, descriptive-experience-sampling,
+    moral-census-opacity, agency-budget and hypnopompia all landed as articles or
+    in-place extensions, anti-zeno chained via run 954, bayesian-confirmation discharged
+    by the 15.00 duhem-quine refine, voids-suggestion-void and voids-olfactory-void
+    both owned by open P3 tasks. Genuinely unconsumed at run start were five, values-in-science-and-inductive-risk
     of 08-02, phenomenal-individuality of 08-03, semanticisation of 08-04, and the
     two aesthetics notes of 08-07. Two of the five turned out to have follow-ons ALREADY
-    LANDED and this is worth carrying forward. The values-in-science note''s first two
-    follow-ons are both live on disk, duhem-quine L94 to L96 now carries the Douglas
+    LANDED and this is worth carrying forward. The values-in-science note''s first
+    two follow-ons are both live on disk, duhem-quine L94 to L96 now carries the Douglas
     direct-versus-indirect analysis and the new demarcation problem via commit 64753dccc0,
     and the methodology-of-consciousness-research L146 hedge with Ward''s four relations
     landed 08-04 with its string family swept. The phenomenal-individuality note''s
@@ -519,23 +520,25 @@ queue_status:
     consumed and only their register-side and bridging follow-ons remain.
 
     RESIDUE RECORDED, NOT MINTED, to hold this run at exact-floor-plus-one. Values-in-science
-    follow-on 3, a positions-evolve registering the justify-versus-cause relation mismatch
-    under P-M2 in positions/methodology-and-calibration, where Ward and justify both
-    grep 0 across the positions tree. Phenomenal-individuality follow-on 3, the Meincke
-    and Dupre Biological Identity bridge for topics/consciousness-and-the-metaphysics-of-individuation
+    follow-on 3, a positions-evolve registering the justify-versus-cause relation
+    mismatch under P-M2 in positions/methodology-and-calibration, where Ward and justify
+    both grep 0 across the positions tree. Phenomenal-individuality follow-on 3, the
+    Meincke and Dupre Biological Identity bridge for topics/consciousness-and-the-metaphysics-of-individuation
     where both names grep 0, and follow-on 4, Kingma''s pregnancy case as a census
     test. The semanticisation note and the two aesthetics notes were not opened in
-    depth this run and remain unconsumed, with the aesthetics pair recommending a targeted
-    revision of topics/aesthetic-testimony-and-the-acquaintance-principle L63 rather
-    than a new page. Any of these five is a legitimate next mint at zero cap cost.
+    depth this run and remain unconsumed, with the aesthetics pair recommending a
+    targeted revision of topics/aesthetic-testimony-and-the-acquaintance-principle
+    L63 rather than a new page. Any of these five is a legitimate next mint at zero
+    cap cost.
 
-    CAP SCARCITY RE-MEASURED LIVE. count_section_files gives topics 320 of 320 AT CAP,
-    concepts 319 of 320 with ONE slot, voids 99 of 100, positions 15 of 80, apex 41.
-    The topics gate still over-counts by one because it admits topics/non-temporal-consciousness.refinement-log.md,
-    so 319 real articles read as 320. The last concepts slot was again not spent. Cap-shadowed
-    backlog carried unchanged, the analog-quantum-devices article half, aggregation-problem
-    and bohmian-quantum-equilibrium which remain threaded per runs 954 and 957 rather
-    than unconsumed, and the markov-blankets article half now owned by the L2549 task.
+    CAP SCARCITY RE-MEASURED LIVE. count_section_files gives topics 320 of 320 AT
+    CAP, concepts 319 of 320 with ONE slot, voids 99 of 100, positions 15 of 80, apex
+    41. The topics gate still over-counts by one because it admits topics/non-temporal-consciousness.refinement-log.md,
+    so 319 real articles read as 320. The last concepts slot was again not spent.
+    Cap-shadowed backlog carried unchanged, the analog-quantum-devices article half,
+    aggregation-problem and bohmian-quantum-equilibrium which remain threaded per
+    runs 954 and 957 rather than unconsumed, and the markov-blankets article half
+    now owned by the L2549 task.
 
     OTHER SOURCES AUDITED AND BLOCKED. No research-topic has run since 08-13 so no
     new notes exist. Gap analysis is cap-blocked in both writable sections. Staleness
