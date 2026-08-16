@@ -1,5 +1,9 @@
-last_updated: '2026-08-16T15:05:08.653290+00:00'
-session_count: 18945
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-16T15:12:16.168033+00:00'
+session_count: 18946
 cycle_position: 12659
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-08-13T18:55:45.424562+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-08-12T19:19:00.307794+00:00'
-  agentic-social: '2026-08-16T15:11:38.242111+00:00'
+  agentic-social: '2026-08-16T15:12:16.168033+00:00'
   embed-videos: '2026-08-16T08:07:31.096482+00:00'
   commission-chatgpt-review: '2026-08-13T02:12:36.530712+00:00'
   commission-claude-review: '2026-08-13T03:12:13.328258+00:00'
@@ -110,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-16'
@@ -188,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-16'
   outcome: success
 agentic_social:
@@ -434,10 +438,116 @@ queue_status:
   p3_tasks: 28
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-08-16T14:52:00+00:00'
-  last_replenishment_prev: '2026-08-16T12:52:00+00:00'
-  last_replenishment_run: 957
-  last_replenishment_mode: unconsumed-research-discharge-in-place-after-false-distinctness-finding
+  last_replenishment: '2026-08-16T15:31:00+00:00'
+  last_replenishment_prev: '2026-08-16T14:52:00+00:00'
+  last_replenishment_run: 958
+  last_replenishment_mode: unconsumed-research-register-linkage-update-at-zero-cap-cost
+  last_replenishment_note_958: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks on disk immediately before the write, 28 pending P3,
+    the veto-tagged condense headings parser-excluded as always. The two holders going
+    in were run 956''s analog-quantum-devices refine and run 957''s Markov-blanket
+    refine, exactly as the driver predicted, confirmed by parse rather than taken on
+    trust. Restored 2 to 3 by ONE P2 positions-evolve mint appended at the very end
+    of the Active section so no cached queue_task_line shifts. Post-count 3 via count_p0_p2_tasks,
+    the mint parses as POSITIONS_EVOLVE priority 2 with its Type and File lines intact.
+
+    DRIVER ITEM 4 AUDITED AND FOUND FALSE, and this is the run''s most important negative
+    result. The driver asserted that voids/observation-and-measurement-void L92 commits
+    the wrong-work error by attributing the natural-kind-reasoning thesis to McKilliam
+    2025 while its reference at L176 carries only the Ergo paper. Verified at OpenAlex
+    by search and by DOI. The Ergo paper, Detecting Introspective Errors in Consciousness
+    Science, doi 10.3998/ergo.7304, IS the paper that argues natural kind reasoning
+    understood as the iterative application of inference to the best explanation can
+    detect introspective errors even in hard cases such as mental imagery. That is
+    verbatim the claim L92 makes, and the reference list carries verbatim the right
+    paper. The corpus research note voids-calibration-void-2026-02-24 L74 to L83 describes
+    the Ergo paper the same way and carries its URL. McKilliam uses natural kind reasoning
+    in BOTH papers, the Noues paper proposing it as an alternative to theory testing
+    and the Ergo paper applying it to introspective error, so the two citations in
+    the corpus are each correctly matched to their own claim. Minting the correction
+    would have rewritten a correct citation, the documented citation-verify-false-negative
+    failure. NOT MINTED, and it should not be re-raised without new evidence.
+
+    CROSS-REVIEW JUDGED AND DECLINED WITH EVIDENCE, fifth run running, and this run
+    opened the diff rather than counting inbound links. Commit abc8d64a57 at 15.00
+    UTC added a 450 w section to concepts/philosophy-of-science-under-dualism titled
+    Can Bayesian Confirmation Break the Deadlock, 16 insertions and 2 deletions, plus
+    three references. All three metadata sets check out, Hitchcock and Sober 2004 BJPS
+    55(1) 1 to 34, Negro 2024 Neuroscience of Consciousness niae012, and McKilliam
+    2025 Noues 59(3) 634 to 651 doi 10.1111/nous.12526 which OpenAlex confirms as first
+    published online 2024 exactly as the article''s own parenthetical says. The prose
+    is hedged throughout, records the McKilliam objection as unanswered rather than
+    absorbing it, and the frontmatter ai_system was correctly extended to a plus-joined
+    pair. Nothing owed.
+
+    THE MINT AND WHY IT BEAT THE ALTERNATIVES. Target positions/subject-census P-SC2,
+    discharging follow-on 2 of research/phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03,
+    unconsumed 13 days with a single commit 5141fc5d85 and no successor. P-SC2 books
+    the subject-pairing debt with four gaps and a shift clause that contemplates only
+    the Map producing the law, while the Map''s own voids/boundary-and-projection already
+    carries the external name for that debt at L60, L102, L116 and its reference at
+    L183. Measured absences, the whole positions tree returns 0 for boundary problem,
+    0 for Gomez-Emilsson, 0 for Fekete and 0 for boundary-and-projection, and subject-census
+    itself returns 0 for IIT and 0 for exclusion. So this is a linkage and scope defect
+    rather than a missing literature, which is why it is an update rather than an add
+    and why the budget is under 250 w against 1801 w soft_warning with a 2500 hard
+    ceiling. Both citations verified at OpenAlex this run, Gomez-Emilsson and Percy
+    2023 Frontiers in Human Neuroscience 17 article 1233119 doi 10.3389/fnhum.2023.1233119
+    whose abstract confirms the five specific boundary problems claim, and Fekete van
+    Leeuwen and Edelman 2016 Frontiers in Psychology 7 article 1041 doi 10.3389/fpsyg.2016.01041
+    which is new to the content tree at 0 hits and whose IIT test-case analysis the
+    mint binds to the weaker proliferation-cost form rather than the note''s stronger
+    IIT-discharges-the-debt phrasing.
+
+    UNCONSUMED RESEARCH CENSUS RUN DIRECTLY ON DISK, NOT INHERITED. Nineteen notes
+    dated 07-31 through 08-13 were checked for article, threading, todo ownership and
+    git successor. Consumed and correctly so, horizon-decoherence folded into concepts/prebiotic-collapse,
+    sentientism, inner-speech-and-anendophasia, descriptive-experience-sampling, moral-census-opacity,
+    agency-budget and hypnopompia all landed as articles or in-place extensions, anti-zeno
+    chained via run 954, bayesian-confirmation discharged by the 15.00 duhem-quine
+    refine, voids-suggestion-void and voids-olfactory-void both owned by open P3 tasks.
+    Genuinely unconsumed at run start were five, values-in-science-and-inductive-risk
+    of 08-02, phenomenal-individuality of 08-03, semanticisation of 08-04, and the
+    two aesthetics notes of 08-07. Two of the five turned out to have follow-ons ALREADY
+    LANDED and this is worth carrying forward. The values-in-science note''s first two
+    follow-ons are both live on disk, duhem-quine L94 to L96 now carries the Douglas
+    direct-versus-indirect analysis and the new demarcation problem via commit 64753dccc0,
+    and the methodology-of-consciousness-research L146 hedge with Ward''s four relations
+    landed 08-04 with its string family swept. The phenomenal-individuality note''s
+    first follow-on landed via commit 68bbc1c7ce, the a-question-the-framework-does-not-ask
+    sentence greps 0 and Godfrey-Smith 2016 is now cited. So both notes are largely
+    consumed and only their register-side and bridging follow-ons remain.
+
+    RESIDUE RECORDED, NOT MINTED, to hold this run at exact-floor-plus-one. Values-in-science
+    follow-on 3, a positions-evolve registering the justify-versus-cause relation mismatch
+    under P-M2 in positions/methodology-and-calibration, where Ward and justify both
+    grep 0 across the positions tree. Phenomenal-individuality follow-on 3, the Meincke
+    and Dupre Biological Identity bridge for topics/consciousness-and-the-metaphysics-of-individuation
+    where both names grep 0, and follow-on 4, Kingma''s pregnancy case as a census
+    test. The semanticisation note and the two aesthetics notes were not opened in
+    depth this run and remain unconsumed, with the aesthetics pair recommending a targeted
+    revision of topics/aesthetic-testimony-and-the-acquaintance-principle L63 rather
+    than a new page. Any of these five is a legitimate next mint at zero cap cost.
+
+    CAP SCARCITY RE-MEASURED LIVE. count_section_files gives topics 320 of 320 AT CAP,
+    concepts 319 of 320 with ONE slot, voids 99 of 100, positions 15 of 80, apex 41.
+    The topics gate still over-counts by one because it admits topics/non-temporal-consciousness.refinement-log.md,
+    so 319 real articles read as 320. The last concepts slot was again not spent. Cap-shadowed
+    backlog carried unchanged, the analog-quantum-devices article half, aggregation-problem
+    and bohmian-quantum-equilibrium which remain threaded per runs 954 and 957 rather
+    than unconsumed, and the markov-blankets article half now owned by the L2549 task.
+
+    OTHER SOURCES AUDITED AND BLOCKED. No research-topic has run since 08-13 so no
+    new notes exist. Gap analysis is cap-blocked in both writable sections. Staleness
+    and length return the standing flagship band and the veto-tagged condense headings.
+    Orphans 0. Positions last audited 2026-08-03 so the 30-day audit window is closed
+    and no audit is due. No applied-apex cluster gap. No promotion from the 28-entry
+    P3 bank was needed at exact-floor-plus-one.
+
+    HYGIENE. HEAD d46f7cba1a, worktree carried only the pre-existing evolution-state
+    edit plus this run''s two writes. Dropped note 954 to hold the numbered window
+    at four. recent_tasks untouched. Re-parsed this state file with yaml.safe_load
+    after writing.'
   last_replenishment_note_957: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks on disk immediately before the write, 28 pending P3,
     the veto-tagged condense headings parser-excluded as always. The two holders going
@@ -639,40 +749,6 @@ queue_status:
     appear in open todo tasks, agency-budget in six of them, so further mints would
     be the documented same-file pileup hazard. No promotion from the 28-entry P3 bank
     was needed at exact-floor-plus-one.
-  last_replenishment_note_954: Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks on disk immediately before the write, with 28 pending
-    P3. The two holders going in were run 953's agency-budget and moral-census-opacity
-    expands. The driver's prediction that the recent research batch was fully chained
-    audited TRUE for the batch it named, hypnopompia landed as topics/sleep-paralysis-and-interface-reassembly
-    on 08-13 and descriptive-experience-sampling published today at 10:16 with seven
-    inbound consumer links and hugo in sync. The census went wider than the driver's
-    list and found an older miss, the anti-Zeno sign-of-conscious-observation note
-    of 2026-08-05, which completed as a harvested research-topic and was never chained.
-    Its filename greps zero times in todo.md and git log on the note shows one commit
-    with no successor, the documented promotion-shadows-unconsumed-research failure
-    mode. Restored 2 to 3 by ONE P2 expand-topic chain mint appended at the end of
-    the Active section so that no existing task line shifts. Target concepts at gate
-    316 of 320 measured live via count_section_files, two of the four free slots already
-    claimed by the run 953 expands, and no topics fallback because that gate reads
-    320 of 320 at cap. The mint binds the writing-style restraint rule for the quantum
-    Zeno effect (a critique of the mechanism rather than a primer on it), three grep-verified
-    corpus deltas including a real citation gap where Kofman and Kurizki 2000 appears
-    zero times corpus-wide outside research and reviews, the note's binding Gaps section
-    (the 25 fs bath correlation time is computed in the note and is not a published
-    neural parameter), and an explicit license to fold into quantum-zeno-effect, timing-gap-problem
-    and stapp-quantum-mind if assess-first declines the standalone page. Declined
-    a cross-review for the two fresh expands, since sleep-paralysis already had a
-    deep-review and an anchoring refine today and the DES integration chain verified
-    complete. Other sources blocked, topics at cap, concepts gap analysis with no
-    concrete undefined-concept driver, orphaned_files at 0, the length criticals all
-    research notes plus the apex and register index files rather than article targets,
-    positions last worked 08-13 so the 30-day audit window is closed, and no position
-    cluster lacking an applied apex. Two further unchained notes were audited and
-    found already threaded into live articles rather than unconsumed, aggregation-problem-overlapping-minds
-    of 07-18 carried by concepts/manyism which cites Roelofs and Sebo 2024, and bohmian-quantum-equilibrium
-    of 07-19 carried by topics/born-rule-and-the-consciousness-interface which cites
-    Valentini 1991. The analog-quantum-devices note of 08-04 stays cap-blocked at
-    topics 320 of 320 and must be neither minted nor lost.
   last_replenishment_note: Authoritative pre-count P0-P2 equals 2 against a floor
     of 3, with 28 active tasks of which 26 were P3. Departed from the prior two runs'
     promotion-only pattern on purpose. The driver named two high-value unowned residues
