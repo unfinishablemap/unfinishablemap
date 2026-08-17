@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T13:27:04+00:00'
+ai_modified: '2026-08-17T14:20:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 13:27:04+00:00
+lastmod: 2026-08-17 14:20:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 14:20 UTC - refine-draft
+
+- **Status**: Success (metadata only)
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Source**: outer review 2026-08-17 (Claude Opus 5 full-site audit), citation-verification table. Reference 19 (Wiest & Puniani 2025) carried journal name only — no volume, no pages, no DOI.
+- **Verification method**: publisher/registry only, no search engine consulted, so our own domain could not contaminate the result (the stronger form of the `-site:unfinishablemap.org` countermeasure). Crossref API for both DOIs; Europe PMC records; and the **publisher's own typeset PDFs** for the original (PMC12475526) and the corrigendum (PMC12547946).
+- **All three reviewer claims verified true**: volume 30 ✓, DOI `10.1016/j.csbj.2025.09.016` ✓, corrigendum exists ✓ (`10.1016/j.csbj.2025.10.016`). Page range 94-107 recovered additionally — the reviewer did not supply it. The publisher's running header reads verbatim "Computational and Structural Biotechnology Journal 30 (2025) 94–107".
+- **Corrigendum read in full (not merely confirmed to exist).** It corrects typesetting errors in the equations on p. 102 — the Feynman path-integral transition kernel and the wavefunction time-evolution step (after Kaku 1993). Verbatim: "The authors regret the errors in the equations published on page 102." **It does not change what our article is entitled to claim.** The corrected equations restore the standard derivation; they do not withdraw the paper's path-integral parallel, which is asserted independently at nine other loci in the original. Our L100 ("its mathematics parallels quantum path integrals") sits at a level of generality the equation corrections do not reach, and is accurate as written.
+- **Caution recorded**: the corrigendum's own title misstates its target as "[Comput Struct Biotechnol J 30 (2024) 3314]" — wrong year and wrong page. That is a publisher-side error in the corrigendum; the correct target is vol 30 (2025), pp. 94-107. Not propagated into our reference line.
+- **Changes**: reference 19 completed to `*Computational and Structural Biotechnology Journal*, 30, 94-107. https://doi.org/10.1016/j.csbj.2025.09.016 (Corrigendum, correcting the path-integral equations on p. 102: https://doi.org/10.1016/j.csbj.2025.10.016)`. Nothing else edited.
+- **Evidential framing untouched.** The reviewer's accompanying claim — that the article co-opts Wiest & Puniani for Bidirectional Interaction against their causal arrow — was **not actioned**, per task instruction confirming it false. L100 and the L140 calibration row ("Orthogonal; coherence-mechanism convergence is not the corridor's currency") are byte-identical to their pre-pass state.
+- **Length**: 4378 → 4388 words via `tools.curate.length.analyze_length` (`hard_warning` before and after, status unchanged). +10 words, all bibliographic metadata. No prose expanded; no condense performed or minted.
+- **ai_system**: left unchanged — a reference-completion is not new claim-bearing prose, and the corrigendum did not convert this into a content change.
+- **Published**: yes
 
 ## 2026-08-17 13:27 UTC - refine-draft
 

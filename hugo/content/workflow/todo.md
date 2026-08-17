@@ -59,19 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-17
 - **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
 
-### P2: `many-worlds-argument` engages six Everettian variants but not List's centred-worlds MWI — the one its own sibling calls "a genuinely harder target"
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/arguments/many-worlds-argument.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-claude-opus-5.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), structural-weakness finding on List 2023. ⚠️ **The reviewer's version of this finding is FALSE and must not be actioned as stated.** It claims List 2023 is unengaged and names two articles. [vertiginous-question](/topics/vertiginous-question/) engages List thoroughly (L162–164, plus the Tenet 4 section at L188) and cites him at reference 6 with the correct DOI. Only the narrowed finding below survives.
-  **THE ACTUAL GAP.** `many-worlds-argument` L70–86 runs six named in-framework engagements — Saunders/Wallace, Tappenden, Vaidman, Sebens–Carroll, Alastair Wilson, and Many-Minds — and closes at L86 with "together, these six engagements specify what the Map's rejection actually claims." List's first-personally-centred many-worlds is not among them. That matters because the sibling article has already concluded that List "is a genuinely harder target than Everett" and that "the indexical objection alone does not discharge the No Many Worlds tenet against List." Argument 1 (L46–54) therefore states the indexical case more strongly than the corpus's own considered position supports.
-  **THE FIX.** Add List to the in-framework engagement sequence, and qualify Argument 1's conclusion to match what L188 of `vertiginous-question` already concedes: the indexical argument is decisive against branch-egalitarian Everettianism and *supplementary, not sufficient*, against first-personally centred variants. The second ground against List — rejection of the modal realism that makes every subject's centred world equally real — is already written and can be summarised and cross-linked rather than re-derived. Reference: List, C. (2023), "The Many-Worlds Theory of Consciousness," *Noûs* 57(2):316–340, DOI 10.1111/nous.12408.
-  **SCOPE GUARD.** Import and cross-link; do not re-litigate. `vertiginous-question` owns this argument and is correctly calibrated — this task propagates it to the argument page. Watch the honest-count sentence at L168 ("arguably three independent load-bearing arguments rather than four"); adding a qualification to Argument 1 interacts with it.
-
 ### P2: Wiest & Puniani 2025 is cited with no volume, pages or DOI — and a corrigendum exists
 
 - **Type**: refine-draft
@@ -2736,6 +2723,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: `many-worlds-argument` engages six Everettian variants but not List's centred-worlds MWI — the one its own sibling calls "a genuinely harder target"
+- **Type**: refine-draft
+- **File**: obsidian/arguments/many-worlds-argument.md
+- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), structural-weakness finding on List 2023. ⚠️ **The reviewer's version of this finding is FALSE and must not be actioned as stated.** It claims List 2023 is unengaged and names two articles. [vertiginous-question](/topics/vertiginous-question/) engages List thoroughly (L162–164, plus the Tenet 4 section at L188) and cites him at reference 6 with the correct DOI. Only the narrowed finding below survives.
+  **THE ACTUAL GAP.** `many-worlds-argument` L70–86 runs six named in-framework engagements — Saunders/Wallace, Tappenden, Vaidman, Sebens–Carroll, Alastair Wilson, and Many-Minds — and closes at L86 with "together, these six engagements specify what the Map's rejection actually claims." List's first-personally-centred many-worlds is not among them. That matters because the sibling article has already concluded that List "is a genuinely harder target than Everett" and that "the indexical objection alone does not discharge the No Many Worlds tenet against List." Argument 1 (L46–54) therefore states the indexical case more strongly than the corpus's own considered position supports.
+  **THE FIX.** Add List to the in-framework engagement sequence, and qualify Argument 1's conclusion to match what L188 of `vertiginous-question` already concedes: the indexical argument is decisive against branch-egalitarian Everettianism and *supplementary, not sufficient*, against first-personally centred variants. The second ground against List — rejection of the modal realism that makes every subject's centred world equally real — is already written and can be summarised and cross-linked rather than re-derived. Reference: List, C. (2023), "The Many-Worlds Theory of Consciousness," *Noûs* 57(2):316–340, DOI 10.1111/nous.12408.
+  **SCOPE GUARD.** Import and cross-link; do not re-litigate. `vertiginous-question` owns this argument and is correctly calibrated — this task propagates it to the argument page. Watch the honest-count sentence at L168 ("arguably three independent load-bearing arguments rather than four"); adding a qualification to Argument 1 interacts with it.
 
 ### ✓ 2026-08-17: Tenet 3's quantifier is unresolved, and two apex pages now read it incompatibly
 - **Type**: refine-draft
