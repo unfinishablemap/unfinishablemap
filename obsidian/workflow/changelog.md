@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T16:46:07+00:00'
+ai_modified: '2026-08-17T17:58:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 17:58 UTC - positions-evolve
+
+- **Status**: Success (content change) — mode `update`, P-V1 and P-V2
+- **File**: [[positions/voids-as-evidence]] (single file; P-V3 untouched, its `Last reviewed` deliberately left at 2026-07-20)
+- **Word count**: 1044 → 1449 (positions soft 1500 / hard 2500 / critical 4000). Status `ok` → `ok`. A first pass landed at **1527 (`soft_warning`, +27)**; the overshoot was absorbed by trimming the two provenance notes by ~78 words, not the substantive clause. `scripts/validate.py` reports nothing on this file.
+- **The gap**: all three `Argued in` rosters cited exactly one voids-section article between them — [[voids/what-voids-reveal]], the section's own summary page. Inbound direction mirrored it: one file out of 100 in `obsidian/voids/` mentioned `voids-as-evidence`. The corpus was running this domain's discipline at the leaf; the register was not citing it.
+- **P-V1 — three exemplars added, each for distinct work.** [[voids/death-void]] (lineage variant with a control case), [[voids/edge-states-and-void-probes]] (naming a common cause removes the warrant to count cases separately; convergence does not discriminate the readings), [[voids/mapping-mind-space]] (non-aggregation on *heterogeneity* — four different kinds of dimension with no bridge argument — rather than on shared upstream cause). All three spans grep-verified `-F` at 1 before insertion.
+- **P-V1 — substantive extension. TAKEN.** The `Asserts` named two common-cause channels ("one introspective channel, one curating framework"). [[voids/death-void]] reaches a third — shared intellectual **lineage**, where the correlated items are *traditions*, not introspective reports — and the entry now names it. The sharper half is the **control case**: death-void identifies the one genuinely distinct tradition it invokes (Buddhist anātman) and finds it **dissenting**, so the discount is not merely asserted but checked against a case that could have overturned it. Registered as a general requirement: a discount is worth only as much as the independent case that could have overturned it, and where that case registers dissent the convergence comes out weaker than a discount alone would make it.
+- **P-V2 — two exemplars added.** [[voids/mutation-void]] carries the origin-class partition as a per-row *dualist-dependence* table column ("None — holds for any thinker" vs "Reading, not result"), which is P-V2's refusal to let the framework upgrade an independence score, executed per row. [[voids/transformative-experience-void]] supplies the ledger direction: its own "Evidence for the Limit" list opens by demoting its lead item to the phenomenon the structural reading must explain rather than confirmation of it.
+- **Placement discipline**: no exemplar was pasted into both rosters. `mutation-void` also carries a clean P-V1 common-cause line ("one pattern in three settings, not three independent confirmations") but was assigned to P-V2, where its table column does work nothing else in the corpus does; the P-V1 line would have duplicated what death-void and edge-states already supply.
+- **NO BAND MOVED.** No `Status` or `Calibration` line was touched on any of the three entries (verified by diff). P-V1 stays credence *moderate* / grade *B* — the lineage case is a further application of the Reichenbach–Salmon–Sober principle already graded, not new independent support. P-V2 stays credence *high* / grade *n/a* — the rule is normative, and corpus instances of a normative rule being followed are not evidence for it. Every hedge preserved ([[condense-regresses-calibration-qualifiers]]).
+- **Declined — the inverse framing.** No reciprocal `[[positions/voids-as-evidence]]` links were written into the five void articles, and no task minted for them. The task brief's own check found the eight unlinked voids already running the discipline correctly in their own words; adding register links to correct bodies is padding on hub-adjacent pages ([[hub-articles-accrete-crosslink-length]]).
+- **Declined — P-V3.** [[voids/death-void]] is a named member of P-V3's framework-independent subset and its lineage passage bears on why P-V3's credence is *low*. But it argues the position's **hedge**, not its assertion, so it was not added to `Argued in`. Flagged as a judgement call rather than taken unilaterally.
+- **Not written into the file**: the death-void dissent is the same datum [[positions/arguments-for-dualism|P-D3]] reads as cross-traditional divergence on the *solution* while the traditions converge on the *problem*. A cross-register pointer was drafted and cut for length; recorded here instead.
+- **Quote hygiene**: the two table-cell strings quoted in P-V2's provenance note were case-corrected before shipping — "none —…" → "None —…" and "reading, not result" → "Reading, not result" — so both grep `-F` at 1 against `mutation-void.md` ([[quote-must-be-grep-verifiable-in-raw-source]]). No verbatim quote from death-void was placed in the `Asserts`; the lineage discount is paraphrased, deliberately, to avoid opening a stale internal-quote channel ([[apex-stale-internal-quote-channel]]).
+- **Attribution**: `ai_modified` 2026-07-20 → 2026-08-17T17:55:00+00:00 (strictly past a live `date -u`); `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-opus-5` — earned by the new P-V1 clause, not by the roster extension alone.
+- **Both trees synced.** `uv run python scripts/sync.py` run and `hugo/content/positions/voids-as-evidence.md` grep-verified: all five new wikilinks converted to real URLs (none stripped), both `Updated` notes present, P-V3's `Last reviewed` still 2026-07-20.
+- **Published**: yes
 
 ## 2026-08-17 16:53 UTC - refine-draft
 

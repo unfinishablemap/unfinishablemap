@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-07-20 10:17:31+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-17 17:55:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
 last_deep_review: 2026-06-16 06:36:00+00:00
-lastmod: 2026-07-20 10:17:31+00:00
+lastmod: 2026-08-17 17:55:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -41,11 +41,12 @@ These positions cover what the Map currently holds about the *evidential* status
 
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade B (rests on the established Reichenbach–Salmon–Sober common-cause principle, applied to the catalogue) · structural centrality high (P-V2 and P-V3 depend on it; the discipline the Convergence-Independence Gate enforces) · model maturity developed · empirical discriminability indirect · framework-internal only: no
-- **Asserts**: The Map holds that the clustering of its cognitive voids at the consciousness-matter interface is best read as *framework-internal coherence* with the tenet-package, not as N-fold independent confirmation of dualism. The convergence is consistent with the Map's tenets — but it is also compatible with rival readings (illusionism predicts the introspection-architecture cluster; panpsychism predicts origin and binding as anchors), so clustering at the interface does not *discriminate* the Map from those rivals. Under the [common-cause null](/project/common-cause-null/), if the voids share an upstream architecture (one introspective channel, one curating framework), the raw count overstates evidential weight. The defensible claim is that the tenets and the void catalogue fit without strain, not that independent cataloguing confirmed antecedent predictions. This position is itself the discipline that the Convergence-Independence Gate (Countermeasure 15) enforces.
+- **Asserts**: The Map holds that the clustering of its cognitive voids at the consciousness-matter interface is best read as *framework-internal coherence* with the tenet-package, not as N-fold independent confirmation of dualism. The convergence is consistent with the Map's tenets — but it is also compatible with rival readings (illusionism predicts the introspection-architecture cluster; panpsychism predicts origin and binding as anchors), so clustering at the interface does not *discriminate* the Map from those rivals. Under the [common-cause null](/project/common-cause-null/), if the voids share an upstream architecture — one introspective channel, one curating framework, or one intellectual lineage among the thinkers who report them — the raw count overstates evidential weight. The lineage variant is the catalogue's own extension of the null rather than a restatement of it: in [death-void](/voids/death-void/) the correlated items are traditions rather than introspective reports, and a five-thinker Western recurrence discounts to roughly one evidential move on shared-inheritance grounds. That entry also supplies what keeps such a discount from being a bare assertion — a control case, the one genuinely distinct tradition it invokes, which dissents rather than agrees. A discount is worth only as much as the independent case that could have overturned it, and where that case registers dissent the convergence comes out weaker than a discount alone would make it. The defensible claim is that the tenets and the void catalogue fit without strain, not that independent cataloguing confirmed antecedent predictions. This position is itself the discipline that the Convergence-Independence Gate (Countermeasure 15) enforces.
 - **Depends on**: Tenet 5; the [common-cause null](/project/common-cause-null/); Countermeasure 15 in [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/); the selection-effect worry
-- **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/), [common-cause-null](/project/common-cause-null/)
+- **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/), [common-cause-null](/project/common-cause-null/), [death-void](/voids/death-void/) (lineage variant of the null, with a control case), [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) (naming a common cause removes the warrant to count cases separately; convergence does not discriminate the readings), [mapping-mind-space](/voids/mapping-mind-space/) (non-aggregation on heterogeneity rather than shared cause)
 - **Would shift if**: a distinguishing test (cross-species, cross-cultural, or patient-population) showed the void pattern discriminates the Map from rivals rather than merely being compatible with it — which would *upgrade* this toward independent support; or the structured-clustering signal were shown to be a pure artefact of curation, which would downgrade it further.
-- **Last reviewed**: 2026-07-20
+- **Last reviewed**: 2026-08-17
+- **Updated 2026-08-17**: named a third common-cause channel — shared intellectual *lineage* — alongside the two already listed, and registered the control-case requirement that goes with it, after a register-to-corpus check found the voids section running this discipline at the leaf while the register cited almost none of it. The channel is the corpus's own extension: [death-void](/voids/death-void/) discounts a five-thinker Western recurrence on inherited-tradition grounds, then checks that discount against the one genuinely distinct tradition it invokes and finds it dissenting. *Argued in* gains three void exemplars. **No band move**: credence stays *moderate*, grade stays *B* — a further application of the Reichenbach–Salmon–Sober principle already graded, not new independent support.
 
 ## P-V2: A tenet that removes a defeater does not thereby upgrade void evidence
 
@@ -53,9 +54,10 @@ These positions cover what the Map currently holds about the *evidential* status
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high (a sound calibration rule — the catalogue-specific instance of P-M1) · external-evidence grade n/a (normative) · structural centrality moderate · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
 - **Asserts**: The Map holds the calibration rule that adopting a tenet which dissolves an objection to a void's dualist reading removes a *defeater* but does not, by itself, raise the void's independence score or convert framework-internal coherence into framework-independent evidence. Tenet-generated voids are entries naming the price the framework pays (as materialism owes the hard problem and panpsychism the combination problem); treating those costs as confirmations would invert the ledger. Equally, dualism-specific voids — those the Map can articulate only because its commitments make them voids — earn framework-internal weight but not the N-fold force of framework-independent voids. The framework may identify a cluster's significance but must not upgrade its independence score.
 - **Depends on**: P-V1; [evidential-status-discipline](/project/evidential-status-discipline/); the four-origin-class void audit in [taxonomy-of-voids](/apex/taxonomy-of-voids/)
-- **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [mutation-void](/voids/mutation-void/) (a per-row *dualist-dependence* column separating what holds for any thinker from what is "Reading, not result"), [transformative-experience-void](/voids/transformative-experience-void/) (an observation the framework's reading must explain is not thereby confirmation of that reading)
 - **Would shift if**: a principled account showed that defeater-removal can, under specified conditions, legitimately raise an independence score; or the origin-class partition (framework-independent / dualism-specific / tenet-generated / method-generated) were shown to be unprincipled.
-- **Last reviewed**: 2026-07-20
+- **Last reviewed**: 2026-08-17
+- **Updated 2026-08-17**: *Argued in* gains two void exemplars that run this rule at the leaf. [mutation-void](/voids/mutation-void/) carries the origin-class partition as a table column — each phenomenon marked for dualist-dependence, "None — holds for any thinker" against "Reading, not result" — which is this position's refusal to let the framework upgrade an independence score, executed per row. [transformative-experience-void](/voids/transformative-experience-void/) supplies the ledger direction: its evidence list opens by demoting its own lead item to the phenomenon the structural reading must explain rather than confirmation of it. **No band move**: credence stays *high*, grade stays *n/a* — corpus instances of a normative rule being followed are not evidence for it.
 
 ## P-V3: Framework-independent voids carry cumulative weight that the rest of the catalogue does not
 

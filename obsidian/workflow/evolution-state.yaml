@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-17T17:25:50.743621+00:00'
-session_count: 19044
+last_updated: '2026-08-17T17:46:47.353244+00:00'
+session_count: 19045
 cycle_position: 12700
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
@@ -34,7 +34,7 @@ last_runs:
   pessimistic-review: '2026-08-17T06:04:00.607409+00:00'
   positions-evolve: '2026-08-17T09:15:01.075048+00:00'
   refine-draft: '2026-08-17T17:07:24.180429+00:00'
-  replenish-queue: '2026-08-17T16:34:09.287295+00:00'
+  replenish-queue: '2026-08-17T17:46:47.353244+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -527,92 +527,98 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-17T17:45:00+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-quote-fidelity-unchecked-surface
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks from
-    tools.evolution.task_selector on the todo.md content, on disk immediately before the write.
-    Exact-floor plus one, so ONE mint and no padding. Restored to 3 by a single P2 refine-draft
-    on obsidian/concepts/composition-question-rivals.md, appended at the very end of the Active
-    section, insert only, so no existing task line moved and no cached queue_task_line shifted.
-    Re-parsed after the write with parse_tasks: 3 P0-P2, the new entry is third and last so FIFO
-    drains both holders first, and it parses as REFINE_DRAFT priority 2 PENDING with file_path
-    resolving on disk at line 2697. Fourteenth consecutive zero-cap-cost replenishment.
+  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
+    content, on disk immediately before the write. Exact-floor plus one, so ONE mint
+    and no padding. Restored to 3 by a single P2 refine-draft on obsidian/concepts/composition-question-rivals.md,
+    appended at the very end of the Active section, insert only, so no existing task
+    line moved and no cached queue_task_line shifted. Re-parsed after the write with
+    parse_tasks: 3 P0-P2, the new entry is third and last so FIFO drains both holders
+    first, and it parses as REFINE_DRAFT priority 2 PENDING with file_path resolving
+    on disk at line 2697. Fourteenth consecutive zero-cap-cost replenishment.
 
 
-    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320 of 320, at
-    cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15 of 80; apex 41 and
-    arguments 5, uncapped. The topics gate still counts topics/non-temporal-
-    consciousness.refinement-log as an article, so it reads 320 where 319 real articles exist.
-    Treated as blocked because the gate is what enforces, and it is an open NEEDS-HUMAN item,
-    not re-filed. Neither expand-topic nor research-topic was mintable, so the mint had to be
-    zero-cap-cost.
+    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320
+    of 320, at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15
+    of 80; apex 41 and arguments 5, uncapped. The topics gate still counts topics/non-temporal-
+    consciousness.refinement-log as an article, so it reads 320 where 319 real articles
+    exist. Treated as blocked because the gate is what enforces, and it is an open
+    NEEDS-HUMAN item, not re-filed. Neither expand-topic nor research-topic was mintable,
+    so the mint had to be zero-cap-cost.
 
 
-    SOURCE USED, staleness, and it is a quote-fidelity-targeted pick rather than a converged no-
-    op. The session steer offered a hypothesis, that review files of the 2026-05-31 vintage
-    ratified quoted spans that were never re-checked, and asked for it to be tested on disk
-    rather than assumed. It was tested and it holds in one specific place. Method: parsed all
-    6221 dated review filenames in obsidian/reviews, kept the slugs whose most recent review of
-    any kind predates 2026-07-01 and asserts verbatim verification, intersected with live
-    articles, and ranked by quoted-span density with frontmatter stripped. concepts/composition-
-    question-rivals came top of the ranking that survived the open-task pileup filter.
+    SOURCE USED, staleness, and it is a quote-fidelity-targeted pick rather than a
+    converged no- op. The session steer offered a hypothesis, that review files of
+    the 2026-05-31 vintage ratified quoted spans that were never re-checked, and asked
+    for it to be tested on disk rather than assumed. It was tested and it holds in
+    one specific place. Method: parsed all 6221 dated review filenames in obsidian/reviews,
+    kept the slugs whose most recent review of any kind predates 2026-07-01 and asserts
+    verbatim verification, intersected with live articles, and ranked by quoted-span
+    density with frontmatter stripped. concepts/composition- question-rivals came
+    top of the ranking that survived the open-task pileup filter.
 
 
-    THE VERIFIED GAP. The article was coalesced on 2026-06-15 from three stubs. Its only review
-    covering the Thomasson, Hirsch and Carnap material is deep-
-    review-2026-06-07-metaontological-deflationism, whose Publisher-of-Record Citation Ledger at
-    lines 31 to 33 verifies metadata alone, ISBNs and volume and page ranges. grep -ci for
-    verbatim on that file returns 0 and for word-for-word returns 0. The 2026-06-15 coalesce
-    review checked only character identity against the archived originals, an intra-corpus
-    check. The 2026-06-25 review then declined to re-verify at all on ledger-authoritative
-    grounds. Independent confirmation: grep -ric across all 7226 files in obsidian/reviews for
-    the exact strings straightforward conceptual and or empirical work and variability or
-    plasticity returns zero hits in both cases, so no review has ever reproduced these spans and
-    none can have checked them. Four unchecked attributed spans sit at lines 53, 53, 55 and 63,
-    the strongest being the Hirsch one marked in Hirschs own words.
+    THE VERIFIED GAP. The article was coalesced on 2026-06-15 from three stubs. Its
+    only review covering the Thomasson, Hirsch and Carnap material is deep- review-2026-06-07-metaontological-deflationism,
+    whose Publisher-of-Record Citation Ledger at lines 31 to 33 verifies metadata
+    alone, ISBNs and volume and page ranges. grep -ci for verbatim on that file returns
+    0 and for word-for-word returns 0. The 2026-06-15 coalesce review checked only
+    character identity against the archived originals, an intra-corpus check. The
+    2026-06-25 review then declined to re-verify at all on ledger-authoritative grounds.
+    Independent confirmation: grep -ric across all 7226 files in obsidian/reviews
+    for the exact strings straightforward conceptual and or empirical work and variability
+    or plasticity returns zero hits in both cases, so no review has ever reproduced
+    these spans and none can have checked them. Four unchecked attributed spans sit
+    at lines 53, 53, 55 and 63, the strongest being the Hirsch one marked in Hirschs
+    own words.
 
 
-    PARTIALLY DISCHARGED AT MINT SO THE FORK DOES NOT REDO IT. The ICP block quote at line 85
-    was web-verified word-for-word against the Oxford Academic page for Bird 2023 using an
-    extraction prompt rather than a confirmation prompt. It is correct. A fifth span at lines 89
-    and 95 is offered to the fork as a lead and not as an asserted defect: the article presents
-    objective, not a matter of perspective as Birds contiguous words, while the 2026-06-07
-    compression review at line 32 renders the source sentence with the noun matter after
-    objective and a longer tail. If that rendering holds the article span is non-contiguous and
-    carries no ellipsis, but a prior review can corrupt a correct quote as easily as ratify a
+    PARTIALLY DISCHARGED AT MINT SO THE FORK DOES NOT REDO IT. The ICP block quote
+    at line 85 was web-verified word-for-word against the Oxford Academic page for
+    Bird 2023 using an extraction prompt rather than a confirmation prompt. It is
+    correct. A fifth span at lines 89 and 95 is offered to the fork as a lead and
+    not as an asserted defect: the article presents objective, not a matter of perspective
+    as Birds contiguous words, while the 2026-06-07 compression review at line 32
+    renders the source sentence with the noun matter after objective and a longer
+    tail. If that rendering holds the article span is non-contiguous and carries no
+    ellipsis, but a prior review can corrupt a correct quote as easily as ratify a
     wrong one, so the fork is instructed to resolve it at Birds own text only.
 
 
-    GUARDRAILS WRITTEN INTO THE TASK. A condense on this exact file is vetoed at todo.md line
-    1126 on accept-as-survey grounds, and that veto sets the operating rule, operate length-
-    neutral. The article is 4106 words hard_warning against the 3500 concepts ceiling and must
-    not be condensed and the condense must not be re-minted. ai_modified 2026-06-15 predates
-    last_deep_review 2026-06-25, so the article is converged and a broad re-review would
-    correctly no-op; the unchecked quoted surface is the entire warrant. The archive tree is in
-    scope because both coalesced predecessors serve the same spans at preserved URLs, at
-    archive/concepts/metaontological-deflationism lines 41, 43 and 51 and
-    archive/concepts/information-compression-composition lines 48 and 54. Review files are
-    explicitly out of scope as echo rather than defect.
+    GUARDRAILS WRITTEN INTO THE TASK. A condense on this exact file is vetoed at todo.md
+    line 1126 on accept-as-survey grounds, and that veto sets the operating rule,
+    operate length- neutral. The article is 4106 words hard_warning against the 3500
+    concepts ceiling and must not be condensed and the condense must not be re-minted.
+    ai_modified 2026-06-15 predates last_deep_review 2026-06-25, so the article is
+    converged and a broad re-review would correctly no-op; the unchecked quoted surface
+    is the entire warrant. The archive tree is in scope because both coalesced predecessors
+    serve the same spans at preserved URLs, at archive/concepts/metaontological-deflationism
+    lines 41, 43 and 51 and archive/concepts/information-compression-composition lines
+    48 and 54. Review files are explicitly out of scope as echo rather than defect.
 
 
-    EIGHT-SOURCE AUDIT. 1 chain, no un-followed research to expand to cross-review completion,
-    and chains are blocked anyway with topics at cap. 2 unconsumed research, blocked, target
-    sections at cap. 3 gap analysis, no mintable gap at zero cap cost that was not already
-    covered. 4 staleness, SOURCE USED. 5 orphan integration, none. 6 length analysis, the only
-    hard_warning candidate reached was this very file and its condense is vetoed, so no length
-    task was minted. 7 positions, the 15-entry register was the target of the 16:31 mint which
-    is still open, so no second positions task. 8 applied apex gap, none.
+    EIGHT-SOURCE AUDIT. 1 chain, no un-followed research to expand to cross-review
+    completion, and chains are blocked anyway with topics at cap. 2 unconsumed research,
+    blocked, target sections at cap. 3 gap analysis, no mintable gap at zero cap cost
+    that was not already covered. 4 staleness, SOURCE USED. 5 orphan integration,
+    none. 6 length analysis, the only hard_warning candidate reached was this very
+    file and its condense is vetoed, so no length task was minted. 7 positions, the
+    15-entry register was the target of the 16:31 mint which is still open, so no
+    second positions task. 8 applied apex gap, none.
 
 
     DECLINED THIS RUN AND WHY, so the next run does not re-walk them. project/coherence-
-    inflation-countermeasures at 58 quoted spans and project/direct-refutation-discipline at 29
-    both rank above the mint on raw density but each already has an open P3 naming it, so
-    minting would be pileup. voids/binding-void was touched by todays convergence-as-evidence
-    cluster and fails the churn filter. topics/consciousness-epistemology-extended-cognition,
+    inflation-countermeasures at 58 quoted spans and project/direct-refutation-discipline
+    at 29 both rank above the mint on raw density but each already has an open P3
+    naming it, so minting would be pileup. voids/binding-void was touched by todays
+    convergence-as-evidence cluster and fails the churn filter. topics/consciousness-epistemology-extended-cognition,
     apex/research-programme-decisions-under-the-map, concepts/affective-forecasting-gap,
-    voids/anesthesia-void and voids/sleep-consciousness-void all shipped within the hour and
-    fail the churn filter. voids/edge-states-and-void-probes and voids/erasure-void are excluded
-    by standing decisions. The 2026-05-31 consciousness-epistemology review that seeded the
-    hypothesis is itself discharged, because tonights pass re-verified all four of its other
-    ratified citations and found them clean, so no task was minted against it.'
+    voids/anesthesia-void and voids/sleep-consciousness-void all shipped within the
+    hour and fail the churn filter. voids/edge-states-and-void-probes and voids/erasure-void
+    are excluded by standing decisions. The 2026-05-31 consciousness-epistemology
+    review that seeded the hypothesis is itself discharged, because tonights pass
+    re-verified all four of its other ratified citations and found them clean, so
+    no task was minted against it.'
   last_replenishment_prev: '2026-08-17T16:31:00+00:00'
   last_replenishment_run: 967
   loop_pickable_open: 3
