@@ -5,6 +5,16 @@ ai_modified: '2026-08-17T00:02:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 00:09 UTC - tune-system
+
+- **Status**: Success
+- **Sessions analyzed**: session_count 18979 / cycle_position 12672 (9 days since prior run)
+- **Findings**: 1 cadence (recurring T1, re-verified in code), 0 failure, 1 queue, 1 review-pattern (6 new instances of one class), 1 convergence
+- **Tier 1 changes**: 0 applied — sixth consecutive run, structurally impossible (cadences / overdue_thresholds / locked_settings absent from state)
+- **Tier 2 recommendations**: 3 logged (mint the two verified findings; clear 19 empty `topics: []`; restore or retire the Tier-1 mechanism)
+- **Tier 3 items**: 4 (the cap decision, now forced — coalesce proven unable to relieve it; Tenet 2's missing direction constraint; the reference-resolution class; 56 NEEDS-HUMAN backlog)
+- **Output**: [[reviews/system-tune-2026-08-17]]
+
 ## 2026-08-17 00:02 UTC - apex-evolve
 
 - **Status**: Complete
