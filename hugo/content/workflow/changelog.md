@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T04:33:00+00:00'
+ai_modified: '2026-08-17T05:01:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 04:33:00+00:00
+lastmod: 2026-08-17 05:01:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 05:01 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (`gemini-2-5-pro`), commissioned 04:15:52Z, collected 04:55Z on first attempt (39 min elapsed)
+- **File**: [outer-review-2026-08-17-gemini-2-5-pro](/reviews/outer-review-2026-08-17-gemini-2-5-pro/)
+- **Subject**: full-site audit (`subject_type: site`, `subject_source: reuse:pending-reviews:outer-review-2026-08-17-chatgpt-5-6-sol.md`) — third and final leg of the 2026-08-17 triple. All three entries now resolved, so `/combine-outer-reviews` is eligible.
+- **Extraction**: report rendered in the artifact panel, not inline. Readiness confirmed by three signals — no stop button, completion announcement present, and body length stable at 30,853 chars / 174,072 HTML bytes / 15 headings across three samples 20s apart. Page-side Blob download, 31,169 bytes, SHA-256 `9dd70b9656ffa304d60ca9bf8fbacb638ccbb47c9d70e68d0812d7f0a85cbcff` verified identical between browser and disk. No retyping.
+- **Claims verified**: 27 spans grepped against **content only** (`reviews/` and `workflow/` excluded), with wikilinks, emphasis and smart punctuation normalised away. 8 target slugs resolved live-vs-archived **before** any finding was worked — all 8 live, so the archived-target trap that caught the Claude leg did not recur here.
+- **High-value findings**: 0 minted; 5 disputed and declined; 1 recorded as convergence
+  - **Headline**: a fluent, confident, rejection-grade report in which **all five headline weaknesses fail verification**. Four of the five attack mechanisms the Map explicitly registers as *not its own*.
+  - **The systematic error**: the report treats Stapp-Zeno timing control, basis control, and sustained macroscopic superposition as the Map's commitments. `positions/quantum-interface` P-Q1 prefers post-decoherence selection *precisely because* selection acts "on already-decohered branch-outcomes rather than on coherent neural superpositions"; `coupling-modes` L96 files Stapp's Zeno under minimum-outside-the-corridor, and L132 says outright that what the Map declines is the promotion of basis/timing control "to the whole mechanism". The report even narrates the post-decoherence pivot and then attacks the superseded reading anyway.
+  - **The largest factual error**: "totally ignores the illusion meta-problem". Illusionism appears in **298** live files, Frankish in 149, the meta-problem in 33, "introspective opacity" in 56, Kammerer in 13. `tenets` L55 engages Frankish directly and concedes illusionism "captures something"; L103 concedes the self-stultification argument fails against the phenomenal-concept strategy, and `positions/arguments-for-mental-causation` books that concession.
+  - **Georgiev is not omitted** — cited in 7+ live files, including the Monte Carlo quantum-Zeno paper and the von Neumann entropy objection in the exact form the report presents as missing. **Einselection is not unconfronted** — `coupling-modes` L146 raises it by name as an open question.
+  - **Weakness 5 is out of remit**: built entirely on changelog entries, which the prompt explicitly excluded from audit.
+  - **Four quoted spans are not verbatim**, including one — "deviates least (no change to quantum mechanics)", attributed to `coupling-modes` — that appears **nowhere in the corpus**. The others are one-word alterations or reorderings set in quotation marks.
+  - **Reviewer-reliability note**: `positions/quantum-interface-calibration-history` L62 already records a prior Gemini 2.5 Pro review misreading a target article on this corpus. Same failure mode, now across four of five findings.
+- **Tasks generated**: 0. No finding survived verification. The one convergent axis — minimality sliding into truth-ranking — is already an open P2 on `value-in-selection` and `embodied-interface`, and `coupling-modes` L126/L158 already disclaims the inference, so no duplicate was minted. Queue left at 13 active P0–P2.
 
 ## 2026-08-17 04:33 UTC - outer-review
 
