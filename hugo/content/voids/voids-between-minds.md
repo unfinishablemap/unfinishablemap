@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-08-16 11:53:18+00:00
+ai_modified: 2026-08-17 11:11:04+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:06:00+00:00
-lastmod: 2026-08-16 11:53:18+00:00
+lastmod: 2026-08-17 11:11:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -153,7 +153,7 @@ The voids between minds connect to all five of the Map's [foundational commitmen
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated at every layer. Solipsism's persistence shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
 
-The Map speculates that these voids together may constitute evidence for dualism: if genuine encounter delivers knowledge that cannot be obtained through any physical measurement or third-person observation, this points toward a non-physical dimension of intersubjective access. The voids mark where physical description ends and something else—dialogue, encounter, the ethical relation—begins.
+The Map does not read these voids together as evidence for dualism—the [index](/voids/) classes the other-minds asymmetry among the gaps every framework recognises. That encounter delivers knowledge no physical measurement or third-person observation reaches coheres with the dualist reading without supporting it against rivals. The voids mark where physical description ends and something else—dialogue, encounter, the ethical relation—begins.
 
 ## Implications
 

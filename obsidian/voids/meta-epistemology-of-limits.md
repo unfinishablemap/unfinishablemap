@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-08-17T11:11:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[medium-status-voids-in-cognition]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-03-19
 last_curated: null
 last_deep_review: 2026-07-06T17:23:41+00:00
@@ -139,7 +139,7 @@ Beyond first-order limits and the recursive trap, a further question shadows eve
 
 This is narrower than scepticism. We can know many things with warrant and identify specific limits with precision; what we cannot do is estimate the *proportion* of reality the catalogue covers. A surveyor can identify unmapped regions and recognise the edge of surveyed territory, but cannot estimate how much *more* extends beyond—every estimate presupposes a framework derived from the surveyed region, blind to structural features of the unsurveyed.
 
-Several independent arguments converge. **Fitch's paradox of knowability** (1963) shows formally that any finite knower has unknowable unknowns whose extent cannot be mapped without contradiction. **Rescher** (2009) identifies developmental unpredictability, verificational surdity, ontological detail, and predicative vagrancy as features preventing complete coverage. **Dunning-Kruger** supplies the empirical shadow: the skills needed to assess performance are those constituting performance. **Nagel's view from nowhere** (1986) supplies the perspectival argument: any vantage surveying all perspectives is itself a perspective. Their convergence across different assumptions is stronger evidence than any one alone.
+Four arguments converge. **Fitch's paradox of knowability** (1963) shows formally that any finite knower has unknowable unknowns whose extent cannot be mapped without contradiction. **Rescher** (2009) identifies developmental unpredictability, verificational surdity, ontological detail, and predicative vagrancy as barriers to complete coverage. **Dunning-Kruger** supplies the empirical shadow: assessing performance requires the skills that constitute it. **Nagel's view from nowhere** (1986) adds the perspectival argument: any vantage surveying all perspectives is itself one. Their convergence is closer to one evidential move than four: all sit in twentieth-century Western formal epistemology, three on the same reflexivity structure.
 
 The scope question produces a signature the Map calls **epistemic agoraphobia**—the feeling of unbounded openness. This differs from specific voids: hitting the [[intrinsic-nature-void|intrinsic-nature void]] feels like a conceptual wall; the scope void is the *absence* of a wall, every estimate moving with the gaze.
 

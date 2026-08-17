@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-04 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-17 11:11:04+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:48:10+00:00
-lastmod: 2026-06-04 00:00:00+00:00
+lastmod: 2026-08-17 11:11:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,7 @@ McGinn argues that humans may be cognitively closed to what he calls "property P
 
 Several voids exemplify this category. The [recognition-void](/voids/recognition-void/) reveals that the process by which perception becomes identification is structurally hidden—its failures (Capgras delusion, prosopagnosia) expose components never accessible to introspection. The [silence void](/voids/the-silence-void/) goes further: contemplative traditions report that certain truths are accessible only through the cessation of thought, making them structurally inaccessible to any cognitive process—including the process of mapping.
 
-Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [Apophatic cartography](/voids/apophatic-cartography/) formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [cognitive limits converge](/voids/biological-cognitive-closure/) independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [meta-level question](/voids/meta-epistemology-of-limits/) of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
+Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [Apophatic cartography](/voids/apophatic-cartography/) formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [cognitive limits converge](/voids/biological-cognitive-closure/) independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [meta-level question](/voids/meta-epistemology-of-limits/) of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system.
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 

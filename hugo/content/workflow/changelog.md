@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T10:34:00+00:00'
+ai_modified: '2026-08-17T11:11:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 10:34:00+00:00
+lastmod: 2026-08-17 11:11:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 11:11 UTC - refine-draft
+
+- **Status**: Success (content change)
+- **Files**: [voids-between-minds](/voids/voids-between-minds/), [three-kinds-of-void](/voids/three-kinds-of-void/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Task**: optimistic review 2026-08-17 (voids catalogue wing), Calibration Concerns 1–3 — the tail of the C2 convergence-as-evidence cluster, closing the three loci where the wing's retired evidential reading was still live.
+- **Changes**:
+  - `voids-between-minds` L152: "The Map speculates that these voids together may constitute evidence for dualism…" regraded to a compatibility/coherence claim, with the reason stated inline — `voids.md` L90 classes this article among the voids any consciousness framework recognises, so a gap acknowledged on every view cannot support one view against rivals. The substantive point (encounter-knowledge resists physical measurement and third-person observation) is preserved.
+  - `three-kinds-of-void` L58: deleted the clause "—which is itself evidence for the framework". Reading unanswerability as confirmation is the structure `what-voids-reveal.md` L124 explicitly withdrew for the illusionism case, on the ground that treating a difficulty as evidence for the thing it obstructs makes a position unfalsifiable and the move is symmetric. Surrounding argument unaffected.
+  - `meta-epistemology-of-limits` L142: "Several independent arguments converge" → "Four arguments converge", and "Their convergence across different assumptions is stronger evidence than any one alone" → an independence discount matching the in-wing precedent (`death-void.md` L90 "closer to one evidential move than five"; `self-maintained-cognitive-limits.md` L61 "one observation read several times rather than five"). Fitch, Rescher, Dunning-Kruger and Nagel all sit in twentieth-century Western formal epistemology, three of them on the same reflexivity structure.
+- **Length**: length-constrained pass (voids ceiling 3000; all three were `soft_warning` at dispatch). 2847→2854 (+7), 2322→2316 (−6), 2860→2867 (+7); aggregate +8 words across 8029, all three still `soft_warning` with 146/684/133 words of ceiling headroom.
+- **Not swept**: `apophatic-cartography.md` L154, `confabulation-void.md` L104 and `perceptual-reality-monitoring-void.md` L112 were read and deliberately left. All three are prediction-fit statements covered by P-V2, not convergence-as-evidence claims.
+- **Published**: yes
 
 ## 2026-08-17 10:33 UTC - refine-draft
 
