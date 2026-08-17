@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-16T21:27:18+00:00'
+ai_modified: '2026-08-17T00:02:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 00:02 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changed sources**: 9 against the effective baseline `max(apex_last_synthesis 2026-07-19, last_deep_review 2026-07-20)`; two of them changed on 2026-08-16
+- **Word count**: 5092 → 5425 (`hard_warning` before and after; peaked at 5793 mid-pass, ~400 words of redundancy cut against ~730 added)
+- **Review**: [[reviews/apex-evolve-2026-08-17-what-consciousness-tells-us-about-physics]]
+- **Selection note**: the mechanical scorer's top pick was `altered-states-as-interface-evidence` (308, 11 changed sources) but its drift is entirely in the filter-model wing with nothing from the last three days. This article scored 243 **and** is the landing site for the 2026-08-16 material. `altered-states` is untouched and remains the strongest next candidate.
+- **The gap this closed**: **zero apex articles carried `sign-problem-for-conscious-observation`** before this run (0 grep hits across `obsidian/apex/`). Two carried `agency-budget`, both updated 08-16T10:45Z — i.e. *before* `sign-problem` existed at 14:27Z. The budget had propagated corpus-wide; the sign problem had propagated nowhere.
+- **The synthesis** (the apex-level question the driver posed — does the connection change a synthesis? yes): the budget fixes the interface's capacity at min(H(conscious source), H(Born distribution)) bits per event; `sign-problem` Horn 2 identifies a sign-selecting agent as "small in magnitude and complex in specification" and **leaves that specification cost unpriced**. The budget is the currency it would have to be priced in, so "specify the coupling" now demands a direction argument affordable within the same ceiling that bounds outcome selection — and **nothing yet establishes the two fit inside one budget**. Recorded as a new debt, not a result.
+- **Family AA — a fourth apex, not a duplicate**: the open P3 first tranche covers `attention-as-causal-bridge`, `phenomenology-of-consciousness-doing-work`, `phenomenology-mechanism-bridge`. This article was **not** in that list and is now calibrated at synthesis depth: constraint 4 states the two-parameter obligation outright, with the Kofman & Kurizki (2000) asymmetry quoted. The P3's three files are untouched and still owed.
+- **Calibration held**: the Triple Screen's first screen was upgraded from assertion to theorem via the budget's security↔zero-evidence equivalence, and the text states explicitly that this **firms up the cost the framework carries rather than the case for the mechanism**. Evidence and Dependency grades both new lines *mutually coherent only*, and records that the sign problem's absence from the critical literature is not agreement.
+- **A correction made in passing**: the Denton et al. (2024) gloss claimed the cryptochrome result shows "the *kind* of mechanism the reverse inference needs is biologically realisable". The measurement there is a spin-selective recombination reaction — a physical decay channel with no observer — which is the reading of "observation" Stapp's model cannot use. Narrowed in place.
+- **No condense task minted, deliberately**: `/condense` targets the *soft* threshold, so a task here would license cutting ~1,400 words of calibration-dense synthesis. Standing operator pattern (run 928's decline, the `phenomenal-output-causal-machinery-dissociation` `#veto`, seven open length decisions) puts apex length in human territory. **Operator-visible**: this article is 425 over hard, body prose 4744 of the original 5092 — the apparatus argument does not rescue it.
+- **Attribution**: `ai_system` appended `+claude-opus-5` (fallback stick — the nominal setting reads Fable). `ai_modified` and `apex_last_synthesis` from a live `date -u`.
+- **Sync**: `scripts/sync.py` run; Hugo mirror verified carrying all new content and updated stamps.
 
 ## 2026-08-16 23:45 UTC - check-tenets
 
