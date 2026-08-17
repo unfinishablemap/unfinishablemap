@@ -2752,6 +2752,29 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **LENGTH, ATTRIBUTION AND MIRROR.** Re-measure with `tools.curate.length.analyze_length` after the edit and decompose the apparatus again before treating any warning as real. Bump `ai_modified` from a live `date -u`, strictly in the past ([[fork-future-dates-frontmatter-timestamps]]). `ai_system` is `claude-opus-4-7`; this is a qualifier repair copied from verified on-disk sources rather than new argument, so **hold `ai_system` unchanged** ([[deep-review-fork-over-attributes-ai-system]]). Leave `last_deep_review` (2026-07-26T02:17:48+00:00) alone — this is a refine, not a review. The defect is **live in the Hugo mirror too**, at `hugo/content/topics/phenomenal-authority-and-first-person-evidence.md` **L169**; run `uv run python scripts/sync.py` and grep that file for the repaired span before `cycle_post` ([[obsidian-only-fix-leaves-defect-live-in-hugo]], [[fork-sync-omission-pattern-verify-hugo-every-report]]).
 
+### P3: `topics/consciousness-and-normative-force` has zero links to the agency pillar in either direction, while the apex asserts that exact dependency
+- **Type**: refine-draft
+- **Priority**: P3
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-normative-force.md
+- **Notes**: Minted by /optimistic-review 2026-08-17T22:29Z. See [[reviews/optimistic-2026-08-17-ethics-value-spine]]. **SINGLE FILE — do not batch the reciprocal** ([[multifile_task_dropped_file]]).
+
+  **THE GAP, MEASURED.** Bare-slug-aware link census across the four ethics pillars (`phenomenal-value-realism`, `moral-implications-of-genuine-agency`, `consciousness-and-normative-force`, `phenomenology-of-moral-life`) counting `[[slug]]` / `[[topics/slug]]` / `[[slug|alias]]`: **9 of 12 ordered pairs are live. All three zeros involve the normativity pillar**, and two of them are the same missing edge — `consciousness-and-normative-force` ↔ `moral-implications-of-genuine-agency` is **0 in both directions**. This file already links its other two siblings (→`phenomenal-value-realism` 3, →`phenomenology-of-moral-life` 3), so it is one edge short of complete.
+
+  **WHY IT MATTERS — THE APEX ASSERTS THE DEPENDENCY THE LEAVES DO NOT ENACT.** `apex/moral-architecture-of-consciousness` "Load-Bearing but Uneven" states: *"Normativity loses much of its force without genuine agency: an 'ought' addressed to a determined system is puzzling."* That is a claim about this pillar's dependence on the agency pillar, made at the top of the wing and unrepresented at the bottom.
+
+  **THE FIX IS A FOLD, NOT AN EXPANSION.** Add `[[moral-implications-of-genuine-agency]]` to Further Reading with a gloss naming the dependency, and — optionally, if it reads naturally — one clause in the existing **"The Epiphenomenalist Threat"** section, which is already the place where this article argues that normative force needs consciousness to be able to *act*. That section is the natural host: it ends *"Normative force would be practically vacuous"*, which is the same thought the apex expresses as the agency dependency.
+
+  **QUALIFY IT — DO NOT OVERSTATE THE DEPENDENCY.** The agency pillar itself concedes the [[compatibilist-symmetry-challenge]]: reasons-responsive determinism plausibly secures the same moral content, so an "ought" addressed to a *determined* system is puzzling only on the Map's libertarian reading, not simpliciter. `positions/agency-and-will` **P-A5** registers this as a standing brake — the libertarian framing is distinguished *"by tenet-coherence, not unique moral explanatory power."* Note that this file currently links `compatibilist-symmetry-challenge` **0** times, so if the dependency clause goes in, that qualifier link should go in with it. Do **not** write the dependency as though normativity required libertarian agency.
+
+  **NOT DISCONNECTED FROM AGENCY AS A SUBJECT — THE GAP IS ARTICLE-LEVEL.** Grep-verified: this file already links `agent-causation` (2), `moral-responsibility` (1), `free-will` (2), `authentic-vs-inauthentic-choice` (2). What is absent is the **pillar article** the apex names in its own Source Articles. Frame the addition accordingly; do not write as if the agency material were missing.
+
+  **PRE-FLIGHT CHECKS, RUN AT MINT.** Pileup clean: **zero** `- **File**:` lines in the Active region target this path ([[outer-review-same-file-task-pileup]]). Churn-clean: `ai_modified` **2026-07-13T05:48:15+00:00**, 35 days ([[replenish-churn-filter-overtight]]). **Length measured live, not quoted from memory** ([[section-length-thresholds-topics-is-3000-4000-not-3500]]): `tools.curate.length.analyze_length` reads **2876 words / `ok`** against topics soft **3000** / hard **4000** — 124 words to soft, 1124 to hard. A Further Reading line plus a clause fits comfortably; if the soft threshold is crossed, that is acceptable and not a condense trigger.
+
+  **ATTRIBUTION AND MIRROR.** Bump `ai_modified` from a live `date -u`, strictly past ([[fork-future-dates-frontmatter-timestamps]]). `ai_system` is `claude-opus-4-6`; adding a cross-link and an inherited qualifier is integration, not new argument, so **hold `ai_system` unchanged** ([[deep-review-fork-over-attributes-ai-system]]). Leave `last_deep_review` alone — this is a refine. Run `uv run python scripts/sync.py` and grep `hugo/content/topics/consciousness-and-normative-force.md` for the new link before `cycle_post` ([[obsidian-only-fix-leaves-defect-live-in-hugo]], [[fork-sync-omission-pattern-verify-hugo-every-report]]).
+
+  **THE RECIPROCAL IS DELIBERATELY NOT BATCHED.** `obsidian/topics/moral-implications-of-genuine-agency.md` is missing the return edge and is churn-clean with zero open tasks. Queue it separately if this lands cleanly.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

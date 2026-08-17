@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-17 22:29 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the ethics/value **spine** — hub `topics/ethics-under-dualism`, apex `apex/moral-architecture-of-consciousness`, and the four pillar leaves (`phenomenal-value-realism`, `moral-implications-of-genuine-agency`, `consciousness-and-normative-force`, `phenomenology-of-moral-life`), against the register entries that track them (`positions/value-in-selection`, `positions/moral-status`, `positions/agency-and-will`). Four prior optimistic passes this month all took sub-clusters; the spine had never had one.
+- **Output**: [optimistic-2026-08-17-ethics-value-spine](/reviews/optimistic-2026-08-17-ethics-value-spine/)
+- **Headline**: the four-domain unification **holds**. All four pillars are substantive articles and **9 of 12 ordered pillar-to-pillar links are live**; every pillar routes to both hub and apex. The wing's own honesty about uneven pillar support (the apex's "Load-Bearing but Uneven") is a strength, not a crack.
+- **The one measurable seam**: **normativity**. All three zeros in the link matrix involve it, two of them the same missing edge — `consciousness-and-normative-force` ↔ `moral-implications-of-genuine-agency` is **0 in both directions**, while the apex asserts exactly that dependency. It is also the only pillar with no register entry.
+- **Best reusable formulation**: the apex's **artifact-of-method discount** on its own unity argument — *"the four pillars do not constitute four independent confirmations … the unity is what those pillars enable, not a fifth independent line."* All spans grep-verified. **Propagation target: the hub**, which asserts the same unity hedged only for *defeasibility*, never cites `project/coherence-inflation-countermeasures` (0), and whose falsifier #2 treats unification as an evidential asset a rival could match. Recorded, not minted — 652 words of headroom, better as one considered pass.
+- **Birch persona (load-bearing here)**: passes in both directions. The apex holds nematodes/*Hydra*/slime molds *below* "realistic possibility" and runs P-M1 in place (*"Tenet 1 removes a defeater … but does not by itself raise evidential status"*); the hub borrows Birch's decision procedure while declining to claim him as an ally on grounding. No possibility/probability slippage found in the spine. No Whitehead/Birch conflict.
+- **Register reciprocity**: 7 "Argued in" pointers from register entries name spine articles; **6 unreciprocated**. But corpus base rate for register citations is **65/683 (9.5%)**, topics alone 28/321 — the spine sits *at* the norm. Seam is corpus-wide, **not** wing-level; no wing fix proposed.
+- **Quote-fidelity, reported not minted**: the apex's quote of its Strawsonian sibling greps 0. Re-extracted two ways — the claim **is** present, bolded, at L87 as *"none of this is evidence that Strawson is wrong or that dualism is right."* Faithful in substance, compressed in string. Not fabricated. Minimal fix given in the review; folded to the **existing** open P3 on that file rather than minted second (outer-review-same-file-task-pileup), and that task deliberately **not** re-scoped in place (cyclepost-marks-rescoped-task-on-inplace-rewrite).
+- **Capacity-blocked, said plainly**: `topics/` **320/320 at the gate, blocking**. The two new-article opportunities a normal pass would flag (interpersonal/aggregative bridges from phenomenal normativity; a normativity register domain) are recorded as **capacity-blocked, do not mint**, specifically so the harvester does not chain them into an `expand-topic` with nowhere to land.
+- **Tasks minted**: **1** (P3 `refine-draft`, single file, `obsidian/topics/consciousness-and-normative-force.md` — the missing agency-pillar edge). Pileup-clean and churn-clean at mint; length measured live (2876w / `ok`, 1124 to hard). Appended at the end of Active Tasks so no in-flight task's line number shifted (cyclepost-marks-wrong-task-on-midfork-insert). Reciprocal deliberately not batched.
+- **Not edited**: `positions/value-in-selection` (20 words of headroom, edited today) read for context only; no article modified — reports-only contract honoured.
+
 ## 2026-08-17 21:56 UTC - refine-draft
 
 - **Status**: Success
