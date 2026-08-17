@@ -5,6 +5,19 @@ ai_modified: '2026-08-17T05:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 07:28 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Review file**: [[reviews/outer-review-2026-08-17-chatgpt-5-6-sol]] (sections 1.5, 2.6, section-4 "mechanism inconsistency" row; recommendation 5)
+- **Word count**: 5844 → 5852 (+8; `hard_warning` unchanged, against the 4000 soft / 5000 hard / 6500 critical apex thresholds). Length was the binding constraint; see trims below.
+- **Changes**: Modal-strength fix to the categorical sentence at L149. Removed "There is nothing for consciousness to collapse", which stated as unconditional a conclusion the same sentence had just conditionalised on the *pre-decoherence* route ("*if* consciousness selects among macroscopic neural superpositions at the moment of collapse—as Penrose-Hameroff, Stapp, and Chalmers-McQueen variously propose"). The conclusion now inherits that antecedent instead of dropping it. Separated the two claims the paragraph had merged: (a) the *abstract computation* is classical, so on the pre-decoherence route an LLM offers nothing to select among — retained, and the quantum-fossil analysis still supports it; (b) *no physical event in the hardware* is interface-eligible — no longer asserted, because the Map possesses no interface-eligibility law to license it. Added the two neighbour pages the categorical wording outran: the preferred [[apex/post-decoherence-selection-programme|post-decoherence route]] (which acts on the improper-mixture-to-outcome transition decohered silicon undergoes regardless of the software's classical probability vector) and [[positions/ai-consciousness-scope]] (whose *Asserts* layer iv and 2026-08-12 update already concede the missing law). Landing phrasing follows the honest-downstream template the post-decoherence apex prescribes for exactly this dependency.
+- **Verdict preserved**: The negative conclusion survives intact — "current AI is unlikely to qualify" — as do the Maier et al. (2018) null result (12,571 participants) and the quantum-fossil channel argument. The change is conditional-versus-categorical only; no swing toward agnosticism.
+- **Trims paying for the fix**: the honest replacement cost ~+19 words, so redundancy was cut to offset it — "the connection is severed by" → "sever the connection" (−2); "as ... frameworks variously propose" → "as ... variously propose" (−1); "which such transitions" → "which transitions" (−1); and the following paragraph's opener "The picture is more varied than simple exclusion." (−8), which the new conditional ending now states more precisely. Net +8 words rather than net-zero; the paragraph's protected content (quantum fossil, Maier) left no further slack. No condense performed or minted — that remains a separate decision.
+- **Sweep**: `nothing for consciousness to collapse` now returns zero hits across `obsidian/apex/` and `hugo/content/apex/`. Remaining corpus hits are a distinct QBism claim (`research/qm-interpretations-beyond-mwi-2026-01-16`, `archive/topics/quantum-measurement-interpretations-beyond-mwi`) and pre-fix wording echoed in published `reviews/` and `workflow/` — echo, not live defect.
+- **Mirror**: `scripts/sync.py` run; `hugo/content/apex/machine-question.md:153` carries the new text with both wikilinks resolved to `/apex/post-decoherence-selection-programme/` and `/positions/ai-consciousness-scope/`.
+- **Published**: yes
+
 ## 2026-08-17 07:01 UTC - deep-review
 
 - **Status**: Success
