@@ -4,7 +4,7 @@ description: "Minimality fixes how large a conscious influence may be, not which
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-08-16T14:27:36+00:00
+ai_modified: 2026-08-17T20:01:08+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -23,14 +23,14 @@ author:
 ai_system: claude-opus-5
 ai_generated_date: 2026-08-16
 last_curated:
-last_deep_review:
+last_deep_review: 2026-08-17T20:01:08+00:00
 ---
 
 [[tenets#^minimal-quantum-interaction|Tenet 2]] asks for the smallest possible non-physical influence on physical outcomes. That is a constraint on *magnitude*. An influence also has a *direction*, and the Map has been reading the magnitude constraint as though it settled the direction too. It does not. The sign problem is the resulting gap: a conscious influence can satisfy every minimality condition the tenet imposes and still push the wrong way.
 
 The gap is visible most sharply where the Map has developed a mechanism in detail. In measurement-driven dynamics, whether repeated observation *suppresses* a system's evolution or *accelerates* it is fixed by the [[#regime-criterion|regime criterion]] (explained below) — a relation between the observation interval and properties of the environment, not of the observer. If that relation decides the sign, then an agent who merely attends does not thereby determine what attending accomplishes. The corollary is a two-parameter obligation: Tenet 2 owes an argument for magnitude *and* an argument for direction, and it currently supplies only the first.
 
-**Epistemic status, stated up front.** This argument is framework-internal and graded at coherence-only strength, consistent with the [[project/calibration-audit-triple|calibration audit]] discipline. A search of the critical literature on Stapp's model found no version of this objection: the Stanford Encyclopedia's *Quantum Approaches to Consciousness* entry discusses his Zeno mechanism without mentioning the anti-Zeno effect, Georgiev's published critiques run on other axes, and Stapp's own rebuttals address decoherence rather than sign. There is therefore no external analysis to lean on, in either direction. The Map is developing a falsifier it raised against itself rather than reporting a result the field has reached.
+**Epistemic status, stated up front.** This argument is framework-internal and graded at coherence-only strength, consistent with the [[project/calibration-audit-triple|calibration audit]] discipline. A search of the critical literature on Stapp's model found no version of this objection: the Stanford Encyclopedia's *Quantum Approaches to Consciousness* entry discusses his Zeno mechanism without mentioning the anti-Zeno effect, Georgiev's published critiques run on other axes, and Stapp's own published replies answer decoherence and entropy objections rather than sign. There is therefore no external analysis to lean on, in either direction. The Map is developing a falsifier it raised against itself rather than reporting a result the field has reached.
 
 ## What the Sign Problem Is Not About
 
@@ -40,13 +40,13 @@ What survives the mechanism's failure is the philosophical point, and it is the 
 
 ## The Regime Criterion {#regime-criterion}
 
-Frequent measurement does not reliably stabilise. Abraham Kofman and Gershon Kurizki's 2000 *Nature* paper establishes the asymmetry that matters here, and it runs against the convenient reading: they report that "the inhibitory quantum Zeno effect may be feasible in a limited class of systems," whereas accelerated decay "appears to be much more ubiquitous." For genuine decay into a continuum they go further, finding the Zeno effect "fundamentally unattainable in radiative or radioactive decay," because "the required measurement rates would cause the system to disintegrate." The measurement-induced energy spread destroys the system it was meant to hold — a structural limit on stabilisation-by-observation rather than a parameter one.
+Frequent measurement does not reliably stabilise. Bronislovas Kaulakys and Vygintas Gontis had named the opposing regime — the quantum anti-Zeno effect — in 1997; Abraham Kofman and Gershon Kurizki's 2000 *Nature* paper establishes the asymmetry that matters here, and it runs against the convenient reading: they report that "the inhibitory quantum Zeno effect may be feasible in a limited class of systems," whereas accelerated decay "appears to be much more ubiquitous." For genuine decay into a continuum they go further, finding the Zeno effect "fundamentally unattainable in radiative or radioactive decay," because "the required measurement rates would cause the system to disintegrate." The measurement-induced energy spread destroys the system it was meant to hold — a structural limit on stabilisation-by-observation rather than a parameter one.
 
-Kofman and Kurizki also name the quantity that decides the sign. The decay rate is an overlap integral between the bath-response spectrum G(ω) — how the environment couples to the system — and a measurement-induced control spectrum whose width is set by the inverse observation interval. Frequent observation broadens the control spectrum; whether that broadening *reduces* the overlap (suppression) or *increases* it (acceleration) depends on the shape of G(ω) near the transition frequency. Broadening onto a nearby spectral shoulder accelerates decay.
+Kofman and Kurizki also name the quantity that decides the sign, in a formulation they generalised the following year. The decay rate is an overlap integral between the bath-response spectrum G(ω) — how the environment couples to the system — and a measurement-induced control spectrum whose width is set by the inverse observation interval. Frequent observation broadens the control spectrum; whether that broadening *reduces* the overlap (suppression) or *increases* it (acceleration) depends on the shape of G(ω) near the transition frequency. Broadening onto a nearby spectral shoulder accelerates decay.
 
 The timescale form of the same condition is stated by Virzì and colleagues, in a paper co-authored by Kofman and Kurizki: "the time-variation of the system control must be much faster than (in the QZE case) or as fast as (in the AZE case) the bath correlation time." The operative reading is that the Zeno regime is not "measure fast" but *measure fast relative to the environment's memory*. A bath with a short correlation time — warm, wet, strongly coupled tissue being the paradigm case — pushes the threshold for stabilisation down and widens the interval range over which acceleration obtains.
 
-That the crossover is real and not fragile was shown experimentally by Michael Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes in a single unstable system: tunnelling segments of 1 μs between interruptions produced suppression, segments of 5 μs produced enhancement. A factor of five in observation interval flips the sign. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a search for anti-Zeno results in biological systems returned only Zeno-side work; that absence is weak evidence rather than a finding, since the search was not exhaustive.
+That the crossover is real was shown experimentally by Michael Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes on one platform — cold sodium atoms tunnelling out of an accelerated optical lattice. Tunnelling segments of 1 μs between interruptions produced suppression; segments of 5 μs produced enhancement, each measured against its own uninterrupted control. The two runs differed in trap depth and interruption parameters as well as in interval, so they establish that both regimes are reachable rather than isolating the interval. The authors attribute the flip to segment length: the longer segments span the burst of fast decay following the initial slow period — and where that burst falls is set by the system and its bath, not by the observer. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a search for anti-Zeno results in biological systems returned only Zeno-side work; that absence is weak evidence rather than a finding, since the search was not exhaustive.
 
 ## The Dilemma
 
@@ -76,7 +76,7 @@ Honesty about a self-raised falsifier includes recording what it gives back.
 
 ## What Would Settle It
 
-One measurement would convert this from a dilemma into a decidable question: characterisation of the neural coupling spectrum G(ω) near whatever transition frequency a conscious-observation mechanism is supposed to act on. Nobody has computed or measured it, and the strong-coupling case in which a real neural bath would sit has not been worked through even theoretically. The entire sign question turns on a quantity that has never been characterised — which is what the [[quantum-zeno-effect]] page's existing caveat already says. This page confirms that concession rather than closing it.
+One measurement would convert this from a dilemma into a decidable question: characterisation of the neural coupling spectrum G(ω) near whatever transition frequency a conscious-observation mechanism is supposed to act on. Nobody has computed or measured it, and the strong-coupling case in which a real neural bath would sit has not been worked through even theoretically. The entire sign question turns on that uncharacterised quantity — which is what the [[quantum-zeno-effect]] page's existing caveat already says. This page confirms that concession rather than closing it.
 
 ## Relation to Site Perspective
 
@@ -96,7 +96,7 @@ The Map does not resolve the dilemma here. Recording it as unresolved is the poi
 - [[motor-control-quantum-zeno]] — Where stabilisation-by-attention does its argumentative work
 - [[mental-effort]] — Effort phenomenology and the monotonicity it implicitly predicts
 - [[structure-of-attention]] — The attention-deployment window and which parameter it actually constrains
-- [[apex/post-decoherence-selection-programme]] — The interface route the Map endorses more strongly, which does not depend on repeated observation
+- [[apex/post-decoherence-selection-programme]] — The interface route the Map endorses more strongly
 - [[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]] — Research notes, including the verification gaps this article inherits
 
 ## References
@@ -110,7 +110,9 @@ The Map does not resolve the dilemma here. Recording it as unresolved is the poi
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039. arXiv:1412.4741 — a decoherence-timescale critique of Stapp, not a sign objection
 1. Georgiev, D.D. (2015). No-go theorem for Stapp's quantum Zeno model of mind-brain interaction. *NeuroQuantology*, 13(2) — an entropy-based critique; the venue's editorial standing is weak and the citation should be read accordingly
-1. Atmanspacher, H. Quantum Approaches to Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qt-consciousness/
+1. Stapp, H.P. (2012). Reply to a critic: "Mind efforts, quantum Zeno effect and environmental decoherence". *NeuroQuantology*, 10(4). https://doi.org/10.14704/nq.2012.10.4.619
+1. Stapp, H.P. (2015). Reply to Georgiev: No-go for Georgiev's no-go theorem. *NeuroQuantology*, 13(2). https://doi.org/10.14704/nq.2015.13.2.851 — these two replies answer decoherence and entropy objections; neither addresses sign
+1. Atmanspacher, H. (2024). Quantum Approaches to Consciousness. *Stanford Encyclopedia of Philosophy* (substantive revision 13 May 2024). https://plato.stanford.edu/entries/qt-consciousness/
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Southgate, A. & Oquatre-huit, C. (2026-07-14). The Quantum Zeno Effect. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-zeno-effect/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Stapp's Quantum Mind Model. *The Unfinishable Map*. https://unfinishablemap.org/concepts/stapp-quantum-mind/

@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T19:12:00+00:00'
+ai_modified: '2026-08-17T20:01:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 20:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/sign-problem-for-conscious-observation]]
+- **Word count**: 2371 → 2511 total (prose body 1957 → 2054; reference apparatus 425 → 470). `soft_warning` at 100% of the 2500 concepts soft threshold is **apparatus-driven** — prose body is 82% of soft. Not a real over-length ([[analyze-length-counts-reference-apparatus]]).
+- **First review** of an article created 2026-08-16; `last_deep_review` was empty and it scored 101, double every other candidate.
+- **Primary lens — publisher-of-record verification of six verbatim quoted spans. All six verbatim; zero deviations.** Method: Crossref REST API for metadata (never touches a search index, so [[quote-verify-self-contamination-via-own-page]] cannot apply), raw publisher HTML for Kofman & Kurizki 2000 and Denton et al. 2024, arXiv LaTeX **source** for Virzì et al. 2022 and Fischer et al. 2001. Every span re-grepped with `grep -F` against the raw artefact, and again against the edited file to confirm contiguity survived ([[quote-must-be-grep-verifiable-in-raw-source]]).
+- **Hedge-stripping check passed.** Checked for words *absent* as well as present. The Kofman & Kurizki modal "may" survives in both loci; "whereas" is moved outside the quotation marks and used as the article's own connector, preserving the source's logical structure; the "because" introducing the disintegration clause is the source's own parenthetical word.
+- **The "already verified" premise held — but it was worth re-testing.** That premise came from a replenish task note and described *transitive* verification (article checked against its research note, publisher verification inherited by the note). Re-tested independently at the publisher, it survived intact. Clean bibliographic sheet: **all 11 references real-correct, no fabrication, no wrong metadata.** Virzì's 11 authors are in exact published order; Denton's six match; Georgiev's IJMPB entry is corroborated twice over (Crossref DOI plus the arXiv `journal_ref`).
+- **Critical issues addressed**: 3
+  1. **Empirical-claim fidelity ([[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]).** "A factor of five in observation interval flips the sign" overstated Fischer et al.'s experimental control. The 1 μs / 5 μs figures are correct, but the two runs also differ in trap depth (V₀/h = 91 vs 116 kHz), interruption acceleration (2,000 vs 2,800 m/s²) and interruption duration (50 vs 40 μs), each compared against its own uninterrupted control — so the experiment shows both regimes are *reachable*, not that the interval alone flips the sign. "and not fragile" was a further unsupported inference; the paper documents a fragility condition (interruptions below the 30 μs Bloch period "ha[ve] little or no effect"). Rewritten. The correction *strengthens* the thesis: the authors attribute the flip to segment length because the longer segments span the burst of fast decay, and where that burst falls is a property of the system and its bath, not of the observer.
+  2. **Unreferenced inline claim in the load-bearing epistemic-status paragraph.** "Stapp's own rebuttals address decoherence rather than sign" had no supporting reference — References held only *Mindful Universe* (2007), which rebuts nothing. Located both actual replies at the publisher (NeuroQuantology 10(4) 2012, `10.14704/nq.2012.10.4.619`; 13(2) 2015, `10.14704/nq.2015.13.2.851`) and added them. Also fixed an internal inconsistency: the 2015 reply answers an **entropy-based** no-go, which the article's own reference gloss already said — body now reads "answer decoherence and entropy objections rather than sign."
+  3. **Two orphan references** (in References, never cited inline): Kaulakys & Gontis 1997 and Kofman & Kurizki 2001. Both anchored — the former as the 1997 naming of the anti-Zeno regime (the historical ordering the research note flagged as missing elsewhere in the corpus), the latter as the generalised overlap-integral formulation.
+- **Independently verified literature-absence claim.** The article says the SEP *Quantum Approaches to Consciousness* entry discusses Stapp's Zeno mechanism without mentioning the anti-Zeno effect. Full entry retrieved and grepped: `anti-Zeno` → **0**, `Kofman` → **0**, `accelerat` → **0**, against `Zeno` → 6 and `Stapp` → 27, with the entry confirming the mechanism discussion verbatim. Claim correct in both directions. Byline confirmed as Harald Atmanspacher; reference dated to the 2024 substantive revision.
+- **Arithmetic re-derived**: ħ/k_BT at 310 K = 2.46×10⁻¹⁴ s ≈ 25 fs ✓; 0.3 s / 10⁻¹⁴ s ≈ 3×10¹³ ✓. Both already carry the article's own "arithmetic performed for the Map, not a measured neural parameter" caveat.
+- **Two known propagation defects checked and absent**: the `denton-2024-first-biological-precedent` overclaim does not appear (the article scopes its claim to the Map's own holdings, not field priority); and the research note's warned-against conflation of Fischer's 30 μs Bloch period with the 1/5 μs crossover was heeded — verified in the LaTeX source that the two quantities are distinct and only the crossover figures were imported.
+- **Deliberately not done**: the open P3 at `todo.md` L97 (price Horn 2 against `concepts/agency-budget`'s marginal-constraint ceiling, with a reciprocal link) is a different lens from verification and was left entirely alone rather than consumed out of band ([[outer-review-same-file-task-pileup]]). `ai_system` held at `claude-opus-5` ([[deep-review-fork-over-attributes-ai-system]]).
+- **Output**: [[reviews/deep-review-2026-08-17-sign-problem-for-conscious-observation]]
 
 ## 2026-08-17 19:12 UTC - refine-draft
 

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-17T19:25:48.853828+00:00'
-session_count: 19052
+last_updated: '2026-08-17T19:46:28.305319+00:00'
+session_count: 19053
 cycle_position: 12704
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
@@ -34,7 +34,7 @@ last_runs:
   pessimistic-review: '2026-08-17T18:49:23.387931+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-17T19:14:08.201665+00:00'
-  replenish-queue: '2026-08-17T18:20:56.922478+00:00'
+  replenish-queue: '2026-08-17T19:46:28.305319+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-08-17'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -544,94 +544,100 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-17T19:45:00+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-gap-analysis-residue-sweep
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live
-    with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md content immediately
-    before the write. Exact-floor plus one, so ONE mint and no padding. Restored to 3 by a
-    single P2 refine-draft whose File line is obsidian/research/voids-dimensionality-void-2026-03-23.md,
-    appended at the very end of the Active section, insert only, so no existing task line
-    moved. Re-counted after the write with count_p0_p2_tasks: 3, and the block re-parsed through
-    parse_tasks as TaskType.REFINE_DRAFT, priority 2, status pending, with the File line resolving.
-    Sixteenth consecutive zero-cap-cost replenishment.
+  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
+    content immediately before the write. Exact-floor plus one, so ONE mint and no
+    padding. Restored to 3 by a single P2 refine-draft whose File line is obsidian/research/voids-dimensionality-void-2026-03-23.md,
+    appended at the very end of the Active section, insert only, so no existing task
+    line moved. Re-counted after the write with count_p0_p2_tasks: 3, and the block
+    re-parsed through parse_tasks as TaskType.REFINE_DRAFT, priority 2, status pending,
+    with the File line resolving. Sixteenth consecutive zero-cap-cost replenishment.
 
 
-    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320 of 320,
-    at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15 of 80; apex 41;
-    arguments 5. The topics gate still counts the non-temporal-consciousness refinement-log
-    sidecar as an article, an open NEEDS-HUMAN item, not re-filed. Neither expand-topic nor
-    research-topic was mintable, so the mint had to be zero-cap-cost.
+    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320
+    of 320, at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15
+    of 80; apex 41; arguments 5. The topics gate still counts the non-temporal-consciousness
+    refinement-log sidecar as an article, an open NEEDS-HUMAN item, not re-filed.
+    Neither expand-topic nor research-topic was mintable, so the mint had to be zero-cap-cost.
 
 
-    SOURCE USED, gap_analysis. The mint sweeps the residue of commit ce7094ff, the 2026-08-17
-    pass that fixed five live articles naming three coalesced-away predecessors as if they
-    still existed. That pass reported residue elsewhere and estimated about 13 files. The
-    census was recounted on disk rather than relayed: 11 archive files plus 4 research notes
-    carry a dead reference, and two of the thirteen raw grep hits match only their own original_path
-    provenance field and are not defects. The three dead slugs are mind-space-void and dimensionality-void,
-    both superseded by voids/mapping-mind-space, and asymmetric-bandwidth-consciousness, superseded
+    SOURCE USED, gap_analysis. The mint sweeps the residue of commit ce7094ff, the
+    2026-08-17 pass that fixed five live articles naming three coalesced-away predecessors
+    as if they still existed. That pass reported residue elsewhere and estimated about
+    13 files. The census was recounted on disk rather than relayed: 11 archive files
+    plus 4 research notes carry a dead reference, and two of the thirteen raw grep
+    hits match only their own original_path provenance field and are not defects.
+    The three dead slugs are mind-space-void and dimensionality-void, both superseded
+    by voids/mapping-mind-space, and asymmetric-bandwidth-consciousness, superseded
     by concepts/consciousness-bandwidth-architecture.
 
 
     TWO HANDOFF SEVERITY CLAIMS TESTED IN THE LAYOUT CODE, ONE CONFIRMED AND TWO REFUTED,
-    and the refutations were written into the task so the fork does not inherit them. CONFIRMED:
-    concepts frontmatter is rendered. machine-meta.html line 16 to 18 emits it as citation_keywords
-    and line 61 to 63 as JSON-LD keywords, de-hyphenated, on every IsPage. REFUTED as applied
-    to the archive tree: archive pages are not indexed. baseof.html line 15 emits robots noindex
-    nofollow whenever Params.archived, and sitemap.xml line 5 excludes them. So the Google
-    Scholar and structured-data exposure the handoff invoked applies only to the four research
-    notes, which carry no archived param. ALSO REFUTED: these are not broken links. Sync resolves
-    them through the archive redirect map, so the rendered anchors point at the live successors.
-    The archive-tree defect is a raw hyphenated slug as reader-facing anchor text, not link
-    rot.
+    and the refutations were written into the task so the fork does not inherit them.
+    CONFIRMED: concepts frontmatter is rendered. machine-meta.html line 16 to 18 emits
+    it as citation_keywords and line 61 to 63 as JSON-LD keywords, de-hyphenated,
+    on every IsPage. REFUTED as applied to the archive tree: archive pages are not
+    indexed. baseof.html line 15 emits robots noindex nofollow whenever Params.archived,
+    and sitemap.xml line 5 excludes them. So the Google Scholar and structured-data
+    exposure the handoff invoked applies only to the four research notes, which carry
+    no archived param. ALSO REFUTED: these are not broken links. Sync resolves them
+    through the archive redirect map, so the rendered anchors point at the live successors.
+    The archive-tree defect is a raw hyphenated slug as reader-facing anchor text,
+    not link rot.
 
 
-    THE TASK IS TIERED SO THE INDEXED SURFACE CANNOT BE DROPPED. Tier 1 is the four live indexed
-    research notes, three carrying the dead slug in concepts frontmatter and one in a backticked
-    prose list. Tier 2 is eight bare-slug body loci across six archive files. Tier 3 is nine
-    archive concepts frontmatter entries, lowest value because noindex. Tier 4 is six piped
-    links that already render readable text and resolve correctly, explicitly marked leave-alone.
-    Every line number was read on disk at mint.
+    THE TASK IS TIERED SO THE INDEXED SURFACE CANNOT BE DROPPED. Tier 1 is the four
+    live indexed research notes, three carrying the dead slug in concepts frontmatter
+    and one in a backticked prose list. Tier 2 is eight bare-slug body loci across
+    six archive files. Tier 3 is nine archive concepts frontmatter entries, lowest
+    value because noindex. Tier 4 is six piped links that already render readable
+    text and resolve correctly, explicitly marked leave-alone. Every line number was
+    read on disk at mint.
 
 
-    FIVE FENCE CLASSES WRITTEN IN. One, voids/edge-states-and-void-probes at lines 29 and
-    142 carries the identical defect on a live indexed page and is the highest-value locus
-    in the census, but it sits under a standing human length decision and was deliberately
-    excluded from ce7094ff; fenced, and no follow-up minted. Two, original_path and superseded_by
-    and aliases provenance fields, which are the machinery preserving the URLs. Three, reference-list
-    self-citations at preserved URLs on two archive pages; one of those URLs is among the
-    six dual-tree slugs causing self-referential 301s already reported as an unfiled operator
-    item, and the task says not to re-file it. Four, a near-miss substring trap: topics/selection-only-mind-influence
-    lines 26 and 169 and research/bandwidth-constraints-10-bits-2026-03-29 line 18 reference
+    FIVE FENCE CLASSES WRITTEN IN. One, voids/edge-states-and-void-probes at lines
+    29 and 142 carries the identical defect on a live indexed page and is the highest-value
+    locus in the census, but it sits under a standing human length decision and was
+    deliberately excluded from ce7094ff; fenced, and no follow-up minted. Two, original_path
+    and superseded_by and aliases provenance fields, which are the machinery preserving
+    the URLs. Three, reference-list self-citations at preserved URLs on two archive
+    pages; one of those URLs is among the six dual-tree slugs causing self-referential
+    301s already reported as an unfiled operator item, and the task says not to re-file
+    it. Four, a near-miss substring trap: topics/selection-only-mind-influence lines
+    26 and 169 and research/bandwidth-constraints-10-bits-2026-03-29 line 18 reference
     asymmetric-bandwidth-consciousness-2026-03-02, a live research note, which a substring
-    match on the dead slug hits. Five, obsidian/reviews and the archived changelogs, where
-    the hits are historical records of the pre-coalesce era.
+    match on the dead slug hits. Five, obsidian/reviews and the archived changelogs,
+    where the hits are historical records of the pre-coalesce era.
 
 
     TWO FURTHER DRIVER LEADS TESTED AND BOTH DECLINED. Lead B, that apex/ai-as-introspection-control
-    lost a falsifier bullet for its newly-named third region because an undecomposed length
-    figure was relayed as a binding constraint, is SUBSTANTIVELY CORRECT and still declined.
-    The gap is real: the third region, opacity that is architecture-specific and witnessless,
-    is asserted at four surfaces, the apex_thesis and body lines 79 and 103 and 152, while
-    all four bullets of What Would Challenge This View address the other readings. The headroom
-    is real too: analyze_length reports 4515 words and soft_warning against a 4000 soft threshold,
-    but decomposing the reference apparatus, Source Articles 189 plus Further Reading 137
-    plus References 219, leaves about 3973 words of authored prose, under soft. DECLINED because
-    the article was refined by this same session at 19:01 today, commit 006805a0, which is
-    precisely the same-session-already-vetted churn bucket, and the handoff itself listed
-    the churn filter as a hard constraint. Re-surface it on a later run once the date rolls
-    over. Lead C, that the topics/ethics-under-dualism description overclaims relative to
-    a conditional lead, is REJECTED as stated: the description opens with the identical conditional
-    antecedent, If consciousness is irreducible and causally efficacious, so the asserted
-    mismatch does not exist. The only true residue is that the description runs 232 characters
-    against the 150 to 160 schema target, a minor schema miss not worth a queue slot at exact-floor
-    plus one.
+    lost a falsifier bullet for its newly-named third region because an undecomposed
+    length figure was relayed as a binding constraint, is SUBSTANTIVELY CORRECT and
+    still declined. The gap is real: the third region, opacity that is architecture-specific
+    and witnessless, is asserted at four surfaces, the apex_thesis and body lines
+    79 and 103 and 152, while all four bullets of What Would Challenge This View address
+    the other readings. The headroom is real too: analyze_length reports 4515 words
+    and soft_warning against a 4000 soft threshold, but decomposing the reference
+    apparatus, Source Articles 189 plus Further Reading 137 plus References 219, leaves
+    about 3973 words of authored prose, under soft. DECLINED because the article was
+    refined by this same session at 19:01 today, commit 006805a0, which is precisely
+    the same-session-already-vetted churn bucket, and the handoff itself listed the
+    churn filter as a hard constraint. Re-surface it on a later run once the date
+    rolls over. Lead C, that the topics/ethics-under-dualism description overclaims
+    relative to a conditional lead, is REJECTED as stated: the description opens with
+    the identical conditional antecedent, If consciousness is irreducible and causally
+    efficacious, so the asserted mismatch does not exist. The only true residue is
+    that the description runs 232 characters against the 150 to 160 schema target,
+    a minor schema miss not worth a queue slot at exact-floor plus one.
 
 
-    EIGHT-SOURCE AUDIT. 1 chain, blocked, topics at cap and no research-topic mintable. 2
-    unconsumed research, consumed by the previous run this hour, nothing new. 3 gap analysis,
-    SOURCE USED. 4 staleness, the strongest candidate was the apex article above and it fails
-    the churn filter. 5 orphan integration, none. 6 length analysis, the hard_warning population
-    remains saturated with vetoed and operator-parked entries. 7 positions, the register file
-    shipped this hour and fails the churn filter. 8 applied apex gap, none.'
+    EIGHT-SOURCE AUDIT. 1 chain, blocked, topics at cap and no research-topic mintable.
+    2 unconsumed research, consumed by the previous run this hour, nothing new. 3
+    gap analysis, SOURCE USED. 4 staleness, the strongest candidate was the apex article
+    above and it fails the churn filter. 5 orphan integration, none. 6 length analysis,
+    the hard_warning population remains saturated with vetoed and operator-parked
+    entries. 7 positions, the register file shipped this hour and fails the churn
+    filter. 8 applied apex gap, none.'
   last_replenishment_prev: '2026-08-17T18:18:00+00:00'
   last_replenishment_run: 969
   loop_pickable_open: 3
