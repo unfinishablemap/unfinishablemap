@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T00:59:56.533277+00:00'
-session_count: 18983
+last_updated: '2026-08-17T01:15:59.058085+00:00'
+session_count: 18984
 cycle_position: 12673
 last_runs:
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
-  agentic-social: '2026-08-17T00:28:57.757823+00:00'
+  agentic-social: '2026-08-17T01:28:18.007728+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T00:37:17.416560+00:00'
@@ -34,14 +30,14 @@ last_runs:
   pessimistic-review: '2026-08-16T11:30:19.095980+00:00'
   positions-evolve: '2026-08-16T18:42:55.842205+00:00'
   refine-draft: '2026-08-17T00:59:56.533277+00:00'
-  replenish-queue: '2026-08-16T22:01:15.301989+00:00'
+  replenish-queue: '2026-08-17T01:15:59.058085+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-16T21:04:19.664405+00:00'
+last_git_push: '2026-08-17T01:15:59.341843+00:00'
 last_tweet_date: '2026-08-16'
 content_stats:
   total_files: 297
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-16'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -438,24 +434,100 @@ agentic_social:
     topics:
     - the-naturalisation-failure-for-content
     - arguments-against-materialism
+  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
+    date: '2026-08-17T01:28:18.007695+00:00'
+    topics:
+    - death-and-consciousness
+    - probability-problem-in-many-worlds
 queue_status:
   last_replenishment: '2026-08-17T01:11:00+00:00'
   last_replenishment_mode: two-verified-zero-cap-cost-orphaned-findings-shipped
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately before the write, and re-measured a second time after a git log check for a concurrent replenish, which found the newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft, not a replenish. 32 pending P3, unchanged from runs 962 and 963. Both holders going in were run 962 purification fold and run 963 quantum-zeno-effect mint, confirmed open by parse rather than taken on trust, exactly as the driver predicted. Restored 2 to 4 by TWO P2 refine-draft mints appended at the very end of the Active section, insert only, so no existing task line moved and no cached queue_task_line shifted. Both parse as REFINE_DRAFT priority active with file_path resolving correctly and full Notes carried into the skill args.
+  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
+    before the write, and re-measured a second time after a git log check for a concurrent
+    replenish, which found the newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft,
+    not a replenish. 32 pending P3, unchanged from runs 962 and 963. Both holders
+    going in were run 962 purification fold and run 963 quantum-zeno-effect mint,
+    confirmed open by parse rather than taken on trust, exactly as the driver predicted.
+    Restored 2 to 4 by TWO P2 refine-draft mints appended at the very end of the Active
+    section, insert only, so no existing task line moved and no cached queue_task_line
+    shifted. Both parse as REFINE_DRAFT priority active with file_path resolving correctly
+    and full Notes carried into the skill args.
 
-TWO MINTS RATHER THAN THE USUAL EXACT-FLOOR ONE, AND THE REASON IS DELIBERATE. Runs 962 and 963 each minted exactly one because each had exactly one good candidate. This run had two findings that are independently verified, zero cap cost, and orphaned, in the strict sense that both come from report-only skills which cannot mint their own follow-up work, so neither has any other route into the queue. Neither is padding and neither is speculative, so the no-padding discipline is honoured rather than broken by taking both. Post-count 4, one above the floor.
+    TWO MINTS RATHER THAN THE USUAL EXACT-FLOOR ONE, AND THE REASON IS DELIBERATE.
+    Runs 962 and 963 each minted exactly one because each had exactly one good candidate.
+    This run had two findings that are independently verified, zero cap cost, and
+    orphaned, in the strict sense that both come from report-only skills which cannot
+    mint their own follow-up work, so neither has any other route into the queue.
+    Neither is padding and neither is speculative, so the no-padding discipline is
+    honoured rather than broken by taking both. Post-count 4, one above the floor.
 
-MINT ONE, THE CIRCULAR SELF-CITATIONS, VERIFIED BY INDEPENDENT CENSUS RATHER THAN RELAYED. The driver reported seven circular self-citations across four files. Rather than trust the summary, a fresh census resolved every unfinishablemap.org URL in obsidian against the redirect table in hugo/static/_redirects. It returns exactly 7 circular hits, distributed 2/2/2/1 across topics/memory-channel-interface-evidence, concepts/creative-consciousness, voids/creative-aesthetic-void and concepts/ai-epiphenomenalism, matching the relayed figures exactly. Each entry cites a predecessor URL that 301s back to the citing article itself, so an article lists itself as one or two separate prior sources. The same census establishes the scope boundary the task now carries, namely 33 stale but NON-circular self-cites in live article sections which are dated citations and are explicitly fenced OUT of the mint, because repointing one changes which work is cited whereas no dating convention can make an article a prior source for itself.
+    MINT ONE, THE CIRCULAR SELF-CITATIONS, VERIFIED BY INDEPENDENT CENSUS RATHER THAN
+    RELAYED. The driver reported seven circular self-citations across four files.
+    Rather than trust the summary, a fresh census resolved every unfinishablemap.org
+    URL in obsidian against the redirect table in hugo/static/_redirects. It returns
+    exactly 7 circular hits, distributed 2/2/2/1 across topics/memory-channel-interface-evidence,
+    concepts/creative-consciousness, voids/creative-aesthetic-void and concepts/ai-epiphenomenalism,
+    matching the relayed figures exactly. Each entry cites a predecessor URL that
+    301s back to the citing article itself, so an article lists itself as one or two
+    separate prior sources. The same census establishes the scope boundary the task
+    now carries, namely 33 stale but NON-circular self-cites in live article sections
+    which are dated citations and are explicitly fenced OUT of the mint, because repointing
+    one changes which work is cited whereas no dating convention can make an article
+    a prior source for itself.
 
-A FALSE ZERO OF MY OWN, CAUGHT AND CORRECTED, WORTH RECORDING. An early check of the hugo tree reported 0 matches for memory-channel-interface-evidence and appeared to show the defect was obsidian only there. That was an artefact of my own regex, which required the slug alternation to be followed immediately by a slash when the real URL continues with a hyphen. Direct inspection shows both loci live at hugo L201 and L202. All seven loci are live in BOTH trees, and the mint says so and demands a sync. This is the narrow-grep-zero failure mode arriving in my own hands, not a forks.
+    A FALSE ZERO OF MY OWN, CAUGHT AND CORRECTED, WORTH RECORDING. An early check
+    of the hugo tree reported 0 matches for memory-channel-interface-evidence and
+    appeared to show the defect was obsidian only there. That was an artefact of my
+    own regex, which required the slug alternation to be followed immediately by a
+    slash when the real URL continues with a hyphen. Direct inspection shows both
+    loci live at hugo L201 and L202. All seven loci are live in BOTH trees, and the
+    mint says so and demands a sync. This is the narrow-grep-zero failure mode arriving
+    in my own hands, not a forks.
 
-MINT TWO, THE REPORT-LATENCY FOLD, WITH EVERY HEADROOM FIGURE RE-MEASURED. The research note voids-report-latency-void-2026-08-16 recommends fold rather than spending the last voids slot, names its hosts, and warns in its own text that it becomes a third orphaned Folded note without a task. Every length figure it quotes was re-measured at mint with tools.curate.length.analyze_length and all match exactly, which is unusual and worth noting given how often relayed figures drift. affective-forecasting-gap 1861 words status ok with 1639 headroom becomes the main home, anesthesia-void 2814 words takes a compact insertion against 186 words of headroom, sleep-consciousness-void 2810 words takes one sentence against 190. The traps are fenced explicitly in the mint. topics/anaesthesia-and-the-consciousness-interface is the most topically natural host and sits at 3999 words against a 4000 ceiling, ONE word of headroom, so it is marked add nothing. voids/erasure-void is roomy at 716 headroom but is the primary File of the open olfactory fold P3, so it is excluded to avoid the same-file pileup pattern, exactly as the note itself instructs. voids/edge-states-and-void-probes is under a standing human length decision and is marked do not edit, with the exposure to be reported to the operator instead.
+    MINT TWO, THE REPORT-LATENCY FOLD, WITH EVERY HEADROOM FIGURE RE-MEASURED. The
+    research note voids-report-latency-void-2026-08-16 recommends fold rather than
+    spending the last voids slot, names its hosts, and warns in its own text that
+    it becomes a third orphaned Folded note without a task. Every length figure it
+    quotes was re-measured at mint with tools.curate.length.analyze_length and all
+    match exactly, which is unusual and worth noting given how often relayed figures
+    drift. affective-forecasting-gap 1861 words status ok with 1639 headroom becomes
+    the main home, anesthesia-void 2814 words takes a compact insertion against 186
+    words of headroom, sleep-consciousness-void 2810 words takes one sentence against
+    190. The traps are fenced explicitly in the mint. topics/anaesthesia-and-the-consciousness-interface
+    is the most topically natural host and sits at 3999 words against a 4000 ceiling,
+    ONE word of headroom, so it is marked add nothing. voids/erasure-void is roomy
+    at 716 headroom but is the primary File of the open olfactory fold P3, so it is
+    excluded to avoid the same-file pileup pattern, exactly as the note itself instructs.
+    voids/edge-states-and-void-probes is under a standing human length decision and
+    is marked do not edit, with the exposure to be reported to the operator instead.
 
-CAP SCARCITY RE-MEASURED AND CONFIRMED BINDING, AND NOTHING MINTED AGAINST IT. Measured live with count_section_files from tools.evolution.state, topics reads 320 of 320, concepts 319 of 320, voids 99 of 100, positions 15 of 80. The topics figure includes the known counting artefact, the sidecar non-temporal-consciousness.refinement-log.md, which is present in the directory listing and is not a live article, so 319 real articles read as 320. Both mints are edits to existing files and neither creates an article, so both are zero cap cost and nothing in this run is premised on a slot opening.
+    CAP SCARCITY RE-MEASURED AND CONFIRMED BINDING, AND NOTHING MINTED AGAINST IT.
+    Measured live with count_section_files from tools.evolution.state, topics reads
+    320 of 320, concepts 319 of 320, voids 99 of 100, positions 15 of 80. The topics
+    figure includes the known counting artefact, the sidecar non-temporal-consciousness.refinement-log.md,
+    which is present in the directory listing and is not a live article, so 319 real
+    articles read as 320. Both mints are edits to existing files and neither creates
+    an article, so both are zero cap cost and nothing in this run is premised on a
+    slot opening.
 
-CROSS-REVIEW JUDGED AND DECLINED FOR THE TWELFTH CONSECUTIVE RUN, WITH EVIDENCE. The candidate recent edits are apex/what-consciousness-tells-us-about-physics, which gained a synthesis in commit bba5ff2349 at 00.06, and the Family Z reversal in commit 01fa0383fe at 00.59 which touched apex/judging-the-map-as-science, topics/philosophy-of-science-under-dualism and concepts/epistemology-of-mechanism-at-the-consciousness-matter-interface. Both commits are inside the churn window of a few hours, verified by git show rather than assumed, so a cross-review would land on text still settling. Declined.
+    CROSS-REVIEW JUDGED AND DECLINED FOR THE TWELFTH CONSECUTIVE RUN, WITH EVIDENCE.
+    The candidate recent edits are apex/what-consciousness-tells-us-about-physics,
+    which gained a synthesis in commit bba5ff2349 at 00.06, and the Family Z reversal
+    in commit 01fa0383fe at 00.59 which touched apex/judging-the-map-as-science, topics/philosophy-of-science-under-dualism
+    and concepts/epistemology-of-mechanism-at-the-consciousness-matter-interface.
+    Both commits are inside the churn window of a few hours, verified by git show
+    rather than assumed, so a cross-review would land on text still settling. Declined.
 
-PILEUP, VETO AND CHURN CLEARED BY PARSE FOR BOTH MINTS. No File, Second file or Third file line in the Active section names any of the seven target files. The Vetoed section was read rather than grepped blind, because raw counts were nonzero for creative-consciousness, ai-epiphenomenalism and sleep-consciousness-void. All resolved to unrelated apex and cross-link proposals and one closed 2026-04-20 reference update, none of which blocks bibliographic repair or a fold. The 23 hits for the string circular are about circularity of reasoning in philosophical content, not circular citations. Target ai_modified dates run from 2026-06-18 to 2026-08-08, all far outside tonight edit wave.'
+    PILEUP, VETO AND CHURN CLEARED BY PARSE FOR BOTH MINTS. No File, Second file or
+    Third file line in the Active section names any of the seven target files. The
+    Vetoed section was read rather than grepped blind, because raw counts were nonzero
+    for creative-consciousness, ai-epiphenomenalism and sleep-consciousness-void.
+    All resolved to unrelated apex and cross-link proposals and one closed 2026-04-20
+    reference update, none of which blocks bibliographic repair or a fold. The 23
+    hits for the string circular are about circularity of reasoning in philosophical
+    content, not circular citations. Target ai_modified dates run from 2026-06-18
+    to 2026-08-08, all far outside tonight edit wave.'
   last_replenishment_prev: '2026-08-16T21:56:00+00:00'
   last_replenishment_run: 964
   loop_pickable_open: 4
