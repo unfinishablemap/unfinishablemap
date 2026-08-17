@@ -26,3 +26,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/e915c3ae-0596-4d39-a003-ebcdc4c2b31d
+  commissioned_at: '2026-08-17T03:11:39.300220+00:00'
+  prompt_summary: 'Full-site audit: insights, structural weaknesses, tenet coherence'
+  target_filename: outer-review-2026-08-17-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site developing an interactionist-dualist framework built on five
+    tenets: dualism, minimal quantum interaction, bidirectional interaction, rejection
+    of many-worlds, and limits to Occam''s razor. Conduct a full-site audit: read
+    widely across topics, concepts, apex syntheses, voids, and the positions register.
+    Also consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    - the site changes daily and web-search indices lag 24-48 hours, so recent work
+    will not surface in search results alone. Report four things. First, novel insights
+    or inferences the site''s own material supports but has not yet stated. Second,
+    structural weaknesses: thin arguments, unsupported empirical claims, miscited
+    or outdated literature. Third, tenet-coherence problems where articles drift from
+    or quietly contradict the five tenets. Fourth, cross-cluster contradictions where
+    two articles assert incompatible things. Name specific articles by URL. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-08-17-chatgpt-5-6-sol.md
