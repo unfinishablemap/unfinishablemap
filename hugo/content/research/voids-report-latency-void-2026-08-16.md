@@ -1,17 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 23:02:18+00:00
+ai_modified: 2026-08-17 16:03:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[introspection]]'
+consumed_by: '[[affective-forecasting-gap]]'
+consumed_note: 'FOLDED across three hosts rather than spent as the last voids slot
+  (voids at 99/100, and every topically natural host measured at or near its length
+  ceiling, so routing was by measured headroom rather than topical fit). Distribution:
+  the general treatment went to [[affective-forecasting-gap]] as a new section, Before
+  Distortion, carrying the anaesthesia probe-latency gradient (Sanders et al. 2017
+  ConsCIOUS-1 at 4.6% or 12 of 260, SNAP-1 at 1:800 cited via Tasbihgou et al. 2018,
+  NAP5 at 1:19,600), the zero-of-253 recall result, the MEQ30 retrospective-timing
+  figures, and the Cuenca-Martínez plus Erskine calibration control, together with
+  an Occam''s Razor Has Limits clause on the null-report inference. A compact isolated-forearm-technique
+  bullet with the ConsCIOUS-1 figures plus the probe-latency principle went to [[anesthesia-void]]
+  under Third-Person Workarounds, paired with an offsetting trim of two duplicated
+  passages. One sentence on serial awakening as the shortest report channel any edge
+  state has went to [[sleep-consciousness-void]]. DELIBERATELY NOT FOLDED: [[edge-states-and-void-probes]],
+  the article this note most directly discounts, sits at 3561 words hard_warning under
+  a standing human length decision, so the exposure is recorded for the operator rather
+  than fixed by an automated pass. [[erasure-void]] deferred behind the open olfactory-void
+  fold task to avoid same-file pileup. [[anaesthesia-and-the-consciousness-interface]]
+  excluded at 3999 words against a 4000-word hard ceiling.'
 created: 2026-08-16
 date: &id001 2026-08-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-16 23:02:18+00:00
+lastmod: 2026-08-17 16:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

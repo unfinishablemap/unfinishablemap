@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 11:42:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-17 15:59:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[valence]]'
@@ -14,12 +14,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 18:37:14+00:00
-lastmod: 2026-06-18 11:42:00+00:00
+lastmod: 2026-08-17 15:59:00+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
 - '[[marginal-organism-scope-of-value-sensitive-selection]]'
 - '[[consciousness-value-connection]]'
+- '[[anesthesia-void]]'
+- '[[sleep-consciousness-void]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
 title: The Affective-Forecasting Gap and the Selection Currency
 topics:
 - '[[valence-and-conscious-selection]]'
@@ -28,7 +31,7 @@ topics:
 
 The Map's value-sensitive horn—that felt value guides which outcome consciousness selects ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/))—is under-specified until it names *which* valence is causally load-bearing. Selection runs on valence assessed *before* an outcome is actual, so on **anticipated** valence. The affective-forecasting literature shows anticipated valence diverges systematically from **experienced** valence. This forces a disambiguation the Map cannot dodge: the load-bearing valence in selection is the predicted kind, which is exactly the kind that is least reliable and most mechanism-like. The Map's defensible position is that anticipated valence *drives* selection while experienced valence *constitutes* value—and it must own the resulting cost, that selection is causally steered by a fallible predictor of value rather than by value itself.
 
-This is the **affective-forecasting gap** as it bears on the [selection-criterion problem](/concepts/selection-criterion-problem/): the gap between how good we predict an option will feel and how it actually feels is not noise but a structured, well-replicated bias. It closes the "anticipated vs experienced valence" question that [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) flags as open, and it hands [the value-blind steelman](/topics/the-steelman-for-value-blind-selection/) a fair new exhibit—then states the Map's calibrated reply.
+This is the **affective-forecasting gap** as it bears on the [selection-criterion problem](/concepts/selection-criterion-problem/): the gap between how good we predict an option will feel and how it actually feels is not noise but a structured, well-replicated bias. It closes the "anticipated vs experienced valence" question that [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) flags as open, and it hands [the value-blind steelman](/topics/the-steelman-for-value-blind-selection/) a fair new exhibit—then states the Map's calibrated reply. A later section, "Before Distortion", adds the retrospective twin of the same problem: the channel that records an experience at all opens only after the state has ended, and its *latency* determines what reaches the record.
 
 ## The Gap Is Structured, Not Noise
 
@@ -45,6 +48,20 @@ Kahneman, Wakker & Sarin (1997) supply the cleanest formal map of which valence 
 Remembered utility is itself a distorted summary. Redelmeier & Kahneman (1996) found that retrospective judgments of painful procedures track the **peak** and the **end** intensity, not the total—**duration neglect**: episode length has almost no effect on the remembered evaluation. The distortion compounds across a pipeline: experience → (peak-end-distorted) memory → (impact-biased) forecast → selection. By the time valence reaches the selection step, it has been through two non-faithful transforms.
 
 In Kahneman's terms, the Map's "felt value guides choice" is the claim that *experienced* utility should be load-bearing. Empirically, choice runs on *decision* utility shaped by *remembered* utility. The valence that guides selection is not the valence that is felt.
+
+## Before Distortion: Whether the Episode Reaches the Record at All
+
+The pipeline just described—experience → memory → forecast → selection—assumes the first arrow carries something. It does not always. Remembered utility can fail by being *absent* rather than distorted, and the two failure modes are not comparably tractable: a bias of known sign and size can be corrected, while a zero is indistinguishable from a genuinely empty interval. That is the retrospective twin of the prospective gap, and anaesthesia has measured it.
+
+Anaesthesia is the one state where all three report latencies have been run against comparable clinical populations. Real-time probing *within* the state—the isolated forearm technique, which leaves one arm unparalysed so the patient can respond to command—found responsiveness in 4.6% of patients (12 of 260) after tracheal intubation, five of the twelve signalling pain (Sanders et al. 2017, the ConsCIOUS-1 cohort). Structured interview within 24 hours found awareness in about 1 in 800 (the SNAP-1 figure as reported in Tasbihgou et al.'s 2018 narrative review, which sets the three latencies side by side). Spontaneous patient report found about 1 in 19,600 (Pandit et al. 2014, the NAP5 national audit). Roughly a 900-fold spread, driven by nothing but when and how the question was asked.
+
+Two guards belong on that gradient. The figures come from different studies with different populations, endpoints and case definitions, so it is a gradient rather than a controlled comparison; and responsiveness to command establishes connected *responsiveness*, with the step from there to phenomenal experience remaining an inference—one the five pain signals make strong but not free. The 4.6% is not an incidence of experience. What survives both guards is internal to the fastest probe, where the comparison *is* within a single cohort: of the 253 patients questioned after surgery in that study, none had explicit recall. Latency alone took a rate of one in twenty-two to a rate of zero.
+
+Generic scepticism about retrospective report would be the wrong lesson, and the calibration literature is what rules it out. Where an episode *is* retained, remembered intensity is only mildly biased: a meta-analysis of paediatric pain memory across fifteen studies found a small overestimation of experienced intensity (SMD = 0.28), larger in clinical settings (0.33) and absent in experimental ones (0.07) (Cuenca-Martínez et al. 2024). That control is paediatric, and no completed adult equivalent exists, so the adult calibration point remains Erskine, Morley & Pearce's 1990 review, which judged recall moderately accurate while flagging methodological problems, and which is now thirty-six years old. On the best-quantified axis memory is roughly right about *magnitude*. The failure named here concerns *presence*, and that is what makes it the worse of the two: peak-end distortion recomputes an episode that survived, whereas latency can delete the episode before any recomputation occurs.
+
+Latency is a variable rather than a constant, and the Map's own evidence about felt states sits at several points along it. The revised Mystical Experience Questionnaire is the clearest case, and its validation paper discloses the timing plainly. Barrett, Johnson & Griffiths (2015) report that "MEQ30 ratings were provided seven hours after capsule administration", that persisting-effects measures followed at "approximately three to eight weeks" after each session, and that the instrument's original normative sample rated experiences that "occurred on average eight years before completion of the questionnaire". The psychometrics are not in question. What the timing establishes is that even well-controlled evidence about felt states is a delayed reconstruction, and the norming base a far more delayed one. The Map inherits the delay; it should inherit the disclosure with it.
+
+Treating the reported frequency and content of a felt state as partly a property of the channel's latency rather than of the state is the Map's own framing. None of these authors states it in that general form; the clinical sources state it within anaesthesia only. The contribution is methodological rather than empirical—a discount schedule for claims the Map already makes, not new evidence about what occurs under anaesthesia. Its consequence for the selection currency is specific. If anticipated valence is what selection causally consults, the calibration failure has a second component beyond the impact bias: the forecast is trained on a record that can be *empty* for exactly those episodes the recording channel could not reach. Where a state precludes real-time probing, its absence from the record is not evidence about its valence, and a forecaster trained on that record is not merely biased about those episodes but blind to them.
 
 ## A Mechanistic Correlate, Read With Care
 
@@ -74,7 +91,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A selection law reading off anticipated valence is no less minimal than one reading off attention. But if anticipated valence reduces to a reward-prediction-error or wanting computation, the value-blind steelman's parsimony advantage strengthens. The Map's reply must be the prior-commitments reply—reject illusionism, hold [phenomenal value realism](/topics/phenomenal-value-realism/)—not a parsimony contest it would lose, because by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the more-minimal predictive reading wins any contest decided on parsimony alone.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: This is the tenet that licenses declining the more-parsimonious pure-predictive-mechanism reading despite the forecasting evidence—but only if the decline is *argued*, not asserted. The gap is a genuine cost the value-sensitive horn must pay, and Tenet 5 permits paying it: simplicity is an unreliable guide where knowledge is incomplete, so the predictive reading's parsimony does not settle the matter. The argument, not the razor, carries the decline.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: This is the tenet that licenses declining the more-parsimonious pure-predictive-mechanism reading despite the forecasting evidence—but only if the decline is *argued*, not asserted. The gap is a genuine cost the value-sensitive horn must pay, and Tenet 5 permits paying it: simplicity is an unreliable guide where knowledge is incomplete, so the predictive reading's parsimony does not settle the matter. The argument, not the razor, carries the decline. The same tenet governs the report-latency material: the parsimonious reading of a null report is that there was nothing to report, and the anaesthesia gradient shows that inference failing at a measurable rate under controlled conditions, in a specific direction—it under-counts.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Under many-worlds the gap is moot—every outcome occurs, so "which valence selects" has no referent. The Map's commitment to genuine selection is exactly what makes the question live and answerable: only if one outcome is really chosen does it matter which valence does the choosing.
 
@@ -87,6 +104,9 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 - [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — The sign-weighting axis of the same predicted-vs-felt structure: negative valence weighs more in selection
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why experienced valence constitutes value
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — Whether the gap reaches the marginal organisms of the value-sensitive horn
+- [anesthesia-void](/voids/anesthesia-void/) — The voids-catalogue treatment of the state whose report channel opens only after it ends
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The clinical evidence base behind the latency gradient cited above
+- [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The one edge territory with a near-real-time report channel, and so the smallest latency discount
 
 ## References
 
@@ -101,5 +121,12 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 9. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679. https://doi.org/10.1037/amp0000059
 10. Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2012). Accuracy and artifact: Reexamining the intensity bias in affective forecasting. *Journal of Personality and Social Psychology*, 103(4), 584–605.
 11. Wilson, T. D., & Gilbert, D. T. (2013). The impact bias is alive and well. *Journal of Personality and Social Psychology*, 105(5), 740–748.
-12. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-13. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/
+12. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). Incidence of connected consciousness after tracheal intubation: a prospective, international, multicenter cohort study of the isolated forearm technique. *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
+13. Tasbihgou, S. R., Vogels, M. F., & Absalom, A. R. (2018). Accidental awareness during general anaesthesia — a narrative review. *Anaesthesia*, 73(1), 112–122. https://doi.org/10.1111/anae.14124
+14. Walker, E. M. K., Bell, M., Cook, T. M., Grocott, M. P. W., & Moonesinghe, S. R. (2016). Patient reported outcome of adult perioperative anaesthesia in the United Kingdom: a cross-sectional observational study (SNAP-1). *British Journal of Anaesthesia*, 117(6), 758–766. https://doi.org/10.1093/bja/aew381 — the 1:800 figure is cited here via Tasbihgou et al. 2018; the primary was not retrieved.
+15. Pandit, J. J., Andrade, J., Bogod, D. G., et al. (2014). The 5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors. *Anaesthesia*, 69(10), 1089–1101. https://doi.org/10.1111/anae.12826
+16. Cuenca-Martínez, F., Herranz-Gómez, A., Varangot-Reille, C., et al. (2024). Pain memory in children: a systematic review and meta-analysis with a meta-regression. *Pain*, 165(7), 1450–1463. https://doi.org/10.1097/j.pain.0000000000003170
+17. Erskine, A., Morley, S., & Pearce, S. (1990). Memory for pain: a review. *Pain*, 41(3), 255–265. https://doi.org/10.1016/0304-3959(90)90002-u
+18. Barrett, F. S., Johnson, M. W., & Griffiths, R. R. (2015). Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. *Journal of Psychopharmacology*, 29(11), 1182–1190. https://doi.org/10.1177/0269881115609019
+19. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+20. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/

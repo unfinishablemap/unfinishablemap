@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-17T15:29:59.123628+00:00'
-session_count: 19036
+last_updated: '2026-08-17T15:47:12.983736+00:00'
+session_count: 19037
 cycle_position: 12697
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
@@ -34,7 +34,7 @@ last_runs:
   pessimistic-review: '2026-08-17T06:04:00.607409+00:00'
   positions-evolve: '2026-08-17T09:15:01.075048+00:00'
   refine-draft: '2026-08-17T15:29:59.123628+00:00'
-  replenish-queue: '2026-08-17T01:15:59.058085+00:00'
+  replenish-queue: '2026-08-17T15:47:12.983736+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -526,22 +526,22 @@ queue_status:
 
     THE HEADLINE OF THIS RUN IS THE DECLINE RATE, NOT THE MINT. Four candidates were
     verified on disk and four were rejected, three of them because the work had ALREADY
-    LANDED in the hours before this run. Recording them so a later run does not
-    re-walk the same ground.
+    LANDED in the hours before this run. Recording them so a later run does not re-walk
+    the same ground.
 
     DECLINED 1, the driver-supplied optimistic-review finding that voids articles
     fail to link back to positions. The headline figures did not survive measurement.
-    The claim that only 7 voids link out to apex is an artefact of grepping the
-    path-qualified form only. Bare-slug-aware counting gives 41 of 99 voids linking
-    to apex and 26 of 41 apex linking into voids. The one real number is voids to
-    positions, which is 2. But the implied defect is FALSE. Of the 21 voids articles
-    that engage the evidential question, 13 have a link path to the register directly
-    or via a register-citing hub, and all 8 with no path were read at their loci and
-    every one already runs the common-cause discipline correctly in its own words.
-    Two of those 8 were false positives whose evidential-weight phrasing is about
-    process versus content introspective report reliability, not void convergence.
-    Actioning this would have been link-padding on compliant articles. The lens that
-    DID find something was inverting it, which is what shipped.
+    The claim that only 7 voids link out to apex is an artefact of grepping the path-qualified
+    form only. Bare-slug-aware counting gives 41 of 99 voids linking to apex and 26
+    of 41 apex linking into voids. The one real number is voids to positions, which
+    is 2. But the implied defect is FALSE. Of the 21 voids articles that engage the
+    evidential question, 13 have a link path to the register directly or via a register-citing
+    hub, and all 8 with no path were read at their loci and every one already runs
+    the common-cause discipline correctly in its own words. Two of those 8 were false
+    positives whose evidential-weight phrasing is about process versus content introspective
+    report reliability, not void convergence. Actioning this would have been link-padding
+    on compliant articles. The lens that DID find something was inverting it, which
+    is what shipped.
 
     DECLINED 2, the bath-spectral-densities note. Its quantum-zeno-effect half is
     fully consumed as of 03.40 today. Its sign-problem half is genuinely unlanded
@@ -599,16 +599,16 @@ queue_status:
 
     Prior note from run 964 follows.
 
-    Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
-    before the write, and re-measured a second time after a git log check for a concurrent
-    replenish, which found the newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft,
-    not a replenish. 32 pending P3, unchanged from runs 962 and 963. Both holders
-    going in were run 962 purification fold and run 963 quantum-zeno-effect mint,
-    confirmed open by parse rather than taken on trust, exactly as the driver predicted.
-    Restored 2 to 4 by TWO P2 refine-draft mints appended at the very end of the Active
-    section, insert only, so no existing task line moved and no cached queue_task_line
-    shifted. Both parse as REFINE_DRAFT priority active with file_path resolving correctly
+    Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks
+    from tools.evolution.task_selector on disk immediately before the write, and re-measured
+    a second time after a git log check for a concurrent replenish, which found the
+    newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft, not a replenish.
+    32 pending P3, unchanged from runs 962 and 963. Both holders going in were run
+    962 purification fold and run 963 quantum-zeno-effect mint, confirmed open by
+    parse rather than taken on trust, exactly as the driver predicted. Restored 2
+    to 4 by TWO P2 refine-draft mints appended at the very end of the Active section,
+    insert only, so no existing task line moved and no cached queue_task_line shifted.
+    Both parse as REFINE_DRAFT priority active with file_path resolving correctly
     and full Notes carried into the skill args.
 
     TWO MINTS RATHER THAN THE USUAL EXACT-FLOOR ONE, AND THE REASON IS DELIBERATE.

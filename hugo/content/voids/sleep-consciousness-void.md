@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-07-14 17:15:32+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-17 16:03:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /voids/dream-consciousness-void/
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 17:15:32+00:00
-lastmod: 2026-07-14 17:15:32+00:00
+lastmod: 2026-08-17 16:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,6 +37,8 @@ related_articles:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[disappearance-voids]]'
+- '[[anesthesia-void]]'
+- '[[affective-forecasting-gap]]'
 title: The Sleep Consciousness Void
 topics:
 - '[[consciousness]]'
@@ -84,7 +86,7 @@ Yet lucid dreaming does not close the void. Lucid dreams are still not full waki
 
 Where does consciousness go during dreamless sleep? Every night, we lose awareness for hours, then return as if nothing happened. The gap cannot be observed directly because observation requires the very consciousness whose absence is in question.
 
-**The inference problem.** We infer absence of consciousness from absence of memory. But memory requires memory-encoding mechanisms to be active. We remember nothing from deep sleep—but this could mean nothing happened or that something happened but was not recorded. This is [the essential-vs-contingent question](/topics/essential-vs-contingent-consciousness/) in its sharpest form: the essentialist reads the blank as awareness that left no episodic trace, the contingentist as a genuine gap during which only a non-conscious bearer persisted. Because both predict the identical waking report, no first-person datum adjudicates—the very point this void marks.
+**The inference problem.** We infer absence of consciousness from absence of memory. But memory requires memory-encoding mechanisms to be active. We remember nothing from deep sleep—but this could mean nothing happened or that something happened but was not recorded. This is [the essential-vs-contingent question](/topics/essential-vs-contingent-consciousness/) in its sharpest form: the essentialist reads the blank as awareness that left no episodic trace, the contingentist as a genuine gap during which only a non-conscious bearer persisted. Because both predict the identical waking report, no first-person datum adjudicates—the very point this void marks. Sleep is nonetheless the best-placed edge territory for making that inference, because its report channel is the fastest any edge state has: the serial awakening paradigm (Siclari et al. 2013) rouses participants at pseudorandom intervals irrespective of sleep stage and takes a structured report within seconds of waking, so sleep-consciousness claims rest on a latency orders of magnitude shorter than the retrospective channels carrying mystical, near-death or anaesthetic reports, and on the Map's reading they warrant a correspondingly smaller [report-latency discount](/concepts/affective-forecasting-gap/).
 
 **The transition problem.** We cannot catch the moment of losing consciousness. Approaching sleep, awareness becomes diffuse and fragmenting, but we never experience the transition itself. If we did, we would still be conscious. Research on [hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) reveals that this transition is not a single event but a graded process—each component of consciousness disengaging on its own timeline.
 
@@ -200,3 +202,4 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 16. Stanford Encyclopedia of Philosophy. "Locke on Personal Identity."
 17. Windt, J.M. (2015). *Dreaming: A Conceptual Framework for Philosophy of Mind and Empirical Research*. MIT Press.
 18. Windt, J.M. (2020). "Consciousness in sleep: How findings from sleep and dream research challenge our understanding of sleep, waking, and consciousness." *Philosophy Compass*.
+19. Siclari, F., LaRocque, J.J., Postle, B.R. & Tononi, G. (2013). "Assessing sleep consciousness within subjects using a serial awakening paradigm." *Frontiers in Psychology*, 4, 542. https://doi.org/10.3389/fpsyg.2013.00542

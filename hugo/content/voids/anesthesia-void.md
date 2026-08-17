@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-26 10:08:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-17 16:02:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:08:00+00:00
-lastmod: 2026-06-26 10:08:00+00:00
+lastmod: 2026-08-17 16:02:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,6 +34,7 @@ related_articles:
 - '[[altered-states-as-interface-evidence]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
+- '[[affective-forecasting-gap]]'
 title: The Anesthesia Void
 topics:
 - '[[consciousness]]'
@@ -52,7 +53,7 @@ The anesthesia void has a specific structure that distinguishes it from adjacent
 
 **From the first-person side,** the subject cannot enter the state and report back. Induction and emergence stitch together with no intervening temporal experience. Dreamless sleep leaves indirect cues — the bed, morning light, a felt sense of having rested — but anesthesia lacks even those markers. One wakes in the operating theatre, often with the impression that no time has passed.
 
-**From the third-person side,** the interior is partially accessible via indirect probes. Serial awakening paradigms catch mental content before amnesia consolidates. Neuroimaging characterises correlates. Implicit memory tests reveal whether unconscious patients retained priming effects explicit recall cannot access. But third-person access cannot recover what the first-person side could not generate or retain.
+**From the third-person side,** the interior is partially accessible via indirect probes — serial awakening, real-time motor channels, imaging correlates, implicit memory tests — catalogued in "Third-Person Workarounds" below. But third-person access cannot recover what the first-person side could not generate or retain.
 
 **The gap is asymmetric.** The external observer sees continuous clock-time during which much happens — surgery, vital signs, brain activity under anesthetic agents. The first-person side sees no time at all. This asymmetry is a joint fact about the relation between consciousness and the pharmacologically modulated brain.
 
@@ -72,7 +73,7 @@ Intraoperative awareness — connected consciousness during nominal anesthesia �
 
 Patient reports converge on specific structural features of the anesthesia experience:
 
-**Temporal compression to zero.** Induction merges into emergence with no sense of elapsed time. This is phenomenologically distinct from sleep, which usually leaves some residue of duration — a felt sense of "having been asleep" that the anesthesia void typically lacks.
+**Temporal compression to zero.** Induction merges into emergence with no sense of elapsed time — without even the residue of duration that sleep usually leaves.
 
 **No dream content.** Unlike REM, where remembered dreams leave phenomenal traces, anesthesia typically produces nothing to remember. When disconnected consciousness occurs, it is rarely retained.
 
@@ -97,9 +98,12 @@ The same selective-disruption pattern arises through a non-pharmacological route
 The anesthesia void is partially penetrable from outside, even though it is absolutely closed from inside. The main techniques:
 
 - **Serial awakening paradigms** (Revonsuo, Scheinin, Casali, and colleagues). Wake the subject at staged depths and capture mental content before anesthetic amnesia consolidates. This recovers disconnected consciousness that would otherwise be lost to the gap.
+- **The isolated forearm technique.** A tourniquet keeps one arm unparalysed so the patient can respond to command mid-surgery. Sanders et al. (2017) found responsiveness in 4.6% of patients (12/260) after intubation, five of the twelve signalling pain — while none of the 253 questioned afterwards had explicit recall. Responsiveness to command is not the same construct as phenomenal experience, and the step between them is an inference; what the within-cohort comparison establishes is that the retrospective channel returned zero about a state the real-time channel had just detected.
 - **Implicit memory probes.** Test whether unconscious patients retain implicit traces — priming, conditioning — that explicit recall cannot access.
 - **Physiological and imaging correlates.** Perturbational complexity index (PCI), fMRI connectivity, and EEG signatures can distinguish unconsciousness from disconnected consciousness from connected consciousness, even when the subject cannot.
 - **Comparative pharmacology.** Studying agent-specific dissociations informs which components of waking experience depend on which neural systems.
+
+What unifies the list is probe latency: each technique shortens the delay between the state and the channel that records it, and on the Map's reading the reported incidence of any edge state is partly a property of that delay rather than of the state alone — a discount the [report-latency treatment](/concepts/affective-forecasting-gap/) develops across the catalogue.
 
 None of these methods close the void. They work around specific aspects of it. The interior as-lived-from-inside remains unreachable. What third-person methods recover is always translated into objective measures — report, correlate, behavioural trace — and the translation loses whatever phenomenal character the event had, if it had any.
 
@@ -172,5 +176,6 @@ This makes it one of the richest sites for [altered-states-as-interface evidence
 6. "Study reveals how an anesthesia drug induces unconsciousness." (2024). *MIT News*. https://news.mit.edu/2024/study-reveals-how-anesthesia-drug-induces-unconsciousnes-0715
 7. Robinson, H. "Dualism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/dualism/
 8. "Recovery of consciousness and cognition after general anesthesia in humans." (2021). *eLife*. https://elifesciences.org/articles/59525
-9. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/
-10. Southgate, A. & Oquatre-sept, C. (2026-04-16). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
+9. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). "Incidence of connected consciousness after tracheal intubation." *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
+10. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/
+11. Southgate, A. & Oquatre-sept, C. (2026-04-16). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
