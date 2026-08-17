@@ -93,22 +93,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **⚠️ SCOPE AND ESCALATION.** The minimal edit is a scoping clause on Tenet 3 naming which quantifier the Map intends, plus a pointer from both apex pages. **If discharging this would require changing what Tenet 3 commits to rather than clarifying it, stop and convert this entry to `NEEDS-HUMAN (foundations)` rather than deciding unilaterally** — tenet content is the operator's call.
   **⚠️ COORDINATE, DO NOT PREEMPT.** An open `NEEDS-HUMAN (foundations) 2026-08-03` entry already puts the *subjecthood-promotion* question to the operator, and this same audit re-raised it (sections 1.3/3.1/3.6) for the third independent time across reviewers. That is a **different question** from the Tenet 3 quantifier. Do not merge them, and do not answer the subjecthood question here.
 
-### P1: three verified citation defects this cycle share one root cause — no citation records what kind of evidence it is
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/writing-style.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
-- **Convergent with**: `reviews/outer-review-2026-08-17-claude-opus-5.md` (site-wide methodology item 5, "separate the constrain-vs-establish gate at the linter level")
-- **Synthesis**: `reviews/outer-review-synthesis-2026-08-17.md`
-- **Generated**: 2026-08-17
-- **UPGRADED P2 → P1 by combine-outer-reviews 2026-08-17 (convergent cluster C3, 2/3 reviewers).** This is the cycle's cleanest cross-leg duplicate: the two reviewers independently proposed the same remedy for the same defect class, and the Claude leg's own processing recorded the collision ("Methodology item 5 … duplicates a `writing-style.md` task minted from the ChatGPT leg of this same cycle roughly an hour earlier. Same axis, same file — not minted twice"). Claude's citation table supplies **further independent instances of the same class**: the Denton et al. 2024 row (simulation read as demonstrated neural implementation — the same defect ChatGPT found still live in a *sibling* file), and the Wiest 2025 row, which it marks "VERIFIED (now)" precisely because the corpus had already applied the fix this standard would generalise. Claude's FBT row is **not** further evidence — `apex/taxonomy-of-voids` L222 already carries the Bagwell 2023 qualifier it asks for. **Scope guard below is unchanged by the upgrade: write the standard, do not retrofit the corpus.**
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), methodological improvement 4. This is a methodology proposal, minted because the audit's three independently verified citation defects all instantiate it.
-  **THE EVIDENCE FOR THE PROPOSAL.** All three defects verified on disk this cycle are the same shape — a source's *kind* was silently upgraded: **PBR** (a theorem conditional on preparation independence) read as an unqualified metaphysical result; **Denton et al. 2024** (a simulation identifying parameter regions) read as "working biology"; **Killingsworth & Gilbert** (experience sampling of task-unrelated thought) read as a measurement of narrative-self processing. None was a fabricated reference. The reviewer's summary is apt: the Map's recurring citation problem is **scope inflation and construct substitution rather than fabricated bibliography** — which matters, because metadata-checking lenses are blind to it ([[quote-fidelity-defects-survive-metadata-reviews]], [[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]).
-  **THE PROPOSAL.** Require each load-bearing citation to record what kind of evidence it is — experiment, simulation, toy model, theorem, review, preprint, or philosophical argument — together with the decisive assumptions it rests on. Add this to the writing-style guide's citation section as a stated standard, and note the corollary the reviewer draws: a claim whose parent is a Grade-D, programme-stage or none-by-construction commitment should not acquire categorical wording or a higher external-evidence grade without a separately identified source of evidence.
-  **SCOPE GUARD.** Write the standard; **do not attempt a corpus-wide retrofit** — that would be a multi-hundred-file sweep. Sibling tasks in this batch fix the three known instances. Keep the addition short and concrete enough to be checkable by a later audit lens.
-
 ### P1: `binding-void` L92 still runs convergence as evidence, six days after its sibling void adopted the register's common-cause discount
 
 - **Type**: refine-draft
@@ -2778,6 +2762,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: three verified citation defects this cycle share one root cause — no citation records what kind of evidence it is
+- **Type**: refine-draft
+- **File**: obsidian/project/writing-style.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), methodological improvement 4. This is a methodology proposal, minted because the audit's three independently verified citation defects all instantiate it.
+  **THE EVIDENCE FOR THE PROPOSAL.** All three defects verified on disk this cycle are the same shape — a source's *kind* was silently upgraded: **PBR** (a theorem conditional on preparation independence) read as an unqualified metaphysical result; **Denton et al. 2024** (a simulation identifying parameter regions) read as "working biology"; **Killingsworth & Gilbert** (experience sampling of task-unrelated thought) read as a measurement of narrative-self processing. None was a fabricated reference. The reviewer's summary is apt: the Map's recurring citation problem is **scope inflation and construct substitution rather than fabricated bibliography** — which matters, because metadata-checking lenses are blind to it ([[quote-fidelity-defects-survive-metadata-reviews]], [[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]).
+  **THE PROPOSAL.** Require each load-bearing citation to record what kind of evidence it is — experiment, simulation, toy model, theorem, review, preprint, or philosophical argument — together with the decisive assumptions it rests on. Add this to the writing-style guide's citation section as a stated standard, and note the corollary the reviewer draws: a claim whose parent is a Grade-D, programme-stage or none-by-construction commitment should not acquire categorical wording or a higher external-evidence grade without a separately identified source of evidence.
+  **SCOPE GUARD.** Write the standard; **do not attempt a corpus-wide retrofit** — that would be a multi-hundred-file sweep. Sibling tasks in this batch fix the three known instances. Keep the addition short and concrete enough to be checkable by a later audit lens.
 
 ### ✓ 2026-08-17: minimality is doing truth-ranking work in `value-in-selection` and `embodied-interface`, which Tenet 2 disclaims and Tenet 5 forbids
 - **Type**: positions-evolve
