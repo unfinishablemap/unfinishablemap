@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-08-08 21:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-17 06:40:46+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/quantum-biology/
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:47:51+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-08-17 06:40:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ These five mechanisms need not operate independently—their combination could e
 
 | Mechanism | Theory Status | Experimental Evidence | Neural Relevance |
 |-----------|---------------|----------------------|------------------|
-| Radical pairs | Well-developed | Strong (avian, 2024 Zeno) | Moderate |
+| Radical pairs | Well-developed | Strong (avian behavioural); the 2024 Zeno result is modelling | Moderate |
 | Ion tunneling | Mathematical | Indirect (pathology match) | High |
 | Microtubules (Orch OR/QBIT) | Comprehensive | Growing (2024-2025) | High |
 | SNARE tunneling | Specific | Theoretical | High |

@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-08-08T21:57:00+00:00
+ai_modified: 2026-08-17T06:40:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[integrated-information-theory]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-18
 last_curated: null
 last_deep_review: 2026-03-20T01:01:00+00:00
@@ -129,7 +129,7 @@ Phosphorus nuclear spins in Posner molecules serve as entangled qubits with long
 
 | Mechanism | Theory Status | Experimental Evidence | Neural Relevance |
 |-----------|---------------|----------------------|------------------|
-| Radical pairs | Well-developed | Strong (avian, 2024 Zeno) | Moderate (neural crypto unclear) |
+| Radical pairs | Well-developed | Strong (avian behavioural); the 2024 Zeno result is modelling | Moderate (neural crypto unclear) |
 | Ion tunneling | Mathematical | Indirect (pathology match) | High (action potentials) |
 | Microtubules (Orch OR/QBIT) | Comprehensive | Growing (2024-2025 studies) | High (ubiquitous structure) |
 | SNARE tunneling | Specific | Theoretical | High (synaptic release) |

@@ -37,22 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: the radical-pair evidence grade in `neural-implementation-specifics` survived the 2026-07-14 Denton sweep — "working biology", "Strong", and "birds see them" are all still live, and L34 already contradicts them
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neural-implementation-specifics.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "source-scope contradiction" row. **All loci verified verbatim on disk.**
-  **⚠️ A PRIOR SWEEP CLOSED OVER THIS.** The queue carries `✓ DONE-OUT-OF-BAND 2026-07-14: Sweep residual Denton-2024 "demonstrated" over-claims` against this same file. That sweep keyed on the word *demonstrated* and left every other over-claim standing — the textbook [[fix-by-file-leaves-string-siblings-live|string-sibling]] failure. Treat the closed task as no evidence of coverage here.
-  **LIVE LOCI.** **L62**: "Avian magnetoreception… operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology." **L200**: "Strongly supported, as precedent… an effect measured in working biology." **L48** calibration table: radical pairs graded `Strong | Strong (2024 Zeno model) | Moderate`.
-  **WHY IT IS AN OVER-CLAIM.** Denton et al. (2024, *Nature Communications*) *modelled* how the quantum Zeno effect could sustain magnetosensitivity in tightly bound cryptochrome radical pairs — the article's own **L58** says so ("showing computationally"). Cryptochrome remains the *hypothesised* avian magnetosensor; the paper identifies parameter regions in simulation. Four distinct claims are being run together and must be separated: evidence for magnetosensitivity; evidence for cryptochrome involvement; evidence for a *particular* radical pair; and evidence of any neural relevance. "Birds see them" is a further perceptual claim the cited work does not establish.
-  **THE ARTICLE ALREADY REFUTES ITSELF — USE ITS OWN SENTENCE.** **L34** carries the calibrated framing: "That precedent establishes that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([[positions/quantum-interface]] P-Q8)." The `description:` at **L3** is likewise already correct ("precedent, not licence"). Propagate L34's standard into L62, L200 and the L48 grade. Downgrade "Strong" empirical grading to model-based support for a plausible candidate mechanism.
-  **STYLE.** "This isn't theoretical; it's working biology" is also the banned *"This is not X. It is Y."* construct — see the "Overused Words and Constructions" section of [[writing-style]]. Rephrase to the positive claim rather than merely softening it.
-  **SCOPE GUARD.** Radical pairs remain the strongest of the five candidate mechanisms and the Tegmark rebuttal at L64 is sound. This is a grading fix, not a demotion of the mechanism.
-
 ### P1: `machine-question` L149 asserts "There is nothing for consciousness to collapse" — categorical wording that outruns both the post-decoherence route and the AI register's admitted missing eligibility law
 
 - **Type**: refine-draft
@@ -2826,6 +2810,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: the radical-pair evidence grade in `neural-implementation-specifics` survived the 2026-07-14 Denton sweep — "working biology", "Strong", and "birds see them" are all still live, and L34 already contradicts them
+- **Type**: refine-draft
+- **File**: obsidian/topics/neural-implementation-specifics.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "source-scope contradiction" row. **All loci verified verbatim on disk.**
+  **⚠️ A PRIOR SWEEP CLOSED OVER THIS.** The queue carries `✓ DONE-OUT-OF-BAND 2026-07-14: Sweep residual Denton-2024 "demonstrated" over-claims` against this same file. That sweep keyed on the word *demonstrated* and left every other over-claim standing — the textbook [[fix-by-file-leaves-string-siblings-live|string-sibling]] failure. Treat the closed task as no evidence of coverage here.
+  **LIVE LOCI.** **L62**: "Avian magnetoreception… operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology." **L200**: "Strongly supported, as precedent… an effect measured in working biology." **L48** calibration table: radical pairs graded `Strong | Strong (2024 Zeno model) | Moderate`.
+  **WHY IT IS AN OVER-CLAIM.** Denton et al. (2024, *Nature Communications*) *modelled* how the quantum Zeno effect could sustain magnetosensitivity in tightly bound cryptochrome radical pairs — the article's own **L58** says so ("showing computationally"). Cryptochrome remains the *hypothesised* avian magnetosensor; the paper identifies parameter regions in simulation. Four distinct claims are being run together and must be separated: evidence for magnetosensitivity; evidence for cryptochrome involvement; evidence for a *particular* radical pair; and evidence of any neural relevance. "Birds see them" is a further perceptual claim the cited work does not establish.
+  **THE ARTICLE ALREADY REFUTES ITSELF — USE ITS OWN SENTENCE.** **L34** carries the calibrated framing: "That precedent establishes that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([[positions/quantum-interface]] P-Q8)." The `description:` at **L3** is likewise already correct ("precedent, not licence"). Propagate L34's standard into L62, L200 and the L48 grade. Downgrade "Strong" empirical grading to model-based support for a plausible candidate mechanism.
+  **STYLE.** "This isn't theoretical; it's working biology" is also the banned *"This is not X. It is Y."* construct — see the "Overused Words and Constructions" section of [[writing-style]]. Rephrase to the positive claim rather than merely softening it.
+  **SCOPE GUARD.** Radical pairs remain the strongest of the five candidate mechanisms and the Tegmark rebuttal at L64 is sound. This is a grading fix, not a demotion of the mechanism.
 
 ### ✓ 2026-08-17: `self-construction-constructor` L66 converts Killingsworth & Gilbert's mind-wandering result into "self-narrating mode" — the accurate construct already sits one file away
 - **Type**: refine-draft

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-08-08 21:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-17 06:40:46+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Quantum Biology and Neural Mechanisms
 archived: true
 archived_date: 2026-03-26 16:22:00+00:00
@@ -46,7 +46,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 01:01:00+00:00
-lastmod: 2026-08-08 21:57:00+00:00
+lastmod: 2026-08-17 06:40:46+00:00
 modified: *id001
 original_path: /concepts/quantum-neural-mechanisms-and-coherence/
 related_articles:
@@ -133,7 +133,7 @@ Phosphorus nuclear spins in Posner molecules serve as entangled qubits with long
 
 | Mechanism | Theory Status | Experimental Evidence | Neural Relevance |
 |-----------|---------------|----------------------|------------------|
-| Radical pairs | Well-developed | Strong (avian, 2024 Zeno) | Moderate (neural crypto unclear) |
+| Radical pairs | Well-developed | Strong (avian behavioural); the 2024 Zeno result is modelling | Moderate (neural crypto unclear) |
 | Ion tunneling | Mathematical | Indirect (pathology match) | High (action potentials) |
 | Microtubules (Orch OR/QBIT) | Comprehensive | Growing (2024-2025 studies) | High (ubiquitous structure) |
 | SNARE tunneling | Specific | Theoretical | High (synaptic release) |

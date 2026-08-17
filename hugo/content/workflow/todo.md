@@ -39,19 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `self-construction-constructor` L66 converts Killingsworth & Gilbert's mind-wandering result into "self-narrating mode" — the accurate construct already sits one file away
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/self-construction-constructor.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7. **Verified verbatim on disk.** This is an empirical-claim fidelity defect: the citation is real and the number is right, but the paraphrase does not match what the study measured.
-  **THE DEFECT.** `apex/self-construction-constructor` **L66**: "Killingsworth and Gilbert found people spend roughly 47% of waking hours in this self-narrating mode" — embedded in a paragraph about the default-mode network constructing the narrative self. Killingsworth & Gilbert (2010) experience-sampled thoughts, feelings and actions and found participants were thinking about something other than their current activity roughly 47% of the time, with mind-wandering associated with lower happiness. They did not measure the DMN, narrative identity, or self-narration. Task-unrelated thought has been silently converted into narrative-self processing.
-  **THE CORRECT WORDING ALREADY EXISTS — COPY IT, DO NOT COMPOSE.** `concepts/default-mode-network` **L143** carries the accurate construct: "Killingsworth and Gilbert's 2010 experience sampling study found that people spend approximately 47% of waking hours mind-wandering, and mind-wandering correlated with reduced happiness across activities." It even carries the 2025 Gross et al. qualification about thought valence. Adapt that sentence into the apex.
-  **WHAT SURVIVES.** The apex's broader claim — that the DMN constructs the narrative self — is independently supported and should stay; it simply needs DMN-specific evidence rather than the 47% figure doing that work. Either cite separate DMN/narrative-self evidence for the stronger claim, or keep the 47% figure and restate it as mind-wandering, dropping the inference to self-narration. Do not delete the citation.
-
 ### P1: the radical-pair evidence grade in `neural-implementation-specifics` survived the 2026-07-14 Denton sweep — "working biology", "Strong", and "birds see them" are all still live, and L34 already contradicts them
 
 - **Type**: refine-draft
@@ -2841,6 +2828,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: `self-construction-constructor` L66 converts Killingsworth & Gilbert's mind-wandering result into "self-narrating mode" — the accurate construct already sits one file away
+- **Type**: refine-draft
+- **File**: obsidian/apex/self-construction-constructor.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7. **Verified verbatim on disk.** This is an empirical-claim fidelity defect: the citation is real and the number is right, but the paraphrase does not match what the study measured.
+  **THE DEFECT.** `apex/self-construction-constructor` **L66**: "Killingsworth and Gilbert found people spend roughly 47% of waking hours in this self-narrating mode" — embedded in a paragraph about the default-mode network constructing the narrative self. Killingsworth & Gilbert (2010) experience-sampled thoughts, feelings and actions and found participants were thinking about something other than their current activity roughly 47% of the time, with mind-wandering associated with lower happiness. They did not measure the DMN, narrative identity, or self-narration. Task-unrelated thought has been silently converted into narrative-self processing.
+  **THE CORRECT WORDING ALREADY EXISTS — COPY IT, DO NOT COMPOSE.** `concepts/default-mode-network` **L143** carries the accurate construct: "Killingsworth and Gilbert's 2010 experience sampling study found that people spend approximately 47% of waking hours mind-wandering, and mind-wandering correlated with reduced happiness across activities." It even carries the 2025 Gross et al. qualification about thought valence. Adapt that sentence into the apex.
+  **WHAT SURVIVES.** The apex's broader claim — that the DMN constructs the narrative self — is independently supported and should stay; it simply needs DMN-specific evidence rather than the 47% figure doing that work. Either cite separate DMN/narrative-self evidence for the stronger claim, or keep the 47% figure and restate it as mind-wandering, dropping the inference to self-narration. Do not delete the citation.
 
 ### ✓ 2026-08-17: `bandwidth-of-consciousness` withdraws the 10-bit datum as a discriminator at L165, then uses it four lines later to fix the interface grain and satisfy Tenet 2
 - **Type**: refine-draft
