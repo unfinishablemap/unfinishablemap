@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-08-08 17:26:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-17 10:33:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 09:04:46+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-17 10:33:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,11 +51,11 @@ This is among the most constant voids. Every other void on the Map can be encoun
 
 ## The Unity That Cannot Be Analysed
 
-Philosophers approaching phenomenal unity converge on a striking conclusion: co-consciousness—the relation of "being experienced together"—resists analysis into anything more basic.
+Philosophers approaching phenomenal unity keep running into the same difficulty: every proposed analysis of co-consciousness—the relation of "being experienced together"—reaches for something that is already unified. One response is to declare the relation primitive and stop there — a minority position among the authors usually assembled in its support.
 
-Barry Dainton treats co-consciousness as a primitive, unanalysable relation. It is the most fundamental feature of phenomenal experience, and any attempt to define it in terms of something else either fails or smuggles unity back in under a different name. Tim Bayne's subsumption analysis faces circularity: explaining unity in terms of a subsuming experience that is itself unified. Representational analyses fare no better—they require that representations be unified, which is the very thing they aim to explain.
+Barry Dainton treats co-consciousness as a primitive, unanalysable relation. It is the most fundamental feature of phenomenal experience, and any attempt to define it in terms of something else either fails or smuggles unity back in under a different name. Of the three approaches surveyed here, Dainton's is the only one that draws that conclusion. Tim Bayne and David Chalmers offer subsumption as a rival *analysis* and say so plainly: it "runs deeper in certain respects than a primitive analysis in terms of co-consciousness," and their paper closes by noting that "there is much need for further work in analyzing the notion of unity" (Bayne & Chalmers, 2003). Michael Tye's one-experience view is likewise a reduction, locating unity in relations between the *contents* of experiences rather than in a phenomenal relation between distinct experiences (Tye, 2003). What the Map observes is that each analysis helps itself to something already unified—a subsuming total experience, a single encompassing content—which is the very thing at issue.
 
-The primitivist convergence—the agreement among otherwise diverse thinkers that phenomenal unity is where decomposition stops—is the philosophical signature of a void.
+That recurring circularity is worth recording, but it is not the agreement among diverse thinkers it is sometimes taken for. Only Dainton holds that decomposition stops here; Bayne first engaged Dainton's position in a review of *Stream of Consciousness* (Bayne, 2001), Dainton is thanked in the acknowledgements of the subsumption paper, and Tye frames his own account against the very phenomenal relation Dainton takes as primitive. The pattern is one framework's circularity test read three times across positions that dispute each other, two of them joined by a documented citation lineage—genealogical recurrence rather than independent arrival, which leaves [the independence condition](/topics/epistemology-of-convergence-arguments/#genuine-independence) convergence arguments require unmet. What this section establishes is that the analyses currently on offer are circular by the Map's lights, not that three traditions independently located a boundary.
 
 William James saw this in 1890. "Take a sentence of a dozen words, and take twelve men and tell to each one word," he wrote. "Then stand the men in a row or jam them in a bunch, and let each think of his word as intently as he will; nowhere will there be a consciousness of the whole sentence." James concluded that the compounding of consciousness is not merely unexplained but fundamentally unintelligible. He later attempted to dissolve this through radical empiricism in *A Pluralistic Universe* (1909), but even his revised account acknowledged that combination resists ordinary analysis. The unintelligibility persists despite enormous progress in understanding the brain.
 
@@ -75,7 +75,7 @@ The binding void's mechanism is hidden not behind experience but *within* it. Wh
 
 The Stanford Encyclopedia of Philosophy notes that introspection "strongly supports" the Unity Thesis but may be "constrained by informational bottlenecks" that prevent access to the mechanism. Introspection may even be a mechanism *for* unifying experiences—examining binding through introspection would be like trying to see one's own eyes without a mirror.
 
-Chalmers sharpens the difficulty by distinguishing access unity from phenomenal unity. These can dissociate: split-brain patients exhibit access disunity yet may possess unified phenomenology. "The subject has pathologies of access, so that the contents of the field are accessible only singly and not jointly," he writes. If the two forms of unity come apart, then the mechanisms we can study (access) may tell us nothing about the unity we experience (phenomenal).
+Bayne and Chalmers sharpen the difficulty by distinguishing access unity from phenomenal unity. These can dissociate: split-brain patients exhibit access disunity yet may possess unified phenomenology. "The subject has pathologies of access, so that the contents of the field are accessible only singly and not jointly," they write. If the two forms of unity come apart, then the mechanisms we can study (access) may tell us nothing about the unity we experience (phenomenal).
 
 ## Distinction from Adjacent Voids
 
@@ -93,7 +93,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 ## Evidence That This Is a Void
 
-**The primitivist convergence.** Dainton's primitivism, Bayne's subsumption analysis, and representational theories all converge on treating co-consciousness as unanalysable. When diverse approaches agree that analysis terminates here, the convergence evidences a genuine boundary rather than insufficient effort.
+**The recurring circularity of the analyses.** Every analysis on offer reaches for something already unified — subsumption for an encompassing total experience, the one-experience view for a single encompassing content. Only Dainton concludes the relation is therefore primitive; Bayne, Chalmers and Tye press their analyses as improvements on primitivism. This is one circularity diagnosis applied three times by one framework rather than three approaches independently reaching a boundary, so [the independence condition](/topics/epistemology-of-convergence-arguments/#genuine-independence) goes unmet and the item counts as one recurring difficulty. It is consistent with a genuine boundary without separating a boundary from an unfinished research programme.
 
 **The neuroscientific explanatory gap.** Neural correlates describe *when* binding occurs without explaining *why*. Locating without explaining is characteristic of void territory.
 
@@ -139,7 +139,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points, mo
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through [indexical identity](/concepts/indexical-knowledge-and-identity/). Phenomenal binding is a concrete feature of *this* particular experience right now. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) already secures branch-local concreteness, since each branch's observer truly experiences *this* unified field. The Map's stronger commitment is that the unity is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly illustrated. The convergence on treating co-consciousness as primitive is a case study in Occam's Razor failing. The demand for a simpler explanation may be a demand the phenomenon cannot satisfy.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated by the dispute rather than by any convergence. Dainton's primitivism is standardly objected to on parsimony grounds—a primitive should be admitted only where it explains better than its rivals—while the rival analyses buy their economy by presupposing the unity they set out to explain. The demand for a simpler explanation may be a demand the phenomenon cannot satisfy, which is the tenet's point.
 
 ## Further Reading
 
@@ -156,6 +156,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points, mo
 
 ## References
 
+1. Bayne, T. (2001). "Co-consciousness: Review of Barry Dainton's *Stream of Consciousness*." *Journal of Consciousness Studies*, 8, 79–92.
 1. Bayne, T. & Chalmers, D.J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
@@ -164,5 +165,6 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points, mo
 1. James, W. (1909). *A Pluralistic Universe*. Longmans, Green, and Co.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+1. Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
 1. Stanford Encyclopedia of Philosophy. "The Unity of Consciousness." https://plato.stanford.edu/entries/consciousness-unity/
 1. de Haan, E.H.F. et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review*, 30, 224–233.

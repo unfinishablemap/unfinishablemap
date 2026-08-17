@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T05:33:00+00:00'
+ai_modified: '2026-08-17T10:34:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 05:33:00+00:00
+lastmod: 2026-08-17 10:34:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 10:33 UTC - refine-draft
+
+- **Status**: Success (content change)
+- **File**: [binding-void](/voids/binding-void/)
+- **Task**: outer review 2026-08-17 (Claude Opus 5 full-site audit), tenet-coherence finding 1 — second locus of the C2 convergence-as-evidence cluster.
+- **Word count**: 2176 → 2527 (+351), `soft_warning` both before and after, 473 words below the 3000 `voids/` hard ceiling. The growth is the independence audit's prose plus two References entries; no section was padded.
+- **Defect**: convergence-as-evidence leaking past the demotion held by [voids-as-evidence](/positions/voids-as-evidence/) (P-V1: void convergence is "framework-internal coherence under the common-cause null, not independent confirmation"). The sibling [ineffable-encounter-void](/voids/ineffable-encounter-void/) adopted the demotion on 2026-08-06; `binding-void` never inherited it. No independence test, common-cause null, or genealogical-dependence check appeared anywhere in the file.
+- **Independence check — result went AGAINST the convergence, more sharply than expected.** The article claimed Dainton's primitivism, Bayne's subsumption analysis, and representational theories "all converge on treating co-consciousness as unanalysable." Verified at primary sources (Bayne & Chalmers 2003 full text via consc.net; SEP "The Unity of Consciousness"):
+  1. **Only Dainton is a primitivist.** Bayne and Chalmers offer subsumption as a *rival analysis*, writing that it "runs deeper in certain respects than a primitive analysis in terms of co-consciousness," and closing that "there is much need for further work in analyzing the notion of unity" — the opposite of conceding that analysis terminates. Tye's one-experience view is a reduction to relations between experiential *contents*, explicitly framed against the phenomenal-relation view Dainton holds.
+  2. **Documented genealogical dependence between two of the three.** Bayne (2001) is a *review of Dainton's* Stream of Consciousness (*JCS* 8:79–92, verified in Bayne & Chalmers's own bibliography); Dainton is thanked by name in the subsumption paper's acknowledgements; Bayne & Chalmers cite Dainton 2000 three times.
+  3. **So the "convergence" was one framework's circularity diagnosis read three times** across positions that dispute each other — precisely the common-cause-null structure the register guards against — not three independent arrivals.
+- **Changes** (convergence observation retained throughout; only what it licenses was recalibrated):
+  - **L54** (was "the primitivist convergence ... is the philosophical signature of a void"): replaced with the sibling's corrected pattern, reusing its named anchor — now reports the genealogical lineage and states "genealogical recurrence rather than independent arrival, which leaves [the independence condition](/topics/epistemology-of-convergence-arguments/#genuine-independence) convergence arguments require unmet."
+  - **L92** (was "the convergence evidences a genuine boundary rather than insufficient effort"): rewritten as "The recurring circularity of the analyses" — one diagnosis applied three times, independence condition unmet, "counts as one recurring difficulty", consistent with a boundary without separating a boundary from an unfinished research programme. Same anchor reused.
+  - **L50/L52** (same-file restatements of the identical claim; a corrected L92/L54 beside these would have been a half-fix): section opener recalibrated from "converge on a striking conclusion" to the recurring-circularity framing; the survey paragraph now shows Bayne, Chalmers and Tye as rivals attempting analyses, with the two verified quotes, and attributes the circularity verdict to the Map rather than to the theorists.
+  - **Occam paragraph**: was "The convergence on treating co-consciousness as primitive is a case study in Occam's Razor failing" — false once only Dainton holds primitivism, and SEP records that Dainton's primitivism is itself objected to *on parsimony grounds*. Re-framed to illustrate Tenet 5 through the dispute rather than through a convergence.
+  - **Attribution fix** (skill §3.5, verified at primary source): "The subject has pathologies of access..." is verbatim in Bayne & Chalmers 2003 but was attributed to Chalmers alone with "he writes" → "Bayne and Chalmers ... they write".
+  - **References added**: Bayne (2001) review; Tye (2003) *Consciousness and Persons: Unity and Identity* (MIT Press, verified at publisher).
+- **Scope**: one file. Did not touch the three loci tasked to the `voids-between-minds` P2 (`voids-between-minds` L152, `three-kinds-of-void` L58, `meta-epistemology-of-limits` L142) and did not re-mint them. No locus outside both sets surfaced. Note the check does **not** disturb P-V3's listing of binding among the framework-independent voids — that claim is about the void's *identification* being framework-independent, a different claim from what the primitivist pattern evidences.
+- **Verification**: `grep -c` returns 0 for both defect strings in `obsidian/` and `hugo/`; the new anchor appears at 2 loci in both trees and resolves to `/topics/epistemology-of-convergence-arguments/#genuine-independence`, byte-identical to the sibling's link and matching `### Genuine Independence` in the synced target. Ran `scripts/sync.py`; hugo mirror confirmed carrying all six edits plus frontmatter. No EOF artifact. No `load-bearing`, no "This is not X" construct.
+- **Published**: yes
 
 ## 2026-08-17 10:05 UTC - deep-review
 
