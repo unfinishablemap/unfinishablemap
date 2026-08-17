@@ -1,9 +1,13 @@
-last_updated: '2026-08-17T16:07:07.074257+00:00'
-session_count: 19038
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-17T16:13:20.446642+00:00'
+session_count: 19039
 cycle_position: 12698
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T16:12:43.292339+00:00'
+  agentic-social: '2026-08-17T16:13:20.446642+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T13:07:40.431295+00:00'
@@ -110,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-17'
@@ -188,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -515,179 +519,107 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
 queue_status:
-  last_replenishment: '2026-08-17T05:20:00+00:00'
-  last_replenishment_mode: four-candidates-verified-and-declined-one-register-gap-shipped
+  last_replenishment: '2026-08-17T16:31:00+00:00'
+  last_replenishment_mode: five-candidates-declined-one-archival-label-cluster-shipped
   last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
-    before the write. Exact-floor plus one, so ONE mint and no padding. Restored to
-    3 by a single P2 positions-evolve on obsidian/positions/voids-as-evidence.md,
-    appended at the very end of the Active section, insert only, so no existing task
-    line moved and no cached queue_task_line shifted. Parses as POSITIONS_EVOLVE priority
-    2 active with file_path resolving.
+    live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
+    content, on disk immediately before the write. Exact-floor plus one, so ONE
+    mint and no padding. Restored to 3 by a single P2 refine-draft on obsidian/concepts/selection-only-channel.md,
+    appended at the very end of the Active section, insert only, so no existing
+    task line moved and no cached queue_task_line shifted. Re-parsed after the write:
+    3 P0-P2, the new entry is third and last so FIFO drains both holders first,
+    and it parses as REFINE_DRAFT priority 2 active with file_path resolving on
+    disk. Thirteenth consecutive zero-cap-cost replenishment.
 
-    THE HEADLINE OF THIS RUN IS THE DECLINE RATE, NOT THE MINT. Four candidates were
-    verified on disk and four were rejected, three of them because the work had ALREADY
-    LANDED in the hours before this run. Recording them so a later run does not re-walk
-    the same ground.
 
-    DECLINED 1, the driver-supplied optimistic-review finding that voids articles
-    fail to link back to positions. The headline figures did not survive measurement.
-    The claim that only 7 voids link out to apex is an artefact of grepping the path-qualified
-    form only. Bare-slug-aware counting gives 41 of 99 voids linking to apex and 26
-    of 41 apex linking into voids. The one real number is voids to positions, which
-    is 2. But the implied defect is FALSE. Of the 21 voids articles that engage the
-    evidential question, 13 have a link path to the register directly or via a register-citing
-    hub, and all 8 with no path were read at their loci and every one already runs
-    the common-cause discipline correctly in its own words. Two of those 8 were false
-    positives whose evidential-weight phrasing is about process versus content introspective
-    report reliability, not void convergence. Actioning this would have been link-padding
-    on compliant articles. The lens that DID find something was inverting it, which
-    is what shipped.
+    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state, AND RECONCILED
+    AGAINST A REAL FILE COUNT. topics 320 of 320, at cap, gate blocks; concepts
+    319 of 320; voids 99 of 100; positions 15 of 80; apex 41 and arguments 5, uncapped.
+    The topics gate counts topics/non-temporal-consciousness.refinement-log as an
+    article, so it reads 320 while 319 real articles exist. Treated as blocked because
+    the gate is what enforces, and it is an open NEEDS-HUMAN item, not re-filed.
+    Neither expand-topic nor research-topic was mintable, so the mint had to be
+    zero-cap-cost work.
 
-    DECLINED 2, the bath-spectral-densities note. Its quantum-zeno-effect half is
-    fully consumed as of 03.40 today. Its sign-problem half is genuinely unlanded
-    and the over-strong absence claim at L65 is real, but a prior run recorded an
-    explicit precondition, that the sign-problem half waits until the open P3 refine-draft
-    on that file and the open P3 positions-evolve on positions/quantum-interface clear.
-    Both were re-parsed this run and both are still open, so the precondition is unmet
-    and minting would have raced two siblings on one file.
 
-    DECLINED 3, the purification note. All three of its licensed edits landed at 01.45
-    today. The host now carries a Purification section at L72, the uniqueness clause
-    at L74, and the steering mechanism, and the sibling causal-consistency-constraint
-    got the same clause.
+    THE MINT, VERIFIED ON DISK IN BOTH TREES. Five live articles carry wikilinks
+    to three articles that were coalesced away, plus one target that exists nowhere.
+    Census method: every wikilink in obsidian outside workflow and reviews resolved
+    against the full set of obsidian stems, which yields exactly four unresolvable
+    targets across six files in live content, and that is the whole population rather
+    than a sample. Loci: selection-only-channel L20, L117 and L140 for asymmetric-bandwidth-consciousness,
+    which that same file already links at L25 and L141 under its successor name
+    consciousness-bandwidth-architecture, so L140 and L141 are adjacent Further
+    Reading entries resolving to one identical URL; evolutionary-case-for-quantum-neural-effects
+    L26, L60 and L144 for dimensionality-void; what-voids-reveal L45 and L70 for
+    mind-space-void, L70 being a raw dead slug used as a prose noun; recognition-void
+    L27; common-knowledge-void L12 for philosophy-of-language, which unlike the
+    other three has no successor and no redirect, confirmed by find over obsidian,
+    archive and hugo/content and by a zero grep count in hugo/static/_redirects.
 
-    DECLINED 4, the claude-constitution note. Its article exists at topics/claude-constitution-consciousness-uncertainty
-    and the same-day quote-attribution correction was applied to both note and article
-    at 02.52, with both quotes correctly credited to the announcement rather than
-    the Constitution.
 
-    UNCONSUMED RESEARCH IS EXHAUSTED, AND THE CHAIN METADATA THAT SAID OTHERWISE IS
-    WRONG. All six notes the driver flagged as unconsumed are consumed when checked
-    by content. causal-exclusion-argument has concepts/causal-exclusion-argument,
-    autonoetic has its article, aesthetic-judgment was refined into its target on
-    08-16, report-latency is already tasked as the open P2 on affective-forecasting-gap,
-    and the other two are declines 3 and 4 above. Zero mints available from the highest-bonus
-    source, which is a healthy state rather than a stall.
+    THE KEY DISCRIMINATION, AND WHY NO CHECKER FINDS THIS. The links are NOT broken.
+    Sync resolves each one through _redirects and emits a URL landing on the live
+    successor, confirmed in the Hugo tree at hugo/content/concepts/selection-only-channel.md
+    line 120. So this is a labelling and identity defect, not a link repair, and
+    the task says so explicitly to stop a fork no-opping once it finds the links
+    work. Repointing was checked to be truth-preserving rather than assumed: consciousness-bandwidth-architecture
+    carries coalesced_from for asymmetric-bandwidth-consciousness and its lead states
+    the asymmetry the citing sentence attributes to it, and mapping-mind-space carries
+    coalesced_from for BOTH mind-space-void and dimensionality-void with a lead
+    covering both attributed claims.
 
-    CAPS BLOCKED THE TWO CHAIN SOURCES OUTRIGHT. Measured with count_section_files
-    from tools.evolution.state. topics 320 of 320 at cap, concepts 319 of 320 with
-    the single slot four research notes have recommended leaving unspent, voids 99
-    of 100, positions 15 of 80. Neither expand-topic nor research-topic was mintable,
-    so positions was the only roomy target and the mint went there. This is the twelfth
-    consecutive zero-cap-cost replenishment.
 
-    THE MINT ITSELF, VERIFIED IN CONTENT ONLY WITH reviews, workflow and research
-    excluded. All three positions in positions/voids-as-evidence carry the same Argued-in
-    roster at L43, L53 and L63, naming exactly one voids-section article, which is
-    the section summary page. Inbound is the mirror, 1 of 99 voids articles cites
-    the register. Five leaf voids apply P-V1 and P-V2 common-cause discount to their
-    own local convergence claims and are cited by neither position, quoted verbatim
-    in the task Notes from death-void L90, edge-states-and-void-probes L156, mutation-void
-    L114, mapping-mind-space L69 and transformative-experience-void L74. The substantive
-    half is that death-void reaches a THIRD common-cause channel, shared intellectual
-    lineage over a Greco-Roman to European inheritance, which P-V1 does not name since
-    its parenthetical lists only one introspective channel and one curating framework.
-    The task asks the register to cite its own evidence base and to weigh the lineage
-    clause, and explicitly forbids editing the five voids articles.
+    SCOPE EXCLUSION RECORDED IN THE TASK. edge-states-and-void-probes carries the
+    same defect at L29 and L142 and was deliberately excluded, being 3561w hard_warning
+    under a standing human length decision and already named by two open tasks.
+    The task instructs the executor to name the exclusion in its report so it is
+    not read as a dropped file.
 
-    PILEUP AND OVERLAP CLEARED. Zero open tasks name voids-as-evidence in any File,
-    title or Notes field, the four todo.md string hits being Completed or NEEDS-HUMAN
-    entries. The mint is not a re-run of today C2 convergence-as-evidence cluster,
-    which closed per-locus over-claims in live prose and touches none of these loci,
-    and it deliberately avoids obsidian/tenets which is operator territory after the
-    Tenet 3 quantifier NEEDS-HUMAN entry.
 
-    Prior note from run 964 follows.
+    DECLINED THIS RUN, FIVE CANDIDATES, ALL VERIFIED BEFORE REJECTION. One, obsidian
+    to hugo mirror drift, measured and clean: file sets identical across topics,
+    concepts, voids, positions, apex and arguments except the refinement-log sidecar
+    which is correctly not synced, zero files in hugo without an obsidian source,
+    and zero articles with a body word-count delta above 3 percent. Two, dangling
+    wikilinks with a capitalised target such as Mysterianism, Parsimony-epistemology,
+    Animal-consciousness, Intentionality and Self-opacity: NOT a defect, sync resolves
+    case-insensitively and hugo emits the correct lowercase URL, verified per locus.
+    Three, the QEC bracket notation in concepts/ai-hardware-substrate-taxonomy L59:
+    already backtick-wrapped and surviving intact into hugo, so the known wikilink-collision
+    defect is already fixed there. Four, a memory-slug wikilink in the anchoring_audit_exempt
+    comment of graduated-middle-path-valence-modulated-attention L9: it is a YAML
+    comment, stripped by sync, absent from hugo, and is intentional editor apparatus.
+    Five, condense tasks off the length census: 30 files sit at hard_warning but
+    false over-length is the base rate once reference apparatus is decomposed, three
+    veto condense P2s already exist, and two of the worst offenders are under standing
+    human length decisions.
 
-    Pre-count P0-P2 equals 2 against the floor of 3, measured live with count_p0_p2_tasks
-    from tools.evolution.task_selector on disk immediately before the write, and re-measured
-    a second time after a git log check for a concurrent replenish, which found the
-    newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft, not a replenish.
-    32 pending P3, unchanged from runs 962 and 963. Both holders going in were run
-    962 purification fold and run 963 quantum-zeno-effect mint, confirmed open by
-    parse rather than taken on trust, exactly as the driver predicted. Restored 2
-    to 4 by TWO P2 refine-draft mints appended at the very end of the Active section,
-    insert only, so no existing task line moved and no cached queue_task_line shifted.
-    Both parse as REFINE_DRAFT priority active with file_path resolving correctly
-    and full Notes carried into the skill args.
 
-    TWO MINTS RATHER THAN THE USUAL EXACT-FLOOR ONE, AND THE REASON IS DELIBERATE.
-    Runs 962 and 963 each minted exactly one because each had exactly one good candidate.
-    This run had two findings that are independently verified, zero cap cost, and
-    orphaned, in the strict sense that both come from report-only skills which cannot
-    mint their own follow-up work, so neither has any other route into the queue.
-    Neither is padding and neither is speculative, so the no-padding discipline is
-    honoured rather than broken by taking both. Post-count 4, one above the floor.
+    REPORTED, NOT MINTED, BECAUSE IT IS OPERATOR TERRITORY. Six slugs exist BOTH
+    as live obsidian articles and as files under archive, so generate_redirects
+    in tools/sync/redirects.py emits a 301 from each live article''s own canonical
+    URL. Three are self-referential loops, concepts/intentionality, concepts/unity-of-consciousness
+    and concepts/contemplative-epistemology. Three redirect a live page to a DIFFERENT
+    live page: concepts/minimal-consciousness to topics/consciousness-in-simple-organisms,
+    referenced from 32 live articles; concepts/observational-closure to concepts/causal-closure,
+    from 21; and concepts/entanglement-binding-hypothesis to topics/quantum-holism-and-phenomenal-unity,
+    from 9. All six are unforced 301s, so Netlify should serve the existing file
+    and ignore the rule, which is why nothing is visibly broken. The fix belongs
+    in the generator or in archive hygiene, both operator territory, and no existing
+    todo entry covers it.
 
-    MINT ONE, THE CIRCULAR SELF-CITATIONS, VERIFIED BY INDEPENDENT CENSUS RATHER THAN
-    RELAYED. The driver reported seven circular self-citations across four files.
-    Rather than trust the summary, a fresh census resolved every unfinishablemap.org
-    URL in obsidian against the redirect table in hugo/static/_redirects. It returns
-    exactly 7 circular hits, distributed 2/2/2/1 across topics/memory-channel-interface-evidence,
-    concepts/creative-consciousness, voids/creative-aesthetic-void and concepts/ai-epiphenomenalism,
-    matching the relayed figures exactly. Each entry cites a predecessor URL that
-    301s back to the citing article itself, so an article lists itself as one or two
-    separate prior sources. The same census establishes the scope boundary the task
-    now carries, namely 33 stale but NON-circular self-cites in live article sections
-    which are dated citations and are explicitly fenced OUT of the mint, because repointing
-    one changes which work is cited whereas no dating convention can make an article
-    a prior source for itself.
 
-    A FALSE ZERO OF MY OWN, CAUGHT AND CORRECTED, WORTH RECORDING. An early check
-    of the hugo tree reported 0 matches for memory-channel-interface-evidence and
-    appeared to show the defect was obsidian only there. That was an artefact of my
-    own regex, which required the slug alternation to be followed immediately by a
-    slash when the real URL continues with a hyphen. Direct inspection shows both
-    loci live at hugo L201 and L202. All seven loci are live in BOTH trees, and the
-    mint says so and demands a sync. This is the narrow-grep-zero failure mode arriving
-    in my own hands, not a forks.
-
-    MINT TWO, THE REPORT-LATENCY FOLD, WITH EVERY HEADROOM FIGURE RE-MEASURED. The
-    research note voids-report-latency-void-2026-08-16 recommends fold rather than
-    spending the last voids slot, names its hosts, and warns in its own text that
-    it becomes a third orphaned Folded note without a task. Every length figure it
-    quotes was re-measured at mint with tools.curate.length.analyze_length and all
-    match exactly, which is unusual and worth noting given how often relayed figures
-    drift. affective-forecasting-gap 1861 words status ok with 1639 headroom becomes
-    the main home, anesthesia-void 2814 words takes a compact insertion against 186
-    words of headroom, sleep-consciousness-void 2810 words takes one sentence against
-    190. The traps are fenced explicitly in the mint. topics/anaesthesia-and-the-consciousness-interface
-    is the most topically natural host and sits at 3999 words against a 4000 ceiling,
-    ONE word of headroom, so it is marked add nothing. voids/erasure-void is roomy
-    at 716 headroom but is the primary File of the open olfactory fold P3, so it is
-    excluded to avoid the same-file pileup pattern, exactly as the note itself instructs.
-    voids/edge-states-and-void-probes is under a standing human length decision and
-    is marked do not edit, with the exposure to be reported to the operator instead.
-
-    CAP SCARCITY RE-MEASURED AND CONFIRMED BINDING, AND NOTHING MINTED AGAINST IT.
-    Measured live with count_section_files from tools.evolution.state, topics reads
-    320 of 320, concepts 319 of 320, voids 99 of 100, positions 15 of 80. The topics
-    figure includes the known counting artefact, the sidecar non-temporal-consciousness.refinement-log.md,
-    which is present in the directory listing and is not a live article, so 319 real
-    articles read as 320. Both mints are edits to existing files and neither creates
-    an article, so both are zero cap cost and nothing in this run is premised on a
-    slot opening.
-
-    CROSS-REVIEW JUDGED AND DECLINED FOR THE TWELFTH CONSECUTIVE RUN, WITH EVIDENCE.
-    The candidate recent edits are apex/what-consciousness-tells-us-about-physics,
-    which gained a synthesis in commit bba5ff2349 at 00.06, and the Family Z reversal
-    in commit 01fa0383fe at 00.59 which touched apex/judging-the-map-as-science, topics/philosophy-of-science-under-dualism
-    and concepts/epistemology-of-mechanism-at-the-consciousness-matter-interface.
-    Both commits are inside the churn window of a few hours, verified by git show
-    rather than assumed, so a cross-review would land on text still settling. Declined.
-
-    PILEUP, VETO AND CHURN CLEARED BY PARSE FOR BOTH MINTS. No File, Second file or
-    Third file line in the Active section names any of the seven target files. The
-    Vetoed section was read rather than grepped blind, because raw counts were nonzero
-    for creative-consciousness, ai-epiphenomenalism and sleep-consciousness-void.
-    All resolved to unrelated apex and cross-link proposals and one closed 2026-04-20
-    reference update, none of which blocks bibliographic repair or a fold. The 23
-    hits for the string circular are about circularity of reasoning in philosophical
-    content, not circular citations. Target ai_modified dates run from 2026-06-18
-    to 2026-08-08, all far outside tonight edit wave.'
-  last_replenishment_prev: '2026-08-17T01:11:00+00:00'
-  last_replenishment_run: 965
+    CARRY-FORWARD FROM RUN 965 SO THE NEXT RUN DOES NOT RE-WALK IT. Unconsumed research
+    was checked by content and is exhausted; chain metadata is unreliable as a consumption
+    signal. The bath-spectral-densities sign-problem half remains genuinely unlanded
+    but is precondition-blocked on two still-open siblings on the same file. The
+    purification and claude-constitution notes are fully consumed. The voids-do-not-cite-the-register
+    finding is FALSE as a content defect and must not be actioned as link-padding.
+    Newly added this run: the report-latency fold landed at 16:07 under commit 436361b0
+    and its note is marked consumed, so it cannot re-mint.'
+  last_replenishment_prev: '2026-08-17T05:20:00+00:00'
+  last_replenishment_run: 966
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
@@ -700,10 +632,10 @@ queue_status:
     applied_apex_gap: 0
     chain: 0
     deferred_residue_capture: 0
-    gap_analysis: 0
+    gap_analysis: 1
     length_analysis: 0
     orphan_integration: 0
-    positions_dependency_changed: 1
+    positions_dependency_changed: 0
     positions_register_gap: 0
     promotion_existing_p3: 0
     staleness: 0
