@@ -59,18 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-08-17
 - **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
 
-### P2: Wiest & Puniani 2025 is cited with no volume, pages or DOI — and a corrigendum exists
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-claude-opus-5.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), citation-verification table. **Reference 19 (L236)** reads "Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: … *Computational and Structural Biotechnology Journal*." and stops there — no volume, no page range, no DOI, making it the least locatable load-bearing reference in the article.
-  **WHAT THE REVIEWER SUPPLIES.** Volume 30, DOI `10.1016/j.csbj.2025.09.016`, and the existence of a corrigendum. **Verify all three at the publisher before writing them in** — an outer reviewer's citation metadata is not itself evidence (ai_citation_metadata_unreliable), and if a corrigendum is real it may change what the article can claim.
-  **DO NOT ACTION THE ACCOMPANYING CLAIM.** The reviewer also alleges the article co-opts Wiest & Puniani as support for Bidirectional Interaction despite their reversed causal arrow. That is **false against live content**: it targets `topics/quantum-biology-neural-experimental-turn`, which is **archived**, and the live successor's evidence table at **L140** already marks the work "Orthogonal; coherence-mechanism convergence is not the corridor's currency." L100 describes the paper neutrally. Metadata only.
-
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
 - **Type**: refine-draft
@@ -2723,6 +2711,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: Wiest & Puniani 2025 is cited with no volume, pages or DOI — and a corrigendum exists
+- **Type**: refine-draft
+- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), citation-verification table. **Reference 19 (L236)** reads "Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: … *Computational and Structural Biotechnology Journal*." and stops there — no volume, no page range, no DOI, making it the least locatable load-bearing reference in the article.
+  **WHAT THE REVIEWER SUPPLIES.** Volume 30, DOI `10.1016/j.csbj.2025.09.016`, and the existence of a corrigendum. **Verify all three at the publisher before writing them in** — an outer reviewer's citation metadata is not itself evidence (ai_citation_metadata_unreliable), and if a corrigendum is real it may change what the article can claim.
+  **DO NOT ACTION THE ACCOMPANYING CLAIM.** The reviewer also alleges the article co-opts Wiest & Puniani as support for Bidirectional Interaction despite their reversed causal arrow. That is **false against live content**: it targets `topics/quantum-biology-neural-experimental-turn`, which is **archived**, and the live successor's evidence table at **L140** already marks the work "Orthogonal; coherence-mechanism convergence is not the corridor's currency." L100 describes the paper neutrally. Metadata only.
 
 ### ✓ 2026-08-17: `many-worlds-argument` engages six Everettian variants but not List's centred-worlds MWI — the one its own sibling calls "a genuinely harder target"
 - **Type**: refine-draft

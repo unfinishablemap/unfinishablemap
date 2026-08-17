@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-04 10:34:43+00:00
+ai_modified: 2026-08-17 14:37:05.366826+00:00
 ai_system: claude-opus-4-8
 anchoring_audit_exempt: true
 author: null
@@ -15,10 +15,15 @@ description: Anarchic hand splits authorship of action from ownership of a limb�
   agency-side dissociation the Map reads as interface, not proof, comparator rival
   conceded.
 draft: false
+embedded_videos:
+- embedded: 2026-08-17 14:37:05.366826+00:00
+  id: bLYZsjLGZBE
+  source: notebooklm/0108-01-anarchic-hand-and-action-ownership
+  url: https://www.youtube-nocookie.com/embed/bLYZsjLGZBE
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 05:31:39+00:00
-lastmod: 2026-08-04 10:34:43+00:00
+lastmod: 2026-08-17 14:37:05.366826+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +37,12 @@ topics:
 In anarchic hand, one hand performs complex, well-coordinated, goal-directed acts that the patient did not intend, disowns, and cannot voluntarily inhibit: it reaches for objects, unbuttons a shirt the other hand has just buttoned, or raises a cup of tea the patient knows to be too hot to drink. Crucially, the patient still recognises the limb as their own—body *ownership* is intact—while denying authorship of its movements. The sense of *agency* is what fractures. This makes anarchic hand the agency-side complement to split-brain's perception-side dissociation: the interface between conscious volition and motor execution comes apart while the subject remains a single experiencer who narrates, resents, and physically restrains the wayward hand.
 
 That clinical fact is compatible with two readings that predict the same picture, and the honest position is to hold this in view from the first line. On the standard neurological account, anarchic hand is a breakdown of motor-control architecture—frontal disinhibition plus a missing prediction signal—needing nothing non-physical. The Map reads the same data as a local fracture in the *interface* of volition, with phenomenal unity preserved. Anarchic hand supplies a discriminating *question*, not a proof: it shows that felt authorship is dissociable, not what the experiencer ultimately is.
+
+<details class="yt-embed" data-video-id="bLYZsjLGZBE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/bLYZsjLGZBE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Clinical Picture, and the Term to Get Right
 

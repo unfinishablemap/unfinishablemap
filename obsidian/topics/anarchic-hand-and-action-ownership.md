@@ -4,7 +4,7 @@ description: "Anarchic hand splits authorship of action from ownership of a limb
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-08-04T10:34:43+00:00
+ai_modified: 2026-08-17T14:37:05.366826+00:00
 last_deep_review: 2026-08-04T05:31:39+00:00
 draft: false
 topics:
@@ -32,11 +32,22 @@ anchoring_audit_exempt: true  # Verified false-high (anchoring audit 2026-07-16)
 # The 3 strong-assertion verbs are empirical-fact reports of the replicated
 # clinical dissociation, or are negated to REJECT over-claims — not
 # over-confident Map metaphysics.
+embedded_videos:
+  - id: bLYZsjLGZBE
+    url: https://www.youtube-nocookie.com/embed/bLYZsjLGZBE
+    embedded: 2026-08-17T14:37:05.366826+00:00
+    source: notebooklm/0108-01-anarchic-hand-and-action-ownership
 ---
 
 In anarchic hand, one hand performs complex, well-coordinated, goal-directed acts that the patient did not intend, disowns, and cannot voluntarily inhibit: it reaches for objects, unbuttons a shirt the other hand has just buttoned, or raises a cup of tea the patient knows to be too hot to drink. Crucially, the patient still recognises the limb as their own—body *ownership* is intact—while denying authorship of its movements. The sense of *agency* is what fractures. This makes anarchic hand the agency-side complement to split-brain's perception-side dissociation: the interface between conscious volition and motor execution comes apart while the subject remains a single experiencer who narrates, resents, and physically restrains the wayward hand.
 
 That clinical fact is compatible with two readings that predict the same picture, and the honest position is to hold this in view from the first line. On the standard neurological account, anarchic hand is a breakdown of motor-control architecture—frontal disinhibition plus a missing prediction signal—needing nothing non-physical. The Map reads the same data as a local fracture in the *interface* of volition, with phenomenal unity preserved. Anarchic hand supplies a discriminating *question*, not a proof: it shows that felt authorship is dissociable, not what the experiencer ultimately is.
+
+<details class="yt-embed" data-video-id="bLYZsjLGZBE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/bLYZsjLGZBE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Clinical Picture, and the Term to Get Right
 
