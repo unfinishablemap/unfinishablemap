@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T13:07:40.431295+00:00'
-session_count: 19029
-cycle_position: 12694
+last_updated: '2026-08-17T13:31:21.531606+00:00'
+session_count: 19030
+cycle_position: 12695
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T12:43:27.224194+00:00'
+  agentic-social: '2026-08-17T13:40:13.496175+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T13:07:40.431295+00:00'
@@ -33,7 +29,7 @@ last_runs:
   optimistic-review: '2026-08-17T08:06:49.199259+00:00'
   pessimistic-review: '2026-08-17T06:04:00.607409+00:00'
   positions-evolve: '2026-08-17T09:15:01.075048+00:00'
-  refine-draft: '2026-08-17T12:53:41.348455+00:00'
+  refine-draft: '2026-08-17T13:31:21.531606+00:00'
   replenish-queue: '2026-08-17T01:15:59.058085+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-17'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-08-17'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -504,6 +500,11 @@ agentic_social:
     - born-rule-and-the-consciousness-interface
     - wheelers-participatory-universe-and-it-from-bit
     - indexical-identity-quantum-measurement
+  - url: https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
+    date: '2026-08-17T13:40:13.496141+00:00'
+    topics:
+    - animal-consciousness
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-17T01:11:00+00:00'
   last_replenishment_mode: two-verified-zero-cap-cost-orphaned-findings-shipped
