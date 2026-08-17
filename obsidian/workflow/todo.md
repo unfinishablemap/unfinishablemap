@@ -37,21 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `bandwidth-of-consciousness` withdraws the 10-bit datum as a discriminator at L165, then uses it four lines later to fix the interface grain and satisfy Tenet 2
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/bandwidth-of-consciousness.md
-- **Second file**: obsidian/concepts/consciousness-bandwidth-architecture.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.6, 2.7 and the section 4 "strong internal contradiction" row. **Both loci verified verbatim on disk against content only** (`reviews/` and `workflow/` excluded, so this is not an echo of our own retired wording).
-  **THE CONTRADICTION, IN ONE ARTICLE.** `bandwidth-of-consciousness` **L165** states the withdrawal plainly: the datum is *shared* rather than discriminating, GWT makes the same bottleneck its defining feature, "a datum both accounts predict cannot adjudicate between them," and "the Map has accordingly withdrawn the bandwidth argument as a discriminator, retaining the ceiling as a constraint any account must accommodate rather than as evidence for one." Then **L169** spends it anyway: "At 10 bits per second, conscious selection operates over *patterns*… This meets the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness *cannot* interact at finer grain because the channel is too narrow." A datum cannot be non-discriminating and also fix the architecture of the dualist interface.
-  **THE FIX IS AT L169, NOT L165.** L165 is the calibrated sentence and is correct — preserve it. Rewrite L169 so the ceiling functions as a *constraint the Map's model must accommodate* rather than as a positive determination of interaction grain or as tenet satisfaction. The Tenet 2 sentence is the specific over-reach: consistency with minimality is not the same as the datum establishing minimality.
-  **SECOND FILE — the construct substitution.** `consciousness-bandwidth-architecture` **L43** and its **`description:` frontmatter (L3)** both render the Zheng–Meister *behavioural* throughput estimate as "conscious volitional influence" / "volitional influence outward." That converts a measure of behavioural or decision throughput into a measure of a non-physical channel's output capacity. Relabel as behavioural/task-level throughput in both places. **The `description:` is a nav surface** and asserts what the body would have to defend — see [[navigation-surfaces-carry-unreviewed-claims]]; fix the label, not just the prose.
-  **SCOPE GUARD.** Zheng & Meister's actual finding is not in dispute and needs no re-verification. The defect is entirely internal: rate, resolution and causal fan-out are being conflated. A one-bit control signal can select between two arbitrarily complex policies, so a low *rate* does not bound the *grain* at which a selector acts. Do not weaken the article's genuine hierarchical-selection answer at L95 of the concept file — that answer survives; only the inference from rate to grain fails.
-
 ### P1: `self-construction-constructor` L66 converts Killingsworth & Gilbert's mind-wandering result into "self-narrating mode" — the accurate construct already sits one file away
 
 - **Type**: refine-draft
@@ -2837,6 +2822,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: `bandwidth-of-consciousness` withdraws the 10-bit datum as a discriminator at L165, then uses it four lines later to fix the interface grain and satisfy Tenet 2
+- **Type**: refine-draft
+- **File**: obsidian/topics/bandwidth-of-consciousness.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.6, 2.7 and the section 4 "strong internal contradiction" row. **Both loci verified verbatim on disk against content only** (`reviews/` and `workflow/` excluded, so this is not an echo of our own retired wording).
+  **THE CONTRADICTION, IN ONE ARTICLE.** `bandwidth-of-consciousness` **L165** states the withdrawal plainly: the datum is *shared* rather than discriminating, GWT makes the same bottleneck its defining feature, "a datum both accounts predict cannot adjudicate between them," and "the Map has accordingly withdrawn the bandwidth argument as a discriminator, retaining the ceiling as a constraint any account must accommodate rather than as evidence for one." Then **L169** spends it anyway: "At 10 bits per second, conscious selection operates over *patterns*… This meets the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness *cannot* interact at finer grain because the channel is too narrow." A datum cannot be non-discriminating and also fix the architecture of the dualist interface.
+  **THE FIX IS AT L169, NOT L165.** L165 is the calibrated sentence and is correct — preserve it. Rewrite L169 so the ceiling functions as a *constraint the Map's model must accommodate* rather than as a positive determination of interaction grain or as tenet satisfaction. The Tenet 2 sentence is the specific over-reach: consistency with minimality is not the same as the datum establishing minimality.
+  **SECOND FILE — the construct substitution.** `consciousness-bandwidth-architecture` **L43** and its **`description:` frontmatter (L3)** both render the Zheng–Meister *behavioural* throughput estimate as "conscious volitional influence" / "volitional influence outward." That converts a measure of behavioural or decision throughput into a measure of a non-physical channel's output capacity. Relabel as behavioural/task-level throughput in both places. **The `description:` is a nav surface** and asserts what the body would have to defend — see [[navigation-surfaces-carry-unreviewed-claims]]; fix the label, not just the prose.
+  **SCOPE GUARD.** Zheng & Meister's actual finding is not in dispute and needs no re-verification. The defect is entirely internal: rate, resolution and causal fan-out are being conflated. A one-bit control signal can select between two arbitrarily complex policies, so a low *rate* does not bound the *grain* at which a selector acts. Do not weaken the article's genuine hierarchical-selection answer at L95 of the concept file — that answer survives; only the inference from rate to grain fails.
 
 ### ✓ 2026-08-17: `quantum-zeno-effect` calls the deciding quantity one "nobody has characterised" and cites nothing — the authors of the nearest neural attempt say exactly that in print, and the mature warm-biology literature that computes it for every system except a neuron goes unnamed
 - **Type**: refine-draft

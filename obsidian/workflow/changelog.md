@@ -5,6 +5,18 @@ ai_modified: '2026-08-17T05:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 05:42 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]], [[concepts/consciousness-bandwidth-architecture]]
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md` (sections 1.6, 2.7, section 4 "strong internal contradiction" row)
+- **The contradiction closed**: `bandwidth-of-consciousness` L165 withdrew the bandwidth datum as a discriminator (GWT predicts the same bottleneck) while L169 spent it anyway — "This meets the Minimal Quantum Interaction tenet: consciousness *cannot* interact at finer grain because the channel is too narrow." L165 was correct and is preserved verbatim; L169 was rewritten in place so the ceiling functions as a constraint the interface model must accommodate rather than a positive determination of interaction grain. The replacement makes the rate/resolution/causal-fan-out distinction explicit ("one bit selects among arbitrarily complex prepared policies") and downgrades the tenet claim to "consistency with Minimal Quantum Interaction falls short of establishing it". Direction of the defect noted: it ran *for* the Map, which is the class that collects endorsements rather than challenges, so the correction was not softened.
+- **Heading relabelled**: L167 "The Bandwidth Shapes the Interface" → "The Bandwidth Constrains the Interface". A section heading is a navigation surface and asserted the determination the body now disclaims. No inbound links to the old anchor (grepped corpus-wide, zero hits).
+- **Construct substitution fixed** in `consciousness-bandwidth-architecture`: the `description:` frontmatter and the opening summary both rendered the Zheng–Meister *behavioural* throughput estimate as a measure of a non-physical channel's output. "volitional influence outward" → "behavioural throughput outward" (nav surface); "Conscious volitional influence on behaviour measures at approximately 10 bits per second" → "Deliberate behavioural throughput measures at approximately 10 bits per second".
+- **Preserved**: the hierarchical-selection answer at the concept file's "The Hierarchical Selection Response" is untouched — only the inference from rate to grain fails, not the answer. `bandwidth-of-consciousness` L229 was checked and already reads "the data constrain rather than establish the reading", so it is consistent with the new L169. Zheng & Meister's finding is not in dispute and was not re-verified; the defect was internal.
+- **Length** (`tools.curate.length.analyze_length`): topics/bandwidth-of-consciousness 4150 → **4150** words (exactly neutral, `hard_warning` both sides — of which 637 words are reference apparatus, so real prose is ~3513 against the 3500 ceiling); concepts/consciousness-bandwidth-architecture 3491 → **3489** (`soft_warning`). No condense performed and none minted.
+- **Published**: yes
+
 ## 2026-08-17 05:33 UTC - combine-outer-reviews
 
 - **Status**: Success

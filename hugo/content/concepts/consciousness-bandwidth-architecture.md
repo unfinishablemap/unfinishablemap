@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-07-29 07:55:07+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-17 05:42:01+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /concepts/asymmetric-bandwidth-consciousness/
@@ -21,13 +21,13 @@ concepts:
 created: 2026-02-23
 date: &id001 2026-05-26
 description: The mind-brain interface delivers ~10⁹ bits/second of experience inward
-  but permits only ~10 bits/second of volitional influence outward. The asymmetry
-  and its causal consequences together define consciousness's architecture.
+  but only ~10 bits/second of behavioural throughput outward. The asymmetry and its
+  causal consequences together define consciousness's architecture.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:31:30+00:00
-lastmod: 2026-07-29 07:55:07+00:00
+lastmod: 2026-08-17 05:42:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ topics:
 - '[[free-will]]'
 ---
 
-The consciousness-brain interface has a sharply asymmetric architecture. Sensory systems deliver approximately 10⁹ bits per second to the brain, generating rich phenomenal experience. Conscious volitional influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one, and this eight-order-of-magnitude gap is a defining structural feature rather than an incidental limitation—one with two faces. The first is the asymmetry itself: the inbound channel delivers constructed experience, the outbound channel permits selection. The second is the bandwidth problem: how does a 10-bit/second channel produce the specific, fine-grained behaviour we observe? The Unfinishable Map treats these as complementary aspects of a single architecture whose resolution—hierarchical selection among brain-prepared alternatives—carries substantial philosophical weight.
+The consciousness-brain interface has a sharply asymmetric architecture. Sensory systems deliver approximately 10⁹ bits per second to the brain, generating rich phenomenal experience. Deliberate behavioural throughput measures at approximately 10 bits per second. The ratio is 100 million to one, and this eight-order-of-magnitude gap is a defining structural feature rather than an incidental limitation—one with two faces. The first is the asymmetry itself: the inbound channel delivers constructed experience, the outbound channel permits selection. The second is the bandwidth problem: how does a 10-bit/second channel produce the specific, fine-grained behaviour we observe? The Unfinishable Map treats these as complementary aspects of a single architecture whose resolution—hierarchical selection among brain-prepared alternatives—carries substantial philosophical weight.
 
 ## The Two Channels
 

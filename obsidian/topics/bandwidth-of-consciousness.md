@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-08-03T12:30:40+00:00
+ai_modified: 2026-08-17T05:42:01+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -47,7 +47,7 @@ related_articles:
   - "[[pharmacological-dissociation-as-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-02-09
 last_curated: null
 last_deep_review: 2026-07-26T06:34:15+00:00
@@ -164,9 +164,9 @@ This seems to match the phenomenology of deliberate action: choosing among prese
 
 The verdict this cluster has since reached goes further than a difference of framing, and it runs against the Map's own interest: the bandwidth datum is *shared* rather than discriminating. The feature the filter reading treats as its natural fit—that the bottleneck sits at conscious access rather than at sensory transduction or motor output—is exactly what GWT makes its *defining* feature. A datum both accounts predict cannot adjudicate between them, and the Map has accordingly withdrawn the bandwidth argument as a discriminator, retaining the ceiling as a constraint any account must accommodate rather than as evidence for one. The [[pharmacological-dissociation-as-evidence|pharmacological-dissociation synthesis]] records that withdrawal, alongside the parallel concession made about interface friction. What remains genuinely at issue is whether the architecture explains consciousness or merely describes the structure through which consciousness operates—a question the ~10 bits/s figure poses without settling.
 
-## The Bandwidth Shapes the Interface
+## The Bandwidth Constrains the Interface
 
-At 10 bits per second, conscious selection operates over *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms window for [[motor-selection|motor commitment]] is consistent with the selection rate derived above. This meets the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language constrains [[the-interface-problem|the interface specification problem]]—how conscious states map lawfully to physical selections—and the [[inverted-qualia]] argument on the qualitative side, since efficacious phenomenal character must also reach behaviour through this narrow channel.
+The ~10 bits/s figure is *behavioural* throughput, and rate does not fix grain: one bit selects among arbitrarily complex prepared policies. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms window for [[motor-selection|motor commitment]] is consistent with the selection rate derived above. Pattern-level selection—policies, targets, strategies rather than firing events—is the interface model's commitment; consistency with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] falls short of establishing it. The same distinction constrains [[the-interface-problem|the interface specification problem]]—how conscious states map lawfully to physical selections—and the [[inverted-qualia]] argument, since efficacious phenomenal character must also reach behaviour through this narrow channel.
 
 The bandwidth constraint applies per unit time, but effects accumulate—the basis of [[attentional-economics|attentional economics]]. Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (nine participants) and has not been independently replicated.
 
