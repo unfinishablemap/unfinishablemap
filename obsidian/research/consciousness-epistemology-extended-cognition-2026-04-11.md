@@ -3,7 +3,7 @@ title: "Research Notes - Consciousness and the Epistemology of Extended Cognitio
 created: 2026-04-11
 modified: 2026-04-11
 human_modified: null
-ai_modified: 2026-04-11T20:56:00+00:00
+ai_modified: 2026-08-17T16:46:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ The extended cognition thesis (Clark & Chalmers, 1998) raises deep epistemologic
   - Only phenomenally conscious states can provide foundational justification
   - Challenges functionalist accounts that would allow non-conscious states to justify beliefs
 - **Tenet alignment**: Strongly aligns with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — consciousness has an irreducible epistemic function
-- **Quote**: "Consciousness is essential to explaining how we can acquire knowledge and justified belief about ourselves and the world around us."
+- **Quote** (verified 2026-08-17 against OUP's deposited abstract for DOI 10.1093/oso/9780199917662.001.0001): the book "argues that consciousness plays an essential role in explaining how we can acquire knowledge and epistemically justified belief about ourselves and our surroundings." An earlier paraphrase of this sentence was recorded here as a verbatim quote; the wording above is the publisher's.
 
 ### Telakivi, Pii — *Extending the Extended Mind: From Cognition to Consciousness* (Springer, 2023)
 - **URL**: https://philpapers.org/rec/TELETE

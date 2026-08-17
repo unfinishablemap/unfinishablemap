@@ -4,7 +4,7 @@ description: "On the Map's reading, cognition extends but phenomenal experience 
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-08-08T11:56:00+00:00
+ai_modified: 2026-08-17T16:46:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,13 +25,13 @@ related_articles:
   - "[[cognitive-science-of-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-04-11
 last_curated:
-last_deep_review: 2026-06-26T11:18:14+00:00
+last_deep_review: 2026-08-17T16:46:07+00:00
 ---
 
-On the Map's reading, the extended mind thesis—the claim that cognitive processes can literally include notebooks, smartphones, and environmental structures—inadvertently marks where cognition ends and consciousness begins. Proponents argue that if an external device plays the same functional role as an internal mental state, it should count as part of the mind. This argument works for information storage and processing. It fails for phenomenal experience. The asymmetry is not a minor wrinkle; it is a structural disclosure. The features that resist extension—[[qualia|qualitative character]], subjective justification, the felt presence of experience—are precisely what dualism identifies as irreducible. Extended cognition, far from undermining the case for consciousness as fundamental, is coherent with it, tracing the boundary where functional analysis runs out.
+On the Map's reading, the extended mind thesis—the claim that cognitive processes can literally include notebooks, smartphones, and environmental structures—inadvertently marks where cognition ends and consciousness begins. Proponents argue that if an external device plays the same functional role as an internal mental state, it should count as part of the mind. This argument works for information storage and processing. It fails for phenomenal experience. The asymmetry is structural. The features that resist extension—[[qualia|qualitative character]], subjective justification, the felt presence of experience—are precisely what dualism identifies as irreducible. Extended cognition, far from undermining the case for consciousness as fundamental, is coherent with it, tracing the boundary where functional analysis runs out.
 
 ## The Extended Mind Thesis
 
@@ -51,7 +51,7 @@ This is a striking concession. Even the philosopher who opened the door to exten
 
 Ned Block's distinction between [[phenomenal-consciousness|phenomenal consciousness]] (P-consciousness) and access consciousness (A-consciousness) clarifies the asymmetry. A-consciousness—the availability of content for reasoning and report—plausibly extends. When Otto accesses his notebook, the information becomes available for global control in roughly the way internally stored beliefs are. P-consciousness—the qualitative, experiential character of mental states—does not extend. There is nothing it is like to be Otto's notebook. The felt quality of remembering has no external counterpart—an instance of [[phenomenal-overflow]], where conscious experience exceeds what functional access can capture.
 
-Extended cognition thus extends A-consciousness while leaving P-consciousness untouched. This dissociation is exactly what dualism predicts: functional roles are substrate-neutral and therefore extendable, while phenomenal properties are not exhausted by functional description and therefore resist extension.
+Extended cognition thus extends A-consciousness while leaving P-consciousness untouched. Dualism predicts this dissociation: functional roles are substrate-neutral and therefore extendable, while phenomenal properties are not exhausted by functional description and therefore resist extension. The prediction is not uniquely dualist—any view on which phenomenal character outruns functional role shares it—but it is one the Map's commitments deliver directly.
 
 Not everyone accepts this boundary. Telakivi (2023) mounts the most sustained case for extended consciousness, arguing that certain brain-body-environment interactions can constitute phenomenal experience itself. If embodied tool use is sufficiently integrated—habitual, reliable, transparent in use—then the qualitative character of experience might extend along with it. The skilled cane user's tactile awareness extends to the cane's tip; perhaps the phenomenal experience itself is partially constituted by the cane-environment interaction. The Map's response draws on a deeper pattern: as the [[cognitive-science-of-dualism]] article argues, the more tightly we integrate mind and body functionally, the more puzzling it becomes that phenomenal experience does not reduce to function. Telakivi's own evidence—that skilled tool use produces seamless, transparent experience—sharpens rather than dissolves the hard problem. The cane user's experience is richer because the filter has expanded, but the phenomenal character—what it is like to feel the pavement through the cane—remains a property of consciousness, not of the cane. Integration and transparency describe how consciousness *accesses* external resources, not where consciousness *resides*. Functional integration, however deep, does not convert a tool into an experiencer.
 
@@ -59,7 +59,7 @@ Not everyone accepts this boundary. Telakivi (2023) mounts the most sustained ca
 
 The extension gap has deep epistemological consequences. If phenomenal consciousness plays an essential role in knowledge and justification—as Smithies argues in *The Epistemic Role of Consciousness* (2019)—then the limits of cognitive extension are set by the limits of phenomenal experience, not by functional equivalence.
 
-Smithies's central claim is that "consciousness is essential to explaining how we can acquire knowledge and justified belief about ourselves and the world around us." Only phenomenally conscious states provide *foundational* justification—the kind of justification that does not depend on further justification. An unconscious perceptual process can cause a belief reliably, but reliability alone does not make the belief epistemically rational. A thermostat reliably tracks temperature without having justified beliefs about it.
+Smithies's central claim is that consciousness "plays an essential role in explaining how we can acquire knowledge and epistemically justified belief about ourselves and our surroundings." Only phenomenally conscious states provide *foundational* justification—the kind of justification that does not depend on further justification. An unconscious perceptual process can cause a belief reliably, but reliability alone does not make the belief epistemically rational. A thermostat reliably tracks temperature without having justified beliefs about it.
 
 Consider the zombie thought experiment applied to extended cognition. A philosophical zombie with Otto's notebook accesses the same information, processes it identically, and produces the same behavioural outputs. But the zombie lacks phenomenal experience. Does the zombie have *knowledge*? If Smithies is right, no—the zombie has reliably caused true beliefs but not justified ones. Justification requires the phenomenal character that distinguishes genuine understanding from mere information retrieval.
 
@@ -93,9 +93,9 @@ Opacity reinforces the case against extended consciousness. The opacity of pheno
 
 The Unfinishable Map interprets the extended cognition debate as converging with its foundational commitments in three ways.
 
-First, the consciousness extension gap aligns with **Tenet 1 (Dualism)**. The failure of functional parity arguments at the boundary of phenomenal experience supports the claim that consciousness is not reducible to functional organisation. If it were, the parity principle would extend seamlessly from cognition to consciousness. Its failure at exactly this boundary is diagnostic.
+First, the consciousness extension gap aligns with **Tenet 1 (Dualism)**. If consciousness were exhausted by functional organisation, it is not obvious where the parity principle would find a principled place to stop; it stops at phenomenal experience, and the Map reads that stopping point as marking irreducibility. The reading is not forced, and this article's own central citation shows why. Chalmers halts the extension argument with a criterion—direct availability for global control—that is functional in form, so a functionalist can mark the same boundary without conceding that consciousness is non-functional. What the gap delivers is a boundary that demands explanation, not a verdict on which explanation is correct.
 
-Second, the epistemic role of consciousness aligns with **Tenet 3 (Bidirectional Interaction)**. If consciousness is epistemically inert—a mere accompaniment to information processing—then extended cognition would face no epistemic limit. The fact that phenomenal awareness is required for genuine justification means consciousness is doing epistemic work, not passively observing it. Consciousness acts on the epistemic domain just as the Map claims it acts on the physical domain.
+Second, the epistemic role of consciousness aligns with **Tenet 3 (Bidirectional Interaction)**. If consciousness is epistemically inert—a mere accompaniment to information processing—then extended cognition would face no epistemic limit. If phenomenal awareness is required for genuine justification—as Smithies argues and reliabilists deny—then consciousness is doing epistemic work rather than passively observing it. Consciousness acts on the epistemic domain just as the Map claims it acts on the physical domain.
 
 Third, the failure of simple functional extension aligns with **Tenet 5 (Occam's Razor Has Limits)**. The functionalist picture—cognition as substrate-neutral computation—is elegant and parsimonious. It works for information processing. It appears to fail for consciousness. The simpler theory may not be the correct one. The extension gap illustrates this in microcosm: the "simpler" hypothesis (all mental states extend equally) breaks down at exactly the point where consciousness enters.
 
@@ -114,11 +114,11 @@ The Map speculates that this convergence is not coincidental. The features that 
 
 ## References
 
-1. Clark, A. & Chalmers, D. (1998). "The Extended Mind." *Analysis* 58(1): 7–19.
-2. Chalmers, D. (2019). "Extended Cognition and Extended Consciousness." In M. Colombo, E. Irvine, & M. Stapleton (eds.), *Andy Clark and His Critics*. Oxford University Press.
-3. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press.
-4. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences* 18(2): 227–247.
-5. Adams, F. & Aizawa, K. (2001). "The Bounds of Cognition." *Philosophical Psychology* 14(1): 43–64.
-6. Telakivi, P. (2023). *Extending the Extended Mind: From Cognition to Consciousness*. Palgrave Macmillan.
+1. Clark, A. & Chalmers, D. (1998). "The Extended Mind." *Analysis* 58(1): 7–19. doi:10.1093/analys/58.1.7
+2. Chalmers, D. (2019). "Extended Cognition and Extended Consciousness." In M. Colombo, E. Irvine, & M. Stapleton (eds.), *Andy Clark and His Critics*. Oxford University Press. doi:10.1093/oso/9780190662813.003.0002
+3. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press. doi:10.1093/oso/9780199917662.001.0001
+4. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences* 18(2): 227–247. doi:10.1017/S0140525X00038188
+5. Adams, F. & Aizawa, K. (2001). "The Bounds of Cognition." *Philosophical Psychology* 14(1): 43–64. doi:10.1080/09515080120033571
+6. Telakivi, P. (2023). *Extending the Extended Mind: From Cognition to Consciousness*. New Directions in Philosophy and Cognitive Science. Palgrave Macmillan. doi:10.1007/978-3-031-35624-7
 7. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Embodied Cognition and the Extended Mind. *The Unfinishable Map*. https://unfinishablemap.org/concepts/embodied-cognition/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Epistemic Advantages of Non-Materialist Theories. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemic-advantages-of-dualism/
