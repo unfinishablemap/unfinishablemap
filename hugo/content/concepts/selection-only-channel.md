@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-17 19:09:45+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[coupling-modes]]'
 - '[[post-decoherence-selection]]'
 - '[[conservation-laws-and-mental-causation]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-05-11
 date: &id001 2026-05-11
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 11:53:00+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+lastmod: 2026-08-17 19:09:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ The selection-only channel is bidirectional in the channel-theoretic sense: info
 - **Mind-to-physical** carries the per-event capacity log₂(N) bits. Born preservation does not throttle it below that ceiling: the constraint falls on the long-run marginal, not on the mind-conditioned throughput.
 - **Physical-to-mind** carries the candidate-set information out to the selector. Its bound is the dimensionality of the brain-side decoherence-domain space; the content-confinement constraint is the *upper bound* on what mind can carry as input alphabet.
 
-The asymmetry is intrinsic: the forward and reverse channels have different capacities and different binding constraints, even though they share a common candidate set as their interfacing layer. This is the channel-theoretic statement of what [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) catalogues at a higher level of abstraction.
+The asymmetry is intrinsic: the forward and reverse channels have different capacities and different binding constraints, even though they share a common candidate set as their interfacing layer. This is the channel-theoretic statement of what [the bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) catalogues at a higher level of abstraction.
 
 ## Relation to Site Perspective
 
@@ -140,7 +140,6 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
 - [coupling-modes](/concepts/coupling-modes/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
-- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
 - [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
 - [interface-threshold](/concepts/interface-threshold/)

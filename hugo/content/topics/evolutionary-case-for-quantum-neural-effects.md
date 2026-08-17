@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-08-07 10:55:50+00:00
+ai_modified: 2026-08-17 19:09:45+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:35:43+00:00
-lastmod: 2026-08-07 10:55:50+00:00
+lastmod: 2026-08-17 19:09:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ related_articles:
 - '[[evolution-under-dualism]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
-- '[[dimensionality-void]]'
+- '[[mapping-mind-space]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
 - '[[biological-cognitive-closure]]'
 - '[[decoherence-and-macroscopic-superposition]]'
@@ -61,7 +61,7 @@ Neural computation confronts at least three challenges where quantum effects cou
 
 ### The Binding Problem
 
-How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. The difficulty deepens when we consider that brain dynamics occupy spaces of thousands of independent variables — the [dimensionality void](/voids/mapping-mind-space/) suggests that binding high-dimensional neural activity into unified experience is an even harder problem than low-dimensional models imply. Classical integration proposals — gamma synchrony, thalamocortical loops, re-entrant signalling, integrated information theory's Φ-based unification, Global Workspace Theory's broadcast architecture — supply candidate accounts of how phenomenal unity might be assembled from distributed correlation. Critics of these accounts argue that they explain *correlation* between neural populations without explaining *unity*: neurons firing together remain separate neurons, and the proposed integration is functional rather than ontological. Defenders reply that the demand for ontological unification is itself the contested move — that phenomenal unity is what integrated functional processing *is*, not something that requires a further substrate-level unification. The dispute is not settled and the article does not pretend to settle it; what follows assumes the demand for substrate-level holism *survives* the dispute, and identifies what would follow if it does.
+How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. The difficulty deepens when we consider that brain dynamics occupy spaces of thousands of independent variables — the [dimensionality facet of the mind-space void](/voids/mapping-mind-space/) suggests that binding high-dimensional neural activity into unified experience is an even harder problem than low-dimensional models imply. Classical integration proposals — gamma synchrony, thalamocortical loops, re-entrant signalling, integrated information theory's Φ-based unification, Global Workspace Theory's broadcast architecture — supply candidate accounts of how phenomenal unity might be assembled from distributed correlation. Critics of these accounts argue that they explain *correlation* between neural populations without explaining *unity*: neurons firing together remain separate neurons, and the proposed integration is functional rather than ontological. Defenders reply that the demand for ontological unification is itself the contested move — that phenomenal unity is what integrated functional processing *is*, not something that requires a further substrate-level unification. The dispute is not settled and the article does not pretend to settle it; what follows assumes the demand for substrate-level holism *survives* the dispute, and identifies what would follow if it does.
 
 Quantum entanglement provides physical indivisibility: an entangled state is fundamentally non-separable, not assembled from independent components. Whether physical indivisibility could deliver *phenomenal* unity is a contested inference — Tononi's integrated information theory offers a non-entanglement-based holism (unity-of-experience tracking unity-of-cause-effect-structure computable from classical neural connectivity), and Dennett-style functionalists deny that phenomenal unity requires substrate-level unification at all. The [binding problem](/concepts/binding-problem/) therefore does not by itself license the conclusion that classical mechanisms are insufficient; it licenses the weaker claim that *if* binding demands holism beyond what classical integration accounts can supply, *and if* quantum entanglement is among the candidate mechanisms that could supply it, then variants exploiting entanglement could face selective pressure. Both conditionals are contested and the article does not resolve them — just as the precedent class shows magnetoreception arose where classical mechanisms could not detect weak magnetic fields, the binding problem would supply analogous pressure only if its holism premise survives further argument.
 
@@ -145,7 +145,7 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works under dualist assumptions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness arose and what selected for it
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
-- [dimensionality-void](/voids/mapping-mind-space/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
+- [mapping-mind-space](/voids/mapping-mind-space/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How weak quantum biases get amplified into macroscopic neural outcomes
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How fitness-shaped intuitions bias our judgment of biological plausibility
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Recent experimental evidence on the receding quantum-classical boundary in warm biological systems

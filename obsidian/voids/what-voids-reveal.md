@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals menta
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-08-02T03:04:04+00:00
+ai_modified: 2026-08-17T19:09:45+00:00
 last_deep_review: 2026-07-18T07:37:35+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ related_articles:
   - "[[disappearance-voids]]"
   - "[[self-transcendence-void]]"
   - "[[non-human-minds-as-void-explorers]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[cross-domain-void-comparison]]"
 ai_contribution: 100
@@ -67,7 +67,7 @@ Chomsky's distinction between *problems* (solvable in principle) and *mysteries*
 
 Kant and Wittgenstein take this deepest. Transcendental arguments infer the necessary conditions for experience from what experience requires; the *Tractatus* aimed "to draw a limit to thought" as method, not pessimism. Boundaries of thought *constitute* the space of possible thought, visible from within only through negative evidence, where concepts will not form. Limits may be *preconditions for meaning itself* ([[void-as-ground-of-meaning]]), and they operate collectively: paradigms and cultures develop blind spots no individual mind would face alone ([[collective-cognitive-limits]]).
 
-Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. Some possible minds may have concepts we lack or *categorial schemas* our apparatus cannot instantiate ([[conceptual-scheme-void|conceptual scheme void]]); the [[mind-space-void]] adds that we cannot determine our own coordinates in that space.
+Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. Some possible minds may have concepts we lack or *categorial schemas* our apparatus cannot instantiate ([[conceptual-scheme-void|conceptual scheme void]]); the [[mapping-mind-space|unsurveyability of mind-space]] adds that we cannot determine our own coordinates in that space.
 
 ## The Datum of Questioning
 

@@ -4,12 +4,12 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-08-12T11:40:27+00:00
+ai_modified: 2026-08-17T19:09:45+00:00
 last_deep_review: 2026-06-21T10:41:03+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
-  - "[[philosophy-of-language]]"
+  - "[[philosophy-of-language-under-dualism]]"
   - "[[epistemology]]"
 concepts:
   - "[[mysterianism]]"

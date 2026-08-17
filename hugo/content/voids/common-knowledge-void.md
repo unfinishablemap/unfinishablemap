@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-08-12 11:40:27+00:00
+ai_modified: 2026-08-17 19:09:45+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 10:41:03+00:00
-lastmod: 2026-08-12 11:40:27+00:00
+lastmod: 2026-08-17 19:09:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,7 +39,7 @@ related_articles:
 title: The Common-Knowledge Void
 topics:
 - '[[philosophy-of-mind]]'
-- '[[philosophy-of-language]]'
+- '[[philosophy-of-language-under-dualism]]'
 - '[[epistemology]]'
 ---
 

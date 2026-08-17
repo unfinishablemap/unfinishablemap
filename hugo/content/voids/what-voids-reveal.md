@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-08-02 03:04:04+00:00
+ai_modified: 2026-08-17 19:09:45+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 07:37:35+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+lastmod: 2026-08-17 19:09:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,7 +51,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[self-transcendence-void]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[epistemology-of-limit-knowledge]]'
 - '[[cross-domain-void-comparison]]'
 title: What Cognitive Voids Reveal
@@ -71,7 +71,7 @@ Chomsky's distinction between *problems* (solvable in principle) and *mysteries*
 
 Kant and Wittgenstein take this deepest. Transcendental arguments infer the necessary conditions for experience from what experience requires; the *Tractatus* aimed "to draw a limit to thought" as method, not pessimism. Boundaries of thought *constitute* the space of possible thought, visible from within only through negative evidence, where concepts will not form. Limits may be *preconditions for meaning itself* ([void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)), and they operate collectively: paradigms and cultures develop blind spots no individual mind would face alone ([collective-cognitive-limits](/voids/collective-cognitive-limits/)).
 
-Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. Some possible minds may have concepts we lack or *categorial schemas* our apparatus cannot instantiate ([conceptual scheme void](/voids/conceptual-scheme-void/)); the [mind-space-void](/voids/mapping-mind-space/) adds that we cannot determine our own coordinates in that space.
+Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. Some possible minds may have concepts we lack or *categorial schemas* our apparatus cannot instantiate ([conceptual scheme void](/voids/conceptual-scheme-void/)); the [unsurveyability of mind-space](/voids/mapping-mind-space/) adds that we cannot determine our own coordinates in that space.
 
 ## The Datum of Questioning
 

@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T19:01:19+00:00'
+ai_modified: '2026-08-17T19:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 19:01:19+00:00
+lastmod: 2026-08-17 19:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 19:12 UTC - refine-draft
+
+- **Status**: Success
+- **Files**: [selection-only-channel](/concepts/selection-only-channel/), [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/), [what-voids-reveal](/voids/what-voids-reveal/), [recognition-void](/voids/recognition-void/), [common-knowledge-void](/voids/common-knowledge-void/)
+- **Defect class**: navigation-surface link rot after coalescence. Five live articles named three coalesced-away predecessors on reader-visible surfaces. No checker flags this: sync resolves each wikilink through `hugo/static/_redirects` and emits a URL landing on the live successor, so the links work — what was wrong is that the *visible label* and the *frontmatter identity* still named an article that no longer exists. Sibling of the bibliography defect closed at 15:29 (`8b5ff9d1f0`), which scoped itself to `coalesced_from` articles' own self-citations; these third-party references sat outside that net. Confirmed non-overlapping.
+- **Repoints** (all three successors carry `coalesced_from` for their predecessors and their leads cover the attributed claims, so no prose claim needed weakening):
+  - `[[asymmetric-bandwidth-consciousness]]` → `[[consciousness-bandwidth-architecture]]` in `concepts/selection-only-channel`: frontmatter `concepts:`; body ("This is the channel-theoretic statement of what [the bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) catalogues at a higher level of abstraction"); and the Further Reading entry, which was **deleted** rather than repointed because it sat immediately above an existing `[[consciousness-bandwidth-architecture]]` entry resolving to the identical URL.
+  - `[[dimensionality-void]]` → `[[mapping-mind-space]]` in `topics/evolutionary-case-for-quantum-neural-effects`: frontmatter `related_articles:`; body (piped label changed from "dimensionality void" to "dimensionality facet of the mind-space void", which is the successor's own section vocabulary and keeps a live name on the visible surface); Further Reading.
+  - `[[mind-space-void]]` → `[[mapping-mind-space]]` in `voids/what-voids-reveal` (frontmatter `related_articles:`; body label now "unsurveyability of mind-space", tracking the successor's lead "The geometry resists survey from within") and in `voids/recognition-void` (frontmatter only).
+  - `[[philosophy-of-language]]` → `[[philosophy-of-language-under-dualism]]` in `voids/common-knowledge-void` `topics:`. This locus was different in kind: the named target exists nowhere — no file in `obsidian/`, `archive/` or `hugo/content/`, and `_redirects` greps 0 — so there was no coalesce behind it and no redirect catching it. **Repointed rather than deleted**, on four grounds: the two sibling entries in the same `topics:` list (`philosophy-of-mind`, `epistemology`) are both article-backed, so the field's convention here is live slugs; `philosophy-of-language-under-dualism` is already the `topics:` identity for this subject in 8 other files; the topic assignment is substantively right for an article about shared meaning and coordination (only the slug was wrong); and per the `topics:` canonical-form rule, the field's one live consumer is the agentic-social duplicate-suppression filter, which keys on the raw string — a phantom slug is a phantom identity that can never overlap with anything, i.e. dead weight in the dedup filter, whereas the live slug becomes a working key.
+- **Length**: net +6 words across five files (−0 / +4 / +2 / +0 / +0). `what-voids-reveal` remains nominally `hard_warning` at 3028w, but its authored prose is ~2760 once Source Articles / Further Reading / References are stripped — 240w under the voids hard ceiling. Reference-apparatus artefact (analyze-length-counts-reference-apparatus), not a real over-length.
+- **Deliberately not done**: no explanatory prose about the coalesce was added to any body — the successors' `coalesced_from` frontmatter and the `_redirects` table already record provenance, and a body note would invent a convention the other 186 coalesce successors do not use. `ai_system` held unchanged on all five files: relabelling links is not substantive new claim-bearing prose (deep-review-fork-over-attributes-ai-system).
+- **Scope exclusion honoured**: `voids/edge-states-and-void-probes` carries the same `[[mind-space-void]]` defect at L29 (frontmatter) and L142 (body, piped `|mind-space`). Both left untouched per the standing human length decision on that 3561w `hard_warning` file and the two open tasks already naming it. Re-verified present and unchanged after the pass.
+- **Census gaps found** (reported, not fixed): (a) `topics/selection-only-mind-influence` L24/L165 carry `[[asymmetric-bandwidth-consciousness-2026-03-02|asymmetric-bandwidth-consciousness]]` — same defect *shape* (a coalesced-away article's name as the visible label) but the target is the **live research note**, which genuinely is titled about asymmetric bandwidth; repointing the label would misname a live artefact, so this is left as correct-as-is. (b) The `archive/` tree carries the same three dead slugs across ~13 files, including `archive/voids/mind-space-void.md` and `archive/voids/dimensionality-void.md` themselves; archived pages serve full bodies at preserved URLs, so this is a real reader-facing surface and a candidate for a follow-up sweep (defect-sweeps-must-include-archive-tree). (c) `reviews/` hits are the documented echo pattern — retired wording living on in published review files — and need no action.
+- **Sync**: `scripts/sync.py` run; all five repoints re-grepped in `hugo/content/` and confirmed emitting the successor URL with a live label. `scripts/validate.py hugo/content/` clean for these files. Sync also carried a pre-existing obsidian→hugo lag on `workflow/todo.md` into the Hugo tree (not an edit of this pass).
+- **Published**: yes
 
 ## 2026-08-17 19:01 UTC - refine-draft
 

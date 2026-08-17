@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-07-18T17:19:24+00:00
+ai_modified: 2026-08-17T19:09:45+00:00
 last_deep_review: 2026-07-18T17:19:24+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[causal-interface]]"
   - "[[binding-void]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[conceptual-impossibility]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[disappearance-voids]]"
