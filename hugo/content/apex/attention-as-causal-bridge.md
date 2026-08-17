@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-08-07 14:46:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-17 11:25:29+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
 - concepts/attention-as-interface
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-08-07 14:46:30+00:00
+lastmod: 2026-08-17 11:25:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,11 +94,11 @@ Recent work complicates the simple "felt effort tracks the work" reading. [Three
 
 ## The Three-Layer Architecture
 
-The clinical and neuroscientific evidence converges on an architecture with three distinct layers:
+The clinical and neuroscientific evidence converges on a two-layer architecture; the Map adds a third:
 
 1. **Neural computation** generates competing options—multiple potential actions represented simultaneously in premotor cortex
 2. **Dopamine** sets the selection threshold—marking options as salient and modulating how easily they become actions
-3. **Consciousness** determines which option crosses threshold—biasing the competition through sustained attentional engagement
+3. **Consciousness**, on the Map's hypothesis, biases which option crosses threshold—through sustained attentional engagement
 
 Cai et al. (2024, *Nature*) dissociated two dopamine signalling modes. Mice whose spike-evoked dopamine transients were abolished by dopamine-neuron-specific RIM knockout—baseline dopamine persisting—moved normally and still learned reward cues, but initiated fewer trials and pursued reward with less vigour. Baseline dopamine remained necessary for movement itself: depletion or receptor blockade produced bradykinesia, and L-DOPA restored movement without restoring the transients. The Map's interface hypothesis proposes a third layer the paper does not test—consciousness biases which salient option crosses threshold once dopamine has weighted the alternatives. The three-layer architecture is consistent with rather than licensed by Cai et al.; it stands or falls with the broader interface argument. Desmurget et al. (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are thereby neurally separable, though the intervention runs stimulation → conscious intention, and the authors read the result as making intention and awareness "emerging consequences" of parietal activity. The Map's policy-level reading is a further claim the dissociation permits rather than supports. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
 

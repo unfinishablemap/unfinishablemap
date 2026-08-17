@@ -5,6 +5,20 @@ ai_modified: '2026-08-17T11:11:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 11:25 UTC - refine-draft
+
+- **Status**: Success (content change)
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Task**: outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 "The attention apex retains a categorical hypothesis inside an otherwise cautious review" and the section 4 residual-framing-contradiction row. The reviewer's diagnosis: "an untested metaphysical layer is placed inside an empirical decomposition."
+- **Changes**:
+  - `attention-as-causal-bridge` L98: `3. **Consciousness** determines which option crosses threshold—biasing the competition through sustained attentional engagement` → `3. **Consciousness**, on the Map's hypothesis, biases which option crosses threshold—through sustained attentional engagement`. The categorical verb goes and the modal marker sits inside the list item, so a reader who scans only the numbered architecture sees layer 3's status without needing the paragraph beneath it. "biases" matches the verb L100 already uses ("consciousness biases which salient option crosses threshold"), and "on the Map's hypothesis" matches the in-corpus canonical form at `concepts/attention-as-interface.md` L161 ("and—on the Map's reading—willed attention participates in threshold selection"), strengthened from "reading" to "hypothesis" because the reviewer's complaint is evidential status rather than interpretation.
+  - `attention-as-causal-bridge` L94 (the sentence introducing the list): "converges on an architecture with three distinct layers" → "converges on a two-layer architecture; the Map adds a third". Without this the framing sentence still attributes converging clinical and neuroscientific evidence to all three layers, which would leave the list item's new marker contradicted by the line directly above it. Layers 1 and 2 are evidenced (Cisek affordance competition; Cai et al. dopamine threshold); layer 3 is not.
+- **Length**: 4947→4950 words (+3) against the apex hard ceiling of 5000 — `soft_warning` before and after, 50 words of headroom remaining. The +1 is the list item, the +2 the framing sentence; the obvious longer phrasing ("the Map hypothesises that consciousness modulates…") was declined for the compact in-item marker.
+- **Not touched**: L100 verbatim (already correct — Cai et al. is nowhere presented as supporting layer 3, and the "consistent with rather than licensed by" discharge is intact), L148 (predictive-processing rival), and L86 / L176 — the quantum-Zeno sign/direction loci owned by the separate open P3 on this file, which remains independently executable. Both edits are one-line replacements, so no line numbers shifted.
+- **Mirror**: `uv run python scripts/sync.py` run; both new strings confirmed present in `hugo/content/apex/attention-as-causal-bridge.md`, the old "determines which option" string confirmed absent (grep -c = 0), and L100's discharge language confirmed still present.
+- **Attribution**: `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5`; the edit changes the modal status of a claim, so it is claim-bearing rather than cosmetic.
+- **Published**: yes
+
 ## 2026-08-17 11:11 UTC - refine-draft
 
 - **Status**: Success (content change)
