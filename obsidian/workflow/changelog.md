@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T05:01:00+00:00'
+ai_modified: '2026-08-17T05:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 05:33 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-17
+- **Coverage**: 3/3 reviewers collected and processed (sources: `chatgpt-5-6-sol`, `claude-opus-5`, `gemini-2-5-pro`). All three answered the same full-site-audit prompt, the Claude and Gemini lanes reusing the ChatGPT lane's subject, so agreement between them is informative.
+- **Clusters**: 5 convergent, 9 singleton, 2 divergent
+- **The counting problem this cycle forced**: the three legs produced radically unequal yield — ChatGPT verified 11/11 quoted spans and minted 10 tasks, Claude verified 18/25 and minted 3, **Gemini verified 23/27 individual quotes yet minted 0**, because quote-level accuracy and finding-level validity are independent properties. Weighting by reviewer count rather than by *verified* reviewer count would have manufactured convergence from refuted material. **No priority was raised on Gemini's account.**
+- **Tasks upgraded**: 4 (P2→P1: 4; P3→P2: 0). C2 `voids/binding-void` and `apex/what-consciousness-tells-us-about-physics`; C1 `positions/value-in-selection` + `apex/embodied-interface`; C3 `project/writing-style`.
+- **Tasks deduplicated**: 0. No two open tasks shared a file *and* an axis. The two C2 tasks name different files and were deliberately left separate with do-not-merge markers rather than merged into a multi-file task.
+- **Strongest convergence (C2)**: two reviewers, quoting different files neither could see the other reach, each found a void-convergence claim the positions register had already demoted — `voids/binding-void` L92 and `apex/what-consciousness-tells-us-about-physics` L216 — while `apex/taxonomy-of-voids` L222 and `voids/ineffable-encounter-void` already carry the corrected form. Both loci re-grepped here against content only.
+- **Recorded, not minted (C4, C5)**: the persisting-subject-as-sixth-tenet question and the confession-must-bind pattern each resurfaced independently on both productive legs. Both are open `NEEDS-HUMAN … 2026-08-03` entries and operator-reserved; dated addenda were added to each instead of new tasks.
+- **Four ways a reviewer attacks something that is not the current corpus** (the cycle's most reusable output, one instance of each): superseded *wording* echoed from our own published `reviews/`; superseded *articles* read as archived slugs at their preserved live URLs; superseded *mechanisms* the corpus registers as not its own; and **part-taken-for-whole** — Gemini quoted four clauses of `concepts/relational-quantum-mechanics` accurately and called them "a single, deeply inadequate passage" of what is a 186-line article whose "Challenges to RQM" section runs Adlam & Rovelli 2023 (Cross-Perspective Links), Lewis 2024's solipsism dilemma, Muciño–Okon–Sudarsky 2022 and Rovelli's reply, Pienaar on locality, and Laudisa 2019.
+- **Corrections made during the pass**: (a) Claude's parenthetical that a "60+ failures" figure sizes the voids abduction is **false** — no such figure is live; the nearest string is "sixty-plus *years*" at `concepts/concession-convergence.md:119`, a duration misread as a count. Recorded in the C1 task so no executor chases it. (b) The open `NEEDS-HUMAN (loop tooling) 2026-08-03` entry on this skill asserted `grep -c "Review files:" todo.md = 0`; that pattern cannot match the field, which is written `- **Review files**: ` with the bold markers before the colon. The true count is **13**. Live impact nil (11 complete, 2 operator-reserved, 0 dispatchable), but the operator was weighing option (b)'s migration cost at zero when it is thirteen. Entry corrected in place.
+- **Skill instruction declined again**: SKILL.md step 6's `Review file:` → `Review files:` rename is a silent data-loss edit against `tools/todo/processor.py:153`. As on 2026-08-03, an additive `Convergent with:` line was used instead; all 43 singular fields intact.
+- **Output**: [[reviews/outer-review-synthesis-2026-08-17]]
 
 ## 2026-08-17 05:01 UTC - outer-review
 
