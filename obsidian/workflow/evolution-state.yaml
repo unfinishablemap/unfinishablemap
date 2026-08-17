@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T17:59:57.973586+00:00'
-session_count: 19046
+last_updated: '2026-08-17T18:20:56.922478+00:00'
+session_count: 19047
 cycle_position: 12701
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T17:25:50.743621+00:00'
+  agentic-social: '2026-08-17T18:26:21.357360+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T17:09:30.986695+00:00'
@@ -34,7 +30,7 @@ last_runs:
   pessimistic-review: '2026-08-17T06:04:00.607409+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-17T17:07:24.180429+00:00'
-  replenish-queue: '2026-08-17T17:46:47.353244+00:00'
+  replenish-queue: '2026-08-17T18:20:56.922478+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -524,92 +520,99 @@ agentic_social:
     - selection-only-mind-influence
     - hard-problem-of-consciousness
     - mental-causation-and-downward-causation
+  - url: https://unfinishablemap.org/topics/the-reverse-inference/
+    date: '2026-08-17T18:26:21.357324+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - qm-interpretations-beyond-many-worlds
+    - indexical-identity-quantum-measurement
+    - penrose-gravity-induced-collapse-empirical-prospects
+    - testing-consciousness-collapse
 queue_status:
   last_replenishment: '2026-08-17T18:18:00+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-unconsumed-research-fold
   last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
     content immediately before the write. Exact-floor plus one, so ONE mint and no
-    padding. Restored to 3 by a single P2 refine-draft on
-    obsidian/concepts/buddhism-and-dualism.md, appended at the very end of the Active
-    section, insert only, so no existing task line moved. Re-counted after the write: 3.
-    Fifteenth consecutive zero-cap-cost replenishment.
+    padding. Restored to 3 by a single P2 refine-draft on obsidian/concepts/buddhism-and-dualism.md,
+    appended at the very end of the Active section, insert only, so no existing task
+    line moved. Re-counted after the write: 3. Fifteenth consecutive zero-cap-cost
+    replenishment.
 
-CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320 of 320,
-    at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15 of 80; apex
-    41. The topics gate still counts the non-temporal-consciousness refinement-log
+    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320
+    of 320, at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15
+    of 80; apex 41. The topics gate still counts the non-temporal-consciousness refinement-log
     sidecar as an article, an open NEEDS-HUMAN item, not re-filed. Neither expand-topic
     nor research-topic was mintable, so the mint had to be zero-cap-cost.
 
-SOURCE USED, unconsumed_research, the highest-bonus source at plus 60.
-    obsidian/research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06.md has sat
-    11 days with no consumed_by, zero live-content greps of its filename outside
-    workflow and research and reviews, its only changelog reference the Output line of
-    its own research run at changelog-2026-W32 line 2228, and its only todo reference
+    SOURCE USED, unconsumed_research, the highest-bonus source at plus 60. obsidian/research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06.md
+    has sat 11 days with no consumed_by, zero live-content greps of its filename outside
+    workflow and research and reviews, its only changelog reference the Output line
+    of its own research run at changelog-2026-W32 line 2228, and its only todo reference
     its own completed research task at line 4160. A bare missing consumed_by is not
     sufficient evidence, since 541 of 546 notes lack the field, so three further signals
     were required and six sibling candidates were rejected at exactly that test because
     each already had a completed consumption task. The African note from the same
-    2026-08-06 commission batch was consumed on 2026-08-16 at todo line 3019; this is
-    its unshipped twin. The note itself recommends refinement rather than a new article,
-    which is why it is mintable while sections are capped.
+    2026-08-06 commission batch was consumed on 2026-08-16 at todo line 3019; this
+    is its unshipped twin. The note itself recommends refinement rather than a new
+    article, which is why it is mintable while sections are capped.
 
-HEADLINE FINDING RE-MEASURED BY THE DRIVER, NOT TAKEN ON THE NOTE''S WORD. Siderits
-    appears at 10 live-content loci across 8 files plus 5 archive loci and zero of the
-    fifteen cite 2025; every one is 2007. A grep for Siderits 2025 or Buddhist
-    Physicalism across obsidian and archive returns only three research notes and one
-    archived changelog, never a live page. The 2025 Oxford book has been flagged since
-    January in self-consciousness-philosophy-2026-01-15 line 112, which does not name
-    the author, and hard-problem-non-western-philosophy-2026-02-14 line 193, which does.
-    Seven months, three notes, zero pages. Every line number the note cites was re-read
-    on disk and lands correctly; the article''s ai_modified of 2026-08-03 predates the
-    note, so no drift.
+    HEADLINE FINDING RE-MEASURED BY THE DRIVER, NOT TAKEN ON THE NOTE''S WORD. Siderits
+    appears at 10 live-content loci across 8 files plus 5 archive loci and zero of
+    the fifteen cite 2025; every one is 2007. A grep for Siderits 2025 or Buddhist
+    Physicalism across obsidian and archive returns only three research notes and
+    one archived changelog, never a live page. The 2025 Oxford book has been flagged
+    since January in self-consciousness-philosophy-2026-01-15 line 112, which does
+    not name the author, and hard-problem-non-western-philosophy-2026-02-14 line 193,
+    which does. Seven months, three notes, zero pages. Every line number the note
+    cites was re-read on disk and lands correctly; the article''s ai_modified of 2026-08-03
+    predates the note, so no drift.
 
-GUARDRAILS WRITTEN INTO THE TASK. Single file: the other two target articles are edit
-    targets of the open P3 at todo line 360 and are fenced out. Line 158 is protected
+    GUARDRAILS WRITTEN INTO THE TASK. Single file: the other two target articles are
+    edit targets of the open P3 at todo line 360 and are fenced out. Line 158 is protected
     because that same P3 quotes it verbatim as the correction wording it is propagating
     elsewhere. Zero open tasks carry this file as their File line; the two P3s that
     mention it target islamic-sufi-philosophy-of-consciousness and moral-responsibility
     and cite this file as the correction source. Length 2494 ok but only 6 words under
-    the concepts soft threshold of 2500, so offsetting trims are preferred and a
-    condense is forbidden. The note read no source in full text, grade A is empty, and
-    both headline books are paywalled, so the task instructs attribution to the chapter
+    the concepts soft threshold of 2500, so offsetting trims are preferred and a condense
+    is forbidden. The note read no source in full text, grade A is empty, and both
+    headline books are paywalled, so the task instructs attribution to the chapter
     abstract rather than to the author. No fresh web search is needed, which matters
     with the session WebSearch budget exhausted.
 
-EIGHT-SOURCE AUDIT. 1 chain, blocked, topics at cap. 2 unconsumed research, SOURCE USED.
-    3 gap analysis, nothing mintable at zero cap cost not already covered. 4 staleness,
-    not used this run. 5 orphan integration, none. 6 length analysis, the hard_warning
-    population is saturated with vetoed and operator-parked entries. 7 positions, the
-    15-entry register file shipped this hour and fails the churn filter. 8 applied apex
-    gap, none.
+    EIGHT-SOURCE AUDIT. 1 chain, blocked, topics at cap. 2 unconsumed research, SOURCE
+    USED. 3 gap analysis, nothing mintable at zero cap cost not already covered. 4
+    staleness, not used this run. 5 orphan integration, none. 6 length analysis, the
+    hard_warning population is saturated with vetoed and operator-parked entries.
+    7 positions, the 15-entry register file shipped this hour and fails the churn
+    filter. 8 applied apex gap, none.
 
-THREE ASSERTED FINDINGS AUDITED FALSE THIS RUN, recorded so they are not re-chased.
+    THREE ASSERTED FINDINGS AUDITED FALSE THIS RUN, recorded so they are not re-chased.
     system-tune-2026-08-17 Tier 2 recommendation 1a, seven circular self-citations
     across four files, is FALSE: the URLs are coalesced_from provenance frontmatter,
-    which is the intended convention and not a bibliography. One real residue,
-    concepts/ai-epiphenomenalism lists its own URL in coalesced_from, but that file
-    fails the churn filter and the entry is inert since it generates no redirect. Tier 2
-    recommendation 1b, ship the report-latency fold, is ALREADY DONE, completed today at
-    todo line 2750 with consumed_by stamped on the note. Tier 2 recommendation 2, clear
-    the empty topics frontmatter on 19 live articles, is a DEAD MINT: running the
-    selector''s own get_published_articles and extract_topics over the live tree returns
-    0 of 677 pool articles with empty topics. The 19 files are real but every one sits
-    outside the selector pool, since the pool reads only concepts and topics and apex
-    and already excludes section indexes, the -articles suffix, and the social_eligible
-    false opt-out. The asserted harm mechanism does not exist any more.
+    which is the intended convention and not a bibliography. One real residue, concepts/ai-epiphenomenalism
+    lists its own URL in coalesced_from, but that file fails the churn filter and
+    the entry is inert since it generates no redirect. Tier 2 recommendation 1b, ship
+    the report-latency fold, is ALREADY DONE, completed today at todo line 2750 with
+    consumed_by stamped on the note. Tier 2 recommendation 2, clear the empty topics
+    frontmatter on 19 live articles, is a DEAD MINT: running the selector''s own get_published_articles
+    and extract_topics over the live tree returns 0 of 677 pool articles with empty
+    topics. The 19 files are real but every one sits outside the selector pool, since
+    the pool reads only concepts and topics and apex and already excludes section
+    indexes, the -articles suffix, and the social_eligible false opt-out. The asserted
+    harm mechanism does not exist any more.
 
-TWO DRIVER LEADS TESTED ON DISK. Lead 1, that the death-void Buddhist anatman dissent is
-    the same datum P-D3 reads as divergence on the solution and that neither register
-    cites the other, is REJECTED on both halves. The propositions differ: P-D3 has the
-    traditions converging on irreducibility as the problem while diverging on the
-    solution, whereas death-void has anatman denying the persisting subject the void
-    presupposes, which is dissent from a presupposition rather than divergence on a
-    solution. And arguments-for-dualism already cites voids-as-evidence twice, in
-    related_articles and in its domain intro. Only the reverse pointer is missing, and
-    its stated warrant is the false premise. voids-as-evidence also fails the churn
-    filter. Lead 2, the P-V3 decline, is ACCEPTED as correct: P-V3 names death among its
-    framework-independent subset, but the lineage passage discounts a five-thinker
+    TWO DRIVER LEADS TESTED ON DISK. Lead 1, that the death-void Buddhist anatman
+    dissent is the same datum P-D3 reads as divergence on the solution and that neither
+    register cites the other, is REJECTED on both halves. The propositions differ:
+    P-D3 has the traditions converging on irreducibility as the problem while diverging
+    on the solution, whereas death-void has anatman denying the persisting subject
+    the void presupposes, which is dissent from a presupposition rather than divergence
+    on a solution. And arguments-for-dualism already cites voids-as-evidence twice,
+    in related_articles and in its domain intro. Only the reverse pointer is missing,
+    and its stated warrant is the false premise. voids-as-evidence also fails the
+    churn filter. Lead 2, the P-V3 decline, is ACCEPTED as correct: P-V3 names death
+    among its framework-independent subset, but the lineage passage discounts a five-thinker
     recurrence and so argues the low-confidence hedge rather than the cumulative-weight
     assertion. No task.'
   last_replenishment_prev: '2026-08-17T17:45:00+00:00'
