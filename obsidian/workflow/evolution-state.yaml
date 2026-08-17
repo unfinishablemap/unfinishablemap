@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-17T22:43:13.458705+00:00'
-session_count: 19064
-cycle_position: 12708
+last_updated: '2026-08-17T22:59:44.056390+00:00'
+session_count: 19065
+cycle_position: 12709
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
   agentic-social: '2026-08-17T22:43:13.458705+00:00'
@@ -33,7 +33,7 @@ last_runs:
   optimistic-review: '2026-08-17T22:35:32.992465+00:00'
   pessimistic-review: '2026-08-17T18:49:23.387931+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-17T21:59:24.442419+00:00'
+  refine-draft: '2026-08-17T22:59:44.056390+00:00'
   replenish-queue: '2026-08-17T22:13:13.220127+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-17'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-17'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -557,112 +557,95 @@ agentic_social:
     - hard-problem-of-consciousness
     - eastern-philosophy-consciousness
 queue_status:
-  last_replenishment: '2026-08-17T20:58:00+00:00'
-  last_replenishment_mode: conservative-exact-floor-plus-one-gap-analysis-uncovered-subject-fold
+  last_replenishment: '2026-08-17T23:31:00+00:00'
+  last_replenishment_mode: conservative-exact-floor-plus-one-archive-dead-slug-class-completion
   last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
     content immediately before the write. Exact-floor plus one, so ONE mint and no
-    padding. Restored to 3 by a single P2 refine-draft whose File line is obsidian/voids/compound-failure-signatures.md,
-    appended at the very end of the Active section, insert only, so no existing task
-    line moved. Re-counted after the write with count_p0_p2_tasks: 3. Seventeenth
-    consecutive zero-cap-cost replenishment.
+    padding. Restored to 3 by a single P2 refine-draft whose File line is archive/topics/the-ten-bit-ceiling.md,
+    inserted below both pre-existing P2s so neither of their line numbers moved.
+    Re-counted after the write with count_p0_p2_tasks: 3. Eighteenth consecutive
+    zero-cap-cost replenishment.
 
 
     CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320
     of 320, at cap, gate blocks; concepts 319 of 320; voids 99 of 100; positions 15
-    of 80; apex 41. The topics gate still counts the non-temporal-consciousness refinement-log
-    sidecar as an article, an open NEEDS-HUMAN item, not re-filed. Neither expand-topic
-    nor research-topic was mintable, so the mint had to be zero-cap-cost.
+    of 80. Neither expand-topic nor research-topic was mintable, so the mint had to
+    be zero-cap-cost. The topics gate still counts the refinement-log sidecar as an
+    article, an open NEEDS-HUMAN item, not re-filed.
 
 
-    SOURCE USED, gap_analysis. The mint ships the one Uncovered Subject recorded by
-    todays optimistic review of the voids catalogue wing, reviews/optimistic-2026-08-17-voids-catalogue-wing.md,
-    which graded its own capacity status as NOT blocked and fold-shaped. The review
-    minted no task for it because expand-topic and research-topic are out of contract
-    for an optimistic pass, and the harvester cannot rescue it either since it mints
-    research-topic only and has already run at 14:52 today without minting. Subject
-    is the statistical estimation of unseen categories, Good-Turing and Chao richness
-    estimators and capture-recapture, applied to the void catalogue scope question.
+    WHAT WAS MINTED. The fourth coalesced-away slug of the class that commit 5b92a66b
+    swept an hour earlier, bandwidth-problem-mental-causation, superseded by /concepts/consciousness-bandwidth-architecture/.
+    Census re-verified on disk rather than relayed: 19 bare wikilinks against 8 piped,
+    split 8 frontmatter and 11 body prose across 10 archive files. Live-tree occurrences
+    outside workflow and reviews number exactly 1 and it is an aliases entry in the
+    successor article, which is fenced provenance, so there is no live-article defect.
 
 
-    ABSENCE RE-VERIFIED INDEPENDENTLY RATHER THAN INHERITED. The review asserts a
-    corpus-wide zero. Re-run with my own literal patterns via grep -rilF over obsidian,
-    archive and hugo/content, the raw counts are NOT zero: chao1 2 files, species
-    richness 2, unseen species 2, unseen categor 4, richness estimat 2. Every hit
-    resolves to the review file itself, its Hugo mirror, and workflow/changelog.md.
-    Live content hits zero in all three trees, so the claim survives but its stated
-    form is false and was corrected in the task. A bare chao substring test additionally
-    returns five false positives on the word chaos and must not be used.
+    THE FINDING THAT RAISED THE MINT ABOVE ITS BRIEFED VALUE. In three of the ten
+    files the 5b92a66b pass rewrote a neighbouring entry to the successor slug, leaving
+    the dead slug directly adjacent. Both resolve to the same article, so the obvious
+    substitution would emit that article twice as a duplicated citation_keywords token
+    and a duplicated JSON-LD keywords member. In those three the correct action is
+    deletion or merge, not substitution; in the other seven it is substitution. The
+    table is in the task note, verified per file and per line.
 
 
-    WHY IT EARNED THE SLOT. voids/meta-epistemology-of-limits line 142 assembles the
-    wing scope case from Fitch, Rescher, Dunning-Kruger and Nagel and then discounts
-    it in the same paragraph as closer to one evidential move than four, all sitting
-    in twentieth-century Western formal epistemology. Line 146 states the residual
-    gap verbatim, that the roughly 100 void entries have no principled argument approximating
-    the total. So a load-bearing claim rests on about one correlated move while a
-    mature framework-independent literature on exactly that estimation problem has
-    never been touched. Expected yield is a negative result, a demonstration of why
-    the estimators cannot apply because the catalogue violates their sampling-independence
-    condition.
+    SEVERITY RECORDED HONESTLY. All 10 carriers are archived, so baseof.html line
+    15 emits robots noindex nofollow and sitemap.xml line 5 excludes them, both confirmed
+    in the built page. The citation_keywords argument that justified the sibling pass
+    does not transfer to search engines. Two residual grounds keep it at P2: 11 body
+    loci are reader-facing anchor text on live preserved URLs, the documented route
+    by which outer reviewers read superseded text; and machine-meta.html lines 17 and
+    61 do not check archived, so the built page does carry the dead slug in citation_keywords
+    and JSON-LD keywords for any chatbot fetching the URL directly, which matters
+    given the LLM-first audience.
 
 
-    HOST SELECTION. The natural home, voids/meta-epistemology-of-limits, was blocked
-    on three independent grounds each checked on disk: churn, ai_modified 2026-08-17T11:11:04
-    which is today; length, analyze_length reads 2867 words soft_warning with about
-    133 words to the voids hard ceiling of 3000; and collision, it is already fold
-    target 3 of the olfactory research note behind the open erasure-void task which
-    carries a standing do-not-compete instruction. Chosen host voids/compound-failure-signatures.md
-    measures 1875 words total and 1647 words of authored prose once apparatus is stripped,
-    status ok, about 1125 words to hard, and ai_modified 2026-05-26T20:02:03 so churn-clean
-    and 83 days untouched. Pileup parse of the Active region returns zero open tasks
-    on that slug.
+    THE DRIVER CANDIDATE WAS ACCEPTED, WITH TWO CORRECTIONS. The briefed claim that
+    all 8 frontmatter loci sit under concepts is off by one: 7 sit under concepts,
+    and archive/concepts/psychophysical-coupling-2.md line 33 sits under related_articles,
+    which has zero layout consumers. The briefed live-tree count of 0 is right in
+    substance but literally 1, the fenced alias. Bare and piped counts of 19 and 8
+    matched exactly.
 
 
-    THREE LEADS TESTED AND DECLINED, all with on-disk evidence. Lead A, that apex/testing-the-map-from-inside
-    overclaims Fox et al 2012 by calling introspective accuracy graded and trainable
-    at line 201 while line 178 correctly says experience predicts, is REJECTED. git
-    log -S shows that exact wording was INSTALLED by commit 3871f7060d on 2026-07-30,
-    a refine-draft whose own title was that the file overclaims Fox four lines after
-    rendering it correctly, so the phrase is the post-fix wording chosen by the pass
-    built for this defect. The completed 2026-08-12 Fox task also names line 178 of
-    this file on its explicit leave-alone list. Lead B, a corpus-wide dangling-citation
-    sweep, 145 files show inline author-year cites absent from their reference list,
-    is DECLINED as dominated by false positives: possessive forms and hyphenated multi-author
-    compounds fail the matcher, and the cleanest apparent case, voids/inference-void
-    with three of three unmatched, resolves to a lineage sentence naming Godel, Turing
-    and Chaitin as thematic predecessors rather than as citations. Lead C, positions
-    register Argued-in layer-two verification recommended by the completed 2026-08-13
-    P-SC1 task, is DECLINED for pileup: two open P3s already cover that thread at
-    Active lines 519 and 2460.
+    LIVE-TREE ALTERNATIVE TESTED AND FOUND ALREADY COVERED. The driver invited a
+    preferable candidate with live-tree reach, so the whole class was swept rather
+    than assumed: 507 archived slugs, 491 with no live article of the same slug, matched
+    against bare wikilinks in the live tree. A naive sweep reports 96 affected slugs
+    but most are false positives where an archived copy is superseded by a live article
+    of the same name, so the link already resolves correctly. After filtering, 80 truly
+    dead slugs carry bare live references totalling 521 occurrences, and the distribution
+    is decisive: 520 fall in obsidian/research and exactly 1 in obsidian/voids/edge-states-and-void-probes.md,
+    which is fenced under a standing human length decision. Zero fall in topics, concepts,
+    apex, positions, arguments or tenets. The research-note subset is not mintable
+    either: the six that actually 404 are the open P3 at line 2563, the rest resolve
+    to archive copies and are dated snapshots the Map does not rewrite, and the way
+    a dead slug in related_articles mis-signals the unconsumed-research check is a
+    standing operator item that was reported and not re-filed. So no live-tree candidate
+    outranked the archive one.
 
 
-    EIGHT-SOURCE AUDIT. 1 chain, blocked, topics at cap and no research-topic mintable.
-    2 unconsumed research, a full 2026-07 and 2026-08 census found 118 notes with
-    no live-content mention but the backlog is cap-shadowed and the only zero-slot
-    candidate was consumed by the previous run this hour. 3 gap analysis, SOURCE USED.
-    4 staleness, strongest candidates fail the churn filter. 5 orphan integration,
-    NONE, a full inbound-wikilink scan returns exactly two orphans and both are known
-    non-issues, the refinement-log sidecar and authors/notes-about-claude. 6 length
-    analysis, the hard_warning population remains saturated with vetoed and operator-parked
-    entries. 7 positions, dependency scan shows nearly every cited article modified
-    within 10 days so the signal is undiscriminating, and the register file shipped
-    this hour. 8 applied apex gap, none.'
-  last_replenishment_prev: '2026-08-17T19:45:00+00:00'
-  last_replenishment_run: 970
+    SOURCE COUNTS. 1 chain, being class completion of the commit 5b92a66b defect family.
+    All other sources zero: 2 unconsumed research, 3 gap analysis, 4 staleness, 5 orphan
+    integration, 6 length analysis, 7 positions register, 8 applied apex gap.'
+  last_replenishment_prev: '2026-08-17T20:58:00+00:00'
+  last_replenishment_run: 971
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 36
+  p3_tasks: 37
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
-    chain: 0
+    chain: 1
     deferred_residue_capture: 0
-    gap_analysis: 1
+    gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions_dependency_changed: 0
