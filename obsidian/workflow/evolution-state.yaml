@@ -1,16 +1,12 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T17:07:24.180429+00:00'
-session_count: 19042
+last_updated: '2026-08-17T17:09:30.986695+00:00'
+session_count: 19043
 cycle_position: 12700
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T16:13:20.446642+00:00'
+  agentic-social: '2026-08-17T17:24:46.956391+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
-  check-model-fallback: '2026-08-17T13:07:40.431295+00:00'
+  check-model-fallback: '2026-08-17T17:09:30.986695+00:00'
   check-tenets: '2026-08-16T23:37:20.956730+00:00'
   coalesce: '2026-08-17T10:53:05.778511+00:00'
   collect-chatgpt-review: '2026-08-17T04:05:53.364274+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -518,6 +514,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/channel-class-taxonomy/
+    date: '2026-08-17T17:24:46.956354+00:00'
+    topics:
+    - selection-only-mind-influence
+    - hard-problem-of-consciousness
+    - mental-causation-and-downward-causation
 queue_status:
   last_replenishment: '2026-08-17T16:31:00+00:00'
   last_replenishment_mode: five-candidates-declined-one-archival-label-cluster-shipped
