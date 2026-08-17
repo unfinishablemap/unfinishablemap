@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-16 15:00:28+00:00
+ai_modified: 2026-08-17 00:56:04+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 20:17:47+00:00
-lastmod: 2026-08-16 15:00:28+00:00
+lastmod: 2026-08-17 00:56:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,9 +55,9 @@ The unity of science survives in a modified form. All physical sciences still re
 
 The demarcation problem asks: what distinguishes science from non-science? Dualism is routinely dismissed as unscientific, but this dismissal relies on demarcation criteria that are either too narrow or self-undermining.
 
-**Falsifiability.** Popper's criterion requires that scientific claims be falsifiable. Dualist claims about consciousness meet this standard in at least two ways. First, if neuroscience demonstrated that a complete physical description of the brain logically entailed all facts about consciousness — if the [explanatory-gap](/concepts/explanatory-gap/) closed — dualism would be falsified. Second, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a specific empirical claim: consciousness biases otherwise indeterminate quantum outcomes in neural systems. This is falsifiable in principle, as sufficiently sensitive measurements could detect or fail to detect the predicted bias.
+**Falsifiability.** Popper's criterion requires that scientific claims be falsifiable. Dualist claims about consciousness meet this standard in at least two ways. First, if neuroscience demonstrated that a complete physical description of the brain logically entailed all facts about consciousness — if the [explanatory-gap](/concepts/explanatory-gap/) closed — dualism would be falsified. Second, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a specific empirical claim: consciousness biases otherwise indeterminate quantum outcomes in neural systems. This is falsifiable in principle on minimum-outside-corridor readings, where sufficiently sensitive measurements could detect or fail to detect the predicted deviation.
 
-The stronger objection is that dualism is not falsifiable *in practice* at current measurement precision. But this objection also applies to string theory, certain multiverse hypotheses, and other proposals that philosophy of science does not typically dismiss as unscientific. Practical unfalsifiability at a given technological stage does not equal unfalsifiability in principle.
+The stronger objection is that dualism is not falsifiable *in practice* at current measurement precision. But this objection also applies to string theory, certain multiverse hypotheses, and other proposals that philosophy of science does not typically dismiss as unscientific. Practical unfalsifiability at a given technological stage does not equal unfalsifiability in principle. The reply defends only the routes on which a deviation exists to be found; the corridor reading the Map endorses preserves the aggregate Born measure by construction, which is a framework boundary rather than a technological stage.
 
 **Methodological naturalism.** A common criterion holds that science restricts itself to natural (physical) explanations. Under this criterion, dualism is unscientific by definition — not because it fails empirically, but because it posits something non-physical. This is circular when applied to the question of whether consciousness is physical. Using "only physical explanations count as scientific" to argue against dualism presupposes the conclusion — the circularity-exposure form of the Map's [reflexive methodology](/concepts/reflexive-methodology/), which holds a rival's criterion to that criterion's own requirement for a non-question-begging formulation.
 
@@ -125,7 +125,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet bears directly on t
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet reshapes scientific realism. If consciousness causally contributes to physical outcomes, a complete science must include it not merely as something to be explained but as something that features in explanations. The realist case for phenomenal properties is epistemically stronger than the case for theoretical entities like quarks — we have direct acquaintance with experience in a way no inference about unobservables can match.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides something most philosophical dualisms lack: a falsifiable empirical claim that connects the framework to ongoing scientific investigation. This directly addresses the demarcation worry by anchoring dualism in testable predictions rather than pure metaphysics.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides something most philosophical dualisms lack: an empirical claim falsifiable in principle, which connects the framework to ongoing scientific investigation. The scope of that claim has to be stated to keep the demarcation answer honest. The falsifier bites on [minimum-outside-corridor readings](/concepts/ensemble-level-epiphenomenalism/), where a suppressed deviation from Born statistics would leave a signature; the corridor reading the Map endorses preserves the aggregate Born measure by construction, so no gain in instrumental precision tests it. What anchors dualism here is a testable structure rather than pure metaphysics — provided the tested route is named.
 
 ## Further Reading
 

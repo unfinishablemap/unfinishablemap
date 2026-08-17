@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-08-12T19:14:57+00:00
+ai_modified: 2026-08-17T00:56:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[history-of-the-interaction-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-21
 last_curated:
 last_deep_review: 2026-07-17T13:45:15+00:00
@@ -106,7 +106,7 @@ Given these epistemic constraints, what would genuine progress in understanding 
 
 **Narrowing the phenomenal variable.** Demonstrating empirically that one type of conscious state (attention, intention, valence) correlates with physical selection while others do not would constrain the phenomenal side of the coupling. Research on willed attention—including studies linking volitional effort to distinct neural signatures such as frontal theta-band activity—is a step in this direction.
 
-**Distinguishing selection from noise.** If consciousness biases quantum outcomes, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—and detecting them would be extraordinarily difficult, requiring isolation of quantum-level signals from thermal noise in warm biological tissue. This remains a theoretical benchmark rather than a near-term experimental programme, but it defines what decisive evidence would look like.
+**Distinguishing selection from noise.** On minimum-outside-corridor readings, where the bias is allowed to leave a suppressed residue, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—and detecting them would be extraordinarily difficult, requiring isolation of quantum-level signals from thermal noise in warm biological tissue. This remains a theoretical benchmark rather than a near-term experimental programme, but it defines what decisive evidence would look like *for that route*. The corridor reading predicts no aggregate departure at all, so its benchmark is a specifiable [[born-preserving-causal-efficacy|conditional signature]]—a grain of conditioning at which selected and unselected outcomes come apart—rather than an ensemble deviation.
 
 **Developing phenomenal metrics.** The interface will not be specified until phenomenal states can be measured on a scale that admits mathematical relationships. Current psychophysical methods measure stimulus-response mappings, not phenomenal magnitudes directly. A method for quantifying phenomenal intensity as such—not merely via behavioural proxies—would open a new class of inferential strategies.
 
@@ -120,7 +120,7 @@ The epistemology of mechanism at the consciousness-matter interface touches ever
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is itself an epistemological strategy. By constraining the interface to the smallest possible non-physical influence, it makes the problem tractable from the physical side: negative constraints from conservation laws and decoherence timescales progressively narrow the space of candidate mechanisms.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** means the Map cannot settle for epistemic humility about mechanism indefinitely. If consciousness causes physical effects, those effects are in principle detectable, and the mechanism is in principle discoverable—even if current methods are insufficient. The tenet creates a standing obligation to pursue specification.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** means the Map cannot settle for epistemic humility about mechanism indefinitely. What the tenet commits to is outcome-selection influence, not the detectability of that influence. On the corridor reading the Map endorses, the selection is constructed to leave the aggregate Born measure intact, so it is by that construction indistinguishable from chance—a framework-boundary feature rather than a near-term test awaiting better equipment. Detectability follows only on [[ensemble-level-epiphenomenalism|minimum-outside-corridor readings]], where a suppressed deviation from Born statistics would leave a signature. The standing obligation the tenet creates is therefore to produce *discriminating structure*—some specifiable grain at which a selected outcome comes apart from an unselected one—rather than to wait for instruments to improve.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** counsels against abandoning the search because simpler (physicalist, epiphenomenalist) alternatives avoid the specification burden entirely. The Map's fifth tenet implies that epistemic difficulty is not evidence of theoretical failure—and that the apparent simplicity of alternatives may reflect incomplete understanding rather than genuine parsimony.
 

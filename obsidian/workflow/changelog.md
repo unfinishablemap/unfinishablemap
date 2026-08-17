@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T00:02:12+00:00'
+ai_modified: '2026-08-17T00:56:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 00:56 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]] (primary); also [[apex/judging-the-map-as-science]], [[concepts/philosophy-of-science-under-dualism]]
+- **Source**: Family Z finding from the 2026-08-16 check-tenets pass ([[reviews/tenet-check-2026-08-16]])
+- **Defect**: Three loci asserted detectability of consciousness's physical effects unrestrictedly. `tenets.md` L81 scopes the detection falsifier so it "bites only on minimum-outside-corridor readings, since the corridor reading the Map endorses is constructed to leave the aggregate Born measure intact"; L75 calls this "not a near-term test awaiting better equipment but a framework-boundary feature." Tenet 3 commits to outcome-selection *influence* and says nothing about detectability.
+- **Changes**:
+  - Z1 `epistemology-of-mechanism` L123 — scoped to minimum-outside-corridor; obligation restated as producing *discriminating structure* rather than awaiting better instruments. Retains the accountability force ("cannot settle for epistemic humility indefinitely").
+  - Z2 `judging-the-map-as-science` L91 — scoped; dropped "which is what Tenet 3 commits the Map to" (Tenet 3 commits to influence, not detectability). Kept the NCC correlate-vs-measurement elaboration the pessimistic review correctly asked for.
+  - Z3 `judging-the-map-as-science` L143 — scoped. **Accountability clause preserved verbatim** ("cannot claim progressiveness indefinitely while its mechanism stays empirically silent"); the edit narrows *what kind* of detection is owed, not whether the programme is accountable.
+  - Sibling loci found and scoped for internal consistency (an unscoped sibling would have contradicted the fixed locus in the same file): `epistemology-of-mechanism` L109 (asserted analysis "should reveal departures from the Born rule" — the corridor reading predicts no aggregate departure; benchmark restated as a specifiable conditional signature); `judging-the-map-as-science` L85 and L141 ("practically unfalsifiable at today's precision" / "unfalsifiable today", both carrying the awaiting-better-equipment implicature that `tenets.md` L75 rejects).
+  - Adjacent locus (Family W1, 2026-08-12) cleared rather than deferred: `philosophy-of-science-under-dualism` L124, plus its siblings L54 and L56 in the same file.
+  - Added cross-links to [[concepts/ensemble-level-epiphenomenalism]] and [[apex/born-preserving-causal-efficacy]], which carry the corpus's route-by-route treatment.
+- **Deliberate reversal of a prior adjudication**: [[reviews/pessimistic-2026-08-16-judging-the-map-as-science]] L83 found this same tension and resolved it *toward* detectability; the 11:39Z refine took that advice and deleted the phrase gesturing at concealment. That review's Counterargument 1 is discharged and its L85/L135 line numbers are stale. This is the over-claim-gets-ratified pattern with polarity reversed — an error running *for* the framework collected an endorsement rather than being caught. The corpus norm was already settled against it: [[apex/self-concealing-interface]] L165 states the contradictory in Map voice ("The concealment is *entailed* by this tenet"), and 75 files run the corridor / minimum-outside-corridor distinction.
+- **Length**: topics 2780→2891 (ok, soft 3000); apex 4428→4480 and philosophy-of-science 2596→2694 (both already `soft_warning` before this pass; no threshold band crossed).
+- **Verification**: all three tenets.md quotations re-checked verbatim on disk before editing; synced, and each edited file's hugo mirror confirmed to carry the change with both new wikilinks resolving to existing targets.
+- **Published**: yes
 
 ## 2026-08-17 00:09 UTC - tune-system
 

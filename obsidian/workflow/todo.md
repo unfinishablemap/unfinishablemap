@@ -37,26 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: two articles attribute unrestricted in-principle detectability to Tenet 3, and today's pessimistic review adjudicated the tension the wrong way
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md
-- **Second file**: obsidian/apex/judging-the-map-as-science.md
-- **Source**: check-tenets 2026-08-16 (see obsidian/reviews/tenet-check-2026-08-16.md, Family Z)
-- **Generated**: 2026-08-16
-- **Notes**: **ALL THREE LOCI VERIFIED VERBATIM ON DISK 2026-08-16 with `grep -cF` (count 1 each), and each is mirrored in `hugo/content/` — sync after editing, do not leave the hugo tree stale.**
-  **THE DEFECT.** `tenets.md` L81 scopes the detection falsifier explicitly: direct detection of a consciousness-correlated Born-statistics deviation "bites **only on minimum-outside-corridor readings**, since the corridor reading the Map endorses is constructed to leave the aggregate Born measure intact and is, by that construction, indistinguishable from chance." L75 adds that this is "not a near-term test awaiting better equipment but a framework-boundary feature." Tenet 3's own text commits to outcome-selection influence and says nothing about detectability. Three loci assert it unrestrictedly:
-  (Z1) `epistemology-of-mechanism…` **L123** — *"If consciousness causes physical effects, those effects are in principle detectable, and the mechanism is in principle discoverable—even if current methods are insufficient."* The source locus and the stronger claim: it adds mechanism-discoverability and closes the escape the corridor reading needs.
-  (Z2) `judging-the-map-as-science` **L91** — *"the physical effects consciousness has are in principle detectable, which is what Tenet 3 commits the Map to"*.
-  (Z3) `judging-the-map-as-science` **L143** — *"if consciousness causes physical effects, the effects are in principle detectable, and the programme cannot claim progressiveness indefinitely while its mechanism stays empirically silent."*
-  **THE CORPUS NORM IS ESTABLISHED — copy it, do not compose.** `apex/self-concealing-interface` L165 states the contradictory in Map voice: *"The concealment is **entailed** by this tenet."* `concepts/ensemble-level-epiphenomenalism` L58 and `concepts/coupling-modes` L116 scope detectability precisely to the *deviation* route. Eight further articles run the corridor / minimum-outside-corridor distinction explicitly.
-  **FIX.** Scope all three to minimum-outside-corridor readings; on the endorsed corridor reading the influence is constructed to leave the aggregate Born measure intact, so the standing obligation is to produce discriminating structure rather than to await better instruments. At Z2 also drop *"which is what Tenet 3 commits the Map to"* — Tenet 3 commits to outcome-selection influence, not to its detectability.
-  **DO NOT WEAKEN Z3's ACCOUNTABILITY CLAUSE.** "cannot claim progressiveness indefinitely while its mechanism stays empirically silent" is correct, runs against the Map, and survives the scoping intact. The edit narrows *what kind* of detection is owed, not whether the programme is accountable.
-  **⚠️ DO NOT FOLLOW THE PESSIMISTIC REVIEW ON THIS.** `reviews/pessimistic-2026-08-16-judging-the-map-as-science.md` L83 found this exact tension and resolved it *toward* detectability; the refine executed at 11:39Z took that advice and deleted the phrase that gestured at concealment (`"no publicly accessible causal effects of the right kind"` now greps zero in the apex, surviving only at its source `topics/consciousness-and-the-problem-of-measurement-standards` L65). That review's line numbers (L85/L135) are stale and its Counterargument 1 is discharged. This task reverses the direction of that adjudication.
-  **PILEUP CLEAR (checked 2026-08-16).** No open Active-section task names either file.
-  **ADJACENT LOCUS, OPTIONAL — same edit if length allows.** `concepts/philosophy-of-science-under-dualism` L124 (*"a falsifiable empirical claim…"*, still live from the 2026-08-12 pass's Family W1) is the direct source of the apex. Fixing it here avoids a second pass owed on the same cluster.
-
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
 - **Type**: refine-draft
@@ -2668,6 +2648,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: two articles attribute unrestricted in-principle detectability to Tenet 3, and today's pessimistic review adjudicated the tension the wrong way
+- **Type**: refine-draft
+- **File**: obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md
+- **Notes**: **ALL THREE LOCI VERIFIED VERBATIM ON DISK 2026-08-16 with `grep -cF` (count 1 each), and each is mirrored in `hugo/content/` — sync after editing, do not leave the hugo tree stale.**
+  **THE DEFECT.** `tenets.md` L81 scopes the detection falsifier explicitly: direct detection of a consciousness-correlated Born-statistics deviation "bites **only on minimum-outside-corridor readings**, since the corridor reading the Map endorses is constructed to leave the aggregate Born measure intact and is, by that construction, indistinguishable from chance." L75 adds that this is "not a near-term test awaiting better equipment but a framework-boundary feature." Tenet 3's own text commits to outcome-selection influence and says nothing about detectability. Three loci assert it unrestrictedly:
+  (Z1) `epistemology-of-mechanism…` **L123** — *"If consciousness causes physical effects, those effects are in principle detectable, and the mechanism is in principle discoverable—even if current methods are insufficient."* The source locus and the stronger claim: it adds mechanism-discoverability and closes the escape the corridor reading needs.
+  (Z2) `judging-the-map-as-science` **L91** — *"the physical effects consciousness has are in principle detectable, which is what Tenet 3 commits the Map to"*.
+  (Z3) `judging-the-map-as-science` **L143** — *"if consciousness causes physical effects, the effects are in principle detectable, and the programme cannot claim progressiveness indefinitely while its mechanism stays empirically silent."*
+  **THE CORPUS NORM IS ESTABLISHED — copy it, do not compose.** `apex/self-concealing-interface` L165 states the contradictory in Map voice: *"The concealment is **entailed** by this tenet."* `concepts/ensemble-level-epiphenomenalism` L58 and `concepts/coupling-modes` L116 scope detectability precisely to the *deviation* route. Eight further articles run the corridor / minimum-outside-corridor distinction explicitly.
+  **FIX.** Scope all three to minimum-outside-corridor readings; on the endorsed corridor reading the influence is constructed to leave the aggregate Born measure intact, so the standing obligation is to produce discriminating structure rather than to await better instruments. At Z2 also drop *"which is what Tenet 3 commits the Map to"* — Tenet 3 commits to outcome-selection influence, not to its detectability.
+  **DO NOT WEAKEN Z3's ACCOUNTABILITY CLAUSE.** "cannot claim progressiveness indefinitely while its mechanism stays empirically silent" is correct, runs against the Map, and survives the scoping intact. The edit narrows *what kind* of detection is owed, not whether the programme is accountable.
+  **⚠️ DO NOT FOLLOW THE PESSIMISTIC REVIEW ON THIS.** `reviews/pessimistic-2026-08-16-judging-the-map-as-science.md` L83 found this exact tension and resolved it *toward* detectability; the refine executed at 11:39Z took that advice and deleted the phrase that gestured at concealment (`"no publicly accessible causal effects of the right kind"` now greps zero in the apex, surviving only at its source `topics/consciousness-and-the-problem-of-measurement-standards` L65). That review's line numbers (L85/L135) are stale and its Counterargument 1 is discharged. This task reverses the direction of that adjudication.
+  **PILEUP CLEAR (checked 2026-08-16).** No open Active-section task names either file.
+  **ADJACENT LOCUS, OPTIONAL — same edit if length allows.** `concepts/philosophy-of-science-under-dualism` L124 (*"a falsifiable empirical claim…"*, still live from the 2026-08-12 pass's Family W1) is the direct source of the apex. Fixing it here avoids a second pass owed on the same cluster.
 
 ### ✓ 2026-08-16: the acquaintance-principle article flags Meskin's deflation as resting on a claim "hard to verify" — a 9-day-unconsumed note establishes it has never been tested, names the instrument that would test it, and hands the deflationist a better-evidenced mechanism the article never mentions
 - **Type**: refine-draft
