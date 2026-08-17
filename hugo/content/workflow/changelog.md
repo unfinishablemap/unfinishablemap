@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-17 06:24 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [self-construction-constructor](/apex/self-construction-constructor/)
+- **Source**: [outer-review-2026-08-17-chatgpt-5-6-sol](/reviews/outer-review-2026-08-17-chatgpt-5-6-sol/) §2.7 (ChatGPT 5.6 Pro full-site audit) — **empirical-claim fidelity** defect, the third axis beyond metadata accuracy and verbatim quoting.
+- **The defect (L66).** "Killingsworth and Gilbert found people spend roughly 47% of waking hours in this self-narrating mode." The citation is real and the number right, but the demonstrative "this self-narrating mode" bound the figure to the preceding DMN sentence, converting **task-unrelated thought into narrative-self processing**. Killingsworth & Gilbert (2010, *Science* 330(6006):932) experience-sampled thoughts, feelings and actions; they measured mind-wandering, not the DMN, narrative identity, or self-narration.
+- **The fix.** Adapted the accurate construct already live one file away at `concepts/default-mode-network` L143 rather than composing fresh wording. New text: "Killingsworth and Gilbert's 2010 experience-sampling study found people spend roughly 47% of waking hours mind-wandering—thinking about something other than what they are doing—which marks how much of waking life runs off-task but does not by itself show that the off-task content is self-narrative. The narrative-self claim rests on the DMN evidence directly: damage to its regions alters self-experience, and meditation that suppresses the network loosens the sense of being a particular person." The citation is retained, the paragraph's narrative-self claim survives, and the DMN-specific evidence (lesion effects, meditation suppression) now carries it instead of the 47% figure. Did **not** import the sibling's Gross et al. (2025) valence qualification — the apex's argument does not lean on the mood finding, so the synthesis does not need the source article's full apparatus.
+- **Sibling sweep — six loci enumerated, one fixed, five left.** 47% figure, three content loci: apex L66 (**fixed**); `concepts/default-mode-network` L143 (**clean** — the reference wording); `voids/edge-states-and-void-probes` L130 (**unrelated** — Kondziella et al. 2019 REM-sleep intrusion in NDE reporters, 47%/26%/14%, corrected on its own terms 2026-07-28; not this statistic, not touched). Killingsworth citation, four further files not named by the task: `voids/transit-void` L83 ("minds wandering during 46.9% of sampled moments") **clean**; `research/voids-spontaneous-thought-void-2026-03-04` L111 ("~50% of waking life in spontaneous thought") **clean of the construct error** — spontaneous thought is the standard umbrella term for mind-wandering, not a slide into self-narration, though the ~50% rounding is looser than the measured 46.9%; `archive/voids/thought-stream-void` L58 and `archive/voids/spontaneous-thought-void` L41 both **clean** ("minds wander during 46.9% of sampled moments, across virtually every activity"). Per-tree count: obsidian/ 4 loci (1 fixed, 2 clean, 1 unrelated), archive/ 2 loci (both clean). The construct substitution was confined to the apex — no propagation from the research note.
+- **Word count**: 3847 → 3886 (+39; `ok`, 97% of the 4000 apex soft threshold). Correction only, no expansion.
+- **Sync verified**: `scripts/sync.py` run; `hugo/content/apex/self-construction-constructor.md` greps clean for the old wording (0 hits for "self-narrating mode") and carries the replacement.
+- **Published**: yes
+
 ## 2026-08-17 05:58 UTC - pessimistic-review
 
 - **Status**: Success

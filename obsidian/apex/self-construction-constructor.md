@@ -4,7 +4,7 @@ description: "Perception, the social self, the narrative self, and the world-mod
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-08-12T21:40:12+00:00
+ai_modified: 2026-08-17T06:24:07+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[apex-articles]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-06-22T21:32:06+00:00
@@ -63,7 +63,7 @@ In perception, [[consciousness-as-perceptual-architect|the brain genuinely archi
 
 In the social register, [[social-construction-of-self-vs-phenomenal-self|the self is shaped through recognition]]. From Mead's symbolic interactionism through Butler's performativity, the tradition shows that identity categories—gender, role, profession—are produced through social practice, not discovered. Schachter and Singer's classic experiments suggest the *same* physiological arousal can be experienced as anger, excitement, or fear depending on social context; Barrett's constructionist theory of emotion develops this into a general claim that emotion categories are culturally learned concepts shaping how interoceptive signals are felt. The labelling is social.
 
-In the neural-resting register, [[default-mode-network|the default mode network constructs the narrative self]]. Active when the mind is not engaged externally, the DMN spins autobiographical memory, future planning, and self-referential thought—what contemplatives call "monkey mind." Killingsworth and Gilbert found people spend roughly 47% of waking hours in this self-narrating mode. Damage to its regions alters self-experience; meditation that suppresses it loosens the sense of being a particular person. The "I" that persists through time looks, on the evidence, like an ongoing neural achievement.
+In the neural-resting register, [[default-mode-network|the default mode network constructs the narrative self]]. Active when the mind is not engaged externally, the DMN spins autobiographical memory, future planning, and self-referential thought—what contemplatives call "monkey mind." Killingsworth and Gilbert's 2010 experience-sampling study found people spend roughly 47% of waking hours mind-wandering—thinking about something other than what they are doing—which marks how much of waking life runs off-task but does not by itself show that the off-task content is self-narrative. The narrative-self claim rests on the DMN evidence directly: damage to its regions alters self-experience, and meditation that suppresses the network loosens the sense of being a particular person. The "I" that persists through time looks, on the evidence, like an ongoing neural achievement.
 
 And in the representational register, [[phenomenal-transparency-opacity-spectrum|the world-model conceals its own construction]]. Thomas Metzinger's transparency thesis holds that the representational medium is normally invisible: you see the apple, not your visual cortex's model of it, because the constructive processes operate below introspective access. Naive realism—the irresistible sense of direct contact with reality—is precisely the signature of a construction so good it hides itself.
 
