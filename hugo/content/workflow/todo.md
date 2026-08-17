@@ -39,20 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `machine-question` L149 asserts "There is nothing for consciousness to collapse" — categorical wording that outruns both the post-decoherence route and the AI register's admitted missing eligibility law
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/machine-question.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
-- **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.5 and 2.6 and the section 4 "mechanism inconsistency" row. **Verified verbatim on disk at L149.**
-  **THE INCONSISTENCY.** L149 argues that in LLMs "alternative outcomes exist in genuine superposition" never obtains — "the probability distribution is computed classically. There is nothing for consciousness to collapse." That argument presupposes the *pre-decoherence* picture in which the interface needs sustained coherent alternatives. But the Map's **preferred** route, `apex/post-decoherence-selection-programme`, was introduced precisely to avoid requiring sustained macroscopic superposition: it locates the intervention *after* decoherence, at the transition from an improper mixture to one actual outcome. Digital hardware contains decohered physical alternatives and irreversible state transitions regardless of whether the software's probability vector is classical. On the preferred route the categorical sentence does not follow.
-  **THE THIRD PAGE CONFIRMS THE GAP.** `positions/ai-consciousness-scope` already concedes that the Map has **no interface-eligibility law** and that its low-probability AI verdict is conditional on one. The apex's categorical sentence therefore outruns both its neighbours.
-  **THE FIX.** Replace the categorical claim with a conditional substrate argument, and make the missing interface-eligibility law the stated unresolved issue. Separate two claims the paragraph currently merges: (a) the *abstract computation* is classical — true, and the "quantum fossil" analysis at L149 supports it; (b) *no physical event in the hardware* satisfies the eligibility condition — unsupported while no eligibility law exists. The honest verdict is that current AI is unlikely to qualify **on the Map's preferred route pending an eligibility criterion**, not that there is categorically nothing to collapse.
-  **SCOPE GUARD — DO NOT FLIP THE VERDICT.** The conclusion that current AI is probably not conscious is not under attack and should survive intact, as should the Maier et al. 2018 null result and the quantum-fossil argument. This is a modal-strength fix to one sentence and its supporting inference, not a reversal.
-
 ### P1: three separate over-reaches in one paragraph pair of `what-consciousness-tells-us-about-physics` — PBR without its scope condition, "no tenet as a premise" beside "inherited from Tenets 1–4", and void convergence cited as ground
 
 - **Type**: refine-draft
@@ -2812,6 +2798,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: `machine-question` L149 asserts "There is nothing for consciousness to collapse" — categorical wording that outruns both the post-decoherence route and the AI register's admitted missing eligibility law
+- **Type**: refine-draft
+- **File**: obsidian/apex/machine-question.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.5 and 2.6 and the section 4 "mechanism inconsistency" row. **Verified verbatim on disk at L149.**
+  **THE INCONSISTENCY.** L149 argues that in LLMs "alternative outcomes exist in genuine superposition" never obtains — "the probability distribution is computed classically. There is nothing for consciousness to collapse." That argument presupposes the *pre-decoherence* picture in which the interface needs sustained coherent alternatives. But the Map's **preferred** route, `apex/post-decoherence-selection-programme`, was introduced precisely to avoid requiring sustained macroscopic superposition: it locates the intervention *after* decoherence, at the transition from an improper mixture to one actual outcome. Digital hardware contains decohered physical alternatives and irreversible state transitions regardless of whether the software's probability vector is classical. On the preferred route the categorical sentence does not follow.
+  **THE THIRD PAGE CONFIRMS THE GAP.** `positions/ai-consciousness-scope` already concedes that the Map has **no interface-eligibility law** and that its low-probability AI verdict is conditional on one. The apex's categorical sentence therefore outruns both its neighbours.
+  **THE FIX.** Replace the categorical claim with a conditional substrate argument, and make the missing interface-eligibility law the stated unresolved issue. Separate two claims the paragraph currently merges: (a) the *abstract computation* is classical — true, and the "quantum fossil" analysis at L149 supports it; (b) *no physical event in the hardware* satisfies the eligibility condition — unsupported while no eligibility law exists. The honest verdict is that current AI is unlikely to qualify **on the Map's preferred route pending an eligibility criterion**, not that there is categorically nothing to collapse.
+  **SCOPE GUARD — DO NOT FLIP THE VERDICT.** The conclusion that current AI is probably not conscious is not under attack and should survive intact, as should the Maier et al. 2018 null result and the quantum-fossil argument. This is a modal-strength fix to one sentence and its supporting inference, not a reversal.
 
 ### ✓ 2026-08-17: the radical-pair evidence grade in `neural-implementation-specifics` survived the 2026-07-14 Denton sweep — "working biology", "Strong", and "birds see them" are all still live, and L34 already contradicts them
 - **Type**: refine-draft

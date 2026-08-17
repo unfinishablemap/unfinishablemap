@@ -5,6 +5,21 @@ ai_modified: '2026-08-17T05:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 07:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Review file**: [[reviews/outer-review-2026-08-17-chatgpt-5-6-sol]] (section 2.7; section-4 "direct wording contradiction" row; recommendation 9; verification notes L505-507). Also one of the two loci of the 2026-08-17 synthesis's strongest convergent cluster — convergence-as-evidence leaking past the register's common-cause demotion.
+- **Word count**: 5425 → 5439 (+14; `hard_warning` unchanged, against apex 4000 soft / 5000 hard / 6500 critical). Arithmetic below; net-positive by 14, stated rather than absorbed.
+- **Changes**: Three loci in one pass, all within ninety lines.
+  - **L130 — PBR scope condition.** The article asserted PBR twice and unconditionally ("PBR shows the wavefunction is ontic"; "PBR establishes the wavefunction as real"). PBR's result is conditional and framework-relative: within the ontological-models framework, and *given preparation independence for independently prepared systems*, models on which the wavefunction is mere information about an underlying state conflict with quantum predictions. ψ-epistemic models that reject preparation independence are not excluded. The two redundant assertions were consolidated into one correctly-scoped statement, and the further step — from "certain ψ-epistemic models are excluded" to "physics structurally exhaustive yet ontologically partial" — is now marked as the article's own contested philosophical inference rather than something the no-go package delivers.
+  - **L220 — premise-status conflict.** "The reverse inference is *independently argued*—it takes no tenet as a premise—" contradicted the same sentence-group's concession that the four constraints it reads off physics are "*inherited from Tenets 1–4*". Repaired by narrowing rather than dropping: the clause now names the actual premise ("*independently argued* from the Cartesian datum"). This removes the tenet-free claim while leaving the constraints sentence untouched, so the two no longer conflict. The paragraph's calibration work is preserved intact — the *independently argued* / *externally evidenced* / *mutually coherent only* grading, the Cartesian datum as the load the argument rests on, and the illusionism concession all survive verbatim.
+  - **L216 — void convergence cited as ground.** Removed "and the convergence of the [[taxonomy-of-voids|void structure]]" from the stated grounds. Driver-verified premise confirmed independently: `voids/what-voids-reveal` L110 states "This section was long headed 'the abductive argument'; the demotion is deliberate" — the voids cluster has settled on coherence-only calibration, so citing its convergence as support contradicted it. The honest admission that follows is kept verbatim, including "triple screening removes potential defeaters without supplying support".
+- **Reviewer over-statement not inherited**: the review's section-4 table framed L216 as a "direct evidential contradiction" between two pages. It is not — L220 already conceded convergence adds no support, and `voids/what-voids-reveal` agrees; both were re-checked here. The live defect was the single L216 clause. No reconciling material added for a disagreement that does not exist, and the article was not rewritten.
+- **Length arithmetic**: L216 deletion −7, L220 narrowing −10, L130 correction +31 (the only addition, carrying four required elements: ontological-models framing, preparation independence for independently prepared systems, the surviving ψ-epistemic models, and the contested-inference marking). Net +14. The deletions funded ~55% of the insertion. Rewritten in place; no clarifying sentence or footnote added, no unrelated prose trimmed to buy room, no condense performed or minted.
+- **Frontmatter**: `ai_modified` → 2026-08-17T07:40:34+00:00 from a live `date -u`. `ai_system` already carried `claude-opus-5` in its `+`-joined string, so left unchanged.
+- **Mirror**: `scripts/sync.py` run; verified in `hugo/content/apex/what-consciousness-tells-us-about-physics.md`.
+
 ## 2026-08-17 07:28 UTC - refine-draft
 
 - **Status**: Success
