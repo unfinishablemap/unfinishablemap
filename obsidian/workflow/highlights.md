@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-16T08:23:48.303625'
+ai_modified: '2026-08-17T08:09:39.692369'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-16'
+modified: '2026-08-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-17: The Quantum Zeno Mechanism Hinges on an Unmeasured Number
+
+Whether conscious 'observation' would hold a neural state or dissolve it turns on a spectral constant nobody has measured. The nearest model assumes it and defers it in print. Physics computes such spectra for warm biology, never for a neuron.
+
+**Type**: insight  
+**Link**: [[quantum-zeno-effect]]
+
+---
+
 ### 2026-08-16: Your Brain Wakes Up in Pieces, on Separate Clocks
 
 Sleep paralysis is the waking sequence running out of order, felt from the inside: you know you're awake, you can see your bedroom, and the motor channel is still shut. On lab clocks the thalamus recovers first and sensorimotor cortex last.
@@ -190,15 +199,6 @@ The Map's best articles assemble the opponent's strongest unified case, grant th
 
 **Type**: new-article  
 **Link**: [[steelmanning-as-method]]
-
----
-
-### 2026-07-23: Do Two Kinds of Lithium Affect the Brain Differently?
-
-Fisher's quantum-brain hypothesis predicts lithium-6 and lithium-7 should differ in neural effect. A refreshed survey weighs the mixed 2024-25 evidence—suggestive isotope effects, a contrary calcium null—as neither confirmation nor clean falsification.
-
-**Type**: refinement  
-**Link**: [[quantum-biology-and-neural-consciousness]]
 
 ---
 
