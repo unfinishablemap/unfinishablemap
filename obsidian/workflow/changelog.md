@@ -5,6 +5,27 @@ ai_modified: '2026-08-17T00:56:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 03:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/quantum-zeno-effect]]
+- **Word count**: 2424 → 2799 (+375; `soft_warning` at 2500, 701 words clear of the 3500 hard ceiling — soft crossings mint nothing)
+- **Source**: [[research/bath-spectral-densities-for-warm-biological-systems-2026-08-16]], previously wholly unconsumed (`Naskar`, `Joarder`, `Ishizaki`, `Olbrich`, `Huh`, `Chaudhry` all grepped **0** on the target before this pass). This pass consumes the note's `quantum-zeno-effect` half only; its `sign-problem-for-conscious-observation` half stays available, deliberately unspent, because that file already carries two open sibling tasks.
+- **Changes**:
+  - **Anti-Zeno caveat paragraph** — kept the claim that the Zeno/anti-Zeno sign "depends on neural spectral properties nobody has characterised" (it is correct) and upgraded it from an assertion of absence to a citable one. Attached **Naskar & Joarder (2023), arXiv:2304.06518**, which models a tubulin dimer superposition against an *assumed* Ohmic spectral density with upper cutoff Ω, derives τ_d in terms of a constant C₀ absorbing the coupling strength and the spectral-density amplitude, then defers it — "Finding the proper value of C0 is our future proposed work" — repeated in its conclusions. Also specified *what* is uncharacterised: the coupling spectrum **at neural transition frequencies**, not the spectrum generally.
+  - **"Biological Precedents"** — added one short paragraph naming the adjacent literature the section had ignored: **Ishizaki & Fleming (2009)** for the canonical warm-bath parameter set (Drude–Lorentz overdamped Brownian oscillator, λ = 35 cm⁻¹, τ_c = 50 fs at 300 K) and **Huh et al. (2013)** for where the coupling weight sits (strong exciton–phonon band at 1600–2000 cm⁻¹; low-frequency region below 500 cm⁻¹ governing inter-unit transfer). Register held to the note's calibration: the published spectra characterise *molecular* transitions many orders above any neural selection event and so constrain a frequency window with **no overlap** with the neural case. The point is that the extraction technique exists and has never been pointed at a neural degree of freedom — the same gap Naskar and Joarder record from the other side.
+  - **Denton calibration list** — added a fourth bullet (list intro updated "Three" → "Four"): the cryptochrome precedent operates on spin transitions in the **MHz–GHz** band (inter-radical coupling up to −1.7 GHz, N5 hyperfine `A∥/(2π)` = 49.2 MHz, Larmor precession 1.4 MHz in the geomagnetic field), a second and independent obstacle to transfer alongside the structural one. Figures reported, not quoted. This page is the Denton calibration's authoritative home, so the bullet belongs here.
+  - **References** — three entries added into the existing apparatus, placed in the list's section-order grouping: Naskar & Joarder (2023) after Fischer (2001); Ishizaki & Fleming (2009) and Huh et al. (2013) after Denton (2024).
+- **Citation grading honoured** (the note's Gaps section is unusually disciplined):
+  - Verbatim used **only** for Naskar & Joarder, which the note flags as locally PDF-extracted and grep-verifiable. Ishizaki & Fleming, Huh and Denton figures are presented as *reported values*, not quoted spans, per the note's "report, do not quote" grade for WebFetch-sourced material.
+  - ⛔ **Firmenich, Firmenich & Firmenich (2026) deliberately excluded** — abstract-only (403 twice), not peer reviewed, author list flagged for a second look. Greps **0** here; no corroboration argument on this page needs it (`25 fs`, `ħ`, `k_B` all grep 0).
+  - The **106 cm⁻¹** Drude cutoff is the note's *conversion*, not an Ishizaki & Fleming value, and is **not** written into the article (greps 0). No reorganisation-energy MD-versus-experiment comparison, which the note forbids on its own strength.
+  - The note's **low-frequency-flank inference** (graded unpublished, routed to `sign-problem` as optional) was **not** imported.
+- **Calibration check, both directions**: the note's finding is net *negative* for the Zeno mechanism and net *positive* for the Map's honesty about it. Naming the adjacent literature was written so it cannot read as the biological analogy transferring, and equally was not inflated into a stronger objection than the note supports. No forward pointer was added to `sign-problem` claiming it already contains the orders-of-magnitude argument — that argument is the note's designated payload for a later task and would have been a stale anchor.
+- **Frontmatter**: `ai_modified` → 2026-08-17T03:40:00+00:00 (strictly past a live `date -u` of 03:40:27). `ai_system` left at `claude-opus-4-8+claude-opus-5` — `claude-opus-5` already present. `ai_contribution` already 100.
+- **Sync**: `scripts/sync.py` run; `hugo/content/concepts/quantum-zeno-effect.md` verified by grep to carry every change (all three edits, all three reference entries, `A∥/(2π)` backticks intact, `ai_modified` bumped). Body diff against the Obsidian source shows only expected wikilink→markdown conversion.
+- **Published**: yes
+
 ## 2026-08-17 02:52 UTC - deep-review
 
 - **Status**: Success

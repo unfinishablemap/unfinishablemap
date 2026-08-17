@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-08-16 14:27:36+00:00
+ai_modified: 2026-08-17 03:40:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:30:22+00:00
-lastmod: 2026-08-16 14:27:36+00:00
+lastmod: 2026-08-17 03:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,19 +55,22 @@ Frequent measurement does not always stabilise. In the right parameter regime it
 
 Abraham Kofman and Gershon Kurizki established the stronger and less comfortable result in 2000: the two regimes are not symmetric. They report that "the inhibitory quantum Zeno effect may be feasible in a limited class of systems," whereas accelerated decay "appears to be much more ubiquitous." For genuine decay into a continuum they find the Zeno effect "fundamentally unattainable in radiative or radioactive decay," because "the required measurement rates would cause the system to disintegrate"—the measurement-induced energy spread destroys the system it was meant to hold. They also name the quantity that decides the regime: the decay rate is an overlap integral between the environment's coupling spectrum and a measurement-induced control spectrum whose width is set by the inverse observation interval. Whether broadening that control spectrum reduces the overlap (suppression) or increases it (acceleration) depends on the shape of the coupling spectrum near the transition frequency.
 
-The anti-Zeno effect is the honest caveat that consciousness-based accounts tend to omit, and on Kofman and Kurizki's result the caveat is asymmetric rather than even-handed: acceleration is the generic case and suppression the special one. If "observation" can either freeze or destabilise a system depending on where the measurement interval lands relative to the environment's correlation time, then a neural-observation proposal cannot assume stabilisation for free—it has to argue for the special case rather than help itself to it. Whether a putative conscious "observation" of a neural template would fall in the Zeno regime (holding the intended program) or the anti-Zeno regime (dissolving it faster) depends on neural spectral properties nobody has characterised. What this costs the Map's Tenet 2 channel—minimality constrains the magnitude of a conscious influence without constraining its direction—is developed at [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/).
+The anti-Zeno effect is the honest caveat that consciousness-based accounts tend to omit, and on Kofman and Kurizki's result the caveat is asymmetric rather than even-handed: acceleration is the generic case and suppression the special one. If "observation" can either freeze or destabilise a system depending on where the measurement interval lands relative to the environment's correlation time, then a neural-observation proposal cannot assume stabilisation for free—it has to argue for the special case rather than help itself to it. Whether a putative conscious "observation" of a neural template would fall in the Zeno regime (holding the intended program) or the anti-Zeno regime (dissolving it faster) depends on neural spectral properties nobody has characterised—specifically the shape of the coupling spectrum at neural transition frequencies, rather than the spectrum in general. That absence can be cited rather than merely asserted: Naskar and Joarder (2023) model a tubulin dimer superposition against an *assumed* Ohmic spectral density with upper cutoff Ω, derive a decoherence time in terms of a constant C₀ absorbing the coupling strength and the spectral-density amplitude, and then defer that constant explicitly—"Finding the proper value of C0 is our future proposed work," repeated in their conclusions. The authors of the nearest neural attempt flag the deciding quantity as unknown themselves. What this costs the Map's Tenet 2 channel—minimality constrains the magnitude of a conscious influence without constraining its direction—is developed at [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/).
 
 ## Biological Precedents
 
 The strongest evidence that warm, wet biology can host Zeno-like dynamics comes from [radical-pair magnetoreception](/concepts/radical-pair-magnetoreception/)—the leading model of how migratory birds sense the Earth's magnetic field. Iannis Kominis first framed radical-pair reaction dynamics as a quantum Zeno phenomenon in the late 2000s (arXiv:0806.0739, 2008; later in *Physical Review E*, 2009), arguing that the effect stabilises the radical-pair spin state and protects the magnetic compass against certain decohering interactions. This is the biological precedent that genuinely predates later cryptochrome work by roughly fifteen years.
 
-Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Three qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
+Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Four qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
 
 - **It is computational modelling, not an experimental demonstration.** The study models cryptochrome radical pairs; it does not measure Zeno dynamics in a living neuron or even in the protein directly.
 - **Its coherence budget is sub-microsecond.** The tightly bound FAD–superoxide pair Denton models needs roughly 700 ns of coherence to become magnetosensitive in a geomagnetic field—about three orders of magnitude below the millisecond timescale of neural decision-making. That is a different and shorter budget than the tens of microseconds required of the well-separated compass radical pair; the [radical-pair magnetoreception](/concepts/radical-pair-magnetoreception/) page carries that figure and is its home. On either budget the precedent operates in a regime far shorter than the one a neural application would need.
+- **Its operating regime is spin transitions in the MHz–GHz band.** Denton and colleagues report an inter-radical coupling up to −1.7 GHz, an N5 hyperfine `A∥/(2π)` of 49.2 MHz, and Larmor precession at 1.4 MHz in the geomagnetic field. Those are frequencies unlike anything a neural selection event would involve, which gives the precedent a second and independent obstacle to transfer alongside the structural one below.
 - **It is a precedent for the mechanism category, not a licence for neural deployment.** Radical-pair spin states are structurally unlike the neural superpositions Stapp's model would require, and Kominis, not Denton, established the first biological Zeno framing. The Map's standing line—precedent, not licence—applies.
 
 Downstream articles that invoke Denton should cite this calibrated statement rather than restate it, and in particular should avoid describing the 2024 work as having "demonstrated" a coherence effect (it modelled one) or as licensing the claim that neural systems "could use" the effect (it is silent on neurons).
+
+A mature adjacent literature extracts bath spectral densities for warm biomolecules from molecular dynamics, and it is quantitatively specific. Ishizaki and Fleming (2009) supply the canonical warm-bath parameter set—an overdamped Brownian oscillator (Drude–Lorentz) form with reorganisation energy λ = 35 cm⁻¹ and bath relaxation time τ_c = 50 fs at 300 K—and Huh and colleagues (2013) locate the coupling weight in a strong exciton–phonon band at 1600–2000 cm⁻¹, with the low-frequency region governing inter-unit transfer below 500 cm⁻¹. These are molecular transitions many orders of magnitude above anything a neural selection event would involve, so the published spectra constrain the coupling spectrum in a frequency window with no overlap with the neural case. The extraction technique exists and is well developed; it has never been pointed at a neural degree of freedom, which is the same gap Naskar and Joarder record from the other side.
 
 ## The Neural Proposal
 
@@ -110,8 +113,11 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Kaulakys, B., & Gontis, V. (1997). Quantum anti-Zeno effect. *Physical Review A*, 56(2), 1131–1137. https://doi.org/10.1103/PhysRevA.56.1131
 1. Kofman, A.G., & Kurizki, G. (2000). Acceleration of quantum decay processes by frequent observations. *Nature*, 405(6786), 546–550. https://doi.org/10.1038/35014537
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
+1. Naskar, K., & Joarder, P. (2023). *Quantum decoherence in Microtubules*. arXiv:2304.06518. https://arxiv.org/abs/2304.06518
 1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*, 80(5), 056115. https://doi.org/10.1103/PhysRevE.80.056115. arXiv:0806.0739.
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
+1. Ishizaki, A., & Fleming, G.R. (2009). Theoretical examination of quantum coherence in a photosynthetic system at physiological temperature. *Proceedings of the National Academy of Sciences*, 106(41), 17255–17260. https://doi.org/10.1073/pnas.0908989106
+1. Huh, J., Saikin, S.K., Brookes, J.C., Valleau, S., Fujita, T., & Aspuru-Guzik, A. (2013). Atomistic study of energy funneling in the light-harvesting complex of green sulfur bacteria. arXiv:1307.0886. https://arxiv.org/abs/1307.0886
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
