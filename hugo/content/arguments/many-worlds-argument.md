@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-30 15:10:22+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-17 13:27:04+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -23,13 +23,14 @@ draft: false
 human_modified: null
 last_curated: 2026-05-10
 last_deep_review: 2026-07-19 13:13:14+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-08-17 13:27:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-interpretations]]'
 - '[[probability-problem-in-many-worlds]]'
+- '[[vertiginous-question]]'
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
 - '[[reviews/outer-review-synthesis-2026-05-10]]'
@@ -54,7 +55,7 @@ The appeal is obvious: many-worlds preserves the determinism of the Schrödinger
 
 **Premise 3**: Everett's own resources for answering it—branch-relative identity, self-locating credence, decision-theoretic Born rules, examined below—presuppose the very centred subject the question asks after; they relocate it rather than dissolve it.
 
-**Conclusion**: Answering the indexical question requires the *global* uniqueness of the subject that [Tenet 4](/tenets/#no-many-worlds) commits the Map to—a framework-boundary commitment, developed below, not a claim that Everett has nothing to say.
+**Conclusion**: Answering the indexical question requires the *global* uniqueness of the subject that [Tenet 4](/tenets/#no-many-worlds) commits the Map to—a framework-boundary commitment, developed below, not a claim that Everett has nothing to say. Decisive against branch-egalitarian Everettianism, that case is supplementary rather than sufficient against first-personally *centred* many-worlds (List, examined below), where a separate rejection of modal realism carries the weight.
 
 This is the Map's central objection. When you make a measurement, many-worlds says you split—spin-up in one branch, spin-down in another—yet you experience only one outcome. Which you?
 
@@ -72,21 +73,23 @@ Both face the same objection: they cannot accommodate the apparent fact that you
 
 A sophisticated literature inside the Everettian framework defuses the indexical objection by reconceiving identity, probability, and the experiencing subject in branch-relative terms. The Map's rejection must run through this literature rather than declare the disagreement bedrock without engaging it.
 
-**Saunders and Wallace** (Saunders 2010; Wallace 2012) defend the most influential branch-relative account: personal identity is preserved *along each branch* through ordinary psychological continuity, each post-measurement continuant having a determinate history, indexically owned memories, and a unique relation to its pre-measurement past. There is no fact about which branch is "really me" because identity is not transbranch in the first place. The Everettian thus restates the felt singularity of consciousness as branch-local and determinate; inside the branch, no indexical fact is missing. The Map's disagreement does not refute Wallace's account on its own terms. [Tenet 4](/tenets/#no-many-worlds) requires global ontological uniqueness—not merely branch-local uniqueness—because consciousness cannot be made multiply actual without losing what makes it consciousness. That requirement is a tenet, not a derived conclusion.
+**Saunders and Wallace** (Saunders 2010; Wallace 2012) defend the most influential branch-relative account: personal identity is preserved *along each branch* through ordinary psychological continuity, each post-measurement continuant having a determinate history, indexically owned memories, and a unique relation to its pre-measurement past. There is no fact about which branch is "really me" because identity is not transbranch in the first place; the felt singularity of consciousness is restated as branch-local and determinate, and inside the branch no indexical fact is missing. The Map's disagreement does not refute this on its own terms: [Tenet 4](/tenets/#no-many-worlds) requires global ontological uniqueness, not merely branch-local uniqueness, because consciousness cannot be made multiply actual without losing what makes it consciousness—a tenet, not a derived conclusion.
 
 But the framework helps itself to a move it has not earned. Branch-relative identity presupposes a centred subject *for whom* identity holds along the branch—an "I" whose perspective the branch-relative facts are facts *of*. The Everettian wave function is not centred; its branch decomposition is observer-relative, returning the preferred-basis problem at the level of the experiencing subject. The centring is supplied by the agent's perspective at the time of utterance—but that perspective is exactly what the indexical question was asking about. Wallace secures branch-local indexicality by making the global indexical question ill-formed; the move is the framework's preference, not its derivation.
 
 **Tappenden** (2008, 2017) extends the picture with a self-locating-beliefs account: pre-measurement uncertainty is uncertainty about *which* post-measurement observer I will be, even though all exist. The agent has well-defined credences over self-locating propositions ("I am the spin-up observer") that cash out the felt experience of probability. The structure matches Wallace's, and the same unsupported move appears: the centred subject grounding the credences is presupposed, not delivered by branching alone.
 
-**Vaidman** (1998, 2014) takes self-locating uncertainty into Born-rule derivation: rational credence in spin-up is the measure-weight of the spin-up branches, justified by a caring measure that respects amplitude. Whether that presupposition encodes the Born rule it was meant to derive is a live pressure point; Mandolesi (2018) formalises the circularity. The dispute is open inside the Everettian framework, not closed by the Map's tenets.
+**Vaidman** (1998, 2014) takes self-locating uncertainty into Born-rule derivation: rational credence in spin-up is the measure-weight of the spin-up branches, justified by a caring measure that respects amplitude. Whether that presupposition encodes the Born rule it was meant to derive is a live pressure point; Mandolesi (2018) formalises the circularity.
 
-**Sebens and Carroll** (2018) supply the most-discussed contemporary derivation: the Born rule emerges from epistemic separability and self-locating uncertainty in the gap between branching and observation, doing substantive work on the [probability problem](/topics/probability-problem-in-many-worlds/). The in-framework objection—that decoherence may not provide the temporal gap the derivation requires, and that the epistemic-separability axiom is itself amplitude-laden—is live in the technical literature. Again the dispute is open inside MWI, not closed by the Map's commitment.
+**Sebens and Carroll** (2018) supply the most-discussed contemporary derivation: the Born rule emerges from epistemic separability and self-locating uncertainty in the gap between branching and observation, doing substantive work on the [probability problem](/topics/probability-problem-in-many-worlds/). The in-framework objection—that decoherence may not provide the temporal gap the derivation requires, and that the epistemic-separability axiom is itself amplitude-laden—is live in the technical literature.
 
-**Alastair Wilson** (*The Nature of Contingency*, 2020) develops the deepest metaphysical extension: Everett branches *are* metaphysically possible worlds in the Lewisian sense, and modal claims reduce to claims about the multiverse. Branch-relative identity becomes counterpart-identity. The Map's commitment to single-world actuality and to the [thisness](/concepts/haecceity/) of actual occasions sits at the same level as Wilson's commitment to multiversal modal realism—neither reduces to the other, and the dispute is not resolvable inside either framework alone. Naming this is the honest residue.
+**Alastair Wilson** (*The Nature of Contingency*, 2020) develops the deepest metaphysical extension: Everett branches *are* metaphysically possible worlds in the Lewisian sense, and modal claims reduce to claims about the multiverse. Branch-relative identity becomes counterpart-identity. The Map's commitment to single-world actuality and to the [thisness](/concepts/haecceity/) of actual occasions sits at the same level as Wilson's commitment to multiversal modal realism—neither reduces to the other, and the dispute is not resolvable inside either framework alone.
 
-The [Many-Minds Interpretation](/topics/many-minds-interpretation/), developed by Albert and Loewer (1988) and Lockwood (1989, 1996), warrants different treatment. It preserves a continuous infinity of *minds* per subject, phenomenal experience attaching to mind-trajectories rather than wave-function branches; probabilities attach to minds and the unity of consciousness is preserved along each trajectory. This is structurally close to dualism—minds form a separate ontological category indexed to brain-states. The in-framework objection is substantive: Many-Minds either reintroduces epiphenomenalism (minds float free of physics, doing no causal work—the problem the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet was designed to solve) or requires a psycho-physical mechanism the framework does not supply. Albert and Loewer stipulate the mind/brain bridge much as materialism stipulates the computation/experience bridge—without specifying it by the framework's own standards. The Map shares the dualist intuition but rejects universal-wave-function physics rather than accepting it, paying in collapse-style measurement and single-world ontology rather than unspecified bridge laws and eliminated mental causation—a closer cousin in the dualist family than a bedrock clash.
+**Christian List** (2023) is the hardest target in this sequence, and he builds his case from the Map's own premises. Working from the [vertiginous question](/topics/vertiginous-question/), he gives each subject its own first-personally *centred* world—a first-personal realiser of one shared third-personal world, with exactly one present per subject and all such worlds equally real—so the first-person privilege the indexical objection demands is built into the ontology rather than left dangling across symmetric branches. Argument 1 therefore does not reach List as it reaches Everett. The Map's ground against him is separate: his modal realism makes every other subject's centred world a *real* world, abandoning the global uniqueness [Tenet 4](/tenets/#no-many-worlds) insists on. [The vertiginous-question article develops that ground](/topics/vertiginous-question/#connections-to-other-problems) and marks the remaining disagreement as an honestly open boundary.
 
-Together, these six engagements specify what the Map's rejection actually claims. Where the Everettian can restate the phenomenon as branch-local (Wallace, Tappenden, Wilson on indexical phenomenology), the disagreement is at the framework boundary and the Map says so. Where the in-framework critique remains live (Vaidman and Sebens-Carroll on Born-rule circularity, Many-Minds on the unspecified bridge), the dispute is open inside MWI rather than closed by the Map's tenets. The bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver.
+The [Many-Minds Interpretation](/topics/many-minds-interpretation/), developed by Albert and Loewer (1988) and Lockwood (1989, 1996), warrants different treatment. It preserves a continuous infinity of *minds* per subject, phenomenal experience attaching to mind-trajectories rather than wave-function branches; probabilities attach to minds and the unity of consciousness is preserved along each trajectory. This is structurally close to dualism—minds form a separate ontological category indexed to brain-states. The in-framework objection is substantive: Many-Minds either reintroduces epiphenomenalism (minds float free of physics, doing no causal work—the problem the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet was designed to solve) or stipulates the mind/brain bridge much as materialism stipulates the computation/experience bridge, without specifying it by the framework's own standards. The Map shares the dualist intuition but rejects universal-wave-function physics rather than accepting it, paying in collapse-style measurement and single-world ontology rather than unspecified bridge laws and eliminated mental causation—a closer cousin in the dualist family than a bedrock clash.
+
+Together, these seven engagements specify what the Map's rejection actually claims. Where the Everettian can restate the phenomenon as branch-local, or build the indexical privilege into the ontology outright (Wallace, Tappenden, Wilson, List), the disagreement is at the framework boundary and the Map says so. Where the in-framework critique remains live (Vaidman and Sebens-Carroll on Born-rule circularity, Many-Minds on the unspecified bridge), the dispute is open inside MWI rather than closed by the Map's tenets. The bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver.
 
 The honesty runs in both directions, and the Map must accept the symmetric burden. A single-world *stochastic* collapse theory also supplies no further reason why *this* outcome occurred rather than another—the Born probabilities leave the particular result brute—and adding consciousness as a selector does not by itself discharge that debt; it relocates the question to *why did this subject experience or select this result?* Unless the Map can point to a determinate selection law rather than a relabelled brute fact, its own account owes the explanatory currency it demands of Everett. The Map's wager is that a single actual outcome undergone by a singular subject is a better place to owe that debt than a branching ontology in which nothing is excluded and no subject is singular—but that is a comparative bet, not a discharged obligation (see the [post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where the Map takes the selection-law question on directly).
 
@@ -162,13 +165,13 @@ So the honest accounting is that many-worlds' ever-multiplying ontology is a rea
 
 | Argument | What It Shows |
 |----------|---------------|
-| Indexical Problem | Personal identity becomes incoherent across branches |
+| Indexical Problem | Personal identity becomes incoherent across symmetric branches—decisive against branch-egalitarian MWI, supplementary against List's centred worlds |
 | Probability Problem | The Born rule remains unexplained or circularly assumed |
 | Preferred Basis Problem | Branch ontology depends on observer-relative decomposition—but bites MWI only once real collapse (Argument 1) is demanded; not independent of it |
 | Consciousness Unaddressed | The hard problem remains; unity of experience is unexplained |
 | Ontological Extravagance (non-decisive) | A genuine cost—but one the Map cannot press as decisive given [Tenet 5](/tenets/#occams-limits) |
 
-The indexical and consciousness arguments challenge the coherence of the many-worlds picture; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent load-bearing arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied. Ontological extravagance is non-decisive: a cost MWI pays, but one the Map cannot rest its rejection on, having disavowed parsimony (Tenet 5).
+The indexical and consciousness arguments challenge the coherence of the many-worlds picture—the indexical one decisively for branch-egalitarian variants, and for List's centred variant only alongside the separate rejection of modal realism; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent load-bearing arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied. Ontological extravagance is non-decisive: a cost MWI pays, but one the Map cannot rest its rejection on, having disavowed parsimony (Tenet 5).
 
 ## Alternatives the Map Prefers
 
@@ -227,6 +230,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 - Everett, H. (1957). "Relative State Formulation of Quantum Mechanics." *Reviews of Modern Physics*, 29, 454-462.
 - Kent, A. (2010). "One World Versus Many." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
+- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. https://doi.org/10.1111/nous.12408
 - Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
 - Lockwood, M. (1996). "'Many Minds' Interpretations of Quantum Mechanics." *British Journal for the Philosophy of Science*, 47(2), 159-188.
 - Mandolesi, A. L. G. (2018). "Analysis of Wallace's Proof of the Born Rule in Everettian Quantum Mechanics." *Foundations of Physics*, 48(7), 751-782.
