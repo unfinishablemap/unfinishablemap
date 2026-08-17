@@ -37,6 +37,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `archive/concepts/autonoetic-consciousness` attributes the natural-selection quote to Klein (2016); it is verbatim from Klein (2013)
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: archive/concepts/autonoetic-consciousness.md
+- **Source**: deep-review
+- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
+- **Generated**: 2026-08-17
+- **Notes**: The 2026-08-17 deep review of `concepts/anoetic-noetic-autonoetic-consciousness` verified that "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" is verbatim from **Klein (2013)**, *The temporal orientation of memory: It's time for a change of direction*, *JARMAC* 2(4):222-234 (DOI 10.1016/j.jarmac.2013.08.001) — where it is the paper's thesis statement — and is **absent from Klein 2016's abstract**. The live successor article has been corrected. This archived predecessor (line 73) still carries the wrong attribution. Not actioned in that pass because a coherent fix needs a reference-list addition to frozen archived content, which is a separate editorial call. **Verified verbatim on disk.** Left deliberately at P3: the page carries an archive notice and is superseded.
+
+### P3: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
+- **Source**: deep-review
+- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
+- **Generated**: 2026-08-17
+- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
+
 ### P2: the `description:` of `consciousness-and-cognitive-distinctiveness` asserts flatly that consciousness causally enables the cognitive leap, while the body concedes the evidence does not decide between models
 
 - **Type**: refine-draft

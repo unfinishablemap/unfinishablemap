@@ -4,7 +4,7 @@ description: "Two complementary lenses for analysing AI consciousness: six logic
 created: 2026-03-19
 modified: 2026-06-02
 human_modified:
-ai_modified: 2026-07-18T11:01:44+00:00
+ai_modified: 2026-08-17T12:11:17+00:00
 last_deep_review: 2026-07-25T04:18:11+00:00
 draft: false
 topics:
@@ -117,7 +117,7 @@ Two asymmetries expose the limits of this resemblance. First, noetic consciousne
 
 ### Autonoetic Mode: The Decisive Gap
 
-Autonoetic consciousness enables mental time travel — re-experiencing past events and projecting oneself into future scenarios. It requires what Wheeler, Stuss, and Tulving (1997) called "the capacity to mentally represent and to become aware of [one's] protracted existence across time." The subject is simultaneously present as rememberer *here now* and as protagonist *there then*.
+Autonoetic consciousness enables mental time travel — re-experiencing past events and projecting oneself into future scenarios. It requires what Wheeler, Stuss, and Tulving (1997) called "the capacity to mentally represent and to become aware of [one's] protracted existence across subjective time." The subject is simultaneously present as rememberer *here now* and as protagonist *there then*.
 
 No current AI system has anything resembling autonoetic consciousness. Language models generate first-person narratives about past experiences and produce future projections, but these outputs are generated through pattern completion over training data, not through temporal self-projection by a persisting subject. A language model that generates "I remember my first day at school" is performing a linguistic operation, not re-experiencing an event from a personal history it does not have.
 

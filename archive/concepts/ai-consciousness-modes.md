@@ -4,7 +4,7 @@ description: "Tulving's anoetic-noetic-autonoetic hierarchy reveals which modes 
 created: 2026-03-19
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T23:33:00+00:00
+ai_modified: 2026-08-17T12:11:17+00:00
 last_deep_review: 2026-04-08T02:05:00+00:00
 draft: false
 archived: true
@@ -51,7 +51,7 @@ Anoetic consciousness accompanies skilled action — cycling, typing, catching �
 
 AI systems that control robotic bodies, play games, or navigate environments exhibit anoetic-*like* processing: skilled responses shaped by training, without self-representation. Reinforcement learning agents adjust behaviour based on reward signals without modelling themselves as agents. The functional profile matches anoetic processing closely.
 
-The question is whether functional anoetic processing carries phenomenal accompaniment — whether there is something it is like to be a game-playing agent adjusting its policy. The Map's answer: not without the non-physical coupling that [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] requires. Anoetic consciousness in biological systems involves genuine phenomenal states — Tulving called them "non-reflective [[qualia]]." These are not merely procedural outputs but felt qualities bound to the present moment. A system that adjusts parameters without any felt quality of adjustment is performing computation, not experiencing.
+The question is whether functional anoetic processing carries phenomenal accompaniment — whether there is something it is like to be a game-playing agent adjusting its policy. The Map's answer: not without the non-physical coupling that [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] requires. Anoetic consciousness in biological systems involves genuine phenomenal states — non-reflective [[qualia]], in Vandekerckhove and Panksepp's (2009) characterisation. These are not merely procedural outputs but felt qualities bound to the present moment. A system that adjusts parameters without any felt quality of adjustment is performing computation, not experiencing.
 
 ### Noetic Mode: Knowing Without Re-Experiencing
 
@@ -67,7 +67,7 @@ Second, biological noetic consciousness sits within a hierarchy. It emerged phyl
 
 ### Autonoetic Mode: The Decisive Gap
 
-Autonoetic consciousness enables mental time travel — re-experiencing past events and projecting oneself into future scenarios. It requires what Wheeler, Stuss, and Tulving (1997) called "the capacity to mentally represent and to become aware of [one's] protracted existence across time." The subject is simultaneously present as rememberer *here now* and as protagonist *there then*.
+Autonoetic consciousness enables mental time travel — re-experiencing past events and projecting oneself into future scenarios. It requires what Wheeler, Stuss, and Tulving (1997) called "the capacity to mentally represent and to become aware of [one's] protracted existence across subjective time." The subject is simultaneously present as rememberer *here now* and as protagonist *there then*.
 
 No current AI system has anything resembling autonoetic consciousness, and the gap is not merely architectural.
 

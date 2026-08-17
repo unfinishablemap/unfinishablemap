@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T11:11:04+00:00'
+ai_modified: '2026-08-17T12:11:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-17'
-lastmod: 2026-08-17 11:11:04+00:00
+lastmod: 2026-08-17 12:11:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-17 12:11 UTC - deep-review
+
+- **Status**: Success (content change)
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2850 → 2949 body (prose 2389 → 2472, apparatus 461 → 477; `analyze_length` reads 119% of the 2500 concepts target — reference-apparatus inflation, prose is under threshold)
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Lens**: quote and claim fidelity at primary texts. **Eighth review, and not a no-op** — five critical defects survived seven prior reviews, including a 2026-06-24 pass that recorded the Wheeler quote as "confirmed accurate against the source." Every reference entry was bibliographically correct; none of that vouched for the body prose.
+- **Critical fixes**:
+  - **Dropped qualifier inside a verbatim quote.** Wheeler, Stuss & Tulving (1997) wrote "protracted existence across **subjective** time" (*Psychological Bulletin* 121(3):335, verified in the published Rotman Research Institute copy). The article had "across time", no ellipsis — deleting the word that carries the philosophical weight. Restored, and the subjective/physical-time contrast is now stated. `topics/memory-channel-interface-evidence` had the correct wording all along.
+  - **Verbatim quote cited to the wrong work (1).** "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" was attributed to Klein (2016); it is verbatim from **Klein (2013)**, *JARMAC* 2(4):222-234, where it is the thesis statement. Absent from Klein 2016's abstract. Re-attributed, reference added, Klein 2016 retained for "causally determinative factor" (verified verbatim). Origin traced to `research/autonoetic-consciousness-2026-02-24`, which files the quote under a "Klein (2016)" heading — annotated in place.
+  - **Verbatim quote cited to the wrong work (2).** `his mind was "blank" (Tulving, 2002)`: direct grep of Tulving 2002 full text returns **0** occurrences of `blank` and **0** of `tomorrow`. Tulving 2002 cites **(Tulving 1985b)** for the finding, and its own reference list resolves 1985b to "Memory and consciousness. Can. Psychol. 26:1-12" — already in our references. Re-cited to Tulving (1985); the bullet's other K.C. claims genuinely are Tulving 2002's, so both citations now sit on the claims they support. Did **not** extend the quote to the reported "Blank, I guess" — that rests on a secondary source only.
+  - **Polarity inversion.** The article had Dokic (2014) exemplifying the *epistemic* strand via a metacognitive "feeling of pastness". Sant'Anna, Michaelian & Andonovski (2024) — cited two sentences earlier — places Dokic in **§4 METACOGNITIVE**, names his term the "**episodic feeling of knowing**" (2014a:413), and says outright "**Unlike Dokic**, they maintain that autonoesis is best characterized as a feeling of pastness rather than as a feeling of knowing." Pastness is **Perrin and colleagues'**. The article had attributed to Dokic the view its own source says he rejects, while internally calling an "epistemic" account "metacognitive". Rewritten to the source's taxonomy. **Regression traced to the coalesce**: the archived predecessor `archive/concepts/autonoetic-consciousness` and the research note both had it right.
+  - **Empirical claim mis-stated.** "emerges between ages four and six (Suddendorf & Corballis, 2007)" — `six`/`age 6`/`six years` occur **0 times** in the full 53-page BBS article; S&C say "around age 4". Corrected. The 4-6 window is legitimately Perner & Ruffman (1995), correctly cited as such in `voids/infant-consciousness` — right figure, wrong paper. Left the void article alone and recorded the split so a future pass does not reconcile them into one wrong number.
+- **Medium fixes**: Wixted & Mickes (2010) had been described as modelling "a single memory-strength variable", colliding with their own title (*A continuous **dual-process** model*) and their explicit retention of dual-process theory — re-framed, not deleted, with their deflation kept in its actual scope ("as ordinarily used"). Evidence-kind/decisive-assumption disclosure applied at four load points (Palombo's **three**-case series and its prevalence limit; S&C as a review; Wixted & Mickes as signal-detection analysis; Klein 2016 as conceptual analysis "rather than by new experiment").
+- **Length-neutral payment**: cut a duplicated remember/know gloss (the paradigm was explained twice in near-identical terms) and a closing paragraph that re-listed the three challenge bullets directly above it.
+- **Leads that came back FALSE (clean)**: the V&P "non-reflective qualia" locus flagged for special scrutiny is **correct** in the target and across the live tree (attributed paraphrase, unquoted — the 2026-04-05/07-12 fixes held); Zaman et al. 2024 exact at primary text including N=342; Sant'Anna's immediacy/source mapping for all three frameworks accurate clause by clause; "pastness quale"/"double presence"/"feeling of remembering" are correctly-handled unattributed Map vocabulary; Klein's "causally determinative factor" verbatim. `find_superlative_claims`: 0.
+- **Family resolution**: `concepts/ai-consciousness-typology` (Wheeler quote), `research/autonoetic-consciousness-2026-02-24` (Klein source annotated), `archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence` (Wheeler quote), `archive/concepts/ai-consciousness-modes` (Wheeler quote + de-quoted "non-reflective qualia" from Tulving to Vandekerckhove & Panksepp — the last such locus in the repo).
+- **Engagement modes**: De Brigard — Mode Three, unchanged; physicalist phase-transition — Mixed Two/Three, unchanged; Wixted & Mickes / Zaman deflationary engagement — Mode One, strengthened, since the accurate framing concedes more and the argument still holds.
+- **Method note**: unfinishablemap.org ranked first or second for both misquotes, and each read as "confirmed" until our own domain was blocked — at which point the correct wording surfaced immediately. Block the Map's domains when verifying quotes in this cluster.
+- **Output**: [deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness/)
 
 ## 2026-08-17 11:25 UTC - refine-draft
 

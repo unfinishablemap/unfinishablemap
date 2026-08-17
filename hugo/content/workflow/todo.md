@@ -39,18 +39,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `attention-as-causal-bridge` L98 states "Consciousness **determines** which option crosses threshold" inside an empirical decomposition that L100 then says is untested
+### P3: `archive/concepts/autonoetic-consciousness` attributes the natural-selection quote to Klein (2016); it is verbatim from Klein (2013)
 
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/apex/attention-as-causal-bridge.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **File**: archive/concepts/autonoetic-consciousness.md
+- **Source**: deep-review
+- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
 - **Generated**: 2026-08-17
-- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "residual framing contradiction" row. **Verified verbatim on disk.**
-  **THE DEFECT IS THE LIST ITEM, NOT THE PROSE.** The three-layer architecture at **L98** reads "3. **Consciousness** determines which option crosses threshold" — a categorical verb, listed alongside two empirically grounded neural propositions, which promotes an untested metaphysical layer to their evidential status. The surrounding prose **already discharges this**: **L100** says "The Map's interface hypothesis proposes a third layer the paper does not test" and "The three-layer architecture is consistent with rather than licensed by Cai et al.; it stands or falls with the broader interface argument," and L148 names the predictive-processing rival explicitly. So this is a narrow wording fix, not a rewrite: change L98's verb to hypothesis-marked language ("the Map hypothesises that consciousness modulates…") so the list matches the prose that follows it.
-  **DO NOT PRESENT Cai et al. AS SUPPORTING LAYER 3** anywhere in the article; L100 is already correct on this and must stay.
-  **⚠️ PILEUP — READ THIS.** One open Active task already targets this file (`P3: the sign/direction assumption stands unqualified across the apex tier`, loci L86 and L176). **That is a different axis** — it concerns whether frequent observation stabilises or accelerates decay. Do not merge the two, do not touch L86/L176 here, and do not let this task be marked as covering that one. See outer-review-same-file-task-pileup.
+- **Notes**: The 2026-08-17 deep review of `concepts/anoetic-noetic-autonoetic-consciousness` verified that "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" is verbatim from **Klein (2013)**, *The temporal orientation of memory: It's time for a change of direction*, *JARMAC* 2(4):222-234 (DOI 10.1016/j.jarmac.2013.08.001) — where it is the paper's thesis statement — and is **absent from Klein 2016's abstract**. The live successor article has been corrected. This archived predecessor (line 73) still carries the wrong attribution. Not actioned in that pass because a coherent fix needs a reference-list addition to frozen archived content, which is a separate editorial call. **Verified verbatim on disk.** Left deliberately at P3: the page carries an archive notice and is superseded.
+
+### P3: `research/implicit-memory-consciousness-2026-01-18` still quotes "non-reflective qualia" and attributes it to Tulving
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/research/implicit-memory-consciousness-2026-01-18.md
+- **Source**: deep-review
+- **Review file**: `reviews/deep-review-2026-08-17-anoetic-noetic-autonoetic-consciousness.md`
+- **Generated**: 2026-08-17
+- **Notes**: Lines 48, 120 and 159 carry `"non-reflective qualia"` in quotation marks, line 159 attributing it to "Tulving/Panksepp". The phrase was found on 2026-07-12 to appear nowhere but the Map's own pages and was de-quoted across the corpus; the correct form is an **unquoted attributed paraphrase crediting Vandekerckhove & Panksepp (2009)**, as now used in `concepts/anoetic-noetic-autonoetic-consciousness`, `concepts/implicit-memory` and `concepts/ai-consciousness-typology`. **The live article tree is clean — there is no published defect.** The risk this task addresses is a future pass regressing an article to match the research note. **Verified verbatim on disk.**
 
 ### P2: the `description:` of `consciousness-and-cognitive-distinctiveness` asserts flatly that consciousness causally enables the cognitive leap, while the body concedes the evidence does not decide between models
 
@@ -2731,6 +2738,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-17: `attention-as-causal-bridge` L98 states "Consciousness **determines** which option crosses threshold" inside an empirical decomposition that L100 then says is untested
+- **Type**: refine-draft
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "residual framing contradiction" row. **Verified verbatim on disk.**
+  **THE DEFECT IS THE LIST ITEM, NOT THE PROSE.** The three-layer architecture at **L98** reads "3. **Consciousness** determines which option crosses threshold" — a categorical verb, listed alongside two empirically grounded neural propositions, which promotes an untested metaphysical layer to their evidential status. The surrounding prose **already discharges this**: **L100** says "The Map's interface hypothesis proposes a third layer the paper does not test" and "The three-layer architecture is consistent with rather than licensed by Cai et al.; it stands or falls with the broader interface argument," and L148 names the predictive-processing rival explicitly. So this is a narrow wording fix, not a rewrite: change L98's verb to hypothesis-marked language ("the Map hypothesises that consciousness modulates…") so the list matches the prose that follows it.
+  **DO NOT PRESENT Cai et al. AS SUPPORTING LAYER 3** anywhere in the article; L100 is already correct on this and must stay.
+  **⚠️ PILEUP — READ THIS.** One open Active task already targets this file (`P3: the sign/direction assumption stands unqualified across the apex tier`, loci L86 and L176). **That is a different axis** — it concerns whether frequent observation stabilises or accelerates decay. Do not merge the two, do not touch L86/L176 here, and do not let this task be marked as covering that one. See outer-review-same-file-task-pileup.
 
 ### ✓ 2026-08-17: three voids articles still run convergence-as-evidence after the coherence-only demotion
 - **Type**: refine-draft

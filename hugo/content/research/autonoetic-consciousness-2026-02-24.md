@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-24
-date: '2026-02-24'
+date: '2026-08-17'
 draft: false
-lastmod: 2026-02-24 00:00:00+00:00
+lastmod: 2026-08-17 00:00:00+00:00
 related_articles: []
 title: Research Notes - Autonoetic Consciousness
 ---
@@ -64,7 +64,7 @@ Autonoetic consciousness — the self-knowing awareness that enables mental time
   - Even without episodic memory, semantic self-referential memory can support some future-oriented mental time travel
   - Distinguishes sharply between content (what is remembered) and manner of experiencing (autonoetic awareness during retrieval)
 - **Tenet alignment**: Supports Bidirectional Interaction — autonoesis enables causal influence on future behavior through temporal self-projection
-- **Quote**: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies"
+- **Quote** — note this line is from Klein's *earlier* 2013 paper, "The temporal orientation of memory: It's time for a change of direction" (*Journal of Applied Research in Memory and Cognition* 2(4), 222-234), **not** the 2016 paper: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies"
 
 ### Tulving (1985) — Memory and Consciousness
 - **URL**: (original paper; referenced across sources)
