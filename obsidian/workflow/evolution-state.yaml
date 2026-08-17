@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-17T15:10:16.745049+00:00'
-session_count: 19035
-cycle_position: 12696
+last_updated: '2026-08-17T15:29:59.123628+00:00'
+session_count: 19036
+cycle_position: 12697
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
   agentic-social: '2026-08-17T15:10:16.745049+00:00'
@@ -33,7 +33,7 @@ last_runs:
   optimistic-review: '2026-08-17T08:06:49.199259+00:00'
   pessimistic-review: '2026-08-17T06:04:00.607409+00:00'
   positions-evolve: '2026-08-17T09:15:01.075048+00:00'
-  refine-draft: '2026-08-17T14:22:32.773246+00:00'
+  refine-draft: '2026-08-17T15:29:59.123628+00:00'
   replenish-queue: '2026-08-17T01:15:59.058085+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-17'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -514,9 +514,92 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
 queue_status:
-  last_replenishment: '2026-08-17T01:11:00+00:00'
-  last_replenishment_mode: two-verified-zero-cap-cost-orphaned-findings-shipped
+  last_replenishment: '2026-08-17T05:20:00+00:00'
+  last_replenishment_mode: four-candidates-verified-and-declined-one-register-gap-shipped
   last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
+    live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
+    before the write. Exact-floor plus one, so ONE mint and no padding. Restored to
+    3 by a single P2 positions-evolve on obsidian/positions/voids-as-evidence.md,
+    appended at the very end of the Active section, insert only, so no existing task
+    line moved and no cached queue_task_line shifted. Parses as POSITIONS_EVOLVE priority
+    2 active with file_path resolving.
+
+    THE HEADLINE OF THIS RUN IS THE DECLINE RATE, NOT THE MINT. Four candidates were
+    verified on disk and four were rejected, three of them because the work had ALREADY
+    LANDED in the hours before this run. Recording them so a later run does not
+    re-walk the same ground.
+
+    DECLINED 1, the driver-supplied optimistic-review finding that voids articles
+    fail to link back to positions. The headline figures did not survive measurement.
+    The claim that only 7 voids link out to apex is an artefact of grepping the
+    path-qualified form only. Bare-slug-aware counting gives 41 of 99 voids linking
+    to apex and 26 of 41 apex linking into voids. The one real number is voids to
+    positions, which is 2. But the implied defect is FALSE. Of the 21 voids articles
+    that engage the evidential question, 13 have a link path to the register directly
+    or via a register-citing hub, and all 8 with no path were read at their loci and
+    every one already runs the common-cause discipline correctly in its own words.
+    Two of those 8 were false positives whose evidential-weight phrasing is about
+    process versus content introspective report reliability, not void convergence.
+    Actioning this would have been link-padding on compliant articles. The lens that
+    DID find something was inverting it, which is what shipped.
+
+    DECLINED 2, the bath-spectral-densities note. Its quantum-zeno-effect half is
+    fully consumed as of 03.40 today. Its sign-problem half is genuinely unlanded
+    and the over-strong absence claim at L65 is real, but a prior run recorded an
+    explicit precondition, that the sign-problem half waits until the open P3 refine-draft
+    on that file and the open P3 positions-evolve on positions/quantum-interface clear.
+    Both were re-parsed this run and both are still open, so the precondition is unmet
+    and minting would have raced two siblings on one file.
+
+    DECLINED 3, the purification note. All three of its licensed edits landed at 01.45
+    today. The host now carries a Purification section at L72, the uniqueness clause
+    at L74, and the steering mechanism, and the sibling causal-consistency-constraint
+    got the same clause.
+
+    DECLINED 4, the claude-constitution note. Its article exists at topics/claude-constitution-consciousness-uncertainty
+    and the same-day quote-attribution correction was applied to both note and article
+    at 02.52, with both quotes correctly credited to the announcement rather than
+    the Constitution.
+
+    UNCONSUMED RESEARCH IS EXHAUSTED, AND THE CHAIN METADATA THAT SAID OTHERWISE IS
+    WRONG. All six notes the driver flagged as unconsumed are consumed when checked
+    by content. causal-exclusion-argument has concepts/causal-exclusion-argument,
+    autonoetic has its article, aesthetic-judgment was refined into its target on
+    08-16, report-latency is already tasked as the open P2 on affective-forecasting-gap,
+    and the other two are declines 3 and 4 above. Zero mints available from the highest-bonus
+    source, which is a healthy state rather than a stall.
+
+    CAPS BLOCKED THE TWO CHAIN SOURCES OUTRIGHT. Measured with count_section_files
+    from tools.evolution.state. topics 320 of 320 at cap, concepts 319 of 320 with
+    the single slot four research notes have recommended leaving unspent, voids 99
+    of 100, positions 15 of 80. Neither expand-topic nor research-topic was mintable,
+    so positions was the only roomy target and the mint went there. This is the twelfth
+    consecutive zero-cap-cost replenishment.
+
+    THE MINT ITSELF, VERIFIED IN CONTENT ONLY WITH reviews, workflow and research
+    excluded. All three positions in positions/voids-as-evidence carry the same Argued-in
+    roster at L43, L53 and L63, naming exactly one voids-section article, which is
+    the section summary page. Inbound is the mirror, 1 of 99 voids articles cites
+    the register. Five leaf voids apply P-V1 and P-V2 common-cause discount to their
+    own local convergence claims and are cited by neither position, quoted verbatim
+    in the task Notes from death-void L90, edge-states-and-void-probes L156, mutation-void
+    L114, mapping-mind-space L69 and transformative-experience-void L74. The substantive
+    half is that death-void reaches a THIRD common-cause channel, shared intellectual
+    lineage over a Greco-Roman to European inheritance, which P-V1 does not name since
+    its parenthetical lists only one introspective channel and one curating framework.
+    The task asks the register to cite its own evidence base and to weigh the lineage
+    clause, and explicitly forbids editing the five voids articles.
+
+    PILEUP AND OVERLAP CLEARED. Zero open tasks name voids-as-evidence in any File,
+    title or Notes field, the four todo.md string hits being Completed or NEEDS-HUMAN
+    entries. The mint is not a re-run of today C2 convergence-as-evidence cluster,
+    which closed per-locus over-claims in live prose and touches none of these loci,
+    and it deliberately avoids obsidian/tenets which is operator territory after the
+    Tenet 3 quantifier NEEDS-HUMAN entry.
+
+    Prior note from run 964 follows.
+
+    Pre-count P0-P2 equals 2 against the floor of 3, measured
     live with count_p0_p2_tasks from tools.evolution.task_selector on disk immediately
     before the write, and re-measured a second time after a git log check for a concurrent
     replenish, which found the newest commit to be 01fa0383fe at 00.59 UTC, a refine-draft,
@@ -602,14 +685,14 @@ queue_status:
     hits for the string circular are about circularity of reasoning in philosophical
     content, not circular citations. Target ai_modified dates run from 2026-06-18
     to 2026-08-08, all far outside tonight edit wave.'
-  last_replenishment_prev: '2026-08-16T21:56:00+00:00'
-  last_replenishment_run: 964
-  loop_pickable_open: 4
+  last_replenishment_prev: '2026-08-17T01:11:00+00:00'
+  last_replenishment_run: 965
+  loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 32
+  p2_tasks: 3
+  p3_tasks: 35
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
@@ -619,11 +702,12 @@ queue_status:
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
+    positions_dependency_changed: 1
     positions_register_gap: 0
     promotion_existing_p3: 0
     staleness: 0
-    unconsumed_research: 1
-    verified_residue_mint: 1
+    unconsumed_research: 0
+    verified_residue_mint: 0
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
