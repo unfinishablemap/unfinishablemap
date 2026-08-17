@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T17:58:11+00:00'
+ai_modified: '2026-08-17T19:01:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 19:01 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[apex/ai-as-introspection-control]]
+- **Review context**: [[reviews/pessimistic-2026-08-17-ai-as-introspection-control]] Issues 1-4, with 7 and 8 as free riders. Issues 5 (J-space verbalizability / venue caveat) and 6 (Gurnee reference form) explicitly out of scope per the task.
+- **Length**: 4517w → **4516w** (`soft_warning` both before and after; apex soft 4000 / hard 5000). Length-neutral as required. Decomposition: reference apparatus is 552w (Source Articles 196 + Further Reading 137 + References 219), so prose body is ~3960 — under the soft threshold. The `soft_warning` on this file is largely a reference-apparatus artefact ([[analyze-length-counts-reference-apparatus]]); the yt-embed `<details>` boilerplate adds ~44w more.
+- **Changes**:
+  - **Issue 1 (High)** — L115: carved the designed anti-correlation test out of the blanket verbal-confidence quarantine, stating that its signature is a *relation* between a report and the internal evidence the report fails to track, so reading confidence off activations measures one side and leaves nothing to invert against it; its gameability is handled by the source article's named controls (held-out vocabularies, adversarially-trained self-report regimes, activation-patching, cross-model comparison, preregistered negative controls) rather than by discarding the channel. The general sorting is preserved ("Elsewhere the instrument earns its keep where it stops trusting the report"). L91: replaced the "softmax distributions, log-probabilities" gloss — which settled the own-report question by fiat toward the token-probability option — with the imported caveat that *which* signal counts as the system's own confidence (verbal report, token probability, calibration head) is not yet principled, and the affordance's sharpness waits on that.
+  - **Issue 2 (Medium-High)** — named the third region (opacity specific to evolved biological self-models, witnessless like the generic reading and architecture-specific like the witness reading) once at L79. L103's negative branch now credits "the inversion is architecture-specific rather than generic" and marks the further step to the witness as needing an argument the article does not supply. L107's exhaustiveness softened ("though they do not exhaust the explanations available"; "becomes observable, if it is real"). Two further surfaces the review listed were fixed for consistency: the L63 lead (now a three-item list) and the L152 Synthesis; `apex_thesis` likewise.
+  - **Issue 3 (Medium-High)** — L87 rewritten into L101's conditional form carrying the demonstration requirement and the "loses nothing essential" clause, with the reference class made explicit (self-models with access to their own tags, not databases sitting alongside them). "and this is the load-bearing point" deleted. Net −20w.
+  - **Issue 4 (Medium)** — lead's "for the first time" replaced with "at a resolution and manipulability no biological near-analogue reaches". The narrow L93 settable-tag claim preserved verbatim.
+  - **Free riders** — reworded the "This is not X. It is Y." construct at all four flagged surfaces: `description`, `apex_thesis`, lead pivot ("AI systems double as *contrast instruments*"), and the L109 heading (now "Why the Instrument Licenses No Consciousness Verdict"; no anchor in the corpus referenced the old one). Also at L65 and L135. J-space forward reference at L127 now carries a named anchor to the falsifier section. All three `load-bearing` instances removed (grep 0).
+  - **Funding trims** (to hold length neutral): deleted the L123 sentence duplicating L81's void-explorer contrast verbatim in substance; compressed the L121 closer, the L113 tier restatement, the L133 separability restatement, and ~8 smaller redundancies. No argument was removed.
+- **Engagement classification**: not applicable — the article's principal opponent (the generic bounded-self-model reading) is a position rather than a named theorist, and the review's reasoning-mode check already cleared the file for boundary-substitution. The Issue 2 fix strengthens that clearance by refusing a credit the article had not earned.
+- **Not done**: the review also observed (Issue 2, final paragraph) that the falsifier list has no falsifier for "the differential pattern is real and has a third explanation". Adding one costs ~35w and the neutral-length constraint bound; the third region is now named at five surfaces but has no dedicated falsifier bullet. Worth a later slot.
+- **Published**: yes
 
 ## 2026-08-17 18:45 UTC - pessimistic-review
 
