@@ -32,7 +32,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[the-quantitative-comprehension-void]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[death-void]]'
 - '[[smoothness-and-continuity]]'
 - '[[phenomenology-of-cognitive-limit-types]]'

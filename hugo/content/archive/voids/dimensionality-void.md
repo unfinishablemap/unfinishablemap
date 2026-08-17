@@ -25,7 +25,7 @@ original_path: /voids/dimensionality-void/
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[scale-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[intrinsic-nature-void]]'
@@ -64,7 +64,7 @@ Several independent theoretical lines converge on the possibility that phenomena
 
 ## A Second-Order Void
 
-What distinguishes the dimensionality void from other cognitive limits is its recursive structure. Most voids concern first-order ignorance: there is a fact, and we cannot access it. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) concerns what matter is in itself. The [mind-space-void](/voids/mapping-mind-space/) concerns where we fall in the landscape of possible minds. In each case, we can at least formulate the question we cannot answer.
+What distinguishes the dimensionality void from other cognitive limits is its recursive structure. Most voids concern first-order ignorance: there is a fact, and we cannot access it. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) concerns what matter is in itself. The problem of [mapping mind-space](/voids/mapping-mind-space/) concerns where we fall in the landscape of possible minds. In each case, we can at least formulate the question we cannot answer.
 
 The dimensionality void operates one level deeper. If phenomenal experience has dimensions beyond those we can introspect, then:
 
@@ -101,7 +101,7 @@ The dimensionality void connects directly to the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [voids](/voids/) — The framework for investigating cognitive limits
-- [mind-space-void](/voids/mapping-mind-space/) — Why we cannot locate ourselves in the space of possible minds
+- [Mapping Mind-Space](/voids/mapping-mind-space/) — Why we cannot locate ourselves in the space of possible minds
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond relational description
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether some concepts are permanently inaccessible

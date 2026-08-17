@@ -11,7 +11,7 @@ concepts:
 - '[[working-memory]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[baseline-cognition]]'
 - '[[access-consciousness]]'
@@ -107,7 +107,7 @@ The [filter model](/concepts/filter-theory/) accommodates this naturally. If con
 ## Further Reading
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and the selection model
-- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry
 - [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
 - [working-memory](/concepts/working-memory/) — The workspace where conscious processing operates
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement

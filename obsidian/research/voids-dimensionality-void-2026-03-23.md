@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Dimensionality Void"
 created: 2026-03-23
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-08-17T22:55:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[scale-void]]"
   - "[[architecture-of-cognitive-closure]]"
   - "[[intrinsic-nature-void]]"

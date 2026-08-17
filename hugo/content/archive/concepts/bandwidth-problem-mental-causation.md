@@ -14,7 +14,7 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-laws]]'
 - '[[attention-as-interface]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-23
 date: &id001 2026-03-01

@@ -21,7 +21,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[developmental-cognitive-closure]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

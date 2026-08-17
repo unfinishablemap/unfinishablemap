@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-08-02 08:03:21+00:00
+ai_modified: 2026-08-17 22:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,13 +13,13 @@ date: &id001 2026-03-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-08-17 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[other-minds-void]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[intersubjective-void]]'
 - '[[synesthetic-void]]'
 - '[[ai-as-void-explorer]]'

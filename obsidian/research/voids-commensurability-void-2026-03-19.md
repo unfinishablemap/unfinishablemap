@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Commensurability Void"
 created: 2026-03-19
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-08-02T08:03:21+00:00
+ai_modified: 2026-08-17T22:55:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[other-minds-void]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[intersubjective-void]]"
   - "[[synesthetic-void]]"
   - "[[ai-as-void-explorer]]"

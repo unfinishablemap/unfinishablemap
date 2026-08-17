@@ -12,7 +12,7 @@ topics:
   - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[bandwidth-problem-mental-causation]]"
-  - "[[asymmetric-bandwidth-consciousness]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[interactionist-dualism]]"

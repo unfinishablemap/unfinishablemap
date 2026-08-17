@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-29 12:00:00+00:00
+ai_modified: 2026-08-17 22:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,12 +12,12 @@ date: &id001 2026-03-23
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-05-29 12:00:00+00:00
+lastmod: 2026-08-17 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[scale-void]]'
 - '[[architecture-of-cognitive-closure]]'
 - '[[intrinsic-nature-void]]'

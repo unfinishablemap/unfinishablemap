@@ -32,7 +32,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[developmental-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 superseded_by: /voids/architecture-of-cognitive-closure/
 title: The Limits of Conceptual Acquisition
 topics:

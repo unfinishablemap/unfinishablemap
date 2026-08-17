@@ -14,7 +14,7 @@ concepts:
 - '[[preemption]]'
 - '[[observational-closure]]'
 - '[[psychophysical-laws]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 created: 2026-04-15
 date: &id001 2026-04-15
 description: A physical state's default causal profile is the pattern of effects it
@@ -112,7 +112,7 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework for mind-body laws
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling, starting with Born-rule preservation
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at quantum indeterminacies must be conscious
-- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint shaping which portions of the default profile experience preempts
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint shaping which portions of the default profile experience preempts
 
 ## References
 

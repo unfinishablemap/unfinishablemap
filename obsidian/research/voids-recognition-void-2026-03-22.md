@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Recognition Void"
 created: 2026-03-22
 modified: 2026-03-22
 human_modified: null
-ai_modified: 2026-03-22T13:32:00+00:00
+ai_modified: 2026-08-17T22:55:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -15,7 +15,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[architecture-of-cognitive-closure]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[framework-void]]"
   - "[[conceptual-impossibility]]"
 ai_contribution: 100

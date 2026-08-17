@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-03 05:26:55+00:00
+ai_modified: 2026-08-17 22:55:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 concepts: []
 created: 2026-05-05
-date: '2026-08-03'
+date: '2026-08-17'
 draft: false
-lastmod: 2026-08-03 05:26:55+00:00
+lastmod: 2026-08-17 22:55:00+00:00
 related_articles: []
 title: 'Research Notes - Selection-Only Mind-Influence: Information-Transfer Limits
   and Physical-World Signatures'
@@ -375,8 +375,7 @@ Strong direct connections (article should wikilink):
 - `[[post-decoherence-selection]]` and `[[post-decoherence-selection-programme]]` — locates *where* selection happens; this article specifies *what* it can and cannot do.
 - `[[trilemma-of-selection]]` — names the structural choice that selection-only resolves in a specific way.
 - `[[motor-selection]]` and `[[attention-as-selection-interface]]` — operationalised cases of selection.
-- `[[bandwidth-of-consciousness]]` and `[[consciousness-bandwidth-architecture]]` — the macroscopic bandwidth target (10 bits/s).
-- `[[asymmetric-bandwidth-consciousness]]` — directly relevant: physical→mind vs. mind→physical asymmetry.
+- `[[bandwidth-of-consciousness]]` and `[[consciousness-bandwidth-architecture]]` — the macroscopic bandwidth target (10 bits/s), and the directly relevant physical→mind vs. mind→physical asymmetry.
 - `[[conservation-laws-and-mental-causation]]` — selection-only is the canonical answer to the energy-conservation objection.
 - `[[interactionist-dualism]]` — selection-only is the strictest version compatible with orthodox QM.
 - `[[the-interface-problem]]` and `[[interface-specification-programme]]` — the article's distinguishing-observables table is an Interface Specification Programme contribution.

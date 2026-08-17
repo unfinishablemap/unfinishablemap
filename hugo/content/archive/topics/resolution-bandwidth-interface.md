@@ -9,7 +9,7 @@ archived_date: 2026-04-12 12:57:00+00:00
 author: null
 concepts:
 - '[[bandwidth-problem-mental-causation]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'

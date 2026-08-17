@@ -20,7 +20,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[three-kinds-of-void]]"
   - "[[evolved-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"

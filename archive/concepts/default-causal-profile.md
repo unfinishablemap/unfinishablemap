@@ -15,7 +15,7 @@ concepts:
   - "[[preemption]]"
   - "[[observational-closure]]"
   - "[[psychophysical-laws]]"
-  - "[[asymmetric-bandwidth-consciousness]]"
+  - "[[consciousness-bandwidth-architecture]]"
 related_articles:
   - "[[delegatory-dualism]]"
   - "[[delegation-meets-quantum-selection]]"
@@ -108,7 +108,7 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 - [[psychophysical-laws]] — The broader framework for mind-body laws
 - [[consciousness-physics-interface-formalism]] — Five constraints on any consciousness-physics coupling, starting with Born-rule preservation
 - [[trilemma-of-selection]] — Why selection at quantum indeterminacies must be conscious
-- [[asymmetric-bandwidth-consciousness]] — The bandwidth constraint shaping which portions of the default profile experience preempts
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The bandwidth constraint shaping which portions of the default profile experience preempts
 
 ## References
 
