@@ -4,7 +4,7 @@ description: "Forgetting is often an act, not a failure. The Map examines the fe
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-08-16T08:07:01.713017+00:00
+ai_modified: 2026-08-17T07:00:05+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-20
 last_curated:
-last_deep_review: 2026-07-07T03:16:58+00:00
+last_deep_review: 2026-08-17T07:00:05+00:00
 embedded_videos:
   - id: xb9G4VcIhlo
     url: https://www.youtube-nocookie.com/embed/xb9G4VcIhlo
@@ -80,7 +80,7 @@ The science describes the *correlate* of controlled forgetting—prefrontal acti
 
 **Letting a memory go.** Distinct from pushing away is *releasing*—the gentler act of declining to hold onto something, allowing it to recede. This is closest to what Ricoeur (2004), drawing on Husserlian phenomenology, treats under the heading of a *forgetting held in reserve*: forgetting and remembering as reciprocal rather than opposed, with letting go functioning less as loss than as a condition of a mind that can move on. Ricoeur poses, but does not simply affirm, the question of whether there can be a "happy forgetting" paralleling happy memory; he is wary of any *ars oblivionis* that would license complacency before the wearing-away of time. The releasing texture this article names is the experiential side of that reserve, not a claim that forgetting is straightforwardly happy.
 
-**A name dissolving.** The tip-of-the-tongue state is the phenomenology of *incipient* forgetting—a memory caught in the act of slipping. William James (1890) described it as a gap that is intensely active, "a wraith of the name" beckoning in a particular direction. The felt quality is positive, not a blank: a shaped absence with edges, a metacognitive *feeling of knowing* distinct from the (failed) retrieval itself.
+**A name dissolving.** The tip-of-the-tongue state is the phenomenology of *incipient* forgetting—a memory caught in the act of slipping. William James (1890) described it as a gap that is intensely active, "a sort of wraith of the name" beckoning in a particular direction. The felt quality is positive, not a blank: a shaped absence with edges, a metacognitive *feeling of knowing* distinct from the (failed) retrieval itself.
 
 **The effort that has no object.** Hardest to report is the act of suppression *when it works*. One sets out not to think of something and, if successful, there is increasingly less to be aware of suppressing. The phenomenology thins toward vanishing—which is exactly why successful forgetting is so difficult to study from the first person, and where this article brushes against the erasure void.
 
@@ -100,7 +100,7 @@ Both layers demonstrably exist. Conflating them—treating intrinsic dopamine-dr
 
 ## Relation to Site Perspective
 
-Volitional forgetting is one of the cleanest everyday candidates for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], the Map's third tenet: consciousness causally influencing the physical world. The structure is exactly the one the tenet describes. An intention—a conscious content, "don't retrieve this"—is followed by a measurable, lasting change in the physical retrievability of a memory trace. If that intention is doing genuine causal work, then a non-physical (or at least irreducibly mental) act is reaching down into neural tissue and altering it. The clinical extension sharpens the stakes: people with post-traumatic stress disorder show *deficient* suppression-induced forgetting, and suppression training can relieve symptoms—so the act has real consequences for a life, not merely a lab score.
+Volitional forgetting is one of the cleanest everyday candidates for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], the Map's third tenet: consciousness causally influencing the physical world. The structure is exactly the one the tenet describes. An intention—a conscious content, "don't retrieve this"—is followed by a measurable, lasting change in the physical retrievability of a memory trace. If that intention is doing genuine causal work, then a non-physical (or at least irreducibly mental) act is reaching down into neural tissue and altering it. The clinical extension sharpens the stakes: people with post-traumatic stress disorder show *deficient* suppression-induced forgetting (Catarino et al., 2015), and a training study found that practising suppression relieved symptoms of anxiety and post-traumatic stress (Mamat & Anderson, 2023)—so the act has real consequences for a life, not merely a lab score.
 
 The case must be stated with the Map's standard caution against [[concepts/epiphenomenalism|epiphenomenalism's]] best reply. An epiphenomenalist will say the "intention" is itself just a brain state, and the trace-weakening is one brain state altering another, with the felt intention merely along for the ride. The neuroscience is compatible with that reading: prefrontal-hippocampal inhibition and hippocampal GABA describe a physical-physical chain that needs no mental causation. As the Map holds elsewhere, the conversation about consciousness *suggests* downward causation without exhibiting it from inside—and the felt agency of suppressing is not first-person-verifiable as a cause (see the [[agency-void|agency void]] on this verification circularity). What the neuroscience *cannot* supply is the felt agency itself: it explains the correlate of "not thinking," not what it is like to do the not-thinking. That hard-problem residue—the felt act for which the substrate is only the correlate—is the dualist seam this article exploits, and it is under-theorised in the literature itself.
 
@@ -128,8 +128,10 @@ The honest position is calibrated. The volitional layer is a *candidate* for dow
 5. Davis, R. L., & Zhong, Y. (2017). The biology of forgetting—A perspective. *Neuron*, 95(3), 490–503. https://doi.org/10.1016/j.neuron.2017.05.039
 6. Schmitz, T. W., Correia, M. M., Ferreira, C. S., Prescot, A. P., & Anderson, M. C. (2017). Hippocampal GABA enables inhibitory control over unwanted thoughts. *Nature Communications*, 8, 1311. https://doi.org/10.1038/s41467-017-00956-z
 7. Gagnepain, P., Hulbert, J., & Anderson, M. C. (2017). Parallel regulation of memory and emotion supports the suppression of intrusive memories. *Journal of Neuroscience*, 37(27), 6423–6441. https://doi.org/10.1523/JNEUROSCI.2732-16.2017
-8. Wessel, I., Albers, C. J., Zandstra, A. R. E., & Heininga, V. E. (2020). A multiverse analysis of early attempts to replicate memory suppression with the think/no-think task. *Memory*, 28(7), 870–887. https://doi.org/10.1080/09658211.2020.1797095
-9. Ricoeur, P. (2004). *Memory, History, Forgetting* (K. Blamey & D. Pellauer, Trans.). University of Chicago Press.
-10. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-11. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
-12. Southgate, A. & Oquatre-sept, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
+8. Catarino, A., Küpper, C. S., Werner-Seidler, A., Dalgleish, T., & Anderson, M. C. (2015). Failing to forget: Inhibitory-control deficits compromise memory suppression in posttraumatic stress disorder. *Psychological Science*, 26(5), 604–616. https://doi.org/10.1177/0956797615569889
+9. Mamat, Z., & Anderson, M. C. (2023). Improving mental health by training the suppression of unwanted thoughts. *Science Advances*, 9(38), eadh5292. https://doi.org/10.1126/sciadv.adh5292
+10. Wessel, I., Albers, C. J., Zandstra, A. R. E., & Heininga, V. E. (2020). A multiverse analysis of early attempts to replicate memory suppression with the think/no-think task. *Memory*, 28(7), 870–887. https://doi.org/10.1080/09658211.2020.1797095
+11. Ricoeur, P. (2004). *Memory, History, Forgetting* (K. Blamey & D. Pellauer, Trans.). University of Chicago Press.
+12. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+13. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
+14. Southgate, A. & Oquatre-sept, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
