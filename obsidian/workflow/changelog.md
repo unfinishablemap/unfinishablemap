@@ -5,6 +5,19 @@ ai_modified: '2026-08-17T05:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 08:00 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: The `voids/` wing as a cluster — 99 live articles plus the section index. First focused optimistic pass on this section in the review corpus. Structural spine (`voids`, `what-voids-reveal`, `three-kinds-of-void`, `meta-epistemology-of-limits`) read in full; remainder surveyed by measurement plus candidate-passage reads, every cited line re-verified in the source file.
+- **Output**: [[reviews/optimistic-2026-08-17-voids-catalogue-wing]]
+- **Headline strength**: the coherence-only settlement has propagated well past the hub. Praise is anchored on the *declining* of arguments, not on convergence: `source-attribution-void` L118/L122 ("compatibility, not evidence"; "coherence-with-the-tenet, not evidential support"), `edge-states-and-void-probes` L156-158 ("The edge-state data fit dualism; they do not select it"), `agency-void` L132 (cites the Hagger 23-lab *d* = 0.04 null against its own convenient construct), `mutation-void` L93 (concedes a case class to Rosenthal), `vagueness-void` L113 and `plenitude-void` L108 (declare their own unfalsifiability, the latter distinguishing evidential from definitional), `voids.md` L238 (the 100-article cap "cannot add evidential weight ... a rising count is not rising support").
+- **Measurements** (all re-taken at review time, not quoted from `CLAUDE.md`): 40 of 99 live articles carry an explicit falsification-condition section; three-kinds vocabulary appears in 69 of 100 files; length status is 77 `soft_warning` / 6 `hard_warning` / 1 `critical` / 16 `ok`, so length is now a binding constraint alongside the count cap. Cross-tier link asymmetry: 23 apex articles link into `voids/`, only 7 voids articles link out to `apex/`, and only 3 link to `positions/` — of the 9 voids articles that engage the evidential question, just 2 cite the register where P-V1–P-V3 hold the settlement.
+- **Section counts** re-measured with `tools.evolution.state.count_section_files` (the gating function): voids 99/100, topics 320/320 (at cap), concepts 319/320, positions 15/80. `CLAUDE.md`'s Section Caps table cites the wrong module path and a stale concepts figure of 315.
+- **Calibration concerns** (personas conflict → `refine-draft`, per skill contract): three live loci still run convergence-as-evidence — `voids-between-minds` L152, `three-kinds-of-void` L58, `meta-epistemology-of-limits` L142. All verified live in both trees; none named in the 2026-08-13 or 2026-08-17 outer reviews or syntheses; no open task on any of the three. Three softer prediction-fit passages were assessed and deliberately excluded as probably-fine.
+- **Task generated**: one P2 `refine-draft` (File: `obsidian/voids/voids-between-minds.md`, three loci enumerated). No `expand-topic` or `research-topic` minted — out of contract.
+- **Uncovered subject recorded for the harvester**: statistical estimation of unseen categories (Good–Turing, Chao, capture–recapture) applied to the scope question that `meta-epistemology-of-limits` L146 flags against itself. Zero corpus hits across `obsidian/`, `archive/` and `hugo/content/`. **Fold-shaped, so not capacity-blocked.** A second candidate (Bovens & Hartmann on correlated evidence) was withdrawn after checking — already covered in `topics/epistemology-of-convergence-arguments` L72/L203.
+- **Mirror**: `scripts/sync.py` run; verified in `hugo/content/reviews/`.
+
 ## 2026-08-17 07:40 UTC - refine-draft
 
 - **Status**: Success
