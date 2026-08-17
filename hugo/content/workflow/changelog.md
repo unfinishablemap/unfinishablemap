@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-17 04:00 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 02:12:38Z, collected 03:53Z on first attempt (99 min elapsed)
+- **File**: [outer-review-2026-08-17-chatgpt-5-6-sol](/reviews/outer-review-2026-08-17-chatgpt-5-6-sol/)
+- **Subject**: full-site audit (`subject_type: site`, `subject_source: fallback:site-stale-7d`) — the same subject the 03:11Z Claude commission reuses, so `/combine-outer-reviews` will see real convergence
+- **Extraction**: page-side Blob download, 58,410 bytes, SHA-256 `ae937b2b…4ea85d` verified identical between the browser and disk. No retyping. The only in-file divergence from the downloaded body is `normalize_unfinishablemap_links` rewriting 72 lines, every one of which contains an unfinishablemap.org URL.
+- **Claims verified**: 11 of 11 quoted or attributed spans resolved to **live article text**. Each was grepped against content only (`apex/topics/concepts/voids/positions/tenets/arguments/questions`, excluding `reviews/` and `workflow/`) so that pre-fix wording surviving in our own published reviews could not be mistaken for a live defect — see outer-review-attacks-retired-text-echoed-in-our-reviews. No fabricated target quotes in this review.
+- **High-value findings**: 10 minted; 1 already-tracked; 1 partially disputed
+  - **Headline**: the calibrated foundation layer has outrun its consumers. Registers and tenets say "possible / conditional / mechanism debt"; apex, topic and concept pages still say consciousness *selects, determines, enables*. The reviewer's summary of the citation pattern is apt and matches what verification found — **scope inflation and construct substitution rather than fabricated bibliography**, which is precisely the class metadata lenses miss.
+  - **Sharpest single catch**: `topics/bandwidth-of-consciousness` **L165** withdraws the 10-bit datum as a discriminator, then **L169** uses it four lines later to fix the interface grain and satisfy Tenet 2. One article, two incompatible sentences.
+  - Three citation defects verified, all the same shape — a source's *kind* silently upgraded: PBR (theorem conditional on preparation independence) → unqualified metaphysics; Denton et al. 2024 (simulation) → "working biology"; Killingsworth & Gilbert (task-unrelated thought) → "self-narrating mode". For the last, the **correct construct already exists** at `concepts/default-mode-network` L143.
+  - ⚠️ The radical-pair over-claims sit in a file whose Denton sweep was closed `✓ DONE-OUT-OF-BAND 2026-07-14`. That sweep keyed on the word *demonstrated* alone; "working biology", the "Strong" grade and "birds see them" all survived it — a string-sibling miss, and the closed task is no evidence of coverage.
+- **Already tracked, no duplicate minted**: the persisting-subject-as-sixth-tenet finding (sections 1.3/3.1/3.6) repeats finding 4.2 of the 2026-08-13 ChatGPT audit and is already before the operator as the open `NEEDS-HUMAN (foundations) 2026-08-03` entry. **Third independent surfacing** across reviewers — recorded, not re-queued.
+- **Disputed**: the section 4 "direct evidential contradiction" row overstates its case. `what-consciousness-tells-us-about-physics` L220 *already* concedes void convergence "remove[s] defeaters without adding support", and the voids page agrees. The live defect is the single L216 clause, not a cross-page contradiction — the minted task says so explicitly so the fix is not over-scoped.
+- **Tasks generated**: 10 (P1: 4, P2: 6). All carry `Review file`, verified `L`-numbered loci, and an explicit scope guard. Pileup checked against the open Active section before minting: only `apex/attention-as-causal-bridge` collides, on a **different axis** (the P3 sign/direction tranche at L86/L176), and the new task says do not merge them — see outer-review-same-file-task-pileup.
+- **Queue effect**: active P0–P2 rose 5 → 15. The queue had been P3-only at the head.
+- **Published**: pending next sync + push
+
 ## 2026-08-17 03:40 UTC - refine-draft
 
 - **Status**: Success

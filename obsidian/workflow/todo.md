@@ -37,6 +37,145 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `bandwidth-of-consciousness` withdraws the 10-bit datum as a discriminator at L165, then uses it four lines later to fix the interface grain and satisfy Tenet 2
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/bandwidth-of-consciousness.md
+- **Second file**: obsidian/concepts/consciousness-bandwidth-architecture.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.6, 2.7 and the section 4 "strong internal contradiction" row. **Both loci verified verbatim on disk against content only** (`reviews/` and `workflow/` excluded, so this is not an echo of our own retired wording).
+  **THE CONTRADICTION, IN ONE ARTICLE.** `bandwidth-of-consciousness` **L165** states the withdrawal plainly: the datum is *shared* rather than discriminating, GWT makes the same bottleneck its defining feature, "a datum both accounts predict cannot adjudicate between them," and "the Map has accordingly withdrawn the bandwidth argument as a discriminator, retaining the ceiling as a constraint any account must accommodate rather than as evidence for one." Then **L169** spends it anyway: "At 10 bits per second, conscious selection operates over *patterns*… This meets the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness *cannot* interact at finer grain because the channel is too narrow." A datum cannot be non-discriminating and also fix the architecture of the dualist interface.
+  **THE FIX IS AT L169, NOT L165.** L165 is the calibrated sentence and is correct — preserve it. Rewrite L169 so the ceiling functions as a *constraint the Map's model must accommodate* rather than as a positive determination of interaction grain or as tenet satisfaction. The Tenet 2 sentence is the specific over-reach: consistency with minimality is not the same as the datum establishing minimality.
+  **SECOND FILE — the construct substitution.** `consciousness-bandwidth-architecture` **L43** and its **`description:` frontmatter (L3)** both render the Zheng–Meister *behavioural* throughput estimate as "conscious volitional influence" / "volitional influence outward." That converts a measure of behavioural or decision throughput into a measure of a non-physical channel's output capacity. Relabel as behavioural/task-level throughput in both places. **The `description:` is a nav surface** and asserts what the body would have to defend — see [[navigation-surfaces-carry-unreviewed-claims]]; fix the label, not just the prose.
+  **SCOPE GUARD.** Zheng & Meister's actual finding is not in dispute and needs no re-verification. The defect is entirely internal: rate, resolution and causal fan-out are being conflated. A one-bit control signal can select between two arbitrarily complex policies, so a low *rate* does not bound the *grain* at which a selector acts. Do not weaken the article's genuine hierarchical-selection answer at L95 of the concept file — that answer survives; only the inference from rate to grain fails.
+
+### P1: `self-construction-constructor` L66 converts Killingsworth & Gilbert's mind-wandering result into "self-narrating mode" — the accurate construct already sits one file away
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/self-construction-constructor.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7. **Verified verbatim on disk.** This is an [[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes|empirical-claim fidelity]] defect: the citation is real and the number is right, but the paraphrase does not match what the study measured.
+  **THE DEFECT.** `apex/self-construction-constructor` **L66**: "Killingsworth and Gilbert found people spend roughly 47% of waking hours in this self-narrating mode" — embedded in a paragraph about the default-mode network constructing the narrative self. Killingsworth & Gilbert (2010) experience-sampled thoughts, feelings and actions and found participants were thinking about something other than their current activity roughly 47% of the time, with mind-wandering associated with lower happiness. They did not measure the DMN, narrative identity, or self-narration. Task-unrelated thought has been silently converted into narrative-self processing.
+  **THE CORRECT WORDING ALREADY EXISTS — COPY IT, DO NOT COMPOSE.** `concepts/default-mode-network` **L143** carries the accurate construct: "Killingsworth and Gilbert's 2010 experience sampling study found that people spend approximately 47% of waking hours mind-wandering, and mind-wandering correlated with reduced happiness across activities." It even carries the 2025 Gross et al. qualification about thought valence. Adapt that sentence into the apex.
+  **WHAT SURVIVES.** The apex's broader claim — that the DMN constructs the narrative self — is independently supported and should stay; it simply needs DMN-specific evidence rather than the 47% figure doing that work. Either cite separate DMN/narrative-self evidence for the stronger claim, or keep the 47% figure and restate it as mind-wandering, dropping the inference to self-narration. Do not delete the citation.
+
+### P1: the radical-pair evidence grade in `neural-implementation-specifics` survived the 2026-07-14 Denton sweep — "working biology", "Strong", and "birds see them" are all still live, and L34 already contradicts them
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/neural-implementation-specifics.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "source-scope contradiction" row. **All loci verified verbatim on disk.**
+  **⚠️ A PRIOR SWEEP CLOSED OVER THIS.** The queue carries `✓ DONE-OUT-OF-BAND 2026-07-14: Sweep residual Denton-2024 "demonstrated" over-claims` against this same file. That sweep keyed on the word *demonstrated* and left every other over-claim standing — the textbook [[fix-by-file-leaves-string-siblings-live|string-sibling]] failure. Treat the closed task as no evidence of coverage here.
+  **LIVE LOCI.** **L62**: "Avian magnetoreception… operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology." **L200**: "Strongly supported, as precedent… an effect measured in working biology." **L48** calibration table: radical pairs graded `Strong | Strong (2024 Zeno model) | Moderate`.
+  **WHY IT IS AN OVER-CLAIM.** Denton et al. (2024, *Nature Communications*) *modelled* how the quantum Zeno effect could sustain magnetosensitivity in tightly bound cryptochrome radical pairs — the article's own **L58** says so ("showing computationally"). Cryptochrome remains the *hypothesised* avian magnetosensor; the paper identifies parameter regions in simulation. Four distinct claims are being run together and must be separated: evidence for magnetosensitivity; evidence for cryptochrome involvement; evidence for a *particular* radical pair; and evidence of any neural relevance. "Birds see them" is a further perceptual claim the cited work does not establish.
+  **THE ARTICLE ALREADY REFUTES ITSELF — USE ITS OWN SENTENCE.** **L34** carries the calibrated framing: "That precedent establishes that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([[positions/quantum-interface]] P-Q8)." The `description:` at **L3** is likewise already correct ("precedent, not licence"). Propagate L34's standard into L62, L200 and the L48 grade. Downgrade "Strong" empirical grading to model-based support for a plausible candidate mechanism.
+  **STYLE.** "This isn't theoretical; it's working biology" is also the banned *"This is not X. It is Y."* construct — see the "Overused Words and Constructions" section of [[writing-style]]. Rephrase to the positive claim rather than merely softening it.
+  **SCOPE GUARD.** Radical pairs remain the strongest of the five candidate mechanisms and the Tegmark rebuttal at L64 is sound. This is a grading fix, not a demotion of the mechanism.
+
+### P1: `machine-question` L149 asserts "There is nothing for consciousness to collapse" — categorical wording that outruns both the post-decoherence route and the AI register's admitted missing eligibility law
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/machine-question.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 1.5 and 2.6 and the section 4 "mechanism inconsistency" row. **Verified verbatim on disk at L149.**
+  **THE INCONSISTENCY.** L149 argues that in LLMs "alternative outcomes exist in genuine superposition" never obtains — "the probability distribution is computed classically. There is nothing for consciousness to collapse." That argument presupposes the *pre-decoherence* picture in which the interface needs sustained coherent alternatives. But the Map's **preferred** route, `apex/post-decoherence-selection-programme`, was introduced precisely to avoid requiring sustained macroscopic superposition: it locates the intervention *after* decoherence, at the transition from an improper mixture to one actual outcome. Digital hardware contains decohered physical alternatives and irreversible state transitions regardless of whether the software's probability vector is classical. On the preferred route the categorical sentence does not follow.
+  **THE THIRD PAGE CONFIRMS THE GAP.** `positions/ai-consciousness-scope` already concedes that the Map has **no interface-eligibility law** and that its low-probability AI verdict is conditional on one. The apex's categorical sentence therefore outruns both its neighbours.
+  **THE FIX.** Replace the categorical claim with a conditional substrate argument, and make the missing interface-eligibility law the stated unresolved issue. Separate two claims the paragraph currently merges: (a) the *abstract computation* is classical — true, and the "quantum fossil" analysis at L149 supports it; (b) *no physical event in the hardware* satisfies the eligibility condition — unsupported while no eligibility law exists. The honest verdict is that current AI is unlikely to qualify **on the Map's preferred route pending an eligibility criterion**, not that there is categorically nothing to collapse.
+  **SCOPE GUARD — DO NOT FLIP THE VERDICT.** The conclusion that current AI is probably not conscious is not under attack and should survive intact, as should the Maier et al. 2018 null result and the quantum-fossil argument. This is a modal-strength fix to one sentence and its supporting inference, not a reversal.
+
+### P2: three separate over-reaches in one paragraph pair of `what-consciousness-tells-us-about-physics` — PBR without its scope condition, "no tenet as a premise" beside "inherited from Tenets 1–4", and void convergence cited as ground
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and two section 4 rows. **All three loci verified verbatim on disk.** Do all three in one pass — they sit within ninety lines of each other.
+  **(1) PBR stated without its scope condition — L130.** "quantum mechanics is ψ-complete (PBR shows the wavefunction is ontic)" and "PBR establishes the wavefunction as real." PBR's actual result is conditional: ontological models in which the wavefunction represents mere information about an underlying state conflict with quantum predictions **given preparation independence for independently prepared systems**. ψ-epistemic models that reject preparation independence are not excluded. Add the assumption and the ontological-models framing. Also mark that the further step — from "certain ψ-epistemic models are excluded" to "physics exhaustively represents possibility but omits consciousness-contributed actuality" — is the article's own contested philosophical inference, not a result delivered by the no-go package.
+  **(2) Premise-status wording conflict — L220.** The same sentence-group says the reverse inference "takes no tenet as a premise" and that "The four constraints it reads off physics (real singular collapse, genuine openness, non-physical modulation, minimality) are *inherited from Tenets 1–4*." If the constraints the argument reads off physics are tenet-entailments, the inference is not tenet-free in the sense the first clause implies. Either restrict "takes no tenet as a premise" to a narrower claim (e.g. the Cartesian datum is the only premise, with the constraints as downstream framing rather than inputs) or drop it. **This paragraph is otherwise the strongest calibration writing in the apex tier — repair the conflict without flattening it.**
+  **(3) Void convergence cited as ground — L216.** "The Map holds the claim on the strength of its tenets and the convergence of the [[taxonomy-of-voids|void structure]]" appears in the same sentence as "triple screening removes potential defeaters without supplying support." The voids cluster has since settled on coherence-only calibration, and `voids/what-voids-reveal` withdrew the abductive-evidence claim. Remove void convergence from the stated grounds while keeping the honest admission that follows.
+  **⚠️ THE REVIEWER OVER-STATED ONE PART.** Its section 4 table calls this a "direct evidential contradiction" *between two pages*. It is not — L220 already concedes convergence adds no support, and the voids page agrees. The live defect is the single L216 clause. Fix that; do not rewrite the article as though the two pages disagreed.
+
+### P2: `attention-as-causal-bridge` L98 states "Consciousness **determines** which option crosses threshold" inside an empirical decomposition that L100 then says is untested
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "residual framing contradiction" row. **Verified verbatim on disk.**
+  **THE DEFECT IS THE LIST ITEM, NOT THE PROSE.** The three-layer architecture at **L98** reads "3. **Consciousness** determines which option crosses threshold" — a categorical verb, listed alongside two empirically grounded neural propositions, which promotes an untested metaphysical layer to their evidential status. The surrounding prose **already discharges this**: **L100** says "The Map's interface hypothesis proposes a third layer the paper does not test" and "The three-layer architecture is consistent with rather than licensed by Cai et al.; it stands or falls with the broader interface argument," and L148 names the predictive-processing rival explicitly. So this is a narrow wording fix, not a rewrite: change L98's verb to hypothesis-marked language ("the Map hypothesises that consciousness modulates…") so the list matches the prose that follows it.
+  **DO NOT PRESENT Cai et al. AS SUPPORTING LAYER 3** anywhere in the article; L100 is already correct on this and must stay.
+  **⚠️ PILEUP — READ THIS.** One open Active task already targets this file (`P3: the sign/direction assumption stands unqualified across the apex tier`, loci L86 and L176). **That is a different axis** — it concerns whether frequent observation stabilises or accelerates decay. Do not merge the two, do not touch L86/L176 here, and do not let this task be marked as covering that one. See [[outer-review-same-file-task-pileup]].
+
+### P2: minimality is doing truth-ranking work in `value-in-selection` and `embodied-interface`, which Tenet 2 disclaims and Tenet 5 forbids
+
+- **Type**: positions-evolve
+- **Status**: pending
+- **File**: obsidian/positions/value-in-selection.md
+- **Second file**: obsidian/apex/embodied-interface.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 3.2 and 3.7 and the section 4 "tenet/register contradiction" row. **All loci verified verbatim on disk.**
+  **THE TENSION.** The tenet page states that minimality is an empirical constraint and **not** a claim that smaller interventions are more likely true; Tenet 5 symmetrically forbids decisive parsimony arguments. But `positions/value-in-selection` **L49** reasons: value-blind selection needs one mental-to-physical coupling where value-sensitivity needs a second, "so by Tenet 2 (Minimal Quantum Interaction) it is the horn to beat on the Map's own standards." `apex/embodied-interface` **L123** runs the same inference. That is the truth-tracking use Tenet 2 disclaims — fewer couplings is being converted into presumptive default status. A second locus at `apex/embodied-interface` **L105** makes the parsimony-to-credibility step explicit: "a theory whose causal mechanism modestly claims a small, effortful region of experience is **more credible** than one that annexes the whole felt body."
+  **THE FIX.** Record the second coupling as an *implementation and specification cost* — a debt to be discharged — rather than as evidential disadvantage, and leave evidential preference to comparative tests. At L105, replace the credibility comparison with a claim about developmental tractability or honesty of scope, which is what the paragraph actually earns. The Map may compare complexity and auxiliary costs; it cannot treat lower complexity as a probability upgrade while denying physicalism and Everettianism the same move.
+  **WHAT SURVIVES.** `topics/the-steelman-for-value-blind-selection` L38 already flags that the value-blind side, developed only from the Map's own preferences, risks being "a strawman by attrition" — that framing is correct and should be reinforced, not disturbed. The register's low confidence and its "aspiration, not a position" language are also correct and stay.
+
+### P2: the `description:` of `consciousness-and-cognitive-distinctiveness` asserts flatly that consciousness causally enables the cognitive leap, while the body concedes the evidence does not decide between models
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-cognitive-distinctiveness.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), section 2.7 and the section 4 "cross-cluster evidential tension" row. **Verified verbatim on disk.**
+  **THE NAV-SURFACE DEFECT.** **L3** `description:` — "Consciousness causally enables the cognitive leap that separates humans from great apes" — states as settled what **L109** immediately hedges: the interface-threshold model "predicts bounded cognition below the threshold and a cluster of new capabilities appearing together… a pattern gradual amplification also predicts if returns accelerate sharply enough, so the clustering does not by itself decide between the two models." **L71** likewise runs the strong causal claim in the body. The `description:` is what search engines and chatbots surface; fix the label as well as the prose ([[navigation-surfaces-carry-unreviewed-claims]]).
+  **THE UNDERDETERMINATION.** The comparative ape–human pattern is consistent with at least three readings the article does not separate: phenomenal consciousness *causing* the capacities; phenomenal consciousness *accompanying* a physical access architecture; and metarepresentation producing both sophisticated cognition and reports of experience. The article treats the first as the mechanism rather than as one underdetermined reading. The neighbouring `concepts/theory-of-mind` is more careful — it recognises implicit false-belief competence in great apes and live behaviour-reading alternatives — so the corpus already contains the corrective.
+  **APPLY THE DIRECT-REFUTATION DISCIPLINE.** Identify what kind of engagement this calls for: showing the rival reading is defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement. Here the honest move is likely the third plus a discriminator proposal — separate phenomenal consciousness, global access, explicit metarepresentation, language, executive control and cumulative culture, then state what observation would distinguish phenomenal causation from a common neural cause of both phenomenality and cognition. Write this in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body**; the classification belongs in the changelog entry. If the in-framework refutation is attempted and fails, say in plain language that the disagreement sits closer to bedrock than it first appeared.
+
+### P2: Tenet 3's quantifier is unresolved, and two apex pages now read it incompatibly
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/tenets/tenets.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), sections 3.4 and 3.5 and the section 4 "quantifier conflict" row. This is the reviewer's single highest-priority article recommendation.
+  **THE CONFLICT.** Tenet 3 says consciousness is causally efficacious and rules out along-for-the-ride views, without fixing a quantifier. `apex/machine-question` reads the commitment as extending to **all** consciousness including AI; `apex/embodied-interface` says the largest category of owned phenomenal presentation **selects nothing** and that most felt embodiment is causally passive. On the strongest every-token reading the embodied apex contradicts Tenet 3; on a weaker system-level reading the machine apex overstates it. Five readings are available and the corpus currently moves between them: every conscious *subject* has some causal capacity; every conscious *episode* has some effect; every phenomenal *content* is efficacious; consciousness *as a type* has causal instances; efficacy is merely *dispositional*.
+  **RELATED AND ALREADY CALIBRATED — do not undo.** The tenet page already distinguishes causal *availability* from *actuality* and warns that pages claiming consciousness does "real work" inherit rather than discharge the mechanism debt. That is the correct machinery; the quantifier fix should plug into it. The reviewer's broader diagnosis is that consumers convert this compatibility into occurrence — that consumer sweep is covered by the sibling tasks in this batch, not here.
+  **⚠️ SCOPE AND ESCALATION.** The minimal edit is a scoping clause on Tenet 3 naming which quantifier the Map intends, plus a pointer from both apex pages. **If discharging this would require changing what Tenet 3 commits to rather than clarifying it, stop and convert this entry to `NEEDS-HUMAN (foundations)` rather than deciding unilaterally** — tenet content is the operator's call.
+  **⚠️ COORDINATE, DO NOT PREEMPT.** An open `NEEDS-HUMAN (foundations) 2026-08-03` entry already puts the *subjecthood-promotion* question to the operator, and this same audit re-raised it (sections 1.3/3.1/3.6) for the third independent time across reviewers. That is a **different question** from the Tenet 3 quantifier. Do not merge them, and do not answer the subjecthood question here.
+
+### P2: three verified citation defects this cycle share one root cause — no citation records what kind of evidence it is
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/writing-style.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-chatgpt-5-6-sol.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (ChatGPT 5.6 Pro full-site audit), methodological improvement 4. This is a methodology proposal, minted because the audit's three independently verified citation defects all instantiate it.
+  **THE EVIDENCE FOR THE PROPOSAL.** All three defects verified on disk this cycle are the same shape — a source's *kind* was silently upgraded: **PBR** (a theorem conditional on preparation independence) read as an unqualified metaphysical result; **Denton et al. 2024** (a simulation identifying parameter regions) read as "working biology"; **Killingsworth & Gilbert** (experience sampling of task-unrelated thought) read as a measurement of narrative-self processing. None was a fabricated reference. The reviewer's summary is apt: the Map's recurring citation problem is **scope inflation and construct substitution rather than fabricated bibliography** — which matters, because metadata-checking lenses are blind to it ([[quote-fidelity-defects-survive-metadata-reviews]], [[empirical-claim-fidelity-orthogonal-to-metadata-and-quotes]]).
+  **THE PROPOSAL.** Require each load-bearing citation to record what kind of evidence it is — experiment, simulation, toy model, theorem, review, preprint, or philosophical argument — together with the decisive assumptions it rests on. Add this to the writing-style guide's citation section as a stated standard, and note the corollary the reviewer draws: a claim whose parent is a Grade-D, programme-stage or none-by-construction commitment should not acquire categorical wording or a higher external-evidence grade without a separately identified source of evidence.
+  **SCOPE GUARD.** Write the standard; **do not attempt a corpus-wide retrofit** — that would be a multi-hundred-file sweep. Sibling tasks in this batch fix the three known instances. Keep the addition short and concrete enough to be checkable by a later audit lens.
+
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
 - **Type**: refine-draft
