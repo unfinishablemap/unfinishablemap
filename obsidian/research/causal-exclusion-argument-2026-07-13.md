@@ -52,7 +52,7 @@ Kim's argument is usually reconstructed as an **inconsistent set of individually
 
 Add the **no-systematic-overdetermination** assumption — that it is implausible every bodily motion is caused *twice over*, by a distinct mental and physical cause, the way a firing squad's two bullets overdetermine a death — and the five commitments cannot all be true. Something must give.
 
-The **supervenience premise** is what makes the mental horn so uncomfortable: because the mental supervenes on (is realized by / determined by) its physical base, the base both *causes* the behavioral effect and *necessitates* the mental event, leaving the mental event with "no work left to do." Kim's conclusion is a dilemma for the non-reductive physicalist (and, mutatis mutandis, the dualist): **reduce the mental to the physical (identity, saving efficacy) or accept epiphenomenalism (distinctness, losing efficacy).** There is no stable non-reductive middle.
+The **supervenience premise** is what makes the mental horn so uncomfortable: because the mental supervenes on (is realized by / determined by) its physical base, the base both *causes* the behavioral effect and *necessitates* the mental event, leaving no causal work for the mental event to do. Kim's conclusion is a dilemma for the non-reductive physicalist (and, mutatis mutandis, the dualist): **reduce the mental to the physical (identity, saving efficacy) or accept epiphenomenalism (distinctness, losing efficacy).** There is no stable non-reductive middle.
 
 ### The three pillars (task framing)
 

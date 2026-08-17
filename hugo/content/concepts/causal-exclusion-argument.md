@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-08-02 16:46:32+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-17 10:05:39+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -20,8 +20,8 @@ description: 'Jaegwon Kim''s causal exclusion argument stated canonically: the i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-20 00:57:23+00:00
-lastmod: 2026-08-02 16:46:32+00:00
+last_deep_review: 2026-08-17 10:05:39+00:00
+lastmod: 2026-08-17 10:05:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Jaegwon Kim's causal exclusion argument (also called the "supervenience argument" or the "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [interactionist dualism](/concepts/objections-to-interactionism/) must answer. The argument is not [Galilean exclusion](/concepts/galilean-exclusion/) (the methodological removal of secondary qualities from physics) and not the Map's own [overdetermination-dissolution](/topics/overdetermination-dissolution-under-selection-only-interactionism/) move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the three routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
+Jaegwon Kim's causal exclusion argument (Kim's own label is the "supervenience argument"; commentators also call it his "master argument") is the central contemporary challenge to any view on which mental properties are both distinct from physical properties and causally efficacious. It is the objection [interactionist dualism](/concepts/objections-to-interactionism/) must answer. The argument is not [Galilean exclusion](/concepts/galilean-exclusion/) (the methodological removal of secondary qualities from physics) and not the Map's own [overdetermination-dissolution](/topics/overdetermination-dissolution-under-selection-only-interactionism/) move — it is the specific claim that a distinct mental cause is either redundant or forces implausible double-causation. This page states the argument canonically: the inconsistent set of premises, the supervenience machinery that tightens it, the mainstream responses literature, and the three routes an interactionist can take. The Map's own answer is developed elsewhere and cross-linked below; the value here is the neutral anatomy.
 
 ## The Inconsistent Set
 
@@ -49,15 +49,15 @@ These five cannot jointly hold. If the physical cause is already sufficient (2) 
 
 ## The Supervenience Argument
 
-What makes the epiphenomenalist horn especially sharp is [supervenience](/concepts/supervenience/). Because a mental property M supervenes on — is realized by and necessitated by — its physical base P, the base does double duty: P *causes* the behavioral effect E, and P *necessitates* M. Kim's worry is that this leaves M with "no work left to do." If you want to know why E occurred, P is already a complete answer, and M is present only because P is. The mental event is, in his phrase, "screened off" by its own base.
+What makes the epiphenomenalist horn especially sharp is [supervenience](/concepts/supervenience/). Because a mental property M supervenes on — is realized by and necessitated by — its physical base P, the base does double duty: P *causes* the behavioral effect E, and P *necessitates* M. Kim's worry is that this leaves no causal work for M to do. If you want to know why E occurred, P is already a complete answer, and M is present only because P is. The mental event is, in the literature's shorthand, "screened off" by its own base.
 
 Kim's associated **causal-inheritance principle** states that if a mental property has any causal powers, it has them in virtue of the physical realizer on which it supervenes — its powers are inherited from, and hence not additional to, the base's. This is what converts the general exclusion worry into a specific threat to non-reductive views: an inherited power is not a *second* power competing with the physical one, so the appearance of distinct mental efficacy dissolves.
 
 ## The Drainage Generalization
 
-A recurring pressure point — and, for a non-partisan reader, the most telling — is the **causal-drainage** or generalization worry, pressed by Ned Block (2003). If neural properties exclude mental ones because the neural is "lower" and sufficient, then chemical properties exclude neural ones, microphysical properties exclude chemical ones, and so on downward. If there is no bottom microphysical level — and Block argues we cannot assume there is one — causal power "drains away" into a bottomless pit and there is no causation anywhere, which is absurd. Block frames this in two versions: an *epistemic* one (exclusionists presume without warrant that a fundamental level exists) and a *modal* one (they make the existence of causation contingent on that presumption).
+A recurring pressure point — and, for a non-partisan reader, the most telling — is the **causal-drainage** or generalization worry, pressed by Ned Block (2003). If neural properties exclude mental ones because the neural is "lower" and sufficient, then chemical properties exclude neural ones, microphysical properties exclude chemical ones, and so on downward. If there is no bottom microphysical level — and Block argues we cannot assume there is one — causal power "drains away" into a bottomless pit and there is no causation anywhere, which is absurd. The worry has an *epistemic* strand (exclusionists presume without warrant that a fundamental level exists) and a *modal* one (they make the existence of causation contingent on that presumption).
 
-Kim's reply ("Blocking Causal Drainage") concedes the structure but argues the descent is blocked at the physical levels because *reduction* is available there: the neural reduces to the microphysical without loss, so no efficacy is lost on the way down, while the mental case remains genuinely non-reductive. Whether reduction can be guaranteed at every physical level "is far from obvious," which is exactly why Block's worry has traction. The drainage argument matters here because it applies pressure to the exclusion reasoning from *within* physicalism, independent of any dualist commitment.
+Kim's reply ("Blocking Causal Drainage") concedes the structure but argues the descent is blocked at the physical levels because *reduction* is available there: the neural reduces to the microphysical without loss, so no efficacy is lost on the way down, while the mental case remains genuinely non-reductive. Kim shifts the burden here: drainage requires that the reduction option be ruled out at every purely physical level, and he holds it far from obvious that this can be done. Critics press back that reduction all the way down is itself an assumption rather than a result, which is where Block's worry keeps its traction. The drainage argument matters here because it applies pressure to the exclusion reasoning from *within* physicalism, independent of any dualist commitment.
 
 ## The Responses Literature
 
@@ -69,7 +69,7 @@ Five response families are standard, summarized here before the Map's own option
 
 **Determinable–determinate — Stephen Yablo.** Yablo (1992) holds that mental properties stand to their physical realizers as determinables to determinates, the way *red* stands to *scarlet*, and that the two are therefore not causal rivals: "any credible reconstruction of the exclusion principle must respect the truism that determinates do not contend with their determinables for causal influence" (1992: 259). Which member of the pair counts as the cause is settled by *proportionality* — a cause should be neither more specific nor more general than the effect requires — and the mental property is frequently the proportional one. Critics dispute both the determination claim (Ehring 1996; Funkhouser 2006) and whether proportionality constrains causation at all. The Map declines this route on the same boundary as the subset account: a determinable is instantiated whenever any of its determinates is, so the non-rivalry is purchased by making the mental a less specific way of being physical — which is what premise 3, read as the dualist reads it, refuses.
 
-**Interventionist / difference-making — List & Menzies, Woodward.** List and Menzies (2009) recast causation as difference-making under interventions rather than sufficient causation. On this footing the exclusion principle is not a necessary truth but a contingent matter. They formulate a "new" exclusion principle running in two directions: *upward* (the realizer excludes the realized) but also, strikingly, *downward* — a higher-level property can exclude its own realizer as the cause, when the higher-level property is what makes the difference and the specific realizer is not required (realization-insensitivity). James Woodward (2015) develops the interventionist treatment further. The upshot is that some higher-level, including mental, properties are the genuine difference-makers and their microphysical realizers are not. Critics (e.g. Bermúdez and Cahen) argue difference-making does not deliver the metaphysical exclusion Kim needs denied, and that proportionality can cut the other way.
+**Interventionist / difference-making — List & Menzies, Woodward.** List and Menzies (2009) recast causation as difference-making under interventions rather than sufficient causation. On this footing the exclusion principle is not a necessary truth but a contingent matter. They formulate a "new" exclusion principle running in two directions: *upward* (the realizer excludes the realized) but also, strikingly, *downward* — a higher-level property can exclude its own realizer as the cause, when the higher-level property is what makes the difference and the specific realizer is not required (realization-insensitivity). James Woodward (2015) develops the interventionist treatment further. The upshot is that some higher-level, including mental, properties are the genuine difference-makers and their microphysical realizers are not. Critics (e.g. Bermúdez & Cahen 2015, replying directly to Menzies in the same issue) argue difference-making does not deliver the metaphysical exclusion Kim needs denied, and that proportionality can cut the other way.
 
 **Reductionist / eliminativist — Kim's own horn.** Kim himself takes the reduction horn: save mental causation by functionally *identifying* mental with physical properties. The title *Physicalism, or Something Near Enough* signals the residue — most of the mental functionalizes and stays efficacious, but phenomenal qualia may resist reduction and be left as the irreducible, epiphenomenal remainder. For the Map this horn is not on the table: it denies premise 3, the dualist's founding commitment.
 
@@ -121,10 +121,13 @@ Which of the three dualist options connects a particular mind to a particular bo
 1. Block, N. (2003). "Do Causal Powers Drain Away?" *Philosophy and Phenomenological Research* 67(1): 133–150.
 1. List, C., & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy* 106(9): 475–502.
 1. Woodward, J. (2015). "Interventionism and Causal Exclusion." *Philosophy and Phenomenological Research* 91(2): 303–347.
+1. Bermúdez, J. L., & Cahen, A. (2015). "Mental Causation and Exclusion: Why the Difference-making Account of Causation is No Help." *Humana.Mente* 8(29): 47–68.
 1. Shoemaker, S. (2001). "Realization and Mental Causation." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*, Cambridge University Press, pp. 74–98.
 1. Shoemaker, S. (2007). *Physical Realization*. Oxford University Press.
 1. Wilson, J. (1999). "How Superduper Does a Physicalist Supervenience Need to Be?" *The Philosophical Quarterly* 49(194): 33–52.
 1. Wilson, J. (2011). "Non-reductive Realization and the Powers-based Subset Strategy." *The Monist* 94(1): 121–154.
 1. Yablo, S. (1992). "Mental Causation." *The Philosophical Review* 101(2): 245–280.
+1. Ehring, D. (1996). "Mental Causation, Determinables and Property Instances." *Noûs* 30(4): 461–480.
+1. Funkhouser, E. (2006). "The Determinable–Determinate Relation." *Noûs* 40(3): 548–569.
 1. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/
