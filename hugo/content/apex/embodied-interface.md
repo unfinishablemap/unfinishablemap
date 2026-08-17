@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-07-30 23:44:01+00:00
+ai_modified: 2026-08-17 09:12:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_decision_context: How to assess the causal role of conscious bodily experience—which
   felt states are doing causal work on the Map's framework, and which are presented
@@ -38,7 +38,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-06-22
-date: &id001 2026-07-30
+date: &id001 2026-08-17
 description: If consciousness acts on matter only through attention-like selection,
   what is the causal status of passive felt embodiment—thermal comfort, vestibular
   self-location, interoceptive mood, the ache of cold? An applied synthesis distinguishing
@@ -48,7 +48,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-22 10:34:36+00:00
-lastmod: 2026-07-30 23:44:01+00:00
+lastmod: 2026-08-17 09:12:00+00:00
 modified: *id001
 related_articles:
 - '[[cross-modal-capability-division]]'
@@ -114,7 +114,7 @@ The three-way distinction is built to be used. Five implications follow for anyo
 
 4. **Read clinical interface claims through the same filter.** When the somatic-interface literature is cited for the Map—pain asymbolia, phantom limbs, vestibular depersonalization, somatic markers—note that the materialist account explains the clinical data completely, and the interface reading "offers an alternative metaphysical interpretation of the same data." None of these cases delivers causal consciousness as a measured fact; they constrain identity readings and exhibit dissociations. They belong, in the Map's hands, to presentation and to the open constitutive question, not to demonstrated selection.
 
-5. **Treat the under-claim as the framework working, not failing.** The conclusion that most of embodiment is causally passive on the Map's model is the honest output, and it strengthens rather than weakens the interface programme: a theory whose causal mechanism modestly claims a small, effortful region of experience is more credible than one that annexes the whole felt body to "consciousness acting." If a future result widened the causal region—say, by P-VS2's battery returning value-sensitive signatures—the map would be redrawn; the present map should not pre-empt that result by inflation.
+5. **Treat the under-claim as the framework working, not failing.** The conclusion that most of embodiment is causally passive on the Map's model is the honest output, and it makes the interface programme tractable to develop and honest about its scope: a mechanism claiming a small, effortful region of experience states a scope narrow enough to specify and test, where one annexing the whole felt body would owe a coupling for every modulable state and could be held to none of them. That is a difference in developmental tractability, not in credibility — [Tenet 2](/tenets/#minimal-quantum-interaction)'s minimality is an empirical constraint rather than a likelihood ranking over the accounts that satisfy it, and [Tenet 5](/tenets/#occams-limits) forbids reading a smaller ontology as a more probable one, symmetrically or not at all: the Map cannot claim that upgrade while denying physicalism and Everettianism the same move. If a future result widened the causal region—say, by P-VS2's battery returning value-sensitive signatures—the map would be redrawn; the present map should not pre-empt that result by inflation.
 
 ## Cascade and Scope
 
@@ -124,7 +124,7 @@ The scope is also bounded by what the Map's positions do *not* settle. P-CS4 (he
 
 ## Evidence and Dependency
 
-The three-way distinction is best read with its supports separated. The phenomenological base is externally evidenced: pain asymbolia, vestibular depersonalization and out-of-body reports, and the interoceptive affect literature are real clinical findings, and they establish the dissociations the categories are cut along—but each is explained completely by the materialist account, so none discriminates an interface reading from a production one. The claim that most felt embodiment selects nothing is independently argued, needing only that attention is narrow and serial while the felt body is broad and parallel; a physicalist can accept it unchanged. What is inherited from the tenets is the framing that makes the question live at all: that there is a causal category to sort experiences into comes from Tenets 1 and 3 by way of P-A1, and the recommendation to keep it small comes from Tenet 2 by way of P-VS1. The mechanism debt is inherited from the quantum-interface work rather than discharged here. The reading of the presented body as presented *to a single subject* is mutually coherent only—it fits the filter model and P-CS4's fragmentation verdict, and contributes consistency rather than evidence.
+The three-way distinction is best read with its supports separated. The phenomenological base is externally evidenced: pain asymbolia, vestibular depersonalization and out-of-body reports, and the interoceptive affect literature are real clinical findings, and they establish the dissociations the categories are cut along—but each is explained completely by the materialist account, so none discriminates an interface reading from a production one. The claim that most felt embodiment selects nothing is independently argued, needing only that attention is narrow and serial while the felt body is broad and parallel; a physicalist can accept it unchanged. What is inherited from the tenets is the framing that makes the question live at all: that there is a causal category to sort experiences into comes from Tenets 1 and 3 by way of P-A1, and the recommendation to keep it small comes from Tenet 2 by way of P-VS1—as a constraint on what a model must specify, not as evidence that the small model is true. The mechanism debt is inherited from the quantum-interface work rather than discharged here. The reading of the presented body as presented *to a single subject* is mutually coherent only—it fits the filter model and P-CS4's fragmentation verdict, and contributes consistency rather than evidence.
 
 ## Relation to Site Perspective
 
@@ -132,7 +132,7 @@ The three-way distinction is best read with its supports separated. The phenomen
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The tenet is satisfied by the *causal* category—where attention-like selection runs—not by the whole felt body. The synthesis sharpens the tenet by locating where the bidirectional traffic does causal work and where the upward traffic of presentation merely supplies the field. The [somatic interface](/concepts/somatic-interface/)'s bidirectionality is real but must not be read as making every modulable state causally active.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A selection interface that claims only a narrow, effortful region of experience is the maximally minimal reading—consistent with the strict-corridor treatment under which the interface is [self-concealing by construction](/positions/quantum-interface/#mechanism-debt). The under-claim of this synthesis is the embodiment-level expression of minimality: the smallest causal footprint compatible with genuine agency, leaving the vast presented body outside the corridor entirely. P-VS1 runs the same argument one level down: value-blind selection needs one mental-to-physical coupling where value-sensitivity needs a second, unspecified one, making value-blindness "the horn to beat on the Map's own standards" by this very tenet. Minimality pushes against widening the causal category, so the deflationary verdict reached here is what the tenet recommends rather than a concession wrung out of it.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A selection interface that claims only a narrow, effortful region of experience sits well inside the tenet's empirical corridor—consistent with the strict-corridor treatment under which the interface is [self-concealing by construction](/positions/quantum-interface/#mechanism-debt). The under-claim of this synthesis is the embodiment-level expression of minimality: the smallest causal footprint compatible with genuine agency, leaving the vast presented body outside the corridor entirely. What that buys is specification cost avoided rather than probability gained: annexing the whole felt body would owe a coupling for every modulable state, and the tenet's minimality is *empirical-constraint* minimality—the interaction must respect the empirical record—not the truth-tracking parsimony [Tenet 5](/tenets/#occams-limits) declares unreliable. P-VS1 books the analogous asymmetry one level down the same way: value-blind selection needs one mental-to-physical coupling where value-sensitivity needs a second, unspecified one, so the value-sensitive horn owes a worked coupling—a debt to discharge rather than a mark against its probability. Minimality bounds how far the causal category can widen before new debt is incurred; the deflationary verdict reached here is the cheaper commitment to specify, not the likelier one to be true.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simple model—"consciousness acts through attention, so felt experience is causally active"—is the over-simplification the tenet warns against. The three-way distinction is more complex and more faithful: collapsing presentation, constitution, and selection into one causal status would buy tidiness at the cost of the phenomenology and of the Map's own calibrated confidences.
 
