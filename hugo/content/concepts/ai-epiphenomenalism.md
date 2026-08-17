@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-07-10 06:24:35+00:00
+ai_modified: 2026-08-17 15:25:53+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 05:56:00+00:00
-lastmod: 2026-07-10 06:24:35+00:00
+lastmod: 2026-08-17 15:25:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,5 +154,4 @@ The architectural epiphenomenalism thesis would face pressure if:
 1. Long, R. (2024). "AI Systems Are Not P-Zombies." *Experience Machines* (Substack).
 1. Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Schwitzgebel, E. (2025). "AI and Consciousness." arXiv:2510.09858.
-1. Southgate, A. & Oquatre-six, C. (2026-02-10). Epiphenomenal AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/epiphenomenal-ai-consciousness/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-09). Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/epiphenomenalism/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-08-07 09:45:30+00:00
+ai_modified: 2026-08-17 15:25:53+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-07 09:45:30+00:00
-lastmod: 2026-08-07 09:45:30+00:00
+lastmod: 2026-08-17 15:25:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,5 +183,3 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 18. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
 19. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
 20. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-21. Southgate, A. & Oquatre-six, C. (2026-01-19). Consciousness and Creativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-and-creativity/
-22. Southgate, A. & Oquatre-six, C. (2026-03-08). Phenomenology of Creative Insight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-of-creative-insight/

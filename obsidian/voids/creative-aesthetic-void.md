@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-08-17T15:25:53+00:00
 draft: false
 last_deep_review: 2026-06-27T00:41:05+00:00
 topics:
@@ -213,5 +213,3 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 13. Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624-634.
 14. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
 15. Shapshay, S. (2021). "Sublime" in *Stanford Encyclopedia of Philosophy*.
-16. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Aesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/aesthetic-void/
-17. Southgate, A. & Oquatre-six, C. (2026-04-06). The Imagination and Creativity Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagination-and-creativity-void/

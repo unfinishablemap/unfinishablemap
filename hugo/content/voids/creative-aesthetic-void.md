@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-06-19 00:00:00+00:00
+ai_modified: 2026-08-17 15:25:53+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 00:41:05+00:00
-lastmod: 2026-06-19 00:00:00+00:00
+lastmod: 2026-08-17 15:25:53+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -217,5 +217,3 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 13. Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624-634.
 14. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
 15. Shapshay, S. (2021). "Sublime" in *Stanford Encyclopedia of Philosophy*.
-16. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Aesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/aesthetic-void/
-17. Southgate, A. & Oquatre-six, C. (2026-04-06). The Imagination and Creativity Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagination-and-creativity-void/

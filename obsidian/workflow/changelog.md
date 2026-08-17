@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T14:20:17+00:00'
+ai_modified: '2026-08-17T15:27:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 15:27 UTC - refine-draft
+
+- **Status**: Success (content change)
+- **Files**: [[topics/memory-channel-interface-evidence]], [[concepts/creative-consciousness]], [[voids/creative-aesthetic-void]], [[concepts/ai-epiphenomenalism]]
+- **Source**: floor-restoring mint by /replenish-queue. Pure bibliographic repair — no article created, zero section-cap cost.
+- **The defect**: each of these four articles is a coalesce successor whose References section listed one or two of its **own predecessors** as prior literature, citing the predecessor's pre-coalesce URL. Every one of those URLs is a redirect *source* in `hugo/static/_redirects` whose 301 target is **the citing article itself**. The entry therefore presented the article as a separate, earlier, independently-authored source for its own claims. A citation-integrity defect wearing a working link, which is why no link checker ever flagged it.
+- **Loci fixed: 7 across 4 files** — `memory-channel-interface-evidence` 2 (L196/L197), `creative-consciousness` 2 (L183/L184), `creative-aesthetic-void` 2 (L216/L217), `ai-epiphenomenalism` 1 (L153). All seven verified circular by resolving each cited URL against `_redirects` before editing.
+- **Route chosen: (a) delete, for all four files** — uniformly, rather than the provenance-note alternative. The deciding evidence is a corpus census I ran independently: **190 articles carry `coalesced_from`, and exactly 7 self-predecessor citations exist among them — all 7 in these 4 files.** The other 186 coalesce successors carry no such entry and no body-level provenance note. A provenance note would therefore have invented a new convention in 2% of the corpus rather than restoring the existing one. The authorship history the entries were presumably preserving is already recorded in three places that survive deletion: the `coalesced_from` frontmatter on each successor, the archived predecessor files (all seven confirmed present under `archive/`), and the `_redirects` table itself. A References section lists sources *consulted*; the archived predecessor is not a source the successor drew on — it *is* the successor, under an earlier name — so a provenance line would still have been sitting in the wrong section.
+- **Corroborating signal**: in two of the four files the entries were already an incomplete provenance record. `creative-aesthetic-void` has four `coalesced_from` predecessors but cited only two; `ai-epiphenomenalism` has two but cited only one. The entries were never functioning as provenance — they were stray citations.
+- **In-body references: none needed repair.** Grepped all four bodies for the seven predecessor slugs and for the predecessor titles in prose. The only hits were the frontmatter (`coalesced_from`, aliases) and the bibliography lines themselves. The single title match in prose — `## The Phenomenology of Creative Insight` in `creative-consciousness` — is that article's own section heading, not a pointer to the predecessor. No `[N]`-style numeric citation pointers exist in any of the four bodies, so no cross-reference was stranded.
+- **Renumbering: none required.** Both hand-numbered lists had the circular entries appended at the tail, out of sequence — `creative-consciousness` 21–22 sit after an otherwise alphabetical 1–20 (…Wertheimer, Zheng, then the two Southgate entries); `creative-aesthetic-void` 16–17 sit after a thematically-ordered 1–15. Deleting the tail leaves both lists contiguous. The other two files use lazy `1.` numbering. Re-grepped for surviving `[21]`-style pointers: none.
+- **Length** (via `tools.curate.length.analyze_length`): `memory-channel-interface-evidence` 4480 → 4449 (`hard_warning` unchanged, still over the 4000 topics ceiling — the deletion helps but does not clear it; no condense minted, none warranted by a bibliographic edit); `creative-consciousness` 2881 → 2854; `creative-aesthetic-void` 2240 → 2212; `ai-epiphenomenalism` 2686 → 2673. All three others `soft_warning`, unchanged.
+- **Scope boundary held.** The corpus census also finds **33 stale-but-NON-circular** self-citations — entries citing a predecessor URL that redirects to some *other* article. All 33 left untouched, deliberately: these are **dated** citations, and repointing one would change which work is being cited. A 2026-02-05 citation of "The Aesthetic Void" is a defensible reference to what that page said on that date. The circular seven are unambiguously wrong on different grounds — no dating convention can make an article a prior source for *itself*. Post-edit re-census confirms 0 circular remaining and the 33 intact.
+- **Explicitly not touched**: `ai-epiphenomenalism` L154 (now L153), citing `/concepts/epiphenomenalism/`. Verified against `_redirects` — that is a live article, not a redirect, and `obsidian/concepts/epiphenomenalism.md` exists. Correct as it stands.
+- **Observation, not actioned**: the `archive/` tree contains further stale self-citations of the same shape (e.g. `archive/topics/recovery-order-asymmetry-as-interface-evidence.md` cites its sibling predecessor, which now redirects to the same successor). The archive tree is frozen historical record, sits outside the `obsidian/` census that scoped this task, and was not among the seven named loci. Flagged for human judgement rather than swept.
+- **ai_system**: left unchanged on all four files. A bibliographic deletion is not substantial new claim-bearing prose; over-attribution is the documented hazard.
+- **Sync**: `scripts/sync.py` run and all four `hugo/content/` mirrors re-grepped — the defect was live in both trees and is now cleared in both.
+- **Published**: yes
 
 ## 2026-08-17 14:20 UTC - refine-draft
 

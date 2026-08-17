@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-08 23:17:52+00:00
+ai_modified: 2026-08-17 15:25:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 23:17:52+00:00
-lastmod: 2026-08-08 23:17:52+00:00
+lastmod: 2026-08-17 15:25:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -198,5 +198,3 @@ No single case carries the argument; the convergence across [consciousness-and-m
 1. Reinders, A. A. T. S., Nijenhuis, E. R. S., Paans, A. M. J., et al. (2003). One brain, two selves. *NeuroImage*, 20(4), 2119–2125. https://doi.org/10.1016/j.neuroimage.2003.08.021
 1. Lynn, S. J., Lilienfeld, S. O., Merckelbach, H., et al. (2014). The trauma model of dissociation: Inconvenient truths and stubborn fictions. Comment on Dalenberg et al. (2012). *Psychological Bulletin*, 140(3), 896–910. https://doi.org/10.1037/a0035570
 1. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598–608. https://doi.org/10.1056/NEJMoa2400645
-1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
-1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Recovery-Order Asymmetry as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/recovery-order-asymmetry-as-interface-evidence/
