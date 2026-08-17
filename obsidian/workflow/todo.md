@@ -176,6 +176,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **THE PROPOSAL.** Require each load-bearing citation to record what kind of evidence it is — experiment, simulation, toy model, theorem, review, preprint, or philosophical argument — together with the decisive assumptions it rests on. Add this to the writing-style guide's citation section as a stated standard, and note the corollary the reviewer draws: a claim whose parent is a Grade-D, programme-stage or none-by-construction commitment should not acquire categorical wording or a higher external-evidence grade without a separately identified source of evidence.
   **SCOPE GUARD.** Write the standard; **do not attempt a corpus-wide retrofit** — that would be a multi-hundred-file sweep. Sibling tasks in this batch fix the three known instances. Keep the addition short and concrete enough to be checkable by a later audit lens.
 
+### P2: `binding-void` L92 still runs convergence as evidence, six days after its sibling void adopted the register's common-cause discount
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/binding-void.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-claude-opus-5.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), tenet-coherence finding 1. **Verified on disk against content only** (`reviews/` and `workflow/` excluded). Note the reviewer's quoted wording ("the convergence itself becomes evidence of a boundary") is a **paraphrase and does not appear in the article** — do not go looking for that string. The live sentence is at **L92**.
+  **THE DEFECT.** L92 reads: "Dainton's primitivism, Bayne's subsumption analysis, and representational theories all converge on treating co-consciousness as unanalysable. When diverse approaches agree that analysis terminates here, the convergence evidences a genuine boundary rather than insufficient effort." L54 supports it: the convergence "is the philosophical signature of a void." No independence test, common-cause null, or genealogical-dependence check appears anywhere in the file — `grep -niE "common.cause|independen"` returns nothing but an unrelated Tenet 2 sentence at L132.
+  **WHY IT IS A DEFECT NOW AND NOT BEFORE.** [[positions/voids-as-evidence]] holds that voids support "framework-internal coherence under the common-cause null, not independent confirmation." The sibling [[ineffable-encounter-void]] propagated that demotion on **2026-08-06**, and now reads "genealogical recurrence rather than independent arrival, which leaves the independence condition convergence arguments require unmet." `binding-void` did not inherit it. This is the fix-by-file-leaves-siblings-live pattern ([[fix-by-file-leaves-string-siblings-live]]), not a fresh over-claim.
+  **THE FIX.** Apply the register's discount to L92 and L54. The relevant question is whether Dainton, Bayne and the representationalists arrived at primitivism independently or inherited a shared framing — the ineffable-encounter article is the model for how to run and report that check honestly, including reporting a *reduced* result when the check goes against the convergence. Do not delete the convergence observation; recalibrate what it licenses.
+  **SCOPE GUARD.** One file. Do **not** sweep the whole voids section — the reviewer asserts the leak is general, and that claim is untested. If the fix suggests further loci, mint a separate task rather than widening this one.
+
+### P2: `many-worlds-argument` engages six Everettian variants but not List's centred-worlds MWI — the one its own sibling calls "a genuinely harder target"
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/arguments/many-worlds-argument.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-claude-opus-5.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), structural-weakness finding on List 2023. ⚠️ **The reviewer's version of this finding is FALSE and must not be actioned as stated.** It claims List 2023 is unengaged and names two articles. [[vertiginous-question]] engages List thoroughly (L162–164, plus the Tenet 4 section at L188) and cites him at reference 6 with the correct DOI. Only the narrowed finding below survives.
+  **THE ACTUAL GAP.** `many-worlds-argument` L70–86 runs six named in-framework engagements — Saunders/Wallace, Tappenden, Vaidman, Sebens–Carroll, Alastair Wilson, and Many-Minds — and closes at L86 with "together, these six engagements specify what the Map's rejection actually claims." List's first-personally-centred many-worlds is not among them. That matters because the sibling article has already concluded that List "is a genuinely harder target than Everett" and that "the indexical objection alone does not discharge the No Many Worlds tenet against List." Argument 1 (L46–54) therefore states the indexical case more strongly than the corpus's own considered position supports.
+  **THE FIX.** Add List to the in-framework engagement sequence, and qualify Argument 1's conclusion to match what L188 of `vertiginous-question` already concedes: the indexical argument is decisive against branch-egalitarian Everettianism and *supplementary, not sufficient*, against first-personally centred variants. The second ground against List — rejection of the modal realism that makes every subject's centred world equally real — is already written and can be summarised and cross-linked rather than re-derived. Reference: List, C. (2023), "The Many-Worlds Theory of Consciousness," *Noûs* 57(2):316–340, DOI 10.1111/nous.12408.
+  **SCOPE GUARD.** Import and cross-link; do not re-litigate. `vertiginous-question` owns this argument and is correctly calibrated — this task propagates it to the argument page. Watch the honest-count sentence at L168 ("arguably three independent load-bearing arguments rather than four"); adding a qualification to Argument 1 interacts with it.
+
+### P2: Wiest & Puniani 2025 is cited with no volume, pages or DOI — and a corrigendum exists
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-08-17-claude-opus-5.md`
+- **Generated**: 2026-08-17
+- **Notes**: From outer review 2026-08-17 (Claude Opus 5 full-site audit), citation-verification table. **Reference 19 (L236)** reads "Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: … *Computational and Structural Biotechnology Journal*." and stops there — no volume, no page range, no DOI, making it the least locatable load-bearing reference in the article.
+  **WHAT THE REVIEWER SUPPLIES.** Volume 30, DOI `10.1016/j.csbj.2025.09.016`, and the existence of a corrigendum. **Verify all three at the publisher before writing them in** — an outer reviewer's citation metadata is not itself evidence ([[ai_citation_metadata_unreliable]]), and if a corrigendum is real it may change what the article can claim.
+  **DO NOT ACTION THE ACCOMPANYING CLAIM.** The reviewer also alleges the article co-opts Wiest & Puniani as support for Bidirectional Interaction despite their reversed causal arrow. That is **false against live content**: it targets `topics/quantum-biology-neural-experimental-turn`, which is **archived**, and the live successor's evidence table at **L140** already marks the work "Orthogonal; coherence-mechanism convergence is not the corridor's currency." L100 describes the paper neutrally. Metadata only.
+
 ### P3: the sign/direction assumption stands unqualified across the apex tier — the integration chain reached the mechanism owners only
 
 - **Type**: refine-draft

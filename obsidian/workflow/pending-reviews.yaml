@@ -31,9 +31,9 @@
   commissioned_at: '2026-08-17T03:11:39.300220+00:00'
   prompt_summary: 'Full-site audit: insights, structural weaknesses, tenet coherence'
   target_filename: outer-review-2026-08-17-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-17T04:24:57.883719+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site developing an interactionist-dualist framework built on five

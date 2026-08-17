@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T00:56:04+00:00'
+ai_modified: '2026-08-17T04:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-17 04:33 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 High (`claude-opus-5`), commissioned 03:11:39Z, collected 04:24Z on first attempt (70 min elapsed, Research mode, 199 sources, 10m20s of model time)
+- **File**: [[reviews/outer-review-2026-08-17-claude-opus-5]]
+- **Subject**: full-site audit (`subject_type: site`, `subject_source: reuse:pending-reviews:outer-review-2026-08-17-chatgpt-5-6-sol.md`) — same subject as the ChatGPT leg, so `/combine-outer-reviews` will see real convergence once Gemini resolves
+- **Extraction**: artifact panel opened, body-stability sentinel stable at 21,697 chars across two 10s samples; page-side Blob download, 23,681 bytes, SHA-256 `b4c321eaaa998b120f3909ff35156982fd63ddff832921ad764c1906ff527d0b` verified identical between browser and disk. No retyping.
+- **Claims verified**: 25 spans grepped against **content only** (`reviews/` and `workflow/` excluded). 18 resolved to live text; 7 did not, and the misses were concentrated in exactly the findings the report leaned on hardest.
+- **High-value findings**: 3 minted (all P2); 5 disputed and declined; 3 recorded as convergence
+  - **Headline**: excellent sourcing, stale targeting. Bagwell 2023 (*Synthese* 201:25) and List 2023 (*Noûs* 57(2)) are real, correctly characterised, precisely relevant — and both are **already cited in the very articles** the reviewer says should concede to them. `apex/taxonomy-of-voids` L106 already carries the reviewer's proposed FBT wording almost verbatim, contestation and all.
+  - **Three of four cross-cluster contradictions dissolve.** Contradiction 3 (photosynthesis live-vs-retracted) is false — `concepts/interactionist-dualism` L153 already carries the Duan et al. 2017 retraction; the reviewer's quoted string survives in exactly one place in the repo, the **2026-06-01 outer review**. Contradiction 4 (undetectable-vs-foreclosable) is false — `topics/brain-internal-born-rule-testing` L116 refuses that conflation *by name* and L143 concludes the corridor is "neither foreclosed nor confirmed".
+  - **Contradictions 1 and 2 target archived articles.** `topics/quantum-measurement-consciousness-interface` and `topics/quantum-biology-neural-experimental-turn` are both coalesced into `archive/`. Their URLs still serve, so the reviewer read real pages — the live successors carry neither defect. An archived-slug check belongs at the **front** of outer-review processing.
+  - **The Stapp inversion is not unstated.** The report's deepest claim — that the corpus cannot both hold outcome-biasing and treat Stapp as lodestar, and has never said so — is stated at length at `apex/post-decoherence-selection-programme` L91, and `apex/born-preserving-causal-efficacy` ref 3 already cites Bourget 2004 *with* Stapp's reply at *JCS* 11(12):43–49.
+  - **What survived**: `voids/binding-void` L92 still runs convergence-as-evidence six days after the sibling `voids/ineffable-encounter-void` adopted the register's common-cause discount (a [[fix-by-file-leaves-string-siblings-live|string-sibling]] miss); `arguments/many-worlds-argument` runs six in-framework MWI engagements and List is not among them, though its own sibling calls him "a genuinely harder target than Everett"; Wiest & Puniani 2025 is cited with no volume, pages or DOI.
+- **Convergence, recorded rather than re-minted**: methodology items 1 and 3 (confession must bind; fix-by-file leaves siblings live) are a **third independent** diagnosis of the open NEEDS-HUMAN entry of 2026-08-03, itself raised when two of three outer reviewers converged on it. Item 5 (constrain-vs-establish linter gate) duplicates the `project/writing-style.md` task minted from this cycle's ChatGPT leg an hour earlier — same file, same axis, not minted twice ([[outer-review-same-file-task-pileup]]). The Russell publisher-of-record verification is a known, operator-deferred gap the reviewer independently rediscovered.
+- **Tasks generated**: 3 (P2: 3). Active P0–P2 queue 15 → 18.
+- **Self-correction**: two findings were first recorded as verified-genuine and reversed on recheck. Both reversals traced to a `grep … | head` truncating its own match list, scoring a cited source absent — the same failure mode the reviewer is marked down for, reproduced inside the audit. Absence claims were re-run with `grep -c` and without truncation before being written down.
 
 ## 2026-08-17 04:00 UTC - outer-review
 
