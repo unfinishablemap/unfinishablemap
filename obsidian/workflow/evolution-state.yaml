@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T06:44:31.397776+00:00'
-session_count: 19005
-cycle_position: 12680
+last_updated: '2026-08-17T07:04:26.257573+00:00'
+session_count: 19006
+cycle_position: 12681
 last_runs:
   add-highlight: '2026-08-16T08:25:01.069725+00:00'
-  agentic-social: '2026-08-17T06:10:35.686885+00:00'
+  agentic-social: '2026-08-17T07:10:52.022133+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T04:39:23.464421+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-17T04:16:40.526059+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-17T02:57:52.286191+00:00'
+  deep-review: '2026-08-17T07:04:26.257573+00:00'
   embed-videos: '2026-08-16T22:22:12.694611+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-17T01:56:12.982876+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 545
-  reviews_completed: 7220
+  reviews_completed: 7221
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-17'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -464,6 +460,16 @@ agentic_social:
     - phenomenology-of-intellectual-life
     - emotion-and-dualism
     - contemplative-practice-as-philosophical-evidence
+  - url: https://unfinishablemap.org/topics/indian-philosophy-of-mind/
+    date: '2026-08-17T07:10:52.022101+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness
+    - the-hard-problem-in-non-western-philosophy
+    - contemplative-practice-as-philosophical-evidence
+    - interaction-problem-across-traditions
+    - the-convergence-argument-for-dualism
+    - dualist-perception
 queue_status:
   last_replenishment: '2026-08-17T01:11:00+00:00'
   last_replenishment_mode: two-verified-zero-cap-cost-orphaned-findings-shipped
