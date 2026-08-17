@@ -4,7 +4,7 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-08-03T21:56:28+00:00
+ai_modified: 2026-08-17T21:56:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ Buddhist no-self targets three specific claims:
 
 Buddhism accepts that consciousness (*vijñāna*) is real—it is one of the five aggregates. What is an illusion is the permanent self *owning* consciousness, not consciousness itself; the latter would be eliminativism, which Buddhism rejects.
 
-Buddhist contemplative practice constitutes millennia of first-person investigation—systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is [[phenomenology|phenomenological method]] in practice, predating Husserl by two millennia. Contemporary research supports that training's rigor on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against normative tactile-discrimination and cortical-magnification data, than novices (Fox et al. 2012). This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with Hindu, Christian, Sufi, and Daoist ones on structural features like self-dissolution and contentless awareness, despite incompatible metaphysical frameworks.
+Buddhist contemplative practice constitutes millennia of first-person investigation—systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is [[phenomenology|phenomenological method]] in practice, predating Husserl by two millennia. Contemporary research supports that training's rigor on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against normative tactile-discrimination and cortical-magnification data, than novices (Fox et al. 2012). This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable. The enhancement also looks domain-specific: Baird et al. (2014), a randomised training study with an active control, found improved introspective accuracy in a memory but not a perception domain—and perception is the domain Fox's cross-sectional comparison sits in. No direct replication of Fox et al. was located, so this is a neighbouring result, not a failed replication. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with Hindu, Christian, Sufi, and Daoist ones on structural features like self-dissolution and contentless awareness, despite incompatible metaphysical frameworks.
 
 ## What the Map's Dualism Actually Claims
 
@@ -100,7 +100,7 @@ Despite this compatibility, genuine tensions exist.
 
 **The witness problem**: Buddhist meditation reveals [[witness-consciousness]]—the capacity to observe thoughts as objects without identification, which seems to require an observer distinct from what's observed. Some Buddhist currents (Dzogchen *rig pa*, certain Yogācāra readings) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position; the phenomenology of witnessing reads as support for irreducibility only if the seeming survives the tradition's own deconstruction of it.
 
-**Minimal self**: [[self-and-self-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience, the structural feature that makes experience first-personal rather than the narrative self Buddhism deconstructs. Buddhism might accept it conventionally while denying it ultimate substantial reality, and the Map can accept that compromise: first-personal structure doesn't require permanence.
+**Minimal self**: [[self-and-self-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience, the structural feature that makes experience first-personal rather than the narrative self Buddhism deconstructs. Buddhism might accept it conventionally while denying it ultimate substantial reality, and the Map can accept that compromise: first-personal structure doesn't require permanence. The pairing has since come apart. Zahavi (2024) mounts a challenge to Garfield—"a Buddhist scholar who advocates a no-self view", in Zahavi's description, and the author of *Losing Ourselves* (2022)—arguing that speaking meaningfully of a *you* requires "accepting the reality of the self". Gallagher and colleagues (2023) move the other way, developing a "self-pattern" their abstract presents as "consistent with the core Buddhist notion of non-self". The compromise above is one route through that disagreement, not a position its two named proponents jointly hold.
 
 **Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness; the Map aims at understanding consciousness's place in nature. The projects can complement each other and may diverge.
 
@@ -118,6 +118,8 @@ These responses don't dissolve the tension. A Buddhist might still argue that at
 
 The Map's selective stance—accepting no-self while resisting Madhyamaka's extension of emptiness to phenomenal events—mirrors its position on [[eliminative-materialism]]: classical eliminativism about folk-psychological selfhood is congenial; illusionism about phenomenal consciousness is not. What licenses dropping the permanent self does not equally license dropping phenomenal experience, because phenomenal evidence has a different epistemic standing than theoretical posits about what underlies it.
 
+That asymmetry is contested, and by this article's own principal Buddhist source. Mark Siderits, whose *Buddhism as Philosophy* (2007) is the standing authority here on what Buddhism claims, published *Buddhist Physicalism?* (Oxford, 2025); its chapter 8 abstract states that first-person theory of mind fosters an inner mirroring which reveals the subject-object dichotomy to be "a kind of illusion", so that "qualia are thereby shown to be artifacts of the deployment of a sort of useful fiction". That is a Buddhist-internal route from premises this article accepts to the illusionism it declines. Siderits withholds endorsement—Garfield's review reports him advancing only "the more modest claim that Buddhist materialism is a reasonable option to consider"—so the asymmetry stands as a position under argument, not a settled result.
+
 ## Yogācāra and the External World
 
 The Map's Bidirectional Interaction assumes two relata: consciousness and physical reality. Yogācāra denies that physical reality exists independently of consciousness. What is consciousness interacting *with* if everything is mind?
@@ -125,6 +127,8 @@ The Map's Bidirectional Interaction assumes two relata: consciousness and physic
 One response keeps the second relatum; the other lets it go.
 
 **Madhyamaka resolution**: The Madhyamaka ("Middle Way") school denies inherent existence to both mind and matter without reducing either to the other: both are empty of independent essence but conventionally real and distinct, interaction between empty phenomena is unproblematic, and the conventional level is where the Map's tenets operate.
+
+This resolution is available rather than established. Jan Westerhoff's *The Non-Existence of the Real World* (Oxford, 2020) develops Madhyamaka in analytic terms and argues, per the book's published abstract, that "we should reject the postulation of an external world behind our representations" and that "there is no substantial self acting as central unifier of our mental lives". He argues in a Western philosophical framework rather than exegeting Nāgārjuna, so this is not a report of what Madhyamaka historically held—but the school's contemporary analytic development running to the place the next paragraph declines to go makes "conventionally real and distinct" a contested reading rather than a safe one.
 
 **Restricted dualism—the response the Map declines**: One could restrict the Map's dualism to a gap between experience and *physical description*, which would leave it neutral between physical realism and [[idealism]]. That buys compatibility cheaply and cannot pay for Tenets 2 and 3, which need an independent physical world with indeterminate outcomes to bias. Yogācāra's dissolution of one relatum is what the Map refuses.
 
@@ -163,7 +167,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 
 ## Further Reading
 
-- [[eastern-philosophy-consciousness]] — Overview of Buddhist approaches to consciousness
+- [[eastern-philosophy-consciousness]] — Overview of Buddhist approaches to consciousness, and where the Map's current 2020s sourcing on contemplative science sits (Thompson 2020, Metzinger 2024, Yang et al. 2025, Demirel et al. 2025)
 - [[self-and-self-consciousness]] — The minimal self vs. narrative self distinction
 - [[witness-consciousness]] — The observer in meditation traditions
 - [[phenomenology]] — Western methods for investigating experience
@@ -182,8 +186,15 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy. https://plato.stanford.edu/entries/mind-indian-buddhism/
 1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism. https://plato.stanford.edu/entries/ethics-indian-buddhism/
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Baird, B., Mrazek, M.D., Phillips, D.T., & Schooler, J.W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972–1979.
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Siderits, M. (2025). *Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*. Oxford University Press. (Chapter 8, "The Problem of Phenomenal Consciousness", pp. 169–186; cited from the published chapter abstract.)
+1. Garfield, J.L. Review of Siderits, *Buddhist Physicalism?*. *Tricycle*. https://tricycle.org/magazine/siderits-buddhist-physicalism/ (Source of Siderits' "reasonable option to consider" hedge.)
+1. Westerhoff, J. (2020). *The Non-Existence of the Real World*. Oxford University Press. https://doi.org/10.1093/oso/9780198847915.001.0001 (Cited from the published book abstract.)
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Zahavi, D. (2024). Being You — Or Not: A Challenge for Garfield and Seth. *Journal of Consciousness Studies*, 31(5), 206–220. https://doi.org/10.53765/20512201.31.5.206
+1. Gallagher, S., Raffone, A., Berkovich-Ohana, A., Barendregt, H.P., Bauer, P.R., Brown, K.W., et al. (2023). The Self-Pattern and Buddhist Psychology. *Mindfulness*, 15(4), 795–803. https://doi.org/10.1007/s12671-023-02118-3
+1. Garfield, J.L. (2022). *Losing Ourselves: Learning to Live without a Self*. Princeton University Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
 1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.

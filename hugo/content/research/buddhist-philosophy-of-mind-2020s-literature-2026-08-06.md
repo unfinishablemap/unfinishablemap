@@ -1,20 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-06
-ai_modified: 2026-08-06 18:10:41+00:00
+ai_modified: 2026-08-17 21:56:24+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[buddhism-and-dualism]]'
 - '[[yogacara-alaya-vijnana-storehouse-consciousness]]'
 - '[[witness-consciousness]]'
+consumed_by: '[[buddhism-and-dualism]]'
+consumed_note: 'CONSUMED as a refinement (the note''s own recommendation — see ''Article
+  or Refinement''), single-file scope. Landed in [[buddhism-and-dualism]] on 2026-08-17:
+  Finding 1 (Siderits 2025 ch. 8 qualia-as-useful-fiction, with the Garfield ''reasonable
+  option to consider'' hedge) at the eliminative-materialism asymmetry paragraph;
+  Finding 2 (Westerhoff 2020 against both relata) qualifying the Madhyamaka resolution
+  as available-not-established; Finding 4 (Zahavi 2024 vs Garfield 2022; Gallagher
+  et al. 2023 self-pattern) breaking up the Zahavi/Gallagher pairing at the minimal-self
+  paragraph; Finding 5 (Baird et al. 2014 domain-specificity) balancing the lone Fox
+  2012 citation. Seven reference entries added. Grades inherited as graded — no source
+  was read in full text, and the two headline books are attributed to their published
+  abstracts in the article prose. NOT consumed, deliberately: Finding 7''s sourcing
+  of the soteriological/metaphysical sentence (that sentence is protected verbatim
+  by an open P3 propagating it into two other articles); Finding 6 (Yogācāra/SEP 2024)
+  and the Finding 5 sibling defect at [[phenomenal-authority-and-first-person-evidence]]
+  L166, both of which fall outside this task''s single-file fence; Findings 3 and
+  8 hygiene beyond the eastern-philosophy-consciousness cross-link. Remaining leads
+  for a later pass: Albahari 2019/2022 on the witness problem, Kachru 2021, Siderits/Keng/Spackman
+  2021.'
 created: 2026-08-06
 date: &id001 2026-08-06
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-06 18:10:41+00:00
+lastmod: 2026-08-17 21:56:24+00:00
 modified: *id001
 related_articles:
 - '[[buddhism-and-dualism]]'
