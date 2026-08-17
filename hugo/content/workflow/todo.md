@@ -39,6 +39,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: the Hirsch "variability or plasticity" span in `concepts/composition-question-rivals` is the last unverified quote on the page — every route to the primary text was blocked
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/composition-question-rivals.md
+- **Source**: refine-draft
+- **Generated**: 2026-08-17
+- **Notes**: The 2026-08-17 quote-fidelity pass verified four of five attributed verbatim spans at primary sources (two corrected, two clean — see changelog 20:30 UTC). The fifth could not be reached. **L63** attributes to Hirsch's *Quantifier Variance and Realism* (2011) the claim that the quantificational apparatus "has, in Hirsch's words, **\"a certain variability or plasticity.\"**" The explicit *"in Hirsch's words"* makes this the article's strongest verbatim commitment. **The span was deliberately left untouched** — a failed lookup is not evidence of absence (citation-verify-false-negative, control-pair-search-licenses-absence-claims). **Do not de-quote it without reaching the source.** Routes already exhausted, do not repeat: not on the Internet Archive (no item, no ISBN match); no OA copy (Unpaywall + OpenAlex both report zero OA locations for the book and its chapters); Oxford Academic serves book pages as JS-only shells to WebFetch (journal pages render fine, book pages do not); Crossref holds chapter DOIs but no abstracts; Wiley's copy of the 2002 *Philosophical Issues* essay (DOI `10.1111/1468-0068.36.s1.2`) returns HTTP 402. All general search backends failed on the same day: WebSearch budget exhausted 200/200, DuckDuckGo + searx CAPTCHA, Mojeek/HathiTrust/PhilArchive 403-or-Cloudflare, Google Books API quota hard-zero, and **Bing + Google silently dropped the quoted phrase and returned unrelated results — those zeros prove nothing**. **Promising untried routes**: (a) the book's chapter 5 is the 2002 essay "Quantifier Variance and Realism" reprinted, so verifying the phrase in the essay would validate the book citation — chapter DOI `10.1093/acprof:osobl/9780199732111.003.0005`, book DOI `10.1093/acprof:osobl/9780199732111.001.0001`; (b) a repository copy via the DSpace REST API pattern that worked for Bird (`api.repository.cam.ac.uk/server/api/pid/find?id=hdl:...`, then bundles → TEXT bundle) if any institution has deposited it; (c) Chrome during the 00:00–06:59 UTC automation window, which was unavailable to this pass. Left at P3 because the span may well be correct — this is an unchecked surface, not a known defect (replenish-asserted-concrete-defect-often-false).
+
 ### P3: `archive/concepts/autonoetic-consciousness` attributes the natural-selection quote to Klein (2016); it is verbatim from Klein (2013)
 
 - **Type**: refine-draft
