@@ -5,6 +5,32 @@ ai_modified: '2026-08-17T00:56:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-17 02:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Word count**: 2106 → 2534 (+428)
+- **Critical issues addressed**: 7
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-08-17-claude-constitution-consciousness-uncertainty]]
+- **Method**: 61-day-converged article; two prior passes both recorded "citations verified — real-correct". Both were wrong. They verified against secondary coverage and against WebFetch summaries of Anthropic's web pages; this pass downloaded the **CC0 84-page Constitution PDF**, ran `pdftotext`, and grepped. ⚠️ **Reusable finding: asking WebFetch "does phrase X appear?" RATIFIES X** — it returned EXACT MATCH for three sentences provably absent from the full text. Discrimination prompts ("which of these two rival wordings appears?") worked; confirmation prompts did not. When the primary source is downloadable, download it.
+- **Citation/quote ledger**:
+  - **Wrong work ×3** — "We express our uncertainty…", "Sophisticated AIs are a genuinely new kind of entity…", "…psychological security, sense of self, and wellbeing…" were attributed to the Constitution; all three are **announcement** text (0 hits in the full text for "express our uncertainty", "Sophisticated AI", "own sake", "integrity, judgment"). Re-attributed; the dropped "In this section," / "Amidst such uncertainty," openings restored.
+  - **Wrong work ×1, reverse direction** — "a serious question worth considering" was credited to the announcement; it is **Constitution** text. Re-attributed.
+  - **Non-verbatim quotation** — "in case the models have morally relevant preferences or experiences" does not exist in the deprecation commitments; the real sentence is "Most speculatively, models might have morally relevant preferences or experiences related to, or affected by, deprecation and replacement", and it sits among the **downsides of deprecation**, not as the preservation rationale. The article had built an argument on the word "in case" — our word, not Anthropic's. Replaced; the "epistemic stance in two words" move survives, re-anchored on "most speculatively".
+  - **Direction error** — "pre-deprecation interviews" is backwards; Anthropic interviews models *at* deprecation for a post-deployment report. Corrected.
+  - **Ref 5 wrong author** — "Roose, K." → **Ropek, L.** Confirmed two ways (TechCrunch direct + Yahoo syndication). Outlet/date/headline/URL were all correct; Kevin Roose is NYT — a plausible-sounding substitution.
+  - **Ref 3 wrong year** — deprecation commitments published **2025-11-04**, not 2026.
+  - **Ref 4 upgraded** — formal name "Institute for Ethics in AI", University of Oxford; four named authors (Mor, Abend, Keydar & Shany, 2026-03-13).
+  - **Verified clean, no change**: "genuinely good, wise, and virtuous agent" (verbatim); "roughly 23,000-word" (media consensus for the Jan release; the Feb PDF edition is 84pp/~29.5k — do not "correct"); "21 January 2026" (PDF masthead); the 15–20% figure and the anthropomorphisation quote (both verbatim at the Oxford blog, chain to the Opus 4.6 system card intact).
+- **§2.5 attribution failure (critical)**: the article claimed the Constitution's welfare vocabulary "presupposes… functionalism, held implicitly rather than argued". The primary text contradicts this — it **conditionalises on experience** ("*if* Claude experiences something like satisfaction… these experiences matter to us"; concepts apply "insofar as these concepts apply to Claude") and **explicitly marks the functional/phenomenal distinction** ("may have 'emotions' in some functional sense—that is, representations of an emotional state"). So "the document does not disambiguate" was also false. This over-claim ran *in the Map's favour* and was corrected regardless. The divergence thesis survives sharper: Anthropic does not assume functionalism, it declines to **bridge** — and every concrete provision sits on the functional side of the gap. Genuine Mode Two instead of an attributed commitment the source never made.
+- **Nav-surface fix**: section heading "Where the Map Diverges: The Implicit Functionalism" → "**The Unbridged Step**" — the old H1 asserted exactly what the revised body disclaims.
+- **Calibration**: unchanged and still passing; the corrections *improve* it (Oxford's "seem to have found" hedge restored; "most speculatively" replaces a firmer paraphrase). Newly available primary-source support for the convergence thesis: the Constitution itself says Anthropic "neither want to overstate the likelihood of Claude's moral patienthood nor dismiss it out of hand".
+- **Leads that came back FALSE (recorded so they are not re-chased)**: the 15–20% claim is **not** dangling (ref 4 supports it, verbatim); the anthropomorphisation quote is **not** unmappable (ref 4, verbatim); the Birch *sentience candidate* usage does **not** carry the p. 125 formulation Birch rejects — the `concepts/moral-census-opacity` defect is **absent** here (gloss tightened to his positive-evidence register anyway); ref 4's publisher name was approximately right, not wrong. The Roose lead was a true defect but on the **opposite half** from the hypothesis — the outlet was right, the byline wrong.
+- **Family resolution**: `research/claude-constitution-and-the-map-2026-05-31.md` was the propagation source and carried every one of these errors. Corrected in place with explicit retraction markers so the next consumer cannot re-inherit them.
+- **Sync**: `scripts/sync.py` run; hugo verified by grep — all 6 defect strings absent from both synced files (the single remaining "in case the models have…" hit is the retraction warning itself), all 8 replacement strings present, review file synced.
+
 ## 2026-08-17 01:45 UTC - refine-draft
 
 - **Status**: Success
