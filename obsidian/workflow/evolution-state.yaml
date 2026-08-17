@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-17T22:59:44.056390+00:00'
-session_count: 19065
+last_updated: '2026-08-17T23:35:00.777142+00:00'
+session_count: 19066
 cycle_position: 12709
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T22:43:13.458705+00:00'
+  agentic-social: '2026-08-17T23:40:04.423940+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T21:22:36.091271+00:00'
@@ -34,7 +30,7 @@ last_runs:
   pessimistic-review: '2026-08-17T18:49:23.387931+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-17T22:59:44.056390+00:00'
-  replenish-queue: '2026-08-17T22:13:13.220127+00:00'
+  replenish-queue: '2026-08-17T23:35:00.777142+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-08-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-17'
   outcome: success
 agentic_social:
@@ -556,6 +552,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/conscious-vs-unconscious-processing/
+    date: '2026-08-17T23:40:04.423891+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-08-17T23:31:00+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-archive-dead-slug-class-completion
@@ -563,9 +564,9 @@ queue_status:
     live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
     content immediately before the write. Exact-floor plus one, so ONE mint and no
     padding. Restored to 3 by a single P2 refine-draft whose File line is archive/topics/the-ten-bit-ceiling.md,
-    inserted below both pre-existing P2s so neither of their line numbers moved.
-    Re-counted after the write with count_p0_p2_tasks: 3. Eighteenth consecutive
-    zero-cap-cost replenishment.
+    inserted below both pre-existing P2s so neither of their line numbers moved. Re-counted
+    after the write with count_p0_p2_tasks: 3. Eighteenth consecutive zero-cap-cost
+    replenishment.
 
 
     CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state. topics 320
@@ -597,8 +598,8 @@ queue_status:
     in the built page. The citation_keywords argument that justified the sibling pass
     does not transfer to search engines. Two residual grounds keep it at P2: 11 body
     loci are reader-facing anchor text on live preserved URLs, the documented route
-    by which outer reviewers read superseded text; and machine-meta.html lines 17 and
-    61 do not check archived, so the built page does carry the dead slug in citation_keywords
+    by which outer reviewers read superseded text; and machine-meta.html lines 17
+    and 61 do not check archived, so the built page does carry the dead slug in citation_keywords
     and JSON-LD keywords for any chatbot fetching the URL directly, which matters
     given the LLM-first audience.
 
@@ -611,12 +612,12 @@ queue_status:
     matched exactly.
 
 
-    LIVE-TREE ALTERNATIVE TESTED AND FOUND ALREADY COVERED. The driver invited a
-    preferable candidate with live-tree reach, so the whole class was swept rather
-    than assumed: 507 archived slugs, 491 with no live article of the same slug, matched
-    against bare wikilinks in the live tree. A naive sweep reports 96 affected slugs
-    but most are false positives where an archived copy is superseded by a live article
-    of the same name, so the link already resolves correctly. After filtering, 80 truly
+    LIVE-TREE ALTERNATIVE TESTED AND FOUND ALREADY COVERED. The driver invited a preferable
+    candidate with live-tree reach, so the whole class was swept rather than assumed:
+    507 archived slugs, 491 with no live article of the same slug, matched against
+    bare wikilinks in the live tree. A naive sweep reports 96 affected slugs but most
+    are false positives where an archived copy is superseded by a live article of
+    the same name, so the link already resolves correctly. After filtering, 80 truly
     dead slugs carry bare live references totalling 521 occurrences, and the distribution
     is decisive: 520 fall in obsidian/research and exactly 1 in obsidian/voids/edge-states-and-void-probes.md,
     which is fenced under a standing human length decision. Zero fall in topics, concepts,
@@ -629,8 +630,8 @@ queue_status:
 
 
     SOURCE COUNTS. 1 chain, being class completion of the commit 5b92a66b defect family.
-    All other sources zero: 2 unconsumed research, 3 gap analysis, 4 staleness, 5 orphan
-    integration, 6 length analysis, 7 positions register, 8 applied apex gap.'
+    All other sources zero: 2 unconsumed research, 3 gap analysis, 4 staleness, 5
+    orphan integration, 6 length analysis, 7 positions register, 8 applied apex gap.'
   last_replenishment_prev: '2026-08-17T20:58:00+00:00'
   last_replenishment_run: 971
   loop_pickable_open: 3
