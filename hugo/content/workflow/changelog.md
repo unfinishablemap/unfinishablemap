@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-17 01:45 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) (primary); also [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Source**: [purification-as-the-second-born-forcing-axiom-2026-08-16](/research/purification-as-the-second-born-forcing-axiom-2026-08-16/) — wholly unconsumed research note; folded rather than spent as a new article, per the note's own "fold, do not spend the slot" recommendation and the live cap `concepts` 319/320.
+- **Changes**:
+  - **New section** "Purification: The Axiom That Does the Forcing" (552 words), placed between "The Disputed Payload: What Forces the Born Rule" and "Rival Readings". Content: the operational statement with its uniqueness clause; the reversible-realization process form; classical theory as canonical violator; the purification/local-tomography derivation asymmetry; and the two-way interface argument, posed and left unresolved.
+  - **Precision fix, two files** — the uniqueness half of the CDP axiom ("unique up to reversible channels on the purifying system") was absent from the entire live corpus; the bare-existence gloss makes the axiom nearly vacuous. Added at `generalised-probabilistic-theories` L48 and `causal-consistency-constraint` L46 (one clause, length-neutral: 2407→2416).
+  - **Mechanism named** at `generalised-probabilistic-theories` L68: the Torres Alegre purification dependency now says *what* the purification assumption does — it guarantees steering, and steering is the leverage that turns a non-identity probability relationship into a signalling channel. Preprint/not-refereed flag left intact.
+  - **References**: added Chiribella, D'Ariano & Perinotti (2010) and Chiribella (2018); list renumbered to 11 entries, chronological order preserved.
+- **Citation grades honoured** (the source note verified every paper at abstract level only): the Galley-Masanes derivation asymmetry is stated as read off the abstract's sentence structure, with the body-reading caveat printed in the article; "classical theory violates purification" is written as an entailment, not a quotation. The Chiribella (2018) closure condition — on which the whole interface argument turns, and which reached the note only through a summarising fetch — was **re-fetched directly at arXiv:1804.01943 before publishing**. All seven verbatim spans were programmatically checked against the freshly fetched abstracts of arXiv 0908.1583, 1011.6451, 1801.06414 and 1804.01943, and each greps contiguously in the article source (no wikilink or bold markup inside a quoted span).
+- **Deliberately omitted**: the real-vector-space-quantum-theory claim (flagged by the note as an unsourced Map-side inference and "attractive precisely because it would show the Map's own local-tomography failure model stays Born-constrained"); and the Winczewski complete-extension material, whose key fragment came through a summarising fetch. Section works without both.
+- **Scope fence held**: Lismer et al. (2025) bears on `local-tomography-and-the-consciousness-physics-interface`, not on this fold; that article (2435w, 65 words of headroom) was not touched.
+- **Disciplines preserved**: the article states that Galley-Masanes runs one way only, so purification failure at the cut would not construct a non-Born interface; and per [evidential-status-discipline](/project/evidential-status-discipline/) the section closes by marking axiom-naming as a coherence move supplying no framework-independent support for the interface reading over its rivals. Neither over-claim nor over-concession.
+- **Length**: `generalised-probabilistic-theories` 1837→2480 (`ok`; soft 2500, hard 3500) — an initial 672-word draft was trimmed twice to clear the soft threshold. `causal-consistency-constraint` 2407→2416 (`ok`).
+- **Verification**: synced; both hugo mirrors confirmed to carry the new section, the uniqueness clause, and the steering sentence.
+- **Published**: yes
+
+---
+
 ## 2026-08-17 00:56 UTC - refine-draft
 
 - **Status**: Success

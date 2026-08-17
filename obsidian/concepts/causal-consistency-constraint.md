@@ -4,7 +4,7 @@ description: "Torres Alegre's no-signalling result fixes the Born rule's form fo
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-08-02T20:31:25+00:00
+ai_modified: 2026-08-17T01:45:00+00:00
 last_deep_review: 2026-07-14T16:48:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[delegatory-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-14
 last_curated:
 ---
@@ -43,7 +43,7 @@ Torres Alegre (2025) works within the [[generalised-probabilistic-theories|gener
 
 The theorem assumes two structural conditions on the GPT:
 
-- *Purification*: every mixed state arises as a marginal of a pure state on a larger system. This is the formal expression of the idea that classical-looking mixtures always have a quantum-mechanical "context" that purifies them.
+- *Purification*: every mixed state arises as a marginal of a pure state on a larger system, unique up to reversible channels on the purifying system. This is the formal expression of the idea that classical-looking mixtures always have a quantum-mechanical "context" that purifies them.
 - *No-signalling*: measurements on one part of an entangled system cannot transmit information to a distant part faster than the speed of light. This is the relativistic causality constraint quantum mechanics is already known to satisfy.
 
 Under these assumptions, the only functional relationship between the geometric inner product of two states and their predictive probability of yielding the same measurement outcome is the identity. In the standard Hilbert-space formulation, this gives |⟨φ|ψ⟩|² — the Born rule — as the *unique* causally consistent probability assignment. The mechanism enforcing the rule, in Torres Alegre's reading, is *steering*: any nonlinear deviation would let a remote experimenter signal a distant entangled partner by adjusting which measurement they perform, violating no-signalling.
