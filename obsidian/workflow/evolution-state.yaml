@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T18:09:34.581700+00:00'
-session_count: 19139
+last_updated: '2026-08-18T18:26:29.281350+00:00'
+session_count: 19140
 cycle_position: 12743
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
   agentic-social: '2026-08-18T18:09:34.581700+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-18T08:21:47.243277+00:00'
-  check-model-fallback: '2026-08-18T14:22:50.205843+00:00'
+  check-model-fallback: '2026-08-18T18:26:29.281350+00:00'
   check-tenets: '2026-08-16T23:37:20.956730+00:00'
   coalesce: '2026-08-18T15:41:45.758926+00:00'
   collect-chatgpt-review: '2026-08-18T04:05:12.914122+00:00'
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-18'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-18'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-18'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -636,164 +636,100 @@ agentic_social:
     - attention-and-the-consciousness-interface
     - predictive-processing-and-dualism
 queue_status:
-  last_replenishment: '2026-08-18T02:43:04+00:00'
-  last_replenishment_mode: conservative-exact-floor-plus-one-materialism-argument-description-asserts-the-inference-its-body-disowns-and-P-D2-forbids
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
-    content immediately before the write. Exact-floor plus one, so ONE mint and no
-    padding. Post-count re-run with the same function after the write: 3. Restored
-    by a single P2 refine-draft whose File line is obsidian/arguments/materialism-argument.md,
-    appended at the very end of the Active section so neither pre-existing P2 moved.
-    Twenty-first consecutive zero-cap-cost replenishment.
+  last_replenishment: '2026-08-18T18:47:55+00:00'
+  last_replenishment_mode: promotion-only-two-verified-p3s-promoted-zero-minted-anchor-fragment-class-and-mind-arena-label
+  last_replenishment_note: 'PROMOTION-ONLY RUN. Nothing was minted. Pre-count P0-P2 equals 2
+    against the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector
+    on the todo content immediately before the write; post-count with the same function is 4.
+    The queue was never short of work: parse_tasks returned 46 active tasks of which 44 were
+    P3 and only 2 were P2, so the floor, which counts P0-P2 only, was blind to a 44-deep reachable
+    backlog. Minting more P3 would have deepened the exact condition causing the trigger, so
+    two existing P3 tasks were promoted on verified merit instead and the active-task total
+    is unchanged at 46.
 
 
-    COUNTING METHOD, AND A DISAGREEMENT WITH THE PREVIOUS RUN THAT IS RECORDED RATHER
-    THAN SILENTLY PROPAGATED. Two independent functions agree post-mint: count_p0_p2_tasks
-    returns 3, and parse_tasks from tools.todo.processor returns 40 active tasks of
-    which 3 are P2 and 37 are P3, with zero P0 and zero P1. The previous run recorded
-    p2_tasks 4 and loop_pickable_open 4 at a moment when count_p0_p2_tasks read 2,
-    so those two fields were produced by a different method, most likely one that
-    counts the parser-excluded veto-tagged condense P2. The figures written here are
-    the ones the two authoritative functions produce; the older 4 is not carried forward.
-    Not resolved to a primary source, and not worth a slot on its own.
+    PROMOTION 1, the broken heading-fragment class, now P2, File repointed from workflow/todo.md
+    to tenets/tenets.md. All three representative cases in the task were verified on disk before
+    promoting: concepts/reductionism renders the heading Kim''s Exclusion Challenge while the
+    link asks for Kim''s Challenge; concepts/quantum-consciousness renders The Prebiotic and
+    Multi-Mind Problems while tenets/tenets links to The Prebiotic Collapse Problem; concepts/agent-causation
+    renders Substance Causation The Metaphysical Foundation while apex/consciousness-and-agency
+    links with the word order reversed. The task recorded that its list had not been durably
+    captured, so the list was re-derived from source this run and written into the task. Method:
+    for every fragment wikilink in obsidian, resolve the target file and compare sync slugify
+    of the fragment against the ids the target actually renders, counting explicit curly-brace
+    custom heading ids, GitHub-style slugs of heading text, and caret block-ref ids. 925 fragment
+    links checked, 62 broken. A first pass that ignored the explicit custom heading ids reported
+    240 and was wrong by a factor of four; that false lens was caught and discarded before anything
+    was written.
 
 
-    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state, not read
-    off the CLAUDE.md table. Note the signature is count_section_files(section: str),
-    one positional argument and no root path; calling it with a root raises TypeError.
-    topics 320 of 320, at cap, gate blocks; concepts 319 of 320; voids 99 of 100;
-    positions 15 of 80. Neither expand-topic nor research-topic was mintable. section_caps
-    holds only max_topics, max_concepts, max_voids and max_positions, so the arguments
-    directory, at 5 files, is uncapped by construction and this mint costs no slot.
+    THE 62 SPLIT INTO TWO CLASSES AND THE SPLIT IS THE USEFUL PART. 25 are a converter defect,
+    not a content defect: slugify in tools/sync/wikilinks.py ends by collapsing runs of hyphens
+    to one, while Hugo heading ids keep the double hyphen that appears when punctuation sits
+    between two spaces, so any heading containing an em-dash, an arrow, a not-equals or a spaced
+    slash produces a link the converter cannot hit. The link text in those 25 is correct and
+    must not be hand-edited. tools/sync is operator territory so this is reported, not patched.
+    The remaining 37 across 33 files are genuine stale anchors from renamed or removed headings,
+    28 files of them live content, 6 self-anchors. Only those 37 are in scope for the task,
+    and each is listed with its likely replacement anchor where one is obvious.
 
 
-    WHAT WAS MINTED. arguments/materialism-argument line 8 ships a description asserting
-    that the hard problem, the zombie argument, epiphenomenalism and quantum indeterminacy
-    converge on dualism. The article denies exactly that inference twice, and both
-    loci were read verbatim on disk at mint. Line 132 says materialism''s failure
-    does not by itself yield dualism and that the Map does not claim otherwise, then
-    names panpsychism, neutral monism, Russellian monism and mysterianism as rivals
-    that reject materialism without a second substance. Line 140 states the correct
-    destination in the Map''s own settled words: the arguments converge on the claim
-    that materialism cannot in principle explain consciousness. The right formulation
-    is therefore already on the page twice and the description contradicts it. The
-    fix is a rewrite of that one frontmatter line and nothing else.
+    PROMOTION 2, the mind-arena navigation label, now P2. Re-verified in both trees rather than
+    trusted: grep -c of the piped label in obsidian/topics/instrumental-convergence returns
+    1, and the defect is live on the published page at hugo/content/topics/instrumental-convergence
+    line 77, which renders the anchor text supporting system pointing at /concepts/mind-arena/.
+    The denial was re-read at source: concepts/mind-arena line 33 says it names a territory
+    not a mechanism, and line 53 says the mind-arena is a domain term whose value depends on
+    keeping it distinct from the mechanism and formalism terms. Promoted because it has been
+    observed and deferred three times across the changelog, each re-observation costing a cycle,
+    while the fix is one pipe label inside a Relation to Site Perspective section.
 
 
-    WHY P2 RATHER THAN P3. The description does not merely contradict its own body;
-    it contradicts a live register position. positions/arguments-for-dualism line
-    53 carries P-D2, status live, credence high, last reviewed 2026-08-02: convergence
-    earns irreducibility, Bidirectional Interaction selects dualism, and the two do
-    not compound. Its Asserts clause states the committed catalogue language in those
-    words and closes by naming the exact failure this description commits, that counting
-    the selection step as a converging line converts framework-internal coherence
-    into evidential-status elevation, which the coherence-versus-evidential-status
-    discipline forbids. A description asserting convergence on dualism books the selection
-    step as part of the convergence.
+    A FALSE-PREMISE TASK WAS AUDITED AND BLOCKED RATHER THAN PROMOTED. The task asserting six
+    broken links in research notes, described in its own notes as driver-diagnosed target by
+    target, does not survive re-checking. Five of its six loci are wrong. Three return grep
+    -c of zero for the named string, and one of those three, self-reference-paradox in voids-volitional-opacity,
+    returns no commits at all under git log -S, so the string has never existed in that file
+    in repo history. One names the wrong slug, creativity-void rather than imagination-and-creativity-void.
+    One is in the related_articles frontmatter block rather than a body link. Exactly one locus
+    is real. In the other direction the headline is also wrong: a scan of all 547 research notes
+    finds 37 carrying wikilinks whose page target resolves nowhere, so the claim that six are
+    the only genuine broken links understates the set by about six times while naming five loci
+    that are not in it. The severity claim does not hold either, since sync strips an unresolvable
+    wikilink to plain text rather than serving a 404. The audit was written into the task and
+    it was deliberately left at P3 with a stop marker.
 
 
-    SURFACE EXPOSURE, VERIFIED IN THE LAYOUTS RATHER THAN ASSUMED. Description is
-    consumed at five places: baseof.html lines 13, 28 and 41 for the meta, Open Graph
-    and Twitter descriptions; machine-meta.html lines 13 and 38, which is the LLM-facing
-    structured block; and list.html line 4 for section-index listings. Under the LLM-first
-    writing policy this is the first and often the only proposition a fetching model
-    reads. This is navigation-surfaces-carry-unreviewed-claims in its sharpest form,
-    and the instruction in the task is to fix the label and leave the body alone.
+    CAPS RE-MEASURED, NOT QUOTED. topics 320 of 320 at cap with the gate blocking, concepts
+    318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic was mintable for topics
+    regardless of merit. The contested concepts and voids slots were not spent, consistent with
+    the five consecutive research notes recommending against spending them. Zero cap cost this
+    run.
 
 
-    ENUMERATED BY READING, NOT BY GREP, AND THE ENUMERATION CAME BACK AT ONE. Every
-    navigation surface on the file was checked individually: there is no aliases key;
-    the title Against Materialism is scoped to materialism''s failure and is correct;
-    the lead at line 39 says the article argues that materialism in all its forms
-    fails to account for conscious experience, which is correctly scoped and fenced
-    off in the task; and all eleven section headers were read and none asserts a dualist
-    conclusion. The four arguments the description lists map exactly onto the sections
-    at lines 47, 57, 80 and 92, so the enumeration in the description is accurate
-    and only its destination is wrong.
-
-
-    SWEEP FENCE, WHICH MATTERED HERE. A census of description lines containing both
-    converge and dualism returns about nine live content files, and most are correctly
-    calibrated or on-topic: topics/the-convergence-argument-for-dualism and concepts/dualism
-    both hedge inside the description itself and have convergence-to-dualism as their
-    declared subject, and topics/consciousness-and-the-metaphysics-of-composition
-    says suggestive support for dualism, not proof. None of those is a defect and
-    the task forbids touching them. This file is distinctive because it is the one
-    whose body explicitly disowns its own description. The single plausible other
-    candidate seen, topics/modal-structure-of-phenomenal-properties, is to be reported
-    and not fixed.
-
-
-    PILEUP, VETO, CHURN AND OVERLAP CHECKS. Open-task counting was done by splitting
-    on the enclosing header rather than by grepping File lines above the Completed
-    marker: of 23 materialism-argument entries in todo.md, 21 sit under resolved check-mark
-    headers and only 2 are live, both P3 and both filed against other paths. The Active
-    region carries zero File lines targeting this path. The two live P3s are out of
-    remit and the task says so explicitly: one is a five-file cross-link matrix whose
-    remit is cross-links, their glosses and one topics frontmatter fix, and which
-    itself says do not rewrite argument, re-hedge or re-cite; the other is an additive
-    Argued-in field update on the positions register. Neither touches description.
-    The Vetoed region''s two converge-on-dualism hits both concern the grain-mismatch
-    cluster and instruct that such claims stay calibrated, so they point the same
-    way as this fix rather than fencing it. Churn-clean: ai_modified is 2026-07-29T05:19:00+00:00,
-    20 days, and the last commit touching the file is 449073369a on the same date.
-    No concurrent evolve_loop.py; the only pgrep hit was this session''s own shell.
-
-
-    LENGTH, MEASURED AND NOT BINDING. analyze_length reads 3316 words, status soft_warning,
-    against arguments thresholds of 2500 soft, 3500 hard and 5000 critical, so 184
-    words to hard. The edit moves a frontmatter line by about two words and is length-neutral.
-    The cross-link P3 quotes the same 3316 figure as length is binding, but that constraint
-    concerns adding links and glosses and has no bearing on a same-length description
-    rewrite; the task records the distinction so the executor does not inherit a false
-    constraint.
-
-
-    THE REPLACEMENT WORDING WAS SIZED AT MINT. Candidates were character-counted rather
-    than eyeballed. The preferred form, at 157 characters and inside the 150-to-160
-    schema band, keeps the four-item list and the em-dash and ends on converge on
-    its in-principle failure, which mirrors line 140 and uses no contrastive construct.
-    A 160-character alternative ending on converge on irreducibility, not dualism
-    names P-D2''s destination explicitly but sits at the band ceiling. The task instructs
-    re-measurement rather than trusting either count blind.
-
-
-    OTHER SOURCES AUDITED AND DECLINED. Chain: caps block the article end of any research-to-expand-to-cross-review
-    sequence, topics being at the gate cap. Unconsumed research: harvester-owned and
-    blocked by the same caps. Gap analysis: expand and research into topics and voids
-    both blocked at cap. Staleness: nothing outranked a verified contradiction on
-    a live indexed navigation surface. Orphan integration: quality.orphaned_files
-    is 0. Length analysis: nothing mintable, the live candidates being operator-vetoed
-    or under a standing human decision. Positions register: 15 entries, no audit due,
-    and the deliberate two-add friction argues against spending the only slot there;
-    note that this mint defends a positions entry without editing one. Applied apex
-    gap: no high-confidence cluster lacking an applied apex.
-
-
-    SOURCE COUNTS. 1 chain, being the follow-through on a defect surfaced by the 2026-08-18
-    agentic-social pass on this article, which checked the convergence framing before
-    writing and posted to the body''s calibration rather than the description''s,
-    so nothing mis-calibrated shipped. All other sources zero.'
-  last_replenishment_prev: '2026-08-18T01:15:00+00:00'
-  last_replenishment_run: 974
-  loop_pickable_open: 3
+    SOURCE COUNTS. promotion_existing_p3 is 2 and every other source is zero, which is the accurate
+    record of a run that generated no new tasks.'
+  last_replenishment_prev: '2026-08-18T02:43:04+00:00'
+  last_replenishment_run: 975
+  loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 37
-  promoted_p3_to_p2: 0
+  p2_tasks: 4
+  p3_tasks: 42
+  promoted_p3_to_p2: 2
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
-    chain: 1
+    chain: 0
     deferred_residue_capture: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions_dependency_changed: 0
     positions_register_gap: 0
-    promotion_existing_p3: 0
+    promotion_existing_p3: 2
     staleness: 0
     unconsumed_research: 0
     verified_residue_mint: 0
