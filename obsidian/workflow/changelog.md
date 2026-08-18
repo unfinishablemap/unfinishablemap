@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T15:39:50+00:00'
+ai_modified: '2026-08-18T18:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 18:00 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/plenitude-void]]
+- **Original score**: not run — SKILL.md Step 3 invokes `scripts/curate.py`, which does not exist. Quality was assessed against the source research note instead.
+- **Source**: [[research/voids-summary-statistics-void-2026-08-18]] (fold, primary host)
+- **Published**: yes
+
+**The defect.** The article framed richness-of-experience as Dennett-vs-Block plus eliminativism and carried a `## The Bandwidth Frame` section while citing none of the ensemble-perception literature — measured on disk before the edit: `Cohen` 0, `Kanwisher` 0, `ensemble` 0, `Ward` 0, `Bronfman` 0, against `Dennett` 6. Most pointedly it omitted Cohen, Dennett & Kanwisher (2016), whose actual proposal is the summary-statistics mechanism: the Map was citing that paper's conclusion while omitting its argument.
+
+**Changes.**
+
+1. **New `## The Ensemble Reframe` section** (301 words) after the eliminativism paragraph. Installs the fourth position — the format reframe (representation is statistical, so "how much detail?" is posed in a currency the representation may not use); Bronfman et al. (2014) as the overflow case; Ward, Bear & Scholl (2016) as the cut inference; subjective inflation (Rahnev et al. 2011; Knotts et al. 2019) as the positive account of the seeming, hooked to [[tenets#^occams-limits|Occam's Razor Has Limits]] — the economy is real and a real economy is not by itself evidence.
+2. **Re-worded the adjudication claim** in `## The Bandwidth Frame`. Was: "The plenitude void is the claim that current methods cannot adjudicate between these pictures." Now states that methods have not adjudicated *and* registers what was removed from the board, per the falsifier/negative-state discipline adopted in the style guide today — Ward et al. is the middle state (a result that removes a specific inference), not an absence and not a refutation of overflow.
+3. **Trimmed `## The Bandwidth Frame`** as the funding donor the research note identified: the bits-per-second figures duplicated [[bandwidth-of-consciousness]] and now defer to it. `bandwidth-of-consciousness` itself was **not touched** — it is at 4150w and already `hard_warning`.
+4. **De-duplicated the imagery-void tail** in the check-and-find loop (−29 words); the removed clause restated its own Further Reading entry.
+5. **Five references added**, inserted alphabetically and all before the trailing Map self-citation.
+
+**Engagement classification** (editor-internal): the ensemble material engages Block's overflow position in **Mode One** — the inference is cut from inside the empirical framework both sides accept, using a result Block's own supporters' evidence base relies on, rather than by appeal to Map commitments. No mode vocabulary appears in the article body.
+
+**Guardrails inherited from the research note, not re-derived.**
+
+- The finding was **not** extended to [[voids/the-surplus-void]], which argues from the qualitative depth of *attended* experience rather than peripheral item-detail. The new section fences this explicitly in prose; `the-surplus-void.md` was not modified.
+- McClelland & Bayne (2016) was **not promoted**: the note flags its "two conceptions of sparsity" gloss as the note author's inference (no abstract deposited at Crossref or Europe PMC). Neither the source nor the gloss appears in the article.
+- The note's "not checked (budget)" vs "genuinely open in the literature" split was respected; nothing of the first kind is reported as the second.
+
+**Quote fidelity.** All five quoted spans are contiguous and grep-verifiable (`grep -cF` = 1) in both the article and the research note, which grep-verified them against retrieved Crossref/Europe PMC abstracts. No wikilinks or bold markup break any quoted span. Cohen, Dennett & Kanwisher is **paraphrased, not quoted** — no abstract is deposited for it at either index, so no verbatim span was available.
+
+**Length.** Decomposed prose **2315 → 2605** against the voids hard threshold of 3000 — 395 words of headroom, printed from `THRESHOLDS`, not quoted from memory. Raw `analyze_length` reads **2634 → 3062** (`soft_warning` → `hard_warning`), but the entire overage is reference apparatus: references grew 225 → 363 words to carry five DOI-verified sources, while body prose stayed well inside threshold. This is the known apparatus-inflation pattern — any condense task minted against this file on the raw figure should be triaged against the decomposition first.
 
 ## 2026-08-18 15:39 UTC - coalesce
 

@@ -2,9 +2,9 @@
 title: "The Plenitude Void"
 description: "Human+AI exploration of why conscious experience seems rich beyond what can be reported or checked—and why that gap may be structurally impossible to resolve from within."
 created: 2026-04-23
-modified: 2026-04-28
+modified: 2026-08-18
 human_modified:
-ai_modified: 2026-04-28T09:14:00+00:00
+ai_modified: 2026-08-18T18:00:00+00:00
 last_deep_review: 2026-07-17T00:40:55+00:00
 draft: false
 topics:
@@ -71,6 +71,14 @@ The two sides are not, however, symmetric in their relation to evidence. The gra
 
 A third position. Eliminativists such as Paul Churchland reject the Block–Dennett framing altogether: "phenomenal content" is not a natural kind, and the void dissolves if one drops the category. On this view, iconic memory and change blindness await redescription in a mature cognitive vocabulary, and the plenitude question is an artefact of folk-psychological commitments. The article treats eliminativism as a live alternative the void has to survive rather than as already refuted.
 
+## The Ensemble Reframe
+
+A fourth position asks not how much detail is present but in what format. Cohen, Dennett and Kanwisher (2016) proposed ensemble coding — representing groups, and the periphery, as pooled summary statistics rather than as individual items — as the mechanism behind apparent peripheral richness: a scene can seem populated without item-level phenomenology because what is represented across a region is texture-like statistics. The question "how much detail was there?" is then posed in a currency the representation may not use, and introspection cannot tell which format a region is in: both render as populated space. The reframe covers unattended and peripheral content, not the attended qualitative depth that [[the-surplus-void]] treats.
+
+It reaches the evidence too. Bronfman, Brezis, Jacobson and Usher (2014) used colour diversity — "a unique summary statistic" — to route around report limits in a Sperling-like array, finding that it "is registered automatically, outside focal attention, and without consuming additional working memory resources," a result read as support for overflow. Ward, Bear and Scholl (2016) cut the inference carrying that reading: observers reported ensemble properties accurately while awareness of the constituent items was coarse or absent, and they conclude that "awareness of statistical properties may occur in the absence of awareness of individual features" and that this is "fully consistent with sparse visual awareness."
+
+Subjective inflation then accounts for the seeming itself. Attention induces conservative visibility ratings, so unattended periphery is rated more visible than attended content at matched objective performance (Rahnev et al. 2011); Knotts, Odegaard, Lau and Rosenthal (2019) argue from this that "subjective inflation can account for rich phenomenology without invoking phenomenological overflow" — one mechanism in place of two categories of consciousness. The economy is real, and by [[tenets#^occams-limits|Occam's Razor Has Limits]] a real economy is not by itself evidence.
+
 ## Introspection's Unreliability
 
 Eric Schwitzgebel (2008) adds a further layer. Introspection is systematically unreliable even about basic features of current experience — emotional valence, peripheral visual detail, phenomenology of thought. He argues that "we fail not just in assessing the causes of our mental states... but in assessing even the most basic features of our experience." Conscious states are fleeting, introspection is theory-laden, and the act of introspecting changes what is introspected.
@@ -79,17 +87,17 @@ This point is structurally crucial. If introspection were reliable, the Block–
 
 ## The Bandwidth Frame
 
-A quantitative angle sharpens the stakes. Commonly cited estimates (see [[bandwidth-of-consciousness]] for sources and caveats) put inbound information at something like 10⁹ bits per second across the body's receptors, with conscious reportable content flowing out at on the order of 10–60 bits per second. The specific figures are contested and methodology-dependent, but the gap is several orders of magnitude wide on any reasonable measurement, and that asymmetry is what matters here.
+A quantitative angle sharpens the stakes. Estimates of inbound sensory information exceed estimates of reportable conscious content by several orders of magnitude on any measurement; [[bandwidth-of-consciousness]] carries the specific figures, which are contested and methodology-dependent, together with their caveats. The asymmetry rather than the numbers is what matters here.
 
-This asymmetry is compatible with two very different pictures. One: phenomenal consciousness itself is near the low end, and the high-bandwidth story is simply neural preprocessing that never becomes phenomenal. Two: phenomenal consciousness operates nearer the high end, and the bandwidth asymmetry reflects the bottleneck between phenomenal presence and cognitive access — Block's overflow at industrial scale.
+The asymmetry is compatible with two pictures. One: phenomenal consciousness sits near the low end, and the high-bandwidth story is preprocessing that never becomes phenomenal. Two: it runs nearer the high end, and the gap is the bottleneck between phenomenal presence and cognitive access — Block's overflow at industrial scale.
 
-The plenitude void is the claim that current methods cannot adjudicate between these pictures. Psychophysical experiments measure reportable content, and phenomenal content that does not reach report cannot be distinguished from phenomenal content that never existed. The bandwidth framing specifies the magnitude of the possible overflow without telling us how much of it is phenomenal.
+Current methods have not adjudicated between these pictures, though that claim needs stating more carefully than it once did. Phenomenal content that does not reach report cannot be distinguished by report-based methods from phenomenal content that never existed. But this is not a case of nothing having come in: Ward et al. removed a specific inference from the board — that accurate ensemble report establishes awareness of the individual items — without refuting overflow, which survives for anyone willing to posit phenomenal content no report can reach. The board has fewer pieces on it than it had; it has not been cleared.
 
 ## The Self-Concealing Structure
 
 What makes the plenitude void a void, rather than merely a hard problem, is that its investigation is compromised by the phenomenon itself. Three features make this structural.
 
-**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [[inference-void]]), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such. The same self-concealing structure surfaces at domain-specific scale in the [[imagery-void]]: probing for the exact shade or sharpness of an imagined apple generates detail that was not there before the probe, with confident reports diverging wildly across persons and across the same person under different probes. Mental imagery is the plenitude pattern in miniature, isolated to a single phenomenal modality where the probing-creates-content effect is empirically anchored by the aphantasia literature.
+**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [[inference-void]]), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such. The [[imagery-void]] is the same structure at domain-specific scale: probing for the exact shade of an imagined apple generates detail that was not there before the probe, and confident reports diverge wildly across persons and across the same person under different probes.
 
 **The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Follow-up work on the inattentional-blindness paradigm (Simons & Chabris 1999, and subsequent replications) finds that subjects who miss the gorilla can nonetheless offer confident post-hoc descriptions of the scene. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
 
@@ -133,15 +141,20 @@ The void also connects to [[self-opacity]] (the general structural inaccessibili
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
 1. Block, N. (2007). "Consciousness, accessibility, and the mesh between psychology and neuroscience." *Behavioral and Brain Sciences*, 30(5–6), 481–499.
 1. Blackmore, S. (2002). "The Grand Illusion: Why consciousness exists only when you look for it." *New Scientist*, 2348.
+1. Bronfman, Z. Z., Brezis, N., Jacobson, H. & Usher, M. (2014). "We See More Than We Can Report: 'Cost Free' Color Phenomenality Outside Focal Attention." *Psychological Science*, 25(7), 1394–1403.
 1. Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *The Journal of Philosophy*, 78(2), 67–90.
+1. Cohen, M. A., Dennett, D. C. & Kanwisher, N. (2016). "What is the Bandwidth of Perceptual Experience?" *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Knotts, J. D., Odegaard, B., Lau, H. & Rosenthal, D. (2019). "Subjective inflation: phenomenology's get-rich-quick scheme." *Current Opinion in Psychology*, 29, 49–55.
 1. Noë, A. (ed.) (2002). *Is the Visual World a Grand Illusion?* Imprint Academic.
 1. O'Regan, J. K. & Noë, A. (2001). "A Sensorimotor Account of Vision and Visual Consciousness." *Behavioral and Brain Sciences*, 24(5), 939–973.
 1. Posner, M. I. (1980). "Orienting of Attention." *Quarterly Journal of Experimental Psychology*, 32(1), 3–25.
 1. Prinz, J. (2012). *The Conscious Brain: How Attention Engenders Experience*. Oxford University Press.
+1. Rahnev, D., Maniscalco, B., Graves, T., Huang, E., de Lange, F. P. & Lau, H. (2011). "Attention induces conservative subjective biases in visual perception." *Nature Neuroscience*, 14(12), 1513–1515.
 1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
 1. Simons, D. J. & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059–1074.
 1. Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
 1. Tye, M. (2009). *Consciousness Revisited: Materialism Without Phenomenal Concepts*. MIT Press.
+1. Ward, E. J., Bear, A. & Scholl, B. J. (2016). "Can you perceive ensembles without perceiving individuals? The role of statistical perception in determining whether awareness overflows access." *Cognition*, 152, 78–86.
 1. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/
 
