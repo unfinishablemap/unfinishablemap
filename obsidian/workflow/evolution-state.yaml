@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T20:54:47.286511+00:00'
-session_count: 19149
-cycle_position: 12747
+last_updated: '2026-08-18T21:23:09.832879+00:00'
+session_count: 19150
+cycle_position: 12748
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
   agentic-social: '2026-08-18T20:54:47.286511+00:00'
@@ -33,7 +33,7 @@ last_runs:
   optimistic-review: '2026-08-18T13:35:50.334718+00:00'
   pessimistic-review: '2026-08-18T11:35:45.550268+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-18T20:08:35.579875+00:00'
+  refine-draft: '2026-08-18T21:23:09.832879+00:00'
   replenish-queue: '2026-08-18T18:51:12.369883+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
@@ -41,7 +41,7 @@ last_runs:
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-18T16:57:27.979295+00:00'
+last_git_push: '2026-08-18T21:23:10.374112+00:00'
 last_tweet_date: '2026-08-18'
 content_stats:
   total_files: 297
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-18'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -649,93 +649,96 @@ agentic_social:
     - personal-identity
     - split-brain-consciousness
 queue_status:
-  last_replenishment: '2026-08-18T18:47:55+00:00'
-  last_replenishment_mode: promotion-only-two-verified-p3s-promoted-zero-minted-anchor-fragment-class-and-mind-arena-label
-  last_replenishment_note: 'PROMOTION-ONLY RUN. Nothing was minted. Pre-count P0-P2
-    equals 2 against the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector
-    on the todo content immediately before the write; post-count with the same function
-    is 4. The queue was never short of work: parse_tasks returned 46 active tasks
-    of which 44 were P3 and only 2 were P2, so the floor, which counts P0-P2 only,
-    was blind to a 44-deep reachable backlog. Minting more P3 would have deepened
-    the exact condition causing the trigger, so two existing P3 tasks were promoted
-    on verified merit instead and the active-task total is unchanged at 46.
+  last_replenishment: '2026-08-18T21:43:44+00:00'
+  last_replenishment_mode: promotion-only-three-verified-p3s-promoted-zero-minted-plus-one-false-correction-audited
+  last_replenishment_note: 'PROMOTION-ONLY RUN, THE SECOND TONIGHT. Nothing was minted and
+    the active-task total is unchanged at 46. Pre-count P0-P2 equals 2 against the floor of
+    3, measured with count_p0_p2_tasks from tools.evolution.task_selector on the todo content
+    immediately before the write; post-count with the same function is 5. Shape was identical
+    to the 18:47 run: 46 active, 44 of them P3, 2 P2. The floor counts P0-P2 only, so it stays
+    blind to a deep reachable P3 backlog and minting more P3 would deepen the exact condition
+    causing the trigger. Three existing P3 tasks were promoted on premises re-verified from
+    disk this run, and one further task was audited and deliberately left at P3 with the audit
+    written in.
 
 
-    PROMOTION 1, the broken heading-fragment class, now P2, File repointed from workflow/todo.md
-    to tenets/tenets.md. All three representative cases in the task were verified
-    on disk before promoting: concepts/reductionism renders the heading Kim''s Exclusion
-    Challenge while the link asks for Kim''s Challenge; concepts/quantum-consciousness
-    renders The Prebiotic and Multi-Mind Problems while tenets/tenets links to The
-    Prebiotic Collapse Problem; concepts/agent-causation renders Substance Causation
-    The Metaphysical Foundation while apex/consciousness-and-agency links with the
-    word order reversed. The task recorded that its list had not been durably captured,
-    so the list was re-derived from source this run and written into the task. Method:
-    for every fragment wikilink in obsidian, resolve the target file and compare sync
-    slugify of the fragment against the ids the target actually renders, counting
-    explicit curly-brace custom heading ids, GitHub-style slugs of heading text, and
-    caret block-ref ids. 925 fragment links checked, 62 broken. A first pass that
-    ignored the explicit custom heading ids reported 240 and was wrong by a factor
-    of four; that false lens was caught and discarded before anything was written.
+    PROMOTION 1, piped topic aliases, now P2, File obsidian/topics/ai-consciousness.md. Premise
+    re-derived independently rather than trusted: every file under obsidian was parsed for
+    its topics frontmatter block, yielding 2641 topic entries, 0 path-prefixed and exactly
+    9 piped, all on the single stem consciousness-and-cognitive-distinctiveness across exactly
+    two alias tails. That confirms the three-identity split the task asserts. The task listed
+    only six of the nine files and said to re-derive; the full nine were derived and written
+    into the entry. Three of the nine sit outside topics, one under voids and two under concepts,
+    so a topics-only sweep would drop a third of the population. Mechanical, length-neutral,
+    and it repairs a live dedup key in the agentic-social tracking window.
 
 
-    THE 62 SPLIT INTO TWO CLASSES AND THE SPLIT IS THE USEFUL PART. 25 are a converter
-    defect, not a content defect: slugify in tools/sync/wikilinks.py ends by collapsing
-    runs of hyphens to one, while Hugo heading ids keep the double hyphen that appears
-    when punctuation sits between two spaces, so any heading containing an em-dash,
-    an arrow, a not-equals or a spaced slash produces a link the converter cannot
-    hit. The link text in those 25 is correct and must not be hand-edited. tools/sync
-    is operator territory so this is reported, not patched. The remaining 37 across
-    33 files are genuine stale anchors from renamed or removed headings, 28 files
-    of them live content, 6 self-anchors. Only those 37 are in scope for the task,
-    and each is listed with its likely replacement anchor where one is obvious.
+    PROMOTION 2, alignment-line inheritance, now P2, File obsidian/topics/eastern-philosophy-consciousness.md.
+    All three loci re-verified by content-grep. Line numbers had drifted again and the current
+    positions were written in. Two quoting traps were found and recorded so a fixer does not
+    read them as fabricated quotes: the apex locus quotation in the notes elides an in-source
+    parenthetical, and the supporting tenets clause carries emphasis markers, so a plain-string
+    grep returns zero on both while the text is genuinely present. The task named three files
+    but carried only one File line, the documented multi-file drop shape, so Second file and
+    Third file lines were added.
 
 
-    PROMOTION 2, the mind-arena navigation label, now P2. Re-verified in both trees
-    rather than trusted: grep -c of the piped label in obsidian/topics/instrumental-convergence
-    returns 1, and the defect is live on the published page at hugo/content/topics/instrumental-convergence
-    line 77, which renders the anchor text supporting system pointing at /concepts/mind-arena/.
-    The denial was re-read at source: concepts/mind-arena line 33 says it names a
-    territory not a mechanism, and line 53 says the mind-arena is a domain term whose
-    value depends on keeping it distinct from the mechanism and formalism terms. Promoted
-    because it has been observed and deferred three times across the changelog, each
-    re-observation costing a cycle, while the fix is one pipe label inside a Relation
-    to Site Perspective section.
+    PROMOTION 3, the Baird and Fox mis-enlistment, now P2, File obsidian/concepts/contemplative-epistemology.md.
+    The named loci are real and were re-verified, but the population is understated on the
+    live side and the promotion corrects it. A loose grep for the phrase logarithmic learning
+    curve over the source trees returns 11 archived content files rather than four, and five
+    live content files rather than one. The four unmentioned live files are apex contemplative-path
+    L68, apex testing-the-map-from-inside L178, concepts metacognition L91 and concepts phenomenological-evidence
+    L93, and three of those four contain zero occurrences of the phrase cross-sectional anywhere
+    in the file. A calibrated copy-source already exists on disk at topics phenomenal-authority-and-first-person-evidence
+    L166 and was named in the entry so nobody composes fresh wording. Second file and Third
+    file lines were added for the two extra live targets.
 
 
-    A FALSE-PREMISE TASK WAS AUDITED AND BLOCKED RATHER THAN PROMOTED. The task asserting
-    six broken links in research notes, described in its own notes as driver-diagnosed
-    target by target, does not survive re-checking. Five of its six loci are wrong.
-    Three return grep -c of zero for the named string, and one of those three, self-reference-paradox
-    in voids-volitional-opacity, returns no commits at all under git log -S, so the
-    string has never existed in that file in repo history. One names the wrong slug,
-    creativity-void rather than imagination-and-creativity-void. One is in the related_articles
-    frontmatter block rather than a body link. Exactly one locus is real. In the other
-    direction the headline is also wrong: a scan of all 547 research notes finds 37
-    carrying wikilinks whose page target resolves nowhere, so the claim that six are
-    the only genuine broken links understates the set by about six times while naming
-    five loci that are not in it. The severity claim does not hold either, since sync
-    strips an unresolvable wikilink to plain text rather than serving a 404. The audit
-    was written into the task and it was deliberately left at P3 with a stop marker.
+    A FOURTH TASK WAS AUDITED AND LEFT AT P3 BECAUSE ONE OF ITS OWN CORRECTIONS IS WRONG.
+    The task on the copy the calibrated sibling instruction asserts that four of six model
+    pointers land on blank lines. Re-measured by byte count on disk, three of the four hold
+    exactly as written. The fourth fails: for concepts self-stultification the line 130 pointer
+    is indeed blank, but the asserted real locus at line 131 is a section heading of 39 bytes,
+    and the quoted span actually sits at line 129, one line above the blank rather than one
+    below. A fixer following the correction would open a heading and invent wording, which
+    is the exact outcome the task exists to prevent. A second pointer listed as correct as
+    written, concepts illusionism lines 89 to 91, has a blank at line 90 and straddles a paragraph
+    break. Net effect is that the task target is sound and the case for its fix is stronger
+    than before, since five of six pointers are now stale or imprecise ten days after they
+    were written, but it must not be executed from its own line numbers. The audit was written
+    into the entry. A note-bleed was also recorded: a driver correction paragraph about a
+    zero-person perspective phrase census sits inside that task and belongs to a different
+    one. Its figures were independently re-checked and are accurate, 5 live content articles,
+    1 research note and 6 files under archive, so it was annotated rather than deleted.
 
 
-    CAPS RE-MEASURED, NOT QUOTED. topics 320 of 320 at cap with the gate blocking,
-    concepts 318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic was
-    mintable for topics regardless of merit. The contested concepts and voids slots
-    were not spent, consistent with the five consecutive research notes recommending
-    against spending them. Zero cap cost this run.
+    NO OTHER TASK WAS PROMOTED, AND THE REASON IS MERIT NOT CAPACITY. The research-harvest
+    pair and the folded-voids pair are sound but cost more than a promotion slot is worth
+    tonight; the archived Klein attribution and the research-note quote residue both state
+    on their face that the live tree is clean, so neither carries reader-facing exposure;
+    the Hirsch quote task is an unchecked surface rather than a known defect and its own notes
+    record that every route to the primary text is blocked. The six broken links task audited
+    false at 18:47 was left untouched with its stop marker intact.
 
 
-    SOURCE COUNTS. promotion_existing_p3 is 2 and every other source is zero, which
-    is the accurate record of a run that generated no new tasks.'
-  last_replenishment_prev: '2026-08-18T02:43:04+00:00'
-  last_replenishment_run: 975
-  loop_pickable_open: 4
+    CAPS RE-MEASURED WITH THE GATING FUNCTION, NOT QUOTED. count_section_files returns topics
+    320 of 320 at cap, concepts 318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic
+    was mintable for topics regardless of merit. The contested concepts and voids slots were
+    not spent. Zero cap cost this run.
+
+
+    SOURCE COUNTS. promotion_existing_p3 is 3 and every other source is zero, which is the
+    accurate record of a run that generated no new tasks.'
+  last_replenishment_prev: '2026-08-18T18:47:55+00:00'
+  last_replenishment_run: 976
+  loop_pickable_open: 5
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 42
-  promoted_p3_to_p2: 2
+  p2_tasks: 5
+  p3_tasks: 41
+  promoted_p3_to_p2: 3
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
@@ -746,7 +749,7 @@ queue_status:
     orphan_integration: 0
     positions_dependency_changed: 0
     positions_register_gap: 0
-    promotion_existing_p3: 2
+    promotion_existing_p3: 3
     staleness: 0
     unconsumed_research: 0
     verified_residue_mint: 0
