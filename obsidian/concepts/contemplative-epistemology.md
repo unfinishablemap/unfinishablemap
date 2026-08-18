@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-05-29T06:55:53+00:00
+ai_modified: 2026-08-18T13:40:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Contemplative epistemology accepts these critiques but limits their scope. They 
 
 Fox et al. (2012) tested meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices on a logarithmic learning curve, the same pattern observed in perceptual skill acquisition. This result is promising but indirect: introspective accuracy on a sensory-discriminative task is not identical to reporting on the structure of phenomenal consciousness. The inferential gap must be acknowledged.
 
-The case for extension rests on convergent evidence. Baird et al. (2014) found meditation training enhanced metacognitive accuracy in memory tasks. Kok and Singer (2017) documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision. A 2025 study integrating first-, second-, and third-person methods argues that contemplatives trained in sustained attention, mindfulness, and introspection are an ideal population for phenomenological research precisely because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025). The pattern is consistent: training in sustained attention improves the accuracy of first-person reports, with improvement tracking practice hours.
+The case for extension rests on convergent evidence, and the convergence is real but uneven. Baird et al. (2014)—a two-week randomised training program with an active control, the closest thing to a controlled test—enhanced introspective accuracy in a memory but not a perception domain, and perception is the domain Fox's comparison sits in. Kok and Singer (2017) documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision. A 2025 study integrating first-, second-, and third-person methods argues that contemplatives trained in sustained attention, mindfulness, and introspection are an ideal population for phenomenological research precisely because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025). The honest summary is narrower than a blanket training effect. Accuracy tracks accumulated practice hours in the perceptual domain Fox measured, and controlled training enhances it in the memory domain. The two designs measure different things, so Baird is no failed replication of Fox; it does mean the extension rests on correlational evidence in the one domain where the controlled test came out null.
 
 The implication—stated carefully—is that contemplative reliability is a trainable skill, not a fixed trait. The evidence is strongest for attention-adjacent discriminations (detecting mind-wandering, tracking body sensations, reporting affective valence). Extension to deeper phenomenal structures rests on the convergence arguments below, not on direct psychophysical measurement.
 
@@ -100,12 +100,14 @@ Contemplative reliability is not all-or-nothing. It varies by domain:
 
 | Domain | Reliability | Evidence |
 |--------|------------|----------|
-| Current attended phenomenal states | High | Fox et al. 2012; Baird et al. 2014; microphenomenology convergence |
+| Current attended phenomenal states | High | Microphenomenology convergence; cross-modal verification; Fox et al. 2012 at correlational strength (see scope note) |
 | Temporal microstructure of experience | Moderate-high | Convergent reports across Buddhist, Husserlian, and contemplative traditions |
 | Distinction between awareness and content | Moderate-high | Convergence across Buddhist, Hindu, and secular traditions |
 | Peripheral or background states | Low | Schwitzgebel's catalogue of failures |
 | Causal processes behind experience | Very low | Nisbett & Wilson 1977; choice blindness |
 | Metaphysical interpretation of findings | Variable | Divergence between traditions with equal expertise |
+
+*Scope note on the first row.* Fox et al. (2012) is cross-sectional: nobody was trained and retested, so it establishes that experience predicts introspective accuracy on a perceptual task, not that training produced it. Baird et al. (2014), the closest controlled test, was null in the perception domain, so it constrains this row rather than supporting it. The **High** rating rests on the microphenomenology protocols and cross-modal convergence above, with Fox contributing at correlational strength.
 
 This gradient matters for assessing any philosophical argument that appeals to contemplative evidence. Claims grounded in attended phenomenal content rest on the strongest reliability foundation. Claims extrapolating to metaphysics rest on the weakest.
 
