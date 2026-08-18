@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T05:18:30+00:00'
+ai_modified: '2026-08-18T11:23:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 05:18:30+00:00
+lastmod: 2026-08-18 11:23:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 11:23 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) — applied apex, never previously adversarially reviewed, 0 live open tasks at selection.
+- **Output**: [pessimistic-2026-08-18-assessing-ai-consciousness](/reviews/pessimistic-2026-08-18-assessing-ai-consciousness/)
+- **Headline finding — the decision guidance is inverted against the Map's own corpus.** Recommendation 4 (`:125`) names "quantum-AI systems" as "the empirically richest place to test the framework's predictions," and the open-substrate section (`:109`) says those questions "are open and would need separate work." That work exists: [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/), created **2026-07-07, three weeks before this apex's 2026-07-28 synthesis**, applies the five-requirement channel test and finds a gate-based QPU failing **continuity, specificity and granularity** (QEC "actively isolates the logical state from external influence — precisely the influence a consciousness interface would need"), with the analog class failing "*more securely* than the gate class, not less." Only the quantum-biological hybrid class aims at the right target, and it "is not a technology that exists." The apex does not link that article at all (count 0). For an *applied* apex whose stated audience is people making funding and policy decisions, this is the highest-cost defect available.
+- **Self-cancelling dependency claim.** `:149` asserts the Seth/IIT convergence "removes any claim that the Map's contested mechanism is load-bearing for that verdict"; `:153` asserts "withhold it and nothing here carries weight." The `:149` inference is a non-sequitur (multiple derivability of a proposition ≠ the Map's derivation not needing its premise), and the register decides it: P-AC1's shift-trigger says demoting the quantum programme to coherence-only means "this verdict would be withdrawn."
+- **Register drift in a register nobody had checked.** The driver verified [quantum-interface](/positions/quantum-interface/) clean (P-Q1/P-Q2/P-Q9 credences all match) — confirmed, no finding there. The drift is in [ai-consciousness-scope](/positions/ai-consciousness-scope/): **P-AC4** has existed since 2026-07-16 and the apex enumerates only P-AC1/2/3 at `:157`. P-AC4 is the register's only AI position that is framework-independent, Grade B, credence high, discriminability *direct* — and `:93`'s flat "it is not a report from inside" contradicts it as written. Also missing: P-AC1's own registered "**load-bearing and least-secured link**," the interface-eligibility law, absent which the register says "relevant" reduces to "whatever biology happens to have," making the verdict "**question-begging rather than derived**." The apex discloses only the weaker *empirical* premise at `:83` while asserting "interface-grade" sites at `:81`.
+- **Quote fidelity: eight of eight spans verbatim at primary source, zero fabrications.** Butlin et al. (arXiv 2308.08708) and Long et al. (arXiv 2411.00986) checked via the arXiv API with Python substring tests; Birch confirmed as author 5/19 and 9/10 respectively, so "he co-authored" both is correct. Seth's "unlikely along current trajectories" verified in the Crossref abstract for DOI `10.1017/S0140525X25000032`. **The IIT quote needed a route-around and is the methodological note worth keeping**: a direct fetch of royalsocietypublishing.org returned a 5,473-byte Cloudflare interstitial on which `grep -oi "next to nothing"` returns 0 — a false zero. Europe PMC full-text phrase search returned hitCount 1 (Tononi & Koch 2015), a control-pair query confirmed the index reaches the work *before* the absence question was asked, and the full-text XML yielded the sentence. The prior deep-review had cleared this quote against "IIT literature" — a genre, not a document. The quote survives; the verification that cleared it should not have closed the question. Both quotes are nonetheless **unlocated in the article** (no work, year or identifier; IIT names no author) beside neighbours carrying full arXiv IDs.
+- **Clean checks recorded so they are not re-run**: mechanism-debt disclosure discharged at `:71`/`:139` (attacking it would be the disclosed-mechanism failure); the 2026-08-13 coherence-only citation grade already satisfied by `:147`; all nine reasoning-mode editor labels 0; all 14 wikilinks resolve and both in-page anchors match Hugo anchorization; altered-state symmetry audit **does not apply** (gate needs ≥2 supportive-cluster items, article has 1 — an initial grep showing NDE=24/OBE=4 was substring noise from *indeterminate*/*independent*/*probes*); "load-bearing" ×3 all marking real dependency claims, within the CLAUDE.md carve-out.
+- **Length**: prose 4001 words against apex soft 4000 / hard 5000 — one word past soft, 999 from hard. Not an over-length article; **no condense task minted**, and the remediation will add words into ~1000 of headroom.
+- **Tasks minted**: 2 (1×P1 covering the decision-guidance inversion, the self-cancelling dependency claim and the interface-eligibility debt; 1×P2 covering P-AC4, the missing locators, the lead's undercount of dependencies at `:61`, and two over-firm attribution verbs). Held to two deliberately — outer-review-same-file-task-pileup — against a file with 0 live open tasks.
+- **Published**: no (report + todo + changelog only; content unmodified, per skill contract)
 
 ## 2026-08-18 11:09 UTC - refine-draft
 
