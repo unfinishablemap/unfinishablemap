@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-07-16
 human_modified: 2026-01-07
-ai_modified: 2026-08-17T09:24:51+00:00
+ai_modified: 2026-08-18T15:11:12+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -117,6 +117,20 @@ Every substantive concept article therefore separates four things (adopted 2026-
 The four parts need not use these labels as literal headers—descriptive headers are better—but the four functions must be present and separable, and the neutral definition must precede the Map's reading. This does not conflict with the Map's opinionated voice: the article still argues for the Map's interpretation; it just does not smuggle that interpretation in as a definition.
 
 New concept articles follow this structure at creation. Existing concepts adopt it at their next substantive pass (deep-review, refine, coalesce) rather than through a corpus-wide sweep.
+
+### Tradition Surveys: The Three-Layer Separation
+
+An article surveying a tradition from outside it carries three different kinds of sentence, and a reader who cannot tell them apart will read all three as the tradition's own view. Every substantive tradition survey therefore keeps three layers separable (adopted 2026-08-18):
+
+1. **What the tradition holds** — the doctrine as its own thinkers state it, in its own terms.
+2. **What the scholarship disputes** — where interpreters disagree about what the tradition holds, and whose reconstruction the article is following.
+3. **What the Map proposes** — the analogy, extension, or tenet-relevance the Map draws out, which the tradition itself did not assert.
+
+This is the sentence-level complement to *Exposition before appropriation* in *Surveying a Tradition from Outside (the Assimilation Firewall)* below: that lens governs the order in which the layers appear, this one governs whether a reader can tell which layer a given sentence is in. Both are needed, because correct ordering does not by itself label a Map proposal as the Map's once a section is quoted or truncated away from the exposition that preceded it.
+
+**The checkable test:** take any paragraph of the survey and ask whether a reader of that paragraph alone can say, of each sentence, whether it reports the tradition, reports a scholarly dispute, or states the Map's own proposal. Where the answer depends on knowing which section the paragraph came from, the layers are not separated and the layer must be named in the prose.
+
+The fix is a locating clause naming the layer at the point of use rather than leaving it to be inferred from position. [[eastern-philosophy-consciousness]] does this in one sentence — *"The three comparisons that follow are the Map's analogies, not Daoist argument: no Laozi or Zhuangzi passage is cited in their support, and they carry no evidential weight for the tenets"* — and separates layer one from layer three on Advaita by stating the tradition's own commitment before the Map's use of it, concluding that Advaita is "better read as a nondual anti-physicalist rival than as a dualism-friendly ally". Where a section's relation to the tradition is wholly speculative, the heading should say so, as that article's *"Taoism: A Speculative Comparison"* does.
 
 ### Apex Articles
 
@@ -420,6 +434,18 @@ Certain words and phrasings have become LLM tells through overuse; reach for the
 
 When a word starts appearing as a habitual flourish rather than for its precise meaning, drop it. The test is whether a plainer word would lose anything; if not, use the plainer word.
 
+### Falsifier Sections: Distinguish the Three Negative States
+
+An article that states what would falsify its position often closes by reporting that no falsifier has been met. That report is worth considerably less than it appears if it collapses three different situations into one sentence, because *"none has occurred"* reads as *the position has been tested and has survived* — the strongest of the three, and usually not the one that obtains. The three states a listed falsifier can be in, when it has not been met (adopted 2026-08-18):
+
+1. **Nothing has come in.** No observation or argument bearing on the falsifier has been produced. It is unresolved, which is weaker than having survived a test: an untested prediction is not a corroborated one.
+2. **A serious live countermodel stands.** A rival account is on the table that the article does not refute. The falsifier is contested rather than merely open.
+3. **The evidence is too thin to decide.** Something has come in — a preprint, a small-N result, a single site — but it settles the question in neither direction.
+
+**The checkable test:** *"none has occurred"*, *"none has been met"*, *"no falsifier has been triggered"* and their equivalents must not stand without a stated basis. For each listed falsifier the prose says which of the three states it is in and why, and the article's summary is calibrated to the weakest state present rather than the strongest. Where every falsifier sits in state 1, the honest summary is that the position is unrefuted and untested, not that it has survived.
+
+This is the falsifier-section application of *Confidence Calibration* and *Evidential Calibration in Articles* above, and it inherits *Citation Aging in Fast-Moving Empirical Fields*: a falsifier answered by a pre-2020 result may have been reopened by the modern synthesis without the article noticing. The worked instance is the falsifier close of [[eastern-philosophy-consciousness]], which separates a live countermodel (Siderits's physicalist reconstruction, "assembled from Buddhist premises rather than imported against them"), a preprint result too thin to settle anything, and three unresolved conceptual objections "against which no observation has come in—weaker than having survived a test".
+
 ## Tenet Alignment
 
 ### The Five Tenets
@@ -516,6 +542,12 @@ The standard: where a citation carries weight for a claim, the prose states **wh
 **The compliance test**, for a later audit lens: for each claim an external source is cited to support, check whether the body names that source's evidence kind and its decisive assumption. Where the sentence would read the same had the source been an experiment rather than a simulation, or had the theorem's premise failed, the disclosure is missing.
 
 **Corollary — no free upgrade downstream.** A claim whose parent commitment is Grade D, programme-stage, or `none-by-construction` on the [[positions/methodology-and-calibration#^calibration-schema|calibration schema]] must not acquire categorical wording or a higher external-evidence grade in a downstream article without a separately identified source of evidence. Where a downstream article already states it categorically, either name the new evidence or restore the parent's qualification.
+
+**Primary-source citations carry a locator (adopted 2026-08-18).** A reference to a primary text identifies the passage the article actually relies on: for a classical or translated work, the translator and edition together with the chapter, section, verse or line locator; for a modern primary work, the page or section. A bare work-level entry — *"Lao Tzu. Tao Te Ching. Various translations."* — points at a whole book and therefore at nothing checkable, and where translations diverge on the very term carrying the argument it additionally conceals which rendering the article adopted (see *Justify the English rendering* in the Assimilation Firewall above).
+
+**The checkable test:** bibliography entries of the *"Various translations"* form, and any primary-source entry carrying neither an edition nor an in-text locator, are prohibited. An entry that cannot be given a locator is itself the diagnostic — either the passage was never identified, in which case identify it, or the text is supporting nothing, in which case remove the entry. The 2026-08-18 pass on [[eastern-philosophy-consciousness]] took the second route: once the Taoism section disclaimed resting on any passage, its *Tao Te Ching* entry was removed rather than fitted with a locator it had no work for.
+
+This governs primary texts. It does not extend to the modern secondary literature, where a standard journal or monograph citation already resolves to a single work, and it is narrower than the verbatim-with-page requirement on every cited scholar noted at the end of the Assimilation Firewall above, which remains held for operator ratification: a locator identifies the passage relied on, and does not oblige the article to quote it.
 
 ### Emphasis
 
@@ -616,11 +648,13 @@ Before publishing, verify:
 - [ ] Article is self-contained (comprehensible without following links)
 - [ ] H2/H3 headers are descriptive and aid navigation
 - [ ] References section includes citations for factual claims
+- [ ] Primary-source references carry a translator/edition and a chapter, section or verse locator (no "Various translations" entries)
 - [ ] Attributed claims about philosophers' views are verifiable from cited sources
 - [ ] Length is appropriate for section (see Length Guidelines table)
 - [ ] No tenet contradictions without explicit acknowledgment
 - [ ] Language is medium-neutral (no "click here", vague time references)
 - [ ] Internal wikilinks are framed as integration, never as independent evidence (external-evidence vs Map-integration discipline)
+- [ ] Any claim that a falsifier has not been met states its basis and distinguishes the three negative states (nothing has come in / live countermodel stands / evidence too thin to decide)
 
 **Additional checks for concept articles:**
 - [ ] Four-part structure present: neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications separated
@@ -628,6 +662,7 @@ Before publishing, verify:
 **Additional checks for articles surveying another tradition:**
 - [ ] Generalisations scoped to people, period, corpus and interpreting scholar — never to a continent or "traditional thought"
 - [ ] Neutral account and internal disputes precede the tenet-relevance discussion
+- [ ] A reader of any single paragraph can tell which sentences report the tradition, which report a scholarly dispute, and which state the Map's own proposal
 - [ ] Cross-tradition repairs and contested English renderings marked as the Map's construction
 - [ ] Each cited scholar's own conclusion about the tradition checked, not just the accuracy of the article's sentence
 - [ ] Traditions counted as convergent votes checked for a shared upstream source

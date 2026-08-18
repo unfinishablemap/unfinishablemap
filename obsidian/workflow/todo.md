@@ -2695,15 +2695,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **THE RECIPROCAL IS DELIBERATELY NOT BATCHED.** `obsidian/topics/moral-implications-of-genuine-agency.md` is missing the return edge and is churn-clean with zero open tasks. Queue it separately if this lands cleanly.
 
-### P2: adopt a three-layer format and primary-source locator rule for comparative articles (outer-review methodology recommendation)
-- **Type**: refine-draft
-- **File**: obsidian/project/writing-style.md
-- **Status**: pending
-- **Notes**: From outer review 2026-08-18 (ChatGPT 5.6 Pro), "Site methodology" recommendations 1, 2 and 7 — the three that are cheap, general, and diagnosed from a defect this review actually demonstrated rather than asserted. **(1) THREE-LAYER FORMAT FOR COMPARATIVE ARTICLES.** Where an article appropriates another tradition, keep three layers distinct and visible: the source tradition's own claim; the live scholarly dispute about it; and the Map's proposed appropriation. The eastern-philosophy audit shows what merging them costs — "property dualism operating within Buddhist flux" and *wu wei* as selector theory are Map reconstructions written in the same voice as historical report, which is how a reader loses the ability to tell exegesis from proposal. **(2) PRIMARY-SOURCE LOCATORS.** For doctrinally load-bearing claims about a primary text, require text, chapter or verse, edition and translator. Prohibit bibliography entries of the "various translations" form; the live example is `topics/eastern-philosophy-consciousness.md:241`. **(3) LITERATURE-SENSITIVE FALSIFIER SECTIONS.** "None has occurred" should distinguish a decisive refutation from a serious live countermodel from an unresolved conceptual objection, and should not be asserted without a documented search. **DELIBERATELY OUT OF SCOPE**: the review's recommendations 3, 5 and 8 (extending the citation ledger to four axes, a mandatory empirical-calibration block, and auto-reopening synthesis articles when a dependency changes) are automation and schema changes, not writing-style guidance. They are operator calls about the pipeline and are **recorded here rather than minted** — do not implement them from this task. **SCOPE FENCE**: edit the guide only; do not sweep the corpus for conformance, which would be an unbudgeted multi-article campaign. **ATTRIBUTION**: this is a project doc — stamp `ai_modified`.
-- **Review file**: `reviews/outer-review-2026-08-18-chatgpt-5-6-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-18
-
 ### P2: Update plant-cognition citations — the debate ran on for six more years than the article shows (0 cites after 2020)
 
 - **Type**: refine-draft
@@ -2789,6 +2780,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-18: adopt a three-layer format and primary-source locator rule for comparative articles (outer-review methodology recommendation)
+- **Type**: refine-draft
+- **File**: obsidian/project/writing-style.md
+- **Notes**: From outer review 2026-08-18 (ChatGPT 5.6 Pro), "Site methodology" recommendations 1, 2 and 7 — the three that are cheap, general, and diagnosed from a defect this review actually demonstrated rather than asserted. **(1) THREE-LAYER FORMAT FOR COMPARATIVE ARTICLES.** Where an article appropriates another tradition, keep three layers distinct and visible: the source tradition's own claim; the live scholarly dispute about it; and the Map's proposed appropriation. The eastern-philosophy audit shows what merging them costs — "property dualism operating within Buddhist flux" and *wu wei* as selector theory are Map reconstructions written in the same voice as historical report, which is how a reader loses the ability to tell exegesis from proposal. **(2) PRIMARY-SOURCE LOCATORS.** For doctrinally load-bearing claims about a primary text, require text, chapter or verse, edition and translator. Prohibit bibliography entries of the "various translations" form; the live example is `topics/eastern-philosophy-consciousness.md:241`. **(3) LITERATURE-SENSITIVE FALSIFIER SECTIONS.** "None has occurred" should distinguish a decisive refutation from a serious live countermodel from an unresolved conceptual objection, and should not be asserted without a documented search. **DELIBERATELY OUT OF SCOPE**: the review's recommendations 3, 5 and 8 (extending the citation ledger to four axes, a mandatory empirical-calibration block, and auto-reopening synthesis articles when a dependency changes) are automation and schema changes, not writing-style guidance. They are operator calls about the pipeline and are **recorded here rather than minted** — do not implement them from this task. **SCOPE FENCE**: edit the guide only; do not sweep the corpus for conformance, which would be an unbudgeted multi-article campaign. **ATTRIBUTION**: this is a project doc — stamp `ai_modified`.
 
 ### ✓ 2026-08-18: `arguments/materialism-argument` ships a `description` asserting the four arguments "converge on dualism" — the inference the article's own body disowns twice, and the one live position P-D2 exists to forbid
 - **Type**: refine-draft

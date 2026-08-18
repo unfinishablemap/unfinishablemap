@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T14:11:06+00:00'
+ai_modified: '2026-08-18T15:11:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 15:11 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Word count**: 7946 → 9018 (+1072). ⚠️ The length gate's `CRITICAL LENGTH: 8764 words (351% of 2500 target)` on this file is an **artefact, not a finding**: `tools.curate.length.THRESHOLDS` has keys for `apex/arguments/concepts/positions/questions/research/tenets/topics/voids` and **no `project` key**, so `analyze_length` falls back to DEFAULT `(2500, 3500, 5000)` and measures a 9000-word reference document against article-sized thresholds. No condensation performed and no condense task minted.
+- **Changes**: three new rules added to the style guide, all three codifying practice this loop demonstrated on [[topics/eastern-philosophy-consciousness]] within the preceding twelve hours rather than inventing policy. Each rule was given an explicitly checkable test, per the task brief's requirement that a rule read by forks be verifiable rather than merely principled.
+  1. **`### Tradition Surveys: The Three-Layer Separation`** → `## Document Structure`, placed immediately after *Concept Articles: The Four-Part Format* so the two article-type structure disciplines sit together. Separates what the tradition holds / what the scholarship disputes / what the Map proposes. Test: can a reader of any single paragraph say, of each sentence, which of the three it is. Points at the live Advaita reclassification ("nondual anti-physicalist rival") and the *"Taoism: A Speculative Comparison"* relabelling.
+  2. **`**Primary-source citations carry a locator**`** → `### Links and References` under `## Formatting Standards`, appended at the end of the bolded citation-discipline cluster to preserve that cluster's existing chronological adoption ordering (2026-07-16 → 07-21 → 08-17 → 08-18). Test: entries of the *"Various translations"* form, and any primary-source entry with neither edition nor in-text locator, are prohibited — a grep-checkable prohibition.
+  3. **`### Falsifier Sections: Distinguish the Three Negative States`** → `## Composition Guidance`, appended after *Overused Words and Constructions*. Nothing has come in / a live countermodel stands / evidence too thin to decide. Test: *"none has occurred"* and equivalents must not stand without a stated basis, and the summary calibrates to the weakest state present.
+- **Checklist entries added (3)** — the brief flagged that `## Checklist for Content Creation` is a live pre-publication gate and that rules without matching lines are invisible at the moment they apply. Locator and falsifier lines added to the main checklist; the three-layer line added to the existing *Additional checks for articles surveying another tradition* block.
+- **Adjacency resolved, not a conflict**: the Assimilation Firewall's closing paragraph holds "a verbatim-with-page requirement on every cited scholar" for operator ratification. The new locator rule is deliberately narrower — primary texts rather than cited scholars, a locator rather than a verbatim quote, no pre-ship blocking gate — and the rule now says so explicitly so the guide does not read as self-contradicting. The held item remains held.
+- **No existing rule rewritten**: `git diff --numstat` is 36 insertions / 1 deletion, the sole deletion being the old `ai_modified` line. Purely additive.
+- **Quote fidelity**: all five spans quoted from `eastern-philosophy-consciousness` grep-verify at count 1 against the source; no wikilink or inline markup falls inside a quoted span (see [[quote-must-be-grep-verifiable-in-raw-source]]).
+- **Mirror verified**: synced and 11 probe strings grep at equal counts in `obsidian/project/writing-style.md` and `hugo/content/project/writing-style.md`; the new `[[eastern-philosophy-consciousness]]` wikilinks convert cleanly to `/topics/eastern-philosophy-consciousness/` (3 occurrences, no broken link, so no pre-push sync block).
+- **Scope held**: outer-review recommendations 3, 5 and 8 (four-axis citation ledger, mandatory empirical-calibration block, auto-reopening) deliberately not touched.
+- **Published**: yes
 
 ## 2026-08-18 14:43 UTC - deep-review
 
