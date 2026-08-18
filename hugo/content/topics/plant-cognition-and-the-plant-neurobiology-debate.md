@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-01 20:15:12+00:00
+ai_modified: 2026-08-18 16:42:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 20:15:12+00:00
-lastmod: 2026-08-01 20:15:12+00:00
+lastmod: 2026-08-18 16:42:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,6 +87,8 @@ The second objection is the Map's own, and here the disagreement is real and unb
 
 So the Map can hold "plants very likely lack experience" while refusing "because experience is neural computation." The two claims come apart cleanly: the first is a calibrated reading of the evidence; the second is a metaphysical thesis the Map's dualism contests. Taiz et al.'s conclusion may well be right; their argument for it is more confident than its evidence base supports, and rests besides on a foundation the Map does not accept.
 
+That reply reaches Taiz et al., but it does not reach the whole skeptic case. In 2021 Calvo, Baluška and Trewavas proposed a route to plant consciousness that is explicitly *non*-neural, grounding it in integrated information theory rather than in brain architecture (Calvo et al. 2021); the same skeptic bloc replied in the same issue. Their objection is IIT-internal: IIT "allows for consciousness in various nonliving systems, and thus does not restrict consciousness to living organisms," so it "cannot be used to prove plant consciousness" (Mallatt et al. 2021). That is a reductio about what the theory proves too much of, not a neural-necessity claim, and both objections above leave it untouched. It stands as a live countermodel the Map has not answered—not an absence of skeptic argument. Their closing appeal to "other, neuron-based, theories of consciousness" shows neural necessity remains part of the skeptics' case; it is no longer the whole of it. Segundo-Ortin and Calvo (2021) is now the standard review of the dispute.
+
 **[Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits)** guards the other flank. Just as parsimony cannot license *dismissing* marginal consciousness merely because simple mechanisms suffice to explain the behaviour, it cannot license *attributing* experience on the strength of behavioural sophistication. The discipline runs in both directions: the Map neither reads mind into the flytrap because it counts, nor rules out experience anywhere on the ground that a mechanism was found. What plants change is not the Map's credence that they are conscious—which stays very low—but the Map's confidence that behaviour and experience are genuinely separable questions, one empirically tractable and one not.
 
 ## Further Reading
@@ -113,5 +115,8 @@ So the Map can hold "plants very likely lack experience" while refusing "because
 9. Böhm, J., Scherzer, S., et al. (2016). The Venus Flytrap *Dionaea muscipula* Counts Prey-Induced Action Potentials to Induce Sodium Uptake. *Current Biology*, 26(3), 286–295.
 10. Toyota, M., Spencer, D., et al. (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. *Science*, 361(6407), 1112–1115.
 11. Calvo, P. (2016). The philosophy of plant neurobiology: a manifesto. *Synthese*, 193(5), 1323–1343.
-12. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
-13. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+12. Calvo, P., Baluška, F., & Trewavas, A. (2021). Integrated information as a possible basis for plant consciousness. *Biochemical and Biophysical Research Communications*, 564, 158–165. https://doi.org/10.1016/j.bbrc.2020.10.022
+13. Mallatt, J., Taiz, L., Draguhn, A., Blatt, M.R., & Robinson, D.G. (2021). Integrated information theory does not make plant consciousness more convincing. *Biochemical and Biophysical Research Communications*, 564, 166–169. https://doi.org/10.1016/j.bbrc.2021.01.022
+14. Segundo-Ortin, M., & Calvo, P. (2021). Consciousness and cognition in plants. *WIREs Cognitive Science*, 13(2), e1578. https://doi.org/10.1002/wcs.1578
+15. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
+16. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
