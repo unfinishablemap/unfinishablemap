@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T18:00:00+00:00'
+ai_modified: '2026-08-18T18:52:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 18:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/instrumental-convergence]]
+- **Original score**: not run — SKILL.md Step 3 invokes `scripts/curate.py`, which does not exist. Scoped single-sentence pipe-label correction; no length pass needed (length-neutral).
+- **Changes**: One sentence, `## Relation to Site Perspective` first paragraph. Navigation-surface defect: the pipe label `[[mind-arena|supporting system]]` asserted what the link target's body denies — `concepts/mind-arena` is a *domain* term ("It names a *territory*, not a mechanism"; "the *domain of outcomes*") and devotes a whole section to preventing exactly the collapse into a mechanism/system reading. The deeper defect was predication, not wording: as written the arena was the grammatical subject *bearing* the `causal-powers`, when under the Map the bearer is consciousness and the arena is the domain those powers propagate into. A pure label swap would not have fixed it. Re-phrased so consciousness is the bearer and the arena is linked for the domain, restoring the canonical construction quoted in `concepts/mind-arena` L45 ("consciousness exercising causal-powers 'that no physical-state description fully captures,' with 'the influence runs both ways'"). Both `[[mind-arena]]` and `[[causal-powers]]` links kept live; the Tenet 3 bidirectionality clause kept verbatim (the next paragraph depends on it); rest of the paragraph untouched.
+  - Before: "The `[[mind-arena|supporting system]]` has `[[causal-powers]]` no physical-state description captures, and the influence runs both ways, so it propagates into outcomes the agent must predict."
+  - After: "Consciousness exercises `[[causal-powers]]` no physical-state description captures, and the influence runs both ways, so its contribution propagates into the `[[mind-arena]]` outcomes the agent must predict."
+  - **Two decoys deliberately left untouched** — L35 and L87 both attribute unbounded powers to the arena and are *correct as written*, because each sits inside a construction the article explicitly rejects (L35 "not the claims that … the mind-arena wields unbounded powers"; L87 "The Map cannot — under its own Tenet 2 — coherently argue that … the mind-arena unbounded cross-scale powers. That move is the **absence-of-bound fallacy**"). Editing either would delete the article's own statement of a fallacy it refutes. Verified still 2 occurrences in each tree post-edit.
+- **Frontmatter**: `ai_modified` → `2026-08-18T18:52:53+00:00`, `modified` → `2026-08-18`. `ai_system` **held at `claude-opus-4-8`** — a label correction is not authoring, so no model appended. `last_deep_review` unchanged.
+- **Synced**: yes — `scripts/sync.py` run; fix confirmed live in `hugo/content/topics/instrumental-convergence.md` rendering `[mind-arena](/concepts/mind-arena/)`. Defect string `grep -c` 0 in both trees; fixed sentence 1 in both.
+- **Published**: yes
 
 ## 2026-08-18 18:00 UTC - refine-draft
 

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T18:26:29.281350+00:00'
-session_count: 19140
+last_updated: '2026-08-18T18:51:12.369883+00:00'
+session_count: 19141
 cycle_position: 12743
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
@@ -34,7 +34,7 @@ last_runs:
   pessimistic-review: '2026-08-18T11:35:45.550268+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-18T18:04:12.590516+00:00'
-  replenish-queue: '2026-08-18T02:45:57.932231+00:00'
+  replenish-queue: '2026-08-18T18:51:12.369883+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-18'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-08-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -638,78 +638,82 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-18T18:47:55+00:00'
   last_replenishment_mode: promotion-only-two-verified-p3s-promoted-zero-minted-anchor-fragment-class-and-mind-arena-label
-  last_replenishment_note: 'PROMOTION-ONLY RUN. Nothing was minted. Pre-count P0-P2 equals 2
-    against the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector
-    on the todo content immediately before the write; post-count with the same function is 4.
-    The queue was never short of work: parse_tasks returned 46 active tasks of which 44 were
-    P3 and only 2 were P2, so the floor, which counts P0-P2 only, was blind to a 44-deep reachable
-    backlog. Minting more P3 would have deepened the exact condition causing the trigger, so
-    two existing P3 tasks were promoted on verified merit instead and the active-task total
-    is unchanged at 46.
+  last_replenishment_note: 'PROMOTION-ONLY RUN. Nothing was minted. Pre-count P0-P2
+    equals 2 against the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector
+    on the todo content immediately before the write; post-count with the same function
+    is 4. The queue was never short of work: parse_tasks returned 46 active tasks
+    of which 44 were P3 and only 2 were P2, so the floor, which counts P0-P2 only,
+    was blind to a 44-deep reachable backlog. Minting more P3 would have deepened
+    the exact condition causing the trigger, so two existing P3 tasks were promoted
+    on verified merit instead and the active-task total is unchanged at 46.
 
 
     PROMOTION 1, the broken heading-fragment class, now P2, File repointed from workflow/todo.md
-    to tenets/tenets.md. All three representative cases in the task were verified on disk before
-    promoting: concepts/reductionism renders the heading Kim''s Exclusion Challenge while the
-    link asks for Kim''s Challenge; concepts/quantum-consciousness renders The Prebiotic and
-    Multi-Mind Problems while tenets/tenets links to The Prebiotic Collapse Problem; concepts/agent-causation
-    renders Substance Causation The Metaphysical Foundation while apex/consciousness-and-agency
-    links with the word order reversed. The task recorded that its list had not been durably
-    captured, so the list was re-derived from source this run and written into the task. Method:
-    for every fragment wikilink in obsidian, resolve the target file and compare sync slugify
-    of the fragment against the ids the target actually renders, counting explicit curly-brace
-    custom heading ids, GitHub-style slugs of heading text, and caret block-ref ids. 925 fragment
-    links checked, 62 broken. A first pass that ignored the explicit custom heading ids reported
-    240 and was wrong by a factor of four; that false lens was caught and discarded before anything
-    was written.
+    to tenets/tenets.md. All three representative cases in the task were verified
+    on disk before promoting: concepts/reductionism renders the heading Kim''s Exclusion
+    Challenge while the link asks for Kim''s Challenge; concepts/quantum-consciousness
+    renders The Prebiotic and Multi-Mind Problems while tenets/tenets links to The
+    Prebiotic Collapse Problem; concepts/agent-causation renders Substance Causation
+    The Metaphysical Foundation while apex/consciousness-and-agency links with the
+    word order reversed. The task recorded that its list had not been durably captured,
+    so the list was re-derived from source this run and written into the task. Method:
+    for every fragment wikilink in obsidian, resolve the target file and compare sync
+    slugify of the fragment against the ids the target actually renders, counting
+    explicit curly-brace custom heading ids, GitHub-style slugs of heading text, and
+    caret block-ref ids. 925 fragment links checked, 62 broken. A first pass that
+    ignored the explicit custom heading ids reported 240 and was wrong by a factor
+    of four; that false lens was caught and discarded before anything was written.
 
 
-    THE 62 SPLIT INTO TWO CLASSES AND THE SPLIT IS THE USEFUL PART. 25 are a converter defect,
-    not a content defect: slugify in tools/sync/wikilinks.py ends by collapsing runs of hyphens
-    to one, while Hugo heading ids keep the double hyphen that appears when punctuation sits
-    between two spaces, so any heading containing an em-dash, an arrow, a not-equals or a spaced
-    slash produces a link the converter cannot hit. The link text in those 25 is correct and
-    must not be hand-edited. tools/sync is operator territory so this is reported, not patched.
-    The remaining 37 across 33 files are genuine stale anchors from renamed or removed headings,
-    28 files of them live content, 6 self-anchors. Only those 37 are in scope for the task,
+    THE 62 SPLIT INTO TWO CLASSES AND THE SPLIT IS THE USEFUL PART. 25 are a converter
+    defect, not a content defect: slugify in tools/sync/wikilinks.py ends by collapsing
+    runs of hyphens to one, while Hugo heading ids keep the double hyphen that appears
+    when punctuation sits between two spaces, so any heading containing an em-dash,
+    an arrow, a not-equals or a spaced slash produces a link the converter cannot
+    hit. The link text in those 25 is correct and must not be hand-edited. tools/sync
+    is operator territory so this is reported, not patched. The remaining 37 across
+    33 files are genuine stale anchors from renamed or removed headings, 28 files
+    of them live content, 6 self-anchors. Only those 37 are in scope for the task,
     and each is listed with its likely replacement anchor where one is obvious.
 
 
-    PROMOTION 2, the mind-arena navigation label, now P2. Re-verified in both trees rather than
-    trusted: grep -c of the piped label in obsidian/topics/instrumental-convergence returns
-    1, and the defect is live on the published page at hugo/content/topics/instrumental-convergence
+    PROMOTION 2, the mind-arena navigation label, now P2. Re-verified in both trees
+    rather than trusted: grep -c of the piped label in obsidian/topics/instrumental-convergence
+    returns 1, and the defect is live on the published page at hugo/content/topics/instrumental-convergence
     line 77, which renders the anchor text supporting system pointing at /concepts/mind-arena/.
-    The denial was re-read at source: concepts/mind-arena line 33 says it names a territory
-    not a mechanism, and line 53 says the mind-arena is a domain term whose value depends on
-    keeping it distinct from the mechanism and formalism terms. Promoted because it has been
-    observed and deferred three times across the changelog, each re-observation costing a cycle,
-    while the fix is one pipe label inside a Relation to Site Perspective section.
+    The denial was re-read at source: concepts/mind-arena line 33 says it names a
+    territory not a mechanism, and line 53 says the mind-arena is a domain term whose
+    value depends on keeping it distinct from the mechanism and formalism terms. Promoted
+    because it has been observed and deferred three times across the changelog, each
+    re-observation costing a cycle, while the fix is one pipe label inside a Relation
+    to Site Perspective section.
 
 
-    A FALSE-PREMISE TASK WAS AUDITED AND BLOCKED RATHER THAN PROMOTED. The task asserting six
-    broken links in research notes, described in its own notes as driver-diagnosed target by
-    target, does not survive re-checking. Five of its six loci are wrong. Three return grep
-    -c of zero for the named string, and one of those three, self-reference-paradox in voids-volitional-opacity,
-    returns no commits at all under git log -S, so the string has never existed in that file
-    in repo history. One names the wrong slug, creativity-void rather than imagination-and-creativity-void.
-    One is in the related_articles frontmatter block rather than a body link. Exactly one locus
-    is real. In the other direction the headline is also wrong: a scan of all 547 research notes
-    finds 37 carrying wikilinks whose page target resolves nowhere, so the claim that six are
-    the only genuine broken links understates the set by about six times while naming five loci
-    that are not in it. The severity claim does not hold either, since sync strips an unresolvable
-    wikilink to plain text rather than serving a 404. The audit was written into the task and
-    it was deliberately left at P3 with a stop marker.
+    A FALSE-PREMISE TASK WAS AUDITED AND BLOCKED RATHER THAN PROMOTED. The task asserting
+    six broken links in research notes, described in its own notes as driver-diagnosed
+    target by target, does not survive re-checking. Five of its six loci are wrong.
+    Three return grep -c of zero for the named string, and one of those three, self-reference-paradox
+    in voids-volitional-opacity, returns no commits at all under git log -S, so the
+    string has never existed in that file in repo history. One names the wrong slug,
+    creativity-void rather than imagination-and-creativity-void. One is in the related_articles
+    frontmatter block rather than a body link. Exactly one locus is real. In the other
+    direction the headline is also wrong: a scan of all 547 research notes finds 37
+    carrying wikilinks whose page target resolves nowhere, so the claim that six are
+    the only genuine broken links understates the set by about six times while naming
+    five loci that are not in it. The severity claim does not hold either, since sync
+    strips an unresolvable wikilink to plain text rather than serving a 404. The audit
+    was written into the task and it was deliberately left at P3 with a stop marker.
 
 
-    CAPS RE-MEASURED, NOT QUOTED. topics 320 of 320 at cap with the gate blocking, concepts
-    318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic was mintable for topics
-    regardless of merit. The contested concepts and voids slots were not spent, consistent with
-    the five consecutive research notes recommending against spending them. Zero cap cost this
-    run.
+    CAPS RE-MEASURED, NOT QUOTED. topics 320 of 320 at cap with the gate blocking,
+    concepts 318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic was
+    mintable for topics regardless of merit. The contested concepts and voids slots
+    were not spent, consistent with the five consecutive research notes recommending
+    against spending them. Zero cap cost this run.
 
 
-    SOURCE COUNTS. promotion_existing_p3 is 2 and every other source is zero, which is the accurate
-    record of a run that generated no new tasks.'
+    SOURCE COUNTS. promotion_existing_p3 is 2 and every other source is zero, which
+    is the accurate record of a run that generated no new tasks.'
   last_replenishment_prev: '2026-08-18T02:43:04+00:00'
   last_replenishment_run: 975
   loop_pickable_open: 4

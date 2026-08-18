@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-07-07 18:57:50+00:00
+ai_modified: 2026-08-18 18:52:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[possibility-probability-slippage]]'
 - '[[causal-powers]]'
 created: 2026-06-24
-date: &id001 2026-06-24
+date: &id001 2026-08-18
 description: Bostrom's orthogonality and instrumental convergence theses, Omohundro's
   basic drives, mesa-optimisation, Russell's deference programme, and the Map's dualist-underdetermination
   angle held to its bounded reading.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 18:57:50+00:00
-lastmod: 2026-07-07 18:57:50+00:00
+lastmod: 2026-08-18 18:52:53+00:00
 modified: *id001
 related_articles:
 - '[[dualism-as-ai-risk-mitigation]]'
@@ -74,7 +74,7 @@ This is the bridge to the Map's contribution. The deference programme keeps unce
 
 ## Relation to Site Perspective
 
-The Map's distinctive angle (Tenet 1, Dualism) is **dualist underdetermination**, developed at length in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and summarised here in its bearing on convergence. The convergence theorem is an expectation operator over a consequence-distribution: to maximise expected utility over outcomes involving humans, an agent must be able to compute the consequence-distribution of physical-state perturbations on humans. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/) (Tenet 3), that distribution cannot be formed for mind-implicating outcomes — not because they are hard, but because the deciding variable is not in the physical data. The [supporting system](/concepts/mind-arena/) has [causal-powers](/concepts/causal-powers/) no physical-state description captures, and the influence runs both ways, so it propagates into outcomes the agent must predict.
+The Map's distinctive angle (Tenet 1, Dualism) is **dualist underdetermination**, developed at length in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) and summarised here in its bearing on convergence. The convergence theorem is an expectation operator over a consequence-distribution: to maximise expected utility over outcomes involving humans, an agent must be able to compute the consequence-distribution of physical-state perturbations on humans. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/) (Tenet 3), that distribution cannot be formed for mind-implicating outcomes — not because they are hard, but because the deciding variable is not in the physical data. Consciousness exercises [causal-powers](/concepts/causal-powers/) no physical-state description captures, and the influence runs both ways, so its contribution propagates into the [mind-arena](/concepts/mind-arena/) outcomes the agent must predict.
 
 Tenet 1 supplies the underdetermination; Tenet 3 makes it load-bearing on outcomes the agent has to forecast. The result is not a refutation of convergence but a *restriction of its domain*: convergence survives intact in mind-arena-disconnected domains, while where minds are at stake the calculation is underdetermined. Russell-style deference and the Map's underdetermination are then the same shape of conclusion reached from two sources — preference-uncertainty and consequence-underdetermination both warrant a deferential, risk-averse posture toward mind-implicating action.
 
