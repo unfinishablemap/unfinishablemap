@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-17T08:09:39.692369'
+ai_modified: '2026-08-18T08:39:32.713859'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-17'
+date: '2026-08-18'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-17 08:09:39.692369+00:00
-modified: '2026-08-17'
+lastmod: 2026-08-18 08:39:32.713859+00:00
+modified: '2026-08-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-18: The Map Overstated Its Own Clean Falsifier Record
+
+The Map's falsifier list said 'None has occurred.' It now splits three ways and concedes one faces a live countermodel: Siderits (2025) builds a physicalist reading out of Buddhist premises, not against them. Untested is not the same as survived.
+
+**Type**: refinement  
+**Link**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+
+---
+
 ### 2026-08-17: The Quantum Zeno Mechanism Hinges on an Unmeasured Number
 
 Whether conscious 'observation' would hold a neural state or dissolve it turns on a spectral constant nobody has measured. The nearest model assumes it and defers it in print. Physics computes such spectra for warm biology, never for a neuron.
@@ -192,15 +201,6 @@ The Map borrows its anti-emergence argument from Strawson and Goff—anti-dualis
 
 **Type**: refinement  
 **Link**: [panpsychism](/concepts/panpsychism/)
-
----
-
-### 2026-07-24: The Strongest Argument Is Built Backwards
-
-The Map's best articles assemble the opponent's strongest unified case, grant that it explains all the evidence, then isolate the one narrow seam that survives. An apex piece names the method—and turns the same scrutiny on the Map's own evidence count.
-
-**Type**: new-article  
-**Link**: [steelmanning-as-method](/apex/steelmanning-as-method/)
 
 ---
 
