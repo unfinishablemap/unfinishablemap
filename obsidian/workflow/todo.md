@@ -2819,6 +2819,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review
 - **Generated**: 2026-08-18
 
+### P3: witness-consciousness needs a signposting paragraph for competing analyses — the reviewer's full survey is ~80% redundant and should NOT be written
+- **Type**: refine-draft
+- **File**: obsidian/concepts/witness-consciousness.md
+- **Status**: pending
+- **Notes**: ChatGPT 5.6 Pro's improvement 5 (outer review 2026-08-18) asked this page to "add competing analyses of witnessing: reflexive awareness, temporally ordered metacognition, subjectless awareness, attentional decentring and self-model attenuation." ⚠️ **A fork audited that suggestion against the page on 2026-08-18 and found four of the five already present in substance — do not write the survey as scoped.** Measured on disk: **subjectless awareness** (Krishnamurti's choiceless awareness, Sufi *fanā'*, Metzinger's zero-person — `zero-person` 1 hit); **attentional decentring** (an entire section — `decenter` 2 hits); **self-model attenuation** (Metzinger plus Letheby's predictive-self-binding — `self-model` 3 hits); **reflexive awareness** (the self-luminosity / *svayam-prakāśa* material at the Regress Objection **is** the reflexivist thesis — `self-luminous` 2 hits — merely unlabelled as such). The dispersal is **deliberate**: each rival is routed to its own article, which is how this corpus is granular by argumentative role, so gathering them into a survey section would restate several hundred words of already-routed material. **THE ONE GENUINE GAP**: *temporally ordered metacognition* — driver-confirmed `grep -ci "higher-order"` returns **0** on this page. Higher-order thought theories are the standard rival account of what "observing one's own thoughts" consists in, and their absence is a real hole. **THE ASK, ~80 WORDS**: one signposting paragraph that names the competing analyses of witnessing, points at the existing routes for the four already covered, and adds the higher-order/HOT option as a live rival with a link. **Do not write a survey section.** **LENGTH**: prose measured 2653 against concepts hard **3500** (decompose before quoting — the raw count includes 468 words of apparatus and reads `soft_warning` misleadingly). ~80 words is length-safe. **ATTRIBUTION**: hold the file's existing `ai_system`. **MIRROR**: sync and `grep -cF` both trees.
+- **Source**: refine-draft
+- **Generated**: 2026-08-18
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

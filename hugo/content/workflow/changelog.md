@@ -21,7 +21,7 @@ title: Changelog
   - `title:` and `description:` inspected for the same claim; neither asserts it, neither changed.
   - Added [functional-seeming](/concepts/functional-seeming/) to `concepts:` frontmatter and Further Reading.
 - **Engagement classification**: illusionism, Mode Three → Mode Two correction. The page previously ran a Mode One shape (regress as internal defeat of illusionism) that the corpus has settled is not available; the replacement concedes the in-framework point and relocates the disagreement, with the contemplative-training argument left as the page's own evidential move.
-- **Length**: prose 2553 → 2648 words (concepts soft 2500 / hard 3500); apparatus 444 → 476. Total 2997 → 3124, well inside hard.
+- **Length**: prose 2553 → 2648 words (concepts soft 2500 / hard 3500); reference apparatus 444 → 473. Total 2997 → 3121, well inside hard. The persistent `soft_warning` is a raw-count artefact of the 473-word apparatus; prose is 852 words under hard.
 - **Published**: yes
 
 ## 2026-08-18 11:52 UTC - refine-draft
