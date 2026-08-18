@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T04:00:00+00:00'
+ai_modified: '2026-08-18T04:33:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 04:33 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [[reviews/outer-review-2026-08-18-claude-opus-5]]
+- **Subject**: `topics/eastern-philosophy-consciousness` (subject_type `recent`, source `reuse:pending-reviews`) — the same subject the ChatGPT leg took at 02:00, so this is a genuine second opinion on one article rather than two reviews passing each other.
+- **Collection**: extracted via `js-dom` walk from the artifact panel, downloaded page-side as a Blob and hash-verified rather than retyped — SHA-256 `5f6fbbd9f0c8b3c2485d6b6ed1e12d2a562ebdb70663ccb456ff9c14aca9acb5`, 32,690 bytes, matching the on-disk file exactly ([[outer-review-extract-via-blob-download-not-retyping]]). Ready at 69 minutes; body-stability sentinel stable across a 10s window.
+- **Verdict**: DEMOTE-TO-COHERENCE-ONLY. The review argues the Advaita/Buddhist/Daoist "convergence" is manufactured by filtering three incompatible traditions through the Map's tenets until all three agree, so the traditions are not independent witnesses but one tenet-set ventriloquised three times.
+- **Claims verified**: 40 — 34 Map-side quoted spans grepped against raw Obsidian source, the resolution of all 6 named slugs, and the one external citation that would enter an article.
+  - **Site-quote fidelity: 33 of 34 verbatim — unusually good.** Five spans that failed a first naive grep were re-checked and cleared; only quote-characters or a terminal period had been adapted. A failed grep is not evidence of fabrication, and each was confirmed a second way before being cleared ([[quote-must-be-grep-verifiable-in-raw-source]]).
+  - **No archived-text confusion.** All six named slugs resolve to live files, so the failure mode that spoiled two of four contradiction findings in the 08-17 Claude leg did not recur.
+  - **Laukkonen–Friston–Chandaria 2025 confirmed exact** at Europe PMC and by DOI resolution (`10.1016/j.neubiorev.2025.106296` → Elsevier PII `S0149763425002970`): title, all three authors, journal, volume 176, article 106296, 2025.
+  - **Active-inference absence confirmed total**: grep for `friston|active inference|predictive processing|laukkonen` across the article returns zero.
+- **Fabrications found**: 2 — the highest count from any leg this cycle, and both caught before minting.
+  - **Site quote.** *"indexical identity is a real fact"*, attributed to `concepts/haecceity` and `topics/vertiginous-question`, returns **zero** matches across `obsidian/`, `archive/` and `hugo/content/`. Paraphrase presented as quotation; no task minted from it.
+  - **Abstract quote.** The review claims the Laukkonen abstract "states it 'explains altered states like meditation, psychedelics, and minimal states'." The actual closing sentence is "This Beautiful Loop Theory is also deeply revealing about altered states, meditation, and the full spectrum of conscious experience." Neither "psychedelics" nor "minimal states" occurs, and "deeply revealing about" is weaker than "explains". Notable shape: a **real, correctly-cited paper wrapped in a fabricated verbatim quote** — the citation checks clean, so metadata verification alone would have passed it.
+- **Disputed**: the "boilerplate confession" claim is wrong in the opposite direction — `concepts/witness-consciousness` contains no occurrence of "bare regress" or "proves nothing" and is the one page *missing* the correction, not a third copy of it. The phrase appears in 20 live articles, not three. The "calibration asymmetry" charge is overstated: `:132` already states the symmetric illusionist reply and downgrades its own claim to "evidential pressure rather than proof".
+- **Declined**: both headline metaphysical charges. [[positions/individuation-and-subjecthood]] P-I1 already grades primitive thisness external-evidence D with empirical discriminability none and framework-internal-only yes — the "no truth conditions" charge, conceded; and P-I2 registers that Tenet 4's indexical objection is *conditional* on P-I1, naming the Madhyamaka reading the tenets page concedes — the "indexicality robust enough to kill MWI but soft enough for *anattā*" headline, also conceded. **Fourth instance** of a reviewer attacking a mechanism the register explicitly discloses.
+- **Convergent with the same-cycle ChatGPT leg**: 6 findings land on loci already minted at 02:00 — the process-haecceitism/Tenet-4 tension, the Fox et al. overclaim and cessation inference, the tradition-flattening, the Siderits 2025 co-optation, the Tallis year mismatch and unlocatable Laozi reference, and the Yogācāra/Madhyamaka desync. Recorded as convergent rather than re-minted, per [[outer-review-same-file-task-pileup]]; two independent reviewers reaching these separately is the signal `/combine-outer-reviews` weighs.
+- **High-value findings**: 3.
+- **Tasks generated**: 3 (P2: 3). Queue measured with `count_p0_p2_tasks` after the mint: **12** (P0:0 P1:2 P2:10), so it stood at 9 before. Note the 04:00 entry's closing figure of 12 did not survive to 04:33 — three tasks drained in between, so that line should be read as a snapshot, not a running total.
+  - P2 — active inference is wholly absent from an article that reads *nirodha samāpatti*, MPE and momentariness as pressure toward dualism; the verified Laukkonen citation supplied, with an explicit do-not-propagate warning on the fabricated abstract quote.
+  - P2 — "process haecceitism" presented as an established position across **five** live articles (the review said two) with no coinage label anywhere; the ask is one provenance sentence on the canonical page, inherited by wikilink, not a five-file sweep.
+  - P2 — `concepts/witness-consciousness`: the uncorrected bare regress at `:143` (collector-found, missed by the 2026-08-03 family pass, wording inheritable verbatim from `haecceity:157`) plus the sākṣin recruitment in the **lede** at `:43`, where the page already states at `:51` that Śaṅkara identifies the sakshi with Brahman.
+- **Not minted, deliberately**: the review's site-wide methodology items overlap the writing-style task already queued from the ChatGPT leg. No expand-topic chains — the review requests no new articles, which is as well with `topics/` at 319/320 and `concepts/` at 319/320.
+- **Published**: yes
 
 ## 2026-08-18 04:00 UTC - outer-review
 

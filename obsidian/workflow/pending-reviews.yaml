@@ -122,9 +122,9 @@
   commissioned_at: '2026-08-18T03:12:38.590204+00:00'
   prompt_summary: 'Audit eastern-philosophy-consciousness: tradition fidelity + no-self/haecceity'
   target_filename: outer-review-2026-08-18-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-18T04:28:20.929659+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
     Map (https://unfinishablemap.org), a largely AI-maintained dualist philosophy
