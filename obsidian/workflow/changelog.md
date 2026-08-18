@@ -5,6 +5,24 @@ ai_modified: '2026-08-18T05:18:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 06:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/eastern-philosophy-consciousness]]
+- **Task**: P1 (queue, line 2729) — "calls process haecceitism 'The Resolution' while tenets.md and vertiginous-question say the same disagreement is bedrock". Convergent 3/3 outer reviews 2026-08-18; synthesis `reviews/outer-review-synthesis-2026-08-18.md`.
+- **Horn taken**: the second. A primitive further fact fixes which experiential process is mine; "process" names its bearer and does not ground it. Causal history individuates numerically, which [[topics/vertiginous-question]] explicitly says is *not* what the indexical question asks. So the section no longer claims to answer the indexical question or to establish Tenet 4.
+- **Engagement classification** (editor-internal, not in prose): engagement with Madhyamaka / Buddhist no-self — **Mode Three**, framework-boundary marking. No in-framework refutation was available: on the Madhyamaka analysis the "I" is an aggregate of conditions that already includes the answer, so the question is ill-formed rather than unanswered. The article now says so in natural language and inherits `tenets.md`'s "genuine bedrock disagreement" formulation and `positions/individuation-and-subjecthood` P-I1's concession (tenet-driven not empirically compelled; ground routed to the individuation void). The groundedness charge was **not** relitigated.
+- **Changes**:
+  - `:140` heading retitled `### Process Haecceitism: The Resolution` → `### Process Haecceitism: What It Settles and What It Leaves Open`
+  - Section body: the single "The resolution:" paragraph replaced by three — what the move settles (impermanence and particularity are compatible; haecceity needs no *ātman*), what it leaves open (the indexical question; the numerical-vs-indexical distinction from `vertiginous-question`), and the boundary marking with the cost booked
+  - Lede: "a resolution through process haecceitism that honours both Buddhist impermanence and indexical particularity" → "a partial reconciliation … while leaving the deeper Madhyamaka challenge to the indexical question standing at the framework boundary"
+  - Relation to Site Perspective, No Many Worlds: "Process haecceitism supports this: even without a permanent soul, there is a fact about which experiential process is mine" recalibrated — the tenet needs no permanent soul, but the fact about which process is mine is a posit Madhyamaka declines, not a result this article establishes
+- **Navigation surfaces checked**: `title:` (no resolution language — unchanged), `description:` (no resolution language about this move — unchanged), `aliases:` (absent), lede (changed), H3 at `:140` (changed), Relation to Site Perspective / No Many Worlds (changed), sibling H3 "Contemplative and Philosophical Support" (frames the commitment as a minimal commitment, not as a result — unchanged)
+- **Length**: prose 2330 → 2654 words (decomposed; Further Reading 411 + References 264 excluded). Topics soft threshold 3000, printed from `THRESHOLDS`. Raw `analyze_length` 3005 → 3329, `soft_warning` both before and after; hard 4000.
+- **Scope**: touched only this task's locus plus navigation surfaces asserting it. No edit to the extended-cessation / Fox strand, tradition-flattening, Siderits / falsifier ledger, citation ledger, Yogācāra desync, active-inference or Chadha/Garfield loci.
+- **Attribution**: `ai_system` held at `claude-opus-4-6` per task instruction; `ai_modified` → 2026-08-18T06:40:00+00:00; `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-18 06:15 UTC - deep-review
 
 - **Status**: Success

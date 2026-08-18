@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-09 00:41:00+00:00
+ai_modified: 2026-08-18 06:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-18 06:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ topics:
 
 Eastern philosophical traditions—Hindu, Buddhist, and Taoist—engage consciousness with a depth and sophistication often missing from Western philosophy of mind. The Unfinishable Map finds in these traditions both allies and provocateurs: they take consciousness seriously as irreducible, rejecting the eliminativism that dismisses experience as illusion. But they also challenge Western assumptions about permanent selfhood that some forms of dualism invoke. The tension is productive: it forces clarity about what the Map's [Dualism](/tenets/#dualism) tenet actually requires.
 
-This article examines three questions: whether Eastern *frameworks* are compatible with the Map's tenets, what Eastern *phenomenological methods* contribute as evidence, and how Buddhist no-self doctrine relates to the Map's commitment to [haecceity](/concepts/haecceity/)—the primitive thisness distinguishing *this* conscious subject from qualitatively identical others. The answers are nuanced: significant convergence on consciousness's fundamental status, productive tension on personal identity, and a resolution through process haecceitism that honours both Buddhist impermanence and indexical particularity.
+This article examines three questions: whether Eastern *frameworks* are compatible with the Map's tenets, what Eastern *phenomenological methods* contribute as evidence, and how Buddhist no-self doctrine relates to the Map's commitment to [haecceity](/concepts/haecceity/)—the primitive thisness distinguishing *this* conscious subject from qualitatively identical others. The answers are nuanced: significant convergence on consciousness's fundamental status, productive tension on personal identity, and a partial reconciliation through process haecceitism—which shows that indexical particularity needs no permanent self, while leaving the deeper Madhyamaka challenge to the indexical question standing at the framework boundary.
 
 ## Advaita Vedānta: Non-Dual Consciousness
 
@@ -141,11 +141,15 @@ Buddhism's own response is more subtle than either Western illusionism or realis
 
 Buddhist *anattā* denies permanent selfhood. The Map requires [haecceity](/concepts/haecceity/)—primitive thisness distinguishing *this* conscious subject from qualitatively identical others. The [vertiginous-question](/topics/vertiginous-question/)—"Why am *I* this one?"—demands a haecceitistic fact. If there is no substantial self, what bears haecceity?
 
-### Process Haecceitism: The Resolution
+### Process Haecceitism: What It Settles and What It Leaves Open
 
 Haecceity does not require permanent substance. It requires particularity—that *this* is distinguishable from *that* even when qualitatively identical. Physics raises this possibility: two electrons share all qualitative properties yet are treated as numerically distinct in standard quantum mechanics—though their individuality remains debated in quantum field theory, where particles are field excitations rather than persistent things. If haecceity can operate without substantial permanence even in physics, it can operate for consciousness too.
 
-The resolution: haecceity applies to experiential *processes*, not substantial *selves*. Buddhism's own flame analogy supports this—*this* flame-process is distinguished from another candle's by its particular causal history, even if both were qualitatively identical at each moment. Buddhism doesn't deny that *this* person experiences *this* moment; it denies an unchanging soul underneath.
+What this settles is narrower than it first appears. Haecceity can apply to experiential *processes* rather than substantial *selves*, and Buddhism's own flame analogy carries that much—*this* flame-process is distinguished from another candle's by its particular causal history, even if both were qualitatively identical at each moment. Buddhism doesn't deny that *this* person experiences *this* moment; it denies an unchanging soul underneath. Impermanence and particularity are therefore compatible, and the Map's haecceity commitment does not need the *ātman* that *anattā* rejects.
+
+What it leaves open is the indexical question that motivated the section. Causal history individuates *numerically*, and [the vertiginous question](/topics/vertiginous-question/) is explicit that numerical distinctness is not what it asks about: different bodies, different brains and different causal histories already explain why there are many subjects rather than one. The question is why *this* one is mine, and a causal chain answers that no better than a body does. The remaining option is that some primitive further fact fixes which process is mine—in which case that fact is doing the work and "process" only names its bearer. Relabelling the bearer leaves the Madhyamaka objection where it was, since Madhyamaka's complaint was never about permanence specifically but about inherent existence generally.
+
+The Map takes the second option and marks the cost instead of claiming a reconciliation. Its [positions register](/positions/individuation-and-subjecthood/) already concedes that closed individualism is tenet-driven rather than empirically compelled, and routes the ground of subject boundaries to the individuation void as a problem dualism must acknowledge rather than solve. The [tenets](/tenets/) page says the same about this exact disagreement: on the Madhyamaka analysis the "I" is an aggregate of conditions that already includes the answer, so "why am *I* this one?" is ill-formed rather than unanswered—a genuine bedrock disagreement, and not a defect the Map can refute from inside Madhyamaka's own resources. Process haecceitism disposes of the objection that haecceity smuggles in a soul, and leaves untouched the prior disagreement over whether the indexical question has an answer at all.
 
 ### Contemplative and Philosophical Support
 
@@ -183,7 +187,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Karma doctrine implies [mental causation](/concepts/mental-causation-and-downward-causation/)—intentions produce real consequences, a conclusion reached independently across Indian, African, and Western traditions (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)). Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [cross-traditional analysis](/topics/interaction-problem-across-traditions/) shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Eastern traditions uniformly emphasize *this* life, *this* moment, *this* path. Process haecceitism supports this: even without a permanent soul, there is a fact about which experiential process is mine.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Eastern traditions uniformly emphasize *this* life, *this* moment, *this* path. Process haecceitism keeps that emphasis available to the Map by showing the tenet needs no permanent soul—though the claim that there is a fact about which experiential process is mine remains a posit the Madhyamaka analysis declines, not a result this article establishes.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two millennia of contemplative investigation represent data Western philosophy has largely ignored. Eastern metaphysics developed from sustained investigation, not love of complexity. Their persistence suggests the apparent simplicity of materialism may reflect ignorance rather than insight.
 
