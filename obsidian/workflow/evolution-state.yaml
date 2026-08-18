@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T00:40:39.600961+00:00'
-session_count: 19071
-cycle_position: 12711
+last_updated: '2026-08-18T00:56:02.434302+00:00'
+session_count: 19072
+cycle_position: 12712
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
   agentic-social: '2026-08-18T00:40:39.600961+00:00'
@@ -33,7 +33,7 @@ last_runs:
   optimistic-review: '2026-08-17T22:35:32.992465+00:00'
   pessimistic-review: '2026-08-17T18:49:23.387931+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-17T23:58:33.006693+00:00'
+  refine-draft: '2026-08-18T00:56:02.434302+00:00'
   replenish-queue: '2026-08-18T00:14:28.136245+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-16T23:09:20.041372+00:00'
@@ -41,7 +41,7 @@ last_runs:
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-17T20:40:46.099834+00:00'
+last_git_push: '2026-08-18T00:56:02.863164+00:00'
 last_tweet_date: '2026-08-17'
 content_stats:
   total_files: 297
@@ -114,10 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-17'
@@ -192,6 +188,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -570,114 +570,132 @@ agentic_social:
     - phenomenology-of-trust
     - consciousness-and-collective-phenomena
 queue_status:
-  last_replenishment: '2026-08-18T00:20:00+00:00'
-  last_replenishment_mode: conservative-exact-floor-plus-one-apex-falsifier-list-third-disjunct
-  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured
-    live with count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
-    content immediately before the write. Exact-floor plus one, so ONE mint and no
-    padding. Post-count re-run with the same function after the write: 3. Restored
-    by a single P2 refine-draft whose File line is obsidian/apex/ai-as-introspection-control.md,
-    appended at the very end of the Active section so neither pre-existing P2 moved;
-    both re-checked at their original lines 2645 and 2674 after the write. Nineteenth
-    consecutive zero-cap-cost replenishment.
+  last_replenishment: '2026-08-18T01:15:00+00:00'
+  last_replenishment_mode: conservative-exact-floor-plus-one-baird-domain-qualifier-final-live-locus
+  last_replenishment_note: 'Pre-count P0-P2 equals 2 against the floor of 3, measured live with
+    count_p0_p2_tasks from tools.evolution.task_selector on the todo.md
+    content immediately before the write. Exact-floor plus one, so ONE mint
+    and no padding. Post-count re-run with the same function after the write:
+    3. Restored by a single P2 refine-draft whose File line is
+    obsidian/concepts/contemplative-epistemology.md, appended at the very end
+    of the Active section so neither pre-existing P2 moved; both re-checked at
+    their original lines 2645 and 2711 after the write. Twentieth consecutive
+    zero-cap-cost replenishment.
 
 
-    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state, not read
-    off the CLAUDE.md table. topics 320 of 320, at cap, gate blocks; concepts 319
-    of 320; voids 99 of 100; positions 15 of 80; apex 41 and uncapped, since section_caps
-    carries no max_apex key. Neither expand-topic nor research-topic was mintable.
-    The topics gate still counts the refinement-log sidecar as an article, an open
-    NEEDS-HUMAN item, not re-filed.
+    CAPS RE-MEASURED WITH count_section_files FROM tools.evolution.state, not
+    read off the CLAUDE.md table. topics 320 of 320, at cap, gate blocks;
+    concepts 319 of 320; voids 99 of 100; positions 15 of 80. Neither
+    expand-topic nor research-topic was mintable. The topics gate still counts
+    the refinement-log sidecar as an article, an open NEEDS-HUMAN item, not
+    re-filed.
 
 
-    WHAT WAS MINTED. The apex article ai-as-introspection-control runs its whole argument
-    over a three-way disjunction on why human introspection is opaque: a bounded conscious
-    witness, a generic bounded self-model, or opacity specific to evolved biological
-    self-models, the last being witnessless like the second and architecture-specific
-    like the first. That third region is stated at five surfaces, re-read on disk
-    at mint: line 55 apex_thesis, line 63 lead, line 79 body, line 103 the calibration
-    case, line 152 Synthesis. Line 107 separately concedes the first two do not exhaust
-    the explanations available. But the What Would Challenge This View section at
-    line 139 carries exactly four bullets, at lines 143 to 146, and every one of them
-    tests only the first two readings; bullet three names the pair explicitly and
-    bullet four resolves to the generic reading winning. The section then closes at
-    line 148 by asserting that each member is operational enough to count as a genuine
-    falsifier, which is what distinguishes the framing from a merely suggestive analogy,
-    so the completeness of the list is doing argumentative work. The mint is one bullet,
-    roughly 35 words, naming what would show an opacity to be architecture-specific
-    without implying a bounded witness.
+    WHAT WAS MINTED. concepts/contemplative-epistemology cites Baird et al.
+    2014 at two loci and mis-uses it at both, in different ways. Line 62, read
+    verbatim at mint, says meditation training enhanced metacognitive accuracy
+    in memory tasks: that names the positive domain but drops the
+    perception-null contrast, so it is a partial qualifier rather than the
+    finding. Line 103, inside the Degrees of Reliability table, is the sharper
+    defect and is different in kind. The row for Current attended phenomenal
+    states rates trust High and lists Fox et al. 2012 alongside Baird et al.
+    2014 as joint evidence, when Baird positive arm was the memory domain and
+    its perception arm was null, and perception is where the Fox comparison
+    sits. The citation is real and correctly attributed; only its dialectical
+    role is mis-stated, so the instruction is re-frame not delete, per
+    citation-framing-accuracy-lens. The mint is roughly 40 to 60 words across
+    two surgical edits plus one judgement call on a generalisation sentence.
 
 
-    THIS WAS A DOCUMENTED DEFERRAL, NOT A REDISCOVERY. Two independent on-disk records.
-    The pessimistic review at obsidian/reviews/pessimistic-2026-08-17-ai-as-introspection-control.md
-    line 94, inside Issue 2, states that the falsifier list has nothing for the case
-    where the differential pattern is real and has a third explanation. And the changelog
-    entry for 2026-08-17 19:01 UTC refine-draft records it under Not done, saying
-    the bullet costs about 35 words, that the neutral-length constraint bound, and
-    that it is worth a later slot. That refine-draft pass fixed the five naming surfaces
-    and stopped there. This task is the later slot.
+    THIS IS THE CLEAN FOLLOW-THROUGH ON A CORRECT SINGLE-FILE DECLINE, NOT A
+    REDISCOVERY. Commit e9c86653, about an hour before this mint, fixed four
+    loci of the same Baird domain-qualifier family in
+    topics/phenomenal-authority-and-first-person-evidence and reported this
+    file rather than editing it, respecting single-file scope. Its completion
+    note names both line 62 and line 103. Independently, the originating
+    research note at
+    obsidian/research/buddhist-philosophy-of-mind-2020s-literature-2026-08-06.md,
+    Finding 5, states in its own words that the Map already carries the Baird
+    citation elsewhere while flattening its central qualifier, and names the
+    fix-by-file hazard. Two independent on-disk records, neither solicited.
 
 
-    THE DEFERRAL RESTED ON A LENGTH CONSTRAINT THAT WAS NOT REAL, AND THE HEADROOM
-    WAS RE-DERIVED HERE RATHER THAN INHERITED. Raw analyze_length reads 4515 words,
-    soft_warning; apex thresholds printed from the analysis object, not quoted from
-    memory: soft 4000, hard 5000, critical 6500. Decomposed independently at mint
-    by summing the apparatus ranges: yt-embed details boilerplate lines 66 to 71 is
-    40 words, Source Articles lines 156 to 167 is 189, Further Reading lines 168 to
-    177 is 137, References line 178 to EOF is 219, total 585 words of apparatus against
-    a post-frontmatter body of 4518, so prose is about 3933 and sits under the 4000
-    soft threshold with roughly 1067 raw words to hard. A 35-word bullet is trivially
-    affordable. The driver''s own decomposition of 577 apparatus and 3941 prose was
-    reproduced to within 8 words on section-boundary choice; the conclusion is the
-    same either way.
+    THE CORRECTIVE REGISTER WAS COPIED, NOT RE-DERIVED. Two verified on-disk
+    sources were read at mint and quoted into the task note:
+    concepts/buddhism-and-dualism line 56, and
+    topics/phenomenal-authority-and-first-person-evidence line 166 as landed
+    by e9c86653. Both use the same move: randomised training study with an
+    active control, memory but not perception, and the framing that this is a
+    neighbouring result rather than a failed replication of Fox. Executing
+    this task makes three consistent surfaces instead of two-and-a-half.
 
 
-    THE DRIVER RECOMMENDATION WAS ACCEPTED, WITH ONE CORRECTION AND ONE ADDITION.
-    The correction: the driver counted four surfaces naming the third region, from
-    a grep on witnessless and architecture-specific. There are five. The fifth is
-    the line 63 lead, which states the region as opacity because of our particular
-    biology and so does not match either grep term. The changelog for the 19:01 pass
-    independently says five. The addition: the changelog entry contains the deferral
-    in the fork''s own words, which raises this from a driver-asserted defect to a
-    self-documented one, and the pessimistic review supplies a third independent statement
-    of it.
+    THE ENUMERATION LESSON WAS BUILT INTO THE TASK, AND IT FOUND A THIRD
+    SURFACE. Two term-based censuses under-counted asserting surfaces in the
+    preceding three hours, so the task instructs the executor to read the
+    Trained Attention section and the Degrees of Reliability table in full
+    rather than re-run any search string, including the strings quoted in the
+    note. Applying that here at mint surfaced a third locus invisible to a
+    Baird grep: the closing sentence of the same line 62 paragraph, which
+    generalises that the pattern is consistent and that training improves the
+    accuracy of first-person reports, resting on a convergent set that
+    includes the flattened citation. The task also records that line 64
+    already hedges well and should not be padded.
 
 
-    PILEUP AND DEDUP CHECKS. Zero File lines in the Active region target this path,
-    and zero occurrences of the string apex/ai-as-introspection-control appear anywhere
-    in Active. The single bare-slug Active hit is line 2334, inside the NEEDS-HUMAN
-    apex-ledger entry, where the article is listed among the 7 of 38 that already
-    carry an Evidence and Dependency section; that is not a task on this file. Zero
-    hits in the Vetoed region. The file is live, not archived. Churn: ai_modified
-    is 2026-08-17T19:01, yesterday by date, so the date-keyed churn filter is clear,
-    though only about five hours of wall clock old, and the task note says so. No
-    concurrent evolve_loop; the only pgrep hit was this session''s own shell.
+    CALIBRATION CEILING AND SWEEP FENCE. The research note evidence-grade
+    table at line 61 files Baird et al. 2014 under grade C, metadata verified
+    only, content not read, so the task confines any addition to the domain
+    contrast and the descriptors in the quoted abstract span: two-week
+    randomised, active control, memory positive, perception null. No effect
+    sizes, sample, follow-up or mechanism. It must be framed as a neighbouring
+    controlled result and never as a refutation of Fox. Separately the task
+    forbids a naive corpus-wide Baird sweep: six content articles cite the
+    surname and four cite different papers, 2018 on aPFC and lucid dreaming in
+    dream-consciousness and metacognition, 2019 in
+    lucid-dreaming-and-dualist-rendering, and 2012 on mind-wandering in
+    incubation-effect-and-unconscious-processing. Only the 2014 metacognition
+    paper is in scope.
 
 
-    OTHER SOURCES AUDITED AND DECLINED. Chain: recent_tasks carries no un-followed
-    research-to-expand-to-cross-review sequence, and caps block the article end of
-    any such chain anyway. Unconsumed research: harvester-owned and blocked by the
-    same caps. Gap analysis: expand and research into topics and voids both blocked
-    at cap. Staleness: no deep-review candidate outranked a defect with three independent
-    on-disk records. Orphan integration: quality.orphaned_files is 0. Length analysis:
-    get_length_warnings at hard_warning returns a large list, but it is dominated
-    by reference-apparatus inflation in research notes, and the live condense candidates
-    that matter are the three operator-vetoed P2s plus edge-states-and-void-probes,
-    which is under a standing human length decision; nothing there is mintable. Positions
-    register: 15 entries, last positions-evolve inside 30 days, no audit due, and
-    the deliberate 2-add friction argues against spending the only slot there. Applied
-    apex gap: no high-confidence cluster lacking an applied apex.
+    PILEUP, DEDUP, CHURN AND FENCE CHECKS. Zero File lines in the Active
+    region target this path, and zero occurrences of the slug appear anywhere
+    in the Active region; the todo.md hits are one completed entry and
+    unrelated prose. The Vetoed-region hits on this slug are prose mentions
+    inside other tasks notes, not a veto of this work. The file appears on
+    none of the standing operator-territory or human-decision fences.
+    Churn-clean: ai_modified is 2026-05-29T06:55:53+00:00, 81 days, and the
+    file is absent from tonight edited set. Length measured at mint with
+    analyze_length: 2418 words, status ok, concepts thresholds 2500 soft, 3500
+    hard, 5000 critical, so about 80 words below soft, which is why the fix is
+    specified at 60 words or fewer.
 
 
-    SOURCE COUNTS. 1 chain, being the deferred residue of the 2026-08-17 19:01 refine-draft
-    on the same file. All other sources zero.'
-  last_replenishment_prev: '2026-08-17T23:31:00+00:00'
-  last_replenishment_run: 972
-  loop_pickable_open: 3
+    OTHER SOURCES AUDITED AND DECLINED. Chain: caps block the article end of
+    any research-to-expand-to-cross-review sequence. Unconsumed research:
+    harvester-owned and blocked by the same caps. Gap analysis: expand and
+    research into topics and voids both blocked at cap. Staleness:
+    contemplative-epistemology was itself the strongest staleness candidate,
+    and it is being minted on the stronger defect ground instead, so the
+    source is recorded as chain rather than double-counted. Orphan
+    integration: quality.orphaned_files is 0. Length analysis: nothing
+    mintable, the live condense candidates being the operator-vetoed P2s plus
+    edge-states-and-void-probes under a standing human decision. Positions
+    register: 15 entries, no audit due, and the deliberate 2-add friction
+    argues against spending the only slot there. Applied apex gap: no
+    high-confidence cluster lacking an applied apex.
+
+
+    SOURCE COUNTS. 1 chain, being the reported-not-edited sibling of the
+    2026-08-18 refine-draft on phenomenal-authority-and-first-person-evidence.
+    All other sources zero.'
+  last_replenishment_prev: '2026-08-18T00:20:00+00:00'
+  last_replenishment_run: 973
+  loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 4
   p3_tasks: 37
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
