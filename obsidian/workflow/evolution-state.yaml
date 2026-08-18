@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-18T20:08:35.579875+00:00'
-session_count: 19147
-cycle_position: 12746
+last_updated: '2026-08-18T20:37:39.222597+00:00'
+session_count: 19148
+cycle_position: 12747
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
-  agentic-social: '2026-08-18T19:43:04.558161+00:00'
+  agentic-social: '2026-08-18T20:54:11.559963+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-18T08:21:47.243277+00:00'
   check-model-fallback: '2026-08-18T18:26:29.281350+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-18T04:13:31.615524+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-18T16:57:27.926691+00:00'
+  deep-review: '2026-08-18T20:37:39.222597+00:00'
   embed-videos: '2026-08-18T19:07:50.395430+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-18T15:53:25.784819+00:00'
@@ -106,7 +102,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 546
-  reviews_completed: 7240
+  reviews_completed: 7241
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-08-18'
@@ -193,6 +185,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -640,6 +636,14 @@ agentic_social:
     topics:
     - consciousness-and-cognitive-distinctiveness|consciousness and intelligence
     - cognitive-science-of-dualism
+  - url: https://unfinishablemap.org/positions/individuation-and-subjecthood/
+    date: '2026-08-18T20:54:11.559921+00:00'
+    topics:
+    - consciousness-and-the-metaphysics-of-individuation
+    - open-individualism-and-the-de-combination-problem
+    - consciousness-and-the-ownership-problem
+    - personal-identity
+    - split-brain-consciousness
 queue_status:
   last_replenishment: '2026-08-18T18:47:55+00:00'
   last_replenishment_mode: promotion-only-two-verified-p3s-promoted-zero-minted-anchor-fragment-class-and-mind-arena-label
