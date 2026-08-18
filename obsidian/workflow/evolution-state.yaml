@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-18T00:14:28.136245+00:00'
-session_count: 19069
-cycle_position: 12710
+last_updated: '2026-08-18T00:35:19.437209+00:00'
+session_count: 19070
+cycle_position: 12711
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-17T23:40:46.898441+00:00'
+  agentic-social: '2026-08-18T00:39:48.172156+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-17T21:22:36.091271+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-17T04:16:40.526059+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-17T20:06:13.737600+00:00'
+  deep-review: '2026-08-18T00:35:19.437209+00:00'
   embed-videos: '2026-08-17T14:37:54.202634+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-17T21:07:40.972422+00:00'
@@ -105,7 +101,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 545
-  reviews_completed: 7228
+  reviews_completed: 7229
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -114,10 +110,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-17'
@@ -192,6 +184,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -561,6 +557,14 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/consciousness-and-testimony/
+    date: '2026-08-18T00:39:48.172125+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-trust
+    - consciousness-and-collective-phenomena
 queue_status:
   last_replenishment: '2026-08-18T00:20:00+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-apex-falsifier-list-third-disjunct
