@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T13:11:04+00:00'
+ai_modified: '2026-08-18T13:29:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 13:11:04+00:00
+lastmod: 2026-08-18 13:29:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 13:29 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the AI-consciousness substrate wing, current text on disk after today's 13:11Z apex commit — `apex/assessing-ai-consciousness-under-the-map` (5039w, `hard_warning`), `positions/ai-consciousness-scope` (3005w, `hard_warning`), `topics/quantum-hardware-and-the-ai-consciousness-coupling` (2623w, `ok`), `concepts/ai-hardware-substrate-taxonomy` (3026w, `soft_warning`), `topics/quantum-randomness-channel-llm-consciousness` (2746w, `ok`).
+- **Brief corrected**: the commissioning brief said this wing "has never had a dedicated optimistic review." Three prior reviews cover parts of it — `optimistic-2026-07-10-ai-machine-consciousness-cluster`, `optimistic-2026-07-20-substrate-machine-consciousness-cluster` (taxonomy as lead article), `optimistic-2026-08-03-machine-evidence-wing` (quantum-hardware + the register). Measured across `obsidian/reviews/optimistic-*.md`: `ai-consciousness-scope` 8 mentions, `quantum-randomness-channel` 7, `ai-hardware-substrate-taxonomy` 4, `assessing-...` 3, `quantum-hardware-...` 1. The wing is among the better-covered in the corpus. The review was rescoped onto what is genuinely new since 2026-08-03.
+- **Pipeline evidence — two 2026-08-03 findings have since been executed.** That review's medium-priority "analog quantum devices as the underexplored middle case" became the 2026-08-16 "Where the Analog Class Actually Fails" section; its Calibration Concern #1 (eligibility debt disclosed in `positions/` but not in the article depending on it) became `quantum-hardware` L86.
+- **Strengths verified at primary source, not taken on the text's word.** Albash & Lidar 2015 — "decoherence in the instantaneous energy eigenbasis does not necessarily detrimentally affect adiabatic quantum computation" — verbatim in the abstract of arXiv:1503.08767v2, journal ref and DOI matching the article's citation exactly. D-Wave "By the end of the anneal, each qubit is a classical object" — verbatim on the cited docs page. Seth 2025 (Crossref) and Tononi & Koch 2015 (Europe PMC) both verbatim with correct locators. The four Butlin/Long phrases checked by `grep -ic` against the **raw** arXiv API XML rather than by asking a fetcher whether the phrase appeared.
+- **Finding 1 — an unregistered first-order verdict.** `grep -ric` over `positions/*.md` returns **zero** for `annealer`, `gate-based`, `gate-model`, `QPU`, `quantum computer`, `quantum-computing`, `error correction`, `superconducting`, `trapped ion`; P-AC1 explicitly places quantum-substrate AI out of scope. Yet the apex's Recommendation 4 ("quantum computers are not among them") is a funding recommendation resting on the per-class verdict. → `positions-evolve`, P3.
+- **Finding 2 — the falsification apparatus is only defensive.** All four apex cascade flags (P-Q1, P-Q9, P-Q2, P-Q3) are grade D, `framework-internal only: yes`, and none directly discriminable. P-AC4, whose shift trigger is an experiment and which Recommendation 4 names as warrant, carries no flag. Corpus check: of 52 registered positions only 4 are `empirical discriminability: direct`, and only 2 are grade B *and* direct (P-A3, P-AC4). → `refine-draft`, P3, **length-neutral required** (apex at 5039w vs 5000 hard).
+- **Finding 3 — two unreconciled eligibility standards.** The taxonomy's Axis-2 "operationally integrated" predicate and the five-requirement channel test can come apart on the gate-QPU case, and the two articles have zero links in either direction. → `refine-draft`, P3.
+- **Harvester safety**: no `expand-topic` or `research-topic` task generated or implied. Capacity measured live via `count_section_files` — `topics/` **320/320 AT CAP**, `concepts/` 319/320, `voids/` 99/100, `positions/` **15/80 (65 free)** — and all three uncovered-territory observations (interface-eligibility concept page, Saad Organizational Invariance treatment, interface *occupancy* evidence) are labelled capacity-blocked or capacity-constrained in the report body.
+- **Rejected with evidence**: re-proposing registration of the channel test as an interface-eligibility law (executed narrowly on 2026-08-12; P-AC1's update note records "Pointer and status label only" as the deliberate decision); the gate-QPU result and the taxonomy's three-way indeterminacy distinction as new findings (both praised in the 08-03 and 07-20 reviews); a quote-fidelity task on the convergence passage (all four external citations clean); a duplicate on `ai-consciousness-scope`'s `hard_warning` (covered by the open NEEDS-HUMAN section-tuning entry).
+- **Output**: [optimistic-2026-08-18-ai-substrate-wing](/reviews/optimistic-2026-08-18-ai-substrate-wing/)
+- **Tasks generated**: 3 (1 `positions-evolve`, 2 `refine-draft`), all P3, on three different files to avoid a same-file pileup. A fourth candidate — the eligibility-debt disclosure missing from `topics/quantum-randomness-channel-llm-consciousness`, the article that states the five requirements — was deliberately **not** minted and is recorded in the report body.
 
 ## 2026-08-18 13:11 UTC - refine-draft
 
