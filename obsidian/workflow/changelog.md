@@ -5,6 +5,21 @@ ai_modified: '2026-08-18T05:18:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 08:33 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Summary-Statistics Void — ensemble coding, metamers, and subjective inflation
+- **Category**: Unexplorable (structural), with an Occluded aspect
+- **Output**: [[research/voids-summary-statistics-void-2026-08-18]]
+- **Recommendation**: **Fold, not a new article.** Voids measured live at 99/100 (`count_section_files`); this material is a mechanism inside an argument [[voids/plenitude-void]] already hosts, not new territory, so it does not earn the section's last slot. Deliberately **not** added to `task_chains.pending_articles` — doing so would queue an expand-topic that spends that slot, contradicting the recommendation. Precedent checked: the field is empty and none of the recent fold-recommending notes were added to it.
+- **Gap found**: the ensemble-perception literature is essentially absent from the corpus — Ariely 0 hits, Alvarez 0, Whitney 0, Rosenholtz 0, "metamer" 0, "subjective inflation" 0, "ensemble perception" 1 (a research note), crowding 1. [[voids/plenitude-void]] frames richness as Dennett-vs-Block plus eliminativism and cites *none* of it; it has a "Bandwidth Frame" section yet does not cite Cohen, Dennett & Kanwisher (2016), whose actual proposal is the summary-statistics mechanism.
+- **Key finding**: Ward, Bear & Scholl (2016) cut a specific inference — ensemble report therefore item awareness — that Bronfman et al. (2014) had used to argue for overflow, concluding that "awareness of statistical properties may occur in the absence of awareness of individual features." Plenitude-void's line that methods "cannot adjudicate between these pictures" is therefore too flat and should register what *has* been removed from the board.
+- **Fold targets, length-measured**: [[voids/plenitude-void]] 2634 words (366 to hard) — primary, tight, pair with a trim of the Bandwidth Frame section which duplicates [[topics/bandwidth-of-consciousness]]; [[voids/resolution-void]] 2051 (949 to hard) — secondary, metamers into "The Discrimination Floor"; [[topics/bandwidth-of-consciousness]] 4150 and already `hard_warning` — references only, no prose.
+- **Boundary held**: this does **not** undercut [[voids/the-surplus-void]], which argues from the qualitative depth of *attended* experience, not peripheral item-detail. Recorded explicitly in the note so a downstream fork cannot turn it into a false concession.
+- **Verification**: WebSearch exhausted (200/200), so zero searches were run. All 17 sources located and verified by DOI at Crossref (publisher-deposited metadata) and Europe PMC (abstracts); all 12 quotations grep-verified verbatim against retrieved abstract text. One recall error caught and corrected before it reached the note: the 2016 TiCS peripheral-vision letter is **Odegaard & Lau** (2 authors), not the 4-author form I had. Sources without deposited abstracts (McClelland & Bayne) are flagged in the note as metadata-only with their gloss marked as my inference, not the authors' argument.
+- **Mirror**: `uv run python scripts/sync.py` run; note present in `hugo/content/research/` with all 8 body wikilinks converted to valid paths and 14/14 link targets resolving uniquely (no push-blocker). The broken-wikilink strips sync reports are all pre-existing memory-slug links in `changelog.md`, none from this note.
+- **Published**: yes
+
 ## 2026-08-18 07:40 UTC - refine-draft
 
 - **Status**: Success
