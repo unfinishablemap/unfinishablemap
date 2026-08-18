@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-07-27 19:46:15+00:00
+ai_modified: 2026-08-18 00:54:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:17:48+00:00
-lastmod: 2026-07-27 19:46:15+00:00
+lastmod: 2026-08-18 00:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Every empirical science rests on observations, but consciousness breaks the stan
 
 ## The Phenomenological Method
 
-[Phenomenological method](/concepts/phenomenology/) is not casual introspection but a rigorous discipline. The *epoché* brackets the natural attitude — setting aside whether objects exist independently to focus on the structure of experience itself. The transcendental reduction attends to the constitutive acts through which objects appear. *Eidetic variation* isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent. These operations require training; [introspective accuracy](/concepts/introspection/) follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
+[Phenomenological method](/concepts/phenomenology/) is not casual introspection but a rigorous discipline. The *epoché* brackets the natural attitude — setting aside whether objects exist independently to focus on the structure of experience itself. The transcendental reduction attends to the constitutive acts through which objects appear. *Eidetic variation* isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent. These operations require training; [introspective accuracy](/concepts/introspection/) appears trainable — experienced observers outperform untrained ones (Fox et al. 2012), on a cross-sectional comparison rather than a training design — and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
 
 ## Husserl's Evidence Taxonomy
 
@@ -104,7 +104,7 @@ Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonom
 
 **Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility (apodictic evidence). Doubting that one is having an experience is itself an experience — the denial is self-refuting. Even introspective sceptics have almost no purchase at this level.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it (adequate/assertoric evidence). Authority here is strong but fallible. Training demonstrably improves accuracy — meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it (adequate/assertoric evidence). Authority here is strong but fallible. Experience predicts accuracy — meditators show greater metacognitive precision than untrained subjects, on a cross-sectional comparison (Fox et al. 2012), and neurophenomenological studies find that trained observers' reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience (assertoric/presumptive evidence). Authority is weakest here, and reports at this layer may be no more reliable than careful third-person inference. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
 
@@ -154,7 +154,7 @@ The Map's position: introspection is **sui generis** — irreducible to percepti
 
 Schwitzgebel's empirical case documents real problems: contradictory reports about basic phenomenal features (Schwitzgebel 2008, 2011), overconfidence exposed by choice blindness experiments (Johansson et al. 2005), systematic biases from retrospective reconstruction, and the historical collapse of Wundt and Titchener's introspectionist programme. The historical failure is instructive: those observers were asked to decompose experience into sensory atoms, and phenomenological methods that dropped this demand produced more consistent results.
 
-Crucially, these critiques are unevenly distributed across the three layers. At layer 1, Schwitzgebel's evidence has almost no purchase. At layer 2, the evidence is mixed and training demonstrably improves accuracy. At layer 3, his case is strongest.
+Crucially, these critiques are unevenly distributed across the three layers. At layer 1, Schwitzgebel's evidence has almost no purchase. At layer 2, the evidence is mixed and meditation experience predicts greater accuracy. At layer 3, his case is strongest.
 
 Strict calibration against an independent standard is impossible — the [observation-and-measurement-void](/voids/observation-and-measurement-void/) establishes this as structural. Five strategies provide epistemic traction:
 
@@ -166,7 +166,7 @@ Strict calibration against an independent standard is impossible — the [observ
 
 **Predictive power.** Contemplative reports of altered temporal experience and distinct jhāna states may have preceded experimental and neuroimaging confirmation, though the historical record here possibly underdetermines how much weight the priority claim can bear. The microphenomenological method (Petitmengin 2006) has guided researchers to neural processes they were not looking for.
 
-**Training-dependent accuracy.** Fox et al. (2012) found meditation experience predicted introspective accuracy in a genuine skill-acquisition pattern. Baird et al. (2014) found meditation training enhanced [metacognitive](/concepts/metacognition/) accuracy.
+**Experience-dependent accuracy.** Fox et al. (2012) found meditation experience predicted introspective accuracy, in a pattern resembling skill acquisition; the design is cross-sectional, so it establishes that experience predicts accuracy rather than that practice produced the difference. The enhancement also looks domain-specific: Baird et al. (2014), a two-week randomised training program with an active control, found improved [metacognitive](/concepts/metacognition/) accuracy in a memory but not a perception domain — and perception is the domain Fox's comparison sits in. No direct replication of Fox et al. was located, so this is a neighbouring controlled result rather than a failed replication.
 
 ### The Gradient of Warranted Trust
 
