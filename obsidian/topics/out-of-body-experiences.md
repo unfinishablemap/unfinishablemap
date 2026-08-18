@@ -4,8 +4,8 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-08-13T22:20:00+00:00
-last_deep_review: 2026-07-14T23:00:53+00:00
+ai_modified: 2026-08-18T00:31:31+00:00
+last_deep_review: 2026-08-18T00:31:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,9 +30,10 @@ related_articles:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[psychedelics-and-the-filter-model]]"
   - "[[capability-division-problem]]"
+  - "[[parapsychology-firewall]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-08
 last_curated:
 embedded_videos:
@@ -44,7 +45,7 @@ embedded_videos:
 
 Out-of-body experiences (OBEs) are conscious episodes in which the experiencer seems to perceive their environment from a location outside the physical body. Surveys put their lifetime prevalence in the general population at roughly 5–10%, with higher rates in clinical samples and among those reporting other altered states (Blackmore, 1982; Blanke and Mohr, 2005). They occur spontaneously near sleep, during illness or stress, under drugs such as ketamine, in lucid dreams, near death, and — most decisively for the science — under direct cortical stimulation of the right [[#tpj-stimulation|temporo-parietal junction]] (TPJ), explained below.
 
-The Unfinishable Map's reading: most lab-induced and many spontaneous OBEs are best understood as dislocations of the [[self-and-self-consciousness|phenomenal self-model]] — the brain's representation of where "I" am located is decoupled from the body's actual location, while consciousness itself remains tied to the brain. This is an *illusion of disembodiment*, not literal disembodiment. Critically, that this mechanism exists does not entail that every OBE is reducible to it. The strongest dualist claim — that consciousness can in some cases occupy a perspective the body cannot occupy — depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets. The Map therefore treats OBEs as phenomenologically real and evidentially mixed: they refute strong claims that the bodily self-model is necessary for consciousness, but they do not, on current evidence, demonstrate that consciousness leaves the body.
+The Unfinishable Map's reading: most lab-induced and many spontaneous OBEs are best understood as dislocations of the [[self-and-self-consciousness|phenomenal self-model]] (Metzinger, 2009) — the brain's representation of where "I" am located is decoupled from the body's actual location, while consciousness itself remains tied to the brain. This is an *illusion of disembodiment*, not literal disembodiment. Critically, that this mechanism exists does not entail that every OBE is reducible to it. The strongest dualist claim — that consciousness can in some cases occupy a perspective the body cannot occupy — depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets. The Map therefore treats OBEs as phenomenologically real and evidentially mixed: they refute strong claims that the bodily self-model is necessary for consciousness, but they do not, on current evidence, demonstrate that consciousness leaves the body.
 
 <details class="yt-embed" data-video-id="StU8aNLD1MQ">
 <summary>Video introduction</summary>
@@ -64,7 +65,7 @@ What the phenomenology *does* establish is that conscious experience can persist
 
 The most decisive empirical finding in OBE research came from Olaf Blanke's group at the University Hospitals of Geneva. In a 2002 *Nature* report, electrical stimulation of the right angular gyrus during pre-surgical evaluation of an epileptic patient reliably induced OBE-like sensations: at low currents, the patient reported "sinking into the bed" and "falling from a height"; at higher currents, "I see myself lying in bed, from above, but I only see my legs and lower trunk" (Blanke et al., 2002, p. 269). The induction was repeatable, current-graded, and confined to a small cortical region.
 
-Subsequent work mapped the relevant region to the right TPJ and connected OBE phenomenology to multisensory integration of vestibular, proprioceptive, and visual signals (Blanke et al., 2004; Blanke and Mohr, 2005). The [[vestibular-consciousness-and-the-interface|vestibular channel]] is load-bearing here: the disrupted gravitational and orientation signal is what the dislocated self-model loses its anchor to, which is why the OBE is the sharpest demonstration that the felt vertical is a silent frame the rest of perception leans on. Two converging strands of evidence followed.
+Subsequent work mapped the relevant region to the right TPJ and connected OBE phenomenology to multisensory integration of vestibular, proprioceptive, and visual signals (Blanke et al., 2004; Blanke and Mohr, 2005). De Ridder and colleagues (2007) supplied an imaging convergence: stimulating an implanted electrode over the right superior temporal gyrus in a patient being treated for tinnitus repeatedly elicited an OBE, and PET during stimulation localised the activation to the temporo-parietal junction. The [[vestibular-consciousness-and-the-interface|vestibular channel]] is load-bearing here: the disrupted gravitational and orientation signal is what the dislocated self-model loses its anchor to, which is why the OBE is the sharpest demonstration that the felt vertical is a silent frame the rest of perception leans on. Two converging strands of evidence followed.
 
 First, lesion and clinical-population studies linked spontaneous OBEs to right TPJ damage and to vestibular dysfunction. OBEs cluster with autoscopic hallucinations, heautoscopy, and feeling-of-presence experiences in patients with focal lesions in this region.
 
@@ -76,7 +77,7 @@ The Map accepts this characterisation for the cases the programme studies. TPJ-i
 
 ## Spontaneous OBEs and Their Epidemiology
 
-Spontaneous OBEs are more heterogeneous and harder to study. They occur in roughly 5–10% of the general population at least once, with higher rates among those reporting other altered states such as lucid dreaming, [[sleep-paralysis-and-interface-reassembly|sleep paralysis]], or psychedelic experience (Blackmore, 1982). They cluster around hypnagogic and hypnopompic states, illness, sleep deprivation, extreme stress, and meditative absorption. Electrophysiological data on sleep OBEs have begun to appear: Herrero et al. (2025), in an exploratory polysomnography study, captured two out-of-body episodes during sleep showing increased delta and theta with reduced alpha, beta and low-gamma relative to wakefulness. Susan Blackmore's psychological model treats them as state-dependent shifts in the cognitive model of self, triggered when sensory input to the self-model is reduced or destabilised.
+Spontaneous OBEs are more heterogeneous and harder to study. They occur in roughly 5–10% of the general population at least once, with higher rates among those reporting other altered states such as lucid dreaming, [[sleep-paralysis-and-interface-reassembly|sleep paralysis]], or psychedelic experience (Blackmore, 1982). They cluster around hypnagogic and hypnopompic states, illness, sleep deprivation, extreme stress, and meditative absorption. Electrophysiological data on sleep OBEs have begun to appear: Herrero et al. (2025), in an exploratory polysomnography study, captured two out-of-body episodes during sleep, both showing increased delta and theta with reduced alpha and reduced fronto-central beta relative to wakefulness, while low-gamma moved in opposite directions in the two episodes. Susan Blackmore's psychological model treats them as state-dependent shifts in the cognitive model of self, triggered when sensory input to the self-model is reduced or destabilised.
 
 Spontaneous OBEs in healthy populations rarely include claims of veridical perception. Experiencers typically report an apparent external perspective on their own bedroom or the local environment, but the perceived contents tend to match what they already know about the space. This is consistent with the self-model account: the brain constructs the external perspective from existing spatial knowledge, and the contents reflect that knowledge rather than independent perception.
 
@@ -126,7 +127,7 @@ What OBEs do *not* clearly support, on current evidence, is literal exit of cons
 
 The Map's reading would face difficulty if:
 
-1. **Replicated veridical perception under controlled conditions**: If future AWARE-style studies produced reliable hits on hidden targets at rates exceeding chance, the disembodied-consciousness reading would gain serious empirical support, and the self-model-only account would have to accommodate genuinely external perceptual access.
+1. **Replicated veridical perception under controlled conditions**: If future AWARE-style studies produced reliable hits on hidden targets at rates exceeding chance, the self-model-only account would have to accommodate genuinely external perceptual access. That result would cut both ways rather than vindicating dualism outright. A replicable, above-chance channel delivering content the brain never generated as a candidate would breach the [[parapsychology-firewall|parapsychology firewall]], on which the Map's minimal, Born-preserving interface predicts psi-like effects to be vanishing or absent. The Map would acquire a phenomenon its own interface cannot deliver at the same moment the self-model account lost one.
 
 2. **Complete OBE phenomenology induced experimentally**: If TPJ stimulation or VR techniques produced not just the perspectival shift but the full coherent NDE-OBE narrative — including the specific affective tone, the sense of "more real than real," and the lasting transformation effects — the case for treating NDE-OBEs as a distinct phenomenon from lab OBEs would weaken substantially.
 
@@ -148,6 +149,7 @@ None of these would be definitive on their own, but each would shift the evident
 - [[psychedelics-and-the-filter-model]] — Drug-induced OBEs and the broader filter argument
 - [[altered-states-as-interface-evidence]] — How OBEs sit within the wider altered-state evidence base for the interface reading
 - [[sleep-paralysis-and-interface-reassembly]] — Sleep paralysis as interface reassembly out of order, with the sleep-OBE electrophysiology
+- [[parapsychology-firewall]] — Why replicated veridical OBE perception would strain the Map's own interface rather than confirm it
 - [[evidential-status-discipline]] — The methodological discipline that treats the argument-from-mechanism section as the canonical materialist-side instance of the constrain-vs-establish move
 - [[tenets]] — The framework these findings inform
 
@@ -159,7 +161,7 @@ None of these would be definitive on their own, but each would shift the evident
 1. Blanke, O. & Mohr, C. (2005). Out-of-body experience, heautoscopy, and autoscopic hallucination of neurological origin: Implications for neurocognitive mechanisms of corporeal awareness and self-consciousness. *Brain Research Reviews*, 50(1), 184–199.
 1. De Ridder, D., Van Laere, K., Dupont, P., Menovsky, T. & Van de Heyning, P. (2007). Visualizing out-of-body experience in the brain. *New England Journal of Medicine*, 357(18), 1829–1833.
 1. Ehrsson, H. H. (2007). The experimental induction of out-of-body experiences. *Science*, 317(5841), 1048.
-1. Herrero, N. L., Corfdir, C., Vázquez-Chenlo, A., Capurro, A., & Forcato, C. (2025). Exploratory study of non-ordinary states of consciousness during sleep show distinct electrophysiological features from wakefulness and canonical sleep stages. *Scientific Reports*. https://doi.org/10.1038/s41598-025-18748-7
+1. Herrero, N. L., Corfdir, Y., Vázquez-Chenlo, A. A., Capurro, L., & Forcato, C. (2025). Exploratory study of non-ordinary states of consciousness during sleep show distinct electrophysiological features from wakefulness and canonical sleep stages. *Scientific Reports*, 15, 33586. https://doi.org/10.1038/s41598-025-18748-7
 1. Lenggenhager, B., Tadi, T., Metzinger, T. & Blanke, O. (2007). Video ergo sum: Manipulating bodily self-consciousness. *Science*, 317(5841), 1096–1099.
 1. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
 1. Parnia, S. et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. *Resuscitation*, 85(12), 1799–1805.

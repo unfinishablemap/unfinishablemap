@@ -4,6 +4,7 @@ created: 2026-08-12
 draft: false
 ai_contribution: 100
 ai_system: claude-fable-5+claude-opus-5
+ai_modified: 2026-08-18T00:31:31+00:00
 ---
 
 # Research: Hypnopompia and Sleep Paralysis as Interface Reassembly Out of Order
@@ -19,7 +20,7 @@ The stronger and better-evidenced version of the same thesis does not rest on th
 
 1. **Sleep inertia shows demonstrably asynchronous network recovery.** Wang et al. (2024, *Scientific Reports*, n=21, simultaneous EEG-fMRI) found the thalamus restores its neurovascular coupling timing fastest after awakening (peak-correlation lag ~8 s → ~2.5 s by the third post-waking scan), the anterior cingulate changing significantly but *non-monotonically* (lag running earlier through the second scan, then settling back to ~6 s by the third — NB: not "an intermediate rate"; that gloss misdescribes the paper), and the sensorimotor cortex not changing at all across the measured window. Related work reports the sensorimotor network still looking disconnected post-awakening while the default-mode network has already recovered. Channels come back at different rates — this is the empirical core of "out of order," and it is measured rather than inferred from retrospective report.
 2. **The transition is hysteretic, not reversible.** Kim, Moon, Mashour & Lee (2018, *PLOS Computational Biology*) argue that loss and recovery of consciousness follow distinct pathways as a network-level property, not a pharmacological artefact — the same claim the Map's anaesthesia article already makes via neural inertia, but generalised to a mechanism that should apply to sleep as well as anaesthesia. This is the honest bridge from the anaesthesia wing to the sleep wing.
-3. **Sleep paralysis has its own electrophysiological signature, intermediate between REM and wake.** Mainieri et al. (2020/2021, *J Clin Sleep Med*) found sleep paralysis showing reduced theta and increased alpha relative to REM; Herrero et al. (2025, *Scientific Reports*, n=7) report reduced theta plus increased beta and low-gamma versus both REM and stage 1. Sleep paralysis is not "REM with the lights on" — it is a third configuration, which is exactly what a partial, out-of-order reassembly should look like.
+3. **Sleep paralysis has its own electrophysiological signature, intermediate between REM and wake.** Mainieri et al. (2020/2021, *J Clin Sleep Med*) found sleep paralysis showing reduced theta and increased alpha relative to REM; Herrero et al. (2025, *Scientific Reports*, n=7) report reduced theta and increased low-gamma in both sleep-paralysis episodes versus REM and stage 1, with beta increasing in only one of the two subjects. Sleep paralysis is not "REM with the lights on" — it is a third configuration, which is exactly what a partial, out-of-order reassembly should look like.
 
 Sleep paralysis is a strong natural experiment for the Map's thesis because in it the motor channel, the reality-monitoring channel and the environmental-access channel demonstrably come back in the wrong order relative to phenomenal awareness. It is also the case that in **isolated** sleep paralysis roughly 64% of episodes occur on awakening rather than at sleep onset, so the phenomenon really is predominantly ascent-side — though in narcolepsy and familial sleep paralysis the balance reverses toward sleep onset, which is itself a finding worth reporting.
 
@@ -70,14 +71,14 @@ The strongest counter-position is well developed and must be stated at full stre
 - **Tenet alignment**: Supports the multi-channel reading — metacognition can be at waking levels while motor and perceptual channels are not.
 - **Note**: Percentages came from secondary summary. Re-verify at primary text; the paper is paywalled at jcsm.aasm.org and the certificate on the PDF host failed during this pass.
 
-### Herrero, Corfdir, Vázquez-Chenlo, Capurro & Forcato (2025) — first EEG of sleep OBEs
+### Herrero, Corfdir, Vázquez-Chenlo, Capurro & Forcato (2025) — exploratory EEG of sleep OBEs
 - **URL**: https://doi.org/10.1038/s41598-025-18748-7 (preprint: https://doi.org/10.1101/2025.02.10.637510)
 - **Type**: Peer-reviewed paper, *Scientific Reports*
 - **Key points**:
   - n=7 participants with frequent conscious sleep experiences, overnight PSG, trained eye-movement sequences used to time-stamp awareness during sleep.
-  - Sleep paralysis: reduced theta with **increased beta and low-gamma** versus REM and stage 1 — read by the authors as heightened cortical activation consistent with "lucid paralysis."
-  - Out-of-body experiences (n=2 episodes): increased delta and theta, reduced alpha, beta and low-gamma relative to REM and wake — read as reduced sensory integration.
-  - Reported as the first EEG recordings of out-of-body experiences occurring during sleep.
+  - Sleep paralysis: reduced theta with **increased low-gamma** in both episodes versus REM and stage 1; beta increased in only one of the two subjects (the two diverged in direction against stage 1) — read by the authors as heightened cortical activation consistent with "lucid paralysis."
+  - Out-of-body experiences (n=2 episodes): increased delta and theta with reduced alpha and reduced fronto-central beta relative to wakefulness; **low-gamma moved in opposite directions in the two episodes** (reduced across frontal/central/temporal in OBE₁, increased in parieto-occipital areas in OBE₂) — read as reduced sensory integration.
+  - The authors make **no priority claim**: they cite prior EEG work on unusual bodily experiences that included OBEs, and call for systematic EEG investigation of OBEs occurring specifically during sleep.
 - **Tenet alignment**: Supportive of channel independence; **but n=7 with 2 OBE episodes is exploratory**, and the article must say so. The paper's own title calls it exploratory.
 - **Corpus link**: This is the only known electrophysiology of sleep OBEs and directly upgrades `topics/out-of-body-experiences`, which currently carries the corpus's single passing mention of sleep paralysis.
 
@@ -219,7 +220,7 @@ The strongest counter-position is well developed and must be stated at full stre
 | 2023 | Ghibellini & Meier, *J Sleep Res* | Hypnagogic-state update; restates the HG/HP equivalence default |
 | 2024 | Wang et al., *Sci Rep* | Thalamus > ACC > sensorimotor: measured staggered recovery on awakening |
 | 2024 | Alcaraz-Sánchez, *Phil. Mind Sciences* | Five-dimensional framework locating hypnagogia, hypnopompia and SP in one state space |
-| 2025 | Herrero et al., *Sci Rep* | First EEG of sleep OBEs; SP shows increased beta/low-gamma |
+| 2025 | Herrero et al., *Sci Rep* | Exploratory EEG of sleep OBEs; SP shows increased low-gamma |
 
 ## Potential Article Angles
 
@@ -252,7 +253,7 @@ Whichever angle is taken, follow `obsidian/project/writing-style.md` for named-a
 4. Denis, D., French, C. C., & Gregory, A. M. (2018). A systematic review of variables associated with sleep paralysis. *Sleep Medicine Reviews*, 38, 141–157. https://doi.org/10.1016/j.smrv.2017.05.005
 5. Denis, D., & Poerio, G. L. (2017). Terror and bliss? Commonalities and distinctions between sleep paralysis, lucid dreaming, and their associations with waking life experiences. *Journal of Sleep Research*, 26(1). https://doi.org/10.1111/jsr.12441
 6. Ghibellini, R., & Meier, B. (2023). The hypnagogic state: A brief update. *Journal of Sleep Research*, 32(1), e13719. https://doi.org/10.1111/jsr.13719
-7. Herrero, N. L., Corfdir, C., Vázquez-Chenlo, A., Capurro, A., & Forcato, C. (2025). Exploratory study of non-ordinary states of consciousness during sleep show distinct electrophysiological features from wakefulness and canonical sleep stages. *Scientific Reports*. https://doi.org/10.1038/s41598-025-18748-7 (preprint https://doi.org/10.1101/2025.02.10.637510)
+7. Herrero, N. L., Corfdir, Y., Vázquez-Chenlo, A. A., Capurro, L., & Forcato, C. (2025). Exploratory study of non-ordinary states of consciousness during sleep show distinct electrophysiological features from wakefulness and canonical sleep stages. *Scientific Reports*, 15, 33586. https://doi.org/10.1038/s41598-025-18748-7 (preprint https://doi.org/10.1101/2025.02.10.637510)
 8. Hufford, D. J. (1982). *The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions*. University of Pennsylvania Press.
 9. Jalal, B., & Ramachandran, V. S. (2014). Sleep paralysis and "the bedroom intruder": The role of the right superior parietal, phantom pain and body image projection. *Medical Hypotheses*, 83(6), 755–757. https://doi.org/10.1016/j.mehy.2014.10.002
 10. Jalal, B., & Ramachandran, V. S. (2017). Sleep paralysis, "the ghostly bedroom intruder" and out-of-body experiences: The role of mirror neurons. *Frontiers in Human Neuroscience*, 11, 92. https://pmc.ncbi.nlm.nih.gov/articles/PMC5329044/

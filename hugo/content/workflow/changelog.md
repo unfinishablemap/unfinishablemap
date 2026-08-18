@@ -4,11 +4,29 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-17T20:01:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-17'
-lastmod: 2026-08-17 20:01:08+00:00
+date: '2026-08-18'
+lastmod: 2026-08-18 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 00:31 UTC - deep-review
+
+- **Status**: Success
+- **File**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Word count**: 3081 → 3212 raw (+131). **Raw is apparatus-inflated — actual prose 2598 → 2708 against a 3000 soft threshold**, so the `soft_warning` is a false positive and normal (not length-neutral) mode applied. Apparatus after: References 289, Further Reading 173, YouTube boilerplate 40.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1 (two orphan references anchored)
+- **Lens**: the article's citation metadata (06-03) and verbatim quotes (07-14) were already ledgered, so this pass targeted the two things never checked — the Herrero et al. 2025 cite added *after* the last review by another article's integration chain, and the parapsychology-firewall lens, never applied here across four prior reviews.
+- **Critical 1 — Herrero et al. 2025 band-power claim wrong on low-gamma**: article said both OBE episodes showed "reduced alpha, beta and low-gamma" vs wakefulness. Publisher full text (nature.com, open access) reports low-gamma moving in *opposite* directions — OBE₁ reduced fronto-central-temporal, OBE₂ increased parieto-occipital — and beta decrease as fronto-central-specific with OBE₁ also increasing temporally/parietally. Delta, theta, alpha correct. Corrected. **The identical defect was found and fixed in the sibling article two days earlier (08-16) but the fix never reached this file** — the `fix-by-file-leaves-string-siblings-live` shape. Re-verified here independently from raw publisher text rather than inherited.
+- **Critical 2 — Herrero et al. 2025 reference metadata**: `Corfdir, C.` → `Corfdir, Y.` (Yohann); `Capurro, A.` → `Capurro, L.` (Lucila); `Vázquez-Chenlo, A.` → `A. A.`; added `15, 33586`. Verified via Crossref publisher-deposited metadata plus the article-page author block.
+- **Critical 3 — falsifier #1 pointed the wrong way relative to the Map's own firewall**: "What Would Challenge This View?" said replicated above-chance hidden-target hits would give "the disembodied-consciousness reading ... serious empirical support". But [parapsychology-firewall](/topics/parapsychology-firewall/) holds that reliable ensemble-detectable psi *disconfirms* the Map — such a channel breaches content-confinement (Constraint 3) and no-signalling (Constraint 2). Calibration error, not bedrock disagreement: it passes the diagnostic test because the inconsistency is between two Map articles. Rewritten as a genuine double edge. Added [parapsychology-firewall](/topics/parapsychology-firewall/) to body, Further Reading and `related_articles` — **the article previously had no link to the firewall at all**, while eleven less psi-adjacent articles do.
+- **Medium — two orphan references, not one**: full body surname audit found Metzinger 0 *and* De Ridder 0 inline. Both anchored rather than removed. Metzinger 2009 attached to the lead's first use of "phenomenal self-model" (his coinage, previously unattributed); De Ridder et al. 2007 anchored in §TPJ Stimulation as verified convergent imaging evidence (NEJM abstract, PMID 17978291: OBE repeatedly elicited by right superior-temporal-gyrus stimulation in a tinnitus patient, PET localising activation to the TPJ).
+- **Firewall verdict — PASS on the evidential side**: all ~13 veridical-perception statements keep the claim correctly scoped ("rare and contested", "vulnerable to retrospective confabulation, leakage ... selection effects", "unsupported by current controlled data"), and AWARE nulls are treated as real evidence *against* literal exit. The article never treats an unexplained report as support. The one defect was structural, not a lapse of evidential discipline.
+- **Superlative sweep**: the article's "have begun to appear" is *better* calibrated than its source research note's "first EEG of sleep OBEs". The paper makes **no priority claim** — every "first" in the full text is "first two principal components", "first author", "first-person reports" or discourse "First," — and it explicitly cites prior EEG work on unusual bodily experiences including OBEs.
+- **Family resolution — defect fixed at origin**: the wrong claim and metadata originated in [hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12](/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12/) and propagated into two articles. Both articles are now fixed, but the note was still carrying the original error, so the next expand-topic run drawing on it would have re-propagated it. Corrected at source across 6 loci: reference entry, OBE key-point (low-gamma), SP key-point ("increased beta and low-gamma" → low-gamma in both, beta in only one of two subjects — verified: only Subject 5 showed significant beta increases vs REM, and the two subjects showed "contrasting patterns" vs S1), executive-summary restatement, evidence-table row, and the section header plus explicit "first EEG recordings" priority claim.
+- **Not re-litigated**: the argument-from-mechanism bedrock standoff and the "load-bearing" vestibular intensifier, both settled 07-14; the Blanke/Ehrsson/Lenggenhager/AWARE metadata and verbatim-quote ledgers (06-03, 07-14), re-verified as untouched.
+- **Output**: [deep-review-2026-08-18-out-of-body-experiences](/reviews/deep-review-2026-08-18-out-of-body-experiences/)
 
 ## 2026-08-17 23:55 UTC - refine-draft
 
