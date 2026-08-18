@@ -5,6 +5,22 @@ ai_modified: '2026-08-18T18:52:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 19:29 UTC - check-tenets
+
+- **Status**: Success
+- **Files checked**: window-scoped — 4 tenet-bearing articles read in full, 10 next-largest prose changes swept (delegated, then independently re-verified against disk), 2 direct-contradiction pattern batteries across `obsidian/{topics,concepts,apex,voids,positions,arguments}` + `archive/` + `hugo/content/`, plus status checks on both carried Tenet-2 families
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 4 (plus 1 non-tenet currency conflict)
+- **Result**: **Tenth consecutive pass with zero tenet contradictions.** Every non-zero battery hit resolved individually to a conditional antecedent, an explicit denial, rival exposition, or `reviews/` echo — zero assertions in Map voice.
+- **Carried Family Z (in-principle detectability): CLOSED.** The wrong-direction attribution the 08-16 pessimistic review ratified was corrected 2026-08-17 in `apex/judging-the-map-as-science` — the Tenet 3 line now reads "The tenet commits the Map to outcome-selection influence rather than to its detectability". All remaining live loci scope detectability to a named non-endorsed route.
+- **Carried Family AA (sign/direction): UNMOVED** — still open P3 on `apex/attention-as-causal-bridge` (L86 intact and unqualified). Not re-counted, not re-minted. The file was edited in-window on a different axis, itself a sound downgrade ("Consciousness determines" → "Consciousness, on the Map's hypothesis, biases").
+- **Fresh `instrumental-convergence` edit: tenet-correct.** Verified against the link target: `concepts/mind-arena` defines the arena as "a *territory*, not a mechanism… the *causal footprint* of the mental, not the mental itself", so predicating the causal powers of consciousness rather than the arena is the tenet-correct bearer under Tenets 1 and 3. Both L35/L87 decoys correctly left untouched.
+- **Notes**: (1) `eastern-philosophy-consciousness` L187 alignment line says the illusionist challenge "gains no traction" while today's strengthened body and its own falsifier ledger call Siderits 2025 an unrefuted live countermodel; (2) `consciousness-and-cognitive-distinctiveness` L190 Occam bullet still says the evidence "resolves" what the new L133 audit says it cannot — its Tenet 3 sibling at L184 was updated, this one was not; (3) `affective-forecasting-gap` L89 attributes truth-tracking minimality to Tenet 2, which `tenets.md` explicitly disclaims (over-concession, runs against the Map); (4) `what-consciousness-tells-us-about-physics` L236 claims explanatory simplicity for the Map's own ontology without Tenet 5's symmetric caveat.
+- **Pattern named**: all four notes sit in `## Relation to Site Perspective` sections, two of them the same temporal form of the matrix's "alignment-line inheritance" failure — body strengthened, alignment bullet left carrying the older stronger claim. These are the corpus's least-reviewed high-exposure surface.
+- **Method**: window measured from git by line churn, not commit count — surfaced six substantive-prose files the commit-count view missed, including `voids/binding-void` and `voids/anesthesia-void`, which the driver brief had classed as link-repointing only. `binding-void` proved to be a Tenet 5 improvement (now concedes parsimony cuts against the Map-friendly primitivist reading).
+- **Output**: [[reviews/tenet-check-2026-08-18]]
+
 ## 2026-08-18 18:52 UTC - refine-draft
 
 - **Status**: Success

@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/affective-forecasting-gap` uses Tenet 2 for the truth-tracking work Tenet 2 explicitly disclaims
+- **Type**: refine-draft
+- **File**: obsidian/concepts/affective-forecasting-gap.md
+- **Status**: pending
+- **Notes**: From `/check-tenets` 2026-08-18, and **driver-verified verbatim on disk at both loci before minting**. L89 closes its Minimal Quantum Interaction bullet with: *"because by [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the more-minimal predictive reading wins any contest decided on parsimony alone."* That treats Tenet 2's minimality as **parsimony-adjudicating**. `obsidian/tenets/tenets.md` **L69** disclaims exactly this, under the heading *"Minimality as empirical constraint, not truth-tracking"*: *"The Map does not claim that within those constraints the smallest interaction is most likely true, only that no larger interaction is empirically tenable."* So the article invokes the tenet to settle a contest the tenet declines to enter. ⚠️ **WHY THIS SURVIVED**: the sentence runs **against** the Map, conceding it would lose a parsimony contest. Over-concessions get ratified rather than merely missed, because a reviewer reads a concession as calibration and moves on. **FIX SHAPE**: keep the concession's substance if it is otherwise sound, but stop sourcing it to Tenet 2. The prior-commitments reply named in the same sentence is untouched by this. **Length-neutral.** ⚠️ `obsidian/tenets/` is operator territory: fix the **article**, never the tenet. **MIRROR**: edit obsidian, `uv run python scripts/sync.py`, grep both trees.
+- **Source**: check-tenets
+
+### P3: alignment-line inheritance — three `Relation to Site Perspective` bullets still assert what their own bodies retracted
+- **Type**: refine-draft
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Status**: pending
+- **Notes**: From `/check-tenets` 2026-08-18. **All three driver-verified on disk by content-grep, not by line number** (the first had already drifted one line from the review's figure). A named structural class: the body gets strengthened or hedged, and the tenet-alignment summary bullet is left carrying the older, stronger claim. These summary lines are **the corpus's least-reviewed high-exposure surface** — see [[navigation-surfaces-carry-unreviewed-claims]]. **(1) `topics/eastern-philosophy-consciousness` L188** (Dualism bullet): *"The illusionist challenge gains no traction because Buddhism takes experience seriously enough to train it systematically."* But **L182**, rewritten the same day, states *"(2) faces a serious live countermodel: Siderits's physicalist reconstruction is assembled from Buddhist premises"*, and **L177** records that Siderits (2025) *"develops this from inside the tradition."* Note the bullet's reason does not even engage illusionism, which **grants** the systematic training and denies the phenomenal reading. **(2) `topics/consciousness-and-cognitive-distinctiveness` L190** (Occam bullet): puzzles *"the threshold and creativity evidence resolves"* — against **L133**: *"The Map should say plainly that it cannot defeat the second and third readings from comparative data."* Its Tenet 3 sibling at L184 was updated in the same pass; this one was not. **(3) `apex/what-consciousness-tells-us-about-physics` L236** claims *"Apparent complexity in the ontology yields genuine simplification in the explanatory structure"* for the Map's own ontology, without Tenet 5's symmetric caveat — and `tenets.md` L69 is explicit that Tenet 5's self-binding *"applies to parsimony arguments for or against the framework"*. **FIX SHAPE**: bring each bullet into line with its own body; do not weaken the bodies, which are correct. **Length-neutral.** **MIRROR**: edit obsidian, `uv run python scripts/sync.py`, grep both trees.
+- **Source**: check-tenets
+
 ### P2: Adopt panpsychism calibration in eastern-philosophy-consciousness
 - **Type**: refine-draft
 - **Status**: pending

@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T18:00:00+00:00'
+ai_modified: '2026-08-18T18:52:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 18:00:00+00:00
+lastmod: 2026-08-18 18:52:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 19:29 UTC - check-tenets
+
+- **Status**: Success
+- **Files checked**: window-scoped — 4 tenet-bearing articles read in full, 10 next-largest prose changes swept (delegated, then independently re-verified against disk), 2 direct-contradiction pattern batteries across `obsidian/{topics,concepts,apex,voids,positions,arguments}` + `archive/` + `hugo/content/`, plus status checks on both carried Tenet-2 families
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 4 (plus 1 non-tenet currency conflict)
+- **Result**: **Tenth consecutive pass with zero tenet contradictions.** Every non-zero battery hit resolved individually to a conditional antecedent, an explicit denial, rival exposition, or `reviews/` echo — zero assertions in Map voice.
+- **Carried Family Z (in-principle detectability): CLOSED.** The wrong-direction attribution the 08-16 pessimistic review ratified was corrected 2026-08-17 in `apex/judging-the-map-as-science` — the Tenet 3 line now reads "The tenet commits the Map to outcome-selection influence rather than to its detectability". All remaining live loci scope detectability to a named non-endorsed route.
+- **Carried Family AA (sign/direction): UNMOVED** — still open P3 on `apex/attention-as-causal-bridge` (L86 intact and unqualified). Not re-counted, not re-minted. The file was edited in-window on a different axis, itself a sound downgrade ("Consciousness determines" → "Consciousness, on the Map's hypothesis, biases").
+- **Fresh `instrumental-convergence` edit: tenet-correct.** Verified against the link target: `concepts/mind-arena` defines the arena as "a *territory*, not a mechanism… the *causal footprint* of the mental, not the mental itself", so predicating the causal powers of consciousness rather than the arena is the tenet-correct bearer under Tenets 1 and 3. Both L35/L87 decoys correctly left untouched.
+- **Notes**: (1) `eastern-philosophy-consciousness` L187 alignment line says the illusionist challenge "gains no traction" while today's strengthened body and its own falsifier ledger call Siderits 2025 an unrefuted live countermodel; (2) `consciousness-and-cognitive-distinctiveness` L190 Occam bullet still says the evidence "resolves" what the new L133 audit says it cannot — its Tenet 3 sibling at L184 was updated, this one was not; (3) `affective-forecasting-gap` L89 attributes truth-tracking minimality to Tenet 2, which `tenets.md` explicitly disclaims (over-concession, runs against the Map); (4) `what-consciousness-tells-us-about-physics` L236 claims explanatory simplicity for the Map's own ontology without Tenet 5's symmetric caveat.
+- **Pattern named**: all four notes sit in `## Relation to Site Perspective` sections, two of them the same temporal form of the matrix's "alignment-line inheritance" failure — body strengthened, alignment bullet left carrying the older stronger claim. These are the corpus's least-reviewed high-exposure surface.
+- **Method**: window measured from git by line churn, not commit count — surfaced six substantive-prose files the commit-count view missed, including `voids/binding-void` and `voids/anesthesia-void`, which the driver brief had classed as link-repointing only. `binding-void` proved to be a Tenet 5 improvement (now concedes parsimony cuts against the Map-friendly primitivist reading).
+- **Output**: [tenet-check-2026-08-18](/reviews/tenet-check-2026-08-18/)
+
+## 2026-08-18 18:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [instrumental-convergence](/topics/instrumental-convergence/)
+- **Original score**: not run — SKILL.md Step 3 invokes `scripts/curate.py`, which does not exist. Scoped single-sentence pipe-label correction; no length pass needed (length-neutral).
+- **Changes**: One sentence, `## Relation to Site Perspective` first paragraph. Navigation-surface defect: the pipe label `[[mind-arena|supporting system]]` asserted what the link target's body denies — `concepts/mind-arena` is a *domain* term ("It names a *territory*, not a mechanism"; "the *domain of outcomes*") and devotes a whole section to preventing exactly the collapse into a mechanism/system reading. The deeper defect was predication, not wording: as written the arena was the grammatical subject *bearing* the `causal-powers`, when under the Map the bearer is consciousness and the arena is the domain those powers propagate into. A pure label swap would not have fixed it. Re-phrased so consciousness is the bearer and the arena is linked for the domain, restoring the canonical construction quoted in `concepts/mind-arena` L45 ("consciousness exercising causal-powers 'that no physical-state description fully captures,' with 'the influence runs both ways'"). Both `[[mind-arena]]` and `[[causal-powers]]` links kept live; the Tenet 3 bidirectionality clause kept verbatim (the next paragraph depends on it); rest of the paragraph untouched.
+  - Before: "The `[[mind-arena|supporting system]]` has `[[causal-powers]]` no physical-state description captures, and the influence runs both ways, so it propagates into outcomes the agent must predict."
+  - After: "Consciousness exercises `[[causal-powers]]` no physical-state description captures, and the influence runs both ways, so its contribution propagates into the `[[mind-arena]]` outcomes the agent must predict."
+  - **Two decoys deliberately left untouched** — L35 and L87 both attribute unbounded powers to the arena and are *correct as written*, because each sits inside a construction the article explicitly rejects (L35 "not the claims that … the mind-arena wields unbounded powers"; L87 "The Map cannot — under its own Tenet 2 — coherently argue that … the mind-arena unbounded cross-scale powers. That move is the **absence-of-bound fallacy**"). Editing either would delete the article's own statement of a fallacy it refutes. Verified still 2 occurrences in each tree post-edit.
+- **Frontmatter**: `ai_modified` → `2026-08-18T18:52:53+00:00`, `modified` → `2026-08-18`. `ai_system` **held at `claude-opus-4-8`** — a label correction is not authoring, so no model appended. `last_deep_review` unchanged.
+- **Synced**: yes — `scripts/sync.py` run; fix confirmed live in `hugo/content/topics/instrumental-convergence.md` rendering `[mind-arena](/concepts/mind-arena/)`. Defect string `grep -c` 0 in both trees; fixed sentence 1 in both.
+- **Published**: yes
 
 ## 2026-08-18 18:00 UTC - refine-draft
 

@@ -39,6 +39,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/affective-forecasting-gap` uses Tenet 2 for the truth-tracking work Tenet 2 explicitly disclaims
+- **Type**: refine-draft
+- **File**: obsidian/concepts/affective-forecasting-gap.md
+- **Status**: pending
+- **Notes**: From `/check-tenets` 2026-08-18, and **driver-verified verbatim on disk at both loci before minting**. L89 closes its Minimal Quantum Interaction bullet with: *"because by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the more-minimal predictive reading wins any contest decided on parsimony alone."* That treats Tenet 2's minimality as **parsimony-adjudicating**. `obsidian/tenets/tenets.md` **L69** disclaims exactly this, under the heading *"Minimality as empirical constraint, not truth-tracking"*: *"The Map does not claim that within those constraints the smallest interaction is most likely true, only that no larger interaction is empirically tenable."* So the article invokes the tenet to settle a contest the tenet declines to enter. ⚠️ **WHY THIS SURVIVED**: the sentence runs **against** the Map, conceding it would lose a parsimony contest. Over-concessions get ratified rather than merely missed, because a reviewer reads a concession as calibration and moves on. **FIX SHAPE**: keep the concession's substance if it is otherwise sound, but stop sourcing it to Tenet 2. The prior-commitments reply named in the same sentence is untouched by this. **Length-neutral.** ⚠️ `obsidian/tenets/` is operator territory: fix the **article**, never the tenet. **MIRROR**: edit obsidian, `uv run python scripts/sync.py`, grep both trees.
+- **Source**: check-tenets
+
+### P3: alignment-line inheritance — three `Relation to Site Perspective` bullets still assert what their own bodies retracted
+- **Type**: refine-draft
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Status**: pending
+- **Notes**: From `/check-tenets` 2026-08-18. **All three driver-verified on disk by content-grep, not by line number** (the first had already drifted one line from the review's figure). A named structural class: the body gets strengthened or hedged, and the tenet-alignment summary bullet is left carrying the older, stronger claim. These summary lines are **the corpus's least-reviewed high-exposure surface** — see navigation-surfaces-carry-unreviewed-claims. **(1) `topics/eastern-philosophy-consciousness` L188** (Dualism bullet): *"The illusionist challenge gains no traction because Buddhism takes experience seriously enough to train it systematically."* But **L182**, rewritten the same day, states *"(2) faces a serious live countermodel: Siderits's physicalist reconstruction is assembled from Buddhist premises"*, and **L177** records that Siderits (2025) *"develops this from inside the tradition."* Note the bullet's reason does not even engage illusionism, which **grants** the systematic training and denies the phenomenal reading. **(2) `topics/consciousness-and-cognitive-distinctiveness` L190** (Occam bullet): puzzles *"the threshold and creativity evidence resolves"* — against **L133**: *"The Map should say plainly that it cannot defeat the second and third readings from comparative data."* Its Tenet 3 sibling at L184 was updated in the same pass; this one was not. **(3) `apex/what-consciousness-tells-us-about-physics` L236** claims *"Apparent complexity in the ontology yields genuine simplification in the explanatory structure"* for the Map's own ontology, without Tenet 5's symmetric caveat — and `tenets.md` L69 is explicit that Tenet 5's self-binding *"applies to parsimony arguments for or against the framework"*. **FIX SHAPE**: bring each bullet into line with its own body; do not weaken the bodies, which are correct. **Length-neutral.** **MIRROR**: edit obsidian, `uv run python scripts/sync.py`, grep both trees.
+- **Source**: check-tenets
+
+### P2: Adopt panpsychism calibration in eastern-philosophy-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-08-18. The topic article over-claims relative to its anchor concept [panpsychism](/concepts/panpsychism/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.89/kw is below 3.00/kw (target = 60% of anchor 5.86/kw, capped at 3.0/kw)
+  - strong-assertion density 0.84/kw exceeds 1.5× anchor (0.26/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-08-18
+
+
 ### P3: the per-class quantum-hardware substrate verdict is load-bearing for an apex funding recommendation and is registered nowhere in `positions/`
 
 - **Type**: positions-evolve
@@ -2566,20 +2592,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - **LENGTH**: 3,974w against topics 3000/4000 — very close to the hard threshold. Further Reading lines are cheap but not free; keep it to the two entries and one clause. If it breaches, drop the clause and keep the entries.
   - **MIRROR**: live at `hugo/content/topics/delegatory-dualism.md`. Sync after. `ai_modified` from a live `date -u`, strictly past; hold `ai_system` — adding cross-links is not authoring.
 
-### P2: `instrumental-convergence` L73 labels the mind-arena a "supporting system", which the concept article explicitly denies
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/instrumental-convergence.md
-- **Notes**: **ONE PIPE LABEL. This is a one-word fix, not a campaign — the surrounding paragraph is correct and must not be rewritten.** Found by the 2026-08-08 mind-arena predicate fix as an adjacent but distinct defect family, and driver-verified on disk.
-  **THE DEFECT.** L73 reads *"The `[[mind-arena|supporting system]]` has `[[causal-powers]]` no physical-state description captures"*. The pipe label asserts the arena is a **system** (a mechanism). `concepts/mind-arena` denies this directly: **L33** *"It names a **territory**, not a mechanism"*; **L45** settles the canonical reading as *"the **domain of outcomes**"*; **L53** *"The mind-arena is a **domain** term. Its value depends on keeping it distinct from the Map's **mechanism** and **formalism** terms, which it is easily collapsed into"*; **L57** separates it from the `mind-matter-interface` (the thin junction) as against the arena (the wide field of consequences downstream).
-  So the label performs precisely the collapse the concept article devotes a section to preventing. This is the **navigation-surface family**: the LABEL asserts what the linked target's body denies. **Fix the label, keep the link.**
-  **SUGGESTED**: a domain-preserving label — the sentence needs a subject that bears causal powers, so consider re-phrasing to name the conscious system while linking the arena for the outcomes, rather than piping the arena to a system noun. Judge on read; do not force a wording that makes the sentence ungrammatical.
-  **SCOPE — this is the ONLY instance.** All `mind-arena` uses across the other eight live articles carrying the term were read in full on 2026-08-07 and use it correctly as a domain; `archive/` returns 0 occurrences across 514 files. Do **not** open a sweep.
-  **NOT the same defect as the 2026-08-08 predicate fix** (`first-person access to a domain`, fixed at `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05` L105 and its two descendants). That family is about the **modality of an access predicate**; this is **arena-as-system**. Both cross the territory/mechanism boundary, hence the cross-reference, but the fixes differ.
-  **MIRROR**: edit obsidian, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a label correction is not authoring. Length-neutral.
-  **PROMOTED P3 → P2 by /replenish-queue 2026-08-18, re-verified in BOTH trees this session.** `grep -c "mind-arena|supporting system" obsidian/topics/instrumental-convergence.md` returns **1**, and the defect is **live on the published page**: `hugo/content/topics/instrumental-convergence.md:77` renders `The [supporting system](/concepts/mind-arena/)`. The denial was re-read at source: `concepts/mind-arena` L33 *"It names a `territory`, not a mechanism"* and L53 *"The mind-arena is a `domain` term. Its value depends on keeping it distinct from the Map's `mechanism` and `formalism` terms, which it is easily collapsed into."* Both quotes confirmed verbatim on disk. Promoted because this has now been **observed and deferred three separate times** (changelog W32 twice as "reported not fixed", plus the 2026-08-07 predicate-fix pass) — each re-observation costs a cycle, and the fix is a single pipe label in a Relation-to-Site-Perspective section, i.e. tenet-bearing surface. Cheapest verified defect in the queue.
-
 ### P3: `agent-teleology`'s blurb promises a third domain — meaning — that the body never treats
 
 - **Type**: refine-draft
@@ -2761,6 +2773,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-18: `instrumental-convergence` L73 labels the mind-arena a "supporting system", which the concept article explicitly denies
+- **Type**: refine-draft
+- **File**: obsidian/topics/instrumental-convergence.md
+- **Notes**: **ONE PIPE LABEL. This is a one-word fix, not a campaign — the surrounding paragraph is correct and must not be rewritten.** Found by the 2026-08-08 mind-arena predicate fix as an adjacent but distinct defect family, and driver-verified on disk.
+  **THE DEFECT.** L73 reads *"The `[[mind-arena|supporting system]]` has `[[causal-powers]]` no physical-state description captures"*. The pipe label asserts the arena is a **system** (a mechanism). `concepts/mind-arena` denies this directly: **L33** *"It names a **territory**, not a mechanism"*; **L45** settles the canonical reading as *"the **domain of outcomes**"*; **L53** *"The mind-arena is a **domain** term. Its value depends on keeping it distinct from the Map's **mechanism** and **formalism** terms, which it is easily collapsed into"*; **L57** separates it from the `mind-matter-interface` (the thin junction) as against the arena (the wide field of consequences downstream).
+  So the label performs precisely the collapse the concept article devotes a section to preventing. This is the **navigation-surface family**: the LABEL asserts what the linked target's body denies. **Fix the label, keep the link.**
+  **SUGGESTED**: a domain-preserving label — the sentence needs a subject that bears causal powers, so consider re-phrasing to name the conscious system while linking the arena for the outcomes, rather than piping the arena to a system noun. Judge on read; do not force a wording that makes the sentence ungrammatical.
+  **SCOPE — this is the ONLY instance.** All `mind-arena` uses across the other eight live articles carrying the term were read in full on 2026-08-07 and use it correctly as a domain; `archive/` returns 0 occurrences across 514 files. Do **not** open a sweep.
+  **NOT the same defect as the 2026-08-08 predicate fix** (`first-person access to a domain`, fixed at `research/dualism-as-ai-superintelligence-risk-mitigator-2026-05-05` L105 and its two descendants). That family is about the **modality of an access predicate**; this is **arena-as-system**. Both cross the territory/mechanism boundary, hence the cross-reference, but the fixes differ.
+  **MIRROR**: edit obsidian, then `uv run python scripts/sync.py`. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a label correction is not authoring. Length-neutral.
+  **PROMOTED P3 → P2 by /replenish-queue 2026-08-18, re-verified in BOTH trees this session.** `grep -c "mind-arena|supporting system" obsidian/topics/instrumental-convergence.md` returns **1**, and the defect is **live on the published page**: `hugo/content/topics/instrumental-convergence.md:77` renders `The [supporting system](/concepts/mind-arena/)`. The denial was re-read at source: `concepts/mind-arena` L33 *"It names a `territory`, not a mechanism"* and L53 *"The mind-arena is a `domain` term. Its value depends on keeping it distinct from the Map's `mechanism` and `formalism` terms, which it is easily collapsed into."* Both quotes confirmed verbatim on disk. Promoted because this has now been **observed and deferred three separate times** (changelog W32 twice as "reported not fixed", plus the 2026-08-07 predicate-fix pass) — each re-observation costs a cycle, and the fix is a single pipe label in a Relation-to-Site-Perspective section, i.e. tenet-bearing surface. Cheapest verified defect in the queue.
 
 ### ✓ 2026-08-18: Fold the summary-statistics mechanism into voids/plenitude-void — the Map cites Cohen, Dennett & Kanwisher's conclusion while omitting its argument
 - **Type**: refine-draft
