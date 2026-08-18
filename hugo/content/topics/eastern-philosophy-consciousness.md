@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-18 09:27:05+00:00
+ai_modified: 2026-08-18 10:41:10+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-08-18 09:27:05+00:00
+lastmod: 2026-08-18 10:41:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,6 +129,8 @@ Despite different starting points the three traditions converge on several claim
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
 **Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga exemplifies [Bidirectional Interaction](/tenets/#bidirectional-interaction)—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [dream-consciousness](/topics/dream-consciousness/) and [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/).
+
+Active inference is the leading naturalistic competitor for the phenomena collected here, and the cessation investigators' own reading points at it. Laukkonen and Slagter (2021) give a predictive-processing account of deconstructive meditation, placing focused attention, open monitoring and non-dual practice on one continuum along which increasingly engrained habits of prediction are relinquished—including the predicted self—until conceptual processing falls away and a state of pure awareness is unveiled. Laukkonen, Friston and Chandaria (2025) extend active inference to consciousness generally, claiming for it only that it is "deeply revealing about altered states, meditation, and the full spectrum of conscious experience". If that programme succeeds it explains most of what this section reports: self-deconstruction becomes a self-model being relinquished, contentless awareness the limit of disengaging anticipation, and the meditative gradient the order in which predictive habits give way. Two discounts follow. It remains a research programme whose treatment of the deepest attainments is schematic where the phenomenology is most contested; and explaining why a self-model thins relocates the Map's question rather than answering it—why the thinning is undergone and not merely represented—which is the trade the illusionist section below examines. What survives is that these findings arrive already spoken for: a live naturalistic programme addresses them, which constrains what the Map can read off them without settling the question against it.
 
 ## The Illusionist Challenge
 
@@ -240,6 +242,8 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews*, 128, 199-217. DOI: 10.1016/j.neubiorev.2021.06.021.
+1. Laukkonen, R., Friston, K., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. DOI: 10.1016/j.neubiorev.2025.106296.
 1. Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.
 1. Yang, W. F., Kadambi, A., Abellaneda-Perez, K., Mackin, G., Beslic, I., Potash, R., Sparby, T., & Sacchet, M. D. (2025). Endogenous suspension and reset of consciousness: 7T fMRI brain mapping of the extended cessation meditative endpoint. *bioRxiv* preprint (not peer-reviewed), N=3. DOI: 10.1101/2025.09.06.674021.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
