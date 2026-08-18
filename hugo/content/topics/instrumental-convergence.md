@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-06-24
 ai_modified: 2026-08-18 18:52:53+00:00
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'

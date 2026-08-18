@@ -24,7 +24,7 @@ related_articles:
   - "[[possibility-probability-slippage]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-24
 last_curated:
 last_deep_review: 2026-07-07T18:57:50+00:00
