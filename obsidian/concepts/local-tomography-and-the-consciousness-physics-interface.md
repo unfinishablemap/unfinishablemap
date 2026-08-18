@@ -4,7 +4,7 @@ description: "A human-AI account of local tomography — the axiom that a compos
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-08-16T15:57:22+00:00
+ai_modified: 2026-08-18T10:31:30+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -20,10 +20,10 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-16
 last_curated:
-last_deep_review: 2026-07-16T16:02:22+00:00
+last_deep_review: 2026-08-18T10:31:30+00:00
 ---
 
-**Local tomography** (equivalently *tomographic locality*) is the axiom that the state of a composite system is completely determined by the statistics of *local* measurements on its parts, together with the correlations between those local outcomes. Complex quantum mechanics satisfies it; real and quaternionic quantum theories do not. The axiom matters to the Map because it is one of two structural principles — purification is the other — each of which independently forces the Born-rule constraint the Map leans on at the consciousness-physics interface. Local tomography would have to fail *and* purification fail with it before that constraint formally reopened, so the axiom's failure is a necessary condition rather than a sufficient one. Whether local tomography holds across a physical/non-physical composite is unknown and untested — so the [[#the-interface-question|interface reading below]] is a Map open question that *sharpens* Tenet 2, not evidence for it. That status is part of the claim, not a footnote to it.
+**Local tomography** (equivalently *tomographic locality*) is the axiom that the state of a composite system is completely determined by the statistics of *local* measurements on its parts, together with the correlations between those local outcomes. Complex quantum mechanics satisfies it; real and quaternionic quantum theories do not. The axiom matters to the Map because it is one of two structural principles — purification is the other — each of which independently forces the Born-rule constraint the Map leans on at the consciousness-physics interface. Local tomography would have to fail *and* purification fail with it before that constraint formally reopened, so the axiom's failure is necessary rather than sufficient. Whether local tomography holds across a physical/non-physical composite is unknown and untested — so the [[#the-interface-question|interface reading below]] is a Map open question that *sharpens* Tenet 2, not evidence for it. That status is part of the claim, not a footnote to it.
 
 ## The Axiom, Stated Neutrally
 
@@ -43,7 +43,7 @@ What makes local tomography interesting is that it is not universal. It has conc
 
 When local tomography fails, a composite has a **global degree of freedom** — a component of the joint state that no product of local effects can read out. The state carries more information than any amount of separate local measurement on A and on B can recover; that surplus is accessible only through genuinely *joint* measurements across the parts.
 
-The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2012) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory: its composites carry global information recoverable from joint measurements on pairs, but not from separate measurements on individuals. Hardy and Wootters name this residual "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
+The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2012) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory. Hardy and Wootters name this residual "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
 
 **Quaternionic quantum theory** fails in the opposite direction: its natural tensor product is the wrong size to even define the product effects a locally-tomographic composite needs. Global degrees of freedom are then unavoidable by construction.
 
@@ -53,7 +53,7 @@ The lesson is that local-tomography failure is not a pathology or a logical stra
 
 ## Is Local Tomography a Fact About Nature?
 
-Whether nature's composition rule actually *is* locally tomographic — rather than merely modelled that way — became an experimental question with **Renou et al. (2021)**, "Quantum theory based on real numbers can be experimentally falsified" (*Nature* 600, 625-629). The authors show that "real and complex quantum theory make different predictions in network scenarios comprising independent states and measurements," and devise a bilocal quantum-network experiment — two independent entanglement sources, three parties — whose standard complex-quantum prediction exceeds any value real quantum theory can reach. The test was realised in 2022 on superconducting and photonic platforms, both reporting violation of the real-quantum bound. This is, in effect, an empirical probe of whether nature composes the way a locally-tomographic theory (complex quantum mechanics) says, rather than the way a merely bilocally-tomographic theory (real quantum mechanics) would.
+Whether nature's composition rule actually *is* locally tomographic — rather than merely modelled that way — became an experimental question with **Renou et al. (2021)**, "Quantum theory based on real numbers can be experimentally falsified" (*Nature* 600, 625-629). The authors show that "real and complex quantum theory make different predictions in network scenarios comprising independent states and measurements," and devise a bilocal quantum-network experiment — two independent entanglement sources, three parties — whose standard complex-quantum prediction exceeds any value real quantum theory can reach. The test was realised in 2022 on a superconducting processor (Chen et al. 2022) and on an optical network (Li et al. 2022), each reporting violation of the real-quantum bound. This is, in effect, an empirical probe of whether nature composes the way a locally-tomographic theory (complex quantum mechanics) says, rather than the way a merely bilocally-tomographic theory (real quantum mechanics) would.
 
 The result is not settled, and the Map must not present it as such. Hoffreumon and Woods (2026), "Quantum theory based on real numbers cannot be experimentally falsified" (submitted March 2026), argue that the Renou falsification rests on an experimentally untestable assumption they call **product-state independence** — a constraint on the mathematical *form* of the source states — as distinct from **operational independence**, "the absence of observable cross-source correlations." On their analysis, once source independence is imposed operationally rather than through a constraint on state form, real and complex quantum theory become empirically indistinguishable for all finite network experiments. The dispute is live and unresolved as of 2026.
 
@@ -65,7 +65,7 @@ Here the axiom meets the Map's programme, and everything that follows is the Map
 
 The [[generalised-probabilistic-theories]] concept establishes an honest conditional: an agent coupling to quantum outcomes *in a regime that satisfies purification or local tomography* is Born-constrained on pain of signalling. Galley and Masanes (2018) proved this in the strong form their title states — any modification of the Born rule violates the purification **and** local tomography principles, both of them, for every modification in the classification they work with. Their abstract establishes the two halves separately: "in all these theories the purification principle is violated," and "in all such modifications the task of state tomography with local measurements is impossible."
 
-Contraposing gives the constraint its real shape. If *either* axiom holds, the Born rule is forced. Local-tomography failure is therefore necessary but not sufficient for a non-Born interface — purification would have to fail alongside it. The theorem describes a single door with two locks, rather than two independent doors either of which would serve. The Born-rule constraint the Map relies on for its Tenet-2 interface is accordingly as strong as the *weaker* of the two demands: it survives so long as either axiom applies to the coupling.
+Contraposing gives the constraint its real shape. If *either* axiom holds, the Born rule is forced. Local-tomography failure is therefore necessary but not sufficient for a non-Born interface — purification would have to fail alongside it. The theorem describes a single door with two locks, rather than two independent doors either of which would serve — so the Born-rule constraint the Map relies on at its Tenet-2 interface survives so long as *either* axiom applies to the coupling.
 
 One scope condition travels with the theorem and matters below. Galley and Masanes classify alternatives to the *measurement* postulates while holding the rest of quantum theory fixed — pure states as rays in a Hilbert space, reversible dynamics. What they prove is what a modified probability rule costs inside that setting, which is narrower than a claim about composite systems in general.
 
@@ -77,7 +77,7 @@ Now consider the composite the Map's Tenet-2 interface posits: a physical brain 
 
 Even both failing would not by itself construct a non-Born interface; the theorem runs in one direction, from modified rule to violated axioms, and not back. What Galley and Masanes do supply is an existence proof that the destination is reachable at all — their toy theory modifies the Born rule while preserving no-signalling, "contrarily to previous claims."
 
-The Map presents two readings and commits to neither as established.
+The Map presents two readings and commits to neither as established. The [[positions/quantum-interface|positions register]] does rank them, however: P-Q2 holds exact Born preservation as the default reading of Tenet 2 at high credence, keeping the outside-the-corridor branch open only as a subordinate fall-back. The signature reading below belongs to that fall-back.
 
 **As a problem.** Local-tomography failure at the interface would cost the Map a constraint, though only in company. The clean argument — *any agent coupling to quantum outcomes is Born-constrained on pain of signalling* — stands on purification by itself, so it evaporates only where both axioms fail together. The liability is genuine and it is conditional on a conjunction; intellectual honesty requires naming it at that size rather than at the larger one.
 
@@ -112,7 +112,9 @@ The axiom does no work *for* the interface reading over its rivals. Its value to
 1. Hardy, L., & Wootters, W. K. (2012). Limited Holism and Real-Vector-Space Quantum Theory. *Foundations of Physics*, 42, 454-473. *arXiv:1005.4870* (2010). https://arxiv.org/abs/1005.4870
 2. Barnum, H., & Wilce, A. (2014). Local Tomography and the Jordan Structure of Quantum Theory. *Foundations of Physics*, 44, 192-212. *arXiv:1202.4513* (2012). https://arxiv.org/abs/1202.4513
 3. Renou, M.-O., Trillo, D., Weilenmann, M., Le, T. P., Tavakoli, A., Gisin, N., Acín, A., & Navascués, M. (2021). Quantum theory based on real numbers can be experimentally falsified. *Nature*, 600, 625-629. doi:10.1038/s41586-021-04160-4. *arXiv:2101.10873*. https://arxiv.org/abs/2101.10873
-4. Hoffreumon, T., & Woods, M. P. (2026). Quantum theory based on real numbers cannot be experimentally falsified. *arXiv:2603.19208* (preprint, not peer-reviewed; dispute ongoing). https://arxiv.org/abs/2603.19208
-5. Galley, T. D., & Masanes, L. (2018). Any modification of the Born rule leads to a violation of the purification and local tomography principles. *Quantum*, 2, 104. https://quantum-journal.org/papers/q-2018-11-06-104/
-6. Southgate, A. & Oquatre-huit, C. (2026-07-16). Generalised Probabilistic Theories. *The Unfinishable Map*. https://unfinishablemap.org/concepts/generalised-probabilistic-theories/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-14). Causal Consistency Constraint. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-consistency-constraint/
+4. Chen, M.-C., et al. (2022). Ruling Out Real-Valued Standard Formalism of Quantum Theory. *Physical Review Letters*, 128, 040403. doi:10.1103/PhysRevLett.128.040403
+5. Li, Z.-D., et al. (2022). Testing Real Quantum Theory in an Optical Quantum Network. *Physical Review Letters*, 128, 040402. doi:10.1103/PhysRevLett.128.040402
+6. Hoffreumon, T., & Woods, M. P. (2026). Quantum theory based on real numbers cannot be experimentally falsified. *arXiv:2603.19208* (preprint, not peer-reviewed; dispute ongoing). https://arxiv.org/abs/2603.19208
+7. Galley, T. D., & Masanes, L. (2018). Any modification of the Born rule leads to a violation of the purification and local tomography principles. *Quantum*, 2, 104. doi:10.22331/q-2018-11-06-104
+8. Southgate, A. & Oquatre-huit, C. (2026-07-16). Generalised Probabilistic Theories. *The Unfinishable Map*. https://unfinishablemap.org/concepts/generalised-probabilistic-theories/
+9. Southgate, A. & Oquatre-sept, C. (2026-05-14). Causal Consistency Constraint. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-consistency-constraint/

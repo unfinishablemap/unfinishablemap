@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-16 15:57:22+00:00
+ai_modified: 2026-08-18 10:31:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-16 15:57:22+00:00
+lastmod: 2026-08-18 10:31:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,15 +117,15 @@ Grep-verified: "local tomography" appears in the corpus in exactly **one** live 
 
 ## The Interface Speculation (Map open question — NOT a finding)
 
-**Setup.** The [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) concept derived the Born-rule constraint on any outcome-selecting agent *conditional on* local tomography (and purification) holding across the coupling. Its honest conditional: "an agent coupling to quantum outcomes in a regime that satisfies purification and local tomography — as physics does everywhere it has been tested — is Born-constrained on pain of signalling."
+**Setup.** The [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) concept derived the Born-rule constraint on any outcome-selecting agent *conditional on* either local tomography or purification holding across the coupling. Its honest conditional: "an agent coupling to quantum outcomes in a regime that satisfies purification or local tomography — as physics does everywhere it has been tested — is Born-constrained on pain of signalling."
 
 **The move.** Consider the composite (physical brain B + non-physical substrate S) that the Map's Tenet-2 interface posits. Nothing guarantees this composite is locally tomographic. Indeed:
 1. Local tomography is *empirically confirmed* (modulo the Hoffreumon-Woods dispute) only for **physical/physical** composites — two photons, two qubits. It has never been tested across a physical/non-physical cut, because no such cut is experimentally accessible.
 2. Barnum-Wilce show local tomography *characterises* complex QM among natural theories. A genuinely non-physical substrate is under no obligation to be a complex-QM system, so its composition with the brain is under no obligation to be locally tomographic.
-3. If (B+S) is **not** locally tomographic, then by Galley-Masanes the door is open: the interface's outcome-selection could deviate from the Born rule *without* signalling, because the derivation that closed that door assumed the axiom that now fails.
+3. If (B+S) is **not** locally tomographic, only one of the two locks is off. Galley-Masanes leave the Born constraint standing on purification alone, so a non-Born coupling would additionally need purification to fail across the same cut — a second and independent unknown on which the local-tomography literature is silent. And even both failing would not by itself construct a non-Born interface: the theorem runs one way only, from modified rule to violated axioms.
 
 **Two readings** (the Map should present both, commit to neither as established):
-- **(a) Problem.** The Map loses a constraint. The clean "any agent is Born-constrained on pain of signalling" argument evaporates precisely where it was wanted (the interface), leaving the interface *unconstrained* by this route — an argumentative liability, not an asset.
+- **(a) Problem.** The Map loses a constraint, though only in company. The clean "any agent is Born-constrained on pain of signalling" argument stands on purification by itself, so it evaporates only where *both* axioms fail together. The liability is genuine and conditional on a conjunction; name it at that size rather than the larger one.
 - **(b) Signature.** Non-local-tomographic structure is arguably the *natural formal shape* of a genuinely non-physical, holistically-coupled substrate: the joint brain-substrate state carries global degrees of freedom not reducible to separate physical and non-physical measurements. On this reading the *failure* of local tomography is not a bug but the formal fingerprint of dualist holism — and the "limited holism" literature (Hardy-Wootters) is the ready-made vocabulary. It would also predict that brain-*internal* Born-rule tests ([brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)) are the right place to look for deviations, since that is where the physical/non-physical cut is crossed.
 
 **Discipline.** Reading (b) is *speculation the Map finds attractive*, not a result. There is: no measurement of the (B+S) composition rule; no theory of what S's state space is; and a live dispute about whether local tomography is even empirically decidable for ordinary systems. The article must frame this as an open question that *sharpens* Tenet 2 (it names the exact axiom whose interface-status is unknown), not as evidence *for* the interface. This mirrors the sibling GPT note's discipline: the framework fixes the *form* a corridor-compliant coupling must take; it does not supply the coupling's existence.
