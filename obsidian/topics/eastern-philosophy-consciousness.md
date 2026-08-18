@@ -1,6 +1,6 @@
 ---
 title: "Eastern Philosophy and Consciousness"
-description: "Hindu, Buddhist, and Taoist traditions converge with dualism on consciousness's irreducibility while challenging Western assumptions about permanent selfhood—forcing clarity about what dualism actually requires."
+description: "Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but at a level too coarse to select dualism over its rivals, and while challenging Western assumptions about permanent selfhood. The tension forces clarity about what dualism actually requires."
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null

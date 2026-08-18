@@ -32,9 +32,10 @@ concepts:
 - '[[evaluative-phenomenal-character]]'
 created: 2026-01-09
 date: &id001 2026-02-06
-description: Hindu, Buddhist, and Taoist traditions converge with dualism on consciousness's
-  irreducibility while challenging Western assumptions about permanent selfhood—forcing
-  clarity about what dualism actually requires.
+description: Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but
+  at a level too coarse to select dualism over its rivals, and while challenging Western
+  assumptions about permanent selfhood. The tension forces clarity about what dualism
+  actually requires.
 draft: false
 human_modified: null
 last_curated: null
