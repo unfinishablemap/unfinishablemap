@@ -226,7 +226,7 @@ Two properties make this worth acting on rather than noting. First, the duress a
 
 #### Resultant moral luck
 
-- **Builds on**: [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/) (mentions moral luck), [concepts/luck-objection.md](/concepts/luck-objection/) (treats the *distinct* luck objection — indeterminism-as-randomness).
+- **Builds on**: [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/) (mentions moral luck), [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) (treats the *distinct* luck objection — indeterminism-as-randomness).
 - **Gap**: "moral luck" appears as prose in five files with no sustained treatment anywhere. It is the sharpest unaddressed pressure on agent-causal desert: if the agent authors the *selection* but not the *outcome*, does desert track the try or the result?
 - **Why this is the cluster's strongest unclaimed asset**: the Map's framework has a clean answer available that most theories cannot give — desert attaches at the selection, so resultant luck is genuinely irrelevant to desert. Agent causation lets the Map bite a bullet that compatibilists mostly have to chew. The argument is sitting there unused.
 - **Scope**: one section in [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/). **Length-binding**: 3678w, `soft_warning`.

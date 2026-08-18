@@ -7,7 +7,6 @@ author: null
 concepts:
 - '[[agent-causation]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[luck-objection]]'
 - '[[causal-closure]]'
 - '[[source-versus-leeway-incompatibilism]]'
 created: 2026-07-09
@@ -97,7 +96,7 @@ The Consequence Argument matters to the Map because the Map is committed to inco
 
 But the Map must be scrupulous about the division of labor. The argument delivers only the conditional: *if* determinism holds, no free will. To reach the Map's libertarian conclusion, a second premise is needed—that determinism is false, and that the indeterminism which obtains is *agent-harnessable* rather than mere randomness. That second premise is where the Map's distinctive machinery lives: the [quantum interface](/concepts/quantum-indeterminacy-free-will/) at which consciousness makes a minimal, non-physical contribution to otherwise-undetermined outcomes, and the [agent-causal](/concepts/agent-causation/) metaphysics that lets a selection be the agent's rather than a chance fluctuation. The Consequence Argument clears the ground; the indeterminist premise and the agent-causal account do the positive building. Presenting the argument as though it *proved* the Map's dualism would be exactly the over-reading to avoid.
 
-Two further connections are worth drawing. First, the [luck objection](/concepts/luck-objection/) is downstream, not upstream, of the Consequence Argument. The Consequence Argument motivates the *need* for indeterminism; the luck objection then presses on whether indeterminism, once admitted, can amount to control rather than chance. They are distinct problems, and the Map answers them at different points—though the luck objection may be the harder of the two, and clearing the compatibilist field does nothing to answer it. Winning against the compatibilist here buys the Map only the *conditional*; whether its libertarian discharge of that conditional survives the luck objection has to be argued on its own, not assumed as a spoil of this argument's success.
+Two further connections are worth drawing. First, the [luck objection](/concepts/quantum-indeterminacy-free-will/) is downstream, not upstream, of the Consequence Argument. The Consequence Argument motivates the *need* for indeterminism; the luck objection then presses on whether indeterminism, once admitted, can amount to control rather than chance. They are distinct problems, and the Map answers them at different points—though the luck objection may be the harder of the two, and clearing the compatibilist field does nothing to answer it. Winning against the compatibilist here buys the Map only the *conditional*; whether its libertarian discharge of that conditional survives the luck objection has to be argued on its own, not assumed as a spoil of this argument's success.
 
 Second, Lewis's local miracle reads suggestively through the Map's lens rather than as a mere adversary. Lewis needs a small, localized divergence from the actual physical laws to make "I could have done otherwise" true; he treats it as a counterfactual device with no law-breaking agent behind it. The Map's [interactionist picture](/concepts/causal-closure/) arguably makes that divergence literal and gives it an author: consciousness's minimal, non-physical influence at the quantum interface is precisely a lawful-looking but not physically-determined departure from what the prior physical state alone would fix. Where Lewis posits an unowned miracle to save compatibilism, the Map posits a minimally owned one to ground libertarian selection. The compatibilist device and the interactionist feature are closer than they first appear—which is a reason to engage Lewis's argument seriously rather than dismiss it.
 
@@ -106,9 +105,8 @@ Finally, the [No Many Worlds](/tenets/#no-many-worlds) tenet bears on how the Ma
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The Map's agent-causal libertarian position, for which this argument clears the ground
-- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The separate indeterminist premise the libertarian conclusion requires
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The separate indeterminist premise the libertarian conclusion requires, and the downstream luck challenge that arises once indeterminism is admitted
 - [agent-causation](/concepts/agent-causation/) — Why harnessed indeterminism can be the agent's doing rather than luck
-- [luck-objection](/concepts/luck-objection/) — The downstream challenge that arises once indeterminism is admitted
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's harder incompatibilist cousin, which argues the libertarian escape also fails
 - [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) — Frankfurt severs the link this argument relies on between leeway and responsibility
 - [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) — Why this counts as a leeway argument, and how it contrasts with source arguments

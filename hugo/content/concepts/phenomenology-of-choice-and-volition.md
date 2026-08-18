@@ -23,7 +23,6 @@ concepts:
 - '[[decoherence]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[quantum-biology-and-neural-mechanisms]]'
-- '[[luck-objection]]'
 - '[[causal-interface]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
@@ -154,7 +153,7 @@ Wegner's evidence comes from cases where agency attribution goes wrong — autom
 
 Mele's critique adds that the Libet paradigm tests spontaneous wrist flicking — bearing little resemblance to genuine voluntary action involving deliberation, reasons, and competing considerations. What subjects become aware of may be an urge to flex, not a decision already made.
 
-If choosing were passive reception of randomly determined outcomes, deliberation costs — attentional, emotional, temporal — would be inexplicable. The [luck objection](/concepts/luck-objection/) compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
+If choosing were passive reception of randomly determined outcomes, deliberation costs — attentional, emotional, temporal — would be inexplicable. The [luck objection](/concepts/quantum-indeterminacy-free-will/) compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
 
 ## What Would Challenge This View?
 

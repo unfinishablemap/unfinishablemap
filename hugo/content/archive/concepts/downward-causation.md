@@ -212,7 +212,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [causal-delegation](/concepts/delegatory-causation/) — How physical states delegate causal work to experience
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation
-- [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to emergence
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for specifying mind-matter laws

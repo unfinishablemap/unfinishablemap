@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-23
-**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: [2026-06-01](/reviews/deep-review-2026-06-01-luck-objection/)
 **Scope**: Changed-since-review audit, 8th deep-review pass. `last_deep_review` 2026-06-01; `ai_modified` 2026-06-18. Heavily converged (7 prior reviews, stable across 2026-03-12 → 2026-06-01). Per the convergence-damping guidance (deep-review-over-reviews-converged) this pass audits only the post-06-01 changes and re-checks the load-bearing disciplines; no padding or re-hedging applied to converged content.
 

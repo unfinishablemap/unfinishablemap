@@ -4,8 +4,13 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-07-28T02:16:16+00:00
+ai_modified: 2026-08-18T15:31:12+00:00
 draft: false
+archived: true
+archived_date: 2026-08-18T15:31:12+00:00
+superseded_by: "/concepts/quantum-indeterminacy-free-will/"
+archive_reason: "Coalesced into Quantum Indeterminacy and Free Will"
+original_path: "/concepts/luck-objection/"
 topics:
   - "[[free-will]]"
 concepts:

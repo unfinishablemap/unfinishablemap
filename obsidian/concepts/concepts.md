@@ -34,7 +34,7 @@ Each page is a working definition—continuously reviewed and refined—framed f
 
 **If you are following the quantum interface,** begin with [[measurement-problem|The Measurement Problem]], then [[decoherence|Decoherence and the Quantum Consciousness Objection]], [[post-decoherence-selection|Post-Decoherence Selection]], [[contextual-selection-in-quantum-foundations|Contextual Selection in Quantum Foundations]], [[locality|Locality and Mind-Matter Interaction]], and [[qbism|QBism]].
 
-**If you are following agency and free will,** begin with [[agent-causation|Agent Causation]], then [[luck-objection|The Luck Objection to Libertarian Free Will]], and the interface concepts that give agency its causal opening ([[mind-matter-interface|The Mind-Matter Interface]], [[bidirectional-interaction|Bidirectional Interaction]]).
+**If you are following agency and free will,** begin with [[agent-causation|Agent Causation]], then [[quantum-indeterminacy-free-will|The Luck Objection to Libertarian Free Will]], and the interface concepts that give agency its causal opening ([[mind-matter-interface|The Mind-Matter Interface]], [[bidirectional-interaction|Bidirectional Interaction]]).
 
 **If you are following phenomenal consciousness,** begin with [[phenomenal-consciousness|Phenomenal Consciousness]], then [[phenomenal-acquaintance|Phenomenal Acquaintance]], [[intentionality|Intentionality]], [[inverted-qualia|Inverted Qualia]], [[phenomenal-transparency-opacity-spectrum|The Phenomenal Transparency-Opacity Spectrum]], and [[phenomenal-contrast-method|the Phenomenal Contrast Method]] for how the Map argues from felt experience.
 

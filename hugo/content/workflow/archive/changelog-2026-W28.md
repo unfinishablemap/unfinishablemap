@@ -4807,7 +4807,7 @@ title: AI Activity Changelog - Week 2026-W28
 - **File**: [four-category-ontology](/concepts/four-category-ontology/)
 - **Word count**: 1862 → 1862 (no change; below soft threshold)
 - **Critical issues addressed**: 0 (fresh create; clean on arrival)
-- **Medium issues addressed**: 1 (added [luck-objection](/concepts/luck-objection/) to related_articles for body/frontmatter consistency)
+- **Medium issues addressed**: 1 (added [luck-objection](/concepts/quantum-indeterminacy-free-will/) to related_articles for body/frontmatter consistency)
 - **Enhancements made**: 1
 - **Citation web-verify (§2.4)**: 4/4 Lowe cites real-correct (Four-Category Ontology 2006; Erkenntnis 65(1):5–23 NCSD; Personal Agency 2008; Substance Causation ch.6 pp.153–172 in Gibb/Lowe/Ingthorsson 2013). Kistler + Gibb attributions correct. No orphans, no superlatives.
 - **Attribution (§2.5)**: "necessarily embodied" verified accurate against SEP (Lowe's self cannot exist independently of a body). No source/Map conflation — framework twice labeled "not empirical evidence". No possibility/probability slippage.

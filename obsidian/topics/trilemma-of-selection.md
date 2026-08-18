@@ -11,7 +11,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[luck-objection]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
@@ -137,8 +136,7 @@ The trilemma connects to each of the five [[tenets]]:
 
 - [[topics/free-will]] — The broader case for agent-causal libertarian free will
 - [[attention-and-the-consciousness-interface]] — The neural architecture where selection occurs
-- [[quantum-indeterminacy-free-will]] — How quantum mechanics creates space for mental causation
-- [[luck-objection]] — The central challenge the trilemma's second horn makes vivid
+- [[quantum-indeterminacy-free-will]] — How quantum mechanics creates space for mental causation, and the luck challenge the trilemma's second horn makes vivid
 - [[reasons-responsiveness]] — Why reasons-guided selection escapes the luck objection
 - [[agent-causation]] — The metaphysical framework for Horn 3
 - [[phenomenology-of-choice-and-volition]] — The experiential structure of choosing vs observing

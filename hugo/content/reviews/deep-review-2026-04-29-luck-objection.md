@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-29
-**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-luck-objection/)
 **Cross-review trigger**: moral-implications-of-genuine-agency restructure (today)
 

@@ -18,7 +18,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"
   - "[[baseline-cognition]]"
-  - "[[luck-objection]]"
+  - "[[quantum-indeterminacy-free-will]]"
   - "[[reasons-responsiveness]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
 related_articles:
@@ -104,7 +104,7 @@ A sophisticated physicalist can accept the graduated responsibility framework ab
 
 The difference emerges at the veto. A physicalist account of torture resistance must locate the *entire* explanation in prior physical states—neural architecture, training history, hormone levels, personality traits. If these factors fully determine the outcome, then the agent who resists and the agent who complies were never genuinely choosing differently; their outcomes were fixed by their respective physical histories. The agent's felt experience of choosing to resist—the agonising effort of maintaining commitment against overwhelming pressure—would be causally inert, a mere accompaniment to processes already determined.
 
-The Map's framework preserves the causal reality of that felt effort. Consciousness selects among options that physics leaves open, and this selection is where the effort *is*. The graduated factors describe what constrains the selection; they do not replace it. A physicalist can model the constraints; what the physicalist cannot model, without eliminating it, is the selector. The [[luck-objection|luck objection]]—that undetermined selection is indistinguishable from randomness—has force in ordinary contexts, but under duress the phenomenological contrast is stark: enduring torture does not feel random. The agent experiences their resistance as the hardest thing they have ever done, not as something that happened to them.
+The Map's framework preserves the causal reality of that felt effort. Consciousness selects among options that physics leaves open, and this selection is where the effort *is*. The graduated factors describe what constrains the selection; they do not replace it. A physicalist can model the constraints; what the physicalist cannot model, without eliminating it, is the selector. The [[quantum-indeterminacy-free-will|luck objection]]—that undetermined selection is indistinguishable from randomness—has force in ordinary contexts, but under duress the phenomenological contrast is stark: enduring torture does not feel random. The agent experiences their resistance as the hardest thing they have ever done, not as something that happened to them.
 
 ## Relation to Site Perspective
 
@@ -128,7 +128,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[consciousness-and-causal-powers]]
 - [[agent-causation]]
 - [[self-opacity|volitional opacity]]
-- [[luck-objection]]
+- [[quantum-indeterminacy-free-will]]
 - [[reasons-responsiveness]]
 - [[concepts/consciousness-selecting-neural-patterns]]
 - [[pain-consciousness-and-causal-power]]

@@ -66,7 +66,7 @@ The supporting network is where the Map exceeds what most treatments offer:
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) explores what choosing feels like in detail
 - [libet-experiments](/concepts/libet-experiments/) engages the strongest empirical challenge with the retrocausal resolution
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) provides the physics
-- [luck-objection](/concepts/luck-objection/) addresses the most persistent philosophical challenge
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) addresses the most persistent philosophical challenge
 - [moral-responsibility](/concepts/moral-responsibility/) connects libertarian freedom to desert
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) shows consciousness generating the space of alternatives
 

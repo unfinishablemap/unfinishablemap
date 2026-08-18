@@ -64,7 +64,7 @@ The philosophical landscape divides into three families:
 
 ## Why Agent Causation
 
-Event-causal libertarianism — where mental events cause actions nondeterministically — fails to deliver genuine authorship. The causal chain still traces back to factors outside the agent's control. If a belief-desire pair nondeterministically causes action A rather than B, and nothing about the agent as such explains the difference, we face the [luck objection](/concepts/luck-objection/): the outcome is arbitrary rather than authored.
+Event-causal libertarianism — where mental events cause actions nondeterministically — fails to deliver genuine authorship. The causal chain still traces back to factors outside the agent's control. If a belief-desire pair nondeterministically causes action A rather than B, and nothing about the agent as such explains the difference, we face the [luck objection](/concepts/quantum-indeterminacy-free-will/): the outcome is arbitrary rather than authored.
 
 Agent causation addresses this directly. The agent *is* the explanation. Asking "what about the agent explains the choice?" presupposes that explanation must bottom out in prior events — precisely what agent causation denies. E.J. Lowe argues that all causation is fundamentally substance causation: events don't cause events; substances exercise causal powers that produce events. On this view, agent causation is not metaphysically exceptional but paradigmatic.
 
@@ -92,7 +92,7 @@ The Map does not commit to any single mechanism. Quantum indeterminacy, [retroca
 
 ## Key Challenges
 
-**The [luck objection](/concepts/luck-objection/)**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [the luck objection response](/topics/free-will/#the-agent-causal-response-to-luck) for the full treatment.
+**The [luck objection](/concepts/quantum-indeterminacy-free-will/)**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [the luck objection response](/topics/free-will/#the-agent-causal-response-to-luck) for the full treatment.
 
 **[Libet's timing problem](/concepts/libet-experiments/)**: Neural readiness potentials precede conscious awareness of deciding. But Schurger et al. (2012) showed the readiness potential likely reflects neural noise rather than decision preparation. And if agent causation operates atemporally — as [retrocausal](/concepts/retrocausality/) interpretations suggest — the apparent temporal ordering is part of what was selected.
 
@@ -130,7 +130,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical outcomes; response to Kim's exclusion argument
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The proposed quantum mechanism for mental causation
-- [luck-objection](/concepts/luck-objection/) — The strongest challenge to libertarian free will and the Map's response
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — The strongest challenge to libertarian free will and the Map's response
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — How selection guided by reasons escapes arbitrariness
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without deliberation

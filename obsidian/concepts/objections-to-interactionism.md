@@ -19,7 +19,7 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[pairing-problem]]"
-  - "[[luck-objection]]"
+  - "[[quantum-indeterminacy-free-will]]"
   - "[[delegatory-dualism]]"
   - "[[observational-closure]]"
   - "[[delegatory-causation]]"
@@ -162,7 +162,7 @@ The Map's primary response: at quantum indeterminacies, P is *not* sufficient fo
 
 ### Connection to the Luck Objection
 
-The exclusion argument parallels the [[luck-objection|luck objection]] to libertarian free will. The Map's response: consciousness selects among undetermined possibilities—neither redundant nor arbitrary. The quantum Zeno mechanism and delegatory preemption both model how selection operates without overdetermination or randomness.
+The exclusion argument parallels the [[quantum-indeterminacy-free-will|luck objection]] to libertarian free will. The Map's response: consciousness selects among undetermined possibilities—neither redundant nor arbitrary. The quantum Zeno mechanism and delegatory preemption both model how selection operates without overdetermination or randomness.
 
 ## What Would Challenge This View?
 

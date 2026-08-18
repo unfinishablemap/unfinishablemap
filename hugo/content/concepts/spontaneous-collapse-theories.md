@@ -192,7 +192,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
-**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness modulates collapse outcomes within Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). GRW/CSL provide the "openness" libertarianism needs; consciousness modulation provides the "control" that [agent causation](/concepts/agent-causation/) requires. See also the [luck-objection](/concepts/luck-objection/) for how this addresses the concern that quantum randomness doesn't constitute genuine freedom.
+**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness modulates collapse outcomes within Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). GRW/CSL provide the "openness" libertarianism needs; consciousness modulation provides the "control" that [agent causation](/concepts/agent-causation/) requires. See also the [luck objection](/concepts/quantum-indeterminacy-free-will/) for how this addresses the concern that quantum randomness doesn't constitute genuine freedom.
 
 ## Further Reading
 

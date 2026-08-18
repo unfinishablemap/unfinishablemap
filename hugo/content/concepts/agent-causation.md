@@ -13,7 +13,6 @@ concepts:
 - '[[structure-of-attention]]'
 - '[[implicit-memory]]'
 - '[[attention-as-interface]]'
-- '[[luck-objection]]'
 - '[[motor-selection]]'
 - '[[creative-consciousness]]'
 - '[[temporal-consciousness]]'
@@ -92,7 +91,7 @@ The standard objection to [interactionist dualism](/concepts/interactionist-dual
 
 Kim's exclusion argument depends on [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause. Substance causation shifts the dialectic to whether physical *substances* are the only substances with causal powers. The Map's quantum framework strengthens this—at quantum indeterminacies, physics specifies probabilities but not outcomes, so there is no sufficient physical cause—while [trumping-preemption](/concepts/trumping-preemption/) supplies a complementary response: even granting physical sufficiency, the agent can be the *authoritative* cause of an action a sufficient physical process also produced, with no trajectory deviation required.
 
-Challenges include the *laws problem* (Lowe: laws describe what substances tend to do), the *agent problem* (the [luck objection](/concepts/luck-objection/), addressed below), and the [pairing problem](/concepts/pairing-problem/) (consciousness is located where it causally interfaces with the brain).
+Challenges include the *laws problem* (Lowe: laws describe what substances tend to do), the *agent problem* (the [luck objection](/concepts/quantum-indeterminacy-free-will/), addressed below), and the [pairing problem](/concepts/pairing-problem/) (consciousness is located where it causally interfaces with the brain).
 
 ## Major Defenders
 
@@ -102,7 +101,7 @@ Challenges include the *laws problem* (Lowe: laws describe what substances tend 
 
 The central challenge: if indeterminism leaves outcomes undetermined, nothing about the agent explains which choice occurs. Mele's version: in two identical worlds where the agent chooses differently, what explains the difference? Nothing—it's luck.
 
-Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [full response](/concepts/luck-objection/) turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)); (3) consciousness selects based on reasons, making selection contrastively explicable; (4) if [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
+Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [full response](/concepts/quantum-indeterminacy-free-will/) turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)); (3) consciousness selects based on reasons, making selection contrastively explicable; (4) if [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
 
 The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters: agent causation is fully engaged in authentic choice and attenuated in scripted behavior—suggesting variable engagement rather than uniform operation.
 
@@ -184,9 +183,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 ## Further Reading
 
 - [consciousness-and-agency](/apex/consciousness-and-agency/), [process-and-consciousness](/apex/process-and-consciousness/) — Apex syntheses
-- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment, Kane's 2024 convergence
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment, Kane's 2024 convergence, and the luck objection in full
 - [event-causal-libertarianism](/topics/event-causal-libertarianism/) — The libertarian taxonomy locating this wing against its event-causal and non-causal rivals, with Kane's self-forming actions in full
-- [luck-objection](/concepts/luck-objection/), [agency-void](/voids/agency-void/) — The central objection and the verification-circularity limit
+- [agency-void](/voids/agency-void/) — The verification-circularity limit on first-person verification of causal efficacy
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's empirical "wild coincidences" objection to agent-causal libertarianism
 - [motor-selection](/concepts/motor-selection/), [attention-as-interface](/concepts/attention-as-interface/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Empirical and phenomenological grounding
 - [skill-delegation](/concepts/skill-delegation/), [trumping-preemption](/concepts/trumping-preemption/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/), [causal-interface](/voids/causal-interface/) — Metaphysics of the interface

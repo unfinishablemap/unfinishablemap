@@ -29,7 +29,7 @@ topics:
 
 ## Verdict
 
-**PASS with one citation-metadata defect found and fixed.** The taxonomy is faithful, the lead and Relation-to-Site-Perspective calibration holds, the article complements (does not duplicate) [agent-causation](/concepts/agent-causation/) and [luck-objection](/concepts/luck-objection/), and all four reciprocal inbound links resolve. One dropped-co-author defect in the SEP reference was corrected — matching the citation-defect pattern the earlier wave cross-reviews caught (Vihvelin "et al."→single; Aldershot→Farnham).
+**PASS with one citation-metadata defect found and fixed.** The taxonomy is faithful, the lead and Relation-to-Site-Perspective calibration holds, the article complements (does not duplicate) [agent-causation](/concepts/agent-causation/) and [luck-objection](/concepts/quantum-indeterminacy-free-will/), and all four reciprocal inbound links resolve. One dropped-co-author defect in the SEP reference was corrected — matching the citation-defect pattern the earlier wave cross-reviews caught (Vihvelin "et al."→single; Aldershot→Farnham).
 
 ## Pessimistic Analysis Summary
 
@@ -65,7 +65,7 @@ The lead frames the taxonomy as carrying "no commitment to dualism," the Map as 
 
 ### Strengths Preserved
 
-- **Distinctive contribution is clean**: the article contributes the three-way TAXONOMY plus the event-causal WING in full (Kane SFAs, plural voluntary control, torn decisions; Ekstrom coherentism; Balaguer minimalism), and explicitly defers the metaphysics of agent causation to [agent-causation](/concepts/agent-causation/) ("does not re-derive that content here") and the Map's consciousness-selection reply to [luck-objection](/concepts/luck-objection/) ("developed in full at... and is not repeated here"). Complement, not duplicate — FOCUS 2 confirmed.
+- **Distinctive contribution is clean**: the article contributes the three-way TAXONOMY plus the event-causal WING in full (Kane SFAs, plural voluntary control, torn decisions; Ekstrom coherentism; Balaguer minimalism), and explicitly defers the metaphysics of agent causation to [agent-causation](/concepts/agent-causation/) ("does not re-derive that content here") and the Map's consciousness-selection reply to [luck-objection](/concepts/quantum-indeterminacy-free-will/) ("developed in full at... and is not repeated here"). Complement, not duplicate — FOCUS 2 confirmed.
 - The luck/disappearing-agent pivot correctly bears hardest on the event-causal wing and the article explains *why* (the reductive commitment admits no cause beyond the events).
 - The Map is located as broadly agent-causal/interface with event-causal as the luck-succumbing rival within libertarianism — accurate self-location.
 - The intelligibility-objection symmetry ("each wing buys an answer to one objection at the cost of exposure to another") is a genuinely useful framing that earns the taxonomy its keep.
@@ -76,7 +76,7 @@ The lead frames the taxonomy as carrying "no commitment to dualism," the Map as 
 
 ### Cross-links
 
-- Four reciprocal inbound links verified live and accurate: [free-will](/topics/free-will/) (L210), [agent-causation](/concepts/agent-causation/) (L185), [luck-objection](/concepts/luck-objection/) (L158), [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) (L95). All read accurately — FOCUS 5 confirmed.
+- Four reciprocal inbound links verified live and accurate: [free-will](/topics/free-will/) (L210), [agent-causation](/concepts/agent-causation/) (L185), [luck-objection](/concepts/quantum-indeterminacy-free-will/) (L158), [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) (L95). All read accurately — FOCUS 5 confirmed.
 
 ## Remaining Items
 

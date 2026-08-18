@@ -66,7 +66,7 @@ All six attributions verified:
 ### Cross-links Added (Orphan Integration)
 
 **Inbound links added (from other articles to concept-of-free-will):**
-- [luck-objection](/concepts/luck-objection/) — contextual inline link + related_articles
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — contextual inline link + related_articles
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — contextual inline link + related_articles
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — related_articles
 - [moral-responsibility](/concepts/moral-responsibility/) — related_articles

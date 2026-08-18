@@ -94,7 +94,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 
 The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology.
 
-The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
+The [luck objection](/concepts/quantum-indeterminacy-free-will/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
 
 ## Nuclear Spin Quantum Computing (Fisher)
 
@@ -227,7 +227,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 - [panpsychism](/concepts/panpsychism/) — An anti-physicalist rival with a different prebiotic answer
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Multiple observers
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
-- [luck-objection](/concepts/luck-objection/) — Why quantum selection isn't mere randomness
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why quantum selection isn't mere randomness
 - [amplification-void](/voids/amplification-void/) — Why quantum-to-neural amplification chains are untraceable
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness is illusion
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure on the consciousness-physics interface

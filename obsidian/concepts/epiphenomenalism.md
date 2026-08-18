@@ -174,7 +174,7 @@ The [[bidirectional-interaction|Bidirectional Interaction]] tenet asserts that i
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a mechanism: consciousness acts at points of quantum indeterminacy, where physics leaves outcomes undetermined. This respects a *qualified* causal closure—physics is complete for determined events—while making room for mental causation at undetermined points.
 
-The Map's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive. Agent causation treats the conscious agent as an irreducible source of causation: when I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states. The [[luck-objection|luck objection]] shows why this matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
+The Map's [[agent-causation]] framework strengthens this response. Epiphenomenalism treats consciousness as passive. Agent causation treats the conscious agent as an irreducible source of causation: when I deliberate and choose, it is *I*—the conscious agent—who causes the outcome, not merely antecedent brain states. The [[quantum-indeterminacy-free-will|luck objection]] shows why this matters: without genuine agent causation, indeterministic choices would be arbitrary; with it, they are authored.
 
 ## Responses to Epiphenomenalism
 

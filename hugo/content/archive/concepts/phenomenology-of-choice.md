@@ -166,7 +166,7 @@ If phenomenology is illusory, what is the *seeming* of effort? The seeming must 
 
 Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. The dualist will press that quasi-phenomenal properties face the same regress; Frankish contests the premise—a representational system need not instantiate what it represents—so the regress marks the disagreement rather than settling it, and neither side closes the case against the other inside the rival's framework. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
 
-The [luck objection](/concepts/luck-objection/) compounds this: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like achievement while lucky outcomes don't?
+The [luck objection](/concepts/quantum-indeterminacy-free-will/) compounds this: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like achievement while lucky outcomes don't?
 
 ### Why Phenomenology Tracks Reality
 

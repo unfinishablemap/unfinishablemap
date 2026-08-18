@@ -110,7 +110,7 @@ A related concern: what would *falsify* substance causation? If it offers no pre
 
 ### The Agent Problem
 
-If agents cause actions by exercising powers, what about the agent explains *which* action occurs? This is the [luck objection](/concepts/luck-objection/) applied to substance causation. In two identical worlds where the agent chooses differently, what explains the difference? The agent, say substance causalists—but critics find this unsatisfying.
+If agents cause actions by exercising powers, what about the agent explains *which* action occurs? This is the [luck objection](/concepts/quantum-indeterminacy-free-will/) applied to substance causation. In two identical worlds where the agent chooses differently, what explains the difference? The agent, say substance causalists—but critics find this unsatisfying.
 
 The Map's response: consciousness doesn't randomly select but genuinely *chooses* based on reasons. The selection is phenomenologically distinct (effortful rather than passive), neurally distinct (frontal theta, sustained attention), and reasons-responsive. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
 
@@ -157,7 +157,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — How higher-level substances influence lower-level processes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework substance causation supports
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
-- [luck-objection](/concepts/luck-objection/) — The main challenge to agent causation
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — The main challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [free-will](/topics/free-will/) — The broader question
 - [emergence](/concepts/emergence/) — Related concept of novel causal powers

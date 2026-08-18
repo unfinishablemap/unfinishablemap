@@ -19,7 +19,7 @@ title: Optimistic Review - 2026-07-09
 [topics/frankfurt-cases-and-the-principle-of-alternate-possibilities.md](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/),
 [topics/akrasia-and-weakness-of-will.md](/topics/akrasia-and-weakness-of-will/)
 (with [topics/free-will.md](/topics/free-will/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/),
-[concepts/agent-causation.md](/concepts/agent-causation/), [concepts/luck-objection.md](/concepts/luck-objection/),
+[concepts/agent-causation.md](/concepts/agent-causation/), [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/),
 [concepts/reasons-responsiveness.md](/concepts/reasons-responsiveness/) consulted as the surrounding hub).
 
 ## Executive Summary

@@ -1,14 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T15:11:12+00:00'
+ai_modified: '2026-08-18T15:39:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 15:11:12+00:00
+lastmod: 2026-08-18 15:39:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 15:39 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: [luck-objection](/concepts/luck-objection/) (2301w), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) (2716w)
+- **Target**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — 3432w (concepts soft 2500 / hard 3500; `soft_warning`, 68w under hard)
+- **Archived**: [luck-objection](/archive/concepts/luck-objection/) → `superseded_by: /concepts/quantum-indeterminacy-free-will/`
+- **References to review**: none outstanding — all 36 live-content body wikilinks and all 17 live-content frontmatter list entries were retargeted in this run.
+
+**Why merged rather than abandoned.** These were not two articles divided by argumentative role — the usual reason this skill abandons. Roughly nine of `quantum-indeterminacy-free-will`'s sixteen sections duplicated `luck-objection`, several near-verbatim: the same van Inwagen rollback argument, the same Mele present/remote-luck distinction, the same "Lucky Indeterminism vs Selected" table, the same *Reasons-Guided Selection* paragraph, the same three-part decoherence reply, and the same branch-local/counterfactual-exclusion MWI paragraph. Each article also carried a section devoted to the other's core subject.
+
+**The duplication had already drifted, which the merge fixes.** Two copies of the same passage had diverged in strength, and the merged article keeps the weaker formulation in each direction:
+
+| Claim | `luck-objection` | `quantum-indeterminacy-free-will` | Kept |
+|---|---|---|---|
+| Does the reply defeat the objection? | "the luck objection fails" | "does not refute … from a neutral starting point"; a physicalist is "correct that the distinction presupposes a non-physical selector" | **QIFW's** (framework-relative) |
+| Quantum biology vs decoherence | "significantly weakened, though neural applications remain open" | "empirically refuted" | **luck-objection's** |
+| 2024 epothilone B study | descriptive (delays anaesthetic-induced unconsciousness) | interpretive ("consistent with Orch OR predictions") | **luck-objection's** (descriptive) |
+| Zeno mechanism vs coherence times | asserted | "though this remains speculative" | **QIFW's** (hedged) |
+
+`luck-objection`'s compatibilist-symmetry disclaimer — that surviving the luck objection does not establish libertarian agency is *required* for moral phenomena — was absent from the survivor and has been imported into *Does Selection Really Escape Luck?*. The survivor gains three calibration guards it did not have.
+
+**Which survives, and a correction to the brief.** The task brief argued for `quantum-indeterminacy-free-will` partly on inbound links (67 vs 57). That argument does not survive measurement: 39 and 28 of those are `reviews/` artefacts. Content-only inbound (excluding `reviews/` and `workflow/`) is **24 vs 25** — effectively tied. The decision rests instead on containment and calibration. The merged whole contains causal closure and Kim's exclusion argument, Kochen-Specker contextuality, Stapp's Zeno mechanism, Libet/Schurger/Sjöberg, and Cramer's transactional interpretation; none of that sits under a title "The Luck Objection to Libertarian Free Will" without the title asserting a narrower subject than the body (navigation-surfaces-carry-unreviewed-claims). The reverse containment is natural, and is how the survivor's lede already framed itself.
+
+**Findability under the term of art.** `/concepts/luck-objection/` now 301-redirects to the successor via the generated `_redirects` rule (verified at line 54); the archived body lives at `/archive/concepts/luck-objection/` under `noindex` with an archive notice linking to the successor. `build_content_index()` maps the archived slug to `superseded_by`, so every remaining `[[luck-objection]]` wikilink in `reviews/` and `workflow/` resolves to the live successor rather than breaking. No `aliases:` entry was added: an alias of `/concepts/luck-objection/` on the survivor would collide with the archived page's own URL.
+
+**Retarget accounting** (live content only; `reviews/` and `workflow/` deliberately untouched as historical record, and their links resolve through the redirect):
+
+| Frontmatter list | src before | dst before | replaced | deduped | dst after | balanced |
+|---|---|---|---|---|---|---|
+| `concepts:` | 16 | 17 | 8 | 8 | 25 | yes |
+| `related_articles:` | 1 | 1 | 1 | 0 | 2 | yes |
+| `topics:` | 0 | 0 | 0 | 0 | 0 | yes |
+
+Every source entry is accounted for as either a replacement or a deliberate same-list dedupe — no list lost an entry silently, which was the failure mode of the 2026-07-28 coalesce. Body prose: 36 occurrences retargeted (19 aliased, 1 path-qualified, 11 bullet-leading, 5 bare inline), 0 residual. The retarget created 5 duplicate *Further Reading* bullets, all found and merged into single entries with combined descriptions.
+
+- **Stale Hugo duplicate**: found and removed. `hugo/content/concepts/luck-objection.md` survived the sync as a pre-archival copy that would have served the superseded article at the live URL (coalesce-stale-hugo-duplicate-urls, and the reason outer-reviewers-critique-archived-articles-at-live-urls).
+- **Citations**: Kane 2024 *The Complex Tapestry of Free Will* verified at Crossref (OUP, `10.1093/oso/9780197751404.001.0001`); Mele "Soft Libertarianism and Quantum Randomizers" verified at *The Journal of Value Inquiry* 58, 651-658 (`10.1007/s10790-022-09917-2`) — both DOIs added. The attribution of the phrase "libertarian dilemma" to van Inwagen was reframed rather than deleted: the dilemma is stated without claiming he coined the term, and both van Inwagen entries (1983 *Essay*, 2000 "Free Will Remains a Mystery" — the rollback argument's actual source) are retained. Dangling reference entries for works no longer named inline (O'Connor 1995, Stapp 2004) were dropped, and O'Connor restored to the agent-causal sentence so his remaining entry is live.
+- **`last_deep_review` reset to null**: the merged prose has not been reviewed as a whole, and carrying the survivor's 2026-07-25 stamp forward would have hidden that debt (coalesce-hides-review-debt-and-regresses-fixes).
+- **Section capacity**: `concepts` 319 → **318/320** (2 slots, up from 1). Measured with `tools.evolution.state.count_section_files`, the gating function.
+- **No `todo.md` writes**; no commit (left for `cycle_post`).
 
 ## 2026-08-18 15:11 UTC - refine-draft
 

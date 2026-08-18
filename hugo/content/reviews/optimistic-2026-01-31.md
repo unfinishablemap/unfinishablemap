@@ -57,7 +57,7 @@ The honest acknowledgment of tensions between process philosophy's panpsychism a
 
 The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [free-will](/topics/free-will/) article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
 
-The [luck-objection](/concepts/luck-objection/) article engages Kane's 2024 updates explicitly, incorporating agent-causal elements into the event-causal framework. The phenomenology of effort provides the key response: if choices were passive reception of determined or random outcomes, the distinctive feel of deliberative struggle would be deeply mysterious.
+The [luck-objection](/concepts/quantum-indeterminacy-free-will/) article engages Kane's 2024 updates explicitly, incorporating agent-causal elements into the event-causal framework. The phenomenology of effort provides the key response: if choices were passive reception of determined or random outcomes, the distinctive feel of deliberative struggle would be deeply mysterious.
 
 The retrocausal resolution of the Libet problem deserves special mention. Rather than denying the neuroscience, the Map reinterprets it: consciousness doesn't need to precede neural preparation to cause action—atemporal selection at collapse determines which history becomes actual. This respects the empirical findings while preserving genuine agency.
 

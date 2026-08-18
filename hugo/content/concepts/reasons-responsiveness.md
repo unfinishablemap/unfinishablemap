@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[luck-objection]]'
+- '[[quantum-indeterminacy-free-will]]'
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[counterfactual-reasoning]]'
@@ -49,7 +49,7 @@ This distinction is conceptually irreducible: we cannot describe reasoning witho
 
 ## Reasons-Responsiveness and Free Will
 
-Reasons-responsiveness is central to answering the [luck objection](/concepts/luck-objection/) against libertarian [free will](/topics/free-will/). The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
+Reasons-responsiveness is central to answering the [luck objection](/concepts/quantum-indeterminacy-free-will/) against libertarian [free will](/topics/free-will/). The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
 
 The Map's response: selection guided by reasons is not lucky, even if not determined. The [trilemma of selection](/topics/trilemma-of-selection/) establishes the logical space: determinism, randomness, or consciousness selecting for reasons—and only the third preserves authorship. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it. The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A.
 
@@ -134,7 +134,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the normative gap between causal and evidential "because" requires consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — The self-defeat argument showing physicalism cannot account for reasons-responsiveness
 - [self-stultification](/concepts/self-stultification/) — How the argument from reason renders physicalism self-undermining
-- [luck-objection](/concepts/luck-objection/) — Why reasons-guidance distinguishes selection from luck
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why reasons-guidance distinguishes selection from luck
 - [agent-causation](/concepts/agent-causation/) — How agents exercise causal power through reasons-responsive selection
 - [free-will](/topics/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of reasons-responsive deliberation

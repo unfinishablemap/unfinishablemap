@@ -34,7 +34,7 @@ Tenet-5-discounted occurrences:
 - **"consciousness is just neurons/brain activity"** — 7 files matched; all are
   anti-reductive "If consciousness is just X, then [problem]" set-ups (e.g.
   [topics/phenomenology-of-recursive-self-awareness.md](/topics/phenomenology-of-recursive-self-awareness/) line 147,
-  [concepts/luck-objection.md](/concepts/luck-objection/) line 142), several explicitly invoking
+  [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) line 142), several explicitly invoking
   Tenet 5 against the "simpler" reductive story.
 - **"consciousness is epiphenomenal"** — matches in [topics/dopamine-and-the-unified-interface.md](/topics/dopamine-and-the-unified-interface/),
   [concepts/mental-imagery.md](/concepts/mental-imagery/), [concepts/attentional-economics.md](/concepts/attentional-economics/) etc. are all

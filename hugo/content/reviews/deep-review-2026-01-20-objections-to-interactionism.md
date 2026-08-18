@@ -65,7 +65,7 @@ topics: []
 - [decoherence](/concepts/decoherence/) — major new section
 - [haecceity](/concepts/haecceity/) — strengthened existing mention
 - [pairing-problem](/concepts/pairing-problem/) — added to frontmatter and opening
-- [luck-objection](/concepts/luck-objection/) — new subsection connection
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — new subsection connection
 - [many-worlds](/concepts/many-worlds/) — added to Further Reading
 - [measurement-problem](/concepts/measurement-problem/) — cross-linked in decoherence section
 

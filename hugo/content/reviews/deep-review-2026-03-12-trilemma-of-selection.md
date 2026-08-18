@@ -53,7 +53,7 @@ All attributions verified in previous review remain accurate. No new attribution
 ### Cross-links Added (Orphan Integration)
 Added [trilemma-of-selection](/topics/trilemma-of-selection/) inbound links from 8 articles:
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — in Threshold Crossing section, where the three options are already stated
-- [luck-objection](/concepts/luck-objection/) — in Problem Stated section, expanding the determinism/indeterminism dilemma to three horns
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — in Problem Stated section, expanding the determinism/indeterminism dilemma to three horns
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — in Effort as Evidence section, connecting effort phenomenology to the trilemma's logical structure
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — in Reasons-Responsiveness and Free Will section, grounding the reasons-guidance response
 - [causal-closure](/concepts/causal-closure/) — in Causal Closure and Free Will section, showing how indeterminacy creates the trilemma's logical space

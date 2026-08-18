@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-01
-**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: [2026-04-29](/reviews/deep-review-2026-04-29-luck-objection/)
 **Scope**: Changed-since-review audit. `last_deep_review` 2026-04-29; `ai_modified` 2026-05-27 (28 days after the 04-29 review). This pass audited the post-04-29 content specifically, per the large-gap = high-value-unreviewed-change rule.
 

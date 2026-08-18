@@ -19,7 +19,7 @@ title: Optimistic Review - 2026-07-19 (Incompatibilism / Scope-Discipline Cluste
 - [concepts/source-versus-leeway-incompatibilism.md](/concepts/source-versus-leeway-incompatibilism/) (2039w; last_deep_review 2026-07-19) — the taxonomy hub
 - [concepts/frankfurt-hierarchical-mesh-theory-of-the-will.md](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/) (2341w; last_deep_review 2026-07-19) — the structural compatibilist rival
 - [topics/the-manipulation-argument-and-hard-incompatibilism.md](/topics/the-manipulation-argument-and-hard-incompatibilism/) (2515w; refined 2026-07-18) — the source-wing opponent
-- [concepts/luck-objection.md](/concepts/luck-objection/) (2271w; last_deep_review 2026-07-17) — the downstream libertarian challenge
+- [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) (2271w; last_deep_review 2026-07-17) — the downstream libertarian challenge
 
 ## Executive Summary
 

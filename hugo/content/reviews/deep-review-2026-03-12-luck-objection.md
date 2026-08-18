@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-luck-objection/)
 
 ## Pessimistic Analysis Summary

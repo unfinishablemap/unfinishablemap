@@ -53,7 +53,7 @@ topics: []
 - Expanded Further Reading with luck-objection, mysterianism, and explanatory-gap links
 
 ### Cross-links Added
-- [luck-objection](/concepts/luck-objection/) — New link in body and Further Reading
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — New link in body and Further Reading
 - [mysterianism](/concepts/mysterianism/) — New link in Further Reading
 - [explanatory-gap](/concepts/explanatory-gap/) — New link in Further Reading
 - [quantum-consciousness](/concepts/quantum-consciousness/#the-decoherence-objection) — New section anchor link

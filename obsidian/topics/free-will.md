@@ -30,7 +30,6 @@ concepts:
   - "[[counterfactual-reasoning]]"
   - "[[nihilism-and-existentialism]]"
   - "[[self-opacity|volitional opacity]]"
-  - "[[luck-objection]]"
   - "[[reasons-responsiveness]]"
   - "[[self-stultification]]"
   - "[[control-theoretic-will]]"
@@ -90,7 +89,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 ## The Agent-Causal Response to Luck
 
-The **[[luck-objection|luck objection]]** is the strongest challenge to libertarian free will: if choices aren't determined by prior causes, what explains them? The Map's response is [[agent-causation|agent-causal]]: the agent *as persisting substance* directly causes choices, ontologically prior to any events. The agent's exercise of causal power *is* the explanation—irreducible to any prior event sequence.
+The **[[quantum-indeterminacy-free-will|luck objection]]** is the strongest challenge to libertarian free will: if choices aren't determined by prior causes, what explains them? The Map's response is [[agent-causation|agent-causal]]: the agent *as persisting substance* directly causes choices, ontologically prior to any events. The agent's exercise of causal power *is* the explanation—irreducible to any prior event sequence.
 
 Three lines of evidence support genuine agent causation:
 

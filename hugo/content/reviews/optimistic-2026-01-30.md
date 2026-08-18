@@ -49,7 +49,7 @@ The treatment of creativity in [consciousness-and-creativity](/concepts/creative
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [free-will](/topics/free-will/) article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [luck-objection](/concepts/luck-objection/) must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
+The [free-will](/topics/free-will/) article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [luck-objection](/concepts/quantum-indeterminacy-free-will/) must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
 
 The engagement with Libet's experiments is exemplary. Rather than dismissing the data or capitulating to it, the Map offers a coherent interpretation: the brain prepares options, consciousness selects or vetoes. The citation of Sjöberg (2024)—showing SMA resection doesn't impair voluntary action—demonstrates engagement with cutting-edge neuroscience.
 

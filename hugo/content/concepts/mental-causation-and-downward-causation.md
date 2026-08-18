@@ -32,7 +32,7 @@ concepts:
 - '[[consciousness-bandwidth-architecture]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
-- '[[luck-objection]]'
+- '[[quantum-indeterminacy-free-will]]'
 - '[[trumping-preemption]]'
 - '[[selection-only-mind-influence]]'
 created: 2026-01-15

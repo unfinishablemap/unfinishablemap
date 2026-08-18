@@ -60,7 +60,7 @@ All bedrock disagreements stable per the 2026-05-15 carry-forward list (eliminat
 
 1. **NO-MWI checklist (Tenet 4)**: PASS. The "No Many Worlds" para (line 201) explicitly distinguishes (a) the branch-local data-restatement an MWI defender can supply from (b) the genuine indexical / counterfactual-exclusion objection — "every option the agent 'rejects' is realised in a parallel branch by a counterpart with equal claim to being the chooser, so nothing in the formalism makes the unchosen genuinely unchosen — yet authorship needs exactly that." It runs the real objection and routes the residue to the MWI-checklist's honest boundary register. No boundary-substitution; no bare Tenet-4 assertion. Deutsch-Wallace decision theorem correctly characterized as grounding policy-not-authorship.
 
-2. **Evidential-status**: PASS. Libertarian agency presented as the Map's commitment (Tenets 3+4), not as proven; quantum indeterminacy presented as making room for (not establishing) agency; the luck objection explicitly acknowledged as pressing hardest and routed to [luck-objection](/concepts/luck-objection/). "This isn't a proof. It's a coherent picture." Diagnostic test returns NO overstatement.
+2. **Evidential-status**: PASS. Libertarian agency presented as the Map's commitment (Tenets 3+4), not as proven; quantum indeterminacy presented as making room for (not establishing) agency; the luck objection explicitly acknowledged as pressing hardest and routed to [luck-objection](/concepts/quantum-indeterminacy-free-will/). "This isn't a proof. It's a coherent picture." Diagnostic test returns NO overstatement.
 
 3. **Citation web-verify**: Sjöberg (2024) verified (page-range defect fixed); Read (2008) verified real (orphan-ref fixed). No stance-reversals — no compatibilist cited as libertarian. Frankfurt/Fischer-Ravizza/Wolf correctly grouped as reasons-responsive compatibilist scaffold.
 
@@ -82,7 +82,7 @@ All catalogued strengths intact: trilemma-of-selection framing; four-component v
 
 ### Cross-links
 
-All agency-cluster cross-links verified live and reciprocating: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [luck-objection](/concepts/luck-objection/) — all resolve and link back to free-will. No new cross-links needed (article is a saturated hub).
+All agency-cluster cross-links verified live and reciprocating: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [luck-objection](/concepts/quantum-indeterminacy-free-will/) — all resolve and link back to free-will. No new cross-links needed (article is a saturated hub).
 
 ## Remaining Items
 

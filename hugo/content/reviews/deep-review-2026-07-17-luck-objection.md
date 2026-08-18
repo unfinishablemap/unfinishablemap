@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-17
-**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: [2026-06-23](/reviews/deep-review-2026-06-23-luck-objection/)
 **Scope**: Targeted verbatim-quote-fidelity + first-pass publisher-metadata audit, 9th deep-review pass. Attribution axis (van Inwagen rollback 2000, Mele present/remote luck 2006, Kane SFAs 1996, Chisholm/O'Connor agent-causalists) was fully verified by prior passes (01-21, 03-14, 04-15) and is NOT re-litigated. The two genuinely-uncovered axes checked this pass: (a) verbatim fidelity of ≤25-word quoted strings attributed to named thinkers, and (b) per-cite publisher-metadata (venue/DOI/ISBN/pages) at the publisher of record.
 

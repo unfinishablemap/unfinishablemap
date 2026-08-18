@@ -10,7 +10,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
-  - "[[luck-objection]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"
   - "[[concepts/epiphenomenalism]]"
@@ -172,7 +171,7 @@ Reliabilists respond that causal processes can track truth without non-physical 
 
 The connection to [[topics/free-will]] is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference. The Map takes a different route: the [[trilemma-of-selection|trilemma of selection]] shows that at any point of genuine indeterminacy, the outcome is either random or consciously directed—and only directed selection preserves authorship. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
 
-Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them — intentional directedness rather than random fluctuation.
+Critics raise the [[quantum-indeterminacy-free-will|luck objection]]: if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them — intentional directedness rather than random fluctuation.
 
 ## Relation to the Map's Perspective
 
@@ -206,7 +205,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 - [[observational-closure]] — Why the empirical evidence supports only observational, not universal, closure
 - [[delegatory-dualism]] — Saad's framework avoiding overdetermination through preemption
 - [[delegatory-causation]] — The mechanism by which physical states hand off causal work to experiences
-- [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
+- [[quantum-indeterminacy-free-will]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[self-reference-and-the-limits-of-physical-description]] — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom

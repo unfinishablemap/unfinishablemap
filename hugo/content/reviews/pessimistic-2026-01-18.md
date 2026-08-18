@@ -24,7 +24,7 @@ topics: []
 **Content reviewed**: Recent concept articles from sessions 159-185
 - [concepts/metacognition.md](/concepts/metacognition/)
 - [concepts/sleep-and-consciousness.md](/concepts/sleep-and-consciousness/)
-- [concepts/luck-objection.md](/concepts/luck-objection/)
+- [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/)
 - [concepts/multi-mind-collapse-problem.md](/concepts/multi-mind-collapse-problem/)
 
 ## Executive Summary
@@ -79,7 +79,7 @@ The reviewed articles are well-structured and integrate smoothly with site tenet
 - **Recommendation**: Add a section addressing this tension. Possible response: dissociation evidence shows metacognition can fail to track consciousness, not that it typically does. Trained introspection (meditation) improves reliability. The Map's claims don't depend on perfect introspective access, only on access being generally reliable for trained observers.
 
 ### Issue 2: Phenomenology-Dependent Response to Luck Objection
-- **File**: [concepts/luck-objection.md](/concepts/luck-objection/)
+- **File**: [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/)
 - **Location**: "The Phenomenology of Effort" section
 - **Problem**: The core response to the luck objection is: selection feels different from random reception; effort distinguishes genuine choice from lucky outcome. But critics like Dennett deny that phenomenology tracks causation. Zombies or zimbos would have the same phenomenology without the causal efficacy. The response assumes what's contested—that phenomenology reflects real causal processes.
 - **Severity**: Medium

@@ -20,7 +20,7 @@ concepts:
 - '[[emotion-and-dualism]]'
 - '[[temporal-consciousness]]'
 - '[[normative-void]]'
-- '[[luck-objection]]'
+- '[[quantum-indeterminacy-free-will]]'
 created: 2026-01-08
 date: &id001 2026-01-21
 description: What makes life meaningful? The Map suggests meaning is grounded in the
@@ -95,7 +95,7 @@ The [Dualism](/tenets/#dualism) tenet holds consciousness fundamental, and if fu
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world—our choices shape what happens, rather than passively observing a predetermined show (connecting to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/)). The Map's quantum framework proposes that consciousness biases quantum outcomes at moments of genuine indeterminacy without violating physical law—a contested interpretive proposal facing the open [decoherence](/concepts/decoherence/) question in warm neural tissue, a candidate mechanism rather than a fact the argument leans on.
 
-The weight-of-choice claim does not *need* the quantum apparatus: if consciousness influences the world at all, what you do has real consequences whatever the mechanism, making us constitutive participants rather than negligible spectators. This invites the [luck objection](/concepts/luck-objection/): if a choice is not fixed by prior causes, what makes it *yours* rather than mere noise? The Map's [agent-causal](/concepts/agent-causation/) reply—the persisting subject directly authors the choice rather than chance squeezing it out—answers a live problem rather than assuming it away.
+The weight-of-choice claim does not *need* the quantum apparatus: if consciousness influences the world at all, what you do has real consequences whatever the mechanism, making us constitutive participants rather than negligible spectators. This invites the [luck objection](/concepts/quantum-indeterminacy-free-will/): if a choice is not fixed by prior causes, what makes it *yours* rather than mere noise? The Map's [agent-causal](/concepts/agent-causation/) reply—the persisting subject directly authors the choice rather than chance squeezing it out—answers a live problem rather than assuming it away.
 
 A compatibilist will object that none of this indeterminist machinery is needed: a life of projects and understanding can be fully meaningful so long as choices flow from the agent's reflectively-endorsed values rather than coercion. The Map grants the point—intrinsic value grounds meaning whether or not choice is undetermined, so a compatibilist could accept most of this article. What indeterminism *adds* is a stronger sense in which a choice settles which possibility becomes actual rather than channelling a fixed one; whether that weight is necessary or merely deepens meaning is a framework-boundary disagreement carried openly, not a proof that compatibilist meaning is impossible.
 

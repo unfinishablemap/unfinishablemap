@@ -13,7 +13,7 @@ title: Optimistic Review - 2026-07-09 (Free Will / Agency Cluster)
 # Optimistic Review
 
 **Date**: 2026-07-09
-**Region reviewed**: The free-will / agency cluster (read in full: [topics/free-will.md](/topics/free-will/), [concepts/quantum-indeterminacy-free-will.md](/concepts/quantum-indeterminacy-free-will/), [concepts/agent-causation.md](/concepts/agent-causation/), [concepts/control-theoretic-will.md](/concepts/control-theoretic-will/), [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/), [concepts/compatibilist-symmetry-challenge.md](/concepts/compatibilist-symmetry-challenge/); surveyed: [concepts/luck-objection.md](/concepts/luck-objection/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/), plus the ~30-article cluster inventory).
+**Region reviewed**: The free-will / agency cluster (read in full: [topics/free-will.md](/topics/free-will/), [concepts/quantum-indeterminacy-free-will.md](/concepts/quantum-indeterminacy-free-will/), [concepts/agent-causation.md](/concepts/agent-causation/), [concepts/control-theoretic-will.md](/concepts/control-theoretic-will/), [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/), [concepts/compatibilist-symmetry-challenge.md](/concepts/compatibilist-symmetry-challenge/); surveyed: [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/), plus the ~30-article cluster inventory).
 
 **Why this region**: Distinct from this session's already-reviewed clusters (aesthetics, sub-personal-competence, indexical-identity). It is one of the Map's largest and most mature clusters, with a dense web of live articles I could read end-to-end, yet — as the gap analysis below shows — it has a striking hole exactly where a *libertarian* Map should be strongest: the canonical **incompatibilist arguments** (Consequence Argument, manipulation argument, the Basic Argument) that *support* its own position have no dedicated home. That is genuine, harvestable headroom.
 
@@ -100,7 +100,7 @@ Each opportunity below is article-title-shaped, grep-verified, and priority-rank
 ### Medium Priority
 
 #### Galen Strawson's Basic Argument (The Impossibility of Ultimate Self-Origination)
-- **Builds on**: [concepts/agent-causation.md](/concepts/agent-causation/) (sourcehood), [concepts/luck-objection.md](/concepts/luck-objection/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/).
+- **Builds on**: [concepts/agent-causation.md](/concepts/agent-causation/) (sourcehood), [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/).
 - **Would address**: Strawson's regress — to be truly responsible for an action you must be responsible for the mental state you acted from, which requires responsibility for a prior state, ad infinitum — is the deepest skeptical challenge to *ultimate* desert, which the Map explicitly claims as libertarian "residue." An article would test whether agent-causal origination genuinely escapes the regress or merely relocates it.
 - **Grep-verified absence**: `Basic Argument` → **0 hits**; `Galen Strawson` appears in 26 files but always in *other* contexts (cognitive phenomenology, the self, introspection) — never a dedicated treatment of the Basic Argument.
 - **Near-miss flag**: Disambiguate hard from **P.F. (Peter) Strawson** (reactive attitudes — separate opportunity below) and from the *present-luck* regress in `luck-objection.md`. This is the *constitutive/ultimacy* regress, not the indeterministic-luck regress.
@@ -117,7 +117,7 @@ Each opportunity below is article-title-shaped, grep-verified, and priority-rank
 - **Builds on**: [topics/moral-implications-of-genuine-agency.md](/topics/moral-implications-of-genuine-agency/), [concepts/moral-responsibility.md](/concepts/moral-responsibility/).
 - **Would address**: Nagel's four-fold moral luck (resultant, circumstantial, constitutive, causal) is a paradox *for* any control-based account of responsibility — precisely the account the Map holds. An agent-causal libertarian has an interesting position: it *sharpens* the control principle (genuine authorship) yet still faces resultant and constitutive luck. Currently only glancingly mentioned.
 - **Grep-verified absence**: `moral luck` → 6 mentions, **0 dedicated article**; `situationism` → 0.
-- **Near-miss flag**: **STRONG near-miss** — [concepts/luck-objection.md](/concepts/luck-objection/) exists and handles *present/remote luck to libertarian sourcehood*. This is the plain-name / singular-plural dedup trap. The new article must be scoped to **Nagel/Williams's control-principle paradox and the four luck-types**, explicitly distinguished in its lead from the libertarian present-luck objection. If the harvester cannot scope it cleanly, prefer *not* minting over risking a redundant twin of `luck-objection.md`.
+- **Near-miss flag**: **STRONG near-miss** — [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) exists and handles *present/remote luck to libertarian sourcehood*. This is the plain-name / singular-plural dedup trap. The new article must be scoped to **Nagel/Williams's control-principle paradox and the four luck-types**, explicitly distinguished in its lead from the libertarian present-luck objection. If the harvester cannot scope it cleanly, prefer *not* minting over risking a redundant twin of `luck-objection.md`.
 - **Estimated scope**: Medium. **Tenet alignment**: connects to the desert residue and No-Many-Worlds identity work.
 
 #### Reactive Attitudes and Responsibility Without Metaphysics (P.F. Strawson's "Freedom and Resentment")
@@ -140,7 +140,7 @@ Each opportunity below is article-title-shaped, grep-verified, and priority-rank
 | [concepts/moral-responsibility.md](/concepts/moral-responsibility/) | (future) Consequence Argument | It asserts incompatibilism ("no one could have done otherwise") without ever arguing for it — the natural inbound. |
 | [topics/free-will.md](/topics/free-will/) | (future) Frankfurt Cases / PAP | Its opening line invokes "the capacity to have done otherwise" — the exact thesis Frankfurt attacks. |
 | [concepts/control-theoretic-will.md](/concepts/control-theoretic-will/) | (future) Akrasia and the Selection Model | The gating/stabilisation vocabulary is the natural machinery for a weakness-of-will story. |
-| [concepts/luck-objection.md](/concepts/luck-objection/) | (future) Moral Luck | The two are distinct luck problems and should explicitly cross-reference to prevent reader (and harvester) conflation. |
+| [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) | (future) Moral Luck | The two are distinct luck problems and should explicitly cross-reference to prevent reader (and harvester) conflation. |
 
 ## New Concept Pages Needed
 

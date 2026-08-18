@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[positions/agency-and-will]]'
 - '[[interactionist-dualism]]'
-- '[[luck-objection]]'
+- '[[quantum-indeterminacy-free-will]]'
 title: Four-Category Ontology
 topics:
 - '[[free-will]]'
@@ -85,7 +85,7 @@ Two framework-boundary qualifications keep this honest. First, NCSD is **a conge
 
 Neither route is obviously forced. Lowe's has the advantage of touching no physics at all; its cost is that critics (Kistler, and Gibb in her refinements) press whether "causing the fact that a kind of movement occurs" is doing genuine causal work or relabeling. The Map's route makes a concrete physical claim about outcome-selection and thereby a genuine testability commitment—one it pays knowingly (see the [bias-without-deviation](/tenets/#minimal-quantum-interaction) discussion). The Map takes its branch because it wants consciousness to be a token-level *difference-maker* to the physical world, not only a determiner of facts about kinds—and because a purely structuring cause can look uncomfortably close to the epiphenomenalism the Map rejects. Staging the choice this way is the point: Lowe's fact-causation is the sharpest available foil for saying exactly *what* the Map's minimal-interaction commitment adds, and *why* it pays the empirical cost that Lowe's route avoids.
 
-A residual worry the Map inherits rather than settles: Lowe's "spontaneous" volition faces Libet-style timing objections (neural readiness potentials appearing to precede conscious will). The Map's treatment of that data lives in its [agency and will positions](/positions/agency-and-will/) and [luck objection](/concepts/luck-objection/) material; the four-category framework tells us *what a volition is metaphysically*, not whether the timing evidence undercuts its spontaneity.
+A residual worry the Map inherits rather than settles: Lowe's "spontaneous" volition faces Libet-style timing objections (neural readiness potentials appearing to precede conscious will). The Map's treatment of that data lives in its [agency and will positions](/positions/agency-and-will/) and [luck objection](/concepts/quantum-indeterminacy-free-will/) material; the four-category framework tells us *what a volition is metaphysically*, not whether the timing evidence undercuts its spontaneity.
 
 ## Further Reading
 

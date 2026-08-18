@@ -89,7 +89,7 @@ topics: []
 ### Cross-links Added
 
 - [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge
-- [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — Why indeterminism doesn't reduce selection to randomness
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems
 

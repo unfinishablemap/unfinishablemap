@@ -66,7 +66,7 @@ None. The article is well-constructed with strong arguments and clear structure.
 5. Added temporal-consciousness cross-link
 
 ### Cross-links Added
-- [luck-objection](/concepts/luck-objection/) - in illusionist challenge section
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) - in illusionist challenge section
 - [quantum-coherence-protection](/concepts/quantum-neural-mechanisms-and-coherence/) - in quantum mechanism section
 - [temporal-consciousness](/concepts/temporal-consciousness/) - in Bergson/duration section
 

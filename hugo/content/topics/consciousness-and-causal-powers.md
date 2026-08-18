@@ -155,7 +155,7 @@ Why does the nature of consciousness's causal powers matter?
 
 ### For Free Will
 
-If consciousness has no causal powers, libertarian [free-will](/topics/free-will/) is impossible. The [trilemma-of-selection](/topics/trilemma-of-selection/) makes this explicit: at any indeterminate decision point, the options are determinism, randomness, or mental causation—only genuine causal powers deliver the third. The [luck-objection](/concepts/luck-objection/) cuts against constrained and unconstrained powers alike: whatever consciousness does at the gap, what grounds the specific bias remains live. The Map's middle position anchors selections in phenomenal contents (values, desires, deliberations) rather than uncaused arbitrary choices, but whether those contents need further grounding is left open.
+If consciousness has no causal powers, libertarian [free-will](/topics/free-will/) is impossible. The [trilemma-of-selection](/topics/trilemma-of-selection/) makes this explicit: at any indeterminate decision point, the options are determinism, randomness, or mental causation—only genuine causal powers deliver the third. The [luck objection](/concepts/quantum-indeterminacy-free-will/) cuts against constrained and unconstrained powers alike: whatever consciousness does at the gap, what grounds the specific bias remains live. The Map's middle position anchors selections in phenomenal contents (values, desires, deliberations) rather than uncaused arbitrary choices, but whether those contents need further grounding is left open.
 
 ### For Ethics
 

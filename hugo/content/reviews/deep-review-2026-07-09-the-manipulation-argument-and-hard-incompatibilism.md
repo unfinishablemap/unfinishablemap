@@ -64,7 +64,7 @@ None requiring action.
 None. Verification-only pass; no content edits.
 
 ### Cross-links
-Present and correct: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-responsibility](/concepts/moral-responsibility/), [luck-objection](/concepts/luck-objection/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/), [tenets](/tenets/) (incl. minimal-quantum-interaction, bidirectional-interaction, occams-limits anchors). All seven targets resolve on disk.
+Present and correct: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-responsibility](/concepts/moral-responsibility/), [luck-objection](/concepts/quantum-indeterminacy-free-will/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/), [tenets](/tenets/) (incl. minimal-quantum-interaction, bidirectional-interaction, occams-limits anchors). All seven targets resolve on disk.
 
 ## Calibration Verdict
 
@@ -83,7 +83,7 @@ Engagement with Pereboom: **Mixed, Mode Three-dominant.** The reply marks the fr
 
 ## Scope Check
 
-PASS. Cross-references to [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/) (modal cousin — establishes incompatibilism and stops) and [luck-objection](/concepts/luck-objection/) (present-luck vehicle aimed at libertarianism) are related-not-duplicated; the article explicitly differentiates the three arguments by target (manipulation → compatibilism; consequence → incompatibilism-and-stop; luck → libertarianism). Tenet 2/3/5 routing resolves. Length 2353 words (78% of 3000 topics soft target) — safe, no condensation.
+PASS. Cross-references to [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/) (modal cousin — establishes incompatibilism and stops) and [luck-objection](/concepts/quantum-indeterminacy-free-will/) (present-luck vehicle aimed at libertarianism) are related-not-duplicated; the article explicitly differentiates the three arguments by target (manipulation → compatibilism; consequence → incompatibilism-and-stop; luck → libertarianism). Tenet 2/3/5 routing resolves. Length 2353 words (78% of 3000 topics soft target) — safe, no condensation.
 
 ## Remaining Items
 

@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-28 02:16:16+00:00
+ai_modified: 2026-08-18 15:31:12+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Quantum Indeterminacy and Free Will
+archived: true
+archived_date: 2026-08-18 15:31:12+00:00
 author: null
 concepts:
 - '[[quantum-indeterminacy-free-will]]'
@@ -31,13 +34,15 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:50:32+00:00
-lastmod: 2026-07-28 02:16:16+00:00
+lastmod: 2026-08-18 15:31:12+00:00
 modified: *id001
+original_path: /concepts/luck-objection/
 related_articles:
 - '[[tenets]]'
 - '[[reasons-responsiveness]]'
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
 - '[[volitional-control]]'
+superseded_by: /concepts/quantum-indeterminacy-free-will/
 title: The Luck Objection to Libertarian Free Will
 topics:
 - '[[free-will]]'

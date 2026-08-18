@@ -11,7 +11,6 @@ topics:
 concepts:
   - "[[agent-causation]]"
   - "[[moral-responsibility]]"
-  - "[[luck-objection]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[source-versus-leeway-incompatibilism]]"
 related_articles:
@@ -46,7 +45,7 @@ Pereboom's 2014 restatement sharpens this into a **best-explanation** argument r
 
 The manipulation argument is only the negative half against compatibilism. Pereboom's positive position, **hard incompatibilism**, is the thesis that we lack the free will required for basic-desert responsibility whether determinism is true *or* the kind of indeterminism our best physics might supply obtains. This is what separates hard incompatibilism from the [[the-consequence-argument-for-incompatibilism|Consequence Argument]]: van Inwagen's argument establishes incompatibilism and stops, leaving open that libertarianism might be true if determinism is false. Pereboom closes that door. His view is "harder" because it argues the libertarian exit is blocked too.
 
-The case against libertarianism runs on two prongs, matching the two families of libertarian theory. Against **event-causal libertarianism**—the view (developed by Robert Kane and others) that free decisions are undetermined events caused by the agent's prior reasons and desires—Pereboom deploys what has come to be called the **disappearing-agent** objection. If the agent's antecedent states leave it genuinely open which decision occurs, then those states do not *settle* the outcome; something is left to chance at the moment of decision, and nothing the agent is or does accounts for why this decision rather than that one was made. The indeterminism, on this reading, subtracts control instead of adding it. This is the same worry the [[luck-objection|luck objection]] presses through van Inwagen's "rollback" thought experiment—rewind the universe to the moment of choice and, with everything about the agent held fixed, the outcome can differ—and the two objections are close cousins, though the manipulation argument itself is aimed at compatibilism and the luck objection at libertarianism.
+The case against libertarianism runs on two prongs, matching the two families of libertarian theory. Against **event-causal libertarianism**—the view (developed by Robert Kane and others) that free decisions are undetermined events caused by the agent's prior reasons and desires—Pereboom deploys what has come to be called the **disappearing-agent** objection. If the agent's antecedent states leave it genuinely open which decision occurs, then those states do not *settle* the outcome; something is left to chance at the moment of decision, and nothing the agent is or does accounts for why this decision rather than that one was made. The indeterminism, on this reading, subtracts control instead of adding it. This is the same worry the [[quantum-indeterminacy-free-will|luck objection]] presses through van Inwagen's "rollback" thought experiment—rewind the universe to the moment of choice and, with everything about the agent held fixed, the outcome can differ—and the two objections are close cousins, though the manipulation argument itself is aimed at compatibilism and the luck objection at libertarianism.
 
 Against **agent-causal libertarianism**—the view that the agent is a substance-cause who directly originates the decision, not reducible to prior events—Pereboom concedes more. Agent causation, he grants, *could in principle* secure the enhanced control that basic desert requires; it is not incoherent, and it answers the disappearing-agent worry by supplying a genuine originator. His objection is empirical rather than conceptual. We have, he argues, no positive scientific reason to believe we are agent-causes, and reconciling agent-causal interventions with the physical regularities we actually observe would require what he calls **wild coincidences**: the agent-causal choices would have to line up with the statistical patterns physics records (for instance, that neural events conform to physical law on average) with no explanation of why free interventions should respect those aggregate regularities. Agent causation buys control at the price of a physics that looks suspiciously stage-managed.
 
@@ -76,11 +75,10 @@ Where the Map does have leverage is at the level of method, and this is a [[tene
 - [[frankfurt-cases-and-the-principle-of-alternate-possibilities]] — Whether responsibility needs alternatives at all; the source-vs-leeway pivot this article's luck objection presses on
 - [[source-versus-leeway-incompatibilism]] — Why this is a source argument, and why Pereboom holds the source premise yet denies free will
 - [[frankfurt-hierarchical-mesh-theory-of-the-will]] — The hierarchical-desire compatibilism Plum satisfies in all four cases; its ahistorical mesh is exactly what the manipulation argument exploits
-- [[luck-objection]] — The present-luck challenge to libertarianism, close kin to the disappearing-agent objection
+- [[quantum-indeterminacy-free-will]] — The present-luck challenge to libertarianism, close kin to the disappearing-agent objection, and the interface at which the Map locates agent-controlled selection
 - [[free-will]] — The Map's agent-causal libertarian position, the target hard incompatibilism threatens
 - [[agent-causation]] — Whether harnessed indeterminism can be the agent's doing rather than chance
 - [[moral-responsibility]] — What basic-desert responsibility would require and what is at stake if it is unavailable
-- [[quantum-indeterminacy-free-will]] — The interface at which the Map locates agent-controlled selection
 - [[tenets]] — The foundational commitments the objection presses against
 
 ## References

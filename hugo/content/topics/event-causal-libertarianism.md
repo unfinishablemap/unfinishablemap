@@ -6,7 +6,6 @@ ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[luck-objection]]'
 - '[[source-versus-leeway-incompatibilism]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[reasons-responsiveness]]'
@@ -77,7 +76,7 @@ The **luck objection** bears hardest on the event-causal wing, and understanding
 
 Derk Pereboom's **disappearing-agent** formulation sharpens this into a general objection to *all* event-causal libertarianism. With the causal role of the antecedent events already given and yet the outcome undetermined, *nothing settles* whether the decision occurs—so the agent does not settle it. The agent "disappears" from the moment of settling. The objection bites the event-causal picture hardest because that picture, by design, admits no cause beyond the events; when the events leave the outcome open, the theory's own reductive commitment guarantees there is nothing left to do the settling.
 
-Kane replies on two fronts. First, in a genuinely indeterminate effort of will, "exact sameness" across rollback worlds may not be well-defined, so the thought experiment can be accused of smuggling in a determinacy the model denies. Second, by plural rationality: whichever way the torn decision resolves, it issues from the agent's own effort and is rationally endorsable, so it is a willed self-formation rather than mere chance. Critics (Clarke, Mele) grant that this shows the outcome is *voluntary* either way, but press that it does not show the agent *controls which* way it goes—the "which" is still unsettled, and that residue is the luck. The Map's own reply to luck—consciousness *selecting* the outcome rather than receiving it—is developed in full at [luck-objection](/concepts/luck-objection/) and is not repeated here; what the taxonomy adds is the map of *which* libertarian species the objection targets and why.
+Kane replies on two fronts. First, in a genuinely indeterminate effort of will, "exact sameness" across rollback worlds may not be well-defined, so the thought experiment can be accused of smuggling in a determinacy the model denies. Second, by plural rationality: whichever way the torn decision resolves, it issues from the agent's own effort and is rationally endorsable, so it is a willed self-formation rather than mere chance. Critics (Clarke, Mele) grant that this shows the outcome is *voluntary* either way, but press that it does not show the agent *controls which* way it goes—the "which" is still unsettled, and that residue is the luck. The Map's own reply to luck—consciousness *selecting* the outcome rather than receiving it—is developed in full at [luck objection](/concepts/quantum-indeterminacy-free-will/) and is not repeated here; what the taxonomy adds is the map of *which* libertarian species the objection targets and why.
 
 ## The Intelligibility Objection
 
@@ -96,11 +95,10 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the wing the Map occupies: substance causation, immanent versus transeunt causation, and the interface
-- [luck-objection](/concepts/luck-objection/) — The Map's full consciousness-selection reply to the objection this article uses as its pivot
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The Map's full consciousness-selection reply to the objection this article uses as its pivot, and the interface mechanism it offers where event-causal accounts leave the outcome unsettled
 - [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/) — The cross-cutting taxonomy of what freedom *requires*, into which this one interlocks
 - [free-will](/topics/free-will/) — The Map's agent-causal libertarian position stated in full
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's route from the disappearing agent to hard incompatibilism
-- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The interface mechanism the Map offers where event-causal accounts leave the outcome unsettled
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Determinism, randomness, or mental causation: the three-horned frame behind the Map's reading of luck
 - [tenets](/tenets/) — The foundational commitments the location draws on
 

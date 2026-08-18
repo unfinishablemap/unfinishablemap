@@ -31,7 +31,7 @@ Tenet-5-discounted occurrences:
 
 - **"consciousness is just brain activity / nothing but neurons"** — matches in
   [topics/consciousness-and-memory.md](/topics/consciousness-and-memory/) (line 187), [concepts/quantum-consciousness.md](/concepts/quantum-consciousness/)
-  (line 196), [concepts/luck-objection.md](/concepts/luck-objection/) (line 142),
+  (line 196), [concepts/luck-objection.md](/concepts/quantum-indeterminacy-free-will/) (line 142),
   [topics/william-james-consciousness.md](/topics/william-james-consciousness/) (line 125) are all anti-reductive
   "If consciousness is just X, then [problem]" set-ups, several explicitly invoking
   Tenet 5 against the "simpler" reductive story ("dissolves the apparent parsimony of

@@ -84,7 +84,7 @@ topics: []
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation
-- [luck-objection](/concepts/luck-objection/) — Parallel challenge to agent causation
+- [luck-objection](/concepts/quantum-indeterminacy-free-will/) — Parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel emergence challenge
 

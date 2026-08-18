@@ -18,7 +18,7 @@ concepts:
   - "[[motor-selection]]"
   - "[[agent-causation]]"
   - "[[attention-as-interface]]"
-  - "[[luck-objection]]"
+  - "[[quantum-indeterminacy-free-will]]"
   - "[[decoherence]]"
   - "[[timing-gap-problem]]"
   - "[[illusionism]]"
@@ -100,7 +100,7 @@ Critics press further: if vetoing is itself a brain process, and that process is
 
 The Map's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the Retrocausal Resolution section), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
 
-Additionally, the [[luck-objection|luck objection]] literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
+Additionally, the [[quantum-indeterminacy-free-will|luck objection]] literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
 
 ## The Retrocausal Resolution
 
@@ -188,7 +188,7 @@ The Map's interpretation of Libet is falsifiable. Evidence against it would incl
 
 **5. SMA resection patients lack sense of agency.** Sjöberg's finding that SMA resection patients retain voluntary movement is striking. If replication showed these patients actually lack genuine sense of agency—experiencing movement as automatic rather than willed—the dissociation evidence would be undermined.
 
-**6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [[luck-objection|luck objection]]. The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
+**6. Selection indistinguishable from randomness.** If choices at quantum indeterminacies were genuinely random rather than guided by consciousness, the selection model becomes indistinguishable from the [[quantum-indeterminacy-free-will|luck objection]]. The phenomenology of effort and the reasons-responsiveness of choices provide current evidence against randomness, but these could in principle be shown to be post-hoc confabulation.
 
 The Map's position is that current evidence supports selection over randomness, that Schurger and Sjöberg have substantially weakened the standard interpretation, and that retrocausal and Zeno frameworks provide coherent mechanisms. But this is empirical territory—future findings could shift the picture.
 
@@ -199,7 +199,7 @@ The Map's position is that current evidence supports selection over randomness, 
 - [[topics/free-will]] — The broader philosophical context
 - [[motor-selection]] — Extending the selection framework from attention to motor control
 - [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and stochastic pre-state challenge
-- [[luck-objection]] — Why indeterminism doesn't reduce selection to randomness
+- [[quantum-indeterminacy-free-will]] — Why indeterminism doesn't reduce selection to randomness
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[atemporal-causation]] — Causation outside temporal sequence: why consciousness can't be "too late"
 - [[topics/time-symmetric-selection-mechanism]] — The atemporal transaction model that dissolves the Libet timing puzzle
