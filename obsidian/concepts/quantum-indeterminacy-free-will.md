@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-08-18T23:26:08+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -117,7 +117,7 @@ The [[delegatory-causation|delegation]] framework makes the causal bookkeeping p
 
 Random processes do not feel like work. Choosing does. William James documented that "sustained voluntary attention is a repetition of successive efforts." Lucky events do not feel like achievements; selections do.
 
-This phenomenological evidence is not independently decisive—physicalists argue felt effort could be constructed post hoc—but the Map treats phenomenology as evidentially relevant because dualism takes conscious experience seriously as a guide to causal structure. The felt strain is empirically anchored in the case for [[volitional-control|volitional control]], where clinical dissociations and the neural signatures of willed action show effort tracking specific causal circuitry rather than floating free of it. [[motor-selection|Motor control]] supplies a second domain with the same signatures—frontal theta oscillations, ~300ms deployment, distinct willed-versus-instructed patterns. Two independent domains exhibiting one selection architecture strengthens the case.
+This phenomenological evidence is not independently decisive—physicalists argue felt effort could be constructed post hoc—but the Map treats phenomenology as evidentially relevant because dualism takes conscious experience seriously as a guide to causal structure. The felt strain has an empirical correlate in the case for [[volitional-control|volitional control]], where clinical dissociations and the neural signatures of willed action track effort rather than floating free of it: frontal theta power and fronto-parietal coherence run *greater* in willed than in instructed attention, a relative increase rather than an all-or-nothing difference. [[motor-selection|Motor control]] shows the same signature at ~300ms deployment—one selection architecture appearing in a second setting rather than two independent confirmations. The signature marks the functional load of the willed condition without settling whether its phenomenal character does causal work.
 
 A critic may object that a [[philosophical-zombies|philosophical zombie]] would report the same felt effort with no phenomenology behind it. That objection begs the question against the framework: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]] our neural states are partly caused by consciousness, so a being with identical neural states and no consciousness is not genuinely possible. The zombie objection assumes the epiphenomenalism the Map rejects.
 
@@ -136,8 +136,6 @@ Critics press: what explains why consciousness selected A rather than B? The age
 The reply combines four elements. The agent's *reasons* supply contrastive explanation that pure chance lacks. The *phenomenology of effort* distinguishes selection from passive reception. *Agent causation* terminates the explanatory regress. And if retrocausal selection is genuine, the choice does not occur at a moment but determines which moments exist, dissolving the temporal framing the objection depends on.
 
 Two limits should be stated plainly. First, all four elements operate inside the dualist framework rather than establishing it; someone who rejects the framework is not thereby answered. Second, surviving the luck objection does not show that libertarian agency is *required* for moral phenomena. Sophisticated [[reasons-responsiveness|reasons-responsive compatibilism]] (Frankfurt, Fischer and Ravizza, Wolf) plausibly survives the objection by a different route—locating the work in the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] names this discipline at the moral-responsibility tier.
-
-The objection would succeed outright if consciousness does not in fact select quantum outcomes, if selection is not reasons-responsive, or if phenomenology is epiphenomenal and tracks no real causal engagement.
 
 ## Possible Mechanisms
 
@@ -161,7 +159,7 @@ For free will the point needs stating carefully. It is too quick to say that und
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces a regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
+[[illusionism|Illusionists]] (Frankish 2016) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces Tallis's regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
 
 The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [[agent-causation#Skill Delegation and the Interface|choking phenomenon]] supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
 
@@ -173,11 +171,11 @@ Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseco
 
 **Second**, a Zeno-like mechanism would not require sustained coherence *between* observations, only rapid repeated observation events. Short coherence times may therefore not matter, though this remains speculative.
 
-**Third**, quantum biology has found coherence effects in warm biological systems: photosynthesis exploits quantum coherence, and avian magnetoreception depends on electron spin coherence lasting microseconds. A 2024 study found that the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats. The categorical objection—that biology cannot exploit quantum mechanics at all—has been significantly weakened, though the neural applications this framework needs remain open. See [[decoherence]] for details.
+**Third**, quantum biology has found coherence effects in warm biological systems: photosynthesis exploits quantum coherence, and avian magnetoreception depends on electron spin coherence lasting microseconds. The categorical objection—that biology cannot exploit quantum mechanics at all—has been significantly weakened, though the neural applications this framework needs remain open. See [[decoherence]] for details.
 
 ## Contemplative Evidence
 
-The contrast between [[witness-consciousness|witnessing]] (effortless observation) and selecting (effortful concentration) fits the picture. If consciousness were always inert there would be no phenomenological difference between the two, yet contemplatives report a clear one.
+The contrast between [[witness-consciousness|witnessing]] (effortless observation) and selecting (effortful concentration) fits the picture, and contemplatives report it sharply. An epiphenomenalist can accommodate the same contrast as phenomenology tracking processing demand, so it corroborates the account rather than establishing it.
 
 Buddhism's *anattā* might seem to undermine agent causation, but [[buddhism-and-dualism|Buddhism does not deny that consciousness exists]]—it denies permanent ownership. Selection can occur moment to moment without an eternal selector; process [[haecceity]], being *this* selecting awareness at each moment, suffices for authorship.
 
@@ -204,7 +202,7 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is self-undermining: if consciousness caused nothing, our discussions of it would be accidentally true at best.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is essential, with the objection resting on exclusion rather than phenomenology. An Everettian can grant a branch-local history of having chosen but not the counterfactual exclusion authorship requires; that the unchosen be *globally* nonactual is a [[tenets/background-commitments|posit the Map adopts]], and the disagreement sits at the framework boundary.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is essential, since the objection rests on exclusion rather than phenomenology: branching cannot supply the global nonactuality authorship requires. The many-worlds section above gives that argument in full and marks the commitment as a [[tenets/background-commitments|posit]] rather than a conclusion.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses whether the selection framework is too complicated. Simplicity is an unreliable guide given genuine ignorance about consciousness and quantum mechanics; the phenomenology and neural signatures suggest a real phenomenon resisting deflationary treatment.
 
@@ -243,11 +241,9 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press. doi:10.1093/oso/9780197751404.001.0001
-1. Khan, S., ... Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
-1. Mele, A. (2024). "Soft Libertarianism and Quantum Randomizers." *The Journal of Value Inquiry*, 58, 651-658. doi:10.1007/s10790-022-09917-2
 1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
 1. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.

@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T23:12:49+00:00'
+ai_modified: '2026-08-18T23:26:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 23:26 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Task**: executes the P2 from [[reviews/pessimistic-2026-08-18-quantum-indeterminacy-free-will]]; items (1), (2), (4), (5), (6), (7), (8). Item (3) (`last_deep_review` restoration) was already applied in the previous cycle and was left untouched at 2026-07-25T09:33:15+00:00.
+- **Length**: 3,432 → 3,382 words (`analyze_length`, measured before and after). Net −50; headroom to the 3,500 concepts hard ceiling widened from 68 to 118 words. No section, argument or expanded treatment added.
+- **Changes**:
+  - (1) L120 — "The felt strain is empirically **anchored** in the case for volitional control … the same signatures—frontal theta oscillations, ~300ms deployment, **distinct** willed-versus-instructed patterns" → "has an empirical **correlate** … frontal theta power and fronto-parietal coherence run *greater* in willed than in instructed attention, **a relative increase rather than an all-or-nothing difference** … The signature **marks the functional load of the willed condition without settling whether its phenomenal character does causal work**." Brings the claim into line with `topics/volitional-control.md:138`, which is the Map's calibrated reading of the same Rajan et al. (2019) result. The 300ms/500ms figure was **not** reconciled — `concepts/motor-selection.md` and `topics/volitional-control.md` disagree with each other about what Rajan reports, so that is a two-system disagreement for resolution at the publisher; "~300ms" was left verbatim.
+  - (2) L120 — "Two independent domains exhibiting one selection architecture strengthens the case" → "one selection architecture appearing in a second setting rather than two independent confirmations". `concepts/motor-selection.md:157` uses the shared ~280-300ms timing as evidence that attention and motor selection are *one* mechanism ("If attention and motor selection were independent systems, this timing match would be coincidental"); the evidence cannot be both a unification argument and two independent confirmations.
+  - (4) L207 — many-worlds tenet bullet compressed to a tenet-tie plus pointer, removing the four phrases duplicated verbatim from L160. The "posit rather than conclusion" marking is retained in compressed form so the standalone-read calibration is not lost; the full treatment at L160 is untouched.
+  - (5) L180 — "If consciousness were always inert there would be no phenomenological difference between the two" deleted as an invalid inference (epiphenomenalism denies efficacy, not phenomenal variety). Replaced by an explicit concession that an epiphenomenalist can accommodate the witnessing/selecting contrast as phenomenology tracking processing demand, with the contrast retained as corroboration. Removes the tension with the article's own L120 hedge.
+  - (6) L140 — duplicate falsification sentence deleted outright; the fuller list at L186-193 covers all three disjuncts, "tracks no real causal engagement" near-verbatim.
+  - (7) L176 — epothilone B sentence deleted. Accurate in isolation but placed between a coherence topic sentence and an "objection weakened" conclusion, inviting a behavioural pharmacology result to be counted as a third coherence finding; three sibling articles carry the caveat this one lacked.
+  - (8) References — Frankish (2016) and Tallis (2024) attributed inline at L164 (the section already made both points unnamed; the Tallis regress attribution matches `concepts/illusionism.md:89` and six other loci). Mele (2024) dropped: it is a real, verified work but the body makes no corresponding point, and the only natural attachment point sits inside a fenced luck-objection section. Khan/Wiest (2024) dropped as consequentially orphaned by item (7).
+- **Not done, deliberately**: the three luck-objection sections' calibration (L93 heading "Addresses", L95, L106, L138) left verbatim — the review verified in full that they are deliberate dialectical structure with no contradiction. The only edit inside that span is item (6)'s deletion of the duplicated falsification sentence, which removes no calibration. The review's Eliminative Materialist critique (the self-undermining charge misstates the illusionist position) was not minted as a numbered issue and is out of scope for this pass.
+- **Attribution**: `ai_system` unchanged at `claude-opus-4-5-20251101+claude-opus-5` — this pass ran on claude-opus-5, which is already listed. `created: 2026-01-18` left alone (correctly inherited from the archived predecessor).
+- **Published**: yes
 
 ## 2026-08-18 23:12 UTC - pessimistic-review
 
