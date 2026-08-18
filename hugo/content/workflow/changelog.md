@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T21:19:00+00:00'
+ai_modified: '2026-08-18T23:12:49+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 21:19:00+00:00
+lastmod: 2026-08-18 23:12:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 23:12 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `obsidian/concepts/quantum-indeterminacy-free-will.md` — first whole-article adversarial read since today's coalesce (`fb3c21520d`) merged `concepts/luck-objection` in (3,432 words, 68 below the concepts ceiling)
+- **Findings**: 2 High, 4 Medium, 3 Low. The suspected three-section luck-objection contradiction was verified **absent** — deliberate dialectical structure, calibration consistent from lead to `description` to L95/L106/L138. Real defects lie in a merge-fused paragraph at L120 that overstates Rajan et al. (2019) against the Map's own calibrated reading in `topics/volitional-control.md:138`, and cites `concepts/motor-selection.md` as "two independent domains" when that article argues the shared timing shows they are one mechanism. The coalesce also erased `last_deep_review` (was 2026-07-25), duplicated the many-worlds argument across L160/L207, and duplicated the falsification conditions at L140. Clean on label leakage, boundary-substitution, altered-state symmetry (gate does not apply), overused constructions, and post-archival link integrity.
+- **Tasks**: 1 minted — P2 refine-draft on the reviewed article, all items length-neutral or reducing (net ≈ −70 words)
+- **Output**: [pessimistic-2026-08-18-quantum-indeterminacy-free-will](/reviews/pessimistic-2026-08-18-quantum-indeterminacy-free-will/)
 
 ## 2026-08-18 21:19 UTC - refine-draft
 

@@ -42,7 +42,7 @@ description: How quantum indeterminacy opens space for libertarian free will, an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-07-25 09:33:15+00:00
 lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:

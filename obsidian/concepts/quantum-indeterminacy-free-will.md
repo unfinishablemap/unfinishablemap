@@ -48,7 +48,7 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-07-25T09:33:15+00:00
 coalesced_from:
   - "/concepts/luck-objection/"
 ---
