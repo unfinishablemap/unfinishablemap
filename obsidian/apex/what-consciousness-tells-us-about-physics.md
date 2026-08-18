@@ -2,9 +2,9 @@
 title: "What Consciousness Tells Us About Physics"
 description: "If consciousness participates in quantum outcomes, quantum mechanics is structurally partial—complete about possibilities, silent about actuality. The reverse inference from mind to matter constrains what physics can be."
 created: 2026-03-14
-modified: 2026-04-28
+modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-08-17T07:40:34+00:00
+ai_modified: 2026-08-18T23:38:03+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -225,15 +225,15 @@ The two formal results added above sit lower than their mathematics might sugges
 
 This article draws together threads from across the Map into a single argumentative move—the reverse inference from consciousness to physics. It represents the Map's most ambitious claim about the relationship between the two domains.
 
-**[[tenets#^dualism|Dualism]]**: The reverse inference makes dualism load-bearing for physics, not merely for philosophy of mind. If the wavefunction is structurally partial and consciousness provides the missing actuality, dualism would not be a philosophical add-on but a claim about the architecture of reality that physics indirectly supports.
+**[[tenets#^dualism|Dualism]]**: The reverse inference makes dualism bear on physics, not merely on philosophy of mind. If the wavefunction is structurally partial and consciousness provides the missing actuality, dualism would not be a philosophical add-on but a claim about the architecture of reality that physics indirectly supports.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: the interface's empirical invisibility is derivable rather than assumed—a structural consequence of the framework, and equally the source of its most serious limitation. The tenet also turns out to be doing less work than assumed: it constrains the influence's magnitude while leaving its direction unfixed, which is the two-parameter obligation constraint 4 above records.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: the interface's empirical invisibility is derivable rather than assumed, and equally the source of its most serious limitation. The tenet also turns out to be doing less work than assumed: it constrains the influence's magnitude while leaving its direction unfixed, which is the two-parameter obligation constraint 4 above records.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable. If this picture is correct, causal closure fails precisely at measurement, because measurement is where physics meets its complement.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [[many-worlds-argument|Against Many-Worlds]] for the cumulative case.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" move is to deny that consciousness plays any role in physics. But this simplicity is purchased by leaving two problems unsolved (the measurement problem and the hard problem) that the reverse inference addresses as one. Apparent complexity in the ontology (two aspects rather than one) yields genuine simplification in the explanatory structure.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Denying consciousness any role in physics looks simpler, but purchases that simplicity by leaving the measurement problem and the hard problem unsolved where the reverse inference addresses them as one. That the two-aspect ontology buys explanatory economy is not thereby evidence it is true—the tenet binds parsimony arguments for the framework as tightly as those against it.
 
 ### Thickness commitments {#thickness}
 

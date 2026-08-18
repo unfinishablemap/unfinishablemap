@@ -5,7 +5,19 @@ ai_modified: '2026-08-18T23:26:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-18 23:26 UTC - refine-draft
+## 2026-08-18 23:38 UTC - refine-draft
+
+- **Status**: Success
+- **Files**: [[topics/eastern-philosophy-consciousness]], [[topics/consciousness-and-cognitive-distinctiveness]], [[apex/what-consciousness-tells-us-about-physics]]
+- **Task**: alignment-line inheritance (P2 from `/check-tenets` 2026-08-18) — three `Relation to Site Perspective` bullets still asserted claims their own bodies had retracted. All three loci re-verified on disk by content-grep before editing; all three matched verbatim.
+- **Changes**:
+  - `eastern-philosophy-consciousness` Dualism bullet: "The illusionist challenge gains no traction because Buddhism takes experience seriously enough to train it systematically" → the challenge *survives* the convergence. Two defects fixed, not one: the strength claim contradicted the body's "(2) faces a serious live countermodel … nothing above refutes it", and the stated *ground* was a non-sequitur — illusionism grants the systematic training and disputes only the phenomenal reading of it. New bullet names Siderits (2025) as the live countermodel, matching the body.
+  - `consciousness-and-cognitive-distinctiveness` Occam bullet: "puzzles the threshold and creativity evidence resolves" → "sharpens rather than resolves", with the accompaniment reading marked as surviving the comparative data, cross-linked to the existing `#what-the-comparative-pattern-can-and-cannot-establish` anchor its Tenet 3 sibling already uses. Matches the body's "cannot defeat the second and third readings from comparative data".
+  - `what-consciousness-tells-us-about-physics` Occam bullet: "Apparent complexity in the ontology (two aspects rather than one) yields genuine simplification in the explanatory structure" → explanatory economy is not thereby evidence of truth, since Tenet 5 binds parsimony arguments *for* the framework as tightly as those against it (per `tenets.md` "applies to parsimony arguments *for or against* the framework"). The old line claimed a parsimony advantage for the Map's own ontology without the tenet's symmetric caveat.
+  - Two length-offsetting trims in the same section of the apex file, no claims altered: a doubled gloss in the Minimal Quantum Interaction bullet ("derivable rather than assumed—a structural consequence of the framework" said the same thing twice), and "load-bearing" → "bear on" in the Dualism bullet per the CLAUDE.md overused-words guidance.
+- **Bodies untouched**: the bodies are correct and were deliberately not weakened; only the summary bullets were brought into line with them. `anchoring_audit_exempt` and its comment left intact.
+- **Length** (decomposed prose, reference apparatus excluded): eastern 3930→3942 (hard 4000, +58 headroom); cognitive-distinctiveness 3395→3427 (hard 4000, +573); apex 5101→5099 (hard 5000, still −99 over — pre-existing, see note below).
+- **Published**: yes
 
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]

@@ -2,9 +2,9 @@
 title: "Eastern Philosophy and Consciousness"
 description: "Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but at a level too coarse to select dualism over its rivals, and while challenging Western assumptions about permanent selfhood. The tension forces clarity about what dualism actually requires."
 created: 2026-01-09
-modified: 2026-02-06
+modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-08-18T12:41:42+00:00
+ai_modified: 2026-08-18T23:38:03+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high 2026-08-18: 3 of 4 strong-assertion hits are negations/disclaimers ('proves nothing', 'not a result this article establishes', 'nothing above refutes it'); article calibrates structurally via a three-state falsifier ledger
 topics:
@@ -50,7 +50,7 @@ related_articles:
   - "[[indigenous-australian-philosophy-of-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-18T21:27:53+00:00
@@ -186,7 +186,7 @@ None has been decisively established, and that is three states rather than one. 
 
 Eastern philosophy illuminates all five of the Map's [[tenets]], while raising productive challenges.
 
-**[[tenets#^dualism|Dualism]]**: All three traditions converge on consciousness as irreducible. Buddhism's rejection of permanent self refines rather than contradicts this: irreducibility at each moment doesn't require permanence. Advaita treats consciousness as fundamental and self-luminous. The illusionist challenge gains no traction because Buddhism takes experience seriously enough to train it systematically.
+**[[tenets#^dualism|Dualism]]**: All three traditions converge on consciousness as irreducible. Buddhism's rejection of permanent self refines rather than contradicts this: irreducibility at each moment doesn't require permanence. Advaita treats consciousness as fundamental and self-luminous. The illusionist challenge survives this convergence: illusionism grants the systematic training and disputes only the phenomenal reading of it, and Siderits (2025) reconstructs the tradition on physicalist premises.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Buddhist *khaṇika* momentariness reveals consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative. Dream yoga's demonstration that consciousness persists without sensory constraint supports filter theory.
 

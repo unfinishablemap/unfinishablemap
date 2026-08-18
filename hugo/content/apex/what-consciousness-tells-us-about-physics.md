@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-08-17 07:40:34+00:00
+ai_modified: 2026-08-18 23:38:03+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-08-17 00:02:12+00:00
 apex_sources:
@@ -40,7 +40,7 @@ concepts:
 - '[[agency-budget]]'
 - '[[sign-problem-for-conscious-observation]]'
 created: 2026-03-14
-date: &id001 2026-04-28
+date: &id001 2026-08-18
 description: If consciousness participates in quantum outcomes, quantum mechanics
   is structurally partial—complete about possibilities, silent about actuality. The
   reverse inference from mind to matter constrains what physics can be.
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-08-17 07:40:34+00:00
+lastmod: 2026-08-18 23:38:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -231,15 +231,15 @@ The two formal results added above sit lower than their mathematics might sugges
 
 This article draws together threads from across the Map into a single argumentative move—the reverse inference from consciousness to physics. It represents the Map's most ambitious claim about the relationship between the two domains.
 
-**[Dualism](/tenets/#dualism)**: The reverse inference makes dualism load-bearing for physics, not merely for philosophy of mind. If the wavefunction is structurally partial and consciousness provides the missing actuality, dualism would not be a philosophical add-on but a claim about the architecture of reality that physics indirectly supports.
+**[Dualism](/tenets/#dualism)**: The reverse inference makes dualism bear on physics, not merely on philosophy of mind. If the wavefunction is structurally partial and consciousness provides the missing actuality, dualism would not be a philosophical add-on but a claim about the architecture of reality that physics indirectly supports.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the interface's empirical invisibility is derivable rather than assumed—a structural consequence of the framework, and equally the source of its most serious limitation. The tenet also turns out to be doing less work than assumed: it constrains the influence's magnitude while leaving its direction unfixed, which is the two-parameter obligation constraint 4 above records.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the interface's empirical invisibility is derivable rather than assumed, and equally the source of its most serious limitation. The tenet also turns out to be doing less work than assumed: it constrains the influence's magnitude while leaving its direction unfixed, which is the two-parameter obligation constraint 4 above records.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable. If this picture is correct, causal closure fails precisely at measurement, because measurement is where physics meets its complement.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the cumulative case.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" move is to deny that consciousness plays any role in physics. But this simplicity is purchased by leaving two problems unsolved (the measurement problem and the hard problem) that the reverse inference addresses as one. Apparent complexity in the ontology (two aspects rather than one) yields genuine simplification in the explanatory structure.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Denying consciousness any role in physics looks simpler, but purchases that simplicity by leaving the measurement problem and the hard problem unsolved where the reverse inference addresses them as one. That the two-aspect ontology buys explanatory economy is not thereby evidence it is true—the tenet binds parsimony arguments for the framework as tightly as those against it.
 
 ### Thickness commitments {#thickness}
 

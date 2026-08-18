@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-08-17 12:28:11+00:00
+ai_modified: 2026-08-18 23:38:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ concepts:
 - '[[mental-imagery]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-29
-date: &id001 2026-05-11
+date: &id001 2026-08-18
 description: The ape–human cognitive gap admits three rival readings. The Map defends
   phenomenal causation, concedes the comparative data cannot decide, and proposes
   a test.
@@ -42,7 +42,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 14:59:31+00:00
-lastmod: 2026-08-17 12:28:11+00:00
+lastmod: 2026-08-18 23:38:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -191,7 +191,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Genuine creativity presupposes that some possibilities actualise while others remain merely possible. Many-worlds eliminates this distinction. The phenomenology of creative choice—the felt stakes, the relief or regret after selection—presupposes that possibilities were genuinely narrowed.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Epiphenomenalism seems simpler—consciousness does nothing, behaviour is fully physical—but this apparent simplicity creates puzzles the threshold and creativity evidence resolves. Treating the human-ape creative difference as merely quantitative mistakes a qualitative distinction.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Epiphenomenalism seems simpler—consciousness does nothing, behaviour is fully physical—but this apparent simplicity creates puzzles the threshold and creativity evidence sharpens rather than resolves: the accompaniment reading survives that evidence intact, [as audited above](#what-the-comparative-pattern-can-and-cannot-establish). What the tenet blocks is the further step of treating the leaner ontology as thereby the likelier one. Treating the human-ape creative difference as merely quantitative still mistakes a qualitative distinction.
 
 ## Further Reading
 
