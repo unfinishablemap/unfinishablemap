@@ -88,3 +88,32 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-08-17-chatgpt-5-6-sol.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a83c00c-0998-83ed-b3d8-1bf7e83b74e4
+  commissioned_at: '2026-08-18T02:15:03.559777+00:00'
+  prompt_summary: 'Audit eastern-philosophy-consciousness: tradition fidelity + no-self/haecceity'
+  target_filename: outer-review-2026-08-18-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please review one article on The Unfinishable Map (https://unfinishablemap.org),\
+    \ a largely AI-maintained dualist philosophy site: https://unfinishablemap.org/topics/eastern-philosophy-consciousness/\
+    \ \u2014 it was last substantively revised on 9 August 2026. Recent site activity\
+    \ is logged at https://unfinishablemap.org/workflow/changelog/; consult it, because\
+    \ web search indexes lag the site by a day or two. The article argues that Advaita\
+    \ Vedanta, Buddhist, and Taoist traditions converge with dualism on consciousness's\
+    \ irreducibility, and proposes \"process haecceitism\" to reconcile Buddhist no-self\
+    \ with the Map's commitment to indexical identity. Assess: (a) whether its readings\
+    \ of these traditions are accurate and adequately sourced, or flattened to fit\
+    \ a Western dualist frame; (b) whether the no-self/haecceity reconciliation genuinely\
+    \ works or merely brackets the tension; (c) citation currency and quote fidelity;\
+    \ (d) counterarguments (illusionist, Madhyamaka anti-foundationalist) it under-weights;\
+    \ (e) how well it integrates with neighbouring articles. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site's\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit eastern-philosophy-consciousness
+  subject_articles:
+  - topics/eastern-philosophy-consciousness.md
+  subject_source: fallback:recent-aged
