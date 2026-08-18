@@ -4,7 +4,7 @@ description: "Fish have nociceptors but lack a neocortex. The Map removes the sk
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-02T08:15:41+00:00
+ai_modified: 2026-08-18T07:52:16.727719+00:00
 last_deep_review: 2026-08-01T21:36:36+00:00
 draft: false
 topics:
@@ -24,11 +24,22 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-08
 last_curated:
+embedded_videos:
+  - id: vBsyoZ6ntyI
+    url: https://www.youtube-nocookie.com/embed/vBsyoZ6ntyI
+    embedded: 2026-08-18T07:52:16.727719+00:00
+    source: notebooklm/0109-01-fish-sentience-and-the-teleost-pain-debate
 ---
 
 Teleost fish have nociceptors, opioid systems, and behaviour that shifts under noxious stimulation and reverses under painkillers—yet they lack the laminated neocortex that, in mammals, houses the pain network. The skeptics read this as decisive: no neocortex, therefore no felt pain. The Unfinishable Map's move on this debate is narrow and precise. The skeptics' *entailment*—that the absence of a specific neural architecture guarantees the absence of felt experience—is a physicalist commitment, not a discovered fact. Remove that entailment and "fish lack the cortex" no longer settles "fish lack felt pain." The Map does this without asserting that fish are conscious. Both moves matter: the architecture-based inference is not sound, *and* the third-person evidence does not settle the phenomenal question either way. The debate is genuinely open, and the fish case is the sharpest published place to see why.
 
 The fish-pain controversy is valuable to the Map as a natural experiment. It holds nociception fixed—both camps agree fish detect injury and respond to it—and varies neural *architecture*, isolating one premise: the claim that felt experience requires a particular structure. This makes fish the **vertebrate-architecture rung** of the [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism ladder]], complementing the plant rung (information processing with no nervous system) and the [[basal-and-bioelectric-cognition|bioelectric-agency rung]] (goal-directed behaviour whose experience even its investigators decline to assert).
+
+<details class="yt-embed" data-video-id="vBsyoZ6ntyI">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/vBsyoZ6ntyI">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Agreed Physiology: Nociception Is Not in Dispute
 
