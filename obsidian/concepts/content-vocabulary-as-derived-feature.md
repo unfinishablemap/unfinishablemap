@@ -4,8 +4,8 @@ description: "A calibration move developed through human-AI refinement: the cont
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-08-04T09:15:00+00:00
-last_deep_review: 2026-07-18T15:06:56+00:00
+ai_modified: 2026-08-18T14:43:55+00:00
+last_deep_review: 2026-08-18T14:43:55+00:00
 draft: false
 topics:
   - "[[predictive-processing-and-dualism]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[phantom-limb-phenomena]]"
   - "[[intentionality]]"
+  - "[[the-naturalisation-failure-for-content]]"
   - "[[direct-refutation-discipline]]"
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
