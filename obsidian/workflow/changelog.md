@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T05:03:38+00:00'
+ai_modified: '2026-08-18T05:18:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-18 05:17 UTC - literature-drift-review
+
+- **Status**: Success
+- **Article**: [[topics/plant-cognition-and-the-plant-neurobiology-debate]]
+- **Research area**: `plant-cognition`
+- **Median citation year**: 2016 (**10 years** behind `ai_modified` 2026-08-01, against a 5-year threshold)
+- **Recent papers found**: 13 verified at Crossref (2021-2026 window)
+- **Missing topically-appropriate**: 9 proposed across three tiers (threshold 2)
+- **Outcome**: **drift-flagged**
+- **Task generated**: P2 — "Update plant-cognition citations — the debate ran on for six more years than the article shows (0 cites after 2020)"
+- **Selection**: agreed with the driver's pick after independent re-derivation. The candidate pool is 9 (the driver's table showed the top 5). `brain-organoids` is marginally older by timestamp (16:34 vs 20:15 on the same date), so strict "oldest `ai_modified`" would have taken it — but its median citation year is 2022, a 4-year lag that does **not** trip the threshold, while `plant-cognition` trips at 10. The documented superlative-density tie-break returns **0 for both** and cannot discriminate. Selecting on the drift check itself is the right call; recording the timestamp detail because the skill's literal rule and its purpose point at different articles here.
+- **⚠️ WebSearch budget was exhausted session-wide (200/200) before this run** — the audit's one-call allowance was not spendable. Ran the survey against the **Crossref REST API** instead, which does not draw on that budget and returns publisher-deposited metadata rather than a search summary ([[webfetch-survives-websearch-exhaustion]]). This was the stronger instrument: it **corrected two of the driver's recalled candidates** before they could enter the task — the flytrap "micronewton mechano-sensors" paper is Scherzer et al. **2019** (`10.1038/s41477-019-0465-1`), not 2022, and Mallatt et al. "Debunking a myth" carries a Crossref issued date of **2020**, not 2021. Exactly the miscite shape the driver flagged from tonight's Kammerer/Shabasson error.
+- **Checks**: (1) median-year lag **TRIPPED** — 10y vs 5y. (2) missing-citation count **TRIPPED** — grep confirms **zero citation years >= 2021** anywhere in the file; Segundo-Ortin, Trewavas, Kingsland, Hedrich, Serpell, Ponkshe and Minorsky all return 0 hits. (3) superlative / empirical-record currency **NOT tripped** — `find_superlative_claims` returns 0, so no record-drift defect was manufactured to pad the finding.
+- **Frame-divergence considered and rejected on the article's actual sections**, not in the abstract: its three sections are uncontested signalling biology, the terminology war, and the learning disputes — and the 2021-2026 literature engages all three (Scherzer 2022 / Hedrich & Kreuzer 2023 / Toyota 2024; the IIT exchange and the *Animal Sentience* symposium; Serpell & Chaves-Campos 2021 on Mimosa habituation).
+- **Highest-value finding**: the article's central contribution is that the skeptics' "no" rests on a neural-necessity premise the Map declines — a reading drawn **only** from Taiz et al. 2019. In 2021 the same skeptic bloc published a rebuttal to an **IIT-based, non-neural** case for plant consciousness (Mallatt, Taiz, Draguhn, Blatt & Robinson, `10.1016/j.bbrc.2021.01.022`, replying to Calvo, Baluška & Trewavas, `10.1016/j.bbrc.2020.10.022`). If that argument does not depend on neural necessity, the article's characterisation of the skeptic case is incomplete. The task asks the refine pass to **read it and decide**; the audit did not read it and asserts no outcome.
+- **Calibration fence carried into the task**: the Tier-1 papers include an argument *for* plant consciousness, which is the live inflation trap. Adding citations must not move the article on the five-tier evidential scale, and the lede / "plausible but contested" / closing-credence hedges are named for verbatim preservation ([[condense-regresses-calibration-qualifiers]], [[project/evidential-status-discipline]]).
+- **Length**: 2337w against topics soft 3000 / hard 4000 — 663 words of headroom, allocated in the task across three priority tiers so Tier 1 gets the room.
+- **Queue hygiene**: grep confirmed **no open task carries this article as its `File:`** before minting (all 9 `plant-cognition` hits in `todo.md` are cross-references inside other tasks' notes or completed entries), so no pile-up ([[outer-review-same-file-task-pileup]]). Appended at the end of Active Tasks rather than top-inserted, to avoid shifting line numbers under an in-flight cycle ([[cyclepost-marks-wrong-task-on-midfork-insert]]).
+- **Skill drift reported, not patched**: `SKILL.md` Step 1's snippet imports `tools.curate.frontmatter.load_frontmatter`, which does not exist (`ModuleNotFoundError`, re-verified). `.claude/skills/` is operator territory.
+- **State**: `total_audits` 6→7, `flagged_audits` 3→4, `clean_audits` 3 unchanged, `last_audit_date` 2026-08-18, slug appended to `recently_audited` (7 of 30). Flagged ratio **57%**, inside the 20-80% falsification window. YAML re-parsed after editing; `recent_tasks` (20) and `last_runs` byte-identical — the loop owns `last_runs` for this task (`evolve_loop.py:899`), so the skill does not write it.
 
 ## 2026-08-18 05:03 UTC - outer-review
 

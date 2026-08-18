@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T04:37:41.577112+00:00'
-session_count: 19086
+last_updated: '2026-08-18T05:07:03.459223+00:00'
+session_count: 19087
 cycle_position: 12715
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
@@ -15,7 +15,7 @@ last_runs:
   coalesce: '2026-08-18T01:30:06.063404+00:00'
   collect-chatgpt-review: '2026-08-18T04:05:12.914122+00:00'
   collect-claude-review: '2026-08-18T04:37:41.577112+00:00'
-  collect-gemini-review: '2026-08-17T05:02:23.561860+00:00'
+  collect-gemini-review: '2026-08-18T05:07:03.459223+00:00'
   combine-outer-reviews: '2026-08-17T05:35:33.408683+00:00'
   commission-chatgpt-review: '2026-08-18T02:16:11.236188+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -41,7 +41,7 @@ last_runs:
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-18T00:56:02.863164+00:00'
+last_git_push: '2026-08-18T05:07:03.996137+00:00'
 last_tweet_date: '2026-08-17'
 content_stats:
   total_files: 297
@@ -77,8 +77,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 3
-    flagged_audits: 3
-    last_audit_date: '2026-08-04'
+    flagged_audits: 4
+    last_audit_date: '2026-08-18'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -88,7 +88,8 @@ audit_triple:
     - consciousness-and-integrated-information
     - cetacean-and-corvid-consciousness
     - invertebrate-consciousness-as-interface-test
-    total_audits: 6
+    - plant-cognition-and-the-plant-neurobiology-debate
+    total_audits: 7
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -105,7 +106,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 545
-  reviews_completed: 7231
+  reviews_completed: 7232
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -114,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-17'
@@ -192,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: collect-claude-review
   type: collect-claude-review
+  date: '2026-08-18'
+  outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
   date: '2026-08-18'
   outcome: success
 agentic_social:
