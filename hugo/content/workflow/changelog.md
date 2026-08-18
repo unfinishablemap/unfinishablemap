@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-17T20:01:08+00:00'
+ai_modified: '2026-08-18T04:00:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 00:00:00+00:00
+lastmod: 2026-08-18 04:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 04:00 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-08-18-chatgpt-5-6-pro](/reviews/outer-review-2026-08-18-chatgpt-5-6-pro/)
+- **Subject**: `topics/eastern-philosophy-consciousness` (subject_type `recent`, source `fallback:recent-aged`) — the same subject the pending Claude leg will review, so `/combine-outer-reviews` should see real convergence.
+- **Collection**: extracted via `js-dom` walk, then downloaded page-side as a Blob and hash-verified rather than retyped — SHA-256 `b04bd97c777b5cf8863cd6505a20daa74e7c7f834b08060ffcbb32aee163fcf0`, 32,956 bytes, matching the on-disk file exactly (outer-review-extract-via-blob-download-not-retyping).
+- **Claims verified**: 13 — 9 Map-side quoted spans grepped against raw Obsidian source, 2 external citations resolved at a primary index, and the resolution of all 9 named slugs.
+  - **Quote fidelity: 8 of 9 verbatim, 0 fabricated.** The ninth ("property dualism within Buddhist flux") is a one-word elision of `:80`'s "property dualism *operating* within Buddhist flux" — a near-miss, not a fabrication. This leg is clean on the axis where Gemini and Claude legs have historically failed.
+  - **No archived-text confusion.** All nine articles the review names resolve to live files, so none of its criticism attacks superseded text served at a preserved URL — the failure mode that accounted for two of four "contradictions" in a 08-17 leg.
+  - **Siderits 2025 confirmed real** via OpenAlex (`10.1093/9780197799697.001.0001`, book, 2025) and the OUP page title (*Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*). The article's bibliography carries only Siderits 2007, so the omission charge stands.
+  - **The cessation reading confirmed decisively at primary source.** Europe PMC returns the preprint as "Endogenous suspension and reset of consciousness…" (Yang WF, Kadambi A, Abellaneda-Perez K, Mackin G, Beslic I, Potash R, Sparby T, Sacchet MD): consciousness is "volitionally suspended", `N=3`, and "consciousness can cease without global suppression". The article at `:118` infers the opposite from the same study.
+- **Disputed / mistargeted**: 3 of the review's 12 article improvements name the wrong file — the *saṅkhāra* correction (real defect, but it lives at `eastern-philosophy-consciousness:158`, not `concepts/process-philosophy`, which contains none of the terms), the identical-particles deletion (`eastern-philosophy-consciousness:142`, not `concepts/haecceity`, whose electron passage argues something else), and the Demirel reframing (`topics/lucid-dreaming-and-dualist-rendering` does not cite Demirel at all, and `dream-consciousness`'s framing is already narrow). Retargeted in the generated tasks rather than declined.
+- **Declined**: the Horn-Two attack on primitive thisness as an ungrounded further fact. [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) P-I1 already concedes exactly this — closed individualism is "tenet-driven rather than empirically compelled", evidence graded D, the ground of subject boundaries routed to the individuation void. Third instance of a reviewer attacking a mechanism the positions register explicitly declines; the register should be consulted before this class of finding is minted.
+- **High-value findings**: 6.
+- **Tasks generated**: 7 (P1: 2, P2: 5). Queue moved from P0:0 P1:0 P2:5 to P0:0 P1:2 P2:10.
+  - P1 — process haecceitism is headed "The Resolution" at `:140` and grounded in causal history at `:144`, while `vertiginous-question:67` says causal history answers a *different* question and `tenets:121` calls the disagreement bedrock. A verified three-file contradiction; carries the direct-refutation remit.
+  - P1 — the cessation inference reversal (also uncited: the preprint appears nowhere in the reference list), plus the Fox et al. correction that reached the citation sentence at `:132` but not the inference that immediately follows it.
+  - P2 ×5 — tradition-flattening and school differentiation; Siderits 2025 plus falsifier-list recalibration; citation auditability (Tallis 2011/2024 mismatch, "various translations", Śaṅkara locators, *saṅkhāra*); proposition-level desync against `concepts/buddhism-and-dualism`'s 08-17 revision; and a writing-style methodology task.
+- **Not minted, deliberately**: the review's methodology recommendations 3, 5 and 8 (four-axis citation ledger, mandatory empirical-calibration block, auto-reopening synthesis articles when a dependency changes) are pipeline/schema changes and operator calls; recorded in the task notes rather than queued. No expand-topic chains — the review requests no new articles, which is as well with `topics/` and `concepts/` each one slot from cap.
+- **Published**: yes
 
 ## 2026-08-18 03:39 UTC - refine-draft
 
