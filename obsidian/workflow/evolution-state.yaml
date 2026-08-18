@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-18T17:38:28.475212+00:00'
-session_count: 19137
-cycle_position: 12742
+last_updated: '2026-08-18T18:04:12.590516+00:00'
+session_count: 19138
+cycle_position: 12743
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
-  agentic-social: '2026-08-18T17:12:12.899752+00:00'
+  agentic-social: '2026-08-18T18:09:04.734678+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-18T08:21:47.243277+00:00'
   check-model-fallback: '2026-08-18T14:22:50.205843+00:00'
@@ -33,7 +29,7 @@ last_runs:
   optimistic-review: '2026-08-18T13:35:50.334718+00:00'
   pessimistic-review: '2026-08-18T11:35:45.550268+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-18T17:38:28.475212+00:00'
+  refine-draft: '2026-08-18T18:04:12.590516+00:00'
   replenish-queue: '2026-08-18T02:45:57.932231+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-18'
@@ -187,6 +179,10 @@ recent_tasks:
   type: agentic-social
   date: '2026-08-18'
   outcome: failed
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-18'
+  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-18'
@@ -628,6 +624,13 @@ agentic_social:
     - free-will
     - interactionist-dualism
     - mental-causation-and-downward-causation
+  - url: https://unfinishablemap.org/topics/dualist-perception/
+    date: '2026-08-18T18:09:04.734636+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-as-perceptual-architect
+    - attention-and-the-consciousness-interface
+    - predictive-processing-and-dualism
 queue_status:
   last_replenishment: '2026-08-18T02:43:04+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-materialism-argument-description-asserts-the-inference-its-body-disowns-and-P-D2-forbids
