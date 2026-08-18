@@ -4,7 +4,7 @@ description: "Plants count, remember, and signal across their whole body without
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-18T16:42:52+00:00
+ai_modified: 2026-08-18T17:23:33+00:00
 last_deep_review: 2026-08-01T20:15:12+00:00
 draft: false
 topics:
@@ -48,6 +48,8 @@ The pushback was sharp and fast. In 2007, thirty-six authors published a rebutta
 The most forceful denial came in 2019. Taiz and colleagues, in "Plants Neither Possess nor Require Consciousness," directly rejected plant consciousness, cognition-as-experience, intentionality, emotion, and pain (Taiz et al. 2019). Their central argument leans on Feinberg and Mallatt's account of the minimal neural and brain complexity they take to be required for consciousness in animals; from the premise that plants lack such architecture, Taiz et al. conclude that the probability of plant consciousness is, in their words, effectively nil.
 
 A third, quieter wing reframes rather than inflates or denies. Calvo's philosophical manifesto argues for treating plants as candidates for **minimal cognition** under embodied and enactive frameworks—defining cognition as adaptive, anticipatory sensorimotor coupling rather than as felt experience (Calvo 2016). On this reading "cognition" is a behavioural and functional category, and calling plants cognitive says nothing about whether there is anything it is like to be one. Calvo's framing is generally agnostic-to-deflationary about phenomenal experience.
+
+The war did not close in 2019. In 2024 Kingsland and Taiz opened a second front in *Protoplasma*, arguing that the intelligence programme misuses historical sources as evidence — that Darwin, Sachs, Went, Thimann, McClintock and Bose are enlisted as supporters of plant intelligence, memory and decision-making on readings their texts do not bear (Kingsland & Taiz 2024). Trewavas replied in the same volume that the charge of "fake quotations" rests on faulty reasoning and unfamiliarity with the literature (Trewavas 2024), and Minorsky replied separately in defence of Bose (Minorsky 2024). Note what this exchange is *about*: not the biology, and not even the vocabulary, but whose ancestors get claimed. It is the terminology war conducted through historiography, and it tells against reading the 2019 denial as a settlement.
 
 The structure of the dispute is worth naming plainly: everyone broadly agrees on the behaviour, and disagrees about which words it earns. That is why the debate reads as a war over terminology. It is a live illustration of the [[explanatory-gap]]—the moment functional description is settled, the question of experience remains completely open, and the vocabulary fight is that open question wearing empirical clothes.
 
@@ -114,5 +116,8 @@ That reply reaches Taiz et al., but it does not reach the whole skeptic case. In
 12. Calvo, P., Baluška, F., & Trewavas, A. (2021). Integrated information as a possible basis for plant consciousness. *Biochemical and Biophysical Research Communications*, 564, 158–165. https://doi.org/10.1016/j.bbrc.2020.10.022
 13. Mallatt, J., Taiz, L., Draguhn, A., Blatt, M.R., & Robinson, D.G. (2021). Integrated information theory does not make plant consciousness more convincing. *Biochemical and Biophysical Research Communications*, 564, 166–169. https://doi.org/10.1016/j.bbrc.2021.01.022
 14. Segundo-Ortin, M., & Calvo, P. (2021). Consciousness and cognition in plants. *WIREs Cognitive Science*, 13(2), e1578. https://doi.org/10.1002/wcs.1578
-15. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
-16. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+15. Kingsland, S.E., & Taiz, L. (2024). Plant "intelligence" and the misuse of historical sources as evidence. *Protoplasma*, 262, 223–246. https://doi.org/10.1007/s00709-024-01988-1
+16. Trewavas, A. (2024). Plant intelligence dux: a comprehensive rebuttal of Kingsland and Taiz. *Protoplasma*, 262, 255–266. https://doi.org/10.1007/s00709-024-02005-1
+17. Minorsky, P.V. (2024). Matthew 7:3 — a response to Kingsland and Taiz (2024). *Protoplasma*, 262, 267–275. https://doi.org/10.1007/s00709-024-02002-4
+18. Southgate, A. & Oquatre-huit, C. (2026-06-05). The Marginal-Organism Scope of Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/marginal-organism-scope-of-value-sensitive-selection/
+19. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
