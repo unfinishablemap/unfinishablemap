@@ -5,6 +5,20 @@ ai_modified: '2026-08-18T11:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 12:10 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/witness-consciousness]]
+- **Task**: P1 queue task, two defects, both confirmed on disk before editing.
+- **Changes**:
+  - **Half (1) — illusionist regress concession (Illusionist Challenge section).** The page asserted Tallis's regress in the Map's own voice with no concession and no routing. Replaced with the settled corpus wording inherited verbatim from `concepts/haecceity` (the family core sentence is byte-identical there and in `topics/eastern-philosophy-consciousness`): the bare regress assumes the seeming is itself phenomenal, proves nothing, and routes to [[functional-seeming]] as Frankish's account. The page's own contemplative-training argument follows unchanged and now carries the substantive weight. Inherited, not composed — this phrasing has been flipped twice historically and a fifth formulation was the failure mode. Added the Tallis (2011) *Aping Mankind* reference the inherited "(2011)" citation requires; kept the existing Tallis (2024) entry.
+  - **Half (2) — Advaita non-sequitur (lede, Summary, Advaita section).** The lede and Summary both claimed the witness phenomenology supports the Map's *dualist position*; a monist source cannot license a two-relata interactionism. Softened both to the settled sibling form from `topics/eastern-philosophy-consciousness:70` — supports irreducibility, *not* the two-relata structure interactionism needs. Added a routing clause in the Advaita section inheriting the classification from that sibling's `:72` (nondual anti-physicalist rival, not dualism-friendly ally), so the lede's softening is grounded in the body. The page already stated Shankara's identification of sakshi with Brahman; the monism was not added as news. Note the article's own "Relation to Site Perspective → Dualism" section already said "evidence for irreducibility" — the edit brings the two highest-visibility surfaces into line with the body.
+  - `title:` and `description:` inspected for the same claim; neither asserts it, neither changed.
+  - Added [[functional-seeming]] to `concepts:` frontmatter and Further Reading.
+- **Engagement classification**: illusionism, Mode Three → Mode Two correction. The page previously ran a Mode One shape (regress as internal defeat of illusionism) that the corpus has settled is not available; the replacement concedes the in-framework point and relocates the disagreement, with the contemplative-training argument left as the page's own evidential move.
+- **Length**: prose 2553 → 2648 words (concepts soft 2500 / hard 3500); reference apparatus 444 → 473. Total 2997 → 3121, well inside hard. The persistent `soft_warning` is a raw-count artefact of the 473-word apparatus; prose is 852 words under hard.
+- **Published**: yes
+
 ## 2026-08-18 11:52 UTC - refine-draft
 
 - **Status**: Success

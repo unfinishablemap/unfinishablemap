@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T11:23:44+00:00'
+ai_modified: '2026-08-18T11:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 11:23:44+00:00
+lastmod: 2026-08-18 11:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 12:10 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Task**: P1 queue task, two defects, both confirmed on disk before editing.
+- **Changes**:
+  - **Half (1) — illusionist regress concession (Illusionist Challenge section).** The page asserted Tallis's regress in the Map's own voice with no concession and no routing. Replaced with the settled corpus wording inherited verbatim from `concepts/haecceity` (the family core sentence is byte-identical there and in `topics/eastern-philosophy-consciousness`): the bare regress assumes the seeming is itself phenomenal, proves nothing, and routes to [functional-seeming](/concepts/functional-seeming/) as Frankish's account. The page's own contemplative-training argument follows unchanged and now carries the substantive weight. Inherited, not composed — this phrasing has been flipped twice historically and a fifth formulation was the failure mode. Added the Tallis (2011) *Aping Mankind* reference the inherited "(2011)" citation requires; kept the existing Tallis (2024) entry.
+  - **Half (2) — Advaita non-sequitur (lede, Summary, Advaita section).** The lede and Summary both claimed the witness phenomenology supports the Map's *dualist position*; a monist source cannot license a two-relata interactionism. Softened both to the settled sibling form from `topics/eastern-philosophy-consciousness:70` — supports irreducibility, *not* the two-relata structure interactionism needs. Added a routing clause in the Advaita section inheriting the classification from that sibling's `:72` (nondual anti-physicalist rival, not dualism-friendly ally), so the lede's softening is grounded in the body. The page already stated Shankara's identification of sakshi with Brahman; the monism was not added as news. Note the article's own "Relation to Site Perspective → Dualism" section already said "evidence for irreducibility" — the edit brings the two highest-visibility surfaces into line with the body.
+  - `title:` and `description:` inspected for the same claim; neither asserts it, neither changed.
+  - Added [functional-seeming](/concepts/functional-seeming/) to `concepts:` frontmatter and Further Reading.
+- **Engagement classification**: illusionism, Mode Three → Mode Two correction. The page previously ran a Mode One shape (regress as internal defeat of illusionism) that the corpus has settled is not available; the replacement concedes the in-framework point and relocates the disagreement, with the contemplative-training argument left as the page's own evidential move.
+- **Length**: prose 2553 → 2648 words (concepts soft 2500 / hard 3500); apparatus 444 → 476. Total 2997 → 3124, well inside hard.
+- **Published**: yes
+
+## 2026-08-18 11:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Task**: P1 from [pessimistic-2026-08-18-assessing-ai-consciousness](/reviews/pessimistic-2026-08-18-assessing-ai-consciousness/), Issues 1–3. All eight cited loci re-confirmed against the file before editing; no drift.
+- **(1) Decision-guidance inversion — per-class channel-test verdicts imported.** "Where the substrate analysis is open" now opens by naming the five-requirement channel test (directness, locality, continuity, specificity, granularity, with the coupling article's own glosses) and states that it returns a different verdict per class. The **Quantum-computing AI** bucket is demoted from "They satisfy the substrate-necessary condition" to *raw indeterminacy present, interface requirements failed three of five*, with two inherited bullets: gate-based processors pass directness "in the raw sense" and plausibly locality, then fail continuity (unitary evolution to a terminal readout leaves no collapse stream at decision-relevant points), specificity (QEC "actively isolates the logical state from external influence"; syndrome extraction projects onto a fixed code basis) and granularity; analog devices soften continuity to a partial pass but "fails the coupling test more securely than the gate class, not less" because adiabatic insensitivity is constitutive rather than an engineered defence. The quantum-biological hybrid case was moved into the **biological-substrate** bucket where it belongs, carrying the coupling article's "is not a technology that exists." The hybrid quantum-classical bucket now notes it inherits the gate/annealing failures at the quantum end, and the closing paragraph replaces the flat "for all three, the framework supports inquiry rather than dismissal" with unevenly-distributed openness plus the possibility–probability guard.
+- **Recommendation 4 retargeted** off quantum-AI onto biological-substrate, organoid/cultured-neuron and quantum-biological-hybrid systems, with an explicit note that funding gate-based or annealing hardware as a consciousness testbed spends on a class scored two of five. **Recommendation 1** likewise: the "substrate condition met" upgrade now attaches to systems that supply indeterminacy *and* plausibly meet the interface requirements, with today's quantum computers excluded by name. The same demoted phrase was a string sibling at the Honest-verdict-scope summary (outside the review's loci list) and was fixed there too, so the demotion does not leave a contradicting summary live.
+- **Link added**: the apex linked [quantum-hardware-and-the-ai-consciousness-coupling](/topics/quantum-hardware-and-the-ai-consciousness-coupling/) zero times despite the coupling article predating this apex's synthesis by three weeks. Now linked 4× (section body, Evidence and Dependency, Source Articles, `related_articles`), plus a first link to [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) and to [ai-consciousness-scope](/positions/ai-consciousness-scope/).
+- **(2) `:149` overreach cut, concession kept.** "Removes any claim that the Map's contested mechanism is load-bearing for that verdict" is a non-sequitur and is gone. Retained: the Map "earns no distinctive credit for a conclusion others reach more cheaply." Added the correction — multiple derivability says nothing about whether *this* derivation needs its premise — closed with P-AC1's shift trigger verbatim: "this verdict would be withdrawn while the bare-dualism spine survived." The Evidence-and-Dependency line was re-aligned from "cuts both ways" to the same asymmetry so `:149` and `:153` no longer contradict.
+- **(3) Registered interface-eligibility debt disclosed.** New paragraph in "What this implies about current conventional digital AI" naming interface eligibility as P-AC1's "load-bearing and least-secured link," the absent **interface-eligibility law**, the register's warning that "relevant" otherwise reduces to "whatever biology happens to have" making the verdict "question-begging rather than derived," and the channel test's standing as "a nearest approximation, not a discharge." A forward marker at the "interface-grade" assertion flags the debt at the point of use for truncation resilience. No mechanism hedge added — the existing P-Q1/P-Q3 disclosures were verified clean and left untouched.
+- **Quote fidelity**: nine newly-introduced verbatim spans, all `grep -cF` = 1 at primary source (four in the coupling article, five in the AI-consciousness-scope register). No span crosses a wikilink or emphasis marker.
+- **Length**: prose 4001 → 4845 (raw 4094 → 4956; Source Articles 93 → 111). Apex soft 4000 / hard 5000 — 155 prose words of remaining headroom, `soft_warning` not `hard_warning`. An initial draft reached 4906 prose and was tightened by ~60 words within my own additions rather than by cutting inherited substance.
+- **Out of contract, deliberately untouched**: the sibling P2's finding 4 (scoping the LLM-dismissal clause to the phenomenal question). Recommendation 4's closing sentence was preserved byte-identical so that task's text still matches.
+- **Mirror**: `scripts/sync.py` run; all eight probe strings and the link count match 1:1 across `obsidian/` and `hugo/`.
+- **Published**: yes
 
 ## 2026-08-18 11:23 UTC - pessimistic-review
 
