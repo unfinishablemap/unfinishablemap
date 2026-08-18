@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-04-23
 ai_modified: 2026-08-18 18:00:00+00:00
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
