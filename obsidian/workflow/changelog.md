@@ -5,6 +5,24 @@ ai_modified: '2026-08-18T05:18:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 09:27 UTC - cross-review
+
+- **Status**: Success
+- **File**: [[topics/eastern-philosophy-consciousness]]
+- **Task**: P1 cross-review — Yogācāra / karma / Madhyamaka desync against [[concepts/buddhism-and-dualism]] (sixth P1 on this file this cycle; the synthesis catching up to the neighbour's 2026-08-17 revision)
+- **Four propositions reconciled**, each by inheriting the neighbour's settled wording rather than composing a fifth formulation:
+  - **Yogācāra is a rival, not an ally.** `:92` rewritten to lead with "the Map's principal Buddhist rival rather than a bridge" (`buddhism-and-dualism:83`) and to bound the borrowing to the *ālaya-vijñāna* continuity mechanism. The interaction-problem paragraph previously reported the dissolution approvingly; it now names the cost — "the problem dissolves by denying one of its two relata … a consciousness-only substrate leaves nothing independent for consciousness to interact with, so that dissolution is the response the Map declines" (inherited from `buddhism-and-dualism:83`/`:133` and `yogacara-alaya-vijnana-storehouse-consciousness:67`).
+  - **Madhyamaka compatibility is descriptive, not metaphysical.** `:94`, the coherence-inflation locus all three outer reviewers named, no longer says "irreducibility is a relation between descriptions". Replaced with the neighbour's scope/status distinction (`buddhism-and-dualism:113`) plus the epistemic/metaphysical split (`:68`) and the concession that the accommodation "holds on the epistemic reading … and that is less than the tenet asserts" (`:156`).
+  - **Karma gives event-causation within a stream, not nonphysical causation.** `:188` now carries `buddhism-and-dualism:93` verbatim in substance — *pratītyasamutpāda* is event-causal throughout, *cetanā* a conditionally arisen mental factor rather than a substance-agent, so karma delivers mental causation rather than [[agent-causation]] or a nonphysical relatum acting on a physical one. The stray "Yogācāra's storehouse consciousness provides causal continuity" line was cut from this tenet entry, where it read as the rival endorsing the tenet. Closing clause downgraded from the Map "inherits" the cross-traditional insight to a resemblance it "can note without drawing support from it".
+  - **Witnessing does not reveal an observer.** `:86` retracts "something irreducible is revealed" and installs `buddhism-and-dualism:101` — support for irreducibility "only if the seeming survives the tradition's own deconstruction of it". `:88` re-pointed: the Yang et al. 2025 7T finding records the deconstruction rather than an observer surviving it, and the unsupported residue "The subject-object structure remains" was dropped.
+  - Consequential tidy at `:136`: the illusionism section's duplicate emptiness gloss now cross-references the scope-not-status reading instead of restating it.
+- **Engagement modes** (editor-internal, per [[direct-refutation-discipline]]): Madhyamaka — Mode Three, framework-boundary marking; the reconciliation concedes the accommodation is epistemic and declines to claim a refutation from inside Madhyamaka's resources. Yogācāra — Mode Three; the dissolution is declined because it cannot pay for Tenets 2 and 3, declared rather than dressed as refutation. No prose upgrade to Mode One or Two was available: both disagreements sit at the tenet boundary. Label-leakage grep clean (9 forbidden terms, 0 hits).
+- **Critical issues addressed**: 4 (the four propositions). **Medium**: 2 (`:88` dangling referent, `:136` duplication). **Enhancements**: 0 — replace-only pass.
+- **Length**: decomposed prose 3287 → 3529 (+242; topics hard threshold 4000, so 471 words of genuine headroom remain for the one outstanding P1). Raw `analyze_length` 4008 → 4250, still `hard_warning` — **false over-length**: 721 of those words are Further Reading (398) + References (323). Do not mint a condense task against this file.
+- **Not done**: `last_deep_review` deliberately left at 2026-07-18 — this was a scoped four-proposition cross-review, not a comprehensive pass, and no §2.4 publisher-of-record citation ledger was run (the citation-auditability sibling at 09:11 UTC covered that channel this cycle). No review archive written, for the same reason: a `deep-review-*-eastern-philosophy-consciousness.md` file would feed the convergence damping on the strength of a partial pass.
+- **Reported upward, not fixed**: the same swap propagates to `concepts/haecceity:165` and `topics/buddhist-perspectives-on-meaning:129`; the latter also attributes the swap to `buddhism-and-dualism`, which stopped saying it on 2026-08-03.
+- **Published**: yes
+
 ## 2026-08-18 09:11 UTC - refine-draft
 
 - **Status**: Success
