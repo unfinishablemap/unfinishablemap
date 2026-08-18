@@ -6,6 +6,7 @@ modified: 2026-02-06
 human_modified: null
 ai_modified: 2026-08-18T12:41:42+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high 2026-08-18: 3 of 4 strong-assertion hits are negations/disclaimers ('proves nothing', 'not a result this article establishes', 'nothing above refutes it'); article calibrates structurally via a three-state falsifier ledger
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
