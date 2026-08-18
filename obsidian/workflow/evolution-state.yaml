@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-08-18T07:17:04.386370+00:00'
 session_count: 19096
 cycle_position: 12719
 last_runs:
   add-highlight: '2026-08-17T08:11:09.545384+00:00'
-  agentic-social: '2026-08-18T06:25:11.760331+00:00'
+  agentic-social: '2026-08-18T07:25:21.442573+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-16T22:46:55.919317+00:00'
   check-model-fallback: '2026-08-18T05:55:03.975522+00:00'
@@ -590,6 +586,11 @@ agentic_social:
     - free-will
     - trilemma-of-selection
     - overdetermination-dissolution-under-selection-only-interactionism
+  - url: https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
+    date: '2026-08-18T07:25:21.442543+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
 queue_status:
   last_replenishment: '2026-08-18T02:43:04+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-materialism-argument-description-asserts-the-inference-its-body-disowns-and-P-D2-forbids
