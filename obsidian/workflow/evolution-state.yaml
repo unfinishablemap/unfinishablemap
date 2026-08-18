@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-18T12:31:22.712081+00:00'
-session_count: 19117
-cycle_position: 12729
+last_updated: '2026-08-18T12:44:21.546053+00:00'
+session_count: 19118
+cycle_position: 12730
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
-  agentic-social: '2026-08-18T11:55:53.602426+00:00'
+  agentic-social: '2026-08-18T12:54:26.986966+00:00'
   apex-evolve: '2026-08-17T00:06:08.879611+00:00'
   check-links: '2026-08-18T08:21:47.243277+00:00'
   check-model-fallback: '2026-08-18T10:07:53.162850+00:00'
@@ -33,7 +29,7 @@ last_runs:
   optimistic-review: '2026-08-17T22:35:32.992465+00:00'
   pessimistic-review: '2026-08-18T11:35:45.550268+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-18T12:13:02.369764+00:00'
+  refine-draft: '2026-08-18T12:44:21.546053+00:00'
   replenish-queue: '2026-08-18T02:45:57.932231+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
@@ -41,7 +37,7 @@ last_runs:
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-18T08:39:54.118269+00:00'
+last_git_push: '2026-08-18T12:44:22.048557+00:00'
 last_tweet_date: '2026-08-18'
 content_stats:
   total_files: 297
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-18'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-08-18'
@@ -193,6 +185,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-18'
   outcome: success
 agentic_social:
@@ -609,6 +605,13 @@ agentic_social:
     date: '2026-08-18T11:55:13.252142+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/positions/arguments-for-mental-causation/
+    date: '2026-08-18T12:54:26.986924+00:00'
+    topics:
+    - self-stultification-as-master-argument
+    - the-epiphenomenalist-threat
+    - evolutionary-case-for-mental-causation
+    - aesthetics-and-consciousness
 queue_status:
   last_replenishment: '2026-08-18T02:43:04+00:00'
   last_replenishment_mode: conservative-exact-floor-plus-one-materialism-argument-description-asserts-the-inference-its-body-disowns-and-P-D2-forbids
