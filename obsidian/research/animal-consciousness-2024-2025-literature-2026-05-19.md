@@ -143,7 +143,7 @@ The article is in *moderate drift*: cited literature's median year is approximat
   - Linguistic behaviour is a marker in humans but the LLM example shows markers can fail to extend across substrate boundaries
   - Multiple markers across multiple dimensions provide convergent (but defeasible) evidence
   - This is the operational answer to "what method does the NY Declaration's 'realistic possibility' language refer to?"
-- **Relation to site tenets**: Compatible with all five tenets. Particularly aligned with **Occam's Razor Has Limits** — refuses the simpler "marker present, therefore conscious" inference. The existing article's [[#the-standing-agnostic-challenge|Standing Agnostic Challenge]] from Gutfreund (2024) and the marker method are sister positions: both acknowledge that science can identify candidates but not constitute consciousness.
+- **Relation to site tenets**: Compatible with all five tenets. Particularly aligned with **Occam's Razor Has Limits** — refuses the simpler "marker present, therefore conscious" inference. The existing article's [[animal-consciousness#The Standing Agnostic Challenge|Standing Agnostic Challenge]] from Gutfreund (2024) and the marker method are sister positions: both acknowledge that science can identify candidates but not constitute consciousness.
 
 ### Adversarial-Collaboration Outcome (COGITATE 2025)
 - **Proponents**: Cogitate Consortium (theory-neutral, includes IIT and GNWT proponents)

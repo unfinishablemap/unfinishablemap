@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-08-18T15:31:12+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -163,7 +163,7 @@ For free will the point needs stating carefully. It is too quick to say that und
 
 [[illusionism|Illusionists]] hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces a regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
 
-The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [[agent-causation#The Choking Phenomenon as Evidence|choking phenomenon]] supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
+The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [[agent-causation#Skill Delegation and the Interface|choking phenomenon]] supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
 
 ## The Decoherence Challenge
 

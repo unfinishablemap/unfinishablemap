@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-31 09:48:59+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: 2026-05-25 11:43:34+00:00
 last_deep_review: 2026-07-11 04:03:00+00:00
-lastmod: 2026-07-31 09:48:59+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Nagel's 1974 paper established the framework: an organism is conscious "if and o
 
 ## The Void of Animal Experience
 
-Animal consciousness is a [void](/voids/)—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [Contemplative traditions](/topics/consciousness-in-simple-organisms/#contemplative-evidence) offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness. This bridge is heuristic, not evidential: [three disanalogies](/concepts/minimal-consciousness/#the-mpe-to-organism-disanalogy) block any inference from the meditator's subtractive state to the simple organism's, marking its own evidential weight as zero.
+Animal consciousness is a [void](/voids/)—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [Contemplative traditions](/topics/consciousness-in-simple-organisms/#contemplative-perspectives) offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness. This bridge is heuristic, not evidential: [three disanalogies](/concepts/minimal-consciousness/#the-mpe-to-organism-disanalogy) block any inference from the meditator's subtractive state to the simple organism's, marking its own evidential weight as zero.
 
 ## Multiple Independent Origins
 

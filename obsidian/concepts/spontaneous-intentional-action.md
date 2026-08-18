@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-07-06T11:27:12+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -89,7 +89,7 @@ The Map's [[agent-causation|agent-causal framework]] handles this naturally. Con
 
 This explains the [[phenomenology-of-agency-vs-passivity|phenomenological profile]]. Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless but is still selection. Spontaneous action represents the low-[[interface-friction|friction]] end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
 
-The [[agent-causation#luck-objection|luck objection]] to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [[reasons-responsiveness|responsiveness to reasons]] shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
+The [[agent-causation#The Luck Objection|luck objection]] to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [[reasons-responsiveness|responsiveness to reasons]] shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
 
 ## Spontaneity and Creativity
 

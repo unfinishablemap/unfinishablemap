@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-30 13:33:37+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 13:33:37+00:00
-lastmod: 2026-07-30 13:33:37+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Three features of this picture support genuine control:
 2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement with alternatives — the [empirical and phenomenological case for volitional control](/topics/volitional-control/) (clinical dissociations, the "whether"-decision circuitry, intentional binding) is the empirical ground on which agent-causal control, and so desert, stands
 3. **Two-domain evidence**: Both [attention](/concepts/attention-as-interface/) and [motor control](/concepts/motor-selection/) show parallel selection architecture, suggesting consciousness genuinely selects
 
-One proposed physical implementation is the [quantum Zeno mechanism](/concepts/quantum-indeterminacy-free-will/#the-quantum-zeno-mechanism-in-detail), where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism. The two framings are not in tension: the philosophical case establishes what control *consists in*—reasons-guided selection among genuinely open possibilities—while the tenets require only that *some* unspecified physical process leave those possibilities open. The independence is therefore from any *specific* mechanism, not from physics as such; control's nature is mechanism-neutral, while control's possibility needs only that physical causation not be closed—itself a tenet commitment rather than a particular mechanism.
+One proposed physical implementation is the [quantum Zeno mechanism](/concepts/quantum-indeterminacy-free-will/#possible-mechanisms), where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism. The two framings are not in tension: the philosophical case establishes what control *consists in*—reasons-guided selection among genuinely open possibilities—while the tenets require only that *some* unspecified physical process leave those possibilities open. The independence is therefore from any *specific* mechanism, not from physics as such; control's nature is mechanism-neutral, while control's possibility needs only that physical causation not be closed—itself a tenet commitment rather than a particular mechanism.
 
 ## How Desert Differs Under Agent Causation
 

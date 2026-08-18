@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-08 09:15:00+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:01:20+00:00
-lastmod: 2026-08-08 09:15:00+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Consider the statement "phenomenal consciousness exists." If epiphenomenalism is
 
 This makes all introspective reports systematically unreliable—not occasionally wrong, but *accidentally right at best*. Yet the epiphenomenalist presumably trusts their own introspection enough to engage in the debate. On its face the position looks self-undermining.
 
-The [self-stultification argument](/concepts/interactionist-dualism/#argument-6-self-stultification-of-epiphenomenalism) presses hard on anyone who reasoned their way to epiphenomenalism from their own experience, but its force is conditional rather than decisive. It turns on the premise that knowing one's experience requires *causal traffic* from experience to belief—the causal-theory-of-knowledge premise. The strongest reply available to the epiphenomenalist borrows the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Papineau 2002; Balog 2012)—a physicalist programme rather than an epiphenomenalist one, though its machinery transfers—which rejects that premise: reports about phenomenal states are produced by physical-to-physical chains, and phenomenal concepts are themselves physically realised states that refer to the very brain states producing the reports, so report-reliability can hold without phenomenal causation and the self-undermining charge dissolves. The dispute then relocates rather than ending—to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, but records honestly that the disagreement runs closer to bedrock than "self-defeating" implies. It holds Bidirectional Interaction not because self-stultification refutes epiphenomenalism from inside the epiphenomenalist's framework, but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than the minimal causal interface the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already commits to.
+The [self-stultification argument](/concepts/interactionist-dualism/#the-cumulative-case-for-interactionism) presses hard on anyone who reasoned their way to epiphenomenalism from their own experience, but its force is conditional rather than decisive. It turns on the premise that knowing one's experience requires *causal traffic* from experience to belief—the causal-theory-of-knowledge premise. The strongest reply available to the epiphenomenalist borrows the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Papineau 2002; Balog 2012)—a physicalist programme rather than an epiphenomenalist one, though its machinery transfers—which rejects that premise: reports about phenomenal states are produced by physical-to-physical chains, and phenomenal concepts are themselves physically realised states that refer to the very brain states producing the reports, so report-reliability can hold without phenomenal causation and the self-undermining charge dissolves. The dispute then relocates rather than ending—to whether the first-person mode of presentation under which such concepts refer can be exhaustively physically characterised. The Map holds it cannot, but records honestly that the disagreement runs closer to bedrock than "self-defeating" implies. It holds Bidirectional Interaction not because self-stultification refutes epiphenomenalism from inside the epiphenomenalist's framework, but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than the minimal causal interface the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already commits to.
 
 A related self-defeat argument—the [argument-from-reason](/topics/argument-from-reason/)—extends this point to physicalism generally: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including physicalism. Both arguments show a position undermining the rational credentials it needs to be credibly held.
 

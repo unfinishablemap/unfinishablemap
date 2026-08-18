@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-09 00:41:00+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ This is precisely the hard problem restated in evolutionary terms. The Map's ans
 
 Materialist accounts of consciousness face a specific difficulty with evolution: they must explain how phenomenal experience emerges from physical processes that previously lacked it. This isn't just a gap in current knowledge—it may be a principled impossibility.
 
-The [strong emergence](/concepts/emergence/#strong-vs-weak-emergence) required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
+The [strong emergence](/concepts/emergence/#strong-emergence) required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
 
 Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 

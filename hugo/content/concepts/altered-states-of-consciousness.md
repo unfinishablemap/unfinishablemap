@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-01 18:28:07+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 21:03:18+00:00
-lastmod: 2026-08-01 18:28:07+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ A sophisticated production theorist would note that propofol and ketamine act on
 
 The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019). Chris Letheby's predictive-self-binding account builds a full naturalist metaphysics on this substrate—self-fictionalism, the claim that the felt self is a referent-less Bayesian prior—and is the strongest physicalist rival the Map's filter reading must clear. [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) presents it at full strength and replies on three fronts.
 
-Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth rather than as production.
+Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/default-mode-network/)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth rather than as production.
 
 The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and López Pérez (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
 

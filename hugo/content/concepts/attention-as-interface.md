@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-07 14:46:30+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-08-07 14:46:30+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ The bandwidth asymmetry is suggestive. Zheng and Meister (2025) measured conscio
 
 The most consequential error: inferring from "AI has attention" to "AI might have consciousness." What transformers have is computational attention—resource allocation, nothing more. Whether a system performing computational attention thereby *experiences* attending remains entirely open.
 
-[Attention Schema Theory](/concepts/attention-schema-theory/) exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [hard problem](/topics/hard-problem-of-consciousness/)—the [explanatory-gap](/concepts/explanatory-gap/) relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [The Relocation Objection](#the-relocation-objection) in the Challenges section.)
+[Attention Schema Theory](/concepts/attention-schema-theory/) exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [hard problem](/topics/hard-problem-of-consciousness/)—the [explanatory-gap](/concepts/explanatory-gap/) relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [The Relocation Objection](#challenges-and-falsification) in the Challenges section.)
 
 ## Attention and Consciousness Are Dissociable
 

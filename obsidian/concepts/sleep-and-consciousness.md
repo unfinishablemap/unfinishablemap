@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-12T21:40:12+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ last_curated: null
 last_deep_review: 2026-07-11T10:11:00+00:00
 ---
 
-Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
+Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming as Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
 
 ## The Evolutionary Puzzle
 
@@ -135,7 +135,7 @@ Sleep illuminates each of the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Lucid dreaming exemplifies consciousness operating causally during an offline state. The trainability of lucidity—developing prefrontal metacognition during REM through sustained effort—provides evidence: you cannot train an epiphenomenon.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness operates through attention-mediated [[decoherence#The Quantum Zeno Alternative|quantum Zeno selection]]. During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention (which 2025 research confirms).
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes consciousness operates through attention-mediated [[decoherence#Discrete Observation Mechanisms|quantum Zeno selection]]. During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention (which 2025 research confirms).
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Where is the indexical "I" when consciousness fully withdraws? If consciousness provides [[haecceity|indexical localization]], dreamless sleep may be a state where no selection occurs. Upon waking, you are *this* person who fell asleep. The felt continuity across the sleep gap presupposes a singular "you," consistent with the Map's rejection of many-worlds.
 

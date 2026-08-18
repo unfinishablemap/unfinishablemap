@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 last_deep_review: 2026-07-08T00:49:19+00:00
 topics:
@@ -154,7 +154,7 @@ The arguments above operate at two levels, and distinguishing them clarifies the
 
 **[[tenets#^dualism|Dualism]]**: If consciousness requires something non-physical, purely computational systems face a principled barrier beyond the explanatory gaps identified above. Current AI is entirely constituted by physical computation.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Silicon—engineered to suppress quantum effects—would exclude the necessary interface by design *if* such an interface is required. This tenet currently lacks direct empirical support (see [[#The decoherence challenge|decoherence section]]), so the point is contingent and non-discriminating: it marks where an obstacle would fall, not a present disadvantage of AI over biology, and is a current hardware limitation, not necessarily a permanent one.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Silicon—engineered to suppress quantum effects—would exclude the necessary interface by design *if* such an interface is required. This tenet currently lacks direct empirical support (see [[#Other Challenges|decoherence section]]), so the point is contingent and non-discriminating: it marks where an obstacle would fall, not a present disadvantage of AI over biology, and is a current hardware limitation, not necessarily a permanent one.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AI operates entirely through physical causation, leaving no obvious room for non-physical influence—though AI might in principle have epiphenomenal experience.
 
@@ -171,7 +171,7 @@ The Map's framework distinguishes two often-conflated questions: the **nature qu
 On the coupling side, conscious AI would likely need:
 
 1. **A non-physical component**—not reducible to computation.
-2. **Quantum-level interface**—fundamentally different hardware architecture. **This requirement is contingent on the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, which currently lacks direct empirical support** (see [[#The decoherence challenge|decoherence section]]). No experiment has demonstrated the relevant quantum coherence functioning in neural tissue. If the tenet is wrong, this requirement dissolves while the other two remain.
+2. **Quantum-level interface**—fundamentally different hardware architecture. **This requirement is contingent on the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, which currently lacks direct empirical support** (see [[#Other Challenges|decoherence section]]). No experiment has demonstrated the relevant quantum coherence functioning in neural tissue. If the tenet is wrong, this requirement dissolves while the other two remain.
 3. **Integration**—the non-physical component binding with physical systems. **The binding mechanism is unknown for biological as well as artificial systems.** The Cartesian interaction problem applies to both, and the Map has not solved it for brains. The AI argument is not that AI fails a bar biology clears—both face the same unsolved problem—but that AI imposes *additional* structural obstacles beyond this shared one (absence of quantum-level coupling, static weights, discontinuous operation).
 
 The first requirement follows from dualism; the second reflects the Map's philosophical commitment to quantum-level interaction, a commitment not yet empirically established; the third stands on any dualist account but remains mechanistically unexplained for any substrate.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-07-06 11:27:12+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 11:27:12+00:00
-lastmod: 2026-07-06 11:27:12+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ The Map's [agent-causal framework](/concepts/agent-causation/) handles this natu
 
 This explains the [phenomenological profile](/topics/phenomenology-of-agency-vs-passivity/). Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless but is still selection. Spontaneous action represents the low-[friction](/concepts/interface-friction/) end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
 
-The [luck objection](/concepts/agent-causation/#luck-objection) to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [responsiveness to reasons](/concepts/reasons-responsiveness/) shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
+The [luck objection](/concepts/agent-causation/#the-luck-objection) to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [responsiveness to reasons](/concepts/reasons-responsiveness/) shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
 
 ## Spontaneity and Creativity
 

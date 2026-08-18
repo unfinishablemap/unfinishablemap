@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-08-03 10:36:48+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-17 01:25:00+00:00
-lastmod: 2026-08-03 10:36:48+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -108,7 +108,7 @@ The apex repair exhibits all three forms in a single pass — the two parity ite
 
 **No named theorist may be placed in a cell whose defining commitment they publicly reject, and no empirical result may be recruited as constraint evidence beyond its authors' stated scope.**
 
-This extends the [co-optation firewall](/project/writing-style/) and the [source-role table](/project/evidential-status-discipline/#the-source-role-table) from the sentence level to the grid level. Both existing checks inspect a citation and ask whether the cited author would accept the conclusion the sentence draws. Neither inspects a *cell assignment*, which makes a claim about an author without quoting them at all. A roster is an attribution, and an attribution can be wrong in a way no quotation check will see.
+This extends the [co-optation firewall](/project/writing-style/) and the [source-role table](/project/evidential-status-discipline/#the-source-role-table-and-tenet-transfer-ledger) from the sentence level to the grid level. Both existing checks inspect a citation and ask whether the cited author would accept the conclusion the sentence draws. Neither inspects a *cell assignment*, which makes a claim about an author without quoting them at all. A roster is an attribution, and an attribution can be wrong in a way no quotation check will see.
 
 The rule earns a place here, rather than only in the parent firewall, because populating cells with named positions is a cartography deployment's characteristic operation: the locating taxonomy hands over a grid, and the deployment's first act is to say who lives where. The worked instance is Goff's priority cosmopsychism, listed in the Q4 dualist roster and moved on 2026-08-03 to a Q3 limit-case reading on priority monism's own defining claim — one fundamental individual, the universe, on which everything else is grounded — which is what Goff holds and what a two-realm dualism denies. A monist limit case may still be included for contrast; what it may not be is silently counted as an inhabitant. The parent firewall's remit is wider than the grid and should be extended there too — a separate change to [writing-style](/project/writing-style/), not made here.
 

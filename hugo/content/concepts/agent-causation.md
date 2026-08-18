@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 15:59:34+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-07-31 15:59:34+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ This article deploys a substance-leaning reading of dualism, and the scope of th
 
 Most causal explanations appeal to events causing events—*transeunt causation* in Chisholm's term. Agent causation (*immanent causation*) differs: the agent, as a persisting substance, directly causes the action. When I decide to raise my hand, *I* caused the raising—the agent is ontologically prior to events, not a mere sum of them.
 
-Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. This "no choice about what traces back beyond us" intuition is what van Inwagen's [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) makes rigorous against the compatibilist. The [world-to-mind direction of fit](/concepts/direction-of-fit/) sharpens what agent causation must preserve here—an intention genuinely aims to make reality conform to its content, a literal directedness event-causal accounts render metaphorical. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. The Map registers this in its [positions register](/positions/agency-and-will/) as P-A2 (authorship requires agent causation, not merely event-causal indeterminism), downstream of P-A1 (the agent-causal libertarian commitment). Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
+Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. This "no choice about what traces back beyond us" intuition is what van Inwagen's [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) makes rigorous against the compatibilist. The [world-to-mind direction of fit](/concepts/direction-of-fit/) sharpens what agent causation must preserve here—an intention genuinely aims to make reality conform to its content, a literal directedness event-causal accounts render metaphorical. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. The Map registers this in its [positions register](/positions/agency-and-will/) as P-A2 (authorship requires agent causation, not merely event-causal indeterminism), downstream of P-A1 (the agent-causal libertarian commitment). Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#libertarian-replies-before-the-map).
 
 ## Substance Causation: The Metaphysical Foundation
 

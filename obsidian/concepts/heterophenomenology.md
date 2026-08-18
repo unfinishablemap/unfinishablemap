@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-07-30T03:00:45+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 last_deep_review: 2026-07-14T20:06:29+00:00
 draft: false
 topics:
@@ -105,7 +105,7 @@ The narrower point is this. Dennett's heterophenomenology is in the business of 
 
 The trouble Dennett's own arguments encounter is therefore narrower than a global self-undermining: when he argues that introspection reveals no Cartesian theater, no qualia in the load-bearing sense, the inference from the introspective finding to the metaphysical conclusion requires that the introspective finding *adequately captures* what is or is not there to be found. That adequacy-assessment is the phenomenological capacity heterophenomenology brackets. The bracketing does not collapse Dennett's project, but it does locate the disagreement at the framework boundary rather than letting the introspective reports do load-bearing work as if they were neutral data.
 
-This is bedrock-disagreement honesty in the [[topics/phenomenal-authority-and-first-person-evidence#Honest limitation|sense the phenomenal-authority article names]]: the narrower self-undermining charge identifies the location of disagreement rather than claiming external defeat. An illusionist who denies that adequacy-assessment requires phenomenal acquaintance will not be moved; the disagreement is at the framework boundary, not adjudicable from outside the framework choice that produced it.
+This is bedrock-disagreement honesty in the [[topics/phenomenal-authority-and-first-person-evidence#Constitutive vs Referring Observation|sense the phenomenal-authority article names]]: the narrower self-undermining charge identifies the location of disagreement rather than claiming external defeat. An illusionist who denies that adequacy-assessment requires phenomenal acquaintance will not be moved; the disagreement is at the framework boundary, not adjudicable from outside the framework choice that produced it.
 
 ## Connection to Illusionism
 

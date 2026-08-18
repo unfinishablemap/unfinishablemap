@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-06T00:58:00+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -117,7 +117,7 @@ Probability control directly changes outcome likelihoods. If consciousness can m
 
 Random number generator (RNG) experiments have attempted to detect such deviations. Results are mixed—some meta-analyses find small effects, others attribute these to publication bias. No consensus exists that consciousness reliably biases external quantum systems.
 
-**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[[concepts/consciousness-selecting-neural-patterns#Brain Specialness|why consciousness only affects integrated neural systems]]—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
+**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[[concepts/consciousness-selecting-neural-patterns#The Brain Boundary|why consciousness only affects integrated neural systems]]—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
 
 ## The Map's Position
 

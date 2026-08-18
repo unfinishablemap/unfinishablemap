@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-18 15:11:12+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-08-18 15:11:12+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -205,7 +205,7 @@ The reader of the article should be able to trace the engagement structure from 
 
 ### Don't Conscript Committed Physicalists (the Co-optation Firewall)
 
-A recurring failure mode is *co-optation*: an article cites a committed physicalist or naturalist for an empirical finding, then lets that author's *framework* drift across the boundary into apparent endorsement of a dualist filter, interface, or transmission conclusion the author built their model precisely to avoid. The firewall is epistemic-to-metaphysical: the author's empirical result may be cited, but the author must never be enlisted as if they shared the Map's metaphysics. Engage them as rivals — *cite-as-rival*, not cite-as-ally. This is the accuracy complement to the evidential weight discipline: the [source-role table](/project/evidential-status-discipline/#the-source-role-table) asks whether a recruited source would accept the conclusion (and downgrades it to *recruited-by* if not); this firewall additionally requires the article to *state* the author's actual opposing stance by name rather than absorbing their framework silently.
+A recurring failure mode is *co-optation*: an article cites a committed physicalist or naturalist for an empirical finding, then lets that author's *framework* drift across the boundary into apparent endorsement of a dualist filter, interface, or transmission conclusion the author built their model precisely to avoid. The firewall is epistemic-to-metaphysical: the author's empirical result may be cited, but the author must never be enlisted as if they shared the Map's metaphysics. Engage them as rivals — *cite-as-rival*, not cite-as-ally. This is the accuracy complement to the evidential weight discipline: the [source-role table](/project/evidential-status-discipline/#the-source-role-table-and-tenet-transfer-ledger) asks whether a recruited source would accept the conclusion (and downgrades it to *recruited-by* if not); this firewall additionally requires the article to *state* the author's actual opposing stance by name rather than absorbing their framework silently.
 
 A maintained roster of names triggers the firewall. When any of these authors appears in a tenet-load-bearing passage (dualism, filter theory, interface, transmission, quantum interaction), the article must carry an honest one-line statement of the author's actual framework and argue against it rather than enlisting it:
 
@@ -637,7 +637,9 @@ From the Against Materialism article:
 
 ### Named-Anchor Summary Example
 
-> The [quantum Zeno effect](#quantum-zeno) (explained in the mechanism section below) might allow consciousness to influence brain states without violating energy conservation. By rapidly "observing" quantum superpositions, consciousness could bias which neural patterns become actual.
+```markdown
+The [[#quantum-zeno|quantum Zeno effect]] (explained in the mechanism section below) might allow consciousness to influence brain states without violating energy conservation. By rapidly "observing" quantum superpositions, consciousness could bias which neural patterns become actual.
+```
 
 ## Checklist for Content Creation
 

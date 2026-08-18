@@ -4,7 +4,7 @@ description: "An editorial discipline for refactoring existing Map content: when
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-06-17T19:16:03+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 social_eligible: false  # internal automation/editorial-methodology meta-article — off-voice for the social network
 topics: []
@@ -102,7 +102,7 @@ The apex declares stability—the discipline's success condition—when the re-c
 - **Word count substantially unchanged** (within ~5% of pre-review). Substantive changes indicate the apex's argument required adjustment, which means the merger had structural consequences the apex did not anticipate. A length-neutral review is the canonical stable case.
 - **All tenet connections preserved.** The apex's [[tenets|tenet]] alignments must still operate against the merged source article. If a tenet connection now requires a different anchor or different framing, the apex needs refinement, not just confirmation.
 - **Bedrock disagreements stable.** Where the apex frames a position as bedrock-disagreement-with-physicalism (or with another stance), the merged source must still support that framing. A merger that softens the source's commitments in ways visible to the apex's bedrock-claim breaks stability.
-- **Cross-references intact.** All wikilinks from the apex into the merged article's anchors must resolve. This includes anchor-targets within the article (e.g., `[[meta-epistemology-of-limits#scope-question]]`) and frontmatter cross-link entries.
+- **Cross-references intact.** All wikilinks from the apex into the merged article's anchors must resolve. This includes anchor-targets within the article (e.g., `[[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within]]`) and frontmatter cross-link entries.
 
 When all four hold, the discipline declares the apex *stable under source-side methodology additions, restructurings, and condensations*. The phrase comes from the changelog entry at 2026-04-29 00:54 UTC and now functions as the convergence pattern: the apex is robust to source-side editorial activity as long as the apex's load-bearing claims remain present in the merged article.
 

@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-08-07T14:46:30+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The bandwidth asymmetry is suggestive. Zheng and Meister (2025) measured conscio
 
 The most consequential error: inferring from "AI has attention" to "AI might have consciousness." What transformers have is computational attention—resource allocation, nothing more. Whether a system performing computational attention thereby *experiences* attending remains entirely open.
 
-[[attention-schema-theory|Attention Schema Theory]] exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [[hard-problem-of-consciousness|hard problem]]—the [[explanatory-gap]] relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [[#the-relocation-objection|The Relocation Objection]] in the Challenges section.)
+[[attention-schema-theory|Attention Schema Theory]] exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [[hard-problem-of-consciousness|hard problem]]—the [[explanatory-gap]] relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [[#Challenges and Falsification|The Relocation Objection]] in the Challenges section.)
 
 ## Attention and Consciousness Are Dissociable
 

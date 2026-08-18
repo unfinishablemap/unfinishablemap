@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-19
-date: '2026-08-02'
+date: '2026-08-18'
 draft: false
-lastmod: 2026-08-02 00:00:00+00:00
+lastmod: 2026-08-18 00:00:00+00:00
 related_articles: []
 title: Research Notes - Animal Consciousness 2024-2025 Literature Drift
 ---
@@ -147,7 +147,7 @@ The article is in *moderate drift*: cited literature's median year is approximat
   - Linguistic behaviour is a marker in humans but the LLM example shows markers can fail to extend across substrate boundaries
   - Multiple markers across multiple dimensions provide convergent (but defeasible) evidence
   - This is the operational answer to "what method does the NY Declaration's 'realistic possibility' language refer to?"
-- **Relation to site tenets**: Compatible with all five tenets. Particularly aligned with **Occam's Razor Has Limits** — refuses the simpler "marker present, therefore conscious" inference. The existing article's [Standing Agnostic Challenge](#the-standing-agnostic-challenge) from Gutfreund (2024) and the marker method are sister positions: both acknowledge that science can identify candidates but not constitute consciousness.
+- **Relation to site tenets**: Compatible with all five tenets. Particularly aligned with **Occam's Razor Has Limits** — refuses the simpler "marker present, therefore conscious" inference. The existing article's [Standing Agnostic Challenge](/topics/animal-consciousness/#the-standing-agnostic-challenge) from Gutfreund (2024) and the marker method are sister positions: both acknowledge that science can identify candidates but not constitute consciousness.
 
 ### Adversarial-Collaboration Outcome (COGITATE 2025)
 - **Proponents**: Cogitate Consortium (theory-neutral, includes IIT and GNWT proponents)

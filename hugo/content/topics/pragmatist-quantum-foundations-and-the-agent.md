@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-06-19 00:00:00+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:20:05+00:00
-lastmod: 2026-06-19 00:00:00+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ QBism's technical centrepiece is its treatment of the Born rule as a normative c
 
 The Map sees a deeper question. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy formal requirements, but they do not explain why experience reliably matches Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining.
 
-Under dualism, the Map offers a reading QBists do not endorse but that is consistent with what they say: the Born rule is normative for conscious agents *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. The [interface reading](/topics/born-rule-and-the-consciousness-interface/) argues independently that the Born rule's resistance to derivation across interpretations is abductive evidence of interface-character. QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different. Whether the formal shape *supports* the interface reading or only *is consistent with* it is taken up in [the born-rule article's treatment of the urgleichung](/topics/born-rule-and-the-consciousness-interface/#absorbing-the-urgleichung-what-survives-bayesian-personalism) — the honest fallback is that the Map's absorption is heuristic rather than derivational.
+Under dualism, the Map offers a reading QBists do not endorse but that is consistent with what they say: the Born rule is normative for conscious agents *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. The [interface reading](/topics/born-rule-and-the-consciousness-interface/) argues independently that the Born rule's resistance to derivation across interpretations is abductive evidence of interface-character. QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different. Whether the formal shape *supports* the interface reading or only *is consistent with* it is taken up in [the born-rule article's treatment of the urgleichung](/topics/born-rule-and-the-consciousness-interface/#absorbing-the-urgleichung) — the honest fallback is that the Map's absorption is heuristic rather than derivational.
 
 The "agent problem" critics raise against QBism then looks different. Under dualism, "primitive and irreducible" is not a concession but a prediction: any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts. The inference "primitive within QBism's formalism → metaphysically irreducible → non-physical" is not automatic — physics routinely takes primitives (space-time points, field values) without treating them as non-physical — so the argument here corroborates Tenet 1 rather than establishing it; the independent work is done by the hard-problem arguments the Map takes to license Tenet 1.
 

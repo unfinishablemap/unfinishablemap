@@ -4,7 +4,7 @@ description: "Whitehead's subjective aim—each occasion's directedness toward i
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-07-17T16:35:09+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 **The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [[combination-problem|combination problem]] that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
 
-**Teleology without mechanism** {#teleology-without-mechanism}: Subjective aim introduces teleology (goal-directedness) at the fundamental level without specifying how this teleology operates physically. The Map's quantum selection framework at least identifies *where* consciousness might intervene (quantum indeterminacies). Process philosophy's subjective aim identifies *what* is happening (self-directed becoming) without specifying how this relates to physical law.
+**Teleology without mechanism**: Subjective aim introduces teleology (goal-directedness) at the fundamental level without specifying how this teleology operates physically. The Map's quantum selection framework at least identifies *where* consciousness might intervene (quantum indeterminacies). Process philosophy's subjective aim identifies *what* is happening (self-directed becoming) without specifying how this relates to physical law.
 
 ## Relation to Site Perspective
 
@@ -92,7 +92,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Subjective aim provides a process-philosophical *description* of what the Map proposes physically: consciousness guiding outcomes where physics leaves them undetermined. Concrescence is structurally analogous to quantum collapse; subjective aim is structurally analogous to the selective role of consciousness. The concepts operate at different levels of description—metaphysical and physical—and the analogy is suggestive rather than demonstrative. But it shows that the Map's proposal is not metaphysically arbitrary: process philosophy arrived at a similar structure through independent reasoning.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This is where subjective aim most directly illuminates the Map's position. Every occasion's self-directed becoming means experience makes a causal difference—at the metaphysical level of description. The Map restricts causal efficacy to conscious beings interacting with quantum indeterminacies; Whitehead generalises it to all actuality. The support is conceptual rather than mechanistic: subjective aim shows that experience-as-cause is metaphysically coherent, even though the *mechanism* by which consciousness influences quantum outcomes remains an open question (as the [[#teleology-without-mechanism|teleology without mechanism]] criticism acknowledges).
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This is where subjective aim most directly illuminates the Map's position. Every occasion's self-directed becoming means experience makes a causal difference—at the metaphysical level of description. The Map restricts causal efficacy to conscious beings interacting with quantum indeterminacies; Whitehead generalises it to all actuality. The support is conceptual rather than mechanistic: subjective aim shows that experience-as-cause is metaphysically coherent, even though the *mechanism* by which consciousness influences quantum outcomes remains an open question (as the [[#Criticisms|teleology without mechanism]] criticism acknowledges).
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Subjective aim presupposes definite outcomes. The occasion aims at satisfaction and achieves it—one outcome, not branching alternatives. If all possibilities were equally real (as in many-worlds), subjective aim would lose its force: there would be nothing to select, since every outcome is actualised in some branch. A many-worlds defender might respond that subjective aim describes what it is like to be *within* a particular branch—the experience of definiteness persists even if metaphysical uniqueness does not. The Map's reply: if every outcome is equally actual, the "aim" toward one rather than another does no work. The occasion's directedness becomes epiphenomenal in precisely the way many-worlds proponents claim consciousness is not.
 

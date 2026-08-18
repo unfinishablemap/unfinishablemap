@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-08-13T19:40:00+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 topics:
@@ -180,7 +180,7 @@ The target here is specifically identity theory, not physicalism in general. Sop
 
 ### For Interface Architecture
 
-The dissociation pattern supports [[interface-friction|interface friction]] as a structural feature rather than a metaphor. Friction predicts that the interface should have identifiable components that can fail independently—and the clinical evidence appears to bear this out. The specific channels that [[interface-friction#Friction as Diagnostic|friction reveals through resistance]] are the same channels that dissociations reveal through failure.
+The dissociation pattern supports [[interface-friction|interface friction]] as a structural feature rather than a metaphor. Friction predicts that the interface should have identifiable components that can fail independently—and the clinical evidence appears to bear this out. The specific channels that [[interface-friction#Friction as Interpretive Framework|friction reveals through resistance]] are the same channels that dissociations reveal through failure.
 
 ### Against Epiphenomenalism
 

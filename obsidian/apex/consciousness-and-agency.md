@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-08-13T09:24:49+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -116,7 +116,7 @@ Critics find this unsatisfying: "the agent caused it" seems to name the problem 
 
 Sartre's analysis illuminates a structural precondition the framework requires. The ability to stand apart from your own mental states—to reflect on your anger and decide whether to act on it, to be aware *of* states rather than simply *being* them—is what Sartre called the *pour-soi* (being-for-itself); a being that merely *is* its states cannot evaluate or override them. Sartre is a phenomenological ontologist rather than a substance dualist, and his radical freedom concerns the structure of consciousness, not quantum indeterminacy—but it identifies what the Map requires: consciousness must be distanced from its contents to select among them.
 
-E.J. Lowe and Timothy O'Connor argue that *all* causation is fundamentally [[agent-causation#The Metaphysical Foundation: Substance Causation|substance causation]]—agents exercising powers. If they're right, agent causation isn't metaphysically exceptional; it's paradigmatic. Kane's 2024 work now incorporates agent-causal elements into what was traditionally an event-causal framework, representing convergence between the traditions. Whitehead's [[process-philosophy|process philosophy]] reaches a compatible conclusion from different premises: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The question shifts from "How can consciousness possibly cause anything?" to "Why did we think it couldn't?"
+E.J. Lowe and Timothy O'Connor argue that *all* causation is fundamentally [[agent-causation#Substance Causation: The Metaphysical Foundation|substance causation]]—agents exercising powers. If they're right, agent causation isn't metaphysically exceptional; it's paradigmatic. Kane's 2024 work now incorporates agent-causal elements into what was traditionally an event-causal framework, representing convergence between the traditions. Whitehead's [[process-philosophy|process philosophy]] reaches a compatible conclusion from different premises: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The question shifts from "How can consciousness possibly cause anything?" to "Why did we think it couldn't?"
 
 The [[authentic-vs-inauthentic-choice|authenticity dimension]] matters here: agent causation is fully engaged in authentic choice—where you genuinely author the decision—and attenuated in scripted, habitual behaviour. This variable engagement suggests the selection function operates along a continuum rather than as an all-or-nothing mechanism.
 

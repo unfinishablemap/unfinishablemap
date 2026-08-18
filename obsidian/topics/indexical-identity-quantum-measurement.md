@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-07-28T14:40:17+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The Map's position requires the metaphysical thesis. If indexical facts are mere
 
 ### QBism: Epistemic Without Explaining Experience {#qbism}
 
-[[qm-interpretations-beyond-many-worlds#QBism (Quantum Bayesianism)|QBism]] (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
+[[qm-interpretations-beyond-many-worlds#QBism: Agent-Centered but Non-Realist About the State|QBism]] (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
 
 Christopher Fuchs, QBism's founder, holds that the wave function tracks an agent's expectations rather than the world—a position his *Quanta Magazine* interviewer glossed as the claim that "the wave function does not describe the world — it describes the observer" (Gefter 2015). Born probabilities are subjective Bayesian degrees of belief, constrained by normative coherence requirements analogous to Dutch-book coherence.
 

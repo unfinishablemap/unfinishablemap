@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-06 00:58:00+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:25:00+00:00
-lastmod: 2026-08-06 00:58:00+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ Probability control directly changes outcome likelihoods. If consciousness can m
 
 Random number generator (RNG) experiments have attempted to detect such deviations. Results are mixed—some meta-analyses find small effects, others attribute these to publication bias. No consensus exists that consciousness reliably biases external quantum systems.
 
-**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[why consciousness only affects integrated neural systems](/concepts/consciousness-selecting-neural-patterns/#brain-specialness)—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
+**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[why consciousness only affects integrated neural systems](/concepts/consciousness-selecting-neural-patterns/#the-brain-boundary)—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
 
 ## The Map's Position
 

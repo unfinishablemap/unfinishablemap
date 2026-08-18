@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-18 15:31:12+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-18 15:31:12+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -166,7 +166,7 @@ For free will the point needs stating carefully. It is too quick to say that und
 
 [Illusionists](/concepts/illusionism/) hold that phenomenal consciousness is an illusion and that the feeling of choosing is constructed post hoc, so "phenomenology of effort" is a functional representation rather than evidence of non-physical causation. Two replies. The position is self-undermining: if reasoning is wholly constructed by neural processes unconnected to real reasoning, the decision to adopt illusionism was not itself genuinely reasoned to. And it faces a regress—calling the feeling of effort a "representation" presupposes something to which the representation is presented, and that experiencer cannot itself be a further representation without infinite regress, since misrepresentation presupposes presentation.
 
-The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [choking phenomenon](/concepts/agent-causation/#the-choking-phenomenon-as-evidence) supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
+The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) and where they succeed (basic phenomenal states, effort). The [choking phenomenon](/concepts/agent-causation/#skill-delegation-and-the-interface) supplies non-verbal evidence: skilled performance degrades when attention is deployed, however we theorise about phenomenology.
 
 ## The Decoherence Challenge
 

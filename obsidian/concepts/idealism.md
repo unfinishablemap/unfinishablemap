@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-08-03T13:49:46+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ On idealism, this question transforms. If there is no physical substrate, what m
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes that indexical identity matters—*this* conscious being, *this* choice. If individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory. The Map maintains that *you*—this particular conscious being—genuinely choose and genuinely matter. You're not a fragment of something else; you're a conscious being with [[agent-causation|genuine causal power]] who interacts with physical reality.
 
-This connects to [[topics/phenomenal-value-realism]]: if [[topics/phenomenal-value-realism#Connection to Indexical Identity|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications.
+This connects to [[topics/phenomenal-value-realism]]: if [[topics/phenomenal-value-realism#Indexical Value|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications.
 
 ## Why Not Idealism?
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-12 21:40:12+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 10:11:00+00:00
-lastmod: 2026-08-12 21:40:12+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
-Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [Lucid dreaming](/topics/dream-consciousness/#lucid-dreaming-a-distinct-state) restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
+Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [Lucid dreaming](/topics/dream-consciousness/#lucid-dreaming-as-distinct-state) restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second ceiling on serial conscious *behavioural throughput* (Zheng & Meister's bound on what conscious agents do, not a measured bandwidth of phenomenal experience itself), replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
 
 ## The Evolutionary Puzzle
 
@@ -138,7 +138,7 @@ Sleep illuminates each of the Map's [tenets](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Lucid dreaming exemplifies consciousness operating causally during an offline state. The trainability of lucidity—developing prefrontal metacognition during REM through sustained effort—provides evidence: you cannot train an epiphenomenon.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes consciousness operates through attention-mediated [quantum Zeno selection](/concepts/decoherence/#the-quantum-zeno-alternative). During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention (which 2025 research confirms).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes consciousness operates through attention-mediated [quantum Zeno selection](/concepts/decoherence/#discrete-observation-mechanisms). During NREM, this mechanism disengages; REM partially reengages it; lucid REM represents fuller engagement. This makes testable predictions: lucid dreams should show neural signatures closer to waking attention (which 2025 research confirms).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Where is the indexical "I" when consciousness fully withdraws? If consciousness provides [indexical localization](/concepts/haecceity/), dreamless sleep may be a state where no selection occurs. Upon waking, you are *this* person who fell asleep. The felt continuity across the sleep gap presupposes a singular "you," consistent with the Map's rejection of many-worlds.
 

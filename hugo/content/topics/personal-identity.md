@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-08-05 23:58:16+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-08-05 23:58:16+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 **The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
 
-Recent phenomenological work—most prominently [Zahavi's](/concepts/self-and-self-consciousness/#zahavis-position-in-his-own-terms) account of first-personal givenness—distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/): a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and a minimal layer that persists throughout.
+Recent phenomenological work—most prominently [Zahavi's](/concepts/self-and-self-consciousness/#minimal-self-and-narrative-self) account of first-personal givenness—distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/): a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and a minimal layer that persists throughout.
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [inaccessible-past](/voids/inaccessible-past/) reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [consciousness a causal participant in memory's transformation](/topics/consciousness-and-memory/). The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 

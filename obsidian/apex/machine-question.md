@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds principled obstacles to 
 created: 2026-01-31
 modified: 2026-08-09
 human_modified: null
-ai_modified: 2026-08-17T07:28:00+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -83,7 +83,7 @@ The "current AI probably lacks it" claim is about the *last* sense, and only the
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-## The Functionalist Gambit and Its Failures [Open]
+## The Functionalist Gambit and Its Failures [Open] {#the-functionalist-gambit-and-its-failures}
 
 The case for machine consciousness rests primarily on [[concepts/functionalism]]—the view that mental states are defined by their causal roles rather than their physical implementation. If pain is whatever plays the pain role, any system implementing that role experiences pain, regardless of substrate; silicon and neurons are just different hardware running equivalent software. This underwrites "Strong AI": appropriately programmed computers don't simulate minds but possess them.
 

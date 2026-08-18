@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-28 14:40:17+00:00
+ai_modified: 2026-08-18 21:17:37+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:12:22+00:00
-lastmod: 2026-07-28 14:40:17+00:00
+lastmod: 2026-08-18 21:17:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The Map's position requires the metaphysical thesis. If indexical facts are mere
 
 ### QBism: Epistemic Without Explaining Experience {#qbism}
 
-[QBism](/topics/qm-interpretations-beyond-many-worlds/#qbism-quantum-bayesianism) (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
+[QBism](/topics/qm-interpretations-beyond-many-worlds/#qbism-agent-centered-but-non-realist-about-the-state) (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
 
 Christopher Fuchs, QBism's founder, holds that the wave function tracks an agent's expectations rather than the world—a position his *Quanta Magazine* interviewer glossed as the claim that "the wave function does not describe the world — it describes the observer" (Gefter 2015). Born probabilities are subjective Bayesian degrees of belief, constrained by normative coherence requirements analogous to Dutch-book coherence.
 

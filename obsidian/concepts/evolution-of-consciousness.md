@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-08-09T00:41:00+00:00
+ai_modified: 2026-08-18T21:17:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ This is precisely the hard problem restated in evolutionary terms. The Map's ans
 
 Materialist accounts of consciousness face a specific difficulty with evolution: they must explain how phenomenal experience emerges from physical processes that previously lacked it. This isn't just a gap in current knowledge—it may be a principled impossibility.
 
-The [[emergence#Strong vs Weak Emergence|strong emergence]] required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
+The [[emergence#Strong Emergence|strong emergence]] required for consciousness cannot be deduced from physical facts alone. C.D. Broad's criterion applies: the "characteristic behaviour of the whole could not, even in theory, be deduced from the most complete knowledge of the behaviour of its components". If consciousness is strongly emergent, we cannot trace a smooth evolutionary path from non-conscious to conscious matter.
 
 Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 
