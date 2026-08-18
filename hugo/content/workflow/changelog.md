@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T13:29:23+00:00'
+ai_modified: '2026-08-18T14:11:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 13:29:23+00:00
+lastmod: 2026-08-18 14:11:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 14:10 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/)
+- **Scope**: one frontmatter line (`description:`), plus `ai_modified`. No body edits.
+- **Defect fixed (verified on disk)**: the `description:` at L8 claimed the four arguments "converge on **dualism**" — a positive metaphysical thesis. The body states a materially narrower terminus. L140: the same four arguments "converge on the claim that materialism *cannot in principle* explain consciousness, rather than that it merely *hasn't yet*." The description asserted a **different conclusion** from the one the article argues, not merely a stronger version of it.
+- **The body disclaims the description's claim twice, explicitly.** L132: "Materialism's failure does not by itself yield dualism, and the Map does not claim otherwise" — naming panpsychism, neutral monism, Russellian monism, and mysterianism as live rivals that also reject materialism. L148: "None of this proves dualism." The description contradicted the article's own stated position, on the article's highest-visibility surface (see navigation-surfaces-carry-unreviewed-claims — meta descriptions are what search results and chatbot retrievals show, often in isolation from the body).
+- **Fix inherits L140 rather than composing a new formulation.** New value (154 chars, from 148): `Why materialism cannot in principle explain consciousness, not merely hasn't yet — hard problem, zombie argument, epiphenomenalism, quantum indeterminacy.` The *cannot in principle* / *hasn't yet* distinction is the article's actual thesis and is preserved verbatim in force; the description was not weakened into vagueness. All four named arguments retained (they carry the retrieval value). Thesis front-loaded ahead of the argument list for truncation resilience, per the LLM-first style guide. L140 itself untouched — it is the source, not a second defect.
+- **YAML proven**: `yaml.safe_load` on the edited frontmatter parses to 16 keys; description round-trips at 154 chars. The apostrophe in "hasn't" is safe inside the double-quoted scalar (98 `topics/` descriptions already carry apostrophes), and the value contains no unescaped colon or bare `#`.
+- **Mirror verified in both trees, whitespace-normalised.** A contiguous `grep -F` of the new string reads 0 in `hugo/` and is a **false absence**: the sync emitter line-wraps long YAML scalars, so the string spans two lines. `git show HEAD` confirms the *previous* description was wrapped the same way — pre-existing pipeline behaviour, not a regression. Parsed values in `obsidian/` and `hugo/content/` are byte-identical; `converge on dualism` now reads 0 in both copies of the article.
+- **Stale build artifact, no action**: `hugo/public/arguments/materialism-argument/index.html` still carries the old text. `hugo/public/` is untracked and gitignored (`.gitignore:211`), regenerated on deploy.
+- **Checked, not defects (reported not edited)**: `topics/the-convergence-argument-for-dualism`, `topics/arguments-against-materialism`, and `concepts/concession-convergence` all contain "converge on dualism" legitimately — the first is an article whose thesis *is* the convergence, and its own description already carries the independence hedge.
+- **Length**: unchanged — a frontmatter rewrite is prose-neutral. Decomposed prose 3027, Further Reading 84, References 205; `arguments` thresholds soft **2500** / hard **3500**. Over soft, under hard, no open task records it; the soft warning is not licence to condense. `arguments/` is uncapped by construction (`section_caps` holds only topics/concepts/voids/positions).
+- **No reasoning-mode classification recorded**: the article does engage named opponents (Frankish-Dennett illusionism, Chalmers), but no opponent-engagement prose was edited in this pass, so SKILL §3.6 does not apply.
+- **Published**: yes
 
 ## 2026-08-18 13:40 UTC - refine-draft
 

@@ -3,9 +3,9 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-07-29
 human_modified: 2026-01-06
-ai_modified: 2026-07-29T05:19:00+00:00
+ai_modified: 2026-08-18T14:08:56+00:00
 draft: false
-description: "Why materialism fails to account for consciousness — hard problem, zombie argument, epiphenomenalism, and quantum indeterminacy converge on dualism."
+description: "Why materialism cannot in principle explain consciousness, not merely hasn't yet — hard problem, zombie argument, epiphenomenalism, quantum indeterminacy."
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
