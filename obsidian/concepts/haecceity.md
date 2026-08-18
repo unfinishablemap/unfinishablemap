@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-08-02T11:38:24+00:00
+ai_modified: 2026-08-18T11:09:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,6 +109,8 @@ The [[concepts/many-worlds#3. The Probability Problem|probability problem]] for 
 The [[indexical-identity-quantum-measurement|indexical identity problem]] extends this across all QM interpretations: each addresses the measurement problem while leaving the indexical problem—grounded in haecceity—untouched. Decision-theoretic defenses (Wallace 2012, Greaves 2007) attempt to derive the Born rule without haecceitistic assumptions, but "What should I care about?" presupposes an "I" whose interests are at stake. The broader [[concepts/many-worlds|MWI critique]] identifies additional problems, but indexical identity is fundamental.
 
 ## Process Haecceitism: Particularity Without Permanence {#process-haecceitism}
+
+*Process haecceitism* is the Map's own label for the position set out below rather than a term of art inherited from the literature: the Map has not found the compound term in use elsewhere, though both of its components—Whitehead's process metaphysics and the Adams–Lewis debate over primitive thisness—are entirely standard.
 
 Standard haecceitism faces a dilemma. On one side: [[parfit-reductionism|Parfit's reductionism]] dissolves personal identity into patterns of psychological continuity, making "you" interchangeable with a qualitative replica. On the other: substance dualism grounds identity in an unchanging soul, but Buddhist contemplative evidence and [[process-philosophy|process metaphysics]] both challenge the existence of any such permanent substrate.
 

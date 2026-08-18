@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-02 11:38:24+00:00
+ai_modified: 2026-08-18 11:09:26+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-08-02 11:38:24+00:00
+lastmod: 2026-08-18 11:09:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,6 +112,8 @@ The [probability problem](/concepts/many-worlds/#3-the-probability-problem) for 
 The [indexical identity problem](/topics/indexical-identity-quantum-measurement/) extends this across all QM interpretations: each addresses the measurement problem while leaving the indexical problem—grounded in haecceity—untouched. Decision-theoretic defenses (Wallace 2012, Greaves 2007) attempt to derive the Born rule without haecceitistic assumptions, but "What should I care about?" presupposes an "I" whose interests are at stake. The broader [MWI critique](/concepts/many-worlds/) identifies additional problems, but indexical identity is fundamental.
 
 ## Process Haecceitism: Particularity Without Permanence {#process-haecceitism}
+
+*Process haecceitism* is the Map's own label for the position set out below rather than a term of art inherited from the literature: the Map has not found the compound term in use elsewhere, though both of its components—Whitehead's process metaphysics and the Adams–Lewis debate over primitive thisness—are entirely standard.
 
 Standard haecceitism faces a dilemma. On one side: [Parfit's reductionism](/concepts/parfit-reductionism/) dissolves personal identity into patterns of psychological continuity, making "you" interchangeable with a qualitative replica. On the other: substance dualism grounds identity in an unchanging soul, but Buddhist contemplative evidence and [process metaphysics](/concepts/process-philosophy/) both challenge the existence of any such permanent substrate.
 
