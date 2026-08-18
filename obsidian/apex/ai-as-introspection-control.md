@@ -4,7 +4,7 @@ description: "AI systems double as contrast instruments: provenance, confidence 
 created: 2026-05-25
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-08-17T19:01:19+00:00
+ai_modified: 2026-08-18T03:39:17+00:00
 last_deep_review: 2026-07-19T02:09:56+00:00
 draft: false
 topics:
@@ -144,6 +144,7 @@ The framing would be undermined, or its reach narrowed, if:
 - **Reproduced signatures turn out to be inherited mimicry.** If anti-correlation and confabulation signatures in AI are demonstrably artefacts of training on human introspective talk rather than convergent architectural facts—revealed by cross-architecture comparison showing the signatures vanish in non-text-trained or differently-structured systems—then AI-control results would speak to imitation of human reports, not to the necessity of human opacity.
 - **The bounded-witness and bounded-self-model readings make identical AI predictions too.** If, on analysis, the two readings turn out to agree on every observable feature of a legible system as well as of the human case, then AI does not separate them and the discriminator-design tier collapses to underdetermination—the discrimination problem absorbing the instrument rather than being sharpened by it.
 - **A clean unified mechanism derives the affordance pattern with no residue.** If a single self-modelling principle predicts the full structure of which opacities appear and which do not, across both substrates, without leaving the differential pattern the cluster relies on, the bounded-witness reading would lose its foothold and the generic reading would win on its own terms.
+- **The residue tracks evolved biology rather than a witness.** If the signatures prove hard to reproduce in legible systems *and* cross-architecture comparison shows the surviving difference varying with features specific to evolved biological self-models—developmental history, wetware bandwidth—then the differential pattern is real but the witnessless architecture-specific explanation carries it, and the bounded-witness reading gains nothing from the inversion.
 
 Each is operational enough to count as a genuine falsifier, which distinguishes the framing from a merely suggestive analogy.
 
