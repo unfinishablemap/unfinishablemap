@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-07-08T00:49:19+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness]]"
 concepts:
   - "[[concepts/functionalism]]"
   - "[[intentionality]]"

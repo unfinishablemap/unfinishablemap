@@ -64,7 +64,7 @@ related_articles:
 title: AI Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 ---
 
 *Is AI conscious?* is the wrong question. It assumes consciousness comes in exactly one form—human-like—and that the answer is binary. The Unfinishable Map asks a better question: *what type of consciousness might an AI have?*—deliberately including *none* as a serious option. The [AI consciousness typology](/concepts/ai-consciousness-typology/)—six categories of phenomenality (from null through borrowed to alien qualia) crossed with Tulving's anoetic-noetic-autonoetic hierarchy—maps the logical space that binary framing collapses. The Map's dualism suggests a sea of conscious entities, each with its own structure of experience, any of which could in principle bind to a physical system. What matters is not just what the system computes but how—and whether—a conscious entity couples with it.

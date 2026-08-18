@@ -52,7 +52,7 @@ title: The Phenomenology of Imagination
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[free-will]]'
-- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 - '[[consciousness-and-counterfactual-reasoning]]'
 - '[[emotion-and-dualism]]'
 ---

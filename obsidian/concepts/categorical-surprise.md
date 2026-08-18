@@ -8,7 +8,7 @@ ai_modified: 2026-06-02T08:23:23+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[phenomenal-consciousness]]"

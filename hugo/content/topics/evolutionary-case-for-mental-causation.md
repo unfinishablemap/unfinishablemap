@@ -34,7 +34,7 @@ related_articles:
 - '[[consciousness-and-causal-powers]]'
 title: The Evolutionary Case for Mental Causation
 topics:
-- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

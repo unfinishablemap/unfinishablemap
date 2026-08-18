@@ -8,7 +8,7 @@ ai_modified: 2026-08-08T15:28:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness]]"
 concepts:
   - "[[language-recursion-and-consciousness]]"
   - "[[attention-as-interface]]"

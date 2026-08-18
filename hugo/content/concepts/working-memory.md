@@ -43,7 +43,7 @@ related_articles:
 title: Working Memory and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 ---
 
 Working memory (WM) is the cognitive system that holds and manipulates information over brief periods—typically seconds. Research reveals a crucial asymmetry: manipulation is far more tightly bound to conscious access than maintenance. (Whether maintenance can be *fully* unconscious is contested; recent bias-corrected meta-analyses and a 19-laboratory replication, discussed below, leave it open.) This distinction matters because if manipulation requires consciousness and WM capacity has expanded dramatically in humans, then consciousness participates constitutively in the cognitive operations that distinguish human minds.
