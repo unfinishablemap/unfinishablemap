@@ -4,7 +4,7 @@ description: "A human+AI concept page naming the evidence type in which the dire
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-08-13T22:20:00+00:00
+ai_modified: 2026-08-18T12:26:56+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -27,10 +27,10 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-07-16T23:00:46+00:00
+last_deep_review: 2026-08-18T12:26:56+00:00
 ---
 
 Direction-of-interface-change signatures are an evidence type in which the *direction* the system is moving — not the substrate state at a single moment — is the load-bearing variable. When consciousness is disrupted and then restored, the order in which channels degrade is often *not* the mirror image of the order in which they recover, and the same anaesthetic concentration corresponds to different conscious outcomes depending on whether the brain is descending into or climbing out of unconsciousness. This concept page names the family so that the Unfinishable Map's catalogue can cite one node rather than restate the methodology in each article — and, equally important, so that the family's central limitation can be stated once, prominently, in the one place every citation passes through. The signatures *constrain* the space of readings of consciousness-state transitions; they do not *establish* any one reading, and they are not a tally of independent confirmations. Both qualifications are inherited verbatim from [[memory-channel-interface-evidence|the recovery-order-asymmetry article]], where the family is first developed, and from [[evidential-status-discipline|the evidential-status discipline]].
@@ -45,9 +45,11 @@ The family has four members, each documented across the disruption cluster (anae
 
 **Recovery-order reversal across mechanisms.** The [[anoetic-noetic-autonoetic-consciousness|autonoetic / episodic]] channel returns *last* when a deeply anaesthetised brain emerges, yet *first and most prominently* in terminal lucidity, where patients with advanced dementia recover autobiographical recollection in the hours before death (Nahm, Greyson, Kelly, and Haraldsson 2012). The same channel, opposite recovery position, distinguished by the direction and context of substrate change — rising substrate function in one case, falling in the other.
 
-**Abrupt reconnection versus gradual onset.** In dissociative amnesia, autobiographical access is severed gradually under stress but frequently returns abruptly and completely when the dissociative barrier lifts — the bridge reconnects rather than being re-grown. Recovery is not the time-reverse of onset, and because the substrate is anatomically intact, the asymmetry cannot be attributed to tissue loss or repair.
+**Abrupt reconnection versus gradual onset.** In dissociative amnesia, autobiographical access is severed gradually under stress but frequently returns abruptly and completely when the dissociative barrier lifts — the bridge reconnects rather than being re-grown. Recovery is not the time-reverse of onset, and because the substrate is anatomically intact, the asymmetry cannot be attributed to tissue loss or repair. This is the family's least secure member, and the caution belongs here rather than only in the source: the dissociative row is at once the cleanest accommodation case and the most contested one in [[memory-channel-interface-evidence|the article where the family is developed]], where critics of the trauma model of dissociation argue that encoding without recall lacks strong empirical support — putting in question not merely the mechanism behind compartmentalised autobiographical access but whether an objective memory barrier is present at all. If it is not, the asymmetry is a fact about self-understanding rather than about channel access, and this member weakens accordingly.
 
 **Direction-decoupled timing.** Anaesthetic induction tracks drug concentration closely, while emergence is a distributed, stochastic, network-level reconstitution whose timing is not fixed by the macroscopic substrate state. Stone, Kelz, Proekt, and Wasilczuk (2025) found that genetically identical mice under identical protocols emerged at times varying by at least two orders of magnitude, with a deterministic pharmacokinetic-pharmacodynamic model failing where a stochastic neuronal-dynamics model fit. The down-trajectory and the up-trajectory obey different dynamics. (The *interpretation* of that variability — classical neuronal noise versus interface indeterminacy — is held at a separate, lower-tier question developed in [[stochastic-emergence-as-quantum-interface-evidence|the stochastic-emergence article]]; the structural point carried here is only that emergence is not the deterministic reverse of induction.)
+
+**The sleep-wake transition: a candidate fourth domain.** [[sleep-paralysis-and-interface-reassembly|The sleep-wake boundary]] supplies a further instance of the family's defining property, and it is noted separately rather than folded into the three domains above, because the fit is partial. What it adds is real: whole-brain trajectory evidence that the path out of sleep does not retrace the path in, and third-person measurement of channels re-coupling on separate clocks after waking. What it does not yet supply is the full set of members — recovery-order reversal and abrupt reconnection have no sleep-wake case, and hysteresis reaches this boundary through an argument that the loss-and-recovery asymmetry is a general network property rather than through direct measurement of sleep thresholds, which remains undone. Sleep paralysis does contribute one thing the other three domains do not: a first-person presentation of the mis-ordering, where all four signatures above are read off third-person measurement alone.
 
 ## What Unifies the Family
 
@@ -80,7 +82,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 ## Further Reading
 
 - [[memory-channel-interface-evidence]] — Where the family is first developed at topic length, with each member's empirical case; also the substrate-state face of the same architecture
-- [[sleep-paralysis-and-interface-reassembly]] — The sleep-wake instance: transition-module asymmetry, staggered channel restoration, and sleep paralysis as the mis-ordering experienced from inside
+- [[sleep-paralysis-and-interface-reassembly]] — The sleep-wake boundary as a candidate fourth domain: trajectory asymmetry, staggered channel restoration, and the family's only first-person case
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
 - [[direction-dependent-discriminating-test-design]] — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [[self-concealing-interface]] — The synthesis that catalogues direction-of-interface-change as a seam class

@@ -10,6 +10,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-18 12:26 UTC - deep-review
+
+- **Status**: Success
+- **File**: [direction-of-interface-change](/concepts/direction-of-interface-change/)
+- **Word count**: prose 1602 → 1850 (+248); total 1888 → 2133 (concepts soft 2500 / hard 3500, status `ok`)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3
+- **Review surface**: exactly one change since the 2026-07-16 review — commit `de29e97800` (2026-08-13), a Further Reading line installed by an `expand-topic` run on a *different* article. Nobody had read it: the installing article's own deep review (2026-08-16) records "Cross-links Added: **None**" while its expand run had installed this one three days earlier, and this page's last review predates the insertion. The line carried a real defect.
+- **(1) Scope over-reach in the unreviewed gloss.** The gloss called `sleep-paralysis-and-interface-reassembly` "The sleep-wake **instance**", while the body twice scopes the family to "anaesthesia, dying, dissociation". Pre-edit `grep -inc 'sleep'` returned **1** — the gloss was the only occurrence on the page. The naive fix (append sleep-wake to the domain list) would itself have over-claimed: recovery-order reversal and abrupt reconnection have **no** sleep-wake case, and hysteresis reaches that boundary only through Kim et al.'s network-generality argument, not direct measurement — the sleep article's own falsifier #4 concedes the measurement is undone. Added a "candidate fourth domain" paragraph stating the fit is partial, naming the two absent members, and crediting the one thing sleep-wake genuinely adds: a **first-person** presentation of the mis-ordering, where all four named members are third-person without exception. The two three-domain body loci were left untouched — they are accurate as written once the paragraph exists.
+- **(2) Dropped contestation on member three.** The lead claims the qualifications are "inherited verbatim" from [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/); the contestation of member three was not. "Abrupt reconnection versus gradual onset" was stated flatly and is the **only** member carrying no citation (members 1/2/4 name Sepúlveda 2019, Nahm 2012, Stone 2025) — while the source article calls the dissociative row "the most contested" and cites a live challenge questioning whether an objective memory barrier exists at all. The weakest-supported member was the most confidently stated. Added a hedge naming it "the family's least secure member" and giving the consequence. Phrased without an author-year form so no dangling cite is created on a page that defers empirical development to the sibling.
+- **(3) Gloss rewritten** to "The sleep-wake boundary as a candidate fourth domain: trajectory asymmetry, staggered channel restoration, and the family's only first-person case" — previously it named properties in the sleep article's vocabulary, matching no member on this page.
+- **Citations**: all three References verified at Crossref REST — Sepúlveda `10.1111/anae.14609` (*Anaesthesia* 74(6) 801–809), Stone `10.1016/j.bja.2025.02.036` (*BJA* 135(1) 121–133), Nahm `10.1016/j.archger.2011.06.031` (*Arch Gerontol Geriatr* 55(1) 138–142, Kelly = Emily **Williams**, initials correct). All **real-correct**; third independent verification of this ledger. Contestation source Lynn et al. `10.1037/a0035570` verified real before being relied on, deliberately not added to References. `find_superlative_claims` 0 matches; no verbatim source quotes on the page.
+- **Engagement classification**: production theorist — **Mode Three**, framework-boundary marking, unchanged and correct. Both additions are concessive; the member-three hedge lowers a claim. No boundary-substitution, no editor-vocabulary leakage.
+- **Output**: [deep-review-2026-08-18-direction-of-interface-change](/reviews/deep-review-2026-08-18-direction-of-interface-change/)
+- **Published**: yes
+
 ## 2026-08-18 12:10 UTC - refine-draft
 
 - **Status**: Success
