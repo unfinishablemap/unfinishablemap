@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-08T23:47:00+00:00
+ai_modified: 2026-08-18T01:27:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,6 @@ related_articles:
   - "[[transit-void]]"
   - "[[noetic-feelings-void]]"
   - "[[the-quantitative-comprehension-void]]"
-  - "[[mind-space-void]]"
   - "[[death-void]]"
   - "[[smoothness-and-continuity]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
@@ -139,7 +138,7 @@ The two edges illuminate each other. Advanced meditators strip away mental conte
 
 ## What the Edge Reveals
 
-Four convergent lessons. **Cognitive limits have experiential signatures**—approaching what we cannot think produces distinctive experiences, so the void carries positive features rather than mere absence ([[phenomenology-of-cognitive-limit-types|limit-type phenomenology]] maps these; [[self-maintained-cognitive-limits|cognitive aversion]] maps one cluster). **Content obscures as much as it reveals**: the edge-clarity paradox suggests ordinary conceptual processing actively hides something, just as [[filter-theory|filter theory]] predicts. **The subject is not essential to experience**—if the zero-person perspective is genuinely experiential, selfhood is an addition to consciousness, not its foundation. And **multiple edges exist**: different practices approach different boundaries—ego, content, [[witnessing-void|witnessing]], [[transit-void|transition]], [[smoothness-and-continuity|continuity]], [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|scale]], [[recursion-void|recursion]], [[mind-space-void|mind-space]], [[death-void|death]]—each with distinct phenomenology.
+Four convergent lessons. **Cognitive limits have experiential signatures**—approaching what we cannot think produces distinctive experiences, so the void carries positive features rather than mere absence ([[phenomenology-of-cognitive-limit-types|limit-type phenomenology]] maps these; [[self-maintained-cognitive-limits|cognitive aversion]] maps one cluster). **Content obscures as much as it reveals**: the edge-clarity paradox suggests ordinary conceptual processing actively hides something, just as [[filter-theory|filter theory]] predicts. **The subject is not essential to experience**—if the zero-person perspective is genuinely experiential, selfhood is an addition to consciousness, not its foundation. And **multiple edges exist**: different practices approach different boundaries—ego, content, [[witnessing-void|witnessing]], [[transit-void|transition]], [[smoothness-and-continuity|continuity]], [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|scale]], [[recursion-void|recursion]], [[mapping-mind-space|mind-space]], [[death-void|death]]—each with distinct phenomenology.
 
 ## The Apophatic Connection
 
