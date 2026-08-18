@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-08-18T07:40:38+00:00
+ai_modified: 2026-08-18T09:10:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -163,7 +163,7 @@ Buddhism offers a third path on the [[meaning-of-life|meaning of life]] between 
 
 ## Process Philosophy as Bridge
 
-Whitehead's [[process-philosophy]] bridges Buddhist and Map perspectives. Reality consists of momentary experiential events that arise, grasp their predecessors, and perish—strikingly resembling Buddhist *khaṇika-vāda* (momentariness). Both reject permanent substances in favour of process; Whitehead's "prehension" maps to Buddhist conditioned arising (*saṅkhāra*).
+Whitehead's [[process-philosophy]] bridges Buddhist and Map perspectives. Reality consists of momentary experiential events that arise, grasp their predecessors, and perish—strikingly resembling Buddhist *khaṇika-vāda* (momentariness). Both reject permanent substances in favour of process; Whitehead's "prehension" runs parallel to dependent origination (*pratītyasamutpāda*), though the analogy is selective and contested—prehension makes conditioning by predecessors an experiential grasping, which the Buddhist doctrine does not.
 
 The implication: Buddhist impermanence needn't threaten the Map's dualism. What's irreducible isn't a permanent conscious substance but the experiential aspect of each moment. Moment by moment, there is something it is like—and this something is not identical to physical description.
 
@@ -242,10 +242,9 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 1. Siderits, M. (2025). *Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*. Oxford University Press. DOI: 10.1093/9780197799697.001.0001.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
 1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Wong, D. (2024). "Comparative Philosophy: Chinese and Western." *Stanford Encyclopedia of Philosophy*.
-1. Lao Tzu. *Tao Te Ching*. Various translations.
-1. Shankara. *Brahma Sutra Bhashya*. Trans. Swami Gambhirananda. Advaita Ashrama.
+1. Shankara. *Brahma Sutra Bhashya* (c. 800 CE). Trans. Swami Gambhirananda. Advaita Ashrama.

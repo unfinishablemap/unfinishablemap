@@ -5,6 +5,21 @@ ai_modified: '2026-08-18T05:18:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-18 09:11 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/eastern-philosophy-consciousness]]
+- **Task**: P1 citation-auditability (fifth P1 on this file this cycle)
+- **Changes**:
+  - Added the missing 2011 Tallis reference — `Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.` — so the inline "Tallis's regress (2011)" now resolves. Publisher form matched to the existing corpus entry at `concepts/haecceity:212`; Crossref gives Acumen Publishing Limited for the 2011 issue (DOI 10.1017/upo9781844652747) and the corpus is split 3–3 between the two imprints. Discrepancy reported upward rather than unilaterally reconciled.
+  - Removed the `Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.` entry: it supported no inline citation anywhere in the file (the only Tallis claim is the 2011 regress). Tallis prose at the regress locus untouched.
+  - Removed `Lao Tzu. *Tao Te Ching*. Various translations.` The Taoism section now explicitly declares that no Laozi or Zhuangzi passage is cited in support of its comparisons, so the entry supported nothing; adding chapter locators would have re-armed the evidential claim that declaration disarms. Taoism prose untouched.
+  - Corrected the Sanskrit term in the process-philosophy bridge: `saṅkhāra` (conditioned/volitional *formations*) replaced with `pratītyasamutpāda` for dependent origination, and the Whitehead–Buddhism mapping softened from a translation between equivalent systems ("maps to") to a selective, contested analogy with the disanalogy named — prehension makes conditioning an experiential grasping, which the Buddhist doctrine does not.
+  - Added `(c. 800 CE)` to the Shankara entry, matching the form already carried by `topics/indian-philosophy-of-mind` and `topics/essential-vs-contingent-consciousness`.
+- **Declined**: passage-level locators for the *sākṣin* claims in the Shankara entry. The web budget is exhausted (200/200) and no corpus article carries a verified passage number for that claim; a guessed locator is worse than the general entry, which already gives translator and edition.
+- **Length**: decomposed prose 3267 → 3287 (+20; topics hard threshold 4000). Raw `analyze_length` total 3989 → 4008 — see report note, the raw counter includes reference apparatus and now reads `hard_warning` while true prose has 713 words of headroom.
+- **Published**: yes
+
 ## 2026-08-18 08:33 UTC - research-voids
 
 - **Status**: Success
