@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-17 15:59:00+00:00
+ai_modified: 2026-08-18 19:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[valence]]'
 created: 2026-06-18
-date: &id001 2026-06-18
+date: &id001 2026-08-18
 description: If felt value selects outcomes, which valence does the work—the anticipated
   kind that misforecasts experience, or the experienced kind that constitutes value?
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 18:37:14+00:00
-lastmod: 2026-08-17 15:59:00+00:00
+lastmod: 2026-08-18 19:53:10+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -89,7 +89,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally selects and selection is denominated in *anticipated* valence, the interaction is real but routed through a fallible predictor. The Map should not let this quietly narrow the tenet into near-epiphenomenalism of the *experienced* evaluative dimension—the same trap the parent fork tracks for its value-blind horn. Experienced valence keeps full causal standing as what constitutes value and as the calibration target; it is the predicted proxy, not the felt dimension, that does the moment-to-moment selecting.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A selection law reading off anticipated valence is no less minimal than one reading off attention. But if anticipated valence reduces to a reward-prediction-error or wanting computation, the value-blind steelman's parsimony advantage strengthens. The Map's reply must be the prior-commitments reply—reject illusionism, hold [phenomenal value realism](/topics/phenomenal-value-realism/)—not a parsimony contest it would lose, because by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the more-minimal predictive reading wins any contest decided on parsimony alone.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: A selection law reading off anticipated valence is no less minimal than one reading off attention. But if anticipated valence reduces to a reward-prediction-error or wanting computation, the value-blind steelman's parsimony advantage strengthens. The Map's reply must be the prior-commitments reply—reject illusionism, hold [phenomenal value realism](/topics/phenomenal-value-realism/)—not a parsimony contest it would lose. This tenet's minimality is an empirical constraint on the interaction rather than a truth-tracking test between readings, so it does not adjudicate that contest; whether parsimony can settle the matter is [Tenet 5](/tenets/#occams-limits)'s question, taken up below.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: This is the tenet that licenses declining the more-parsimonious pure-predictive-mechanism reading despite the forecasting evidence—but only if the decline is *argued*, not asserted. The gap is a genuine cost the value-sensitive horn must pay, and Tenet 5 permits paying it: simplicity is an unreliable guide where knowledge is incomplete, so the predictive reading's parsimony does not settle the matter. The argument, not the razor, carries the decline. The same tenet governs the report-latency material: the parsimonious reading of a null report is that there was nothing to report, and the anaesthesia gradient shows that inference failing at a measurable rate under controlled conditions, in a specific direction—it under-counts.
 

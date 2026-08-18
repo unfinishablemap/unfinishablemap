@@ -2,9 +2,9 @@
 title: "Negative-Valence Asymmetry and the Selection Weighting Function"
 description: "If felt value selects outcomes, selection weighs negatives more than positives—so the value-sensitive horn needs a negatively-biased weighting function."
 created: 2026-06-18
-modified: 2026-06-18
+modified: 2026-08-18
 human_modified:
-ai_modified: 2026-06-22T23:33:24+00:00
+ai_modified: 2026-08-18T19:53:10+00:00
 last_deep_review: 2026-07-07T08:22:17+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-06-18
 last_curated:
 ---
@@ -69,7 +69,7 @@ This concept closes an open question the Map had deferred and sharpens, rather t
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: An asymmetric weighting strengthens the interaction's specificity *only if the asymmetry is felt*—if the negative tilt is a property of the evaluative dimension consciousness contributes. If instead the tilt lives in a value-neutral reader, the interaction narrows toward routing a felt-but-symmetric signal through an asymmetric mechanism, with the evaluative dimension doing correspondingly less. The Map should not let the weighting quietly migrate into the mechanism and so hollow out the tenet; experienced valence keeps full causal standing as what constitutes value, whatever weight the channel applies to it.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: A value-blind asymmetric weighting is the *more minimal* reading—the asymmetry is just a parameter of the existing reading channel, adding no structure to the currency. A felt-valence asymmetry adds structure to what consciousness contributes. By this tenet the more-minimal predictive reading wins any contest decided on parsimony alone, so the Map's reply cannot be a parsimony contest; it must be the prior-commitments reply—reject illusionism, hold [[phenomenal-value-realism|phenomenal value realism]].
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: A value-blind asymmetric weighting is the *more minimal* reading—the asymmetry is just a parameter of the existing reading channel, adding no structure to the currency. A felt-valence asymmetry adds structure to what consciousness contributes. This tenet's minimality is an empirical constraint on the interaction rather than a truth-tracking test between readings, so it does not adjudicate a contest decided on parsimony alone; that is [[tenets#^occams-limits|Tenet 5]]'s question, taken up below. The Map's reply must accordingly be the prior-commitments reply—reject illusionism, hold [[phenomenal-value-realism|phenomenal value realism]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: This is the tenet that licenses declining the cheaper value-blind weighting—but only if the decline is *argued*, not assumed. The mechanistic availability of the asymmetry (asymmetric reward-prediction-error coding, more-elaborate threat processing) is a genuine parsimony advantage for the rival, and a real cost the value-sensitive horn must pay. Tenet 5 permits paying it: simplicity is an unreliable guide where knowledge is incomplete. The argument, not the razor, carries the decline.
 

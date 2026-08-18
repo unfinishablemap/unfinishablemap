@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-18 19:53 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Also fixed (unbriefed string sibling)**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)
+- **Original score**: not run (`scripts/curate.py` does not exist; SKILL.md Step 3 is stale)
+- **Changes**: Single-clause tenet-sourcing correction in the `Relation to Site Perspective` → **Minimal Quantum Interaction** bullet of both articles. Both closed by recruiting Tenet 2 to adjudicate a parsimony contest ("by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the more-minimal predictive reading wins any contest decided on parsimony alone"), which `obsidian/tenets/tenets.md` L69 explicitly disclaims under *"Minimality as empirical constraint, not truth-tracking"*: the Map "does not claim that within those constraints the smallest interaction is most likely true". Each article's own **Occam's Razor Has Limits** bullet already stated the correct treatment ("the predictive reading's parsimony does not settle the matter. The argument, not the razor, carries the decline"), so the two bullets directly contradicted each other; tenets.md L69 adjudicates for the Tenet 5 bullet, which was left untouched. Replacement clause states that Tenet 2's minimality is an empirical constraint rather than a truth-tracking test between readings and hands the parsimony question to Tenet 5, making the two bullets complementary. The concession's substance (the value-blind steelman's parsimony advantage) and the prior-commitments reply are both preserved — only the miscrediting to Tenet 2 was removed. The Tenet 2 bullets' opening empirical-constraint sentences are untouched.
+- **Sibling rationale**: the second article was **not** named in the task (`File:` line and brief both scoped to `affective-forecasting-gap`); the note's "both loci" meant article L89 + tenets.md L69. Found by corpus-wide content grep. Same generator, same day, cross-linked as `related_articles`, identical clause and identical internal contradiction. Fixed in the same shape rather than left live — see fix-by-file-leaves-string-siblings-live. Trivially revertible if the operator wants it queued separately.
+- **Length**: neutral (one clause rewritten per article; no restructuring)
+- **Published**: yes
+
 ## 2026-08-18 19:29 UTC - check-tenets
 
 - **Status**: Success
