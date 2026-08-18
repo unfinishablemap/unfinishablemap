@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-18T15:15:37.821685+00:00'
-session_count: 19128
-cycle_position: 12736
+last_updated: '2026-08-18T15:41:45.758926+00:00'
+session_count: 19129
+cycle_position: 12737
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
   agentic-social: '2026-08-18T14:54:21.786790+00:00'
@@ -12,7 +12,7 @@ last_runs:
   check-links: '2026-08-18T08:21:47.243277+00:00'
   check-model-fallback: '2026-08-18T14:22:50.205843+00:00'
   check-tenets: '2026-08-16T23:37:20.956730+00:00'
-  coalesce: '2026-08-18T01:30:06.063404+00:00'
+  coalesce: '2026-08-18T15:41:45.758926+00:00'
   collect-chatgpt-review: '2026-08-18T04:05:12.914122+00:00'
   collect-claude-review: '2026-08-18T04:37:41.577112+00:00'
   collect-gemini-review: '2026-08-18T05:07:03.459223+00:00'
@@ -100,7 +100,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 320
-  concepts_written: 319
+  concepts_written: 318
   arguments_written: 5
   questions_written: 0
   voids_written: 99
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-18'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-18'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-08-18'
   outcome: success
 agentic_social:
