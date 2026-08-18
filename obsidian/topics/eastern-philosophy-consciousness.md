@@ -200,8 +200,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[edge-states-and-void-probes]] — Minimal phenomenal experience and the zero-person perspective
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[lucid-dreaming-and-dualist-rendering]] — What lucid dreaming reveals about consciousness capabilities
-- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
-- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[contemplative-path]] — Apex article synthesizing contemplative traditions
 - [[interaction-problem-across-traditions]] — How five structural solution types recur across Eastern and Western traditions
