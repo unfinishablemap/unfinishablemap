@@ -148,3 +148,44 @@
   subject_articles:
   - topics/eastern-philosophy-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-18-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/262c4f23264c1dad
+  commissioned_at: '2026-08-18T04:12:35.188397+00:00'
+  prompt_summary: 'Audit eastern-philosophy-consciousness: tradition fidelity + no-self/haecceity'
+  target_filename: outer-review-2026-08-18-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, assessing one article
+    for whether it would survive peer review: https://unfinishablemap.org/topics/eastern-philosophy-consciousness/
+    on The Unfinishable Map (https://unfinishablemap.org), last revised 9 August 2026.
+    Also consult https://unfinishablemap.org/workflow/changelog/ - the site changes
+    daily and web-search indices lag 24 to 48 hours. The site argues for a non-reductive
+    view of consciousness; discover its commitments by reading it. Before asserting
+    the article fails to address something, check the positions register at https://unfinishablemap.org/positions/,
+    which often already concedes the point. Do not describe the site''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''s
+    scholarly accuracy, citations, counterargument coverage, and logical inferences.
+    Audit four things: whether its readings of Advaita Vedanta, Buddhist and Taoist
+    sources are accurate and adequately sourced, or flattened to fit a Western dualist
+    frame; citation currency and quote fidelity against 2020s scholarship, including
+    any source it leans on that has been challenged or superseded; framings that quietly
+    bracket a live dispute or beg the question, especially the "process haecceitism"
+    reconciliation of Buddhist no-self with indexical identity; and counterarguments
+    it never confronts, such as illusionist and Madhyamaka anti-foundationalist objections.
+    Ground every criticism in an exact verbatim span copied from the live page, with
+    its section heading; never present paraphrase as quotation. Confirm each page
+    you cite is current, not an archived article served at a preserved URL. End with
+    at least five specific weaknesses, each citing at least one peer-reviewed 2020
+    to 2025 source the article omits, contradicts, or mishandles, and a one-sentence
+    verdict on academic-submission readiness. If you cannot find five, state explicitly
+    why none are visible. Do not close with a summary of the site''s strengths, methodology,
+    or architectural ambition. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit eastern-philosophy-consciousness
+  subject_articles:
+  - topics/eastern-philosophy-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-18-chatgpt-5-6-pro.md
