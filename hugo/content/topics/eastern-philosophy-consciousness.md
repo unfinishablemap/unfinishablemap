@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-18 07:13:00+00:00
+ai_modified: 2026-08-18 07:40:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-08-18 07:13:00+00:00
+lastmod: 2026-08-18 07:40:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,13 +131,15 @@ Despite different starting points the three traditions converge on several claim
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is introspective illusion—threatens Buddhism's entire practical project. Two responses are usually offered, and they are not of equal strength.
+[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is introspective illusion—threatens Buddhism's entire practical project, and not only from outside it. Two responses are usually offered, and they are not of equal strength.
 
 The first is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems, so the illusion of suffering would require someone for whom the suffering seems. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([functional seeming](/concepts/functional-seeming/) is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why suffering is *undergone* for the question of why a self-model *represents* it as undergone, and that trade earns its keep only if the second question is tractable where the first was not. Buddhism marks the same distinction from its own side through *vijñāna*: awareness is treated as existing even where the self that owns it does not. Neither side closes the case against the other inside the rival's framework.
 
 The second response is independent of the regress, which is what makes it the more substantial of the two. Fox et al. (2012) showed meditation experience predicts introspective accuracy. The design was cross-sectional—practitioners differing in accumulated experience were compared with one another, and nobody was trained and retested—so it licenses claims about how phenomenal report varies with experience and none about what training produces. At that strength the observation still bites: more experienced meditators report finer phenomenal distinctions rather than the recognition that there was nothing there to distinguish, which is not the gradient one would most expect if closer looking dissolved the phenomenal. Two discounts follow. Selection could generate the gradient on its own, since practitioners whose introspective reports are already fine-grained are likelier to persist; and an illusionist can reply that what varies is the fidelity of quasi-phenomenal self-representation rather than access to anything phenomenal. What survives is a pattern the illusionist owes an account of, which the regress on its own never generates.
 
 Buddhism's own response is more subtle than either Western illusionism or realism. Madhyamaka emptiness applies to consciousness too—consciousness lacks inherent existence—but emptiness doesn't mean non-existence. Conventionally, consciousness exists and can be trained; ultimately, both consciousness and its objects are empty of independent essence.
+
+Buddhist materials can also be run the other way. Siderits (2025) asks whether non-self metaphysics supports a *Buddhist physicalism*, reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes the analysis already posits. The reconstruction is offered as exploratory—the title carries a question mark, and a chapter is spent assessing its plausibility—but it is assembled from Buddhist premises, which makes it a live countermodel rather than an outside objection. The no-self compatibility argument above therefore holds against one reading of the aggregate analysis, not against Buddhism as such—the scoping the article already enters, now owed to the physicalist reconstruction too.
 
 ## The Haecceity Tension
 
@@ -172,12 +174,12 @@ The implication: Buddhist impermanence needn't threaten the Map's dualism. What'
 ## What Would Challenge This View?
 
 1. **Contemplative phenomenology turns out to be unreliable**—meditators systematically disagree, or reports reflect cultural priming rather than perception. Currently, cross-tradition convergence supports reliability.
-2. **Illusionism explains contemplative reports** without positing genuine phenomenal access.
+2. **Illusionism explains contemplative reports** without positing genuine phenomenal access. Siderits (2025) develops this from inside the tradition.
 3. **Buddhist *anattā* necessarily extends to irreducibility**—requiring full reduction to functional processes, not just impermanence. The [detailed analysis](/concepts/buddhism-and-dualism/) argues otherwise.
-4. **Cessation states prove to be mere unconsciousness**—*nirodha samāpatti* shows the neural signature of ordinary unconsciousness rather than something distinctive.
+4. **Cessation states prove to be mere unconsciousness**—*nirodha samāpatti* shows the neural signature of ordinary unconsciousness rather than something distinctive. Yang, Kadambi et al. (2025) find consciousness ceasing on a distinctive regional profile rather than by global suppression, so the test does not fire; at N=3 and in preprint it settles little either way. It also guards less than it did, the cessation discussion above no longer resting filter theory on these states.
 5. **Process haecceitism collapses**—qualitative identity suffices for numerical identity, or meditators report loss of particularity alongside loss of substantial selfhood.
 
-None has occurred. The engagement remains productive.
+None has been decisively established, and that is three states rather than one. (2) faces a serious live countermodel: Siderits's physicalist reconstruction is assembled from Buddhist premises rather than imported against them, and nothing above refutes it. (4) turns on preprint evidence, N=3, too thin to settle the question either way. (1), (3) and (5) remain unresolved conceptual objections against which no observation has come in—weaker than having survived a test. The engagement remains productive on that reading, not the stronger one.
 
 ## Relation to Site Perspective
 
@@ -241,6 +243,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 1. Yang, W. F., Kadambi, A., Abellaneda-Perez, K., Mackin, G., Beslic, I., Potash, R., Sparby, T., & Sacchet, M. D. (2025). Endogenous suspension and reset of consciousness: 7T fMRI brain mapping of the extended cessation meditative endpoint. *bioRxiv* preprint (not peer-reviewed), N=3. DOI: 10.1101/2025.09.06.674021.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Siderits, M. (2025). *Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*. Oxford University Press. DOI: 10.1093/9780197799697.001.0001.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
 1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
