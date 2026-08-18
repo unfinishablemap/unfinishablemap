@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-08-06 00:58:00+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into Psychophysical Laws and Coupling
 archived: true
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-05 06:51:00+00:00
-lastmod: 2026-08-06 00:58:00+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /concepts/psychophysical-coupling/
 related_articles:
@@ -34,7 +34,7 @@ related_articles:
 - '[[psychophysical-coupling-problem-2026-01-15]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[princess-elizabeths-challenge]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[the-interface-specification-problem]]'
 superseded_by: /concepts/psychophysical-laws/
 title: Psychophysical Coupling

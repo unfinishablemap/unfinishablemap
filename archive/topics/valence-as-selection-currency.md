@@ -4,7 +4,7 @@ description: "How felt goodness and badness may function as the common metric by
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-08T15:28:32+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 last_deep_review: 2026-03-25T16:44:00+00:00
 draft: false
 archived: true
@@ -161,7 +161,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 - [[agent-teleology]] — Genuine purpose through conscious causation
 - [[topics/phenomenal-value-realism]] — Values grounded in phenomenal properties
 - [[attention-as-interface]] — The attentional channel through which selection operates
-- [[bandwidth-problem-mental-causation]] — The ~10 bits/second constraint on conscious selection
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The ~10 bits/second constraint on conscious selection
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia as evidence that valence does causal work
 
 ## References

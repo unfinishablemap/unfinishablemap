@@ -4,7 +4,7 @@ description: "The consciousness-brain interface transmits vast sensory informati
 created: 2026-03-18
 modified: 2026-04-20
 human_modified:
-ai_modified: 2026-08-08T15:29:42+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 last_deep_review: 2026-04-20T21:42:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[filter-theory]]"
   - "[[consciousness-selecting-neural-patterns]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[access-consciousness]]"
   - "[[phenomenal-overflow]]"
   - "[[epiphenomenalism]]"
@@ -96,7 +96,7 @@ The asymmetric bandwidth concept connects to all five tenets. **[[tenets#^dualis
 ## Further Reading
 
 - [[bandwidth-of-consciousness]] — Full exploration of the bandwidth constraint and its philosophical implications
-- [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — Whether 10 bits/second suffices for complex behaviour
 - [[inverted-qualia]] — Qualitative-side companion argument disciplined by the same outbound channel
 - [[filter-theory]] — The filter/transmission model that accommodates the asymmetry naturally
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism operating within the outbound channel

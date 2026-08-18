@@ -4,7 +4,7 @@ description: "Conscious processing operates at ~10 bits/second while the brain h
 created: 2026-02-09
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-03T05:41:00+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[motor-selection]]"
   - "[[baseline-cognition]]"
   - "[[interactionist-dualism]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
@@ -180,7 +180,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[quantum-neural-timing-constraints]] — Timing constraints on quantum consciousness mechanisms
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism in detail
-- [[bandwidth-problem-mental-causation]] — The specification challenge: can 10 bits/second carry enough information for complex behaviour?
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The specification challenge: can 10 bits/second carry enough information for complex behaviour?
 - [[mental-causation]] — The philosophical problem of mental-to-physical causation and the Map's quantum response
 - [[conservation-laws-and-mind]] — Energy conservation and why selection without injection respects physics
 - [[downward-causation]] — The broader framework for consciousness influencing physical outcomes

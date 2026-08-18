@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-08 15:28:32+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Psychophysical Laws and Coupling
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-09 16:26:00+00:00
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /concepts/selection-laws/
 related_articles:
@@ -65,7 +65,7 @@ A complete selection law would answer:
 - Measurement basis selection
 - Collapse timing
 
-**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons). The [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) explores this constraint in depth.
+**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons). The [bandwidth architecture of consciousness](/concepts/consciousness-bandwidth-architecture/) explores this constraint in depth.
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
@@ -161,7 +161,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — The general framework for higher-level causes affecting lower-level processes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [the-interface-specification-problem](/topics/the-interface-problem/) — Epistemic challenges of specifying the mind-matter interface
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Formal approaches to the control relationship
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail

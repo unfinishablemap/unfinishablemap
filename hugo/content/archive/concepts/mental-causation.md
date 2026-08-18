@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-02 09:05:29+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Mental Causation and Downward Causation
 archived: true
@@ -32,7 +32,7 @@ concepts:
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
 - '[[observational-closure]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 created: 2026-01-15
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-24 22:09:00+00:00
-lastmod: 2026-08-02 09:05:29+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /concepts/mental-causation/
 related_articles:
@@ -242,7 +242,7 @@ Mental causation, as defended here, is falsifiable:
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain: phenomenal character inseparable from causal power
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics

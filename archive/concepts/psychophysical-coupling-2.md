@@ -4,7 +4,7 @@ description: "The lawful relationship binding conscious states to physical proce
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-08-06T00:58:00+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 archived: true
 archived_date: 2026-03-15T08:40:00+00:00
@@ -30,7 +30,7 @@ related_articles:
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[princess-elizabeths-challenge]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[the-interface-specification-problem]]"
 ai_contribution: 100
 author:

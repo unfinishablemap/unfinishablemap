@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-08-08 15:28:32+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Valence and the Mechanism of Conscious Selection
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-25 16:44:00+00:00
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/valence-as-selection-currency/
 related_articles:
@@ -165,7 +165,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 - [agent-teleology](/concepts/agent-teleology/) — Genuine purpose through conscious causation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in phenomenal properties
 - [attention-as-interface](/concepts/attention-as-interface/) — The attentional channel through which selection operates
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work
 
 ## References

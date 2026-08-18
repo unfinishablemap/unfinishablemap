@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-02T09:05:29+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T05:21:00+00:00
@@ -39,7 +39,7 @@ concepts:
   - "[[delegatory-dualism]]"
   - "[[preemption]]"
   - "[[observational-closure]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
 related_articles:
@@ -239,7 +239,7 @@ Mental causation, as defended here, is falsifiable:
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation
 - [[cross-cultural-convergence-on-mental-causation]] — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
-- [[bandwidth-problem-mental-causation]] — Whether the mind-body channel carries enough information
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — Whether the mind-body channel carries enough information
 - [[pain-consciousness-and-causal-power]] — Pain: phenomenal character inseparable from causal power
 - [[content-specificity-of-mental-causation]] — Meaning determines which physical effect occurs
 - [[quantum-consciousness]] — How consciousness interfaces with physics

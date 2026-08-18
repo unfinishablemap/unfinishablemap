@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-03
-ai_modified: 2026-08-08 15:28:32+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -9,7 +9,7 @@ archived_date: 2026-03-04 13:22:00+00:00
 author: null
 concepts:
 - '[[attention-as-interface]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[phenomenal-overflow]]'
 - '[[access-consciousness]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-03 04:42:00+00:00
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/asymmetric-bandwidth-of-consciousness/
 related_articles:
@@ -130,7 +130,7 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 ## Further Reading
 
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and the interface model in detail
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
 - [perception-and-conscious-experience](/topics/dualist-perception/) — Perceptual richness and what it reveals about consciousness
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of conscious selection
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among quantum possibilities

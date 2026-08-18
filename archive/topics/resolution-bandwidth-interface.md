@@ -4,14 +4,13 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-04-07T11:37:00+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
   - "[[attention-and-the-consciousness-interface]]"
 concepts:
-  - "[[bandwidth-problem-mental-causation]]"
   - "[[consciousness-bandwidth-architecture]]"
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
@@ -143,7 +142,7 @@ The interface interpretation would face serious difficulty if:
 
 - [[resolution-void]] — The epistemic side: what consciousness cannot access
 - [[bandwidth-of-consciousness]] — The empirical bandwidth data and its implications
-- [[bandwidth-problem-mental-causation]] — The causal side: whether the channel suffices for behaviour
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The causal side: whether the channel suffices for behaviour
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[attention-as-interface]] — Attention as the primary vehicle of conscious selection
 - [[baseline-cognition]] — What the brain achieves without conscious involvement

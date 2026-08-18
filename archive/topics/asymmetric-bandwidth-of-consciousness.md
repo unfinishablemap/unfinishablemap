@@ -4,14 +4,14 @@ description: "Consciousness receives ~10⁹ bits/s from the senses but influence
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-08-08T15:28:32+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[attention-as-selection-interface]]"
 concepts:
   - "[[attention-as-interface]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[phenomenal-overflow]]"
   - "[[access-consciousness]]"
@@ -126,7 +126,7 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 ## Further Reading
 
 - [[neural-bandwidth-constraints-and-the-interface]] — The empirical bandwidth data and the interface model in detail
-- [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — Whether 10 bits/second suffices for complex behaviour
 - [[perception-and-conscious-experience]] — Perceptual richness and what it reveals about consciousness
 - [[attention-as-interface]] — Attention as the mechanism of conscious selection
 - [[concepts/consciousness-selecting-neural-patterns]] — How consciousness selects among quantum possibilities

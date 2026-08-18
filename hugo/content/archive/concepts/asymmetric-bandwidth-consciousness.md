@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-08-08 15:29:42+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Consciousness Bandwidth Architecture
 archived: true
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[filter-theory]]'
 - '[[consciousness-selecting-neural-patterns]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[access-consciousness]]'
 - '[[phenomenal-overflow]]'
 - '[[epiphenomenalism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-20 21:42:00+00:00
-lastmod: 2026-08-08 15:29:42+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /concepts/asymmetric-bandwidth-consciousness/
 related_articles:
@@ -100,7 +100,7 @@ The asymmetric bandwidth concept connects to all five tenets. **[Dualism](/tenet
 ## Further Reading
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Full exploration of the bandwidth constraint and its philosophical implications
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
 - [inverted-qualia](/concepts/inverted-qualia/) — Qualitative-side companion argument disciplined by the same outbound channel
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model that accommodates the asymmetry naturally
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism operating within the outbound channel

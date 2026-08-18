@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-03 05:41:00+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -18,7 +18,7 @@ concepts:
 - '[[motor-selection]]'
 - '[[baseline-cognition]]'
 - '[[interactionist-dualism]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[downward-causation]]'
 created: 2026-02-09
 date: &id001 2026-02-24
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-03 05:41:00+00:00
-lastmod: 2026-03-03 05:41:00+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/neural-bandwidth-constraints-and-the-interface/
 related_articles:
@@ -184,7 +184,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The specification challenge: can 10 bits/second carry enough information for complex behaviour?
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The specification challenge: can 10 bits/second carry enough information for complex behaviour?
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of mental-to-physical causation and the Map's quantum response
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and why selection without injection respects physics
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for consciousness influencing physical outcomes

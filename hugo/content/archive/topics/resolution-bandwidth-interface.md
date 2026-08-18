@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-07 11:37:00+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
 archived_date: 2026-04-12 12:57:00+00:00
 author: null
 concepts:
-- '[[bandwidth-problem-mental-causation]]'
 - '[[consciousness-bandwidth-architecture]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
@@ -24,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-07 11:37:00+00:00
-lastmod: 2026-04-07 11:37:00+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/resolution-bandwidth-interface/
 related_articles:
@@ -147,7 +146,7 @@ The interface interpretation would face serious difficulty if:
 
 - [resolution-void](/voids/resolution-void/) — The epistemic side: what consciousness cannot access
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and its implications
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The causal side: whether the channel suffices for behaviour
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The causal side: whether the channel suffices for behaviour
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary vehicle of conscious selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement

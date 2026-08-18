@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-08-08 15:28:32+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-7
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -9,7 +9,6 @@ archived_date: 2026-04-19 05:38:00+00:00
 author: null
 concepts:
 - '[[consciousness-bandwidth-architecture]]'
-- '[[bandwidth-problem-mental-causation]]'
 - '[[filter-theory]]'
 - '[[interface-friction]]'
 - '[[attention-as-interface]]'
@@ -24,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-19 03:38:00+00:00
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/the-ten-bit-ceiling/
 related_articles:
@@ -43,7 +42,7 @@ topics:
 
 The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2025 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
 
-This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) and [the bandwidth architecture of consciousness](/concepts/consciousness-bandwidth-architecture/); the mental-causation implications are developed in [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/). Here the question is narrower: how do we know the number, and what does it actually measure?
+This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), and [the bandwidth architecture of consciousness](/concepts/consciousness-bandwidth-architecture/) takes up both the two-channel picture and the mental-causation implications. Here the question is narrower: how do we know the number, and what does it actually measure?
 
 ## Measuring a Mind in Bits
 
@@ -130,8 +129,7 @@ The Map treats the ten-bit figure as one of several convergent structural signat
 ## Further Reading
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The broader asymmetry between inbound sensory throughput and outbound volitional throughput
-- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The two-channel view of the mind-brain interface
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — How coarse conscious intentions produce fine-grained physical effects
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The two-channel view of the mind-brain interface, and how coarse conscious intentions produce fine-grained physical effects
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model of consciousness
 - [interface-friction](/concepts/interface-friction/) — The phenomenology of the ceiling from the inside
 - [the-interface-specification-problem](/topics/the-interface-problem/) — Programme for specifying the interface formally

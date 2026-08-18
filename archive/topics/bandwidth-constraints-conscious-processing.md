@@ -4,7 +4,7 @@ description: "The ~10 bits/second ceiling doesn't merely limit consciousness—i
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T03:51:00+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 draft: false
 topics:
   - "[[bandwidth-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[consciousness-bandwidth-architecture]]"
-  - "[[bandwidth-problem-mental-causation]]"
   - "[[baseline-cognition]]"
   - "[[access-consciousness]]"
   - "[[global-workspace-theory]]"
@@ -103,8 +102,7 @@ The [[filter-theory|filter model]] accommodates this naturally. If consciousness
 ## Further Reading
 
 - [[bandwidth-of-consciousness]] — The empirical bandwidth data and the selection model
-- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The 100-million-fold inbound/outbound asymmetry
-- [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The 100-million-fold inbound/outbound asymmetry, and whether 10 bits/second suffices for complex behaviour
 - [[working-memory]] — The workspace where conscious processing operates
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention

@@ -4,7 +4,7 @@ description: "Seventy years of Shannon-calibrated behavioural measurements conve
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-08-08T15:28:32+00:00
+ai_modified: 2026-08-18T02:24:30+00:00
 last_deep_review: 2026-04-19T03:38:00+00:00
 draft: false
 topics:
@@ -13,7 +13,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[consciousness-bandwidth-architecture]]"
-  - "[[bandwidth-problem-mental-causation]]"
   - "[[filter-theory]]"
   - "[[interface-friction]]"
   - "[[attention-as-interface]]"
@@ -39,7 +38,7 @@ original_path: "/topics/the-ten-bit-ceiling/"
 
 The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2025 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
 
-This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [[bandwidth-of-consciousness]] and [[consciousness-bandwidth-architecture|the bandwidth architecture of consciousness]]; the mental-causation implications are developed in [[bandwidth-problem-mental-causation]]. Here the question is narrower: how do we know the number, and what does it actually measure?
+This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [[bandwidth-of-consciousness]], and [[consciousness-bandwidth-architecture|the bandwidth architecture of consciousness]] takes up both the two-channel picture and the mental-causation implications. Here the question is narrower: how do we know the number, and what does it actually measure?
 
 ## Measuring a Mind in Bits
 
@@ -126,8 +125,7 @@ The Map treats the ten-bit figure as one of several convergent structural signat
 ## Further Reading
 
 - [[bandwidth-of-consciousness]] — The broader asymmetry between inbound sensory throughput and outbound volitional throughput
-- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The two-channel view of the mind-brain interface
-- [[bandwidth-problem-mental-causation]] — How coarse conscious intentions produce fine-grained physical effects
+- [[consciousness-bandwidth-architecture|Consciousness Bandwidth Architecture]] — The two-channel view of the mind-brain interface, and how coarse conscious intentions produce fine-grained physical effects
 - [[filter-theory]] — The transmission/filter model of consciousness
 - [[interface-friction]] — The phenomenology of the ceiling from the inside
 - [[the-interface-specification-problem]] — Programme for specifying the interface formally

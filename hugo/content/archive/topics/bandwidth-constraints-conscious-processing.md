@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 03:51:00+00:00
+ai_modified: 2026-08-18 02:24:30+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
@@ -12,7 +12,6 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[consciousness-bandwidth-architecture]]'
-- '[[bandwidth-problem-mental-causation]]'
 - '[[baseline-cognition]]'
 - '[[access-consciousness]]'
 - '[[global-workspace-theory]]'
@@ -30,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-06 03:51:00+00:00
-lastmod: 2026-04-06 03:51:00+00:00
+lastmod: 2026-08-18 02:24:30+00:00
 modified: *id001
 original_path: /topics/bandwidth-constraints-conscious-processing/
 related_articles:
@@ -107,8 +106,7 @@ The [filter model](/concepts/filter-theory/) accommodates this naturally. If con
 ## Further Reading
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and the selection model
-- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry
-- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
+- [Consciousness Bandwidth Architecture](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry, and whether 10 bits/second suffices for complex behaviour
 - [working-memory](/concepts/working-memory/) — The workspace where conscious processing operates
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention
