@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-08-18T06:40:00+00:00
+ai_modified: 2026-08-18T06:56:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] provides the methodological framework for integrating contemplative insights with neuroscience (see also [[contemplative-practice-as-philosophical-evidence]]). Key findings from trained contemplatives:
 
-**Cessation experiences**: *Nirodha samāpatti*—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory.
+**Cessation experiences**: *Nirodha samāpatti*—the meditative endpoint at which perception and feeling cease—can be entered voluntarily, and 7T fMRI mapping of extended cessation (Yang, Kadambi et al. 2025, preprint, N=3) finds it arriving through regional modulation rather than a global shutdown: unimodal regions increase in activity while transmodal cortex, subcortex and brainstem down-regulate. The investigators classify the state as one in which consciousness is volitionally *suspended*, and conclude that consciousness can cease without global suppression—a result they read as pressing on Global Neuronal Workspace and integrated information theory while favouring active inference. Nothing stronger is available here. Residual regional activity during a state its own investigators classify as unconscious does not show consciousness continuing independently of neural activity, so the finding constrains theories predicting a specific global signature for unconsciousness rather than supporting filter theory.
 
 **Minimal phenomenal experience**: Awareness without subject-object structure—non-conceptual, atemporal, yet vividly present—suggests awareness is more fundamental than any particular form it takes. See [[edge-states-and-void-probes|The Phenomenology of the Edge]].
 
@@ -129,7 +129,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 The first is Tallis's regress (2011)—for something to *seem* a certain way, there must be a subject to whom it seems, so the illusion of suffering would require someone for whom the suffering seems. But the bare regress assumes the seeming is itself phenomenal, precisely what illusionists deny, and it proves nothing: a representational system need not instantiate what it represents ([[functional-seeming|functional seeming]] is Frankish's account of how). The substantive pressure sits on the relocation move instead—the illusionist has traded the question of why suffering is *undergone* for the question of why a self-model *represents* it as undergone, and that trade earns its keep only if the second question is tractable where the first was not. Buddhism marks the same distinction from its own side through *vijñāna*: awareness is treated as existing even where the self that owns it does not. Neither side closes the case against the other inside the rival's framework.
 
-The second response carries the weight here, because it is independent of the regress. Fox et al. (2012) showed meditation experience predicts introspective accuracy. If phenomenal consciousness were illusion, training should eventually *dissolve* it. Instead, training *refines* phenomenal access—meditators report increasingly subtle distinctions, not recognition that there was nothing there. An illusionist can reply that what improves is the fidelity of quasi-phenomenal self-representation rather than access to anything phenomenal, so this is evidential pressure rather than proof—but it is pressure the illusionist owes an account of, which the regress on its own never generates.
+The second response is independent of the regress, which is what makes it the more substantial of the two. Fox et al. (2012) showed meditation experience predicts introspective accuracy. The design was cross-sectional—practitioners differing in accumulated experience were compared with one another, and nobody was trained and retested—so it licenses claims about how phenomenal report varies with experience and none about what training produces. At that strength the observation still bites: more experienced meditators report finer phenomenal distinctions rather than the recognition that there was nothing there to distinguish, which is not the gradient one would most expect if closer looking dissolved the phenomenal. Two discounts follow. Selection could generate the gradient on its own, since practitioners whose introspective reports are already fine-grained are likelier to persist; and an illusionist can reply that what varies is the fidelity of quasi-phenomenal self-representation rather than access to anything phenomenal. What survives is a pattern the illusionist owes an account of, which the regress on its own never generates.
 
 Buddhism's own response is more subtle than either Western illusionism or realism. Madhyamaka emptiness applies to consciousness too—consciousness lacks inherent existence—but emptiness doesn't mean non-existence. Conventionally, consciousness exists and can be trained; ultimately, both consciousness and its objects are empty of independent essence.
 
@@ -233,6 +233,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
 1. Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.
+1. Yang, W. F., Kadambi, A., Abellaneda-Perez, K., Mackin, G., Beslic, I., Potash, R., Sparby, T., & Sacchet, M. D. (2025). Endogenous suspension and reset of consciousness: 7T fMRI brain mapping of the extended cessation meditative endpoint. *bioRxiv* preprint (not peer-reviewed), N=3. DOI: 10.1101/2025.09.06.674021.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
