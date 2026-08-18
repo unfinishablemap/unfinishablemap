@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T11:52:00+00:00'
+ai_modified: '2026-08-18T13:11:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-18'
-lastmod: 2026-08-18 11:52:00+00:00
+lastmod: 2026-08-18 13:11:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-18 13:11 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/)
+- **Task**: P2, Issues 4–7 from [pessimistic-2026-08-18-assessing-ai-consciousness](/reviews/pessimistic-2026-08-18-assessing-ai-consciousness/). Every locus in the task note had moved, because a sibling P1 rewrote the file 90 minutes earlier; the driver supplied a re-verified locus map (`:61→:63`, `:93→:97`, `:99→:103`, `:125→:134`, `:149→:158`, `:157→:166`) and all six were re-confirmed on disk before editing.
+- **Word count**: decomposed prose 4845 → 4928 (**+83 of a 152-word budget, 69 spare**); Source Articles apparatus unchanged at 111; raw 4956 → 5039. Apex thresholds printed from `THRESHOLDS`: soft 4000 / hard 5000 / critical 6500. Prose sits **72 words under the hard threshold**; the raw figure crosses 5000 only because it counts the Source Articles reference apparatus, which is the reference-inflated false over-length the decomposition is the correct lens for. **No condense task minted** — the driver forbade making room that way, and none was needed.
+- **Budget discipline**: four of the seven edits were word-neutral or near-neutral by design (the two verb swaps, the "three→four" recount, the Seth "only as" fix), which is why the substantive P-AC4 work fit comfortably. Nothing was dropped for budget.
+- **(4) P-AC4 absent from the piece — the substantive issue, three loci.** P-AC4 is the AI register's **only** position with `framework-internal only: no`, grade B, credence high, empirical discriminability *direct*; every other AI position is grade D / framework-internal / indirect. The register says it *complements* P-AC1 by localising the low-probability verdict to the **phenomenal** side. Two of the three loci therefore contradicted the best-evidenced thing the Map holds about AI:
+  - `:97` — "it is not a report from inside" → "it is not a report **on phenomenal experience, whatever access-level workspace states it may report on** ([P-AC4](/positions/ai-consciousness-scope/))". The flat original denies the access-side signatures the register affirms; the scoped version keeps the argument (verbal self-report is not phenomenal evidence) while conceding what was demonstrated.
+  - `:134` — Recommendation 4's dismissal of LLM-consciousness studies scoped to the phenomenal question, then balanced: "on the *phenomenal* question they produce comparatively little… **The deprioritisation is of phenomenal-verdict studies specifically: interpretability work on LLM workspaces is how the register acquired P-AC4, its best-evidenced AI position.**" The original flatly deprioritised a study genre that in fact produced the register's strongest AI evidence (Gurnee et al. 2026, J-space). Reads *with* the sibling P1's new preceding sentence about interface requirements being "plausibly satisfiable", not against it.
+  - `:166` — enumeration extended: "…P-AC3 (copy-counting under closed individualism), **and P-AC4, which records that current LLMs exhibit the workspace-like signatures of access consciousness and localises this piece's verdict to the *phenomenal* side.**"
+- **(5) Unlocated quotes at `:158` — locatability only, both quotes verbatim and NOT de-quoted.** Added Seth: *Behavioral and Brain Sciences* 2025, DOI `10.1017/S0140525X25000032`; and IIT: Tononi & Koch 2015, *Phil. Trans. R. Soc. B* 370:20140167 — the IIT quote previously named no author at all, in a neighbourhood carrying full arXiv IDs for Butlin and Long.
+- **(6) Lead undercounted dependencies at `:63`.** "three positions" → "**four**", with P-Q3 named: "and P-Q3 (the bias-without-deviation dilemma, which discounts the verdict rather than supporting it; [flagged below](#cascade-flags))". The cascade-flags section already gave P-Q3 a full dependency and `apex_positions_cited` already listed it; the lead is the truncation-resilience surface, so the undercount mattered there most. Anchor form matches the article's existing `[above](#where-the-substrate-analysis-is-open)` pattern.
+- **(7) Over-firm attribution verbs.** `:103` Butlin rendered "concludes"/"finds" → "**suggests**"/"**also suggests**", mirroring the source's own construction exactly. `:158` Seth "becoming plausible **only** as" → "becoming **more** plausible as" (word-neutral).
+- **Citations — all three verified independently at primary source, none taken on the review's word** (memory: a prior review can ratify a corrupted quote, so aggregator agreement is not verification): Seth via **Crossref REST** — sole author Anil K. Seth, *Behavioral and Brain Sciences*, issued 2025-04-21, abstract grepped raw: `"unlikely along current trajectories"` **1 hit**, `"becomes more plausible"` **1 hit**, `"only as"` **0 hits** (independently confirming Issue 7's over-firm rendering). Tononi & Koch via **Crossref** for metadata (370(1668):20140167, 2015-05-19) plus **Europe PMC** for the phrase, using a **control-pair query first** (DOI search → hitCount 1, PMC4387509) so the index was proven to reach the work *before* any absence question; the phrase was then extracted **two independent ways** — raw `grep -oic` on the full-text XML (1 hit) and a tag-stripped plaintext re-extraction — yielding *"…even if they were to run faithful simulations of the human brain, would experience next to nothing."* Butlin via the **arXiv API over HTTPS**: `grep -oic "conclude"` → **0**, `"suggests"` → **2**, source construction "Our analysis suggests that no current AI systems are conscious, but also suggests that there are no obvious technical barriers…".
+- **Engagement with Butlin/Birch and with Seth/IIT: unchanged, no reclassification.** The verb swaps are citation-fidelity fixes, not changes to how the article engages either opponent; the dependency-asymmetry argument at `:158` was left fully intact and only had locators inserted.
+- **Scope fence honoured — no sibling-P1 locus reopened.** The diff is exactly seven lines (six body + the `ai_modified` stamp), and hunk headers confirm only `:7 :63 :97 :103 :134 :158 :166` moved. Spot-checked byte-intact: the per-class channel-test verdicts and the "raw indeterminacy present, interface requirements failed three of five" demotion; Recommendation 4's *retargeting* (only its LLM clause was scoped); the `:158` dependency-asymmetry rewrite; the interface-eligibility debt disclosure; and the mechanism-debt disclosure at `:71`/`:139`.
+- **Published**: yes
 
 ## 2026-08-18 12:41 UTC - refine-draft
 
