@@ -53,17 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: From `/check-tenets` 2026-08-18. **All three driver-verified on disk by content-grep, not by line number** (the first had already drifted one line from the review's figure). A named structural class: the body gets strengthened or hedged, and the tenet-alignment summary bullet is left carrying the older, stronger claim. These summary lines are **the corpus's least-reviewed high-exposure surface** — see navigation-surfaces-carry-unreviewed-claims. **(1) `topics/eastern-philosophy-consciousness` L188** (Dualism bullet): *"The illusionist challenge gains no traction because Buddhism takes experience seriously enough to train it systematically."* But **L182**, rewritten the same day, states *"(2) faces a serious live countermodel: Siderits's physicalist reconstruction is assembled from Buddhist premises"*, and **L177** records that Siderits (2025) *"develops this from inside the tradition."* Note the bullet's reason does not even engage illusionism, which **grants** the systematic training and denies the phenomenal reading. **(2) `topics/consciousness-and-cognitive-distinctiveness` L190** (Occam bullet): puzzles *"the threshold and creativity evidence resolves"* — against **L133**: *"The Map should say plainly that it cannot defeat the second and third readings from comparative data."* Its Tenet 3 sibling at L184 was updated in the same pass; this one was not. **(3) `apex/what-consciousness-tells-us-about-physics` L236** claims *"Apparent complexity in the ontology yields genuine simplification in the explanatory structure"* for the Map's own ontology, without Tenet 5's symmetric caveat — and `tenets.md` L69 is explicit that Tenet 5's self-binding *"applies to parsimony arguments for or against the framework"*. **FIX SHAPE**: bring each bullet into line with its own body; do not weaken the bodies, which are correct. **Length-neutral.** **MIRROR**: edit obsidian, `uv run python scripts/sync.py`, grep both trees.
 - **Source**: check-tenets
 
-### P2: Adopt panpsychism calibration in eastern-philosophy-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eastern-philosophy-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-08-18. The topic article over-claims relative to its anchor concept [panpsychism](/concepts/panpsychism/); failed checks: hedge_density, strong_assertions.
-  - hedge density 1.89/kw is below 3.00/kw (target = 60% of anchor 5.86/kw, capped at 3.0/kw)
-  - strong-assertion density 0.84/kw exceeds 1.5× anchor (0.26/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-08-18
-
 ### P3: the per-class quantum-hardware substrate verdict is load-bearing for an apex funding recommendation and is registered nowhere in `positions/`
 
 - **Type**: positions-evolve
@@ -2772,6 +2761,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-18: Adopt panpsychism calibration in eastern-philosophy-consciousness
+- **Type**: refine-draft
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-08-18. The topic article over-claims relative to its anchor concept [panpsychism](/concepts/panpsychism/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.89/kw is below 3.00/kw (target = 60% of anchor 5.86/kw, capped at 3.0/kw)
+  - strong-assertion density 0.84/kw exceeds 1.5× anchor (0.26/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-08-18: `concepts/affective-forecasting-gap` uses Tenet 2 for the truth-tracking work Tenet 2 explicitly disclaims
 - **Type**: refine-draft
