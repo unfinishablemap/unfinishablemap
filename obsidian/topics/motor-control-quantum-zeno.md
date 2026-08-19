@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience levels t
 created: 2026-02-22
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-08-16T14:27:36+00:00
+ai_modified: 2026-08-19T21:40:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[von-neumann-wigner-interpretation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-07-26T23:02:58+00:00
@@ -65,10 +65,10 @@ The extension rests on Rizzolatti's premotor theory of attention (PMTA): attenti
 
 The parallel runs deeper than shared anatomy. Willed attention and willed motor action share:
 
-- **Timing**: ~280-300ms deployment for voluntary engagement versus ~100ms for automatic responses (Thura & Cisek 2014)
-- **Neural signatures**: Frontal theta oscillations distinguish willed from instructed action in both domains (Schwartz, Stapp & Beauregard 2005)
+- **Timing**: Close in magnitude but differently anchored—~300ms post-cue deployment for voluntary attention in humans, versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989); ~280ms before movement onset for motor commitment in monkeys (Thura & Cisek 2014)
+- **Neural signatures**: Frontal theta power is greater for willed than for instructed attention—a relative increase from ~500ms post-cue, not an all-or-none signature (Rajan et al. 2019)
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
-- **Bidirectional coherence**: Willed states produce bidirectional frontoparietal communication, suggesting genuine deliberation rather than feedforward execution (Schwartz, Stapp & Beauregard 2005)
+- **Bidirectional coherence**: Willed attention shows greater bidirectional frontoparietal coherence than instructed—again a relative increase—suggesting genuine deliberation rather than feedforward execution (Rajan et al. 2019)
 
 If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
 
@@ -100,7 +100,7 @@ One clarification keeps this from proving too much. Schurger's accumulator—lik
 
 ## A Candidate Mechanism: Quantum Zeno Stabilisation
 
-The neuroscience above identifies *where* consciousness could intervene—at the competitive selection threshold—but does not specify *how*. Henry Stapp's quantum Zeno proposal, building on the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] and on the [[quantum-zeno-effect|quantum Zeno effect]] as a piece of established physics, offers one candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action.
+The neuroscience above identifies *where* consciousness could intervene—at the competitive selection threshold—but does not specify *how*. Henry Stapp's quantum Zeno proposal (Schwartz, Stapp & Beauregard 2005; Stapp 2007), building on the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] and on the [[quantum-zeno-effect|quantum Zeno effect]] as a piece of established physics, offers one candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action.
 
 On this model, multiple competing motor programs exist as neural states that would naturally evolve and dissipate. By rapidly "observing" the desired program—attending to the intended action—consciousness prevents that program from decaying, giving it a sustained advantage in the threshold-crossing competition. The mechanism does not require consciousness to inject energy into the brain. On Stapp's reading, the relevant observation shapes which state actualises by selecting among existing possibilities rather than by adding energy. This is an interpretive commitment, not a plain consequence of the formalism: quantum projection is not in general energy-conserving, and "observation" in physics ordinarily denotes a physical measurement coupling rather than an agent's attention. That the selection can be made to respect conservation laws is therefore part of what the interpretation must argue (see [[conservation-laws-and-mental-causation]]), not a free consequence of quantum mechanics. Nor does the mechanism require sustained quantum coherence across large brain regions. Each observation event is rapid; what consciousness sustains is the *rate* of observation, not a coherent quantum state. See [[quantum-neural-timing-constraints]] for the timing hierarchy and [[decoherence]] for responses to the coherence objection.
 
@@ -153,7 +153,9 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+1. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330. https://doi.org/10.1037/0096-1523.15.2.315
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. https://doi.org/10.1093/cercor/bhy149
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.

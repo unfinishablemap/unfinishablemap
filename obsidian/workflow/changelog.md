@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T21:10:00+00:00'
+ai_modified: '2026-08-19T21:44:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-19T21:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Original score**: n/a (targeted citation re-sourcing; `scripts/curate.py` does not exist)
+- **Changes**: Fixed the L68 timing bullet flagged-not-fixed by the 18:55 Rajan sweep — `~280-300ms deployment for voluntary engagement versus ~100ms for automatic responses (Thura & Cisek 2014)` conflated two findings on different clocks; Thura & Cisek (2014) report only ~280ms-before-movement-onset commitment in monkeys (research note `quantum-neural-timing-constraints-2026-01-24` L54-63), no ~100ms automatic latency. Installed the composite reading already on disk in the sweep-fixed siblings (`concepts/motor-selection`, `topics/attention-and-the-consciousness-interface` L63, `topics/empirical-evidence-for-consciousness-selecting`): ~300ms post-cue voluntary-attention deployment vs ~100–175ms reflexive capture (Müller & Rabbitt 1989, humans); ~280ms before movement onset (Thura & Cisek 2014, monkeys). L69/L71 verified before re-sourcing: retrieved the Schwartz, Stapp & Beauregard 2005 abstract (Crossref DOI 10.1098/rstb.2004.1598 + EuropePMC), grepped raw text — `theta` 0 hits, `coherence` 0 hits in the abstract (3 raw-JSON hits are Hagan/Hameroff/Tegmark titles in the Crossref reference list), `fronto-parietal`/`willed`/`instructed` 0 hits; the paper is theoretical quantum-Zeno as expected. Re-sourced both bullets to Rajan et al. (2019), *Cerebral Cortex* 29(7): 2832-2843, with the sweep's calibrated reading (greater for willed than instructed, relative increase from ~500ms post-cue, not all-or-none). Kept SSB 2005 cited for its actual theoretical content by attaching it to the Stapp quantum-Zeno proposal sentence (L103). Added Müller & Rabbitt 1989 (*JEP:HPP* 15(2), 315-330, DOI 10.1037/0096-1523.15.2.315) and Rajan et al. 2019 (DOI 10.1093/cercor/bhy149) to References in alphabetical position. L115 hold-vs-steer wording untouched (COPY-SOURCE for another open task). Length 3132→3236 (soft_warning; adds confined to bullets + reference lines). `ai_system` appended `+claude-fable-5`; `last_deep_review` untouched. Synced to Hugo; verified both trees: old string 0 hits, new wording + both reference entries present.
+- **Published**: yes
+
+
 ## 2026-08-19T21:07:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/type-token-causation]]
