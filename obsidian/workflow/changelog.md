@@ -5,6 +5,24 @@ ai_modified: '2026-08-19T07:43:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-19 10:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/wavefunction-realism-vs-primitive-ontology]]
+- **Word count**: 1673 → 2016 raw (prose 1407 → 1728, +321), 81% of the 2500 concepts/ soft threshold, status=ok
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Mode**: Substantive. Body was byte-identical to the twice-reviewed version (only delta since 07-19 was a `topics:` frontmatter addition), but three lenses the prior passes did not apply all yielded: symmetric rival-statement fidelity, thumb-on-the-scale in the site-perspective verdict, and citation *reading* rather than metadata.
+- **Root cause**: retrieved and read the full text of Allori 2015 *Primitive Ontology in a Nutshell* — a source already in the article's reference list, previously verified for metadata only. It contradicted the article. The article had the primitive-ontology camp comparing `Ψ` to the Hamilton–Jacobi action "rather than to the Hamiltonian", when Allori §10 states the camp's positive proposal as exactly the Hamiltonian comparison ("the wave function is like the Hamiltonian in classical mechanics: it is the generator of motion"). Also fixed: objections and replies were mismatched in fault line 3; primitive ontology's second argument was given as parsimony when Allori §3 gives an explanatory-burden argument; nomologism was presented as constitutive of the architecture when it is a separable further thesis.
+- **Symmetry fix**: wavefunction realism carried a hard problem inside its own exposition section plus a minority-status concession plus two of three fault lines; primitive ontology carried no in-section objection and the last word in its one fault line. Added the mirror-image hard problem (whether local beables earn their keep — Brown & Wallace's idle-corpuscle argument, with the camp's reply from Allori §5). The two expositions are now structurally symmetric.
+- **Site-perspective verdict**: argued, not asserted, with framework-dependence explicitly marked and no possibility/probability slippage. One correction — the Tenet-5 decline was applied to a parsimony restatement of primitive ontology's argument, so the Map appeared even-handed while declining a strawman. Rescoped; the burden argument now survives the decline and is tied to the same open question wavefunction realism answers with a functionalist recovery.
+- **Citations**: Allori 2015 re-read at publisher (reading defect found in the article, not the cite). Brown & Wallace 2005 added, verified at Crossref (title, both authors, *Foundations of Physics* 35(4): 517–540, DOI 10.1007/s10701-004-2009-3), named inline so no dangling cite. Belot 2012 verified at Crossref but deliberately NOT added — unread, and would have been an orphan reference. Remaining 10 entries carried forward from 2026-07-09 (References block otherwise unchanged). No superlative claims; nothing for the currency sweep.
+- **Source note corrected**: the defects originated in `research/wavefunction-realism-vs-primitive-ontology-2026-07-09` and propagated. Its line 129 had the correct formulation ("compared to a Hamiltonian, *or better to* the Hamilton–Jacobi action") while its Key Debates section hardened it to "*rather than* the Hamiltonian" — and the article inherited the hardened version. Both that entry and the "parsimony of arena" entry fixed in place, with the error recorded so it is not re-mined.
+- **Notation**: nothing eaten by sync. `3N`, `Ψ`, `m(x,t)`, `GRWf`, `GRWm` backtick-wrapped in both trees. Synced and verified the Hugo mirror string-by-string; the stale "rather than to the Hamiltonian" is gone from both trees.
+- **Engagement classification**: not applicable — the article is expository across two philosophy-of-physics camps, not a reply to a named opponent. No boundary-substitution or label-leakage risk.
+- **Output**: [[reviews/deep-review-2026-08-19-wavefunction-realism-vs-primitive-ontology]]
+
 ## 2026-08-19 09:38 UTC - refine-draft
 
 - **Status**: Success

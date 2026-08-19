@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-19 10:16:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-09
-date: '2026-07-09'
+date: '2026-08-19'
 draft: false
-lastmod: 2026-07-09 00:00:00+00:00
+lastmod: 2026-08-19 10:16:30+00:00
 related_articles: []
 title: Research Notes - Wavefunction Realism versus Primitive Ontology
 ---
@@ -134,7 +135,7 @@ This is a debate inside philosophy of physics about what quantum mechanics is *f
 - **Key arguments**:
   - *Empirical contact is in 3D*: measurements, pointers, records, and observers are all arrangements of matter in ordinary space; a theory must have local beables in 3D to make contact with evidence (the "primitive ontology is where the theory meets the world" thesis).
   - *Common-structure unification* (Allori et al. 2008): Bohm and GRW look like rival interpretations but share one architecture — matter in spacetime governed by `Ψ` — which is evidence the architecture is the right level of description.
-  - *Parsimony of arena*: no need to posit a vast high-dimensional physical space; keep spacetime and demote `Ψ` to lawhood.
+  - *Explanatory burden on a non-3D arena* (Allori 2015 §3): if matter fundamentally lives in a space of dimension other than 3, the theory owes an extra account of why we take ourselves to live in a 3D world when we do not. This — not parsimony — is the argument doing the work. A thinner *parsimony of arena* appeal (keep spacetime, demote `Ψ` to lawhood, avoid a vast new high-dimensional space) usually travels alongside it, but it is the weaker strand and should not be presented as the camp's main argument.
 - **Relation to site tenets**: Shared-ground; congenial to single-world realism (both Bohm and GRW are single-world, no branching) — aligns with Tenet 4. For a consciousness-selection interface (Tenets 2 and 3), this camp implies that what an interface would select among is a *local beable* in 3D — which particle configuration is actual, or where/whether a flash occurs (the GRW collapse events are an especially natural hook for a "minimal quantum interaction" story, since GRW already posits stochastic localisation events).
 
 ## Key Debates
@@ -153,7 +154,7 @@ This is a debate inside philosophy of physics about what quantum mechanics is *f
 ### Is the nomological view of `Ψ` coherent?
 - **Sides**: Primitive-ontology theorists (yes — `Ψ` is like a law) vs. critics.
 - **Core disagreement**: A classical Hamiltonian is fixed by the laws and does not vary contingently, whereas the wavefunction depends on contingent initial/boundary conditions and evolves in time — so how can it be a *law*?
-- **Nomological-camp responses**: (a) compare `Ψ` to the Hamilton–Jacobi *action* rather than the Hamiltonian, since the action too depends on initial conditions and lives in configuration space; (b) appeal to a unique *wavefunction of the universe* (from quantum gravity / Wheeler–DeWitt) to remove the contingency, so the universal `Ψ` is effectively fixed and law-like.
+- **Nomological-camp responses**: (a) the positive proposal *is* the Hamiltonian comparison — `Ψ` is the generator of motion (Allori 2015: "the wave function is like the Hamiltonian in classical mechanics") — with the Hamilton–Jacobi *action* added as a further classical precedent for a nomological object that depends on initial conditions and lives in configuration space. NOTE: this is a complement to the Hamiltonian analogy, not a replacement for it; an earlier "rather than the Hamiltonian" phrasing here was wrong and had propagated into the article. (b) contingency and controllability are answered by distinguishing the *effective* wavefunction of a subsystem from the *universal* wavefunction; (c) the separate objection from time-evolution is answered by the suggestion that the universal `Ψ` would be static in a quantum cosmology (Wheeler–DeWitt).
 - **Current state**: Ongoing; a recognised soft spot the programme actively defends.
 
 ## Historical Timeline

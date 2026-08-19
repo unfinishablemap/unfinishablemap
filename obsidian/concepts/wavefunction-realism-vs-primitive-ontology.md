@@ -4,7 +4,7 @@ description: "Human-AI exploration of quantum foundations' deepest ontology disp
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
+ai_modified: 2026-08-19T10:16:30+00:00
 draft: false
 topics:
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -13,10 +13,10 @@ concepts: []
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-07-19T19:23:09+00:00
+last_deep_review: 2026-08-19T10:16:30+00:00
 ---
 
 Wavefunction realism and primitive ontology are the two leading answers to a question that sits beneath every interpretation of quantum mechanics: what is the theory *fundamentally about*? Both camps are realist, both take the formalism seriously, and both are represented by first-rate philosophers of physics. They divide over the status of the wavefunction `Ψ` and, with it, the number of dimensions in fundamental reality. **Wavefunction realism** (David Albert, Alyssa Ney, Barry Loewer, Jill North) holds that `Ψ` is a real physical field living on a `3N`-dimensional configuration space, and that ordinary three-dimensional space is derivative. **Primitive ontology** (Detlef Dürr, Sheldon Goldstein, Nino Zanghì, Valia Allori, Roderich Tumulka, following John Bell) holds the reverse: the fundamental furniture is matter *in* ordinary 3D/4D spacetime, and `Ψ` is not a physical object at all but a law-like ("nomological") entity that governs how that matter moves.
@@ -39,9 +39,11 @@ The primitive-ontology program inverts the priorities. Its root is Bell's distin
 - **GRW-flash (`GRWf`)**: a sparse, discrete set of spacetime "flashes" — a point-pattern in spacetime, marking where spontaneous collapses are centered.
 - **GRW-matter-density (`GRWm`)**: a continuous matter-density field `m(x,t)` on ordinary 3D space.
 
-In every case the wavefunction is *nomological*: a law-like entity that choreographs the primitive ontology rather than being physical stuff itself. Allori, Goldstein, Tumulka and Zanghì's "common structure" result is the program's centerpiece — Bohm and GRW look like rival interpretations, but they share one architecture (matter in spacetime governed by `Ψ`), which the authors take as evidence that this is the right level of description. Configuration space, on this reading, is a mathematical bookkeeping device, not a place.
+In every case `Ψ` is a *non-primitive* variable: whatever else it is, it does not represent matter, and its job is to generate the histories of the primitive ontology. Most of the program's architects take the further step of reading `Ψ` as *nomological* — a law-like entity that choreographs the primitive ontology rather than being physical stuff itself — but that step is separable from the architecture, and other readings of a non-primitive `Ψ` (a property of the particles; a useful mathematical device) are live inside the same framework. Allori, Goldstein, Tumulka and Zanghì's "common structure" result is the program's centerpiece — Bohm and GRW look like rival interpretations, but they share one architecture (matter in spacetime, governed by non-primitive variables), which the authors take to be the general explanatory schema of fundamental physical theories, classical ones included. Configuration space, on this reading, is a mathematical bookkeeping device, not a place.
 
-Two arguments drive the program. First, *empirical contact happens in 3D*: measurements, records, and observers are arrangements of matter in ordinary space, so a theory needs local beables there to make contact with evidence at all — the primitive ontology is "where the theory meets the world." Second, *parsimony of arena*: keep the one spacetime we already have and demote `Ψ` to lawhood, rather than positing a vast new high-dimensional physical space.
+Two arguments drive the program. First, *empirical contact happens in 3D*: measurements, records, and observers are arrangements of matter in ordinary space, so a theory needs local beables there to make contact with evidence at all — the primitive ontology is where the theory meets the world. Second, an *explanatory burden* falls on any rival arena: if matter fundamentally inhabits a space of some dimension other than three, the theory owes a further account of why we take ourselves to live in a three-dimensional world when we do not. A thinner parsimony-of-arena appeal — keep the one spacetime we already have rather than posit a vast new high-dimensional physical space — usually travels alongside it, but the explanatory burden is the argument doing the work.
+
+The program has a hard problem of its own, and it is the mirror image of the wavefunction realist's: whether the local beables earn their keep. Brown and Wallace argue that in Bohmian mechanics the branching structure of the wavefunction already accounts for everything observers report, which would leave the particles an idle wheel riding on a story that is complete without them. Primitive ontologists answer that the beables are what the predictions are *about* — macroscopic behavior can be compared directly against matter, whereas the non-primitive variables are only ever observed through their effects on it.
 
 ## The Core Dispute
 
@@ -51,7 +53,7 @@ Three fault lines organize the disagreement.
 
 **The macro-object / "marvelous point" problem.** This is the sharpest pressure on wavefunction realism: can a field on `3N`-dimensional space genuinely *yield* three-dimensional objects, or does it only *simulate* their behavior? The phrase "marvelous point" is Albert's own term of art (from his earlier Bohmian picture, in which the entire physical content of the universe rides on a single point moving through configuration space); it is used here as his terminology, not as a chapter heading. Critics press whether the functionalist recovery delivers real 3D entities or merely structures that behave as if there were some. This remains the central live objection.
 
-**Is the nomological view of `Ψ` coherent?** A classical Hamiltonian is fixed by the laws and does not vary contingently, whereas the wavefunction depends on contingent initial conditions and evolves in time — so how can it be a *law*? The program answers in two ways: compare `Ψ` to the Hamilton–Jacobi *action* (which also depends on initial conditions and lives in configuration space) rather than to the Hamiltonian; or appeal to a unique *wavefunction of the universe* from quantum gravity (Wheeler–DeWitt), whose contingency arguably washes out, leaving the universal `Ψ` effectively law-like. This is a recognized soft spot the program actively defends.
+**Is the nomological view of `Ψ` coherent?** The program's positive proposal is that `Ψ` is like the Hamiltonian of classical mechanics — the generator of motion rather than a piece of the furniture — with the Hamilton–Jacobi *action*, which likewise depends on initial conditions and lives in configuration space, supplying a further classical precedent for a nomological object of that shape. Against it: a law is supposed to be static and universal, whereas `Ψ` evolves in time, varies from subsystem to subsystem, and can be prepared at will in a laboratory. The replies come apart. Contingency and controllability are met by distinguishing the *effective* wavefunction of a subsystem, which is indeed ours to manipulate, from the *universal* wavefunction, which is neither; the objection from time-evolution is met by the suggestion that in a quantum cosmology the universal `Ψ` would be static, as a Wheeler–DeWitt equation carrying no time parameter would have it. This is a recognized soft spot the program actively defends.
 
 ## Relation to Site Perspective
 
@@ -62,7 +64,7 @@ The two ontologies answer differently, and the difference bears on the tenets:
 - **On wavefunction realism**, the interface would act on structure in `3N`-dimensional configuration space — a location or amplitude structure, the "marvelous point" writ large. Because a single universal `Ψ` evolving unitarily is congenial to the Everett/many-worlds picture (see [[many-worlds|The Many-Worlds Interpretation]]), this reading sits in **tension with Tenet 4** (no many-worlds; indexical identity matters). The tension is real but not decisive: wavefunction realism is separable from Everett and can be paired with collapse or hidden variables.
 - **On primitive ontology**, the interface would select among *local beables* in 3D — which particle configuration is actual, or where and whether a flash occurs. Both Bohm and GRW are single-world theories, so this reading **aligns with Tenet 4**. The GRW flash is a particularly natural hook for **Tenet 2** (minimal quantum interaction): a `GRWf` theory already posits sparse, discrete, stochastic localization events, so a minimal consciousness-linked influence would have a ready-made place to act — biasing where or when a flash occurs rather than adding new dynamics.
 
-None of this favors dualism over physicalism; it only says that *should* the Map's interface hypothesis be pursued, primitive ontology offers a more congenial substrate than wavefunction realism does. Consistent with **Tenet 5** (Occam's razor has limits), the Map declines to let the mere simplicity of one arena over another decide the matter — parsimony of dimensions is exactly the kind of simplicity judgment that is unreliable when the underlying physics is incomplete. The honest position is that the ontology question is open, and that the Map has a framework-relative stake in how it resolves, not a proof that turns on it.
+None of this favors dualism over physicalism; it only says that *should* the Map's interface hypothesis be pursued, primitive ontology offers a more congenial substrate than wavefunction realism does. Consistent with **Tenet 5** (Occam's razor has limits), the Map declines to let the mere simplicity of one arena over another decide the matter — parsimony of dimensions is exactly the kind of simplicity judgment that is unreliable when the underlying physics is incomplete. Declining it settles less than it may appear to, because the primitive ontologist's stronger argument is the explanatory burden a non-3D fundamental space incurs, and that is the same live question the wavefunction realist answers with a functionalist recovery. The honest position is that the ontology question is open, and that the Map has a framework-relative stake in how it resolves, not a proof that turns on it.
 
 ## Further Reading
 
@@ -79,6 +81,7 @@ None of this favors dualism over physicalism; it only says that *should* the Map
 1. Allori, V., Goldstein, S., Tumulka, R. & Zanghì, N. (2008). "On the Common Structure of Bohmian Mechanics and the Ghirardi–Rimini–Weber Theory." *British Journal for the Philosophy of Science* 59: 353–389. https://philpapers.org/rec/ALLOTC
 1. Allori, V. (2015). "Primitive Ontology in a Nutshell." *International Journal of Quantum Foundations* 1(3): 107–122. https://ijqf.org/wp-content/uploads/2015/03/IJQF-PO-in-a-Nutshell1.pdf
 1. Bell, J. S. (1975). "The Theory of Local Beables." *Epistemological Letters* 9; repr. in *Speakable and Unspeakable in Quantum Mechanics*, 2nd ed., Cambridge University Press (2004), ch. 7, pp. 52–62. https://www.cambridge.org/core/books/speakable-and-unspeakable-in-quantum-mechanics/theory-of-local-beables/9C7DD4DB3DAFDF3ABACAA6DCD7830D09
+1. Brown, H. R. & Wallace, D. (2005). "Solving the Measurement Problem: De Broglie–Bohm Loses Out to Everett." *Foundations of Physics* 35(4): 517–540. DOI 10.1007/s10701-004-2009-3. https://doi.org/10.1007/s10701-004-2009-3
 1. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *Journal of Statistical Physics* 67: 843–907. DOI 10.1007/BF01049004. https://link.springer.com/article/10.1007/BF01049004
 1. Ney, A. (2021). *The World in the Wave Function: A Metaphysics for Quantum Physics*. Oxford University Press. ISBN 9780190097714. https://global.oup.com/academic/product/the-world-in-the-wave-function-9780190097714
 1. Ney, A. & Albert, D. Z. (eds.) (2013). *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*. Oxford University Press. https://academic.oup.com/book/32659
