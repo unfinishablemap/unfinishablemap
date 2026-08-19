@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T15:58:00+00:00'
+ai_modified: '2026-08-19T16:47:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 15:58:00+00:00
+lastmod: 2026-08-19 16:47:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19T16:47:39+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Notation Void — whether some "unthinkables" are merely unnotated: external representational technology (numerals, algebraic symbolism, formal languages, scratchpads) moves the boundary of the thinkable, and consciousness cannot audit from inside which of its limits are notation-bound
+- **Category**: Mixed (Unexplored presenting as Unexplorable, with a structural horizon face)
+- **Output**: [voids-notation-void-2026-08-19](/research/voids-notation-void-2026-08-19/)
+- **Key finding**: Whitehead 1911 (verified at primary text), Dutilh Novaes 2012, Kirsh & Maglio 1994, Landy & Goldstone 2007 supply the historical and operative faces; Nye et al. 2021 (scratchpads) and Singh & Strouse 2024 (tokenisation) are the first controlled notation manipulations on a fixed mind; Schlimm & Neth 2008 and Chrisomalis 2026 (PNAS) block the Roman-numeral trope. Voids re-measured 99/100; note recommends the last slot is a human decision (cross-cutting methods void folds badly), NOT written into pending_articles; fold distribution given.
+
 
 ## 2026-08-19T15:58:00+00:00 - refine-draft
 - **Status**: Success
