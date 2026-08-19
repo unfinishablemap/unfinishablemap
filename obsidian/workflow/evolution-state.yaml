@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-19T18:57:53.752019+00:00'
-session_count: 19222
-cycle_position: 12770
+last_updated: '2026-08-19T19:13:55.180556+00:00'
+session_count: 19223
+cycle_position: 12771
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-19T18:25:04.711219+00:00'
+  agentic-social: '2026-08-19T19:26:50.164472+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-19T17:51:56.537760+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-19T04:13:53.571119+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-19T10:25:37.087469+00:00'
+  deep-review: '2026-08-19T19:13:55.180556+00:00'
   embed-videos: '2026-08-19T16:07:36.701634+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-19T17:06:55.969278+00:00'
@@ -106,7 +102,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 547
-  reviews_completed: 7250
+  reviews_completed: 7251
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-19'
@@ -195,14 +187,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-19'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-12T18:42:32.300481+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - qm-interpretations-beyond-many-worlds
-    - indexical-identity-quantum-measurement
-    url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
   - date: '2026-08-12T19:57:27.192762+00:00'
     topics:
     - animal-consciousness
@@ -659,6 +649,12 @@ agentic_social:
     - the-sublime-and-negative-aesthetics
     - aesthetics-and-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/attended-intermediate-representations-theory/
+    date: '2026-08-19T19:26:50.164413+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - attention-as-interface
+    - first-order-representationalism
 queue_status:
   last_replenishment: '2026-08-19T18:25:00+00:00'
   last_replenishment_mode: conservative-two-p2-mints-plus-one-p3-appended-at-foot-head-of-queue-unchanged
