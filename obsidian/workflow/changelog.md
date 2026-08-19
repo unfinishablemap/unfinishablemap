@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T07:43:24+00:00'
+ai_modified: '2026-08-19T14:42:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19T14:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/buddhist-perspectives-on-meaning]], [[concepts/haecceity]]
+- **Original score**: n/a (targeted coherence-inflation fix; `scripts/curate.py review` does not exist)
+- **Changes**: (1) `topics/buddhist-perspectives-on-meaning` Madhyamaka paragraph — removed the retired "irreducibility is a relation between descriptions at the conventional level" formulation (which also falsely attributed it to `concepts/buddhism-and-dualism`, where it was replaced on 2026-08-03); inherited the reconciled scope/status wording from `topics/eastern-philosophy-consciousness` — compatibility holds on the epistemic reading at the conventional level and is less than the Dualism tenet asserts; attribution repointed to both siblings. (2) `concepts/haecceity` objection block "Primitive thisness is inherent existence in disguise" — no longer presents the svabhāva objection as answered by non-eliminability; now concedes the reply only disposes of the soul-smuggling charge, inherits "relabelling the bearer leaves the Madhyamaka objection where it was" and "marks the cost rather than claiming a reconciliation" from `eastern-philosophy-consciousness`, and marks the indexical-question disagreement as bedrock. Related-reading blurb for `eastern-philosophy-consciousness` in haecceity changed from "resolves the Buddhist-dualist tension" to "meets … and what it leaves open" (navigation-surface label contradicted the sibling). Engagement with Madhyamaka: Mode Three at both loci (framework-boundary disagreement honestly noted; the in-framework reply reaches only the permanence/soul charge, not inherent existence generally). Synced; `grep -cF "relation between descriptions"` = 0 in both obsidian/ and hugo/content/ for both files. Lengths after edit: buddhist-perspectives 2797 (ok, topics 3000/4000); haecceity 2982 raw / ~2710 body excluding reference apparatus (soft warning, concepts 2500/3500; pre-existing). Out of scope, noted only: `archive/topics/eastern-metaphysics-integration.md:103` still carries the retired sentence (archived, preserved URL).
+- **Published**: yes
 
 ## 2026-08-19 10:16 UTC - deep-review
 

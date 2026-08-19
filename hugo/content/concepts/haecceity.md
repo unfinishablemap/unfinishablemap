@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-19 00:24:14+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-08-19 14:40:00+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/process-haecceitism/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-08-19 14:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,7 +167,7 @@ Contemplative evidence supports this. Advanced meditators who deconstruct the su
 
 **"Without substance, there's nothing to bear the haecceity"**: The process itself is the bearer. Events bear temporal properties without needing a substance—processes are ontologically respectable entities that can bear properties, including being *this* process.
 
-**"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka holds that nothing has *svabhāva* (inherent existence, Stepien 2021). But "primitive" need not mean "inherently existent." The particularity of *this* experiential process can be *dependently arisen*—arising from its causal history and conditions—while remaining irreducible to any qualitative description of those dependencies. Process haecceitism claims the indexical fact is not eliminable, not that it exists independently of all conditions.
+**"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka holds that nothing has *svabhāva* (inherent existence, Stepien 2021). "Primitive" need not mean "inherently existent"—the particularity of *this* experiential process can be *dependently arisen* from its causal history and conditions—and that disposes of the charge that haecceity smuggles in a soul. It does not answer the objection. Causal history individuates numerically, and the indexical question asks for more than that; if a primitive further fact fixes which process is mine, that fact does the work and "process" only names its bearer. Relabelling the bearer leaves the Madhyamaka objection where it was, since Madhyamaka's complaint was never about permanence specifically but about inherent existence generally. The Map holds the primitive fact and marks the cost rather than claiming a reconciliation: whether the indexical question has an answer at all is a bedrock disagreement, not one the Map refutes from inside Madhyamaka's own resources (see [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)).
 
 ## What Would Challenge This View?
 
@@ -199,7 +199,7 @@ Process haecceitism refines what the Map presupposes: personal identity is not p
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — How haecceity grounds which outcome *this* consciousness experiences
 - [pairing-problem](/concepts/pairing-problem/) — The haecceity response to Kim's challenge
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's metaphysics of events and becoming
-- [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Where process haecceitism resolves the Buddhist-dualist tension
+- [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Where process haecceitism meets the Buddhist-dualist tension, and what it leaves open
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The pattern-based view that process haecceitism rejects
 
 ## References

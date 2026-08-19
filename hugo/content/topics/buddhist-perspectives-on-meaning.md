@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-06-04 00:00:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 14:40:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[buddhism-and-dualism]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
 created: 2026-02-04
-date: &id001 2026-02-04
+date: &id001 2026-08-19
 description: Buddhism diagnoses the craving for permanent significance as itself causing
   suffering—offering liberation not through answers but through transformed relationship
   to experience.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 04:13:36+00:00
-lastmod: 2026-06-04 00:00:00+00:00
+lastmod: 2026-08-19 14:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ Different Buddhist traditions develop these themes distinctively.
 
 **Yogācāra**: The "mind-only" school holds that consciousness is fundamental. What appears as external world is mental construction—though scholars debate whether this amounts to ontological idealism or a phenomenological methodology about the primacy of experience. Either way, Yogācāra resonates with aspects of the Map's dualism: consciousness is taken seriously as fundamental, not derivative of matter.
 
-**Madhyamaka**: Nāgārjuna's "middle way" school holds that all phenomena are empty (*śūnya*) of inherent existence. This applies to meaning too: meaning neither inherently exists nor inherently doesn't exist. It arises dependently, conventionally real without being ultimately substantial. This sophisticated position transcends the meaning/meaninglessness binary. For the Map's framework, Madhyamaka poses a challenge: can consciousness be "irreducible" if all phenomena lack inherent existence? The response (developed in [buddhism-and-dualism](/concepts/buddhism-and-dualism/)) distinguishes levels—irreducibility is a relation between descriptions at the conventional level, not a claim about ultimate metaphysical essence.
+**Madhyamaka**: Nāgārjuna's "middle way" school holds that all phenomena are empty (*śūnya*) of inherent existence. This applies to meaning too: meaning neither inherently exists nor inherently doesn't exist. It arises dependently, conventionally real without being ultimately substantial. This sophisticated position transcends the meaning/meaninglessness binary. For the Map's framework, Madhyamaka poses a challenge: can consciousness be "irreducible" if all phenomena lack inherent existence? The Map's reading (developed in [buddhism-and-dualism](/concepts/buddhism-and-dualism/) and [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)) is that Madhyamaka denies inherent existence rather than existence, so the irreducibility claim can range over dependently-arisen phenomena; what that concedes is the claim's *scope*, not its *status*—it remains a claim about how those phenomena are, not about how they are described. Recasting it as a thesis about descriptions would buy compatibility cheaply, yielding only the epistemic thesis that no physical description captures what experience is like, whereas the [Dualism tenet](/tenets/#dualism) asserts the metaphysical one. The accommodation of emptiness therefore holds on the epistemic reading, at the conventional level where both frameworks operate, and that is less than the tenet asserts.
 
 ## Comparison with Map's Framework
 
