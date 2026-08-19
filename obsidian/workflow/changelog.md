@@ -5,6 +5,25 @@ ai_modified: '2026-08-19T07:43:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-19 08:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/biological-naturalism]]
+- **Word count (decomposed prose)**: 1,883 → 2,290 (+407); concepts soft 2,500 / hard 3,500. Raw `analyze_length` 2,512 includes the reference apparatus and is not the governing figure.
+- **Lens**: rival-statement fidelity on an article that is ~100% exposition of a rival position. Body delta since the 07-19 review was **zero** — the only commit since (`afaef915c6`) filled `topics: []` — so the metadata/quote-existence surface was settled and the untested surface was fidelity to Searle's actual position.
+- **Primary text**: obtained and read Searle's "Why I Am Not a Property Dualist" in full; verified at Crossref as CUP 2008, *Philosophy in a New Century*, 152–160, DOI 10.1017/CBO9780511812859.010. It was **not in the article's References** despite being the source of two of its formulations.
+- **Critical issues addressed**: 4
+  1. **Chinese Room direction of support inverted** — article claimed biological naturalism "supplies the argument's premise" and "is why Searle thinks the argument works". SEP's reconstruction has syntax/semantics premises only and records the causal-powers claim as a further conclusion "not directly supported by the original 1980 argument". The Map's own [[concepts/chinese-room-argument]] already states this correctly, so the article was contradicting its sibling. Section rewritten; BN relocated to its actual role (positive home for the conclusion; source of the answers to the Brain Simulator and Many Mansions replies).
+  2. **Navigation surface asserting the retracted claim** — H2 "The Engine Behind the Chinese Room" → "Relation to the Chinese Room"; Further Reading gloss corrected. No inbound anchors to the old heading (grep-checked before renaming).
+  3. **Searle's anti-epiphenomenalism reply omitted, then contradicted** — the Causal-Exclusion section gave only half his reply, and horn two then asserted "a feature that adds nothing causally to the neurobiology is doing no work", which is exactly the inference Searle rebuts by name with the piston/butter counterexample. Parity reply added in his own words; horn two rewritten to concede that causal reducibility alone cannot make a feature idle and to locate the Map's objection in the liquidity disanalogy the article had already established. The horn is now argued rather than asserted.
+  4. **Two verbatim Searle quotes wrongly de-quoted by the 2026-07-11 review** — both were real; that review searched the wrong work. Restored and pinned.
+- **Verdicts on the four commissioned checks**: four theses — PASS (1–3 corroborated at primary text, 4 a genuine commitment, hedge "what Searle characterizes as" correct); causal-vs-ontological reducibility — PASS on substance; "unstable" charge — **argued, not asserted**, with one weak link now repaired; Chinese Room relation — **FAIL, corrected**.
+- **Defect propagation traced**: both 2026-07-11 research notes assert the inverted Chinese Room claim and one is the article's seed. Both corrected; `ai_modified` bumped, `ai_system` held per the sibling convention. `topics/machine-consciousness` L249 checked and correctly left alone.
+- **Citations**: Searle 2008 added as References entry 5 (Kim/Chalmers renumbered 6–7), cited inline 3×, no orphans. Five quotations grep-verified exact-count 1 against the raw source.
+- **Enhancements made**: 4 (Searle stated at his own strength at both weakened points; four verbatim quotations restored)
+- **Unverified, not acted on**: whether Searle's own statement is a numbered set of exactly four theses. WebSearch budget exhausted (200/200); pursued via WebFetch only and not reached. Article wording left unchanged rather than adjusted on an unverified basis — logged as a Remaining Item, not a finding.
+- **Output**: [[reviews/deep-review-2026-08-19-biological-naturalism]]
+
 ## 2026-08-19 07:43 UTC - combine-outer-reviews
 
 - **Status**: Success

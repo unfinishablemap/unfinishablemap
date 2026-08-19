@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-11 11:23:08+00:00
+ai_modified: 2026-08-19 08:00:34+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-11
-date: '2026-07-11'
+date: '2026-08-19'
 draft: false
-lastmod: 2026-07-11 11:23:08+00:00
+lastmod: 2026-08-19 08:00:34+00:00
 related_articles: []
 title: Research Notes - Biological Naturalism
 ---
@@ -26,7 +26,7 @@ title: Research Notes - Biological Naturalism
 
 ## Executive Summary
 
-John Searle's **biological naturalism** is the position that consciousness is (a) *caused by* neurobiological processes in the brain, (b) *realized in* the brain as a higher-level system feature, (c) *ontologically irreducible* because it has a first-person (subjective) mode of existence, yet (d) *not* a distinct substance or property in the dualist sense and *not* eliminable or reducible in the physicalist sense. Searle's central move is to claim the traditional mind-body problem *dissolves* once we abandon the assumption that "mental" and "physical" name mutually exclusive categories: consciousness is a biological feature of the brain the way digestion is a feature of the stomach. The signature technical distinction is *causal reducibility without ontological reducibility* — brain processes fully cause consciousness (nothing else is going on causally), but consciousness cannot be redefined out of existence because a third-person redescription always leaves out the very first-person feature we were trying to explain. This is a **non-dualist rival** to the Map that sits *adjacent* to the Map's property-dualist neighbours: many critics (Chalmers, Corcoran, Nagel) argue biological naturalism *collapses into* property dualism in all but name, and it inherits the causal-exclusion tension (how does an irreducible higher-level feature do causal work without either overdetermining or being epiphenomenal?). Biological naturalism is also the philosophical engine behind Searle's Chinese Room argument and his rejection of Strong AI: only systems with the right *causal powers* (biological brains, or something causally equivalent) can produce consciousness. Searle died in 2025; this remains one of the most-discussed "irreducible-but-not-dualist" positions in philosophy of mind.
+John Searle's **biological naturalism** is the position that consciousness is (a) *caused by* neurobiological processes in the brain, (b) *realized in* the brain as a higher-level system feature, (c) *ontologically irreducible* because it has a first-person (subjective) mode of existence, yet (d) *not* a distinct substance or property in the dualist sense and *not* eliminable or reducible in the physicalist sense. Searle's central move is to claim the traditional mind-body problem *dissolves* once we abandon the assumption that "mental" and "physical" name mutually exclusive categories: consciousness is a biological feature of the brain the way digestion is a feature of the stomach. The signature technical distinction is *causal reducibility without ontological reducibility* — brain processes fully cause consciousness (nothing else is going on causally), but consciousness cannot be redefined out of existence because a third-person redescription always leaves out the very first-person feature we were trying to explain. This is a **non-dualist rival** to the Map that sits *adjacent* to the Map's property-dualist neighbours: many critics (Chalmers, Corcoran, Nagel) argue biological naturalism *collapses into* property dualism in all but name, and it inherits the causal-exclusion tension (how does an irreducible higher-level feature do causal work without either overdetermining or being epiphenomenal?). Biological naturalism is also the positive theory behind Searle's substrate-specific rejection of Strong AI: only systems with the right *causal powers* (biological brains, or something causally equivalent) can produce consciousness. It is not a premise of the Chinese Room argument itself, whose premises concern syntax and semantics. Searle died in 2025; this remains one of the most-discussed "irreducible-but-not-dualist" positions in philosophy of mind.
 
 ## Key Sources
 

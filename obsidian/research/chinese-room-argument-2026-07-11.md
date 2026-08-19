@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-07T14:18:00+00:00
+ai_modified: 2026-08-19T08:00:34+00:00
 ---
 
 # Research: The Chinese Room Argument
@@ -22,7 +22,7 @@ ai_modified: 2026-08-07T14:18:00+00:00
 
 This note feeds a downstream **expand-topic** task to create the canonical home for Searle's Chinese Room argument in `concepts/`. Distinctness was verified against existing live content before writing:
 
-- **`concepts/biological-naturalism.md`** (created this session) is Searle's *positive* theory of mind. It has a short section "The Engine Behind the Chinese Room" that *explicitly declines to re-argue the Chinese Room* ("This concept page does not re-argue the Chinese Room, which is a distinct argument with its own critics") and points forward to a dedicated treatment. The new page is that treatment. Biological naturalism supplies the *premise* (only systems with the right causal powers can have semantics); the Chinese Room is the *negative anti-Strong-AI application*. Keep the metaphysics on the biological-naturalism page; keep the thought experiment + replies here.
+- **`concepts/biological-naturalism.md`** (created this session) is Searle's *positive* theory of mind. It has a short section "Relation to the Chinese Room" that *explicitly declines to re-argue the Chinese Room* ("This concept page does not re-argue the Chinese Room, which is a distinct argument with its own critics") and points forward to a dedicated treatment. The new page is that treatment. The Chinese Room's own premises are about syntax and semantics, not biology; biological naturalism is the *positive home* Searle gives the negative conclusion and what he draws on in answering the replies (notably the Brain Simulator and Many Mansions replies). Substrate-specificity is a conclusion Searle reaches, not a premise he assumes. Keep the metaphysics on the biological-naturalism page; keep the thought experiment + replies here.
 - **`concepts/symbol-grounding-problem.md`** uses the Chinese Room as *background machinery* (Harnad 1990 drew the symbol-grounding problem out of Searle 1980) and already discusses the Robot Reply and Systems Reply *in service of grounding*, plus the Map's "Chinese Rooms at scale" LLM framing. The new page is the argument's home; it should own the full reply taxonomy and Searle's rejoinders, and symbol-grounding should cross-reference it rather than the reverse.
 - No `concepts/chinese-room*` or `topics/chinese-room*` file currently exists. `topics/chinese-philosophy-of-mind.md` is unrelated (Chinese philosophical traditions, not the thought experiment).
 
