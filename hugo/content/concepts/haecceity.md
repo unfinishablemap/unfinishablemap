@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-18 11:09:26+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -22,14 +22,14 @@ concepts:
 - '[[process-philosophy]]'
 - '[[parfit-reductionism]]'
 created: 2026-01-16
-date: &id001 2026-05-15
+date: &id001 2026-08-19
 description: The quality of being this particular conscious subject. Pattern-based
   theories cannot capture what makes you you rather than a qualitative duplicate.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-08-18 11:09:26+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -214,6 +214,6 @@ Process haecceitism refines what the Map presupposes: personal identity is not p
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 49, 871-893.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

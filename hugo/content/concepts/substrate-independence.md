@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-03 14:59:05+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[continual-learning-argument]]'
 created: 2026-01-19
-date: &id001 2026-02-02
+date: &id001 2026-08-19
 description: The thesis that consciousness depends on functional organization alone—and
   why the Map rejects it. Absent qualia, temporal structure, and quantum interface
   arguments challenge AI consciousness claims.
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:20:43+00:00
-lastmod: 2026-08-03 14:59:05+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,6 +235,7 @@ The overall framework provides resources for confident skepticism about current 
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turing, A. (1950). Computing Machinery and Intelligence. *Mind*, 59, 433-460.

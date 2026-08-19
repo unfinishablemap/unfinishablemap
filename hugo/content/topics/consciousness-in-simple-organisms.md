@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-05 22:12:37+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[working-memory]]'
 created: 2026-01-19
-date: &id001 2026-06-21 11:38:47+00:00
+date: &id001 2026-08-19
 description: 'From nematodes to slime molds: where does consciousness begin? The distribution
   puzzle may have no principled answer if mind interfaces with matter rather than
   emerging from it.'
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:33:01+00:00
-lastmod: 2026-08-05 22:12:37+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -316,6 +316,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 1-44.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.

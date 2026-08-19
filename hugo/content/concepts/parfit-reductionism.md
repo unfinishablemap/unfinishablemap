@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-08-03 14:39:31+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[agent-causation]]'
 - '[[indexical-knowledge-and-identity]]'
 created: 2026-01-17
-date: &id001 2026-01-20
+date: &id001 2026-08-19
 description: 'Parfit claims identity is just pattern continuity with no further fact.
   The Map rejects this: patterns don''t make choices; consciousnesses do.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 16:21:52+00:00
-lastmod: 2026-08-03 14:39:31+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,6 +167,6 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Chisholm, R. (1976). *Person and Object*. Open Court.
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.

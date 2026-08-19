@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-18 23:38:03+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -32,7 +32,7 @@ concepts:
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-01-09
-date: &id001 2026-08-18
+date: &id001 2026-08-19
 description: Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but
   at a level too coarse to select dualism over its rivals, and while challenging Western
   assumptions about permanent selfhood. The tension forces clarity about what dualism
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-08-18 23:38:03+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -257,7 +257,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 1. Siderits, M. (2025). *Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*. Oxford University Press. DOI: 10.1093/9780197799697.001.0001.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
 1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

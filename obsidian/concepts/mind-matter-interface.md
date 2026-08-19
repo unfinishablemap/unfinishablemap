@@ -2,9 +2,9 @@
 title: "The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection"
 description: "A two-layer architecture unifying filter theory and quantum selection. The brain transmits consciousness and provides interaction points."
 created: 2026-01-16
-modified: 2026-02-28
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -220,6 +220,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

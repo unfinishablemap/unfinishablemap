@@ -203,5 +203,5 @@ The framework would face serious difficulty if: (1) trained introspectors report
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2010). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.

@@ -2,9 +2,9 @@
 title: "Witness Consciousness"
 description: "Awareness that observes mental contents without identifying with them. The witness cannot become an object, revealing the subject-object structure of experience."
 created: 2026-01-18
-modified: 2026-01-20
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-18T12:10:08+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -230,7 +230,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. *Journal of Cognitive Neuroscience*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

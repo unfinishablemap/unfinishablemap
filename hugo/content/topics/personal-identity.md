@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[measurement-problem]]'
 created: 2026-01-08
-date: &id001 2026-01-20
+date: &id001 2026-08-19
 description: What makes you *you* across time? The Map emphasizes indexical identity—*this*
   conscious being matters, not just the pattern it instantiates.
 draft: false
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -231,7 +231,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
 1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

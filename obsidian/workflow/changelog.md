@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T00:14:00+00:00'
+ai_modified: '2026-08-19T00:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19 00:26 UTC - refine-draft
+
+- **Status**: Success
+- **Task**: Tallis reference sweep — reference lists and publisher field only. Prose word delta zero (measured: 42140 → 42140 across all 14 files, frontmatter and reference apparatus excluded).
+- **Scope note**: no prose rewritten; no quoted Tallis wording touched at any locus (settled by the 2026-08-03 family top-band pass, `93c1beed`); `ai_system` held unchanged on every file — a reference-list correction is not authoring.
+
+**Part 1 — dangling inline cites (4 fixed, not 3).** Each article cited Tallis's 2011 regress inline while its `## References` carried only the 2024 *Philosophy Now* entry. Verified by parsing each `## References` section structurally, not by grepping file text (the inline cite itself matches "Tallis…2011" and produces a false pass):
+
+- [[concepts/mind-matter-interface]] — inline `:154`
+- [[concepts/substrate-independence]] — inline `:134`
+- [[topics/consciousness-in-simple-organisms]] — inline `:191`, phrased "The regress…" in a bolded lead
+- [[voids/meta-epistemology-of-limits]] — inline `:98`, **fourth locus, not in the task brief**. Phrased `Tallis's (2011)` with no noun between name and year, so it is missed by `Tallis'?s? (regress|objection) \(2011\)` — the very pattern the brief prescribed as the fix for the narrow-grep hole. A structural parse of the References section is the only reliable detector.
+
+**2024 entry: kept on all four** (the brief's `eastern-philosophy-consciousness` precedent was to remove). Reason: these lists are not strictly cited-works lists — measured uncited-but-topical entries are 1/11, 2/16, 9/18 and 1/17 respectively, so removal would contradict each article's own convention. The 2024 piece is Tallis's own restatement of exactly the anti-illusionism regress each body runs, and carrying both Tallis works is an existing corpus pattern ([[concepts/semantic-memory]], [[concepts/witness-consciousness]]). Addition is reversible; deletion of a real, correct citation is not.
+
+**Part 2 — publisher normalisation, 10 loci Routledge → Acumen.** The brief's "exact tie" premise was false and its corrected figures are confirmed: Acumen 14 (13 plain + 1 "Acumen Publishing"), Routledge 10, neither 2. Crossref settles it independently — `10.1017/upo9781844652747` gives publisher **Acumen Publishing Limited**, monograph, issued 2011-06-30 — so Acumen is both publisher of record and corpus plurality. Normalised: [[arguments/many-worlds-argument]], [[concepts/haecceity]], [[concepts/parfit-reductionism]], [[concepts/philosophy-of-time]], [[concepts/prospective-memory]], [[concepts/semantic-memory]], [[concepts/witness-consciousness]], [[topics/eastern-philosophy-consciousness]], [[topics/personal-identity]], [[topics/time-collapse-and-agency]].
+
+**Final split** (obsidian and hugo article sections agree exactly): Acumen 27 + "Acumen Publishing" 1, **Routledge 0**, neither 1. Dangling-cite count 0.
+
+**Left untouched by design**: the serial-comma variants ([[concepts/knowledge-argument]], [[concepts/materialism]]) — punctuation harmonisation is a separate convention change; the "Acumen Publishing" long form ([[topics/phenomenology-of-intellectual-life]]); and the two non-reference loci ([[concepts/attention-schema-theory]] `:107` inline prose, [[concepts/philosophical-zombies]] `:243` Further Reading bullet with no publisher field). 18 residual `Aping Mankind…Routledge` strings in `hugo/content/` are confined to `reviews/` and `workflow/` — historical records echoing pre-fix wording, echo not defect.
+
+**Observed, not fixed (out of scope, flagged for the operator)**: [[concepts/phenomenology-of-choice-and-volition]] `:201` dates *Aping Mankind* to **2010**; the correct year is 2011 (Crossref: issued 2011-06-30). It is the only year-variant in the corpus. Not corrected here because the task was chartered to publisher field and dangling cites, and a year change is a factual edit worth its own pass.
+
+- **Files changed**: 14 articles + this changelog
+- **Published**: yes (synced to `hugo/content/`, mirror verified per-file)
 
 ## 2026-08-19 00:14 UTC - deep-review
 

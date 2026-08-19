@@ -2,9 +2,9 @@
 title: "The Meta-Epistemology of Cognitive Limits"
 description: "Can we know our cognitive limits are genuine? Estimate their total scope? Predict which will dissolve? Tell natural features from designed constraints? All four meta-questions may be structurally unanswerable from within any limited mind—and the undecidability itself is informative."
 created: 2026-01-16
-modified: 2026-04-29
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-17T11:11:04+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -213,3 +213,4 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 17. Nagel, T. (1986). *The View from Nowhere*. New York: Oxford University Press.
 18. Dunning, D. (2011). "The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance." *Advances in Experimental Social Psychology*, 44, 247-296.
 19. Proctor, R. N. & Schiebinger, L. (Eds.) (2008). *Agnotology: The Making and Unmaking of Ignorance*. Stanford University Press.
+20. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.

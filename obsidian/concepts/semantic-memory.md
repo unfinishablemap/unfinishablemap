@@ -2,9 +2,9 @@
 title: "Semantic Memory and Noetic Consciousness"
 description: "Factual knowledge has its own phenomenology: tip-of-the-tongue frustration, feeling of knowing, the qualitative character of understanding itself."
 created: 2026-01-17
-modified: 2026-01-20
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-16T21:27:18+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -218,7 +218,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 1. Zaman, A., Setton, R., Catmur, C., & Russell, C. (2024). What is autonoetic consciousness? Examining what underlies subjective experience in memory and future thinking. *Cognition*, 253, 105934.
 1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Journal of Cognitive Neuroscience*, 24(8), 1766-1778.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149-171.

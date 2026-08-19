@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-17 13:27:04+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 created: 2026-01-15
-date: &id001 2026-01-22
+date: &id001 2026-08-19
 description: 'A cumulative philosophical case against many-worlds: indexical identity,
   probability, preferred basis, and what branch-splitting means for consciousness.'
 draft: false
 human_modified: null
 last_curated: 2026-05-10
 last_deep_review: 2026-07-19 13:13:14+00:00
-lastmod: 2026-08-17 13:27:04+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -237,7 +237,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
 - Saunders, S., Barrett, J., Kent, A., and Wallace, D. (eds.). (2010). *Many Worlds?* Oxford University Press.
 - Sebens, C. T. and Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 - Tappenden, P. (2008). "Saunders and Wallace on Everett and Lewis." *British Journal for the Philosophy of Science*, 59(3), 307-314.
 - Tappenden, P. (2017). "Objective Probability and the Mind-Body Relation." *Studies in History and Philosophy of Modern Physics*, 57, 8-16.
 - Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron, or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245-261.

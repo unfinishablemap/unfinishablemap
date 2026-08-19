@@ -2,9 +2,9 @@
 title: "Time, Collapse, and Agency"
 description: "Free will, quantum collapse, and time's arrow interlink. If consciousness selects outcomes and collapse creates irreversibility, agency and time connect."
 created: 2026-01-16
-modified: 2026-01-20
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -254,7 +254,7 @@ The escalation must be made carefully, because two distinct claims are in play. 
 1. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/

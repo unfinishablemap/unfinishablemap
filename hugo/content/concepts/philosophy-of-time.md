@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-30 15:10:22+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[haecceity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-16
-date: &id001 2026-01-20
+date: &id001 2026-08-19
 description: A-theory versus B-theory, presentism, eternalism, and the growing block
   view. How consciousness may participate in constituting temporal structure.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -252,7 +252,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
 1. Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.

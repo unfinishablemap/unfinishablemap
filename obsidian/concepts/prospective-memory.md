@@ -2,9 +2,9 @@
 title: "Prospective Memory and Future-Oriented Consciousness"
 description: "Remembering to act in the future: how intentions persist and episodic future thinking shapes present decisions."
 created: 2026-01-17
-modified: 2026-01-20
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-06T23:24:16+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -206,7 +206,7 @@ Prospective memory and future-oriented consciousness bear on the five commitment
 1. Peters, J. & Büchel, C. (2010). Episodic future thinking reduces reward delay discounting through an enhancement of prefrontal-mediotemporal interactions. *Neuron*, 66(1), 138-148.
 1. Benoit, R.G., Gilbert, S.J., & Burgess, P.W. (2011). A neural mechanism mediating the impact of episodic prospection on farsighted decisions. *Journal of Neuroscience*, 31(18), 6771-6779.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114

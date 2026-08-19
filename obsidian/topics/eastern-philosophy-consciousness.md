@@ -2,9 +2,9 @@
 title: "Eastern Philosophy and Consciousness"
 description: "Hindu, Buddhist, and Taoist traditions agree that consciousness is irreducible—but at a level too coarse to select dualism over its rivals, and while challenging Western assumptions about permanent selfhood. The tension forces clarity about what dualism actually requires."
 created: 2026-01-09
-modified: 2026-08-18
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-18T23:38:03+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high 2026-08-18: 3 of 4 strong-assertion hits are negations/disclaimers ('proves nothing', 'not a result this article establishes', 'nothing above refutes it'); article calibrates structurally via a three-state falsifier ledger
 topics:
@@ -252,7 +252,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 1. Siderits, M. (2025). *Buddhist Physicalism? Non-self Metaphysics and Phenomenal Consciousness*. Oxford University Press. DOI: 10.1093/9780197799697.001.0001.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
 1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

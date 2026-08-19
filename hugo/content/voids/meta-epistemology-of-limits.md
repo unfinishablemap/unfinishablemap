@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-08-17 11:11:04+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[illusionism]]'
 - '[[epistemology]]'
 created: 2026-01-16
-date: &id001 2026-04-29
+date: &id001 2026-08-19
 description: Can we know our cognitive limits are genuine? Estimate their total scope?
   Predict which will dissolve? Tell natural features from designed constraints? All
   four meta-questions may be structurally unanswerable from within any limited mind—and
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 17:23:41+00:00
-lastmod: 2026-08-17 11:11:04+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -218,3 +218,4 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 17. Nagel, T. (1986). *The View from Nowhere*. New York: Oxford University Press.
 18. Dunning, D. (2011). "The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance." *Advances in Experimental Social Psychology*, 44, 247-296.
 19. Proctor, R. N. & Schiebinger, L. (Eds.) (2008). *Agnotology: The Making and Unmaking of Ignorance*. Stanford University Press.
+20. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.

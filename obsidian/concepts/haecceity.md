@@ -2,9 +2,9 @@
 title: "Haecceity and Indexical Identity"
 description: "The quality of being this particular conscious subject. Pattern-based theories cannot capture what makes you you rather than a qualitative duplicate."
 created: 2026-01-16
-modified: 2026-05-15
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-18T11:09:26+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -211,6 +211,6 @@ Process haecceitism refines what the Map presupposes: personal identity is not p
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 49, 871-893.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

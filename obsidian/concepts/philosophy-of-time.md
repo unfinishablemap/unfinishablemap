@@ -2,9 +2,9 @@
 title: "Philosophy of Time"
 description: "A-theory versus B-theory, presentism, eternalism, and the growing block view. How consciousness may participate in constituting temporal structure."
 created: 2026-01-16
-modified: 2026-01-20
+modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-08-19T00:24:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -249,7 +249,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
 1. Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.

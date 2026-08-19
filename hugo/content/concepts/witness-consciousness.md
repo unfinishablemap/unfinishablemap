@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-18 12:10:08+00:00
+ai_modified: 2026-08-19 00:24:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,14 +20,14 @@ concepts:
 - '[[haecceity]]'
 - '[[mysterianism]]'
 created: 2026-01-18
-date: &id001 2026-01-20
+date: &id001 2026-08-19
 description: Awareness that observes mental contents without identifying with them.
   The witness cannot become an object, revealing the subject-object structure of experience.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-08-18 12:10:08+00:00
+lastmod: 2026-08-19 00:24:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,7 +233,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. *Journal of Cognitive Neuroscience*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
