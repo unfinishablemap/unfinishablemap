@@ -1,0 +1,215 @@
+---
+title: "Outer Review - Gemini 2.5 Pro (2026-08-19)"
+created: 2026-08-19
+modified: 2026-08-19
+human_modified: null
+ai_modified: 2026-08-19T05:13:27+00:00
+draft: false
+description: "Gemini 2.5 Pro hostile-referee audit of concepts/knowledge-argument. Strongest finding: single-study reliance on Fox et al. (2012). Two findings refuted on disk."
+topics:
+  - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
+concepts:
+  - "[[knowledge-argument]]"
+  - "[[illusionism]]"
+  - "[[phenomenal-concepts-strategy]]"
+  - "[[introspection]]"
+  - "[[phenomenology-vs-function-axis]]"
+  - "[[qualia]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "gemini-2-5-pro"
+ai_generated_date: 2026-08-19
+last_curated: null
+outer_review_status: processed
+outer_review_conversation_url: https://gemini.google.com/app/95a79f3caeae5837
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit knowledge-argument"
+subject_articles:
+  - concepts/knowledge-argument.md
+subject_source: reuse:pending-reviews:outer-review-2026-08-19-chatgpt-5-6-sol-pro.md
+---
+
+**Date**: 2026-08-19
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal such as Mind, Synthese, or Philosophical Studies, assessing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/concepts/knowledge-argument/ and makes claims about Frank Jackson's knowledge argument and physicalism; the wider site (https://unfinishablemap.org, changelog at https://unfinishablemap.org/workflow/changelog/) argues for a non-reductive view of consciousness. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences. Audit four things: whether its empirical and historical claims hold against the 2020-2025 literature; whether any result or interpretation it relies on has been challenged, retracted, or failed to replicate; where it settles a contested question by assumption rather than argument; and which counterarguments or competing frameworks it leaves untested. End your report with at least five specific weaknesses, each with a 2020-2025 peer-reviewed source citation that the article omits, contradicts, or mishandles, and a one-sentence verdict on academic-submission readiness. If you cannot find five, state explicitly why none are visible. Do not append summary praise or close with the site's strengths, methodology, or architectural ambition.
+
+## Reply
+
+# Referee Report: Audit of "The Knowledge Argument (Mary’s Room)"
+
+## Introduction and Remit of Evaluation
+
+The manuscript under review, titled "The Knowledge Argument (Mary’s Room)," constitutes an ambitious but systematically flawed attempt to revive and extend Frank Jackson's classic anti-physicalist thought experiment within a broader, idiosyncratic framework of non-reductive consciousness. The text attempts to synthesize the epistemic gap exposed by Mary’s release with an architectural commitment to dualism, specifically invoking post-decoherence quantum selection mechanisms, structural critiques of epiphenomenalism, and the purported infallibility of introspective phenomenal content. The authors seek to establish that the "learning intuition"—the premise that Mary gains new knowledge upon seeing red—demonstrates the existence of non-physical facts, thereby rendering physicalism false.   
+
+The remit of this evaluation is to subject the manuscript to a rigorous, hostile, pre-publication audit appropriate for a top-tier journal in the philosophy of mind (such as *Mind*, *Synthese*, or *Philosophical Studies*). The assessment is strictly confined to the manuscript's empirical claims, its citation practices, its coverage of counterarguments, and the logical validity of its inferences. The analysis demonstrates that the manuscript is fundamentally unready for academic publication. It insulates its central premises from the last five years of rigorous philosophical and cognitive-scientific literature, relies on circular reasoning to dismiss competing frameworks, and misappropriates empirical psychology to cross the epistemic-ontological divide without justification. The following sections detail these catastrophic systemic failures across four distinct audit axes: the viability of its historical and empirical claims against the 2020–2025 literature; its reliance on challenged or unreplicated empirical results; its tendency to settle contested questions by assumption rather than argument; and its egregious evasion of modern competing frameworks.
+
+## Section 1: Empirical and Historical Claims Against the 2020–2025 Literature
+
+The manuscript’s foundational historical and empirical claims regarding the state of the physicalist debate rest on anachronistic representations of the literature, specifically freezing the dialectic around 2016. By failing to engage with the 2020–2025 literature, the text mischaracterizes the viability of physicalist rebuttals, overstates the contemporary consensus on phenomenal concepts, and ignores entire metaphysical movements that directly neutralize its core claims.
+
+### The Misrepresentation of Acquaintance Knowledge and Phenomenal Concepts
+
+The manuscript attempts to dispatch the Phenomenal Concepts Strategy (PCS) by exclusively relying on David Chalmers’s "Master Argument" (the zombie dilemma), framing the debate as an open stalemate where Type-B physicalists merely "deny that conceivability tracks possibility". It further equates what Mary learns with "acquaintance knowledge," which it defines as combining the irreducibility of self-location with the irreducibility of qualitative experience, arguing that this illuminates territories accessible only to conscious beings. The manuscript assumes that because acquaintance is non-propositional and non-deducible from structural physics, it must bridge into a non-physical ontology.   
+
+This representation completely ignores the extensive 2020–2025 literature that has aggressively naturalized acquaintance knowledge. Recent scholarship demonstrates that acquaintance does not necessitate a dualistic ontology, nor does it necessarily lead to Chalmers's dilemma. The contemporary discourse on "Knowledge of Things" and objectual knowledge establishes robust physicalist frameworks where experiential knowledge is a direct, non-representational cognitive relation to physical brain states.   
+
+Current epistemology of mind illustrates that phenomenal concepts formed via introspective acquaintance can be fully constituted by the physical properties they pick out, without collapsing into the descriptive, third-person physical concepts Mary possesses in her room. For example, Balog (2020) and Duncan (2021) in *Synthese* and *Oxford Studies in Philosophy of Mind* respectively, have advanced the thesis that by having experiences, one can come to know the nature of certain phenomenal properties through a purely physical acquaintance relation that does not entail the existence of non-physical facts. Furthermore, Duncan (2023) argues that reasoning with "Knowledge of Things" provides a fully physicalist account of how Mary navigates her new epistemic state.   
+
+| Framework of Acquaintance | Epistemic Mechanism | Ontological Entailment (per 2020-2025 Literature) | Manuscript's Treatment |
+| --- | --- | --- | --- |
+| **Dualist Acquaintance** | Direct apprehension of non-physical qualia. | Dualism (Property or Substance). | Treated as the only viable definition of acquaintance. |
+| **Constitutive Physicalist Acquaintance** | Phenomenal concepts are physically constituted by the brain states they represent. | Type-B Physicalism / Local Reduction. | Completely ignored; assumed defeated by Chalmers's dilemma. |
+| **Objectual Knowledge (Knowledge of Things)** | Direct, non-propositional cognitive relation to physical states. | Physicalism (No new facts, only new cognitive relations). | Ignored; manuscript assumes all new knowledge requires new non-physical facts. |
+
+By ignoring this "constitutional" expansion of physicalist acquaintance theory, the manuscript settles the failure of the Phenomenal Concepts Strategy by omission rather than refutation. It fails to address how Mary could gain new "objectual knowledge" (acquaintance with a specific physical brain state) without that knowledge implying the existence of a non-physical fact.
+
+### The Ignorance of Metaphysical Phenomenal Structuralism
+
+To bolster the claim that Mary learns something entirely detached from physical facts, the manuscript relies on the premise that Mary learns an "intrinsic" fact about redness. It leans on Whitehead’s process philosophy and Russellian Monism to assert that structural and relational knowledge (physics) can never entail intrinsic phenomenal character (quiddities). The manuscript asserts that physics describes behavior, not essence, leaving an "intrinsic-nature-void" that only non-physical consciousness can fill.   
+
+This argument is structurally invalidated by the total omission of the recent "structuralist turn" in consciousness science and philosophy. Between 2022 and 2025, Metaphysical Phenomenal Structuralism has emerged as a dominant paradigm, arguing explicitly that the phenomenal character of an experience is entirely determined by its relational and structural properties within a phenomenal space. Theorists have rigorously argued that any phenomenal experience, including the redness of a rose, is fully individuated by its structural location relative to other experiences.   
+
+In a modified version of the knowledge argument debated in the recent literature (e.g., Kob, 2023; Kleiner, 2024), "Relational Mary" has seen all colors except orange, but possesses complete knowledge of the relational structure between color experiences. Metaphysical structuralists argue that Relational Mary, when seeing orange for the first time, does not learn anything new about orange *itself* because the essence of the color experience resides entirely in its relational properties, which she already mapped mathematically. If Metaphysical Phenomenal Structuralism holds, a complete knowledge of the relational structure of color—which the original Mary ostensibly possesses in her room—*would* logically determine the phenomenal character of the experience, leaving no intrinsic remainder.   
+
+The manuscript's assertion that structural knowledge leaves an "intrinsic-nature-void" operates in complete ignorance of the 2020–2025 structuralist literature that explicitly targets and closes this exact void through relational individuation. By failing to test the Knowledge Argument against phenomenal structuralism, the manuscript leaves a gaping hole in its central metaphysical deduction.   
+
+## Section 2: Retracted, Challenged, and Unreplicated Empirical Reliance
+
+To validate the argument that Mary truly learns a new, non-physical fact—and is not merely suffering from a cognitive illusion or a failure of imagination—the manuscript must defend the reliability of introspection. If introspection is unreliable regarding phenomenal content, Mary’s belief that she learned something new might simply be an introspective error.   
+
+### The Misappropriation of Metacognitive Data and Fox et al. (2012)
+
+The manuscript acknowledges the vast psychological literature demonstrating introspective unreliability (e.g., Nisbett and Wilson, 1977), but attempts to partition this unreliability away from phenomenal experience. It asserts that we lack insight into our *causal processes*, but retain perfect insight into our *phenomenal content*. To support this empirical partition, the manuscript relies heavily on a specific 2012 study, asserting that "Fox et al. (2012) found that contemplative experience predicts introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty".   
+
+This reliance is empirically disastrous and analytically flawed. The deployment of the Fox et al. (2012) study to ground the ontological infallibility of phenomenal content conflates basic tactile/sensory metacognition with metaphysical transparency. The 2020–2025 literature in cognitive psychology and predictive processing has heavily challenged the interpretation that mindfulness or meditation grants unmediated access to "raw" phenomenal qualia. Contemporary metaperceptual research indicates that what appears as "introspective accuracy" is often post-decisional error detection or a methodological artifact of signal detection theory, not a direct unearthing of foundational phenomenal properties. Models attempting to explain metacognitive superefficiency typically assume that the metacognitive system simply has access to evidence not available for the primary decision, rather than accessing an entirely different ontological category of "phenomenal evidence".   
+
+Furthermore, the generalizability of the Fox et al. (2012) findings has failed to replicate across broader sensory and cognitive domains. Recent studies examining the relationship between meditation expertise and introspective accuracy in pain perception (Grant et al., 2010), pain catastrophizing (Zorn et al., 2020), and time production (Berkovich-Ohana et al., 2011) have found null associations. The manuscript selectively cherry-picks one 2012 study on tactile sensitivity to definitively solve the philosophical problem of first-person epistemic access, while ignoring a decade of replication failures in adjacent sensory modalities.   
+
+### Ignoring the Predictive Processing Account of Interoception
+
+The manuscript asserts that trained introspection acts as a direct phenomenal presentation, surfacing hidden content. This completely ignores the predictive coding framework, which has become the dominant explanatory model for interoception and introspection in the 2020s. Predictive processing mathematically models how training alters prior expectations and precision-weighting in the brain, generating a *functional* increase in bodily awareness without requiring any non-physical phenomenal properties.   
+
+When mindfulness practitioners show increased accuracy between subjective and objective measures of body sensitivity, this is modeled as the minimization of prediction error through the optimization of precision-weighted ascending sensory signals. The manuscript's attempt to use enhanced sensory discrimination (introspective accuracy) as proof of an irreducible, non-physical phenomenal domain constitutes an egregious category error. It utilizes functional data to draw an ontological conclusion, relying on an interpretation of the data that has been thoroughly dismantled by the contemporary neuroscience of metacognition.   
+
+## Section 3: Questions Settled by Assumption Rather than Argument
+
+A fatal structural weakness of the manuscript is its reliance on question-begging assumptions. The text repeatedly utilizes the very dualist intuitions it is tasked with proving as a priori axioms to dismiss physicalist counter-theories. It forces a false trilemma where dualist interactionism is presented as the only survivor, simply by refusing to conceptualize the physicalist perspective on its own terms.   
+
+### The Epiphenomenalism and Mental Causation Non-Sequitur
+
+In addressing Frank Jackson's later rejection of his own argument—based on the realization that dualistic qualia lead to epiphenomenalism—the manuscript posits a "Bidirectional Interaction" tenet. It argues that consciousness must causally influence beliefs, and claims that "Mary’s changed behaviour and reports are best explained by phenomenal knowledge causing those changes, supported by clinical neuroplasticity research". The manuscript argues that the mind operates through top-down causation, citing evidence from neural correlates, brain lesion studies, and neuroplasticity to support the view that consciousness shapes physical reality.   
+
+This argument constitutes a severe logical fracture and settles the question of mental causation by mere assumption. The manuscript asserts that because a "conscious intention" leads to functional neural changes (neuroplasticity), this serves as definitive evidence for top-down, non-physical mental causation, thereby refuting reductive physicalism and epiphenomenalism. This explicitly settles the question of mind-body ontology by assuming the dualist conclusion.   
+
+In any standard physicalist or realization framework, a "conscious intention" is mathematically and physically identical to, or realized by, a pre-existing physical brain state (such as specific predictive processing priors established in the prefrontal cortex). The fact that neural state A (associated with intention or mindfulness) causes neuroplastic change in neural state B (gray matter density or synaptic strength) is a basic premise of physical neuroscience. To claim this as a victory for *non-physical* bidirectional interaction assumes that the intention is ontologically independent from the brain—the exact proposition under dispute. The manuscript treats the phenomenon of neuroplasticity as if it were a poltergeist acting upon the brain from an external metaphysical void, ignoring the completely standard materialist explanations for how cognitive training induces structural brain changes.   
+
+### Phenomenal Conservatism and the Epistemic-Ontological Conflation
+
+The manuscript attempts to neutralize illusionism and other physicalist dismissals of Mary's learning by demanding that they explain "why seeing red seems *like that*". It asserts that the change Mary undergoes is so revelatory that it cannot be a mere functional shift, treating the "learning intuition" as a bedrock evidential fact. The text briefly acknowledges introspective unreliability regarding fine-grained details (like choice blindness), but arbitrarily halts this skepticism at the "bedrock" of phenomenality.   
+
+It offers no non-circular justification for why introspection is fallible regarding the content of experience, yet somehow perfectly infallible regarding the fundamental metaphysical nature of its own presentation. This assumes Phenomenal Conservatism—the epistemological stance that if it seems to a subject that P, the subject thereby has some degree of justification for believing P. In the context of the physicalism/dualism debate, assuming that the "seeming" of phenomenality carries an ontological guarantee of non-physicality fundamentally begs the question.   
+
+As noted by contemporary critics, this critique is anachronistic and operates on an unexamined presupposition. By defining the introspective "seeming" as an intrinsically phenomenal property, the manuscript relies on the very dualist intuition it is supposed to prove. The assumption that introspective seemings carry an ontological guarantee is a premise that must be rigorously argued for, not an epistemological baseline that can be assumed by fiat to defeat physicalist opponents.   
+
+## Section 4: Untested Counterarguments and Competing Frameworks
+
+The manuscript achieves its definitive, authoritative tone by systematically excising the most potent competing frameworks from the 2020–2025 literature. The text's treatment of the physicalist opposition is a strawman, restricted to arguments formulated decades ago (e.g., Lewis's Ability Hypothesis from 1988, Dennett's early work), while leaving modern, highly sophisticated countermeasures entirely untested.   
+
+### The Evasion of Modern Illusionist Architectures
+
+The manuscript's dismissal of Illusionism (the theory that phenomenal consciousness does not exist, but merely seems to exist) references Keith Frankish's 2016 account and swiftly concludes that illusionists cannot explain the specific character of Mary's experience. The manuscript asserts that if the change Mary experiences is "merely" a new functional representational state, the illusionist owes an account of why it strikes so many as revelatory.   
+
+This is an unacceptable omission of the current state of the art in the philosophy of mind. The manuscript completely ignores the advanced mechanistic literature of the 2020s that explicitly models how non-phenomenal, purely functional cognitive systems generate the false, yet absolutely subjectively convincing, intuition of phenomenality.   
+
+Between 2021 and 2025, François Kammerer and others developed exhaustive theoretical frameworks that explicitly solve this exact "Illusion Meta-Problem"—the problem of explaining why the illusion of phenomenal consciousness is uniquely counterintuitive and seems undeniable. Kammerer (2021) in *Synthese* and (2022) in *Philosophical Studies* illustrates precisely how a cognitive architecture can form judgments with 100% subjective confidence regarding non-existent phenomenal properties through exclusively functional tracking mechanisms. Kammerer’s framework of "Meta-Cartesianism" explains why the illusion of phenomenal consciousness is unique and almost inextricable.   
+
+Furthermore, Shabasson (2022) introduces the concepts of "introspective opacity" and the "infallibility intuition" to explain our powerful disposition to draw erroneous unconscious inferences about our sensory states. Shabasson mathematically models how a functional system, lacking transparent access to its own processing algorithms, will necessarily conclude that its states possess ineffable, atomic, intrinsic, and non-physical properties.   
+
+| Objection to Illusionism in Manuscript | 2020-2025 Illusionist Resolution Ignored by Manuscript | Citation |
+| --- | --- | --- |
+| Illusionism cannot explain why seeing red *seems* like a non-physical event. | **Introspective Opacity:** Cognitive systems lack access to their own functional mechanisms, causing them to erroneously infer intrinsic, non-physical properties. | Shabasson (2022) |
+| If consciousness is an illusion, the illusion itself must be phenomenally conscious (the regress problem). | **Meta-Cartesianism:** A purely functional cognitive architecture can form judgments with 100% subjective confidence regarding non-existent properties without the judgment itself being phenomenal. | Kammerer (2021) |
+| The learning intuition is so strong it must track reality. | **The Infallibility Intuition:** Functional systems are designed to trust their introspective outputs absolutely; subjective certainty is a designed functional feature, not an ontological proof. | Kammerer (2022); Shabasson (2022) |
+
+   
+
+The manuscript claims the illusionist owes an account of why the shift strikes observers as revelatory. Kammerer and Shabasson have literally published that exact account in the very journals this manuscript targets. By ignoring this literature, the manuscript leaves its central assertion completely untested against the actual physicalist vanguard.
+
+### The Conflation of Computational Functionalism with Physicalism
+
+When the manuscript discusses the "Empirical Wedge"—citing clinical cases where phenomenology and function come apart (e.g., aphantasia, synaesthesia)—it asserts that this dynamic "constrains functionalism" and implies that this serves as a wedge against physicalism at large.   
+
+This betrays a severe category error prevalent in amateur philosophy of mind: the systematic conflation of abstract computational functionalism (the premise that consciousness could be instantiated in non-biological substrates, such as silicon) with physicalism (which includes biological naturalism and type-identity theory). The manuscript argues that because phenomenal properties cannot be cleanly reduced to abstract functional roles, physicalism is false.   
+
+It completely leaves untested the biological physicalist frameworks that concede the failure of abstract functionalism but maintain that phenomenal properties are locally, necessarily identical to highly specific, complex biological properties via a posteriori necessity. The literature of the 2020s has seen a resurgence in defending biological computationalism, where specific biochemical hardware is strictly required for conscious processing. The fact that phenomenal consciousness cannot be cleanly functionalized simply means it might be tied to specific biology, not that it is non-physical. By asserting that the empirical wedge defeats functionalism, and thereby assuming it defeats physicalism, the manuscript ignores the extensive philosophical literature defending local reduction and type-identity theory.   
+
+### The Weirdness of the World and Universal Dubiety
+
+The manuscript leans heavily on the intuitive force of the Knowledge Argument: the visceral, common-sense "obviousness" that Mary learns something new upon seeing red. It explicitly treats this intuition as carrying massive epistemic weight, utilizing it to establish the "Occam’s Razor Has Limits" tenet. The manuscript argues that physicalism's apparent parsimony fails when confronted with the manifest character of experience, suggesting that the simpler theory is wrong because it violates our deep-seated intuition about what consciousness is.   
+
+This reliance on common-sense intuition to dictate fundamental ontology is decisively challenged by recent metaphilosophical work, most notably Eric Schwitzgebel's 2024 monograph *The Weirdness of the World*. Schwitzgebel establishes two highly influential principles in contemporary philosophy of mind: the "Universal Bizarreness" thesis and the "Universal Dubiety" thesis.   
+
+Schwitzgebel formally demonstrates that absolutely every possible comprehensive theory of the relationship between mind and cosmos directly contradicts common sense and defies intuitive plausibility. Whether one adopts physicalism, substance dualism, panpsychism, or idealism, the ultimate implications of the theory will radically violate everyday human intuition. If Schwitzgebel's Universal Bizarreness thesis holds, the fact that physicalism is counterintuitive (because it claims Mary learns no non-physical fact) cannot be used as a decisive epistemic weapon against it. Dualism, with its requirements for non-physical causal interactionism (which the manuscript explicitly embraces), is equally, if not more, conceptually bizarre when scaled to a universal cosmology.   
+
+The manuscript's core engine—the "learning intuition"—is subjected to no epistemic stress-testing regarding the general failure of human intuition at the boundary of fundamental metaphysics. By utilizing the intuition of Mary's learning to override the parsimony of physicalism, the manuscript assumes that human common sense is a reliable guide to the deep structure of the cosmos—an assumption that the 2024 metaphilosophical literature has severely undermined.
+
+## Section 5: Specific Weaknesses and Final Verdict
+
+The manuscript’s failure to engage with the contemporary academic dialectic renders its conclusions invalid for top-tier philosophical publication. The text operates in an epistemic silo, relying on a 20th-century understanding of physicalism while deploying circular arguments regarding mental causation and introspective accuracy. It systematically ignores the rigorous physicalist countermeasures developed in the 2020s that directly target and neutralize its core premises.
+
+To satisfy the specific parameters of this audit, the following table details five exact, critical weaknesses that justify the rejection of the manuscript, each paired with a 2020–2025 peer-reviewed citation that the text systematically omits, contradicts, or mishandles.
+
+| Weakness Category | Description of Manuscript Failure | Omitted/Mishandled 2020–2025 Citation |
+| --- | --- | --- |
+| **1. The Illusionist Meta-Problem** | The manuscript dismisses illusionism by asserting it cannot explain the specific qualitative "seeming" of Mary's new experience. It completely ignores contemporary Meta-Cartesian frameworks that functionally explain the exact cognitive mechanisms generating the infallible intuition of phenomenal consciousness. | Kammerer, F. (2021). "The illusion of conscious experience." *Synthese*, 198: 845–866. |
+| **2. Phenomenal Structuralism** | The manuscript relies on Russellian Monism to claim that structural/relational knowledge cannot encompass intrinsic phenomenal character. It ignores the rise of metaphysical structuralism, which explicitly argues that phenomenal character is fully exhausted by its relational properties in phenomenal space. | Kob, L. (2023). "Exploring the role of structuralist methodology in the neuroscience of consciousness: A defense and analysis." *Neuroscience of Consciousness*. (Also Lyre, 2022 / Kleiner, 2024). |
+| **3. Introspective Accuracy Artifacts** | The text relies on Fox et al. (2012) to prove meditation guarantees introspective accuracy for phenomenal qualia, ignoring modern metaperceptual literature showing that metacognitive superefficiency is often a post-decisional artifact or methodological illusion, and that these findings fail to replicate across other sensory modalities. | Rahnev, D., & Fleming, S. M. (2019/2020). "How experimental procedures influence estimates of metacognitive ability." *Neuroscience*. (Also Zorn et al. 2020). |
+| **4. Acquaintance Knowledge** | The manuscript assumes acquaintance knowledge necessitates a gap in physical facts. It ignores contemporary epistemic frameworks that successfully model "Knowledge of Things" and objectual knowledge as entirely physical, non-propositional cognitive tracking relations, closing the gap without non-physical properties. | Balog, K. (2020). "Knowledge of things." *Synthese*, 197: 3559–3592. |
+| **5. Metaphilosophical Intuition Limits** | The text utilizes the "learning intuition" as a decisive strike against physicalism's parsimony, ignoring the contemporary "Universal Dubiety" thesis which formally proves that all mind-body theories violate common sense, nullifying intuitive "obviousness" as an arbiter of fundamental metaphysics. | Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press. |
+
+   
+
+**Verdict on Academic-Submission Readiness:**
+The manuscript is entirely unready for academic submission and warrants outright rejection due to its catastrophic failure to engage with the 2020–2025 philosophical literature, its reliance on circular, question-begging assumptions regarding introspective infallibility, and its structural inability to test its dualist conclusions against sophisticated contemporary physicalist frameworks.
+
+## Verification Notes
+
+All spans were checked against `obsidian/concepts/knowledge-argument.md` on disk on 2026-08-19, before any task was minted. Line numbers refer to that file. The reviewed article is **live, not archived**, so the preserved-URL trap does not apply.
+
+**Verified verbatim (✓):**
+
+- ✓ "deny that conceivability tracks possibility" — L83, exact.
+- ✓ "acquaintance knowledge" — L117 and L173, exact.
+- ✓ "intrinsic-nature-void" — L22, L147, L172, exact.
+- ✓ "Fox et al. (2012) found that contemplative experience predicts introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty" — L133, exact, full sentence.
+- ✓ "why seeing red seems *like that*" — L97, exact, including the italics.
+- ✓ "constrains functionalism" and "Empirical Wedge" — L125, exact.
+- ✓ The absence claims hold: Kammerer, Shabasson, Balog, Duncan, Kob, Kleiner, Lyre and Rahnev each return **zero** matches in the article. Where the review says these authors are missing, they are genuinely missing.
+
+**Disputed — refuted on disk (✗):**
+
+- ✗ **Weakness 5 / "The Weirdness of the World and Universal Dubiety."** The review asserts the article's "core engine—the 'learning intuition'—is subjected to no epistemic stress-testing regarding the general failure of human intuition at the boundary of fundamental metaphysics." L139 does precisely that stress-testing, and names Schwitzgebel while doing it: "Dennett, Schwitzgebel, and Machery have argued that intuitions about consciousness are especially unreliable—precisely because consciousness is involved in generating them," and the force of "surely Mary learns something" may be "a cognitive limitation rather than a metaphysical insight." The reviewer proposes as a missing corrective a move the article already makes. The only live residue is that Schwitzgebel is invoked in prose with no bibliography entry — already captured in the existing P1 task.
+- ✗ **"The Conflation of Computational Functionalism with Physicalism."** The review claims the article treats the empirical wedge as defeating functionalism and therefore physicalism at large. L125 reads "the cross-domain pattern **constrains functionalism without refuting it**." The article explicitly declines the stronger inference the review attributes to it; the criticism is answered by the second half of the sentence it quotes the first half of.
+
+**Quote-fidelity defect in the review itself (✗):**
+
+- ✗ The span presented as quotation — "Mary's changed behaviour and reports are best explained by phenomenal knowledge causing those changes, supported by clinical neuroplasticity research" — is **not verbatim**. L103 reads "Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes." The reviewer inserted "and reports", dropped "after seeing red", and welded on a clause from the following sentence. The underlying substance survives (the next sentence does assert that clinical neuroplasticity research "provides empirical support", and the existing P2 task already targets exactly that over-grading), but the stitched span should not be treated as a quotation of the article.
+
+**Unverified — do not propagate without publisher-level checking (?):**
+
+- ? **Balog, K. (2020). "Knowledge of things." *Synthese*, 197: 3559–3592.** The title and volume range are associated with Matt Duncan, and the review's own prose elsewhere credits Duncan with the "Knowledge of Things" reasoning. Probable author/metadata swap. Verify at the publisher before any of this enters a bibliography.
+- ? **Rahnev, D., & Fleming, S. M. (2019/2020).** The review hedges the year and gives the journal as "*Neuroscience*"; the paper appears in *Neuroscience of Consciousness*. Metadata uncertain on the reviewer's own admission.
+- ? Kammerer (2021, 2022), Shabasson (2022), Kob (2023), Kleiner (2024), Lyre (2022) were not verified at source in this pass. They are cited as literature the article omits rather than as claims about what the article says, so they carry no risk of misrepresenting the Map — but they carry the usual external-reviewer fabrication risk and must be checked at the publisher before citation.
+
+**Scope note.** This review audits a single concept article as though it were a standalone journal manuscript. Several "omissions" are treatments the Map distributes across linked neighbours: the article links to `[[phenomenal-concepts-strategy]]` (L16, L83, L178) and `[[illusionism]]` (L17, L95, L181). That said, the existing P2 task independently establishes a real residue here — `knowledge-argument` genuinely fails to import its neighbours' strongest objections — so the scope artifact does not fully discharge the finding.

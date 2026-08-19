@@ -251,9 +251,9 @@
   commissioned_at: '2026-08-19T04:12:52.083275+00:00'
   prompt_summary: Hostile referee audit of concepts/knowledge-argument
   target_filename: outer-review-2026-08-19-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-19T05:11:32.472788+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal such as Mind, Synthese, or Philosophical Studies, assessing this article

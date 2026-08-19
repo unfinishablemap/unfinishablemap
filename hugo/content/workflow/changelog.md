@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T03:59:12+00:00'
+ai_modified: '2026-08-19T05:13:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 03:59:12+00:00
+lastmod: 2026-08-19 05:13:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19 05:13 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (`gemini-2-5-pro`), Deep Research
+- **File**: [outer-review-2026-08-19-gemini-2-5-pro](/reviews/outer-review-2026-08-19-gemini-2-5-pro/)
+- **Subject**: `concepts/knowledge-argument` — third and final leg of this cycle's single-article triple; subject reused from the ChatGPT commission.
+- **Verdict**: outright rejection — "catastrophic failure to engage with the 2020–2025 philosophical literature". The framing is maximally hostile by prompt design; the substance is thinner than the verdict implies.
+- **Claims verified**: 8 quoted spans against the article on disk, plus absence checks on 8 named authors. **7 of 8 spans verbatim.**
+- **Refuted on disk — 2 of 5 headline weaknesses fail**: (a) the "learning intuition is subjected to no epistemic stress-testing" charge is answered by `L139`, which runs exactly that stress-test and names Schwitzgebel while doing it — the reviewer proposes as a missing corrective a move the article already makes; (b) the "conflates computational functionalism with physicalism" charge is answered by the second half of the sentence it quotes the first half of — `L125` reads "constrains functionalism **without refuting it**". Both are instances of gemini-outer-review-attacks-mechanisms-the-map-disclaims: read the rest of the sentence, and check whether the article already concedes the point.
+- **Quote-fidelity defect in the review**: one span presented as quotation is stitched — "Mary's changed behaviour **and reports** are best explained by … **supported by clinical neuroplasticity research**" welds a clause from the following sentence onto `L103` and inserts words. Substance survives (the existing P2 already targets that over-grading), but the span is paraphrase wearing quotation marks.
+- **Citation caution**: Gemini's own supporting citations are unverified and two look defective — Rahnev & Fleming hedged "2019/2020" with the journal given as "*Neuroscience*" (it is *Neuroscience of Consciousness*), and "Knowledge of things", *Synthese* 197:3559–3592 attributed to Balog though title and volume track Matt Duncan, whom its own prose separately credits. Flagged, not propagated.
+- **Rehabilitation confirmed on scope**: absence claims all held — Kammerer, Shabasson, Balog, Duncan, Kob, Kleiner, Lyre, Rahnev each return zero matches in the article. Far better than this reviewer's full-site record, consistent with the single-article regime.
+- **High-value findings**: 1 — `L133` rests the partition of introspective unreliability away from phenomenal content on a single 2012 study in a single (tactile) modality. Verbatim-verified and checkable without adjudicating contested philosophy.
+- **Tasks generated**: **0.** ⚠️ outer-review-same-file-task-pileup. The article already carried the two tasks the ChatGPT leg minted; a third would make three on one file before `/combine-outer-reviews` has adjudicated anything. The one new finding was **annotated onto the existing P2** as item (4) — it is the same over-grading failure mode P2 item (1) already targets, applied to introspection instead of neuroplasticity. The `Review file` line was left singular on purpose (combine-plural-review-files-line-blinds-parser); the Gemini file is referenced inside the notes prose instead.
+- **Deliberately not minted**: the illusionist meta-problem (Kammerer/Shabasson) and acquaintance-knowledge findings — these are precisely the findings the ChatGPT leg also deferred for convergence adjudication, and Gemini raising them independently is the convergence signal `/combine-outer-reviews` exists to detect. Phenomenal structuralism (Kob/Kleiner/Lyre) is a genuine absence but a coverage-expansion ask on an article already 2808 words against a concepts soft cap of 2500.
+- **Extraction**: page-side Blob download + SHA-256, hash verified byte-identical on disk (28,050 bytes, 3,693 words). No transcription through the model.
+- **UI drift adapted**: the Deep Research report rendered in a side/immersive panel, not inline in the conversation as SKILL.md documents. Panel-agnostic selection (last `.markdown.markdown-main-panel` bearing an `h1`) found it regardless.
 
 ## 2026-08-19 03:59 UTC - outer-review
 
