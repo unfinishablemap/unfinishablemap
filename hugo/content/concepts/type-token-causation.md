@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-13 15:22:15+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-19 21:07:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: 2026-05-11
 last_deep_review: 2026-08-03 09:51:20+00:00
-lastmod: 2026-08-13 15:22:15+00:00
+lastmod: 2026-08-19 21:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Jaegwon Kim's [causal exclusion argument](/concepts/reductionism/), in its most 
 3. Systematic causal overdetermination — two independent sufficient causes for the same effect — is untenable.
 4. Therefore mental properties are causally inert, or they just are physical properties.
 
-Kim took the conclusion as a dilemma forcing physicalist reduction. "If anything is causally efficacious in bringing about a physical event, it must itself be physical" (Kim, 2005, p. 17, paraphrased). The argument's force depends entirely on premise 1: there must already be a *sufficient* physical cause for the effect, so any further candidate cause would either duplicate the physical cause's work or be screened off as redundant.
+Kim took the conclusion as a dilemma forcing physicalist reduction: on his closure and exclusion principles, anything that is causally efficacious in bringing about a physical event must itself be physical (Kim 2005, ch. 1, pp. 15–17). The argument's force depends entirely on premise 1: there must already be a *sufficient* physical cause for the effect, so any further candidate cause would either duplicate the physical cause's work or be screened off as redundant.
 
 Kim acknowledged that his argument generalises uncomfortably. If physical micro-causes are always sufficient, then chemistry, biology, and economics are equally excluded — a result he conceded was difficult to live with (Kim, 2005, ch. 2). The [historical survey of the closure debate](/topics/causal-closure-debate-historical-survey/) traces this generalisation problem.
 

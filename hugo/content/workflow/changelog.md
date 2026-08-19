@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T20:52:00+00:00'
+ai_modified: '2026-08-19T21:10:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 20:52:00+00:00
+lastmod: 2026-08-19 21:10:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19T21:07:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Original score**: n/a (single-sentence quote-hygiene fix; `scripts/curate.py` does not exist)
+- **Changes**: De-quoted the Kim span at L58 — `"If anything is causally efficacious in bringing about a physical event, it must itself be physical" (Kim, 2005, p. 17, paraphrased)` — flagged by `reviews/deep-review-2026-08-17-causal-exclusion-argument.md` (quoted paraphrase reads downstream as verbatim). Retrieval: archive.org advancedsearch has *Mind in a Physical World* (1998) but no copy of the 2005 book; archive.org full-text API returns 0 for the phrase (control query "causal closure of the physical domain" = 238 hits, so the index is live); Google Books API 429 (quota 0); dokumen.pub full-text mirror is down for maintenance and has no Wayback snapshot; Princeton UP page exposes no sample chapter (s8000.pdf is a different book). Reached via Google Books in-volume search on the 2005 PUP volume (`books.google.com/books?id=RNOxMSiUmUkC&jscmd=SearchWithinVolume2`): "must itself be physical" = 0 hits, "bringing about a physical event" = 0 hits, "causally efficacious" = pp. 5, 35, 153 only; p. 15 states the closure principle ("If a physical event has a cause at t, then it has a physical cause at t"), p. 17 the exclusion principle. The sentence is therefore Kim's upshot in the Map's words, not his wording. Rewritten as indirect speech with no quotation marks, cited to the confirmed page span: "on his closure and exclusion principles, anything that is causally efficacious in bringing about a physical event must itself be physical (Kim 2005, ch. 1, pp. 15–17)". No other content change; length-neutral. `ai_system` appended `+claude-fable-5`; `last_deep_review` untouched. Synced to Hugo.
+- **Published**: yes
+
 
 ## 2026-08-19T20:52:00+00:00 - pessimistic-review
 - **Status**: Success

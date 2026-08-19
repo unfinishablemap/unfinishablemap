@@ -4,7 +4,7 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-13T15:22:15+00:00
+ai_modified: 2026-08-19T21:07:00+00:00
 last_deep_review: 2026-08-03T09:51:20+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ related_articles:
   - "[[apex/born-preserving-causal-efficacy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-05-11
 last_curated: 2026-05-11
 ---
@@ -55,7 +55,7 @@ Jaegwon Kim's [[reductionism|causal exclusion argument]], in its most direct for
 3. Systematic causal overdetermination — two independent sufficient causes for the same effect — is untenable.
 4. Therefore mental properties are causally inert, or they just are physical properties.
 
-Kim took the conclusion as a dilemma forcing physicalist reduction. "If anything is causally efficacious in bringing about a physical event, it must itself be physical" (Kim, 2005, p. 17, paraphrased). The argument's force depends entirely on premise 1: there must already be a *sufficient* physical cause for the effect, so any further candidate cause would either duplicate the physical cause's work or be screened off as redundant.
+Kim took the conclusion as a dilemma forcing physicalist reduction: on his closure and exclusion principles, anything that is causally efficacious in bringing about a physical event must itself be physical (Kim 2005, ch. 1, pp. 15–17). The argument's force depends entirely on premise 1: there must already be a *sufficient* physical cause for the effect, so any further candidate cause would either duplicate the physical cause's work or be screened off as redundant.
 
 Kim acknowledged that his argument generalises uncomfortably. If physical micro-causes are always sufficient, then chemistry, biology, and economics are equally excluded — a result he conceded was difficult to live with (Kim, 2005, ch. 2). The [[causal-closure-debate-historical-survey|historical survey of the closure debate]] traces this generalisation problem.
 
