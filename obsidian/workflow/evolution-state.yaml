@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-19T23:07:53.694459+00:00'
-session_count: 19237
+last_updated: '2026-08-19T23:22:05.281145+00:00'
+session_count: 19238
 cycle_position: 12778
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-19T22:27:16.651931+00:00'
+  agentic-social: '2026-08-19T23:43:22.045069+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-19T22:07:20.689811+00:00'
@@ -27,7 +23,7 @@ last_runs:
   deep-review: '2026-08-19T22:58:49.021591+00:00'
   embed-videos: '2026-08-19T16:07:36.701634+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  harvest-research-subjects: '2026-08-19T17:06:55.969278+00:00'
+  harvest-research-subjects: '2026-08-19T23:22:05.281145+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-19T01:31:47.775740+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-19'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-19'
@@ -195,17 +187,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-19'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-12T22:26:42.454270+00:00'
-    topics:
-    - ai-consciousness
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/simulation/
-  - date: '2026-08-12T23:42:42.544109+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/prehension/
   - date: '2026-08-13T00:38:11.743160+00:00'
     topics:
     - quantum-biology-and-neural-consciousness
@@ -662,6 +649,13 @@ agentic_social:
     date: '2026-08-19T22:26:22.745683+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/
+    date: '2026-08-19T23:43:22.044942+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - russellian-monism
+    - epiphenomenalism
+    - delegatory-causation
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
