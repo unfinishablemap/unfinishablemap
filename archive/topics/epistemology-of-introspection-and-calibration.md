@@ -3,7 +3,7 @@ title: "The Epistemology of Introspection and Its Calibration"
 created: 2026-02-11
 modified: 2026-03-21
 human_modified: null
-ai_modified: 2026-08-02T09:20:13+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 draft: false
 description: "What kind of knowledge does introspection provide, and how reliable is it? Competing models, five calibration strategies, and a gradient of warranted trust that grounds the Map's phenomenal evidence."
 archived: true
@@ -38,7 +38,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-20
 last_curated: null
 last_deep_review: 2026-03-20T13:33:00+00:00
@@ -108,7 +108,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically: strongest for attended phenomenal content, weaker for background states, absent for causal processes. The calibration strategies map this gradient in detail.
 
-**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy in a pattern consistent with genuine perceptual skill acquisition (Fox et al. 2012). The analogy is straightforward: an untrained listener hears noise where a trained musician hears harmonic structure; an untrained bird-watcher sees brown birds where an ornithologist sees distinct species. We do not conclude that bird song is unreliable data — we recognise that observation requires trained attention. [[neurophenomenology|Neurophenomenological]] work adds an independent channel: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004).
+**Trainability.** Introspective accuracy rises with experience — meditation experience predicts introspective accuracy in a pattern consistent with genuine perceptual skill acquisition, though the design is cross-sectional (Fox et al. 2012). The analogy is straightforward: an untrained listener hears noise where a trained musician hears harmonic structure; an untrained bird-watcher sees brown birds where an ornithologist sees distinct species. We do not conclude that bird song is unreliable data — we recognise that observation requires trained attention. [[neurophenomenology|Neurophenomenological]] work adds an independent channel: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004).
 
 **Observer-modifying limitation.** William James observed that introspecting thought is "like seizing a spinning top to catch its motion" (*The Principles of Psychology*, 1890). Pre-reflective consciousness becomes reflective consciousness in the act of examination. Contemplative traditions acknowledge this structural constraint: Sartre's analysis of being-for-itself suggests consciousness cannot objectify itself without distortion. The best methods mitigate but cannot eliminate this transformation.
 
@@ -148,7 +148,7 @@ Predictive success does not prove phenomenal accuracy — a systematically disto
 
 ### Strategy Five: Training-Dependent Accuracy
 
-If introspection were fundamentally broken, practice should not improve performance. Fox et al. (2012) found that meditation experience predicted introspective accuracy, following a pattern characteristic of genuine skill acquisition. Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy — meta-calibration: better knowledge of *when* introspection is working.
+If introspection were fundamentally broken, practice should not improve performance. Fox et al. (2012) found that meditation experience predicted introspective accuracy, following a pattern characteristic of genuine skill acquisition, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy in a memory though not a perception domain — meta-calibration: better knowledge of *when* introspection is working.
 
 The sceptic can respond that training improves consistency without improving accuracy. The response combines this strategy with convergence and cross-modal verification: training effects from *independent* traditions converge, and cross-modal verification confirms trained reports track neural reality more precisely.
 

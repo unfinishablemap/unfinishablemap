@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-02 09:20:13+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Contemplative Evidence for Consciousness Theories
 archived: true
 archived_date: 2026-02-19 15:36:00+00:00
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-15 14:55:00+00:00
-lastmod: 2026-08-02 09:20:13+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/contemplative-training-and-phenomenal-access/
 related_articles:
@@ -62,7 +62,7 @@ Beginning practitioners discover that ordinary experience is noisier than expect
 
 With sustained practice, practitioners access the temporal fine structure of experience. Rather than perceiving a continuous stream of thought, meditators begin to notice discrete mental events arising and passing. Buddhist traditions describe this as *khaṇavāda* (momentariness)—the observation that what seems continuous is actually a rapid succession of distinct experiential moments. Phenomenological traditions following Husserl describe parallel findings: the retention-primal impression-protention structure of [temporal-consciousness](/concepts/temporal-consciousness/) becomes directly observable rather than merely theorised.
 
-This is not available to untrained introspection. The broader pattern of contemplative skill acquisition supports the disclosure claim: Fox and colleagues (2012) demonstrated that meditation experience predicts introspective accuracy on a logarithmic learning curve—the same pattern found in other skill acquisition. Their study measured body-scanning accuracy specifically, but the logarithmic skill-acquisition dynamic suggests a general principle: contemplative training progressively refines introspective access, whether the target is somatosensory awareness or temporal phenomenology.
+This is not available to untrained introspection. The broader pattern of contemplative skill acquisition supports the disclosure claim: Fox and colleagues (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient—a pattern resembling skill acquisition, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Their study measured body-scanning accuracy specifically, but the logarithmic experience gradient suggests a general principle: contemplative training progressively refines introspective access, whether the target is somatosensory awareness or temporal phenomenology.
 
 ### Stage Three: The Awareness-Content Distinction
 
@@ -84,7 +84,7 @@ The progressive disclosure of phenomenal structure creates a test case for compe
 
 [Illusionism](/concepts/illusionism/) holds that phenomenal consciousness is an introspective illusion—the brain represents itself as having qualitative experience it actually lacks. The strongest objection to using contemplative evidence against illusionism is the independence problem: introspection investigates consciousness *using* consciousness. If the introspective mechanism is itself part of the illusion, training might refine the mechanism without correcting it—producing more detailed artefacts rather than more accurate observations.
 
-The neurophenomenological response meets this objection directly. Trained meditators' first-person reports do not float free of third-person verification. They *converge* with independent neural measurement in ways that untrained reports do not. The jhāna states offer a suggestive example: practitioners describe a specific progression of phenomenal qualities (directed attention with joy → equanimity → formless states), and 7-Tesla fMRI case studies find that jhāna practice reorganises brain connectivity in ways consistent with these phenomenological reports—disrupted hierarchical organisation and increased global integration (Demir et al. 2025). Fox and colleagues (2012) showed more broadly that meditation experience predicts introspective accuracy on a logarithmic learning curve, using body-scanning as a measurable proxy for introspective skill — a psychophysical result rather than a neural one, since that study scored reports against published normative thresholds rather than scanning its own participants. The two channels together — accuracy against objective benchmarks, and phenomenological categories that track imaging findings — supply the independence that pure introspection lacks.
+The neurophenomenological response meets this objection directly. Trained meditators' first-person reports do not float free of third-person verification. They *converge* with independent neural measurement in ways that untrained reports do not. The jhāna states offer a suggestive example: practitioners describe a specific progression of phenomenal qualities (directed attention with joy → equanimity → formless states), and 7-Tesla fMRI case studies find that jhāna practice reorganises brain connectivity in ways consistent with these phenomenological reports—disrupted hierarchical organisation and increased global integration (Demir et al. 2025). Fox and colleagues (2012) showed more broadly that meditation experience predicts introspective accuracy along a logarithmic experience gradient (cross-sectional, so correlational), using body-scanning as a measurable proxy for introspective skill — a psychophysical result rather than a neural one, since that study scored reports against published normative thresholds rather than scanning its own participants. The two channels together — accuracy against objective benchmarks, and phenomenological categories that track imaging findings — supply the independence that pure introspection lacks.
 
 A materialist might respond that convergence between reports and neural states is exactly what improved brain self-monitoring would produce—all within a purely physical framework. This is correct as far as it goes, but it does not rescue illusionism specifically. The illusionist claims that phenomenal properties are misrepresentations: the brain represents itself as having qualitative experience it actually lacks. If training refines this misrepresentation to align *more closely* with neural reality, the "illusion" becomes increasingly accurate—at which point it is no longer clear what distinguishes an accurate representation of phenomenal states from genuine phenomenal access. Convergence is compatible with materialism broadly, but it undermines the specific illusionist claim that phenomenal properties are artefacts rather than features of experience.
 

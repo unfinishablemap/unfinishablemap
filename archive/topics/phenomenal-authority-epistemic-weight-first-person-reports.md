@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority—from near
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-08-02T08:03:21+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-29
 last_curated:
 last_deep_review: 2026-03-29T19:36:00+00:00
@@ -68,7 +68,7 @@ The spectrum becomes more tractable when phenomenal authority is decomposed into
 
 **Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility. Doubting that one is having an experience is itself an experience—the denial is self-refuting at the moment of assertion. Even Schwitzgebel's scepticism has almost no purchase at this level; his examples concern *what* experience is like, not *whether* it exists. Husserl classified this as *apodictic* evidence: the negation is inconceivable (Husserl 1931). Nagel's (1974) question—"What is it like to be a bat?"—presupposes this layer: asking what experience is like requires that experience exists.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators show greater metacognitive precision in detecting their own attentional states than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). Acquaintance operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues. But judgements about intensity, valence, and categorical classification can err.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Experience predicts accuracy—meditators show greater metacognitive precision in detecting their own attentional states than untrained subjects (Fox et al. 2012; cross-sectional, so correlational), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). Acquaintance operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues. But judgements about intensity, valence, and categorical classification can err.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience. Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed, whether emotional experience has stable phenomenal signatures, whether thought has sensory imagery. Background states are, in Husserl's taxonomy, merely presumptive—co-intended but not directly presented.
 

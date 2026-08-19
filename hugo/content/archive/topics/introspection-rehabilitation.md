@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-09 00:41:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into The Epistemology of Introspection and Its Calibration
 archived: true
 archived_date: 2026-03-21 18:48:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-18 06:14:00+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/introspection-rehabilitation/
 related_articles:
@@ -85,7 +85,7 @@ This is a failure of theory, not of observation. An astronomer using incorrect s
 
 ### Training Effects
 
-If introspection were fundamentally broken, practice should not help. But Fox and colleagues (2012) found that meditation experience predicts introspective accuracy on a logarithmic learning curve—the same pattern seen in perceptual skill acquisition. Cross-sectional data from meditators with 1 to 15,000 hours of practice showed that expert meditators significantly outperformed novices. No novice showed high introspective accuracy.
+If introspection were fundamentally broken, practice should not help. But Fox and colleagues (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient—the same pattern seen in perceptual skill acquisition. Cross-sectional data from meditators with 1 to 15,000 hours of practice showed that expert meditators significantly outperformed novices, so experience predicts accuracy rather than practice being shown to produce it. No novice showed high introspective accuracy.
 
 The skill analogy is straightforward. An untrained listener hears noise where a trained musician hears harmonic structure. An untrained bird-watcher sees brown birds where an ornithologist sees distinct species. We do not conclude that bird song or harmonic structure is unreliable data—we recognise that observation requires trained attention. The same logic applies to introspection: untrained reports are unreliable not because introspection is broken but because it is a skill that most people have not developed.
 
@@ -142,7 +142,7 @@ The result is not a return to Cartesian infallibility but something more useful:
 
 The [Dualism](/tenets/#dualism) tenet depends on taking phenomenal evidence seriously. If introspection were globally unreliable, the experiential data grounding arguments for dualism—the qualitative character of conscious states, the [explanatory gap](/concepts/explanatory-gap/) between physical description and phenomenal reality—would be suspect. The rehabilitation programme secures this evidential base. The process/content distinction shows that the philosophical stakes concern the domain where introspection performs best: current phenomenal content rather than causal processes.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly illustrated. Dismissing millennia of contemplative investigation as "merely subjective" may reflect methodological parochialism rather than parsimony. The Fox study's logarithmic learning curve suggests that apparent unreliability diagnoses *untrained* introspection, not introspection as such. The simplest account—that first-person data are worthless—is systematically misleading, just as the tenet predicts.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly illustrated. Dismissing millennia of contemplative investigation as "merely subjective" may reflect methodological parochialism rather than parsimony. The Fox study's logarithmic experience gradient—correlational—suggests that apparent unreliability diagnoses *untrained* introspection, not introspection as such. The simplest account—that first-person data are worthless—is systematically misleading, just as the tenet predicts.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains indirect support from the "observer transforms the observed" phenomenon. If attending to experience changes experience, consciousness has causal efficacy. The contamination worry—that introspection alters its target—becomes evidence for what bidirectional interaction predicts: consciousness is not a passive spectator but a participant that shapes what it observes.
 

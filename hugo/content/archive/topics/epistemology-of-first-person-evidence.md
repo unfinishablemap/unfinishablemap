@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-08-02 09:20:13+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
 archived_date: 2026-04-01 20:41:00+00:00
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-01 11:38:00+00:00
-lastmod: 2026-08-02 09:20:13+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/epistemology-of-first-person-evidence/
 related_articles:
@@ -82,7 +82,7 @@ A purely third-person neuroscience of consciousness cannot escape this dependenc
 
 [Phenomenological method](/topics/phenomenal-authority-and-first-person-evidence/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
 
-These operations require training and sustained practice. [Phenomenological evidence](/concepts/phenomenological-evidence/) becomes more reliable as methodological discipline increases — [introspective accuracy](/concepts/introspection/) follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
+These operations require training and sustained practice. [Phenomenological evidence](/concepts/phenomenological-evidence/) becomes more reliable as methodological discipline increases — [introspective accuracy](/concepts/introspection/) follows a skill-acquisition-shaped gradient where experienced observers reliably outperform novices (Fox et al. 2012, cross-sectional), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
 
 ## Husserl's Evidence Taxonomy
 
@@ -150,7 +150,7 @@ Strict calibration against an independent standard is impossible — the [observ
 
 **Predictive power.** Contemplative reports of altered temporal experience and distinct jhāna states preceded experimental and neuroimaging confirmation. The microphenomenological method (Petitmengin 2006) has guided researchers to neural processes they were not looking for. Confabulations are post-hoc; predictions are pre-hoc.
 
-**Training-dependent accuracy.** Fox et al. (2012) found meditation experience predicted introspective accuracy in a genuine skill-acquisition pattern. Baird et al. (2014) found meditation training enhanced [metacognitive](/concepts/metacognition/) accuracy — better knowledge of *when* introspection is working.
+**Experience-dependent accuracy.** Fox et al. (2012) found meditation experience predicted introspective accuracy in a pattern resembling skill acquisition; the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Baird et al. (2014) found meditation training enhanced [metacognitive](/concepts/metacognition/) accuracy in a memory though not a perception domain — better knowledge of *when* introspection is working.
 
 ## The Gradient of Warranted Trust
 

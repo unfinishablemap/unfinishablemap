@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-08-02 09:20:13+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into The Epistemology of Introspection and Its Calibration
 archived: true
 archived_date: 2026-03-20 13:11:00+00:00
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 01:53:00+00:00
-lastmod: 2026-08-02 09:20:13+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/epistemology-of-introspection/
 related_articles:
@@ -102,7 +102,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [calibration strategies](/topics/epistemology-of-introspection-and-calibration/) map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides the validation framework: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004), supporting the view that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective accuracy rises with meditation experience along a logarithmic experience gradient — matching the acquisition pattern of genuine perceptual skills, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides the validation framework: where EEG has been recorded, long-term practitioners' reported states carry distinctive neural signatures that untrained reports do not (Lutz et al. 2004), supporting the view that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 

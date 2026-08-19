@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-22 03:59:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Contemplative Evidence for Consciousness
 archived: true
 archived_date: 2026-02-22 11:55:00+00:00
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-05 18:55:00+00:00
-lastmod: 2026-02-22 03:59:00+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/contemplative-evidence-for-consciousness-theories/
 related_articles:
@@ -63,7 +63,7 @@ Meditation training progressively expands what aspects of consciousness become a
 
 **Surface observation**: Beginning practitioners discover involuntary mental activity far exceeding what untrained [introspection](/concepts/introspection/) registers—a structural finding, not a doctrinal imposition.
 
-**Temporal microstructure**: Sustained practice reveals the fine structure of experience—discrete mental events arising and passing, paralleling Husserl's retention-primal impression-protention structure of [temporal-consciousness](/concepts/temporal-consciousness/). Fox and colleagues (2012) demonstrated that meditation experience predicts introspective accuracy on a logarithmic learning curve, supporting the view that training reveals genuine structure rather than producing artefacts.
+**Temporal microstructure**: Sustained practice reveals the fine structure of experience—discrete mental events arising and passing, paralleling Husserl's retention-primal impression-protention structure of [temporal-consciousness](/concepts/temporal-consciousness/). Fox and colleagues (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient (the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it), consistent with the view that training reveals genuine structure rather than producing artefacts.
 
 **The awareness-content distinction**: Deeper practice discloses that [awareness persists](/concepts/witness-consciousness/) even as contents change—the witness phenomenon, described in Advaita Vedānta as *sākṣin* and in Buddhist traditions as the distinction between *viññāṇa* (consciousness) and its objects. This distinction cannot be communicated through description alone; experiencing it through practice produces a recognisable shift in how all subsequent experience is structured.
 

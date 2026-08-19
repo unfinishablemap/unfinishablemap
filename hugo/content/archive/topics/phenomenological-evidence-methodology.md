@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-09 00:41:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Phenomenological Evidence
 archived: true
 archived_date: 2026-02-06 18:01:00+00:00
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-02 00:15:00+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/phenomenological-evidence-methodology/
 related_articles:
@@ -65,7 +65,7 @@ This parallels scientific methodology: individual observations are fallible, but
 
 Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) established explicit standards for phenomenological evidence:
 
-**Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more experience, better accuracy.
+**Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient—more experience, better accuracy, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it.
 
 **Mutual constraint**: Phenomenological reports gain evidential weight where they can be checked against independent measurement — neural where recording has been done, psychophysical otherwise — and neural findings in turn validate phenomenological distinctions. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-31
-ai_modified: 2026-04-05 09:48:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
 archived_date: 2026-04-05 12:03:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-01 01:38:00+00:00
-lastmod: 2026-04-05 09:48:00+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/phenomenological-method-and-evidence-standards/
 related_articles:
@@ -92,7 +92,7 @@ The bridge is genuine but partial. As the [circularity objection](/concepts/phen
 
 A persistent objection holds that phenomenological evidence is unreliable because introspection is unreliable. Schwitzgebel's catalogue of introspective failures — people misjudging the richness of peripheral vision, confabulating about their emotional states — seems to undermine any method that depends on first-person reports.
 
-The phenomenological response draws a sharp line between naive introspection and trained phenomenological observation. The distinction is not ad hoc. Varela, Petitmengin, and the neurophenomenological tradition have documented that training systematically improves the quality of first-person reports. Fox et al. (2012) found that meditation experience predicts introspective accuracy, with gains following a skill-acquisition pattern. Microphenomenological interview techniques reveal experiential microstructures — the anticipatory phenomenology before epileptic seizures, the detailed texture of creative insight — invisible to untrained observation.
+The phenomenological response draws a sharp line between naive introspection and trained phenomenological observation. The distinction is not ad hoc. Varela, Petitmengin, and the neurophenomenological tradition have documented that training systematically improves the quality of first-person reports. Fox et al. (2012) found that meditation experience predicts introspective accuracy, in a pattern resembling skill acquisition, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Microphenomenological interview techniques reveal experiential microstructures — the anticipatory phenomenology before epileptic seizures, the detailed texture of creative insight — invisible to untrained observation.
 
 This creates a reliability gradient. At one end: naive self-report, which is indeed unreliable for many purposes. At the other: disciplined phenomenological observation by trained practitioners using systematic methods, which produces convergent evidence of experiential structures. The convergence across independently trained observers — what [contemplative-epistemology](/concepts/contemplative-epistemology/) tracks as cross-traditional agreement on experiential structures — provides evidence that the method accesses something beyond individual idiosyncrasy. Dismissing the entire gradient because its lower end is unreliable is like dismissing astronomy because naked-eye observations are imprecise.
 

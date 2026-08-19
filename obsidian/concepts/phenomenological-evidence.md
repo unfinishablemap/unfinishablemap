@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-07-30T16:50:26+00:00
+ai_modified: 2026-08-19T14:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[voids/confabulation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-02-06
 last_curated:
 last_deep_review: 2026-07-14T11:39:52+00:00
@@ -90,7 +90,7 @@ Husserl's method addresses privacy through [[intersubjectivity]]: when multiple 
 
 ### Varela's Neurophenomenology
 
-Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [[introspection]] produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve.
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [[introspection]] produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient; the design is cross-sectional, so it establishes that experience predicts accuracy rather than that practice produced the difference.
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 

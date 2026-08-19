@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-09 00:41:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-19 14:55:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-08-03 20:00:07+00:00
 apex_sources:
 - topics/eastern-philosophy-consciousness
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-19 14:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ We face an asymmetry. External observation detects brain states; internal observ
 
 [Introspection](/concepts/introspection/) faces real challenges. Nisbett and Wilson demonstrated that people confabulate reasons for their choices; Schwitzgebel catalogued domains where self-reports fail. But the critique's target matters: these studies show we lack access to cognitive *processes*, not to phenomenal *content*. When a meditator reports "awareness observing thoughts without engaging with them," they describe an experiential structure present to consciousness, claiming nothing about the neural mechanisms producing it. Contemplative phenomenology can therefore stand where the causal machinery remains opaque.
 
-Expertise tracks accuracy. Fox et al. (2012) found meditation experience predicts introspective accuracy on a logarithmic learning curve, with no novice meditators scoring high. Husserlian [phenomenological reduction](/concepts/phenomenology/) and contemplative training stand to casual introspection as telescopic observation stands to the naked eye: same domain, same commitment to careful attention, dramatically different resolving power. Dismissing contemplative reports because untrained introspection is unreliable takes the wrong instrument as the measure.
+Expertise tracks accuracy. Fox et al. (2012) found meditation experience predicts introspective accuracy along a logarithmic experience gradient, with no novice meditators scoring high; the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it (the falsifiers below take this up). Husserlian [phenomenological reduction](/concepts/phenomenology/) and contemplative training stand to casual introspection as telescopic observation stands to the naked eye: same domain, same commitment to careful attention, dramatically different resolving power. Dismissing contemplative reports because untrained introspection is unreliable takes the wrong instrument as the measure.
 
 ## What Contemplatives Discover
 

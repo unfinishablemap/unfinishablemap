@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-09T00:41:00+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-26T09:02:00+00:00
@@ -33,7 +33,7 @@ related_articles:
   - "[[neurophenomenology-meditation-studies-2026-01-14]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-03-14T22:56:00+00:00
@@ -89,7 +89,7 @@ Skeptics argue that [[introspection]] is fundamentally unreliable. But the intro
 
 Neurophenomenology responds:
 
-1. **Expertise tracks accuracy**: Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve. No novice showed high accuracy.
+1. **Expertise tracks accuracy**: Fox et al. (2012) found meditation experience predicts introspective accuracy along a logarithmic experience gradient; the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. No novice showed high accuracy.
 2. **Content, not process**: Contemplatives attend to phenomenal character—what jhana is like, how temporal flow presents itself—not to why they choose options.
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects.
 4. **Predictive power**: Trained observers' reports are measurably more accurate than untrained ones against objective psychophysical criteria (Fox et al. 2012), and where EEG has been recorded, their reported states track distinctive neural signatures (Lutz et al. 2004).

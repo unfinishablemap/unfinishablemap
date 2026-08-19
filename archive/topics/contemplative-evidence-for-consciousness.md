@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence eliminates epiphenomenali
 created: 2026-01-27
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-24T08:44:00+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[testing-the-map-from-inside]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-02-24T08:44:00+00:00
@@ -142,7 +142,7 @@ The honest assessment: contemplative evidence eliminates epiphenomenalism and re
 
 Three conditions distinguish genuine verification from mere illustration: **predictive specificity**, **independence** from the framework being tested, and **replicability** across traditions.
 
-**Verification succeeds** for causal efficacy (phenomenological character predicts outcomes; neuroplastic changes replicate across Buddhist, secular, and Christian traditions), irreducibility of first-person methods (phenomenological training is necessary; replicates across paradigms), and introspection as trainable skill (Fox et al. 2012; meditation predicts introspective accuracy).
+**Verification succeeds** for causal efficacy (phenomenological character predicts outcomes; neuroplastic changes replicate across Buddhist, secular, and Christian traditions), irreducibility of first-person methods (phenomenological training is necessary; replicates across paradigms), and introspection as trainable skill (Fox et al. 2012; meditation experience predicts introspective accuracy, though the design is cross-sectional).
 
 **Verification fails** for mechanism of interaction (contemplative evidence shows *that* consciousness influences brain states but not *how*), the substrate question (meditation reveals consciousness-as-experienced but not whether it requires biological brains), and cross-traditional metaphysical disagreements (Buddhist *anattā* vs. Advaita *ātman*).
 

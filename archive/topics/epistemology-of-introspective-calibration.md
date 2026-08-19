@@ -4,7 +4,7 @@ description: "How can introspection be calibrated when no independent standard f
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 last_deep_review: 2026-03-11T01:38:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[introspective-opacity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-10
 last_curated:
 archived: true
@@ -82,7 +82,7 @@ The strongest objection is that convergence reflects shared human neurobiology r
 
 Francisco Varela's [[neurophenomenology]] addresses calibration by combining trained first-person reports with third-person neural measurement, allowing each to constrain the other.
 
-The evidence is suggestive. Brewer et al. (2011) found that experienced meditators' reports of reduced mind-wandering corresponded to reduced default mode network activity. Jhāna states described by practitioners have distinct neural signatures confirmed by 7-Tesla fMRI (Hagerty et al. 2013). Fox et al. (2012) found meditation experience predicts introspective accuracy on a logarithmic learning curve — the same acquisition pattern observed in perceptual skills.
+The evidence is suggestive. Brewer et al. (2011) found that experienced meditators' reports of reduced mind-wandering corresponded to reduced default mode network activity. Jhāna states described by practitioners have distinct neural signatures confirmed by 7-Tesla fMRI (Hagerty et al. 2013). Fox et al. (2012) found meditation experience predicts introspective accuracy along a logarithmic experience gradient — the same acquisition pattern observed in perceptual skills, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it.
 
 If training merely produced more elaborate confabulations, reports should systematically diverge from neural data as practice introduces biases. Instead, the convergence between first-person and third-person measures *increases* with training. This is difficult to explain under the hypothesis that introspection is globally unreliable.
 
@@ -104,9 +104,9 @@ But predictive power does rule out certain sceptical hypotheses. If introspectiv
 
 ## Strategy Five: Training-Dependent Accuracy
 
-If introspection were fundamentally broken — if the instrument itself were faulty rather than merely untrained — practice should not improve performance. Fox et al.'s (2012) logarithmic learning curve for introspective accuracy is significant precisely because it follows the pattern characteristic of genuine skill acquisition.
+If introspection were fundamentally broken — if the instrument itself were faulty rather than merely untrained — practice should not improve performance. Fox et al.'s (2012) logarithmic experience gradient for introspective accuracy is suggestive precisely because it follows the pattern characteristic of genuine skill acquisition, though as correlational evidence it cannot by itself show that practice produced the difference.
 
-Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy — the ability to assess the reliability of one's own cognitive judgements. This is meta-calibration: not just better introspection but better knowledge of when introspection is working. Expert contemplatives develop not certainty but *calibrated uncertainty* — they learn where their phenomenal access is reliable and where it is not.
+Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy in a memory though not a perception domain — the ability to assess the reliability of one's own cognitive judgements. This is meta-calibration: not just better introspection but better knowledge of when introspection is working. Expert contemplatives develop not certainty but *calibrated uncertainty* — they learn where their phenomenal access is reliable and where it is not.
 
 The sceptic can respond that training might improve the consistency of reports without improving their accuracy. A group of wine tasters trained together may converge on shared descriptions that are internally consistent but phenomenologically arbitrary — learned conventions rather than detected properties. The training effect establishes improvability but does not by itself distinguish genuine from artefactual improvement.
 

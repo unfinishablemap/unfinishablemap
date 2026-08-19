@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-30 17:13:23+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-08-19 14:55:00+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
 - concepts/introspection
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:04:27+00:00
-lastmod: 2026-07-30 17:13:23+00:00
+lastmod: 2026-08-19 14:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,7 +183,7 @@ The tests above may have produced clear results or muddy ones. A critical questi
 
 ### The Training Evidence
 
-Fox et al. (2012) found meditation experience predicts introspective accuracy following a logarithmic learning curve—the same pattern seen in other skill acquisition. In their study, no novice meditators showed high accuracy while experienced practitioners reliably detected subtle phenomenological distinctions. This is one study, not definitive proof, but it suggests introspection resembles other trained observations: untrained observers miss what trained observers detect.
+Fox et al. (2012) found meditation experience predicts introspective accuracy along a logarithmic experience gradient—a pattern resembling skill acquisition, though the design is cross-sectional, so it establishes that experience predicts accuracy rather than that practice produced the difference. In their study, no novice meditators showed high accuracy, while experienced practitioners' reports of their own tactile sensitivity tracked objective psychophysical measures closely. This is one study, not definitive proof, but it suggests introspection resembles other trained observations: untrained observers miss what trained observers detect.
 
 The practical implication: if your first attempts at these tests produce muddy results, don't conclude the phenomena aren't there. Introspective skill develops.
 

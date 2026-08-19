@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-07-30 16:30:44+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Contemplative Evidence for Consciousness Theories
 archived: true
 archived_date: 2026-02-21 03:36:00+00:00
@@ -29,7 +29,7 @@ description: How meditation phenomenology and neuroplasticity distinguish betwee
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-07-30 16:30:44+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/contemplative-evidence-and-verification/
 related_articles:
@@ -160,7 +160,7 @@ Some advanced contemplatives report a further stage: the witness *itself* dissol
 
 ### Introspection as Trainable Skill
 
-The [introspection](/concepts/introspection/) reliability debate bears directly on verification. If introspection were fundamentally unreliable, contemplative reports could not verify anything. Fox and colleagues (2012) showed that meditation experience predicts introspective accuracy with a logarithmic learning curve — expert meditators significantly outperform novices in matching subjective reports to objective measures. Microphenomenology (Petitmengin, 2006) provides specific techniques that minimise confabulation by directing attention to the *process* of experience rather than post-hoc interpretation.
+The [introspection](/concepts/introspection/) reliability debate bears directly on verification. If introspection were fundamentally unreliable, contemplative reports could not verify anything. Fox and colleagues (2012) showed that meditation experience predicts introspective accuracy along a logarithmic experience gradient — expert meditators significantly outperform novices in matching subjective reports to objective measures, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Microphenomenology (Petitmengin, 2006) provides specific techniques that minimise confabulation by directing attention to the *process* of experience rather than post-hoc interpretation.
 
 This verifies a necessary precondition: contemplative evidence is epistemically tractable. The finding that training improves reliability distinguishes contemplative practice from mere introspection. The verification is specific (untrained subjects do not show the same accuracy), independent (the researchers tested accuracy against external measures, not against theoretical expectations), and replicated across different meditation traditions and experimental paradigms.
 

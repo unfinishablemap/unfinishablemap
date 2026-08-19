@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-18 13:40:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:55:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/contemplative-epistemology/
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:54:03+00:00
-lastmod: 2026-08-18 13:40:30+00:00
+lastmod: 2026-08-19 14:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ Contemplative epistemology accepts these critiques but limits their scope. They 
 
 ### Trained Attention
 
-Fox et al. (2012) tested meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices on a logarithmic learning curve, the same pattern observed in perceptual skill acquisition. This result is promising but indirect: introspective accuracy on a sensory-discriminative task is not identical to reporting on the structure of phenomenal consciousness. The inferential gap must be acknowledged.
+Fox et al. (2012) tested meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices along a logarithmic experience gradient, the shape a skill-acquisition curve would predict; the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. This result is promising but indirect: introspective accuracy on a sensory-discriminative task is not identical to reporting on the structure of phenomenal consciousness. The inferential gap must be acknowledged.
 
 The case for extension rests on convergent evidence, and the convergence is real but uneven. Baird et al. (2014)—a two-week randomised training program with an active control, the closest thing to a controlled test—enhanced introspective accuracy in a memory but not a perception domain, and perception is the domain Fox's comparison sits in. Kok and Singer (2017) documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision. A 2025 study integrating first-, second-, and third-person methods argues that contemplatives trained in sustained attention, mindfulness, and introspection are an ideal population for phenomenological research precisely because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025). The honest summary is narrower than a blanket training effect. Accuracy tracks accumulated practice hours in the perceptual domain Fox measured, and controlled training enhances it in the memory domain. The two designs measure different things, so Baird is no failed replication of Fox; it does mean the extension rests on correlational evidence in the one domain where the controlled test came out null.
 
@@ -145,7 +145,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative training produces measurable neural changes (documented by [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) that enhance observational capacity, which in turn reveals phenomenological structures invisible to untrained attention. Within the Map's framework, this loop illustrates what bidirectional interaction predicts: conscious attention reshaping the neural substrate that supports it. The "observer transforms the observed" problem—often cited as a liability—is at minimum *consistent* with bidirectional interaction, even if it does not independently establish it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic learning curve suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology is not simplicity—it is the loss of data available from no other source.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic experience gradient—correlational, as the scope note above records—suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology is not simplicity—it is the loss of data available from no other source.
 
 ## Further Reading
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-07-30 16:50:26+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-19 14:55:00+00:00
+ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/phenomenological-evidence/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 11:39:52+00:00
-lastmod: 2026-07-30 16:50:26+00:00
+lastmod: 2026-08-19 14:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Husserl's method addresses privacy through [intersubjectivity](/concepts/intersu
 
 ### Varela's Neurophenomenology
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [introspection](/concepts/introspection/) produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [introspection](/concepts/introspection/) produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient; the design is cross-sectional, so it establishes that experience predicts accuracy rather than that practice produced the difference.
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 

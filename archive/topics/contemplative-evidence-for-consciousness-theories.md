@@ -4,7 +4,7 @@ description: "How meditation training tests consciousness theories—eliminating
 created: 2026-01-27
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-22T03:59:00+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 last_deep_review: 2026-02-05T18:55:00+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[introspection-rehabilitation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-27
 last_curated:
 coalesced_from:
@@ -59,7 +59,7 @@ Meditation training progressively expands what aspects of consciousness become a
 
 **Surface observation**: Beginning practitioners discover involuntary mental activity far exceeding what untrained [[introspection]] registers—a structural finding, not a doctrinal imposition.
 
-**Temporal microstructure**: Sustained practice reveals the fine structure of experience—discrete mental events arising and passing, paralleling Husserl's retention-primal impression-protention structure of [[temporal-consciousness]]. Fox and colleagues (2012) demonstrated that meditation experience predicts introspective accuracy on a logarithmic learning curve, supporting the view that training reveals genuine structure rather than producing artefacts.
+**Temporal microstructure**: Sustained practice reveals the fine structure of experience—discrete mental events arising and passing, paralleling Husserl's retention-primal impression-protention structure of [[temporal-consciousness]]. Fox and colleagues (2012) found that meditation experience predicts introspective accuracy along a logarithmic experience gradient (the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it), consistent with the view that training reveals genuine structure rather than producing artefacts.
 
 **The awareness-content distinction**: Deeper practice discloses that [[witness-consciousness|awareness persists]] even as contents change—the witness phenomenon, described in Advaita Vedānta as *sākṣin* and in Buddhist traditions as the distinction between *viññāṇa* (consciousness) and its objects. This distinction cannot be communicated through description alone; experiencing it through practice produces a recognisable shift in how all subsequent experience is structured.
 

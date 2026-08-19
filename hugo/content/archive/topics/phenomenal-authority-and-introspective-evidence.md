@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-02 08:03:21+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
 archived_date: 2026-04-01 20:41:00+00:00
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-31 14:38:00+00:00
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /topics/phenomenal-authority-and-introspective-evidence/
 related_articles:
@@ -82,7 +82,7 @@ The spectrum becomes more tractable when phenomenal authority is decomposed into
 
 **Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility. Doubting that one is having an experience is itself an experience—the denial is self-refuting at the moment of assertion. Even Schwitzgebel's scepticism has almost no purchase at this level; his examples concern *what* experience is like, not *whether* it exists.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Experience predicts accuracy—meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012; cross-sectional, so correlational), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience. Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
 

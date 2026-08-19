@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-09 00:41:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 14:58:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Contemplative Epistemology
 archived: true
 archived_date: 2026-02-26 21:46:00+00:00
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-16 19:43:00+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-19 14:58:00+00:00
 modified: *id001
 original_path: /concepts/contemplative-reliability/
 related_articles:
@@ -58,11 +58,11 @@ Research identifies four conditions under which contemplative reports achieve re
 
 ### Trained Attention
 
-Fox et al. (2012) provide suggestive evidence, though with an important limitation. Meditators with 1 to 15,000 hours of practice were tested for *interoceptive* accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices. The relationship followed a logarithmic learning curve, the same pattern observed in perceptual skill acquisition. No novice showed high accuracy.
+Fox et al. (2012) provide suggestive evidence, though with an important limitation. Meditators with 1 to 15,000 hours of practice were tested for *interoceptive* accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices. The relationship followed a logarithmic experience gradient, the shape a skill-acquisition curve would predict; the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. No novice showed high accuracy.
 
 This result is promising but indirect. Interoceptive accuracy—reliably detecting when and how strongly one is touched—is a sensory-discriminative task. It is not the same as accurately reporting on the structure of phenomenal consciousness itself. The inferential gap between "meditators become better at body-awareness tasks" and "meditators become better at observing consciousness" must be acknowledged. What Fox et al. show is that contemplative experience predicts accuracy on *some* forms of first-person report — and, their design being cross-sectional, without establishing that practice produced the difference. Whether this improvement extends to the structural features of phenomenal experience—the domain most relevant to philosophical arguments about consciousness—requires additional argument.
 
-The case for that extension rests on convergent evidence rather than any single study. Trained meditators show improved metacognitive sensitivity across multiple paradigms (Baird et al. 2014 found meditation training enhanced metacognitive accuracy in memory tasks; Kok & Singer 2017 documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision). The pattern is consistent: training in sustained attention improves the accuracy of reports about one's own mental states, with the degree of improvement tracking practice hours. A 2025 *Frontiers in Psychology* study on integrating first- and second-person methods with experimental data argues that contemplatives trained in attention, mindfulness, and introspection are an ideal population for phenomenological research because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025).
+The case for that extension rests on convergent evidence rather than any single study. Trained meditators show improved metacognitive sensitivity across multiple paradigms (Baird et al. 2014 found meditation training enhanced metacognitive accuracy in memory tasks but not in a perception task; Kok & Singer 2017 documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision). The pattern is consistent: controlled training in sustained attention improves the accuracy of reports about one's own mental states in the memory domain, and accuracy tracks practice hours in the perceptual domain Fox measured. A 2025 *Frontiers in Psychology* study on integrating first- and second-person methods with experimental data argues that contemplatives trained in attention, mindfulness, and introspection are an ideal population for phenomenological research because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025).
 
 The implication—stated carefully—is that contemplative reliability is a trainable skill, not a fixed trait. The evidence is strongest for attention-adjacent discriminations (detecting mind-wandering, tracking body sensations, reporting affective valence). The extension to deeper phenomenal structures (the constructed character of selfhood, the temporal grain of experience) rests on the convergence arguments discussed in the cross-modal verification section, not on direct psychophysical measurement.
 
@@ -111,7 +111,7 @@ Contemplative reliability is not all-or-nothing. It varies by domain:
 
 | Domain | Reliability | Evidence |
 |--------|------------|----------|
-| Current attended phenomenal states | High | Interoceptive studies (Fox et al. 2012); metacognitive paradigms (Baird et al. 2014); microphenomenology convergence |
+| Current attended phenomenal states | High | Interoceptive studies (Fox et al. 2012, cross-sectional, so correlational); metacognitive paradigms (Baird et al. 2014, memory domain only—perception null); microphenomenology convergence |
 | Temporal microstructure of experience | Moderate-high | Convergent reports across Buddhist (khaṇa), Husserlian time-consciousness, and contemplative traditions (cross-traditional convergence, though systematic comparison remains limited) |
 | Distinction between awareness and content | Moderate-high | Convergence across Buddhist, Hindu, and secular traditions |
 | Peripheral or background states | Low | Schwitzgebel's catalogue of failures |
@@ -126,7 +126,7 @@ This gradient matters for assessing any philosophical argument that appeals to c
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative training produces measurable neural changes (documented by [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) that enhance observational capacity, which in turn reveals phenomenological structures invisible to untrained attention. A physicalist can explain this as ordinary neuroplasticity—behavioural training reshaping the brain—without invoking non-physical causation. But within the Map's framework, this loop illustrates what bidirectional interaction predicts: conscious attention reshaping the neural substrate that supports it. The "observer transforms the observed" problem—often cited as a liability—is at minimum *consistent* with bidirectional interaction, even if it does not independently establish it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic learning curve suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology is not simplicity—it is the loss of data available from no other source.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic experience gradient—correlational—suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology is not simplicity—it is the loss of data available from no other source.
 
 ## Further Reading
 

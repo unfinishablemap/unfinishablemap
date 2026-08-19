@@ -4,7 +4,7 @@ description: "Can meditation test philosophical theories of consciousness? Exami
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T09:35:00+00:00
+ai_modified: 2026-08-19T14:58:00+00:00
 last_deep_review: 2026-02-09T09:35:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-09
 last_curated:
 archived: true
@@ -74,7 +74,7 @@ The independence condition holds because the gap's persistence was not predicted
 
 ### Introspection as Trainable Skill
 
-The [[introspection]] reliability debate bears directly on verification. If introspection were fundamentally unreliable, contemplative reports could not verify anything. Fox and colleagues (2012) showed that meditation experience predicts introspective accuracy with a logarithmic learning curve—expert meditators significantly outperform novices in matching subjective reports to objective measures. Microphenomenology (Petitmengin, 2006) provides specific techniques that minimize confabulation by directing attention to the *process* of experience rather than post-hoc interpretation.
+The [[introspection]] reliability debate bears directly on verification. If introspection were fundamentally unreliable, contemplative reports could not verify anything. Fox and colleagues (2012) showed that meditation experience predicts introspective accuracy along a logarithmic experience gradient—expert meditators significantly outperform novices in matching subjective reports to objective measures, though the design is cross-sectional, so experience predicts accuracy rather than practice being shown to produce it. Microphenomenology (Petitmengin, 2006) provides specific techniques that minimize confabulation by directing attention to the *process* of experience rather than post-hoc interpretation.
 
 This verifies a necessary precondition: contemplative evidence is epistemically tractable. The finding that training improves reliability distinguishes contemplative practice from mere introspection. The verification is specific (untrained subjects do not show the same accuracy), independent (the researchers tested accuracy against external measures, not against theoretical expectations), and replicated across different meditation traditions and experimental paradigms.
 

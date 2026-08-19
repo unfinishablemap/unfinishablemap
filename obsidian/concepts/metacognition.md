@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-08-02T07:43:44+00:00
+ai_modified: 2026-08-19T14:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[agent-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-17
 last_curated: null
 last_deep_review: 2026-07-25T23:42:36+00:00
@@ -88,7 +88,7 @@ Metacognitive judgments converge on the anterior prefrontal cortex (aPFC). Kapet
 
 The aPFC connection illuminates [[dream-consciousness|lucid dreaming]]. Frequent lucid dreamers show larger aPFC volume and enhanced connectivity (Baird et al. 2018). Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while still dreaming. The 2025 Demirel findings identify it as a [[dream-consciousness#Lucid Dreaming as Distinct State|distinct consciousness state]]: the dream was conscious before becoming lucid, and lucidity adds metacognitive access without adding consciousness *per se*. This **state-independence** shows metacognition operates within whatever consciousness mode is active—it does not create the mode.
 
-If metacognition were identical to consciousness, training it should be impossible—you cannot become more conscious than conscious. But metacognitive accuracy improves with practice along standard skill-acquisition curves. Fox et al. (2012) found meditation experience predicts introspective accuracy across practitioners with 1 to 15,000 hours of training, following a logarithmic learning curve. Metacognition is a trainable cognitive skill, not a fundamental feature of consciousness.
+If metacognition were identical to consciousness, training it should be impossible—you cannot become more conscious than conscious. But it is trainable. Baird et al. (2014), a two-week randomised program with an active control, improved metacognitive accuracy in a memory though not a perception domain; Fox et al. (2012) found meditation experience predicts introspective accuracy across practitioners with 1 to 15,000 hours of training, along a logarithmic experience gradient—a cross-sectional design, so experience predicts accuracy rather than practice being shown to produce it. Metacognition is a trainable cognitive skill, not a fundamental feature of consciousness.
 
 ## Why Metarepresentation May Require Consciousness
 
@@ -223,6 +223,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 
 ## References
 
+1. Baird, B., et al. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
 1. Baird, B., et al. (2018). Frequent lucid dreaming and frontopolar cortex connectivity. *Scientific Reports*, 8, 17798.
 1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
