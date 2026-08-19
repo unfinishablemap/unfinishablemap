@@ -8,7 +8,7 @@ draft: false
 description: "Citation-reading audit of topics/thermal-consciousness-and-the-interface: a predictive-processing source whose position the article inverts, a boundary argument contradicted by the sentence after the one quoted, and a 55-year-old named concept the article's uniqueness claim overlooks."
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-08-19
 last_curated:
 ---

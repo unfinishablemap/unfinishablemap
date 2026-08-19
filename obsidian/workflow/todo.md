@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-19)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a88f5718651cf89d8.jsonl shows 40x claude-opus-5 message(s) alongside the primary model between 2026-08-19T20:44:29.536000+00:00 and 2026-08-19T20:53:34.999000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-19
-
 ### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve
 - **Status**: pending
@@ -2766,6 +2760,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-19: Verify ai_system attribution after model-fallback event (2026-08-19)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a88f5718651cf89d8.jsonl shows 40x claude-opus-5 message(s) alongside the primary model between 2026-08-19T20:44:29.536000+00:00 and 2026-08-19T20:53:34.999000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-08-19: `topics/motor-control-quantum-zeno` L68 attributes "~280-300ms ... versus ~100ms for automatic responses" to Thura & Cisek (2014) alone — the ~100ms figure is Müller & Rabbitt's reflexive-attention latency, and Thura & Cisek report no automatic-response contrast
 - **Type**: refine-draft
