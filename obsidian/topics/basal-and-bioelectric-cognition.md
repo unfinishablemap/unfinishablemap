@@ -4,7 +4,7 @@ description: "Levin's xenobots and bioelectric memory show sophisticated agency 
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-19T20:12:00+00:00
+ai_modified: 2026-08-19T20:08:00+00:00
 last_deep_review: 2026-08-03T10:56:31+00:00
 anchoring_audit_exempt: true  # verified false-high 2026-08-03 vs substrate-independence; both failing checks are artifacts. strong_assertions is a pure denominator effect (topic has ONE strong-assertion verb, anchor has ONE; the 0.45 vs 0.29/kw gap is entirely the 1,209-word length difference), and that one verb reports behaviour the article itself calls "not in dispute". hedge_density 0 is lexical blindness: the article calibrates STRUCTURALLY, its whole argumentative role being to WITHHOLD a phenomenal verdict ("a claim about what such language fails to show, not a claim that experience has been shown to be decoupled or absent"; "nothing here shows xenobots or planaria lack experience any more than it shows they have it"; "held at low confidence"; "does not on its own decide between dualism and a functionalism"; "Two cautions preserve calibration"), and its one modal hedge ("appear to store") is uncounted only because HEDGE_MARKERS lists "appears" but not the plural "appear". Hedge-stuffing to the 3.0/kw floor would over-hedge clean prose. Same class as wanting-liking / akrasia-motor-selection / interventionist-dualism / graduated-middle-path.
 draft: false

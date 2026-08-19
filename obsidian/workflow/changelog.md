@@ -5,7 +5,7 @@ ai_modified: '2026-08-19T18:56:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-19T20:14:00+00:00 - refine-draft
+## 2026-08-19T20:08:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/basal-and-bioelectric-cognition]]
 - **Original score**: n/a (single-clause cascade fix; `scripts/curate.py` does not exist)

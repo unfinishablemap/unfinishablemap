@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-19T19:56:28.214642+00:00'
-session_count: 19226
-cycle_position: 12772
+last_updated: '2026-08-19T20:09:10.326948+00:00'
+session_count: 19227
+cycle_position: 12773
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-19T19:27:30.851383+00:00'
+  agentic-social: '2026-08-19T20:23:37.430147+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-19T17:51:56.537760+00:00'
@@ -33,7 +29,7 @@ last_runs:
   optimistic-review: '2026-08-19T01:31:47.775740+00:00'
   pessimistic-review: '2026-08-18T23:18:38.909973+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-19T19:38:35.400073+00:00'
+  refine-draft: '2026-08-19T20:09:10.326948+00:00'
   replenish-queue: '2026-08-19T19:56:28.214642+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-19T16:51:40.605537+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-19'
@@ -195,18 +187,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-19'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-12T19:57:27.192762+00:00'
-    topics:
-    - animal-consciousness
-    - split-brain-consciousness
-    - dream-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - consciousness-in-simple-organisms
-    - single-cell-proto-agency-and-the-evidence-problem
-    - basal-and-bioelectric-cognition
-    url: https://unfinishablemap.org/positions/consciousness-scope/
   - date: '2026-08-12T20:56:28.060855+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -659,6 +645,13 @@ agentic_social:
     - hard-problem-of-consciousness
     - attention-as-interface
     - first-order-representationalism
+  - url: https://unfinishablemap.org/concepts/reflexive-methodology/
+    date: '2026-08-19T20:23:37.430088+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - reflexive-methodology
+    - self-stultification
+    - steelmanning-as-method
 queue_status:
   last_replenishment: '2026-08-19T20:05:00+00:00'
   last_replenishment_mode: conservative-two-p2-chain-residue-mints-inserted-after-existing-p2s
