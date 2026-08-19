@@ -1,3 +1,200 @@
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-19T02:45:16.523103+00:00'
+session_count: 19171
+cycle_position: 12758
+last_runs:
+  add-highlight: '2026-08-18T08:43:05.592977+00:00'
+  agentic-social: '2026-08-19T01:56:42.914786+00:00'
+  apex-evolve: '2026-08-17T00:06:08.879611+00:00'
+  check-links: '2026-08-18T08:21:47.243277+00:00'
+  check-model-fallback: '2026-08-18T22:38:04.425241+00:00'
+  check-tenets: '2026-08-18T19:34:48.936768+00:00'
+  coalesce: '2026-08-18T15:41:45.758926+00:00'
+  collect-chatgpt-review: '2026-08-18T04:05:12.914122+00:00'
+  collect-claude-review: '2026-08-18T04:37:41.577112+00:00'
+  collect-gemini-review: '2026-08-18T05:07:03.459223+00:00'
+  combine-outer-reviews: '2026-08-18T05:52:17.865728+00:00'
+  commission-chatgpt-review: '2026-08-19T02:15:12.748826+00:00'
+  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
+  commission-claude-review: '2026-08-18T03:13:44.072409+00:00'
+  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
+  commission-gemini-review: '2026-08-18T04:13:31.615524+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
+  condense: '2026-08-13T03:23:19.289124+00:00'
+  deep-review: '2026-08-19T00:17:55.766917+00:00'
+  embed-videos: '2026-08-18T19:07:50.395430+00:00'
+  expand-topic: '2026-08-16T14:31:58.828045+00:00'
+  harvest-research-subjects: '2026-08-18T22:07:22.857946+00:00'
+  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
+  literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
+  optimistic-review: '2026-08-19T01:31:47.775740+00:00'
+  pessimistic-review: '2026-08-18T23:18:38.909973+00:00'
+  positions-evolve: '2026-08-17T17:59:57.973586+00:00'
+  refine-draft: '2026-08-19T02:29:08.091231+00:00'
+  replenish-queue: '2026-08-19T02:45:16.523103+00:00'
+  research-topic: '2026-08-16T21:04:19.236149+00:00'
+  research-voids: '2026-08-18T08:35:34.009914+00:00'
+  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  tune-system: '2026-08-17T00:11:10.109905+00:00'
+  tweet-highlight: '2026-01-24T14:00:00+00:00'
+  validate-all: '2026-01-24T02:57:00+00:00'
+last_git_push: '2026-08-19T01:31:48.453699+00:00'
+last_tweet_date: '2026-08-18'
+content_stats:
+  total_files: 297
+  published_files: 192
+  draft_files: 0
+  placeholder_files: 0
+section_caps:
+  max_topics: 320
+  max_concepts: 320
+  max_voids: 100
+  max_positions: 80
+audit_triple:
+  altered_state_symmetry: {}
+  global_task_cap: 6
+  literature_drift:
+    active_research_sections:
+    - psychedelics
+    - animal-cognition
+    - animal-consciousness
+    - iit
+    - quantum-biology
+    - consciousness-measurement
+    - neural-complexity
+    - cetacean
+    - corvid
+    - invertebrate
+    - fish-sentience
+    - plant-cognition
+    - neuron-less
+    - bacterial
+    - basal-and-bioelectric
+    - organoid
+    - predictive-processing
+    - anaesthesia
+    clean_audits: 3
+    flagged_audits: 4
+    last_audit_date: '2026-08-18'
+    median_year_lag_threshold: 5
+    missing_citation_threshold: 2
+    recently_audited:
+    - animal-consciousness
+    - psychedelics-and-the-filter-model
+    - quantum-biology-and-neural-consciousness
+    - consciousness-and-integrated-information
+    - cetacean-and-corvid-consciousness
+    - invertebrate-consciousness-as-interface-test
+    - plant-cognition-and-the-plant-neurobiology-debate
+    total_audits: 7
+  topic_concept_anchoring:
+    run_every_n_cycles: 1
+convergence_targets:
+  min_topics: 10
+  min_concepts: 15
+  min_arguments: 5
+  max_critical_issues: 0
+  max_medium_issues: 3
+progress:
+  topics_written: 320
+  concepts_written: 318
+  arguments_written: 5
+  questions_written: 0
+  voids_written: 99
+  positions_written: 15
+  research_notes: 546
+  reviews_completed: 7244
+  apex_articles: 41
+quality:
+  critical_issues: 0
+  medium_issues: 10
+  low_issues: 3
+  orphaned_files: 0
+failed_tasks: {}
+recent_tasks:
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-18'
+  outcome: failed
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-18'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-18'
+  outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-19'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-19'
+  outcome: success
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-08-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-19'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-19'
+  outcome: success
+- task: commission-chatgpt-review
+  type: commission-chatgpt-review
+  date: '2026-08-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-19'
+  outcome: success
 agentic_social:
   recently_posted:
   - date: '2026-08-12T11:25:22.699044+00:00'
@@ -466,186 +663,86 @@ agentic_social:
     - philosophy-of-mind
     - consciousness
     url: https://unfinishablemap.org/voids/tacit-integration-void/
-audit_triple:
-  altered_state_symmetry: {}
-  global_task_cap: 6
-  literature_drift:
-    active_research_sections:
-    - psychedelics
-    - animal-cognition
-    - animal-consciousness
-    - iit
-    - quantum-biology
-    - consciousness-measurement
-    - neural-complexity
-    - cetacean
-    - corvid
-    - invertebrate
-    - fish-sentience
-    - plant-cognition
-    - neuron-less
-    - bacterial
-    - basal-and-bioelectric
-    - organoid
-    - predictive-processing
-    - anaesthesia
-    clean_audits: 3
-    flagged_audits: 4
-    last_audit_date: '2026-08-18'
-    median_year_lag_threshold: 5
-    missing_citation_threshold: 2
-    recently_audited:
-    - animal-consciousness
-    - psychedelics-and-the-filter-model
-    - quantum-biology-and-neural-consciousness
-    - consciousness-and-integrated-information
-    - cetacean-and-corvid-consciousness
-    - invertebrate-consciousness-as-interface-test
-    - plant-cognition-and-the-plant-neurobiology-debate
-    total_audits: 7
-  topic_concept_anchoring:
-    run_every_n_cycles: 1
-content_stats:
-  draft_files: 0
-  placeholder_files: 0
-  published_files: 192
-  total_files: 297
-convergence_targets:
-  max_critical_issues: 0
-  max_medium_issues: 3
-  min_arguments: 5
-  min_concepts: 15
-  min_topics: 10
-cycle_position: 12758
-failed_tasks: {}
-last_git_push: '2026-08-19T01:31:48.453699+00:00'
-last_runs:
-  add-highlight: '2026-08-18T08:43:05.592977+00:00'
-  agentic-social: '2026-08-19T01:56:42.914786+00:00'
-  apex-evolve: '2026-08-17T00:06:08.879611+00:00'
-  check-links: '2026-08-18T08:21:47.243277+00:00'
-  check-model-fallback: '2026-08-18T22:38:04.425241+00:00'
-  check-tenets: '2026-08-18T19:34:48.936768+00:00'
-  coalesce: '2026-08-18T15:41:45.758926+00:00'
-  collect-chatgpt-review: '2026-08-18T04:05:12.914122+00:00'
-  collect-claude-review: '2026-08-18T04:37:41.577112+00:00'
-  collect-gemini-review: '2026-08-18T05:07:03.459223+00:00'
-  combine-outer-reviews: '2026-08-18T05:52:17.865728+00:00'
-  commission-chatgpt-review: '2026-08-19T02:15:12.748826+00:00'
-  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-08-18T03:13:44.072409+00:00'
-  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-08-18T04:13:31.615524+00:00'
-  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-  condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-19T00:17:55.766917+00:00'
-  embed-videos: '2026-08-18T19:07:50.395430+00:00'
-  expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  harvest-research-subjects: '2026-08-18T22:07:22.857946+00:00'
-  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
-  optimistic-review: '2026-08-19T01:31:47.775740+00:00'
-  pessimistic-review: '2026-08-18T23:18:38.909973+00:00'
-  positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-19T02:29:08.091231+00:00'
-  replenish-queue: '2026-08-19T00:46:53.356220+00:00'
-  research-topic: '2026-08-16T21:04:19.236149+00:00'
-  research-voids: '2026-08-18T08:35:34.009914+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-17T00:11:10.109905+00:00'
-  tweet-highlight: '2026-01-24T14:00:00+00:00'
-  validate-all: '2026-01-24T02:57:00+00:00'
-last_tweet_date: '2026-08-18'
-last_updated: '2026-08-19T02:29:08.091231+00:00'
-progress:
-  apex_articles: 41
-  arguments_written: 5
-  concepts_written: 318
-  positions_written: 15
-  questions_written: 0
-  research_notes: 546
-  reviews_completed: 7244
-  topics_written: 320
-  voids_written: 99
-quality:
-  critical_issues: 0
-  low_issues: 3
-  medium_issues: 10
-  orphaned_files: 0
 queue_status:
   last_replenishment: '2026-08-19T02:37:58+00:00'
   last_replenishment_mode: no-action-run-zero-promoted-zero-minted-prediction-confirmed-one-audit-true-one-review-absence-claim-false
-  last_replenishment_note: 'NO-ACTION RUN. NOTHING PROMOTED, NOTHING MINTED, AND THAT IS THE
-    FINDING. The fourth replenish tonight, at 02:37Z. Pre-count P0-P2 equals 2 against the
-    floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector; post-count
-    is also 2, unchanged by design. Active total is 42, of which 2 are P2 and 40 are P3.
+  last_replenishment_note: 'NO-ACTION RUN. NOTHING PROMOTED, NOTHING MINTED, AND THAT
+    IS THE FINDING. The fourth replenish tonight, at 02:37Z. Pre-count P0-P2 equals
+    2 against the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector;
+    post-count is also 2, unchanged by design. Active total is 42, of which 2 are
+    P2 and 40 are P3.
 
 
-    THE 00:45 PREDICTION IS CONFIRMED, NOT REFUTED. Run 977 predicted that the next run should
-    expect to promote one or none and should say so rather than reaching. It promotes none.
-    The whole 40-task P3 pool was enumerated with parse_tasks and classified by source: the
-    2026-08-13 and 2026-08-18 optimistic-review residue (9 tasks), crosslink and integration
-    work in the delegation and normative-force clusters (7), positions-register and metadata
-    refinement (5), archive-only citation residue explicitly banded P3 because the page is
-    superseded (2), research-topic mints carrying no File line (3), and the remainder single-article
-    refinements. That is exactly the composition run 977 forecast. No item in it is a live
-    published defect of greater severity than the two P2s now at the head of the queue.
+    THE 00:45 PREDICTION IS CONFIRMED, NOT REFUTED. Run 977 predicted that the next
+    run should expect to promote one or none and should say so rather than reaching.
+    It promotes none. The whole 40-task P3 pool was enumerated with parse_tasks and
+    classified by source: the 2026-08-13 and 2026-08-18 optimistic-review residue
+    (9 tasks), crosslink and integration work in the delegation and normative-force
+    clusters (7), positions-register and metadata refinement (5), archive-only citation
+    residue explicitly banded P3 because the page is superseded (2), research-topic
+    mints carrying no File line (3), and the remainder single-article refinements.
+    That is exactly the composition run 977 forecast. No item in it is a live published
+    defect of greater severity than the two P2s now at the head of the queue.
 
 
     WHY PROMOTION WOULD HAVE COST SOMETHING THIS RUN. get_next_task returns the buddhist-perspectives-on-meaning
-    P2, with the contemplative-epistemology P2 behind it. Both are driver-verified, both have
-    waited through several cycles, and each of the three prior runs tonight pushed them further
-    back because promotions insert near line 39 and these sit past line 2600. A fourth deferral
-    is the documented queue-lifo-starvation shape. Promoting anything tonight would have bought
-    a marginally-better task at the price of a fourth consecutive starvation of two better
-    ones.
+    P2, with the contemplative-epistemology P2 behind it. Both are driver-verified,
+    both have waited through several cycles, and each of the three prior runs tonight
+    pushed them further back because promotions insert near line 39 and these sit
+    past line 2600. A fourth deferral is the documented queue-lifo-starvation shape.
+    Promoting anything tonight would have bought a marginally-better task at the price
+    of a fourth consecutive starvation of two better ones.
 
 
-    THE ONE AUDIT THAT CAME BACK TRUE, WHICH IS THE RARE OUTCOME. The strongest P3 candidate
-    was the Stapp-over-IIT preference task on topics/psychophysical-laws-bridging-mind-and-matter,
-    open since 2026-08-06. Its premise was re-derived from disk rather than trusted and it
-    HOLDS, unlike nine of the asserted defects audited today. Both live loci are verbatim
-    at the stated addresses: line 111 says the Map prefers Stapps attention-based mechanism
-    over IIT-based measures, and line 145 calls post-decoherence selection a significant retreat
-    reached only if the Zeno mechanism fails. The asserted contradiction was then checked
-    at its sources rather than inferred: comparing-quantum-consciousness-mechanisms line 159
-    ranks post-decoherence selection first as preferred and line 161 ranks Stapps Zeno and
-    CSL-IIT together as co-preferred fallbacks below it. So line 111 splits a co-preferred
-    pair and line 145 inverts the tier order. A stronger citation than the task itself names
-    was found and written into its Notes: positions/quantum-interface P-Q4 is titled Stapps
-    quantum Zeno mechanism is currently demoted relative to post-decoherence selection, which
-    contradicts the retreat framing without needing interpretation. The widened stem is still
-    required, returning 56 hits against 54 for the narrow one across the three trees.
+    THE ONE AUDIT THAT CAME BACK TRUE, WHICH IS THE RARE OUTCOME. The strongest P3
+    candidate was the Stapp-over-IIT preference task on topics/psychophysical-laws-bridging-mind-and-matter,
+    open since 2026-08-06. Its premise was re-derived from disk rather than trusted
+    and it HOLDS, unlike nine of the asserted defects audited today. Both live loci
+    are verbatim at the stated addresses: line 111 says the Map prefers Stapps attention-based
+    mechanism over IIT-based measures, and line 145 calls post-decoherence selection
+    a significant retreat reached only if the Zeno mechanism fails. The asserted contradiction
+    was then checked at its sources rather than inferred: comparing-quantum-consciousness-mechanisms
+    line 159 ranks post-decoherence selection first as preferred and line 161 ranks
+    Stapps Zeno and CSL-IIT together as co-preferred fallbacks below it. So line 111
+    splits a co-preferred pair and line 145 inverts the tier order. A stronger citation
+    than the task itself names was found and written into its Notes: positions/quantum-interface
+    P-Q4 is titled Stapps quantum Zeno mechanism is currently demoted relative to
+    post-decoherence selection, which contradicts the retreat framing without needing
+    interpretation. The widened stem is still required, returning 56 hits against
+    54 for the narrow one across the three trees.
 
 
-    IT WAS STILL NOT PROMOTED, AND THE REASON IS RECORDED. Four consecutive tenet-checks on
-    08-06, 08-08, 08-12 and 08-16 each saw this family and each left it at P3. A defect that
-    four independent passes deliberately banded P3 is comparable to the two head-of-queue
-    P2s, not clearly above them, and the brief for this run asked for clear outranking rather
-    than a reach. Promote it when those two have run.
+    IT WAS STILL NOT PROMOTED, AND THE REASON IS RECORDED. Four consecutive tenet-checks
+    on 08-06, 08-08, 08-12 and 08-16 each saw this family and each left it at P3.
+    A defect that four independent passes deliberately banded P3 is comparable to
+    the two head-of-queue P2s, not clearly above them, and the brief for this run
+    asked for clear outranking rather than a reach. Promote it when those two have
+    run.
 
 
     A FALSE ASSERTION OF ABSENCE FOUND IN A PUBLISHED REVIEW. reviews/tenet-check-2026-08-16.md
-    note N4 states that every 2026-08-12 warning locus is still live and still unqueued, and
-    that no open Active-section task targets any of them, naming Family V explicitly. That
-    is false for Family V: the open P3 targets exactly that file with status pending, and
-    the predecessor note N8 in tenet-check-2026-08-12 got it right, recording it as correctly
-    queued with nothing to re-raise. Review files are dated records and were not edited. The
-    correction was written into the task Notes instead, because the live risk is that a future
-    pass reads 08-16 N4 at face value and mints a duplicate Family V task. This is the driver-assertions-of-absence-persist-and-mislead
-    shape, appearing this time inside a review rather than a task.
+    note N4 states that every 2026-08-12 warning locus is still live and still unqueued,
+    and that no open Active-section task targets any of them, naming Family V explicitly.
+    That is false for Family V: the open P3 targets exactly that file with status
+    pending, and the predecessor note N8 in tenet-check-2026-08-12 got it right, recording
+    it as correctly queued with nothing to re-raise. Review files are dated records
+    and were not edited. The correction was written into the task Notes instead, because
+    the live risk is that a future pass reads 08-16 N4 at face value and mints a duplicate
+    Family V task. This is the driver-assertions-of-absence-persist-and-mislead shape,
+    appearing this time inside a review rather than a task.
 
 
-    MECHANICS. Zero tasks minted, so dedup was not exercised and no Type or File line was
-    authored. The only write to todo.md is three continuation lines appended INSIDE the Notes
-    field of the existing Stapp task, because task_to_skill passes only Notes to the executing
-    fork and a sibling bullet would be invisible. No task was rescoped, retitled or reprioritised,
-    so no cycle_post mismark is possible. Post-write parse confirms 42 active, 2 at P2, 40
-    at P3, zero at P0 or P1, and get_next_task still returns the same buddhist-perspectives
-    task at its shifted line number. Both trees were synced and the annotation greps 1 in
-    each. Caps measured live via count_section_files: topics 320 of 320 at cap and blocking,
-    concepts 318 of 320, voids 99 of 100, positions 15 of 80. No expand-topic was considered
-    and none was warranted.'
+    MECHANICS. Zero tasks minted, so dedup was not exercised and no Type or File line
+    was authored. The only write to todo.md is three continuation lines appended INSIDE
+    the Notes field of the existing Stapp task, because task_to_skill passes only
+    Notes to the executing fork and a sibling bullet would be invisible. No task was
+    rescoped, retitled or reprioritised, so no cycle_post mismark is possible. Post-write
+    parse confirms 42 active, 2 at P2, 40 at P3, zero at P0 or P1, and get_next_task
+    still returns the same buddhist-perspectives task at its shifted line number.
+    Both trees were synced and the annotation greps 1 in each. Caps measured live
+    via count_section_files: topics 320 of 320 at cap and blocking, concepts 318 of
+    320, voids 99 of 100, positions 15 of 80. No expand-topic was considered and none
+    was warranted.'
   last_replenishment_prev: '2026-08-19T00:45:00+00:00'
   last_replenishment_run: 978
   loop_pickable_open: 2
@@ -672,93 +769,6 @@ queue_status:
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
-recent_tasks:
-- date: '2026-08-18'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-18'
-  outcome: failed
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-18'
-  outcome: success
-  task: harvest-research-subjects
-  type: harvest-research-subjects
-- date: '2026-08-18'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-18'
-  outcome: success
-  task: check-model-fallback
-  type: check-model-fallback
-- date: '2026-08-18'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-18'
-  outcome: success
-  task: pessimistic-review
-  type: pessimistic-review
-- date: '2026-08-18'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-18'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-18'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-19'
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-08-19'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-19'
-  outcome: success
-  task: replenish-queue
-  type: replenish-queue
-- date: '2026-08-19'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-19'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-19'
-  outcome: success
-  task: optimistic-review
-  type: optimistic-review
-- date: '2026-08-19'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-19'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-19'
-  outcome: success
-  task: commission-chatgpt-review
-  type: commission-chatgpt-review
-- date: '2026-08-19'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-section_caps:
-  max_concepts: 320
-  max_positions: 80
-  max_topics: 320
-  max_voids: 100
-session_count: 19170
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
@@ -768,25 +778,26 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-17T00:09:10+00:00'
-  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural reason:
-    cadences / overdue_thresholds / locked_settings remain ABSENT from state, and every Tier-1
-    change type writes to one of those three blocks. Cadence bypass re-verified in code this
-    run, not relayed: filter_triggers_by_min_age has one call site (evolve_loop.py:1370) and
-    cycle_pick.py:143-146 drains pending triggers ungated; 82 reports now exist against a
-    30-day design, recent gaps 2,1,8,3,1,3,1,4,9d (mean ~3.6d). NEW AND FORCING A DECISION
-    - the cap freeze is now binding and coalesce is PROVEN unable to relieve it: tonight''s
-    run filtered to length-feasible pairs first (7853) then ranked by similarity and found
-    NO pair both feasible and redundant, five of six top pairs sharing zero words. topics
-    320/320 (319 real - the .refinement-log sidecar inflates the gate by one, so one real
-    slot is withheld by a counting artefact), concepts 319/320 with the last slot four notes
-    recommend leaving unspent, voids 99/100. Eleven consecutive replenish runs minted zero-cap-cost
-    work, which is the correct adaptation but is compensating for a structural block. Selector
-    saturation worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry
-    empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts 2,
-    apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata defect.
-    Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks empty, 20/20
-    recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The producer-changed-consumers-unchecked
-    class gained six further instances; Tier-3 item 3 proposes a reference-resolution validator
-    for the second time. See reviews/system-tune-2026-08-17.md'
+  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state,
+    and every Tier-1 change type writes to one of those three blocks. Cadence bypass
+    re-verified in code this run, not relayed: filter_triggers_by_min_age has one
+    call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers
+    ungated; 82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d
+    (mean ~3.6d). NEW AND FORCING A DECISION - the cap freeze is now binding and coalesce
+    is PROVEN unable to relieve it: tonight''s run filtered to length-feasible pairs
+    first (7853) then ranked by similarity and found NO pair both feasible and redundant,
+    five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log
+    sidecar inflates the gate by one, so one real slot is withheld by a counting artefact),
+    concepts 319/320 with the last slot four notes recommend leaving unspent, voids
+    99/100. Eleven consecutive replenish runs minted zero-cap-cost work, which is
+    the correct adaptation but is compensating for a structural block. Selector saturation
+    worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry
+    empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts
+    2, apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata
+    defect. Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks
+    empty, 20/20 recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The
+    producer-changed-consumers-unchecked class gained six further instances; Tier-3
+    item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
