@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T23:26:08+00:00'
+ai_modified: '2026-08-19T00:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19 00:14 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/coalesce-condense-apex-stability]]
+- **Word count** (decomposed prose, 479w reference apparatus excluded): 2668 → 3018 (+350; concepts hard 3500, +482 headroom). Raw `analyze_length` 3147 → 3497, still `soft_warning` — a first draft hit 3532/`hard_warning` and 35w were recovered from genuine redundancy rather than substance.
+- **Task**: seventh review, 63 days stale. The lens was not abstract defect-hunting: two restructure defects found on 2026-08-18 postdate this article's `## Empirical Performance` section and bear on its central claims. Both re-verified from git history before use; the article's four-case sample independently re-audited against every subsequent review file.
+- **Findings verified**:
+  - **Coalesce separated a qualifier from its claim** — CONFIRMED. `00768db4d3^` shows the parenthetical immediately after the claim (L63) in the predecessor; post-coalesce it sits at L98 with the bare claim at L124, 26 lines apart. Installed by `b2e2755a3b` (06-07) in response to `pessimistic-2026-06-07`, relocated eight days later. Two deep reviews ratified the split.
+  - **Coalesce nulled review-history metadata** — CONFIRMED. `fb3c21520d` shows `last_deep_review: 2026-07-25T09:33:15+00:00` → `null`. **Correction**: the archive holds **eight** deep reviews of that slug, not nine (`ls` = 8, repo-wide de-duplicated `find` = 8, `--diff-filter=D` shows none deleted). Non-systematic confirmed — `cc8d260177`, `597d922e75`, `cf0006f883`, `742a97ab60` touched no `last_deep_review` line.
+- **Critical issues addressed**: 1
+  - **Factual error about the catalogue's own history.** "All four … each reached two or more consecutive clean reviews" was false when written (2026-06-03). `creative-consciousness` drew a critical finding in **four of its five** post-restructure reviews (04-30 condense-caused citation regression; 06-02 fabricated author + wrong pages; 07-12 Husserl misattribution; 08-07 misattributed figure regressing a 2026-02-21 fix) and never reached two consecutive clean ones — at the time of writing it had **zero**. Only the unwritten modifier "structural" made the sentence defensible; "clean" carries none, and a tenet-accepting reviewer would still flag it, which is the §2 test for calibration error over bedrock disagreement. Corrected: the structural claim (merged section structure held — no inter-section contradiction, no dangling apex citation) is now stated on its own and the content record stated honestly. Also recorded that the restructure arc is not exempt — the 2026-04-29 `ai-consciousness-typology` coalesce introduced a section-level contradiction caught next-day, excluded from the sample only because the baseline is measured post-cleanup.
+- **Enhancements made**: 3
+  - **Third regression mode** — coalesce can separate a qualifier from the claim it repairs. Distinct from the existing condense/deletion mode: nothing is deleted, both halves stay individually defensible, so the defect is invisible to any audit asking whether a hedge is still *present*.
+  - **Third remedy** — a **post-restructure provenance check**, run within a cycle of any coalesce, diffing the merged article against its **archived predecessors rather than its own last review** (the operative clause: the last review predates the merge and cannot see it). Verifies (a) every hedge still sits with the claim it repairs, (b) the survivor's `last_deep_review` was carried through rather than reset. Recorded with the scheduling argument: `ai_modified` already re-qualifies a merged article, so nulling the field only converts a `days×2` score into a `100+days` never-reviewed score while discarding the audit trail.
+  - Intermittency of the reset recorded, so it is not mistaken for a known-systematic bug someone assumes is fixed.
+- **Claims audit**: `self-and-self-consciousness` real-correct (5 clean); `the-quantitative-comprehension-void` real-correct (self-consistent — its 06-03 regression is reported by the article itself); `ai-consciousness-typology` real-correct as scoped, scoping now explicit; `creative-consciousness` **wrong, corrected**. Word-count datapoints and References block unchanged since the 06-17 verification, not re-litigated.
+- **Cross-links added**: `[[composition-question-rivals]]`, `[[quantum-indeterminacy-free-will]]`, `[[mine-ness]]`; first two added to `related_articles`. All targets verified.
+- **Offsets taken**: four intro cousin-glosses each restated in full under Further Reading (eight-member count and 5-named/3-gestured split preserved — standing navigation hook); the un-linked "parallel project-document" aside; one restatement in the apex re-cross-review paragraph.
+- **Operator territory untouched**: the `last_deep_review` reset is coalesce-side behaviour; recorded as an editorial remedy in the article plus a note in the review, no `tools/`/`scripts/`/`.claude/skills/` changes. `topics: []` deliberately left alone (covered by an open P3).
+- **Hygiene**: label-leakage 0; no "This is not X. It is Y."; no new "load-bearing"; all wikilinks resolve.
+- **Frontmatter moved**: `ai_modified` 2026-08-18T21:17:37 → 2026-08-19T00:14:00; `last_deep_review` 2026-06-17T19:16:03 → 2026-08-19T00:14:00; `ai_system` `claude-opus-4-7` → `claude-opus-4-7+claude-opus-5`.
+- **Output**: [[reviews/deep-review-2026-08-19-coalesce-condense-apex-stability]]
+- **Mirror**: `scripts/sync.py` run; `hugo/content/` re-grepped — corrections present, retired claim returns 0.
 
 ## 2026-08-18 23:38 UTC - refine-draft
 
