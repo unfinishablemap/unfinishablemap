@@ -3,9 +3,9 @@ title: "Research Notes - Biological Naturalism"
 created: 2026-07-11
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-19T08:00:34+00:00
+ai_modified: 2026-08-19T15:55:54+00:00
 ---
 
 # Research: Biological Naturalism (John Searle)
@@ -45,6 +45,7 @@ John Searle's **biological naturalism** is the position that consciousness is (a
   - Accessible restatement; opens with "twelve problems" Searle calls "Descartes and Other Disasters," charging that "all of the most famous and influential theories [in philosophy of mind] are false."
   - Reaffirms: consciousness is caused by neuron behaviour and realized in the brain system, but is not *nothing but* neuronal behaviour — the point is to capture the first-person subjective features.
   - Distinguishes causal reduction (accepted) from ontological reduction (denied) more explicitly than the 1992 book.
+  - **Four-theses enumeration — VERIFIED AT PRIMARY TEXT 2026-08-19** (archive.org full-text scan, ch. 4 "Consciousness Part I", pp. 113–114): "I will state biological naturalism about consciousness as a set of four theses: 1. Conscious states, with their subjective, first-person ontology, are real phenomena in the real world. We cannot do an eliminative reduction of consciousness, showing that it is just an illusion. Nor can we reduce consciousness to its neurobiological basis, because such a third-person reduction would leave out the first-person ontology of consciousness. 2. Conscious states are entirely caused by lower level neurobiological processes in the brain. Conscious states are thus causally reducible to neurobiological processes. They have absolutely no life of their own, independent of the neurobiology. Causally speaking, they are not something 'over and above' neurobiological processes. 3. Conscious states are realized in the brain as features of the brain system, and thus exist at a level higher than that of neurons and synapses. Individual neurons are not conscious, but portions of the brain system composed of neurons are conscious. 4. Because conscious states are real features of the real world, they function causally. My conscious thirst causes me to drink water for example." Searle's own list is therefore (1) reality/irreducibility, (2) caused, (3) realized, (4) causally efficacious. "Not a distinct substance or property" is NOT one of the four — it is the moral he draws from them. The earlier article draft's list (caused / realized / irreducible / not-a-distinct-property) was a Map gloss; corrected 2026-08-19. Separately, ch. 7 (pp. 206–207) lists a *different* inconsistent tetrad (mind-body distinction, causal closure, causal exclusion, causal efficacy of the mental) — do not conflate with the four theses.
 - **Tenet alignment**: Same as above — non-dualist, anti-reductive.
 
 ### "Biological Naturalism" (2007)
@@ -54,6 +55,7 @@ John Searle's **biological naturalism** is the position that consciousness is (a
 - **Key points**:
   - Searle's most compact statement of the position "arrived at by trying to forget about the philosophical history of the problem and reminding oneself of what is known for a fact."
   - Directly confronts the property-dualism charge and offers his defense (see Major Positions below).
+  - **Four-theses enumeration — VERIFIED AT PRIMARY TEXT 2026-08-19** (archive.org scan of the 2007 Companion; print ch. 25, pp. 325–334; the list is at pp. 327–328): "1 The reality and irreducibility of consciousness. Conscious states, so defined, are real parts of the real world and cannot be eliminated or reduced to something else. … 2 The neuronal basis of consciousness. All conscious states are caused by lower level brain processes. … 3 The neuronal realization of consciousness. All conscious states are realized in the brain as higher-level or system features. … 4 The causal efficacy of consciousness. Conscious states, as real parts of the real world, function causally." Same four, same order, as *Mind* (2004) ch. 4. Note the print edition numbers the chapter 25 while the Wiley DOI is `.ch26`. The chapter then answers four objections (pp. 329–332): "you cannot have it both ways", epiphenomenalism, "reductionist or not?", and "caused ⇒ two things ⇒ dualism". Searle's own framing for the whole package (p. 329): the views are "what one would say if one had a modicum of scientific knowledge but was free of the traditional philosophical categories."
 - **Tenet alignment**: Conflicts with Tenet 1's substance framing; engaged as an adjacent rival.
 
 ### "Consciousness" (2000)
@@ -133,7 +135,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 
 ## Gaps in Research
 
-- Did not fetch the full text of the 1992 "Reductionism and Irreducibility" chapter or the 2007 chapter for *verbatim* long quotes beyond the liquidity/solidity line — an article using extended quotation should quote from the primary text and verify wording at the source (quote-fidelity is a distinct review axis).
+- Did not fetch the full text of the 1992 "Reductionism and Irreducibility" chapter for *verbatim* long quotes beyond the liquidity/solidity line — an article using extended quotation should quote from the primary text and verify wording at the source (quote-fidelity is a distinct review axis). (2026-08-19: the 2004 and 2007 enumerations and the 2002/2008 "Why I Am Not a Property Dualist" text have now been retrieved and grepped at primary copies — archive.org full text for 2004 and 2007; faculty.wcas.northwestern.edu/paller/dialogue/propertydualism.pdf for 2002. The 2002 paper does NOT enumerate the four theses; its four numbered points are answers mirroring the property dualist's four propositions — (1) no mutually exclusive metaphysical categories, (2) causal reducibility without ontological reducibility, (3) consciousness a state of the brain rather than an extra non-physical feature, (4) epiphenomenalism/causal-closure problems do not arise. Neither 1992 nor the 2000 *Annual Review* piece states a four-thesis list; both give the two-part "caused by and realized in" formula.)
 - Searle's precise late-career phrasing on whether the first-person/third-person ontology distinction is *ontological* or *epistemic* varies across the 1992/2000/2004/2007 statements; a careful article should note this evolution rather than treat the view as static.
 - Corcoran's and Nagel's exact formulations of the collapse charge were seen only in secondary summary here; verify their primary claims before attributing specific wording.
 

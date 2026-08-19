@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-19 08:00:34+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-19 15:55:54+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[substance-property-dualism]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-19 08:00:34+00:00
-lastmod: 2026-08-19 08:00:34+00:00
+lastmod: 2026-08-19 15:55:54+00:00
 modified: *id001
 related_articles:
 - '[[hard-problem-of-consciousness]]'
@@ -33,17 +33,17 @@ Biological naturalism is John Searle's theory that consciousness is a real, high
 
 ## The Four Theses
 
-Searle states biological naturalism as four claims that he insists are mutually consistent (Searle 1992; 2000; 2004; 2007):
+Searle states biological naturalism as a set of four theses (Searle 2004, pp. 113–114; restated in Searle 2007, pp. 327–328), phrased deliberately without the vocabulary of dualism or materialism—what anyone would say, he claims, given "a modicum of scientific knowledge" and freedom from the traditional categories:
 
-1. **Consciousness is caused by brain processes.** Lower-level neurobiological events—synaptic transmission, neuronal firing—cause conscious states. Nothing non-biological is required.
+1. **Consciousness is real and ontologically irreducible.** Conscious states, "with their subjective, first-person ontology, are real phenomena in the real world." They cannot be eliminated as an illusion or reduced to their neurobiological basis, because a third-person reduction "would leave out the first-person ontology of consciousness"—the very thing to be explained.
 
-2. **Consciousness is realized in the brain.** Conscious states are higher-level features of the brain *as a system*, not properties of individual neurons and not entities floating free of the neural substrate. Causation here is bottom-up: the micro-level causes the macro-level feature that the same system then possesses.
+2. **Consciousness is entirely caused by lower-level brain processes.** Synaptic transmission and neuronal firing cause conscious states; nothing non-biological is required. Conscious states are therefore *causally* reducible to neurobiology, with "absolutely no life of their own, independent of the neurobiology."
 
-3. **Consciousness is ontologically irreducible.** Conscious states have a *first-person* mode of existence—they exist only as experienced by a subject. A complete third-person, objective description of the brain always leaves out this first-person feature, which is precisely the thing to be explained.
+3. **Consciousness is realized in the brain as a system feature.** Conscious states exist at a level higher than neurons and synapses—individual neurons are not conscious, but portions of the brain system are. Causation is bottom-up: the micro-level causes the macro-level feature that the same system then possesses.
 
-4. **Consciousness is not a distinct substance or property.** Against substance dualism, there is no second thing. Against what Searle characterizes as property dualism, there is no extra non-physical property added onto the neural. Consciousness is just the brain doing something biological.
+4. **Consciousness functions causally.** "Because conscious states are real features of the real world, they function causally"—a conscious thirst causes the drinking.
 
-The apparent tension—how can a feature be both ontologically irreducible (thesis 3) and yet not a distinct property (thesis 4)?—is exactly the pressure point the Map presses on below.
+The claim that consciousness is *not* a distinct substance or property is not one of the four but the moral Searle draws from them: so stated, the theses leave no room for dualism of either kind, and "consciousness" names a state the brain can be in rather than something "over and above" it (Searle 2008). Two tensions follow on Searle's own numbering, and both are pressure points the Map presses on below: how can the irreducible first-person feature of thesis 1 fail to be a distinct property, and how can it function causally (thesis 4) when, by thesis 2, it has no causal powers beyond those of the neurobiology that causes it?
 
 ## Causal Reducibility Without Ontological Reducibility
 
@@ -57,7 +57,7 @@ Crucially, Searle treats this irreducibility as "a trivial consequence" of the p
 
 ### The Liquidity Disanalogy
 
-Searle's favored analogy is that consciousness relates to neurons as liquidity relates to water molecules. Stating the contrast with property dualism, he writes that where the property dualist means there is "an extra, distinct, non physical feature of the brain," he means instead that "consciousness is a state the brain can be in, in the way that liquidity and solidity are states that water can be in" (Searle 2008). Critics press hard on a disanalogy Searle himself concedes. Liquidity is *ontologically* reducible—once the molecular story is told, "liquid" adds nothing over and above it. Consciousness, by Searle's own lights, is not: even with the complete neural story, the first-person ontology remains unaccounted for. The liquidity analogy therefore illustrates thesis 1 (bottom-up causation) but breaks down at exactly the point that matters—thesis 3, irreducibility. Searle locates the disanalogy in the first-person/third-person ontology distinction and insists it still does not make consciousness *non-physical*. Whether that insistence is stable is the contested question.
+Searle's favored analogy is that consciousness relates to neurons as liquidity relates to water molecules. Stating the contrast with property dualism, he writes that where the property dualist means there is "an extra, distinct, non physical feature of the brain," he means instead that "consciousness is a state the brain can be in, in the way that liquidity and solidity are states that water can be in" (Searle 2008). Critics press hard on a disanalogy Searle himself concedes. Liquidity is *ontologically* reducible—once the molecular story is told, "liquid" adds nothing over and above it. Consciousness, by Searle's own lights, is not: even with the complete neural story, the first-person ontology remains unaccounted for. The liquidity analogy therefore illustrates theses 2 and 3 (bottom-up causation of a system feature) but breaks down at exactly the point that matters—thesis 1, irreducibility. Searle locates the disanalogy in the first-person/third-person ontology distinction and insists it still does not make consciousness *non-physical*. Whether that insistence is stable is the contested question.
 
 ## Rejecting Both Rivals
 
@@ -71,7 +71,7 @@ The position is thus deliberately located *between* the two camps the philosophy
 
 ## The Causal-Exclusion Tension
 
-A standing objection, pressed most sharply by Jaegwon Kim, is that biological naturalism cannot make thesis 3 (irreducibility) consistent with genuine mental causation. If consciousness is a higher-level feature that does real causal work, then either (i) the neural cause and the conscious cause together *overdetermine* behavior, or (ii) consciousness is *epiphenomenal* and does no distinctive work, or (iii) consciousness just *is* the neural state (identity)—the option Searle rejects.
+A standing objection, pressed most sharply by Jaegwon Kim, is that biological naturalism cannot make thesis 1 (irreducibility) consistent with thesis 4 (genuine mental causation)—a tension that, on Searle's own numbering, is internal to the position rather than imported from outside it. If consciousness is a higher-level feature that does real causal work, then either (i) the neural cause and the conscious cause together *overdetermine* behavior, or (ii) consciousness is *epiphenomenal* and does no distinctive work, or (iii) consciousness just *is* the neural state (identity)—the option Searle rejects.
 
 Searle's reply is that the trilemma never gets started for him: because consciousness is *causally* reducible, there is no second cause competing with the neural one, so no overdetermination and no epiphenomenalism arise; but because the *ontologies* differ, consciousness is still not identical to the neural state.
 
@@ -116,7 +116,7 @@ The Map presents biological naturalism as a rival it *resists*, not one it takes
 1. Searle, John R. (1992). *The Rediscovery of the Mind*. Cambridge, MA: MIT Press. DOI 10.7551/mitpress/5834.001.0001.
 2. Searle, John R. (2000). Consciousness. *Annual Review of Neuroscience*, 23, 557–578. DOI 10.1146/annurev.neuro.23.1.557.
 3. Searle, John R. (2004). *Mind: A Brief Introduction*. New York: Oxford University Press.
-4. Searle, John R. (2007). Biological Naturalism. In M. Velmans & S. Schneider (Eds.), *The Blackwell Companion to Consciousness* (ch. 26). Malden, MA: Blackwell. DOI 10.1002/9780470751466.ch26.
+4. Searle, John R. (2007). Biological Naturalism. In M. Velmans & S. Schneider (Eds.), *The Blackwell Companion to Consciousness* (ch. 25, pp. 325–334). Malden, MA: Blackwell. DOI 10.1002/9780470751466.ch26.
 5. Searle, John R. (2008). Why I Am Not a Property Dualist. In *Philosophy in a New Century: Selected Essays*, 152–160. Cambridge: Cambridge University Press. DOI 10.1017/CBO9780511812859.010.
 6. Kim, Jaegwon (1998). *Mind in a Physical World*. Cambridge, MA: MIT Press.
 7. Chalmers, David J. (1996). *The Conscious Mind*. New York: Oxford University Press.
