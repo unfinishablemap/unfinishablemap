@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-19T17:41:09.742673+00:00'
-session_count: 19218
+last_updated: '2026-08-19T17:51:56.537760+00:00'
+session_count: 19219
 cycle_position: 12769
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   agentic-social: '2026-08-19T17:25:56.235636+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-19T13:51:01.753673+00:00'
+  check-model-fallback: '2026-08-19T17:51:56.537760+00:00'
   check-tenets: '2026-08-18T19:34:48.936768+00:00'
   coalesce: '2026-08-19T08:53:02.528021+00:00'
   collect-chatgpt-review: '2026-08-19T04:04:29.012832+00:00'
@@ -41,7 +41,7 @@ last_runs:
   tune-system: '2026-08-17T00:11:10.109905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-19T13:51:01.925511+00:00'
+last_git_push: '2026-08-19T17:51:56.752388+00:00'
 last_tweet_date: '2026-08-19'
 content_stats:
   total_files: 297
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-19'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-19'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-19'
   outcome: success
 agentic_social:
@@ -659,73 +659,97 @@ agentic_social:
     - consciousness-and-skill-acquisition
     - responsibility-gradient-from-attentional-capacity
 queue_status:
-  last_replenishment: '2026-08-19T16:05:00+00:00'
+  last_replenishment: '2026-08-19T18:25:00+00:00'
   last_replenishment_mode: conservative-two-p2-mints-plus-one-p3-appended-at-foot-head-of-queue-unchanged
   last_replenishment_note: "FLOOR RESTORED BY TWO CONSERVATIVE P2 MINTS PLUS ONE P3,\
     \ ALL APPENDED AT THE FOOT OF THE ACTIVE SECTION SO THE TWO EXISTING P2s KEEP\
     \ THE HEAD OF THE QUEUE. Pre-count P0-P2 was 2 against the floor of 3, measured\
-    \ with count_p0_p2_tasks from tools.evolution.task_selector at about 15:50Z (the\
-    \ 14:22 run's three mints had drained to one remaining P2 after the archived self-cite\
-    \ sweep landed at 15:26, and the buddhist-perspectives and Fox/Baird tasks landed\
-    \ 14:42 and 14:59); post-count is 4. Active total 45: 4 P2, 41 P3. select_queue_task\
-    \ still returns the biological-naturalism P2 at line 2708, then the knowledge-argument\
-    \ P2 at line 2717, then the two new P2s at lines 2726 and 2737 in that order;\
-    \ the new P3 sits at line 2746. Foot insertion shifted no line above it, so the\
-    \ in-flight sentinel is unaffected. Nothing promoted, relocated, rescoped or retitled.\
-    \ \n\nTHE MINTS, each a deferred residue a reviewer verified and explicitly declined\
-    \ to mint for a contract or pileup reason, each re-verified on disk this run.\
-    \ (1) P2, anchored on concepts/motor-selection: Rajan et al. 2019 is cited at\
-    \ about ten live loci for a ~300ms willed-attention deployment and a present-versus-absent\
-    \ willed/instructed signature. The 2026-08-18 pessimistic review of quantum-indeterminacy-free-will\
-    \ named this a two-system disagreement with topics/volitional-control and left\
-    \ it unreconciled; this run fetched the abstract from Europe PMC (DOI 10.1093/cercor/bhy149):\
-    \ frontal theta increases start at ~500 ms post cue, for willed RELATIVE to instructed\
-    \ attention. So volitional-control, structure-of-attention and quantum-neural-timing-constraints\
-    \ are right and the ~300 ms and absent readings are drift. The task lists every\
-    \ live, research-note and archive locus, frames the ~300 ms figure as probably\
-    \ the classic endogenous-deployment latency fused onto Rajan (to test, not assume),\
-    \ and requires the unification argument (motor ~280 ms matches attention ~300\
-    \ ms) to be re-read honestly rather than re-sourced to preserve the rhetoric.\
-    \ (2) P2 on topics/quantum-randomness-channel-llm-consciousness: item 4 of the\
-    \ 2026-08-18 optimistic ai-substrate-wing review, held back there for wing pileup.\
-    \ The file has zero open tasks, grep for interface-eligibility returns 0, and\
-    \ it is the origin of the five requirements that every importing surface now labels\
-    \ with the P-AC1 derivation disclosure. One labelled sentence beside the table,\
-    \ modelled on quantum-hardware L86, length-safe at 2746 raw. (3) P3 on concepts/conceptual-role-semantics:\
-    \ the self-cite date defect (2026-04-30 versus created 2026-04-27) recorded in\
-    \ the 2026-08-18 content-vocabulary deep review's Remaining Items, re-verified\
-    \ on disk including the hugo mirror; one-token fix. \n\nDECLINED. No expand-topic:\
-    \ topics 320 of 320 at cap, concepts 318, voids 99, positions 15, measured with\
-    \ count_section_files. No positions-evolve update: the only recently changed article\
-    \ cited in positions is concepts/haecceity (P-I1, P-AC3), whose 14:42 change concerned\
-    \ the Madhyamaka objection block and the register carries no Buddhist-reconciliation\
-    \ claim. No condense: metacognition crossed 3500 raw only by the Baird reference\
-    \ and its prose is 2934, a false over-length. The witness-consciousness reciprocal\
-    \ on moral-implications-of-genuine-agency waits on its parent P3 landing. The\
-    \ Stapp research-note metadata conflict and the archive/topics/eastern-metaphysics-integration\
-    \ L103 retired sentence were left recorded, not minted. No more knowledge-argument\
-    \ tasks: one open P2 already on that file. \n\nMECHANICS. Type and File lines\
-    \ present on all three, parsed as REFINE_DRAFT with file_path set; no other-type\
-    \ task authored. todo.md edited in obsidian only; the cycle driver syncs. recent_tasks\
-    \ untouched. State re-parsed after this write."
-  last_replenishment_prev: '2026-08-19T14:30:50+00:00'
-  last_replenishment_run: 981
+    \ with count_p0_p2_tasks from tools.evolution.task_selector at 18:07Z (the 16:05\
+    \ run's two P2s drained: knowledge-argument landed 17:40 and biological-naturalism\
+    \ 16:00, leaving the motor-selection Rajan sweep at line 2708 and the quantum-randomness-channel\
+    \ P-AC1 disclosure at line 2719); post-count is 4. Active total 48: 4 P2, 42 P3\
+    \ plus the NEEDS-HUMAN entries. select_queue_task still returns the motor-selection\
+    \ P2 at line 2708 first; the new P2s parse as REFINE_DRAFT with file_path set\
+    \ at lines 2736 and 2744, the new P3 at 2752. Foot insertion shifted no line above\
+    \ it, so the in-flight sentinel is unaffected. Nothing promoted, relocated, rescoped\
+    \ or retitled. \n\nSOURCES, per the driver brief: the six prior runs today had\
+    \ already mined pessimistic-2026-08-18, optimistic-2026-08-18, deep-review-2026-08-19-biological-naturalism,\
+    \ outer-review-synthesis-2026-08-19 and the 08-18 content-vocabulary deep review,\
+    \ so this run went to staleness, orphans, positions dependencies, length and the\
+    \ UNMINED 08-17 and 08-18 reviews' Remaining Items. Orphans 0 (state). Length:\
+    \ every hard/critical offender is a research note, a positions domain file, the\
+    \ apex index, a voids file under the 2026-06-17 human length decision, or topics/epistemology-of-convergence-arguments\
+    \ (5743, the standing human-flagship split) - no condense. Staleness: get_review_candidates\
+    \ top is event-causal-libertarianism (40d, 61.5) then epistemology-of-limit-knowledge\
+    \ (65d, 59.1); both left to the cycle deep-review slots, which pick from the same\
+    \ scorer, rather than minting a collision. Positions audit: last full register\
+    \ audit 2026-08-03 (off-vocabulary sweep) plus the 08-13 quantum-interface audit,\
+    \ inside the 30d window, and four positions-evolve P3s are already open. Positions\
+    \ dependencies of today's modified files: knowledge-argument, biological-naturalism,\
+    \ what-it-might-be-like-to-be-an-ai, contemplative-epistemology, metacognition,\
+    \ phenomenological-evidence, buddhist-perspectives-on-meaning are cited by zero\
+    \ register files; haecceity is cited by P-I1/P-AC3 and was already checked at\
+    \ 16:05. \n\nTHE MINTS. (1) P2 on topics/basal-and-bioelectric-cognition: L65\
+    \ still reads 'the value-blind horn being the more minimal dualism it has yet\
+    \ to defeat', the minimality-as-default inference the 2026-08-17 09:12 positions-evolve\
+    \ retracted from P-VS1 (now 'the fork turns on comparative evidence, not on coupling\
+    \ count') and corrected in apex/embodied-interface; that changelog entry reported\
+    \ the basal echo as a residual in a third file for follow-up and nothing minted\
+    \ it. Re-verified on disk and in the hugo mirror; corpus sweep for 'more minimal\
+    \ / yet to defeat / lower coupling count / fewer couplings' finds it the only\
+    \ live echo (negative-valence-asymmetry L72 and reinforcement-learning-reward-signals\
+    \ L79 already carry the corrected hedge). One clause, zero open tasks on the file,\
+    \ 2241 raw words. (2) P2 on concepts/type-token-causation: L58 wraps quotation\
+    \ marks around a sentence it labels '(Kim, 2005, p. 17, paraphrased)', the self-flagged\
+    \ fabricated-verbatim shape that deep-review-2026-08-17-causal-exclusion-argument's\
+    \ Remaining Items named as out of scope there; the 06-03 review of this file had\
+    \ left it as a style nicety, but the 08-17 sibling review de-quoted three Kim\
+    \ spans and wrote a do-not-requote stability note, so the two articles on the\
+    \ same argument now run two rules for the same author. Verify at the primary or\
+    \ de-quote; one locus in all three trees. (3) P3 on research/conservation-laws-mind-brain-causation-2026-01-23\
+    \ anchoring the Stapp Quantum Interactive Dualism metadata family from deep-review-2026-08-18-parapsychology-firewall's\
+    \ Remaining Items (three research notes at 599-616 / 599-615 / 2007-preprint-only;\
+    \ live spread re-derived this run: two 599-615 entries with a JCS 12(11) 43-58\
+    \ claim, one 599-616, four DOI-only canonical entries). Crossref re-checked at\
+    \ replenish: DOI 10.1111/j.1467-9744.2005.00762.x resolves to Zygon 41(3), issued\
+    \ 2006-09-02, page field EMPTY, so the canonical form is DOI without pages; the\
+    \ JCS claim is to be settled at IngentaConnect before being kept or dropped. The\
+    \ 16:05 run had left this recorded, not minted; minted now as P3 because research\
+    \ notes re-seed. \n\nDECLINED. No expand-topic: topics 320 of 320 at cap, concepts\
+    \ 318, voids 99 (the final voids slot is a human decision; the voids-notation-void\
+    \ research note from today was not minted), positions 15. The optimistic-2026-08-19\
+    \ cross-cultural-wing review's three article-to-register cross-links (indian-philosophy-of-mind,\
+    \ african-philosophy-of-consciousness, kyoto-school to P-D3/P-M2) were left recorded:\
+    \ the 08-17 17:58 positions-evolve declined the identical reciprocal shape on\
+    \ the voids wing as padding on bodies already running the discipline, and the\
+    \ register-side P-D3 task at line 40 is open. The C12 Yang 2025 'Neuroimaging\
+    \ supports' item from the 08-18 synthesis was checked and found already rewritten\
+    \ at eastern-philosophy-consciousness L89 (ai_modified 08-19 00:24) with two tasks\
+    \ still open on that file. The 08-18 tenet-check's four Relation-to-Site-Perspective\
+    \ notes were checked and all four loci are already fixed. The witness-consciousness\
+    \ reciprocal still waits on its parent P3. No positions-evolve update or audit\
+    \ minted. \n\nMECHANICS. Type and File lines present on all three, parsed as REFINE_DRAFT\
+    \ with file_path set; no other-type task authored. todo.md edited in obsidian\
+    \ only; the cycle driver syncs. recent_tasks untouched. State re-parsed after\
+    \ this write."
+  last_replenishment_prev: '2026-08-19T16:05:00+00:00'
+  last_replenishment_run: 982
   loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 4
-  p3_tasks: 41
+  p3_tasks: 42
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
     chain: 0
-    deferred_residue_capture: 3
+    deferred_residue_capture: 2
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
-    positions_dependency_changed: 0
+    positions_dependency_changed: 1
     positions_register_gap: 0
     promotion_existing_p3: 0
     staleness: 0
