@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-07-31 13:34:50+00:00
+ai_modified: 2026-08-19 16:06:55.656544+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -12,10 +12,15 @@ description: The immune system learns, remembers, and tells self from non-self w
   zero neurons—a functional, not felt, selfhood that sharpens the Map's competency-without-experience
   case.
 draft: false
+embedded_videos:
+- embedded: 2026-08-19 16:06:55.656544+00:00
+  id: lxgNMaA5A60
+  source: notebooklm/0110-01-the-cognitive-immune-system-and-immunological-selfhood
+  url: https://www.youtube-nocookie.com/embed/lxgNMaA5A60
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 17:57:03+00:00
-lastmod: 2026-07-31 13:34:50+00:00
+lastmod: 2026-08-19 16:06:55.656544+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +36,12 @@ topics:
 The immune system learns from experience, stores what it has met, adapts its repertoire over a lifetime, and makes distributed context-sensitive decisions about what belongs to the body and what does not—all with zero neurons and, on the Map's framework, no neural substrate to host an experiential interface. It is the starkest case the Map can point to of a genuine cognitive-grade competency that almost no one is tempted to call an experience. Immunologists routinely describe this system in the language of memory, recognition, learning, and even "self" and "cognition." The Map takes that language seriously as a functional description and draws the decoupling explained below in [Functional Self, Not Felt Self](#functional-self-not-felt-self): competency and phenomenal presence are separate axes, and the immune system is a system with a self in one sense and no self in the other. That the phenomenal self is absent is a claim about what the Map's neural-interface commitment licenses, not a proof that nothing is felt; as across the competency cluster, these functional competencies are defeasible markers—decisive nowhere on their own—and they leave the hard problem exactly where it stands.
 
 This article is the fourth sibling in a cluster of non-neural competency cases the Map uses to resist consciousness false positives, alongside [Levin's bioelectric agency](/topics/basal-and-bioelectric-cognition/), [plant cognition](/topics/plant-cognition-and-the-plant-neurobiology-debate/), and [the enteric nervous system](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/). Where those cases test the words *agency* and *cognition* against systems with few or no neurons, the immune case tests the more loaded word *self*. The stakes are higher precisely because "self" carries phenomenal connotations that the other terms do not, which is why the immune system also invites the sharpest philosophical warning—Alfred Tauber's—about metaphor masquerading as discovery, engaged below in [Tauber's Warning](#taubers-warning-self-as-metaphor).
+
+<details class="yt-embed" data-video-id="lxgNMaA5A60">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/lxgNMaA5A60">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Learning and Memory Without Neurons
 
