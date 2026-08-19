@@ -80,5 +80,3 @@ None.
 - Citation ledger is verified-at-publisher; future reviews can trust it and need only re-verify if the References block changes.
 - Do NOT over-hedge the already-converged prose — the modal register is correctly calibrated.
 - This article is a strong convergence-damping candidate: a metadata-only re-pick should be treated as a no-op confirming pass, not an occasion for edits.
-</content>
-</invoke>

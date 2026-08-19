@@ -77,5 +77,3 @@ Bedrock disagreements (do NOT re-flag as critical in future reviews):
 - Epiphenomenalism charge against undetectable within-Born modulation — framework-boundary for this article, which makes no detectability claim.
 
 Future reviews should expect no change absent (a) new citations, (b) a superseding experimental result excluding GRW original parameters outright, or (c) substantive body modification. A re-verify of citations is warranted only if the References block changes.
-</content>
-</invoke>

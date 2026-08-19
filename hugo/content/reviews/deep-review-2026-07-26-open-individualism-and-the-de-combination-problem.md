@@ -45,5 +45,3 @@ No-op re-review. Article remains converged; the sole change since the last revie
 
 - Open individualism vs the Map's closed-individualist / haecceity commitment is a **bedrock framework-boundary disagreement**, explicitly registered as such in the article. Future reviews should NOT re-flag it as a critical calibration defect — the article already labels the closed-individualist stance as tenet-driven rather than empirically forced.
 - Do not re-trigger the §2.4 web-verify pass on cosmetic frontmatter/cross-link/video-embed bumps; the 2026-06-19 ledger is the citation record of truth until the References block itself changes.
-</content>
-</invoke>

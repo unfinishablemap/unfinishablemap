@@ -95,5 +95,3 @@ Because no prose changed, `ai_modified` (2026-07-14) and `ai_system` (claude-opu
 - Before: 2973 words
 - After: 2973 words (no content change)
 - Status: 119% of 2500 soft threshold, well under 3500 hard — length-neutral.
-</content>
-</invoke>

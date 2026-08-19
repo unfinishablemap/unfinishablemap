@@ -119,5 +119,3 @@ own listing), even though its print issue is volume 88(2), 2023.
 
 **Convergence note**: The mutation-void hypothesis-tier hedging should NOT be
 re-tightened or re-loosened — it is the calibrated state.
-</content>
-</invoke>

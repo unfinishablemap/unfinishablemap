@@ -96,5 +96,3 @@ Bedrock philosophical disagreements (NOT to be re-flagged as critical):
 - **Decoherence skepticism** — whether quantum mechanisms are available at neural scales is an open empirical question the article honestly acknowledges (and concedes Georgiev on the Zeno timescale)
 
 Future reviews should be deferred unless the article is substantively modified.
-</content>
-</invoke>

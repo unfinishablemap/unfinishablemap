@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-08-19 19:11:16+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -18,8 +18,8 @@ description: The three-way split of libertarian free will—event-causal, agent-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 18:54:44+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+last_deep_review: 2026-08-19 19:11:16+00:00
+lastmod: 2026-08-19 19:11:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,7 +30,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Libertarianism about free will is a genus with three species. All libertarians share two commitments—determinism is false, and some agents sometimes act freely and are morally responsible—and divide over a third question: what role does indeterminism play, and where does the freedom-grounding source of the action sit? The standard taxonomy, canonised in the Stanford Encyclopedia's "Incompatibilist (Nondeterministic) Theories of Free Will," sorts libertarians into **event-causal** (free actions are nondeterministically caused by agent-involving mental *events*, with no agent-as-substance cause added), **agent-causal** (the agent, an irreducible substance, is a cause over and above any event), and **non-causal** (free actions are basic and uncaused). This survey gives the event-causal wing—Robert Kane's self-forming actions above all—the detailed treatment it deserves, then follows the **luck** and **disappearing-agent** objection that bears hardest on it to locate the Map among the options.
+Libertarianism about free will is a genus with three species. All libertarians share two commitments—determinism is false, and some agents sometimes act freely and are morally responsible—and divide over a third question: what role does indeterminism play, and where does the freedom-grounding source of the action sit? The standard taxonomy, canonised in the Stanford Encyclopedia's "Incompatibilist (Nondeterministic) Theories of Free Will" and in the survey chapters of Kane's *Oxford Handbook of Free Will* (2002; 2nd ed. 2011), sorts libertarians into **event-causal** (free actions are nondeterministically caused by agent-involving mental *events*, with no agent-as-substance cause added), **agent-causal** (the agent, an irreducible substance, is a cause over and above any event), and **non-causal** (free actions are basic and uncaused). This survey gives the event-causal wing—Robert Kane's self-forming actions above all—the detailed treatment it deserves, then follows the **luck** and **disappearing-agent** objection that bears hardest on it to locate the Map among the options.
 
 The taxonomy is shared-ground philosophy of action. It carries no commitment to dualism, and nothing in the three-way carving favours the Map's view. The Map occupies one position within the taxonomy (broadly agent-causal, developed at [agent-causation](/concepts/agent-causation/)), and its claim that event-causal libertarianism succumbs to luck is a *framework-relative* argument, not a proof. Readers should meet all three species on their own terms before that location is drawn.
 
@@ -46,13 +46,13 @@ On the event-causal view, a free action is nondeterministically caused by agent-
 
 ### Kane's Self-Forming Actions
 
-Kane's model, developed in *The Significance of Free Will* (Oxford University Press, 1996), locates the indeterminism at **self-forming actions** (SFAs)—the difficult, character-shaping moments when an agent is *torn* between competing visions of what to do or become: the moral course against ambition, present desire against a long-term goal. In these **torn decisions** the agent makes competing *efforts of will simultaneously*, and it is undetermined which effort succeeds. Because the indeterminism sits inside the agent's own effort, whichever way it resolves the outcome is something the agent willed and rationally endorsed.
+Kane's model, developed in *The Significance of Free Will* (Oxford University Press, 1996) and refined in his later replies to the luck objection, locates the indeterminism at **self-forming actions** (SFAs)—the difficult, character-shaping moments when an agent is *torn* between competing visions of what to do or become: the moral course against ambition, present desire against a long-term goal. In these **torn decisions** the agent makes an indeterminate effort of will, and it is undetermined whether the effort succeeds. In the mature formulation (from 1999 onward) Kane "doubles" the effort for cases of moral conflict: the agent makes *two simultaneous efforts*, one toward each option, so that whichever way the decision falls she succeeds at something she was actively trying to do. Because the indeterminism sits inside the agent's own effort, whichever way it resolves the outcome is something the agent willed and rationally endorsed.
 
 Kane calls this **plural voluntary control**: the agent is such that, whichever option is chosen, the choice will be rational, voluntary, and the agent's own doing—endorsable either way. SFAs need not be frequent. Most actions flow deterministically from a character that earlier SFAs forged, so responsibility for ordinary actions traces back through the character to the undetermined self-forming ones. This is how Kane secures *sourcehood* on a purely event-causal budget: the agent is the ultimate source because the character doing the later determining was itself formed in undetermined efforts that were fully the agent's.
 
 ### Ekstrom's Coherentist Account
 
-Laura Ekstrom's *Free Will: A Philosophical Study* (Westview Press, 2000) defends an indeterminist event-causal view built on a *coherence* theory of self-determined action, modelled on Keith Lehrer's coherence theory of knowledge. Preferences count as the agent's own when they cohere appropriately with the agent's evaluative system; free action requires indeterministic causation among events and appeals to agent causation only in a reducible sense. Ekstrom later refined the account to sharpen where the indeterminism must be located to preserve control without ceding it to chance.
+Laura Ekstrom's *Free Will: A Philosophical Study* (Westview Press, 2000) defends an indeterminist event-causal view built on a *coherence* theory of self-determined action, modelled on Keith Lehrer's coherence theory of knowledge. A *preference* is a desire formed by critical evaluation against the agent's conception of the good; preferences count as the agent's own when they cohere with her other preferences and acceptances, and the agent just *is* that coherent set together with the evaluative faculty that forms it—no irreducible agent-cause is added. The 2000 account is *deliberative*: the indeterminism sits in the formation of the preference, which then deterministically causes the decision. Ekstrom (2019) later criticised that placement and moved to a *centered* account, locating the indeterminism in the immediate causation of the decision itself—the same placement Kane and Balaguer use—so that the agent's control is exercised at the moment of choice rather than upstream of it.
 
 ### Balaguer's Naturalist Version
 
@@ -60,7 +60,7 @@ Mark Balaguer argues that whether we have libertarian free will reduces to an *o
 
 ### A Hybrid at the Seam
 
-Kane's mature view is sometimes described as a hybrid: agent-involving events (reasons, efforts) are necessary but insufficient, leaving a role for the agent. Yet Kane resists positing an agent-*substance* cause; he wants the extra factor *without* agent-causation. Critics reply that this is exactly what cannot be had—the luck objection reappears precisely at the seam where the events run out and no substance-cause is admitted to take over.
+Kane's mature view sits awkwardly at the seam of the taxonomy. He now rejects the event-causal *label*, insisting that his theory involves no event-causal *reduction* of agency—yet he also declines to posit an agent-*substance* cause, and the Stanford Encyclopedia's authors note that it is unclear whether he denies that agency is always fully realised in causation by events. Kane wants the extra factor *without* agent-causation. Critics reply that this is exactly what cannot be had—the luck objection reappears precisely at the seam where the events run out and no substance-cause is admitted to take over.
 
 ## Agent-Causal Libertarianism
 
@@ -107,8 +107,10 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (Ed.). (2002). *The Oxford Handbook of Free Will*. Oxford University Press (2nd ed., 2011).
 1. Ekstrom, L. W. (2000). *Free Will: A Philosophical Study*. Westview Press.
+1. Ekstrom, L. W. (2019). "Toward a Plausible Event-Causal Indeterminist Account of Free Will." *Synthese*, 196(1), 127–144. https://doi.org/10.1007/s11229-016-1143-8
 1. Balaguer, M. (2010). *Free Will as an Open Scientific Problem*. MIT Press.
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press. ISBN 9780195133080.
+1. Jacobs, J. D., & O'Connor, T. (2013). "Agent Causation in a Neo-Aristotelian Metaphysics." In S. C. Gibb, E. J. Lowe, & R. D. Ingthorsson (Eds.), *Mental Causation and Ontology* (pp. 173–192). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199603770.003.0008
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. ISBN 9780195159875.
 1. Pereboom, D. (2014). "The disappearing agent objection to event-causal libertarianism." *Philosophical Studies*, 169(1), 59–69. https://doi.org/10.1007/s11098-012-9899-2
@@ -116,5 +118,3 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-18). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/
-</content>
-</invoke>

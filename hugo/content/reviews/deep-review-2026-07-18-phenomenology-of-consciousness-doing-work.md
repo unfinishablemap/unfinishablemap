@@ -69,5 +69,3 @@ None.
 - No-op discipline applied: only `last_deep_review` was advanced. `ai_modified` was left at HEAD (2026-07-17T00:19:07+00:00) to avoid a false-drift bump and to preserve `apex_last_synthesis == ai_modified`.
 - All prior stability notes remain valid: MWI critique is bedrock disagreement; substance-talk is phenomenological register; quantum-Zeno hedging is calibrated; the epiphenomenalism/eliminativism-vs-non-reductive-physicalism layering is the strongest converged feature and should not be re-litigated; the seven cites verified 2026-06-06 need no re-verification.
 - Future reviews can treat the Evidence and Dependency section as verified converged content; only material added after 2026-07-18 requires fresh §2.4 scrutiny.
-</content>
-</invoke>

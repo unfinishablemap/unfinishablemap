@@ -79,5 +79,3 @@ Bedrock disagreements (do NOT re-flag as critical in future reviews):
 - MWI proponents find the identity-spreading characterisation unsatisfying — bedrock, flagged with "(A Values Commitment)."
 - "Physicalism fails" treated as given — appropriate for a comparative piece; argued elsewhere.
 - The idealism-vs-dualism choice on physical realism is genuine framework-boundary disagreement, honestly marked ("not empirically defeated," "underdetermined by the data") — not a correctable defect.
-</content>
-</invoke>

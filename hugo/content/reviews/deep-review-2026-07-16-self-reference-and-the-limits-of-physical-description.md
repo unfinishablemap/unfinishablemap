@@ -98,5 +98,3 @@ Consistent with all eight reviews, these remain **bedrock disagreements, not fla
 - That the phenomenal core escapes fixed-point self-reference does not show it is non-physical — the same escape is available to a type-B materialist or Russellian monist. The firewall states this explicitly: a known limit honestly marked, not a defect.
 
 **This review applied no content edits** (timestamp-only `last_deep_review` stamp; `ai_modified` left at the firewall's 2026-06-21T05:10 value since no body/cite fix was made). Future deep reviews should fire only on substantive argument/citation modification or a corpus-wide citation-propagation event affecting one of its references. The candidate algorithm re-selected on a metadata bump, not substantive change — a full re-review absent either trigger would be churn.
-</content>
-</invoke>

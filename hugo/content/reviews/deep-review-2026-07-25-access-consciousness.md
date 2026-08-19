@@ -73,5 +73,3 @@ None.
 - Seventh deep review; argument fully converged. The only change since 2026-07-07 was an out-of-band refine that improved calibration, so this pass is a genuine no-op confirming the improvement holds.
 - Bedrock disagreements (functionalist question-begging, MWI self-location, Tegmark decoherence) must not be re-flagged.
 - Future cycles should prioritize other candidates unless substantive new content is added. Convergence damping should down-rank this article (7 priors).
-</content>
-</invoke>

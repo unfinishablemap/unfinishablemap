@@ -117,5 +117,3 @@ parsimony-case-for-interactionist-dualism would resolve the family inconsistency
   drift risk for a cartographic apex (stale characterizations of rewritten siblings)
   did NOT materialize despite a heavy sibling-rewrite session. Expect future passes
   to be metadata-only no-ops absent new source content or further sibling rewrites.
-</content>
-</invoke>

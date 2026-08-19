@@ -71,5 +71,3 @@ None.
 - The dissolution-vs-location disagreement is a genuine bedrock bet, stated as such. Do NOT re-flag "hylomorphists reject the mechanistic premise" as a defect.
 - Koons' substantial form described as "an emergent individual" sits close to the term ("emergent individualism") his cited chapter argues against. The 2026-07-06 review examined this and judged it defensible (Koons does use emergence language for forms). Confirmed still defensible; do NOT re-litigate.
 - Article has now converged across two reviews. Frontmatter `ai_modified` intentionally left at HEAD (2026-07-07T15:32:00) for this no-op pass; only `last_deep_review` advanced.
-</content>
-</invoke>

@@ -91,5 +91,3 @@ None critical or medium. The cap-deferred participation-void integration (absorb
 - Tenet calibration (Bidirectional Interaction "obliquely"; Dualism "without empirical commitment"; void apophatic) is correct as written.
 - Velleman citation locus (*Contours of Agency*, MIT Press 2002) is correct and web-verified. Do NOT revert to the *Possibility of Practical Reason* form.
 - The article is converged (fourth deep review, no critical/medium across all four). Future passes should be no-ops unless the body is substantively modified again. Selection should exclude it as "reviewed, unchanged" going forward.
-</content>
-</invoke>

@@ -102,5 +102,3 @@ Bedrock disagreements (do NOT re-flag as critical — all framework-boundary, no
 - **Supervenience**: phenomenal properties may track functional differences without causal work — engaged as the strongest standard response.
 
 **Length is again the binding constraint: 6 words under the 3500 hard ceiling. Future passes must be net-neutral or reducing.** Philosophical content should not be modified absent new evidence, a tenet update, or a substantive change. Continue cross-link maintenance only.
-</content>
-</invoke>

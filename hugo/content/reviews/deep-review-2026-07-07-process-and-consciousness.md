@@ -120,5 +120,3 @@ Converged after six deep reviews. All prior stability notes remain valid:
 - **Stapp edition inconsistency** with `concepts/process-philosophy` (2007 vs 2011) is cosmetic; both editions contain the core arguments.
 - **Length at 98% of soft threshold** — future enhancements must be strictly length-neutral.
 - **Six reviews, zero-changes-this-pass.** The only drift since 06-05 was one reciprocal link plus a *correct* Bergson-quote fix inherited from another article's review. Future staleness re-triggers on this hub article will be metadata-/inbound-accretion-driven, not content-driven; expect and treat a no-op as the success signal.
-</content>
-</invoke>

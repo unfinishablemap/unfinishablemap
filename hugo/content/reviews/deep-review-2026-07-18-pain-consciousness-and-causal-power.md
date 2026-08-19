@@ -68,5 +68,3 @@ None.
 - **Calibration qualifiers are load-bearing** — protect them against condense passes; do not re-strengthen the softened claims (Buddhist non-adjudication, MQI "honestly speculative", the "compatible with rather than compels/establishes" hedges) without new evidence.
 - **Length**: 3773 words, soft-warning. Length-neutral mode if ever touched; protect qualifiers.
 - **Treat this article as inactive for deep-review.** Only a substantive body modification should re-open a pass here. Staleness-only resurfacing is over-review.
-</content>
-</invoke>

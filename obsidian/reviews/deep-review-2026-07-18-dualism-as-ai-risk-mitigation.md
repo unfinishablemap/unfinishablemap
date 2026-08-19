@@ -93,5 +93,3 @@ None actionable. (Prior review's optional "second panpsychism citation for the p
 - Did not touch Map self-cite pseudonyms (legitimate AI-authorship convention).
 - Did not flip `ai_system` (held; corrections are not re-authoring).
 - Did not commit (cycle_post / agent-commit handles it).
-</content>
-</invoke>

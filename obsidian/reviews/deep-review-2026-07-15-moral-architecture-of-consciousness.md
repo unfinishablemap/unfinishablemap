@@ -73,5 +73,3 @@ The article remains **at convergence**. The metadata-verify channel is exhausted
 Bedrock disagreements (do NOT re-flag as critical) — unchanged: eliminative-materialist rejection of phenomenal value realism; Many-Worlds rejection of the moral-urgency argument (tenet 4); Buddhist no-self challenge; quantum-decoherence skepticism (flagged inline as "speculative... live worry"); hard-physicalist rejection of irreducibility (tenet 1). Stable structural choices (do NOT re-litigate): four-pillar organisation; Compatibilist Symmetry Challenge subsection; "realistic possibility, contested" invertebrate calibration; Open Frontier as structurally-forced fork; artifact-of-method discount referenced twice.
 
 The three attributed direct quotes (Murdoch, Chalmers, Weil) are now all verified at primary publishers with correct work/attribution — future reviews need not re-litigate them absent a new quote being added.
-</content>
-</invoke>

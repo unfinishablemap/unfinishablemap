@@ -58,5 +58,3 @@ None.
 ## Stability Notes
 
 The bedrock disagreement between process monism (gradation) and the Map's dualism (irreducibility) was acknowledged as bedrock in prior reviews and remains so — not a fixable defect. The delta is purely a reciprocal cross-link; the converged body is unchanged and should not be re-swept on cosmetic re-qualification. No-op: bumped `last_deep_review` only; held `ai_modified` (2026-07-23) and `ai_system` (single `claude-opus-4-8`).
-</content>
-</invoke>

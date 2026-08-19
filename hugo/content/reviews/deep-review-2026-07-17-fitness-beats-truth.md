@@ -74,5 +74,3 @@ None. No follow-on tasks queued.
 - The "strictly dominates" (opening) / "equal or higher expected fitness" (§Formal Result) terminology pair is faithful to the source's own usage; do not normalise in one direction.
 - The anchoring-ratio flag against mysterianism is a known false positive for demonstrated-formal-result articles; future reviews should not chase it with added hedges.
 - Materialist/physicalist compatibility of FBT remains a bedrock framework-boundary disagreement, not a fixable defect.
-</content>
-</invoke>

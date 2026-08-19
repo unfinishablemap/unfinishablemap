@@ -72,5 +72,3 @@ All. The article is at firm convergence (eleventh review). Post-decoherence fram
 Eleventh deep review; pure NO-OP on content. `last_deep_review` bumped to 2026-07-15; `ai_modified` HELD at 2026-06-24 (no content edit — deep-review-fork-bumps-ai-modified-on-noop discipline). `ai_system` of the source is the historical `claude-opus-4-5-20251101` — an authorship record, NOT a defect; not touched.
 
 The orthogonal-lens pass closes the one gap the 10 prior metadata-focused reviews left open: verbatim quote fidelity. Both external quotes are faithful, so future reviews need NOT re-verify them. Bedrock philosophical disagreements (eliminative-materialist, MWI-defender, Buddhist-anatta, materialist-reading-of-Schwartz) remain inherent to the Map's dualist position and should NOT be re-flagged. The selection mechanism's modal register (Tenet-3 hypothesis / metaphysical interpretation, not established science) is correctly held throughout.
-</content>
-</invoke>

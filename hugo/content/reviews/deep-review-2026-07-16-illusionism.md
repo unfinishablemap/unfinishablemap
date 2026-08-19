@@ -58,5 +58,3 @@ Illusionists cited for what they argue: Frankish/Dennett/Graziano = pro-illusion
 Tenth review; the article is at a strong, stable state. This pass adds the missing piece to the prior nine reviews' citation record: a quote-by-quote verbatim verification of the two externally-attributed primary-source quotes (Strawson NYRB 2018, Tallis Philosophy Now 2024) at the primary publisher — both **verbatim-faithful**. Combined with the ninth review's corpus-wide metadata verification and the re-check of the two highest-risk obscure refs (Morozov 2025, Loginov 2024, both genuine), the citation apparatus of this article is now verified across metadata AND verbatim-quote channels.
 
 Bedrock disagreements remain bedrock: eliminative-materialist and hard-nosed-physicalist personas reject the dualist treatment from outside the tenets — not a fixable defect. Frankish engagement: Mode Two (the meta-representational bridge owes a mechanism it has not built, by illusionism's own standard) deepening to Mode Three on the intrinsic-quality residue (framework boundary, honestly declared) — carried from the ninth review; both in natural prose, no labels leak.
-</content>
-</invoke>

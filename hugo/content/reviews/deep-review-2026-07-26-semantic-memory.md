@@ -138,5 +138,3 @@ Mankind* (2011) for it (wrong work; that was the 07-12 error).
 Future reviews should skip unless: new TOT/FOK research challenges empirical
 claims; the Map's cognitive-phenomenology framework changes; or coalesce/archive
 operations break cross-refs.
-</content>
-</invoke>

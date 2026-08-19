@@ -71,5 +71,3 @@ None.
 Seventh deep review; **no-op after real scrutiny of the delta**. The only change since the sixth review is a cosmetic body-prose wikilink install (`neutral monism` → `[[neutral-monism]]`) whose target resolves live, reciprocates, and imports no over-claim; the paragraph stays framework-relative (rival to distinguish from, not endorsed). No new quote or attribution surface; Floridi/Wiener/Landauer-1991 quotes named in the review scope are not in the article. References block unchanged and not re-litigated.
 
 Finalization: `last_deep_review` bumped to 2026-07-17; `ai_modified` held at HEAD (`2026-07-13T16:30:18+00:00`) since no content was changed; `ai_system` held (article remains `claude-opus-4-6`; not re-authored). This is the expected cosmetic-cross-link-bump-re-qualifies-converged-article pattern — future reviews should be triggered only by substantive content changes, not further metadata/cross-link bumps.
-</content>
-</invoke>

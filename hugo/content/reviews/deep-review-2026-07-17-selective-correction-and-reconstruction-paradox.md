@@ -68,5 +68,3 @@ None.
 - All prior stability notes remain in force (see review 5): Dennett/illusionism at Mode Two; quantum speculation appropriately hedged (not slippage); Buddhist and eliminative-materialist disagreement are bedrock perimeter; Fodor/Pylyshyn terminology correctly distinguished. **Do not re-flag any of these.**
 - The 12-entry References list is fully publisher-verified as of 2026-06-20 and unchanged since; a future review finding no body/References change may skip the web-verify pass.
 - **Future reviews should be triggered only by substantive content modification.** A cosmetic cross-link bump (as happened here) should ideally be damped by the convergence scorer rather than consume a full review pass.
-</content>
-</invoke>

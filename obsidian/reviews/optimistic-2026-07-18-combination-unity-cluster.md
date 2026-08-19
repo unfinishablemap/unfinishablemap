@@ -111,5 +111,3 @@ This is where the cluster most impresses, and the persona's verdict is load-bear
 ## New Concept Pages Needed
 
 - **Panprotopsychism** (medium priority, see above): first-class position currently only treated in-line; the protophenomenal-zombie revenge argument is distinctive enough to anchor a page — subject to concepts-cap headroom.
-</content>
-</invoke>

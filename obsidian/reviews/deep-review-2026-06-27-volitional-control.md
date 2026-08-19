@@ -92,5 +92,3 @@ None.
 - Length: 3518 words (117% soft, under hard 4000). The growth since 06-04 (~3470w) is the single `control-theoretic-will` integration sentence plus link metadata — not a condense target; well under the hard ceiling.
 - All adversarial disagreements remain bedrock standoffs. Future reviews of this article should be triggered only by substantive content modification, not by cross-link churn or elapsed time. Recommend it be a candidate for convergence-exclusion until its body or References block changes materially.
 - **The article is stable.**
-</content>
-</invoke>

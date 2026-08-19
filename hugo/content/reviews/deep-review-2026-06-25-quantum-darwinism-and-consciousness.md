@@ -88,5 +88,3 @@ This article is a candidate for stronger convergence damping — six reviews, fi
 - Substance dualism vs. dependent-origination (Buddhist Philosopher)
 
 Future reviews should not re-flag these.
-</content>
-</invoke>

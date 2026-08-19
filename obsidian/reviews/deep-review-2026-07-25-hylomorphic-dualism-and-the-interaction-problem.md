@@ -69,5 +69,3 @@ None.
 - Koons' substantial form described as "an emergent individual" sits close to the term ("emergent individualism") his cited chapter argues against. Examined in both prior reviews and judged defensible (Koons uses emergence language for forms). Do NOT re-litigate.
 - "improper reduced-state mixture" is the correct, deliberately-chosen QM term (07-20 outer-review-driven, applied corpus-wide). Do NOT revert toward "classical mixture."
 - Article has converged across three reviews. Frontmatter `ai_modified` intentionally left at HEAD (2026-07-22T17:16:52) for this no-op pass; only `last_deep_review` advanced.
-</content>
-</invoke>

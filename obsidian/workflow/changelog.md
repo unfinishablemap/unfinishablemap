@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-19T18:56:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-19T19:11:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/event-causal-libertarianism]]
+- **Word count**: 2317 → 2528 (+211; 84% of 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (stray `</content>`/`</invoke>` EOF markup live in the published body since creation — removed; same artefact swept from 29 `obsidian/reviews/` archives)
+- **Medium issues addressed**: 3 (Kane "doubling of effort" misdated to 1996 → 1999 onward; Ekstrom 2000 deliberative vs 2019 centered shift understated and an unverifiable "reducible agent causation" clause dropped; unsourced "sometimes described as a hybrid" replaced with the SEP's sourced note that Kane rejects the event-causal label)
+- **Enhancements made**: 2 (References: Ekstrom 2019 *Synthese* and Jacobs & O'Connor 2013 added, Crossref-verified; Kane Handbook orphan reference now cited inline)
+- **Reasoning modes**: Pereboom — Mode Three (boundary marking, honest); event-causal wing — Mode Three (framework-relative, honest)
+- **Output**: [[reviews/deep-review-2026-08-19-event-causal-libertarianism]]
+
 ## 2026-08-19T18:56:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/motor-selection]] (anchor) — corpus-wide Rajan et al. (2019) citation-READING sweep across obsidian/, archive/, hugo/content
