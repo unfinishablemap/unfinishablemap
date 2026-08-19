@@ -217,3 +217,32 @@
   subject_articles:
   - concepts/knowledge-argument.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6ec24a42-297e-4275-8a5a-bea94a03b527
+  commissioned_at: '2026-08-19T03:11:54.732682+00:00'
+  prompt_summary: Hostile-referee audit of concepts/knowledge-argument
+  target_filename: outer-review-2026-08-19-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site. Target: https://unfinishablemap.org/concepts/knowledge-argument/
+    - "The Knowledge Argument (Mary''s Room)". Fetch that page and the site''s recent
+    activity log at https://unfinishablemap.org/workflow/changelog/ directly, because
+    the site changes daily and search indexes lag 24-48 hours. Audit four things.
+    First, quotation and citation fidelity: is every quoted span verbatim, is every
+    cited work real, correctly attributed and dated, and verifiable at the publisher
+    rather than an aggregator? Second, accuracy and currency: does the article characterise
+    the main physicalist replies (ability hypothesis, acquaintance, phenomenal concepts
+    strategy) faithfully and current to the 2020s literature? Third, the strongest
+    counterarguments it fails to engage, and any place where its confidence outruns
+    its evidence. Fourth, internal consistency with the site''s stated positions.
+    Quote the exact spans you criticise so every claim can be checked. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit knowledge-argument
+  subject_articles:
+  - concepts/knowledge-argument.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-19-chatgpt-5-6-sol-pro.md
