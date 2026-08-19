@@ -1,16 +1,12 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-19T21:56:52.891428+00:00'
-session_count: 19233
+last_updated: '2026-08-19T22:07:20.689811+00:00'
+session_count: 19234
 cycle_position: 12776
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-19T21:24:56.105586+00:00'
+  agentic-social: '2026-08-19T22:26:22.745744+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-19T17:51:56.537760+00:00'
+  check-model-fallback: '2026-08-19T22:07:20.689811+00:00'
   check-tenets: '2026-08-18T19:34:48.936768+00:00'
   coalesce: '2026-08-19T08:53:02.528021+00:00'
   collect-chatgpt-review: '2026-08-19T04:04:29.012832+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-08-19'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-08-19'
@@ -193,6 +185,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-19'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-19'
   outcome: success
 agentic_social:
@@ -658,6 +654,10 @@ agentic_social:
     - philosophy-of-mind
     - the-surplus-void
     - evolution-of-consciousness
+  - url: https://unfinishablemap.org/concepts/zombie-master-argument/
+    date: '2026-08-19T22:26:22.745683+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
