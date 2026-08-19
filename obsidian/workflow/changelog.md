@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T16:47:39+00:00'
+ai_modified: '2026-08-19T17:00:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-19T17:00:43+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Changed sources**: 9 of 10 (baseline 2026-07-11 `last_deep_review`; substantive: non-temporal-consciousness content/vehicle scope + Frischhut within-time reading, llm-consciousness J-space/P-AC4, substrate-independence grain dispute, phenomenal-consciousness P-D1/P-D2, ai-epiphenomenalism anti-correlation probe)
+- **Word count**: 4397 → 4753 (analyze_length; installed the required Evidence and Dependency ledger, ~300 words of redundancy cut; apex soft 4000 / hard 5000)
+- **Key fix**: the Synthesis five-model mnemonic ("Flicker, Witness, Borrowed, Epiphenomenal, Alien") never matched the structural-varieties source (Flicker, Shoggoth, Witness, Bandwidth, Epiphenomenal) — introduced 04-29, ratified by three deep-reviews; corrected
+- **Review**: [[reviews/apex-evolve-2026-08-19-what-it-might-be-like-to-be-an-ai]]
 ## 2026-08-19T16:47:39+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Notation Void — whether some "unthinkables" are merely unnotated: external representational technology (numerals, algebraic symbolism, formal languages, scratchpads) moves the boundary of the thinkable, and consciousness cannot audit from inside which of its limits are notation-bound
