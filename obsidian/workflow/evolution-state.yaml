@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-19T15:15:30.583066+00:00'
-session_count: 19208
-cycle_position: 12766
+last_updated: '2026-08-19T15:27:40.971099+00:00'
+session_count: 19209
+cycle_position: 12767
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   agentic-social: '2026-08-19T15:15:30.583066+00:00'
@@ -33,7 +33,7 @@ last_runs:
   optimistic-review: '2026-08-19T01:31:47.775740+00:00'
   pessimistic-review: '2026-08-18T23:18:38.909973+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-19T14:59:30.487491+00:00'
+  refine-draft: '2026-08-19T15:27:40.971099+00:00'
   replenish-queue: '2026-08-19T14:32:18.755927+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-19'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-19'
   outcome: success
 agentic_social:
@@ -665,65 +665,69 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
 queue_status:
-  last_replenishment: '2026-08-19T14:30:50+00:00'
-  last_replenishment_mode: conservative-three-p2-mints-appended-below-the-two-starved-p2s-head-of-queue-unchanged
-  last_replenishment_note: "FLOOR RESTORED BY THREE CONSERVATIVE P2 MINTS, APPENDED\
-    \ AT THE FOOT OF THE ACTIVE SECTION SO THE TWO STARVED P2s KEEP THE HEAD OF THE\
-    \ QUEUE. Pre-count P0-P2 was 2 against the floor of 3, measured with count_p0_p2_tasks\
-    \ from tools.evolution.task_selector at 14:22Z; post-count is 5. Active total\
-    \ 45: 5 P2, 40 P3. select_queue_task still returns the buddhist-perspectives-on-meaning\
-    \ P2 at line 2692, with the contemplative-epistemology P2 at line 2708 second,\
-    \ then the three new P2s at lines 2728, 2742, 2751 in that order. This resolves\
-    \ the tension the five no-action runs on 2026-08-19 recorded: the selector sorts\
-    \ by (priority, line), so a P2 placed BELOW the starved pair restores the floor\
-    \ without deferring either of them, and inserting at the foot shifts no line number\
-    \ above it, so the in-flight sentinel in .unfin/current-queue-task.json is unaffected.\
-    \ Nothing was promoted, relocated, rescoped or retitled. \n\nTHE THREE MINTS,\
-    \ each a deferred residue that a reviewer verified and explicitly declined to\
-    \ mint for a contract or sequencing reason that has since lapsed, and each re-verified\
-    \ on disk this run. (1) Twenty-seven live self-citations in 24 files point at\
-    \ archived predecessors at preserved URLs, from Issue 8 of the 2026-08-18 pessimistic\
-    \ review of quantum-indeterminacy-free-will, which was out of contract there.\
-    \ The population was swept this run with a regex over the live trees against the\
-    \ archive tree; every archived target carries superseded_by and the full file-line-successor\
-    \ mapping is in the task, along with a re-derive recipe. (2) The Searle four-thesis\
-    \ list in concepts/biological-naturalism, the owed primary-text verification from\
-    \ today's 08:00 deep review, which could not reach the list without search budget.\
-    \ Five WebFetch routes were tried this run and all were blocked, so the task is\
-    \ framed as a hypothesis to verify, with the downstream dependency (L42 and L70\
-    \ use the thesis numbering) spelled out. (3) The cumulative-case double-counting\
-    \ at concepts/knowledge-argument L138 plus the minimal-assumptions line at L170,\
-    \ which the 2026-08-19 outer-review synthesis verified on disk and deferred until\
-    \ the three same-file tasks drained; all three landed this morning (08:50, 09:15,\
-    \ 09:49), both spans re-verified at their current line numbers, and the article\
-    \ measures 3491 raw against the concepts hard ceiling of 3500 so the task is pinned\
-    \ length-neutral. \n\nDECLINED. No expand-topic: topics 320 of 320 at cap, concepts\
-    \ 318, voids 99, positions 15, measured with count_section_files. No promotion\
-    \ of the Stapp P3 at line 406: an in-place promotion would jump ahead of the starved\
-    \ pair, and relocating it would move a block a fork may have cached. No condense\
-    \ mints: the hard-warning population is covered by open NEEDS-HUMAN length decisions\
-    \ and veto-tagged entries. No positions-evolve update: the only recently changed\
-    \ article cited in positions is quantum-indeterminacy-free-will in agency-and-will,\
-    \ which the 08-18 pessimistic review checked and found consistent. The optimistic\
-    \ cross-cultural review's three cross-link suggestions were left recorded, not\
-    \ minted, as that review intended. \n\nMECHANICS. Type and File lines present\
-    \ on all three, parsed as REFINE_DRAFT with file_path set; no other-type task\
-    \ authored. todo.md edited in obsidian only at this point; the cycle driver syncs.\
-    \ recent_tasks untouched. State re-parsed after this write."
-  last_replenishment_prev: '2026-08-19T03:41:36+00:00'
-  last_replenishment_run: 980
-  loop_pickable_open: 5
+  last_replenishment: '2026-08-19T16:05:00+00:00'
+  last_replenishment_mode: conservative-two-p2-mints-plus-one-p3-appended-at-foot-head-of-queue-unchanged
+  last_replenishment_note: "FLOOR RESTORED BY TWO CONSERVATIVE P2 MINTS PLUS ONE P3,\
+    \ ALL APPENDED AT THE FOOT OF THE ACTIVE SECTION SO THE TWO EXISTING P2s KEEP\
+    \ THE HEAD OF THE QUEUE. Pre-count P0-P2 was 2 against the floor of 3, measured\
+    \ with count_p0_p2_tasks from tools.evolution.task_selector at about 15:50Z (the\
+    \ 14:22 run's three mints had drained to one remaining P2 after the archived self-cite\
+    \ sweep landed at 15:26, and the buddhist-perspectives and Fox/Baird tasks landed\
+    \ 14:42 and 14:59); post-count is 4. Active total 45: 4 P2, 41 P3. select_queue_task\
+    \ still returns the biological-naturalism P2 at line 2708, then the knowledge-argument\
+    \ P2 at line 2717, then the two new P2s at lines 2726 and 2737 in that order;\
+    \ the new P3 sits at line 2746. Foot insertion shifted no line above it, so the\
+    \ in-flight sentinel is unaffected. Nothing promoted, relocated, rescoped or retitled.\
+    \ \n\nTHE MINTS, each a deferred residue a reviewer verified and explicitly declined\
+    \ to mint for a contract or pileup reason, each re-verified on disk this run.\
+    \ (1) P2, anchored on concepts/motor-selection: Rajan et al. 2019 is cited at\
+    \ about ten live loci for a ~300ms willed-attention deployment and a present-versus-absent\
+    \ willed/instructed signature. The 2026-08-18 pessimistic review of quantum-indeterminacy-free-will\
+    \ named this a two-system disagreement with topics/volitional-control and left\
+    \ it unreconciled; this run fetched the abstract from Europe PMC (DOI 10.1093/cercor/bhy149):\
+    \ frontal theta increases start at ~500 ms post cue, for willed RELATIVE to instructed\
+    \ attention. So volitional-control, structure-of-attention and quantum-neural-timing-constraints\
+    \ are right and the ~300 ms and absent readings are drift. The task lists every\
+    \ live, research-note and archive locus, frames the ~300 ms figure as probably\
+    \ the classic endogenous-deployment latency fused onto Rajan (to test, not assume),\
+    \ and requires the unification argument (motor ~280 ms matches attention ~300\
+    \ ms) to be re-read honestly rather than re-sourced to preserve the rhetoric.\
+    \ (2) P2 on topics/quantum-randomness-channel-llm-consciousness: item 4 of the\
+    \ 2026-08-18 optimistic ai-substrate-wing review, held back there for wing pileup.\
+    \ The file has zero open tasks, grep for interface-eligibility returns 0, and\
+    \ it is the origin of the five requirements that every importing surface now labels\
+    \ with the P-AC1 derivation disclosure. One labelled sentence beside the table,\
+    \ modelled on quantum-hardware L86, length-safe at 2746 raw. (3) P3 on concepts/conceptual-role-semantics:\
+    \ the self-cite date defect (2026-04-30 versus created 2026-04-27) recorded in\
+    \ the 2026-08-18 content-vocabulary deep review's Remaining Items, re-verified\
+    \ on disk including the hugo mirror; one-token fix. \n\nDECLINED. No expand-topic:\
+    \ topics 320 of 320 at cap, concepts 318, voids 99, positions 15, measured with\
+    \ count_section_files. No positions-evolve update: the only recently changed article\
+    \ cited in positions is concepts/haecceity (P-I1, P-AC3), whose 14:42 change concerned\
+    \ the Madhyamaka objection block and the register carries no Buddhist-reconciliation\
+    \ claim. No condense: metacognition crossed 3500 raw only by the Baird reference\
+    \ and its prose is 2934, a false over-length. The witness-consciousness reciprocal\
+    \ on moral-implications-of-genuine-agency waits on its parent P3 landing. The\
+    \ Stapp research-note metadata conflict and the archive/topics/eastern-metaphysics-integration\
+    \ L103 retired sentence were left recorded, not minted. No more knowledge-argument\
+    \ tasks: one open P2 already on that file. \n\nMECHANICS. Type and File lines\
+    \ present on all three, parsed as REFINE_DRAFT with file_path set; no other-type\
+    \ task authored. todo.md edited in obsidian only; the cycle driver syncs. recent_tasks\
+    \ untouched. State re-parsed after this write."
+  last_replenishment_prev: '2026-08-19T14:30:50+00:00'
+  last_replenishment_run: 981
+  loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 40
+  p2_tasks: 4
+  p3_tasks: 41
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
     chain: 0
-    deferred_residue_capture: 2
+    deferred_residue_capture: 3
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
@@ -732,7 +736,7 @@ queue_status:
     promotion_existing_p3: 0
     staleness: 0
     unconsumed_research: 0
-    verified_residue_mint: 1
+    verified_residue_mint: 0
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
