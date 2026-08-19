@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T09:10:41+00:00
+ai_modified: 2026-08-19T09:38:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-concepts-strategy]]"
+  - "[[phenomenal-acquaintance]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[russellian-monism]]"
@@ -38,7 +39,7 @@ last_curated: null
 last_deep_review: 2026-07-17T18:20:42+00:00
 ---
 
-The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument relies on colour [[dualist-perception|perception]]—the paradigm case of how conscious experience reveals what physical description leaves out.
+The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument turns on colour [[dualist-perception|perception]]—the paradigm case of experience revealing what physical description leaves out.
 
 This argument directly supports the [[tenets#^dualism|Dualism]] tenet and connects to the [[explanatory-gap]] literature. It remains actively debated despite its creator's later rejection—a testament to its philosophical force. Its persuasiveness depends significantly on whether the "learning intuition" (that Mary gains new knowledge) is treated as evidential, which is itself a contested methodological question.
 
@@ -52,7 +53,7 @@ Does she learn something new?
 
 Intuitively, yes. Before leaving, Mary knew what happens in brains when people see red. After leaving, she knows *what it's like* to see red. These seem different. The first is third-person, objective, expressible in equations and diagrams. The second is first-person, subjective, and captures something that no physical description could convey.
 
-But Mary already knew all the physical facts. So if she learns something new, there must be facts beyond the physical facts. If there are facts beyond physical facts, physicalism is false—consciousness is not reducible to physical processes.
+But Mary already knew all the physical facts.
 
 ## The Argument's Structure
 
@@ -64,7 +65,7 @@ Jackson's argument can be formalized:
 4. Therefore, not all facts are physical facts
 5. Therefore, physicalism is false
 
-The argument's force comes from premise 2—the "learning claim." Many find the intuition that Mary learns something new compelling, though its prevalence is less uniform than often assumed—experimental-philosophy work finds that philosophers and non-philosophers conceive of subjective experience differently (Sytsma and Machery 2010)—and its evidentiary status is contested (examined below).
+Premise 2—the "learning claim"—is widely granted, though its prevalence is less uniform than often assumed (Sytsma and Machery 2010 find philosophers and non-philosophers conceiving subjective experience differently) and its evidentiary status is contested (examined below). The argument's force turns on the inference from 2 to 3, which needs an unstated bridge—that what Mary gains consists in grasping a previously unknown true proposition. The Ability Hypothesis, the phenomenal concepts strategy, and acquaintance each deny that bridge rather than premise 2, granting that Mary learns something while denying that what she learns is a fact.
 
 ## Physicalist Responses
 
@@ -88,19 +89,19 @@ The strongest live physicalist rejoinder to the dilemma comes from Carruthers an
 
 Derek Ball (2009) presses a more radical objection from inside the physicalist camp: there are no phenomenal concepts at all of the intrinsic, individualistic kind the strategy requires. Adapting the social externalism physicalists themselves typically endorse, he holds that concept possession turns on relations to one's linguistic community rather than on private acquaintance.
 
-The knowledge argument is collateral damage. Mary's new way of knowing was supposed to be stated in phenomenal concepts; if there are none, that route to dualism is blocked along with the strategy Ball is attacking. Ball is therefore a genuine threat to the knowledge-argument path rather than a self-inflicted physicalist wound. He is survivable rather than decisive: the Map's dualism also rests on the conceivability route, the persistence of the explanatory gap, and its positive quantum-interface case, and whether Ball's externalism really reaches experiential concepts is contested—most parties continue to hold that it does not.
+The knowledge argument is collateral damage. Mary's new way of knowing was supposed to be stated in phenomenal concepts; if there are none, that route to dualism is blocked along with the strategy Ball is attacking. The objection is survivable rather than decisive: the Map's dualism also rests on the conceivability route, the persistence of the explanatory gap, and its positive quantum-interface case, and whether Ball's externalism really reaches experiential concepts is contested—most parties continue to hold that it does not.
 
 ### Denying Mary's Knowledge
 
 Daniel Dennett argues that if Mary truly knew all physical facts, she could predict what seeing red would be like. Genuinely complete physical knowledge would include knowledge of how Mary's own brain *represents* color, which might suffice for anticipating the phenomenal character itself. On this view, Mary's confinement prevents her from acquiring certain physical knowledge—experiential acquaintance with her own neural representations—not evidence of non-physical facts.
 
-This challenge deserves weight. The standard dualist reply—that predictive knowledge wouldn't constitute *knowing what it's like*—presupposes what the argument is supposed to establish. Dennett exposes a genuine burden-of-proof question: the knowledge argument works only if the learning intuition is treated as evidence of incomplete physical knowledge, while Dennett treats it as evidence that we underestimate physical knowledge.
+The standard dualist reply—that predictive knowledge wouldn't constitute *knowing what it's like*—presupposes what the argument is supposed to establish. Dennett exposes a genuine burden-of-proof question: the knowledge argument works only if the learning intuition is treated as evidence of incomplete physical knowledge, while Dennett treats it as evidence that we underestimate physical knowledge.
 
 However, Dennett must explain what "complete physical knowledge" would look like in a way that makes the learning intuition dissolve. That even the most detailed physical descriptions leave competent philosophers sensing Mary learns something new is a fact the physicalist owes an account of. This counter-burden is itself contested: a Dennett-sympathetic reply can hold that the intuition's persistence is exactly what a successful debunking would predict—evidence of the limitation Dennett diagnoses rather than a residue the physicalist must explain away. The burden of proof here is genuinely unsettled, consistent with the conditional framing the Map adopts below.
 
 ### The Illusionist Response
 
-[[illusionism|Illusionism]] is a family of positions rather than a single thesis. Its leading defenders deny phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable qualities—while granting that Mary discriminates, reacts, and reports differently afterward. What she gains, on this reading, is a new representational state rather than access to a non-physical property. See [[illusionism]] for the range the framework covers, Frankish's quasi-phenomenal properties account, and why the Map finds it insufficient.
+[[illusionism|Illusionism]] is a family of positions rather than a single thesis. Its leading defenders deny phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable qualities—while granting that Mary discriminates, reacts, and reports differently afterward. What she gains, on this reading, is a new representational state rather than access to a non-physical property. See [[illusionism]] for Frankish's quasi-phenomenal properties account and why the Map finds it insufficient.
 
 The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes so many as revelatory. That demand is not imported from dualism: mechanistic specification is exactly the standard illusionists press against their rivals, and the account identifies the bridge it needs without yet building it. Where the disagreement runs deeper—over whether any intrinsic quality remains once the functional roles are described—it marks a boundary between frameworks, which the Map notes as such rather than as a refutation inside illusionism's own terms.
 
@@ -124,7 +125,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **Nagel's Bat**: Nagel (1974) anticipated Jackson by arguing that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room strengthens this by eliminating species differences.
 
-**Acquaintance Knowledge**: What Mary gains is *acquaintance knowledge*—the strongest grade of [[indexical-knowledge-and-identity|indexical knowledge]], combining irreducibility of self-location with irreducibility of qualitative experience. It illuminates [[consciousness-only-territories|territories accessible only to conscious beings]].
+**[[phenomenal-acquaintance|Acquaintance Knowledge]]**: What Mary gains is *acquaintance knowledge*—the strongest grade of [[indexical-knowledge-and-identity|indexical knowledge]], combining irreducibility of self-location with irreducibility of qualitative experience, and illuminating [[consciousness-only-territories|territories accessible only to conscious beings]]. The category is contested ground: Earl Conee presses it *in defence of* physicalism, reasoning that if Mary's gain is non-propositional acquaintance rather than a new truth, she learns no new fact. What the Map contests is not the category but the further claim that what acquaintance presents is physical.
 
 **[[objectivity-and-consciousness|The Objectivity Paradox]]**: Science aims for perspective-free description, but consciousness *is* perspective. Mary possessed the maximally objective description yet lacked the subjective reality it describes.
 
@@ -140,7 +141,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 Mary's recognition depends on [[introspection]]—her capacity to notice the difference between before and after. Might introspective error explain away the intuition?
 
-The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Fox et al. (2012) offer a preliminary indication in the same direction: meditation experience predicted introspective accuracy for subtle tactile changes. The study is cross-sectional and confined to one sensory modality, so it supports the modest claim that introspective accuracy is trainable, not the broad proposition that introspection fails only for causal processes while remaining reliable for phenomenal content. That wider partition is the section's working assumption, not a result this study establishes.
+The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Fox et al. (2012) offer a preliminary indication in the same direction: meditation experience predicted introspective accuracy for subtle tactile changes. The study is cross-sectional and confined to one sensory modality, so it supports the modest claim that introspective accuracy is trainable, not the broad proposition that introspection fails only for causal processes while remaining reliable for phenomenal content—a wider partition the section assumes rather than establishes.
 
 The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] develops this further: introspection provides direct phenomenal presentation combined with fallible judgement, making it well-suited to ground Mary's recognition of novelty.
 
@@ -166,15 +167,15 @@ The knowledge argument would be undermined if:
 4. **Physical completeness is demonstrated**: A completed physics derives phenomenal properties as chemistry derives water's macroscopic properties. The explanatory gap shows no sign of closing.
 5. **Illusionism is vindicated**: We can explain why Mary *seems* to learn without invoking phenomenal properties. But the "illusion problem" appears as difficult as the hard problem.
 
-The argument's resilience comes from its simplicity: minimal assumptions and a modest conclusion. If the learning intuition is reliable, the burden falls on physicalists to explain it away.
+The argument's resilience comes from its simplicity: minimal assumptions and a modest conclusion.
 
 ## Relation to The Unfinishable Map's Perspective
 
 If the knowledge argument is sound, it provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [[qualia]] would have a qualitative character that no physical description captures.
 
-The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what many recognize as the manifest character of experience, simplicity may not be decisive—though as noted, both the intuition's reliability and its prevalence are themselves debated.
+The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what many recognize as the manifest character of experience, simplicity may not be decisive.
 
-The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, though the dependency runs one way only. The knowledge argument is an argument about what Mary learns, and it is compatible with epiphenomenalism—Jackson himself held both for two decades, which is why his later worry arises as an internal problem for his own position rather than as a result the argument delivers. The Map's further claim, that Mary's phenomenal states causally influence her beliefs about them, is the interactionist's own commitment brought to the argument rather than extracted from it. On that commitment, Mary's report that seeing red is revelatory tracks the experience because the experience helped produce the report, and consciousness participates in the causal order. The epiphenomenalist has replies, and [[tenets#^bidirectional-interaction|Tenet 3]] treats them at length, holding that the strongest version of the position survives the self-undermining charge.
+The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, though the dependency runs one way only. The argument is compatible with epiphenomenalism—Jackson himself held both for two decades, which is why his later worry arises as an internal problem for his own position rather than as a result the argument delivers. The Map's further claim, that Mary's phenomenal states causally influence her beliefs about them, is the interactionist's own commitment brought to the argument rather than extracted from it. On that commitment, Mary's report that seeing red is revelatory tracks the experience because the experience helped produce the report, and consciousness participates in the causal order. The epiphenomenalist has replies, and [[tenets#^bidirectional-interaction|Tenet 3]] treats them at length, holding that the strongest version of the position survives the self-undermining charge.
 
 ## Further Reading
 
@@ -195,7 +196,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [[concepts/materialism]] — The view the argument challenges
 - [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
-- [[aesthetics-and-consciousness]] — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [[aesthetics-and-consciousness]] — The aesthetic version of Mary's Room
 - [[aesthetic-testimony-and-the-acquaintance-principle]] — The aesthetics-native sibling argument: why aesthetic value seems non-transmissible by testimony
 - [[tenets]] — How the Map's framework responds
 
@@ -206,6 +207,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 1. Carruthers, P., & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9–10), 212–236.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Fox, K. C. R., et al. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS ONE*, 7(9), e45370.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
