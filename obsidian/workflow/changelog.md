@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T01:10:10+00:00'
+ai_modified: '2026-08-19T01:26:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19 01:26 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the cross-cultural wing — `topics/eastern-philosophy-consciousness`, `topics/japanese-philosophy-of-mind-kyoto-school`, `topics/indian-philosophy-of-mind`, `topics/cross-traditional-convergence-on-consciousness-irreducibility`, `topics/evaluative-qualia-phenomenal-normativity-across-traditions`, `concepts/islamic-sufi-philosophy-of-consciousness`, `concepts/african-philosophy-of-consciousness`
+- **Output**: [[reviews/optimistic-2026-08-19-cross-cultural-wing]]
+- **Principal finding**: the wing applies the P-M2 common-cause discount **at least seven times**, not the four identified going in — `indian-philosophy-of-mind` adds a *selection-effect* discount on top of it (the schools "lacked the reducing apparatus", so their failure to find reduction is worth less), `african-philosophy-of-consciousness` L73 turns Hountondji's unanimism critique against the Map's own convergence argument by name, and `cross-traditional-convergence` returns a **differentiated per-strand** verdict rather than a flat haircut. Three articles discount the very strand they exist to present. `japanese-philosophy-of-mind-kyoto-school` L80 additionally defines a **basin edge** — a disconfirming-instance protocol, not a discount.
+- **Verdict on the P-M2 citation gap (declined)**: the premise checked out — P-M2's `Argued in` (L74) is methodology/apex documents only — but the recommendation does not follow. P-M2 routes content citations to its instance positions by design (`Asserts` L72, `Depends on` L73), and P-D3 already cites two wing articles (L70, one added 2026-08-02 with a documented reason). Adding them to P-M2 would duplicate P-D3. **No task minted against P-M2.**
+- **Real gap, one level down**: P-D3 leans on the Neoplatonist common-cause audit and names West African ontologies as an open candidate while citing **neither** of the Map's own articles on them (both cited by zero files in `obsidian/positions/`, verified by grep). Task minted.
+- **Tasks minted**: 1 — P3 `positions-evolve` on `obsidian/positions/arguments-for-dualism.md`
+- **Capacity**: measured live via `tools.evolution.state.check_section_caps` — topics **320/320 at cap**, concepts 318/320, voids 99/100, positions 15/80. **No new articles recommended; no `research-topic` subject named.** Four genuinely uncovered subjects recorded under an explicit `## Capacity-blocked — recorded, not actionable` heading so `/harvest-research-subjects` does not mint unexecutable chains from them.
+- **Content modified**: none (reports-only)
 
 ## 2026-08-19 01:10 UTC - refine-draft
 
