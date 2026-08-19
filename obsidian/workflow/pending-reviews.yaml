@@ -222,9 +222,9 @@
   commissioned_at: '2026-08-19T03:11:54.732682+00:00'
   prompt_summary: Hostile-referee audit of concepts/knowledge-argument
   target_filename: outer-review-2026-08-19-claude-opus-5.md
-  status: pending
+  status: abandoned
   collect_attempts: 9
-  last_attempt_at: '2026-08-19T06:52:38.534082+00:00'
+  last_attempt_at: '2026-08-19T07:22:23.254244+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy site. Target: https://unfinishablemap.org/concepts/knowledge-argument/
