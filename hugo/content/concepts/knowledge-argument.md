@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-19 08:44:00+00:00
+ai_modified: 2026-08-19 09:10:41+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 18:20:42+00:00
-lastmod: 2026-08-19 08:44:00+00:00
+lastmod: 2026-08-19 09:10:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,6 +85,14 @@ Brian Loar, David Papineau, and others argue that Mary gains new *concepts*, not
 
 David Chalmers raises a dilemma discussed in [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/): either phenomenal concepts are themselves physical (in which case [zombies](/concepts/philosophical-zombies/) could have them, contradicting the claim that experience is needed to acquire them) or they involve something non-physical (conceding dualism). Type-B physicalists deny that conceivability tracks possibility, so the debate remains open.
 
+The strongest live physicalist rejoinder to the dilemma comes from Carruthers and Veillet (2007), who charge Chalmers with equivocating between *first-person* phenomenal concepts, deployed from within experience, and *third-person* ones deployed about it. A zombie and its conscious twin then share the same epistemic situation—the same recognitional isolation of phenomenal from physical concepts—while the contents differ, and isolation of that kind is physically explicable. [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) presses the cost rather than declaring the reply defeated: the from-the-inside character the charge needs to tell the two concepts apart is precisely what dualists claim physics omits, so the reply relocates the disagreement rather than dissolving it. The exchange remains open (Sasaki 2025).
+
+### Ball's Eliminativism About Phenomenal Concepts
+
+Derek Ball (2009) presses a more radical objection from inside the physicalist camp: there are no phenomenal concepts at all of the intrinsic, individualistic kind the strategy requires. Adapting the social externalism physicalists themselves typically endorse, he holds that concept possession turns on relations to one's linguistic community rather than on private acquaintance.
+
+The knowledge argument is collateral damage. Mary's new way of knowing was supposed to be stated in phenomenal concepts; if there are none, that route to dualism is blocked along with the strategy Ball is attacking. Ball is therefore a genuine threat to the knowledge-argument path rather than a self-inflicted physicalist wound. He is survivable rather than decisive: the Map's dualism also rests on the conceivability route, the persistence of the explanatory gap, and its positive quantum-interface case, and whether Ball's externalism really reaches experiential concepts is contested—most parties continue to hold that it does not.
+
 ### Denying Mary's Knowledge
 
 Daniel Dennett argues that if Mary truly knew all physical facts, she could predict what seeing red would be like. Genuinely complete physical knowledge would include knowledge of how Mary's own brain *represents* color, which might suffice for anticipating the phenomenal character itself. On this view, Mary's confinement prevents her from acquiring certain physical knowledge—experiential acquaintance with her own neural representations—not evidence of non-physical facts.
@@ -95,9 +103,9 @@ However, Dennett must explain what "complete physical knowledge" would look like
 
 ### The Illusionist Response
 
-[Illusionists](/concepts/illusionism/) argue Mary learns nothing substantive because there are no phenomenal facts to learn. What she gains is simply a new representational state—not access to non-physical property. See [illusionism](/concepts/illusionism/) for Frankish's quasi-phenomenal properties account and why the Map finds it insufficient.
+[Illusionism](/concepts/illusionism/) is a family of positions rather than a single thesis. Its leading defenders deny phenomenal consciousness *as traditionally conceived*—experience bearing intrinsic, ineffable qualities—while granting that Mary discriminates, reacts, and reports differently afterward. What she gains, on this reading, is a new representational state rather than access to a non-physical property. See [illusionism](/concepts/illusionism/) for the range the framework covers, Frankish's quasi-phenomenal properties account, and why the Map finds it insufficient.
 
-The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes so many as revelatory.
+The challenge specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that*. Mary possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why it strikes so many as revelatory. That demand is not imported from dualism: mechanistic specification is exactly the standard illusionists press against their rivals, and the account identifies the bridge it needs without yet building it. Where the disagreement runs deeper—over whether any intrinsic quality remains once the functional roles are described—it marks a boundary between frameworks, which the Map notes as such rather than as a refutation inside illusionism's own terms.
 
 ## Jackson's Self-Rejection
 
@@ -105,7 +113,7 @@ Frank Jackson, the argument's creator, now rejects it. By 2003 he embraced physi
 
 The self-knowledge objection to epiphenomenalism is a separate thread, and an earlier one. Jackson (1995) pressed it against his own position: if qualia have no causal power, they cannot cause our beliefs about them, so knowledge of qualia looks unobtainable. That objection persuaded him something had gone wrong in the knowledge argument, but it did not tell him what had; the representationalist diagnosis of 2003 is his answer to that further question. The distinction matters here, because the self-knowledge objection is a constraint any epiphenomenalist owes a reply to, whereas Jackson's actual ground for abandoning the argument is a physicalist account of experience that the Map rejects on independent grounds.
 
-Jackson's rejection doesn't settle the debate—arguments stand or fall on their logic. Chalmers, Nida-Rümelin, and Alter continue to defend it. The 1995 epiphenomenalism worry, taken on its own, supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this as a reversal—Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes. [Clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides empirical support.
+Jackson's rejection doesn't settle the debate—arguments stand or fall on their logic. Chalmers, Nida-Rümelin, and Alter continue to defend it. The 1995 epiphenomenalism worry, taken on its own, supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this as a reversal—Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes. [Clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) is compatible with that reversal and suggestive of it, and the Map's treatment of that evidence grades it no higher: the findings remove a defeater—the epiphenomenalist claim that consciousness makes no measurable difference—without discriminating mind-to-brain from brain-to-brain causation. Removing a defeater is not the same as upgrading the evidence.
 
 ## Connection to Related Arguments
 
@@ -135,7 +143,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 Mary's recognition depends on [introspection](/concepts/introspection/)—her capacity to notice the difference between before and after. Might introspective error explain away the intuition?
 
-The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Additionally, Fox et al. (2012) found that contemplative experience predicts introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty.
+The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Fox et al. (2012) offer a preliminary indication in the same direction: meditation experience predicted introspective accuracy for subtle tactile changes. The study is cross-sectional and confined to one sensory modality, so it supports the modest claim that introspective accuracy is trainable, not the broad proposition that introspection fails only for causal processes while remaining reliable for phenomenal content. That wider partition is the section's working assumption, not a result this study establishes.
 
 The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) develops this further: introspection provides direct phenomenal presentation combined with fallible judgement, making it well-suited to ground Mary's recognition of novelty.
 
@@ -157,7 +165,7 @@ The knowledge argument would be undermined if:
 
 1. **Mary predicts correctly**: Someone with only physical knowledge accurately describes what experiences are like before having them—predicting phenomenal character, not just behavior.
 2. **The phenomenal concepts strategy succeeds**: Phenomenal concepts are shown to be fully physical, making the gap merely conceptual. Current versions face Chalmers's dilemma.
-3. **Introspection proves unreliable for phenomenal content**: Mary's report is confabulation rather than genuine recognition. But evidence suggests introspection fails for causal processes, not phenomenal content.
+3. **Introspection proves unreliable for phenomenal content**: Mary's report is confabulation rather than genuine recognition. The best-documented introspective failures concern causal processes; whether they extend to phenomenal content is unsettled, and the Map's reliance on the distinction is provisional to that extent.
 4. **Physical completeness is demonstrated**: A completed physics derives phenomenal properties as chemistry derives water's macroscopic properties. The explanatory gap shows no sign of closing.
 5. **Illusionism is vindicated**: We can explain why Mary *seems* to learn without invoking phenomenal properties. But the "illusion problem" appears as difficult as the hard problem.
 
@@ -197,6 +205,8 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 ## References
 
 1. Alter, T. (2023). *The Matter of Consciousness: From the Knowledge Argument to Russellian Monism*. Oxford University Press.
+1. Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
+1. Carruthers, P., & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9–10), 212–236.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
@@ -215,6 +225,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 1. Nida-Rümelin, M. (2007). "Grasping Phenomenal Properties." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press, 307-349.
 1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
 1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+1. Sasaki, K. (2025). "The Phenomenal Concept Strategy and the Master Argument." *Kagaku Tetsugaku (Philosophy of Science)*, 58(1).
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Sytsma, J., & Machery, E. (2010). "Two Conceptions of Subjective Experience." *Philosophical Studies*, 151(2), 299-327.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
