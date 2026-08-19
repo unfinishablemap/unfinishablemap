@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-08-03 01:40:33+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 22:48:53+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[simulation]]'
@@ -14,7 +14,7 @@ date: &id001 2026-02-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 01:40:33+00:00
+lastmod: 2026-08-19 22:48:53+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -239,6 +239,6 @@ Based on this research, a voids article could:
 12. Chang, A. Y. C., et al. (2020). "Information Closure Theory of Consciousness." *Frontiers in Psychology*, 11, 1504.
 13. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38(1), 173-198.
 14. Rice, H. G. (1953). "Classes of Recursively Enumerable Sets and Their Decision Problems." *Transactions of the American Mathematical Society*, 74(2), 358-366.
-15. Vlerick, M., & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(4), 529-546.
+15. Vlerick, M., & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(1), 101-115.
 16. Feferman, S. (1995). "Penrose's Gödelian Argument." *Psyche*, 2(7). https://math.stanford.edu/~feferman/papers/penrose.pdf
 17. Van Den Hauwe, L. (2011). "Hayek, Gödel, and the Case for Methodological Dualism." SSRN Working Paper.

@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-08-19T22:48:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[medium-status-voids-in-cognition]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-03-19
 last_curated: null
 last_deep_review: 2026-07-06T17:23:41+00:00
@@ -207,7 +207,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 11. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 12. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 13. Kant, I. (1781/1787). *Critique of Pure Reason*.
-14. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+14. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 15. Fitch, F. B. (1963). "A Logical Analysis of Some Value Concepts." *Journal of Symbolic Logic*, 28(2), 135-142.
 16. Rescher, N. (2009). *Unknowability: An Inquiry Into the Limits of Knowledge*. Lanham: Lexington Books.
 17. Nagel, T. (1986). *The View from Nowhere*. New York: Oxford University Press.

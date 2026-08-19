@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-04-23 12:41:29+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 22:48:53+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -12,7 +12,7 @@ date: &id001 2026-02-04
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-08-19 22:48:53+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -230,7 +230,7 @@ Based on this research, a voids article could:
 1. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 2. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 3. McGinn, C. (1991). *The Problem of Consciousness*. Blackwell.
-4. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+4. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 5. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
 6. Chomsky, N. (2013). *What Kind of Creatures Are We?* Columbia University Press.
 7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.

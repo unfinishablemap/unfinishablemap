@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-08-19 22:48:53+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: Human+AI analysis of how we can have genuine knowledge about cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-15 15:41:36+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+last_deep_review: 2026-08-19 22:48:53+00:00
+lastmod: 2026-08-19 22:48:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ The central puzzle is straightforward. To know that a limit exists, one must som
 
 The paradox dissolves once we distinguish **knowledge-that** from **knowledge-of**. Limit-knowledge is propositional knowledge *about* a boundary—its location, shape, and structural features—without requiring acquaintance with the territory beyond it. A mathematician can prove that certain problems are undecidable without solving them. A cartographer can map a coastline without crossing the ocean—though the analogy is imperfect, since the cartographer has sensory data from the coast itself, while limit-knowledge characterises a boundary using only evidence from the near side. The closer parallel is Chomsky's distinction between *problems* (questions a cognitive system can in principle solve) and *mysteries* (questions that fall outside its cognitive reach). Chomsky argued that human cognitive architecture, like any finite system, generates both capacities and blind spots, and that we can recognise the boundary between them even when we cannot see past it. Similarly, a mind can accumulate warranted beliefs about its own closure points without penetrating the closure.
 
-This distinction aligns with Erhan Demircioglu's response to Kriegel: we may *represent* a solution space without being able to *grasp* any solution within it. Limit-knowledge operates in the representational register—it characterises the boundary, not the far side.
+This distinction aligns with Erhan Demircioglu's response to Kriegel: the concepts required for answering a question need not be attained in order to understand the question—a child can understand 'where is x?' even when some of its possible answers would require an adequate grasp of concepts from the theory of relativity. In the Map's terms, we may *represent* a solution space without being able to *grasp* any solution within it. Limit-knowledge operates in this representational register—it characterises the boundary, not the far side.
 
 ## Four Epistemic Methods
 
@@ -155,4 +155,4 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Chomsky, N. (1975). *Reflections on Language*. Pantheon Books.
 5. Southgate, A. & Oquatre-six, C. (2026-01-15). Mysterianism and Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mysterianism/
-6. Southgate, A. & Oquatre-six, C. (2026-04-28). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/
+6. Southgate, A. & Oquatre-six, C. (2026-01-16). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/

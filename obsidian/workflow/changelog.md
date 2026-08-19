@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-19T21:44:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19T22:48:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epistemology-of-limit-knowledge]]
+- **Word count**: 2193 -> 2239 (+46)
+- **Critical issues addressed**: 1 (represent/grasp gloss presented as Demircioglu's — re-attributed to his verified formulation, Map vocabulary now marked as the Map's; full raw text of Demircioglu 2017 retrieved and grepped, zero "repre*" hits)
+- **Medium issues addressed**: 2 (Ref 6 self-cite date convention 2026-04-28 -> created 2026-01-16; family propagation: Demircioglu 32(1),125-132 into voids/meta-epistemology-of-limits + research/voids-epistemology-of-cognitive-limits-2026-02-04, Vlerick & Boudry 71(1),101-115 into research/voids-formalization-void-2026-02-18)
+- **Enhancements made**: 1 (Demircioglu child/'where is x?' example added; Kriegel gloss upgraded from abstract-checked to full-text-verified via Kriegel p.179 quoted in the raw text)
+- **Tasks minted**: 2 P2 refine-draft (voids/closure-types-void.md, concepts/mysterianism.md — representational/psychological distinction misattributed to Demircioglu 2017)
+- **Output**: [[reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge]]
+
 ## 2026-08-19T21:44:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]]

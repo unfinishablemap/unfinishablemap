@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Epistemology of Cognitive Limits"
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-08-19T22:48:53+00:00
 draft: false
 target_section: voids
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-02-04
 last_curated: null
 ---
@@ -228,7 +228,7 @@ Based on this research, a voids article could:
 1. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 2. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 3. McGinn, C. (1991). *The Problem of Consciousness*. Blackwell.
-4. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+4. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 5. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
 6. Chomsky, N. (2013). *What Kind of Creatures Are We?* Columbia University Press.
 7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
