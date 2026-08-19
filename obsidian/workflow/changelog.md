@@ -5,6 +5,33 @@ ai_modified: '2026-08-19T07:43:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-19 08:45 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/knowledge-argument]] (+ [[research/knowledge-argument-marys-room-2026-01-14]])
+- **Source**: P1 from the 2026-08-19 outer-review cycle (ChatGPT 5.6 Pro). Three items, all re-verified on disk before editing.
+- **Word count (decomposed prose)**: 2,185 → 2,361 (+176); concepts soft 2,500 / hard 3,500, so 1,139 words of headroom remain. Reference apparatus 522 → 622. Raw `analyze_length` 2,707 → 2,983, still `soft_warning` — the apparatus drives that figure and it is not the governing one.
+
+**Item 1 — Jackson's stated reason for rejecting his own argument (the substantive fix).**
+The article gave the self-knowledge objection ("if qualia have no causal power, we couldn't know about them") as Jackson's reason for embracing physicalism in "Mind and Illusion", then read that into support for Bidirectional Interaction. That converts a physicalist reply into apparent support for interactionism. SEP (*Qualia: The Knowledge Argument*) separates the two threads cleanly: Jackson 2003/2007 "argues that the argument goes wrong in presupposing a false view about sensory experience", answered by "endorsing strong representationalism"; the self-knowledge objection is **Jackson 1995**, which "concludes that something must be wrong with the knowledge argument" without identifying what. Rewrote the passage to state the representationalist diagnosis — including the intensional-properties/instantiated-properties confusion the title's "illusion" names — and relocated the self-knowledge objection into its own separately sourced paragraph attributed to Jackson 1995. Added the closing distinction that Jackson's actual ground is a physicalist account of experience the Map rejects on independent grounds, which is what stops the conversion.
+Engagement with Jackson: Mode Three; the reply now marks the framework boundary honestly rather than borrowing Jackson's conversion as interactionist evidence.
+**Scope guard respected** — the wholesale framing was left alone. L167 already concedes the interactionist reading is "the interactionist's own commitment brought to the argument rather than extracted from it", so the article was not tenet-blind and over-correcting would have deleted a calibration it already had. The only downstream touch was "Jackson's epiphenomenalism worry actually supports" → "The 1995 epiphenomenalism worry, taken on its own, supports", which just makes the referent precise now that the two threads are separated.
+
+**Item 2 — Alter citation: subtitle added AND year corrected to 2023, confirmed at the publisher.**
+Verified at three publisher-side sources before editing, per the instruction not to swap one unverified figure for another: Crossref's OUP-deposited record for DOI 10.1093/oso/9780198840459.001.0001 gives title "The Matter of Consciousness", subtitle "From the Knowledge Argument to Russellian Monism", `published-print` `[2023,3,2]`, ISBN 9780198840459; OUP's own platform page (academic.oup.com/book/45669) renders the full title with subtitle; SEP's bibliography lists "Alter, T., 2023, *The Matter of Consciousness: From the Knowledge Argument to Russellian Monism*, Oxford: Oxford University Press." Our 2024 was the conflation with Alter's own 2024 *Précis*, exactly as the task suspected. The subtitle matters because Alter's destination is Russellian monism, not interactionism.
+
+**Item 3 — bibliography desync, six entries added.**
+Five requested (all verified at authoritative sources, none newer than the claims the prose already makes): Papineau 2002 *Thinking about Consciousness* (Crossref; the volume has the "Phenomenal Concepts" chapter the article's L81 attributes); Dennett 1991 *Consciousness Explained* (SEP — chosen over "What RoboMary Knows" because it covers both the Mary reply and the intuition-unreliability line, i.e. all 7 prose mentions rather than 3); Nida-Rümelin 2007 "Grasping Phenomenal Properties" (SEP, pages 307–349); Levine 1983 "Materialism and Qualia: The Explanatory Gap" (Crossref, *Pacific Philosophical Quarterly* 64(4) 354–361, DOI 10.1111/j.1468-0114.1983.tb00207.x); Schwitzgebel 2011 *Perplexities of Consciousness* (Crossref, MIT Press).
+A **sixth** entry, **Jackson 1995 "Postscript on 'What Mary Didn't Know'"** (SEP: Moser & Trout eds., *Contemporary Materialism*, Routledge, 184–189), was required by Item 1's instruction to make the relocated self-knowledge objection "separately sourced" — adding the inline cite without the entry would have left a dangling citation. Flagged as distinct from the five.
+**No new literature was added beyond these six.** The "1 of 17 entries post-dates 2016" figure was treated as context only; new-citation work stays in the sibling P2.
+**Tallis** (0 prose uses) was **not deleted** — relabelled under a new `### Further reading (not cited above)` heading. The heading is deliberately not "Further Reading", to avoid an anchor collision with the article's existing internal-navigation section of that name.
+**Post-insert ledger check**: entries are markdown auto-numbered (every line is `1.`) and a grep found **zero** numeric cross-references to them anywhere in `obsidian/` or `hugo/content/`, so renumbering broke nothing. Re-ran uniqueness after inserting: no duplicate full lines, no duplicate author+year keys, alphabetical order verified by diff against a sort. Cited entries 17 → 22, plus 1 under further reading. Re-ran the prose-vs-bibliography desync audit: **zero prose-only names remain**.
+
+**Corpus sweep (beyond the flagged file).** The wrong Alter year had propagated to the source research note, `research/knowledge-argument-marys-room-2026-01-14` (two loci: the chronology table and the reference list) — both corrected there, since leaving the seed note wrong invites re-propagation. Notably `concepts/epistemology` **already carried the correct 2023 + subtitle**, and the 2026-07-29 outer review had already verified that form: this was a half-applied fix, and the corroboration from our own corpus independently supports 2023. Reviews and changelog archives also contain the 2024 string but are historical records and were left untouched.
+
+- **Verification**: `scripts/sync.py` run locally; 16 distinctive substrings grepped in both `obsidian/` and `hugo/content/` at 1/1, and 3 retired strings confirmed at 0/0 in both trees.
+- **Published**: yes
+
 ## 2026-08-19 08:00 UTC - deep-review
 
 - **Status**: Success

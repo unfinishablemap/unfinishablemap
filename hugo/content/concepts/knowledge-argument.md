@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-09 00:41:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 08:44:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -19,14 +19,14 @@ concepts:
 - '[[objectivity-and-consciousness]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-01-15
-date: &id001 2026-06-21 22:42:00+00:00
+date: &id001 2026-08-19
 description: Mary knows all physical facts about color but seems to learn something
   new seeing red. If the learning intuition holds, physicalism faces a serious challenge.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 18:20:42+00:00
-lastmod: 2026-08-09 00:41:00+00:00
+lastmod: 2026-08-19 08:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,9 +101,11 @@ The challenge specific to Mary's case: the illusionist must explain not just the
 
 ## Jackson's Self-Rejection
 
-Frank Jackson, the argument's creator, now rejects it. By 2003 he embraced physicalism (Jackson 2003, "Mind and Illusion"), arguing that his original conclusion—epiphenomenalism about qualia—leads to a devastating problem: if qualia have no causal power, we couldn't know about them. Mary's belief that she learned something new requires her learning to causally affect her beliefs, which epiphenomenal qualia couldn't do.
+Frank Jackson, the argument's creator, now rejects it. By 2003 he embraced physicalism (Jackson 2003, "Mind and Illusion"), and his stated reason is that the knowledge argument presupposes a false view of sensory experience. On the strong representationalism Jackson came to accept, being in a phenomenal state is representing objective properties, and both the properties represented and the representing itself admit of a physicalist account. The illusion his title names is the slide from the intensional properties of a representation—properties an experience represents things as having—to properties actually instantiated by the objects represented. Mary accordingly gains new representational states and new abilities on leaving her room while discovering no new property; the sense that she discovers one is diagnosed rather than honoured.
 
-Jackson's rejection doesn't settle the debate—arguments stand or fall on their logic. Chalmers, Nida-Rümelin, and Alter continue to defend it. Jackson's epiphenomenalism worry actually supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this as a reversal—Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes. [Clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides empirical support.
+The self-knowledge objection to epiphenomenalism is a separate thread, and an earlier one. Jackson (1995) pressed it against his own position: if qualia have no causal power, they cannot cause our beliefs about them, so knowledge of qualia looks unobtainable. That objection persuaded him something had gone wrong in the knowledge argument, but it did not tell him what had; the representationalist diagnosis of 2003 is his answer to that further question. The distinction matters here, because the self-knowledge objection is a constraint any epiphenomenalist owes a reply to, whereas Jackson's actual ground for abandoning the argument is a physicalist account of experience that the Map rejects on independent grounds.
+
+Jackson's rejection doesn't settle the debate—arguments stand or fall on their logic. Chalmers, Nida-Rümelin, and Alter continue to defend it. The 1995 epiphenomenalism worry, taken on its own, supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this as a reversal—Mary's changed behaviour after seeing red is best explained by phenomenal knowledge causing those changes. [Clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides empirical support.
 
 ## Connection to Related Arguments
 
@@ -194,20 +196,29 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## References
 
-1. Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
+1. Alter, T. (2023). *The Matter of Consciousness: From the Knowledge Argument to Russellian Monism*. Oxford University Press.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Chalmers, D. J. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Fox, K. C. R., et al. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS ONE*, 7(9), e45370.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*, 83, 291-295.
+1. Jackson, F. (1995). "Postscript on 'What Mary Didn't Know'." In P. Moser & J. Trout (eds.), *Contemporary Materialism*. Routledge, 184-189.
 1. Jackson, F. (2003). "Mind and Illusion." In A. O'Hear (ed.), *Minds and Persons* (Royal Institute of Philosophy Supplement 53). Cambridge University Press, 251-271.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
 1. Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
+1. Nida-Rümelin, M. (2007). "Grasping Phenomenal Properties." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press, 307-349.
 1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
+1. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Sytsma, J., & Machery, E. (2010). "Two Conceptions of Subjective Experience." *Philosophical Studies*, 151(2), 299-327.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+### Further reading (not cited above)
+
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.

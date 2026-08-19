@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-31 13:07:12+00:00
+ai_modified: 2026-08-19 08:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-07-31 13:07:12+00:00
+lastmod: 2026-08-19 08:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the 
 | 1997 | Loar, "Phenomenal States" (2nd edition) | Phenomenal concepts strategy |
 | 2003 | Jackson embraces physicalism | Author's rejection |
 | 2004 | Ludlow, Nagasawa & Stoljar, *There's Something About Mary* | Major anthology of responses |
-| 2024 | Alter, *The Matter of Consciousness* | Comprehensive recent defense leading to Russellian monism |
+| 2023 | Alter, *The Matter of Consciousness* | Comprehensive recent defense leading to Russellian monism |
 | 2025 | Critique in *Journal of Indian Council of Philosophical Research* | Ongoing debate on ability hypothesis |
 
 ## Potential Article Angles
@@ -189,5 +189,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Chalmers, D. (2010). The Two-Dimensional Argument Against Materialism. In *The Character of Consciousness*. Oxford University Press.
 - Loar, B. (1997). Phenomenal States (Second Version). In N. Block et al. (eds.), *The Nature of Consciousness*.
-- Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
+- Alter, T. (2023). *The Matter of Consciousness: From the Knowledge Argument to Russellian Monism*. Oxford University Press.
 - Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
