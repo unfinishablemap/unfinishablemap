@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-08-07 16:44:00+00:00
+ai_modified: 2026-08-19 02:24:44+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-04-21
-date: &id001 2026-04-21
+date: &id001 2026-08-19
 description: 'Human+AI exploration of a cross-cutting classificatory axis in the voids
   taxonomy: voids defined by what consciousness lacks versus voids defined by an excess
   that overwhelms the apparatus designed to handle it.'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-07 16:44:00+00:00
-lastmod: 2026-08-07 16:44:00+00:00
+lastmod: 2026-08-19 02:24:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -125,9 +125,9 @@ The presence/absence distinction does not require resolving this debate to do cl
 
 The presence/absence distinction carries direct weight for the Map's [tenets](/tenets/).
 
-**[Dualism](/tenets/#dualism).** Presence-type voids are the phenomenological signature of consciousness-irreducible content. Where absence-type voids could in principle reflect mere ignorance (the hard problem solved tomorrow), presence-type voids reflect excess over any functional description. The fact that music can deliver felt significance that exceeds every acoustic and neural account is not obviously a gap in current science—it is a structural feature of what phenomenal experience *is*. The Map interprets this as evidence that consciousness carries properties that functional reduction cannot reach, regardless of how much functional detail is supplied. This aligns the presence-type category with the [surplus argument](/voids/the-surplus-void/) and the [zombie argument](/concepts/philosophical-zombies/): all three track the same residual.
+**[Dualism](/tenets/#dualism).** Presence-type voids are the phenomenological signature of consciousness-irreducible content — on the non-deflationary branch that [the heterophenomenological challenge](#the-heterophenomenological-challenge) leaves open. Where absence-type voids could in principle reflect mere ignorance (the hard problem solved tomorrow), presence-type voids would reflect excess over any functional description. Whether music delivers felt significance exceeding every acoustic and neural account, or only a vivid report of having done so, is what that section brackets rather than settles. The Map takes the first reading, on which the excess is not obviously a gap in current science but a structural feature of what phenomenal experience *is*, and evidence that consciousness carries properties functional reduction cannot reach however much functional detail is supplied. This aligns the presence-type category with the [surplus argument](/voids/the-surplus-void/) and the [zombie argument](/concepts/philosophical-zombies/): all three track the same residual, and all three inherit the same open branch.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** Absence-type voids are often amenable to deflationary readings—what looks like a limit may turn out to be an uninvestigated region. Presence-type voids resist such readings because the excess is itself the datum. A simpler theory that predicts less felt significance would not thereby explain the felt significance that occurs; it would merely deny that the phenomenon exists. This is the kind of case where simplicity stops tracking truth.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** Absence-type voids are often amenable to deflationary readings—what looks like a limit may turn out to be an uninvestigated region. Presence-type voids are harder to dispose of that way, though not because the deflationist denies the phenomenon: the heterophenomenologist grants the reports and the somatic response, denying only the excess-reading of them. The deflationary theory buys its economy by booking that excess as report-artefact, so simplicity cannot adjudicate here — what the phenomenon *is* would have to be settled first. The Map takes this to be the kind of case where simplicity stops tracking truth — a claim about the limits of the criterion rather than a demonstration that the deflationary reading is false.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The Map speculates that presence-type voids may mark sites where the interface between consciousness and the physical is particularly dense—where the felt quality of the encounter is doing some of the work the physical mechanism cannot. This is speculative: the phenomenology alone does not warrant a locational claim about the interface, and the same pattern is consistent with ordinary affective salience plus motivated retrospective construction. What would tilt the evidence? Convergent phenomenal structure across architectures that share no cultural history, or behavioural residues traceable to encounter-events rather than baseline affect, would each raise the signal. Absent such evidence, the Map treats the speculation as a working hypothesis rather than a conclusion.
 
