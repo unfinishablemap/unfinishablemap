@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-19)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a88f5718651cf89d8.jsonl shows 40x claude-opus-5 message(s) alongside the primary model between 2026-08-19T20:44:29.536000+00:00 and 2026-08-19T20:53:34.999000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-19
-
 ### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve
 - **Status**: pending
@@ -2763,11 +2757,23 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review (reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md)
 - **Generated**: 2026-08-19
 
+### P2: `concepts/phenomenology-of-choice-and-volition` L119 asserts uncited "willed movements take ~300ms to initiate versus ~100ms for instructed movements" — pair verified ABSENT from Haggard 2008 full text and refuted as a motor-latency result
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+- **Status**: pending
+- **Notes**: String-sibling of the 2026-08-19 `topics/authentic-vs-inauthentic-choice` L140 fix (fix-by-file-leaves-string-siblings-live). Verification base (2026-08-19 refine session, do not re-verify from scratch): full raw text of Haggard 2008 (*Nat Rev Neurosci* 9(12), 934-946; complete 14-page PDF from the SFU course-site copy, pdftotext + grep on raw text, 11,472 words) contains NO ~300/~100 pair — "300" appears only in a reference page range, "100" only as a citation number, the review's sole ms figure is Libet's 206 ms W-judgement, and "latency" occurs zero times. The pair is the voluntary-vs-reflexive *attention* deployment contrast (Müller & Rabbitt 1989: ~300ms vs ~100–175ms) conflated with motor commitment ~280ms before movement onset (Thura & Cisek 2014) — see `concepts/motor-selection` L153 for the corrected corpus statement and the re-sourced Neural Correlates paragraph in `topics/authentic-vs-inauthentic-choice` for the model fix (commitment ~280ms pre-movement, Thura & Cisek 2014; willed/instructed contrast carried by Rajan et al. 2019's relative frontal theta increase from ~500ms post-cue — a relative increase, not a latency difference; Haggard 2008 retained only for near-verbatim "conscious intentions … during a brief window approximately 1 s before movement onset"). Here L119 asserts the false pair UNCITED as flat fact ("Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage"); only that sentence is defective — keep the paragraph's Desmurget dissociation and selection-interface point intact. Check References for Thura & Cisek / Rajan / Müller & Rabbitt before adding entries (sweep-verified tuples: Rajan et al. 2019, *Cerebral Cortex* 29(7), 2832-2843; Thura & Cisek 2014, *Neuron* 81(6), 1401-1416; Müller & Rabbitt 1989, *JEP:HPP* 15(2), 315-330). ⚠ COLLISION: an open P2 on this file targets L109's "direct evidence" overclaim (different axis, different lines) — edit narrowly, diff-check that axis untouched; if both tasks are picked in one session, do them together. ALSO: `archive/concepts/phenomenology-of-choice.md` (+ hugo mirror) carries the same string at its preserved URL (outer-reviewers-critique-archived-articles-at-live-urls; noindex-does-not-suppress-the-machine-metadata-surface) — flag whether archive copies get the fix rather than silently skipping. ATTRIBUTION: hold existing `ai_system`, append the executing model (plus-joined) since text changes; `ai_modified` from real `date -u`, not future-dated; `last_deep_review` untouched. MIRROR: sync both trees; afterwards `grep -rlF "~100ms for instructed movements" obsidian/ hugo/content/` should hit only workflow files (+ archive pair unless fixed).
+- **Source**: refine-draft (topics/authentic-vs-inauthentic-choice citation fix, 2026-08-19)
+- **Generated**: 2026-08-19
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-19: Verify ai_system attribution after model-fallback event (2026-08-19)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a88f5718651cf89d8.jsonl shows 40x claude-opus-5 message(s) alongside the primary model between 2026-08-19T20:44:29.536000+00:00 and 2026-08-19T20:53:34.999000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-08-19: `topics/motor-control-quantum-zeno` L68 attributes "~280-300ms ... versus ~100ms for automatic responses" to Thura & Cisek (2014) alone — the ~100ms figure is Müller & Rabbitt's reflexive-attention latency, and Thura & Cisek report no automatic-response contrast
 - **Type**: refine-draft

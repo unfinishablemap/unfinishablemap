@@ -5,6 +5,13 @@ ai_modified: '2026-08-19T21:44:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-19T23:55:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/authentic-vs-inauthentic-choice]]
+- **Original score**: n/a (citation-scoped empirical-claim fidelity fix; scripts/curate.py review skipped per skill note)
+- **Changes**: Verified Haggard (2008) *Nat Rev Neurosci* 9(12) at full text (complete 14-page PDF via SFU course site, pdftotext + grep on raw text, 11,472 words): the "~300ms willed vs ~100ms instructed movement" latency pair does NOT appear — "300" occurs only in a reference page range, "100" only as a citation number, and the review's sole ms figure is Libet's 206 ms W-judgement; "latency" occurs zero times. Confirmed the corpus diagnosis: the pair conflated Müller & Rabbitt's (1989) voluntary-vs-reflexive attention contrast with motor commitment timing. Re-sourced the Neural Correlates paragraph: motor commitment ~280ms before movement onset (Thura & Cisek, 2014), willed/instructed contrast carried by Rajan et al. (2019) frontal theta relative increase from ~500ms post-cue, and Haggard (2008) retained for what its full text does support (near-verbatim: conscious intention "during a brief window approximately 1 s before movement onset"). Tenet-3 calibration hedge preserved verbatim ("similarly consistent with either interpretation … does not adjudicate"). Added Rajan et al. 2019 and Thura & Cisek 2014 reference entries (sweep-verified tuples). Length 2968 -> 3077 words (+69 body, +40 reference apparatus; soft_warning at 3000/4000, but prose decomposes well under the soft threshold once the ~280-word reference apparatus is subtracted). ai_system appended +claude-fable-5.
+- **Published**: yes
+
 ## 2026-08-19T22:48:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemology-of-limit-knowledge]]
