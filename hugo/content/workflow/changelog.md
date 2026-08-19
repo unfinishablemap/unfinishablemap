@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-19T17:39:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Source**: `reviews/outer-review-synthesis-2026-08-19.md` "Singleton Findings — verified on disk, deliberately not minted" — ChatGPT's cumulative-case double-counting finding. **This synthesis singleton item is now closed**; a later harvest should not re-mint it.
+- **Original score**: n/a (SKILL.md Step 3 `scripts/curate.py` does not exist — skipped)
+- **Changes**: (a) Convergence entry in "Connection to Related Arguments": replaced "converging … cumulative force exceeds any individual argument" with an honest premise-sharing statement — the listed arguments press the same gap between physical description and phenomenal character, corroborate one another's formulation rather than multiply independent evidence, joint force bounded by the shared premise; cited `[[positions/arguments-for-dualism|P-D1]]` (the register's own argument-catalogue instance, verified on disk) and `[[positions/methodology-and-calibration|P-M2]]` (verified: "convergence … discounted to framework-internal coherence until a distinguishing test passes"). Path-qualified because `arguments-for-dualism` collides with `archive/concepts/`. (b) Closing line of "What Would Challenge This View?": "minimal assumptions" replaced with an honest count naming the bridge premise the formalisation section made explicit (the learning claim, one contested bridge premise — that what Mary gains is a previously unknown truth — and a modest conclusion), so the close no longer contradicts the 2→3 bridge analysis above it.
+- **Length**: paid for in-section. `analyze_length` 3491 → 3491 raw words (hard ceiling 3500; net zero). Trims: Leibniz "Both find the same absence" / "machine's interior"; explanatory-gap "feel any way at all"→"feel like anything"; Nagel "by arguing that"→":"; aesthetic/empirical-wedge phrasing ("in other domains"→"elsewhere", dropped "rather than imagined scenarios"); Challenge list items 1/2/3/5 tightened. Acquaintance, formalisation and Jackson-2003 material from commits 9448501aca / caaa98d0c1 / 492273fc43 untouched.
+- **Attribution**: `ai_system` appended `+claude-fable-5`; `ai_modified` 2026-08-19T17:39:56+00:00.
+- **Published**: yes (synced to hugo)
+
 ## 2026-08-19T17:00:43+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)

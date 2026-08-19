@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T09:38:06+00:00
+ai_modified: 2026-08-19T17:39:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T18:20:42+00:00
@@ -117,25 +117,25 @@ Jackson's rejection doesn't settle the debate—arguments stand or fall on their
 
 The knowledge argument shares deep structure with other anti-physicalist arguments:
 
-**[[leibnizs-mill-argument|Leibniz's Mill]]**: The oldest ancestor. Leibniz's mill-walker searches the machine's interior and finds no experience; Mary searches physical knowledge and finds no redness. The mill targets the ontological inventory; Mary's Room targets the epistemic inventory. Both find the same absence.
+**[[leibnizs-mill-argument|Leibniz's Mill]]**: The oldest ancestor. Leibniz's mill-walker searches the machine and finds no experience; Mary searches physical knowledge and finds no redness. The mill targets the ontological inventory; Mary's Room targets the epistemic inventory.
 
-**[[explanatory-gap|The Explanatory Gap]]**: Mary's Room dramatizes what Levine describes abstractly: physical explanations leave unexplained *why* brain states feel any way at all.
+**[[explanatory-gap|The Explanatory Gap]]**: Mary's Room dramatizes what Levine describes abstractly: physical explanations leave unexplained *why* brain states feel like anything.
 
 **[[philosophical-zombies|Conceivability Arguments]]**: Chalmers connects Mary's Room to zombie arguments through two-dimensional semantics. If phenomenal concepts have different "primary intensions" than physical concepts, zombies are genuinely conceivable.
 
-**Nagel's Bat**: Nagel (1974) anticipated Jackson by arguing that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room strengthens this by eliminating species differences.
+**Nagel's Bat**: Nagel (1974) anticipated Jackson: knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room strengthens this by eliminating species differences.
 
 **[[phenomenal-acquaintance|Acquaintance Knowledge]]**: What Mary gains is *acquaintance knowledge*—the strongest grade of [[indexical-knowledge-and-identity|indexical knowledge]], combining irreducibility of self-location with irreducibility of qualitative experience, and illuminating [[consciousness-only-territories|territories accessible only to conscious beings]]. The category is contested ground: Earl Conee presses it *in defence of* physicalism, reasoning that if Mary's gain is non-propositional acquaintance rather than a new truth, she learns no new fact. What the Map contests is not the category but the further claim that what acquaintance presents is physical.
 
 **[[objectivity-and-consciousness|The Objectivity Paradox]]**: Science aims for perspective-free description, but consciousness *is* perspective. Mary possessed the maximally objective description yet lacked the subjective reality it describes.
 
-**[[aesthetics-and-consciousness|The Aesthetic Extension]]**: A stronger variant—someone with complete physical knowledge of Bach's *Goldberg Variations* learns an integrated aesthetic fact upon hearing them that exceeds both physical and simpler phenomenal facts.
+**[[aesthetics-and-consciousness|The Aesthetic Extension]]**: A stronger variant—someone with complete physical knowledge of Bach's *Goldberg Variations* learns, on hearing them, an integrated aesthetic fact exceeding both physical and simpler phenomenal facts.
 
 **[[cognitive-phenomenology-and-the-irreducibility-of-thought|The Cognitive Extension]]**: If cognitive phenomenology is irreducible, the argument generalises to mathematical understanding: knowing every physical fact about proof-processing yet learning something new upon first *grasping* why a conclusion follows.
 
-**[[phenomenology-vs-function-axis|The Empirical Wedge]]**: Mary's Room is the most stringent thought-experiment version of a wedge that empirical work has driven in other domains. The phenomenology-vs-function axis catalogues clinical and experimental cases—aphantasic mental rotation strategies, synaesthetic extra qualia, Strawson's foreign-language understanding, Wegner's I-Spy authorship dissociation—where phenomenology and function come apart in actual subjects rather than imagined scenarios. Together with Mary, the cross-domain pattern constrains functionalism without refuting it and resists single-rejoinder dispatch: the multi-realizability move that absorbs imagery has to absorb the others by the same logic.
+**[[phenomenology-vs-function-axis|The Empirical Wedge]]**: Mary's Room is the most stringent thought-experiment version of a wedge empirical work has driven elsewhere. The phenomenology-vs-function axis catalogues clinical and experimental cases—aphantasic mental rotation strategies, synaesthetic extra qualia, Strawson's foreign-language understanding, Wegner's I-Spy authorship dissociation—where phenomenology and function come apart in actual subjects. Together with Mary, the cross-domain pattern constrains functionalism without refuting it and resists single-rejoinder dispatch: the multi-realizability move that absorbs imagery must absorb the others by the same logic.
 
-**Convergence**: The knowledge argument is one of several converging [[dualism|arguments for dualism]]—alongside the explanatory gap, conceivability, inverted qualia, modal arguments, and more. Their cumulative force exceeds any individual argument.
+**Convergence**: The knowledge argument is one of several [[dualism|arguments for dualism]]—explanatory gap, conceivability, inverted qualia, modal arguments—that press the same gap between physical description and phenomenal character. They corroborate one another's formulation rather than multiply independent evidence; their joint force is bounded by the shared premise ([[positions/arguments-for-dualism|P-D1]]; [[positions/methodology-and-calibration|P-M2]]).
 
 ## The Introspection Question
 
@@ -159,15 +159,15 @@ This resonates with the [[intrinsic-nature-void]] at the heart of physical scien
 
 ## What Would Challenge This View?
 
-The knowledge argument would be undermined if:
+The argument would be undermined if:
 
-1. **Mary predicts correctly**: Someone with only physical knowledge accurately describes what experiences are like before having them—predicting phenomenal character, not just behavior.
-2. **The phenomenal concepts strategy succeeds**: Phenomenal concepts are shown to be fully physical, making the gap merely conceptual. Current versions face Chalmers's dilemma.
-3. **Introspection proves unreliable for phenomenal content**: Mary's report is confabulation rather than genuine recognition. The best-documented introspective failures concern causal processes; whether they extend to phenomenal content is unsettled, and the Map's reliance on the distinction is provisional to that extent.
+1. **Mary predicts correctly**: Someone with only physical knowledge predicts phenomenal character, not merely behavior, before the experience.
+2. **The phenomenal concepts strategy succeeds**: Phenomenal concepts prove fully physical, making the gap merely conceptual. Current versions face Chalmers's dilemma.
+3. **Introspection proves unreliable for phenomenal content**: Mary's report is confabulation, not genuine recognition. The best-documented introspective failures concern causal processes; whether they extend to phenomenal content is unsettled, and the Map's reliance on the distinction is provisional to that extent.
 4. **Physical completeness is demonstrated**: A completed physics derives phenomenal properties as chemistry derives water's macroscopic properties. The explanatory gap shows no sign of closing.
-5. **Illusionism is vindicated**: We can explain why Mary *seems* to learn without invoking phenomenal properties. But the "illusion problem" appears as difficult as the hard problem.
+5. **Illusionism is vindicated**: We can explain why Mary *seems* to learn without phenomenal properties. But the "illusion problem" looks as hard as the hard problem.
 
-The argument's resilience comes from its simplicity: minimal assumptions and a modest conclusion.
+The argument's resilience comes from its economy: the learning claim, one contested bridge premise—that what Mary gains is a previously unknown truth—and a modest conclusion.
 
 ## Relation to The Unfinishable Map's Perspective
 
