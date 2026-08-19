@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-31 03:33:32+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-08-19 18:54:54+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5
 archive_reason: Coalesced into Decoherence and the Quantum Consciousness Objection
 archived: true
 archived_date: 2026-02-17 13:42:00+00:00
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-24 19:15:00+00:00
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-19 18:54:54+00:00
 modified: *id001
 original_path: /concepts/quantum-decoherence-objection/
 related_articles:
@@ -68,7 +68,7 @@ However, experimental work by Bandyopadhyay (2014) found that microtubules exhib
 The decoherence debate takes on new significance when considering empirical data on neural decision timing. Two independent lines of research converge on a ~280–300ms window:
 
 - **Motor commitment** (~280ms): Thura and Cisek (2014) found that premotor cortex populations commit to specific actions approximately 280ms before movement onset—the signature of volitional decision in neural recordings.
-- **Willed attention** (~300ms): Bengson (2019) showed that consciously directed attention deploys at ~300ms, marked by frontal theta oscillations distinct from instructed attention.
+- **Willed attention** (~300ms): voluntary attention deploys at ~300ms post-cue (the classic endogenous-orienting latency, Müller & Rabbitt 1989 — not a result of the theta study); Rajan et al. (2019, lead author Rajan not Bengson) found frontal theta power greater for willed than for instructed attention, beginning ~500ms post-cue.
 - **Point of no return** (~200ms): Schultze-Kraft (2016) established that actions become "ballistic" (no longer subject to conscious veto) approximately 200ms before execution.
 
 See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for detailed analysis of this timing hierarchy.
@@ -169,7 +169,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 
 ## References
 
-- Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
+- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 - Craddock, T.J.A., et al. (2017). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 17(13), 1586-1595.
 - Craddock, T.J.A., et al. (2024). Anesthetic binding to tubulin inhibits microtubule dynamics. *Journal of Biological Chemistry* (forthcoming).
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules? Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.

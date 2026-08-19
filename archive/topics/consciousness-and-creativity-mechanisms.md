@@ -4,7 +4,7 @@ description: "How consciousness contributes to creativity through quantum select
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-02-05
 last_curated: null
 archived: true
@@ -192,7 +192,7 @@ Current evidence doesn't support any of these conditions.
 
 ## References
 
-- Bengson, J.J. et al. (2019). Theta oscillations during the deployment of endogenous attention. *Cerebral Cortex*, 29(1), 126-142.
+- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
 - Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 - Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.

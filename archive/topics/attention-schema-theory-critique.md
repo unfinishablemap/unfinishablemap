@@ -4,7 +4,7 @@ description: "Graziano's AST explains reports about consciousness but not consci
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-08-03T14:59:05+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[attention-consciousness-mechanisms-2026-01-15]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-03-10T10:26:00+00:00
@@ -82,7 +82,7 @@ The Map's alternative: effort feels real because it *is* real work. On the [[att
 
 ## The Willed-Instructed Distinction
 
-Research distinguishes three modes of attention: exogenous (captured by salience), instructed (cued by external instruction), and willed (internally generated). The [[structure-of-attention|structure of attention]] article develops this fully. The critical finding: willed attention shows distinct neural signatures—frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment—absent in instructed attention.
+Research distinguishes three modes of attention: exogenous (captured by salience), instructed (cued by external instruction), and willed (internally generated). The [[structure-of-attention|structure of attention]] article develops this fully. The critical finding: willed attention shows distinct neural signatures—frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment—heightened relative to instructed attention.
 
 This distinction is puzzling for AST. If consciousness is merely the attention schema, and the attention schema tracks attention regardless of how it's initiated, why should willed and instructed attention differ neurally? Both involve attention; both should be schematized similarly.
 
@@ -209,4 +209,4 @@ Until these conditions are met, the Map maintains that AST explains reports abou
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 1. Webb, T.W. et al. (2021). The attention schema theory in a neural network agent. *PNAS*, 118(39).
-1. Bengson, J.J. et al. (2019). Theta oscillations during the deployment of endogenous attention. *Cerebral Cortex*, 29(1), 126-142.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.

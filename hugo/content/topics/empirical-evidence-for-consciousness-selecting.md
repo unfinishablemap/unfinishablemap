@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-07 13:05:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-08-07 13:05:00+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ Clinical and neurosurgical evidence appears to separate conscious selection from
 
 **OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 new), but its caudate finding has been replicated—it confirmed an earlier result and independent groups have since reported similar changes—and remains suggestive: whatever performs the reframing has physical consequences. The directed attention producing these changes has the phenomenology of effort—patients report the reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
-**Willed versus automatic attention.** Rajan et al. (2019) identified distinct neural signatures—frontal theta oscillations and bidirectional fronto-parietal coherence—present during willed attention but absent during instructed or automatic attention. These signatures appear about 300ms into the process, matching the motor commitment timescale (Thura & Cisek, 2014). Willed processing leaves a neural footprint that automatic processing does not.
+**Willed versus automatic attention.** Rajan et al. (2019) found frontal theta power and bidirectional fronto-parietal coherence greater during willed than during instructed attention—a relative increase rather than an all-or-none marker. The theta increase begins at about 500ms post-cue, later than the ~280ms motor commitment point (Thura & Cisek, 2014), and the two are measured on different clocks, so they do not establish a shared timescale; willed processing nonetheless carries a heavier neural footprint than instructed processing.
 
 The neurological line supports the following claims:
 

@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-08-02T17:55:13+00:00
+ai_modified: 2026-08-19T18:51:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T20:49:10+00:00
@@ -45,7 +45,7 @@ coalesced_from:
 
 The premotor theory of attention proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single quantum selection mechanism underlies both domains. The Unfinishable Map's framework unifies under one interface: consciousness selects among competing neural options through rapid observation, whether the selection concerns what to perceive or what to do.
 
-This unification has substantial empirical support. Willed movements engage frontal theta oscillations just as willed attention does. Voluntary action takes approximately 280ms to commit (matching willed attention's ~300ms deployment). Neural populations simultaneously encode multiple potential actions, competing until one reaches threshold. The challenge from Libet's experiments—that the brain "decides" before we're aware—has been substantially weakened by evidence that the readiness potential is noise rather than decision.
+This unification has substantial empirical support. Willed movements engage frontal theta oscillations just as willed attention does. Voluntary action commits roughly 280ms before movement, a timescale of the same order as voluntary attention's ~300ms deployment. Neural populations simultaneously encode multiple potential actions, competing until one reaches threshold. The challenge from Libet's experiments—that the brain "decides" before we're aware—has been substantially weakened by evidence that the readiness potential is noise rather than decision.
 
 ## The Premotor Theory of Attention
 
@@ -55,17 +55,15 @@ Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumpti
 
 Evidence: the same fronto-parietal networks activate during spatial attention shifts and motor preparation. Preparing an eye movement to location X improves visual processing at X—attention *is* the motor preparation. Microstimulation of motor regions enhances visual processing at the target location. Attempts to identify attention regions independent of motor planning consistently fail.
 
-If PMTA is correct, the distinction between "attending to X" and "preparing to orient toward X" is artificial. What feels like directing attention is actually preparing action.
-
 PMTA's proponents (Rizzolatti and colleagues) do not endorse dualist interpretations—the Map's extension is an application of their empirical findings, not a consequence they would accept.
 
 ### The Attention-Motor Parallel
 
-The [[attention-as-interface|attention as interface hypothesis]] proposes that consciousness operates through attention, using the quantum Zeno effect to hold desired neural patterns stable. Motor control shows the same structure: frontal theta oscillations, ~280-300ms deployment time, distinct willed vs instructed signatures, bidirectional frontoparietal coherence, and effortful phenomenology. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
+The [[attention-as-interface|attention as interface hypothesis]] proposes that consciousness operates through attention, using the quantum Zeno effect to hold desired neural patterns stable. Motor control shows the same structure: frontal theta oscillations, commitment and deployment on ~280–300ms timescales, distinct willed vs instructed signatures, bidirectional frontoparietal coherence, and effortful phenomenology. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
 
 ### From Attention-as-Interface to Action-as-Interface
 
-If attention is motor planning, the interface hypothesis becomes: consciousness influences the brain through action preparation. The interface isn't attention *as opposed to* action—the interface is the unified attention-action system. The prefrontal cortex, traditionally seen as housing "executive" functions, turns out to be fundamentally premotor—an action abstraction hierarchy from concrete motor commands to abstract goals (Fine & Hayden 2022).
+If attention is motor planning, the interface hypothesis becomes: consciousness influences the brain through action preparation—the interface is the unified attention-action system. The prefrontal cortex, traditionally seen as housing "executive" functions, turns out to be fundamentally premotor—an action abstraction hierarchy from concrete motor commands to abstract goals (Fine & Hayden 2022).
 
 ## Neural Competition and Selection
 
@@ -89,7 +87,7 @@ Either competition is deterministic (one option was always going to win) or it i
 
 ### The 280ms Commitment Point
 
-Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." This timing remarkably matches willed attention's ~300ms deployment (Rajan et al. 2019), supporting unified mechanism.
+Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." This is of the same order as the ~300ms that voluntary attention takes to deploy after a cue (Müller & Rabbitt 1989), but the two figures sit on different clocks—back from movement onset in monkeys, forward from cue onset in humans—and Rajan et al.'s (2019) marker of willed attention, the frontal theta increase, begins only at ~500ms post-cue. The overlap suggests a shared mechanism without establishing one.
 
 ### Basal Ganglia Brake-Release
 
@@ -101,7 +99,7 @@ The basal ganglia implement a brake-release model: tonic inhibition of motor pro
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
 
-This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised. External cues bypass the impaired selection mechanism.
+This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised.
 
 The capacity/initiation dissociation maps onto a three-layer model:
 1. **Neural computation** generates competing motor options (intact without dopamine)
@@ -134,8 +132,6 @@ Dopamine's threshold reduction is value-blind: it lowers how much evidence any o
 
 A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten the latency between motor intention and execution by shifting oscillatory dynamics from antikinetic beta rhythms (13-35 Hz) to prokinetic theta rhythms (4-10 Hz). Frontal theta oscillations mark both willed attention (Rajan et al. 2019) and motor preparation. Dopamine facilitates the theta state—the same timing substrate where both attentional and motor selection events occur.
 
-This architecture satisfies Minimal Quantum Interaction: consciousness doesn't inject energy—it biases which accumulating option wins the threshold race.
-
 ## The Libet Challenge—and Its Dissolution
 
 The [[libet-experiments|Libet experiments]] found that the readiness potential (RP) begins ~550ms before movement while conscious awareness occurs only ~200ms before—apparently showing the brain "decides" before we're aware.
@@ -152,9 +148,9 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [[structure-of-attention|voluntary attention]] (Rajan et al. 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+[[structure-of-attention|Willed attention]] shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Motor control shows the same pattern—willed action involves bidirectional information flow while instructed action is primarily feedforward.
 
-Both willed attention and willed motor action take ~280-300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
+Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); motor commitment falls ~280ms before movement. The Zeno framework reads a window of this order as the time consciousness needs to engage through repeated observation and stabilise the selected pattern—a reading the timing is consistent with rather than confirms (see above).
 
 ## Quantum Zeno Applied
 
@@ -162,7 +158,7 @@ Both willed attention and willed motor action take ~280-300ms to deploy—versus
 
 [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] proposes that mental attention operates like quantum observation—rapid, repeated "looks" at neural states hold desired patterns stable against their tendency to evolve into alternatives.
 
-If attention is motor planning (PMTA), then the Zeno mechanism applies directly to motor selection. Attending to an action plan holds it stable. The same rapid observation that sustains attention to a visual target sustains preparation for a reaching movement.
+If attention is motor planning (PMTA), then the Zeno mechanism applies directly to motor selection. The same rapid observation that sustains attention to a visual target sustains preparation for a reaching movement.
 
 The unified mechanism:
 
@@ -181,9 +177,9 @@ The [[decoherence]] addresses the standard challenge—rapid decoherence in warm
 
 The [[phenomenology-of-choice-and-volition|phenomenology of choice]] applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
 
-The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [[skill-delegation]]—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [[consciousness-and-skill-acquisition|skill acquisition arc]] charts this transition in detail across deliberate practice, flow, and skill restructuring.
+The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [[skill-delegation]]—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [[consciousness-and-skill-acquisition|skill acquisition arc]] charts this transition.
 
-Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. When preparing to move, you maintain an intention until the appropriate moment for execution. Holding the template against competing alternatives carries phenomenal cost, suggesting the phenomenology tracks something real about conscious contribution.
+Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. Holding the template against competing alternatives carries phenomenal cost, suggesting the phenomenology tracks something real about conscious contribution.
 
 ## The Illusionist Challenge
 
@@ -217,7 +213,7 @@ The "simpler" neural-determinism view cannot explain why the willed/instructed d
 
 ### An Honest Gap
 
-This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated. This honest limitation distinguishes the Map's position from eliminativism (which denies the problem) and facile solutions (which claim to solve what they merely relocate).
+This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated. This limitation distinguishes the Map's position from eliminativism, which denies the problem, and from solutions that relocate what they claim to solve.
 
 The confident selection language used throughout this article — consciousness "selects among competing actions," "biases which population reaches threshold," holds plans stable by Zeno freezing — inherits the Map's central *mechanism debt* and does not discharge it: there is no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (genuine selection that nonetheless preserves Born statistics exactly) sits close to epiphenomenalism until a positive account survives review. The full statement of that crux, which this article's claims about consciousness doing motor work depend on, is logged at [[positions/quantum-interface#^mechanism-debt|the quantum-interface register's mechanism-debt anchor]]. Read the selection claims at the confidence level the register sets there, not above it.
 
@@ -277,3 +273,5 @@ The confident selection language used throughout this article — consciousness 
 20. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 
 21. Palmiter, R.D. (2008). Dopamine signaling in the dorsal striatum is essential for motivated behaviors: Lessons from dopamine-deficient mice. *Annals of the New York Academy of Sciences*, 1129, 35-46.
+
+22. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.

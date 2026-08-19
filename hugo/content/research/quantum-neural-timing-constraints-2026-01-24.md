@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-31 03:33:32+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 concepts: []
 created: 2026-01-24
-date: '2026-07-31'
+date: '2026-08-19'
 draft: false
-lastmod: 2026-07-31 03:33:32+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 related_articles: []
 title: Research Notes - Quantum Neural Timing Constraints
 ---
@@ -194,7 +194,8 @@ This research investigates whether the ~280-300ms timing windows identified in m
 | Gamma oscillations | ~25 ms (40 Hz cycle) | Neural binding | Stapp correlate |
 | Point of no return | ~200 ms | Action becomes ballistic | Veto window ends |
 | Motor commitment | ~280 ms | Neural decision signature | Thura-Cisek finding |
-| Willed attention | ~300 ms | Conscious deployment | Rajan et al. 2019 |
+| Voluntary attention deployment | ~300 ms post-cue | Endogenous orienting latency (vs ~100–175 ms reflexive) | Müller & Rabbitt 1989 (classic cueing figure; NOT Rajan et al.) |
+| Willed-attention theta | ~500 ms post-cue | Frontal theta increase, willed relative to instructed | Rajan et al. 2019 |
 | Readiness potential | ~550 ms | Preceding voluntary action | Libet timing |
 
 ## Quantum Biology Lessons
@@ -217,9 +218,9 @@ Based on this research, an article could:
 
 1. **Focus on the timing hierarchy**: Present the multi-scale picture from femtoseconds to hundreds of milliseconds. Show how different mechanisms operate at different scales and what each requires. This would be a neutral presentation useful for understanding the landscape. Aligns with all tenets by providing accurate technical foundation.
 
-2. **Defend Stapp's mechanism against the decoherence objection**: Argue that quantum Zeno doesn't require continuous coherence—it operates through discrete observation events at neural (not quantum) timescales. The 280-300ms timing window is exactly right for attention/motor selection. This angle directly supports Minimal Quantum Interaction.
+2. **Defend Stapp's mechanism against the decoherence objection**: Argue that quantum Zeno doesn't require continuous coherence—it operates through discrete observation events at neural (not quantum) timescales. The ~280-300ms figures (motor commitment before movement; voluntary attention deployment after a cue — different clocks) are of the right order for attention/motor selection. This angle directly supports Minimal Quantum Interaction.
 
-3. **Synthesize the convergent timing evidence**: The 280ms motor commitment (Thura-Cisek), 300ms willed attention (Rajan et al. 2019), 200ms point of no return, and ~25ms gamma cycles all constrain any mechanism. A synthesis article would show how these constraints inform which quantum mechanisms remain viable. Aligns with empirical rigor.
+3. **Synthesize the convergent timing evidence**: The 280ms motor commitment (Thura-Cisek), ~300ms voluntary attention deployment (Müller & Rabbitt 1989 — Rajan et al. 2019's theta signature begins ~500ms post-cue, on a different clock), 200ms point of no return, and ~25ms gamma cycles all constrain any mechanism. A synthesis article would show how these constraints inform which quantum mechanisms remain viable. Aligns with empirical rigor.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -243,7 +244,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 3. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 
-3a. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. [Lead author is Rajan; Bengson is a middle author — do NOT cite as "Bengson" or invent "Mazaheri" as a co-author.]
+3a. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. [Lead author is Rajan; Bengson is a middle author — do NOT cite as "Bengson" or invent "Mazaheri" as a co-author.] [VERIFIED 2026-08-19 at Europe PMC REST (DOI 10.1093/cercor/bhy149), abstract verbatim: "we found increases in frontal theta power (starting at ~500 ms post cue) for willed attention relative to instructed attention. This frontal theta increase was accompanied by increased frontal-parietal theta-band coherence and bidirectional Granger causality." The paper reports NO ~300 ms deployment latency, and the signature is a RELATIVE increase, not a marker absent in instructed attention. Earlier versions of this note carried "~300 ms willed attention (Rajan et al. 2019)" and seeded that misreading into ~20 live/archive loci; corrected 2026-08-19. The ~300 ms endogenous-deployment figure belongs to the cueing literature — Müller & Rabbitt (1989), *JEP:HPP* 15(2), 315-330, DOI 10.1037/0096-1523.15.2.315, verified at the green-OA PDF: central-cue facilitation "requiring 300 ms to reach optimum" / second mechanism "within 275-400 ms after cue onset", peripheral-cue peak at 100-175 ms SOA.]
+
+3b. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330. [Added 2026-08-19 as the source of the ~300 ms endogenous-deployment figure; see 3a.]
 
 4. Stapp, H. P. (2008). A model of the quantum-classical and mind-brain connections, and of the role of the quantum Zeno effect in the physical implementation of conscious intent. *arXiv:0803.1633*.
 

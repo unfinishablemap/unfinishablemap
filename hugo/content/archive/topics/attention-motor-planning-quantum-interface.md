@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-07 07:55:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Attention as the Selection Interface
 archived: true
 archived_date: 2026-02-09 08:50:00+00:00
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 11:22:00+00:00
-lastmod: 2026-08-07 07:55:00+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 original_path: /topics/attention-motor-planning-quantum-interface/
 related_articles:
@@ -52,9 +52,9 @@ Three independent lines of evidence converge on a unified attention-motor substr
 
 **Shared neural circuits.** Rizzolatti's premotor theory of attention (PMTA) proposes that spatial attention and motor preparation activate the same fronto-parietal networks. Preparing an eye movement to a location improves visual processing there—on this account, attention *is* motor preparation. The strong form of PMTA remains debated, but the evidence for shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing the entire prefrontal cortex is fundamentally premotor: "executive function" is action planning at increasing levels of abstraction. The question "what should I think about?" is motor preparation at its most abstract.
 
-**Shared neural signatures.** Willed attention and willed motor action both produce frontal theta oscillations absent during automatic processing (Rajan et al. 2019). Both show bidirectional frontoparietal coherence—genuine deliberation rather than feedforward execution. Both recruit additional frontal resources beyond what instructed responses require. The same markers distinguish "you deciding" from "brain executing" in both domains.
+**Shared neural signatures.** Willed attention and willed motor action both show stronger frontal theta oscillations than automatic processing (Rajan et al. 2019, a relative increase rather than presence/absence). Both show bidirectional frontoparietal coherence—genuine deliberation rather than feedforward execution. Both recruit additional frontal resources beyond what instructed responses require. The same markers distinguish "you deciding" from "brain executing" in both domains.
 
-**Shared timing.** Motor commitment occurs approximately 280ms before movement (Thura & Cisek 2014). The earliest distinctive signature of willed attention—an ERP component marking voluntary selection—appears at approximately 250-350ms (Rajan et al. 2019), though the full deployment process extends over a longer window. If attention and motor selection were independent systems, the overlap of these early commitment signals would be coincidental. If they share a mechanism, the overlap is expected.
+**Shared timing.** Motor commitment occurs approximately 280ms before movement (Thura & Cisek 2014). The earliest distinctive signature of willed attention—an ERP component marking voluntary selection—appears at approximately 250-350ms (Rajan et al. 2019), though the full deployment process extends over a longer window. [Archive note: Rajan et al. (2019) report their frontal theta increase from ~500 ms post-cue; the ~250–350 ms ERP figure is not from that paper and is unverified here.] If attention and motor selection were independent systems, the overlap of these early commitment signals would be coincidental. If they share a mechanism, the overlap is expected.
 
 ## Why the Convergence Matters Philosophically
 

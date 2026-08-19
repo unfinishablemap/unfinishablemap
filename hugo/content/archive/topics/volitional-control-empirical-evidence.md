@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-08-07 07:55:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Volitional Control
 archived: true
 archived_date: 2026-03-24 14:14:00+00:00
@@ -26,7 +26,7 @@ description: Clinical dissociations, brain stimulation, intentional binding, and
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-07 07:55:00+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 original_path: /topics/volitional-control-empirical-evidence/
 related_articles:
@@ -98,7 +98,7 @@ Schwartz et al. (1996) demonstrated that OCD patients who learn to cognitively r
 
 The Schwartz finding has been replicated across therapeutic contexts. Paquette et al. (2003) showed that CBT for spider phobia produced changes in dorsolateral prefrontal cortex and parahippocampal gyrus activity. Goldapple et al. (2004) found that CBT for depression altered prefrontal and limbic metabolism in patterns distinct from pharmacological treatment — same symptom improvement, different neural signatures, suggesting the cognitive intervention operates through a different causal pathway than the drug.
 
-Rajan et al. (2019) identified neural signatures specific to willed attention. Frontal theta oscillations and bidirectional fronto-parietal coherence appear during effortful, self-directed attention but are absent during instructed or automatic attention. The distinction emerges approximately 300 milliseconds into the attentional process — willed processing leaves a neural fingerprint that automatic processing does not.
+Rajan et al. (2019) identified neural signatures that distinguish willed attention. Frontal theta oscillations and bidirectional fronto-parietal coherence are greater during effortful, self-directed attention than during instructed attention (a relative increase, not presence/absence). The theta increase emerges approximately 500 milliseconds post-cue (not ~300 ms, as this archived text originally stated) — willed processing leaves a heavier neural fingerprint than automatic processing.
 
 The neuroplasticity evidence does not prove that consciousness operates through non-physical mechanisms. A physicalist could argue that the felt effort is identical to the neural process that drives change. But the evidence does establish that the phenomenology of effort — the subjective sense of straining to direct attention — correlates with distinct neural effects that differ from those produced by automatic processing or pharmacological intervention. This is what [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/) predicts: conscious effort contributes something causally distinct from the unconscious baseline.
 

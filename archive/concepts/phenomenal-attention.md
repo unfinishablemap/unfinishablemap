@@ -4,7 +4,7 @@ description: "Phenomenal attention is the felt experience of attending—qualita
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-08-08T15:28:32+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[bandwidth-of-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-12
 last_curated:
 last_deep_review: 2026-03-16T05:47:00+00:00
@@ -96,7 +96,7 @@ Attention and consciousness [[attention-and-the-consciousness-interface|dissocia
 
 **Phenomenal attention without focused computational attention**: Peripheral awareness demonstrates consciousness of stimuli receiving minimal computational processing. Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display while reporting only 3-4—[[phenomenal-overflow|consciousness overflowing]] the computational bottleneck. You phenomenally attend to more than you computationally process.
 
-**Willed versus automatic computational attention**: The [[attention-as-interface|willed/instructed distinction]] provides neural evidence. Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment absent in instructed (externally cued) attention. Both are computational attention; only willed attention involves the full phenomenal engagement. The additional neural signatures mark where phenomenal attention contributes something beyond the computational process.
+**Willed versus automatic computational attention**: The [[attention-as-interface|willed/instructed distinction]] provides neural evidence. Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment heightened relative to instructed (externally cued) attention. Both are computational attention; only willed attention involves the full phenomenal engagement. The additional neural signatures mark where phenomenal attention contributes something beyond the computational process.
 
 ## Phenomenal Attention and Effort
 

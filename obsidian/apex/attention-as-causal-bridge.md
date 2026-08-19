@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-08-17T11:25:29+00:00
+ai_modified: 2026-08-19T18:51:54+00:00
 last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-14
 last_curated: null
 
@@ -73,7 +73,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 That frontal localisation is contested. Whether prefrontal activity tracks consciousness or only the machinery of reporting it remains open in the [[neural-correlates-of-consciousness|neural-correlates literature]], and these markers read equally as executive registration of a self-initiated selection rather than as a non-physical contributor entering.
 
-The willed mode is where the Map locates genuine conscious contribution. Its ~300ms timescale has been read as shared with motor selection, but the numbers are not yet commensurable: Thura and Cisek's (2014) ~280ms commitment point counts back from movement onset in monkeys choosing reaches, while ~300ms is a post-cue attentional deployment latency in humans. A common zero-point in one species would make the comparison testable. The architectural case stands regardless: [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory]] gives attending and preparing to act shared substrates, and Fine and Hayden (2022) call all prefrontal cortex premotor. One interface may serve thought and action alike, on the anatomy rather than the clock.
+The willed mode is where the Map locates genuine conscious contribution. Its ~300ms timescale has been read as shared with motor selection, but the numbers are not yet commensurable: Thura and Cisek's (2014) ~280ms commitment point counts back from movement onset in monkeys choosing reaches, while ~300ms is a post-cue deployment latency for voluntary attention in humans (Müller & Rabbitt 1989), and Rajan et al.'s theta marker itself begins only ~500ms post-cue. A common zero-point in one species would make the comparison testable. The architectural case stands regardless: [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory]] gives attending and preparing to act shared substrates, and Fine and Hayden (2022) call all prefrontal cortex premotor. One interface may serve thought and action alike, on the anatomy rather than the clock.
 
 ## Why Effort Matters
 
@@ -81,9 +81,9 @@ The [[mental-effort|felt cost of sustaining attention]] is among the strongest p
 
 Effort tracks difficulty. Maintaining focus on a boring task costs more than attending to something gripping. Kahneman's *Attention and Effort* (1973) confirms this with objective measures: pupil dilation and increased heart rate correlate with mental effort—the body responds as though real work is being done.
 
-For materialists, effort phenomenology poses a puzzle. If the brain is a deterministic system, why does sustaining attention *feel* like work? Why isn't the phenomenology flat—just processing happening, with no associated costliness? The illusionist answer—that the brain models its own processing as effortful—faces a regress: who experiences the model?
+For materialists, effort phenomenology poses a puzzle. If the brain is a deterministic system, why does sustaining attention *feel* like work? The illusionist answer—that the brain models its own processing as effortful—faces a regress: who experiences the model?
 
-One proposed mechanism is [[stapp-quantum-mind|Stapp's quantum Zeno effect]]: rapid, repeated acts of observation hold desired neural patterns stable against the brain's tendency toward decoherence into other states. This mechanism faces significant objections—particularly that neural decoherence timescales may be too fast for Zeno stabilisation to operate (see the source article on [[mental-effort|mental effort]] for full treatment). Other mechanisms remain possible. But the phenomenology of effort stands as data regardless of mechanism. Effort is real, measurable, and demands explanation.
+One proposed mechanism is [[stapp-quantum-mind|Stapp's quantum Zeno effect]]: rapid, repeated acts of observation hold desired neural patterns stable against the brain's tendency toward decoherence into other states. This mechanism faces significant objections—particularly that neural decoherence timescales may be too fast for Zeno stabilisation to operate (see the source article on [[mental-effort|mental effort]] for full treatment). Other mechanisms remain possible. But the phenomenology of effort stands as data regardless of mechanism.
 
 Neurosurgical evidence sharpens the point, though it needs careful handling. Sjöberg's 2024 essay in *Brain* reflects on his group's earlier surgical cohort: patients with the supplementary motor area resected retained the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Sjöberg is himself no dualist. He reads the cases as showing that Libet's paradigm is largely irrelevant to the free-will question, and the argument that follows is the Map's own, not his. If effort were merely what certain neural processes feel like, removing the execution machinery should have altered the phenomenology, and it did not; the cases remove a defeater rather than confirming that consciousness does the work. Two limits keep them there. Losing one motor structure while the effort phenomenology survives shows that structure is not *necessary* for the phenomenology, which leaves open that its substrate sits elsewhere in the brain rather than outside it. And a forward-model account predicts the same datum—command issued, execution blocked, large prediction error, registered as effort—which remains the standing physicalist reading of the cases. [[volitional-control|The phenomenology of volitional control]] treats the cohort in full, including the 2025 lesion work showing that SMA-complex resections impair executive function rather than execution alone.
 
@@ -194,6 +194,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Parr, T., Holmes, E., Friston, K.J., & Pezzulo, G. (2023). Cognitive effort and active inference. *Neuropsychologia*, 184, 108562. https://doi.org/10.1016/j.neuropsychologia.2023.108562
 1. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M.J.D. (2021). Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference. *Neuroscience of Consciousness*, 2021(1), niab018. https://doi.org/10.1093/nc/niab018
+1. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. https://doi.org/10.1093/cercor/bhy149

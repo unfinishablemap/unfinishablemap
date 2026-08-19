@@ -4,7 +4,7 @@ description: "Dopamine marks what is worth pursuing and sets action thresholds. 
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-08-08T19:31:46+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-26
 last_curated: null
 last_deep_review: 2026-01-26T12:27:42+00:00
@@ -191,7 +191,7 @@ Both dopamine restoration (via L-DOPA) and direct electrical stimulation produce
 
 ### Theta as Selection Substrate
 
-Frontal theta oscillations mark both willed attention (Bengson 2019) and motor preparation. Dopamine facilitates the theta state. This suggests:
+Frontal theta oscillations mark both willed attention (Rajan et al. 2019) and motor preparation. Dopamine facilitates the theta state. This suggests:
 
 1. Theta provides the timing substrate for selection events
 2. Dopamine promotes the neural conditions for theta
@@ -276,6 +276,6 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 
 5. Palmiter, R.D. (2008). Dopamine signaling in the dorsal striatum is essential for motivated behaviors: Lessons from dopamine-deficient mice. *Annals of the New York Academy of Sciences*, 1129, 35-46.
 
-6. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+6. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 7. Bhatiasevi, H.K., et al. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 10.3389/fncel.2025.1538500.

@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-06-05
 human_modified: null
-ai_modified: 2026-08-13T16:27:58+00:00
+ai_modified: 2026-08-19T18:51:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousn
 
 ## Neural Decision Windows
 
-Empirical data on neural decision timing converge on a ~280–300ms window: motor commitment at ~280ms (Thura & Cisek, 2014), willed attention deployment at ~300ms (Rajan et al., 2019), and actions becoming ballistic at ~200ms (Schultze-Kraft, 2016). See [[quantum-neural-timing-constraints]] for detailed analysis.
+Empirical neural decision timings cluster at a few hundred milliseconds, though on different clocks: motor commitment ~280ms before movement (Thura & Cisek, 2014), voluntary attention deployment ~300ms post-cue (Müller & Rabbitt, 1989), the frontal theta signature of willed attention from ~500ms post-cue (Rajan et al., 2019), and actions becoming ballistic ~200ms before movement (Schultze-Kraft, 2016)—figures of the same order rather than one shared window. See [[quantum-neural-timing-constraints]] for detailed analysis.
 
 Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. Can quantum effects bridge the gap between microsecond decoherence and hundreds-of-milliseconds decision windows?
 
@@ -232,6 +232,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly relevan
 1. Koch, C., & Hepp, K. (2006). Quantum mechanics in the brain. *Nature*, 440(7084), 611–612.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.

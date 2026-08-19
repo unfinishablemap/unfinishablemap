@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-07 14:46:30+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/voluntary-attention-control-mechanisms/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-08-07 14:46:30+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,9 +85,9 @@ You're at a noisy party. You decide to focus on your conversation partner's word
 | **Effort** | High |
 | **Control** | Fully voluntary |
 
-The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadra & Mangun 2023) identifies three neural signatures unique to willed attention:
+The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadra & Mangun 2023) identifies three neural signatures that distinguish willed attention:
 
-**Frontal theta oscillations**: frontal theta power (3–7 Hz) increases approximately 500ms after the moment of free choice—absent when the same attentional shift is externally instructed. Theta oscillations in this context index genuine decision-making: the brain doing something during willed attention that instruction-following bypasses.
+**Frontal theta oscillations**: frontal theta power (3–7 Hz) increases approximately 500ms after the moment of free choice—a relative increase over the same attentional shift externally instructed, not a marker present in one condition and missing in the other. Theta oscillations in this context index genuine decision-making: the brain doing something during willed attention that instruction-following bypasses.
 
 **Bidirectional frontoparietal coherence**: during instructed attention, information flows predominantly from frontal decision regions to parietal attention-control regions, a unidirectional command structure. During willed attention, Granger causality analysis reveals *bidirectional* theta-band coherence between the same regions. If consciousness merely triggered attention mechanisms, we would expect the one-way pattern: decision → implementation. The bidirectional flow suggests that willed attention is an ongoing dialogue between decision systems and attention-execution systems rather than a single command issued and abandoned.
 
@@ -250,7 +250,7 @@ The framework would be undermined if:
 
 ## Summary
 
-Attention divides into three architecturally distinct modes—exogenous, instructed, and willed—and only the third shows frontal theta, bidirectional frontoparietal coherence, and additional frontal recruitment, absent in instructed attention despite identical behavioural outcomes. The phenomenology tracks the neuroscience: willing feels like work in a way instruction-following does not. For the Map's framework, consciousness acts through willed attention specifically, and the ~300ms deployment window, the sustained character, and the identified gates—thalamic, salience-network, competitive—are the interface in action.
+Attention divides into three architecturally distinct modes—exogenous, instructed, and willed—and the third alone shows heightened frontal theta, bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention, despite identical behavioural outcomes. The phenomenology tracks the neuroscience: willing feels like work in a way instruction-following does not. For the Map's framework, consciousness acts through willed attention specifically, and the ~300ms deployment window, the sustained character, and the identified gates—thalamic, salience-network, competitive—are the interface in action.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "Willed attention shows unique neural signatures: frontal theta, bi
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-05T03:24:00+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 archived: true
 archived_date: 2026-02-12T21:34:00+00:00
@@ -39,7 +39,7 @@ related_articles:
   - "[[libet-experiments]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-01-29T16:49:00+00:00
@@ -80,7 +80,7 @@ The willed/instructed distinction is critical. When you follow instructions, the
 
 Three neural markers distinguish willed from instructed attention:
 
-**Frontal theta oscillations**: Willed attention decisions produce frontal theta oscillations (~500ms post-decision) that instructed attention does not (Bengson et al. 2019). Theta oscillations mark genuine decision—something beyond merely implementing an external instruction.
+**Frontal theta oscillations**: Willed attention decisions produce a frontal theta increase (~500ms post-cue) relative to instructed attention (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence). Theta oscillations mark genuine decision—something beyond merely implementing an external instruction.
 
 **Bidirectional frontoparietal coherence**: During willed attention, theta-band coherence between frontal and parietal regions is bidirectional. If consciousness merely triggered attention mechanisms, we'd expect unidirectional flow: decision → implementation. The bidirectional pattern suggests ongoing communication between decision and execution systems. This resembles [[motor-selection]], where willed movement shows the same pattern.
 
@@ -221,7 +221,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 ## References
 
-- Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - COGITATE Consortium (2025). Adversarial testing of theories of consciousness. *Nature Human Behaviour*.
 - Desmurget, M., Reilly, K.T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.

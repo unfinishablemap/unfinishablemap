@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-19 15:24:39+00:00
+ai_modified: 2026-08-19 18:51:54+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,13 +71,13 @@ This article deploys a substance-leaning reading of dualism, and the scope of th
 
 Most causal explanations appeal to events causing events—*transeunt causation* in Chisholm's term. Agent causation (*immanent causation*) differs: the agent, as a persisting substance, directly causes the action. When I decide to raise my hand, *I* caused the raising—the agent is ontologically prior to events, not a mere sum of them.
 
-Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. This "no choice about what traces back beyond us" intuition is what van Inwagen's [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) makes rigorous against the compatibilist. The [world-to-mind direction of fit](/concepts/direction-of-fit/) sharpens what agent causation must preserve here—an intention genuinely aims to make reality conform to its content, a literal directedness event-causal accounts render metaphorical. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. The Map registers this in its [positions register](/positions/agency-and-will/) as P-A2 (authorship requires agent causation, not merely event-causal indeterminism), downstream of P-A1 (the agent-causal libertarian commitment). Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#libertarian-replies-before-the-map).
+Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. This "no choice about what traces back beyond us" intuition is what van Inwagen's [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) makes rigorous against the compatibilist. The [world-to-mind direction of fit](/concepts/direction-of-fit/) sharpens what agent causation must preserve here—an intention genuinely aims to make reality conform to its content, a literal directedness event-causal accounts render metaphorical. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. The Map registers this in its [positions register](/positions/agency-and-will/) as P-A2 (authorship requires agent causation, not merely event-causal indeterminism), downstream of P-A1 (the agent-causal libertarian commitment). Kane's 2024 work now incorporates agent-causal elements. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#libertarian-replies-before-the-map).
 
 ## Substance Causation: The Metaphysical Foundation
 
 Agent causation rests on *substance causation*—the view that substances (persisting things with causal powers) are the fundamental causal agents, and events are what substances *do*, not independent causal relata. Developed most thoroughly by E.J. Lowe with roots in Aristotelian and Thomistic philosophy, substance causation reframes the mind-body problem. If all causation is fundamentally substance causation, then consciousness causing physical events is paradigmatic.
 
-The dominant contemporary view is *event causation*: events cause events according to laws. Substance causation inverts this: substances are the causal agents. When you act, *you* cause the action—not your desire causing your body to move. Lowe argued event causation reduces to substance causation ("A caused B" means "some substance exercised powers that brought about B") while the reverse reduction fails, since analysing "substance S exercised power P" presupposes S itself.
+The dominant contemporary view is *event causation*: events cause events according to laws. When you act, *you* cause the action—not your desire causing your body to move. Lowe argued event causation reduces to substance causation ("A caused B" means "some substance exercised powers that brought about B") while the reverse reduction fails, since analysing "substance S exercised power P" presupposes S itself.
 
 This matters for [mental causation](/concepts/mental-causation-and-downward-causation/). If event causation is fundamental, Kim's exclusion argument has force. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
 
@@ -109,7 +109,7 @@ The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters: 
 
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. This also addresses the [pairing problem](/concepts/pairing-problem/): if consciousness interfaces at specific quantum-sensitive neural structures, it is spatially located where those structures are.
 
-Why can't we observe this interface? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *predicted* by minimal quantum interaction.
+The [causal interface void](/voids/causal-interface/) explains why this interface cannot be observed: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *predicted* by minimal quantum interaction.
 
 The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception).
 
@@ -125,13 +125,13 @@ If agents cause actions, why don't they control every detail of skilled performa
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued) by distinct neural signatures: endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence (Rajan et al. 2019; Nadra & Mangun 2023). The [underlying mechanisms](/topics/structure-of-attention/)—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
+[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued): endogenous attention takes ~300ms to deploy versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989), and willed attention shows greater frontal theta and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023). The [underlying mechanisms](/topics/structure-of-attention/)—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
 
 Pre-prompt neural activity predicts free choices, paralleling the [Libet experiments](/concepts/libet-experiments/). The Map's resolution: prior activity establishes *options*; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience confirms this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
 
 ## Motor Selection: The Second Domain
 
-[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention: willed movement shows the same signature (~300ms timeline, frontal theta, bidirectional coherence, phenomenology of effort). This convergence across distinct domains answers the single-domain objection—if the signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
+[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention: willed movement shows a parallel signature (commitment ~280ms before movement, frontal theta, bidirectional coherence, phenomenology of effort). This convergence answers the single-domain objection: artefacts of attention-specific processing would not recur in motor control.
 
 The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [Phenomenology of Volitional Control](/topics/volitional-control/) for the full case). This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity.
 
@@ -146,12 +146,12 @@ Agent causation faces a structural limit any account of mental causation inherit
 The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
 
 - **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/)).
-- **Neural data on willed versus instructed action.** The shared ~300ms / frontal-theta / coherence signature appears identically across attention and motor domains, ruling out single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
+- **Neural data on willed versus instructed action.** Frontal-theta and coherence signatures, with latencies of the same order, recur across attention and motor domains, weighing against single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
 - **The [argument-from-reason](/topics/argument-from-reason/).** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)).
 - **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)).
 
-Each anchor stands or falls on its own merits; the convergence is what carries the case. If the selector model is wrong about the quantum interface, the philosophical case survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The framework is robust precisely because it does not concentrate the weight at any single load-bearing point—least of all at first-person introspection, where verification fails by structure.
+Each anchor stands or falls on its own merits; the convergence is what carries the case. If the selector model is wrong about the quantum interface, the philosophical case survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The framework is robust because it concentrates no weight at any single point—least of all first-person introspection, where verification fails by structure.
 
 The agency void is therefore a feature of the territory rather than something the framework dissolves. Genuine authorship is consistent with the impossibility of certifying it from inside: what looks like a weakness when one expects introspective proof is the structurally appropriate epistemic situation for any account of mental causation.
 
@@ -212,6 +212,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 1. Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
+1. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.

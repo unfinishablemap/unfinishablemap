@@ -4,7 +4,7 @@ description: "The unified neural substrate where attention and motor planning co
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-08-08T19:31:46+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 archived: true
 archived_date: 2026-02-12T21:34:00+00:00
@@ -29,7 +29,7 @@ related_articles:
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-01-29
 last_curated: null
 last_deep_review: 2026-01-29T15:54:19+00:00
@@ -75,7 +75,7 @@ This architecture provides a precise locus for quantum selection. During competi
 Two lines of research converge on a shared timing window:
 
 - **Motor commitment**: Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target peaks while the unselected target is suppressed—"volitional commitment to an action choice"
-- **Willed attention**: Bengson et al. (2019) found that willed attention takes ~300ms to deploy, accompanied by distinctive frontal theta oscillations
+- **Willed attention**: voluntary attention takes ~300ms to deploy after a cue (the classic endogenous-orienting latency from the cueing literature, Müller & Rabbitt 1989); Rajan et al. (2019 — lead author Rajan, miscited here earlier as "Bengson") found a frontal theta increase for willed relative to instructed attention beginning ~500ms post-cue, not a ~300ms deployment
 
 This timing match supports unified mechanism. If attention and motor selection were independent systems operating through different interfaces, why would they share the same timeline?
 
@@ -110,7 +110,7 @@ Three markers distinguish willed from automatic selection in both domains:
 
 | Signature | Attention Evidence | Motor Evidence |
 |-----------|-------------------|----------------|
-| **Frontal theta** | Willed attention produces theta oscillations absent in instructed attention (Bengson 2019) | Willed movement shows frontal theta increase before action |
+| **Frontal theta** | Willed attention shows greater frontal theta than instructed attention (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Willed movement shows frontal theta increase before action |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions is bidirectional during willed attention | Motor selection shows bidirectional information flow during genuine deliberation |
 | **Additional frontal recruitment** | Willed attention engages frontal regions beyond instructed attention | Voluntary action engages prefrontal regions that automatic responses bypass |
 
@@ -159,7 +159,7 @@ This framework identifies *where* consciousness might influence brain states—a
 
 ## References
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 

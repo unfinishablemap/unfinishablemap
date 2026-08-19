@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-18 21:17:37+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/attention/
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ The interface hypothesis rests on a further distinction: attention and conscious
 
 **Phenomenal attention without focused computational attention**: Ned Block's analysis of iconic memory showed subjects seeing all letters while reporting only 3-4—[consciousness overflowing](/concepts/phenomenal-overflow/) the computational bottleneck. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-**Willed versus automatic computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta, bidirectional frontoparietal coherence, and additional frontal recruitment absent in instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
+**Willed versus automatic computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—shows greater frontal theta, stronger bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
 
 If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
@@ -146,7 +146,7 @@ Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies 
 | **Instructed** | External cues | ~300ms | Low |
 | **Willed** | Internal decision | ~300ms | High |
 
-Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta oscillations (~500ms post-decision) absent in instructed attention; bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
+Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta power rising from ~500ms post-cue, greater than in instructed attention (a relative increase rather than an all-or-none marker); bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
 
 Bidirectional coherence and theta oscillations mark a qualitatively different process from instructed attention shifts to the same location, not merely a harder version. See [structure-of-attention](/topics/structure-of-attention/) for the full mechanistic analysis.
 

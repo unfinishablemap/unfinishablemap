@@ -4,7 +4,7 @@ description: "The neural architecture of willed attention—frontal theta, salie
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-08-07T05:42:00+00:00
+ai_modified: 2026-08-19T18:51:54+00:00
 last_deep_review: 2026-07-12T21:54:58+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-22
 last_curated:
 archived: true
@@ -45,7 +45,7 @@ A 2023 review in *Frontiers in Cognition* (Nadra & Mangun) identifies three mech
 
 When you freely choose where to attend—without instruction or external cue—additional frontal cortex regions engage beyond those active during cued attention. Dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC) show increased activation specifically for internally generated attentional decisions.
 
-The temporal signature is distinctive. Frontal theta oscillations (3–7 Hz) increase approximately 500ms after the moment of free choice, absent when the same attentional shift is externally instructed (Rajan et al. 2019). Theta oscillations in this context index genuine decision-making—the brain doing something during willed attention that instruction-following bypasses.
+The temporal signature is distinctive. Frontal theta oscillations (3–7 Hz) increase approximately 500ms after the moment of free choice, relative to the same attentional shift externally instructed (Rajan et al. 2019; a relative increase, not a marker present in one condition and missing in the other). Theta oscillations in this context index genuine decision-making—the brain doing something during willed attention that instruction-following bypasses.
 
 ### Network Reorganization
 
@@ -115,7 +115,7 @@ Within Wyart and Tallon-Baudry's experiment awareness and spatial attention modu
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The neural distinctiveness of willed attention—frontal theta absent in instructed attention, bidirectional coherence absent in cued attention, additional frontal recruitment—identifies what consciousness contributes. If willed and instructed attention produced identical neural signatures despite different phenomenology, the case for consciousness as a distinct contributor would weaken. The mechanistic differences support the claim that something beyond neural instruction-following occurs during genuine willing.
+**[[tenets#^dualism|Dualism]]**: The neural distinctiveness of willed attention—frontal theta and bidirectional coherence heightened relative to instructed attention, additional frontal recruitment—identifies what consciousness contributes. If willed and instructed attention produced identical neural signatures despite different phenomenology, the case for consciousness as a distinct contributor would weaken. The mechanistic differences support the claim that something beyond neural instruction-following occurs during genuine willing.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The mechanisms described here—thalamic gating, salience network switching, competitive selection among neural populations—all involve decision points where outcomes are not fully determined by prior physical states. These underdetermined junctures are candidate sites for the minimal quantum influence the Map proposes. Consciousness need not generate new signals; it need only bias which competing signals win at existing gates.
 

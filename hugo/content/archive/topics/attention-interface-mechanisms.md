@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-08 19:31:46+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Attention as the Selection Interface
 archived: true
 archived_date: 2026-02-09 08:50:00+00:00
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-06 12:07:00+00:00
-lastmod: 2026-08-08 19:31:46+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 original_path: /topics/attention-interface-mechanisms/
 related_articles:
@@ -92,7 +92,7 @@ The convergence manifests in three neural signatures that distinguish willed fro
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Present for willed attention, absent for instructed (Rajan et al. 2019) | Present for voluntary movement initiation |
+| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019; a relative increase, not presence/absence) | Present for voluntary movement initiation |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 
@@ -206,7 +206,7 @@ Different timescales interact at the interface:
 | 10⁻⁵–10⁻⁴ s | Revised decoherence estimates (Hameroff) | Potentially neurally relevant |
 | ~100 ms | Exogenous attention capture | Too transient for sustained influence? |
 | ~280 ms | Motor commitment point (Thura & Cisek) | Where deliberation resolves |
-| ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
+| ~300 ms | Voluntary attention deployment (the classic cueing-latency figure, not Rajan et al., whose theta signature begins ~500 ms post-cue) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
 The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/topics/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.

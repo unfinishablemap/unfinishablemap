@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-16 14:27:36+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:52:35+00:00
-lastmod: 2026-08-16 14:27:36+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 related_articles:
 - '[[quantum-neural-timing-constraints]]'
@@ -53,7 +53,7 @@ Two timescales must connect for quantum consciousness theories to work:
 
 **Quantum side.** Decoherence destroys superpositions through environmental interaction. In warm, wet biological tissue, thermal noise causes rapid decoherence. Tegmark modelled both regular neuron firing (involving ion channels) and microtubule polarisation excitations, finding decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for both—far shorter than any neural process.
 
-**Neural side.** Conscious decisions involve empirically established timing windows. Thura and Cisek (2014) found motor commitment signatures at approximately 280 milliseconds. Rajan et al. (2019) measured willed attention deployment at approximately 300 milliseconds. The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
+**Neural side.** Conscious decisions involve empirically established timing windows. Thura and Cisek (2014) found motor commitment signatures approximately 280 milliseconds before movement. Voluntary attention takes approximately 300 milliseconds to deploy after a cue (Müller & Rabbitt 1989), and the frontal theta signature of willed attention begins approximately 500 milliseconds post-cue (Rajan et al. 2019). The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
 
 The gap is not a matter of degree. Femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹². No known physical process bridges such a disparity through simple scaling.
 
@@ -117,6 +117,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant here: t
 1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 1. Libet, B. (1983). "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)." *Brain*, 106(3), 623-642.
+1. Müller, H.J., & Rabbitt, P.M.A. (1989). "Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption." *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Perry, A.L. (2025). "Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation." *SSRN* (preprint).
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). "Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention." *Cerebral Cortex*, 29(7), 2832-2843.
 1. Swift, M. W., Van de Walle, C. G., & Fisher, M.P.A. (2018). "Posner molecules: From atomic structure to nuclear spins." *Physical Chemistry Chemical Physics*, 20(18), 12373-12380.

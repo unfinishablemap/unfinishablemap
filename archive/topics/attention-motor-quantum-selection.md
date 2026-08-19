@@ -4,7 +4,7 @@ description: "Attention and motor control share neural substrates—suggesting c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-08-08T19:31:46+00:00
+ai_modified: 2026-08-19T18:54:54+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[motor-control-quantum-zeno-2026-01-18]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 ai_generated_date: 2026-02-01
 last_curated:
 archived: true
@@ -67,7 +67,7 @@ The convergence manifests in three neural signatures that distinguish willed fro
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Present for willed attention, absent for instructed (Bengson 2019) | Present for voluntary movement initiation |
+| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Present for voluntary movement initiation |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 
@@ -239,7 +239,7 @@ This honest gap distinguishes the Map's position from eliminativism (which denie
 
 ## References
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 

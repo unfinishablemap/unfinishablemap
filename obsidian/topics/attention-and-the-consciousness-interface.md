@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-08T19:31:46+00:00
+ai_modified: 2026-08-19T18:51:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[phenomenology-of-returning-attention]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-25T13:46:49+00:00
@@ -60,7 +60,7 @@ Attention and motor planning share neural substrates—directing attention *is* 
 
 Rizzolatti's premotor theory of attention (PMTA) holds that selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there; microstimulation of motor regions enhances processing at the target. Fine and Hayden (2022) extended PMTA, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor"—executive function is motor preparation at varying levels of abstraction.
 
-Three signatures appear to distinguish willed from automatic processing in both domains: frontal theta oscillations (present for willed, absent for instructed; Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and commitment timing that is close in magnitude but differently anchored (~300ms post-cue for willed attention in humans, ~280ms before movement onset in monkeys; Thura & Cisek 2014). If attention and motor selection were independent systems, this convergence would seem coincidental — though the convergence pattern is compatible with both shared-substrate readings and with independent systems that happen to share oscillatory signatures because both interface with the same downstream selection machinery.
+Three signatures appear to distinguish willed from automatic processing in both domains: frontal theta oscillations (greater for willed than instructed, from ~500ms post-cue; Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and commitment timing that is close in magnitude but differently anchored (~300ms post-cue deployment for voluntary attention in humans, Müller & Rabbitt 1989; ~280ms before movement onset in monkeys, Thura & Cisek 2014). If attention and motor selection were independent systems, this convergence would seem coincidental — though the pattern is also compatible with independent systems that share oscillatory signatures because both interface with the same downstream selection machinery.
 
 Traditional philosophy of mind treats perception and action as separate puzzles. If attention is motor planning at varying levels of abstraction — as the Rizzolatti–Fine–Hayden line suggests — then selecting what to perceive may already be selecting what to do, one interface rather than two. The identification is a live hypothesis that the empirical convergence motivates rather than settles; the data are compatible with weaker readings on which attention and motor selection are tightly coupled rather than identical.
 
@@ -250,3 +250,5 @@ The convergence argument identifies *where* consciousness might influence brain 
 28. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 
 29. Parr, T., Pezzulo, G., & Friston, K.J. (2022). *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior*. MIT Press.
+
+30. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.

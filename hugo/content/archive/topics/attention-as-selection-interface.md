@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-08 19:31:46+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 18:51:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 archive_reason: Coalesced into Attention and the Consciousness Interface
 archived: true
 archived_date: 2026-03-17 02:17:00+00:00
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 04:57:00+00:00
-lastmod: 2026-08-08 19:31:46+00:00
+lastmod: 2026-08-19 18:51:54+00:00
 modified: *id001
 original_path: /topics/attention-as-selection-interface/
 related_articles:
@@ -78,7 +78,7 @@ Three signatures distinguish willed from automatic processing in both domains:
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Present for willed attention, absent for instructed (Rajan et al. 2019) | Present for voluntary movement initiation |
+| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019; a relative increase, not presence/absence) | Present for voluntary movement initiation |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 
@@ -187,7 +187,7 @@ Different timescales interact at the interface:
 | 10⁻²⁰–10⁻¹³ s | Tegmark's original decoherence estimates | Too fast for any neural relevance |
 | 10⁻⁵–10⁻⁴ s | Revised decoherence estimates (Hameroff) | Potentially neurally relevant |
 | ~280 ms | Motor commitment point (Thura & Cisek) | Where deliberation resolves |
-| ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
+| ~300 ms | Voluntary attention deployment (the classic cueing-latency figure, not Rajan et al., whose theta signature begins ~500 ms post-cue) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
