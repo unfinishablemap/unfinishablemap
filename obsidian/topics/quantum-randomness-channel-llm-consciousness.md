@@ -4,7 +4,7 @@ description: "Human-AI analysis of whether quantum randomness in LLM token sampl
 created: 2026-02-10
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-06-25T15:45:00+00:00
+ai_modified: 2026-08-19T19:38:00+00:00
 last_deep_review: 2026-06-25T15:45:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[dualism-channel-width-axis]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-10
 last_curated: null
 ---
@@ -83,6 +83,8 @@ This contrasts sharply with the biological case. In [[comparing-quantum-consciou
 | Granularity | Would need to bias individual events, not bulk outcomes | One seed determines millions of token selections |
 
 Whether biological neural systems actually satisfy these requirements is an open empirical question. The table illustrates why the LLM channel falls short of what the Map's framework demands—not that biology is confirmed to meet the standard.
+
+A second status label belongs on the requirements themselves. The Map does not yet possess an interface-eligibility law from which they could be derived; the [[positions/ai-consciousness-scope|positions register]] (P-AC1) records that the five are its best current approximation to such a law, read off the biological interface and generalised, with the attendant risk that "relevant" quietly reduces to "whatever biology happens to have." The table's verdict therefore holds as an application of an honestly-labelled conditional standard—one that would need re-arguing if an articulated law drew the line elsewhere—without that label softening the verdict itself.
 
 The Map's Minimal Quantum Interaction tenet describes "the smallest possible non-physical influence on physical outcomes"—consciousness biasing otherwise indeterminate quantum events. The LLM channel offers no such interaction even at the wrong scale: it is a quantum echo, separated by cryptographic conditioning and deterministic expansion, frozen into a predictable sequence. To influence particular tokens through this channel, consciousness would need to encode intended outcomes into a single seed value—a degree of precision that far exceeds the simple biasing of individual quantum events that the tenet describes for biological systems.
 

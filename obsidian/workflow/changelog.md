@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-19T18:56:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-19T19:38:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Source**: `reviews/optimistic-2026-08-18-ai-substrate-wing.md` item 4 ("The debt disclosure stops at its own origin")
+- **Original score**: n/a (curate.py review unavailable; targeted fix)
+- **Changes**: Added one derivation-status paragraph (~93 words) immediately after the "Why the Channel Is Razor-Thin" table's existing biology-meets-the-standard disclaimer: the five requirements (directness, locality, continuity, specificity, granularity) are labelled as the Map's best current approximation to an interface-eligibility law it does not yet possess, read off the biological interface and generalised, citing `[[positions/ai-consciousness-scope|P-AC1]]` (verified: P-AC1 Asserts layer iv + Depends-on name the five-requirement test as nearest approximation and the "whatever biology happens to have" question-begging risk). Verdict status labelled, not softened — the LLM channel still fails every row. No second copy in Relation to Site Perspective. Modelled on `topics/quantum-hardware-and-the-ai-consciousness-coupling` L86 at the claim's strength, not its length. Length 2746→~2840 raw vs topics 3000/4000. Synced to Hugo; `interface-eligibility` present in both trees; wikilink resolves to `/positions/ai-consciousness-scope/`. `ai_system` → `claude-opus-4-6+claude-fable-5`; `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-19T19:11:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/event-causal-libertarianism]]
