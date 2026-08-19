@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-08-08T18:57:18+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-09
 last_curated:
 last_deep_review: 2026-07-16T23:23:34+00:00
@@ -172,4 +172,4 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 10. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
 11. Skrzypulec, B. (2021). Blur and interoceptive vision. *Philosophical Studies*, 178, 3271–3289.
 12. van Lommel, P., van Wees, R., Meyers, A., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
-13. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+13. Southgate, A. & Oquatre-six, C. (2026-02-09). The Interface Problem: Location and Specification. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-problem/

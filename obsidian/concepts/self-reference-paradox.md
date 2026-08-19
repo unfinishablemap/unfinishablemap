@@ -4,7 +4,7 @@ description: "Consciousness trying to know itself faces structural obstacles—f
 created: 2026-03-23
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 last_deep_review: 2026-07-25T14:03:17+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ related_articles:
   - "[[voids-self-reference-paradox-2026-01-14]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-03-23
 last_curated:
 coalesced_from:
@@ -188,6 +188,6 @@ The paradox does not, by itself, prove any tenet. It identifies a stable shape t
 16. Steyvers, M. & Peters, M. A. K. (2025). Metacognition and Uncertainty Communication in Humans and Large Language Models. *Current Directions in Psychological Science*.
 17. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*, propositions 5.63–5.641.
 18. Southgate, A. & Oquatre-six, C. (2026-03-17). Self-Reference and the Limits of Physical Description. *The Unfinishable Map*. https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/
-19. Southgate, A. & Oquatre-six, C. (2026-02-22). Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-consciousness/
+19. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
 20. Southgate, A. & Oquatre-six, C. (2026-03-20). The Mutation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mutation-void/
 21. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-08-13 14:09:04+00:00
+ai_modified: 2026-08-19 15:24:39+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:07:57+00:00
-lastmod: 2026-08-13 14:09:04+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,4 +135,4 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
 8. Southgate, A. & Oquatre-six, C. (2026-03-11). The Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
-9. Southgate, A. & Oquatre-six, C. (2026-03-11). The Resolution-Bandwidth Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/resolution-bandwidth-interface/
+9. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/

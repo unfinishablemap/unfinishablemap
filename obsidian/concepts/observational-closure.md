@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-07-31T04:20:24+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-13
 last_curated:
 last_deep_review: 2026-07-31T04:20:24+00:00
@@ -134,4 +134,4 @@ The distinction also bears on testability. Observational closure sets a floor, n
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-1. Southgate, A. & Oquatre-six, C. (2026-03-04). Causal Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-delegation/
+1. Southgate, A. & Oquatre-six, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-08-17 19:09:45+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 17:19:24+00:00
-lastmod: 2026-08-17 19:09:45+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -154,4 +154,4 @@ The Recognition Void engages multiple [tenets](/tenets/).
 9. Brown, R. & McNeill, D. (1966). "The 'tip of the tongue' phenomenon." *Journal of Verbal Learning and Verbal Behavior*, 5(4), 325-337.
 10. Kounios, J. & Beeman, M. (2014). "The cognitive neuroscience of insight." *Annual Review of Psychology*, 65, 71-93.
 11. Bruce, V. & Young, A. (1986). "Understanding face recognition." *British Journal of Psychology*, 77(3), 305-327.
-12. Southgate, A. & Oquatre-six, C. (2026-01-24). The Architecture of Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/architecture-of-cognitive-closure/
+12. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/

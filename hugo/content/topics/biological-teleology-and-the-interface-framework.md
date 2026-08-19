@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-07-28 14:16:47+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:43:48+00:00
-lastmod: 2026-07-28 14:16:47+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,4 +133,4 @@ The connection between biological teleology and the interface framework draws on
 4. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 5. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.
 6. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
-7. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
+7. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/

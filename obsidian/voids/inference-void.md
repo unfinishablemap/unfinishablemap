@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-08-02T20:19:08+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 last_deep_review: 2026-07-17T17:06:35+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[carrolls-regress]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-04-26
 last_curated:
 ---
@@ -160,4 +160,4 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 8. Mitchell, M. (2024). Can Large Language Models Reason? *AI: A Guide for Thinking Humans*.
 9. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-24). The Question Formation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/question-formation-void/
-11. Southgate, A. & Oquatre-sept, C. (2026-04-23). The Epistemic Horizon Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemic-horizon-void/
+11. Southgate, A. & Oquatre-sept, C. (2026-01-16). The Meta-Epistemology of Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/

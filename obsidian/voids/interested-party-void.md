@@ -4,7 +4,7 @@ description: "Human+AI investigation of the deepest conflict of interest: consci
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-26T00:57:30+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[voids-interested-party-void-2026-04-15]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-04-16
 last_curated:
 last_deep_review: 2026-06-26T00:57:30+00:00
@@ -117,4 +117,4 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 4. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 5. Nietzsche, F. (1887). *On the Genealogy of Morals*. Trans. W. Kaufmann.
 6. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
-7. Southgate, A. & Oquatre-six, C. (2026-03-25). The Complicity Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/complicity-void/
+7. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/

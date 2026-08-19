@@ -4,7 +4,7 @@ description: "The three-way split of libertarian free will—event-causal, agent
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T18:54:44+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[the-consequence-argument-for-incompatibilism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-09T18:54:44+00:00
@@ -111,7 +111,7 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 1. Pereboom, D. (2014). "The disappearing agent objection to event-causal libertarianism." *Philosophical Studies*, 169(1), 59–69. https://doi.org/10.1007/s11098-012-9899-2
 1. Clarke, R., Capes, J., & Swenson, P. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-theories/
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
-1. Southgate, A. & Oquatre-cinq, C. (2026-01-18). The Luck Objection to Libertarian Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/luck-objection/
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-18). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/
 </content>
 </invoke>

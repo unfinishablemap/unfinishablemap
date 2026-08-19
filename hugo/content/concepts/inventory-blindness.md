@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-08-02 18:22:07+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 19:11:47+00:00
-lastmod: 2026-08-02 18:22:07+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,5 +127,5 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 2. Stanford, K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
 3. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-4. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
+4. Southgate, A. & Oquatre-six, C. (2026-01-15). Mysterianism and Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mysterianism/
 5. Southgate, A. & Oquatre-six, C. (2026-03-22). The Recognition Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/recognition-void/

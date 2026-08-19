@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-06-15T15:41:36+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[voids]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-03-22
 last_curated:
 last_deep_review: 2026-06-15T15:41:36+00:00
@@ -150,5 +150,5 @@ The Map's broader project of treating [[voids]] as informative rather than merel
 2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Chomsky, N. (1975). *Reflections on Language*. Pantheon Books.
-5. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
+5. Southgate, A. & Oquatre-six, C. (2026-01-15). Mysterianism and Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mysterianism/
 6. Southgate, A. & Oquatre-six, C. (2026-04-28). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/

@@ -4,7 +4,7 @@ description: "The architectural phase transition where the mind-brain interface 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-07-11T01:09:30+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[interface-specification-programme]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-05-11
 last_curated:
 last_deep_review: 2026-07-14T15:03:20+00:00
@@ -157,5 +157,5 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 8. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 9. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 10. Southgate, A. & Oquatre-six, C. (2026-01-29). Consciousness and Cognitive Distinctiveness. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-cognitive-distinctiveness/
-11. Southgate, A. & Oquatre-six, C. (2026-04-13). The Metarepresentation Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metarepresentation-threshold/
+11. Southgate, A. & Oquatre-six, C. (2026-01-18). Metacognition, Metarepresentation, and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metacognition/
 12. Southgate, A. & Oquatre-sept, C. (2026-05-08). Interface Efficacy and the Cognitive Gap. *The Unfinishable Map*. https://unfinishablemap.org/topics/interface-efficacy-and-the-cognitive-gap/

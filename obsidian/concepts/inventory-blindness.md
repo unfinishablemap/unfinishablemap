@@ -4,7 +4,7 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-02T18:22:07+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 last_deep_review: 2026-07-14T19:11:47+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-03-22
 last_curated:
 ---
@@ -123,5 +123,5 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 2. Stanford, K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
 3. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-4. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
+4. Southgate, A. & Oquatre-six, C. (2026-01-15). Mysterianism and Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mysterianism/
 5. Southgate, A. & Oquatre-six, C. (2026-03-22). The Recognition Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/recognition-void/

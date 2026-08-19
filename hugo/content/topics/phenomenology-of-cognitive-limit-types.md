@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-26 22:47:38+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 09:12:29+00:00
-lastmod: 2026-06-26 22:47:38+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -155,5 +155,5 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 5. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 6. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*, 32(5), 402-409.
 7. Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. Routledge & Kegan Paul.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-19). The Phenomenology of the Edge. *The Unfinishable Map*. https://unfinishablemap.org/voids/phenomenology-of-the-edge/
+8. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Edge-States and the Probing of Voids. *The Unfinishable Map*. https://unfinishablemap.org/voids/edge-states-and-void-probes/
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Compound Failure Signatures. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-failure-signatures/

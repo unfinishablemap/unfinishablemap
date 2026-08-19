@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[cross-cultural-convergence-on-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-25T23:17:41+00:00
@@ -218,4 +218,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 1. Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/

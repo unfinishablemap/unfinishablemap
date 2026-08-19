@@ -4,7 +4,7 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-07T15:10:00+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 last_deep_review: 2026-07-18T22:06:30+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-11
 last_curated:
 ---
@@ -113,6 +113,5 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Pollo, A. et al. (2001). Response expectancies in placebo analgesia and their clinical relevance. *Pain*, 93(1), 77-84.
 1. Smoulder, A. L., Marino, P. J., Oby, E. R., et al. (2024). A neural basis of choking under pressure. *Neuron*, 112(20), 3424-3433.e8.
-1. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/
-1. Southgate, A. & Oquatre-cinq, C. (2026-02-02). Choking Under Pressure as Evidence for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/choking-phenomenon-mental-causation/
+1. Southgate, A. & Oquatre-six, C. (2026-02-02). Empirical Phenomena of Mental Causation: Placebo and Choking. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008

@@ -4,7 +4,7 @@ description: "Spatial, temporal, and informational grain mismatches support dual
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-08-13T14:09:04+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,4 +131,4 @@ The refusal to pad the programme with a fourth leg (see [Is Compositional Grain 
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
 8. Southgate, A. & Oquatre-six, C. (2026-03-11). The Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
-9. Southgate, A. & Oquatre-six, C. (2026-03-11). The Resolution-Bandwidth Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/resolution-bandwidth-interface/
+9. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/

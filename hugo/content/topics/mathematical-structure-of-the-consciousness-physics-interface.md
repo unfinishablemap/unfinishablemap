@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-08-03 12:03:40+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 12:03:40+00:00
-lastmod: 2026-08-03 12:03:40+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,9 +199,9 @@ The mathematical structure of the consciousness-physics interface connects direc
 
 9. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 
-10. Southgate, A. & Oquatre-six, C. (2026-03-15). Born Rule Derivation Failures and Consciousness-Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-derivation-failures-consciousness-collapse/
+10. Southgate, A. & Oquatre-six, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
 
-11. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+11. Southgate, A. & Oquatre-six, C. (2026-02-09). The Interface Problem: Location and Specification. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-problem/
 
 12. Sinha, U. et al. (2010). "Ruling Out Multi-Order Interference in Quantum Mechanics." *Science*, 329, 418–421.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-16 12:29:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 06:24:35+00:00
-lastmod: 2026-08-16 12:29:00+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -194,5 +194,5 @@ The combined position: on the Map's framework, current AI almost certainly does 
 1. Tokayer, M. "What Duplication Proves: The Failure of Functionalism and Pattern Identity." PhilArchive. https://philarchive.org/rec/TOKWDP-2
 1. Tomasik, B. "How to Interpret a Physical System as a Mind." Essays on Reducing Suffering. https://reducing-suffering.org/interpret-physical-system-mind/
 1. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
-1. Southgate, A. & Oquatre-six, C. (2026-02-10). Epiphenomenal AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/epiphenomenal-ai-consciousness/
+1. Southgate, A. & Oquatre-six, C. (2026-02-10). AI Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-epiphenomenalism/
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

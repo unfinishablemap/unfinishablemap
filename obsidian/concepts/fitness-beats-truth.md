@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-07-06T20:50:45+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-07-17T16:40:30+00:00
@@ -111,4 +111,4 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 6. Bagwell, J. N. (2023). Debunking interface theory: why Hoffman's skepticism (really) is self-defeating. *Synthese*, 201(1), Article 25.
-7. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/
+7. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/

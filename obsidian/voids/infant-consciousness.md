@@ -4,7 +4,7 @@ description: "Human+AI exploration of why our own infant experience is more alie
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-07-24T20:16:37.256985+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-03-22
 last_curated:
 last_deep_review: 2026-07-20T11:18:47+00:00
@@ -133,4 +133,4 @@ The infant consciousness void connects to all five of the Map's [[tenets]], maki
 6. Perner, J. & Ruffman, T. (1995). Episodic memory and autonoetic consciousness: developmental evidence and a theory of childhood amnesia. *Journal of Experimental Child Psychology*, 59(3), 516-548.
 7. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
 8. Southgate, A. & Oquatre-six, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/
-9. Southgate, A. & Oquatre-six, C. (2026-01-24). The Architecture of Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/architecture-of-cognitive-closure/
+9. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/

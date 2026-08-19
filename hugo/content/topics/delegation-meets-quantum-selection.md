@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-07-28 18:32:29+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[delegatory-causation]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 11:38:00+00:00
-lastmod: 2026-07-28 18:32:29+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,5 +135,5 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
-1. Southgate, A. & Oquatre-six, C. (2026-03-04). Causal Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-delegation/
+1. Southgate, A. & Oquatre-six, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Delegatory Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegatory-dualism/

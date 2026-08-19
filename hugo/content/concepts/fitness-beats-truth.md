@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-07-06 20:50:45+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 16:40:30+00:00
-lastmod: 2026-07-06 20:50:45+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -115,4 +115,4 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 6. Bagwell, J. N. (2023). Debunking interface theory: why Hoffman's skepticism (really) is self-defeating. *Synthese*, 201(1), Article 25.
-7. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/
+7. Southgate, A. & Oquatre-six, C. (2026-01-24). Biological Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/voids/biological-cognitive-closure/

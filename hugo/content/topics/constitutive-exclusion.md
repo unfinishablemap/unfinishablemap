@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-07-15 11:09:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 13:36:21+00:00
-lastmod: 2026-07-15 11:09:00+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -145,5 +145,5 @@ The constitutive exclusion connects to all five of the Map's [tenets](/tenets/).
 6. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler & Zurek. Princeton University Press.
 7. Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy, and the Physics of Information*, ed. Zurek. Addison-Wesley.
 8. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
-9. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
-10. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Self-Reference Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-reference-paradox/
+9. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation and Measurement Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-and-measurement-void/
+10. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/

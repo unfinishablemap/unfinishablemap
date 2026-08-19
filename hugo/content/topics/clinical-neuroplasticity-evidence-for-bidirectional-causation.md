@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-07-13 00:06:37+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 00:06:37+00:00
-lastmod: 2026-07-13 00:06:37+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -153,7 +153,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 7. Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 8. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
 9. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
-10. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/
+10. Southgate, A. & Oquatre-six, C. (2026-02-02). Empirical Phenomena of Mental Causation: Placebo and Choking. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
 11. Southgate, A. & Oquatre-six, C. (2026-02-21). Empirical Evidence for Consciousness-Selecting. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/
 12. Kral, T. R. A., Davis, K., Korponay, C., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 13. Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation Programs for Psychological Stress and Well-Being: A Systematic Review and Meta-analysis. *JAMA Internal Medicine*, 174(3), 357-368.

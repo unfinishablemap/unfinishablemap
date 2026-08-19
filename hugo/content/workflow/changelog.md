@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T14:59:00+00:00'
+ai_modified: '2026-08-19T15:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 14:59:00+00:00
+lastmod: 2026-08-19 15:26:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19T15:26:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [event-causal-libertarianism](/topics/event-causal-libertarianism/) + 23 sibling files (24 files, 27 loci)
+- **Original score**: n/a (multi-file bibliographic repair; `scripts/curate.py review` does not exist)
+- **Changes**: Closed Issue 8 of `reviews/pessimistic-2026-08-18-quantum-indeterminacy-free-will.md` corpus-wide: every `Southgate, A. & Oquatre-*, C.` reference entry whose URL resolved to an archived article (full superseded text served at a preserved URL; machine-meta has no `archived` check) now cites the live successor named in the archive file's `superseded_by:`, with the entry's title and date replaced by the successor's `title:`/`created:` (pseudonymous co-author preserved). Re-derived the population with the driver census script rather than trusting line numbers: 27 loci in obsidian, 27 in hugo/content before; **0 / 0 after**. Repoints: attention-as-selection-interface→attention-and-the-consciousness-interface; fragmented-consciousness→split-brain-consciousness; placebo-effect-and-mental-causation→empirical-phenomena-mental-causation (×2 files); choking-phenomenon-mental-causation→empirical-phenomena-mental-causation (merged with the placebo entry in `concepts/content-specificity-of-mental-causation` — one entry, not two; auto-numbered list so no renumbering); observation-void→observation-and-measurement-void; self-reference-paradox (void)→self-opacity (**two-hop chain**: `superseded_by` pointed at `voids/unobservable-self`, itself archived 2026-03-25 and superseded by `/voids/self-opacity/`, so the citation goes to the live terminus; body already wikilinks `[[self-opacity|self-reference paradox]]`); causal-delegation→delegatory-causation (×3 files); epiphenomenal-ai-consciousness→concepts/ai-epiphenomenalism (section change); luck-objection→quantum-indeterminacy-free-will; resolution-bandwidth-interface→bandwidth-of-consciousness; born-rule-derivation-failures-consciousness-collapse→born-rule-and-the-consciousness-interface; the-interface-specification-problem→the-interface-problem (×2 files); phenomenology-of-the-edge→edge-states-and-void-probes; mental-causation→mental-causation-and-downward-causation; cognitive-closure→mysterianism (×2); evolved-cognitive-limits→biological-cognitive-closure; architecture-of-cognitive-closure→biological-cognitive-closure (×2); self-consciousness→self-and-self-consciousness; metarepresentation-threshold→metacognition; complicity-void→self-maintained-cognitive-limits; epistemic-horizon-void→meta-epistemology-of-limits. Claim-survival check (rule 2): no file cites these entries by `[N]` in the body — they are bibliography-only — and every citing body already carries a wikilink to the successor (interface-threshold via the anchored `[[metacognition#the-metarepresentation-threshold|…]]`), so the repoint aligns the bibliography with what the prose already points at; successor key-term greps all positive (luck ×24 in quantum-indeterminacy-free-will, self-reference ×12 in self-opacity, complicit ×11 in self-maintained-cognitive-limits, metarepresentation ×44 in metacognition, etc.). No `(archived; superseded by …)` fallbacks were needed. No duplicate successor URLs remain in any edited file (checked). No wikilinks to archived slugs existed in these files; none added. No prose added; net length -1 line corpus-wide. `last_deep_review` untouched everywhere. `ai_modified` 2026-08-19T15:24:39+00:00 and `+claude-fable-5` on all 24 files (grain-mismatch-as-independent-evidence already carried it). Synced; hugo/content mirrors (census 0). Loci left: none.
+- **Published**: yes
 
 ## 2026-08-19T14:59:00+00:00 - refine-draft
 - **Status**: Success

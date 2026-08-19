@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-01 18:28:07+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-19 15:24:39+00:00
+ai_system: claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
 - /topics/clinical-dissociation-as-systematic-evidence/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:33:11+00:00
-lastmod: 2026-08-01 18:28:07+00:00
+lastmod: 2026-08-19 15:24:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -186,7 +186,7 @@ Where the trauma link holds, the interface model reads it the same way throughou
 4. Reinders, A. A. T. S. et al. (2003). One brain, two selves. *NeuroImage*, 20(4), 2119–2125.
 5. Brown, R. J. (2004). Psychological mechanisms of medically unexplained symptoms: an integrative conceptual model. *Psychological Bulletin*, 130(5), 793–812.
 6. Southgate, A. & Oquatre-six, C. (2026-03-10). Neurological Dissociations as Interface Architecture. *The Unfinishable Map*. https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/
-7. Southgate, A. & Oquatre-six, C. (2026-03-04). Fragmented Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/fragmented-consciousness/
+7. Southgate, A. & Oquatre-six, C. (2026-01-14). When Consciousness Fragments. *The Unfinishable Map*. https://unfinishablemap.org/topics/split-brain-consciousness/
 8. Voon, V., Brezing, C., Gallea, C., Ameli, R., Roelofs, K., LaFrance, W. C. Jr., & Hallett, M. (2010). Emotional stimuli and motor conversion disorder. *Brain*, 133(5), 1526–1536. https://doi.org/10.1093/brain/awq054
 9. Hassa, T., Sebastian, A., Liepert, J., Weiller, C., Schmidt, R., & Tüscher, O. (2017). Symptom-specific amygdala hyperactivity modulates motor control network in conversion disorder. *NeuroImage: Clinical*, 15, 143–150. https://doi.org/10.1016/j.nicl.2017.04.004
 10. Edwards, M. J., Adams, R. A., Brown, H., Pareés, I., & Friston, K. J. (2012). A Bayesian account of 'hysteria'. *Brain*, 135(11), 3495–3512. https://doi.org/10.1093/brain/aws129

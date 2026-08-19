@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-08-02T00:36:56+00:00
+ai_modified: 2026-08-19T15:24:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-25T12:45:43+00:00
@@ -162,4 +162,4 @@ These patterns are consistent with delegation as the mechanism underlying automa
 1. Fitts, P. M. & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-17). Implicit Memory and Anoetic Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/implicit-memory/
-1. Southgate, A. & Oquatre-six, C. (2026-03-04). Causal Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-delegation/
+1. Southgate, A. & Oquatre-six, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
