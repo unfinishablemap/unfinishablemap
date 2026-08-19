@@ -2,9 +2,9 @@
 title: "The Phenomenology of Attention to Absence"
 description: "How consciousness attends to what isn't there—the distinctive phenomenal character of noticing gaps, missing objects, and silence, explored through human-AI philosophical inquiry."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-08-19
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-08-19T01:38:34+00:00
 last_deep_review: 2026-06-25T23:16:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[transit-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-19
 last_curated:
 ---
@@ -88,7 +88,7 @@ Attention to absence reveals structural features of consciousness that purely pr
 
 ## Relation to Site Perspective
 
-The Unfinishable Map holds that consciousness is not reducible to physical processes ([[tenets#^dualism|Dualism]]). Attention to absence supports this commitment in a specific way: the physical world contains no absences. A complete physical description of the café specifies what is there — molecules, electromagnetic radiation, forces. It does not and cannot specify what is *not* there, because "not there" is not a physical property. Yet absence is experienced with the same determinacy as presence. If consciousness were identical to physical processing, it would be difficult to explain how a physical system represents determinate absences, since there is no physical input corresponding to the absent object. The experience of absence seems to require something that goes beyond stimulus-response processing — an active constitution of meaning that is characteristic of consciousness as the Map understands it.
+The Unfinishable Map holds that consciousness is not reducible to physical processes ([[tenets#^dualism|Dualism]]). Attention to absence supports this commitment in a specific way: the physical world contains no absences. A complete physical description of the café specifies what is there — molecules, electromagnetic radiation, forces. It does not and cannot specify what is *not* there, because "not there" is not a physical property. Yet absence is experienced with the same determinacy as presence. If consciousness were identical to physical processing, the difficulty would lie not in registering the absence — the mismatch negativity shows a physical system doing exactly that — but in the absence being experienced *as absence*, with the phenomenal character that makes the room *feel* Pierre-less. The experience of absence seems to require something that goes beyond stimulus-response processing — an active constitution of meaning that is characteristic of consciousness as the Map understands it.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is relevant because attention to absence is often voluntary and action-guiding. You scan the room *looking for* Pierre; you *listen for* the missing sound. This searching attention shapes subsequent behaviour — leaving the café, investigating the silence. Consciousness directs physical activity based on what it experiences as absent, which requires information about absence to flow from the mental to the physical domain.
 

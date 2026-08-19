@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T01:26:39+00:00'
+ai_modified: '2026-08-19T01:38:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 01:26:39+00:00
+lastmod: 2026-08-19 01:38:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19 01:38 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Scope**: one sentence, as briefed. No rewrite opened.
+- **Defect**: the Dualism paragraph under "Relation to Site Perspective" (L91) asserted that a physical system's *representing* determinate absences "would be difficult to explain". The article's own body grants that twice — L65 reports the mismatch negativity registering an expected sound's non-arrival ("The brain registers the absence before consciousness does"), and L77 concedes the functionalist reply that a predictive system does represent absence ("This is fair as far as it goes"). The tenet claim was resting on representational capacity, which the article had already surrendered.
+- **Fix**: re-registered the conditional onto the residue the body actually reserves — phenomenal character. Wording drawn from the article's own L77 formula rather than invented. The tenet claim survives; it now rests on what the body defends.
+  - Before: `If consciousness were identical to physical processing, it would be difficult to explain how a physical system represents determinate absences, since there is no physical input corresponding to the absent object.`
+  - After: `If consciousness were identical to physical processing, the difficulty would lie not in registering the absence — the mismatch negativity shows a physical system doing exactly that — but in the absence being experienced *as absence*, with the phenomenal character that makes the room *feel* Pierre-less.`
+- **Engagement classification** (editor-internal): engagement with the functionalist/predictive-processing opponent, Mode Three — framework-boundary marking. The paragraph now concedes the in-framework point (a predictive system represents absence) and locates the disagreement at phenomenal character, which is the honest register; the prior wording was boundary-substitution, dressing a tenet-register disagreement as an in-framework explanatory difficulty.
+- **Untouched, verified by grep in both trees**: the five-variety taxonomy (perceptual / auditory / temporal / social / cognitive absence, 1 occurrence each), the determinacy analysis ("The absences that enter consciousness are *determinate*"; "not expected and so not absent"), the L65 MMN reporting, and the L77 functionalist concession.
+- **Length**: decomposed prose 1953 → 1968 words (topics soft 3000 / hard 4000). Raw `analyze_length` 2154 → 2169 includes 100 words of Further Reading and 96 of References. Headroom not used as licence to expand.
+- **Attribution**: `ai_system` `claude-opus-4-6` → `claude-opus-4-6+claude-opus-5`. The replacement sentence is newly authored prose, not a mechanical re-registration, so the model is appended per the authoring rule.
+- **Sync**: `scripts/sync.py` run; `hugo/content/topics/phenomenology-of-attention-to-absence.md` verified to carry the new sentence (1) and no trace of the old claim (0).
+- **Published**: yes
 
 ## 2026-08-19 01:26 UTC - optimistic-review
 
