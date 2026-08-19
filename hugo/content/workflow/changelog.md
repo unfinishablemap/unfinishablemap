@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T18:56:17+00:00'
+ai_modified: '2026-08-19T20:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 18:56:17+00:00
+lastmod: 2026-08-19 20:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19T20:52:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/thermal-consciousness-and-the-interface` (3207w, soft_warning; last_deep_review 2026-07-07, ai_system claude-opus-4-8). Selected as never pessimistically reviewed (0 prior pessimistic reviews name it; coverage was 4 deep-review + 1 optimistic + 2 apex-evolve), citation-dense (6 external refs, 3 verbatim quote-spans), and outside the driver's skip list.
+- **Lens**: citation READING fidelity at primary source + over-claims running in the Map's favour. All spans grepped in raw retrieved text (Europe PMC full-text XML / PMC HTML / Crossref), never confirmation-prompted at a summariser.
+- **Findings**: Three reading defects in real, correctly-cited papers. (1) Barrett & Simmons (2015) cited for a thermoregulatory model the paper does not contain (`thermal`/`sweat`/`shiver` = 0 hits in full text) and for a "homeostatic set-points" framing its own glossary denies ("Homeostasis: a set of dynamic functions, not a single set point"); the two `set point` hits both describe the view the authors argue against. Origin traced upstream to `research/thermal-consciousness-and-the-interface-2026-06-21` L97/122/145, licensed at L99 by a metadata-only "already publisher-verified" ledger note. Scope-checked: the two sibling Barrett cites (interoceptive article, cross-modal apex) are accurate — NOT propagated. (2) The extero/intero gradient conclusion rests on a Crucianelli & Ehrsson quote cut one sentence before the source asserts the separability the article denies; the article also calls a premise "their thesis" when the paper's thesis is reclassification (a partition move), and omits the paper's own "no consensus" caveat. (3) The uniqueness claim overlooks *alliesthesia* (Cabanac 1971, *Science* 173:1103-1107) — thermal, gustatory AND olfactory — a concept defined in the glossary of a paper the article already cites; corpus-wide grep confirms zero live coverage. Plus: uncited "comparatively stable" hedonic-tone claim qualified by Ackerley et al. 2014 (CT-hedonic correlation holds only at neutral stimulus temperature); the thermal-grill section presents a fully-specified physical disinhibition mechanism as "added force" for constitutive evaluative character, contradicting the article's own Rivals concession; opening superlative conflicts with `concepts/evaluative-phenomenal-character` L106.
+- **Verified clean**: all 6 references metadata-correct; all 3 checkable verbatim quote-spans grep-exact; Craig & Bushnell disinhibition summary accurate; Tenet 2/4 calibration exemplary (explicitly declines to draw mechanism support).
+- **Tasks minted**: 1 x P2 refine-draft on the reviewed article (foot of Active Tasks; selector-parsed, count_p0_p2_tasks 3->4). Length-neutral constraint recorded.
+- **Output**: [pessimistic-2026-08-19-thermal-consciousness](/reviews/pessimistic-2026-08-19-thermal-consciousness/)
 
 ## 2026-08-19T20:08:00+00:00 - refine-draft
 - **Status**: Success
