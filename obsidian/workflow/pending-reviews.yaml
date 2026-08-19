@@ -194,9 +194,9 @@
   commissioned_at: '2026-08-19T02:13:56.845421+00:00'
   prompt_summary: 'Audit knowledge-argument: claims, citations, counterarguments'
   target_filename: outer-review-2026-08-19-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-19T03:55:00.378479+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending an interactionist

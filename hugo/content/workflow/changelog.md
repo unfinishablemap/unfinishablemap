@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T02:24:44+00:00'
+ai_modified: '2026-08-19T03:59:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 02:24:44+00:00
+lastmod: 2026-08-19 03:59:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19 03:59 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-08-19-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-08-19-chatgpt-5-6-sol-pro/)
+- **Subject**: `concepts/knowledge-argument` (single-article audit; subject reused by the Claude and Gemini legs this cycle)
+- **Verdict**: major revision — the five-step formalisation suppresses the bridge premise from epistemic novelty to new fact; acquaintance is treated as dualist support rather than as a leading physicalist reply; Jackson's 2003 reversal is misdescribed.
+- **Claims verified**: 15 — 8 quoted spans against the article on disk, 3 cross-article inconsistency claims against sibling articles, 4 post-2020 sources via OpenAlex/publisher.
+- **Fabrications found**: **zero.** Every span and every citation checked verified. Notable given outer-review-fabricates-target-quotes — consistent with the pattern that reviewers rehabilitate on single-article subjects versus full-site audits.
+- **Disputed**: the "tenet-protective" charge is partially pre-empted — `L167` already concedes interactionism is "the interactionist's own commitment brought to the argument rather than extracted from it". The defensible version is the reviewer's own weaker one: the caveats arrive too late, not that they are absent. Alter's year (2023 vs our 2024) left unresolved pending publisher confirmation; OpenAlex suggests our date conflates the book with Alter's 2024 *Précis*.
+- **High-value findings**: 3 verified cross-article inconsistencies — the neuroplasticity qualification-drop (`L103` promotes to "empirical support" what its source grades "suggestive" and explicitly non-discriminating), the unimported Ball/Carruthers-Veillet debt that `phenomenal-concepts-strategy` already names as a threat to the knowledge-argument path, and a caricatured illusionism lede.
+- **Tasks generated**: 2 (P1: 1, P2: 1) — deliberately consolidated. ⚠️ **Pileup control**: all three services audit this same article this cycle (outer-review-same-file-task-pileup — a prior triple produced 5-7 tasks on one file). Baseline was zero open tasks on `knowledge-argument`. The review's headline structural findings (suppressed bridge premise, missing acquaintance section, physicalism treated as homogeneous, cumulative-case double-counting) were **deliberately not minted** — they are the findings most likely to recur in the Claude and Gemini legs, and `/combine-outer-reviews` should adjudicate and upgrade them on genuine convergence rather than have three near-duplicate tasks land on one file.
+- **Also flagged for later, not minted**: 5 site-methodology proposals (claim-to-source ledger, "strongest live reply" field, tenet firewall, qualification propagation across links, automated bibliography checks). The qualification-propagation proposal is independently evidenced by finding (1) above.
+- **Extraction**: page-side Blob download + SHA-256, hash verified byte-identical on disk (34,307 bytes). No transcription through the model.
 
 ## 2026-08-19 02:24 UTC - refine-draft
 

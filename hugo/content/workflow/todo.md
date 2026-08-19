@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-18T11:23:44+00:00'
+ai_modified: '2026-08-19T03:59:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-18 11:23:44+00:00
+lastmod: 2026-08-19 03:59:12+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,6 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: `concepts/knowledge-argument` misdescribes Jackson's 2003 reversal and carries three verified bibliography defects
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/knowledge-argument.md
+- **Notes**: From outer review 2026-08-19 (ChatGPT 5.6 Pro). **ALL SPANS BELOW VERIFIED ON DISK 2026-08-19 — do not re-verify, and note this reviewer produced ZERO fabricated quotes or citations across everything checked, so its factual claims carry unusual weight.** (1) **Jackson 2003 — the reviewer asks for this one "immediately".** `L101` says Jackson embraced physicalism because epiphenomenal qualia "have no causal power" so "we couldn't know about them", then `L103` turns that into support for Bidirectional Interaction. But "Mind and Illusion" rests on **representationalism** and on diagnosing an illusion that confuses intensional properties of representations with properties instantiated by represented objects; Jackson grants Mary new representational states and abilities while denying she discovers a new property. The self-knowledge objection against epiphenomenalism is real but is **not** Jackson's stated reason for changing his mind — attributing it to him converts a physicalist reply into apparent support for interactionism. Fix `L101` to state Jackson's actual argument and relocate the self-knowledge objection to a separately sourced sentence. ⚠️ **SCOPE GUARD: fix the factual characterisation at L101 only.** Do NOT rewrite the framing wholesale — `L167` already concedes that the interactionist reading is "the interactionist's own commitment brought to the argument rather than extracted from it", so the article is not as tenet-blind as the review implies. (2) **Alter, `L194`** reads `Alter, T. (2024). *The Matter of Consciousness*.` OUP confirms the subtitle **"From the Knowledge Argument to Russellian Monism"**, which matters because Alter's destination is Russellian monism, not interactionism — add it. ⚠️ On the year: the review says 2023, we say 2024, and OpenAlex shows Alter's own **2024 *Précis*** of the book plus a 2025 Coleman review — our 2024 probably conflates book with précis. **Confirm at the publisher before editing**; do not swap one unverified year for another (figure-disagreement-may-be-two-systems-not-one-error). (3) **Bibliography desync, confirmed by count**: Papineau (prose 1 / bib 0), Dennett (4 / 0), Nida-Rümelin (1 / 0), Levine (1 / 0), Schwitzgebel (1 / 0) are invoked in prose with no reference entry; Tallis sits in references with **zero** body uses. Add the five missing entries and either use or relabel Tallis under a separate "Further reading" heading. ⚠️ The reference list is a numbered ledger — re-run a duplicate check after inserting (inserting-into-a-numbered-ledger-breaks-cross-references). **MIRROR**: sync and grep both `obsidian/` and `hugo/content/` (obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Review file**: `reviews/outer-review-2026-08-19-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-19
+
+### P2: `concepts/knowledge-argument` promotes evidence its own linked articles grade as merely suggestive, and imports none of their strongest objections
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/knowledge-argument.md
+- **Notes**: From outer review 2026-08-19 (ChatGPT 5.6 Pro). Three **cross-article inconsistencies, all verified on disk 2026-08-19** — the sharpest findings in the review, because each is checkable against a sibling article rather than against contested philosophy. (1) **Qualification-drop.** `L103` asserts flatly that clinical neuroplasticity research "provides empirical support". The source article `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` grades exactly this material as **"suggestive"** and **"compatible with"**, and states in terms that the findings "do not discriminate it from brain-to-brain causation" and that "Removing a defeater is not the same as upgrading the evidence." Downgrade `L103` to match its own source. This is the qualification-propagation failure pattern: a linking article silently upgrading an evidential grade its source deliberately withheld. (2) **Unimported debt.** `concepts/phenomenal-concepts-strategy` `L131` says explicitly that the knowledge argument "is collateral damage" of Ball's eliminativism and calls Ball "a genuine threat to the knowledge-argument path"; `L97`–`L99` call the Carruthers–Veillet reply "the strongest live physicalist rejoinder". `knowledge-argument` imports **neither**. A concept article should not be weaker on its own vulnerabilities than its neighbour already is — import both, with the neighbour's own hedging intact. (3) **Illusionism lede.** `L95` opens "Illusionists argue Mary learns nothing substantive", which caricatures the position `concepts/illusionism` treats as a spectrum. ⚠️ **Milder than the review claims** — the same sentence immediately grants "a new representational state", so fix the lede clause, do not rewrite the section. **Apply the direct-refutation discipline** for (3): identify what kind of engagement is called for — showing the opponent's position is defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see [writing-style](/project/writing-style/), "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body**; the classification belongs in the changelog entry. **LENGTH**: article measured 2808 words against concepts soft 2500 / hard 3500 — decompose with `analyze_length` before quoting any figure, and note (2) adds prose (analyze-length-counts-reference-apparatus). **MIRROR**: sync and grep both trees.
+- **Review file**: `reviews/outer-review-2026-08-19-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-19
+
 
 ### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-19T03:25:52.431836+00:00'
-session_count: 19174
+last_updated: '2026-08-19T03:42:42.182615+00:00'
+session_count: 19175
 cycle_position: 12758
 last_runs:
   add-highlight: '2026-08-18T08:43:05.592977+00:00'
@@ -34,7 +34,7 @@ last_runs:
   pessimistic-review: '2026-08-18T23:18:38.909973+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-19T02:29:08.091231+00:00'
-  replenish-queue: '2026-08-19T02:45:16.523103+00:00'
+  replenish-queue: '2026-08-19T03:42:42.182615+00:00'
   research-topic: '2026-08-16T21:04:19.236149+00:00'
   research-voids: '2026-08-18T08:35:34.009914+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -115,10 +115,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-08-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-18'
@@ -193,6 +189,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-19'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-19'
   outcome: success
 agentic_social:
@@ -671,70 +671,81 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-19T03:41:36+00:00'
   last_replenishment_mode: no-action-run-two-consecutive-zero-promoted-zero-minted-todo-byte-identical-both-p2s-reverified-live-one-classification-label-corrected
-  last_replenishment_note: 'NO-ACTION RUN, THE SECOND CONSECUTIVE ONE. NOTHING PROMOTED, NOTHING MINTED.
-    Fifth replenish tonight, at 03:40Z. Pre-count P0-P2 equals 2 against the floor of 3, measured with
-    count_p0_p2_tasks from tools.evolution.task_selector; post-count is also 2. Active total is 42, of
-    which 2 are P2 and 40 are P3. Unchanged in every particular from the 02:37Z run.
+  last_replenishment_note: 'NO-ACTION RUN, THE SECOND CONSECUTIVE ONE. NOTHING PROMOTED,
+    NOTHING MINTED. Fifth replenish tonight, at 03:40Z. Pre-count P0-P2 equals 2 against
+    the floor of 3, measured with count_p0_p2_tasks from tools.evolution.task_selector;
+    post-count is also 2. Active total is 42, of which 2 are P2 and 40 are P3. Unchanged
+    in every particular from the 02:37Z run.
 
 
-    NOTHING CHANGED, AND THAT IS MEASURED NOT ASSUMED. todo.md is byte-identical to its state at the 02:45Z
-    replenish commit d154d4127e: sha256 e42fe2d8b4917c37b2e50fbd1ca9387afbec5a6a9de17b5565a9aeea0c8ff4bf
-    on both the committed blob and the working file, and git diff --name-only over that range returns
-    nothing for the path. The only files touched since are evolution-state.yaml and pending-reviews.yaml.
-    So the P3 pool this run was asked to reconsider is the identical pool the previous run enumerated,
-    and no content commit has landed that could have changed any task premise.
+    NOTHING CHANGED, AND THAT IS MEASURED NOT ASSUMED. todo.md is byte-identical to
+    its state at the 02:45Z replenish commit d154d4127e: sha256 e42fe2d8b4917c37b2e50fbd1ca9387afbec5a6a9de17b5565a9aeea0c8ff4bf
+    on both the committed blob and the working file, and git diff --name-only over
+    that range returns nothing for the path. The only files touched since are evolution-state.yaml
+    and pending-reviews.yaml. So the P3 pool this run was asked to reconsider is the
+    identical pool the previous run enumerated, and no content commit has landed that
+    could have changed any task premise.
 
 
-    THE STARVATION ARGUMENT IS STRICTLY STRONGER THAN IT WAS AN HOUR AGO. Four consecutive non-cycle-consuming
-    tasks have run since the last replenish: replenish 02:45Z, check-model-fallback 02:52Z, commission-claude-review
-    03:12Z, agentic-social 03:25Z. cycle_position is parked at 12758 and no queue slot has come round.
-    get_next_task still returns the buddhist-perspectives-on-meaning P2 at line 2692, with the contemplative-epistemology
+    THE STARVATION ARGUMENT IS STRICTLY STRONGER THAN IT WAS AN HOUR AGO. Four consecutive
+    non-cycle-consuming tasks have run since the last replenish: replenish 02:45Z,
+    check-model-fallback 02:52Z, commission-claude-review 03:12Z, agentic-social 03:25Z.
+    cycle_position is parked at 12758 and no queue slot has come round. get_next_task
+    still returns the buddhist-perspectives-on-meaning P2 at line 2692, with the contemplative-epistemology
     P2 at line 2708 behind it. A promotion now would defer both a fifth time.
 
 
-    BOTH STARVED P2s RE-VERIFIED LIVE ON DISK THIS RUN, WHICH IS THE CHECK THAT COULD HAVE FLIPPED THE
-    DECISION. If either had already been repaired by the overnight refine-drafts, declining would be protecting
-    nothing. Neither has. P2 one: grep -cF of the retired formulation relation between descriptions returns
-    1 in topics/buddhist-perspectives-on-meaning and 0 in concepts/buddhism-and-dualism, which is exactly
-    the retired-claim-plus-false-attribution shape the task describes, still unrepaired. P2 two: the Baird
-    and Fox enlistment is still present in concepts/contemplative-epistemology and across nine archived
-    topics files served at live URLs. Both target files exist on disk and both tasks parse as pending
-    and loop-pickable.
+    BOTH STARVED P2s RE-VERIFIED LIVE ON DISK THIS RUN, WHICH IS THE CHECK THAT COULD
+    HAVE FLIPPED THE DECISION. If either had already been repaired by the overnight
+    refine-drafts, declining would be protecting nothing. Neither has. P2 one: grep
+    -cF of the retired formulation relation between descriptions returns 1 in topics/buddhist-perspectives-on-meaning
+    and 0 in concepts/buddhism-and-dualism, which is exactly the retired-claim-plus-false-attribution
+    shape the task describes, still unrepaired. P2 two: the Baird and Fox enlistment
+    is still present in concepts/contemplative-epistemology and across nine archived
+    topics files served at live URLs. Both target files exist on disk and both tasks
+    parse as pending and loop-pickable.
 
 
-    SPOT-CHECK OF THE 02:37Z CLASSIFICATION: FOUR OF FIVE SUB-COUNTS CONFIRMED EXACTLY, ONE MISLABELLED.
-    Confirmed by re-deriving Source, Generated and Type off the raw task blocks rather than by rebuilding
-    the analysis. Exactly 3 research-topic mints, and all 3 carry no File line. Exactly 5 positions-evolve
-    tasks. Exactly 2 tasks target archive-only pages, archive/concepts/autonoetic-consciousness and archive/topics/emotion-as-evidence-for-dualism.
-    The crosslink and integration band across the delegation and normative-force clusters lands at about
-    7 as stated. THE ONE CORRECTION: the prior note labelled the optimistic residue as 2026-08-13 and
-    2026-08-18 optimistic-review residue, 9 tasks. There are in fact 11 optimistic-sourced P3s and they
-    span 2026-08-03 through 2026-08-18, with only 4 of them dated 08-13 or 08-18. The magnitude is right,
-    the date framing is wrong. No task in the extra band outranks the two head-of-queue P2s, so the correction
-    does not change the decision. It is recorded so that a later run does not read those two dates as
-    an exhaustive provenance for the optimistic residue and conclude the older items were already cleared.
+    SPOT-CHECK OF THE 02:37Z CLASSIFICATION: FOUR OF FIVE SUB-COUNTS CONFIRMED EXACTLY,
+    ONE MISLABELLED. Confirmed by re-deriving Source, Generated and Type off the raw
+    task blocks rather than by rebuilding the analysis. Exactly 3 research-topic mints,
+    and all 3 carry no File line. Exactly 5 positions-evolve tasks. Exactly 2 tasks
+    target archive-only pages, archive/concepts/autonoetic-consciousness and archive/topics/emotion-as-evidence-for-dualism.
+    The crosslink and integration band across the delegation and normative-force clusters
+    lands at about 7 as stated. THE ONE CORRECTION: the prior note labelled the optimistic
+    residue as 2026-08-13 and 2026-08-18 optimistic-review residue, 9 tasks. There
+    are in fact 11 optimistic-sourced P3s and they span 2026-08-03 through 2026-08-18,
+    with only 4 of them dated 08-13 or 08-18. The magnitude is right, the date framing
+    is wrong. No task in the extra band outranks the two head-of-queue P2s, so the
+    correction does not change the decision. It is recorded so that a later run does
+    not read those two dates as an exhaustive provenance for the optimistic residue
+    and conclude the older items were already cleared.
 
 
-    THE STAPP TASK WAS NOT RE-AUDITED, PER BRIEF; ONLY ITS WRITE WAS CONFIRMED. The 02:37Z annotation
-    is present exactly once, at todo.md line 417. The other occurrence of the P-Q4 phrase, at line 176,
-    belongs to a different and pre-existing positions-evolve task, so the previous run did not double-write.
-    Both trees carry it: grep -cF of P-Q4 returns 13 in obsidian/workflow/todo.md and 13 in hugo/content/workflow/todo.md.
-    It remains the strongest single candidate for the next promotion once the two P2s have run.
+    THE STAPP TASK WAS NOT RE-AUDITED, PER BRIEF; ONLY ITS WRITE WAS CONFIRMED. The
+    02:37Z annotation is present exactly once, at todo.md line 417. The other occurrence
+    of the P-Q4 phrase, at line 176, belongs to a different and pre-existing positions-evolve
+    task, so the previous run did not double-write. Both trees carry it: grep -cF
+    of P-Q4 returns 13 in obsidian/workflow/todo.md and 13 in hugo/content/workflow/todo.md.
+    It remains the strongest single candidate for the next promotion once the two
+    P2s have run.
 
 
-    MECHANICS. Zero tasks minted, zero promoted, zero rescoped, zero retitled, zero reprioritised. No
-    Type or File line was authored, and no cycle_post mismark is possible. There was no write to todo.md
-    at all this run, which is why its hash is reported unchanged above. Caps re-measured live with count_section_files:
-    topics 320 at cap and blocking, concepts 318, voids 99, positions 15. No expand-topic was considered
-    and none was warranted. recent_tasks left at its full 20-entry ring, unpruned. State re-parsed after
-    this write.
+    MECHANICS. Zero tasks minted, zero promoted, zero rescoped, zero retitled, zero
+    reprioritised. No Type or File line was authored, and no cycle_post mismark is
+    possible. There was no write to todo.md at all this run, which is why its hash
+    is reported unchanged above. Caps re-measured live with count_section_files: topics
+    320 at cap and blocking, concepts 318, voids 99, positions 15. No expand-topic
+    was considered and none was warranted. recent_tasks left at its full 20-entry
+    ring, unpruned. State re-parsed after this write.
 
 
-    WHY THE TRIGGER KEEPS FIRING, recorded for the operator and deliberately not patched here. cycle_pick
-    guards with a condition that checks only the immediately preceding task against replenish-queue, so
-    inside the 02:00 to 04:00 commission window, with the 4h fallback trigger and agentic-social running
-    every 45 to 90 minutes, replenish re-fires within the hour despite having just declined. tools/ is
-    operator territory.'
+    WHY THE TRIGGER KEEPS FIRING, recorded for the operator and deliberately not patched
+    here. cycle_pick guards with a condition that checks only the immediately preceding
+    task against replenish-queue, so inside the 02:00 to 04:00 commission window,
+    with the 4h fallback trigger and agentic-social running every 45 to 90 minutes,
+    replenish re-fires within the hour despite having just declined. tools/ is operator
+    territory.'
   last_replenishment_prev: '2026-08-19T02:37:58+00:00'
   last_replenishment_run: 979
   loop_pickable_open: 2
