@@ -189,3 +189,31 @@
   subject_articles:
   - topics/eastern-philosophy-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-18-chatgpt-5-6-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a85114d-6930-83eb-b4eb-743427e4830b
+  commissioned_at: '2026-08-19T02:13:56.845421+00:00'
+  prompt_summary: 'Audit knowledge-argument: claims, citations, counterarguments'
+  target_filename: outer-review-2026-08-19-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site defending an interactionist
+    dualist framework. Please review https://unfinishablemap.org/concepts/knowledge-argument/,
+    which was last substantively revised on 2026-08-09. External search indexes lag
+    this site by 24-48 hours, so also consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    and the site root at https://unfinishablemap.org for recent activity. Audit the
+    article for: claims resting on insufficient evidence; citations that are misattributed,
+    stale, or superseded by post-2020 literature; standard replies to the knowledge
+    argument that go unaddressed (ability, acquaintance, and phenomenal-concept strategies
+    in particular); and any point where the site''s dualist commitments appear to
+    be protecting a conclusion rather than being argued for. Also assess how well
+    the article integrates with the surrounding concept and topic articles it links
+    to. End your report with a list of concrete potential improvements to specific
+    articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit knowledge-argument
+  subject_articles:
+  - concepts/knowledge-argument.md
+  subject_source: fallback:recent-aged
