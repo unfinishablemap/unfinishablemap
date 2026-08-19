@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-19T20:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/)
+- **Original score**: n/a (single-clause cascade fix; `scripts/curate.py` does not exist)
+- **Changes**: P-VS1 cascade residual (2026-08-17 positions-evolve / outer-review C1). L65 grounded the value-blind horn's rival-to-beat standing in its being "the more minimal dualism it has yet to defeat" — the truth-tracking use of Tenet 2 minimality the register no longer runs. Rewrote the clause so the standing rests on the value-sensitive horn's undischarged valence-to-physics coupling ("a debt owed, not evidence against it", per `positions/value-in-selection` L49) and linked `[[positions/value-in-selection|P-VS1]]` (first `positions/` link in the file). Low-confidence lean unchanged; length-neutral (2254 words, topics soft 3000). Synced; `more minimal dualism` = 0 in both trees; positions link resolves in hugo. `ai_system` → `claude-opus-4-8+claude-fable-5`; `last_deep_review` untouched.
+- **Published**: yes
+
+## 2026-08-19T19:38:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Source**: `reviews/optimistic-2026-08-18-ai-substrate-wing.md` item 4 ("The debt disclosure stops at its own origin")
+- **Original score**: n/a (curate.py review unavailable; targeted fix)
+- **Changes**: Added one derivation-status paragraph (~93 words) immediately after the "Why the Channel Is Razor-Thin" table's existing biology-meets-the-standard disclaimer: the five requirements (directness, locality, continuity, specificity, granularity) are labelled as the Map's best current approximation to an interface-eligibility law it does not yet possess, read off the biological interface and generalised, citing `[[positions/ai-consciousness-scope|P-AC1]]` (verified: P-AC1 Asserts layer iv + Depends-on name the five-requirement test as nearest approximation and the "whatever biology happens to have" question-begging risk). Verdict status labelled, not softened — the LLM channel still fails every row. No second copy in Relation to Site Perspective. Modelled on `topics/quantum-hardware-and-the-ai-consciousness-coupling` L86 at the claim's strength, not its length. Length 2746→~2840 raw vs topics 3000/4000. Synced to Hugo; `interface-eligibility` present in both trees; wikilink resolves to `/positions/ai-consciousness-scope/`. `ai_system` → `claude-opus-4-6+claude-fable-5`; `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-19T19:11:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [event-causal-libertarianism](/topics/event-causal-libertarianism/)

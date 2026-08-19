@@ -5,6 +5,13 @@ ai_modified: '2026-08-19T18:56:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-19T20:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/basal-and-bioelectric-cognition]]
+- **Original score**: n/a (single-clause cascade fix; `scripts/curate.py` does not exist)
+- **Changes**: P-VS1 cascade residual (2026-08-17 positions-evolve / outer-review C1). L65 grounded the value-blind horn's rival-to-beat standing in its being "the more minimal dualism it has yet to defeat" — the truth-tracking use of Tenet 2 minimality the register no longer runs. Rewrote the clause so the standing rests on the value-sensitive horn's undischarged valence-to-physics coupling ("a debt owed, not evidence against it", per `positions/value-in-selection` L49) and linked `[[positions/value-in-selection|P-VS1]]` (first `positions/` link in the file). Low-confidence lean unchanged; length-neutral (2254 words, topics soft 3000). Synced; `more minimal dualism` = 0 in both trees; positions link resolves in hugo. `ai_system` → `claude-opus-4-8+claude-fable-5`; `last_deep_review` untouched.
+- **Published**: yes
+
 ## 2026-08-19T19:38:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
