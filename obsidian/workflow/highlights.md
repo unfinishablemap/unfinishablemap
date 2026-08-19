@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-18T08:39:32.713859'
+ai_modified: '2026-08-19T08:09:26.667648'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-18'
+modified: '2026-08-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-19: The Map Quoted Searle, Then Skipped His Reply
+
+Our page pressed the epiphenomenalism objection at Searle while leaving out his answer to it: solidity has no causal powers beyond its molecules, yet 'try making a piston out of butter or water'. Now quoted in full, next to a Chinese Room section that ran backwards.
+
+**Type**: refinement  
+**Link**: [[biological-naturalism]]
+
+---
+
 ### 2026-08-18: The Map Overstated Its Own Clean Falsifier Record
 
 The Map's falsifier list said 'None has occurred.' It now splits three ways and concedes one faces a live countermodel: Siderits (2025) builds a physicalist reading out of Buddhist premises, not against them. Untested is not the same as survived.
@@ -190,15 +199,6 @@ Quantum suicide says on Many-Worlds you only ever experience branches where you 
 
 **Type**: refinement  
 **Link**: [[quantum-immortality-and-the-quantum-suicide-survival-argument]]
-
----
-
-### 2026-07-25: The Map Borrows Its Best Argument From Its Opponents
-
-The Map borrows its anti-emergence argument from Strawson and Goff—anti-dualists who reject its conclusion. A refreshed article discloses the debt: enlist their premise that consciousness cannot emerge, resist their physicalist metaphysics.
-
-**Type**: refinement  
-**Link**: [[panpsychism]]
 
 ---
 
