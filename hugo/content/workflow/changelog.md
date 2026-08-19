@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T00:26:00+00:00'
+ai_modified: '2026-08-19T01:10:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 00:26:00+00:00
+lastmod: 2026-08-19 01:10:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19 01:10 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Task**: Three re-registered loci (P3→P2 promotion).
+- **Fix (b) — misstated rival (the defect that earned the promotion)**: the Objections section claimed "if consciousness were epiphenomenal, the correlation between felt effort and neural outcomes would be coincidental". Epiphenomenalism has the physical causing the mental, so it *predicts* that correlation by common cause and is not committed to coincidence — the sentence scored against a position nobody holds. Rewritten to concede that the correlation does not by itself answer the objection, adopting the sibling formula verified verbatim at `topics/attention-and-the-consciousness-interface.md:147` ("compatible with weaker readings on which effort tracks underlying cognitive cost without itself doing causal work"), and relocating the Map's weight onto the argument from reason.
+- **Engagement classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): engagement with the epiphenomenalist: was Mode One as written (claiming an internal defect — "coincidental" — the opponent does not incur), now Mode Three plus a pointer to a Mode Two argument; the correlation is conceded as non-discriminating and the disagreement is carried by the argument from reason rather than dressed as an in-framework refutation. This was a boundary-substitution failure in the inverse direction: not tenet-incompatibility posing as refutation, but a fabricated in-framework defect posing as one.
+- **Fix (a) — 10 bits/s hedge, installed once**: four occurrences (L42 table cell, L48 first prose use, L66, L194). Hedge installed at first prose use (L48) using the sibling formulas verified verbatim at `topics/attention-and-the-consciousness-interface.md:153` ("not the bandwidth of the brain as a whole") and `concepts/attention-as-interface.md:99` ("not what phenomenal attention processes internally"). Table cell L42 retitled "conscious bandwidth" → "deliberate-selection throughput". L66 took a two-word swap only ("Conscious processing" → "Deliberate selection") because the hedge at L48 explicitly denies that the figure measures phenomenal processing, which left L66's flat form contradicting it eighteen lines later; the full hedge was not repeated there. L194 (Minimal Quantum Interaction) left untouched per the task's install-once instruction.
+- **Fix (c) — navigation surface**: `description` asserted "attention training is metaphysically agency-enhancing" flat while the body carries a framework-conditional qualifier at every occurrence (navigation-surfaces-carry-unreviewed-claims). Qualifier front-placed so it scopes both claims and survives SERP truncation; 156 → 158 chars, inside the 150-160 band.
+- **Cross-link**: optional Habituation → [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) link added (one sentence, two directions of the phenomenal field's boundary); the pair was previously unlinked in both directions. Economic framing and habituation section otherwise untouched per scope.
+- **Length**: decomposed prose 2535 → 2682 words (+147; concepts hard threshold 3500); 965 words of headroom before, 818 after.
+- **ai_system**: `claude-opus-4-5-20251101` → `claude-opus-4-5-20251101+claude-opus-5`. Appended rather than held: fix (b) is a claim-bearing sentence rewritten in new words, and fix (a) installs new hedge prose, both of which are authoring rather than re-registration.
+- **Published**: yes
 
 ## 2026-08-19 00:26 UTC - refine-draft
 

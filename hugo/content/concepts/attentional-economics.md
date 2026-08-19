@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-07-16 18:08:59+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-19 01:10:10+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -15,14 +15,14 @@ concepts:
 - '[[working-memory]]'
 - '[[counterfactual-reasoning]]'
 created: 2026-01-31
-date: &id001 2026-01-31
-description: Agency is fundamentally the allocation of attention over time. Freedom
-  scales with attentional skill; attention training is metaphysically agency-enhancing.
+date: &id001 2026-08-19
+description: 'Agency is the allocation of attention over time. Within the Map''s framework,
+  attention training is metaphysically agency-enhancing: freedom scales with skill.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:08:59+00:00
-lastmod: 2026-07-16 18:08:59+00:00
+lastmod: 2026-08-19 01:10:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,13 +42,13 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 
 | Economic Category | Attentional Parallel |
 |-------------------|---------------------|
-| Scarcity | ~10 bits/second conscious bandwidth |
+| Scarcity | ~10 bits/second deliberate-selection throughput |
 | Allocation | Where attention is directed |
 | Investment | Sustained focus over time |
 | Return | Neural pattern stabilisation, neuroplasticity |
 | Opportunity cost | Alternatives that decay while unattended |
 
-The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Zheng & Meister 2025). Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [adaptive computational depth](/concepts/adaptive-computational-depth/): reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
+The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Zheng & Meister 2025). That figure is behavioural, and narrower than it first sounds: it measures the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole, and it measures what conscious agents *do*, not what phenomenal attention processes internally. So narrowed, it still fixes the scarcity this framework prices. Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [adaptive computational depth](/concepts/adaptive-computational-depth/): reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
 
 This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
 
@@ -66,7 +66,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) article develops
 
 Consider the constraints:
 
-**Bandwidth limits**: Conscious processing operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events. The scarcity that makes attention economically tradeable is, on the Map's reading, downstream of [interface friction](/concepts/interface-friction/): attention is finite because the mind-brain channel has finite capacity and holding selections against the brain's default dynamics costs sustained expenditure. Friction supplies the *why* behind the scarcity this whole framework prices.
+**Bandwidth limits**: Deliberate selection operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events. The scarcity that makes attention economically tradeable is, on the Map's reading, downstream of [interface friction](/concepts/interface-friction/): attention is finite because the mind-brain channel has finite capacity and holding selections against the brain's default dynamics costs sustained expenditure. Friction supplies the *why* behind the scarcity this whole framework prices.
 
 **Temporal structure**: The [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—if it's the mechanism—requires *sustained* observation to stabilise patterns. Brief attention produces minimal effect; sustained attention produces neuroplasticity. This temporal requirement gives attention its economic character: time invested matters.
 
@@ -168,7 +168,7 @@ This creates a boundary condition for attentional economics. The options availab
 | Familiar but attendable | Available with effort (reduced liquidity) |
 | Fully habituated | Unavailable (outside the economy) |
 
-This has implications for agency. Habituation doesn't just reduce phenomenal richness—it *contracts* the scope of conscious influence. What has dropped out of awareness can no longer be the target of attentional selection. The meditator isn't just learning to focus more intensely; they're learning to *de-habituate*—to restore the familiar to the phenomenal field and thereby expand the attentional economy.
+This has implications for agency. Habituation doesn't just reduce phenomenal richness—it *contracts* the scope of conscious influence. What has dropped out of awareness can no longer be the target of attentional selection. The meditator isn't just learning to focus more intensely; they're learning to *de-habituate*—to restore the familiar to the phenomenal field and thereby expand the attentional economy. Habituation meets the boundary of that field from one side, as contents fade out of awareness; [attention to absence](/topics/phenomenology-of-attention-to-absence/) meets it from the other, asking what is involved in attending to what is not there.
 
 "Beginner's mind" (*shoshin*) in Zen practice names this precisely: seeing the familiar as if for the first time. The practice doesn't create new contents; it restores contents that habituation had removed from conscious access. Each moment of successful de-habituation expands the set of options available for attentional investment.
 
@@ -182,7 +182,7 @@ The framework makes claims beyond folk psychology: that attention operates throu
 
 **"Attention training benefits could be purely neural, with consciousness as epiphenomenal spectator."**
 
-This objection applies to any evidence for mental causation. The Map's response: if consciousness were epiphenomenal, the correlation between felt effort and neural outcomes would be coincidental. The [argument from reason](/topics/argument-from-reason/) provides additional support: rational inference requires tracking normative relationships, which pure computation cannot instantiate.
+This objection applies to any evidence for mental causation, and the correlation between felt effort and neural outcomes does not by itself answer it. Epiphenomenalism predicts that correlation rather than being embarrassed by it: on that view a single neural process causes both the felt effort and the outcome, so their covariation is what the position expects. The pattern is likewise compatible with weaker readings on which effort tracks underlying cognitive cost without itself doing causal work. What the Map rests on here is not the correlation but the [argument from reason](/topics/argument-from-reason/): rational inference requires tracking normative relationships, which pure computation cannot instantiate.
 
 **"The bandwidth limit undermines agency rather than grounding it."**
 
@@ -204,7 +204,7 @@ The bandwidth limit constrains *what* consciousness can influence, not *whether*
 
 Attentional economics reframes agency from discrete decisions to the ongoing allocation of a scarce conscious resource. The deepest unit of will is sustained attention—what gets stabilised, what gets released, what competes for limited bandwidth.
 
-The practical implication is significant: **attention training is metaphysically agency-enhancing**. Meditation, contemplative practice, and cognitive-behavioural techniques don't merely improve subjective well-being. Within the Map's framework, they expand the scope and depth of conscious causal power. Freedom scales with attentional skill.
+The practical implication is significant: within the Map's framework, **attention training is metaphysically agency-enhancing**. Meditation, contemplative practice, and cognitive-behavioural techniques don't merely improve subjective well-being—they expand the scope and depth of conscious causal power. Freedom scales with attentional skill.
 
 This connects the abstract commitments of the tenets—dualism, bidirectional interaction, minimal quantum influence—to lived practice. The Map's framework isn't just a philosophical position to believe. It's a framework that suggests specific interventions (attention training) have specific metaphysical payoffs (expanded agency). The economics of attention bridges theory and practice.
 
