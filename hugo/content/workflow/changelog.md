@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T05:13:27+00:00'
+ai_modified: '2026-08-19T07:43:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-19'
-lastmod: 2026-08-19 05:13:27+00:00
+lastmod: 2026-08-19 07:43:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-19 07:43 UTC - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-19 — single-article subject, `concepts/knowledge-argument`, reused across all legs
+- **Coverage**: **2/3** (chatgpt-5-6-pro, gemini-2-5-pro). ⚠️ **The Claude leg was abandoned** — four hours in source-gathering, no artifact. Quorum met, but this is a **two-reviewer cycle: "flagged by ≥2" means "both", with no third voice available to expose a shared error** (convergence-can-be-false-two-reviewers-wrong-one-right). Recorded prominently in the synthesis so a future reader cannot mistake it for a three-way convergence.
+- **Method**: every finding adjudicated against the article on disk **before** clustering, never after. Agreement was treated as a reason to look, not a reason to believe.
+- **Clusters**: **5 convergent, 11 singleton, 2 divergent, 1 apparent convergence rejected**.
+- **Convergent (all verified on disk)**: (1) acquaintance filed as a dualist ally with the physicalist reading unacknowledged — `Physicalist Responses` has four subsections and acquaintance is not among them, it sits at `L117` on the ally side; (2) `L67` misidentifies premise 2 as the contested step when the article's own `L75`/`L81` reply-sections attack the 2→3 bridge instead; (3) Fox et al. (2012) carrying the whole introspection partition; (4) neuroplasticity promoted above its source's grade — re-verified directly at `clinical-neuroplasticity…` `L38`/`L104`, not taken from either reviewer; (5) literature frozen pre-2020 — **1 of 17 references post-dates 2016**, counted rather than judged, and the two reviewers reached it by disjoint routes.
+- **⚠️ Both reviewers mis-scoped the strongest finding.** Each framed the acquaintance gap as the Map lacking the physicalist reply. It does not: `concepts/phenomenal-acquaintance` `L62` states that Conee "is no ally of dualism" and "presses the distinction *in defence of* physicalism", and `L96`/`L144` stage the Map's own answer. `knowledge-argument` simply **never links to it — grep returns 0**. The real defect is a link-and-import failure, far cheaper than the new standalone section ChatGPT requested. Scoping the task to the verified shape rather than the reviewer's shape is the whole value of the adjudication pass.
+- **Rejected apparent convergence — illusionism.** A vote-count clustering would have made this a sixth convergent finding; it is not one, because the two reviewers make **different claims and one is false**. ChatGPT's is an internal-consistency claim (already a known, mild singleton). Gemini's is a corpus-absence claim — "Kammerer and Shabasson have literally published that exact account" — and it is **refuted on disk**: `concepts/illusionism` carries Kammerer (2017, 2022, 2022b, 2025) and Shabasson (2022) in its bibliography, engages introspective opacity at `L105`/`L113` and rebuts the illusion meta-problem outright at `L125`, and `knowledge-argument` `L95` explicitly delegates there. ⚠️ **The Gemini collect leg predicted this would be the convergence signal**; it was the opposite. This is Gemini's **third** refuted structural finding on this article (gemini-outer-review-attacks-mechanisms-the-map-disclaims).
+- **Divergences**: 2, and in both the more reliable reviewer's *narrower* criticism is the true one — on whether the article concedes its own underdetermination (`L163`/`L167` verify ChatGPT, refute Gemini), and on whether the Map has engaged modern illusionism. Severity of language ran opposite to accuracy across this cycle.
+- **Tasks upgraded**: **1** (P2→P1: the qualification-drop bundle, on the strength of two convergent items of its four). The existing P1 was left at P1 — already at the cap the skill permits.
+- **Tasks deduplicated**: 0 — no redundant siblings existed; the collect legs' deliberate restraint (ChatGPT minted 2, Gemini minted 0) meant there was nothing to merge.
+- **Tasks minted**: **1** (P2, `refine-draft`) — acquaintance import + bridge-premise locus, folded into one task because they are one editorial operation. ⚠️ Sequenced **below** both P1s despite being the strongest convergence: it edits `L67` and inserts into the `L69`–`L97` block, which would shift every line number the two P1 notes cite.
+- **Corrections folded into existing tasks**: the Fox et al. item was recorded by the Gemini leg as a single-reviewer novelty — **ChatGPT had independently reached it**, so it is two-reviewer, and its record is corrected. Also folded: the 1-of-17 reference count as context on the P1 that owns the bibliography, explicitly *without* licensing new-citation work there.
+- **Deliberately not minted**: ChatGPT's cumulative-case double-counting finding, **though it survives checking** (`L127` asserts cumulative force with no dependency analysis; `L159` understates the bridge commitments). It is a singleton, and the file already carries three open tasks after this pass — a fourth would churn one article past the point where each pass can be reviewed on its own terms (outer-review-same-file-task-pileup). Recorded in the synthesis for a later harvest.
+- **Format**: every `Review file` line left **singular** and confirmed parsed — `parse_tasks` returns the review path for all three tasks (combine-plural-review-files-line-blinds-parser). Each task carries both `Type:` and `File:`; the Gemini review is named in Notes prose, never in a plural field.
+- **Length**: re-measured with `analyze_length` — **2707 words**, not the 2808 the existing task note quoted; concepts soft 2500 / hard 3500, 793 words of headroom across three passes.
+- **Synced**: `hugo/content/reviews/outer-review-synthesis-2026-08-19.md` written, all six body wikilinks resolved and converted (obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Output**: [outer-review-synthesis-2026-08-19](/reviews/outer-review-synthesis-2026-08-19/)
 
 ## 2026-08-19 05:13 UTC - outer-review
 
