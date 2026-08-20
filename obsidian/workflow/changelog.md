@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T08:26:00+00:00'
+ai_modified: '2026-08-20T08:57:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T08:57 UTC - research-topic
+- **Status**: Success
+- **Topic**: The representational theory of measurement applied to phenomenal quantities (harvest-minted from optimistic-2026-08-20-self-audit-wing; formal foundation for the judging-the-map-as-science "scaled within subjects, never calibrated across them" seam; target_section: concepts)
+- **Output**: [[research/representational-measurement-phenomenal-quantities-2026-08-20]]
+- **Sources consulted**: 37 cited (21+ index-verified this run at Crossref/OpenAlex/SEP raw text; unverified standard tuples flagged inline and in Gaps)
 
 ## 2026-08-20T08:26 UTC - refine-draft
 - **Status**: Success

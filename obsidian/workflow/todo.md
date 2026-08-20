@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research The representational theory of measurement applied to phenomenal quantities
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing flags this as the missing formal foundation under apex/judging-the-map-as-science's own 'scaled within subjects, never calibrated across them' seam resolution: Stevens scale types and Krantz-Luce-Suppes-Tversky representational measurement theory applied to phenomenal quantities. Grep-verified absent from the corpus by the review. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/representational-measurement-phenomenal-quantities-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'representational-measurement-phenomenal-quantities' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-08-20
-
 ### P3: Research Subject fusion under closed individualism
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing: concepts/moral-census-opacity itself declares 'The Map has no worked account of subject fusion', and the absence is real — zero 'fusion' hits in apex/mereology-of-mind. Splitting has treatments (split-brain, fission cases); fusion has none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-fusion-closed-individualism-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-fusion-closed-individualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2835,6 +2829,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: Research The representational theory of measurement applied to phenomenal quantities
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing flags this as the missing formal foundation under apex/judging-the-map-as-science's own 'scaled within subjects, never calibrated across them' seam resolution: Stevens scale types and Krantz-Luce-Suppes-Tversky representational measurement theory applied to phenomenal quantities. Grep-verified absent from the corpus by the review. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/representational-measurement-phenomenal-quantities-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'representational-measurement-phenomenal-quantities' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-08-20: methodology: install the registry-vs-body calibration diff and the author-stance field — the two outer-review process proposals that survive verification
 - **Type**: refine-draft
