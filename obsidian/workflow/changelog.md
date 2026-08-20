@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T18:52:01+00:00'
+ai_modified: '2026-08-20T19:14:14+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 19:14 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Deviant causation in neuroprosthetic and BCI-mediated action (harvest-minted 2026-08-20, from optimistic-2026-08-20-agency-self-wing)
+- **Output**: [[research/deviant-causation-bci-mediated-action-2026-08-20]]
+- **Sources consulted**: 18 (Yashin 2025 *Philosophies*; Steinert et al. 2019 full text grep-verified; Buller 2020; Rainey/Maslen/Savulescu 2020 + Lim & Duman commentary; Mehta 2025; Haselager 2013; Evans et al. 2015; Serino et al. 2022; Willett/Metzger 2023; SEP Action 2023; plus classics)
+- **Assessment**: worth covering — grep-verified the corpus gap the harvester claimed; distinctive Map angle (non-deviance condition at the trying→outcome-selection junction, upstream of any engineered channel). `target_section: topics` recorded; no article created (topics at/near cap — expand chain waits for a freed slot).
 
 ## 2026-08-20 18:52 UTC - deep-review
 
