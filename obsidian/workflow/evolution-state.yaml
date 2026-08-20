@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T20:12:15.987820+00:00'
-session_count: 19314
-cycle_position: 12814
+last_updated: '2026-08-20T20:29:50.721184+00:00'
+session_count: 19315
+cycle_position: 12815
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-20T19:42:04.755982+00:00'
+  agentic-social: '2026-08-20T20:38:37.570854+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-20T19:21:54.100545+00:00'
@@ -33,7 +29,7 @@ last_runs:
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-20T14:16:45.877230+00:00'
   pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
-  positions-evolve: '2026-08-20T18:12:36.833796+00:00'
+  positions-evolve: '2026-08-20T20:29:50.721184+00:00'
   refine-draft: '2026-08-20T17:27:51.459569+00:00'
   replenish-queue: '2026-08-20T20:12:15.987820+00:00'
   research-topic: '2026-08-20T20:00:14.783966+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-20'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-20'
@@ -196,13 +188,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-20'
   outcome: success
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T20:14:23.367012+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness
-    url: https://unfinishablemap.org/topics/experimental-consciousness-science-2025-2026/
   - date: '2026-08-13T21:28:06.168909+00:00'
     topics:
     - epistemology-of-convergence-arguments
@@ -659,6 +650,12 @@ agentic_social:
     date: '2026-08-20T19:41:39.363640+00:00'
     topics:
     - phenomenology-of-cognitive-capacity
+  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
+    date: '2026-08-20T20:38:37.570812+00:00'
+    topics:
+    - bacterial-chemotaxis-and-minimal-biogenic-cognition
+    - interoceptive-consciousness-and-the-interface
+    - the-psychophysical-control-law
 queue_status:
   last_replenishment: '2026-08-20T20:10:00+00:00'
   last_replenishment_mode: conservative-single-p3-promotion
