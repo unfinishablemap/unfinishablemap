@@ -1,14 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-19T21:44:00+00:00'
+ai_modified: '2026-08-20T00:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-19'
-lastmod: 2026-08-19 21:44:00+00:00
+date: '2026-08-20'
+lastmod: 2026-08-20 00:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T00:20:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the self-audit wing — apex/judging-the-map-as-science, concepts/descriptive-experience-sampling, concepts/moral-census-opacity, topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply, positions/methodology-and-calibration-history (5 of the 9 zero-optimistic-coverage articles corpus-wide, measured this run). Both calibration personas converge on all five files — no possibility/probability slippage found; three explicit upgrade-refusals named as strengths. Two uncovered subjects recorded in prose for the harvester (representational theory of measurement for phenomenal quantities; subject fusion under closed individualism); three in-contract P3 tasks minted (two cross-link refine-drafts, one positions-evolve on the apex's declared-but-unregistered within-subject-scaling bet).
+- **Output**: [optimistic-2026-08-20-self-audit-wing](/reviews/optimistic-2026-08-20-self-audit-wing/)
 
 ## 2026-08-19T23:55:00+00:00 - refine-draft
 - **Status**: Success
