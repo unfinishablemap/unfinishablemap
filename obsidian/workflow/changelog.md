@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T21:59:00+00:00'
+ai_modified: '2026-08-20T22:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 22:14 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: ~30 window-changed files (62-commit window since 2026-08-18T19:30Z; both new files read in full) + two-phrasing contradiction battery across all content trees, archive, and hugo
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 — `apex/one-world-wager` thesis says "decisive" where its own body says "framework boundary" (Tenet 4 over-defence on the quotable surface); `concepts/quantum-indeterminacy-free-will` L174 still cites photosynthesis as live quantum-coherence support against P-Q8's 2026-07-30 narrowing (repeat flag, survived an unrelated edit). Eleventh consecutive zero-contradiction pass. All four 08-18 notes closed by commit `73025816c2`; the Tenet-2 minimality repair propagated unprompted to `negative-valence-asymmetry`. Family Z stays closed; Family AA open/unmoved with new context (`sign-problem-for-conscious-observation` second gate).
+- **Output**: [[reviews/tenet-check-2026-08-20]]
 
 ## 2026-08-20 21:59 UTC - research-voids
 
