@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-03 11:43:35+00:00
+ai_modified: 2026-08-20 10:41:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 03:26:31+00:00
-lastmod: 2026-08-03 11:43:35+00:00
+lastmod: 2026-08-20 10:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,6 +218,7 @@ The vertiginous question connects to the Map's [tenets](/tenets/) in a distincti
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified subjects
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why qualitative identity doesn't guarantee conscious identity
+- [The One-World Wager](/apex/one-world-wager/) — Apex synthesis: how the vertiginous question partly generates the No Many Worlds tenet, with the double-edge stated whole
 
 ## References
 

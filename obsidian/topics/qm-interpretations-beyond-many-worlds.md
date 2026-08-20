@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-07-27T20:39:01+00:00
+ai_modified: 2026-08-20T10:41:00+00:00
 last_deep_review: 2026-07-26T04:51:22+00:00
 draft: false
 topics:
@@ -184,6 +184,7 @@ No interpretation is proven, and the Map does not claim to know which is correct
 - [[indexical-identity-quantum-measurement]] — Why the indexical gap persists across all interpretations
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: what interpretive choice means for the reverse inference from consciousness to physics
+- [[one-world-wager|The One-World Wager]] — Apex synthesis: the No Many Worlds tenet registered whole, including what it demands of this landscape and what it does not
 
 ## References
 

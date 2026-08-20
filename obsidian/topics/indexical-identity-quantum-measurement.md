@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-08-20T10:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,6 +184,7 @@ This topic intersects all five tenets:
 - [[vertiginous-question]] — The unchartable territory of why *this* consciousness exists
 - [[egocentric-presentism]] — Hare's monadic *presence*: a one-world metaphysic for why *this* subject is privileged
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
+- [[one-world-wager|The One-World Wager]] — Apex synthesis: why the persistence of the indexical gap disciplines what the No Many Worlds tenet can claim for itself
 
 ## References
 

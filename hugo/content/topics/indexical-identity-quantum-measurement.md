@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-08-20 10:41:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:12:22+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-20 10:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -187,6 +187,7 @@ This topic intersects all five tenets:
 - [vertiginous-question](/topics/vertiginous-question/) — The unchartable territory of why *this* consciousness exists
 - [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's monadic *presence*: a one-world metaphysic for why *this* subject is privileged
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
+- [The One-World Wager](/apex/one-world-wager/) — Apex synthesis: why the persistence of the indexical gap disciplines what the No Many Worlds tenet can claim for itself
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-08-20 10:41:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: 2026-05-10
 last_deep_review: 2026-07-19 13:13:14+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-08-20 10:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -222,6 +222,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The probability crisis in full: the four objections and three recovery strategies
 - [The Many-Minds Interpretation](/topics/many-minds-interpretation/) — Why adding minds to Everett (Albert-Loewer, Lockwood) fails on indexical identity for the same reason MWI does
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for the alternative
+- [The One-World Wager](/apex/one-world-wager/) — Apex synthesis: Tenet 4 registered whole — the honest argument count, the List double-edge, what single-outcome actuality demands, and the symmetric debt
 
 ## References
 

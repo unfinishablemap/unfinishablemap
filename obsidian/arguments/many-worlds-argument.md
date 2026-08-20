@@ -3,7 +3,7 @@ title: "Against Many-Worlds"
 created: 2026-01-15
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-08-20T10:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,6 +219,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [[probability-problem-in-many-worlds]] — The probability crisis in full: the four objections and three recovery strategies
 - [[many-minds-interpretation|The Many-Minds Interpretation]] — Why adding minds to Everett (Albert-Loewer, Lockwood) fails on indexical identity for the same reason MWI does
 - [[interactionist-dualism]] — The positive case for the alternative
+- [[one-world-wager|The One-World Wager]] — Apex synthesis: Tenet 4 registered whole — the honest argument count, the List double-edge, what single-outcome actuality demands, and the symmetric debt
 
 ## References
 

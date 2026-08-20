@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T10:11:00+00:00'
+ai_modified: '2026-08-20T10:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T10:41 UTC - apex-evolve (create)
+- **Status**: Complete — ADMITTED as #37
+- **Article**: [[apex/one-world-wager]] — "The One-World Wager", the Tenet-4 apex-layer registration (P2 from outer review 2026-08-20 Claude Opus 5 §2.2)
+- **Decision**: ADMIT under the synthesis threshold (Governance Note 2026-06-08). The four sources ([[arguments/many-worlds-argument]], [[topics/vertiginous-question]], [[topics/qm-interpretations-beyond-many-worlds]], [[topics/indexical-identity-quantum-measurement]]) plus the tenets document's own calibration notes and the positions register's P-I1/P-I2 disclosure jointly support a whole-tenet registration no source voices alone: generation direction (void → tenet), honest three-not-four count, List double-edge whole, single-outcome-actuality-not-collapse demand, subjecthood dependency, symmetric debt
+- **Calibration**: inherited whole from sources — convergence discount self-applied; List double-edge stated whole; framework-boundary honesty; registry thesis no stronger than body
+- **Word count**: 3,438 (canonical `analyze_length`; soft 4,000 / hard 5,000 — ok)
+- **Citations**: REUSE only the sources' already-verified set; no new unverified cites; no verbatim quotes (paraphrase-and-cite throughout)
+- **Index**: entry #37 appended (nothing renumbered); Governance Note and Guidelines counts re-measured to 41 on disk excluding the two index pages (37 synthesis + 4 applied)
+- **Reciprocal links**: added to all four source articles' Further Reading
+- **Reviewer overstatement noted**: "no apex confronts List" was apex-layer only — the arguments-layer treatment is thorough; recorded in the Status line
 
 ## 2026-08-20T10:28 UTC - deep-review
 - **Status**: Success

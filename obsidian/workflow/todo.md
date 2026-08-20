@@ -43,14 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P2: Tenet 4 has no apex-layer synthesis — the anti-MWI case, including the List 2023 engagement, lives in arguments/ and topics/ only
-- **Type**: apex-evolve
-- **File**: obsidian/arguments/many-worlds-argument.md
-- **Notes**: From outer review 2026-08-20 (Claude Opus 5) §2.2 — the structural finding that survives verification cleanly. Grep-verified: no `apex/` article is dedicated to Tenet 4 (No Many Worlds); many-worlds appears in apex bodies only incidentally. The heavy lifting already exists: `arguments/many-worlds-argument` (post-2026-08-17) runs seven engagements including List 2023's first-personally-centred worlds as "the hardest target" (handled as framework-boundary marking, with the separate modal-realism rejection carrying the weight) and self-applies the convergence discount (three independent arguments, not four); `topics/vertiginous-question` carries the double-edge. What is missing is apex-tier registration: the registry's own constitutional commitment with the most contested status has no synthesis entry. Evaluate admitting a Tenet-4 apex under the synthesis threshold — synthesising `arguments/many-worlds-argument`, `topics/vertiginous-question`, `topics/qm-interpretations-beyond-many-worlds`, `topics/indexical-identity-quantum-measurement` — with the List double-edge stated whole. If admission is DECLINED (e.g. the arguments-layer treatment is judged the right tier), record the decision and reason in the index's Audit Notes so the gap reads as a decision rather than an omission. NOTE for the executor: the reviewer overstated the gap ("no apex confronts List or discharges Tenet 4" as if unaddressed corpus-wide) — the arguments-layer treatment is thorough; this task is about apex-layer registration only.
-- **Review file**: `reviews/outer-review-2026-08-20-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P2: `apex/attention-as-causal-bridge` models attention as a discrete selector without engaging the amplification-not-selection rival (Fazekas & Nanay)
 - **Type**: refine-draft
 - **File**: obsidian/apex/attention-as-causal-bridge.md
@@ -2805,6 +2797,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: Tenet 4 has no apex-layer synthesis — the anti-MWI case, including the List 2023 engagement, lives in arguments/ and topics/ only
+- **Type**: apex-evolve
+- **File**: obsidian/arguments/many-worlds-argument.md
+- **Notes**: From outer review 2026-08-20 (Claude Opus 5) §2.2 — the structural finding that survives verification cleanly. Grep-verified: no `apex/` article is dedicated to Tenet 4 (No Many Worlds); many-worlds appears in apex bodies only incidentally. The heavy lifting already exists: `arguments/many-worlds-argument` (post-2026-08-17) runs seven engagements including List 2023's first-personally-centred worlds as "the hardest target" (handled as framework-boundary marking, with the separate modal-realism rejection carrying the weight) and self-applies the convergence discount (three independent arguments, not four); `topics/vertiginous-question` carries the double-edge. What is missing is apex-tier registration: the registry's own constitutional commitment with the most contested status has no synthesis entry. Evaluate admitting a Tenet-4 apex under the synthesis threshold — synthesising `arguments/many-worlds-argument`, `topics/vertiginous-question`, `topics/qm-interpretations-beyond-many-worlds`, `topics/indexical-identity-quantum-measurement` — with the List double-edge stated whole. If admission is DECLINED (e.g. the arguments-layer treatment is judged the right tier), record the decision and reason in the index's Audit Notes so the gap reads as a decision rather than an omission. NOTE for the executor: the reviewer overstated the gap ("no apex confronts List or discharges Tenet 4" as if unaddressed corpus-wide) — the arguments-layer treatment is thorough; this task is about apex-layer registration only.
 
 ### ✓ 2026-08-20: `topics/consciousness-in-smeared-quantum-states` L120 calls Stapp's model "the most explicit implementation" of the Map's outcome-biasing tenet — the exact move Stapp's primary texts decline and the Map's own apex and register say he declined
 - **Type**: refine-draft

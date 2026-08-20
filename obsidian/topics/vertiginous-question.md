@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-08-03T11:43:35+00:00
+ai_modified: 2026-08-20T10:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -215,6 +215,7 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 - [[combination-problem]] — How micro-experiences combine into unified subjects
 - [[personal-identity]] — What makes you the same person over time
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
+- [[one-world-wager|The One-World Wager]] — Apex synthesis: how the vertiginous question partly generates the No Many Worlds tenet, with the double-edge stated whole
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-07-27 20:39:01+00:00
+ai_modified: 2026-08-20 10:41:00+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 04:51:22+00:00
-lastmod: 2026-07-27 20:39:01+00:00
+lastmod: 2026-08-20 10:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,6 +188,7 @@ No interpretation is proven, and the Map does not claim to know which is correct
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why the indexical gap persists across all interpretations
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the explanatory target
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: what interpretive choice means for the reverse inference from consciousness to physics
+- [The One-World Wager](/apex/one-world-wager/) — Apex synthesis: the No Many Worlds tenet registered whole, including what it demands of this landscape and what it does not
 
 ## References
 
