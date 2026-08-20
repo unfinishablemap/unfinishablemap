@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-20T07:27 UTC - deep-review
+- **Status**: Success
+- **File**: [instrumental-convergence](/topics/instrumental-convergence/)
+- **Word count**: 2546 → 2579 (+33)
+- **Critical issues addressed**: 2 (CIRL attribution over-gloss: "deference, and information-seeking" is not the CIRL paper's list — restored the paper's own "active teaching, active learning, and communicative actions" and moved deference to the Off-Switch Game sentence where it belongs; dropped qualifier on the off-switch result — the paper's "except in the special case where H is perfectly rational" restored)
+- **Medium issues addressed**: 0 (two reference-venue upgrades: Turner & Tadepalli 2022 + NeurIPS 2022; Schlatter et al. + TMLR 2026, v2 2026-01-26)
+- **Enhancements made**: 2 (venue upgrades above); reading-fidelity pass at raw primary text: Bostrom 2012 orthogonality quote grep-verified verbatim in the raw PDF; Turner 2021 theorem gloss, Müller–Cannon contrapositive rendering, and off-switch "only if uncertain" gloss all verified faithful. Both defects traced to the origin research note [instrumental-convergence-2026-06-24](/research/instrumental-convergence-2026-06-24/) — fixed there too with dated corrections. Engagement classifications unchanged: Müller & Cannon — Mode Three reported-debate; convergence-to-takeover inference — Mode Two domain-restriction, scope-limit paragraph intact. Third pass, monotonically shrinking findings — treat as converged.
+- **Output**: [deep-review-2026-08-20-instrumental-convergence](/reviews/deep-review-2026-08-20-instrumental-convergence/)
+
 ## 2026-08-20T07:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [recursion-void](/voids/recursion-void/)

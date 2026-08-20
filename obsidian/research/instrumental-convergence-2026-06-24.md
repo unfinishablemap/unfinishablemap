@@ -1,6 +1,8 @@
 ---
 title: "Research Notes - Instrumental Convergence"
 created: 2026-06-24
+modified: 2026-08-20
+ai_modified: 2026-08-20T07:31:00+00:00
 draft: false
 description: "Research note on Bostrom's orthogonality thesis and instrumental convergence theorem, the canonical convergent instrumental goals, mesa-optimisation, Russell's deference/CIRL, the deep-uncertainty corrective, and the Map's dualist-underdetermination angle. Feeds a downstream expand-topic for topics/instrumental-convergence.md."
 topics:
@@ -17,7 +19,7 @@ related_articles:
   - topics/purpose-and-alignment
   - topics/ai-consciousness
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-06-24
 last_curated: null
 last_deep_review: null
@@ -85,14 +87,14 @@ Instrumental convergence is the thesis that a wide range of final goals, held by
 - **Type**: Conference paper (NeurIPS / NIPS 2016)
 - **Key points**:
   - Formalises value alignment as **CIRL**: a cooperative, partial-information game between a human and a robot, *both* rewarded by the human's reward function — but the robot does not initially know it and must learn it through interaction.
-  - Optimal CIRL solutions yield active teaching, active learning, deference, and information-seeking rather than blind optimisation of a fixed proxy.
+  - Optimal CIRL solutions yield active teaching, active learning, and communicative actions rather than blind optimisation of a fixed proxy. *(Correction 2026-08-20: an earlier version of this bullet listed "deference, and information-seeking" among CIRL's behaviours; the paper's own list — re-verified at the raw arXiv abstract — is "active teaching, active learning, and communicative actions". Deference is the Off-Switch Game's result, below.)*
 - **Tenet alignment**: Compatible with the Map's deference angle. CIRL keeps uncertainty about *what humans want*; the Map adds uncertainty about *what your actions do to the system that supports them* (mind-arena underdetermination).
 
 ### The Off-Switch Game (Hadfield-Menell, Dragan, Abbeel, Russell 2017)
 - **URL**: https://www.ijcai.org/proceedings/2017/0032.pdf ; arXiv:1611.08219
 - **Type**: Conference paper (*Proc. IJCAI-17*, pp. 220–227)
 - **Key points**:
-  - Formalises **corrigibility / shutdown**: an agent will rationally permit itself to be switched off *only if* it is uncertain about its own utility and treats the human's shutdown action as evidence about that utility. A fixed-objective agent has an incentive to disable its off-switch (self-preservation, an instrumentally convergent drive).
+  - Formalises **corrigibility / shutdown**: an agent will rationally permit itself to be switched off *only if* it is uncertain about its own utility and treats the human's shutdown action as evidence about that utility. A fixed-objective agent has an incentive to disable its off-switch (self-preservation, an instrumentally convergent drive) — except, per the paper's own abstract, in the special case where the human is perfectly rational. *(Qualifier added 2026-08-20 after re-verification at the raw arXiv abstract.)*
 - **Tenet alignment**: Compatible; the key result (uncertainty → corrigibility) is the formal precedent the Map extends via metaphysical underdetermination.
 
 ### Human Compatible (Russell 2019)

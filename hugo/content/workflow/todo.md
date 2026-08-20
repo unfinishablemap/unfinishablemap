@@ -51,14 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P1: `voids/recursion-void` attributes a verbatim Redshaw 2024 sentence to Stiller & Dunbar 2007
-- **Type**: refine-draft
-- **File**: obsidian/voids/recursion-void.md
-- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing. The quote "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained" (line 44) appears verbatim — followed by "per se" — in Redshaw, J. (2024), "The recursive grammar of mental time travel," Phil. Trans. R. Soc. B 379:20230412, DOI 10.1098/rstb.2023.0412 (PMC11606512), inside Redshaw's own worked example about combined mental-time-travel/theory-of-mind instances; Redshaw nowhere cites Stiller, resolving the direction of borrowing. Reassign the quote to Redshaw 2024 and add the reference entry; keep Stiller & Dunbar (2007) only for what their paper shows (perspective-taking and memory capacity predict social-network size). While in the file, separate the constructs the surrounding paragraph runs together: theory-of-mind order, temporal/mental-time-travel recursion, and syntactic embedding — a fifth-order ToM limit is not automatically a syntactic-recursion ceiling. After fixing, grep obsidian/, hugo/, and archive/ for the misattributed span (defect sweeps must include the archive tree) and sync.
-- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P1: `apex/apex-articles` index: convergent stale-thesis and registry-drift defects — 12-item consolidated pass
 - **Type**: refine-draft
 - **File**: obsidian/apex/apex-articles.md
@@ -2863,6 +2855,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `voids/recursion-void` attributes a verbatim Redshaw 2024 sentence to Stiller & Dunbar 2007
+- **Type**: refine-draft
+- **File**: obsidian/voids/recursion-void.md
+- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing. The quote "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained" (line 44) appears verbatim — followed by "per se" — in Redshaw, J. (2024), "The recursive grammar of mental time travel," Phil. Trans. R. Soc. B 379:20230412, DOI 10.1098/rstb.2023.0412 (PMC11606512), inside Redshaw's own worked example about combined mental-time-travel/theory-of-mind instances; Redshaw nowhere cites Stiller, resolving the direction of borrowing. Reassign the quote to Redshaw 2024 and add the reference entry; keep Stiller & Dunbar (2007) only for what their paper shows (perspective-taking and memory capacity predict social-network size). While in the file, separate the constructs the surrounding paragraph runs together: theory-of-mind order, temporal/mental-time-travel recursion, and syntactic embedding — a fifth-order ToM limit is not automatically a syntactic-recursion ceiling. After fixing, grep obsidian/, hugo/, and archive/ for the misattributed span (defect sweeps must include the archive tree) and sync.
 
 ### ✓ 2026-08-20: `topics/language-recursion-and-consciousness` inverts Vadillo et al. 2026 — the "decisive demonstrations are lacking" span is the abstract's opening premise, not its conclusion
 - **Type**: refine-draft
