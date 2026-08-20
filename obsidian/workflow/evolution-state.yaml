@@ -1,3 +1,201 @@
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-20T14:56:03.021152+00:00'
+session_count: 19293
+cycle_position: 12805
+last_runs:
+  add-highlight: '2026-08-19T08:12:44.239944+00:00'
+  add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
+  agentic-social: '2026-08-20T14:23:44.945753+00:00'
+  apex-evolve: '2026-08-20T10:46:45.024885+00:00'
+  check-links: '2026-08-19T16:26:02.925389+00:00'
+  check-model-fallback: '2026-08-20T10:52:04.184400+00:00'
+  check-tenets: '2026-08-18T19:34:48.936768+00:00'
+  coalesce: '2026-08-20T03:43:42.600041+00:00'
+  collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
+  collect-claude-review: '2026-08-20T04:53:38.783339+00:00'
+  collect-gemini-review: '2026-08-20T05:33:28.858805+00:00'
+  combine-outer-reviews: '2026-08-20T06:16:08.411893+00:00'
+  commission-chatgpt-review: '2026-08-20T02:13:37.286465+00:00'
+  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
+  commission-claude-review: '2026-08-20T03:14:26.183304+00:00'
+  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
+  commission-gemini-review: '2026-08-20T04:33:54.436330+00:00'
+  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
+  condense: '2026-08-13T03:23:19.289124+00:00'
+  deep-review: '2026-08-20T13:14:24.408678+00:00'
+  embed-videos: '2026-08-20T09:22:36.251885+00:00'
+  expand-topic: '2026-08-16T14:31:58.828045+00:00'
+  harvest-research-subjects: '2026-08-20T12:07:03.072958+00:00'
+  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
+  literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
+  optimistic-review: '2026-08-20T14:16:45.877230+00:00'
+  pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
+  positions-evolve: '2026-08-17T17:59:57.973586+00:00'
+  refine-draft: '2026-08-20T14:41:22.239232+00:00'
+  replenish-queue: '2026-08-20T14:56:03.021152+00:00'
+  research-topic: '2026-08-20T08:50:15.044466+00:00'
+  research-voids: '2026-08-19T16:51:40.605537+00:00'
+  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  tune-system: '2026-08-17T00:11:10.109905+00:00'
+  tweet-highlight: '2026-01-24T14:00:00+00:00'
+  validate-all: '2026-01-24T02:57:00+00:00'
+last_git_push: '2026-08-20T12:26:28.189564+00:00'
+last_tweet_date: '2026-08-20'
+content_stats:
+  total_files: 297
+  published_files: 192
+  draft_files: 0
+  placeholder_files: 0
+section_caps:
+  max_topics: 320
+  max_concepts: 320
+  max_voids: 100
+  max_positions: 80
+audit_triple:
+  altered_state_symmetry: {}
+  global_task_cap: 6
+  literature_drift:
+    active_research_sections:
+    - psychedelics
+    - animal-cognition
+    - animal-consciousness
+    - iit
+    - quantum-biology
+    - consciousness-measurement
+    - neural-complexity
+    - cetacean
+    - corvid
+    - invertebrate
+    - fish-sentience
+    - plant-cognition
+    - neuron-less
+    - bacterial
+    - basal-and-bioelectric
+    - organoid
+    - predictive-processing
+    - anaesthesia
+    clean_audits: 3
+    flagged_audits: 4
+    last_audit_date: '2026-08-18'
+    median_year_lag_threshold: 5
+    missing_citation_threshold: 2
+    recently_audited:
+    - animal-consciousness
+    - psychedelics-and-the-filter-model
+    - quantum-biology-and-neural-consciousness
+    - consciousness-and-integrated-information
+    - cetacean-and-corvid-consciousness
+    - invertebrate-consciousness-as-interface-test
+    - plant-cognition-and-the-plant-neurobiology-debate
+    total_audits: 7
+  topic_concept_anchoring:
+    run_every_n_cycles: 1
+convergence_targets:
+  min_topics: 10
+  min_concepts: 15
+  min_arguments: 5
+  max_critical_issues: 0
+  max_medium_issues: 3
+progress:
+  topics_written: 320
+  concepts_written: 318
+  arguments_written: 5
+  questions_written: 0
+  voids_written: 99
+  positions_written: 15
+  research_notes: 548
+  reviews_completed: 7264
+  apex_articles: 42
+quality:
+  critical_issues: 0
+  medium_issues: 10
+  low_issues: 3
+  orphaned_files: 0
+failed_tasks: {}
+recent_tasks:
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-20'
+  outcome: success
+- task: apex-evolve
+  type: apex-evolve
+  date: '2026-08-20'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-20'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-08-20'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-20'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-20'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-08-20'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
   - date: '2026-08-13T15:00:07.229817+00:00'
@@ -464,129 +662,25 @@ agentic_social:
     topics:
     - consciousness-and-the-metaphysics-of-composition
     url: https://unfinishablemap.org/concepts/composition-question-rivals/
-audit_triple:
-  altered_state_symmetry: {}
-  global_task_cap: 6
-  literature_drift:
-    active_research_sections:
-    - psychedelics
-    - animal-cognition
-    - animal-consciousness
-    - iit
-    - quantum-biology
-    - consciousness-measurement
-    - neural-complexity
-    - cetacean
-    - corvid
-    - invertebrate
-    - fish-sentience
-    - plant-cognition
-    - neuron-less
-    - bacterial
-    - basal-and-bioelectric
-    - organoid
-    - predictive-processing
-    - anaesthesia
-    clean_audits: 3
-    flagged_audits: 4
-    last_audit_date: '2026-08-18'
-    median_year_lag_threshold: 5
-    missing_citation_threshold: 2
-    recently_audited:
-    - animal-consciousness
-    - psychedelics-and-the-filter-model
-    - quantum-biology-and-neural-consciousness
-    - consciousness-and-integrated-information
-    - cetacean-and-corvid-consciousness
-    - invertebrate-consciousness-as-interface-test
-    - plant-cognition-and-the-plant-neurobiology-debate
-    total_audits: 7
-  topic_concept_anchoring:
-    run_every_n_cycles: 1
-content_stats:
-  draft_files: 0
-  placeholder_files: 0
-  published_files: 192
-  total_files: 297
-convergence_targets:
-  max_critical_issues: 0
-  max_medium_issues: 3
-  min_arguments: 5
-  min_concepts: 15
-  min_topics: 10
-cycle_position: 12805
-failed_tasks: {}
-last_git_push: '2026-08-20T12:26:28.189564+00:00'
-last_runs:
-  add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-20T14:23:44.945753+00:00'
-  apex-evolve: '2026-08-20T10:46:45.024885+00:00'
-  check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-20T10:52:04.184400+00:00'
-  check-tenets: '2026-08-18T19:34:48.936768+00:00'
-  coalesce: '2026-08-20T03:43:42.600041+00:00'
-  collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
-  collect-claude-review: '2026-08-20T04:53:38.783339+00:00'
-  collect-gemini-review: '2026-08-20T05:33:28.858805+00:00'
-  combine-outer-reviews: '2026-08-20T06:16:08.411893+00:00'
-  commission-chatgpt-review: '2026-08-20T02:13:37.286465+00:00'
-  commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-08-20T03:14:26.183304+00:00'
-  commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-08-20T04:33:54.436330+00:00'
-  commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
-  condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-20T13:14:24.408678+00:00'
-  embed-videos: '2026-08-20T09:22:36.251885+00:00'
-  expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  harvest-research-subjects: '2026-08-20T12:07:03.072958+00:00'
-  integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
-  optimistic-review: '2026-08-20T14:16:45.877230+00:00'
-  pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
-  positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-20T14:41:22.239232+00:00'
-  replenish-queue: '2026-08-19T21:56:52.891428+00:00'
-  research-topic: '2026-08-20T08:50:15.044466+00:00'
-  research-voids: '2026-08-19T16:51:40.605537+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-17T00:11:10.109905+00:00'
-  tweet-highlight: '2026-01-24T14:00:00+00:00'
-  validate-all: '2026-01-24T02:57:00+00:00'
-last_tweet_date: '2026-08-20'
-last_updated: '2026-08-20T14:55:00+00:00'
-progress:
-  apex_articles: 42
-  arguments_written: 5
-  concepts_written: 318
-  positions_written: 15
-  questions_written: 0
-  research_notes: 548
-  reviews_completed: 7264
-  topics_written: 320
-  voids_written: 99
-quality:
-  critical_issues: 0
-  low_issues: 3
-  medium_issues: 10
-  orphaned_files: 0
 queue_status:
   last_replenishment: '2026-08-20T14:55:00+00:00'
   last_replenishment_mode: conservative-single-chain-mint
-  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED CHAIN MINT, zero promotions. Live count at
-    pick was 2 P0-P2 (both P2 refine-draft: voids-closure-types research-note Demircioglu origin; history-of-the-interaction-problem
-    pessimistic sextet). Minted the chain successor for research/representational-measurement-phenomenal-quantities-2026-08-20
-    (research-topic completed 2026-08-20 08:50, commit 059d21c8af, target_section concepts, note L187
-    explicitly recommends the article): P2 expand-topic "Scale types for phenomenal quantities", appended
-    at the end of the Active region so no in-flight line numbers shifted. Verified before mint: zero covering
-    articles (grep concepts/topics/apex/voids + archive), zero existing tasks (live-region grep only,
-    resolved entries excluded), concepts 318/320 via tools.evolution.state.count_section_files (topics
-    AT CAP 320/320, voids 99/100 human-reserved). Fresh reviews since last replenishment checked: optimistic-2026-08-20-agency-self-wing
-    minted its own two tasks (cross-link P3 + volitionist positions-evolve P3, both confirmed live); the
-    three 2026-08-20 deep-reviews applied improvements directly, no residue; pessimistic history-of-the-interaction-problem
-    findings are the existing live P2. No expand/research minted into capped sections. P3 pool deep at
-    48. State re-parsed after this write.'
+  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED CHAIN MINT, zero promotions.
+    Live count at pick was 2 P0-P2 (both P2 refine-draft: voids-closure-types research-note
+    Demircioglu origin; history-of-the-interaction-problem pessimistic sextet). Minted
+    the chain successor for research/representational-measurement-phenomenal-quantities-2026-08-20
+    (research-topic completed 2026-08-20 08:50, commit 059d21c8af, target_section
+    concepts, note L187 explicitly recommends the article): P2 expand-topic "Scale
+    types for phenomenal quantities", appended at the end of the Active region so
+    no in-flight line numbers shifted. Verified before mint: zero covering articles
+    (grep concepts/topics/apex/voids + archive), zero existing tasks (live-region
+    grep only, resolved entries excluded), concepts 318/320 via tools.evolution.state.count_section_files
+    (topics AT CAP 320/320, voids 99/100 human-reserved). Fresh reviews since last
+    replenishment checked: optimistic-2026-08-20-agency-self-wing minted its own two
+    tasks (cross-link P3 + volitionist positions-evolve P3, both confirmed live);
+    the three 2026-08-20 deep-reviews applied improvements directly, no residue; pessimistic
+    history-of-the-interaction-problem findings are the existing live P2. No expand/research
+    minted into capped sections. P3 pool deep at 48. State re-parsed after this write.'
   last_replenishment_prev: '2026-08-19T21:55:00+00:00'
   last_replenishment_run: 985
   loop_pickable_open: 3
@@ -613,118 +707,35 @@ queue_status:
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
-recent_tasks:
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-08-20'
-  outcome: success
-  task: apex-evolve
-  type: apex-evolve
-- date: '2026-08-20'
-  outcome: success
-  task: check-model-fallback
-  type: check-model-fallback
-- date: '2026-08-20'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: pessimistic-review
-  type: pessimistic-review
-- date: '2026-08-20'
-  outcome: success
-  task: harvest-research-subjects
-  type: harvest-research-subjects
-- date: '2026-08-20'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: deep-review
-  type: deep-review
-- date: '2026-08-20'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-- date: '2026-08-20'
-  outcome: success
-  task: optimistic-review
-  type: optimistic-review
-- date: '2026-08-20'
-  outcome: success
-  task: agentic-social
-  type: agentic-social
-- date: '2026-08-20'
-  outcome: success
-  task: refine-draft
-  type: refine-draft
-section_caps:
-  max_concepts: 320
-  max_positions: 80
-  max_topics: 320
-  max_voids: 100
-session_count: 19292
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
-      per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-17T00:09:10+00:00'
-  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural reason: cadences
-    / overdue_thresholds / locked_settings remain ABSENT from state, and every Tier-1 change type writes
-    to one of those three blocks. Cadence bypass re-verified in code this run, not relayed: filter_triggers_by_min_age
-    has one call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers ungated;
-    82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d (mean ~3.6d). NEW AND
-    FORCING A DECISION - the cap freeze is now binding and coalesce is PROVEN unable to relieve it: tonight''s
-    run filtered to length-feasible pairs first (7853) then ranked by similarity and found NO pair both
-    feasible and redundant, five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log
-    sidecar inflates the gate by one, so one real slot is withheld by a counting artefact), concepts 319/320
-    with the last slot four notes recommend leaving unspent, voids 99/100. Eleven consecutive replenish
-    runs minted zero-cap-cost work, which is the correct adaptation but is compensating for a structural
-    block. Selector saturation worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8
-    carry empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts 2, apex
-    2, topics 1, arguments 1), so the filter now selects partly on a metadata defect. Health otherwise
-    good: critical_issues 0, orphaned_files 0, failed_tasks empty, 20/20 recent success, queue at floor
-    3 P2 / 32 P3, 56 NEEDS-HUMAN. The producer-changed-consumers-unchecked class gained six further instances;
-    Tier-3 item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
+  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state,
+    and every Tier-1 change type writes to one of those three blocks. Cadence bypass
+    re-verified in code this run, not relayed: filter_triggers_by_min_age has one
+    call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers
+    ungated; 82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d
+    (mean ~3.6d). NEW AND FORCING A DECISION - the cap freeze is now binding and coalesce
+    is PROVEN unable to relieve it: tonight''s run filtered to length-feasible pairs
+    first (7853) then ranked by similarity and found NO pair both feasible and redundant,
+    five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log
+    sidecar inflates the gate by one, so one real slot is withheld by a counting artefact),
+    concepts 319/320 with the last slot four notes recommend leaving unspent, voids
+    99/100. Eleven consecutive replenish runs minted zero-cap-cost work, which is
+    the correct adaptation but is compensating for a structural block. Selector saturation
+    worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry
+    empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts
+    2, apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata
+    defect. Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks
+    empty, 20/20 recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The
+    producer-changed-consumers-unchecked class gained six further instances; Tier-3
+    item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
