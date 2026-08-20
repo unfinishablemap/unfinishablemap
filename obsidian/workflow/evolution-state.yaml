@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-20T16:33:15.136423+00:00'
-session_count: 19299
+last_updated: '2026-08-20T16:41:57.783301+00:00'
+session_count: 19300
 cycle_position: 12808
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-20T15:37:50.692807+00:00'
+  agentic-social: '2026-08-20T16:41:57.783301+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-20T15:06:57.000026+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-20'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-08-20'
@@ -196,6 +192,10 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-20'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-08-20'
+  outcome: failed
 agentic_social:
   recently_posted:
   - date: '2026-08-13T15:55:48.659747+00:00'
@@ -667,46 +667,48 @@ agentic_social:
     - phenomenology-of-memory-and-the-self
     - phenomenal-authority-and-first-person-evidence
 queue_status:
-  last_replenishment: '2026-08-20T15:56:00+00:00'
-  last_replenishment_mode: conservative-single-promotion
-  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED PROMOTION, zero fresh mints.
-    Live count at pick was 2 pickable P0-P2 (P2 refine-draft history-of-the-interaction-problem,
-    in flight with a sibling agent; P2 expand-topic scale types for phenomenal quantities).
-    The three condense P2s carry human veto tags and were excluded from the pickable
-    count, as last run. Residue audit since 14:55 came back empty: the 15:42 refine-draft
-    (commit 22e33470d6) closed the Demircioglu research-note origin with no successor;
-    all four 2026-08-20 deep-review files state no tasks queued (grep-verified in
-    each); report-latency research note is consumed_by affective-forecasting-gap with
-    its two deliberate non-folds still governed (edge-states human length decision;
-    erasure-void deferred behind the olfactory fold); positions/ greps clean for all
-    five recently-changed slugs; pending_articles and pending_cross_reviews both empty.
-    Action: promoted the olfactory-void fold task (todo L2667) P3 to P2 in place,
-    header and Notes-line edits only so the line count is unchanged and the two in-flight
-    tasks below it (L2747, L2779) keep their line numbers. Rationale: the fold ships
-    already-completed research at zero cap cost and is the named blocker of the deferred
-    erasure-void report-latency fold. Host pileup re-checked at promotion: no live
-    P0-P2 File line names any fold host. P3 pool 47 after promotion. State re-parsed
-    after this write.'
-  last_replenishment_prev: '2026-08-20T14:55:00+00:00'
-  last_replenishment_run: 986
+  last_replenishment: '2026-08-20T16:56:00+00:00'
+  last_replenishment_mode: conservative-single-chain-mint
+  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED CHAIN MINT, zero speculative
+    tasks. Live count at pick was 2 pickable P0-P2 (P2 refine-draft history-of-the-interaction-problem
+    at todo L2738, still open and possibly in flight with a sibling agent; P2 expand-topic
+    scale types for phenomenal quantities at L2770). The three condense P2s carry
+    human veto tags and were excluded from the pickable count, as the last two runs.
+    Residue audit since 15:56: the 16:16 deep-review of thermal-consciousness-and-the-interface
+    self-closed its one critical finding including the confabulation origin in the
+    2026-06-21 research note, no successor owed; the 16:31 olfactory fold (commit
+    0113b28bc5) consumed its research note with governed skips only (synesthetic-void
+    human-length-parked, Lawless-Engen and Weiss unverified at paper). That landing
+    discharged the named deferral in the report-latency note, which pre-licensed a
+    pointer-only one-sentence fold into erasure-void once the olfactory task landed.
+    Action: minted exactly that successor as P2 refine-draft at todo L2778, appended
+    below the two live P2s so their line numbers are unchanged. Pre-flight at mint:
+    erasure-void measured 2670w soft_warning vs the 3000 voids hard ceiling; zero
+    Active-region File lines name the path; positions/ greps clean for all six slugs
+    changed since 15:56. A first insert attempt matched a Completed-Tasks string inside
+    the volitional-control needs-human note and split that line; repaired in the same
+    session, severed line grep-verified restored, diff confirmed 8 pure insertions.
+    P3 pool 47. State re-parsed after this write.'
+  last_replenishment_prev: '2026-08-20T15:56:00+00:00'
+  last_replenishment_run: 987
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
   p3_tasks: 47
-  promoted_p3_to_p2: 1
+  promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
-    chain: 0
+    chain: 1
     deferred_residue_capture: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions_dependency_changed: 0
     positions_register_gap: 0
-    promotion_existing_p3: 1
+    promotion_existing_p3: 0
     staleness: 0
     unconsumed_research: 0
     verified_residue_mint: 0
