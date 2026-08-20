@@ -335,3 +335,39 @@
   subject_articles:
   - apex/apex-articles.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/2204e52909b18ebd
+  commissioned_at: '2026-08-20T04:33:04.272246+00:00'
+  prompt_summary: 'Hostile referee audit: apex-articles index (mod 2026-08-13)'
+  target_filename: outer-review-2026-08-20-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese) reviewing this article for submission. Your remit is\
+    \ to identify weaknesses that would justify rejection or major revision. The article\
+    \ is at https://unfinishablemap.org/apex/apex-articles/ \u2014 an index stating\
+    \ the central thesis of each of the site's synthesis articles; the site (https://unfinishablemap.org)\
+    \ argues for a non-reductive view of consciousness. Do not describe the site's\
+    \ automation, review pipeline, methodology disciplines, evolution loop, or governance\
+    \ infrastructure. Those are project-internal and not the subject of audit. Assess\
+    \ only the article's empirical claims, citations, counterargument coverage, and\
+    \ logical inferences. Audit the stated theses for empirical accuracy against the\
+    \ 2020s literature; reliance on challenged, retracted, or unreplicated results;\
+    \ framings that bracket the site's commitments rather than argue for them; and\
+    \ untested counterarguments or competing frameworks. Search indexes lag 24-48\
+    \ hours; consult https://unfinishablemap.org/workflow/changelog/ before judging\
+    \ anything absent or stale. End with at least five specific weaknesses. For each,\
+    \ cite at least one peer-reviewed source from 2020-2025 that the article omits,\
+    \ contradicts, or mishandles. If you cannot find five weaknesses, state explicitly\
+    \ why none are visible \u2014 but the default expectation is that a careful pre-publication\
+    \ audit of a contemporary topic will find five. Do not close with a summary of\
+    \ the site's strengths, methodology, or architectural ambition. The report ends\
+    \ with the weaknesses list and a one-sentence verdict on whether the article is\
+    \ ready for academic submission."
+  subject_type: recent
+  subject_title: Audit apex-articles
+  subject_articles:
+  - apex/apex-articles.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
