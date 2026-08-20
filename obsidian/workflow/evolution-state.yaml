@@ -1,16 +1,12 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T06:30:56.360393+00:00'
-session_count: 19260
+last_updated: '2026-08-20T06:37:08.129243+00:00'
+session_count: 19261
 cycle_position: 12786
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-20T05:58:58.933416+00:00'
+  agentic-social: '2026-08-20T06:58:03.214573+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-20T02:22:16.078604+00:00'
+  check-model-fallback: '2026-08-20T06:37:08.129243+00:00'
   check-tenets: '2026-08-18T19:34:48.936768+00:00'
   coalesce: '2026-08-20T03:43:42.600041+00:00'
   collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-20'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-20'
@@ -195,21 +187,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-20'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T06:00:09.552953+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - mysterianism
-    - phenomenology
-    - introspection
-    - explanatory-gap
-    url: https://unfinishablemap.org/concepts/apophatic-approaches/
-  - date: '2026-08-13T06:57:39.269477+00:00'
-    topics:
-    - philosophy-of-mind
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/voids/mutation-void/
   - date: '2026-08-13T07:58:13.374345+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -663,6 +646,14 @@ agentic_social:
     - hard-problem-of-consciousness
     - psychedelics-and-the-filter-model
     - personal-identity
+  - url: https://unfinishablemap.org/topics/leibnizs-mill-argument/
+    date: '2026-08-20T06:56:33.329366+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/leibnizs-mill-argument/
+    date: '2026-08-20T06:58:03.214507+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
