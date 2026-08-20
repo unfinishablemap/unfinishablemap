@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T14:20:00+00:00'
+ai_modified: '2026-08-20T14:38:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T14:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Original score**: n/a (targeted citation-fidelity fix; scripts/curate.py review unavailable)
+- **Changes**: L119 asserted uncited as flat fact "Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage" — the ~300/~100 pair verified ABSENT from Haggard 2008 full text (2026-08-19 session base; it is the Müller & Rabbitt 1989 voluntary-vs-reflexive *attention* deployment contrast conflated with motor commitment timing). String-sibling of the 2026-08-19 `topics/authentic-vs-inauthentic-choice` L140 fix. Replaced with the corrected corpus statement: neural populations commit to a selected action ~280ms before movement onset (Thura & Cisek, 2014) plus willed attention's relative frontal theta increase over instructed attention (Rajan et al., 2019), hedged as "consistent with … though they do not by themselves establish it" per the calibrated model in `concepts/motor-selection` and `topics/authentic-vs-inauthentic-choice`. Added both reference entries (sweep-verified tuples: *Neuron* 81(6), 1401-1416; *Cerebral Cortex* 29(7), 2832-2843). Paragraph's Desmurget dissociation and selection-interface point kept intact; the open L109/description "evidence" axis deliberately untouched (collision-flagged separate task). ARCHIVE DECISION (task asked for an explicit flag, not a silent skip): `archive/concepts/phenomenology-of-choice.md` carried the same false pair at its preserved URL, which serves the full body to machine consumers (noindex does not suppress that surface) — FIXED it too, same corrected statement + Thura & Cisek reference; its ai_system already ends in claude-fable-5 so no append. Both trees synced; post-fix `grep -rlF "~100ms for instructed movements" obsidian/ hugo/content/ archive/` hits only workflow todo files. ai_system on the live article claude-opus-4-6 → claude-opus-4-6+claude-fable-5; `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-08-20T14:20 UTC - optimistic-review
 - **Status**: Success

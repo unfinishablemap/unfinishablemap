@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-12 22:47:00+00:00
+ai_modified: 2026-08-20 14:38:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Phenomenology of Choice and Volition
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-04 23:17:00+00:00
-lastmod: 2026-08-12 22:47:00+00:00
+lastmod: 2026-08-20 14:38:43+00:00
 modified: *id001
 original_path: /concepts/phenomenology-of-choice/
 related_articles:
@@ -120,7 +120,7 @@ The core argument, however, does not depend on any specific mechanism. What matt
 
 [Motor selection](/concepts/motor-selection/) provides the clearest instance of effort phenomenology matching mechanism. When you prepare to move, you hold an intention stable until execution. This holding feels like work because it *is* work: repeated attention events sustaining one motor pattern against competitors.
 
-The neural evidence supports this. Willed movements take ~300ms to initiate versus ~100ms for instructed movements—time for consciousness to engage and stabilize the pattern. Willed movements engage frontal theta and bidirectional frontoparietal coherence that instructed movements lack. The basal ganglia's brake-release architecture provides a candidate site: motor programs compete under tonic inhibition, selection works by disinhibiting the chosen program.
+The neural evidence supports this. Neural populations commit to a selected action roughly 280ms before movement onset (Thura & Cisek, 2014)—a window of the order consciousness would need to engage and stabilize the pattern, though the timing does not by itself establish it. Willed movements engage frontal theta and bidirectional frontoparietal coherence that instructed movements lack. The basal ganglia's brake-release architecture provides a candidate site: motor programs compete under tonic inhibition, selection works by disinhibiting the chosen program.
 
 The Desmurget dissociation is particularly revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. The experience of effort tracks conscious contribution at the selection interface, not execution downstream.
 
@@ -234,4 +234,5 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-30 15:10:22+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-20 14:38:43+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/phenomenology-of-choice/
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 13:46:42+00:00
-lastmod: 2026-07-30 15:10:22+00:00
+lastmod: 2026-08-20 14:38:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ This maps onto the neural distinction between [willed and automatic processing](
 
 ## Motor Selection as Paradigm Case
 
-[Motor selection](/concepts/motor-selection/) provides the clearest instance where effort phenomenology matches mechanism. Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage. The Desmurget dissociation is revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. Effort tracks conscious contribution at the selection interface, not execution downstream. You experience willing to type a word, not willing each finger movement — consciousness operates at the level of goals and selection.
+[Motor selection](/concepts/motor-selection/) provides the clearest instance where effort phenomenology matches mechanism. Neural populations commit to a selected action roughly 280ms before movement onset (Thura & Cisek, 2014), and willed attention carries a relative increase in frontal theta power over instructed attention (Rajan et al., 2019) — signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. The Desmurget dissociation is revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. Effort tracks conscious contribution at the selection interface, not execution downstream. You experience willing to type a word, not willing each finger movement — consciousness operates at the level of goals and selection.
 
 ## Effort as Evidence
 
@@ -201,7 +201,9 @@ The framework would face serious difficulty if: (1) trained introspectors report
 1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
