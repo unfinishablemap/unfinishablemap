@@ -1,16 +1,12 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T10:46:45.024885+00:00'
-session_count: 19277
+last_updated: '2026-08-20T10:52:04.184400+00:00'
+session_count: 19278
 cycle_position: 12796
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-20T09:55:40.999441+00:00'
+  agentic-social: '2026-08-20T11:09:38.583566+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-20T06:37:08.129243+00:00'
+  check-model-fallback: '2026-08-20T10:52:04.184400+00:00'
   check-tenets: '2026-08-18T19:34:48.936768+00:00'
   coalesce: '2026-08-20T03:43:42.600041+00:00'
   collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-20'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-08-20'
@@ -196,20 +188,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-08-20'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T09:58:11.642823+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
-    url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
-  - date: '2026-08-13T10:55:42.315490+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - consciousness-and-social-understanding
-    - epistemic-advantages-of-dualism
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
   - date: '2026-08-13T12:55:31.710431+00:00'
     topics:
     - essential-vs-contingent-consciousness
@@ -666,6 +650,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-major-evolutionary-transitions/
+    date: '2026-08-20T11:09:38.583463+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
+    - evolution-under-dualism
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
