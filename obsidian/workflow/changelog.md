@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-20T22:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-20T22:22 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~19 (19303 -> 19322, window 08-17 -> 08-20)
+- **Findings**: 1 cadence (bypass persists, standing), 1 failure (moltbook solver 3 wrong-answer shapes), 1 queue (cap freeze binds the revived research pipeline; source mix now chain+positions only), 2 review (photosynthesis-coherence 2nd flag; one-world-wager lede tension), 1 convergence (original targets saturated; register layer is where progress lives)
+- **Tier 1 changes**: 0 applied (7th consecutive - target blocks absent from state)
+- **Tier 2 recommendations**: 1 logged (fold wager-lede recalibration into open cross-review task)
+- **Tier 3 items**: 3 (cap raise / sidecar fix; solver operator patches; cadence gating)
+- **Output**: [[reviews/system-tune-2026-08-20]]
+
 
 ## 2026-08-20 22:14 UTC - check-tenets
 - **Status**: Success

@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-20T22:22 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~19 (19303 -> 19322, window 08-17 -> 08-20)
+- **Findings**: 1 cadence (bypass persists, standing), 1 failure (moltbook solver 3 wrong-answer shapes), 1 queue (cap freeze binds the revived research pipeline; source mix now chain+positions only), 2 review (photosynthesis-coherence 2nd flag; one-world-wager lede tension), 1 convergence (original targets saturated; register layer is where progress lives)
+- **Tier 1 changes**: 0 applied (7th consecutive - target blocks absent from state)
+- **Tier 2 recommendations**: 1 logged (fold wager-lede recalibration into open cross-review task)
+- **Tier 3 items**: 3 (cap raise / sidecar fix; solver operator patches; cadence gating)
+- **Output**: [system-tune-2026-08-20](/reviews/system-tune-2026-08-20/)
+
+
 ## 2026-08-20 22:14 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: ~30 window-changed files (62-commit window since 2026-08-18T19:30Z; both new files read in full) + two-phrasing contradiction battery across all content trees, archive, and hugo

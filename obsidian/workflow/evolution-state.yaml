@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T22:00:19.912664+00:00'
-session_count: 19321
+last_updated: '2026-08-20T22:15:19.304390+00:00'
+session_count: 19322
 cycle_position: 12816
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
@@ -12,7 +8,7 @@ last_runs:
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-20T19:21:54.100545+00:00'
-  check-tenets: '2026-08-18T19:34:48.936768+00:00'
+  check-tenets: '2026-08-20T22:15:19.304390+00:00'
   coalesce: '2026-08-20T17:10:59.568959+00:00'
   collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
   collect-claude-review: '2026-08-20T04:53:38.783339+00:00'
@@ -107,7 +103,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 551
-  reviews_completed: 7267
+  reviews_completed: 7268
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-08-20'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-20'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-08-20'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-08-20'
   outcome: success
 agentic_social:
@@ -729,28 +725,20 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-08-17T00:09:10+00:00'
-  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural
-    reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state,
-    and every Tier-1 change type writes to one of those three blocks. Cadence bypass
-    re-verified in code this run, not relayed: filter_triggers_by_min_age has one
-    call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers
-    ungated; 82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d
-    (mean ~3.6d). NEW AND FORCING A DECISION - the cap freeze is now binding and coalesce
-    is PROVEN unable to relieve it: tonight''s run filtered to length-feasible pairs
-    first (7853) then ranked by similarity and found NO pair both feasible and redundant,
-    five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log
-    sidecar inflates the gate by one, so one real slot is withheld by a counting artefact),
-    concepts 319/320 with the last slot four notes recommend leaving unspent, voids
-    99/100. Eleven consecutive replenish runs minted zero-cap-cost work, which is
-    the correct adaptation but is compensating for a structural block. Selector saturation
-    worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry
-    empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts
-    2, apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata
-    defect. Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks
-    empty, 20/20 recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The
-    producer-changed-consumers-unchecked class gained six further instances; Tier-3
-    item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
+  last_run: '2026-08-20T22:22:34+00:00'
+  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings still absent from state
+    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
+    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
+    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
+    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
+    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
+    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
+    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
+    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
+    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
+    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
+    cross-review task. Report: reviews/system-tune-2026-08-20.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
 task_chains:
