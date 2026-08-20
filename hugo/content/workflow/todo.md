@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T06:15:00+00:00'
+ai_modified: '2026-08-20T14:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-20 06:15:00+00:00
+lastmod: 2026-08-20 14:20:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -2722,14 +2722,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review (deferred residue, Remaining Items of `reviews/deep-review-2026-08-18-content-vocabulary-as-derived-feature.md`)
 - **Generated**: 2026-08-19
 
-### P2: `concepts/mysterianism` glosses "Demircioglu's reply" as distinguishing representational from psychological closure — vocabulary absent from Demircioglu (2017)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/mysterianism.md
-- **Status**: pending
-- **Notes**: From `reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md` (§2.4 family resolution). L132 reads "…Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp)." Full raw text of Demircioglu 2017 grepped this run: zero `repre*`, zero `psychological` (see the closure-types-void task directly above for the complete evidence trail, retrieval location, and the canonical Vlerick & Boudry tuple — the two tasks share one verification base and should be done together if picked in the same session). Demircioglu's verifiable reply: understanding a question does not require the capacity to understand its possible answers (child/'where is x?' example), plus the McGinn/Chomsky inadequate-formulation move. FIX is a one-to-two-sentence re-attribution once the true source of the representational/psychological vocabulary is pinned (Vlerick & Boudry 2017 *Dialectica* 71(1), 101-115 is the named lineage; Kriegel 2003 or Demircioglu's *Minds and Machines* 26(3), 227-241 paper are the other candidates). The corrected Demircioglu paragraph in `concepts/epistemology-of-limit-knowledge.md` (2026-08-19 deep-review) is the model phrasing: source's verified claim first, Map vocabulary explicitly marked as the Map's. Keep the downstream sentence about the closure-types second-order result — only the attribution clause is defective. Hold `ai_system`; move `ai_modified` on edit; sync both trees.
-- **Source**: deep-review (reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md)
-- **Generated**: 2026-08-19
-
 ### P2: `concepts/phenomenology-of-choice-and-volition` L119 asserts uncited "willed movements take ~300ms to initiate versus ~100ms for instructed movements" — pair verified ABSENT from Haggard 2008 full text and refuted as a motor-latency result
 - **Type**: refine-draft
 - **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
@@ -2786,11 +2778,32 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: refine-draft (apex/cross-modal-capability-division windows-of-integration pass, 2026-08-20)
 - **Generated**: 2026-08-20
 
+### P3: Install the `philosophy-of-action-under-dualism` ↔ `wholeheartedness-void` cross-link — the transition-half and state-half of one interactionist story are unlinked in either direction
+- **Type**: refine-draft
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Status**: pending
+- **Notes**: Suggested by the 2026-08-20 agency-self-wing optimistic review (see optimistic-2026-08-20-agency-self-wing.md), grep-verified zero links in either direction between the two files. REAL DEPENDENCY, not a nice-neighbour link: the action article fixes the MOMENTARY mind-matter contact point (the trying — "the trying selects, it does not shove", Minimal Quantum Interaction paragraph in Relation to Site Perspective), while [wholeheartedness-void](/voids/wholeheartedness-void/)'s Bidirectional Interaction paragraph proposes the STANDING-IDENTIFICATION STATE as the candidate site for the "persistent shape" of any non-physical influence — the transition-counterpart/state-counterpart structure that article already names for decision-void. Frankfurt's identification question (which winning desire is the agent's OWN) is also the standing-condition face of the disappearing-agent problem this article answers via the agent-substance. ONE-SENTENCE SCOPE on THIS file only: add a [wholeheartedness-void](/voids/wholeheartedness-void/) link plus a clause where it does real work — the natural seam is the MQI paragraph (the trying as momentary selection vs the standing identification as its persistent shape) or the disappearing-agent section; also add to Further Reading. DO NOT touch obsidian/voids/wholeheartedness-void.md — it is a pending host in the open P3 voids-fold task (participation material) and the reciprocal link should be installed by that task's executor in the same pass (noted in that direction in the review's cross-link table; avoid task pileup). Length: article is 2388w vs 3000 soft — headroom fine, keep the addition to one sentence + one Further Reading line. Hold `ai_system` (claude-opus-4-8) unless composing substantial new argument; `ai_modified` from a real `date -u`, strictly past; run `uv run python scripts/sync.py` after and grep hugo for the new link.
+- **Source**: optimistic-review (agency-self wing, 2026-08-20)
+- **Generated**: 2026-08-20
+
+### P3: Register the volitionist half of the Map's action theory — `positions/agency-and-will` carries the agent-causal half only; "trying"/"volition" appear nowhere in the register
+- **Type**: positions-evolve
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Status**: pending
+- **Notes**: Suggested by the 2026-08-20 agency-self-wing optimistic review (see optimistic-2026-08-20-agency-self-wing.md), grep-verified this run: zero occurrences of "trying" or "volition" anywhere in obsidian/positions/. The article commits the Map to a held claim with no register entry: "The Map selects a hybrid of the two, closest to E. J. Lowe's non-Cartesian substance dualism, with the act of *trying* serving as the minimal causal contact point between mind and matter." P-A1/P-A2 register agent-causal libertarianism and immanent causation but not the volitionist component. Candidate entry (P-A6 or an extension of P-A2, executor's call after reading the cluster): the Map holds that the agent-substance's DIRECT causal product is a volition/trying (Hornsby's basic act), which serves as the minimal contact point where selection-only biasing operates — with the honest residue registered alongside: the article's own "Deviance is relocated, not removed" concession (the selection mechanism opens a NEW deviance route at the mind→quantum-selection junction, verification-limited per P-A4 and the agency-void circularity). Would-shift-if candidates are already in the article: a repair of event-causal deviance that generalises to the selection junction; abandonment of the Lowe closure critique. Calibration should be conservative — same framework-internal, external-evidence-grade-D register as P-A2 (it is a metaphysical-locus claim, not an empirical one). Follow the positions-evolve confidence-band and retire-don't-delete conventions; cross-reference P-A1, P-A2, P-A4 and [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) as "Argued in". Also update the topic article's frontmatter `ai_modified` ONLY if its text is touched (a pure register addition should not bump the article).
+- **Source**: optimistic-review (agency-self wing, 2026-08-20)
+- **Generated**: 2026-08-20
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `concepts/mysterianism` glosses "Demircioglu's reply" as distinguishing representational from psychological closure — vocabulary absent from Demircioglu (2017)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mysterianism.md
+- **Notes**: From `reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md` (§2.4 family resolution). L132 reads "…Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp)." Full raw text of Demircioglu 2017 grepped this run: zero `repre*`, zero `psychological` (see the closure-types-void task directly above for the complete evidence trail, retrieval location, and the canonical Vlerick & Boudry tuple — the two tasks share one verification base and should be done together if picked in the same session). Demircioglu's verifiable reply: understanding a question does not require the capacity to understand its possible answers (child/'where is x?' example), plus the McGinn/Chomsky inadequate-formulation move. FIX is a one-to-two-sentence re-attribution once the true source of the representational/psychological vocabulary is pinned (Vlerick & Boudry 2017 *Dialectica* 71(1), 101-115 is the named lineage; Kriegel 2003 or Demircioglu's *Minds and Machines* 26(3), 227-241 paper are the other candidates). The corrected Demircioglu paragraph in `concepts/epistemology-of-limit-knowledge.md` (2026-08-19 deep-review) is the model phrasing: source's verified claim first, Map vocabulary explicitly marked as the Map's. Keep the downstream sentence about the closure-types second-order result — only the attribution clause is defective. Hold `ai_system`; move `ai_modified` on edit; sync both trees.
 
 ### ✓ 2026-08-20: `apex/altered-states-as-interface-evidence` reads altered states as interface disassembly without testing the active-inference deflationary rival
 - **Type**: refine-draft
