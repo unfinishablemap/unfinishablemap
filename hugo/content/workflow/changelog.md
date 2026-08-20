@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T00:20:00+00:00'
+ai_modified: '2026-08-20T01:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 00:20:00+00:00
+lastmod: 2026-08-20 01:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T01:12:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Original score**: n/a (basis: reviews/pessimistic-2026-08-19-thermal-consciousness; scripts/curate.py review skipped per skill note)
+- **Changes**: (1) Barrett & Simmons (2015) rival rewritten to the paper's actual allostatic claim — re-verified against PMC4731102 raw full text this session: "thermal"/"sweat"/"shiver" zero hits, glossary rejects set-points ("not a single set point") — set-point framing re-attributed to Cabanac 1971 / Craig 2018, allostatic programme marked as *competing with*, not extending, the set-point reading. Same correction propagated into research/thermal-consciousness-and-the-interface-2026-06-21 (key-points, tenet-alignment licence line, Major Positions, timeline row; four new refs added to its citations ledger). (2) Crucianelli & Ehrsson "Nevertheless" separability sentence now quoted in full (grep-verified at PMC9902974); their thesis re-identified as a reclassification ("particularly attractive model of skin-mediated interoception") with "no consensus" recorded; the gradient reading explicitly marked as the Map's inference against both sources (Craig's whole-modality-inward reclassification stated alongside), with the Map's reasons given; residual "not separable channels" instance in the closing paragraph also fixed. (3) Alliesthesia named and developed (Cabanac 1971 abstract retrieved in full at Europe PMC: three modalities documented, set-point language, regulated-internal-variable restriction kept hedged as Cabanac's conjecture); opening superlative re-scoped to "cleanest *state-indexed* case", conceding touch the constitutive-valence superlative — resolves the conflict with concepts/evaluative-phenomenal-character; description frontmatter re-scoped likewise. Ride-alongs: Ackerley et al. 2014 cited for CT thermal tuning and "comparatively stable" narrowed to "stable with respect to the perceiver's thermoregulatory state"; thermal-grill "direct evidence" re-framed as physicalist-expected construction with the residue stated; Craig 2002 cite split — pathway stays 2002, anterior-insula/felt-bodily-self to Craig 2009, state-dependence to Craig 2018; "load-bearing" dropped; "cannot provide"→"have not covered"; do-no-work Tenet-4 indexical-determinacy clause cut. Four new references (Cabanac 1971, Craig 2009, Craig 2018, Ackerley et al. 2014) tuple-verified at Europe PMC/Crossref this session. Length 3207→3213 words (length-neutral, +6; soft_warning unchanged), paid for by trimming intra-article repetition, never hedges or quotes. Apex cross-modal-capability-division boundary-case paragraph re-checked per review: verdict FINE — it cites the sources only for the dual-reporting facts they assert and draws the gradient in its own uncited voice; no edit. ai_system appended +claude-fable-5 on article and research note.
+- **Published**: yes
+
+## 2026-08-20T00:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conservation-laws-mind-brain-causation-2026-01-23](/research/conservation-laws-mind-brain-causation-2026-01-23/)
+- **Original score**: n/a (citation-metadata unification task, no prose review)
+- **Changes**: Unified Stapp "Quantum Interactive Dualism" metadata across all content-tree loci. JCS verdict settled POSITIVELY at the publisher index: archived IngentaConnect TOC for *Journal of Consciousness Studies* 12(11), 2005 (Wayback snapshot 2026-01-22 of ingentaconnect.com/content/imp/jcs/2005/00000012/00000011; live page is Cloudflare-walled) lists Stapp's article at pp. 43-58(16) — the JCS-original clause keeps its pages. Zygon page range NOT publisher-verifiable (Crossref page field empty; Wiley 402s and has no Wayback snapshot), so both variants (599–615 and 599–616) dropped everywhere in favour of DOI-without-pages canonical form. Edited: research/conservation-laws-mind-brain-causation-2026-01-23 L317 (2007→2006, venue+DOI+JCS original attached), research/completeness-in-physics-epr-bell-2026-03-17 L166, research/phenomenology-volitional-control-2026-03-20 L238, research/asymmetric-bandwidth-consciousness-2026-03-02 L226, research/quantum-state-inheritance-computational-systems-2026-02-10 L245, topics/quantum-state-inheritance-in-ai L143, concepts/quantum-completeness L130, topics/completeness-in-physics-under-dualism L153 (both numbered ledgers edited in place, no renumbering) + two archive-tree wrong-year loci (archive/topics/conservation-laws-and-mind L202, archive/concepts/conservation-laws-mind-brain-causation L125: 2007→2005 LBNL with Zygon 2006 note). Already-canonical loci verified and left: parapsychology-firewall, selection-only-channel, selection-only-mind-influence, channel-class-taxonomy, apex/dualism-cartography (its JCS 43–58 now publisher-confirmed), conservation-laws-and-mental-causation, quantum-zeno-effect prose. Synced to Hugo; closing greps 0 stray page ranges, 0 wrong-year QID cites outside reviews/workflow.
+- **Published**: yes
 
 ## 2026-08-20T00:20:00+00:00 - optimistic-review
 - **Status**: Success

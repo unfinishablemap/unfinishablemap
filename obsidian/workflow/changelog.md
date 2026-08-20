@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T00:31:00+00:00'
+ai_modified: '2026-08-20T01:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T01:12:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/thermal-consciousness-and-the-interface]]
+- **Original score**: n/a (basis: reviews/pessimistic-2026-08-19-thermal-consciousness; scripts/curate.py review skipped per skill note)
+- **Changes**: (1) Barrett & Simmons (2015) rival rewritten to the paper's actual allostatic claim — re-verified against PMC4731102 raw full text this session: "thermal"/"sweat"/"shiver" zero hits, glossary rejects set-points ("not a single set point") — set-point framing re-attributed to Cabanac 1971 / Craig 2018, allostatic programme marked as *competing with*, not extending, the set-point reading. Same correction propagated into research/thermal-consciousness-and-the-interface-2026-06-21 (key-points, tenet-alignment licence line, Major Positions, timeline row; four new refs added to its citations ledger). (2) Crucianelli & Ehrsson "Nevertheless" separability sentence now quoted in full (grep-verified at PMC9902974); their thesis re-identified as a reclassification ("particularly attractive model of skin-mediated interoception") with "no consensus" recorded; the gradient reading explicitly marked as the Map's inference against both sources (Craig's whole-modality-inward reclassification stated alongside), with the Map's reasons given; residual "not separable channels" instance in the closing paragraph also fixed. (3) Alliesthesia named and developed (Cabanac 1971 abstract retrieved in full at Europe PMC: three modalities documented, set-point language, regulated-internal-variable restriction kept hedged as Cabanac's conjecture); opening superlative re-scoped to "cleanest *state-indexed* case", conceding touch the constitutive-valence superlative — resolves the conflict with concepts/evaluative-phenomenal-character; description frontmatter re-scoped likewise. Ride-alongs: Ackerley et al. 2014 cited for CT thermal tuning and "comparatively stable" narrowed to "stable with respect to the perceiver's thermoregulatory state"; thermal-grill "direct evidence" re-framed as physicalist-expected construction with the residue stated; Craig 2002 cite split — pathway stays 2002, anterior-insula/felt-bodily-self to Craig 2009, state-dependence to Craig 2018; "load-bearing" dropped; "cannot provide"→"have not covered"; do-no-work Tenet-4 indexical-determinacy clause cut. Four new references (Cabanac 1971, Craig 2009, Craig 2018, Ackerley et al. 2014) tuple-verified at Europe PMC/Crossref this session. Length 3207→3213 words (length-neutral, +6; soft_warning unchanged), paid for by trimming intra-article repetition, never hedges or quotes. Apex cross-modal-capability-division boundary-case paragraph re-checked per review: verdict FINE — it cites the sources only for the dual-reporting facts they assert and draws the gradient in its own uncited voice; no edit. ai_system appended +claude-fable-5 on article and research note.
+- **Published**: yes
 
 ## 2026-08-20T00:31:00+00:00 - refine-draft
 - **Status**: Success

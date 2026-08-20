@@ -3,7 +3,8 @@ title: Research Notes - Thermal Consciousness and the Interface
 created: 2026-06-21
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
+ai_modified: 2026-08-20T01:12:00+00:00
 ---
 
 # Research: Thermal Consciousness and the Interface
@@ -94,9 +95,9 @@ Per evidential-status-discipline, every account below is a **physicalist rival t
   - Simulating homeostatic/allostatic/goal-directed interoceptive control using Active Inference (bioRxiv): https://www.biorxiv.org/content/10.1101/2021.02.16.431365
 - **Type**: Review (Barrett & Simmons, already in corpus) + preprint
 - **Key points**:
-  - Allostatic-interoceptive predictive coding: visceromotor predictions become homeostatic set-points; the brain anticipates future body-temperature change and pre-emptively engages sweating/shivering rather than reacting.
-  - Thermal regulation framed as anticipatory allostatic control with thermoceptive prediction errors in anterior insula.
-- **Tenet alignment**: The second physicalist **rival**. Barrett & Simmons (2015) is already publisher-verified in the interoceptive article — reuse it. Predicts the affective, anticipatory, set-point character of thermal feeling with no non-physical remainder.
+  - Allostatic-interoceptive predictive coding: agranular visceromotor cortices issue autonomic, hormonal and immunological predictions, deploying the body's resources "not as it is right now, but as the brain predicts it will be in a moment from now" (verified against PMC4731102 raw full text, 2026-08-20).
+  - **CORRECTION (2026-08-20)**: the earlier gloss here — "visceromotor predictions become homeostatic set-points; the brain anticipates future body-temperature change and pre-emptively engages sweating/shivering" — is NOT in Barrett & Simmons (2015). The paper contains no thermoregulatory model ("thermal", "sweat", "shiver": zero occurrences in the raw full text) and its glossary expressly rejects set-point framing ("Homeostasis: A set of dynamic functions (not a single set point)…"). Set-point framing belongs to Cabanac (1971) and Craig (2018); the allostatic reading *competes with* the set-point reading rather than extending it. The thermal framing ("thermoceptive prediction errors in anterior insula") comes from the unverified bioRxiv preprint below, not from Barrett & Simmons.
+- **Tenet alignment**: The second physicalist **rival**. Barrett & Simmons (2015) is publisher-verified on *metadata* in the interoceptive article — but metadata verification does not certify a reading; this note's original set-point gloss was wrong (see correction above). Predicts an affective, anticipatory character of interoceptive feeling with no non-physical remainder — anti-set-point, and with no thermal example.
 
 ## Do-Not-Cite-Until-Fetched
 
@@ -119,8 +120,8 @@ Per evidential-status-discipline, every account below is a **physicalist rival t
 
 ### Predictive / active-inference thermoregulation
 - **Proponents**: Barrett & Simmons; Seth; the allostatic-interoception programme.
-- **Core claim**: Thermal feeling is anticipatory inference; visceromotor predictions act as homeostatic set-points minimized by sweating/shivering.
-- **Key arguments**: Anticipatory regulation precedes sensed dysregulation; thermoceptive prediction errors localize to anterior insula.
+- **Core claim**: Interoceptive feeling is anticipatory allostatic inference; visceromotor predictions regulate the body ahead of need. (Corrected 2026-08-20: the earlier "set-points minimized by sweating/shivering" gloss is not in Barrett & Simmons, whose glossary rejects set-points; they give no thermal example.)
+- **Key arguments**: Anticipatory regulation precedes sensed dysregulation; the thermoceptive-prediction-error extension to anterior insula is the unverified bioRxiv preprint's claim, not Barrett & Simmons's.
 - **Relation to site tenets**: The second physicalist rival to out-accommodate; structurally identical to the interoceptive article's treatment of interoceptive inference. The interface reading accommodates a predictive thermal loop without strain — but so does the physicalist, and the framework does not discriminate on this evidence.
 
 ## Key Debates
@@ -142,7 +143,7 @@ Per evidential-status-discipline, every account below is a **physicalist rival t
 | 1896 | Thunberg describes the thermal grill illusion | First demonstration that warm+cool can read as painful heat |
 | 1994 | Craig & Bushnell, *Science* 265:252–255 | Central-disinhibition model; thermal/nociceptive integration |
 | 2002 | Craig, *Nat Rev Neurosci* 3:655–666 | Temperature reframed as interoceptive homeostatic feeling |
-| 2015 | Barrett & Simmons, *Nat Rev Neurosci* 16:419–429 | Allostatic-interoceptive predictive coding (incl. thermal set-points) |
+| 2015 | Barrett & Simmons, *Nat Rev Neurosci* 16:419–429 | Allostatic-interoceptive predictive coding (anticipatory, anti-set-point; no thermal model) |
 | 2021 | Julius & Patapoutian, Nobel Prize | Molecular identity of thermosensory TRP channels |
 | 2023 | Crucianelli & Ehrsson, *Perspect Psychol Sci* 18:224–238 | Skin as dual extero/interoceptive organ; thermoception as the boundary |
 | 2023 | Blomqvist, *Temperature* 10:395–401 | Retrospective consolidating Craig's homeostatic-emotion thesis |
@@ -177,5 +178,9 @@ When writing the article, follow `obsidian/project/writing-style.md`:
 5. Barrett, L. F. & Simmons, W. K. (2015). Interoceptive predictions in the brain. *Nature Reviews Neuroscience*, 16(7), 419–429. https://www.nature.com/articles/nrn3950 (already in corpus citation pool)
 6. The Role of TRP Channels in Thermosensation (review/book chapter). NCBI Bookshelf NBK5244 / PubMed 21204494. https://www.ncbi.nlm.nih.gov/books/NBK5244/ — pin a single peer-reviewed TRP review at its DOI before article-write.
 7. Nobel Prize in Physiology or Medicine 2021 (Julius & Patapoutian) — molecular thermosensory TRP channel identification. (cite the Nobel summary or a Julius-lab review at publisher of record)
+8. Cabanac, M. (1971). Physiological role of pleasure. *Science*, 173(4002), 1103–1107. DOI 10.1126/science.173.4002.1103. PMID 5098954. (Added 2026-08-20; abstract retrieved in full at Europe PMC — names alliesthesia, documents it in thermal/gustatory/olfactory senses, carries the set-point language.)
+9. Craig, A. D. (2018). Central neural substrates involved in temperature discrimination, thermal pain, thermal comfort, and thermoregulatory behavior. *Handb Clin Neurol*, 156, 317–338. PMID 30454598. (Added 2026-08-20; Blomqvist's own source for the state-dependence claim.)
+10. Craig, A. D. (2009). How do you feel — now? The anterior insula and human awareness. *Nat Rev Neurosci*, 10(1), 59–70. PMID 19096369. (Added 2026-08-20; canonical source for anterior-insula / felt-bodily-self.)
+11. Ackerley, R., Backlund Wasling, H., Liljencrantz, J., Olausson, H., Johnson, R. D. & Wessberg, J. (2014). Human C-tactile afferents are tuned to the temperature of a skin-stroking caress. *J Neurosci*, 34(8), 2879–2883. PMID 24553929. (Added 2026-08-20; CT thermal tuning — qualifies the "stable hedonic tone" contrast with affective touch.)
 
 **Do-not-cite-until-fetched**: bioRxiv 10.1101/2024.10.11.617819 ("Thermoceptive predictions and prediction errors in the anterior insula", preprint, publisher page 403).
