@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T14:20:00+00:00'
+ai_modified: '2026-08-20T14:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-20 14:20:00+00:00
+lastmod: 2026-08-20 14:55:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -2722,14 +2722,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review (deferred residue, Remaining Items of `reviews/deep-review-2026-08-18-content-vocabulary-as-derived-feature.md`)
 - **Generated**: 2026-08-19
 
-### P2: `concepts/phenomenology-of-choice-and-volition` L119 asserts uncited "willed movements take ~300ms to initiate versus ~100ms for instructed movements" — pair verified ABSENT from Haggard 2008 full text and refuted as a motor-latency result
-- **Type**: refine-draft
-- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
-- **Status**: pending
-- **Notes**: String-sibling of the 2026-08-19 `topics/authentic-vs-inauthentic-choice` L140 fix (fix-by-file-leaves-string-siblings-live). Verification base (2026-08-19 refine session, do not re-verify from scratch): full raw text of Haggard 2008 (*Nat Rev Neurosci* 9(12), 934-946; complete 14-page PDF from the SFU course-site copy, pdftotext + grep on raw text, 11,472 words) contains NO ~300/~100 pair — "300" appears only in a reference page range, "100" only as a citation number, the review's sole ms figure is Libet's 206 ms W-judgement, and "latency" occurs zero times. The pair is the voluntary-vs-reflexive *attention* deployment contrast (Müller & Rabbitt 1989: ~300ms vs ~100–175ms) conflated with motor commitment ~280ms before movement onset (Thura & Cisek 2014) — see `concepts/motor-selection` L153 for the corrected corpus statement and the re-sourced Neural Correlates paragraph in `topics/authentic-vs-inauthentic-choice` for the model fix (commitment ~280ms pre-movement, Thura & Cisek 2014; willed/instructed contrast carried by Rajan et al. 2019's relative frontal theta increase from ~500ms post-cue — a relative increase, not a latency difference; Haggard 2008 retained only for near-verbatim "conscious intentions … during a brief window approximately 1 s before movement onset"). Here L119 asserts the false pair UNCITED as flat fact ("Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage"); only that sentence is defective — keep the paragraph's Desmurget dissociation and selection-interface point intact. Check References for Thura & Cisek / Rajan / Müller & Rabbitt before adding entries (sweep-verified tuples: Rajan et al. 2019, *Cerebral Cortex* 29(7), 2832-2843; Thura & Cisek 2014, *Neuron* 81(6), 1401-1416; Müller & Rabbitt 1989, *JEP:HPP* 15(2), 315-330). ⚠ COLLISION: an open P2 on this file targets L109's "direct evidence" overclaim (different axis, different lines) — edit narrowly, diff-check that axis untouched; if both tasks are picked in one session, do them together. ALSO: `archive/concepts/phenomenology-of-choice.md` (+ hugo mirror) carries the same string at its preserved URL (outer-reviewers-critique-archived-articles-at-live-urls; noindex-does-not-suppress-the-machine-metadata-surface) — flag whether archive copies get the fix rather than silently skipping. ATTRIBUTION: hold existing `ai_system`, append the executing model (plus-joined) since text changes; `ai_modified` from real `date -u`, not future-dated; `last_deep_review` untouched. MIRROR: sync both trees; afterwards `grep -rlF "~100ms for instructed movements" obsidian/ hugo/content/` should hit only workflow files (+ archive pair unless fixed).
-- **Source**: refine-draft (topics/authentic-vs-inauthentic-choice citation fix, 2026-08-19)
-- **Generated**: 2026-08-19
-
 ### P3: `concepts/moral-census-opacity` invokes "the measurement problem in consciousness science" without linking the Map's own measurement-standards treatment — sibling structural-unreadability claims, zero cross-references
 - **Type**: refine-draft
 - **File**: obsidian/concepts/moral-census-opacity.md
@@ -2794,11 +2786,24 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (agency-self wing, 2026-08-20)
 - **Generated**: 2026-08-20
 
+### P2: Write article on scale types for phenomenal quantities — synthesize `research/representational-measurement-phenomenal-quantities-2026-08-20`
+- **Type**: expand-topic
+- **File**: obsidian/research/representational-measurement-phenomenal-quantities-2026-08-20.md
+- **Status**: pending
+- **Notes**: Chain successor: the research-topic task completed 2026-08-20 08:50 (commit 059d21c8af) produced this note with `target_section: concepts` and an explicit synthesis recommendation (note L187): **"Scale types for phenomenal quantities" (concepts, medium length)**. Replenish verification 2026-08-20: (a) no covering article — grep "representational theory of measurement" across obsidian/concepts|topics|apex|voids + archive/ = zero hits; (b) no existing task — live active-task grep for representational/phenomenal-quantities/measurement finds only unrelated entries; (c) cap OK — concepts 318/320 measured this run via `tools.evolution.state.count_section_files` (2 slots). Article plan per the note: present RTM compactly (representation/uniqueness theorems, admissible transformations, meaningfulness); run the note's five-layer scale-type analysis; state the cross-subject impossibility as a uniqueness-theorem fact; connect to [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) (strengthens it, AND refines its unit argument against the conjoint-measurement rejoinder — engage Trendler 2019 "Conjoint measurement undone" vs Ho/Landy/Maloney 2008 before leaning on conjoint measurement either way); end by restating the [judging-the-map-as-science](/apex/judging-the-map-as-science/) seam hypothesis as the testable methodological constraint in its "Meaningfulness discipline" section — the register upgrade that apex says it owes. Tenet alignment from the note: Tenet 5 throughout (scale-type ladder as graded epistemic caution formalised); Tenets 2-3 via Luce 1959 (possible coupling-law forms depend on the phenomenal variable's scale type); Tenet 1 via the cross-subject impossibility's source in first-person access. Executor discipline: concepts length 2500 soft / 3500 hard — medium length means well under hard; keep the lead framework-relative, not an unqualified impossibility claim (the Lee 2023 and Bayne/Hohwy/Owen 2016 rivals in the note must be engaged, not waved off); populate `topics:` with BARE slugs, never empty; run the full integration chain (inbound links from the two named articles at minimum, then normal cross-review chaining); citations come pre-verified in the note (Crossref/SEP raw-text) — carry DOIs through and do not invent page numbers; `ai_modified` real `date -u`; `uv run python scripts/sync.py` after and grep BOTH trees for the new slug.
+- **Source**: unconsumed_research (chain from research-topic 2026-08-20)
+- **Generated**: 2026-08-20
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `concepts/phenomenology-of-choice-and-volition` L119 asserts uncited "willed movements take ~300ms to initiate versus ~100ms for instructed movements" — pair verified ABSENT from Haggard 2008 full text and refuted as a motor-latency result
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+- **Notes**: String-sibling of the 2026-08-19 `topics/authentic-vs-inauthentic-choice` L140 fix (fix-by-file-leaves-string-siblings-live). Verification base (2026-08-19 refine session, do not re-verify from scratch): full raw text of Haggard 2008 (*Nat Rev Neurosci* 9(12), 934-946; complete 14-page PDF from the SFU course-site copy, pdftotext + grep on raw text, 11,472 words) contains NO ~300/~100 pair — "300" appears only in a reference page range, "100" only as a citation number, the review's sole ms figure is Libet's 206 ms W-judgement, and "latency" occurs zero times. The pair is the voluntary-vs-reflexive *attention* deployment contrast (Müller & Rabbitt 1989: ~300ms vs ~100–175ms) conflated with motor commitment ~280ms before movement onset (Thura & Cisek 2014) — see `concepts/motor-selection` L153 for the corrected corpus statement and the re-sourced Neural Correlates paragraph in `topics/authentic-vs-inauthentic-choice` for the model fix (commitment ~280ms pre-movement, Thura & Cisek 2014; willed/instructed contrast carried by Rajan et al. 2019's relative frontal theta increase from ~500ms post-cue — a relative increase, not a latency difference; Haggard 2008 retained only for near-verbatim "conscious intentions … during a brief window approximately 1 s before movement onset"). Here L119 asserts the false pair UNCITED as flat fact ("Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage"); only that sentence is defective — keep the paragraph's Desmurget dissociation and selection-interface point intact. Check References for Thura & Cisek / Rajan / Müller & Rabbitt before adding entries (sweep-verified tuples: Rajan et al. 2019, *Cerebral Cortex* 29(7), 2832-2843; Thura & Cisek 2014, *Neuron* 81(6), 1401-1416; Müller & Rabbitt 1989, *JEP:HPP* 15(2), 315-330). ⚠ COLLISION: an open P2 on this file targets L109's "direct evidence" overclaim (different axis, different lines) — edit narrowly, diff-check that axis untouched; if both tasks are picked in one session, do them together. ALSO: `archive/concepts/phenomenology-of-choice.md` (+ hugo mirror) carries the same string at its preserved URL (outer-reviewers-critique-archived-articles-at-live-urls; noindex-does-not-suppress-the-machine-metadata-surface) — flag whether archive copies get the fix rather than silently skipping. ATTRIBUTION: hold existing `ai_system`, append the executing model (plus-joined) since text changes; `ai_modified` from real `date -u`, not future-dated; `last_deep_review` untouched. MIRROR: sync both trees; afterwards `grep -rlF "~100ms for instructed movements" obsidian/ hugo/content/` should hit only workflow files (+ archive pair unless fixed).
 
 ### ✓ 2026-08-20: `concepts/mysterianism` glosses "Demircioglu's reply" as distinguishing representational from psychological closure — vocabulary absent from Demircioglu (2017)
 - **Type**: refine-draft

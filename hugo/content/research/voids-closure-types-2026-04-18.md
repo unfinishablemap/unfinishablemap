@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-08-20 15:40:29+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -11,7 +11,7 @@ date: &id001 2026-04-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-04-23 12:41:29+00:00
+lastmod: 2026-08-20 15:40:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,7 +44,7 @@ topics:
 
 ## Executive Summary
 
-A thirty-year debate in philosophy of mind — McGinn, Chomsky, Kriegel, Demircioglu, Vlerick, Boudry — turns on a distinction the Map has been using implicitly without naming: *representational* closure (the mind lacks concept-forming procedures sufficient to frame a true theory of P) versus *psychological* closure (the mind has the representational materials but cannot actually grasp the solution). The distinction matters because Kriegel's well-known attack on mysterianism only reaches the psychological reading; the representational thesis survives. But the more interesting result for the voids programme is the *inverse closure on the diagnosis itself*: there is no first-person procedure by which a mind can tell, of a given recalcitrant problem, which kind of closure it is facing. Every void in the catalogue inherits this second-order ambiguity. The Map has leaned on the distinction in `meta-epistemology-of-limits` and `phenomenology-of-the-edge`; what is missing is a dedicated treatment that (a) gives the distinction its own entry, (b) shows why the diagnostic problem is itself a void, and (c) draws the methodological consequence for apophatic cartography — that void claims must be explicit about which closure type they are asserting.
+A thirty-year debate in philosophy of mind — McGinn, Chomsky, Kriegel, Demircioglu, Vlerick, Boudry — turns on a distinction the Map has been using implicitly without naming: *representational* closure (the mind lacks concept-forming procedures sufficient to frame a true theory of P) versus *psychological* closure (the mind has the representational materials but cannot actually grasp the solution). The explicit distinction is Vlerick & Boudry's (2017): their labels are "cognitive" and "psychological" closure, and "representational" is the Map's gloss on the former. The distinction matters because Kriegel's well-known attack on mysterianism only reaches the psychological reading; the representational thesis survives. But the more interesting result for the voids programme is the *inverse closure on the diagnosis itself*: there is no first-person procedure by which a mind can tell, of a given recalcitrant problem, which kind of closure it is facing. Every void in the catalogue inherits this second-order ambiguity. The Map has leaned on the distinction in `meta-epistemology-of-limits` and `phenomenology-of-the-edge`; what is missing is a dedicated treatment that (a) gives the distinction its own entry, (b) shows why the diagnostic problem is itself a void, and (c) draws the methodological consequence for apophatic cartography — that void claims must be explicit about which closure type they are asserting.
 
 ## Key Sources
 
@@ -61,26 +61,27 @@ A thirty-year debate in philosophy of mind — McGinn, Chomsky, Kriegel, Demirci
 
 ### Demircioglu (2017) — "Human Cognitive Closure and Mysterianism: Reply to Kriegel"
 - **URL**: https://link.springer.com/article/10.1007/s12136-016-0295-y
-- **Type**: Peer-reviewed paper, *Acta Analytica* 32, 147-158
+- **Type**: Peer-reviewed paper, *Acta Analytica* 32, 125-132
 - **Key points**:
-  - Kriegel's argument conflates two readings of "grasping what would count as an answer."
-  - **Representational** reading: M has the concept-forming procedures to frame a true theory of P. Closure here is what McGinn actually wanted.
-  - **Psychological** reading: M can actually work through and *grasp* the theory when presented. Closure here is a weaker claim.
-  - A rat might "represent" the prime numbers as "the numbers mathematicians talk about" without being able to identify which numbers those are.
-  - Kriegel's incoherence argument only works against the psychological reading. It leaves the representational reading untouched.
-- **Tenet alignment**: Defends the intelligibility of Tenet 5 — simplicity can mask the difference between "can frame a solution" and "can actually produce one."
-- **Quote (paraphrase)**: "Being able to represent the form of an answer is not being able to grasp the answer itself."
+  - Answers Kriegel from the side of the question: understanding a question is decoupled from the capacity to understand its possible answers, so posing the mind-body problem does not certify possession of the resources a solution would require.
+  - His illustration: a child can understand a question of the form "where is x?" without being in a position to understand all its possible answers, some of which require concepts from the theory of relativity.
+  - He shares Kriegel's questions/answers semantics for problems and solutions (following Kriegel himself), so the disagreement is over what understanding a question requires, not over how problems are individuated.
+  - A second move on McGinn's behalf, drawing on McGinn's Chomskyan problems/mysteries backdrop: our current formulation of the mind-body problem may itself be inadequate, so the ability to pose the question in its present form does not show we grasp what an adequately formulated version would ask.
+  - Note for reuse: Demircioglu does not use a representational/psychological vocabulary — that contrast belongs to Vlerick & Boudry (next entry). Earlier drafts of this note misattributed it to him.
+- **Tenet alignment**: Defends the intelligibility of Tenet 5 — the ability to pose a question can mask the difference between understanding the question and being able to understand its answers.
+- **Quote**: "the concepts required for answering a certain question need not be attained in order to understand the question"
 
 ### Vlerick & Boudry (2017) — "Psychological Closure Does Not Entail Cognitive Closure"
 - **URL**: https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
 - **Type**: Peer-reviewed paper, *Dialectica* 71(1), 101-115
 - **Key points**:
-  - The entailment runs the *other* way from what McGinn needs.
-  - McGinn's case only demonstrates psychological difficulty (we have not cracked the hard problem) but this does not establish principled representational closure.
-  - History of science shows many problems that looked mysteriously recalcitrant later yielded to new conceptual resources (vitalism, action-at-a-distance, quantum non-locality's initial intelligibility crisis).
-  - Inferring representational closure from psychological closure is a hasty generalisation.
+  - **Source of the two-readings distinction** this note is built around. They separate the strong notion McGinn's definition officially targets — cognitive closure, "a principled inaccessibility of a true theory of certain properties of the world" — from the weaker condition McGinn's arguments at most reach: "The latter we label psychological closure." The Map's "representational closure" is a gloss on their "cognitive closure" (the mind lacks the concept-forming procedures to frame a true theory of P); under psychological closure the mind can represent the correct answer but cannot actually grasp the theory.
+  - Their illustration: a mathematician can represent infinity and handle it in equations while struggling to grasp what infinite space or time is like.
+  - The entailment runs the *other* way from what McGinn needs: McGinn's case only demonstrates psychological difficulty (we have not cracked the hard problem), which does not establish principled cognitive (representational) closure.
+  - Their historical evidence: good scientific theories have repeatedly overthrown commonsense — Newtonian physics, Darwinian biology, quantum physics — and the barriers commonsense sets up for the psychological sense of understanding "have been systematically torn down."
+  - Inferring cognitive (representational) closure from psychological closure is, in their diagnosis, a "fallacy of equivocation relating to the concept of 'understanding'."
 - **Tenet alignment**: Cuts against Tenet 5 at first glance — looks like simplicity argument — but actually reinforces the Map's concern about *which* direction the inference runs. It shows the distinction has real teeth in two directions.
-- **Quote (paraphrase)**: "The inference from 'we have not solved it' to 'we cannot solve it' is unwarranted unless independent evidence of representational closure is supplied."
+- **Quote**: "a principled inaccessibility of a true theory of certain properties of the world" (their definition of cognitive closure); "The latter we label psychological closure"
 
 ### Chomsky — "Problems and Mysteries in the Study of Human Language" (1975, reprinted 1976)
 - **URL**: https://link.springer.com/chapter/10.1007/978-94-010-1876-0_15
@@ -121,7 +122,7 @@ This second-order void is what makes the first-order distinction philosophically
 ### Evidence for the Limit
 
 - **Direct evidence for the first-order distinction**: the Kriegel-Demircioglu-Vlerick exchange itself. Competent philosophers read the same term ("cognitive closure") in two incompatible ways and reach opposite conclusions. This is evidence that the ambiguity is not a surface imprecision but tracks a real structural divide.
-- **Indirect evidence for the second-order void**: the history of apparent representational closures that turned out to be psychological (Vlerick & Boudry's examples — vitalism, action-at-a-distance, quantum non-locality's early intelligibility crisis). Each one, at the time, looked to the participants like representational closure. In retrospect, it was psychological — the concepts existed but had not been assembled. This track record does not prove there are no genuine representational closures; it shows we are unreliable judges of which is which.
+- **Indirect evidence for the second-order void**: the history of apparent representational closures that turned out to be psychological (Vlerick & Boudry's cases — commonsense-defying theories from Newtonian physics through Darwinian biology to quantum physics). Each looked, to contemporaries, like something the mind could not take in; in retrospect the concepts were attainable all along and the resistance was psychological. This track record does not prove there are no genuine representational closures; it shows we are unreliable judges of which is which.
 - **Asymmetry of error**: false-positives for representational closure are more common than false-negatives. We over-diagnose ourselves as facing principled limits when we are facing merely difficult ones. This is the mirror of the Dunning-Kruger effect, applied to mysterianism.
 
 ### Phenomenology
@@ -195,7 +196,7 @@ Based on this research, a voids article could be written in any of the following
 ## Citations
 
 - Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
-- Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+- Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 125-132.
 - Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.

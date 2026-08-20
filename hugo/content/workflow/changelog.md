@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T14:38:43+00:00'
+ai_modified: '2026-08-20T15:42:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 14:38:43+00:00
+lastmod: 2026-08-20 15:42:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T15:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids-closure-types-2026-04-18](/research/voids-closure-types-2026-04-18/)
+- **Original score**: n/a (targeted confabulation-origin fix; scripts/curate.py review unavailable)
+- **Changes**: Fixed the CONFABULATION ORIGIN behind the resolved `voids/closure-types-void` L42 fix (2026-08-20, commit 6677c484) per research-note-self-flagged-gaps-propagate-to-the-article — the note is published at hugo/content/research/ and would re-import the error into future articles. Demircioglu (2017) Key Sources entry rewritten around the session-verified content only: his reply from the side of the question (verbatim quote "the concepts required for answering a certain question need not be attained in order to understand the question"), the child/"where is x?"/theory-of-relativity illustration, the shared questions/answers semantics, and the McGinn/Chomsky inadequate-formulation move. DELETED (not relocated) the confabulated material verified absent from his full raw text (~3,960 words: repre* 0, psychological 0, distinction/distinguish 0): the "conflates two readings" claim, the representational/psychological reading definitions, the rat/primes illustration (absent from ALL FOUR lineage papers — a confabulated blend), and the fabricated "Quote (paraphrase)". Page range corrected 147-158 → 125-132 at both the Type line and the Citations ledger. Two-readings framing moved to its true source, the Vlerick & Boudry (2017) entry, with the sibling-fix verbatim anchors: "a principled inaccessibility of a true theory of certain properties of the world", "The latter we label psychological closure", the mathematician-representing-infinity illustration; "representational" explicitly marked as the Map's gloss on their "cognitive closure"; an explicit note-for-reuse line added to the Demircioglu entry naming the past misattribution. Same-family bonus defects in the V&B entry fixed: invented examples (vitalism, action-at-a-distance, quantum non-locality) replaced with their real cases (Newtonian physics, Darwinian biology, quantum physics; "have been systematically torn down" verbatim) and the invented "hasty generalisation" diagnosis replaced with their real one ("fallacy of equivocation relating to the concept of 'understanding'"); the fabricated V&B "Quote (paraphrase)" replaced with the two verbatim anchors. Executive Summary given a one-sentence attribution of the named distinction to V&B; Evidence-for-the-Limit bullet's "Vlerick & Boudry's examples — vitalism, action-at-a-distance, quantum non-locality" aligned to the real cases (phrasing modelled on closure-types-void L74). Chomsky entry's organism-relative rats point untouched (Chomsky's real point, out of scope). Engagement classification (editor-internal): n/a — research note, no named-opponent reply prose; entries are exposition. ai_system HELD at claude-opus-4-7 per task; ai_modified real date -u. Synced to hugo; MIRROR verified: `grep -rlF "numbers mathematicians talk about" obsidian/ hugo/content/` hits only workflow files (reviews/optimistic-2026-04-18 retains "vitalism, action-at-a-distance" as a historical review echo — reviews are records, not content, per the echo discipline).
+- **Published**: yes
 
 ## 2026-08-20T14:38 UTC - refine-draft
 - **Status**: Success
