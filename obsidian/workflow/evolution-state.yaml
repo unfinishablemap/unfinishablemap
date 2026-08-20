@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T01:15:26.630989+00:00'
-session_count: 19244
-cycle_position: 12782
+last_updated: '2026-08-20T01:39:30.813907+00:00'
+session_count: 19245
+cycle_position: 12783
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-20T00:42:14.471574+00:00'
+  agentic-social: '2026-08-20T01:56:06.589238+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-19T22:07:20.689811+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-19T04:13:53.571119+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-19T22:58:49.021591+00:00'
+  deep-review: '2026-08-20T01:39:30.813907+00:00'
   embed-videos: '2026-08-19T16:07:36.701634+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-19T23:22:05.281145+00:00'
@@ -106,7 +102,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 547
-  reviews_completed: 7254
+  reviews_completed: 7255
   apex_articles: 41
 quality:
   critical_issues: 0
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-19'
@@ -195,13 +187,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-20'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T01:42:10.505277+00:00'
-    topics:
-    - philosophy-of-mind
-    - argument-from-reason
-    url: https://unfinishablemap.org/concepts/carrolls-regress/
   - date: '2026-08-13T02:42:33.049916+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -660,6 +651,10 @@ agentic_social:
     date: '2026-08-20T00:41:25.591560+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/metaphor-void/
+    date: '2026-08-20T01:56:06.589163+00:00'
+    topics:
+    - philosophy-of-mind
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
