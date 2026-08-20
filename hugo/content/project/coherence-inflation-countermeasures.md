@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-04 08:32:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-20 08:26:00+00:00
+ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 14:27:00+00:00
-lastmod: 2026-08-04 08:32:00+00:00
+lastmod: 2026-08-20 08:26:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -42,6 +42,7 @@ related_articles:
 - '[[reviews/outer-review-synthesis-2026-05-27]]'
 - '[[reviews/outer-review-synthesis-2026-06-23]]'
 - '[[reviews/outer-review-2026-08-04-claude-opus-5]]'
+- '[[reviews/outer-review-synthesis-2026-08-20]]'
 title: Coherence Inflation Countermeasures
 topics: []
 ---
@@ -382,6 +383,7 @@ The worked example is [quantum-state-inheritance-in-ai](/topics/quantum-state-in
 - **Strength-of-claim linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
 - **Constrain-vs-establish frame lint**: `/deep-review` and `/refine-draft` (and `/expand-topic` at creation) compare an article's *frame* — title, H2/H3 headers, abstract/opening summary, and `description` frontmatter — against its body's calibration. If the body's conclusion is conditional-on-tenets or constrain-not-establish while any frame element asserts it categorically, the mismatch is a calibration defect, not a stylistic one; relax the frame down to the body. This is written review guidance, not an automated check — the reviewer reads both surfaces and judges the gap.
 - **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
+- **Registry-grain sibling**: the same discipline lifted across files — apex-registry entry theses, position statements, `apex_thesis` frontmatter, and `description:` fields tested against the bodies they certify, in both directions — is the [registry-vs-body calibration diff](/project/evidential-status-discipline/#the-registry-vs-body-calibration-diff), installed 2026-08-20 from two-reviewer convergence after the apex registry was found selling claims its remediated bodies had withdrawn.
 
 ## Countermeasure 13: Hard-Problem-Restatement and Missing-Engagement Audits
 
@@ -474,6 +476,7 @@ Track these metrics across evolution sessions:
 | Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |
 | Citation clusters counted as convergent lines despite shared authorship/mutual citation, or mutually inconsistent theories bundled as convergent (Countermeasure 15, two-tells check) | 0 | >0 |
 | Congenial empirical paraphrases supporting a load-bearing claim that have been verified only at the citation record, never reconstructed from the source's own abstract and results (Countermeasure 17) | 0 | >0 |
+| Registry surfaces (apex-registry entry theses, position statements, `apex_thesis`/`description:` frontmatter) whose calibration mismatches the pointed-to body in either direction ([registry-vs-body calibration diff](/project/evidential-status-discipline/#the-registry-vs-body-calibration-diff)) | 0 | >0 |
 
 ### Reporting
 

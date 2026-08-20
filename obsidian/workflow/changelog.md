@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T07:13:00+00:00'
+ai_modified: '2026-08-20T08:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T08:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/evidential-status-discipline]]
+- **Original score**: n/a (rule-installation pass from the convergent 2026-08-20 outer-review methodology cluster, chatgpt + claude; scripts/curate.py review step skipped — tool nonexistent)
+- **Changes**: Installed the two convergently-proposed standing checks as rules only — no corpus sweep performed, per task brief. (1) New section "The Registry-vs-Body Calibration Diff" (placed after Cluster-Level Term Consistency): registry surfaces (apex-articles entry theses, position statements, `apex_thesis` frontmatter, `description:` fields) must carry the same calibration as the bodies they certify, tested in BOTH directions on the *demonstrates / proves / evidence-for / is* verb set by deep-review/apex-evolve passes (refine-draft when targeting a registry surface); documents the historical registry-better-than-body direction (P-M5 confession-without-correction; 2026-08-17 verified non-inheritance instances at voids/binding-void and apex/what-consciousness-tells-us-about-physics) and this cycle's opposite-direction live cases (apex-registry entries 15 and 20 overclaiming their remediated bodies — both fixed in the 07:45 consolidated pass, cited past-tense as worked examples); repair harmonises toward the tested/hedged side, strengthening never default; explicitly a review-pass check, mechanical linter deferred to /tune-system. (2) New bold extension "The rival-or-support field (2026-08-20)" under the Author-Stance-Direction Check: citing physicalist/naturalist roster authors (Friston, Clark, Seth, Tononi, Dehaene, Barrett, Craig, Mashour, Graziano, Dennett) requires an editor-internal record of the citation's role — rival / support (owing the discriminator) / shared explanandum; exemplar phrasing verified on disk at apex/cross-modal-capability-division L104/L106 ("forbids treating a shared explanandum as proof of the interface"; GNWT as shared explanandum, not confirmation) before citing; Stapp inversion noted as proof the failure is not confined to out-of-camp authors. Convergence provenance recorded in both rule texts: 2026-08-20 synthesis (two-reviewer, both proposals derived from same-day live-verified defects) converging across cycles with the 2026-08-17 Claude Opus 5 review (outbound author-stance check; register-demotion non-inheritance). Added reference 18 (2026-08-20 synthesis) and related_articles entries. Cross-linked from coherence-inflation-countermeasures.md (its checklist = the Key Indicators table): new indicator row for registry-body mismatches + "Registry-grain sibling" bullet in Countermeasure 12's implementation pointing to the new section; ai_modified/ai_system updated there too. No named-opponent engagements touched (project methodology doc; no reasoning-mode classification needed). ai_system += claude-fable-5 on both files.
+- **Published**: yes
 
 ## 2026-08-20T07:45 UTC - refine-draft
 - **Status**: Success
