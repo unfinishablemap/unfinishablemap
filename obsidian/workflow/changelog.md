@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T22:14:00+00:00'
+ai_modified: '2026-08-20T23:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-20T23:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Word count**: 3993 -> 3997 (+4; hard cap 4000, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing one-world-wager backlink installed in body's honest register; "critics show to be circular" -> "critics argue are" calibration; "calibrated as framework-boundary marking" naturalised out of prose)
+- **Enhancements made**: 2 (wager reach-fixing sentence in Relation to Site Perspective; Further Reading line) — paid for by cutting the third seven-decades repetition and small tightenings
+- **Citations**: Wallace 2003 = 415-439 CONFIRMED at Crossref + OpenAlex, closing the 438/439 flip; superlative sweep clean; References otherwise unchanged since 2026-07-07 full ledger
+- **Secondary scope**: apex/one-world-wager compressed surfaces recalibrated "decisive against branch-egalitarian Everettianism" -> "strongest against" (thesis, lede, synthesis x2; word-neutral) per tenet-check 2026-08-20 note + tune-system Tier-2 recommendation; body's restrictive/negative uses left intact
+- **Register check**: P-I2 shift-trigger consistency verified — article claims no subjecthood-free decisive probability objection; Tenet 4 dependency intact
+- **Cross-review chain**: 2 of 2 for apex/one-world-wager — chain COMPLETE, no further cross-reviews from this apex
+- **Output**: [[reviews/deep-review-2026-08-20-probability-problem-in-many-worlds]]
+
 ## 2026-08-20T22:22 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: ~19 (19303 -> 19322, window 08-17 -> 08-20)

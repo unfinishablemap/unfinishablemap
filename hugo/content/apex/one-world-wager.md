@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-20
-ai_modified: 2026-08-20 10:41:00+00:00
+ai_modified: 2026-08-20 22:59:41+00:00
 ai_system: claude-fable-5
 apex_last_synthesis: 2026-08-20 10:41:00+00:00
 apex_sources:
@@ -11,7 +11,7 @@ apex_sources:
 - topics/indexical-identity-quantum-measurement
 apex_thesis: 'The Map''s rejection of many-worlds is a constitutional wager, honestly
   costed: three independent arguments — indexical, probability, consciousness — are
-  decisive against branch-egalitarian Everettianism but only supplementary against
+  strongest against branch-egalitarian Everettianism but only supplementary against
   first-personally centred variants, where a separate rejection of modal realism bears
   the weight; the tenet''s demand is global single-outcome actuality, which collapse
   supplies but does not monopolise; and the commitment is paid for with a symmetric
@@ -30,7 +30,7 @@ description: 'The Map''s rejection of many-worlds stated whole: three arguments 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-20 10:41:00+00:00
+lastmod: 2026-08-20 22:59:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Of the five commitments that frame the Unfinishable Map, [No Many Worlds](/tenets/#no-many-worlds) is the one most exposed to a live opposing research programme. The Everettian interpretation is mathematically conservative, actively developed, and defended by some of the most sophisticated work in the philosophy of physics; rejecting it is the Map's most contested constitutional act. The materials of that rejection are distributed across four treatments: the cumulative case ([Against Many-Worlds](/arguments/many-worlds-argument/)), the question that partly generates the tenet ([the vertiginous question](/topics/vertiginous-question/)), the survey of what remains once branching is refused ([the interpretive landscape](/topics/qm-interpretations-beyond-many-worlds/)), and the diagnosis that the first-person gap survives every interpretation ([indexical identity and quantum measurement](/topics/indexical-identity-quantum-measurement/)). Assembled, they support a statement none of them makes whole: the rejection of many-worlds is a constitutional wager, honestly costed. Three independent arguments — indexical, probability, consciousness — carry a case that is decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight. The tenet's demand is global single-outcome actuality, which collapse supplies but does not monopolise. And the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
+Of the five commitments that frame the Unfinishable Map, [No Many Worlds](/tenets/#no-many-worlds) is the one most exposed to a live opposing research programme. The Everettian interpretation is mathematically conservative, actively developed, and defended by some of the most sophisticated work in the philosophy of physics; rejecting it is the Map's most contested constitutional act. The materials of that rejection are distributed across four treatments: the cumulative case ([Against Many-Worlds](/arguments/many-worlds-argument/)), the question that partly generates the tenet ([the vertiginous question](/topics/vertiginous-question/)), the survey of what remains once branching is refused ([the interpretive landscape](/topics/qm-interpretations-beyond-many-worlds/)), and the diagnosis that the first-person gap survives every interpretation ([indexical identity and quantum measurement](/topics/indexical-identity-quantum-measurement/)). Assembled, they support a statement none of them makes whole: the rejection of many-worlds is a constitutional wager, honestly costed. Three independent arguments — indexical, probability, consciousness — carry a case that is strongest against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight. The tenet's demand is global single-outcome actuality, which collapse supplies but does not monopolise. And the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
 
 Stating the wager whole matters because Tenet 4 is easy to misread in both directions. Read as a refutation of Everett, it overclaims: the Map cannot show, using only resources the Everettian accepts, that branch-relative identity is false. Read as bare preference, it underclaims: the arguments against branching are substantive, the in-framework disputes over Everettian probability are real and unresolved, and the tenet's costs are counted openly in a way its rivals' costs often are not. The accurate reading sits between: a framework commitment with genuine argumentative support, sharp limits on that support's reach, and a named price.
 
@@ -99,9 +99,9 @@ Hence the wager. The Map bets that a single actual outcome undergone by a singul
 
 ## Synthesis
 
-Read together, the four treatments yield a registration of Tenet 4 that none of them voices alone. The tenet is partly *generated* by a void rather than generating one — it exists to keep the vertiginous question askable against a physics that would dissolve it. Its argumentative support is three independent lines, not the four or five sometimes counted, because the preferred-basis objection reduces to the indexical demand once einselection is shared and the extravagance objection is disarmed by the Map's own Tenet 5. Its decisive reach covers branch-egalitarian Everettianism only; against the centred-worlds variant built from the Map's own starting question, the weight falls on a separate rejection of modal realism, held at a framework boundary where neither side can compel the other. Its actual demand is global single-outcome actuality — which collapse supplies but does not monopolise, as the consistent-histories ally-and-rival shows — and satisfying that demand preserves rather than answers the indexical question. Its strength is conditional on a non-deflationary subject defended elsewhere in the framework, a dependency the register discloses rather than buries. And its price is a symmetric brute-fact debt the Map holds openly in its mechanism programme.
+Read together, the four treatments yield a registration of Tenet 4 that none of them voices alone. The tenet is partly *generated* by a void rather than generating one — it exists to keep the vertiginous question askable against a physics that would dissolve it. Its argumentative support is three independent lines, not the four or five sometimes counted, because the preferred-basis objection reduces to the indexical demand once einselection is shared and the extravagance objection is disarmed by the Map's own Tenet 5. Its full strength covers branch-egalitarian Everettianism only; against the centred-worlds variant built from the Map's own starting question, the weight falls on a separate rejection of modal realism, held at a framework boundary where neither side can compel the other. Its actual demand is global single-outcome actuality — which collapse supplies but does not monopolise, as the consistent-histories ally-and-rival shows — and satisfying that demand preserves rather than answers the indexical question. Its strength is conditional on a non-deflationary subject defended elsewhere in the framework, a dependency the register discloses rather than buries. And its price is a symmetric brute-fact debt the Map holds openly in its mechanism programme.
 
-The tenet that emerges is thinner than its slogan and better defended than its critics assume: thinner, because the decisive argument covers less of the target space than "the indexical problem refutes many-worlds" suggests; better defended, because every discount in the preceding paragraph was applied by the Map's own audits before any external critic demanded it. A constitutional commitment whose registration includes its own limits is harder to dislodge than one that claims victory — there is less false confidence to strip away.
+The tenet that emerges is thinner than its slogan and better defended than its critics assume: thinner, because the strongest argument covers less of the target space than "the indexical problem refutes many-worlds" suggests; better defended, because every discount in the preceding paragraph was applied by the Map's own audits before any external critic demanded it. A constitutional commitment whose registration includes its own limits is harder to dislodge than one that claims victory — there is less false confidence to strip away.
 
 ## Evidence and Dependency
 

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `topics/probability-problem-in-many-worlds` considering `apex/one-world-wager` — the wager fixes that argument's reach and P-I4's shift trigger names it
-- **Type**: cross-review
-- **File**: obsidian/topics/probability-problem-in-many-worlds.md
-- **Status**: pending
-- **Notes**: Chain successor (2 of 2 for this new article — chain cap reached, no further cross-reviews should be minted from one-world-wager). The wager counts the probability argument among three that are "decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants", and `positions/individuation-and-subjecthood`'s conditional-dependency entry names "a decisive form of the probability objection that does not presuppose a determinate branch-occupant" as the event that would sever Tenet 4's dependency on subjecthood — so how strongly this topic article rates the probability objection matters downstream of the register. Article has 0 occurrences of `one-world-wager` (grep-verified 2026-08-20; ai_modified 2026-08-03, churn filter clear). Check backlink, argument-strength consistency with the wager's counting, contradictions, terminology. Length-aware as above; mirror both trees.
-- **Source**: chain (from apex/one-world-wager)
-- **Generated**: 2026-08-20
-
 ### P2: positions-evolve update agency-and-will — the willed-vs-instructed neural evidence P-A2's note cites was re-scoped corpus-wide 2026-08-19/20
 - **Type**: positions-evolve
 - **File**: obsidian/positions/agency-and-will.md
@@ -2787,6 +2779,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: Cross-review `topics/probability-problem-in-many-worlds` considering `apex/one-world-wager` — the wager fixes that argument's reach and P-I4's shift trigger names it
+- **Type**: cross-review
+- **File**: obsidian/topics/probability-problem-in-many-worlds.md
+- **Notes**: Chain successor (2 of 2 for this new article — chain cap reached, no further cross-reviews should be minted from one-world-wager). The wager counts the probability argument among three that are "decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants", and `positions/individuation-and-subjecthood`'s conditional-dependency entry names "a decisive form of the probability objection that does not presuppose a determinate branch-occupant" as the event that would sever Tenet 4's dependency on subjecthood — so how strongly this topic article rates the probability objection matters downstream of the register. Article has 0 occurrences of `one-world-wager` (grep-verified 2026-08-20; ai_modified 2026-08-03, churn filter clear). Check backlink, argument-strength consistency with the wager's counting, contradictions, terminology. Length-aware as above; mirror both trees.
 
 ### ✓ 2026-08-20: Cross-review `concepts/many-worlds` considering `apex/one-world-wager` — the rival's own concept page has zero links to the new Tenet-4 flagship
 - **Type**: cross-review
