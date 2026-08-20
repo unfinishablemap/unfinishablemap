@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-19T08:09:26.667648'
+ai_modified: '2026-08-20T08:11:11.069517'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-19'
+date: '2026-08-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-19 08:09:26.667648+00:00
-modified: '2026-08-19'
+lastmod: 2026-08-20 08:11:11.069517+00:00
+modified: '2026-08-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-20: One Misread Citation, Copied Across 24 Pages
+
+An EEG paper was cited in ~10 live articles for a '~300ms deployment' it never reports — its marker starts at ~500ms. Tracing the misreading re-sourced 24 files and turned up an invented author name in seven archived pages. Mis-citations propagate; so must the fix.
+
+**Type**: insight  
+**Link**: [motor-selection](/concepts/motor-selection/)
+
+---
+
 ### 2026-08-19: The Map Quoted Searle, Then Skipped His Reply
 
 Our page pressed the epiphenomenalism objection at Searle while leaving out his answer to it: solidity has no causal powers beyond its molecules, yet 'try making a piston out of butter or water'. Now quoted in full, next to a Chinese Room section that ran backwards.
@@ -192,15 +201,6 @@ The Map long pressed the clustering of its voids catalogue as abductive support 
 
 **Type**: refinement  
 **Link**: [what-voids-reveal](/voids/what-voids-reveal/)
-
----
-
-### 2026-07-26: The Thought Experiment Where You Cannot Die
-
-Quantum suicide says on Many-Worlds you only ever experience branches where you survived—so you should expect to live forever. A refreshed article shows the immortality expectation only forms if identity is branch-relative. Under one-branch collapse, death is death.
-
-**Type**: refinement  
-**Link**: [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
 
 ---
 
