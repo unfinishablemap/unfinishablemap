@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T21:15:00+00:00'
+ai_modified: '2026-08-20T21:59:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 21:59 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Self-Signature Void — why a mind cannot perceive the distinguishing signature of its own outputs (accent, voice, prose fingerprint, judgment tilt)
+- **Category**: Mixed (primarily Unexplorable — signatures are population-relative properties introspection cannot reach; Occluded edge via motivated maintenance)
+- **Output**: [[research/voids-self-signature-void-2026-08-20]]
+- **Key finding**: Signature-facts invert privileged access — others know your accent, voice, style, and biases better than you can (Mita 1977 mirror dissociation; Pronin's bias blind spot; stylometry's unconscious function-word markers) — and LLMs replicate the same default signature-blindness (Davidson et al. 2024), evidence the limit is structural rather than biological. Voids at 99/100: note weighs standalone vs absorption into self-opacity + voids-between-minds.
 
 ## 2026-08-20 21:15 UTC - deep-review
 
