@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T00:20:00+00:00'
+ai_modified: '2026-08-20T00:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T00:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/conservation-laws-mind-brain-causation-2026-01-23]]
+- **Original score**: n/a (citation-metadata unification task, no prose review)
+- **Changes**: Unified Stapp "Quantum Interactive Dualism" metadata across all content-tree loci. JCS verdict settled POSITIVELY at the publisher index: archived IngentaConnect TOC for *Journal of Consciousness Studies* 12(11), 2005 (Wayback snapshot 2026-01-22 of ingentaconnect.com/content/imp/jcs/2005/00000012/00000011; live page is Cloudflare-walled) lists Stapp's article at pp. 43-58(16) — the JCS-original clause keeps its pages. Zygon page range NOT publisher-verifiable (Crossref page field empty; Wiley 402s and has no Wayback snapshot), so both variants (599–615 and 599–616) dropped everywhere in favour of DOI-without-pages canonical form. Edited: research/conservation-laws-mind-brain-causation-2026-01-23 L317 (2007→2006, venue+DOI+JCS original attached), research/completeness-in-physics-epr-bell-2026-03-17 L166, research/phenomenology-volitional-control-2026-03-20 L238, research/asymmetric-bandwidth-consciousness-2026-03-02 L226, research/quantum-state-inheritance-computational-systems-2026-02-10 L245, topics/quantum-state-inheritance-in-ai L143, concepts/quantum-completeness L130, topics/completeness-in-physics-under-dualism L153 (both numbered ledgers edited in place, no renumbering) + two archive-tree wrong-year loci (archive/topics/conservation-laws-and-mind L202, archive/concepts/conservation-laws-mind-brain-causation L125: 2007→2005 LBNL with Zygon 2006 note). Already-canonical loci verified and left: parapsychology-firewall, selection-only-channel, selection-only-mind-influence, channel-class-taxonomy, apex/dualism-cartography (its JCS 43–58 now publisher-confirmed), conservation-laws-and-mental-causation, quantum-zeno-effect prose. Synced to Hugo; closing greps 0 stray page ranges, 0 wrong-year QID cites outside reviews/workflow.
+- **Published**: yes
 
 ## 2026-08-20T00:20:00+00:00 - optimistic-review
 - **Status**: Success

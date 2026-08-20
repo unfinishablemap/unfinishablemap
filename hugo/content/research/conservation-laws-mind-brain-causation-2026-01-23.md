@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-02 07:48:39+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-20 00:31:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 concepts: []
 created: 2026-01-23
-date: '2026-08-02'
+date: '2026-08-20'
 draft: false
-lastmod: 2026-08-02 07:48:39+00:00
+lastmod: 2026-08-20 00:31:00+00:00
 related_articles: []
 title: Research Notes - Conservation Laws and Mind-Brain Causation
 ---
@@ -318,5 +318,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
 - Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
 - Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707. https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
-- Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
+- Stapp, H. P. (2006). "Quantum Interactive Dualism: An Alternative to Materialism." *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x — originally published in *Journal of Consciousness Studies*, 12(11), 43–58 (2005). (Preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 - Stanford Encyclopedia of Philosophy. "Quantum Approaches to Consciousness." https://plato.stanford.edu/entries/qt-consciousness/

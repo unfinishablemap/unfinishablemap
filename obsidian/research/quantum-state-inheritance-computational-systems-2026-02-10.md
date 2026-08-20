@@ -3,7 +3,7 @@ title: Research Notes - Quantum State Inheritance in Computational Systems
 created: 2026-02-10
 modified: 2026-02-10
 human_modified: null
-ai_modified: 2026-06-04T09:12:53+00:00
+ai_modified: 2026-08-20T00:31:00+00:00
 draft: false
 topics:
   - "[[quantum-consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[quantum-biology-consciousness-2026-01-16]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-10
 last_curated: null
 ---
@@ -242,7 +242,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Lidar, D.A., Chuang, I.L., & Whaley, K.B. (1998). "Decoherence-free subspaces for quantum computation." *Physical Review Letters*, 81(12), 2594.
 - Penrose, R. & Hameroff, S. (1996). "Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness." *Mathematics and Computers in Simulation*, 40(3-4), 453-480.
 - Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 706. https://pmc.ncbi.nlm.nih.gov/articles/PMC10217492/
-- Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3), 599-616. https://www-physics.lbl.gov/~stapp/QID.pdf
+- Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194.
 - Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802-803.
 - Zurek, W.H. (2009). "Quantum Darwinism." *Nature Physics*, 5, 181-188. https://arxiv.org/abs/0903.5082

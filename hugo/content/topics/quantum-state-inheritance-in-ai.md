@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-07-15 17:19:55+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-20 00:31:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
 - '[[decoherence]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 17:19:55+00:00
-lastmod: 2026-07-15 17:19:55+00:00
+lastmod: 2026-08-20 00:31:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/machine-question]]'
@@ -143,7 +143,7 @@ None of this rules out artificial consciousness permanently. It rules out consci
 1. Nielsen, M.A. & Chuang, I.L. (2010). *Quantum Computation and Quantum Information* (10th Anniversary ed.). Cambridge University Press, §1.3.5 ("the no-cloning theorem").
 1. Paetznick, A. et al. (2024). "Demonstration of logical qubits and repeated error correction with better-than-physical error rates." arXiv:2404.02280.
 1. Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 706.
-1. Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3), 599-616.
+1. Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206. PMID 11088215.
 1. Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802-803.
 1. Zurek, W.H. (2009). "Quantum Darwinism." *Nature Physics*, 5, 181-188.

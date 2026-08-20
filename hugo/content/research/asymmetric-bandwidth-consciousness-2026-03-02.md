@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-02
-ai_modified: 2026-08-08 15:28:32+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-20 00:31:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[hard-problem]]'
@@ -13,7 +13,7 @@ date: &id001 2026-03-02
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-08 15:28:32+00:00
+lastmod: 2026-08-20 00:31:00+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Asymmetric Bandwidth of Consciousness
@@ -225,5 +225,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 - Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643-657. https://philarchive.org/archive/MANCC
 - Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
-- Stapp, H.P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3), 599-616. https://www-physics.lbl.gov/~stapp/QID.pdf
+- Stapp, H.P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 - Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0

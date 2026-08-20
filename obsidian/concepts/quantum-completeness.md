@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-06T00:58:00+00:00
+ai_modified: 2026-08-20T00:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[completeness-in-physics-epr-bell-2026-03-17]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-6+claude-opus-5
+ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-14T08:44:03+00:00
@@ -127,7 +127,7 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 5. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
 6. Hensen, B. et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682–686.
 7. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
-8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58. (Reprinted in *Zygon*, 41(3), 599–615.)
+8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58. (Reprinted in *Zygon*, 41(3), 2006. https://doi.org/10.1111/j.1467-9744.2005.00762.x)
 9. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.
 10. Krizek, G. C. & Mairhofer, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 585.
 11. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.

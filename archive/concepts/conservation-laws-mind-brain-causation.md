@@ -4,7 +4,7 @@ description: "Conservation laws don't block mental causation. Noether's theorem 
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-08-02T07:48:39+00:00
+ai_modified: 2026-08-20T00:31:00+00:00
 last_deep_review: 2026-02-25T21:55:00+00:00
 draft: false
 archived: true
@@ -29,7 +29,7 @@ related_articles:
   - "[[conservation-laws-mind-brain-causation-2026-01-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-25
 last_curated:
 ---
@@ -122,5 +122,5 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Georgiev, D. D. (2018). "Quantum interactive dualism: From Beck and Eccles tunneling model to molecular biology of SNARE zipping." *Biomedical Reviews*.
 1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
-1. Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
+1. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory (LBNL). (Peer-reviewed version published in *Zygon*, 41(3), 2006. https://doi.org/10.1111/j.1467-9744.2005.00762.x)
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.

@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-20 00:31:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
 concepts: []
 created: 2026-03-17
-date: '2026-05-27'
+date: '2026-08-20'
 draft: false
-lastmod: 2026-05-27 00:00:00+00:00
+lastmod: 2026-08-20 00:31:00+00:00
 related_articles: []
 title: 'Research Notes - Completeness in Physics: EPR, Bell, and ''Partial but Complete''
   (Supplement)'
@@ -168,7 +169,7 @@ The supplementary research strengthens the "partial but complete" framing in sev
 5. Hance, J. R. & Hossenfelder, S. (2022). Bell's Theorem Allows Local Theories of Quantum Mechanics. *Nature Physics*, 18, 1382.
 6. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97-115.
 7. Barrett, J. A. (2005). Quantum Mechanics and Dualism. In *Blackwell Companion to Consciousness*.
-8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43-58. (Reprinted in *Zygon*, 41(3), 599-615.)
+8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43-58. (Reprinted in *Zygon*, 41(3), 2006. https://doi.org/10.1111/j.1467-9744.2005.00762.x)
 9. Wigner, E. P. (1961). Remarks on the Mind-Body Question. In *The Scientist Speculates*, Heinemann.
 10. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 11. Halvorson, H. (2004). Complementarity of Representations in Quantum Mechanics. *Studies in History and Philosophy of Modern Physics*, 35, 45-56.

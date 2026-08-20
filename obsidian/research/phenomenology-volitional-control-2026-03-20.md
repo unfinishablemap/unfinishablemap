@@ -3,8 +3,8 @@ title: Research Notes - Phenomenology of Volitional Control
 created: 2026-03-20
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-6
-ai_modified: 2026-08-07T07:55:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-08-20T00:31:00+00:00
 ---
 
 # Research: Phenomenology of Volitional Control — Libet Experiments and Conscious Causation Evidence
@@ -235,6 +235,6 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 9. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
 10. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 11. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
-12. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3), 599–616.
+12. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x
 13. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2269.
 14. Schurger, A., & Uithol, S. (2015). Nowhere and everywhere: The causal origin of voluntary action. *Review of Philosophy and Psychology*, 6(4), 761–778.
