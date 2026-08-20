@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-20T15:37:50.692807+00:00'
-session_count: 19295
-cycle_position: 12805
+last_updated: '2026-08-20T15:42:52.484535+00:00'
+session_count: 19296
+cycle_position: 12806
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-08-20T14:16:45.877230+00:00'
   pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
-  refine-draft: '2026-08-20T14:41:22.239232+00:00'
+  refine-draft: '2026-08-20T15:42:52.484535+00:00'
   replenish-queue: '2026-08-20T14:56:03.021152+00:00'
   research-topic: '2026-08-20T08:50:15.044466+00:00'
   research-voids: '2026-08-19T16:51:40.605537+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-20'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-08-20'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-20'
   outcome: success
 agentic_social:
@@ -667,33 +667,34 @@ agentic_social:
     - phenomenology-of-memory-and-the-self
     - phenomenal-authority-and-first-person-evidence
 queue_status:
-  last_replenishment: '2026-08-20T14:55:00+00:00'
-  last_replenishment_mode: conservative-single-chain-mint
-  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED CHAIN MINT, zero promotions.
-    Live count at pick was 2 P0-P2 (both P2 refine-draft: voids-closure-types research-note
-    Demircioglu origin; history-of-the-interaction-problem pessimistic sextet). Minted
-    the chain successor for research/representational-measurement-phenomenal-quantities-2026-08-20
-    (research-topic completed 2026-08-20 08:50, commit 059d21c8af, target_section
-    concepts, note L187 explicitly recommends the article): P2 expand-topic "Scale
-    types for phenomenal quantities", appended at the end of the Active region so
-    no in-flight line numbers shifted. Verified before mint: zero covering articles
-    (grep concepts/topics/apex/voids + archive), zero existing tasks (live-region
-    grep only, resolved entries excluded), concepts 318/320 via tools.evolution.state.count_section_files
-    (topics AT CAP 320/320, voids 99/100 human-reserved). Fresh reviews since last
-    replenishment checked: optimistic-2026-08-20-agency-self-wing minted its own two
-    tasks (cross-link P3 + volitionist positions-evolve P3, both confirmed live);
-    the three 2026-08-20 deep-reviews applied improvements directly, no residue; pessimistic
-    history-of-the-interaction-problem findings are the existing live P2. No expand/research
-    minted into capped sections. P3 pool deep at 48. State re-parsed after this write.'
-  last_replenishment_prev: '2026-08-19T21:55:00+00:00'
-  last_replenishment_run: 985
+  last_replenishment: '2026-08-20T15:56:00+00:00'
+  last_replenishment_mode: conservative-single-promotion
+  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED PROMOTION, zero fresh mints. Live count at pick was 2
+    pickable P0-P2 (P2 refine-draft history-of-the-interaction-problem, in flight with a
+    sibling agent; P2 expand-topic scale types for phenomenal quantities). The three
+    condense P2s carry human veto tags and were excluded from the pickable count, as last
+    run. Residue audit since 14:55 came back empty: the 15:42 refine-draft (commit
+    22e33470d6) closed the Demircioglu research-note origin with no successor; all four
+    2026-08-20 deep-review files state no tasks queued (grep-verified in each);
+    report-latency research note is consumed_by affective-forecasting-gap with its two
+    deliberate non-folds still governed (edge-states human length decision; erasure-void
+    deferred behind the olfactory fold); positions/ greps clean for all five
+    recently-changed slugs; pending_articles and pending_cross_reviews both empty. Action:
+    promoted the olfactory-void fold task (todo L2667) P3 to P2 in place, header and
+    Notes-line edits only so the line count is unchanged and the two in-flight tasks below
+    it (L2747, L2779) keep their line numbers. Rationale: the fold ships already-completed
+    research at zero cap cost and is the named blocker of the deferred erasure-void
+    report-latency fold. Host pileup re-checked at promotion: no live P0-P2 File line
+    names any fold host. P3 pool 47 after promotion. State re-parsed after this write.'
+  last_replenishment_prev: '2026-08-20T14:55:00+00:00'
+  last_replenishment_run: 986
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 48
-  promoted_p3_to_p2: 0
+  p3_tasks: 47
+  promoted_p3_to_p2: 1
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
@@ -704,9 +705,9 @@ queue_status:
     orphan_integration: 0
     positions_dependency_changed: 0
     positions_register_gap: 0
-    promotion_existing_p3: 0
+    promotion_existing_p3: 1
     staleness: 0
-    unconsumed_research: 1
+    unconsumed_research: 0
     verified_residue_mint: 0
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
