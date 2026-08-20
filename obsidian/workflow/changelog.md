@@ -5,6 +5,11 @@ ai_modified: '2026-08-20T10:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-20T11:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/history-of-the-interaction-problem (first dedicated pessimistic pass; 37d converged, 5 prior deep reviews). Raw-text verification at open-access primary sources (Stencil 2023 JMP full text, Cucu & Pitts arXiv abstract, Crossref) found the citation-READING surface unchecked by the 2026-07-11 publisher-of-record ledger: Stencil's coined three-problem taxonomy unattributed at point of use and bent against his thesis; Elisabeth quote 3 not from the cited Shapiro edition; Cucu & Pitts's accepts-non-conservation response stacked with the Map's no-energy-transfer claim as if cumulative; L133 MQI paragraph reads above the register's mechanism-debt citation grade and states the pre-honesty energy claim the sibling conservation article corrected; "Dualism is no longer marginal" over-reads the non-physicalism figure; More immateriality/unextendedness contradiction. One consolidated P2 refine-draft task minted (todo.md, foot of Active). Register check prevented false flags (persistence claim covered by P-SC3; mechanism claims by quantum-interface register). No content modified.
+- **Output**: [[pessimistic-2026-08-20-history-of-the-interaction-problem]]
+
 ## 2026-08-20T10:41 UTC - apex-evolve (create)
 - **Status**: Complete — ADMITTED as #37
 - **Article**: [[apex/one-world-wager]] — "The One-World Wager", the Tenet-4 apex-layer registration (P2 from outer review 2026-08-20 Claude Opus 5 §2.2)
