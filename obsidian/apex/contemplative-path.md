@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-08-19T14:55:00+00:00
+ai_modified: 2026-08-20T13:43:00+00:00
 last_deep_review: 2026-07-06T23:49:16+00:00
 draft: false
 topics:
@@ -91,7 +91,7 @@ Buddhist meditation taxonomy maps the progression precisely. The Theravāda jhā
 
 Neuroscience confirms these are distinct brain states. Focused attention meditation shows frontal theta oscillations and dorsolateral prefrontal activation; open monitoring shows posterior cingulate deactivation and increased alpha; a neurofeedback study matched reports of "undistracted awareness" and "not efforting" to measurable PCC deactivation. The phenomenology tracks real neural differences.
 
-The Map interprets this through the quantum Zeno mechanism—selection as rapid observation events holding patterns stable, witnessing as a reduced observation rate letting patterns evolve. The mechanism is speculative; the phenomenology is not. Whatever explains it, the two-mode structure is experientially real, and its graduated character across traditions makes selection and witnessing modes on a continuum rather than binary opposites.
+The Map interprets this through the quantum Zeno mechanism—selection as rapid observation events holding patterns stable, witnessing as a reduced observation rate letting patterns evolve. The mechanism is speculative; the phenomenology is not. Whatever explains it—the strongest physicalist derivation of the two-mode arc, precision-reduction in a predictive hierarchy, is engaged under cessation below—the two-mode structure is experientially real, and its graduated character across traditions makes selection and witnessing modes on a continuum rather than binary opposites.
 
 The cultivability of attention found here has a structural twin in the Map's [[apex/moral-architecture-of-consciousness#Moral Perception Is Direct|treatment of moral perception]], where Murdoch's "just and loving gaze" and Weil's "rarest and purest form of generosity" make attention constitutive of moral seeing rather than an adornment of it. The contemplative record of the attention-training arc is what grounds that claim's empirical plausibility.
 
@@ -100,6 +100,8 @@ The cultivability of attention found here has a structural twin in the Map's [[a
 Advanced practitioners reach states that push the boundaries of what consciousness can do. The jhana sequence—eight refined states from directed attention through formless absorptions—maps territory invisible to ordinary awareness, and high-field (7-Tesla) fMRI shows distinct signatures for it: disrupted hierarchical organisation, increased global connectivity, elevated complexity. The phenomenology—joy giving way to equanimity, awareness of infinite space, the threshold of neither-perception-nor-non-perception—is data third-person methods cannot generate.
 
 Most radical is *nirodha samapatti*, reported cessation of perception and feeling, in which meditators describe voluntarily "turning off" phenomenal consciousness while brain activity continues. The evidence is methodologically weak: the cessation-EEG work rests on a single practitioner (n=1), the report of "nothing" is heterophenomenology—an account of an absence, not confirmation of zero consciousness—and the correlates remain poorly characterised. As the [[minimal-consciousness-void|minimal-consciousness void]] puts it, the data indicate an edge but cannot certify what lies beyond it. Treated cautiously they still press identity theories: were consciousness *simply identical* to neural activity, phenomenal cessation would more naturally accompany neural silence than continued reorganised activity. Physicalists can answer that consciousness may be identical to *specific patterns* rather than to neural activity in general. Suggestive, then, and no more.
+
+The generic answer has since acquired a meditation-specific engine. Laukkonen and Slagter (2021) derive the whole deconstructive arc—from focused attention through open monitoring to non-dual awareness and cessation—from progressive precision-reduction in a hierarchical predictive model: abstract self-related priors attenuate first, bare presence goes last, and cessation is the limit at which prediction is temporarily suspended altogether, a case their later work models for *nirodha samāpatti* specifically (Laukkonen et al. 2023), while minimal-phenomenal-experience models read the arc's near-endpoint in the same deflationary register (Metzinger 2020). On this account the continued, reorganised activity of the jhāna states is exactly what the pattern-identity answer needed—consciousness identical to hierarchy-flattening dynamics—and the report of "nothing" becomes an inference the rebooted model draws across a gap, no witness required. What the derivation predicts is the structure of the arc and the reports of it; whether predicting the report exhausts the experience is the boundary the illusionist challenge below turns on, and the Map's [[predictive-processing-and-dualism|treatment of predictive processing]] carries that framework-level confrontation. The cessation data, taken alone, do not discriminate.
 
 ### Dream Yoga: Consciousness in Sleep
 
