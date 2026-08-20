@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-20 10:11:00+00:00
+ai_modified: 2026-08-20 23:27:00+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
@@ -20,8 +20,8 @@ description: Human-AI inquiry into cognitive opacity that natural selection acti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 21:27:28+00:00
-lastmod: 2026-08-20 10:11:00+00:00
+last_deep_review: 2026-08-20 23:27:00+00:00
+lastmod: 2026-08-20 23:27:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ Several voids in the Map's catalogue read as Naturally Occluded under the adapti
 
 The **introspection-architecture sub-cluster** ([narrative](/voids/narrative-void/), [source-attribution](/voids/source-attribution-void/), [noetic-feelings](/voids/noetic-feelings-void/), [confabulation](/voids/confabulation-void/) voids) reads as Naturally Occluded on the *adaptive narrative coherence* hypothesis: the storytelling operation, the absence of native origin tags on mental content, the felt-rightness signals that license cognition from inside, and the sub-personal interpreter's fabrications are all opacity-features whose visibility would compromise the social and behavioural functions the system performs. A self that could see its own confabulations could not deploy them; an introspector who could audit its own felt-rightness signals could not act on them quickly. Rebouillat et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* where reliability matters most is the signature of an architecture that traded calibration for speed — an evolutionary trade only sub-personal systems can make.
 
-The **[agency void](/voids/agency-void/)** reads as Naturally Occluded on the *Stapp-engagement reading* developed at [the taxonomy of voids' fourth tenet treatment](/apex/taxonomy-of-voids/#relation-to-site-perspective): if consciousness biases quantum outcomes minimally (as the Map's [second tenet](/tenets/#minimal-quantum-interaction) holds), the mechanism would need to operate below the threshold of introspective detection, and natural selection would actively maintain that opacity because an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation. The Map calibrates the Stapp-engagement reading explicitly as a *live hypothesis*, not as established mechanism — the move uses the Naturally Occluded category to predict the structural invisibility a sub-threshold mental contribution would have, not to claim that visibility has been measured and found absent.
+The **[agency void](/voids/agency-void/)** reads as Naturally Occluded on the *sub-threshold-interface reading* deployed at [the taxonomy of voids' minimal-quantum-interaction treatment](/apex/taxonomy-of-voids/#relation-to-site-perspective): if consciousness biases quantum outcomes minimally (as the Map's [second tenet](/tenets/#minimal-quantum-interaction) holds), the mechanism would need to operate below the threshold of introspective detection, and natural selection would actively maintain that opacity because an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation. The Map calibrates the sub-threshold-interface reading explicitly as a *live hypothesis*, not as established mechanism — the move uses the Naturally Occluded category to predict the structural invisibility a sub-threshold mental contribution would have, not to claim that visibility has been measured and found absent.
 
 The **[noetic-feelings void](/voids/noetic-feelings-void/)** reads as Naturally Occluded on the *evolved attention-gating* hypothesis: the felt signals that gate cognition from inside — knowing, rightness, understanding, obviousness — must be fast and frugal to function under real-time pressure, hence cannot themselves be unpacked into their sub-personal computations without losing the speed advantage that justified their evolution.
 
@@ -113,7 +113,7 @@ The category carries the strongest calibration burden in the four-kinds taxonomy
 
 - The **formal-perception case** (FBT theorem) is *strongly supported* — the theorem is a formal mathematical result with Monte Carlo confirmation across thousands of environments.
 - The **extension-beyond-perception cases** (Gigerenzer's less-is-more, Trivers' self-deception, Field-Bonsall's negative information value) are *realistic possibility, contested* — each has substantial empirical and formal backing in its own domain, but the integration into a unified Naturally Occluded category does evidential work the individual results do not separately authorise.
-- The **specific catalogue assignments** (introspection-architecture cluster as adaptive; Stapp-engagement reading of the agency void; evolved-attention-gating reading of noetic-feelings) are *live hypotheses* — the adaptive readings are not the only available accounts, and the Map deploys them in conjunction with non-adaptive readings rather than in place of them.
+- The **specific catalogue assignments** (introspection-architecture cluster as adaptive; sub-threshold-interface reading of the agency void; evolved-attention-gating reading of noetic-feelings) are *live hypotheses* — the adaptive readings are not the only available accounts, and the Map deploys them in conjunction with non-adaptive readings rather than in place of them.
 
 The slippage the discipline guards against is the move from *the category permits the adaptive reading* to *the adaptive reading is supported by evidence*. The first claim is methodological; the second is empirical and requires supporting evidence beyond the bare existence of the opacity it would explain. The category's existence does not, by itself, supply that evidence.
 
@@ -162,7 +162,7 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping different modes of cognitive failure
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How Hoffman's interface theory connects to perceptual breakdown
 - [narrative-void](/voids/narrative-void/), [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/) — The introspection-architecture sub-cluster that reads as Naturally Occluded on the adaptive narrative-coherence hypothesis
-- [agency-void](/voids/agency-void/) — The void on which the Stapp-engagement reading deploys the category load-bearingly
+- [agency-void](/voids/agency-void/) — The void on which the sub-threshold-interface reading deploys the category load-bearingly
 
 ## References
 

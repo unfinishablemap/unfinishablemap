@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: positions-evolve update agency-and-will — the willed-vs-instructed neural evidence P-A2's note cites was re-scoped corpus-wide 2026-08-19/20
-- **Type**: positions-evolve
-- **File**: obsidian/positions/agency-and-will.md
-- **Status**: pending
-- **Notes**: Dependency moved. P-A2's "Bears on" note grounds the thick-indexical-subject common root partly on "the agency cluster's argument from reason and willed-vs-instructed neural data". Two citation-fidelity sweeps have since re-scoped exactly that data: (a) 2026-08-19 Rajan et al. (2019) reading sweep (changelog, anchored on `concepts/motor-selection`) — the willed-vs-instructed effect is a *relative frontal-theta increase* starting ~500 ms post-cue (not an absolute ~300 ms deployment), with the phantom "Bengson 2019" citations corrected to Rajan across ~10 files; (b) 2026-08-20 14:38 `concepts/phenomenology-of-choice-and-volition` L119 — the flat "~300ms willed vs ~100ms instructed" pair verified ABSENT from Haggard 2008 (a conflation of Müller & Rabbitt 1989 attention deployment with motor commitment), replaced with Thura & Cisek 2014 (~280 ms commitment) plus Rajan willed-attention theta, hedged "consistent with … though they do not by themselves establish it". The register was last reviewed 2026-08-02/03 — before both sweeps. Verify P-A2's (and P-A3's, if it leans on the same data) evidential wording still tracks the corrected corpus statement; update Last reviewed; tighten or loosen confidence only if genuinely warranted — the calibrated expectation is wording-level, not band-level. Coordinate with the open P3 "Register the volitionist half" add task on the same file (one run may do both, but do NOT mark that task done from this one). The register file is at hard_warning (2773w) under an open NEEDS-HUMAN section-tuning entry — keep the update length-neutral.
-- **Source**: positions_dependency_changed
-- **Generated**: 2026-08-20
-
 ### P2: positions-evolve add — the Map's anti-MWI arguments are variant-relative: decisive against branch-egalitarian Everettianism, supplementary against first-personally centred variants
 - **Type**: positions-evolve
 - **File**: obsidian/positions/individuation-and-subjecthood.md
@@ -2781,6 +2773,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: positions-evolve update agency-and-will — the willed-vs-instructed neural evidence P-A2's note cites was re-scoped corpus-wide 2026-08-19/20
+- **Type**: positions-evolve
+- **File**: obsidian/positions/agency-and-will.md
+- **Notes**: Dependency moved. P-A2's "Bears on" note grounds the thick-indexical-subject common root partly on "the agency cluster's argument from reason and willed-vs-instructed neural data". Two citation-fidelity sweeps have since re-scoped exactly that data: (a) 2026-08-19 Rajan et al. (2019) reading sweep (changelog, anchored on `concepts/motor-selection`) — the willed-vs-instructed effect is a *relative frontal-theta increase* starting ~500 ms post-cue (not an absolute ~300 ms deployment), with the phantom "Bengson 2019" citations corrected to Rajan across ~10 files; (b) 2026-08-20 14:38 `concepts/phenomenology-of-choice-and-volition` L119 — the flat "~300ms willed vs ~100ms instructed" pair verified ABSENT from Haggard 2008 (a conflation of Müller & Rabbitt 1989 attention deployment with motor commitment), replaced with Thura & Cisek 2014 (~280 ms commitment) plus Rajan willed-attention theta, hedged "consistent with … though they do not by themselves establish it". The register was last reviewed 2026-08-02/03 — before both sweeps. Verify P-A2's (and P-A3's, if it leans on the same data) evidential wording still tracks the corrected corpus statement; update Last reviewed; tighten or loosen confidence only if genuinely warranted — the calibrated expectation is wording-level, not band-level. Coordinate with the open P3 "Register the volitionist half" add task on the same file (one run may do both, but do NOT mark that task done from this one). The register file is at hard_warning (2773w) under an open NEEDS-HUMAN section-tuning entry — keep the update length-neutral.
 
 ### ✓ 2026-08-20: Cross-review `topics/probability-problem-in-many-worlds` considering `apex/one-world-wager` — the wager fixes that argument's reach and P-I4's shift trigger names it
 - **Type**: cross-review

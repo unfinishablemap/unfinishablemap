@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T23:12:00+00:00'
+ai_modified: '2026-08-20T23:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 23:12:00+00:00
+lastmod: 2026-08-20 23:27:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T23:27 UTC - deep-review
+- **Status**: Success
+- **File**: [naturally-occluded](/concepts/naturally-occluded/)
+- **Word count**: 2948 -> 2947 (-1; soft_warning, length-neutral mode)
+- **Scope**: only change since the clean 2026-07-06 review was the 2026-08-20 Stapp-attribution sweep (`55a1895127`) editing one phrase in the MQI tenet paragraph — pass reviewed that change's consistency with the rest of the article, not a full re-litigation of a 4x-reviewed converged article
+- **Critical issues addressed**: 2 (stale "Stapp-engagement reading" label — 4 occurrences the sweep left live, tying Stapp's name to the outcome-biasing frame his primary texts decline per positions/quantum-interface P-Q4 and the sweep's own corrections — renamed to "sub-threshold-interface reading"; false provenance "developed at the taxonomy of voids' fourth tenet treatment" — apex has never contained "Stapp" in its git history and never used the label — reworded to "deployed at ... minimal-quantum-interaction treatment")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (new label names what the reading claims rather than who it was loosely associated with)
+- **Propagation**: sibling echo in concepts/possibility-probability-slippage L67 renamed to match (ai_system appended +claude-fable-5); corpus grep post-fix: zero live "Stapp-engagement" outside reviews/+workflow/ (historical echoes, untouched); both trees synced, hugo verified
+- **Citations**: stable-References skip — References byte-identical since the 2026-06-05 full publisher-of-record ledger; inline<->References cross-check re-confirmed, no orphans; superlative sweep clean
+- **Engagement modes**: no named-opponent refutations; McGinn honest boundary-marking, no label leakage
+- **Output**: [deep-review-2026-08-20-naturally-occluded](/reviews/deep-review-2026-08-20-naturally-occluded/)
 
 ## 2026-08-20T23:12 UTC - positions-evolve (update P-A2)
 - **Status**: Success
