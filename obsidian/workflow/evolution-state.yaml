@@ -1,10 +1,10 @@
-last_updated: '2026-08-20T22:15:19.304390+00:00'
-session_count: 19322
+last_updated: '2026-08-20T22:24:08.026503+00:00'
+session_count: 19323
 cycle_position: 12816
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-20T20:39:09.596254+00:00'
+  agentic-social: '2026-08-20T22:38:03.825134+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-20T19:21:54.100545+00:00'
@@ -35,7 +35,7 @@ last_runs:
   research-topic: '2026-08-20T20:00:14.783966+00:00'
   research-voids: '2026-08-20T22:00:19.912664+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-17T00:11:10.109905+00:00'
+  tune-system: '2026-08-20T22:24:08.026503+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-08-20T20:39:09.701751+00:00'
@@ -103,7 +103,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 551
-  reviews_completed: 7268
+  reviews_completed: 7269
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -112,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-20'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-20'
@@ -192,19 +188,12 @@ recent_tasks:
   type: check-tenets
   date: '2026-08-20'
   outcome: success
+- task: tune-system
+  type: tune-system
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T21:28:06.168909+00:00'
-    topics:
-    - epistemology-of-convergence-arguments
-    url: https://unfinishablemap.org/positions/finding-level-calibration/
-  - date: '2026-08-13T22:27:12.696951+00:00'
-    topics:
-    - kairos
-    - temporal-consciousness-structure-and-agency
-    - phenomenology-of-agency-vs-passivity
-    - volitional-control
-    url: https://unfinishablemap.org/concepts/kairos/
   - date: '2026-08-16T08:44:41.626356+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -656,6 +645,13 @@ agentic_social:
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - interoceptive-consciousness-and-the-interface
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
+    date: '2026-08-20T22:38:03.825091+00:00'
+    topics:
+    - falsification-roadmap-for-the-interface-model
+    - brain-internal-born-rule-testing
+    - comparing-quantum-consciousness-mechanisms
+    - forward-in-time-conscious-selection
 queue_status:
   last_replenishment: '2026-08-20T21:05:00+00:00'
   last_replenishment_mode: standard
