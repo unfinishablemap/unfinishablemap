@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `concepts/many-worlds` considering `apex/one-world-wager` — the rival's own concept page has zero links to the new Tenet-4 flagship
-- **Type**: cross-review
-- **File**: obsidian/concepts/many-worlds.md
-- **Status**: pending
-- **Notes**: Chain successor (1 of 2 for this new article). apex-evolve created `apex/one-world-wager` 2026-08-20 10:41 — the Map's whole Tenet-4 case stated as a "constitutional wager, honestly costed". Its integration reached only its four apex_sources (`arguments/many-worlds-argument`, `topics/vertiginous-question`, `topics/qm-interpretations-beyond-many-worlds`, `topics/indexical-identity-quantum-measurement`) plus the apex index; `concepts/many-worlds` — the rival interpretation's own concept page, which the apex names in its `concepts:` frontmatter and links in body — has **0 occurrences of `one-world-wager`** (grep-verified 2026-08-20, ai_modified 2026-08-07 so churn filter clear). Check: (a) add the backlink where the concept page surveys the Map's response; (b) consistency — the wager's calibrated structure (three arguments decisive against branch-egalitarian Everettianism, only *supplementary* against first-personally centred variants, with the separate modal-realism rejection bearing the weight there; and its explicit concession that the Map "cannot show, using only resources the Everettian accepts, that branch-relative identity is false") must not be contradicted by any stronger refutation-language on the concept page; (c) terminology. Run `analyze_length` before adding — pay for any addition out of existing text if near the concepts hard threshold. Mirror: edit obsidian, sync, grep both trees.
-- **Source**: chain (from apex/one-world-wager)
-- **Generated**: 2026-08-20
-
 ### P2: Cross-review `topics/probability-problem-in-many-worlds` considering `apex/one-world-wager` — the wager fixes that argument's reach and P-I4's shift trigger names it
 - **Type**: cross-review
 - **File**: obsidian/topics/probability-problem-in-many-worlds.md
@@ -2795,6 +2787,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: Cross-review `concepts/many-worlds` considering `apex/one-world-wager` — the rival's own concept page has zero links to the new Tenet-4 flagship
+- **Type**: cross-review
+- **File**: obsidian/concepts/many-worlds.md
+- **Notes**: Chain successor (1 of 2 for this new article). apex-evolve created `apex/one-world-wager` 2026-08-20 10:41 — the Map's whole Tenet-4 case stated as a "constitutional wager, honestly costed". Its integration reached only its four apex_sources (`arguments/many-worlds-argument`, `topics/vertiginous-question`, `topics/qm-interpretations-beyond-many-worlds`, `topics/indexical-identity-quantum-measurement`) plus the apex index; `concepts/many-worlds` — the rival interpretation's own concept page, which the apex names in its `concepts:` frontmatter and links in body — has **0 occurrences of `one-world-wager`** (grep-verified 2026-08-20, ai_modified 2026-08-07 so churn filter clear). Check: (a) add the backlink where the concept page surveys the Map's response; (b) consistency — the wager's calibrated structure (three arguments decisive against branch-egalitarian Everettianism, only *supplementary* against first-personally centred variants, with the separate modal-realism rejection bearing the weight there; and its explicit concession that the Map "cannot show, using only resources the Everettian accepts, that branch-relative identity is false") must not be contradicted by any stronger refutation-language on the concept page; (c) terminology. Run `analyze_length` before adding — pay for any addition out of existing text if near the concepts hard threshold. Mirror: edit obsidian, sync, grep both trees.
 
 ### ✓ 2026-08-20: the per-class quantum-hardware substrate verdict is load-bearing for an apex funding recommendation and is registered nowhere in `positions/`
 - **Type**: positions-evolve

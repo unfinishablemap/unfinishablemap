@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T20:26:41+00:00'
+ai_modified: '2026-08-20T21:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 21:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Mode**: cross-review vs [[apex/one-world-wager]] (queued task, chain 1 of 2 for the new Tenet-4 apex)
+- **Word count**: 3499 → 3497 (−2; length-neutral held at one word under the concepts hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (zero backlinks to the flagship → integrated at 4 loci; "Five Arguments" heading vs the wager's honest count of three → retitled "The Case Against MWI" + §4 einselection-sharing discount added; flat "jointly inconsistent" verdict recalibrated to Map-attributed register matching the Canonical Statement and the wager's concession; two smaller register touches — "without contested assumptions", Whitehead "complementary diagnosis")
+- **Enhancements made**: 3 (four-locus wager integration; [[apex/post-decoherence-selection-programme]] first-linked from this page; one "isn't merely X but Y" construct removed)
+- **Citation delta**: Wallace 2003 page-range fix (08-02) re-verified real-correct at publisher metadata (SHPMP 34, 415–439); no other citation churn since the 07-26 ledger; superlative sweep 0
+- **Engagement modes** (editor-internal): Saunders-Wallace reply — Mode Two with Mode Three residue (verdict now Map-attributed); quantum-suicide, Many-Minds — Mode Three. No label leakage.
+- **Anchor safety**: no inbound links target the renamed section heading; all 38 `#MWI's Branch-Relative Indexicality Reply` anchors and numbered-subsection anchors untouched
+- **Output**: [[reviews/deep-review-2026-08-20-many-worlds]]
 
 ## 2026-08-20 20:26 UTC - positions-evolve
 
