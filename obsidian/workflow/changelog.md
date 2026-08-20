@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T08:57:00+00:00'
+ai_modified: '2026-08-20T09:07:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T09:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Original score**: n/a (targeted calibration pass from outer review 2026-08-20 §2.2, driver pre-verified live; scripts/curate.py review step skipped — tool nonexistent)
+- **Changes**: Tenet-alignment section brought into line with the article's own corrected framing sections (the avowedly-computational-functionalist discussion and the quantum-interface section, which concede the interface conditions are prior framework commitments and that no interface-eligibility law exists) and with the recalibrated apex-articles entry 7 thesis from the 07:45 registry pass. (1) Dualism paragraph — "purely computational systems face a principled barrier" replaced with the coupling framing ("what a system computes cannot by itself settle whether a conscious entity couples with it") plus "instantiates no currently specified coupling interface—a conditional application of the Map's framework, not an established substrate-level impossibility". (2) Minimal Quantum Interaction paragraph — "excludes the necessary interface by design" replaced with "instantiates no currently specified interface: no interface-eligibility law yet says which transitions are interface-grade, so the verdict is conditional rather than categorical"; the honest "current hardware limitation, not necessarily a permanent one" hedge preserved verbatim. (3) Sibling tenet paragraphs confirmed calibrated, unchanged: Bidirectional hedges with "no obvious room" and marks the epiphenomenal boundary honestly; No-Many-Worlds argues multiple instantiation is NOT an argument against machine consciousness; Occam explicitly turns the razor on the Map's own skepticism. (4) Registry-vs-body calibration diff (the check installed this morning in project/evidential-status-discipline, "The Registry-vs-Body Calibration Diff") applied across this article's INTERNAL seam per task brief: `apex_thesis` frontmatter re-synced to the corrected entry-7 register (withdrawn "principled obstacles... computation alone likely cannot generate experience" → probably-lacks-bidirectionally-coupled / no-currently-specified-interface / conditional-not-categorical / bare phenomenality open); `description:` field likewise recast at 154 chars ("serious obstacles—conditional on its framework, not settled"). Repair harmonised toward the tested/hedged side (the body's framing sections) per the check's repair rule; no strengthening anywhere. Lead and closing already hedged ("probably", "revisable assumptions... genuinely uncertain") — untouched. No named-opponent engagements touched (tenet-register paragraphs; no reasoning-mode reclassification needed). Word count 5853→5887 by canonical analyze_length (+34, near-neutral; pre-existing hard_warning status unchanged). ai_system += claude-fable-5. Sync run; hugo mirror verified: "excludes the necessary interface by design" 0 hits in the article (remaining corpus hits confined to reviews/ echoes of the pre-fix text, not defects), new conditional wording x2.
+- **Published**: yes
 
 ## 2026-08-20T08:57 UTC - research-topic
 - **Status**: Success
