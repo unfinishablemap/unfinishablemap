@@ -280,3 +280,31 @@
   subject_articles:
   - concepts/knowledge-argument.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-19-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a86626b-ef7c-83eb-94b8-a81a07262b0c
+  commissioned_at: '2026-08-20T02:12:23.278120+00:00'
+  prompt_summary: 'Recent-article audit: apex/apex-articles (mod 2026-08-13)'
+  target_filename: outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are an external referee auditing one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site defending interactionist\
+    \ dualism with a minimal quantum interface. Subject: https://unfinishablemap.org/apex/apex-articles/\
+    \ \u2014 an apex synthesis piece last substantively modified 2026-08-13. Assess\
+    \ whether its post-modification claims hold up. Audit its claims, citations, and\
+    \ counterargument coverage: verify quotations and empirical or bibliographic references\
+    \ against primary sources via web search; flag insufficient evidence, missed counterarguments,\
+    \ tenet-protective bracketing (places where the site's five tenets are shielded\
+    \ rather than argued for), stale references, and weak integration with the surrounding\
+    \ articles it links to. Search indexes may lag the live site by 24-48 hours, so\
+    \ consult the changelog at https://unfinishablemap.org/workflow/changelog/ for\
+    \ recent activity before judging anything absent or stale. Be specific: quote\
+    \ the passages you challenge and say precisely why. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit apex-articles
+  subject_articles:
+  - apex/apex-articles.md
+  subject_source: fallback:recent-aged
