@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-18 19:53:10+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-20 01:34:00+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[valence]]'
 created: 2026-06-18
-date: &id001 2026-08-18
+date: &id001 2026-08-20
 description: If felt value selects outcomes, which valence does the work—the anticipated
   kind that misforecasts experience, or the experienced kind that constitutes value?
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 18:37:14+00:00
-lastmod: 2026-08-18 19:53:10+00:00
+last_deep_review: 2026-08-20 01:34:00+00:00
+lastmod: 2026-08-20 01:34:00+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -47,13 +47,13 @@ Kahneman, Wakker & Sarin (1997) supply the cleanest formal map of which valence 
 
 Remembered utility is itself a distorted summary. Redelmeier & Kahneman (1996) found that retrospective judgments of painful procedures track the **peak** and the **end** intensity, not the total—**duration neglect**: episode length has almost no effect on the remembered evaluation. The distortion compounds across a pipeline: experience → (peak-end-distorted) memory → (impact-biased) forecast → selection. By the time valence reaches the selection step, it has been through two non-faithful transforms.
 
-In Kahneman's terms, the Map's "felt value guides choice" is the claim that *experienced* utility should be load-bearing. Empirically, choice runs on *decision* utility shaped by *remembered* utility. The valence that guides selection is not the valence that is felt.
+In Kahneman's terms, the Map's *felt value guides choice* is the claim that *experienced* utility should be load-bearing. Empirically, choice runs on *decision* utility shaped by *remembered* utility. The valence that guides selection is not the valence that is felt.
 
 ## Before Distortion: Whether the Episode Reaches the Record at All
 
 The pipeline just described—experience → memory → forecast → selection—assumes the first arrow carries something. It does not always. Remembered utility can fail by being *absent* rather than distorted, and the two failure modes are not comparably tractable: a bias of known sign and size can be corrected, while a zero is indistinguishable from a genuinely empty interval. That is the retrospective twin of the prospective gap, and anaesthesia has measured it.
 
-Anaesthesia is the one state where all three report latencies have been run against comparable clinical populations. Real-time probing *within* the state—the isolated forearm technique, which leaves one arm unparalysed so the patient can respond to command—found responsiveness in 4.6% of patients (12 of 260) after tracheal intubation, five of the twelve signalling pain (Sanders et al. 2017, the ConsCIOUS-1 cohort). Structured interview within 24 hours found awareness in about 1 in 800 (the SNAP-1 figure as reported in Tasbihgou et al.'s 2018 narrative review, which sets the three latencies side by side). Spontaneous patient report found about 1 in 19,600 (Pandit et al. 2014, the NAP5 national audit). Roughly a 900-fold spread, driven by nothing but when and how the question was asked.
+Anaesthesia is the one state where all three report latencies have been measured. Real-time probing *within* the state—the isolated forearm technique, which leaves one arm unparalysed so the patient can respond to command—found responsiveness in 4.6% of patients (12 of 260) after tracheal intubation, five of the twelve signalling pain (Sanders et al. 2017, the ConsCIOUS-1 cohort). The modified Brice questionnaire, administered within 24 hours of surgery, found reported awareness in about 1 in 800 (Walker et al. 2016, the SNAP-1 study; Tasbihgou et al.'s 2018 narrative review sets the three latencies side by side). Spontaneous patient report found about 1 in 19,600 (Pandit et al. 2014, the NAP5 national audit). Roughly a 900-fold spread, driven by nothing but when and how the question was asked.
 
 Two guards belong on that gradient. The figures come from different studies with different populations, endpoints and case definitions, so it is a gradient rather than a controlled comparison; and responsiveness to command establishes connected *responsiveness*, with the step from there to phenomenal experience remaining an inference—one the five pain signals make strong but not free. The 4.6% is not an incidence of experience. What survives both guards is internal to the fastest probe, where the comparison *is* within a single cohort: of the 253 patients questioned after surgery in that study, none had explicit recall. Latency alone took a rate of one in twenty-two to a rate of zero.
 
@@ -69,7 +69,7 @@ Decision neuroscience supplies a quantity that plausibly biases action selection
 
 This mapping is **interpretive, and the article flags it as such rather than overclaiming a mechanism.** The reward-prediction-error and wanting literatures concern *behavioural and motivational* selection; the Map's selection is over *quantum-underdetermined neural outcomes*. There is no direct neuroscience of "anticipated phenomenal valence as a selection input." What the dopamine and wanting findings supply is the *structure*—predictive ≠ experienced—not a ready-made neural mechanism for the Map's selection law. Reading off a worked mechanism here would repeat the over-reach the steelman article warns against in the opposite direction; Schultz and Berridge are physicalists whose constructs are operational, and the wanting/liking dissociation is empirical while its metaphysics is not theirs to settle.
 
-So flagged, the gap strengthens the value-blind rival. If the valence that guides choice diverges systematically from the valence that is felt, the parsimonious reading is that choice is governed by a *predictor*—a teaching signal, an incentive-salience pull—and the *feeling* is a separate downstream fact doing no selective work. That is the value-blind steelman's "selection runs on a predictive mechanism," now wearing the affective-forecasting gap as a new exhibit.
+So flagged, the gap strengthens the value-blind rival. If the valence that guides choice diverges systematically from the valence that is felt, the parsimonious reading is that choice is governed by a *predictor*—a teaching signal, an incentive-salience pull—and the *feeling* is a separate downstream fact doing no selective work. That is the value-blind steelman's "selection runs on mechanism, not felt value," now wearing the affective-forecasting gap as a new exhibit.
 
 ## The Disambiguation the Map Must Make
 
@@ -79,7 +79,7 @@ If the Map says **experienced valence is causally load-bearing**, the selection 
 
 If the Map says **anticipated valence is causally load-bearing**, it concedes that selection is steered by the unreliable, mechanism-like predictive kind of valence—uncomfortably close to the value-blind reading at the level of the selection *law*. The defensible move splits the roles: *experienced* valence is metaphysically authoritative—it constitutes value, the felt badness of suffering being intrinsic ([consciousness-value-connection](/concepts/consciousness-value-connection/))—while *anticipated* valence is what selection causally consults. Their divergence is a **calibration failure**, not evidence that selection is value-blind. The currency is real; it is poorly calibrated.
 
-The honest question is whether this distinction does real work or merely relocates the problem. It does work at the level of *what value is*: experienced valence remains intrinsically valuable however badly forecast it. It concedes ground at the level of *what selection runs on*: a fallible predictor *of* value, not value itself. The Map should hold the position with that cost visible rather than letting "felt value guides choice" quietly imply the felt value is the experienced kind.
+The honest question is whether this distinction does real work or merely relocates the problem. It does work at the level of *what value is*: experienced valence remains intrinsically valuable however badly forecast it. It concedes ground at the level of *what selection runs on*: a fallible predictor *of* value, not value itself. The Map should hold the position with that cost visible rather than letting *felt value guides choice* quietly imply the felt value is the experienced kind.
 
 The distinction is also testable, which keeps it from being a verbal dodge. If selection is value-sensitive on *experienced* valence, interventions that *correct* forecasts—defocusing or de-biasing manipulations that close the impact-bias gap—should change which outcome is selected. If selection is value-blind on a predictive channel, debiasing the *feeling forecast* should leave selection driven by the reward-prediction-error or wanting signal unmoved. The two readings come apart in the lab, which is where the [parent fork](/topics/valence-and-conscious-selection/) locates its discriminating battery.
 
@@ -123,7 +123,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 11. Wilson, T. D., & Gilbert, D. T. (2013). The impact bias is alive and well. *Journal of Personality and Social Psychology*, 105(5), 740–748.
 12. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). Incidence of connected consciousness after tracheal intubation: a prospective, international, multicenter cohort study of the isolated forearm technique. *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
 13. Tasbihgou, S. R., Vogels, M. F., & Absalom, A. R. (2018). Accidental awareness during general anaesthesia — a narrative review. *Anaesthesia*, 73(1), 112–122. https://doi.org/10.1111/anae.14124
-14. Walker, E. M. K., Bell, M., Cook, T. M., Grocott, M. P. W., & Moonesinghe, S. R. (2016). Patient reported outcome of adult perioperative anaesthesia in the United Kingdom: a cross-sectional observational study (SNAP-1). *British Journal of Anaesthesia*, 117(6), 758–766. https://doi.org/10.1093/bja/aew381 — the 1:800 figure is cited here via Tasbihgou et al. 2018; the primary was not retrieved.
+14. Walker, E. M. K., Bell, M., Cook, T. M., Grocott, M. P. W., & Moonesinghe, S. R. (2016). Patient reported outcome of adult perioperative anaesthesia in the United Kingdom: a cross-sectional observational study. *British Journal of Anaesthesia*, 117(6), 758–766. https://doi.org/10.1093/bja/aew381 — the SNAP-1 study; the 1:800 figure and the within-24-hours modified Brice questionnaire are verified at the primary abstract.
 15. Pandit, J. J., Andrade, J., Bogod, D. G., et al. (2014). The 5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors. *Anaesthesia*, 69(10), 1089–1101. https://doi.org/10.1111/anae.12826
 16. Cuenca-Martínez, F., Herranz-Gómez, A., Varangot-Reille, C., et al. (2024). Pain memory in children: a systematic review and meta-analysis with a meta-regression. *Pain*, 165(7), 1450–1463. https://doi.org/10.1097/j.pain.0000000000003170
 17. Erskine, A., Morley, S., & Pearce, S. (1990). Memory for pain: a review. *Pain*, 41(3), 255–265. https://doi.org/10.1016/0304-3959(90)90002-u

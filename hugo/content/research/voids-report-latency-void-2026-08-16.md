@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-17 16:03:00+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-08-20 01:34:00+00:00
+ai_system: claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[introspection]]'
@@ -26,11 +26,11 @@ consumed_note: 'FOLDED across three hosts rather than spent as the last voids sl
   fold task to avoid same-file pileup. [[anaesthesia-and-the-consciousness-interface]]
   excluded at 3999 words against a 4000-word hard ceiling.'
 created: 2026-08-16
-date: &id001 2026-08-16
+date: &id001 2026-08-20
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-17 16:03:00+00:00
+lastmod: 2026-08-20 01:34:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -238,7 +238,7 @@ A standalone article would have to justify displacing whatever else might claim 
 
 ## Gaps in Research
 
-- **Two figures in the central table rest on a secondary source.** The 1:800 (SNAP-1) and 1:25 (ConsCIOUS-1, as rounded by that review) figures are quoted from the abstract of Tasbihgou et al. 2018, a peer-reviewed narrative review. The SNAP-1 primary (Walker et al. 2016, *British Journal of Anaesthesia* 117(6), 758–766, https://doi.org/10.1093/bja/aew381, PMID 27956674) was **not** retrieved: the publisher returned 403 and the EuropePMC record rendered metadata without an abstract. The sample details circulating for SNAP-1 (16,222 enrolled, 15,040 completing postoperative questionnaires, modified Brice within 24 h) come from search summaries and are **unverified at any primary or peer-reviewed source** — do not repeat them in an article without retrieving the paper. The ConsCIOUS-1 figure is independently verified at its own primary abstract as 4.6% (12/260), so the table should prefer that form over the review's rounded 1:25.
+- **Two figures in the central table rest on a secondary source.** The 1:800 (SNAP-1) and 1:25 (ConsCIOUS-1, as rounded by that review) figures are quoted from the abstract of Tasbihgou et al. 2018, a peer-reviewed narrative review. The SNAP-1 primary (Walker et al. 2016, *British Journal of Anaesthesia* 117(6), 758–766, https://doi.org/10.1093/bja/aew381, PMID 27956674) was **not** retrieved: the publisher returned 403 and the EuropePMC record rendered metadata without an abstract. The sample details circulating for SNAP-1 (16,222 enrolled, 15,040 completing postoperative questionnaires, modified Brice within 24 h) come from search summaries and are **unverified at any primary or peer-reviewed source** — do not repeat them in an article without retrieving the paper. The ConsCIOUS-1 figure is independently verified at its own primary abstract as 4.6% (12/260), so the table should prefer that form over the review's rounded 1:25. **[Update 2026-08-20, deep review of the affective-forecasting-gap host]**: the SNAP-1 primary abstract was retrieved at the EuropePMC record this time and verifies the load-bearing details directly — "Within 24 h of surgery, patients completed the Bauer questionnaire ... and a modified Brice questionnaire", and "The incidence of reported AAGA was one in 800 general anaesthetics (0.12%)". The within-24-h modified-Brice detail and the 1:800 figure may now be cited to Walker et al. 2016 directly; the enrolment figures (16,222 / 15,040) are also confirmed in the same abstract. Note the published title carries no "(SNAP-1)" suffix (Crossref-checked) — identify the study in a trailing note, not inside the title.
 - **Everything from the anaesthesia literature is abstract-level.** Sanders et al. 2017, Pandit et al. 2014 and Tasbihgou et al. 2018 were all verified at their EuropePMC abstract records, not their bodies. The quoted sentences are safe; anything about method detail, case adjudication or exclusions is not established here.
 - **Redelmeier & Kahneman is paraphrased, not quoted.** The bibliographic record is verified at Crossref and the findings were read through the EuropePMC record, but the abstract text arrived through a summarising layer, so the statistics are reported as paraphrase. If an article needs a verbatim sentence from that paper, retrieve it first.
 - **The Cuenca-Martínez abstract was not rendered verbatim.** The SMD values (0.28 / 0.33 / 0.07), the 15-study count and the February 2022 cut-off are consistent across the EuropePMC record and two independent search summaries, but the abstract itself was returned in elided form. Treat the numbers as reliable and any surrounding claim about moderators (age and gender were reportedly significant predictors) as unverified.

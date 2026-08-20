@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T01:12:00+00:00'
+ai_modified: '2026-08-20T01:34:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 01:12:00+00:00
+lastmod: 2026-08-20 01:34:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T01:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Word count**: 2972 → 2976 (+4; soft_warning held length-neutral)
+- **Critical issues addressed**: 4 (fabricated-verbatim internal quote "selection runs on a predictive mechanism" — never in any revision of the steelman article, git -S verified; replaced with its real span "selection runs on mechanism, not felt value" and family-resolved into the string-sibling concepts/negative-valence-asymmetry-and-the-selection-weighting-function and both loci of the source research note · unfindable internal quote "felt value guides choice" converted to italic mention at 2 loci + research note · SNAP-1 "within 24 hours" body detail was resting on a source the report-latency note flagged unverified — Walker et al. 2016 primary abstract retrieved this session (EuropePMC) verifying 1:800, modified Brice, within-24-h; body now cites the primary, de-orphaning ref 14 · ref 14 title carried a "(SNAP-1)" suffix absent from the published title per Crossref — moved to trailing note)
+- **Medium issues addressed**: 1 ("comparable clinical populations" vs "different populations" tension — opening tightened to "have been measured", doubling as the length offset)
+- **Enhancements made**: full §2.4 web-verify of the seven citations added by the 2026-08-17 fold (Sanders 2017, Tasbihgou 2018, Walker 2016, Pandit 2014, Cuenca-Martínez 2024, Erskine 1990, Barrett 2015 — all raw-abstract/full-text grep-verified, ledger in review file; Barrett's three quoted spans grep exactly once each in the 89KB NCBI full-text XML; KWS 1997 "can induce a preference for dominated options" grep-verified in the primary QJE PDF). Currency checks: no completed adult pain-memory meta-analysis exists (re-verified, protocol-only since 2019); no post-2013 impact-bias revision beyond the Levine/Wilson-Gilbert exchange the article already handles. Engagement with the value-blind steelman: Mode Three, unchanged across three reviews — hands the rival the exhibits, owns the fallible-predictor cost, prior-commitments reply; no label leakage. No slippage in the new Before-Distortion section ("The 4.6% is not an incidence of experience" guard intact). No crosslink sentences installed into neighbours; neighbour edits were quote-fidelity corrections only (sibling ai_modified bumped, ai_system held). ai_system on the article appended +claude-fable-5.
+- **Output**: [deep-review-2026-08-20-affective-forecasting-gap](/reviews/deep-review-2026-08-20-affective-forecasting-gap/)
 
 ## 2026-08-20T01:12:00+00:00 - refine-draft
 - **Status**: Success

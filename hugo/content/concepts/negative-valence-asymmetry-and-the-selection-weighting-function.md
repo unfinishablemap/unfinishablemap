@@ -1,21 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-18 19:53:10+00:00
+ai_modified: 2026-08-20 01:34:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[valence]]'
 - '[[pain-asymbolia]]'
 created: 2026-06-18
-date: &id001 2026-08-18
+date: &id001 2026-08-20
 description: If felt value selects outcomes, selection weighs negatives more than
   positives—so the value-sensitive horn needs a negatively-biased weighting function.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 08:22:17+00:00
-lastmod: 2026-08-18 19:53:10+00:00
+lastmod: 2026-08-20 01:34:00+00:00
 modified: *id001
 related_articles:
 - '[[affective-forecasting-gap]]'
@@ -52,7 +52,7 @@ So flagged, the asymmetry strengthens the value-blind rival rather than the Map.
 
 Decision neuroscience supplies the substrate. Reward-prediction-error coding is not symmetric: Dabney et al. (2020) record dopamine neurons with valence-specific learning rates—different cells weight better-than-expected and worse-than-expected outcomes differently, an asymmetry that supports a distributional code for value—so an organism can over-weight worse-than-expected outcomes purely as a property of its learning machinery. Ito, Larsen, Smith and Cacioppo (1998) found larger late-positive ERP amplitudes to negative than to equally probable, equally extreme positive stimuli—a physiological counterpart to the behavioural bias with no detour through felt value. Baumeister et al.'s own mechanism—negative information is "processed more thoroughly"—is a cognitive story, not a phenomenal one. And the adaptive rationale they offer cuts the same way: failing to register a threat is costlier than failing to register an opportunity, so selection installs asymmetric *processing* weights. Evolution can fix asymmetric weights without fixing asymmetric phenomenology.
 
-This is the value-blind steelman's "selection runs on a predictive mechanism," now wearing the loss-aversion kink as a new exhibit. On the value-blind reading, the λ greater than one is a parameter of the reading channel—the controller weights negative signals more—and the *feeling*, if any, is a downstream fact doing no selective work. The asymmetry that forces the Map to complicate its law is, for the rival, a free feature of the mechanism it already posits. The Map's reply must engage that reading on its merits, not assume the felt-asymmetry conclusion.
+This is the value-blind steelman's "selection runs on mechanism, not felt value," now wearing the loss-aversion kink as a new exhibit. On the value-blind reading, the λ greater than one is a parameter of the reading channel—the controller weights negative signals more—and the *feeling*, if any, is a downstream fact doing no selective work. The asymmetry that forces the Map to complicate its law is, for the rival, a free feature of the mechanism it already posits. The Map's reply must engage that reading on its merits, not assume the felt-asymmetry conclusion.
 
 ## The Disambiguation the Map Must Make
 

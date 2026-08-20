@@ -1,12 +1,12 @@
 ---
 title: "Research Notes - The Affective-Forecasting Gap and Selection Dynamics"
 created: 2026-06-18
-modified: 2026-06-18
+modified: 2026-08-20
 human_modified: null
-ai_modified: 2026-06-18T08:15:00+00:00
+ai_modified: 2026-08-20T01:34:00+00:00
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 target_section: concepts
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -90,7 +90,7 @@ For the Map this is article-worthy for one precise reason. The corpus's value-se
 - **Key points**:
   - The load-bearing tripartite distinction: **decision utility** (weight in choice) vs **experienced utility** (real-time hedonic quality; "instant utility" integrated over time) vs **remembered utility** (retrospective evaluation).
   - Documents that retrospective evaluation systematically departs from the integral of instant utility — and that *remembered* utility, not experienced utility, drives subsequent decisions, which "can induce a preference for dominated options."
-- **Bearing on the Map**: this is the cleanest formal map of *which* valence is doing *which* job. The Map's "felt value guides choice" is, in Kahneman's terms, a claim that *experienced* utility should be load-bearing — but choice empirically runs on *decision* utility shaped by *remembered* utility.
+- **Bearing on the Map**: this is the cleanest formal map of *which* valence is doing *which* job. The Map's *felt value guides choice* is, in Kahneman's terms, a claim that *experienced* utility should be load-bearing — but choice empirically runs on *decision* utility shaped by *remembered* utility.
 
 ### Redelmeier & Kahneman (1996) — peak-end / duration neglect
 - **Citation**: Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures. *Pain*, 66(1), 3–8. https://doi.org/10.1016/0304-3959(96)02994-6 (PMID 8857625)
@@ -108,7 +108,7 @@ For the Map this is article-worthy for one precise reason. The corpus's value-se
 - **Key points**:
   - Most midbrain dopamine neurons code a **reward-prediction error** (received minus predicted reward): activated by better-than-predicted, baseline for fully-predicted, depressed for worse-than-predicted.
   - The signal codes the **predictive** component (and an economic-utility-like value), not the hedonic/"pleasure" aspect.
-- **Bearing on the Map**: the neural quantity that most plausibly *biases action selection* is explicitly a *prediction* signal, not an *experienced-pleasure* signal — the neuroscientific form of the value-blind steelman's "selection runs on a predictive mechanism."
+- **Bearing on the Map**: the neural quantity that most plausibly *biases action selection* is explicitly a *prediction* signal, not an *experienced-pleasure* signal — the neuroscientific form of the value-blind steelman's claim that selection runs on a predictive mechanism. (Paraphrase, not a quotation — the steelman article's own span is "selection runs on mechanism, not felt value"; do not quote the paraphrase as if verbatim.)
 - **Note**: the foundational Schultz, Dayan & Montague (1997) *Science* 275:1593–1599 paper is already verified and cited in [[the-steelman-for-value-blind-selection]]; the 2016 review is the cleaner statement of the prediction-not-pleasure point.
 
 ### Berridge & Robinson (2016) — wanting/liking
