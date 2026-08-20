@@ -4,7 +4,7 @@ description: "A human+AI canonical statement of the Husserl/Merleau-Ponty distin
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-07-24T10:17:51+00:00
+ai_modified: 2026-08-20T09:22:00.441663+00:00
 draft: false
 topics:
   - "[[embodied-consciousness]]"
@@ -24,11 +24,22 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-07-26T01:49:05+00:00
+embedded_videos:
+  - id: YwoQm_LSBSQ
+    url: https://www.youtube-nocookie.com/embed/YwoQm_LSBSQ
+    embedded: 2026-08-20T09:22:00.441663+00:00
+    source: notebooklm/0111-01-lived-objectified-body-distinction
 ---
 
 The body shows up to consciousness in two registers. There is the body I *am*—the felt, first-person body I inhabit, that anchors my "here," reaches without my watching it reach, and carries the weight, warmth, and ache of being a creature. And there is the body I *have*—the object on the examination table, weighable, dissectible, observable from outside like any other physical thing. Phenomenology names these the **lived body** (Husserl's *Leib*, Merleau-Ponty's *corps propre*) and the **objectified body** (*Körper*, *corps objectif*). The distinction is one of the most secure findings in the phenomenology of embodiment, and it is the canonical anchor through which The Unfinishable Map's embodiment articles route their treatment of the felt body.
 
 This article states the distinction cleanly, anchors it in its source texts, walks through clinical cases that make the two registers come apart, and then—carefully—marks the boundary between what the distinction establishes and what it does not. The phenomenological distinction is well-established. The *dualist reading* of it is not forced by it. Keeping those two claims separate is the central discipline of this article.
+
+<details class="yt-embed" data-video-id="YwoQm_LSBSQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/YwoQm_LSBSQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Distinction
 

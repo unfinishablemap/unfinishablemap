@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P2: `apex/machine-question` tenet-alignment section may still assert silicon excludes the interface "by design" after the 17 Aug correction withdrew the categorical claim
-- **Type**: refine-draft
-- **File**: obsidian/apex/machine-question.md
-- **Notes**: From outer review 2026-08-20 §2.2. The article's general argument now concedes the interface conditions are prior framework commitments and that no interface-eligibility law exists, but the reviewer reports the tenet-alignment section retains the stronger by-design exclusion. FIRST verify the internal tension by reading the current tenet-alignment section (outer reviewers sometimes attack retired text); if live, align it with the corrected argument: present classical AI architectures do not instantiate any currently specified Map interface; a substrate-level impossibility result has not been established. Sync after fixing.
-- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P2: `apex/ai-as-introspection-control` frontmatter thesis asserts the unqualified "externally inspectable" claim the body hedges; third-explanation falsifier absent; Graziano's AST unengaged
 - **Type**: refine-draft
 - **File**: obsidian/apex/ai-as-introspection-control.md
@@ -2831,6 +2823,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `apex/machine-question` tenet-alignment section may still assert silicon excludes the interface "by design" after the 17 Aug correction withdrew the categorical claim
+- **Type**: refine-draft
+- **File**: obsidian/apex/machine-question.md
+- **Notes**: From outer review 2026-08-20 §2.2. The article's general argument now concedes the interface conditions are prior framework commitments and that no interface-eligibility law exists, but the reviewer reports the tenet-alignment section retains the stronger by-design exclusion. FIRST verify the internal tension by reading the current tenet-alignment section (outer reviewers sometimes attack retired text); if live, align it with the corrected argument: present classical AI architectures do not instantiate any currently specified Map interface; a substrate-level impossibility result has not been established. Sync after fixing.
 
 ### ✓ 2026-08-20: Research The representational theory of measurement applied to phenomenal quantities
 - **Type**: research-topic
