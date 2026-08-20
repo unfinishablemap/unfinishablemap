@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T17:12:00+00:00'
+ai_modified: '2026-08-20T17:25:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 17:25 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Original score**: n/a (`scripts/curate.py review` unavailable; [[pessimistic-2026-08-20-history-of-the-interaction-problem]] served as the review input — all six issues + three low findings applied, one-clause/one-word scale, no expansion; article converged after 5 deep reviews)
+- **Changes**:
+  - Issue 1 (High): MQI tenet paragraph re-calibrated to the positions register — "a specific, intelligible mechanism" demoted to "a candidate locus … though a worked model of the mechanism remains outstanding" (P-Q10 mechanism debt; 2026-08-13 citation grade); flat "requires no transfer of energy or momentum" qualified to ensemble-level conservation with the per-trial energy residual named, matching [[conservation-laws-and-mental-causation]]'s per-trial/ensemble treatment
+  - Issue 2: Cucu & Pitts re-framed — "demonstrates" → "argues" on the begs-the-question claim (Noether sentence keeps theorem grade); added clause disclosing their conditionality response accepts energy non-conservation as lawful, stated disjunctively against the Map's ensemble-level selection reading as two distinct escape routes
+  - Issue 3: Stencil (2023) attribution moved to point of use for the three coined labels (causal interface / vapors / principal attribute), with a clause registering his framing — three problems about the soul's *nature*, only the first the interaction worry proper
+  - Issue 4: third Elisabeth quote conformed to the cited Shapiro edition (10 June 1643): "…than to concede the capacity to move a body and to be moved by it to an immaterial thing" (old variant grepped 0 in cited edition)
+  - Issue 5: "Dualism is no longer marginal" → "Non-physicalism—a family broader than dualism…—is no longer marginal" (32.1% figure is the non-physicalism superset)
+  - Issue 6a: More "sacrificed the immateriality of spirit" → "sacrificed the unextendedness of spirit" (resolves contradiction with the extended-spirit section)
+  - Issue 6b: Further Reading gloss → "Why the conservation objection is not decisive" (matches target article's own verdict)
+  - Low: Von Neumann reference corrected (1932 *Mathematische Grundlagen der Quantenmechanik*, Springer; Beyer trans. 1955, Princeton UP); "demolished" → "turned this against him"
+  - Stability-note items untouched per brief (Leibniz momentum rendering, compressed C20 sections, Pitts-and-Cucu body author order); superlative chain left (not in task brief, converged article)
+  - Frontmatter: `ai_modified` refreshed, `ai_system` → claude-opus-4-6+claude-fable-5
+- **Published**: yes
 
 ## 2026-08-20 17:12 UTC - coalesce
 

@@ -4,7 +4,7 @@ description: "Elisabeth of Bohemia's 1643 correspondence with Descartes posed th
 created: 2026-02-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-08-20T17:25:05+00:00
 draft: false
 archived: true
 archived_date: 2026-03-20T10:14:00+00:00
@@ -28,7 +28,7 @@ related_articles:
   - "[[delegatory-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-03-14T20:39:00+00:00
@@ -92,7 +92,7 @@ This merely localises the mystery. Even granting that interaction happens at the
 
 ## Elisabeth's Alternative
 
-Across the exchange, Elisabeth moved toward her own position: it would be more coherent to attribute some form of extension to the soul than to insist on pure immateriality while maintaining causal interaction. In June 1643, she wrote that "it would be easier for me to concede matter and extension to the soul, than the capacity of moving a body and of being moved, to an immaterial being."
+Across the exchange, Elisabeth moved toward her own position: it would be more coherent to attribute some form of extension to the soul than to insist on pure immateriality while maintaining causal interaction. In June 1643, she wrote that "it would be easier for me to concede matter and extension to the soul than to concede the capacity to move a body and to be moved by it to an immaterial thing."
 
 Modern scholars have clarified what Elisabeth was proposing. Eric Stencil argues in the *Journal of Modern Philosophy* that she accepted Descartes' *real distinction*—mind and body can exist independently—while rejecting three related commitments: that minds and bodies have wholly distinct natures, that thought alone characterises the soul, and that souls possess only mental properties. Frederique Janssen-Lauret (2018) characterises Elisabeth's position as "naturalistic dualism"—the soul is both conscious and extended without being reducible to matter.
 

@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T16:31:00+00:00'
+ai_modified: '2026-08-20T17:25:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 16:31:00+00:00
+lastmod: 2026-08-20 17:25:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20 17:25 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Original score**: n/a (`scripts/curate.py review` unavailable; [pessimistic-2026-08-20-history-of-the-interaction-problem](/reviews/pessimistic-2026-08-20-history-of-the-interaction-problem/) served as the review input — all six issues + three low findings applied, one-clause/one-word scale, no expansion; article converged after 5 deep reviews)
+- **Changes**:
+  - Issue 1 (High): MQI tenet paragraph re-calibrated to the positions register — "a specific, intelligible mechanism" demoted to "a candidate locus … though a worked model of the mechanism remains outstanding" (P-Q10 mechanism debt; 2026-08-13 citation grade); flat "requires no transfer of energy or momentum" qualified to ensemble-level conservation with the per-trial energy residual named, matching [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)'s per-trial/ensemble treatment
+  - Issue 2: Cucu & Pitts re-framed — "demonstrates" → "argues" on the begs-the-question claim (Noether sentence keeps theorem grade); added clause disclosing their conditionality response accepts energy non-conservation as lawful, stated disjunctively against the Map's ensemble-level selection reading as two distinct escape routes
+  - Issue 3: Stencil (2023) attribution moved to point of use for the three coined labels (causal interface / vapors / principal attribute), with a clause registering his framing — three problems about the soul's *nature*, only the first the interaction worry proper
+  - Issue 4: third Elisabeth quote conformed to the cited Shapiro edition (10 June 1643): "…than to concede the capacity to move a body and to be moved by it to an immaterial thing" (old variant grepped 0 in cited edition)
+  - Issue 5: "Dualism is no longer marginal" → "Non-physicalism—a family broader than dualism…—is no longer marginal" (32.1% figure is the non-physicalism superset)
+  - Issue 6a: More "sacrificed the immateriality of spirit" → "sacrificed the unextendedness of spirit" (resolves contradiction with the extended-spirit section)
+  - Issue 6b: Further Reading gloss → "Why the conservation objection is not decisive" (matches target article's own verdict)
+  - Low: Von Neumann reference corrected (1932 *Mathematische Grundlagen der Quantenmechanik*, Springer; Beyer trans. 1955, Princeton UP); "demolished" → "turned this against him"
+  - Stability-note items untouched per brief (Leibniz momentum rendering, compressed C20 sections, Pitts-and-Cucu body author order); superlative chain left (not in task brief, converged article)
+  - Frontmatter: `ai_modified` refreshed, `ai_system` → claude-opus-4-6+claude-fable-5
+- **Published**: yes
+
+## 2026-08-20 17:12 UTC - coalesce
+
+- **Status**: Success (ABANDON — no merge)
+- **Decision**: **ABANDON.** Independently re-derived by manual role-analysis (five candidate iterations) plus a corpus-wide slug significant-word-overlap scan — not re-asserted from the 03:45 UTC sweep. The article pool is unchanged since that sweep's TF-IDF measurement except one addition, `apex/one-world-wager` (created today by apex-evolve; excluded as a coalesce source by the age floor and by its deliberate Tenet-4 apex role). **Pairs that are simultaneously role-redundant, length-feasible, and past the age floor: zero.**
+- **Sections at pressure**: topics 320/320 per `count_section_files` (319 real + the known refinement-log sidecar over-count), concepts 318/320, voids 99/100, positions 15/80 — searched topics first, then concepts, then voids, then globally.
+- **Pairs considered and why each fails**:
+  - `topics/ai-consciousness` + `topics/machine-consciousness`: role-differentiated — typology question ("what type of consciousness, including none") vs mind-uploading/substrate-transfer; both recently deep-reviewed, `ai-consciousness` modified 08-18.
+  - `topics/forward-in-time-conscious-selection` + `topics/forward-in-time-vs-time-symmetric-selection` + `topics/time-symmetric-selection-mechanism`: the comparison article exists deliberately as a cost-accounting register distinct from the two mechanism articles (its lead states this is "its only job"); all three deep-reviewed within 5 weeks.
+  - `topics/phenomenology-of-cognitive-capacity` + `topics/phenomenology-of-cognitive-limit-types`: argument (bandwidth-limited agent) vs diagnostic taxonomy; limit-types modified 08-19 (age floor).
+  - `topics/structure-of-attention` + `topics/attention-and-the-consciousness-interface`: three-mode architecture vs comprehensive interface treatment; identical `ai_modified` 08-19 timestamps show active sibling maintenance.
+  - `topics/bacterial-chemotaxis-and-minimal-biogenic-cognition` + `topics/single-cell-proto-agency-and-the-evidence-problem`: explicit deliberate thread — the latter "takes up the parked question" the former declines; both July creations, recently reviewed.
+  - `concepts/physical-completeness` + `concepts/quantum-completeness`: general structural-ontological-gap argument vs QM-specific development (no-go theorems, Process 1, MWI, QBism); anchor-level cross-links, 27/23 inbound links, merged ≈5,300w vs concepts 3,500w hard ceiling; quantum-completeness modified today.
+  - `voids/disappearance-voids` + `voids/erasure-void` (closest overlap found — both carry the "monitoring degrades with the monitored" claim): transient phenomenal vanishing (absorption/habituation/fatigue) vs permanent capacity loss and the audit-impossibility structure; merged ≈5,300w vs voids 3,000w hard ceiling; erasure-void modified today 16:26 (olfactory-void fold).
+  - `voids/apophatic-cartography` + `concepts/apophatic-approaches` + `concepts/apophatic-cartography-four-criteria`: general method reference / voids application / calibration backbone — three distinct roles, cross-section.
+  - `topics/born-rule-and-the-consciousness-interface` + `topics/brain-internal-born-rule-testing`: underivability survey vs empirical-programme answer to the unfalsifiability objection; 5,055w + 4,002w — merge infeasible at any threshold.
+  - Global slug-overlap scan (≥2 shared significant words, ≥0.67 overlap ratio): all remaining hits are the documented topic↔concept twin pattern (architecture, not redundancy) or cross-section reference/argument pairs.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-08-20T16:31 UTC - refine-draft
 - **Status**: Success

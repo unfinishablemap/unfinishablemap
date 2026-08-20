@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-07-14T10:44:00+00:00
+ai_modified: 2026-08-20T17:25:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[causal-closure-debate-historical-survey]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-25T07:38:57+00:00
@@ -55,13 +55,13 @@ The mechanism was wrong, but the structural claim survived: mind and body are di
 
 In May 1643, Elisabeth von der Pfalz (1618–1680) wrote to Descartes asking "how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions." Elisabeth—eldest daughter of Frederick V, Elector Palatine, educated in Latin, Greek, mathematics, and natural philosophy—applied Descartes' own mechanist physics against his claims about mental causation. All bodily movement depends on contact, shape, and surface—properties requiring extension. An unextended soul has none of these.
 
-Elisabeth's challenge operated at three levels. The **causal interface problem**: how can something non-spatial push something spatial? The **vapors problem**: why do bodily conditions—illness, exhaustion, chemical "vapors"—degrade the soul's cognitive powers, if the soul is truly independent? And the **principal attribute problem**: if the soul must interact with bodies, perhaps "thinking substance" alone is an incomplete characterisation. As she wrote: "Though extension is not necessary to thought, neither is it at all repugnant to it."
+Elisabeth's challenge operated at three levels, in labels coined by Stencil (2023)—who frames them as three problems about the soul's *nature*, of which only the first is the interaction worry proper. The **causal interface problem**: how can something non-spatial push something spatial? The **vapors problem**: why do bodily conditions—illness, exhaustion, chemical "vapors"—degrade the soul's cognitive powers, if the soul is truly independent? And the **principal attribute problem**: if the soul must interact with bodies, perhaps "thinking substance" alone is an incomplete characterisation. As she wrote: "Though extension is not necessary to thought, neither is it at all repugnant to it."
 
 ### Descartes' Failed Responses
 
-Descartes offered three replies. His **three primitive notions** defence held that the soul-body union is a foundational fact known through sensory experience, not intellectual analysis—a concession that the union cannot be explained, not an explanation. His **gravity analogy** compared the mind's action on the body to scholastic gravity—a non-contact force. Elisabeth demolished this: Descartes himself had rejected scholastic gravity in his own physics, replacing it with mechanical contact causation. And the **pineal gland** merely localised the mystery without explaining how an immaterial substance acts on a material organ.
+Descartes offered three replies. His **three primitive notions** defence held that the soul-body union is a foundational fact known through sensory experience, not intellectual analysis—a concession that the union cannot be explained, not an explanation. His **gravity analogy** compared the mind's action on the body to scholastic gravity—a non-contact force. Elisabeth turned this against him: Descartes himself had rejected scholastic gravity in his own physics, replacing it with mechanical contact causation. And the **pineal gland** merely localised the mystery without explaining how an immaterial substance acts on a material organ.
 
-Elisabeth later admitted it would be "easier for me to concede matter and extension to the soul, than the capacity of moving a body and of being moved, to an immaterial being." Modern scholars (Stencil 2023, Janssen-Lauret 2018) characterise her position as accepting Descartes' real distinction while rejecting that thought alone characterises the soul. A substance can be fundamentally mental while also being spatially situated—anticipating aspects of contemporary [[substance-property-dualism]].
+Elisabeth later admitted it would be "easier for me to concede matter and extension to the soul than to concede the capacity to move a body and to be moved by it to an immaterial thing." Modern scholars (Stencil 2023, Janssen-Lauret 2018) characterise her position as accepting Descartes' real distinction while rejecting that thought alone characterises the soul. A substance can be fundamentally mental while also being spatially situated—anticipating aspects of contemporary [[substance-property-dualism]].
 
 ## The Seventeenth-Century Explosion
 
@@ -91,7 +91,7 @@ Leibniz also transformed the interaction problem from a conceptual puzzle into w
 
 ### What the Debate Reveals
 
-No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the immateriality of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. That combination had to wait for developments in physics none of them could have anticipated.
+No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. That combination had to wait for developments in physics none of them could have anticipated.
 
 ## The Materialist Eclipse
 
@@ -116,13 +116,13 @@ These proposals share a crucial structural feature: consciousness *selects* amon
 
 ### The Conservation Objection Reconsidered
 
-Recent work by Pitts and Cucu demonstrates that conservation laws are *local* and *conditional*. Noether's theorem derives conservation from symmetries; external influences break those symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold simply assumes interactionism is false. The argument begs the question. See [[conservation-laws-and-mental-causation]] for detailed treatment.
+Recent work by Pitts and Cucu argues that conservation laws are *local* and *conditional*. Noether's theorem derives conservation from symmetries; external influences break those symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold simply assumes interactionism is false—so, they argue, the objection begs the question. Their own conditionality response then accepts energy non-conservation as a lawful feature of interactionist dualism; the Map's selection reading takes a different escape route, aiming to preserve conservation at the ensemble level. Both strategies are developed in [[conservation-laws-and-mental-causation]].
 
 ## The Contemporary Revival
 
 **Chalmers** (1996) established the [[hard-problem-of-consciousness]] as distinct from "easy" problems about cognitive functions. His [[philosophical-zombies|zombie argument]] showed that physical facts don't entail phenomenal facts. **Swinburne** (2013) defended substance dualism with arguments for personal identity. **Hasker** (1999) developed emergent substance dualism: the soul emerges from brain function but is a non-physical substance with its own causal powers.
 
-The 2020 PhilPapers survey found roughly 32% of professional philosophers accept or lean toward non-physicalist views of mind—a substantial minority against physicalism's 52%. Dualism is no longer marginal.
+The 2020 PhilPapers survey found roughly 32% of professional philosophers accept or lean toward non-physicalist views of mind—a substantial minority against physicalism's 52%. Non-physicalism—a family broader than dualism, spanning panpsychist, Russellian-monist, and idealist views as well—is no longer marginal.
 
 ## Relation to Site Perspective
 
@@ -130,7 +130,7 @@ The Map's [[tenets]] represent a position that the seventeenth-century debate co
 
 **[[tenets#^dualism|Dualism]]**: The arguments for irreducibility—the [[explanatory-gap]], the [[knowledge-argument]], the conceivability of [[philosophical-zombies]]—have strengthened as neuroscience advances without dissolving the hard problem. Elisabeth's vapors problem remains genuinely challenging: if consciousness operates through quantum selection, why does anaesthesia abolish it? The Map's response is that consciousness *interfaces with* the brain at quantum indeterminacies—damage the interface and the interaction fails, even though consciousness itself may persist. This is coherent but speculative.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet proposes what the occasionalists and Leibniz denied and the brute-fact interactionists could not explain: a specific, intelligible mechanism for mind-body causation. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy. Selection among pre-existing physical possibilities differs from mechanical pushing because it requires no transfer of energy or momentum—it resolves an indeterminacy that physics itself leaves open. The Map's framework of [[delegatory-dualism]] develops this response in detail.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet proposes what the occasionalists and Leibniz denied and the brute-fact interactionists could not explain: a candidate locus for mind-body causation, though a worked model of the mechanism remains outstanding. Consciousness biases otherwise indeterminate quantum outcomes without adding a new force or term to physical law. Selection among pre-existing physical possibilities differs from mechanical pushing because it transfers no energy or momentum at the ensemble level—on any single trial the realised outcome may differ in energy from the chance outcome it displaces—and it resolves an indeterminacy that physics itself leaves open. The Map's framework of [[delegatory-dualism]] develops this response in detail.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The Map takes Elisabeth's side—mind really does causally affect body—while learning from More's insight that the interface must be localised. The Map does not give consciousness spatial extension in More's sense, but locates the interaction at specific physical sites: quantum indeterminacies in neural systems. Elisabeth's demand for a lawful rather than miraculous connection anticipates what contemporary philosophy calls [[psychophysical-laws]].
 
@@ -143,7 +143,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 ## Further Reading
 
 - [[interactionist-dualism]] — The contemporary position
-- [[conservation-laws-and-mental-causation]] — Why the conservation objection fails
+- [[conservation-laws-and-mental-causation]] — Why the conservation objection is not decisive
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom
 - [[stapp-quantum-mind]] — Contemporary quantum mechanism
 - [[measurement-problem]] — The unsolved puzzle at quantum mechanics' core
@@ -175,7 +175,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
-1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer. Trans. R. T. Beyer (1955), *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wigner, E. (1961). "Remarks on the Mind-Body Question." In *The Scientist Speculates*.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
