@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-08-19 23:55:00+00:00
+ai_modified: 2026-08-20 18:52:01+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -22,8 +22,8 @@ description: Authentic choice feels like genuine self-expression; inauthentic ch
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-20 14:41:20+00:00
-lastmod: 2026-08-19 23:55:00+00:00
+last_deep_review: 2026-08-20 18:52:01+00:00
+lastmod: 2026-08-20 18:52:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 The neural signatures of [willed action](/concepts/attention-as-interface/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation. The signatures are compatible with both readings; they are underdetermined by the evidence on offer.
 
-The timing of [motor commitment](/concepts/motor-selection/) is similarly consistent with either interpretation. Neural populations commit to a selected action ~280ms before movement onset (Thura & Cisek, 2014), and the frontal theta increase that distinguishes willed from instructed attention builds from ~500ms after the cue (Rajan et al., 2019)—a relative increase, not a latency difference. Haggard's (2008) review likewise places conscious intention within a brief window approximately one second before movement onset. On the Map's account, windows of this order provide time for consciousness to engage with neural superpositions. On a physicalist account, they reflect the additional computational demands of non-routine decisions. The neural data alone does not adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
+The timing of [motor commitment](/concepts/motor-selection/) is similarly consistent with either interpretation. In monkeys performing reach decisions, neural populations commit to a selected action ~280ms before movement onset (Thura & Cisek, 2014); in humans, the frontal theta increase that distinguishes willed from instructed attention builds from ~500ms after the cue (Rajan et al., 2019)—a relative increase, not a latency difference. Haggard's (2008) review likewise places conscious intention within a brief window approximately one second before movement onset. On the Map's account, [windows of this order](/topics/quantum-neural-timing-constraints/) provide time for consciousness to engage with neural superpositions. On a physicalist account, they reflect the additional computational demands of non-routine decisions. The neural data alone does not adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice remains a datum that physicalism must accommodate.
 
 ### Agent Causation and the Whole Self
 

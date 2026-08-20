@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T18:12:00+00:00'
+ai_modified: '2026-08-20T18:52:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 18:12:00+00:00
+lastmod: 2026-08-20 18:52:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20 18:52 UTC - deep-review
+
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Word count**: 3077 → 3076 (−1, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (species-scoped the monkey-derived Thura & Cisek ~280ms datum in a human-results paragraph; trimmed an appositive duplicating the Dualism-tenet phrasing)
+- **Enhancements made**: 1 cross-link added ([quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) from "windows of this order")
+- **Scope**: seventh review; delta-scoped to the never-reviewed 2026-08-19 motor-timing rewrite (`66d358adc2`). §2.4 web-verify at publisher of record: Thura & Cisek 2014 (Neuron 81(6), ~280ms commitment — real-correct), Rajan et al. 2019 (Cerebral Cortex 29(7), theta onset 470/510ms ≈ "~500ms", "Siegel" spelling confirmed at OUP — real-correct), Haggard 2008 (NRN 9(12); "brief window approximately 1 s before movement onset" is near-verbatim in the paper — real-correct, grep-verified in extracted full text). Family-resolution grep: corpus metadata consistent; no other loci mis-cite the ~300/~100 pair to Haggard. Engagement modes unchanged (compatibilist: Mode Three). Hugo synced and grep-verified this pass.
+- **Output**: [deep-review-2026-08-20-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-08-20-authentic-vs-inauthentic-choice/)
 
 ## 2026-08-20 18:12 UTC - positions-evolve
 
