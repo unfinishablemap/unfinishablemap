@@ -313,9 +313,9 @@
   commissioned_at: '2026-08-20T03:13:11.665418+00:00'
   prompt_summary: 'Audit apex-articles index: fidelity, gaps, overclaims'
   target_filename: outer-review-2026-08-20-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-20T04:40:49.385755+00:00'
   failure_reason: null
   prompt_text: Please act as a rigorous, sceptical external referee for The Unfinishable
     Map, a philosophy site at https://unfinishablemap.org that develops an interactionist-dualist

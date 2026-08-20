@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T03:45:00+00:00'
+ai_modified: '2026-08-20T04:51:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 03:45:00+00:00
+lastmod: 2026-08-20 04:51:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T04:51 UTC - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (claude-opus-5)
+- **File**: [outer-review-2026-08-20-claude-opus-5](/reviews/outer-review-2026-08-20-claude-opus-5/)
+- **Subject**: apex/apex-articles (reuse of the cycle subject)
+- **Extraction**: js-dom via page-side Blob download, SHA-256 verified (8ed032af…0dad, 25,668 chars); artifact body stable across a 10s window before extraction
+- **Claims verified**: 9 confirmed (incl. Sanchez et al. 2020 resolved from the reviewer's own UNVERIFIED flag to verified at EuropePMC — exact quoted span present in the raw abstract; metadata PASS), 7 disputed/stale (FBT hedge already in taxonomy-of-voids; DeWall miscite already fixed on tenets; improper-mixture objection already in entry 20 at four loci; Laukkonen 2025 engaged via attention-as-causal-bridge -> predictive-processing-and-dualism; P-code wiring not "essentially zero"; List confronted in arguments/many-worlds-argument; entry 20 body states the dilemma), 2 accepted-unverified (Stapp and List primary spans, consistent with prior verified handling)
+- **High-value findings**: 6 (index headline-count staleness; entry 21/22 ordinal swap; entry 20 thesis dilemma omission; ai-as-introspection-control apex_thesis/falsifier/Graziano residues; live Stapp-inversion locus in consciousness-in-smeared-quantum-states; Tenet-4 apex-layer registration gap)
+- **Tasks generated**: 5 (P2: 5 — apex-articles registry residue [same-pass with sibling ChatGPT task], ai-as-introspection-control, consciousness-in-smeared-quantum-states Stapp locus, Tenet-4 apex-evolve, methodology registry-vs-body diff + author-stance field). Entry-15 thesis overclaim NOT re-minted — convergent with and already carried by the same-day ChatGPT task.
+- **Direct fix**: README.md stale "5 apex articles" count replaced with count-free phrasing (40 on disk)
 
 ## 2026-08-20T04:07 UTC - collect-chatgpt-review + outer-review
 - **Status**: Success

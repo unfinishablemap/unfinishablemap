@@ -1,0 +1,178 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-08-20
+ai_modified: 2026-08-20 04:49:53+00:00
+ai_system: claude-opus-5
+author: Andy Southgate
+concepts:
+- '[[stapp-quantum-mind]]'
+- '[[predictive-processing]]'
+- '[[fitness-beats-truth]]'
+created: 2026-08-20
+date: &id001 2026-08-20
+description: 'Claude Opus 5''s REVISE-HARD audit of the apex index: registry drift,
+  Tenet-4 gap, Stapp inversion - half the body-level charges dissolve against current
+  text.'
+draft: false
+human_modified: null
+last_curated: 2026-08-20
+lastmod: 2026-08-20 04:49:53+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/45f654f9-0788-4b47-8103-2a51090dd4c0
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- apex/apex-articles.md
+subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
+subject_title: Audit apex-articles
+subject_type: recent
+title: Outer Review - Claude Opus 5 (2026-08-20)
+topics:
+- '[[vertiginous-question]]'
+- '[[consciousness-in-smeared-quantum-states]]'
+- '[[predictive-processing-and-dualism]]'
+---
+
+**Date**: 2026-08-20
+**Reviewer**: Claude Opus 5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please act as a rigorous, sceptical external referee for The Unfinishable Map, a philosophy site at https://unfinishablemap.org that develops an interactionist-dualist framework. Today's focus is the Apex Articles Index at https://unfinishablemap.org/apex/apex-articles/ - the curated registry that defines the site's approved apex synthesis pieces, last revised 2026-08-13. Assess whether the index's stated subjects, theses, and scope boundaries match the apex articles actually published; whether the approved set has gaps or redundancies given the site's five tenets and positions register; and whether the index's descriptions overclaim or misstate what the linked syntheses argue. Follow links to several apex articles and spot-check their fidelity to the index's framing. Also consult the changelog at https://unfinishablemap.org/workflow/changelog/ - the site changes daily and search indices lag 24-48 hours, so recent revisions will not surface via web search alone. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Adversarial Referee Audit — Apex Articles Index (unfinishablemap.org/apex/apex-articles/), rev. 2026-08-13
+
+## 1. TL;DR — Verdict
+
+**INDEX VERDICT: REVISE-HARD.** The registry is internally inconsistent about its own contents, over-serves the mind→matter quantum-interface machinery while leaving Tenet 4 (No Many Worlds) and the single strongest physicalist rival (predictive-processing / active-inference) with zero dedicated apex coverage, and — the load-bearing failure — carries several thesis descriptions that are either *better calibrated than the articles they point to* or slide from epistemic to metaphysical claims the linked pieces cannot cash.
+
+The dominant pathology is confession-without-correction: the index and its Audit/Governance notes repeatedly name defects (155% over the informal cap; the "standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass" appended to nearly every entry from #24 onward) and then dissolve the constraint rather than remediate — the ~20 cap was abolished on 2026-06-08 precisely because the corpus outgrew it, converting a breached limit into "not a cap."
+
+Three procedural facts frame everything below. (i) The changelog (fetched first; most recent entry 2026-08-18 00:54 UTC) shows the apex layer under active edit — `ai-as-introspection-control` refined 2026-08-17 19:01, `research-programme-decisions-under-the-map` refined 2026-08-17 16:53, the ethics/`moral-architecture-of-consciousness` spine reviewed 2026-08-17 22:29 — so the registry is live, not abandoned. (ii) The index's own headline count ("34 apex articles on disk", Governance Note 2026-06-08) contradicts its own body, which lists 36 numbered synthesis entries plus 7 applied (A1–A7) = 43 items. (iii) The apex article bodies are effectively non-indexed by search and were not directly retrievable through this toolchain (a finding in its own right for a "curated, openly inspectable" corpus); verification of body-level claims therefore rests on the site's own 2026-06-01 outer review (which quotes the apex bodies with line numbers), adjacent source pages, and publisher-of-record primary sources. [changelog](/workflow/changelog/)[apex-articles](/apex/apex-articles/)
+
+## 2. Dimensional Analysis
+
+### 2.1 Registry integrity — does the index match what is published? (Assessment question a)
+
+- **Count self-contradiction.** Headline "34 on disk" vs. 36 synthesis + 7 applied = 43 listed. Entries #34 (`born-preserving-causal-efficacy`, 2026-06-22), #35 (`competency-without-felt-experience`, 2026-07-09) and #36 (`tool-that-cannot-say-its-user`, 2026-08-12) all postdate the "34" figure, so the registry's own summary statistic is stale against its own list. FAIL. [apex-articles](/apex/apex-articles/)
+- **Broken ordinal sequence.** Entry "21. The Conjunction-Coalesce" is printed *after* "22. Medium-Status Voids in Cognition." The numbering is non-monotonic; a curated registry that "defines the approved apex subjects" should not mis-order its own primary keys. FAIL (cosmetic, but diagnostic of registry drift). [apex-articles](/apex/apex-articles/)
+- **Published-vs-listed.** Changelog activity confirms live status for `ai-as-introspection-control`, `research-programme-decisions-under-the-map`, `moral-architecture-of-consciousness`, `taxonomy-of-voids`, `post-decoherence-selection-programme`, `self-concealing-interface`, and the `many-worlds-argument` sources. The applied section lists A2/A3/A4 as "Proposed" with source positions "TBD" — correctly flagged as not-yet-published (see §2.2). No evidence of listed-but-nonexistent synthesis pieces; the divergence is in *counts and descriptions*, not phantom slugs. [apex-articles](/apex/apex-articles/)
+- **External metadata drift (corroborating).** The project's GitHub README still states "5 apex articles" — an extreme stale-count artefact against 36+ live. Out of registry scope, but it corroborates a systemic count-maintenance weakness rather than a one-off. [github](https://github.com/unfinishablemap/unfinishablemap)
+
+### 2.2 Gaps and redundancies against the five tenets and the positions register (Assessment question b)
+
+**Over-served: the mind→matter quantum interface.** At least eight apex pieces do overlapping work on Tenets 2/3: `attention-as-causal-bridge` (#11), `what-consciousness-tells-us-about-physics` (#15), `interface-specification-programme` (#16), `phenomenology-mechanism-bridge` (#19), `post-decoherence-selection-programme` (#20), `self-concealing-interface` (#27), `born-preserving-causal-efficacy` (#34), plus applied A5. The void-cluster layer is similarly dense: #14, #21, #22, #23, #24, #25 all run variants of "N failure-modes converge on the interface." Redundancy is partly disciplined by common-cause-null discounting in the index theses, but six void-cluster syntheses is a proliferation the site's own outer review independently flagged ("void proliferation risk").
+
+**Under-served / unserved:**
+
+- **Tenet 4 (No Many Worlds) has no dedicated apex — the sharpest structural gap.** The site's own outer review establishes that the indexical/"vertiginous question" objection is now the *load-bearing* anti-MWI argument, and that it is double-edged. Christian List, "The Many-Worlds Theory of Consciousness" (*Noûs* 57(2):316–340, 2023, DOI 10.1111/nous.12408, open access), builds a rival many-worlds metaphysics from the *same* Hellie vertiginous question the Map uses against Everett. Verbatim abstract: "It drops the assumption that all conscious subjects' experiences are features of one and the same world and instead associates different subjects with different 'first-personally centred worlds' … combined with a form of modal realism, according to which different subjects' first-personally centred worlds are all real, though only one of them is present for each subject." No apex confronts List or discharges Tenet 4; the work sits only in `topics/vertiginous-question` and (post-2026-08-17) `arguments/many-worlds-argument`. An approved apex registry that omits its own most-contested constitutional commitment is mis-weighted.
+- **Predictive-processing / active-inference has no apex rival-treatment.** Clark, Friston and Seth are physicalists; active inference under the free-energy principle is a physicalist programme. Laukkonen, Friston & Chandaria, "A beautiful loop: An active inference theory of consciousness" (*Neuroscience & Biobehavioral Reviews* 176:106296, 2025, DOI 10.1016/j.neubiorev.2025.106296, open access), is a fully physicalist active-inference *theory of consciousness*. Verbatim abstract: "We offer three conditions … The first … is the simulation of a … generative world model … namely an epistemic field. The second is inferential competition to enter the world model … a selection for consciousness that we call Bayesian binding. The third is epistemic depth, which is the recurrent sharing of the Bayesian beliefs throughout the system." This targets precisely the "consciousness doing work" / binding / self-model phenomenology the Map claims only dualism explains, and it appears nowhere in the apex layer (only in research notes). Predictive-processing / active-inference blind spot: confirmed.
+- **Positions-register disconnect.** The synthesis apexes (#1–#36) cite essentially zero register positions; only the applied A-series cites P-codes, and only the quantum-interface (P-Q) and methodology (P-M) clusters are populated enough to cite. A2/A3/A4 are explicitly blocked ("TBD once clinical/methodology position clusters are seeded"). The applied section's own target is "8–15 pieces"; four are live. The register the project built specifically to convert "framework-internal coherence" into "usable commitments" is not wired to the synthesis layer — the layer most prone to coherence inflation. Under-population is not merely reflected; it structurally stalls the decision-oriented apexes. [apex-articles](/apex/apex-articles/)
+
+### 2.3 Do index descriptions overclaim or misstate the linked syntheses? (Assessment question c)
+
+- **#14 `taxonomy-of-voids` — reverse-overclaim (index safer than article).** The index thesis is exemplary: "suggestive rather than confirmatory … the catalogue's units of count were defined by the framework the convergence is taken to support … bare dualism predicts nothing of the kind." But per the site's own outer review the *article body* (L220) says the Fitness-Beats-Truth theorem "demonstrates" and (L104) calls it "the formal anchor" — an establish-grade claim on a contested result (Bagwell, *Synthese* 201:25, 2023). The registry summary is more disciplined than the piece it certifies: calibration lives in the index and evaporates in the body. Constrain-vs-establish gate failure at the article level; coherence inflation via a contested formal result. [apex-articles](/apex/apex-articles/)[outer-review-2026-06-01-claude-opus-4-8](/reviews/outer-review-2026-06-01-claude-opus-4-8/)
+- **#15 `what-consciousness-tells-us-about-physics` — epistemic-to-metaphysical slide.** Index thesis asserts flatly "The Born rule is the interface specification between two ontological domains" and "quantum mechanics provides indirect evidence for dualism." The outer review shows the same apex concedes the interface is "empirically invisible from within physics" which — conjoined with the amplification void's "structural untraceability" and the agency void's "verification circularity" — yields a triple-screen unfalsifiability the corpus admits piecewise but never states whole (evidential-independence failure). An apex that is unfalsifiable on its own account cannot also supply "indirect evidence for dualism"; the index sells the stronger reading. [apex-articles](/apex/apex-articles/)
+- **#20 `post-decoherence-selection-programme` — Stapp inversion + unreconciled triplet + the Born-rule dilemma.** Index calls it a programme "sidestepping the timing objection that has stalled quantum consciousness theories for two decades" and elsewhere "the strongest path." Two documented problems. First, the mechanism triplet (post-decoherence selection / Stapp Zeno / Orch-OR) is unreconciled: `interactionist-dualism` still lists the two pre-decoherence mechanisms as co-equal, so a reader entering via the hub and one entering via the apex form different beliefs about the Map's actual mechanism. Second, the **Born-rule / statistical-indistinguishability dilemma**: to be genuine selection the influence must deviate from chance; to be minimal/undetectable it must not. The Map's own #34 states this whole and honestly; #20's confident framing does not. [apex-articles](/apex/apex-articles/)[outer-review-2026-06-01-claude-opus-4-8](/reviews/outer-review-2026-06-01-claude-opus-4-8/)
+- **#27 `self-concealing-interface` — unfalsifiability recast as a feature.** Thesis: the interface "is not merely hard to detect — it is structurally selected to hide from ordinary aggregate measurement." This is the honest articulation of the triple-screen result, but converting "screened from every line of evidence at once" into a positive architectural thesis is precisely the move an adversary reads as unfalsifiability-by-design. The index does acknowledge it holds this at "framework-internal architecture-naming tier," which is the correct register — but the subtitle ("structurally selected to hide") reads as confirmation. [apex-articles](/apex/apex-articles/)
+- **#28 `ai-as-introspection-control` — settled-by-fiat channel + inspectability overclaim.** Thesis asserts AI "provenance, sampling traces, confidence calibration, and source tags … are externally inspectable." The 2026-08-17 pessimistic review found the apex quarantined "the exact channel the article's flagship designed test requires" (the own-report confidence channel) and "settles it by fiat," and that the lead's "for the first time" was over-scoped (biological near-analogues exist). Partly remediated 2026-08-17, but a falsifier for the third possibility ("the differential pattern is real and has a third explanation") remains absent by the changelog's own admission. [apex-articles](/apex/apex-articles/)
+
+### 2.4 Author-stance / co-optation firewall (the primary documented failure mode)
+
+- **Stapp — FAIL (co-optation firewall failure / Stapp inversion).** The concept substrate feeding #15/#16/#20 presents Stapp as "the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes." Stapp's actual position, verified in primary text (Stapp, "Quantum Interactive Dualism: An Alternative to Materialism," LBNL; J. Consciousness Studies 12(11), 2005 / Zygon 2006): consciousness makes only the Process-1 choice of *which question to pose* — "determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law. So the effectiveness of conscious intent would appear to be diluted by the entry of quantum randomness." The Mermin–Stapp exchange and independent analyses confirm Stapp explicitly declined outcome-biasing to preserve Born statistics — the exact move the Map attributes to him. The framework recruits its own "lodestar" for a claim he refused.
+- **List — metadata PASS, stance PARTIAL.** List is not a dualist and his theory is a rival many-worlds metaphysics; the corpus historically invoked him only as an ally on the vertiginous question's seriousness (co-optation risk). Partly remediated 2026-08-17 on the argument page (handled as "framework-boundary marking"), but no apex registers the double edge.
+- **Active-inference authors (Clark / Friston / Seth) — co-optation risk.** The `predictive-processing` concept page states "active inference parallels the Map's bidirectional interaction" and that PP is "methodologically neutral on the hard problem" — recruiting a physicalist framework toward the interaction tenet while omitting its strongest anti-dualist instantiation (Laukkonen–Friston–Chandaria 2025). No apex holds this rival at arm's length. [predictive-processing-consciousness-2026-01-14](/research/predictive-processing-consciousness-2026-01-14/)
+- **Modality apexes — PASS (per index; the correct template).** #33 `cross-modal-capability-division` explicitly holds Global Neuronal Workspace (Mashour, Roelfsema, Changeux & Dehaene, *Neuron* 105(5):776–798, 2020, DOI 10.1016/j.neuron.2020.01.026 — "in the conscious state, a non-linear network ignition associated with recurrent processing amplifies and sustains a neural representation, allowing the corresponding information to be globally accessed by local processors") as "the physicalist RIVAL … held as shared explanandum NOT proof of the interface," and holds Craig/Seth/Barrett interoception work as rivals capped by common-cause-null. This is the discipline the interface apexes lack.
+- **COGITATE 2025 — result-reading PASS-after-remediation.** Verified primary: Cogitate Consortium, *Nature* 642(8066):133–142 (5 June 2025; n=256; fMRI/MEG/iEEG): "These results align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories. For IIT, a lack of sustained synchronization within the posterior cortex contradicts the claim that network connectivity specifies consciousness. GNWT is challenged by the general lack of ignition at stimulus offset and limited representation of certain conscious dimensions in the prefrontal cortex." An earlier `interactionist-dualism` over-read (a confirmed "posterior hot zone" claim plus a stale 2023 protocol-paper citation) was corrected. A7 (`judging-the-map-as-science`) cites COGITATE and must keep it characterised as "confirmed neither IIT nor GNWT" — no misreading detected in the current registry.
+
+### 2.5 Citation table — three-layer verification of load-bearing citations
+
+| Citation (as used) | Layer 1: metadata | Layer 2: verbatim | Layer 3: author-stance |
+| --- | --- | --- | --- |
+| List, *Many-Worlds Theory of Consciousness*, Noûs 57(2):316–340, 2023, DOI 10.1111/nous.12408 | PASS (Wiley/PhilArchive/LSE) | PASS (abstract matches) | PARTIAL — rival, not ally; no apex registers double edge |
+| Cogitate Consortium, Nature 642(8066):133–142, 2025 | PASS | PASS ("lack of sustained synchronization … contradicts") | PASS-after-remediation — must remain "confirmed neither" |
+| Stapp, *Quantum Interactive Dualism* (LBNL 2005) / *Mindful Universe* (2007) | PASS | PASS ("The answer is picked by 'Nature'") | **FAIL** — Process-1 chooser, not outcome-biaser; inverted |
+| Laukkonen, Friston & Chandaria 2025, Neurosci. Biobehav. Rev. 176:106296 | PASS (ScienceDirect, CC BY) | PASS (abstract matches) | **ENGAGEMENT FAIL** — physicalist ToC, no apex engages it |
+| Hoffman Fitness-Beats-Truth theorem (in #14) | n/a (formal result) | — | **FAIL** — "demonstrates/formal anchor"; contested (Bagwell 2023) |
+| Wiest 2025, Neurosci. of Consciousness 2025(1):niaf011, DOI 10.1093/nc/niaf011 | PASS | PASS ("There are no new data associated with this article") | CAUTION — "experimentally supported" Orch-OR imported near-established |
+| DeWall, Baumeister & Masicampo 2008, Conscious. & Cognition 17(3):628–645 | **FAIL** — miscited "Lieberman et al. 2008" on Tenets page | — | — |
+| Miller 2018, *De-Combination Problem*, Ratio 31(2):137–154, DOI 10.1111/rati.12166 (#32) | PASS (per registry; not independently re-verified) | n/a | PASS — cosmopsychist target framed accurately |
+| Deroy, Chen & Spence 2014, Phil. Trans. R. Soc. B 369(1641):20130207, DOI 10.1098/rstb.2013.0207 (#33) | PASS-after-remediation (was mislabelled) | n/a | PASS |
+| Sanchez et al. 2020, PNAS, PMID 32184331 (#33, "verbatim abstract quote") | **UNVERIFIED** — could not confirm at publisher of record | UNVERIFIED | pending |
+
+## 3. Bottom-Line Verdict
+
+The apex registry is a genuinely disciplined artefact whose *descriptions* are frequently more calibrated than the *articles* they certify — which inverts the normal overclaim failure and reveals the dominant pathology: hedges are authored at the registry/abstract layer while establish-grade claims persist in the bodies (FBT "demonstrates"; Stapp "biases outcomes"; "indirect evidence for dualism"). Confession-without-correction is systemic and load-bearing, visible in the cap history (over-cap named for months, then the cap abolished) and in the changelog's standing "EXPOSURE FOR THE OPERATOR" entries that log defects and defer fixes. The set is over-weighted toward the quantum interface, structurally silent on Tenet 4 and on the predictive-processing rival, and disconnected from the positions register it was built to feed. `born-preserving-causal-efficacy` (#34) is the model the rest should imitate: it states the deepest dilemma whole and claims no resolution. [apex-articles](/apex/apex-articles/)
+
+Verdicts assigned:
+
+- **Index itself: REVISE-HARD.**
+- **#34 born-preserving-causal-efficacy: RETAIN** (exemplary calibration; the template).
+- **#33 cross-modal-capability-division: RETAIN** (author-stance correct) — pending Sanchez 2020 metadata check and length remediation (registry logs 4,879 words, ~121w to the hard ceiling).
+- **#14 taxonomy-of-voids: DEMOTE-TO-COHERENCE-ONLY** on the FBT-anchored strand until "demonstrates" → "argues (contested)".
+- **#15 what-consciousness-tells-us-about-physics: FLAG AS PERPETUALLY CONTESTED** and reframe to coherence-only ("indirect evidence for dualism" → "consistent with, not evidence for").
+- **#20 post-decoherence-selection-programme: REVISE-HARD** (Stapp inversion, mechanism triplet, improper-mixture).
+- **#27 self-concealing-interface: FLAG AS PERPETUALLY CONTESTED** (unfalsifiability-by-design).
+- **#28 ai-as-introspection-control: REVISE-HARD** (inspectability overclaim; missing third-explanation falsifier).
+- **Applied A-series (A1–A7): REVISE-HARD** as a group (underpopulated against its own 8–15 target; A2–A4 blocked on register seeding).
+
+## 4. Article-Specific Fixes (keyed to slugs)
+
+- **`apex-articles` (the index):** reconcile the headline count to the actual list (43 items: 36 synthesis + 7 applied, of which 4 applied are live); fix the #21/#22 ordinal swap; add a per-entry Tenet-coverage column so the under-service of Tenet 4 becomes visible at a glance; add a per-entry "positions cited" field so the synthesis/register disconnect is auditable.
+- **`what-consciousness-tells-us-about-physics` (#15):** downgrade the index thesis from "provides indirect evidence for dualism" to "is consistent with dualism and inconsistent with no interpretation"; state the triple-screen (invisibility + untraceability + verification-circularity) conjunction in one place in-body rather than distributing it across three pieces where its joint force is hidden.
+- **`post-decoherence-selection-programme` (#20):** state the Born-preserving dilemma at the head, not only in #34; correct the Stapp attribution (Process-1 chooser, not outcome-biaser) wherever the concept substrate feeds it; resolve or explicitly rank the mechanism triplet and propagate the ordering to `interactionist-dualism`; add d'Espagnat's improper-mixture objection (an improper mixture has no ignorance-interpretable outcome to select among, so "biasing which option becomes actual" presupposes a proper mixture decoherence does not deliver).
+- **`taxonomy-of-voids` (#14):** change FBT "demonstrates"/"formal anchor" to "argues (contested; Bagwell 2023)"; apply Tenet 5 to the void-convergence abduction itself (the outer review's unanswered symmetry point — either parsimony-style inference binds the Map's own convergence argument or it does not).
+- **`ai-as-introspection-control` (#28):** retract or heavily qualify "externally inspectable" (which signal counts as the system's own confidence is unsettled); add the missing falsifier for "the differential pattern is real and has a third explanation"; engage Graziano's Attention Schema Theory explicitly as the physicalist account of exactly this introspective-model architecture (currently absent).
+- **`cross-modal-capability-division` (#33):** independently re-verify Sanchez et al. 2020 (PNAS, PMID 32184331) at publisher of record before it remains load-bearing; trim toward the soft ceiling. Otherwise this piece's rival-handling is the model.
+- **New apex required — Tenet 4:** commission a synthesis discharging (or conceding the limits of) the indexical objection against *both* Everett and List 2023 first-person modal realism.
+- **New apex required — physicalist rival:** commission a synthesis engaging predictive-processing / active-inference (Clark–Friston–Seth) and specifically Laukkonen–Friston–Chandaria 2025 as the strongest current physicalist theory of the "consciousness doing work" phenomenology; hold it as rival on the #33 template, not co-opted as on the `predictive-processing` page.
+
+## 5. Site-Wide Methodology Improvements
+
+- **Put calibration where the load-bearing claim lives.** The recurring pattern is a well-hedged index thesis pointing at an article body that reasserts the establish-grade version. A standing registry-vs-body diff on every "demonstrates / proves / evidence-for / is" verb would catch confession-without-correction before publication.
+- **Standing external-adversary pass keyed to opponents' current best statements** (List 2023; Laukkonen–Friston–Chandaria 2025; Bagwell 2023 on FBT; the Mermin–Stapp exchange). An internally cross-checked corpus converges on internal consistency, not truth — the site's own outer review documents errors laundered into apparent consensus until live-literature verification intervened.
+- **Wire the synthesis apexes to the positions register** (cite P-codes with confidence bands) so coherence at the synthesis layer is anchored to falsifiable commitments; prioritise seeding the clinical and methodology position clusters that currently block applied A2–A4.
+- **Treat confession-without-correction as a first-class, blocking defect.** A logged "EXPOSURE" or "standing audit task" that persists across many revisions should convert to a blocking item, not a perpetual footnote. The apex-cap history — name the over-run for months, then abolish the constraint — is the anti-pattern to avoid repeating with the new "synthesis threshold."
+- **De-duplicate load-bearing citations** (Stapp, Cogitate, Wiest, FBT, Zheng–Meister) to a single source-of-truth to cut the drift surface, and **make author-stance a required field** on every citation of a physicalist/naturalist author (Friston, Clark, Seth, Tononi, Dehaene, Barrett, Craig, Mashour, Graziano, Reber, Baluška, Levin, Dennett, Key, Klein), recording explicitly whether the author is invoked as rival or as support — the discipline #33 already demonstrates and the interface/void apexes do not.
+
+*Procedural note: the five highest-leverage apex bodies could not be fetched directly (the `/apex/` pages return no search-index hits and the fetcher rejects un-surfaced URLs). Body-level verdicts above rely on the site's own 2026-06-01 outer review, which quotes those bodies with line references, plus adjacent source/concept pages and publisher-of-record primary sources. Where a body claim could not be corroborated from a primary or the site's own audit trail (notably Sanchez et al. 2020), it is marked UNVERIFIED rather than asserted. Re-fetch the live apex bodies before actioning any body-level fix, since the corpus changes daily.*
+
+## Verification Notes
+
+Processing verified the review's claims against the **current** article bodies. The reviewer could not fetch the apex bodies directly (its own procedural note) and leaned on the site's 2026-06-01 outer review, so several body-level charges attack since-remediated text — the known echo failure mode.
+
+**Verified claims:**
+
+- ✓ Index headline count stale: the Governance Notes still assert "34 apex articles on disk" (L890, L906) while the body lists 36 numbered synthesis entries + 7 applied; 40 apex articles exist on disk as of 2026-08-20. The notes are date-stamped 2026-06-08, so this is a stale snapshot rather than a live self-contradiction, but the registry never refreshed it. Tasked.
+- ✓ Ordinal swap confirmed: "22. Medium-Status Voids in Cognition" (L458) is printed before "21. The Conjunction-Coalesce" (L479). Tasked.
+- ✓ Entry 15 index thesis overclaim confirmed: "The Born rule is the interface specification between two ontological domains… quantum mechanics provides indirect evidence for dualism" while the body concedes the interface is "empirically invisible from within physics" (L122). **Convergent with the same-day ChatGPT review**, whose open P2 task already carries this item — not re-minted.
+- ✓ Entry 20 index thesis says the programme "sidestep[s] the timing objection" with no registration of the Born-preserving statistical-indistinguishability dilemma that the article body (L91) and entry 34 state whole. Index-level residue tasked.
+- ✓ Stapp inversion locus live at `topics/consciousness-in-smeared-quantum-states` L120: "Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect." The Map's own calibrated statements contradict this (apex/post-decoherence-selection-programme L91: "The Map claims precisely the move Stapp's load-bearing mechanism set aside"; position P-Q4). Tasked. Convergent with the 2026-08-17 Claude review's Stapp-inversion verdict.
+- ✓ `ai-as-introspection-control`: the `apex_thesis` frontmatter (L55) still asserts unqualified "externally inspectable" while the body (L91) hedges ("which of them counts as the system's own confidence… is not yet principled"); no Graziano/AST engagement (grep 0); no falsifier for the third explanation. Tasked.
+- ✓ README stale count confirmed ("5 apex articles" against 40 on disk) — fixed directly during processing with count-free phrasing.
+- ✓ No dedicated Tenet-4 apex exists — many-worlds appears in apex articles only incidentally. The apex-layer registration gap is real and tasked (see disputed notes below for what the reviewer overstated).
+- ✓ **Sanchez et al. 2020 resolved from UNVERIFIED to verified**: the raw EuropePMC abstract contains the exact quoted span "supramodal spatiotemporal neural activity patterns predicting conscious perception of the feeble stimulation"; metadata matches (PNAS 117(13):7437–7446; PMID 32184331; DOI 10.1073/pnas.1912584117); the article's paraphrase (other-modality primary regions, late broadcast, report-type control) matches the abstract's findings.
+
+**Disputed / stale claims (attack since-remediated text):**
+
+- ✗ Entry 14 FBT "demonstrates"/"formal anchor" uncalibrated: the current `taxonomy-of-voids` body already hedges — "the theorem's reach is contested (Bagwell 2023, *Synthese* 201:25…) so the anchor is best read as a strongly-argued result at one bounded site rather than a settled proof." No "demonstrates" in the current body. Echo of the 2026-06-01 review.
+- ✗ Tenets-page DeWall miscite ("Lieberman et al. 2008"): current `tenets.md` L97 cites DeWall, Baumeister & Masicampo (2008, *Consciousness and Cognition* 17(3):628–645) correctly. Already fixed.
+- ✗ Entry 20 body "confident framing does not [state the dilemma]": the current body states it prominently (L91) and characterises Stapp correctly. Only the index-thesis residue survives (tasked).
+- ✗ "Add d'Espagnat's improper-mixture objection" to entry 20: already present at L71, L81, L121, L165 with the d'Espagnat 1976 citation and the category-error analysis the reviewer asks for.
+- ✗ "Laukkonen–Friston–Chandaria 2025 appears nowhere in the apex layer / no apex engages active inference": `apex/attention-as-causal-bridge` L154 engages it by name as "the strongest physicalist rival," delegating the framework-level confrontation to `topics/predictive-processing-and-dualism`, which steelmans active inference and marks the residue a framework boundary; `concepts/predictive-processing` links that treatment in three places. The blind-spot charge fails; only "no dedicated apex" survives, folded into the registry consideration.
+- ✗ "Synthesis apexes cite essentially zero register positions": `born-preserving-causal-efficacy` (4 `positions/` references), `interface-specification-programme` (2), `mereology-of-mind`, `machine-question`, `testing-the-map-from-inside` and others cite P-codes. The wiring is thinner than the applied series but not "essentially zero."
+- ✗ "No apex confronts List or discharges Tenet 4" read as a corpus claim: `arguments/many-worlds-argument` (post-2026-08-17) runs seven engagements including List 2023 as "the hardest target," handled as framework-boundary marking with the modal-realism rejection carrying the weight — the review itself half-acknowledges this. Only the apex-layer gap survives.
+
+**Accepted unverified:**
+
+- ? Stapp primary-text span ("The answer is picked by 'Nature'") — accepted on the reviewer's publisher-of-record citation plus consistency with the Map's own P-Q4 and apex treatment; not re-fetched this pass.
+- ? List 2023 abstract span — consistent with the prior verified handling in `arguments/many-worlds-argument`; not re-fetched.

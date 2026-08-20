@@ -171,7 +171,7 @@ The Map is configured for Netlify deployment. Push to the main branch triggers:
 - **143 concepts**: Qualia, functionalism, IIT, panpsychism, epiphenomenalism, quantum consciousness, agent causation, libertarian free will, and more
 - **5 arguments**: Against materialism, functionalism, epiphenomenalism, and many-worlds
 - **23 voids articles**: Exploring the unexplored, unexplorable, and occluded
-- **5 apex articles**: Human-readable synthesis pieces
+- **Apex articles**: Human-readable synthesis pieces
 - **129 research notes**: Sources and analysis for article development
 
 ## License
