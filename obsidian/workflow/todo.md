@@ -49,14 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P1: `topics/language-recursion-and-consciousness` inverts Vadillo et al. 2026 — the "decisive demonstrations are lacking" span is the abstract's opening premise, not its conclusion
-- **Type**: refine-draft
-- **File**: obsidian/topics/language-recursion-and-consciousness.md
-- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing (EuropePMC, DOI 10.1093/nc/niaf046). The article (~line 53) claims the 19-lab Registered Report's abstract "concludes that 'decisive demonstrations of the existence of unconscious WM are lacking'" and treats that scepticism as *strengthening* the recursion argument. That sentence is the abstract's opening characterisation of prior literature. The paper's own findings run the other way: above-chance WM performance on unseen trials (.55 accuracy), significant above-chance intercept (beta0 = .521), "These findings suggest that WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity." Recast the citation as adverse-or-mixed evidence against the categorical access requirement, noting honestly what survives (the paper does not demonstrate unconscious recursive parsing). Also fix the reference entry: first author is Franco-Martinez, A. — "Vadillo, M.A., Soto, D., Shanks, D.R." are the paper's three final (senior) authors; cite as Franco-Martinez, A., et al. (2026), Neuroscience of Consciousness, niaf046. Propagate the fix to any research note carrying the same inverted reading (grep research/ for Vadillo), and to the hugo tree via sync.
-- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P1: `voids/recursion-void` attributes a verbatim Redshaw 2024 sentence to Stiller & Dunbar 2007
 - **Type**: refine-draft
 - **File**: obsidian/voids/recursion-void.md
@@ -2869,6 +2861,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `topics/language-recursion-and-consciousness` inverts Vadillo et al. 2026 — the "decisive demonstrations are lacking" span is the abstract's opening premise, not its conclusion
+- **Type**: refine-draft
+- **File**: obsidian/topics/language-recursion-and-consciousness.md
+- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing (EuropePMC, DOI 10.1093/nc/niaf046). The article (~line 53) claims the 19-lab Registered Report's abstract "concludes that 'decisive demonstrations of the existence of unconscious WM are lacking'" and treats that scepticism as *strengthening* the recursion argument. That sentence is the abstract's opening characterisation of prior literature. The paper's own findings run the other way: above-chance WM performance on unseen trials (.55 accuracy), significant above-chance intercept (beta0 = .521), "These findings suggest that WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity." Recast the citation as adverse-or-mixed evidence against the categorical access requirement, noting honestly what survives (the paper does not demonstrate unconscious recursive parsing). Also fix the reference entry: first author is Franco-Martinez, A. — "Vadillo, M.A., Soto, D., Shanks, D.R." are the paper's three final (senior) authors; cite as Franco-Martinez, A., et al. (2026), Neuroscience of Consciousness, niaf046. Propagate the fix to any research note carrying the same inverted reading (grep research/ for Vadillo), and to the hugo tree via sync.
 
 ### ✓ 2026-08-20: `voids/closure-types-void` attributes the representational/psychological "two readings" distinction and a rat/primes illustration to Demircioglu (2017), whose full text contains neither
 - **Type**: refine-draft

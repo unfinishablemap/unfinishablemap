@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-12 14:16:44+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-08-20 06:22:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:02:45+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-08-20 06:22:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -53,7 +53,7 @@ The standard linguistic explanation is that humans have a "language faculty" inc
 
 Processing recursive structures requires holding incomplete constituents while processing embedded ones. In "The man [who saw the woman [who chased the dog]] ran," you must maintain "the man" and "who saw the woman" while processing the innermost clause, then integrate backward. This demands working memory—and crucially WM *manipulation*: not just storage but active maintenance while processing additional material, then integration of stored elements with new input.
 
-The [maintenance/manipulation distinction](/concepts/working-memory/) in WM research is widely read as revealing an asymmetry: maintenance can occur unconsciously (through activity-silent synaptic traces), while manipulation requires reactivation into the "active," globally available state where comparing, combining, and integrating happen. Two cautions matter. First, the asymmetry is the dominant reading, not a settled one: the unconscious-maintenance leg was tested in a 2026 multisite Registered Report (Vadillo, Soto & Shanks et al., 19 labs, N=531) whose abstract concludes that "decisive demonstrations of the existence of unconscious WM are lacking." That skepticism *strengthens* the recursion argument—if even maintenance requires consciousness, the unconscious escape route closes and recursion requires consciousness a fortiori. Second, the consciousness this evidence licenses is [access consciousness](/concepts/access-consciousness/): reportability, global availability, poise for rational control. The argument below routes its premises through access before reaching the Map's separately-grounded phenomenal conclusion.
+The [maintenance/manipulation distinction](/concepts/working-memory/) in WM research is widely read as revealing an asymmetry: maintenance can occur unconsciously (through activity-silent synaptic traces), while manipulation requires reactivation into the "active," globally available state where comparing, combining, and integrating happen. Two cautions matter. First, the asymmetry is the dominant reading, not a settled one. Its unconscious-maintenance leg was tested in a 2026 multisite Registered Report (Franco-Martínez et al.; 19 labs, N=531) whose abstract opens by noting that "decisive demonstrations of the existence of unconscious WM are lacking"—a characterisation of the prior literature, not the paper's verdict. Its own findings point the other way: above-chance WM performance on trials reported as unseen (.55 accuracy) and a significant above-chance intercept in the regression of performance on detection sensitivity (β₀ = .521), findings the authors read as suggesting that "WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity." For any categorical claim that WM operation requires conscious access, that is adverse, or at best mixed, evidence. What survives is narrower: the study probed maintenance of a single masked grating over a two-second delay—not comparison, combination, or integration—so it demonstrates neither unconscious *manipulation* nor unconscious recursive parsing; the manipulation premise stands or falls on the manipulation evidence. Second, the consciousness this evidence licenses is [access consciousness](/concepts/access-consciousness/): reportability, global availability, poise for rational control. The argument below routes its premises through access before reaching the Map's separately-grounded phenomenal conclusion.
 
 Stated carefully: if recursion requires WM manipulation, and manipulation requires conscious *access*, then recursion requires conscious access. The further step to phenomenal consciousness, which the Map's dualist conclusion needs, is taken below on separate ground.
 
@@ -214,11 +214,11 @@ Language, recursion, and consciousness connect to all five tenets:
 1. Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Chomsky, N. (2002). On Nature and Language. Cambridge University Press.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Franco-Martínez, A., et al. (2026). Replicating the unconscious working memory effect: a multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046. https://doi.org/10.1093/nc/niaf046
 1. Hauser, M.D., Chomsky, N., & Fitch, W.T. (2002). The faculty of language: What is it, who has it, and how did it evolve? *Science*, 298(5598), 1569-1579.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind*. Oxford University Press.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
 1. Read, D.W., Manrique, H.M., & Walker, M.J. (2022). On the working memory of humans and great apes: Strikingly similar or remarkably different? *Neuroscience & Biobehavioral Reviews*, 134, 104496. https://doi.org/10.1016/j.neubiorev.2021.12.019
 1. Searle, J.R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
-1. Vadillo, M.A., Soto, D., Shanks, D.R., et al. (2026). Replicating the unconscious working memory effect: a multisite Registered Report. *Neuroscience of Consciousness*, 2026(1), niaf046.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

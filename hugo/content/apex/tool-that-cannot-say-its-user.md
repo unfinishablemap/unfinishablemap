@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-12
-ai_modified: 2026-08-16 10:15:00+00:00
+ai_modified: 2026-08-20 06:22:00+00:00
 ai_system: claude-fable-5
 apex_last_synthesis: 2026-08-12 14:13:07+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: Language is a tool consciousness uses; the structured pattern of it
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-16 10:15:00+00:00
+lastmod: 2026-08-20 06:22:00+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
@@ -58,7 +58,7 @@ None of this evidence says language is unimportant. The interface analysis is eq
 
 The dependence between language and consciousness runs in a direction constitution theorists do not predict. Language's signature structure — recursion, the embedding of clauses within clauses that separates human syntax from every known animal communication system — appears to *require* consciousness rather than generate it.
 
-The argument, developed in [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/), has two stages that must be kept apart. The first is empirical and framework-neutral: parsing embedded structure demands [working-memory](/concepts/working-memory/) *manipulation* — not passive storage but active integration of held constituents with incoming material — and manipulation requires conscious *access* in Block's sense: reportability, global availability, poise for rational control. A 19-lab Registered Report (Vadillo, Soto, Shanks et al. 2026) found decisive demonstrations of unconscious working memory lacking, which closes the most natural escape route: if even maintenance is doubtfully unconscious, recursion requires conscious access a fortiori. The second stage is the Map's own: on its dualist commitments, that access is phenomenally realized. As the source article puts it: "The evidence carries the first stage but not the second; keeping them distinct is the discipline this article models, since the inviting mistake is to let evidence for access stand in for a conclusion about phenomenality." That sentence is the methodological spine of the whole cluster, and of this synthesis. Every face below carries evidence to a structural conclusion and then marks, rather than blurs, the further step to the phenomenal reading.
+The argument, developed in [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/), has two stages that must be kept apart. The first is empirical and framework-neutral: parsing embedded structure demands [working-memory](/concepts/working-memory/) *manipulation* — not passive storage but active integration of held constituents with incoming material — and manipulation requires conscious *access* in Block's sense: reportability, global availability, poise for rational control. A 19-lab Registered Report (Franco-Martínez et al. 2026) found above-chance working-memory performance even on trials reported as unseen — evidence its authors read as suggesting WM can operate on unconscious representations, though performance remained positively associated with perceptual sensitivity — so the maintenance leg offers the argument no shortcut; the case rests on manipulation, which the study did not test. The second stage is the Map's own: on its dualist commitments, that access is phenomenally realized. As the source article puts it: "The evidence carries the first stage but not the second; keeping them distinct is the discipline this article models, since the inviting mistake is to let evidence for access stand in for a conclusion about phenomenality." That sentence is the methodological spine of the whole cluster, and of this synthesis. Every face below carries evidence to a structural conclusion and then marks, rather than blurs, the further step to the phenomenal reading.
 
 The capacity argument also answers its sharpest in-framework objection in a way that matters for the tool picture. Conscious animals — apes, corvids, cetaceans — lack recursive language, which on its face dissociates consciousness from recursion. The reply is that consciousness is necessary but not sufficient: recursion needs conscious access *plus* the expanded working-memory capacity that humans have and apes, at roughly two items against our four, do not. Conscious animals below the capacity threshold should lack deep recursion, and they do. The tool demands a user of a certain strength; where the strength is absent, the tool cannot be wielded, though the user is present all the same.
 
@@ -141,11 +141,11 @@ This synthesis draws on:
 
 ## References
 
-1. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
-2. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
-3. Ji, X., Elmoznino, E., Deane, G., Constant, A., Dumas, G., Lajoie, G., Simon, J., & Bengio, Y. (2024). "Sources of richness and ineffability for phenomenally conscious states." *Neuroscience of Consciousness*, 2024(1), niae001.
-4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-5. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
-6. Stiller, J., & Dunbar, R.I. (2007). "Perspective-taking and memory capacity predict social network size." *Social Networks*, 29(1), 93-104.
-7. Vadillo, M.A., Soto, D., Shanks, D.R., et al. (2026). "Replicating the unconscious working memory effect: a multisite Registered Report." *Neuroscience of Consciousness*, 2026(1), niaf046.
+1. Franco-Martínez, A., et al. (2026). "Replicating the unconscious working memory effect: a multisite Registered Report." *Neuroscience of Consciousness*, 2026(1), niaf046. https://doi.org/10.1093/nc/niaf046
+2. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
+3. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
+4. Ji, X., Elmoznino, E., Deane, G., Constant, A., Dumas, G., Lajoie, G., Simon, J., & Bengio, Y. (2024). "Sources of richness and ineffability for phenomenally conscious states." *Neuroscience of Consciousness*, 2024(1), niae001.
+5. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+6. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
+7. Stiller, J., & Dunbar, R.I. (2007). "Perspective-taking and memory capacity predict social network size." *Social Networks*, 29(1), 93-104.
 8. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.

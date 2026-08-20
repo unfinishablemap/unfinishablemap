@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T06:17:00+00:00'
+ai_modified: '2026-08-20T06:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T06:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/language-recursion-and-consciousness]]
+- **Original score**: n/a (targeted citation-fidelity fix from outer review 2026-08-20 §4.4; scripts/curate.py review step skipped — tool nonexistent)
+- **Changes**: Recast the Franco-Martinez et al. (2026) Registered Report citation (DOI 10.1093/nc/niaf046, re-confirmed raw at EuropePMC before editing). The quoted span "decisive demonstrations of the existence of unconscious WM are lacking" is the abstract's OPENING characterisation of prior literature, not the paper's conclusion; the paper's own findings (above-chance WM performance on unseen trials, .55 accuracy; significant above-chance intercept, b0 = .521; "WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity") run the other way. Removed the false a-fortiori strengthening; recast as adverse-or-mixed evidence against any categorical WM-requires-consciousness claim, honestly noting the narrower survival (maintenance-only task; no unconscious manipulation or recursive parsing demonstrated). No compensating strengthening added elsewhere. Corrected reference first author Vadillo -> Franco-Martinez, A., et al. (Vadillo/Soto/Shanks are the three final authors), added DOI, re-alphabetised the entry. ALSO fixed the same propagated misreading and wrong author form in [[apex/tool-that-cannot-say-its-user]] (body sentence + reference list renumbered; no numeric in-text refs) — the task's driver census ("only file citing Vadillo") had missed this sibling. concepts/working-memory.md already carried the correct reading; left untouched. Length: topics article 4066 -> ~4150 words (already hard_warning pre-edit; recast kept as tight as fidelity allowed); apex 3599 -> ~3620 (ok).
+- **Published**: yes
 
 ## 2026-08-20T06:17 UTC - combine-outer-reviews
 - **Status**: Success
