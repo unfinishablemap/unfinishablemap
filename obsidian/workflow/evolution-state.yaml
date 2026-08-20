@@ -1,5 +1,9 @@
-last_updated: '2026-08-20T17:38:57.161578+00:00'
-session_count: 19304
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-20T17:56:26.501600+00:00'
+session_count: 19305
 cycle_position: 12810
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
@@ -31,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
   positions-evolve: '2026-08-17T17:59:57.973586+00:00'
   refine-draft: '2026-08-20T17:27:51.459569+00:00'
-  replenish-queue: '2026-08-20T16:58:29.175473+00:00'
+  replenish-queue: '2026-08-20T17:56:26.501600+00:00'
   research-topic: '2026-08-20T08:50:15.044466+00:00'
   research-voids: '2026-08-19T16:51:40.605537+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -112,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-20'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-20'
@@ -190,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-20'
   outcome: success
 agentic_social:
@@ -660,7 +664,25 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-20T17:55:00+00:00'
   last_replenishment_mode: conservative-single-p3-promotion
-  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED P3 PROMOTION, zero new tasks minted. Live count at pick was 2 pickable P0-P2 (P2 expand-topic scale types for phenomenal quantities; P2 refine-draft erasure-void pointer from the report-latency fold) after the 17:25 refine-draft closed the history-of-the-interaction-problem P2 (commit f39814cb84; all six pessimistic issues + three low findings applied; sync to hugo grep-verified by this run despite no sync line in its changelog entry). Residue audit 16:56 to 17:55: 17:12 coalesce ABANDON (no merge, no residue); the 17:25 refine''s only decline is the cosmetic superlative-chain style item on a converged article, not successor material; no positions file cites history-of-the-interaction-problem so no 7b update is owed; task_chains empty both keys. Action: promoted the 2026-08-19 positions-evolve P-D3 citation-completion task (arguments-for-dualism.md) from P3 to P2 - the best-verified open P3, itself the product of a checked-and-declined-premise audit. All three measured premises re-verified live at promotion (zero positions/ hits for the Neoplatonist-audit slug, for african-philosophy-of-consciousness, and for the three basin-edge slugs; Depends-on line still omits the audit; the L73 Unanimism passage confirmed verbatim - capitalised, so a lowercase grep reads 0). Adds type diversity: queue now expand-topic + refine-draft + positions-evolve. consumed_by dedup confirmed unusable (542 of ~560 research notes lack the key). P3 pool 46. State re-parsed after this write.'
+  last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED P3 PROMOTION, zero new
+    tasks minted. Live count at pick was 2 pickable P0-P2 (P2 expand-topic scale types
+    for phenomenal quantities; P2 refine-draft erasure-void pointer from the report-latency
+    fold) after the 17:25 refine-draft closed the history-of-the-interaction-problem
+    P2 (commit f39814cb84; all six pessimistic issues + three low findings applied;
+    sync to hugo grep-verified by this run despite no sync line in its changelog entry).
+    Residue audit 16:56 to 17:55: 17:12 coalesce ABANDON (no merge, no residue); the
+    17:25 refine''s only decline is the cosmetic superlative-chain style item on a
+    converged article, not successor material; no positions file cites history-of-the-interaction-problem
+    so no 7b update is owed; task_chains empty both keys. Action: promoted the 2026-08-19
+    positions-evolve P-D3 citation-completion task (arguments-for-dualism.md) from
+    P3 to P2 - the best-verified open P3, itself the product of a checked-and-declined-premise
+    audit. All three measured premises re-verified live at promotion (zero positions/
+    hits for the Neoplatonist-audit slug, for african-philosophy-of-consciousness,
+    and for the three basin-edge slugs; Depends-on line still omits the audit; the
+    L73 Unanimism passage confirmed verbatim - capitalised, so a lowercase grep reads
+    0). Adds type diversity: queue now expand-topic + refine-draft + positions-evolve.
+    consumed_by dedup confirmed unusable (542 of ~560 research notes lack the key).
+    P3 pool 46. State re-parsed after this write.'
   last_replenishment_prev: '2026-08-20T16:56:00+00:00'
   last_replenishment_run: 988
   loop_pickable_open: 3
@@ -692,9 +714,30 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-17T00:09:10+00:00'
-  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state, and every Tier-1 change type writes to one of those three blocks. Cadence bypass re-verified in code this run, not relayed: filter_triggers_by_min_age has one call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers ungated; 82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d (mean ~3.6d). NEW AND FORCING A DECISION - the cap freeze is now binding and coalesce is PROVEN unable to relieve it: tonight''s run filtered to length-feasible pairs first (7853) then ranked by similarity and found NO pair both feasible and redundant, five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log sidecar inflates the gate by one, so one real slot is withheld by a counting artefact), concepts 319/320 with the last slot four notes recommend leaving unspent, voids 99/100. Eleven consecutive replenish runs minted zero-cap-cost work, which is the correct adaptation but is compensating for a structural block. Selector saturation worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts 2, apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata defect. Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks empty, 20/20 recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The producer-changed-consumers-unchecked class gained six further instances; Tier-3 item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
+  last_run_note: 'run 2026-08-17 - SIXTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings remain ABSENT from state,
+    and every Tier-1 change type writes to one of those three blocks. Cadence bypass
+    re-verified in code this run, not relayed: filter_triggers_by_min_age has one
+    call site (evolve_loop.py:1370) and cycle_pick.py:143-146 drains pending triggers
+    ungated; 82 reports now exist against a 30-day design, recent gaps 2,1,8,3,1,3,1,4,9d
+    (mean ~3.6d). NEW AND FORCING A DECISION - the cap freeze is now binding and coalesce
+    is PROVEN unable to relieve it: tonight''s run filtered to length-feasible pairs
+    first (7853) then ranked by similarity and found NO pair both feasible and redundant,
+    five of six top pairs sharing zero words. topics 320/320 (319 real - the .refinement-log
+    sidecar inflates the gate by one, so one real slot is withheld by a counting artefact),
+    concepts 319/320 with the last slot four notes recommend leaving unspent, voids
+    99/100. Eleven consecutive replenish runs minted zero-cap-cost work, which is
+    the correct adaptation but is compensating for a structural block. Selector saturation
+    worsened: 739 of 799 blocked, 177 floor-survivors cut to 11, of which 8 carry
+    empty topics[] - 19 such articles exist corpus-wide (voids 9, positions 4, concepts
+    2, apex 2, topics 1, arguments 1), so the filter now selects partly on a metadata
+    defect. Health otherwise good: critical_issues 0, orphaned_files 0, failed_tasks
+    empty, 20/20 recent success, queue at floor 3 P2 / 32 P3, 56 NEEDS-HUMAN. The
+    producer-changed-consumers-unchecked class gained six further instances; Tier-3
+    item 3 proposes a reference-resolution validator for the second time. See reviews/system-tune-2026-08-17.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md

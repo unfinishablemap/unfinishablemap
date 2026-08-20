@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T14:55:00+00:00'
+ai_modified: '2026-08-20T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-20 14:55:00+00:00
+lastmod: 2026-08-20 17:55:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -45,10 +45,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
+### P2: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve
 - **Status**: pending
 - **File**: obsidian/positions/arguments-for-dualism.md
+- **Promoted**: P3→P2 by /replenish-queue 2026-08-20 17:55Z (floor restore after the 17:25 refine-draft closed a pickable P2; residue audit 16:56→17:55 found no mintable successor — coalesce ABANDONed, the refine landed clean and synced). All measured premises re-verified live at promotion: zero `obsidian/positions/` hits for the audit slug, for `african-philosophy-of-consciousness`, and for all three basin-edge slugs; P-D3's `Depends on` (L69) still omits the audit; `concepts/african-philosophy-of-consciousness` L73 carries the Unanimism-critique-turned-inward passage verbatim (note: capitalised "Unanimism" — a lowercase grep returns 0). Task body below unchanged.
 - **Notes**: From optimistic review 2026-08-19 (`reviews/optimistic-2026-08-19-cross-cultural-wing`). **This is an `Argued in` / `Depends on` completion on an existing entry — do NOT add a new position.** `positions/` measured live at 15/80, but no slot is consumed by this task.
   **FIRST, THE THING THIS TASK IS NOT.** The review opened on the hypothesis that **P-M2**'s `Argued in` (`positions/methodology-and-calibration.md` L74 — `project/common-cause-null`, `project/coherence-inflation-countermeasures`, `apex/taxonomy-of-voids`) should gain the `topics/` and `concepts/` articles that demonstrate the discount. **That was checked and declined.** The premise is literally true; the conclusion is wrong. P-M2 routes content citations to its instance positions **by design** and says so twice: `Asserts` L72 ("the methodological parent of which P-V1 is the void-catalogue instance and P-D1–P-D3 the argument-catalogue instance") and `Depends on` L73 ("governs ... P-D1–P-D3"). The routing is live — P-D3 L70 already cites `[[topics/cross-traditional-convergence-on-consciousness-irreducibility]]` and `[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]`, the latter added 2026-08-02 with a documented reason. **Do not add content articles to P-M2; it would duplicate P-D3 and blur the parent/instance separation the domain preamble (L33) defends deliberately.**
   **WHAT IS ACTUALLY MISSING — two dangling references in P-D3** (`obsidian/positions/arguments-for-dualism.md`, entry at L64). Both target articles are cited by **zero** files in `obsidian/positions/` (verified by grep, 2026-08-19).
@@ -2737,14 +2738,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (reviews/optimistic-2026-08-20-self-audit-wing.md)
 - **Generated**: 2026-08-20
 
-### P2: Registry-calibration + citation-reading fixes in `topics/history-of-the-interaction-problem` (pessimistic 2026-08-20; six verified findings, all small)
-- **Type**: refine-draft
-- **File**: obsidian/topics/history-of-the-interaction-problem.md
-- **Status**: pending
-- **Notes**: From [pessimistic-2026-08-20-history-of-the-interaction-problem](/reviews/pessimistic-2026-08-20-history-of-the-interaction-problem/) (first dedicated pessimistic pass; raw-text verified at JMP full text + arXiv abstract + Crossref). Fixes, all one-clause/one-word scale — do NOT expand the article (converged, 5 deep reviews): (1) L133 HIGH: "a specific, intelligible mechanism" and flat "requires no transfer of energy or momentum" read more confident than [quantum-interface](/positions/quantum-interface/) (P-Q10 no worked toy model; P-Q3 open; 2026-08-13 citation grade = framework-internal coherence result only) and than [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) L98's per-trial/ensemble honesty ("on any single realised trial the actual outcome may differ in energy… stated plainly rather than dissolved by stipulation"). Demote to candidate-locus phrasing + qualify energy claim to ensemble-level with per-trial residual named. (2) L119-121: Cucu & Pitts's conditionality response ACCEPTS energy non-conservation (arXiv 1909.13643 abstract verbatim: "simply accepts energy non-conservation as an aspect of interactionist dualism"; conservation-satisfying attempts "all miss their goal") — a rival strategy to L133's no-energy-transfer claim; re-frame as two distinct escape routes (sibling article states them disjunctively); "demonstrates"→"argues" for the begs-the-question claim. (3) L58: the three bolded labels (causal interface / vapors / principal attribute problem) are Stencil 2023's coinages, verified at raw JMP text ("I am calling this problem the causal interface problem to avoid ambiguity"); move "(Stencil 2023)" to point of use + one clause registering his framing (three problems about the soul's NATURE, only the first being the interaction worry — he coined the labels against the interaction-centric reading). (4) L64: quote 3 is not the cited Shapiro edition — Shapiro (via Stencil passage [3], 10 June 1643): "it would be easier for me to concede matter and extension to the soul than to concede the capacity to move a body and to be moved by it to an immaterial thing"; conform the quote (article's "of moving… of being moved, to an immaterial being" greps 0 in cited edition). (5) L125: "Dualism is no longer marginal" over-reads the 32.1% NON-PHYSICALISM figure (superset incl. panpsychism/Russellian monism/idealism); weaken to non-physicalism or add the dualism-specific consciousness-question figure. (6) L94: "sacrificed the immateriality of spirit" contradicts L78 ("corporeal and incorporeal") — More sacrificed UNEXTENDEDNESS, not immateriality; one-word fix. Also LOW, same pass: L178 Von Neumann metadata (1932 = Springer, German; Princeton UP = 1955 Beyer trans.); Further Reading gloss "Why the conservation objection fails" → "…is not decisive" (target article's own verdict); optional language: "demolished" L62. Do NOT re-flag stability-note items (Leibniz momentum, compressed C20 sections, Pitts-and-Cucu author order). `ai_modified` real `date -u`; sync obsidian→hugo after and grep BOTH trees for the old quote variant ("of moving a body and of being moved") to confirm the fix landed in hugo.
-- **Source**: pessimistic-review (reviews/pessimistic-2026-08-20-history-of-the-interaction-problem.md)
-- **Generated**: 2026-08-20
-
 ### P3: `topics/interoceptive-consciousness-and-the-interface` L36 restates the clean capability division the apex has now graded (windows of integration)
 - **Type**: refine-draft
 - **File**: obsidian/topics/interoceptive-consciousness-and-the-interface.md
@@ -2790,6 +2783,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: Registry-calibration + citation-reading fixes in `topics/history-of-the-interaction-problem` (pessimistic 2026-08-20; six verified findings, all small)
+- **Type**: refine-draft
+- **File**: obsidian/topics/history-of-the-interaction-problem.md
+- **Notes**: From [pessimistic-2026-08-20-history-of-the-interaction-problem](/reviews/pessimistic-2026-08-20-history-of-the-interaction-problem/) (first dedicated pessimistic pass; raw-text verified at JMP full text + arXiv abstract + Crossref). Fixes, all one-clause/one-word scale — do NOT expand the article (converged, 5 deep reviews): (1) L133 HIGH: "a specific, intelligible mechanism" and flat "requires no transfer of energy or momentum" read more confident than [quantum-interface](/positions/quantum-interface/) (P-Q10 no worked toy model; P-Q3 open; 2026-08-13 citation grade = framework-internal coherence result only) and than [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) L98's per-trial/ensemble honesty ("on any single realised trial the actual outcome may differ in energy… stated plainly rather than dissolved by stipulation"). Demote to candidate-locus phrasing + qualify energy claim to ensemble-level with per-trial residual named. (2) L119-121: Cucu & Pitts's conditionality response ACCEPTS energy non-conservation (arXiv 1909.13643 abstract verbatim: "simply accepts energy non-conservation as an aspect of interactionist dualism"; conservation-satisfying attempts "all miss their goal") — a rival strategy to L133's no-energy-transfer claim; re-frame as two distinct escape routes (sibling article states them disjunctively); "demonstrates"→"argues" for the begs-the-question claim. (3) L58: the three bolded labels (causal interface / vapors / principal attribute problem) are Stencil 2023's coinages, verified at raw JMP text ("I am calling this problem the causal interface problem to avoid ambiguity"); move "(Stencil 2023)" to point of use + one clause registering his framing (three problems about the soul's NATURE, only the first being the interaction worry — he coined the labels against the interaction-centric reading). (4) L64: quote 3 is not the cited Shapiro edition — Shapiro (via Stencil passage [3], 10 June 1643): "it would be easier for me to concede matter and extension to the soul than to concede the capacity to move a body and to be moved by it to an immaterial thing"; conform the quote (article's "of moving… of being moved, to an immaterial being" greps 0 in cited edition). (5) L125: "Dualism is no longer marginal" over-reads the 32.1% NON-PHYSICALISM figure (superset incl. panpsychism/Russellian monism/idealism); weaken to non-physicalism or add the dualism-specific consciousness-question figure. (6) L94: "sacrificed the immateriality of spirit" contradicts L78 ("corporeal and incorporeal") — More sacrificed UNEXTENDEDNESS, not immateriality; one-word fix. Also LOW, same pass: L178 Von Neumann metadata (1932 = Springer, German; Princeton UP = 1955 Beyer trans.); Further Reading gloss "Why the conservation objection fails" → "…is not decisive" (target article's own verdict); optional language: "demolished" L62. Do NOT re-flag stability-note items (Leibniz momentum, compressed C20 sections, Pitts-and-Cucu author order). `ai_modified` real `date -u`; sync obsidian→hugo after and grep BOTH trees for the old quote variant ("of moving a body and of being moved") to confirm the fix landed in hugo.
 
 ### ✓ 2026-08-20: the olfactory-void research landed as "fold, do not spend the last slot" — ship the fold into its named hosts
 - **Type**: refine-draft

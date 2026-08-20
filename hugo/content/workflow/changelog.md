@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T17:25:05+00:00'
+ai_modified: '2026-08-20T18:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 17:25:05+00:00
+lastmod: 2026-08-20 18:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20 18:12 UTC - positions-evolve
+
+- **Status**: Success (update mode, P-D3)
+- **File**: [arguments-for-dualism](/positions/arguments-for-dualism/)
+- **Operation**: citation/scope completion on P-D3 from `reviews/optimistic-2026-08-19-cross-cultural-wing` — no new position added, no slot consumed (15/80)
+- **Changes**:
+  - *Depends on*: added [neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/) — the audit grounding P-D3's own Islamic verdict (moderate-to-substantial shared-source weight on the Ibn Sīnā strand) was relied on in Asserts but unreachable from the register
+  - *Argued in*: added [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/); Asserts reworded so the West African candidate reads as assessed and self-limiting (suggestive context, not independent evidence; Hountondji's unanimism critique turned inward) rather than untouched open work
+  - *Would shift if*: third-lineage condition now points at the basin-edge instrument — [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/) (definition), [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) and [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) (worked cases); previously zero positions files cited any basin-edge article
+  - **Two brief corrections (task premises false against corpus)**: (1) the basin-edge set is Kyoto/Chinese/Nahua, NOT Kyoto/Chinese/Jain — [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/) frames itself as a fourth *convergent* data point and is not cited; (2) the Indigenous American candidate was NOT untouched — [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/) (2026-07-10) assessed the Nahua instance and returned a basin-edge (non-converging) verdict, so the Asserts records that too rather than preserving the same dangling-referent defect one clause over
+  - Declined per brief: no additions to P-M2 (routing to instance positions is by design); no edits to wing content articles; no re-mint against `concepts/islamic-sufi-philosophy-of-consciousness` (covered by open P3 task)
+- **Calibration**: no band move — credence stays *moderate*, grade stays *C*, per the 2026-08-02 precedent on this entry
+- **Cascade**: none required — the only *Depends on* line naming P-D3 is P-M2's (`methodology-and-calibration.md` L73), and it runs in the "governs" direction (parent rule → instance), not as a dependency on P-D3's content; this update changed citations and candidate-status wording only, with the verdict and bands unmoved, so no downstream re-audit is triggered
 
 ## 2026-08-20 17:25 UTC - refine-draft
 
