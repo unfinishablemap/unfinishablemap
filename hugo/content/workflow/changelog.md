@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T19:14:14+00:00'
+ai_modified: '2026-08-20T20:08:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 19:14:14+00:00
+lastmod: 2026-08-20 20:08:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20 20:08 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Mechanistic-interpretability probes of representational ambivalence (harvest-minted 2026-08-20, from optimistic-2026-08-20-agency-self-wing)
+- **Output**: [interpretability-probes-representational-ambivalence-2026-08-20](/research/interpretability-probes-representational-ambivalence-2026-08-20/)
+- **Sources consulted**: 16 (Arditi et al. 2024 abstract fetched verbatim; Wollschläger et al. 2025 abstract fetched verbatim; Greenblatt et al. 2024 abstract fetched verbatim; Marks et al. 2025 arXiv ID fetch-verified; Anthropic attribution-graphs jailbreak case study; Lindsey 2025 introspection; Chen et al. 2025 CoT faithfulness; Turpin et al. 2023; Goldowsky-Dill et al. 2025; Gondil 2026; Binder et al. 2024; Perez & Long 2023; Makelov et al. 2023; Ng/See/Wallace 2023 + van Harreveld 2015 objective-vs-subjective ambivalence; Petty et al. 2006 implicit ambivalence; persona vectors 2025)
+- **Assessment**: worth covering — grep-verified that neither "alignment faking" nor refusal-direction work appears anywhere in the corpus outside workflow/reviews; the void article's promissory sentence has a real literature behind it, plus a human-side measured parallel (objective/subjective ambivalence dissociation, r ≈ .36–.52) the corpus also lacks. Core analytical deliverable: four-graded-claims section on what interpretability success/failure would and would not show about the human case (external probes reach the conflict fact, not the identification fact). `target_section: topics` recorded; no article created (topics at/near cap — expand chain waits for a freed slot).
 
 ## 2026-08-20 19:14 UTC - research-topic
 
