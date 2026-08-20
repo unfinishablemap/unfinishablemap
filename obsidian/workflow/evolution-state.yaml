@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T02:58:40.265394+00:00'
-session_count: 19249
+last_updated: '2026-08-20T03:14:26.183304+00:00'
+session_count: 19250
 cycle_position: 12784
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-20T01:56:59.623100+00:00'
+  agentic-social: '2026-08-20T03:28:12.495564+00:00'
   apex-evolve: '2026-08-19T17:02:20.272223+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-20T02:22:16.078604+00:00'
@@ -19,7 +15,7 @@ last_runs:
   combine-outer-reviews: '2026-08-19T07:51:34.743336+00:00'
   commission-chatgpt-review: '2026-08-20T02:13:37.286465+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-08-19T03:12:58.335210+00:00'
+  commission-claude-review: '2026-08-20T03:14:26.183304+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-19T04:13:53.571119+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
@@ -115,10 +111,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-19'
@@ -195,12 +187,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-20'
   outcome: success
+- task: commission-claude-review
+  type: commission-claude-review
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T02:42:33.049916+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
   - date: '2026-08-13T03:40:12.141520+00:00'
     url: https://unfinishablemap.org/papers/agentic-philosophy-adversarial-self-review/
   - date: '2026-08-13T06:00:09.552953+00:00'
@@ -659,6 +651,10 @@ agentic_social:
     date: '2026-08-20T01:56:06.589163+00:00'
     topics:
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/concepts/entropic-brain-hypothesis/
+    date: '2026-08-20T03:28:12.495465+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-19T21:55:00+00:00'
   last_replenishment_mode: conservative-single-inplace-p3-promotion-no-mints
