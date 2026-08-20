@@ -43,14 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P2: `apex/cross-modal-capability-division` asserts unconscious extraction and organization of candidate content without engaging the Windows-of-Integration limits literature
-- **Type**: refine-draft
-- **File**: obsidian/apex/cross-modal-capability-division.md
-- **Notes**: From outer review 2026-08-20 (Gemini 2.5 Pro), weakness 5; gap grep-confirmed during processing (no Mudrik, Faivre, or windows-of-integration hits in the article). The apex's division — brain-side machinery extracts and organizes candidate content without consciousness; the mind contributes unity, ownership, flexible deployment — is empirically pressured by the WOI literature: unconscious integration is bounded by spatial, temporal, and semantic windows, and novel semantic or large-window relational integration may require conscious awareness (Hirschhorn, Kahane, Gur-Arie, Faivre & Mudrik 2021, *Frontiers in Human Neuroscience* 14:617187, verified at OpenAlex; Mudrik, Faivre & Koch 2014 for the original hypothesis; Van Opstal & Rooyakkers 2022, *Cognition* 225:105113 for a replication test). Note the double edge before conceding the reviewer's framing: bounded unconscious integration is also evidence that consciousness does constructive causal work — congenial to bidirectional interaction — but it does challenge the article's clean "candidate content fully prepared unconsciously" architecture; the division may need restating as graded (small-window integration unconscious, novel large-window binding consciousness-involving). Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. Do not expose mode labels in the article body; the classification belongs in the changelog entry, not the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
-- **Review file**: `reviews/outer-review-2026-08-20-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P2: `apex/altered-states-as-interface-evidence` reads altered states as interface disassembly without testing the active-inference deflationary rival
 - **Type**: refine-draft
 - **File**: obsidian/apex/altered-states-as-interface-evidence.md
@@ -2792,11 +2784,24 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review (reviews/pessimistic-2026-08-20-history-of-the-interaction-problem.md)
 - **Generated**: 2026-08-20
 
+### P3: `topics/interoceptive-consciousness-and-the-interface` L36 restates the clean capability division the apex has now graded (windows of integration)
+- **Type**: refine-draft
+- **File**: obsidian/topics/interoceptive-consciousness-and-the-interface.md
+- **Status**: pending
+- **Notes**: Downstream inheritance flag from the 2026-08-20 refine of [[cross-modal-capability-division]] (Gemini outer-review 2026-08-20 weakness 5). The apex now states the division as GRADED: unconscious integration is bounded by spatial, temporal, and semantic windows — small-window integration runs without awareness, semantically distant or novel large-window binding appears to require conscious access (Mudrik, Faivre & Koch 2014 TiCS 18(9) 488-496, DOI 10.1016/j.tics.2014.04.009; Hirschhorn et al. 2021 Front Hum Neurosci 14:617187; Van Opstal & Rooyakkers 2022 Cognition 225:105113 — all three Crossref/EuropePMC-verified 2026-08-20; NOTE Van Opstal & Rooyakkers is a SUCCESSFUL replication of unconscious integration that found spatial-window dependence, not a failed one). This article's L36 lead still carries the clean form: "the brain extracts and integrates candidate content without consciousness, and conscious experience supplies phenomenal unity, ownership, and flexible deployment." ONE-CLAUSE FIX: add the graded qualifier (the apex lead's "largely without consciousness" is the model) or a window-bounded clause; do NOT restructure — the article's inversion argument (insular convergence, affect-and-ownership) is untouched by the recalibration and still matches the apex. Scope check done 2026-08-20: `topics/thermal-consciousness-and-the-interface` was verified NOT to inherit the clean phrasing (its apex characterisations at L39/L69/L108 describe the asymmetry and gradient scope condition, which stand) — no task minted for it. Hold `ai_system`; `ai_modified` real `date -u`; sync and grep hugo for the fix after.
+- **Source**: refine-draft (apex/cross-modal-capability-division windows-of-integration pass, 2026-08-20)
+- **Generated**: 2026-08-20
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `apex/cross-modal-capability-division` asserts unconscious extraction and organization of candidate content without engaging the Windows-of-Integration limits literature
+- **Type**: refine-draft
+- **File**: obsidian/apex/cross-modal-capability-division.md
+- **Notes**: From outer review 2026-08-20 (Gemini 2.5 Pro), weakness 5; gap grep-confirmed during processing (no Mudrik, Faivre, or windows-of-integration hits in the article). The apex's division — brain-side machinery extracts and organizes candidate content without consciousness; the mind contributes unity, ownership, flexible deployment — is empirically pressured by the WOI literature: unconscious integration is bounded by spatial, temporal, and semantic windows, and novel semantic or large-window relational integration may require conscious awareness (Hirschhorn, Kahane, Gur-Arie, Faivre & Mudrik 2021, *Frontiers in Human Neuroscience* 14:617187, verified at OpenAlex; Mudrik, Faivre & Koch 2014 for the original hypothesis; Van Opstal & Rooyakkers 2022, *Cognition* 225:105113 for a replication test). Note the double edge before conceding the reviewer's framing: bounded unconscious integration is also evidence that consciousness does constructive causal work — congenial to bidirectional interaction — but it does challenge the article's clean "candidate content fully prepared unconsciously" architecture; the division may need restating as graded (small-window integration unconscious, novel large-window binding consciousness-involving). Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. Do not expose mode labels in the article body; the classification belongs in the changelog entry, not the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
 
 ### ✓ 2026-08-20: `apex/attention-as-causal-bridge` models attention as a discrete selector without engaging the amplification-not-selection rival (Fazekas & Nanay)
 - **Type**: refine-draft

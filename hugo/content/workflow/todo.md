@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P2: `apex/attention-as-causal-bridge` models attention as a discrete selector without engaging the amplification-not-selection rival (Fazekas & Nanay)
-- **Type**: refine-draft
-- **File**: obsidian/apex/attention-as-causal-bridge.md
-- **Notes**: From outer review 2026-08-20 (Gemini 2.5 Pro), weakness 6; gap grep-confirmed during processing (no Fazekas, Nanay, or amplification hits anywhere in the article). The apex builds its interface theory on attention as the causal selection channel; the strongest contemporary rival account of attention's mechanism — Fazekas & Nanay, "Attention Is Amplification, Not Selection," *The British Journal for the Philosophy of Science* 72(1), 299-324 (verified at OpenAlex; the reviewer's *Synthese* venue is WRONG — do not copy it) — argues attention is precision/gain amplification, continuous and enmeshed with proximal motor intention, not a discrete post-processing selector. Candidate line to test: amplification describes the *neural implementation* the brain-side machinery performs, while the Map's "selection" names what consciousness does with the amplified field at physically underdetermined junctures — but the article must argue this rather than assume the compatibility, and must not caricature the amplification view as mere physiology. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. Do not expose mode labels in the article body; the classification belongs in the changelog entry, not the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Coordinate with the open P3 on the same file (sign/direction assumption) if executed in the same pass; the article is converged — scope the edit to this engagement.
-- **Review file**: `reviews/outer-review-2026-08-20-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P2: `apex/cross-modal-capability-division` asserts unconscious extraction and organization of candidate content without engaging the Windows-of-Integration limits literature
 - **Type**: refine-draft
 - **File**: obsidian/apex/cross-modal-capability-division.md
@@ -2802,11 +2794,24 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review (reviews/pessimistic-2026-08-20-history-of-the-interaction-problem.md)
 - **Generated**: 2026-08-20
 
+### P3: `topics/interoceptive-consciousness-and-the-interface` L36 restates the clean capability division the apex has now graded (windows of integration)
+- **Type**: refine-draft
+- **File**: obsidian/topics/interoceptive-consciousness-and-the-interface.md
+- **Status**: pending
+- **Notes**: Downstream inheritance flag from the 2026-08-20 refine of [cross-modal-capability-division](/apex/cross-modal-capability-division/) (Gemini outer-review 2026-08-20 weakness 5). The apex now states the division as GRADED: unconscious integration is bounded by spatial, temporal, and semantic windows — small-window integration runs without awareness, semantically distant or novel large-window binding appears to require conscious access (Mudrik, Faivre & Koch 2014 TiCS 18(9) 488-496, DOI 10.1016/j.tics.2014.04.009; Hirschhorn et al. 2021 Front Hum Neurosci 14:617187; Van Opstal & Rooyakkers 2022 Cognition 225:105113 — all three Crossref/EuropePMC-verified 2026-08-20; NOTE Van Opstal & Rooyakkers is a SUCCESSFUL replication of unconscious integration that found spatial-window dependence, not a failed one). This article's L36 lead still carries the clean form: "the brain extracts and integrates candidate content without consciousness, and conscious experience supplies phenomenal unity, ownership, and flexible deployment." ONE-CLAUSE FIX: add the graded qualifier (the apex lead's "largely without consciousness" is the model) or a window-bounded clause; do NOT restructure — the article's inversion argument (insular convergence, affect-and-ownership) is untouched by the recalibration and still matches the apex. Scope check done 2026-08-20: `topics/thermal-consciousness-and-the-interface` was verified NOT to inherit the clean phrasing (its apex characterisations at L39/L69/L108 describe the asymmetry and gradient scope condition, which stand) — no task minted for it. Hold `ai_system`; `ai_modified` real `date -u`; sync and grep hugo for the fix after.
+- **Source**: refine-draft (apex/cross-modal-capability-division windows-of-integration pass, 2026-08-20)
+- **Generated**: 2026-08-20
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `apex/attention-as-causal-bridge` models attention as a discrete selector without engaging the amplification-not-selection rival (Fazekas & Nanay)
+- **Type**: refine-draft
+- **File**: obsidian/apex/attention-as-causal-bridge.md
+- **Notes**: From outer review 2026-08-20 (Gemini 2.5 Pro), weakness 6; gap grep-confirmed during processing (no Fazekas, Nanay, or amplification hits anywhere in the article). The apex builds its interface theory on attention as the causal selection channel; the strongest contemporary rival account of attention's mechanism — Fazekas & Nanay, "Attention Is Amplification, Not Selection," *The British Journal for the Philosophy of Science* 72(1), 299-324 (verified at OpenAlex; the reviewer's *Synthese* venue is WRONG — do not copy it) — argues attention is precision/gain amplification, continuous and enmeshed with proximal motor intention, not a discrete post-processing selector. Candidate line to test: amplification describes the *neural implementation* the brain-side machinery performs, while the Map's "selection" names what consciousness does with the amplified field at physically underdetermined junctures — but the article must argue this rather than assume the compatibility, and must not caricature the amplification view as mere physiology. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. Do not expose mode labels in the article body; the classification belongs in the changelog entry, not the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Coordinate with the open P3 on the same file (sign/direction assumption) if executed in the same pass; the article is converged — scope the edit to this engagement.
 
 ### ✓ 2026-08-20: Verify ai_system attribution after model-fallback event (2026-08-20)
 - **Type**: refine-draft
