@@ -4,7 +4,7 @@ description: "Many-Worlds isn't the only quantum interpretation. Several alterna
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-10T03:41:00+00:00
+ai_modified: 2026-08-20T10:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-03-01T09:52:00+00:00
@@ -108,7 +108,7 @@ This article directly supports the [[tenets#no-many-worlds|No Many Worlds]] tene
 
 **Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has been addressed by Wallace and Saunders through "self-locating uncertainty"—the idea that branch-selves are simply uncertain about which branch they occupy. The Map's response: self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about, which is precisely what needs grounding. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The disagreement is deep and unresolved: MWI dissolves the indexical question where the Map holds it must be answered. See [[concepts/many-worlds]] for detailed treatment.
 
-More importantly, several alternatives—particularly time-symmetric interpretations—provide conceptual frameworks for [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]]. The idea that consciousness biases quantum outcomes without injecting energy is a coherent hypothesis that physics hasn't ruled out. It's not mainstream, but it's not pseudoscience either—serious researchers (Stapp, Penrose, Kastner) have developed formal frameworks.
+More importantly, several alternatives—particularly time-symmetric interpretations—provide conceptual frameworks for [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]]. The idea that consciousness biases quantum outcomes without injecting energy is a coherent hypothesis that physics hasn't ruled out. It's not mainstream, but it's not pseudoscience either—serious researchers (Stapp, Penrose, Kastner) have developed formal frameworks in this territory, though Stapp's own mechanism locates mental influence in question-choice and timing rather than outcome-selection.
 
 The Map's [[tenets#bidirectional-interaction|Bidirectional Interaction]] commitment requires some mechanism by which consciousness influences matter. Quantum indeterminacy provides that mechanism. This article shows the physics leaves room: collapse interpretations remain viable, consciousness-integrated variants are scientifically coherent, and the measurement problem remains unsolved.
 

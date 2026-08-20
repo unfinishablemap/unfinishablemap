@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-07-06 20:50:45+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-20 10:11:00+00:00
+ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/adaptive-cognitive-limits/
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 21:27:28+00:00
-lastmod: 2026-07-06 20:50:45+00:00
+lastmod: 2026-08-20 10:11:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -141,7 +141,7 @@ The Naturally Occluded category does load-bearing methodological work for the Ma
 
 **[Dualism](/tenets/#dualism).** If consciousness is genuinely irreducible to the physical, an evolved brain optimised for physical-world navigation is the wrong instrument for understanding consciousness. The Naturally Occluded category formalises why: the introspective faculties needed to verify dualism from inside would need to be visible to themselves, and visibility carries the structural costs the category names. First-person verification of dualism is predicted to be structurally hard — not as direct evidence for dualism, but as the calibration that explains *why* the evidence takes the indirect form it does (failure-signature specificity, cross-tradition convergence, the catalogue's clustering at the consciousness-matter interface) rather than the direct form a tenet-believer might wish.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** This is where the category does its strongest predictive work. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection, and the category supplies the evolutionary frame: an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation, so natural selection would actively maintain the sub-threshold opacity. The category does not claim the Stapp-style mechanism is established; it claims that *if* the mechanism exists, its structural invisibility is predicted — turning an apparent absence-of-evidence into the expected absence the framework requires.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** This is where the category does its strongest predictive work. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection, and the category supplies the evolutionary frame: an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation, so natural selection would actively maintain the sub-threshold opacity. The category does not claim the hypothesised biasing mechanism is established; it claims that *if* the mechanism exists, its structural invisibility is predicted — turning an apparent absence-of-evidence into the expected absence the framework requires.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** If consciousness causally influences the physical world, the Trivers framework suggests the causal mechanism is a candidate for adaptive concealment: causal processes are sometimes hidden from consciousness because transparency would compromise function. The agency-void's verification face reads naturally as Naturally Occluded on this frame.
 

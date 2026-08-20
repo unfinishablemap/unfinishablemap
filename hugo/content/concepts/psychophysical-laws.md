@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-06 00:58:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-20 10:11:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /concepts/psychophysical-laws/
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-06 00:58:00+00:00
+lastmod: 2026-08-20 10:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Functionalists respond that reports track mental states through functional organ
 | Compatible with epiphenomenalism? | Yes | No |
 | Developed by | Chalmers (extensively) | Stapp, Eccles (partially) |
 
-Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Stapp-style reading where selection biases a quantum branching. *Authority-selecting* laws, modelled on Schaffer's (2000) [trumping preemption](/concepts/trumping-preemption/) and developed in [delegatory-causation](/concepts/delegatory-causation/), assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule. The trajectory-altering mode itself subdivides by Born-compliance, giving the [three-option MQI-sanctioned branch](/topics/mathematical-structure-of-the-consciousness-physics-interface/#corridor-dualism-and-the-conditionality-of-the-bound) — *corridor dualism* (trajectory-altering, Born-compliant), *minimum-outside-the-corridor dualism* (trajectory-altering, Born-departing), and *trumping dualism* (authority-selecting) — of which the Map adopts corridor dualism as its default working hypothesis.
+Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Eccles-style reading where selection biases a quantum branching (Stapp's own mechanism located influence in which question is posed, not which outcome occurs). *Authority-selecting* laws, modelled on Schaffer's (2000) [trumping preemption](/concepts/trumping-preemption/) and developed in [delegatory-causation](/concepts/delegatory-causation/), assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule. The trajectory-altering mode itself subdivides by Born-compliance, giving the [three-option MQI-sanctioned branch](/topics/mathematical-structure-of-the-consciousness-physics-interface/#corridor-dualism-and-the-conditionality-of-the-bound) — *corridor dualism* (trajectory-altering, Born-compliant), *minimum-outside-the-corridor dualism* (trajectory-altering, Born-departing), and *trumping dualism* (authority-selecting) — of which the Map adopts corridor dualism as its default working hypothesis.
 
 ## Chalmers' Three Principles
 

@@ -4,7 +4,7 @@ description: "Human-AI analysis, iteratively refined, of how QBism, Healey, Bruk
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-06-03T07:10:00+00:00
+ai_modified: 2026-08-20T10:11:00+00:00
 draft: false
 archived: true
 archived_date: 2026-04-19T10:39:00+00:00
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-probability-interpretation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-04-18
 last_curated:
 last_deep_review: 2026-04-18T01:04:00+00:00
@@ -53,7 +53,7 @@ Four positions make up the core of pragmatist quantum foundations. Each keeps mo
 
 **Brukner-Zeilinger information interpretation.** The quantum state is "a catalogue of knowledge about a system" held by an optimally informed agent. Information is treated as the most fundamental notion; the finiteness of information is an essential feature of quantum systems. Unlike QBism, some probabilities are objectively fixed rather than purely personal.
 
-**Stapp's Copenhagen pragmatism.** Building on Bohr, Stapp reads Copenhagen as pragmatist — in James's sense — about what quantum states *do*, while keeping a role for conscious observation in collapse via the quantum Zeno effect. Stapp is the outlier: pragmatist about interpretation, yet realist about a mental pole that biases quantum outcomes.
+**Stapp's Copenhagen pragmatism.** Building on Bohr, Stapp reads Copenhagen as pragmatist — in James's sense — about what quantum states *do*, while keeping a role for conscious observation in collapse via the quantum Zeno effect. Stapp is the outlier: pragmatist about interpretation, yet realist about a mental pole that does causal work through the choice and timing of measurement-questions, with nature picking each answer.
 
 These positions diverge on two questions the Map cares about deeply: whether there is an objective quantum state "out there" for consciousness to meet, and whether the agent in "agent-centred" must itself be conscious.
 
@@ -121,7 +121,7 @@ The convergence goes the other way too. Dualism without pragmatist quantum found
 
 **[[tenets#^dualism|Dualism]]**: The entire pragmatist family requires agents. None explains them. Under Tenet 1, this is not an embarrassment but a vindication: any physics that places irreducible agents at its foundation is registering the very irreducibility that dualism asserts.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Stapp's Zeno mechanism is the most explicit pragmatist implementation. QBism's normative Born rule, read through the interface hypothesis, is compatible. Healey and Brukner-Zeilinger are neutral.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Stapp's Zeno mechanism is the nearest pragmatist relative — question-choice and timing rather than the tenet's outcome-selection. QBism's normative Born rule, read through the interface hypothesis, is compatible. Healey and Brukner-Zeilinger are neutral.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Stapp grants consciousness a causal role; QBism grants only an epistemic role; Healey grants neither (agents merely follow prescriptions); Brukner-Zeilinger is silent. The Map's reading of QBism's normative Born rule closes part of this gap: if the normative constraint reflects real coupling, the epistemic role is the surface of a causal one.
 

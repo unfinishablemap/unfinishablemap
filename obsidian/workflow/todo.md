@@ -43,14 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P2: `topics/consciousness-in-smeared-quantum-states` L120 calls Stapp's model "the most explicit implementation" of the Map's outcome-biasing tenet — the exact move Stapp's primary texts decline and the Map's own apex and register say he declined
-- **Type**: refine-draft
-- **File**: obsidian/topics/consciousness-in-smeared-quantum-states.md
-- **Notes**: From outer review 2026-08-20 (Claude Opus 5) §2.4 (Stapp co-optation firewall), primary-text-verified by the reviewer (Stapp 2005 *Quantum Interactive Dualism*: consciousness makes only the Process-1 choice of which question to pose; "The answer is picked by 'Nature'") and grep-verified live at L120: "Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection." The corpus's own calibrated statements contradict this locus: `apex/post-decoherence-selection-programme` L91 ("Stapp located mental influence in von Neumann's Process 1… The Map claims precisely the move Stapp's load-bearing mechanism set aside: influence over *which outcome*, not merely which question") and P-Q4 in `positions/quantum-interface`. Fix: recharacterise Stapp at this locus as Process-1 context/timing control whose repeated question-posing (Zeno) shapes physical evolution without per-measurement outcome-picking, and either drop or reassign the "most explicit implementation of the Map's tenet" framing (the Map's tenet is outcome-selection; Stapp's mechanism is not an implementation of it). SWEEP: re-derive the stem spelling-blind before closing (do not trust "most explicit implementation" as the only wording — grep for Stapp+biases/implements variants across obsidian/, hugo/, and archive/), and run `scripts/sync.py` after fixing so the hugo mirror updates. DISTINCT from the open P3 Stapp-over-IIT preference family (`topics/psychophysical-laws-bridging-mind-and-matter`) — that is a ranking defect, this is a what-the-mechanism-does defect; do not merge or double-close. Convergent finding: the 2026-08-17 Claude outer review also ran a Stapp-inversion verdict.
-- **Review file**: `reviews/outer-review-2026-08-20-claude-opus-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-20
-
 ### P2: Tenet 4 has no apex-layer synthesis — the anti-MWI case, including the List 2023 engagement, lives in arguments/ and topics/ only
 - **Type**: apex-evolve
 - **File**: obsidian/arguments/many-worlds-argument.md
@@ -2813,6 +2805,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `topics/consciousness-in-smeared-quantum-states` L120 calls Stapp's model "the most explicit implementation" of the Map's outcome-biasing tenet — the exact move Stapp's primary texts decline and the Map's own apex and register say he declined
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-in-smeared-quantum-states.md
+- **Notes**: From outer review 2026-08-20 (Claude Opus 5) §2.4 (Stapp co-optation firewall), primary-text-verified by the reviewer (Stapp 2005 *Quantum Interactive Dualism*: consciousness makes only the Process-1 choice of which question to pose; "The answer is picked by 'Nature'") and grep-verified live at L120: "Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection." The corpus's own calibrated statements contradict this locus: `apex/post-decoherence-selection-programme` L91 ("Stapp located mental influence in von Neumann's Process 1… The Map claims precisely the move Stapp's load-bearing mechanism set aside: influence over *which outcome*, not merely which question") and P-Q4 in `positions/quantum-interface`. Fix: recharacterise Stapp at this locus as Process-1 context/timing control whose repeated question-posing (Zeno) shapes physical evolution without per-measurement outcome-picking, and either drop or reassign the "most explicit implementation of the Map's tenet" framing (the Map's tenet is outcome-selection; Stapp's mechanism is not an implementation of it). SWEEP: re-derive the stem spelling-blind before closing (do not trust "most explicit implementation" as the only wording — grep for Stapp+biases/implements variants across obsidian/, hugo/, and archive/), and run `scripts/sync.py` after fixing so the hugo mirror updates. DISTINCT from the open P3 Stapp-over-IIT preference family (`topics/psychophysical-laws-bridging-mind-and-matter`) — that is a ranking defect, this is a what-the-mechanism-does defect; do not merge or double-close. Convergent finding: the 2026-08-17 Claude outer review also ran a Stapp-inversion verdict.
 
 ### ✓ 2026-08-20: `apex/ai-as-introspection-control` frontmatter thesis asserts the unqualified "externally inspectable" claim the body hedges; third-explanation falsifier absent; Graziano's AST unengaged
 - **Type**: refine-draft

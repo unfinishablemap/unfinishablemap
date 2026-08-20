@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-08-20T10:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-02-10
 last_curated:
 last_deep_review: 2026-07-16T00:49:58+00:00
@@ -61,9 +61,9 @@ The gap may run deeper than vocabulary. We can describe what it is like to see r
 
 ### Consciousness Selects via the Quantum Zeno Effect
 
-[[stapp-quantum-mind|Henry Stapp's model]] places consciousness squarely in the superposition phase. During non-collapsed states, the brain exists in a superposition of possible action templates—multiple potential neural patterns coexisting. Consciousness selects among them through repeated observation, exploiting the quantum Zeno effect to hold desired patterns stable. Mental effort (attention) acts as rapid measurement, freezing chosen neural configurations against natural decay.
+[[stapp-quantum-mind|Henry Stapp's model]] places consciousness squarely in the superposition phase. During non-collapsed states, the brain exists in a superposition of possible action templates—multiple potential neural patterns coexisting. Consciousness makes von Neumann's Process-1 choice: which question to put to nature—which action template to attend to—and how insistently to keep asking. Rapid re-posing exploits the quantum Zeno effect to hold the attended pattern stable; mental effort (attention) acts as rapid measurement, freezing the questioned neural configuration against natural decay. Nature, not the mind, picks the answer to each question posed.
 
-On this account, the superposition phase is where consciousness *works*. It is not smeared or indefinite; it is the active selector among the smeared physical possibilities. The brain presents quantum options; the mind chooses. Stapp frames this explicitly as "interactive dualism similar to that of Descartes," built directly into orthodox von Neumann quantum mechanics without new physics.
+On this account, the superposition phase is where consciousness *works*. It is not smeared or indefinite; it is the definite questioner operating on the smeared physical possibilities. The brain presents quantum options; the mind chooses which is interrogated and how often, and nature's replies fix the outcomes. Stapp frames this explicitly as "interactive dualism similar to that of Descartes," built directly into orthodox von Neumann quantum mechanics without new physics.
 
 ### Consciousness Resists Its Own Superposition
 
@@ -95,7 +95,7 @@ These five frameworks disagree on timing, direction, and mechanism. Yet they con
 
 A sceptic might object that the question is moot: if [[decoherence]] destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of eight to nine orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics—though the effects documented so far are vibrational modes rather than the sustained coherent superpositions most of these frameworks require. NV-centre diamond quantum sensors may soon provide the in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
 
-The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite selector operating on smeared physical states (Stapp)?
+The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite questioner operating on smeared physical states (Stapp)?
 
 The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—suggests this is not an assumption but a discovery. Conscious experience *is* definite. Theories that accommodate this without invoking [[many-worlds]] have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
 
@@ -109,7 +109,7 @@ The local friendliness (LF) no-go theorem (Bong et al. 2020) establishes that ce
 
 This has a striking implication for the Map's framework. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then any system containing a conscious observer cannot be maintained in superposition from the outside. Consciousness is not merely definite in its own experience — it imposes definiteness on physical reality wherever it is present. The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome.
 
-This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]]. The apex consolidates Stapp's Zeno selection, Chalmers-McQueen IIT-driven collapse, Penrose-Hameroff proto-consciousness, Koch-Neven's superposition-formation hypothesis, and Albert-Loewer many-minds into a single articulation of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
+This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]]. The apex consolidates Stapp's Zeno stabilisation, Chalmers-McQueen IIT-driven collapse, Penrose-Hameroff proto-consciousness, Koch-Neven's superposition-formation hypothesis, and Albert-Loewer many-minds into a single articulation of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
 
 ## Relation to Site Perspective
 
@@ -117,9 +117,9 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 
 **Dualism**: All five positions treat consciousness as having features not captured by standard physics. Even Koch's hypothesis, which might seem physicalist, requires that superposition formation produces something irreducibly experiential—a claim physics alone cannot ground.
 
-**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection. The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy may exist at functionally relevant points in neural systems where consciousness could act. The evidence remains suggestive rather than decisive—it raises the prior on a quantum interface without confirming one.
+**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the tenet's nearest neighbour rather than an implementation of it: consciousness contributes von Neumann's Process-1 choice—which question to pose to nature, and when—and rapid repeated posing (the Zeno effect) shapes physical evolution without energy injection, while nature picks each answer. The Map's tenet asserts precisely the influence Stapp's mechanism set aside: over *which outcome* becomes actual, not merely which question is posed ([[positions/quantum-interface]] tracks the resulting ranking). The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy may exist at functionally relevant points in neural systems where consciousness could act. The evidence remains suggestive rather than decisive—it raises the prior on a quantum interface without confirming one.
 
-**Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness determines which outcome becomes actual. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The selection models have this built in.
+**Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness causally shapes which physical state persists, through question-choice and timing for Stapp, through collapse-triggering for Chalmers-McQueen. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The interaction models have this built in.
 
 **No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. The definiteness of experience is a constraint that, without many-worlds to distribute outcomes across branches, requires consciousness to participate in selecting a single actual outcome.
 

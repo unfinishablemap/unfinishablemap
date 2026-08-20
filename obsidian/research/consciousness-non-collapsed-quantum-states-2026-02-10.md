@@ -3,8 +3,8 @@ title: Research Notes - Consciousness in Non-Collapsed Quantum States
 created: 2026-02-10
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-6
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-08-20T10:11:00+00:00
 ---
 
 # Research: Consciousness in Non-Collapsed Quantum States
@@ -242,7 +242,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 All positions except strict decoherence-only views treat consciousness as having features not captured by standard physics. Penrose's proto-consciousness, Stapp's interactive dualism, and Chalmers-McQueen's consciousness-driven collapse all presuppose that consciousness is irreducible. Koch's inverted hypothesis is more ambiguous—it could be read as identifying consciousness with a physical process (superposition formation) or as positing an irreducible experiential aspect of superposition.
 
 ### Minimal Quantum Interaction
-Directly relevant. Every position discussed locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit: consciousness biases quantum outcomes via the Zeno effect without energy injection. Chalmers-McQueen's model proposes that consciousness triggers collapse—a minimal intervention at quantum indeterminacies.
+Directly relevant. Every position discussed locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit about the interface: conscious Process-1 question-choice, repeated rapidly (the Zeno effect), shapes neural evolution without energy injection, while nature picks each outcome. (Correction 2026-08-20: an earlier version of this note described Stapp's mechanism as outcome-biasing; Stapp 2005 locates mental influence in which question is posed, not which outcome occurs.) Chalmers-McQueen's model proposes that consciousness triggers collapse—a minimal intervention at quantum indeterminacies.
 
 ### Bidirectional Interaction
 The key dividing line. Stapp and Chalmers-McQueen support bidirectional interaction (consciousness causes collapse). Penrose reverses the direction (collapse causes consciousness). Koch proposes a third option (superposition creates consciousness). The Map's commitment to bidirectional interaction most naturally aligns with Stapp and Chalmers-McQueen.
