@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `topics/language-recursion-and-consciousness` inverts Vadillo et al. 2026 — the "decisive demonstrations are lacking" span is the abstract's opening premise, not its conclusion
+- **Type**: refine-draft
+- **File**: obsidian/topics/language-recursion-and-consciousness.md
+- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing (EuropePMC, DOI 10.1093/nc/niaf046). The article (~line 53) claims the 19-lab Registered Report's abstract "concludes that 'decisive demonstrations of the existence of unconscious WM are lacking'" and treats that scepticism as *strengthening* the recursion argument. That sentence is the abstract's opening characterisation of prior literature. The paper's own findings run the other way: above-chance WM performance on unseen trials (.55 accuracy), significant above-chance intercept (beta0 = .521), "These findings suggest that WM can operate on unconscious representations, although it remains positively associated with perceptual sensitivity." Recast the citation as adverse-or-mixed evidence against the categorical access requirement, noting honestly what survives (the paper does not demonstrate unconscious recursive parsing). Also fix the reference entry: first author is Franco-Martinez, A. — "Vadillo, M.A., Soto, D., Shanks, D.R." are the paper's three final (senior) authors; cite as Franco-Martinez, A., et al. (2026), Neuroscience of Consciousness, niaf046. Propagate the fix to any research note carrying the same inverted reading (grep research/ for Vadillo), and to the hugo tree via sync.
+- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-20
+
+### P1: `voids/recursion-void` attributes a verbatim Redshaw 2024 sentence to Stiller & Dunbar 2007
+- **Type**: refine-draft
+- **File**: obsidian/voids/recursion-void.md
+- **Notes**: From outer review 2026-08-20 §4.4, VERIFIED at source during processing. The quote "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained" (line 44) appears verbatim — followed by "per se" — in Redshaw, J. (2024), "The recursive grammar of mental time travel," Phil. Trans. R. Soc. B 379:20230412, DOI 10.1098/rstb.2023.0412 (PMC11606512), inside Redshaw's own worked example about combined mental-time-travel/theory-of-mind instances; Redshaw nowhere cites Stiller, resolving the direction of borrowing. Reassign the quote to Redshaw 2024 and add the reference entry; keep Stiller & Dunbar (2007) only for what their paper shows (perspective-taking and memory capacity predict social-network size). While in the file, separate the constructs the surrounding paragraph runs together: theory-of-mind order, temporal/mental-time-travel recursion, and syntactic embedding — a fifth-order ToM limit is not automatically a syntactic-recursion ceiling. After fixing, grep obsidian/, hugo/, and archive/ for the misattributed span (defect sweeps must include the archive tree) and sync.
+- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-20
+
+### P2: `apex/apex-articles` catalogue is stale against 17 Aug source revisions and carries verified status/metadata defects
+- **Type**: refine-draft
+- **File**: obsidian/apex/apex-articles.md
+- **Notes**: From outer review 2026-08-20 §§1-3, 6 — each item below was span-verified during processing. One pass: (1) entry 15 thesis still says "quantum mechanics provides indirect evidence for dualism" (L333) — the revised source is now conditional (tenets generate the interpretation); restate the direction of dependence; (2) entry 7 thesis still says "computation alone cannot generate that coupling... principled, not practical" (L156) — the 17 Aug revision withdrew the categorical claim (no interface-eligibility law); weaken to present-architectures-instantiate-no-currently-specified-interface; (3) entry 16's "developing a precise specification" (L358) sits badly with entry 34's no-worked-model admission — qualify toward a constraint/research programme; (4) entry 23: add concepts/alexithymia to the Source articles list (the status already integrates it as fifth divergence class) and temper "same neural architecture, same task performance" (L507) toward selected-measures language; (5) purge superseded "informal (20-article) cap" language from SIX statuses (L550, 570, 591, 612, 632, 654) per the qualitative-threshold governance note; (6) A1's "(TBD) once seeded" methodology-cluster metadata (L827) is stale — A7 (L876) already cites P-M1/M2/M4/M5; (7) entry 26 status: scope Hu et al. 2023 as a mouse emergence study; (8) entry 24: mark that the five-or-six count is a count of intellectual relationships to the phenomenon, with independent despite-commitment weight resting principally on Polanyi and parts of Koriat, per the source's own audit; (9) entry 17 thesis says materialist ethics "cannot achieve" the unification — stronger than the source's comparative-cost claim; temper to match. Preserve calibration hedges throughout; this is recalibration, not deletion.
+- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-20
+
+### P2: `apex/machine-question` tenet-alignment section may still assert silicon excludes the interface "by design" after the 17 Aug correction withdrew the categorical claim
+- **Type**: refine-draft
+- **File**: obsidian/apex/machine-question.md
+- **Notes**: From outer review 2026-08-20 §2.2. The article's general argument now concedes the interface conditions are prior framework commitments and that no interface-eligibility law exists, but the reviewer reports the tenet-alignment section retains the stronger by-design exclusion. FIRST verify the internal tension by reading the current tenet-alignment section (outer reviewers sometimes attack retired text); if live, align it with the corrected argument: present classical AI architectures do not instantiate any currently specified Map interface; a substrate-level impossibility result has not been established. Sync after fixing.
+- **Review file**: `reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-20
+
 ### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve
 - **Status**: pending

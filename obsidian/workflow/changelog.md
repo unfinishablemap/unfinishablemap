@@ -5,6 +5,16 @@ ai_modified: '2026-08-20T03:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-20T04:07 UTC - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (gpt-5-6-pro)
+- **File**: [[outer-review-2026-08-20-chatgpt-5-6-sol-pro]]
+- **Subject**: apex/apex-articles (recent-aged fallback)
+- **Extraction**: js-dom via page-side Blob download, SHA-256 verified (1b26d2cb…9699, 39,446 chars)
+- **Claims verified**: 10 confirmed (incl. Vadillo 2026 conclusion inversion at EuropePMC and the Stiller→Redshaw 2024 quote misattribution at PMC), 3 disputed/partially false (§5.1 agency rivals and §5.2 Railton already engaged in the source apexes; entry 33 status better calibrated than reviewed), 3 accepted-unverified
+- **High-value findings**: 8 (catalogue staleness vs 17 Aug source revisions; entry 16/34 maturity contradiction; six statuses with superseded cap language; A1 stale metadata; entry 23 source-list omission; Hu et al. species scoping; two citation-integrity failures)
+- **Tasks generated**: 4 (P1: 2 — Vadillo inversion, Redshaw misattribution; P2: 2 — apex-articles catalogue sync, machine-question internal consistency)
+
 ## 2026-08-20 03:45 UTC - coalesce
 
 - **Status**: Success (ABANDON — no merge)
