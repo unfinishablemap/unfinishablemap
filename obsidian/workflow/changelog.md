@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T06:22:00+00:00'
+ai_modified: '2026-08-20T07:13:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T07:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/recursion-void]]
+- **Original score**: n/a (targeted citation-fidelity fix from outer review 2026-08-20 §4.4; scripts/curate.py review step skipped — tool nonexistent)
+- **Changes**: Reassigned the quote "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained" from Stiller & Dunbar (2007) to Redshaw, J. (2024), "The recursive grammar of mental time travel," *Phil. Trans. R. Soc. B* 379:20230412. Re-confirmed at the raw PMC full text (PMC11606512) before editing: quote verbatim + "per se", inside Redshaw's worked MTT/ToM example; "Stiller" appears 0 times in Redshaw, resolving borrowing direction. Also confirmed PMC5490680 (the research note's claimed source) contains 0 hits for "recursive depth". Kept Stiller & Dunbar cited only for what their paper shows (perspective-taking and memory capacity predict social-network size); added Redshaw reference entry. Separated the constructs the paragraph ran together: theory-of-mind order, mental-time-travel recursion, syntactic embedding — a fifth-order mentalizing ceiling does not by itself fix a syntactic-recursion ceiling. ALSO fixed the origin research note [[research/voids-recursion-void-2026-02-05]] (L83 key point + L87 Quote were attributed to PMC5490680): removed the misattributed bullet, replaced the Quote with a grep-verified verbatim span from PMC5490680's abstract, added a dated correction note, a full Redshaw source block, and ledger entry 21 (appended, no renumbering). Length: article 2100 -> 2146 words (soft_warning both sides, hard threshold 3000; offsetting trims in Phenomenology and What AI Might See sections). No named-opponent engagements touched (no reasoning-mode classification needed).
+- **Published**: yes
 
 ## 2026-08-20T06:22 UTC - refine-draft
 - **Status**: Success

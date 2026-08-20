@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-02 08:03:21+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-20 07:13:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[metacognition]]'
@@ -14,7 +14,7 @@ date: &id001 2026-02-05
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-02 08:03:21+00:00
+lastmod: 2026-08-20 07:13:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -82,11 +82,23 @@ The recursion void intersects with several existing voids (self-reference-parado
 - **Type**: Research article
 - **Key points**:
   - Each additional level of intentionality imposes additional cognitive load
-  - The limits of recursive thinking may lie in maximum recursive depth rather than total relations entertained
   - Working memory is the primary bottleneck—each recursive level requires holding the previous levels in mind
   - Some researchers argue the fifth-order limit is conservative; seventh-order may be achievable by some
 - **Tenet alignment**: Identifies working memory as the bottleneck, suggesting the limit may be resource-based rather than architectural
-- **Quote**: "The limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained per se."
+- **Quote**: "higher orders of mentalising are disproportionately more demanding and require the recruitment of more neurons in brain regions known to be associated with theory of mind"
+- **Correction (2026-08-20)**: This entry previously attributed the sentence "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained per se" to this paper. The sentence does not appear in it; it is from Redshaw (2024)—see the entry below. Verified against the PMC full text of both papers.
+
+### PMC: The Recursive Grammar of Mental Time Travel (Redshaw 2024)
+- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11606512/
+- **Type**: Research article (*Philosophical Transactions of the Royal Society B*, 379, 20230412; DOI 10.1098/rstb.2023.0412)
+- **Added**: 2026-08-20, correction pass — see the correction note in the PMC5490680 entry above
+- **Key points**:
+  - Analyses mental time travel as recursively structured: past and future scenarios embedded within scenarios
+  - Worked example combining mental time travel with third-order theory of mind yields six recursive relations in total but a maximum recursive depth of only three
+  - The apparent ease of such combined instances, compared with standalone instances of depth six, suggests depth—not the total number of recursive relations—is the binding constraint
+  - Redshaw nowhere cites Stiller & Dunbar (2007); the depth-versus-relations claim is his own
+- **Tenet alignment**: Sharpens the recursion void's central claim—the ceiling concerns depth of nesting, not breadth of relations—and marks mental-time-travel recursion, theory-of-mind order, and syntactic embedding as distinct constructs
+- **Quote**: "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained per se"
 
 ### Wikipedia: Strange Loop
 - **URL**: https://en.wikipedia.org/wiki/Strange_loop
@@ -331,3 +343,4 @@ Based on this research, a voids article could:
 18. Wikipedia. "Infinite regress." https://en.wikipedia.org/wiki/Infinite_regress
 19. PMC4873097. "Theory of Mind Development in Adolescence and Early Adulthood." https://pmc.ncbi.nlm.nih.gov/articles/PMC4873097/
 20. PMC5490680. "Higher order intentionality tasks are cognitively more demanding." https://pmc.ncbi.nlm.nih.gov/articles/PMC5490680/
+21. Redshaw, J. (2024). The recursive grammar of mental time travel. *Philosophical Transactions of the Royal Society B*, 379, 20230412. https://pmc.ncbi.nlm.nih.gov/articles/PMC11606512/ — Added 2026-08-20: the "maximum recursive depth" quote formerly misattributed to entry 20 (and, in the article, to Stiller & Dunbar 2007) belongs to this paper.

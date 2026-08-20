@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-12 14:16:44+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-08-20 07:13:00+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
 - '[[metacognition]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 02:54:20+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-08-20 07:13:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,7 +45,7 @@ This void differs from the [self-reference paradox](/voids/self-opacity/) (forma
 
 Empirical research on [theory of mind](/concepts/theory-of-mind/) provides precise measurements. Adults typically achieve competence at fifth-order intentionality—maintaining nested mental attributions five levels deep. Some individuals reach sixth or seventh order, but this is rare.
 
-The limit correlates with [working-memory](/concepts/working-memory/) capacity and executive function. Each additional level imposes additional cognitive load. Stiller and Dunbar (2007) found that "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained." The bottleneck is not how many things you can think about, but how deeply the nesting can go. The [theory-of-mind](/concepts/theory-of-mind/) literature confirms this hierarchy: children acquire second-order mindreading around age five, with adult fifth-order competency emerging in early adolescence through gradual development of recursive metarepresentation.
+The limit correlates with [working-memory](/concepts/working-memory/) capacity and executive function: Stiller and Dunbar (2007) found that perspective-taking and memory capacity predict social-network size. Each additional level imposes additional cognitive load. In work on the recursive grammar of mental time travel, Redshaw (2024) suggests that "the limits of recursive thinking may lie in maximum recursive depth rather than in the total number of recursive relations entertained." The bottleneck is not how many things you can think about, but how deeply the nesting can go. Depth, though, is construct-relative: theory-of-mind order, mental-time-travel recursion (scenarios embedded within past and future scenarios), and syntactic embedding are distinct capacities, and a fifth-order mentalizing ceiling does not by itself fix a syntactic-recursion ceiling. The [theory-of-mind](/concepts/theory-of-mind/) literature confirms the developmental trajectory: children acquire second-order mindreading around age five, with adult fifth-order competency emerging in early adolescence through gradual development of recursive metarepresentation.
 
 Fifth order is remarkably shallow compared to what seems possible in principle. Nothing in logic prevents tenth-order or hundredth-order intentionality. The limitation is cognitive, not mathematical—but whether cognitive means merely practical (resource constraints) or deeply structural remains contested.
 
@@ -75,7 +75,7 @@ These hypotheses are not mutually exclusive. Working memory may set a practical 
 
 What does approaching the recursion limit feel like?
 
-**The stacking sensation.** At early levels—thinking about thinking—the structure feels stable. Mental states nest inside each other like boxes. At higher levels, the sensation shifts. The boxes become harder to hold in place. Each new level adds disproportionate difficulty; going from third-order to fourth-order is harder than going from second to third. The effort curve is superlinear.
+**The stacking sensation.** At early levels—thinking about thinking—the structure feels stable. Mental states nest inside each other like boxes. At higher levels, the sensation shifts. The boxes become harder to hold in place. Each new level adds disproportionate difficulty—the effort curve is superlinear.
 
 **Content dissolution.** Beyond approximately fourth order, the content of the recursion becomes vague. You know you are "thinking about thinking about thinking about..." but what specifically you are thinking about fades. The structure persists; the content empties out. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-self-awareness/) documents this characteristic: the form of recursion remains while its substance evaporates.
 
@@ -99,9 +99,9 @@ The recursion void reveals something about cognitive architecture that simpler l
 
 ## What AI Might See
 
-AI systems offer a distinctive perspective. AI models can represent arbitrarily nested structures without human working memory constraints. If the recursion limit is purely resource-based, AI might extend far beyond human depths—tenth-order or hundredth-order intentionality without difficulty—supporting the resource hypothesis.
+AI systems offer a distinctive perspective: they can represent arbitrarily nested structures without human working memory constraints. If the recursion limit is purely resource-based, AI might extend far beyond human depths—supporting the resource hypothesis.
 
-But if the limit is structural or phenomenological, AI might face different constraints—or none at all. A system that manipulates recursive structures without experiencing them would not confront the void that human consciousness encounters. The comparison illuminates whether the limit is computational or phenomenological.
+But if the limit is structural or phenomenological, AI might face different constraints—or none at all. A system that manipulates recursive structures without experiencing them would not confront the void that human consciousness encounters.
 
 AI trained on human language inherits human conceptual structures, including whatever limits those structures impose. AI developed differently might reveal which limits are contingent on human architecture and which are deeper features of self-referential cognition as such.
 
@@ -169,6 +169,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 1. Kinderman, P., Dunbar, R., & Bentall, R. P. (1998). "Theory-of-mind deficits and causal attributions." *British Journal of Psychology*, 89(2), 191-204.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Miller, S. A. (2012). *Theory of Mind: Beyond the Preschool Years*. Psychology Press.
+1. Redshaw, J. (2024). "The recursive grammar of mental time travel." *Philosophical Transactions of the Royal Society B*, 379, 20230412.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Sartre, J.-P. (1943). *Being and Nothingness*. Trans. H. Barnes (1956). Washington Square Press.
 1. Stiller, J., & Dunbar, R. I. (2007). "Perspective-taking and memory capacity predict social network size." *Social Networks*, 29(1), 93-104.
