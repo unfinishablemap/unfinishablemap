@@ -308,3 +308,30 @@
   subject_articles:
   - apex/apex-articles.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/45f654f9-0788-4b47-8103-2a51090dd4c0
+  commissioned_at: '2026-08-20T03:13:11.665418+00:00'
+  prompt_summary: 'Audit apex-articles index: fidelity, gaps, overclaims'
+  target_filename: outer-review-2026-08-20-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please act as a rigorous, sceptical external referee for The Unfinishable
+    Map, a philosophy site at https://unfinishablemap.org that develops an interactionist-dualist
+    framework. Today's focus is the Apex Articles Index at https://unfinishablemap.org/apex/apex-articles/
+    - the curated registry that defines the site's approved apex synthesis pieces,
+    last revised 2026-08-13. Assess whether the index's stated subjects, theses, and
+    scope boundaries match the apex articles actually published; whether the approved
+    set has gaps or redundancies given the site's five tenets and positions register;
+    and whether the index's descriptions overclaim or misstate what the linked syntheses
+    argue. Follow links to several apex articles and spot-check their fidelity to
+    the index's framing. Also consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    - the site changes daily and search indices lag 24-48 hours, so recent revisions
+    will not surface via web search alone. End your report with a list of concrete
+    potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit apex-articles
+  subject_articles:
+  - apex/apex-articles.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
