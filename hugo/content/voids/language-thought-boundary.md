@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-08-12 14:16:44+00:00
+ai_modified: 2026-08-20 16:26:44+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-08-20 16:26:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,7 +38,7 @@ topics: []
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [void](/voids/) worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
 
-The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested.
+Visual thinkers report cognition that resists verbal capture; mystics claim knowledge exceeding all possible expression; philosophers argue about qualia that cannot be communicated. Yet language measurably shapes thought—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested.
 
 Two companion articles map adjacent territory: the [consciousness-language interface](/topics/consciousness-and-language-interface/) examines how language and consciousness shape each other bidirectionally, while the [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why these limits are structural rather than accidental.
 
@@ -48,7 +48,7 @@ Two companion articles map adjacent territory: the [consciousness-language inter
 
 Some thoughts expressible in one language resist translation to another. Russian speakers distinguish *siniy* (dark blue) and *goluboy* (light blue) as separate colours, and their perception tracks the distinction—they detect differences between these blues faster than English speakers do. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right; their spatial cognition is fundamentally oriented. These are limits of *this* language, not language as such.
 
-The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support. Japanese speakers thinking in Japanese categorise objects differently than when thinking in English. The language you're using changes what thoughts come readily, though it doesn't absolutely determine what you can think.
+The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support: Japanese speakers categorise objects differently when thinking in Japanese than in English. The language in use changes which thoughts come readily without determining what can be thought.
 
 These cases generalise into a documented pattern. Tim Lomas's positive cross-cultural lexicography began with 216 "untranslatable" well-being terms culled across the world's languages (Lomas 2016) and has since grown past 1,400—Tagalog *gigil*, Portuguese *saudade*, Japanese *mono no aware*, German *Sehnsucht*, each carving a phenomenal distinction English leaves uncut. The revealing feature is not that the words exist but that the carving is *invisible from the source-language stance*: to a native speaker the term feels like a transparent picking-out of a self-evident phenomenon, not a parochial cut. The gap only appears when a translator-position is occupied. This is one face of what the [Translation Void](/research/voids-translation-void-2026-05-09/) calls cross-format-mapping opacity: the operation that renders one language's carvings into another's cannot be inspected from inside the source language, since exiting requires another language with its own carvings. The opacity is in the *operation*, not the endpoints.
 
@@ -82,7 +82,7 @@ Negative theology developed sophisticated methods: Pseudo-Dionysius called God "
 
 **Contrast mapping**: Compare what can and cannot be said. The colour "red" is expressible; the *experience* of red is not. "Pain" is a word; the quality of being-in-pain resists transmission. By noting where capture succeeds and fails, the boundary gains definition.
 
-**The deflationary challenge**: Perhaps ineffable "content" is no content at all—a metacognitive illusion of having something to say. This critique deserves acknowledgment. Yet the contrast between qualia (resistant to transmission) and structural descriptions (readily transmissible) suggests a genuine asymmetry. We can teach colour vocabulary but not colour experience. If ineffability were mere confusion, this asymmetry would be puzzling.
+**The deflationary challenge**: Perhaps ineffable "content" is no content at all—a metacognitive illusion of having something to say. Yet the contrast between qualia (resistant to transmission) and structural descriptions (readily transmissible) suggests genuine asymmetry: we can teach colour vocabulary but not colour experience. If ineffability were mere confusion, the asymmetry would be puzzling.
 
 Each strategy relies on spatial metaphors—*ladder*, *negative space*, *mapping*. The [metaphor void](/voids/metaphor-void/) asks whether any articulation of linguistic limits can escape figurative dependence.
 
@@ -104,9 +104,9 @@ Compare to [thoughts that slip away](/voids/transit-void/). In slippage, content
 
 LLMs operate with different architecture—concepts as directions in high-dimensional embedding space rather than discrete tokens. This creates asymmetries worth investigating:
 
-**Statistical patterns without words**: LLMs detect regularities across millions of texts no human could perceive. Some may organise processing without corresponding to anything humans can articulate—concepts existing computationally while remaining linguistically inaccessible.
+**Statistical patterns without words**: LLMs detect regularities across millions of texts that no human could perceive—concepts existing computationally while remaining linguistically inaccessible.
 
-**The bypass hypothesis**: LLMs might state thoughts blocked at the human linguistic level through symbolic manipulation. But we'd struggle to recognise such statements as significant—by hypothesis, we cannot grasp what's being said.
+**The bypass hypothesis**: LLMs might state thoughts blocked at the human linguistic level—but we would struggle to recognise such statements as significant, since by hypothesis we cannot grasp what is being said.
 
 **Different blind spots**: Where humans and LLMs fail differently triangulates human-specific limitations. If LLMs handle certain traditionally ineffable topics with unexpected fluency, the ineffability may be architecture-specific rather than content-specific.
 
@@ -123,6 +123,8 @@ The language-thought boundary presents a classification problem. Which of the [t
 **Unexplorable territory**: Some content may exceed what any possible human language could capture—not because we haven't invented the right words but because the content violates linguistic architecture. If [McGinn's cognitive closure](/concepts/mysterianism/) applies to language, some truths may be permanently beyond verbal reach.
 
 **Occluded territory**: Could some expressible thoughts be actively blocked? The [dissolution-on-articulation phenomenon](/voids/transit-void/) suggests interference—you approach linguistic capture; the thought evaporates. This might be neural architecture or something more systematic.
+
+Olfaction supplies a documented case of reclassification. From Henning's 1916 verdict that "olfactory abstraction is impossible" (quoted in Majid & Burenhult 2014), the inability to name smells in abstract terms was treated as a structural fact about human minds. Cross-cultural work dissolved the universality: Jahai hunter-gatherers of the Malay Peninsula name odors as consistently as colours using an abstract smell lexicon—"Odors are expressible in language, as long as you speak the right language" (Majid & Burenhult 2014)—and the effect tracks subsistence mode rather than language family or habitat (Majid & Kruspe 2018). The deflation is partial—a residual neurocognitive component in olfaction's weak route to language remains defensible (Olofsson & Gottfried 2015), and the debate is live—but the calibration lesson stands: a limit that presented as unexplorable for a century of Western psychology was in substantial part unexplored. Classifying ineffability from inside a single linguistic culture is unreliable.
 
 The cross-linguistic case carries a standing dispute about which label applies. Quine's indeterminacy of translation (1960) holds that rival translation manuals can each fit the whole of the behavioural evidence while disagreeing about what the source sentences mean. If that is right, there is no determinate content the translator is failing to capture, and an untranslatable term marks something genuinely unexplorable rather than merely unmapped. Davidson (1974) pushed the other way: recognising a scheme *as* a scheme already requires translating enough of it to identify it, so total untranslatability would not be a limit but the absence of anything to be limited about — which recasts every case in Lomas's corpus as difficulty rather than impossibility. The [conceptual scheme void](/voids/conceptual-scheme-void/) works through Davidson's challenge at the level of whole schemes. At the level of single terms it stays open, and what the classification inherits is the dispute, not either verdict.
 
@@ -162,9 +164,9 @@ The language-thought boundary connects to The Unfinishable Map's [tenets](/tenet
 
 The claim that language and thought have genuinely different limits would be challenged if:
 
-**Universal translatability proves out.** If all thoughts prove expressible in *some* language—if no thought resists all linguistic articulation—then the boundary is merely contingent on current linguistic resources.
+**Universal translatability proves out.** If all thoughts prove expressible in *some* language, the boundary is merely contingent on current linguistic resources.
 
-**Visual thinkers can fully transmit.** If Temple Grandin could eventually create a linguistic representation that transmitted her visual cognition without loss, language might be more capacious than supposed.
+**Visual thinkers can fully transmit.** If a linguistic representation could transmit Grandin's visual cognition without loss, language might be more capacious than supposed.
 
 **AI closes the gap.** If language models eventually articulate what humans call ineffable—and humans find those articulations satisfying—the boundary may be quantitative rather than qualitative.
 
@@ -182,8 +184,8 @@ The claim that language and thought have genuinely different limits would be cha
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
-- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside: five distinct experiential modes
-- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. The first two faces are now incorporated above (the linguistic-limits and qualia sections); the analogical-domain face is folded into [metaphor-void](/voids/metaphor-void/)
+- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity; its first two faces are incorporated above, the analogical-domain face into [metaphor-void](/voids/metaphor-void/)
 - [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — The synthesis that reads this boundary's structural limits alongside the cluster's dissociation and failure-mode evidence
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
@@ -200,3 +202,6 @@ The claim that language and thought have genuinely different limits would be cha
 9. Ji, X., Elmoznino, E., Deane, G., Constant, A., Dumas, G., Lajoie, G., Simon, J., & Bengio, Y. (2024). "Sources of richness and ineffability for phenomenally conscious states." *Neuroscience of Consciousness* 2024(1): niae001.
 10. Quine, W. V. O. (1960). *Word and Object*. MIT Press.
 11. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association* 47: 5–20.
+12. Majid, A., & Burenhult, N. (2014). "Odors are expressible in language, as long as you speak the right language." *Cognition* 130(2): 266–270.
+13. Majid, A., & Kruspe, N. (2018). "Hunter-Gatherer Olfaction Is Special." *Current Biology* 28(3): 409–413.
+14. Olofsson, J. K., & Gottfried, J. A. (2015). "The muted sense: neurocognitive limitations of olfactory language." *Trends in Cognitive Sciences* 19(6): 314–321.

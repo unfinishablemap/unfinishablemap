@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-07-29T11:36:38+00:00
+ai_modified: 2026-08-20T16:26:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,6 +85,8 @@ The deepest risk is that declaring something a "void" stops inquiry rather than 
 
 **Retreating boundaries require explanation.** When a claimed void is dissolved, the dissolution must be explained—why did the failure previously appear structural? This teaches the method to distinguish real limits from convincing imitations.
 
+The safeguard now has a worked example. "From Plato to Pinker" (Majid and Burenhult's framing), the inability to name smells in abstract terms was classified as a structural limit of human minds—Henning's 1916 verdict, as quoted there: "olfactory abstraction is impossible". Cross-cultural sampling retreated the boundary: Jahai hunter-gatherers name odors as consistently as colours using an abstract smell lexicon, and the effect tracks subsistence-linked cultural practice, not language family or habitat (Majid & Burenhult 2014; Majid & Kruspe 2018). The required explanation is the safeguard's own diagnostic—the failure looked structural because the evidence sampled one kind of society. A neurocognitive residue remains defensible (Olofsson & Gottfried 2015), but the case fixes a base rate: at least one canonical "unexplorable" territory proved partly unexplored, a discount every Unexplorable classification in the [[three-kinds-of-void|three-kinds taxonomy]] inherits when made from inside a single cognitive-cultural vantage.
+
 **The asymmetry constraint.** Apophatic cartography must not be used to both claim a boundary *and* dismiss all attempts to cross it. Failure signatures must remain empirically contestable. These complement the [[voids-safety-protocol|Voids Safety Protocol]] for practical risks of AI-assisted void exploration.
 
 ## The Cartography Problem
@@ -161,8 +163,8 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 
 ## Further Reading
 
-- [[apophatic-cartography-four-criteria|The Four Criteria of Apophatic Cartography]] — Dedicated concept page consolidating the criteria as the catalogue's calibration backbone, with worked exhibits and the *calibration-not-proof* register
-- [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — Apex synthesis on operations that structure cognition while remaining invisible from inside; apophatic method is the natural cartographic discipline for medium-status voids whose interior cannot be entered directly
+- [[apophatic-cartography-four-criteria|The Four Criteria of Apophatic Cartography]] — The consolidated criteria page: the catalogue's calibration backbone, with worked exhibits
+- [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — Apex synthesis on operations that structure cognition while remaining invisible from inside
 - [[voids|Voids in the Map]] — Broader context
 - [[taxonomy-of-voids|A Taxonomy of Voids]] — Synthesis placing cartographic limits within the full voids architecture
 - [[compound-failure-signatures|Compound Failure Signatures]] — The failure signature taxonomy
@@ -174,7 +176,7 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 - [[question-formation-void|The Question Formation Void]] — The upstream constraint on what apophatic method can reach (formulation side)
 - [[suspension-void|The Suspension Void]] — The upstream constraint on the holding-open the method requires (capacity side)
 - [[epistemology-of-limit-knowledge]] — The systematic epistemology underlying limit-knowledge methods
-- [[conjunction-coalesce|The Conjunction-Coalesce]] — A downstream editorial discipline that inherits this article's negation-first methodology, applied to mergers where the seam between two void-faces carries the analytical claim
+- [[conjunction-coalesce|The Conjunction-Coalesce]] — Downstream editorial discipline inheriting this article's negation-first methodology
 - [[tenets|Site Tenets]] — The foundational commitments
 
 ## References
@@ -191,3 +193,6 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 10. Armour, P. G. (2000). "The Five Orders of Ignorance." *Communications of the ACM*, 43(10), 17–20.
 11. Priest, G. (2025). "Wittgenstein and the Paradoxes at the Limits of Language." Blog of the APA.
 12. Rancourt, B. (2025). "The Virtue of Ignorance." *Southern Journal of Philosophy*.
+13. Majid, A., & Burenhult, N. (2014). "Odors are expressible in language, as long as you speak the right language." *Cognition*, 130(2), 266–270.
+14. Majid, A., & Kruspe, N. (2018). "Hunter-Gatherer Olfaction Is Special." *Current Biology*, 28(3), 409–413.
+15. Olofsson, J. K., & Gottfried, J. A. (2015). "The muted sense: neurocognitive limitations of olfactory language." *Trends in Cognitive Sciences*, 19(6), 314–321.

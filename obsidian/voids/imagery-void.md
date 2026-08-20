@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-31T00:43:33+00:00
+ai_modified: 2026-08-20T16:26:44+00:00
 last_deep_review: 2026-07-26T19:46:22+00:00
 draft: false
 topics:
@@ -81,6 +81,8 @@ The void is not a philosopher's construction. Three empirical anchors hold it in
 
 The Würzburg-aphantasia recurrence is itself evidence the void is structural rather than methodological. The same phenomenon surfaces twice across a century with the same controversy structure, under different vocabularies and instruments. The territory keeps producing this shape because the shape is real.
 
+The shape recurs across modalities as well as across centuries. Voluntary olfactory imagery is absent or feeble for most people—Stevenson and Case's (2005) review doubted the capacity exists in much of the population, and subsequent work treats it as real but weak, effortful, and rare (Arshamian & Larsson 2014)—yet unlike visual aphantasia, this population-wide near-aphantasia goes unnoticed, because there is no cultural practice of comparing smell imagery across minds. The capacity is trainable at real cost: perfumery training induces functional reorganisation in imagery-related brain regions, though even trained students describe odor imagery as effortful and fleeting (Plailly, Delon-Martin & Royet 2012). The visual spectrum became visible only when a vocabulary arrived in 2015; the olfactory case shows that a modality's imagery variation can sit below the threshold of comparison indefinitely.
+
 ## Phenomenology of Approaching the Void
 
 Approaching the imagery void produces a characteristic confusion. Asked "How vivid is your imagery, on a scale of 1–5?" most people answer confidently. The confident answers diverge wildly across persons in ways the answerers cannot reconcile when they compare notes. Probe further—Is the apple shiny? What's its exact shade of red? When you rotate it, do you see continuous motion or discrete frames?—and reports become hesitant, internally inconsistent, or generate detail that wasn't there before the probe. This is a [[plenitude-void]]-like behavior: inquiry creates content that purports to predate the inquiry. Aphantasics who learn the term often report a retrospective phenomenological reorientation: they had assumed "see in your mind's eye" was a metaphor everyone used, and discover only late in life that for many others it isn't.
@@ -129,8 +131,8 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 
 - [[taxonomy-of-voids]] — Names the third face as the cleanest case of the cross-cutting phenomenology-vs-function axis
 - [[phenomenal-variation-within-a-species]] — The apex synthesis: the imagery face's joint role with synaesthesia, source-attribution, and cognitive-phenomenology in the within-species divergence cluster
-- [[source-attribution-divergence]] — The cluster sibling at the methodologically loaded extreme: imagery-spectrum position correlates with source-monitoring competence, so the imagery face and the source-attribution face partly co-vary across the population
-- [[phenomenology-vs-function-axis]] — The standalone treatment of that axis: the imagery void is its grain-of-function wedge — the most empirically detailed exemplar, the one that forces the task-level vs strategy-level grain question explicitly
+- [[source-attribution-divergence]] — Cluster sibling: imagery-spectrum position partly co-varies with source-monitoring competence across the population
+- [[phenomenology-vs-function-axis]] — The standalone treatment of that axis; the imagery void is its most empirically detailed exemplar
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — The ontology-of-the-phenomenal dispute the function-phenomenology face feeds into: whether thinking-as-such has a proprietary phenomenal kind, with the aphantasia evidence reinterpretable from either the liberal or conservative side
 - [[mental-imagery]] — The concept this void surrounds
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts
@@ -156,3 +158,6 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 10. Chang, S., Zhang, X., Cao, Y., Pearson, J., & Meng, M. (2025). Imageless imagery in aphantasia revealed by early visual cortex decoding. *Current Biology*, 35(3), 591–599. https://www.cell.com/current-biology/abstract/S0960-9822(24)01652-X
 11. Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
 12. Southgate, A. & Oquatre-six, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/
+13. Stevenson, R. J., & Case, T. I. (2005). Olfactory imagery: a review. *Psychonomic Bulletin & Review*, 12(2), 244–264.
+14. Arshamian, A., & Larsson, M. (2014). Same same but different: the case of olfactory imagery. *Frontiers in Psychology*, 5, 34.
+15. Plailly, J., Delon-Martin, C., & Royet, J.-P. (2012). Experience induces functional reorganization in brain regions involved in odor imagery in perfumers. *Human Brain Mapping*, 33(1), 224–234.

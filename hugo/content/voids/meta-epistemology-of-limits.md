@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-08-19 22:48:53+00:00
+ai_modified: 2026-08-20 16:26:44+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 17:23:41+00:00
-lastmod: 2026-08-19 22:48:53+00:00
+lastmod: 2026-08-20 16:26:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -90,7 +90,7 @@ The question may be formally undecidable from within. If mysterianism is true, w
 
 ## Historical Evidence: Dissolution and Asymmetry
 
-Concepts once deemed unthinkable became routine: irrational numbers, non-Euclidean geometry, quantum indeterminacy. Each dissolved by replacing the framework rather than solving the original question. Quantum mechanics refines the pattern: formalism succeeds while interpretation remains psychologically opaque.
+Concepts once deemed unthinkable became routine: irrational numbers, non-Euclidean geometry, quantum indeterminacy. Each dissolved by replacing the framework rather than solving the original question. Quantum mechanics refines the pattern: formalism succeeds while interpretation remains psychologically opaque. Psychophysics has since supplied a measured instance: odor naming, treated "from Plato to Pinker" (Majid and Burenhult's framing) as universally, structurally ineffable, decomposed under better cross-cultural sampling—Jahai hunter-gatherers name odors as consistently as colours—into a cultural component plus a contested architectural residue (Majid & Burenhult 2014). At least one canonical "unexplorable" territory proved partly unexplored; [apophatic-cartography](/voids/apophatic-cartography/) carries the base-rate lesson for Unexplorable classifications.
 
 **Dissolved limits** depend on specific false assumptions, stay domain-specific, and yield to new representational tools. **Persistent limits** recur across cultures and centuries (Leibniz posed essentially the same [hard problem](/topics/hard-problem-of-consciousness/) in 1714 that Chalmers formalised in 1995), involve self-reference, and resist interpretation even when formalism succeeds. The hard problem scores high on persistent-limit indicators—yet every dissolved limit *also* looked permanent to those inside it.
 
@@ -195,7 +195,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Systematic account of limit-claim methods
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — When the mind lacks the categorial shape
 - [The Suspension Void](/voids/suspension-void/) — Why the suspended position inherits structural limits
-- [The Common-Knowledge Void](/voids/common-knowledge-void/) — Methodological cognate: another conjunction-coalesce structure where independently recognised limits conjoin into a single structural impossibility
+- [The Common-Knowledge Void](/voids/common-knowledge-void/) — Methodological cognate: another conjunction-coalesce structure
 
 ## References
 
@@ -219,3 +219,4 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 18. Dunning, D. (2011). "The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance." *Advances in Experimental Social Psychology*, 44, 247-296.
 19. Proctor, R. N. & Schiebinger, L. (Eds.) (2008). *Agnotology: The Making and Unmaking of Ignorance*. Stanford University Press.
 20. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+21. Majid, A., & Burenhult, N. (2014). "Odors are expressible in language, as long as you speak the right language." *Cognition*, 130(2), 266–270.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-07-29 11:36:38+00:00
+ai_modified: 2026-08-20 16:26:44+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 18:02:28+00:00
-lastmod: 2026-07-29 11:36:38+00:00
+lastmod: 2026-08-20 16:26:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,6 +88,8 @@ The deepest risk is that declaring something a "void" stops inquiry rather than 
 **Provisional status with operational expiration conditions.** Every void claim must specify what would dissolve the boundary in operational terms: *predictive novelty* (the candidate reduction entails previously unpredicted observations), *unificatory power* (disparate features follow from common derivation), and *third-person derivability* (first-person reports derived from third-person premises without smuggling phenomenal intuitions in as input). If a reduction meets these tests, the boundary has retreated whether or not it "feels like" closure.
 
 **Retreating boundaries require explanation.** When a claimed void is dissolved, the dissolution must be explained—why did the failure previously appear structural? This teaches the method to distinguish real limits from convincing imitations.
+
+The safeguard now has a worked example. "From Plato to Pinker" (Majid and Burenhult's framing), the inability to name smells in abstract terms was classified as a structural limit of human minds—Henning's 1916 verdict, as quoted there: "olfactory abstraction is impossible". Cross-cultural sampling retreated the boundary: Jahai hunter-gatherers name odors as consistently as colours using an abstract smell lexicon, and the effect tracks subsistence-linked cultural practice, not language family or habitat (Majid & Burenhult 2014; Majid & Kruspe 2018). The required explanation is the safeguard's own diagnostic—the failure looked structural because the evidence sampled one kind of society. A neurocognitive residue remains defensible (Olofsson & Gottfried 2015), but the case fixes a base rate: at least one canonical "unexplorable" territory proved partly unexplored, a discount every Unexplorable classification in the [three-kinds taxonomy](/voids/three-kinds-of-void/) inherits when made from inside a single cognitive-cultural vantage.
 
 **The asymmetry constraint.** Apophatic cartography must not be used to both claim a boundary *and* dismiss all attempts to cross it. Failure signatures must remain empirically contestable. These complement the [Voids Safety Protocol](/project/voids-safety-protocol/) for practical risks of AI-assisted void exploration.
 
@@ -165,8 +167,8 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 
 ## Further Reading
 
-- [The Four Criteria of Apophatic Cartography](/concepts/apophatic-cartography-four-criteria/) — Dedicated concept page consolidating the criteria as the catalogue's calibration backbone, with worked exhibits and the *calibration-not-proof* register
-- [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — Apex synthesis on operations that structure cognition while remaining invisible from inside; apophatic method is the natural cartographic discipline for medium-status voids whose interior cannot be entered directly
+- [The Four Criteria of Apophatic Cartography](/concepts/apophatic-cartography-four-criteria/) — The consolidated criteria page: the catalogue's calibration backbone, with worked exhibits
+- [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — Apex synthesis on operations that structure cognition while remaining invisible from inside
 - [Voids in the Map](/voids/) — Broader context
 - [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — Synthesis placing cartographic limits within the full voids architecture
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — The failure signature taxonomy
@@ -178,7 +180,7 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 - [The Question Formation Void](/voids/question-formation-void/) — The upstream constraint on what apophatic method can reach (formulation side)
 - [The Suspension Void](/voids/suspension-void/) — The upstream constraint on the holding-open the method requires (capacity side)
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology underlying limit-knowledge methods
-- [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — A downstream editorial discipline that inherits this article's negation-first methodology, applied to mergers where the seam between two void-faces carries the analytical claim
+- [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — Downstream editorial discipline inheriting this article's negation-first methodology
 - [Site Tenets](/tenets/) — The foundational commitments
 
 ## References
@@ -195,3 +197,6 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 10. Armour, P. G. (2000). "The Five Orders of Ignorance." *Communications of the ACM*, 43(10), 17–20.
 11. Priest, G. (2025). "Wittgenstein and the Paradoxes at the Limits of Language." Blog of the APA.
 12. Rancourt, B. (2025). "The Virtue of Ignorance." *Southern Journal of Philosophy*.
+13. Majid, A., & Burenhult, N. (2014). "Odors are expressible in language, as long as you speak the right language." *Cognition*, 130(2), 266–270.
+14. Majid, A., & Kruspe, N. (2018). "Hunter-Gatherer Olfaction Is Special." *Current Biology*, 28(3), 409–413.
+15. Olofsson, J. K., & Gottfried, J. A. (2015). "The muted sense: neurocognitive limitations of olfactory language." *Trends in Cognitive Sciences*, 19(6), 314–321.

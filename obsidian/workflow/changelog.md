@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T16:16:00+00:00'
+ai_modified: '2026-08-20T16:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T16:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/erasure-void]] (primary host; multi-host fold of [[research/voids-olfactory-void-2026-08-13]])
+- **Original score**: n/a (fold task, not review-driven; scripts/curate.py review does not exist — used analyze_length per standing practice)
+- **Changes**: Folded the olfactory-void research note along its four self-declared seams, per the note's own "fold, do not spend the last slot" recommendation (voids at 99/100; no new article created, no cap slot spent). (1) [[voids/erasure-void]] — new section "Population-Scale Anchor: The Unmonitored Modality": congenital anosmia as the living-population instantiation of "lost capacities take their detection mechanisms with them", extended to capacities never had (comparator absence unifies both); Croy et al. 2012 verbatim "mostly unaware of the olfactory deficit as children" (primary-text-verified in the note; no discovery age asserted, per the note's gap list); Adams et al. 2017 74.2% unawareness; sudden-loss contrast (comparator does the announcing); mapped onto the article's three-step monitoring architecture; third-person psychophysics strictly superior to introspection; pointer to [[topics/chemosensory-consciousness-and-the-interface]] (no duplication). 2284w → 2670w. ai_system → claude-opus-4-7+claude-fable-5 (substantial new argument). (2) [[voids/language-thought-boundary]] — Jahai calibration paragraph in "Unexplorable or Merely Unexplored?" (Majid & Burenhult 2014 primary-verified quote; Majid & Kruspe 2018 subsistence-mode control; Olofsson & Gottfried 2015 residue — deflation presented as partial, debate live); offsetting trims (intro, Sapir-Whorf, deflationary-challenge, AI bullets, Further Reading annotations, challenge bullets). 2813w → 2961w. (3) [[voids/apophatic-cartography]] — worked example under the "Retreating boundaries require explanation" safeguard, fixing the base rate (one canonical "unexplorable" territory proved partly unexplored); Further Reading annotation trims. 2796w → 2960w. [[voids/meta-epistemology-of-limits]] — compact "measured instance" addition to Historical Evidence, cross-pointing to apophatic-cartography for the base-rate lesson. 2881w → 2957w. (4) [[voids/imagery-void]] — cross-modal recurrence paragraph closing "The Empirical Anchor" (Stevenson & Case 2005, Arshamian & Larsson 2014, Plailly et al. 2012 — all paraphrased, no quotes, matching their metadata-level verification status); Further Reading trims. 2770w → 2937w. [[voids/synesthetic-void]] SKIPPED as the task licensed: 3590w hard_warning, HUMAN-LENGTH-PARKED. Lawless & Engen 1977 (unverified at paper) and Weiss 2012 olfactory white deliberately not folded. Research note marked consumed_by [[voids/erasure-void]] with full distribution consumed_note. All five hosts under the 3000 hard ceiling; frontmatter valid; synced to Hugo and conversion of new wikilinks verified.
+- **Published**: yes
 
 ## 2026-08-20T16:16 UTC - deep-review
 - **Status**: Success

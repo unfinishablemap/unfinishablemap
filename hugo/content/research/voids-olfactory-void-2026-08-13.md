@@ -7,6 +7,20 @@ author: null
 concepts:
 - '[[mysterianism]]'
 - '[[introspection]]'
+consumed_by: '[[erasure-void]]'
+consumed_note: 'FOLDED per this note''s own recommendation (voids at 99/100; absorption
+  over proliferation) by the 2026-08-20 refine-draft pass. Distribution along the
+  note''s seams: absence face (Croy 2012, Adams 2017, never-had extension, third-person
+  superiority) -> [[erasure-void]] ''Population-Scale Anchor: The Unmonitored Modality'';
+  naming face + partial deflation (Majid & Burenhult 2014, Majid & Kruspe 2018, Olofsson
+  & Gottfried 2015 residue) -> [[language-thought-boundary]] ''Unexplorable or Merely
+  Unexplored?''; base-rate lesson -> [[apophatic-cartography]] (worked example under
+  ''Retreating boundaries require explanation'') and [[meta-epistemology-of-limits]]
+  (Historical Evidence); imagery face (Stevenson & Case 2005, Arshamian & Larsson
+  2014, Plailly 2012) -> [[imagery-void]] (Empirical Anchor, cross-modal recurrence).
+  [[synesthetic-void]] skipped: hard_warning length, HUMAN-LENGTH-PARKED. Lawless
+  & Engen 1977 and Weiss 2012 olfactory-white NOT folded (unverified-at-paper / no
+  natural host seam); quarantined leads remain quarantined.'
 created: 2026-08-13
 date: &id001 2026-08-13
 draft: false

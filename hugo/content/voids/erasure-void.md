@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-06-23 01:36:29+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-20 16:26:44+00:00
+ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
 - '[[metacognition]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-23 01:36:29+00:00
-lastmod: 2026-06-23 01:36:29+00:00
+lastmod: 2026-08-20 16:26:44+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,8 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[agency-void]]'
 - '[[conjunction-coalesce]]'
+- '[[chemosensory-consciousness-and-the-interface]]'
+- '[[research/voids-olfactory-void-2026-08-13]]'
 title: The Erasure Void
 topics:
 - '[[personal-identity]]'
@@ -65,6 +67,14 @@ The pattern that emerges is not selective failure but parallel decline: as memor
 Anosognosia is the extreme case, but the principle is universal. Subtle cognitive decline in normal ageing often goes unnoticed by the individual while being plainly visible to family. The Dunning-Kruger structure—where the metacognitive skills required to recognise incompetence are the same skills that constitute competence—generalises the point: any system whose self-audit depends on the capacities under audit is structurally vulnerable to silent erasure. The dual-burden metacognitive reading of Dunning-Kruger is itself contested—later work argues the canonical pattern can arise from regression to the mean plus a better-than-average bias rather than a genuine metacognitive deficit (Nuhfer et al. 2017; Gignac & Zajenkowski 2020)—so the analogy is offered as a suggestive everyday structure, not a settled equivalent of clinical anosognosia.
 
 The same diagnosis generalises beyond cognitive deficit. The [agency-void](/voids/agency-void/) develops verification-circularity for the consciousness-causation question: every check on whether consciousness causes anything is performed by the faculty whose causal powers are in question, leaving no external reference point. Anosognosia and clinical erasure are the concrete clinical face of that structural problem—self-monitoring failing because the monitor shares substrate with what it monitors. Where erasure shows the failure as empirical neuropathology, agency-void shows the same architecture (instrument and object the same) governing the question of whether the non-physical interface acts at all. Both articles' two-face structure—loss-and-monitoring here, involuntariness-and-verification there—is synthesised in [the conjunction-coalesce](/apex/conjunction-coalesce/), which treats this article as a *cognate* of the discipline rather than an instance of it: the conjoint shape was installed at article-creation time rather than produced by merging two prior articles. The seam test still applies, but the editorial geometry of merger does not.
+
+## Population-Scale Anchor: The Unmonitored Modality
+
+Anosognosia requires a lesion; the olfactory system shows the same erasure structure operating in healthy populations at scale. Olfactory consciousness carries no absence-signal: when the modality is missing, nothing inside announces the fact. People born without a sense of smell (isolated congenital anosmia) are, in the words of a clinical comparison study of thirty-two congenitally anosmic adults, "mostly unaware of the olfactory deficit as children"—discovery typically arrives through other people, such as parents noticing no reaction to bad smells, rather than through any felt gap (Croy et al. 2012). The acquired case scales the point: in a US national cohort aged 57–85, 74.2% of those with measured olfactory dysfunction did not recognise it (Adams et al. 2017). A whole phenomenal dimension can fade out, or never arrive, without any inside signal.
+
+The case extends the erasure principle in one direction and confirms its mechanism in another. The extension: not only do lost capacities take their detection mechanisms with them—capacities never possessed generate no absence-signal either. Nothing was erased, yet the void is equally silent, because what is missing in both cases is the comparator. The confirmation: sudden smell loss, as in post-viral anosmia, *is* noticed—there the comparator survives the loss and does the announcing. Mapped onto the three-step monitoring architecture above, olfaction fails at the first step: no expectation of olfactory content ever forms, because neither ordinary culture nor introspection installs one. Vision's absence is instantly catastrophic; smell's absence is structurally silent.
+
+The olfactory case also supplies the cleanest instance of a general consequence of the erasure void: the third-person instrument is strictly superior to the first-person channel for a fact about one's own consciousness. Standardised psychophysical testing detects in minutes what a lifetime of introspection cannot. How the intact olfactory interface constructs its percepts is mapped at [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/); what the absent case contributes here is the shape of the deficit's invisibility—the erasure void's signature, written across a living population.
 
 ## The Phenomenology of Absence-of-Absence
 
@@ -125,6 +135,8 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 - [metacognition](/concepts/metacognition/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [personal-identity](/topics/personal-identity/)
+- [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- [voids-olfactory-void-2026-08-13](/research/voids-olfactory-void-2026-08-13/)
 
 ## References
 
@@ -138,3 +150,5 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 8. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.
 9. Ricoeur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
 10. Nietzsche, F. (1887). *On the Genealogy of Morals*.
+11. Croy, I., Negoias, S., Novakova, L., Landis, B. N., & Hummel, T. (2012). Learning about the functions of the olfactory system from people without a sense of smell. *PLoS ONE*, 7(3), e33365.
+12. Adams, D. R., et al. (2017). Factors Associated with Inaccurate Self-Reporting of Olfactory Dysfunction in Older US Adults. *Chemical Senses*, 42(3), 223–230.
