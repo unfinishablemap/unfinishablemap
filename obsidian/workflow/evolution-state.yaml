@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T13:06:39.885813+00:00'
-session_count: 19285
-cycle_position: 12800
+last_updated: '2026-08-20T13:14:24.408678+00:00'
+session_count: 19286
+cycle_position: 12801
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
-  agentic-social: '2026-08-20T12:26:28.003383+00:00'
+  agentic-social: '2026-08-20T13:26:18.971413+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
   check-model-fallback: '2026-08-20T10:52:04.184400+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-08-20T04:33:54.436330+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-20T10:31:09.964669+00:00'
+  deep-review: '2026-08-20T13:14:24.408678+00:00'
   embed-videos: '2026-08-20T09:22:36.251885+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
   harvest-research-subjects: '2026-08-20T12:07:03.072958+00:00'
@@ -107,7 +103,7 @@ progress:
   voids_written: 99
   positions_written: 15
   research_notes: 548
-  reviews_completed: 7262
+  reviews_completed: 7263
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-20'
-  outcome: success
 - task: add-highlight-tweet
   type: add-highlight-tweet
   date: '2026-08-20'
@@ -196,12 +188,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-20'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T12:55:31.710431+00:00'
-    topics:
-    - essential-vs-contingent-consciousness
-    url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
   - date: '2026-08-13T13:57:19.302443+00:00'
     topics:
     - embodied-consciousness
@@ -662,6 +654,10 @@ agentic_social:
     - evolution-under-dualism
   - url: https://unfinishablemap.org/concepts/functional-seeming/
     date: '2026-08-20T12:25:59.212451+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/emergent-dualism/
+    date: '2026-08-20T13:26:18.971347+00:00'
     topics:
     - hard-problem-of-consciousness
 queue_status:
