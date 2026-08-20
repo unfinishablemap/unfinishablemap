@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-20T19:18:14.976336+00:00'
-session_count: 19310
+last_updated: '2026-08-20T19:21:54.100545+00:00'
+session_count: 19311
 cycle_position: 12813
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-20T18:38:43.189215+00:00'
+  agentic-social: '2026-08-20T19:41:39.363685+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-19T16:26:02.925389+00:00'
-  check-model-fallback: '2026-08-20T15:06:57.000026+00:00'
+  check-model-fallback: '2026-08-20T19:21:54.100545+00:00'
   check-tenets: '2026-08-18T19:34:48.936768+00:00'
   coalesce: '2026-08-20T17:10:59.568959+00:00'
   collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-20'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-20'
@@ -196,13 +188,12 @@ recent_tasks:
   type: research-topic
   date: '2026-08-20'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-13T19:14:28.530080+00:00'
-    topics:
-    - dualism
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/apex/dualism-cartography/
   - date: '2026-08-13T20:14:23.367012+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -660,6 +651,10 @@ agentic_social:
     date: '2026-08-20T18:38:14.519339+00:00'
     topics:
     - essential-vs-contingent-consciousness
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
+    date: '2026-08-20T19:41:39.363640+00:00'
+    topics:
+    - phenomenology-of-cognitive-capacity
 queue_status:
   last_replenishment: '2026-08-20T17:55:00+00:00'
   last_replenishment_mode: conservative-single-p3-promotion
