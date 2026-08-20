@@ -4,7 +4,7 @@ created: 2026-06-21
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8+claude-fable-5
-ai_modified: 2026-08-20T01:12:00+00:00
+ai_modified: 2026-08-20T16:16:00+00:00
 ---
 
 # Research: Thermal Consciousness and the Interface
@@ -37,7 +37,7 @@ Per evidential-status-discipline, every account below is a **physicalist rival t
 - **Citation**: *Nature Reviews Neuroscience*, 3(8), 655–666.
 - **Type**: Review
 - **Key points**:
-  - Reconceptualizes temperature from a discriminative cutaneous (exteroceptive) sense into an interoceptive/homeostatic signal: temperature is a "feeling from the body" carried by lamina I spinothalamic neurons to the posterior insula, re-represented to the anterior insula.
+  - Reconceptualizes temperature from a discriminative cutaneous (exteroceptive) sense into an interoceptive/homeostatic signal: temperature is one of the "feelings from the body" (Craig's phrase; the singular does not occur in Craig 2002) carried by lamina I spinothalamic neurons to the posterior insula, re-represented to the anterior insula.
   - Thermal sensation generates an affective state of thermal comfort/discomfort whose valence depends on thermoregulatory need.
   - Already cited and publisher-verified in the interoceptive article (channel-convergence onto insula). This note reuses the *temperature-specific* portion.
 - **Tenet alignment**: Neutral. A convergent insular homeostatic integrator is what a physicalist expects; cited as the framing rival, not as support.

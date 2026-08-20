@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-20 01:06:00+00:00
+ai_modified: 2026-08-20 16:16:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: Thermal valence flips with body state—Cabanac's alliesthesia—ma
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-07 11:38:27+00:00
-lastmod: 2026-08-20 01:06:00+00:00
+last_deep_review: 2026-08-20 16:16:00+00:00
+lastmod: 2026-08-20 16:16:00+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -51,7 +51,7 @@ Craig was systematising a datum Cabanac had named three decades earlier: alliest
 
 The structure to notice is that the valence is not a constant property of the stimulus: the felt pleasantness of warmth is a function of how far the body is from its set-point and in which direction (Cabanac, 1971; Craig, 2018). This is what distinguishes thermal valence from the affective tone of [cutaneous affective touch](/topics/tactile-consciousness-and-the-interface/). The slow C-tactile afferents that carry the pleasantness of a gentle caress respond best to a fairly narrow band of stroking near skin temperature (Ackerley et al., 2014), and the hedonic tone they deliver—itself gated by stimulus temperature—is stable with respect to the perceiver's thermoregulatory state. Thermal valence is *state-dependent by construction*: it tracks a homeostatic comparison, so the very same afferent input can present as relief or as threat.
 
-On Craig's reading, temperature is not really an exteroceptive perception of an object's property but an interoceptive *feeling* about the body's condition—a "feeling from the body" carried by lamina I spinothalamic neurons to the posterior insula (Craig, 2002) and re-represented in the anterior insula, the cortical region Craig identifies with the felt bodily self (Craig, 2009; Blomqvist, 2023). The thermal channel shares this lamina I pathway with pain, which is why the two integrate so intimately—a point the next section develops.
+On Craig's reading, temperature is not really an exteroceptive perception of an object's property but an interoceptive *feeling* about the body's condition—one of the "feelings from the body" carried by lamina I spinothalamic neurons to the posterior insula (Craig, 2002) and re-represented in the anterior insula, the cortical region Craig identifies with the felt bodily self (Craig, 2009; Blomqvist, 2023). The thermal channel shares this lamina I pathway with pain, which is why the two integrate so intimately—a point the next section develops.
 
 What this gives the Map is a perceptual case of phenomenal character that is constitutively evaluative *and* visibly relative to the subject's state. In thermoception the value cannot be a downstream verdict on a neutral percept, because there is no fixed neutral percept to judge; the phenomenology suggests that what is felt *is* the comfort or distress, with the discriminative magnitude recoverable only by an effort of attention.
 

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T15:42:00+00:00'
+ai_modified: '2026-08-20T16:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T16:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/thermal-consciousness-and-the-interface]]
+- **Word count**: 3215 → 3217 (+2)
+- **Critical issues addressed**: 1 (near-miss quotation: L51 quoted temperature as a "feeling from the body" cited to Craig 2002 — the singular verified at 0 hits in the raw Craig 2002 PDF via two extraction modes, whitespace-tolerant; Craig's phrase is the plural "feelings from the body". Rephrased to the verbatim plural; same fix applied at the confabulation origin, [[research/thermal-consciousness-and-the-interface-2026-06-21]] L40, with a note-for-reuse flag. Blomqvist 2023 contains neither form, so the cite could not be re-anchored there. No other content file carries either form, archive included)
+- **Medium issues addressed**: 0 (lead set-point framing vs. B&S disclosure judged deliberate assert-then-disclose, not self-contradiction — recorded as do-not-re-flag)
+- **Enhancements made**: 0 (converged article, length-neutral; 17/17 wikilinks verified live)
+- **§2.4 ledger**: all new/changed cites from the 01:12 refine-draft independently re-verified at raw sources this pass — Cabanac 1971 (Europe PMC abstract: set-points quote verbatim, three-senses + visual/auditory conjecture faithful), Craig 2009, Craig 2018 (Crossref/Europe PMC), Ackerley et al. 2014 (Crossref + abstract supports both attributed claims), Barrett & Simmons 2015 (both quotes verbatim in raw efetch full text; thermal/sweat/shiver 0 hits; "expressly reject" supported by the assumption-passage + glossary; "autonomic, hormonal, and immunological predictions" is the paper's own wording), Crucianelli & Ehrsson 2023 (all 7 quoted spans at exactly 1 hit each in raw PMC XML, parentheticals intact) — all real-correct. CT-stability contrast probed against live literature (2 searches): no thermoregulatory-alliesthesia counter-evidence for CT touch; hedges must be preserved. Engagement classification (editor-internal): all three rivals Mode Three, honest intra-physicalist set-point disagreement now recorded; no leakage
+- **Output**: [[reviews/deep-review-2026-08-20-thermal-consciousness-and-the-interface]]
 
 ## 2026-08-20T15:42 UTC - refine-draft
 - **Status**: Success
