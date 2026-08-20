@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T05:31:25+00:00'
+ai_modified: '2026-08-20T06:17:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 05:31:25+00:00
+lastmod: 2026-08-20 06:17:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T06:17 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-08-20
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro), all on the shared subject apex/apex-articles
+- **Clusters**: 4 convergent (all ChatGPT+Claude: index theses overclaim remediated bodies; registry self-description staleness; registry-vs-body methodology check; entry-27 unfalsifiability — recorded only, no task), 9 singleton, 1 divergent (entry 33: Claude RETAIN-as-template vs ChatGPT/Gemini defects at different grains), 1 rejected near-convergence (active inference: Claude's leg disputed on disk, Gemini's confirmed gap stays singleton per the disputed-claims rule)
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2 — the consolidated apex-articles pass and the methodology registry-vs-body diff)
+- **Tasks deduplicated**: 1 (the two same-file apex-articles P2 siblings merged into one 12-item consolidated P1 task; all items preserved)
+- **Output**: [outer-review-synthesis-2026-08-20](/reviews/outer-review-synthesis-2026-08-20/)
 
 ## 2026-08-20T05:31 UTC - collect-gemini-review + outer-review
 - **Status**: Success
