@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T14:55:00+00:00'
+ai_modified: '2026-08-20T17:55:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -43,10 +43,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-08-20
 
-### P3: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
+### P2: P-D3 leans on the Neoplatonist audit and names West African ontologies as an open candidate, citing neither of the Map's own articles on them
 - **Type**: positions-evolve
 - **Status**: pending
 - **File**: obsidian/positions/arguments-for-dualism.md
+- **Promoted**: P3→P2 by /replenish-queue 2026-08-20 17:55Z (floor restore after the 17:25 refine-draft closed a pickable P2; residue audit 16:56→17:55 found no mintable successor — coalesce ABANDONed, the refine landed clean and synced). All measured premises re-verified live at promotion: zero `obsidian/positions/` hits for the audit slug, for `african-philosophy-of-consciousness`, and for all three basin-edge slugs; P-D3's `Depends on` (L69) still omits the audit; `concepts/african-philosophy-of-consciousness` L73 carries the Unanimism-critique-turned-inward passage verbatim (note: capitalised "Unanimism" — a lowercase grep returns 0). Task body below unchanged.
 - **Notes**: From optimistic review 2026-08-19 (`reviews/optimistic-2026-08-19-cross-cultural-wing`). **This is an `Argued in` / `Depends on` completion on an existing entry — do NOT add a new position.** `positions/` measured live at 15/80, but no slot is consumed by this task.
   **FIRST, THE THING THIS TASK IS NOT.** The review opened on the hypothesis that **P-M2**'s `Argued in` (`positions/methodology-and-calibration.md` L74 — `project/common-cause-null`, `project/coherence-inflation-countermeasures`, `apex/taxonomy-of-voids`) should gain the `topics/` and `concepts/` articles that demonstrate the discount. **That was checked and declined.** The premise is literally true; the conclusion is wrong. P-M2 routes content citations to its instance positions **by design** and says so twice: `Asserts` L72 ("the methodological parent of which P-V1 is the void-catalogue instance and P-D1–P-D3 the argument-catalogue instance") and `Depends on` L73 ("governs ... P-D1–P-D3"). The routing is live — P-D3 L70 already cites `[[topics/cross-traditional-convergence-on-consciousness-irreducibility]]` and `[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]`, the latter added 2026-08-02 with a documented reason. **Do not add content articles to P-M2; it would duplicate P-D3 and blur the parent/instance separation the domain preamble (L33) defends deliberately.**
   **WHAT IS ACTUALLY MISSING — two dangling references in P-D3** (`obsidian/positions/arguments-for-dualism.md`, entry at L64). Both target articles are cited by **zero** files in `obsidian/positions/` (verified by grep, 2026-08-19).
