@@ -4,7 +4,7 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-06-26T14:17:11+00:00
+ai_modified: 2026-08-20T02:50:00+00:00
 last_deep_review: 2026-06-26T14:17:11+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-04-18
 last_curated: null
 ---
@@ -39,7 +39,7 @@ The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] addres
 
 Colin McGinn's original formulation of cognitive closure is representational in structure: "A type of mind M is cognitively closed with respect to a property P (or theory T) if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P (or an understanding of T)" (McGinn 1989). The limit is a limit on *what can be framed*, not on what can be worked out once framed.
 
-Erhan Demircioglu sharpens this by distinguishing two readings of "grasping what would count as an answer" (Demircioglu 2017). Under the **representational** reading, a mind M is closed to P if M lacks the concept-forming procedures to frame a true theory of P. Under the **psychological** reading, M has the conceptual resources but cannot actually work through the theory when presented with it. Demircioglu's illustration: a rat might represent "the primes" as "the numbers mathematicians talk about" without being able to identify which numbers those are.
+Michael Vlerick and Maarten Boudry make the ambiguity explicit, separating the strong notion McGinn's definition officially targets — "a principled inaccessibility of a true theory" of the property — from the weaker condition McGinn's arguments at most reach (Vlerick & Boudry 2017). Under the **representational** reading, a mind M is closed to P if M lacks the concept-forming procedures to frame a true theory of P. Under the **psychological** reading, M has the conceptual resources — it can represent the correct answer — but cannot actually grasp the theory when presented with it. Their illustration: a mathematician can represent infinity and handle it in equations while struggling to grasp what infinite space or time is like.
 
 The readings differ in what they rule out. Representational closure says the solution lies outside the mind's concept space. Psychological closure says the solution lies inside that space but beyond the mind's assembly capacity. One concerns the shape of the mind; the other, its grip.
 
@@ -47,11 +47,11 @@ The readings differ in what they rule out. Representational closure says the sol
 
 Uriah Kriegel argues that mysterianism is incoherent (Kriegel 2003). Following Hamblin and Stahl, he takes questions to be individuated by the set of statements that would answer them. To pose a question Q is already to possess the conceptual resources to frame potential answers to Q. If we can formulate the mind-body problem, we already grasp what a solution would look like — so we cannot be cognitively closed to it. "It is incoherent to suppose that we cannot understand what would count as a solution to a problem we can and do understand."
 
-This argument is locally successful against one reading and not the other. If closure is psychological, Kriegel's point bites: being able to pose the question requires psychological contact with the solution form, so closure in that sense is self-undermining. But under the representational reading, being able to represent "a theory of consciousness" as a category does not entail possessing the concept-forming procedures that would generate the actual theory. Representing the form of an answer is not framing the answer itself. Kriegel's argument does not touch the representational thesis.
+This argument is locally successful against one reading and not the other. If closure is psychological, Kriegel's point bites: being able to pose the question requires psychological contact with the solution form, so closure in that sense is self-undermining. But under the representational reading, being able to represent "a theory of consciousness" as a category does not entail possessing the concept-forming procedures that would generate the actual theory. Representing the form of an answer is not framing the answer itself. Erhan Demircioglu's reply to Kriegel makes the same cut from the side of the question: the concepts required for answering a question need not be attainable by the subject who understands it — a child can understand "where is x?" even when some of its possible answers require concepts from the theory of relativity (Demircioglu 2017). Kriegel's argument does not touch the representational thesis.
 
-Michael Vlerick and Maarten Boudry press from the other side (Vlerick & Boudry 2017). McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Historical examples look like the current situation: vitalism, action-at-a-distance, and quantum non-locality's early intelligibility crisis all appeared, at the time, to involve principled conceptual limits. Each later yielded to new conceptual resources. Inferring representational closure from psychological closure is, for them, a hasty generalisation.
+Vlerick and Boudry press from the other side. McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Their historical evidence runs against McGinn's pessimism: good scientific theories have repeatedly overthrown commonsense, from Newtonian physics through Darwinian biology to quantum physics, and the barriers commonsense sets up for the psychological sense of understanding "have been systematically torn down." Inferring representational closure from psychological closure is, for them, a fallacy of equivocation on "understanding."
 
-Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [[edge-states-and-void-probes]] and [[meta-epistemology-of-limits]] — can now use it under its own name.
+Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the historical record of commonsense overthrown. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [[edge-states-and-void-probes]] and [[meta-epistemology-of-limits]] — can now use it under its own name.
 
 ## Classifying the Voids
 
@@ -71,7 +71,7 @@ The deeper result is not the first-order distinction but its inaccessibility. *F
 
 Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. This is the closure-types analogue of [[inventory-blindness]]: absent capabilities produce no signal marking their absence. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
 
-The history of apparent representational closures that turned out to be psychological supplies the indirect evidence. Each of Vlerick and Boudry's examples looked, to participants, like a principled conceptual limit; in retrospect the concepts existed but had not been assembled. The track record does not prove there are no genuine representational closures. It shows that minds are unreliable judges of which is which. The asymmetry of error is systematic: false positives for representational closure outnumber false negatives, because the phenomenology of merely hard problems mimics principled impossibility.
+The history of apparent representational closures that turned out to be psychological supplies the indirect evidence. Each of Vlerick and Boudry's cases looked, to contemporaries, like something the mind could not take in; in retrospect the concepts were attainable all along and the resistance was psychological. The track record does not prove there are no genuine representational closures. It shows that minds are unreliable judges of which is which. The asymmetry of error is systematic: false positives for representational closure outnumber false negatives, because the phenomenology of merely hard problems mimics principled impossibility.
 
 This second-order void is what makes the first-order distinction philosophically serious rather than merely taxonomic. The distinction works as a lens exposing the limits of our self-diagnosis, rather than as a taxonomy we can apply from within and rest on.
 

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T01:34:00+00:00'
+ai_modified: '2026-08-20T02:50:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T02:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/closure-types-void]]
+- **Original score**: n/a (basis: deep-review-2026-08-19-epistemology-of-limit-knowledge §2.4 family resolution; scripts/curate.py review skipped per skill note)
+- **Word count**: 1888 → 1986 (+98, still under voids soft 2000; growth is the verified Demircioglu keep-alive sentence)
+- **Changes**: True source of the representational/psychological two-readings distinction PINNED — it is Vlerick & Boudry 2017 (full Dialectica PDF retrieved via the Google Drive link on maartenboudry.be/publications; Wiley/PhilArchive/Tilburg all bot-blocked): verbatim anchors "a principled inaccessibility of a true theory of certain properties of the world", "The latter we label psychological closure". L42 re-attributed from Demircioglu 2017 to V&B; the confabulated rat/primes illustration (verified absent from ALL FOUR lineage papers at full raw text: Demircioglu 2017 AA, Demircioglu 2016 M&M, Kriegel 2003, V&B 2017) replaced with V&B's real mathematician-representing-infinity illustration ("mathematician can represent infinity and handle it with equations" — greps in their PDF). Demircioglu 2017 kept live and accurate: his verified reply to Kriegel (concepts required for answering need not be attainable by the subject who understands the question; child/"where is x?"/relativity example — greps in raw text) installed in the Kriegel section. Same-family bonus defect fixed in the V&B paragraph: "vitalism, action-at-a-distance, quantum non-locality" examples and "hasty generalisation" diagnosis all grep ZERO in V&B's text — replaced with their real cases (Newtonian physics, Darwinian biology, quantum physics; "have been systematically torn down" verbatim) and their real diagnosis (fallacy of equivocation on "understanding"). Second-order-void paragraph's "Each of Vlerick and Boudry's examples" gloss aligned. Engagement classification — Kriegel: Mode One (in-framework: the representational reading escapes his question-logic argument, now buttressed by Demircioglu's verified reply); Vlerick & Boudry: exposition/adjudication, not refutation — no mode edit needed; no label leakage. Frontmatter: ai_system appended +claude-fable-5; last_deep_review untouched. NOT edited per task scope: concepts/mysterianism.md L132 (own P2 task). Follow-up P2 minted for the CONFABULATION ORIGIN: research/voids-closure-types-2026-04-18.md carries the same fabricated Demircioglu entry plus a wrong page range (147-158 vs 125-132). Synced; hugo mirror grep-verified (old strings 0, new wording present).
+- **Published**: yes
 
 ## 2026-08-20T01:34:00+00:00 - deep-review
 - **Status**: Success
