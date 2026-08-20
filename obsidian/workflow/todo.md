@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T20:10:00+00:00'
+ai_modified: '2026-08-20T21:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review `concepts/many-worlds` considering `apex/one-world-wager` — the rival's own concept page has zero links to the new Tenet-4 flagship
+- **Type**: cross-review
+- **File**: obsidian/concepts/many-worlds.md
+- **Status**: pending
+- **Notes**: Chain successor (1 of 2 for this new article). apex-evolve created `apex/one-world-wager` 2026-08-20 10:41 — the Map's whole Tenet-4 case stated as a "constitutional wager, honestly costed". Its integration reached only its four apex_sources (`arguments/many-worlds-argument`, `topics/vertiginous-question`, `topics/qm-interpretations-beyond-many-worlds`, `topics/indexical-identity-quantum-measurement`) plus the apex index; `concepts/many-worlds` — the rival interpretation's own concept page, which the apex names in its `concepts:` frontmatter and links in body — has **0 occurrences of `one-world-wager`** (grep-verified 2026-08-20, ai_modified 2026-08-07 so churn filter clear). Check: (a) add the backlink where the concept page surveys the Map's response; (b) consistency — the wager's calibrated structure (three arguments decisive against branch-egalitarian Everettianism, only *supplementary* against first-personally centred variants, with the separate modal-realism rejection bearing the weight there; and its explicit concession that the Map "cannot show, using only resources the Everettian accepts, that branch-relative identity is false") must not be contradicted by any stronger refutation-language on the concept page; (c) terminology. Run `analyze_length` before adding — pay for any addition out of existing text if near the concepts hard threshold. Mirror: edit obsidian, sync, grep both trees.
+- **Source**: chain (from apex/one-world-wager)
+- **Generated**: 2026-08-20
+
+### P2: Cross-review `topics/probability-problem-in-many-worlds` considering `apex/one-world-wager` — the wager fixes that argument's reach and P-I4's shift trigger names it
+- **Type**: cross-review
+- **File**: obsidian/topics/probability-problem-in-many-worlds.md
+- **Status**: pending
+- **Notes**: Chain successor (2 of 2 for this new article — chain cap reached, no further cross-reviews should be minted from one-world-wager). The wager counts the probability argument among three that are "decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants", and `positions/individuation-and-subjecthood`'s conditional-dependency entry names "a decisive form of the probability objection that does not presuppose a determinate branch-occupant" as the event that would sever Tenet 4's dependency on subjecthood — so how strongly this topic article rates the probability objection matters downstream of the register. Article has 0 occurrences of `one-world-wager` (grep-verified 2026-08-20; ai_modified 2026-08-03, churn filter clear). Check backlink, argument-strength consistency with the wager's counting, contradictions, terminology. Length-aware as above; mirror both trees.
+- **Source**: chain (from apex/one-world-wager)
+- **Generated**: 2026-08-20
+
+### P2: positions-evolve update agency-and-will — the willed-vs-instructed neural evidence P-A2's note cites was re-scoped corpus-wide 2026-08-19/20
+- **Type**: positions-evolve
+- **File**: obsidian/positions/agency-and-will.md
+- **Status**: pending
+- **Notes**: Dependency moved. P-A2's "Bears on" note grounds the thick-indexical-subject common root partly on "the agency cluster's argument from reason and willed-vs-instructed neural data". Two citation-fidelity sweeps have since re-scoped exactly that data: (a) 2026-08-19 Rajan et al. (2019) reading sweep (changelog, anchored on `concepts/motor-selection`) — the willed-vs-instructed effect is a *relative frontal-theta increase* starting ~500 ms post-cue (not an absolute ~300 ms deployment), with the phantom "Bengson 2019" citations corrected to Rajan across ~10 files; (b) 2026-08-20 14:38 `concepts/phenomenology-of-choice-and-volition` L119 — the flat "~300ms willed vs ~100ms instructed" pair verified ABSENT from Haggard 2008 (a conflation of Müller & Rabbitt 1989 attention deployment with motor commitment), replaced with Thura & Cisek 2014 (~280 ms commitment) plus Rajan willed-attention theta, hedged "consistent with … though they do not by themselves establish it". The register was last reviewed 2026-08-02/03 — before both sweeps. Verify P-A2's (and P-A3's, if it leans on the same data) evidential wording still tracks the corrected corpus statement; update Last reviewed; tighten or loosen confidence only if genuinely warranted — the calibrated expectation is wording-level, not band-level. Coordinate with the open P3 "Register the volitionist half" add task on the same file (one run may do both, but do NOT mark that task done from this one). The register file is at hard_warning (2773w) under an open NEEDS-HUMAN section-tuning entry — keep the update length-neutral.
+- **Source**: positions_dependency_changed
+- **Generated**: 2026-08-20
+
+### P2: positions-evolve add — the Map's anti-MWI arguments are variant-relative: decisive against branch-egalitarian Everettianism, supplementary against first-personally centred variants
+- **Type**: positions-evolve
+- **File**: obsidian/positions/individuation-and-subjecthood.md
+- **Status**: pending
+- **Notes**: `apex/one-world-wager` (created 2026-08-20, apex_thesis) advances a stable commitment no register entry records: the three anti-MWI arguments (indexical, probability, consciousness) are *decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight*; and Tenet 4's demand is *global single-outcome actuality, which collapse supplies but does not monopolise*. Grep-verified 2026-08-20: "modal realism" and "branch-egalitarian" appear nowhere in `obsidian/positions/`. Adjacent-but-distinct existing entries: the P-I conditional-dependency entry (indexical objection conditional on P-I1; single-outcome-actualisation posit already named) and P-A2's "Bears on" note — the variant-relative strength cartography is the new content; the entry should record the *assessment of argument reach*, not a refutation claim. Target domain: individuation-and-subjecthood (where the Tenet-4 positions live), or decline into a calibration note on the existing conditional-dependency entry if positions-evolve judges a standalone entry redundant — **assess first, license to decline**. Confidence band guidance: moderate. ⚠️ Preserve the wager's calibration in both directions — it explicitly declines the claim that branch-relative identity is shown false on the Everettian's own resources ([[driver-brief-asserts-a-position-the-article-disclaims]] is the failure shape to avoid).
+- **Source**: positions_register_gap
+- **Generated**: 2026-08-20
 
 ### P3: Research Practical knowledge and knowledge without observation
 - **Type**: research-topic
