@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-08-20)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a43cfafb4876ea27b.jsonl shows 2x claude-opus-5 message(s) alongside the primary model between 2026-08-20T06:56:50.310000+00:00 and 2026-08-20T06:56:50.401000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-08-20
+
 ### P3: Research Subject fusion under closed individualism
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-08-20-self-audit-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-self-audit-wing: concepts/moral-census-opacity itself declares 'The Map has no worked account of subject fusion', and the absence is real — zero 'fusion' hits in apex/mereology-of-mind. Splitting has treatments (split-brain, fission cases); fusion has none. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/subject-fusion-closed-individualism-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'subject-fusion-closed-individualism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
