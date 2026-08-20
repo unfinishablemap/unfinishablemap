@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T23:05:00+00:00'
+ai_modified: '2026-08-20T23:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-20T23:12 UTC - positions-evolve (update P-A2)
+- **Status**: Success
+- **File**: [[positions/agency-and-will]]
+- **Trigger**: queue task — the willed-vs-instructed neural evidence P-A2's "Bears on" note cites was re-scoped corpus-wide by the 2026-08-19 Rajan et al. (2019) reading sweep (anchor `concepts/motor-selection`) and the 2026-08-20 `concepts/phenomenology-of-choice-and-volition` L119 fix; register last reviewed 2026-08-02/03, before both
+- **Changes**: P-A2 "Bears on" common-root grounds re-scoped to the corrected corpus statement — "willed-vs-instructed neural data" now glossed as a relative frontal-theta increase (willed over instructed), read as consistent with rather than establishing conscious engagement, matching `concepts/agent-causation` L125/L146 and `concepts/phenomenology-of-choice-and-volition` L119. Dated update note added (cites Rajan ~500 ms post-cue theta; the absolute ~300/~100 ms pair verified absent from Haggard 2008). Last reviewed → 2026-08-20. Wording-level only, per the task's calibrated expectation: no credence/grade/status change — the note's grade-D calibration and common-root role never depended on the discredited absolute-latency reading. Oldest history note (2026-06-17) summarised per the keep-three-summarise-older convention (full text survives in [[reviews/pessimistic-2026-06-17-positions-registers]] and the completed todo record). Length 2773 → 2788 (hard_warning register file under the open NEEDS-HUMAN section-tuning entry; +15 net, length-neutral)
+- **Verified, no change**: P-A1 — its "neural data distinguishing willed from instructed action" and grade-C parenthetical remain accurate under the corrected relative-increase reading; the cited anchor source `concepts/agent-causation` retains the willed-vs-instructed anchor post-sweep with calibrated hedging. P-A3 — leans on Schurger 2012 / Sjöberg 2024 / Desmurget 2009 / Soon 2008, none touched by the sweeps (Desmurget dissociation explicitly kept intact in the 08-20 fix); Last reviewed dates left unbumped on both (narrow-scope verification, not full review)
+- **Cascade**: none needing edits — downstream citers of P-A2's note (`positions/individuation-and-subjecthood` P-I1/P-I2, `positions/positions.md`, tenets subjecthood note) reference its common-root *structure*, not the neural-data gloss; grep confirms the re-scoped wording appears nowhere else in `obsidian/positions/`
+- **Coordination**: open P3 "Register the volitionist half" add task on the same file left open and untouched (separate add run; this run deliberately did not add ~250 words to a hard_warning file alongside a length-neutral update)
+- **ai_system**: appended +claude-fable-5
+
 ## 2026-08-20T23:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]
