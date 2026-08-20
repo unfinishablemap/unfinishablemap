@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-20T13:11 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Word count**: 2169 → 2246 (+77)
+- **Critical issues addressed**: 2 (lead-vs-body calibration drift — lead's "demonstrates … meanings that cannot be reduced to neural response patterns" re-scoped to match the body's hedged MMN-concession framing per the evidential-status registry-vs-body diff; Farennikova 2013 mis-framed as "a version of" the Gestalt account — raw published PDF grep-confirmed her mismatch model is expectation-based (VWM template projection, predictive error as mismatch), re-framed as same-conclusion-different-mechanism, not deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 cross-links ([predictive-processing](/concepts/predictive-processing/) inline at the previously bare "Predictive processing frameworks" mention; [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) Further Reading + related_articles — outbound only, no neighbour files touched)
+- **Reading-fidelity ledger**: Farennikova 2013 raw-PDF-verified faithful (she even uses a gap-in-a-row example); James "the gap" grep-verified verbatim at Gutenberg ebook 57628 L9673-9679; Sartre Wellington/Valéry contrast confirmed faithful via academic sources quoting the primary text; Heidegger/Näätänen/Husserl unchanged since the 2026-06-25 6/6 publisher-verified ledger (References block byte-unchanged); superlative sweep zero
+- **Engagement classification** (editor-internal): predictive-processing functionalist reply in the Sartre section — mixed, in-framework concession then boundary-marked phenomenal residue; already in natural prose, no upgrade needed
+- **Output**: [deep-review-2026-08-20-phenomenology-of-attention-to-absence](/reviews/deep-review-2026-08-20-phenomenology-of-attention-to-absence/)
+
 ## 2026-08-20T13:10 UTC - refine-draft
 - **Status**: Success
 - **File**: [cross-modal-capability-division](/apex/cross-modal-capability-division/)

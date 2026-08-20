@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-19 01:38:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-20 13:11:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -10,16 +10,17 @@ concepts:
 - '[[introspection]]'
 - '[[intentionality]]'
 - '[[perception]]'
+- '[[predictive-processing]]'
 created: 2026-02-19
-date: &id001 2026-08-19
+date: &id001 2026-08-20
 description: How consciousness attends to what isn't there—the distinctive phenomenal
   character of noticing gaps, missing objects, and silence, explored through human-AI
   philosophical inquiry.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 23:16:00+00:00
-lastmod: 2026-08-19 01:38:34+00:00
+last_deep_review: 2026-08-20 13:11:00+00:00
+lastmod: 2026-08-20 13:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,12 +30,13 @@ related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[transit-void]]'
+- '[[presence-type-and-absence-type-voids]]'
 title: The Phenomenology of Attention to Absence
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness can attend to what is not there. You notice the missing picture on the wall, the silence where the clock used to tick, the friend who didn't come to dinner. This capacity — attending to absence — is philosophically remarkable because it resists standard accounts of perception. There is no stimulus causing the experience. No light enters the eye from a gap; no sound wave encodes silence. Yet the absence is experienced with a specificity and vividness that rivals the perception of present objects. The Unfinishable Map holds that attention to absence reveals something important about the structure of consciousness: it demonstrates that experience is not merely reactive to physical inputs but actively structured by expectations, intentions, and meanings that cannot be reduced to neural response patterns.
+Consciousness can attend to what is not there. You notice the missing picture on the wall, the silence where the clock used to tick, the friend who didn't come to dinner. This capacity — attending to absence — is philosophically remarkable because it resists standard accounts of perception. There is no stimulus causing the experience. No light enters the eye from a gap; no sound wave encodes silence. Yet the absence is experienced with a specificity and vividness that rivals the perception of present objects. The Unfinishable Map holds that attention to absence reveals something important about the structure of consciousness: it demonstrates that experience is not merely reactive to physical inputs but actively structured by expectations, intentions, and meanings. Whether that structuring can be reduced to neural response patterns is the contested question — the Map argues below that the felt character of experienced absence resists such reduction.
 
 ## The Puzzle of Determinate Absence
 
@@ -64,11 +66,11 @@ The standard empiricist picture of perception has difficulty with absence-percep
 
 **The counterfactual account.** Absence-perception involves implicit counterfactual reasoning: "the picture *would be* here if it hadn't been removed." On this view, you perceive the wall as it is and simultaneously represent how it should be. The experience of absence is the felt discrepancy between actual and expected. This account is plausible for reflective absences but struggles with the immediacy of perceptual absence. When you scan the café for Pierre, you do not seem to be running counterfactuals — you seem to *see* his absence directly.
 
-**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. Predictive processing frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive. The [phenomenology of anticipation](/topics/phenomenology-of-anticipation/) explores the experiential side of this: [protention](/concepts/temporal-consciousness/) — Husserl's forward-directed structure of present experience — creates the expectational field against which absence registers.
+**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. [Predictive processing](/concepts/predictive-processing/) frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive. The [phenomenology of anticipation](/topics/phenomenology-of-anticipation/) explores the experiential side of this: [protention](/concepts/temporal-consciousness/) — Husserl's forward-directed structure of present experience — creates the expectational field against which absence registers.
 
 This account has empirical support. The mismatch negativity (MMN) in auditory processing occurs when an expected sound fails to appear, even without conscious attention (Näätänen et al., 2007). The brain registers the absence before consciousness does. But the account leaves open why prediction errors for absent stimuli feel *like that* — why the missing clock-tick has the phenomenal character of silence-where-sound-should-be rather than simply triggering an alert.
 
-**The Gestalt account.** Absence is perceived because perception is structured by wholes, not built up from parts. The row of books with a gap is perceived as a broken whole, not as a collection of individual books plus empty space. The gap belongs to the perceptual structure just as the books do. Absence is a structural feature of the perceived field, not a missing element. Farennikova (2013) develops a version of this approach, arguing that seeing absence is genuinely perceptual rather than inferential — the visual system matches current input against stored templates and registers mismatches as perceived gaps. This account sits well with the Map's view that consciousness actively structures experience rather than passively receiving inputs.
+**The Gestalt account.** Absence is perceived because perception is structured by wholes, not built up from parts. The row of books with a gap is perceived as a broken whole, not as a collection of individual books plus empty space. The gap belongs to the perceptual structure just as the books do. Absence is a structural feature of the perceived field, not a missing element. Farennikova (2013) defends the same conclusion — seeing absence is genuinely perceptual rather than inferential — by a different mechanism: the visual system projects templates of expected objects from visual working memory and registers mismatches as perceived absences. Her mismatch model is expectation-based, kin to the expectation-violation account above rather than to Gestalt holism, but it supplies the premise the Gestalt account needs: absence belongs to perceptual content itself, not to judgment after the fact. Both accounts sit well with the Map's view that consciousness actively structures experience rather than passively receiving inputs.
 
 ## Sartre and the Négatité
 
@@ -110,6 +112,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, retention, and protention
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How places are partly constituted by what is missing from them
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What consciousness encounters at its limits
+- [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) — The voids taxonomy's cross-cutting axis: what consciousness lacks versus what overwhelms it
 
 ## References
 
