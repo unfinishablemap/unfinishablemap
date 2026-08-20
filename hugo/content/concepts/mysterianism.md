@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-31 00:22:43+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-20 13:52:59+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 12:15:12+00:00
-lastmod: 2026-07-31 00:22:43+00:00
+lastmod: 2026-08-20 13:52:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-The [question of whether cognitive limits are genuine](/voids/meta-epistemology-of-limits/) may be undecidable from within any limited system. The meta-epistemology of cognitive limits addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp). The [closure-types void](/voids/closure-types-void/) develops this into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
+The [question of whether cognitive limits are genuine](/voids/meta-epistemology-of-limits/) may be undecidable from within any limited system. The meta-epistemology of cognitive limits addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it (Kriegel 2003)—and Demircioglu's reply that understanding a question does not require the capacity to understand its possible answers: a child can understand "where is x?" even when some answers would demand concepts from the theory of relativity (Demircioglu 2017). Vlerick and Boudry supply the complementary distinction between *psychological* closure (what we cannot grasp) and what they call cognitive closure—"a principled inaccessibility of a true theory"—which the Map glosses as *representational* closure, what we cannot frame (Vlerick & Boudry 2017). The [closure-types void](/voids/closure-types-void/) develops this distinction into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
 
 The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides formal warrant through four methods: failure analysis, convergence, structural inference, and [apophatic reasoning](/concepts/apophatic-approaches/). These dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
 
@@ -213,10 +213,12 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 1. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
+1. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Graziano, M. S. A. (2024). "Illusionism Big and Small: Some Options for Explaining Consciousness." *eNeuro*, 11(10), ENEURO.0210-24.2024.
 1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
+1. Kriegel, U. (2003). "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica*, 18, 177-191.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
 1. McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
@@ -224,3 +226,4 @@ The Map goes further than mysterianism in making specific commitments—but pres
 1. Rescher, N. (2009). *Ignorance: On the Wider Implications of Deficient Knowledge*. University of Pittsburgh Press.
 1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *The Philosophical Review*, 117(2), 245-273.
 1. Tallis, R. (2024). "Tallis in Wonderland: The Illusion of Illusionism." *Philosophy Now*, 161, 58-59.
+1. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(1), 101-115.

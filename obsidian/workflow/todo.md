@@ -2720,14 +2720,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review (deferred residue, Remaining Items of `reviews/deep-review-2026-08-18-content-vocabulary-as-derived-feature.md`)
 - **Generated**: 2026-08-19
 
-### P2: `concepts/mysterianism` glosses "Demircioglu's reply" as distinguishing representational from psychological closure — vocabulary absent from Demircioglu (2017)
-- **Type**: refine-draft
-- **File**: obsidian/concepts/mysterianism.md
-- **Status**: pending
-- **Notes**: From `reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md` (§2.4 family resolution). L132 reads "…Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp)." Full raw text of Demircioglu 2017 grepped this run: zero `repre*`, zero `psychological` (see the closure-types-void task directly above for the complete evidence trail, retrieval location, and the canonical Vlerick & Boudry tuple — the two tasks share one verification base and should be done together if picked in the same session). Demircioglu's verifiable reply: understanding a question does not require the capacity to understand its possible answers (child/'where is x?' example), plus the McGinn/Chomsky inadequate-formulation move. FIX is a one-to-two-sentence re-attribution once the true source of the representational/psychological vocabulary is pinned (Vlerick & Boudry 2017 *Dialectica* 71(1), 101-115 is the named lineage; Kriegel 2003 or Demircioglu's *Minds and Machines* 26(3), 227-241 paper are the other candidates). The corrected Demircioglu paragraph in `concepts/epistemology-of-limit-knowledge.md` (2026-08-19 deep-review) is the model phrasing: source's verified claim first, Map vocabulary explicitly marked as the Map's. Keep the downstream sentence about the closure-types second-order result — only the attribution clause is defective. Hold `ai_system`; move `ai_modified` on edit; sync both trees.
-- **Source**: deep-review (reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md)
-- **Generated**: 2026-08-19
-
 ### P2: `concepts/phenomenology-of-choice-and-volition` L119 asserts uncited "willed movements take ~300ms to initiate versus ~100ms for instructed movements" — pair verified ABSENT from Haggard 2008 full text and refuted as a motor-latency result
 - **Type**: refine-draft
 - **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
@@ -2789,6 +2781,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-20: `concepts/mysterianism` glosses "Demircioglu's reply" as distinguishing representational from psychological closure — vocabulary absent from Demircioglu (2017)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mysterianism.md
+- **Notes**: From `reviews/deep-review-2026-08-19-epistemology-of-limit-knowledge.md` (§2.4 family resolution). L132 reads "…Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp)." Full raw text of Demircioglu 2017 grepped this run: zero `repre*`, zero `psychological` (see the closure-types-void task directly above for the complete evidence trail, retrieval location, and the canonical Vlerick & Boudry tuple — the two tasks share one verification base and should be done together if picked in the same session). Demircioglu's verifiable reply: understanding a question does not require the capacity to understand its possible answers (child/'where is x?' example), plus the McGinn/Chomsky inadequate-formulation move. FIX is a one-to-two-sentence re-attribution once the true source of the representational/psychological vocabulary is pinned (Vlerick & Boudry 2017 *Dialectica* 71(1), 101-115 is the named lineage; Kriegel 2003 or Demircioglu's *Minds and Machines* 26(3), 227-241 paper are the other candidates). The corrected Demircioglu paragraph in `concepts/epistemology-of-limit-knowledge.md` (2026-08-19 deep-review) is the model phrasing: source's verified claim first, Map vocabulary explicitly marked as the Map's. Keep the downstream sentence about the closure-types second-order result — only the attribution clause is defective. Hold `ai_system`; move `ai_modified` on edit; sync both trees.
 
 ### ✓ 2026-08-20: `apex/altered-states-as-interface-evidence` reads altered states as interface disassembly without testing the active-inference deflationary rival
 - **Type**: refine-draft

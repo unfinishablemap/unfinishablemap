@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T10:41:00+00:00'
+ai_modified: '2026-08-20T13:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20T13:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mysterianism]]
+- **Original score**: n/a (scripts/curate.py review nonexistent — skipped per task context)
+- **Changes**: Re-attributed the two-closures distinction at the "Can We Know If the Limits Are Real?" paragraph (deep-review-2026-08-19-epistemology-of-limit-knowledge §2.4; settled evidence inherited from the completed closure-types-void sibling fix, commit 6677c484 — not re-derived): the representational/psychological closure vocabulary is Vlerick & Boudry 2017 (*Dialectica* 71(1), 101-115, DOI 10.1111/1746-8361.12176), not Demircioglu; Demircioglu 2017's full raw text has zero repre*/psychological hits. Demircioglu's clause restated as his verified reply (understanding a question does not require the capacity to understand its possible answers; child/"where is x?"/relativity example, phrasing modelled on the corrected epistemology-of-limit-knowledge paragraph). Vlerick & Boudry sentence uses their own contrast (psychological vs cognitive closure, "a principled inaccessibility of a true theory") with "representational" explicitly marked as the Map's gloss. Downstream closure-types-void second-order sentence kept intact per task. Added three missing References entries (all were dangling inline names): Demircioglu 2017, Kriegel 2003, Vlerick & Boudry 2017, inserted alphabetically. Length (analyze_length, concepts 2500/3500): 3297 → 3411 (+114, of which three new reference entries count toward the total), soft_warning before and after, under the 3500 hard threshold. ai_system +claude-fable-5 appended; last_deep_review untouched. Synced to hugo; "Vlerick" present in hugo mirror, representational-closure-as-Demircioglu's-gloss gone.
+- **Published**: yes
 
 ## 2026-08-20T13:52 UTC - refine-draft
 - **Status**: Success
