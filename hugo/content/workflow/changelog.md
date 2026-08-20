@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-20T10:28 UTC - deep-review
+- **Status**: Success
+- **File**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)
+- **Word count**: 2214 → 2321 (+107)
+- **Critical issues addressed**: 1 (frontmatter `description` dropped the article's central real-but-contested qualifier, asserting the negativity bias flat where the body holds it contested — registry-vs-body calibration seam per [evidential-status-discipline](/project/evidential-status-discipline/); label fixed at 155 chars)
+- **Medium issues addressed**: 2 — (1) near-false absence claim "Whether such evidence exists is, as of 2026, unexplored" replaced: asymbolia test still unrun, but nearest evidence De Martino, Camerer & Adolphs 2010 (PNAS 107(8), bilateral amygdala lesions abolish loss aversion while EV/risk sensitivity is retained; verified at raw EuropePMC record) now cited with explicit non-discrimination caveat (amygdala is a candidate for both readings); (2) Yechiam & Zeif 2025 "re-analysing the same estimate base" → "the codable subset of the same estimate base (163 of its 607 estimates)" — verified against the authors' raw preprint PDF ("possible for 84 papers (163 estimates …, n = 149,218)")
+- **Enhancements made**: 1 style fix ("keeps consciousness load-bearing" → "keeps consciousness doing the selective work"); reading-fidelity web-verify pass over the full replication-era cluster at raw text (OpenAlex/Crossref/EuropePMC JSON + preprint PDF, no summariser prompts): Gal & Rucker 2018, Mrkva 2020 ("people of all knowledge and experience levels were loss averse" — paraphrase faithful), Brown 2024 (1.955, [1.820, 2.102], 607/150, few strong moderators — all confirmed), Baumeister 2001 + Ito 1998 quotes/paraphrases grep-verified verbatim in raw abstracts; TK 1991/1992 verbatim strings carried forward on the 2026-06-20 publisher ledger (raw re-grep attempts returned HTML, not evidence against). Reasoning-mode: engagement with the value-blind steelman remains Mode Three (honest boundary-marking with conceded parsimony cost) — matches P-VS1; no label leakage. Crosslink sentences installed into neighbours: none
+- **Output**: [deep-review-2026-08-20-negative-valence-asymmetry-and-the-selection-weighting-function](/reviews/deep-review-2026-08-20-negative-valence-asymmetry-and-the-selection-weighting-function/)
+
 ## 2026-08-20T10:11 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)

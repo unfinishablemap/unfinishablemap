@@ -1,11 +1,11 @@
 ---
 title: "Negative-Valence Asymmetry and the Selection Weighting Function"
-description: "If felt value selects outcomes, selection weighs negatives more than positives—so the value-sensitive horn needs a negatively-biased weighting function."
+description: "If felt value selects outcomes and the contested behavioural negativity bias is real, the value-sensitive law needs a negatively-biased weighting function."
 created: 2026-06-18
 modified: 2026-08-20
 human_modified:
-ai_modified: 2026-08-20T01:34:00+00:00
-last_deep_review: 2026-07-07T08:22:17+00:00
+ai_modified: 2026-08-20T10:28:00+00:00
+last_deep_review: 2026-08-20T10:28:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-06-18
 last_curated:
 ---
@@ -39,7 +39,7 @@ Both programmes carry the same lesson for the Map. If selection were value-sensi
 
 ## The Asymmetry Is Real-but-Contested, Not a Pillar
 
-The Map cannot lean on loss aversion as settled, and saying so is part of getting the argument right. Gal and Rucker (2018) argue that current evidence does not support a general tendency for losses to loom larger than gains; the effect is contingent on context, and canonical support such as the endowment effect admits alternative explanations. The defensible reading treats the behavioural asymmetry as real-with-moderators—Mrkva et al. (2020) find everyone loss-averse but with domain experience attenuating it, and the Brown et al. (2024) meta-analysis finds a stable mean with few strong moderators—while Yechiam and Zeif's (2025) re-meta-analysis disputes even that robustness, re-analysing the same estimate base and finding loss aversion robust only under asymmetric amounts or size-ordered presentation; under symmetric amounts with no ordering the coefficient falls to λ ≈ 1.07, not significantly above one. The debate is live.
+The Map cannot lean on loss aversion as settled, and saying so is part of getting the argument right. Gal and Rucker (2018) argue that current evidence does not support a general tendency for losses to loom larger than gains; the effect is contingent on context, and canonical support such as the endowment effect admits alternative explanations. The defensible reading treats the behavioural asymmetry as real-with-moderators—Mrkva et al. (2020) find everyone loss-averse but with domain experience attenuating it, and the Brown et al. (2024) meta-analysis finds a stable mean with few strong moderators—while Yechiam and Zeif's (2025) re-meta-analysis disputes even that robustness, re-analysing the codable subset of the same estimate base (163 of its 607 estimates) and finding loss aversion robust only under asymmetric amounts or size-ordered presentation; under symmetric amounts with no ordering the coefficient falls to λ ≈ 1.07, not significantly above one. The debate is live.
 
 Two layers of caution follow. First, the *behavioural* asymmetry is robust-with-moderators at best, not a law. Second, and harder, the move from *that* asymmetry to a *felt* asymmetry is a further inference the data do not license. Prospect theory is a model of decision behaviour; the negativity-bias programme describes information processing. Neither measures phenomenology. Whether the felt badness of losing is genuinely *larger* than the felt goodness of an equal gain—rather than merely weighted more heavily by the machinery that acts on it—is precisely the open question, and introspective evidence on it is thin and confounded.
 
@@ -55,13 +55,13 @@ This is the value-blind steelman's "selection runs on mechanism, not felt value,
 
 The honest question the asymmetry forces is whether the λ greater than one is a property of *felt value*—negatives are simply felt as larger—or of the *mechanism that reads felt value*—the controller over-weights negative signals. Each answer pays.
 
-If the Map locates the asymmetry in **felt value**, it adds structure to the selection currency itself: phenomenal valence is not a single signed dimension but a dimension with an intrinsic negative tilt. This keeps consciousness load-bearing but raises the bar on what felt value must be, and it commits the Map to a felt-asymmetry the introspective evidence does not establish.
+If the Map locates the asymmetry in **felt value**, it adds structure to the selection currency itself: phenomenal valence is not a single signed dimension but a dimension with an intrinsic negative tilt. This keeps consciousness doing the selective work but raises the bar on what felt value must be, and it commits the Map to a felt-asymmetry the introspective evidence does not establish.
 
 If the Map locates the asymmetry in the **reading mechanism**, the currency stays simple but the value-blind rival gains ground: the controller already weights negative inputs more, which is one step from "the controller does the selecting and the feeling is along for the ride." This is the same near-epiphenomenalism trap the [[affective-forecasting-gap|forecasting gap]] tracks in the temporal dimension.
 
 The defensible move parallels the forecasting-gap reply: hold felt valence as metaphysically authoritative—it constitutes value, the felt badness of suffering being intrinsic ([[consciousness-value-connection]])—while conceding that the *weighting* applied to it in selection may be a parameter of the reading channel rather than a feature of the feeling. The asymmetry is then a property of *how value is consulted*, not necessarily of value itself. This concedes real ground at the level of the selection law while preserving the metaphysics, and it must be argued, not asserted.
 
-The distinction is testable, which keeps it from being a verbal dodge. [[pain-asymbolia|Pain asymbolia]]—where pain is felt but its badness is not—is the discriminating exhibit the parent fork already collates for the general value-sensitivity case. The sharper test specific to *this* axis is whether asymbolics, or subjects with the felt-badness dimension disrupted, lose loss aversion *specifically*. If the behavioural asymmetry survives intact when felt negative value is abolished, the asymmetry lives in the mechanism; if it tracks the felt dimension, it lives in the currency. Whether such evidence exists is, as of 2026, unexplored—but the two readings come apart in principle, which is where the value-sensitive horn earns the right to its disambiguation.
+The distinction is testable, which keeps it from being a verbal dodge. [[pain-asymbolia|Pain asymbolia]]—where pain is felt but its badness is not—is the discriminating exhibit the parent fork already collates for the general value-sensitivity case. The sharper test specific to *this* axis is whether asymbolics, or subjects with the felt-badness dimension disrupted, lose loss aversion *specifically*. If the behavioural asymmetry survives intact when felt negative value is abolished, the asymmetry lives in the mechanism; if it tracks the felt dimension, it lives in the currency. The asymbolia version of that test is, as of 2026, unrun. The nearest existing evidence—two patients with focal bilateral amygdala lesions who kept a normal ability to respond to changes in expected value and risk while showing dramatically reduced loss aversion (De Martino, Camerer and Adolphs 2010)—shows the asymmetry can be selectively abolished, but it does not discriminate the readings, because the amygdala is as good a candidate for the reading channel as for the felt dimension. The two readings still come apart in principle, which is where the value-sensitive horn earns the right to its disambiguation.
 
 ## Relation to Site Perspective
 
@@ -92,9 +92,10 @@ This concept closes an open question the Map had deferred and sharpens, rather t
 4. Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323–370. https://doi.org/10.1037/1089-2680.5.4.323
 5. Ito, T. A., Larsen, J. T., Smith, N. K., & Cacioppo, J. T. (1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. *Journal of Personality and Social Psychology*, 75(4), 887–900.
 6. Dabney, W., Kurth-Nelson, Z., Uchida, N., Starkweather, C. K., Hassabis, D., Munos, R., & Botvinick, M. (2020). A distributional code for value in dopamine-based reinforcement learning. *Nature*, 577(7792), 671–675. https://doi.org/10.1038/s41586-019-1924-6
-7. Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain? *Journal of Consumer Psychology*, 28(3), 497–516. https://doi.org/10.1002/jcpy.1047
-8. Mrkva, K., Johnson, E. J., Gächter, S., & Herrmann, A. (2020). Moderating loss aversion: Loss aversion has moderators, but reports of its death are greatly exaggerated. *Journal of Consumer Psychology*, 30(3), 407–428. https://doi.org/10.1002/jcpy.1156
-9. Brown, A. L., Imai, T., Vieider, F. M., & Camerer, C. F. (2024). Meta-analysis of empirical estimates of loss aversion. *Journal of Economic Literature*, 62(2), 485–516. https://doi.org/10.1257/jel.20221698
-10. Yechiam, E., & Zeif, D. (2025). Loss aversion is not robust: A re-meta-analysis. *Journal of Economic Psychology*, 107, 102801. https://doi.org/10.1016/j.joep.2025.102801
-11. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-12. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+7. De Martino, B., Camerer, C. F., & Adolphs, R. (2010). Amygdala damage eliminates monetary loss aversion. *Proceedings of the National Academy of Sciences*, 107(8), 3788–3792. https://doi.org/10.1073/pnas.0910230107
+8. Gal, D., & Rucker, D. D. (2018). The loss of loss aversion: Will it loom larger than its gain? *Journal of Consumer Psychology*, 28(3), 497–516. https://doi.org/10.1002/jcpy.1047
+9. Mrkva, K., Johnson, E. J., Gächter, S., & Herrmann, A. (2020). Moderating loss aversion: Loss aversion has moderators, but reports of its death are greatly exaggerated. *Journal of Consumer Psychology*, 30(3), 407–428. https://doi.org/10.1002/jcpy.1156
+10. Brown, A. L., Imai, T., Vieider, F. M., & Camerer, C. F. (2024). Meta-analysis of empirical estimates of loss aversion. *Journal of Economic Literature*, 62(2), 485–516. https://doi.org/10.1257/jel.20221698
+11. Yechiam, E., & Zeif, D. (2025). Loss aversion is not robust: A re-meta-analysis. *Journal of Economic Psychology*, 107, 102801. https://doi.org/10.1016/j.joep.2025.102801
+12. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+13. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
