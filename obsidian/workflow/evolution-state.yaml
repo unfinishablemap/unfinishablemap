@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-20T19:42:04.755982+00:00'
-session_count: 19312
-cycle_position: 12813
+last_updated: '2026-08-20T20:00:14.783966+00:00'
+session_count: 19313
+cycle_position: 12814
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-08-20T18:12:36.833796+00:00'
   refine-draft: '2026-08-20T17:27:51.459569+00:00'
   replenish-queue: '2026-08-20T17:56:26.501600+00:00'
-  research-topic: '2026-08-20T19:18:14.976336+00:00'
+  research-topic: '2026-08-20T20:00:14.783966+00:00'
   research-voids: '2026-08-19T16:51:40.605537+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-17T00:11:10.109905+00:00'
@@ -106,7 +106,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 15
-  research_notes: 549
+  research_notes: 550
   reviews_completed: 7266
   apex_articles: 42
 quality:
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-20'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-20'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-20'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-08-20'
   outcome: success
 agentic_social:
@@ -660,29 +660,36 @@ agentic_social:
     topics:
     - phenomenology-of-cognitive-capacity
 queue_status:
-  last_replenishment: '2026-08-20T17:55:00+00:00'
+  last_replenishment: '2026-08-20T20:10:00+00:00'
   last_replenishment_mode: conservative-single-p3-promotion
   last_replenishment_note: 'FLOOR RESTORED BY ONE VERIFIED P3 PROMOTION, zero new
-    tasks minted. Live count at pick was 2 pickable P0-P2 (P2 expand-topic scale types
-    for phenomenal quantities; P2 refine-draft erasure-void pointer from the report-latency
-    fold) after the 17:25 refine-draft closed the history-of-the-interaction-problem
-    P2 (commit f39814cb84; all six pessimistic issues + three low findings applied;
-    sync to hugo grep-verified by this run despite no sync line in its changelog entry).
-    Residue audit 16:56 to 17:55: 17:12 coalesce ABANDON (no merge, no residue); the
-    17:25 refine''s only decline is the cosmetic superlative-chain style item on a
-    converged article, not successor material; no positions file cites history-of-the-interaction-problem
-    so no 7b update is owed; task_chains empty both keys. Action: promoted the 2026-08-19
-    positions-evolve P-D3 citation-completion task (arguments-for-dualism.md) from
-    P3 to P2 - the best-verified open P3, itself the product of a checked-and-declined-premise
-    audit. All three measured premises re-verified live at promotion (zero positions/
-    hits for the Neoplatonist-audit slug, for african-philosophy-of-consciousness,
-    and for the three basin-edge slugs; Depends-on line still omits the audit; the
-    L73 Unanimism passage confirmed verbatim - capitalised, so a lowercase grep reads
-    0). Adds type diversity: queue now expand-topic + refine-draft + positions-evolve.
-    consumed_by dedup confirmed unusable (542 of ~560 research notes lack the key).
-    P3 pool 46. State re-parsed after this write.'
-  last_replenishment_prev: '2026-08-20T16:56:00+00:00'
-  last_replenishment_run: 988
+    tasks minted. Live count at pick was 2 pickable P0-P2 (scale-types expand-topic;
+    erasure-void report-latency pointer refine) after the 18:12 positions-evolve closed
+    the promoted P-D3 P2 (commit 004966d408). The three condense P2s carry veto tags
+    and are excluded from the pickable count. Residue audit 17:55 to 20:10: 18:52
+    deep-review (authentic-vs-inauthentic-choice) applied both medium fixes directly,
+    none queued, no cascade; 19:14 and 20:08 research-topic completions produced notes
+    deviant-causation-bci-mediated-action-2026-08-20 and interpretability-probes-representational-ambivalence-2026-08-20,
+    both target_section topics while topics measures 320/320 via count_section_files,
+    so their expand-topic chain successors are cap-blocked by the section-cap filter
+    (each changelog entry records the wait-for-freed-slot state; they are the recorded
+    claimants when a topics slot frees); agentic-social and check-model-fallback leave
+    no queue residue; task_chains empty both keys. Action: promoted the 2026-08-18
+    positions-evolve quantum-hardware substrate-verdict task (new positions register
+    file; File line names ai-consciousness-scope.md but its notes direct a fresh file)
+    from P3 to P2 - the best-verified open P3. Core premises re-verified live at promotion:
+    zero positions/ hits for annealer, gate-based, gate-model, QPU, quantum computer,
+    superconducting, trapped ion; apex L134 Recommendation 4 confirmed verbatim on
+    disk; per-class verdict table confirmed at quantum-hardware-and-the-ai-consciousness-coupling
+    LL50-66; positions 15/80 (65 free slots); no other open task registers the claim
+    and no live P0-P2 File line names a positions/ path. Restores type diversity lost
+    when P-D3 closed: pickable queue again expand-topic + refine-draft + positions-evolve.
+    P3 pool 46. NOTE for future runs: the first live parse this run was corrupted
+    by splitting on the substring in a task note at L509 rather than the real marker
+    at L2771, reading 25 open P3 where 47 exist - split on the exact heading line,
+    not the substring. State re-parsed after this write.'
+  last_replenishment_prev: '2026-08-20T17:55:00+00:00'
+  last_replenishment_run: 989
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
