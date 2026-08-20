@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T02:50:00+00:00'
+ai_modified: '2026-08-20T03:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 03:45 UTC - coalesce
+
+- **Status**: Success (ABANDON — no merge)
+- **Decision**: **ABANDON.** Re-derived against the changed pool (post-08-18 luck-objection merge, minus the ~17 files touched 08-19/20), not re-asserted. TF-IDF cosine over 777 live articles in `topics/ concepts/ voids/ apex/` (frontmatter/code/URLs stripped, IDF-weighted, L2-normalised): every pair above 0.55 similarity is either the documented topic/concept twin pattern (architecture, not redundancy) or length-infeasible against the target section's hard ceiling. **Pairs both similar (>0.55), length-feasible, and role-redundant: zero.**
+- **Sections at pressure**: topics 320/320, voids 99/100, concepts 318/320 — searched topics first (a merge there frees the only slot), then voids, then the corpus-wide metric.
+- **Pairs considered and why each fails**:
+  - `topics/consciousness-and-probability-interpretation` + `topics/quantum-measurement-and-subjective-probability` (closest thematic match, smallest combined size 5,339w): role-differentiated — probability-intuition paradox as clue vs structural-dependence critique of QBism; they cross-cite each other with distinct framings; combined exceeds the topics 4,000w hard ceiling even after dedup.
+  - `forward-in-time-conscious-selection` / `forward-in-time-vs-time-symmetric-selection` / `time-symmetric-selection-mechanism`: the comparison article exists *because* the two mechanism articles are distinct positions; any pair >6,400w combined; middle article deep-reviewed 08-04 (fresh fixes would be buried).
+  - `dream-consciousness` + `lucid-dreaming-and-dualist-rendering`: survey vs evidence-argument roles; 6,872w combined.
+  - Aesthetics cluster (`aesthetics-and-consciousness` / `aesthetics-beyond-art` / `the-sublime-and-negative-aesthetics`): subject-matter partitioned, all pairs over ceiling.
+  - Meditation cluster (`comparative-phenomenology-of-meditative-traditions` + `affective-tone-divergence-across-meditative-traditions`): divergence-problem article is a deliberate sub-question spin-off; 7,112w combined.
+  - Action-ownership cluster: `source-attribution-divergence` alone is 4,111w (over ceiling by itself); `anarchic-hand-and-action-ownership` ai_modified 08-17 (too fresh).
+  - Voids affect cluster (`valence-void` / `affective-void` / `appetitive-void` / `emotional-epistemology-void`): the corpus has already litigated these boundaries — `valence-void` carries an explicit "Distinct from Affective, Mood, and Mattering Voids" section and `appetitive-void` a "How the Appetitive Void Differs" section; all pairs exceed the voids 3,000w ceiling.
+  - Metric-surfaced non-twin pair `concepts/continual-learning-argument` + `topics/hoel-llm-consciousness-continual-learning` (0.763, LEN-OK only with heavy compression): the topic's lead explicitly routes readers to the concept for "a broader treatment … independent of this paper" — paper-specific vs general-criterion split, deliberately cross-referenced; both deep-reviewed within the last month; 10 inbound carriers anchor on the concept.
+  - Metric-surfaced non-twin pair `concepts/simulation` + `voids/simulation-detection-void` (0.672, 3,524w): hypothesis-as-diagnostic-tool vs inside-observer epistemic-closure catalogue entry (the voids taxonomy's convergence case of all three void kinds); both deep-reviewed the same day (06-25) and left separate; `concepts/simulation` has 29 inbound carriers as definitional anchor.
+- **Review-debt check**: no live refine-draft/deep-review/condense tasks target any candidate pair; LIVE todo hits on candidate slugs are P3 expansion/cross-link tasks or NEEDS-HUMAN entries citing them as examples.
+- **Content changes**: none. No files merged, archived, or modified.
 
 ## 2026-08-20T02:50:00+00:00 - refine-draft
 - **Status**: Success
