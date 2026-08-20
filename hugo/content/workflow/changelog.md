@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T04:51:11+00:00'
+ai_modified: '2026-08-20T05:31:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-20'
-lastmod: 2026-08-20 04:51:11+00:00
+lastmod: 2026-08-20 05:31:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-20T05:31 UTC - collect-gemini-review + outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
+- **File**: [outer-review-2026-08-20-gemini-2-5-pro](/reviews/outer-review-2026-08-20-gemini-2-5-pro/)
+- **Subject**: apex/apex-articles (reuse of the cycle subject — all three 08-20 legs now share it)
+- **Extraction**: js-dom, sentinel-wrapped 900-char chunk reads, SHA-256 verified (f592817a…da1e, 30,074 chars); 32 NBSP citation-marker runs reconstructed from an in-page codepoint census after the MCP filter blocked base64 readout
+- **Claims verified**: 6 citation-metadata confirmations (Saad 2025; Chalmers & McQueen 2022; Butlin 2023/2025; Hirschhorn et al. 2021 WOI at OpenAlex; Laukkonen & Slagter 2021; McQueen & Tsuchiya 2023), 1 wrong-venue correction (Fazekas & Nanay is BJPS 72(1):299-324, not the reviewer's *Synthese* metadata), 4 substantive charges refuted on disk (Saad-join conflation — interface-specification-programme already withdrew the fusion; Zeno falsification — targets consciousness-collapse models the Map declines and C&M 2022 is engaged directly; Butlin double standard — machine-question states the framework is avowedly computational-functionalist; mereology "ignores" charge — McQueen & Tsuchiya engaged in mereology-of-mind), 1 out-of-remit section (automation/changelog audit, excluded by the commissioning prompt)
+- **High-value findings**: 3 confirmed engagement gaps (attention-as-causal-bridge lacks the amplification-not-selection rival; cross-modal-capability-division lacks the WOI unconscious-integration-limits literature; altered-states-as-interface-evidence and contemplative-path lack the active-inference deflationary rival)
+- **Tasks generated**: 3 (P2: 3 — one per confirmed gap, each carrying the direct-refutation remit; no same-file collision with the 5 same-day ChatGPT/Claude tasks)
+- **Convergence note**: all three 08-20 legs are now processed — combine-outer-reviews eligible next iteration. Gemini's numbered-weakness hit rate on this shared subject: 3 of 6 genuine, consistent with the scope-driven pattern (mechanism charges fail against the positions register; literature-gap charges land)
 
 ## 2026-08-20T04:51 UTC - collect-claude-review + outer-review
 - **Status**: Success

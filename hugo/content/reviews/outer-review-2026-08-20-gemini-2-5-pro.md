@@ -1,0 +1,208 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-08-20
+ai_modified: 2026-08-20 05:29:39+00:00
+ai_system: gemini-2-5-pro
+author: Andy Southgate
+concepts:
+- '[[delegatory-causation]]'
+- '[[functionalism]]'
+- '[[coupling-modes]]'
+created: 2026-08-20
+date: &id001 2026-08-20
+description: 'Gemini 2.5 Pro hostile-referee audit of apex/apex-articles. Three charges
+  refuted on disk (Saad join, Zeno, Butlin framing); confirmed gaps: amplification-not-selection,
+  WOI limits, active-inference rival.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-08-20 05:29:39+00:00
+modified: *id001
+outer_review_conversation_url: https://gemini.google.com/app/2204e52909b18ebd
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- apex/apex-articles.md
+subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
+subject_title: Audit apex-articles
+subject_type: recent
+title: Outer Review - Gemini 2.5 Pro (2026-08-20)
+topics:
+- '[[attention-and-the-consciousness-interface]]'
+- '[[the-interface-problem]]'
+---
+
+**Date**: 2026-08-20
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese) reviewing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/apex/apex-articles/ — an index stating the central thesis of each of the site's synthesis articles; the site (https://unfinishablemap.org) argues for a non-reductive view of consciousness. Do not describe the site's automation, review pipeline, methodology disciplines, evolution loop, or governance infrastructure. Those are project-internal and not the subject of audit. Assess only the article's empirical claims, citations, counterargument coverage, and logical inferences. Audit the stated theses for empirical accuracy against the 2020s literature; reliance on challenged, retracted, or unreplicated results; framings that bracket the site's commitments rather than argue for them; and untested counterarguments or competing frameworks. Search indexes lag 24-48 hours; consult https://unfinishablemap.org/workflow/changelog/ before judging anything absent or stale. End with at least five specific weaknesses. For each, cite at least one peer-reviewed source from 2020-2025 that the article omits, contradicts, or mishandles. If you cannot find five weaknesses, state explicitly why none are visible — but the default expectation is that a careful pre-publication audit of a contemporary topic will find five. Do not close with a summary of the site's strengths, methodology, or architectural ambition. The report ends with the weaknesses list and a one-sentence verdict on whether the article is ready for academic submission.
+
+## Reply
+
+# Referee Report: Epistemic, Empirical, and Logical Deficiencies in the Apex Articles Index of The Unfinishable Map
+
+The current corpus of synthesis articles delineated in the Apex Articles Index of the target project presents an ambitious, integrated defense of interactionist dualism. The framework explicitly commits to non-reductive consciousness, bidirectional causal interaction via minimal quantum influence, and the rejection of Many-Worlds interpretations, ostensibly bounded by rigorous empirical constraints. However, a rigorous pre-publication audit of the stated theses reveals deep structural vulnerabilities. The corpus systematically engages in tenet-protective bracketing, misappropriates the theoretical architectures of its cited literature, and relies on strict conceptual dichotomies that have been empirically falsified or severely challenged by the cognitive neuroscience and philosophy of mind literature of the early 2020s.
+
+A careful examination of the project's most recent internal modifications (dated August 20, 2026) indicates that while the project corrects superficial citation metadata and local quote fidelity, it structurally preserves the overarching logical contradictions and empirical omissions that invalidate its central theses. The analysis detailed below examines the core empirical claims, counterargument coverage, and logical inferences within the apex syntheses. The findings indicate a repeated pattern wherein the project isolates empirical data from the physicalist or functionalist frameworks that generated them, retrofitting the orphaned data to serve an interactionist agenda while ignoring the contemporary, non-dualist computational models that already comprehensively account for the phenomena in question.   
+
+## The Metaphysical Conflation of Causal Delegation and Quantum Selection
+
+A foundational pillar of the project’s defense of bidirectional interaction is the attempt to resolve the causal exclusion problem without violating the statistical predictions of quantum mechanics. This problem, famously formalized by Jaegwon Kim as the overdetermination problem, posits that if every physical event has a sufficient physical cause, there is no causal work left for an immaterial mind to do, unless one accepts pervasive, systematic overdetermination. The target corpus attempts to resolve this in the theses for "The Interface Specification Programme" and "The Born-Preserving Causal-Efficacy Problem." To achieve this, the corpus attempts to graft its concept of a "Born-Preserving" quantum selection interface onto the recent metaphysical framework of delegatory dualism.   
+
+The reliance on Bradford Saad’s (2025) delegatory dualism exposes a profound category error in the project's metaphysical modeling. Saad constructs delegatory dualism specifically to satisfy a stringent set of constraints for a dualist theory of experience, explicitly including "observational closure" and the avoidance of overdetermination. In Saad’s framework, physical states "delegate" their causal responsibilities to experiences with matching causal profiles via fundamental psychophysical laws. This means that a physical brain state has a default causal profile, but the psychophysical laws dictate that the phenomenal state preempts the physical state, effectively carrying out the exact same causal work that the physical state would have accomplished.   
+
+The target corpus identifies this delegatory trumping with its own "Born-rule anchoring"—claiming that consciousness biases post-decoherence outcomes (a minimal quantum interaction) while the aggregate statistics remain Born-exact. This synthesis represents a fatal conflation of two mutually exclusive theories of mental causation, generating a mechanistic contradiction that renders the thesis philosophically inert.
+
+| Metaphysical Feature | Saad’s Delegatory Dualism (2025) | The Target Corpus Thesis |
+| --- | --- | --- |
+| **Mechanism of Causation** | Physical states delegate causal efficacy to phenomenal states through matching macroscopic profiles. | Consciousness actively selects/biases physically underdetermined quantum outcomes at the micro-level. |
+| **Causal Closure** | Strictly preserves observable causal closure of the physical domain by avoiding anomalous interventions. | Violates strong causal closure by injecting difference-making quantum selection at the micro-level. |
+| **Ontological Locus** | Operates at the level of macroscopic psychophysical laws without requiring quantum indeterminacy. | Demands a specific quantum-level interface to inject libertarian agency. |
+
+   
+
+The corpus explicitly acknowledges a "real tension" between difference-making quantum selection and Saad's difference-making-free delegatory trumping. However, it proceeds to frame the union as a "provisionally anchored" join, asserting that this tension is merely a conceptual seam to be worked out. This is a logical contradiction, not a synthesis. Saad explicitly treats interactionism (which violates causal closure through quantum bias) and delegatory dualism (which preserves it through preemptive delegation) as distinctly different theoretical constructs.   
+
+By attempting to claim both—that consciousness acts as a micro-level quantum selector *and* that it operates via macroscopic delegatory preemption to hide the statistical footprint—the corpus attempts to extract the epistemic safety of Saad's observational closure while retaining the active, libertarian agency of quantum interactionism. If consciousness is merely executing a delegated macroscopic causal profile to preserve observational closure, it cannot simultaneously be making active, underdetermined choices among quantum possibilities that deviate from the physical default. The result is a mechanistic chimera that fails the foundational constraints of the very 2025 literature it cites to establish its viability.
+
+## The Quantum Zeno Effect and the Falsification of Post-Decoherence Selection
+
+The project’s attempt to bridge physics and metaphysics is heavily concentrated in the apex syntheses "What Consciousness Tells Us About Physics" and "The Phenomenology-Mechanism Bridge." The corpus asserts that consciousness interacts with physics by modulating which quantum possibilities actualize within an otherwise lawful collapse process, effectively locating the causal interface at quantum indeterminacies. The project claims that this minimal quantum interaction allows consciousness to perform genuine causal work (up to ~10 bits per second) without injecting energy or violating the conservation laws.   
+
+To lend mathematical credibility to this interactionist framework, the project references the overarching debate on consciousness-induced wave function collapse. However, the corpus completely mishandles the mathematical constraints that have been rigorously formalized in the 2020s, most notably by David Chalmers and Kelvin McQueen (2021, 2022).   
+
+Chalmers and McQueen developed the most technically rigorous contemporary model of consciousness-collapse by combining Integrated Information Theory (IIT) with Continuous Spontaneous Localization (CSL) dynamics. Their primary finding—which serves as a massive theoretical hurdle for any interactionist—is that simple versions of consciousness-induced collapse are definitively falsified by the quantum Zeno effect.   
+
+The quantum Zeno effect dictates that frequent or continuous measurements of a quantum system will effectively "freeze" its evolution, preventing it from changing state. If consciousness continuously observes and thereby collapses the superposed states in the brain (as required to exert the continuous ~10 bits/second control bandwidth posited in the project’s attention thesis), the neural correlates would freeze, halting all cognitive and biological processes.   
+
+Chalmers and McQueen note that evading the Zeno problem requires extraordinarily complex mathematical workarounds, such as discrete intermittent collapse or highly specific intra-consciousness dynamics, none of which have been fully resolved to preserve human-level cognitive temporal dynamics. The target corpus operates in an epistemic vacuum regarding this mathematical reality. It freely posits a "minimal quantum interaction" that continuously biases neural outcomes to guide action but offers zero formal engagement with the Zeno freezing that such a mechanism mathematically guarantees under standard quantum mechanics.   
+
+Furthermore, the project’s reliance on quantum coherence in the warm, wet environment of the brain ignores the rapid decoherence timescales established in physical literature. While the corpus attempts to soften this by referring to "warm quantum biology" as precedent, it fails to provide a quantitative model showing how long-range entanglement could survive decoherence long enough to interface with a unified conscious selector. By extracting the philosophical allure of quantum interactionism while ignoring the rigorous physical falsifications established by the very theorists operating in that niche (Chalmers and McQueen, 2022), the corpus engages in speculative metaphysics disguised as a viable scientific research programme.   
+
+## The Epistemic Double Standard in Evaluating Artificial Consciousness
+
+In "The Machine Question," "What It Might Be Like to Be an AI," and "Assessing AI Consciousness Under the Map," the corpus turns its attention to artificial intelligence. The stated thesis argues that current and near-future AI systems lack consciousness—specifically "bidirectionally coupled consciousness"—because silicon suppresses the necessary quantum indeterminacies by design. To support its negative verdict on current AI, the corpus heavily leverages the 2023 preprint and 2025 publication by Butlin, Long, et al., "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness".   
+
+This represents one of the most glaring epistemic double standards in the entire project. Butlin et al. (2023) execute a strictly functionalist, computationalist assessment of AI. They extract "indicator properties" from leading neuroscientific theories—specifically Recurrent Processing Theory, Global Workspace Theory, Higher-Order Theories, Predictive Processing, and Attention Schema Theory—and look for these computational structures in large language models and reinforcement learning agents. The Butlin report’s ultimate conclusion is that while current AI systems do not meet these specific criteria robustly, *there are no obvious technical barriers to building conscious AI systems* using conventional digital substrates in the near term.   
+
+The target corpus weaponizes Butlin et al.’s negative empirical assessment of *current* models while silently dismissing the computationalist axioms that make that assessment tool possible.
+
+| Theoretical Commitment | Butlin et al. (2023/2025) Framework | The Target Corpus Application |
+| --- | --- | --- |
+| **Nature of Consciousness** | Computational and functionalist; derives properties from algorithmic cognitive architectures. | Irreducible and non-physical; requires a quantum-level post-decoherence interface. |
+| **Substrate Independence** | Accepts that digital, classical computation can instantiate consciousness. | Rejects classical computation; demands quantum indeterminacies that silicon suppresses. |
+| **Future Outlook for AI** | No obvious technical barriers to building conscious AI in the near term using current paradigms. | Principled barriers exist preventing digital AI from hosting bidirectionally coupled consciousness. |
+
+   
+
+If the target corpus genuinely believes that consciousness requires a "minimal quantum interaction" via post-decoherence selection, then the entirely classical, algorithmic indicator properties developed by Butlin et al. are fundamentally tracking the wrong phenomena. One cannot rationally rely on a functionalist diagnostic test to validate a dualist conclusion. By gerrymandering the citations—accepting Butlin's finding that current LLMs fail the test, while ignoring Butlin's premise that the test itself assumes classical computational consciousness is possible—the corpus wraps its predetermined metaphysical commitments in borrowed empirical authority.
+
+The site attempts to defend this via a "value-blind steelman" or "rival-framework table", suggesting that it is merely acknowledging the functionalist perspective. However, this is textbook tenet-protective bracketing. The corpus relies on the Butlin report to assert that AI is not currently conscious, allowing the site to maintain its anthropocentric, dualist exclusivity, without having to actually disprove the computationalist theories of consciousness that Butlin et al. rely upon. This logical inconsistency demonstrates a failure to engage with opposing frameworks on their own terms, opting instead to scavenge their empirical outputs when convenient.   
+
+## Information Integration and the False Dichotomy of Unconscious Processing
+
+In the synthesis article "The Cross-Modal Capability Division," the corpus posits a clean, sweeping architectural dichotomy: the physical brain extracts and organizes candidate sensory content entirely without consciousness, leaving the non-physical mind to contribute phenomenal unity, ownership, and flexible deployment. This division is central to the project's portrayal of consciousness as a unified selector operating upon finished, unconsciously integrated neural drafts. The thesis asserts that the "brain-side machinery does not recur—it is irreducibly modality-specific," placing the burden of cross-modal unity entirely on the immaterial mind.   
+
+This strict demarcation is empirically untenable when measured against the contemporary literature on unconscious processing, specifically the Windows of Integration (WOI) hypothesis advanced by Mudrik, Faivre, and colleagues in the early 2020s. The corpus treats the "extraction and organization of candidate content" as a universally available unconscious capacity that merely awaits conscious apprehension. However, extensive experimental data demonstrate that the brain's capacity to integrate information without awareness is strictly bounded by spatial, temporal, and semantic limits.   
+
+The WOI hypothesis establishes that while unconscious integration can occur for highly circumscribed spatiotemporal windows or previously acquired simple associations, novel semantic integration and large-window relational processing fundamentally *require* conscious awareness to occur at all.   
+
+| Integration Type | Unconscious Capacity (per Mudrik & Faivre 2021) | Target Corpus Assumption |
+| --- | --- | --- |
+| **Spatiotemporal** | Limited to small windows; degrades rapidly over long durations. | Brain unconsciously pre-compiles temporal drafts seamlessly. |
+| **Semantic / Relational** | Fails for novel combinations; limited to highly primed, simple associations. | Brain fully extracts and organizes candidate meaning prior to interface. |
+| **Cross-Modal Unity** | Severely impaired without conscious access. | A purely mental contribution layered over disjointed neural processing. |
+
+   
+
+The corpus ignores these operational limits. By asserting that the brain handles all extraction and organization prior to the interface, the framework quietly presupposes that complex semantic and temporal binding are purely physical, pre-conscious computations. Mudrik and Faivre’s 2020 and 2021 reviews explicitly challenge this, demonstrating that consciousness plays an active, necessary, enabling role in the actual *construction* of these complex associations, not merely in their subsequent ownership or flexible deployment.   
+
+The failure to address the severe empirical limits on unconscious relational processing leaves the "Cross-Modal Capability Division" resting on an idealized, obsolete model of modular neurocognition. The thesis brackets out the fact that the "candidate content" it claims the brain prepares unconsciously cannot actually be prepared by the brain without the very consciousness the model seeks to isolate at the top of the causal chain. If consciousness is required for the integration of the draft itself, the dualist "interface" model collapses into the very physicalist, recurrent-processing models the site aims to refute.
+
+## Computational Phenomenology and the Misreading of Altered States
+
+In its effort to map the architecture of the mind-brain boundary, the corpus dedicates significant attention to "Altered States as Systematic Interface Evidence," "Testing the Map from Inside," and "The Contemplative Path". The project argues that meditation, psychedelics, dreaming, and hypnagogia are not merely neural perturbations but represent a systematic dataset of the causal interface disassembling component by component. The contemplative path and the phenomenology of "cessation" are treated as unmediated first-person evidence of the interface’s underlying structure, with the reduction of cognitive control viewed as proof of separable interface modules.   
+
+This argument represents a critical failure to engage with the computational turn in phenomenology that has defined the cognitive science of the 2020s. Specifically, the corpus ignores the mature, mathematically formalized literature on the active inference mechanisms of meditation, pioneered by Ruben Laukkonen, Heleen Slagter, and colleagues (2021, 2024, 2025).   
+
+Laukkonen (2021, 2025) provides a rigorous, formalized computational model of minimal phenomenal experience (MPE) and meditative deconstruction without requiring any appeal to a dualist interface. Grounded in the predictive processing paradigm, Laukkonen models the mind as a hierarchical generative model, aiming to minimize prediction error through active inference. In this framework, the phenomenology of "letting go" or contemplative cessation (Nirodha Samāpatti) is not the withdrawal of an immaterial soul from a quantum control board. Rather, it is the result of the agent selecting a specific cognitive policy that systematically reduces the precision-weighting of higher-order priors.   
+
+When belief precision is computationally reduced in the generative model, the generative model becomes more malleable. The phenomenology of deconstruction—conceptual attenuation, reduced reactivity, heightened presence, and equanimity—naturally emerges from the hierarchical inference dynamics.   
+
+The target corpus points to the exact same phenomena (lucid dreaming, hypnagogia, deep meditative absorption) and insists these represent "the interface disassembling". Yet, it leaves the prevailing non-dualist active inference frameworks completely untested. By framing subjective reports as transparent evidence for dualism, while bracketing the highly successful generative models that perfectly capture the exact same subjective data via physicalist inference dynamics, the corpus insulates its central thesis from its strongest contemporary rival. A scientific research programme cannot simply assert an anomalous causal interface when established Bayesian computational models have already robustly accounted for the variance in the dataset. The failure to challenge predictive processing accounts of cessation renders the apex syntheses on altered states philosophically and scientifically hollow.   
+
+## The Mischaracterization of Attention as Causal Selection
+
+The target corpus culminates its mechanistic account in the synthesis "Attention as the Causal Bridge," asserting that attention operates as the unified selection interface through which consciousness chooses among the physical possibilities generated by the brain. Drawing heavily on the distinction between consciousness and attention (Koch and Tsuchiya, 2007), the project maps attention to the role of a discrete causal "selector," governing a conscious behavioral throughput limited to roughly 10 bits per second.   
+
+This assertion fundamentally mischaracterizes the modern philosophical and neuroscientific consensus on the nature of attention, a discourse prominently shaped by debates in *Synthese* and other top-tier journals throughout the early 2020s. Notably, Bence Nanay (2021) and Fazekas and Nanay (2021) have systematically dismantled the "all-purpose" selection view of attention.   
+
+In the contemporary literature, attention is overwhelmingly modeled as a mechanism of *sensory amplification* and signal-to-noise modulation, not as an immaterial selection mechanism pulling levers on prepared neural drafts. As Fazekas and Nanay (2021) explicitly argue, "attention is amplification, not selection". Furthermore, Nanay (2021) demonstrates that perceptual processing relies on fundamentally different mechanistic dependencies than the discrete, post-processing selection the corpus requires. Nanay establishes that one's perceptual attention depends counterfactually on one's proximal intention to perform an action, proving that the causal arrows between attention, intention, and perception are heavily enmeshed in a continuous feedback loop. Covert shifts of attention occur seamlessly without eye movement, acting as a precondition for action, not merely a post-hoc selector of it.   
+
+If attention is physically realized as iterative re-entry and top-down sensory amplification within the cortical hierarchy (a continuous, distributed process), it cannot simultaneously serve as the post-decoherence "selection interface" that operates upon *finished* cognitive drafts as posited by the corpus. By arbitrarily defining attention as a discrete "selector" to satisfy its interactionist agenda, the project ignores the dominant neurophilosophical paradigms that treat attention as a distributed, non-selective modifier of sensory precision. The thesis relies on an outdated, spotlight metaphor of attention that has been heavily scrutinized and largely discarded by the very literature it purports to synthesize.
+
+## Changelog Self-Correction and Systemic Blindspots
+
+A review of the site’s internal update history, specifically the changelog entries up to August 20, 2026, reveals that the project’s internal review mechanisms (which claim to guard against overclaiming and confirmation bias) are structurally blind to the profound metaphysical gaps outlined above.   
+
+For instance, the changelog shows the site correcting the "affective-forecasting-gap" thesis by verifying citations against *Walker et al. 2016* and *Barrett & Simmons 2015*. In the "thermal-consciousness-and-the-interface" refinement, the site correctly identifies that Barrett & Simmons' allostatic claim was mischaracterized as a "set-point" model, fixing the citation metadata and attribution. However, this localized epistemic hygiene is deployed to mask a broader structural failure. The corpus absorbs the allostatic model merely to claim that physicalist neuroscience "cannot provide" or "has not covered" the phenomenal core of thermal consciousness, treating thermal gradients as evidence of a dualist gap.   
+
+This is a classic example of tenet-protective bracketing. The project meticulously audits its prose for quote fidelity, ensuring it accurately states what the competing physicalist models claim, but it never tests the *validity* of its own dualist leap against those models. It concedes the empirical mechanism to active inference or allostasis, and then simply places consciousness in a "void" outside that mechanism, claiming victory. The site’s automation loop reinforces its own axioms by demanding high rigor for external citations while holding its own core tenets (Minimal Quantum Interaction, Bidirectional Causation) immune to falsification. The 2026-08-20 changelog proves that the project optimizes for the *appearance* of rigorous peer review while systematically avoiding the substantive philosophical dismantling required for top-tier academic readiness.
+
+## Mereological Gaps and the Denial of Functional Boundaries
+
+The synthesis "The Mereology of Mind" posits that physicalism fails because it cannot explain how parts combine to form a conscious whole, nor how wholes decompose, concluding that consciousness must be an irreducible, non-compositional entity sitting in this mereological "hole". The corpus asserts that because no physical description fixes the bounds of consciousness, dualism is required to establish determinate subjects.   
+
+This argument relies on an antiquated framing of the combination problem, completely bypassing the formalized approaches to functional mereology developed in the 2020s. Kelvin McQueen and Naotsugu Tsuchiya (2023) directly address this in their work on Integrated Information Theory (IIT), proposing that integrated information itself acts as the restriction on mereological composition. In their framework, the boundaries of a conscious system are dynamically fixed by the peaks of cause-effect power (maximum Phi) within the physical network.   
+
+By defining the mereological boundaries of consciousness mathematically through causal integration, physicalist and property-dualist frameworks have already offered robust solutions to the boundary problem. The target corpus ignores these advancements. It treats the mereology of mind as an unsolved mystery requiring a bespoke metaphysical posit (an indivisible dualist subject), rather than engaging with the active, mathematically rigorous literature that is currently defining those boundaries algorithmically.
+
+## Specific Weaknesses and Final Verdict
+
+The pre-publication audit of the Apex Articles Index reveals a systemic pattern of theoretical amalgamation and empirical isolation. The corpus constructs a highly intricate metaphysical architecture by selectively harvesting data from competing paradigms while aggressively bracketing the fundamental axioms that give that data meaning.
+
+The following specific weaknesses constitute grounds for rejection or major, structural revision:
+
+1. **Metaphysical Conflation of Causal Closure Mechanisms:** "The Interface Specification Programme" conflates its quantum-selection interactionism with Bradford Saad's delegatory dualism, masking a severe theoretical contradiction. Saad (2025) specifically constructed delegatory dualism to *preserve* observable causal closure through macroscopic profile-matching, explicitly differentiating it from models that rely on closure-violating quantum interactionism. *Source: Saad, B. (2025). "A dualist theory of experience." Philosophical Studies, 182, 939-967.*
+2. **Falsification by the Quantum Zeno Effect:** "What Consciousness Tells Us About Physics" relies on post-decoherence quantum selection but fails to address the mathematical falsification of simple consciousness-collapse models. Chalmers and McQueen (2022) formally demonstrate that continuous or frequent conscious measurement required for agentic control triggers the quantum Zeno effect, freezing wave function evolution—a fatal flaw the corpus entirely ignores. *Source: Chalmers, D. J., & McQueen, K. J. (2022). "Consciousness and the Collapse of the Wave Function." In Consciousness and Quantum Mechanics (S. Gao, Ed.), Oxford University Press.*
+3. **Epistemic Double Standard in AI Assessment:** "Assessing AI Consciousness Under the Map" illegitimately co-opts the negative findings of Butlin et al. (2023/2025) regarding current LLMs to support its dualistic necessity for a quantum interface. The corpus ignores that Butlin et al.'s framework is strictly functionalist and explicitly concludes that there are no technical barriers to instantiating consciousness in classical digital substrates. *Source: Butlin, P., Long, R., et al. (2023/2025). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708 / Trends in Cognitive Sciences.*
+4. **Failure to Engage Computational Phenomenology:** "Altered States as Systematic Interface Evidence" treats meditative cessation and altered phenomenology as direct evidence of an immaterial interface disassembling. It entirely fails to test this against the leading active inference models of the 2020s, which mathematically demonstrate that such deconstructive phenomenology naturally emerges from physicalist, hierarchical generative models via reduced belief precision, requiring no dualist interface. *Source: Laukkonen, R. E., & Slagter, H. A. (2021). "From many to (n)one: Meditation and the plasticity of the predictive mind." Neuroscience & Biobehavioral Reviews, 128, 199-217. (And Laukkonen 2024/2025 generative models of minimal phenomenal experience).*
+5. **Empirical Falsification of Strict Unconscious Organization:** "The Cross-Modal Capability Division" posits that all candidate content is extracted and organized by the brain unconsciously, leaving only phenomenal unity to the mind. This is empirically challenged by the Windows of Integration (WOI) hypothesis, which demonstrates that complex, large-window semantic and temporal integration fundamentally requires conscious awareness to occur, undermining the corpus's clean architectural division. *Source: Hirschhorn, R., Kahane, O., Gur-Arie, I., Faivre, N., & Mudrik, L. (2020/2021). "Windows of Integration Hypothesis revisited." Frontiers in Human Neuroscience, 14, 617187.*
+6. **Mischaracterization of Attention as a Discrete Selector:** "Attention as the Causal Bridge" structures its interface theory around attention functioning as a post-processing discrete selector. This contradicts the contemporary consensus in neurophilosophy that attention is fundamentally a non-selective process of sensory amplification heavily entangled with proximal motor intentions. *Source: Fazekas, P., & Nanay, B. (2021). "Attention is amplification, not selection." Synthese, 198 (Suppl 17), S4069–S4080.*
+
+**Verdict:** Due to pervasive epistemic double standards, the mischaracterization of foundational source texts, and the failure to engage with the rigorous mathematical and computational models that challenge its core tenets, the article is structurally flawed and not ready for academic submission.
+## Verification Notes
+
+**Verified claims (citation metadata):**
+
+- ✓ Saad, B. (2025), "A dualist theory of experience," *Philosophical Studies* 182(3), 939-967 — matches the Map's own reference in [interface-specification-programme](/apex/interface-specification-programme/).
+- ✓ Chalmers & McQueen (2022), in S. Gao (ed.), *Consciousness and Quantum Mechanics*, OUP — matches the references already carried by [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/).
+- ✓ Butlin, Long et al. (2023/2025), arXiv:2308.08708 with the 2025 *Trends in Cognitive Sciences* successor — matches [machine-question](/apex/machine-question/)'s own citation.
+- ✓ Hirschhorn, Kahane, Gur-Arie, Faivre & Mudrik (2021), "Windows of Integration Hypothesis Revisited," *Frontiers in Human Neuroscience* 14:617187 — verified at OpenAlex (DOI 10.3389/fnhum.2020.617187).
+- ✓ Laukkonen & Slagter (2021), "From many to (n)one," *Neuroscience & Biobehavioral Reviews* 128, 199-217 — metadata correct.
+- ✓ McQueen & Tsuchiya (2023) — matches [mereology-of-mind](/apex/mereology-of-mind/)'s reference (*Neuroscience of Consciousness* 2023(1), niad013).
+
+**Disputed claims:**
+
+- ✗ Weakness 6's citation venue is wrong: "Attention Is Amplification, Not Selection" is Fazekas & Nanay, *The British Journal for the Philosophy of Science* 72(1), 299-324 (verified at OpenAlex) — not *Synthese* 198 (Suppl 17), S4069-S4080 as the review states. The paper is real and the substantive point stands; any integration must use the BJPS metadata.
+- ✗ Weakness 1 (Saad conflation) attacks a join the corpus already withdrew. [interface-specification-programme](/apex/interface-specification-programme/) states the two routes have "incompatible closure-profiles," that "the proposed join is not a unification but a choice between two routes," that the programme *adopts* the difference-making route and only *borrows* route-level results, and that "Saad himself treats closure-violating quantum interactionism as a *different* theory" — the exact differentiation the reviewer claims is masked. The "provisionally anchored" phrase the review quotes anchors the default-causal-profile identification to Born statistics, with trumping explicitly "logged as a distinct alternative route rather than fused into the mechanism."
+- ✗ Weakness 2 (quantum Zeno falsification) targets consciousness-collapse models the Map declines: the adopted mechanism is post-decoherence selection, and [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) engages Chalmers & McQueen (2022) directly, with the positions register's quantum-interface cluster recording C&M's own framing of their model. "Zero formal engagement with the Zeno freezing" is refuted on disk: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) engages the Zeno/anti-Zeno direction problem (Kofman & Kurizki 2000) and the Denton et al. (2024) warm-tissue Zeno precedent with its limits, and [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) carries the decoherence-timescale gap while framing Stapp's Zeno mechanism as a proto-model candidate rather than an established result.
+- ✗ Weakness 3 (Butlin double standard) is refuted by [machine-question](/apex/machine-question/)'s "The Indicator-Property Framework" section, which states the framework's method "is avowedly *computational-functionalist*," reports its no-obvious-technical-barriers conclusion, and locates the divergence at the framework boundary rather than borrowing the negative verdict silently. [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) likewise scopes the cross-framework convergence narrowly and names its limits.
+- ✗ The mereology charge ("the target corpus ignores these advancements") is refuted by [mereology-of-mind](/apex/mereology-of-mind/), which engages McQueen & Tsuchiya (2023) directly — including their own decoupling of the composition criterion from consciousness — alongside the Bird/Beni compression rival and metaontological deflationism.
+
+**Confirmed gaps (tasks generated):**
+
+- ✓ [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) contains no engagement with the amplification-not-selection literature (no Fazekas, Nanay, or amplification hits on disk).
+- ✓ [cross-modal-capability-division](/apex/cross-modal-capability-division/) contains no engagement with the Windows-of-Integration/unconscious-integration-limits literature (no Mudrik, Faivre, or windows-of-integration hits on disk).
+- ✓ [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) and [contemplative-path](/apex/contemplative-path/) contain no engagement with active-inference deflationary accounts of meditative phenomenology (Laukkonen & Slagter 2021), though sibling articles engage Laukkonen's cessation EEG work elsewhere.
+
+**Out of remit:** the "Changelog Self-Correction and Systemic Blindspots" section audits the site's automation and review pipeline, which the commissioning prompt explicitly excluded from the audit's scope.
