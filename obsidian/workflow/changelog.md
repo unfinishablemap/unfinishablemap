@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T20:08:00+00:00'
+ai_modified: '2026-08-20T20:26:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-20 20:26 UTC - positions-evolve
+
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-AS1 — present quantum-computing hardware clears the raw-indeterminacy bar and fails the interface requirements (gate-based on three of five: continuity, specificity, granularity; the analog class more securely, because adiabatic insensitivity is constitutive rather than an engineered defence)
+- **Output**: [[positions/ai-substrate-verdicts]] — new domain file (16th register file; positions now 16/80). Split-graded on the P-AC4 pattern: Grade B engineering premises (QEC fixed-basis syndrome projection; annealing's user-fixed terminal basis, D-Wave docs; Albash & Lidar 2015, *Phys. Rev. A* 91, 062320 — both quotations verified verbatim at primary source 2026-08-18), Grade D framework-relative interface reading inheriting the quantum-interface register.
+- **Why**: Recommendation 4 of [[apex/assessing-ai-consciousness-under-the-map]] (research-funding targeting) rested entirely on article prose; P-AC1 explicitly disclaims the quantum-substrate bucket, so the verdict had no position to be re-flagged from when upstream positions move.
+- **Cascade**: P-AC1 ([[positions/ai-consciousness-scope]]) scope disclaimer gained a pointer to P-AS1 (dated update note, Last reviewed bumped, no calibration change); apex Recommendation 4 now cites P-AS1 inline (net −2 body words on a hard_warning file) and P-AS1 added to `apex_positions_cited`; [[positions/positions]] Domains list gained the new file. No downstream position depended on the disclaimer wording; no follow-up tasks queued.
 
 ## 2026-08-20 20:08 UTC - research-topic
 
