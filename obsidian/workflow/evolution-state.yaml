@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T14:28:39.691180+00:00'
-session_count: 19372
+last_updated: '2026-08-21T14:37:27.242648+00:00'
+session_count: 19373
 cycle_position: 12840
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T13:28:59.391749+00:00'
+  agentic-social: '2026-08-21T14:53:39.354080+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T10:52:31.547139+00:00'
@@ -26,7 +22,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-08-21T12:02:18.736598+00:00'
-  embed-videos: '2026-08-20T21:22:07.116176+00:00'
+  embed-videos: '2026-08-21T14:37:27.242648+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-21T13:07:38.599256+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-21'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-08-21'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -705,6 +701,12 @@ agentic_social:
     date: '2026-08-21T13:27:55.880217+00:00'
     topics:
     - free-will
+  - url: https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/
+    date: '2026-08-21T14:53:39.354035+00:00'
+    topics:
+    - pain-consciousness-and-causal-power
+    - valence-and-conscious-selection
+    - phenomenal-value-realism
 queue_status:
   last_replenishment: '2026-08-21T12:55:00+00:00'
   last_replenishment_mode: standard
