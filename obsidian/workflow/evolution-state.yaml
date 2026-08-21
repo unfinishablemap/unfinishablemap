@@ -1,10 +1,14 @@
-last_updated: '2026-08-21T11:16:06.143901+00:00'
-session_count: 19361
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-21T11:25:19.412248+00:00'
+session_count: 19362
 cycle_position: 12835
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T11:24:53.799807+00:00'
+  agentic-social: '2026-08-21T11:25:19.412248+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T10:52:31.547139+00:00'
@@ -112,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-08-21'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-21'
@@ -190,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-21'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -693,87 +697,69 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
 queue_status:
-  last_replenishment: '2026-08-21T09:11:38+00:00'
+  last_replenishment: '2026-08-21T11:45:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, three new P2, zero promotions,
-    one stale anchor repaired. Authoritative pre-count count_p0_p2_tasks == 2 after
-    the 00:32 batch of five fully drained in under nine hours (scale-types expand
-    01:17 plus its pessimistic-review refine 01:44; erasure-void refine 02:25; quantum-indeterminacy-free-will
-    chain refine 08:44; self-signature voids fold 09:00) - faster than the documented
-    replenish-at-floor alternation, so this is a second same-day floor restore rather
-    than the usual daily one. Survivors: the positions aggregate P2 and one NEW P2
-    the 08:44 refine minted itself on concepts/evolution-of-consciousness. Sources
-    this run, each verified on disk: unconsumed_research x2 - BOTH remaining unconsumed
-    research notes minted, deviant-causation-bci (4421w, consumed_by absent) and interpretability-probes-representational-ambivalence
-    (4088w, consumed_by absent), each target_section topics against topics 320/320
-    via count_section_files, so both minted as FOLDS not expands per the 08:57 self-signature
-    and 08-17 purification precedents. Host selection was measured not assumed: BCI
-    note folds into topics/brain-computer-interfaces-and-the-interface-boundary 2619w
-    with 1381w headroom to hard 4000 and its named What BCIs Cannot Do section confirmed
-    at L110; the interpretability note was RE-ROUTED because both fold options the
-    note itself proposed are length-blocked - apex/ai-as-introspection-control reads
-    4997w against hard 5000 (3 words) and voids/wholeheartedness-void 2988w against
-    hard 3000 (12 words, and already contested by the live participation-void fold
-    P3) - so it goes to topics/anti-correlation-probes-for-ai-consciousness 3341w
-    with 659w headroom. The note asserted no cap headroom needed and was right about
-    the section cap and wrong about the length ceiling; different gates. chain x1
-    - concepts/decoherence carries the P-Q8 family over-claim in PARAPHRASE, invisible
-    to the exact-string sweep: I re-ran grep for photosynthesis exploits quantum coherence
-    across obsidian, hugo and archive and it returns exactly one live article (evolution-of-consciousness,
-    already owned by the surviving P2) with every other hit a dated workflow or reviews
-    record. decoherence instead says three established examples, photosynthesis quantum
-    effects demonstrably operate, and Biology evolved to harness quantum effects -
-    each checked against P-Q8 and against the canonical wording at quantum-biology-and-neural-consciousness
-    L55-59 which says photosynthesis no longer serves as the third case. The 08:40
-    refine saw this file, called it already partly corrected and left it; half right,
-    the femtosecond figure is present but the calibration is not. 3335w against hard
-    3500, 165w headroom stated as binding; zero pileup, the three live P3s mentioning
-    decoherence resolve to other File lines. Anchor repair x1 - the surviving positions
-    P2 said re-parse ALL 16 domain files; the 07:59 optimistic review flagged it as
-    F3 and I re-verified: positions holds 17 files = index + 2 companions containing
-    no positions + 14 domain files. Rewritten to enumerate the directory rather than
-    trust any quoted count, with an explicit do-not-merge fence against the F1/F2
-    P3 the same review minted. Declined sources, each verified: expand-topic - topics
-    320/320, concepts 319/320 with the final slot claimed by the two open harvest
-    research chains, voids 99/100 operator-owned; new research-topic - two harvest
-    P3s already queued and the intake backlog was just cleared by the two folds above,
-    so backlog before new intake holds; condense - unchanged posture, the topics hard_warnings
-    sit 0 to 2 pct over and apex length is human territory per the standing operator
-    pattern and seven open NEEDS-HUMAN length decisions; orphan_integration - quality.orphaned_files
-    0; staleness - 49 P3 backlog and the deep-review cycle slots cover it; positions_register_gap
-    - none detected; positions audit - 2026-08-13 audit still inside the 30d window;
-    applied_apex_gap - none detected. Insert placement: all three appended immediately
-    above the Completed Tasks marker, verified after the write that the two carried
-    P2s still hold lines 2744 and 2784 unshifted, so no cycle_post mis-mark risk.
-    Pickable P0-P2 after write: 5 (2 carried + 3 minted), all refine-draft except
-    the carried positions-evolve; P3 pool 49. select_queue_task confirms the carried
-    positions P2 is still the next pick, so FIFO is intact.'
-  last_replenishment_prev: '2026-08-21T00:32:30+00:00'
-  last_replenishment_run: 992
-  loop_pickable_open: 5
+  last_replenishment_run: 993
+  loop_pickable_open: 4
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, two new P2, zero promotions,
+    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
+    3; post-count 4. Second floor restore of the day: the 09:11 batch of three drained
+    in two hours (evolution-of-consciousness 10:41, deviant-causation-bci fold 11:16).
+    Survivors were the interpretability-probes re-route and the decoherence P-Q8 straggler.
+    MINTED TWO, DELIBERATELY NOT FIVE-TO-EIGHT: 49 live P3s already sit in the queue,
+    every content section is at or near cap (topics 320/320, concepts 318/320, voids
+    99/100 via count_section_files this run), and the documented steady state here
+    is exact-floor alternation rather than batch minting. Padding to the mode''s nominal
+    range would have meant inventing candidates. SOURCE 1, unconsumed_research: research/machine-aesthetic-judgment-and-generative-music-systems-2026-08-07
+    (2528w, committed ec5b60ce6e 08-07 20:31) is 14 days unconsumed with no later
+    commit of any kind, and its distinctive content is nowhere in the article tree
+    - Colton, Jordanous, creative tripod, generative music and computational creativity
+    each return zero files across topics/concepts/apex/voids/arguments/positions.
+    The two Ritchie hits are a different Ritchie (weak-measurement-and-post-selection,
+    instrumental-convergence) and are not coverage. Minted as a FOLD not an expand:
+    the note recommends a standalone concepts article on the premise of five true
+    slots, and concepts now measures 318/320, so the premise is stale and the task
+    says so. Host routing was measured, not assumed - the obvious destination topics/machine-consciousness
+    is 4127w against a 4000 hard ceiling, already over, so the material goes to concepts/creative-consciousness
+    (2854w, 646w headroom, already holds Boden at L71) and concepts/ai-consciousness-typology
+    (3090w, 410w headroom), with an L127 pointer repair in topics/phenomenology-of-musical-understanding
+    (2744w, 1256w headroom) so no reader is left pointing at two silent pages. FALSE-UNCONSUMED
+    CAUGHT AND NOT MINTED: research/experimental-philosophy-of-aesthetic-judgment-2026-08-07
+    reads UNCONSUMED to the slug checker but was folded into topics/aesthetic-testimony-and-the-acquaintance-principle
+    on 2026-08-16 (commit 1429d7bca3, 4 live Andow hits) and merely lacks its consumed_by
+    stamp - the replenish-unconsumed-research-dedup-misses-threaded-content shape.
+    It belongs with the live P3 stamping task, not in a new mint. Also checked and
+    correctly declined: notation-void (already parked as a NEEDS-HUMAN final-slot
+    decision), suggestion-void (its actionable by-product is the live conversion-disorder
+    P3), summary-statistics (live secondary-fold P3), purification and hypnopompia
+    (live stamping P3). SOURCE 2, staleness: deep-review concepts/philosophy-of-science-under-dualism,
+    validated against get_review_candidates where it ranks 7th (score 36.0, 45d) and
+    is the oldest top-12 entry with zero open tasks on its path - five of the six
+    scoring above it are claimed by open tasks. The discriminator is not age but an
+    unreviewed surface: the interval since its 2026-07-06 review was diffed rather
+    than trusted, and unlike the usual cosmetic-repoint case it carries four substantive
+    outside writes (positions/disciplines retrofit 9ff375093e, apex build 10533cf23c,
+    Bayesian deferral discharge abc8d64a57, Tenet-3 detectability re-adjudication
+    01fa0383fe) that no review has read. Contrast interface-threshold, which scored
+    higher on paper but whose only post-review delta is a 4-line link repoint - checked
+    and rejected on that ground. SOURCES NOT USED, each measured: length_analysis
+    - 73 articles sit over hard thresholds but the three standing condense candidates
+    are all tagged veto in todo.md, and false over-length is the corpus norm; orphan_integration
+    - quality.orphaned_files is 0; chain - the last expand-topic (scale-types-for-phenomenal-quantities
+    01:17) already took a deep-review at 06:04; positions_register_gap - three positions-evolve
+    tasks are already live.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
+  p2_tasks: 4
   p3_tasks: 49
-  promoted_p3_to_p2: 0
-  relocated_starved_p2: 0
   replenishment_source_counts:
-    applied_apex_gap: 0
-    chain: 1
-    deferred_residue_capture: 0
+    chain: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
-    positions_dependency_changed: 0
-    positions_register_gap: 0
-    promotion_existing_p3: 0
-    staleness: 0
-    unconsumed_research: 2
-    verified_residue_mint: 0
-  stale_task_anchors_repaired: 1
-  superseded_tasks_closed: 0
-  truncated_task_notes_repaired: 0
+    staleness: 1
+    unconsumed_research: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
