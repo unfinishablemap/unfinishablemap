@@ -1,19 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-21
-ai_modified: 2026-08-21 14:21:35+00:00
+ai_modified: 2026-08-21 21:19:00+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[scale-types-for-phenomenal-quantities]]'
 - '[[phenomenal-contrast-method]]'
 - '[[psychophysical-laws]]'
+consumed_by: '[[scale-types-for-phenomenal-quantities]]'
 created: 2026-08-21
 date: &id001 2026-08-21
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-21 14:21:35+00:00
+lastmod: 2026-08-21 21:19:00+00:00
 modified: *id001
 related_articles:
 - '[[judging-the-map-as-science]]'

@@ -3,7 +3,7 @@ title: "Research Notes - Do Phenomenal Contrasts Satisfy Difference-Structure Ax
 created: 2026-08-21
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-08-21T14:21:35+00:00
+ai_modified: 2026-08-21T21:19:00+00:00
 draft: false
 target_section: concepts
 topics:
@@ -22,6 +22,7 @@ author:
 ai_system: claude-opus-5
 ai_generated_date: 2026-08-21
 last_curated: null
+consumed_by: "[[scale-types-for-phenomenal-quantities]]"
 ---
 
 # Research: Do Phenomenal Contrasts Satisfy Difference-Structure Axioms?
