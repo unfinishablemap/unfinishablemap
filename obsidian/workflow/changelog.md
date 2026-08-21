@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T12:41:46+00:00'
+ai_modified: '2026-08-21T14:25:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 14:25 - research-topic
+- **Status**: Success
+- **Topic**: Do phenomenal contrasts satisfy difference-structure axioms
+- **Output**: [[research/phenomenal-contrasts-and-difference-structure-axioms-2026-08-21]]
+- **Sources consulted**: 4 retrieved in full and grep-verified (Reisenzein & Junge 2024; Kleiner & Ludwig 2024; Isaac 2025; Lee 2021), 2 abstract-only, 9 named-but-not-retrieved (all flagged); 12 WebSearch calls
+- **Task**: test `concepts/scale-types-for-phenomenal-quantities`'s report that the difference-structure question is "not found posed anywhere in the literature", per the harvest task's binding discipline not to inherit the claim
+- **Verdict**: the claim **survives literally but its context is now wrong**. The question splits into three levels. Level 1 (within-attribute felt intensity, stimulus relata, introspective relation) is posed and tested: Reisenzein & Junge (2024) run the Krantz et al. weak-ordering + sextuple/quadruple axioms on introspective judgements of *emotional experience* intensity, 71-97% per-participant adherence. Level 2 (relata that are aspects of experiences, per Kleiner & Ludwig's condition (D1)) is unposed - Kleiner & Ludwig (2024, Synthese) name the RTM link as future work in their closing section. Level 3 (the cross-kind stark contrasts the article actually asks about) is unposed and possibly not well-formed. Isaac (2025), the flagship structuralist statement, greps zero for "scale type"/"interval scale"/"ordinal"
+- **Recommendation**: refine-draft on the existing article (4 surgical edits) rather than a new concepts article; two of the article's sentences are now factually wrong (the interval rung implies perceptual-only tests; the ordinal rung says the axiom tests run are "psychophysical rather than introspective"). Two unnamed live rivals surfaced: the phenomenal-metric non-convergence sceptics, and the Gromov-Wasserstein cross-subject alignment programme, which lands on the article's strongest claim
+- **Resolves**: the sibling note's flagged gap "affective extension of MLDS/conjoint methods ... the single most important follow-up"
 
 ## 2026-08-21 13:51 - research-topic
 - **Status**: Success
