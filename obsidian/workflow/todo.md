@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: the Yoo et al. 2025 "12-15% total divergence" figure is also live in `apex/minds-without-words`
-- **Type**: refine-draft
-- **File**: obsidian/apex/minds-without-words.md
-- **Status**: pending
-- **Notes**: From `reviews/pessimistic-2026-08-21-animal-consciousness.md`, Issue 2. Line 87 reads "post-2023 telomere-to-telomere comparisons that include indels and structural variants (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%". The paper (full text verified, EuropePMC PMC12058530) reports **12.5–27.3% of an ape genome "failed to align or was inconsistent with a simple one-to-one alignment"**; it never uses the phrase "total divergence", and it attributes part of that gap to *"technical limitations of alignment in repetitive regions"* rather than to biology. This locus additionally mischaracterises the measure as one "that include[s] indels and structural variants", which is not what a one-to-one alignment failure measures. Fix identically to the `topics/animal-consciousness.md:138` locus so the two do not drift apart; the surrounding argument is unaffected because the sentence already says the case "turns on *substantial similarity with substantial divergence*, not on any single percentage". ⚠️ `reviews/deep-review-2026-05-21-minds-without-words.md:80` ratified this as "correctly attributed" — do not treat that ledger entry as evidence. **MIRROR**: sync and grep both trees.
-- **Source**: pessimistic-review 2026-08-21
-- **Generated**: 2026-08-21
-
 ### P3: Research Practical knowledge and knowledge without observation
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-08-20-agency-self-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-08-20-agency-self-wing (Medium priority): Anscombe's doctrine that agents know what they are doing non-observationally has no dedicated treatment - it appears only in passing in philosophy-of-action-under-dualism and two other files (grep-verified in-review). A first-person epistemic channel that is neither perception nor inference sits squarely inside the Map's first-person-epistemology interests. NOTE: concepts gate read 318/320 at harvest with both slots claimed by pending chains (scale-types expand, subject-fusion research). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/practical-knowledge-without-observation-2026-08-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'practical-knowledge-without-observation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2827,6 +2819,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-21: the Yoo et al. 2025 "12-15% total divergence" figure is also live in `apex/minds-without-words`
+- **Type**: refine-draft
+- **File**: obsidian/apex/minds-without-words.md
+- **Notes**: From `reviews/pessimistic-2026-08-21-animal-consciousness.md`, Issue 2. Line 87 reads "post-2023 telomere-to-telomere comparisons that include indels and structural variants (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%". The paper (full text verified, EuropePMC PMC12058530) reports **12.5–27.3% of an ape genome "failed to align or was inconsistent with a simple one-to-one alignment"**; it never uses the phrase "total divergence", and it attributes part of that gap to *"technical limitations of alignment in repetitive regions"* rather than to biology. This locus additionally mischaracterises the measure as one "that include[s] indels and structural variants", which is not what a one-to-one alignment failure measures. Fix identically to the `topics/animal-consciousness.md:138` locus so the two do not drift apart; the surrounding argument is unaffected because the sentence already says the case "turns on *substantial similarity with substantial divergence*, not on any single percentage". ⚠️ `reviews/deep-review-2026-05-21-minds-without-words.md:80` ratified this as "correctly attributed" — do not treat that ledger entry as evidence. **MIRROR**: sync and grep both trees.
 
 ### ✓ 2026-08-21: `topics/animal-consciousness` attributes to Carruthers 2019 the opposite of his actual thesis, cites a Nature divergence figure the paper does not report, and hands illusionism a "successful prediction" the article elsewhere says is unobtainable
 - **Type**: refine-draft
