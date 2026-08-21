@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T01:15:30+00:00'
+ai_modified: '2026-08-21T01:42:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 01:15:30+00:00
+lastmod: 2026-08-21 01:42:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21T01:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/)
+- **Original score**: no numeric score (scripts/curate.py review tool absent); baseline = [pessimistic-2026-08-21-scale-types](/reviews/pessimistic-2026-08-21-scale-types/), verification-clean fresh create with 1 high / 3 medium / 2 low philosophical findings
+- **Changes**: (1) HIGH — new fifth-rung paragraph engaging the proxy-based spanning rejoinder (matching tasks, discrimination-based scaling, Fechnerian JND-counting; temperature analogy answered by the article's own nominal-rung move: spanning structures represent discrimination behavior, promotion to phenomenal magnitude is the contested bridge, not a theorem), citing Browning & Veit 2020 inline (clears the dangling ref) and folding in the Issue-4 diachronic concession (memory-mediated within-subject comparison is a proxy too; asymmetry survives because it is a performed act generating data). (2) MEDIUM — meaningfulness line split into epistemic vs metaphysical readings: "decidable by no representation the axioms license"; fact of the matter may exist, truth value preserved by no admissible pair of representations — empirically undecidable, not contentless — so the [moral-census-opacity](/concepts/moral-census-opacity/) citation now coheres (opacity presupposes a hidden fact). (3) MEDIUM — monotone-distortion rationale added at ratio rung (order survives monotone response distortion, ratios do not; interval stands or falls with difference-structure tests), converting the ladder's asymmetric trust from unargued to principled; Ho/Landy/Maloney reframed as existence proof for axiom-testing of *perceptual comparison judgments about stimuli* with named-anchor forward reference to the ladder; MLCM model-fitting-not-direct-cancellation-testing point added inside the Trendler sentence. (4) LOW bundle — Stevens 1946 anchored inline at the scale-types mention; "physicists' verdict"→"physicists' position, as Tal summarises Norman Campbell"; "fails even the ordinal rung"→"is argued to fail"; "strongest empirical vindication available"→"among the strongest empirical vindications"
+- **Engagement classification** (editor-internal): proxy-based naturalism at the cross-subject rung: Mode Two into Mode Three — the promotion from discrimination-behavior representation to phenomenal magnitude is identified as a move RTM's own representation/uniqueness standards have not earned, and the residue is honestly conditioned on the first-person-access premise rather than claimed as in-framework refutation
+- **Length**: 3225 → 3469 by `analyze_length` (+244 net; hard threshold 3500, status soft_warning unchanged). Calibration strengths (conditional impossibility phrasing in lead and fifth rung, hedged absence claims) preserved verbatim
+- **Published**: yes
 
 ## 2026-08-21T01:30 UTC - pessimistic-review
 - **Status**: Success
