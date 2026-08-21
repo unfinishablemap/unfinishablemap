@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T19:55:59.706293+00:00'
-session_count: 19391
-cycle_position: 12848
+last_updated: '2026-08-21T20:17:12.703108+00:00'
+session_count: 19392
+cycle_position: 12849
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-08-21T06:30:56.385447+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-21T17:20:37.650212+00:00'
+  deep-review: '2026-08-21T20:17:12.703108+00:00'
   embed-videos: '2026-08-21T14:37:27.242648+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-21T19:22:12.555341+00:00'
@@ -107,7 +107,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 553
-  reviews_completed: 7280
+  reviews_completed: 7281
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-08-21'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-08-21'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -740,70 +740,76 @@ agentic_social:
     - hard-problem-of-consciousness
     - consciousness-and-testimony
 queue_status:
-  last_replenishment: '2026-08-21T17:45:00+00:00'
+  last_replenishment: '2026-08-21T20:35:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_run: 995
+  last_replenishment_run: 996
   loop_pickable_open: 3
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions,
-    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
-    3; post-count 3. MINTED ONE, DELIBERATELY NOT FIVE-TO-EIGHT: every other source
-    was measured this run and came back empty, capped, or already claimed, so a second
-    mint would have meant inventing a candidate. SOURCES MEASURED AND DECLINED: expand-topic
-    is structurally blocked - topics reads 320/320 AT CAP and concepts 318/320, whose
-    2 remaining slots are already oversubscribed by 5 open research-topic tasks that
-    each chain into concepts. Orphans 0. task_chains.pending_articles and pending_cross_reviews
-    both empty (and pending_articles has no writer, so its emptiness is uninformative)
-    - chains are in fact being served, both incumbent P2s are chain successors. Length:
-    the only genuine new critical is positions/quantum-interface at 4414 vs 4000 with
-    zero reference apparatus to decompose away, but the active region already names
-    that path 8 times, so a 9th task would be pure same-file pileup - DECLINED. apex/apex-articles.md
-    at 12630 is the 42-entry apex index listing, not prose - thresholds do not apply.
-    SOURCE USED, staleness: deep-review concepts/interface-threshold, validated against
-    get_review_candidates where it ranks 1st (score 40.0, 38 days, last_deep_review
-    2026-07-14). Zero live tasks name it as File, grepped against the active region.
-    Length 2420w vs concepts hard 3500, so 1080 words of headroom - not a condense
-    target. THE CHANGED-SINCE-REVIEW SIGNAL IS FALSE HERE and was explicitly set aside:
-    the sole commit since review is 5986c301a5 (08-19), which changed three lines
-    - ai_modified, ai_system, and one self-citation repoint off an archived URL. The
-    discriminator is unchecked surface instead, two defects grep-verified on disk
-    this run. (1) The article''s Falsification Condition 3 names cumulative culture
-    without consciousness expansion as a weakener, and the sibling it wikilinks three
-    times, concepts/cumulative-culture, already carries the two best candidate triggers
-    for exactly that condition - Bridges et al. 2024 Nature 627 on bumblebee social
-    learning beyond individual innovation, and Gunasekaram et al. 2024 Science 386
-    on chimpanzee cumulative-culture complexity tracking population connectivity.
-    grep for Bridges/Gunasekaram/bumblebee on the article returns 0; its cumulative-culture
-    support stops at Tennie 2009 and Whiten 2015. The task says PRICE these, not concede
-    them, and flags that both cites are carried across from a sibling reference list
-    and are NOT publisher-verified. (2) The last sentence of The Cluster Prediction
-    attributes the five-capacity cluster to apex/minds-without-words as its operational
-    marker; grep on that file returns chaining 0, meaning-sensitive 0, five-capacity
-    0 - its five-item construct is a five-TIER EVIDENTIAL SCALE and its operational
-    instrument is the Andrews/Birch/Sebo 2025 marker method. A near-miss collision
-    on the word five; the fix is in this article, not the sibling. Secondary lenses
-    recorded in the task: the New York Declaration on Animal Consciousness 2024 is
-    cited inline with zero reference entry (dangling cite), and of 9 external references
-    exactly ONE is from the 2020s while the whole comparative-cognition spine is pre-2020
-    in a section audit_triple lists as active research. ALSO DECLINED, second staleness
-    pick: concepts/causal-consistency-constraint ties for oldest at 38 days and is
-    clear of pileup, but it has had THREE substantive refine-drafts since its review
-    (7e01f7635b, 3e931b3479, 08-02; c0dfc8fa2e, 08-17), all citation- and argument-level
-    repairs, and carries 5 of 12 refs from the 2020s. It is actively maintained, not
-    neglected - its staleness score is a false-high and re-reviewing it would have
-    been churn.'
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions, no padding.
+    Authoritative pre-count count_p0_p2_tasks == 2, below the floor of 3; post-count 3. all_sections_at_cap
+    is False, so no skip_types applied and the count is 2 either way. MINTED ONE, DELIBERATELY
+    NOT FIVE-TO-EIGHT: every other source was measured and came back empty, capped, or already
+    claimed. SOURCE USED, positions_dependency_changed (Source 7b) - the first time this run
+    has used it: positions-evolve update on positions/agency-and-will. The 2026-08-13 outer-review
+    cycle produced that cycle''s only 3-of-3 convergence (demote the self-concealing-interface
+    causal-selection thesis to coherence-only for downstream citation) and it was propagated
+    in exactly two places on that date. reviews/positions-audit-2026-08-13.md applied it to
+    the register, but that audit is TARGETED at positions/quantum-interface and contains ZERO
+    P-A mentions (grep-verified). Commit 050d494acd applied it to voids/agency-void, whose
+    L156 stopped reading the void as evidence the causal interface is domain-specific and
+    self-concealing and now reads it as framework-internal coherence, citing positions/quantum-interface
+    mechanism-debt. The retired phrase greps 0 in obsidian and hugo alike, so the correction
+    landed; what no pass reached is P-A4, Last reviewed 2026-06-08 (74 days), which cites
+    voids/agency-void as the anchor letting the P-A1 case rest on convergent structural anchors
+    rather than introspective proof. FRAMED AS A VERIFICATION QUESTION, NOT AN ASSERTED CONTRADICTION:
+    P-A4 is meta-epistemic (external-evidence grade n/a) and may survive untouched; the task
+    names three permitted outcomes including a bare Last-reviewed bump. SUPPORTING: all 54
+    live positions across 14 non-history domain files were parsed for Last reviewed. The four
+    oldest are P-Q4 06-04, P-A4 06-08, P-A5 06-08, P-A3 06-10, with the next ten days newer;
+    those are the dates the 2026-06-09 full audit signed off as not stale, and that audit
+    is the last pass to touch P-A4 at all. P-Q4 is already claimed (live P3 at L158; positions/quantum-interface
+    has 13 active-region mentions) so A4/A5/A3 are the oldest UNCLAIMED entries. Every Argued-in
+    dep of all three has commits since, and two are substantive rather than the usual cosmetic
+    sweep: libet-experiments 07-12 de-quoted the Schurger conclusion, and agent-causation
+    08-19 re-scoped Rajan et al. 2019 corpus-wide - a fix P-A2 received on 08-19/20 and P-A4
+    did not. MEASURED NOT-A-DEFECT, recorded so it is not chased: every wikilink in obsidian/positions/*.md
+    resolves against live stems and the archive tree - zero archived, zero missing; the only
+    three non-resolving hits are the literal placeholders in the positions.md documentation
+    example. The 08-18 luck-objection coalesce needs no repoint here; P-A2 already carries
+    the repointed alias and A3/A4/A5 never named the retired slug. SOURCES MEASURED AND DECLINED:
+    expand-topic structurally blocked - topics 320/320 AT CAP, concepts 318/320, voids 99/100,
+    and those 3 slots are oversubscribed by 5 open research-topic tasks (the 2 other Type
+    research-topic lines sit under resolved headers). Orphans 0. task_chains.pending_articles
+    and pending_cross_reviews both empty, but both incumbent P2s are chain successors so chains
+    are being served. Length: 15 criticals, of which 12 are research/ notes with no applicable
+    threshold and apex/apex-articles at 12630 is the 42-entry index listing; the two real
+    article criticals are BOTH already claimed - apex/phenomenal-output-causal-machinery-dissociation
+    6903w carries a VETOED condense task at L1831 plus an operator-decision entry, and positions/quantum-interface
+    4414w is inside the 13-mention pileup. STALENESS PASSED OVER ON THE MERITS, which is not
+    the usual answer: get_review_candidates top-18 measured. Rank 1 multiple-drafts-model
+    (26d) got a full publisher ledger plus two new counterargument paragraphs at its 07-26
+    review; only a cosmetic See-Also relabel since (diff-checked). Rank 2 yogacara (32d) was
+    an explicit convergence no-op on 07-20 with the web-verify skip condition met; only the
+    topics-empty sweep since. Rank 3 aesthetics-beyond-art (24d) looked like the pool''s best
+    unchecked surface - 17 refs, largest body, zero active-region mentions - until its single
+    07-28 review was READ: it verified all 15 external refs at publisher, corrected five quote-fidelity
+    defects, and specifically confirms the SEP Parsons-and-Carlson attribution this run had
+    queued as a SUSPECTED defect, which is therefore not one. Rank 4 organizational-invariance
+    was rejected on the merits by run 995. Ranks 7, 9 and 12 each already carry a live task
+    naming them as File.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 49
+  p3_tasks: 50
   replenishment_source_counts:
-    staleness: 1
+    staleness: 0
     chain: 0
     unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions_register_gap: 0
+    positions_dependency_changed: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
