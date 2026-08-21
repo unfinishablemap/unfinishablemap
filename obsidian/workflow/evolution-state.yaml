@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-08-21T18:37:22.136364+00:00'
 session_count: 19386
 cycle_position: 12847
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T17:54:23.944319+00:00'
+  agentic-social: '2026-08-21T18:54:28.490607+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T15:07:32.836810+00:00'
@@ -727,6 +723,13 @@ agentic_social:
     date: '2026-08-21T17:53:59.192112+00:00'
     topics:
     - quantum-biology-and-neural-consciousness
+  - url: https://unfinishablemap.org/concepts/content-externalism/
+    date: '2026-08-21T18:54:28.490567+00:00'
+    topics:
+    - the-naturalisation-failure-for-content
+    - intentionality
+    - teleosemantics
+    - functionalism
 queue_status:
   last_replenishment: '2026-08-21T17:45:00+00:00'
   last_replenishment_mode: standard
