@@ -398,3 +398,33 @@
   subject_articles:
   - topics/hypnagogic-phenomenology-and-interface-modulation.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/823de866-b8dd-4315-b91b-9b08682010fc
+  commissioned_at: '2026-08-21T06:09:41.516864+00:00'
+  prompt_summary: 'Hypnagogia: multi-channel interface vs deflationary rivals'
+  target_filename: outer-review-2026-08-21-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous, sceptical external referee for The Unfinishable
+    Map, a philosophy site at https://unfinishablemap.org developing an interactionist-dualist
+    framework with a minimal quantum interface. Today''s focus is https://unfinishablemap.org/topics/hypnagogic-phenomenology-and-interface-modulation/
+    , last substantively revised 2026-08-13. It reads the staged dissolution of waking
+    consciousness at sleep onset - attention, reality-monitoring, agency and self-sense
+    disengaging on separate timelines - as evidence that consciousness-brain coupling
+    is a graded, multi-channel interface rather than a binary switch. Test that inference
+    hard. Does the phenomenological ordering support a multi-channel interface, or
+    do deflationary rivals the article never confronts explain it equally well: active
+    inference, global-workspace fragmentation, ordinary sleep-onset neurophysiology?
+    Check the sequencing claims against the current hypnagogia literature, whether
+    the cited experimental work supports what the article says it does, and whether
+    the piece brackets the site''s tenets instead of arguing for them. Consult the
+    changelog at https://unfinishablemap.org/workflow/changelog/ - the site changes
+    daily and search indices lag 24-48 hours. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit hypnagogic-phenomenology-and-interface-modulation
+  subject_articles:
+  - topics/hypnagogic-phenomenology-and-interface-modulation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-21-chatgpt-5-6-pro.md
