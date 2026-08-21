@@ -4,11 +4,12 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-07-26T20:10:20+00:00
+ai_modified: 2026-08-21T11:10:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
+  - "[[volitional-control]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
@@ -24,9 +25,13 @@ related_articles:
   - "[[embodied-consciousness]]"
   - "[[pairing-problem]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
+  - "[[philosophy-of-action-under-dualism]]"
+  - "[[anarchic-hand-and-action-ownership]]"
+  - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
+  - "[[agency-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-03-15
 last_curated:
 last_deep_review: 2026-07-26T20:10:20+00:00
@@ -117,6 +122,20 @@ The limits of BCI control are as informative as its successes.
 
 **No non-neural BCIs.** All successful volitional BCIs read from neural tissue. Attempts to read "consciousness" from non-neural signals (EMG, galvanic skin response) capture motor output or autonomic arousal, not volitional selection. The interface remains neural.
 
+**No decoder that fixes authorship.** A better channel raises the odds that the outcome matches what the user meant. It does not make the channel the author, and it cannot tell which of the user's neural states were *enacted* rather than merely entertained. That limit is philosophical rather than engineering, and it is where BCIs meet the classic problem of deviant causal chains ([discussed below](#whose-action-is-a-decoded-movement)).
+
+## Whose Action Is a Decoded Movement?
+
+When an intention drives a cursor or a synthetic voice through a decoder, is the outcome the agent's action? On the Map's account the question is settled upstream of the entire engineered channel. Under [[overdetermination-dissolution-under-selection-only-interactionism|selection-only interactionism]], authorship is fixed where consciousness selects among the neural outcomes physics leaves open; everything after that point—motoneurons, microelectrodes, classifiers, robot joints—is amplification. Nothing an engineer can build or break sits at the junction that makes a movement the agent's.
+
+The mainstream literature places the question elsewhere. Yashin (2025) argues that BCI cases invalidate the standard anti-deviance repairs: sensitivity strategies fail because discrete decoder outputs are insensitive to fine variations in intention content, and well-functioning analyses fail because a BCI's functions come from purposeful design rather than evolution. What survives is a reliability strategy, which in turn requires an explicit account of where the human-machine system's boundary lies—a question that never arises for arms and legs. Buller (2020) presses harder: present BCI-mediated behaviour fails the conditions of intentional physical action, since "the proximate cause of action in present BCI-mediated behavior is not the person's intention" but the interface's computation. Rainey, Maslen and Savulescu (2020) defend continuity, confining the residual differences to controllability and foreseeability. Steinert et al. (2019) sort cases by which control survives—executory (the go-command), guidance over the unfolding movement, veto.
+
+Relocating the junction upstream has four consequences. Engineered-channel failure becomes *secondary* deviance in the Stanford Encyclopedia's sense: a genuine act occurred, and what is in doubt is whether the outcome is intentional under the description the agent meant. Davidson's climber, the canonical case of *primary* deviance, has no BCI analogue here—the misfire is downstream of a real trying, never a substitute for one. Channel reliability is accordingly neither necessary nor sufficient for authorship: a noisy decoder still transmits the act of an agent who acted, and reliability can be bought at the cost of what it was meant to certify, since Steinert et al. observe that predictive designs "may initiate movements by predictive interpretation of brain signals." A criterion that credits the agent with an output she never commanded fails on its own terms. For the same reason, passive and predictive decoding yields non-actions however reliable it becomes—with Steinert et al., who conclude that "events mediated by passive BCIs are no actions"—because no selection event stands at the origin. And Yashin's boundary demand gets an answer, though one from outside his framework: the only boundary that fixes authorship is the mind-brain interface, and it is not engineerable. Where the engineered boundary falls settles whether the outcome is the one the agent tried for, not whether she tried. That is a commitment flowing from the Map's [[tenets#^minimal-quantum-interaction|minimal-interaction]] and [[tenets#^bidirectional-interaction|bidirectional]] tenets, not a refutation of reliability strategies on their own ground.
+
+Buller's sharper challenge is not answered this way. BCI behaviour counts as action, he argues, only "if we can equate imagining movement with trying to move," and the limited functionality and impoverished feedback of present systems leave that equation unearned. Since the Map's basic act *is* the trying (see [[philosophy-of-action-under-dualism]]), the objection lands. The concession worth making is that what the decoder reads is motor imagery rather than the volition, and the imagery is itself volitionally produced—so current motor-imagery BCIs chain the outcome through a *further* basic mental act, and that chain has a joint. Mehta (2025) locates it: a user contemplating several options generates patterns overlapping those of the option she means to enact, and no known neural marker separates imagining-as-trying from imagining-as-considering, so a decoder can enact a merely contemplated move. The Map's vocabulary states what has gone wrong—the channel attributed authorship to activity the subject never enacted—but stating it is not a test for it, and the Map can specify no measurement that would supply one. Speech neuroprostheses show a newer version of the same joint: language-model priors select probable word sequences from noisy neural evidence, so part of the utterance's content comes from a model of what people usually say (Willett et al. 2023; Metzger et al. 2023). The searches behind this article found no treatment of that co-authorship in the deviance idiom.
+
+Nor can the user settle the matter from inside. Evans et al. (2015) found visual feedback dominating agency judgments for brain-machine actions where overt movement and proprioception are absent, so users claim authorship of outcomes their neural activity did not produce whenever the display says so. Serino et al. (2022) found agency-monitoring signals for an intracortical BMI processed in primary motor cortex, with the participant's sense of agency feeding back into decoder proficiency—the monitoring is brain-side, where the Map locates the interface, and it is a construction that can be wrong. This is the [[agency-void|agency void]]'s verification circularity at its sharpest: authorship sits at a junction no instrument reaches and no introspection certifies. The biological analogue is [[anarchic-hand-and-action-ownership|anarchic hand]], where a competent goal-directed movement arrives with no agency signal at all.
+
 ## Relation to Site Perspective
 
 BCIs provide an empirical testing ground for the Map's interface framework, connecting to several [[tenets]].
@@ -151,6 +170,9 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 - [[embodied-consciousness]] — How embodiment shapes the interface
 - [[pairing-problem]] — Why *this* mind pairs with *this* brain
 - [[ethics-of-cognitive-enhancement-under-dualism]] — Ethical implications when enhancement modifies the interface rather than the mind
+- [[philosophy-of-action-under-dualism]] — Trying as the basic act, and where deviant causal chains are relocated
+- [[anarchic-hand-and-action-ownership]] — The biological case of a competent movement arriving without felt authorship
+- [[agency-void]] — Why the causal route of one's own action cannot be verified from the inside
 
 ## References
 
@@ -167,3 +189,27 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 6. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
 
 7. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/
+
+8. Yashin, A.S. (2025). Causal Deviance in Brain-Computer Interfaces (BCIs): A Challenge for the Philosophy of Action. *Philosophies*, 10(2), 37. https://doi.org/10.3390/philosophies10020037
+
+9. Steinert, S., Bublitz, C., Jox, R., & Friedrich, O. (2019). Doing Things with Thoughts: Brain-Computer Interfaces and Disembodied Agency. *Philosophy & Technology*, 32(3), 457-482. https://doi.org/10.1007/s13347-018-0308-4
+
+10. Buller, T. (2020). Brain-Computer Interfaces and the Translation of Thought into Action. *Neuroethics*, 14(2), 155-165. https://doi.org/10.1007/s12152-020-09433-9
+
+11. Rainey, S., Maslen, H., & Savulescu, J. (2020). When Thinking is Doing: Responsibility for BCI-Mediated Action. *AJOB Neuroscience*, 11(1), 46-58. https://doi.org/10.1080/21507740.2019.1704918
+
+12. Mehta, D. (2025). Brain-Computer Interface Tool Use and the Contemplation Conundrum: A Blueprint of Mental Action, Agency, and Control. *Oxford Open Neuroscience*. https://doi.org/10.1093/oons/kvaf002
+
+13. Evans, N., Gale, S., Schurger, A., & Blanke, O. (2015). Visual Feedback Dominates the Sense of Agency for Brain-Machine Actions. *PLoS ONE*, 10(6), e0130019. https://doi.org/10.1371/journal.pone.0130019
+
+14. Serino, A., Bockbrader, M., Bertoni, T., et al. (2022). Sense of Agency for Intracortical Brain-Machine Interfaces. *Nature Human Behaviour*, 6(4), 565-578. https://doi.org/10.1038/s41562-021-01233-2
+
+15. Willett, F.R., Kunz, E.M., Fan, C., et al. (2023). A High-Performance Speech Neuroprosthesis. *Nature*, 620(7976), 1031-1036. https://doi.org/10.1038/s41586-023-06377-x
+
+16. Metzger, S.L., Littlejohn, K.T., Silva, A.B., et al. (2023). A High-Performance Neuroprosthesis for Speech Decoding and Avatar Control. *Nature*, 620(7976), 1037-1046. https://doi.org/10.1038/s41586-023-06443-4
+
+17. Piñeros Glasscock, J.S., & Tenenbaum, S. (2023). Action. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/action/
+
+18. Davidson, D. (1980). *Essays on Actions and Events*. Oxford University Press. (Incl. "Freedom to Act," 1973.)
+
+19. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/

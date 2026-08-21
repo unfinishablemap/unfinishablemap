@@ -4,7 +4,7 @@ description: "How interactionist dualism reshapes the theory of action: a human-
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-07-10T17:47:34+00:00
+ai_modified: 2026-08-21T11:12:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -17,9 +17,10 @@ related_articles:
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[agency-void]]"
+  - "[[brain-computer-interfaces-and-the-interface-boundary]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-06
 last_deep_review: 2026-07-18T09:47:38+00:00
 last_curated:
@@ -51,7 +52,7 @@ Adopting the skeleton, though, means inheriting its two standing difficulties.
 
 Suppose a climber wants to rid himself of the weight and danger of holding another man on a rope, and believes that loosening his grip would do it. This desire and belief so unnerve him that his hands loosen involuntarily, and the man falls. The right mental states caused the right movement—yet the climber did not *intentionally* let go. The cause ran through the *wrong route*: it worked by unnerving him rather than by his acting on it.
 
-Deviant causal chains are the causal theory's most persistent internal problem. "Caused by the right mental states" is not sufficient for action; the causation must also proceed *in the right way*. Decades of work has tried to specify what "the right way" comes to—appeals to the *sensitivity* of the movement to fine variations in the intention's content, to the *reliability* of the pathway, to reconceiving the intention as a *formal* rather than efficient cause, and (most recently) to analysing non-deviance through the *manifestation of the agent's dispositions* (Ward 2024). Brain–computer interfaces have made the problem concrete again: when an intention drives a prosthesis through an engineered signal path, which paths count as non-deviant is a live question rather than an armchair puzzle. No proposed repair commands consensus.
+Deviant causal chains are the causal theory's most persistent internal problem. "Caused by the right mental states" is not sufficient for action; the causation must also proceed *in the right way*. Decades of work has tried to specify what "the right way" comes to—appeals to the *sensitivity* of the movement to fine variations in the intention's content, to the *reliability* of the pathway, to reconceiving the intention as a *formal* rather than efficient cause, and (most recently) to analysing non-deviance through the *manifestation of the agent's dispositions* (Ward 2024). Brain–computer interfaces have made the problem concrete again: when an intention drives a prosthesis through an engineered signal path, which paths count as non-deviant is a live question rather than an armchair puzzle. Yashin (2025) argues the BCI cases invalidate the sensitivity and well-functioning repairs outright and force the debate onto reliability, which then needs an explicit account of where the human-machine system's boundary lies; [[brain-computer-interfaces-and-the-interface-boundary#whose-action-is-a-decoded-movement|the Map's reply to that literature]] relocates the non-deviance condition upstream of the whole engineered channel. No proposed repair commands consensus.
 
 ### The Disappearing Agent {#disappearing}
 
@@ -108,6 +109,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 - [[phenomenology-of-choice-and-volition]]
 - [[agency-void]]
 - [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — Davidson's causal theory of action as the physicalist backdrop the Map's dualist account departs from
+- [[brain-computer-interfaces-and-the-interface-boundary]] — Deviant causation where the effector is engineered, and why authorship is fixed upstream of the decoder
 
 ## References
 
@@ -120,5 +122,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 7. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
 8. Pereboom, D. (2014). The disappearing agent objection to event-causal libertarianism. *Philosophical Studies*, 169(1), 59–69.
 9. Ward, S. (2024). An attempt at a general solution to the problem of deviant causal chains. *Philosophy and Phenomenological Research*, 108(2), 374–395.
-10. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
-11. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
+
+10. Yashin, A.S. (2025). Causal Deviance in Brain-Computer Interfaces (BCIs): A Challenge for the Philosophy of Action. *Philosophies*, 10(2), 37. https://doi.org/10.3390/philosophies10020037
+11. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
+12. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/

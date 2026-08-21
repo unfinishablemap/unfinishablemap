@@ -6,6 +6,34 @@ human_modified: null
 ai_modified: 2026-08-20T19:14:14+00:00
 draft: false
 target_section: topics
+consumed_by: "[[brain-computer-interfaces-and-the-interface-boundary]]"
+consumed_note: >-
+  FOLDED 2026-08-21 rather than spent as a new article: `topics/` measured
+  320/320, so the expand-topic the note anticipated was refused and the
+  material was distributed across three existing hosts. Primary host
+  [[brain-computer-interfaces-and-the-interface-boundary]] gained a new
+  section, "Whose Action Is a Decoded Movement?", carrying Angle 1 whole (the
+  relocation thesis and its four consequences: secondary-not-primary deviance,
+  reliability neither necessary nor sufficient, predictive/passive decoding as
+  non-action, and the answer to Yashin's system-boundary demand) plus Angle 2
+  in full (the Buller concession, Mehta's contemplation conundrum, and the
+  agency-void residue via Evans 2015 and Serino 2022); a fourth "What BCIs
+  Cannot Do" clause was added above it, and twelve reference entries. Secondary
+  hosts: [[philosophy-of-action-under-dualism]] (its one-sentence BCI mention
+  now names Yashin 2025 and points at the new section) and
+  [[anarchic-hand-and-action-ownership]] (a paragraph on the biological
+  counterpart of channel-initiated non-actions, citing Steinert et al. 2019).
+  VERIFICATION CEILINGS HONOURED: no Yashin span is quoted anywhere — the
+  MDPI PDF was never retrieved and all Yashin material is paraphrase; no figures
+  from Metzger et al. 2023 are cited (truncated abstract only); the
+  LM-prior-co-authorship gap is written as search-bounded ("the searches behind
+  this article found none"), not as an absence claim. Verbatim quotes used are
+  confined to Steinert et al. 2019 (full text retrieved and grep-verified at
+  research time) and one clause of Buller 2020's abstract (retrieved verbatim).
+  NOT FOLDED: the legal/responsibility wing (Grubler 2011, Tamburrini 2009, the
+  remaining AJOB commentaries), which the note itself marks as out of scope for
+  a metaphysics article; and the Ward 2024-applied-to-Yashin-Case-1 test, which
+  no source runs and which would have needed the unretrieved PDF.
 topics:
   - "[[free-will]]"
   - "[[volitional-control]]"

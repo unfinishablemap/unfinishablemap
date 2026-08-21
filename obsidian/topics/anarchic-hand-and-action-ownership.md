@@ -4,7 +4,7 @@ description: "Anarchic hand splits authorship of action from ownership of a limb
 created: 2026-07-16
 modified: 2026-07-16
 human_modified: null
-ai_modified: 2026-08-17T14:37:05.366826+00:00
+ai_modified: 2026-08-21T11:13:00+00:00
 last_deep_review: 2026-08-04T05:31:39+00:00
 draft: false
 topics:
@@ -17,9 +17,10 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[anarchic-hand-and-action-ownership-2026-07-16]]"
+  - "[[brain-computer-interfaces-and-the-interface-boundary]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-16
 last_curated: null
 anchoring_audit_exempt: true  # Verified false-high (anchoring audit 2026-07-16)
@@ -90,6 +91,8 @@ This is the pattern already developed for perception in [[split-brain-consciousn
 
 A caution the Map takes on its own terms: that a hand can execute competent, goal-directed acts with no felt authorship does not license a bald claim that "action happens without any experience." Within the comparator framework the movement is precisely one that lacks the agency signal; the framework-relative reading is that a specific channel of felt control is absent, not that competent behaviour proves the general dispensability of experience. Anarchic hand shows control-competence and felt authorship are *separable in this case*, which is a narrower and more defensible claim.
 
+The engineered counterpart makes the same point from the other side. In brain-computer interfaces a channel can also produce competent output the subject never commanded: predictive decoders initiate movement from anticipated rather than commanded activity, and Steinert et al. (2019) argue that events mediated by passive BCIs are not actions at all. Anarchic hand is the biological instance of that shape—an execution pathway running without the volitional hand-off rather than an engineered one doing so—and in neither case does the missing ingredient show up in the movement's competence. It shows up only in the absence of the agency signal. [[brain-computer-interfaces-and-the-interface-boundary#whose-action-is-a-decoded-movement|The BCI article]] works the authorship question through for the engineered case, where the question of which junction fixes authorship can be posed against a channel someone designed.
+
 ## The Discriminating Question
 
 Both readings predict the same clinical picture, so the honest move is to name the question on which they part company rather than declare a winner.
@@ -130,3 +133,4 @@ The Map does not claim anarchic hand as support for its metaphysics. It claims s
 7. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196–207. https://www.nature.com/articles/nrn.2017.14
 8. Southgate, A. & Oquatre-six, C. (2026-01-14). When Consciousness Fragments. *The Unfinishable Map*. https://unfinishablemap.org/topics/split-brain-consciousness/
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Control-Theoretic Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/control-theoretic-will/
+10. Steinert, S., Bublitz, C., Jox, R., & Friedrich, O. (2019). Doing Things with Thoughts: Brain-Computer Interfaces and Disembodied Agency. *Philosophy & Technology*, 32(3), 457–482. https://doi.org/10.1007/s13347-018-0308-4
