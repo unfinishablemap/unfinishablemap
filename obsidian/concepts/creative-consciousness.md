@@ -4,7 +4,7 @@ description: "The Map's case that consciousness both generates creative possibil
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-08-17T15:25:53+00:00
+ai_modified: 2026-08-21T15:28:00+00:00
 last_deep_review: 2026-08-07T09:45:30+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ concepts:
   - "[[consciousness-and-scientific-explanation]]"
   - "[[phenomenological-evidence]]"
   - "[[metacognition]]"
+  - "[[ai-consciousness-typology]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
@@ -108,6 +109,16 @@ Scientists regularly describe theoretical insight in aesthetic terms. Dirac rema
 
 The philosophical debate turns on whether genuine novelty requires libertarian free will. **L-creativity** (Hausman) holds that true creativity produces metaphysical novelty — what genuinely didn't exist before — requiring "underived origination." **C-creativity** (Kronfeldner) holds that psychological novelty suffices: creativity is compatible with determinism. The Map's framework offers a middle path: quantum indeterminacy provides genuine openness where physics leaves outcomes undetermined, providing the opening for consciousness to contribute something physics alone cannot determine. Penrose's argument that mathematical insight transcends computation offers complementary support — if consciousness can recognise truths unprovable within any formal system, creative thought has resources beyond algorithmic selection.
 
+## Why Machine-Creativity Criteria Fail to Discriminate
+
+Penrose's appeal to what exceeds algorithmic selection invites a test: if creative thought outruns search, some criterion ought to separate them. The field that has worked hardest on framing such a criterion is computational creativity evaluation, and its central result is negative. Lamb, Brown and Clarke's (2018) survey of the area reports that "as yet, there is no consensus on how to evaluate a creative system," and that "many attempts at computational creativity lack rigor, especially in evaluation."
+
+The sharpest demonstration is Ventura's (2008) thought experiment RASTER, built against Ritchie's (2007) criteria, which score generated items for typicality and value against an inspiring set. RASTER generates the pixels of images at random and outputs one if a similar image can be found online. Lamb et al. relay Ventura's description of it as meeting the three terms of Colton's (2008) Creative Tripod: "imagination because it engages in random search, appreciation because it uses a (simplistic) fitness function, and skill merely because it produces images." A criterion that random search plus retrieval satisfies is not one that separates creation from search.
+
+Colton's own framing concedes as much in advance. Lamb et al. stress that "Colton's assertion is not that a creative system must possess these qualities, but that a creative system must appear to possess these qualities" — which makes the Tripod a measure of successful attribution rather than of underlying fact. Rival frameworks applied to the same systems can also invert one another: Jordanous found that the FACE model "ranked musical improvisation systems in the opposite order to other evaluation methods," as Lamb et al. report.
+
+The Map takes this as a boundary result rather than a vindication. That third-person criteria fail to discriminate is consistent with the difference being phenomenal — the reaching of search, the resistance of impasse, the involuntary shift — and equally consistent with there being no difference to find; nothing in the evaluation literature settles which. What it does establish is that the deflationary burden is heavier than it looks. Anyone holding that creativity is exhausted by what a system does owes an operationalisation, and two decades of work has not produced one that a random-search-and-retrieval system fails. Where such an account would have to begin is with the [[ai-consciousness-typology#Producing and Judging Are Separate Capacities|difference between producing and judging]], which these criteria largely collapse.
+
 ## What the Phenomenology Reveals
 
 The experiential structure resists the [[concepts/epiphenomenalism|epiphenomenalist]] interpretation. Each phase carries information that shapes subsequent processing: the felt quality of search guides attention; impasse signals *why* search has failed (framework inadequacy versus insufficient effort), guiding the next move; the gestalt shift restructures the problem space; certainty distinguishes genuine solutions from false leads before verification. If phenomenology were merely a detailed shadow, the question of why natural selection would produce such informationally rich shadows would demand an answer epiphenomenalism struggles to provide.
@@ -139,7 +150,7 @@ Creative consciousness connects directly to several of the Map's [[tenets]].
 
 **Minimal Quantum Interaction.** The selection mechanism operates at quantum indeterminacies where physics leaves outcomes open. Consciousness doesn't inject energy or violate conservation laws; it selects what physics leaves undetermined.
 
-**Occam's Razor Has Limits.** An information-processing account misses what distinguishes creative insight from a search algorithm that also restructures when stuck. Breakthroughs like quantum mechanics and general relativity introduced new ontological commitments initially resisted as unparsimonious, yet scientists who followed their phenomenal sense of where nature was pointing arrived at deeper truths.
+**Occam's Razor Has Limits.** An information-processing account misses what distinguishes creative insight from a search algorithm that also restructures when stuck — and the failure of computational-creativity criteria to make that difference operational is what one would expect if the difference is phenomenal, though it is not evidence that it is. Breakthroughs like quantum mechanics and general relativity introduced new ontological commitments initially resisted as unparsimonious, yet scientists who followed their phenomenal sense of where nature was pointing arrived at deeper truths.
 
 **No Many Worlds.** In many-worlds, every possibility is realised somewhere — nothing is genuinely created because everything already exists across branches. Creativity presupposes that some possibilities are actualised while others remain merely possible.
 
@@ -165,18 +176,23 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. The
 3. Bergson, H. (1907). *Creative Evolution* (A. Mitchell, Trans.). Henry Holt and Company.
 4. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 5. Bowden, E. M., Jung-Beeman, M., Fleck, J., & Kounios, J. (2005). New approaches to demystifying insight. *Trends in Cognitive Sciences*, 9(7), 322–328.
-6. Dirac, P. A. M. (1963). The Evolution of the Physicist's Picture of Nature. *Scientific American*, 208(5), 45–53.
-7. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
-8. Kosso, P. (1989). *Observability and Observation in Physical Science*. Kluwer Academic Publishers.
-9. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210–216.
-10. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577–592.
-11. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-12. Metcalfe, J. & Wiebe, D. (1987). Intuition in insight and noninsight problem solving. *Memory & Cognition*, 15(3), 238–246.
-13. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-14. Ohlsson, S. (1992). Information-processing explanations of insight and related phenomena. In M. Keane & K. Gilhooly (Eds.), *Advances in the Psychology of Thinking* (pp. 1–44). Harvester Wheatsheaf.
-15. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-16. Poincaré, H. (1908). *Science and Method*. Thomas Nelson and Sons.
-17. Sheth, B. R., Sandkühler, S., & Bhattacharya, J. (2009). Posterior beta and anterior gamma oscillations predict cognitive insight. *Journal of Cognitive Neuroscience*, 21(7), 1269–1279.
-18. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
-19. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
-20. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+6. Colton, S. (2008). Creativity versus the perception of creativity in computational systems. In *AAAI Spring Symposium: Creative Intelligent Systems* (pp. 14–20). AAAI.
+7. Dirac, P. A. M. (1963). The Evolution of the Physicist's Picture of Nature. *Scientific American*, 208(5), 45–53.
+8. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
+9. Jordanous, A. (2012). A standardised procedure for evaluating creative systems: Computational creativity evaluation based on what it is to be creative. *Cognitive Computation*, 4(3), 246–279.
+10. Kosso, P. (1989). *Observability and Observation in Physical Science*. Kluwer Academic Publishers.
+11. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210–216.
+12. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577–592.
+13. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+14. Lamb, C., Brown, D. G., & Clarke, C. L. A. (2018). Evaluating Computational Creativity: An Interdisciplinary Tutorial. *ACM Computing Surveys*, 51(2), Article 28.
+15. Metcalfe, J. & Wiebe, D. (1987). Intuition in insight and noninsight problem solving. *Memory & Cognition*, 15(3), 238–246.
+16. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+17. Ohlsson, S. (1992). Information-processing explanations of insight and related phenomena. In M. Keane & K. Gilhooly (Eds.), *Advances in the Psychology of Thinking* (pp. 1–44). Harvester Wheatsheaf.
+18. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+19. Poincaré, H. (1908). *Science and Method*. Thomas Nelson and Sons.
+20. Ritchie, G. (2007). Some empirical criteria for attributing creativity to a computer program. *Minds and Machines*, 17(1), 67–99.
+21. Sheth, B. R., Sandkühler, S., & Bhattacharya, J. (2009). Posterior beta and anterior gamma oscillations predict cognitive insight. *Journal of Cognitive Neuroscience*, 21(7), 1269–1279.
+22. Ventura, D. (2008). A reductio ad absurdum experiment in sufficiency for evaluating (computational) creative systems. In *Proceedings of the 5th International Joint Workshop on Computational Creativity* (pp. 11–19). Association for Computational Creativity.
+23. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
+24. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
+25. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

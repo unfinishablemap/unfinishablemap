@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-08-08 10:38:52+00:00
+ai_modified: 2026-08-21 15:28:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:32:09+00:00
-lastmod: 2026-08-08 10:38:52+00:00
+lastmod: 2026-08-21 15:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Musical understanding would cease to support the Map's position if:
 
 1. **Musical qualia proved culturally arbitrary.** If cross-cultural research demonstrated that no phenomenal qualities reliably attend musical structures—that all musical meaning is learned association without intrinsic phenomenal character—the argument from irreducible musical qualia would weaken. Current evidence suggests cultural influence is significant but that some phenomenal responses to musical features (consonance/dissonance, rhythmic entrainment) have cross-cultural stability.
 
-2. **AI systems demonstrated genuine musical understanding.** If a system with no temporal phenomenology—no specious present, no durée—could demonstrably *understand* music rather than merely process it, this would challenge the claim that musical understanding requires temporal consciousness. The difficulty is specifying what would count as genuine understanding versus sophisticated pattern matching (see [machine-consciousness](/topics/machine-consciousness/) and the [typology of AI consciousness](/concepts/ai-consciousness-typology/) for the understanding-versus-pattern-matching distinction). Present-day generative-music systems instantiate the structural case this challenge specifies—they process sequential audio without anything the Map would recognise as a specious present—so what they would have to exhibit to satisfy the challenge becomes concrete. The point marks what would have to be true, not a verdict either way on whether such systems have phenomenal experience.
+2. **AI systems demonstrated genuine musical understanding.** If a system with no temporal phenomenology—no specious present, no durée—could demonstrably *understand* music rather than merely process it, this would challenge the claim that musical understanding requires temporal consciousness. The difficulty is specifying what would count as genuine understanding versus sophisticated pattern matching — the acknowledged open problem of computational creativity evaluation, where the best-known criterion sets are satisfied by systems nobody regards as creative (see [why those criteria fail to discriminate](/concepts/creative-consciousness/#why-machine-creativity-criteria-fail-to-discriminate), and [producing versus judging](/concepts/ai-consciousness-typology/#producing-and-judging-are-separate-capacities) for the distinction any workable criterion would have to start from; [machine-consciousness](/topics/machine-consciousness/) gives the wider setting). Present-day generative-music systems instantiate the structural case this challenge specifies—they process sequential audio without anything the Map would recognise as a specious present—so what they would have to exhibit to satisfy the challenge becomes concrete. Two findings constrain the reading in opposite directions. Wei et al. (2024) probed Jukebox and MusicGen against a synthetic dataset of tempos, intervals, scales and chord progressions and found that "music theory concepts are discernible within foundation models and that the degree to which they are detectable varies by model size and layer"—decodable structure falls well short of phenomenal understanding, but a flat "mere pattern matching" verdict now needs an argument rather than an assertion. Bhandari and Colton (2024), reviewing structure-modelling techniques, report that "modelling the nuanced development of themes across extended compositions in the style of human composers remains difficult"—the temporally extended achievement this article's durée argument concerns is the acknowledged weak point. That correspondence is worth noting and worth not overreading: architectural limits with no bearing on consciousness explain the same shortfall equally well. The point marks what would have to be true, not a verdict either way on whether such systems have phenomenal experience.
 
 3. **The explanatory gap closed for temporal binding.** If neuroscience explained not just the neural correlates of musical experience but *why* these correlates feel the way they do—why a minor key feels dark rather than bright—the argument from the hard problem would dissolve for this case.
 
@@ -170,3 +170,5 @@ Musical understanding connects to the Map's framework through several tenets.
 1. Huron, D. (2006). *Sweet Anticipation: Music and the Psychology of Expectation*. MIT Press.
 1. Koelsch, S. (2014). Brain correlates of music-evoked emotions. *Nature Reviews Neuroscience*, 15(3), 170–180.
 1. Vuust, P., Heggli, O. A., Friston, K. J., & Kringelbach, M. L. (2022). Music in the brain. *Nature Reviews Neuroscience*, 23(5), 287–305.
+1. Wei, M., Freeman, M., Donahue, C., & Sun, C. (2024). Do Music Generation Models Encode Music Theory? *Proceedings of ISMIR 2024*. arXiv:2410.00872.
+1. Bhandari, K., & Colton, S. (2024). Motifs, Phrases, and Beyond: The Modelling of Structure in Symbolic Music Generation. *EvoMUSART 2024*. arXiv:2403.07995.

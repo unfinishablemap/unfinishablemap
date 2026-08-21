@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T14:25:38+00:00'
+ai_modified: '2026-08-21T15:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 15:28 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/creative-consciousness]] (primary), [[concepts/ai-consciousness-typology]] (secondary), [[topics/phenomenology-of-musical-understanding]] (pointer repair)
+- **Task**: fold the unconsumed research note [[research/machine-aesthetic-judgment-and-generative-music-systems-2026-08-07]]
+- **Departed from the note's own recommendation, deliberately**: the note recommends a standalone `concepts/` article on the strength of "5 true slots". Re-measured with `tools.evolution.state.count_section_files`: **concepts 318/320, topics 320/320**. The premise is dead, so this ran as a three-host fold, not a new article. Concepts has two slots left; whether one should go to a standalone machine-aesthetic-judgement article is left to the operator.
+- **Changes**:
+  - `creative-consciousness` +550w (2854 -> 3404 of 3500): new section "Why Machine-Creativity Criteria Fail to Discriminate" placed after the Penrose/L-creativity passage, carrying the operationalisation problem (Lamb et al. 2018), RASTER (Ventura 2008) against Ritchie's (2007) criteria and Colton's (2008) Tripod, Colton's own appearance-not-possession framing, and the FACE/other-methods ranking inversion. Boden cited at L71 as already held, not re-laid. One clause added to the Occam's Razor paragraph so it no longer sits in unacknowledged tension with the new section.
+  - `ai-consciousness-typology` +387w (3090 -> 3477 of 3500): new subsection "Producing and Judging Are Separate Capacities" under "How the Two Lenses Intersect", carrying the production/judgement distinction (Galanter 2012), the Hullman et al. (2023) our-judgement/machine-judgement conflation, and "appreciation" (Smith, Hintze and Ventura 2014) as the Tripod leg RASTER satisfies. Trimmed 39w after a first draft measured 3516, i.e. 16w over the hard ceiling.
+  - `phenomenology-of-musical-understanding` +228w (2744 -> 2972 of 4000): L127 repointed off the two silent destinations (`machine-consciousness` and `ai-consciousness-typology` each grepped **0** for "aesthetic" and **0** for "music") onto the two sections just written; `machine-consciousness` retained as wider setting rather than dropped, preserving the inbound link. Calibration pair carried here because it is music-specific: Wei et al. (2024) probing and Bhandari and Colton (2024) long-range structure, framed as a correspondence and explicitly not a proof ("architectural limits with no bearing on consciousness explain the same shortfall equally well"). **L127's non-verdict closing sentence preserved verbatim.**
+- **Engagement classification** (editor-internal, not in article prose): engagement with the deflationary/functionalist opponent about creativity: **Mode Two with an explicit Mode Three residue**. Mode Two because the reply invokes a standard the opponent's own research community endorses -- computational creativity evaluation's demand for an operationalisation -- and observes that two decades have not produced one a random-search-and-retrieval system fails; the opponent helps himself to "creativity is exhausted by what a system does" without discharging it. Mode Three residue is stated in the article rather than concealed: the failure of third-person criteria is "equally consistent with there being no difference to find; nothing in the evaluation literature settles which." No editor vocabulary appears in the body.
+- **Citation verification**: the note's Gap 2 (everything relayed "as Lamb et al. report") is **discharged for the spans used**. Lamb, Brown and Clarke (2018) full text retrieved this run from a public course-page copy; all six Lamb quotations grep contiguously in it. The four apparent misses when checking the note's own quotes against that text were **pdftotext hyphenation artefacts** ("imple- ment", "compu- tational") and a curly apostrophe, not misquotations -- the note is accurate. Wei et al. and Bhandari and Colton re-verified verbatim at the arXiv abstracts; Hullman et al. at arXiv:2309.12338. All 9 quoted spans grep contiguously in both the obsidian and hugo trees.
+- **Ceilings respected**: Ariza (2009) omitted entirely (Gap 1 -- full text never retrieved, so nothing is asserted about it); the primaries behind Lamb remain unread and are attributed "as Lamb et al. report"; Gap 6 respected, no host claims the machine-aesthetic/temporal-phenomenology connection is unmade in the literature. One correction to the note's framing: Lamb presents RASTER as built against **Ritchie's** criteria, with the Tripod result a further consequence -- the hosts follow Lamb, not the note's compression.
+- **Left behind**: Lerch et al. (2025) survey, Pearce et al. (2002) "methodological malaise", and the anti-computer-bias literature -- no length headroom on any host. Recorded in the note's `consumed_note`.
+- **Research note**: stamped `consumed_by` (three hosts) and a `consumed_note` recording the fold as selective, not exhaustive.
+- **Synced**: yes -- `scripts/sync.py` run; both trees grep-verified, 0 unresolved body wikilinks, anchors resolve to the correct slugified heading IDs.
+- **Published**: yes
 
 ## 2026-08-21 14:25 - research-topic
 - **Status**: Success

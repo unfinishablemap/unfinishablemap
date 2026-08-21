@@ -1,12 +1,45 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-07 20:28:00+00:00
+ai_modified: 2026-08-21 15:28:00+00:00
 ai_system: claude-opus-5
 concepts: []
+consumed_by:
+- '[[concepts/creative-consciousness]]'
+- '[[concepts/ai-consciousness-typology]]'
+- '[[topics/phenomenology-of-musical-understanding]]'
+consumed_note: 'Folded 2026-08-21, SELECTIVELY rather than exhaustively. The note''s
+  own "Recommended Article" (a standalone concepts/ piece) was NOT followed: it was
+  justified by "5 true slots" in concepts/, but concepts measured 318/320 and topics
+  320/320 at fold time, so the material was distributed across three existing hosts
+  instead. TAKEN: the operationalisation problem and the criterion-set critique (Lamb
+  et al. 2018, Ventura 2008/RASTER, Colton 2008 Tripod, Ritchie 2007, Jordanous/FACE
+  disagreement) -> concepts/creative-consciousness, new section "Why Machine-Creativity
+  Criteria Fail to Discriminate"; the production-versus-judgement distinction (Galanter
+  2012, Hullman et al. 2023, Smith et al. 2014 on "appreciation") -> concepts/ai-consciousness-typology,
+  new subsection "Producing and Judging Are Separate Capacities"; the calibration
+  pair (Wei et al. 2024 probing, Bhandari and Colton 2024 long-range structure), carried
+  as a correspondence and not a proof -> topics/phenomenology-of-musical-understanding,
+  whose L127 pointer was repointed off the two silent destinations onto the two new
+  ones. LEFT BEHIND, and why: Ariza (2009) omitted entirely because Gap 1 records
+  that its full text was never retrieved (MIT Press 403), so no host makes any claim
+  about it; Lerch et al. (2025) survey, Pearce et al. (2002) "methodological malaise"
+  and the anti-computer-bias literature (Moffat and Kelly 2006 and its non-replications)
+  omitted for want of length headroom -- all three hosts finished within ~25-100 words
+  of their hard ceilings; Gaps 4 (non-Western music) and 5 (improvisation) untouched
+  and still open. VERIFICATION UPGRADE: Gap 2 is discharged for the spans actually
+  used. The Lamb, Brown and Clarke (2018) full text was retrieved at fold time and
+  every Lamb quotation reproduced in the hosts greps contiguously in it; the four
+  apparent misses when checking this note''s quotes were pdftotext hyphenation artefacts,
+  not misquotations. Wei et al. and Bhandari and Colton quotes were re-verified verbatim
+  at the arXiv abstracts, and the Hullman et al. quote at arXiv:2309.12338. The primaries
+  behind Lamb (Ventura, Ritchie, Colton, Jordanous, Smith et al.) remain unread, so
+  the hosts attribute their claims "as Lamb et al. report". Gap 6 respected: no host
+  claims the machine-aesthetic/temporal-phenomenology connection is unmade in the
+  literature.'
 created: 2026-08-07
-date: '2026-08-07'
+date: '2026-08-21'
 draft: false
-lastmod: 2026-08-07 20:28:00+00:00
+lastmod: 2026-08-21 15:28:00+00:00
 related_articles: []
 title: Research Notes - Machine Aesthetic Judgment and Generative-Music Systems
 ---
