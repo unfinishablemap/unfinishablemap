@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-08-21 10:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:48:51+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-21 10:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ The [strong emergence](/concepts/emergence/#strong-emergence) required for consc
 
 Chalmers: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness."
 
-For materialists, this is a problem. Strong emergence looks like magic—new properties appearing without explanation from components that lack them. Either consciousness gradually emerges (but what are partial qualia?), or it suddenly appears at some threshold (but why that threshold?).
+For materialists, this is a problem. Strong emergence looks like magic—new properties appearing without explanation from components that lack them.
 
 ### How Dualism Handles Emergence
 
@@ -131,7 +131,7 @@ On this view, the evolution of consciousness is the evolution of *interfaces* be
 
 ### The Prebiotic Connection
 
-The [prebiotic collapse problem](/concepts/prebiotic-collapse/) poses a distinct question from this article's focus. Prebiotic collapse concerns the *cosmological* timeline: what collapsed wavefunctions during the 13.8 billion years before any minds existed? The *phylogenetic* question—when consciousness emerged in the history of life—operates within an already-collapsing physics. The Map's framework separates these cleanly.
+The [prebiotic collapse problem](/concepts/prebiotic-collapse/) poses a distinct question. Prebiotic collapse concerns the *cosmological* timeline: what collapsed wavefunctions during the 13.8 billion years before any minds existed? The *phylogenetic* question—when consciousness emerged in the history of life—operates within an already-collapsing physics.
 
 The Map's answer to prebiotic collapse: **objective reduction** (Penrose-style gravitational collapse or GRW spontaneous localization) provides baseline collapse throughout the universe, whether or not minds exist. Consciousness *modulates* collapse in systems with appropriate neural architecture but doesn't cause it universally. Stars, chemistry, and mutations all had definite outcomes via objective reduction—physical collapse mechanisms created the conditions for life. Once brains evolved sufficient complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the Map affirms.
 
@@ -145,7 +145,7 @@ The Map rejects illusionism for reasons detailed on its [dedicated page](/concep
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that *seem* phenomenal. Raymond Tallis presses the bare regress here—illusions presuppose experience, so the appearance of experience must appear *to* something. But the regress assumes "seeming" is itself phenomenal, precisely what illusionists deny: a representational system need not instantiate what it represents, as a map represents terrain without being mountainous. It marks where the Map and illusionism part on foundations rather than refuting illusionism inside its own framework.
 
-Moreover, explaining why evolution produced such a powerful, universal illusion is itself a major explanatory burden. Why would natural selection craft organisms that systematically misrepresent their own cognition? If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
+Moreover, explaining why selection would craft organisms that systematically misrepresent their own cognition is itself a major explanatory burden. If the illusion is adaptive (because it helps with behavioural flexibility, planning, etc.), why couldn't genuine consciousness provide those advantages directly? The illusionist trades the question "why did consciousness evolve?" for "why did the illusion of consciousness evolve?"—and faces similar challenges.
 
 The zombie response strengthens here: if philosophical zombies are possible (beings functionally identical to us but lacking experience), then the evolutionary advantages attributed to consciousness could be gained without it. But illusionists typically deny zombies are possible—which means they accept that functional organisation necessitates *something*. That something, whatever we call it, is what the Map means by consciousness. The terminological dispute doesn't dissolve the substantive question of why experience-like-functional-organisation evolved.
 
@@ -169,7 +169,7 @@ The [animal-consciousness](/topics/animal-consciousness/) topic addresses which 
 
 ### Substrate Independence?
 
-The Map's [critique of substrate independence](/concepts/substrate-independence/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
+The Map's [critique of substrate independence](/concepts/substrate-independence/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Artificial systems might never cross this threshold regardless of computational power.
 
 ## Relation to Site Perspective
 
@@ -197,7 +197,7 @@ The simplest evolutionary story treats consciousness as neural computation—no 
 
 If consciousness interfaces with matter through quantum processes, the [decoherence objection](/concepts/decoherence/) matters. Tegmark's 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules.
 
-Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) argued that correcting for microtubule interior conditions could yield coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—avian magnetoreception maintains spin coherence for microseconds; photosynthesis exploits quantum coherence. If evolution can optimise quantum effects for navigation and energy capture, it might optimise them for consciousness.
+Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) argued that correcting for microtubule interior conditions could yield coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—the surviving established pillar is cryptochrome [radical-pair avian magnetoreception](/concepts/radical-pair-magnetoreception/), where electron spin coherence persists for microseconds. Photosynthesis, long cited beside it, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence, a live but separate question. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness—though on one pillar that is a precedent that the regime is not impossible rather than a licence for the neural case (see [the quantum-biology record](/topics/quantum-biology-and-neural-consciousness/)).
 
 The evolutionary implication: what evolved was not merely neural complexity but neural architecture that maintains or exploits quantum effects. The 2024 epothilone B study (rats with stabilised microtubules taking longer to lose consciousness under anaesthesia) provides experimental support.
 
@@ -244,6 +244,7 @@ Scientific humility requires specifying what would count against one's view.
 
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Chalmers, D. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
+1. Duan, H.-G., Prokhorenko, V.I., Cogdell, R.J., Ashraf, K., Stevens, A.L., Thorwart, M., & Miller, R.J.D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *PNAS*, 114(32), 8493-8498.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.

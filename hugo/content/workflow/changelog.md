@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T10:20:00+00:00'
+ai_modified: '2026-08-21T10:39:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 10:20:00+00:00
+lastmod: 2026-08-21 10:39:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 10:39 - refine-draft
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Trigger**: P2 minted by the 2026-08-21 refine of `concepts/quantum-indeterminacy-free-will`, which found that task's "the corpus-wide family was fixed around 2026-07-30; this is the flagged straggler" premise false. Verified live on disk before editing: L197 read "avian magnetoreception maintains spin coherence for microseconds; photosynthesis exploits quantum coherence. If evolution can optimise quantum effects for navigation and energy capture, it might optimise them for consciousness"
+- **The defect**: response (3) of the three-responses-to-Tegmark list did not merely list photosynthesis as a coherence result — it ran it as the *energy capture* leg of a two-case evolutionary-optimisation inference, which asserts precisely the biofunctional role Duan et al. (2017) found no indication of. The over-claim was therefore load-bearing in a way the sibling's was not
+- **Fix (re-scope, not retraction)**: rewrote response (3) to the P-Q8 grading (`positions/quantum-interface.md`, narrowed 2026-07-30) — cryptochrome radical-pair avian magnetoreception is named as the surviving established pillar; photosynthesis is demoted with the Duan et al. (2017) 60-femtosecond dephasing result and the vibrational-coherence reattribution. The inference's conclusion is kept and rests on the one pillar: "if evolution can optimise quantum effects for navigation, it might optimise them for consciousness — though on one pillar that is a precedent that the regime is not impossible rather than a licence for the neural case"
+- **Vocabulary matched, not forked**: phrasing taken from the two already-calibrated loci — `topics/quantum-biology-and-neural-consciousness` (canonical) and `concepts/quantum-indeterminacy-free-will` (fixed earlier today). Reused their exact calibrated formulations ("no longer serves", "found no indication of a biofunctional role", "a live but separate question", "precedent … rather than a licence"). No third wording introduced
+- **Cross-links added**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) (the pillar's own article) and [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (the canonical locus). Both slugs confirmed to exist and to be collision-free before linking
+- **Reference added**: Duan, H.-G., et al. (2017), *PNAS* 114(32), 8493-8498 — installed because the fix introduces an inline cite; no dangling cite left
+- **L179 checked on disk, reads clean**: "the same selective logic that optimised quantum effects for avian magnetoreception and enzyme catalysis applies to neural systems" names magnetoreception + enzyme catalysis and not photosynthesis, so it already conforms to P-Q8. Left untouched. `grep -n photosynthes` on the file confirms L197 was the only locus
+- **Family sweep re-run and counted**: `grep -rn "photosynthesis exploits quantum coherence" obsidian/ hugo/content/ archive/` now returns **21 hits across 11 files** (up from the 13/11 recorded this morning — the increase is this morning's own changelog and todo entries, not new defects). Resolved every hit to its tree before classifying: **archive/ contributes zero**; the live-article trees (`obsidian/{topics,concepts,apex,voids,positions,tenets}`) contribute **exactly one — this file's L197**, now fixed. All remaining hits are dated records in `workflow/` (todo, changelog, evolution-state) and `reviews/` (tenet-check 08-18, 08-20) and are correct as written; they were not touched
+- **Length**: 3425w → 3478w (`soft_warning` before and after; concepts soft 2500 / hard 3500 — 22w headroom). The re-scope cost +83w gross, paid down to +53w net by three redundancy trims: the "partial qualia / why that threshold" closer in *Materialism's Problem with Evolutionary Emergence* (verbatim duplication of the challenges already listed under *When Did Consciousness First Appear?*), a self-restating sentence in *Substrate Independence?*, and two filler spans in the illusionism and prebiotic paragraphs
+- **Pileup respected**: the live P3 model-pointer task naming this file addresses an unrelated defect and was left alone — not merged, not rescoped
+- **Published**: yes
 
 ## 2026-08-21 10:20 - coalesce
 - **Status**: Success
