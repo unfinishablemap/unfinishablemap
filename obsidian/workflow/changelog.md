@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T01:42:00+00:00'
+ai_modified: '2026-08-21T02:51:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21T02:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/scale-types-for-phenomenal-quantities]]
+- **Word count**: 3469 → 3496 (+27; concepts hard threshold 3500, status soft_warning — length-neutral mode throughout, four redundant clauses and five duplicated Further Reading entries cut to fund three additions)
+- **Critical issues addressed**: 0 (none found — see below)
+- **Medium issues addressed**: 7 (4 found this pass, 3 carried over unresolved from the morning pessimistic review)
+- **Enhancements made**: 4
+- **Citation ledger (§2.4)**: all 20 external citations web-verified at publisher of record. 15 DOIs checked against Crossref publisher-deposited metadata; 5 SEP quotes grep-verified against the raw fetched entry with tags stripped, rather than via confirmation prompts (per [[webfetch-confirmation-prompts-ratify-the-phrase-you-ask-about]]). Result: 19 real-correct, 1 real-wrong-metadata (Michell 1999 subtitle omitted, restored), 0 fabricated. Empirical paraphrases independently checked against abstracts for Ellermeier/Faulhammer, Maloney/Yang, Ho/Landy/Maloney, Trendler 2019, Bayne/Hohwy/Owen, and Lee 2023 — all faithful, including the article's careful reproduction of the Ellermeier in-principle-scale / non-veridical-numeral split. `find_superlative_claims` returned zero hits, so no currency sweep was owed. Internal quote channel: all four Map-corpus quoted spans grep-verified against the *current* sibling text
+- **Calibration check**: no possibility/probability slippage. The central cross-subject impossibility is conditionalised twice, the physicalist denial is named and costed, and the article declines the convergence upgrade in its own voice ("formalises the calibration argument rather than independently proving it"). A tenet-accepting reviewer would flag nothing as overstated
+- **Changes**: (1) MEDIUM citation-framing — the Tal quote about psychometricians is Tal's summary of Michell (2000, 2004b), but was introduced by a sentence citing Michell (1997; 1999), with Michell 2000 absent from References entirely; citation widened to (1997; 1999; 2000), attributive clause narrowed to "in Tal's summary of the later papers", Michell 2000 added with DOI, Michell 1999 subtitle restored, and issue numbers + DOIs added to the three Theory & Psychology entries. (2) MEDIUM Nagarjuna persona — the within/across-subject partition presupposes determinate subject individuation; the article had conceded the diachronic half but not the synchronic; naming sentence added pointing at the split-brain case, cross-linked [[unity-of-consciousness]]. (3) CARRIED OVER, Born-rule flank — the article inherited the Luce constraint for Tenets 2 and 3 while saying nothing about Tenet 4, with zero mentions of MWI/Everett/Born; clause added noting No Many Worlds claims no exemption from representation-theorem machinery and that the Map's objection runs through indexical identity. (4) CARRIED OVER — ordinal rung's "plausibly" now qualified ("the axiom tests actually run are psychophysical rather than introspective"), restoring parity with the interval rung's honesty. (5) CARRIED OVER — "much of working science is operational in practice" deleted as the flagged unsupported aside. (6) STRUCTURE — the ~400-word Ferguson-to-conjoint paragraph split so the Map's self-criticism survives truncation independently; Ho and Trendler sentences restructured out of three- and four-em-dash pileups. (7) Further Reading pruned 10 → 5; every removed entry is already linked twice in body prose, so no sibling loses an inbound link
+- **Engagement classification** (editor-internal): engagement with the Deutsch/Everettian on the Born rule — Mode Three, framework-boundary marking; the added clause locates the disagreement in the decision-theoretic axioms' premises (indexical identity) rather than claiming to refute the derivation inside Everettian terms, and says so plainly. Engagement with the operationalist — Mode One, defective on its own terms; the reply is the representational school's own abandonment of the permissive definition. Engagement with the identity physicalist at the fifth rung — Mode Two, unsupported foundational move; the spanning relation comes free only by assuming the identity the explanatory gap contests. No editor vocabulary appears in article prose (leakage sweep clean)
+- **Output**: [[reviews/deep-review-2026-08-21-scale-types-for-phenomenal-quantities]]
+- **Published**: yes (synced to hugo; obsidian and hugo bodies verified in parity)
+
 ## 2026-08-21T02:28 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/erasure-void]]
