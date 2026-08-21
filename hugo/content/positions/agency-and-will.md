@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-08-20 23:10:16+00:00
+ai_modified: 2026-08-21 23:09:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -20,7 +20,7 @@ description: 'The Map''s positions on free will and agency: the agent-causal lib
 draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
-lastmod: 2026-08-20 23:10:16+00:00
+lastmod: 2026-08-21 23:09:41+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -98,8 +98,9 @@ These positions cover what the Map holds about agency: whether choices are genui
 
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade n/a (normative — a discipline against over-claiming) · structural centrality low · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
-- **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. This is the [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/), registered explicitly so the moral case is not overstated.
+- **Asserts**: The Map holds, as a discipline against over-claiming, that its libertarian framing does *not* do unique explanatory work over sophisticated compatibilism (Frankfurt, Fischer & Ravizza, Wolf) at the level of moral practice: the same deliberative phenomenology, praise/blame practices, and character-formation arc are plausibly securable on a compatibilist scaffold. What distinguishes the libertarian reading is its coherence with the Map's other tenets — adopted on grounds beyond moral theory — together with a narrow residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," and the metaphysics of genuine alternatives. Two of those three items — the "could have done otherwise" readings and the metaphysics of genuine alternatives — are held *conditionally*: the [Frankfurt-cases](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) article books the Map's own answer, relocating the requirement from alternatives to sourcehood, as "a *retreat*, and a conditional one" and "not a costless translation" — a fallback to *narrow* source against which the semicompatibilist actual-sequence rival still stands. Those two items therefore survive on the Map's considered *wide* source position and lapse with its leeway defence. The symmetry bites hardest at [Strawsonian responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/), where normativized reactive attitudes secure the praise-and-blame practices with no metaphysical thesis at all, and where the Map records that its own resistance is no evidence "that Strawson is wrong or that dualism is right". This is the [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/), registered explicitly so the moral case is not overstated.
 - **Depends on**: P-A1; the [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/); [evidential-status-discipline](/project/evidential-status-discipline/)
-- **Argued in**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/), [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/), [free-will](/topics/free-will/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
-- **Would shift if**: libertarian agency were shown to secure a moral phenomenon compatibilism demonstrably cannot (collapsing the symmetry); or the named residue (ultimate desert, genuine alternatives) were shown to be illusory or compatibilist-recoverable.
-- **Last reviewed**: 2026-06-08
+- **Argued in**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/), [frankfurt-hierarchical-mesh-theory-of-the-will](/concepts/frankfurt-hierarchical-mesh-theory-of-the-will/), [free-will](/topics/free-will/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/), [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/)
+- **Would shift if**: libertarian agency were shown to secure a moral phenomenon compatibilism demonstrably cannot (collapsing the symmetry); or the named residue (ultimate desert, genuine alternatives) were shown to be illusory or compatibilist-recoverable — a trigger the Frankfurt retreat moves toward without satisfying, since it conditionalises the two alternatives-based items rather than recovering them.
+- **Updated 2026-08-21**: the two alternatives-based residue items conditionalised on the Map's leeway defence, and **Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited. No credence change: the Strawsonian instance strengthens the main claim about as much as the Frankfurt retreat narrows the residue, which is narrowed, not eliminated.
+- **Last reviewed**: 2026-08-21

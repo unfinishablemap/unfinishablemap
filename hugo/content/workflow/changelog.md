@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T22:41:00+00:00'
+ai_modified: '2026-08-21T23:12:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 22:41:00+00:00
+lastmod: 2026-08-21 23:12:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 23:12 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: `update` — **P-A5 only** (`obsidian/positions/agency-and-will.md`). Scoped strictly; the sibling P2 on **P-A4** in the same file was **not** touched and remains open.
+- **Trigger**: dependency-changed. P-A5's residue — "ultimate desert in retributive contexts, certain readings of 'could have done otherwise,' and the metaphysics of genuine alternatives" — had moved in its two alternatives-based items, and neither of the two articles that now argue them was in **Argued in**. `Last reviewed` had stood at 2026-06-08 (74 days).
+- **Spans re-verified on disk before use** (not characterised from cross-link): [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) L81 carries `a *retreat*, and a conditional one` and `not a costless translation` (1 hit each, current file), plus the relocation to *narrow* source and the standing semicompatibilist actual-sequence rival; [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/) L87 carries `that Strawson is wrong or that dualism is right` (1 hit). Both quoted substrings re-grep at 1 hit inside the register after the edit, so the quotes stay verifiable in both directions.
+- **Outcome chosen: (a) tighten + extend citations.** The claim itself stands and credence is unchanged at *moderate*.
+  1. **Asserts**: the two alternatives-based residue items are now held *conditionally* — they survive on the Map's considered *wide* source position and lapse with its leeway defence, because the Frankfurt answer that relocates the requirement from alternatives to sourcehood is booked by its own article as a conditional retreat to *narrow* source. A second sentence records the symmetry's sharpest instance, Strawsonian responsibility, where normativized reactive attitudes secure the praise-and-blame practices with no metaphysical thesis at all, together with that article's own discipline that the Map's resistance is no evidence for dualism.
+  2. **Argued in** extended from four to six: added the Frankfurt-cases and Strawsonian-responsibility articles. Both resolve — sync converted both wikilinks to live URLs and stripped none.
+  3. **Would shift if**: the residue trigger now records that the Frankfurt retreat is *partial movement toward* it, not satisfaction of it, since it conditionalises the alternatives items rather than recovering them.
+  4. **Updated 2026-08-21** history line added; `Last reviewed` 2026-06-08 → 2026-08-21.
+- **Why no credence change**: the two deltas run in opposite directions. The Strawsonian instance *strengthens* the position's main claim (no unique moral explanatory power) by exhibiting a compatibilist-side account that needs no metaphysical thesis at all; the Frankfurt retreat *narrows* the residue. Net-neutral is the honest reading, so the *moderate* band and the `n/a` evidence/discriminability bands are untouched.
+- **Residue narrowed, not eliminated** — [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) L75 explicitly forbids "Eliminating the residue" ("ultimate desert, 'could have done otherwise' in its strongest sense, the metaphysics of genuine alternatives"), so the conditionalisation was written as a qualifier on two items rather than as a deletion. Checked against that sibling before editing.
+- **Measured not-a-defect, recorded so it is not re-chased**: the 2026-08-18 luck-objection coalesce (`fb3c21520d`) touched dep [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/), but the diff is a cosmetic `[[luck-objection]]` → `[[quantum-indeterminacy-free-will]]` repoint; P-A5 never named the retired slug and needed no repoint. All six **Argued in** targets resolve against live stems — zero archived, zero missing.
+- **Cascade**: none required. P-A5 is not named in any other position's **Depends on**; it is referenced only descriptively in P-A1's Asserts ("engaged at P-A5 on moral practice, not on the individuation question"), a characterisation this edit does not disturb. No follow-up tasks queued.
+- **Length**: 2788 → **2999w** (`analyze_length`; positions soft 1500 / hard 2500 / critical 4000, `status=hard_warning` before and after, 1001w below critical). The file sits under the open **NEEDS-HUMAN (section tuning) 2026-08-03** entry, which finds the positions/article threshold mismatch *structural, not editorial* and forbids condensing a register; the edit was kept to +211w and no existing text was deleted.
+- **Sync**: run; Hugo mirror verified to carry all four edits and both new links at `/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/` and `/topics/reactive-attitudes-and-strawsonian-responsibility/`. No wikilink stripping on this file (the stripping lines in the sync output are the known changelog memory-slug case, which is exempt).
+- **Files**: [agency-and-will](/positions/agency-and-will/) (P-A5 entry; `ai_modified` bumped)
+- **Published**: yes
 
 ## 2026-08-21 22:41 UTC - refine-draft
 - **Status**: Success
