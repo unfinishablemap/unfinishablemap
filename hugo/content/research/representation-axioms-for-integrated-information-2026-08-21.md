@@ -1,19 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-21
-ai_modified: 2026-08-21 13:37:25+00:00
+ai_modified: 2026-08-21 17:28:06+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[scale-types-for-phenomenal-quantities]]'
 - '[[integrated-information-theory]]'
 - '[[degrees-of-consciousness]]'
+consumed_by: '[[scale-types-for-phenomenal-quantities]]'
+consumed_note: 'CONSUMED as the narrower option the note itself recommended (Potential
+  Article Angles #3 — the refine-draft on [[scale-types-for-phenomenal-quantities]]
+  alone), not as a new concepts/ article. The target sat at 3493 words against the
+  concepts 3500 hard threshold, so the pass installed the core narrowing and paid
+  for it by trimming elsewhere in the article, landing at 3489 — length-reducing.
+  What landed: the required correction at the meaningfulness-discipline close, replacing
+  ''this article knows of no exhibited representation axioms for it'' with the sharpened
+  claim — Barbosa et al. (2020) reported unique up to a positive multiplicative constant
+  (the ratio-scale invariance class), those axioms characterising a divergence between
+  probability distributions rather than a structure of experiences, and the transfer
+  to consciousness riding on the explanatory identity IIT proposes rather than proves.
+  Barbosa et al. (2020) added to the reference list. Deliberately NOT landed, for
+  length: the aggregation defect (additive summation over a deliberately non-additive
+  component measure) and the normalisation defect (MIP selected on normalised phi,
+  reported unnormalised) — both remain unexamined-in-the-literature leads for the
+  fuller audit article (angle 1 or 2). Verb chosen as ''report'' not ''prove'' because
+  this note records the Supplementary Materials holding the theorem and proof as NOT
+  retrieved. No novelty claim was written, per the unresolved Pautz 2015 verification.
+  The Mediano/Seth/Barrett negativity result was not carried across, per this note''s
+  scope caveat separating the practical Gaussian measures from IIT 4.0''s Phi.'
 created: 2026-08-21
 date: &id001 2026-08-21
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-21 13:37:25+00:00
+lastmod: 2026-08-21 17:28:06+00:00
 modified: *id001
 related_articles:
 - '[[judging-the-map-as-science]]'
