@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T21:20:21.219276+00:00'
-session_count: 19395
-cycle_position: 12850
+last_updated: '2026-08-21T21:22:29.054603+00:00'
+session_count: 19396
+cycle_position: 12851
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-08-21T08:01:50.756313+00:00'
   pessimistic-review: '2026-08-21T18:21:07.806294+00:00'
   positions-evolve: '2026-08-21T09:56:54.736594+00:00'
-  refine-draft: '2026-08-21T21:20:21.219276+00:00'
+  refine-draft: '2026-08-21T21:22:29.054603+00:00'
   replenish-queue: '2026-08-21T20:37:25.278270+00:00'
   research-topic: '2026-08-21T14:28:39.691180+00:00'
   research-voids: '2026-08-20T22:00:19.912664+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-21'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-21'
@@ -190,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-21'
   outcome: success
 - task: refine-draft
@@ -745,76 +745,71 @@ agentic_social:
     - vertiginous-question
     - personal-identity
 queue_status:
-  last_replenishment: '2026-08-21T20:35:00+00:00'
+  last_replenishment: '2026-08-21T21:45:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_run: 996
+  last_replenishment_run: 997
   loop_pickable_open: 3
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions,
-    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
-    3; post-count 3. all_sections_at_cap is False, so no skip_types applied and the
-    count is 2 either way. MINTED ONE, DELIBERATELY NOT FIVE-TO-EIGHT: every other
-    source was measured and came back empty, capped, or already claimed. SOURCE USED,
-    positions_dependency_changed (Source 7b) - the first time this run has used it:
-    positions-evolve update on positions/agency-and-will. The 2026-08-13 outer-review
-    cycle produced that cycle''s only 3-of-3 convergence (demote the self-concealing-interface
-    causal-selection thesis to coherence-only for downstream citation) and it was
-    propagated in exactly two places on that date. reviews/positions-audit-2026-08-13.md
-    applied it to the register, but that audit is TARGETED at positions/quantum-interface
-    and contains ZERO P-A mentions (grep-verified). Commit 050d494acd applied it to
-    voids/agency-void, whose L156 stopped reading the void as evidence the causal
-    interface is domain-specific and self-concealing and now reads it as framework-internal
-    coherence, citing positions/quantum-interface mechanism-debt. The retired phrase
-    greps 0 in obsidian and hugo alike, so the correction landed; what no pass reached
-    is P-A4, Last reviewed 2026-06-08 (74 days), which cites voids/agency-void as
-    the anchor letting the P-A1 case rest on convergent structural anchors rather
-    than introspective proof. FRAMED AS A VERIFICATION QUESTION, NOT AN ASSERTED CONTRADICTION:
-    P-A4 is meta-epistemic (external-evidence grade n/a) and may survive untouched;
-    the task names three permitted outcomes including a bare Last-reviewed bump. SUPPORTING:
-    all 54 live positions across 14 non-history domain files were parsed for Last
-    reviewed. The four oldest are P-Q4 06-04, P-A4 06-08, P-A5 06-08, P-A3 06-10,
-    with the next ten days newer; those are the dates the 2026-06-09 full audit signed
-    off as not stale, and that audit is the last pass to touch P-A4 at all. P-Q4 is
-    already claimed (live P3 at L158; positions/quantum-interface has 13 active-region
-    mentions) so A4/A5/A3 are the oldest UNCLAIMED entries. Every Argued-in dep of
-    all three has commits since, and two are substantive rather than the usual cosmetic
-    sweep: libet-experiments 07-12 de-quoted the Schurger conclusion, and agent-causation
-    08-19 re-scoped Rajan et al. 2019 corpus-wide - a fix P-A2 received on 08-19/20
-    and P-A4 did not. MEASURED NOT-A-DEFECT, recorded so it is not chased: every wikilink
-    in obsidian/positions/*.md resolves against live stems and the archive tree -
-    zero archived, zero missing; the only three non-resolving hits are the literal
-    placeholders in the positions.md documentation example. The 08-18 luck-objection
-    coalesce needs no repoint here; P-A2 already carries the repointed alias and A3/A4/A5
-    never named the retired slug. SOURCES MEASURED AND DECLINED: expand-topic structurally
-    blocked - topics 320/320 AT CAP, concepts 318/320, voids 99/100, and those 3 slots
-    are oversubscribed by 5 open research-topic tasks (the 2 other Type research-topic
-    lines sit under resolved headers). Orphans 0. task_chains.pending_articles and
-    pending_cross_reviews both empty, but both incumbent P2s are chain successors
-    so chains are being served. Length: 15 criticals, of which 12 are research/ notes
-    with no applicable threshold and apex/apex-articles at 12630 is the 42-entry index
-    listing; the two real article criticals are BOTH already claimed - apex/phenomenal-output-causal-machinery-dissociation
-    6903w carries a VETOED condense task at L1831 plus an operator-decision entry,
-    and positions/quantum-interface 4414w is inside the 13-mention pileup. STALENESS
-    PASSED OVER ON THE MERITS, which is not the usual answer: get_review_candidates
-    top-18 measured. Rank 1 multiple-drafts-model (26d) got a full publisher ledger
-    plus two new counterargument paragraphs at its 07-26 review; only a cosmetic See-Also
-    relabel since (diff-checked). Rank 2 yogacara (32d) was an explicit convergence
-    no-op on 07-20 with the web-verify skip condition met; only the topics-empty sweep
-    since. Rank 3 aesthetics-beyond-art (24d) looked like the pool''s best unchecked
-    surface - 17 refs, largest body, zero active-region mentions - until its single
-    07-28 review was READ: it verified all 15 external refs at publisher, corrected
-    five quote-fidelity defects, and specifically confirms the SEP Parsons-and-Carlson
-    attribution this run had queued as a SUSPECTED defect, which is therefore not
-    one. Rank 4 organizational-invariance was rejected on the merits by run 995. Ranks
-    7, 9 and 12 each already carry a live task naming them as File.'
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2 plus one P3, zero promotions,
+    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of 3; post-count
+    3. all_sections_at_cap is False, so no skip_types applied and the count is 2 either way.
+    MINTED TWO, DELIBERATELY NOT FIVE-TO-EIGHT: the same structural blockage run 996 measured
+    is still in force, and it was re-measured rather than inherited. SOURCE 1 (the P2, floor
+    restore), positions_dependency_changed: positions-evolve update on P-A5 in positions/agency-and-will.
+    P-A5 Last reviewed 2026-06-08, 74 days, is the oldest UNCLAIMED live entry now that run
+    996 claimed P-A4 (P-Q4 78d is claimed by a live P3). All 54 live positions across 14 domain
+    files were re-parsed for Last reviewed this run. The delta is from real diffs, not a changed-since
+    heuristic: commit 81fb4e18bc (2026-07-29) rewrote L119 of Argued-in dep topics/moral-implications-of-genuine-agency
+    so that two of P-A5''s three named residue items moved. The could-have-done-otherwise limb
+    now carries a concession P-A5 does not, that the Map relocates the requirement from alternatives
+    to sourcehood, which topics/frankfurt-cases-and-the-principle-of-alternate-possibilities
+    L81 books as a retreat and a conditional one, moving the Map to narrow source rather than
+    a costless translation. The same commit added a pressure point P-A5 names nowhere, that
+    the symmetry bites hardest against Strawsonian responsibility. Neither locus appears in
+    P-A5''s Argued in, though both are now canonical for two of its three residue items. Both
+    quoted spans were grep-verified verbatim at 1 hit each in the CURRENT files this run, not
+    taken from the changelog echo. FRAMED AS A VERIFICATION QUESTION, NOT AN ASSERTED CONTRADICTION:
+    three outcomes are named as legitimate, including a bare Last-reviewed bump. SOURCE 2 (the
+    P3), unconsumed_research partial-consumption residue: research/experimental-philosophy-of-aesthetic-judgment-2026-08-07.
+    Its frontmatter has NO consumed_by field at all (0 hits), yet its Part 1 went live 2026-08-16
+    via commit 1429d7bca3 under the NON-MATCHING slug topics/aesthetic-testimony-and-the-acquaintance-principle
+    (Meskin/Andow L71, Vessel L73, metaphysics L75, all verified in place). That is precisely
+    the high-risk class the open 2026-08-21 stamping P3 defines, and that task enumerates only
+    two notes; this is a third it missed. The task carries an explicit do-not-merge-or-re-scope
+    instruction. Content half: the note''s Part 3 Kirk et al. 2009 result bears on aesthetic
+    JUDGEMENT and is absent corpus-wide (grep for Kirk returns only concepts/quantum-divine-action,
+    a different Kirk), while topics/aesthetics-and-consciousness L142 still dismisses neuroaesthetics
+    on Zeki 1999 and Ramachandran and Hirstein 1999. Length measured: 3169w against topics 3000
+    soft / 4000 hard, about 830w headroom. The note''s own Gap 8 ceiling (single 2009 fMRI,
+    small-sample era, do not present as settled) is carried into the task so it is not laundered,
+    and the task carries a decline-if clause. MEASURED AND DECLINED, re-measured not inherited.
+    expand-topic structurally blocked: topics 320/320 AT CAP, concepts 318/320, voids 99/100,
+    positions 16/80 via count_section_files; the 3 free slots are oversubscribed by 5 open research-topic
+    tasks plus the NEEDS-HUMAN entry claiming the final voids slot for notation-void. task_chains.pending_articles
+    and pending_cross_reviews both empty. Orphans 0. Unconsumed research re-measured correctly
+    this run: the earlier 554-of-554 reading was MY OWN call error, passing obsidian/ where
+    is_research_consumed wants repo_root; with the right root it is 61, not 554. Of the recent
+    head, notation-void and summary-statistics and purification are each already claimed by
+    live tasks, and bath-spectral-densities-2026-08-16 is documented as DELIBERATELY half-consumed
+    (its sign-problem half left unspent), so it must not be stamped. STALENESS PASSED OVER:
+    get_review_candidates top-20 measured; ranks 1-4 were rejected on the merits by run 996
+    and nothing has touched that pool since (deep-review last ran 20:17, before run 996 at 20:35),
+    and of ranks 5-20 the majority already carry a live task naming them. Length: no unclaimed
+    real-article critical. MEASURED NOT-A-DEFECT, recorded so it is not chased: the 2026-08-18
+    luck-objection coalesce fb3c21520d touched P-A5''s dep concepts/compatibilist-symmetry-challenge,
+    but the diff is a cosmetic luck-objection to quantum-indeterminacy-free-will wikilink repoint
+    only; P-A5 never named the retired slug. All four of P-A5''s Argued-in wikilinks resolve
+    against live stems, zero archived, zero missing. VALIDATED: both new tasks parse via parse_tasks
+    with valid types (POSITIONS_EVOLVE, REFINE_DRAFT), resolvable File paths, and active-section
+    OTHER count is 0.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 50
+  p3_tasks: 51
   replenishment_source_counts:
     staleness: 0
     chain: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
