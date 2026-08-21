@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T22:54:35.271370+00:00'
-session_count: 19401
-cycle_position: 12853
+last_updated: '2026-08-21T23:13:46.879167+00:00'
+session_count: 19402
+cycle_position: 12854
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-21T22:22:49.683210+00:00'
   pessimistic-review: '2026-08-21T18:21:07.806294+00:00'
-  positions-evolve: '2026-08-21T09:56:54.736594+00:00'
+  positions-evolve: '2026-08-21T23:13:46.879167+00:00'
   refine-draft: '2026-08-21T22:43:36.588975+00:00'
   replenish-queue: '2026-08-21T21:45:49.390340+00:00'
   research-topic: '2026-08-21T14:28:39.691180+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-21'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -757,82 +757,95 @@ agentic_social:
     - hard-problem-of-consciousness
     - predictive-processing-and-dualism
 queue_status:
-  last_replenishment: '2026-08-21T21:45:00+00:00'
+  last_replenishment: '2026-08-21T23:32:44+00:00'
   last_replenishment_mode: standard
-  last_replenishment_run: 997
+  last_replenishment_note: 'FLOOR-RESTORE MINT, one new P2 plus one P3, zero promotions, no
+    padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of 3; post-count
+    3, re-measured after the write. all_sections_at_cap is False, so no skip_types applied
+    and the count is 2 either way. MINTED TWO, DELIBERATELY NOT FIVE-TO-EIGHT: the structural
+    blockage runs 996 and 997 measured is still in force and was RE-MEASURED this run rather
+    than inherited - count_section_files gives topics 320/320 AT CAP (319 real, the known
+    sidecar over-count), concepts 318/320, voids 99/100, positions 16/80, and the 3 free slots
+    remain oversubscribed by 5 open research-topic tasks plus the NEEDS-HUMAN entry claiming
+    the last voids slot for notation-void, so expand-topic is structurally blocked. task_chains.pending_articles
+    and pending_cross_reviews both empty. quality.orphaned_files 0. BOTH TASKS COME FROM ONE
+    DIFF-VERIFIED DEPENDENCY MOVE, source positions_dependency_changed. THE FINDING: P-CS4
+    in positions/consciousness-scope.md (In fragmentation cases the interface is disrupted,
+    not consciousness itself) is Last reviewed 2026-06-22. On 2026-08-04 two commits rewrote
+    TWO OF ITS FOUR Argued-in articles to install the individuation register determinate-boundaries
+    reading in place of Nagel-style metaphysical indeterminacy: 856164fa82 (message: two further
+    loci assert metaphysical indeterminacy about subject boundaries, which P-I1 forbids) touched
+    topics/split-brain-consciousness AND apex/identity-across-transformations, and 1d41f75b82
+    touched the topics article again the same day. positions/consciousness-scope.md has not
+    been committed since 20cf4fbeb5 (2026-08-03), the day BEFORE the sweep, so the register
+    entry summarising those articles was never read against them. Verified by git show --stat
+    on both commits: neither touched any positions/ file. SPANS GREP-VERIFIED AT 1 HIT EACH
+    IN THE CURRENT FILES THIS RUN, not taken from the changelog echo: split-brain L98 ''holds
+    subject boundaries to be determinate but not readable off physical structure'' and ''The
+    question is well-formed and has an answer; what fails is any physical measure that could
+    reach it.''; split-brain L204 ''holds the subject to be a particular that does not divide,
+    and its count to be a determinate fact''; identity-across-transformations L93 ''reads
+    it as epistemic rather than metaphysical''; and P-CS4 Asserts ''without thereby establishing
+    two subjects or one''. DECISIVE MEASUREMENT: grep -c determinate on positions/consciousness-scope.md
+    returns 1, and that single hit is P-CS2 ''no determinate cut-off'' at L60, NOT P-CS4.
+    SOURCE 1, the P2 (floor restore), positions-evolve update on P-CS4. FRAMED AS A VERIFICATION
+    QUESTION, NOT AN ASSERTED CONTRADICTION: ''without thereby establishing two subjects or
+    one'' is readable as purely evidential and may need no change, so three outcomes are named
+    as legitimate including a bare Last-reviewed bump with a note that the sweep was checked.
+    No calibration or status move requested - the 2026-07-30 register pass recorded P-CS4
+    correct as written on the calibration axis. HARD LENGTH CONSTRAINT CARRIED: analyze_length
+    puts consciousness-scope.md at 2498w against the positions 2500 hard threshold, TWO WORDS
+    of headroom, so any addition must be paid for inside P-CS4. Same-file pileup noted and
+    guarded: that file already carries one open P3 on a DIFFERENT entry (P-CS1 Argued-in),
+    with explicit do-not-re-scope and do-not-mark instructions. SOURCE 2, the P3, sweep residue
+    in the same dependency. apex/identity-across-transformations L93 now defines Nagel''s
+    sense as the deeper-than-evidence metaphysical reading and says the Map declines it, while
+    L95, two paragraphs later, still asserts flat and unattributed that subject unity ''becomes
+    indeterminate in Nagel''s sense''. L95 appears as unchanged CONTEXT in 856164fa82''s own
+    diff - the sweep rewrote the paragraph above it and stopped. The sibling article the same
+    commit touched carries the intended repair at split-brain L128 (Nagel''s reading attributed,
+    the Map''s stated alongside), which the apex never received. Sole residual locus in that
+    file, measured not assumed: grep for indetermina/determinate returns L93 fixed, L95 the
+    defect, L179 quantum indeterminacies (unrelated sense) and L183 already correct. Length
+    4091w against apex 4000 soft / 5000 hard, fix must be length-neutral or reducing. MEASURED
+    AND DECLINED, recorded so it is not chased. (a) The apparent owed reciprocal from P-CS4
+    to P-F1: finding-level-calibration L44 names P-CS4 by name and grep -c finding-level-calibration
+    on consciousness-scope.md returns 0, and the 2026-07-30 create task did defer ''the P-CS4
+    pointer'' to a follow-on never queued - BUT the same grep returns 0 for quantum-interface
+    (P-Q8) and voids-as-evidence (P-V2) too, so all three named instantiations are equally
+    one-directional. Register-wide convention question, not a P-CS4 defect; fixing one of
+    three would manufacture the asymmetry fix-by-file-leaves-string-siblings-live warns about.
+    Written into the P2 as an opportunistic-only one-liner with a stated caveat. (b) LENGTH:
+    no unclaimed real-article critical. get_length_warnings gives 145 entries but only 72
+    are in topics/concepts/voids/apex, and of those the criticals are apex/apex-articles.md
+    (an index, not an article) and apex/phenomenal-output-causal-machinery-dissociation.md,
+    which carries a veto-marked P2. The worst real topics offender, epistemology-of-convergence-arguments
+    at 5745w, is under a standing HUMAN LENGTH DECISION with five prior auto-condenses diverted
+    to the operator - correctly not re-minted. (c) STALENESS: get_review_candidates re-run
+    this run; deep-review last ran 2026-08-21T20:17, so the pool is unchanged since run 997
+    measured it, ranks 1-4 are all named by live tasks, and passing over it again is a repeat
+    of an accepted decision rather than a new one. (d) UNCONSUMED RESEARCH: 67 by is_research_consumed,
+    but 6 of those carry an explicit consumed_by field (the known slug-mismatch blindspot),
+    leaving 61; the recent head is either cap-blocked at target_section topics or already
+    folded with a consumed_note, and the two 2026-08-20 notes are documented folds, not spendable
+    articles. ORDERING, STATED KNOWINGLY: both tasks were inserted at the TOP of Active Tasks,
+    matching the placement convention of run 997 and of the 2026-08-21 optimistic-review mints.
+    select_queue_task sorts by (priority, line_number), so the new P2 at line 39 sorts ahead
+    of the two standing P2s (P-A4 positions-evolve, and the scale-types refine-draft) and
+    delays each by exactly one pick. Self-liquidating and judged acceptable given the new
+    evidence is fresh and fully verified. VALIDATED AFTER THE WRITE: parse_tasks gives 57
+    active, OTHER count 0, both new tasks parse with valid types (POSITIONS_EVOLVE, REFINE_DRAFT),
+    Status pending, and resolvable file_path values; select_queue_task returns the new P2;
+    count_p0_p2_tasks == 3.'
+  last_replenishment_run: 998
   loop_pickable_open: 3
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2 plus one P3, zero
-    promotions, no padding. Authoritative pre-count count_p0_p2_tasks == 2, below
-    the floor of 3; post-count 3. all_sections_at_cap is False, so no skip_types applied
-    and the count is 2 either way. MINTED TWO, DELIBERATELY NOT FIVE-TO-EIGHT: the
-    same structural blockage run 996 measured is still in force, and it was re-measured
-    rather than inherited. SOURCE 1 (the P2, floor restore), positions_dependency_changed:
-    positions-evolve update on P-A5 in positions/agency-and-will. P-A5 Last reviewed
-    2026-06-08, 74 days, is the oldest UNCLAIMED live entry now that run 996 claimed
-    P-A4 (P-Q4 78d is claimed by a live P3). All 54 live positions across 14 domain
-    files were re-parsed for Last reviewed this run. The delta is from real diffs,
-    not a changed-since heuristic: commit 81fb4e18bc (2026-07-29) rewrote L119 of
-    Argued-in dep topics/moral-implications-of-genuine-agency so that two of P-A5''s
-    three named residue items moved. The could-have-done-otherwise limb now carries
-    a concession P-A5 does not, that the Map relocates the requirement from alternatives
-    to sourcehood, which topics/frankfurt-cases-and-the-principle-of-alternate-possibilities
-    L81 books as a retreat and a conditional one, moving the Map to narrow source
-    rather than a costless translation. The same commit added a pressure point P-A5
-    names nowhere, that the symmetry bites hardest against Strawsonian responsibility.
-    Neither locus appears in P-A5''s Argued in, though both are now canonical for
-    two of its three residue items. Both quoted spans were grep-verified verbatim
-    at 1 hit each in the CURRENT files this run, not taken from the changelog echo.
-    FRAMED AS A VERIFICATION QUESTION, NOT AN ASSERTED CONTRADICTION: three outcomes
-    are named as legitimate, including a bare Last-reviewed bump. SOURCE 2 (the P3),
-    unconsumed_research partial-consumption residue: research/experimental-philosophy-of-aesthetic-judgment-2026-08-07.
-    Its frontmatter has NO consumed_by field at all (0 hits), yet its Part 1 went
-    live 2026-08-16 via commit 1429d7bca3 under the NON-MATCHING slug topics/aesthetic-testimony-and-the-acquaintance-principle
-    (Meskin/Andow L71, Vessel L73, metaphysics L75, all verified in place). That is
-    precisely the high-risk class the open 2026-08-21 stamping P3 defines, and that
-    task enumerates only two notes; this is a third it missed. The task carries an
-    explicit do-not-merge-or-re-scope instruction. Content half: the note''s Part
-    3 Kirk et al. 2009 result bears on aesthetic JUDGEMENT and is absent corpus-wide
-    (grep for Kirk returns only concepts/quantum-divine-action, a different Kirk),
-    while topics/aesthetics-and-consciousness L142 still dismisses neuroaesthetics
-    on Zeki 1999 and Ramachandran and Hirstein 1999. Length measured: 3169w against
-    topics 3000 soft / 4000 hard, about 830w headroom. The note''s own Gap 8 ceiling
-    (single 2009 fMRI, small-sample era, do not present as settled) is carried into
-    the task so it is not laundered, and the task carries a decline-if clause. MEASURED
-    AND DECLINED, re-measured not inherited. expand-topic structurally blocked: topics
-    320/320 AT CAP, concepts 318/320, voids 99/100, positions 16/80 via count_section_files;
-    the 3 free slots are oversubscribed by 5 open research-topic tasks plus the NEEDS-HUMAN
-    entry claiming the final voids slot for notation-void. task_chains.pending_articles
-    and pending_cross_reviews both empty. Orphans 0. Unconsumed research re-measured
-    correctly this run: the earlier 554-of-554 reading was MY OWN call error, passing
-    obsidian/ where is_research_consumed wants repo_root; with the right root it is
-    61, not 554. Of the recent head, notation-void and summary-statistics and purification
-    are each already claimed by live tasks, and bath-spectral-densities-2026-08-16
-    is documented as DELIBERATELY half-consumed (its sign-problem half left unspent),
-    so it must not be stamped. STALENESS PASSED OVER: get_review_candidates top-20
-    measured; ranks 1-4 were rejected on the merits by run 996 and nothing has touched
-    that pool since (deep-review last ran 20:17, before run 996 at 20:35), and of
-    ranks 5-20 the majority already carry a live task naming them. Length: no unclaimed
-    real-article critical. MEASURED NOT-A-DEFECT, recorded so it is not chased: the
-    2026-08-18 luck-objection coalesce fb3c21520d touched P-A5''s dep concepts/compatibilist-symmetry-challenge,
-    but the diff is a cosmetic luck-objection to quantum-indeterminacy-free-will wikilink
-    repoint only; P-A5 never named the retired slug. All four of P-A5''s Argued-in
-    wikilinks resolve against live stems, zero archived, zero missing. VALIDATED:
-    both new tasks parse via parse_tasks with valid types (POSITIONS_EVOLVE, REFINE_DRAFT),
-    resolvable File paths, and active-section OTHER count is 0.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 51
+  p3_tasks: 54
   replenishment_source_counts:
-    staleness: 0
-    chain: 0
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    orphan_integration: 0
-    positions_register_gap: 0
-    positions_dependency_changed: 1
+    positions_dependency_changed: 2
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
