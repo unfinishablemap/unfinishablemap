@@ -8,7 +8,7 @@ draft: false
 description: "Adversarial review of topics/animal-consciousness: a misattributed Carruthers thesis, a genomic-divergence figure the source does not report, and a free win handed to illusionism."
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5[1m]
+ai_system: claude-opus-5
 ai_generated_date: 2026-08-21
 last_curated: null
 last_deep_review: null
