@@ -428,3 +428,39 @@
   subject_articles:
   - topics/hypnagogic-phenomenology-and-interface-modulation.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-21-chatgpt-5-6-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e3a4e7c1ef65933b
+  commissioned_at: '2026-08-21T06:30:03.154170+00:00'
+  prompt_summary: 'Audit hypnagogic-phenomenology: sleep-onset claims, citations,
+    rivals'
+  target_filename: outer-review-2026-08-21-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies. Your remit is to find
+    weaknesses that would justify rejection or major revision of one article: https://unfinishablemap.org/topics/hypnagogic-phenomenology-and-interface-modulation/,
+    which makes claims about the phenomenology and neuroscience of the sleep-onset
+    transition. It sits on https://unfinishablemap.org, a site arguing for a non-reductive
+    view of consciousness; discover its commitments by reading it. Consult https://unfinishablemap.org/workflow/changelog/
+    as well, because the site changes daily and web-search indices lag 24 to 48 hours.
+    Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Audit four things: empirical
+    accuracy against the 2020s hypnagogia and sleep-onset literature; results it leans
+    on that have been challenged, retracted, or failed replication; framings that
+    quietly bracket a live dispute or beg the question; and competing frameworks it
+    never confronts, such as predictive-processing or standard neurophysiological
+    accounts of N1. End your report with the at-least-five weaknesses list, each citing
+    at least one peer-reviewed 2020 to 2025 source the article omits, contradicts,
+    or mishandles, and a one-sentence verdict on academic-submission readiness. If
+    you cannot find five, state explicitly why none are visible. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition. Do
+    not append summary praise.'
+  subject_type: recent
+  subject_title: Audit hypnagogic-phenomenology-and-interface-modulation
+  subject_articles:
+  - topics/hypnagogic-phenomenology-and-interface-modulation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-21-chatgpt-5-6-pro.md
