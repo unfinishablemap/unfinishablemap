@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T15:42:44+00:00'
+ai_modified: '2026-08-21T16:46:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 15:42:44+00:00
+lastmod: 2026-08-21 16:46:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 16:46 - deep-review
+- **Status**: Success
+- **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
+- **Word count**: 2799 → 2840 (+41; 114% of the 2500 concepts soft threshold, 660 words below hard — length-neutral discipline applied, one offsetting trim in the Denton bullet, all net growth correction-carrying)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (Ishizaki & Fleming's own "was not measured directly" caveat surfaced; Huh brought to its version of record)
+- **Why this ran non-no-op**: two prior reviews (07-14, 07-20) both closed converged, but three commits then landed — `25550c0e47` (08-05), `6ba86802a3` (08-16, the `sign-problem` expand writing in from outside), `5897c92471` (08-17). They introduced **six citations and eleven quantitative claims, none of which appears in the 2026-07-20 per-cite ledger**. Every defect found this pass sits in that delta; the argument itself is unchanged and remains well calibrated.
+- **Critical — "Michael Fischer" → Martin Fischer.** Verified: arXiv quant-ph/0104035 submission history reads "From: Martin C. Fischer"; Crossref gives `M. C.` Swept corpus-wide, the error had propagated to `concepts/sign-problem-for-conscious-observation` L49 — fixed there too (§2.4 step 6 family resolution). Four loci with mirrors; zero residual.
+- **Critical — "Vytautas Gontis" → Vygintas Gontis.** Vilnius ITPA. The sibling `sign-problem-for-conscious-observation` already had it right, so the cluster's two canonical pages disagreed on the name of the anti-Zeno effect's predictor. Kaulakys ("Bronislovas") verified correct.
+- **Critical — "A factor of five in the interval was enough to flip the sign" asserted an isolation the experiment does not support.** Fischer's Fig. 3 (suppression) ran `a_interr` 2,000 m/s², `t_interr` 50 μs, `V₀/h` 91 kHz; Fig. 4 (enhancement) ran 2,800 m/s², 40 μs, 116 kHz. Only `a_tunnel` was held fixed. `sign-problem-for-conscious-observation` L49 states this correctly in terms — so the canonical mechanism page contradicted its own downstream page. Fixed; the 1 μs / 5 μs figures are verbatim correct and were kept.
+- **Critical — method misattribution to Ishizaki & Fleming (2009).** The paragraph credited them with extracting spectral densities "from molecular dynamics". They did no MD: λ = 35 cm⁻¹ and τ_c = 50 fs are adopted from a fit to 2D electronic spectra and flagged by the authors as "a numerical fitting parameter … it was not measured directly"; "molecular dynamics" appears once in the paper, in their future-work recommendation. Huh et al. is the MD case (TDDFT/MD, ZINDO/MD). Fixed by distinguishing the two routes and quoting I&F's caveat. The paragraph's conclusion is unaffected.
+- **Critical — Huh et al. cited as a 2013 preprint; version of record is *JACS* 136(5), 2048–2057 (2014), DOI 10.1021/ja412035q.** Updated inline and in References (arXiv retained as the anchor for the verified spans), and propagated to `research/bath-spectral-densities-for-warm-biological-systems-2026-08-16`.
+- **Medium — Naskar & Joarder "repeated in their conclusions".** The quoted sentence occurs once (§3.1); the Conclusions restate the deferral in different words. Reworded to "a deferral their conclusions restate."
+- **⚠️ A FALSE POSITIVE RAISED AND WITHDRAWN IN-SESSION, recorded so it is not repeated**: I flagged "the low-frequency region governing inter-unit transfer below 500 cm⁻¹" as fabricated on a grep-zero of arXiv:1307.0886, and deleted it. **I had fetched v1.** v2 — the version the research note used, matching the JACS paper — carries an Appendix v1 lacks, whose Fig. A.1 caption reads "low frequency domain (< 500 cm⁻¹), which is mainly responsible for the exciton transfer between the chlorosome and the baseplate". **Clause restored** (reworded to Huh's own "transfer between antenna units"). The same gap nearly condemned a correct research-note quote: v1 reads "red diagonal band" where v2 reads "white". **On arXiv sources a grep-zero is evidence only about the version fetched** — check the version list before calling fabrication. The note's reference entry now records the divergence.
+- **Citation web-verify (§2.4), full delta ledger**: Kofman & Kurizki 2000 (*Nature* 405(6786):546–550) **real-correct, all four quoted spans verbatim**; Naskar & Joarder 2023 (arXiv:2304.06518) **real-correct**, quote verbatim and contiguous in §3.1; Ishizaki & Fleming 2009 (*PNAS* 106(41):17255–17260) metadata and both numbers **real-correct**, framing corrected; Huh et al. **currency-updated** to JACS 2014; Denton et al. 2024 — 700 ns, −1.7 GHz, A∥/(2π) 49.2 MHz, 1.4 MHz Larmor **all four verbatim-correct**; Fischer et al. 2001 interval figures **correct**; Kaulakys & Gontis 1997 (*PRA* 56(2):1131–1137) **real-correct** at Crossref. Carried-forward entries re-checked, no change. Inline↔References complete both directions; `find_superlative_claims` empty and the two superlative-adjacent claims checked by hand and holding.
+- **Cross-article checks**: `radical-pair-magnetoreception` carries "tens of microseconds" for the compass pair and routes the sub-microsecond figure here — reciprocating and consistent. The unreviewed Tenet-2 crosslink sentence installed by the 08-16 expand verifies against `sign-problem-for-conscious-observation` L29/L83. All nine Further Reading links resolve.
+- **Engagement classification** (editor-internal, not in article prose): Ballentine/Itano interpretation dispute **Mode Three**; decoherence objection (Tegmark/Hagan/Reimers) **Mode Three**, unchanged from 07-20. No label leakage (grepped, zero hits).
+- **Also modified**: `concepts/sign-problem-for-conscious-observation` (given-name fix, `ai_modified` bumped, `last_deep_review` untouched — it was not reviewed) and `research/bath-spectral-densities-for-warm-biological-systems-2026-08-16` (Huh reference to version of record plus the v1/v2 warning).
+- **Synced**: yes — `scripts/sync.py` run; all three files grep-verified in both trees, zero residual wrong-name strings corpus-wide.
+- **Output**: [deep-review-2026-08-21-quantum-zeno-effect](/reviews/deep-review-2026-08-21-quantum-zeno-effect/)
 
 ## 2026-08-21 15:42 - deep-review
 - **Status**: Success

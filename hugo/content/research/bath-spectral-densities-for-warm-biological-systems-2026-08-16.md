@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 20:58:34+00:00
+ai_modified: 2026-08-21 16:45:07+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-16 20:58:34+00:00
+lastmod: 2026-08-21 16:45:07+00:00
 modified: *id001
 related_articles:
 - '[[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]'
@@ -224,7 +224,7 @@ Flagged as binding for downstream work:
 ## Citations
 
 1. Ishizaki, A., & Fleming, G.R. (2009). Theoretical examination of quantum coherence in a photosynthetic system at physiological temperature. *PNAS*, 106(41), 17255–17260. https://doi.org/10.1073/pnas.0908989106
-1. Huh, J., Saikin, S.K., Brookes, J.C., Valleau, S., Fujita, T., & Aspuru-Guzik, A. (2013). Atomistic study of energy funneling in the light-harvesting complex of green sulfur bacteria. arXiv:1307.0886. https://arxiv.org/abs/1307.0886
+1. Huh, J., Saikin, S.K., Brookes, J.C., Valleau, S., Fujita, T., & Aspuru-Guzik, A. (2014). Atomistic study of energy funneling in the light-harvesting complex of green sulfur bacteria. *Journal of the American Chemical Society*, 136(5), 2048–2057. https://doi.org/10.1021/ja412035q. Preprint: arXiv:1307.0886 (quotes above verified against **v2**, which carries the Appendix; **v1 lacks it** and reads "red diagonal band" where v2 reads "white").
 1. Olbrich, C., Strümpfer, J., Schulten, K., & Kleinekathöfer, U. (2011). Theory and simulation of the environmental effects on FMO electronic transitions. *J. Phys. Chem. Lett.*, 2(14), 1771–1776. https://doi.org/10.1021/jz2007676
 1. Naskar, K., & Joarder, P. (2023). Quantum decoherence in Microtubules. arXiv:2304.06518. https://arxiv.org/abs/2304.06518
 1. Firmenich, F., Firmenich, P., & Firmenich, L. (2026). Beyond Redfield: Thermodynamic bounds and non-perturbative quantum dynamics in tubulin networks. bioRxiv preprint, posted 2026-05-13. https://doi.org/10.64898/2026.05.10.724047 — **preprint, not peer reviewed**

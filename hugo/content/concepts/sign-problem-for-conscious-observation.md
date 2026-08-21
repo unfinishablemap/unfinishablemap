@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-17 20:01:08+00:00
+ai_modified: 2026-08-21 16:42:28+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-17 20:01:08+00:00
-lastmod: 2026-08-17 20:01:08+00:00
+lastmod: 2026-08-21 16:42:28+00:00
 modified: *id001
 related_articles:
 - '[[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]'
@@ -50,7 +50,7 @@ Kofman and Kurizki also name the quantity that decides the sign, in a formulatio
 
 The timescale form of the same condition is stated by Virzì and colleagues, in a paper co-authored by Kofman and Kurizki: "the time-variation of the system control must be much faster than (in the QZE case) or as fast as (in the AZE case) the bath correlation time." The operative reading is that the Zeno regime is not "measure fast" but *measure fast relative to the environment's memory*. A bath with a short correlation time — warm, wet, strongly coupled tissue being the paradigm case — pushes the threshold for stabilisation down and widens the interval range over which acceleration obtains.
 
-That the crossover is real was shown experimentally by Michael Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes on one platform — cold sodium atoms tunnelling out of an accelerated optical lattice. Tunnelling segments of 1 μs between interruptions produced suppression; segments of 5 μs produced enhancement, each measured against its own uninterrupted control. The two runs differed in trap depth and interruption parameters as well as in interval, so they establish that both regimes are reachable rather than isolating the interval. The authors attribute the flip to segment length: the longer segments span the burst of fast decay following the initial slow period — and where that burst falls is set by the system and its bath, not by the observer. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a search for anti-Zeno results in biological systems returned only Zeno-side work; that absence is weak evidence rather than a finding, since the search was not exhaustive.
+That the crossover is real was shown experimentally by Martin Fischer, Braulio Gutiérrez-Medina and Mark Raizen, who observed both regimes on one platform — cold sodium atoms tunnelling out of an accelerated optical lattice. Tunnelling segments of 1 μs between interruptions produced suppression; segments of 5 μs produced enhancement, each measured against its own uninterrupted control. The two runs differed in trap depth and interruption parameters as well as in interval, so they establish that both regimes are reachable rather than isolating the interval. The authors attribute the flip to segment length: the longer segments span the burst of fast decay following the initial slow period — and where that burst falls is set by the system and its bath, not by the observer. Two limits on transferring this picture to brains should be held in view. Chaudhry's work on strong system–environment coupling indicates that the effective decay rate is not simply linear in the spectral density outside the weak-coupling regime, and a neural application would be strongly coupled — so weak-coupling intuitions should not be imported wholesale. And a search for anti-Zeno results in biological systems returned only Zeno-side work; that absence is weak evidence rather than a finding, since the search was not exhaustive.
 
 ## The Dilemma
 
