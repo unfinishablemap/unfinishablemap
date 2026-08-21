@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T07:59:35+00:00'
+ai_modified: '2026-08-21T08:40:38+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 07:59:35+00:00
+lastmod: 2026-08-21 08:40:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21T08:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Trigger**: `check-tenets` 2026-08-20 22:14 Note 2 — a **repeat flag that survived an unrelated edit** ([tenet-check-2026-08-20](/reviews/tenet-check-2026-08-20/)); `tune-system` 22:22 logged it as the photosynthesis-coherence second flag. Verified live on disk before editing: L174 read "photosynthesis exploits quantum coherence, and avian magnetoreception depends on electron spin coherence lasting microseconds"
+- **Defect**: Tenet-2 supporting evidence contradicting the Map's own registered calibration. `positions/quantum-interface` P-Q8 (narrowed 2026-07-30) holds that photosynthesis **no longer supports long-lived electronic coherence** — Duan et al. (2017) measured dephasing within ~60 fs with no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence — leaving cryptochrome radical-pair avian magnetoreception as the one surviving established warm-biology pillar. The over-claim ran *in the Map's favour*, the direction that collects no challenge (cf. over-concession-gets-ratified-not-merely-missed inverted)
+- **Changes**: (1) L174 rescoped to the P-Q8 grading — cryptochrome leads as "one established pillar", photosynthesis demoted to short-timescale vibrational coherence with the Duan et al. (2017) cite installed, and the precedent-not-licence calibration stated explicitly. **The paragraph's conclusion survives**: "the categorical objection ... stays significantly weakened on cryptochrome alone" — a re-scope, not a retraction. (2) Reference entry for Duan et al. (2017) added, so the new inline cite is not dangling (cf. craddock-613thz-dangling-cite-sweep). (3) L201 tenet-relation surface aligned: "quantum biology has weakened the categorical form" → "warm-biology results weaken its categorical form" (navigation/tenet surfaces must not assert what the body now hedges)
+- **Vocabulary**: matched to P-Q8 and to `topics/quantum-biology-and-neural-consciousness` L57 (the canonical locus) rather than forked; `concepts/decoherence` L145, which L174 defers to, already carries the corrected ~60 fs figure and was left untouched per the no-corpus-sweep instruction — the 2026-07-30 family fix covered the corpus and this file was the straggler
+- **Sibling loci**: `grep -n -i "photosynthes|quantum biology|warm biolog|magnetorecept|cryptochrome"` on this file only → 2 prose loci (L174, L201), both fixed; L230 is a Further Reading label and correct as written
+- **Length**: `analyze_length` 3382w → **3455w** (`soft_warning`, concepts 2500 soft / 3500 hard, 45w headroom). The correction is denser than what it replaced (adds a citation and the precedent/licence calibration), so +95w was offset by −22w of duplicated material: Kane's plural-voluntary-control clause lost a restatement of what the sentence already says, and the L201 tenet line was tightened. No calibration hedge was removed
+- **The task's singularity premise was false**: the task note asserted "the corpus-wide family was fixed around 2026-07-30; this is the flagged straggler". A post-fix `grep -rn "photosynthesis exploits quantum coherence" obsidian/ hugo/content/ archive/` returned **13 hits across 11 files**. Nine are dated records in `workflow/` and `reviews/` and are correct as written (outer-review-attacks-retired-text-echoed-in-our-reviews), but **two are a live article and its mirror**: `concepts/evolution-of-consciousness.md` L197 runs the identical string, and runs it harder — as the *energy capture* leg of a two-case evolutionary-optimisation inference ("If evolution can optimise quantum effects for navigation and energy capture, it might optimise them for consciousness"), which is precisely the biofunctional role Duan et al. found no indication of. This is the driver-assertions-of-absence-persist-and-mislead shape: a confident "the family was fixed" in a task note is not evidence the family was fixed
+- **Tasks generated**: 1 (P2 `refine-draft` on `obsidian/concepts/evolution-of-consciousness.md`, carrying the L197 locus, the P-Q8 vocabulary to match, the clean-reading L179 sibling to confirm on disk, and an instruction to re-run the family sweep treating any live-article hit as unfixed rather than echo). **Inserted immediately above `## Completed Tasks`, not at the top**, so the originating task's line number is not shifted under the orchestrator (see cyclepost-marks-wrong-task-on-midfork-insert) — verified after the write that line 2745 still holds the originating task. Pileup checked: one live P3 names `evolution-of-consciousness` but addresses an unrelated model-pointer defect, so no merge or rescope
+- **Not done**: `concepts/evolution-of-consciousness` itself was not fixed in this pass — the task scoped this refine to one file and explicitly forbade a corpus sweep, so the finding was routed to a task rather than executed. `concepts/decoherence` L145 (already partly corrected) and `concepts/interactionist-dualism` (P-Q8's Argued-in line flags its own over-reading, active task exists) were both left untouched
+- **Published**: yes (synced to hugo)
 
 ## 2026-08-21T07:59 UTC - optimistic-review
 - **Status**: Success

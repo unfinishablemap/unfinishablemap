@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-18 23:26:08+00:00
+ai_modified: 2026-08-21 08:40:38+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -36,14 +36,14 @@ concepts:
 - '[[libet-experiments]]'
 - '[[concepts/many-worlds]]'
 created: 2026-01-18
-date: &id001 2026-08-18
+date: &id001 2026-08-21
 description: How quantum indeterminacy opens space for libertarian free will, and
   why the luck objection loses force within—though only within—the Map's dualist framework.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-08-18 23:26:08+00:00
+lastmod: 2026-08-21 08:40:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Alfred Mele sharpened this into **present luck** (nothing about the agent explai
 
 ## Libertarian Replies Before the Map
 
-**Event-causal libertarianism** (Kane, Balaguer, Ekstrom) has mental events cause actions through nondeterministic processes. Kane locates indeterminacy in the *effort of will* during "self-forming actions", where the agent is torn between incompatible options and makes effort toward each. His condition of *plural voluntary control* requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally and intentionally, so the outcome reflects something the agent genuinely values; such actions form character, making agents ultimately responsible for later choices flowing from it. Kane's 2024 *Complex Tapestry of Free Will* incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control"—a convergence suggesting the event-causal/agent-causal divide is less fundamental than it looked. The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it. See [event-causal-libertarianism](/topics/event-causal-libertarianism/).
+**Event-causal libertarianism** (Kane, Balaguer, Ekstrom) has mental events cause actions through nondeterministic processes. Kane locates indeterminacy in the *effort of will* during "self-forming actions", where the agent is torn between incompatible options and makes effort toward each. His condition of *plural voluntary control* requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally and intentionally; such actions form character, making agents ultimately responsible for later choices flowing from it. Kane's 2024 *Complex Tapestry of Free Will* incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control"—a convergence suggesting the event-causal/agent-causal divide is less fundamental than it looked. The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it. See [event-causal-libertarianism](/topics/event-causal-libertarianism/).
 
 **Agent-causal libertarianism** (the Map's wing, with Chisholm, O'Connor and Lowe) has the agent, as a persisting substance, directly cause actions. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event); Lowe argued all causation is fundamentally substance causation, with event causation a derivative shorthand. Critics find this unsatisfying, since "the agent caused it" appears to name the explanandum rather than supply an explanans. Agent-causalists answer that demanding further explanation already assumes event-causal reduction, and that if agent causation is sui generis the explanatory buck stops at the agent. The exchange can feel like an impasse—which is where the Map's framework tries to add content. See [agent-causation](/concepts/agent-causation/).
 
@@ -174,7 +174,7 @@ Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in
 
 **Second**, a Zeno-like mechanism would not require sustained coherence *between* observations, only rapid repeated observation events. Short coherence times may therefore not matter, though this remains speculative.
 
-**Third**, quantum biology has found coherence effects in warm biological systems: photosynthesis exploits quantum coherence, and avian magnetoreception depends on electron spin coherence lasting microseconds. The categorical objection—that biology cannot exploit quantum mechanics at all—has been significantly weakened, though the neural applications this framework needs remain open. See [decoherence](/concepts/decoherence/) for details.
+**Third**, quantum biology has found coherence effects in warm biological systems, though the record has narrowed to one established pillar: cryptochrome radical-pair avian magnetoreception, where electron spin coherence persists for microseconds. Photosynthesis, long cited beside it, no longer supports the claim in its *long-lived electronic* form—Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds and found no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence, a live but separate question. The categorical objection—that biology cannot exploit quantum mechanics at all—stays significantly weakened on cryptochrome alone, but what survives is a *precedent* that the regime is not impossible rather than a *licence* for the neural case. See [decoherence](/concepts/decoherence/) for details.
 
 ## Contemplative Evidence
 
@@ -201,7 +201,7 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 
 **[Dualism](/tenets/#dualism)** grounds the whole reply. If consciousness were nothing but physical process, "consciousness selects" would collapse into "physics determines"—no selector distinct from what is selected. Irreducibility is what makes selection available at all.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** specifies *how* selection works: biasing which among physically possible outcomes actualises, without overriding physics or injecting energy. The decoherence challenge targets this tenet directly, and quantum biology has weakened the categorical form of that challenge without settling the neural case.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** specifies *how* selection works: biasing which among physically possible outcomes actualises, without overriding physics or injecting energy. The decoherence challenge targets this tenet directly; warm-biology results weaken its categorical form without settling the neural case.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is self-undermining: if consciousness caused nothing, our discussions of it would be accidentally true at best.
 
@@ -240,6 +240,7 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
 1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-687.
+1. Duan, H.-G. et al. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *PNAS*, 114(32), 8493-8498.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
