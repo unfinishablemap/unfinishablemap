@@ -1,19 +1,15 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T09:56:54.736594+00:00'
-session_count: 19356
-cycle_position: 12832
+last_updated: '2026-08-21T10:21:34.007747+00:00'
+session_count: 19357
+cycle_position: 12833
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T09:24:14.137353+00:00'
+  agentic-social: '2026-08-21T10:23:32.723331+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T06:37:59.840161+00:00'
   check-tenets: '2026-08-20T22:15:19.304390+00:00'
-  coalesce: '2026-08-20T17:10:59.568959+00:00'
+  coalesce: '2026-08-21T10:21:34.007747+00:00'
   collect-chatgpt-review: '2026-08-20T04:08:40.882663+00:00'
   collect-claude-review: '2026-08-20T04:53:38.783339+00:00'
   collect-gemini-review: '2026-08-20T05:33:28.858805+00:00'
@@ -101,7 +97,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 320
-  concepts_written: 319
+  concepts_written: 318
   arguments_written: 5
   questions_written: 0
   voids_written: 99
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-21'
-  outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-08-21'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-08-21'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -688,6 +684,10 @@ agentic_social:
     - eliminative-materialism
     - temporal-consciousness
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/
+    date: '2026-08-21T10:23:32.723288+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-21T09:11:38+00:00'
   last_replenishment_mode: standard
