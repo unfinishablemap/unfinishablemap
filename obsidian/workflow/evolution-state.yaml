@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T00:01:13.313359+00:00'
-session_count: 19329
-cycle_position: 12819
+last_updated: '2026-08-21T00:13:33.644043+00:00'
+session_count: 19330
+cycle_position: 12820
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +29,7 @@ last_runs:
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-20T14:16:45.877230+00:00'
   pessimistic-review: '2026-08-20T11:53:27.659045+00:00'
-  positions-evolve: '2026-08-20T23:11:57.999183+00:00'
+  positions-evolve: '2026-08-21T00:13:33.644043+00:00'
   refine-draft: '2026-08-20T17:27:51.459569+00:00'
   replenish-queue: '2026-08-20T21:00:54.029479+00:00'
   research-topic: '2026-08-20T20:00:14.783966+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-08-20'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-20'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -662,63 +658,32 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
 queue_status:
-  last_replenishment: '2026-08-20T21:05:00+00:00'
+  last_replenishment: '2026-08-21T00:32:30+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'STANDARD MINT, four new P2 tasks, zero promotions. Live
-    count at pick was 2 pickable P0-P2 (scale-types expand-topic; erasure-void refine)
-    after the 20:26 positions-evolve closed the promoted substrate-verdict P2 (commit
-    f82814f61d) - the same steady-state alternation the 20:10 run noted. The three
-    condense P2s still carry veto tags and are excluded. Sources this run: chain x2
-    - apex-evolve created apex/one-world-wager 2026-08-20 10:41 with zero todo.md
-    references and its integration reached only its four apex_sources, so cross-reviews
-    minted on concepts/many-worlds and topics/probability-problem-in-many-worlds (both
-    grep-verified 0 backlinks, both clear of the ai_modified-today churn filter, chain
-    cap 2 of 2 now reached for this article); positions_dependency_changed x1 - agency-and-will
-    P-A2 cites the willed-vs-instructed neural data that the 08-19 Rajan reading sweep
-    and the 08-20 phenomenology-of-choice-and-volition Haggard fix re-scoped, register
-    last reviewed 08-02/03, update minted (distinct from the open volitionist-half
-    ADD task on the same file, noted for coordination); positions_register_gap x1
-    - the wager thesis variant-relative claim (decisive vs branch-egalitarian, supplementary
-    vs first-personally centred, modal-realism rejection bears the weight) greps to
-    zero in positions/, add minted with assess-first license-to-decline. Declined
-    sources, each verified: expand-topic - topics 320/320 via count_section_files
-    so both fresh 08-20 research notes stay cap-blocked recorded claimants, concepts
-    318/320 with both slots claimed by pending chains (scale-types expand, subject-fusion
-    and practical-knowledge research), voids 99/100 reserved for research-voids; condense
-    - zero minted: the only live-content criticals are positions/quantum-interface
-    (parked under the open NEEDS-HUMAN section-tuning entry that questions whether
-    register files should inherit article thresholds) and the human-vetoed apex/phenomenal-output-causal-machinery-dissociation,
-    while the topics hard_warnings run 4003-4067w against a 4000 ceiling (0.1-1.7
-    percent over, churn territory given the mass condense-veto bank); orphan_integration
-    - quality.orphaned_files reads 0; staleness - 46 live P3s already queued, deep-review
-    cycle slots cover this channel; positions audit - skipped, an audit ran 2026-08-13
-    inside the 30d window (replenish-positions-audit-false-overdue avoided). Pickable
-    P0-P2 after write: 6 (2 carried + 4 minted), type mix cross-review x2, positions-evolve
-    x2, expand-topic x1, refine-draft x1. P3 pool 46, split verified on the exact
-    heading line at L2761 per the 20:10 note warning.'
-  last_replenishment_prev: '2026-08-20T20:10:00+00:00'
-  last_replenishment_run: 990
-  loop_pickable_open: 6
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, three new P2 and two new P3, zero promotions. Authoritative pre-count count_p0_p2_tasks == 2 (scale-types expand; erasure-void refine) after the 21:05 batch of four fully drained (both one-world-wager cross-reviews closed 08-20 evening, P-A2 update 23:12, wager add landed as P-I5 00:11) - the documented replenish-at-floor alternation. The three condense P2s remain veto-excluded. Sources this run, each verified on disk: chain x1 - check-tenets 2026-08-20 22:14 REPEAT flag, quantum-indeterminacy-free-will L174 still asserts photosynthesis exploits quantum coherence against P-Q8 2026-07-30 narrowing (grep-verified on disk, 3382w soft_warning, churn filter clear, zero pileup); unconsumed_research x1 - self-signature voids note (21:59) minted as its own Absorption option into self-opacity 2757w + voids-between-minds 2854w (both soft_warning, 243w/146w headroom to voids 3000 hard, stated as binding constraint) rather than expand, because the final voids slot (99/100 via count_section_files) is claimed as an operator decision by the notation-void note - that decision is now surfaced as a NEEDS-HUMAN final-voids-slot entry, previously unsurfaced despite the note requesting it; positions_dependency_changed x1 - positions.md L55 discriminability aggregate reads 52 live as of 2026-08-12 while P-AS1 (08-20) and P-I5 (08-21) make it 54, the P-I5 changelog itself recorded the residue as out of scope, full band re-parse minted; deferred_residue_capture x1 P3 - summary-statistics fold half-landed, primary plenitude-void done 08-18 but secondary resolution-void grep 0 for ensemble/Knotts/Rahnev/Ward and consumed_by unstamped; verified_residue_mint x1 P3 - purification (folded 08-17 into generalised-probabilistic-theories) and hypnopompia (article sleep-paralysis-and-interface-reassembly created 08-13) both consumed under non-matching slugs with consumed_by null, stamp task minted with verify-first instruction and explicit do-NOT-stamp for the deliberately half-spent bath-spectral note. Declined sources, each verified: expand-topic - topics 320/320, concepts 318/320 with both slots claimed (scale-types expand open plus subject-fusion and practical-knowledge research P3s), voids final slot operator-owned per above; new research - two harvest P3 research tasks already queued and three voids notes already unconsumed, backlog before new intake; condense - unchanged from 21:05 analysis, only new hard_warning is plenitude-void 3062 vs 3000 (2 pct over, churn territory); orphan_integration - quality.orphaned_files 0; staleness - 46 P3 backlog, deep-review cycle slots cover; positions audit - 2026-08-13 audit inside 30d window; applied_apex_gap - none detected, deliberately slow. Also this run: pending_articles self-signature entry annotated with the fold decision so a future replenish does not mint an expand from it. Pickable P0-P2 after write: 5 (2 carried + 3 minted), type mix expand-topic x1, refine-draft x3, positions-evolve x1; P3 pool 48. Wager-lede check-tenets flag verified CLOSED by the 23:05 deep-review secondary scope, not re-minted.'
+  last_replenishment_prev: '2026-08-20T21:05:00+00:00'
+  last_replenishment_run: 991
+  loop_pickable_open: 5
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 46
+  p2_tasks: 5
+  p3_tasks: 48
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
-    chain: 2
-    deferred_residue_capture: 0
+    chain: 1
+    deferred_residue_capture: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions_dependency_changed: 1
-    positions_register_gap: 1
+    positions_register_gap: 0
     promotion_existing_p3: 0
     staleness: 0
-    unconsumed_research: 0
-    verified_residue_mint: 0
+    unconsumed_research: 1
+    verified_residue_mint: 1
   stale_task_anchors_repaired: 0
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
@@ -727,23 +692,10 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-20T22:22:34+00:00'
-  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
-    reason: cadences / overdue_thresholds / locked_settings still absent from state
-    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
-    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
-    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
-    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
-    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
-    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
-    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
-    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
-    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
-    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
-    cross-review task. Report: reviews/system-tune-2026-08-20.md'
+  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural reason: cadences / overdue_thresholds / locked_settings still absent from state (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real, sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem cross-review task. Report: reviews/system-tune-2026-08-20.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
 task_chains:
@@ -751,4 +703,5 @@ task_chains:
   - research_file: obsidian/research/voids-self-signature-void-2026-08-20.md
     target_section: voids
     date: '2026-08-20'
+    note: '2026-08-21 replenish: consumed via fold task (absorption into self-opacity + voids-between-minds) per the note and the notation-void slot claim - do NOT mint an expand from this entry; remove it when the fold task stamps consumed_by'
   pending_cross_reviews: []
