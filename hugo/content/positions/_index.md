@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-21 00:11:48+00:00
+ai_modified: 2026-08-21 09:53:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The Map's explicit, maintained register of positions it currently h
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-08-21 00:11:48+00:00
+lastmod: 2026-08-21 09:53:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ The *machinery* migration is not. As of 2026-08-03 no validator anywhere in the 
 
 ## What the discriminability axis reads back
 
-Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each position disclosed its own testability correctly in its own entry, and nothing downstream consumed the axis — no validator, no article, no aggregate stated anywhere. A column that is written but never read is disclosure, not a control; that is [P-M5](/positions/methodology-and-calibration/) landing on the register's own instrument, and this section is the read. As of 2026-08-12, the 52 live positions score **direct** 4 · **indirect** 18 · **in-principle** 0 · **none** 7 ([P-A2](/positions/agency-and-will/), [P-AC3](/positions/ai-consciousness-scope/), [P-CS1](/positions/consciousness-scope/), [P-I1](/positions/individuation-and-subjecthood/), P-I3, P-I4, [P-SC3](/positions/subject-census/)) · **none-by-construction** 5 ([P-CS5](/positions/consciousness-scope/), [P-Q2](/positions/quantum-interface/), P-Q3, P-Q7, [P-SC1](/positions/subject-census/)) · **n/a** 18. (Re-parse the domain files before quoting these figures; they move as positions are added.) The *n/a* entries are normative or meta commitments where testability does not apply. The *none* and *none-by-construction* bands are different: first-order claims about the world that no measurement reaches — seven because rival readings of the same data are empirically equivalent, five because the framework is built to be indistinguishable (exact Born preservation). About a quarter of what the Map holds is empirically inert, the inert set includes its most structurally central commitments (P-Q2, P-Q7, P-CS1), and eleven of the twelve also carry the framework-internal flag. Following the discipline [taxonomy-of-voids](/apex/taxonomy-of-voids/) applies to tenet-generated voids, this aggregate names the price the framework pays, not evidence for the tenets: Tenet 5's refusal of the parsimony dismissal is what lets these commitments stand, and a register a quarter of which cannot be tested is what that refusal costs. The count is a disclosed liability, not a coherence result. The read changes no schema — the seventh `enforcement:` flag proposed on 2026-08-03 remains deliberately not adopted ([vocabulary decisions](/positions/methodology-and-calibration/)).
+Every entry carries an **empirical discriminability** band, but until this section existed nothing read the column: each position disclosed its own testability correctly in its own entry, and nothing downstream consumed the axis — no validator, no article, no aggregate stated anywhere. A column that is written but never read is disclosure, not a control; that is [P-M5](/positions/methodology-and-calibration/) landing on the register's own instrument, and this section is the read. As of 2026-08-21, the 54 live positions score **direct** 4 · **indirect** 19 · **in-principle** 0 · **none** 7 ([P-A2](/positions/agency-and-will/), [P-AC3](/positions/ai-consciousness-scope/), [P-CS1](/positions/consciousness-scope/), [P-I1](/positions/individuation-and-subjecthood/), P-I3, P-I4, [P-SC3](/positions/subject-census/)) · **none-by-construction** 5 ([P-CS5](/positions/consciousness-scope/), [P-Q2](/positions/quantum-interface/), P-Q3, P-Q7, [P-SC1](/positions/subject-census/)) · **n/a** 19. (Re-parse the domain files before quoting these figures; they move as positions are added.) The *n/a* entries are normative or meta commitments where testability does not apply. The *none* and *none-by-construction* bands are different: first-order claims about the world that no measurement reaches — seven because rival readings of the same data are empirically equivalent, five because the framework is built to be indistinguishable (exact Born preservation). Twelve of the fifty-four are empirically inert — a little over a fifth of what the Map holds — seven of them carrying *high* structural centrality (P-CS1, P-I1, P-I3, P-Q2, P-Q3, P-Q7, P-SC1), and eleven of the twelve the framework-internal flag. Following the discipline [taxonomy-of-voids](/apex/taxonomy-of-voids/) applies to tenet-generated voids, this aggregate names the price the framework pays, not evidence for the tenets: Tenet 5's refusal of the parsimony dismissal is what lets these commitments stand, and a register a fifth of which cannot be tested is what that refusal costs. The count is a disclosed liability, not a coherence result. The read changes no schema — the seventh `enforcement:` flag proposed on 2026-08-03 remains deliberately not adopted ([vocabulary decisions](/positions/methodology-and-calibration/)).
 
 ## Domains
 

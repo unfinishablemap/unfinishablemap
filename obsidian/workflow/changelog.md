@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T08:40:38+00:00'
+ai_modified: '2026-08-21T09:54:58+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 09:54 - positions-evolve (update)
+- **Status**: Success
+- **File**: [[positions/positions]] — the "What the discriminability axis reads back" aggregate only. **No position's own calibration line was touched**; this was a read of the register, not a recalibration
+- **Trigger**: the aggregate read "As of 2026-08-12, the 52 live positions"; two adds had landed since (P-AS1 2026-08-20, P-I5 2026-08-21), and the P-I5 changelog entry had explicitly logged the residue as out of scope
+- **Method**: full re-parse of every domain file, not a patch. Enumerated `obsidian/positions/` on disk and classified: **17 files** = index `positions.md` + **2 companion files holding no positions** (`quantum-interface-calibration-history.md`, `methodology-and-calibration-history.md`) + **14 domain files**. Parsed each `## P-XN:` block for its `Status` and `Calibration` lines, stripping band parentheticals to the base vocabulary term. **54 entries, all `live`, none missing a Status or Calibration line.** The parenthesised qualifiers matter: three `indirect` and two `none-by-construction` entries carry them (P-D3, P-MS1, P-Q9; P-CS5, P-SC1), so a naive exact-match count would have under-read both bands
+- **Fresh counts (2026-08-21, 54 live)**: direct 4 · indirect **19** · in-principle 0 · none 7 · none-by-construction 5 · n/a **19**. Sum reconciles to 54. Movement since 2026-08-12 is exactly the two adds — P-AS1 → *indirect* (18→19), P-I5 → *n/a (meta)* (18→19). **direct, none and none-by-construction are all unchanged**, so both parenthesised exemplar lists were re-verified member-by-member and re-emitted as they stood
+- **Dependent prose re-derived, not patched**:
+  - *Inert fraction*: 12 of 54 = 22.2%. "About a quarter" was true of 12/52 (23.1%) but now sits nearer a fifth than a quarter, so it reads "a little over a fifth". The second, downstream instance later in the same paragraph ("a register a quarter of which cannot be tested is what that refusal costs") was carrying the same stale figure and was re-derived with it — it is the sentence that names the price Tenet 5's refusal pays, so an inflated fraction there overstates the Map's own disclosed liability
+  - *Centrality claim*: the old text named three exemplars (P-Q2, P-Q7, P-CS1) as "its most structurally central commitments". The re-parse of the centrality axis found **seven** of the twelve inert positions at *high* centrality — P-CS1, P-I1, P-I3, P-Q2, P-Q3, P-Q7, P-SC1. The old list was accurate but a subset; it now states the count and the full membership, which strengthens the disclosure rather than softening it
+  - *Framework-internal count*: re-verified independently — **11 of the 12** inert positions carry `framework-internal only: yes`, the sole exception being P-CS5. Unchanged, and now confirmed by parse rather than inherited
+- **Scope boundary held**: the live P3 from [[reviews/optimistic-2026-08-21-restraint-apparatus]] owns the register's *self-description* (F1, the companion-files paragraph at L77 omitting `methodology-and-calibration-history`; F2, the stale "thirteen register files" figure). Confirmed disjoint — the "thirteen register files" string lives in `methodology-and-calibration.md` L54 and `methodology-and-calibration-history.md` L39, **not in `positions.md`** — so nothing here pre-empts or merges that task. Also left untouched: L59's "Each domain file holds 8–15 positions", which is register self-description and sits on the P3's side of the line (flagged below, not fixed)
+- **Anchor-note correction confirmed**: the task note's repaired "17 files / 14 domain files" figure was re-derived independently on disk before parsing rather than trusted, per its own instruction. It checks out
+- **Length**: `analyze_length` 2077w → **2085w** (+8, `soft_warning`; register-file thresholds are governed by the open NEEDS-HUMAN entries). No restructuring
+- **Verification**: synced; the new as-of date, "a little over a fifth" and "a register a fifth of which" all confirmed present in `hugo/content/positions/_index.md` ([[obsidian-only-fix-leaves-defect-live-in-hugo]]). Corpus grep for the retired strings ("52 live positions", "About a quarter of what the Map holds") returns zero hits in `obsidian/positions/`, `hugo/content/` and `archive/`; the two surviving hits are historical echo in `workflow/todo.md` (this task's own note) and `reviews/outer-review-2026-08-13-chatgpt-5-6-pro.md`, correctly left alone
+- **Cascade / follow-ups**: none queued. No position entry changed, so no downstream dependency is disturbed
+- **Noted for the operator, not acted on**: this aggregate has now gone stale twice within nine days on ordinary add traffic, and its self-protecting parenthetical ("Re-parse the domain files before quoting these figures") did not prevent it — the figures are still hand-maintained prose. Any add is a silent staleness event for this paragraph. A `positions-evolve add` step that re-parses and rewrites the aggregate, or a validator that recomputes it, would close the loop; that is exactly the disclosure-versus-enforcement gap P-M5 predicts, landing once more on the register's own instrument
+- **ai_system**: `claude-opus-4-8+claude-opus-5+claude-fable-5` held unchanged; this pass ran on Opus 5, already present in the stamp
+- **Published**: yes (synced to hugo)
 
 ## 2026-08-21 09:36 - deep-review
 - **Status**: Success
