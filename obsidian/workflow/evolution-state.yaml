@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T17:20:37.650212+00:00'
-session_count: 19381
-cycle_position: 12844
+last_updated: '2026-08-21T17:30:45.753448+00:00'
+session_count: 19382
+cycle_position: 12845
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-08-21T08:01:50.756313+00:00'
   pessimistic-review: '2026-08-21T01:31:32.553550+00:00'
   positions-evolve: '2026-08-21T09:56:54.736594+00:00'
-  refine-draft: '2026-08-21T15:32:36.096268+00:00'
+  refine-draft: '2026-08-21T17:30:45.753448+00:00'
   replenish-queue: '2026-08-21T13:01:41.104478+00:00'
   research-topic: '2026-08-21T14:28:39.691180+00:00'
   research-voids: '2026-08-20T22:00:19.912664+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-21'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-08-21'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -724,97 +724,79 @@ agentic_social:
     - philosophy-of-mind
     - argument-from-reason
 queue_status:
-  last_replenishment: '2026-08-21T12:55:00+00:00'
+  last_replenishment: '2026-08-21T17:45:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_run: 994
+  last_replenishment_run: 995
   loop_pickable_open: 3
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions,
-    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
-    3; post-count 3. Third floor restore of the day: the 11:45 pair drained in about
-    an hour (interpretability-probes re-route 12:0x, decoherence P-Q8 straggler fe7ecc7466),
-    leaving only that run''s own two mints. MINTED ONE, DELIBERATELY NOT FIVE-TO-EIGHT:
-    every other source was measured this run and came back empty or already claimed,
-    so a second mint would have meant inventing a candidate. SOURCE USED, staleness:
-    deep-review topics/consciousness-and-the-problem-of-measurement-standards, validated
-    against get_review_candidates where it ranks 8th (score 35.5, 55 days) and is
-    the OLDEST entry in the top-16 - older than the 45-day file the 11:45 run took.
-    Zero live tasks name it as File, grepped against the active region. The discriminator
-    is a concrete unrepaired internal tension, grep-verified on disk: commit ab0770d103
-    (2026-08-21 01:17, the scale-types-for-phenomenal-quantities expand) inserted
-    a paragraph at L61 saying additive decomposability is sufficient but not necessary
-    for quantitative structure, so the unit argument cannot rest on non-additivity
-    by itself - while the article''s own framing section at L47 still defines the
-    first leg of its triad as Units require that the measured quantity be decomposable
-    into identical, additive portions, and the two intervening paragraphs still run
-    the pure non-additivity case. The refinement repaired its local paragraph and
-    left the definition the whole argument rests on untouched. Secondary lenses recorded
-    in the task: the description frontmatter still asserts unqualified resistance
-    on all three legs (navigation-surfaces-carry-unreviewed-claims), an apex-installed
-    See-Also label from 10533cf23c asserts an unreconciled tension the body may never
-    state, and the reference list is 6 entries with ZERO from the 2020s. Length is
-    2291w against topics hard 4000, so 1709 words of headroom - not a condense target.
-    FALSE PREMISE CAUGHT AND WRITTEN INTO THE TASK: the tempting frame was outbound-crosslink-sentences-are-never-reviewed-by-
-    anyone, but reviews/pessimistic-2026-08-21-scale-types.md L27 explicitly records
-    that the installed sibling crosslink sentences were read and verified accurate
-    and that the cross- article contradiction was pre-fixed. The task tells the executor
-    not to re-litigate the Luce-Tukey summary; what is unreviewed is the host''s surrounding
-    prose, not the insert. SOURCES NOT USED, each measured this run: unconsumed_research
-    - EXHAUSTED. All six recent research notes whose slug has no matching article
-    (values-in-science-and-inductive-risk, phenomenal-individuality-and-biological-individuality-pluralism,
-    analog-quantum-devices, semanticisation-and-fading-episodic-phenomenology, anti-zeno-effect-and-sign-of-conscious-
-    observation, african-philosophy-of-mind) were traced to COMPLETED fold tasks under
-    other slugs - the replenish-unconsumed-research-dedup-misses-threaded-content
-    shape, six times over. The only genuine remainder, machine-aesthetic-judgment-2026-08-07,
-    is already the live 11:45 P2. orphan_integration - one orphan corpus-wide and
-    it is topics/non-temporal- consciousness.refinement-log.md, an intentional editor
-    sidecar, which incidentally confirms topics holds 319 real articles while count_section_files
-    gates at 320. length_analysis - the worst topics offender, consciousness-and-the-metaphysics-of-laws-and-dispositions
-    at 4226w, was already condensed 2026-05-31 and carries both a DEFERRED-TO-HUMAN
-    calibration- condense and a completed HUMAN length-decision, so re-minting is
-    the documented replenish- overmints-condense blind spot; the three standing condense
-    tasks remain veto-tagged. chain - the last expand-topic (scale-types, 01:17) already
-    took a deep-review at 06:04 and a pessimistic review the same day. positions_register_gap
-    - three positions-evolve tasks are already live. staleness runners-up rejected
-    on the merits: organizational-invariance (sole post-review delta is one See-Also
-    label), the-steelman-for-value-blind-selection (sole delta is a reciprocal cross-link),
-    radical-pair-magnetoreception (one-sentence disambiguation, already the product
-    of a deliberate cross-page audit). CAPS this run via count_section_files: topics
-    320/320 gated (319 real), concepts 318/320, voids 99/100, positions 16 files of
-    which 14 are domain files.'
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions, no padding. Authoritative
+    pre-count count_p0_p2_tasks == 2, below the floor of 3; post-count 3. MINTED ONE, DELIBERATELY NOT
+    FIVE-TO-EIGHT: every other source was measured this run and came back empty, capped, or already claimed,
+    so a second mint would have meant inventing a candidate. SOURCES MEASURED AND DECLINED: expand-topic
+    is structurally blocked - topics reads 320/320 AT CAP and concepts 318/320, whose 2 remaining slots
+    are already oversubscribed by 5 open research-topic tasks that each chain into concepts. Orphans 0.
+    task_chains.pending_articles and pending_cross_reviews both empty (and pending_articles has no writer,
+    so its emptiness is uninformative) - chains are in fact being served, both incumbent P2s are chain
+    successors. Length: the only genuine new critical is positions/quantum-interface at 4414 vs 4000 with
+    zero reference apparatus to decompose away, but the active region already names that path 8 times,
+    so a 9th task would be pure same-file pileup - DECLINED. apex/apex-articles.md at 12630 is the 42-entry
+    apex index listing, not prose - thresholds do not apply. SOURCE USED, staleness: deep-review concepts/interface-threshold,
+    validated against get_review_candidates where it ranks 1st (score 40.0, 38 days, last_deep_review
+    2026-07-14). Zero live tasks name it as File, grepped against the active region. Length 2420w vs concepts
+    hard 3500, so 1080 words of headroom - not a condense target. THE CHANGED-SINCE-REVIEW SIGNAL IS FALSE
+    HERE and was explicitly set aside: the sole commit since review is 5986c301a5 (08-19), which changed
+    three lines - ai_modified, ai_system, and one self-citation repoint off an archived URL. The discriminator
+    is unchecked surface instead, two defects grep-verified on disk this run. (1) The article''s Falsification
+    Condition 3 names cumulative culture without consciousness expansion as a weakener, and the sibling
+    it wikilinks three times, concepts/cumulative-culture, already carries the two best candidate triggers
+    for exactly that condition - Bridges et al. 2024 Nature 627 on bumblebee social learning beyond individual
+    innovation, and Gunasekaram et al. 2024 Science 386 on chimpanzee cumulative-culture complexity tracking
+    population connectivity. grep for Bridges/Gunasekaram/bumblebee on the article returns 0; its cumulative-culture
+    support stops at Tennie 2009 and Whiten 2015. The task says PRICE these, not concede them, and flags
+    that both cites are carried across from a sibling reference list and are NOT publisher-verified. (2)
+    The last sentence of The Cluster Prediction attributes the five-capacity cluster to apex/minds-without-words
+    as its operational marker; grep on that file returns chaining 0, meaning-sensitive 0, five-capacity
+    0 - its five-item construct is a five-TIER EVIDENTIAL SCALE and its operational instrument is the
+    Andrews/Birch/Sebo 2025 marker method. A near-miss collision on the word five; the fix is in this
+    article, not the sibling. Secondary lenses recorded in the task: the New York Declaration on Animal
+    Consciousness 2024 is cited inline with zero reference entry (dangling cite), and of 9 external references
+    exactly ONE is from the 2020s while the whole comparative-cognition spine is pre-2020 in a section
+    audit_triple lists as active research. ALSO DECLINED, second staleness pick: concepts/causal-consistency-constraint
+    ties for oldest at 38 days and is clear of pileup, but it has had THREE substantive refine-drafts
+    since its review (7e01f7635b, 3e931b3479, 08-02; c0dfc8fa2e, 08-17), all citation- and argument-level
+    repairs, and carries 5 of 12 refs from the 2020s. It is actively maintained, not neglected - its staleness
+    score is a false-high and re-reviewing it would have been churn.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
   p3_tasks: 49
   replenishment_source_counts:
+    staleness: 1
     chain: 0
+    unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
-    staleness: 1
-    unconsumed_research: 0
+    positions_register_gap: 0
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
+      per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-20T22:22:34+00:00'
-  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
-    reason: cadences / overdue_thresholds / locked_settings still absent from state
-    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
-    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
-    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
-    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
-    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
-    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
-    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
-    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
-    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
-    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
-    cross-review task. Report: reviews/system-tune-2026-08-20.md'
+  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural reason: cadences
+    / overdue_thresholds / locked_settings still absent from state (re-verified None this run). Health
+    excellent: 20/20 ring success, failed_tasks empty, critical 0, check-tenets 11th clean pass with all
+    prior notes closed. Binding constraint unchanged and sharpened: cap freeze across topics 320/320 (319
+    real, sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved unable
+    to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict same day); harvest pipeline
+    now OUTRUNS the expand stage - two publishable notes minted+executed today are cap-blocked claimants.
+    Tier 3 escalations: cap raise or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
+    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow proven). Tier 2: fold
+    one-world-wager lede recalibration into the open probability-problem cross-review task. Report: reviews/system-tune-2026-08-20.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
 task_chains:
