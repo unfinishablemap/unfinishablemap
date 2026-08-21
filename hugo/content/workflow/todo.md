@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T00:31:44+00:00'
+ai_modified: '2026-08-21T07:59:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-21 00:31:44+00:00
+lastmod: 2026-08-21 07:59:35+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Verify ai_system attribution after model-fallback event (2026-08-21)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a38019ad903204784.jsonl shows 100x claude-opus-5 message(s) alongside the primary model between 2026-08-21T02:42:36.895000+00:00 and 2026-08-21T02:53:46.966000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-  **DRIVER TRIAGE 2026-08-21 (census done, REAL GAP — actionable):** this transcript is the `deep-review` fork that reviewed `obsidian/concepts/scale-types-for-phenomenal-quantities.md` and committed it as `837409c386` (06:04). Dominant==foreign==claude-opus-5 is the session-stick shape, so treat the WHOLE pass as opus-5 work. That pass made substantive content changes (7 medium fixes, a citation-framing widening, a new Nagarjuna paragraph, Michell 2000 added), yet the article's frontmatter still reads `ai_system: claude-fable-5` from its 01:17 expand-topic create. FIX: append plus-joined -> `claude-fable-5+claude-opus-5`. Check whether any self-citation pseudonym needs the opus form per expand-topic SKILL.md 5.5. Do NOT bump `ai_modified`/`last_deep_review` for a pure attribution correction. Sync both trees after.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-21
 
 ### P3: Research Practical knowledge and knowledge without observation
 - **Type**: research-topic
@@ -2799,11 +2792,26 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: `research/voids-notation-void-2026-08-19.md` (research-voids, 2026-08-19) closes its Slot-or-fold section: "this is a legitimate candidate for the final slot, but spending the final slot is a human decision, not an automation one. Do not write this note into `task_chains.pending_articles`; surface it for the operator." **The surfacing never happened** — verified 2026-08-21: zero active-region matches for notation-void before this entry. **The situation**: voids at 99/100 (`count_section_files` this run), ONE slot, and three unconsumed voids notes in play. (a) **notation-void** — methodological and cross-cutting; its note argues that folding would scatter one argument across seven thin host paragraphs (all seven candidate hosts are `soft_warning`, each fold needs an offsetting trim — distribution plan at the note's L202), so standalone is the right form IF the slot is spent. (b) **self-signature** — specific void; a fold task into self-opacity + voids-between-minds was minted this run per the absorption discipline; veto that task if you prefer self-signature standalone (they compete for the same slot). (c) **summary-statistics** — fold recommended by its own note, primary already landed, secondary fold task minted this run; no slot claim. **DECISION OWED**: spend the final slot on `voids/notation-void` (an expand-topic from the note), fold notation per its L202 distribution, or hold the slot. Note the trade the notation note itself flags: at 100/100 `research-voids` skips entirely, so spending the slot also pauses the voids research pipeline until a coalesce frees another.
 - **Generated**: 2026-08-21
 
+### P3: positions-evolve — `positions/positions.md` names one companion file where two exist, and the "thirteen register files" cost figure is stale by one
+- **Type**: positions-evolve
+- **File**: obsidian/positions/positions.md
+- **Second file**: obsidian/positions/methodology-and-calibration.md
+- **Third file**: obsidian/positions/methodology-and-calibration-history.md
+- **Status**: pending
+- **Notes**: Two verified register-self-description defects from [optimistic-2026-08-21-restraint-apparatus](/reviews/optimistic-2026-08-21-restraint-apparatus/) (findings F1-F3). Neither touches any position's content, calibration, dependencies or shift conditions — this is a read-and-relabel pass, **not** a recalibration. **(F1)** `positions/positions.md`'s **Companion files** paragraph is singular: it names only [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/) and closes "The convention is available to any domain file whose audit trail has outgrown its live content." Overtaken — `positions/methodology-and-calibration-history.md` adopted the convention on 2026-08-03 (18 days before this mint), is fully wired (4 `Calibration history` back-links from its domain file, vs 8 in `quantum-interface.md`), and is **absent from `positions.md` entirely**: `grep -c "methodology-and-calibration-history" obsidian/positions/positions.md` returns **0**, so the file is reachable from the register index by no path. Rewrite the paragraph to name both companions and to record that the convention has been generalised once, not merely offered. **(F2)** `positions/methodology-and-calibration.md` L54 and `positions/methodology-and-calibration-history.md` (Schema vocabulary decisions section) both state that adopting the proposed seventh **`enforcement: wired / partial / unwired`** flag would touch "all thirteen register files". The register now holds **14 domain files** — `positions/ai-substrate-verdicts.md` landed 2026-08-20 as the 14th. **Decision-relevant**: that figure is the stated *reason* the recommendation was deliberately not adopted, so the cost side of a live NEEDS-HUMAN operator decision is understated. Corpus-wide sweep (obsidian + archive + hugo, live content only) found exactly **2** live loci, both named above, each mirrored once in `hugo/content/positions/`. The `reviews/` and `workflow/` hits (optimistic-2026-08-03-machine-evidence-wing, optimistic-2026-08-03-subject-census-machinery, pessimistic-2026-08-03-positions-calibration-schema, todo.md, changelog-2026-W32) are dated records of the 2026-08-03 audit and are **correct as written — do NOT "fix" them** (see outer-review-attacks-retired-text-echoed-in-our-reviews). **(F3, rider)** The live P2 `positions-evolve` aggregate-refresh task on this same file instructs "re-parse the calibration lines of ALL 16 domain files". `positions/` holds 17 `.md` files: the index, **2 companion history files that contain no positions and no live calibration lines** (both say so in their own opening sections), and **14 domain files**. Add a clarifying clause so the executor of that task does not hunt for calibration lines in the two companions and read their absence as missing data; the aggregate must be computed over 14. **Do NOT** merge this task into the P2 or rescope the P2 in place — they are independently trackable (see cyclepost-marks-rescoped-task-on-inplace-rewrite); they may be executed in the same sitting. Length-neutral or near it; `positions.md` is a register file and the open register-threshold NEEDS-HUMAN entries govern length posture, so do not restructure. `ai_modified` from live `date -u`; sync and grep all three hugo mirrors to confirm parity (see obsidian-only-fix-leaves-defect-live-in-hugo).
+- **Source**: optimistic-review (optimistic-2026-08-21-restraint-apparatus)
+- **Generated**: 2026-08-21
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-21: Verify ai_system attribution after model-fallback event (2026-08-21)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a38019ad903204784.jsonl shows 100x claude-opus-5 message(s) alongside the primary model between 2026-08-21T02:42:36.895000+00:00 and 2026-08-21T02:53:46.966000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+  **DRIVER TRIAGE 2026-08-21 (census done, REAL GAP — actionable):** this transcript is the `deep-review` fork that reviewed `obsidian/concepts/scale-types-for-phenomenal-quantities.md` and committed it as `837409c386` (06:04). Dominant==foreign==claude-opus-5 is the session-stick shape, so treat the WHOLE pass as opus-5 work. That pass made substantive content changes (7 medium fixes, a citation-framing widening, a new Nagarjuna paragraph, Michell 2000 added), yet the article's frontmatter still reads `ai_system: claude-fable-5` from its 01:17 expand-topic create. FIX: append plus-joined -> `claude-fable-5+claude-opus-5`. Check whether any self-citation pseudonym needs the opus form per expand-topic SKILL.md 5.5. Do NOT bump `ai_modified`/`last_deep_review` for a pure attribution correction. Sync both trees after.
 
 ### ✓ 2026-08-21: Verify ai_system attribution after model-fallback event (2026-08-21)
 - **Type**: refine-draft
