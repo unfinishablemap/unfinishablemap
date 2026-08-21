@@ -371,3 +371,30 @@
   subject_articles:
   - apex/apex-articles.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-20-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a87b3f7-ce40-83ed-8f86-9ca65d021a4c
+  commissioned_at: '2026-08-21T02:12:24.462971+00:00'
+  prompt_summary: Audit topics/hypnagogic-phenomenology-and-interface-modulation (recent-aged)
+  target_filename: outer-review-2026-08-21-chatgpt-5-6-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are an external referee auditing one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site defending interactionist\
+    \ dualism with minimal quantum-level interaction. Subject: https://unfinishablemap.org/topics/hypnagogic-phenomenology-and-interface-modulation/\
+    \ \u2014 last substantively modified 2026-08-13. Audit its claims as they now\
+    \ stand: verify citations at their primary sources (metadata and whether the article's\
+    \ paraphrases match what those works actually say), and test for insufficient\
+    \ evidence, missed counterarguments, tenet-protective bracketing, and stale references\
+    \ against the current 2020s literature on hypnagogia and sleep-onset phenomenology.\
+    \ Assess integration with neighbouring Map articles and consistency with the site's\
+    \ positions register. Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult it, since web search indexes may lag the site by 24-48 hours.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit hypnagogic-phenomenology-and-interface-modulation
+  subject_articles:
+  - topics/hypnagogic-phenomenology-and-interface-modulation.md
+  subject_source: fallback:recent-aged
