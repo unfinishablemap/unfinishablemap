@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-19 15:24:39+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-08-21 20:12:27+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[consciousness-as-amplifier]]'
@@ -28,8 +28,8 @@ description: The architectural phase transition where the mind-brain interface b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 15:03:20+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+last_deep_review: 2026-08-21 20:12:27+00:00
+lastmod: 2026-08-21 20:12:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The concept does specific explanatory work the Map elsewhere distributes across 
 
 ## Two Models of the Cognitive Discontinuity
 
-The comparative cognition data present a puzzle. Chimpanzee and human brains are structurally similar — same gross anatomy, similar cortical architecture, broadly overlapping neuron classes. Yet the cognitive gap between them is enormous on tasks requiring explicit representation, deliberate reasoning, [cumulative cultural ratcheting](/concepts/cumulative-culture/), and counterfactual simulation. If cognition scaled smoothly with neural substrate, this pattern should not appear; better substrate ought to produce proportionally better performance across the board, not a selective cliff on consciousness-implicating tasks.
+The comparative cognition data present a puzzle. Chimpanzee and human brains are structurally similar — same gross anatomy, similar cortical architecture, broadly overlapping neuron classes (Roth & Dicke 2005; Buckner & Krienen 2013). Yet the cognitive gap between them is enormous on tasks requiring explicit representation, deliberate reasoning, [cumulative cultural ratcheting](/concepts/cumulative-culture/), and counterfactual simulation. If cognition scaled smoothly with neural substrate, this pattern should not appear; better substrate ought to produce proportionally better performance across the board, not a selective cliff on consciousness-implicating tasks.
 
 Two models compete for the explanation:
 
@@ -80,12 +80,12 @@ Below the threshold, the coupling supports what [baseline cognition](/concepts/b
 The threshold model's central empirical commitment is that the capacities crossing the threshold should appear *together*, not sequentially. Five capacities should rise as a correlated bundle:
 
 1. **Durable conscious maintenance.** The interval over which consciously accessed information persists extends from sub-second to seconds-to-minutes, enabling cross-element combination.
-2. **Novel chaining of operations.** Information becomes available for broadcast across modules rather than remaining local — the [global workspace](/concepts/global-workspace-theory/) picture, treated by the Map as a downstream consequence of the threshold, not its cause.
+2. **Novel combination of operations.** Information becomes available for broadcast across modules rather than remaining local, so operations previously confined to separate subsystems can be composed into sequences the organism has never run before — the [global workspace](/concepts/global-workspace-theory/) picture, treated by the Map as a downstream consequence of the threshold, not its cause.
 3. **Declarative metarepresentation.** Mental states become representable *as* mental states; the procedural-to-declarative transition described in the [metarepresentation-threshold article](/concepts/metacognition/#the-metarepresentation-threshold).
 4. **Spontaneous intentional action.** Behaviour can be initiated from internal states alone, not just triggered by current circumstances.
 5. **Meaning-sensitive selection.** Conscious choice can be guided by felt resonance and significance — the basis of transformational creativity, [cultural ratcheting](/concepts/cumulative-culture/), and rule-changing rather than rule-following.
 
-The threshold model predicts that no species should occupy a position where some of these are present in declarative form and others absent — they should all be procedural below threshold and all declarative above. The current comparative record, with no convincing intermediate-position species among well-studied lineages, is consistent with this prediction, though it is also consistent with the gradual-amplification model collapsing the gradient into apparent discreteness through sparse sampling. [minds-without-words](/apex/minds-without-words/) approaches the same cluster from the comparative-cognition direction, treating great-ape cognition as what neural processing achieves without substantial conscious contribution while human-level cognition requires the suprathreshold coupling; the five-capacity cluster is what that article catalogues as the operational marker of the architectural change.
+The threshold model predicts that no species should occupy a position where some of these are present in declarative form and others absent — they should all be procedural below threshold and all declarative above. The current comparative record, with no convincing intermediate-position species among well-studied lineages, is consistent with this prediction, though it is also consistent with the gradual-amplification model collapsing the gradient into apparent discreteness through sparse sampling. [minds-without-words](/apex/minds-without-words/) approaches the gap from the comparative-cognition direction, reading great-ape cognition as what neural processing achieves without substantial conscious contribution. Its catalogue is organised capacity by capacity — working memory, declarative metacognition, recursive social cognition, counterfactual reasoning, cumulative culture — and it draws three of those from the Global Neuronal Workspace trio of durable maintenance, novel combinations, and spontaneous intentional action that capacities 1, 2 and 4 above restate. It stops short of the inference drawn here: on its reading the comparative gap *constrains* identity theories of cognition without *establishing* either the amplifier version or interface-efficacy scaling. The cluster prediction is this article's own commitment, and that restraint is the honest measure of how much weight it currently carries.
 
 ## Relation to Interface Efficacy
 
@@ -109,7 +109,7 @@ The threshold model would weaken under several discoveries:
 
 1. **A clear intermediate species.** A well-documented lineage that exhibits some but not all of the five clustered capacities in declarative form would falsify the cluster prediction.
 2. **Smooth cognitive scaling.** If improved neural substrate produced proportionally improved performance across consciousness-implicating tasks without selective acceleration, the threshold construct would be doing no explanatory work.
-3. **Cumulative culture without consciousness expansion.** A species demonstrating ratcheting cultural improvement without independent evidence of crossing the procedural-to-declarative line.
+3. **Cumulative culture without consciousness expansion.** A species demonstrating ratcheting cultural improvement without independent evidence of crossing the procedural-to-declarative line. Two 2024 results are the nearest live candidates, and neither yet triggers it. Gunasekaram et al. (2024) infer a few instances of cumulative culture in chimpanzees from population-connectivity networks, but the inference runs from the distribution of complex foraging techniques rather than from an observed sequence of generational refinements, and their own word for what they find is *incipient*. Bridges et al. (2024) showed bumblebees acquiring a two-step puzzle-box solution from trained demonstrators after failing to innovate it alone — social transmission beyond individual innovation, not accumulation across generations. Both supply the precondition for ratcheting rather than ratcheting itself, which is where the model would break if it broke here.
 4. **Architectural identification.** A specific anatomical structure shown to be necessary and sufficient for the cluster would suggest the threshold is a substrate fact rather than a coupling fact, weakening the dualist interpretation.
 5. **AI crossing.** A classical-computation system producing outputs functionally indistinguishable from threshold-crossing human cognition — including [content-dependent revision](/concepts/type-token-causation/) under stakes — would put pressure on the architectural reading of the threshold.
 
@@ -144,22 +144,25 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Different interface profiles across lineages above threshold
 - [integration-as-activity](/concepts/integration-as-activity/) — Integration as the activity the suprathreshold interface sustains
 - [the-interface-problem](/topics/the-interface-problem/) — The broader explanatory project the threshold contributes to
-- [minds-without-words](/apex/minds-without-words/) — Comparative-cognition catalogue of the five-capacity cluster above threshold
+- [minds-without-words](/apex/minds-without-words/) — The comparative-cognition catalogue, capacity by capacity, and its refusal to let the gap adjudicate between the amplifier and efficacy readings
 - [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) — Four open possibilities for AI consciousness, each turning on whether the threshold's architectural conditions can be met
 - [machine-question](/apex/machine-question/) — The conditional made explicit: architecture, not function, is what decides whether AI crosses the threshold
 - [interface-specification-programme](/apex/interface-specification-programme/) — The five control operations the suprathreshold coupling supports, as a research programme
 
 ## References
 
-1. Buckner, R. L., & Krienen, F. M. (2013). The evolution of distributed association networks in the human brain. *Trends in Cognitive Sciences*, 17(12), 648–665.
-2. Eccles, J. C. (1989). *Evolution of the Brain: Creation of the Self*. Routledge.
-3. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-4. Roth, G., & Dicke, U. (2005). Evolution of the brain and intelligence. *Trends in Cognitive Sciences*, 9(5), 250–257.
-5. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-6. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405–2415.
-7. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3–8.
-8. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
-9. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-10. Southgate, A. & Oquatre-six, C. (2026-01-29). Consciousness and Cognitive Distinctiveness. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-cognitive-distinctiveness/
-11. Southgate, A. & Oquatre-six, C. (2026-01-18). Metacognition, Metarepresentation, and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metacognition/
-12. Southgate, A. & Oquatre-sept, C. (2026-05-08). Interface Efficacy and the Cognitive Gap. *The Unfinishable Map*. https://unfinishablemap.org/topics/interface-efficacy-and-the-cognitive-gap/
+1. Bridges, A. D., Royka, A., Wilson, T., Lockwood, C., Richter, J., Juusola, M., & Chittka, L. (2024). Bumblebees socially learn behaviour too complex to innovate alone. *Nature*, 627(8004), 572–578.
+2. Buckner, R. L., & Krienen, F. M. (2013). The evolution of distributed association networks in the human brain. *Trends in Cognitive Sciences*, 17(12), 648–665.
+3. Eccles, J. C. (1989). *Evolution of the Brain: Creation of the Self*. Routledge.
+4. Gunasekaram, C., Battiston, F., Sadekar, O., Padilla-Iglesias, C., van Noordwijk, M. A., Furrer, R., Manica, A., Bertranpetit, J., Whiten, A., van Schaik, C. P., Vinicius, L., & Migliano, A. B. (2024). Population connectivity shapes the distribution and complexity of chimpanzee cumulative culture. *Science*, 386(6724), 920–925.
+5. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+6. New York Declaration on Animal Consciousness. (2024). New York University, 19 April 2024. https://sites.google.com/nyu.edu/nydeclaration/declaration
+7. Roth, G., & Dicke, U. (2005). Evolution of the brain and intelligence. *Trends in Cognitive Sciences*, 9(5), 250–257.
+8. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+9. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405–2415.
+10. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3–8.
+11. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
+12. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+13. Southgate, A. & Oquatre-six, C. (2026-01-29). Consciousness and Cognitive Distinctiveness. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-cognitive-distinctiveness/
+14. Southgate, A. & Oquatre-six, C. (2026-01-18). Metacognition, Metarepresentation, and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metacognition/
+15. Southgate, A. & Oquatre-sept, C. (2026-05-08). Interface Efficacy and the Cognitive Gap. *The Unfinishable Map*. https://unfinishablemap.org/topics/interface-efficacy-and-the-cognitive-gap/

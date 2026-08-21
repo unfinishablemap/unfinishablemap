@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T18:50:00+00:00'
+ai_modified: '2026-08-21T20:12:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 20:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-threshold]]
+- **Word count**: 2420 → 2733 (+313; `soft_warning`, 109% of the concepts 2500 soft, 78% of the 3500 hard — growth is entirely defect repair, not a condense target)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Task closed**: the live P2 `deep-review` task on this file (todo.md line 2793); all four of its findings confirmed real and closed.
+- **Changes**:
+  - **(1) False sibling attribution removed.** "The Cluster Prediction" claimed the five-capacity cluster "is what [[apex/minds-without-words]] catalogues as the operational marker of the architectural change". The sibling has no five-capacity construct — grep returns `five-capacity` 0, `chaining` 0, `meaning-sensitive` 0; its five-item device is a five-*tier evidential scale*, a near-miss collision on the word "five". Rewritten to describe what the sibling actually holds (a capacity-by-capacity comparative catalogue drawing three items from the GNW trio) and to import its calibration: on its reading the gap *constrains* identity theories without *establishing* either the amplifier version or interface-efficacy scaling. The cluster prediction is now marked as this article's own commitment. Sibling deliberately **not** edited to match the claim.
+  - **(2) Same false claim in a navigation surface.** The Further Reading gloss carried the identical unsupported attribution. Corpus sweep of obsidian + hugo + archive (excluding dated `reviews/`/`workflow/` records) found exactly 2 live loci, both here, both fixed; both mirrors re-verified at 0 after sync.
+  - **(3) Dangling cite closed.** The New York Declaration on Animal Consciousness (2024), cited inline since creation, had no reference entry. Added and verified at the canonical NYU URL (title exact, 19 April 2024, leads Andrews/Birch/Sebo). The article states no signatory count, so none is wrong.
+  - **(4) Capacity label contradicted its own gloss.** Capacity 2 was titled "Novel chaining of operations" while its gloss described broadcast availability. Retitled "Novel combination of operations" — the corpus-canonical Dehaene/Naccache GNW term used in 8 sibling articles — and the gloss now delivers what the label promises (broadcast is what lets previously module-local operations be composed into novel sequences).
+  - **(5) Falsification Condition 3 priced, not conceded.** The article named "cumulative culture without consciousness expansion" as a falsifier while `concepts/cumulative-culture` held the two best live candidates and this article scored 0 on `Bridges`/`Gunasekaram`/`bumblebee`. Both now named with the reason neither triggers: Gunasekaram et al. 2024 infer from population-connectivity *distribution* rather than an observed sequence of generational refinements (their own word is *incipient*); Bridges et al. 2024 show social acquisition beyond individual innovation, not accumulation across generations. Both supply the precondition for ratcheting rather than ratcheting itself. Kept short so item 3 stays proportionate to the other four conditions.
+  - **(6) Currency + support.** External 2020s references went 1-of-9 → 3-of-12 (plus the 2024 Declaration) in a section `calibration-audit-triple` lists as active research. The unsupported "chimpanzee and human brains are structurally similar" claim now carries inline attribution to Roth & Dicke 2005 and Buckner & Krienen 2013, two entries that had been sitting uncited in the bibliography.
+- **Citation web-verify (§2.4)**: triggered (References block modified since last review). Both newly imported cites verified at the publisher of record **before** use, as the minting task required — Bridges et al. 2024, *Nature* 627(8004), 572–578, DOI 10.1038/s41586-024-07126-4 (White Rose 209019; issue 8004 confirmed against Nature's volume-627 index) — **real-correct**; Gunasekaram et al. 2024, *Science* 386(6724), 920–925, DOI 10.1126/science.adk3381, PubMed 39571020, full 12-author list — **real-correct**; New York Declaration (2024) — **real-correct**. The 2026-08-19 self-citation repoint (ref 11 → `concepts/metacognition`, 2026-01-18) verified **real-correct** against the target's frontmatter, and the three body wikilinks to its `#the-metarepresentation-threshold` anchor confirmed to resolve. The nine pre-existing external refs are byte-identical since the 2026-06-02 publisher-of-record ledger and were carried forward. No superlative claims found. Residue recorded: 4 external entries remain bibliographic-only (Eccles, Hagan, Stapp, Zheng) — background works, not orphans of a dropped claim.
+- **Engagement modes (editor-internal)**: gradual amplification = **Mode Two** (unsupported foundational move — the rival owes an account of why returns accelerate); MWI = **Mode Three** (boundary declared, "the threshold concept loses its referent"); physicalism/eliminativism = **Mode Three** (parity conceded under the Dualism tenet). All unchanged; no boundary-substitution, no label leakage. The new sibling-restraint passage is an internal calibration import, not an opponent engagement.
+- **Calibration**: no possibility/probability slippage. Both substantive changes move the article *down* the confidence scale — the cluster prediction is now owned rather than presented as sibling-corroborated, and the falsification condition carries its live counter-evidence instead of standing unpriced.
+- **Stability note**: two of the four critical fixes had survived all three prior deep reviews (2026-05-11, 2026-06-02, 2026-07-14), each of which verified metadata and checked cross-link *resolution* and *reciprocity* and found nothing. None opened the sibling to check that its content matched the claim made about it. Cross-link resolution is not cross-link accuracy — grep the sibling for the construct you claim it holds.
+- **Output**: [[reviews/deep-review-2026-08-21-interface-threshold]]
 
 ## 2026-08-21 18:50 UTC - refine-draft
 - **Status**: Success
