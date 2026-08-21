@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-08-03 06:29:08+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-21 00:11:48+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[haecceity]]'
 - '[[evidential-status-discipline]]'
 - '[[parfit-reductionism]]'
 created: 2026-06-20
-date: &id001 2026-08-03
+date: &id001 2026-08-21
 description: 'The Map''s positions on how subjects are individuated: closed individualism,
   the subject census the interface requires, the pairing law the Map owes, and Tenet
   4''s conditional dependency on all of it.'
 draft: false
 human_modified: null
 last_curated: 2026-06-20
-lastmod: 2026-08-03 06:29:08+00:00
+lastmod: 2026-08-21 00:11:48+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -26,6 +26,7 @@ related_articles:
 - '[[apex/mereology-of-mind]]'
 - '[[apex/interface-specification-programme]]'
 - '[[apex/identity-across-transformations]]'
+- '[[apex/one-world-wager]]'
 title: Individuation and Subjecthood Positions
 topics:
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
@@ -42,6 +43,8 @@ These positions cover how the Map individuates subjects: how many there are, whe
 **The foundational-dependency test (adopted 2026-08-03).** An outer-review convergence (ChatGPT 5.6 Pro §1.3 and Claude Opus 5, 2026-08-03) found the register asserting two things that cannot both stand: that ordinary positions are retireable without disturbing the tenets, and that Tenet 4's principal argument presupposes a non-deflationary fact about which subject is *this* one. The domain adopts the reviewer's instrument as the register's own rule — **a position counts as retireable only if removing it leaves every tenet with an intact rationale** — and applies it. **P-I1 fails**: retiring it for a deflationary subject leaves Tenet 4's indexical objection with nothing to discriminate among. **[P-SC3](/positions/subject-census/) fails on its persistence half**, since the objection concerns which *future* subject is genuinely me. **P-I3, P-I4, [P-SC1](/positions/subject-census/) and [P-SC2](/positions/subject-census/) pass.** **P-I2 passes formally** — retiring the *disclosure* of a dependency damages no tenet's rationale — but retiring it would re-hide the inversion, which is the point of holding it. The test governs a tenet's *rationale*, not its truth: a tenet is a chosen starting point and survives the loss of its argument as a bare posit, and what the test detects is a register quietly supplying that argument while describing itself as downstream. It also reclassifies [P-A2](/positions/agency-and-will/) next door, whose "Bears on" note records the dependency without drawing the retireability consequence; the anti-epiphenomenalism entries carrying Tenet 3's principal argument are the obvious further candidates, and a register-wide sweep is queued rather than asserted here. *Recommendation left to the operator, not taken: promoting a determinate-subjecthood principle into the foundations is arguably the cleaner fix, since it would make the dependency intra-foundational rather than inverted — but that is a tenets-page change. The work below takes the option available from inside the register.*
 
 **Expansion and split (2026-08-03).** The same review found the domain holding a single principal position while Tenet 4, the AI-copy verdicts and the interface model all leaned on a determinate account of subjects. Three positions were added here — P-I2 (the Tenet 4 conditional), P-I3 (boundaries determinate but unreadable), P-I4 (fission, fusion and copies). Three more went to the new companion domain [Subject census](/positions/subject-census/), split off because they inherit the *quantum-interface* register this file does not: P-SC1 (the census as part of the interface's state description), P-SC2 (the pairing law the Map owes), P-SC3 (persistence and the undated channel).
+
+**Addition (2026-08-21).** A fifth entry, P-I5, registers the variant-relative reach of the anti-many-worlds case — strongest against branch-egalitarian Everettianism, supplementary against first-personally centred variants — drawn whole from [one-world-wager](/apex/one-world-wager/). It is the horizontal companion to P-I2's vertical conditional: P-I2 records what the indexical objection *presupposes*, P-I5 how far it *reaches*.
 
 **Calibration schema (2026-07-16).** Every entry carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema) in place of the retired single confidence band. The migration matters most in this domain: closed individualism is a **framework-internal** claim of *high structural centrality* (tied to Tenet 4's indexical objection) with *no discriminating external evidence* (Grade D) — felt this-ness reads equally well as primitive thisness or as perspectival illusion — which is exactly the centrality-versus-credence split the single band hid.
 
@@ -87,3 +90,13 @@ These positions cover how the Map individuates subjects: how many there are, whe
 - **Argued in**: [personal-identity](/topics/personal-identity/), [identity-across-transformations](/apex/identity-across-transformations/), [parfit-reductionism](/concepts/parfit-reductionism/), [quantum-immortality-and-the-quantum-suicide-survival-argument](/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/)
 - **Would shift if**: a reductionist account of persistence were vindicated, on which no fact settles which successor is the original and none is needed, which would retire this together with P-I1; or an account were produced on which a perspective *can* divide without ceasing, which would break the fission/branching asymmetry and remove the Map's principled reason for treating the two cases differently; or the fusion case were worked out in a way that forced a general merging rule the fission verdict cannot accommodate.
 - **Last reviewed**: 2026-08-03
+
+## P-I5: The anti-many-worlds case is variant-relative — strongest against branch-egalitarian Everettianism, supplementary against first-personally centred variants
+
+- **Status**: live
+- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade n/a (a meta-position mapping the reach of the Map's own arguments, not a first-order world-claim) · structural centrality moderate (it calibrates how far Tenet 4's advertised support extends; the architectural inversion is P-I2's) · model maturity developed · empirical discriminability n/a (meta) · framework-internal only: yes
+- **Asserts**: The Map holds that its three anti-many-worlds arguments — indexical, probability, consciousness — are variant-relative in reach. They are strongest against *branch-egalitarian* Everettianism, where no successor carries first-person privilege: the target the indexical argument was built against. Even there the verdict is a framework boundary, not an in-framework refutation — Wallace can consistently rule the global indexical question ill-formed, and the Map does not claim to show branch-relative identity false on the Everettian's own resources. Against *first-personally centred* variants — List's centred-worlds ontology, which takes the vertiginous question seriously and gives each subject an equally real centred world — the three arguments are supplementary only, because the first-person privilege the indexical argument demands is built into the ontology. There the weight falls on a separate commitment: the rejection of the modal realism on which every subject's centred world is a real world. That rejection sits at the same level as List's realism about centred worlds; neither reduces to the other, and neither framework can adjudicate the dispute from inside. A corollary fixes what the tenet demands rather than how the demand is met: Tenet 4 requires *global single-outcome actuality*, which collapse supplies but does not monopolise — Griffiths's consistent histories realises exactly one history with no collapse process — so the Map's preference for a consciousness-involving mechanism among the single-world options is driven by Tenets 2 and 3, not by Tenet 4 itself.
+- **Depends on**: Tenet 4 ([No Many Worlds](/tenets/#no-many-worlds)) — the commitment whose reach is mapped, and the source of the global-uniqueness insistence that carries the case against centred variants; P-I2 (companion meta-position: what the indexical objection presupposes there, how far it reaches here); Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) — the extravagance consideration is bound to a registered cost, so no second independent leg substitutes against either variant; Tenets 2 and 3 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), [Bidirectional Interaction](/tenets/#bidirectional-interaction)) as what drives the mechanism preference the corollary separates from the tenet's demand
+- **Argued in**: [one-world-wager](/apex/one-world-wager/) (the registration stated whole), [many-worlds-argument](/arguments/many-worlds-argument/), [vertiginous-question](/topics/vertiginous-question/) (the List double edge), [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) (single-outcome actuality without collapse)
+- **Would shift if**: the indexical argument were extended to reach the centred variants on their own terms — the centred-worlds ontology shown incoherent, or shown to collapse into branch-egalitarianism — which would replace variant-relativity with uniform strength; or the rejection of modal realism acquired independent argumentative support rather than standing as a same-level framework commitment, which would let the case against centred variants be pressed as more than supplementary; or the branch-relative identity programme answered the centred-subject presupposition charge from inside, which would weaken even the branch-egalitarian reach and cascade into P-I2, whose conditional would then qualify a weaker argument than the one registered.
+- **Last reviewed**: 2026-08-21

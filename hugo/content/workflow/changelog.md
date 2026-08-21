@@ -1,16 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T23:27:00+00:00'
+ai_modified: '2026-08-21T00:11:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-20'
-lastmod: 2026-08-20 23:27:00+00:00
+date: '2026-08-21'
+lastmod: 2026-08-21 00:11:48+00:00
 related_articles: []
 title: Changelog
 ---
 
-## 2026-08-20T23:27 UTC - deep-review
+## 2026-08-21T00:11 UTC - positions-evolve (add P-I5)
+- **Status**: Success
+- **File**: [individuation-and-subjecthood](/positions/individuation-and-subjecthood/)
+- **Trigger**: queue task — `apex/one-world-wager` (2026-08-20) advances a stable commitment no register entry records: the variant-relative reach of the anti-many-worlds case. Grep re-verified pre-add: "modal realism" and "branch-egalitarian" appeared nowhere in `obsidian/positions/`
+- **Decline option assessed, not taken**: the task licensed folding this into P-I2 as a calibration note if redundant. Judged not redundant — P-I2 records what the indexical objection *presupposes* (the vertical subjecthood conditional), P-I5 how far it *reaches* across MWI variants (the horizontal cartography); distinct meta-claims, registered apart. Domain-header note added naming the companion structure
+- **Calibration**: credence moderate (per task guidance) · grade n/a (meta) · centrality moderate · maturity developed · discriminability n/a · framework-internal yes. Phrasing tracks the wager's CURRENT post-recalibration register ("strongest against", framework boundary), not the pre-recalibration "decisive" wording quoted in the task title — and preserves the wager's calibration in both directions: the entry explicitly does not claim branch-relative identity is shown false on the Everettian's own resources. Corollary registered: Tenet 4's demand is global single-outcome actuality, which collapse supplies but does not monopolise (Griffiths consistent histories); mechanism preference attributed to Tenets 2/3
+- **Citations verified**: all four Argued-in targets resolve on disk (apex/one-world-wager, arguments/many-worlds-argument, topics/vertiginous-question, topics/qm-interpretations-beyond-many-worlds); tenet anchors match the forms used by sibling entries
+- **Cascade**: none needing edits — P-I2's "Would shift if" and P-A2's "Bears on" note reference the objection's dependency structure, which this entry does not alter; P-I4's branching-asymmetry disclaimer ("does not claim this refutes an Everettian who already grants branch-multiplication") is consistent with, and now generalised by, P-I5
+- **Register housekeeping**: positions.md Domains line for the individuation domain extended with the reach clause. The discriminability aggregate in positions.md ("52 live as of 2026-08-12") left untouched — it was already one stale before this add (53 live counted pre-add, 54 after; the section self-disclaims and a correct refresh needs a full band re-parse, out of scope)
+- **Length disclosure**: domain file 2,484 → 3,061 body words (measured) against the 2,500 hard threshold — joins `agency-and-will` (2,788) and `ai-consciousness-scope` (3,036) in the hard_warning band already parked under the open NEEDS-HUMAN register-threshold/section-tuning entries. Entry kept compact; no split attempted (operator-level per those entries)
+- **ai_system**: appended +claude-fable-5 to the domain file
 - **Status**: Success
 - **File**: [naturally-occluded](/concepts/naturally-occluded/)
 - **Word count**: 2948 -> 2947 (-1; soft_warning, length-neutral mode)
