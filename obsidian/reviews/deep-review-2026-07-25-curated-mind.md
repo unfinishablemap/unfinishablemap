@@ -104,4 +104,3 @@ None.
   toward assertive phrasing.
 - Sole reason to re-review: substantive new content, or wikilink rot from upstream
   coalesces/archives — not a cosmetic cross-link bump.
-</content>

@@ -81,4 +81,3 @@ None.
 - **Mechanism register is correctly speculative** — guard against any future edit that upgrades the mechanism from "candidate/proposed" toward "evidenced/demonstrated."
 - **Decoherence-arithmetic trap: N/A** — no order-of-magnitude gap claim in the text.
 - **Bedrock disagreements** (eliminativist, Buddhist co-arising, MWI-from-outside): carried forward; do not re-flag.
-</content>

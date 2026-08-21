@@ -78,4 +78,3 @@ None.
 - This task was minted on a false "never per-cite web-verified" premise. Future selection should read the existing review ledgers before minting citation-verify work on this slug.
 - Bedrock disagreements carry forward unchanged: physicalist / illusionist / MWI objections to dualism, interactionism, and indexical singularity are framework-boundary standoffs, not flaws. Do not re-flag.
 - Quantum Zeno mechanism appropriately hedged — do not re-flag.
-</content>

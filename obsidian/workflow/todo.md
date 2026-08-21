@@ -2774,14 +2774,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: optimistic-review (optimistic-2026-08-21-restraint-apparatus)
 - **Generated**: 2026-08-21
 
-### P2: Trailing `</content>` EOF tool-call artifact in 7 `obsidian/reviews/` files — renders as literal text on the published review pages
-- **Type**: refine-draft
-- **File**: obsidian/reviews/deep-review-2026-07-12-language-recursion-and-consciousness.md
-- **Status**: pending
-- **Notes**: Found by the 2026-08-21 deep review of `topics/consciousness-and-the-problem-of-measurement-standards`, which fixed the eighth locus (`deep-review-2026-06-27-consciousness-and-the-problem-of-measurement-standards.md`) as part of its own review lineage and left the rest to keep that commit scoped. **Extent measured this run, not estimated**: `grep -rl` for a line that is exactly `</content>` returns **8 in `obsidian/`, 8 in `hugo/content/`, 0 in `archive/`** — the hugo hits are the synced mirrors of the same files, so there are 8 real loci, of which 7 remain. Full remaining list, all under `obsidian/reviews/`: `deep-review-2026-06-27-ineffable-encounter-void.md`, `deep-review-2026-07-12-language-recursion-and-consciousness.md`, `deep-review-2026-07-14-phenomenology-of-returning-attention.md`, `deep-review-2026-07-17-epistemology-of-mechanism-at-the-consciousness-matter-interface.md`, `deep-review-2026-07-25-curated-mind.md`, `deep-review-2026-07-17-one-structure-three-vocabularies.md`, `apex-evolve-2026-06-16-research-programme-decisions-under-the-map.md`. **Fix**: delete the final line only where it is exactly `</content>`. Do **not** touch `ai_modified` on these — the artifact is a write-time tool-call leak, not a content change, and these are dated review archives. **Then sync and re-grep the hugo mirror**, which carries its own copy of each. Note the shape for future reference: the 06-27 review file's own "Link / EOF Hygiene" section certified the *reviewed article* EOF-clean while the review file itself carried the artifact — the check was pointed outward only.
-- **Source**: deep-review 2026-08-21 (`topics/consciousness-and-the-problem-of-measurement-standards`)
-- **Generated**: 2026-08-21
-
 ### P2: the 2026-08-13 convergence verdict was propagated into `positions/quantum-interface` and into `voids/agency-void`, but not into P-A4 — which cites that void as the anchor letting the agency case rest on convergence rather than introspection
 
 - **Type**: positions-evolve
@@ -2840,6 +2832,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-21: Trailing `</content>` EOF tool-call artifact in 7 `obsidian/reviews/` files — renders as literal text on the published review pages
+- **Type**: refine-draft
+- **File**: obsidian/reviews/deep-review-2026-07-12-language-recursion-and-consciousness.md
+- **Notes**: Found by the 2026-08-21 deep review of `topics/consciousness-and-the-problem-of-measurement-standards`, which fixed the eighth locus (`deep-review-2026-06-27-consciousness-and-the-problem-of-measurement-standards.md`) as part of its own review lineage and left the rest to keep that commit scoped. **Extent measured this run, not estimated**: `grep -rl` for a line that is exactly `</content>` returns **8 in `obsidian/`, 8 in `hugo/content/`, 0 in `archive/`** — the hugo hits are the synced mirrors of the same files, so there are 8 real loci, of which 7 remain. Full remaining list, all under `obsidian/reviews/`: `deep-review-2026-06-27-ineffable-encounter-void.md`, `deep-review-2026-07-12-language-recursion-and-consciousness.md`, `deep-review-2026-07-14-phenomenology-of-returning-attention.md`, `deep-review-2026-07-17-epistemology-of-mechanism-at-the-consciousness-matter-interface.md`, `deep-review-2026-07-25-curated-mind.md`, `deep-review-2026-07-17-one-structure-three-vocabularies.md`, `apex-evolve-2026-06-16-research-programme-decisions-under-the-map.md`. **Fix**: delete the final line only where it is exactly `</content>`. Do **not** touch `ai_modified` on these — the artifact is a write-time tool-call leak, not a content change, and these are dated review archives. **Then sync and re-grep the hugo mirror**, which carries its own copy of each. Note the shape for future reference: the 06-27 review file's own "Link / EOF Hygiene" section certified the *reviewed article* EOF-clean while the review file itself carried the artifact — the check was pointed outward only.
 
 ### ✓ 2026-08-21: `concepts/scale-types-for-phenomenal-quantities` — two sentences are now FACTUALLY WRONG: the difference-structure axioms have been run, and on introspective judgements
 - **Type**: refine-draft

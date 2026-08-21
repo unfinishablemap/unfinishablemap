@@ -133,4 +133,3 @@ None.
   and dualism, and concedes as much). Do NOT re-flag as critical.
 - The article is itself a model of the possibility/probability-slippage
   discipline. Do not "strengthen" the convergence into a confirmation claim.
-</content>

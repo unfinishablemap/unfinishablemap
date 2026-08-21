@@ -93,4 +93,3 @@ None.
 - **Calibration is honest and load-bearing.** The article keeps the ineffable-encounter void as a structural-limit claim and does not upgrade tenet-coherence into evidence of transcendent veridicality. Do NOT "strengthen" the evidential framing of the convergence or stalemate sections — the modal/hedged phrasing is intentional.
 - **Carry-forward bedrock notes still apply:** heterophenomenology deferred to the presence-type concept article (do not add a dedicated heterophenomenology section here); the two-register structure must not be unpacked back into separate articles; presence-type framing in paragraph 2 is load-bearing and must not be compressed.
 - **Length at 119% soft warning, below hard threshold.** Any future expansion must be length-neutral; The Apophatic Response and The Evidential Stalemate remain the condensation candidates if a future review needs room. No condensation warranted now.
-</content>

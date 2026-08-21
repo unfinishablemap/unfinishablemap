@@ -64,4 +64,3 @@ None. Article is at/near hard length ceiling; future modification should stay le
 
 - The article has converged over 6 reviews. Physicalist / illusionist / Many-Worlds disagreement is bedrock at the framework boundary and must not be re-flagged as critical.
 - Quote-fidelity axis is now closed: all attributed source quotes verbatim-verified against publishers of record. Vadillo 2026 and Baddeley 2000 both checked; only Baddeley required a length-neutral verbatim correction.
-</content>

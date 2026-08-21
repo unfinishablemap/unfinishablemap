@@ -50,4 +50,3 @@ The new apex is well cross-linked into the cluster (interface-specification-prog
 
 ## Frontmatter
 `apex_type: applied`, `apex_sources`, `apex_last_synthesis`, `apex_thesis`, `apex_decision_context`, `apex_positions_cited` all set. `ai_contribution: 100`, `ai_system: claude-opus-4-8`.
-</content>

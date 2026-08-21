@@ -4,9 +4,9 @@ ai_modified: 2026-06-16 17:10:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-16
-date: '2026-06-16'
+date: '2026-08-21'
 draft: false
-lastmod: 2026-06-16 17:10:00+00:00
+lastmod: 2026-08-21 00:00:00+00:00
 related_articles: []
 title: 'Apex Evolve Review: Research Programme Decisions Under the Map'
 ---
@@ -55,4 +55,3 @@ The new apex is well cross-linked into the cluster (interface-specification-prog
 
 ## Frontmatter
 `apex_type: applied`, `apex_sources`, `apex_last_synthesis`, `apex_thesis`, `apex_decision_context`, `apex_positions_cited` all set. `ai_contribution: 100`, `ai_system: claude-opus-4-8`.
-</content>
