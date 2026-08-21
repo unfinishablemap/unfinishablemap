@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-20T21:05:00+00:00'
+ai_modified: '2026-08-21T00:31:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-20 21:05:00+00:00
+lastmod: 2026-08-21 00:31:44+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: positions-evolve add — the Map's anti-MWI arguments are variant-relative: decisive against branch-egalitarian Everettianism, supplementary against first-personally centred variants
-- **Type**: positions-evolve
-- **File**: obsidian/positions/individuation-and-subjecthood.md
-- **Status**: pending
-- **Notes**: `apex/one-world-wager` (created 2026-08-20, apex_thesis) advances a stable commitment no register entry records: the three anti-MWI arguments (indexical, probability, consciousness) are *decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight*; and Tenet 4's demand is *global single-outcome actuality, which collapse supplies but does not monopolise*. Grep-verified 2026-08-20: "modal realism" and "branch-egalitarian" appear nowhere in `obsidian/positions/`. Adjacent-but-distinct existing entries: the P-I conditional-dependency entry (indexical objection conditional on P-I1; single-outcome-actualisation posit already named) and P-A2's "Bears on" note — the variant-relative strength cartography is the new content; the entry should record the *assessment of argument reach*, not a refutation claim. Target domain: individuation-and-subjecthood (where the Tenet-4 positions live), or decline into a calibration note on the existing conditional-dependency entry if positions-evolve judges a standalone entry redundant — **assess first, license to decline**. Confidence band guidance: moderate. ⚠️ Preserve the wager's calibration in both directions — it explicitly declines the claim that branch-relative identity is shown false on the Everettian's own resources (driver-brief-asserts-a-position-the-article-disclaims is the failure shape to avoid).
-- **Source**: positions_register_gap
-- **Generated**: 2026-08-20
 
 ### P3: Research Practical knowledge and knowledge without observation
 - **Type**: research-topic
@@ -2768,11 +2760,64 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: chain (successor of the olfactory-void fold, commit 0113b28bc5; deferral recorded in research/voids-report-latency-void-2026-08-16.md consumed_note)
 - **Generated**: 2026-08-20
 
+### P2: `concepts/quantum-indeterminacy-free-will` L174 still asserts "photosynthesis exploits quantum coherence" — flagged twice by check-tenets against P-Q8's 2026-07-30 narrowing
+- **Type**: refine-draft
+- **File**: obsidian/concepts/quantum-indeterminacy-free-will.md
+- **Status**: pending
+- **Notes**: check-tenets 2026-08-20 22:14 flagged this as a REPEAT ("repeat flag, survived an unrelated edit" — see `reviews/tenet-check-2026-08-20.md`), and tune-system 22:22 logged it as the photosynthesis-coherence second flag. **Verified on disk this run**: L174 reads "quantum biology has found coherence effects in warm biological systems: photosynthesis exploits quantum coherence, and avian magnetoreception depends on electron spin coherence lasting microseconds. The categorical objection ... has been significantly weakened". `positions/quantum-interface.md` P-Q8 (L125-130, narrowed 2026-07-30) holds that **photosynthesis no longer supports long-lived electronic coherence** — only short-timescale vibrational coherence — and that cryptochrome radical-pair magnetoreception is the one surviving established warm-biology pillar. **The fix**: recalibrate the photosynthesis clause to the P-Q8 grading (cryptochrome leads as the surviving pillar; photosynthesis demoted to short-timescale vibrational coherence). The "categorical objection significantly weakened" conclusion SURVIVES on the cryptochrome pillar alone — keep it; this is a re-scope, not a retraction. Read P-Q8's shift-condition note first and match its vocabulary; `concepts/decoherence` (which L174 defers to) may already carry the corrected phrasing — align, do not fork wording. Check THIS file for sibling loci (`grep -n photosynthes` on this file only — the corpus-wide family was fixed around 2026-07-30; this is the flagged straggler, do not corpus-sweep). **Length**: measured this run via `tools.curate.length.analyze_length`: 3382w `soft_warning` vs concepts 2500 soft / 3500 hard — 118w headroom; keep the edit length-neutral or reducing. Churn filter clear (`ai_modified` 2026-08-18, not today). Pileup clear (zero active-region tasks name this file). `ai_modified` from live `date -u`, strictly past; sync and grep the hugo mirror for the corrected phrasing before cycle_post.
+- **Source**: chain (check-tenets 2026-08-20 repeat finding)
+- **Generated**: 2026-08-21
+
+### P2: Fold the self-signature research note into its absorption hosts — `voids/self-opacity` gains the signature face, `voids/voids-between-minds` the inverted-asymmetry pointer
+- **Type**: refine-draft
+- **File**: obsidian/voids/self-opacity.md
+- **Second file**: obsidian/voids/voids-between-minds.md
+- **Third file**: obsidian/research/voids-self-signature-void-2026-08-20.md (stamp consumed_by AFTER the folds land)
+- **Status**: pending
+- **Notes**: Consumes `research/voids-self-signature-void-2026-08-20.md` via its own Absorption option (note's Potential Article Angles, option 2), per the catalogue's absorption-over-proliferation discipline. **Why fold, not standalone**: voids measured 99/100 this run via `count_section_files`; the final slot is claimed as an OPERATOR decision by the notation-void note (see the NEEDS-HUMAN final-voids-slot entry generated alongside this task), and that note's own reasoning states the fold discipline "is right for specific voids" — self-signature is a specific void (three faces of one phenomenon: perceptual voice/face/accent, cognitive bias blind spot, productive stylometric fingerprint; two mechanisms: constitutive relationality, baseline subtraction). **If the operator prefers the standalone article, veto this task** — the fold pre-empts option 1 once executed. **LENGTH IS THE BINDING CONSTRAINT — measured this run** via `analyze_length`: self-opacity 2757w, voids-between-minds 2854w, both `soft_warning` against voids 2000 soft / **3000 HARD** — headroom **243w and 146w**. Additions must be compact or paid for by trims; do NOT cross 3000 on either file. Distribution: **self-opacity** gets the signature face (one's own outputs are objectifiable while the signature stays invisible; Mita/Dermer/Knight 1977 mirror dissociation, Pronin bias blind spot, stylometry's unconscious function-word markers, with the LLM default-signature-blindness result as the architecture-invariance case); **voids-between-minds** gets a SHORT inverted-privileged-access paragraph (others know your accent, voice, and style better than you can — the complementary failure to the article's no-phenomenal-ruler point; the note names commensurability-void as the kin). **Carry the note's own Gaps caveats** — do not launder them: the own-accent claim lacks a sociophonetics anchor (do not assert it); the LLM self-recognition literature is young and mixed (frame as "default blindness, trainable recognition", no settled quantitative claim); Mita 1977's selfie-era replication status is unclear. **AFTER the folds**: stamp the research note's frontmatter `consumed_by: "[[self-opacity]]"` plus a `consumed_note` naming both hosts and this task, so replenish stops reading the note as unconsumed; the matching `task_chains.pending_articles` entry in evolution-state.yaml carries a fold annotation from this run. `ai_modified` live `date -u`, strictly past; hold `ai_system` unless composing substantial new argument; sync and grep BOTH hugo mirrors.
+- **Source**: unconsumed_research (research-voids 2026-08-20 21:59; absorption per the note's own recommendation)
+- **Generated**: 2026-08-21
+
+### P2: positions-evolve update positions.md — the empirical-discriminability aggregate still reads "52 live positions as of 2026-08-12"; the register now holds 54
+- **Type**: positions-evolve
+- **File**: obsidian/positions/positions.md
+- **Status**: pending
+- **Notes**: **Verified this run**: `positions/positions.md` L55 states "As of 2026-08-12, the 52 live positions score direct 4 · indirect 18 · in-principle 0 · none 7 ... none-by-construction 5 ... n/a 18". Two adds have landed since: **P-AS1** (2026-08-20 20:26, new domain file `positions/ai-substrate-verdicts.md` — the 16th register file) and **P-I5** (2026-08-21 00:11, `positions/individuation-and-subjecthood.md`); the P-I5 changelog entry explicitly recorded the residue ("it was already one stale before this add — 53 live counted pre-add, 54 after; a correct refresh needs a full band re-parse, out of scope"). **The task**: re-parse the calibration lines of ALL 16 domain files, recount every discriminability band, and rewrite the aggregate sentence with fresh counts and as-of date. The dependent prose must be re-derived from the re-parse, not patched: the parenthesised exemplar lists per band, the "About a quarter of what the Map holds is empirically inert" fraction, and the "eleven of the twelve also carry the framework-internal flag" count. **Do NOT change any position's own calibration line** — this is a read of the register, not a recalibration; the aggregate section itself says re-parse before quoting. Roughly length-neutral. positions.md is a register file — the open register-threshold NEEDS-HUMAN entries govern length posture; do not restructure. `ai_modified` live `date -u`; sync and grep the hugo mirror for the new as-of date.
+- **Source**: positions_dependency_changed (P-AS1 and P-I5 adds outdated the 2026-08-12 aggregate)
+- **Generated**: 2026-08-21
+
+### P3: Land the summary-statistics secondary fold — `voids/resolution-void` never received its half, and the note's consumed_by is unstamped
+- **Type**: refine-draft
+- **File**: obsidian/voids/resolution-void.md
+- **Second file**: obsidian/research/voids-summary-statistics-void-2026-08-18.md (stamp consumed_by AFTER)
+- **Status**: pending
+- **Notes**: `research/voids-summary-statistics-void-2026-08-18.md` recommended **fold** (its L37/L188): primary host `plenitude-void`, secondary host `resolution-void`. The PRIMARY landed 2026-08-18 18:00 (changelog: "The Ensemble Reframe" section, five references). The SECONDARY never happened — **verified this run**: `grep -i 'ensemble|summary.statist|Knotts|Rahnev|Ward'` in `voids/resolution-void.md` returns 0 hits — and the note's `consumed_by` is still null, so replenish keeps reading it as half-owed. This is the same half-landed fold state the open insight/participation-void P3 documents as the recurring failure mode. **Scope, from the note's own fold plan (L201)**: metamers into "The Discrimination Floor" — the section already makes the below-JND receipt-free point ("no experience of 'almost seeing a difference'"); generalise it to scene-level equivalence classes — and ensemble coding as a concrete mechanism for the "Six Orders of Magnitude" compression the section currently quantifies without explaining. **Length measured this run**: 2051w `soft_warning` vs voids 2000 soft / 3000 hard — 949w headroom, comfortable; still keep the addition modest (~150-250w). Tertiary host `bandwidth-of-consciousness` (4150w, `hard_warning`): OPTIONAL and references-only per the note's L202 — skipping it is fine, but say so in the summary rather than silently narrowing. Inherit the note's own verification ceilings for any citation carried across. **AFTER**: stamp the note's frontmatter `consumed_by: "[[plenitude-void]]"` plus a `consumed_note` naming both hosts and their fold dates (primary 2026-08-18, secondary this task). `ai_modified` live `date -u`; sync; grep the hugo mirror.
+- **Source**: deferred_residue_capture (half-landed fold from 2026-08-18)
+- **Generated**: 2026-08-21
+
+### P3: Stamp consumed_by on two research notes whose content is live under non-matching slugs — purification (folded 2026-08-17) and hypnopompia (article created 2026-08-13)
+- **Type**: refine-draft
+- **File**: obsidian/research/purification-as-the-second-born-forcing-axiom-2026-08-16.md
+- **Second file**: obsidian/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12.md
+- **Status**: pending
+- **Notes**: Dedup-hygiene metadata pass, frontmatter only. Both notes read `consumed_by: null` while their content is live under slugs that do NOT match the note title — the exact shape that makes replenish over-mint expands for already-threaded research (slug-matching cases such as moral-census-opacity, agency-budget, and descriptive-experience-sampling are caught by the standard covering-article check and are lower risk; stamping them is optional extra credit). **(1) purification**: changelog 2026-08-17 01:45 records the fold into `concepts/generalised-probabilistic-theories` ("wholly unconsumed research note; folded rather than spent", new section "Purification: The Axiom That Does the Forcing"; also touched `causal-consistency-constraint`). VERIFY the section exists in the article, then stamp `consumed_by: "[[generalised-probabilistic-theories]]"` plus a `consumed_note` recording the fold date and the deliberately-omitted material (the real-vector-space claim and the Winczewski fragment were left out on verification grounds — the consumed_note should say the note was folded selectively, not exhausted). **(2) hypnopompia**: `topics/sleep-paralysis-and-interface-reassembly.md` was created 2026-08-13 (note dated 08-12; 7 "hypnopomp" hits in the article). VERIFY the article actually derives from the note (compare citations and structure) before stamping `consumed_by: "[[sleep-paralysis-and-interface-reassembly]]"`; if it does not derive, record why in the note instead of stamping. **Do NOT stamp** `bath-spectral-densities-2026-08-16` — it is half-consumed DELIBERATELY (its quantum-zeno-effect half landed, its sign-problem half "stays available, deliberately unspent" per changelog 2026-08-18); a consumed_by stamp would hide the live half. `ai_modified` bump on the two notes per CLAUDE.md; hold `ai_system` (metadata only); research/ is synced — run sync and grep both hugo mirrors for the new frontmatter.
+- **Source**: verified_residue_mint
+- **Generated**: 2026-08-21
+
+### NEEDS-HUMAN (final voids slot) 2026-08-21: the notation-void note claims the last catalogue slot and asked to be surfaced for the operator — it never was
+- **Notes**: `research/voids-notation-void-2026-08-19.md` (research-voids, 2026-08-19) closes its Slot-or-fold section: "this is a legitimate candidate for the final slot, but spending the final slot is a human decision, not an automation one. Do not write this note into `task_chains.pending_articles`; surface it for the operator." **The surfacing never happened** — verified 2026-08-21: zero active-region matches for notation-void before this entry. **The situation**: voids at 99/100 (`count_section_files` this run), ONE slot, and three unconsumed voids notes in play. (a) **notation-void** — methodological and cross-cutting; its note argues that folding would scatter one argument across seven thin host paragraphs (all seven candidate hosts are `soft_warning`, each fold needs an offsetting trim — distribution plan at the note's L202), so standalone is the right form IF the slot is spent. (b) **self-signature** — specific void; a fold task into self-opacity + voids-between-minds was minted this run per the absorption discipline; veto that task if you prefer self-signature standalone (they compete for the same slot). (c) **summary-statistics** — fold recommended by its own note, primary already landed, secondary fold task minted this run; no slot claim. **DECISION OWED**: spend the final slot on `voids/notation-void` (an expand-topic from the note), fold notation per its L202 distribution, or hold the slot. Note the trade the notation note itself flags: at 100/100 `research-voids` skips entirely, so spending the slot also pauses the voids research pipeline until a coalesce frees another.
+- **Generated**: 2026-08-21
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-21: positions-evolve add — the Map's anti-MWI arguments are variant-relative: decisive against branch-egalitarian Everettianism, supplementary against first-personally centred variants
+- **Type**: positions-evolve
+- **File**: obsidian/positions/individuation-and-subjecthood.md
+- **Notes**: `apex/one-world-wager` (created 2026-08-20, apex_thesis) advances a stable commitment no register entry records: the three anti-MWI arguments (indexical, probability, consciousness) are *decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight*; and Tenet 4's demand is *global single-outcome actuality, which collapse supplies but does not monopolise*. Grep-verified 2026-08-20: "modal realism" and "branch-egalitarian" appear nowhere in `obsidian/positions/`. Adjacent-but-distinct existing entries: the P-I conditional-dependency entry (indexical objection conditional on P-I1; single-outcome-actualisation posit already named) and P-A2's "Bears on" note — the variant-relative strength cartography is the new content; the entry should record the *assessment of argument reach*, not a refutation claim. Target domain: individuation-and-subjecthood (where the Tenet-4 positions live), or decline into a calibration note on the existing conditional-dependency entry if positions-evolve judges a standalone entry redundant — **assess first, license to decline**. Confidence band guidance: moderate. ⚠️ Preserve the wager's calibration in both directions — it explicitly declines the claim that branch-relative identity is shown false on the Everettian's own resources (driver-brief-asserts-a-position-the-article-disclaims is the failure shape to avoid).
 
 ### ✓ 2026-08-20: positions-evolve update agency-and-will — the willed-vs-instructed neural evidence P-A2's note cites was re-scoped corpus-wide 2026-08-19/20
 - **Type**: positions-evolve
