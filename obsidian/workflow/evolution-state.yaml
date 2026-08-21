@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T15:54:47.448470+00:00'
-session_count: 19378
-cycle_position: 12842
+last_updated: '2026-08-21T16:50:21.978804+00:00'
+session_count: 19379
+cycle_position: 12843
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T15:54:47.448470+00:00'
+  agentic-social: '2026-08-21T16:54:43.609398+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T15:07:32.836810+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-08-21T06:30:56.385447+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-21T15:46:33.891014+00:00'
+  deep-review: '2026-08-21T16:50:21.978804+00:00'
   embed-videos: '2026-08-21T14:37:27.242648+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-21T13:07:38.599256+00:00'
@@ -42,7 +38,7 @@ last_runs:
   tune-system: '2026-08-20T22:24:08.026503+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-21T12:16:27.542212+00:00'
+last_git_push: '2026-08-21T16:50:22.443772+00:00'
 last_tweet_date: '2026-08-21'
 content_stats:
   total_files: 297
@@ -107,7 +103,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 553
-  reviews_completed: 7277
+  reviews_completed: 7278
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-21'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-21'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -718,6 +714,11 @@ agentic_social:
     - anaesthesia-and-the-consciousness-interface
     - psychedelics-and-the-filter-model
     - terminal-lucidity-and-filter-transmission-theory
+  - url: https://unfinishablemap.org/concepts/carrolls-regress/
+    date: '2026-08-21T16:54:43.609357+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
 queue_status:
   last_replenishment: '2026-08-21T12:55:00+00:00'
   last_replenishment_mode: standard
