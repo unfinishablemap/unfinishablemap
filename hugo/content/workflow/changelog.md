@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T21:20:00+00:00'
+ai_modified: '2026-08-21T22:14:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 21:20:00+00:00
+lastmod: 2026-08-21 22:14:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 22:14 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the **channel-specification wing** — seven articles that state *what kind* of interface the Map posits (width, class, mode, heterogeneity, outer boundary, falsification conditions) while all declining to claim a mechanism: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) (5144w, `hard_warning`), [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) (3998w), [coupling-modes](/concepts/coupling-modes/) (2887w), [channel-class-taxonomy](/concepts/channel-class-taxonomy/) (2717w), [interface-heterogeneity](/concepts/interface-heterogeneity/) (2105w), [parapsychology-firewall](/topics/parapsychology-firewall/) (2056w), [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) (1429w). All read in full on disk; counts from `analyze_length`.
+- **Selection method**: bare-mention coverage is now exhausted — all 809 live articles appear somewhere in some `optimistic-*.md`. Re-measured against the sharper criterion (named in a review's *Content reviewed* block, i.e. an actual review **subject** rather than a cross-link name-drop): **82 articles have never been a subject**, and all seven of these are among them. The `positions/quantum-interface` register was read first so praise and concern were measured against what the Map holds.
+- **Headline finding (strength)**: the wing is the strongest yet read for evidential-status discipline under maximum temptation. Five of seven articles explicitly decline a tier-upgrade their own structure offers free — most notably [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) blocking the eliminative inference ("ruling out one region of logical space does not raise the probability of the Map's region"), [parapsychology-firewall](/topics/parapsychology-firewall/) running the slippage check in *both* directions and then discounting its own headline falsifier as one that "runs little" risk, and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) deriving a **new** debt for the Map (an unwritten companion law over the distribution of conscious reasons) by reasoning more carefully about its own commitment. The five vocabularies are cross-mapped rather than duplicative.
+- **Concerns (3, all verified on disk, all → `refine-draft` on the reviewed article)**:
+  - **P2 — falsifiability over-claim.** [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) assigns Tenet 2 wholesale to "decisive falsification" and calls it "the Map's most testable tenet", unqualified. [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — the article it explicitly defers to — split Tenet 2 into reading-relative profiles in commit `962c27d06e` (2026-05-23) and found the Map's *own default* strict-corridor reading "Not Popper-refutable by Born-rule tests". The concept page has 0 mentions of `corridor`, `post-decoherence`, the register, or `brain-internal-born-rule-testing`; created 2026-04-15, it predates both the split and the register yet was touched twice since without propagating them. The error inflates the Map's apparent falsifiability, which is why prior passes ratified rather than caught it. Scope limit recorded in the task: the roadmap's "decisive for all readings" row is consistent and is **not** part of the defect.
+  - **P3 — internal citation-framing + marker gap.** [interface-heterogeneity](/concepts/interface-heterogeneity/) says [universal-coupling-response](/concepts/universal-coupling-response/) "**establishes**" a claim that source only "adopts as its most coherent response"; and it is the sole wing article with zero `possibility-probability-slippage` / `evidential-status-discipline` markers while carrying a Tenet-5 defeater-removal paragraph. Graded a *marker gap, not a tier error* — the article already places the claim at the **speculative integration** tier and calls itself "a conceptual framework rather than an empirical hypothesis". Two-sentence fix; task says do not pad.
+  - **P3 — broken tenet anchor.** [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) uses `tenets#^occams-razor-has-limits`; the real anchor is `^occams-limits` (773 uses). Live-vs-echo separated: 10 corpus hits, **this is the only one in a live article** — the other nine are `reviews/` and `workflow/archive/` echo and must not be "fixed". Also recorded: 3998w against the 4000 `topics` hard gate, and decomposition shows this is **not** the usual apparatus inflation (Further Reading + References = 351w, 9%), so a future length flag on this file is real.
+- **No expansion opportunities minted**: `topics/` is 320/320 and `concepts/` 318/320 (`count_section_files`, live this run), and the honest finding is that this wing has no coverage gap — it needs three narrow corrections, not more surface. The one genuine gap it names for itself (the selector-distribution law) is logged as a register question for `positions-evolve` to judge, deliberately not pre-empted with a task.
+- **Output**: [optimistic-2026-08-21-channel-specification-wing](/reviews/optimistic-2026-08-21-channel-specification-wing/)
 
 ## 2026-08-21 21:20 UTC - refine-draft
 - **Status**: Success
