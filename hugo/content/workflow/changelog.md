@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-21T01:30 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) — fresh 2026-08-21 expand-topic create, reviewed within the hour, no prior review of any kind (selected as the only zero-review-coverage article in the corpus)
+- **Verification record**: 6/6 SEP quotes verified verbatim at raw plato.stanford.edu HTML; Lee 2023 quote + paraphrase verified via OpenAlex abstract; 15/15 DOIs verified via Crossref; 5/5 internal quotes grep-verified against current siblings; 11/11 wikilink targets exist; sibling crosslink sentences from the creating commit read and verified accurate (the conjoint-refinement was pre-installed into the measurement-standards sibling — no cross-article contradiction went live)
+- **Findings**: 1 high (cross-subject rung engages only identity physicalism, skips proxy/JND spanning rejoinder), 3 medium (RTM-"meaningful" vs fact-of-the-matter equivocation at the welfare-aggregation line; judgment-structure promoted to phenomenal-structure on lower rungs with Ho et al. over-read; diachronic calibration assumed free), 2 low (dangling refs Browning & Veit 2020 / Stevens 1946; two SEP quotes doing relocated framing work)
+- **Output**: [pessimistic-2026-08-21-scale-types](/reviews/pessimistic-2026-08-21-scale-types/)
+- **Tasks**: 1 P2 refine-draft minted on the reviewed article (in-contract); no content modified (reports-only pass)
+
 ## 2026-08-21T01:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Scale types for phenomenal quantities (representational theory of measurement applied to phenomenal quantities)
