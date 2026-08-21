@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-05-26
-**Article**: [Intuitive Dualism](/concepts/intuitive-dualism/)
+**Article**: [Intuitive Dualism](/topics/cognitive-science-of-dualism/)
 **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-intuitive-dualism/)
 
 This is the seventh review of this article, promoted P3→P2 by replenish-queue as a staleness candidate (49 days since last review). No content changes have occurred since the 2026-04-06 review; this pass focused on the verification items flagged in the task context (citation accuracy, wikilink/anchor validity, calibration discipline) given that "citation conflation recurred several times this run."

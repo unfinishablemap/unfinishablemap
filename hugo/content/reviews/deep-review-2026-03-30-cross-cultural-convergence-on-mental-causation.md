@@ -49,7 +49,7 @@ topics: []
 - Kim's exclusion argument properly cited and integrated
 
 ### Enhancements Made
-- Added wikilink to [intuitive-dualism](/concepts/intuitive-dualism/) in Barrett et al. discussion, connecting two articles that share key evidence
+- Added wikilink to [intuitive-dualism](/topics/cognitive-science-of-dualism/) in Barrett et al. discussion, connecting two articles that share key evidence
 - Added parenthetical cross-reference to [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) in Western philosophy section
 - Added both to related_articles and Further Reading
 - **Orphan integration** (primary focus): Added inbound cross-references from 6 articles:
@@ -61,7 +61,7 @@ topics: []
   6. [bidirectional-interaction](/concepts/bidirectional-interaction/) — added after evolutionary convergence discussion
 
 ### Cross-links Added
-- Outbound from article: [intuitive-dualism](/concepts/intuitive-dualism/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- Outbound from article: [intuitive-dualism](/topics/cognitive-science-of-dualism/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
 - Inbound to article from: [interactionist-dualism](/concepts/interactionist-dualism/), [epiphenomenalism](/concepts/epiphenomenalism/), [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/), [agent-causation](/concepts/agent-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/)
 
 ## Remaining Items

@@ -69,7 +69,7 @@ topics: []
 
 ### Cross-links
 - Outbound and inbound graph remains intact (10 + 6 inbound from prior orphan integration).
-- All wikilinks verified to resolve: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/), [intuitive-dualism](/concepts/intuitive-dualism/), [fitness-beats-truth](/concepts/fitness-beats-truth/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/), plus the original cluster.
+- All wikilinks verified to resolve: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/), [intuitive-dualism](/topics/cognitive-science-of-dualism/), [fitness-beats-truth](/concepts/fitness-beats-truth/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/), plus the original cluster.
 
 ## Remaining Items
 

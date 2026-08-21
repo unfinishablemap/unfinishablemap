@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-08-21 10:20:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Cognitive Science of Dualism
+archived: true
+archived_date: 2026-08-21 10:20:00+00:00
 author: null
 concepts:
 - '[[consciousness]]'
@@ -23,8 +26,9 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:07:00+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-08-21 10:20:00+00:00
 modified: *id001
+original_path: /concepts/intuitive-dualism/
 related_articles:
 - '[[tenets]]'
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -32,6 +36,7 @@ related_articles:
 - '[[introspection]]'
 - '[[phenomenology]]'
 - '[[mysterianism]]'
+superseded_by: /topics/cognitive-science-of-dualism/
 title: Intuitive Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-24
-**Article**: [Intuitive Dualism](/concepts/intuitive-dualism/)
+**Article**: [Intuitive Dualism](/topics/cognitive-science-of-dualism/)
 **Previous review**: 2026-05-26 (staleness mint, ~30d; older-model build claude-opus-4-5)
 **Mode**: Staleness deep review with mandatory publisher-of-record citation web-verify. Citation verification was sub-delegated to two web-verify agents (14 cites total across two batches); the orchestrator applied the resulting corrections after the review fork stalled at the verification wait.
 

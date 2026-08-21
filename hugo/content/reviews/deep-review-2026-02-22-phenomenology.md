@@ -42,8 +42,8 @@ topics: []
   - **Resolution**: Corrected attribution in body text (line 67) and References section. Updated reference with full title and DOI.
 
 ### Medium Issues Found
-- **Missing cross-link to intuitive-dualism**: The article discusses intuitive dualism (via Peng & Hagar) but didn't link to the existing [intuitive-dualism](/concepts/intuitive-dualism/) concept page.
-  - **Resolution**: Added [intuitive-dualism](/concepts/intuitive-dualism/) wikilink in body text and frontmatter concepts.
+- **Missing cross-link to intuitive-dualism**: The article discusses intuitive dualism (via Peng & Hagar) but didn't link to the existing [intuitive-dualism](/topics/cognitive-science-of-dualism/) concept page.
+  - **Resolution**: Added [intuitive-dualism](/topics/cognitive-science-of-dualism/) wikilink in body text and frontmatter concepts.
 - **Stale AI refinement log**: HTML comment from 2026-02-16 refinement still present after 6 days. The changes it describes have been reviewed in this and previous deep reviews.
   - **Resolution**: Removed the stale comment.
 
@@ -104,11 +104,11 @@ All six adversarial personas engaged. Critical objections are either:
 
 ### Enhancements Made
 - Corrected critical misattribution (Peng & Hagar, not Gallagher & Zahavi)
-- Added [intuitive-dualism](/concepts/intuitive-dualism/) cross-link for the intuitive dualism discussion
+- Added [intuitive-dualism](/topics/cognitive-science-of-dualism/) cross-link for the intuitive dualism discussion
 - Cleaned up stale refinement log comment
 
 ### Cross-links Added
-- [intuitive-dualism](/concepts/intuitive-dualism/) (frontmatter and body text)
+- [intuitive-dualism](/topics/cognitive-science-of-dualism/) (frontmatter and body text)
 
 ## Word Count
 

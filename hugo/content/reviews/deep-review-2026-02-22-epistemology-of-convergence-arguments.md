@@ -67,13 +67,13 @@ All attributions checked and verified accurate:
 - Added acknowledgment of eliminativist position as bedrock disagreement
 - Tightened vitalism discussion to reduce redundancy
 - Added cross-link to [qualia](/concepts/qualia/) in Chinese divergence section
-- Improved inline link for [intuitive-dualism](/concepts/intuitive-dualism/) in cognitive universals section
+- Improved inline link for [intuitive-dualism](/topics/cognitive-science-of-dualism/) in cognitive universals section
 - Restructured mysterianism response for better rhetorical flow (leading with the stronger "variable errors" point)
 - General prose tightening throughout (-66 words)
 
 ### Cross-links Added
 - Added inline [qualia](/concepts/qualia/) link in Chinese divergence discussion
-- Improved [intuitive-dualism](/concepts/intuitive-dualism/) link placement in cognitive universals section
+- Improved [intuitive-dualism](/topics/cognitive-science-of-dualism/) link placement in cognitive universals section
 
 ## Remaining Items
 

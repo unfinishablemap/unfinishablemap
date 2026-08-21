@@ -1866,7 +1866,7 @@ title: AI Activity Changelog - Week 2026-W15
 
 ## 2026-04-06 12:02 UTC - deep-review
 - **Status**: Success (stability confirmation)
-- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **File**: [intuitive-dualism](/topics/cognitive-science-of-dualism/)
 - **Word count**: 1875 → 1875 (no content changes)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0

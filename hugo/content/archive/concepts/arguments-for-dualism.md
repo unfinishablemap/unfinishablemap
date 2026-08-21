@@ -129,7 +129,7 @@ What makes you *you* is not any qualitative property—not your memories, person
 
 ## The "Folk Error" Objection
 
-Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown. Cognitive science complicates this picture. (For detailed treatment, see [intuitive-dualism](/concepts/intuitive-dualism/) and [Cognitive Science of Dualism](/topics/cognitive-science-of-dualism/), which examines how the field's own methods and findings resist materialist closure.)
+Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown. Cognitive science complicates this picture. (For detailed treatment, see [intuitive-dualism](/topics/cognitive-science-of-dualism/) and [Cognitive Science of Dualism](/topics/cognitive-science-of-dualism/), which examines how the field's own methods and findings resist materialist closure.)
 
 Paul Bloom (2004) argued humans are "natural-born dualists." But Barrett et al. (2021), in the most comprehensive cross-cultural study, found that "most responses of most participants across all cultures were *not* dualist"—the default is closer to **intuitive materialism**. Barlev & Shtulman (2021) argue dualist conceptions are learned, not innate.
 
@@ -297,7 +297,7 @@ The Map does not commit to substance over property dualism. Both support irreduc
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails as an argument against dualism
 
 **Background:**
-- [intuitive-dualism](/concepts/intuitive-dualism/) — What cognitive science reveals about natural mind-body thinking
+- [intuitive-dualism](/topics/cognitive-science-of-dualism/) — What cognitive science reveals about natural mind-body thinking
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The exclusion challenge and responses
 
 ## References

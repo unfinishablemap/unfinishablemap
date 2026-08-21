@@ -65,7 +65,7 @@ topics: []
 - [knowledge-argument](/concepts/knowledge-argument/) (inline)
 - [illusionism](/concepts/illusionism/) (inline)
 - [causal-closure](/concepts/causal-closure/) (Further Reading)
-- [intuitive-dualism](/concepts/intuitive-dualism/) (Further Reading)
+- [intuitive-dualism](/topics/cognitive-science-of-dualism/) (Further Reading)
 
 ## Remaining Items
 

@@ -19,7 +19,6 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
-- '[[intuitive-dualism]]'
 - '[[buddhism-and-dualism]]'
 - '[[topics/free-will]]'
 - '[[causal-closure]]'
@@ -214,7 +213,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 **The Map's framework:** [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [interactionist-dualism](/concepts/interactionist-dualism/), [the-reverse-inference](/topics/the-reverse-inference/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemology](/concepts/epistemology/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [causal-closure](/concepts/causal-closure/), [mental causation](/concepts/mental-causation-and-downward-causation/), [free-will](/topics/free-will/)
 
-**Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+**Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 **Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/), [Russellian monism vs bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
 

@@ -7,6 +7,7 @@ human_modified: null
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[cognitive-science-of-dualism]]"
 concepts:
   - "[[methodology-of-consciousness-research]]"
   - "[[consciousness]]"
@@ -28,7 +29,6 @@ concepts:
   - "[[nihilism-and-existentialism]]"
   - "[[acquaintance-void]]"
   - "[[attention-as-interface]]"
-  - "[[intuitive-dualism]]"
   - "[[evaluative-phenomenal-character]]"
   - "[[decoherence]]"
 related_articles:
@@ -69,7 +69,7 @@ A standard objection deserves acknowledgment. The epoché brackets third-person 
 
 Consider what happens when you perceive red. Neuroscience can identify which neurons fire, which brain regions activate, which wavelengths stimulate the retina. None of this captures the *redness* of the experience, its qualitative character from within. The explanatory gap between physical description and phenomenological character may reflect a structural feature of consciousness—though whether the gap is permanent remains contested.
 
-Peng and Hagar (2025) argue that "cognitive science needs phenomenology" because [[intuitive-dualism|intuitive dualism]] is [[cognitive-science-of-dualism|empirically widespread]], first-person experience forms the data any consciousness science must explain, and physicalist frameworks systematically bracket this evidence. The [[methodology-of-consciousness-research|methodological divide]] between phenomenology and neuroscience reflects this commitment: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
+Peng and Hagar (2025) argue that "cognitive science needs phenomenology" because [[cognitive-science-of-dualism|intuitive dualism]] is empirically widespread, first-person experience forms the data any consciousness science must explain, and physicalist frameworks systematically bracket this evidence. The [[methodology-of-consciousness-research|methodological divide]] between phenomenology and neuroscience reflects this commitment: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
 
 ## Husserl on Time-Consciousness
 

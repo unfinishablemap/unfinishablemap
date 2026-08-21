@@ -25,7 +25,6 @@ concepts:
 - '[[nihilism-and-existentialism]]'
 - '[[acquaintance-void]]'
 - '[[attention-as-interface]]'
-- '[[intuitive-dualism]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[decoherence]]'
 created: 2026-01-14
@@ -46,6 +45,7 @@ related_articles:
 title: Phenomenology
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[cognitive-science-of-dualism]]'
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.
@@ -72,7 +72,7 @@ A standard objection deserves acknowledgment. The epoché brackets third-person 
 
 Consider what happens when you perceive red. Neuroscience can identify which neurons fire, which brain regions activate, which wavelengths stimulate the retina. None of this captures the *redness* of the experience, its qualitative character from within. The explanatory gap between physical description and phenomenological character may reflect a structural feature of consciousness—though whether the gap is permanent remains contested.
 
-Peng and Hagar (2025) argue that "cognitive science needs phenomenology" because [intuitive dualism](/concepts/intuitive-dualism/) is [empirically widespread](/topics/cognitive-science-of-dualism/), first-person experience forms the data any consciousness science must explain, and physicalist frameworks systematically bracket this evidence. The [methodological divide](/topics/methodology-of-consciousness-research/) between phenomenology and neuroscience reflects this commitment: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
+Peng and Hagar (2025) argue that "cognitive science needs phenomenology" because [intuitive dualism](/topics/cognitive-science-of-dualism/) is empirically widespread, first-person experience forms the data any consciousness science must explain, and physicalist frameworks systematically bracket this evidence. The [methodological divide](/topics/methodology-of-consciousness-research/) between phenomenology and neuroscience reflects this commitment: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
 
 ## Husserl on Time-Consciousness
 

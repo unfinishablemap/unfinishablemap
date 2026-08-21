@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T09:54:58+00:00'
+ai_modified: '2026-08-21T10:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 09:54:58+00:00
+lastmod: 2026-08-21 10:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 10:20 - coalesce
+- **Status**: Success
+- **Sources**: [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Target**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) (merged into the existing article rather than a new slug, so the 17 inbound links to the surviving topic are preserved and only one superseded body is left standing in `archive/`)
+- **Archived**: [intuitive-dualism](/archive/concepts/intuitive-dualism/) — `superseded_by: /topics/cognitive-science-of-dualism/`; redirect generated (`hugo/static/_redirects` line 60)
+- **Candidate search**: five passes before committing, per skill contract. Rejected: the six sensory-modality `*-consciousness-and-the-interface` articles (merged body would run ~15k words, and each modality carries distinct evidence); `presentiment-and-retrocausality` + `parapsychology-firewall` (complementary roles — one demarcates a contested empirical literature, the other states a structural falsification prediction — and they cross-reference each other); `phenomenal-depth` + `phenomenal-presentation` (the latter contains a section *explicitly* distinguishing itself from the former; merging would destroy deliberate conceptual work); `status-of-content` + `content-vocabulary-as-derived-feature` (different argumentative targets). The rejections match the standing `coalesce-candidate-pool-exhausted-by-role-granularity` pattern — the corpus is granular by argumentative role, not redundant
+- **Why this pair merged**: genuine duplication rather than role division. Roughly 1400-1500 words of the concept's 1982 retold what the topic already covered — the same Bloom 2004 → Barrett 2021 → Barlev & Shtulman 2021 sequence, the same genetic-fallacy-cuts-both-ways argument, the same hard-problem-persists coda, and a second tenet-by-tenet Relation to Site Perspective making overlapping claims. Each article also pointed at the other for "the broader landscape", so neither told the story whole
+- **Unique material preserved**: Chudek et al. 2018, Richert & Harris 2008, Bering's simulation constraint, Berent & Sansiveri 2024 (LLM dualism), Willard & Norenzayan 2013's mentalizing-as-pathway refinement, and the researcher/position/evidence summary table. These five citations existed nowhere else in the corpus outside the source research note, so losing them would have been a real loss
+- **Quote-fidelity gain**: the concept asserted a direct quote from Barrett et al. — "Most responses of most participants across all cultures tested were not dualist." — that the source research note does not contain; the note supports only the topic's two quoted spans ("a possible mode of thought enabled by evolved human psychology", "does not constitute a default mode of thought"). The merge kept the topic's verified formulation and dropped the unverified quoted span rather than carrying it forward
+- **Conflict reconciled**: the two articles disagreed on No Many Worlds — the concept read cross-cultural assumption of singular observers as indirect support via indexical identity, the topic held that cognitive science neither supports nor undermines the tenet. Kept the topic's disciplined reading and stated explicitly why the concept's inference is declined, rather than silently deleting it
+- **References**: merged and de-duplicated to 15 entries; every entry re-checked against a body mention (Frankish dropped — its body sentence was compressed away, leaving a dangling reference entry)
+- **Length**: 2189w → 3644w (`soft_warning`, topics soft 3000 / hard 4000). ~350w of that is reference apparatus and Further Reading
+- **`last_deep_review` cleared** so the merged body enters the review pool. The prior 2026-07-17 timestamp certified a different article; leaving it would have hidden the review debt this merge creates
+- **Inbound links repointed** (6 live files, both wikilink forms): `arguments/epistemological-limits-of-occams-razor`, `concepts/cross-cultural-convergence-on-mental-causation`, `concepts/dualism`, `concepts/phenomenology`, `topics/epistemology-of-convergence-arguments`, `topics/the-convergence-argument-for-dualism`, plus `positions/agency-and-will` (2 refs). The last two were found only on a second sweep — the first grep used the bare-slug pattern and missed `[[concepts/intuitive-dualism]]`, the path-qualified form the positions register uses
+- **Hugo**: stale `hugo/content/concepts/intuitive-dualism.md` deleted by hand (sync never removes files), then re-synced. Live tree greps clean of `/concepts/intuitive-dualism` apart from the target's own `coalesced_from` field. Validation: 9269 valid, 0 invalid
+- **Section counts**: `concepts` 319 → 318 (two slots now free at the 320 cap); `topics` unchanged
+- **References to review**: none — every live inbound reference was repointed in this session. `archive/` references left as historical record (the converter resolves archived slugs to `superseded_by`)
 
 ## 2026-08-21 09:54 - positions-evolve (update)
 - **Status**: Success

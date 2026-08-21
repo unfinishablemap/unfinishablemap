@@ -1,15 +1,15 @@
 ---
 title: "Cognitive Science of Dualism"
-description: "Cognitive science presupposes methodological materialism, yet its own findings—the explanatory gap, intuition variability, introspective irreducibility—resist materialist closure."
+description: "Cognitive science presupposes methodological materialism, yet its own findings—variable mind-body intuitions, introspective irreducibility, the persistent explanatory gap—resist materialist closure."
 created: 2026-02-05
-modified: 2026-02-05
+modified: 2026-08-21
 human_modified:
-ai_modified: 2026-07-13T03:51:30+00:00
+ai_modified: 2026-08-21T10:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
-  - "[[intuitive-dualism]]"
   - "[[embodied-cognition]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/materialism]]"
@@ -18,20 +18,28 @@ concepts:
   - "[[introspection]]"
   - "[[explanatory-gap]]"
   - "[[mental-causation-and-downward-causation]]"
+  - "[[philosophical-zombies]]"
+  - "[[theory-of-mind]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[cognitive-science-dualism-2026-01-15]]"
   - "[[phenomenology]]"
+  - "[[witness-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-07-17T18:37:59+00:00
+last_deep_review:
+coalesced_from:
+  - "/concepts/intuitive-dualism/"
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
+
+The empirical literature on whether humans are natural dualists is surveyed in full below, under [Intuitive Mind-Body Reasoning Is Variable](#intuitive-mind-body-reasoning-is-variable). Its headline result is that the field has reversed itself: what was presented two decades ago as innate dualism now looks, on cross-cultural evidence, like an intuitive *materialism* against which dualist thinking has to be learned. Neither result settles the metaphysics, and the reason it does not is the subject of [The Genetic Fallacy in Both Directions](#the-genetic-fallacy-in-both-directions).
 
 ## The Methodological Assumption
 
@@ -43,9 +51,32 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 ### Intuitive Mind-Body Reasoning Is Variable
 
-The most direct contribution of cognitive science to the dualism debate concerns [[intuitive-dualism|whether humans naturally separate mind from body]]. The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. H. Clark Barrett and colleagues (2021) found a more complicated picture across six populations: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate.
+The most direct contribution of cognitive science to the dualism debate concerns whether humans naturally separate mind from body. The evidence is surprisingly mixed, and the field's centre of gravity has moved substantially in twenty years.
+
+**Bloom's natural-born dualists.** Paul Bloom's *Descartes' Baby* (2004) proposed that humans have two distinct cognitive systems from infancy: folk physics (governing objects — solidity, gravity, continuity) and folk psychology (governing agents — beliefs, desires, goals). Babies find it unremarkable when people move without physical contact but are surprised if objects do the same. By age four, children naturally accept body swaps, ghosts, and survival after death. Bloom's conclusion was that dualism is a cognitive default rather than a philosophical discovery — a conclusion some materialists seized on to dismiss dualism as folk error to be outgrown through scientific education.
+
+Early cross-cultural work supported him. Chudek et al. (2018) found early-emerging dualistic intuitions in both Canadian and Indigenous Fijian children. Richert and Harris (2008) showed that even after children learn brains produce thinking, they continue treating mental states as somehow different — on their reading the dualistic view is present early and later *suppressed* by neuroscientific knowledge rather than eliminated.
+
+**The cross-cultural challenge.** H. Clark Barrett and colleagues (2021) recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders) and found a more complicated picture: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Their proposal is that the cognitive default is **intuitive materialism**: the underlying systems for reasoning about minds produce, by default, judgements that mental states cease with bodily death. Even in cultures with strong afterlife traditions, participants intuitively expected mental states to stop when the body stopped. This reverses the standard picture: on Barrett's reading the belief needing cultural transmission is dualism, while the untutored default is materialist.
+
+**The learning debate.** Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate: conceptions of disembodied beings develop slowly across childhood rather than being evident early. Counterintuitive ideas like disembodied minds may be prevalent precisely *because* they are counterintuitive — such ideas carry transmission advantages in cultural evolution. Berent and Sansiveri (2024) added an unexpected data point from an artificial system: large language models develop dualist-seeming representations without any innate domain-specific architecture. If dualism is learnable without specialised cognitive modules, the nativist case weakens further.
+
+**Bering's simulation constraint.** Jesse Bering (2002, 2006) proposed that simulation constraints make afterlife belief a cognitive default — we cannot imagine not existing, so we assume psychological states continue after death. His experiments found that even self-described "extinctivists" implicitly attributed epistemic states to dead agents more readily than biological traits. Barrett et al.'s cross-cultural data complicates this: if simulation constraints were universal, most people should show dualist intuitions, and most do not.
+
+**The two-system view refined.** A more careful framework preserves what was right in Bloom without his conclusion. Two cognitive systems do exist, but their *separability* does not automatically produce dualism: the systems can operate independently without generating the intuition that minds can exist without bodies. Willard and Norenzayan (2013) found that [[theory-of-mind|mentalizing]] leads to dualism as a *pathway* rather than a universal default — some individuals traverse it more than others depending on mentalizing tendency.
+
+| Researcher | Position | Key evidence |
+|------------|----------|--------------|
+| Bloom (2004) | Innate dualism | Infant cognition, separate systems |
+| Chudek et al. (2018) | Early-emerging dualism | Canadian and Fijian children |
+| Barrett et al. (2021) | Intuitive materialism | Cross-cultural afterlife judgements |
+| Barlev & Shtulman (2021) | Dualism is learned | Developmental trajectories |
+| Bering (2002, 2006) | Simulation-constraint dualism | Implicit attribution measures |
+| Berent & Sansiveri (2024) | Dualism learnable without innateness | LLM representations |
 
 This variability matters for a reason materialists often overlook. If dualism were merely folk error — a cognitive bias like the gambler's fallacy — we'd expect it to be universal and automatic. Instead, dualist thinking appears to require cultural scaffolding and reflective thought. This makes it look less like a bias and more like a position people arrive at through reasoning, much as heliocentrism required education to grasp despite being correct.
+
+One further reading of the variability is worth registering, though the Map does not rest anything on it. Whitehead's two-poled actual occasions predict exactly this failure of either intuition to win cleanly: intuitive materialists correctly register that mental states depend on embodiment, intuitive dualists that experience has a character embodiment does not exhaust, and the cross-cultural spread reflects which pole a culture emphasises. That is an interpretation laid over the data, not a finding within it.
 
 ### Neural Correlates Do Not Exhaust Consciousness
 
@@ -79,33 +110,50 @@ The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism,
 
 ## The Hard Problem as Cognitive Science's Limit
 
-The [[hard-problem-of-consciousness|hard problem]] is not a gap in current cognitive science that future research will close. It is a structural feature of third-person methodology encountering a first-person phenomenon. No amount of functional, computational, or neural description tells us *why there is something it is like* to be a conscious organism. This was Chalmers's point in 1995, and three decades of cognitive science — including [[integrated-information-theory|Integrated Information Theory]], [[global-workspace-theory|Global Workspace Theory]], and higher-order theories — have not closed the [[explanatory-gap]]. These theories illuminate the *correlates* and *functions* of consciousness without explaining why those functions are accompanied by experience.
+The [[hard-problem-of-consciousness|hard problem]] is a structural feature of third-person methodology encountering a first-person phenomenon, rather than a gap in current cognitive science that future research will close. No amount of functional, computational, or neural description tells us *why there is something it is like* to be a conscious organism. This was Chalmers's point in 1995, and three decades of cognitive science — including [[integrated-information-theory|Integrated Information Theory]], [[global-workspace-theory|Global Workspace Theory]], and higher-order theories — have not closed the [[explanatory-gap]]. These theories illuminate the *correlates* and *functions* of consciousness without explaining why those functions are accompanied by experience.
+
+This is why even a complete cognitive science of dualist belief would leave the original problem untouched. Suppose the field converges on a full account of *why* people think mind and body come apart — the developmental trajectory, the mentalizing pathway, the cultural transmission dynamics. The explanatory gap between physical description and subjective experience is not a cognitive illusion that better theory-of-mind integration would dissolve. Mary still learns something when she sees red for the first time. [[philosophical-zombies|Zombies]] remain conceivable. Explaining the belief does not explain the explanandum.
+
+[[illusionism|Illusionists]] reply that the question is moot — there are no phenomenal properties to be dualist or materialist about, only systematic misrepresentation of our mental states as having qualitative character they lack. The Map rejects illusionism on grounds independent of anything cognitive science has found about intuitions; the argument is set out in full at [[illusionism]]. One point belongs here because it is an empirical one: Fox et al. (2012) found that meditation experience predicts introspective accuracy on objective measures rather than merely raising confidence, which is what a training-refines-access model predicts and an illusion model does not.
 
 Colin McGinn's [[mysterianism|cognitive closure]] hypothesis takes this further: human cognitive architecture may be constitutionally unable to grasp the property linking brain states to conscious experience. Our concept-forming procedures — perception, [[introspection]], inference — may simply lack the resources to bridge the explanatory gap. Cognitive science can study its own limits but not transcend them.
 
 This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [[concepts/materialism|materialist]] terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A [[concepts/materialism|materialist]] might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [[phenomenology|phenomenal character]] — that has no analogue in the vitalism case.
 
+## What Would Challenge This View?
+
+The position argued here — that cognitive science maps the architecture of mind-body belief without being able to adjudicate the metaphysics — would be undermined by any of four findings.
+
+1. **If cognitive architecture strictly constrained what can be true.** It does not appear to: we conceive quantum mechanics despite having no intuitive system for it, which is enough to show that the limits of intuition are not the limits of truth.
+2. **If trained introspection converged uniformly on one pole.** It does not. Contemplative traditions report neither substance dualism nor materialism but streams of momentary mental events including irreducibly mental elements, and cross-cultural reports of [[witness-consciousness]] — a stable awareness observing experience without being identical to its content — describe something that fits neither Bloom's innate dualism nor Barrett's intuitive materialism. That trained observation lands outside both categories is itself evidence that the untrained-intuition literature is not measuring the thing the metaphysical dispute is about. Whether such reports are admissible evidence is contested; see [[methodology-of-consciousness-research]].
+3. **If explaining the belief fully explained the phenomenon.** Explaining why we believe pain hurts does not explain why pain hurts.
+4. **If intuitive materialism had privileged epistemic standing.** No such asymmetry has been demonstrated, for the reason given under [The Genetic Fallacy in Both Directions](#the-genetic-fallacy-in-both-directions) above.
+
+Each of these is a condition the Map could lose. None has been met.
+
 ## Relation to Site Perspective
 
 The Unfinishable Map holds that cognitive science provides valuable evidence about the architecture of mind while being structurally unable to adjudicate the metaphysical question of dualism.
 
-The [[tenets#^dualism|Dualism tenet]] does not rest on cognitive naturalness or folk intuition. It rests on philosophical arguments — the explanatory gap, conceivability, and the knowledge argument — that cognitive science has not dissolved. The field's own dependence on first-person report as irreducible data actually supports the tenet: if subjective experience were fully captured by third-person description, cognitive science would not need to ask subjects what they see.
+The [[tenets#^dualism|Dualism tenet]] does not rest on cognitive naturalness or folk intuition. It rests on philosophical arguments — the explanatory gap, conceivability, and the knowledge argument — that cognitive science has not dissolved. The field's own dependence on first-person report as irreducible data actually supports the tenet: if subjective experience were fully captured by third-person description, cognitive science would not need to ask subjects what they see. The "folk error" dismissal also fails on its own terms once the cross-cultural evidence is in. Dualism cannot be written off as naive untutored intuition when the untutored intuition may well be materialist.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [[consciousness]] flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [[mental-causation-and-downward-causation|mental causation]] reflects methodological limitations, not ontological absence.
 
-The [[tenets#^no-many-worlds|No Many Worlds tenet]] does not bear directly on cognitive science's relationship to dualism — the rejection of MWI is a commitment about quantum ontology rather than about third-person methodology. Cognitive science neither supports nor undermines this tenet.
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] does not bear directly on cognitive science's relationship to dualism — the rejection of MWI is a commitment about quantum ontology rather than about third-person methodology. Cognitive science neither supports nor undermines this tenet. One observation from the intuition literature is sometimes offered in its favour and should be declined: both intuitive dualism and intuitive materialism presuppose singular observers with determinate identities, which might be read as folk testimony for [[haecceity|indexical identity]]. But an assumption shared by two rival intuitions is exactly the kind of thing evolved cognition would install whether or not it tracks anything, and the section above gives the reason not to promote a widespread intuition to evidence.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps the strongest support from this analysis. Cognitive science's methodological materialism makes physicalism appear simple and dualism appear extravagant. But this apparent simplicity is an artefact of the method, not a discovery about reality. A thermometer makes temperature look like the only relevant variable — until you measure pressure.
 
 ## Further Reading
 
-- [[intuitive-dualism]] — Whether humans naturally think dualistically
 - [[methodology-of-consciousness-research]] — The methodological gap in consciousness research
 - [[neural-correlates-of-consciousness]] — Why correlations between brain states and experience don't settle the metaphysics
 - [[predictive-processing]] — The brain as prediction engine and why it leaves consciousness unexplained
 - [[embodied-cognition]] — How bodily dependence reshapes but doesn't resolve the mind-body problem
+- [[theory-of-mind]] — Mentalizing capacities and the pathway from mentalizing to dualist belief
+- [[illusionism]] — The radical view that phenomenal consciousness is itself an illusion
+- [[witness-consciousness]] — Contemplative reports that fit neither intuitive pole
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's integration of first-person and third-person methods
 - [[mysterianism|cognitive closure]] — McGinn's thesis on constitutional limits of human cognition
 - [[hard-problem-of-consciousness]] — Why no amount of functional description explains experience
@@ -114,10 +162,18 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 
 ## References
 
+1. Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128, 1007-1021.
 1. Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
-1. Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods." *Psychological Review*, 128, 1007-1021.
-1. Bloom, P. (2004). *Descartes' Baby*. Basic Books.
+1. Berent, I., & Sansiveri, A. (2024). "Davinci the Dualist: The Mind-Body Divide in Large Language Models and in Human Learners." *Open Mind*, 8, 84-101.
+1. Bering, J. M. (2002). "Intuitive Conceptions of Dead Agents' Minds: The Natural Foundations of Afterlife Beliefs as Phenomenological Boundary." *Journal of Cognition and Culture*, 2(4), 263-308.
+1. Bering, J. M. (2006). "The folk psychology of souls." *Behavioral and Brain Sciences*, 29(5), 453-462.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Chudek, M., et al. (2018). "Do minds switch bodies? Dualist interpretations across ages and societies." *Religion, Brain & Behavior*, 8(4), 354-368.
 1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. Fox, K. C. R., et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS One*, 7(9), e45370.
 1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Richert, R. A., & Harris, P. L. (2008). "Dualism Revisited: Body vs. Mind vs. Soul." *Journal of Cognition and Culture*, 8(1-2), 99-115.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Willard, A. K., & Norenzayan, A. (2013). "Cognitive biases explain religious belief, paranormal belief, and belief in life's purpose." *Cognition*, 129(2), 379-391.

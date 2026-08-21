@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-12
-**Article**: [Intuitive Dualism](/concepts/intuitive-dualism/)
+**Article**: [Intuitive Dualism](/topics/cognitive-science-of-dualism/)
 **Previous review**: [2026-06-24](/reviews/deep-review-2026-06-24-intuitive-dualism/)
 **Review type**: Type-B quote-fidelity verbatim pass (orthogonal axis — no metadata re-check)
 

@@ -4,8 +4,13 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-08-21T10:20:00+00:00
 draft: false
+archived: true
+archived_date: 2026-08-21T10:20:00+00:00
+superseded_by: "/topics/cognitive-science-of-dualism/"
+archive_reason: "Coalesced into Cognitive Science of Dualism"
+original_path: "/concepts/intuitive-dualism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"

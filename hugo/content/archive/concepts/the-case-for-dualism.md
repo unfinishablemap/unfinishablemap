@@ -194,7 +194,7 @@ The Map does not commit to substance over property dualism—both support irredu
 
 **Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/)
 
-**Background:** [dualism](/concepts/dualism/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/), [many-worlds](/concepts/many-worlds/)
+**Background:** [dualism](/concepts/dualism/), [intuitive-dualism](/topics/cognitive-science-of-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/), [many-worlds](/concepts/many-worlds/)
 
 ## References
 

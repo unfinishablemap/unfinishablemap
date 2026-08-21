@@ -19,7 +19,6 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
-  - "[[intuitive-dualism]]"
   - "[[buddhism-and-dualism]]"
   - "[[topics/free-will]]"
   - "[[causal-closure]]"
@@ -210,7 +209,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[the-reverse-inference]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemology]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]], [[topics/free-will]]
 
-**Varieties and context:** [[substance-property-dualism]], [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
+**Varieties and context:** [[substance-property-dualism]], [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
 
 **Alternative frameworks:** [[idealism]], [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]], [[russellian-monism-versus-bi-aspectual-dualism|Russellian monism vs bi-aspectual dualism]]
 

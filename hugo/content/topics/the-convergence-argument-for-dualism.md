@@ -106,7 +106,7 @@ The most serious challenge is that the independence is illusory: perhaps all ant
 
 One version: humans have an innate "dualist intuition" (Bloom), and all philosophical arguments are post-hoc rationalisations. If so, convergence reflects shared cognitive origins, not independent evidence.
 
-This faces empirical difficulties. Barrett et al.'s (2021) cross-cultural study across six populations found most participants defaulted to intuitive materialism, judging mental states cease at bodily death. Barlev and Shtulman (2021) argue dualist conceptions are learned rather than innate. Without a universal dualist intuition, it cannot be the common cause of dualist arguments. (See [intuitive-dualism](/concepts/intuitive-dualism/).)
+This faces empirical difficulties. Barrett et al.'s (2021) cross-cultural study across six populations found most participants defaulted to intuitive materialism, judging mental states cease at bodily death. Barlev and Shtulman (2021) argue dualist conceptions are learned rather than innate. Without a universal dualist intuition, it cannot be the common cause of dualist arguments. (See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/).)
 
 ### The Conceptual Confusion Hypothesis
 

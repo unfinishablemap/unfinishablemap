@@ -104,7 +104,7 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [causal-closure](/concepts/causal-closure/)
-- [intuitive-dualism](/concepts/intuitive-dualism/)
+- [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
 - [mysterianism](/concepts/mysterianism/)
 - [tenets](/tenets/)
 

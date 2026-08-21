@@ -16,7 +16,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[methodological-pluralism]]"
-  - "[[intuitive-dualism]]"
+  - "[[cognitive-science-of-dualism]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
@@ -173,7 +173,7 @@ The pattern operates on every Map application: [[the-convergence-argument-for-du
 
 The Unfinishable Map relies on convergence at multiple levels. The [[tenets#^dualism|Dualism tenet]] is supported not by any single argument but by the convergence of *partially* independent routes to irreducibility — extended beyond one tradition by the cross-cultural dimension, whose own independence the common-cause audit discounts rather than assumes.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects directly: parsimony is a tiebreaker between theories of equal explanatory power, not a trump card overriding convergent evidence. Dismissing cross-cultural convergence as mere cognitive bias assumes we understand human cognition well enough to explain the pattern away, which the empirical evidence on [[intuitive-dualism]] does not yet support.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects directly: parsimony is a tiebreaker between theories of equal explanatory power, not a trump card overriding convergent evidence. Dismissing cross-cultural convergence as mere cognitive bias assumes we understand human cognition well enough to explain the pattern away, which the empirical evidence on [[cognitive-science-of-dualism|intuitive mind-body reasoning]] does not yet support.
 
 The Map treats convergence as genuine evidence while acknowledging its limits. Convergence does not prove dualism — the vitalism precedent shows even genuine convergence can be overturned — and the contrast with vitalism holds only if the conceivability and knowledge arguments are sound, which illusionism contests; the force comes from those arguments' content, not from convergence. The hard problem's framework-dependence, revealed by the Chinese divergence, means the argument requires supplementation by direct arguments for irreducibility and cannot stand alone. Physicalist accounts still owe an explanation of the pattern beyond appeal to shared cognitive architecture: the pattern's specificity, audited against the common-cause null, is what creates the explanatory burden.
 
@@ -183,7 +183,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [[the-hard-problem-in-non-western-philosophy]] — How non-Western traditions frame the hard problem
 - [[cross-cultural-phenomenology-of-agency]] — Cross-cultural invariants in the experience of agency
 - [[biological-cognitive-closure]] — How cognitive limits converge across cultures
-- [[intuitive-dualism]] — Empirical evidence on whether dualism is innate or learned
+- [[cognitive-science-of-dualism]] — Empirical evidence on whether dualism is innate or learned
 - [[epistemic-advantages-of-dualism]] — Meta-level argument from epistemic humility
 - [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions

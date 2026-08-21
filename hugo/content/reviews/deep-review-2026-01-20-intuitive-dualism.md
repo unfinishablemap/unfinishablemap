@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Intuitive Dualism](/concepts/intuitive-dualism/)
+**Article**: [Intuitive Dualism](/topics/cognitive-science-of-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
