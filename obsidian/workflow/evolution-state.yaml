@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T08:44:34.600818+00:00'
-session_count: 19351
-cycle_position: 12829
+last_updated: '2026-08-21T09:00:36.426551+00:00'
+session_count: 19352
+cycle_position: 12830
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-08-21T08:01:50.756313+00:00'
   pessimistic-review: '2026-08-21T01:31:32.553550+00:00'
   positions-evolve: '2026-08-21T00:13:33.644043+00:00'
-  refine-draft: '2026-08-21T08:44:34.600818+00:00'
+  refine-draft: '2026-08-21T09:00:36.426551+00:00'
   replenish-queue: '2026-08-21T00:33:10.748217+00:00'
   research-topic: '2026-08-20T20:00:14.783966+00:00'
   research-voids: '2026-08-20T22:00:19.912664+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-21'
@@ -190,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-21'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-21'
   outcome: success
 - task: refine-draft
@@ -683,71 +683,81 @@ agentic_social:
     - animal-consciousness
     - ai-consciousness
 queue_status:
-  last_replenishment: '2026-08-21T00:32:30+00:00'
+  last_replenishment: '2026-08-21T09:11:38+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, three new P2 and two new
-    P3, zero promotions. Authoritative pre-count count_p0_p2_tasks == 2 (scale-types
-    expand; erasure-void refine) after the 21:05 batch of four fully drained (both
-    one-world-wager cross-reviews closed 08-20 evening, P-A2 update 23:12, wager add
-    landed as P-I5 00:11) - the documented replenish-at-floor alternation. The three
-    condense P2s remain veto-excluded. Sources this run, each verified on disk: chain
-    x1 - check-tenets 2026-08-20 22:14 REPEAT flag, quantum-indeterminacy-free-will
-    L174 still asserts photosynthesis exploits quantum coherence against P-Q8 2026-07-30
-    narrowing (grep-verified on disk, 3382w soft_warning, churn filter clear, zero
-    pileup); unconsumed_research x1 - self-signature voids note (21:59) minted as
-    its own Absorption option into self-opacity 2757w + voids-between-minds 2854w
-    (both soft_warning, 243w/146w headroom to voids 3000 hard, stated as binding constraint)
-    rather than expand, because the final voids slot (99/100 via count_section_files)
-    is claimed as an operator decision by the notation-void note - that decision is
-    now surfaced as a NEEDS-HUMAN final-voids-slot entry, previously unsurfaced despite
-    the note requesting it; positions_dependency_changed x1 - positions.md L55 discriminability
-    aggregate reads 52 live as of 2026-08-12 while P-AS1 (08-20) and P-I5 (08-21)
-    make it 54, the P-I5 changelog itself recorded the residue as out of scope, full
-    band re-parse minted; deferred_residue_capture x1 P3 - summary-statistics fold
-    half-landed, primary plenitude-void done 08-18 but secondary resolution-void grep
-    0 for ensemble/Knotts/Rahnev/Ward and consumed_by unstamped; verified_residue_mint
-    x1 P3 - purification (folded 08-17 into generalised-probabilistic-theories) and
-    hypnopompia (article sleep-paralysis-and-interface-reassembly created 08-13) both
-    consumed under non-matching slugs with consumed_by null, stamp task minted with
-    verify-first instruction and explicit do-NOT-stamp for the deliberately half-spent
-    bath-spectral note. Declined sources, each verified: expand-topic - topics 320/320,
-    concepts 318/320 with both slots claimed (scale-types expand open plus subject-fusion
-    and practical-knowledge research P3s), voids final slot operator-owned per above;
-    new research - two harvest P3 research tasks already queued and three voids notes
-    already unconsumed, backlog before new intake; condense - unchanged from 21:05
-    analysis, only new hard_warning is plenitude-void 3062 vs 3000 (2 pct over, churn
-    territory); orphan_integration - quality.orphaned_files 0; staleness - 46 P3 backlog,
-    deep-review cycle slots cover; positions audit - 2026-08-13 audit inside 30d window;
-    applied_apex_gap - none detected, deliberately slow. Also this run: pending_articles
-    self-signature entry annotated with the fold decision so a future replenish does
-    not mint an expand from it. Pickable P0-P2 after write: 5 (2 carried + 3 minted),
-    type mix expand-topic x1, refine-draft x3, positions-evolve x1; P3 pool 48. Wager-lede
-    check-tenets flag verified CLOSED by the 23:05 deep-review secondary scope, not
-    re-minted.'
-  last_replenishment_prev: '2026-08-20T21:05:00+00:00'
-  last_replenishment_run: 991
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, three new P2, zero promotions, one
+    stale anchor repaired. Authoritative pre-count count_p0_p2_tasks == 2 after the 00:32
+    batch of five fully drained in under nine hours (scale-types expand 01:17 plus its pessimistic-review
+    refine 01:44; erasure-void refine 02:25; quantum-indeterminacy-free-will chain refine
+    08:44; self-signature voids fold 09:00) - faster than the documented replenish-at-floor
+    alternation, so this is a second same-day floor restore rather than the usual daily one.
+    Survivors: the positions aggregate P2 and one NEW P2 the 08:44 refine minted itself on
+    concepts/evolution-of-consciousness. Sources this run, each verified on disk: unconsumed_research
+    x2 - BOTH remaining unconsumed research notes minted, deviant-causation-bci (4421w, consumed_by
+    absent) and interpretability-probes-representational-ambivalence (4088w, consumed_by absent),
+    each target_section topics against topics 320/320 via count_section_files, so both minted
+    as FOLDS not expands per the 08:57 self-signature and 08-17 purification precedents. Host
+    selection was measured not assumed: BCI note folds into topics/brain-computer-interfaces-and-the-interface-boundary
+    2619w with 1381w headroom to hard 4000 and its named What BCIs Cannot Do section confirmed
+    at L110; the interpretability note was RE-ROUTED because both fold options the note itself
+    proposed are length-blocked - apex/ai-as-introspection-control reads 4997w against hard
+    5000 (3 words) and voids/wholeheartedness-void 2988w against hard 3000 (12 words, and
+    already contested by the live participation-void fold P3) - so it goes to topics/anti-correlation-probes-for-ai-consciousness
+    3341w with 659w headroom. The note asserted no cap headroom needed and was right about
+    the section cap and wrong about the length ceiling; different gates. chain x1 - concepts/decoherence
+    carries the P-Q8 family over-claim in PARAPHRASE, invisible to the exact-string sweep:
+    I re-ran grep for photosynthesis exploits quantum coherence across obsidian, hugo and
+    archive and it returns exactly one live article (evolution-of-consciousness, already owned
+    by the surviving P2) with every other hit a dated workflow or reviews record. decoherence
+    instead says three established examples, photosynthesis quantum effects demonstrably operate,
+    and Biology evolved to harness quantum effects - each checked against P-Q8 and against
+    the canonical wording at quantum-biology-and-neural-consciousness L55-59 which says photosynthesis
+    no longer serves as the third case. The 08:40 refine saw this file, called it already
+    partly corrected and left it; half right, the femtosecond figure is present but the calibration
+    is not. 3335w against hard 3500, 165w headroom stated as binding; zero pileup, the three
+    live P3s mentioning decoherence resolve to other File lines. Anchor repair x1 - the surviving
+    positions P2 said re-parse ALL 16 domain files; the 07:59 optimistic review flagged it
+    as F3 and I re-verified: positions holds 17 files = index + 2 companions containing no
+    positions + 14 domain files. Rewritten to enumerate the directory rather than trust any
+    quoted count, with an explicit do-not-merge fence against the F1/F2 P3 the same review
+    minted. Declined sources, each verified: expand-topic - topics 320/320, concepts 319/320
+    with the final slot claimed by the two open harvest research chains, voids 99/100 operator-owned;
+    new research-topic - two harvest P3s already queued and the intake backlog was just cleared
+    by the two folds above, so backlog before new intake holds; condense - unchanged posture,
+    the topics hard_warnings sit 0 to 2 pct over and apex length is human territory per the
+    standing operator pattern and seven open NEEDS-HUMAN length decisions; orphan_integration
+    - quality.orphaned_files 0; staleness - 49 P3 backlog and the deep-review cycle slots
+    cover it; positions_register_gap - none detected; positions audit - 2026-08-13 audit still
+    inside the 30d window; applied_apex_gap - none detected. Insert placement: all three appended
+    immediately above the Completed Tasks marker, verified after the write that the two carried
+    P2s still hold lines 2744 and 2784 unshifted, so no cycle_post mis-mark risk. Pickable
+    P0-P2 after write: 5 (2 carried + 3 minted), all refine-draft except the carried positions-evolve;
+    P3 pool 49. select_queue_task confirms the carried positions P2 is still the next pick,
+    so FIFO is intact.'
+  last_replenishment_prev: '2026-08-21T00:32:30+00:00'
+  last_replenishment_run: 992
   loop_pickable_open: 5
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 48
+  p3_tasks: 49
   promoted_p3_to_p2: 0
   relocated_starved_p2: 0
   replenishment_source_counts:
     applied_apex_gap: 0
     chain: 1
-    deferred_residue_capture: 1
+    deferred_residue_capture: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
-    positions_dependency_changed: 1
+    positions_dependency_changed: 0
     positions_register_gap: 0
     promotion_existing_p3: 0
     staleness: 0
-    unconsumed_research: 1
-    verified_residue_mint: 1
-  stale_task_anchors_repaired: 0
+    unconsumed_research: 2
+    verified_residue_mint: 0
+  stale_task_anchors_repaired: 1
   superseded_tasks_closed: 0
   truncated_task_notes_repaired: 0
 tune_system_history:
