@@ -20,7 +20,7 @@ related_articles:
   - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-08-21
 last_curated:
 last_deep_review: 2026-08-21T02:51:23+00:00

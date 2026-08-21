@@ -41,13 +41,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-08-21)
 - **Type**: refine-draft
-- **Notes**: Transcript 87b4fdf4-3076-4b4e-bf1a-07d0cf869682.jsonl shows 30x claude-opus-5 message(s) alongside the primary model between 2026-08-21T06:04:02.833000+00:00 and 2026-08-21T06:36:45.365000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-  **DRIVER TRIAGE 2026-08-21 (census done, likely NO-OP):** this transcript is the loop DRIVER session, and its 06:04-06:36 window covers only the `commission-claude-review` and `commission-gemini-review` forks plus cycle_post bookkeeping. Neither commission skill writes article content (they drive Chrome and write `pending-reviews.yaml`), so no `ai_system` stamp is implicated. Confirm against changelog before closing, but expect no-op. NOTE the sibling task below (agent-a38019ad903204784) IS a real gap — see its triage line.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-21
-
-### P2: Verify ai_system attribution after model-fallback event (2026-08-21)
-- **Type**: refine-draft
 - **Notes**: Transcript agent-a38019ad903204784.jsonl shows 100x claude-opus-5 message(s) alongside the primary model between 2026-08-21T02:42:36.895000+00:00 and 2026-08-21T02:53:46.966000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
   **DRIVER TRIAGE 2026-08-21 (census done, REAL GAP — actionable):** this transcript is the `deep-review` fork that reviewed `obsidian/concepts/scale-types-for-phenomenal-quantities.md` and committed it as `837409c386` (06:04). Dominant==foreign==claude-opus-5 is the session-stick shape, so treat the WHOLE pass as opus-5 work. That pass made substantive content changes (7 medium fixes, a citation-framing widening, a new Nagarjuna paragraph, Michell 2000 added), yet the article's frontmatter still reads `ai_system: claude-fable-5` from its 01:17 expand-topic create. FIX: append plus-joined -> `claude-fable-5+claude-opus-5`. Check whether any self-citation pseudonym needs the opus form per expand-topic SKILL.md 5.5. Do NOT bump `ai_modified`/`last_deep_review` for a pure attribution correction. Sync both trees after.
 - **Source**: check-model-fallback
@@ -2811,6 +2804,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-21: Verify ai_system attribution after model-fallback event (2026-08-21)
+- **Type**: refine-draft
+- **Notes**: Transcript 87b4fdf4-3076-4b4e-bf1a-07d0cf869682.jsonl shows 30x claude-opus-5 message(s) alongside the primary model between 2026-08-21T06:04:02.833000+00:00 and 2026-08-21T06:36:45.365000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+  **DRIVER TRIAGE 2026-08-21 (census done, likely NO-OP):** this transcript is the loop DRIVER session, and its 06:04-06:36 window covers only the `commission-claude-review` and `commission-gemini-review` forks plus cycle_post bookkeeping. Neither commission skill writes article content (they drive Chrome and write `pending-reviews.yaml`), so no `ai_system` stamp is implicated. Confirm against changelog before closing, but expect no-op. NOTE the sibling task below (agent-a38019ad903204784) IS a real gap — see its triage line.
 
 ### ✓ 2026-08-21: Ship the deferred erasure-void pointer from the report-latency fold — the named blocker landed 16:31 and the one licensed sentence is now owed
 - **Type**: refine-draft
