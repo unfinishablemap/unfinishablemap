@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-08-20 16:26:44+00:00
+ai_modified: 2026-08-21 02:23:18+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-23 01:36:29+00:00
-lastmod: 2026-08-20 16:26:44+00:00
+lastmod: 2026-08-21 02:23:18+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -80,7 +80,7 @@ The olfactory case also supplies the cleanest instance of a general consequence 
 
 The erasure void has a distinctive phenomenology, or rather a distinctive absence of one. Other voids announce themselves: the [self-transcendence-void](/voids/self-transcendence-void/) produces the vertigo of trying to step outside one's own perspective; the [inaccessible-past](/voids/inaccessible-past/) produces the ache of memories that resist re-entry; the [observation-and-measurement-void](/voids/observation-and-measurement-void/) produces the felt impossibility of catching oneself in the act of measurement. These voids are experienced as voids.
 
-The erasure void produces no experiential marker at all. There is no felt gap, no sense of loss, no shadow where the missing capacity used to be. The world simply appears complete. This is what makes it singularly insidious: voids that announce themselves can be approached, mapped, even respected. A void with no phenomenal signal cannot be approached at all from the inside.
+The erasure void produces no experiential marker at all. There is no felt gap, no sense of loss, no shadow where the missing capacity used to be. The world simply appears complete. This is what makes it singularly insidious: voids that announce themselves can be approached, mapped, even respected. A void with no phenomenal signal cannot be approached at all from the inside. Report latency, treated in full in the "Before Distortion" section of [affective-forecasting-gap](/concepts/affective-forecasting-gap/), is a further absence-of-absence mechanism in the same occluded family, and a distinct one: in erasure the capacity and its detection mechanism are lost together, so the subject cannot register the loss, whereas in report latency the experience may have been fully present and even outwardly acted upon, and it is the trace that never forms—a failure that, unlike erasure, can be caught from outside with a faster probe, which is what makes it tractable.
 
 Occasional glimpses do occur. An old recording reveals a vocabulary one no longer commands. A friend describes a project one undertook with mastery that no longer feels available. These moments produce a peculiar disturbance—not the frustration of forgetting but the recognition that the inventory of self has been revised downward without notification, and may have been revised many times before.
 
@@ -136,6 +136,7 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [personal-identity](/topics/personal-identity/)
 - [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
 - [voids-olfactory-void-2026-08-13](/research/voids-olfactory-void-2026-08-13/)
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-20 01:34:00+00:00
+ai_modified: 2026-08-21 02:23:18+00:00
 ai_system: claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -22,15 +22,19 @@ consumed_note: 'FOLDED across three hosts rather than spent as the last voids sl
   state has went to [[sleep-consciousness-void]]. DELIBERATELY NOT FOLDED: [[edge-states-and-void-probes]],
   the article this note most directly discounts, sits at 3561 words hard_warning under
   a standing human length decision, so the exposure is recorded for the operator rather
-  than fixed by an automated pass. [[erasure-void]] deferred behind the open olfactory-void
-  fold task to avoid same-file pileup. [[anaesthesia-and-the-consciousness-interface]]
+  than fixed by an automated pass. [[erasure-void]] fold landed 2026-08-21 (the 2026-08-20
+  olfactory-void fold discharged the deferral): one sentence in The Phenomenology
+  of Absence-of-Absence presenting report latency as a distinct absence-of-absence
+  mechanism (trace-formation failure, catchable from outside with a faster probe)
+  beside erasure''s comparator loss, linking [[affective-forecasting-gap]], plus a
+  Further Reading line; anaesthesia figures deliberately not duplicated. [[anaesthesia-and-the-consciousness-interface]]
   excluded at 3999 words against a 4000-word hard ceiling.'
 created: 2026-08-16
-date: &id001 2026-08-20
+date: &id001 2026-08-21
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-20 01:34:00+00:00
+lastmod: 2026-08-21 02:23:18+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

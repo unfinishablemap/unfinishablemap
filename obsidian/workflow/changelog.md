@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-21T01:42:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-21T02:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/erasure-void]]
+- **Original score**: no numeric score (scripts/curate.py review tool absent); task = deferred chain-successor fold from [[research/voids-report-latency-void-2026-08-16]], unblocked by the 2026-08-20 olfactory-void fold (commit 0113b28bc5)
+- **Changes**: (1) one sentence appended to The Phenomenology of Absence-of-Absence presenting report latency as a further absence-of-absence mechanism in the same occluded family and a distinct one — erasure loses the capacity and its detection mechanism together (comparator loss, per the Population-Scale Anchor section's framing), report latency loses the trace while the experience may have been fully present and even outwardly acted upon — catchable from outside with a faster probe, which is what makes it tractable; links [[affective-forecasting-gap]], whose Before Distortion section carries the full treatment. Anaesthesia figures (ConsCIOUS-1, SNAP-1, NAP5) deliberately NOT imported per the fold design — they live in the host article. (2) [[affective-forecasting-gap]] added to Further Reading. (3) research note consumed_note updated to record the fold landed (was: "deferred behind the open olfactory-void fold task"), so replenish stops reading the fold as owed
+- **Engagement classification** (editor-internal): none — no named-opponent reply added; mechanism-taxonomy integration only
+- **Length**: 2670 → 2759 by `analyze_length` (+89; voids hard threshold 3000, status soft_warning unchanged)
+- **Published**: yes
+
 ## 2026-08-21T01:42 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/scale-types-for-phenomenal-quantities]]
