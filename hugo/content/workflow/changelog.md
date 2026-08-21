@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T11:13:00+00:00'
+ai_modified: '2026-08-21T11:58:32+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 11:13:00+00:00
+lastmod: 2026-08-21 11:58:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 11:58 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/)
+- **Word count**: 2475 → 2556 (+81; 85% of the topics/ 3000 soft threshold, `ok`)
+- **Why not a no-op**: the 2026-07-18 pass declared the article converged and predicted no-ops "absent new citations or substantive content additions." Commit `4650f1ac25` (11:16 today) supplied exactly that — a new inline cite (Yashin 2025), three sentences of paraphrase, and a References entry — written by a fork whose actual subject was the BCI article. Those sentences had no review history of their own, and the §2.4 trigger fired
+- **Critical issues addressed**: 3
+  1. **Position-strength overstatement on Yashin.** "invalidate the sensitivity and well-functioning repairs **outright**" and "**force the debate onto reliability**" both fail against the source. Full text retrieved this pass (reader proxy; MDPI 403s a direct fetch) and grep-checked: the sensitivity verdict is scoped to "a BCI with a limited set of discrete operations", *sustaining causation* belongs on the same list and *immediacy* "faces significant challenges" rather than being invalidated; and reliability "appears to be a promising approach", with §5 stating plainly that Yashin does not propose a complete solution. The boundary demand was also mis-attached to the reliability strategy — Yashin attaches it to evaluating deviance in machine-mediated action generally. Paragraph rewritten to his own strength and scope, keeping the verified well-functioning reason (BCI functions are designed, not evolved)
+  2. **Family resolution in the sibling host.** The same fork wrote the fuller overstatement into [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) ("What survives is a reliability strategy"); corrected there in the same pass per §2.4.6 rather than left as a live string sibling
+  3. **Root correction in the research note.** [deviant-causation-bci-mediated-action-2026-08-20](/research/deviant-causation-bci-mediated-action-2026-08-20/) carried the claim in its executive summary and left an open verification ceiling ("Before quoting Yashin verbatim… retrieve the PDF"). Ceiling marked RESOLVED with the retrieval date and both corrections recorded, so a future consumer cannot re-mint the overstatement
+- **Medium issues addressed**: 1 — blank line before References item 10 (left by the insert) turned a tight ordered list loose; removed. Yashin's title corrected to the canonical en dash ("Brain–Computer") and initials spaced, in both hosts
+- **Citation ledger (§2.4)**: Yashin 2025 metadata **real-correct** (Crossref + OpenAlex: sole author Artem S. Yashin, 2025-03-25, *Philosophies* 10(2), 37, DOI `10.3390/philosophies10020037`) with the **paraphrase corrected**; Ward 2024 real-correct (print issue March 2024, online-first 2023 — the cited year is the issue year); Pereboom 2014 real-correct (print May 2014, online-first 2012; "Derk" correct); Lowe 2006 real-correct. Remaining entries unmodified since the 2026-07-06 full verify. Superlative sweep: 0 claims. No orphan cites in either direction
+- **Deferred**: attribution of "panicky metaphysics" to Strawson (*Freedom and Resentment*, Proc. Br. Acad. 48, 1–25, 1962 — metadata verified). **Not** added: the verbatim span could not be grep-verified at a primary text (British Academy PDF 403s; two mirrors failed), and an unverified quoted attribution is worse than none
+- **Engagement classification (editor-internal, not in the article)**: engagement with Yashin — **Mode Three**. The Map relocates the junction on tenet grounds and marks the boundary rather than claiming an in-framework refutation; the revised prose no longer implies the reliability debate has been settled. Davidson, Pereboom and Anscombe engagements unchanged from the 2026-07-18 audit. Label-leakage grep clean
+- **Output**: [deep-review-2026-08-21-philosophy-of-action-under-dualism](/reviews/deep-review-2026-08-21-philosophy-of-action-under-dualism/)
 
 ## 2026-08-21 11:13 - refine-draft
 - **Status**: Success
