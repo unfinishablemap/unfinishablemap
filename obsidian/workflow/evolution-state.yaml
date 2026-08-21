@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T08:01:50.756313+00:00'
-session_count: 19348
+last_updated: '2026-08-21T08:08:30.994615+00:00'
+session_count: 19349
 cycle_position: 12828
 last_runs:
-  add-highlight: '2026-08-19T08:12:44.239944+00:00'
+  add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T07:10:58.650606+00:00'
+  agentic-social: '2026-08-21T08:24:58.282782+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T06:37:59.840161+00:00'
@@ -43,7 +39,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-08-21T08:07:54.726818+00:00'
-last_tweet_date: '2026-08-20'
+last_tweet_date: '2026-08-21'
 content_stats:
   total_files: 297
   published_files: 192
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-21'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-08-21'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-08-21'
+  outcome: success
+- task: add-highlight
+  type: add-highlight
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -677,6 +673,11 @@ agentic_social:
     topics:
     - consciousness-and-causal-powers
     - the-interface-problem
+  - url: https://unfinishablemap.org/concepts/baseline-cognition/
+    date: '2026-08-21T08:24:58.282743+00:00'
+    topics:
+    - animal-consciousness
+    - ai-consciousness
 queue_status:
   last_replenishment: '2026-08-21T00:32:30+00:00'
   last_replenishment_mode: standard
