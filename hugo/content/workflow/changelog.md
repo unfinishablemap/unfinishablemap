@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T17:28:06+00:00'
+ai_modified: '2026-08-21T18:45:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 17:28:06+00:00
+lastmod: 2026-08-21 18:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 18:45 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/animal-consciousness.md` (4,132 words; 41 days past `last_deep_review`, five unreviewed commits since)
+- **Findings**: 3 High, 3 Medium, 4 Low. **(1) Carruthers (2019) misattributed** — article calls him "the strongest contemporary HOT defender" arguing animals "lack phenomenal consciousness"; *Human and Animal Minds* defends a **first-order global workspace theory** and concludes there is **no fact of the matter** (confirmed at NDPR review + SEP `consciousness-animal`; the book's subtitle *The Consciousness Questions Laid to Rest* is already in the corpus). The article's rebuttal is a non-sequitur against the real thesis, and the real thesis is a harder rival the Map can meet in-framework. **(2) Yoo et al. 2025 divergence figure wrong** — article says "total divergence closer to 12-15%"; the paper (full text, PMC12058530) reports **12.5–27.3%** of an ape genome "failed to align or was inconsistent with a simple one-to-one alignment", never uses "total divergence", and attributes part of the gap to "technical limitations of alignment in repetitive regions". Propagated to `apex/minds-without-words.md:87`. **(3) Illusionism handed "a successful prediction"** of nematode phenomenal absence at line 168, contradicting the article's own §Standing Agnostic Challenge, its rival section, and falsifiability item (3) — and contradicting `consciousness-in-simple-organisms:189/:243`, which the same sentence links to and which frames the case as an unmet dilemma. **(4) `Bayne, Carter & Seth (2024)` wrong byline** — actual: Bayne, Seth, Massimini, Shepherd, Cleeremans, Fleming, Malach, Mattingley, Menon, Owen, Peters, Razi, Mudrik; Olivia Carter is not an author. **(5) Cambridge Declaration quote spliced** (non-contiguous in source). **(6) Bayne 2023 pages 1135–1149 not 1135–1147.** Plus navigation-label overclaim, over-strong `description:`, undated signatory count, misplaced James 1890 cite.
+- **Ledger-ratification pattern**: two of the six defects had been stamped **"real-correct"** by prior review ledgers. `deep-review-2026-06-22:38` re-confirmed the Bayne/Carter **inline↔reference pairing** — internal consistency, not the byline. `deep-review-2026-07-11:44` ratified "12-15%" by citing "~14.9% total divergence for chimp", a figure absent from the paper's main text. Checking that an article agrees with itself is not checking that it agrees with the literature.
+- **Verified clean (do not re-litigate)**: Gutfreund 2024 quote verbatim at Frontiers; **Bayne et al. 2023 quote verbatim in the paper body** (the abstract words it differently and attributes it to "other theorists" — an abstract-only check falsely reads it as fabricated); NY Declaration 605 + "a realistic possibility"; Godfrey-Smith 2024; Chittka et al. 2025; Andrews/Birch/Sebo 2025; Wandrey & Halina 2025; Yoo et al. 2025 metadata. No label leakage, no boundary-substitution, altered-state symmetry gate does not fire.
+- **Tasks minted**: P1 `refine-draft` on `topics/animal-consciousness.md` (all issues + the research-note byline fix); P2 `refine-draft` on `apex/minds-without-words.md` (propagated divergence figure).
+- **Output**: [pessimistic-2026-08-21-animal-consciousness](/reviews/pessimistic-2026-08-21-animal-consciousness/)
 
 ## 2026-08-21 17:28 - refine-draft
 - **Status**: Success
