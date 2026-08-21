@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-21 01:14:28+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-21 17:13:46+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -21,8 +21,8 @@ description: Science requires measurement standards—units, instruments, calibr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-27 00:31:37+00:00
-lastmod: 2026-08-21 01:14:28+00:00
+last_deep_review: 2026-08-21 17:13:46+00:00
+lastmod: 2026-08-21 17:13:46+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -33,6 +33,7 @@ related_articles:
 - '[[consciousness-defeats-explanation]]'
 - '[[observation-and-measurement-void]]'
 - '[[the-quantitative-comprehension-void]]'
+- '[[scale-types-for-phenomenal-quantities]]'
 title: Consciousness and the Problem of Measurement Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -48,7 +49,7 @@ This absence of phenomenal measurement standards connects the [hard problem of c
 
 Physical measurement rests on a triad. Each element involves assumptions that break down for phenomenal experience.
 
-**Units** define what counts as a standard quantity. The metre, the kilogram, the second — each carves out a reproducible, public, observer-independent quantum of the thing being measured. Units require that the measured quantity be decomposable into identical, additive portions. Two kilograms is precisely twice one kilogram. Two metres laid end to end equal one two-metre length. This additivity reflects the quantity's structural properties — properties that obtain independently of who is measuring.
+**Units** define what counts as a standard quantity. The metre, the kilogram, the second — each carves out a reproducible, public, observer-independent quantum of the thing being measured. Units require that the measured quantity be decomposable into identical, additive portions — on the classical, concatenation-based account of fundamental measurement. Two kilograms is precisely twice one kilogram. Two metres laid end to end equal one two-metre length. This additivity reflects the quantity's structural properties — properties that obtain independently of who is measuring. Concatenation is the paradigm route to a unit rather than the only one, and [the units section below](#why-phenomenal-quantities-resist-units) states the qualification measurement theory imposes on any argument from its absence.
 
 **Instruments** detect the quantity and transduce it into a readable form. A thermometer converts thermal energy into mercury displacement; a spectrometer converts photon wavelength into detector signals. Instruments work because the measured quantity has causal effects that can be reliably transduced — effects that are public and repeatable.
 
@@ -58,17 +59,19 @@ Physical measurement rests on a triad. Each element involves assumptions that br
 
 Consider pain intensity. We have scales — the visual analogue scale (VAS), the McGill Pain Questionnaire, the 0-10 numerical rating. These capture something. But they do not establish a unit of pain.
 
-The problem goes deeper than imprecision: pain intensity lacks the structural properties that units require. There is no principled answer to whether the difference between pain-level-3 and pain-level-5 is the "same amount" as the difference between pain-level-7 and pain-level-9. The question assumes that phenomenal pain occupies a metric space with equal intervals — that it has the additive structure of physical quantities. Nothing about the phenomenology of pain guarantees this. Two simultaneous pains do not necessarily produce a pain whose intensity is the sum of the individual intensities. Pains interact, modulate, mask, and amplify each other in ways that violate additivity.
+The problem goes deeper than imprecision: nothing establishes that pain intensity has the structural properties a unit requires. There is no principled answer to whether the difference between pain-level-3 and pain-level-5 is the "same amount" as the difference between pain-level-7 and pain-level-9. The question assumes that phenomenal pain occupies a metric space with equal intervals — that it has the structure physical quantities have. Nothing about the phenomenology of pain guarantees this, and whether the axioms that would settle it hold for pain intensity is an open empirical question rather than a closed one; [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) runs the scale-type ladder attribute by attribute. Concatenation fares no better: two simultaneous pains do not necessarily produce a pain whose intensity is the sum of the individual intensities, and pains interact, modulate, mask, and amplify each other in ways that violate additivity.
 
 This reflects the nature of [phenomenal experience](/concepts/phenomenal-consciousness/) itself rather than any measurement artefact. Physical quantities like mass are *extensive* — they combine additively because mass is a feature of objects that can be spatially juxtaposed. Phenomenal quantities are features of a subject's experience, integrated within a unified field of consciousness. The unity of experience means phenomenal quantities cannot be cleanly decomposed and recomposed. There is no "unit of blueness" for the same reason there is no unit of meaning: the thing being measured is constitutively holistic.
 
-One refinement matters: in measurement theory, additive decomposability is sufficient for quantitative structure but not necessary. Conjoint measurement (Luce and Tukey 1964) constructs interval scales from trade-off orderings alone, without any concatenation operation, so the unit argument cannot rest on non-additivity by itself. Its defensible forms run through the failure — or untested status — of the difference and conjoint axioms for each phenomenal attribute, or through the holism of the experiential field just described; [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) develops this refinement and the axiomatic framework behind it.
+Measurement theory sharpens this argument rather than underwriting it wholesale. Additive decomposability is sufficient for quantitative structure but not necessary: conjoint measurement (Luce and Tukey 1964) constructs interval scales from trade-off orderings alone, without any concatenation operation, so the unit argument cannot rest on non-additivity by itself. Its defensible forms run through the failure — or untested status — of the difference and conjoint axioms for each phenomenal attribute, or through the holism of the experiential field just described; [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) develops this refinement and the axiomatic framework behind it.
 
 ## Why Phenomenal Instruments Cannot Be Built
 
 A physical instrument detects its target quantity through causal interaction. A voltmeter measures voltage because voltage drives current through the meter's circuit. The instrument works because the measured quantity has publicly accessible causal effects.
 
 Phenomenal consciousness has no publicly accessible causal effects of the right kind. [Neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/) (NCCs) are public — EEG traces, fMRI activations, single-neuron recordings are all third-person data. But NCCs are correlates, not measurements. They detect brain states that *accompany* reported experience. The leap from "this brain state correlates with reported pain" to "this brain state measures pain intensity" requires exactly the thing that is missing: an independent standard against which to validate the instrument.
+
+Browning and Veit (2020) give this difficulty its contemporary name — "the measurement problem of consciousness," the question of "by what methods can we determine the presence of and properties of consciousness" — and extend it along an axis this article has not pursued. Indicators calibrated on the contrast between conscious and unconscious processing in humans face an *indicator validity* problem when transferred to other organisms, and an *extrapolation* problem when transferred to artificial systems, because the human contrast that validated them does not carry over. They read the problem as urgent and unsolved rather than permanent, and recommend precaution while it stands. The Map makes the stronger claim that the obstacle is structural; the disagreement is over the diagnosis, not over what is missing now.
 
 The situation differs fundamentally from early thermometry. Before standardised temperature scales, different thermoscopes gave different readings. But thermoscopes could be *calibrated* because temperature is a public quantity — two thermoscopes in the same water bath should agree, and when they do not, the problem is instrumental. For phenomenal quantities, there is no equivalent of the shared water bath. Two subjects reporting pain "of the same intensity" may be experiencing qualitatively different states that happen to receive the same numerical label. No third-person instrument can determine whether they are, because the quantity being "measured" is accessible only from the first-person perspective.
 
@@ -116,7 +119,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 ## Further Reading
 
-- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that carries this article's structural limit into programme appraisal, including its unreconciled tension with the interface programme's phenomenal-metrics progress condition
+- [Judging the Map as Science](/apex/judging-the-map-as-science/) — The applied synthesis that carries this article's structural limit into programme appraisal, including the unreconciled tension it identifies between that limit and the interface programme's phenomenal-metrics progress condition
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [introspection](/concepts/introspection/)
@@ -130,6 +133,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 ## References
 
+1. Browning, H., & Veit, W. (2020). "The Measurement Problem of Consciousness." *Philosophical Topics* 48(1), 85-108.
 1. Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Luce, R. D., & Tukey, J. W. (1964). "Simultaneous conjoint measurement: A new type of fundamental measurement." *Journal of Mathematical Psychology* 1(1), 1-27.

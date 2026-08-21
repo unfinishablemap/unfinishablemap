@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-21
-ai_modified: 2026-08-21 02:51:23+00:00
+ai_modified: 2026-08-21 17:13:46+00:00
 ai_system: claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 02:51:23+00:00
-lastmod: 2026-08-21 02:51:23+00:00
+lastmod: 2026-08-21 17:13:46+00:00
 modified: *id001
 related_articles:
 - '[[judging-the-map-as-science]]'
@@ -44,11 +44,11 @@ RTM is also silent on realism about the measured attribute: its theorems serve q
 
 ## From the Ferguson Committee to Conjoint Measurement
 
-The framework's history explains why the Map cannot rest its measurement arguments where they currently rest. In the 1930s the British Association's Ferguson committee examined whether sensation intensity is measurable; the physicists' position, as Tal summarises Norman Campbell: "Since intensities of sensation cannot be concatenated to each other in the manner afforded by lengths and weights, there could be no fundamental measurement of sensation intensity" (Tal 2020; Ferguson et al. 1940). Stevens's countermove was definitional: he redefined measurement as the "assignment of numerals to objects or events according to rules" (Stevens 1951: 1, quoted in Tal 2020), under which his sone scale of loudness counts as measurement because the assignment rule is consistent.
+The framework's history explains why the Map's measurement arguments needed refining. In the 1930s the British Association's Ferguson committee examined whether sensation intensity is measurable; the physicists' position, as Tal summarises Norman Campbell: "Since intensities of sensation cannot be concatenated to each other in the manner afforded by lengths and weights, there could be no fundamental measurement of sensation intensity" (Tal 2020; Ferguson et al. 1940). Stevens's countermove was definitional: he redefined measurement as the "assignment of numerals to objects or events according to rules" (Stevens 1951: 1, quoted in Tal 2020), under which his sone scale of loudness counts as measurement because the assignment rule is consistent.
 
 Sociologically Stevens won; formally, both sides were superseded. Against Stevens, the axiomatic school showed that rule-governed assignment is not sufficient — representation must be earned by axioms, which is why RTM abandoned his permissive definition. Against Campbell, Luce and Tukey (1964) proved that **conjoint measurement** delivers interval-scale representations of two attributes from a qualitative ordering of their joint effects alone, given cancellation axioms — no concatenation operation required. Additivity-via-concatenation is sufficient for quantitative structure, not necessary.
 
-That second result bears directly on the Map's own corpus. [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) argues the unit failure from non-additivity — "Units require that the measured quantity be decomposable into identical, additive portions" — and pains interact and mask in ways that violate additivity. Conjoint measurement is the standard rejoinder to exactly this argument form: quantitative structure does not require that instances of the attribute be additively decomposable, only that trade-off orderings satisfy the cancellation conditions.
+That second result bears directly on the Map's own corpus. [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) states the unit requirement in classical form — "Units require that the measured quantity be decomposable into identical, additive portions" — and notes that pains interact and mask in ways that violate additivity. Conjoint measurement is the standard rejoinder to that argument form: quantitative structure does not require that instances of the attribute be additively decomposable, only that trade-off orderings satisfy the cancellation conditions.
 
 Whether the conjoint route works for psychological attributes is contested from both directions. Ho, Landy, and Maloney (2008) ran the conjoint axiom tests inside perception, on observers' judgments of gloss and surface texture, and the additive representation survived — an existence proof that the axioms are checkable in practice, though for structures of *perceptual comparison judgments about stimuli*, whose promotion to phenomenal quantities is the bridge the [ladder below](#the-scale-type-ladder-for-phenomenal-quantities) polices. Trendler (2009; 2019) argues the opposite: testing the cancellation axioms requires experimental control — isolation, manipulation, an error theory — that psychological attributes do not admit, and the maximum-likelihood conjoint method fits a model rather than testing cancellation directly, so the conjoint programme is unrealisable for psychology at large. The Map leans on neither side uncritically. What the debate settles is narrower: a unit argument for phenomenal quantities cannot rest on non-concatenability alone. Its honest forms are either per-attribute — the difference and conjoint axioms fail, or remain untested, for *this* phenomenal attribute — or holistic, resting on the unity of the experiential field that the measurement-standards article already invokes. That refinement strengthens the argument by moving it off the ground Luce and Tukey took away.
 

@@ -79,4 +79,3 @@ None.
 - Bedrock disagreements (eliminativist/empiricist rejection of "phenomenal consciousness" as a measurable category; Many-Worlds inapplicability) are settled and must not be re-flagged.
 - The evidential-status register ("consistent with the dualist prediction," not "establishes dualism") is correct and load-bearing; future condensation must not strip the "consistent with" / "independent support" / "may be the correct one" hedges into stronger claims.
 - A future pass need not re-run the full citation web-verification unless citations are added or modified. Continue to deprioritise this article for further deep review — convergence damping should now divide its raw selection score by ~3.1 (seven prior review files).
-</content>
