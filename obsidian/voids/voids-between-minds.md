@@ -4,7 +4,7 @@ description: "Three structural limits on access between consciousnesses—existe
 created: 2026-01-27
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-08-17T11:11:04+00:00
+ai_modified: 2026-08-21T08:57:00+00:00
 last_deep_review: 2026-06-26T00:06:00+00:00
 draft: false
 topics:
@@ -67,13 +67,15 @@ These voids may reflect structural features of consciousness itself. The [[voids
 | Epistemological—about access | Relational—about what happens *in* the meeting | Phenomenological—about the structure of experience |
 | Addressed by inference (analogy, abduction) | Accessed only through participation | Not addressed by inference—the question is ontological |
 
-The three are siblings, not synonyms. Even granting that other minds exist, the encounter still delivers what no inference can; even granting that encounter delivers something irreducible, the question of whether two streams of experience can co-exist as one remains open. The merger of the three originally separate articles into this one is itself a methodological move synthesised in [[conjunction-coalesce|the conjunction-coalesce]]: a three-way conjunction whose joint claim—that each gap is irreducible to the others—could not be made by any single face alone.
+The three are siblings, not synonyms. Even granting that other minds exist, the encounter still delivers what no inference can; even granting that encounter delivers something irreducible, the question of whether two streams of experience can co-exist as one remains open. The merger of three originally separate articles here is itself a methodological move synthesised in [[conjunction-coalesce|the conjunction-coalesce]]: a joint claim—that each gap is irreducible to the others—that no single face could make alone.
 
 ## The Asymmetry That Founds the Voids
 
 We never have the same kind of access to another's experience that we have to our own. I know my pain immediately and non-inferentially. I know yours only through inference—from your grimace, your words, the context.
 
 Brain imaging shows neural correlates of pain, but correlates are not the pain. Verbal reports describe experience, but descriptions are not experience. Even if we could read every neuron in your brain, we would know *about* your pain without ever feeling it from the inside.
+
+The asymmetry also runs the other way for one class of facts. Others hear your recorded voice, read your prose style, and notice your characteristic tilt of judgment as *characteristics*; from inside they register as neutral, because a signature is a deviation from a population distribution that introspection never contains. Stylometry makes the point sharply: authors are identified most reliably by the function words they deploy least consciously. Where the [[commensurability-void]] finds no phenomenal ruler *between* minds, this is the complementary failure of a ruler *within* one—and here the third-person channel wins. [[self-opacity#The Signature Face|Self-opacity's signature face]] develops the case.
 
 The asymmetry is first and foremost *epistemic*—about how we know. Whether it reflects a deeper *ontological* gap is precisely what the [[hard-problem-of-consciousness|hard problem]] asks. The Map's [[tenets]] answer affirmatively. The asymmetry may run deeper than practical difficulty: if I somehow experienced your pain, would it be *your* pain or would it have become mine? Consciousness may individuate subjects partly through what cannot be shared—the asymmetry as structure rather than failure.
 
@@ -191,3 +193,4 @@ Empathy reaches across the voids but cannot eliminate them—it simulates rather
 13. Noelle-Neumann, E. (1984). *The Spiral of Silence*. University of Chicago Press.
 14. Hurlburt, R. T., & Akhter, S. A. (2008). Unsymbolized Thinking. *Consciousness and Cognition*, 17(4), 1364–1374.
 15. "Mindmelding: Connected Brains and the Problem of Consciousness." *PMC* (2011). https://pmc.ncbi.nlm.nih.gov/articles/PMC3190544/
+16. Stamatatos, E. (2009). A survey of modern authorship attribution methods. *JASIST*, 60(3), 538–556.

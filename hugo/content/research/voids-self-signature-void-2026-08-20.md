@@ -7,6 +7,18 @@ author: null
 concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
+consumed_by: '[[self-opacity]]'
+consumed_note: 'Folded 2026-08-21 by the refine-draft task "Fold self-signature research
+  into self-opacity and voids-between-minds" (note''s own Absorption option, Potential
+  Article Angles option 2), not written up as a standalone article: voids measured
+  99/100 and the final slot is an operator decision. Hosts: [[self-opacity]] (new
+  "The Signature Face" section — mirror dissociation, bias blind spot, stylometric
+  asymmetry, LLM architecture-invariance case) and [[voids-between-minds]] (short
+  inverted-privileged-access paragraph in "The Asymmetry That Founds the Voids").
+  Gaps carried, not laundered: the own-accent claim was omitted for want of a sociophonetics
+  anchor; the LLM material is framed as default blindness with trainable recognition
+  and carries no quantitative claim; Mita et al. (1977) is marked as having unsettled
+  selfie-era replication status.'
 created: 2026-08-20
 date: &id001 2026-08-20
 draft: false
