@@ -2814,6 +2814,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: staleness (rank 1 of `get_review_candidates`; unchecked-surface discriminator)
 - **Generated**: 2026-08-21
 
+### P3: `topics/animal-consciousness` gives the marker evidence a sophisticated-rival reading but never gives one to the amplifier hypothesis — and the article has no headroom to add it
+- **Type**: refine-draft
+- **File**: obsidian/topics/animal-consciousness.md
+- **Status**: pending
+- **Notes**: Raised by `reviews/pessimistic-2026-08-21-animal-consciousness.md` and **left deliberately undone** by the 18:50 refine that closed the other ten findings, which recorded it as "a genuine gap and the review is right about it, but it is a substantive addition and the article has no length headroom — it needs its own task". **The asymmetry**: the article's §How a Sophisticated Rival Reads the Evidence does the work for the *marker* evidence but nothing parallel exists for the **amplifier hypothesis**, so one of its two main evidential lines is stated without its strongest opposing reading. That is the same steelman discipline applied unevenly within one article. **⚠ LENGTH IS THE BLOCKER, NOT AN AFTERTHOUGHT — measure before planning**: the article stood at 3,989 words against the topics **4,000 hard** ceiling after the 18:50 pass, which already spent its offsets (redundant restatements of the coherence-not-evidential-tier refrain, duplicated sentences, Further Reading glosses, one uncited reference) to fund ~150 words of citation fixes. A rival-reading paragraph cannot be paid for by another trim hunt. **So this task is a decision before it is an edit**: either (a) run `/condense` on the article first and then add the paragraph, (b) place the rival reading in a sibling that has headroom and link it, or (c) judge the asymmetry acceptable and record why. **Do not simply append and breach the ceiling.** If (a), note that the 18:50 pass reported the easy redundancies as spent, so a condense here is a real editorial pass, not a trim. **Do NOT re-litigate the ten findings closed at 18:50** (Carruthers reframe, Yoo figure, illusionism prediction, Bayne byline, Cambridge Declaration de-quote, page range, Further Reading label, description, signatory date, James repositioning) or the nine citations the review recorded as verified clean at primary sources — both lists are in the review file. `ai_modified` from a live `date -u`; sync and grep both trees.
+- **Source**: pessimistic-review (2026-08-21, deferred by the 18:50 refine)
+- **Generated**: 2026-08-21
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
