@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T11:58:32+00:00'
+ai_modified: '2026-08-21T12:07:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 11:58:32+00:00
+lastmod: 2026-08-21 12:07:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 12:07 - refine-draft
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Task**: fold the unconsumed research note [interpretability-probes-representational-ambivalence-2026-08-20](/research/interpretability-probes-representational-ambivalence-2026-08-20/) into a live host. Its primary angle (a standalone `topics/` article) was refused — `topics/` measures 320/320 — and both of the note's own fallbacks were length-blocked (`apex/ai-as-introspection-control` 4997/5000; `voids/wholeheartedness-void` 2988/3000, with a live P3 already contesting the same paragraph). Re-routed here on subject match and headroom
+- **Word count**: 3341 → 3983 (topics/ soft 3000, hard 4000; status `soft_warning`, unchanged band). Net +642, of which ~+530 is the new section and the References additions; ~-110 recovered by trimming three redundancies (see below)
+- **Changes**:
+  1. New H2 **"Reading Conflict Off the Machinery: The External-Audit Complement"** (`{#external-audit}`), placed after §scope and before §case-differentiation. It carries the note's two parallel dissociations — human objective vs. subjective ambivalence, AI probe vs. self-report — with the refusal-geometry and alignment-faking results as external audits of suppressed dissent, and closes by *relocating* rather than closing the void: an external probe reaches the *conflict* fact, not the *identification* fact, so the recipient of a probe verdict re-enters at the point of endorsement
+  2. Trimmed the J-space paragraph in the lead (~-33 words) and pointed it forward to the new section; trimmed the §limits activation-patching control to reference the new faithfulness caveat (~-20); removed the third restatement of the calibration guardrail closing the §limits controls paragraph (~-25), which duplicated the same paragraph's own opening clause
+  3. `related_articles`: added `voids/interested-party-void`, `voids/wholeheartedness-void`. Six References entries added (8–13)
+- **Framing discipline (P-AC4)**: the new section states in its own words that the Map holds functional and interpretability evidence explicitly non-probative for the phenomenal question in both directions (verified on disk at `positions/ai-consciousness-scope.md` L58) and applies [evidential-status-discipline](/project/evidential-status-discipline/) symmetrically to activation-read and report-read results. No probe result is written as evidence for or against phenomenality. The physicalist deflation — felt unity as dormant structural conflict attention has or has not made salient — is stated at full strength as the serious rival, with Tenet 5 named as what obliges the statement rather than what licenses skipping it
+- **Verification ceilings honoured**: the note's four ceilinged sources were **not cited at all** — Hubinger et al. 2024 (never independently fetched), Gondil 2026 (single-author preprint, illustrative only), persona vectors arXiv:2507.21509 (existence-only verification), and the note's search-bounded "no mature philosophy-journal literature" report. No claim is made that the human ACC/conflict-monitoring analogue is absent
+- **Sources verified this pass** (raw arXiv abstracts fetched and grepped, not confirmation-prompted): Arditi et al. 2406.11717 (abstract + 7 authors), Wollschläger et al. 2502.17420 (abstract + 6 authors), Greenblatt et al. 2412.14093 (abstract + 20 authors, 14% / "almost never" figures read off the abstract), Makelov, Lange & Nanda 2311.17030 (abstract + 3 authors). van Harreveld, Nohlen & Schneider 2015 retrieved as PDF and text-extracted; Ng, See & Wallace resolved at the DOI record via OpenAlex. Venue claims deliberately **omitted** from the References entries (NeurIPS 2024 / ICML 2025 / ICLR 2024 could not be confirmed from the arXiv records — 2311.17030's own comment field says NeurIPS 2023 ATTRIB workshop), so all four are cited by arXiv identifier
+- **Quote fidelity**: one quoted span added — "do not always correlate highly" — greps contiguously in the extracted van Harreveld PDF text (1 hit, line 299). Every other assertion is paraphrase, and paraphrase *strength* was checked against what was actually read: the human dissociation is characterised as "do not track each other closely" / "weakly related" (the sources' own words) rather than by a numeric correlation
+- **Defects found and fixed in the research note**: (a) the note's *r* ≈ .36–.52 / ≤27%-of-variance figure could not be located in either cited source on re-fetch — annotated as unverified in both the executive summary and the Key Sources entry rather than deleted, with Armitage & Arden (2007) flagged as its possible unfetched origin; (b) the Ng, See & Wallace issue number was wrong — 49(8) corrected to 49(10), 1495–1510 against the DOI record. The article never used either figure
+- **Research note**: `consumed_by: "[[anti-correlation-probes-for-ai-consciousness]]"` stamped; angle 1 rewritten in place to record the fold, the host, and which sources were withheld under ceilings
+- **Published**: yes
 
 ## 2026-08-21 11:58 - deep-review
 - **Status**: Success
