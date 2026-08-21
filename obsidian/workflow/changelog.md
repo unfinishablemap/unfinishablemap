@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T00:11:48+00:00'
+ai_modified: '2026-08-21T01:15:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-21T01:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Scale types for phenomenal quantities (representational theory of measurement applied to phenomenal quantities)
+- **Output**: [[concepts/scale-types-for-phenomenal-quantities]]
+- **Word count**: 3225 total by `analyze_length` (soft_warning at 129% of 2500; decomposed: ~2680 body prose + ~545 reference apparatus — 27 references carried with DOIs from the research note, no page numbers invented)
+- **Based on research**: yes — [[research/representational-measurement-phenomenal-quantities-2026-08-20]] (target_section: concepts honoured; note's recommended angle 1 followed)
+- **Slug check**: clean (`check_slug.py` OK, concepts 319 pre-add)
+- **Structure**: four-part concept format — neutral RTM core first (representation/uniqueness theorems, admissible transformations, meaningfulness), Map's five-rung scale-type ladder marked as the Map's application, rival verdicts at strength (Stevens operationalism; Michell held accurately as accuser-not-prover; Trendler marked distinct-route not convergence; Lee theory-relativity; Bayne-Hohwy-Owen per-dimension ordinality), disputed implications split stated at the cross-subject rung (RTM-alone vs first-person-access premise; lead kept framework-relative)
+- **Seam upgrade delivered**: the [[apex/judging-the-map-as-science]] "scaled within subjects, never calibrated across them" hypothesis restated as the three-part meaningfulness constraint (declare scale type / exhibit axioms / show invariance), with Luce 1959 three-strengths analysis for Tenets 2-3
+- **Unit-argument refinement installed**: [[consciousness-and-the-problem-of-measurement-standards]] refined against the Luce-Tukey conjoint rejoinder (new paragraph + Luce & Tukey 1964 reference + Further Reading link; Ho/Landy/Maloney 2008 vs Trendler 2019 engaged both ways, leaning on neither)
+- **Inbound links**: measurement-standards (body + Further Reading) and judging-the-map-as-science (seam paragraph) — both `ai_modified` bumped; both trees synced and hugo grep-verified, zero unconverted body wikilinks
+- **Quote fidelity**: all verbatim spans grep-verified — SEP spans per the note's raw-HTML verification, internal spans re-grepped against current siblings at HEAD ("Units require...", "The language of measurement is borrowed...", "measured on a scale that admits mathematical relationships", "scaled within subjects, never calibrated across them"); Ellermeier & Faulhammer stated only at the note-verified level (no commutativity/multiplicativity specifics — flagged unverified in the note); Michell's famous phrase not quoted (primary text unretrieved); no KLST theorem numbers
+
 ## 2026-08-21T00:11 UTC - positions-evolve (add P-I5)
 - **Status**: Success
 - **File**: [[positions/individuation-and-subjecthood]]

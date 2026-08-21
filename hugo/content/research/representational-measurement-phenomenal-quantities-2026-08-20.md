@@ -8,6 +8,14 @@ concepts:
 - '[[phenomenal-contrast-method]]'
 - '[[psychophysical-laws]]'
 - '[[moral-census-opacity]]'
+consumed_by: '[[scale-types-for-phenomenal-quantities]]'
+consumed_note: SYNTHESIZED into concepts/scale-types-for-phenomenal-quantities by
+  the 2026-08-21 expand-topic pass (chain successor of this note's L187 recommendation).
+  The note's five-layer scale-type analysis, cross-subject uniqueness-theorem argument,
+  Trendler-vs-Ho/Landy/Maloney conjoint engagement, and Luce 1959 coupling-law material
+  all live in the article; inbound integration installed in topics/consciousness-and-the-problem-of-measurement-standards
+  and apex/judging-the-map-as-science. Stamped by the loop driver post-create (non-matching
+  slugs would otherwise re-read as unconsumed).
 created: 2026-08-20
 date: &id001 2026-08-20
 draft: false

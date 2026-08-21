@@ -4,7 +4,7 @@ description: "Science requires measurement standards—units, instruments, calib
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-08-12T19:14:57+00:00
+ai_modified: 2026-08-21T01:14:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,6 +57,8 @@ Consider pain intensity. We have scales — the visual analogue scale (VAS), the
 The problem goes deeper than imprecision: pain intensity lacks the structural properties that units require. There is no principled answer to whether the difference between pain-level-3 and pain-level-5 is the "same amount" as the difference between pain-level-7 and pain-level-9. The question assumes that phenomenal pain occupies a metric space with equal intervals — that it has the additive structure of physical quantities. Nothing about the phenomenology of pain guarantees this. Two simultaneous pains do not necessarily produce a pain whose intensity is the sum of the individual intensities. Pains interact, modulate, mask, and amplify each other in ways that violate additivity.
 
 This reflects the nature of [[phenomenal-consciousness|phenomenal experience]] itself rather than any measurement artefact. Physical quantities like mass are *extensive* — they combine additively because mass is a feature of objects that can be spatially juxtaposed. Phenomenal quantities are features of a subject's experience, integrated within a unified field of consciousness. The unity of experience means phenomenal quantities cannot be cleanly decomposed and recomposed. There is no "unit of blueness" for the same reason there is no unit of meaning: the thing being measured is constitutively holistic.
+
+One refinement matters: in measurement theory, additive decomposability is sufficient for quantitative structure but not necessary. Conjoint measurement (Luce and Tukey 1964) constructs interval scales from trade-off orderings alone, without any concatenation operation, so the unit argument cannot rest on non-additivity by itself. Its defensible forms run through the failure — or untested status — of the difference and conjoint axioms for each phenomenal attribute, or through the holism of the experiential field just described; [[scale-types-for-phenomenal-quantities]] develops this refinement and the axiomatic framework behind it.
 
 ## Why Phenomenal Instruments Cannot Be Built
 
@@ -120,11 +122,13 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 - [[consciousness-defeats-explanation]]
 - [[observation-and-measurement-void]]
 - [[the-quantitative-comprehension-void]]
+- [[scale-types-for-phenomenal-quantities]]
 
 ## References
 
 1. Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Luce, R. D., & Tukey, J. W. (1964). "Simultaneous conjoint measurement: A new type of fundamental measurement." *Journal of Mathematical Psychology* 1(1), 1-27.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review* 83(4), 435-450.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4), 330-349.
