@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-19 18:51:54+00:00
+ai_modified: 2026-08-21 12:38:40+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:28:50+00:00
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-08-21 12:38:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,11 +144,13 @@ This response dissolves Claim 2 for the entire class of discrete-event mechanism
 
 *Targets Claim 1, categorical version. Strength: Moderate—establishes possibility, not actuality.*
 
-Three established examples refute the categorical claim that warm biological systems exclude quantum effects. See [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for how biological precedent combines with pharmacological, measurement, and computational evidence specifically in neural systems.
+Two established examples weaken the categorical claim that warm biological systems exclude quantum effects. See [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for the neural case.
 
-**Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects. **Photosynthesis**: While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects demonstrably operate in warm biological conditions.
+**Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. This is the surviving established pillar. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects, though how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
-Biology evolved to harness quantum effects, not avoid them. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that the same selective logic applies to neural systems—where the computational payoffs would dwarf those of a compass or a faster enzyme. The question is whether similar mechanisms operate in neural processing.
+**Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
+
+What survives is a *precedent*—the regime is not categorically impossible—rather than a *licence* for the neural case, where no coherence-time calculation yet supports the proposals ([P-Q8 in the positions register](/positions/quantum-interface/)). The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) extends the same selective logic to neural systems, where the computational payoffs would dwarf those of a compass or a faster enzyme, though it argues from possibility rather than actuality. The question is whether similar mechanisms operate in neural processing.
 
 ## The Receding Quantum-Classical Boundary
 
@@ -163,7 +165,7 @@ The five responses form a layered defence with increasing strength:
 | Philosophical | Measurement problem persists (Claim 3) | Yes |
 | Mechanistic | Zeno doesn't need sustained coherence (Claim 2) | Yes (for Zeno-type models) |
 | Empirical correction | Tegmark's calculations were wrong (Claim 1) | No, but weakens the premise |
-| Biological precedent | Quantum effects work in biology (Claim 1, categorical) | No, but eliminates categorical objection |
+| Biological precedent | Quantum effects work in biology (Claim 1, categorical) | No, but weakens the categorical objection |
 | Parameter revision | Required timescales are shorter (Claim 1) | No, but narrows the gap |
 
 The philosophical and mechanistic responses are each independently sufficient. The empirical responses are not individually sufficient but collectively transform the landscape; the live status of the Tegmark/Hagan/Reimers/McKemmish dispute means the microtubule-specific case rests on tenet coherence rather than settled empirical support.
@@ -198,7 +200,7 @@ The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-in
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) would need to operate. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology weakened it empirically.
 
 ## Further Reading
 
@@ -227,6 +229,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 1. Craddock, T.J.A., Kurian, P., Preto, J., Sahu, K., Hameroff, S.R., Klobukowski, M., & Tuszynski, J.A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency. *Scientific Reports*, 7, 9877.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.

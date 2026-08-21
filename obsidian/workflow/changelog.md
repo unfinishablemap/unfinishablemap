@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T12:07:20+00:00'
+ai_modified: '2026-08-21T12:41:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 12:41 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Task**: calibration re-scope of the quantum-biology passage (§"Quantum Biology: Biology Beating Decoherence"). This file is the paraphrase-variant sibling that the live `evolution-of-consciousness` string sweep (`"photosynthesis exploits quantum coherence"`) cannot see — it stated the same over-claim in different words. The 2026-08-21 08:40 refine of `quantum-indeterminacy-free-will` judged this file "already partly corrected"; the ~60 fs figure was present, the calibration was not
+- **Word count**: 3335 → 3475 (concepts/ soft 2500, hard **3500**; status `soft_warning`, band unchanged). Net +140 against 165 words of headroom, after ~-29 recovered by trims inside the same passage (see 5 below). **25 words of headroom remain** — this hub article is now a near-term condense candidate
+- **Changes**:
+  1. **"Three established examples refute the categorical claim"** → **"Two established examples weaken"**. The canonical article (`topics/quantum-biology-and-neural-consciousness` L57) says photosynthetic energy transfer "was for a decade the third case listed here … and no longer serves". Two, not three; and "weaken" not "refute", matching the canonical "The categorical objection has weakened"
+  2. **Photosynthesis over-claim retired.** The old gloss — "While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects **demonstrably operate** in warm biological conditions" — asserted exactly the reading P-Q8 declines. Replaced with the canonical passage: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 fs and found no indication of a biofunctional role; the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence; short-timescale vibrational and vibronic coupling remains a live and separate question
+  3. **"Biology evolved to harness quantum effects, not avoid them."** — flat biofunctional-role plus selection claim, and an instance of the "not X, but Y" construction the writing-style guide asks us to avoid. Replaced by the precedent/licence formula in its canonical form: what survives is a *precedent* (the regime is not categorically impossible) rather than a *licence* for the neural case, where no coherence-time calculation yet supports the proposals, linked to P-Q8. The `evolutionary-case-for-quantum-neural-effects` sentence now closes "though it argues from possibility rather than actuality" (canonical: "argues from realistic possibility, not actuality")
+  4. **Enzyme-catalysis hedge restored.** The 10¹²–10¹⁷ acceleration figures previously ran with no hint that the tunnelling share or the selection story is contested — the hedge-dropping shape. Now carries the canonical qualifier: "though how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested"
+  5. **Two internal-consistency loci in the same file**, which would otherwise have contradicted the corrected passage: the layered-defence table row "No, but **eliminates** categorical objection" → "**weakens the** categorical objection"; and §Relation to the Map's Perspective, "before quantum biology **overturned** it empirically" → "**weakened** it empirically". Both length-neutral. Trims paying for the growth: shortened the §opening cross-reference sentence, and tightened the closing paragraph's precedent gloss and evolutionary-case sentence
+  6. **Reference added**: Duan, H.-G. et al. (2017), *PNAS* 114(32), 8493–8498, copied verbatim from the canonical article's entry (minus the DOI, which this file's reference list does not carry)
+- **Vocabulary discipline**: no fourth wording was minted. The corpus now holds four calibrated loci on this claim — `topics/quantum-biology-and-neural-consciousness` L55-59 (canonical), `positions/quantum-interface` P-Q8, `concepts/quantum-indeterminacy-free-will` L174 (fixed 2026-08-21), and this file — all reading from the same phrasing. "Two established examples", "no longer serves", "no indication of a biofunctional role", "vibrational coherence", "a live and separate question", "precedent … rather than a licence" all trace to the canonical passage or P-Q8
+- **Scope fence honoured**: this file only. The three live P3s mentioning decoherence target `apex/attention-as-causal-bridge`, `positions/quantum-interface` and `topics/psychophysical-laws-bridging-mind-and-matter` — none rescoped. `reviews/` and `workflow/` hits left untouched as dated records. The section's argumentative role is preserved: the categorical objection still stays weakened on cryptochrome alone, so the "Strength: Moderate—establishes possibility, not actuality" framing and the layered-defence table row both survive. This is a re-scope, not a retraction
+- **Verification**: `sync.py` run; hugo mirror greps clean for all six corrected strings (`hugo/content/concepts/decoherence.md` L147/149/151/153/168/203/232). No broken wikilink reported for this file. `ai_modified` taken from a live `date -u`
+- **Published**: yes
+
 
 ## 2026-08-21 12:07 - refine-draft
 - **Status**: Success
