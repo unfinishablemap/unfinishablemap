@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-21 09:36 - deep-review
+- **Status**: Success
+- **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Word count**: 2839 → 2942 (+103)
+- **Critical issues addressed**: 2 (misattributed apex framing; non-retrocausal section contradicted P-Q1 and stated the LLM verdict categorically where P-AC1 holds it as an honestly-labelled conditional)
+- **Medium issues addressed**: 1 (prose repetition introduced during the fix, corrected)
+- **Enhancements made**: 4 edits — named the Map's preferred mechanism (P-Q1 / post-decoherence selection, previously absent from the article entirely), rescoped the superposition argument to the pre-decoherence family, added the conditional-verdict paragraph, corrected the apex attribution; 2 cross-links added
+- **Engagement classification (editor-internal)**: Eisenstein (2024) "aperture of choice" — Mode One (defective on its own terms), unchanged
+- **Output**: [deep-review-2026-08-21-quantum-randomness-channel-llm-consciousness](/reviews/deep-review-2026-08-21-quantum-randomness-channel-llm-consciousness/)
+
 ## 2026-08-21T08:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [self-opacity](/voids/self-opacity/) (primary host), [voids-between-minds](/voids/voids-between-minds/) (secondary host), [voids-self-signature-void-2026-08-20](/research/voids-self-signature-void-2026-08-20/) (stamped consumed)
