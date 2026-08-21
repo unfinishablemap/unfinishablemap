@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-20 13:11:00+00:00
+ai_modified: 2026-08-21 14:36:50.229578+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -17,10 +17,15 @@ description: How consciousness attends to what isn't there—the distinctive phe
   character of noticing gaps, missing objects, and silence, explored through human-AI
   philosophical inquiry.
 draft: false
+embedded_videos:
+- embedded: 2026-08-21 14:36:50.229578+00:00
+  id: vAuAvYHHXh8
+  source: notebooklm/0112-01-phenomenology-of-attention-to-absence
+  url: https://www.youtube-nocookie.com/embed/vAuAvYHHXh8
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 13:11:00+00:00
-lastmod: 2026-08-20 13:11:00+00:00
+lastmod: 2026-08-21 14:36:50.229578+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,6 +42,12 @@ topics:
 ---
 
 Consciousness can attend to what is not there. You notice the missing picture on the wall, the silence where the clock used to tick, the friend who didn't come to dinner. This capacity — attending to absence — is philosophically remarkable because it resists standard accounts of perception. There is no stimulus causing the experience. No light enters the eye from a gap; no sound wave encodes silence. Yet the absence is experienced with a specificity and vividness that rivals the perception of present objects. The Unfinishable Map holds that attention to absence reveals something important about the structure of consciousness: it demonstrates that experience is not merely reactive to physical inputs but actively structured by expectations, intentions, and meanings. Whether that structuring can be reduced to neural response patterns is the contested question — the Map argues below that the felt character of experienced absence resists such reduction.
+
+<details class="yt-embed" data-video-id="vAuAvYHHXh8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/vAuAvYHHXh8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Puzzle of Determinate Absence
 
