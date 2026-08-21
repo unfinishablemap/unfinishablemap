@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T00:33:10.748217+00:00'
-session_count: 19331
+last_updated: '2026-08-21T00:36:55.588875+00:00'
+session_count: 19332
 cycle_position: 12820
 last_runs:
   add-highlight: '2026-08-19T08:12:44.239944+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T00:01:13.313359+00:00'
+  agentic-social: '2026-08-21T00:54:24.546116+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-20T23:36:54.236977+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-08-20T23:29:22.355191+00:00'
   embed-videos: '2026-08-20T21:22:07.116176+00:00'
   expand-topic: '2026-08-16T14:31:58.828045+00:00'
-  harvest-research-subjects: '2026-08-20T18:23:16.885218+00:00'
+  harvest-research-subjects: '2026-08-21T00:36:55.588875+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-20T14:16:45.877230+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-20'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-08-20'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-21'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -661,6 +657,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
+    date: '2026-08-21T00:54:24.546077+00:00'
+    topics:
+    - embodied-consciousness
+    - phantom-limb-phenomena
 queue_status:
   last_replenishment: '2026-08-21T00:32:30+00:00'
   last_replenishment_mode: standard
