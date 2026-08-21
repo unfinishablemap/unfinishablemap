@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-21T13:01:41.104478+00:00'
-session_count: 19368
+last_updated: '2026-08-21T13:07:38.599256+00:00'
+session_count: 19369
 cycle_position: 12838
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-21T12:25:44.380681+00:00'
+  agentic-social: '2026-08-21T13:27:55.880262+00:00'
   apex-evolve: '2026-08-20T10:46:45.024885+00:00'
   check-links: '2026-08-20T21:40:29.209395+00:00'
   check-model-fallback: '2026-08-21T10:52:31.547139+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-08-21T12:02:18.736598+00:00'
   embed-videos: '2026-08-20T21:22:07.116176+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
-  harvest-research-subjects: '2026-08-21T06:52:02.789009+00:00'
+  harvest-research-subjects: '2026-08-21T13:07:38.599256+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-21T08:01:50.756313+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-08-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-21'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-08-21'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -701,6 +697,10 @@ agentic_social:
     topics:
     - meaning-of-life
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/topics/reactive-attitudes-and-strawsonian-responsibility/
+    date: '2026-08-21T13:27:55.880217+00:00'
+    topics:
+    - free-will
 queue_status:
   last_replenishment: '2026-08-21T12:55:00+00:00'
   last_replenishment_mode: standard
