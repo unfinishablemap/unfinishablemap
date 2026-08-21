@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T15:28:00+00:00'
+ai_modified: '2026-08-21T15:42:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-21 15:42 - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-science-under-dualism]]
+- **Word count**: 2694 → 2699 (+5, length-neutral; 108% of the 2500 concepts soft threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (redundancy removed in two sections to fund the additions)
+- **Why this ran non-no-op**: the 2026-07-06 pass closed as NO-OP HYGIENE and recommended a *longer* review interval. Four commits then wrote into this file from outside it (`9ff375093e`, `10533cf23c`, `abc8d64a57`, `01fa0383fe`, 08-12 to 08-17) and no review read the result — the unreviewed-outbound-crosslink shape. That recommendation is withdrawn in the review file.
+- **Critical**: the article characterised Tenet 2 as making "a specific empirical claim" and "an empirical claim falsifiable in principle", where `tenets.md` classes it as "a *consistency claim* ... rather than a *novel-prediction claim*". Possibility/probability slippage rather than bedrock disagreement — a defeater-removal was carrying the weight of an evidential upgrade inside the section arguing dualism satisfies Popper, and the Map's own foundational document already flags it. `01fa0383fe` half-fixed this: it installed the corridor scoping but left the honorific standing in front of it, so the paragraph granted the claim and withdrew its operative content in consecutive sentences. Fixed in both loci using the tenet page's own vocabulary.
+- **Medium**: both edited passages left the Map's retention of the minimum-outside-corridor branch unstated, understating the demarcation reply. `positions/quantum-interface` P-Q2 records it as "the branch the Map currently leaves open as a fall-back" and P-Q1's moderate band is held partly because it stays open. Named the fall-back and cited P-Q2 — the article's first positions citation, continuing the `9ff375093e` retrofit's intent.
+- **Citation web-verify**: the three references added by `abc8d64a57` had never been through a web-verify pass. All three **real-correct** at publisher of record, metadata *and* paraphrase. Hitchcock & Sober 2004 (BJPS 55(1):1-34) — overfitting gloss faithful. Negro 2024 (*Neurosci. Conscious.* 2024(1) niae012) — three-criteria order correct; the "complement rather than fully combine" paraphrase matches the paper's "Lakatos and Bayes" subsection on both halves. McKilliam 2025 (*Noûs* 59(3):634-651) — the specific divergence claim verifies against the paper's own sentence at p. 635 ("progressive in the Lakatosian sense ... update ... in accordance with Bayes Rule ... may still converge on different theories"). Zero superlatives; no inline↔reference orphans.
+- **Checked and NOT flagged** (recorded so future passes don't re-open them): "the corridor reading the Map endorses" is a cluster-wide formula from `tenets.md:81`, also live in `topics/testing-consciousness-collapse.md:230` — rewriting it here alone would desynchronise the cluster. The Hugo body "differs" only by sync's own wikilink→markdown conversion, not drift. The `reflexive-methodology` and apex Further-Reading glosses both verify against their sources.
+- **Engagement classification** (editor-internal, not in article prose): methodological-naturalism circularity **Mode Two** (uses the opponent's own commitment to non-circular argument); Lakatosian appraisal of the materialist programme **Mixed → Mode Three** (grants empirical progressivity before marking the hard-problem residue as bedrock); McKilliam's objection **Mode Three**, recorded as unanswered rather than absorbed. No label leakage.
+- **Deferred, no task minted**: Beni (2026, *Neurosci. Conscious.* 2026(1) niag003) argues against theory-neutral Natural Kind Reasoning and names McKilliam among its targets. The article's "the Map records it as unanswered" is about the Map and stays accurate, so this is currency colour rather than a defect; no length headroom to add it.
+- **Synced**: yes — `scripts/sync.py` run; both trees grep-verified.
+- **Output**: [[reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism]]
 
 ## 2026-08-21 15:28 - refine-draft
 - **Status**: Success

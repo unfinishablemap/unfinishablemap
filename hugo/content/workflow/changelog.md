@@ -1,14 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T14:25:38+00:00'
+ai_modified: '2026-08-21T15:42:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-21'
-lastmod: 2026-08-21 14:25:38+00:00
+lastmod: 2026-08-21 15:42:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-21 15:42 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Word count**: 2694 → 2699 (+5, length-neutral; 108% of the 2500 concepts soft threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (redundancy removed in two sections to fund the additions)
+- **Why this ran non-no-op**: the 2026-07-06 pass closed as NO-OP HYGIENE and recommended a *longer* review interval. Four commits then wrote into this file from outside it (`9ff375093e`, `10533cf23c`, `abc8d64a57`, `01fa0383fe`, 08-12 to 08-17) and no review read the result — the unreviewed-outbound-crosslink shape. That recommendation is withdrawn in the review file.
+- **Critical**: the article characterised Tenet 2 as making "a specific empirical claim" and "an empirical claim falsifiable in principle", where `tenets.md` classes it as "a *consistency claim* ... rather than a *novel-prediction claim*". Possibility/probability slippage rather than bedrock disagreement — a defeater-removal was carrying the weight of an evidential upgrade inside the section arguing dualism satisfies Popper, and the Map's own foundational document already flags it. `01fa0383fe` half-fixed this: it installed the corridor scoping but left the honorific standing in front of it, so the paragraph granted the claim and withdrew its operative content in consecutive sentences. Fixed in both loci using the tenet page's own vocabulary.
+- **Medium**: both edited passages left the Map's retention of the minimum-outside-corridor branch unstated, understating the demarcation reply. `positions/quantum-interface` P-Q2 records it as "the branch the Map currently leaves open as a fall-back" and P-Q1's moderate band is held partly because it stays open. Named the fall-back and cited P-Q2 — the article's first positions citation, continuing the `9ff375093e` retrofit's intent.
+- **Citation web-verify**: the three references added by `abc8d64a57` had never been through a web-verify pass. All three **real-correct** at publisher of record, metadata *and* paraphrase. Hitchcock & Sober 2004 (BJPS 55(1):1-34) — overfitting gloss faithful. Negro 2024 (*Neurosci. Conscious.* 2024(1) niae012) — three-criteria order correct; the "complement rather than fully combine" paraphrase matches the paper's "Lakatos and Bayes" subsection on both halves. McKilliam 2025 (*Noûs* 59(3):634-651) — the specific divergence claim verifies against the paper's own sentence at p. 635 ("progressive in the Lakatosian sense ... update ... in accordance with Bayes Rule ... may still converge on different theories"). Zero superlatives; no inline↔reference orphans.
+- **Checked and NOT flagged** (recorded so future passes don't re-open them): "the corridor reading the Map endorses" is a cluster-wide formula from `tenets.md:81`, also live in `topics/testing-consciousness-collapse.md:230` — rewriting it here alone would desynchronise the cluster. The Hugo body "differs" only by sync's own wikilink→markdown conversion, not drift. The `reflexive-methodology` and apex Further-Reading glosses both verify against their sources.
+- **Engagement classification** (editor-internal, not in article prose): methodological-naturalism circularity **Mode Two** (uses the opponent's own commitment to non-circular argument); Lakatosian appraisal of the materialist programme **Mixed → Mode Three** (grants empirical progressivity before marking the hard-problem residue as bedrock); McKilliam's objection **Mode Three**, recorded as unanswered rather than absorbed. No label leakage.
+- **Deferred, no task minted**: Beni (2026, *Neurosci. Conscious.* 2026(1) niag003) argues against theory-neutral Natural Kind Reasoning and names McKilliam among its targets. The article's "the Map records it as unanswered" is about the Map and stays accurate, so this is currency colour rather than a defect; no length headroom to add it.
+- **Synced**: yes — `scripts/sync.py` run; both trees grep-verified.
+- **Output**: [deep-review-2026-08-21-philosophy-of-science-under-dualism](/reviews/deep-review-2026-08-21-philosophy-of-science-under-dualism/)
+
+## 2026-08-21 15:28 - refine-draft
+- **Status**: Success
+- **Files**: [creative-consciousness](/concepts/creative-consciousness/) (primary), [ai-consciousness-typology](/concepts/ai-consciousness-typology/) (secondary), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (pointer repair)
+- **Task**: fold the unconsumed research note [machine-aesthetic-judgment-and-generative-music-systems-2026-08-07](/research/machine-aesthetic-judgment-and-generative-music-systems-2026-08-07/)
+- **Departed from the note's own recommendation, deliberately**: the note recommends a standalone `concepts/` article on the strength of "5 true slots". Re-measured with `tools.evolution.state.count_section_files`: **concepts 318/320, topics 320/320**. The premise is dead, so this ran as a three-host fold, not a new article. Concepts has two slots left; whether one should go to a standalone machine-aesthetic-judgement article is left to the operator.
+- **Changes**:
+  - `creative-consciousness` +550w (2854 -> 3404 of 3500): new section "Why Machine-Creativity Criteria Fail to Discriminate" placed after the Penrose/L-creativity passage, carrying the operationalisation problem (Lamb et al. 2018), RASTER (Ventura 2008) against Ritchie's (2007) criteria and Colton's (2008) Tripod, Colton's own appearance-not-possession framing, and the FACE/other-methods ranking inversion. Boden cited at L71 as already held, not re-laid. One clause added to the Occam's Razor paragraph so it no longer sits in unacknowledged tension with the new section.
+  - `ai-consciousness-typology` +387w (3090 -> 3477 of 3500): new subsection "Producing and Judging Are Separate Capacities" under "How the Two Lenses Intersect", carrying the production/judgement distinction (Galanter 2012), the Hullman et al. (2023) our-judgement/machine-judgement conflation, and "appreciation" (Smith, Hintze and Ventura 2014) as the Tripod leg RASTER satisfies. Trimmed 39w after a first draft measured 3516, i.e. 16w over the hard ceiling.
+  - `phenomenology-of-musical-understanding` +228w (2744 -> 2972 of 4000): L127 repointed off the two silent destinations (`machine-consciousness` and `ai-consciousness-typology` each grepped **0** for "aesthetic" and **0** for "music") onto the two sections just written; `machine-consciousness` retained as wider setting rather than dropped, preserving the inbound link. Calibration pair carried here because it is music-specific: Wei et al. (2024) probing and Bhandari and Colton (2024) long-range structure, framed as a correspondence and explicitly not a proof ("architectural limits with no bearing on consciousness explain the same shortfall equally well"). **L127's non-verdict closing sentence preserved verbatim.**
+- **Engagement classification** (editor-internal, not in article prose): engagement with the deflationary/functionalist opponent about creativity: **Mode Two with an explicit Mode Three residue**. Mode Two because the reply invokes a standard the opponent's own research community endorses -- computational creativity evaluation's demand for an operationalisation -- and observes that two decades have not produced one a random-search-and-retrieval system fails; the opponent helps himself to "creativity is exhausted by what a system does" without discharging it. Mode Three residue is stated in the article rather than concealed: the failure of third-person criteria is "equally consistent with there being no difference to find; nothing in the evaluation literature settles which." No editor vocabulary appears in the body.
+- **Citation verification**: the note's Gap 2 (everything relayed "as Lamb et al. report") is **discharged for the spans used**. Lamb, Brown and Clarke (2018) full text retrieved this run from a public course-page copy; all six Lamb quotations grep contiguously in it. The four apparent misses when checking the note's own quotes against that text were **pdftotext hyphenation artefacts** ("imple- ment", "compu- tational") and a curly apostrophe, not misquotations -- the note is accurate. Wei et al. and Bhandari and Colton re-verified verbatim at the arXiv abstracts; Hullman et al. at arXiv:2309.12338. All 9 quoted spans grep contiguously in both the obsidian and hugo trees.
+- **Ceilings respected**: Ariza (2009) omitted entirely (Gap 1 -- full text never retrieved, so nothing is asserted about it); the primaries behind Lamb remain unread and are attributed "as Lamb et al. report"; Gap 6 respected, no host claims the machine-aesthetic/temporal-phenomenology connection is unmade in the literature. One correction to the note's framing: Lamb presents RASTER as built against **Ritchie's** criteria, with the Tripod result a further consequence -- the hosts follow Lamb, not the note's compression.
+- **Left behind**: Lerch et al. (2025) survey, Pearce et al. (2002) "methodological malaise", and the anti-computer-bias literature -- no length headroom on any host. Recorded in the note's `consumed_note`.
+- **Research note**: stamped `consumed_by` (three hosts) and a `consumed_note` recording the fold as selective, not exhaustive.
+- **Synced**: yes -- `scripts/sync.py` run; both trees grep-verified, 0 unresolved body wikilinks, anchors resolve to the correct slugified heading IDs.
+- **Published**: yes
 
 ## 2026-08-21 14:25 - research-topic
 - **Status**: Success

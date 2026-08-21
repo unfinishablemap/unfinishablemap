@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-08-17T00:56:04+00:00
+ai_modified: 2026-08-21T15:42:44+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-07-06T20:17:47+00:00
+last_deep_review: 2026-08-21T15:42:44+00:00
 ---
 
 The Unfinishable Map holds that consciousness is not reducible to physical processes. If this is correct, several core doctrines in philosophy of science — the unity of science, standard demarcation criteria, theory choice by parsimony, and scientific realism about unobservables — require revision. Not abandonment. Revision. Dualism does not reject science. It redraws the boundaries of what science studies, how it chooses between theories, and what scientific success actually tells us about reality.
@@ -51,9 +51,9 @@ The unity of science survives in a modified form. All physical sciences still re
 
 The demarcation problem asks: what distinguishes science from non-science? Dualism is routinely dismissed as unscientific, but this dismissal relies on demarcation criteria that are either too narrow or self-undermining.
 
-**Falsifiability.** Popper's criterion requires that scientific claims be falsifiable. Dualist claims about consciousness meet this standard in at least two ways. First, if neuroscience demonstrated that a complete physical description of the brain logically entailed all facts about consciousness — if the [[explanatory-gap]] closed — dualism would be falsified. Second, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet makes a specific empirical claim: consciousness biases otherwise indeterminate quantum outcomes in neural systems. This is falsifiable in principle on minimum-outside-corridor readings, where sufficiently sensitive measurements could detect or fail to detect the predicted deviation.
+**Falsifiability.** Popper's criterion requires that scientific claims be falsifiable. Dualist claims about consciousness meet this standard in at least two ways. First, if neuroscience demonstrated that a complete physical description of the brain logically entailed all facts about consciousness — if the [[explanatory-gap]] closed — dualism would be falsified. Second, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet says consciousness biases otherwise indeterminate quantum outcomes in neural systems. The tenet page classes this as a *consistency* claim — that such influence is compatible with current physics — rather than the novel prediction a new physical theory would make, and that classification limits what falsifiability can be claimed for it. A deviation exists to be found only on minimum-outside-corridor readings, where sufficiently sensitive measurements could detect or fail to detect it.
 
-The stronger objection is that dualism is not falsifiable *in practice* at current measurement precision. But this objection also applies to string theory, certain multiverse hypotheses, and other proposals that philosophy of science does not typically dismiss as unscientific. Practical unfalsifiability at a given technological stage does not equal unfalsifiability in principle. The reply defends only the routes on which a deviation exists to be found; the corridor reading the Map endorses preserves the aggregate Born measure by construction, which is a framework boundary rather than a technological stage.
+The stronger objection is that dualism is not falsifiable *in practice* at current measurement precision. But this objection also applies to string theory, certain multiverse hypotheses, and other proposals that philosophy of science does not typically dismiss as unscientific. Practical unfalsifiability at a given technological stage does not equal unfalsifiability in principle. That defence covers only the routes on which a deviation exists to be found; the corridor reading the Map endorses preserves the aggregate Born measure by construction — a framework boundary, not a technological stage.
 
 **Methodological naturalism.** A common criterion holds that science restricts itself to natural (physical) explanations. Under this criterion, dualism is unscientific by definition — not because it fails empirically, but because it posits something non-physical. This is circular when applied to the question of whether consciousness is physical. Using "only physical explanations count as scientific" to argue against dualism presupposes the conclusion — the circularity-exposure form of the Map's [[reflexive-methodology|reflexive methodology]], which holds a rival's criterion to that criterion's own requirement for a non-question-begging formulation.
 
@@ -66,8 +66,6 @@ When scientists choose between rival theories, they invoke theoretical virtues: 
 The Map's [[tenets#^occams-limits|fifth tenet]] challenges this reasoning directly. Parsimony assumes we understand enough to judge what is genuinely simple. In the history of science, the "simpler" theory has repeatedly been wrong: geocentrism over heliocentrism, continuous matter over atoms, classical determinism over quantum indeterminacy. Each time, nature turned out to be more complex than the simplest available theory predicted.
 
 More precisely, parsimony as a theory-choice criterion is domain-relative. Within physics, preferring fewer fundamental forces is well-motivated because the track record of unification is strong. But the question of whether consciousness reduces to physics is not a question *within* physics. It is a question about whether physics exhausts what is real. Applying parsimony across this boundary assumes the very thing in dispute.
-
-Kuhn's insight is relevant here — as the Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating.
 
 Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection.
 
@@ -119,9 +117,9 @@ The [[tenets#^dualism|Dualism]] tenet means the unity of science cannot hold in 
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet bears directly on theory choice. The preference for physicalism over dualism on grounds of parsimony assumes that fewer ontological categories is genuinely simpler. But if consciousness is real and irreducible, the "simpler" physicalist theory achieves its simplicity by ignoring what it cannot explain. Parsimony that requires denying the most certain datum we have — our own experience — is not genuine parsimony.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet reshapes scientific realism. If consciousness causally contributes to physical outcomes, a complete science must include it not merely as something to be explained but as something that features in explanations. The realist case for phenomenal properties is epistemically stronger than the case for theoretical entities like quarks — we have direct acquaintance with experience in a way no inference about unobservables can match.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet reshapes scientific realism. A science that must carry consciousness among its explanantia, and not only among its explananda, cannot treat the phenomenal as an optional addition to the physical inventory.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides something most philosophical dualisms lack: an empirical claim falsifiable in principle, which connects the framework to ongoing scientific investigation. The scope of that claim has to be stated to keep the demarcation answer honest. The falsifier bites on [[ensemble-level-epiphenomenalism|minimum-outside-corridor readings]], where a suppressed deviation from Born statistics would leave a signature; the corridor reading the Map endorses preserves the aggregate Born measure by construction, so no gain in instrumental precision tests it. What anchors dualism here is a testable structure rather than pure metaphysics — provided the tested route is named.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet gives the framework a definite point of contact with physics, which most philosophical dualisms lack. Stating the scope of that contact is what keeps the demarcation answer honest. The tenet page classes it as a consistency claim rather than a novel prediction, and the falsifier bites on [[ensemble-level-epiphenomenalism|minimum-outside-corridor readings]], where a suppressed deviation from Born statistics would leave a signature; the corridor reading the Map endorses preserves the aggregate Born measure by construction, so no gain in instrumental precision tests it. That outside-corridor branch is one the Map keeps open as a fall-back rather than forecloses ([[positions/quantum-interface|position P-Q2]]), so the falsifiable route is not a reading it has set aside. What anchors dualism here is a structure with a named testable branch rather than pure metaphysics.
 
 ## Further Reading
 
