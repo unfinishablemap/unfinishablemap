@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-21T12:42:19.391229+00:00'
-session_count: 19367
+last_updated: '2026-08-21T13:01:41.104478+00:00'
+session_count: 19368
 cycle_position: 12838
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-21T01:31:32.553550+00:00'
   positions-evolve: '2026-08-21T09:56:54.736594+00:00'
   refine-draft: '2026-08-21T12:42:19.391229+00:00'
-  replenish-queue: '2026-08-21T11:48:17.137432+00:00'
+  replenish-queue: '2026-08-21T13:01:41.104478+00:00'
   research-topic: '2026-08-20T20:00:14.783966+00:00'
   research-voids: '2026-08-20T22:00:19.912664+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-08-21'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-08-21'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-21'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-21'
   outcome: success
 agentic_social:
@@ -706,56 +706,59 @@ queue_status:
   last_replenishment_mode: standard
   last_replenishment_run: 994
   loop_pickable_open: 3
-  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions, no padding. Authoritative pre-count
-    count_p0_p2_tasks == 2, below the floor of 3; post-count 3. Third floor restore of the day:
-    the 11:45 pair drained in about an hour (interpretability-probes re-route 12:0x,
-    decoherence P-Q8 straggler fe7ecc7466), leaving only that run''s own two mints. MINTED ONE,
-    DELIBERATELY NOT FIVE-TO-EIGHT: every other source was measured this run and came back
-    empty or already claimed, so a second mint would have meant inventing a candidate. SOURCE
-    USED, staleness: deep-review topics/consciousness-and-the-problem-of-measurement-standards,
-    validated against get_review_candidates where it ranks 8th (score 35.5, 55 days) and is the
-    OLDEST entry in the top-16 - older than the 45-day file the 11:45 run took. Zero live tasks
-    name it as File, grepped against the active region. The discriminator is a concrete
-    unrepaired internal tension, grep-verified on disk: commit ab0770d103 (2026-08-21 01:17,
-    the scale-types-for-phenomenal-quantities expand) inserted a paragraph at L61 saying
-    additive decomposability is sufficient but not necessary for quantitative structure, so the
-    unit argument cannot rest on non-additivity by itself - while the article''s own framing
-    section at L47 still defines the first leg of its triad as Units require that the measured
-    quantity be decomposable into identical, additive portions, and the two intervening
-    paragraphs still run the pure non-additivity case. The refinement repaired its local
-    paragraph and left the definition the whole argument rests on untouched. Secondary lenses
-    recorded in the task: the description frontmatter still asserts unqualified resistance on
-    all three legs (navigation-surfaces-carry-unreviewed-claims), an apex-installed See-Also
-    label from 10533cf23c asserts an unreconciled tension the body may never state, and the
-    reference list is 6 entries with ZERO from the 2020s. Length is 2291w against topics hard
-    4000, so 1709 words of headroom - not a condense target. FALSE PREMISE CAUGHT AND WRITTEN
-    INTO THE TASK: the tempting frame was outbound-crosslink-sentences-are-never-reviewed-by-
-    anyone, but reviews/pessimistic-2026-08-21-scale-types.md L27 explicitly records that the
-    installed sibling crosslink sentences were read and verified accurate and that the cross-
-    article contradiction was pre-fixed. The task tells the executor not to re-litigate the
-    Luce-Tukey summary; what is unreviewed is the host''s surrounding prose, not the insert.
-    SOURCES NOT USED, each measured this run: unconsumed_research - EXHAUSTED. All six recent
-    research notes whose slug has no matching article (values-in-science-and-inductive-risk,
-    phenomenal-individuality-and-biological-individuality-pluralism, analog-quantum-devices,
-    semanticisation-and-fading-episodic-phenomenology, anti-zeno-effect-and-sign-of-conscious-
-    observation, african-philosophy-of-mind) were traced to COMPLETED fold tasks under other
-    slugs - the replenish-unconsumed-research-dedup-misses-threaded-content shape, six times
-    over. The only genuine remainder, machine-aesthetic-judgment-2026-08-07, is already the
-    live 11:45 P2. orphan_integration - one orphan corpus-wide and it is topics/non-temporal-
-    consciousness.refinement-log.md, an intentional editor sidecar, which incidentally confirms
-    topics holds 319 real articles while count_section_files gates at 320. length_analysis -
-    the worst topics offender, consciousness-and-the-metaphysics-of-laws-and-dispositions at
-    4226w, was already condensed 2026-05-31 and carries both a DEFERRED-TO-HUMAN calibration-
-    condense and a completed HUMAN length-decision, so re-minting is the documented replenish-
-    overmints-condense blind spot; the three standing condense tasks remain veto-tagged. chain
-    - the last expand-topic (scale-types, 01:17) already took a deep-review at 06:04 and a
-    pessimistic review the same day. positions_register_gap - three positions-evolve tasks are
-    already live. staleness runners-up rejected on the merits: organizational-invariance (sole
-    post-review delta is one See-Also label), the-steelman-for-value-blind-selection (sole
-    delta is a reciprocal cross-link), radical-pair-magnetoreception (one-sentence
-    disambiguation, already the product of a deliberate cross-page audit). CAPS this run via
-    count_section_files: topics 320/320 gated (319 real), concepts 318/320, voids 99/100,
-    positions 16 files of which 14 are domain files.'
+  last_replenishment_note: 'FLOOR-RESTORE STANDARD MINT, one new P2, zero promotions,
+    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
+    3; post-count 3. Third floor restore of the day: the 11:45 pair drained in about
+    an hour (interpretability-probes re-route 12:0x, decoherence P-Q8 straggler fe7ecc7466),
+    leaving only that run''s own two mints. MINTED ONE, DELIBERATELY NOT FIVE-TO-EIGHT:
+    every other source was measured this run and came back empty or already claimed,
+    so a second mint would have meant inventing a candidate. SOURCE USED, staleness:
+    deep-review topics/consciousness-and-the-problem-of-measurement-standards, validated
+    against get_review_candidates where it ranks 8th (score 35.5, 55 days) and is
+    the OLDEST entry in the top-16 - older than the 45-day file the 11:45 run took.
+    Zero live tasks name it as File, grepped against the active region. The discriminator
+    is a concrete unrepaired internal tension, grep-verified on disk: commit ab0770d103
+    (2026-08-21 01:17, the scale-types-for-phenomenal-quantities expand) inserted
+    a paragraph at L61 saying additive decomposability is sufficient but not necessary
+    for quantitative structure, so the unit argument cannot rest on non-additivity
+    by itself - while the article''s own framing section at L47 still defines the
+    first leg of its triad as Units require that the measured quantity be decomposable
+    into identical, additive portions, and the two intervening paragraphs still run
+    the pure non-additivity case. The refinement repaired its local paragraph and
+    left the definition the whole argument rests on untouched. Secondary lenses recorded
+    in the task: the description frontmatter still asserts unqualified resistance
+    on all three legs (navigation-surfaces-carry-unreviewed-claims), an apex-installed
+    See-Also label from 10533cf23c asserts an unreconciled tension the body may never
+    state, and the reference list is 6 entries with ZERO from the 2020s. Length is
+    2291w against topics hard 4000, so 1709 words of headroom - not a condense target.
+    FALSE PREMISE CAUGHT AND WRITTEN INTO THE TASK: the tempting frame was outbound-crosslink-sentences-are-never-reviewed-by-
+    anyone, but reviews/pessimistic-2026-08-21-scale-types.md L27 explicitly records
+    that the installed sibling crosslink sentences were read and verified accurate
+    and that the cross- article contradiction was pre-fixed. The task tells the executor
+    not to re-litigate the Luce-Tukey summary; what is unreviewed is the host''s surrounding
+    prose, not the insert. SOURCES NOT USED, each measured this run: unconsumed_research
+    - EXHAUSTED. All six recent research notes whose slug has no matching article
+    (values-in-science-and-inductive-risk, phenomenal-individuality-and-biological-individuality-pluralism,
+    analog-quantum-devices, semanticisation-and-fading-episodic-phenomenology, anti-zeno-effect-and-sign-of-conscious-
+    observation, african-philosophy-of-mind) were traced to COMPLETED fold tasks under
+    other slugs - the replenish-unconsumed-research-dedup-misses-threaded-content
+    shape, six times over. The only genuine remainder, machine-aesthetic-judgment-2026-08-07,
+    is already the live 11:45 P2. orphan_integration - one orphan corpus-wide and
+    it is topics/non-temporal- consciousness.refinement-log.md, an intentional editor
+    sidecar, which incidentally confirms topics holds 319 real articles while count_section_files
+    gates at 320. length_analysis - the worst topics offender, consciousness-and-the-metaphysics-of-laws-and-dispositions
+    at 4226w, was already condensed 2026-05-31 and carries both a DEFERRED-TO-HUMAN
+    calibration- condense and a completed HUMAN length-decision, so re-minting is
+    the documented replenish- overmints-condense blind spot; the three standing condense
+    tasks remain veto-tagged. chain - the last expand-topic (scale-types, 01:17) already
+    took a deep-review at 06:04 and a pessimistic review the same day. positions_register_gap
+    - three positions-evolve tasks are already live. staleness runners-up rejected
+    on the merits: organizational-invariance (sole post-review delta is one See-Also
+    label), the-steelman-for-value-blind-selection (sole delta is a reciprocal cross-link),
+    radical-pair-magnetoreception (one-sentence disambiguation, already the product
+    of a deliberate cross-page audit). CAPS this run via count_section_files: topics
+    320/320 gated (319 real), concepts 318/320, voids 99/100, positions 16 files of
+    which 14 are domain files.'
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
