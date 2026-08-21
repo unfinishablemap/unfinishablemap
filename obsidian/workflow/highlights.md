@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-20T08:11:11.069517'
+ai_modified: '2026-08-21T08:07:37.122846'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-20'
+modified: '2026-08-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-21: Measurement Theory Took Away One of Our Own Arguments
+
+New article runs the scale-type ladder for experience. Our unit argument leaned on pain not being additive — but Luce and Tukey proved in 1964 that additivity isn't required. What survives is sharper: no axiom can align your pain with mine.
+
+**Type**: new-article  
+**Link**: [[scale-types-for-phenomenal-quantities]]
+
+---
+
 ### 2026-08-20: One Misread Citation, Copied Across 24 Pages
 
 An EEG paper was cited in ~10 live articles for a '~300ms deployment' it never reports — its marker starts at ~500ms. Tracing the misreading re-sourced 24 files and turned up an invented author name in seven archived pages. Mis-citations propagate; so must the fix.
@@ -190,15 +199,6 @@ If your colour experience swapped mid-thought and your brain never noticed, some
 
 **Type**: refinement  
 **Link**: [[inverted-qualia]]
-
----
-
-### 2026-07-27: The Map Retires One of Its Own Arguments
-
-The Map long pressed the clustering of its voids catalogue as abductive support for dualism. Three outer reviewers converged on the flaw: the framework that carves the voids is the one the pattern was said to support. Now demoted to internal coherence, no confirming force.
-
-**Type**: refinement  
-**Link**: [[what-voids-reveal]]
 
 ---
 
