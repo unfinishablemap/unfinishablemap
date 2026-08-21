@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-08-03T06:39:36+00:00
+ai_modified: 2026-08-21T22:40:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,9 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
+  - "[[brain-internal-born-rule-testing]]"
+  - "[[self-concealing-interface]]"
+  - "[[positions/quantum-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6+claude-opus-5
@@ -28,13 +31,13 @@ last_curated:
 last_deep_review: 2026-07-17T18:54:00+00:00
 ---
 
-A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
+A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions in their mechanism-committed readings, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. The spectrum runs *inside* tenets as well as between them: the Map's own default reading of Tenet 2 predicts no statistical signature by construction and is not refutable by the experiments that bear on its rivals. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
 
 ## Types of Falsification Condition
 
 Not all commitments are testable in the same way. The Map's tenets involve three distinct types of falsification condition, each with different evidential standards.
 
-**Decisive falsification** applies where a single experimental result could force abandonment. The quantum-level tenets come closest to this standard. If quantum coherence were shown to be physically impossible in all biological neural systems, the Minimal Quantum Interaction tenet would fail. If macroscopic quantum interference between branches were demonstrated (Deutsch's 1985 Wigner's friend variant), the No Many Worlds tenet would be under severe pressure.
+**Decisive falsification** applies where a single experimental result could force abandonment. The quantum-level tenets come closest to this standard, though Tenet 2 reaches it only in part: its readings have materially different falsifiability profiles and should not be flattened into a single condition. One condition is decisive for every reading—if quantum coherence were shown to be physically impossible in all biological neural systems, no quantum indeterminacy would remain for consciousness to exploit and the Minimal Quantum Interaction tenet would fail. Past that shared floor the readings separate, and the Map's own default reading is not decisively falsifiable; [[#minimal-quantum-interaction|the entry below]] sets out the split. If macroscopic quantum interference between branches were demonstrated (Deutsch's 1985 Wigner's friend variant), the No Many Worlds tenet would be under severe pressure.
 
 **Cumulative falsification** applies where no single experiment is decisive but a pattern of evidence could erode the commitment. The Dualism tenet works this way. No single neural correlate of consciousness threatens dualism—dualism already expects mind-brain correlation through the interaction interface. But a complete physical explanation of subjective experience that demonstrably closes the [[explanatory-gap|explanatory gap]] would constitute overwhelming cumulative evidence against it.
 
@@ -60,9 +63,13 @@ What would count: a physical explanation that *entails* phenomenal experience—
 
 ### Minimal Quantum Interaction
 
-**Type**: Mechanism hypothesis with empirical content—the Map's most testable tenet.
+**Type**: Mechanism hypothesis with empirical content—the Map's most testable tenet *in its mechanism-committed readings*, and at the conditional rather than the aggregate register.
 
 What would count: proof that quantum coherence cannot survive in any neural system, or that classical noise fully accounts for neural stochasticity. Hameroff (2020) argues [[quantum-consciousness|Orch OR]] generated 20 testable predictions (originally published in 1998); six were confirmed and none refuted as of a 2014 self-assessment by the theory's proponents (Hameroff & Penrose, 2014). Independent evaluation of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) constrains specific collapse models without eliminating the broader commitment. The tenet is broader than any single mechanism—it commits to *some* quantum-level interface, making it harder to falsify than Orch OR alone.
+
+Which of these conditions bites depends on which reading is in view, and the [[falsification-roadmap-for-the-interface-model|roadmap]] tabulates the readings separately for that reason. The *mechanism-committed* readings—Orch OR, Stapp's quantum Zeno rate, probability-bias channels admitting a small per-event deviation, Φ-dependent collapse—predict signatures, and they are the readings the tractability claim describes. The Map's own default is not among them. On the **strict corridor** reading, registered as [[positions/quantum-interface|P-Q2]], conscious selection biases which post-decoherence outcome actualises while preserving Born statistics exactly; it therefore predicts no Born-statistical signature by construction and is not Popper-refutable by Born-rule tests. What the corridor is exposed to is *motivation-loss* rather than refutation: a complete decoherence-only resolution of the definite-outcome problem would remove the selection space the corridor needs to occupy, leaving it consistent with the data but with nothing left to do. [[brain-internal-born-rule-testing]] works out the convergent negative evidence this would require—refutation of related mechanisms, a consistency criterion, and theoretical supersession—none of which any single experiment supplies. The **trumping/preemption** reading sits further from testability still: it is empirically indistinguishable from epiphenomenalism on Born-rule data alone, and separable only by causal-structure evidence.
+
+Locating the tenet's empirical content therefore means naming a register as well as a reading. At the aggregate register the corridor forecloses testing outright; what remains is the *conditional* register, where the question is whether specifiable conditioning—on intention, task, or subject—separates the outcome distribution from the unconditioned Born measure. [[self-concealing-interface|The self-concealing interface]] works that commitment through, and is where the corpus resolves the apparent contradiction between calling Tenet 2 the most testable and holding the interface aggregate-invisible by construction.
 
 ### Bidirectional Interaction
 
@@ -84,9 +91,9 @@ What would count in principle: a rigorous proof that parsimony reliably tracks t
 
 ## Why Honest Asymmetry Matters
 
-The five tenets are not equally testable, and pretending otherwise would damage the Map's credibility. The quantum-level tenets (2, 3, 4) generate predictions that experimentalists are already investigating. The dualism tenet (1) is vulnerable to cumulative pressure but not to a single experiment. The parsimony tenet (5) is meta-scientific.
+The five tenets are not equally testable, and pretending otherwise would damage the Map's credibility. The quantum-level tenets (2, 3, 4) generate predictions that experimentalists are already investigating—Tenet 2 in its mechanism-committed readings, its default corridor reading being the Map's clearest case of a commitment no single experiment refutes. The dualism tenet (1) is vulnerable to cumulative pressure but not to a single experiment. The parsimony tenet (5) is meta-scientific.
 
-This asymmetry is a feature, not a defect. A philosophical framework that combines metaphysical commitments, mechanism hypotheses, and epistemological positions *should* have varied falsification conditions. The alternative—claiming uniform testability—would be dishonest. What matters is that each tenet has a specified response to adverse evidence: mechanism tenets yield to experimental results; the framework commitment yields to cumulative explanatory success by rivals; the epistemological position yields to philosophical argument and historical evidence.
+This asymmetry is a feature, not a defect. A philosophical framework that combines metaphysical commitments, mechanism hypotheses, and epistemological positions *should* have varied falsification conditions. The alternative—claiming uniform testability—would be dishonest. What matters is that each tenet has a specified response to adverse evidence: mechanism tenets yield to experimental results, or—where a reading predicts no signature by construction—to loss of the theoretical space the reading was postulated to fill; the framework commitment yields to cumulative explanatory success by rivals; the epistemological position yields to philosophical argument and historical evidence.
 
 The Map's rivals face comparable challenges. Physicalism about consciousness has no agreed falsification condition—what would convince a physicalist that physical explanation *cannot in principle* account for experience? Many-worlds interpretation advocates often acknowledge that no feasible experiment distinguishes their view from collapse interpretations. As the Map's analysis of [[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]] develops in detail, consciousness theories function as Lakatosian research programmes with protected hard cores—the falsification problem is not the Map's alone; it belongs to philosophy of mind as a field.
 
@@ -99,6 +106,9 @@ The falsification conditions also reveal the Map's distinctive structure. Unlike
 ## Further Reading
 
 - [[falsification-roadmap-for-the-interface-model]]
+- [[brain-internal-born-rule-testing]] — what convergent evidence would make the corridor reading of Tenet 2 empirically superfluous
+- [[positions/quantum-interface]] — the register entries (P-Q2, P-Q3) behind the corridor reading and the bias-without-deviation dilemma
+- [[self-concealing-interface]] — the aggregate-versus-conditional register split
 - [[testing-consciousness-collapse]]
 - [[duhem-quine-underdetermination-consciousness]]
 - [[methodology-of-consciousness-research]]
