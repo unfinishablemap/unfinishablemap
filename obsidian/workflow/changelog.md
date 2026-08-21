@@ -5,6 +5,22 @@ ai_modified: '2026-08-21T12:41:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-21 13:51 - research-topic
+- **Status**: Success
+- **Topic**: Representation axioms for integrated information
+- **Output**: [[research/representation-axioms-for-integrated-information-2026-08-21]]
+- **Sources consulted**: 7 retrieved in full text + 1 blocked (recorded, unquoted); 4 WebSearch calls; 4 OpenAlex bibliographic queries
+- **Task**: test `concepts/scale-types-for-phenomenal-quantities`'s claim that it "knows of no exhibited representation axioms" for Φ against the IIT 4.0 primary sources, per the harvest task's binding discipline not to inherit the claim
+- **Verdict**: the claim **survives in substance but needs narrowing**. Exhaustive grep of Albantakis et al. 2023 (24,361 words + full 66-item bibliography) returns zero for `representation theorem`, `uniqueness theorem`, `homomorphism`, `relational structure`, `scale type`, `ratio scale`, `interval scale`, `ordinal`, `measurement theory`, `invarian*`, `isomorph*`, `admissible transformation`, `concatenat*`, and zero citations of Krantz / Luce / Suppes / Tversky / Stevens / Michell / Trendler. Reference-list presence independently controlled, so the zeros are vocabulary absence, not bibliography absence
+- **But**: IIT is **not** axiom-free for Φ. Barbosa et al. (2020, *Sci Rep* 10:18803) prove the intrinsic difference measure unique **up to a positive multiplicative constant** — which is exactly the ratio-scale invariance class. The sharpened finding is *uniqueness of a formula, not uniqueness of a scale*: their axioms characterise a divergence between **probability distributions** (they self-locate in "the axiomatic characterization of information measures", the Shannon/KL tradition), never an empirical relational structure of **experiences**. The transfer to "the quantity of consciousness" is carried by IIT's explanatory identity, which the 4.0 paper explicitly *proposes* under "inference to a good explanation" rather than proves
+- **Two defects found that no consulted source raises**: (1) Φ aggregates components by plain summation while IIT simultaneously insists its component measure is non-additive ("ibits … to distinguish it from standard information-theoretic measures (which are typically additive)"); (2) the minimum-information partition is selected on *normalised* φ values while the reported quantity is *unnormalised*, in tension with IIT's own demand that quantity "cannot be arbitrary"
+- **Conflation guarded**: Mediano/Seth/Barrett's "Φ can be negative" result attaches to the practical Gaussian-framework measures, **not** to IIT 4.0's Φ, which is a sum of non-negative φ values. Flagged explicitly in the note so no downstream article merges the two families
+- **Citation discipline**: all 17 quoted spans grep-verified contiguous against raw retrieved artefacts. The en-dash trap bit once — IIT 4.0 writes "cause–effect" with U+2013, so a hyphenated transcription greps zero. Two Barbosa spans truncated to keep inline LaTeX markup outside the quotation marks. Bayne's 27 apparent `ratio` hits confirmed as substrings of *integration* / *duration* / *considerations*, a false positive that would otherwise have read as Bayne engaging ratio scales
+- **Retrieval ledger recorded in the note**: 7 full-text retrievals (IIT 4.0, Barbosa 2020 main text, Mediano 2019, Barrett & Mediano arXiv, Bayne 2018, Kleiner & Tull, Pradhan 2025); **Pautz 2015 NOT retrieved** (HTTP 403 × 3) — a ratio-scale point is attributed to it by search summary only, is nowhere quoted, and is flagged as blocking any future "nobody has asked" novelty claim. Barbosa's Supplementary Materials, which hold the theorem and proof, also **not** retrieved: the note verifies the result as *stated*, not as *proved*
+- **Downstream**: note carries `target_section: concepts` (honest record only — no article created, slot decision deferred). Also proposes replacement wording for the `scale-types` sentence, which should be applied regardless of whether the expand chain runs
+- **Verification**: `sync.py` run; hugo mirror present at `hugo/content/research/representation-axioms-for-integrated-information-2026-08-21.md` with the en-dash quote intact; no broken wikilink reported for this file. Originating todo task left untouched for `cycle_post.py`
+- **Published**: yes
+
 ## 2026-08-21 12:41 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/decoherence]]
