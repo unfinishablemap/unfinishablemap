@@ -105,7 +105,7 @@ The article is in *moderate drift*: cited literature's median year is approximat
 - **Quote** (from search result summary): "Lateralization of the first high-level executive control mechanisms in crows for volitional visual attention... high-level processes are more likely to involve conscious experience than lower-level ones."
 - **Why missing matters**: The article has a dedicated [[cetacean-and-corvid-consciousness]] sibling article and refers to it from the human-ape gap discussion. The 2025 corvid-consciousness 5-dimensional paper is the strongest 2025 citation for that sibling.
 
-### Bayne, Carter & Seth (2024) — "Tests for Consciousness in Humans and Beyond"
+### Bayne et al. (2024) — "Tests for Consciousness in Humans and Beyond"
 - **URL**: *Trends in Cognitive Sciences* 28, 454–466 (2024)
 - **Type**: High-impact review article
 - **Key points**:
@@ -210,7 +210,7 @@ The article is in *moderate drift*: cited literature's median year is approximat
 | 2024 | Birch *The Edge of Sentience* (book) | Three-tier precautionary framework extended to AI, fetuses, organoids |
 | 2024 | Gutfreund "Still Agnostic" *Frontiers in Psychology* | Principled agnostic counter to NY Declaration's "realistic possibility" |
 | 2024 | Godfrey-Smith *Inferring Consciousness in Phylogenetically Distant Organisms* | Neural-dynamics-of-subjectivity (NDS) framework |
-| 2024 | Bayne, Carter & Seth *Tests for Consciousness in Humans and Beyond* TICS | Theory-light vs. theory-heavy test taxonomy |
+| 2024 | Bayne et al. *Tests for Consciousness in Humans and Beyond* TICS | Theory-light vs. theory-heavy test taxonomy |
 | 2025 (Feb) | Andrews, Birch & Sebo "Evaluating Animal Consciousness" *Science* | Marker method — operationalised post-Declaration methodology |
 | 2025 | Chittka et al. "The Exploration of Consciousness in Insects" *Phil. Trans. B* | Specific 2025 insect evidence catalogue (bumblebee play patterns, fruit-fly play, persistent affect) |
 | 2025 | Wandrey & Halina "The Evolution of Animal Consciousness" *Philosophy Compass* | Maps early-evolution vs. latecomer debate to identification-methodology debate |
@@ -270,7 +270,7 @@ No 2024–2025 finding identified in this pass *conflicts* with site tenets. The
 
 Andrews, K., Birch, J., & Sebo, J. (2025). Evaluating animal consciousness. *Science*, 387(6735), 822–824. https://www.science.org/doi/10.1126/science.adp4990
 
-Bayne, T., Carter, O., & Seth, A. K. (2024). Tests for consciousness in humans and beyond. *Trends in Cognitive Sciences*, 28(5), 454–466.
+Bayne, T., Seth, A. K., Massimini, M., et al. (2024). Tests for consciousness in humans and beyond. *Trends in Cognitive Sciences*, 28(5), 454–466.
 
 Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 
