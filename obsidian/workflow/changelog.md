@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T07:29:53+00:00'
+ai_modified: '2026-08-22T07:44:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T07:44:52+00:00 - apex-evolve
+
+- **Status**: Complete
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Selected for**: dependency drift, not staleness score. Four `refine-draft` passes rewrote its primary source `topics/anaesthesia-and-the-consciousness-interface` between 05:47 and 06:43 UTC today, one of them demoting that article's headline evidential claim ("maps the consciousness-brain interface with unexpected precision" and "predicts exactly" now grep **0**). The two higher-scoring apex candidates are both length-blocked: `altered-states-as-interface-evidence` 5235w `hard_warning`, `phenomenal-output-causal-machinery-dissociation` 6903w `critical`.
+- **Changed sources**: 1 of 7 (`topics/anaesthesia-and-the-consciousness-interface`)
+- **Key finding**: the apex was taking two kinds of tenet support its source had that morning **withdrawn**. Tenet 2 recruited the Wiest (2025) microtubule work as compatible with quantum-sensitive interface architecture, where the source now declines that literature because it reaches the tenet only via the pre-decoherence Orch-OR family that **P-Q5** demotes. Tenet 3 read the KCC2 mechanism as consistent with the substrate preparing a channel, where the source now states the pathway is physical causation end to end and measures no mental-to-physical traffic. A third locus asserted flatly that the close/reopen asymmetry "is an architectural fact **about the interface**" — the reading `concepts/active-reboot` disclaims in terms.
+- **Checked and negative**: four of the five source corrections do not reach this apex at all — the ketamine/IIT inversion, Xu 2023, the Parnia statistic and the Orch-OR paragraph all grep **0** in the apex body. Its three `Sarasso et al. (2015)` spans, its Hu et al. three-mechanism-class accounting, and its `filter-theory` / `interface-friction` concession characterisations were all re-verified against current sibling text and needed no change.
+- **Word count**: 4710 → 4731 (`soft_warning`, soft 4000 / hard 5000); +21 net against three calibration rewrites, paid for by six redundancy trims
+- **Review**: [[reviews/apex-evolve-2026-08-22-pharmacological-dissociation-as-evidence]]
 
 ## 2026-08-22T07:29:53+00:00 - research-voids
 
