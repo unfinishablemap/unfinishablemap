@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T13:43:43+00:00'
+ai_modified: '2026-08-22T13:57:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 13:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/organizational-invariance]]
+- **Selection**: tool's top candidate `concepts/compatibilist-symmetry-challenge` (score 65) excluded by driver brief as same-session churn; took next candidate (score 38, 25d unreviewed).
+- **Word count**: 2,376 → 2,416 (+40). `concepts` thresholds printed live: 2500 / 3500 / 5000, status `ok` before and after.
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0 (1 minted as a task against a different file)
+- **Enhancements made**: 1
+- **Dependency-drift finding (the pass that earned the review)**: the article's own text had moved only by a Further Reading gloss install (`2ad924b619`, verified accurate). The defect was beneath it. L84 asserted that "its account of the [[bandwidth-of-consciousness|outbound channel]] **predicts subtle behavioural signatures from any real substrate divergence**" — the sole stated ground for taking the detectable horn of its own dilemma. Three defects: (a) **the named source makes no such prediction and has withdrawn the underlying claim** — `topics/bandwidth-of-consciousness` L165 records that "the Map has accordingly withdrawn the bandwidth argument as a discriminator" and L175 that the bitrate "carries no evidential traction against" epiphenomenalism, published in commits `0551ef2611` / `df71b72807` and never propagated to this citer; exhaustive grep confirms the file contains no "subtle behavioural" and no unhedged prediction; (b) **wrong division of labour** — where the prediction *is* booked (P-Q9, `inverted-qualia` L171) the bandwidth channel predicts *where* differences surface ("finer-grained measurements rather than coarse discrimination tasks"), not *that* they occur; (c) **scope inflation** — P-Q9 and `inverted-qualia` L138 scope it to "any actual instance of **qualia-inversion**"; the article had widened it to "any real **substrate divergence**", silently extending the commitment to the fading case, for which the corpus books nothing. The brief's mirror pass exactly: a residue running *for* the Map, unpriced, inherited widened.
+- **Calibration test**: would a tenet-accepting reviewer still flag it? **Yes — the register flags it itself.** P-Q2 is credence *high* with `empirical discriminability: none-by-construction`; `concepts/ensemble-level-epiphenomenalism` L50 states that under corridor-plus-trumping the causal and epiphenomenal readings "make no predictively distinct claims at any scale". Possibility/probability slippage, not bedrock disagreement.
+- **Fix**: horn now taken on **Tenet 3**, which genuinely licenses it, not on a borrowed empirical promise; prediction re-scoped to inversion in the register's own terms; marked as the Map's own liability rather than a derived result; bandwidth channel demoted to *where*-not-*whether*, so the wikilink now points at something the target supports; absence of any fading-case counterpart stated. Type/token distinction, horn-taking and unpaid-debt framing all preserved.
+- **Second critical (§2.5 source/Map conflation)**: the Schwitzgebel paragraph closed with a rarity argument ("our ordinary introspection may stay reliable only because problem cases are rare…") reading as his. Full post retrieved and read end to end — **it contains no rarity argument**. A Map gloss presented as source exposition, present since the creating commit `7ec2d7cfcd` and missed by the 2026-07-28 review. Removed; the two verified Schwitzgebel points carry the paragraph, and the 33-word cut offsets part of the fix above.
+- **Register-invisibility recorded**: `grep -rn "organizational-invariance" obsidian/positions/` returns **zero**. The article cites no register entry and no entry names it in `Argued in`, so it is invisible to the positions audit in both directions. The binding constraint had to be found by searching the register for the *claim*.
+- **Certifier-side recorded**: the 2026-07-28 review wrote "The type/token account inherited from `inverted-qualia.md` in commit `b3afb915b`. **Untouched.**" — certifying the passage in the same act of not auditing it against its source.
+- **Citation web-verify (§2.4)**: per-cite ledger in the review archive. Both Chalmers quotations **independently re-verified verbatim** by raw-text grep of `consc.net/papers/qualia.html` (not by confirmation prompt, not inherited from the prior report). Schwitzgebel post retrieved in full — two attributed points verified, a third did not verify (above). Mogensen 2025 re-verified at Crossref: Andreas L. Mogensen, *Synthese* 206(5) art. 252, published 2025-11-05 — the prior pass's currency correction holds exactly. `find_superlative_claims` returned 0; no "awaiting replication" / "single-study" tells present. Inline ↔ References complete both directions.
+- **Task minted**: P2 on `concepts/psychophysical-laws` L100, which says the Map rejects invariance "on zombie-argument grounds" — a ground this article's own scope paragraph disarms, since Chalmers *grants* the logical possibility and denies only the nomological one.
+- **Hygiene**: `ai_modified` and `last_deep_review` both stamped from live `date -u` (2026-08-22T13:57:36+00:00) — non-rounded seconds, not future-dated. `scripts/sync.py` run; Hugo mirror grepped and carries both fixes. Corpus gloss sweep (`functionalism` L187, `inverted-qualia` L195, `substrate-independence` L202, `phenomenal-variation-within-a-species` L184, `psychophysical-laws` L272) — all accurate, no repair-side finding.
+- **Output**: [[reviews/deep-review-2026-08-22-organizational-invariance]]
 
 ## 2026-08-22 13:43 UTC - refine-draft
 - **Status**: Success
