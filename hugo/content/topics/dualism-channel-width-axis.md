@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-03 08:31:27+00:00
+ai_modified: 2026-08-22 21:53:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 08:31:27+00:00
-lastmod: 2026-08-03 08:31:27+00:00
+lastmod: 2026-08-22 21:53:00+00:00
 modified: *id001
 related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
@@ -132,7 +132,7 @@ The two-axis thickness taxonomy already noted a [systematically under-populated 
 
 Q4's emptiness is *sociological*: the cell is coherent and inhabitable (Descartes, Stapp, Goff sit there), but contemporary training disfavours paying its mechanism bill. Nothing forbids Q4; the discipline avoids it. The wide-channel/thin-pole cell's emptiness is *mostly structural*: the cell is largely incoherent, so the literature's avoidance tracks genuine impossibility rather than preference. Distinguishing the two kinds of emptiness is part of what a locating axis is *for*. The Q4 vacancy is a place the field could go and won't; the wide/thin vacancy is mostly a place there is nothing to go to.
 
-A naive cartographer might read the two empty cells as the same kind of gap and predict both will fill as the literature matures. Q4 may fill if parsimony norms loosen (the Map's [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is one such loosening); the structurally-forbidden part of the wide/thin region cannot, because no coherent position projects there. Only the contingent sliver — conservation-denying thin Cartesianism — is a genuine prediction-of-possible-occupancy, and even that is a position the field has reasons to find unattractive.
+A naive cartographer might read the two empty cells as the same kind of gap and predict both will fill as the literature matures. Q4 may fill if parsimony norms loosen (the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is one such loosening); the structurally-forbidden part of the wide/thin region cannot, because no coherent position projects there. Only the contingent sliver — conservation-denying thin Cartesianism — is a genuine prediction-of-possible-occupancy, and even that is a position the field has reasons to find unattractive.
 
 ## Relation to Site Perspective {#site-perspective}
 

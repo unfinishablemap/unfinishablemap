@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T21:12:19+00:00'
+ai_modified: '2026-08-22T21:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T21:53:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/dualism-channel-width-axis]]
+- **Scope**: Navigational repair only — broken tenet block anchor. No prose, claim, or citation touched.
+- **Changes**:
+  - **Anchor fix, 6 occurrences across 5 files.** `[[tenets#^occams-razor-has-limits|…]]` → `[[tenets#^occams-limits|…]]`. The block anchor defined at `obsidian/tenets/tenets.md:131` is `^occams-limits`; the long form resolved to the tenets page but landed at the top rather than Tenet 5 — a **soft** failure, which is why `/check-links` never flagged it. Display text `|Occam's Razor Has Limits]]` left untouched in every locus.
+  - Loci: `obsidian/topics/dualism-channel-width-axis.md:130` (the sole live-article locus) plus four archive files — `archive/topics/does-a-wide-channel-force-thick-poles.md:85` (this article's own archived coalesce predecessor, near-identical sentence), `archive/topics/quantum-measurement-and-definite-outcomes.md:131`, `archive/concepts/quantum-decoherence-objection-responses.md:160`, `archive/voids/distraction-void.md:98,100` (two occurrences).
+  - **Archive care observed.** Archive pages serve full bodies at preserved URLs and are reader-facing, not echo — but they are frozen records. Anchor only; no archive prose edited and no archive frontmatter timestamp bumped (`git diff --numstat` confirms 1-in/1-out per file, 2 for `distraction-void`).
+  - `ai_modified` bumped on the live article only. **`ai_system` held** — an anchor repair is correction, not authoring.
+- **Deliberately NOT touched**:
+  - `obsidian/reviews/` (7 hits) and `obsidian/workflow/archive/` (3 hits) — historical echo. One `reviews/tenet-check-2026-06-10.md` entry *records a previous instance being caught and fixed elsewhere*; rewriting these would falsify the record.
+  - `hugo/content/concepts/heterophenomenology.md:153` and `hugo/content/topics/microphenomenological-interview-method.md:153` — they match the grep but carry a *bare markdown anchor* `[...](/tenets/#occams-razor-has-limits)`, and their obsidian sources contain no `occams` reference at all. Different defect class (stale hugo copy + bare-anchor link); needs its own task, not folded in here.
+  - `topics:`/`concepts:` bare unbracketed slugs (`- dualism`). `extract_topics()` strips quotes and brackets alike and does no path normalisation, so the extracted identity is unchanged and agentic-social dedup is unaffected. Recorded so a later pass does not mistake it for the path-prefix defect the convention actually guards against.
+- **Length**: 3998 words before, **3998 after** — the fix edits a wikilink *target*, not prose, so it is naturally word-neutral. `topics` thresholds printed live from `tools.curate.length.THRESHOLDS` = (3000 soft, 4000 hard, 6000 critical); status test is `>= hard`, so 3999 is the safe maximum and this article sits two words below the gate. No explanatory sentence or gloss was added, by design.
+- **Recorded for a future pass**: this article is **genuinely** near its gate, not apparatus-inflated. Further Reading + References total 351 words — only 9% of the body — leaving ~3656 words of real prose. A future length flag here should be treated as real rather than dismissed as reference-apparatus inflation. No condense is warranted now; the argument is dense and its concessions are what make it good.
+- **Published**: yes
 
 ## 2026-08-22T21:12:19+00:00 - deep-review
 

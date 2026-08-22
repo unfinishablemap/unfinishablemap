@@ -132,7 +132,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 
 **[Dualism](/tenets/#dualism)**: The measurement problem reveals a gap in physical explanation that no purely physical account has closed. Consciousness remains a candidate for filling that gap.
 
-**[Occam's Razor Has Limits](/tenets/#occams-razor-has-limits)**: The "simple" solution—collapse just happens randomly—is not actually an explanation. Apparent parsimony that leaves the explanandum unexplained is no virtue.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simple" solution—collapse just happens randomly—is not actually an explanation. Apparent parsimony that leaves the explanandum unexplained is no virtue.
 
 ## Further Reading
 

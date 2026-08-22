@@ -157,7 +157,7 @@ The five responses surveyed here show that the objection, while serious, is not 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that consciousness causally influences the physical world—depends on there being a physical mechanism through which such influence can operate. The decoherence objection was the principal empirical challenge to this claim. The five responses together preserve the physical space for consciousness to act at the quantum level, whether through the measurement-problem opening (Response 1) or through discrete-event mechanisms that sidestep decoherence timing (Response 3).
 
-The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits tenet]] is also directly relevant. The decoherence objection was taken as decisive partly because it seemed simpler to dismiss quantum consciousness than to investigate whether biology might manage decoherence. The discovery of [[quantum-biology|quantum biology]]—magnetoreception, enzyme tunnelling—shows that nature's strategies for exploiting quantum effects are more resourceful than our assumptions predicted.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also directly relevant. The decoherence objection was taken as decisive partly because it seemed simpler to dismiss quantum consciousness than to investigate whether biology might manage decoherence. The discovery of [[quantum-biology|quantum biology]]—magnetoreception, enzyme tunnelling—shows that nature's strategies for exploiting quantum effects are more resourceful than our assumptions predicted.
 
 ## Further Reading
 
