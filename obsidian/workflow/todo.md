@@ -2837,15 +2837,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review (2026-08-21, deferred by the 18:50 refine)
 - **Generated**: 2026-08-21
 
-### P2: `topics/incubation-effect-and-unconscious-processing` repeats the pre-correction Lacaux dose framing
-- **Type**: refine-draft
-- **File**: obsidian/topics/incubation-effect-and-unconscious-processing.md
-- **Status**: pending
-- **Source**: outer-review
-- **Generated**: 2026-08-22
-- **Review file**: `reviews/outer-review-2026-08-21-chatgpt-5-6-pro.md`
-- **Notes**: Found by the post-fix sweep of the 2026-08-21 hypnagogia-cluster refine (which corrected `concepts/filter-theory` and `apex/altered-states-as-interface-evidence`). This is the **third** live locus of the same defect and was not named in that task. Line ~101 reads: *"Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of discovering a hidden problem-solving rule in a mathematical task (83% versus 30%)."* Fifteen seconds was the **minimum criterion for classifying an N1 episode**, not an administered dose, so "spending as little as fifteen seconds ... tripled" states a dose-response the study did not run. The corrected form now lives in the source article `topics/hypnagogic-phenomenology-and-interface-modulation.md` L88 and in the apex L104 — copy from either. The surrounding sentence also over-reaches in the way ChatGPT 5.6 Pro flagged for this file specifically (review L396): *"That article amplifies the same overreach. It uses Lacaux and Dormio to claim a causal 'mode shift' and describes NREM too broadly as an absence condition. N1 is itself conventionally classified as NREM."* So the fix is two-part: (a) reframe the fifteen-second figure as a classification threshold and the effect as one unreplicated hidden-rule paradigm; (b) downgrade *"These findings isolate the mode-shift itself as the active ingredient"* — neither study isolates the causal contribution of phenomenal experience, which is exactly what the source article now concedes at its L92. **ALSO NOTED, no action proposed**: the same pre-correction wording survives in the archived `archive/topics/dreams-as-consciousness-laboratory.md` L82 ("tripled the probability of mathematical insight"), which still serves a full body at its preserved URL (`outer-reviewers-critique-archived-articles-at-live-urls`). Editing archived text is a separate policy call — flagging, not requesting.
-
 ### P3: `apex/moral-architecture-of-consciousness` L164 quotes the Strawsonian concession non-verbatim — "not evidence" where the source reads "none of this is evidence"
 - **Type**: refine-draft
 - **File**: obsidian/apex/moral-architecture-of-consciousness.md
@@ -2921,6 +2912,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-22: `topics/incubation-effect-and-unconscious-processing` repeats the pre-correction Lacaux dose framing
+- **Type**: refine-draft
+- **File**: obsidian/topics/incubation-effect-and-unconscious-processing.md
+- **Notes**: Found by the post-fix sweep of the 2026-08-21 hypnagogia-cluster refine (which corrected `concepts/filter-theory` and `apex/altered-states-as-interface-evidence`). This is the **third** live locus of the same defect and was not named in that task. Line ~101 reads: *"Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of discovering a hidden problem-solving rule in a mathematical task (83% versus 30%)."* Fifteen seconds was the **minimum criterion for classifying an N1 episode**, not an administered dose, so "spending as little as fifteen seconds ... tripled" states a dose-response the study did not run. The corrected form now lives in the source article `topics/hypnagogic-phenomenology-and-interface-modulation.md` L88 and in the apex L104 — copy from either. The surrounding sentence also over-reaches in the way ChatGPT 5.6 Pro flagged for this file specifically (review L396): *"That article amplifies the same overreach. It uses Lacaux and Dormio to claim a causal 'mode shift' and describes NREM too broadly as an absence condition. N1 is itself conventionally classified as NREM."* So the fix is two-part: (a) reframe the fifteen-second figure as a classification threshold and the effect as one unreplicated hidden-rule paradigm; (b) downgrade *"These findings isolate the mode-shift itself as the active ingredient"* — neither study isolates the causal contribution of phenomenal experience, which is exactly what the source article now concedes at its L92. **ALSO NOTED, no action proposed**: the same pre-correction wording survives in the archived `archive/topics/dreams-as-consciousness-laboratory.md` L82 ("tripled the probability of mathematical insight"), which still serves a full body at its preserved URL (`outer-reviewers-critique-archived-articles-at-live-urls`). Editing archived text is a separate policy call — flagging, not requesting.
 
 ### ✓ 2026-08-22: `concepts/scale-types-for-phenomenal-quantities` names no rival to the interval or cross-subject rungs — three the research note surfaced were priced out at 3489/3500 and need a condense or split first
 - **Type**: refine-draft

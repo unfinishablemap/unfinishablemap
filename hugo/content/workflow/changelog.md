@@ -10,6 +10,50 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-22T16:57:20+00:00 - refine-draft
+
+- **Status**: Success (all three briefed defects fixed, plus one unbriefed sibling locus and one stale-dependency inheritance)
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Length**: 2774w -> **3359w** (measured with `analyze_length`, not estimated; topics thresholds 3000 soft / 4000 hard / 6000 critical; status `soft_warning`, **641 words to hard**). Length was not a constraint and the brief said so; the fix needed the words.
+
+### (a) Lacaux dose framing — corrected
+
+L101 asserted a dose-response the study never ran ("spending as little as fifteen seconds ... tripled the probability"). Replaced with the corrected wording already live in `topics/hypnagogic-phenomenology-and-interface-modulation` L88: participants *accumulating at least* fifteen seconds were about three times as likely to discover a hidden shortcut (83% against 30%), fifteen seconds being the **minimum criterion for classifying an N1 episode** rather than an administered dose. Also scoped to hidden-rule discovery in one paradigm rather than creativity generally.
+
+### (b) Causal over-claim — conceded
+
+Removed "These findings isolate the mode-shift itself as the active ingredient: not rest, not time away from the problem, but the specific cognitive mode of loosened consciousness." Neither Lacaux nor Dormio isolates the causal contribution of phenomenal experience. Installed the concession modelled on `hypnagogic-phenomenology` L92. The forbidden "not X, not Y, but Z" shape was **not** reproduced.
+
+### (c) The NREM/N1 proxy defect — repaired at all three loci, not two
+
+The brief named L99 and L122. A third locus rests on the same proxy: **L83** ("REM dreaming appears to produce creative benefits that NREM sleep does not"). Fixing two of three would have left the defect live, so all three were restated.
+
+The repair makes the dichotomy **phenomenal rather than architectural**. The argument needs *experience present vs absent*; REM/NREM is only a rough proxy, and N1 is exactly where proxy and target come apart — polysomnographically NREM, phenomenally rich. This **strengthens** the argument: Lacaux stops being an embarrassment (a NREM stage delivering the benefit the division reserves for REM) and becomes the case that shows why the phenomenal reading is the right one.
+
+- **L83**: restated with no stage labels at all — "the sleep periods marked by vivid experience appear to carry creative benefits that unexperienced ones do not".
+- **L99**: the flat claim "NREM by its absence" was not merely loose, it **contradicted the Map's own `concepts/sleep-and-consciousness`**, which holds that consciousness "diminishes but rarely vanishes entirely — dreaming can occur in any sleep stage". Added Siclari et al. (2017): NREM dreaming correlates with reduced posterior hot-zone slow-wave activity, so "dreamless" NREM is partly defined by absence of *report*. Cross-linked to `[[sleep-and-consciousness]]`.
+- **L101**: new paragraph making the N1-is-NREM point the payoff rather than the problem.
+- **L103**: the hard-problem conclusion ("suggests the experiential dimension is doing causal work") was left in tension with the new (b) concession; downgraded to a prediction the Map's reading makes but which the literature has not confirmed.
+- **L122**: falsification condition restated phenomenally as "Creative benefit appeared without experience", with the note that the test must run on phenomenal reports rather than stage labels. Otherwise it stayed half-met by the article's own headline citation.
+
+### Stale dependency inherited: Löwe et al. (2025)
+
+`hypnagogic-phenomenology` L88 was updated today (12:11 UTC) with a preregistered conceptual replication this article had not caught. **Löwe, Petzka, Tzegka & Schuck (2025)**, *PLOS Biology* 23(6) e3003185 — N=90 — found **no N1 advantage** over waking (63.6% vs 55.5%, p = 0.75) and located the benefit at **N2** instead (85.7%, p = 0.038). Provenance checked before use: `research/sleep-onset-literature-2020s-hypnagogia-2026-08-22.md` records **published full text inspected at the publisher** today, and warns that three same-first-author Löwe items must be kept apart — the cited one is the 2025 *PLOS Biology* paper.
+
+This is load-bearing rather than decorative. N2 is NREM, and deeper than N1, so a NREM stage promoted insight relative to waking. Restating L122 without it would have left "Current evidence: REM outperforms NREM" standing as a fresh literature-drift defect in a paragraph I had just rewritten. Note it does **not** overturn Cai: Löwe ran a 20-minute nap with no REM arm, so it is a within-NREM result, and the entry says so rather than overstating it.
+
+### Style
+
+Removed the CLAUDE.md-forbidden "This is not X. It is Y." construct at L81 (two consecutive instances), integrating the contrast into the prose instead.
+
+### Flagged, not edited
+
+- **`archive/topics/dreams-as-consciousness-laboratory.md` L82** carries the pre-correction "tripled the probability of mathematical insight" wording (1 hit in `archive/`, 1 in `hugo/content/archive/`). Archived pages serve full bodies at preserved URLs and outer reviewers do read them, but editing archived text is a policy call. **Stands.**
+- **`topics/dream-consciousness.md` L159, L183, L205** carry the same architectural REM/NREM framing this pass repaired, including a parallel falsification condition at L205 ("If NREM periods with no dream reports produced the same creative improvements as REM dreaming..."). Out of contract for a single-file refine; **worth a task**.
+- **`apex/altered-states-as-interface-evidence.md` L104** still says Lacaux is "One unreplicated paradigm" — superseded by Löwe. That apex was modified at 10:57 today, ~74 min before the hypnagogic article picked up the replication, so it missed it.
+
+- **Published**: yes
+
 ## 2026-08-22T16:24:25+00:00 - refine-draft
 
 - **Status**: Success (outcome **(b) sibling placement + (4) the cheap rider**, with one item deferred and named)
