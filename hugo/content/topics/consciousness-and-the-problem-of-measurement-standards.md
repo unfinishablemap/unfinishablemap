@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-21 17:13:46+00:00
+ai_modified: 2026-08-22 16:24:25+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 17:13:46+00:00
-lastmod: 2026-08-21 17:13:46+00:00
+lastmod: 2026-08-22 16:24:25+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -65,6 +65,8 @@ This reflects the nature of [phenomenal experience](/concepts/phenomenal-conscio
 
 Measurement theory sharpens this argument rather than underwriting it wholesale. Additive decomposability is sufficient for quantitative structure but not necessary: conjoint measurement (Luce and Tukey 1964) constructs interval scales from trade-off orderings alone, without any concatenation operation, so the unit argument cannot rest on non-additivity by itself. Its defensible forms run through the failure — or untested status — of the difference and conjoint axioms for each phenomenal attribute, or through the holism of the experiential field just described; [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) develops this refinement and the axiomatic framework behind it.
 
+A separate line presses from the evidence side. Independently derived models of a single quality space — visual space, colour, smell — often diverge by more than each method's stated uncertainty, and one line of argument takes such non-convergence as evidence against any well-defined metric over phenomenal quality space (MacLeod and Willen 1995; Decock 2006; Barwich 2019, collected in Isaac 2025). Isaac replies that convergence is a regulative ideal of the programme rather than an established result. The argument here is structural and that one empirical: a similar limit by a different route, neither confirming the other.
+
 ## Why Phenomenal Instruments Cannot Be Built
 
 A physical instrument detects its target quantity through causal interaction. A voltmeter measures voltage because voltage drives current through the meter's circuit. The instrument works because the measured quantity has publicly accessible causal effects.
@@ -84,6 +86,10 @@ Calibration is where the impossibility becomes sharpest. To calibrate instrument
 For phenomenal experience, there is no observer-independent reference. My experience of red is not the same kind of thing as your experience of red, because phenomenal experience is constitutively first-personal. The longstanding philosophical puzzle of [inverted qualia](/concepts/inverted-qualia/) dramatises this: two people might systematically experience different colours when looking at the same objects, yet never discover the discrepancy because their verbal reports, behavioural responses, and neural correlates all match.
 
 The inverted-qualia scenario is not merely a thought experiment. It exposes a structural feature of phenomenal measurement: there is no way to calibrate across subjects because there is no shared reference point that is itself phenomenal. We can check that two subjects call the same wavelength "red." We cannot check that they experience the same quality when they do.
+
+That last claim now faces a live empirical challenge. Kawakita et al. (2025) collected similarity judgments for 93 colours and used Gromov–Wasserstein optimal transport to map one group's similarity structure onto another's *without* presupposing any correspondence: no red-to-red pairing assumed. Colour-neurotypical groups aligned correctly; participants with atypical colour vision did not, despite reasonably well-correlated dissimilarity matrices. Isaac (2025) supplies the creed: a structuralist science of experience succeeds "by rendering structural relations between phenomenal experiences behaviorally manifest, and thereby exposing them to intersubjective comparisons using third-personal methods."
+
+This is a genuine cross-subject standard. It does not close the calibration gap, and its authors say so. What gets aligned is a structure of similarity *judgments* over a stimulus set both groups were shown, and an alignment counts as correct when it recovers the stimulus correspondence: the shared reference is the shared colour chart, not a shared phenomenal quantity. Kawakita et al. bracket the remainder: they "do not argue here whether or not there might be a purely intrinsic and incommunicable aspect to qualia," and hold that "structural correspondence alone is insufficient" to license the stronger conclusion. Isaac concedes the same, allowing that structural relations "may be made behaviorally manifest, even if their intrinsic character may not." Inverted qualia is by construction the case such a method cannot see: an alignment fixed by relations alone is fixed only up to the relations it preserves. What survives, if similarity judgments track relational structure as the paradigm assumes, is a smaller calibration problem — reassignment that preserves structure, rather than reassignment of any kind; [scale-types-for-phenomenal-quantities](/concepts/scale-types-for-phenomenal-quantities/) states that residue as a fact about uniqueness theorems.
 
 ## The Proxy Problem
 
@@ -133,10 +139,15 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 ## References
 
+1. Barwich, A.-S. (2019). "A Critique of Olfactory Objects." *Frontiers in Psychology* 10, 1337.
 1. Browning, H., & Veit, W. (2020). "The Measurement Problem of Consciousness." *Philosophical Topics* 48(1), 85-108.
 1. Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Decock, L. (2006). "A physicalist reinterpretion of 'phenomenal' spaces." *Phenomenology and the Cognitive Sciences* 5(2), 197-225.
+1. Isaac, A. M. C. (2025). "Phenomenal structure: What is it and what is it for?" *Philosophy and the Mind Sciences* 6.
+1. Kawakita, G., Zeleznikow-Johnston, A., Takeda, K., Tsuchiya, N., & Oizumi, M. (2025). "Is my 'red' your 'red'?: Evaluating structural correspondences between color similarity judgments using unsupervised alignment." *iScience* 28(3), 112029.
 1. Luce, R. D., & Tukey, J. W. (1964). "Simultaneous conjoint measurement: A new type of fundamental measurement." *Journal of Mathematical Psychology* 1(1), 1-27.
+1. MacLeod, D. I. A., & Willen, J. D. (1995). "Is there a visual space?" In R. D. Luce et al. (Eds.), *Geometric Representations of Perceptual Phenomena* (pp. 47-60). Lawrence Erlbaum.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review* 83(4), 435-450.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4), 330-349.
