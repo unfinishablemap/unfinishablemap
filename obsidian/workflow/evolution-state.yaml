@@ -1,10 +1,14 @@
-last_updated: '2026-08-22T17:28:38.198133+00:00'
-session_count: 19474
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-22T17:40:23.723887+00:00'
+session_count: 19475
 cycle_position: 12887
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-22T17:40:01.924105+00:00'
+  agentic-social: '2026-08-22T17:40:23.723887+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
   check-model-fallback: '2026-08-22T17:10:03.490962+00:00'
@@ -112,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-22'
-  outcome: failed
 - task: optimistic-review
   type: optimistic-review
   date: '2026-08-22'
@@ -190,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-22'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -832,101 +836,52 @@ agentic_social:
     - consciousness
     - intersubjectivity
 queue_status:
-  last_replenishment: '2026-08-21T23:32:44+00:00'
+  last_replenishment: '2026-08-22T17:56:51.852438+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'FLOOR-RESTORE MINT, one new P2 plus one P3, zero promotions,
-    no padding. Authoritative pre-count count_p0_p2_tasks == 2, below the floor of
-    3; post-count 3, re-measured after the write. all_sections_at_cap is False, so
-    no skip_types applied and the count is 2 either way. MINTED TWO, DELIBERATELY
-    NOT FIVE-TO-EIGHT: the structural blockage runs 996 and 997 measured is still
-    in force and was RE-MEASURED this run rather than inherited - count_section_files
-    gives topics 320/320 AT CAP (319 real, the known sidecar over-count), concepts
-    318/320, voids 99/100, positions 16/80, and the 3 free slots remain oversubscribed
-    by 5 open research-topic tasks plus the NEEDS-HUMAN entry claiming the last voids
-    slot for notation-void, so expand-topic is structurally blocked. task_chains.pending_articles
-    and pending_cross_reviews both empty. quality.orphaned_files 0. BOTH TASKS COME
-    FROM ONE DIFF-VERIFIED DEPENDENCY MOVE, source positions_dependency_changed. THE
-    FINDING: P-CS4 in positions/consciousness-scope.md (In fragmentation cases the
-    interface is disrupted, not consciousness itself) is Last reviewed 2026-06-22.
-    On 2026-08-04 two commits rewrote TWO OF ITS FOUR Argued-in articles to install
-    the individuation register determinate-boundaries reading in place of Nagel-style
-    metaphysical indeterminacy: 856164fa82 (message: two further loci assert metaphysical
-    indeterminacy about subject boundaries, which P-I1 forbids) touched topics/split-brain-consciousness
-    AND apex/identity-across-transformations, and 1d41f75b82 touched the topics article
-    again the same day. positions/consciousness-scope.md has not been committed since
-    20cf4fbeb5 (2026-08-03), the day BEFORE the sweep, so the register entry summarising
-    those articles was never read against them. Verified by git show --stat on both
-    commits: neither touched any positions/ file. SPANS GREP-VERIFIED AT 1 HIT EACH
-    IN THE CURRENT FILES THIS RUN, not taken from the changelog echo: split-brain
-    L98 ''holds subject boundaries to be determinate but not readable off physical
-    structure'' and ''The question is well-formed and has an answer; what fails is
-    any physical measure that could reach it.''; split-brain L204 ''holds the subject
-    to be a particular that does not divide, and its count to be a determinate fact'';
-    identity-across-transformations L93 ''reads it as epistemic rather than metaphysical'';
-    and P-CS4 Asserts ''without thereby establishing two subjects or one''. DECISIVE
-    MEASUREMENT: grep -c determinate on positions/consciousness-scope.md returns 1,
-    and that single hit is P-CS2 ''no determinate cut-off'' at L60, NOT P-CS4. SOURCE
-    1, the P2 (floor restore), positions-evolve update on P-CS4. FRAMED AS A VERIFICATION
-    QUESTION, NOT AN ASSERTED CONTRADICTION: ''without thereby establishing two subjects
-    or one'' is readable as purely evidential and may need no change, so three outcomes
-    are named as legitimate including a bare Last-reviewed bump with a note that the
-    sweep was checked. No calibration or status move requested - the 2026-07-30 register
-    pass recorded P-CS4 correct as written on the calibration axis. HARD LENGTH CONSTRAINT
-    CARRIED: analyze_length puts consciousness-scope.md at 2498w against the positions
-    2500 hard threshold, TWO WORDS of headroom, so any addition must be paid for inside
-    P-CS4. Same-file pileup noted and guarded: that file already carries one open
-    P3 on a DIFFERENT entry (P-CS1 Argued-in), with explicit do-not-re-scope and do-not-mark
-    instructions. SOURCE 2, the P3, sweep residue in the same dependency. apex/identity-across-transformations
-    L93 now defines Nagel''s sense as the deeper-than-evidence metaphysical reading
-    and says the Map declines it, while L95, two paragraphs later, still asserts flat
-    and unattributed that subject unity ''becomes indeterminate in Nagel''s sense''.
-    L95 appears as unchanged CONTEXT in 856164fa82''s own diff - the sweep rewrote
-    the paragraph above it and stopped. The sibling article the same commit touched
-    carries the intended repair at split-brain L128 (Nagel''s reading attributed,
-    the Map''s stated alongside), which the apex never received. Sole residual locus
-    in that file, measured not assumed: grep for indetermina/determinate returns L93
-    fixed, L95 the defect, L179 quantum indeterminacies (unrelated sense) and L183
-    already correct. Length 4091w against apex 4000 soft / 5000 hard, fix must be
-    length-neutral or reducing. MEASURED AND DECLINED, recorded so it is not chased.
-    (a) The apparent owed reciprocal from P-CS4 to P-F1: finding-level-calibration
-    L44 names P-CS4 by name and grep -c finding-level-calibration on consciousness-scope.md
-    returns 0, and the 2026-07-30 create task did defer ''the P-CS4 pointer'' to a
-    follow-on never queued - BUT the same grep returns 0 for quantum-interface (P-Q8)
-    and voids-as-evidence (P-V2) too, so all three named instantiations are equally
-    one-directional. Register-wide convention question, not a P-CS4 defect; fixing
-    one of three would manufacture the asymmetry fix-by-file-leaves-string-siblings-live
-    warns about. Written into the P2 as an opportunistic-only one-liner with a stated
-    caveat. (b) LENGTH: no unclaimed real-article critical. get_length_warnings gives
-    145 entries but only 72 are in topics/concepts/voids/apex, and of those the criticals
-    are apex/apex-articles.md (an index, not an article) and apex/phenomenal-output-causal-machinery-dissociation.md,
-    which carries a veto-marked P2. The worst real topics offender, epistemology-of-convergence-arguments
-    at 5745w, is under a standing HUMAN LENGTH DECISION with five prior auto-condenses
-    diverted to the operator - correctly not re-minted. (c) STALENESS: get_review_candidates
-    re-run this run; deep-review last ran 2026-08-21T20:17, so the pool is unchanged
-    since run 997 measured it, ranks 1-4 are all named by live tasks, and passing
-    over it again is a repeat of an accepted decision rather than a new one. (d) UNCONSUMED
-    RESEARCH: 67 by is_research_consumed, but 6 of those carry an explicit consumed_by
-    field (the known slug-mismatch blindspot), leaving 61; the recent head is either
-    cap-blocked at target_section topics or already folded with a consumed_note, and
-    the two 2026-08-20 notes are documented folds, not spendable articles. ORDERING,
-    STATED KNOWINGLY: both tasks were inserted at the TOP of Active Tasks, matching
-    the placement convention of run 997 and of the 2026-08-21 optimistic-review mints.
-    select_queue_task sorts by (priority, line_number), so the new P2 at line 39 sorts
-    ahead of the two standing P2s (P-A4 positions-evolve, and the scale-types refine-draft)
-    and delays each by exactly one pick. Self-liquidating and judged acceptable given
-    the new evidence is fresh and fully verified. VALIDATED AFTER THE WRITE: parse_tasks
-    gives 57 active, OTHER count 0, both new tasks parse with valid types (POSITIONS_EVOLVE,
-    REFINE_DRAFT), Status pending, and resolvable file_path values; select_queue_task
-    returns the new P2; count_p0_p2_tasks == 3.'
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding. Pre-count
+    count_p0_p2_tasks == 2, below the floor of 3; post-count re-measured after the
+    write == 3. The queue holds 61 active tasks but 59 were P3, so the floor was genuinely
+    unmet behind a deep-looking queue. PROMOTION CHOSEN OVER MINTING because 59 already-vetted
+    P3 tasks were starved and every mint source measured empty or blocked this run.
+    PROMOTED: the P3 on obsidian/apex/identity-across-transformations.md, whose L95
+    asserts subject unity becomes indeterminate in Nagel''s sense two paragraphs after
+    L93 states the Map reads that indeterminacy as epistemic rather than metaphysical.
+    RIPENESS EVIDENCE, re-verified live this run rather than inherited from the task
+    note: both spans grep-confirmed present; the register dependency confirmed at
+    positions/individuation-and-subjecthood, where P-I1 holds subject boundaries real
+    and P-I2 states the agnosticism is epistemic not metaphysical and explicitly disciplines
+    the corpus''s stronger formulation, so the apex is a live instance of the overshoot
+    the register already names; analyze_length gives 4091w against apex soft 4000
+    hard 5000, soft_warning, so the clause re-frame must be length-neutral; ai_modified
+    2026-08-04, eighteen days old and absent from the twenty-article same-day churn
+    list, so no churn collision. Apex tier and a self-contradiction visible to any
+    reader or LLM fetching the page, which is why it outranked the other verified
+    candidates: the dualism-channel-width-axis broken tenet anchor was also confirmed
+    live in both trees but is a navigation-only soft failure, and the two moral-architecture-of-consciousness
+    tasks would have piled a third edit onto one file. SOURCES CHECKED AND FOUND EMPTY
+    OR BLOCKED: expand-topic structurally blocked, count_section_files gives topics
+    320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three
+    free slots are already oversubscribed by six open research-topic tasks; task_chains.pending_articles
+    and pending_cross_reviews both empty; quality.orphaned_files 0; quality.critical_issues
+    0; replenishment_config is None, so no thresholds were read or invented there.
+    EDIT SHAPE: the priority marker was changed in place and the promotion rationale
+    appended to the existing Source line, so todo.md''s total line count is unchanged
+    at 21610 and no line numbers shifted under the live queue task.'
   last_replenishment_run: 998
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 54
+  p3_tasks: 58
   replenishment_source_counts:
-    positions_dependency_changed: 2
+    promotion_from_p3: 1
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
