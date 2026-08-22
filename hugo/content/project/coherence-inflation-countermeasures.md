@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-20 08:26:00+00:00
+ai_modified: 2026-08-22 09:15:35+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
 - '[[concepts/cross-mechanism-convergence]]'
 created: 2026-01-16
-date: &id001 2026-08-04
+date: &id001 2026-08-22
 description: Safeguards against systematic overcommitment when an AI system both generates
   and reviews content optimised for internal consistency. Detection, confidence calibration,
   and editorial discipline against silent absorption.
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 14:27:00+00:00
-lastmod: 2026-08-20 08:26:00+00:00
+lastmod: 2026-08-22 09:15:35+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -393,7 +393,7 @@ Two final frame-level checks, both aimed at the apex tier.
 
 **Hard-problem-restatement check.** "Raises the explanatory cost on materialism" can be a genuine new pressure, or it can be the explanatory gap (Levine 1983), the conceivability argument (Chalmers 1996), or the knowledge argument (Jackson 1982) in new packaging. If an article's load-bearing claim reduces to a well-known feature of materialism dressed as a fresh convergence-based cost, it should *say so* and then articulate what additional structure — if any — it claims beyond the classical argument. An article that re-derives the hard problem and presents it as new empirical pressure is inflating by equivocation.
 
-**Missing-engagement audit.** The [named-opponent reasoning-mode classification](/project/direct-refutation-discipline/) (Mode One / Two / Three) audits the engagements an article *already contains*. It does not audit whether an article has engaged the opponents it *should*. For each apex article, enumerate the top-N named opponents the literature would expect it to engage, and check each is engaged at the appropriate mode. The 2026-05-26 target article would have failed this audit: predictive processing (Hohwy), Carruthers-as-absorber, Block's access/phenomenal distinction, and Frankish's illusionism were catalogued as "convergent traditions" rather than engaged as already-on-offer absorption strategies.
+**Missing-engagement audit.** The [named-opponent reasoning-mode classification](/project/direct-refutation-discipline/) (Mode One / Two / Three) audits the engagements an article *already contains*. It does not audit whether an article has engaged the opponents it *should*. For each apex article, enumerate the top-N named opponents the literature would expect it to engage, and check each is engaged at the appropriate mode. The 2026-05-26 target article would have failed this audit: predictive processing (Hohwy), Carruthers-as-absorber, Block's access/phenomenal distinction, and Frankish's illusionism were catalogued as "convergent traditions" rather than engaged as already-on-offer absorption strategies. A structurally distinct miss the audit must also test for is the **conveniently weaker rival**: an opponent engaged at full strength while the one that actually deflates the inference goes unnamed, so the article reads as having done its adversarial work. Where the inference runs from staggered or staged phenomenology (sleep onset, anaesthesia induction, meditation stages, psychedelic onset) to *multiple* channels or mechanisms, the deflating rival is a single graded architecture, and the check is owned by [the single-mechanism rival gate](/project/evidential-status-discipline/#the-single-mechanism-rival-gate) rather than duplicated here — it is an inference gate (a precondition on what may be concluded from the evidence), not a corpus-scanning detector of the [Countermeasure 5](#countermeasure-5-circular-citation-detection) kind.
 
 ### Implementation
 
