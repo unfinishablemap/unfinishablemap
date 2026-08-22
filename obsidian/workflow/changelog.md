@@ -5,6 +5,25 @@ ai_modified: '2026-08-22T05:31:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22T05:43:47+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Task**: P1 convergence pass, `reviews/outer-review-synthesis-2026-08-22` clusters 5 and 7; executed in ONE pass with the sibling P1 `three citation defects` for the two shared lines (L95, L143).
+- **Length**: 3999 -> 3998 words (topics soft 3000 / hard 4000). Net -1; hard threshold not crossed at any point.
+- **Changes**:
+  - **FIX (3), done first as the length lever**: the Minimal Quantum Interaction subsection (118 words) recruited Craddock et al. 2015 and Wiest 2025 as affirmative support for Tenet 2. Both are pre-decoherence Orch-OR-family, which `positions/quantum-interface-calibration-history` P-Q5 demotes relative to post-decoherence selection. Cut to a one-sentence hedged pointer naming the demotion and deferring to [[quantum-biology-and-neural-consciousness]] and [[stochastic-emergence-as-quantum-interface-evidence]]. Freed 58 words (not the ~90 the task estimated).
+  - **FIX (1), the inverted IIT reading**: "Ketamine poses a specific challenge to integrated information theory" was backwards. Sarasso et al. 2015 present high PCI under ketamine as the measure *succeeding* (verified at EuropePMC; Tononi and Casali are co-authors, confirmed in the author string). Re-framed so IIT owns the data as the rival it is; PCI material kept, hedges added, nothing deleted.
+  - **FIX (2), Xu 2023 described as the wrong experiment**: was "cardiac arrest gamma surges ... paradoxes for production theory". Corrected to two of four comatose patients during ventilator withdrawal, with the authors' own global-hypoxia mechanism stated and the absence of any reported experience noted. Same phrase removed from the Dualism bullet, where the surge did no work.
+  - **Absorbed from the sibling task**: the Parnia AWARE-II statistic in the same sentence. "~40% of cardiac arrest patients showing organised brain activity during CPR" conflated a survivor self-report rate with an EEG finding; corrected to 11 of 28 interviewed survivors (11 of 567 arrests) reporting experiences, with the EEG finding stated separately (verified at EuropePMC).
+  - **Absorbed from the sibling task**: the Wiest delayed-luminescence misattribution, which sat inside the paragraph FIX (3) cut. "delayed luminescence" now greps zero in the article.
+  - **FIX (3-metadata), reference fusing two papers**: `Xu, G., et al. (2023). Surge of neurophysiological coherence and connectivity in the dying brain` welded Borjigin 2013's title onto Xu 2023's byline/year/volume. Both DOIs verified at Crossref directly: 10.1073/pnas.2216268120 = Xu 2023, PNAS 120(19), "Surge of neurophysiological *coupling* and connectivity *of gamma oscillations* in the dying *human* brain"; 10.1073/pnas.1308285110 = Borjigin 2013, PNAS 110(35). Corrected title and added the DOI.
+  - **Origin patched so the defects cannot regenerate**: `research/consciousness-anesthesia-filter-theory-2026-03-20` L230 carried the fused title under Borjigin's DOI — corrected. Its body also carried the *same* inverted IIT reading at two loci (executive summary, IIT tenet-alignment note), which is the regeneration source for FIX (1) — both corrected. The note contradicted itself: its own Sarasso section already quoted the finding correctly.
+- **Engagement classification**: engagement with integrated information theory: Mode Three (framework-boundary marking) — the pass *withdraws* a claimed in-framework refutation that was never available, and states the disagreement as rival interpretation of a shared finding rather than a defeat for IIT.
+- **Deliberately not done**: the predictive-processing / Dendritic Integration rivals section (verified genuine absence, 3/3 convergence, but length-blocked — the 58 freed words are not budget for it; human decision on a flagship). The Onoda cite at L111 (bundled with Breyton 2025 and Van Maldegem 2025; the bundle is sound). The Moncrieff->Masi reference, which is the sibling task's separate locus. The "strongest discriminating evidence" structural demotion, reserved by the sibling task for a later pass.
+- **Published**: yes
+
+
 ## 2026-08-22T05:31:37+00:00 - combine-outer-reviews
 
 - **Status**: Success

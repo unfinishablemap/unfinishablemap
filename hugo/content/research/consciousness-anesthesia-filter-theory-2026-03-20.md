@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-27 12:44:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-22 05:43:47+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 concepts: []
 created: 2026-03-20
-date: '2026-07-27'
+date: '2026-08-22'
 draft: false
-lastmod: 2026-07-27 12:44:00+00:00
+lastmod: 2026-08-22 05:43:47+00:00
 related_articles: []
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 ---
@@ -18,7 +18,7 @@ title: Research Notes - Consciousness During General Anesthesia and Filter Theor
 
 ## Executive Summary
 
-General anesthesia does not produce a simple binary switch between consciousness and unconsciousness. Research over the past two decades reveals a graded spectrum of consciousness states under anesthesia — from full awareness through disconnected consciousness (vivid dreaming) to apparent absence of experience — with residual cognitive processing persisting even in behaviourally unresponsive patients. Different anesthetic agents produce strikingly different consciousness profiles: propofol and xenon suppress experience, while ketamine preserves complex brain dynamics and vivid disconnected consciousness. These findings challenge both naive physicalism (which predicts a simple neural off-switch) and integrated information theory (which struggles with ketamine's preserved complexity alongside environmental disconnection). For filter/transmission theory, the graded nature of anesthetic consciousness — especially the persistence of rich inner experience when sensory input is blocked — provides suggestive evidence that the brain constrains rather than generates consciousness.
+General anesthesia does not produce a simple binary switch between consciousness and unconsciousness. Research over the past two decades reveals a graded spectrum of consciousness states under anesthesia — from full awareness through disconnected consciousness (vivid dreaming) to apparent absence of experience — with residual cognitive processing persisting even in behaviourally unresponsive patients. Different anesthetic agents produce strikingly different consciousness profiles: propofol and xenon suppress experience, while ketamine preserves complex brain dynamics and vivid disconnected consciousness. These findings challenge naive physicalism, which predicts a simple neural off-switch. They do not tell against integrated information theory: under ketamine consciousness is present *and* complexity is high, which is what IIT predicts, and Sarasso et al. present the result as their measure succeeding. IIT tracks integration, not environmental connectedness. For filter/transmission theory, the graded nature of anesthetic consciousness — especially the persistence of rich inner experience when sensory input is blocked — provides suggestive evidence that the brain constrains rather than generates consciousness.
 
 ## Key Sources
 
@@ -88,7 +88,7 @@ General anesthesia does not produce a simple binary switch between consciousness
   - Predicts consciousness vanishes when integration breaks down (sleep, anesthesia)
   - Loss of consciousness under anesthesia associated with breakdown of information integration
   - Empirically supported by TMS-EEG studies showing reduced complexity under propofol
-- **Tenet alignment**: Neutral — IIT is compatible with some forms of dualism (it's substrate-neutral and identifies consciousness with information structure, not physical matter per se) but is typically framed as physicalist. Its failure to account for ketamine dreaming is notable.
+- **Tenet alignment**: Neutral — IIT is compatible with some forms of dualism (it's substrate-neutral and identifies consciousness with information structure, not physical matter per se) but is typically framed as physicalist. Ketamine dreaming is often read as a counterexample; it is not one, since consciousness is present and integration is high, so the case fits IIT rather than telling against it.
 
 ### An Evidence-Based Critical Review of the Mind-Brain Identity Theory (Moncrieff, 2023)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/
@@ -231,5 +231,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 - James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 - Bergson, H. (1907). *Creative Evolution*. Henry Holt and Company.
-- Xu, G. et al. (2023). "Surge of neurophysiological coherence and connectivity in the dying brain." *PNAS*. https://www.pnas.org/doi/10.1073/pnas.1308285110
+- Xu, G. et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19), e2216268120. https://www.pnas.org/doi/10.1073/pnas.2216268120
 - Parnia, S. et al. (2023). "AWAreness during REsuscitation — II." *Resuscitation*. https://www.sciencedirect.com/science/article/abs/pii/S0300957223002162

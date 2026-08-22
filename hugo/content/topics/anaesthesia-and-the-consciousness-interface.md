@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-13 22:20:00+00:00
+ai_modified: 2026-08-22 05:43:47+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-08-13 22:20:00+00:00
+lastmod: 2026-08-22 05:43:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,9 +94,9 @@ Production and transmission theories make identical predictions in normal cases;
 
 Bonhomme et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness detected by the isolated forearm technique occurs in roughly 5% of patients immediately after tracheal intubation — far above the 0.1–0.2% incidence of awareness with explicit recall. Disconnected consciousness involves vivid dreaming while environmental access is severed; in some protocols nearly all unresponsive participants recalled dreaming on emergence.
 
-Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold. A progressively constricted filter produces this kind of graded narrowing; a generator powering down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with one mechanism at different power levels. Ketamine poses a specific challenge to integrated information theory: PCI remains at waking levels yet consciousness is disconnected. Filter theory accommodates this naturally — integration is intact, but access channels are pharmacologically blocked.
+Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold. A progressively constricted filter produces this kind of graded narrowing; a generator powering down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with one mechanism at different power levels. Ketamine is often read as challenging integrated information theory, but that inverts it: consciousness is present under ketamine, so waking-level PCI is what IIT predicts, and Sarasso et al. (Tononi and Casali among its authors) present it as the measure succeeding. IIT tracks integration, not environmental connectedness — Bonhomme et al.'s separate component. Filter theory reads the dissociation as a blocked access channel: a rival reading, not a refutation.
 
-The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity in severely deteriorated brains and cardiac arrest gamma surges (Xu et al., 2023) are paradoxes for production theory; Parnia et al. (2023) found ~40% of cardiac arrest patients showing organised brain activity during CPR. Filter theory predicts these naturally: reduced filtering allows more consciousness through. The broader pattern of [consciousness persisting under extreme metabolic constraint](/topics/consciousness-under-extreme-metabolic-constraint/) reinforces this, and the pharmacological specificity bears on [consciousness-collapse experimental design](/topics/testing-consciousness-collapse/) — selective disruption of different channels could provide the controlled variation such experiments need.
+The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity in severely deteriorated brains is a paradox for production theory. Xu et al. (2023) recorded gamma-coupling surges in two of four comatose patients during ventilator withdrawal, but attribute these to global hypoxia; none survived to report an experience. Parnia et al. (2023) found 11 of 28 interviewed survivors (11 of 567 arrests) reported experiences suggestive of consciousness, and recorded normal EEG activity 35–60 minutes into CPR. Filter theory reads reduced filtering as letting more through, though the hypoxic reading keeps this suggestive. The broader pattern of [consciousness persisting under extreme metabolic constraint](/topics/consciousness-under-extreme-metabolic-constraint/) reinforces this, and the pharmacological specificity bears on [consciousness-collapse experimental design](/topics/testing-consciousness-collapse/) — selective disruption of different channels could provide the controlled variation such experiments need.
 
 ## Recovery: What Emergence Reveals
 
@@ -142,9 +142,9 @@ Anaesthetic evidence alone cannot distinguish the Map's interactionist interpret
 
 Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in concrete ways.
 
-**[Dualism](/tenets/#dualism)**: Evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, cardiac arrest gamma surges, vivid ketamine experiences despite complete behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
+**[Dualism](/tenets/#dualism)**: Evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, vivid ketamine experiences despite complete behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) propose anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer. Wiest (2025) extends this with delayed luminescence experiments showing anaesthetics measurably alter quantum properties of microtubules — contested but suggestive. If anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness gains additional explanation. The stochasticity of emergence timing in genetically identical organisms is consistent with this picture, though it is equally consistent with classical neuronal noise and does not by itself support the quantum reading — see [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The anaesthetic-microtubule literature (Craddock et al., 2015; Wiest, 2025) bears on this tenet only through the pre-decoherence Orch-OR reading, which the Map currently demotes relative to post-decoherence selection, so it is not recruited here as affirmative support; see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) and [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot — Hu et al.'s KCC2 disinhibition pathway as the most concrete molecular instance — suggests causal traffic in both directions. The neural infrastructure dismantles the inhibition that anaesthesia installed before behavioural responsiveness returns: the interface reading takes this as the brain preparing a channel for consciousness to re-enter. Under ketamine, consciousness actively generates elaborate internal experience despite environmental severance, reorganising around whichever channels remain open.
 
@@ -185,7 +185,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 1. Moncrieff, J. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1254857.
 1. Kallionpää, R. E., Scheinin, A., Kallionpää, R. A., et al. (2018). Spoken words are processed during dexmedetomidine-induced unresponsiveness. *British Journal of Anaesthesia*, 121(1), 270-280. https://doi.org/10.1016/j.bja.2018.04.032
-1. Xu, G., et al. (2023). Surge of neurophysiological coherence and connectivity in the dying brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
+1. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120. https://doi.org/10.1073/pnas.2216268120
 1. Parnia, S., et al. (2023). AWAreness during REsuscitation — II: a multi-center study of consciousness and awareness in cardiac arrest. *Resuscitation*, 191, 109903.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Rouleau, N., & Cimino, N. (2022). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32. https://doi.org/10.3390/neurosci3030032
