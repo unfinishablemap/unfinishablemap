@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T14:40:19+00:00'
+ai_modified: '2026-08-22T14:53:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T14:53:31+00:00 - coalesce
+
+- **Status**: Success (ABANDON — no merge)
+- **Decision**: **ABANDON — delta check only, sweep deliberately not redone.** The 02:28 UTC run today abandoned after a full TF-IDF sweep (778 articles, 302,253 pairs) on the finding that the binding constraint is a **structural ceiling**, not search coverage. This pass confirmed the pool is unchanged and stopped. Re-deriving a 300k-pair sweep to reach the same verdict twelve hours later would be waste.
+- **Delta measured, five checks**:
+  1. **No new articles.** `git log --since=02:00Z --diff-filter=A` over `topics/ concepts/ voids/ apex/` returns **zero** additions.
+  2. **No articles left the live tree.** The only `archive/` activity since 02:28 is two `M` (modified) entries from the 09:49 `aesthetics-beyond-art` deep review — no new archival, so no slot freed and no pair dissolved.
+  3. **Caps unchanged**, measured live via `tools.evolution.state.count_section_files` (not quoted from CLAUDE.md): topics **320**/320 (319 real + the known refinement-log sidecar over-count), concepts **318**/320, voids **99**/100, apex 42, positions 16. Identical to the 02:28 reading.
+  4. **Working tree clean** in all four sections — no uncommitted creates that a git-log check would miss.
+  5. **The best candidate is untouched.** `concepts/prehension` (last commit 2026-06-26, 1847w) and `concepts/process-philosophy` (2026-07-17, 2290w) have not moved. Their rejection at 02:28 was on **declared architecture** — a third article, `concepts/integration-as-activity` L94, states the division in its own prose — not on length, so no length movement could revive them regardless.
+- **Correction to the driver brief, and it runs the safe way.** The brief characterised today's edits as "a few words shorter" (`filter-theory` −7, `psychophysical-laws` −8). Measured across all **12** article files touched since 02:28, the net is **+1,710 words**, dominated by `topics/hypnagogic-phenomenology-and-interface-modulation` **+903** (3,132 → 4,035), `topics/contentless-awareness-evidence` +290, `concepts/yogacara-alaya-vijnana-storehouse-consciousness` +241, `concepts/compatibilist-symmetry-challenge` +126. Only four files shrank, by 45 words combined. Today's work therefore made the ceiling calculus **strictly tighter**, not looser — the delta reinforces the abandon rather than merely leaving it standing.
+- **Age floor is independently decisive for all 12.** Every article edited since 02:28 is same-day and excluded as a merge source on the age floor alone (`coalesce-needs-age-floor`, `coalesce-hides-review-debt-and-regresses-fixes`). Several carry calibration installed hours ago — the 13:57 `organizational-invariance` dependency-drift fix and the 14:40 `psychophysical-laws` zombie-grounds correction among them — which a merge would put at risk.
+- **Cap pressure declined as a justification, again.** topics is at cap, concepts has 2 free slots, voids 1. None of that converts a role-separated pair into a merge. A forced merge regresses fixes and buries review debt, which is worse than a full section.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+- **Content changes**: none. No files merged, archived, or modified; no sync required.
+- **Where the next run should not look**: unchanged from the 02:28 entry, which now stands as the standing rejection ledger — every corpus pair at similarity ≥0.40 has been named and dispositioned at least once. A future run should re-open this channel only when `--diff-filter=A` shows genuinely new articles, or when an archival dissolves one side of a known pair.
 
 ## 2026-08-22 14:40 UTC - refine-draft
 - **Status**: Success
