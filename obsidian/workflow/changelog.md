@@ -5,6 +5,18 @@ ai_modified: '2026-08-22T09:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22 09:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/aesthetics-beyond-art]]
+- **Word count**: 3577 → 3616 (+39, length-neutral mode; three offsetting trims)
+- **Critical issues addressed**: 3 (Parsons placed on the wrong side of the positive-aesthetics debate; Melchionne well-being payoff credited to the wrong paper; lead pre-empted the open transfer question its own next section poses)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (SEP's comparative-ranking objection to positive aesthetics named as the scope problem arriving early on the nature side — links the article's two halves under its own thesis)
+- **Sibling loci fixed**: 4 — source research notes `research/the-aesthetics-of-nature-and-natural-beauty-2026-07-09` (self-contradicting: lists Parsons as proponent AND critic) and `research/everyday-aesthetics-2026-07-09`; live archived predecessors `archive/topics/the-aesthetics-of-nature-and-natural-beauty` and `archive/topics/everyday-aesthetics`
+- **Dependency drift**: checked and clean — the hub's five-arguments→three-premises audit was already propagated by the 2026-08-02 refine
+- **Engagement classification**: no named-opponent in-framework refutation attempted; the functionalist/deflationary rival is boundary-marked (Mode Three), unchanged
+- **Output**: [[reviews/deep-review-2026-08-22-aesthetics-beyond-art]]
+
 ## 2026-08-22T09:20:00+00:00 - refine-draft
 
 - **Status**: Success

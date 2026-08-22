@@ -87,7 +87,7 @@ Everyday aesthetics is a subfield, roughly two decades old, that studies the aes
 - **Type**: Journal article — *Contemporary Aesthetics*, vol. 11 (2013), open access
 - **Key points**:
   - Offers a deliberately tight definition to end the boundary controversy: everyday aesthetics concerns the *recurring, ongoing* aesthetic engagements of daily routine and management of the self and home — not one-off extraordinary encounters.
-  - Ties everyday aesthetics to *aesthetic well-being* accrued across a life of routine, rather than to peak episodes.
+  - Ties everyday aesthetics to a *well-being* accrued across a life of routine, rather than to peak episodes. NOTE (2026-08-22, verified at SEP "Aesthetics of the Everyday"): this payoff is Melchionne **2014**, "The Point of Everyday Aesthetics," *Contemporary Aesthetics* 12, article 17 — not the 2013 definition paper (*Contemporary Aesthetics* 11, article 26), which supplies the bounding definition only.
 - **Tenet alignment**: Neutral, and important for the *deflationary* reading — Melchionne's routine/well-being framing is easily given a functionalist gloss (see calibration flag).
 
 ### Arto Haapala, "On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place"

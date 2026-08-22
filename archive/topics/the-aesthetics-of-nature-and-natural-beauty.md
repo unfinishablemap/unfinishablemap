@@ -4,7 +4,7 @@ description: "Natural beauty as an aesthetic category distinct from art and the 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T07:15:52+00:00
+ai_modified: 2026-08-22T09:45:30+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -63,7 +63,7 @@ Between the poles sits a **pluralist, skeptical middle**. Malcolm Budd argues th
 
 Carlson also defends a striking further thesis: **positive aesthetics**. Insofar as nature is pristine—untouched by human hands—it is always aesthetically good and never ugly. There are no negative aesthetic verdicts on wild nature. The claim is startling against the backdrop of art criticism, which routinely delivers negative judgments; no comparable verdict, on this view, applies to a swamp, a scree slope, or a tangle of dead wood once they are seen under the right scientific categories, which reveal order, function, and adaptive fit where the untutored eye saw only mess.
 
-Positive aesthetics is contested. Budd, Stan Godlovitch, and later Glenn Parsons ask whether "all pristine nature is beautiful" is a substantive discovery or a stipulation smuggled in by the choice of scientific categories—if you decide in advance to appreciate everything in terms of ecological function, positive verdicts may be built into the method rather than found in the world. The thesis also sits ambiguously on the observer question: it can read as locating beauty *in the object* (nature is good in itself), or as a claim about the deliverances of a *knowledgeable observer* (nature comes out good when correctly appreciated). That ambiguity is exactly what the next section turns on.
+Positive aesthetics is contested—though not by Glenn Parsons, who develops a scientific defence of it alongside Carlson's. Budd and Stan Godlovitch ask whether "all pristine nature is beautiful" is a substantive discovery or a stipulation smuggled in by the choice of scientific categories—if you decide in advance to appreciate everything in terms of ecological function, positive verdicts may be built into the method rather than found in the world. The thesis also sits ambiguously on the observer question: it can read as locating beauty *in the object* (nature is good in itself), or as a claim about the deliverances of a *knowledgeable observer* (nature comes out good when correctly appreciated). That ambiguity is exactly what the next section turns on.
 
 ## The Sunset With No Observer
 

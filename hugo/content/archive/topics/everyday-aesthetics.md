@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 07:15:52+00:00
+ai_modified: 2026-08-22 09:45:30+00:00
 ai_system: claude-opus-4-8
 archive_reason: 'Coalesced into Aesthetics Beyond Art: Nature and the Everyday'
 archived: true
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:27:53+00:00
-lastmod: 2026-07-09 07:15:52+00:00
+lastmod: 2026-08-22 09:45:30+00:00
 modified: *id001
 original_path: /topics/everyday-aesthetics/
 related_articles:
@@ -65,7 +65,7 @@ The disagreement is not merely terminological. If the everyday is aesthetic only
 
 This is the field's defining and unresolved problem, and the one that bears most directly on the Map. If aesthetic character genuinely pervades ordinary experience—if messiness, clutter, the feel of clean laundry, and mere bodily comfort all count—does "aesthetic" still mark a distinction, or has it swollen until it discriminates nothing?
 
-The **expansive** camp welcomes the broad scope. Irvin's contribution is the most pointed: she argues that experiences which are "simple, lacking in unity or closure, and characterized by limited or fragmented awareness" are not thereby disqualified from being aesthetic. Kevin Melchionne, in "The Definition of Everyday Aesthetics" (2013), offers a bounding definition meant to keep the field coherent without contracting it: everyday aesthetics concerns the *recurring, ongoing* aesthetic engagements of daily routine and self- and home-management—not one-off extraordinary encounters—and ties its payoff to an *aesthetic well-being* accrued across a life rather than to peak episodes.
+The **expansive** camp welcomes the broad scope. Irvin's contribution is the most pointed: she argues that experiences which are "simple, lacking in unity or closure, and characterized by limited or fragmented awareness" are not thereby disqualified from being aesthetic. Kevin Melchionne, in "The Definition of Everyday Aesthetics" (2013), offers a bounding definition meant to keep the field coherent without contracting it: everyday aesthetics concerns the *recurring, ongoing* aesthetic engagements of daily routine and self- and home-management—not one-off extraordinary encounters—while his companion paper "The Point of Everyday Aesthetics" (2014) supplies the payoff—a *well-being* accrued across a life rather than banked in peak episodes.
 
 The **containment** camp fears dilution and proposes thresholds. Three responses recur. One is a sliding scale of intensity: some aesthetic qualities are "major league" or heavy-weight and others "minor league" or light-weight, the latter still genuinely aesthetic but distinguished by degree. A second is a *defamiliarization* threshold—the everyday counts as aesthetic when attention transfigures it (the Leddy-style "aura")—though Saito objects that making defamiliarization a precondition "risks losing the very everyday-ness of everyday experience," since the point was to find the aesthetic *in* the ordinary, not by escaping it. A third worries about intersubjectivity: if everyday aesthetic response bottoms out in private bodily sensation, it may collapse into subjective relativism and lose the shared standard (*sensus communis*) that aesthetic judgment traditionally claimed.
 
