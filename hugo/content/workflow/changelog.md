@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T15:42:19+00:00'
+ai_modified: '2026-08-22T16:00:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 15:42:19+00:00
+lastmod: 2026-08-22 16:00:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T16:00:20+00:00 - deep-review
+
+- **Status**: Success (2 critical + 2 medium found and fixed — the prior "convergence" was one fresh-create review plus two documented no-ops)
+- **File**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
+- **Word count**: 2610 → 2922 (+312, status `ok`, topics soft 3000 / hard 4000 — measured with `analyze_length`, not estimated)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 cross-links added (all reciprocating existing inbound links)
+- **Output**: [deep-review-2026-08-22-the-steelman-for-value-blind-selection](/reviews/deep-review-2026-08-22-the-steelman-for-value-blind-selection/)
+
+**Lens that found them — dependency drift, not article-internal scrutiny.** Three prior deep reviews (06-18, 07-06, 07-19) read as convergence; the 07-19 review states in its own words that the body and References were "byte-for-byte unchanged since the 2026-06-18 fresh-create review" and documents both later passes as sibling-cross-link no-ops. Real history was **one fresh-create review, 65 days stale, plus two no-ops**. The body sat frozen while 19 of its 23 wikilinked dependencies moved. Asking what moved *underneath* it — rather than re-reading it — produced both criticals; neither is visible to the article-internal lens the prior three used.
+
+**CRITICAL 1 — Tenet 2 doing truth-ranking work + misattribution to the parent.** Opening paragraph read "value-blind selection needs only one mental-to-physical coupling, **so by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) it is the horn to beat**". That is the truth-tracking use of minimality `tenets.md` expressly disclaims ("the Map does not claim that within those constraints the smallest interaction is most likely true") and Tenet 5 forbids symmetrically. **This file was the last surviving locus of a sweep that missed it**: the parent [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) was corrected 2026-08-06 (`178f33dc0b`), and [value-in-selection](/positions/value-in-selection/) + [embodied-interface](/apex/embodied-interface/) on 2026-08-17 (`ff50e14dda` — "minimality is doing truth-ranking work … which Tenet 2 disclaims and Tenet 5 forbids"). Corpus grep for "horn to beat" across `obsidian/` and `hugo/content/` returned this file and its Hugo mirror **only**, outside `reviews/`+`workflow/`. Doubled defect: the article also attributed the inference to a parent whose live text explicitly declines it (L81: MQI "does not itself adjudicate between them … not a likelihood ranking"). Calibration error by the §2 diagnostic test, not bedrock — a tenet-accepting reviewer flags it because the tenets page flags it. Fixed by restating as a **specification-debt argument**, mirroring the framing the parent/register/apex already carry; knock-on "internal-parsimony gesture" in the closing paragraph re-worded to match.
+
+**CRITICAL 2 — circular internal-quote channel; a sibling's headline result rested on a concession this article never made.** [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) quotes this article's "live 'valence only informs the channel' concession", gives it its own row in the discriminating-signature table, and scopes its own honest "no empirical daylight" concession by it. **The body contained no such concession** — grep for "channel" returned exactly one hit, the Further Reading gloss, which the sibling's own expand-topic task had installed. Article A cited article B for a position whose only assertion in B was a navigation line A wrote into B. `pessimistic-2026-07-07` caught the sibling side (fixed in W28); the steelman side was never touched. Fixed by **stating the concession in the body** — it is faithful to the moderate strands (RPE, affordance competition permit valence to inform attention while denying it selects), so this makes the steelman genuinely stronger rather than merely consistent. The sibling's quotation now resolves to real prose.
+
+**MEDIUM 3** — no routing to [value-in-selection](/positions/value-in-selection/), which names this article in its `Argued in` line; register pointer added quoting P-VS1 verbatim (low credence, grade D, "an aspiration, not a position"). **MEDIUM 4** — "reject illusionism at the framework's foundations" stated flatter than P-VS3 holds it ("arguments it runs, not results it has won"); clause honestly qualified. Section heading's "load-bearing premise" reworded; the Further Reading instance retained per the style guide's structural-work carve-out.
+
+- **§2.4 web-verify**: metadata re-verification **correctly skipped by rule** — References block untouched, no cites added or removed; the 2026-06-18 per-cite publisher-of-record ledger (all 8 external cites real-correct, 2 quotes verbatim) stands. The **internal** citation channel *was* re-checked, which is what metadata passes miss: ref 9 → parent had moved (that is CRITICAL 1); ref 10 → 0 commits since the freeze, no drift; `Oquatre-*` bylines confirmed legitimate pseudonym convention, not stripped; [steelmanning-as-method](/apex/steelmanning-as-method/) reciprocity verified (does cite this as the empirical moves-one-through-three exhibit, paired with [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)). Currency sweep: 1 superlative match ("so far"), refers to the Map's own prior treatments — no empirical record to re-verify.
+- **§2.6 engagement modes** (editor-internal): Frankish/illusionism = Mode Three, boundary-marked, now with added honesty that the rejection is argued not won. RPE/affordance-competition = conceded internal tension, and the article now states the rival's strongest moderate position in its own voice. Hard-problem reply returns the dispute to the prior unsettled question. No boundary-substitution; editor-vocabulary leakage scan clean.
+- **Hygiene**: real fix, so both `ai_modified` and `last_deep_review` bumped (not a no-op); stamps `date -u`-checked, not future. `ai_system` → `claude-opus-4-8+claude-opus-5`. Memory slugs backticked in the review file (`reviews/` is synced — wikilinked slugs there block the push). Synced; **both trees grep-verified**: "horn to beat" now 0/0, all three fixes present 1/1/2/1 in each, and the three new links render as live Hugo URLs. Remaining sync strips are all in `workflow/todo.md` + `changelog.md`, which are exempt.
+- **Content changes**: `obsidian/topics/the-steelman-for-value-blind-selection.md`, `obsidian/reviews/deep-review-2026-08-22-the-steelman-for-value-blind-selection.md`; both synced to `hugo/content/`.
 
 ## 2026-08-22T15:42:19+00:00 - positions-evolve
 

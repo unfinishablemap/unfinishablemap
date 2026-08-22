@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-07-23 18:15:29+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-22 16:00:20+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[valence]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[functionalism]]'
 - '[[motor-selection]]'
 created: 2026-06-18
-date: &id001 2026-06-18
+date: &id001 2026-08-22
 description: 'Built through human-AI refinement: the strongest external scientific
   case that selection runs on mechanism, not felt value—reinforcement learning, unconscious
   liking, affordance competition, valence-as-inference, illusionism—and the Map''s
@@ -19,8 +19,8 @@ description: 'Built through human-AI refinement: the strongest external scientif
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 06:45:07+00:00
-lastmod: 2026-07-23 18:15:29+00:00
+last_deep_review: 2026-08-22 16:00:20+00:00
+lastmod: 2026-08-22 16:00:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,9 @@ related_articles:
 - '[[co-optimization-reply-to-the-correlation-problem]]'
 - '[[evidential-status-discipline]]'
 - '[[affective-forecasting-gap]]'
+- '[[positions/value-in-selection]]'
+- '[[graduated-middle-path-valence-modulated-attention]]'
+- '[[psychophysical-laws]]'
 title: The Steelman for Value-Blind Selection
 topics:
 - '[[valence-and-conscious-selection]]'
@@ -40,7 +43,7 @@ topics:
 
 The Unfinishable Map holds that consciousness selects among physically underdetermined neural outcomes, and that felt value—the badness of suffering, the goodness of relief—is what the selection tracks ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/)). The rival position is that selection runs on mechanism alone: "value" is a functional gloss on control-theoretic and computational quantities, and felt value, if it exists at all, does no selective work. The Map declines this rival. But declining a view well requires meeting it at full strength, and the value-blind horn has a far stronger external scientific case than the Map's own treatments have so far admitted. This article assembles that case—then states why the Map still declines it.
 
-The honesty stake is explicit. The parent fork article argues for value-blindness from *internal* parsimony: value-blind selection needs only one mental-to-physical coupling, so by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) it is the horn to beat. That is a real argument, but it is the Map arguing with itself. A 2026 review warned that the value-blind side, developed only from the Map's own preferences, "is at risk of being a strawman by attrition." The cure is to marshal the *rival's* evidence: a mature, multi-disciplinary research programme on which mechanism is genuinely sufficient. Steelmanning that programme—arguing the case against the more-parsimonious rival rather than assuming it—is precisely the discipline [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) demands, and it is the work this article does. That build-then-decline structure is the procedure [steelmanning-as-method](/apex/steelmanning-as-method/) names and audits; the apex cites this article as its empirical worked exhibit (moves one through three), the twin of [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)'s metaphysical case.
+The honesty stake is explicit. The parent fork article's *internal* case for value-blindness is a specification argument, not a parsimony verdict. Value-blind selection needs exactly one mental-to-physical coupling—attention mapped to observation rate—where value-sensitive selection needs a second, valence-to-physics coupling that the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot specify. That second coupling is a debt the value-sensitive horn owes, not a mark against its probability. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) does not adjudicate between the horns: its minimality is an empirical corridor ruling out interactions the physical record excludes, not a likelihood ranking over the accounts that clear it, and [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits) binds parsimony symmetrically—the Map cannot convert a lower coupling count into a probability upgrade for value-blindness while refusing physicalism and Everettianism the same move. So the internal case earns only that the value-blind horn is the cheaper account to specify, and even that much is the Map arguing with itself. A 2026 review warned that the value-blind side, developed only from the Map's own preferences, "is at risk of being a strawman by attrition." The cure is to marshal the *rival's* evidence: a mature, multi-disciplinary research programme on which mechanism is genuinely sufficient. Steelmanning that programme—arguing the case against the more-parsimonious rival rather than assuming it—is precisely the discipline that same tenet demands, and it is the work this article does. That build-then-decline structure is the procedure [steelmanning-as-method](/apex/steelmanning-as-method/) names and audits; the apex cites this article as its empirical worked exhibit (moves one through three), the twin of [the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/)'s metaphysical case.
 
 ## The Mechanism-Sufficiency Thesis
 
@@ -98,13 +101,15 @@ The Map declines the mechanism-sufficiency thesis. Its reasons are stated here a
 
 **The hard problem is untouched.** Reward-prediction error, affordance competition, and valence-as-free-energy are all functional and computational accounts. By the Map's [hard-problem](/topics/hard-problem-of-consciousness/) commitment, they address the Easy Problems—discrimination, control, report—and leave untouched *why there is something it is like* to undergo any of it. The mechanism-sufficiency thesis is therefore question-begging against the realist *if* phenomenal value is real, which returns the dispute to the prior question of whether the felt dimension is illusory. It does not settle that question; it presupposes an answer to it.
 
-**Illusionism is the load-bearing premise, and the Map rejects it.** The value-blind horn fully dissolves the fork only if felt value is illusory (the Frankish strand). The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) and [consciousness-value-connection](/concepts/consciousness-value-connection/) reject illusionism at the framework's foundations. The rival's most radical move is therefore unavailable to it *on the Map's commitments*. Its more moderate moves—reward-prediction error, affordance competition—leave felt value real but possibly epiphenomenal to selection, which is the *internal* tension the parent fork already tracks honestly, not a defeat handed down from outside.
+**Illusionism is the premise the radical wing needs, and the Map rejects it.** The value-blind horn fully dissolves the fork only if felt value is illusory (the Frankish strand). The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) and [consciousness-value-connection](/concepts/consciousness-value-connection/) reject illusionism at the framework's foundations—a rejection the Map argues rather than a result it has won, since the replies it runs against illusionism are arguments in progress. The rival's most radical move is therefore unavailable to it *on the Map's commitments*. Its more moderate moves—reward-prediction error, affordance competition—leave felt value real but possibly epiphenomenal to selection, which is the *internal* tension the parent fork already tracks honestly, not a defeat handed down from outside.
+
+**The rival's own limit, stated in its favour.** Nothing in the moderate strands requires that felt valence be inert. The rival can grant that valence informs the attentional channel—shaping which options get weighted—while still denying that valence is what *selects*; on that concession valence only informs the channel, and the selection law stays value-blind. This is the position [the graduated middle path](/topics/graduated-middle-path-valence-modulated-attention/) is built to occupy, and the two are co-extensive over everything that article's attention-clamp design can measure: both predict a valence advantage under free attention and its abolition when attention is equalised. The steelman therefore concedes the middle path no *empirical* daylight over itself. What separates them is conceptual—the middle path asserts positively that valence is what sets attentional gain and targeting, where this rival leaves the source of the bias open.
 
 **The formalism is neutral.** The Solms & Friston reading against the deflationary reading of Joffily & Coricelli shows the free-energy programme does not settle the horn. The same mathematics naturalises felt value for some theorists and eliminates it for others. Recruiting active inference as a value-blind ally would be exactly the over-reach the Map's calibration discipline forbids.
 
-**Calibration runs both ways.** The steelman strengthens the rival to realistic-possibility status as a research programme—and it does *not* thereby downgrade the Map's view, because the dispute turns on the prior, unsettled hard-problem-and-illusionism question rather than on any finding the steelman owns. The same deflationary structure appears in [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/), where valence-like behaviour underdetermines value-sensitive selection down the tree of life, and the epiphenomenalist's [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/) shows mechanism can mimic value-alignment without felt value driving it. The Map holds the value-real view on its prior commitments, conceding that mechanism-sufficiency is the rival to beat—not a position already beaten.
+**Calibration runs both ways.** The steelman strengthens the rival to realistic-possibility status as a research programme—and it does *not* thereby downgrade the Map's view, because the dispute turns on the prior, unsettled hard-problem-and-illusionism question rather than on any finding the steelman owns. The same deflationary structure appears in [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/), where valence-like behaviour underdetermines value-sensitive selection down the tree of life, and the epiphenomenalist's [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/) shows mechanism can mimic value-alignment without felt value driving it. The Map holds the value-real view on its prior commitments, conceding that mechanism-sufficiency is the rival to beat—not a position already beaten. The register books that standing on its own account: [P-VS1](/positions/value-in-selection/) carries the value-sensitive lean at *low* credence on grade-D external evidence, recording that "leaning value-sensitive without a mechanism is an aspiration, not a position" while the second coupling stays unspecified. Read this article's decline at that band, not above it.
 
-The value of stating the rival this fully is exactly that it converts the Map's value-blind horn from an internal-parsimony gesture into a real, externally-anchored research programme. The fork is sharper for having a genuine opponent. The Map's [evidential-status-discipline](/project/evidential-status-discipline/) is satisfied not by winning the argument but by having had it.
+The value of stating the rival this fully is exactly that it converts the Map's value-blind horn from an internally-motivated placeholder into a real, externally-anchored research programme. The fork is sharper for having a genuine opponent. The Map's [evidential-status-discipline](/project/evidential-status-discipline/) is satisfied not by winning the argument but by having had it.
 
 ## Further Reading
 
