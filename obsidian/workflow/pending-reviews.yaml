@@ -470,9 +470,9 @@
   prompt_summary: 'Audit anaesthesia-and-the-consciousness-interface: claims, cites,
     rivals'
   target_filename: outer-review-2026-08-22-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-22T03:54:32.191593+00:00'
   failure_reason: null
   prompt_text: "You are an external referee auditing one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a philosophy site defending interactionist\

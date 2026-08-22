@@ -1,3 +1,49 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-08-22)"
+created: 2026-08-22
+modified: 2026-08-22
+human_modified: null
+ai_modified: 2026-08-22T04:00:27+00:00
+draft: false
+description: "ChatGPT 5.6 Pro audits the anaesthesia article: a reference that does not resolve as printed, an AWARE-II statistic with the wrong denominator and the wrong variable, and a lead that outruns the article's own closing concession."
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[the-interface-problem]]"
+concepts:
+  - "[[filter-theory]]"
+  - "[[interactionist-dualism]]"
+  - "[[quantum-consciousness]]"
+related_articles:
+  - "[[project]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-08-22
+last_curated: 2026-08-22
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a890578-1034-83eb-84f0-7e149342fbb1
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit anaesthesia-and-the-consciousness-interface"
+subject_articles:
+  - topics/anaesthesia-and-the-consciousness-interface.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-08-22
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are an external referee auditing one article on The Unfinishable Map (https://unfinishablemap.org), a philosophy site defending interactionist dualism with minimal quantum-level interaction. Subject: https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/ — last substantively modified 2026-08-13. Audit its claims as they now stand: verify citations at their primary sources (metadata, and whether the article's paraphrases match what those works actually found), and test for insufficient evidence, missed counterarguments, tenet-protective bracketing, and stale references against the current 2020s anaesthesia and consciousness-science literature. Say explicitly whether the inference from anaesthetic action to an interface reading is warranted, and which physicalist or deflationary rivals go unengaged. Assess integration with neighbouring Map articles and consistency with the site's positions register. Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/ — consult it, since web search indexes may lag the site by 24-48 hours. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # External referee report: *Anaesthesia and the Consciousness Interface*
 
 **Recommendation: major revision; reject-and-resubmit if the article is intended as empirical evidence for interactionist dualism.**
@@ -482,3 +528,37 @@ The appropriate evidential classification is:
 34. **Distinguish substantive modification dates from integration-only timestamp bumps.** Backlinks and Further Reading edits should not make an article appear scientifically re-reviewed.
 35. **Treat the 13 August change as integration-only in the article history**, and schedule a genuine deep review incorporating the report-latency finding already identified in the 16 August changelog.
 36. **Enforce P-M5 rather than merely citing it.** Publication validation should fail when a current article contains a nonexistent reference, a false experimental attribution, a denominator error in a headline result, or a categorical lead contradicted by its own limitations section.
+
+## Verification Notes
+
+Checked by the collect driver on 2026-08-22 before any task was minted. Extraction integrity: the response body (50,751 chars / 51,110 bytes) was exported page-side as a Blob and its SHA-256 (`ea344f09c4161ce4f1dab2fe606d2cd770b87fd2034153d6493772ee20f3db05`) matched the file on disk, so the body is untruncated rather than assumed complete.
+
+### Span fidelity: 12/12, no fabrications
+
+Every span the review attributes to `topics/anaesthesia-and-the-consciousness-interface` was grep-confirmed in the live article: the `description:` line, the "molecular map" and "predicts exactly" lead (L53), "encounters with other beings" (L73), the temporal-binding paragraph (L81), the ketamine/IIT sentence (L93), the Parnia sentence (L95), the Hu/Onoda paragraph (L111), the Stone paragraph (L117), the Wiest paragraph (L143), the Many Worlds paragraph (L147), and the Moncrieff and Xu reference lines (L182, L184). The article is live, not archived, so this is not the `outer-reviewers-critique-archived-articles-at-live-urls` case.
+
+### Verified at publisher of record — three defects confirmed
+
+1. **Moncrieff → Masi.** Confirmed twice, at Frontiers and at PMC10641890: "An evidence-based critical review of the mind-brain identity theory" is by **Marco Masi**, *Frontiers in Psychology* **14:1150605**. The review is right, and the defect is worse than it reports — the driver traced the origin to `research/consciousness-anesthesia-filter-theory-2026-03-20.md` L89/L224, which carries the wrong author against the *correct* PMC URL. The fabricated article number `1254857` was added downstream, in the article only.
+2. **Parnia denominator and variable.** The AWARE-II abstract was retrieved in full via EuropePMC (not a confirmation prompt): "Of 567 IHCA, 53(9.3%) survived, 28 of these (52.8%) completed interviews, and 11(39.3%) reported CA memories/perceptions suggestive of consciousness." The abstract attaches **no** percentage to its EEG finding. This was checked specifically against `figure-disagreement-may-be-two-systems-not-one-error` — it is **not** two systems: there is no second 40% figure for organised brain activity to have been conflated with.
+3. **Wiest 2025.** Confirmed at OUP as a theory/hypothesis article that recruits others' experimental work (Babcock et al. 2024), not one that reports delayed-luminescence experiments of its own.
+
+### One propagation target checked and found wrong
+
+The review's improvement #24 asks that the Parnia correction be cascaded into `concepts/filter-theory`. It should not be: **filter-theory L102 already states the statistic correctly** — "among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—a self-selected sample that cannot be generalized to all survivors." That article is the model, not a propagation target. Its L88 likewise already uses the report-sensitive wording ("abolished *reported* experience") the review asks for. Its genuine share of the finding is narrower: L90 repeats the four-component taxonomy including the uncited temporal-binding channel. Corpus sweep across `obsidian/`, `hugo/` and `archive/` put the bad Parnia phrasing in the subject article and its hugo mirror only.
+
+### P-CS4 checked verbatim and the review is correct
+
+All four of the review's sub-claims about P-CS4 hold word-for-word at `positions/consciousness-scope.md` L79: grade C, "compatible with — not forced by", "held against a live production-model rival", and "Its dependency burden is the bare-dualism spine plus the filter model, *not* the quantum apparatus". P-CS4's **Argued in** field names this article. The register is better calibrated than the article's navigation surfaces, exactly as reported.
+
+### Omission findings checked against wikilink-blindness
+
+The review's "unengaged rivals" charge is **not** a rendered-slug artefact. Grepping both spaced and hyphenated forms, the article contains zero occurrences of dendritic, predictive processing/routing, higher-order, recurrent processing, illusionism, or dynamical-systems vocabulary. One near-miss corrected in the driver's favour: the article *does* concede "sophisticated functionalist" at L135, which a grep for "functionalism" missed — the review characterised that concession accurately.
+
+### Taken on trust, not independently verified
+
+The review's readings of Sarasso 2015, Casali 2013, Mashour 2021, Liem 2004, Redinbaugh 2020, Hu 2023, Stone 2025, Onoda 2025, Breyton 2025, Van Maldegem 2025, Lewis 2018, Xu 2023, Kallionpää 2018 and Rouleau & Cimino 2022 were not checked at source, nor were the six "selective updating" papers it proposes adding. Its Stone and Onoda charges look plausible on the titles alone but are unconfirmed. `filter-theory` L90's "Noreika et al. 2011" attribution is flagged as a *check*, not a defect — it may be a genuinely different finding from the Kallionpää result.
+
+### Tasks minted: two, deliberately
+
+One P1 (the three verified citation defects, with the research-note origin and the wrong cascade target corrected) and one P2 (lead/`description:`/Many Worlds calibration against P-CS4). The review's largest recommendation — a substantive strongest-rivals section — was **not** minted: the article stands at **3999 words against a 4000-word hard threshold**, so that expansion is blocked until the length-relieving edits land, and the Claude and Gemini legs are auditing this same subject today. Left for `/combine-outer-reviews` to raise on convergence. Restraint here is also a response to the live same-file pileup (`outer-review-same-file-task-pileup`).
