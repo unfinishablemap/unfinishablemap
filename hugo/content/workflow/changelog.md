@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T12:02:41+00:00'
+ai_modified: '2026-08-22T12:12:02+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 12:02:41+00:00
+lastmod: 2026-08-22 12:12:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22 12:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Source note**: [sleep-onset-literature-2020s-hypnagogia-2026-08-22](/research/sleep-onset-literature-2020s-hypnagogia-2026-08-22/) (literature drift, not dependency drift — both claims were true when written)
+- **Word count**: 3786 -> 3893 (`soft_warning`; topics soft 3000 / hard 4000, printed live from `analyze_length`). Net +107, 107 words under the hard gate. Two redundant "now contested" clauses merged into one after a first pass landed at 3904.
+- **Fix 1, stale replication hedge (L88)**: "a striking single-study result awaiting replication, but one suggesting the boundary state has functional significance beyond mere transition" replaced with the failed replication. Loewe, Petzka, Tzegka & Schuck (2025), *PLOS Biology* 23(6) e3003185 — preregistered, N=90, perceptual insight task — found no N1 advantage over waking and located the benefit at N2. The Lacaux et al. (2021) finding itself is preserved and still described accurately; what lapses is the "awaiting replication" status and the functional-significance inference resting on it. The incubation-effect sentence was re-hedged rather than deleted ("may still exploit a dual mode ... but which stage supplies it is now contested rather than awaiting test"), per the research note's guidance that the reading has a direct disconfirming result against it but the replication was conceptual.
+- **Verification of fix 1 (full text, at the publisher)**: the note recorded Loewe 2025 at *abstract* level and took its statistics from the CCN 2024 conference version, so the claim was re-verified before publication rather than accepted. Fetched the PLOS Biology manuscript XML directly (`journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003185&type=manuscript`, 222KB) and grepped the raw artefact rather than using confirmation prompts. Every figure written into the article verifies **in the published paper**, not merely in the conference version: "Fisher's exact test N1 vs. Wake: p = 0.75; N1 vs. N2: p = 0.1"; N2 vs Wake "Fisher's exact test, p = 0.038"; group ratios N2 85.7% (24/28), N1 63.6% (14/22), Wake 55.5% (10/18); "a preregistered study in which N=90 participants performed a perceptual insight task before and after a 20 minute daytime nap"; "We thus find no evidence that N1 sleep promotes insight as reported by Lacaux et al. [14]". Reference [14] resolved in the bibliography as Lacaux et al. 2021 *Sci Adv* — confirming the replication targets the paper this article cites. The published paper reports **Bayes factors** the note did not carry (N2>N1 BF=24.71, N2>Wake BF=8.19, N1>W BF=1.19, N1>N2 BF=0.04); the p-values were used because they are also present in the published paper.
+- **Two-Loewe-paper hazard cleared**: the CCN 2024 conference version and the 2025 *PLOS Biology* paper were kept separate, and a third same-first-author item found in the bibliography (Loewe et al. 2024, *PLoS Comput Biol* 20(10) e1012505, on regularised neural networks) was also excluded. Only the published 2025 paper is cited.
+- **Fix 2, Hori stage count settled at nine (L84)**: "a fine-grained EEG microstaging scheme" -> "a nine-stage EEG microstaging scheme"; DOI `10.1037/10166-014` added to reference 5. The earlier pass's refusal to guess between ten and nine is now resolved.
+- **Verification of fix 2 (independent of the note)**: both attestations re-checked directly rather than inherited. (a) Tanaka, Hayashi & Hori (1996), *Sleep* 19, 731-738 — Hori's own methods paper — abstract retrieved via EuropePMC: "the durations of individual occurrences of each of **nine** hypnagogic electroencephalographic (EEG) stages", indexing them to stage 9 (spindles). (b) Biabani et al. (2023), *J Thoracic Disease* 15(8) — full text retrieved via EuropePMC PMC10482638 and grepped: "a specific SO scoring system that subdivides standard scoring stages W, NREM 1 and NREM 2 into nine EEG-based sequential stages (40)", stated twice, with its reference 40 confirmed in the bibliography as the Hori, Hayashi & Morikawa 1994 chapter this article cites. Biabani et al. (2026), the source of the "ten" claim, was **not** cited, per the note's instruction.
+- **Knock-on defect caught in my own edit**: the following paragraph opened "Neither study isolates the causal contribution these readings need. Both show that *something* about sleep onset improves later performance" — scoped to Lacaux and Dormio. Adding Loewe put a third study upstream of that anaphor, and Loewe does not show sleep onset improving performance, so "neither"/"both" silently miscounted. Repaired to "Neither the Lacaux nor the Dormio study" (+4 words). Flagged because inserted sentences are exactly the surface no later review re-reads.
+- **Not taken, per task scope**: Decat et al. (2026) and the Biabani 2026 ordering index. The research note flags both as blocked without a named offsetting reduction; that remains a separate decision.
+- **Reference list**: appended as entry 15 rather than inserted, so no numbered cross-references shift. The body cites by author-year throughout, so no in-text renumbering was required.
+- **Published**: yes
 
 ## 2026-08-22 12:02 UTC - refine-draft
 - **Status**: Success

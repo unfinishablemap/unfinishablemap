@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-22
-ai_modified: 2026-08-22 11:18:09+00:00
+ai_modified: 2026-08-22 12:12:56+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Verification pass on 2020s sleep-onset sources for the hypnagogia 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-22 11:18:09+00:00
+lastmod: 2026-08-22 12:12:56+00:00
 modified: *id001
 related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
@@ -100,13 +100,15 @@ Not covered and **deliberately out of scope for this note**: Dendritic Integrati
 
 ### 1. The N1 creativity result failed a preregistered replication
 
-**Löwe, A. T., Petzka, M., Tzegka, M. M. & Schuck, N. W. (2025).** "N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task." *PLOS Biology* 23, e3003185. DOI `10.1371/journal.pbio.3003185`. Preregistered (OSF), N=90, 20-minute daytime nap, perceptual insight task. *Access: journal abstract inspected via EuropePMC; the CCN 2024 conference version's full text inspected directly for the statistics.*
+**Löwe, A. T., Petzka, M., Tzegka, M. M. & Schuck, N. W. (2025).** "N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task." *PLOS Biology* 23, e3003185. DOI `10.1371/journal.pbio.3003185`. Preregistered (OSF), N=90, 20-minute daytime nap, perceptual insight task. *Access: **published full text inspected** (PLOS Biology manuscript XML fetched directly from the publisher and grepped, 2026-08-22, during the refine pass that consumed this note). Supersedes this note's original abstract-level access; the CCN 2024 conference version was also inspected but is no longer the source for any figure.*
 
-Result, verbatim from the conference version: "We find no evidence for an effect of N1 sleep: the insight ratio of N1 subjects did not differ from subjects of the Wake group." Group rates: N2 85.7% (24/28), N1 63.6% (14/22), Wake 55.5% (10/18). N1 vs Wake p=0.75; N1 vs N2 p=0.1; **N2 vs Wake p=0.038**. Both preregistered hypotheses — that N1 would beat Wake, and that N1 would beat N2 — were unsupported. Exploratory: aperiodic 1/f spectral slope predicted insight beyond sleep stage; alpha and spindle power did not.
+Result, verbatim from the **published** paper: "We thus find no evidence that N1 sleep promotes insight as reported by Lacaux et al. [14]" — where reference 14 resolves in its bibliography to Lacaux et al. 2021, *Sci Adv*, confirming the replication targets the paper the article cites. The discussion adds: "the insight ratio of N1 subjects did not differ from subjects of the Wake group, thus providing no support for the hypothesis that N1 sleep fosters insight, contrary to [14]." Group rates: N2 85.7% (24/28), N1 63.6% (14/22), Wake 55.5% (10/18). N1 vs Wake p=0.75; N1 vs N2 p=0.1; **N2 vs Wake p=0.038** (Fisher's exact tests) — all three confirmed present in the published paper, not only the conference version. The published paper additionally reports Bayes factors this note originally lacked: N2>N1 BF=24.71, N2>Wake BF=8.19, N1>Wake BF=1.19, N1>N2 BF=0.04. Both preregistered hypotheses — that N1 would beat Wake, and that N1 would beat N2 — were unsupported. Exploratory: aperiodic 1/f spectral slope predicted insight beyond sleep stage; alpha and spindle power did not.
 
 Why this matters more than an added citation. The article currently calls Lacaux 2021 "a striking single-study result awaiting replication". It is no longer awaiting one. A preregistered conceptual replication ran, and it inverted the stage assignment: deeper sleep, not the boundary state, carried the effect. The article's "dual-mode operation" section leans on N1 being functionally special — "consciousness loosened enough to reach associative connections executive control normally filters out, yet engaged enough to recognise solutions". That reading now has a direct disconfirming result against it and should be re-hedged rather than deleted; the replication used a different task, which is why the authors call it conceptual, and its N1 group was small (n=22).
 
 This is the highest-value item in this note. It is a correction to a live claim, not an expansion.
+
+**Three same-first-author items must be kept apart.** (1) The CCN 2024 conference version; (2) this 2025 *PLOS Biology* paper, 23(6) e3003185, the one to cite; (3) Löwe, Touzo, Muhle-Karbe, Saxe, Summerfield & Schuck (2024), "Abrupt and spontaneous strategy switches emerge in simple regularised neural networks", *PLoS Comput Biol* 20(10) e1012505 — a modelling paper, reference 10 of the 2025 paper, unrelated to the sleep result. Only (2) is cited in the article.
 
 ### 2. The same mental states occur at wake, N1, and N2
 
