@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-05 21:45:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-22 05:56:49+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 concepts: []
 created: 2026-03-26
-date: '2026-06-05'
+date: '2026-08-22'
 draft: false
-lastmod: 2026-06-05 21:45:00+00:00
+lastmod: 2026-08-22 05:56:49+00:00
 related_articles: []
 title: Research Notes - Neuroscience of Anaesthetic Recovery
 ---
@@ -106,11 +106,11 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 
 ### A Quantum Microtubule Substrate of Consciousness (Wiest, 2025)
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
-- **Type**: Research article (Neuroscience of Consciousness, Oxford Academic)
+- **Type**: Theory/review article (*Neuroscience of Consciousness* 2025(1):niaf011, sole author Michael C. Wiest). **Not primary evidence** — the paper's own data-availability statement reads, verbatim, "There are no new data associated with this article." It argues over experiments run by others; any experimental claim sourced from it must be attributed to the group that ran the experiment, not to Wiest.
 - **Key points**:
-  - Claims experimental support for quantum microtubule substrate of consciousness
+  - Argues that existing experimental results support a quantum microtubule substrate of consciousness — a recruitment of others' data, not a report of new data
   - Proposes this solves both the binding problem and epiphenomenalism
-  - Delayed luminescence experiments show anaesthetics affect quantum properties of microtubules
+  - Recruits optical experiments in which anaesthetics shorten the lifetime of excited states in microtubules. The solidly-attested result here is Kalra et al. 2023 (*ACS Central Science* 9(3):352-361), which used **tryptophan autofluorescence lifetimes** to show that the anaesthetics etomidate and isoflurane reduce exciton diffusion in microtubules. ⚠️ Note the modality: that is autofluorescence-lifetime/exciton-diffusion work, **not** "delayed luminescence" (long-delayed re-emission), which is a distinct measurement. This note previously conflated the two. A PubMed search for `delayed luminescence microtubule anesthetic` returns zero results, so the delayed-luminescence framing should not be asserted here until a specific primary source is identified — it is neither confirmed nor deleted, just marked unverified.
 - **Tenet alignment**: Compatible with dualism and Minimal Quantum Interaction — Hameroff's group propose this as a quantum-substrate candidate, but the underlying experimental claims (microtubule quantum effects, anaesthetic delayed-luminescence) remain contested in mainstream neuroscience. The framework is *consistent with* the Map's interface needs but does not by itself establish that consciousness is the operative cause.
 
 ## Major Positions
@@ -136,8 +136,8 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 ### Orch OR / Quantum Consciousness Account
 - **Proponents**: Penrose, Hameroff, Craddock, Tuszyński
 - **Core claim**: Consciousness depends on quantum coherence in neural microtubules. Anaesthetics work by disrupting quantum oscillations in tryptophan quantum channels within tubulin proteins. Recovery requires restoration of these quantum processes.
-- **Key arguments**: Anaesthetics bind selectively to hydrophobic quantum channels in tubulin; delayed luminescence experiments show quantum effects of anaesthetics on microtubules; explains the selectivity of anaesthetics for consciousness without global brain suppression
-- **Relation to site tenets**: Directly supports dualism and minimal quantum interaction — provides the most explicit candidate mechanism for the mind-body interface. If anaesthetics specifically disrupt quantum processes that serve as the gateway for consciousness, recovery represents the reopening of that gateway. The 2025 paper claims experimental validation.
+- **Key arguments**: Anaesthetics bind selectively to hydrophobic quantum channels in tubulin (Craddock et al. 2015); optical measurements show anaesthetics shortening excited-state lifetimes in microtubules — specifically Kalra et al. 2023, where etomidate and isoflurane reduced exciton diffusion measured by tryptophan autofluorescence lifetime; explains the selectivity of anaesthetics for consciousness without global brain suppression
+- **Relation to site tenets**: Directly supports dualism and minimal quantum interaction — provides the most explicit candidate mechanism for the mind-body interface. If anaesthetics specifically disrupt quantum processes that serve as the gateway for consciousness, recovery represents the reopening of that gateway. Wiest 2025 argues the experimental case for this substrate, but it reports no new data of its own — the experimental weight rests on the primary work it recruits (Craddock et al. 2015; Kalra et al. 2023), whose interpretation as evidence of *quantum* consciousness remains contested in mainstream neuroscience.
 
 ### Stochastic Neural Dynamics Model
 - **Proponents**: BJA research group (2025)
@@ -183,7 +183,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 | 2023 | Sanders et al. — nature of consciousness in anaesthesia | Establishes multi-state model (connected, disconnected, unconscious) |
 | 2024 | Mashour (Neuron) — anesthesia and neurobiology of consciousness | Major review connecting anaesthesia to consciousness theories |
 | 2025 | BJA — stochastic vs. deterministic emergence | Mouse data shows emergence is fundamentally stochastic |
-| 2025 | Wiest — quantum microtubule substrate | Claims experimental validation of quantum consciousness substrate |
+| 2025 | Wiest — quantum microtubule substrate | Theory review arguing that others' experiments support a quantum consciousness substrate (no new data of its own) |
 
 ## Potential Article Angles
 
@@ -219,8 +219,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 6. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12597436/
 7. (2021). Dynamics of recovery from anaesthesia-induced unconsciousness across primate neocortex. https://pmc.ncbi.nlm.nih.gov/articles/PMC7868001/
 8. Craddock TJA, et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*. https://pubmed.ncbi.nlm.nih.gov/25714379/
-9. Wiest MC. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+9. Wiest MC. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1):niaf011. https://doi.org/10.1093/nc/niaf011 — theory/review; states "There are no new data associated with this article".
 10. Tononi G (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5:42.
 11. Hameroff S, Penrose R (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1):39-78. https://www.sciencedirect.com/science/article/pii/S1571064513001188
 12. Mashour GA (2014). Top-down mechanisms of anesthetic-induced unconsciousness. *Frontiers in Systems Neuroscience*.
 13. Bonhomme V, Staquet C, Montupil J, et al. (2019). General Anesthesia: A Probe to Explore Consciousness. *Frontiers in Systems Neuroscience*, 13:36. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
+14. Kalra AP, Benny A, Travis SM, et al. (2023). Electronic Energy Migration in Microtubules. *ACS Central Science*, 9(3):352-361. https://doi.org/10.1021/acscentsci.2c01114 — primary experimental source for the anaesthetic effect on microtubule excited-state lifetimes (etomidate and isoflurane reduce exciton diffusion; tryptophan autofluorescence lifetime method). Cited here because Wiest 2025 recruits this class of result without contributing data of its own.

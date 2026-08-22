@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-08-22T05:43:47+00:00
+ai_modified: 2026-08-22T05:56:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
-1. Moncrieff, J. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1254857.
+1. Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605. https://doi.org/10.3389/fpsyg.2023.1150605
 1. Kallionpää, R. E., Scheinin, A., Kallionpää, R. A., et al. (2018). Spoken words are processed during dexmedetomidine-induced unresponsiveness. *British Journal of Anaesthesia*, 121(1), 270-280. https://doi.org/10.1016/j.bja.2018.04.032
 1. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120. https://doi.org/10.1073/pnas.2216268120
 1. Parnia, S., et al. (2023). AWAreness during REsuscitation — II: a multi-center study of consciousness and awareness in cardiac arrest. *Resuscitation*, 191, 109903.

@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-22T05:56:49+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Task**: P1 `three citation defects`, `reviews/outer-review-2026-08-22-chatgpt-5-6-sol-pro` item 11 / synthesis cluster 1. Defects (2) Parnia and (3) Wiest-at-L143 were already closed by the sibling pass; both re-verified intact this run (regression check only, no re-application).
+- **Original score**: n/a (targeted citation-defect pass, not a general refine)
+- **Changes**:
+  - **Moncrieff -> Masi, verified independently at two publishers of record.** Frontiers and PMC both return sole author **Marco Masi**, "An evidence-based critical review of the mind-brain identity theory", *Frontiers in Psychology* 14:1150605, 27 Oct 2023, DOI 10.3389/fpsyg.2023.1150605, PMID 37965649, article type **Hypothesis and Theory**. Joanna Moncrieff is unrelated to this paper.
+  - The article number `1254857` is **not a real Frontiers in Psychology article**: the identical URL template that resolved for 1150605 returns HTTP 404 for 1254857 (control pair satisfied, so this is a genuine non-resolution rather than a blind zero).
+  - Fixed 3 obsidian loci + 3 hugo mirrors: `topics/anaesthesia-and-the-consciousness-interface` L182 (reference corrected, DOI added, length-neutral); `research/consciousness-anesthesia-filter-theory-2026-03-20` L89 (section heading) and L224 (reference list, upgraded from bare "*PMC*" to full journal metadata).
+  - **Source-type classification** ("theory/review, not primary evidence" — the reviewer's item 11 ask) installed in the research note's `Type` field rather than the article: the article has **no inline body citation** of this paper at all, only a flat bibliography entry with no type annotations anywhere, so an article-side label would have been both inconsistent and a hard-gate length breach.
+  - **Wiest/Babcock locus (`research/anaesthetic-recovery-neuroscience-2026-03-26`) — the brief's named source did not survive verification.** The brief identified Babcock et al. 2024 as the delayed-luminescence experimental source. Babcock et al. 2024 is "Ultraviolet superradiance from mega-networks of tryptophan in biological architectures" — **superradiance, a different measurement**. Per the `babcock-hameroff-2025-phantom-cite` warning, Babcock was **not** cited.
+  - The solidly-attested anaesthetic-microtubule optical result is **Kalra et al. 2023**, *ACS Central Science* 9(3):352-361, DOI 10.1021/acscentsci.2c01114: etomidate and isoflurane reduce exciton diffusion, measured by **tryptophan autofluorescence lifetime**. Added as citation 14 (appended, not inserted — avoids renumbering per `inserting-into-a-numbered-ledger-breaks-cross-references`).
+  - **Modality conflation found and marked.** "Delayed luminescence" (long-delayed re-emission) is a distinct measurement from autofluorescence-lifetime/exciton-diffusion work. PubMed returns zero for `delayed luminescence microtubule anesthetic`. The claim was neither asserted nor deleted (`citation-verify-false-negative`) — it is marked unverified pending a specific primary source.
+  - Fixed 3 sibling loci of the same defect in that note (`fix-by-file-leaves-string-siblings-live`): the Wiest `Type` field said "Research article" (it is a theory review whose own data statement reads, verbatim, "There are no new data associated with this article" — confirmed at the OUP page); "The 2025 paper claims experimental validation"; and the historical-timeline row making the same claim.
+- **Length**: 3998/4000 words (topics thresholds printed live: soft 3000 / hard 4000 / critical 6000). **Unchanged** by this pass — the reference swap was token-for-token. Two words of slack remain.
+- **Boundaries respected**: synthesis cluster 8 ("strongest discriminating evidence" at L95) not absorbed; no Parnia cascade into `concepts/filter-theory`; no follow-up tasks minted.
+- **Published**: yes
+
 ## 2026-08-22T05:43:47+00:00 - refine-draft
 
 - **Status**: Success

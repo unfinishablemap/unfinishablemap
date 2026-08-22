@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-22 05:43:47+00:00
+ai_modified: 2026-08-22 05:56:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 concepts: []
 created: 2026-03-20
 date: '2026-08-22'
 draft: false
-lastmod: 2026-08-22 05:43:47+00:00
+lastmod: 2026-08-22 05:56:49+00:00
 related_articles: []
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 ---
@@ -90,9 +90,9 @@ General anesthesia does not produce a simple binary switch between consciousness
   - Empirically supported by TMS-EEG studies showing reduced complexity under propofol
 - **Tenet alignment**: Neutral — IIT is compatible with some forms of dualism (it's substrate-neutral and identifies consciousness with information structure, not physical matter per se) but is typically framed as physicalist. Ketamine dreaming is often read as a counterexample; it is not one, since consciousness is present and integration is high, so the case fits IIT rather than telling against it.
 
-### An Evidence-Based Critical Review of the Mind-Brain Identity Theory (Moncrieff, 2023)
+### An Evidence-Based Critical Review of the Mind-Brain Identity Theory (Masi, 2023)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/
-- **Type**: Review article (PMC)
+- **Type**: Hypothesis and Theory article (*Frontiers in Psychology* 14:1150605, DOI 10.3389/fpsyg.2023.1150605, PMID 37965649) — theory/review argument, **not primary evidence**; its force is dialectical rather than empirical
 - **Key points**:
   - Systematic review of evidence for and against mind-brain identity
   - Filter/transmission theory reviewed as alternative to production theory
@@ -225,7 +225,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Rouleau, N., & Cimino, N. (2022). "A Transmissive Theory of Brain Function: Implications for Health, Disease, and Consciousness." *NeuroSci*, 3(3), 32. https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/
 - Marshall, P. (2022). "The brain doesn't create consciousness." *IAI TV*. https://iai.tv/articles/the-brain-doesnt-create-consciousness-auid-2002
 - Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5:42. https://iep.utm.edu/integrated-information-theory-of-consciousness/
-- Moncrieff, J. (2023). "An evidence-based critical review of the mind-brain identity theory." *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/
+- Masi, M. (2023). "An evidence-based critical review of the mind-brain identity theory." *Frontiers in Psychology*, 14, 1150605. https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/
 - Kelly, E.F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 - Alkire, M.T. et al. (2005). "General anesthesia and the neural correlates of consciousness." *Progress in Brain Research*, 150, 229-244.
 - Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
