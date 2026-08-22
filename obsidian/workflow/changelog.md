@@ -1,10 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T11:22:00+00:00'
+ai_modified: '2026-08-22T11:43:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22 11:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/contentless-awareness-evidence]]
+- **Word count**: 2335 → 2625 (+290)
+- **Critical issues addressed**: 3 (stale exemplar description of this article on `project/evidential-status-discipline`; Metzinger MPE literature drift — 2024 monograph unregistered; over-conceded "one report-stream" non-independence claim falsified by the 57-country sample)
+- **Medium issues addressed**: 1 (unpriced pro-Map residue — the Advaita co-optation, per the 2026-08-18 correction to `concepts/witness-consciousness`)
+- **Enhancements made**: 3
+- **Engagement modes**: introspection-skepticism at the datum, Mode Two; the metaphysical claim, Mode Three; Madhyamaka, Mode Three (pre-existing); Advaita, Mode Three (new — nondual structure marked as framework difference, not refuted)
+- **Also modified**: [[project/evidential-status-discipline]] (exemplar entry corrected — it described a "live hypothesis" label the article retired on 2026-07-17)
+- **Output**: [[reviews/deep-review-2026-08-22-contentless-awareness-evidence]]
 
 ## 2026-08-22 11:22 UTC - research-topic
 
