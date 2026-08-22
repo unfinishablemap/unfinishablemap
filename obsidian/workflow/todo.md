@@ -2931,6 +2931,19 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **MIRROR**: edit `obsidian/`, run `uv run python scripts/sync.py`, grep both trees. `ai_modified` from a
   live `date -u`, strictly past.
 
+### P3: two `hugo/content/` files carry a broken tenet link that does not exist in their obsidian sources — a stale-copy divergence, not just a bad anchor
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/heterophenomenology.md
+- **Source**: driver sweep after refine-draft (2026-08-22)
+- **Generated**: 2026-08-22
+- **Notes**: **VERIFIED LIVE 2026-08-22, twice excluded from the `dualism-channel-width-axis` anchor task as out of scope.** `hugo/content/concepts/heterophenomenology.md:153` and `hugo/content/topics/microphenomenological-interview-method.md:153` each carry the bare markdown link `[Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits)` — **1 hit each**. Their obsidian sources contain **0** occurrences of `occams` (grep-verified in both). The anchor target does not exist either: `grep -c 'id="occams-razor-has-limits"' hugo/content/tenets/_index.md` returns **0**, so the link lands at page top. The correct id is `occams-limits`, emitted at `hugo/content/tenets/_index.md:135` on the Tenet 5 line.
+  ⚠️ **THE DIVERGENCE IS THE REAL FINDING, NOT THE BROKEN LINK.** `hugo/content/` is generated from `obsidian/` by `scripts/sync.py`, which is a pure translator. Content present in Hugo and **absent from source** means either (a) sync does not overwrite/delete in the way assumed, or (b) the sentence was removed from the obsidian sources and the Hugo copies were never regenerated. **Diagnose which before editing anything** — patching the two Hugo files by hand would paper over whichever mechanism produced them, and they would drift again.
+  **DO NOT hand-edit `hugo/content/`** as the fix. If the sentence belongs, restore it in the **obsidian** source with the correct `[[tenets#^occams-limits|...]]` wikilink and re-sync. If it does not belong, establish why Hugo still serves it and whether other files are affected.
+  **SCOPE QUESTION WORTH ANSWERING WHILE THERE:** are these two the only Hugo files diverging from source? A general check — compare `hugo/content/**` against freshly-synced output and report any file differing beyond the known link-conversion transforms — would settle whether this is an isolated pair or a class. Report the count; do not mass-edit.
+  **CONTEXT:** found during the 2026-08-22 `^occams-razor-has-limits` → `^occams-limits` repair (commit `e8b4d102`), which fixed 6 occurrences across 5 **source** files (1 live article + 4 archive) and deliberately left these two alone as a different defect class.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
