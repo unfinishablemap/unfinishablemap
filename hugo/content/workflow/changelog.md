@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T00:16:09+00:00'
+ai_modified: '2026-08-22T01:14:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 00:16:09+00:00
+lastmod: 2026-08-22 01:14:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T01:14:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-08-21
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.6 Pro, Claude Opus 5, Gemini 2.5 Pro; all three audited `topics/hypnagogic-phenomenology-and-interface-modulation`)
+- **Clusters**: 12 convergent (4 at 3/3, 8 at 2/3), 8 singleton, 3 divergent
+- **Dominant convergence**: the article confronts only prefrontal disinhibition while the strongest single-mechanism deflations — predictive processing / active inference (3/3), local sleep (2/3), global-workspace fragmentation (1/3) — appear zero times, so one graded architecture predicts the staggered timelines read as evidence for semi-independent interface channels.
+- **Tasks upgraded**: 6 (P2→P1: 6; P1 tasks left at P1: 3)
+- **Tasks deduplicated**: 0 — each leg's own /outer-review pass had already restricted its minting to findings the earlier legs had not raised, so the anti-pileup work happened upstream. Four P1 tasks now stand on the one article; each rewritten task carries an explicit scope boundary and names the sibling it must not absorb.
+- **Divergence adjudicated**: Claude's citation table marked Stickgold / Lacaux / Haar Horowitz all "PASS — claim faithful"; ChatGPT, retrieving the *Science* (2000) abstract at primary source, showed the Stickgold paraphrase overstated. Resolved for ChatGPT at the primary text rather than by majority. An unresolved figure disagreement (Hori nine- vs ten-stage) is flagged on two tasks.
+- **New scope added to existing tasks**: the Mavromatis ordering anchor (2/3, previously in no task), the local-sleep rival, the yoga-nidra state-verification caveat and neurophysiology anchors, ChatGPT's source-access-status audit rule, and the Thompson chapter-reference correction.
+- **Not tasked**: ChatGPT's finding that the quantum coupling-mode mapping conflicts with P-CS4's own dependency-burden statement — the one substantive singleton without a home.
+- **Output**: [outer-review-synthesis-2026-08-21](/reviews/outer-review-synthesis-2026-08-21/)
+
 
 ## 2026-08-22 00:44 UTC - outer-review
 - **Status**: Success
