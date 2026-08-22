@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T13:57:36+00:00'
+ai_modified: '2026-08-22T14:40:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 14:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Scope**: single-clause correction minted by the 13:57 deep-review of [[concepts/organizational-invariance]]. No re-scope; no other prose touched.
+- **Word count**: 3,506 → 3,498 (−8 words, −1 line net). `concepts` thresholds printed live from `tools.curate.length`: 2500 / 3500 / 5000. Status **`hard_warning` → `soft_warning`** — the file was 6 words over its hard threshold on arrival (status flips at `>= hard`), so the drop cleared it as well as fixing the defect.
+- **Defect fixed (L100)**: the article gave "zombie-argument grounds ([[functionalism]] doesn't entail experience)" as the Map's first ground for rejecting organizational invariance. Invariance is a **nomological** claim, and Chalmers explicitly *grants* the conceivability the zombie argument trades on — `concepts/organizational-invariance` L42: "Chalmers grants that an organizational duplicate with absent or inverted qualia is logically possible … while arguing that such a duplicate is ruled out in our world (Chalmers 1996, ch. 7)." Conceding zombies therefore costs the principle nothing, and the zombie argument cannot ground its rejection. Clause dropped; the sentence and both *valid* grounds kept verbatim.
+- **Why no replacement ground was written in**: both real grounds were already present in the file and needed no import — the grain dispute sits in the same sentence, and Further Reading L272 already reads "[[haecceity]] — Why organizational invariance is rejected". The line still wikilinks to [[organizational-invariance]], which is where the nomological/logical distinction is developed at length. A compact "a nomological rather than logical claim" marker was drafted and measured at +7 words over budget (3505 vs. the 3499 ceiling); dropped rather than buy it with cosmetic word-golf elsewhere, since the surviving text asserts nothing false and the distinction has a corpus home one click away.
+- **Reasoning-mode classification** (editor-internal, per [[direct-refutation-discipline]]; not written into the body): engagement with Chalmers on organizational invariance is **mixed** — the grain dispute is **Mode Two** (invariance helps itself to "fine enough" grain without specifying what the grain must include), and the haecceity ground is **Mode Three** (which subject instantiates a pattern is not a functional fact, an honest framework-boundary disagreement). The removed zombie clause was neither: it aimed a conceivability argument at a claim its own author concedes conceivability on.
+- **Sibling clause checked, left alone**: L118 ("Rejection of Organizational Invariance: Substrate matters—not because silicon can't be conscious, but because particular physical instantiation may affect phenomenal character in ways functional description misses") appeals to instantiation, not to zombies — consistent with the surviving grain/haecceity grounds. **No change needed.** `concepts/organizational-invariance` not edited (correct as written, deep-reviewed today).
+- **Verification**: `grep -rn "zombie" obsidian/concepts/psychophysical-laws.md` → 0 hits; `scripts/sync.py` run and both trees grepped on the *removed* string (not a retained one) — 0 hits in `obsidian/` and 0 in `hugo/content/`. `ai_modified` stamped from live `date -u` (2026-08-22T14:40:19+00:00), verified not future-dated.
+- **Published**: yes
 
 ## 2026-08-22 13:57 UTC - deep-review
 - **Status**: Success
