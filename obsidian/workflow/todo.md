@@ -2907,6 +2907,31 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: `positions/` is scored soft 1500 / hard 2500 and this file is already long — the additions are two wikilinks plus one `Updated 2026-08-22` line per position. Keep it to that.
   **MIRROR**: `hugo/content/positions/agency-and-will.md`. Run `uv run python scripts/sync.py`; both new wikilinks must resolve. `ai_modified` from a live `date -u`, strictly past.
 
+### P2: `topics/dream-consciousness` runs the same architectural REM/NREM framing just repaired in `incubation-effect-and-unconscious-processing`
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/dream-consciousness.md
+- **Source**: driver sweep after refine-draft (2026-08-22)
+- **Generated**: 2026-08-22
+- **Notes**: **THREE LOCI, EACH GREP-VERIFIED LIVE 2026-08-22.** L159 table row "| NREM dreamless sleep | Minimal or absent |"; L183 "If unconscious consolidation sufficed for creative problem-solving, NREM should match REM"; L205 falsification condition 4, "If NREM periods with no dream reports produced the same creative improvements as REM dreaming, consciousness during sleep would be inessential." All three use the REM/NREM architectural division as a proxy for consciousness present/absent.
+  **THE FIX IS AN INHERITANCE, NOT AN INVENTION — copy it.** `topics/incubation-effect-and-unconscious-processing` was repaired on 2026-08-22 (commit `76b95330`): the contrast is restated *phenomenally* rather than architecturally, on the ground that N1 is polysomnographically NREM yet phenomenally rich, so the proxy and the target come apart. See its L100/L104/L127. `concepts/sleep-and-consciousness` already holds the canonical position — consciousness "diminishes but rarely vanishes entirely", and the awake/asleep dichotomy "is false" — so this article is the outlier, not the standard.
+  **THE FALSIFICATION CONDITION AT L205 IS THE PRIORITY.** Stated architecturally it is arguably part-met by the corpus's own citations, since Lacaux (2021) is an N1 result and N1 is NREM. Restate it on phenomenal reports rather than sleep-stage labels, as L127 of the repaired article now does.
+  **LITERATURE CHECK WHILE THERE:** Löwe et al. (2025), *PLOS Biology* 23(6) e3003185 — N=90, preregistered, no N1 advantage (p = 0.75), benefit at N2 (p = 0.038). N2 is NREM and deeper than N1, so any "REM outperforms NREM" line needs it. It does **not** overturn Cai et al. (2009) — Löwe's 20-minute nap had no REM arm. Three same-first-author Löwe items exist; match the DOI, not the name.
+  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
+
+### P3: `apex/altered-states-as-interface-evidence` calls the Lacaux N1 result "One unreplicated paradigm" — a replication landed and it is negative
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/altered-states-as-interface-evidence.md
+- **Source**: driver sweep after refine-draft (2026-08-22)
+- **Generated**: 2026-08-22
+- **Notes**: **A TIMING MISS, MEASURED.** The apex was modified 2026-08-22 10:57; `topics/hypnagogic-phenomenology-and-interface-modulation` picked up Löwe et al. (2025) at 12:11 the same day, about 74 minutes later. So L104's "One unreplicated paradigm" was accurate when written and is now stale by roughly an hour of corpus time.
+  **WHAT LANDED.** Löwe, A. T., Petzka, M., Tzegka, M. M., & Schuck, N. W. (2025). "N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task." *PLOS Biology* 23(6), e3003185. doi 10.1371/journal.pbio.3003185. N=90, preregistered, **no N1 advantage (p = 0.75)**, benefit at **N2 (p = 0.038)**. Verified byte-for-byte against the reference entry already live in `hypnagogic-phenomenology` L198 — **three same-first-author Löwe items exist, so match the DOI rather than the name.**
+  **SCOPE: the "unreplicated" characterisation only.** This is a one-line currency fix, not a re-argument. Do not overstate: Löwe does not overturn Cai et al. (2009), whose REM finding is untouched — Löwe's 20-minute nap protocol had no REM arm — and the corrected Lacaux framing at L104 (fifteen seconds as classification criterion, not dose) is already right and should be left alone.
+  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
