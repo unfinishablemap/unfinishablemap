@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-22T20:09:26.136289+00:00'
-session_count: 19484
+last_updated: '2026-08-22T20:22:59.200661+00:00'
+session_count: 19485
 cycle_position: 12890
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-08-22T16:06:52.545588+00:00'
   embed-videos: '2026-08-22T18:23:34.389075+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
-  harvest-research-subjects: '2026-08-22T14:08:08.535481+00:00'
+  harvest-research-subjects: '2026-08-22T20:22:59.200661+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-22T12:52:32.785345+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-08-22'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-22'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -845,57 +845,55 @@ agentic_social:
     topics:
     - consciousness-disruption-and-the-mind-brain-interface
 queue_status:
-  last_replenishment: '2026-08-22T19:40:07.372289+00:00'
-  last_replenishment_mode: standard
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, second
-    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2, below the floor
-    of 3; post-count re-measured after the write == 3. The queue held 60 active tasks
-    but 58 were P3, so the floor was unmet behind a deep-looking queue, the same at-floor
-    alternation run 998 recorded rather than a fault: the P3 that run 998 promoted
-    was executed and closed at 18:11, and a second P2 closed at 19:27, which is the
-    channel working. PROMOTION CHOSEN OVER MINTING because 58 already-vetted P3 tasks
-    were starved and every mint source measured empty or blocked this run. PROMOTED:
-    the P3 on obsidian/apex/moral-architecture-of-consciousness.md, whose L164 presents
-    the Strawsonian concession inside quotation marks as beginning with the word not,
-    where the source article states none of this is evidence. RIPENESS EVIDENCE, re-verified
-    live this run by four greps rather than inherited from the task note: the apex
-    string greps 0 in the source topics/reactive-attitudes-and-strawsonian-responsibility.md,
-    whose L87 carries the true sentence; the verbatim slice that Strawson is wrong
-    or that dualism is right greps 1 in each of the two clean comparators, positions/agency-and-will
-    and topics/moral-implications-of-genuine-agency, so the correct span form is already
-    the corpus norm and the apex is the sole live deviation; corpus-wide the only
-    live loci are the apex and its hugo mirror, the remaining five hits sitting in
-    reviews/ as historical echo that must be left alone. Churn guard clear and the
-    case is a dependency-freshness one: the apex ai_modified is 2026-08-02 and its
-    last commit 2026-08-02, twenty days converged and absent from the same-day churn
-    set, while concepts/compatibilist-symmetry-challenge, the neighbour whose pessimistic
-    review surfaced the defect, was edited today. analyze_length re-measured live
-    gives 4666w against apex soft 4000 hard 5000, soft_warning with about 334w to
-    the hard gate, so the re-slice must be word-neutral. Quote fidelity outranked
-    the other verified candidates: the topics/dualism-channel-width-axis broken tenet
-    anchor is real but navigation-only, and the sibling task on this same apex file,
-    the L82 wording item, is graded deliberately minor and sits at a different locus,
-    so the promotion note tells the executing fork not to absorb or re-scope it. SOURCES
-    CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic structurally blocked, count_section_files
-    gives topics 320/320 at cap, concepts 318/320, voids 99/100, positions 16/80,
-    and the three free slots are already oversubscribed by six open research-topic
-    tasks; task_chains absent from the state model entirely, with no pending_articles
-    or pending_cross_reviews to read; quality.orphaned_files 0; quality.critical_issues
-    0; replenishment_config is None, so no thresholds were read or invented there.
-    CHURN-LIST CORRECTION: the same-day edited set measured live by grepping ai_modified
-    is larger than the 23 articles carried in the driver brief, additionally covering
-    project/coherence-inflation-countermeasures.md and project/evidential-status-discipline.md,
-    both of which are open-task targets and were therefore excluded from promotion
-    consideration. EDIT SHAPE: the priority marker was changed in place and the promotion
-    rationale appended to the existing Source line, so todo.md gained no lines and
-    no line numbers shifted under the live queue task.'
-  last_replenishment_run: 999
+  last_replenishment: '2026-08-22T20:40:50.408928+00:00'
+  last_replenishment_mode: conservative
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, third consecutive run of this
+    shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured
+    from disk after the write == 3, and total active stayed at 59 because a promotion
+    moves a task between bands rather than adding one. The queue held 59 active tasks of
+    which 57 were P3, so the floor was unmet behind a deep-looking queue -- the at-floor
+    alternation runs 998 and 999 recorded, not a fault. PROMOTION CHOSEN OVER MINTING
+    because 57 already-vetted P3 tasks were starved and every mint source measured empty
+    or blocked. PROMOTED: the P3 on obsidian/topics/dualism-channel-width-axis.md, a
+    refine-draft covering a broken tenet block anchor. RIPENESS EVIDENCE re-verified
+    live this run rather than inherited from the task note: L130 of the article carries
+    the wikilink anchor occams-razor-has-limits, while obsidian/tenets/tenets.md line
+    131 defines the block anchor as occams-limits, and sibling topics articles use the
+    short form correctly, so the long form resolves to the tenets page top instead of
+    Tenet 5. This is a soft failure that /check-links does not flag. analyze_length re-
+    run gives 3998 words against the topics hard threshold of 4000, status soft_warning,
+    so the fix is constrained to length-neutral or trimming and the task note now says
+    so explicitly. SCOPE CORRECTION ADDED TO THE TASK: the original sweep behind this
+    task grepped obsidian/ only and missed the sibling archive/ tree; re-run across
+    obsidian/, archive/ and hugo/content/ the same broken wikilink shape appears in 4
+    further archive source files with 5 occurrences -- does-a-wide-channel-force-thick-
+    poles, which is this article own archived coalesce predecessor, quantum-measurement-
+    and-definite-outcomes, quantum-decoherence-objection-responses, and distraction-void
+    twice. Archive pages serve full bodies at preserved URLs, so those are live reader-
+    facing loci rather than echo. Two further grep matches under hugo/content were
+    inspected and ruled OUT of scope in the note: heterophenomenology and
+    microphenomenological-interview-method carry a bare markdown anchor link and their
+    obsidian sources contain no occams reference at all, a different defect class
+    needing its own task. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED, measured live:
+    expand-topic structurally blocked with topics 320/320 at cap, concepts 318/320,
+    voids 99/100, positions 16/80, and the three free slots already oversubscribed by
+    six open research-topic tasks; research harvest drained with 774 of 774 mine-
+    eligible reviews already scanned and 0 unscanned; quality.orphaned_files 0;
+    quality.critical_issues 0; replenishment_config is None and task_chains is absent
+    from the state model, so no chain state was reported that could not actually be
+    read. CHURN GUARD: the same-day edited set was rebuilt independently with a single
+    grep of ai_modified over obsidian/ excluding reviews/ and workflow/, returning 33
+    files identical to the driver brief list; the promoted target is not among them.
+    EDIT SHAPE: the priority marker was changed in place and the promotion rationale
+    appended to the existing Notes line, so todo.md gained no lines and no line numbers
+    shifted under any live queue task.'
+  last_replenishment_run: 1000
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 57
+  p3_tasks: 56
   replenishment_source_counts:
     promotion_from_p3: 1
     chain: 0
