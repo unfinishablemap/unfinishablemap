@@ -500,9 +500,9 @@
   prompt_summary: 'Audit anaesthesia-and-the-consciousness-interface: claims, cites,
     rivals'
   target_filename: outer-review-2026-08-22-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-22T04:39:19.613411+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site defending interactionist
