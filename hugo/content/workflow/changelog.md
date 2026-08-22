@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T05:31:37+00:00'
+ai_modified: '2026-08-22T06:31:01+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 05:31:37+00:00
+lastmod: 2026-08-22 06:31:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T06:31:01+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Task**: P1 `lead and description assert what the closing section and P-CS4 decline`, synthesis cluster 1 (3/3 convergent), `reviews/outer-review-2026-08-22-chatgpt-5-6-sol-pro`.
+- **Changes**:
+  - `description:` and lead rewritten. Removed "with unexpected precision", "amounts to a molecular map", "predicts exactly". Lead now states that pharmacology maps the *neural determinants* of connectedness, report, memory and phenomenal presence, that the interface reading is the Map's interpretation "compatible with the data rather than delivered by them", and that receptor-specific, reversible, agent-differentiated abolition "is equally what a structured physicalist substrate predicts". Calibrated claim now sits in the truncation-resilient opening.
+  - §"What Anaesthesia Cannot Tell Us" now carries Gemini's owed **symmetric accounting** explicitly, and the concession is permitted to downgrade the surrounding verdict (Claude's *confession-without-correction*): of the three standard replies to the no-independent-predictions charge, graded restriction is withdrawn as non-discriminating (dose-dependent receptor occupancy predicts it); the remaining two are noted to run through the hypoxia-confounded terminal cases.
+  - Two further instances of the same pattern calibrated, found in-pass, not in the task spec: the Meyer-Overton close ("the kind of structured interface the Map's framework requires" → a structured dependence "a modular production account requires just as much") and §"Anaesthetic Resistance" (the "if consciousness were a uniform product... sensitivity should track brain size or metabolic rate" inference, which any receptor-level account already predicts).
+  - **Many Worlds paragraph replaced, not deleted.** Judged on its merits per the driver brief: it named no discriminating observation and attacked a position no Everettian holds (MWI leaves anaesthetic pharmacology untouched; branch-relative brain states track drug-specific molecular dynamics). Replaced with an honest null result — the tenet is held on indexical-identity grounds, not on clinical data — rather than deleted, so the tenet section stays complete. ChatGPT singleton finding, upheld on argument.
+  - **Bidirectional Interaction paragraph** rewritten: Hu et al.'s KCC2 pathway is now marked as physical causation throughout, measuring no mental-to-physical traffic, with the channel-reopening gloss named as an interpretation laid over a wholly neural finding. Brings the tenet section within P-CS4's declared dependency burden.
+  - **Minimal Quantum Interaction paragraph left unchanged** — already declines to recruit the microtubule literature; `positions/quantum-interface` P-Q5 confirms Orch-OR is demoted, so no overreach to correct.
+  - Style violations fixed in passing: a "load-bearing point" intensifier, a forbidden "not merely X but Y" construct, and one instance of the article referring to itself in prose ("One of the article's strongest exhibits").
+- **Engagement classification**: reply to the production/identity theorist — **Mode One** (defective on its own terms) downgraded to **Mode Three** (framework-boundary marking) where the article had been substituting the latter for the former. The pharmacological argument is now stated as constraining without discriminating, with the boundary disagreement noted honestly rather than dressed as an in-framework refutation.
+- **Length**: 3998 → 3963 words (topics soft 3000 / hard 4000, printed live from `tools.curate.length`). Was 2 words under the hard threshold; now 37. Status `soft_warning` (unchanged — `ok` would require dropping below 3000, a 25% cut). Note 907 of the 3963 words (23%) are the Further Reading and References apparatus, which `count_words` does not strip.
+- **Line-count neutral by design**: 198 lines before and after, all edits made in place, so the ten hard-coded line references carried by the three sibling tasks on this file remain valid. §"What Anaesthesia Cannot Tell Us" was deliberately **not** promoted — the calibrated-opening goal was met by fixing the lead instead.
+- **Published**: yes
 
 ## 2026-08-22T05:56:49+00:00 - refine-draft
 
