@@ -4,7 +4,7 @@ description: "How interactionist dualism reshapes the theory of action: a human-
 created: 2026-07-06
 modified: 2026-07-06
 human_modified:
-ai_modified: 2026-08-21T11:58:32+00:00
+ai_modified: 2026-08-22T23:08:36+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -90,7 +90,7 @@ The Map's tenets do not leave the theory of action open. They select within it.
 
 **The disappearing agent is answered by the dualist self.** The objection bites hardest against theories on which the agent is *nothing over and above* her states. The Map is not such a theory. Its substance-leaning reading of [[tenets#^dualism|Dualism]]—the agency cluster's commitment to a persisting subject who exercises causal powers—supplies exactly the "something more" the objection finds missing. This is why the Map's action theory is agent-causal at its base: the agent, as a subject, is a genuine originator, so control does not dissolve into chance. The commitment is developed in [[agent-causation]] and [[free-will]].
 
-**Minimal Quantum Interaction favours trying as the contact point.** The Map holds that if consciousness influences matter it does so by the *smallest* possible biasing of otherwise-undetermined quantum outcomes, not by injecting energy. Volitionism's *trying* is the natural locus for this minimal act: the trying is where the non-physical subject makes contact, biasing which neural outcome becomes actual without any detectable violation of physical law. The Map's preferred [[overdetermination-dissolution-under-selection-only-interactionism|selection-only interactionism]]—consciousness selecting among outcomes physics leaves open rather than adding a competing push—fits volition precisely: the trying selects, it does not shove. This dissolves the exclusion worry without overdetermination, because the mental contribution occupies the gap physics leaves rather than duplicating a sufficient physical cause.
+**Minimal Quantum Interaction favours trying as the contact point.** The Map holds that if consciousness influences matter it does so by the *smallest* possible biasing of otherwise-undetermined quantum outcomes, not by injecting energy. Volitionism's *trying* is the natural locus for this minimal act: the trying is where the non-physical subject makes contact, biasing which neural outcome becomes actual without any detectable violation of physical law. The Map's preferred [[overdetermination-dissolution-under-selection-only-interactionism|selection-only interactionism]]—consciousness selecting among outcomes physics leaves open rather than adding a competing push—fits volition precisely: the trying selects, it does not shove. This dissolves the exclusion worry without overdetermination, because the mental contribution occupies the gap physics leaves rather than duplicating a sufficient physical cause. Fixing the contact point at the trying leaves a further question open: a momentary selection does not by itself fix which preferences get backed by which actions over a life, and the [[wholeheartedness-void]] proposes the standing condition of identification as the candidate site for that persistent shape of influence—a site the trying, being momentary, cannot itself occupy.
 
 **The result is a volitionist agent-causal hybrid, close to Lowe.** The agent-substance originates (answering the disappearing agent); what she originates is a volition (the minimal act); the volition biases outcome-selection at the quantum margin (satisfying minimal interaction); and the causal-closure premise that would forbid this is rejected on independent grounds, as Lowe's critique and the Map's overdetermination-dissolution both argue.
 
@@ -110,6 +110,7 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 - [[agency-void]]
 - [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] — Davidson's causal theory of action as the physicalist backdrop the Map's dualist account departs from
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Deviant causation where the effector is engineered, and why authorship is fixed upstream of the decoder
+- [[wholeheartedness-void]] — Where the momentary trying leaves off: the standing condition of identification as the candidate site for the persistent shape of any non-physical influence
 
 ## References
 

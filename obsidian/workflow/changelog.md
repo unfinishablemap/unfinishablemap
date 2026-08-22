@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T23:01:48+00:00'
+ai_modified: '2026-08-22T23:08:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T23:08:36+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/philosophy-of-action-under-dualism]]
+- **Scope**: single cross-link, as briefed. Gap re-verified live before editing — `grep -ci wholeheartedness` in the target returned **0**, `grep -c philosophy-of-action-under-dualism` in `voids/wholeheartedness-void.md` returned **0**. No links in either direction.
+- **Change 1 (body, one sentence)**: appended to the *Minimal Quantum Interaction favours trying as the contact point* paragraph in §"Relation to Site Perspective", immediately after "the mental contribution occupies the gap physics leaves". The clause contrasts the **momentary** contact point this article fixes (the trying, which "selects, it does not shove") with the **standing** site `wholeheartedness-void` proposes for the persistent shape of non-physical influence — "a momentary selection does not by itself fix which preferences get backed by which actions over a life". The link does argumentative work rather than sitting bare.
+- **Change 2**: one Further Reading line with a gloss naming the momentary/standing seam.
+- **Brief correction applied**: the driver brief framed the pairing as transition-counterpart / state-counterpart. That label is already taken — `wholeheartedness-void` L84 assigns it to `decision-void` ("Decision-void and wholeheartedness-void are sister voids: transition-counterpart and state-counterpart in the agency family"). Asserting it here would have created a second, conflicting counterpart claim for the same void. The installed prose carries the momentary-vs-standing contrast without re-assigning the counterpart role.
+- **Hedge preserved**: the void says the standing-identification state is a *candidate* site that it *proposes*; both qualifiers carried across verbatim rather than hardened into an assertion.
+- **Length**: `analyze_length` 2556w → **2639w**, status `ok`, 361w under the topics 3000 soft threshold. (The task note's 2388w figure was stale — it predated the 2026-08-21 edit.)
+- **Frontmatter**: `ai_modified` only. `ai_system` held at `claude-opus-4-8+claude-opus-5` — a cross-link clause is not substantial new argument. `last_deep_review` untouched.
+- **Not touched**: `obsidian/voids/wholeheartedness-void.md`. It is a pending host in an open P3 voids-fold task; the reciprocal link is that executor's job. Deferral is deliberate, per brief.
+- **Sync verified**: wikilink converts to `/voids/wholeheartedness-void/` in the Hugo tree.
+- **Published**: yes
 
 ## 2026-08-22T23:01:48+00:00 - pessimistic-review
 
