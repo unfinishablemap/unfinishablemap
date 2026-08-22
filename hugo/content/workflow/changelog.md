@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T13:17:00+00:00'
+ai_modified: '2026-08-22T13:43:43+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 13:17:00+00:00
+lastmod: 2026-08-22 13:43:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22 13:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: record two methodology rules from ChatGPT 5.6 Pro outer review 2026-08-21 (improvements #18, #19) on `topics/hypnagogic-phenomenology-and-interface-modulation`. Docs/policy task, explicitly not a tooling build.
+- **Where it landed**: one new `## Proposed: Substantive-vs-Integration Modification Dating, Current-Literature Trigger (pending human ratification — 2026-08-21 outer-review)` block, inserted after the 2026-08-13 congenial-citation section and before "A Tension Worth Naming". **Used the document's own adopted-vs-proposed convention** — both rules are unratified, so neither was asserted as active policy and neither was promoted to a fourth Audit.
+- **Rule (i), substantive-vs-integration dating**: recorded as the *audit-lens* half only. The schema half (`last_substantive_revision`) is already recorded and reserved for the operator at the 2026-07-28 section, and this pass does not re-open it — no schema edit, no sync-tool change, and no new `NEEDS-HUMAN` entry minted, because the field decision the driver anticipated is already parked there. What is genuinely new is (a) a second independent arrival at the defect from a different reviewer/article/cycle, and (b) the **citing layer** channel the schema proposal does not reach. Five instances recorded, each a distinct channel: the reviewer's own artefact (backlink bumped `ai_modified` to 08-13; last body revision 07-20); dependency-side (`concepts/compatibilist-symmetry-challenge` at 06-21 while P-A5 moved 08-21 — commit `fb3c21520d` verified as `auto(coalesce): cycle`, 17 inbound cites re-counted live, not quoted); exemplar-side (`project/evidential-status-discipline` describing a calibration `topics/contentless-awareness-evidence` retired 07-17); certifier-side (the positions pass recording "MEASURED NOT-A-DEFECT" in the very pass that left the article behind); repair-side (`concepts/selection-only-channel` L153 naming a target that still carried the pre-correction wording). Yields the two-clause rule: integration edits do not reset apparent substantive-review age, **and** the integration edit is itself an unreviewed assertion nobody owns.
+- **Rule (ii), current-literature trigger**: recorded as a third staleness signal distinct from Audit One (fires on the article's own citation *age*) and the 2026-06-26 per-revision gate (fires on a *revision*) — this one fires on the *arrival* of external literature against a claim whose citations are recent and unchanged. Worked case: the target's "awaiting replication" hedge on Lacaux et al. (2021), against Löwe et al. (2025) *PLOS Biology* 23(6) e3003185 (N=90, no N1 advantage p=0.75, benefit at N2 p=0.038) — verified live on disk as already repaired earlier today, so the case is cited as demonstrated rather than pending. **"Awaiting replication" named as a concrete greppable trigger phrase**, with the discrimination requirement attached: a corpus grep found the phrase doing *correct* work in `concepts/quantum-biology-and-neural-mechanisms` and `topics/comparing-quantum-consciousness-mechanisms`, which distinguish a computational prediction awaiting verification from an observation awaiting replication. A flag is a nomination for the existing weekly WebSearch budget, never a defect.
+- **Declined and recorded in the block so it is not chased**: the same review's improvement #17 (automatic evidential self-citation-cycle detection) is `## Countermeasure 5: Circular Citation Detection` in `project/coherence-inflation-countermeasures` — verified present at that heading. Not re-minted as tooling work.
+- **Backlog count inherited per the document's convention**: ninth dated capture; eight sections recorded as proposed, none ratified; proposed-members pending 87 days, earliest dated header 57.
+- **Drift found while verifying the driver's instances** (recorded, not acted on): two of the four had already been repaired between the brief and this pass — `compatibilist-symmetry-challenge` now reads `ai_modified` 2026-08-22, and the `evidential-status-discipline` contentless-awareness bullet now describes the retired calibration correctly. Both are written into the block in past tense as dated observations, which is what they are.
+- **Length**: 18,766w → 19,851w (+1,085). `project` thresholds printed live from `tools.curate.length.DEFAULT_THRESHOLDS`: 2500 / 3500 / 5000, status `critical` before and after. This growth is the substance of the standing NEEDS-HUMAN entry at `todo.md` L719 (append-only ratification ledger); the block records the fact rather than proposing a remedy.
+- **Hygiene**: `ai_modified` stamped from live `date -u` (2026-08-22T13:43:43+00:00) — non-rounded seconds, not future-dated. `scripts/sync.py` run; both trees grepped and carry the block. Review file added to `related_articles`. No article-body HTML-comment log.
+- **Published**: yes
 
 ## 2026-08-22 13:20 UTC - research-topic
 - **Status**: Success
