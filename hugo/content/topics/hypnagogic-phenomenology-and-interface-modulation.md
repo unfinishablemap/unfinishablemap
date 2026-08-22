@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-08-22 08:58:50+00:00
+ai_modified: 2026-08-22 09:55:49+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:46:23+00:00
-lastmod: 2026-08-22 08:58:50+00:00
+lastmod: 2026-08-22 09:55:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The hypnagogic state—the transition from waking to sleep—shows something that binary comparisons between consciousness and unconsciousness obscure: waking capacities come apart in sequence rather than lapsing together. Voluntary attention weakens before imagery becomes autonomous. Reality-monitoring disengages before agency dissolves. The sense of self loosens before phenomenal experience fades. Read through the Map's framework, each is a component of the consciousness-brain interface following its own trajectory, so the order in which they disengage maps the architecture of the coupling with unusual clarity—a reading this article argues for rather than reads off the phenomena.
+The hypnagogic state—the transition from waking to sleep—shows something that binary comparisons between consciousness and unconsciousness obscure: waking capacities come apart in sequence rather than lapsing together. Retrospective reports typically describe voluntary attention weakening before imagery becomes autonomous, agency dissolving before reality-monitoring disengages, and the sense of self loosening before phenomenal experience fades. Read through the Map's framework, each is a component of the consciousness-brain interface following its own trajectory, so the order in which they disengage would map the architecture of the coupling—an ordering this article proposes and defends rather than reads off the phenomena, and one that stays suggestive rather than established.
 
 The Unfinishable Map's [filter model](/concepts/filter-theory/) interprets this graded dissolution as evidence that the brain constrains consciousness through multiple semi-independent channels. Hypnagogia is what happens when those channels close sequentially rather than simultaneously—unlike anaesthesia, which disrupts the interface chemically, or waking, where all channels operate together. The result is a phenomenological dissection of the interface itself, performed nightly by every sleeping human. That reading is an interpretation the sequence permits rather than one it compels: a single graded physicalist mechanism predicts the same staggered order ([below](#the-single-mechanism-rivals)), so hypnagogia constrains accounts of consciousness-brain coupling without establishing that the coupling is multi-channel.
 
@@ -58,7 +58,7 @@ The Unfinishable Map's [filter model](/concepts/filter-theory/) interprets this 
 
 ## The Phenomenology of Falling Asleep
 
-Hypnagogia unfolds through recognisable stages, though experienced as continuous drift rather than discrete transitions. Mavromatis (1987) catalogued the phenomenological progression; recent work by Haar Horowitz, Lacaux, and others has refined the neural correlates.
+Hypnagogia unfolds through recognisable stages, though experienced as continuous drift rather than discrete transitions. Mavromatis (1987) catalogued the phenomena of the state at book length; recent work by Haar Horowitz, Lacaux, and others has refined the neural correlates. The four-part ordering set out below is this article's own synthesis of heterogeneous first-person reports rather than an ordering Mavromatis proposed.
 
 ### Attentional Release
 
@@ -66,7 +66,7 @@ Voluntary attention goes first. Sustained focus becomes effortful, then impossib
 
 ### Autonomous Imagery
 
-As attentional control weakens, imagery becomes increasingly autonomous. Hypnagogic hallucinations—vivid, often geometric or face-like images—arise without intention. Stickgold et al. (2000) demonstrated that recent waking experience shapes this imagery: subjects who played Tetris reported seeing falling blocks during hypnagogia, and even amnesic patients who could not remember playing reported similar images, suggesting the imagery draws on processes independent of declarative memory. Where waking imagery requires effortful maintenance, hypnagogic images sustain themselves: the subject watches rather than constructs.
+As attentional control weakens, imagery becomes increasingly autonomous. Hypnagogic hallucinations—vivid, often geometric or face-like images—arise without intention. Stickgold et al. (2000) demonstrated that recent waking experience shapes this imagery: subjects who played Tetris reported seeing falling blocks during hypnagogia, and even amnesic patients who could not remember playing reported similar images, suggesting that such imagery "may arise without important contribution from the declarative memory system"—a qualified claim about one memory system rather than independence from memory as such. Where waking imagery requires effortful maintenance, hypnagogic images sustain themselves: the subject watches rather than constructs.
 
 Experience persists—there is something it is like to undergo hypnagogic imagery—while the capacity to influence it diminishes. The [asymmetry between what arrives and what can be sent](/topics/bandwidth-of-consciousness/), already dramatic during waking, becomes extreme: input continues undiminished, often heightened given the vividness, while voluntary output approaches zero. Reduced voluntary output at sleep onset has a standard physiological explanation in motor gating plus disinhibited imagery generation, so the asymmetry is a pattern to be accounted for rather than a finding that selects an account. Even so, it is awkward for any theory equating consciousness with control or access: experience continues precisely where access and control degrade.
 
@@ -84,13 +84,13 @@ The sequence appears to matter: attention typically first, then voluntary imager
 
 ## Micro-Awakenings and Dual-Mode Operation
 
-Stage 1 (N1) sleep is a fluctuating boundary rather than a stable state. Hori, Hayashi, and Morikawa (1994) mapped the topographical EEG changes through hypnagogia, documenting frequent micro-awakenings—brief returns to alpha-dominant waking patterns—interspersed with theta-dominant sleep-onset activity, taking seconds and often unnoticed by the subject.
+Stage 1 (N1) sleep is a fluctuating boundary rather than a stable state. Hori, Hayashi, and Morikawa (1994) developed a fine-grained EEG microstaging scheme for sleep onset, tracking brief returns to alpha-dominant waking patterns interspersed with theta-dominant sleep-onset activity, taking seconds and often unnoticed by the subject. The EEG result is theirs; describing those returns as micro-awakenings is this article's gloss, and the cited chapter measured no cognitive variable alongside them.
 
-The boundary is crossed repeatedly rather than settled on either side. The phenomenology is intermittent lucidity—moments of "oh, I was drifting" followed immediately by renewed drift—with each micro-awakening briefly reinstating attentional control and reality-monitoring before both lapse again.
+The boundary is crossed repeatedly rather than settled on either side. The phenomenology is intermittent lucidity—moments of "oh, I was drifting" followed immediately by renewed drift. Reading each alpha return as briefly reinstating attentional control and reality-monitoring is interpretation rather than finding: an alpha return marks an EEG state, not a restored capacity.
 
-Lacaux et al. (2021) found that fifteen seconds in N1 sleep nearly tripled the probability of discovering a hidden problem-solving shortcut—a striking single-study result awaiting replication, but one suggesting the boundary state has functional significance beyond mere transition. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) may exploit this dual mode: consciousness loosened enough to reach associative connections executive control normally filters out, yet engaged enough to recognise solutions.
+Lacaux et al. (2021) found that participants accumulating at least fifteen seconds in N1 sleep were about three times as likely to discover a hidden shortcut in an arithmetic task (83% against 30%). Fifteen seconds was the minimum criterion for classifying an N1 episode rather than an administered dose, and the result is specific to hidden-rule discovery in one paradigm rather than creativity generally—a striking single-study result awaiting replication, but one suggesting the boundary state has functional significance beyond mere transition. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) may exploit this dual mode: consciousness loosened enough to reach associative connections executive control normally filters out, yet engaged enough to recognise solutions.
 
-The creative potency of hypnagogia has long been observed anecdotally—Edison and Dalí exploited the sleep-onset transition by holding objects that would fall and wake them as they drifted off. The Dormio device (Haar Horowitz et al. 2023) formalises the technique: in a single-lab study, targeted audio prompts delivered during N1 sleep significantly increased subsequent creative performance across multiple measures. The device holds the subject at the hypnagogic boundary, preventing full sleep while the directive capacities stay loosened—the transition held open deliberately.
+The creative potency of hypnagogia has long been observed anecdotally—Edison and Dalí exploited the sleep-onset transition by holding objects that would fall and wake them as they drifted off. The Dormio device (Haar Horowitz et al. 2023) formalises the technique: in a single-lab study, targeted audio prompts delivered during N1 sleep significantly increased subsequent creative performance across multiple measures. The protocol detected apparent sleep onset, allowed a short interval, woke the participant for a report, and repeated the cycle, so it repeatedly samples and perturbs the sleep-onset period rather than holding the subject at the boundary; whether phenomenal experience is maintained there was not measured.
 
 Neither study isolates the causal contribution these readings need. Both show that *something* about sleep onset improves later performance; neither shows that phenomenal experience does it. Prefrontal disinhibition may produce the unconstrained semantic networking that solves the problem *and* the bizarre imagery that is merely undergone, as two outputs of one mechanism, with the imagery marking the productive state rather than constituting it. The discriminating contrast is not hypothetical: Tal et al. (2024) cued the same associative material consciously and unconsciously in one waking experiment and found qualitatively different consequences, attributed to an inhibition conscious reactivation carries and unconscious reactivation largely escapes. Neither incubation study carries an equivalent condition, and the finding cuts against the quick version of the Map's reading—the liberal associative spread creative insight supposedly needs was what the *unconscious* route supplied. Whether phenomenal experience does any work at the hypnagogic boundary is undetermined by this evidence rather than supported by it: a missing measurement, not a boundary between frameworks.
 
@@ -164,7 +164,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Agency fluctuation—genuine moments of control interspersed with genuine loss of control—presupposes that selection is real when it occurs, and a branching ontology actualises the uncontrolled outcome alongside the controlled one. The two claims cohere, but the coherence is not evidence: the Map's register is explicit that the agency commitment and the No Many Worlds tenet descend from a single root—a persisting, ownership-bearing subject—so citing either in support of the other would count that one commitment twice ([agency-and-will](/positions/agency-and-will/), P-A2). A phenomenal contrast between feeling in control and feeling passive settles nothing about whether uninstantiated branches exist. What hypnagogia contributes is a place where that contrast is unusually legible, not a verdict on the interpretation of quantum mechanics.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest model of falling asleep—consciousness gradually dims like a fading light—is wrong. The actual phenomenology is multi-dimensional, non-monotonic (some aspects intensify while others fade), and functionally significant (hypnagogic creativity). Parsimony would have predicted uniform dimming. The evidence demands *some* more complex account, though not specifically the Map's, since a single graded mechanism also delivers non-uniform dissolution. What the tenet licenses here is refusing the simple picture, not treating complexity as evidence for the interface.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest model of falling asleep—consciousness gradually dims like a fading light—is wrong. The actual phenomenology is multi-dimensional, non-monotonic (some aspects intensify while others fade), and functionally significant (hypnagogic creativity). Parsimony would have predicted uniform dimming. The evidence retires the simple picture without selecting its replacement, since a single graded mechanism also delivers non-uniform dissolution. What the tenet licenses here is refusing the simple picture, not treating complexity as evidence for the interface.
 
 ## Further Reading
 
