@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-08-22 10:09:21+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:25:00+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-22 10:09:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ That outcome-level commitment has a strictest formalisation, and it sits beneath
 
 **Can modes combine?** Perhaps basis control is primary and timing control modulates it—attention selects alternatives (basis) and effort sustains them (timing). Probability control might be negligible or absent.
 
-**Does sequential disengagement during sleep reveal mode-specific signatures?** [Hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) shows that consciousness-brain coupling disassembles rather than switching off, with each interface component following its own trajectory. If the three coupling modes disengage sequentially during sleep onset, each should produce distinct phenomenological signatures—basis control's withdrawal appearing first as loss of voluntary attention, timing control's withdrawal next as failure of effortful imagery maintenance, with probability control (if it operates at all) the most robust, plausibly persisting into sleep as the subtle biasing that distinguishes REM from NREM phenomenology.
+**Does sequential disengagement during sleep reveal mode-specific signatures?** [Hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) proposes an ordering in which consciousness-brain coupling disassembles rather than switching off, each interface component following its own trajectory—an ordering that article holds to be suggestive rather than established, since a single graded mechanism predicts the same staggered sequence, and whose multi-channel reading it presents as its own interpretation rather than something the phenomenology compels. Being a Map article, it also falls under [P-M3](/positions/methodology-and-calibration/)'s self-citation rule: framework-internal coherence, not independent corroboration. What follows is accordingly a proposed operational test rather than a signature already in hand. If the three coupling modes disengage sequentially during sleep onset, each should produce distinct phenomenological signatures—basis control's withdrawal appearing first as loss of voluntary attention, timing control's withdrawal next as failure of effortful imagery maintenance, with probability control (if it operates at all) the most robust. Whether it persists into sleep as a subtle biasing that distinguishes REM from NREM phenomenology is a further conjecture the test would have to reach separately, and one the hypnagogic reports do not bear on.
 
 **Do different organisms use different modes?** [Interface heterogeneity](/concepts/interface-heterogeneity/) raises the possibility that different species couple through different primary modes—mammals through centralised basis control, cephalopods through distributed timing control, for example. If so, the coupling mode taxonomy applies not just within organisms but across them.
 
