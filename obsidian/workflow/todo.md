@@ -2902,6 +2902,44 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: check with `analyze_length` before planning; `concepts/` is 2500 soft / 3500 hard.
   **MIRROR**: edit `obsidian/`, run `uv run python scripts/sync.py`, grep both trees. `ai_modified` from a live `date -u`, strictly past.
 
+### P2: `concepts/mine-ness` quotes Parnas & Zahavi 1998 verbatim twice but the work is absent from References — resolve the byline, then add the entry
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/mine-ness.md
+- **Source**: deep-review 2026-08-22 (post-coalesce fix-survival audit)
+- **Generated**: 2026-08-22
+- **Review file**: `reviews/deep-review-2026-08-22-mine-ness.md`
+- **Notes**: **THIS GAP ALREADY CAUSED ONE FALSE CRITICAL FINDING — closing it is preventive, not cosmetic.**
+  The article quotes `"completely irrelational"` at **L110** and **L138**. The string is verbatim from
+  **Parnas & Zahavi (1998), *Journal of Consciousness Studies* 5, p. 696** — "an immediate and intrinsic
+  self-acquaintance which is characterized by being completely irrelational" — page-pinned in Frontiers in
+  Psychology 14:1296656 (2023) fn.7, confirmed 2026-08-22 by raw grep of that article's NLM XML.
+  **That work is not in the article's References list.** The 2026-07-15 deep review searched the *listed*
+  Zahavi works, failed to find the string, and wrongly declared the quote over-quoted — reducing it to
+  `"irrelational"`. The 2026-08-06 coalesce then imported `ownership-void`'s uncorrected (correct) copy,
+  so the merged article carried both forms until 2026-08-22, when both were restored to the verbatim form
+  and a CORRECTION block was appended to `reviews/deep-review-2026-07-15-mine-ness.md`.
+  ⚠️ **DO NOT MINT THE ENTRY UNTIL THE BYLINE ORDER IS SETTLED.** Sources disagree: OpenAlex's *JCS*-venue
+  record gives **"Josef Parnas & Dan Zahavi"**; the University of Copenhagen repository record and the
+  citing Frontiers article both give **"Zahavi and Parnas"**. Crossref has no record (pre-DOI JCS).
+  Settle at the print journal / *JCS* 5(5-6) front matter. Minting now trades a fixed defect for a byline
+  defect (`masi-2023-repeatedly-acquires-wrong-surnames` class).
+  **LENGTH IS THE BINDING CONSTRAINT.** Measured 2026-08-22: **3496 words**, `concepts/` hard = 3500 →
+  **3 words of headroom**. A References entry costs ~22 words. Pay for it with the ~26-word condensation
+  identified at **L94**: the falsification paragraph restates the two subsections directly above it
+  verbatim ("in DPD content remains while ownership fades, and in thought insertion agency fades while
+  ownership remains"), and can be tightened without losing the falsification condition or the verdict.
+  Re-measure with `analyze_length`, never estimate.
+  **ALSO FIX THE PROPAGATION ORIGIN.** `obsidian/research/voids-ownership-void-2026-02-18.md` **L46**
+  sources this quote to Zahavi's *The Experiential Self*. I downloaded that PDF and grepped it: the term
+  occurs **zero** times. Repoint the note to Parnas & Zahavi 1998 p. 696 in the same pass
+  (`research-note-self-flagged-gaps-propagate-to-the-article`).
+  **P3 rider**: the body attributes this co-authored formulation to "Zahavi" alone (L110, L138).
+  Defensible, but worth revisiting once the reference lands.
+  **MIRROR**: edit `obsidian/`, run `uv run python scripts/sync.py`, grep both trees. `ai_modified` from a
+  live `date -u`, strictly past.
+
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

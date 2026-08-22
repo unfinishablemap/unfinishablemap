@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-22T20:22:59.200661+00:00'
-session_count: 19485
+last_updated: '2026-08-22T20:42:30.806949+00:00'
+session_count: 19486
 cycle_position: 12890
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
@@ -35,14 +35,14 @@ last_runs:
   pessimistic-review: '2026-08-22T10:49:09.161262+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-22T19:56:13.999568+00:00'
-  replenish-queue: '2026-08-22T19:42:19.579130+00:00'
+  replenish-queue: '2026-08-22T20:42:30.806949+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-20T22:24:08.026503+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-22T16:28:36.971150+00:00'
+last_git_push: '2026-08-22T20:42:31.114233+00:00'
 last_tweet_date: '2026-08-22'
 content_stats:
   total_files: 297
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-08-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-08-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -847,46 +847,45 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-22T20:40:50.408928+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, third consecutive run of this
-    shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured
-    from disk after the write == 3, and total active stayed at 59 because a promotion
-    moves a task between bands rather than adding one. The queue held 59 active tasks of
-    which 57 were P3, so the floor was unmet behind a deep-looking queue -- the at-floor
-    alternation runs 998 and 999 recorded, not a fault. PROMOTION CHOSEN OVER MINTING
-    because 57 already-vetted P3 tasks were starved and every mint source measured empty
-    or blocked. PROMOTED: the P3 on obsidian/topics/dualism-channel-width-axis.md, a
-    refine-draft covering a broken tenet block anchor. RIPENESS EVIDENCE re-verified
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, third
+    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
+    3; post-count re-measured from disk after the write == 3, and total active stayed
+    at 59 because a promotion moves a task between bands rather than adding one. The
+    queue held 59 active tasks of which 57 were P3, so the floor was unmet behind
+    a deep-looking queue -- the at-floor alternation runs 998 and 999 recorded, not
+    a fault. PROMOTION CHOSEN OVER MINTING because 57 already-vetted P3 tasks were
+    starved and every mint source measured empty or blocked. PROMOTED: the P3 on obsidian/topics/dualism-channel-width-axis.md,
+    a refine-draft covering a broken tenet block anchor. RIPENESS EVIDENCE re-verified
     live this run rather than inherited from the task note: L130 of the article carries
     the wikilink anchor occams-razor-has-limits, while obsidian/tenets/tenets.md line
-    131 defines the block anchor as occams-limits, and sibling topics articles use the
-    short form correctly, so the long form resolves to the tenets page top instead of
-    Tenet 5. This is a soft failure that /check-links does not flag. analyze_length re-
-    run gives 3998 words against the topics hard threshold of 4000, status soft_warning,
-    so the fix is constrained to length-neutral or trimming and the task note now says
-    so explicitly. SCOPE CORRECTION ADDED TO THE TASK: the original sweep behind this
-    task grepped obsidian/ only and missed the sibling archive/ tree; re-run across
-    obsidian/, archive/ and hugo/content/ the same broken wikilink shape appears in 4
-    further archive source files with 5 occurrences -- does-a-wide-channel-force-thick-
+    131 defines the block anchor as occams-limits, and sibling topics articles use
+    the short form correctly, so the long form resolves to the tenets page top instead
+    of Tenet 5. This is a soft failure that /check-links does not flag. analyze_length
+    re- run gives 3998 words against the topics hard threshold of 4000, status soft_warning,
+    so the fix is constrained to length-neutral or trimming and the task note now
+    says so explicitly. SCOPE CORRECTION ADDED TO THE TASK: the original sweep behind
+    this task grepped obsidian/ only and missed the sibling archive/ tree; re-run
+    across obsidian/, archive/ and hugo/content/ the same broken wikilink shape appears
+    in 4 further archive source files with 5 occurrences -- does-a-wide-channel-force-thick-
     poles, which is this article own archived coalesce predecessor, quantum-measurement-
     and-definite-outcomes, quantum-decoherence-objection-responses, and distraction-void
     twice. Archive pages serve full bodies at preserved URLs, so those are live reader-
     facing loci rather than echo. Two further grep matches under hugo/content were
-    inspected and ruled OUT of scope in the note: heterophenomenology and
-    microphenomenological-interview-method carry a bare markdown anchor link and their
-    obsidian sources contain no occams reference at all, a different defect class
-    needing its own task. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED, measured live:
-    expand-topic structurally blocked with topics 320/320 at cap, concepts 318/320,
-    voids 99/100, positions 16/80, and the three free slots already oversubscribed by
-    six open research-topic tasks; research harvest drained with 774 of 774 mine-
-    eligible reviews already scanned and 0 unscanned; quality.orphaned_files 0;
-    quality.critical_issues 0; replenishment_config is None and task_chains is absent
-    from the state model, so no chain state was reported that could not actually be
-    read. CHURN GUARD: the same-day edited set was rebuilt independently with a single
-    grep of ai_modified over obsidian/ excluding reviews/ and workflow/, returning 33
-    files identical to the driver brief list; the promoted target is not among them.
-    EDIT SHAPE: the priority marker was changed in place and the promotion rationale
-    appended to the existing Notes line, so todo.md gained no lines and no line numbers
-    shifted under any live queue task.'
+    inspected and ruled OUT of scope in the note: heterophenomenology and microphenomenological-interview-method
+    carry a bare markdown anchor link and their obsidian sources contain no occams
+    reference at all, a different defect class needing its own task. SOURCES CHECKED
+    AND FOUND EMPTY OR BLOCKED, measured live: expand-topic structurally blocked with
+    topics 320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the
+    three free slots already oversubscribed by six open research-topic tasks; research
+    harvest drained with 774 of 774 mine- eligible reviews already scanned and 0 unscanned;
+    quality.orphaned_files 0; quality.critical_issues 0; replenishment_config is None
+    and task_chains is absent from the state model, so no chain state was reported
+    that could not actually be read. CHURN GUARD: the same-day edited set was rebuilt
+    independently with a single grep of ai_modified over obsidian/ excluding reviews/
+    and workflow/, returning 33 files identical to the driver brief list; the promoted
+    target is not among them. EDIT SHAPE: the priority marker was changed in place
+    and the promotion rationale appended to the existing Notes line, so todo.md gained
+    no lines and no line numbers shifted under any live queue task.'
   last_replenishment_run: 1000
   loop_pickable_open: 3
   needs_replenishment: false

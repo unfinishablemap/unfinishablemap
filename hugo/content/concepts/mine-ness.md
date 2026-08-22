@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-06 14:42:43+00:00
+ai_modified: 2026-08-22 21:12:19+00:00
 ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -21,8 +21,8 @@ description: Mine-ness is the phenomenal mark by which experience presents as be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 16:06:39+00:00
-lastmod: 2026-08-06 14:42:43+00:00
+last_deep_review: 2026-08-22 21:12:19+00:00
+lastmod: 2026-08-22 21:12:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Several adjacent concepts deserve explicit distinction.
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
+The [Dualism](/tenets/#dualism) tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
 
 ### Bidirectional Interaction
 

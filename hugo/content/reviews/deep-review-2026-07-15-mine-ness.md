@@ -81,3 +81,37 @@ None. Reference-metadata re-verification is not owed (unchanged since prior attr
 - **Quote-fidelity is now exercised.** The two reworded/over-quoted Zahavi strings are the only verbatim defects found; Billon is verbatim-correct. Future passes should treat these two quoted strings as verified-verbatim and not re-litigate them.
 - **Length**: 2628 words (soft_warning; soft threshold 2500, hard 3500). The +~15 words come from restoring Zahavi's full verbatim quote — a correctness cost, not accretion. No condensation warranted.
 - Article remains converged on argument and structure; this pass changed only the fidelity of two quoted strings.
+
+---
+
+## CORRECTION appended 2026-08-22 — the "completely irrelational" finding above is REVERSED
+
+The 2026-07-15 critical issue *"'completely irrelational' not verbatim (L108)"* was **wrong**, and the
+"fix" it applied was a de-quoting error. `"completely irrelational"` **is** a contiguous verbatim span
+of the source.
+
+**Evidence (primary, page-pinned, extracted by raw grep of the NLM XML — no confirmation prompt):**
+Parnas & Zahavi (1998), *Journal of Consciousness Studies* 5, **p. 696**, describe "the basic
+self-awareness of an experience" as *"an immediate and intrinsic self-acquaintance which is
+characterized by being completely irrelational"*. Quoted with the page pin in Frontiers in Psychology
+14:1296656 (2023), footnote 7, which reports Strawson quoting the same passage.
+
+The 2026-07-15 reasoning was that the only genuine forms are bare "irrelational" (Zahavi's list:
+"immediate, implicit, irrelational, nonobjectifying, nonconceptual, and nonpropositional") and the
+fuller "completely and absolutely irrelational". Both of those do occur — but they are *different
+passages*. Their existence does not falsify the p. 696 wording, and the review treated it as if it did.
+
+**Why it went wrong, and the lesson.** The quoted string comes from a work that is **not in the
+article's References list** (Parnas & Zahavi 1998). The reviewer looked for it in the listed Zahavi
+works, failed to find it, and concluded the quote was over-quoted rather than concluding that the
+reference was missing. A traceability gap in the bibliography was read as a fidelity defect in the body.
+
+**Downstream damage this caused.** The 2026-08-06 coalesce merged `voids/ownership-void` into
+`concepts/mine-ness`. `ownership-void` carried its own (correct) instance of the quote, which had never
+been touched by this review. The merged article therefore ended up asserting the same quote two ways —
+the de-quoted "irrelational" at the Dualism section and the correct "completely irrelational" in the
+Ownership Void section. Resolved 2026-08-22 by restoring the verbatim form at both loci.
+
+**Standing instruction, replacing the one above.** `"completely irrelational"` is verified verbatim
+against Parnas & Zahavi 1998 p. 696. Do **not** reduce it again. The Zahavi "In being aware of a
+thought…" restoration recorded above is unaffected and remains correct.

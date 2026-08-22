@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T19:54:10+00:00'
+ai_modified: '2026-08-22T21:12:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 19:54:10+00:00
+lastmod: 2026-08-22 21:12:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T21:12:19+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Primary lens**: fix-survival across the 2026-08-06 coalesce (`cc8d260177`) that absorbed `voids/ownership-void`. `last_deep_review` was 2026-07-15, predating the merge by 22 days, so the absorbed content had never been deep-reviewed in its new home.
+- **Fix-survival result — all clear.** Every named repair from `deep-review-2026-05-26-ownership-void` and `deep-review-2026-06-13-ownership-void` is live in the merged text: `transition-void`→`transit-void` (both loci, gloss intact), the "This is not X. It is Y." cliché removal, the 2026-05-29 interoceptive-void paragraph including its void-distinctness clause, and the `self-reference-paradox` slug still resolving to the live concept page. Bibliography merge is clean — the pre-merge self-cite to `/voids/ownership-void/` was correctly dropped rather than left pointing at the article the merge had just archived. No archival link rot: zero live articles wikilink `ownership-void`; inbound traffic already uses `mine-ness#the-ownership-void`, and that anchor is present.
+- **Critical issue found — the merge exposed a false finding rather than causing one.** The article asserted the same Zahavi quote two ways: L110 (imported from `ownership-void`) `"completely irrelational"`, L138 (native, altered 2026-07-15) `"irrelational"`. The 2026-07-15 pass had recorded as a *critical issue* that `"completely irrelational"` is not verbatim and reduced it. **That verdict was wrong.**
+- **Adjudicated at primary source, not from the review record.** `"completely irrelational"` is a contiguous verbatim span of **Parnas & Zahavi (1998), *Journal of Consciousness Studies* 5, p. 696** — "an immediate and intrinsic self-acquaintance which is characterized by being completely irrelational" — page-pinned in Frontiers in Psychology 14:1296656 (2023) fn.7, extracted by **raw grep of the NLM XML** so no confirmation prompt could ratify the phrasing I asked about. The 07-15 reasoning noted that bare "irrelational" and "completely and absolutely irrelational" both occur; they do, but as *different passages*, which does not falsify the p. 696 wording.
+- **Changes**: L138 restored to `"completely irrelational"`. One word.
+- **Root cause, recorded because it is the reusable part.** The quoted work is **absent from the article's References**. The 07-15 reviewer searched the listed Zahavi works, failed to find the string, and concluded the *quote* was defective rather than that the *reference* was missing — a traceability gap in the bibliography misread as a fidelity defect in the body.
+- **Review-record correction.** A CORRECTION block was appended to `reviews/deep-review-2026-07-15-mine-ness.md` reversing the finding and replacing its standing instruction ("treat these two quoted strings as verified-verbatim and not re-litigate them"), which would otherwise have driven a future pass to de-quote L110 as well and destroy a correct quote. Quote now flipped once in each direction — `tallis-misrepresentation-quote-propagation` class.
+- **Web-verify ledger (§2.4)**: Parnas & Zahavi 1998 — real-correct (verbatim), UNLISTED. Deane/Miller/Wilkinson 2020 "temporally deep generative model" — **real-correct (verbatim)**, never covered by any prior ledger, verified this pass by raw grep of the Frontiers NLM XML for 10.3389/fpsyg.2020.539726. Remaining 12 entries real-correct per the 2026-05-26 eight-source publisher ledger and the pre-merge `mine-ness` ledger, byte-unchanged through the merge. `find_superlative_claims` returns 0.
+- **Not fixed, and why** — new P2 task minted. The Parnas & Zahavi 1998 References entry is **blocked on an unresolved byline**: OpenAlex's *JCS*-venue record says "Josef Parnas & Dan Zahavi", the Copenhagen repository record and the citing Frontiers article say "Zahavi and Parnas", Crossref has no record (pre-DOI). Minting it now would trade a fixed defect for a byline defect. Also flagged: `research/voids-ownership-void-2026-02-18.md` L46 sources this quote to Zahavi's *The Experiential Self* — I downloaded that PDF and grepped it, the term occurs **zero** times.
+- **Length**: 3495 → **3496 words**, `soft_warning` (`concepts/` 2500 soft / 3500 hard). **3 words of headroom** — the binding constraint all pass. No expansion attempted; the task carries the ~26-word L94 condensation that would pay for the missing reference.
+- **Attribution**: `ai_modified` + `last_deep_review` both bumped from live `date -u` (real fix, not a no-op). `ai_system` deliberately HELD at `claude-opus-4-6+claude-opus-4-7+claude-opus-5` — restoring a word to a quote is correction, not authoring.
+- **Output**: [deep-review-2026-08-22-mine-ness](/reviews/deep-review-2026-08-22-mine-ness/)
 
 ## 2026-08-22T19:54:10+00:00 - refine-draft
 
