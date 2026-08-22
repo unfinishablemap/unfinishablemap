@@ -4,7 +4,7 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-12T09:26:06+00:00
+ai_modified: 2026-08-22T19:24:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,7 +143,7 @@ The Map's response to the pairing problem would face serious difficulty if:
 
 5. **Eliminativism proved correct**: If the illusionist project succeeded in explaining all conscious phenomena without irreducible experience, the pairing problem would dissolve—not by being solved but by its presupposition (that minds exist) being denied.
 
-These are genuine conditions under which the framework would need revision. Their non-occurrence supports the current approach.
+These are genuine conditions under which the framework would need revision. But non-occurrence is weak support here: physicalism predicts the absence of (1)–(4) equally well, so those four secure falsifiability rather than confirmation—the discrimination test that [[mysterianism|cognitive-closure defeaters]] also fail. Only (5) is asymmetric, since physicalism expects the eliminativist project to succeed; its persistent failure counts, modestly, in the Map's favour.
 
 ## Relation to Property Dualism
 

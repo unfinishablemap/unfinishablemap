@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-07-12 09:26:06+00:00
+ai_modified: 2026-08-22 19:24:20+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:01:13+00:00
-lastmod: 2026-07-12 09:26:06+00:00
+lastmod: 2026-08-22 19:24:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ The Map's response to the pairing problem would face serious difficulty if:
 
 5. **Eliminativism proved correct**: If the illusionist project succeeded in explaining all conscious phenomena without irreducible experience, the pairing problem would dissolve—not by being solved but by its presupposition (that minds exist) being denied.
 
-These are genuine conditions under which the framework would need revision. Their non-occurrence supports the current approach.
+These are genuine conditions under which the framework would need revision. But non-occurrence is weak support here: physicalism predicts the absence of (1)–(4) equally well, so those four secure falsifiability rather than confirmation—the discrimination test that [cognitive-closure defeaters](/concepts/mysterianism/) also fail. Only (5) is asymmetric, since physicalism expects the eliminativist project to succeed; its persistent failure counts, modestly, in the Map's favour.
 
 ## Relation to Property Dualism
 

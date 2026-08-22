@@ -2842,23 +2842,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: the apex is `soft_warning` and near its ceiling — this fix is word-neutral (+0/-0). Print `analyze_length` live before editing; do not treat the visit as licence to expand.
   **MIRROR**: live at `hugo/content/apex/moral-architecture-of-consciousness.md`. Run `uv run python scripts/sync.py` and grep both trees. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a quote re-slice is correction, not authoring.
 
-### P2: `concepts/pairing-problem` L146 closes its falsifier list with "Their non-occurrence supports the current approach" — the exact inference its own falsifier 3 forbids
-
-- **Type**: refine-draft
-- **File**: obsidian/concepts/pairing-problem.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-08-22 (The Rival-Route Wing), Concern 2
-- **Generated**: 2026-08-22
-- **Review file**: obsidian/reviews/optimistic-2026-08-22-rival-route-wing.md
-- **Notes**: **ONE SENTENCE, GREP-VALIDATED, and it undoes the best calibration in the article.** L146 reads: *"These are genuine conditions under which the framework would need revision. Their non-occurrence supports the current approach."* Three paragraphs above, falsifier 3 says the opposite about the very evidence that sentence collects on: the PEAR micro-PK nulls (~0.0001–0.001, Jahn & Dunne 2005) are *"**consistent with** the framework rather than positive evidence **for** it; what makes the commitment substantive is the falsification threshold — reliably replicable external-PK effects above roughly 0.01 under preregistered protocols would refute it."* The closing sentence generalises non-occurrence into support across all five falsifiers, including that one.
-  **THE CORPUS ALREADY STATES THE PRINCIPLE THIS VIOLATES.** `obsidian/concepts/mysterianism.md:158`: the usual defeaters *"discriminate poorly: physicalism plus hard work predicts their non-occurrence equally well."* For four of the five conditions listed here (incoherence of non-spatial causation, elimination of haecceities, external-PK effects, mind-jumping between brains) the physicalist predicts non-occurrence just as confidently as the Map does, so non-occurrence discriminates nothing.
-  **REWRITE, DO NOT DELETE — the calibrated template is in-corpus.** `obsidian/topics/hard-problem-of-consciousness.md:233` handles the same inference correctly: it draws inductive support from *persistent failure of a specific research programme*, hedges it against a live alternative (*"though (5) remains a live conceptual challenge"*), and follows with an explicit underdetermination statement. Match that standard, or simply drop the second sentence and let falsifier 3's own framing carry the section. Either is fine; a bare deletion is acceptable, a bare retention is not.
-  **SCOPE — sole live locus, verified by classifying every hit.** `grep -rn 'non-occurrence'` across `obsidian/topics obsidian/concepts obsidian/apex obsidian/voids obsidian/positions` returns exactly three lines: `hard-problem-of-consciousness:233` (calibrated — leave alone), `mysterianism:158` (states the corrective principle — leave alone), and this one. Do **not** sweep the other two.
-  **MIRROR**: live at `hugo/content/concepts/pairing-problem.md:150`. Run `uv run python scripts/sync.py` and grep both trees.
-  **LENGTH**: 2410w by `analyze_length` against `concepts` soft 2500 / hard 3500 — `ok`. The fix is word-neutral to slightly negative.
-  **WHILE YOU ARE THERE — a cross-link worth adding, not a separate task**: the article has no link to `concepts/mysterianism`, which is where the corpus states the discrimination test this sentence fails. One Further Reading entry would put the antidote next to the defect. Optional; do not expand the article to accommodate it.
-  **HOLD `ai_system`** — a calibration re-slice is correction, not authoring. `ai_modified` from a live `date -u`, strictly past.
-
 ### P3: P-A2 and P-A5 do not cite the corpus's canonical statements of the rivals they are defined against — `topics/event-causal-libertarianism` and `concepts/compatibilism`
 
 - **Type**: positions-evolve
@@ -2937,6 +2920,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-22: `concepts/pairing-problem` L146 closes its falsifier list with "Their non-occurrence supports the current approach" — the exact inference its own falsifier 3 forbids
+- **Type**: refine-draft
+- **File**: obsidian/concepts/pairing-problem.md
+- **Notes**: **ONE SENTENCE, GREP-VALIDATED, and it undoes the best calibration in the article.** L146 reads: *"These are genuine conditions under which the framework would need revision. Their non-occurrence supports the current approach."* Three paragraphs above, falsifier 3 says the opposite about the very evidence that sentence collects on: the PEAR micro-PK nulls (~0.0001–0.001, Jahn & Dunne 2005) are *"**consistent with** the framework rather than positive evidence **for** it; what makes the commitment substantive is the falsification threshold — reliably replicable external-PK effects above roughly 0.01 under preregistered protocols would refute it."* The closing sentence generalises non-occurrence into support across all five falsifiers, including that one.
+  **THE CORPUS ALREADY STATES THE PRINCIPLE THIS VIOLATES.** `obsidian/concepts/mysterianism.md:158`: the usual defeaters *"discriminate poorly: physicalism plus hard work predicts their non-occurrence equally well."* For four of the five conditions listed here (incoherence of non-spatial causation, elimination of haecceities, external-PK effects, mind-jumping between brains) the physicalist predicts non-occurrence just as confidently as the Map does, so non-occurrence discriminates nothing.
+  **REWRITE, DO NOT DELETE — the calibrated template is in-corpus.** `obsidian/topics/hard-problem-of-consciousness.md:233` handles the same inference correctly: it draws inductive support from *persistent failure of a specific research programme*, hedges it against a live alternative (*"though (5) remains a live conceptual challenge"*), and follows with an explicit underdetermination statement. Match that standard, or simply drop the second sentence and let falsifier 3's own framing carry the section. Either is fine; a bare deletion is acceptable, a bare retention is not.
+  **SCOPE — sole live locus, verified by classifying every hit.** `grep -rn 'non-occurrence'` across `obsidian/topics obsidian/concepts obsidian/apex obsidian/voids obsidian/positions` returns exactly three lines: `hard-problem-of-consciousness:233` (calibrated — leave alone), `mysterianism:158` (states the corrective principle — leave alone), and this one. Do **not** sweep the other two.
+  **MIRROR**: live at `hugo/content/concepts/pairing-problem.md:150`. Run `uv run python scripts/sync.py` and grep both trees.
+  **LENGTH**: 2410w by `analyze_length` against `concepts` soft 2500 / hard 3500 — `ok`. The fix is word-neutral to slightly negative.
+  **WHILE YOU ARE THERE — a cross-link worth adding, not a separate task**: the article has no link to `concepts/mysterianism`, which is where the corpus states the discrimination test this sentence fails. One Further Reading entry would put the antidote next to the defect. Optional; do not expand the article to accommodate it.
+  **HOLD `ai_system`** — a calibration re-slice is correction, not authoring. `ai_modified` from a live `date -u`, strictly past.
 
 ### ✓ 2026-08-22: `apex/identity-across-transformations` L95 still asserts subject unity "becomes indeterminate in Nagel's sense" — two paragraphs after L93 says the Map declines exactly that reading
 - **Type**: refine-draft

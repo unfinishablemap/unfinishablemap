@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T18:53:00+00:00'
+ai_modified: '2026-08-22T19:24:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 18:53:00+00:00
+lastmod: 2026-08-22 19:24:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T19:24:20+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Defect**: L146 closed the five-item falsifier list with "Their non-occurrence supports the current approach" — the exact inference falsifier 3 forbids three paragraphs above, where the PEAR micro-PK nulls are explicitly marked *"consistent with the framework rather than positive evidence for it"*. The closing sentence generalised non-occurrence into support across all five falsifiers, including that one.
+- **Route taken**: rewrite to the in-corpus standard (not bare deletion). The corrective principle is stated verbatim at [mysterianism](/concepts/mysterianism/) L158 (`physicalism plus hard work predicts their non-occurrence equally well`), and the calibrated template for drawing inductive support from a falsifier list is [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) L233 — differential prediction, explicit hedge, underdetermination statement.
+- **Changes**: first sentence of L146 retained unchanged (it was sound). Second sentence replaced with a discrimination-test statement: physicalism predicts the absence of falsifiers (1)–(4) equally well, so those four secure falsifiability rather than confirmation; only (5), eliminativism proving correct, is asymmetric, since physicalism actively expects that project to succeed, so its persistent failure counts modestly for the Map. The 4-vs-1 split is the substantive finding — the old sentence was not uniformly wrong, which is why a bare deletion would also have been defensible.
+- **Cross-reference**: [mysterianism](/concepts/mysterianism/) linked inline from the corrected sentence (article previously had 0 links to it) rather than as a Further Reading entry — the antidote now sits inside the sentence that failed its test, at zero word cost.
+- **Engagement classification** (editor-internal, not in article prose): reply to the physicalist/eliminativist — Mode One; the argument is internal to the opponent, turning on what physicalism's own commitments lead it to predict, and the asymmetry granted to falsifier (5) is derived from the eliminativist's own programme rather than asserted from the tenets.
+- **Scope**: sole live locus. `grep -rn 'non-occurrence'` across `topics concepts apex voids positions` returns exactly three lines; the other two (`hard-problem-of-consciousness:233`, `mysterianism:158`) are the template and the corrective principle respectively and were left untouched. No sweep opened. Residual matches of the old string are confined to `reviews/` and `workflow/` (the optimistic review that flagged it, plus todo/changelog records) — echo, not defect.
+- **Length**: 2410 → 2454 words, status `ok` (concepts thresholds 2500 / 3500 / 5000). +44; above the word-neutral target requested, but Route 2 inherently costs words — the in-corpus template at `hard-problem-of-consciousness:233` is itself a long hedged sentence — and the article retains 46 words of headroom to the soft threshold.
+- **Attribution**: `ai_modified` bumped only. `ai_system` deliberately HELD at `claude-opus-4-5-20251101` — a calibration re-slice is a correction, not authoring.
+- **Sync**: `scripts/sync.py` run; fix verified in both `obsidian/` and `hugo/content/`, wikilink resolves to `/concepts/mysterianism/`.
+- **Published**: yes
 
 ## 2026-08-22T18:53:00+00:00 - check-tenets
 
