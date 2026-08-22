@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T12:12:02+00:00'
+ai_modified: '2026-08-22T12:47:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 12:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The Rival-Route Wing — five articles whose organising job is to state a route the Map does *not* take, at full strength, then locate the Map by contrast. `topics/event-causal-libertarianism` (2528w), `concepts/compatibilism` (2499w), `concepts/neutral-monism` (2416w), `concepts/pairing-problem` (2410w), `topics/interventionist-and-counterfactual-dualism` (2394w). All five read in full; all five had never appeared in any prior optimistic review (selected by differencing 800 live slugs against every slug named in `optimistic-*.md` — 61 never-reviewed, of which these five form one family across three axes of rivalry).
+- **Strengths recorded (mechanisms, not qualities)**: (1) `interventionist-and-counterfactual-dualism` runs a tenet audit *against the house* — the discriminating tenet leans toward the rival — and closes the parsimony escape from inside via Tenet 5; lands on "tenet-*coherent* but tenet-*underdetermined*". (2) `pairing-problem` falsifier 3 refuses the PEAR nulls as confirmation because interface locality was formulated knowing them, relocating the commitment into a numeric preregistration-conditioned threshold. (3) `neutral-monism` states a falsifier *with its blast radius* — success would cost the Map its parallel case against Russellian monism — and self-binds parsimony symmetrically. (4) `compatibilism` gives the ~59% majority its own named section and accepts the dissent burden, with an inflation guard and a pre-labelled Hume paraphrase that read as trimmable and are not. (5) `event-causal-libertarianism` prices its own wing in the same paragraph as the rival's.
+- **Calibration concerns (2, both single-sentence, both carry-back failures)**: Concern 1 — `interventionist-and-counterfactual-dualism` L90/96/106 still carry the pre-`1ab6b8a5bf` (2026-08-03) characterisation of the strict selection-only channel as unqualifiedly "statistically invisible"; the corrected sibling wrote the fix into a Further Reading entry naming this article and nobody read it from this side. Fixing it *strengthens* the article's own diagnostic. Concern 2 — `concepts/pairing-problem` L146 "Their non-occurrence supports the current approach" is the exact inference its own falsifier 3 forbids, and fails the discrimination test `concepts/mysterianism:158` states explicitly; sole live locus of the bare form, calibrated template available at `hard-problem-of-consciousness:233`.
+- **Register finding**: none of the five wing articles is cited anywhere in `obsidian/positions/`. Two are unambiguous — P-A2 names event-causal indeterminism in its title and does not cite `topics/event-causal-libertarianism`; P-A5 names compatibilism and does not cite `concepts/compatibilism`. Direct precedent: P-A5's own 2026-08-21 `Argued in` extension.
+- **Tasks generated**: 3 — two P2 `refine-draft` (the two concerns), one P3 `positions-evolve` (the two `Argued in` additions). No open task existed on any target (checked above `## Completed Tasks`, split on enclosing `### ` headers).
+- **Deliberately not minted**: no `expand-topic` (out of contract). No `research-topic` on Vihvelin's new dispositionalism — a genuine gap the corpus flags in its own voice (`concepts/compatibilism`: "among the strongest live challenges to the Map's premise... no dedicated page elsewhere in the lattice"), verified against all six articles mentioning him, but **cap-blocked**: `topics/` 320/320 closed, `concepts/` 318/320 against an oversubscribed research queue. Recommended in-place discharge instead. Also declined: a task on `neutral-monism`'s hedged "joints of the problem" line, and one on a P-A5/`compatibilism` "hardest challenge" divergence that resolves to two different axes rather than a contradiction.
+- **Output**: [[reviews/optimistic-2026-08-22-rival-route-wing]]
 
 ## 2026-08-22 12:12 UTC - refine-draft
 - **Status**: Success

@@ -2907,6 +2907,63 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: the apex is `soft_warning` and near its ceiling — this fix is word-neutral (+0/-0). Print `analyze_length` live before editing; do not treat the visit as licence to expand.
   **MIRROR**: live at `hugo/content/apex/moral-architecture-of-consciousness.md`. Run `uv run python scripts/sync.py` and grep both trees. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a quote re-slice is correction, not authoring.
 
+### P2: `topics/interventionist-and-counterfactual-dualism` states the strict selection-only channel "statistically invisible" — its own source narrowed that claim on 2026-08-03 and the fix was never carried back
+
+- **Type**: refine-draft
+- **File**: obsidian/topics/interventionist-and-counterfactual-dualism.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-22 (The Rival-Route Wing), Concern 1
+- **Generated**: 2026-08-22
+- **Review file**: obsidian/reviews/optimistic-2026-08-22-rival-route-wing.md
+- **Notes**: **DATED WITH `git log -S` THIS SESSION — a real drift, not an asserted one.** Commit `1ab6b8a5bf` (2026-08-03 05:36 UTC, `auto(refine-draft): Born-marginal preservation does NOT entail zero mutual information — withdraw the selection-only causal budget until rederived`) narrowed the ensemble claim in `obsidian/concepts/selection-only-channel.md`. That article now reads (L153): *"per-trial difference-making (it fixes which single candidate is realised) yet **unconditioned-ensemble** difference-making-free (the marginal is Born-preserving, **though the conditionals need not be**)"*. This article has not been touched since **2026-07-25** (`git log -1` on the path) and still carries the pre-correction, unqualified wording.
+  **THREE LOCI, all in the obsidian source and mirrored in Hugo:**
+  - **L90** (the `#the-tenet-diagnostic` section, the article's central argument): *"yet *ensemble* difference-making-free: the long-run frequencies stay Born-exact, so it shifts no distribution and is statistically invisible."* → the invisibility is of the **unconditioned marginal** only.
+  - **L96** (Relation to Site Perspective): *"its strict selection-only reading is ensemble Born-preserving"*.
+  - **L106** (Further Reading gloss on `selection-only-channel`): *"per-trial difference-making, ensemble Born-preserving"*.
+  Hugo mirror carries the L90 wording at `hugo/content/topics/interventionist-and-counterfactual-dualism.md:94`.
+  **WHY IT SURVIVED — the `outbound-crosslink-sentences-are-never-reviewed-by-anyone` shape.** The 08-03 correction was written *into the corrected sibling's Further Reading entry naming this article by name* (`selection-only-channel` L153 is literally a gloss on this file). Nobody read it from this side. This article's `last_deep_review` of 2026-07-25 predates the correction by nine days, so its clean-review record is not evidence.
+  **THE FIX STRENGTHENS THE ARTICLE — DO NOT SOFTEN THE DIAGNOSTIC.** Under the corrected reading the strict channel is *less* statistically invisible than stated (conditioned on mind-state the statistics need not be Born-exact), which makes it *more* of a genuine difference-maker — and the article's whole Tenet-2 result is that Tenet 2 leans toward the co-causation family precisely because the channel is a per-trial difference-maker. The article is currently **under-claiming its own conclusion** by quoting a superseded characterisation. Restate the invisibility as unconditioned-marginal invisibility and let the diagnostic stand at full strength.
+  **CLEAN ON THE OTHER AXIS — do not chase this.** `selection-only-channel` L76 now carries a *Withdrawn* notice for the zero-throughput derivation ending *"no downstream page should treat this channel as having a known throughput."* This article makes **no** throughput, bit-rate or mutual-information claim. Nothing to fix there.
+  **VERIFIED CLEAN, do not re-litigate**: both internal quotations this article takes from `concepts/trumping-preemption` — *"a distinct and potentially competing mechanism to the trumping route rather than an instance of it"* and *"answering a question already closed"* — were re-grepped against that article's live body this session and match verbatim.
+  **ANCHORING**: this file carries `anchoring_audit_exempt: true` with an inline justification (*"verified false-high... calibrates structurally... refining would over-hedge and regress the voice"*). Honour it. Do **not** add hedge words; this is a precision fix, not a calibration-softening pass.
+  **LENGTH**: 2394w by `analyze_length` against `topics` soft 3000 / hard 4000 — `ok`, ample headroom, but keep the fix near length-neutral.
+  **MIRROR**: run `uv run python scripts/sync.py` and grep BOTH trees before reporting (`obsidian-only-fix-leaves-defect-live-in-hugo`). `ai_modified` from a live `date -u`, strictly past.
+
+### P2: `concepts/pairing-problem` L146 closes its falsifier list with "Their non-occurrence supports the current approach" — the exact inference its own falsifier 3 forbids
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/pairing-problem.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-22 (The Rival-Route Wing), Concern 2
+- **Generated**: 2026-08-22
+- **Review file**: obsidian/reviews/optimistic-2026-08-22-rival-route-wing.md
+- **Notes**: **ONE SENTENCE, GREP-VALIDATED, and it undoes the best calibration in the article.** L146 reads: *"These are genuine conditions under which the framework would need revision. Their non-occurrence supports the current approach."* Three paragraphs above, falsifier 3 says the opposite about the very evidence that sentence collects on: the PEAR micro-PK nulls (~0.0001–0.001, Jahn & Dunne 2005) are *"**consistent with** the framework rather than positive evidence **for** it; what makes the commitment substantive is the falsification threshold — reliably replicable external-PK effects above roughly 0.01 under preregistered protocols would refute it."* The closing sentence generalises non-occurrence into support across all five falsifiers, including that one.
+  **THE CORPUS ALREADY STATES THE PRINCIPLE THIS VIOLATES.** `obsidian/concepts/mysterianism.md:158`: the usual defeaters *"discriminate poorly: physicalism plus hard work predicts their non-occurrence equally well."* For four of the five conditions listed here (incoherence of non-spatial causation, elimination of haecceities, external-PK effects, mind-jumping between brains) the physicalist predicts non-occurrence just as confidently as the Map does, so non-occurrence discriminates nothing.
+  **REWRITE, DO NOT DELETE — the calibrated template is in-corpus.** `obsidian/topics/hard-problem-of-consciousness.md:233` handles the same inference correctly: it draws inductive support from *persistent failure of a specific research programme*, hedges it against a live alternative (*"though (5) remains a live conceptual challenge"*), and follows with an explicit underdetermination statement. Match that standard, or simply drop the second sentence and let falsifier 3's own framing carry the section. Either is fine; a bare deletion is acceptable, a bare retention is not.
+  **SCOPE — sole live locus, verified by classifying every hit.** `grep -rn 'non-occurrence'` across `obsidian/topics obsidian/concepts obsidian/apex obsidian/voids obsidian/positions` returns exactly three lines: `hard-problem-of-consciousness:233` (calibrated — leave alone), `mysterianism:158` (states the corrective principle — leave alone), and this one. Do **not** sweep the other two.
+  **MIRROR**: live at `hugo/content/concepts/pairing-problem.md:150`. Run `uv run python scripts/sync.py` and grep both trees.
+  **LENGTH**: 2410w by `analyze_length` against `concepts` soft 2500 / hard 3500 — `ok`. The fix is word-neutral to slightly negative.
+  **WHILE YOU ARE THERE — a cross-link worth adding, not a separate task**: the article has no link to `concepts/mysterianism`, which is where the corpus states the discrimination test this sentence fails. One Further Reading entry would put the antidote next to the defect. Optional; do not expand the article to accommodate it.
+  **HOLD `ai_system`** — a calibration re-slice is correction, not authoring. `ai_modified` from a live `date -u`, strictly past.
+
+### P3: P-A2 and P-A5 do not cite the corpus's canonical statements of the rivals they are defined against — `topics/event-causal-libertarianism` and `concepts/compatibilism`
+
+- **Type**: positions-evolve
+- **File**: obsidian/positions/agency-and-will.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-08-22 (The Rival-Route Wing), Register Visibility section
+- **Generated**: 2026-08-22
+- **Review file**: obsidian/reviews/optimistic-2026-08-22-rival-route-wing.md
+- **Notes**: **METADATA/CITATION REPAIR ONLY — no calibration, status or credence change is being requested.** Both positions name their rival in their own title and neither cites the article that treats it.
+  1. **P-A2** — *"Authorship requires agent causation, **not merely event-causal indeterminism**"*. `Argued in` currently lists `concepts/agent-causation`, `concepts/four-category-ontology`, `concepts/quantum-indeterminacy-free-will`, `topics/free-will`. Add **`topics/event-causal-libertarianism`** — created 2026-07-09, deep-reviewed 2026-08-19, 2528w, six inbound corpus links, and the only sustained treatment anywhere in the corpus of the rejected rival (Kane's SFAs and doubled effort, Ekstrom's coherentism and her 2019 move to a centered account, Balaguer's minimalism, plus Pereboom's disappearing-agent formulation).
+  2. **P-A5** — *"The agency case is **distinguished from compatibilism** by tenet-coherence, not unique moral explanatory power"*. `Argued in` currently lists six articles. Add **`concepts/compatibilism`** — created 2026-07-13, 2499w, the corpus's only survey of the rival the position distinguishes itself from, organised by how each variant handles "could have done otherwise" and carrying the *"The Majority Position"* section that accepts the burden of dissenting from ~59% of the discipline.
+  **PRECEDENT IS IN THIS SAME REGISTER, one entry down.** P-A5's own `Updated 2026-08-21` note reads: *"**Argued in** extended to the Frankfurt-cases and Strawsonian-responsibility articles — since 2026-07-29 the canonical loci for two of the three residue items, neither previously cited."* That audit did not sweep the two July-2026 survey articles. This is the same repair, one pass later.
+  **VERIFIED**: `grep -rl` across the whole `obsidian/positions/` tree returns **zero** hits for `event-causal-libertarianism`, `compatibilism` (as a link), `neutral-monism`, `pairing-problem` and `interventionist-and-counterfactual-dualism`. None of the five rival-route articles is cited by any register entry.
+  **SECONDARY, FLAGGED NOT ASSERTED — look, then decide.** P-A2's `Would shift if` trigger reads *"an event-causal account is shown to secure sourcehood without **the regress** the Map presses"*, but the canonical article presses the **luck / disappearing-agent** objection (Pereboom 2014, *Phil Studies* 169(1):59–69) and treats it as the pivot of the whole taxonomy. Related grounds, not identical ones. The register may be deliberately naming the more general form; if so, leave it and say so in the update note. Do **not** rewrite the trigger without deciding that question explicitly.
+  **DO NOT BROADEN.** The other three wing articles are also uncited, but none maps onto a single position by name, so no repair is recommended for them. Recorded in the review as an observation for whoever next audits `Argued in` coverage register-wide.
+  **LENGTH**: `positions/` is scored soft 1500 / hard 2500 and this file is already long — the additions are two wikilinks plus one `Updated 2026-08-22` line per position. Keep it to that.
+  **MIRROR**: `hugo/content/positions/agency-and-will.md`. Run `uv run python scripts/sync.py`; both new wikilinks must resolve. `ai_modified` from a live `date -u`, strictly past.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
