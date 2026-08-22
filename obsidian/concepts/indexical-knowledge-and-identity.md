@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-07-27T20:39:01+00:00
+ai_modified: 2026-08-22T18:22:10.597654+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -32,9 +32,20 @@ coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
   - "/concepts/self-locating-beliefs/"
+embedded_videos:
+  - id: W5Yv2fXF-gs
+    url: https://www.youtube-nocookie.com/embed/W5Yv2fXF-gs
+    embedded: 2026-08-22T18:22:10.597654+00:00
+    source: notebooklm/0113-01-indexical-knowledge-and-identity
 ---
 
 Indexical knowledge is knowledge expressible only through context-dependent terms—"I," "here," "now," "this"—whose reference shifts with the speaker. The fact that *I* am this person, that *this* is happening *now*, that the pain is *here*—these resist translation into impersonal, context-free language. This irreducibility operates at two levels: epistemically (indexical knowledge has distinctive cognitive and motivational properties) and potentially ontologically (the world may contain irreducible indexical facts that impersonal description cannot capture). Whether the epistemic or metaphysical thesis holds matters directly for debates about [[phenomenal-consciousness]], [[personal-identity]], and the [[vertiginous-question]].
+
+<details class="yt-embed" data-video-id="W5Yv2fXF-gs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/W5Yv2fXF-gs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Perry's Essential Indexical
 
