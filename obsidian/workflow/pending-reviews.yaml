@@ -524,3 +524,38 @@
   subject_articles:
   - topics/anaesthesia-and-the-consciousness-interface.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-22-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/1d56793e0f74c239
+  commissioned_at: '2026-08-22T04:14:33.264588+00:00'
+  prompt_summary: 'Audit anaesthesia-and-the-consciousness-interface: claims, cites,
+    rivals'
+  target_filename: outer-review-2026-08-22-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing a single article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
+    and makes claims about general anaesthesia and what it shows about consciousness;
+    the surrounding site (https://unfinishablemap.org) argues for a non-reductive
+    view of consciousness. Also consult https://unfinishablemap.org/workflow/changelog/
+    - the site changes daily and web-search indices lag 24 to 48 hours, so recent
+    revisions will not surface in search results alone. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four things: empirical accuracy against the 2020s anaesthesia
+    and consciousness-science literature; results the article leans on that have been
+    challenged, retracted, or failed replication; framings that quietly bracket a
+    live dispute or beg the question; and untested counterarguments or competing frameworks
+    it never confronts. End your report with the at-least-five weaknesses list, each
+    citing a peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles,
+    and a one-sentence verdict on academic-submission readiness. If you cannot find
+    five, state explicitly why none are visible. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit anaesthesia-and-the-consciousness-interface
+  subject_articles:
+  - topics/anaesthesia-and-the-consciousness-interface.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-22-chatgpt-5-6-sol-pro.md
