@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-03 08:44:28+00:00
+ai_modified: 2026-08-22 15:14:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -18,7 +18,7 @@ description: 'The Map''s positions on where consciousness reaches in biological 
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-08-03 08:44:28+00:00
+lastmod: 2026-08-22 15:14:20+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -82,11 +82,12 @@ The organising idea is the **minimal-dualism spine**. The Map's tenet-dependency
 
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade C (a preferred interpretation compatible with — not forced by — split-brain, anaesthesia, and signal-verified lucid-dreaming data, held against a live production-model rival) · structural centrality moderate · model maturity developed · empirical discriminability indirect · framework-internal only: no
-- **Asserts**: The Map holds that the cases standardly read as consciousness *fragmenting* or *switching off* — split-brain disconnection, general anaesthesia, dreamless sleep, and the altered organisation of dreaming — are better read as disruptions or reconfigurations of the *interface* through which consciousness expresses itself, not as division or production of consciousness itself. Split-brain severs the interhemispheric channel without thereby establishing two subjects or one; anaesthetic agents disable separable interface components (phenomenal presence, connectedness, access) through specific molecular targets, yielding graded rather than binary transitions; dreaming is what the filter transmits when sensory gating and prefrontal constraint loosen, with signal-verified lucid dreaming evidencing temporally-extended conscious processing during REM. This is the Map's preferred interpretation — *compatible with* the data and arguably more natural under the filter model, not forced by it — held against a live production-model rival rather than as a demonstrated result. Its dependency burden is the bare-dualism spine plus the filter model, *not* the quantum apparatus: it survives even if the interface mechanism is demoted to coherence-only. At stake is the unity-of-consciousness argument's vulnerability to genuine fragmentation; the Map's claim is that these cases do not deliver the fragmentation the objection needs.
-- **Depends on**: Tenet 1 (bare reading — consciousness as a distinct category, not composed of parts); the filter/interface model of the brain; P-CS1 (substrate-permissive spine); the separable-interface-components reading of anaesthesia; signal-verified lucid dreaming (LaBerge 1990; Konkoly et al. 2021); explicitly *not* the quantum-interface register; bears on the unity-of-consciousness argument and connects to [P-I1](/positions/individuation-and-subjecthood/) for the split-brain subject-count question
+- **Asserts**: The Map holds that the cases standardly read as consciousness *fragmenting* or *switching off* — split-brain disconnection, general anaesthesia, dreamless sleep, and the altered organisation of dreaming — are better read as disruptions or reconfigurations of the *interface* through which consciousness expresses itself, not as division or production of consciousness itself. Split-brain severs the interhemispheric channel without disclosing a subject-count [P-I1](/positions/individuation-and-subjecthood/) holds determinate — the channel is not the subject; anaesthetic agents disable separable interface components (phenomenal presence, connectedness, access) through specific molecular targets, yielding graded rather than binary transitions; dreaming is what the filter transmits when sensory gating and prefrontal constraint loosen, with signal-verified lucid dreaming evidencing temporally-extended conscious processing during REM. This is the Map's preferred interpretation — *compatible with* the data, not forced by it — held against a live production-model rival rather than as a demonstrated result. It survives an interface demoted to coherence-only: the burden is the bare-dualism spine plus the filter model, not the quantum apparatus. At stake is the unity-of-consciousness argument's vulnerability to genuine fragmentation, which these cases do not deliver.
+- **Depends on**: Tenet 1 (bare reading — consciousness as a distinct category, not composed of parts); the filter/interface model of the brain; P-CS1 (substrate-permissive spine); the separable-interface-components reading of anaesthesia; signal-verified lucid dreaming (LaBerge 1990; Konkoly et al. 2021); explicitly *not* the quantum-interface register; [P-I1](/positions/individuation-and-subjecthood/) supplies the determinate subject-count
 - **Argued in**: [split-brain-consciousness](/topics/split-brain-consciousness/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [dream-consciousness](/topics/dream-consciousness/), [identity-across-transformations](/apex/identity-across-transformations/)
-- **Would shift if**: a fragmentation case were shown to genuinely *divide a single consciousness into two subjects* (which would vindicate the production reading against the interface reading and threaten the unity argument it protects); or the filter model were independently undermined; or anaesthesia/sleep were shown to *eliminate* rather than *disconnect* experience in a way the interface reading cannot accommodate; or the split-brain data were shown to require exactly two subjects (which would feed back into P-I1's individuation commitment).
-- **Last reviewed**: 2026-06-22
+- **Would shift if**: a fragmentation case were shown to genuinely *divide a single consciousness into two subjects* (which would vindicate the production reading against the interface reading and threaten the unity argument it protects — a showing the connectivity cannot supply, so it bites through P-I1); or the filter model were independently undermined; or anaesthesia/sleep were shown to *eliminate* rather than *disconnect* experience in a way the interface reading cannot accommodate; or the split-brain data were shown to require exactly two subjects, feeding back into P-I1's individuation commitment.
+- **Updated 2026-08-22**: harmonised with the 2026-08-04 determinacy sweep in its sources; bands unmoved.
+- **Last reviewed**: 2026-08-22
 
 ## P-CS5: At the prokaryotic floor, proto-agency and experience are underdetermined in both directions — parsimony's "no coupling" default is undefeated but not established
 

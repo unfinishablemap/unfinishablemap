@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T14:53:31+00:00'
+ai_modified: '2026-08-22T15:15:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T15:15:00+00:00 - positions-evolve
+
+- **Status**: Success (update — P-CS4 harmonised)
+- **File**: [[positions/consciousness-scope]] — entry **P-CS4** only
+- **Mode**: `update`. The register file's last commit is `20cf4fbeb5` (2026-08-03); the determinacy sweep commits `856164fa82` and `1d41f75b82` are both 2026-08-04, so P-CS4's summary of `topics/split-brain-consciousness` and `apex/identity-across-transformations` had never been read against their current text (`Last reviewed: 2026-06-22`).
+- **The drift, verified against current source text**: both dependencies now assert determinacy positively — split-brain L98/L204 ("determinate but not readable off physical structure"; "its count to be a determinate fact — one the connectivity is the wrong kind of thing to disclose"), apex L93 ("epistemic rather than metaphysical"). P-CS4 booked only the negative ("without thereby establishing two subjects or one"), and `grep -c determinate` on the register returned 1 hit, that being P-CS2's "no determinate cut-off" at L60 — not P-CS4. The entry owning the fragmentation cases nowhere recorded the determinacy its own sources assert.
+- **Outcome: harmonise (option 1), not a no-op.** The old wording is *readable* as purely evidential, but in isolation it also reads as leaving the count metaphysically open — precisely the Nagel indeterminacy the 2026-08-04 sweep repudiated. Three changes:
+  1. **Asserts** — "without thereby establishing two subjects or one" → "without disclosing a subject-count [[positions/individuation-and-subjecthood|P-I1]] holds determinate — the channel is not the subject". The evidential point (the case settles nothing) is preserved; the determinacy is now booked positively and attributed to P-I1 rather than left to inference.
+  2. **Would shift if** — answered the brief's question. The clause *does* now take its bite from P-I1, not from the fragmentation data: if connectivity is the wrong kind of thing to disclose the count, no connectivity datum can show a case "genuinely divides a single consciousness". Recorded as "— a showing the connectivity cannot supply, so it bites through P-I1".
+  3. **Depends on** — "connects to P-I1 for the split-brain subject-count question" upgraded to "P-I1 supplies the determinate subject-count", making the direction of support explicit.
+- **No calibration or status move.** Credence moderate, grade C, centrality moderate, status live — all unchanged, as the 2026-07-30 register pass recorded P-CS4 correct on the calibration axis. `Last reviewed` → 2026-08-22, plus a one-line **Updated** note in the entry.
+- **Length**: re-measured with `analyze_length`, not estimated. P-CS4 406w → **406w**; file 2498w → **2498w**, `soft_warning` (positions thresholds 1500/2500/4000; the status test is `>= hard`, so 2499 was the ceiling). Additions paid for out of P-CS4's own prose: dropped the redundant "and arguably more natural under the filter model" and "bears on the unity-of-consciousness argument" (the Asserts states that relation), and tightened the dependency-burden and at-stake sentences. No neighbouring entry touched; the retire-don't-delete trail is intact.
+- **Declined, with reason**: the P-F1 reciprocal-pointer gap is register-wide (`finding-level-calibration` is cited 0 times from `consciousness-scope.md`, and equally 0 from `quantum-interface.md` and `voids-as-evidence.md`), so adding it here alone would manufacture a one-of-three asymmetry. Left for a properly-scoped three-file task. Also untouched: the open P3 on P-CS1's `concepts/substrate-independence` citation, and the apex L95 residual.
+- **Cascade**: none. P-CS4 has no downstream dependents in the register; the change strengthens an existing edge to P-I1 rather than moving a band, so no downstream entry stales.
+- **Content changes**: `obsidian/positions/consciousness-scope.md` (P-CS4 + `ai_modified`); synced to `hugo/content/positions/consciousness-scope.md`.
 
 ## 2026-08-22T14:53:31+00:00 - coalesce
 
