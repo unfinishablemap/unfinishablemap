@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-22T17:25:00+00:00 - refine-draft
+
+- **Status**: Success (all three briefed loci fixed, reciprocal gloss aligned, plus one unbriefed string-sibling)
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Defect**: stale-dependency drift. Commit `1ab6b8a5bf` (2026-08-03) narrowed the ensemble claim in [selection-only-channel](/concepts/selection-only-channel/) — Born-preservation constrains the *unconditioned marginal* only, leaving the mind-conditioned distributions free. This article was last touched 2026-07-25 (`last_deep_review` same date), nine days before the correction, and still asserted flat ensemble-invisibility. Textbook memory:outbound-crosslink-sentences-are-never-reviewed-by-anyone: the correction was written into the sibling's Further Reading gloss *naming this file* and never read back from this side.
+- **Changes**:
+  - **L90** (`#the-tenet-diagnostic`, the central argument): "*ensemble* difference-making-free: the long-run frequencies stay Born-exact, so it shifts no distribution and is statistically invisible" -> "*unconditioned-ensemble* difference-making-free: the long-run **marginal** stays Born-exact". Added the averaging-identity point (Born-preservation binds the left-hand side, says nothing about the conditionals) and named *conditional residual-structure* tests as the live exposure. Vocabulary matched to the corpus form already in [selection-only-mind-influence](/topics/selection-only-mind-influence/) and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/).
+  - **L90 tail** (axis-restriction clause, unbriefed but same defect): "the strict channel shares its ensemble-invisibility with trumping instead" was the same over-broad claim one clause later. Sharpened — the strict channel shares only *unconditioned*-marginal invisibility with trumping, and the parallel is narrower than it looked, since trumping is difference-making-free at every register while the strict channel's conditionals are free to differ.
+  - **L96** (Relation to Site Perspective): "its strict selection-only reading is ensemble Born-preserving" -> "Born-preserving in the *unconditioned* marginal, leaving the conditionals free".
+  - **L106** (Further Reading gloss): rewritten to the sibling's exact corrected formula. **Reciprocity verified** — [selection-only-channel](/concepts/selection-only-channel/) L153 and this file's L106 now carry identical wording ("*per-trial* difference-making yet *unconditioned-ensemble* difference-making-free (the marginal is Born-preserving, though the conditionals need not be)").
+  - **[ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) L52 (unbriefed third instance)**: grep found the same stale string live in a crosslink sentence *about this article* — "since the corridor's selection stays ensemble Born-preserving". Fixed to the marginal-only form. Left live it would have recreated the defect (memory:fix-by-file-leaves-string-siblings-live). `ai_modified` bumped there too.
+- **Direction of the fix**: the correction runs **with** the argument. Under the corrected reading the strict channel is *less* statistically invisible, hence *more* of a genuine difference-maker — which reinforces the article's Tenet-2 result that MQI leans toward the co-causation family. Claim sharpened, not hedged.
+- **Anchoring exemption honoured**: file carries `anchoring_audit_exempt: true` (L9). No qualifier words added; this was a precision substitution of an accurate narrower claim for an over-broad one, not a calibration-softening pass.
+- **Length**: 2394w -> **2520w** (measured with `analyze_length`; topics thresholds 3000 soft / 4000 hard / 6000 critical; status `ok`, 480 words to soft). Near-length-neutral as briefed.
+- **Declined per brief, re-verified**: withdrawn-throughput axis — 0 mentions of throughput / bit-rate / mutual information in this article, nothing to connect. [trumping-preemption](/concepts/trumping-preemption/) internal quotations re-grepped against that article's live body, both match verbatim; not re-litigated.
+- **Sync**: `scripts/sync.py` run; both trees grepped clean of the stale strings.
+- **Published**: yes
+
 ## 2026-08-22T16:57:20+00:00 - refine-draft
 
 - **Status**: Success (all three briefed defects fixed, plus one unbriefed sibling locus and one stale-dependency inheritance)
