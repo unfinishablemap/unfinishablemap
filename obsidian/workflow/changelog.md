@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T06:31:01+00:00'
+ai_modified: '2026-08-22T06:39:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T06:39:59+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Task**: P1 `two loci assert the teleological active-reboot reading flatly`, synthesis cluster 2 (3/3 convergent: gemini, chatgpt, claude), `reviews/outer-review-synthesis-2026-08-22`.
+- **Original length**: 3966 words, `soft_warning` (topics soft 3000 / hard 4000, printed live from `tools.curate.length`). The task's quoted "3999 words / one word of headroom" was stale — three sibling P1s had executed since it was minted.
+- **Changes**:
+  - **L109**, end of §"The Active Reboot" first paragraph. `The workspace must be inhabited, not merely activated.` → `On the interface reading the workspace must be inhabited, not merely activated.` The sentence was asserted flat immediately after one that *is* attributed ("but the Map reframes it:"); it now carries the same register as the rest of the paragraph. Vocabulary matches the article's established house usage ("which filter theory reads as", "The quantum-interface reading — that").
+  - **L123**, §"The Bootstrapping Problem". `since the brain prepares for consciousness before it arrives` → `since emergence involves active molecular reconfiguration rather than pharmacokinetic washout`. The old subordinate clause gave the interface reading as *the reason* production theory is complicated, begging the question against the rival being weighed — as ChatGPT put it, "any realizational theory predicts that the enabling physical state precedes its behavioural manifestations". Re-anchored on what Hu et al. actually show. The teleological "arrives" presupposition is removed rather than merely hedged, and the clause now sets up the section's question instead of smuggling in its answer.
+- **Register model**: the Map's own sibling `concepts/active-reboot` L101 ("It does not show the brain "calls" consciousness back... raises the explanatory cost on production models without forcing the interactionist alternative"). The topic article was the lone outlier of the pair; the sibling was **not** edited — it was already correct.
+- **Deliberately not done**: the three reviewers' headline charges (that the article misappropriates Hu et al.) were not re-litigated — the article already quotes Hu's own framing, already disowns "active reboot" as the Map's label rather than theirs, and already concedes the GNW reading at L109. The active-reboot material was **not** deleted; this was a `citation-framing-accuracy-lens` fix, where the finding is real and only the register pointed the wrong way. **L103 was not touched**: Gemini's neural-inertia charge looks like a second convergence but is not one — `non-physical factors` greps 0, and L103 carries Sepúlveda's own definition, "intrinsic resistance *of neural circuits* to transitions", which is not a claim about consciousness; the article also names and cites the bistable flip-flop mechanism it was charged with ignoring.
+- **Sibling-span check**: grepped `prepares` / `inhabited` / `re-enters` / `before it arrives` / `awaiting` / `occupant` across the file — the teleological vocabulary was confined to exactly the two flagged loci, so no string siblings survive the fix.
+- **Length after**: 3971 words, `soft_warning`, 29 words of headroom to the hard gate. Net +5 words, net line delta 0. Headroom freed by the sibling passes was deliberately not spent — that is an operator decision.
+- **Published**: yes
 
 ## 2026-08-22T06:31:01+00:00 - refine-draft
 

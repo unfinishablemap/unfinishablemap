@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-22 06:31:01+00:00
+ai_modified: 2026-08-22 06:39:59+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-08-22 06:31:01+00:00
+lastmod: 2026-08-22 06:39:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ On production models, hysteresis is puzzling: why should a generator resist bein
 
 ### The Active Reboot
 
-Mashour et al. (2021) tracked cognitive reconstitution across three hours of isoflurane anaesthesia in healthy volunteers: frontal-parietal dynamics returned to baseline just prior to recovery of consciousness, and executive function — mediated by prefrontal cortex — returned first, before reaction time and simpler sensorimotor tasks, inverting the expected order if consciousness were building from simple to complex. Redinbaugh et al. (2020) bear on the substrate: deep cortical layers and central-lateral thalamus are the most sensitive to changes in consciousness level, and stimulating that thalamocortical loop reinstates wake-like dynamics — so the channel emergence reopens is anatomically specific, not a diffuse generator. Lewis et al.'s transient pre-emergence cortical state (below) is the closer evidence that the recovery transition is comparatively discrete rather than a smooth power-up. Early prefrontal re-engagement fits global neuronal workspace theory, but the Map reframes it: dynamics normalising *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace must be inhabited, not merely activated.
+Mashour et al. (2021) tracked cognitive reconstitution across three hours of isoflurane anaesthesia in healthy volunteers: frontal-parietal dynamics returned to baseline just prior to recovery of consciousness, and executive function — mediated by prefrontal cortex — returned first, before reaction time and simpler sensorimotor tasks, inverting the expected order if consciousness were building from simple to complex. Redinbaugh et al. (2020) bear on the substrate: deep cortical layers and central-lateral thalamus are the most sensitive to changes in consciousness level, and stimulating that thalamocortical loop reinstates wake-like dynamics — so the channel emergence reopens is anatomically specific, not a diffuse generator. Lewis et al.'s transient pre-emergence cortical state (below) is the closer evidence that the recovery transition is comparatively discrete rather than a smooth power-up. Early prefrontal re-engagement fits global neuronal workspace theory, but the Map reframes it: dynamics normalising *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). On the interface reading the workspace must be inhabited, not merely activated.
 
 Hu et al. (2023) identified, in mice, a common emergence mechanism: rapid ubiquitin-driven degradation of the K+/Cl− cotransporter KCC2 in the ventral posteromedial thalamus, mediated by the ubiquitin ligase Fbxl4. KCC2 downregulation produces GABA-A-mediated disinhibition that drives emergence. The authors' own characterisation is that emergence, "once assumed to be a passive process, is now considered as an active and controllable process," and that the recovery pathway they identify "is an active process and occurs independent of anesthetic choice." *Active reboot* is the Map's name for the mechanism class, not theirs: a coordinated molecular response to reopen the channel rather than passive drug clearance. That the same KCC2 mechanism operates across the four agents they tested — propofol and pentobarbital (GABA-A potentiation at distinct binding sites), isoflurane (volatile actions), and ketamine (NMDA antagonism) — is the key point: the interface has a dedicated reopening pathway that is mechanism-shared even where closing pathways were mechanism-distinct. That span is three mechanism classes plus one within-class replication, a weaker convergence claim than a four-class reading would make and the one the study supports — see [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/). Complexity and integrated-information measures — PCI, Φ surrogates, connectome-harmonic signatures — track conscious state independently of behavioural responsiveness, staying high in unresponsive states such as ketamine sedation and REM (Onoda et al. 2025; Breyton et al. 2025; Van Maldegem et al. 2025). That these measures and behaviour come apart is well established; whether integration recovers *before* behaviour in a timed emergence sequence is a live hypothesis this literature does not resolve, since these studies compare states rather than time-resolve recovery. The one finding that does report a neural state preceding behavioural recovery is older and mechanistically distinct: Lewis et al. (2018) identified a transient sleep-like cortical state with K-complex-like sensory responses in the minutes before return of consciousness — sensory gating rather than integration recovery, but the genuine anchor for the prepared-in-advance intuition.
 
@@ -124,7 +124,7 @@ A stochastic model fitting the data indicates that emergence timing is not deter
 
 ### The Bootstrapping Problem
 
-What initiates the return of consciousness? On production theory, neural activity recovers and consciousness follows — but the active reboot complicates this, since the brain prepares for consciousness before it arrives. On filter theory: if consciousness is separate and the interface is pharmacologically closed, what reopens it?
+What initiates the return of consciousness? On production theory, neural activity recovers and consciousness follows — but the active reboot complicates this, since emergence involves active molecular reconfiguration rather than pharmacokinetic washout. On filter theory: if consciousness is separate and the interface is pharmacologically closed, what reopens it?
 
 The most plausible resolution is that consciousness never fully departs: even under deep anaesthesia some neural processing continues and brain activity remains non-random, so the filter may narrow to a near-closed state without fully shutting, with recovery widening from this residual aperture. Disconnected consciousness during emergence supports this — the phenomenal channel was constricted, not severed, and widens through the same component stages induction narrows. The bootstrapping problem remains open, and its difficulty is itself informative: the consciousness-interface relationship resists simple causal stories in either direction.
 
