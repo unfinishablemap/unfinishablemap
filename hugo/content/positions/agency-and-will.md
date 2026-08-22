@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-08-21 23:09:41+00:00
+ai_modified: 2026-08-22 15:42:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -13,14 +13,14 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[evidential-status-discipline]]'
 created: 2026-06-08
-date: &id001 2026-06-08
+date: &id001 2026-08-22
 description: 'The Map''s positions on free will and agency: the agent-causal libertarian
   commitment, the interpretation of Libet-style timing data, the substance-leaning
   scope, and where the case is held conservatively.'
 draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
-lastmod: 2026-08-21 23:09:41+00:00
+lastmod: 2026-08-22 15:42:19+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -87,12 +87,13 @@ These positions cover what the Map holds about agency: whether choices are genui
 ## P-A4: Conscious causal efficacy cannot be verified from the first person
 
 - **Status**: live
-- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade n/a (meta-epistemic — constrains how the case can be argued, asserts nothing about the world) · structural centrality high (caps the achievable confidence of P-A1) · model maturity developed · empirical discriminability n/a (meta-epistemic) · framework-internal only: no
-- **Asserts**: The Map holds that no agent can certify its own causal efficacy by introspection, because every such check is performed by the faculty whose causal status is in question. This verification limit is symmetric: epiphenomenalism cannot verify itself either, since on that view the belief "consciousness is inert" was not caused by consciousness. The Map treats this as a structural feature of the territory — the [agency-void](/voids/agency-void/) — not a defect of the agent-causal view, and it is the reason the case for P-A1 rests on convergent structural anchors rather than on introspective proof. The position is meta-epistemic: it constrains *how* the agency case can be argued and caps the achievable confidence, rather than asserting anything about the world.
+- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade n/a (meta-epistemic) · structural centrality high (caps the achievable confidence of P-A1) · model maturity developed · empirical discriminability n/a (meta-epistemic) · framework-internal only: no
+- **Asserts**: The Map holds that no agent can certify its own causal efficacy by introspection, because every such check is performed by the faculty whose causal status is in question. This verification limit is symmetric: epiphenomenalism cannot verify itself either, since on that view the belief "consciousness is inert" was not caused by consciousness. The Map treats this as a standing limit on introspection — the [agency-void](/voids/agency-void/) — not a defect of the agent-causal view, and it is why the case for P-A1 rests on convergent structural anchors rather than introspective proof. Being meta-epistemic, it asserts nothing about the world: the void's fit with a self-concealing causal interface is framework-internal coherence, not evidence for one.
 - **Depends on**: the verification-circularity argument; [agency-void](/voids/agency-void/); honest accounting
 - **Argued in**: [agency-void](/voids/agency-void/), [agent-causation](/concepts/agent-causation/), [free-will](/topics/free-will/)
 - **Would shift if**: a non-circular method of verifying conscious causal efficacy from the first person were devised; or the symmetry with epiphenomenalism were shown to break (one side verifiable, the other not).
-- **Last reviewed**: 2026-06-08
+- **Updated 2026-08-22**: **Asserts** re-worded off the "feature of the territory" idiom; the 2026-08-13 void downgrade (`050d494acd`) demoted that reading to coherence-only. No calibration change.
+- **Last reviewed**: 2026-08-22
 
 ## P-A5: The agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power
 
