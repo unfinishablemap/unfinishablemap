@@ -403,9 +403,9 @@
   commissioned_at: '2026-08-21T06:09:41.516864+00:00'
   prompt_summary: 'Hypnagogia: multi-channel interface vs deflationary rivals'
   target_filename: outer-review-2026-08-21-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-22T00:23:52.843760+00:00'
   failure_reason: null
   prompt_text: 'Please act as a rigorous, sceptical external referee for The Unfinishable
     Map, a philosophy site at https://unfinishablemap.org developing an interactionist-dualist

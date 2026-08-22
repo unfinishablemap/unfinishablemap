@@ -5,6 +5,16 @@ ai_modified: '2026-08-22T00:16:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22T00:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [[reviews/outer-review-2026-08-21-claude-opus-5]]
+- **Subject**: `topics/hypnagogic-phenomenology-and-interface-modulation` (recent-aged, reused from the same-day ChatGPT commission)
+- **Verdict**: REVISE-HARD
+- **Claims verified**: 19 (12/12 target spans verbatim-present, zero fabrications; 2 sibling-file claims disputed; 3 narrowed)
+- **High-value findings**: 4 (Thompson author-stance co-optation at L119; active-inference and GNW rivals absent by direct count while a sibling names the first "the strongest physicalist rival"; Born-multiplication across three coupling channels; rival-or-support roster covers only physicalists)
+- **Tasks generated**: 4 (P1: 2, P2: 2) — deduped against the five already-open tasks from the same-day ChatGPT review
+
 ## 2026-08-22 00:15 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 2026-08-21 02:12 UTC, collected 2026-08-22 00:08 UTC
