@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T22:11:00+00:00'
+ai_modified: '2026-08-22T23:01:48+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 22:11:00+00:00
+lastmod: 2026-08-22 23:01:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T23:01:48+00:00 - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `obsidian/apex/medium-status-voids-in-cognition.md` (4701w, `soft_warning`, 299w under the apex 5000 hard ceiling). Selected as the first adversarial pass on an apex with twelve prior reviews (3 apex-evolve, 7 deep-review, 1 cross-review, 1 independence-scoring exhibit) and zero pessimistic ones.
+- **Primary finding (High)**: the article asserts at full strength a convergence claim that the Map's own scoring instrument graded **weak**. `project/medium-status-cluster-independence-scoring.md` — built specifically to score this cluster against a pre-registered rubric — returned **moderate / moderate / weak / weak**, with *cross-observer convergence* weak ("philosophically continuous... one lineage re-described") and *framework independence* weak ("the identification as a void of irreducibility depends on the Map's commitments"). Grep-verified live: the apex contains **zero** occurrences of `common-cause`, `independence-scoring`, `voids-as-evidence`, `coherence-inflation`, `evidential-status` or `P-V1`, and **zero of the eleven prior review files** mention the exhibit. The exhibit links to the apex; the apex links back to nothing. The 2026-07-19 deep review positively ratified the framing ("six-tradition structural-convergence hedges... all intact and correctly tiered").
+- **Second finding (High, internal)**: §"Six Traditions" closes each of the six with a concession that the medium-status reading is the Map's addition (Heidegger "would resist the cognitive-architecture register"; "the introspective-opacity gloss belongs to the Map"; "the dualist gloss is the Map's"; "Vervaeke's project is naturalist"), then §"What the Cluster Reveals" counts them as "six traditions with different premises arrive at the same circularity". The article also draws the Heidegger → Dreyfus → frame-problem → Vervaeke genealogy itself, ten lines before counting its endpoints as distinct.
+- **Counter-pressure recorded**: the exhibit is wrong in the other direction — it places Frankfurt's identity ethics inside the Continental phenomenological lineage, which the apex explicitly denies. Defensible figure is ~three lineages, not six and not one. The remediation is a reconciliation, not an import.
+- **Medium findings**: the same non-observation serves as both unmet falsifier (§"What Would Falsify", candidate 1) and positive confirmation (the "attenuation without elimination" asymmetry); altered-state symmetry audit passes checks 1–2 and fails check 3 (all symmetry markers measure 0; anaesthesia is recruited as supportive rather than engaged as the case the framing must accommodate).
+- **Checks run clean** (recorded so later passes skip them): no reasoning-mode label leakage, no boundary-substitution (the functionalist engagement is model honest boundary-marking), no epistemic/metaphysical equivocation beyond the graded medium item.
+- **Tasks queued**: 1 — P2 `refine-draft` on `obsidian/apex/medium-status-voids-in-cognition.md` covering all four issues in one pass (same file, adjacent sections; avoids same-file pileup), placed below the three existing live P2s so FIFO drains them first. Verified via `parse_tasks`/`task_to_skill`: parses as P2 / REFINE_DRAFT / correct `file_path` / dispatches to `refine-draft`. `count_p0_p2_tasks` 3 → 4.
+- **Deliberately not queued**: a `positions-evolve` adding this apex to P-V1's *Argued in* list — correct only *after* the refine lands, so it is carried as a follow-on instruction inside the refine task rather than as a separate item (pessimistic reviews are not mined by /harvest-research-subjects, so anything left as bare record is lost).
+- **Content modified**: none (reports-only skill honoured).
+- **Output**: [pessimistic-2026-08-22-medium-status-voids](/reviews/pessimistic-2026-08-22-medium-status-voids/)
 
 ## 2026-08-22T22:11:00+00:00 - refine-draft
 
