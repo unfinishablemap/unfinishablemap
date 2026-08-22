@@ -2852,28 +2852,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: the apex is `soft_warning` and near its ceiling — this fix is word-neutral (+0/-0). Print `analyze_length` live before editing; do not treat the visit as licence to expand.
   **MIRROR**: live at `hugo/content/apex/moral-architecture-of-consciousness.md`. Run `uv run python scripts/sync.py` and grep both trees. `ai_modified` from a live `date -u`, strictly past. **Hold `ai_system`** — a quote re-slice is correction, not authoring.
 
-### P2: `topics/interventionist-and-counterfactual-dualism` states the strict selection-only channel "statistically invisible" — its own source narrowed that claim on 2026-08-03 and the fix was never carried back
-
-- **Type**: refine-draft
-- **File**: obsidian/topics/interventionist-and-counterfactual-dualism.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-08-22 (The Rival-Route Wing), Concern 1
-- **Generated**: 2026-08-22
-- **Review file**: obsidian/reviews/optimistic-2026-08-22-rival-route-wing.md
-- **Notes**: **DATED WITH `git log -S` THIS SESSION — a real drift, not an asserted one.** Commit `1ab6b8a5bf` (2026-08-03 05:36 UTC, `auto(refine-draft): Born-marginal preservation does NOT entail zero mutual information — withdraw the selection-only causal budget until rederived`) narrowed the ensemble claim in `obsidian/concepts/selection-only-channel.md`. That article now reads (L153): *"per-trial difference-making (it fixes which single candidate is realised) yet **unconditioned-ensemble** difference-making-free (the marginal is Born-preserving, **though the conditionals need not be**)"*. This article has not been touched since **2026-07-25** (`git log -1` on the path) and still carries the pre-correction, unqualified wording.
-  **THREE LOCI, all in the obsidian source and mirrored in Hugo:**
-  - **L90** (the `#the-tenet-diagnostic` section, the article's central argument): *"yet *ensemble* difference-making-free: the long-run frequencies stay Born-exact, so it shifts no distribution and is statistically invisible."* → the invisibility is of the **unconditioned marginal** only.
-  - **L96** (Relation to Site Perspective): *"its strict selection-only reading is ensemble Born-preserving"*.
-  - **L106** (Further Reading gloss on `selection-only-channel`): *"per-trial difference-making, ensemble Born-preserving"*.
-  Hugo mirror carries the L90 wording at `hugo/content/topics/interventionist-and-counterfactual-dualism.md:94`.
-  **WHY IT SURVIVED — the `outbound-crosslink-sentences-are-never-reviewed-by-anyone` shape.** The 08-03 correction was written *into the corrected sibling's Further Reading entry naming this article by name* (`selection-only-channel` L153 is literally a gloss on this file). Nobody read it from this side. This article's `last_deep_review` of 2026-07-25 predates the correction by nine days, so its clean-review record is not evidence.
-  **THE FIX STRENGTHENS THE ARTICLE — DO NOT SOFTEN THE DIAGNOSTIC.** Under the corrected reading the strict channel is *less* statistically invisible than stated (conditioned on mind-state the statistics need not be Born-exact), which makes it *more* of a genuine difference-maker — and the article's whole Tenet-2 result is that Tenet 2 leans toward the co-causation family precisely because the channel is a per-trial difference-maker. The article is currently **under-claiming its own conclusion** by quoting a superseded characterisation. Restate the invisibility as unconditioned-marginal invisibility and let the diagnostic stand at full strength.
-  **CLEAN ON THE OTHER AXIS — do not chase this.** `selection-only-channel` L76 now carries a *Withdrawn* notice for the zero-throughput derivation ending *"no downstream page should treat this channel as having a known throughput."* This article makes **no** throughput, bit-rate or mutual-information claim. Nothing to fix there.
-  **VERIFIED CLEAN, do not re-litigate**: both internal quotations this article takes from `concepts/trumping-preemption` — *"a distinct and potentially competing mechanism to the trumping route rather than an instance of it"* and *"answering a question already closed"* — were re-grepped against that article's live body this session and match verbatim.
-  **ANCHORING**: this file carries `anchoring_audit_exempt: true` with an inline justification (*"verified false-high... calibrates structurally... refining would over-hedge and regress the voice"*). Honour it. Do **not** add hedge words; this is a precision fix, not a calibration-softening pass.
-  **LENGTH**: 2394w by `analyze_length` against `topics` soft 3000 / hard 4000 — `ok`, ample headroom, but keep the fix near length-neutral.
-  **MIRROR**: run `uv run python scripts/sync.py` and grep BOTH trees before reporting (`obsidian-only-fix-leaves-defect-live-in-hugo`). `ai_modified` from a live `date -u`, strictly past.
-
 ### P2: `concepts/pairing-problem` L146 closes its falsifier list with "Their non-occurrence supports the current approach" — the exact inference its own falsifier 3 forbids
 
 - **Type**: refine-draft
@@ -2934,11 +2912,31 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **SCOPE: the "unreplicated" characterisation only.** This is a one-line currency fix, not a re-argument. Do not overstate: Löwe does not overturn Cai et al. (2009), whose REM finding is untouched — Löwe's 20-minute nap protocol had no REM arm — and the corrected Lacaux framing at L104 (fifteen seconds as classification criterion, not dose) is already right and should be left alone.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
 
+### P3: `concepts/causal-closure` L146 may be the last residue of the 2026-08-03 unconditioned-marginal narrowing — verify before editing
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/causal-closure.md
+- **Source**: driver sweep after refine-draft (2026-08-22)
+- **Generated**: 2026-08-22
+- **Notes**: ⚠️ **A VERIFICATION QUESTION, NOT AN ASSERTED DEFECT — do not open by assuming one.** L146 (the epiphenomenalism-worry paragraph) reads: *"statistical invisibility applies to *aggregate* measurements across many quantum events, not to individual outcomes."* It does not distinguish **unconditioned** from **mind-conditioned** aggregation. Whether that is a defect depends on this paragraph's argumentative role, which differs from the articles already corrected — it is answering the epiphenomenalism objection, not stating the channel's signature.
+  **WHAT NARROWED, AND WHERE IT LANDED.** Commit `1ab6b8a5bf` (2026-08-03 05:36 UTC) narrowed `concepts/selection-only-channel`: Born-preservation constrains the **unconditioned marginal** only, leaving mind-conditioned distributions free. Corrected form, live at that article's L153: *"per-trial difference-making … yet unconditioned-ensemble difference-making-free (the marginal is Born-preserving, though the conditionals need not be)"*.
+  **THE NEIGHBOURHOOD IS OTHERWISE CONVERGED — this is the outlier, which is why it is worth a look.** `concepts/type-token-causation` L92 already uses the corrected *"unconditioned type-level frequencies"* form. On 2026-08-22 the same narrowing was carried into `topics/interventionist-and-counterfactual-dualism` (L90 ×2, L96, L106) and `concepts/ensemble-level-epiphenomenalism` (L52) — commit `73c91124`. A corpus grep for the retired string `ensemble Born-preserving` now returns **zero live-content hits** in all three trees, so this candidate is a *semantic* residue, not a string match.
+  **IF IT DOES NEED FIXING, THE CORRECTION RUNS WITH THE ARGUMENT.** Under the narrowed reading the channel is *less* statistically invisible, so it is *more* of a genuine difference-maker — which strengthens the reply to the epiphenomenalism worry rather than weakening it. Sharpen; do not hedge. Also check whether any "cannot be extracted from statistical data" phrasing nearby is now too strong, given that conditional residual-structure tests are the live empirical register.
+  **LEGITIMATE OUTCOMES**: (a) reword to distinguish unconditioned from conditioned aggregation; (b) judge the existing wording correct for this paragraph's role and record why. A bare "checked, no change needed" is not enough — say what you read.
+  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-22: `topics/interventionist-and-counterfactual-dualism` states the strict selection-only channel "statistically invisible" — its own source narrowed that claim on 2026-08-03 and the fix was never carried back
+- **Type**: refine-draft
+- **File**: obsidian/topics/interventionist-and-counterfactual-dualism.md
+- **Notes**: **DATED WITH `git log -S` THIS SESSION — a real drift, not an asserted one.** Commit `1ab6b8a5bf` (2026-08-03 05:36 UTC, `auto(refine-draft): Born-marginal preservation does NOT entail zero mutual information — withdraw the selection-only causal budget until rederived`) narrowed the ensemble claim in `obsidian/concepts/selection-only-channel.md`. That article now reads (L153): *"per-trial difference-making (it fixes which single candidate is realised) yet **unconditioned-ensemble** difference-making-free (the marginal is Born-preserving, **though the conditionals need not be**)"*. This article has not been touched since **2026-07-25** (`git log -1` on the path) and still carries the pre-correction, unqualified wording.
+  **THREE LOCI, all in the obsidian source and mirrored in Hugo:**
 
 ### ✓ 2026-08-22: `topics/incubation-effect-and-unconscious-processing` repeats the pre-correction Lacaux dose framing
 - **Type**: refine-draft

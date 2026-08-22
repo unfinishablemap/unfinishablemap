@@ -2910,6 +2910,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **SCOPE: the "unreplicated" characterisation only.** This is a one-line currency fix, not a re-argument. Do not overstate: Löwe does not overturn Cai et al. (2009), whose REM finding is untouched — Löwe's 20-minute nap protocol had no REM arm — and the corrected Lacaux framing at L104 (fifteen seconds as classification criterion, not dose) is already right and should be left alone.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
 
+### P3: `concepts/causal-closure` L146 may be the last residue of the 2026-08-03 unconditioned-marginal narrowing — verify before editing
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/causal-closure.md
+- **Source**: driver sweep after refine-draft (2026-08-22)
+- **Generated**: 2026-08-22
+- **Notes**: ⚠️ **A VERIFICATION QUESTION, NOT AN ASSERTED DEFECT — do not open by assuming one.** L146 (the epiphenomenalism-worry paragraph) reads: *"statistical invisibility applies to *aggregate* measurements across many quantum events, not to individual outcomes."* It does not distinguish **unconditioned** from **mind-conditioned** aggregation. Whether that is a defect depends on this paragraph's argumentative role, which differs from the articles already corrected — it is answering the epiphenomenalism objection, not stating the channel's signature.
+  **WHAT NARROWED, AND WHERE IT LANDED.** Commit `1ab6b8a5bf` (2026-08-03 05:36 UTC) narrowed `concepts/selection-only-channel`: Born-preservation constrains the **unconditioned marginal** only, leaving mind-conditioned distributions free. Corrected form, live at that article's L153: *"per-trial difference-making … yet unconditioned-ensemble difference-making-free (the marginal is Born-preserving, though the conditionals need not be)"*.
+  **THE NEIGHBOURHOOD IS OTHERWISE CONVERGED — this is the outlier, which is why it is worth a look.** `concepts/type-token-causation` L92 already uses the corrected *"unconditioned type-level frequencies"* form. On 2026-08-22 the same narrowing was carried into `topics/interventionist-and-counterfactual-dualism` (L90 ×2, L96, L106) and `concepts/ensemble-level-epiphenomenalism` (L52) — commit `73c91124`. A corpus grep for the retired string `ensemble Born-preserving` now returns **zero live-content hits** in all three trees, so this candidate is a *semantic* residue, not a string match.
+  **IF IT DOES NEED FIXING, THE CORRECTION RUNS WITH THE ARGUMENT.** Under the narrowed reading the channel is *less* statistically invisible, so it is *more* of a genuine difference-maker — which strengthens the reply to the epiphenomenalism worry rather than weakening it. Sharpen; do not hedge. Also check whether any "cannot be extracted from statistical data" phrasing nearby is now too strong, given that conditional residual-structure tests are the live empirical register.
+  **LEGITIMATE OUTCOMES**: (a) reword to distinguish unconditioned from conditioned aggregation; (b) judge the existing wording correct for this paragraph's role and record why. A bare "checked, no change needed" is not enough — say what you read.
+  **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
