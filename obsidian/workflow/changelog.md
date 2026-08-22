@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T10:57:05+00:00'
+ai_modified: '2026-08-22T11:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+
+## 2026-08-22 11:22 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: 2020s sleep-onset literature the hypnagogia article predates
+- **Output**: [[research/sleep-onset-literature-2020s-hypnagogia-2026-08-22]]
+- **Sources consulted**: 15 verified (Crossref REST, EuropePMC, publisher pages; one primary PDF read in full)
+- **Hori stage count settled: NINE.** Confirmed via Tanaka, Hayashi & Hori (1996) *Sleep* 19(9) ("nine hypnagogic EEG stages", named by index) and Biabani et al. (2023) *J. Thoracic Disease* 15(8) ("nine EEG-based sequential stages", citing Hori et al. 1994 directly). The "ten" claim traces to Biabani et al. (2026) *npj Biol. Timing & Sleep*, which says "the standard 10-stage system" while citing the two nine-stage sources — and whose own first and senior authors published the nine-stage description in 2023. Not two schemes; one paper's error. The 1994 chapter's own text was **not** reachable (PsycNet serves a JS shell), so this rests on secondary attestation; the chapter's DOI was recovered: `10.1037/10166-014`.
+- **Two live claims in the target article are now stale.** (a) Lacaux et al. (2021) is described as "awaiting replication" — a preregistered conceptual replication ran and **found no N1 effect**: Löwe, Petzka, Tzegka & Schuck (2025), *PLOS Biology* 23, e3003185 (N=90; N1 vs Wake p=0.75; N2 vs Wake p=0.038). Deeper sleep, not the boundary state, carried the insight effect. Conference full text read directly for the statistics. (b) Decat et al. (2026) — booked "unverified, not refuted" by a prior pass — is **real and now indexed**: *Cell Reports* 45, 117237, "Dream-like mental states can occur during wakefulness"; the same phenomenological clusters occur across wake, N1 and N2, which loosens the stage-indexing the article's staged-disengagement reading assumes.
+- **Metadata corrections carried into the note**: Ghibellini & Meier is both 2022 (online-first) and 2023 (issue 32(1)) — two conventions, not an error; Lacaux et al. (2024) has **four** authors (Oudiette omitted in the brief); Nielsen is two distinct works (covert REM 2000, microdreams 2017); Filevich et al. (2015) DOI is `10.1523/JNEUROSCI.3342-14.2015` and it is a lucid-dreaming paper, not sleep-onset; Biabani et al. (2026) is a 48-pair clinical pilot on narcolepsy/iRBD/parasomnia/fibromyalgia with database-drawn controls, so it cannot be cited for general sleep-onset structure.
+- **Already covered, recorded so downstream refines stop re-proposing it**: local sleep (Andrillon 3 mentions, named as the strongest rival), the yoga-nidra state-verification control (Datta 2), Hori microstaging, Haar Horowitz, Tal, Stickgold. Dendritic Integration Theory excluded — it has its own task.
+- **Length constraint verified live**: target is 3786w against the topics hard gate of 4000 (`analyze_length`, thresholds 3000/4000/6000). 214 words of headroom. The note ranks the recommended edits so the two word-neutral corrections land first and the costed additions are flagged blocked.
+- No commit; todo.md untouched.
 
 ## 2026-08-22 10:57 UTC - refine-draft
 
