@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-21T23:12:32+00:00'
+ai_modified: '2026-08-22T00:16:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 00:15 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), commissioned 2026-08-21 02:12 UTC, collected 2026-08-22 00:08 UTC
+- **File**: [[reviews/outer-review-2026-08-21-chatgpt-5-6-pro]]
+- **Subject**: [[topics/hypnagogic-phenomenology-and-interface-modulation]] (recent-aged fallback)
+- **Collection**: 40,117-char body extracted via js-dom walk and pulled out through a page-side Blob download rather than chunked reads; SHA-256 verified byte-for-byte against the page (`73f2964a...`), so the body is provably complete, not truncated.
+- **Claims verified**: 16 (8/8 target-article spans grep-confirmed present; 4 positions-register quotations confirmed verbatim; Stickgold 2000 abstract retrieved at primary source via EuropePMC; 3 of 4 "missing literature" citations confirmed real)
+- **Verification headline**: **this review fabricated nothing.** Every span it attributed to a Map article is genuinely present, and its readings of P-M1, P-M2, P-CS4 and P-A1 are accurate to the register's wording — a marked departure from the fabricated-target-quote failure mode of several prior outer reviews.
+- **High-value findings**: 5
+  1. **Internal contradiction, in the lead** (verified). The lead says "Reality-monitoring disengages before agency dissolves"; the body says the reverse twice. The article contradicts itself on the very ordering it presents as revealing interface architecture.
+  2. **Stickgold paraphrase overstatement** (verified at primary source). *Science* 2000 says imagery "may arise without important contribution from the declarative memory system"; the article says "independent of declarative memory" — a hedged partial-contribution claim converted to categorical independence.
+  3. **Register conflict on the quantum mapping** (verified). P-CS4 states the sleep/dreaming interface reading depends on "the bare-dualism spine plus the filter model, *not* the quantum apparatus"; the article maps hypnagogia onto specific quantum coupling modes.
+  4. **Register conflict on agency** (verified). P-A1 concedes deliberative phenomenology "settles nothing"; the article infers collapse-over-branching from felt agency.
+  5. **Self-citation loop** (partly verified). coupling-modes ↔ hypnagogia cite each other as evidence with no external discriminating observation — exactly what P-M2's self-citation rule forbids.
+- **Corrections applied to the reviewer's own citations**: Ghibellini & Meier is **2022** in OpenAlex, not 2023; Biabani et al. 2026 is in ***npj Biological Timing and Sleep***, not "Nature". Decat et al. 2026 could not be confirmed via OpenAlex or Crossref and is booked as **unverified, not refuted** (index lag; the author is real and active in this exact area). One source the reviewer missed was added: Lacaux, Strauss & Bekinschtein, "Embracing sleep-onset complexity", *Trends in Neurosciences* 2024.
+- **Findings declined**: the reviewer's methodology proposal #17 (automatic self-citation-cycle detection) duplicates an existing named countermeasure (Circular Citation Detection, Countermeasure 5 in [[project/coherence-inflation-countermeasures]]); recorded in the task notes so it is not re-minted as tooling work.
+- **Tasks generated**: 5 (P1: 1, P2: 4). Deliberately few — the Claude and Gemini legs for 2026-08-21 audit the same subject and are still pending, so [[workflow/todo|queue]] pileup on one file was avoided and overlap is left to /combine-outer-reviews. All five carry `Source: outer-review` and are correctly deferred by the selector until that synthesis runs.
+- **Published**: yes
 
 ## 2026-08-21 23:40 UTC - deep-review
 - **Status**: Success
