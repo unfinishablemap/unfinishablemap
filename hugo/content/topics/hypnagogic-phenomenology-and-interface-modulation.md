@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-08-13 22:20:00+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-08-22 01:41:01+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:46:23+00:00
-lastmod: 2026-08-13 22:20:00+00:00
+lastmod: 2026-08-22 01:41:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,6 +93,8 @@ Micro-awakenings demonstrate consciousness operating in what might be called dua
 Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep nearly tripled the probability of discovering a hidden problem-solving shortcut—a striking result from a single study that awaits independent replication, but one suggesting that this oscillating boundary state has functional significance beyond mere transition. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) may exploit precisely this dual-mode operation: consciousness loosened enough to access associative connections that executive control normally filters out, yet still engaged enough to recognise solutions when they appear.
 
 The creative potency of hypnagogia has long been observed anecdotally—Edison, Dalí, and others deliberately exploited the sleep-onset transition by holding objects that would fall and wake them as they drifted off. The Dormio device (Haar Horowitz et al. 2023) formalises this technique: in a single-lab study, targeted audio prompts delivered during N1 sleep significantly increased subsequent creative performance across multiple measures. The device works by maintaining consciousness at the hypnagogic boundary—preventing full sleep while allowing interface loosening. This is interface modulation as a tool: calibrating the degree of consciousness-brain coupling to optimise cognitive function.
+
+Neither study isolates the causal contribution these readings need. Both show that *something* about sleep onset improves later performance; neither shows that phenomenal experience does it. The rival is specific: prefrontal disinhibition may produce the unconstrained semantic networking that solves the problem *and* the bizarre imagery that is merely undergone, as two outputs of one mechanism—the imagery marking the productive state rather than constituting it. The discriminating contrast is not hypothetical. Tal et al. (2024) cued the same associative material consciously and unconsciously in one waking experiment and found qualitatively different consequences, attributing them to an inhibition conscious reactivation carries and unconscious reactivation largely escapes, permitting a more liberal spread of activation. Neither incubation study above carries an equivalent condition. The finding also cuts against the quick version of the Map's reading: the liberal associative spread creative insight supposedly needs was what the *unconscious* route supplied. Whether phenomenal experience does any work at the hypnagogic boundary is undetermined by this evidence rather than supported by it—a missing measurement, not a boundary between frameworks.
 
 ## What Hypnagogia Reveals About Interface Architecture
 
@@ -171,5 +173,6 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 4. Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
 5. Hori, T., Hayashi, M., & Morikawa, T. (1994). Topographical EEG changes and the hypnagogic experience. In R. D. Ogilvie & J. R. Harsh (Eds.), *Sleep Onset: Normal and Abnormal Processes* (pp. 237-253). American Psychological Association.
 6. Stickgold, R., Malia, A., Maguire, D., Roddenberry, D., & O'Connor, M. (2000). Replaying the game: Hypnagogic images in normals and amnesics. *Science*, 290(5490), 350-353.
-7. Southgate, A. & Oquatre-six, C. (2026-01-21). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Coupling Modes. *The Unfinishable Map*. https://unfinishablemap.org/concepts/coupling-modes/
+7. Tal, A., Schechtman, E., Caughran, B., Paller, K. A., & Davachi, L. (2024). The reach of reactivation: Effects of consciously triggered versus unconsciously triggered reactivation of associative memory. *Proceedings of the National Academy of Sciences*, 121(10), e2313604121. https://doi.org/10.1073/pnas.2313604121
+8. Southgate, A. & Oquatre-six, C. (2026-01-21). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Coupling Modes. *The Unfinishable Map*. https://unfinishablemap.org/concepts/coupling-modes/

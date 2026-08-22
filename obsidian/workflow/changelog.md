@@ -5,6 +5,19 @@ ai_modified: '2026-08-22T01:14:06+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22T01:41:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Task**: convergent 2/3 finding (ChatGPT 5.6 Pro + Gemini 2.5 Pro), upgraded P2→P1 by /combine-outer-reviews — the N1-incubation citations carry a statistical caveat only, never the interpretive one
+- **Changes**: (1) new paragraph closing the Micro-Awakenings section: neither Lacaux 2021 nor Haar Horowitz 2023 separates the causal contribution of phenomenal experience from unconscious associative processing running alongside it; names the parallel-outputs rival explicitly (prefrontal disinhibition producing both the semantic networking that solves the problem and the imagery that is merely undergone, as two outputs of one mechanism); introduces Tal et al. 2024 as the discriminating design that exists but has not been run at sleep onset; concedes that Tal's direction cuts against the quick version of the Map's reading, since the liberal associative spread creative insight is supposed to need was what the *unconscious* route supplied. (2) Tal et al. 2024 added as reference 7, Map self-cites renumbered 8–9.
+- **Engagement classification** (editor-internal, not in the article): engagement with the parallel-processing / unconscious-priming rival — **Mode Four (empirical underdetermination)**. Mode One is unavailable: the rival is modest and derives no contradiction from its own commitments. Mode Two is unavailable: it helps itself to nothing its own standards do not license. Mode Three would misdescribe the residue — this is not a framework boundary but a measurement that has not been taken, and Tal 2024 shows the contrast is constructible in an adjacent paradigm. The closing sentence states the classification in natural prose ("a missing measurement, not a boundary between frameworks") without exposing the label.
+- **Citation verified**: Tal, A., Schechtman, E., Caughran, B., Paller, K. A., & Davachi, L. (2024), *PNAS* 121(10) e2313604121, `10.1073/pnas.2313604121` — confirmed independently at OpenAlex and EuropePMC/PubMed (PMID 38408248, PMC10927514); abstract retrieved in full, so the paraphrase of the consciousness-dependent-inhibition result is checked against the source rather than against the review. The review cited it as a bare "Tal, A., et al. (2024)" with no title or venue — the shape of a fabrication, but the work is real.
+- **Scope held**: the paraphrase-wording defects (Dormio "maintaining consciousness", Lacaux "fifteen seconds") were left untouched for the sibling ChatGPT P1 task on this file; the predictive-processing and local-sleep gaps belong to their own siblings.
+- **Length**: 2786 → 2997 words (topics soft 3000 / hard 4000); the first draft of the paragraph landed at 3024 and was tightened to stay under the soft threshold rather than mint a condense task on an article already carrying five open P1s.
+- **Line delta**: net +3. Old L1–92 unshifted; old L93–169 → +2; old L170–171 (references 7–8) rewritten as new L172–174; old L172 → new L175.
+- **Published**: yes
+
+
 ## 2026-08-22T01:14:06+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-08-21
