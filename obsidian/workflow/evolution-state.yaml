@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-22T22:13:57.792142+00:00'
-session_count: 19491
+last_updated: '2026-08-22T22:30:47.621291+00:00'
+session_count: 19492
 cycle_position: 12893
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-22T21:38:27.987579+00:00'
+  agentic-social: '2026-08-22T22:38:25.851064+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
   check-model-fallback: '2026-08-22T21:22:41.372746+00:00'
@@ -35,7 +31,7 @@ last_runs:
   pessimistic-review: '2026-08-22T10:49:09.161262+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-22T22:13:57.792142+00:00'
-  replenish-queue: '2026-08-22T20:42:30.806949+00:00'
+  replenish-queue: '2026-08-22T22:30:47.621291+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-22'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-22'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -851,64 +847,71 @@ agentic_social:
     - delegatory-dualism
     - chinese-philosophy-of-mind
     - indigenous-australian-philosophy-of-consciousness
+  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    date: '2026-08-22T22:38:25.851016+00:00'
+    topics:
+    - attention-and-the-consciousness-interface
+    - structure-of-attention
+    - phenomenology-of-returning-attention
 queue_status:
   last_replenishment: '2026-08-22T22:27:36.681906+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, fourth consecutive run of this shape.
-    Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured from disk
-    after the write == 3, and total active stayed at 59 because a promotion moves a task
-    between bands rather than adding one. The queue held 59 active of which 57 were P3, so
-    the floor was unmet behind a deep-looking queue -- the at-floor alternation runs 998,
-    999 and 1000 recorded, not a fault. PROMOTION CHOSEN OVER MINTING because 56 already-
-    vetted P3 tasks remain starved and every mint source measured empty or blocked.
-    PROMOTED: the P3 on obsidian/topics/philosophy-of-action-under-dualism.md, a refine-
-    draft installing the philosophy-of-action-under-dualism to wholeheartedness-void cross-
-    link (transition-half vs state-half of one interactionist story). RIPENESS EVIDENCE re-
-    verified live rather than inherited: grep -c -i wholeheartedness returns 0 in BOTH
-    obsidian/topics/philosophy-of-action-under-dualism.md and
-    hugo/content/topics/philosophy-of-action-under-dualism.md, and grep -c philosophy-of-
-    action-under-dualism returns 0 in obsidian/voids/wholeheartedness-void.md, so the zero-
-    links-either-direction premise holds in both trees; both endpoints and the source review
-    obsidian/reviews/optimistic-2026-08-20-agency-self-wing.md exist on disk; analyze_length
-    gives 2556 words against topics soft 3000 and hard 4000, status ok, so the one-sentence
-    scope fits without a length trade; target ai_modified is 2026-08-21 so it is NOT in the
-    2026-08-22 churn set; scope is one file only and requires no operator judgement, and the
-    note already forbids touching wholeheartedness-void because the voids-fold task owns the
-    reciprocal link. CANDIDATES INSPECTED AND REJECTED: the six-broken-research-links entry
-    and the archive autonoetic quote entry are both marked kept-at-P3-deliberately by prior
-    audits; the Hirsch quote entry is blocked on primary-text access with every named route
-    exhausted; the theory-of-mind falsifier import is conditional on a length decision the
-    loop must not take. MAJOR FINDING, RECORDED IN THE TASK: the P3 minted today titled two
-    hugo/content files carry a broken tenet link is FALSE IN EVERY CLAIM and must not be
-    executed. Its evidence rested on two greps that could not see their targets. First, the
-    sources contain 0 occurrences of occams was case-and-apostrophe-blind -- the sources
-    carry the heading-form wikilink tenets hash Occam-apostrophe-s Razor Has Limits at
-    heterophenomenology L150 and microphenomenological-interview-method L149, which sync
-    slugifies to /tenets/hash-occams-razor-has-limits, so the Hugo copies are faithful
-    translations of live source and there is no divergence. Second, the anchor target does
-    not exist was measured on the wrong surface: Hugo generates heading ids at render time,
-    so a grep of the markdown can never find them, and the built page
-    hugo/public/tenets/index.html does carry h2 id=occams-razor-has-limits -- emitted
-    UNQUOTED, so a grep for id=quote-occams-razor-has-limits-quote also returns 0 and
-    falsely looks like confirmation. The link resolves to Tenet 5 and always did. The locus
-    count was short in the archive direction too: counted with the exact string open-paren
-    /tenets/hash-occams-razor-has-limits close-paren, FOUR published pages carry it, not two
-    -- heterophenomenology 1, microphenomenological-interview-method 1,
-    archive/concepts/microphenomenological-interview 1, archive/topics/mysterianism-
-    cognitive-closure 3, plus one review echo. All four are correct links. What remains true
-    is that the e8b4d102 repair was real: the BLOCK-anchor spelling hash-caret-occams-razor-
-    has-limits does not exist, while the HEADING form is a second valid convention that must
-    not be fixed to match. The entry is kept at P3 and annotated with a STOP block per the
-    2026-08-18 precedent, with a recommendation to close it as a false finding. SOURCES
-    CHECKED AND FOUND EMPTY OR BLOCKED, taken from the driver measurements and not re-
-    derived: expand-topic structurally blocked with topics 320/320 at cap, concepts 318/320,
-    voids 99/100, positions 16/80, and the three free slots already oversubscribed by six
-    open research-topic tasks; research harvest drained at 774 of 774 mine-eligible reviews
-    scanned; orphans 0; critical issues 0; replenishment_config is None and task_chains is
-    not modelled on EvolutionState, so no chain state was reported that could not be read.
-    EDIT SHAPE: the priority marker was changed in place and a Promoted line appended, and a
-    correction block was inserted into the refuted P3 -- both edits sit below every other
-    live task heading, and the post-write parse was re-run to confirm 3 P2 and 56 P3.'
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, fourth
+    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
+    3; post-count re-measured from disk after the write == 3, and total active stayed
+    at 59 because a promotion moves a task between bands rather than adding one. The
+    queue held 59 active of which 57 were P3, so the floor was unmet behind a deep-looking
+    queue -- the at-floor alternation runs 998, 999 and 1000 recorded, not a fault.
+    PROMOTION CHOSEN OVER MINTING because 56 already- vetted P3 tasks remain starved
+    and every mint source measured empty or blocked. PROMOTED: the P3 on obsidian/topics/philosophy-of-action-under-dualism.md,
+    a refine- draft installing the philosophy-of-action-under-dualism to wholeheartedness-void
+    cross- link (transition-half vs state-half of one interactionist story). RIPENESS
+    EVIDENCE re- verified live rather than inherited: grep -c -i wholeheartedness
+    returns 0 in BOTH obsidian/topics/philosophy-of-action-under-dualism.md and hugo/content/topics/philosophy-of-action-under-dualism.md,
+    and grep -c philosophy-of- action-under-dualism returns 0 in obsidian/voids/wholeheartedness-void.md,
+    so the zero- links-either-direction premise holds in both trees; both endpoints
+    and the source review obsidian/reviews/optimistic-2026-08-20-agency-self-wing.md
+    exist on disk; analyze_length gives 2556 words against topics soft 3000 and hard
+    4000, status ok, so the one-sentence scope fits without a length trade; target
+    ai_modified is 2026-08-21 so it is NOT in the 2026-08-22 churn set; scope is one
+    file only and requires no operator judgement, and the note already forbids touching
+    wholeheartedness-void because the voids-fold task owns the reciprocal link. CANDIDATES
+    INSPECTED AND REJECTED: the six-broken-research-links entry and the archive autonoetic
+    quote entry are both marked kept-at-P3-deliberately by prior audits; the Hirsch
+    quote entry is blocked on primary-text access with every named route exhausted;
+    the theory-of-mind falsifier import is conditional on a length decision the loop
+    must not take. MAJOR FINDING, RECORDED IN THE TASK: the P3 minted today titled
+    two hugo/content files carry a broken tenet link is FALSE IN EVERY CLAIM and must
+    not be executed. Its evidence rested on two greps that could not see their targets.
+    First, the sources contain 0 occurrences of occams was case-and-apostrophe-blind
+    -- the sources carry the heading-form wikilink tenets hash Occam-apostrophe-s
+    Razor Has Limits at heterophenomenology L150 and microphenomenological-interview-method
+    L149, which sync slugifies to /tenets/hash-occams-razor-has-limits, so the Hugo
+    copies are faithful translations of live source and there is no divergence. Second,
+    the anchor target does not exist was measured on the wrong surface: Hugo generates
+    heading ids at render time, so a grep of the markdown can never find them, and
+    the built page hugo/public/tenets/index.html does carry h2 id=occams-razor-has-limits
+    -- emitted UNQUOTED, so a grep for id=quote-occams-razor-has-limits-quote also
+    returns 0 and falsely looks like confirmation. The link resolves to Tenet 5 and
+    always did. The locus count was short in the archive direction too: counted with
+    the exact string open-paren /tenets/hash-occams-razor-has-limits close-paren,
+    FOUR published pages carry it, not two -- heterophenomenology 1, microphenomenological-interview-method
+    1, archive/concepts/microphenomenological-interview 1, archive/topics/mysterianism-
+    cognitive-closure 3, plus one review echo. All four are correct links. What remains
+    true is that the e8b4d102 repair was real: the BLOCK-anchor spelling hash-caret-occams-razor-
+    has-limits does not exist, while the HEADING form is a second valid convention
+    that must not be fixed to match. The entry is kept at P3 and annotated with a
+    STOP block per the 2026-08-18 precedent, with a recommendation to close it as
+    a false finding. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED, taken from the driver
+    measurements and not re- derived: expand-topic structurally blocked with topics
+    320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three
+    free slots already oversubscribed by six open research-topic tasks; research harvest
+    drained at 774 of 774 mine-eligible reviews scanned; orphans 0; critical issues
+    0; replenishment_config is None and task_chains is not modelled on EvolutionState,
+    so no chain state was reported that could not be read. EDIT SHAPE: the priority
+    marker was changed in place and a Promoted line appended, and a correction block
+    was inserted into the refuted P3 -- both edits sit below every other live task
+    heading, and the post-write parse was re-run to confirm 3 P2 and 56 P3.'
   last_replenishment_run: 1001
   loop_pickable_open: 3
   needs_replenishment: false
