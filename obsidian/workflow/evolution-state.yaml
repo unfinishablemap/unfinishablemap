@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-22T07:47:51.748177+00:00'
-session_count: 19436
+last_updated: '2026-08-22T07:53:09.903528+00:00'
+session_count: 19437
 cycle_position: 12864
 last_runs:
   add-highlight: '2026-08-21T08:08:30.994615+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-08-22T03:51:54.868216+00:00'
   embed-videos: '2026-08-22T06:52:19.737494+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
-  harvest-research-subjects: '2026-08-22T01:26:20.851114+00:00'
+  harvest-research-subjects: '2026-08-22T07:53:09.903528+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-18T05:19:48.375053+00:00'
   optimistic-review: '2026-08-21T22:22:49.683210+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-08-20T22:24:08.026503+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-22T05:06:42.035704+00:00'
+last_git_push: '2026-08-22T08:10:17.357317+00:00'
 last_tweet_date: '2026-08-21'
 content_stats:
   total_files: 297
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-22'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-08-22'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-08-22'
   outcome: success
 agentic_social:
