@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T23:08:36+00:00'
+ai_modified: '2026-08-22T23:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T23:26:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/tenet-falsification-conditions]]
+- **Also modified**: [[topics/falsification-roadmap-for-the-interface-model]], [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Defect (check-tenets 2026-08-22 Warning 1, an over-concession)**: three live loci inferred loss of *outcome indeterminacy* from impossibility of *coherence*, conceding a decisive falsifier that `tenets.md` L73 expressly denies — "Decoherence does not tell how and why only one of these outcomes is measured." Post-decoherence selection is constructed to survive loss of coherence, so a coherence result cannot be the shared floor beneath every reading of Tenet 2.
+- **Fix, concept page L40**: the coherence condition is rescoped to the readings that require sustained coherence; a link to `tenets#^minimal-quantum-interaction` carries the Map's own statement that suppressing superposition does not settle the outcome. A genuine shared floor is then stated rather than deleted — *no quantum indeterminacy is ever amplified to make a difference to a neural outcome* — with the honest rider that this is a claim about amplification chains rather than coherence lifetimes, is harder than the coherence claim, and no single experiment supplies it, so it sits nearer the cumulative end of the spectrum than the decisive one.
+- **Fix, concept page Tenet 2 entry**: "What would count" made reading-relative — the coherence proof forecloses the coherence-dependent readings; the classical-noise proof reaches further because it removes the indeterminacy the selection-only readings need.
+- **Fix, roadmap L79/L81**: the *Decisive (for all readings)* coherence row is relabelled *Decisive (coherence-dependent readings only)* and names what it forecloses (Orch-OR, Fröhlich) and what it does not (selection-only). The former *Strong (for all readings)* indeterminacy row is promoted to the genuine shared floor, labelled *Decisive for every reading, though not by any single experiment*.
+- **Fix, psychophysical-laws L218**: same shape found by corpus grep and fixed in scope — "decoherence so rapid and complete that no quantum indeterminacy survives" replaced with the amplification formulation, plus one clause noting rapid decoherence alone will not do it. This file links to `tenet-falsification-conditions` directly, so leaving it would have been a visible inconsistency.
+- **Deliberately not done**: Tenet 2's genuine exposure was not softened to compensate. The mechanism-committed readings keep their sharp falsifiers; only the scope of the coherence condition changed.
+- **Length, measured with `analyze_length`**: `tenet-falsification-conditions` 1886 → **2030w** `ok` (1470 under the concepts hard gate). `falsification-roadmap-for-the-interface-model` 4044 → **3967w**, `hard_warning` → **`soft_warning`** — it entered this pass 44 words *over* the 4000 topics hard gate, so the correction was made net-reducing by condensing two genuine duplications: the `brain-internal-born-rule-testing` section restated the strict-corridor bullet almost in full, and the closing three-readings paragraph restated the falsification conditions the bullets above already give. One "load-bearing" intensifier removed en route (writing-style). `psychophysical-laws-bridging-mind-and-matter` 3407 → 3432w, `soft_warning` unchanged.
+- **Verification**: corpus grep over `obsidian/`, `archive/` and `hugo/content/` finds no surviving live-article instance of the conflation; remaining hits are `reviews/` and `workflow/` echoes of the pre-fix wording, plus archive articles whose phrasing is about indeterminacy rather than coherence and is already correct. `scripts/sync.py` run and both trees grepped; the `tenets#^minimal-quantum-interaction` anchor converts to `/tenets/#minimal-quantum-interaction`, which resolves to a real span id in `hugo/content/tenets/_index.md`. All three files pass `scripts/validate.py`.
+- **Frontmatter**: `ai_modified` bumped on all three; `ai_system` on `psychophysical-laws-bridging-mind-and-matter` extended to `claude-opus-4-6+claude-opus-5`. `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-08-22T23:08:36+00:00 - refine-draft
 

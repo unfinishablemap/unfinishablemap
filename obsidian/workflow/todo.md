@@ -2857,22 +2857,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LEGITIMATE OUTCOMES**: (a) reword to distinguish unconditioned from conditioned aggregation; (b) judge the existing wording correct for this paragraph's role and record why. A bare "checked, no change needed" is not enough — say what you read.
   **MIRROR**: edit `obsidian/`, then `uv run python scripts/sync.py`, and grep both trees. `ai_modified` from a live `date -u`, strictly past.
 
-### P2: `concepts/tenet-falsification-conditions` L40 concedes a decisive falsifier for Tenet 2 that `tenets.md` itself denies — coherence conflated with indeterminacy
-
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/tenet-falsification-conditions.md
-- **Source**: check-tenets 2026-08-22 (Warning 1)
-- **Generated**: 2026-08-22
-- **Review file**: `reviews/tenet-check-2026-08-22.md`
-- **Notes**: **THE DEFECT, both loci grep-verified live 2026-08-22.** L40 reads: *"One condition is **decisive for every reading**—if quantum **coherence** were shown to be physically impossible in all biological neural systems, no quantum **indeterminacy** would remain for consciousness to exploit and the Minimal Quantum Interaction tenet would fail."* That inference conflates **coherence** with **indeterminacy**. `tenets/tenets.md` **L73** says the opposite in the Map's own voice: *"**Decoherence leaves the outcome problem open.** Decoherence does not solve the measurement problem… after the basis is chosen and quantum superpositions are suppressed, the system still requires selection."* Post-decoherence selection is **expressly built to survive loss of coherence**, so as written the article concedes a decisive falsifier the Map's own framework denies.
-  ⚠️ **THIS IS AN OVER-CONCESSION — the direction that gets ratified rather than caught.** It runs *against* the Map, so it reads as admirable honesty and collects endorsements instead of objections. Do **not** "balance" it by weakening Tenet 2's genuine exposure; the fix is precision about *which* claim the falsifier reaches.
-  **IT WAS WRITTEN 2026-08-21 22:43 BY A PASS INTENDED TO FIX THE OPPOSITE PROBLEM.** Commit `682d7a1d5c`'s own message is *"`concepts/tenet-falsification-conditions` flattens Tenet 2 into 'd[ecisive]'"*. That pass correctly added *"its readings have materially different falsifiability profiles and should not be flattened into a single condition"* — and then reinstated a flattened shared floor one sentence later. **The pass moved the flattening rather than removing it**; read L40 whole before editing.
-  **PROPAGATION — one further live locus, verified.** `topics/falsification-roadmap-for-the-interface-model` **L79**: *"*Decisive (for all readings)*: Demonstration that quantum coherence is physically impossible… If no quantum indeterminacy exists in neural tissue for consciousness to exploit, every reading of the tenet fails."* Same conflation, and it is the likely source of L40's wording. **Fix both or say why not** — a same-string sibling left live re-seeds the defect. (A third instance reported at L68 of that file is a line-number slip: L68 is blank.)
-  **WHAT THE CORRECTED CLAIM LOOKS LIKE.** A demonstration that *coherence* is impossible would defeat readings that require sustained coherence; it would **not** by itself remove outcome indeterminacy, which is what selection-only exploits. Route the surviving shared floor, if any, through what `tenets.md` L73 actually licenses.
-  **LENGTH**: check with `analyze_length` before planning; `concepts/` is 2500 soft / 3500 hard.
-  **MIRROR**: edit `obsidian/`, run `uv run python scripts/sync.py`, grep both trees. `ai_modified` from a live `date -u`, strictly past.
-
 ### P2: `concepts/mine-ness` quotes Parnas & Zahavi 1998 verbatim twice but the work is absent from References — resolve the byline, then add the entry
 - **Type**: refine-draft
 - **Status**: pending
@@ -2951,6 +2935,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-22: `concepts/tenet-falsification-conditions` L40 concedes a decisive falsifier for Tenet 2 that `tenets.md` itself denies — coherence conflated with indeterminacy
+- **Type**: refine-draft
+- **File**: obsidian/concepts/tenet-falsification-conditions.md
+- **Notes**: **THE DEFECT, both loci grep-verified live 2026-08-22.** L40 reads: *"One condition is **decisive for every reading**—if quantum **coherence** were shown to be physically impossible in all biological neural systems, no quantum **indeterminacy** would remain for consciousness to exploit and the Minimal Quantum Interaction tenet would fail."* That inference conflates **coherence** with **indeterminacy**. `tenets/tenets.md` **L73** says the opposite in the Map's own voice: *"**Decoherence leaves the outcome problem open.** Decoherence does not solve the measurement problem… after the basis is chosen and quantum superpositions are suppressed, the system still requires selection."* Post-decoherence selection is **expressly built to survive loss of coherence**, so as written the article concedes a decisive falsifier the Map's own framework denies.
+  ⚠️ **THIS IS AN OVER-CONCESSION — the direction that gets ratified rather than caught.** It runs *against* the Map, so it reads as admirable honesty and collects endorsements instead of objections. Do **not** "balance" it by weakening Tenet 2's genuine exposure; the fix is precision about *which* claim the falsifier reaches.
+  **IT WAS WRITTEN 2026-08-21 22:43 BY A PASS INTENDED TO FIX THE OPPOSITE PROBLEM.** Commit `682d7a1d5c`'s own message is *"`concepts/tenet-falsification-conditions` flattens Tenet 2 into 'd[ecisive]'"*. That pass correctly added *"its readings have materially different falsifiability profiles and should not be flattened into a single condition"* — and then reinstated a flattened shared floor one sentence later. **The pass moved the flattening rather than removing it**; read L40 whole before editing.
+  **PROPAGATION — one further live locus, verified.** `topics/falsification-roadmap-for-the-interface-model` **L79**: *"*Decisive (for all readings)*: Demonstration that quantum coherence is physically impossible… If no quantum indeterminacy exists in neural tissue for consciousness to exploit, every reading of the tenet fails."* Same conflation, and it is the likely source of L40's wording. **Fix both or say why not** — a same-string sibling left live re-seeds the defect. (A third instance reported at L68 of that file is a line-number slip: L68 is blank.)
+  **WHAT THE CORRECTED CLAIM LOOKS LIKE.** A demonstration that *coherence* is impossible would defeat readings that require sustained coherence; it would **not** by itself remove outcome indeterminacy, which is what selection-only exploits. Route the surviving shared floor, if any, through what `tenets.md` L73 actually licenses.
+  **LENGTH**: check with `analyze_length` before planning; `concepts/` is 2500 soft / 3500 hard.
+  **MIRROR**: edit `obsidian/`, run `uv run python scripts/sync.py`, grep both trees. `ai_modified` from a live `date -u`, strictly past.
 
 ### ✓ 2026-08-22: Install the `philosophy-of-action-under-dualism` ↔ `wholeheartedness-void` cross-link — the transition-half and state-half of one interactionist story are unlinked in either direction
 - **Type**: refine-draft

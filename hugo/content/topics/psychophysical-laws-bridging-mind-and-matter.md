@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-07-16 02:31:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-22 23:26:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/chalmers-psychophysical-coupling/
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-07-16 02:31:00+00:00
+lastmod: 2026-08-22 23:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -219,7 +219,7 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 
 1. **The hard problem dissolves.** A fully satisfying explanation of why we *believe* we have phenomenal experiences without invoking phenomenal properties would eliminate the motivation for psychophysical laws. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the framework.
 
-2. **Quantum mechanisms prove unavailable.** If decoherence in neural tissue is so rapid and complete that no quantum indeterminacy survives at any relevant scale—and no protective mechanism proves viable—the Map's account of downward causation loses its physical basis.
+2. **Quantum mechanisms prove unavailable.** If no quantum indeterminacy is ever amplified to make a difference to a neural outcome—so that neural dynamics are effectively classical whether or not coherence survives—the Map's account of downward causation loses its physical basis. Rapid decoherence alone will not do it: decoherence suppresses superposition without settling which outcome becomes actual, which is the opening post-decoherence selection uses.
 
 3. **Many-worlds is confirmed.** If MWI were empirically vindicated and the Born rule derived without collapse, selection laws would lose their target. All outcomes would occur; "selection" would be mere indexical uncertainty.
 
