@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-22 00:44 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-08-21-gemini-2-5-pro](/reviews/outer-review-2026-08-21-gemini-2-5-pro/)
+- **Subject**: `topics/hypnagogic-phenomenology-and-interface-modulation` (recent; third leg of the 2026-08-21 triple)
+- **Claims verified**: 5 sources resolved at OpenAlex + 22 target spans grep-checked
+- **High-value findings**: 2 real gaps (predictive processing / active inference absent; local-sleep literature uncited) + 1 new sourced angle (N1-incubation causal underdetermination, Tal et al. 2024 PNAS)
+- **Findings rejected**: 3 — the "reduced neural organisation" premise is a misquote (the article says organisation *shifts*), the DMN-omission charge is a wikilink-blind grep artefact (`[[default-mode-network]]` is cited at L61), and the pseudo-falsifiability charge is refuted by falsifier #3, which names disinhibition sufficiency outright. The quantum coupling-mode section attacks mechanisms `positions/quantum-interface` P-Q10 already discloses as unmodelled.
+- **Fabricated citation**: Sharpe et al. (2021), *Physiology & Behavior* 229:113220 — title search returns 0; that article number resolves to a mouse-behaviour paper. Real substitutes recorded in the review's Verification Notes.
+- **Tasks generated**: 1 (P2) — deliberately minimal; the ChatGPT and Claude legs had already minted nine live tasks against this article, so the surviving duplicate findings were folded into the existing P2 sleep-onset research task rather than re-minted.
+- **Convergence**: the predictive-processing / active-inference gap is now flagged by two independent reviewers this cycle.
+
+
 ## 2026-08-22T00:26:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5
