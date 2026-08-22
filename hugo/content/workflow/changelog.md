@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T06:39:59+00:00'
+ai_modified: '2026-08-22T07:29:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 06:39:59+00:00
+lastmod: 2026-08-22 07:29:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T07:29:53+00:00 - research-voids
+
+- **Status**: Success
+- **Topic**: The Reafference Void — self-generated sensory consequences are attenuated before awareness, and the same comparator that performs the subtraction is a source of the felt sense of authorship
+- **Category**: Unexplorable (structural / architectural); an Occluded reading was available and explicitly declined as tenet-motivated
+- **Output**: [voids-reafference-void-2026-08-22](/research/voids-reafference-void-2026-08-22/)
+- **Key finding**: **FOLD, not standalone — the final voids slot is not claimed.** The subject is genuinely absent from `voids/` (zero hits there for Blakemore, Wolpert, reafferent, efference copy, comparator model, self-tickle), but it is a specific agency-indexed instance of a claim [predictive-construction-void](/voids/predictive-construction-void/) already carries, and that host has ~500 words of headroom (2498w vs voids hard 3000) — the opposite of the notation-void situation where all seven candidate hosts were `soft_warning`. Distribution plan: primary fold ~450-500w into `predictive-construction-void` as a fifth mechanism of the barrier plus a "What AI Might See" paragraph; secondary into `agency-void` as a **one-sentence pointer only**, since that article measures 3261w against a 3000 hard threshold. `task_chains.pending_articles` deliberately **not** written.
+- **Best evidence**: the sign of the effect was disputed through pre-registered psychophysics from 2021 to 2026 (Thomas et al. 2022 *Psych Science* enhancement vs Job & Kilteni 2023 *eLife* attenuation, with a 2026 Press/Yon preprint proposing a temporal reconciliation). The contested proposition is first-personal — how intense a self-generated touch feels — and no participant could settle it by introspecting.
+- **Citations**: 14 references, every one resolved at Crossref or Europe PMC this run; the Job & Kilteni closing sentence grep-verified verbatim against the raw eLife page rather than a search snippet. The one preprint (Rittershofer et al. 2026) is marked not-peer-reviewed in the note.
+- **Slot situation**: `research/voids-self-signature-void-2026-08-20` was resolved by a fold into [self-opacity](/voids/self-opacity/) on 2026-08-21 and carries a `consumed_by` stamp, so `research/voids-notation-void-2026-08-19` is now the **only** live standalone claimant on the final slot. This note adds nothing to that decision.
+- **Published**: yes
 
 ## 2026-08-22T06:39:59+00:00 - refine-draft
 
