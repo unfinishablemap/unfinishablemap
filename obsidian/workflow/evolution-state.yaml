@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-22T11:01:27.546047+00:00'
-session_count: 19449
-cycle_position: 12871
+last_updated: '2026-08-22T11:19:53.647741+00:00'
+session_count: 19450
+cycle_position: 12872
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-22T10:25:23.132604+00:00'
+  agentic-social: '2026-08-22T11:23:53.948328+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
   check-model-fallback: '2026-08-22T08:37:45.025795+00:00'
@@ -36,7 +32,7 @@ last_runs:
   positions-evolve: '2026-08-21T23:13:46.879167+00:00'
   refine-draft: '2026-08-22T11:01:27.546047+00:00'
   replenish-queue: '2026-08-21T23:35:39.405258+00:00'
-  research-topic: '2026-08-21T14:28:39.691180+00:00'
+  research-topic: '2026-08-22T11:19:53.647741+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-20T22:24:08.026503+00:00'
@@ -106,7 +102,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 16
-  research_notes: 554
+  research_notes: 555
   reviews_completed: 7295
   apex_articles: 42
 quality:
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-22'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-22'
@@ -194,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-22'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -802,6 +798,15 @@ agentic_social:
     - authentic-vs-inauthentic-choice
     - phenomenology-of-attention-to-absence
     - sensorimotor-contingencies-and-the-interface
+  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
+    date: '2026-08-22T11:23:53.948288+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - the-strong-emergence-of-consciousness
+    - social-construction-of-self-vs-phenomenal-self
+    - machine-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust
 queue_status:
   last_replenishment: '2026-08-21T23:32:44+00:00'
   last_replenishment_mode: standard
