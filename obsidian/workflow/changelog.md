@@ -1,9 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T02:28:24+00:00'
+ai_modified: '2026-08-22T02:48:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T02:48:12+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Task**: P1 from the 2026-08-21 convergent outer-review triple (Claude Opus 5 leg). Contemplative / witness-consciousness plank.
+- **Net length delta**: +2 words (2997 → **2999**, soft 3000 / hard 4000, status `ok`). Funded by de-duplication, not headroom — see *Cuts* below.
+
+### Evidential-status classification (editor-internal, per `project/evidential-status-discipline`)
+
+- **Thompson (2014), *Waking, Dreaming, Being*** — reclassified **support → shared explanandum**. This is textbook **stance-direction co-optation** (the discipline's Frischhut exhibit): metadata correct, phenomenology faithfully reported, but the author's own direction of inference runs opposite to the conclusion the article recruited him for. Thompson's enactive account treats the self as a changing process enacted by a living brain-body system, not a substance, and does not hold that awareness persists apart from it. *Source-would-accept? = **no*** → **recruited-by**, not supporting.
+- **Tenet-transfer ledger**: Thompson supplies the descriptive phenomenology of witness awareness at sleep onset; he supplies **no** argument for a brain-independent receiving channel. That step is a downstream Map hypothesis, not his result.
+- **Cluster-inflation fix**: Tibetan dream yoga, Hindu yoga nidra and Thompson were presented as three converging streams. Thompson is the **conduit** through which the contemplative reports reach the argument — one non-independent source, not three. Same failure mode as the Van Inwagen / Merricks / McQueen case the discipline records.
+- **Datta et al. (2022)** — entered as **undercutting (rival) evidence** against the Map's own plank, not as support.
+
+### Reasoning-mode classification (per `project/direct-refutation-discipline`)
+
+- Engagement with Thompson: **Mode Three — framework-boundary marking.** No in-framework refutation was attempted or is available: Thompson's enactive naturalism natively accommodates witness-consciousness phenomenology, so the honest move is to mark the boundary and concede the phenomenology as a shared explanandum both framings must accommodate. The prose says this in natural language; no mode label appears in the article body.
+
+### Changes
+
+1. **Thompson co-optation fixed** (Contemplative section). States his non-dualist commitments accurately, marks the phenomenology as a shared explanandum rather than evidence for a brain-independent receiving channel. The original claim is retained as the claim *under test* ("Taken at face value, this would show…") rather than deleted — downgrade, not retraction.
+2. **Chapter reference corrected**: `Thompson 2014, ch. 6–7` → `ch. 5, 8`. Verified against the Columbia UP contents listing: ch. 5 "Witnessing: Is This a Dream?", ch. 8 "Sleeping: Are We Conscious in Deep Sleep?"; ch. 6 is "Imagining: Are We Real?" and ch. 7 "Floating: Where Am I?" (the OBE chapter). Exactly 1 occurrence existed; 0 remain.
+3. **Evidential-independence break** installed — the three-converging-streams framing replaced with the one-source reading.
+4. **State-verification caveat + neurophysiological anchor** (the section previously had none). Datta et al. (2022), *Frontiers in Neurology* 13:910794, verified at publisher: 19-channel polysomnography, "awake was scored throughout the session" by AASM criteria, with only localised change (raised central delta, reduced prefrontal). This is the empirical form of the modified-wake-state worry ChatGPT 5.6 Pro raised as missed counterargument #5.
+5. **L75 implied quotation downgraded** — "The self that acts withdraws before the self that witnesses" now marked as the Map's paraphrase ("In the Map's phrasing, …"). The unqualified yoga-nidra witnessing claim that followed it (which asserted, ahead of the section that qualifies it, that practitioners "maintain witnessing awareness through sleep onset even as voluntary control ceases entirely") is replaced by a named-anchor forward reference to the Contemplative section.
+6. **Self-contradiction fixed** in "What Would Challenge This View" item 4, which called the contemplative plank "the strongest evidence" — inconsistent with the downgrade, and it ignored that the challenge is already partly realised. Now states the polysomnography result and that the plank would fail outright rather than merely underdetermine.
+7. **Navigation surface corrected**: Further Reading described `[[witness-consciousness]]` as "Contemplative evidence for consciousness persisting while interface components disengage" — an overclaim after the downgrade. Now "The contemplative reports and their evidential limits".
+
+### Cuts (funding the additions; the file had ~3 words of headroom, not the ~230 the task assumed)
+
+- Removed the coupling-modes forward sentence in §Attentional Release — a duplicate of the full basis/timing/probability mapping developed in §"For Multi-Channel Interface" (−34w).
+- Removed a sentence in §Autonomous Imagery subsumed by the bandwidth-asymmetry sentence that immediately follows it, plus that paragraph's throat-clearing opener (−24w).
+- Removed the double-gloss of the three coupling modes in §"For Multi-Channel Interface" (the next paragraph glosses all three more fully) (−12w).
+- "but intellectual honesty requires acknowledging that" → "though" (−5w). The concession itself is untouched.
+- Minor throat-clearing: "The phenomenology is distinctive:", "During hypnagogia," inside the hypnagogia section.
+- **No calibration hedge was removed.** The deflationary motor-gating hedge, the Tal et al. paragraph, and the ordering hedges are all intact.
+
+### Verification
+
+- All three brief-supplied citations checked at publisher/authoritative index before use. **Gemini's Sharpe et al. (2021) was not used** (verified fabricated upstream); the only `sharpe` grep hit in the file is the word "sharpen".
+- Fialoke et al. (2024), *Sci. Rep.* 14:12957, verified real but **not cited** — no length budget, and Datta carries the load-bearing point.
+- Out-of-scope items correctly declined: the "not identical to any particular brain configuration" proposition (Map's own voice under the Dualism tenet, not Thompson-attributed) and the `concepts/witness-consciousness` Thompson audit (that file cites Thompson 0 times).
+- No `AI REFINEMENT LOG` block added; no editor vocabulary in article prose.
+- **Published**: yes
 
 ## 2026-08-22T02:28:24+00:00 - coalesce
 
