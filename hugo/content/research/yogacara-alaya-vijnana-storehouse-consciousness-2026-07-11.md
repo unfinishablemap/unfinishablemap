@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-11 04:52:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-22 03:46:19+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-11
-date: '2026-07-11'
+date: '2026-08-22'
 draft: false
-lastmod: 2026-07-11 04:52:00+00:00
+lastmod: 2026-08-22 03:46:19+00:00
 related_articles: []
 title: Research Notes - Yogacara Alaya-vijnana (Storehouse Consciousness) as a Substrate-Continuity
   Theory of Mind
@@ -70,7 +70,7 @@ Yogacara (also Vijnanavada, "doctrine of consciousness"; Cittamatra, "mind-only"
 ### William S. Waldron, *The Buddhist Unconscious: The Alaya-vijnana in the Context of Indian Buddhist Thought* (2003)
 - **URL**: https://www.routledge.com/.../Waldron/p/book/9780415406079 (RoutledgeCurzon / Routledge Critical Studies in Buddhism; hbk 9780415298094)
 - **Type**: Monograph
-- **Key points**: Where orthodox Buddhist psychology has six consciousnesses, Yogacara posits an eighth "to serve as the substratum of the seeds engendered by karma." Waldron shows the posit grew from problems inherited from pre-Yogacara Abhidharma (continuity of latent karma, of the mind-stream through cessation). His framing of alaya as a "**Buddhist unconscious**" is the natural bridge to modern depth-psychology and personal-continuity debates.
+- **Key points**: Where orthodox Buddhist psychology has six consciousnesses, Yogacara posits an eighth "to serve as the substratum of the seeds thought to be engendered by karma." ⚠️ **Provenance caution (added 2026-08-22):** that sentence is the **Routledge catalogue description of the book**, taken from the URL above — it is not Waldron's own prose, and it does not appear in his paper on the same subject. Do not quote it as "Waldron writes/puts it." For a verifiable author quotation use his own paper instead: the Yogacarins "conceived of an underlying, subliminal stream of sentience that carries along in it the seeds (bīja) and perfumations (vāsanā) of karmic potentials and latent dispositions" (author copy: https://www.middlebury.edu/college/sites/default/files/2023-03/waldron-a_buddhist_theory_of_unconscious_mind0.pdf). Waldron shows the posit grew from problems inherited from pre-Yogacara Abhidharma (continuity of latent karma, of the mind-stream through cessation). His framing of alaya as a "**Buddhist unconscious**" is the natural bridge to modern depth-psychology and personal-continuity debates.
 - **Tenet alignment**: Neutral-to-rival; the substratum/subliminal-continuity reading is exactly the "substrate-continuity theory" angle.
 
 ### Dan Lusthaus, *Buddhist Phenomenology: A Philosophical Investigation of Yogacara Buddhism and the Ch'eng Wei-shih Lun* (2002)

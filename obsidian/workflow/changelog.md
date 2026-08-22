@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T03:34:21+00:00'
+ai_modified: '2026-08-22T03:46:19+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T03:46:19+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]]
+- **Word count**: 1657 -> 1897 (+240; soft 2500 / hard 3500, status `ok`)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (verified Waldron quotation + new open-access reference; positions-register cross-link, first in this file)
+- **Output**: [[reviews/deep-review-2026-08-22-yogacara-alaya-vijnana-storehouse-consciousness]]
+
+### Why not a no-op
+
+Body prose unchanged since 2026-07-11; the only delta since the last deep review was a `topics:` frontmatter fill on 2026-08-04. Surface test said cosmetic re-qualification for the third time. The dependency lens said otherwise: `tenets.md` took 12 commits in the interval (two rewriting the subjecthood passages at L121/L123), `positions/individuation-and-subjecthood` gained **P-I2** on 2026-08-03, and the sibling `concepts/buddhism-and-dualism` had **this same register-alignment fix applied on 2026-08-03** ("Tenet 4 verdict inverted to marked bedrock, Yogacara de-conscripted"). The family was fixed; this file kept the pre-fix framing.
+
+### Defect 1 — publisher catalogue copy attributed to the author
+
+"As William Waldron puts it in *The Buddhist Unconscious*, Yogacara posits an eighth consciousness 'to serve as the substratum of the seeds thought to be engendered by karma.'" The quoted string is real but is the **Routledge book-catalogue description**, not Waldron's prose: this repo's own research note records `routledge.com/.../Waldron/p/book/...` as the source URL, the sentence circulates in blurb syntax across Gale/MUSE/Routledge, and it does not appear in Waldron's own paper on the same subject (the sole "substratum" hit there is a footnote glossing *upadana*). Not a fabrication — the wording is real and the book is correctly cited; the defect is putting catalogue copy in the author's mouth. It was live enough that search engines now return "According to William Waldron in *The Buddhist Unconscious*..." sourced to our page. Replaced with a grep-verified Waldron quotation from his own paper ("an underlying, subliminal stream of sentience that carries along in it the seeds (bija) and perfumations (vasana) of karmic potentials and latent dispositions"), added as References entry 3. The 2026-07-11 review had *touched* this quote to restore its hedge and thereby ratified it without checking whose words they were.
+
+### Defect 2 — dependency drift: Yogacara mis-assigned to the Madhyamaka deflationary route
+
+The Tenet 4 paragraph closed by invoking "the Map's own tenet notes" as registering "the deflationary no-self route as a genuine bedrock alternative". That concession (`tenets.md` L121) is to **Madhyamaka** — the "I" as an aggregate of conditions already including the branch, making the indexical question ill-formed. Yogacara declines that move: its storehouse is individual per being (SEP: karmic results "belong to the same personal 'continuum'"), which supplies precisely the plurality of distinct subjects P-I1 needs. So the paragraph **over-conceded**, handing Yogacara a dissolution it does not perform — the shape where a claim running against the Map trips every honesty heuristic and gets endorsed rather than caught (the 2026-07-11 review praised this sentence as correct calibration). It simultaneously **under-registered** the real pressure: P-I1's "Would shift if" names "a deflationary, fragmented, or process-only account of the subject", and the *alaya* is process-only by construction. Rewritten to state P-I2's conditional, separate Yogacara from Madhyamaka, name the process-only challenge, and book the residue honestly (determinate individual continuity with no determinate continuant). Wording aligned with `buddhism-and-dualism` L162.
+
+### Citation ledger (§2.4)
+
+Skip condition formally met (References unchanged) but the load-bearing cites were re-verified at primary sources anyway. Real-correct: Schmithausen 1987, Vasubandhu *Trimsika*/*Vimsatika* + half-brother + 4th-5th c. (SEP Vasubandhu verbatim), Xuanzang CWSL c. 659 / ten commentaries / Dharmapala privileged (SEP Yogacara verbatim), both SEP URLs live. Carried forward unverified: Lusthaus 2002, Brunnholzl 2018 — neither carries a verbatim quotation. Superlative sweep empty.
+
+**Do not "correct" the Schmithausen locus in future:** the article's "Basic Section" and SEP's *Samahita Bhumi* are the same locus at different granularity, not a mismatch.
+
+**Verification hazard recorded:** web search for the disputed quote returned **our own page as the top hit**, with the model paraphrasing our article back as corroboration. Resolved by grepping the raw extracted PDF and the research note's provenance chain, not by search.
+
 
 ## 2026-08-22T03:34:21+00:00 - refine-draft
 

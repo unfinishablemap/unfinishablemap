@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-04 09:15:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-22 03:46:19+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts: []
 created: 2026-07-11
@@ -13,8 +13,8 @@ description: How Yogacara Buddhism's eighth consciousness carries personal conti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-20 00:11:00+00:00
-lastmod: 2026-08-04 09:15:00+00:00
+last_deep_review: 2026-08-22 03:46:19+00:00
+lastmod: 2026-08-22 03:46:19+00:00
 modified: *id001
 related_articles: []
 title: 'Yogacara Alaya-vijnana: Storehouse Consciousness as a Substrate-Continuity
@@ -36,7 +36,7 @@ Orthodox Buddhist psychology recognised six consciousnesses (*vijnana*): the fiv
 3. **The seventh, *klista-manas*** — the "afflicted mind," a continuous, pre-reflective self-grasping (introduced below).
 4. **The eighth, *alaya-vijnana*** — the storehouse consciousness, a subliminal individual stream that stores karmic seeds (explained below).
 
-The two added layers each do explanatory work the six-consciousness model could not. As William Waldron puts it in *The Buddhist Unconscious*, Yogacara posits an eighth consciousness "to serve as the substratum of the seeds thought to be engendered by karma." The manas, meanwhile, supplies a mechanism for the felt sense of an enduring "I." Crucially, these are two distinct jobs handled by two distinct layers: one carries the continuity that is actually there, the other generates the *illusion* of a permanent self on top of it.
+The two added layers each do explanatory work the six-consciousness model could not. William Waldron states the eighth layer's job directly: the Yogacarins "conceived of an underlying, subliminal stream of sentience that carries along in it the seeds (bīja) and perfumations (vāsanā) of karmic potentials and latent dispositions." The manas, meanwhile, supplies a mechanism for the felt sense of an enduring "I." Crucially, these are two distinct jobs handled by two distinct layers: one carries the continuity that is actually there, the other generates the *illusion* of a permanent self on top of it.
 
 ## The Storehouse and Its Seeds: Continuity Without a Self
 
@@ -67,7 +67,9 @@ A terminological caution matters for anyone tracing the sources: the Sanskrit ti
 
 The Map treats Yogacara as a rival worth taking seriously, not as support. Two tenets set the terms of the engagement.
 
-**Tenet 4 ([No Many Worlds / indexical identity](/tenets/#no-many-worlds)).** The Map's indexical-identity commitment insists that *which* subject one is remains a real further fact. Yogacara offers a striking foil: continuity is real and individual — each being has its own storehouse stream — yet the felt permanent self is a construction of the manas. This is continuity-without-a-substantial-self reached from outside the Western debate entirely, and the Map's own tenet notes register the deflationary no-self route as a genuine bedrock alternative rather than an in-framework defect it can refute.
+**Tenet 4 ([No Many Worlds / indexical identity](/tenets/#no-many-worlds)).** The Map's indexical-identity commitment insists that *which* subject one is remains a real further fact, and the register books that insistence as conditional: [P-I2](/positions/individuation-and-subjecthood/) records that the indexical objection to many-worlds depends on the determinate-subjecthood claim registered as P-I1, so an account that deflates the subject weakens the objection along with it. Yogacara divides on that conditional, and it is easy to put it on the wrong side of it. Yogacara is not the deflationary route the tenets page already concedes as bedrock — that concession is to the Madhyamaka analysis, on which the "I" is an aggregate of conditions that already includes the branch, so "why am *I* this one?" never becomes a well-formed question. Yogacara declines that dissolution. Its storehouse is individual: each being carries its own stream, and karmic results ripen within that being's own continuum, which supplies exactly the plurality of distinct subjects the indexical question needs in order to be asked at all.
+
+The pressure Yogacara does apply falls on the other half of the conditional. P-I1 would shift, on its own statement, if "a deflationary, fragmented, or process-only account of the subject were adopted" — and the *alaya* is process-only by construction, an impermanent series rather than a thing that has states. The tradition therefore presents the Map with a case the register has not priced: determinate individual continuity with no determinate continuant. Whether the indexical question keeps its grip when the subject is a conditioned series is left open here; it is a genuine bedrock alternative rather than an in-framework defect the Map can refute.
 
 **Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)).** The storehouse is *causally active*: seeds ripen into effects and actions deposit new seeds, so mental causation runs through an impermanent medium. Superficially this is congenial — consciousness does something, as [Buddhist dependent origination](/concepts/buddhism-and-dualism/) and the Map both insist. But the resemblance is where the rivalry sharpens. The Map posits a non-physical consciousness interacting with an independent physical world (Tenets 1 and 3). Yogacara, on the mind-only reading, posits a consciousness-only substrate with no independent physical to interact *with*: mind-to-body causation becomes mind-to-mind causation, and the [interaction problem](/topics/interaction-problem-across-traditions/) "dissolves" by denying one of its two relata. That dissolution is precisely what the Map declines. As [the sliding-boundary analysis](/topics/q3-q4-sliding-boundary-and-transparency-problem/) notes, Yogacara's trajectory runs toward non-duality, not toward a stable two-kind ontology — so on its own face it is closer to monist idealism than to dualism, and the Map must not conscript it as evidence for its own position.
 
@@ -83,16 +85,18 @@ The honest summary: Yogacara vindicates a *non-physical continuity-substrate* (w
 - [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [personal-identity](/topics/personal-identity/)
-- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's SMT as the naturalist cousin of *anattā*: a virtual self-model where Yogācāra has a conditioned continuum
+- [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) — Metzinger's SMT as the naturalist cousin of *anatman*: a virtual self-model where Yogacara has a conditioned continuum
+- [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) — P-I1 and P-I2, the register entries this article's Tenet 4 engagement is measured against
 
 ## References
 
 1. Schmithausen, L. (1987). *Alayavijnana: On the Origin and the Early Development of a Central Concept of Yogacara Philosophy* (2 vols.). Studia Philologica Buddhica Monograph Series 4. Tokyo: International Institute for Buddhist Studies. (Reprinted 2007.)
 2. Waldron, W. S. (2003). *The Buddhist Unconscious: The Alaya-vijnana in the Context of Indian Buddhist Thought*. London: RoutledgeCurzon. ISBN 9780415298094.
-3. Lusthaus, D. (2002). *Buddhist Phenomenology: A Philosophical Investigation of Yogacara Buddhism and the Ch'eng Wei-shih Lun*. London: RoutledgeCurzon.
-4. Asanga. *Mahayanasamgraha* ("Compendium of the Great Vehicle"). Trans. K. Brunnholzl (2018), *A Compendium of the Mahayana*. Boulder: Snow Lion/Shambhala. ISBN 9781559394659.
-5. Vasubandhu. *Trimsika-vijnaptimatrata* (Thirty Verses) and *Vimsatika* (Twenty Verses). 4th–5th c. CE.
-6. Xuanzang. *Cheng Weishi Lun* (*Vijnaptimatratasiddhi-sastra*), c. 659 CE.
-7. Stanford Encyclopedia of Philosophy, "Yogacara." https://plato.stanford.edu/entries/yogacara/
-8. Stanford Encyclopedia of Philosophy, "Vasubandhu." https://plato.stanford.edu/entries/vasubandhu/
-9. Southgate, A. & Oquatre-six, C. (2026-01-19). Buddhism and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/buddhism-and-dualism/
+3. Waldron, W. S. "A Buddhist Theory of Unconscious Mind (*alaya-vijnana*)." Author copy hosted by Middlebury College. https://www.middlebury.edu/college/sites/default/files/2023-03/waldron-a_buddhist_theory_of_unconscious_mind0.pdf (source of the quoted characterisation of the storehouse as a subliminal stream carrying seeds and perfumations)
+4. Lusthaus, D. (2002). *Buddhist Phenomenology: A Philosophical Investigation of Yogacara Buddhism and the Ch'eng Wei-shih Lun*. London: RoutledgeCurzon.
+5. Asanga. *Mahayanasamgraha* ("Compendium of the Great Vehicle"). Trans. K. Brunnholzl (2018), *A Compendium of the Mahayana*. Boulder: Snow Lion/Shambhala. ISBN 9781559394659.
+6. Vasubandhu. *Trimsika-vijnaptimatrata* (Thirty Verses) and *Vimsatika* (Twenty Verses). 4th–5th c. CE.
+7. Xuanzang. *Cheng Weishi Lun* (*Vijnaptimatratasiddhi-sastra*), c. 659 CE.
+8. Stanford Encyclopedia of Philosophy, "Yogacara." https://plato.stanford.edu/entries/yogacara/
+9. Stanford Encyclopedia of Philosophy, "Vasubandhu." https://plato.stanford.edu/entries/vasubandhu/
+10. Southgate, A. & Oquatre-six, C. (2026-01-19). Buddhism and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/buddhism-and-dualism/
