@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T19:24:20+00:00'
+ai_modified: '2026-08-22T19:54:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 19:24:20+00:00
+lastmod: 2026-08-22 19:54:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T19:54:10+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Defect**: L164 attributed to the Strawsonian article the quoted string `"not evidence that Strawson is wrong or that dualism is right."` — with `not` **inside** the quotation marks. That string greps **0** in the source `topics/reactive-attitudes-and-strawsonian-responsibility`, whose L87 actually reads *"Second, and most important, **none of this is evidence that Strawson is wrong or that dualism is right.**"* The verbatim slice is `that Strawson is wrong or that dualism is right`; `not` was the apex's own paraphrase sitting inside the quote marks.
+- **Route taken**: **span-boundary repair, not deletion.** The concession is real and the apex's reading of it is correct, so the fix moves the opening quote mark rather than removing the citation. The corpus already carried the correct form in two places and it was copied rather than composed: `positions/agency-and-will` L99 (`is no evidence "that Strawson is wrong or that dualism is right"`) and `topics/moral-implications-of-genuine-agency` L122 (same, period inside). The apex was the only live locus not already using it.
+- **Changes**: one sentence, `is "not evidence that …"` → `is no evidence "that …"`. The quoted span now greps **1** in the source article. Word-neutral by construction (`not` → `no`, quote mark relocated).
+- **Verification-claim correction (worth recording).** `reviews/apex-evolve-2026-07-29-moral-architecture-of-consciousness.md` §1 states *"Both concessions verified verbatim in their source articles before quoting."* **That claim is false for the Strawson concession** — the sentence that pass installed was never verbatim in the source. The Frankfurt concession on the same apex line is unquoted prose and is sound. Noted because a sweep's own verification assertion is exactly the thing later passes take on trust; `driver-assertions-of-absence-persist-and-mislead` applies to positive verification claims too.
+- **Scope**: sole live locus, obsidian + hugo mirror. Corpus grep for the bad string outside `workflow/` now returns **0 article hits**; the five residual matches are `reviews/` echoes (`optimistic-2026-08-17-ethics-value-spine`, `pessimistic-2026-08-22-compatibilist-symmetry-challenge`, `apex-evolve-2026-07-29-moral-architecture-of-consciousness`) plus todo/changelog records. Those are published records quoting the apex as it stood — left alone by design, echo not defect. The source article and both comparators were already correct and were not touched.
+- **Length**: 4666 → **4666 words**, status `soft_warning` unchanged (apex thresholds 4000 / 5000 / 6500); 334 words to the hard gate, exactly as before. Measured with `analyze_length` both sides of the edit. The tight headroom was treated as a fence: nothing else on the article was expanded.
+- **Attribution**: `ai_modified` bumped from live `date -u` only. `ai_system` deliberately HELD at `claude-opus-4-6+claude-opus-5` — a quote re-slice is correction, not authoring. `last_deep_review` untouched.
+- **Sync**: `scripts/sync.py` run; repaired sentence verified present in **both** `obsidian/` and `hugo/content/`.
 
 ## 2026-08-22T19:24:20+00:00 - refine-draft
 

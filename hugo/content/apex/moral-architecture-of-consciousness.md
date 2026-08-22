@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-08-02 23:41:19+00:00
+ai_modified: 2026-08-22 19:54:10+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-08-02 23:41:19+00:00
+lastmod: 2026-08-22 19:54:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,7 +167,7 @@ Two constraints fix how strong the resulting claim can be. The synthesis is cond
 
 The architecture's unity does not show that the libertarian framing is the *only* metaphysics securing the moral content here. If sophisticated reasons-responsive determinism explains the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation, what additional moral work is the libertarian metaphysics doing? The honest answer, considered in moral theory alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are read as deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is identification with one's effective higher-order desires.
 
-The Map's libertarian framing is therefore distinguished by tenet-coherence rather than unique moral explanatory power: it fits the dualism and bidirectional-interaction tenets, adopted on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Libertarian agency may do separating work at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language both scaffolds suffice. The discipline is developed catalogue-wide in [the compatibilist-symmetry-challenge concept](/concepts/compatibilist-symmetry-challenge/); this section is its worked exhibit at the four-pillar level. Two specialist treatments carry concessions this level inherits rather than softens. [The Frankfurt-cases article](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) holds that relocating the Map's libertarianism from leeway to sourcehood is a retreat and a conditional one, not a costless translation, and that the semicompatibilist actual-sequence rival remains standing. [The Strawsonian treatment](/topics/reactive-attitudes-and-strawsonian-responsibility/) states outright that resisting the reactive-attitudes dissolution is "not evidence that Strawson is wrong or that dualism is right."
+The Map's libertarian framing is therefore distinguished by tenet-coherence rather than unique moral explanatory power: it fits the dualism and bidirectional-interaction tenets, adopted on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Libertarian agency may do separating work at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language both scaffolds suffice. The discipline is developed catalogue-wide in [the compatibilist-symmetry-challenge concept](/concepts/compatibilist-symmetry-challenge/); this section is its worked exhibit at the four-pillar level. Two specialist treatments carry concessions this level inherits rather than softens. [The Frankfurt-cases article](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) holds that relocating the Map's libertarianism from leeway to sourcehood is a retreat and a conditional one, not a costless translation, and that the semicompatibilist actual-sequence rival remains standing. [The Strawsonian treatment](/topics/reactive-attitudes-and-strawsonian-responsibility/) states outright that resisting the reactive-attitudes dissolution is no evidence "that Strawson is wrong or that dualism is right."
 
 ### Load-Bearing but Uneven
 

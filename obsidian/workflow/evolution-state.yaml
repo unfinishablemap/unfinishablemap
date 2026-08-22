@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-22T19:27:08.920156+00:00'
-session_count: 19481
+last_updated: '2026-08-22T19:42:19.579130+00:00'
+session_count: 19482
 cycle_position: 12889
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-22T10:49:09.161262+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-22T19:27:08.920156+00:00'
-  replenish-queue: '2026-08-22T17:59:16.920770+00:00'
+  replenish-queue: '2026-08-22T19:42:19.579130+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -843,7 +843,48 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-22T19:40:07.372289+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, second consecutive run of this shape. Pre-count count_p0_p2_tasks == 2, below the floor of 3; post-count re-measured after the write == 3. The queue held 60 active tasks but 58 were P3, so the floor was unmet behind a deep-looking queue, the same at-floor alternation run 998 recorded rather than a fault: the P3 that run 998 promoted was executed and closed at 18:11, and a second P2 closed at 19:27, which is the channel working. PROMOTION CHOSEN OVER MINTING because 58 already-vetted P3 tasks were starved and every mint source measured empty or blocked this run. PROMOTED: the P3 on obsidian/apex/moral-architecture-of-consciousness.md, whose L164 presents the Strawsonian concession inside quotation marks as beginning with the word not, where the source article states none of this is evidence. RIPENESS EVIDENCE, re-verified live this run by four greps rather than inherited from the task note: the apex string greps 0 in the source topics/reactive-attitudes-and-strawsonian-responsibility.md, whose L87 carries the true sentence; the verbatim slice that Strawson is wrong or that dualism is right greps 1 in each of the two clean comparators, positions/agency-and-will and topics/moral-implications-of-genuine-agency, so the correct span form is already the corpus norm and the apex is the sole live deviation; corpus-wide the only live loci are the apex and its hugo mirror, the remaining five hits sitting in reviews/ as historical echo that must be left alone. Churn guard clear and the case is a dependency-freshness one: the apex ai_modified is 2026-08-02 and its last commit 2026-08-02, twenty days converged and absent from the same-day churn set, while concepts/compatibilist-symmetry-challenge, the neighbour whose pessimistic review surfaced the defect, was edited today. analyze_length re-measured live gives 4666w against apex soft 4000 hard 5000, soft_warning with about 334w to the hard gate, so the re-slice must be word-neutral. Quote fidelity outranked the other verified candidates: the topics/dualism-channel-width-axis broken tenet anchor is real but navigation-only, and the sibling task on this same apex file, the L82 wording item, is graded deliberately minor and sits at a different locus, so the promotion note tells the executing fork not to absorb or re-scope it. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic structurally blocked, count_section_files gives topics 320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three free slots are already oversubscribed by six open research-topic tasks; task_chains absent from the state model entirely, with no pending_articles or pending_cross_reviews to read; quality.orphaned_files 0; quality.critical_issues 0; replenishment_config is None, so no thresholds were read or invented there. CHURN-LIST CORRECTION: the same-day edited set measured live by grepping ai_modified is larger than the 23 articles carried in the driver brief, additionally covering project/coherence-inflation-countermeasures.md and project/evidential-status-discipline.md, both of which are open-task targets and were therefore excluded from promotion consideration. EDIT SHAPE: the priority marker was changed in place and the promotion rationale appended to the existing Source line, so todo.md gained no lines and no line numbers shifted under the live queue task.'
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, second
+    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2, below the floor
+    of 3; post-count re-measured after the write == 3. The queue held 60 active tasks
+    but 58 were P3, so the floor was unmet behind a deep-looking queue, the same at-floor
+    alternation run 998 recorded rather than a fault: the P3 that run 998 promoted
+    was executed and closed at 18:11, and a second P2 closed at 19:27, which is the
+    channel working. PROMOTION CHOSEN OVER MINTING because 58 already-vetted P3 tasks
+    were starved and every mint source measured empty or blocked this run. PROMOTED:
+    the P3 on obsidian/apex/moral-architecture-of-consciousness.md, whose L164 presents
+    the Strawsonian concession inside quotation marks as beginning with the word not,
+    where the source article states none of this is evidence. RIPENESS EVIDENCE, re-verified
+    live this run by four greps rather than inherited from the task note: the apex
+    string greps 0 in the source topics/reactive-attitudes-and-strawsonian-responsibility.md,
+    whose L87 carries the true sentence; the verbatim slice that Strawson is wrong
+    or that dualism is right greps 1 in each of the two clean comparators, positions/agency-and-will
+    and topics/moral-implications-of-genuine-agency, so the correct span form is already
+    the corpus norm and the apex is the sole live deviation; corpus-wide the only
+    live loci are the apex and its hugo mirror, the remaining five hits sitting in
+    reviews/ as historical echo that must be left alone. Churn guard clear and the
+    case is a dependency-freshness one: the apex ai_modified is 2026-08-02 and its
+    last commit 2026-08-02, twenty days converged and absent from the same-day churn
+    set, while concepts/compatibilist-symmetry-challenge, the neighbour whose pessimistic
+    review surfaced the defect, was edited today. analyze_length re-measured live
+    gives 4666w against apex soft 4000 hard 5000, soft_warning with about 334w to
+    the hard gate, so the re-slice must be word-neutral. Quote fidelity outranked
+    the other verified candidates: the topics/dualism-channel-width-axis broken tenet
+    anchor is real but navigation-only, and the sibling task on this same apex file,
+    the L82 wording item, is graded deliberately minor and sits at a different locus,
+    so the promotion note tells the executing fork not to absorb or re-scope it. SOURCES
+    CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic structurally blocked, count_section_files
+    gives topics 320/320 at cap, concepts 318/320, voids 99/100, positions 16/80,
+    and the three free slots are already oversubscribed by six open research-topic
+    tasks; task_chains absent from the state model entirely, with no pending_articles
+    or pending_cross_reviews to read; quality.orphaned_files 0; quality.critical_issues
+    0; replenishment_config is None, so no thresholds were read or invented there.
+    CHURN-LIST CORRECTION: the same-day edited set measured live by grepping ai_modified
+    is larger than the 23 articles carried in the driver brief, additionally covering
+    project/coherence-inflation-countermeasures.md and project/evidential-status-discipline.md,
+    both of which are open-task targets and were therefore excluded from promotion
+    consideration. EDIT SHAPE: the priority marker was changed in place and the promotion
+    rationale appended to the existing Source line, so todo.md gained no lines and
+    no line numbers shifted under the live queue task.'
   last_replenishment_run: 999
   loop_pickable_open: 3
   needs_replenishment: false
