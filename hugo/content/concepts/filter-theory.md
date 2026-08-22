@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-01 18:28:07+00:00
+ai_modified: 2026-08-22 10:57:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 07:46:01+00:00
-lastmod: 2026-08-01 18:28:07+00:00
+lastmod: 2026-08-22 10:57:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Consciousness under anaesthesia does not switch off at a threshold; it narrows c
 
 ### Hypnagogic Loosening
 
-The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset provides a real-time demonstration of filter loosening. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—the pattern filter theory expects when the reducing valve opens before the interface narrows into NREM sleep.
+At sleep onset the [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) illustrates filter loosening rather than demonstrating it. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—the pattern filter theory expects when the reducing valve opens, and equally the pattern a single graded mechanism predicts.
 
 ### Meditative Cessation
 
@@ -195,7 +195,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of separable filter components
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person gap under anesthesia as a filter-vs-production void probe
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
-- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: six altered states converging on multi-channel filter architecture
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: six altered states converging on multi-channel interface architecture
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
 - [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — Brain criticality as a quantitative signature of conscious richness, re-read as filter bandwidth
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The design space for a discriminating test at the memory-hierarchy tier, and why current clinical data leaves the dispute underdetermined
@@ -207,7 +207,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 
 ## References
 
-1. Batthyány, A. & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1-8. https://doi.org/10.1037/cns0000259 (online first 27 August 2020; 2021 is the year of record on the article's title page and in Crossref's `issued` field. Earlier Map passes cited 2020 — do not revert.)
+1. Batthyány, A. & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1-8. https://doi.org/10.1037/cns0000259 (online first 27 August 2020; 2021 is the year of record on the article's title page and in Crossref's `issued` field.)
 1. Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
 1. Claassen, J., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497-2505.
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
