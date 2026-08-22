@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-08-01T18:28:07+00:00
+ai_modified: 2026-08-22T22:08:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 
 
 ### Convergent Evidence
 
-The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation at sleep onset significantly increased subsequent creative performance across three tasks relative to control conditions; Lacaux et al. (2021) found 15 seconds in N1 sleep tripled the rate of discovering a hidden rule in a mathematical task (83% versus 30%); Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
+The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation at sleep onset significantly increased subsequent creative performance across three tasks relative to control conditions; Lacaux et al. (2021) found that participants accumulating at least fifteen seconds in N1 sleep were about three times as likely to discover a hidden rule in a mathematical task (83% versus 30%), fifteen seconds being the minimum criterion for classifying an N1 episode rather than an administered dose; Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
 
 ### Why Dreams Might Solve What Waking Cannot
 
@@ -156,13 +156,17 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 
 | Mode | Phenomenal Character | Cognitive Outcome |
 |------|---------------------|-------------------|
-| NREM dreamless sleep | Minimal or absent | Consolidation but no creative benefit (Cai et al. 2009) |
+| Sleep with no dream report | Reported absent — though absence of report is not established absence | Consolidation but no creative benefit (Cai et al. 2009) |
 | Non-lucid REM | Vivid, associative | Creative enhancement via associative priming |
 | Content-incorporating dreams | Problem appears in experience | More than double solving rate (42% vs 17%, Konkoly 2026) |
-| Hypnagogic N1 | Loosely directed, maximally creative | Tripled hidden-rule discovery in a math task (Lacaux et al. 2021) |
+| Hypnagogic N1 (a NREM stage) | Loosely directed, maximally creative | Tripled hidden-rule discovery in a math task (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
-Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [[consciousness-and-memory|memory consolidation]]—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
+Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." Slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [[consciousness-and-memory|memory consolidation]]—yet the periods characterised by vivid experience are the ones that carry the creative benefit (Cai et al. 2009).
+
+The gradient has to be read phenomenally rather than by sleep stage, because the stage labels do not track experience closely enough to stand in for it. Dreaming occurs during NREM as well as REM, correlating with reduced slow-wave activity in the posterior cortical "hot zone" rather than with stage as such (Siclari et al. 2017), so "dreamless" NREM is defined by absence of report rather than by established absence of experience. [[sleep-and-consciousness|The Map's own treatment of sleep]] holds the same line: consciousness diminishes during NREM but rarely vanishes entirely, and the awake-means-conscious dichotomy is false. The table's N1 row makes the point sharply—N1 is polysomnographically NREM, and it delivers exactly the creative benefit the REM/NREM division reserves for REM. Where the architectural label and the experience come apart, the benefit follows the experience.
+
+The [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
 
 ## Challenges: Illusionism and Epiphenomenalism
 
@@ -180,7 +184,7 @@ A committed epiphenomenalist could argue that dream problem-solving is entirely 
 
 **The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to outcomes. Konkoly found puzzle-incorporation into dream content predicted solving success (42% versus 17%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes. But this requires explaining why neural computation that produces dream imagery about a puzzle is more than twice as effective as computation that does not, while insisting the representations contribute nothing.
 
-**The mode problem.** Both REM and NREM involve substantial brain activity, including hippocampal-cortical replay. If unconscious consolidation sufficed for creative problem-solving, NREM should match REM. Instead, the sleep stage defined by vivid experience specifically enhances creative outcomes (Cai et al. 2009). The epiphenomenalist must explain why architecture that produces vivid experience also produces creative benefits, while insisting the experience contributes nothing.
+**The mode problem.** Both REM and NREM involve substantial brain activity, including hippocampal-cortical replay, yet the creative benefit in Cai et al. (2009) attached to REM and not to NREM. As noted above, the stage division is a poor proxy for the presence of experience, so what the result supports depends on how it is read. Read phenomenally, the sleep period reliably characterised by vivid experience carried the creative benefit while the period usually reported as experientially thin did not, and the epiphenomenalist must explain why the mode that produces vivid experience also produces creative benefits while insisting the experience contributes nothing. Read architecturally, as a claim about REM machinery against NREM machinery, it says considerably less, and the epiphenomenalist is entitled to that weaker reading until the comparison is run on experience reports rather than stage scoring.
 
 **The gradient problem.** The graded relationship—dreamless sleep < non-lucid dreaming < content-incorporating dreams < lucid dreaming—maps onto a gradient of phenomenal richness. The tight coupling between phenomenal and cognitive gradients is more naturally explained by interactionism than by the epiphenomenalist claim that they merely co-vary.
 
@@ -202,7 +206,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 3. **Artificial induction of lucidity.** If lucid dreaming were reliably induced by purely physical intervention (drugs, stimulation) without metacognitive training, the state would appear fully determined by brain activity.
 
-4. **Problem-solving occurred equally in dreamless sleep.** If NREM periods with no dream reports produced the same creative improvements as REM dreaming, consciousness during sleep would be inessential. Evidence from Cai et al. (2009) specifically implicates REM, not NREM.
+4. **Problem-solving occurred equally in sleep without experience.** If sleep periods that generated no experience at all produced the same creative improvements as dreaming ones, consciousness during sleep would be inessential. The test has to be run on phenomenal reports rather than on sleep-stage labels, which do not track experience closely enough to stand in for it. Stated architecturally — as "NREM matches REM" — the condition is arguably part-met by evidence cited above: Lacaux et al. (2021) is an N1 result, and N1 is polysomnographically NREM, while Löwe et al. (2025), a preregistered study of ninety participants on a perceptual insight task, found no N1 advantage over waking (p = 0.75) and located the benefit at N2 instead (p = 0.038) — a NREM stage deeper still. Neither overturns Cai et al. (2009), whose REM finding is untouched, because Löwe's twenty-minute nap protocol had no REM arm; what they establish is that this falsifier cannot be run on stage labels at all. Stated phenomenally it remains open, since no study in this literature has gathered the experience reports the comparison requires.
 
 5. **Dreams prove fully predictable from neural states.** If brain imaging achieved precise dream decoding, production models would gain ground over filter models. Current decoders show limited success with coarse categories.
 
@@ -255,4 +259,6 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzin, J.F. Kihlstrom, & D.L. Schacter (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
 1. Sebastián, M. A. (2014). Dreams: An empirical way to settle the discussion between cognitive and non-cognitive theories of consciousness. *Synthese*, 191(2), 263–285.
 1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
+1. Löwe, A. T., Petzka, M., Tzegka, M. M. & Schuck, N. W. (2025). N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task. *PLOS Biology*, 23(6), e3003185. https://doi.org/10.1371/journal.pbio.3003185
+1. Siclari, F., Baird, B., Perogamvros, L., Bernardi, G., LaRocque, J. J., Riedner, B., Boly, M., Postle, B. R., & Tononi, G. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878. https://doi.org/10.1038/nn.4545
 1. Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.

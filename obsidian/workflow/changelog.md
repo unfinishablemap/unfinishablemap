@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T21:53:00+00:00'
+ai_modified: '2026-08-22T22:11:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T22:11:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Original length**: 3261w (`soft_warning`; topics thresholds 3000 soft / 4000 hard / 6000 critical). **After**: 3719w, still `soft_warning`, 281 words below the hard gate.
+- **Scope**: Removing REM/NREM as a proxy for consciousness present/absent. Inherited repair — `topics/incubation-effect-and-unconscious-processing` was fixed on the same point earlier today (`76b95330`), and `concepts/sleep-and-consciousness` already holds the canonical line ("diminishes but rarely vanishes entirely"; the awake/asleep dichotomy "is false"). This article was the outlier; the pass brought it into line rather than proposing anything new.
+- **Changes**:
+  - **L205, falsification condition 4 — the priority.** Was: *"If NREM periods with no dream reports produced the same creative improvements as REM dreaming… Evidence from Cai et al. (2009) specifically implicates REM, not NREM."* Stated architecturally, the falsifier was **arguably part-met by the article's own citations** — Lacaux et al. (2021) is an N1 result and N1 is polysomnographically NREM. Restated phenomenally ("sleep without experience"), with the architectural reading named and conceded as part-met, and Löwe et al. (2025) added (N=90, preregistered, no N1 advantage p=0.75, benefit at N2 p=0.038 — a NREM stage deeper still). Explicitly says this does **not** overturn Cai: Löwe's 20-minute nap protocol had no REM arm. Closes by leaving the phenomenal version open, since no study in this literature has gathered the experience reports the comparison requires.
+  - **L183, the mode problem (epiphenomenalist challenge).** Was: *"If unconscious consolidation sufficed for creative problem-solving, NREM should match REM. Instead, the sleep stage defined by vivid experience specifically enhances creative outcomes."* Two defects: it treated NREM as unconscious, and REM is not *defined* by vivid experience. Now splits the phenomenal and architectural readings and **grants the epiphenomenalist the weaker reading** until the comparison is run on experience reports rather than stage scoring. This is a real concession, consistent with the paragraph's existing "none is individually decisive" hedge.
+  - **L159, table row (Phenomenal Mode Tracking Pattern).** `NREM dreamless sleep` → `Sleep with no dream report`; phenomenal-character cell now reads *"Reported absent — though absence of report is not established absence"*. The **row label** was the thing carrying the architectural claim, so that is what got restated; column structure and the row's contrast with the rows below are intact (verified 3 cells post-sync).
+  - **L162, N1 row** → `Hypnagogic N1 (a NREM stage)`. Four words that make the table self-refuting on the old framing: a NREM row sitting directly beneath a "NREM = no creative benefit" row.
+  - **New paragraph after the table** carrying the corpus position: dreaming occurs during NREM, correlating with reduced slow-wave activity in the posterior "hot zone" rather than with stage as such (Siclari et al. 2017); links [[sleep-and-consciousness]] as the article holding the canonical line; ends *"Where the architectural label and the experience come apart, the benefit follows the experience."* The preceding sentence lost its own "REM enhances… while NREM does not" phrasing.
+  - **L143, fourth locus found in-pass (not in the task brief).** The article repeated the **pre-correction Lacaux dose framing** — *"15 seconds in N1 sleep tripled the rate"* — the exact defect `76b95330` had just repaired in the sibling. Fifteen seconds is the **minimum criterion for classifying an N1 episode, not an administered dose**. Fixed, since the pass then leans on that citation at L205.
+  - **References**: added Löwe et al. (2025) — byte-identical to the entry live at `hypnagogic-phenomenology-and-interface-modulation` L198, *verified by string comparison*, because **three same-first-author Löwe items exist and the DOI is the discriminator** (`10.1371/journal.pbio.3003185`) — and Siclari et al. (2017), taken from the full form at `incubation-effect-and-unconscious-processing` L164. The list uses uniform `1.` markers and carries no in-text numeric cross-references, so insertion breaks nothing.
+- **Deliberately NOT touched**:
+  - The **interface-configuration table** at L112-117 ("Waking / Non-lucid REM / Lucid REM / N1 hypnagogia"). Its column is *Configuration*; architectural labels are correct there by design. Only the *phenomenal* table was restated.
+  - The article's filter-model argument and conclusion. The repair is to how the sleep-stage evidence is *described*, not to what it is taken to show.
+- **Verification**: `analyze_length` re-run (3719w, measured not estimated). `scripts/sync.py` run; **both trees grepped** — 5 old defect strings return 0/0, 6 new strings return matching counts in obsidian and hugo, and the new wikilink converted to `/concepts/sleep-and-consciousness/`. `validate.py` ✓ Valid. `ai_modified` `date -u`-checked strictly past (stamped 22:08:05, clock 22:10:05).
+- **Published**: yes
 
 ## 2026-08-22T21:53:00+00:00 - refine-draft
 
