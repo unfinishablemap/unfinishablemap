@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T12:47:00+00:00'
+ai_modified: '2026-08-22T13:17:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 13:20 UTC - research-topic
+- **Status**: Success
+- **Topic**: Dendritic Integration Theory of consciousness (P2 `research-topic`, minted by `/harvest-research-subjects` from `reviews/outer-review-synthesis-2026-08-22.md` cluster 3 - the one Gemini finding of that cycle that survived verification)
+- **Output**: [[research/dendritic-integration-theory-2026-08-22]]
+- **Sources consulted**: 9 verified references; every DOI checked at Crossref, abstracts pulled verbatim from Europe PMC / PubMed EFetch, and the naming paper retrieved as PDF and text-extracted locally.
+- **Corpus map first (per task brief)**: `dendritic` appears in 4 live articles, `larkum` in 1, `apical` in 2. Recorded each locus with what it already claims, so a downstream expand neither duplicates nor contradicts them. `voids/perceptual-reality-monitoring-void` L94/L130 already carries the correct Aru/Suzuki/Larkum 2020 citation - the gap is narrower than "absent".
+- **Attribution finding (corrects the reviews, the harvest task and the driver brief)**: all three attribute DIT to Aru, Suzuki & Larkum (2020, *TiCS*). The paper that names and states the theory - desiderata, thesis, predictions, open questions - is **Bachmann, Suzuki & Aru (2020)**, *Philosophy and the Mind Sciences* 1(II), 2, DOI `10.33735/phimisci.2020.II.52`. Larkum is not an author; he appears in the acknowledgments. Any article sourcing the theory to the TiCS paper would make the wrong-work error in paraphrase form.
+- **Naming discrepancy**: the TiCS 2020 abstract as printed, and as independently indexed by PubMed and Europe PMC, reads "Dendritic **Information** Theory". A 2021 erratum exists (*TiCS* 25(12) 1096, DOI `10.1016/j.tics.2021.09.008`, confirmed by Europe PMC as "Erratum for" PMID 32855048) but **its content is exposed by no index and cell.com returns 403** - recorded as unverified, not asserted.
+- **Structural finding that reframes the gap**: Marvan, Polak, Bachmann & Phillips (2021) position the cellular mechanism as an implementation layer *for* recurrent processing, global workspace and integrated information - "provides a possible mechanism for recurrent processing theory... makes the broadcasting hypothesized by global neuronal workspace theories feasible... contributes to the holistic aspects of integrated information theory". So the Map is missing a **tier**, not a seventh rival. Corroborated by Storm, Klink, Aru et al. (2024, *Neuron* 112(10)).
+- **Gemini's rhetoric does not survive the primary text**: the review claimed DIT "completely obliterates" and "falsifies" the interface reading. DIT's own authors write "we are not claiming that no other theory can explain these properties", and the *Cell* conclusion is explicitly conditional ("**If** feedback signaling occurs predominantly through apical dendrites..."). The finding survives; the framing is the reviewer's. Also corrected: Gemini's "GABA-A, NMDA, two-pore potassium channels" gloss is not the paper's - the abstract says only "three different anesthetics", and the agent list could not be verified at the primary methods.
+- **Two uncovered items no open task holds**: (1) Aru, Siclari, Phillips & Storm (2020) "Apical drive - A cellular mechanism of dreaming?" is a *second* missing rival for `topics/hypnagogic-phenomenology-and-interface-modulation`, cellular rather than computational, targeting exactly the external-to-internal transition that article reads as interface modulation; it discharges the DIT pointer parked at `research/sleep-onset-literature-2020s-hypnagogia-2026-08-22` L93. (2) `concepts/penfield-interactionist-dualism` L52 already records Eccles pairing a *dendron* - "a bundle of apical dendrites of pyramidal cells" - with a *psychon*; DIT puts consciousness at apical/somatic coupling in the same cell class thirty years later. Unclaimed convergence, and it cuts both ways.
+- **Caps measured live** with `tools.evolution.state.count_section_files`, not quoted: `topics/` 320/320 **at cap**, `concepts/` 318/320, `voids/` 99/100, `positions/` 16/80. A DIT article can only be `concepts/` and competes for one of two slots, so the note was written to be discharged either way - it carries insert-ready passages and per-host word budgets from `analyze_length`.
+- **In-place host identified that no reviewer considered**: `concepts/biological-computationalism` at 2273/3500 has 1227 words of headroom and is *already the Aru article* (Milinkovic & Aru 2026). The anaesthesia article the reviews targeted is at 3971/4000 - 29 words - and confirms both legs' length-blocked assessment.
+- **Verdict**: standalone `concepts/` article preferred; if only one thing is done, do the hypnagogia/apical-drive angle, which addresses a live 3/3 convergent finding.
+- **Honest absences**: no published critique of DIT was located (reported as "not found", not "none exists"); the erratum content, the *Cell* methods, and the Aru/Larkum/Shine 2023 full text were not retrieved. All recorded in the note's Gaps section.
+- **Todo untouched, no commit** (per skill step 5 and the driver brief). Synced to Hugo and verified: body carries zero wikilinks (backticked paths throughout), so no push-blocker risk; all frontmatter wikilink targets resolve.
 
 ## 2026-08-22 12:47 UTC - optimistic-review
 - **Status**: Success

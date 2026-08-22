@@ -37,7 +37,7 @@ related_articles:
   - "[[reviews/outer-review-synthesis-2026-08-20]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-04-29T14:27:00+00:00

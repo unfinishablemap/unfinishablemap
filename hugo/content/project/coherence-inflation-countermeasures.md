@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-01-16
 ai_modified: 2026-08-22 09:15:35+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
