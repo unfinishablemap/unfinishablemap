@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T16:24:25+00:00'
+ai_modified: '2026-08-22T18:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 16:24:25+00:00
+lastmod: 2026-08-22 18:53:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T18:53:00+00:00 - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 59 changed content files (full read of lead, `description:` and tenet-alignment section plus per-file diff), across a 44.5h window (base `9708b3b740`, 167 commits, 58 touching content); direct-contradiction battery across `obsidian/{topics,concepts,apex,voids,positions,arguments,tenets}`, `archive/`, `hugo/content/`
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 3
+- **Headline**: zero direct tenet contradictions, the twelfth consecutive clean pass on the standing battery. Both predecessor notes closed (`apex/one-world-wager` "decisive" thesis surface at commit `4242bb26b4`; the photosynthesis currency conflict at `cd7245b1d4`). All findings came from a lens the standing battery does not run: claims that mis-state a tenet's own standing without endorsing anything the tenets rule out.
+- **Warning 1** (Tenet 2, over-concession, NEW yesterday): [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) L40 names a falsification condition "decisive for every reading" that post-decoherence selection is expressly built to survive, conflating coherence with indeterminacy against `tenets.md` L73/L77. Propagation source [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) L79; third instance at L68 of the same file.
+- **Warning 2** (Tenet 4, over-defence, 89-day un-propagated fix): [minds-without-words](/apex/minds-without-words/) L155 asserts haecceity "is a genuine fact that MWI cannot accommodate" — the framing its source [animal-consciousness](/topics/animal-consciousness/) L190 retired on 2026-05-25, six days after the apex copied it.
+- **Notes**: the wider "MWI cannot accommodate" family (4 further live loci, 11 archived); [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) L203 "the epiphenomenalist alternative is self-undermining"; [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) L112 leaning on "the simpler explanation" inside its own anti-parsimony paragraph.
+- **Carried**: Family Z closed; Family AA (sign/direction) open and unmoved, recorded not re-minted per standing instruction.
+- **Output**: [tenet-check-2026-08-22](/reviews/tenet-check-2026-08-22/)
 
 ## 2026-08-22T18:09:00+00:00 - refine-draft
 
