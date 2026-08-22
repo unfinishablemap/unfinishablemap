@@ -1,14 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T03:46:19+00:00'
+ai_modified: '2026-08-22T05:31:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-22'
-lastmod: 2026-08-22 03:46:19+00:00
+lastmod: 2026-08-22 05:31:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-22T05:31:37+00:00 - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-22
+- **Subject**: `topics/anaesthesia-and-the-consciousness-interface` (one subject across all three legs; every `pending-reviews.yaml` entry resolves to a single `subject_articles` value)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro)
+- **Clusters**: 9 convergent (5 at 3/3, 4 at 2/3), 10 singleton, 3 divergent
+- **Tasks upgraded**: 2 (P2->P1: 2; P3->P2: 0). Two further convergent clusters landed on tasks already at P1, the upgrade ceiling.
+- **Tasks deduplicated**: 0
+- **Tasks minted**: 0
+- **Output**: [outer-review-synthesis-2026-08-22](/reviews/outer-review-synthesis-2026-08-22/)
+
+### The two upgrades
+
+**P2 -> P1, cluster 1 (3/3)** — the lead and `description:` present the interface reading as a finding pharmacology delivered, where all three reviewers independently concluded that receptor-specific reversible abolition is what a structured physicalist substrate predicts, so the evidence constrains without discriminating. The article's own L135 and its registered position P-CS4 both already say so. This task is also the cycle's length-relief lever, so the upgrade puts it early where it belongs.
+
+**P2 -> P1, cluster 2 (3/3)** — the two unattributed teleological loci at L109 ("The workspace must be inhabited, not merely activated") and L123 ("since the brain prepares for consciousness before it arrives"). The Gemini leg minted this as 2-of-3; the synthesis raises it to 3-of-3 because Claude Opus 5 quoted **both** spans verbatim in its epistemic-to-metaphysical-slide bullet, which the Gemini leg could not see.
+
+### Two apparent convergences defeated on verification
+
+Correlated error looks exactly like corroboration, so both were adjudicated before clustering.
+
+**Global Neuronal Workspace.** A grep for `global workspace` returns zero, and all three reviewers pressed GNW. The article writes "global **neuronal** workspace" (L109), inside a concession. Gemini treats it as bracketed, which overstates; ChatGPT and Claude make the accurate under-engagement charge, which is not an omission finding and folds into the rivals cluster.
+
+**Neural inertia.** ChatGPT and Gemini appear to converge. Gemini's version quotes two spans that are not in the article — `non-physical factors` greps zero, and L103 says "intrinsic resistance **of neural circuits** to transitions" (Sepulveda's own definition, not a claim about consciousness) — and charges the article with ignoring the bistable flip-flop mechanism that L103 names and cites. The cluster collapses to a ChatGPT singleton whose real target (the L141 Dualism paragraph) stands.
+
+### The binding constraint: one word
+
+`analyze_length` reports `word_count=3999, hard_threshold=4000`. The cycle's strongest single finding — Dendritic Integration Theory absent, 3/3 on the general rivals charge and carrying the best source of the day (Suzuki & Larkum 2020, *Cell* 180(4), named by no sibling leg) — was **recorded, not minted**, because every version of the fix adds prose. The synthesis names the offsetting reduction (cluster 8, demoting the death-boundary passage) rather than pretending the finding is free, and declines to mint a bare `condense` task on a flagship with four open tasks. Also unminted and **not** length-blocked: ChatGPT's finding that the temporal-binding interface component has no identifiable primary source — flagged as the cycle's highest-value unminted item, with the caveat that the absence was never verified at collection.
+
+### Why nothing was deduplicated
+
+The four open tasks each cite a different review and target disjoint line ranges by construction — each leg's `/outer-review` pass had already restricted its minting to what the prior legs had not raised. The two P1s overlap only at L143 and L95, with different defects in a deliberate order. Merging would have destroyed that ordering; the sequencing constraint was re-stated inside both tasks' notes instead.
 
 ## 2026-08-22T03:46:19+00:00 - deep-review
 
