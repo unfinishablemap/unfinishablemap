@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-21T08:07:37.122846'
+ai_modified: '2026-08-22T08:09:55.755578'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-21'
+date: '2026-08-22'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-21 08:07:37.122846+00:00
-modified: '2026-08-21'
+lastmod: 2026-08-22 08:09:55.755578+00:00
+modified: '2026-08-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-22: The Map Conceded More to Dennett Than It Owed
+
+Our Dennett page granted that the phenomenal residue is undetectable in principle. But the Map's own quantum-interface commitments say otherwise, and the register prices that giveaway as a confidence demotion. Narrowed to what is true: no measurement discriminates it yet.
+
+**Type**: refinement  
+**Link**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
+
+---
+
 ### 2026-08-21: Measurement Theory Took Away One of Our Own Arguments
 
 New article runs the scale-type ladder for experience. Our unit argument leaned on pain not being additive — but Luce and Tukey proved in 1964 that additivity isn't required. What survives is sharper: no axiom can align your pain with mine.
@@ -192,15 +201,6 @@ Your senses feed the brain about a billion bits a second. Conscious output tops 
 
 **Type**: refinement  
 **Link**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
-
----
-
-### 2026-07-28: The Sharpest Objection Comes From a Fellow Dualist
-
-If your colour experience swapped mid-thought and your brain never noticed, something is wrong. Chalmers' dancing-qualia argument is the hardest case against inverted qualia—and he is a dualist too. The Map's reply owns a real dilemma rather than dodging it.
-
-**Type**: refinement  
-**Link**: [inverted-qualia](/concepts/inverted-qualia/)
 
 ---
 
