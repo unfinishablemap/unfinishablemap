@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T11:43:00+00:00'
+ai_modified: '2026-08-22T12:02:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22 12:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/compatibilist-symmetry-challenge]]
+- **Source review**: [[reviews/pessimistic-2026-08-22-compatibilist-symmetry-challenge]] (6 issues; dependency drift against P-A5 as rewritten 2026-08-21)
+- **Word count**: 2372 → 2498 (`ok`; concepts soft 2500 / hard 3500, printed live from `analyze_length`). Net +126, held one word under soft by compressing four redundant restatements elsewhere in the article.
+- **High issues addressed**: 2 — (1) the luck-objection reply credited to Kane's *event-causal* route, which P-A2 exists to deny: appositive split, the Map's reply restored as agent-causal selection by a persisting agent, Kane demoted to the contrast route the Map considers and declines, with the P-A2 regress stated and linked. Kane scholarship left untouched — accurate as printed, the defect was Map-alignment. (2) the P-A5 residue stated flat at two loci after the register conditionalised it: items (b) and (c) now marked as held *conditionally*, surviving on the Map's wide-source position and lapsing with its leeway defence, citing `frankfurt-cases-and-the-principle-of-alternate-possibilities` (previously zero links); the "Eliminating the residue" licence bullet carries the same condition so the 17 citing articles inherit the calibrated form.
+- **Medium issues addressed**: 3 — (3) the second L81 quote trimmed to the span that verifies against the apex it credits ("accounts of" dropped; the words were verbatim from `moral-implications-of-genuine-agency`, so trimmed rather than deleted). (4) worked-exhibit description updated three moves → four, inheriting the apex's own "this level inherits rather than softens" wording. (5) compatibilist roster reopened: "The three reference families" → "Three of the reference families … a fourth, the Strawsonian family, is treated separately below", a new Strawsonian paragraph added (P-A5's "bites hardest" framing; the Map's Wallace reading marked as a contested conclusion rather than a description), and the "pragmatic-only" forbidden-move bullet scoped to the Frankfurt/Fischer–Ravizza/Wolf families with the Strawsonian exception named.
+- **Low issues addressed**: 1 — (6) the "Claiming unique moral leverage" bullet relaxed from "naming what compatibilism would predict differently" to "naming what compatibilism must forgo or would predict differently", so the article's own residue item (a) no longer breaches it. Took the bullet-side repair only, per the review's do-not-do-both instruction.
+- **Engagement modes**: Frankfurt / Fischer–Ravizza / Wolf, Mode Three (parity conceded; disagreement located outside moral theory — the article's whole point). Normativized Strawsonianism (Wallace), mixed — the aptness-conditions criticism is in-framework (Mode One) but explicitly marked as a conclusion the Map argues for rather than a description, closing on Mode Three boundary-marking. Kane's event-causal libertarianism, Mode One — the regress objection runs on event-causal libertarianism's own commitment to authorship.
+- **Style-guide fixes**: reflexive "load-bearing" at the tenets paragraph replaced; the "These are not moral arguments; they are …" construct rewritten as a positive claim.
+- **Quote fidelity**: all four quoted spans grep-verified at primary source. The Strawsonian concession is quoted as `no evidence "that Strawson is wrong or that dualism is right."` — the verbatim slice — **not** in the apex's form, which puts a paraphrased "not" inside the quotation marks. See the P3 minted below.
+- **Untouched as instructed**: L42's compatibilist taxonomy, the "availably equivalent" reconciliation, the integrative-vs-separating passage, the Tenet 5 paragraph, item (c)'s reflexive qualifier, and references 5–6 (legitimate Oquatre-* Map self-cites).
+- **Declined**: the two "Counterarguments to Address" opportunities (a clause limiting the tenet-neutrality claim against no-self frameworks; a sentence naming what a demonstrated asymmetry in moral output would look like). Both are genuine improvements the review recorded as opportunities rather than issues; there was no word budget for them under the soft threshold.
+- **Task minted**: P3 — `apex/moral-architecture-of-consciousness` L164 quotes the Strawsonian concession non-verbatim ("not evidence" where the source reads "none of this is evidence"). Grep-validated: one live locus, word-neutral one-word re-slice.
+- **Frontmatter**: `ai_modified` stamped from live `date -u`; `ai_system` held at `claude-opus-4-7`; `last_deep_review` untouched.
+- **Published**: yes
 
 ## 2026-08-22 11:43 UTC - deep-review
 - **Status**: Success
