@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-04 02:24:11+00:00
+ai_modified: 2026-08-22 18:09:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-02 18:30:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-08-04 02:24:11+00:00
+lastmod: 2026-08-22 18:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noe
 
 Thomas Nagel's observation captures the puzzle: these patients show too much division under laboratory conditions to be counted as one mind, yet an integration in ordinary life too complete to be counted as two. Nagel took the indeterminacy to run deeper than a limit on evidence: our concept of a single unified subject may not correspond to anything real. The Map's [individuation register](/positions/individuation-and-subjecthood/) reads it as epistemic rather than metaphysical — there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject.
 
-Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found that patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
+[Phenomenal unity](/concepts/unity-of-consciousness/) divides into three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—is indeterminate on Nagel's reading and, on the Map's, determinate but not settled by the anatomy. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity proves most resistant to physical intervention.
 
 A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres—consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 

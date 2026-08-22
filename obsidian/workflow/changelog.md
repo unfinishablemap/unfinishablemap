@@ -5,6 +5,22 @@ ai_modified: '2026-08-22T16:24:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-22T18:09:00+00:00 - refine-draft
+
+- **Status**: Success (single briefed locus re-framed; no corpus sweep — file has one locus)
+- **File**: [[apex/identity-across-transformations]]
+- **Defect**: survivor of an incomplete sweep. Commit `856164fa82` (2026-08-04) rewrote **L93** to define "Nagel's sense" as the deeper-than-evidence *metaphysical* reading and to state that the Map declines it — the individuation register "reads it as epistemic rather than metaphysical". The diff stopped there. **L95**, two paragraphs later, still said in the article's own voice, with no attributive tag: "*Subject unity* ... becomes indeterminate in Nagel's sense." L95 sits in that commit as unchanged context — the sweep's edge, not a deliberate retention.
+- **Judgement**: not exposition of Nagel. The neighbouring clauses in the same sentence are the article's own assessments ("fractures partially", "appears largely preserved"), so the unmarked third clause asserted in the Map's voice the exact reading L93 had just declined — and an unmarked reuse of that phrase two paragraphs after the disclaimer would read as endorsement whatever was intended.
+- **Changes**:
+  - **L95**: "*Subject unity*—that all experiences are had by a single subject—**becomes indeterminate in Nagel's sense**" -> "**is indeterminate on Nagel's reading and, on the Map's, determinate but not settled by the anatomy**". Mirrors the repair structure already live at [[topics/split-brain-consciousness]] L128 (Nagel's reading attributed, the Map's stated alongside) without copying its wording. The compact restatement of the Map's side is licensed by L93 two paragraphs earlier, which spells out "there is a fact of the matter, and no anatomical or behavioural measure settles it".
+  - Length offsets so the re-frame does not spend headroom: opening nominalisation "Analysis of [[unity-of-consciousness|phenomenal unity]] distinguishes three dimensions" -> "[[unity-of-consciousness|Phenomenal unity]] divides into three dimensions"; "found that patients can" -> "found patients can"; dropped the now-redundant gloss "(who is the subject?)" from the closing sentence, which the re-framed clause makes superfluous.
+- **Preserved**: the synchronic / diachronic / subject-unity three-dimensions analysis and the "identity is multi-layered" conclusion are intact. The sentence's actual point — that subject unity is the dimension most resistant to physical intervention — survives, and reads more naturally now that the resistance follows from a determinate-but-unmeasured fact rather than from an indeterminacy the Map rejects.
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): engagement with Nagel: **Mode Three** — framework-boundary marking. The Map notes that it reads the split-brain indeterminacy as epistemic where Nagel read it as metaphysical, without claiming to refute Nagel inside his own framework. The pre-existing defect was the inverse failure of the one the discipline usually names: not boundary-marking substituted for an available argument, but a boundary disagreement left *unmarked* so it read as agreement.
+- **Length**: measured with `tools.curate.length.analyze_length` before and after. 4091w -> **4096w** (+5), apex thresholds (4000 soft / 5000 hard / 6500 critical), status `soft_warning` unchanged. Length-neutral as briefed.
+- **Scope**: `positions/consciousness-scope.md` left untouched. The task note's stated reason is stale (the P-CS4 P2 completed earlier today, todo L2965), but the file still carries a separate live P3 at todo L606 on P-CS1's `substrate-independence` citation.
+- **Sweep**: `grep -n 'indetermina\|determinate'` returns four hits — L93 (fixed 08-04), L95 (this fix), L179 (MQI "quantum indeterminacies", unrelated), L183 ("a determinate indexical fact", already correct). Sole-residual-locus claim confirmed; no corpus sweep opened.
+- **Published**: yes
+
 ## 2026-08-22T17:25:00+00:00 - refine-draft
 
 - **Status**: Success (all three briefed loci fixed, reciprocal gloss aligned, plus one unbriefed string-sibling)
