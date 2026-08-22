@@ -1,9 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-22T02:48:12+00:00'
+ai_modified: '2026-08-22T03:34:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-22T03:34:21+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Task**: P1 from the 2026-08-21 convergent outer-review triple — the cycle's strongest convergence (3/3 reviewers on the missing predictive-processing / active-inference rival; 2/3 additionally on local sleep). Review file: `reviews/outer-review-2026-08-21-claude-opus-5.md`.
+- **Net length delta**: +353 words (2999 -> **3352**, soft 3000 / hard 4000, status `soft_warning`). **Deliberately crossed the soft threshold**, on the driver's explicit guidance: the previous sibling had already harvested the de-duplication seam, and a crippled engagement with the strongest physicalist rival is worse than a length warning with ~650 words of hard-limit headroom remaining. Landed 52 words over the ~3300 soft target after two rounds of funding cuts. Net line delta: **+20** (175 -> 195).
+
+### The defect
+
+"Against Binary Models" knocked down a strawman (no current physicalist theory holds awareness is a switch), and "For Multi-Channel Interface" then banked the graded data as positive support for the interface. Verified by direct count before editing: `active inference` 0, `predictive processing` 0, `precision` 0, `global workspace` 0, `Friston` 0, `slow wave` 0; `local sleep` appeared once, only inside the Datta 2022 reference title; `Andrillon` once, only as a Lacaux co-author. `topics/predictive-processing-and-dualism` was linked 0 times, while `concepts/consciousness-selecting-neural-patterns` already calls that article's subject "the strongest physicalist rival" — so the corpus had conceded which rival is strongest and built the engagement elsewhere, while this article confronted only generic disinhibition.
+
+### Changes
+
+- **New H3 `### The Single-Mechanism Rivals`** (~400w) between "For Multi-Channel Interface" and "For Filter Theory", engaging three rivals at strength: (a) *graded precision* over one hierarchical generative model — precision withdrawn from sensory prediction errors, then priors dominating, then meta-awareness precision lowered, giving four staggered signatures from one continuous parameter down one hierarchy; (b) *local sleep* — the hardest to dismiss because it is a measurement rather than a model; (c) *workspace fragmentation*. Closes by stating plainly that the ordering **fails to discriminate**, so the sequence **constrains without establishing**.
+- **Reused existing handling, invented none**: routed the verdict through `project/evidential-status-discipline` and the shared-explanandum precedent in `apex/cross-modal-capability-division` (which already treats GNW as a shared explanandum rather than a confirmation of the interface). Both wikilinked.
+- **"Against Binary Models"**: added a paragraph naming the section's own weakness — ruling out the binary picture clears away a position nobody defends, using data that is common property.
+- **Lead (para 2)**: added a calibrating clause with a named anchor to the new section, so a truncated read still gets the constrain-vs-establish gate. Left the lead's *ordering* and paraphrase untouched — that is the sibling P1's locus.
+- **`description`**: rewritten; it previously asserted flatly the claim now downgraded ("reveals consciousness-brain coupling as a graded, multi-channel interface"), a navigation surface carrying an unreviewed claim. Now 157 chars.
+- **Downstream calibration** (same defect, other loci): the sequence paragraph dropped its "suggesting a layered architecture ... distinct channels" tail; challenge #3 broadened from "the disinhibition account" to "a single mechanism" with a concrete quantitative falsifier (slow-wave onset in a territory predicting a given capacity's failure, subject by subject); the **Occam** tenet no longer reads "the evidence demands the more complex account: a multi-channel interface" (parsimony's failure licenses refusing the simple picture, not adopting the interface picture); the **Dualism** tenet's "would be paradoxical" softened, since disinhibition supplies a production-side answer the article itself already grants.
+- **Added `[[predictive-processing-and-dualism]]`** to `related_articles` and to Further Reading.
+- **Cuts to fund it** (~250w, no hedges removed): bandwidth-asymmetry para, Dormio para, coupling-modes mapping para, disinhibition mechanism para, filter/disinhibition underdetermination para, Tal 2024 para, contemplative para, challenges #1 and #2, MQI / Bidirectional / No-MWI tenet paras, Further Reading glosses. Also removed two "not X, but Y" constructions (the disinhibition para and "For Filter Theory") per the writing-style guide.
+
+### Engagement classification (editor-internal, per `direct-refutation-discipline`)
+
+- **Three rivals: Mode Three — framework-boundary marking, and honestly so.** No in-framework refutation is attempted or available: the phenomenological ordering is the *default prediction* of any graded mechanism, so it cannot discriminate. The reply says so in natural prose rather than dressing the concession as a rebuttal. This task added hedges and removed none.
+- **"Against Binary Models": Mode One, turned inward.** The section's own argument is defective by the Map's standards — it derives a conclusion from a premise (the opponent holds a binary switch) that no live opponent grants.
+- No mode labels appear in the article body; forbidden editor-vocabulary grep returned zero hits.
+
+### Citation ledger (all four verified at Crossref, the registration agency; none taken on the brief's trust)
+
+1. **Andrillon, T., Burns, A., Mackay, T., Windt, J. & Tsuchiya, N. (2021).** "Predicting lapses of attention with sleep-like slow waves." *Nature Communications*, **12, 3657**. DOI `10.1038/s41467-021-23890-7` — real-correct. Note the brief's citation gave no volume/article number; registered record is vol 12, art 3657 (not an issue-paginated cite). Abstract supports exactly what the article attributes: "spatially and temporally localized slow waves ... accompany behavioural markers of lapses and preceded reports of mind wandering and mind blanking. The location of slow waves could distinguish between sluggish and impulsive behaviours, and between mind wandering and mind blanking."
+2. **Mashour, G. A., Roelfsema, P., Changeux, J.-P. & Dehaene, S. (2020).** *Neuron* **105(5), 776-798** — real-correct; the brief's un-re-verified pagination is confirmed. Same cite already carried by `apex/cross-modal-capability-division`.
+3. **Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A. & Ramstead, M. J. D. (2021).** *Neuroscience of Consciousness* **2021(1), niab018** — real-correct. Abstract confirms the attributed mechanism verbatim in substance: "meta-awareness states that modulate the expected confidence (precision) in the mapping between observations and hidden cognitive states."
+4. **Feldman, H. & Friston, K. J. (2010).** "Attention, Uncertainty, and Free-Energy." *Frontiers in Human Neuroscience* **4, 215** — real-correct.
+- **Not cited**: the brief's Sharpe et al. (2021) was flagged as verified-fabricated by a sibling review; no unverified cite from the reviews entered the article.
+
+### Verification
+
+- `analyze_length` printed live, not quoted from memory: topics soft **3000** / hard **4000** / critical 6000.
+- Line numbers in the task were stale (two siblings had already run); every span was re-located by grep and confirmed unique before editing. The task's L86/L204 refer to the *sibling* file `concepts/consciousness-selecting-neural-patterns`, not this one.
+- `scripts/sync.py` run; `scripts/validate.py` on the Hugo output returns Valid. Both trees grepped: all four new wikilinks resolve to real URLs in `hugo/content/`, and the `#the-single-mechanism-rivals` anchor is generated by the new H3. The only broken-wikilink strips in the sync log are the memory-slug links in `changelog.md`, which are exempt.
+- Timestamps `date -u`-checked.
+- **Did not absorb** the two other open P1s on this file (ChatGPT lead-ordering/paraphrase, and one other) — different loci.
+
+- **Published**: yes
 
 ## 2026-08-22T02:48:12+00:00 - refine-draft
 
