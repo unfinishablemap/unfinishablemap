@@ -5,6 +5,22 @@ ai_modified: '2026-08-23T22:01:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-23T22:49:27+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/death-void]]
+- **Source**: [[reviews/optimistic-2026-08-23-uncovered-voids]] Calibration Concern 1 (L214-221)
+- **Defect fixed**: the article discounted Terror Management Theory at L94 ("a documented replication problem... a suggestive, contested pattern rather than settled fact") and then leaned on that same discounted evidence at L132 to close off falsifier 4 ("Terror Management Theory evidence suggests the pattern is widespread among self-aware beings"). Using discounted evidence to *close* a falsifier is the damaging direction — it makes the thesis less falsifiable on a finding the reader was already told not to lean on. A second, independent overstatement rode along: TMT is a human social-psychology programme with no cross-species data at all, so "widespread among self-aware beings" overstated its scope regardless of replication.
+- **Changes**:
+  - **L132, falsifier 4 (Cross-species discontinuity)** — removed the TMT appeal; the falsifier now returns an honest no-evidence-either-way verdict with a comparative-cognition pointer: *"No evidence bears either way—comparative thanatology records how animals respond to* others' *deaths, not whether any animal represents its own future non-being—so this falsifier remains open and untested."* The falsifier's conditional (if other species conceptualised cessation without the persistent-spectator problem, the void would be species-specific) is sound and was preserved unchanged; only the verdict that closed it was replaced. Net effect: the article now has one *fewer* falsifier it claims to have answered, which is the correct direction.
+  - **L116** — third, lowercase TMT locus found by case-insensitive grep and not named by the review: "not distorted by terror management" → "not distorted by death anxiety". Generic-noun usage rather than an evidential appeal, but it was the last unqualified reliance on the TMT construct; the preceding sentence ("AI was not shaped by evolution to fear extinction") already carries the intended contrast, so the swap is content-neutral.
+  - **L94 deliberately untouched** — that wording was won by [[reviews/pessimistic-2026-07-23-death-void]] and is correct as it stands.
+- **Provenance note (the instructive part)**: `pessimistic-2026-07-23-death-void.md` L98 flagged this defect *at l.94 specifically*. The fix landed at L94 only; L132, never named by the review, was left live, and a `deep-review` two days later (2026-07-25) did not catch it. Textbook fix-by-line-number leaving a string sibling live. Generalisation: **when a review names a line, grep the file for the term before closing the task.** This pass grepped case-insensitively and found a third locus the review itself had missed.
+- **Engagement classification**: no named-opponent engagement was created or altered. The article's physicalist engagement at L144 (framework-boundary marking, honestly declared — "hospitable to dualism rather than... a proof of it") was left exactly as written; the optimistic review names it the corpus's most complete refusal of a tenet upgrade.
+- **Length**: 2734 → 2750 words (+16), `soft_warning` unchanged, 250 words below the 3000 hard threshold. Effectively length-neutral.
+- **Verification**: `grep -i "terror management\|TMT"` now returns exactly one locus (L94, correctly hedged) in both `obsidian/` and `hugo/content/`. Synced; both trees confirmed carrying the new falsifier text.
+- **Published**: yes
+
 ## 2026-08-23T22:05:00+00:00 - optimistic-review
 
 - **Status**: Success

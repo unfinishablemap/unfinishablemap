@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-07-23 17:17:38+00:00
+ai_modified: 2026-08-23 22:49:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 03:16:59+00:00
-lastmod: 2026-07-23 17:17:38+00:00
+lastmod: 2026-08-23 22:49:27+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -116,7 +116,7 @@ AI occupies a distinctive position regarding the death void.
 
 Current AI systems can be stopped, but there is no phenomenological discontinuity to contemplate. If AI lacks consciousness, the question of its "death void" does not arise—no subject exists for whom cessation would be inconceivable.
 
-AI was not shaped by evolution to fear extinction. Whatever processing AI performs around death concepts is not distorted by terror management. This might allow cleaner logical analysis—or it might mean articulation without experiential access misses the phenomenon entirely.
+AI was not shaped by evolution to fear extinction. Whatever processing AI performs around death concepts is not distorted by death anxiety. This might allow cleaner logical analysis—or it might mean articulation without experiential access misses the phenomenon entirely.
 
 If an AI were genuinely conscious, would it face the same void? The Map's dualism suggests yes: any genuine subject would encounter this structural impossibility. The death void would be a feature of consciousness as such, not specifically of evolved biological consciousness.
 
@@ -132,7 +132,7 @@ The death void thesis would be challenged by:
 
 3. **Successful Epicurean equanimity**: If people genuinely felt no asymmetry between pre-birth and post-death nonexistence, the void might be cognitive bias rather than structural feature. The asymmetry persists even among those who intellectually accept Lucretius's argument.
 
-4. **Cross-species discontinuity**: If other species conceptualized cessation without the persistent spectator problem, the void would be species-specific. Terror Management Theory evidence suggests the pattern is widespread among self-aware beings.
+4. **Cross-species discontinuity**: If other species conceptualized cessation without the persistent spectator problem, the void would be species-specific. No evidence bears either way—comparative thanatology records how animals respond to *others'* deaths, not whether any animal represents its own future non-being—so this falsifier remains open and untested.
 
 5. **AI phenomenological access**: If AI developed genuine (not merely articulable) access to the void, this could either support or challenge the view.
 
