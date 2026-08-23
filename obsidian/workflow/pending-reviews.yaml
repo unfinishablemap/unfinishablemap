@@ -591,3 +591,34 @@
   subject_articles:
   - topics/ethics-of-cognitive-enhancement-under-dualism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9fc1c885-59de-497e-9a14-0f4df80531b8
+  commissioned_at: '2026-08-23T03:12:10.300507+00:00'
+  prompt_summary: 'Audit ethics-of-cognitive-enhancement-under-dualism: claims, cites,
+    rivals'
+  target_filename: outer-review-2026-08-23-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for a single article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site developing an interactionist-dualist
+    framework built on five tenets: dualism, minimal quantum interaction, bidirectional
+    interaction, rejection of many-worlds, and limits to Occam''s razor. Audit this
+    article closely: https://unfinishablemap.org/topics/ethics-of-cognitive-enhancement-under-dualism/
+    Also consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    because the site changes daily and web-search indices lag 24 to 48 hours, so recent
+    revisions will not surface in search results alone. Report four things. First,
+    whether the article''s ethical conclusions genuinely follow from its dualist premises
+    or would hold equally under physicalism. Second, unsupported empirical claims
+    and miscited or outdated literature on enhancement and moral status. Third, tenet-coherence
+    problems where the article drifts from or quietly contradicts the five tenets.
+    Fourth, live positions in the enhancement-ethics literature it never confronts.
+    Check the site''s positions register before assuming it asserts a mechanism. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit ethics-of-cognitive-enhancement-under-dualism
+  subject_articles:
+  - topics/ethics-of-cognitive-enhancement-under-dualism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-23-chatgpt-5-6-sol-pro.md
