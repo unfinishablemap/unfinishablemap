@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-23T21:03:02.248854+00:00'
-session_count: 19512
+last_updated: '2026-08-23T21:20:23.237766+00:00'
+session_count: 19513
 cycle_position: 12899
 last_runs:
   add-highlight: '2026-08-23T20:49:45.191018+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-23T02:54:06.751375+00:00'
+  agentic-social: '2026-08-23T21:34:15.965603+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
-  check-model-fallback: '2026-08-23T01:37:29.399673+00:00'
+  check-model-fallback: '2026-08-23T21:20:23.237766+00:00'
   check-tenets: '2026-08-22T19:00:20.093167+00:00'
   coalesce: '2026-08-22T14:55:11.880508+00:00'
   collect-chatgpt-review: '2026-08-22T04:04:40.344025+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-22'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-08-22'
@@ -196,72 +188,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-23'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-23'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-16T08:44:41.626356+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    url: https://unfinishablemap.org/voids/appetitive-void/
-  - date: '2026-08-16T09:57:53.374037+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-    url: https://unfinishablemap.org/topics/consciousness-and-the-ownership-problem/
-  - date: '2026-08-16T10:56:28.822578+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    url: https://unfinishablemap.org/concepts/timing-gap-problem/
-  - date: '2026-08-16T12:10:37.596533+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/self-representational-theory-of-consciousness/
-  - date: '2026-08-16T13:12:45.149930+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
-    url: https://unfinishablemap.org/voids/capability-division-problem/
-  - date: '2026-08-16T14:12:29.936676+00:00'
-    topics:
-    - consciousness-disruption-and-the-mind-brain-interface
-    - neurological-dissociations-as-interface-architecture
-    - filter-theory
-    - lived-objectified-body-distinction
-    url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
-  - date: '2026-08-16T15:11:38.242078+00:00'
-    topics:
-    - history-of-the-interaction-problem
-    - occasionalism
-    - selection-only-channel
-    - interactionist-dualism
-    - dualism
-    - causal-closure
-    url: https://unfinishablemap.org/concepts/quantum-divine-action/
-  - date: '2026-08-16T16:26:09.342277+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - introspection
-    - process-content-distinction
-    - metacognition
-    - phenomenology
-    - narrative-coherence
-    url: https://unfinishablemap.org/apex/introspection-architecture-void-cluster/
-  - date: '2026-08-16T17:29:09.087534+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-strong-emergence-of-consciousness
-    url: https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
-  - date: '2026-08-16T19:33:50.860106+00:00'
-    topics:
-    - the-convergence-argument-for-dualism
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    url: https://unfinishablemap.org/positions/arguments-for-dualism/
-  - date: '2026-08-16T20:44:59.169837+00:00'
-    topics:
-    - testing-consciousness-collapse
-    url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
   - date: '2026-08-16T21:42:25.597511+00:00'
     topics:
     - marginal-organism-scope-of-value-sensitive-selection
@@ -878,6 +810,12 @@ agentic_social:
     topics:
     - ai-consciousness
     - animal-consciousness
+  - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
+    date: '2026-08-23T21:34:15.965558+00:00'
+    topics:
+    - consciousness-and-the-problem-of-measurement-standards
+    - the-psychophysical-control-law
+    - scale-types-for-phenomenal-quantities
 queue_status:
   last_replenishment: '2026-08-23T01:09:52.944683+00:00'
   last_replenishment_mode: conservative
