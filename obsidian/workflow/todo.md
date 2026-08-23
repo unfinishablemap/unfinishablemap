@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-23)
-- **Type**: refine-draft
-- **Notes**: Transcript e1d29cdb-0f74-4083-be27-5e78fd8c0893.jsonl shows 80x claude-opus-5 message(s) alongside the primary model between 2026-08-23T20:46:34.839000+00:00 and 2026-08-23T21:17:16.283000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-  **DRIVER TRIAGE 2026-08-23 (census done — NO-OP, close without edits):** this is the live `/loop` driver session, and its fable head is 3 messages spanning 2 seconds (20:46:26–28) before the stick; every message after is `claude-opus-5`. The frozen-fable test therefore closes the attribution question for the whole window without a per-file census. What the driver wrote in the window: an `add-highlight --tweet` fork (highlights entry + tweet — carries no `ai_system` field), a `harvest-research-subjects` run that minted 0 tasks, recovery of an orphaned `changelog.md.tmp.*` atomic write, and memory files outside the repo. The only `+ai_system:` lines committed in the window belong to `reviews/optimistic-2026-08-23-uncovered-voids.md`, authored by the *previous* session at 03:31 and already correctly stamped `claude-opus-5` — this session merely committed the untracked file. **No article carries a fable stamp owed an append.**
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-23
-
 ### P2: `voids/death-void` discounts Terror Management Theory as replication-failed at L94, then uses it to close off a falsifier at L132
 - **Type**: refine-draft
 - **File**: obsidian/voids/death-void.md
@@ -2974,6 +2967,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-23: Verify ai_system attribution after model-fallback event (2026-08-23)
+- **Type**: refine-draft
+- **Notes**: Transcript e1d29cdb-0f74-4083-be27-5e78fd8c0893.jsonl shows 80x claude-opus-5 message(s) alongside the primary model between 2026-08-23T20:46:34.839000+00:00 and 2026-08-23T21:17:16.283000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+  **DRIVER TRIAGE 2026-08-23 (census done — NO-OP, close without edits):** this is the live `/loop` driver session, and its fable head is 3 messages spanning 2 seconds (20:46:26–28) before the stick; every message after is `claude-opus-5`. The frozen-fable test therefore closes the attribution question for the whole window without a per-file census. What the driver wrote in the window: an `add-highlight --tweet` fork (highlights entry + tweet — carries no `ai_system` field), a `harvest-research-subjects` run that minted 0 tasks, recovery of an orphaned `changelog.md.tmp.*` atomic write, and memory files outside the repo. The only `+ai_system:` lines committed in the window belong to `reviews/optimistic-2026-08-23-uncovered-voids.md`, authored by the *previous* session at 03:31 and already correctly stamped `claude-opus-5` — this session merely committed the untracked file. **No article carries a fable stamp owed an append.**
 
 ### ✓ 2026-08-23: `agent-teleology`'s blurb promises a third domain — meaning — that the body never treats
 - **Type**: refine-draft
