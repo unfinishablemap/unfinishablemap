@@ -1,10 +1,10 @@
-last_updated: '2026-08-23T23:22:14.262515+00:00'
-session_count: 19520
+last_updated: '2026-08-23T23:35:54.799641+00:00'
+session_count: 19521
 cycle_position: 12904
 last_runs:
   add-highlight: '2026-08-23T20:49:45.191018+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-23T23:34:54.465229+00:00'
+  agentic-social: '2026-08-23T23:35:54.799641+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
   check-model-fallback: '2026-08-23T21:20:23.237766+00:00'
@@ -112,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-23'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-23'
@@ -190,6 +186,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-23'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-23'
   outcome: success
 agentic_social:
@@ -822,65 +822,54 @@ agentic_social:
     - meaning-of-life
     - alignment-in-objective-experiential-terms
 queue_status:
-  last_replenishment: '2026-08-23T01:09:52.944683+00:00'
+  last_replenishment: '2026-08-23T23:53:30+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, SIXTH
-    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
-    3; post-count re-measured from disk after the write == 3. Total active stayed
-    at 57 because a promotion moves a task between bands rather than adding one; the
-    queue held 57 active of which 55 were P3, so the floor was unmet behind a deep-looking
-    queue. The at-floor alternation recorded by runs 998-1002 continues and is the
-    steady state, not a fault. PROMOTION CHOSEN OVER MINTING because 55 already-vetted
-    P3 tasks remain starved and every mint source measured empty or blocked. PROMOTED:
-    the P3 on obsidian/concepts/agent-teleology.md, a refine-draft correcting an unearned
-    scope promise in the description line, which advertises the article as a key concept
-    for dualist accounts of action, evolution and meaning when the body treats only
-    the first two. RIPENESS EVIDENCE re-verified live at promotion rather than inherited,
-    five checks. (1) DEFECT PRESENT, counted with the exact strings the task note
-    names and on the measurement surface it specifies, that is frontmatter stripped
-    and the body cut at the Further Reading header: action 19, evolution 13, meaning
-    0, normativ 2. These reproduce the note figures exactly rather than approximately.
-    (2) THE TWO NON-PROSE HITS CONFIRMED INDIVIDUALLY: whole-file meaning returns
-    exactly 2 lines, L3 which is the description itself and L139 which is the purpose-and-alignment
-    Further Reading gloss, so the promised domain is carried entirely by a pointer
-    to a different article. The section header list was printed and contains no meaning
-    section, corroborating the zero from a second direction. (3) NOT CHURN: ai_modified
-    2026-05-31T19:19:42+00:00, 84 days old, and the path is absent from the churn
-    set rebuilt live for 2026-08-22 and 2026-08-23 across obsidian and archive, which
-    returned 44 files. (4) NO PILEUP: exactly one File line in the Active region targets
-    this path, the two grep hits on the slug being the task title and its own File
-    line. (5) LENGTH IS NOT A CONSTRAINT AND WAS RE-MEASURED RATHER THAN QUOTED: analyze_length
-    reads 2251 words, status ok, against concepts soft 2500 and hard 3500, and the
-    fix is length-neutral in any case since it edits one existing line. WHY THIS ONE
-    OVER THE OTHER RIPE-LOOKING CANDIDATES: the shortlist was read in full and three
-    were passed over on execution risk rather than on defect doubt. The theory-of-mind
-    falsifier-import P3 is length-blocked by its own note, which requires a paired
-    condense landing strictly under 3500 or an explicit deferral. The delegatory-dualism
-    cross-link P3 sits at 3974 words against topics hard 4000, so the two Further
-    Reading entries it asks for would breach. The consciousness-and-normative-force
-    P3 is sound but its qualifier depends on positions/agency-and-will and concepts/compatibilist-symmetry-challenge,
-    both of which are in the live churn set, so its inherited P-A5 wording would need
-    re-verification before the edit is safe. agent-teleology needs no research, no
-    length trade and no dependency on any file edited in the last two days. SOURCES
-    CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic structurally blocked with topics
-    320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three
-    free slots already oversubscribed by six open research-topic tasks; research harvest
-    drained at 774 of 774 scanned; orphans 0; critical issues 0; replenishment_config
-    is None and task_chains is not modelled on EvolutionState, so counts were taken
-    from count_p0_p2_tasks and parse_tasks directly. EDIT SHAPE: the priority marker
-    was changed in place from P3 to P2 and a Promoted line appended carrying the verification
-    figures; nothing was minted, and no other task block was touched. The post-write
-    parse was re-run and confirms 3 P2 and 54 P3.'
-  last_replenishment_run: 1003
-  loop_pickable_open: 3
+  last_replenishment_note: 'THREE GENUINE MINTS, ZERO PROMOTIONS - the six-run promotion-only streak (runs
+    998-1003) ends because a real chain source opened. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
+    3; post-count re-measured from disk == 4. All three mints are refine-draft discharges of already-paid-for
+    research at ZERO section-cap cost, which matters because caps are the binding constraint: count_section_files
+    this run reads topics 320/320 AT CAP, concepts 318/320, voids 99/100, positions 16/80. SOURCE: three
+    research notes dated 2026-08-22 whose successor tasks were never minted. Each was resolved against
+    the live corpus with a positive control before minting rather than on a bare zero. (1) research/voids-reafference-void-2026-08-22
+    self-declares FOLD, not a standalone article, supplies a finished distribution plan, and explicitly
+    declines the contested final voids slot; the string reafferen returns 0 hits across obsidian excluding
+    research, workflow and reviews, so nothing landed, and the host voids/predictive-construction-void
+    returns 0 hits for efference, corollary, attenuat, comparator and exafferen, so the material is new
+    rather than duplicated. Host measured 2498w against the voids 3000 hard gate, 502 words of headroom,
+    reproducing the note''s own figure exactly. Minted P2. (2) research/sleep-onset-literature-2020s-hypnagogia-2026-08-22
+    and research/dendritic-integration-theory-2026-08-22 independently target the SAME host, topics/hypnagogic-phenomenology-and-interface-modulation,
+    and independently measured the SAME obstruction: 3893w against the topics 4000 hard gate, 107 words.
+    Minted as ONE condense-and-insert P2 rather than two tasks, to avoid same-file pileup and a duplicate
+    condense pass. IMPORTANT NEGATIVE RESULT recorded so the executor does not redo it: the sleep-onset
+    note is already two-thirds consumed - the Hori nine-stage count is ALREADY CORRECT at L84 and the
+    failed Loewe et al. 2025 replication ALREADY LANDED at L88 with its reference at L198; only Decat
+    et al. 2026 is outstanding, at 0 hits. Minting the whole note would have been an over-mint. (3) The
+    DIT note flags voids/perceptual-reality-monitoring-void L94 as attaching the apical-amplification
+    label to the dendritic-integration naming paper - two distinct circuit-level frameworks with separate
+    canonical texts. Locus quoted from disk, host measured 2269w against 3000, 731 words of headroom.
+    Minted P3, with an explicit instruction to verify the lineage at primary texts before editing rather
+    than trusting the note, since the cited work is a third paper distinct from both canonical texts and
+    the note itself notes Larkum sits in the acknowledgements rather than the byline. SOURCES MEASURED
+    AND DECLINED: length_analysis yields 144 warnings but every content-article offender is either vetoed
+    with a veto tag, carries an open NEEDS-HUMAN length-decision entry, or is a research note rather than
+    site content, so there is no clean mintable target; staleness and gap_analysis produced nothing above
+    the noise floor; orphaned_files is 0. NOT MINTED, DELIBERATELY: the DIT note''s own first-choice verdict
+    is a standalone concepts/ article, but concepts/ has two slots and six open research-topic tasks contest
+    them, so spending one is an operator decision on the notation-void precedent. Rather than add a 69th
+    NEEDS-HUMAN entry, that decision and the zero-cost alternative host, concepts/biological-computationalism
+    at 2273/3500 with 1227 words of headroom, are recorded inside the P3 task''s notes. Backlog context
+    unchanged and still the real problem: 62 active tasks parse, of which the overwhelming majority are
+    P3 and starved.'
+  last_replenishment_run: 1004
+  loop_pickable_open: 4
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 54
+  p2_tasks: 4
+  p3_tasks: 58
   replenishment_source_counts:
-    promotion_from_p3: 1
-    chain: 0
+    promotion_from_p3: 0
+    chain: 3
     unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
@@ -891,23 +880,20 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
-      unbounded per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
+      per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-20T22:22:34+00:00'
-  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
-    reason: cadences / overdue_thresholds / locked_settings still absent from state
-    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
-    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
-    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
-    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
-    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
-    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
-    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
-    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
-    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
-    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
-    cross-review task. Report: reviews/system-tune-2026-08-20.md'
+  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural reason: cadences
+    / overdue_thresholds / locked_settings still absent from state (re-verified None this run). Health
+    excellent: 20/20 ring success, failed_tasks empty, critical 0, check-tenets 11th clean pass with all
+    prior notes closed. Binding constraint unchanged and sharpened: cap freeze across topics 320/320 (319
+    real, sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved unable
+    to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict same day); harvest pipeline
+    now OUTRUNS the expand stage - two publishable notes minted+executed today are cap-blocked claimants.
+    Tier 3 escalations: cap raise or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
+    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow proven). Tier 2: fold
+    one-world-wager lede recalibration into the open probability-problem cross-review task. Report: reviews/system-tune-2026-08-20.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
 task_chains:
