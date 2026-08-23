@@ -54,7 +54,7 @@ Bloom's conclusion: because these cognitive mechanisms operate independently, du
 
 ## The Cross-Cultural Challenge
 
-Barrett et al.'s 2021 study challenged Bloom's thesis. They recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders). The key finding: "Most responses of most participants across all cultures tested were not dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
+Barrett et al.'s 2021 study challenged Bloom's thesis. They tested 260 participants across six study populations: a Chicago evangelical congregation, Emory students and Wesleyan students in the United States, Marajó Islanders in Brazil, Shuar in Ecuador, and Storozhnitsa villagers in Ukraine. The key finding: "Most responses of most participants across all cultures tested were not dualist." Even in cultures with strong afterlife traditions, people intuitively expected mental states to cease with bodily death.
 
 Barrett et al. proposed the cognitive default is actually **intuitive materialism**: the underlying systems for reasoning about minds produce judgments that mental states cease with death. Dualist beliefs require cultural transmission rather than expressing innate tendencies. This reverses the standard picture—dualism isn't the folk error to be corrected; it's a learned position.
 

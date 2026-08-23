@@ -2,9 +2,9 @@
 title: "Cognitive Science of Dualism"
 description: "Cognitive science presupposes methodological materialism, yet its own findings—variable mind-body intuitions, introspective irreducibility, the persistent explanatory gap—resist materialist closure."
 created: 2026-02-05
-modified: 2026-08-21
+modified: 2026-08-23
 human_modified:
-ai_modified: 2026-08-21T10:20:00+00:00
+ai_modified: 2026-08-23T00:15:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,14 +32,14 @@ author:
 ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-08-23T00:15:20+00:00
 coalesced_from:
   - "/concepts/intuitive-dualism/"
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
 
-The empirical literature on whether humans are natural dualists is surveyed in full below, under [Intuitive Mind-Body Reasoning Is Variable](#intuitive-mind-body-reasoning-is-variable). Its headline result is that the field has reversed itself: what was presented two decades ago as innate dualism now looks, on cross-cultural evidence, like an intuitive *materialism* against which dualist thinking has to be learned. Neither result settles the metaphysics, and the reason it does not is the subject of [The Genetic Fallacy in Both Directions](#the-genetic-fallacy-in-both-directions).
+The empirical literature on whether humans are natural dualists is surveyed in full below, under [Intuitive Mind-Body Reasoning Is Variable](#intuitive-mind-body-reasoning-is-variable). Its headline result is that the field has lost confidence in its original claim: what was presented two decades ago as innate, universal dualism no longer survives cross-cultural test, and the leading replacement proposal is an intuitive *materialism* against which dualist thinking has to be learned. Neither result settles the metaphysics, and the reason it does not is the subject of [The Genetic Fallacy in Both Directions](#the-genetic-fallacy-in-both-directions).
 
 ## The Methodological Assumption
 
@@ -53,11 +53,13 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 The most direct contribution of cognitive science to the dualism debate concerns whether humans naturally separate mind from body. The evidence is surprisingly mixed, and the field's centre of gravity has moved substantially in twenty years.
 
-**Bloom's natural-born dualists.** Paul Bloom's *Descartes' Baby* (2004) proposed that humans have two distinct cognitive systems from infancy: folk physics (governing objects — solidity, gravity, continuity) and folk psychology (governing agents — beliefs, desires, goals). Babies find it unremarkable when people move without physical contact but are surprised if objects do the same. By age four, children naturally accept body swaps, ghosts, and survival after death. Bloom's conclusion was that dualism is a cognitive default rather than a philosophical discovery — a conclusion some materialists seized on to dismiss dualism as folk error to be outgrown through scientific education.
+**Bloom's natural-born dualists.** Paul Bloom, who called us "natural-born dualists", proposed in *Descartes' Baby* (2004) that humans have two distinct cognitive systems from infancy: folk physics (governing objects — solidity, gravity, continuity) and folk psychology (governing agents — beliefs, desires, goals). Babies find it unremarkable when people move without physical contact but are surprised if objects do the same. By age four, children naturally accept body swaps, ghosts, and survival after death. Bloom's conclusion was that dualism is a cognitive default rather than a philosophical discovery — a conclusion some materialists seized on to dismiss dualism as folk error to be outgrown through scientific education.
 
-Early cross-cultural work supported him. Chudek et al. (2018) found early-emerging dualistic intuitions in both Canadian and Indigenous Fijian children. Richert and Harris (2008) showed that even after children learn brains produce thinking, they continue treating mental states as somehow different — on their reading the dualistic view is present early and later *suppressed* by neuroscientific knowledge rather than eliminated.
+Early developmental and cross-cultural work supported him. Chudek et al. (2018) found early-emerging dualistic intuitions in both Canadian and Indigenous Fijian children. Richert and Harris (2008) showed that even after children learn brains produce thinking, they continue treating mental states as somehow different — on their reading the dualistic view is present early and later *suppressed* by neuroscientific knowledge rather than eliminated.
 
-**The cross-cultural challenge.** H. Clark Barrett and colleagues (2021) recruited over 2,000 participants across six populations (North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders) and found a more complicated picture: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Their proposal is that the cognitive default is **intuitive materialism**: the underlying systems for reasoning about minds produce, by default, judgements that mental states cease with bodily death. Even in cultures with strong afterlife traditions, participants intuitively expected mental states to stop when the body stopped. This reverses the standard picture: on Barrett's reading the belief needing cultural transmission is dualism, while the untutored default is materialist.
+**The cross-cultural challenge.** H. Clark Barrett and colleagues (2021) put 260 participants across six study populations — a Chicago evangelical congregation, Emory students and Wesleyan students in the United States, Marajó Islanders in Brazil, Shuar in Ecuador, and Storozhnitsa villagers in Ukraine — through matched sleep-and-death vignettes, and found a more complicated picture: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Their proposal is that the cognitive default is **intuitive materialism**: the underlying systems for reasoning about minds produce, by default, judgements that mental states cease with bodily death. The sharpest single datum is that 70% of the Chicago congregation — recruited precisely for their membership, and reporting universal explicit belief in an afterlife — gave no continued-existence responses at all. This reverses the standard picture: on Barrett's reading the belief needing cultural transmission is dualism, while the untutored default is materialist.
+
+The sample is smaller and narrower than that reversal makes it sound. Three of the six populations are North American, the total N is modest, and the authors state plainly that their sample "is in no way intended to capture the full range of human societies and afterlife beliefs." What the study licenses is the negative claim — that afterlife judgements do not evidence *universal* intuitive dualism — rather than a positive demonstration that materialism is the human default.
 
 **The learning debate.** Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate: conceptions of disembodied beings develop slowly across childhood rather than being evident early. Counterintuitive ideas like disembodied minds may be prevalent precisely *because* they are counterintuitive — such ideas carry transmission advantages in cultural evolution. Berent and Sansiveri (2024) added an unexpected data point from an artificial system: large language models develop dualist-seeming representations without any innate domain-specific architecture. If dualism is learnable without specialised cognitive modules, the nativist case weakens further.
 
@@ -80,7 +82,7 @@ One further reading of the variability is worth registering, though the Map does
 
 ### Neural Correlates Do Not Exhaust Consciousness
 
-Cognitive neuroscience has mapped extensive correlations between brain states and conscious experience. Specific regions activate during visual perception, emotional processing, and self-reflection. Lesion studies show that damage to particular brain areas eliminates specific conscious capacities. None of this is in dispute.
+Cognitive neuroscience has mapped extensive correlations between brain states and conscious experience, and lesion studies show that damage to particular brain areas eliminates specific conscious capacities. None of this is in dispute.
 
 What *is* in dispute is whether correlation equals identity. Every neural correlate study presupposes that the subject's first-person report is a valid indicator of their experience — the experimenter asks "what do you see?" and trusts the answer. But this trust in [[introspection]] smuggles in an irreducibly first-person element. The data include both the brain scan *and* the subject's phenomenal report, and the report is not itself a brain scan.
 

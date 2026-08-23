@@ -25,6 +25,7 @@ last_curated: null
 The git history showed the article's Barrett-et-al. population count was changed **six → eight** by the 2026-05-25 deep review (citing a 2026-05-23 outer-review chain as authority), then reverted **eight → six** by the 2026-06-02 cycle. This review web-verified the true figure against the **publisher of record**:
 
 - **PubMed 34170020** and the **published PDF** (gwern mirror) both confirm the study covered **SIX populations**, ~2,000+ participants.
+  > ⚠️ **CORRECTED 2026-08-23**: "SIX populations" is right; "~2,000+ participants" is WRONG. The published PDF says "We administered our questionnaire to **260 participants** across six different study populations" (§3.2), and Table 1 totals 260. Do not re-import the 2,000 figure. See `deep-review-2026-08-23-cognitive-science-of-dualism`.
 - The "eight" figure was a propagated error originating in the 2026-05-23 outer-review chain. It was never the paper's actual figure.
 
 **Verdict: the current article text ("six populations") is CORRECT.** The 2026-05-25 review introduced a defect under the banner of a "web-verified correction"; the 2026-06-02 cycle correctly reverted it. The stale 2026-05-25 review file has been annotated with a correction note so a future reviewer (who is instructed to read prior reviews) does not trust its wrong "eight" claim and re-introduce the error.

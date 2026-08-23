@@ -53,6 +53,7 @@ None requiring action. Sixth review; structure stable.
 ### Citation Web-Verify Verdicts (post-2020 / specialist cites)
 
 - **Barrett et al. (2021)**, *Cognitive Science* 45(6), e12992, "Intuitive dualism and afterlife beliefs: A cross-cultural study" — VERIFIED CLEAN (authors, title, journal, volume, year, DOI 10.1111/cogs.12992 all match). Body claim "six populations … most participants defaulted to intuitive materialism, judging mental states cease at bodily death" matches the paper (six populations: North Americans, Ecuadorians, Fijians, Ghanaians, Thai Buddhists, Vanuatu Islanders; intuitive-materialism default).
+  > ⚠️ **CORRECTED 2026-08-23**: the count and the finding are right; the parenthetical identities are fabricated (inherited from `deep-review-2026-05-26-intuitive-dualism`, not from the paper). Published PDF Table 1: **Chicago evangelical Christian congregation (USA), Emory students (USA), Marajó Islanders (Brazil), Shuar (Ecuador), Storozhnitsa (Ukraine), Wesleyan students (USA) — N = 260.** The article reviewed here says only "six populations" and is unaffected. See `deep-review-2026-08-23-cognitive-science-of-dualism`.
 - **Barlev & Shtulman (2021)** — DEFECT FOUND AND FIXED (title + pages), see above.
 
 Established-classic cites (Chalmers 1996, Jackson 1982, Kripke 1972, Levine 1983, Loar 1990, McGinn 1989, Nagel 1974, Papineau 2002, Balog 2012, Bloom 2004, Swinburne 2004) were confirmed at metadata level by the 2026-05-25 audit recorded in todo.md and are not re-litigated here.

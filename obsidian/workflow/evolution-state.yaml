@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-22T23:39:12.442554+00:00'
-session_count: 19497
+last_updated: '2026-08-22T23:58:43.582882+00:00'
+session_count: 19498
 cycle_position: 12896
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-22T23:05:15.876103+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-22T23:29:44.936366+00:00'
-  replenish-queue: '2026-08-22T22:30:47.621291+00:00'
+  replenish-queue: '2026-08-22T23:58:43.582882+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-08-22'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-22'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-22'
   outcome: success
 agentic_social:
@@ -865,51 +865,55 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-22T23:56:07.278148+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, FIFTH consecutive
-    run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured
-    from disk after the write == 3. Total active stayed at 58 because a promotion moves a
-    task between bands rather than adding one; the queue held 58 active of which 56 were P3,
-    so the floor was unmet behind a deep-looking queue. The at-floor alternation recorded
-    by runs 998-1001 continues and is the steady state, not a fault. PROMOTION CHOSEN OVER
-    MINTING because 56 already-vetted P3 tasks remain starved and every mint source measured
-    empty or blocked. PROMOTED: the P3 on obsidian/topics/interoceptive-consciousness-and-the-interface.md,
-    a refine-draft adding one graded qualifier to the L36 lead, which still states the capability
-    division in the clean form after the apex regraded it. RIPENESS EVIDENCE re-verified live
-    rather than inherited, four checks. (1) DEFECT PRESENT: the exact string integrates candidate
-    content without consciousness returns hits in exactly 2 files and nowhere else in obsidian,
-    archive or hugo/content outside workflow -- the source at L36 and its hugo mirror at L40,
-    one hit each. (2) DEPENDENCY REALLY MOVED: obsidian/apex/cross-modal-capability-division.md
-    carries ai_modified 2026-08-20T12:59:00 from commit 59f4343dbd, whose L118 now says the
-    division must therefore be stated as graded and whose own lead at L48 reads largely without
-    consciousness. (3) ARTICLE HAS NOT MOVED SINCE: the interoceptive article carries ai_modified
-    2026-08-12, eight days BEFORE the apex was recalibrated, and last_deep_review 2026-07-19,
-    so no review has read this lead since the apex changed under it. This is the dependency-freshness
-    shape rather than self-modification: the article looks converged because nothing in it
-    moved. (4) NOT IN THE CHURN SET and no task pileup, the only todo.md line naming the path
-    being the task File line. Scope claim re-confirmed too: grep -c for without consciousness
-    in obsidian/topics/thermal-consciousness-and-the-interface.md returns 0, so the sibling
-    does not inherit the clean phrasing and the fix stays one article. SECOND FINDING, RECORDED
-    IN THE TASK RATHER THAN ACTED ON: the P3 calling the conceptual-role-semantics citation
-    date a one-token typo is NOT RIPE and was passed over. It treats frontmatter created 2026-04-27
-    as the authority, but git log --diff-filter=A returns a single creating commit a545694eb0
-    dated 2026-04-30 21:47:56 +0000 and the W22 changelog archive independently records the
-    article as created 2026-04-30, so the frontmatter pair is the figure that does not match
-    the repository record, not the citation. Corpus state counted with the literal title string:
-    2 citations write 2026-04-27 and 1 writes 2026-04-30. The open question is which date
-    the self-citation convention takes as publication date, frontmatter created or first commit;
-    executing the task as written would delete the minority but possibly correct date and
-    leave all three citations disagreeing with git. Annotated with a figure-disagreement warning
-    telling whoever picks it up to settle the convention and align all three loci. ALSO CONFIRMED
-    NOT TO PROMOTE: the broken-tenet-link P3 refuted by run 1001 already carries its STOP
-    block and was left untouched. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED, taken from the
-    driver measurements and not re-derived: expand-topic structurally blocked with topics
-    320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three free slots
-    already oversubscribed by six open research-topic tasks; research harvest drained at 774
-    of 774 scanned; orphans 0; critical issues 0; replenishment_config is None and task_chains
-    is not modelled on EvolutionState, so no chain state was reported that could not be read.
-    EDIT SHAPE: the priority marker was changed in place and a Promoted line appended, plus
-    a not-ripe annotation inserted into the citation-date P3; the post-write parse was re-run
-    to confirm 3 P2 and 55 P3.'
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, FIFTH
+    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
+    3; post-count re-measured from disk after the write == 3. Total active stayed
+    at 58 because a promotion moves a task between bands rather than adding one; the
+    queue held 58 active of which 56 were P3, so the floor was unmet behind a deep-looking
+    queue. The at-floor alternation recorded by runs 998-1001 continues and is the
+    steady state, not a fault. PROMOTION CHOSEN OVER MINTING because 56 already-vetted
+    P3 tasks remain starved and every mint source measured empty or blocked. PROMOTED:
+    the P3 on obsidian/topics/interoceptive-consciousness-and-the-interface.md, a
+    refine-draft adding one graded qualifier to the L36 lead, which still states the
+    capability division in the clean form after the apex regraded it. RIPENESS EVIDENCE
+    re-verified live rather than inherited, four checks. (1) DEFECT PRESENT: the exact
+    string integrates candidate content without consciousness returns hits in exactly
+    2 files and nowhere else in obsidian, archive or hugo/content outside workflow
+    -- the source at L36 and its hugo mirror at L40, one hit each. (2) DEPENDENCY
+    REALLY MOVED: obsidian/apex/cross-modal-capability-division.md carries ai_modified
+    2026-08-20T12:59:00 from commit 59f4343dbd, whose L118 now says the division must
+    therefore be stated as graded and whose own lead at L48 reads largely without
+    consciousness. (3) ARTICLE HAS NOT MOVED SINCE: the interoceptive article carries
+    ai_modified 2026-08-12, eight days BEFORE the apex was recalibrated, and last_deep_review
+    2026-07-19, so no review has read this lead since the apex changed under it. This
+    is the dependency-freshness shape rather than self-modification: the article looks
+    converged because nothing in it moved. (4) NOT IN THE CHURN SET and no task pileup,
+    the only todo.md line naming the path being the task File line. Scope claim re-confirmed
+    too: grep -c for without consciousness in obsidian/topics/thermal-consciousness-and-the-interface.md
+    returns 0, so the sibling does not inherit the clean phrasing and the fix stays
+    one article. SECOND FINDING, RECORDED IN THE TASK RATHER THAN ACTED ON: the P3
+    calling the conceptual-role-semantics citation date a one-token typo is NOT RIPE
+    and was passed over. It treats frontmatter created 2026-04-27 as the authority,
+    but git log --diff-filter=A returns a single creating commit a545694eb0 dated
+    2026-04-30 21:47:56 +0000 and the W22 changelog archive independently records
+    the article as created 2026-04-30, so the frontmatter pair is the figure that
+    does not match the repository record, not the citation. Corpus state counted with
+    the literal title string: 2 citations write 2026-04-27 and 1 writes 2026-04-30.
+    The open question is which date the self-citation convention takes as publication
+    date, frontmatter created or first commit; executing the task as written would
+    delete the minority but possibly correct date and leave all three citations disagreeing
+    with git. Annotated with a figure-disagreement warning telling whoever picks it
+    up to settle the convention and align all three loci. ALSO CONFIRMED NOT TO PROMOTE:
+    the broken-tenet-link P3 refuted by run 1001 already carries its STOP block and
+    was left untouched. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED, taken from the
+    driver measurements and not re-derived: expand-topic structurally blocked with
+    topics 320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the
+    three free slots already oversubscribed by six open research-topic tasks; research
+    harvest drained at 774 of 774 scanned; orphans 0; critical issues 0; replenishment_config
+    is None and task_chains is not modelled on EvolutionState, so no chain state was
+    reported that could not be read. EDIT SHAPE: the priority marker was changed in
+    place and a Promoted line appended, plus a not-ripe annotation inserted into the
+    citation-date P3; the post-write parse was re-run to confirm 3 P2 and 55 P3.'
   last_replenishment_run: 1002
   loop_pickable_open: 3
   needs_replenishment: false
