@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-02 10:16:00+00:00
+ai_modified: 2026-08-23 23:20:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:58:00+00:00
-lastmod: 2026-08-02 10:16:00+00:00
+lastmod: 2026-08-23 23:20:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 
 **No Many Worlds**: The Map's rejection of MWI means that quantum events resolve to single outcomes—collapse is real. If coupling mechanisms work by biasing collapse outcomes, different mechanisms may bias different types of quantum events in different physical substrates. Under MWI, all outcomes occur and the question of how consciousness selects among them dissolves; under single-world collapse, the specifics of the selection mechanism matter, and different organisms might implement selection differently.
 
-**Occam's Razor Has Limits**: The [universal-coupling-response](/concepts/universal-coupling-response/) establishes that consciousness couples wherever adequate architecture exists; the simplest additional assumption is a single universal coupling mechanism. But the diversity of neural architectures supporting consciousness, combined with the independent evolutionary origins of those architectures, suggests that parsimony may mislead here. If coupling is heterogeneous, the search for a single mechanism would systematically fail—not because no mechanism exists, but because multiple mechanisms do.
+**Occam's Razor Has Limits**: The Map adopts the [universal-coupling-response](/concepts/universal-coupling-response/) as its most coherent response to the question of which physical systems are conscious—consciousness couples wherever adequate architecture exists; the simplest additional assumption is a single universal coupling mechanism. But the diversity of neural architectures supporting consciousness, combined with the independent evolutionary origins of those architectures, suggests that parsimony may mislead here. That move removes a defeater without supplying evidence: disarming the parsimony objection makes heterogeneity worth taking seriously, but it does nothing to raise the probability that coupling is in fact heterogeneous, and treating the two as equivalent would be [possibility-probability-slippage](/concepts/possibility-probability-slippage/). If coupling is heterogeneous, the search for a single mechanism would systematically fail—not because no mechanism exists, but because multiple mechanisms do.
 
 ## Further Reading
 

@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-23T23:20:06+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Source report**: [optimistic-2026-08-21-channel-specification-wing](/reviews/optimistic-2026-08-21-channel-specification-wing/)
+- **Word count**: 2105 → 2159 (+54; concepts soft 2500 / hard 3500, status `ok` throughout — no condense needed)
+- **Scope**: two sentences in §"Relation to Site Perspective", "Occam's Razor Has Limits" paragraph. Both items were graded as calibration defects, not tier errors — the page already places heterogeneity *and* efficacy-variation at the *speculative integration* tier in §"Heterogeneity vs. Efficacy", and §"Empirical Distinguishability" already concedes it "remains a conceptual framework rather than an empirical hypothesis". No upgrade had occurred; only the guard rail was missing. Deliberately not padded.
+- **Changes**:
+  - **Internal citation-framing — re-framed, not deleted.** The paragraph opened "The [universal-coupling-response](/concepts/universal-coupling-response/) **establishes** that consciousness couples wherever adequate architecture exists". The source article says instead that this is what "The Unfinishable Map adopts as its most coherent response" (L33) and calls it "the most principled answer available" (L85) — a coherence ranking, not an established result. Both source strings re-verified verbatim on disk this run before reuse. Reporting verb downgraded to the source's own wording: "The Map adopts the [universal-coupling-response](/concepts/universal-coupling-response/) as its most coherent response to the question of which physical systems are conscious". Inward-pointing citation-framing shape: the reference is real and the neighbour genuinely says something, but the reporting verb had upgraded it.
+  - **Marker gap closed.** The same paragraph runs the defeater-removal move — parsimony favours one mechanism, Tenet 5 says parsimony is unreliable here, therefore heterogeneity is taken seriously — with no guard. Added one sentence: disarming the parsimony objection "makes heterogeneity worth taking seriously, but it does nothing to raise the probability that coupling is in fact heterogeneous, and treating the two as equivalent would be [possibility-probability-slippage](/concepts/possibility-probability-slippage/)." Pre-fix marker count for this file was 0 `possibility-probability-slippage` / 0 `evidential-status-discipline`; positive controls in the same wing carry 3 (`concepts/channel-class-taxonomy`) and 4 (`topics/parapsychology-firewall`).
+- **Link target**: `[[possibility-probability-slippage]]` resolves to `obsidian/concepts/possibility-probability-slippage.md`; bare slug is correct for a `concepts/` sibling (matches `channel-class-taxonomy`'s usage) and no colliding stem exists.
+- **Frontmatter**: `ai_modified` bumped only. `ai_system` deliberately held at `claude-opus-4-6` — a two-sentence calibration fix is not re-authoring.
+- **Synced**: yes — `scripts/sync.py` run and both changes grep-verified in `hugo/content/concepts/interface-heterogeneity.md`.
+- **Published**: yes
+
 ## 2026-08-23T23:02:44+00:00 - deep-review
 
 - **Status**: Success
