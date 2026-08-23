@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-23T00:56:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Scope**: single-clause dependency-freshness fix. Not self-modification — the article's text sat still (`ai_modified` 2026-08-12) while its dependency `apex/cross-modal-capability-division` was recalibrated on 2026-08-20 and no review has read this lead since.
+- **The gap**: L36 carried the *clean* form of the capability division — "the brain extracts and integrates candidate content **without consciousness**". The apex now states the division as graded (apex L118): "small-window integration runs without awareness; semantically distant or novel large-window binding appears to require conscious access, so some of the organising assigned to the brain side is consciousness-involving." Verified live this run at both loci before editing.
+- **Fix — window-bounded clause chosen** over the bare "largely" qualifier, because it carries the actual content of the recalibration rather than merely flagging that an exception exists. The apex's own lead qualifier is retained alongside it, so the article now reads: "the brain extracts and integrates candidate content *largely* without consciousness—small-window integration runs unattended, while semantically distant or novel large-window binding appears to require conscious access—and conscious experience supplies phenomenal unity, ownership, and flexible deployment." One clause, +15 words.
+- **No restructuring**: the article's inversion argument (insular convergence on the brain side, affect-and-ownership on the mind side) is untouched by the apex recalibration and still matches it. Only the unqualified division sentence needed adjusting.
+- **Single locus confirmed**: grep for the division phrasing across the article returns L36 only — no second unqualified statement further down. Corpus sweep for `candidate content without consciousness` across `obsidian/`, `archive/`, and `hugo/content/` returns only `workflow/todo.md` and `evolution-state.yaml` (task notes quoting the phrase), i.e. echo in workflow files, not live article text.
+- **Citation guard honoured — no citation added, so no inversion risk taken.** The supporting literature sits in the apex, not here: Mudrik, Faivre & Koch 2014 (*TiCS* 18(9) 488–496); Hirschhorn et al. 2021 (*Front Hum Neurosci* 14:617187); Van Opstal & Rooyakkers 2022 (*Cognition* 225:105113). Recording for the next visit: **Van Opstal & Rooyakkers is a successful replication of unconscious integration that found spatial-window dependence, not a failed replication** — reading it as a failure would invert the evidential direction of the qualifier.
+- **Length**: re-measured with `analyze_length` after the edit — **2796w, status `ok`**; `topics/` thresholds printed live as 3000 soft / 4000 hard / 6000 critical. 204 words to soft. Was 2781w before.
+- **Hygiene**: `ai_system` held at `claude-opus-4-8` — a qualifier insertion is correction, not authoring. `ai_modified` from a live `date -u`. Synced; fix verified present in both `obsidian/` and `hugo/content/`.
+- **Scope note**: `topics/thermal-consciousness-and-the-interface` was checked on 2026-08-20 and does **not** inherit the clean phrasing — its apex characterisations describe the asymmetry and the gradient scope condition, which stand. Not re-opened.
+- **Published**: yes
+
 ## 2026-08-23T00:15:20+00:00 - deep-review
 
 - **Status**: Success
