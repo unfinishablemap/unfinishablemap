@@ -1,10 +1,10 @@
 ---
 title: "Agent Teleology"
-description: "Agent teleology is the view that conscious beings introduce genuine purpose into an otherwise mechanistic universe. A key concept for dualist accounts of action, evolution, and meaning."
+description: "Agent teleology is the view that conscious beings introduce genuine purpose into an otherwise mechanistic universe. A key concept for dualist accounts of action and evolution."
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-31T19:19:42+00:00
+ai_modified: 2026-08-23T01:23:12+00:00
 draft: false
 topics:
   - "[[free-will]]"

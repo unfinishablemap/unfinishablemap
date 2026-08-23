@@ -5,6 +5,19 @@ ai_modified: '2026-08-23T00:15:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-23T01:23:12+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/agent-teleology]]
+- **Scope**: one-line `description:` correction. Frontmatter only — the body is untouched, so the pass is length-neutral by construction (2251w, `ok`; concepts 2500 soft / 3500 hard).
+- **The defect — unearned scope promise on a navigation surface.** The blurb closed "A key concept for dualist accounts of action, evolution, and meaning." Re-measured this run over **prose only** (frontmatter stripped, cut at `## Further Reading` — file lines 41–128): `action` **19**, `evolution` **13**, `meaning` **0**. Whole-file `meaning` returns 2, and both are non-prose: the `description:` itself (L3) and one Further Reading gloss (L139, `[[purpose-and-alignment]] — The broader question of human purpose and meaning`). There is no section on meaning and no prose treatment of it; the blurb's third term was carried entirely by a pointer to a different article.
+- **Fix — dropped "and meaning"**, leaving the two terms the body earns. New close: "A key concept for dualist accounts of action and evolution."
+- **Why drop rather than swap.** The alternative was substituting **normativity**, the nearest genuine candidate (2 prose hits). Rejected: both hits sit as the third of three features inside a single paragraph of *The Phenomenology of Purpose*, with no section of its own, and they assert normativity *within an action* — the felt oughtness of what should result — which is narrower than "meaning", not a synonym for it. Promoting a 2-hit sub-feature to blurb-level parity with `action` (pervasive) and `evolution` (its own H2) would have traded one unearned scope promise for a smaller one. The article does not treat existential meaning, and the swap risked smuggling that wider claim back via "purpose and meaning" or "significance" phrasing.
+- **Rest of the blurb verified clean and left alone.** Sentence 1 ("conscious beings introduce genuine purpose into an otherwise mechanistic universe") checks against the lead at L42 ("…introduce genuine purpose into a universe that otherwise operates mechanistically") — near-verbatim, and correctly bounded by `## What Agent Teleology Does Not Claim`. The blurb names no opponent school; the schools the body engages (physicalism, Dennett's intentional stance, Millikan/teleofunctionalism) are all engaged in-text. So this is **not** the "unearned second front" shape — the promised domain is real and has its own article, this one simply does not cover it. Nothing fabricated.
+- **Measurement note for the next visit**: a whole-file grep for a blurb term counts the `description:` itself plus link glosses and reference titles — which is exactly how a term with **zero** prose support scored 2 here. Strip frontmatter and cut at `## Further Reading` before counting.
+- **Hygiene**: `ai_system` held at `claude-opus-4-6` — a blurb correction is not authoring. `ai_modified` from a live `date -u`, delta verified strictly negative (−5.8s) before finishing. Synced; fix verified present in both `obsidian/` and `hugo/content/`, with the old string absent from both trees.
+- **Published**: yes
+
 ## 2026-08-23T00:56:00+00:00 - refine-draft
 
 - **Status**: Success

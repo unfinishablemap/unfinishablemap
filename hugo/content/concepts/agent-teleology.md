@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-05-31 19:19:42+00:00
+ai_modified: 2026-08-23 01:23:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,13 +21,13 @@ concepts:
 created: 2026-02-16
 date: &id001 2026-02-20
 description: Agent teleology is the view that conscious beings introduce genuine purpose
-  into an otherwise mechanistic universe. A key concept for dualist accounts of action,
-  evolution, and meaning.
+  into an otherwise mechanistic universe. A key concept for dualist accounts of action
+  and evolution.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 14:52:00+00:00
-lastmod: 2026-05-31 19:19:42+00:00
+lastmod: 2026-08-23 01:23:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

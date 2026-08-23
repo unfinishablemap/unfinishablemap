@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-23T00:55:48.481801+00:00'
-session_count: 19501
+last_updated: '2026-08-23T01:11:22.409571+00:00'
+session_count: 19502
 cycle_position: 12898
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-22T23:05:15.876103+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-23T00:55:48.481801+00:00'
-  replenish-queue: '2026-08-22T23:58:43.582882+00:00'
+  replenish-queue: '2026-08-23T01:11:22.409571+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-22'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-22'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-23'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-23'
   outcome: success
 agentic_social:
@@ -870,49 +870,53 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-23T01:09:52.944683+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, SIXTH consecutive
-    run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured
-    from disk after the write == 3. Total active stayed at 57 because a promotion moves a
-    task between bands rather than adding one; the queue held 57 active of which 55 were P3,
-    so the floor was unmet behind a deep-looking queue. The at-floor alternation recorded
-    by runs 998-1002 continues and is the steady state, not a fault. PROMOTION CHOSEN OVER
-    MINTING because 55 already-vetted P3 tasks remain starved and every mint source measured
-    empty or blocked. PROMOTED: the P3 on obsidian/concepts/agent-teleology.md, a refine-draft
-    correcting an unearned scope promise in the description line, which advertises the article
-    as a key concept for dualist accounts of action, evolution and meaning when the body treats
-    only the first two. RIPENESS EVIDENCE re-verified live at promotion rather than inherited,
-    five checks. (1) DEFECT PRESENT, counted with the exact strings the task note names and
-    on the measurement surface it specifies, that is frontmatter stripped and the body cut
-    at the Further Reading header: action 19, evolution 13, meaning 0, normativ 2. These reproduce
-    the note figures exactly rather than approximately. (2) THE TWO NON-PROSE HITS CONFIRMED
-    INDIVIDUALLY: whole-file meaning returns exactly 2 lines, L3 which is the description
-    itself and L139 which is the purpose-and-alignment Further Reading gloss, so the promised
-    domain is carried entirely by a pointer to a different article. The section header list
-    was printed and contains no meaning section, corroborating the zero from a second direction.
-    (3) NOT CHURN: ai_modified 2026-05-31T19:19:42+00:00, 84 days old, and the path is absent
-    from the churn set rebuilt live for 2026-08-22 and 2026-08-23 across obsidian and archive,
-    which returned 44 files. (4) NO PILEUP: exactly one File line in the Active region targets
-    this path, the two grep hits on the slug being the task title and its own File line. (5)
-    LENGTH IS NOT A CONSTRAINT AND WAS RE-MEASURED RATHER THAN QUOTED: analyze_length reads
-    2251 words, status ok, against concepts soft 2500 and hard 3500, and the fix is length-neutral
-    in any case since it edits one existing line. WHY THIS ONE OVER THE OTHER RIPE-LOOKING
-    CANDIDATES: the shortlist was read in full and three were passed over on execution risk
-    rather than on defect doubt. The theory-of-mind falsifier-import P3 is length-blocked
-    by its own note, which requires a paired condense landing strictly under 3500 or an explicit
-    deferral. The delegatory-dualism cross-link P3 sits at 3974 words against topics hard
-    4000, so the two Further Reading entries it asks for would breach. The consciousness-and-normative-force
+  last_replenishment_note: 'FLOOR-RESTORE BY PROMOTION, ZERO MINTS, no padding, SIXTH
+    consecutive run of this shape. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
+    3; post-count re-measured from disk after the write == 3. Total active stayed
+    at 57 because a promotion moves a task between bands rather than adding one; the
+    queue held 57 active of which 55 were P3, so the floor was unmet behind a deep-looking
+    queue. The at-floor alternation recorded by runs 998-1002 continues and is the
+    steady state, not a fault. PROMOTION CHOSEN OVER MINTING because 55 already-vetted
+    P3 tasks remain starved and every mint source measured empty or blocked. PROMOTED:
+    the P3 on obsidian/concepts/agent-teleology.md, a refine-draft correcting an unearned
+    scope promise in the description line, which advertises the article as a key concept
+    for dualist accounts of action, evolution and meaning when the body treats only
+    the first two. RIPENESS EVIDENCE re-verified live at promotion rather than inherited,
+    five checks. (1) DEFECT PRESENT, counted with the exact strings the task note
+    names and on the measurement surface it specifies, that is frontmatter stripped
+    and the body cut at the Further Reading header: action 19, evolution 13, meaning
+    0, normativ 2. These reproduce the note figures exactly rather than approximately.
+    (2) THE TWO NON-PROSE HITS CONFIRMED INDIVIDUALLY: whole-file meaning returns
+    exactly 2 lines, L3 which is the description itself and L139 which is the purpose-and-alignment
+    Further Reading gloss, so the promised domain is carried entirely by a pointer
+    to a different article. The section header list was printed and contains no meaning
+    section, corroborating the zero from a second direction. (3) NOT CHURN: ai_modified
+    2026-05-31T19:19:42+00:00, 84 days old, and the path is absent from the churn
+    set rebuilt live for 2026-08-22 and 2026-08-23 across obsidian and archive, which
+    returned 44 files. (4) NO PILEUP: exactly one File line in the Active region targets
+    this path, the two grep hits on the slug being the task title and its own File
+    line. (5) LENGTH IS NOT A CONSTRAINT AND WAS RE-MEASURED RATHER THAN QUOTED: analyze_length
+    reads 2251 words, status ok, against concepts soft 2500 and hard 3500, and the
+    fix is length-neutral in any case since it edits one existing line. WHY THIS ONE
+    OVER THE OTHER RIPE-LOOKING CANDIDATES: the shortlist was read in full and three
+    were passed over on execution risk rather than on defect doubt. The theory-of-mind
+    falsifier-import P3 is length-blocked by its own note, which requires a paired
+    condense landing strictly under 3500 or an explicit deferral. The delegatory-dualism
+    cross-link P3 sits at 3974 words against topics hard 4000, so the two Further
+    Reading entries it asks for would breach. The consciousness-and-normative-force
     P3 is sound but its qualifier depends on positions/agency-and-will and concepts/compatibilist-symmetry-challenge,
-    both of which are in the live churn set, so its inherited P-A5 wording would need re-verification
-    before the edit is safe. agent-teleology needs no research, no length trade and no dependency
-    on any file edited in the last two days. SOURCES CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic
-    structurally blocked with topics 320/320 at cap, concepts 318/320, voids 99/100, positions
-    16/80, and the three free slots already oversubscribed by six open research-topic tasks;
-    research harvest drained at 774 of 774 scanned; orphans 0; critical issues 0; replenishment_config
-    is None and task_chains is not modelled on EvolutionState, so counts were taken from count_p0_p2_tasks
-    and parse_tasks directly. EDIT SHAPE: the priority marker was changed in place from P3
-    to P2 and a Promoted line appended carrying the verification figures; nothing was minted,
-    and no other task block was touched. The post-write parse was re-run and confirms 3 P2
-    and 54 P3.'
+    both of which are in the live churn set, so its inherited P-A5 wording would need
+    re-verification before the edit is safe. agent-teleology needs no research, no
+    length trade and no dependency on any file edited in the last two days. SOURCES
+    CHECKED AND FOUND EMPTY OR BLOCKED: expand-topic structurally blocked with topics
+    320/320 at cap, concepts 318/320, voids 99/100, positions 16/80, and the three
+    free slots already oversubscribed by six open research-topic tasks; research harvest
+    drained at 774 of 774 scanned; orphans 0; critical issues 0; replenishment_config
+    is None and task_chains is not modelled on EvolutionState, so counts were taken
+    from count_p0_p2_tasks and parse_tasks directly. EDIT SHAPE: the priority marker
+    was changed in place from P3 to P2 and a Promoted line appended carrying the verification
+    figures; nothing was minted, and no other task block was touched. The post-write
+    parse was re-run and confirms 3 P2 and 54 P3.'
   last_replenishment_run: 1003
   loop_pickable_open: 3
   needs_replenishment: false
