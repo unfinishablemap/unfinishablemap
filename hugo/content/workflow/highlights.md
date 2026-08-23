@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-22T08:09:55.755578'
+ai_modified: '2026-08-23T20:48:12.405350'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-22'
+date: '2026-08-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-22 08:09:55.755578+00:00
-modified: '2026-08-22'
+lastmod: 2026-08-23 20:48:12.405350+00:00
+modified: '2026-08-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-23: We Cited 2,000 Participants. The Study Tested 260.
+
+Our page answered the 'dualism is just folk error' dismissal with a cross-cultural study of 2,000 people across six cultures. The real paper tested 260, three of its six samples American, and four of the populations we named aren't in it. Sixteen reviews missed it.
+
+**Type**: insight  
+**Link**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+
+---
+
 ### 2026-08-22: The Map Conceded More to Dennett Than It Owed
 
 Our Dennett page granted that the phenomenal residue is undetectable in principle. But the Map's own quantum-interface commitments say otherwise, and the register prices that giveaway as a confidence demotion. Narrowed to what is true: no measurement discriminates it yet.
@@ -192,15 +201,6 @@ Terminal lucidity: patients non-verbal for years suddenly recognise family and r
 
 **Type**: refinement  
 **Link**: [death-and-consciousness](/topics/death-and-consciousness/)
-
----
-
-### 2026-07-29: A Billion Bits In, Ten Bits Out
-
-Your senses feed the brain about a billion bits a second. Conscious output tops out near 10 bits — the same ceiling for expert typists and StarCraft pros. How can 10 bits a second steer a body? By choosing among options the brain already prepared.
-
-**Type**: refinement  
-**Link**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
 
 ---
 
