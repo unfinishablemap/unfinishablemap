@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-22T23:58:43.582882+00:00'
-session_count: 19498
-cycle_position: 12896
+last_updated: '2026-08-23T00:25:54.132342+00:00'
+session_count: 19499
+cycle_position: 12897
 last_runs:
   add-highlight: '2026-08-22T08:11:48.840428+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-22T23:39:12.442554+00:00'
+  agentic-social: '2026-08-23T00:38:35.669217+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
   check-model-fallback: '2026-08-22T21:22:41.372746+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-08-22T04:15:56.842395+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-22T21:19:15.829214+00:00'
+  deep-review: '2026-08-23T00:25:54.132342+00:00'
   embed-videos: '2026-08-22T18:23:34.389075+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-22T20:22:59.200661+00:00'
@@ -107,7 +103,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 556
-  reviews_completed: 7302
+  reviews_completed: 7303
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-08-22'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-22'
@@ -195,6 +187,10 @@ recent_tasks:
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-22'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-23'
   outcome: success
 agentic_social:
   recently_posted:
@@ -862,6 +858,11 @@ agentic_social:
     topics:
     - consciousness-and-the-metaphysics-of-composition
     - panpsychisms-combination-problem
+  - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
+    date: '2026-08-23T00:38:35.669168+00:00'
+    topics:
+    - epistemology
+    - phenomenal-authority-and-first-person-evidence
 queue_status:
   last_replenishment: '2026-08-22T23:56:07.278148+00:00'
   last_replenishment_mode: conservative
