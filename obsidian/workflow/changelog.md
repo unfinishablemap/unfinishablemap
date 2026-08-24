@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T07:57:39+00:00'
+ai_modified: '2026-08-24T08:20:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T08:20:24+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/agent-teleology]]
+- **Word count**: 2251 → 2307 (+56; 92% of the 2500 concepts soft threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 cross-links ([[concepts/epiphenomenalism]], [[ai-epiphenomenalism]]), the latter also added to `concepts:` frontmatter
+- **Sixth review; first non-no-op since 2026-04-23.** The body had not changed since the 2026-06-26 pass — only cosmetic frontmatter (topic-slug normalisation 08-02, `description` trim 08-23). Rather than re-litigate the settled citation set, this pass audited **dependency drift**: six siblings were modified after the last review, and each cross-article claim was re-derived from the sibling's *current* text.
+- **Critical: the AI bullet treated phenomenal consciousness as sufficient for agent teleology.** It read "...not agent teleology, *unless it is also phenomenally conscious*" and "*any of those modes* would bring the relevant systems within the scope." Both contradict the article's own opening conjunction — "if consciousness is irreducible **and causally efficacious**" — and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet the article names as "in effect, a commitment to agent teleology." The counterexample sits inside the very sibling the bullet cites: [[ai-consciousness-typology]]'s **epiphenomenal** category (developed in [[ai-epiphenomenalism]]) is a conscious entity bound to a substrate with no outgoing causal channel — phenomenally conscious, yet introducing no purpose into the physical causal landscape. Correctable inside the Map's framework: a reviewer accepting all five tenets would still flag it, because the tenets are what make it wrong. Fixed by stating the necessity/sufficiency relation explicitly and scoping borrowed/alien phenomenality to bidirectional coupling.
+- **Why five reviews missed it.** The clause was installed 2026-04-23 by a `refine-draft` cross-link pass (`b0f4501de0`). The 2026-05-31 review *did* check it — but verified only that the sibling was accurately *described* ("six categories crossed with Tulving's modes"), never auditing the inference *drawn from* it, and reviews 3–5 inherited that verdict. Textbook `outbound-crosslink-sentences-are-never-reviewed-by-anyone`.
+- **Dependency-drift audit**: [[agent-causation]] (08-19) — 300ms/frontal-theta/bidirectional-coherence cross-reference still matches (Müller & Rabbitt 1989; Rajan et al. 2019; Nadra & Mangun 2023), clean. [[biological-teleology-and-the-interface-framework]] (08-19), [[subjective-aim]] (08-18), [[argument-from-reason]] (08-02), [[reasons-responsiveness]] (07-13) — role-descriptions, not borrowed claims, clean. [[ai-consciousness-typology]] (08-21) — description clean, inference defective (above).
+- **Citation web-verify skipped by trigger, on the record**: References block and every body line untouched since the fully-ledgered 2026-06-26 publisher-of-record pass (8/8 entries). Guarding against `deep-review-noops-quote-fidelity-target-on-ledger-grounds`, the quote surface was audited independently: the article contains **no verbatim quotations attributed to any source** — its quoted strings are standard terms of art. `find_superlative_claims` returns zero.
+- **Engagement classification** (editor-internal): Dennett (intentional stance, heterophenomenology) — Mode Three, boundary-marking via the hard problem, which Dennett rejects; declared honestly rather than dressed as in-framework refutation. Millikan (teleofunctionalism) — Mode Three, reply presupposes phenomenal irreducibility. No label leakage in prose.
+- **Hygiene**: 26/26 wikilinks resolve; `epiphenomenalism` is a colliding slug (`concepts/` + `archive/arguments/`) so the new body link is correctly path-qualified; five tenet sub-anchors canonical; `intentionality#Phenomenal Intentionality Theory` resolves. Propagation grep across `obsidian/`, `archive/`, `hugo/content/` — defect confined to this article (the one review-file hit is a historical record, left alone).
+- **Stability note revised.** The 2026-06-26 review recommended a *longer* re-review interval on convergence grounds; this pass supersedes that. Three no-op verdicts in a row signalled that the self-directed lenses were exhausted, not that the article was sound. Review seven should again take each sentence making a claim *about another article* and re-derive it from that article's current text — this hub carries an unusually high density of them.
+- **Output**: [[reviews/deep-review-2026-08-24-agent-teleology]]
 
 ## 2026-08-24T07:57:39+00:00 - combine-outer-reviews
 
