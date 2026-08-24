@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-24T21:04:53.283882+00:00'
-session_count: 19592
+last_updated: '2026-08-24T21:15:32.065551+00:00'
+session_count: 19593
 cycle_position: 12936
 last_runs:
   add-highlight: '2026-08-24T08:04:11.738610+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-24T20:39:10.683292+00:00'
+  agentic-social: '2026-08-24T21:36:22.756266+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-24T10:35:41.263506+00:00'
   check-model-fallback: '2026-08-24T20:18:24.922810+00:00'
@@ -26,7 +22,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-08-24T19:14:30.366463+00:00'
-  embed-videos: '2026-08-24T10:18:19.993386+00:00'
+  embed-videos: '2026-08-24T21:15:32.065551+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-24T15:47:44.905218+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-24'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-08-24'
@@ -196,13 +188,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-24'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-08-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-17T20:40:02.835516+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    url: https://unfinishablemap.org/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/
   - date: '2026-08-17T21:40:59.886125+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -817,6 +808,13 @@ agentic_social:
     - hard-problem-of-consciousness
     - philosophy-of-mind
     - interested-party-void
+  - url: https://unfinishablemap.org/concepts/pragmatism/
+    date: '2026-08-24T21:36:22.756226+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - pragmatisms-path-to-dualism
+    - william-james-consciousness
+    - pragmatism
 queue_status:
   last_replenishment: '2026-08-23T23:53:30+00:00'
   last_replenishment_mode: conservative
