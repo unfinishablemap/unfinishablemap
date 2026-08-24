@@ -5,6 +5,58 @@ ai_modified: '2026-08-24T18:39:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-24T19:08:53+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [[topics/the-cognitive-immune-system-and-immunological-selfhood]]
+- **Word count**: 2068 → 2319 (+251), topics soft 3000 / hard 4000, status `ok`
+- **Critical issues addressed**: 5
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3 cross-links added (`[[organizational-invariance]]`, an in-body pointer to `[[apex/competency-without-felt-experience]]`, `[[tenets#^minimal-quantum-interaction]]`); `organizational-invariance` added to `concepts:`
+- **Output**: [[reviews/deep-review-2026-08-24-the-cognitive-immune-system-and-immunological-selfhood]]
+
+### Not a no-op, though the article's own prose had not changed since 2026-07-19
+
+Both critical findings came from **dependencies that moved and sweeps that fixed siblings and stranded this file**. Neither was reachable by grepping for ceiling vocabulary — that test gave the driver a false positive on a correctly-calibrated sibling (`topics/basal-and-bioelectric-cognition` L73 states the generic/specific ceiling without ever saying "organizational invariance") and would have given a false clean here. Compare *claims*, not phrases.
+
+- `54db846389` (2026-08-07) installed the organizational-invariance ceiling in two apex articles. Of the six topic articles running the same conditional, **this was the only one running it uncalibrated**.
+- `af048b53df` (2026-08-03) corrected "Tenet 2 minimality run as truth-tracking parsimony against experience" in three loci (apex, `bacterial-chemotaxis`, `neuron-less-animals`). **This article was the fourth locus and was missed.**
+
+### Critical issues
+
+1. **Internal contradiction** — the lead calls the cluster's competencies "defeasible markers—decisive nowhere on their own"; the Tenet 3 paragraph called the immune system "a **decisive** negative datum." Now "a pointed negative datum."
+2. **Possibility/probability slippage (calibration error, not bedrock disagreement)** — *"The immune case **therefore supports** the Map's claim that the interface is tied to particular neural machinery"* asserted flat the reading the apex now books as framework-internal. Passes the diagnostic test: a tenet-accepting reviewer still flags it, because the load-bearing move is the Map's own interface commitment, not the immune data. Now *consistent with*, with the stronger reading explicitly marked framework-internal.
+3. **Both apex ceilings apply, at different places in the argument** (the adjudication the driver asked for). **Ceiling 1 (generic vs specific functionalism) bites the inference itself, and hardest here**: an IIT or global-workspace theorist declines the immune network too — on the ground that it realises the wrong organisation, not that it lacks neurons — so the datum does not discriminate a neural interface from experience-in-a-particular-architecture. **Ceiling 2 (grain) bites the conclusion, not the antecedent**: the antecedent was already narrow (task-level competence), so the article never committed the apex's "any functional organisation whatever" overreach; what over-reached was the consequent's "functional competence in general." Both now stated, in the sibling's register rather than the apex's vocabulary imported wholesale. Neither ceiling retracts the claim — it survives in narrowed form.
+4. **Stranded from the Tenet 2 sweep** — the paragraph grounded the withholding in the completeness of the molecular account ("fully physical selection dynamics—clonal, contextual, molecular"), which the swept siblings explicitly disown, and lacked the magnitude/distribution distinction and the scoping-note link both carry. Rewritten to match: allocation rule about causal footprint, framework-relative, and an immune experience making no difference to any physical outcome would add no footprint for minimality to weigh.
+5. **Flat phenomenal assertion on two surfaces the body hedges** — "Functional Self, Not Felt Self" and the `description` frontmatter both asserted unfelt-ness flat while the lead frames it as a licence of the neural-interface commitment. Both now carry the framework qualifier (the `3b97015f15` pattern).
+
+### Medium
+
+6. **Cohen attribution** — "Cohen's 'cognition' is **explicitly** … **not a felt inner life**" read as an explicit denial, while the next paragraph records only a silence. Now: "Whether anything is felt is a question he leaves alone rather than one he answers." (§2.5 Position Strength.)
+
+### §2.4 — scoped, per the 2026-07-18 ledger's standing instruction
+
+No cite or References entry changed, so metadata was not re-litigated. The **empirical-claim-fidelity** lens ran instead on all five load-bearing sources: Cohen 1992/2000, Tauber 1994, Matzinger 2002, Burnet 1957 — all **use-faithful**. One live fetch: the **SEP Philosophy of Immunology** entry confirms the article's paraphrase (§5.2 *"immunity as an information-processing network analogous to the nervous system"*; §5.1 *Extended Cognition*), and confirms the article cites Cohen **1992b**, the correct one of the entry's two 1992 Cohen items. One noted-and-accepted looseness: Burnet 1957 folded long-lived memory cells into the 1957 theory — textbook compression, not load-bearing, recorded rather than changed. Superlative sweep: **0** matches.
+
+### Register audit
+
+The article cites no `P-` entry and no position names it, so no register audit had ever reached it. Searched by *content* (band vocabulary never appears in article prose). No contradiction found; **P-CS1**, **P-CS5**, and **P-AC1** all bear on it and the repairs bring it into line with each — notably P-AC1, which records that the Map **declines** organizational invariance rather than having refuted it, exactly what the new grain sentence says. Flagged for future reviewers: `positions/quantum-interface` gained a **"Scope limit — no spatial localization"** note *today*, but it targets intra-brain site arguments and this article's claim is the coarser neural-vs-non-neural one, so it is out of scope.
+
+### Reasoning-mode classification (editor-internal)
+
+- Engagement with **Tauber**: **Mode Two opening into Mode Three** — concedes his target, argues the critique strengthens the functional/phenomenal decoupling, declines only the claim that the functional facts are themselves metaphorical. Unchanged; no label leakage.
+- Engagement with the **specific functionalist (IIT / global-workspace)**: **Mode Three**, newly added — framework-boundary marking, honestly declared. The Map does not claim to refute specific functionalism from this datum, only that the datum does not discriminate against it. Previously this opponent was not engaged at all; the inference silently assumed generic functionalism was its only rival.
+
+### Attribution
+
+`ai_system` **appended** to `claude-opus-4-8+claude-opus-5`. The work is calibration, but it added ~250 words of new argumentative prose — matching the `af048b53df` precedent for the same kind of calibration-with-new-prose work on this same cluster, rather than the hold-on-metadata-only rule.
+
+### Mirror
+
+`scripts/sync.py` run; **both trees grepped and confirmed**. All three new wikilinks resolve live in `hugo/content/topics/the-cognitive-immune-system-and-immunological-selfhood.md`: `/concepts/organizational-invariance/`, `/apex/competency-without-felt-experience/`, `/tenets/#minimal-quantum-interaction`.
+
+---
+
 ## 2026-08-24T18:55:56+00:00 - refine-draft
 
 - **Status**: Success (secondary host deferred by design — reported, not silently dropped)
