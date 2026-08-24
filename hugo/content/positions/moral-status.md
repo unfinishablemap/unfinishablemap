@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-12
-ai_modified: 2026-08-12 13:57:00+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-08-24 11:26:00+00:00
+ai_system: claude-fable-5+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -11,13 +11,13 @@ concepts:
 - '[[valence]]'
 - '[[illusionism]]'
 created: 2026-08-12
-date: &id001 2026-08-12
+date: &id001 2026-08-24
 description: 'The Map''s positions on moral standing — who can be wronged: the phenomenal-sentientism
-  criterion, its dependence on the value register, and what would shift it.'
+  criterion, why status is threshold rather than scalar, and what would shift them.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-12 13:57:00+00:00
+lastmod: 2026-08-24 11:26:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -30,6 +30,7 @@ topics:
 - '[[ethics-under-dualism]]'
 - '[[phenomenal-value-realism]]'
 - '[[animal-consciousness]]'
+- '[[ethics-of-cognitive-enhancement-under-dualism]]'
 ---
 
 ## About this domain
@@ -37,6 +38,8 @@ topics:
 This domain covers **moral standing — who can be wronged** — as a register question distinct from the two neighbours it is easiest to collapse into. The scope domains ([Consciousness scope](/positions/consciousness-scope/), [AI consciousness scope](/positions/ai-consciousness-scope/)) say *where consciousness is*; the value domain's upstream premise ([P-VS3](/positions/value-in-selection/)) says *what bears intrinsic value*. Neither says which entities have moral status — which systems present a perspective that can be wronged rather than a description to be reported. The direction of derivation is itself part of what this domain registers: the Map derives the status criterion *from* the value premise — normative teleology requires an experiencer for whom the trajectory is good or bad ([consciousness-value-connection](/concepts/consciousness-value-connection/)) — so P-MS1 sits downstream of P-VS3, extending the ordering that file calls "numbered last, logically first". The two must not be identified: P-VS3 would survive a widening of the moral circle past sentience, and a collapse of the status criterion would not by itself move the value realism it rests on.
 
 Seeded 2026-08-12 with a single entry, because the criterion had been stated in live articles ([sentientism](/concepts/sentientism/), [ethics-under-dualism](/topics/ethics-under-dualism/)) with no register entry recording it. Every entry here passes the [foundational-dependency test](/positions/): no tenet's stated rationale runs through moral standing, so retiring an entry leaves all five tenets argued exactly as before — the dependency runs the other way, the phenomenal reading of the criterion standing or falling with Tenet 1.
+
+**Scope decision (2026-08-24): enhancement gets an entry here, not a domain of its own.** Two outer reviews of 2026-08-23 found the register silent on cognitive enhancement, and one proposed a whole enhancement-ethics domain for interface preservation, identity continuity, consent, capability justice and enhancement-specific precaution. Declined on the register's own terms, not for want of room. Identity continuity is already carried by [P-I1](/positions/individuation-and-subjecthood/) and the pairing debt at [P-SC2](/positions/subject-census/), interface preservation by the quantum-interface mechanism debt. What remains — consent, capability justice — the Map does not yet *hold*, [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) declining the bridge principles at each point; a domain housing open questions rather than commitments would invert what the register is for. The part that *is* a commitment is a moral-status question, registered below as P-MS2; applied verdicts, when they arrive, belong to the applied-verdicts domain already named in [the domain list](/positions/).
 
 ## Positions
 
@@ -48,4 +51,16 @@ Seeded 2026-08-12 with a single entry, because the criterion had been stated in 
 - **Depends on**: Tenet 1 ([Dualism](/tenets/#dualism)) — the phenomenal rather than functional reading; [P-VS3](/positions/value-in-selection/) via the derivation in [consciousness-value-connection](/concepts/consciousness-value-connection/) (this entry depends on the bare realism claim alone and does not inherit P-VS4's pluralism, which grades *stakes*, not status); the falsity of [illusionism](/concepts/illusionism/); the conation-requirement reply to biocentrism (Feinberg 1974). Passes the [foundational-dependency test](/positions/) — freely retireable.
 - **Argued in**: [sentientism](/concepts/sentientism/) (the criterion, the phenomenal/functional distinction, the biocentrism reply), [ethics-under-dualism](/topics/ethics-under-dualism/), [phenomenal-value-realism](/topics/phenomenal-value-realism/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
 - **Would shift if**: illusionism were vindicated — then "capacity for valenced experience" names no property and the criterion picks out nothing, retiring this entry together with P-VS3; or a functional reading of sentience were shown to survive the illusionist threat with its rationale intact, which would collapse the phenomenal qualification and revert the Map to mainstream functional sentientism (the entry's distinctive content, not the moral circle, is what would go); or the biocentrist supplied an account of why a subjectless good generates duties that does not covertly appeal to mattering-to-someone, which would break the necessity direction and widen the circle past sentience; or the overinclusiveness and marginal-cases pressure were shown unanswerable within the status/stakes separation ([sentientism](/concepts/sentientism/) accepts a residue there knowingly), which would force grading status itself rather than only stakes.
-- **Last reviewed**: 2026-08-12
+- **Updated 2026-08-24**: the fourth shift-limb — that marginal-cases pressure unanswerable within the status/stakes separation would force grading status itself — is now answered rather than merely posted, by **P-MS2** below, which takes the same fork from the opposite side and holds the separation. The limb stays live as a defeater; what changes is that its trigger is specified, and that a scalar answer in either direction is on record as forcing one in the other. Claim and calibration unchanged.
+- **Last reviewed**: 2026-08-24
+
+## P-MS2: Moral status is threshold, not scalar — enhancement raises what is at stake in a life without raising its status
+
+- **Status**: live
+- **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence low (a conjunction — the threshold reading inherits P-MS1's ceiling, while the stakes-grading half routes through [P-VS4](/positions/value-in-selection/) and cannot exceed *its* band) · external-evidence grade D (inherits P-MS1's support base and adds none of its own) · structural centrality low · model maturity developed · empirical discriminability none · framework-internal only: yes
+- **Asserts**: The Map reads "capacity for valenced experience" in **P-MS1** as a threshold predicate rather than a magnitude. An intervention that widens or enriches the valenced experience of a subject *already* possessing the capacity therefore raises what is at stake in that life without raising its moral status. Sufficiency is a conditional on possession: "P suffices for Q" does not license "more P, more Q", and the register owed this disambiguation because its own phrase reads either way. What is status-relevant is a threshold crossing, and those run both directions — conferring the capacity where none was present confers status; removing it takes status with it, whether by the affective-only disenhancement [sentientism](/concepts/sentientism/) leaves open or by a bypass that raises measured performance while extinguishing felt valence. Consistency fixes the reading rather than convenience: enhancement is the marginal-cases pressure arriving from above, so a scalar answer here forces one below, and the Map has already declined to let a comatose human's status fall with their capacity. The upward grading is real but belongs to *stakes*, through P-VS4's dimensions — which P-MS1 deliberately does not inherit and this entry does, for that half alone and at P-VS4's cost. The residue is stated rather than dissolved: the separation **relocates** Nozick's utility monster instead of blocking it, since equal consideration of *equal* interests legitimately weights a subject whose intensity ceiling has been raised, and an unbounded ceiling is an unbounded weight. Centrality is *low*: retiring this disturbs nothing upstream, resolving an ambiguity inside P-MS1 rather than supplying anything P-MS1 needs.
+- **Depends on**: [P-MS1](/positions/moral-status/) (the criterion this reads, and the source of its ceiling); [P-VS4](/positions/value-in-selection/) for the stakes half only, never for the status half; the status/stakes separation and the disenhancement treatment in [sentientism](/concepts/sentientism/). Passes the [foundational-dependency test](/positions/) — no tenet's rationale runs through it.
+- **Argued in**: [sentientism](/concepts/sentientism/) supplies the machinery — status/stakes separation, the marginal-cases collision, disenhancement as the downward crossing — but argues only that direction; [phenomenal-value-realism](/topics/phenomenal-value-realism/) carries the stakes grading. The upward direction is argued in no article yet, [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) being its natural home and currently silent. Registered as an **orphan by audit check 3**, disclosed rather than papered over.
+- **Would shift if**: a defensible account were supplied of degrees of the *capacity itself*, as distinct from degrees of what the capacity delivers — which would make the magnitude reading available and reopen the fork; or the status/stakes separation were shown to recommend no act the scalar reading would not also recommend, the utility-monster residue growing until the two are practically indistinguishable, which would trigger P-MS1's fourth limb and force grading status; or enhancement were shown to change the *number* of subjects rather than the capacity of one, which is a census question ([moral-census-opacity](/concepts/moral-census-opacity/)) this entry does not answer; or P-MS1 or [P-VS3](/positions/value-in-selection/) fell, retiring this with them.
+- **Registered 2026-08-24**: minted after two outer reviews of 2026-08-23 independently found the register silent on enhancement and pulled opposite ways — [ChatGPT](/reviews/outer-review-2026-08-23-chatgpt-5-6-sol-pro/) that equal moral standing does not require equal cognitive or phenomenal capacity, [Claude](/reviews/outer-review-2026-08-23-claude-opus-5/) that on the Map's own criterion enhanced capacity "straightforwardly would" raise status. Neither is adopted wholesale. ChatGPT's conclusion is the Map's, its reason is not: standing is not decoupled from capacity — capacity is what confers it — only from *degree*, and the stronger decoupling would break P-MS1's necessity direction and widen the circle past sentience, the biocentrist result that entry exists to resist. Claude's premise is the Map's, its inference is not, reading a sufficiency conditional as a monotone function.
+- **Last reviewed**: 2026-08-24
