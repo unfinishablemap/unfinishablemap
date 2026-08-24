@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-08-20 10:41:00+00:00
+ai_modified: 2026-08-24 17:51:32+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-08-20 10:41:00+00:00
+lastmod: 2026-08-24 17:51:32+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -426,7 +426,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: From first-person experience through neural architecture to quantum selection to metaphysical agency
 
-**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels providing independent evidence, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain's coherence across four explanatory levels is a theoretical virtue consistent with the Map's interactionist framework capturing something real, though coherence alone does not constitute evidence; the discount for artifact-of-method risk is calibrated by [the project's countermeasures](/project/coherence-inflation-countermeasures/).
+**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — three levels independently grounded, the quantum level serving as a candidate mechanism — while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain's coherence across four explanatory levels is a theoretical virtue consistent with the Map's interactionist framework capturing something real, though coherence alone does not constitute evidence; the discount for artifact-of-method risk is calibrated by [the project's countermeasures](/project/coherence-inflation-countermeasures/).
 
 **Source articles**:
 - topics/motor-control-quantum-zeno

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-08 19:31:46+00:00
+ai_modified: 2026-08-24 17:51:32+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -13,12 +13,12 @@ apex_sources:
 - concepts/mental-causation-and-downward-causation
 apex_thesis: A complete argument chain runs from the phenomenology of willing through
   neural motor architecture through quantum selection to metaphysical agency — three
-  levels providing independent evidence, the quantum level serving as a candidate
-  mechanism — while the connections between levels constitute a mutually supporting
-  structure whose coherence across four explanatory domains is a theoretical virtue
-  consistent with the Map's interactionist framework capturing something real, with
-  the artifact-of-method discount calibrated by the discipline against reading method-produced
-  consistency as evidence.
+  levels independently grounded, the quantum level serving as a candidate mechanism
+  — while the connections between levels constitute a mutually supporting structure
+  whose coherence across four explanatory domains is a theoretical virtue consistent
+  with the Map's interactionist framework capturing something real, with the artifact-of-method
+  discount calibrated by the discipline against reading method-produced consistency
+  as evidence.
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-08-08 19:31:46+00:00
+lastmod: 2026-08-24 17:51:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [The Chain as Evidence](#the-chain-as-evidence) below for the artifact-of-method correction).
+The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels are independently grounded; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [The Chain as Evidence](#the-chain-as-evidence) below for the artifact-of-method correction).
 
 <details class="yt-embed" data-video-id="QN1BzLnKy8Y">
 <summary>Video introduction</summary>
@@ -125,7 +125,7 @@ This closes the loop with Level Two: the brain generates competing plans in para
 
 Honest gaps remain. Tegmark's calculations placed neural coherence times at femtoseconds — twelve orders of magnitude short of conscious timescales — while the most favourable revised estimates (Hagan et al. 2002) reach microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — roughly 1,000 microsecond-scale observations within a 300ms decision window would suffice — but no concrete model yet demonstrates such rates.
 
-Here the chain inherits a distinction that materially limits the damage. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) sets out, the Map's commitment is layered: *phenomenal biasing* — that felt qualities enter the causal story in a way sub-personal computational role does not exhaust — is the architecture-level claim, while quantum Zeno selection is one *candidate implementation* of that architecture. The decoherence gap is a constraint on the Zeno candidate, not on the architecture. If the gap proves unbridgeable, an alternative implementation would carry the load; phenomenal biasing itself does not stand or fall with microtubule coherence. This is the framework's most serious empirical vulnerability at the implementation tier, but it is not load-bearing for the chain's central commitment. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for six proposed mechanisms addressing the quantum-to-macroscopic gap. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) frames Stapp's quantum Zeno proposal as a *proto-model* at the pre-Keplerian stage — a candidate specification awaiting the founding measurements that would convert it from speculative mechanism into inferable law — rather than a Newton-analogue theory awaiting refinement.
+Here the chain inherits a distinction that materially limits the damage. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) sets out, the Map's commitment is layered: *phenomenal biasing* — that felt qualities enter the causal story in a way sub-personal computational role does not exhaust — is the architecture-level claim, while quantum Zeno selection is one *candidate implementation* of that architecture. The decoherence gap is a constraint on the Zeno candidate, not on the architecture. If the gap proves unbridgeable, an alternative implementation would carry the load; phenomenal biasing itself does not stand or fall with microtubule coherence. This is the framework's most serious empirical vulnerability at the implementation tier, though the chain's central commitment does not rest on it. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for six proposed mechanisms addressing the quantum-to-macroscopic gap. The Map's [framework-stage calibration discipline](/project/framework-stage-calibration/) frames Stapp's quantum Zeno proposal as a *proto-model* at the pre-Keplerian stage — a candidate specification awaiting the founding measurements that would convert it from speculative mechanism into inferable law — rather than a Newton-analogue theory awaiting refinement.
 
 A deeper concern: the quantum Zeno mechanism requires consciousness to perform rapid observations that prevent decoherence — but explaining how consciousness interacts with the physical is the very problem the mechanism is meant to address. This risks circularity. The chain's response treats Level Three as a *candidate mechanism* rather than an established result: its plausibility derives from the fit between what the phenomenology describes (sustained attentional effort), what the neural architecture requires (a selection mechanism), and what quantum mechanics permits (undetermined outcomes). The circularity is real but contained — the mechanism presupposes the kind of entity argued for at the other three levels.
 
@@ -143,7 +143,7 @@ The [luck objection](/concepts/quantum-indeterminacy-free-will/) — that undete
 
 Each level is independently grounded: the phenomenological structure of agency is confirmed by clinical dissociations regardless of one's views on quantum mechanics; the neural architecture of competitive selection was discovered by motor neuroscience without reference to philosophy of mind; agent causation has philosophical grounding independent of any physical mechanism. The quantum opening — the fact that physics leaves certain outcomes undetermined — exists independently too, but the proposal that consciousness fills it is the chain's speculative link rather than an established result.
 
-The chain's strength exceeds its parts because the connections between levels are themselves independently motivated: phenomenology maps onto neural architecture because both describe the same process at different resolutions; neural architecture reveals a selection gap where phenomenology says selection occurs; the quantum opening fills that gap with a mechanism consistent with the phenomenology; and agent causation supplies the metaphysics for the kind of entity the three lower levels require.
+The chain's strength exceeds its parts because the connections between levels are themselves independently motivated: phenomenology maps onto neural architecture at joints the clinical dissociations mark from both sides; neural architecture reveals a selection gap where phenomenology says selection occurs; the quantum opening fills that gap with a mechanism consistent with the phenomenology; and agent causation supplies the metaphysics for the kind of entity the three lower levels require.
 
 A critic might object that this mutual support is circular — that coherence between levels demonstrates internal consistency, not truth. The concern has force: Ptolemaic astronomy was also coherent across its observational, mathematical, and cosmological levels. A second concern, particular to the Map's method, runs alongside the Ptolemaic one: this article is a synthesis assembled inside a corpus continually pruned for internal consistency by AI-driven adversarial review, so a high-coherence reading across the four levels is partly what such a method *produces by construction*. The [project's countermeasures](/project/coherence-inflation-countermeasures/) target this risk; the [common-cause null discipline](/project/common-cause-null/) sharpens it for convergence arguments, asking whether the apparent triangulation across four domains might be one upstream construction read four times. The [phenomenal-output / causal-machinery cluster](/apex/phenomenal-output-causal-machinery-dissociation/) is the catalogue's most developed instance of pressing that question against a cumulative-convergence claim, and the [evidential-status discipline](/project/evidential-status-discipline/) supplies the rule the present chain must honour — *a tenet may remove a defeater, but it must not upgrade the evidence level*. What distinguishes the chain from both mere coherentism and the artifact-of-method worry is that three anchor points are framework-independent:
 
@@ -223,4 +223,4 @@ This synthesis traces a chain through:
 26. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 27. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 28. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008
-28. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
+29. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
