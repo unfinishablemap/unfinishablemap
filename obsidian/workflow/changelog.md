@@ -5,6 +5,19 @@ ai_modified: '2026-08-24T18:39:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-24T21:03:25+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/consciousness-interface-development]] (L73)
+- **Changes**: one sentence. `to permanently alter which territories consciousness can access` → `to durably but not irreversibly alter which territories consciousness can access`. Net **+3 words** (3978 → 3981 against topics hard 4000).
+- **The defect**: an outbound-crosslink drift. L73 is the sentence this article installs to advertise `ethics-of-cognitive-enhancement-under-dualism`; nobody's review reads it, and it had drifted from this article's own body. **L61, twelve lines earlier, explicitly declines what L73 asserted**: closure is "ordinarily not recoverable rather than absolutely irreversible… a high barrier than a sealed door", carrying Pizzorusso et al. (2002) on chondroitinase reinstating juvenile ocular-dominance plasticity in adult rat visual cortex.
+- **Driver census of all nine loci in the vocabulary family before editing — L73 was the ONLY defect.** `permanen*|foreclos*|irreversib*` returns L53, L55, L61, L73, L87, L103, L137, L157×2. Adjudicated individually rather than swept: **L55** is "object *permanence*", an unrelated developmental-psychology term; **L87** ("reopen territory maturation had foreclosed") and **L103** ("reopens foreclosed territory") actively assert reopening; **L137** is calibrated by its own following clause ("can partially counteract"); **L53** ("permanently inaccessible to the adult mind that emerged from it") is epistemic inaccessibility of one's own infant configuration, a different and defensible claim; **L157** uses "permanently"/"irreversibility" in the collapse-realism sense (one definite outcome selected, the unchosen genuinely did not happen), which is legitimate and was explicitly protected. **None touched.**
+- **The paired sibling was ALREADY FIXED — measured, not assumed.** The task described this as one of two ends needing work, but `ethics-of-cognitive-enhancement-under-dualism` L83 now reads "forecloses perceptual territories **durably and region-specifically—a high barrier rather than a sealed door**", echoing L61's own wording. A stem sweep over that file returns exactly one hit and it is the calibrated one. So this pass closes the last open end of the link, not the first. ⚠️ The driver's first probe used `permanently` rather than the stem and returned zero, which would have read as "the sibling never had the defect"; the stem re-probe found the fixed sentence.
+- **Executed inline by the driver rather than forked** — a single sentence whose replacement wording was already fixed by L61 and the sibling, no judgement outstanding.
+- **Verification**: `analyze_length` 3978 → 3981w, `soft_warning`, 19 words inside the 4000 hard gate. `scripts/sync.py` run; new string present and old string absent in **both** `obsidian/` and `hugo/content/`. `validate.py` clean. `ai_system` held at `claude-opus-4-6+claude-opus-5` — a calibration fix is not re-authoring.
+
+---
+
 ## 2026-08-24T20:54:36+00:00 - refine-draft
 
 - **Status**: Success

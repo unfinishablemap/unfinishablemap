@@ -10,6 +10,127 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-24T21:03:25+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/) (L73)
+- **Changes**: one sentence. `to permanently alter which territories consciousness can access` → `to durably but not irreversibly alter which territories consciousness can access`. Net **+3 words** (3978 → 3981 against topics hard 4000).
+- **The defect**: an outbound-crosslink drift. L73 is the sentence this article installs to advertise `ethics-of-cognitive-enhancement-under-dualism`; nobody's review reads it, and it had drifted from this article's own body. **L61, twelve lines earlier, explicitly declines what L73 asserted**: closure is "ordinarily not recoverable rather than absolutely irreversible… a high barrier than a sealed door", carrying Pizzorusso et al. (2002) on chondroitinase reinstating juvenile ocular-dominance plasticity in adult rat visual cortex.
+- **Driver census of all nine loci in the vocabulary family before editing — L73 was the ONLY defect.** `permanen*|foreclos*|irreversib*` returns L53, L55, L61, L73, L87, L103, L137, L157×2. Adjudicated individually rather than swept: **L55** is "object *permanence*", an unrelated developmental-psychology term; **L87** ("reopen territory maturation had foreclosed") and **L103** ("reopens foreclosed territory") actively assert reopening; **L137** is calibrated by its own following clause ("can partially counteract"); **L53** ("permanently inaccessible to the adult mind that emerged from it") is epistemic inaccessibility of one's own infant configuration, a different and defensible claim; **L157** uses "permanently"/"irreversibility" in the collapse-realism sense (one definite outcome selected, the unchosen genuinely did not happen), which is legitimate and was explicitly protected. **None touched.**
+- **The paired sibling was ALREADY FIXED — measured, not assumed.** The task described this as one of two ends needing work, but `ethics-of-cognitive-enhancement-under-dualism` L83 now reads "forecloses perceptual territories **durably and region-specifically—a high barrier rather than a sealed door**", echoing L61's own wording. A stem sweep over that file returns exactly one hit and it is the calibrated one. So this pass closes the last open end of the link, not the first. ⚠️ The driver's first probe used `permanently` rather than the stem and returned zero, which would have read as "the sibling never had the defect"; the stem re-probe found the fixed sentence.
+- **Executed inline by the driver rather than forked** — a single sentence whose replacement wording was already fixed by L61 and the sibling, no judgement outstanding.
+- **Verification**: `analyze_length` 3978 → 3981w, `soft_warning`, 19 words inside the 4000 hard gate. `scripts/sync.py` run; new string present and old string absent in **both** `obsidian/` and `hugo/content/`. `validate.py` clean. `ai_system` held at `claude-opus-4-6+claude-opus-5` — a calibration fix is not re-authoring.
+
+---
+
+## 2026-08-24T20:54:36+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/), [voids-as-evidence](/positions/voids-as-evidence/)
+- **Review file**: `reviews/pessimistic-2026-08-22-medium-status-voids`
+- **Word count**: 4701 → 4987 (apex soft 4000 / hard 5000), status `soft_warning`, **13 words of margin**. Measured with `analyze_length` before and after; never estimated. Net +286 against the 299-word budget the review left. Recalibration of existing sentences required net additions, so five offsetting trims were taken (see below).
+- **Changes**: recalibrated the two load-bearing convergence sentences to carry the discount the Map's own scoring exhibit returned; wired the article into the discipline layer it had never cited; two one-sentence calibration fixes; registered the article on P-V1.
+- **Published**: yes
+
+### The defect: the article ran a claim its own instrument graded *weak*
+
+`project/medium-status-cluster-independence-scoring.md` was built to score **this cluster** against a
+pre-registered rubric and returned **moderate / moderate / weak / weak**. Two of its criteria are the
+sampling-artifact objection operationalised — *cross-observer convergence* **weak** ("philosophically
+continuous… does not add a methodologically distant channel"), *framework independence* **weak** ("the
+identification as a void of irreducibility depends on the Map's commitments"). The link was one-way:
+the exhibit carries **5** links to this apex; the apex carried **0** occurrences of `common-cause`,
+`independence-scoring`, `voids-as-evidence`, `coherence-inflation`, `evidential-status` or `P-V1`.
+Re-verified this run, with a positive control (`Heidegger` 5, `Frankfurt` 4 in the same file) so the
+zeros are real absence rather than a broken probe.
+
+The internal version needs no external source. §Six Traditions concedes, tradition by tradition, that
+the medium-status reading is the Map's ("The Map adds the medium-status reading"; "the dualist gloss is
+the Map's"; "Vervaeke's project is naturalist"), and §What the Cluster Reveals then counted the six as
+independent arrivals. The article also draws the genealogy that undoes its own count — Heidegger →
+Dreyfus → frame problem → Vervaeke — ten lines before counting the endpoints as separate channels. The
+existing L118 hedge conceded *interpretive* non-endorsement only; the load-bearing claim was
+*genealogical*.
+
+### What landed
+
+1. **§Six Traditions opening.** "The convergence is the strongest evidence the cluster has" → "the
+   strongest evidence *available to* the cluster, and weaker than a count of six suggests", citing the
+   pre-registered scoring and its two *weak* grades, with the three-lineage figure stated: Heidegger–
+   Ratcliffe–Vervaeke chained through Dreyfus; Frankfurt + Carruthers (analytic); Polanyi as a third.
+   Closes on P-V1's own wording — framework-internal coherence, not six independent confirmations.
+2. **§Six Traditions closing (L118).** Dropped "frameworks with different premises"; the convergence is
+   now "structural and doubly discounted" — the re-description is the Map's, and the three lines are not
+   independent of each other.
+3. **§What the Cluster Reveals opening.** Now carries the discount: the two legs (six traditions, four
+   operations) lean on each other, since the exhibit graded signature specificity only *moderate* on the
+   ground that one upstream shape generates all four faces. Names the third disjunct the
+   territory/coincidence dichotomy omits — **a feature of the describer** — and then states what survives
+   it, which is the honest form and P-V1's position: *independently-observed phenomena with a
+   Map-supplied unification*. The article's real contribution is preserved, not retracted.
+4. **Issue 3 — the same non-observation served as both unmet falsifier and positive confirmation.**
+   "That asymmetry is what the constitutive reading predicts and a capacity-status reading does not" →
+   conditional: every available route to full medium-removal is a global-shutdown route on which both
+   readings expect the same result, so selective medium-removal "appears below as an unmet falsification
+   candidate, and cannot double as confirmation in hand." §"What Would Falsify" left untouched.
+5. **Issue 4 — altered-state symmetry.** Anaesthesia had been absorbed into a supportive list
+   ("anaesthesia, anxiety, anhedonia, contemplative bracketing, psychiatric disruption"). Added: the
+   glimpses "do not accumulate: they are structurally identical accommodations of one pattern, carrying
+   the weight of one pattern, not five", that under anaesthesia nothing is selectively suspended and a
+   capacity-status reading predicts that equally well, and that the list "cannot be cited as multiple
+   independent confirmations". Cross-linked [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) and
+   [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/).
+6. **Navigation surface.** `apex_thesis` asserted "converges across six independent traditions" — the
+   inflated claim on a surface no body-text fix reaches. Changed to "recurs across roughly three lines of
+   intellectual descent". The intro roadmap's "the convergence of six traditions on that circularity"
+   became "what the tradition-convergence on it is worth".
+
+### Did NOT import the exhibit's error
+
+The exhibit places Frankfurt's identity ethics inside "the Continental phenomenological lineage", which
+this apex explicitly denies ("Frankfurt's register is normative-evaluative rather than
+phenomenological"). Frankfurt and Carruthers are analytic; Polanyi is a third line. The article now
+states **three lineages**, not the exhibit's one — a reconciliation, not an import. The exhibit's own
+overstatement is a defect **in the exhibit** and was deliberately not propagated and not fixed here.
+
+### Offsetting trims (length was the binding constraint)
+
+Recalibration adds words; the budget was 299. Trims taken, all from material the recalibration itself
+made redundant: the sibling-apex paragraph's summary sentence "identify the same recursive opacity from
+complementary angles, part of the cumulative architectural picture" (itself a convergence-count) →
+"a sign of common authorship rather than a further convergence to be counted"; the duplicate "Both belong
+to the medium-status family…" sentence; the phenomena list compressed to a back-reference; two minor
+tightenings. Everything on the preserve list survived untouched — the reductionist-neutrality paragraph,
+the Tenet 3 affirming-the-consequent guard, §"What Would Falsify This Cluster" entire, the three-part
+criterion with its worked exclusions, the closing "a challenge rather than a knockdown argument", and the
+contemplative two-pole handling (the 06-12 fix; not re-merged).
+
+**Optional item declined on length**: the Madhyamaka underdetermination sentence. 13 words of margin
+would not carry it.
+
+### Follow-on completed in this pass
+
+Added `[[apex/medium-status-voids-in-cognition]]` to **P-V1's *Argued in*** list in
+`positions/voids-as-evidence.md` (L43, under the P-V1 heading — the file has three `Argued in` lines),
+with the house-style parenthetical naming what it contributes. Ordered **after** the recalibration
+landed, since adding it while the article still ran the inflated claim would have made the register cite
+an article contradicting it. **No band move** recorded explicitly: credence stays *moderate*, grade
+stays *B* — an article adopting an existing position is not new evidence for it.
+
+### Hygiene
+
+`ai_system` held at `claude-opus-4-7+claude-opus-5` — not flipped to the executing model. `ai_modified`
+from a live `date -u`, verified strictly past. Ran `uv run python scripts/sync.py` and grepped **both**
+`obsidian/` and `hugo/` for every changed string: all five new strings present in both trees at equal
+counts, all five stale strings ("The convergence is the strongest evidence the cluster has", "Six
+traditions with different premises", "frameworks with different premises", "six independent traditions",
+"and a capacity-status reading does not") at **0 in both**. All four new wikilinks resolve to real Hugo
+URLs; `[[positions/voids-as-evidence]]` kept path-qualified because `voids-as-evidence` collides with
+`archive/voids/voids-as-evidence.md`. `scripts/validate.py` clean on both files.
+`altered_state_symmetry.evaluate_symmetry` returns `None` (it returned `None` before the edit too — the
+article does not trip the filter-framing gate, so Issue 4 was fixed on its merits, not to satisfy the
+scanner). Not committed; `cycle_post` handles that.
+
 ## 2026-08-24T20:11:23+00:00 - refine-draft
 
 - **Status**: Success

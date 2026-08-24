@@ -3,7 +3,7 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-02T02:02:08+00:00
+ai_modified: 2026-08-24T21:03:25+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan — a developmental record the interface model accommodates rather than uniquely predicts."
 topics:
@@ -70,7 +70,7 @@ On the Map's reading, metarepresentation depends on neural infrastructure — pr
 
 This creates a developmental asymmetry: the interface is most plastic when its control affordances are least developed, and by the time it supports the sophistication needed to direct its own restructuring, the most plastic periods have closed.
 
-The reshaping raises distinctive ethical questions: enhancement during critical windows would interact with natural pruning to permanently alter which territories consciousness can access. The [[ethics-of-cognitive-enhancement-under-dualism|ethics of cognitive enhancement]] explores why configuring another person's interface without their consent carries special moral weight under dualism.
+The reshaping raises distinctive ethical questions: enhancement during critical windows would interact with natural pruning to durably but not irreversibly alter which territories consciousness can access. The [[ethics-of-cognitive-enhancement-under-dualism|ethics of cognitive enhancement]] explores why configuring another person's interface without their consent carries special moral weight under dualism.
 
 ### Adult Maturity: Peak Efficiency, Narrowest Aperture
 
