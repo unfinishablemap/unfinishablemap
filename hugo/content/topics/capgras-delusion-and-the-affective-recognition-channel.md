@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-08-04 10:34:43+00:00
+ai_modified: 2026-08-24 10:17:29.436301+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -15,10 +15,15 @@ description: A human+AI reading of Capgras delusion as a selective disconnection
   felt familiarity — evidence consistent with the Map's interface architecture, held
   honestly against the physicalist rival.
 draft: false
+embedded_videos:
+- embedded: 2026-08-24 10:17:29.436301+00:00
+  id: azDE-G8rg2Y
+  source: notebooklm/0115-01-capgras-delusion-and-the-affective-recognition-channel
+  url: https://www.youtube-nocookie.com/embed/azDE-G8rg2Y
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 02:08:29+00:00
-lastmod: 2026-08-04 10:34:43+00:00
+lastmod: 2026-08-24 10:17:29.436301+00:00
 modified: *id001
 related_articles:
 - '[[recognition-void]]'
@@ -34,6 +39,12 @@ topics:
 On the Map's interface picture, Capgras delusion is read as a selective disconnection of the **affective-familiarity channel**: the felt "mineness" or warmth that normally accompanies the sight of a loved one is severed while perceptual identification of the face stays intact. The patient looks at a spouse, correctly registers every feature, and concludes the person is an impostor — because the face is seen but no longer *felt*. This reading treats felt familiarity as a distinct contribution to recognition that can fail on its own, which is consistent with the Map's claim that experience has separable channels. It is not a demonstration that the channel is non-physical. A fully physicalist account — recognition as a bundle of information-processing streams, one of which happens to be damageable — explains the same clinical data, and that rival is left standing throughout this article. What Capgras supplies is a clean instance of felt familiarity coming apart from perceptual identification; what it does not supply is a verdict on the metaphysics of that separation.
 
 This article is the deep dive on the Capgras half of a pattern the Map develops elsewhere. The broader Capgras–prosopagnosia **double dissociation** — the mirror-image pairing that establishes recognition as a compound of at least two components — is argued in [the recognition void](/voids/recognition-void/); that argument is not repeated here. This piece goes instead into the affective-route *mechanism*, the skin-conductance evidence that confirmed it, the two-factor model that explains why the anomaly hardens into a fixed belief, and the live challenge to whether the lesioned channel is really "familiarity-specific" at all.
+
+<details class="yt-embed" data-video-id="azDE-G8rg2Y">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/azDE-G8rg2Y">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Affective-Route Mechanism
 

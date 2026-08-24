@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-02 14:22:00+00:00
+ai_modified: 2026-08-24 10:17:29.436301+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -15,10 +15,15 @@ date: &id001 2026-08-02
 description: Humor as a third aesthetic category beside beauty and the sublime, and
   mirth as a candidate irreducible quale, with the computational rival at full strength.
 draft: false
+embedded_videos:
+- embedded: 2026-08-24 10:17:29.436301+00:00
+  id: PFzGcbV-844
+  source: notebooklm/0114-01-the-comic-and-humor-as-an-aesthetic-category
+  url: https://www.youtube-nocookie.com/embed/PFzGcbV-844
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 14:22:00+00:00
-lastmod: 2026-08-02 14:22:00+00:00
+lastmod: 2026-08-24 10:17:29.436301+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +40,12 @@ topics:
 ---
 
 The comic is a genuine aesthetic category, the structural sibling of the [sublime](/topics/the-sublime-and-negative-aesthetics/): a mode of aesthetic response with its own object, its own theoretical literature, and its own felt quality—**mirth**, the "click" of getting a joke. Three classical theories explain what triggers laughter, and each captures something. But the Map's interest is narrower and sharper. On one live reading, the felt amusement outruns any structural description of the joke: you can grasp a joke's entire incongruity-and-resolution structure and still not be amused, the way you can know everything physical about color and not know what red looks like. That would make mirth a fresh test case for phenomenal irreducibility, parallel to the [knowledge argument](/concepts/knowledge-argument/). This article states that reading and then, in the same breath, names its strongest opponent: a computational account (Hurley, Dennett & Adams's *Inside Jokes*, 2011) that explains mirth completely as an evolved reward signal, positing no felt primitive at all. The dualist reading is one interpretation, not a proof.
+
+<details class="yt-embed" data-video-id="PFzGcbV-844">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/PFzGcbV-844">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Theories of What Triggers Laughter
 

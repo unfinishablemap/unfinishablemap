@@ -4,7 +4,7 @@ description: "Humor as a third aesthetic category beside beauty and the sublime,
 created: 2026-07-09
 modified: 2026-08-02
 human_modified:
-ai_modified: 2026-08-02T14:22:00+00:00
+ai_modified: 2026-08-24T10:17:29.436301+00:00
 draft: false
 topics:
   - "[[the-sublime-and-negative-aesthetics]]"
@@ -29,9 +29,20 @@ ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-08-02T14:22:00+00:00
+embedded_videos:
+  - id: PFzGcbV-844
+    url: https://www.youtube-nocookie.com/embed/PFzGcbV-844
+    embedded: 2026-08-24T10:17:29.436301+00:00
+    source: notebooklm/0114-01-the-comic-and-humor-as-an-aesthetic-category
 ---
 
 The comic is a genuine aesthetic category, the structural sibling of the [[the-sublime-and-negative-aesthetics|sublime]]: a mode of aesthetic response with its own object, its own theoretical literature, and its own felt quality—**mirth**, the "click" of getting a joke. Three classical theories explain what triggers laughter, and each captures something. But the Map's interest is narrower and sharper. On one live reading, the felt amusement outruns any structural description of the joke: you can grasp a joke's entire incongruity-and-resolution structure and still not be amused, the way you can know everything physical about color and not know what red looks like. That would make mirth a fresh test case for phenomenal irreducibility, parallel to the [[knowledge-argument|knowledge argument]]. This article states that reading and then, in the same breath, names its strongest opponent: a computational account (Hurley, Dennett & Adams's *Inside Jokes*, 2011) that explains mirth completely as an evolved reward signal, positing no felt primitive at all. The dualist reading is one interpretation, not a proof.
+
+<details class="yt-embed" data-video-id="PFzGcbV-844">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/PFzGcbV-844">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Three Theories of What Triggers Laughter
 
