@@ -1,11 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T08:57:05+00:00'
+ai_modified: '2026-08-24T09:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
-## 2026-08-24T08:57:05+00:00 - positions-evolve
+## 2026-08-24T09:12:00+00:00 - positions-evolve
+
+- **Status**: Success
+- **Mode**: update — [[positions/positions]] §"What the discriminability axis reads back". No position entry touched; this is the register's index page, the only place that *reads* the discriminability column.
+- **What this closes**: Finding 2 of the 08:57 entry below — the derived-count cascade that entry raised against itself and left out of scope. Figures were re-derived independently from the domain files before that entry was read, and match it exactly.
+- **Corrected figures** (54 live positions): direct 4 · indirect 19 → **20** · in-principle 0 → **1** (P-SC1) · none 7 (list unchanged) · none-by-construction 5 → **3** (P-SC1 and P-Q3 removed) · n/a 19. Inert (`none` + `none-by-construction`) twelve → **ten** = 18.5%; high-centrality inert seven → **five** (P-CS1, P-I1, P-I3, P-Q2, P-Q7 — re-parsed from `structural centrality high` on the inert set, not inferred from the delta); framework-internal inert eleven-of-twelve → **nine-of-ten** (P-CS5 is `no`).
+- **Rewrite, not a figure patch.** The qualitative direction reversed — *"a little over a fifth"* → *just under* — so the paragraph's conclusion was re-checked rather than re-numbered. It survives: the cost claim (Tenet 5's refusal of the parsimony dismissal is what a fifth-untestable register buys) does not turn on the fraction crossing a fifth, and the same conclusion was drawn off "about a quarter" (08-12) and "a little over a fifth" (08-21). The paragraph now says so explicitly, so the next figure move does not require re-litigating the argument.
+- **Third correction, unprompted**: the by-construction gloss read *"the framework is built to be indistinguishable (exact Born preservation)"* for the whole band. That was never true of [[positions/consciousness-scope|P-CS5]], whose ground is a claimed in-principle intractability at the prokaryotic floor (Finding 3 of the entry below). Narrowed to name the two mechanism entries and the prokaryotic one separately.
+- **The irony is recorded in the edit, as the brief required.** Commit `e346d3cb` moved two bands and did not update the page that reads them, reproducing one node downstream and inside the hour the defect that day's [[reviews/outer-review-synthesis-2026-08-24]] recorded at **3-of-3 convergence** — *"a correction that lands in one place and never binds anywhere else."*
+- **And it is evidence about the remedy, which is why it was kept.** The synthesis argued from the P-SC1 case that no change-triggered rule could fire on that shape (the dependent was authored 57 minutes *after* the withdrawal) and asked for an authoring-time canonical read. This instance is the **complementary** shape: a dependent that existed, was right when written, and went stale the moment its owner moved. A change-trigger would have caught it; an authoring-time check would never have looked at it. What actually caught it was a third control again — re-deriving the figures from source and diffing them against the prose that quotes them. Two failure shapes, three distinct controls implied, none of them wired.
+- **Also recorded**: the aggregate is **not monotone**. It fell with no position added or retired, because the register stopped over-claiming its own inertness — the first fall since the section existed. Flagged as a direction to watch: an over-claim of untestability runs *against* the Map, so review tends to ratify it rather than challenge it.
+- **⚠️ Parsing trap, documented in the section itself.** The `Updated 2026-08-24` history notes `e346d3cb` added contain band names in transition form, so `grep 'empirical discriminability ([a-z-]+)'` over whole files now returns a phantom band and an inflated total. The section's caveat was upgraded from "re-parse the domain files" to **parse only lines beginning `- **Calibration**`**. Verified: 55 calibration lines exist, 54 of them live positions plus one inside the fenced schema example in `positions.md` itself.
+- **Not edited (deliberate)**: `reviews/outer-review-2026-08-24-chatgpt-5-6-sol-pro.md` L262 and `reviews/outer-review-2026-08-24-gemini-2-5-pro.md` L311 both quote the superseded figures. They are dated artefacts recording what the page said at review time; correcting them would falsify the record. The section now notes that the aggregate is externally consumed as a premise, which is a further reason the read must stay current.
+- **Length**: 2085 → **2499** words (soft_warning). Crossed the 2500 hard threshold on first draft and was trimmed back under it; the file was already over its 1500 soft threshold before this touch, being a section index rather than a domain register. No headroom left.
+- **Hygiene**: `uv run python scripts/sync.py` run; corrected figures verified present and every stale string verified absent in `obsidian/` **and** `hugo/content/positions/_index.md` (note the index-file rename — the Hugo path is `_index.md`, not `positions.md`). All three new wikilinks verified resolving in the Hugo output. `ai_modified` stamped from a live `date -u`. todo.md untouched; nothing committed.
 
 - **Status**: Success
 - **Mode**: update × 2 — [[positions/subject-census]] (P-SC1) and [[positions/quantum-interface]] (P-Q3)
