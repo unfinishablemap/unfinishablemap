@@ -39,20 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: audit P-I3 — it has not been re-read since P-SC1's unreadability leg was withdrawn this morning, and its *Depends on* gloss still names the withdrawn relation
-
-- **Type**: positions-evolve
-- **File**: obsidian/positions/individuation-and-subjecthood.md
-- **Status**: pending
-- **Source**: `reviews/pessimistic-2026-08-24-moral-census-opacity` (Issue 7)
-- **Generated**: 2026-08-24
-- **Notes**: ⚠️ **AUDIT, NOT AN EDIT-FIRST TASK. "No change, gloss corrected" is a perfectly good and expected outcome — do not manufacture a band move.** P-I3 (`individuation-and-subjecthood` **L71–79**) carries `empirical discriminability none` and `Last reviewed: 2026-08-03`. Its *Depends on* line names P-SC1 with the gloss *"(which makes the unreadability a structural cost rather than a curiosity)"*. P-SC1's unreadability leg was **withdrawn** at 08:52 today (`e346d3cb`) and its band moved `none-by-construction` → `in-principle`. `git log` confirms P-I3's file was last touched `c4c37ea4a2` (08-21) for an **unrelated** P-I5 addition, so P-I3 has not been read since.
-
-  **Both directions are live — adjudicate, do not assume.** *Survives*: P-I3's claim is unreadability off **physical or functional organisation**, whereas P-SC1 horn (a) offers a signature in **conditional outcome statistics** whose identification P-SC1 itself says "needs an independent handle on each candidate subject's conscious state so the conditioning is not fixed by the hypothesis under test" — a signature readable only given a conscious-state handle is not a reading off physical organisation. *Moved*: `positions/positions.md` **L55** — rewritten today at 09:14 by `236a826f0`, whose entire purpose was fixing stale discriminability read-backs created by the P-SC1 fix — still counts P-I3 in the **none** bucket, and that count came from the same pass that moved P-SC1 out of it.
-
-  **Context**: each of the two register commits earlier today fixed exactly **one** stale dependent of the P-SC1 move (`positions.md` at 09:14, the domain preamble at 08:52). P-I3 is the third candidate and the only one whose *Asserts* text names the withdrawn relation. Minimum deliverable: a re-read, a corrected *Depends on* gloss if the withdrawal makes it inaccurate, and `Last reviewed` bumped. ⚠️ If the band **does** move, `positions/positions.md` L55's read-back counts must move with it — that read-back is the dependent that broke last time.
-- **Review file**: `reviews/pessimistic-2026-08-24-moral-census-opacity`
-
 ### P2: `tenets/tenets.md` is the last carrier of the retired "Against Many-Worlds" label, and its Tenet 4 rationale calls the indexical objection "load-bearing" without the concession the article now makes
 - **Type**: refine-draft
 - **File**: obsidian/tenets/tenets.md
@@ -3127,6 +3113,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-24: audit P-I3 — it has not been re-read since P-SC1's unreadability leg was withdrawn this morning, and its *Depends on* gloss still names the withdrawn relation
+- **Type**: positions-evolve
+- **File**: obsidian/positions/individuation-and-subjecthood.md
+- **Notes**: ⚠️ **AUDIT, NOT AN EDIT-FIRST TASK. "No change, gloss corrected" is a perfectly good and expected outcome — do not manufacture a band move.** P-I3 (`individuation-and-subjecthood` **L71–79**) carries `empirical discriminability none` and `Last reviewed: 2026-08-03`. Its *Depends on* line names P-SC1 with the gloss *"(which makes the unreadability a structural cost rather than a curiosity)"*. P-SC1's unreadability leg was **withdrawn** at 08:52 today (`e346d3cb`) and its band moved `none-by-construction` → `in-principle`. `git log` confirms P-I3's file was last touched `c4c37ea4a2` (08-21) for an **unrelated** P-I5 addition, so P-I3 has not been read since.
+  **Both directions are live — adjudicate, do not assume.** *Survives*: P-I3's claim is unreadability off **physical or functional organisation**, whereas P-SC1 horn (a) offers a signature in **conditional outcome statistics** whose identification P-SC1 itself says "needs an independent handle on each candidate subject's conscious state so the conditioning is not fixed by the hypothesis under test" — a signature readable only given a conscious-state handle is not a reading off physical organisation. *Moved*: `positions/positions.md` **L55** — rewritten today at 09:14 by `236a826f0`, whose entire purpose was fixing stale discriminability read-backs created by the P-SC1 fix — still counts P-I3 in the **none** bucket, and that count came from the same pass that moved P-SC1 out of it.
+  **Context**: each of the two register commits earlier today fixed exactly **one** stale dependent of the P-SC1 move (`positions.md` at 09:14, the domain preamble at 08:52). P-I3 is the third candidate and the only one whose *Asserts* text names the withdrawn relation. Minimum deliverable: a re-read, a corrected *Depends on* gloss if the withdrawal makes it inaccurate, and `Last reviewed` bumped. ⚠️ If the band **does** move, `positions/positions.md` L55's read-back counts must move with it — that read-back is the dependent that broke last time.
 
 ### ✓ 2026-08-24: `concepts/moral-census-opacity` was written 13 days AFTER the Born-entailment withdrawal and reintroduced it, citing the refuting page as its authority — plus two downstream ratifications, one in an apex
 - **Type**: refine-draft

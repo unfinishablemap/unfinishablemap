@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T14:23:16+00:00'
+ai_modified: '2026-08-24T14:38:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 14:23:16+00:00
+lastmod: 2026-08-24 14:38:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T14:38:00+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/)
+- **Word count**: 2520 -> 2532 (+12); below soft threshold (3000), normal-improvements mode
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0 (all changes were corrections)
+- **Third pass; the two prior passes were clean, so this one targeted what MOVED.** One commit touched the article since 2026-07-25: `73c91124fd` (refine-draft, 08-22), which narrowed the strict selection-only channel's invisibility from "statistically invisible" to unconditioned-marginal-only. Two of the three findings fall out of that narrowing; the third fell out of re-testing a passage both prior passes explicitly cleared.
+- **CRITICAL 1 - publisher-catalogue-copy attribution, wrong work.** The Kroedel section read *"As Kroedel puts the thought: if our minds had been different, the physical world would have been different, therefore the mind causes events in the physical world."* That formulation is the **Cambridge University Press catalogue description of Kroedel's 2020 book** *Mental Causation: A Counterfactual Theory* - a work the article does not cite - and it appears **nowhere** in the 2015 *Nous* paper it was attached to. Verified by extracting the paper's full text and grepping the raw extraction: `minds had been` 0 hits, `had been different` 0 hits across 61KB. Both prior passes cleared it on the ground that it carried no quotation marks; that test is too narrow, since *"as X puts the thought"* attributes a **formulation**. Replaced with the paper's own abstract sentence - "some physical events counterfactually depend on, and are therefore caused by, mental events" - confirmed verbatim in the raw full text (1 contiguous match) and at the Wiley DOI, with the plain-language restatement now explicitly labelled the Map's gloss.
+- **Propagated to the source.** `research/interventionist-and-counterfactual-dualism-2026-07-15.md` is the origin: it filed the blurb sentence as a *quoted string* under the Kroedel 2015 entry, directly beneath a **PUBLISHER-VERIFIED** venue stamp. The note now carries a dated correction naming the real source, so the defect cannot re-seed a future article.
+- **CRITICAL 2 - cross-article contradiction with [selection-only-channel](/concepts/selection-only-channel/).** The 08-22 refine reversed this article's placement of the strict channel (now "nearer the co-causation family"), but the sibling's reciprocal Further Reading entry still concluded the opposite: *"which places it at the difference-free end alongside trumping ... not the strict selection-only channel."* Commit `1ab6b8a5bf` (08-03) had narrowed the *premise* inside that very sentence and left the conclusion it licensed standing verbatim - a stranded dependent, sitting in a crosslink sentence neither article's review reads. Adjudicated at the canonical source, not by majority: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) keeps horn (a) live, commits only to the *unconditioned* long-run marginal, and names conditional residual-structure tests as the ones that bear. The article under review is right; the sibling's clause was the stale half. Rewritten length-neutrally there (2497 -> 2502 words, same band).
+- **MEDIUM 3 - under-qualified observational-closure clause.** The Tenet-2 paragraph establishes exposure to conditional residual-structure tests, then two clauses later asserts unqualified preservation of *observational* closure - which [observational-closure](/concepts/observational-closure/) defines as *no detectable exceptions*. Qualified to "at that unconditioned grain" (+4 words). The neighbouring "Closure alone does not decide it" paragraph is unaffected (it concerns trumping vs the Vaassen/Lowe family, not the quantum channel).
+- **Citation ledger**: Kroedel 2015 and Vaassen 2024 re-verified at the publisher this pass (both metadata-exact; Vaassen's abstract confirms the "standard objection" gloss near word-for-word). Vaassen 2021/2022, Zhong 2023, Mills 1996, Lowe 2003 carry forward from two independent full ledgers and were untouched by the intervening commit. No inline/References orphans. No superlative or currency claims.
+- **Internal quotes re-checked** against the current `trumping-preemption`: both ("answering a question already closed"; "the quantum-selection channel ... as a distinct and potentially competing mechanism ... rather than an instance of it") still VERBATIM after the sibling's edits.
+- **Engagement classification** (editor-internal, not in prose): Zhong 2023 - Mode Three, framework-boundary marking. The article uses Zhong as a cautionary contrast showing the difference-making toolkit can be turned against dualism, and does not claim to refute non-reductive physicalism from inside it. No boundary-substitution; no label leakage in prose.
+- **Calibration**: clean. The tenet-diagnostic remains structural-continuity, not evidence-elevation; "leans toward is not entails", "tenet-coherent but tenet-underdetermined", and the Tenet-5 block on "simpler therefore truer" all intact.
+- **Hygiene**: `ai_modified` + `last_deep_review` stamped from a live `date -u`; `ai_system` already `claude-opus-4-8+claude-opus-5`, held. Sibling and research note `ai_modified` bumped, research note `ai_system` -> `+claude-opus-5`. `scripts/sync.py` run and **both trees grepped** - Hugo mirror carries all three fixes and the stale sibling clause is gone from `hugo/content/`. Memory slugs in the review file are backticked, not wikilinked (reviews/ is synced). No todo tasks minted; nothing deferred. Uncommitted.
+- **Standing note against the "converged" reading**: two clean passes meant the checks in use had stopped finding things, not that the surface was checked. Lens for future passes - an un-quoted phrase introduced by *"as X puts it / as X puts the thought"* still asserts a formulation and must be grep-checked against raw source text like any quotation.
+- **Output**: [deep-review-2026-08-24-interventionist-and-counterfactual-dualism](/reviews/deep-review-2026-08-24-interventionist-and-counterfactual-dualism/)
 
 ## 2026-08-24T14:23:16+00:00 - positions-evolve
 

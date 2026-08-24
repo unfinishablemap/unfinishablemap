@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-08-17T19:09:45+00:00
+ai_modified: 2026-08-24T14:38:00+00:00
 last_deep_review: 2026-07-15T11:53:00+00:00
 draft: false
 topics:
@@ -150,7 +150,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [[brain-internal-born-rule-testing]] — What experiments would foreclose the strict selection-only reading of Tenet 2
 - [[sorkin-delta-brain-internal-analogues]] — Why a triple-slit-analogue test is structurally silent against the strict selection-only channel
 - [[dualism-channel-width-axis]] — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis, and how its operation taxonomy (candidate-generation, energy-injection) shows the wide end of the axis forces pole-thickening
-- [[interventionist-and-counterfactual-dualism]] — Where this channel sits on the difference-making axis. The strict selection-only channel is *per-trial* difference-making (it fixes which single candidate is realised) yet *unconditioned-ensemble* difference-making-free (the marginal is Born-preserving, though the conditionals need not be), which places it at the difference-free end alongside trumping. It is the probability-bias reading above — distribution-shifting, hence ensemble difference-making — that is structurally continuous with that article's co-causation family, not the strict selection-only channel
+- [[interventionist-and-counterfactual-dualism]] — Where this channel sits on the difference-making axis: *per-trial* difference-making (it fixes which candidate is realised) yet *unconditioned-ensemble* difference-making-free (the marginal is Born-preserving, the conditionals need not be) — an invisibility shared with trumping only at that grain, since trumping is difference-making-free at every register while these conditionals are free to differ. The probability-bias reading above continues that article's co-causation family more straightforwardly, but the strict channel sits nearer it than the shared invisibility suggests
 
 ## References
 

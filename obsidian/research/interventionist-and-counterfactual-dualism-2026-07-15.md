@@ -3,7 +3,8 @@ title: "Research Notes - Interventionist and Counterfactual Dualism (Lawful Co-C
 created: 2026-07-15
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-08-24T14:38:00+00:00
 ---
 
 # Research: Interventionist and Counterfactual Dualism — the "Lawful Co-Causation" Rival
@@ -34,7 +35,7 @@ The tenet-diagnostic that should be the eventual article's spine: **the five ten
 - **Type**: Journal paper
 - **Key points**:
   - Explicitly a **dualist** account. If dualism is combined with the assumption that psychophysical laws have a *special status*, it follows that some physical events counterfactually depend on — and are therefore caused by — mental events.
-  - Mental causation is analysed as **difference-making**: "if our minds had been different, the physical world would have been different; therefore the mind causes events in the physical world."
+  - Mental causation is analysed as **difference-making**. The paper's own statement of this is: "some physical events counterfactually depend on, and are therefore caused by, mental events." ⚠️ **Correction (2026-08-24)**: the formulation previously recorded here — "if our minds had been different, the physical world would have been different; therefore the mind causes events in the physical world" — is the Cambridge University Press catalogue description of Kroedel's later book *Mental Causation: A Counterfactual Theory* (2020). It does not occur anywhere in this 2015 paper (checked against the full text). Do not attribute it to Kroedel 2015.
   - Solves the exclusion problem *two* ways, and lets the dualist choose: (a) *deny* the physical effect is overdetermined by mental + physical causes; or (b) *accept* overdetermination but argue it is benign because the case is sufficiently *dissimilar* to prototypical (coincidental) overdetermination.
 - **Tenet alignment**: Aligns with Dualism (Tenet 1) and Bidirectional Interaction (Tenet 3 — genuine difference-making). Neutral on Tenet 2. This is the **nearest dualist competitor** to the trumping route, and Saad cites it in situating his own view (already noted in `trumping-preemption.md`). Where trumping secures *authority without counterfactual dependence*, Kroedel secures *counterfactual dependence without authority-selection* — the mirror-image strategy.
 
