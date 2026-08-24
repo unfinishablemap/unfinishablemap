@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-20
-ai_modified: 2026-08-21 00:11:48+00:00
+ai_modified: 2026-08-24 14:20:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[evidential-status-discipline]]'
 - '[[parfit-reductionism]]'
 created: 2026-06-20
-date: &id001 2026-08-21
+date: &id001 2026-08-24
 description: 'The Map''s positions on how subjects are individuated: closed individualism,
   the subject census the interface requires, the pairing law the Map owes, and Tenet
   4''s conditional dependency on all of it.'
 draft: false
 human_modified: null
 last_curated: 2026-06-20
-lastmod: 2026-08-21 00:11:48+00:00
+lastmod: 2026-08-24 14:20:56+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -75,11 +75,12 @@ These positions cover how the Map individuates subjects: how many there are, whe
 
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade D (a reconciliation of the Map's own commitments; the split-brain literature constrains it but discriminates nothing) · structural centrality high (it is what lets P-I1 stand alongside the corpus's split-brain agnosticism) · model maturity developed · empirical discriminability none · framework-internal only: yes
-- **Asserts**: The Map holds that the boundary fixing which experiences belong to one subject is a determinate fact (P-I1) that is nevertheless *not recoverable from the physical or functional organisation of the system*. Both halves are needed. On the standing disagreement over whether a callosotomised patient houses one subject or two — Sperry and Gazzaniga reading two agents, Pinto et al. 2017 reading undivided consciousness, Schechter 2018 reading "two minds, one person" — the Map's agnosticism is *epistemic*, not metaphysical: there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject. This is the reading the register requires, and it disciplines the corpus's stronger formulation that there is "no determinate fact about how a conscious whole partitions", which overshoots what P-I1 permits and should be read as a claim about mereology *read off anatomy*. The cost is booked rather than dissolved: [P-SC1](/positions/subject-census/) makes the census part of the state description while this position holds it unreadable from that description, so the Map's model contains a variable it takes to be real and takes to be inaccessible. That is the individuation void appearing inside the physics rather than beside it.
-- **Depends on**: P-I1 (determinate boundaries); [P-SC1](/positions/subject-census/) (which makes the unreadability a structural cost rather than a curiosity); [P-CS4](/positions/consciousness-scope/) (fragmentation as interface disruption, whose split-brain agnosticism this explains); Tenet 1 ([Dualism](/tenets/#dualism)), bare reading — consciousness as a distinct category, not composed of anatomical parts; the acknowledged individuation void; [the ownership void](/concepts/mine-ness/#the-ownership-void)
+- **Asserts**: The Map holds that the boundary fixing which experiences belong to one subject is a determinate fact (P-I1) that is nevertheless *not recoverable from the physical or functional organisation of the system*. Both halves are needed. On the standing disagreement over whether a callosotomised patient houses one subject or two — Sperry and Gazzaniga reading two agents, Pinto et al. 2017 reading undivided consciousness, Schechter 2018 reading "two minds, one person" — the Map's agnosticism is *epistemic*, not metaphysical: there is a fact of the matter, and no anatomical or behavioural measure settles it, because on the interface model the anatomy is the channel and not the subject. This is the reading the register requires, and it disciplines the corpus's stronger formulation that there is "no determinate fact about how a conscious whole partitions", which overshoots what P-I1 permits and should be read as a claim about mereology *read off anatomy*. The cost is booked rather than dissolved: [P-SC1](/positions/subject-census/) makes the census part of the state description while this position holds it unreadable from that description, so the Map's model contains a variable it takes to be real and cannot read off its own physics. That is the individuation void appearing inside the physics rather than beside it.
+- **Depends on**: P-I1 (determinate boundaries); [P-SC1](/positions/subject-census/) — its census *requirement*, which puts the boundary inside the state description and so makes the unreadability asserted here a structural cost rather than a curiosity; not its withdrawn indistinguishability leg; [P-CS4](/positions/consciousness-scope/) (fragmentation as interface disruption, whose split-brain agnosticism this explains); Tenet 1 ([Dualism](/tenets/#dualism)), bare reading — consciousness as a distinct category, not composed of anatomical parts; the acknowledged individuation void; [the ownership void](/concepts/mine-ness/#the-ownership-void)
 - **Argued in**: [mereology-of-mind](/apex/mereology-of-mind/), [split-brain-consciousness](/topics/split-brain-consciousness/), [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/), [identity-across-transformations](/apex/identity-across-transformations/)
 - **Would shift if**: a physical or functional criterion were found that fixes subject count non-arbitrarily, which would make the census readable and remove the cost; or the split-brain data were shown to require exactly two subjects, which would settle a case this position holds unsettleable and feed back into P-I1 and [P-CS4](/positions/consciousness-scope/); or the Map adopted a genuinely *indeterminate* reading of subject boundaries, which would contradict P-I1 and force its retirement rather than this one's.
-- **Last reviewed**: 2026-08-03
+- **Updated 2026-08-24**: re-read against [P-SC1](/positions/subject-census/)'s same-day withdrawal of its invisibility consequence; *Depends on* gloss corrected, having credited P-SC1 with making the unreadability structural — the withdrawn leg's shape — where it supplies only the state-description venue and the unreadability is this entry's own (the anatomy is the channel, not the subject; Tenet 1). **No calibration change on any axis**: P-SC1's replacement trilemma leaves a conditional signature, but reading it needs an independent handle on each candidate subject's conscious state, which is no reading off *physical or functional organisation* — the only thing this entry denies — and horn (b) would return P-SC1 to its prior band. Fourth correction episode from the same withdrawal (`e346d3cb`) inside six hours — after the domain preamble, [the register index](/positions/), and three articles at 13:55 where the reintroduction had been *authored after* the fix rather than left stale by it. This entry is the stale-dependent kind: its gloss inherited the bad framing from P-SC1 itself.
+- **Last reviewed**: 2026-08-24
 
 ## P-I4: A perspective does not divide — fission and duplication start new subjects rather than sharing an old one
 

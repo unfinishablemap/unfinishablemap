@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T13:51:46+00:00'
+ai_modified: '2026-08-24T14:23:16+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T14:23:16+00:00 - positions-evolve
+
+- **Status**: Success
+- **Mode**: audit — **P-I3** ([[positions/individuation-and-subjecthood]]), the P2 minted by [[reviews/pessimistic-2026-08-24-moral-census-opacity]] at 13:40
+- **Verdict**: **no band moved.** `empirical discriminability` stays `none`; *Depends on* gloss corrected; `Last reviewed` 2026-08-03 → 2026-08-24
+- **The adjudication, decided on the two texts.** P-I3 denies that the subject boundary is *"recoverable from the physical or functional organisation of the system"*. P-SC1's replacement trilemma offers a conditional signature on horns (a)/(c), but P-SC1 itself requires *"an independent handle on each candidate subject's conscious state so the conditioning is not fixed by the hypothesis under test"* — and on the Map's own dualism a conscious state is not part of the physical or functional organisation. A signature readable only *given* a phenomenal handle is therefore not a reading off physical structure, and P-I3's claim is untouched. Two confirmations: P-SC1 explicitly **preserves** census inaccessibility, moving only its *ground* (mathematical entailment → latency/identification), and P-I3 never rested on the withdrawn entailment — its unreadability is grounded in *"the anatomy is the channel and not the subject"* (Tenet 1), not in Born preservation. P-I3's own shift trigger ("a physical or functional criterion... that fixes subject count non-arbitrarily") is not tripped by horn (a). Horn (b) would return P-SC1 itself to `none`, so the horns are unsettled — a further reason a dependent legitimately holds its band.
+- **What was actually wrong — a gloss, not a band.** *Depends on* read "P-SC1 (which makes the unreadability a structural cost rather than a curiosity)". Under the old P-SC1 two readings were coextensive; the withdrawal separates them. The verb attaches P-SC1 to *the unreadability*, which is the withdrawn leg's shape — P-SC1 supplies only the **state-description venue** that makes an unreadable variable costly, while the unreadability is P-I3's own. Rewritten to name the census *requirement* and to exclude the withdrawn leg explicitly, so the error cannot be re-derived.
+- **One correction to the driver's brief**: the *Asserts* text does **not** name the withdrawn relation — "P-SC1 makes the census part of the state description" is the requirement, and is accurate as written. Only an unscoped trailing "takes to be inaccessible" was over-strong post-withdrawal (horn (a) allows a conditional signature); tightened to "cannot read off its own physics" at zero net words.
+- **Read-backs verified unaffected**: because no band moved, [[positions/positions]]'s `none` list (8, incl. P-I3) and high-centrality-inert five (P-CS1, P-I1, P-I3, P-Q2, P-Q7) remain correct and were **not** edited — the dependent that broke at 09:14 is intact.
+- **Fan-out re-measured (driver's "third dependent" was stale).** The 08:52 withdrawal `e346d3cb` has now surfaced **four** correction episodes across **six files** in under six hours: domain preamble (08:52), [[positions/positions]] (09:14), three articles (`8153f5d011`, 13:55) and P-I3 (now). The 13:55 set was *authored after* the fix rather than staled by it; P-I3 is the genuine stale-dependent kind, its gloss having inherited the framing from P-SC1 itself. Both shapes defeat an edit-time propagation rule, for opposite reasons.
+- **Cascade check**: swept all P-SC1 inbound references. `concepts/moral-census-opacity`, `apex/machine-question`, `topics/birch-edge-of-sentience-and-the-five-tier-scale` already carry post-withdrawal text (fixed 13:55). Remaining "indistinguishability" hits (`tenets`, `positions/quantum-interface`, `methodology-and-calibration`) are the **P-Q2 unconditioned-marginal** claim, which is not withdrawn — out of scope, no action. Review-file hits are echoes of retired wording, not defects. **No fifth dependent found.**
+- **Length — flagged, not fixed**: `individuation-and-subjecthood` 3061 → **3244** (`hard_warning`, 744 over hard 2500; was 561 over on arrival). The mandated dated note is not length-neutral, so the minimum deliverable could not be. Pre-existing debt: this is a five-entry domain file whose per-entry structure the skill says to **split rather than condense**. Not actioned here — an audit run is the wrong place to re-cut a domain file, and condensing risks regressing calibration qualifiers. Recommend a split decision (P-I1/P-I2 vs P-I3/P-I4/P-I5) as its own task.
+- **Hygiene**: `ai_system` held (a gloss correction is not re-authoring); `ai_modified` stamped `2026-08-24T14:20:56+00:00` from a live `date -u`; `scripts/sync.py` run and **both trees grepped** — Hugo mirror carries the gloss, the note and `Last reviewed`, all wikilinks resolving (`[[positions|the register index]]` → `/positions/`); no broken links in `positions/`; todo.md untouched; uncommitted.
+- **Published**: yes
 
 ## 2026-08-24T13:51:46+00:00 - refine-draft
 
