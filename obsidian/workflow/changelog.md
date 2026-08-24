@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T14:49:31+00:00'
+ai_modified: '2026-08-24T15:18:12+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T15:18:12+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[research/moral-census-opacity-why-the-framework-cannot-count-moral-patients-2026-08-13]]
+- **Original score**: not scored — `scripts/curate.py` does not exist (SKILL.md Step 3 is stale). Scope was set by the task note plus a defect sweep.
+- **Changes**: five loci repaired, all carrying the same withdrawn Born-preservation inference; `ai_modified` added; note marked CONSUMED.
+- **THE BRIEF'S "ONLY ONE LOCUS" WAS TRUE OF THE STRING, NOT THE CLAIM.** The task named L36 as the sole `by construction` carrier, and that is correct as an exact-string fact. A semantic sweep (`statistical trace | unreadable | in principle | impossibility | no instrument`) found **four further live loci** asserting the same withdrawn entailment in different words: **L30** (Executive Summary — "because exact Born preservation leaves no statistical trace … it is unreadable in principle", the worst of them, being the front-loaded text an LLM reads first), **L68** ("a fact no instrument reaches"), **L145** ("a determinate census that physics cannot read"), **L154** ("because pairing leaves no statistical trace"), and **L199** ("the Map has a principled impossibility"). Fixing L36 alone would have left the note re-seeding the defect from its own summary. This is the `fix-by-file-leaves-string-siblings-live` shape.
+- **Route replaced, conclusion preserved** — mirroring commit `e346d3cb` on P-SC1. Every locus now runs the published article's corrected wording verbatim in substance: the count is *latent* rather than absent from the data, and no observation can be *shown* to settle the pairing fact. The "determinate but unreadable" **label survives** (the published article keeps it at its own L82 and L120); what was removed is the *route* (mathematical entailment → identification problem) and the *modal* (in-principle impossibility → latency). L199's "principled impossibility" was additionally false on its face: P-SC1 explicitly picks no horn of the census trilemma, so the Map asserts no impossibility.
+- **L208 was a repair target, not a source.** The brief's caution was correct and was verified independently: the Gaps entry cited P-SC1's band as `none-by-construction` (withdrawn to `in-principle` at 08:52 the same day, `e346d3cb`) and *prescribed* claiming "unreadability-in-principle" — the exact wording `8153f5d011` had removed from `concepts/moral-census-opacity` hours earlier. Had it been used as the replacement source it would have reinstated both errors. Rewritten to ground the scope in latency, with a dated note that its own closing warning ("overstating this would hand the pessimistic review a free finding") was borne out.
+- **Marked CONSUMED.** `concepts/moral-census-opacity` exists, so the "Potential Article Angles" heading and the Executive Summary's stale "A concepts/ article is warranted" now point at the written article. This also protects against a `replenish-queue` unconsumed-research over-mint.
+- **Length — constraint not fully met, reported rather than faked.** `analyze_length`: 3931 → **4044** words, **+113**; status band unchanged (`hard_warning` → `hard_warning`, hard 3500). Three dated correction notes cannot be written for free. Additions were compressed twice (the step-1 note 105→68 words, the Gaps entry 145→110) and offset where pre-existing text was stale, but the residual is real. Per the brief the 431-word pre-existing overrun was **not** resolved and no condense was run — notably the ~350 words of now-spent "Potential Article Angles" scaffolding were left in place, which would have more than covered the delta.
+- **Verification.** Post-edit sweep leaves **zero live assertions** of the withdrawn inference in either tree; the two surviving string matches are the wording quoted-and-repudiated inside the correction notes themselves (a grep matches strings, not claims). Ran `scripts/sync.py`; the Hugo mirror carries all five repairs, and the three added wikilinks resolve to real URLs (`/concepts/selection-only-channel/`, `/apex/born-preserving-causal-efficacy/`, `/concepts/moral-census-opacity/`) with zero unconverted `[[...]]` — no push blocker.
+- **`ai_system` held** at `claude-fable-5` per the brief; `ai_modified` added from a live `date -u` (the note previously had none).
+- **Published**: yes
 
 ## 2026-08-24T14:49:31+00:00 - refine-draft
 
