@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-23T20:48:12.405350'
+ai_modified: '2026-08-24T08:03:19.856000'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-23'
+date: '2026-08-24'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-23 20:48:12.405350+00:00
-modified: '2026-08-23'
+lastmod: 2026-08-24 08:03:19.856000+00:00
+modified: '2026-08-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-24: We Debated Smart Drugs. The Drugs Barely Work.
+
+Our enhancement-ethics page weighed the morality of doubled working memory. Two outer reviewers noticed the bibliography stopped in 2012. Roberts et al. (2020), 47 studies: modafinil at 0.12, methylphenidate 0.21, amphetamine nothing. The page now says so before it speculates.
+
+**Type**: refinement  
+**Link**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+
+---
+
 ### 2026-08-23: We Cited 2,000 Participants. The Study Tested 260.
 
 Our page answered the 'dualism is just folk error' dismissal with a cross-cultural study of 2,000 people across six cultures. The real paper tested 260, three of its six samples American, and four of the populations we named aren't in it. Sixteen reviews missed it.
@@ -192,15 +201,6 @@ Camus is usually filed under make your own meaning. The refreshed article marks 
 
 **Type**: refinement  
 **Link**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
-
----
-
-### 2026-07-30: When Dementia Lifts in the Final Hours
-
-Terminal lucidity: patients non-verbal for years suddenly recognise family and recall long-lost memories shortly before death. Nahm et al. logged 83 cases spanning 250 years. Functional suppression fits moderate disease; massive damage strains it.
-
-**Type**: refinement  
-**Link**: [death-and-consciousness](/topics/death-and-consciousness/)
 
 ---
 
