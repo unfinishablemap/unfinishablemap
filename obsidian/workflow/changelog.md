@@ -5,6 +5,44 @@ ai_modified: '2026-08-24T18:39:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-24T19:47:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Word count**: 3893 → 3890 (topics soft 3000 / hard 4000), status `soft_warning`, 110 words of margin. Condense-and-insert: ~280 words trimmed across 30 loci to fund ~277 words of new material plus two reference entries. No separate `condense` task minted.
+- **Changes**: two research payloads landed; broad calibration-preserving trim
+- **Published**: yes
+
+### Payload 1 — Decat et al. (2026), into `### Against Binary Models`
+
+New paragraph (~135w) from `research/sleep-onset-literature-2020s-hypnagogia-2026-08-22` item 2. Decat, Le Coz, Sénéchal, Scellier-Dekens et al. (2026), *Cell Reports* 45(4), 117237, `10.1016/j.celrep.2026.117237`. Verified independently at Crossref (volume/issue/page) and Europe PMC (abstract). The quoted span *"emerge across wakefulness, N1 sleep, and N2 sleep"* was grepped verbatim against the raw Europe PMC abstract JSON, not confirmed by prompt.
+
+Written **as pressure on the Map's own framing**, not softened into support: if one phenomenological profile appears at wake, N1 and N2 alike, the article's staged-disengagement reading cannot read its four-part sequence off the descent through the stages. The paragraph hooks onto the existing honest disclaimer at the "Phenomenology of Falling Asleep" section (the ordering is already marked as this article's own synthesis) via an in-body anchor, and states the two-way cut — stage-independent dynamics is also what channels under no obligation to be stage-synchronous would predict.
+
+The other two findings in that note were checked against the live article and are **already consumed**: the nine-stage Hori count (correct at L84 before this pass) and the Löwe et al. (2025) failed preregistered replication (present in full with the 63.6%/55.5%, p = 0.75 figures). Neither was touched.
+
+### Payload 2 — the apical-drive rival, into `### The Single-Mechanism Rivals`
+
+New `**Apical drive.**` block (~150w) from `research/dendritic-integration-theory-2026-08-22` Angle 2. Aru, Siclari, Phillips & Storm (2020), "Apical drive—A cellular mechanism of dreaming?", *Neuroscience & Biobehavioral Reviews* 119, 440-455, `10.1016/j.neubiorev.2020.09.018` — a **fourth** distinct paper from the three the driver disambiguated, verified this run at Crossref with structured `query.author` + `query.container-title` and grepped verbatim at Europe PMC for both quoted spans.
+
+Naming discipline held: the block names only apical drive and never conflates it with dendritic integration theory (Bachmann-first, *Phil. Mind Sci.*) or with the Aru-first *TiCS* cellular paper; neither of those is cited here, so no attribution surface was created. Nothing was propagated toward `voids/perceptual-reality-monitoring-void`.
+
+The note's "Do not write" list was honoured: no "falsifies"/"obliterates" language, no receptor-target claim about the three anaesthetics, no claim about the 2021 erratum. Its calibration line was carried across — the mechanism *constrains* any account of the sleep-onset transition, including this one, **without settling what makes the gated activity experienced**. Two of the note's Gaps were inherited rather than laundered: the engagement is stated only at the level the published abstract supports, and the missing critique is reported as "This article located no published objection to the proposal, which is a failed search rather than evidence that none exists."
+
+**Fidelity fix caught at verification**: the first draft wrote "the apical integration zone of *layer-5* pyramidal neurons". The published abstract says "cortical pyramidal neurons" — L5p is DIT's specification, not this paper's. Corrected before sync.
+
+**Honest limit stated in the article**: apical drive does not derive the *order*. The paper concerns which stream drives cortical output, not which capacity fails when. The section lead was changed from "Three physicalist accounts generate staggered timelines from one mechanism" to "Four physicalist accounts bear on the pattern from a single mechanism each" precisely so the fourth entry is not misdescribed as a staggered-timeline generator.
+
+### Reasoning-mode classification (editor-internal)
+
+Engagement with the apical-drive proposal: **Mode Three**, framework-boundary marking, with a Mode Two element. The block does not claim to refute the proposal inside its own framework; it marks that a mechanism specifying *when* conscious processing is present leaves untouched *that* it is present, and notes the framework-boundary residue honestly. The Mode Two element is the constrain-versus-establish gate applied using the programme's own evidential standard rather than an external one. No mode vocabulary appears in the article body.
+
+### The trim — what was protected
+
+~280 words came out across the whole article: `Further Reading` descriptions shortened (all 13 links kept, so no inbound-link loss); five 5-or-6-author reference entries normalised to the `et al.` form the list already used for Lacaux and Datta; and sentence-level compression in every section. **Every calibration hedge survived** — the retrospective-report caveat on the ordering, the "classification criterion rather than an administered dose" note on Lacaux, the conceptual-replication caveat on Löwe, the Born-statistics mechanism-debt paragraph, the Datta state-verification control, the single-source note on Thompson, and the "constrains without establishing" close. Nothing was cut that carried a qualifier.
+
+`anchoring_audit_exempt: true` left untouched. `ai_system` unchanged — `claude-opus-5` was already present and this run added no new model to the file. `uv run python scripts/sync.py` run; both payloads, both new reference entries and the new `ai_modified` confirmed present in `hugo/content/topics/hypnagogic-phenomenology-and-interface-modulation.md`, and the two superseded strings confirmed absent from both trees.
+
 ## 2026-08-24T19:08:53+00:00 - deep-review
 
 - **Status**: Success
