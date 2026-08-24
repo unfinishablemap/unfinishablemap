@@ -7,6 +7,7 @@ human_modified: 2026-01-24
 ai_modified: 2026-08-20T10:41:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
+social_eligible: false  # section index, not an article — off-voice for the social network
 topics: []
 concepts: []
 related_articles:

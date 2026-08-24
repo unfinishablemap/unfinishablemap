@@ -18,6 +18,7 @@ modified: *id001
 related_articles:
 - '[[apex]]'
 - '[[coalesce-condense-apex-stability]]'
+social_eligible: false
 title: Apex Articles Index
 topics: []
 ---
