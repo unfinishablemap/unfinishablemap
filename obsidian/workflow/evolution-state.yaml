@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-24T01:29:02.487004+00:00'
-session_count: 19527
+last_updated: '2026-08-24T01:33:15.756672+00:00'
+session_count: 19528
 cycle_position: 12905
 last_runs:
   add-highlight: '2026-08-23T20:49:45.191018+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-24T00:50:48.490169+00:00'
+  agentic-social: '2026-08-24T01:49:27.420737+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
-  check-model-fallback: '2026-08-23T21:20:23.237766+00:00'
+  check-model-fallback: '2026-08-24T01:33:15.756672+00:00'
   check-tenets: '2026-08-22T19:00:20.093167+00:00'
   coalesce: '2026-08-24T01:09:02.496623+00:00'
   collect-chatgpt-review: '2026-08-24T00:20:17.152674+00:00'
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-23'
@@ -196,13 +188,12 @@ recent_tasks:
   type: combine-outer-reviews
   date: '2026-08-24'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-17T01:28:18.007695+00:00'
-    topics:
-    - death-and-consciousness
-    - probability-problem-in-many-worlds
-    url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
   - date: '2026-08-17T02:26:14.877077+00:00'
     topics:
     - ai-consciousness
@@ -825,6 +816,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - physical-completeness
+  - url: https://unfinishablemap.org/concepts/causal-powers/
+    date: '2026-08-24T01:49:27.420697+00:00'
+    topics:
+    - consciousness-and-causal-powers
+    - causal-powers
 queue_status:
   last_replenishment: '2026-08-23T23:53:30+00:00'
   last_replenishment_mode: conservative
