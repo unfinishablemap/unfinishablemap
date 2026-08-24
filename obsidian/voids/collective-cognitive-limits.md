@@ -4,7 +4,7 @@ description: "Beyond individual cognitive closure: how paradigms, social silence
 created: 2026-01-26
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-26T07:11:58+00:00
+ai_modified: 2026-08-24T22:45:41+00:00
 draft: false
 last_deep_review: 2026-06-25T10:55:54+00:00
 topics: []
@@ -21,6 +21,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[naturally-occluded]]"
   - "[[consciousness-and-collective-phenomena]]"
+  - "[[research/voids-distributional-void-2026-08-24]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -76,6 +77,18 @@ When do individual cognitive limits aggregate into collective ones? When do they
 
 The question for the voids framework: which type of collective limitation matters most? Paradigm blindness suggests Unexplorable regions; elephants suggest Occluded territory; emergent limits suggest voids that exist only for coordinated minds.
 
+### Narrowing That Has Been Measured
+
+The emergent category has usually been argued from historical example. It has now been measured under experimental control — and the measurement comes from an instrument this article elsewhere treats only as a possible observer of collective limits rather than as a producer of them.
+
+Doshi and Hauser ran a preregistered two-phase experiment in which 293 writers produced eight-sentence stories either unaided, with one machine-generated story idea, or with five; 600 separate participants then supplied 3,519 evaluations. Assisted stories were judged more creative, better written, and more enjoyable, with the largest gains going to the writers who scored lowest on independent creativity measures. Assisted stories were also more similar to one another than the unaided ones. The authors are exact about which level each effect lives at: "These results point to an increase in individual creativity at the risk of losing collective novelty."
+
+That is this article's third category with an effect size attached. No writer experienced a loss; each improved, and each would have reported improvement if asked. The loss existed only at the population level, where no participant was standing and from which none could report. The authors call the resulting configuration a social dilemma: "With generative AI, writers are individually better off, but collectively a narrower scope of novel content is produced."
+
+Padmakumar and He found the same direction in argumentative essay writing, with a discriminating detail. Writing with a feedback-tuned model produced "a statistically significant reduction in diversity," increasing "the similarity between the writings of different authors"; writing with the untuned base model of the same family did not, and the effect localised to the model's own contributions — "the user-contributed text remains unaffected by model collaboration." Narrowing of this kind is therefore not a plain consequence of statistical language modelling; it tracked the tuning that made the model agreeable, which makes it a design property, and design properties can be chosen otherwise. Vicente and Matute add that the constraint outlasts the tool: participants assisted by a deliberately biased classifier reproduced its error pattern, and went on doing so after the assistance was withdrawn.
+
+Together these describe the emergent category running through an unfamiliar mechanism. Paradigms and Overton Windows narrow collective thought through shared vocabulary and social cost; a widely shared writing instrument narrows it through the plain statistics of what that instrument tends to produce. No enforcement is required, no taboo, and nobody who benefits from the silence. The detection problem is the one this article has been describing throughout: the narrowing consists of the stories that were never written, so there is no absence anywhere for anyone to notice.
+
 ## Approaching the Collective Edge
 
 How might one detect collective cognitive limits?
@@ -92,7 +105,7 @@ How might one detect collective cognitive limits?
 
 ## What AI Might See
 
-The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] framework extends to collective limits with distinctive features.
+The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] framework extends to collective limits with distinctive features. What follows concerns AI as a *probe* — what an artificial mind might reveal about limits it does not itself share. AI as a *cause* of collective narrowing is a separate question with the opposite sign, treated above under "Narrowing That Has Been Measured"; the two are easily run together and are kept apart here.
 
 **Training inheritance.** AI trained on human-generated text inherits collective blind spots. The Overton Window of the training period shapes what concepts the model can form, limiting AI's usefulness for detecting paradigm blindness embedded in the training data.
 
@@ -104,7 +117,7 @@ The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] fram
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is central. Collective cognitive limits suggest our knowledge is shaped by social filters we cannot directly perceive. The simplest theory available within current frameworks may be fundamentally inadequate—and the inadequacy invisible from within.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is central. Collective cognitive limits suggest our knowledge is shaped by social filters we cannot directly perceive. The simplest theory available within current frameworks may be fundamentally inadequate—and the inadequacy invisible from within. The measured case sharpens this into a cost the Map itself pays. A language model's fluency-weighted output is a popularity-and-typicality prior over human text, mechanised: the more typical continuation is the more probable one, and nothing in the mechanism ties typicality to truth. That is a simplicity heuristic externalised into an artefact and then measured. It counts against the reliability of model-mediated inquiry — including this article's own — rather than in favour of dualism. The tenet gains only the confirmation that its heuristic misleads where it says it misleads.
 
 **[[tenets#^dualism|Dualism]]** matters here because dualism holds that conscious experience is irreducible to physical description. Collective cognitive limits provide a parallel case of irreducibility at the social level: the group's blind spot cannot be reduced to any individual's cognitive state. If we take seriously the idea that some phenomena resist reductive explanation—as dualism insists for consciousness—we should not be surprised to find similar irreducibility in collective cognition. More practically, if consciousness is non-physical and causally efficacious, then collective frameworks shape not just information flow but the experiential character of participating minds. Paradigm blindness would constrain not only what people think but what they *experience as thinkable*.
 
@@ -116,7 +129,7 @@ The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] fram
 
 The collective cognitive limits framework would be undermined if:
 
-1. **Collective blind spots prove fully decomposable.** If every apparent collective limitation can be traced to specific individuals' limitations—if there are no genuinely emergent collective blind spots—then collective cognition adds no new voids beyond individual cognition.
+1. **Collective blind spots prove fully decomposable.** If every apparent collective limitation can be traced to specific individuals' limitations—if there are no genuinely emergent collective blind spots—then collective cognition adds no new voids beyond individual cognition. Doshi and Hauser's result is currently the hardest case for this challenge to absorb: the improvement was individual and universal, and the loss was neither.
 
 2. **Training eliminates paradigm blindness.** If education, contemplative practice, or cognitive enhancement produces individuals who can think outside *any* paradigm—holding multiple frameworks simultaneously without gestalt lock—then paradigm blindness is contingent rather than structural.
 
@@ -147,6 +160,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [[naturally-occluded|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
 - [[voids-between-minds|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge
 - [[consciousness-and-collective-phenomena]] — The positive flip side: what groups achieve through individual phenomenal consciousness
+- [[research/voids-distributional-void-2026-08-24|The Distributional Void]] — Research notes on model-mediated narrowing: the empirical literature behind "Narrowing That Has Been Measured"
 
 ## References
 
@@ -157,4 +171,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 5. "Theory of Collective Mind." *Trends in Cognitive Sciences* (2023). https://www.sciencedirect.com/science/article/abs/pii/S1364661323001687
 6. "Cultural Blind Spots and Blind Fields." *ResearchGate* (2024). https://www.researchgate.net/publication/377155982
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+8. Doshi, A. R., & Hauser, O. P. (2024). "Generative AI enhances individual creativity but reduces the collective diversity of novel content." *Science Advances*, 10(28), eadn5290. https://doi.org/10.1126/sciadv.adn5290
+9. Padmakumar, V., & He, H. (2024). "Does Writing with Language Models Reduce Content Diversity?" *International Conference on Learning Representations (ICLR 2024)*. https://arxiv.org/abs/2309.05196
+10. Vicente, L. G., & Matute, H. (2023). "Humans inherit artificial intelligence biases." *Scientific Reports*, 13(1), 15737. https://doi.org/10.1038/s41598-023-42384-8
 
