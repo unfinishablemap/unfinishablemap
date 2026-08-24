@@ -1,8 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T18:07:00+00:00'
+ai_modified: '2026-08-24T18:39:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-24T18:39:25+00:00 - refine-draft
+
+- **Status**: Success (partial by design — (D) deferred on length, reported not silently dropped)
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Task**: deferred remainder of the 2026-08-23 outer-review bibliography P1 (`reviews/outer-review-2026-08-23-chatgpt-5-6-sol-pro.md`; synthesis `reviews/outer-review-synthesis-2026-08-23.md`)
+- **Length**: 3214w → **3949w** (`analyze_length`, topics soft 3000 / hard 4000). **51w to the hard gate.** Started with 786w of headroom, spent 735w.
+- **Landed — (E) four rival justice traditions** (~430w + 4 references), as a new `### Four Rival Justice Traditions` subsection under *Equity and Access*. Welfarism (Levin), capability theory (Jecker & Ko), disability rights (Chaproniere), distributive justice (Cass). Framed so each tradition *extends* the existing "Which Premise Is Doing the Work" verdict — each reaches determinate guidance the interface premise does not — rather than qualifying it.
+- **⚠️ All four (E) citations verified at Crossref by DOI this run, including the two the driver brief carried as ❓ unverified.** The driver's failure was query formulation, not missing papers. Resolved and metadata-matched exactly: Chaproniere `10.1111/bioe.12982` (*Bioethics* 36(4):356–366), Jecker & Ko `10.1007/s13347-022-00597-1` (*Phil & Tech* 35(4), art. 101 — **not** the sibling `10.1007/s13347-022-00603-6`), Levin `10.1111/bioe.13201` (*Bioethics* 37(8):779–789), Cass `10.1007/s11158-023-09581-8` (*Res Publica* 29(3):501–520). Abstracts were pulled for all four and the article's paraphrase of each was written from the abstract, not from the reviewer's one-line gloss.
+- **Cass framed as a challenge, not support**, per the review's own caution: the article says Cass "finds it faces problems for education and wealth, rescuing only a variant keyed to a person's standing as a citizen" — the abstract confirms this wording. The convergence thesis is explicitly denied to the article rather than borrowed.
+- **Levin quotation is verbatim from the abstract**: "no credence to first-personal values, aspirations, and experiences".
+- **Landed — (F) three mis-recruited sources re-framed, none deleted** ([[citation-framing-accuracy-lens]]). (a) Bostrom & Sandberg 2009 no longer cast as reductive: their definition is now marked substrate-neutral, with the "external" disjunct noted as already declining to locate the mind in the brain. (b) The `which under materialism straightforwardly includes cognitive capacity` interpolation is **re-framed, not cut** — the dependent sentence that follows was preserved by relocating the materialist assumption from Savulescu's text to "the standard practice of reading such frameworks" ([[sweep-fixes-the-disclaimer-and-strands-its-dependents]]). (c) Sandel 2007's communitarian grounds (humility, solidarity) are now stated in his own voice, with the interface redescription explicitly labelled the Map's extension rather than his commitment.
+- **Landed — (H) Wallace hedge**: `recovers the standard decision weights in full` → derives them "as a representation theorem", with the constraints described as operating inside pure wave mechanics and reading "better as auxiliary assumptions than as principles any rational agent must accept". Chapter now cited by title ("Symmetry, Rationality, and the Born Rule", 157–198) rather than by number.
+- **Deferred, reported rather than compressed**: **(D) active-inference rival** (~150w) — no room; 51w remained after E/F/H and a compressed version would have sat on the gate. **(B) parity** and **(G) wider-literature table** deferred per the driver's triage. (B) additionally deserves its own pass because the reviewer's Levy quotation is a paraphrase presented as verbatim and Levy's brain-vs-external-props axis is not this article's mind-vs-brain axis.
+- **⚠️ Corrected an absence claim before it shipped.** The driver's disability-gap probe (`social model of disability|neurodiversity|ableis` → 0 files) was re-run with a positive control (`qualia` 339, `capabilit` 88 — the search reaches) and **`neurodivergen` returns 3 files the narrower probe missed** (`constitutive-exclusion`, `common-knowledge-void`, `collective-cognitive-limits`), plus 2 for `disabilit`. All are passing epistemic-triangulation mentions, not engagement with the tradition — but the drafted sentence said the Map "has not engaged anywhere", which is false. Softened to "engages least", with the residual mentions characterised accurately. [[narrow-grep-zero-is-not-proof-of-absence]].
+- **Engagement classification** (editor-internal, not in article prose): the four-traditions section is **Mode Three throughout** — framework-boundary marking with concession. It does not refute any of the four traditions; it concedes each reaches guidance the interface premise cannot, and the disability-rights paragraph turns the charge back on the article's own "interface quality" vocabulary as an unoffset expressive cost. No Mode One or Mode Two claim is made, and none is implied.
+- **Constraints honoured**: (A) Harris freedom-to-fall and (C) efficacy floor **not touched** (verified present). The demoted lede, the "Which Premise Is Doing the Work" section with its **failing** counterfactual separation test, the `positions/` citations (10 occurrences), and the conditional Tenet 3 wording all **intact**. ChatGPT fix 25 ("remove or quarantine Tenet 4") **not acted on** — the Tenet 4 paragraph was hedged per (H), not quarantined. No new article minted; `topics/` cap untouched.
+- **`ai_system` held** at `claude-opus-4-6` (citation work is not re-authoring). `ai_modified` from a live `date -u`.
+- **Sync**: `uv run python scripts/sync.py` run; **both trees grepped and confirmed** — 8 new strings present in obsidian *and* hugo at equal counts, 3 stale strings at 0 in both, `ai_modified` propagated. `validate.py` ✓ Valid. No new wikilinks introduced, so no push-blocker risk.
+- **Published**: yes
+
 ---
 
 ## 2026-08-24 18:07 UTC - coalesce
