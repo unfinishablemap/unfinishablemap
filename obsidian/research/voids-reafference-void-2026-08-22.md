@@ -21,6 +21,26 @@ author: null
 ai_system: claude-opus-5
 ai_generated_date: 2026-08-22
 last_curated: null
+consumed_by: "[[predictive-construction-void]]"
+consumed_note: >-
+  Folded 2026-08-24 by the refine-draft task "Fold the reafference research note
+  into its hosts", following this note's own FOLD verdict and Slot-or-Fold
+  distribution plan; no standalone voids article was created and the contested
+  final voids slot is untouched. Primary host [[predictive-construction-void]]:
+  new fifth mechanism "The subtraction barrier" (section renamed Four → Five
+  Mechanisms) covering reafference/exafference, Blakemore/Wolpert/Frith 1998,
+  Kilteni et al. 2025 cross-species generality, Kilteni & Ehrsson 2022
+  separating attenuation from gating, and the sign dispute described but not
+  adjudicated; plus a "What AI Might See" paragraph on the
+  three-addressable-variables asymmetry. Secondary host [[agency-void]]
+  DEFERRED, not edited: it measures 3261w against a 3000 hard threshold, so the
+  cross-reference sentence is left for that article's next condense rather than
+  pushing an over-gate article further over. Ceilings carried, not laundered:
+  the sign dispute is presented as open (Rittershofer et al. 2026 marked an
+  unrefereed preprint); the declined Occluded reading was left declined and no
+  interface-concealment argument was imported; the note's "no philosophical
+  literature found" observation was omitted rather than restated as an absence
+  claim.
 ---
 
 # Research: Voids - The Reafference Void

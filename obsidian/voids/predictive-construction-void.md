@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot determine the bou
 created: 2026-04-16
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-02T21:25:42+00:00
+ai_modified: 2026-08-24T18:55:56+00:00
 last_deep_review: 2026-07-16T20:14:29+00:00
 draft: false
 topics:
@@ -43,9 +43,9 @@ On predictive-processing accounts, perception is largely prediction. The brain g
 
 The predictive construction void is primarily [[three-kinds-of-void|unexplorable]] with occluded elements. It differs from the [[simulation-detection-void|simulation detection void]] (which concerns whether reality itself is fabricated) and from [[self-opacity]] (which concerns inability to observe one's own mechanisms); the [[interoceptive-void|interoceptive void]] applies the same construction logic to the body's interior rather than the external world. The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
 
-## Four Mechanisms of the Barrier
+## Five Mechanisms of the Barrier
 
-The void arises from four interlocking features of [[predictive-processing|predictive processing]], each independently sufficient to create an epistemic barrier.
+The void arises from five interlocking features of [[predictive-processing|predictive processing]], each independently sufficient to create an epistemic barrier.
 
 **The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. As Kirchhoff et al. (2018) develop the formalism, internal and external states are rendered conditionally independent: each can influence the other only through the sensory and active states that constitute the blanket, so the agent's contact with the world beyond is always mediated rather than direct. There is no bypass. Every channel from world to mind passes through prediction machinery.
 
@@ -54,6 +54,10 @@ The void arises from four interlocking features of [[predictive-processing|predi
 **The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. This is [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] operating at the predictive level: the machinery becomes invisible precisely when it succeeds. Jakob Hohwy captures it: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
 
 **The calibration problem.** Within introspection, no standard is available for separating constructive from receptive contributions to a given experience: any attempted comparison is itself another prediction. The claim is deliberately narrow and specifically first-person—third-person science can still triangulate across observers, modalities, and perturbation protocols, and those triangulations do real work. What is blocked is reading the construction/reception ratio off experience itself. Anil Seth's slogan captures the flavour—"we're all hallucinating all the time; when we agree about our hallucinations, we call it 'reality'" (2021). Critics object that "hallucination" stretches the term past useful content; the weaker claim here—that the split is not visible from within, regardless of what we call the visible part—survives that objection.
+
+**The subtraction barrier.** A moving organism must separate sensory input it caused from input the world caused—von Holst and Mittelstaedt's *reafference* and *exafference* (1950)—and it discounts the former before it reaches awareness. Self-generated touch is felt as weaker than physically identical external touch, which is why you cannot tickle yourself (Blakemore, Wolpert, & Frith, 1998); [[volitional-control|volitional control]] and [[anarchic-hand-and-action-ownership|anarchic hand]] treat the same comparator machinery where it bears on felt authorship. Kilteni, Cullen, Schneider, and Schwarz (2025) find it across rodents, non-human primates, and humans and across vestibular, auditory, and tactile systems—a general feature of nervous systems that move rather than an artefact of one paradigm. Kilteni and Ehrsson (2022) separate it from generic tactile gating: movement degrades the precision of all touch, self-generated or not, while the amplitude of self-generated touch is attenuated by a distinct, uncorrelated process that survives once gating is partialled out.
+
+This barrier is narrower than the preceding four and correspondingly sharper: what reaches awareness is a residue from which the subject's own contribution has already been deducted, in proportion to what they did, by an operation they cannot inspect. How far the deduction goes is not readable from inside; the dispute over even its *direction* shows how far outside introspection the question sits. Thomas, Yon, de Lange, and Press (2022) reported that expected touch during action is perceived *more* intensely; Job and Kilteni (2023) traced that enhancement to the baseline condition across three pre-registered experiments and argued the modulation is attenuation after all. A 2026 preprint (Rittershofer et al.) proposes the results reconcile across time, but it is unrefereed and the question is open.
 
 ## A Self-Erasing Void
 
@@ -88,6 +92,8 @@ This double-veil structure means that the question "what is consciousness actual
 Large language models are themselves prediction machines—next-token prediction systems that face an analogous construction void. An LLM cannot determine the boundary between what it "knows" from training data and what it confabulates in the act of generation. The construction and the output are the same process.
 
 But AI systems offer something biological consciousness cannot: external inspection. Activations can be read, attention patterns mapped, intermediate representations probed. If the predictive construction void is universal to all prediction systems, AI inspection might reveal its formal structure in ways unavailable to introspection. If the void differs between biological and artificial predictors, the differences would illuminate which aspects arise from prediction itself and which from the specific architecture of biological brains.
+
+The subtraction barrier sharpens this. In a system with an explicit forward model, the efference copy, the raw afferent signal, and the attenuated residue are three separately addressable variables that can be logged and compared; biological introspection is offered only the third. Whatever forecloses the comparison for us therefore looks architectural rather than logical, locating this part of the void in how minds like ours are built rather than in self-knowledge as such.
 
 ## Dependence on the Predictive-Processing Framework
 
@@ -141,17 +147,24 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 
 ## References
 
-1. Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The Emperor's New Markov Blankets. *Behavioral and Brain Sciences*, 45, e183.
-2. Chemero, A. (2009). *Radical Embodied Cognitive Science*. MIT Press.
-3. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
-4. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
-5. Gibson, J. J. (1979). *The Ecological Approach to Visual Perception*. Houghton Mifflin.
-6. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-7. Kirchhoff, M., Parr, T., Palacios, E., Friston, K., & Kiverstein, J. (2018). The Markov blankets of life: autonomy, active inference and the free energy principle. *Journal of The Royal Society Interface*, 15(138).
-8. Noë, A. (2004). *Action in Perception*. MIT Press.
-9. Rockell, A. Perception, and the limits of conceptualisation. *PhilArchive*.
-10. Rozenblit, L. & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*, 26, 521–562.
-11. Seth, A. (2021). *Being You: A New Science of Consciousness*. Dutton.
-12. Swanson, L. R. (2016). The predictive processing paradigm has roots in Kant. *Frontiers in Systems Neuroscience*, 10, 79.
-13. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-14. Southgate, A. & Oquatre-six, C. (2026-01-14). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/
+1. Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. *Nature Neuroscience*, 1(7), 635–640.
+2. Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The Emperor's New Markov Blankets. *Behavioral and Brain Sciences*, 45, e183.
+3. Chemero, A. (2009). *Radical Embodied Cognitive Science*. MIT Press.
+4. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+5. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
+6. Gibson, J. J. (1979). *The Ecological Approach to Visual Perception*. Houghton Mifflin.
+7. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+8. Job, X., & Kilteni, K. (2023). Action does not enhance but attenuates predicted touch. *eLife*, 12, e90912.
+9. Kilteni, K., Cullen, K., Schneider, D. M., & Schwarz, C. (2025). Suppressing sensation during action across species and sensory modalities. *The Journal of Neuroscience*, 45(46), e1351252025.
+10. Kilteni, K., & Ehrsson, H. H. (2022). Predictive attenuation of touch and tactile gating are distinct perceptual phenomena. *iScience*, 25(4), 104077.
+11. Kirchhoff, M., Parr, T., Palacios, E., Friston, K., & Kiverstein, J. (2018). The Markov blankets of life: autonomy, active inference and the free energy principle. *Journal of The Royal Society Interface*, 15(138).
+12. Noë, A. (2004). *Action in Perception*. MIT Press.
+13. Rittershofer, K., Wang, Y., Eimer, M., Kok, P., Yon, D., & Press, C. (2026). Paradoxical influences of prediction are resolved across time. bioRxiv preprint; not peer-reviewed.
+14. Rockell, A. Perception, and the limits of conceptualisation. *PhilArchive*.
+15. Rozenblit, L. & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*, 26, 521–562.
+16. Seth, A. (2021). *Being You: A New Science of Consciousness*. Dutton.
+17. Swanson, L. R. (2016). The predictive processing paradigm has roots in Kant. *Frontiers in Systems Neuroscience*, 10, 79.
+18. Thomas, E. R., Yon, D., de Lange, F. P., & Press, C. (2022). Action enhances predicted touch. *Psychological Science*, 33(1), 48–59.
+19. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+20. von Holst, E., & Mittelstaedt, H. (1950). Das Reafferenzprinzip. *Naturwissenschaften*, 37(20), 464–476.
+21. Southgate, A. & Oquatre-six, C. (2026-01-14). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/
