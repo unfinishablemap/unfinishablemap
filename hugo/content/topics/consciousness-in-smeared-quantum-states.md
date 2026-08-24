@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-20 10:11:00+00:00
+ai_modified: 2026-08-24 17:02:39+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:49:58+00:00
-lastmod: 2026-08-20 10:11:00+00:00
+lastmod: 2026-08-24 17:02:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,5 +159,5 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
-1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
+1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*, 30, 94-107. https://doi.org/10.1016/j.csbj.2025.09.016 (Corrigendum, correcting the path-integral equations on p. 102: https://doi.org/10.1016/j.csbj.2025.10.016)
 1. Sharma, R., Chauhan, A. S. & Sharma, S. (2026). Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging. *Journal of Biological Physics*, 52, 5.

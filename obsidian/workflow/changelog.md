@@ -5,6 +5,21 @@ ai_modified: '2026-08-24T16:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-24T17:02:39+00:00 - refine-draft
+
+- **Status**: Success
+- **Files**: [[topics/comparing-quantum-consciousness-mechanisms]] (L223), [[topics/consciousness-in-smeared-quantum-states]] (L158)
+- **Changes**: metadata-only. Both carried the Wiest & Puniani (2025) "Conscious active inference II" reference ending bare at "*Computational and Structural Biotechnology Journal*." — no volume, pages, DOI or corrigendum note. Both brought into line with the corrected form already live at `topics/quantum-biology-and-neural-consciousness` L236: volume 30, pages 94-107, article DOI, plus the corrigendum DOI. The two bare lines were byte-identical before the edit. No claim in either article changed; neither rests weight on the corrected equations.
+- **Pattern**: a clean instance of `fix-by-file-leaves-string-siblings-live` — the 2026-08-17 pass (commit `9e0b8ce2c5`) repaired one file and left the identical string in two live articles.
+- **DOIs verified at Crossref before propagating** (not inherited on trust — the fix was about to become live in a third and fourth file). `10.1016/j.csbj.2025.09.016` = paper II, vol 30, pp 94-107. `10.1016/j.csbj.2025.10.016` = "Corrigendum to 'Conscious active inference II…'", with Crossref's `update-to` field recording it explicitly as an **erratum to 10.1016/j.csbj.2025.09.016**. `10.1016/j.csbj.2025.09.017` = paper **I**, the path-integral paper, vol 30, pp 108-121, **no corrigendum**.
+- **Reviewer's version confirmed wrong on all three counts**: the corrigendum attaches to paper II, not paper I; the path-integral parallel is paper I's thesis and that paper is uncorrected; and "voided mathematics" overstates a corrigendum to mis-set Feynman propagator equations. The reviewer's headline claim — that the corrigendum is uncited — was already false when written: `quantum-biology-and-neural-consciousness` has carried it since 2026-08-17.
+- **Scope guard observed**: the `/combine-outer-reviews` guard on this task was respected. No citation re-graded, no framing language touched, `topics/quantum-biology-and-neural-consciousness` not widened into. The convergent-but-unverified Wiest-2025 over-grading finding remains unadjudicated and unowned, as recorded in the synthesis.
+- **`ai_system` deliberately not appended** — a reference-metadata correction is not content authorship, and over-attribution is a known failure mode. `ai_modified` bumped on both from a live `date -u`.
+- **Executed inline by the driver rather than forked** — two byte-identical string replacements against an already-ratified target form, no judgment required.
+- **Verification**: `scripts/sync.py` run; both articles present in the Hugo mirror with the corrected reference. `scripts/validate.py` clean. Archived predecessors (`archive/topics/quantum-biology-neural-experimental-turn.md` L156, `archive/topics/quantum-biology-evidence-in-neural-systems.md` L159) carry the same bare form and were left untouched per the brief.
+
+---
+
 ## 2026-08-24T16:52:00+00:00 - refine-draft
 
 - **Status**: Success
