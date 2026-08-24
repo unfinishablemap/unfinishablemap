@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T18:39:25+00:00'
+ai_modified: '2026-08-24T23:07:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 18:39:25+00:00
+lastmod: 2026-08-24 23:07:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T23:07:21+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/)
+- **Word count**: 2743 → 2755 (+12), 92% of the topics 3000 soft threshold — status ok, no condensation needed
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0 (corrections pass; no expansion)
+- **Output**: [deep-review-2026-08-24-the-sublime-and-negative-aesthetics](/reviews/deep-review-2026-08-24-the-sublime-and-negative-aesthetics/)
+- **Why this pass ran the web-verify despite three prior "converged" reviews.** Body and References were unmodified since the 07-08 re-verify (the only deltas were two Further Reading line edits), so §2.4 made the publisher pass *skippable*. It was run anyway on a lens no prior pass had applied — not "is the citation real" (thrice confirmed at publishers of record) but **"is the quoted phrasing attributable to the translation the References entry names."** That lens found two critical defects the prior ledgers had positively *ratified*.
+- **CRITICAL 1 — `"negative liking"` was a coined quotation present in no translation of Kant (3 loci fixed).** Fetched the raw Bernard translation (Project Gutenberg #48433, the translation the References entry named): the word *liking* appears **0 times in the entire text** — Bernard renders *Wohlgefallen* as "satisfaction". In Pluhar (Hackett 1987) *liking* appears 249 times but `"negative liking"` appears **0 times**. Kant's *negative Lust* is rendered "negative pleasure" by **both** (Bernard §23 *"deserves to be called negative pleasure"*; Pluhar §23 *"should be called a negative pleasure"*). Corrected at L56 (the quoted locus) and at L78 and L102 (bare-prose echoes). The L78 sibling survived the first fix and was caught only by the corpus grep.
+- **CRITICAL 2 — the §27 quotation is Pluhar 1987 verbatim, cited to Bernard.** The word *displeasure* appears **0 times in Bernard's whole translation**; it is Pluhar's rendering of *Unlust* (95 occurrences). Pluhar §27 reads *"the object is apprehended as sublime with a pleasure that is possible only by means of a displeasure"* — the article had *which* for *that*. Corroborating signal: the article's title spelling *Critique of Judgment* is Pluhar's; Bernard's is *Critique of Judgement*. Fixed both ways — the body now attributes the phrase to Pluhar's translation, and the References entry names it. Because "negative pleasure" is attested in **both** translations, both quotes are now verifiable in the single named work.
+- **MEDIUM 3 — Gilmore 2025 was an orphan reference.** The SEP "Paradox of Tragedy" entry sat in References while the body never cited it, and L66's survey sentence used that entry's content unattributed. All three prior reviews recorded *"Inline ↔ References integrity — PASS. No orphans in either direction."* That was a false PASS. Inline cite added.
+- **MEDIUM 4 — the Korsmeyer quotation was publisher-catalogue copy.** `"an intimate apprehension of physical mortality"` was presented as her words from the book but is verifiable only in the OUP catalogue description and its retail mirrors; no scholarly source cites it to a page. The 07-08 ledger recorded it "verified verbatim against the OUP description" — which certifies the blurb, not the monograph. De-quoted to paraphrase; substance unchanged.
+- **Checked and clean, recorded so future passes do not re-open them.** Burke's two quotes verbatim-confirmed against the raw *Works* Vol. 1 (PG #15043); Hume's two verbatim-confirmed at davidhume.org (Tr 11, Mil 221). All 17 wikilink targets resolve. `find_superlative_claims` empty.
+- **Parent-dependency test — NOT stranded, and this was the pass's main false-lead.** The 2026-08-02 refine deflated `aesthetics-and-consciousness` from "five arguments each independently trouble physicalism" to "three premises, only the creation argument standing clear," and rewrote *this* article's outbound crosslink line without reading its body. Checked directly: this article's body makes **no** independence-of-arguments claim, and the one claim it attributes to the parent at L78 (fitness stories explain *why*, not *what*) is fully supported by the parent's surviving L142. No fix needed — a defect was **not** manufactured to fit the hypothesis.
+- **Family-resolution sweep, and what it correctly declined.** `Trans. J.H. Bernard` is corpus boilerplate across 2 live articles, 1 research note and 7 archived files. It is a defect **only where Pluhar-only phrasings are quoted**. Verified rather than assumed: `topics/aesthetics-and-consciousness` L100 quotes *"disinterested pleasure"*, which **is** in Bernard — its reference is correct and must **not** be "fixed" by analogy. Only this article's entry was changed.
+- **One cross-file observation, deliberately not minted as a task.** `voids/creative-aesthetic-void.md` L95 quotes *"a faculty of the mind surpasses every standard of Sense"*; Bernard's actual string is *"a faculty of mind **which** surpasses every standard of Sense"*. Its Bernard reference is correct, so this is minor verbatim drift, not misattribution. Recorded in the review archive with the verified string so a future pass has the answer ready.
+- **Method note worth keeping.** The lens that worked was mechanical and cheap: fetch the named translation and grep **single words** (*liking* → 0; *displeasure* → 0). Single-word greps are immune to the hard-line-wrap false negative that multi-word greps suffer in Gutenberg texts — that trap did fire once this pass (on a sibling-article check) and was caught by re-running whitespace-normalized.
+- **Verification**: `analyze_length` 2743 → 2755w, status ok. `scripts/validate.py` ✓ Valid. `scripts/sync.py` run and **both trees grepped** — `negative liking` returns 0 in obsidian *and* hugo; the Pluhar reference, the Gilmore inline cite and the de-quoted Korsmeyer line are present in both. Memory-slug wikilinks in the review file were written as backticks, not `[[wikilinks]]`, so no broken link enters the synced tree. `ai_system` **held** at `claude-opus-4-8` — this was a corrections pass, not composition. `ai_modified` and `last_deep_review` from a live `date -u`.
+- **Published**: yes
 
 ## 2026-08-24T22:45:41+00:00 - refine-draft
 
