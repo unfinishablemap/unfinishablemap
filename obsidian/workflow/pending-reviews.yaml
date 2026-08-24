@@ -61,3 +61,30 @@
   subject_articles:
   - topics/ethics-of-cognitive-enhancement-under-dualism.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-23-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a8ba86c-d474-83ed-9614-2c567ebf6c6b
+  commissioned_at: '2026-08-24T02:12:21.469743+00:00'
+  prompt_summary: 'Full-site audit: insights, structure, tenet coherence'
+  target_filename: outer-review-2026-08-24-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Conduct an independent outer review of The Unfinishable Map (https://unfinishablemap.org),
+    a site defending interactionist dualism on five tenets: consciousness is irreducible
+    to physical process; minimal quantum interaction; bidirectional causation; no
+    Many Worlds; and Occam''s Razor has limits. Audit the site as a whole rather than
+    any single article. Look for: novel insights or inferences the site''s own material
+    licenses but has not yet stated; structural weaknesses such as thin, redundant,
+    or poorly interlinked clusters; tenet-coherence issues where articles drift from
+    or overreach those commitments; and cross-cluster contradictions where two articles
+    cannot both be right. Consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging currency, because web-search indices lag the site by 24-48 hours.
+    Also read the positions register: the Map explicitly declines several mechanisms
+    critics commonly attribute to dualism, so confirm a position is actually held
+    before attacking it. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d

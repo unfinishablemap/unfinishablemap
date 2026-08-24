@@ -1,6 +1,6 @@
 ---
 name: commission-chatgpt-review
-description: Open ChatGPT in Chrome, configure GPT-5.5 Pro with Extended thinking, submit an outer-review prompt, record the pending entry, and exit. Pairs with collect-chatgpt-review which retrieves the response after ~90 minutes.
+description: Open ChatGPT in Chrome, configure model GPT-5.6 Sol with Pro thinking effort, submit an outer-review prompt, record the pending entry, and exit. Pairs with collect-chatgpt-review which retrieves the response after ~90 minutes.
 context: fork
 agent: general-purpose
 ---
@@ -90,31 +90,56 @@ JSON.stringify({
 
 If logged out, **emit the literal line** `LOGIN_REQUIRED: chatgpt session expired` to stdout and stop. The dispatcher detects this marker and sets a 24-hour backoff.
 
-## Step 3: Open model selector and Configure dialog
+## Step 3: Open the composer effort/model menu
 
-Use `mcp__claude-in-chrome__find` with query `"model selector button showing 'Pro' near the prompt composer"` (the visible text may also be "Thinking" or "Instant" if the user has changed default — match by `aria-haspopup="menu"` inside the form). Click via the returned ref.
+> **UI redesign, observed 2026-08-24.** The old separate model-name button and the
+> `model-configure-modal` dialog are **gone**. There is now a single composer "pill"
+> showing the *effort* level (e.g. "High"), and model + effort are chosen from a small
+> popover. `find` will NOT locate a "model selector" — do not bail on that alone.
 
-Verify the menu opened with this JS check (look for `[data-testid="model-configure-modal"]`). If empty, the click didn't register — retry with a real coordinate click after taking a screenshot.
+Locate the pill: the only `button[aria-haspopup="menu"]` inside the composer `form`
+that is *not* `[data-testid="composer-plus-btn"]`. Its text is the current effort
+("High", "Pro", …); its tooltip reads "Thinking effort  Ctrl+Shift+M".
 
-Click the menu item with `data-testid="model-configure-modal"`. The Configure modal opens.
+**Coordinate mapping matters.** `computer` clicks use *screenshot* coordinates, while
+`getBoundingClientRect()` returns *page* coordinates. Compute
+`S = <screenshot width> / window.innerWidth` (typically 1246/1873 ≈ 0.665) and multiply
+page coords by `S`. Clicking unscaled page coords lands on the chat list underneath and
+navigates into an old conversation.
 
-## Step 4: Configure Pro + Extended thinking
+Click the pill, then confirm via JS that `document.querySelectorAll('[role=menu]').length > 0`.
+The popover contains an effort **slider** and an **"Advanced"** row.
 
-Inside the dialog (`[role="dialog"]` containing "Intelligence"):
+## Step 4: Configure model + Pro effort
 
-1. **Verify "Latest" filter** — at the top of the dialog there's a combobox showing "Latest". This is the model-set filter and defaults to Latest. If it shows something else, click it and select "Latest".
+1. **Expand "Advanced"** — it is a `div[role="menuitem"]` with
+   `aria-label="Show advanced options"` and `aria-expanded="false"`. It is a view
+   toggle, **not** a Radix submenu: hover and ArrowRight do nothing. A plain
+   `adv.focus(); adv.click()` via `javascript_tool` works. Confirm `aria-expanded`
+   flips to `"true"` and the menu grows. Until it is expanded, the Model/Effort rows
+   exist in the DOM with plausible rects but are **not visible** — clicking their
+   coordinates hits the page behind the popover.
 
-2. **Select Pro** — the radiogroup labelled "Model options" contains radios for Instant 5.x / Thinking 5.x / Pro 5.x. Click the row whose `data-testid` matches `model-switcher-gpt-*-pro` (currently `model-switcher-gpt-5-5-pro`; match by suffix `-pro` so version bumps still work).
+2. **Verify the model** — after expanding, a row reads `Model<name>` (e.g.
+   `ModelGPT-5.6 Sol`). Click it to open its submenu; options are the plain model
+   family (currently `GPT-5.6 Sol` ✓, `GPT-5.5`, `o3`). **There is no "Pro" model
+   here** — leave the newest (top, already `aria-checked="true"`) selected.
 
-3. **Set Pro thinking effort to Extended** — the combobox under "Pro thinking effort" defaults to "Standard". Use `find` with `"Pro thinking effort dropdown button"` and click the returned ref. A listbox appears with `[role="option"]` items "Standard" and "Extended". Click "Extended".
+3. **Set effort to Pro** — click the `Effort<level>` row. Its submenu lists
+   `Instant`, `Medium`, `High`, `Extra High`, `Pro`. Click **`Pro`** — this is what
+   the old "Pro model + Extended thinking" now means. Confirm the composer pill text
+   becomes `Pro`.
 
-4. **Read the model slug** — capture this BEFORE closing the dialog so the slug is recorded for frontmatter:
-   ```javascript
-   document.querySelector('[data-testid^="model-switcher-gpt-"][data-testid$="-pro"]')?.getAttribute('data-testid')
-   ```
-   Strip the `model-switcher-` prefix; e.g., `gpt-5-5-pro`. This becomes the `ai_system` field in the eventual review file.
+4. **Record the model slug** — combine model + effort:
+   `GPT-5.6 Sol` + `Pro` → `gpt-5-6-sol-pro`, giving
+   `outer-review-<date>-chatgpt-5-6-sol-pro.md`. Re-open the pill menu once and read
+   the `Model…` / `Effort…` row labels to confirm **both** stuck before submitting.
 
-5. **Close the dialog** — press Escape, or click `[data-testid="close-button"]` inside the dialog.
+5. **Close the popover** — press Escape (may need 2–3 presses for the nested menus),
+   then click the composer to focus it.
+
+If the pill menu will not open at all, or the Effort submenu has no `Pro` option,
+**bail before submitting** per the failure table below.
 
 If any of these steps fails (selector not found, expected text mismatch), **bail before submitting**. Take a screenshot and write a snapshot of the dialog's textContent to `tmp/commission-chatgpt-failure-<timestamp>.txt` so the operator can investigate. Never submit a half-configured review.
 
@@ -204,8 +229,8 @@ Exit. Total runtime budget: 5 minutes. If a step takes longer than expected, bai
 | Failure cooldown | `find_recent_failed("chatgpt", now, 1)` returns an entry | Silent skip. |
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: chatgpt commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to /auth/login | Emit `LOGIN_REQUIRED: chatgpt session expired` and stop. |
-| Model selector missing | menu doesn't open OR Configure menuitem absent | Take screenshot + dump DOM; bail; do not write pending entry. |
-| Configure dialog mismatch | "Pro" radio absent OR "Extended" option absent | Take screenshot + dump DOM; bail; do not write pending entry. |
+| Composer pill menu won't open | no `[role=menu]` after clicking the pill | Dump DOM; bail; do not write pending entry. |
+| Effort submenu mismatch | "Advanced" won't expand OR Effort submenu has no `Pro` option | Dump DOM; bail; do not write pending entry. |
 | Submission silent failure | no `/c/<id>` URL after 5 s | Bail; do not write pending entry. |
 
 **Critical invariant**: a pending-reviews entry is written ONLY after a conversation URL has been captured. A dangling entry pointing at a half-configured chat is worse than no entry.
@@ -215,4 +240,8 @@ Exit. Total runtime budget: 5 minutes. If a step takes longer than expected, bai
 - This skill must NEVER write a half-configured commission to pending-reviews.yaml.
 - This skill must NEVER attempt to drive a login flow — refuse and surface to the operator.
 - This skill must NEVER edit the user's preferences page or sidebar — its scope is one new chat per invocation.
-- The model slug captured in Step 4 must match `gpt-*-pro` to be valid.
+- The model slug recorded in Step 4 must end in `-pro` (model family + `pro` effort,
+  e.g. `gpt-5-6-sol-pro`) to be valid.
+- Screenshots can time out ("renderer may be frozen") on this page after several
+  menu interactions. Prefer `javascript_tool` for state checks and reserve
+  screenshots for when you genuinely need to see the layout.
