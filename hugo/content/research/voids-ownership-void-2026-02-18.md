@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-18 09:02:00+00:00
+ai_modified: 2026-08-24 20:11:23+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ date: &id001 2026-02-18
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-02-18 09:02:00+00:00
+lastmod: 2026-08-24 20:11:23+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,7 +45,7 @@ Every conscious experience arrives with a tag: *mine*. This phenomenal sense of 
 - **Type**: Academic monograph/papers
 - **Key points**:
   - For-me-ness is pre-reflective self-awareness present in all experience: consciousness of anything always includes a dimension of "for-meness"
-  - The minimal self is "an immediate and intrinsic self-acquaintance which is characterized by being completely irrelational"—no subject-object structure
+  - The minimal self is "an immediate and intrinsic self-acquaintance which is characterized by being completely irrelational"—no subject-object structure. **Source correction (2026-08-24):** this quote is *not* from *The Experiential Self* (the term does not occur in that text). It is from Zahavi, D. & Parnas, J. (1998), *Journal of Consciousness Studies* 5(5-6), 687-705, at p. 696.
   - Mineness is not added to experience by reflection; it is constitutive of experiential character itself
   - Critics (e.g., Alweiss 2022) argue Zahavi's minimal self may be too thin to be genuinely "self-conscious"
 - **Tenet alignment**: Strong alignment with dualism—if for-me-ness is irreducible and irrelational, it resists functional decomposition. Supports the view that ownership is a primitive feature of non-physical consciousness.
@@ -235,3 +235,4 @@ Based on this research, a voids article could:
 - Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
 - Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 - Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*. MIT Press.
+- Zahavi, D. & Parnas, J. (1998). "Phenomenal Consciousness and Self-Awareness: A Phenomenological Critique of Representational Theory." *Journal of Consciousness Studies*, 5(5-6), 687-705.

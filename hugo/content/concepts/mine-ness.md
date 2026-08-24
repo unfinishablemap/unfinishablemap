@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-08-22 21:12:19+00:00
+ai_modified: 2026-08-24 20:11:23+00:00
 ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 21:12:19+00:00
-lastmod: 2026-08-22 21:12:19+00:00
+lastmod: 2026-08-24 20:11:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The contemplative evidence reinforces the depersonalisation evidence: mine-ness 
 
 Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map takes the challenge seriously: even if mine-ness is plural, *each* form is still a separable phenomenal feature dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily), not that it is empty.
 
-The separability thesis is in principle defeasible. It would be undermined by a body of cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The actual dissociation data run the other way: in DPD content remains while ownership fades, and in thought insertion agency fades while ownership remains. So long as such double dissociations are replicable, the separability thesis stands.
+The separability thesis is in principle defeasible. It would be undermined by cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The double dissociations above run the other way; so long as they replicate, the separability thesis stands.
 
 ## Mine-ness and Transparency
 
@@ -123,8 +123,6 @@ The recursion is what makes the limit structural rather than merely stubborn. At
 The void is the epistemic residue that remains once the [ownership problem](/topics/consciousness-and-the-ownership-problem/) has been well stated. Ownership is unexplained, and beyond that the mechanism of appropriation is structurally inaccessible from within.
 
 ## What Mine-ness is Not
-
-Several adjacent concepts deserve explicit distinction.
 
 **Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's. Mine-ness operates within a single moment: the feature by which this present experience is mine *now*. The two come apart cleanly. A patient with severe dissociative identity might have intact mine-ness in each moment while diachronic identity is fractured. Conversely, a being with continuous personal identity could lose mine-ness during a depersonalised episode and recover it later.
 
@@ -188,4 +186,5 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 1. Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 1. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 1. Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*, ed. C. Durt, T. Fuchs, & C. Tewes. MIT Press.
+1. Zahavi, D. & Parnas, J. (1998). "Phenomenal Consciousness and Self-Awareness: A Phenomenological Critique of Representational Theory." *Journal of Consciousness Studies*, 5(5-6), 687-705. "Completely irrelational" at p. 696.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Consciousness and the Ownership Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-ownership-problem/

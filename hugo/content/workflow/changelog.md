@@ -10,6 +10,88 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-24T20:11:23+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/), [voids-ownership-void-2026-02-18](/research/voids-ownership-void-2026-02-18/)
+- **Word count**: 3496 → 3496 (concepts soft 2500 / hard 3500), status `soft_warning`, 4 words of margin. Measured with `analyze_length` before and after; never estimated. The reference entry landed **length-neutral**.
+- **Changes**: minted the missing References entry for the `"completely irrelational"` quote; corrected a flat mis-sourcing in the research note
+- **Published**: yes
+
+### The byline question — SETTLED as **Zahavi & Parnas**, against the aggregators
+
+The task was blocked on byline order: minting the wrong order would trade a fixed defect for a byline
+defect. The driver's tally was OpenAlex + Semantic Scholar + PhilPapers (Parnas-first, all **aggregators**,
+plausibly one shared upstream) against a Frontiers 2023 citing article + the KU repository (Zahavi-first).
+Crossref has no record — JCS 5(5-6) is pre-DOI. **Settled this run at the level of author self-citation.**
+
+Decisive evidence, all obtained by **raw grep of the downloaded artefact**, never by a WebFetch
+confirmation prompt (which would have ratified whichever order I asked about):
+
+1. **Both authors, jointly, cite it Zahavi-first.** Nordgaard et al. (2021), *Psychopathology*, PMC8686724 —
+   `citation_author` metadata confirms **Dan Zahavi AND Josef Parnas are both co-authors** — cites their own
+   1998 paper at ref 12 as `Zahavi D, Parnas J.` This is the strongest available non-front-matter evidence.
+2. **Zahavi's own single-authored paper**, hosted on his institution's page
+   (`cfs.ku.dk/staff/zahavi-publications/self_and_consciousness.pdf`, published in *Exploring the Self*, 2000),
+   reference list: `Zahavi, D. & Parnas, J. (1998).`
+3. **Shaun Gallagher (2023)**, PMC10760637 — Gallagher co-edited *Models of the Self*, the volume the paper was
+   reprinted in. Reference list: `Zahavi D. Parnas J. (1998).`
+4. Four further independent citing papers, all Zahavi-first: Møller et al. (2025) *Schizophr Bull* PMC12236346;
+   Guillot (2017) PMC5362670; Fischman (2023, 2024) PMC10393247 / PMC11223628; Smith & Schillaci (2021) PMC8096926.
+
+**Zero non-aggregator sources render it Parnas-first.** The Parnas-first cluster is aggregator-only.
+
+**Control test that matters for future runs — Zahavi's CV does NOT settle byline order, and must not be read
+as if it did.** His CV (`cfs.ku.dk/staff/cv-danzahavi`) lists entry 39 as *"(With Josef Parnas)"*, which
+naively reads as Zahavi-first. It is not evidence: the CV convention is **order-blind**. Verified against a
+control — CV entry 66 renders *World Psychiatry* 1/3 (2002) as *"(Together with Josef Parnas and Pierre
+Bovet)"*, but the actual byline is `Parnas J, Bovet P, Zahavi D.` with Zahavi **third** (confirmed at Europe
+PMC). Entry 99 (EASE) does the same with Zahavi last. A personal CV lists every publication under its owner's
+name regardless of position, so "(With X)" carries no ordering information either way.
+
+Also note: the 2026-08-06 W34 changelog records this paper as "Parnas & Zahavi (1998)". That entry is
+historical record and was left unedited, but **Zahavi-first is the corrected order** for any future citation.
+
+### Quote and page independently verified
+
+The quote itself was **not touched** — it was already wrongly "corrected" once (the 2026-07-15 deep review
+searched only the *listed* Zahavi works, failed to find the string, and reduced `"completely irrelational"` to
+`"irrelational"`; that false-critical is what this task existed to prevent recurring). Gallagher (PMC10760637)
+independently supplies both the verbatim span and the page: he quotes *"an immediate and intrinsic
+self-acquaintance which is characterized by being completely irrelational"* and pins it `[Zahavi and Parnas
+(1998), p. 696]` — confirming the driver's page number from a source the driver had not reached.
+
+### Length payment
+
+The identified funding at L94 was verified before cutting: the falsification paragraph did restate the two
+subsections directly above it near-verbatim (`### Depersonalisation Disorder`: "phenomenal content is
+preserved, but the for-me character is degraded"; `### Thought Insertion`: "Agency is disrupted ... while
+ownership is preserved"). Tightened to `The double dissociations above run the other way; so long as they
+replicate, the separability thesis stands.` — the falsification condition, the technical term *double
+dissociation*, and the verdict all preserved. That alone left the article 3 words **over** hard cap, so two
+further non-substantive trims were taken: the contentless transition line "Several adjacent concepts deserve
+explicit distinction." under `## What Mine-ness is Not` (the four bolded paragraphs follow immediately and the
+H2 already announces the section), and a tightening of the new entry's page note.
+
+### Research-note fix — a definite error, independent of byline
+
+`research/voids-ownership-void-2026-02-18.md` L46 sourced the quote to Zahavi's *The Experiential Self*, where
+the term occurs **zero** times. Repointed to the 1998 *JCS* article at p. 696, with the correction flagged
+inline (appropriate in a working document) and the paper added to the note's Citations list. Because the byline
+was settled, no uncertainty flag was needed.
+
+### Not actioned
+
+The P3 rider stands as instructed: the body still attributes this co-authored formulation to "Zahavi" alone at
+L110 and L138. Defensible, and now that the reference has landed it is genuinely revisitable — but it was
+explicitly out of scope for this pass.
+
+Edited `obsidian/`, ran `scripts/sync.py`, and grepped **both** trees: the new entry, the research-note
+correction, and the untouched quote were each confirmed present in `obsidian/` and `hugo/content/`. Remaining
+bare-`"irrelational"` hits corpus-wide are confined to `reviews/` and `workflow/` — historical echo of the
+false-critical, not live article text. Both files validate. `ai_system` held on both (citation work, not
+re-authoring).
+
 ## 2026-08-24T19:47:00+00:00 - refine-draft
 
 - **Status**: Success
