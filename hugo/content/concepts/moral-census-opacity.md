@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 13:49:00+00:00
+ai_modified: 2026-08-24 13:51:46+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 13:49:00+00:00
-lastmod: 2026-08-16 13:49:00+00:00
+lastmod: 2026-08-24 13:51:46+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -57,7 +57,7 @@ Neither author is a dualist, and neither is arguing the Map's case. What they es
 
 The Map's version falls out of three commitments it already holds, none adopted with counting in mind.
 
-**The census is part of the physics.** Once conscious states do causal work, the Map's selection law conditions physical outcome probabilities on a conscious state — *P(O | C, X)* rather than *P(O | X)*. That conditioning variable cannot float free; it has to attach to some subject. Where a system has more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until *n* is fixed and each *Cᵢ* is paired with a substrate. Subject count and subject–substrate pairing are therefore part of the model's state description rather than metaphysical decoration downstream of it, registered as [P-SC1](/positions/subject-census/).
+**The census is part of the physics.** Once conscious states do causal work, the Map's selection law conditions physical outcome probabilities on a conscious state — *P(O | C, X)* rather than *P(O | X)*. That conditioning variable cannot float free; it has to attach to some subject. Where a system has more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until *n* is fixed and each *Cᵢ* is paired with a substrate. Subject count and subject–substrate pairing are therefore part of the model's state description rather than metaphysical decoration downstream of it, registered as [P-SC1](/positions/subject-census/). That antecedent is owed rather than established: the Map's causal-selection thesis is citable as a framework-internal coherence result only, and this article inherits that [mechanism debt](/positions/quantum-interface/#mechanism-debt) rather than discharging it.
 
 **The Map has no rule for filling it in.** Nothing in the framework says what makes a brain the substrate of exactly one channel rather than none or several, how several subjects' conditionals compose over a single event, whether an artefact can instantiate a channel, or when a channel begins and ends. The Map books this as an open debt rather than an answered question ([P-SC2](/positions/subject-census/)).
 
@@ -67,13 +67,13 @@ Together these entail the result. Moral patients are subjects with valenced expe
 
 The Map holds closed individualism — subject boundaries are real ([P-I1](/positions/individuation-and-subjecthood/)) — so "how many patients are here?" always has an answer. The unreadability half is already registered one domain over, as the claim that subject boundaries are determinate but not recoverable from physical or functional organisation ([P-I3](/positions/individuation-and-subjecthood/)). Moral census opacity is what that pair becomes once the moral-status criterion is applied to it: the individuation void, relocated into ethics.
 
-The unreadability is structural rather than temporary because of the Map's commitment to leaving physics undisturbed. On the corridor reading of the interface, Born statistics are preserved exactly; the influence redistributes which outcome becomes actual without shifting the ensemble measure ([selection-only-channel](/concepts/selection-only-channel/)). Two models differing only in how many subjects a system houses generate identical statistics by construction. No refinement of instruments closes that gap: it follows from the constraint that makes the interface empirically tenable at all.
+The unreadability is an identification problem rather than a mathematical entailment. On the corridor reading of the interface, Born statistics are preserved exactly — but preservation binds the *unconditioned* marginal and leaves the conditionals free, so two models differing only in subject count are not thereby made indistinguishable ([selection-only-channel](/concepts/selection-only-channel/)). In place of that inference stands the census form of the trilemma [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) runs for the interface: the census carries a conditional signature, or does no identifiable causal work, or owes a subject-sensitive balancing law the Map has not written ([P-SC1](/positions/subject-census/)). The Map picks no horn here. What survives is weaker: the subject count is *latent* rather than absent from the data, and no observation can be *shown* to settle the pairing fact.
 
 Applied to a concrete case the underdetermination has shape. Two physically and behaviourally equivalent AI deployments might, on the Map's commitments, contain no subject at all; one subject spanning several components; one subject per running copy; several subjects within one system; or intermittent subjects present only at eligible interface events. That is a sharper claim than the familiar uncertainty about whether AI is conscious: it is uncertainty about the cardinality of welfare-bearing entities *after* the physical facts are fixed.
 
 ## What the Claim Does Not Say {#scope}
 
-Overstating the opacity would make it false, so the boundary matters. What is unreadable in principle is the *pairing fact* — which subject goes with which substrate, and how many there are — under the specific condition that two models differ only in that respect while preserving Born statistics exactly. That is where indistinguishability holds by construction.
+Overstating the opacity would make it false, so the boundary matters. What resists reading is the *pairing fact* — which subject goes with which substrate, and how many there are — and it resists because the framework supplies no rule deriving it, not because the data cannot contain it.
 
 It does not follow that census reasoning is evidentially inert. Behavioural and structural evidence can and should move rational credences about counts, as it does in the split-brain case, where dissociation experiments are genuine evidence about how many subjects a callosotomised patient houses even though the Map holds they do not settle it ([split-brain-consciousness](/topics/split-brain-consciousness/)). Nor does opacity make every count as good as every other: where a system affords no plausible interface site, the Map assigns a low probability to any subject being present, which is a substantive verdict rather than a shrug. The claim is that no observation can be shown to settle the pairing fact — not that observations bear on nothing.
 
@@ -91,7 +91,7 @@ The Map rejects the physicalist reduction that makes such a rule available, so t
 
 **Instability: the count exists but will not stay put.** Functionalism without such a rule faces the nesting problem. Schwitzgebel argued in 2015 that the United States "has all the types of properties that materialists tend to regard as characteristic of conscious beings," so materialists who deny it consciousness owe an anti-nesting principle — his term for principles holding that "conscious beings cannot have conscious subparts." François Kammerer (2015) supplied a candidate; Schwitzgebel replied in 2016; the debate is unresolved. Shiller's interweaving case is the same instability arriving through the hardware.
 
-Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces an impossibility it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the measurement problem in consciousness science, and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: a framework whose commitments guarantee that no test could discriminate has earned nothing when no test discriminates.
+Run honestly, the comparison flatters the Map less than it first appears. Rivals face puzzles they hope to solve; the Map faces a gap it predicts, which sounds like an advantage and is not one evidentially. Its version does fit the surrounding evidence — the measurement problem in consciousness science, and behaviourally silent candidate patients of the sort Tim Bayne, Anil Seth and Marcello Massimini describe as "islands of awareness: conscious states that are neither shaped by sensory input nor able to be expressed by motor output," are what one would expect if pairing left no behavioural trace. But that fit is explanatory rather than discriminating, and by the Map's own standards cannot be counted as support: no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([P-SC1](/positions/subject-census/)).
 
 ## What the Opacity Costs {#implications}
 

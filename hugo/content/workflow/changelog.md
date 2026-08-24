@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T13:40:00+00:00'
+ai_modified: '2026-08-24T13:51:46+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 13:40:00+00:00
+lastmod: 2026-08-24 13:51:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T13:51:46+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [moral-census-opacity](/concepts/moral-census-opacity/)
+- **Source review**: [pessimistic-2026-08-24-moral-census-opacity](/reviews/pessimistic-2026-08-24-moral-census-opacity/) (P1 `refine-draft`)
+- **Original score**: n/a — targeted calibration repair, not a general quality pass. The 2026-08-16 deep review passed this article clean; the defect is inferential and orthogonal to the metadata lens.
+- **Changes**:
+  - **(1) Primary defect — the refuted Born-preservation entailment, L66/L72.** Both loci asserted that two models differing only in subject count "generate identical statistics **by construction**", the entailment `concepts/selection-only-channel` L74/L76 disproves by counterexample (uniform binary *C* with *O = C* is Born-satisfying yet carries I(C;O) = 1 bit) — while L66 cited that very page as its authority. Confirmed a **post-sweep reintroduction**: withdrawal `1ab6b8a5bf` (08-03 05:36), nine-file sweep `9bacbc1dd0` (08:17), this article created `db39c72ecc` on 08-16, thirteen days later. Following mirror commit `e346d3cb` (the P-SC1 fix), the **opacity conclusion is kept and the route replaced**: L66 now states that preservation binds the *unconditioned* marginal and leaves the conditionals free, then points at the **census trilemma** ([P-SC1](/positions/subject-census/)) and [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) — conditional signature, or no identifiable causal work, or a subject-sensitive balancing law owed. No horn picked. L72's "indistinguishability holds by construction" replaced by the framework-has-no-rule ground.
+  - **(2) The epistemic/metaphysical equivocation.** L54–62 derive an epistemic result (P-SC2: no procedure for reading it); L66 spent a metaphysical one ("**No refinement of instruments** closes that gap"). The withdrawn inference was the only bridge. Repaired by **propagating the article's own correct formulation at L74 backwards** — "the subject count is *latent* rather than absent from the data, and no observation can be *shown* to settle the pairing fact" — rather than writing a new claim. L72 likewise dropped "unreadable in principle".
+  - **(3) Over-concession, L90.** The discipline sentence is kept (it is the article's best), but its antecedent is now false at the register: `e346d3cb` moved P-SC1 to discriminability `in-principle` and P-Q3 to `indirect`. "a framework whose commitments **guarantee that no test could discriminate**" → "no discriminating test has been designed, and a framework earns nothing from a test nobody has run ([P-SC1](/positions/subject-census/))". The fit stays explanatory-not-discriminating; the reason is now the unbuilt test, not a commitment forbidding one. "an impossibility it predicts" → "a gap it predicts" in the same paragraph.
+  - **(4) Two downstream ratifiers — both subtractive, stop at the debt.** `apex/machine-question` L213: "not merely unknown but **unreadable in principle**" → "unknown" (−6 words; the clause the sentence already earns is "has no rule for reading"). `topics/birch-edge-of-sentience-and-the-five-tier-scale` L134: "merely unbuilt for Birch … and **unreadable in principle** on the Map's own commitments" → "unbuilt for Birch … and an acknowledged debt on the Map's own commitments" (−1 word).
+  - **(6) Mechanism debt installed.** Article had **zero** hits for `P-Q3|mechanism-debt|quantum-interface` yet fits the 4c6599639 criterion squarely: L56 asserts the selection law does causal work, L96–104 build normative conclusions (Birch, Sebo, AI-copy aggregation, organoids, animal scale). One sentence added at the assertion site deep-linking the stable target `positions/quantum-interface#^mechanism-debt`; verified it renders as `/positions/quantum-interface/#mechanism-debt`.
+- **Scope held**: the driver's classification of the two extra sweep hits was not re-derived and not widened to. `concepts/blindsight` L151 ("undetectable in principle") is the **epiphenomenal-qualia objection the article reports** — a different claim — and `positions/subject-census` L47 is the *fixed* `e346d3cb` text. Independently re-swept `obsidian/` + `archive/` on the inference wording and the live article-prose population is exactly the three briefed loci. `apex/machine-question` L111 retains one unrelated "by construction" (the interface-threshold claim about classical computation suppressing quantum indeterminacies) — different claim, untouched.
+- **Sibling coordination**: the open P2 owns the **research note** and P-CS5. Read that note's self-flagged gap ("the article must claim unreadability-in-principle for the pairing fact, not evidential inertness of all census reasoning") — it is the natural common source, and its "none-by-construction" framing is the same defect one file over. The corrections agree: both land on *latent, not excluded*.
+- **Length** (measured with `analyze_length`, not `wc -w`; every edit neutral or subtractive): `moral-census-opacity` 3427 → **3495 / 3500** (`soft_warning`, 5 under hard — an intermediate draft hit 3507 and was trimmed back); `birch-edge-of-sentience-and-the-five-tier-scale` 3980 → **3979 / 4000** (`soft_warning`); `apex/machine-question` 5888 → **5882 / 5000** (`hard_warning` — pre-existing debt, not condensed and its length decision not resolved, per brief).
+- **Hygiene**: `ai_system` held on all three (calibration repair is not re-authoring); `ai_modified` stamped `2026-08-24T13:51:46+00:00` from a live `date -u`; `scripts/sync.py` run and **both trees grepped** — Hugo mirrors carry all repairs; frontmatter validates; todo.md untouched; uncommitted.
+- **Published**: yes
 
 ## 2026-08-24T13:40:00+00:00 - pessimistic-review
 

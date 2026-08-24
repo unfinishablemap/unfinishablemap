@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-08-16 12:29:00+00:00
+ai_modified: 2026-08-24 13:51:46+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-06 02:34:00+00:00
-lastmod: 2026-08-16 12:29:00+00:00
+lastmod: 2026-08-24 13:51:46+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -134,7 +134,7 @@ The Map's evidential-status discipline needs an action layer it does not claim t
 
 The two layers fit together cleanly. Catalogue prose calibrated by the five-tier scale describes the evidential terrain; Birch's precautionary framework converts the terrain into action under uncertainty. The Map can adopt Birch's apparatus at the action layer (sentience candidacy, investigation priority, the run-ahead principle, the asymmetric-risk logic) without giving up the calibration discipline at the labelling layer (the diagnostic test, the tenet-register / evidence-register distinction, the *live hypothesis* and *speculative integration* tiers). Birch's framework gains the lower-tier descriptive vocabulary it currently lacks; the Map's discipline gains the action-layer apparatus it has not built.
 
-The disciplines also bind each other against a shared failure mode at the boundary. Schwitzgebel and Sinnott-Armstrong flag a suppressed-radical-implications problem: if insects have any sentience and vastly outnumber humans, their aggregated welfare could swamp human welfare on the framework's own logic — yet Birch, Sebo and Keane all pull back to more modest near-term conclusions without showing that the retreat is principled. The five-tier scale does not resolve the aggregation problem, but it changes what aggregation reasoning is entitled to assume. Aggregating welfare across organisms requires probability-coded sentience claims for each organism in the aggregate; the Map's *speculative integration* placements block such claims outright and the *live hypothesis* tier discourages them. Insect placements at *realistic possibility (contested)* are where the worry lands honestly: the empirical case is real enough to warrant precautionary action under Birch's apparatus, but not strong enough to license confident inputs into a humans-versus-insects calculus. So the Map's discipline locates a principled stopping-point at the evidential tier — the aggregation inputs are themselves under-specified, which is why retreat from radical conclusions is defensible rather than ad hoc. That is engagement with the aggregation problem, not its resolution; whether aggregation is the right framework for cross-species comparison at all lies outside both layers' reach. A further input is under-specified in the same way: the aggregate needs a *number* of patients as well as a probability per patient, and both schemes grade the evidence that a system is sentient without indexing how many subjects it contains — a gap that is merely unbuilt for Birch, whose candidature attaches to a system without saying how the system is individuated, and unreadable in principle on the Map's own commitments ([moral census opacity](/concepts/moral-census-opacity/)).
+The disciplines also bind each other against a shared failure mode at the boundary. Schwitzgebel and Sinnott-Armstrong flag a suppressed-radical-implications problem: if insects have any sentience and vastly outnumber humans, their aggregated welfare could swamp human welfare on the framework's own logic — yet Birch, Sebo and Keane all pull back to more modest near-term conclusions without showing that the retreat is principled. The five-tier scale does not resolve the aggregation problem, but it changes what aggregation reasoning is entitled to assume. Aggregating welfare across organisms requires probability-coded sentience claims for each organism in the aggregate; the Map's *speculative integration* placements block such claims outright and the *live hypothesis* tier discourages them. Insect placements at *realistic possibility (contested)* are where the worry lands honestly: the empirical case is real enough to warrant precautionary action under Birch's apparatus, but not strong enough to license confident inputs into a humans-versus-insects calculus. So the Map's discipline locates a principled stopping-point at the evidential tier — the aggregation inputs are themselves under-specified, which is why retreat from radical conclusions is defensible rather than ad hoc. That is engagement with the aggregation problem, not its resolution; whether aggregation is the right framework for cross-species comparison at all lies outside both layers' reach. A further input is under-specified in the same way: the aggregate needs a *number* of patients as well as a probability per patient, and both schemes grade the evidence that a system is sentient without indexing how many subjects it contains — a gap that is unbuilt for Birch, whose candidature attaches to a system without saying how the system is individuated, and an acknowledged debt on the Map's own commitments ([moral census opacity](/concepts/moral-census-opacity/)).
 
 ## Relation to Site Perspective
 
