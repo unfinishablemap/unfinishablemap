@@ -1,8 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T01:07:20+00:00'
+ai_modified: '2026-08-24T01:24:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-24T01:24:28+00:00 - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-23
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5). The Gemini leg was never commissioned for this cycle — no entry in `pending-reviews.yaml` for 2026-08-23 — so this is a two-voice cycle, not a three-voice cycle with an abandonment.
+- **Subject**: `topics/ethics-of-cognitive-enhancement-under-dualism` (single-article audit, reused across both services). Verdicts: REVISE-HARD (Claude) and "major revision — reject and resubmit" (ChatGPT).
+- **Clusters**: 6 convergent, 7 singleton, 2 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3; P3→P2: 0). Two further convergent clusters landed on tasks already at P1, so the convergence is recorded on them without an upgrade.
+- **Tasks deduplicated**: 1 (the ChatGPT rival-positions task merged into the Claude literature task — both add literature to a 2577-word article with 423 words of soft-gate headroom, so two independent tasks would have collided; the merged task carries both reading lists and an explicit work order)
+- **Strongest convergence**: methodological, not editorial. Both reviewers independently proposed the same instrument — a per-conclusion ledger stating which premise does the work and whether a physicalist reaches the same conclusion by the same route — and each put it first on its own methodology list. ChatGPT states it three times (audit gate, four-column normative-derivation table, policy-divergence test); Claude once, as an entailment ledger.
+- **A convergent finding that had no task at all** — the Sandel co-optation, flagged by both reviewers and covered by neither per-reviewer task — was folded into the merged literature P1 rather than left as a record-only note.
+- **Correlated-error caution recorded in the synthesis**: both prompts explicitly asked whether the normative conclusions follow from the dualist premise, so cluster 1 is partly prompt-driven. Clusters 3, 5 and 6 are the ones the prompts did not steer toward.
+- **Cycle quality**: unusually clean — both reviews scored 16/16 on target-span fidelity with zero fabricated quotes, and ChatGPT's extraction was byte-verified by SHA-256. Downstream tasks are told not to re-verify quotations. Three disputed items (Claude's Levy paraphrase-as-quotation and wrong-work God Machine attribution; ChatGPT's BCI claim disputing a Map neighbour rather than reporting it) were excluded from convergence and travel with the tasks as corrections.
+- **Output**: [[reviews/outer-review-synthesis-2026-08-23]]
+
 ---
 
 ## 2026-08-24 01:07 UTC - coalesce

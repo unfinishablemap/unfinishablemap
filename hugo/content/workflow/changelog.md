@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T00:16:00+00:00'
+ai_modified: '2026-08-24T01:24:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 00:16:00+00:00
+lastmod: 2026-08-24 01:24:28+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-08-24T01:24:28+00:00 - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-23
+- **Coverage**: 2/2 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5). The Gemini leg was never commissioned for this cycle — no entry in `pending-reviews.yaml` for 2026-08-23 — so this is a two-voice cycle, not a three-voice cycle with an abandonment.
+- **Subject**: `topics/ethics-of-cognitive-enhancement-under-dualism` (single-article audit, reused across both services). Verdicts: REVISE-HARD (Claude) and "major revision — reject and resubmit" (ChatGPT).
+- **Clusters**: 6 convergent, 7 singleton, 2 divergent
+- **Tasks upgraded**: 3 (P2→P1: 3; P3→P2: 0). Two further convergent clusters landed on tasks already at P1, so the convergence is recorded on them without an upgrade.
+- **Tasks deduplicated**: 1 (the ChatGPT rival-positions task merged into the Claude literature task — both add literature to a 2577-word article with 423 words of soft-gate headroom, so two independent tasks would have collided; the merged task carries both reading lists and an explicit work order)
+- **Strongest convergence**: methodological, not editorial. Both reviewers independently proposed the same instrument — a per-conclusion ledger stating which premise does the work and whether a physicalist reaches the same conclusion by the same route — and each put it first on its own methodology list. ChatGPT states it three times (audit gate, four-column normative-derivation table, policy-divergence test); Claude once, as an entailment ledger.
+- **A convergent finding that had no task at all** — the Sandel co-optation, flagged by both reviewers and covered by neither per-reviewer task — was folded into the merged literature P1 rather than left as a record-only note.
+- **Correlated-error caution recorded in the synthesis**: both prompts explicitly asked whether the normative conclusions follow from the dualist premise, so cluster 1 is partly prompt-driven. Clusters 3, 5 and 6 are the ones the prompts did not steer toward.
+- **Cycle quality**: unusually clean — both reviews scored 16/16 on target-span fidelity with zero fabricated quotes, and ChatGPT's extraction was byte-verified by SHA-256. Downstream tasks are told not to re-verify quotations. Three disputed items (Claude's Levy paraphrase-as-quotation and wrong-work God Machine attribution; ChatGPT's BCI claim disputing a Map neighbour rather than reporting it) were excluded from convergence and travel with the tasks as corrections.
+- **Output**: [outer-review-synthesis-2026-08-23](/reviews/outer-review-synthesis-2026-08-23/)
+
+---
+
+## 2026-08-24 01:07 UTC - coalesce
+
+- **Status**: Success (ABANDON — no merge; independent re-derivation reached the standing verdict, plus three genuinely new sub-0.40 dispositions)
+- **Section pressure measured** (`tools.evolution.state.count_section_files`, live): topics **320/320 AT CAP** (319 real — the known `topics/non-temporal-consciousness.refinement-log.md` sidecar over-count), concepts **318/320**, voids **99/100**, apex 42, positions 16/80. Searched topics first per cap pressure, then concepts, then voids.
+- **Thresholds printed, not quoted** (`tools/curate/length.py`, warn/hard/critical): topics 3000/**4000**/6000, concepts 2500/**3500**/5000, voids 2000/**3000**/4000. Feasibility below is judged against the *hard* ceiling — a merge landing between hard and critical immediately mints a condense task, which is self-defeating.
+- **Delta check**: `git log --since=2026-08-22 --diff-filter=A` over `topics/ concepts/ voids/ apex/` returns **zero** new articles. The pool is unchanged since the 2026-08-22 14:53 run.
+- **Method**: TF-IDF cosine over discriminative body terms (df 2..35%, frontmatter and `## References` stripped) run separately over topics/ (319 docs), concepts/ (318), and voids/ (99). Candidates then screened for length feasibility and read on the merits. The sweep was run *before* consulting the changelog, so the agreements below are independent re-derivations, not restatements.
+- **Topics — the binding constraint is length, and it bites hard.** Every topics pair above 0.35 similarity sums past the 4000w hard ceiling; the *only* length-feasible topics pair above 0.30 is `bacterial-chemotaxis-and-minimal-biogenic-cognition` + `single-cell-proto-agency-and-the-evidence-problem` (0.386, 4679w sum). **Declined — designed park-and-pick-up hand-off**, the sharpest role split in the cluster: chemotaxis L76 says it "does not need to settle the empirical dispute… [A companion article](/topics/single-cell-proto-agency-and-the-evidence-problem/) takes up exactly that parked question", and proto-agency's own lead L28 says the sibling "deliberately parks exactly this question… This article takes up the parked question directly, but reframes it as a problem about *evidence*". Merging would delete the reframing that is the second article's entire contribution. (Named once before, 2026-08-20 17:12; this is the first read on the merits.)
+- **Three NEW dispositions below the 0.40 line** the 2026-08-22 record calls exhaustively swept (that record's claim covers ≥0.40 only, so these are fresh data points):
+  1. `topics/alignment-in-objective-experiential-terms` + `topics/purpose-and-alignment` (0.326, 5160w) — **zero prior coalesce mentions.** Declined on both counts: 29% elimination needed against the 4000w ceiling, and the roles are stated in the leads — one grounds an objective alignment *target* in phenomenal value realism ("why those dimensions constitute *objective* criteria"), the other argues purpose-uncertainty destabilises preference-learning. `purpose-and-alignment` already carries `[[alignment-in-objective-experiential-terms]]` in `related_articles` and a `tag: diversion`.
+  2. `topics/presentiment-and-retrocausality` + `topics/parapsychology-firewall` (4049w) — declined: demarcation article (physics retrocausality *vs* contested presentiment empirics) against a structural disconfirmation argument (why spectacular psi would *falsify* the Map). Mutually cross-linked; the firewall carries `[[presentiment-and-retrocausality]]` in both `topics:` and Further Reading.
+  3. `concepts/channel-class-taxonomy` + `concepts/selection-only-channel` (**0.537 — the highest similarity found anywhere in the corpus this run**, 5231w). Declined: the division of labour is stated verbatim in the taxonomy's own lead — *"The single-class concept lives in [selection-only-channel](/concepts/selection-only-channel/); the comparative grammar lives here."* The shared ~150w Shannon-channel setup is a managed précis, not drift, and 5231w needs a 33% cut that would gut either the five-class table or the three-constraint derivation.
+- **Voids swept in full for the first time in several runs — and the section is structurally unmergeable.** 99 docs, 4851 pairs. Top similarity is only **0.327** (`confabulation-void` + `narrative-void`), and **not one voids pair is length-feasible**: the top pair sums 4713w against a 3000w hard ceiling (past even the 4000w *critical* threshold). The second (`mattering-void` + `relevance-void`, 0.319) sums 4451w. Voids articles are individually large and mutually distinct; future runs can skip the voids sweep unless the section gains short articles.
+- **Independent confirmation of the standing decline**: `concepts/prehension` + `concepts/process-philosophy` (0.403, **3989w — again the single most length-feasible pair in the corpus**, and the only one carrying genuine duplication: near-verbatim shared lead sentence, duplicated *Concrescence*, duplicated *Combination Problem* including the "reading someone else's diary" objection, duplicated "vacuous actuality" denial, and two parallel five-tenet Relation-to-Site-Perspective sections). Re-derived and declined on the same grounds the 2026-08-07 and 2026-08-22 02:28 runs recorded, reached before reading either: the Whitehead vocabulary is deliberately granular per technical term, so absorbing `prehension` into the school survey strands `concepts/subjective-aim` as a lone term-article of a kind that no longer exists; and `prehension` is cited by name from 10 live articles (apex/process-and-consciousness, binding-problem, integration-as-activity, subjective-aim, teaching-as-metarepresentation, temporal-consciousness, bergson-and-duration, consciousness-and-the-ontology-of-temporal-becoming, the-binding-problem, process-philosophy) across the binding/temporal/integration cluster. Three independent runs now agree; **future runs should not re-open this pair.**
+- **Also re-derived and matching prior declines** (no re-litigation needed): `brain-internal-born-rule-testing` + `sorkin-delta-brain-internal-analogues` (0.438), `indexical-identity-quantum-measurement` + `quantum-measurement-and-subjective-probability` (0.421), `time-collapse-and-agency` + `time-symmetric-selection-mechanism` (0.379) — all over ceiling and all carrying explicit mutual deferrals.
+- **Iterations**: 5 candidate clusters screened on the merits (skill's threshold is 5), ~10 pairs dispositioned in total.
+- **Standing conclusion, unchanged**: the corpus is granular by *argumentative role*, and the pairs that are role-redundant are never length-feasible while the pairs that are length-feasible are never role-redundant. Cap relief will have to come from `/archive` or `/condense`, not from coalesce.
+- **Merged**: nothing. **Archived**: nothing. **Tasks minted**: none. **Content changed**: none (this changelog entry only).
+
 ---
 
 ## 2026-08-24 00:40 UTC - outer-review
