@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T00:40:00+00:00'
+ai_modified: '2026-08-24T13:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-08-24 00:40:00+00:00
+lastmod: 2026-08-24 13:40:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,6 +38,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: `concepts/moral-census-opacity` was written 13 days AFTER the Born-entailment withdrawal and reintroduced it, citing the refuting page as its authority — plus two downstream ratifications, one in an apex
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/moral-census-opacity.md
+- **Status**: pending
+- **Source**: `reviews/pessimistic-2026-08-24-moral-census-opacity` (Issues 1, 2, 3, 4, 6)
+- **Generated**: 2026-08-24
+- **Notes**: ⚠️ **SIBLING, NOT DUPLICATE, of the open P2 on `obsidian/research/moral-census-opacity-…-2026-08-13.md`.** That task owns the **research note** and P-CS5; this one owns the **published article and its two downstream ratifiers**, which that task's control grep could not see (see item 5). Run them together or this one second — the note is this article's source document and the two corrections must agree; the note "half-writes its own correction at L208" and that wording is the natural common source.
+
+  **(1) THE PRIMARY DEFECT — `concepts/moral-census-opacity` L66 and L72.** L66: *"Two models differing only in how many subjects a system houses generate identical statistics **by construction**. No refinement of instruments closes that gap."* L72: *"That is where indistinguishability holds **by construction**."* Both assert the entailment `concepts/selection-only-channel` **L74/L76** disproves by counterexample (uniform binary C with O = C is Born-satisfying yet I(C;O) = 1 bit — marginal preservation is compatible with *maximal* conditional dependence). L66 **cites `[[selection-only-channel]]` as its authority in the same sentence**. Withdrawal landed `1ab6b8a5bf` **2026-08-03 05:36**; the nine-file sweep `9bacbc1dd0` ran **08:17 the same day**; this article was created `db39c72ecc` **2026-08-16 12:39** and deep-reviewed clean `7b5f0f46f2` at 13:52. This is a **post-sweep reintroduction**, not a stale survivor — nothing propagated to it because it did not exist. ✅ **Fix = mirror commit `e346d3cb` (the P-SC1 fix): do NOT delete the opacity conclusion.** Replace the **route**. Source wording verbatim from `positions/subject-census` **L47**: inaccessibility "may still hold, but on the weaker ground that the subject count is *latent* — an identification problem — rather than as a mathematical entailment, and that is a claim about what is hard to read off the data, not about what the data cannot in principle contain." Point L66 at the **census trilemma** (horns (a)/(b)/(c)) now in `positions/subject-census` L47 and at `apex/born-preserving-causal-efficacy`.
+
+  **(2) THE EQUIVOCATION — survives a fix that only repairs the citation, so do it explicitly.** L54–62 derive an **epistemic** result (*"the framework supplies no procedure for reading it"* — that is P-SC2, an unpaid debt). L66 spends a **metaphysical** one (*"No refinement of instruments closes that gap"*). The withdrawn Born inference is the only bridge. ✅ **The article already contains the correct formulation at L74** — *"no observation can be **shown** to settle the pairing fact"*, with evidence still moving credences. **Propagate L74 backwards into L66; do not write anything new.** Orthogonal to hedge density, which is why the anchoring audit never caught it.
+
+  **(3) THE OVER-CONCESSION — L90.** *"a framework whose commitments **guarantee that no test could discriminate** has earned nothing when no test discriminates."* Keep the discipline — it is the article's best sentence — but its **antecedent is now false at the register**: `e346d3cb` moved P-SC1 to discriminability `in-principle` (horn (a) leaves a conditional signature live) and P-Q3 to `indirect`. Corrected version: the fit is still explanatory rather than discriminating, but because the discriminating test has not been designed or run, **not** because the commitments forbid one.
+
+  **(4) TWO DOWNSTREAM RATIFIERS — cheap, both cite rather than derive.** `obsidian/apex/machine-question.md` **L213** (*"…no rule for reading, so the scale of any such catastrophe is not merely unknown but **unreadable in principle**"*) and `obsidian/topics/birch-edge-of-sentience-and-the-five-tier-scale.md` **L134** (*"…merely unbuilt for Birch … and **unreadable in principle** on the Map's own commitments"*). Both sentences hold the **correct** claim ("no rule for reading" / "merely unbuilt") and then overshoot. **Repair = stop at the debt; delete the escalation clause.** Note `machine-question` was already edited today (`1faeda8769`, 10:11) for a *different* "by construction" over-claim and L213 was not touched.
+
+  **(5) WHY THE 08-24 CONTROL GREP MISSED ALL THREE — do not re-derive, and do not reuse its key.** The sibling task's classified list (`methodology-and-calibration` L47/L50, `positions.md` L39, `writing-style` L544, `apex/research-programme-decisions` L98/L120) is **exactly** the output of `grep -rl "none-by-construction"`. That token is *calibration-band vocabulary* and appears nowhere in article prose, so it was structurally blind to the inference. ✅ **Sweep on the inference wording instead**, across `obsidian/` **and** `hugo/content/` **and** `archive/`: `unreadable in principle`, `undetectable in principle`, `indistinguishab.*by construction`, `two models differing`, `identical statistics`, `no test could discriminate`. That set was run for the review and returns only the three loci above in live content. ⚠️ `archive/voids/transition-void.md` L65 is a **Dennett Orwellian/Stalinesque** hit, **not** this defect — do not touch it.
+
+  **(6) MECHANISM-DEBT — cheap, length-light, add it.** `4c6599639` (today 12:54) rewrote the convention to lead with a **criterion**: any downstream article asserting consciousness "does causal work" and building a practical or normative conclusion on it inherits the debt. This article fits squarely — L56 asserts the selection law does causal work, L96–104 build normative conclusions (Birch, Sebo, AI-copy aggregation, organoids, animal scale) — and `grep -c "P-Q3\|mechanism-debt\|mechanism debt\|quantum-interface"` returns **0**. Deep-link the stable target `positions/quantum-interface#^mechanism-debt`.
+
+  ⚠️ **LENGTH — all three files are tight; edits must be neutral or subtractive.** `analyze_length`: `moral-census-opacity` 3427/3500 hard (**73 words of headroom**), `birch-edge` 3980/4000 (**20 words**), `machine-question` 5888/5000 already `hard_warning`. Re-measure with `tools.curate.length.analyze_length`, never `wc -w`. `ai_modified` from a live `date -u`; run `uv run python scripts/sync.py` and grep **both** trees — the Hugo mirrors carry all three loci.
+- **Review file**: `reviews/pessimistic-2026-08-24-moral-census-opacity`
+
+### P2: audit P-I3 — it has not been re-read since P-SC1's unreadability leg was withdrawn this morning, and its *Depends on* gloss still names the withdrawn relation
+
+- **Type**: positions-evolve
+- **File**: obsidian/positions/individuation-and-subjecthood.md
+- **Status**: pending
+- **Source**: `reviews/pessimistic-2026-08-24-moral-census-opacity` (Issue 7)
+- **Generated**: 2026-08-24
+- **Notes**: ⚠️ **AUDIT, NOT AN EDIT-FIRST TASK. "No change, gloss corrected" is a perfectly good and expected outcome — do not manufacture a band move.** P-I3 (`individuation-and-subjecthood` **L71–79**) carries `empirical discriminability none` and `Last reviewed: 2026-08-03`. Its *Depends on* line names P-SC1 with the gloss *"(which makes the unreadability a structural cost rather than a curiosity)"*. P-SC1's unreadability leg was **withdrawn** at 08:52 today (`e346d3cb`) and its band moved `none-by-construction` → `in-principle`. `git log` confirms P-I3's file was last touched `c4c37ea4a2` (08-21) for an **unrelated** P-I5 addition, so P-I3 has not been read since.
+
+  **Both directions are live — adjudicate, do not assume.** *Survives*: P-I3's claim is unreadability off **physical or functional organisation**, whereas P-SC1 horn (a) offers a signature in **conditional outcome statistics** whose identification P-SC1 itself says "needs an independent handle on each candidate subject's conscious state so the conditioning is not fixed by the hypothesis under test" — a signature readable only given a conscious-state handle is not a reading off physical organisation. *Moved*: `positions/positions.md` **L55** — rewritten today at 09:14 by `236a826f0`, whose entire purpose was fixing stale discriminability read-backs created by the P-SC1 fix — still counts P-I3 in the **none** bucket, and that count came from the same pass that moved P-SC1 out of it.
+
+  **Context**: each of the two register commits earlier today fixed exactly **one** stale dependent of the P-SC1 move (`positions.md` at 09:14, the domain preamble at 08:52). P-I3 is the third candidate and the only one whose *Asserts* text names the withdrawn relation. Minimum deliverable: a re-read, a corrected *Depends on* gloss if the withdrawal makes it inaccurate, and `Last reviewed` bumped. ⚠️ If the band **does** move, `positions/positions.md` L55's read-back counts must move with it — that read-back is the dependent that broke last time.
+- **Review file**: `reviews/pessimistic-2026-08-24-moral-census-opacity`
 
 ### P2: `tenets/tenets.md` is the last carrier of the retired "Against Many-Worlds" label, and its Tenet 4 rationale calls the indexical objection "load-bearing" without the concession the article now makes
 - **Type**: refine-draft

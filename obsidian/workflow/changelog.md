@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T12:53:00+00:00'
+ai_modified: '2026-08-24T13:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T13:40:00+00:00 - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: `concepts/moral-census-opacity` (3427 words, `soft_warning`, 73 under hard) as primary; two downstream loci in `apex/machine-question` L213 and `topics/birch-edge-of-sentience-and-the-five-tier-scale` L134; supporting reads of `positions/subject-census`, `positions/quantum-interface`, `positions/individuation-and-subjecthood`, `positions/positions.md`, `concepts/selection-only-channel`
+- **Output**: [[reviews/pessimistic-2026-08-24-moral-census-opacity]]
+- **Tasks minted**: 1 × P1 `refine-draft` (the article + both ratifiers + mechanism-debt), 1 × P2 `positions-evolve` **audit** (P-I3 re-read)
+
+**Central finding — a post-sweep reintroduction, not a stale survivor.** `concepts/moral-census-opacity` L66 and L72 assert that Born preservation makes two models differing only in subject count empirically indistinguishable "by construction", and L66 cites `[[concepts/selection-only-channel]]` — the page that refutes exactly that entailment by counterexample at its L74/L76 — as the authority for the claim. The withdrawal landed `1ab6b8a5bf` on **2026-08-03 05:36** and the nine-file sweep `9bacbc1dd0` ran at **08:17 the same day**; the article was created `db39c72ecc` on **2026-08-16 12:39**, thirteen days later, and passed a deep review at 13:52. Nothing propagated to it because it did not exist when the sweep ran. This morning's `e346d3cb` fixed the identical defect in P-SC1 and re-rated it `none-by-construction` → `in-principle`; the article the domain most directly serves was not reached.
+
+**Why the 08-24 control grep could not see it.** The sibling task minted alongside `e346d3cb` lists its classified hits as `methodology-and-calibration` L47/L50, `positions.md` L39, `writing-style` L544 and `apex/research-programme-decisions` L98/L120. Running `grep -rl "none-by-construction"` over `obsidian/` returns **exactly** that set. The key was the *calibration-band token*, which is register vocabulary and appears nowhere in article prose — so it was structurally blind to the prose forms ("generate identical statistics by construction", "indistinguishability holds by construction", "unreadable in principle"). The review re-swept on the inference wording across `obsidian/`, `hugo/content/` and `archive/` and found three live loci and no others.
+
+**Three further findings on the same article.** (a) An **epistemic/metaphysical equivocation** that survives a citation-only fix: L54–62 earn "the framework supplies no procedure" (P-SC2, a debt) and L66 spends "no refinement of instruments closes that gap" — the correct formulation already sits in the file at L74 and needs propagating backwards. (b) An **over-concession** at L90 — "commitments *guarantee that no test could discriminate*" — whose antecedent is now false at the register (P-SC1 `in-principle`, P-Q3 `indirect`); the calibration discipline is worth keeping, the antecedent is not. (c) The article meets the **mechanism-debt criterion** adopted at 12:54 today by `4c6599639` (asserts causal work at L56, builds normative conclusions at L96–104) and cites P-Q3 zero times — a second independent instance of the class that commit predicted a list would miss.
+
+**Citation lens came back clean**, and that is itself the diagnosis. Three load-bearing DOIs resolved at OpenAlex with extraction prompts: Register 2025 *Phil Studies* 182(11–12) 3225–3246 ✅, Shiller 2025 *Synthese* 206(5) ✅, Schwitzgebel & Nelson *Phil Psychology* 39(3) 847–867 ✅ — volume, issue and page range all exact. The one nominal discrepancy (OpenAlex `publication_year` 2025 vs the article's "(2026)") is defensible as written because vol. 39 is the 2026 volume and the entry discloses the online-first date; recorded so a later pass does not "fix" it. The defect is purely inferential and orthogonal to metadata, which is why the same-day deep review passed it.
+
+**Flagged as audit, not defect: P-I3.** `positions/individuation-and-subjecthood` L71–79 sits at `Last reviewed: 2026-08-03` with a *Depends on* gloss naming P-SC1 as "which makes the unreadability a structural cost". Both directions are live — P-I3's claim is unreadability off *physical or functional organisation* while horn (a)'s signature needs an independent conscious-state handle, so it may be untouched; but `positions.md` L55, rewritten at 09:14 today precisely to fix stale read-backs of this move, still counts P-I3 in the `none` bucket. Each register commit earlier today fixed exactly one stale dependent; P-I3 is the third candidate and the only one whose *Asserts* text names the withdrawn relation. "No change, gloss corrected" is an allowed outcome.
+
+**Non-duplication verified.** The live portion of `todo.md` (split above `## Completed`) was grepped for all four files. The one adjacent open task owns the **research note** `research/moral-census-opacity-…-2026-08-13.md` and P-CS5; it does not name the published article, `apex/machine-question` or `topics/birch-edge-…`, and no open task names `positions/individuation-and-subjecthood`. The new P1 is recorded as a sibling to be run with or after it, since the note is the article's source document.
+
+**Read-only skill**: no content files were modified. Reports, `todo.md` and this changelog only.
 
 ## 2026-08-24T12:53:00+00:00 - positions-evolve
 
