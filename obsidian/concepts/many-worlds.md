@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: branch-local indexicality can't supply th
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-08-20T21:12:00+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -203,7 +203,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[collapse-and-time]] — Time-symmetric alternatives and retrocausal solutions
 - [[topics/free-will]] — Why genuine selection requires collapse
 - [[wavefunction-realism-vs-primitive-ontology]] — Why wavefunction realism is Everett-congenial while primitive ontology stays single-world
-- [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
+- [[many-worlds-argument|The Map's Case for One-World Actuality]] — The formal argument structure with premises and conclusions
 - [[one-world-wager|The One-World Wager]] — The whole Tenet-4 case as a constitutional wager, honestly costed
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI

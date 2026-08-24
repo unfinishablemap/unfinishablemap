@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-08-18 23:38:03+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-08-17 00:02:12+00:00
 apex_sources:
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-08-18 23:38:03+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -237,7 +237,7 @@ This article draws together threads from across the Map into a single argumentat
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable. If this picture is correct, causal closure fails precisely at measurement, because measurement is where physics meets its complement.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the cumulative case.
+**[No Many Worlds](/tenets/#no-many-worlds)**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) for the cumulative case.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Denying consciousness any role in physics looks simpler, but purchases that simplicity by leaving the measurement problem and the hard problem unsolved where the reverse inference addresses them as one. That the two-aspect ontology buys explanatory economy is not thereby evidence it is true—the tenet binds parsimony arguments for the framework as tightly as those against it.
 

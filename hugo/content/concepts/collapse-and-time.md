@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-13 17:39:00+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 22:21:08+00:00
-lastmod: 2026-08-13 17:39:00+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ Jayaseelan et al. (2021) demonstrated experimentally that forward-to-backward tr
 
 Many-Worlds denies collapse entirely: the universal wavefunction evolves unitarily forever. MWI defenders argue temporal asymmetry emerges from branching structure, with self-locating uncertainty explaining temporal phenomenology.
 
-The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [Against Many-Worlds](/concepts/many-worlds/), MWI faces the indexical identity problem. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that consciousness makes *this* outcome actual, not merely observed.
+The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/), MWI faces the indexical identity problem. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that consciousness makes *this* outcome actual, not merely observed.
 
 ## Falsifiability and Predictions
 

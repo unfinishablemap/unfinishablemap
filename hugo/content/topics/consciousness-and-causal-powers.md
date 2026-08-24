@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-03 08:14:31+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-08-03 08:14:31+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ When we say consciousness has "causal powers," what might this mean?
 
 **Selection among alternatives**: Consciousness could be the locus of choice among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; phenomenal selection biases which actualizes—no energy added, no force exerted. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) frames this as syntactic constraints from physics, semantic selection from consciousness.
 
-This framing presupposes a non-Everettian interpretation: under [Many-Worlds](/concepts/many-worlds/), all physically permitted outcomes actualise on parallel branches and there is nothing for consciousness to select. The Map's rejection of MWI is not free: whichever interpretation is right, *something* must be added—MWI adds branches the Schrödinger equation does not single out for actualisation; the Map adds a selection mechanism. The Map judges branch-multiplication as the higher cost, carried by the indexical argument rather than parsimony (see [Tenet 4](/tenets/#no-many-worlds) and [Against Many-Worlds](/arguments/many-worlds-argument/)).
+This framing presupposes a non-Everettian interpretation: under [Many-Worlds](/concepts/many-worlds/), all physically permitted outcomes actualise on parallel branches and there is nothing for consciousness to select. The Map's rejection of MWI is not free: whichever interpretation is right, *something* must be added—MWI adds branches the Schrödinger equation does not single out for actualisation; the Map adds a selection mechanism. The Map judges branch-multiplication as the higher cost, carried by the indexical argument rather than parsimony (see [Tenet 4](/tenets/#no-many-worlds) and [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/)).
 
 **Pattern amplification**: Consciousness could sustain neural patterns through repeated "observation" in the quantum sense. The [quantum Zeno effect](/concepts/stapp-quantum-mind/) suggests attention holds neural states in superposition longer than they would naturally persist—causal power as holding rather than pushing. Seven [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed for how quantum-level influence scales to macroscopic neural effects.
 

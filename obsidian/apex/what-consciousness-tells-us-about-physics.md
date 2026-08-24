@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-08-18
 human_modified: null
-ai_modified: 2026-08-18T23:38:03+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 last_deep_review: 2026-07-20T01:22:52+00:00
 draft: false
 topics:
@@ -231,7 +231,7 @@ This article draws together threads from across the Map into a single argumentat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable. If this picture is correct, causal closure fails precisely at measurement, because measurement is where physics meets its complement.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [[many-worlds-argument|Against Many-Worlds]] for the cumulative case.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [[many-worlds-argument|The Map's Case for One-World Actuality]] for the cumulative case.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Denying consciousness any role in physics looks simpler, but purchases that simplicity by leaving the measurement problem and the hard problem unsolved where the reverse inference addresses them as one. That the two-aspect ontology buys explanatory economy is not thereby evidence it is true—the tenet binds parsimony arguments for the framework as tightly as those against it.
 

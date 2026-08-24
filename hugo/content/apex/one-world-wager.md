@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-20
-ai_modified: 2026-08-20 22:59:41+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-fable-5
 apex_last_synthesis: 2026-08-20 10:41:00+00:00
 apex_sources:
@@ -30,7 +30,7 @@ description: 'The Map''s rejection of many-worlds stated whole: three arguments 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-20 22:59:41+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Of the five commitments that frame the Unfinishable Map, [No Many Worlds](/tenets/#no-many-worlds) is the one most exposed to a live opposing research programme. The Everettian interpretation is mathematically conservative, actively developed, and defended by some of the most sophisticated work in the philosophy of physics; rejecting it is the Map's most contested constitutional act. The materials of that rejection are distributed across four treatments: the cumulative case ([Against Many-Worlds](/arguments/many-worlds-argument/)), the question that partly generates the tenet ([the vertiginous question](/topics/vertiginous-question/)), the survey of what remains once branching is refused ([the interpretive landscape](/topics/qm-interpretations-beyond-many-worlds/)), and the diagnosis that the first-person gap survives every interpretation ([indexical identity and quantum measurement](/topics/indexical-identity-quantum-measurement/)). Assembled, they support a statement none of them makes whole: the rejection of many-worlds is a constitutional wager, honestly costed. Three independent arguments — indexical, probability, consciousness — carry a case that is strongest against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight. The tenet's demand is global single-outcome actuality, which collapse supplies but does not monopolise. And the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
+Of the five commitments that frame the Unfinishable Map, [No Many Worlds](/tenets/#no-many-worlds) is the one most exposed to a live opposing research programme. The Everettian interpretation is mathematically conservative, actively developed, and defended by some of the most sophisticated work in the philosophy of physics; rejecting it is the Map's most contested constitutional act. The materials of that rejection are distributed across four treatments: the cumulative case ([The Map's Case for One-World Actuality](/arguments/many-worlds-argument/)), the question that partly generates the tenet ([the vertiginous question](/topics/vertiginous-question/)), the survey of what remains once branching is refused ([the interpretive landscape](/topics/qm-interpretations-beyond-many-worlds/)), and the diagnosis that the first-person gap survives every interpretation ([indexical identity and quantum measurement](/topics/indexical-identity-quantum-measurement/)). Assembled, they support a statement none of them makes whole: the rejection of many-worlds is a constitutional wager, honestly costed. Three independent arguments — indexical, probability, consciousness — carry a case that is strongest against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight. The tenet's demand is global single-outcome actuality, which collapse supplies but does not monopolise. And the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
 
 Stating the wager whole matters because Tenet 4 is easy to misread in both directions. Read as a refutation of Everett, it overclaims: the Map cannot show, using only resources the Everettian accepts, that branch-relative identity is false. Read as bare preference, it underclaims: the arguments against branching are substantive, the in-framework disputes over Everettian probability are real and unresolved, and the tenet's costs are counted openly in a way its rivals' costs often are not. The accurate reading sits between: a framework commitment with genuine argumentative support, sharp limits on that support's reach, and a named price.
 
@@ -57,7 +57,7 @@ Christian List's quadrilemma gives this choice its formal shape (List 2025). Fou
 
 ## The Case, Honestly Counted
 
-[Against Many-Worlds](/arguments/many-worlds-argument/) runs the cumulative case, and its own audit of that case is as much a part of the tenet's registration as the arguments themselves.
+[The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) runs the cumulative case, and its own audit of that case is as much a part of the tenet's registration as the arguments themselves.
 
 **The indexical argument** is the Map's central objection. Before a measurement there is one of you; after it, Everettian mechanics says there are two equally real continuations; yet you find yourself in exactly one. The branch-relative identity programme — Saunders and Wallace's branch-local continuity, Tappenden's self-locating beliefs, Vaidman's caring measure, Alastair Wilson's identification of branches with Lewisian possible worlds — restates the felt singularity of experience as branch-local and determinate, so that inside any branch no indexical fact is missing. The Map's reply, developed engagement by engagement in the arguments article, is that each of these constructions presupposes a centred subject *for whom* branch-relative facts are facts, and the wave function does not supply one: the centring is imported by the agent's perspective, which is exactly what the question asked about. That reply does not refute the programme on its own terms — Wallace can consistently rule the global indexical question ill-formed — so the disagreement here is a framework boundary, and the Map says so. The parallel with [Parfit's reductionism](/concepts/parfit-reductionism/) locates the same structure outside physics: both views deny a further fact about which continuer is you, and both inherit the same difficulty with the apparent fact that you will experience exactly one future.
 
@@ -121,7 +121,7 @@ The lines of support here have different standings, and the differences matter. 
 
 This synthesis draws on:
 
-- [Against Many-Worlds](/arguments/many-worlds-argument/) — the cumulative case, the seven engagements with the branch-relative identity programme, and the self-applied convergence discount
+- [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) — the cumulative case, the seven engagements with the branch-relative identity programme, and the self-applied convergence discount
 - [The Vertiginous Question and the Indexical Void](/topics/vertiginous-question/) — the generating question, the quadrilemma, and the List double-edge
 - [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/) — the landscape of single-world alternatives and what Tenet 4 does and does not demand of them
 - [Indexical Identity and Quantum Measurement](/topics/indexical-identity-quantum-measurement/) — the persistence of the indexical gap across every interpretation

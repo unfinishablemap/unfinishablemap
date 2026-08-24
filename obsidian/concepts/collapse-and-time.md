@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry. If consciousn
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-08-13T17:39:00+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ Jayaseelan et al. (2021) demonstrated experimentally that forward-to-backward tr
 
 Many-Worlds denies collapse entirely: the universal wavefunction evolves unitarily forever. MWI defenders argue temporal asymmetry emerges from branching structure, with self-locating uncertainty explaining temporal phenomenology.
 
-The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [[many-worlds|Against Many-Worlds]], MWI faces the indexical identity problem. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that consciousness makes *this* outcome actual, not merely observed.
+The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [[arguments/many-worlds-argument|The Map's Case for One-World Actuality]], MWI faces the indexical identity problem. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that consciousness makes *this* outcome actual, not merely observed.
 
 ## Falsifiability and Predictions
 

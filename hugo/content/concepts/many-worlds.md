@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-20 21:12:00+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 21:12:00+00:00
-lastmod: 2026-08-20 21:12:00+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[one-world-wager]]'
@@ -207,7 +207,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives and retrocausal solutions
 - [free-will](/topics/free-will/) — Why genuine selection requires collapse
 - [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) — Why wavefunction realism is Everett-congenial while primitive ontology stays single-world
-- [Against Many-Worlds](/arguments/many-worlds-argument/) — The formal argument structure with premises and conclusions
+- [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) — The formal argument structure with premises and conclusions
 - [The One-World Wager](/apex/one-world-wager/) — The whole Tenet-4 case as a constitutional wager, honestly costed
 - [tenets](/tenets/) — The foundational commitment against MWI
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI

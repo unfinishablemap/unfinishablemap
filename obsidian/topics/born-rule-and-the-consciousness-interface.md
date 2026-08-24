@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-08-01T22:18:22+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -226,7 +226,7 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 - [[local-tomography-and-the-consciousness-physics-interface]] — The other axiom whose failure would reopen the Born constraint at the interface
 - [[quantum-probability-consciousness]] — The Born rule as interface structure
 - [[probability-problem-in-many-worlds]] — The Born rule gap at its widest
-- [[many-worlds-argument|Against Many-Worlds]] — Cumulative case against MWI
+- [[many-worlds-argument|The Map's Case for One-World Actuality]] — Cumulative case against MWI
 - [[completeness-in-physics-under-dualism]] — Structural vs ontological completeness
 - [[trumping-preemption]] / [[delegatory-causation]] — Authority-without-trajectory-change alternative
 - [[wavefunction-realism-vs-primitive-ontology]] — What the interface would select *among*: structure in `3N`-space versus local beables in 3D

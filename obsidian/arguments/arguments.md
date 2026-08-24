@@ -4,7 +4,7 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-08-09T00:09:55+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,9 +44,9 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 
 **Discussion:** [[interactionist-dualism]]
 
-### Against Many-Worlds
+### The Map's Case for One-World Actuality
 
-The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the Map's framework.
+The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page presses three arguments against branch-egalitarian versions and marks where the residual disagreement with sophisticated Everettian variants is a framework-boundary commitment rather than a demonstrated defeat.
 
 **Key claims:**
 - The indexical problem (load-bearing): personal identity becomes incoherent across branches
@@ -54,7 +54,7 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 - Ontological extravagance is a registered cost, not a decisive objection—having disowned parsimony under [[tenets#^occams-limits|Tenet 5]], the Map cannot wield ontological economy as a knockdown argument
 
-**Discussion:** [[many-worlds-argument|Against Many-Worlds]], [[concepts/many-worlds|The Many-Worlds Interpretation]]
+**Discussion:** [[many-worlds-argument|The Map's Case for One-World Actuality]], [[concepts/many-worlds|The Many-Worlds Interpretation]]
 
 ### Against Epiphenomenalism
 

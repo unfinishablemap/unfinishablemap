@@ -39,14 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `positions/positions.md`'s discriminability read-back now states wrong counts and argues from them — a stale dependent created by the 2026-08-24 P-SC1/P-Q3 fix itself
-- **Type**: positions-evolve
-- **File**: obsidian/positions/positions.md
-- **Status**: pending
-- **Source**: cascade from commit `e346d3cb` (the P-SC1 census-trilemma fix)
-- **Generated**: 2026-08-24
-- **Notes**: ⚠️ **THIS IS SELF-INFLICTED AND IT IS THE EXACT PATHOLOGY THE 2026-08-24 CYCLE CONVERGED ON 3-of-3** — *"a correction that lands in one place and never binds anywhere else"* (see `reviews/outer-review-synthesis-2026-08-24.md`). The P-SC1/P-Q3 fix moved two bands and its own index page was not updated, reproducing the defect one node over, in the same hour. Record that irony in the edit; it is the cleanest live instance the register has. **The stale section** is `positions/positions.md` §"What the discriminability axis reads back". Counts **re-parsed from the domain files by the executing fork** after the fix: direct 4 · indirect **20** · in-principle **1** · none 7 · none-by-construction **3** · n/a 19. The section currently says indirect 19 · in-principle 0 · none-by-construction 5. ⚠️ **RE-PARSE THESE YOURSELF BEFORE EDITING — do not copy the figures from this note** (section-cap-counting-claude-md-path-is-wrong shape: a quoted count goes stale between mint and execution). **THIS IS A REWRITE OF AN ARGUMENT, NOT A FIGURE PATCH.** The analytical paragraph counts **twelve** inert positions ("a little over a fifth") of which **seven** are high-centrality; on the corrected parse it is **ten** (just under a fifth) and **five**. The prose conclusion drawn from those numbers has to move with them or be restated — check whether "a little over a fifth" was load-bearing for the surrounding claim before simply swapping the numeral. Retire-don't-delete; add an **Updated 2026-08-24** history note; `ai_modified` from a live `date -u`; `uv run python scripts/sync.py` and grep **both** trees.
-
 ### P2: the refuted Born-preservation entailment is still live in a research note written ten days AFTER the withdrawal, plus a band-vocabulary mismatch on P-CS5
 - **Type**: refine-draft
 - **File**: obsidian/research/moral-census-opacity-why-the-framework-cannot-count-moral-patients-2026-08-13.md
@@ -3162,6 +3154,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-24: `positions/positions.md`'s discriminability read-back now states wrong counts and argues from them — a stale dependent created by the 2026-08-24 P-SC1/P-Q3 fix itself
+- **Type**: positions-evolve
+- **File**: obsidian/positions/positions.md
+- **Notes**: ⚠️ **THIS IS SELF-INFLICTED AND IT IS THE EXACT PATHOLOGY THE 2026-08-24 CYCLE CONVERGED ON 3-of-3** — *"a correction that lands in one place and never binds anywhere else"* (see `reviews/outer-review-synthesis-2026-08-24.md`). The P-SC1/P-Q3 fix moved two bands and its own index page was not updated, reproducing the defect one node over, in the same hour. Record that irony in the edit; it is the cleanest live instance the register has. **The stale section** is `positions/positions.md` §"What the discriminability axis reads back". Counts **re-parsed from the domain files by the executing fork** after the fix: direct 4 · indirect **20** · in-principle **1** · none 7 · none-by-construction **3** · n/a 19. The section currently says indirect 19 · in-principle 0 · none-by-construction 5. ⚠️ **RE-PARSE THESE YOURSELF BEFORE EDITING — do not copy the figures from this note** (section-cap-counting-claude-md-path-is-wrong shape: a quoted count goes stale between mint and execution). **THIS IS A REWRITE OF AN ARGUMENT, NOT A FIGURE PATCH.** The analytical paragraph counts **twelve** inert positions ("a little over a fifth") of which **seven** are high-centrality; on the corrected parse it is **ten** (just under a fifth) and **five**. The prose conclusion drawn from those numbers has to move with them or be restated — check whether "a little over a fifth" was load-bearing for the surrounding claim before simply swapping the numeral. Retire-don't-delete; add an **Updated 2026-08-24** history note; `ai_modified` from a live `date -u`; `uv run python scripts/sync.py` and grep **both** trees.
 
 ### ✓ 2026-08-24: `positions/subject-census` P-SC1 infers census-invisibility from Born preservation — the exact inference `concepts/selection-only-channel` had withdrawn as invalid 57 minutes earlier, the same morning
 - **Type**: positions-evolve

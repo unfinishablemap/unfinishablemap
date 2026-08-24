@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-26 03:20:58+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 00:00:00+00:00
-lastmod: 2026-05-26 03:20:58+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -192,7 +192,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why the Map favours single-outcome interpretations
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why probability requires consciousness yet consciousness fails at probability
-- [Against Many-Worlds](/arguments/many-worlds-argument/) — The formal cumulative case against MWI
+- [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) — The formal cumulative case against MWI
 - [measurement-problem](/concepts/measurement-problem/) — Where quantum indeterminacy meets observation
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for digital consciousness
 - [haecceity](/concepts/haecceity/) — The indexical identity problem that simulation resolves

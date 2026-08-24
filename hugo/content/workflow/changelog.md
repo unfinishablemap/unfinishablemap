@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T09:12:00+00:00'
+ai_modified: '2026-08-24T09:21:07+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 09:12:00+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T09:21:07+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Defect**: label-vs-content drift, 2-of-3 outer-review convergence (ChatGPT §II.5). The body already concedes that sophisticated branch-relative and first-personally centred Everettian variants "are not refuted on their own terms" and that the residual disagreement is a framework-boundary commitment to global exclusion — but the title, lede and index labels still sold it as an argued defeat. The navigation-surfaces-carry-unreviewed-claims shape: the label asserts what the body has stopped claiming.
+- **Title**: `"Against Many-Worlds"` → `"The Map's Case for One-World Actuality"` (reviewer's suggestion, adopted verbatim). **Slug and filename unchanged** — `arguments/many-worlds-argument` is externally linked and archival policy preserves URLs; renaming would have caused link rot plus a duplicate Hugo file.
+- **Description** rewritten to name the boundary commitment (159 chars).
+- **Lede** rewritten: now states the case is cumulative, that three arguments press hard on branch-egalitarian Everettianism, and that against the centred variants what remains is a commitment the tenet asserts rather than derives. This was the reviewer's second-named surface after the title.
+- **Length discipline**: the file opened at 3880 words against a 3500 hard ceiling (open NEEDS-HUMAN length decision), so the pass was constrained to length-neutral-or-reducing. The lede expansion was paid for by trimming two spans of genuine restatement — the closing sentence of "A Non-Decisive Cost" and the closing sentence of "The Cumulative Case", both of which restated the Tenet-5 parsimony point already made three other times in the article (§147-153, the table row, and Relation to Site Perspective). **Final: 3880 words — exactly neutral.** The length decision was *not* resolved here and the argument was not condensed to make room.
+- **Deliberately not added**: the (a)/(b)/(c) reframing paragraph, the List 2023 adjudication (belongs to the sibling P1 on [vertiginous-question](/topics/vertiginous-question/)), and a Wilson 2020 section (Gemini's "Wilson is omitted" charge was refuted — he is engaged in four content files on precisely the counterpart-theoretic reply claimed missing). All three were length-blocked.
+- **Inbound labels rewritten (13 loci in 10 files)** — a title-only fix would have stranded these carrying the retired claim (fix-by-file-leaves-string-siblings-live). The driver's brief enumerated 6; an independent corpus sweep found 13:
+  - [one-world-wager](/apex/one-world-wager/) L38, L52, L116 (L38 not in the brief)
+  - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) L234 · [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) L203 · [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) L137 · [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) L66 — none in the brief
+  - [simulation](/concepts/simulation/) L191 · [many-worlds](/concepts/many-worlds/) L206 · [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) L229 · [arguments](/arguments/) L57
+  - [arguments](/arguments/) L47 — the `### Against Many-Worlds` **section heading**, the strongest inbound label. Checked first: **zero references to `#against-many-worlds` anywhere in either tree**, so changing it breaks no anchor. Its section prose (L49) also claimed MWI "fails on multiple fronts" and was rewritten to match the body's actual position.
+- **Bonus fix — stale pre-rename wikilink.** [collapse-and-time](/concepts/collapse-and-time/) L117 read `[[many-worlds|Against Many-Worlds]]`: the label named *this* article but the target resolved to the **concept page**, a survival of the rename the archive stub records. Repointed to `arguments/many-worlds-argument` and relabelled.
+- **Not edited, by instruction**: `hugo/content/archive/arguments/many-worlds.md` (archived redirect stub recording the old name — rewriting history there is wrong) and `obsidian/reviews/*` (dated artefacts recording what the article was called at review time).
+- **⚠️ FINDING FOR FOLLOW-UP — [tenets](/tenets/) L117 and L119.** Both carry the alias label `[[many-worlds-argument|Against Many-Worlds]]`, so they are label surfaces and not merely rationale prose as the brief characterised them. Left untouched per the explicit out-of-scope instruction. The reviewer's charge that the tenet rationale also encourages the defeat reading is *sustained on inspection*: L117 calls the indexical objection "the load-bearing argument" without the article's own concession that it is decisive only against branch-egalitarian variants. Needs a `refine-draft` on `tenets/tenets.md` — a constitutional document, so probably an operator call.
+- **Frontmatter**: `ai_modified` bumped to a live `date -u` value on all 11 edited files. `ai_system` held (a retitle is not re-authoring); `last_deep_review` and `ai_contribution` untouched.
+- **Synced**; both trees verified — new label present in 11 Hugo files, zero residual "Against Many-Worlds" outside `archive/`, `reviews/`, `workflow/` and the two deliberate `tenets.md` loci. Slug confirmed unchanged.
+- **Published**: yes
 
 ## 2026-08-24T09:12:00+00:00 - positions-evolve
 

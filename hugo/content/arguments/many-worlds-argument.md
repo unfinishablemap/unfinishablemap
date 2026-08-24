@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-20 10:41:00+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -17,13 +17,14 @@ concepts:
 - '[[introspection]]'
 created: 2026-01-15
 date: &id001 2026-08-19
-description: 'A cumulative philosophical case against many-worlds: indexical identity,
-  probability, preferred basis, and what branch-splitting means for consciousness.'
+description: 'The Map''s cumulative case for one-world actuality: indexical identity,
+  probability, and where disagreement with Everett is a boundary commitment, not a
+  defeat.'
 draft: false
 human_modified: null
 last_curated: 2026-05-10
 last_deep_review: 2026-07-19 13:13:14+00:00
-lastmod: 2026-08-20 10:41:00+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,12 +35,12 @@ related_articles:
 - '[[direct-refutation-discipline]]'
 - '[[evidential-status-discipline]]'
 - '[[reviews/outer-review-synthesis-2026-05-10]]'
-title: Against Many-Worlds
+title: The Map's Case for One-World Actuality
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly rejects this interpretation. This article presents the arguments why.
+The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects it, and this article sets out the Map's case for one-world actuality. Three arguments press hard on branch-egalitarian Everettianism. Against the sophisticated branch-relative and first-personally centred variants, which are not refuted on their own terms, what remains is a framework-boundary commitment to global exclusion that the tenet asserts rather than derives. The case is cumulative, not a demonstrated defeat.
 
 ## The Interpretation
 
@@ -155,7 +156,7 @@ Many-worlds posits that every quantum event spawns new branches, their number gr
 
 It is tempting to convert this into a parsimony argument—reject a theory postulating vastly more than can ever be observed on grounds of economy. The Map withholds that move. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet commits it to distrusting parsimony as a decisive guide under incomplete knowledge; having disavowed parsimony as a final court, it cannot turn around and wield ontological economy as a knockdown argument.
 
-So the honest accounting is that many-worlds' ever-multiplying ontology is a real cost and a reason for discomfort, but not where the case against MWI rests—that rests on the indexical, probability, and consciousness arguments above, which the Map can press without leaning on a parsimony it disowns.
+The proliferating ontology is a real cost and a reason for discomfort, but not where the Map's case rests.
 
 ## The Illusionist Challenge
 
@@ -171,7 +172,7 @@ So the honest accounting is that many-worlds' ever-multiplying ontology is a rea
 | Consciousness Unaddressed | The hard problem remains; unity of experience is unexplained |
 | Ontological Extravagance (non-decisive) | A genuine cost—but one the Map cannot press as decisive given [Tenet 5](/tenets/#occams-limits) |
 
-The indexical and consciousness arguments challenge the coherence of the many-worlds picture—the indexical one decisively for branch-egalitarian variants, and for List's centred variant only alongside the separate rejection of modal realism; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent load-bearing arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied. Ontological extravagance is non-decisive: a cost MWI pays, but one the Map cannot rest its rejection on, having disavowed parsimony (Tenet 5).
+The indexical and consciousness arguments challenge the coherence of the many-worlds picture—the indexical one decisively for branch-egalitarian variants, and for List's centred variant only alongside the separate rejection of modal realism; the probability argument challenges its technical adequacy. The preferred-basis argument is not fully independent: once einselection is granted to both sides—as the Map's own selection programme requires—its force reduces to Argument 1's demand for genuine collapse. The honest count is therefore arguably three independent load-bearing arguments rather than four—the same convergence-discount the Map applies to [convergent cases](/topics/the-convergence-argument-for-dualism/) elsewhere, self-applied.
 
 ## Alternatives the Map Prefers
 

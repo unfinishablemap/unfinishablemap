@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-08-01 22:18:22+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-08-01 22:18:22+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -232,7 +232,7 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 - [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/) — The other axiom whose failure would reopen the Born constraint at the interface
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Born rule as interface structure
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The Born rule gap at its widest
-- [Against Many-Worlds](/arguments/many-worlds-argument/) — Cumulative case against MWI
+- [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) — Cumulative case against MWI
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) — Structural vs ontological completeness
 - [trumping-preemption](/concepts/trumping-preemption/) / [delegatory-causation](/concepts/delegatory-causation/) — Authority-without-trajectory-change alternative
 - [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) — What the interface would select *among*: structure in `3N`-space versus local beables in 3D

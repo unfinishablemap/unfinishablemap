@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T03:20:58+00:00
+ai_modified: 2026-08-24T09:21:07+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -188,7 +188,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [[quantum-consciousness]] — Mechanisms for consciousness-physics interaction
 - [[quantum-interpretations]] — Why the Map favours single-outcome interpretations
 - [[consciousness-and-probability-interpretation]] — Why probability requires consciousness yet consciousness fails at probability
-- [[many-worlds-argument|Against Many-Worlds]] — The formal cumulative case against MWI
+- [[many-worlds-argument|The Map's Case for One-World Actuality]] — The formal cumulative case against MWI
 - [[measurement-problem]] — Where quantum indeterminacy meets observation
 - [[ai-consciousness]] — Implications for digital consciousness
 - [[haecceity]] — The indexical identity problem that simulation resolves

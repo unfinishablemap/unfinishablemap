@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-08-02 17:00:05+00:00
+ai_modified: 2026-08-24 09:21:07+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:00:49+00:00
-lastmod: 2026-08-02 17:00:05+00:00
+lastmod: 2026-08-24 09:21:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ The Unfinishable Map rejects this premise. The [Minimal Quantum Interaction](/te
 
 The framework escapes because it denies step 2 of the pattern. Physical events do *not* always have sufficient physical causes. Kim's exclusion argument does not apply where physics is incomplete—there is no physical cause to exclude the mental one. Bradford Saad's [causal delegation](/concepts/delegatory-causation/) provides the complementary structural account: the physical state retains the *capacity* to cause the effect but does not exercise it, because the experience has taken over through [preemption](/concepts/delegatory-causation/). The [agent-causal framework](/concepts/agent-causation/) strengthens this: consciousness exercises causal powers at quantum openings through a mode of causation that is irreducibly agentive, not event-causal.
 
-This escape depends on a collapse interpretation. Under [many-worlds](/tenets/#no-many-worlds), every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the full argument.
+This escape depends on a collapse interpretation. Under [many-worlds](/tenets/#no-many-worlds), every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) for the full argument.
 
 The escape generates a subtler internal worry that does not appear in the classical gravity well. If consciousness selects single quantum outcomes while preserving Born statistics over any ensemble, its influence leaves no statistical trace at the aggregate level—raising the question of whether single-event efficacy that washes out in aggregate is genuine causal work or only token-level authorship of a distribution physics already fixes. This is [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/): token-interactionist but threatening to be type-epiphenomenal, a finer challenge internal to interactionism rather than a rival to it, and arguably the sharpest open question the corridor reading faces—logged in the positions register as the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt) (P-Q3), held open rather than resolved.
 
