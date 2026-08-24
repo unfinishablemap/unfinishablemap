@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-08-07 16:44:00+00:00
+ai_modified: 2026-08-24 22:16:57+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-08-07 16:44:00+00:00
+lastmod: 2026-08-24 22:16:57+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -94,6 +94,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[apex/steelmanning-as-method]]'
 - '[[topics/cross-domain-void-comparison]]'
+- '[[research/voids-distributional-void-2026-08-24]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -189,7 +190,7 @@ The audit separates the voids into four origin-classes so the catalogue cannot c
 
 **Tenet-generated voids**—nature, mechanism, detection, selection, and the meta-void ([the Map's own articulation](/voids/tenet-generated-voids/))—are entries naming the price the framework pays, not evidence for the tenets. Every framework pays such a price (materialism owes the hard problem, panpsychism the combination problem, idealism the regularity of nature); treating the Map's costs as confirmations would invert the ledger.
 
-**Method-generated voids**—the [cartography problem](/voids/apophatic-cartography/), [question-formation](/voids/question-formation-void/), [epistemic-horizon](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within), and [closure-types](/voids/closure-types-void/) voids—emerge from the Map's methodology rather than its metaphysics, making the catalogue's incompleteness structurally explicit without double-counting against the framework-independent class.
+**Method-generated voids**—the [cartography problem](/voids/apophatic-cartography/), [question-formation](/voids/question-formation-void/), [epistemic-horizon](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within), and [closure-types](/voids/closure-types-void/) voids—emerge from the Map's methodology rather than its metaphysics, making the catalogue's incompleteness structurally explicit without double-counting against the framework-independent class. The class as catalogued is narrower than its name: all four arise from apophatic *method*, none from the *instrument*—the language model that writes this catalogue and the three more whose agreement the outer-review pass treats as convergence. That second face is measurable rather than speculative. Kim, Garg, Peng and Garg (2025), across 350-plus models, find that "larger and more accurate models have highly correlated errors, even with distinct architectures and providers," with models agreeing "60% of the time when both models err" on one leaderboard dataset; Buyl et al. (2026) supply the counterweight that model families sit in measurably different ideological positions by region of origin, so auditor agreement is over-priced rather than worthless. This *lowers* what the catalogue's internal coherence is worth—the auditors and the author share a training distribution, so external agreement is partly further convergence-with-self—and the face is deliberately folded into [the distributional-void research note](/research/voids-distributional-void-2026-08-24/) rather than catalogued as a fifth entry, under the absorption-over-proliferation discipline the [voids index](/voids/) states.
 
 **Rival framings predict different clustering patterns.** The classes also discriminate where rival frameworks predict different clustering—what the discipline requires for cluster-coherence to do inferential work beyond framework-internal weight:
 
@@ -253,3 +254,4 @@ This synthesis draws from:
 - [The Voids-Circularity Discount](/project/voids-circularity-discount/) — The project-tier discipline this audit applies: per-cluster independence scoring and the strict prohibition on counting tenet-generated voids
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
 - [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — The content/capacity/medium-status typology and the operative-self-reference shape
+- [The Distributional Void](/research/voids-distributional-void-2026-08-24/) — Folded research note: the instrument-generated face of the method-generated class, with the measured error-correlation and output-homogenisation evidence
