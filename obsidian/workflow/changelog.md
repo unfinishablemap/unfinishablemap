@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T01:24:28+00:00'
+ai_modified: '2026-08-24T02:31:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T02:31:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Scope**: coordinated two-task pass closing two of the three open P1s on this file (lede/entailment demotion; positions-register calibration inheritance). The third P1 — the 2012-stopping bibliography and the four missing rival traditions — was deliberately left untouched, as were the two spans it owns (the Sandel "sharpens" co-optation and the Savulescu "under materialism" interpolation).
+- **Length**: 2577 → 2999 → 2999 words (topics soft 3000 / hard 4000, status ok). The two fixes added ~600 words of calibration and were paid for by trimming ~180 words of restatement across the interface, responsibility, equity and falsifier sections, so the sibling literature task still has its headroom.
+- **Task A — lede demotion.** Replaced "This distinction transforms the ethical landscape" and the matching `description:` frontmatter with the claim the body supports: the reframing changes the *description* of enhancement more than the verdicts, and yields one dualism-specific, speculative failure mode (performance up, interface contribution to authorship down). New section "Which Premise Is Doing the Work" runs ChatGPT's counterfactual separation test explicitly. **The test was run and reported as failing**, per the brief's instruction not to manufacture a passing case: the strongest candidate — the BCI-bypass case — does not cleanly pass, because the Map's own Born-preservation commitment (P-Q2) makes the difference unobservable by construction, so dualism supplies a risk hypothesis and a reason for precaution rather than a divergent verdict. Consent's asserted "sharpening" replaced with the honest comparison (a constitutive physicalist has at least as strong a ground); "the stakes feel different" replaced by naming the difference and the missing bridge principle.
+- **Task B — register citations.** `grep -c "positions/"` went 0 → 8. Tenet 1 summary no longer claims dualism "preserves personal identity" (now routed through P-I1 with the P-SC2 pairing debt); Tenet 3 "ensures … genuinely free" → conditional, with P-A5's compatibilist-symmetry concession stated; Tenet 2 no longer imports spatial locality the register does not license; Tenet 5 turned both ways. The "practical ethical imperative" demoted to a conditional risk hypothesis inheriting the mechanism debt (P-Q3, P-Q10, coherence-only citation grade). P-VS3 cited at point of use where "narrows conscious agency" becomes "a net loss"; P-MS1 cited where equity rests on equal standing.
+- **Shared loci**: the metaphysical-to-normative slide fixed (numerical persistence is not itself an ethical good — the value premise is now named as a premise); the "stronger foundation than materialism" comparison narrowed to a difference in route after the animalist counter-example; BCI plasticity neutrality caveat propagated; "permanently forecloses" → durable, region-specific, high-barrier-not-sealed-door, matching `consciousness-interface-development` L61; creative-channel claim marked as the Map's reading rather than a finding; self-report falsifier reclassified as evidence of phenomenological rather than numerical discontinuity, which the identity fix required for consistency.
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): engagement with the physicalist/compatibilist — Mode Three throughout, framework-boundary marking. The pass deliberately *removes* claims that were reading as in-framework refutations (consent "sharpening", Tenet 3 "ensures") rather than upgrading them, since no in-framework argument was available. Engagement with the Everettian at Tenet 4 left untouched — both reviewers rated it exemplary.
+- **Hygiene**: `ai_system` held (calibration and citation work, not re-authoring); `ai_contribution` unchanged at 100; `ai_modified` stamped from live `date -u`. Synced; both trees grep clean on all ten retired spans and carry all 8 register citations.
+- **Published**: yes
 
 ## 2026-08-24T01:24:28+00:00 - combine-outer-reviews
 
