@@ -1,5 +1,9 @@
-last_updated: '2026-08-23T23:35:54.799641+00:00'
-session_count: 19521
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-23T23:59:03.890569+00:00'
+session_count: 19522
 cycle_position: 12904
 last_runs:
   add-highlight: '2026-08-23T20:49:45.191018+00:00'
@@ -31,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-22T23:05:15.876103+00:00'
   positions-evolve: '2026-08-22T15:46:48.538861+00:00'
   refine-draft: '2026-08-23T23:22:14.262515+00:00'
-  replenish-queue: '2026-08-23T02:26:47.475945+00:00'
+  replenish-queue: '2026-08-23T23:59:03.890569+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-22T07:35:21.603912+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -112,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-23'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-23'
@@ -190,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-23'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-23'
   outcome: success
 agentic_social:
@@ -824,42 +828,50 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-23T23:53:30+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'THREE GENUINE MINTS, ZERO PROMOTIONS - the six-run promotion-only streak (runs
-    998-1003) ends because a real chain source opened. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE
-    3; post-count re-measured from disk == 4. All three mints are refine-draft discharges of already-paid-for
-    research at ZERO section-cap cost, which matters because caps are the binding constraint: count_section_files
-    this run reads topics 320/320 AT CAP, concepts 318/320, voids 99/100, positions 16/80. SOURCE: three
-    research notes dated 2026-08-22 whose successor tasks were never minted. Each was resolved against
-    the live corpus with a positive control before minting rather than on a bare zero. (1) research/voids-reafference-void-2026-08-22
-    self-declares FOLD, not a standalone article, supplies a finished distribution plan, and explicitly
-    declines the contested final voids slot; the string reafferen returns 0 hits across obsidian excluding
-    research, workflow and reviews, so nothing landed, and the host voids/predictive-construction-void
-    returns 0 hits for efference, corollary, attenuat, comparator and exafferen, so the material is new
-    rather than duplicated. Host measured 2498w against the voids 3000 hard gate, 502 words of headroom,
-    reproducing the note''s own figure exactly. Minted P2. (2) research/sleep-onset-literature-2020s-hypnagogia-2026-08-22
-    and research/dendritic-integration-theory-2026-08-22 independently target the SAME host, topics/hypnagogic-phenomenology-and-interface-modulation,
-    and independently measured the SAME obstruction: 3893w against the topics 4000 hard gate, 107 words.
-    Minted as ONE condense-and-insert P2 rather than two tasks, to avoid same-file pileup and a duplicate
-    condense pass. IMPORTANT NEGATIVE RESULT recorded so the executor does not redo it: the sleep-onset
-    note is already two-thirds consumed - the Hori nine-stage count is ALREADY CORRECT at L84 and the
-    failed Loewe et al. 2025 replication ALREADY LANDED at L88 with its reference at L198; only Decat
-    et al. 2026 is outstanding, at 0 hits. Minting the whole note would have been an over-mint. (3) The
-    DIT note flags voids/perceptual-reality-monitoring-void L94 as attaching the apical-amplification
-    label to the dendritic-integration naming paper - two distinct circuit-level frameworks with separate
-    canonical texts. Locus quoted from disk, host measured 2269w against 3000, 731 words of headroom.
-    Minted P3, with an explicit instruction to verify the lineage at primary texts before editing rather
-    than trusting the note, since the cited work is a third paper distinct from both canonical texts and
-    the note itself notes Larkum sits in the acknowledgements rather than the byline. SOURCES MEASURED
-    AND DECLINED: length_analysis yields 144 warnings but every content-article offender is either vetoed
-    with a veto tag, carries an open NEEDS-HUMAN length-decision entry, or is a research note rather than
-    site content, so there is no clean mintable target; staleness and gap_analysis produced nothing above
-    the noise floor; orphaned_files is 0. NOT MINTED, DELIBERATELY: the DIT note''s own first-choice verdict
-    is a standalone concepts/ article, but concepts/ has two slots and six open research-topic tasks contest
-    them, so spending one is an operator decision on the notation-void precedent. Rather than add a 69th
-    NEEDS-HUMAN entry, that decision and the zero-cost alternative host, concepts/biological-computationalism
-    at 2273/3500 with 1227 words of headroom, are recorded inside the P3 task''s notes. Backlog context
-    unchanged and still the real problem: 62 active tasks parse, of which the overwhelming majority are
-    P3 and starved.'
+  last_replenishment_note: 'THREE GENUINE MINTS, ZERO PROMOTIONS - the six-run promotion-only
+    streak (runs 998-1003) ends because a real chain source opened. Pre-count count_p0_p2_tasks
+    == 2 against MIN_QUEUE 3; post-count re-measured from disk == 4. All three mints
+    are refine-draft discharges of already-paid-for research at ZERO section-cap cost,
+    which matters because caps are the binding constraint: count_section_files this
+    run reads topics 320/320 AT CAP, concepts 318/320, voids 99/100, positions 16/80.
+    SOURCE: three research notes dated 2026-08-22 whose successor tasks were never
+    minted. Each was resolved against the live corpus with a positive control before
+    minting rather than on a bare zero. (1) research/voids-reafference-void-2026-08-22
+    self-declares FOLD, not a standalone article, supplies a finished distribution
+    plan, and explicitly declines the contested final voids slot; the string reafferen
+    returns 0 hits across obsidian excluding research, workflow and reviews, so nothing
+    landed, and the host voids/predictive-construction-void returns 0 hits for efference,
+    corollary, attenuat, comparator and exafferen, so the material is new rather than
+    duplicated. Host measured 2498w against the voids 3000 hard gate, 502 words of
+    headroom, reproducing the note''s own figure exactly. Minted P2. (2) research/sleep-onset-literature-2020s-hypnagogia-2026-08-22
+    and research/dendritic-integration-theory-2026-08-22 independently target the
+    SAME host, topics/hypnagogic-phenomenology-and-interface-modulation, and independently
+    measured the SAME obstruction: 3893w against the topics 4000 hard gate, 107 words.
+    Minted as ONE condense-and-insert P2 rather than two tasks, to avoid same-file
+    pileup and a duplicate condense pass. IMPORTANT NEGATIVE RESULT recorded so the
+    executor does not redo it: the sleep-onset note is already two-thirds consumed
+    - the Hori nine-stage count is ALREADY CORRECT at L84 and the failed Loewe et
+    al. 2025 replication ALREADY LANDED at L88 with its reference at L198; only Decat
+    et al. 2026 is outstanding, at 0 hits. Minting the whole note would have been
+    an over-mint. (3) The DIT note flags voids/perceptual-reality-monitoring-void
+    L94 as attaching the apical-amplification label to the dendritic-integration naming
+    paper - two distinct circuit-level frameworks with separate canonical texts. Locus
+    quoted from disk, host measured 2269w against 3000, 731 words of headroom. Minted
+    P3, with an explicit instruction to verify the lineage at primary texts before
+    editing rather than trusting the note, since the cited work is a third paper distinct
+    from both canonical texts and the note itself notes Larkum sits in the acknowledgements
+    rather than the byline. SOURCES MEASURED AND DECLINED: length_analysis yields
+    144 warnings but every content-article offender is either vetoed with a veto tag,
+    carries an open NEEDS-HUMAN length-decision entry, or is a research note rather
+    than site content, so there is no clean mintable target; staleness and gap_analysis
+    produced nothing above the noise floor; orphaned_files is 0. NOT MINTED, DELIBERATELY:
+    the DIT note''s own first-choice verdict is a standalone concepts/ article, but
+    concepts/ has two slots and six open research-topic tasks contest them, so spending
+    one is an operator decision on the notation-void precedent. Rather than add a
+    69th NEEDS-HUMAN entry, that decision and the zero-cost alternative host, concepts/biological-computationalism
+    at 2273/3500 with 1227 words of headroom, are recorded inside the P3 task''s notes.
+    Backlog context unchanged and still the real problem: 62 active tasks parse, of
+    which the overwhelming majority are P3 and starved.'
   last_replenishment_run: 1004
   loop_pickable_open: 4
   needs_replenishment: false
@@ -880,20 +892,23 @@ tune_system_history:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
     old_value: 93 keys (602KB)
-    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified); unbounded
-      per-replenish growth bloated every YAML parse.
+    rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
+      unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-08-20T22:22:34+00:00'
-  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural reason: cadences
-    / overdue_thresholds / locked_settings still absent from state (re-verified None this run). Health
-    excellent: 20/20 ring success, failed_tasks empty, critical 0, check-tenets 11th clean pass with all
-    prior notes closed. Binding constraint unchanged and sharpened: cap freeze across topics 320/320 (319
-    real, sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved unable
-    to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict same day); harvest pipeline
-    now OUTRUNS the expand stage - two publishable notes minted+executed today are cap-blocked claimants.
-    Tier 3 escalations: cap raise or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
-    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow proven). Tier 2: fold
-    one-world-wager lede recalibration into the open probability-problem cross-review task. Report: reviews/system-tune-2026-08-20.md'
+  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
+    reason: cadences / overdue_thresholds / locked_settings still absent from state
+    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
+    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
+    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
+    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
+    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
+    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
+    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
+    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
+    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
+    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
+    cross-review task. Report: reviews/system-tune-2026-08-20.md'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-17.md
 task_chains:
