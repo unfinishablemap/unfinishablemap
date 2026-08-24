@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T12:26:42+00:00'
+ai_modified: '2026-08-24T12:53:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 12:26:42+00:00
+lastmod: 2026-08-24 12:53:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T12:53:00+00:00 - positions-evolve
+
+- **Status**: Success
+- **Mode**: update (scope/labelling, domain-level) — `positions/quantum-interface`
+- **Positions touched**: none individually; the domain's *mechanism-debt convention* and a new *Scope limit* paragraph under **About this domain**
+- **Bands moved**: **zero**. P-Q1, P-Q3, P-Q9, P-Q10 all sit exactly where they did. No position added (`positions/` stays 16 of 80).
+- **Word count**: 4647 → 4933 (+286). File was already `critical` before this pass — a pre-existing, twice-declined-split debt, not created here.
+- **Output**: `obsidian/positions/quantum-interface.md`; synced, both trees verified.
+
+**Two decisions, taken separately.**
+
+**(1) The enumeration — changed, but not for the reason the finding gave.** The convention read: *"Downstream applied articles that claim consciousness 'does causal work' — agency, motor selection, value-sensitive selection, placebo, functional neurological disorder — inherit this debt…"*. The finding was that `topics/ethics-of-cognitive-enhancement-under-dualism` needs the debt and is in none of the five.
+
+On the grammar I judge the sentence **already read as criterion-plus-examples**: the restrictive relative clause *"that claim consciousness does causal work"* is the criterion and does the defining work, and the em-dash list is in loose apposition naming *domains*, which are not articles and so cannot be the class. So the "closed list excluded enhancement ethics" diagnosis is **not** what happened. ⚠️ Two competing explanations were live and the second is better supported: the convention's citation-grade tightening is dated **2026-08-13** and the article's `last_deep_review` is **2026-08-12** — the register moved under a converged article that was never re-read. That is `convergence-damping-keys-on-self-modification-not-dependency-freshness`, not an enumeration defect, and no evidence was found that anyone consulted the list and ruled the article out.
+
+**The change was made anyway, on a different and directly observed ground.** Being *on* the list propagates nothing either: `topics/marginal-organism-scope-of-value-sensitive-selection` sits squarely in a **listed** domain (value-sensitive selection), asserts at L101 that the evaluative dimension "does causal work", and builds a moral-scope conclusion on it at L40 — *"the moral-status map of the biosphere is partly the map of where valence-denominated selection operates… over-attribution invents suffering that isn't there; under-attribution ignores suffering that is"* — while citing **zero** positions. ⚠️ **Not recorded as a defect in that article**: it is in fact well calibrated (L50, "Plausibility is not confirmation"), but by authorial care rather than by anything the convention did. A list that neither excludes non-members nor reaches members is decorative, and rots as new applied articles are written. Restated to lead with the criterion — *asserts causal work **and** builds a practical or normative conclusion on it* — with the five domains kept as "where it has bitten so far, not the extent of what it binds."
+
+**(2) The spatial-locality gap — closed at the register, which is the only place it could be closed.** The finding: the register concerns Born-rule treatment and token selection at quantum indeterminacies and says nothing about spatially localised neuroanatomical sites, so the enhancement article's implant-bypass argument imported an unlicensed premise. **Verified**: grepping `positions/` for locality vocabulary returns one hit, and it is `localizes` used in an unrelated sense in `ai-consciousness-scope`. The register genuinely carries no localization claim.
+
+Took the **withdraw** branch rather than the register-and-grade branch — registering a graded localization claim would be a new position, out of contract for a labelling pass. Added a short **Scope limit — no spatial localization** paragraph stating that the domain individuates the interface *dynamically, not spatially*, that arguments turning on which sites an intervention bypasses import an unregistered premise, and that this is a **gap rather than a denial**.
+
+- **The article-side sibling had already landed** before this ran (`ai_modified` 2026-08-24T03:40) and both fixes are live in it — the mechanism-debt inheritance at the conditional-risk paragraph, and an explicit withdrawal, *"imports a locality assumption the Map has not registered."* The register-side statement is what stops the premise being **re-imported** by the next article.
+- **A second live import exists**: `topics/contemplative-pathology-and-interface-malfunction` L95 — *"If the consciousness-brain coupling operates through biasing quantum indeterminacies at specific neural sites…"* — conditionally framed and used only to derive operating constraints, so weaker, but the same unregistered premise. It is the reason the limit belongs at the register rather than in per-article fixes. Not repaired here (out of contract; no task minted, todo.md untouched per instruction).
+- `apex/phenomenology-mechanism-bridge` L72 also matched the locality grep and was **cleared on inspection** — its "specific neural sites" are lesion and stimulation sites for phenomenological components, a different claim entirely.
+
+**Audit of the wider blast radius — a candidate pool, not a defect list.** The `genuinely causal|does causal work|remains causal` grep over `topics/ concepts/ apex/` returns **47 files**; it matches strings, not claims. Classified against the real criterion (applied article building an ought on the premise), and most of the pool is *core theory* where mental causation is the subject under discussion — `type-token-causation`, `von-neumann-wigner-interpretation`, `empirical-phenomena-mental-causation`, `quiddity-epiphenomenalism`. Of the four candidates worth checking, two (`apex/moral-architecture-of-consciousness`, `apex/research-programme-decisions-under-the-map`) **already carry** the mechanism debt. `topics/fish-sentience-and-the-teleost-pain-debate` states the causal-work claim only inside a counterfactual describing a framework, and its welfare conclusion is attributed to Braithwaite rather than asserted. That leaves `marginal-organism` as the single instructive case, used above. ⚠️ Stated as **I did not find other applied articles building oughts on the premise**, not that there are none — 37 files across the corpus already cite the debt anchor, and a string grep cannot see the ones phrased differently (`driver-assertions-of-absence-persist-and-mislead`).
+
+**Hygiene**: the dated `Updated 2026-08-24` note is domain-level (placed after the convention, outside any `## P-` entry), carries provenance for both changes, and deliberately writes **no bands in transition form** — the `positions.md` counting rule parses only lines beginning `- **Calibration**`, and this note contains none. `ai_modified` set from a live `date -u`, strictly past. Synced; `Scope limit`, `not membership of a domain list` and both `Updated 2026-08-24` markers verified present in **both** obsidian and hugo trees. Sync reported `ok` on every touched file — the broken-wikilink strips in its output are pre-existing memory slugs in `changelog.md`/`todo.md`, which are exempt. Not committed.
 
 ## 2026-08-24T12:26:42+00:00 - deep-review
 
