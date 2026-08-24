@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-08-24 02:31:00+00:00
+ai_modified: 2026-08-24 03:40:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-12 17:24:00+00:00
-lastmod: 2026-08-24 02:31:00+00:00
+lastmod: 2026-08-24 03:40:15+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -43,9 +43,11 @@ Cognitive enhancement—through pharmaceuticals, brain-computer interfaces, gene
 
 Materialist bioethics treats cognitive enhancement as upgrading mental capacity by upgrading the brain. Bostrom and Sandberg (2009) define cognitive enhancement as the amplification of core mental capacities through improvement of "internal or external information processing systems"—while noting that the line between therapy (restoring normal function) and enhancement (exceeding it) is often difficult to discern and arguably lacks practical significance. Savulescu (2001) argues for a "principle of procreative beneficence" — parents should select children with the best chance of the best life, which under materialism straightforwardly includes cognitive capacity. These frameworks assume that cognitive ability *is* brain function, so improving the substrate improves the mind—and the instability of the therapy/enhancement line on materialist terms suggests that axis may not be where the ethically significant joints lie.
 
-Dualism reframes each of these interventions. If the brain functions as a filter, transceiver, or interface for consciousness—as [filter theory](/concepts/mind-matter-interface/) proposes—then enhancement technologies modify the [bandwidth](/topics/bandwidth-of-consciousness/), fidelity, or range of the channel through which consciousness operates in the physical world, rather than augmenting consciousness itself. A nootropic might widen the filter, allowing consciousness greater expressive range—compare the Map's analysis of how [psychedelics may reduce filtering](/topics/psychedelics-and-the-filter-model/) to allow broader phenomenal access. A [brain-computer interface](/topics/brain-computer-interfaces-and-the-interface-boundary/) might add new input-output channels. But consciousness, the subject experiencing and acting through these channels, remains what it was.
+Dualism reframes each of these interventions. If the brain functions as a filter, transceiver, or interface for consciousness—as [filter theory](/concepts/mind-matter-interface/) proposes—then enhancement technologies modify the [bandwidth](/topics/bandwidth-of-consciousness/), fidelity, or range of the channel through which consciousness operates, rather than augmenting consciousness itself. A nootropic might widen the filter, as the Map's analysis of [psychedelics and filtering](/topics/psychedelics-and-the-filter-model/) describes. A [brain-computer interface](/topics/brain-computer-interfaces-and-the-interface-boundary/) might add new input-output channels. But consciousness, the subject experiencing and acting through these channels, remains what it was.
 
-The Map's analysis of [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) fits this framing: psychedelics, meditation, and other states read as consciousness operating in several modes with distinct phenomenal qualities, suggesting a configurable interface—though the altered-state data alone does not discriminate that reading from production accounts. Enhancement would be another mode of reconfiguration, deliberate and lasting rather than temporary.
+The Map's analysis of [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) fits this framing: psychedelics, meditation, and other states read as consciousness operating in distinct modes, suggesting a configurable interface—though the altered-state data alone does not discriminate that reading from production accounts. Enhancement would be another reconfiguration, deliberate and lasting rather than temporary.
+
+Enhancement technologies are largely hypothetical at the magnitudes this article invokes, and the distance from current capability is wide. Roberts et al.'s (2020) meta-analyses of 47 studies in healthy, non-sleep-deprived adults found small overall effects—modafinil at SMD 0.12 (p = .01), methylphenidate at SMD 0.21 (p = .0004), and no effects for d-amphetamine—concluding that "there is a user perception that these drugs are effective cognitive enhancers, but this is not supported by the evidence so far." Greely et al. (2008) had argued for responsible use by the healthy on the assumption that the drugs work; the evidence since is thinner than that debate assumed. The questions below concern what enhancement *would* mean, so nothing turns on present magnitudes—but the doubled working memory invoked later is a thought experiment, not a near-term prospect.
 
 ## Which Premise Is Doing the Work
 
@@ -53,11 +55,11 @@ Whether the reframing changes any *verdict*, as opposed to the description, is t
 
 ## Identity and the Enhanced Self
 
-The most pressing ethical question cognitive enhancement raises under dualism concerns [personal-identity](/topics/personal-identity/). Irreducibility alone does not settle it: consciousness being irreducible to its physical substrate rules out identity with that substrate, but Tenet 3's bidirectional interaction means physical interventions genuinely alter mental life, so nothing in irreducibility by itself guarantees the subject immunity from radical enhancement. The claim that the fundamental subject survives rests on a further commitment the Map adopts explicitly: that *which* subject one is—indexical identity—is individuated independently of the interface's configuration. Given that premise, the person who receives a neural implant that doubles their working memory capacity is the same conscious subject afterward—experiencing the world through a modified interface, but not replaced or fundamentally altered.
+The most pressing ethical question cognitive enhancement raises under dualism concerns [personal-identity](/topics/personal-identity/). Irreducibility alone does not settle it: consciousness being irreducible to its physical substrate rules out identity with that substrate, but Tenet 3's bidirectional interaction means physical interventions genuinely alter mental life, so nothing in irreducibility by itself guarantees the subject immunity from radical enhancement. The claim that the fundamental subject survives rests on a further commitment the Map adopts explicitly: that *which* subject one is—indexical identity—is individuated independently of the interface's configuration. Given that premise, the person who receives a hypothetical neural implant doubling their working memory capacity is the same conscious subject afterward—experiencing the world through a modified interface, but not replaced or fundamentally altered.
 
 Against materialist views where identity reduces to psychological continuity or brain-state patterns, that premise secures a continuity radical enhancement cannot break: [indexical identity](/topics/personal-identity/)—the irreducible fact of being *this* particular conscious subject—persists through interface modifications because it was never constituted by the interface in the first place. Two limits sit on the advantage. A physicalist animalist reaches the same verdict from the persistence of the organism, so the comparison marks a difference in route rather than in outcome. And the Map's register books a debt: it has no subject-pairing law fixing which physical system a subject is paired to, or when a pairing begins and ends ([P-SC2](/positions/subject-census/)), so persistence through radical intervention is asserted conditionally rather than derived. Numerical persistence also delivers no reassurance by itself. That the same subject is on the far side of the intervention is a metaphysical fact; that this is what matters prudentially is a further value premise, not a corollary.
 
-The *character* of conscious experience may also shift dramatically while the subject persists, since an interface that filters differently produces different experiential content. Someone whose enhanced brain processes information at vastly greater speed and resolution may find their experience so transformed that continuity of selfhood, while secure given the Map's interface-independence commitment, becomes phenomenologically strained. You are still you, but the you-ness feels alien. Sandel (2007) articulates a related concern from a different angle: enhancement threatens the "gifted" character of human capacities, replacing openness to the unbidden with mastery and control. Under dualism, this worry sharpens — the "gifted" character of our capacities reflects the contingent interface through which consciousness operates, not consciousness itself.
+The *character* of conscious experience may also shift dramatically while the subject persists, since an interface that filters differently produces different experiential content. Someone whose enhanced brain processes information far faster may find continuity of selfhood, secure though the Map's interface-independence commitment makes it, phenomenologically strained. You are still you, but the you-ness feels alien. Sandel (2007) articulates a related concern from a different angle: enhancement threatens the "gifted" character of human capacities, replacing openness to the unbidden with mastery and control. Under dualism, this worry sharpens — the "gifted" character of our capacities reflects the contingent interface through which consciousness operates, not consciousness itself.
 
 ## Moral Responsibility Under Enhancement
 
@@ -71,13 +73,15 @@ Two positions emerge:
 
 **Interface dependence**: The moral texture of a choice partly depends on what it costs the agent. Choosing kindness when aggression is a live temptation is morally different from choosing kindness when the temptation has been pharmacologically removed. Enhancement that narrows the choice space may produce better outcomes while diminishing the moral significance of choosing them.
 
-The Map's commitment to [agent causation](/topics/free-will/) suggests a position between these poles: if consciousness is causal at the interface, moral agency persists across configurations, while the *difficulty* and *meaning* of particular choices shift with the interface, changing how specific acts are evaluated without unseating responsibility itself. This parallels the Map's analysis of [moral agency under duress](/topics/consciousness-and-moral-agency-under-duress/), where extreme pressure constrains the menu of live options without eliminating agency. Neither pole nor the resolution belongs to dualism, though. Both are stated in the vocabulary of quality of will and the moral worth of hard choices, where compatibilists have run the same debate for decades, and the register agrees: [P-A5](/positions/agency-and-will/) holds that the libertarian framing does no unique explanatory work here.
+The second position is not new here: it is Harris's (2011) freedom-to-fall objection to moral enhancement, on which interventions targeting specific moral capacities would compromise the freedom that makes right action creditable. Savulescu and Persson (2012) reply with the God Machine—a system that monitors intentions and intervenes only against grave harm—arguing that the freedom so removed is not freedom worth having. The interface framing redescribes the disputed quantity as belonging to the interface rather than the subject; it does not adjudicate.
+
+The Map's commitment to [agent causation](/topics/free-will/) suggests a position between these poles: if consciousness is causal at the interface, moral agency persists across configurations, while the *difficulty* and *meaning* of particular choices shift with the interface, changing how specific acts are evaluated without unseating responsibility itself. This parallels the Map's analysis of [moral agency under duress](/topics/consciousness-and-moral-agency-under-duress/), where extreme pressure constrains the menu of live options without eliminating agency. Neither pole nor the resolution belongs to dualism: both run in the vocabulary of quality of will, where compatibilists have debated the same question for decades, and the register agrees—[P-A5](/positions/agency-and-will/) holds that the libertarian framing does no unique explanatory work here.
 
 ## The Consent Problem
 
 If a developing brain is enhanced in utero or during childhood—through genetic modification, pharmaceutical intervention, or early neural implants—the conscious subject who will live with that modified interface had no say in its configuration.
 
-This concern exists under any metaphysics, and dualism changes the image rather than the stakes. If consciousness uses the brain as an interface, prenatal enhancement is analogous to building a custom instrument for a musician not yet consulted about what music they want to play: the interface shapes what consciousness can readily express, perceive, and engage with, so choosing it for another person is choosing the parameters of their experiential life. But a physicalist who holds that brain modification configures the mind *constitutively* has at least as strong a ground for the same worry, and arguably a stronger one, since on that view the intervention shapes the subject rather than the subject's instrument.
+This concern exists under any metaphysics, and dualism changes the image rather than the stakes. If consciousness uses the brain as an interface, prenatal enhancement is like building a custom instrument for a musician not yet consulted about what music they want to play: the interface shapes what consciousness can readily express, so choosing it for another is choosing the parameters of their experiential life. But a physicalist who holds that brain modification configures the mind *constitutively* has at least as strong a ground for the same worry, and arguably a stronger one, since on that view the intervention shapes the subject rather than the subject's instrument.
 
 The counterargument is that all parents already make this choice through genetics, environment, nutrition, and education. Enhancement merely makes the choice more deliberate. Under dualism the difference is one of description rather than stakes: the intervention configures the channel through which an irreducible subject will engage with reality rather than composing the subject itself, and whether that redescription carries extra normative weight needs a bridge principle the Map has not supplied. What does add specificity is timing. The Map's analysis of [childhood interface development](/topics/consciousness-interface-development/) notes that synaptic pruning during critical periods forecloses perceptual territories durably and region-specifically—a high barrier rather than a sealed door. Enhancement inside those windows would interact with natural development in ways that could durably reshape which territories consciousness can access, rather than only adding capacity.
 
@@ -93,7 +97,7 @@ What follows is a conditional risk hypothesis rather than a practical imperative
 
 Unequal access to cognitive enhancement reads differently under dualism. The strongest form of the argument assumes that all conscious subjects possess the same fundamental capacity for experience and agency, differing only in the interfaces through which they operate—but that universal premise is stronger than the Map can defend. [Phenomenal variation within our species](/apex/phenomenal-variation-within-a-species/) is documented and structural—aphantasia, synaesthesia—and the equality premise can absorb it only by booking all such variation to the interface, an accounting move that should be made explicitly rather than assumed. The defensible claim is conditional: to whatever extent observed cognitive inequality is interface-side, unequal access to enhancement is unequal instrumentation for subjects whose fundamental standing may be equal—and radical inequality in interface quality becomes correspondingly harder to justify. The equal-standing half of that conditional is carried by the moral-status register, where capacity for valenced experience grounds standing ([P-MS1](/positions/moral-status/)), and not by dualism: a sentientist reaches it without any metaphysics of mind.
 
-Materialist frameworks can appeal to natural variation: some brains simply work better, and enhancement extends that variation. Under dualism the asymmetry between subjects and their unequal interfaces is more visible. [The moral architecture of consciousness](/apex/moral-architecture-of-consciousness/) grounds the concern: if consciousness grounds value, agency, normativity, and moral perception as one structure, unequal interface quality constrains the very capacities through which moral life is lived, not just its outcomes. Enhancement that widens the gap without addressing access leaves subjects of equal standing facing increasingly unequal conditions for expressing their agency.
+Materialist frameworks can appeal to natural variation: some brains simply work better, and enhancement extends that variation. Under dualism the asymmetry between subjects and their unequal interfaces is more visible. [The moral architecture of consciousness](/apex/moral-architecture-of-consciousness/) grounds the concern: if consciousness grounds value, agency, normativity, and moral perception as one structure, unequal interface quality constrains the very capacities through which moral life is lived, not just its outcomes—so enhancement that widens the gap without addressing access leaves subjects of equal standing with increasingly unequal conditions for agency.
 
 ## What Would Challenge This View?
 
@@ -101,7 +105,7 @@ The dualist reframing of enhancement ethics would be undermined by:
 
 1. **A successful materialist account of consciousness**: If neuroscience demonstrated that consciousness is fully constituted by neural activity, the interface metaphor would collapse and enhancement really would upgrade the mind rather than a channel.
 
-2. **Enhancement without experiential change**: The interface model predicts phenomenal change under enhancement. If radical enhancement instead produced dramatic performance gains with *no* change in phenomenal character, that would be evidence against the interface framing: it would suggest the enhanced processing runs outside the conscious channel entirely, which is consistent with the interface having boundaries but puts pressure on the claim that consciousness is causally efficacious in the enhanced cognition (Tenet 3).
+2. **Enhancement without experiential change**: The interface model predicts phenomenal change under enhancement. Dramatic performance gains with *no* change in phenomenal character would suggest the enhanced processing runs outside the conscious channel entirely—consistent with the interface having boundaries, but pressing on the claim that consciousness is causally efficacious in the enhanced cognition (Tenet 3).
 
 3. **Identity disruption through enhancement**: Consistent reports of being a *different* subject would be evidence of phenomenological or narrative discontinuity rather than of numerical replacement, which self-report cannot reach. What it would challenge is the article's use of indexical persistence as reassurance.
 
@@ -123,27 +127,31 @@ The Map's dualist commitments bear on enhancement ethics as follows:
 
 ## Further Reading
 
-- [ethics-under-dualism](/topics/ethics-under-dualism/) — Broader ethical framework for consciousness-grounded moral status
-- [free-will](/topics/free-will/) — Agent causation and moral responsibility under the Map's framework
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Consciousness-grounded moral status
+- [free-will](/topics/free-will/) — Agent causation and moral responsibility
 - [personal-identity](/topics/personal-identity/) — Indexical identity and its persistence conditions
-- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis on what persists through transformation
-- [mind-matter-interface](/concepts/mind-matter-interface/) — The interface model that reframes enhancement
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis on what persists
+- [mind-matter-interface](/concepts/mind-matter-interface/) — The interface model
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
-- [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Parallel case: agency under constrained conditions
-- [consciousness-interface-development](/topics/consciousness-interface-development/) — How the interface develops and why enhancement timing matters
-- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Other modes of interface reconfiguration
-- [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness may be structurally unable to upgrade itself
+- [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Agency under constrained conditions
+- [consciousness-interface-development](/topics/consciousness-interface-development/) — Why enhancement timing matters
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Other modes of reconfiguration
+- [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness may be unable to upgrade itself
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
-- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological interface modulation, and why the data does not discriminate filter from production accounts
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Why the data does not discriminate filter from production
 - [creative-consciousness](/concepts/creative-consciousness/)
-- [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Empirical test of whether consciousness extends beyond existing neural architecture
-- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The capacity constraints of the mind-brain channel that enhancement would modify
+- [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Whether consciousness extends beyond neural architecture
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The channel constraints enhancement would modify
 
 ## References
 
 1. Bostrom, N. & Sandberg, A. (2009). "Cognitive Enhancement: Methods, Ethics, Regulatory Challenges." *Science and Engineering Ethics*, 15(3), 311–341. https://doi.org/10.1007/s11948-009-9142-5
-2. Sandel, M. J. (2007). *The Case against Perfection: Ethics in the Age of Genetic Engineering*. Harvard University Press.
-3. Savulescu, J. (2001). "Procreative Beneficence: Why We Should Select the Best Children." *Bioethics*, 15(5-6), 413-426.
-4. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-under-dualism/
-5. Southgate, A. & Oquatre-cinq, C. (2026-01-16). The Mind-Matter Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mind-matter-interface/
-6. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+2. Greely, H., Sahakian, B., Harris, J., Kessler, R. C., Gazzaniga, M., Campbell, P. & Farah, M. J. (2008). "Towards responsible use of cognitive-enhancing drugs by the healthy." *Nature*, 456(7223), 702–705. https://doi.org/10.1038/456702a
+3. Harris, J. (2011). "Moral Enhancement and Freedom." *Bioethics*, 25(2), 102–111. https://doi.org/10.1111/j.1467-8519.2010.01854.x
+4. Roberts, C. A., Jones, A., Sumnall, H., Gage, S. H. & Montgomery, C. (2020). "How effective are pharmaceuticals for cognitive enhancement in healthy adults? A series of meta-analyses of cognitive performance during acute administration of modafinil, methylphenidate and D-amphetamine." *European Neuropsychopharmacology*, 38, 40–62. https://doi.org/10.1016/j.euroneuro.2020.07.002
+5. Sandel, M. J. (2007). *The Case against Perfection: Ethics in the Age of Genetic Engineering*. Harvard University Press.
+6. Savulescu, J. (2001). "Procreative Beneficence: Why We Should Select the Best Children." *Bioethics*, 15(5-6), 413-426.
+7. Savulescu, J. & Persson, I. (2012). "Moral Enhancement, Freedom, and the God Machine." *The Monist*, 95(3), 399–421. https://doi.org/10.5840/monist201295321
+8. Southgate, A. & Oquatre-six, C. (2026-01-16). Ethics Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-under-dualism/
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-16). The Mind-Matter Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mind-matter-interface/
+10. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
