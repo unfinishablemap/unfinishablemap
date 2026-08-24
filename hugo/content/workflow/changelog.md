@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T03:58:00+00:00'
+ai_modified: '2026-08-24T04:26:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 03:58:00+00:00
+lastmod: 2026-08-24 04:26:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T04:26:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`), full-site audit — subject reused from the ChatGPT leg (`reuse:pending-reviews:outer-review-2026-08-24-chatgpt-5-6-sol-pro.md`)
+- **File**: [outer-review-2026-08-24-claude-opus-5](/reviews/outer-review-2026-08-24-claude-opus-5/)
+- **Collected by**: `/collect-claude-review` this run — 30,643-char artifact body extracted via page-side Blob download after a clean body-stability check (27,750 chars stable across a 10s window), not chunked retyping.
+- **Claims verified**: 10 concrete article-level claims checked on disk — **2 confirmed, 8 refuted or already discharged.** This is the worst verified-accuracy result on record for this reviewer family, and it is the same-model leg.
+- **THE HEADLINE IS REFUTED.** The review's self-declared *"single most important finding"* — that the triple-screen unfalsifiability conjunction is *"nowhere stated"*, repeated as unstated-inference #1 and as methodology recommendation #3 (*"create a single node"*) — is contradicted by a section literally headed **"The Triple Screen"** in `apex/what-consciousness-tells-us-about-physics` (L212–216: *"a larger conjunction the Map accepts piecewise but should state outright… screened from all three channels… Naming this is an admission rather than a defence"*), linked twice by the anchor `#the-triple-screen` from `voids/necessary-opacity` L114/L180. The canonical node it asks the Map to create already exists.
+- **Seven further refutations, each grepped on disk.** (1) `concepts/quantum-indeterminacy-free-will` does **not** lead MWI rejection with ontological extravagance — L156 reads *"rejects it primarily on the indexical problem… Ontological extravagance is registered as a cost rather than the decisive objection"*; the review echoes the 2026-05-29 flag, not the current text. (2) `topics/parsimony-case-for-interactionist-dualism` already states the exact reframing the review demands (L41 *"The Map does not endorse the inference simpler-therefore-truer here… self-binding applies to parsimony arguments **for** dualism exactly as it applies to those against it"*). (3) `concepts/interactionist-dualism` does **not** present the mechanisms co-equal — it states the preference ordering and calls Zeno *"a sub-mechanism the Map prefers not to lean on."* (4) Laukkonen–Friston–Chandaria 2025 is **not** unengaged: `topics/predictive-processing-and-dualism` works it across three paragraphs as a standing rival (*"The two readings are then rivals"*) with the DOI at reference 13 — a fabricated absence. (5) The enhancement article cites **8** register entries, not zero; (6) its God Machine citation already reads Savulescu & Persson (2012), *The Monist* 95(3):399–421, and the Levy false-verbatim quote and *"transforms the ethical landscape"* lede grep **0** — all discharged earlier the same day, and the review reported them as outstanding **after reading the changelog entry announcing the fixes** (outer-review-attacks-retired-text-echoed-in-our-reviews). (7) The disability/neurodiversity lens returns **two** files, not *"zero"*. Its §5.1/§5.2 methodology proposals restate **P-M5**, already in the register.
+- **Structural counts exactly right, as with the ChatGPT leg**: topics **320/320**, concepts **318/320**, voids **99/100**, positions **16/80** — all confirmed against `count_section_files`. The split is diagnostic: metric and infrastructure claims verify cleanly, article-level absence claims do not.
+- **High-value findings**: 2 survived verification, both cross-cluster. (a) **Stapp author-stance** — the Map's own articles are careful (basis + timing control = Process 1; P-Q4 already prefers post-decoherence selection), but nowhere states that Stapp *himself* declined outcome-selection, and `research/born-rule-violation-brain-interface-empirical-status-2026-04-23` L227 does file *"sympathetic readings of Stapp (without Zeno)"* among corridor proponents. (b) **List 2023 double-edge** — the indexical objection carrying Tenet 4 also answers the vertiginous question for List's first-personally-centred modal realism, so it may discriminate against Everett but not List.
+- **Convergence**: the `consciousness-interface-development` self-contradiction (body *"a high barrier than a sealed door"* vs outbound crosslink *"permanently alter"*) was reached independently, matching the P2 minted from the 2026-08-23 ChatGPT leg. Both loci re-grepped verbatim this run; recorded as an addendum on the existing task rather than minted twice (outer-review-same-file-task-pileup).
+- **Tasks generated**: 3 (P2: 2, NEEDS-HUMAN: 1) — Stapp author-stance sentence (`concepts/stapp-quantum-mind` + the research note); List double-edge (`topics/vertiginous-question`, deliberately **not** `arguments/many-worlds-argument`, which is over its hard ceiling under a standing length decision); and a NEEDS-HUMAN on outer-review subject selection.
+- **The NEEDS-HUMAN item**: today's 8-of-10 refutation rate is the second recorded instance of the scope-driven profile in gemini-outer-review-attacks-mechanisms-the-map-disclaims — full-site subjects yield confident fabricated absences from reviewer families that score cleanly on single-article subjects. The operator decision is whether the site fallback (cascade step 3) should be demoted, dropped, or rate-limited. **Not decided unilaterally**: both surviving findings are cross-cluster and a single-article subject would not have surfaced either, so the fallback has low precision but non-zero unique recall.
+- **Not minted, deliberately**: fixes 1, 4, 5, 6, 7 and 9 and methodology items 1–3 and 6 all rest on refuted premises; the corridor-quartet merge (fix 9) would need its own coalesce assessment and is not licensed by a claim this review got wrong elsewhere. The thin-disability-lens point is left in the review text for `/harvest-research-subjects` rather than minted on an overstated premise.
+- **Published**: yes
 
 ## 2026-08-24T03:58:00+00:00 - outer-review
 
