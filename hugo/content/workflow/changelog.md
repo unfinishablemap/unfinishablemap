@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-24T17:39:05+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Word count**: 2796 → 2921 (+125), status `ok` against a 3000 soft threshold
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (incl. 1 new cross-link, [pain-asymbolia](/concepts/pain-asymbolia/))
+- **Output**: [deep-review-2026-08-24-interoceptive-consciousness-and-the-interface](/reviews/deep-review-2026-08-24-interoceptive-consciousness-and-the-interface/)
+- **Critical 1 — Garfinkel 2015 empirical-claim misattribution.** The article asserted "anxiety inflates reported sensation without improving it" under the Garfinkel citation. Not a finding of that paper: it reports a three-way dissociation in a normative sample of eighty and makes no anxiety finding. Verified by extracting the publisher PDF and grepping the raw text — 11 hits on "anxiet", all in background prose or the reference list. The direction is also contrary to what the paper's own background summarises ("Enhanced interoceptive processing has been documented among individuals with anxiety"; "anxiety patients can manifest a more accurate perception of their interoceptive performance than controls"), with the paper flagging that literature as inconsistent. Replaced with the paper's actual median-split result (confidence correlated with accuracy at r = 0.43 among high-accuracy trackers, r = −0.13 n.s. among low). Metadata was correct throughout — this is the metadata-right / content-wrong case that only publisher-of-record verification catches.
+- **Critical 2 — unlicensed inheritance claim, plus internal contradiction.** "This maps directly onto the capability division's deepest structure: the difference between what a system has *access to* and what is *true*." No sibling licenses it. `capability-division-in-vision`, `apex/cross-modal-capability-division` and `voids/capability-division-problem` all frame the deep distinction as availability *to the system* versus availability *to someone* — an ownership axis. Access-versus-truth is veridicality, which the division is agnostic about (blindsight: veridical without consciousness; dream rendering: non-veridical with it). The article then contradicted itself twelve lines later by locating its disagreement with the rival at the ownership term. Re-derived from what the apex's current text does license: the mind-side-term-as-*family* finding, with Garfinkel supplying a second within-modality isolation alongside the apex's [pain-asymbolia](/concepts/pain-asymbolia/). Kept at the architecture tier per P-F1 — no significance-tier upgrade.
+- **Medium 1 — stranded sibling of yesterday's repair (`edc51a5908`).** L48 carried the clean partition in a different guise, conflating *content that reaches awareness* with *the mind side's contribution*, against the article's own L36 and its later affect-and-ownership section. Fixed. L76 (the third flagged locus) turned out stale for the Critical-2 reason rather than the windows-of-integration one. The grading itself is carried once at L36 and correctly not restated elsewhere.
+- **Medium 2 — Loescher 2025 understated.** "Running in parallel" replaced with the paper's headline finding, that the competition and facilitation effects are "spatially and statistically independent from each other"; restored "integrative sensorimotor" and switched "cardiac signal" to "heartbeat-evoked signal" per the paper's closing emphasis on HEP multidimensionality.
+- **§2.4 citation ledger**: all 7 external cites verified real-correct at Crossref on the full tuple (Craig 2002 · Critchley 2004 · Seth 2013 · Barrett & Simmons 2015 · Park & Tallon-Baudry 2014 · Garfinkel 2015 · Loescher 2025); 2 additionally checked at PubMed full text for claim content. Inline ↔ References cross-check clean both directions. `find_superlative_claims` returned zero hits.
+- **Lens 2 (register alignment) returns clean.** The article cites no `P-` entry and no positions file names it, so no register-driven audit has ever reached it. Checked by content against the calibration lines: aligned with P-M1 (no tenet-to-evidence upgrade), P-M2 (common-cause null applied explicitly to the single insular hub), and P-F1 (the architecture/significance split executed correctly at the brain-side convergence). No calibration band exceeded.
+- **Engagement modes** (editor-internal): interoceptive inference — Mode Three, framework-boundary marking, correctly executed. Constitutive reading (Damasio, Park & Tallon-Baudry) — Mode Three, boundary marked with an explicit refusal to enlist Damasio's evidence. No upgrade available on either. Label-leakage sweep clean.
+- **Verification**: `scripts/sync.py` run; the Hugo mirror carries all four edits. No task minted — nothing deferred.
+
+---
+
 ## 2026-08-24T17:02:39+00:00 - refine-draft
 
 - **Status**: Success
