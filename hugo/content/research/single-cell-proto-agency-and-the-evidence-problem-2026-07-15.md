@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-15
-date: '2026-07-15'
+date: '2026-08-24'
 draft: false
-lastmod: 2026-07-15 00:00:00+00:00
+lastmod: 2026-08-24 00:00:00+00:00
 related_articles: []
 title: Research Notes - Single-Cell Proto-Agency and the Evidence Problem
 ---
@@ -45,11 +45,11 @@ The dispute over bacterial "decision" is usually framed as a dichotomy: is run-a
   - Grants the *vocabulary* (memory formation, route navigation, decision-making) but reads it as behaviour "hardwired in their genome as rates of biochemical reactions and levels of corresponding enzymes."
   - Evidence standard demanded of CBC: "theories require proof from hypotheses-testing, solid facts and empirical evidence."
 - **Tenet alignment**: Aligns with Tenet 2/3 negative reading (no interface where no substrate); but its parsimony-as-proof move is exactly what Tenet 5 blocks.
-- **Notable meta-point**: **Victor Sourjik is a co-author.** Sourjik's own lab (Max Planck, Marburg) produced the single-cell FRET measurements of CheY-P variability (below). The person who *measured* the noise is on record calling it noise, not choice — which strengthens the deflationary case but also shows the "noise vs choice" line is drawn by the measurer's interpretation, not by an additional experiment.
+- **Notable meta-point** *(corrected 2026-08-24 — the original form of this note was wrong; see below)*: **Victor Sourjik is a co-author.** Sourjik (Max Planck, Marburg) introduced in vivo FRET to bacterial chemotaxis in Sourjik & Berg 2002, *PNAS* 99(20):12669–12674, doi:10.1073/pnas.192463199 — the technique the single-cell CheY-P measurements depend on. ⚠️ **He did *not* produce the measurements cited below.** Keegstra et al. 2017 (*eLife* 6:e27455) is a Shimizu (AMOLF) / Emonet (Yale) paper; Sourjik is not an author and no Max Planck affiliation appears on it. The defensible meta-point is that the researcher who developed the means of seeing the noise co-signs the deflationary reading of it — so the "noise vs choice" line is drawn in interpretation, not by an additional experiment.
 
 ### Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET (2017)
-- **URL**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809149/ ; companion https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809148/
-- **Type**: Primary research (PNAS; Keegstra, Kamino, Anquez, Lazova, Emonet, Sourjik / Shimizu)
+- **URL**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809149/
+- **Type**: Primary research (*eLife* 6:e27455; Keegstra, Kamino, Anquez, Lazova, Emonet, Shimizu — AMOLF/Yale. *Corrected 2026-08-24: Sourjik is not an author and the venue is eLife, not PNAS.*)
 - **Key points**:
   - Single-cell FRET reveals pervasive CheY-P signalling variability both across cells in isogenic populations and within one cell over time.
   - At least two noise sources: (i) stochastic adaptation-enzyme (CheR/CheB) activity; (ii) receptor-kinase dynamics absent adaptation. Large methylation-*independent* thermal fluctuations of receptor activity contribute comparably to the energy-consuming methylation dynamics.
@@ -120,7 +120,7 @@ The dispute over bacterial "decision" is usually framed as a dichotomy: is run-a
 ## Key Debates
 
 ### Debate 1: Is "stochastic noise vs genuine choice" a real dichotomy?
-- **Sides**: EMBO dissent frames noise and choice as exclusive; the chemotaxis-noise literature (Sourjik's own FRET data, the motor-coordination and noise-sensitivity results) shows noise is *constitutive of* the adaptive search.
+- **Sides**: EMBO dissent frames noise and choice as exclusive; the chemotaxis-noise literature (the single-cell FRET data from the Shimizu and Emonet labs, plus the motor-coordination and noise-sensitivity results) shows noise is *constitutive of* the adaptive search.
 - **Core disagreement**: Whether "it reduces to noise" is a deflation at all, once noise is the mechanism of exploration.
 - **Current state**: Live tension. The strongest single move the downstream article can make: the dichotomy is a *false* one; the interesting question is not noise-vs-choice but whether "harnessed stochastic search" warrants agency vocabulary — and that is a conceptual, not experimental, question.
 
@@ -144,7 +144,7 @@ The dispute over bacterial "decision" is usually framed as a dichotomy: is run-a
 | 2015 | Lyon, "The cognitive cell" | Strong biogenic-cognition case for bacterial cognition |
 | 2016 | Ginsburg & Jablonka / Birch, UAL marker | Positive marker for *sentience*, not agency; bacteria excluded |
 | 2016 | Noise-induced sensitivity increase (Biophys J) | Further evidence noise is integral to the mechanism |
-| 2017 | Single-cell FRET CheY-P variability (PNAS; Sourjik/Emonet/Shimizu labs) | Direct measurement of the "noise" both camps interpret |
+| 2017 | Single-cell FRET CheY-P variability (*eLife* 6:e27455; Shimizu/Emonet labs) | Direct measurement of the "noise" both camps interpret |
 | 2020 | Reber & Baluška, "Cognition in some surprising places"; Lyon, minimal-cognition criteria pluralism | Strong CBC claim; concession that no agreed criterion exists |
 | 2023 | *Biological Theory*: scale-relative, part-whole agency | Deflates the categorical agency question |
 | 2024 | **EMBO Reports dissent** (Robinson, Mallatt, Peer, Sourjik, Taiz) | "No choice — determined by current state; stochastic protein-level differences" |
@@ -153,7 +153,7 @@ The dispute over bacterial "decision" is usually framed as a dichotomy: is run-a
 ## Potential Article Angles
 
 1. **The evidence problem as the thesis (recommended).** Title candidate: "Single-Cell Proto-Agency and the Evidence Problem." Structure: (i) state the received dichotomy; (ii) dissolve it — noise is the search mechanism, so "just noise" is not a deflation; (iii) survey candidate discriminating criteria and show each fails to discriminate proto-choice from complete mechanism; (iv) argue the distinction is plausibly *empirically intractable* at the prokaryotic floor; (v) Relation to Site Perspective: Tenet 5 (parsimony can't settle it either way), Tenet 3 (interface bottoming-out), and explicit hand-off to [agency-verification-void](/voids/agency-verification-void/). This is the angle the harvested task asks for and the one that does *not* re-cover the chemotaxis mechanism.
-2. **The measurer's-interpretation angle.** Foreground that Sourjik measured the variability *and* co-signs the deflationary reading — use it to show the noise/choice line is drawn in interpretation, not by an additional experiment. Good sharp sub-section, probably not the whole article.
+2. **The measurer's-interpretation angle.** Foreground that Sourjik developed the FRET technique the variability is measured with *and* co-signs the deflationary reading — use it to show the noise/choice line is drawn in interpretation, not by an additional experiment. Good sharp sub-section, probably not the whole article.
 3. **Agency-vs-sentience double-decoupling for *evidence*.** Extend the corpus's competency/experience decoupling to the epistemic level: even a perfect agency criterion (UAL, causal formalism) would not be a consciousness criterion. Ties to [competency-without-felt-experience](/apex/competency-without-felt-experience/).
 
 Writing guidance for the downstream expand-topic (per `obsidian/project/writing-style.md`): front-load the "dichotomy is false / underdetermination is the point" thesis; use named-anchor forward references for the criterion survey; include only the mechanism background needed to state the evidence problem (the mechanism itself lives in the sibling chemotaxis article — link, don't repeat); the "Relation to Site Perspective" section must connect to Tenets 3 and 5 explicitly and cross-link the agency-verification void.
@@ -169,7 +169,7 @@ Writing guidance for the downstream expand-topic (per `obsidian/project/writing-
 ## Citations
 
 1. Robinson, D. G., Mallatt, J., Peer, W. A., Sourjik, V., & Taiz, L. (2024). "Cell consciousness: a dissenting opinion." *EMBO Reports* 25(5):2162–2167. doi:10.1038/s44319-024-00127-4. https://pmc.ncbi.nlm.nih.gov/articles/PMC11094104/
-2. Keegstra, J. M., Kamino, K., Anquez, F., Lazova, M. D., Emonet, T., & Shimizu, T. S. (2017). "Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET." *PNAS* / *eLife* (companion papers). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809149/
+2. Keegstra, J. M., Kamino, K., Anquez, F., Lazova, M. D., Emonet, T., & Shimizu, T. S. (2017). "Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET." *eLife* 6:e27455. doi:10.7554/eLife.27455. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809149/
 3. "Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria." (2012). *PNAS*. https://www.pnas.org/doi/10.1073/pnas.1113706109
 4. "Noise-Induced Increase of Sensitivity in Bacterial Chemotaxis." (2016). *Biophysical Journal*. https://www.sciencedirect.com/science/article/pii/S0006349516304581
 5. "Nongenetic individuality, changeability, and inheritance in bacterial behavior." (2021). *PNAS*. https://www.pnas.org/doi/full/10.1073/pnas.2023322118
