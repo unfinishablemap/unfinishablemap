@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: `concepts/filter-theory` has no stimulation objection at all, and links to none of the Map's own stimulation material
+
+- **Type**: refine-draft
+- **File**: `obsidian/concepts/filter-theory.md`
+- **Notes**: From outer review 2026-08-24 (Gemini 2.5 Pro full-site audit), weakness 1 — **the reviewer's citation and its use are both wrong, but the gap underneath is real and verified.** Do NOT action the reviewer's framing or citation. Its cited vehicle, "Raccah, O., et al. (2021), *Direct electrical stimulation of the human brain*, Nature Reviews Neuroscience 22(12), 734-743", **does not exist**; the real paper is Raccah, Block & Fox (2021), "Does the Prefrontal Cortex Play an Essential Role in Consciousness? Insights from Intracranial Electrical Stimulation of the Human Brain", *Journal of Neuroscience* 41(10), 2076–2087 (PMID 33692142), and its finding runs the *other* way from the reviewer's use — anterolateral prefrontal stimulation "seldom elicits any reportable alterations in consciousness", and the paper's target is higher-order and global-workspace theories, not filter theory. It is usable here, but as a paucity result, not as evidence of reliable content-generation.
+
+  **The verified defect**: `grep -ci "raccah|intracranial|stimulat|electrode|penfield|SEEG|fusiform|DBS"` over `concepts/filter-theory.md` returns one hit and it is a false positive ("without external stimulation", Dreams section). The article's five-item "Objections and Responses" section contains nothing on evoked experience or content-generation, and links to none of the Map's own substantial material on the topic: [[penfield-interactionist-dualism]] (temporal-lobe flashbacks), [[out-of-body-experiences]] (Blanke et al. 2002 TPJ-evoked OBEs, current-graded and repeatable), [[memory-anomalies]] (rhinal-cortex-evoked déjà vu), and above all [[argument-from-mechanism]], which is a purpose-built anchor for exactly the "stimulation produces X, therefore X is nothing but M" inference and is not cited from the filter article. The Map's best reply already exists as falsification condition #2 in [[neural-correlates-of-consciousness]] — evoked content stays within the subject's existing repertoire, so stimulation does not show the substrate sufficient — but it is asserted rather than argued and sits in the wrong article. The additive/subtractive distinction is named nowhere in the corpus (`grep` for `\bsubtractiv` across all content sections: zero filter-sense hits), and the four filter-theory-specific internal reviews raised nothing on stimulation either. A prior Gemini review (2026-06-11) flagged Raccah on a different point and went unactioned — this is the second independent flag on the same source.
+
+  **Scope**: add the objection and its reply to the existing Objections section; cross-link the four articles above. Source the generative cases properly at primary literature rather than inheriting the reviewer's citation — Penfield's temporal-lobe series and Blanke et al. 2002 are already in the corpus; fusiform face-hallucination and amygdala/hippocampal autobiographical-evocation results need their own verification if used. Article is length-sensitive: check `analyze_length` before adding, and prefer linking over restating.
+
+  Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+- **Review file**: `reviews/outer-review-2026-08-24-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-24
+
+### P2: the 2026-08-17 Wiest & Puniani corrigendum fix landed in one article and was never propagated to its two string siblings
+
+- **Type**: refine-draft
+- **File**: `obsidian/topics/comparing-quantum-consciousness-mechanisms.md`
+- **Notes**: From outer review 2026-08-24 (Gemini 2.5 Pro full-site audit), weakness 4. **The reviewer's claim as stated is false** — do not action it as written. [[quantum-biology-and-neural-consciousness]] (L236) has carried the corrigendum with its DOI since 2026-08-17 (commit `9e0b8ce2c5`), describing it exactly as independent verification confirms: "Corrigendum, correcting the path-integral equations on p. 102: https://doi.org/10.1016/j.csbj.2025.10.016". That fix was itself generated by the 2026-08-17 Claude Opus 5 outer review, a week before this one. Two further errors in the reviewer's version: the corrigendum is an erratum to paper **II** (`10.1016/j.csbj.2025.09.016`), whereas the classical-active-inference/path-integral parallel it describes is paper **I**'s thesis (`10.1016/j.csbj.2025.09.017`, which has no corrigendum); and "voided mathematics" overstates what is a correction of mis-set standard Feynman propagator equations, not a retraction of a result.
+
+  **The real residual defect** is a clean instance of [[fix-by-file-leaves-string-siblings-live]]: the 2026-08-17 pass repaired one file and left the identical bare citation in two live articles. Both end the reference at "*Computational and Structural Biotechnology Journal*." with no volume, no pages, no DOI and no corrigendum note:
+  - `obsidian/topics/comparing-quantum-consciousness-mechanisms.md` L223
+  - `obsidian/topics/consciousness-in-smeared-quantum-states.md` L158
+
+  Bring both into line with the corrected form at `topics/quantum-biology-and-neural-consciousness.md` L236 (volume 30, pages 94-107, DOI, plus the corrigendum DOI). The two archived predecessors (`archive/topics/quantum-biology-neural-experimental-turn.md` L156, `archive/topics/quantum-biology-evidence-in-neural-systems.md` L159) carry the same bare form; leave them unless the archive-citation convention says otherwise. Metadata-only pass — no claim in either article changes, and neither rests load-bearing weight on the corrected equations. Sync after editing so the fix does not stay obsidian-only.
+- **Review file**: `reviews/outer-review-2026-08-24-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-08-24
+
 ### P1: `positions/subject-census` P-SC1 infers census-invisibility from Born preservation — the exact inference `concepts/selection-only-channel` had withdrawn as invalid 57 minutes earlier, the same morning
 - **Type**: positions-evolve
 - **File**: obsidian/positions/subject-census.md
