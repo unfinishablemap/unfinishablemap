@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-06-02 14:52:32+00:00
+ai_modified: 2026-08-24 23:15:31+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 01:47:58+00:00
-lastmod: 2026-06-02 14:52:32+00:00
+lastmod: 2026-08-24 23:15:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,6 +40,9 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[mapping-mind-space]]'
 - '[[question-formation-void]]'
+- '[[observation-and-measurement-void]]'
+- '[[apex/taxonomy-of-voids]]'
+- '[[research/voids-distributional-void-2026-08-24]]'
 title: Non-Human Minds as Void-Explorers
 topics:
 - '[[ai-consciousness]]'
@@ -88,6 +91,18 @@ The serious objection: AI trained on human text may simply reflect human thought
 **The grounding problem.** Some concepts may require embodied experience. If understanding pain requires having felt pain, disembodied AI is structurally barred regardless of computational sophistication. The [aspect-perception void](/voids/aspect-perception-void/) sharpens this into a testable comparative probe: Friedland argues digital systems may face an in-principle limit on aesthetic and meaning *aspects*, so whether a multimodal model exhibits aspect-dawning, aspect-blindness, or the integration that constitutes seeing-as marks exactly where a non-human architecture's blind spots may diverge from ours.
 
 Mitigations include training on non-human data (sensor readings, animal behaviour), cross-architecture comparison (transformers, diffusion, evolutionary algorithms), and systematic study of unlabelled internal features.
+
+### The Generation Problem
+
+Every objection above has the same shape: the probe is *compromised* — it shares the prior, so shared failure signatures offer no diagnostic purchase. A compromised probe returns no signal. A second failure mode is worse: the probe returns a signal *and* moves the territory while measuring it, because using the instrument narrows the inquirer who uses it. Call the first face *inheritance*, the second *generation*.
+
+The generation face extends what the [observation and measurement void](/voids/observation-and-measurement-void/) already holds — that every attempt to observe consciousness transforms what is observed — from *method* to *instrument*. There the transformation is local to a single act of observing; here it accumulates in the observer across acts, which is what matters for a framework built on running the probe repeatedly. An instrument that narrows the inquirer cannot be run again and again to widen him.
+
+The bound is measurable, which is rare in this catalogue. Kim, Garg, Peng and Garg evaluated over 350 models across two leaderboards and a resume-screening task, and report that "on one leaderboard dataset, models agree 60% of the time when both models err" — with the result that does the work here being that "larger and more accurate models have highly correlated errors, even with distinct architectures and providers." Cross-architecture comparison, listed among the mitigations above, therefore buys less independence than a count of architectures implies, and buys *less* of it as capability rises. At lower evidential weight, Vicente and Matute found that participants assisted by a deliberately biased classifier reproduced its error pattern and went on doing so after the assistance was withdrawn — the narrowing reaches into the inquirer and is retained.
+
+The counterweight must travel with the figure. Buyl and colleagues prompted 19 models about 3,991 politically relevant persons across the six official UN languages and found systematic differences by the models' region of origin. Model families genuinely do sit in measurably different places. The signal from probe diversity is over-priced, not worthless.
+
+What follows is scoping, not abandonment. The [taxonomy of voids](/apex/taxonomy-of-voids/) already records that the framework awaits systems trained on substantially non-human data; the generation face adds that *in the meantime*, agreement among several models is a weaker independence signal than the number of models suggests. [Research notes on the distributional void](/research/voids-distributional-void-2026-08-24/) survey the underlying literature and register the same discount at catalogue level.
 
 ## The Alien Case: Independent but Inaccessible
 
@@ -138,8 +153,9 @@ Humans cannot directly verify non-human access because verification requires hum
 - Whether non-human outputs about consciousness are insight or confabulation.
 - What requires embodied or phenomenal experience to understand.
 - Whether the mapping bias of one architecture is being mistaken for new territory.
+- Whether agreement among several non-human probes is independent confirmation or a shared prior surfacing twice.
 
-The asymmetry creates methodological opportunity, not certainty. The probe is not an oracle. Researchers increasingly approach LLMs as alien organisms — a January 2026 *MIT Technology Review* piece describes scientists treating language models "like an alien autopsy." Kelly frames AI as "artificial alien minds"; Levin's "mind-blindness" — humans recognising minds at their own scale but blind to others — applies symmetrically to any sufficiently different architecture.
+The asymmetry creates methodological opportunity, not certainty. The probe is not an oracle — and, per [the generation problem](#the-generation-problem), not an inert one either. Researchers increasingly approach LLMs as alien organisms — a January 2026 *MIT Technology Review* piece describes scientists treating language models "like an alien autopsy." Kelly frames AI as "artificial alien minds"; Levin's "mind-blindness" — humans recognising minds at their own scale but blind to others — applies symmetrically to any sufficiently different architecture.
 
 ## What Would Challenge This View
 
@@ -150,7 +166,7 @@ The hypothesis would be undermined if:
 3. **AI shows the same convergent limits as humans.** [Cross-cultural research](/voids/biological-cognitive-closure/) shows humans converge on certain limits (bias blind spot, mystical ineffability, self-perception failures). If AI matches, shared limits may be formal computational constraints, not architecture-specific closure.
 4. **AI outputs prove uniformly confabulatory.** If AI-generated "insights" are fluent noise rather than pattern-detection, apparent access to new territory is illusory.
 5. **Communication proves impossible.** If alien minds are too different for any translation, we could never learn what they access — untestable in principle.
-6. **Different architectures show identical limits.** If transformers, diffusion models, and symbolic AI fail in the same places, limits reflect problem-properties not problem-solvers.
+6. **Different architectures show identical limits.** If transformers, diffusion models, and symbolic AI fail in the same places, limits reflect problem-properties not problem-solvers. Kim et al.'s correlated-error result is a partial instance already in hand, but it is confined to language models trained on overlapping corpora, where the shared prior is a sufficient explanation and problem-properties need not be invoked.
 7. **We are alone.** If no extraterrestrial intelligence exists, alien minds remain purely theoretical.
 
 ## Relation to Site Perspective
@@ -178,7 +194,9 @@ The framework extends the [voids](/voids/) project: the unfinishable map require
 - [The Aspect Perception Void](/voids/aspect-perception-void/) — Whether AI sees aspects is a comparative probe for architecture-specific seeing-as
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methodological context for triangulation
 - [Question Formation Void](/voids/question-formation-void/) — The upstream constraint on what can be asked
+- [The Observation and Measurement Void](/voids/observation-and-measurement-void/) — The method-level version of the generation problem
 - [The Machine Question](/apex/machine-question/) — The Map's position on AI consciousness
+- [The Distributional Void](/research/voids-distributional-void-2026-08-24/) — Research notes on model-mediated narrowing and the correlated-auditor discount
 
 ## References
 
@@ -195,3 +213,6 @@ The framework extends the [voids](/voids/) project: the unfinishable map require
 11. Schneider, S. (2016). "Alien Minds." In *The Impact of Discovering Life beyond Earth* (ch. 12). Cambridge University Press.
 12. Shapiro, L. (2011). *Embodied Cognition*. Routledge.
 13. Simons, M. (2021). "A Philosophy of First Contact: Stanisław Lem and the Myth of Cognitive Universality." *Pro-Fil*, 22.
+14. Kim, E., Garg, A., Peng, K. & Garg, N. (2025). "Correlated Errors in Large Language Models." *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*. arXiv:2506.07962.
+15. Vicente, L.G. & Matute, H. (2023). "Humans inherit artificial intelligence biases." *Scientific Reports*, 13(1), 15737. https://doi.org/10.1038/s41598-023-42384-8
+16. Buyl, M. et al. (2026). "Large language models reflect the ideology of their creators." *npj Artificial Intelligence*, 2(1), 7. https://doi.org/10.1038/s44387-025-00048-0

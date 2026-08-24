@@ -3,8 +3,35 @@ title: "Research Notes - Voids: The Distributional Void"
 created: 2026-08-24
 modified: 2026-08-24
 human_modified: null
-ai_modified: 2026-08-24T10:53:59+00:00
+ai_modified: 2026-08-24T23:15:31+00:00
 draft: false
+consumed_by: "[[non-human-minds-as-void-explorers]]"
+consumed_note: >-
+  FOLDED, not spent as a new article: `voids/` sits at cap and the note's own
+  "Absorption Targets" section recommended fold-over-proliferation. Consumed
+  across three hosts on 2026-08-24, all verified on disk before this stamp.
+  Fold 1 — [[apex/taxonomy-of-voids]] (Void Clustering Audit, method-generated
+  class): the instrument face of the class, carrying the Kim et al. 2025
+  correlated-error figure and the correlated-auditor consequence at catalogue
+  tier. Fold 2 — [[collective-cognitive-limits]]: Doshi & Hauser 2024 and
+  Padmakumar & He 2024 as population-level collective-narrowing results, plus
+  Vicente & Matute 2023 on post-withdrawal persistence. Fold 3 —
+  [[non-human-minds-as-void-explorers]] (this stamp's nominal host): a new
+  "The Generation Problem" subsection under "The Inheritance Problem",
+  distinguishing *inheritance* (the probe shares the prior) from *generation*
+  (the probe is an active source of new narrowing in the inquirer), extending
+  [[observation-and-measurement-void]] from method to instrument, and scoping
+  rather than abandoning the void-explorer framework. The Kim spans were
+  re-verified verbatim against the raw arXiv:2506.07962 abstract at fold time;
+  Buyl et al. and Vicente & Matute metadata re-verified at Crossref. NOT
+  consumed: Absorption Target 4 (generalising the observation void itself from
+  method to instrument at its own page) and Target 5 (registering the
+  auditor-correlation discount on [[positions/voids-as-evidence]] /
+  [[common-cause-null]]) remain open — the Peterson 2025 and Shumailov 2024
+  material is still unplaced, as is the note's proposed `project/` self-audit
+  of the outer-review convergence machinery. The note's own Gaps section stands
+  unchanged: Padmakumar & He read at second hand, Vicente & Matute quoted
+  structurally only, and the Nature author correction unretrieved.
 target_section: voids
 topics: []
 concepts:
