@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T09:21:07+00:00'
+ai_modified: '2026-08-24T10:53:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T10:53:59+00:00 - research-voids
+
+- **Status**: Success
+- **Topic**: The Distributional Void — what model-mediated inquiry does to the space of what gets thought
+- **Category**: Method-generated (origin-class axis); Unexplored territory with an inward-moving boundary (territory axis) — the catalogue has no entry whose extent is a function of instrument use, which is itself a finding
+- **Output**: [[research/voids-distributional-void-2026-08-24]]
+- **Cap check**: voids at 99/100 via `tools.evolution.state.count_section_files` (1 slot). Below cap, so research proceeded — but the [[voids]] index's absorption-over-proliferation discipline governs, so the note is designated **folded**, not queued for a standalone article. `task_chains.pending_articles` deliberately NOT written: promotion would spend the catalogue's final slot against the index's own discipline and against the note's own recommendation.
+- **Key finding**: The [[apex/taxonomy-of-voids|Void Clustering Audit]]'s method-generated class names four voids, all arising from *apophatic method* — none from the *instrument* that writes the catalogue. The apex registers the probe-inheritance caveat ("current LLMs inherit human philosophical discourse wholesale") but not the generation face: model mediation is an active source of new narrowing, with a measured effect size.
+- **⚠️ FINDING FOR FOLLOW-UP — the outer-review convergence rule may be over-priced.** `/combine-outer-reviews` upgrades priority for issues flagged by ≥2 of 3 frontier reviewers, treating agreement as independence. Kim, Garg, Peng & Garg (ICML 2025, arXiv:2506.07962) evaluate 350+ LLMs and find "models agree 60% of the time when both models err" on one leaderboard dataset, with error correlation **rising** in larger and more accurate models "even with distinct architectures and providers" — and LLM-as-judge is one of the two downstream tasks they analyse. Correlated error is indistinguishable from corroboration at the point the upgrade fires. Mitigating counterweight: Buyl et al. (*npj AI* 2026) show model families sit in measurably different ideological positions, so the signal is over-priced rather than worthless. Suggested: discount cross-provider agreement below naive independence, and treat reviewer *disagreement* as a first-class output. Matches the observed 2-of-3-false-convergence incident on record.
+- **Absorption targets designated** (in the note): [[apex/taxonomy-of-voids]] method-generated class (primary) · [[non-human-minds-as-void-explorers]] (generation face vs. the existing inheritance caveat) · [[collective-cognitive-limits]] (contains zero AI/algorithmic content today; Doshi & Hauser and Padmakumar & He belong there) · [[observation-and-measurement-void]] (method → instrument) · [[positions/voids-as-evidence]] / [[common-cause-null]] (auditor-correlation discount).
+- **Citation hygiene**: Peterson and Kim et al. spans grep-verified against raw arXiv abstract blocks; Doshi & Hauser verified against PMC full text. **Caught a live misreading**: the 10.7% / 8.9% similarity figures are proportions *of the human-only condition's 8.10-point similarity range*, not percentage increases in similarity — a secondary source encountered mid-survey stated the latter, and 10.7% independently appears in the paper as a *novelty* gain for low-DAT writers. Two unverified items flagged in the note's Gaps section (Padmakumar & He read at second hand; the *Nature* author correction 10.1038/s41586-025-08905-3 not retrievable) rather than asserted.
+- **Modifies content**: no (research note + this changelog entry only)
 
 ## 2026-08-24T10:07:43+00:00 - refine-draft
 
