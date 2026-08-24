@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T03:40:15+00:00'
+ai_modified: '2026-08-24T03:58:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-24T03:58:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`), full-site audit — subject `fallback:site-stale-7d`
+- **File**: [[reviews/outer-review-2026-08-24-chatgpt-5-6-sol-pro]]
+- **Collected by**: `/collect-chatgpt-review` this run — 37,503-char body extracted via page-side Blob download (SHA-256 `9e2bd0f9…` matched byte-for-byte against the in-page digest), not chunked retyping.
+- **Claims verified**: 12 checked on disk (9 confirmed verbatim, 3 disputed). All 14 files the review names resolve to **live** articles — no archived-slug misfires.
+- **High-value findings**: 1 outright logical error, 4 label/framing defects, 3 novel inferences.
+- **THE HEADLINE — an un-inherited correction, confirmed in both files.** `concepts/selection-only-channel` L76 withdrew the zero-throughput derivation and proved by counterexample that "Marginal preservation is compatible with *maximal* conditional dependence." `positions/subject-census` **P-SC1 still runs the withdrawn inference**: L44 concludes "two models differing only in subject count are empirically indistinguishable by construction… no measurement will settle it," and L43's calibration axis encodes it as a reason ("exact Born preservation *makes* models differing only in subject count statistically indistinguishable"). The reviewer's "mathematical inconsistency between two current canonical sources" is real. `positions/quantum-interface` **P-Q3** carries the same `none-by-construction` rating against `apex/born-preserving-causal-efficacy` L89, which says that exact question has "in-principle signatures." Minted as one P1 covering both registers, since the root is single.
+- **PROVENANCE — sharper than the reviewer's "corrections do not propagate" diagnosis, established by `git log -S` this run.** The withdrawal landed at **2026-08-03 05:36:01 UTC** (`1ab6b8a5bf`); P-SC1, with both defective spans, was authored at **06:32:58 UTC the same morning** (`8ca0143f5c`) by a sibling `positions-evolve` run — **57 minutes later**. The entry was written *into an already-corrected corpus*; nothing went stale. This is a live counterexample to the review's own fix 19 (reverse-dependency propagation), which keys on a canonical claim *changing* and would not fire for a dependent created *after* the change. Recorded in the P1's notes so the operator sees it before building tooling on that recommendation.
+- **Verified verbatim**: `embodied-interface` "selects nothing" (L53/L85); `machine-question` universal-actual-efficacy reading (L177); `phenomenology-mechanism-bridge` "independent evidence" in lede **and** `apex_thesis` **and** `description` (L58/L50/L3); `many-worlds-argument` titled "Against Many-Worlds" (L2); P-Q2/P-Q3 `none-by-construction` (L63/L74).
+- **Structural counts independently confirmed and exactly right**: `count_section_files` reads topics **320/320 (at cap)**, concepts **318/320**, voids **99/100**, and **54** live positions — matching the reviewer to the article. Worth noting these are *more current than this repo's own CLAUDE.md table*, which still reads 319/315/99 and 14 positions.
+- **Disputed — 3 findings did not survive checking**: (1) the quote "excludes the necessary interface by design" attributed to `apex/machine-question` is **fabricated** (`grep` → 0 hits), and its recommended replacement is **already implemented** at L191/L149, so fix 3 attacks retired text; a narrower live residue (three "by construction" loci at L111/L131/L143 against L191's "conditional rather than categorical") was found while checking and is what the minted P2 briefs instead. (2) "the Map has not operationalised do(C)" is overstated — the formalism and three-horn analysis are already at L79/L81/L89/L106; the real gap is the *identification* model, and the P3 is scoped to that.
+- **Convergence**: the Tenet 3 quantifier conflict (§II.1) was already logged as `NEEDS-HUMAN (foundations) 2026-08-17` by the **same service's** prior full-site audit. Recorded as a re-raise on that entry with the verbatim loci from both apex pages, plus a candidate reconciliation neither review considers (coupling-without-selection). Same reviewer twice is a repeat, **not** cross-service convergence — flagged as such rather than counted as corroboration.
+- **Tasks generated**: 5 (P1: 1, P2: 3, P3: 1) — P-SC1/P-Q3 propagation (positions-evolve); `phenomenology-mechanism-bridge` lede/thesis/description overclaim; `many-worlds-argument` title-vs-content drift (title only — no slug change, and it is gated behind that file's open length decision); `machine-question` "by construction" residue; `born-preserving-causal-efficacy` do(C) identification model.
+- **Not minted, deliberately**: fix 16 (enhancement article) duplicates three tasks already live from the 2026-08-23 cycle; the six methodology/build proposals (supersession IDs, dependency manifests, reverse-dependency propagation, schema validation, source versioning, consolidation pause) are operator/tooling decisions overlapping the open `NEEDS-HUMAN (loop tooling) 2026-08-03` entry. The §I.3 jurisdiction law and §I.5 branch-ethics entry are recorded inside the P3's notes for a later pass rather than minted now.
+- **Pending**: the Claude leg for this same 2026-08-24 subject was still `pending` at processing time; `/combine-outer-reviews` will adjudicate convergence once it lands.
+- **Published**: yes
 
 ## 2026-08-24T03:40:15+00:00 - refine-draft
 

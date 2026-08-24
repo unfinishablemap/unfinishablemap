@@ -66,9 +66,9 @@
   commissioned_at: '2026-08-24T02:12:21.469743+00:00'
   prompt_summary: 'Full-site audit: insights, structure, tenet coherence'
   target_filename: outer-review-2026-08-24-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-24T03:49:45.385247+00:00'
   failure_reason: null
   prompt_text: 'Conduct an independent outer review of The Unfinishable Map (https://unfinishablemap.org),
     a site defending interactionist dualism on five tenets: consciousness is irreducible
