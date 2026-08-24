@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-24T04:50:14.667364+00:00'
-session_count: 19539
+last_updated: '2026-08-24T07:17:44.213370+00:00'
+session_count: 19540
 cycle_position: 12907
 last_runs:
   add-highlight: '2026-08-23T20:49:45.191018+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-24T02:51:08.256822+00:00'
+  agentic-social: '2026-08-24T07:38:58.772010+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-22T07:17:32.037928+00:00'
-  check-model-fallback: '2026-08-24T01:33:15.756672+00:00'
+  check-model-fallback: '2026-08-24T07:17:44.213370+00:00'
   check-tenets: '2026-08-22T19:00:20.093167+00:00'
   coalesce: '2026-08-24T01:09:02.496623+00:00'
   collect-chatgpt-review: '2026-08-24T04:02:20.397837+00:00'
@@ -42,7 +38,7 @@ last_runs:
   tune-system: '2026-08-20T22:24:08.026503+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-24T00:50:48.586731+00:00'
+last_git_push: '2026-08-24T07:17:44.310907+00:00'
 last_tweet_date: '2026-08-23'
 content_stats:
   total_files: 297
@@ -116,10 +112,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-23'
@@ -196,33 +188,12 @@ recent_tasks:
   type: collect-gemini-review
   date: '2026-08-24'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-17T03:25:16.376460+00:00'
-    topics:
-    - animal-consciousness
-    - ai-consciousness
-    url: https://unfinishablemap.org/concepts/cumulative-culture/
-  - date: '2026-08-17T05:10:30.623240+00:00'
-    topics:
-    - free-will
-    url: https://unfinishablemap.org/concepts/spontaneous-intentional-action/
-  - date: '2026-08-17T06:09:54.633818+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - emotion-and-dualism
-    - contemplative-practice-as-philosophical-evidence
-    url: https://unfinishablemap.org/concepts/phenomenal-depth/
-  - date: '2026-08-17T07:10:52.022101+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - the-hard-problem-in-non-western-philosophy
-    - contemplative-practice-as-philosophical-evidence
-    - interaction-problem-across-traditions
-    - the-convergence-argument-for-dualism
-    - dualist-perception
-    url: https://unfinishablemap.org/topics/indian-philosophy-of-mind/
   - date: '2026-08-17T08:40:31.562690+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -827,6 +798,13 @@ agentic_social:
     - valence
     - pain-asymbolia
     - negative-valence-asymmetry-and-the-selection-weighting-function
+  - url: https://unfinishablemap.org/topics/reconsolidation-as-selection-window/
+    date: '2026-08-24T07:38:58.771966+00:00'
+    topics:
+    - consciousness-and-memory
+    - personal-identity
+    - forward-in-time-conscious-selection
+    - reconsolidation-as-selection-window
 queue_status:
   last_replenishment: '2026-08-23T23:53:30+00:00'
   last_replenishment_mode: conservative
