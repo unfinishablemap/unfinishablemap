@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-08-03 05:08:32+00:00
+ai_modified: 2026-08-24 14:49:31+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-08-03 05:08:32+00:00
+lastmod: 2026-08-24 14:49:31+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -118,9 +118,9 @@ The many-worlds interpretation of quantum mechanics is rejected. <span id="no-ma
 
 **Definition:** Many-worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real.
 
-**Rationale (primary—the indexical objection):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework's own resources for resolving this—branch-relative identity, self-locating credence, decision-theoretic Born rules (Sebens & Carroll 2018 and the literature surveyed in [Against Many-Worlds](/arguments/many-worlds-argument/))—presuppose the very centred subject the question asks after, so it stays open rather than answered, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the load-bearing argument.
+**Rationale (primary—the indexical objection, scoped):** Many-worlds raises a question its own framework cannot answer: why am I *this* branch rather than any of the others? Every branch is equally real; every counterpart is matched by another; nothing in the formalism identifies *me*. The framework's own resources for resolving this—branch-relative identity, self-locating credence, decision-theoretic Born rules (Sebens & Carroll 2018 and the literature surveyed in [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/))—presuppose the very centred subject the question asks after, so it stays open rather than answered, yet the question seems meaningful—meaningful in the same way questions of personal identity are meaningful elsewhere. This is not a parsimony complaint. It concerns what the framework *fails to explain*, not what it *postulates*. Indexical identity is among the things any account of consciousness must address; many-worlds dissolves rather than resolves it. This is the argument that carries the tenet's weight. Its reach, though, is narrower than that billing once implied: the objection is decisive against branch-egalitarian readings, where no branch carries first-personal privilege, but it does not by itself reach first-personally centred variants such as List's (2023), which build the privileged present into the ontology rather than leaving it dangling across symmetric branches. Against those the tenet leans on a separate commitment—the rejection of modal realism and the insistence on global uniqueness—which is held rather than weakened by the narrowing; that boundary is adjudicated at [the vertiginous question](/topics/vertiginous-question/).
 
-**Rationale (subsidiary—ontological multiplicity, qualified):** Many-worlds also entails vast ontological proliferation—countless copies of every observer in parallel. By [Tenet 5](/tenets/#occams-limits) parsimony is an unreliable guide to truth in this domain, and the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments *against* dualism. The ontological-extravagance objection is therefore subsidiary—a registered cost, not a refutation. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the full cumulative case.
+**Rationale (subsidiary—ontological multiplicity, qualified):** Many-worlds also entails vast ontological proliferation—countless copies of every observer in parallel. By [Tenet 5](/tenets/#occams-limits) parsimony is an unreliable guide to truth in this domain, and the Map cannot invoke simplicity against many-worlds while disarming parsimony arguments *against* dualism. The ontological-extravagance objection is therefore subsidiary—a registered cost, not a refutation. See [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) for the full cumulative case.
 
 **What the indexical objection presupposes (honestly noted):** The objection is meaningful only on a *non-deflationary* conception of personal identity—an "I" whose branch-assignment is a real further fact, not a convention, and whose [mine-ness](/concepts/mine-ness/) picks out a determinate subject. The Map endorses such an "I" on independent grounds (the agency cluster's substance-leaning sub-reading needs a persisting subject for [agent-causation](/concepts/agent-causation/); see the Tenet 1 note above), not from within this tenet. A deflationary route stays open at the framework boundary: the Madhyamaka no-self analysis ([buddhism-and-dualism](/concepts/buddhism-and-dualism/), [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)) takes the "I" to be an aggregate of conditions that already includes the branch, so "why am *I* this one?" is not a well-formed further question. That is a genuine bedrock disagreement, not an in-framework defect the Map can refute. By [Tenet 5](/tenets/#occams-limits) the Map concedes that "the indexical question is meaningful" is itself a posited claim, not a neutral datum.
 

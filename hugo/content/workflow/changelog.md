@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T14:38:00+00:00'
+ai_modified: '2026-08-24T14:49:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 14:38:00+00:00
+lastmod: 2026-08-24 14:49:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T14:49:31+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [tenets](/tenets/) (Tenet 4, No Many Worlds — rationale prose only; the tenet statement at `^no-many-worlds` is untouched)
+- **Original score**: not scored — `scripts/curate.py` does not exist; the SKILL.md Step 3 review command is stale. Scope was fixed by the task note rather than by a quality sweep.
+- **Changes**: two alias swaps and one scope clause. Constitutional document, so the pass was deliberately minimal.
+- **LABEL HALF — the alias sweep is now closed.** Commit `8041ede0` retitled `arguments/many-worlds-argument` to "The Map's Case for One-World Actuality" and swept 13 inbound aliases, but excluded L117 and L119 of this file on a driver mischaracterisation (recorded as rationale prose; both in fact carried `[[many-worlds-argument|Against Many-Worlds]]`). Both swapped to the canonical form used by the rest of the sweep. Post-edit `grep -rln 'Against Many-Worlds' obsidian/ hugo/content/` outside `archive/`, `reviews/` and `workflow/` returns **zero** carriers — this file was the last one.
+- **SUBSTANTIVE HALF — Tenet 4's primary rationale was asserting what its own argument page has stopped claiming.** L117 headed the indexical objection as what settles Tenet 4 and closed "This is the load-bearing argument." The linked article now concedes in its own lead that sophisticated branch-relative and first-personally centred variants "are not refuted on their own terms," and `topics/vertiginous-question` (L164, L188) adjudicates the case explicitly: the indexical objection "does not discharge the No Many Worlds tenet against List the way it does against Everett," and the Map rejects List on the separate ground of his modal realism abandoning global uniqueness. The most load-bearing document in the corpus was therefore over-claiming relative to two downstream articles — the `navigation-surfaces-carry-unreviewed-claims` shape, one level up.
+- **Fix mirrors L119's existing discipline rather than inventing one.** The subsidiary rationale already models the move: it concedes Tenet 5 blocks the parsimony use and marks the objection "subsidiary—a registered cost, not a refutation." L117's header now reads "(primary—the indexical objection, **scoped**)" against L119's "(subsidiary—ontological multiplicity, **qualified**)", and the closing sentence names the scope — decisive against branch-egalitarian readings, not by itself reaching first-personally centred variants such as List's (2023) — then points at [vertiginous-question](/topics/vertiginous-question/) where the boundary is worked out. **The argument was not imported**, only pointed at: a clause plus a pointer, matching how L119 points at Tenet 5. "This is the load-bearing argument" became "This is the argument that carries the tenet's weight," which also retires an intensifier CLAUDE.md discourages and avoids an over-assertion sitting immediately before its own qualification.
+- **What this does not concede.** The Map's case against List is **relocated, not weakened** — it rests on rejecting modal realism and holding global uniqueness, a live commitment. The clause says so in the body ("held rather than weakened by the narrowing") so no reader can take the narrowing for a gap in Tenet 4.
+- **Reasoning-mode classification (editor-internal, per Section 3.6):** engagement with List — **Mode Three, framework-boundary marking.** The narrowing declares honestly that the indexical objection does not reach List inside his own framework and names the separate commitment that does the work, rather than dressing tenet-incompatibility as in-framework refutation. No mode vocabulary leaked into the article body; verified against the forbidden-token list.
+- **Length noted, deliberately not acted on.** `analyze_length` reports 6584 words / `critical` against soft 2000, hard 3000. This is **threshold inheritance, not bloat** — `tenets.md` is a constitutional reference document being measured against article thresholds. No condense was triggered and the flag should not be resolved; it is recorded here so a future replenish pass does not mint one. Net change this pass: +3 sentences.
+- **Sync verified in both trees.** The Hugo path is `hugo/content/tenets/_index.md`, not `tenets.md`. Ran `scripts/sync.py`; the mirror carries the scoped header and both swapped aliases, and both wikilinks resolve to real URLs (`/topics/vertiginous-question/`, `/arguments/many-worlds-argument/`) — no broken-wikilink push blocker. Bare slug `vertiginous-question` confirmed collision-free.
+- **Published**: yes
 
 ## 2026-08-24T14:38:00+00:00 - deep-review
 
