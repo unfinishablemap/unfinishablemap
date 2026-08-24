@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-24T15:41:54+00:00'
+ai_modified: '2026-08-24T16:52:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-24'
-lastmod: 2026-08-24 15:41:54+00:00
+lastmod: 2026-08-24 16:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-24T16:52:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Original score**: not scored — `scripts/curate.py` does not exist (SKILL.md Step 3 is stale). Scope was set entirely by the task brief.
+- **Changes**: added a sixth objection-and-reply, "Stimulation evokes experience—doesn't that make the brain a generator?"; funded it from trims elsewhere; added four inbound cross-links the article previously lacked entirely.
+- **The gap, re-verified**: pre-edit, `penfield-interactionist-dualism`, `out-of-body-experiences`, `memory-anomalies`, and `argument-from-mechanism` had **zero** inbound links from this article — the Map's best material on evoked experiential content was unreachable from the article the objection most directly targets. All four are now linked (three inline in the new section, two additionally in Further Reading, all four in frontmatter).
+- **Raccah deliberately omitted.** The commissioning outer review cited a non-existent paper (Raccah et al. 2021, *Nature Reviews Neuroscience* 22(12)). The real Raccah, Block & Fox (2021, *J. Neurosci.* 41(10)) is a **paucity** result whose target is higher-order and global-workspace theories, and it runs opposite to the reviewer's use. Neither the fabricated citation nor the real paper appears in the article; the objection is carried by the three corpus-resident cases instead.
+- **Sources**: all three cases sourced from inside the corpus, with each source article's own hedges preserved — Penfield's temporal-lobe series (`concepts/penfield-interactionist-dualism`); Blanke et al. 2002 angular-gyrus stimulation, stated as **one patient**, repeatable and current-graded, per `topics/out-of-body-experiences` L66; perirhinal/parahippocampal déjà vu stated as "**can** elicit … on demand" per `topics/memory-anomalies` L78. Blanke 2002 added to the References list (full metadata copied from the OBE article) rather than left as a dangling inline cite. No new uncorroborated sources introduced — the fusiform and amygdala cases the brief flagged as optional were omitted.
+- **The reply and its named distinction**: evoked content stays inside the subject's existing repertoire, so stimulation is *subtractive* (shifting what the filter passes) rather than *additive*. Confirmed by the brief and independently: `\bsubtractiv` across topics/concepts/apex/voids returns three unrelated hits, so this is the first statement of the stimulation-sense distinction in the corpus. The threshold is cited to falsification condition 2 in `concepts/neural-correlates-of-consciousness` L144 rather than restated; the non-sequitur is cited to `concepts/argument-from-mechanism` (line 31 form, line 69 OBE worked instance) rather than re-derived.
+- **Engagement classification (editor-internal, not in the article body)**: Mode One — the objection's inference is defective on its own terms, since sufficiency of a stimulation mechanism does not yield necessity or exhaustiveness, and the opponent's own interventional standards license the correction. Combined with an explicit statement that the reply **constrains without discriminating**: production accounts predict repertoire-bounded evoked content equally well, so the distinction defeats the inference without converting into a test. That calibration register matches the existing fifth objection. No mode labels appear in the prose.
+- **Length — the binding constraint, met.** `analyze_length`: 3495 → **3491** words against the 3500 hard cap; status stayed `soft_warning` (never entered `hard_warning` in the final state). The ~245-word addition was fully funded by trims. Largest single trim was the fifth objection's bandwidth paragraph, compressed toward `bandwidth-of-consciousness` — but Sauerbrei & Pruszynski's actual position ("accept the ceiling for conscious cognition while showing unconscious motor control vastly exceeds it") was **kept**, because collapsing it into a bare joint citation would have misframed a rebuttal-flavoured paper as endorsing the ceiling simpliciter. Other trims: Further Reading annotations shortened (all links retained, one dropped as already inline), the four anaesthesia-component glosses trimmed toward `anaesthesia-and-the-consciousness-interface`, plus small dedupes where the same claim ran twice (the enhancement asymmetry, the Born-probability caveat, the 15% covert-consciousness figure).
+- **Every calibration hedge preserved through the compression** — audited individually: "without independent criteria", "pattern-level asymmetry rather than a precise testable prediction", "re-description rather than a discriminating test", "shared, not discriminating", "reframes the research question rather than favouring filter", "not a decisive test", plus the terminal-lucidity selection-bias qualification and the naive-vs-sophisticated production scoping.
+- **One incidental calibration fix**: the "Claims" bullet asserted filter theory "better accommodates anomalous findings", which contradicts the article's own closing weighting note ("the same accommodation move is available to production theorists on every case"). Softened to "accommodates … subject to the weighting note below". The parallel over-claim in the fourth objection was left alone as out of scope.
+- **Verification**: `evaluate_symmetry` returns `None` (altered-state symmetry still clear — the closing weighting note was not touched). `scripts/validate.py` passes. No slug collisions for any of the four new wikilink targets (checked across `obsidian/` and `archive/`).
+- **Ran `scripts/sync.py`** — the Hugo mirror at `hugo/content/concepts/filter-theory.md` carries the new section with all wikilinks resolved to real URLs and zero unconverted `[[...]]`. No push blocker.
+- **Published**: yes
 
 ## 2026-08-24T15:41:54+00:00 - optimistic-review
 
