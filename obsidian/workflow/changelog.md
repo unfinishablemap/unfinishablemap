@@ -5,6 +5,17 @@ ai_modified: '2026-08-24T00:16:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-24 00:40 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (commissioned 2026-08-23, collected 2026-08-24)
+- **File**: [[reviews/outer-review-2026-08-23-claude-opus-5]]
+- **Subject**: `topics/ethics-of-cognitive-enhancement-under-dualism` (recent-aged fallback, shared with the ChatGPT leg)
+- **Verdict**: REVISE-HARD
+- **Claims verified**: 16/16 target-article spans verbatim (zero fabrications); 28 omission claims grep-confirmed at zero; 6 external DOIs resolved exact at Crossref; Roberts et al. (2020) statistics verbatim against the published abstract; P-I1, P-Q10, P-VS3, P-MS1 register claims all confirmed
+- **Disputed**: 2 — the Levy ethical-parity "quotation" is a paraphrase presented as verbatim (attested wording recovered via Tesink et al. 2024), and the God Machine is attributed to the wrong Persson & Savulescu paper (it is Savulescu & Persson 2012, *The Monist* 95(3), not the 2011 *Bioethics* reply). Both defects sit in the supporting apparatus for the parity finding, not in the finding itself
+- **High-value findings**: 4 — the lede's "transforms the ethical landscape" overclaim against an entailment audit that finds dualism decorative in four of five conclusions; the uncredited rediscovery of Harris's freedom-to-fall objection; the absent efficacy literature under a "doubles working memory" hypothetical; and the enhancement-and-moral-status question the Map's own phenomenal sentientism makes unavoidable
+- **Tasks generated**: 4 (P1: 1, P2: 3)
+
 ## 2026-08-24T00:16:00+00:00 - outer-review
 
 - **Status**: Success
