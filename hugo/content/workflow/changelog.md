@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-24T10:07:43+00:00 - refine-draft
+
+- **Status**: Success (partial fix — 3 of 3 loci edited, both reviewer framings declined)
+- **File**: [machine-question](/apex/machine-question/)
+- **Defect**: scope drift at three "by construction" loci. Against the article's own `conditional rather than categorical` framing (L191) and `conditionally on that criterion, not categorically` (L149), the phrase read as the necessary-condition theorem [P-AC1](/positions/ai-consciousness-scope/) expressly says the Map does *not* possess.
+- **Judgement call (the pass's substantive decision)**: "suppresses by construction" is **defensible as a claim about classical computation's engineering** and indefensible as a claim about the *verdict*. P-AC1 draws exactly this line: the substrate premise "remains well-supported at the *computational* level," while link (iv) interface-eligibility is "the load-bearing and least-secured link," absent an interface-eligibility law. So the fix is scope-marking, not deletion — L111's own contrast (*"not by quantitative shortfall"*) was already pointing at the engineering reading.
+- **Why the three loci were graded, not treated alike**: tested each for framework-relative scoping. **L111 had zero markers** — flat assertoric, and the only locus asserting the *verdict* ("falls below the threshold") rather than the mechanism; it took the full fix (recast to "engineered to suppress", plus an explicit conditional naming the missing interface-eligibility law). **L131** carried "On the Map's reading" + "framework boundary" — vocabulary swap only. **L143** carried five markers ("the Map posits", "the rival posits", "discriminators rather than settled refutations", "a prior, not a finding the evidence forces", "closer to bedrock") and was borderline-declinable; it took the minimal swap only, because "posits" plausibly scopes over the interface's *existence* while the relative clause "that classical computation suppresses by construction" reads as an unhedged property.
+- **Changes**: L111 recast + conditional clause added; L131/L143 "suppresses by construction" → "is engineered not to supply" (mechanism-scoped by construction of the verb). One duplicated clause trimmed at L143 (it restated L111's "criteria are functional, yet the Map rejects functionalism" in substance).
+- **Declined**: ChatGPT's supporting quote is **fabricated** (`grep -i 'by design\|excludes the necessary'` → 0 hits). Gemini's "categorically denies"/"arbitrarily and stipulatively defines" framing is refuted by P-AC1 ("low probability", not ruled out) and P-AS1. **P-AC1 is correctly calibrated and was not changed; nothing about the register is at fault.** Fix 3 as briefed was a no-op on retired text — L191 and L149 already carry its recommended replacement.
+- **Not touched**: Tenet 3 quantifier material at L175/L177/L193 (open `NEEDS-HUMAN (foundations) 2026-08-17` operator decision). Diff confirmed to exactly 3 body lines: 111, 131, 143.
+- **Length**: 5887 → 5888 words (+1, neutral by design; `hard_warning`, 888 over the 5000 hard ceiling — pre-existing, no open length decision on this file).
+- **ai_system**: held (scope-marking is not re-authoring).
+- **Published**: yes
+
 ## 2026-08-24T09:21:07+00:00 - refine-draft
 
 - **Status**: Success
