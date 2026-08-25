@@ -1,14 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T05:27:00+00:00'
+ai_modified: '2026-08-25T06:07:34+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 05:27:00+00:00
+lastmod: 2026-08-25 06:07:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T06:07:34+00:00 - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: the **formal-authority wing** — the nine articles answering "what does consciousness contribute to logic and mathematics?" Read in full on disk at current text: `topics/consciousness-and-mathematics` (3069w), `topics/consciousness-and-the-authority-of-formal-systems` (3007w), `topics/consciousness-and-the-normativity-of-reason` (3403w), `topics/phenomenology-of-mathematical-understanding` (3556w), `topics/concession-convergence-philosophy-of-mathematics` (2518w), `topics/self-reference-and-the-limits-of-physical-description` (2929w), `concepts/carrolls-regress` (2215w), `voids/formal-cognitive-limits` (2256w), `voids/inference-void` (2885w). Counts from `tools.curate.length.analyze_length`, never `wc -w`.
+- **Output**: [optimistic-2026-08-25-formal-authority-wing](/reviews/optimistic-2026-08-25-formal-authority-wing/)
+
+**Why this wing.** Members have appeared in earlier optimistic reviews individually, but the wing has not been co-read since 2026-06-20/06-22, and four members have appeared in no optimistic review since then. `concession-convergence-philosophy-of-mathematics` has not been touched since 2026-06-13. All three findings are visible only from the wing view.
+
+**The praise is unusually well-earned, and the Hardline Empiricist carries it.** Four members apply the Map's own instruments against themselves: `consciousness-and-the-authority-of-formal-systems` L133 discounts its own twin arguments to *one* argument shown in two domains — "the discount this article owes itself as much as any other, not a convergence bonus"; `self-reference` L124 states "removing a defeater is not the same as supplying positive evidence" and declines the upgrade by name, citing `evidential-status-discipline`; `carrolls-regress` L55 splits the inferentialist reading into an epistemic register it claims and a metaphysical register it flags as a contested bridge; `phenomenology-of-mathematical-understanding` builds Ramanujan as a worked exhibit in refusing register-collapse, volunteering the documented prime-counting error as the point that blocks the truth-oracle reading. `voids/inference-void` files *itself* down a tier ("medium-adjacent rather than overclaimed") after failing one of three sub-conditions. **Tier-upgrade check clean** — nothing in this wing uses tenet-coherence to move a claim up the five-tier scale, so the Process Philosopher and Hardline Empiricist do not conflict.
+
+**One calibration concern, with a traceable cause — P2 refine-draft minted.** The hub `topics/consciousness-and-mathematics` L116 runs Lucas-Penrose above all three of its siblings, which grade it down explicitly (`self-reference`: "The Lucas-Penrose route is unreliable"; `concession-convergence`: "one contested inference carries the whole weight"; `formal-cognitive-limits`: "Most philosophers reject the argument"). Grep-verified: Chalmers, Aaronson, Feferman and Putnam appear **nowhere** in the hub. `git log -S` + `git show` locate the cause in `2b28d09622` (*"refine(condense): reduce ... from 4423 to 2785 words"*), which replaced "**Others note** that mathematicians might use a larger system F′..." with "**But the regress is telling**: ...", collapsing a *second critic's observation* into the Map's *rebuttal of the first*. Textbook `condense-regresses-calibration-qualifiers`, caught with a diff. The contrast that makes it wing-level: the hub's *Ramanujan* paragraph **did** receive its sibling's calibration via `07e410a857` — the back-propagation channel exists and was simply not run for Penrose.
+
+**The wing has no synthesis node — P3 apex-evolve minted, flagged against an older overlapping task.** Every `apex_sources` block in all 43 `obsidian/apex/*.md` files was parsed (267 distinct sources): none lists any of the nine members. The proposed thesis is one no member states alone — that the wing's discipline is *symmetric*, refusing to let a formal result settle the question against the reductionist (Carroll, Gödel, Sellars) and equally against the Map's own enthusiasm (defeater-removal is not evidence; two domains is still one argument; an articulation limit is not a non-physical operation). Structurally the same payload as "The Discipline Cuts Both Ways" in `apex/competency-without-felt-experience`. The task explicitly names the pending `### P3: Apex-evolve "Mathematical Insight as Phenomenal Evidence"` (2026-05-12, the *phenomenological* strand of the same wing) and instructs whichever is picked first to absorb the other or say why not.
+
+**No expand-topic task minted, and the report says why.** `tools.evolution.state.count_section_files('topics')` returns **320** against a cap of **320**. The wing's clearest content gap — machine-checked mathematics as a live test of understanding-vs-verification, where `mathlib` / "proof assistant" / "machine-checked" / "automated theorem proving" all grep **zero** across `obsidian/` and `archive/` — is routed to the apex instead. The same cap already makes the open `### P3: Write article on consciousness and the philosophy of proof` (2026-04-14, targets `topics/`) non-executable as minted.
+
+**Six cross-link absences, all grep-verified in both directions.** Sharpest: `concepts/carrolls-regress` receives 10 inbound links from live articles — including two from `consciousness-and-the-normativity-of-reason`, which uses it to formalise its own central distinction — and links back to neither that article nor `consciousness-and-the-authority-of-formal-systems`. Also: `phenomenology-of-mathematical-understanding` ↔ `formal-cognitive-limits` have no link either way, though the latter's "recognising without grasping" section is first-person data of exactly the kind the former collects; and `voids/inference-void` is the wing's one un-audited convergence claim (three "independent lines of pressure", no engagement with `common-cause-null` or `epistemology-of-convergence-arguments`, which two siblings do engage).
+
+**Two housekeeping observations reported, not acted on** (reports-only skill; task-status changes belong to the cycle): `### P3: Strip AI REFINEMENT LOG block from topics/consciousness-and-mathematics.md` appears **already complete** — `grep -n "REFINEMENT LOG"` on that file returns nothing, so a pick would find no work and burn a slot; and the philosophy-of-proof task above is cap-blocked.
+
+## 2026-08-25T05:50:26+00:00 - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-25
+- **Coverage**: 3/3 reviewers processed (sources: `chatgpt-5-6-pro`, `claude-opus-5`, `gemini-2-5-pro`) — all three audited the same article, `voids/edge-states-and-void-probes`, via the reuse branch
+- **Clusters**: 6 convergent, 5 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2); 4 further convergent findings were already at P1 and were annotated rather than moved
+- **Tasks deduplicated**: 0 — both collect passes had already augmented existing tasks rather than duplicating them
+- **Output**: [outer-review-synthesis-2026-08-25](/reviews/outer-review-synthesis-2026-08-25/)
+
+**Convergence was adjudicated, not counted.** Per-reviewer accuracy this cycle ran from 9-of-9 verbatim (ChatGPT) through three disputed claims (Claude) to 1-of-5 verified (Gemini, which audited a composite of several site pages), so a bare 2-of-3 agreement was not treated as corroboration. Every cluster was checked against the article on disk before it was allowed to move a priority, and none of Gemini's four refuted weaknesses was permitted back in through the count.
+
+**The two upgrades.**
+
+- **P2 → P1: framework-level active inference is absent from the target.** Claude and Gemini reached it independently, and it is the single Gemini item that verified — `Laukkonen`, `beautiful loop`, `Seth`, `Letheby` and `Van Dam` all grep zero in the article. Claude's framing governs the fix: the corpus already carries this material, so it is **local non-integration, not a systemic blind spot**, and the repair is mostly cross-linking.
+- **P2 → P1: citation checking must resolve-and-diff, not merely confirm existence.** ChatGPT proposed the identical gate field-by-field ("check DOI metadata, year, volume, article number, container title and author list against publishers or Crossref"), independently of Claude's diff formulation. This is convergence on a *specific and non-obvious* mechanism rather than on referee boilerplate — both are anchored to the same verified diagnostic, a citation whose DOI is correct while its year, volume and article number are wrong, which an existence check and a DOI-resolves check both pass. The task also absorbed ChatGPT's separable body-to-bibliography completeness test, whose live instance is the missing Koriat reference, and which needs no network call.
+
+**Four convergent findings already at P1, recorded not moved**: the question-begging Bidirectional Interaction coda (ChatGPT + Claude); the decorative Minimal Quantum Interaction coda (ChatGPT + Claude, with a compatible remedy variance — cut, or mark as a coherence cost); the citation-metadata cluster (Zeifman/REBAS, Sjöstedt-Hughes container, Gładziejewski online-first/print, missing Koriat); and retrospective-report validity, already carried as an item on the finding-1 task.
+
+**Divergence worth its own attention.** ChatGPT and Claude read the article's body in opposite directions — ChatGPT finds the lead overclaims what the later analysis retracts, Claude finds calibration asymmetry "near-absent, and arguably reversed" and the article at risk of *over-concession*, with the sole violation confined to the tenet coda. Both cannot be right about the same paragraphs; the refine pass on the ChatGPT singleton should adjudicate rather than execute either verdict unread.
+
+**Recorded, deliberately not actioned.** Kim, Garg, Peng & Garg (arXiv:2506.07962, ICML 2025) find error correlation *rising* with capability "even with distinct architectures and providers", with models agreeing "60% of the time when both models err" — a direct argument that a 2-of-3 count is worth less than it looks. Buyl et al. (*npj AI* 2(1):7, 2026) is the counterweight: model families do sit in measurably different positions by region of origin, so the signal is **over-priced, not worthless**. Re-weighting the standing upgrade discipline is the operator's reserved domain and overlaps the open `NEEDS-HUMAN (methodology ratification) 2026-08-03` entry; recorded, not changed.
+
+**No new tasks minted.** Eleven-plus active `todo.md` blocks already touch `voids/edge-states-and-void-probes`; adding more would have compounded the pile-up rather than the coverage.
 
 ## 2026-08-25T05:27:00+00:00 - outer-review
 
