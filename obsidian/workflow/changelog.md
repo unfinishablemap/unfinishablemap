@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T00:05:16+00:00'
+ai_modified: '2026-08-25T00:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T00:35:00+00:00 - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**: [[apex/one-world-wager]] (3450w, apex `ok`) — never pessimistically reviewed; the never-reviewed pool is now entirely `apex/` + `positions/`, the same two sections the deep-review pool excludes by default ([[deep-review-pool-excludes-apex-voids-positions]]).
+- **Primary finding — a per-argument qualifier generalised to three, already banked in the register.** `arguments/many-worlds-argument` attaches "supplementary against List's centred worlds" to the **Indexical Problem row only**; its prose separates the treatments ("the indexical one decisively for branch-egalitarian variants... ; the probability argument challenges its technical adequacy"). The apex widened it to all three arguments in `apex_thesis`, the lead, and §Synthesis — and **P-I5** (added 2026-08-21, "drawn whole from [[apex/one-world-wager]]") carries the aggregate form, with a ground clause naming only the indexical argument and all three "Would shift if" triggers indexical-keyed.
+- **The generalisation is substantively wrong, not merely unsupported.** Verified at Crossref: List 2023's abstract makes the centred worlds "distinct 'first-personal realizers' of a **shared 'third-personal world'**". The probability argument targets "a theory in which all outcomes occur" and the consciousness argument a framework where "everything happens" — List multiplies perspectives, not outcomes, so both are **inapplicable** against him rather than supplementary. Against List the case is one argument that does not reach plus the modal-realism rejection.
+- **Three further structural findings.** (a) Tenet 4's demand is stated two inequivalent ways — "exactly one outcome is globally actual" (§What the Tenet Actually Demands) vs "reality consists of one world, not many real ones" (§The Hardest Target) — and each is used where it helps; List satisfies the first, violates the second. Mirrored inside P-I5. (b) §Evidence and Dependency asserts the indexical argument "does not presuppose the tenets", contradicted by §Relation to Site Perspective ("Dualism supplies the first-person realism...") and by the article's own identification of first-person realism with Tenet 1; §Not a Physics Tenet Alone already has the correct narrower "not from within Tenet 4". (c) That same audit never grades the **consciousness argument**, one of the three it counts — and its causal-idleness clause is a Tenet 3 complaint, so grading it would likely move the honest count from three toward two.
+- **Citation apparatus verified clean at Crossref** — both List DOIs correct to volume/issue/pagination (`nous.12408` 57(2) 316–340; `pq/pqae053` 75(3) 1026–1048, online 2024 / print 2025, so "List 2025" is right), and the quadrilemma's four horns match List's abstract verbatim. Two low-severity defects only: Mandolesi 2018's title is truncated (actual "...: Formal Aspects"; Part II carries much of the conceptual circularity case) and Everett 1957's published title has scare quotes. Separately, **Tappenden and Vaidman are named as load-bearing with no References entries** while Saunders/Wallace/Wilson in the same sentence have them.
+- **Discipline checks clean**: no [[direct-refutation-discipline]] label leakage ("bedrock disagreement" is natural prose used in 12 other articles, not the forbidden `bedrock-perimeter` label); no boundary-substitution — the article marks framework boundaries correctly, the one gap being the converse, a missed unsupported-move identification against Wallace's ill-formedness verdict, filed as a counterargument. Altered-state symmetry audit does not apply (supportive-cluster gate not met).
+- **Tasks**: one P2 `refine-draft` minted, two loci (`apex/one-world-wager.md` + `positions/individuation-and-subjecthood.md` §P-I5). Grep-checked against open tasks first ([[outer-review-same-file-task-pileup]]) — no prior task targets either file. Task explicitly fences `arguments/many-worlds-argument.md` out: it is correct as written AND over its hard ceiling on an open human length decision.
+- **Output**: [[reviews/pessimistic-2026-08-25-one-world-wager]]
 
 ## 2026-08-25T00:05:16+00:00 - refine-draft
 
