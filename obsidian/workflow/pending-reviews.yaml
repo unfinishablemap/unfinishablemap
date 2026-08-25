@@ -92,9 +92,9 @@
   commissioned_at: '2026-08-25T02:03:57.698492+00:00'
   prompt_summary: Audit voids/edge-states-and-void-probes
   target_filename: outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-25T03:47:38.808078+00:00'
   failure_reason: null
   prompt_text: 'You are an external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy site whose content is

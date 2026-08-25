@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T03:34:25+00:00'
+ai_modified: '2026-08-25T03:54:50+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T03:54:50+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro]]
+- **Subject**: `voids/edge-states-and-void-probes` (recent-aged fallback; same subject as the pending Claude leg)
+- **Claims verified**: 9 Map-attributed spans grep-checked (9/9 verbatim), 5 article citations checked at Crossref / Europe PMC, 6 proposed additions checked before minting, 1 revision-date claim checked against git
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 2, P2: 3)
+
+**Extraction.** Body 43,825 chars / 44,146 bytes, taken by page-side Blob download with SHA-256 match against disk (`464e457d…62a60`) — no transcription channel, so no drift. Render confirmed complete (closes on item 15 of the site-methodology list).
+
+**An unusually accurate reviewer, checked rather than assumed.** Against the standing base rate for this channel, **every one of the 9 Map-attributed quoted spans greps positive** in the target article — no fabrication, no scope creep. Four citation criticisms verify at the publisher:
+
+- **REBAS/Zeifman** — article says *Sci Rep* **13, 3083 (2023)**; Crossref and Europe PMC both return **15, 3651, 2025-01-29**. The DOI the article carries is *correct*; Nature's stem encodes the 2023 submission, which is very likely how the wrong year entered and then fixed the wrong volume behind it. The abstract also confirms **N = 11**, "preliminary examination", "tentative evidence". Sharpest part: the standing `HUMAN LENGTH DECISION 2026-06-05` block in `todo.md` describes this exact citation as "PRIMARY-SOURCE-VERIFIED" — **a prior verification pass ratified wrong metadata**, which is the citation-ledger failure mode rather than a missed check.
+- **Closure attribution** — the psychological/representational distinction is Vlerick & Boudry (2017) *Dialectica*, not "Kriegel and McGinn". The reviewer noted the Map's own research note records the right locus; it does (`research/voids-closure-types-2026-04-18.md:45`), and so do the three articles that *own* the distinction. `edge-states-and-void-probes` is the lone outlier — which narrows the fix rather than widening it.
+- **Sjöstedt-Hughes container** — *The Palgrave Handbook of Philosophy and Psychoactive Drug Use* (2024), not *Philosophy and Psychedelics*. This one **propagates** to two more live files plus the archive tree.
+- **Koriat** — load-bearing at line 111, absent from the bibliography.
+
+**Revision-date correction, verified and systemic.** The commission prompt told the referee the article was "last substantively revised on 2026-08-18". Commit `b189e4609f` changed one wikilink target and dropped one `related_articles` line — **no prose** — and still reset `ai_modified`. The referee spent its opening section correcting us. Beyond the embarrassment, the recent-aged subject selector picks on `ai_modified`, so link-maintenance moves review eligibility on a date reflecting no argumentative change. Minted as a methodology task, scoped to a proposal, not a unilateral change to loop state-writing.
+
+**Archived-target trap, resolved not declined.** The reviewer's `convergent-phenomenological-evidence` finding attacks a page archived 2026-04-05. Rather than declining it, the slug was resolved: the "too specific for generic neural explanations" claim **survives in the live successor** `concepts/phenomenological-evidence` (L138), while `topics/epistemology-of-convergence-arguments` (L84) already carries the calibrated version that concedes the threshold is under-articulated. The finding is valid and retargeted.
+
+**All six proposed additions verified real before minting** (Girn 2026 *Nature Medicine* mega-analysis, McGovern 2024 FIBUS, Seragnoli 2025, Canby 2024, Khan 2026, Vlerick & Boudry 2017) — one venue label flagged so the corpus does not inherit it: FIBUS is *Communications Psychology*, which the reviewer filed under "Nature".
+
+**Partial dispute recorded.** The AWARE-II "self-selected subset" / "primary test" criticism is a re-framing job, not a factual error; the attrition figures are right but the article's shorthand is defensible. Logged as re-frame, not delete.
+
+Both tasks touching `edge-states-and-void-probes` carry the standing length flag: **net length-neutral, do not open the length question.**
 
 ## 2026-08-25T03:34:25+00:00 - refine-draft
 
