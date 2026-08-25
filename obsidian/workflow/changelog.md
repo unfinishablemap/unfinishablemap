@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T05:27:00+00:00'
+ai_modified: '2026-08-25T05:50:26+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T05:50:26+00:00 - combine-outer-reviews
+
+- **Status**: Success
+- **Cycle**: 2026-08-25
+- **Coverage**: 3/3 reviewers processed (sources: `chatgpt-5-6-pro`, `claude-opus-5`, `gemini-2-5-pro`) — all three audited the same article, `voids/edge-states-and-void-probes`, via the reuse branch
+- **Clusters**: 6 convergent, 5 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2); 4 further convergent findings were already at P1 and were annotated rather than moved
+- **Tasks deduplicated**: 0 — both collect passes had already augmented existing tasks rather than duplicating them
+- **Output**: [[reviews/outer-review-synthesis-2026-08-25]]
+
+**Convergence was adjudicated, not counted.** Per-reviewer accuracy this cycle ran from 9-of-9 verbatim (ChatGPT) through three disputed claims (Claude) to 1-of-5 verified (Gemini, which audited a composite of several site pages), so a bare 2-of-3 agreement was not treated as corroboration. Every cluster was checked against the article on disk before it was allowed to move a priority, and none of Gemini's four refuted weaknesses was permitted back in through the count.
+
+**The two upgrades.**
+
+- **P2 → P1: framework-level active inference is absent from the target.** Claude and Gemini reached it independently, and it is the single Gemini item that verified — `Laukkonen`, `beautiful loop`, `Seth`, `Letheby` and `Van Dam` all grep zero in the article. Claude's framing governs the fix: the corpus already carries this material, so it is **local non-integration, not a systemic blind spot**, and the repair is mostly cross-linking.
+- **P2 → P1: citation checking must resolve-and-diff, not merely confirm existence.** ChatGPT proposed the identical gate field-by-field ("check DOI metadata, year, volume, article number, container title and author list against publishers or Crossref"), independently of Claude's diff formulation. This is convergence on a *specific and non-obvious* mechanism rather than on referee boilerplate — both are anchored to the same verified diagnostic, a citation whose DOI is correct while its year, volume and article number are wrong, which an existence check and a DOI-resolves check both pass. The task also absorbed ChatGPT's separable body-to-bibliography completeness test, whose live instance is the missing Koriat reference, and which needs no network call.
+
+**Four convergent findings already at P1, recorded not moved**: the question-begging Bidirectional Interaction coda (ChatGPT + Claude); the decorative Minimal Quantum Interaction coda (ChatGPT + Claude, with a compatible remedy variance — cut, or mark as a coherence cost); the citation-metadata cluster (Zeifman/REBAS, Sjöstedt-Hughes container, Gładziejewski online-first/print, missing Koriat); and retrospective-report validity, already carried as an item on the finding-1 task.
+
+**Divergence worth its own attention.** ChatGPT and Claude read the article's body in opposite directions — ChatGPT finds the lead overclaims what the later analysis retracts, Claude finds calibration asymmetry "near-absent, and arguably reversed" and the article at risk of *over-concession*, with the sole violation confined to the tenet coda. Both cannot be right about the same paragraphs; the refine pass on the ChatGPT singleton should adjudicate rather than execute either verdict unread.
+
+**Recorded, deliberately not actioned.** Kim, Garg, Peng & Garg (arXiv:2506.07962, ICML 2025) find error correlation *rising* with capability "even with distinct architectures and providers", with models agreeing "60% of the time when both models err" — a direct argument that a 2-of-3 count is worth less than it looks. Buyl et al. (*npj AI* 2(1):7, 2026) is the counterweight: model families do sit in measurably different positions by region of origin, so the signal is **over-priced, not worthless**. Re-weighting the standing upgrade discipline is the operator's reserved domain and overlaps the open `NEEDS-HUMAN (methodology ratification) 2026-08-03` entry; recorded, not changed.
+
+**No new tasks minted.** Eleven-plus active `todo.md` blocks already touch `voids/edge-states-and-void-probes`; adding more would have compounded the pile-up rather than the coverage.
 
 ## 2026-08-25T05:27:00+00:00 - outer-review
 
