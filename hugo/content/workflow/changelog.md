@@ -1,14 +1,74 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T06:07:34+00:00'
+ai_modified: '2026-08-25T07:01:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 06:07:34+00:00
+lastmod: 2026-08-25 07:01:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T07:01:51+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Original score**: n/a — `scripts/curate.py` no longer exists (known stale command in the skill text); assessed by direct reading against the task brief and [cluster-integration](/project/cluster-integration-discipline/) grounds
+- **Length**: 3561w before → **3561w after — exactly net-neutral**, as the standing `HUMAN LENGTH DECISION 2026-06-05` requires (voids hard ceiling 3000; the file sits at `hard_warning` either side of this pass). Every added word was paid for by a cut in the same pass. No `condense` task minted.
+- **Published**: yes
+
+**What the defect was — local non-integration, not a corpus gap.** Grep confirmed zero hits in the article for `Laukkonen`, `beautiful loop`, `Seth`, `Letheby`, `Van Dam` before this pass. The article engaged REBUS / ALBUS-SEBUS / REBAS well and handled Metzinger exemplarily, but all of that treats predictive processing as an *edge-mapping mechanism*; the framework-level active-inference *theories of consciousness* — the actual rivals to a dualist reading of edge phenomenology — were absent. The corpus already owns every one of them ([predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/), [predictive-processing](/concepts/predictive-processing/)), so the fix was wikilinks plus one bridging paragraph, not new research.
+
+**Convergent finding.** Claude Opus 5 (`reviews/outer-review-2026-08-25-claude-opus-5.md`) and Gemini 2.5 Pro (2026-08-25) reached this independently, from different angles; it is the single item of the Gemini leg that survived verification (the other four verify FALSE and were **not** inherited). Convergence counted here because the underlying absence was grep-confirmed on disk, not because two voices agreed.
+
+**What landed.**
+1. **Laukkonen, Friston & Chandaria (2025), "A beautiful loop"** — new closing paragraph in *The Zero-Person Perspective*. Active inference advanced as a theory of consciousness itself; the zero-person perspective redescribed as a recursive epistemic field once its self-model drops out, and contemplative cessation as a volitional collapse of precision over hierarchical hidden states rather than a crossing — which is Gemini's *nirodha samāpatti* angle, absorbed. Cited to the **journal DOI `10.1016/j.neubiorev.2025.106296`**, not the four PsyArXiv preprints under `10.31234/osf.io/daf5n`. Metadata matches the three live corpus citations of the same paper.
+2. **Seth / Hohwy / Clark** — one sentence closing the REBUS paragraph, naming them as the framework-level generalisation and pointing forward by named anchor to the zero-person section. Linked, not re-expounded, per brief. **No reference entry added**: [predictive-processing](/concepts/predictive-processing/) carries Seth 2021, Clark 2016 and Hohwy 2013 with full metadata, and the article already names Bergson on the same footing.
+3. **Letheby, *Philosophy of Psychedelics* (OUP, 2021)** — appended to the edge-mapping verdict paragraph. Recorded as **agreement**, not manufactured disagreement: Letheby's deflationary conclusion (insight discloses the constructed character of the self, not a wider reality) *is* this article's edge-mapping verdict reached from the opposite metaphysics. The residual disagreement — what persists through dissolution — is deferred to [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) rather than restated.
+4. **Van Dam et al. 2018, "Mind the Hype"** — one sentence closing the Stace/Katz cross-tradition paragraph, discounting retrospective self-report for expectancy and demand characteristics.
+
+**Collision avoided with the sibling P2 on [noetic-feelings-void](/voids/noetic-feelings-void/).** That task carries Canby et al. 2024 (construct heterogeneity) and proposes making `noetic-feelings-void` the canonical evidence owner for noetic-quality claims. Division of labour observed: **Van Dam landed here at the cross-tradition *report-validity* locus only**; the *construct-individuation* caveat was deliberately left untouched so the noetic task can install Canby without a duplicate methodology paragraph.
+
+**Engagement classification (editor-internal — [direct-refutation-discipline](/project/direct-refutation-discipline/)). No mode labels appear in the article body.**
+- Laukkonen/Friston/Chandaria: **Mode Three, framework-boundary marking.** No in-framework refutation was attempted, and the honest reason is stated in prose: the account is built to entail consciousness from the dynamics, so the Map's counter rests on its tenets rather than on a defect internal to active inference. This matches the call the dedicated treatment already makes; the disagreement is closer to bedrock than the phenomenology can reach.
+- Letheby: **not a reply mode — agreement.** Stated plainly as convergence.
+- Seth / Hohwy / Clark: no engagement mounted; named and linked as competitors.
+- Van Dam: methodological discount on shared evidence, not an opponent reply.
+
+**Where the net-neutral budget came from** (all redundancy, no claim removed): the "does not discriminate" conclusion was stated four times across the Reducing Valve section and the Dualism coda — the two weakest restatements were compressed; the confabulation paragraph was folded toward the noetic-feelings account that already supersedes it; the *Approaches to the Edge* section was merged into *The Apophatic Connection* (its unique content — the artificial-minds pointer to [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — was preserved); the orphan **Kutnyy 2024** reference was dropped (zero body citations; Kriegel and McGinn already carry mysterianism); five reference entries had co-author lists trimmed to first-author-et-al. with all titles, journals and DOIs intact; Further Reading was rebalanced from 8 entries to 6, swapping two body-linked duplicates for the two predictive-processing articles.
+
+**Verification.** `analyze_length` 3561 → 3561. `validate.py` ✓ Valid. `evaluate_symmetry()` returns `None` (altered-state symmetry still clear — the disruptive-cluster paragraph and its "structurally identical" marker were preserved through the compression). Sync run; Hugo tree confirmed to carry all four additions, all three new links resolved to real paths, and zero body wikilinks left unconverted. All three new link slugs are corpus-unique.
+
+**Left for the sibling P2 on this same file** (`reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro.md`): the lead-vs-concession calibration and the "idiosyncratic chaos" false dichotomy. Untouched here to avoid churn — though note that this pass makes that task *more* pressing, since the new Laukkonen paragraph supplies exactly the "structured construction by a shared system" answer that task says the article never meets. The `What the Edge Reveals` lesson "The subject is not essential to experience" now sits in visible tension with it.
+
+## 2026-08-25T06:19:37+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) (target) + three grep-verified sibling loci: [inaccessible-past](/voids/inaccessible-past/), [ineffable-encounter-void](/voids/ineffable-encounter-void/), [formal-cognitive-limits](/voids/formal-cognitive-limits/)
+- **Original score**: n/a — `scripts/curate.py` no longer exists (known stale command in the skill text); assessment done by direct reading against [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) Countermeasure 12
+- **Published**: yes
+
+**What the defect was.** Four tenet codas asserted `demonstrates` where the articles' own bodies concede only `consistent with`. This is exactly the Strength-of-Claim Linter case in [Countermeasure 12](/project/coherence-inflation-countermeasures/), whose specified scan covers leads **and "Relation to Site Perspective" sections** for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism"), with the rule *align the lead down to the body, never the body up to the lead*. The countermeasure names two prior catches ([mental-effort](/concepts/mental-effort/), [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)); these four are the same failure mode, on codas rather than leads. No new discipline was invented.
+
+**Target — `edge-states-and-void-probes` L161 (Bidirectional Interaction).** The article's Dualism coda four paragraphs earlier concedes "The edge-state data fit dualism; they do not select it," yet the Bidirectional coda claimed meditation "demonstrates consciousness influencing physical processes." On physicalism the intention *is* a neural state, so intention-alters-brain-function is intra-physical causation and discriminates nothing. Rewritten to state the observation, then name why it does not discriminate, then name what would (an outcome its neural antecedents underdetermine) — carrying the Minimal Quantum Interaction tenet link forward in compressed form.
+
+**Target — Minimal Quantum Interaction coda cut.** The self-flagged-speculative REBUS/coherence paragraph did no argumentative work, and its REBUS content is already covered at L89–91. Cut rather than boxed; the cut is the length budget for the Bidirectional rewrite (see below).
+
+**Engagement classification (editor-internal — [direct-refutation-discipline](/project/direct-refutation-discipline/)).** Bidirectional coda: **Mode Three, framework-boundary marking** — the in-framework argument is not available here, because physicalism accommodates intention-mediated neural change without strain, so the honest move is to say so and name the discriminating case the Map's quantum-interface proposal is *for*, marked framework-internal rather than edge-state-licensed. `inaccessible-past`: **Mode Three** with an explicit statement that the reconstructive findings are common ground. `ineffable-encounter-void` and `formal-cognitive-limits`: **Mode Three**, verb downgrade only. No mode labels appear in any article body.
+
+**Siblings, effort calibrated to severity as briefed.**
+1. `inaccessible-past` (strongest — explicitly question-begging): rewritten. "If consciousness were causally inert, the present self's needs would not shape neural reconstruction" now states the tempting inference and then defeats it — those needs *are* neural states on physicalism, so reconstructive memory is what a physical system modelling its own goals produces anyway. The tenet reading is retained as the shape the tenet takes *if it holds*, carried by tenets and arguments made elsewhere.
+2. `ineffable-encounter-void` L155: `demonstrates` → `is consistent with`, plus the physicalist redescription and "illustrate the tenet rather than evidencing it."
+3. `formal-cognitive-limits` L136: verb downgraded (`demonstrates consciousness engaging` → `is consciousness engaging`) and the conditional named as doing the work.
+4. **Minor in-section catch, same file as (1):** `inaccessible-past` L122 said the knowledge argument "demonstrates" qualia-irreducibility for present experience; downgraded to "argues" (one word, zero length cost, same coda section, same defect class). No wider sweep — a `demonstrat|establishes|proves` grep across all four files now returns only unrelated idiomatic uses ("articulating *what* proves impossible", "the second theorem proves", "demonstration that minds are computational").
+
+**Convergence.** Both halves confirmed 2/3 by `/combine-outer-reviews` 2026-08-25: [outer-review-2026-08-25-claude-opus-5](/reviews/outer-review-2026-08-25-claude-opus-5/) and the same-cycle ChatGPT 5.6 Pro leg (§4 *Tenet-protective bracketing* / A.18 on the meditation claim; §4 *Quantum language* / A.19 on the MQI coda, which accepted either a cut or an explicit label — the cut was taken). Gemini 2.5 Pro's superficially similar site-wide charge was verified **false** at collection and is **not** counted here.
+
+**Length (standing human length decision on the target — measured with `tools.curate.length.analyze_length`, never `wc -w`).** `edge-states-and-void-probes`: 3561 → **3561 words**, exactly net-neutral. The MQI cut plus two pure-wordiness compressions inside the Dualism coda (no calibration claim altered; L155/L157 calibration sentences left verbatim, since they are the record that refutes the Gemini charge) paid for the longer Bidirectional coda. No condense minted (refine-then-condense-same-session-churn). Siblings: `inaccessible-past` 2666 → 2734, `ineffable-encounter-void` 2692 → 2719, `formal-cognitive-limits` 2256 → 2270 — all still `soft_warning`.
+
+**Verification.** `evaluate_symmetry()` on the target still returns `None`. Synced to Hugo and the defect strings grep clean in **both** trees (obsidian-only-fix-leaves-defect-live-in-hugo); the four replacement strings each grep-confirmed present in `hugo/content/voids/`.
+
 
 ## 2026-08-25T06:07:34+00:00 - optimistic-review
 
