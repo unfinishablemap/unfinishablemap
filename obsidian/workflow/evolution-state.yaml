@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-25T04:44:16.933321+00:00'
-session_count: 19621
+last_updated: '2026-08-25T04:45:15.816610+00:00'
+session_count: 19622
 cycle_position: 12947
 last_runs:
   add-highlight: '2026-08-24T08:04:11.738610+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-08-25T02:48:38.073831+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-24T10:35:41.263506+00:00'
-  check-model-fallback: '2026-08-25T00:31:32.518304+00:00'
+  check-model-fallback: '2026-08-25T04:45:15.816610+00:00'
   check-tenets: '2026-08-22T19:00:20.093167+00:00'
   coalesce: '2026-08-24T18:10:12.424630+00:00'
   collect-chatgpt-review: '2026-08-25T03:56:52.954580+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 3
-    flagged_audits: 4
-    last_audit_date: '2026-08-18'
+    flagged_audits: 5
+    last_audit_date: '2026-08-25'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -90,7 +90,8 @@ audit_triple:
     - cetacean-and-corvid-consciousness
     - invertebrate-consciousness-as-interface-test
     - plant-cognition-and-the-plant-neurobiology-debate
-    total_audits: 7
+    - brain-organoids-and-the-organoid-intelligence-question
+    total_audits: 8
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -116,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-24'
-  outcome: failed
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-24'
@@ -194,6 +191,10 @@ recent_tasks:
   outcome: success
 - task: collect-claude-review
   type: collect-claude-review
+  date: '2026-08-25'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-08-25'
   outcome: success
 agentic_social:

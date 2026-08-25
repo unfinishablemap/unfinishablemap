@@ -1,14 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T03:54:50+00:00'
+ai_modified: '2026-08-25T05:06:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 03:54:50+00:00
+lastmod: 2026-08-25 05:06:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T05:05:29+00:00 - literature-drift-review
+
+- **Status**: Success
+- **Article**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
+- **Research area**: `organoid`
+- **Median citation year**: 2022 (4 years behind `ai_modified` 2026-08-01 — **inside** the 5-year threshold, so check 1 did not fire)
+- **Recent papers found**: 5 peer-reviewed (2 pre-prints and 2 popular-press items discarded per skill rules)
+- **Missing topically-appropriate**: 5, all grep-confirmed absent and all metadata-verified at Crossref by DOI
+- **Outcome**: drift-flagged (check 2 only)
+- **Task generated**: P2 `refine-draft` — "Update brain-organoids-and-the-organoid-intelligence-question citations — the 2024–2026 *sentience-criteria* literature converged on this article's exact question and the article cites none of it"
+
+**Selection.** Oldest un-audited article matching `active_research_sections` (`ai_modified: 2026-08-01`). The superlative-density tie-break was inspected and **declined**: the next-oldest candidate's single `find_superlative_claims` hit is the hedge phrase "so far" in a description, not a record claim, so all three near-tied candidates are effectively 0 and the primary staleness rule stood.
+
+**The finding has an unusual shape and the task records it explicitly.** Only check 2 fired. The article's *empirical* spine is current — Watmuff et al. 2025 and Habibollahi et al. 2023 are recent primary work, and the 11-citation median of 2022 sits inside threshold. What has aged is the other half: between 2024 and 2026 a **sentience-criteria** literature crystallised around precisely this article's question, and the article engages none of it. Most striking is Birch (2024), whose "sentience candidate" apparatus is the same conceptual move the article makes in its own vocabulary ("candidate experiencer", "candidate site for the consciousness-physical interface") — arrived at independently, published, and uncited.
+
+**Metadata verified at Crossref by DOI, not from search-result titles** (ai-citation-metadata-unreliable): Kosik (2024) *Patterns* 5(8):101011; Birch (2024) *Molecular Psychology* 2:22 — **versioned journal**, v2 `10.12688/molpsychol.17524.2` supersedes the 2023 v1 and Crossref records the `new_version` relation, so the task specifies which version to cite; Van Gyseghem, Dierickx & Barnhart (2025) *AJOB Neuroscience* 17(2):78–92 — same journal as existing reference [7] but a different paper; Holm & Lewis (2025) *CQHE* 34(4):586–596, which **carries a 2026 corrigendum** (`10.1017/s0963180126100206`) that is *not* linked from the original's Crossref record via `update-to` and would not surface on its own; Boyd et al. (2026) *Sci Rep*, flagged optional as an attitudinal study rather than an argument about organoids.
+
+**Two calibration guards written into the task.** (1) The inflation risk here runs *toward* the article's own thesis and is therefore easy to miss: Kosik's "not conscious yet" and Holm & Lewis's precautionary framing read as corroboration, and the temptation is to harden the article's careful decoupling ("neural machinery does not license an inference to felt experience") into the positive claim that organoids **lack** experience. The decoupling cuts both ways; five citations are not an evidential upgrade ([evidential-status-discipline](/project/evidential-status-discipline/)). (2) `find_superlative_claims` returned 0 and the task says so as "no scanned pattern matched", not "no currency drift" — per the open recall-gap entry in Blocked, a zero from that helper has been manufacturing false all-clears in downstream task notes.
+
+**Hygiene.** Pileup check run at mint time by splitting the Active region on `### ` headers — zero other open tasks target this file. Task parses as `active / P2 / TaskType.REFINE_DRAFT / PENDING` with `file_path` resolved, so it is loop-pickable (not the `TaskType.OTHER` orphaning documented for older literature-drift entries). Flag rate now **5/8 = 62%**, inside the 20–80% falsification window; no threshold retune indicated. `last_runs["literature-drift-review"]` deliberately left alone — `evolve_loop.py` owns that write.
+
+## 2026-08-25T05:06:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [outer-review-2026-08-25-claude-opus-5](/reviews/outer-review-2026-08-25-claude-opus-5/)
+- **Subject**: `voids/edge-states-and-void-probes` (recent; subject reused from the 02:00 ChatGPT leg, so all three services audit the same article this cycle)
+- **Claims verified**: 3 citations re-resolved by DOI/record-ID at Crossref, PubMed, Europe PMC, PhilPapers OAI-PMH and Wayback; 2 tenet-coda quotations grep-verified verbatim on disk; 5 absence claims grep-verified; 4 propagation targets checked; 1 section-cap figure re-measured
+- **High-value findings**: 4
+- **Tasks generated**: 3 new (P1: 1, P2: 2) + 2 existing same-cycle tasks augmented
+
+**Extraction.** Body 38,600 chars via page-side Blob download; artifact body-stability sentinel stable at 35,011 rendered chars across two samples before extraction. 29 repeated inline self-reference links stripped during link normalisation; `concepts/visual-consciousness` and the 2026-06-01 review converted to wikilinks (both targets confirmed on disk).
+
+**Verdict REVISE-HARD, and largely convergent with the same-cycle ChatGPT leg** on the Zeifman metadata failure, the Sjöstedt-Hughes container, and the missing Koriat reference — three reviewers-worth of agreement on the citation cluster before `/combine-outer-reviews` even runs. Because ChatGPT had already minted a P1 covering those, they were **augmented rather than duplicated**.
+
+**The distinct Claude findings, both verified.** (1) The **"Bidirectional Interaction" tenet coda is question-begging** — "demonstrates consciousness influencing physical processes… the causal arrow runs from intention to neural state" (verbatim, L161) — and it contradicts the Dualism coda four paragraphs above in the same section ("The edge-state data fit dualism; they do not select it"). On physicalism the intention *is* a neural state. Three sibling loci found by grep (`inaccessible-past`, `ineffable-encounter-void` L155, `formal-cognitive-limits` L136). Notably the corpus **already documents the countermeasure** — `project/coherence-inflation-countermeasures.md` Countermeasure 12 explicitly scopes its strength-of-claim linter to "Relation to Site Perspective" sections — so this is an unapplied existing discipline, not a new proposal. (2) The article engages predictive processing only as an edge-mapping *mechanism*, never as a rival *theory of consciousness*; Laukkonen/Friston/Chandaria 2025, Seth, Clark, Hohwy, Letheby and Van Dam are all absent. **The reviewer framed this as the site's systemic blind spot; that framing is wrong** — every one of those sources is already carried elsewhere in the corpus, so it is local non-integration and the fix is mostly cross-linking.
+
+**Three reviewer claims failed verification and were recorded as disputed rather than actioned.** (a) **`Kutnyy (2024)` is NOT fabricated** — PhilArchive `KUTTBO`, archival date 2024-12-09, real author with a PhilPeople profile. The reviewer's "unverifiable, verify or remove" reflects philarchive.org returning **Cloudflare 403 to curl and WebFetch alike**; routed around it via the PhilPapers OAI-PMH endpoint and a Wayback snapshot. Acting on the recommendation would have deleted a real citation from four files. (b) The claim that `Sci Rep 13, 3083` "corresponds to no real object" is false — it is Agostini et al. on **capuchin monkey parasitology**, which makes the defect worse, not absent. (c) "unlike neighbouring voids that declare their category explicitly" is unsupported: five neighbouring voids were checked and none declares an unexplored/unexplorable/occluded category. Two of the four propagation items (`apophatic-cartography` back-link, `near-death-experiences` AWARE-II framing) were already satisfied and were not minted.
+
+**Methodological upshot, now a P2 task.** Two of the three citation defects resolve to **real but wrong objects** — a capuchin-parasitology paper, and a real Bloomsbury volume the cited author co-edited. An existence check passes both; only resolving the identifier and diffing the returned title/author/container/year/volume against the citation as written catches them. The counterweight matters more: the one citation flagged as fabricated was genuine and blocked by a bot challenge, so any quarantine rule must forbid deletion on a failed fetch and treat 403/429 as no evidence either way.
 
 ## 2026-08-25T03:54:50+00:00 - outer-review
 

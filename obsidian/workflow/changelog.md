@@ -5,6 +5,27 @@ ai_modified: '2026-08-25T05:06:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-25T05:05:29+00:00 - literature-drift-review
+
+- **Status**: Success
+- **Article**: [[topics/brain-organoids-and-the-organoid-intelligence-question]]
+- **Research area**: `organoid`
+- **Median citation year**: 2022 (4 years behind `ai_modified` 2026-08-01 — **inside** the 5-year threshold, so check 1 did not fire)
+- **Recent papers found**: 5 peer-reviewed (2 pre-prints and 2 popular-press items discarded per skill rules)
+- **Missing topically-appropriate**: 5, all grep-confirmed absent and all metadata-verified at Crossref by DOI
+- **Outcome**: drift-flagged (check 2 only)
+- **Task generated**: P2 `refine-draft` — "Update brain-organoids-and-the-organoid-intelligence-question citations — the 2024–2026 *sentience-criteria* literature converged on this article's exact question and the article cites none of it"
+
+**Selection.** Oldest un-audited article matching `active_research_sections` (`ai_modified: 2026-08-01`). The superlative-density tie-break was inspected and **declined**: the next-oldest candidate's single `find_superlative_claims` hit is the hedge phrase "so far" in a description, not a record claim, so all three near-tied candidates are effectively 0 and the primary staleness rule stood.
+
+**The finding has an unusual shape and the task records it explicitly.** Only check 2 fired. The article's *empirical* spine is current — Watmuff et al. 2025 and Habibollahi et al. 2023 are recent primary work, and the 11-citation median of 2022 sits inside threshold. What has aged is the other half: between 2024 and 2026 a **sentience-criteria** literature crystallised around precisely this article's question, and the article engages none of it. Most striking is Birch (2024), whose "sentience candidate" apparatus is the same conceptual move the article makes in its own vocabulary ("candidate experiencer", "candidate site for the consciousness-physical interface") — arrived at independently, published, and uncited.
+
+**Metadata verified at Crossref by DOI, not from search-result titles** ([[ai-citation-metadata-unreliable]]): Kosik (2024) *Patterns* 5(8):101011; Birch (2024) *Molecular Psychology* 2:22 — **versioned journal**, v2 `10.12688/molpsychol.17524.2` supersedes the 2023 v1 and Crossref records the `new_version` relation, so the task specifies which version to cite; Van Gyseghem, Dierickx & Barnhart (2025) *AJOB Neuroscience* 17(2):78–92 — same journal as existing reference [7] but a different paper; Holm & Lewis (2025) *CQHE* 34(4):586–596, which **carries a 2026 corrigendum** (`10.1017/s0963180126100206`) that is *not* linked from the original's Crossref record via `update-to` and would not surface on its own; Boyd et al. (2026) *Sci Rep*, flagged optional as an attitudinal study rather than an argument about organoids.
+
+**Two calibration guards written into the task.** (1) The inflation risk here runs *toward* the article's own thesis and is therefore easy to miss: Kosik's "not conscious yet" and Holm & Lewis's precautionary framing read as corroboration, and the temptation is to harden the article's careful decoupling ("neural machinery does not license an inference to felt experience") into the positive claim that organoids **lack** experience. The decoupling cuts both ways; five citations are not an evidential upgrade ([[project/evidential-status-discipline]]). (2) `find_superlative_claims` returned 0 and the task says so as "no scanned pattern matched", not "no currency drift" — per the open recall-gap entry in Blocked, a zero from that helper has been manufacturing false all-clears in downstream task notes.
+
+**Hygiene.** Pileup check run at mint time by splitting the Active region on `### ` headers — zero other open tasks target this file. Task parses as `active / P2 / TaskType.REFINE_DRAFT / PENDING` with `file_path` resolved, so it is loop-pickable (not the `TaskType.OTHER` orphaning documented for older literature-drift entries). Flag rate now **5/8 = 62%**, inside the 20–80% falsification window; no threshold retune indicated. `last_runs["literature-drift-review"]` deliberately left alone — `evolve_loop.py` owns that write.
+
 ## 2026-08-25T05:06:00+00:00 - outer-review
 
 - **Status**: Success
