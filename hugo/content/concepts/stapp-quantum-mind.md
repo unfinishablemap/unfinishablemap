@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-16 14:27:36+00:00
+ai_modified: 2026-08-25 00:05:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-08-16 14:27:36+00:00
+lastmod: 2026-08-25 00:05:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,6 +63,8 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 4. **Effort as observation rate**: Felt effort corresponds to observation rapidity
 
 The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) frameworks the Map develops.
+
+Stapp himself draws the boundary at those two. In his von Neumann taxonomy the agent supplies Process 1, the choice of which question is put; the answer is left to a third process—"nature's choice between 'Yes' and 'No'", which "conforms to a statistical rule" (Schwartz, Stapp & Beauregard, 2005). Direct [probability control](/concepts/coupling-modes/) is a move he declines, and it is the move the Map's own corridor reading makes—so a reader sympathetic to both should not take Stapp as endorsing the Map's outcome-selection.
 
 The mechanism is designed to respect [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding a force term or new dynamics. Stated carefully, this energetic innocence is a feature of the idealised projection picture, in which repeated measurement re-projects an isolated system onto the same eigenstate at no cost; whether it survives for a brain that is open and thermally coupled is contested, and is taken up in [the measurement back-action objection](#the-measurement-back-action-objection) below. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-and-the-consciousness-interface/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined, and consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 

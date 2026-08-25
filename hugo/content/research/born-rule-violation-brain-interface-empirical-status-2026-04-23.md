@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-08-13 07:11:30+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-08-25 00:05:16+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
 concepts:
 - '[[measurement-problem]]'
 - '[[quantum-probability-consciousness]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-08-13 07:11:30+00:00
+lastmod: 2026-08-25 00:05:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -231,6 +231,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 ### Position A: Corridor Dualism (Consciousness Selects Within the Born Distribution)
 
 - **Proponents**: The Unfinishable Map's current working hypothesis; sympathetic readings of Stapp (without Zeno); various "interface" authors who insist on preserving ensemble Born statistics.
+  - **Author-stance caveat on Stapp** (added 2026-08-25): the "(without Zeno)" qualifier signals only that the sympathetic reading drops the Zeno timing mechanism; it does not signal the deeper divergence, which is that Stapp declines outcome-selection altogether. He confines the agent's contribution to von Neumann's Process 1, the choice of which question is put, and leaves the answer to a third process — "nature's choice between 'Yes' and 'No'", which "conforms to a statistical rule" (Schwartz, Stapp & Beauregard, 2005, *Phil. Trans. R. Soc. B* 360:1309–1327). Corridor dualism as described here *is* outcome-selection within the Born statistics, so Stapp should be read as a partial precedent for the interface framing rather than a proponent of this position.
 - **Core claim**: Consciousness influences which branch is actualised on a single measurement event, but the influence averages out to exactly |⟨φ|ψ⟩|² over the ensemble. No statistical signature.
 - **Key arguments**:
   - Consistent with every tested Born-rule regime.
