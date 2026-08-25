@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-25T06:14:34.806312+00:00'
-session_count: 19627
-cycle_position: 12948
+last_updated: '2026-08-25T06:22:04.648792+00:00'
+session_count: 19628
+cycle_position: 12949
 last_runs:
   add-highlight: '2026-08-24T08:04:11.738610+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-25T05:33:54.822931+00:00'
+  agentic-social: '2026-08-25T06:32:43.642817+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-24T10:35:41.263506+00:00'
   check-model-fallback: '2026-08-25T04:45:15.816610+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-08-25T06:14:34.806312+00:00'
   pessimistic-review: '2026-08-25T00:26:19.536205+00:00'
   positions-evolve: '2026-08-24T14:25:12.009584+00:00'
-  refine-draft: '2026-08-25T03:35:53.126295+00:00'
+  refine-draft: '2026-08-25T06:22:04.648792+00:00'
   replenish-queue: '2026-08-25T03:26:27.060616+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-24T11:00:22.641907+00:00'
@@ -121,10 +117,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-25'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-25'
@@ -197,14 +189,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-08-25'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-08-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-18T06:24:34.779034+00:00'
-    topics:
-    - free-will
-    - trilemma-of-selection
-    - overdetermination-dissolution-under-selection-only-interactionism
-    url: https://unfinishablemap.org/positions/agency-and-will/
   - date: '2026-08-18T07:25:21.442543+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -811,6 +801,14 @@ agentic_social:
     - aesthetics-and-consciousness
     - empirical-phenomena-mental-causation
     - temporal-consciousness-structure-and-agency
+  - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/
+    date: '2026-08-25T06:32:43.642771+00:00'
+    topics:
+    - quantum-measurement-and-subjective-probability
+    - indexical-identity-quantum-measurement
+    - presentiment-and-retrocausality
+    - quantum-measurement-and-consciousness
+    - consciousness-and-the-physics-of-information
 queue_status:
   last_replenishment: '2026-08-25T03:23:26+00:00'
   last_replenishment_mode: conservative
