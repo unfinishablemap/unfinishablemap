@@ -87,3 +87,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-08-24-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a8cf7f9-ecd0-83eb-a83a-24db3c9ccbe3
+  commissioned_at: '2026-08-25T02:03:57.698492+00:00'
+  prompt_summary: Audit voids/edge-states-and-void-probes
+  target_filename: outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site whose content is
+    largely AI-generated under human curation. Target: https://unfinishablemap.org/voids/edge-states-and-void-probes/
+    - last substantively revised on 2026-08-18. External search indexes lag the site
+    by 24-48 hours, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    before judging currency or recent activity. Assess: (1) whether the article''s
+    central claims rest on sufficient evidence or on assertion; (2) citation accuracy
+    - are the cited works real, correctly attributed, and fairly characterised; (3)
+    counterarguments it fails to engage; (4) tenet-protective bracketing, where the
+    site''s dualist commitments appear to shield a claim from testing rather than
+    being argued for; (5) stale references against the 2024-2026 literature; (6) how
+    well it integrates with neighbouring voids and concepts articles. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit edge-states-and-void-probes
+  subject_articles:
+  - voids/edge-states-and-void-probes.md
+  subject_source: fallback:recent-aged
