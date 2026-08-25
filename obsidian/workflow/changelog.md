@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T05:06:00+00:00'
+ai_modified: '2026-08-25T05:27:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T05:27:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (`gemini-2-5-pro`)
+- **File**: [[reviews/outer-review-2026-08-25-gemini-2-5-pro]]
+- **Subject**: `voids/edge-states-and-void-probes` (recent; subject reused from the 02:00 ChatGPT leg — all three services audited the same article this cycle)
+- **Claims verified**: all 5 closing weaknesses checked against the article on disk **and** the live deployed page; 2 citations re-resolved at Crossref by DOI; 3 quoted spans traced to the file they actually come from; 11 active `todo.md` blocks pileup-checked before minting
+- **High-value findings**: 1 (convergent, already open)
+- **Tasks generated**: 0 new; 1 existing task augmented
+
+**Extraction.** Body 30,346 chars via chunked JS DOM read (38 chunks, 800 chars each, offset-marked). Reconstruction verified against the page rather than assumed: line-count and per-line-length vectors compared element-by-element, 124/124 lines matching. The 27 lines that differed did so by **exactly two characters each** — a trailing space plus U+00A0 left behind by Gemini's inline citation-chevron buttons, confirmed by reading the code points off the live DOM. No content lost.
+
+**Verdict REJECT — and four of its five weaknesses fail verification.** This is the lowest hit rate recorded for this channel on a single-article subject, and it inverts both sibling legs this cycle (ChatGPT 9/9 quoted spans verbatim; Claude largely verified). The one surviving finding was already open.
+
+**The single valid finding, and it is convergent.** Weakness 3 — the article engages predictive processing only as an edge-mapping *mechanism* and never meets framework-level active inference — is real: `Laukkonen`, `active inference` and `beautiful loop` all grep zero in the target. **Claude Opus 5 reached the identical finding independently 20 minutes earlier**, so this is genuine two-reviewer convergence, recorded on the existing P2 rather than duplicated. Gemini's distinct contribution was the peer-reviewed venue, which discharged an open verification ask on that task: `10.1016/j.neubiorev.2025.106296` resolves at Crossref to `journal-article`, *Neuroscience & Biobehavioral Reviews*, 2025-09, Laukkonen/Friston/Chandaria. ⚠️ Four PsyArXiv preprint versions share the title under `10.31234/osf.io/daf5n`, and a title search returns those first — the task now says to cite the journal DOI.
+
+**The four failures, each verified false.**
+
+- **"Total omission of Borjigin et al. (2023)"** — the article cites that exact paper at L129 and reference 18 as **Xu et al. (2023, *PNAS*) 120(19), e2216268120**. Crossref on `10.1073/pnas.2216268120` returns the gamma-surge paper with authors Xu … **Borjigin** — first author Xu, senior author Borjigin. The reviewer keyed on the senior author's surname and declared absence: the same first-author/senior-author class as `cogitate-melloni-2025-nature-first-author` and `masi-2023-repeatedly-acquires-wrong-surnames`. **Sweep the DOI, not the name.** The article's treatment is also more conservative than the reviewer's, noting the surge appeared in two of four patients "none of whom survived to report any experience".
+- **"Perpetuates the medically outdated 'clinical death with flat EEG' framing"** — inverted. L127 debunks it: the "flat EEG" framing "**overstates the record**", and NDEs occur "**not, on current evidence, during reliably absent brain function**".
+- **"Cites AWARE II to argue for transcendent dualist access… suppresses Parnia's primary finding"** — inverted. L129 recruits AWARE-II *against* transcendence, leading with its negative primary endpoint (no confirmed hits on hidden visual targets) and concluding that **"none supports transcendence"**.
+- **"Ignoring Metzinger's (2024) *The Elephant and the Blind*"** — flatly false, and the most striking miss. `Metzinger` occurs **11 times on the live page**; the article runs a dedicated zero-person-perspective section citing Metzinger 2024 chs. 3 and 29 *and* Metzinger 2020, says outright that "**the Map should not enlist him as an ally**", reproduces his E-fallacy warning, and concedes the physicalist reading "**carries the lighter commitment**".
+- **"Misattributes… 'Piotr Gładziejewski (2024)'"** — fixed in 2026-06. Disk, Hugo tree and live page all read **"Paweł Gładziejewski (2023)"**; `grep -c "Piotr"` on the live page returns **0**. Since the deployed page is current, this is not a stale-cache artefact on our side.
+
+**The structural diagnosis: it audited a composite, not the article.** Three quoted spans do not occur in the target at all — "harder to motivate on production accounts than on filter accounts" is `concepts/filter-theory.md:102`, "regional modulation rather than a global shutdown" is `topics/eastern-philosophy-consciousness.md:121`, and Montupil et al. 2023 appears nowhere in the article. In both quoted cases the adjacent sentence reverses the inference drawn: filter-theory's sentence continues "**—though not impossible for them, since a self-modifying system can down-regulate…**", supplying the very concession Gemini demands, and eastern-philosophy already states the cessation result "**constrains theories predicting a specific global signature for unconsciousness rather than supporting filter theory**".
+
+**The review's central thesis is refuted by passages it never quotes.** "Systematically brackets physicalist explanations" and "presents framework-dependent voids as abductive evidence for the framework" sit against L89 ("**REBUS is the strongest physicalist edge-mapping engine on offer**"), L91 (the data "establish that constraint **without giving the filter picture any advantage over the production reading**"), L155 ("**roughly equally consistent with the dualist and physicalist readings and does not by itself discriminate them**") and L157 ("**The edge-state data fit dualism; they do not select it**").
+
+**Channel note — this is a repeat, on this same article.** The failure mode is the documented scope-driven one for this reviewer, and the 2026-06-05 Gemini leg was logged against `edge-states-and-void-probes` as "echoes ChatGPT+Claude on edge-states empirical currency; **mostly misreads NDE**". Two hostile-referee runs on one article, two cycles apart, both convergent on one real finding and both wrong about the NDE material. Acting on any of the four failures would have deleted or reversed correct, already-calibrated content — the reason nothing was minted from them.
 
 ## 2026-08-25T05:05:29+00:00 - literature-drift-review
 

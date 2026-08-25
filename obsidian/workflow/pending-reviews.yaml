@@ -149,9 +149,9 @@
   commissioned_at: '2026-08-25T04:07:12.221286+00:00'
   prompt_summary: Hostile referee audit of voids/edge-states-and-void-probes
   target_filename: outer-review-2026-08-25-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-25T05:21:02.532690+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.\
