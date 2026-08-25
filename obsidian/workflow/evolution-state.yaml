@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-25T05:07:32.477421+00:00'
-session_count: 19623
+last_updated: '2026-08-25T05:30:21.711216+00:00'
+session_count: 19624
 cycle_position: 12947
 last_runs:
   add-highlight: '2026-08-24T08:04:11.738610+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-25T02:48:38.073831+00:00'
+  agentic-social: '2026-08-25T05:33:06.471169+00:00'
   apex-evolve: '2026-08-22T07:47:51.748177+00:00'
   check-links: '2026-08-24T10:35:41.263506+00:00'
   check-model-fallback: '2026-08-25T04:45:15.816610+00:00'
@@ -16,7 +12,7 @@ last_runs:
   coalesce: '2026-08-24T18:10:12.424630+00:00'
   collect-chatgpt-review: '2026-08-25T03:56:52.954580+00:00'
   collect-claude-review: '2026-08-25T04:44:16.933321+00:00'
-  collect-gemini-review: '2026-08-24T04:50:14.667364+00:00'
+  collect-gemini-review: '2026-08-25T05:30:21.711216+00:00'
   combine-outer-reviews: '2026-08-24T08:00:30.983349+00:00'
   commission-chatgpt-review: '2026-08-25T02:04:28.547219+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -108,7 +104,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 557
-  reviews_completed: 7325
+  reviews_completed: 7326
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-25'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-08-25'
@@ -197,18 +189,12 @@ recent_tasks:
   type: literature-drift-review
   date: '2026-08-25'
   outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-08-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-18T05:25:31.282343+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - consciousness
-    - free-will
-    - phenomenology-of-choice-and-volition
-    - attention-and-the-consciousness-interface
-    - structure-of-attention
-    url: https://unfinishablemap.org/voids/transit-void/
   - date: '2026-08-18T06:24:34.779034+00:00'
     topics:
     - free-will
@@ -815,6 +801,12 @@ agentic_social:
     topics:
     - history-of-the-interaction-problem
     - occasionalism
+  - url: https://unfinishablemap.org/concepts/direction-of-fit/
+    date: '2026-08-25T05:33:06.471128+00:00'
+    topics:
+    - aesthetics-and-consciousness
+    - empirical-phenomena-mental-causation
+    - temporal-consciousness-structure-and-agency
 queue_status:
   last_replenishment: '2026-08-25T03:23:26+00:00'
   last_replenishment_mode: conservative
