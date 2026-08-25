@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-07-06 22:14:47+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-08-25 03:32:46+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -11,13 +11,12 @@ concepts:
 created: 2026-02-11
 date: &id001 2026-02-15
 description: Causal powers are intrinsic capacities of properties to produce effects.
-  Powers realism grounds the Map's claim that consciousness genuinely influences physical
-  processes.
+  The Map's powerful-qualities realism grounds consciousness's influence on the physical.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:22:25+00:00
-lastmod: 2026-07-06 22:14:47+00:00
+lastmod: 2026-08-25 03:32:46+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
@@ -42,7 +41,7 @@ One central debate distinguishes two kinds of properties:
 
 **Causal powers** (or dispositional properties) are essentially directed toward their manifestations. Fragility isn't just "whatever breaks under pressure"—it's the intrinsic tendency *to* break under pressure. The power contains reference to its effect within its nature. Solubility is the disposition to dissolve in water; charge is the power to attract or repel other charged objects.
 
-**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. Martin and Heil call these "powerful qualities." While this view has appeal, The Unfinishable Map favours powers realism because its commitments entail that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power. See [the metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) for how each position in this debate generates different accounts of where consciousness fits.
+**Powers realism** holds that at least some fundamental properties are dispositional; in its strongest, pandispositionalist form, causal powers go all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. Martin and Heil call these "powerful qualities," and that is the position The Unfinishable Map takes on the property side. Powerful qualities is a version of powers realism as defined above: the dispositional aspect is genuine and intrinsic to the property rather than conferred on it by external law, so everything this article says about the causal work powers do carries over intact. What the identity theory adds is that the qualitative aspect is equally genuine, neither reduced to nor derived from the causal role. The question is therefore not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power—and on the identity theory it does, because the character and the power are the same property. See [the metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) for the argument that selects this cell, and for how each position in the debate generates a different account of where consciousness fits.
 
 This debate matters for the mind-body problem. If consciousness has causal powers, are those powers fundamental dispositions (irreducible capacities to affect neural processes) or derivative patterns grounded in more basic categorical facts? The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) suggests treating phenomenal states as possessing genuine causal powers rather than merely accompanying physical dispositions.
 
@@ -60,9 +59,9 @@ Two rival accounts connect causal powers to laws:
 
 **The dispositional essentialist view** (Bird 2007, Ellis 2001) holds that laws of nature are grounded in the essential dispositional natures of properties. Charge behaves according to Coulomb's law because charge *is* the power to attract or repel according to that law. Laws don't govern properties from outside—they express what properties essentially are. On this view, laws are metaphysically necessary: given the identity of fundamental properties, the laws could not have been otherwise.
 
-**The governing laws view** treats laws as primitive regularities or modal facts that govern how categorical properties interact. Properties don't have intrinsic causal profiles; laws specify extrinsically how they combine and behave. On this account, laws are contingent: different laws are metaphysically possible with the same properties.
+**The governing laws view** treats laws as primitive modal facts that govern how properties interact, rather than as expressions of what those properties essentially are. It is usually paired with categoricalism: properties carry no intrinsic causal profile, and the laws specify extrinsically how they combine and behave. The two axes are independent, though, and a governing law can equally attach to properties that do carry intrinsic causal profiles—the combination the Map takes, set out under "Relation to Site Perspective" below. On this account, laws are contingent: different laws are metaphysically possible with the same properties.
 
-The Map's framework requires some account of [psychophysical-laws](/concepts/psychophysical-laws/)—the principles governing how consciousness influences neural activity. If dispositional essentialism is correct, then phenomenal properties might have essential dispositional natures that include capacities to bias neural processes. If governing laws are correct, then psychophysical laws are additional regularities relating mental and physical domains.
+The Map's framework requires some account of [psychophysical-laws](/concepts/psychophysical-laws/)—the principles governing how consciousness influences neural activity. If dispositional essentialism is correct, then phenomenal properties might have essential dispositional natures that include capacities to bias neural processes. If governing laws are correct, then psychophysical laws are additional modal principles prescribing how the mental and physical domains relate.
 
 ## Downward Causation and Higher-Level Powers
 
@@ -76,11 +75,11 @@ The Map's commitment to [bidirectional interaction](/concepts/interactionist-dua
 
 ## Relation to Site Perspective
 
-The Map's [dualism tenet](/tenets/#dualism) and [bidirectional interaction tenet](/tenets/#bidirectional-interaction) commit to consciousness possessing genuine causal powers. This aligns with powers realism rather than Humean or categoricalist accounts: phenomenal states are not mere patterns of regular succession or categorical properties plus external laws. They are dispositional properties with intrinsic capacities to influence physical processes.
+The Map's [dualism tenet](/tenets/#dualism) and [bidirectional interaction tenet](/tenets/#bidirectional-interaction) commit to consciousness possessing genuine causal powers. This aligns the Map with powers realism against Humean and categoricalist accounts, which would leave phenomenal states as patterns of regular succession or as categorical properties awaiting an external law to give them causal traction. On the powerful-qualities version of powers realism the Map holds, a phenomenal state carries an intrinsic capacity to influence physical processes whose qualitative aspect is *identical with* the dispositional one rather than absorbed into it. That distinction keeps the position clear of pandispositionalism, which would let felt character reduce to causal role—the horn the Mary argument closes off, treated in [the metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/).
 
 The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) specifies the *scope* of conscious causal powers: consciousness biases quantum indeterminacies in neural systems without injecting energy or exerting forces. This is a constrained causal power—not the unlimited psychokinesis ruled out by physics, but not the causal inertness of [epiphenomenalism](/concepts/epiphenomenalism/) either.
 
-The dispositional essentialist framework fits the Map's approach: if phenomenal properties have essential dispositional natures, then consciousness necessarily possesses certain causal powers. The [psychophysical-laws](/concepts/psychophysical-laws/) governing mental-physical interaction would express the essential natures of phenomenal properties rather than being contingent add-ons. This grounds the causal efficacy of consciousness in the intrinsic nature of experience itself.
+On the laws axis the Map declines the essentialist route despite its evident affinity with powers. Grounding [psychophysical laws](/concepts/psychophysical-laws/) in the *essential* natures of phenomenal properties would require those properties to be fundamental in the way essentialism demands of charge and mass, and the zombie-world disanalogy denies them that standing: a world physically like ours but empty of experience is at least conceivable, whereas a world with charge but no Coulomb behaviour is not. The Map pairs powerful qualities with the governing-laws view instead. Psychophysical laws prescribe which quantum outcome obtains, and the powerful quality present at the interface is the property-side anchor the prescription attaches to—so the causal efficacy of consciousness still rests on the intrinsic nature of experience itself, without experience having to be a law-grounding fundamental. [The metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) develops the argument for that pairing across both axes.
 
 A fair objection: does attributing "causal powers" to consciousness genuinely explain anything, or merely redescribe the claim that consciousness affects the brain? The objection has force, but powers realism does substantive work that bare redescription does not.
 
@@ -88,7 +87,7 @@ First, it provides **metaphysical coherence**. Without a powers framework, inter
 
 Second, powers realism **rules out epiphenomenalism as a coherent option**. If phenomenal properties are genuine causal powers—dispositional properties essentially directed toward effects—then a conscious state that produces no effects is metaphysically impossible, not merely empirically unlikely. Epiphenomenalism requires that consciousness be a categorical property or a mere accompaniment to physical dispositions. Powers realism denies this: to *be* a phenomenal property is to *have* certain causal capacities. This is a substantive metaphysical commitment, not a restatement of the conclusion.
 
-Third, it **connects consciousness to the broader dispositional framework** that grounds all natural causation. If fundamental physical properties are powers (as dispositional essentialism holds), then phenomenal powers are not a special exception bolted onto an otherwise categorical world. Consciousness participates in the same ontological structure as everything else that causes anything. This matters because the strongest objection to interactionism has always been that mental causation is *sui generis*—unlike anything else in nature. Powers realism dissolves that objection by showing it is not.
+Third, it **connects consciousness to the broader dispositional framework** that grounds all natural causation. If fundamental physical properties are powers (as dispositional essentialism and the powerful-qualities identity theory both hold), then phenomenal powers are not a special exception bolted onto an otherwise categorical world. Consciousness participates in the same ontological structure as everything else that causes anything. This matters because the strongest objection to interactionism has always been that mental causation is *sui generis*—unlike anything else in nature. Powers realism dissolves that objection by showing it is not.
 
 The Map acknowledges what powers realism does *not* do: it does not by itself specify *how* consciousness biases quantum outcomes, nor does it provide the empirical precision of Coulomb's law for charge. The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), the empirical phenomena examined in [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (where placebo's content-direction and choking's mode-disruption display the same fineness of phenomenology-physiology coupling across substrates that share little common machinery), and the account of quantum indeterminacy in [causal-closure](/concepts/causal-closure/).
 

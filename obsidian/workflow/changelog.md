@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T02:22:10+00:00'
+ai_modified: '2026-08-25T03:34:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T03:34:25+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Original score**: n/a — the skill's Section 3 command (`scripts/curate.py review`) does not exist in this repo (`scripts/` has no review entry point). Known stale command, recorded rather than worked around.
+- **Word count**: 1800 → 2089 (`ok` before and after; concepts soft threshold 2500, so ~410 still in hand — the task's ~700 of headroom was never a constraint)
+- **Published**: yes
+
+**The defect, as promoted.** This article was the corpus's sole holdout asserting the Map "favours powers realism" *over* the powerful-qualities identity theory, while five siblings — including [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]], which it links to *in the same sentence* — treat powerful qualities as the adopted property-side commitment. Fixed as a **re-labelling**: the philosophy is unchanged, and the powers vocabulary stays throughout.
+
+**Both preservation nuances honoured.**
+
+1. *No blanket replace.* Only the contrastive preference sentence at L41 was removed. "Powers realism" survives at four later loci (the objection paragraph, the anti-epiphenomenalism argument, the *sui generis* reply, the acknowledgement of limits) because the article now establishes explicitly that **powerful qualities is a version of powers realism as this article defines it** — the dispositional aspect intrinsic to the property rather than conferred by external law — so every downstream argument carries over intact. The anti-epiphenomenalism argument at L85 was left untouched, exactly as the task specified: `laws-and-dispositions` L144 runs it for the powerful-qualities cell with the same conclusion and the same enemy.
+2. *The pandispositionalist reading is gone.* L75's "They are dispositional properties with intrinsic capacities" is replaced by the identity formulation — the qualitative aspect *identical with* rather than absorbed into the dispositional one — with the Mary point named as the horn that closes off the reduction. This also removed a "not X. They are Y." construction, which the writing-style guide proscribes.
+
+**A second stranding found in the same file, on the laws axis, and fixed.** L79 flatly asserted "The dispositional essentialist framework fits the Map's approach", with psychophysical laws "express[ing] the essential natures of phenomenal properties". `laws-and-dispositions` holds the opposite on that axis too — *"Pure dispositional essentialism founders on the zombie-world disanalogy"*, and the Map pairs powerful qualities with the **governing-laws** view (L126: *"lets the governing-laws view do the cross-domain legislative work essentialism cannot"*). `grep -rn "dispositional essentialis"` over `topics/ concepts/ apex/ positions/` returns hits in only two files: `laws-and-dispositions` and this one — the identical sole-holdout shape as the property-axis defect, at the same reciprocal link. Re-labelled to the governing-laws pairing, preserving the paragraph's conclusion (efficacy grounded in the intrinsic nature of experience) by routing it through the property-side anchor rather than through essential natures. Scope was **not** widened to the five sibling articles; they are the correct versions.
+
+**Two consequential coherence follow-ons.** The governing-laws definition at L59 had glossed the view as one on which "Properties don't have intrinsic causal profiles" — which conflates the laws axis with categoricalism and would have contradicted the newly correct L79. Rewritten to mark the usual categoricalist pairing while stating that the two axes are independent, with a forward pointer to the section where the Map's combination is set out. L87's "(as dispositional essentialism holds)" widened to name both views that make physical properties powers. L61's governing-laws gloss "additional regularities" (a Humean characterisation, not a governing one) corrected to "additional modal principles prescribing".
+
+**Navigation surface fixed too** ([[navigation-surfaces-carry-unreviewed-claims]]): the `description` frontmatter asserted "Powers realism grounds the Map's claim…" — re-labelled to "The Map's powerful-qualities realism…", 160 chars.
+
+**Verification.** `validate.py` valid. `sync.py` run and **both trees greped**: `favours powers realism` and `dispositional essentialist framework fits` now return **zero hits in `obsidian/`, `hugo/content/`, and `archive/` article trees** — the surviving matches are all in `workflow/` and `reviews/` files, i.e. our own record of the defect, not the defect ([[outer-review-attacks-retired-text-echoed-in-our-reviews]]). Three new wikilinks initially rendered bare slugs as link text in Hugo and were given readable labels, then re-synced and re-checked. `ai_system` plus-appended to `claude-sonnet-4-5-20250929+claude-opus-5` per the convention in recent refine commits; `ai_modified` from a live `date -u`.
 
 ## 2026-08-25T02:34:03+00:00 - refine-draft
 
