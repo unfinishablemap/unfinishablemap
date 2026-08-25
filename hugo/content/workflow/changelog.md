@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T07:01:51+00:00'
+ai_modified: '2026-08-25T07:26:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 07:01:51+00:00
+lastmod: 2026-08-25 07:26:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T07:26:24+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)
+- **Word count**: 2481 → 2496 (+15; concepts soft 2500, status `ok` — length-neutral, fixes paid for by trimming twenty redundant passages)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0 (one deferred: preprint refereeing status, already flagged in-article)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-08-25-generalised-probabilistic-theories](/reviews/deep-review-2026-08-25-generalised-probabilistic-theories/)
+- **Previous reviews**: [deep-review-2026-07-25-generalised-probabilistic-theories](/reviews/deep-review-2026-07-25-generalised-probabilistic-theories/) (no-op convergence pass), [deep-review-2026-07-16-generalised-probabilistic-theories](/reviews/deep-review-2026-07-16-generalised-probabilistic-theories/)
+
+**Why a converged article had three critical issues.** The 2026-07-25 pass correctly recorded "no critical issues; converged" — for the article as it then stood. Two refine-draft commits have landed since (`203f2ce5a9` 2026-08-16, `c0dfc8fa2e` 2026-08-17) and both rewrote the exact passage the convergence finding covered, including two new References entries. The References block changing is the §2.4 trigger, so the publisher-of-record ledger was re-run in full rather than inherited. This is convergence-damping-keys-on-self-modification-not-dependency-freshness in the other direction: the article had *not* been quiet, and asking what moved under it is what surfaced the defects.
+
+**Critical 1 — the Galley-Masanes disjunction was stated without the premise that makes it true, and the article's own boxworld paragraph refuted it.** The body read: *"the Born rule becomes forced once **either purification or local tomography** is added to no-signalling."* Verified in the raw paper (`pdftotext` of arXiv:1801.06414v4, not a WebFetch confirmation — webfetch-confirmation-prompts-ratify-the-phrase-you-ask-about):
+- **§2, "Dynamically-quantum theories"**: the theorem quantifies over *"all theories that have the same pure states, dynamics and system-composition rule as quantum theory, but have a different structure of measurements and a different rule for assigning probabilities."*
+- **§5.1 Discussion**, the authors' own contrapositive, with the dropped clause restored: *"one can derive the measurement postulates of quantum theory from the structure of pure states and dynamics **and** either the assumption of local tomography or purification."*
+- **Barrett 2007** (arXiv:quant-ph/0508211v3) **Assumption 5, the Global State Assumption**: *"The global state of a multi-partite system can be completely determined by specifying joint probabilities of outcomes for fiducial measurements performed simultaneously on each subsystem."* That is local tomography under Barrett's name, and it is framework-level — so **boxworld satisfies no-signalling and local tomography together and is still not Born-ruled**, three sections above the claim it refutes.
+Fixed at three loci (Disputed Payload paragraph, the honest-conditional, the Tenet 2 entry) plus the lead, which had banked the uncorrected version where a truncated fetch would find it first.
+
+**Critical 2 — "on pain of signalling" grafted onto the wrong branch.** The conditional concluded that a regime satisfying *"purification or local tomography"* is Born-constrained *"on pain of signalling."* The signalling lever is Torres Alegre's steering route and requires **purification specifically**; Galley & Masanes prove the opposite for the other branch — their toy theory modifies the Born rule with no-signalling intact, which is the *"contrarily to previous claims"* result the article quotes three paragraphs earlier. The article contradicted its own quotation.
+
+**Critical 3 — a hedge named its own test, and the test failed.** The 2026-08-17 section asserted purification and local tomography *"are not equal partners... local tomography enters their abstract only as a further casualty, never as a premise"*, adding *"The Map reads that asymmetry off the abstract's sentence structure; confirming it against the derivation itself would require the paper's body."* The body says the reverse: *"we can also derive the measurement postulates of quantum theory from the assumption of local tomography, which does not have this connotation of universality."* The **real** asymmetry, which the authors state and which is the one the Map actually needs, replaced it: purification *"seems linked to the notion that quantum theory is universal, in the sense that any classical uncertainty can be explained as originating from some pure global quantum state"*, local tomography is not. That bears directly on the section's brain-plus-substrate-as-closed-system argument, which **is** a universality claim. Two dependents fell with it: the H2 heading ("The Axiom That Does the Forcing" → "The Axiom the Map Leans On" — navigation-surfaces-carry-unreviewed-claims) and the clause *"forcing the Born rule with no further argument"*, which the scope fix had made false.
+
+**Citation ledger** — all nine references re-verified at the publisher of record; every quoted span grep-matched against raw arXiv abstract HTML or `pdftotext` output. Two new refs confirmed at Crossref: Chiribella–D'Ariano–Perinotti 2010 (`10.1103/PhysRevA.81.062348`) and Chiribella 2018 (Entropy 20(5), 358). **All metadata was already correct, and all quotes were verbatim** — the defects were entirely in the *reading*, which is the class a metadata-only or intra-corpus check cannot reach (citation-ledger-ratifies-the-reading-not-just-the-metadata). Barrett's reference gained its arXiv URL now that the article quotes the paper directly.
+
+**Engagement classification (editor-internal — [direct-refutation-discipline](/project/direct-refutation-discipline/)). No mode labels in article prose.**
+- "Reasonableness" objection (axioms chosen with quantum theory in view): **Mode Three** — framework-boundary marking, conceded as candour under Tenet 5.
+- Instrumentalist reading (GPTs as bookkeeping): **Mode Three** — interpretation-neutrality framed as a feature for Tenet 4.
+
+**Family propagation — P2 minted, not silently fixed.** `concepts/local-tomography-and-the-consciousness-physics-interface` carries both defects at four loci and, like this article, states its own boxworld counterexample in-file. `concepts/causal-consistency-constraint` was checked and is **clean** (scopes to "purification and no-signalling" throughout).
 
 ## 2026-08-25T07:01:51+00:00 - refine-draft
 

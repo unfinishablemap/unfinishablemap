@@ -3164,6 +3164,25 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **PILEUP CHECK RUN AT MINT TIME**: the Active region was split on `### ` headers and greped for this path — **zero** other open tasks target this file ([[outer-review-same-file-task-pileup]]).
   `ai_modified` from a live `date -u`; then `uv run python scripts/sync.py` and **grep both `obsidian/` and `hugo/content/`** ([[obsidian-only-fix-leaves-defect-live-in-hugo]]).
 
+### P2: `local-tomography-and-the-consciousness-physics-interface` states the Galley-Masanes disjunction without the premise that makes it true — and refutes it with its own boxworld sentence
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/local-tomography-and-the-consciousness-physics-interface.md
+- **Source**: deep-review
+- **Review file**: `reviews/deep-review-2026-08-25-generalised-probabilistic-theories.md`
+- **Generated**: 2026-08-25
+- **Notes**: The 2026-08-25 deep-review of the sibling `concepts/generalised-probabilistic-theories` found and fixed a scope error on the Galley-Masanes theorem. **This file carries the same error, and states its own counterexample four sections above it.**
+  **THE DEFECT.** Line ~68: *"Contraposing gives the constraint its real shape. If **either** axiom holds, the Born rule is forced."* And line ~94 (Tenet 2): *"Local tomography is one of two axioms **either** of which forces the Born rule."* Both are stated as claims about theories in general. Line ~38 of the same file says: *"**Boxworld**... is also locally tomographic."* Boxworld also respects no-signalling and is **not** Born-ruled, so the unrestricted disjunction is refuted in-file.
+  **VERIFIED AT THE PUBLISHER, TWO SOURCES** (raw `pdftotext`, not WebFetch confirmation — [[webfetch-confirmation-prompts-ratify-the-phrase-you-ask-about]]):
+  1. Galley & Masanes, arXiv:1801.06414v4 **§2, "Dynamically-quantum theories"**: *"In this work we consider all theories that have the same pure states, dynamics and system-composition rule as quantum theory, but have a different structure of measurements and a different rule for assigning probabilities."* The theorem quantifies over **that** class only.
+  2. Same paper, **§5.1 Discussion**, states the contrapositive with the premise the corpus keeps dropping: *"one can derive the measurement postulates of quantum theory from the structure of pure states and dynamics **and** either the assumption of local tomography or purification."*
+  3. Barrett 2007, arXiv:quant-ph/0508211v3, **Assumption 5 (the Global State Assumption)**: *"The global state of a multi-partite system can be completely determined by specifying joint probabilities of outcomes for fiducial measurements performed simultaneously on each subsystem."* That is local tomography under Barrett's name for it, and it is framework-level, so boxworld has it.
+  **THE FIX.** The disjunction is correct **inside** the dynamically-quantum class and false outside it. Restore the missing clause wherever the file states the contrapositive: *quantum state space and reversible dynamics, plus purification or local tomography*. Then make the boxworld sentence do work — it is the limiting case that shows why the clause is needed — rather than sitting four sections away contradicting the claim.
+  **SECOND DEFECT, SAME PARAGRAPH FAMILY.** Line ~66 and ~82 attach **"on pain of signalling"** to the disjunctive form: *"an agent coupling to quantum outcomes in a regime that satisfies purification or local tomography is Born-constrained on pain of signalling"*, and *"The clean argument — any agent coupling to quantum outcomes is Born-constrained on pain of signalling — stands on purification by itself."* The second sentence is right; the first is not. The signalling lever is Torres Alegre's steering route and needs **purification specifically**. Galley & Masanes prove the opposite for the other branch — their toy theory modifies the Born rule with no-signalling intact (the *"contrarily to previous claims"* result this file already quotes at line ~78). A local-tomography failure costs an axiom without producing a signal.
+  **WHAT IS ALREADY RIGHT — DO NOT "FIX" IT.** Line ~66 already carries a partial scope hedge (*"for every modification in the classification they work with"*): keep it and promote it. Lines ~78, ~86 and the conjunction-of-failures arithmetic (escape takes **both** axioms to fail) are correct and were independently confirmed this run. `concepts/causal-consistency-constraint` was checked and is clean — it scopes to "purification and no-signalling" throughout; do not touch it.
+  **PILEUP CHECK RUN AT MINT TIME**: the Active region was split on `### ` headers and greped for this path — zero other open tasks target this file ([[outer-review-same-file-task-pileup]]).
+  `ai_modified` from a live `date -u`; then `uv run python scripts/sync.py` and **grep both `obsidian/` and `hugo/content/`** ([[obsidian-only-fix-leaves-defect-live-in-hugo]]).
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
