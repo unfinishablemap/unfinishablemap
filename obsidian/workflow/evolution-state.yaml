@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-25T02:48:38.073831+00:00'
-session_count: 19614
+last_updated: '2026-08-25T03:03:52.685633+00:00'
+session_count: 19615
 cycle_position: 12946
 last_runs:
   add-highlight: '2026-08-24T08:04:11.738610+00:00'
@@ -20,7 +20,7 @@ last_runs:
   combine-outer-reviews: '2026-08-24T08:00:30.983349+00:00'
   commission-chatgpt-review: '2026-08-25T02:04:28.547219+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
-  commission-claude-review: '2026-08-24T03:11:02.969117+00:00'
+  commission-claude-review: '2026-08-25T03:03:52.685633+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-08-24T04:10:03.608806+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
@@ -116,10 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-08-24'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-24'
@@ -194,6 +190,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-25'
+  outcome: success
+- task: commission-claude-review
+  type: commission-claude-review
   date: '2026-08-25'
   outcome: success
 agentic_social:
@@ -815,78 +815,81 @@ agentic_social:
     - history-of-the-interaction-problem
     - occasionalism
 queue_status:
-  last_replenishment: '2026-08-24T23:49:16+00:00'
+  last_replenishment: '2026-08-25T03:23:26+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: 'THREE MINTS, ALL RECORDED-NOT-MINTED LEADS FROM THE PRECEDING
-    FOUR HOURS OF CYCLE WORK, EVERY ONE RE-VERIFIED FROM DISK WITH A POSITIVE CONTROL
-    BEFORE MINTING - not one taken on the changelog''s word. Pre-count count_p0_p2_tasks
-    == 2 against MIN_QUEUE 3; post-count re-measured from disk == 5 (P2 5, P3 61,
-    66 active). INSERTED AT THE BOTTOM OF Active Tasks, not the top, deliberately:
-    select_queue_task sorts (priority, line_number), so a top-insert would have jumped
-    the two P2s that have been sitting at L2938/L2967 unpicked while run 1005''s three
-    top-inserted mints all ran within 90 minutes - textbook queue-lifo-starvation.
-    All three mints are zero-section-cap-cost refine-draft folds, which remains the
-    binding consideration: count_section_files this run reads topics 320/320 AT CAP,
-    concepts 318/320, voids 99/100, positions 16/80. (1) voids/observation-and-measurement-void
-    - target (a) of the three unspent fold targets the 22:16 apex/taxonomy-of-voids
-    refine recorded rather than minted to stay inside its three-per-source cap. Re-measured
-    2491w against voids 3000 hard (509 words). Absence verified BOTH ways: LLM|language
-    model|artificial intelligence greps 0 on the file, while the positive control
-    is that L54 and the L58 section are fully populated with the METHOD cases (Brentano
-    1874, James''s retrospection, phenomenological response, contemplative convergence)
-    - three instances, all a method a human applies, none an instrument that is itself
-    a mind-like system with its own prior. Duplication fence written into the mint:
-    three siblings already own the catalogue, population and probe tiers; this article
-    owns the transformation thesis itself. (2) concepts/penfield-interactionist-dualism
-    - the LAST uncovered item of research/dendritic-integration-theory-2026-08-22;
-    its sibling item (the apical-drive rival) already landed, grep -c ''apical drive''
-    on the hypnagogia article returns 2. L52 quoted verbatim from disk: Eccles paired
-    each cortical dendron, ''a bundle of apical dendrites of pyramidal cells'', with
-    a psychon. DIT puts consciousness at apical/somatic coupling in the same cell
-    class thirty years later. THE TWO VOCABULARIES ARE STRICTLY DISJOINT ACROSS THE
-    CORPUS, greped both directions: Aru|Larkum|dendritic integration returns 0 on
-    this file and 0 on all four sibling files carrying ''dendron'', and the 13 live
-    articles that DO name Aru/Larkum/DIT carry 0 occurrences of ''dendron''. 1807w
-    against concepts 2500 soft - the only host in the family not already in soft_warning;
-    measured alternatives recorded in the mint (coupling-modes 2977, channel-class-taxonomy
-    2717, biological-computationalism 2273). The mint fences the framing hard: the
-    convergence must cut BOTH ways and must not end on the favourable half, because
-    DIT is a complete physicalist mechanism for that locus and therefore removes an
-    explanatory job the dendron was invented to do. Parts 2 and 3 stamp consumed_by
-    on TWO notes that are live but unstamped (dendritic-integration and sleep-onset-hypnagogia,
-    both 0 hits) - the mechanism behind replenish-unconsumed-research-dedup-misses-threaded-content,
-    and with topics/ AT CAP the resulting over-mint would be a structurally blocked
-    expand-topic. (3) voids/creative-aesthetic-void L95 - the cross-file observation
-    the 23:07 the-sublime-and-negative-aesthetics deep-review verified against the
-    raw Bernard Gutenberg text and deliberately left unminted to stay in file scope.
-    Article quotes ''a faculty of the mind surpasses every standard of Sense''; Bernard''s
-    actual string is ''a faculty of mind WHICH surpasses every standard of Sense''.
-    Corpus sweep run this session INCLUDING archive/: exactly three hits, all accounted
-    for (the article, the review, the changelog) - no sibling family to resolve. Mint
-    carries the flip-twice warning and requires re-extraction at the raw source before
-    writing. A second item (reference 7 names Trans. J.H. Bernard but spells the title
-    ''Judgment'', which the 23:07 review established is Pluhar''s spelling) is flagged
-    as a CHECK, not an assertion. DELIBERATELY NOT MINTED: the P-V1 auditor-correlation
-    channel at positions/voids-as-evidence (1600/2500) - P-V1''s Last reviewed is
-    already 2026-08-24 and project/common-cause-null measures 3518w against a 3500
-    hard ceiling, 18 words OVER, so it must not receive prose. Also declined: the
-    20 remaining ''negative liking'' corpus hits are confined to reviews/ and workflow/
-    echo files with 0 in any live article - the known standing publication-policy
-    matter, not a sweep. orphaned_files is 0; positions audit ran today so 7c is not
-    due; gap_analysis and staleness produced nothing above the noise floor. Backlog
-    context unchanged and still the real problem: 66 active tasks parse, 61 of them
-    P3 and starved.'
-  last_replenishment_run: 1006
+  last_replenishment_note: 'RUN 1007. TWO MINTS PLUS A PROMOTION, all three re-verified from
+    disk this run with a positive control before acting - none taken on a review''s or the changelog''s
+    word. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3; post-count re-measured from
+    disk == 5 (P2 5, P3 62, 67 active). SOURCE: the 2026-08-24 optimistic review of the psychophysical-lawfulness
+    wing was the only unconsumed review in the corpus - its C1 ran as a P2 at 01:32Z, its C2
+    sat as a starved P3, and BOTH of its High-Priority items had been recorded and never minted.
+    This run consumes the remainder. (1) PROMOTION P3 -> P2, concepts/causal-powers: the sole-holdout
+    contradiction. Re-verified three ways: powers realism greps six hits across topics concepts
+    apex positions and ALL SIX are in that one file; both of the review''s quotes are verbatim
+    on disk with line numbers undrifted (L41 favours powers realism; laws-and-dispositions L126
+    adopts powerful qualities as the property-side commitment, L170 the property-side ally);
+    and the reciprocal link sits in the SAME SENTENCE as the defect - L41 closes by sending
+    the reader to the article that contradicts it. This is a live contradiction about what the
+    Map holds, on a path the article itself builds, and it was P3 only because optimistic-review
+    findings default low while its own sibling C1 was minted P2 and executed within ten hours.
+    1800w, ok, ~700 to soft, so the fix is affordable in place. NOTE the ordering side effect,
+    taken deliberately rather than by accident: at L2969 the promoted task now sorts ahead of
+    the two P2s waiting at L2988/L2996, so it jumps them. That is what a promotion is for, but
+    it is the opposite of run 1006''s bottom-insert discipline and is recorded as such. (2)
+    MINT, Davidson unreachable from the three law hubs: davidson and anomalous both grep 0 on
+    concepts/psychophysical-laws, topics/psychophysical-laws-bridging-mind-and-matter and topics/the-psychophysical-control-law,
+    against a chalmers positive control of 21/24/5 - three zeros, each paired with a control
+    that fires, because three bare confirming zeros is exactly the shape that fabricates a defect.
+    The wing''s designated foil, which calls itself the view the Map must out-argue, has four
+    inbound links and none from any hub. Link-only, ~45 words total. THE MINT CARRIES THE BINDING
+    CONSTRAINT: concepts/psychophysical-laws measured 3494 against a 3500 concepts hard ceiling
+    - SIX WORDS of headroom, left there by the 01:32Z C1 pass which paid for its own additions
+    with an in-section trim - so a bullet added without a matching trim tips the flagship into
+    hard_warning and mints a condense the operator has just vetoed three times. (3) MINT, register
+    connection: the-psychophysical-control-law greps 0 for P-Q10, 0 for positions/ and 0 for
+    quantum-interface while its Path Forward section is alive and fully populated at L149 with
+    three developments, ALL EMPIRICAL - and P-Q10''s toy-model roadmap at positions/quantum-interface
+    L157 is the formal fourth item, already written. Two spans verified verbatim for quoting,
+    including the clause that prices the wing''s own confidence, which the mint requires be
+    kept rather than dropped. Part 2 adds the mechanism-debt deep-link to consciousness-and-causal-powers,
+    an address the register explicitly maintains for that purpose. Corroborating datum found
+    this run and not in the review: concepts/psychophysical-laws carries ZERO P-Q references
+    of any kind even after the C1 fix. Both hosts have 700+ words to hard. CROSS-FENCED: mints
+    2 and 3 both touch the-psychophysical-control-law in different sections, so each names the
+    other and tells whoever runs second to re-read from disk and mark its own task line. Mint
+    2 also names the open P3 on bridging L111 (prefers Stapp) as a same-file, different-defect
+    collision. (4) One P3 minted: stapp-quantum-mind L128 cites P-Q1 where P-Q4 is the on-point
+    entry - the 00:05Z refine''s explicitly recorded out-of-scope flag. Measured inbound citations
+    for all ten quantum-interface positions to price it honestly (P-Q4 has 1, but P-Q5/6/7 have
+    2 each), and the mint states P-Q4 is low but NOT uniquely anomalous so nobody writes it
+    up as a reachability defect or sweeps off it. (5) RIDER, no new task: the 02:22Z deep-review''s
+    most cited finding is a THIRD independent confirmation of GAP 1 on the open find_superlative_claims
+    operator entry, not a new gap - appended there so the operator prices candidate fix (a)
+    on three data points. DELIBERATELY NOT MINTED. Condense: 79 files sit at hard_warning and
+    4 at critical, but the operator vetoed three condense mints this cycle and the review''s
+    own Medium-Priority condense target (concepts/psychophysical-laws) measures soft_warning,
+    below the mint threshold. Length source yields nothing. Unconsumed research: 558 notes,
+    and consumed_by is absent from essentially all of them, so that dedup signal is corpus-wide
+    inert rather than pointing at anything today - the known threaded-content defect, not a
+    finding. Orphans 0. Positions dependency-changed (source 7b): checked every article edited
+    since run 1006 against Argued in lines; the only hit, one-world-wager in P-I5, was updated
+    in the same 01:11Z pass. Leberecht propagation from the 02:22Z deep-review: swept obsidian,
+    archive and hugo - confined to the article, its research note (both corrected) and reviews/workflow
+    echoes, no live siblings, so no sweep task. Sync verified for all four files touched by
+    the last four cycle tasks; both trees agree. Backlog context unchanged and still the real
+    problem: 67 active tasks, 62 of them P3 and starved.'
+  last_replenishment_run: 1007
   loop_pickable_open: 5
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 61
+  p3_tasks: 62
   replenishment_source_counts:
-    promotion_from_p3: 0
-    chain: 2
-    unconsumed_research: 1
+    promotion_from_p3: 1
+    chain: 1
+    unconsumed_research: 0
+    optimistic_review: 2
     gap_analysis: 0
     length_analysis: 0
     staleness: 0

@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-03-28
 ai_modified: 2026-08-25 02:34:03+00:00
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
 - /voids/observation-void/
