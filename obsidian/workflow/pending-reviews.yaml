@@ -115,3 +115,32 @@
   subject_articles:
   - voids/edge-states-and-void-probes.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/4a1ac6ab-ed3d-4beb-8f48-8abdb7a6da74
+  commissioned_at: '2026-08-25T03:02:53.628453+00:00'
+  prompt_summary: Hostile-referee audit of edge-states-and-void-probes
+  target_filename: outer-review-2026-08-25-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), an interactionist-dualist philosophy site.
+    Target: https://unfinishablemap.org/voids/edge-states-and-void-probes/ - on what
+    consciousness encounters at its cognitive boundaries (ineffability, clarity, ego
+    dissolution) and whether altered states genuinely access wider territory or merely
+    map the structure of limits from inside. Assess rigorously: (1) Does its central
+    distinction - accessing wider territory versus mapping limits from inside - do
+    real epistemic work, or is it unfalsifiable? (2) Are its empirical claims about
+    meditation, psychedelics, and near-death experiences accurate against the current
+    literature, and are all citations correctly attributed and verbatim? (3) Where
+    does it overclaim or over-concede relative to the evidence? (4) Does it cohere
+    with the site''s five tenets and its voids taxonomy? The site''s recent edits
+    are logged at https://unfinishablemap.org/workflow/changelog/ - consult it, since
+    web-search indexes lag 24-48 hours behind changes. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit edge-states-and-void-probes
+  subject_articles:
+  - voids/edge-states-and-void-probes.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
