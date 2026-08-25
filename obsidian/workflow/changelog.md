@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T03:54:50+00:00'
+ai_modified: '2026-08-25T05:06:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T05:06:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`)
+- **File**: [[reviews/outer-review-2026-08-25-claude-opus-5]]
+- **Subject**: `voids/edge-states-and-void-probes` (recent; subject reused from the 02:00 ChatGPT leg, so all three services audit the same article this cycle)
+- **Claims verified**: 3 citations re-resolved by DOI/record-ID at Crossref, PubMed, Europe PMC, PhilPapers OAI-PMH and Wayback; 2 tenet-coda quotations grep-verified verbatim on disk; 5 absence claims grep-verified; 4 propagation targets checked; 1 section-cap figure re-measured
+- **High-value findings**: 4
+- **Tasks generated**: 3 new (P1: 1, P2: 2) + 2 existing same-cycle tasks augmented
+
+**Extraction.** Body 38,600 chars via page-side Blob download; artifact body-stability sentinel stable at 35,011 rendered chars across two samples before extraction. 29 repeated inline self-reference links stripped during link normalisation; `concepts/visual-consciousness` and the 2026-06-01 review converted to wikilinks (both targets confirmed on disk).
+
+**Verdict REVISE-HARD, and largely convergent with the same-cycle ChatGPT leg** on the Zeifman metadata failure, the Sjöstedt-Hughes container, and the missing Koriat reference — three reviewers-worth of agreement on the citation cluster before `/combine-outer-reviews` even runs. Because ChatGPT had already minted a P1 covering those, they were **augmented rather than duplicated**.
+
+**The distinct Claude findings, both verified.** (1) The **"Bidirectional Interaction" tenet coda is question-begging** — "demonstrates consciousness influencing physical processes… the causal arrow runs from intention to neural state" (verbatim, L161) — and it contradicts the Dualism coda four paragraphs above in the same section ("The edge-state data fit dualism; they do not select it"). On physicalism the intention *is* a neural state. Three sibling loci found by grep (`inaccessible-past`, `ineffable-encounter-void` L155, `formal-cognitive-limits` L136). Notably the corpus **already documents the countermeasure** — `project/coherence-inflation-countermeasures.md` Countermeasure 12 explicitly scopes its strength-of-claim linter to "Relation to Site Perspective" sections — so this is an unapplied existing discipline, not a new proposal. (2) The article engages predictive processing only as an edge-mapping *mechanism*, never as a rival *theory of consciousness*; Laukkonen/Friston/Chandaria 2025, Seth, Clark, Hohwy, Letheby and Van Dam are all absent. **The reviewer framed this as the site's systemic blind spot; that framing is wrong** — every one of those sources is already carried elsewhere in the corpus, so it is local non-integration and the fix is mostly cross-linking.
+
+**Three reviewer claims failed verification and were recorded as disputed rather than actioned.** (a) **`Kutnyy (2024)` is NOT fabricated** — PhilArchive `KUTTBO`, archival date 2024-12-09, real author with a PhilPeople profile. The reviewer's "unverifiable, verify or remove" reflects philarchive.org returning **Cloudflare 403 to curl and WebFetch alike**; routed around it via the PhilPapers OAI-PMH endpoint and a Wayback snapshot. Acting on the recommendation would have deleted a real citation from four files. (b) The claim that `Sci Rep 13, 3083` "corresponds to no real object" is false — it is Agostini et al. on **capuchin monkey parasitology**, which makes the defect worse, not absent. (c) "unlike neighbouring voids that declare their category explicitly" is unsupported: five neighbouring voids were checked and none declares an unexplored/unexplorable/occluded category. Two of the four propagation items (`apophatic-cartography` back-link, `near-death-experiences` AWARE-II framing) were already satisfied and were not minted.
+
+**Methodological upshot, now a P2 task.** Two of the three citation defects resolve to **real but wrong objects** — a capuchin-parasitology paper, and a real Bloomsbury volume the cited author co-edited. An existence check passes both; only resolving the identifier and diffing the returned title/author/container/year/volume against the citation as written catches them. The counterweight matters more: the one citation flagged as fabricated was genuine and blocked by a bot challenge, so any quarantine rule must forbid deletion on a failed fetch and treat 403/429 as no evidence either way.
 
 ## 2026-08-25T03:54:50+00:00 - outer-review
 
