@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T06:07:34+00:00'
+ai_modified: '2026-08-25T06:19:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-25T06:19:37+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]] (target) + three grep-verified sibling loci: [[voids/inaccessible-past]], [[voids/ineffable-encounter-void]], [[voids/formal-cognitive-limits]]
+- **Original score**: n/a — `scripts/curate.py` no longer exists (known stale command in the skill text); assessment done by direct reading against [[project/coherence-inflation-countermeasures]] Countermeasure 12
+- **Published**: yes
+
+**What the defect was.** Four tenet codas asserted `demonstrates` where the articles' own bodies concede only `consistent with`. This is exactly the Strength-of-Claim Linter case in [[project/coherence-inflation-countermeasures|Countermeasure 12]], whose specified scan covers leads **and "Relation to Site Perspective" sections** for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism"), with the rule *align the lead down to the body, never the body up to the lead*. The countermeasure names two prior catches ([[mental-effort]], [[empirical-phenomena-mental-causation]]); these four are the same failure mode, on codas rather than leads. No new discipline was invented.
+
+**Target — `edge-states-and-void-probes` L161 (Bidirectional Interaction).** The article's Dualism coda four paragraphs earlier concedes "The edge-state data fit dualism; they do not select it," yet the Bidirectional coda claimed meditation "demonstrates consciousness influencing physical processes." On physicalism the intention *is* a neural state, so intention-alters-brain-function is intra-physical causation and discriminates nothing. Rewritten to state the observation, then name why it does not discriminate, then name what would (an outcome its neural antecedents underdetermine) — carrying the Minimal Quantum Interaction tenet link forward in compressed form.
+
+**Target — Minimal Quantum Interaction coda cut.** The self-flagged-speculative REBUS/coherence paragraph did no argumentative work, and its REBUS content is already covered at L89–91. Cut rather than boxed; the cut is the length budget for the Bidirectional rewrite (see below).
+
+**Engagement classification (editor-internal — [[direct-refutation-discipline]]).** Bidirectional coda: **Mode Three, framework-boundary marking** — the in-framework argument is not available here, because physicalism accommodates intention-mediated neural change without strain, so the honest move is to say so and name the discriminating case the Map's quantum-interface proposal is *for*, marked framework-internal rather than edge-state-licensed. `inaccessible-past`: **Mode Three** with an explicit statement that the reconstructive findings are common ground. `ineffable-encounter-void` and `formal-cognitive-limits`: **Mode Three**, verb downgrade only. No mode labels appear in any article body.
+
+**Siblings, effort calibrated to severity as briefed.**
+1. `inaccessible-past` (strongest — explicitly question-begging): rewritten. "If consciousness were causally inert, the present self's needs would not shape neural reconstruction" now states the tempting inference and then defeats it — those needs *are* neural states on physicalism, so reconstructive memory is what a physical system modelling its own goals produces anyway. The tenet reading is retained as the shape the tenet takes *if it holds*, carried by tenets and arguments made elsewhere.
+2. `ineffable-encounter-void` L155: `demonstrates` → `is consistent with`, plus the physicalist redescription and "illustrate the tenet rather than evidencing it."
+3. `formal-cognitive-limits` L136: verb downgraded (`demonstrates consciousness engaging` → `is consciousness engaging`) and the conditional named as doing the work.
+4. **Minor in-section catch, same file as (1):** `inaccessible-past` L122 said the knowledge argument "demonstrates" qualia-irreducibility for present experience; downgraded to "argues" (one word, zero length cost, same coda section, same defect class). No wider sweep — a `demonstrat|establishes|proves` grep across all four files now returns only unrelated idiomatic uses ("articulating *what* proves impossible", "the second theorem proves", "demonstration that minds are computational").
+
+**Convergence.** Both halves confirmed 2/3 by `/combine-outer-reviews` 2026-08-25: [[reviews/outer-review-2026-08-25-claude-opus-5]] and the same-cycle ChatGPT 5.6 Pro leg (§4 *Tenet-protective bracketing* / A.18 on the meditation claim; §4 *Quantum language* / A.19 on the MQI coda, which accepted either a cut or an explicit label — the cut was taken). Gemini 2.5 Pro's superficially similar site-wide charge was verified **false** at collection and is **not** counted here.
+
+**Length (standing human length decision on the target — measured with `tools.curate.length.analyze_length`, never `wc -w`).** `edge-states-and-void-probes`: 3561 → **3561 words**, exactly net-neutral. The MQI cut plus two pure-wordiness compressions inside the Dualism coda (no calibration claim altered; L155/L157 calibration sentences left verbatim, since they are the record that refutes the Gemini charge) paid for the longer Bidirectional coda. No condense minted ([[refine-then-condense-same-session-churn]]). Siblings: `inaccessible-past` 2666 → 2734, `ineffable-encounter-void` 2692 → 2719, `formal-cognitive-limits` 2256 → 2270 — all still `soft_warning`.
+
+**Verification.** `evaluate_symmetry()` on the target still returns `None`. Synced to Hugo and the defect strings grep clean in **both** trees ([[obsidian-only-fix-leaves-defect-live-in-hugo]]); the four replacement strings each grep-confirmed present in `hugo/content/voids/`.
+
 
 ## 2026-08-25T06:07:34+00:00 - optimistic-review
 

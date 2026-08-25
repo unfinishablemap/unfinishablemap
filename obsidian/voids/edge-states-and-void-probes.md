@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-18T01:27:34+00:00
+ai_modified: 2026-08-25T06:19:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[sleep-consciousness-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5
 ai_generated_date: 2026-05-10
 last_curated:
 last_deep_review: 2026-07-16T03:19:00+00:00
@@ -152,15 +152,13 @@ The territory can be mapped even where it cannot be articulated. Contemplative t
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** The combined evidence—reducing valve, DMN findings, zero-person perspective, NDE phenomenology, consistent edge-profile—is *consistent with* consciousness as something over and above neural processing, not *support for* it. One might argue that while physicalism accommodates each finding individually, the *convergence* costs it more theoretical machinery. That inference does not go through without a comparative accounting. If a single shared mechanism explains why all these edge-states present the same profile, the convergence cuts *against* aggregating them as independent confirmations: a common cause is the more parsimonious explanation of a shared signature, and naming one removes the warrant to count the cases separately. To claim a net cost to physicalism, one would have to specify the extra machinery physicalism needs to explain the *convergence itself* and show it exceeds the dualist ledger of non-physical consciousness *plus* an interface *plus* a filter that mimics production under every disruption. No such accounting is available. The honest statement is weaker: the convergence is roughly equally consistent with the dualist and physicalist readings and does not by itself discriminate them.
+**[[tenets#^dualism|Dualism]].** The combined evidence—reducing valve, DMN findings, zero-person perspective, NDE phenomenology, consistent edge-profile—is *consistent with* consciousness as something over and above neural processing, not *support for* it. One might argue that the *convergence*, if not each finding individually, costs physicalism more theoretical machinery. That inference needs a comparative accounting. If a single shared mechanism explains why all these edge-states present the same profile, the convergence cuts *against* aggregating them as independent confirmations: a common cause is the more parsimonious explanation of a shared signature, and removes the warrant to count the cases separately. Claiming a net cost to physicalism would require specifying the extra machinery it needs to explain the *convergence itself*, and showing it exceeds the dualist ledger of non-physical consciousness *plus* an interface *plus* a filter that mimics production under every disruption. No such accounting is available. The honest statement is weaker: the convergence is roughly equally consistent with the dualist and physicalist readings and does not by itself discriminate them.
 
 The deeper underdetermination is that edge-phenomenology does not even isolate dualism among *non-physicalist* options. The zero-person perspective and minimal phenomenal experience are equally describable under panpsychism (consciousness ubiquitous and merely de-filtered), neutral monism (the edge revealing a substrate prior to the mental/physical split), or Metzinger's naturalistic tonic-alertness model. The edge-state data fit dualism; they do not select it. The Map's dualism is carried by its tenets and arguments made elsewhere, not by treating the convergent phenomenology as evidence that points uniquely its way.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The assumption that ordinary waking consciousness provides the baseline for truth is itself a simplicity assumption. If Bergson and Huxley are right, ordinary consciousness may be reduced rather than optimal—our explanatory preferences evolved on the savanna, not at the edge of cognitive space.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Deliberately approaching the edge—through meditation, phenomenological reduction, ingesting a psychedelic—demonstrates consciousness influencing physical processes. Meditators train attention in ways that alter brain function. The causal arrow runs from intention to neural state, not merely the reverse.
-
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** REBUS describes psychedelics as relaxing high-level predictive constraints. If such constraints involve collapse-inducing measurement, relaxing them might preserve quantum coherence at the interface—speculative, but connects edge-phenomenology to the Map's quantum framework.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Meditators train attention in ways that alter brain function; the causal arrow runs from intention to neural state. That is consistent with consciousness influencing physical processes, no more: on physicalism the intention *is* a neural state, so this is intra-physical causation in mental vocabulary, and reading it as downward causation assumes the tenet it was meant to support. What would discriminate is an outcome its neural antecedents underdetermine—the work [[tenets#^minimal-quantum-interaction|the minimal quantum interface]] proposes, framework-internally rather than on edge-state evidence.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-08-05T23:58:16+00:00
+ai_modified: 2026-08-25T06:19:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,9 +119,9 @@ The thesis would require revision if direct past-state access proved possible (H
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** heightens the stakes. If qualia are irreducible to information — as the [[knowledge-argument]] demonstrates for present experience — preserving information about past experience cannot preserve the experience itself. The persistence of the void despite detailed memory traces is evidence that experience exceeds information. At historical scale, dualism faces a genuine challenge: does the non-physical aspect evolve alongside culture, or persist beneath changing manifestation? Either option complicates the dualist picture, and the Map acknowledges this tension rather than resolving it prematurely.
+**[[tenets#^dualism|Dualism]]** heightens the stakes. If qualia are irreducible to information — as the [[knowledge-argument]] argues for present experience — preserving information about past experience cannot preserve the experience itself. The persistence of the void despite detailed memory traces is evidence that experience exceeds information. At historical scale, dualism faces a genuine challenge: does the non-physical aspect evolve alongside culture, or persist beneath changing manifestation? Either option complicates the dualist picture, and the Map acknowledges this tension rather than resolving it prematurely.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is demonstrated by the active role consciousness plays in memory. The present self does not passively receive stored information — it constructs, selects, and distorts. If consciousness were causally inert, the present self's needs would not shape neural reconstruction. The void reveals bidirectional interaction across time: past experience constrains present reconstruction; present consciousness determines which patterns to activate.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is illustrated by the active role consciousness plays in memory, though the illustration does not establish the tenet. The present self does not passively receive stored information — it constructs, selects, and distorts. The tempting inference is that a causally inert consciousness would leave the present self's needs unable to shape neural reconstruction; but on physicalism those needs *are* neural states, so reconstructive memory is what a physical system modelling its own current goals would produce anyway. The findings are common ground. What the void supplies is the shape the tenet takes if it holds: past experience constrains present reconstruction; present consciousness selects which patterns to activate — a reading the Map holds on the strength of its tenets and the arguments made elsewhere for them.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** focuses the question. Memory presupposes a single actual past. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality]] can secure branch-local pastness, but the Map's stronger reading is that the past is genuinely one-branch-only — and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable to thread the past self across branch-alternatives. "Why am I this person now rather than that person then?" parallels "why this branch?" The historical layer reinforces indexical stakes: consciousness is bound not just to *this body* but to *this historical moment*.
 

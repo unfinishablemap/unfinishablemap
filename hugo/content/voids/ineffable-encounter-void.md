@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-08-06 17:02:30+00:00
+ai_modified: 2026-08-25 06:19:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:04:37+00:00
-lastmod: 2026-08-06 17:02:30+00:00
+lastmod: 2026-08-25 06:19:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -155,7 +155,7 @@ The ineffable encounter void connects most directly to [Occam's Razor Has Limits
 
 [Dualism](/tenets/#dualism) is equally implicated, and here the tenet does the work rather than the evidence. The recurring reports of conscious knowing that resists reduction to information-processing are consistent with consciousness not being exhausted by its physical substrate, but equally consistent with verbal report being a late and lossy channel. On the dualist reading the ineffable encounter is consciousness registering meaning that cannot be cashed out neurally—a [consciousness-only territory](/voids/consciousness-only-territories/) accessible to phenomenal awareness but structurally closed to third-person investigation. That is the Map's reading, offered as such rather than as the evidence's verdict.
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) surfaces in two ways. Rosa's framework captures the active component: resonance requires "that both sides speak with their own voice." And the apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—demonstrates consciousness deliberately reshaping its cognitive stance to make the encounter possible. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) surfaces in two ways. Rosa's framework captures the active component: resonance requires "that both sides speak with their own voice." And the apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—is consistent with consciousness deliberately reshaping its cognitive stance to make the encounter possible; on the physicalist reading the same discipline is one set of neural states reconfiguring another, so the practices illustrate the tenet rather than evidencing it. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
 
 [No Many Worlds](/tenets/#no-many-worlds) connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already accommodate the branch-local felt singularity of the numinous; the Map's stronger reading is that ineffable encounter is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. The numinous resists abstraction into general principles—the experience refuses to be a token of a type—suggesting indexical identity is load-bearing rather than epiphenomenal.
 

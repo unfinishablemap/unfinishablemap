@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness encounters meaning and s
 created: 2026-03-24
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-08-06T17:02:30+00:00
+ai_modified: 2026-08-25T06:19:37+00:00
 draft: false
 last_deep_review: 2026-06-27T01:04:37+00:00
 topics:
@@ -152,7 +152,7 @@ The ineffable encounter void connects most directly to [[tenets#^occams-limits|O
 
 [[tenets#^dualism|Dualism]] is equally implicated, and here the tenet does the work rather than the evidence. The recurring reports of conscious knowing that resists reduction to information-processing are consistent with consciousness not being exhausted by its physical substrate, but equally consistent with verbal report being a late and lossy channel. On the dualist reading the ineffable encounter is consciousness registering meaning that cannot be cashed out neurally—a [[consciousness-only-territories|consciousness-only territory]] accessible to phenomenal awareness but structurally closed to third-person investigation. That is the Map's reading, offered as such rather than as the evidence's verdict.
 
-[[tenets#^bidirectional-interaction|Bidirectional Interaction]] surfaces in two ways. Rosa's framework captures the active component: resonance requires "that both sides speak with their own voice." And the apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—demonstrates consciousness deliberately reshaping its cognitive stance to make the encounter possible. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
+[[tenets#^bidirectional-interaction|Bidirectional Interaction]] surfaces in two ways. Rosa's framework captures the active component: resonance requires "that both sides speak with their own voice." And the apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—is consistent with consciousness deliberately reshaping its cognitive stance to make the encounter possible; on the physicalist reading the same discipline is one set of neural states reconfiguring another, so the practices illustrate the tenet rather than evidencing it. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
 
 [[tenets#^no-many-worlds|No Many Worlds]] connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality]] can already accommodate the branch-local felt singularity of the numinous; the Map's stronger reading is that ineffable encounter is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. The numinous resists abstraction into general principles—the experience refuses to be a token of a type—suggesting indexical identity is load-bearing rather than epiphenomenal.
 

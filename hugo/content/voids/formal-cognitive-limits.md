@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-07-18 15:28:50+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-25 06:19:37+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /voids/computational-cognitive-limits/
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 15:28:50+00:00
-lastmod: 2026-07-18 15:28:50+00:00
+lastmod: 2026-08-25 06:19:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -138,7 +138,7 @@ No AI, however powerful, escapes these limits for systems operating by Turing co
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** connects through where consciousness interfaces with physics. If that interface operates non-computationally, consciousness might access truths beyond computational reach.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** relates to the self-referential aspect of these limits. Contemplating them—grasping Gödel sentences, recognising what we cannot compute—demonstrates consciousness engaging with its own nature. If this produces genuine insight, mental causation occurs in the investigation itself.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** relates to the self-referential aspect of these limits. Contemplating them—grasping Gödel sentences, recognising what we cannot compute—is consciousness engaging with its own nature. If this produces genuine insight, mental causation occurs in the investigation itself; the conditional is doing the work, and the formal results do not settle it.
 
 These limits differ from other voids in being *mathematically demonstrable*. However speculative other voids may be, this one has the backing of formal proof. The voids project faces these same limits—mapping all cognitive limits would require complete self-understanding, which the [cartography problem](/voids/apophatic-cartography/) shows is impossible.
 
