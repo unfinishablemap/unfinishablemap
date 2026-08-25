@@ -4,7 +4,7 @@ description: "How migratory birds may sense Earth's magnetic field through coher
 created: 2026-07-14
 modified: 2026-07-14
 human_modified:
-ai_modified: 2026-08-05T19:25:38+00:00
+ai_modified: 2026-08-25T02:22:10+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -17,15 +17,15 @@ related_articles:
   - "[[evolutionary-case-for-quantum-neural-effects]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-14
 last_curated:
-last_deep_review: 2026-07-24T23:33:31+00:00
+last_deep_review: 2026-08-25T02:22:10+00:00
 ---
 
 Radical-pair magnetoreception (RPM) is the leading model of how night-migratory birds sense the direction of Earth's magnetic field. A photon absorbed by a cryptochrome protein in the retina creates a spin-correlated pair of radicals; the pair's quantum spin state evolves under the geomagnetic field, and the yield of the resulting chemical products depends on the molecule's orientation. It is a chemical compass built from coherent electron spins.
 
-The single point this page exists to fix, and which downstream articles should link here for rather than re-derive: **RPM is a real, behaviourally-attested, mechanistically-still-debated warm-temperature quantum effect in biology — a precedent for the mechanism category (warm quantum effects *can* occur in living systems), not a licence for any neural deployment of them.** Four features enforce that limit, each developed below: it is a specialised photoactivated sensor in one molecule, not a neural structure; its coherence lasts tens of microseconds, roughly two orders of magnitude below the millisecond timescales of neural signalling; the quantum-Zeno framing of radical-pair dynamics was Iannis Kominis's (2008), not a recent discovery; and the most cited computational demonstration of Zeno-enabled magnetosensitivity (Denton et al. 2024) is a model, not an experiment.
+The single point this page exists to fix, and which downstream articles should link here for rather than re-derive: **RPM is a real, behaviourally-attested, mechanistically-still-debated warm-temperature quantum effect in biology — a precedent for the mechanism category (warm quantum effects *can* occur in living systems), not a licence for any neural deployment of them.** Four features enforce that limit, each developed below: it is a specialised photoactivated sensor in one molecule, not a neural structure; its coherence lasts tens of microseconds, roughly two orders of magnitude below the millisecond timescales of neural signalling; the quantum-Zeno framing of radical-pair dynamics was Iannis Kominis's (2008), not a recent discovery; and the cryptochrome-specific modelling that popularised that framing (Denton et al. 2024) is a model, not an experiment.
 
 ## The Mechanism
 
@@ -45,7 +45,9 @@ The geomagnetic field is weak — about `50 µT` — and the Zeeman energy it su
 
 The strongest behavioural argument for RPM is the radiofrequency-disruption line. Ritz and colleagues (2004) showed that European robins became disoriented when a weak oscillating radiofrequency field — broadband 0.1–10 MHz, or a single 7 MHz frequency — was added to the geomagnetic field. A magnetite mechanism should be indifferent to such weak oscillating fields; resonance with radical-pair spin dynamics explains it naturally. Engels et al. (2014) extended this: urban electromagnetic noise, at strengths below WHO exposure limits, abolished robins' magnetic orientation, and screening the huts restored it.
 
-The precise radiofrequency signature is where the evidence remains unsettled, and an honest page must state the nuance rather than present Engels 2014 as closed. Leberecht et al. (2023), from the same Mouritsen–Hore research lineage, placed an **upper bound** on broadband radiofrequency disruption and located the effective disruption window higher in frequency — between roughly 80 and 145 MHz for blackcaps, in agreement with theory. Read carefully, the 2023 result *supports* RPM overall while revising the specific weak-broadband claim that Engels 2014 headlined. The compass behaviour is robust; the exact radiofrequency-sensitivity signature — a key RPM diagnostic — has been narrowed and is still debated.
+The precise radiofrequency signature is where the evidence remains unsettled, and the fault-line runs through the *narrow-band* results rather than the broadband ones. Schwarze et al. (2016), testing robins in a purpose-built electromagnetically silent laboratory, found that comparatively strong narrow-band fields — at the Larmor frequency, at twice the Larmor frequency, at 1.315 MHz and at 50 Hz — left orientation intact, while a weak broadband field spanning roughly 2 kHz to 9 MHz disrupted it efficiently. Their broadband result agrees with Ritz 2004 and Engels 2014; their narrow-band null, as they state, contradicts the Frankfurt single-frequency experiments, Ritz 2004 among them. That is the live replication dispute in this literature, and it bites because the resonance detail was the diagnostic one.
+
+Leberecht et al. (2023) bounded the effect from above rather than overturning it. Blackcaps were unaffected by radiofrequency noise at 140–150 MHz and at 235–245 MHz; taken with the same group's earlier finding that 75–85 MHz fields do disorient the species (Leberecht et al. 2022), that places the **maximum** disruption frequency between roughly 80 and 145 MHz, matching the prediction that a flavin-containing radical pair should respond almost independently of frequency up to about 116 MHz and then fall away by about two orders of magnitude. The authors read this as compelling support for RPM. So the honest summary is layered: the broadband effect is robust and independently replicated, the upper frequency bound is now measured and theory-consistent, and it is the narrow-band resonance claims that remain contested.
 
 RPM is best supported for the directional *compass*. A separate magnetite-based sense may supply a positional *map* (field intensity and inclination as a coordinate). The two are not rivals so much as candidates for different sensory jobs.
 
@@ -53,7 +55,7 @@ RPM is best supported for the directional *compass*. A separate magnetite-based 
 
 The quantum-biology interest in RPM is a timescale problem. For the observed compass precision to hold, the radical pair's superposition must survive long enough for the field to bias the spin dynamics before recombination. Gauger, Rieper, Morton, Benjamin and Vedral (2011) estimated that superposition and entanglement must be sustained for **at least tens of microseconds** at avian body temperature — longer than the best comparable man-made molecular systems achieved at the time. This is the crisp statement of the "warm, wet, noisy" puzzle: quantum coherence persisting in biology where naive thermal reasoning says it should not.
 
-That figure — tens of microseconds — is the number downstream Map articles should quote for the well-separated compass radical pair, and it is also the number that grounds the transfer limit. It is not the only radical-pair figure in the Map: the tightly bound FAD–superoxide pair modelled by Denton et al. (2024) is a different pair with a shorter, sub-microsecond budget, treated on the [[quantum-zeno-effect|quantum Zeno effect]] page. Neural signalling operates on millisecond timescales, roughly two orders of magnitude slower. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
+That figure — tens of microseconds — is the number downstream Map articles should quote for the well-separated compass radical pair, and it is also the number that grounds the transfer limit. It is not the only radical-pair figure in the Map: the tightly bound FAD–superoxide pair modelled by Denton et al. (2024) is a different pair with a shorter, sub-microsecond budget, treated on the [[quantum-zeno-effect|quantum Zeno effect]] page. Neural signalling operates on millisecond timescales — roughly two orders of magnitude slower than the compass pair's tens of microseconds, and three orders slower than the tightly bound pair's sub-microsecond window. A coherence budget that suffices for a photochemical sensor says nothing about superpositions persisting through a neural decision window.
 
 ## The Quantum-Zeno Sub-Framing
 
@@ -65,7 +67,7 @@ Two calibrations matter here. First, Kominis established the biological Zeno fra
 
 - **Sensor identity.** Cryptochrome — likely Cry4a in birds — is the leading candidate, but the in-vitro magnetic sensitivity of isolated cryptochrome is weaker than the behavioural sensitivity requires. The gap between molecule and behaviour is a live problem.
 - **In-vivo spin dynamics.** The coherence lifetimes and radical-pair identities inferred from behaviour and computation have not been measured in a functioning retina.
-- **The radiofrequency signature.** As above, the effective disruption window has been revised and is not closed.
+- **The narrow-band radiofrequency signature.** As above, the Frankfurt single-frequency resonance results have not replicated in Oldenburg. The broadband effect and the upper frequency bound are in better shape than the resonance detail.
 
 Hore and Mouritsen's authoritative 2016 review states the position plainly: the primary sensory mechanism "is still unclear." RPM is the leading model, not a settled fact.
 
@@ -92,10 +94,12 @@ RPM is a sensory transduction — physical field to physical chemistry. It is or
 2. Ritz, T., Adem, S., & Schulten, K. (2000). A model for photoreceptor-based magnetoreception in birds. *Biophysical Journal*, 78(2), 707–718. https://doi.org/10.1016/S0006-3495(00)76629-X
 3. Ritz, T., Thalau, P., Phillips, J. B., Wiltschko, R., & Wiltschko, W. (2004). Resonance effects indicate a radical-pair mechanism for avian magnetic compass. *Nature*, 429(6988), 177–180. https://doi.org/10.1038/nature02534
 4. Engels, S., Schneider, N.-L., Lefeldt, N., Hein, C. M., Zapka, M., Michalik, A., Elbers, D., Kittel, A., Hore, P. J., & Mouritsen, H. (2014). Anthropogenic electromagnetic noise disrupts magnetic compass orientation in a migratory bird. *Nature*, 509(7500), 353–356. https://doi.org/10.1038/nature13290
-5. Leberecht, B., et al. (2023). Upper bound for broadband radiofrequency field disruption of magnetic compass orientation in night-migratory songbirds. *PNAS*, 120(28), e2301153120. https://doi.org/10.1073/pnas.2301153120
-6. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503 (arXiv:0906.3725)
-7. Hore, P. J., & Mouritsen, H. (2016). The radical-pair mechanism of magnetoreception. *Annual Review of Biophysics*, 45, 299–344. https://doi.org/10.1146/annurev-biophys-032116-094545
-8. Kominis, I. K. (2008/2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. arXiv:0806.0739; *Physical Review E*.
-9. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
-10. Southgate, A. & Oquatre-huit, C. (2026-07-14). The Quantum Zeno Effect. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-zeno-effect/
-11. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/
+5. Schwarze, S., Schneider, N.-L., Reichl, T., Dreyer, D., Lefeldt, N., Engels, S., Baker, N., Hore, P. J., & Mouritsen, H. (2016). Weak broadband electromagnetic fields are more disruptive to magnetic compass orientation in a night-migratory songbird (*Erithacus rubecula*) than strong narrow-band fields. *Frontiers in Behavioral Neuroscience*, 10, 55. https://doi.org/10.3389/fnbeh.2016.00055
+6. Leberecht, B., Kobylkov, D., Karwinkel, T., Döge, S., Burnus, L., Wong, S. Y., Apte, S., Haase, K., Musielak, I., Chetverikova, R., Dautaj, G., Bassetto, M., Winklhofer, M., Hore, P. J., & Mouritsen, H. (2022). Broadband 75–85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor. *Journal of Comparative Physiology A*, 208(1), 97–106. https://doi.org/10.1007/s00359-021-01537-8
+7. Leberecht, B., Wong, S. Y., Satish, B., Döge, S., et al. (2023). Upper bound for broadband radiofrequency field disruption of magnetic compass orientation in night-migratory songbirds. *PNAS*, 120(28), e2301153120. https://doi.org/10.1073/pnas.2301153120
+8. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503 (arXiv:0906.3725)
+9. Hore, P. J., & Mouritsen, H. (2016). The radical-pair mechanism of magnetoreception. *Annual Review of Biophysics*, 45, 299–344. https://doi.org/10.1146/annurev-biophys-032116-094545
+10. Kominis, I. K. (2008/2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. arXiv:0806.0739; *Physical Review E*, 80, 056115. https://doi.org/10.1103/PhysRevE.80.056115
+11. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
+12. Southgate, A. & Oquatre-huit, C. (2026-07-14). The Quantum Zeno Effect. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-zeno-effect/
+13. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/

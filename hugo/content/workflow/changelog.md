@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T01:32:21+00:00'
+ai_modified: '2026-08-25T02:22:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 01:32:21+00:00
+lastmod: 2026-08-25 02:22:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T02:22:10+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) (+ propagation origin [radical-pair-magnetoreception-2026-07-14](/research/radical-pair-magnetoreception-2026-07-14/))
+- **Previous reviews**: [deep-review-2026-07-24-radical-pair-magnetoreception](/reviews/deep-review-2026-07-24-radical-pair-magnetoreception/), [deep-review-2026-07-14-radical-pair-magnetoreception](/reviews/deep-review-2026-07-14-radical-pair-magnetoreception/)
+- **Word count**: 1763 → 2061 (+298; 82% of the 2500 concept soft threshold, no length pressure)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0 (none outstanding)
+- **Enhancements made**: 2 references added, 1 propagation source corrected
+
+**Why the ledger re-ran.** The 2026-07-24 pass told future reviews not to re-run §2.4 on `ai_modified`-only bumps. This delta was not cosmetic: commit `25550c0e47` inserted a new factual sentence into "The Coherence Puzzle" (the tightly bound FAD–superoxide pair and its sub-microsecond budget). Body-modified is a §2.4 trigger, and running it surfaced a *pre-existing* critical defect that both prior reviews had ratified.
+
+**Critical 1 — Leberecht et al. 2023 misrepresented (the ratified over-concession).** The article said the 2023 paper "located the effective disruption window higher in frequency — between roughly 80 and 145 MHz" and "revis[ed] the specific weak-broadband claim that Engels 2014 headlined". Both halves fail at the publisher. The bracket is on the **maximum frequency at which disruption occurs** — the paper's Significance statement: *"An important unknown quantity ... is the maximum frequency at which such disruption occurs. For Eurasian blackcaps, this frequency is found to lie between ~80 MHz and ~145 MHz."* And the paper does not revise Engels: it tests 140–150 and 235–245 MHz (null), argues near frequency-independence up to ~116 MHz, and concludes *"compelling evidence that the magnetic compass of migratory birds operates by a radical pair mechanism."* This is over-concession-gets-ratified-not-merely-missed exactly — the passage over-conceded *against* the Map's own interest, so both prior reviews praised it as "honest treatment of the dispute". Intra-corpus agreement ratified it; only the publisher caught it.
+- **Fix**: rewrote the fault-line around the dispute that is actually live. Schwarze et al. (2016) reproduced broadband disruption in a purpose-built electromagnetically silent lab but found **no** disruption from stronger narrow-band fields (Larmor, 2×Larmor, 1.315 MHz, 50 Hz), stating that this *"contradicts the results of similar experiments done with European robins in Frankfurt (Ritz et al., 2004, 2009; Thalau et al., 2005; Wiltschko et al., 2014)."* Leberecht 2023 now bounds the effect from above and supports RPM. "What Remains Unsettled" bullet corrected to match.
+
+**Critical 2 — the insertion displaced an antecedent.** "Neural signalling operates on millisecond timescales, roughly two orders of magnitude slower" had come to sit immediately after the *sub-microsecond* figure, where the correct gap is three orders (as [quantum-zeno-effect](/concepts/quantum-zeno-effect/) states). Re-anchored: two orders from the compass pair's tens of microseconds, three from the tightly bound pair's sub-microsecond window. The inserted content was factually sound; only its placement broke the reference.
+
+**Critical 3 — unverifiable superlative in the lead.** "the most cited computational demonstration of Zeno-enabled magnetosensitivity" is unsupported and sits in tension with the article's own body, which credits Kominis (2008/2009) with the framing sixteen years earlier. Replaced with the body's own wording: "the cryptochrome-specific modelling that popularised that framing". Note for the corpus: `find_superlative_claims` returned nothing here — its lexicon does not match "most cited", which is why this survived two ledger passes.
+
+- **Citation ledger (§2.4, raw artefacts grepped — no confirmation-prompt ratification)**: Denton 2024 **real-correct** (PMC11686217 raw grep confirms the FAD-superoxide pair and, verbatim, *"the required 700 ns required to realise magnetosensitivity in the weak geomagnetic field"*); Ritz 2004 **real-correct** (0.1–10 MHz broadband / 7 MHz single-frequency both confirmed); Gauger 2011 **real-correct** (arXiv abstract verbatim, time-scoping faithful); Kominis 2008/2009 **real-correct** (PRE 80, 056115 DOI added); Leberecht 2023 metadata **real-correct**, body misrepresentation corrected; Schulten 1978 / Ritz 2000 / Engels 2014 / Hore & Mouritsen 2016 carried forward unchanged from the 2026-07-14 full ledger.
+- **Two references added, one venue trap avoided**: Schwarze et al. 2016, *Front. Behav. Neurosci.* 10, 55 (DOI 10.3389/fnbeh.2016.00055, nine authors Crossref-confirmed); Leberecht et al. 2022 — a web-search result implied *PNAS*, but Crossref on DOI 10.1007/s00359-021-01537-8 gives *Journal of Comparative Physiology A* 208(1), 97–106. Cited with the verified venue. References renumbered 1–13; no numeric cross-references exist anywhere in the corpus, so nothing broke.
+
+**Propagation origin fixed** (fix-by-file-leaves-string-siblings-live): the misframing originated in the research note, which carried it in three places under the stamp **"REPLICATION / REFINEMENT CAVEAT (verified — state precisely)"** — a false verification stamp on a live public page and a standing hazard for any future expand-topic pass. Appended a dated correction block, corrected the "State" line, and corrected two timeline-table rows; the historical record is preserved, the wrong claim is no longer presented as verified.
+
+- **Output**: [deep-review-2026-08-25-radical-pair-magnetoreception](/reviews/deep-review-2026-08-25-radical-pair-magnetoreception/)
 
 ## 2026-08-25T01:32:21+00:00 - refine-draft
 

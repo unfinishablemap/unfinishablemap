@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-25 02:22:10+00:00
+ai_system: claude-opus-4-8+claude-opus-5
 concepts: []
 created: 2026-07-14
-date: '2026-07-14'
+date: '2026-08-25'
 draft: false
-lastmod: 2026-07-14 00:00:00+00:00
+lastmod: 2026-08-25 02:22:10+00:00
 related_articles: []
 title: Research Notes - Radical-Pair Magnetoreception
 ---
@@ -78,6 +79,7 @@ The geomagnetic field (~50 μT) produces a Zeeman splitting far smaller than the
 - **Key point**: Urban electromagnetic noise (below WHO exposure limits) abolished robins' magnetic orientation; screening the huts restored it. Widely cited as strong RPM support.
 - **REPLICATION / REFINEMENT CAVEAT (verified — state precisely)**: The RF-disruption *magnitude* is contested. Leberecht et al. (2023, PNAS, DOI 10.1073/pnas.2301153120) — same Mouritsen/Hore lineage (both are co-authors) — set an **upper bound** on broadband RF disruption and located the effective disruption window higher up (~80–145 MHz for blackcaps). Read carefully, this paper **supports RPM overall** (the higher-frequency window matches theory) while **constraining the specific weak-broadband-noise disruption** Engels 2014 headlined. So the honest framing is not "Engels failed to replicate" but "the RF-disruption phenomenon is real yet its low-frequency/broadband magnitude has been revised and remains debated." The compass behaviour is robust; the exact RF signature is unsettled. A canonical page must state this nuance rather than presenting either Engels 2014 as closed *or* the 2023 work as a refutation.
 - **Tenet alignment**: Neutral; the *replication debate* is itself the calibration point — do not over-claim.
+- **CORRECTION (2026-08-25 deep-review, verified at publisher of record)**: The caveat above misreads Leberecht et al. 2023. The ~80–145 MHz bracket is a bound on the **maximum frequency at which disruption occurs**, not a relocated "effective disruption window", and the 2023 paper does not revise or constrain Engels 2014 — it tests 140–150 MHz and 235–245 MHz (no effect), argues effects should be near frequency-independent up to ~116 MHz, and concludes the results are "compelling evidence" for RPM. The genuine replication fault-line is elsewhere: Schwarze et al. 2016 (*Front. Behav. Neurosci.* 10, 55, DOI 10.3389/fnbeh.2016.00055) reproduced the broadband disruption but found **no** disruption from narrow-band fields, explicitly contradicting the Frankfurt single-frequency results (Ritz et al. 2004, 2009; Thalau et al. 2005; Wiltschko et al. 2014). Downstream articles must use the corrected framing carried in [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/).
 
 ### Gauger, Rieper, Morton, Benjamin & Vedral (2011) — the coherence puzzle quantified
 - **Citation**: Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503.
@@ -141,7 +143,7 @@ The geomagnetic field (~50 μT) produces a Zeeman splitting far smaller than the
 
 ### What is the exact RF signature that disrupts the compass?
 - **Sides**: Engels 2014 (weak broadband 0.1–10 MHz noise disrupts) vs. Leberecht et al. 2023 (upper bound on broadband disruption; effective window ~80–145 MHz) — same Mouritsen/Hore lineage, and the 2023 result *supports* RPM while revising the low-frequency claim.
-- **State**: **Debated — the phenomenon's replication/refinement fault-line.** The compass behaviour is robust; the precise *RF-sensitivity signature* (the key RPM diagnostic) has been revised and is not settled.
+- **State**: **Debated — but see the 2026-08-25 correction above.** The contested element is the *narrow-band* resonance signature (Schwarze et al. 2016 vs the Frankfurt experiments), not the broadband effect, which replicates. Leberecht et al. 2023 bounds the effect from above and supports RPM rather than revising Engels 2014.
 
 ### Compass vs. map: one sense or two?
 - **State**: Ongoing; RPM best supported for the directional compass, magnetite candidate for a positional map.
@@ -156,9 +158,9 @@ The geomagnetic field (~50 μT) produces a Zeeman splitting far smaller than the
 | 2004 | Ritz et al. (Nature 429) | RF-resonance behavioural evidence for RPM |
 | ~2008 | Kominis (arXiv:0806.0739) | Radical-pair reaction dynamics framed as quantum Zeno |
 | 2011 | Gauger et al. (PRL 106) | Coherence must persist ~tens of μs — the warm-coherence puzzle |
-| 2014 | Engels et al. (Nature 509) | Anthropogenic RF disrupts compass (later contested) |
+| 2014 | Engels et al. (Nature 509) | Anthropogenic broadband RF disrupts compass (reproduced by Schwarze et al. 2016) |
 | 2016 | Hore & Mouritsen (Annu Rev Biophys 45) | Authoritative review |
-| 2023 | Leberecht et al. (PNAS) | Upper bound on broadband RF disruption; window revised to ~80–145 MHz (supports RPM, refines Engels 2014) |
+| 2023 | Leberecht et al. (PNAS) | Upper bound on RF disruption: maximum disruption frequency bracketed to ~80–145 MHz (supports RPM; does not revise Engels 2014) |
 | 2024 | Denton et al. (Nat Commun 15) | Computational Zeno-in-cryptochrome modelling |
 | 2025 | Luo et al. (JACS 147) | Protein/solvent reorganization stabilises the radical pair |
 
