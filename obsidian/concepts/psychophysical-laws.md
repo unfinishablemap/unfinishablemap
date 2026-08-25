@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-08-22T14:40:19+00:00
+ai_modified: 2026-08-25T01:32:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,11 +113,11 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 **Direction of Causation**: The Map insists on downward causation (phenomenal → physical) where Chalmers tends toward epiphenomenalism. If consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself—self-undermining.
 
-**The Selection Mechanism**: Where Chalmers leaves the mechanism abstract, the Map (following [[stapp-quantum-mind|Stapp]]) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism—affecting which quantum possibilities become actual without injecting energy.
+**The Selection Mechanism**: Where Chalmers leaves the mechanism abstract, the Map names attention as the mental variable, then ranks candidate physical mechanisms rather than adopting one — post-decoherence selection first, with [[stapp-quantum-mind|Stapp's]] quantum Zeno maintenance among the co-preferred fallbacks below it ([[comparing-quantum-consciousness-mechanisms#preference-ordering|the preference ordering]]).
 
 **Rejection of Organizational Invariance**: Substrate matters—not because silicon can't be conscious, but because particular physical instantiation may affect phenomenal character in ways functional description misses.
 
-**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025). The bottleneck reflects evolutionary logic: the brain focuses selectively rather than processing everything at once, making selection coarse-grained enough to match deliberate decision-making phenomenology at ~3-4 choices/second.
+**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025), which makes selection coarse-grained enough to match deliberate decision-making phenomenology at ~3-4 choices/second.
 
 ## The Coupling Problem
 

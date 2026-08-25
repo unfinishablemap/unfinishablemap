@@ -3,7 +3,7 @@ title: "Research: Chalmers' Psychophysical Laws Framework"
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-08-03T16:16:54+00:00
+ai_modified: 2026-08-25T01:32:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,7 +143,7 @@ The constraints are useful here as an external yardstick for the Chalmers-McQuee
 
 2. **Selection vs. Supervenience**: Chalmers' laws are supervenience laws (experience accompanies physical states). The Map's laws are selection laws (consciousness chooses which physical states become actual). This is a stronger causal claim.
 
-3. **Attention as mechanism**: Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism.
+3. **Attention as mechanism**: Chalmers leaves the mechanism abstract. The Map names attention as the mental variable, and on the physical side ranks candidates rather than adopting one — post-decoherence selection first, Stapp's quantum Zeno maintenance among the co-preferred fallbacks below it (positions P-Q1 and P-Q4; the preference ordering is set out in "Comparing Quantum Consciousness Mechanisms").
 
 4. **Bandwidth constraint**: the Map incorporates the ~10 bits/second limitation on conscious processing. Chalmers' framework doesn't specify information-theoretic constraints on psychophysical coupling.
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T01:11:44+00:00'
+ai_modified: '2026-08-25T01:32:21+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-25'
-lastmod: 2026-08-25 01:11:44+00:00
+lastmod: 2026-08-25 01:32:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-25T01:32:21+00:00 - refine-draft
+
+- **Status**: Success
+- **Files**: [psychophysical-laws](/concepts/psychophysical-laws/) (primary, L116) + propagation origin [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) (L146)
+- **Review**: [optimistic-2026-08-24-psychophysical-lawfulness-wing](/reviews/optimistic-2026-08-24-psychophysical-lawfulness-wing/) issue C1
+- **Original score**: not scored (targeted contradiction fix, not `curate.py review`)
+- **The defect**: L116 read "the Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as *the* mechanism". Three contradictions verified at source: P-Q4 is titled "Stapp's quantum Zeno mechanism is currently **demoted** relative to post-decoherence selection"; P-Q1 is titled "Post-decoherence selection is the strongest current mechanism candidate"; and the same file's L149 says "the post-decoherence outcome selection the Map endorses". One article named two different Map mechanisms thirty-three lines apart.
+- **The fix is a re-ranking, not a deletion.** The content worth keeping — that the Map, unlike Chalmers, names a concrete mental variable instead of leaving the mechanism abstract — survives verbatim in substance. What went is the definite article. L116 now reads: attention is named as the mental variable, then the Map "ranks candidate physical mechanisms rather than adopting one — post-decoherence selection first, with Stapp's quantum Zeno maintenance among the co-preferred fallbacks below it", pointing at [the preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) rather than restating a ranking inline. "Co-preferred fallbacks" is the ordering's own wording at L161; the P-Q4 heading was left unquoted to protect the length budget, as briefed.
+- **Propagation origin fixed too**, per fix-by-file-leaves-string-siblings-live: the research note's L146 carried the identical sentence un-wikilinked and would have re-seeded the article. Rewritten in the same re-ranking form, citing P-Q1/P-Q4 and the ordering by title (the note has no body wikilinks; kept that way to avoid a bare-slug push-blocker).
+- **Length paid for inside the same section.** `analyze_length` before: **3498** against soft 2500 / hard 3500 — two words of headroom. The re-ranking costs +10 words, so the Bandwidth Constraints bullet in the same "Where the Map Diverges" section was trimmed of its restated evolutionary-logic gloss (−14), which duplicates the Minimality and Bandwidth-limits bullets thirty lines below. After: **3494** — net shortening, no `condense` task minted (refine-then-condense-same-session-churn).
+- **Both trees verified.** `scripts/sync.py` run; `grep -rnE "following (\[\[)?[Ss]tapp\)? specifies|Zeno maintenance as the mechanism"` over `obsidian/`, `hugo/content/` and `archive/` now returns hits only in `workflow/` task-and-changelog records and in the flagging review itself — echoes, not live claim surfaces. Hugo mirrors carry the new text; the crosslink resolves to `/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering` and the anchor exists at that file's L157. `validate.py hugo/content/` reports 0 errors.
+- **Out of scope, deliberately untouched**: the open P3 on `topics/psychophysical-laws-bridging-mind-and-matter.md` (Family V / `prefers [A-Za-z ]{0,12}Stapp`) — same defect family, different file and string, correctly queued and re-verified 2026-08-19. Also left alone: this article's L167/L193 "most developed mechanism/account" claims about Stapp, which are claims about *development*, not about Map adoption, and are consistent with P-Q4's tenet-fit demotion; and `topics/graduated-middle-path-valence-modulated-attention` L44, where "following Stapp" attributes the Zeno effect rather than promoting it.
+- **Published**: yes
 
 ## 2026-08-25T01:11:44+00:00 - refine-draft
 
