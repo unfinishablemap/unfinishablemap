@@ -92,24 +92,44 @@ If `modelText` is not "PRO", bail — the default model has changed and we shoul
 
 ## Step 3: Enable Deep Research
 
-Click the `Tools` button (text "Tools", near the prompt textarea). A menu opens.
+Click the tools control to the left of the prompt textarea. As of 2026-08 this is a bare **"+" icon** with `aria-label="Upload & tools"` — there is no longer a button whose text reads "Tools", so match on the aria-label, not on visible text. Clicking it opens a menu.
 
-Inside the menu, click `[role="menuitemcheckbox"]` text "Deep research" — `aria-checked="false"` by default. **Click to enable.** The menu auto-closes.
+Confirm the menu actually opened before trying to click inside it — enumerate `[role="menuitemcheckbox"],[role="menuitem"]` and expect entries like Upload files / Add from Drive / Create image / Canvas / **Deep research** / Guided learning. An empty list means the click missed; re-click and re-poll rather than proceeding.
+
+Inside the menu, click `[role="menuitemcheckbox"]` text "Deep research" — `aria-checked="false"` by default. **Click to enable.** The menu auto-closes. Click it by scaled coordinates (see Step 4) — the menu sits low in the viewport and its rect often lands below the screenshot's visible height if the scale factor is not applied.
 
 Verify:
 
 ```javascript
 JSON.stringify({
   deepResearchActive: !!Array.from(document.querySelectorAll('button')).find(b => /deselect deep research/i.test(b.getAttribute('aria-label') || '')),
-  modelStillPro: Array.from(document.querySelectorAll('button')).some(b => (b.textContent || '').trim() === 'PRO')
+  modelStillPro: Array.from(document.querySelectorAll('button')).some(b => /^pro$/i.test((b.textContent || '').trim()))
 })
 ```
 
 Both must be `true`. If either fails, **bail before submitting** — screenshot + DOM dump.
 
+**Match the model label case-insensitively.** As of 2026-08 the button reads `Pro`, not `PRO`; the old `=== 'PRO'` equality would bail a perfectly healthy run. Step 2's check is already case-insensitive — keep the two consistent.
+
 ## Step 4: Type the prompt and submit
 
-Click the composer (textbox with placeholder "Enter a prompt for Gemini") via the `find` tool. Type the prompt with `computer` action `type`. Press Return via `computer` action `key` with `text: "Return"`.
+Click the composer (placeholder text drifts — "Enter a prompt for Gemini", and "What do you want to research?" once Deep Research is on). Locate it with `document.querySelector('rich-textarea [contenteditable="true"]')` rather than by placeholder. Type the prompt with `computer` action `type`.
+
+**Verify before submitting**: re-read the editor's `innerText` and confirm its length, that the article URL and the changelog URL both survived, and that `deepResearchActive` / `modelStillPro` are still true. Typing is where a silent truncation would show.
+
+**Submit by clicking the send button, not Return.** As of 2026-08 a `Return` keypress does not submit this composer — the text simply stays put. Click the button whose `aria-label` is `Send message`. Confirm submission by the editor going empty and a `/app/<id>` URL appearing; both may lag several seconds behind the click.
+
+### Converting page coordinates to click coordinates
+
+`computer` clicks use screenshot pixels, and the screenshot is scaled down from the viewport (e.g. 1246px wide for an 1873px viewport). Compute the factor once and apply it to every `getBoundingClientRect()` result:
+
+```javascript
+const s = 1246 / window.innerWidth;  // screenshot width / viewport width
+const r = el.getBoundingClientRect();
+({ sx: Math.round((r.left + r.width/2) * s), sy: Math.round((r.top + r.height/2) * s) })
+```
+
+A rect of all zeros with `offsetParent === null` means the element is mid-animation, not missing — re-poll for a few seconds before treating it as absent.
 
 ## Step 5: Capture the conversation URL
 
@@ -149,22 +169,36 @@ Wait 4s, then:
     // Gemini's explicit research-started confirmation. This message is
     // posted by Gemini *only* after Deep Research has actually launched.
     // The wording has drifted across UI versions — both
-    // "I'll let you know when your research is done" (older) and
-    // "I'll let you know as soon as I'm done" (2026-05 wording) appear, so
-    // match the stable "I'll let you know (when|as soon as)" stem.
-    researchStartedConfirm: /I'?ll let you know (when|as soon as)\b/i.test(text),
+    // "I'll let you know when your research is done" (older),
+    // "I'll let you know as soon as I'm done" (2026-05 wording), and
+    // "OK, starting now. As soon as your report is ready, I'll let you
+    // know." (2026-08 wording) all appear. Only "I'll let you know" is
+    // stable across all three — the trailing "(when|as soon as)" clause
+    // moved AHEAD of the stem in the 2026-08 wording, so requiring it
+    // false-bailed a healthy commission on 2026-08-25. Match the bare
+    // stem, and allow a curly apostrophe (U+2019) as well as ASCII.
+    researchStartedConfirm: /I[’']?ll let you know\b/i.test(text),
+    // Secondary confirmation that shipped with the 2026-08 wording.
+    startingNow: /\bstarting now\b/i.test(text),
     // Belt-and-braces: the "while I'm researching" / "starting research"
     // status text that appears alongside the confirmation message.
     startingResearchText: /\bstarting research\b|while I'?m researching/i.test(text),
-    // Plan-stage tell: if the Start-research button is still the primary
-    // call-to-action (i.e., the click didn't land), this is true.
-    startResearchBtnStillPresent: !!Array.from(document.querySelectorAll('button')).find(b => /start research/i.test((b.getAttribute('aria-label') || '') + (b.innerText || ''))),
+    // Plan-stage tell, ADVISORY ONLY — do NOT bail on this alone. After a
+    // successful start the spent plan card stays in the scrollback with its
+    // (now inert) Start-research button, so this reads true on healthy runs
+    // too (observed 2026-08-25). Visibility-filtered to cut the worst of it,
+    // but `researchStartedConfirm` is the signal that decides.
+    startResearchBtnStillPresent: !!Array.from(document.querySelectorAll('button')).find(b => /start research/i.test((b.getAttribute('aria-label') || '') + (b.innerText || '')) && b.getBoundingClientRect().width > 0 && b.offsetParent !== null),
     bodyTextLen: text.length
   });
 })()
 ```
 
-**Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts an "I'll let you know …" line, e.g. "I'll let you know as soon as I'm done", only after Deep Research has actually launched).
+**Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts an "I'll let you know …" line, e.g. "OK, starting now. As soon as your report is ready, I'll let you know.", only after Deep Research has actually launched). `startResearchBtnStillPresent` may also be true on a healthy run; ignore it when the gold signal is present.
+
+**Read the text from the largest container, not blindly from `document.body`.** During the post-click re-render `document.body.innerText` transiently collapses to ~200 chars, so a check run too early sees an empty transcript and reads false on every marker. If `bodyTextLen` is implausibly small (< 1000), wait and re-poll rather than bailing.
+
+**Poll in chunks under 45s.** The Chrome MCP `Runtime.evaluate` bridge times out at 45s, so an in-page `for` loop that sleeps for a minute fails outright instead of returning. Keep each `javascript_tool` call to ~30s of waiting and re-issue.
 
 **Not ready** if `researchStartedConfirm: false`. In that case the click did not land OR Gemini bounced the click back to the plan stage. Bail without writing a pending entry — a stuck plan-stage entry would keep consuming collect attempts indefinitely without yielding a report.
 
@@ -220,12 +254,13 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: gemini commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to accounts.google.com | Emit `LOGIN_REQUIRED: gemini session expired` and stop. |
 | Tools menu missing Deep research | menu doesn't contain it | Bail; screenshot + DOM dump. |
-| Model not PRO | model selector text isn't "PRO" | Bail. |
-| Submission silent failure | no `/app/<id>` URL after 15s | Bail; no pending entry. |
+| Model not Pro | model selector text isn't "Pro" (match case-insensitively) | Bail. |
+| Return doesn't submit | editor still holds the prompt after Return | Not a failure — click the `Send message` button instead (2026-08 behaviour). |
+| Submission silent failure | no `/app/<id>` URL after 15s *and* the editor still holds the prompt | Bail; no pending entry. |
 | "Start research" never appears | not visible after 60s | Bail; no pending entry. |
 | Click on "Start research" doesn't take | `researchStartedConfirm: false` after click + 4s wait | Bail; no pending entry. |
 
-**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted its "I'll let you know …" launch confirmation (match the `I'?ll let you know (when|as soon as)` stem; the exact wording drifts across UI versions). The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
+**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted its "I'll let you know …" launch confirmation (match the bare `I[’']?ll let you know` stem; the exact wording drifts across UI versions and the trailing clause has moved ahead of the stem, so do not require it). The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
 
 ## Important
 

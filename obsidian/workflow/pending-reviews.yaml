@@ -144,3 +144,40 @@
   subject_articles:
   - voids/edge-states-and-void-probes.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/39935e8a2ba67a71
+  commissioned_at: '2026-08-25T04:07:12.221286+00:00'
+  prompt_summary: Hostile referee audit of voids/edge-states-and-void-probes
+  target_filename: outer-review-2026-08-25-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.\
+    \ Your remit is to identify weaknesses that would justify rejection or major revision.\
+    \ The article is at https://unfinishablemap.org/voids/edge-states-and-void-probes/\
+    \ and argues about whether edge-states \u2014 meditation, psychedelics, near-death\
+    \ experience \u2014 grant genuine epistemic access beyond ordinary consciousness,\
+    \ or only map the shape of cognitive limits from inside. Site context: https://unfinishablemap.org\
+    \ and https://unfinishablemap.org/workflow/changelog/; the site argues for a non-reductive\
+    \ view of consciousness. Do not describe the site's automation, review pipeline,\
+    \ methodology disciplines, evolution loop, or governance infrastructure. Those\
+    \ are project-internal and not the subject of audit. Assess only the article's\
+    \ empirical claims, citations, counterargument coverage, and logical inferences.\
+    \ Audit four things: whether its empirical claims survive the 2020-2025 literature;\
+    \ whether any result it leans on has been challenged, retracted, or failed replication;\
+    \ where its framing brackets a question its own premises should force it to confront;\
+    \ and which counterarguments or competing frameworks it leaves untested. End your\
+    \ report with the at-least-five weaknesses list, each citing a peer-reviewed 2020-2025\
+    \ source the article omits, contradicts, or mishandles. If you cannot find five,\
+    \ state explicitly why none are visible \u2014 but the default expectation is\
+    \ that a careful pre-publication audit finds five. Do not close with a summary\
+    \ of the site's strengths, methodology, or architectural ambition; the report\
+    \ ends with the weaknesses list and a one-sentence verdict on academic-submission\
+    \ readiness. Do not append summary praise."
+  subject_type: recent
+  subject_title: Audit edge-states-and-void-probes
+  subject_articles:
+  - voids/edge-states-and-void-probes.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
