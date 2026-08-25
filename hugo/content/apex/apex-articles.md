@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-08-24 17:51:32+00:00
+ai_modified: 2026-08-25 01:11:44+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-08-24 17:51:32+00:00
+lastmod: 2026-08-25 01:11:44+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -823,7 +823,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: What the rejection of many-worlds actually claims, what carries it, what it costs, and where its boundary lies
 
-**Thesis**: The Map's rejection of many-worlds is a constitutional wager, honestly costed: three independent arguments — indexical, probability, consciousness — are decisive against branch-egalitarian Everettianism but only supplementary against first-personally centred variants, where a separate rejection of modal realism bears the weight; the tenet's demand is global single-outcome actuality, which collapse supplies but does not monopolise; and the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
+**Thesis**: The Map's rejection of many-worlds is a constitutional wager, honestly costed: three arguments — indexical, probability, consciousness — bear against branch-egalitarian Everettianism, but their reach against first-personally centred variants differs argument by argument, the indexical one dropping to supplementary and the other two finding no target, so a separate rejection of modal realism bears the weight there; the tenet's demand is a conjunction of outcome-uniqueness and world-uniqueness, the first of which collapse supplies without monopolising; and the commitment is paid for with a symmetric explanatory debt the Map names rather than hides.
 
 **Source articles**:
 - arguments/many-worlds-argument

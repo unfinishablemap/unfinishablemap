@@ -2,9 +2,9 @@
 title: "Positions"
 description: "The Map's explicit, maintained register of positions it currently holds — claims with status, confidence, dependencies, and conditions that would shift them."
 created: 2026-06-04
-modified: 2026-08-24
+modified: 2026-08-25
 human_modified: 2026-06-04
-ai_modified: 2026-08-24T11:26:00+00:00
+ai_modified: 2026-08-25T01:11:44+00:00
 draft: false
 topics: []
 concepts:
@@ -73,7 +73,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[voids-as-evidence|Voids as evidence]] — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
 - [[value-in-selection|Value in selection]] — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, the collated battery of evidence that would move the fork in either direction, and the upstream premise both entries rest on (intrinsic value resides in phenomenal experience)
 - [[moral-status|Moral status]] — who can be wronged: the phenomenal-sentientism criterion (valenced experience necessary and sufficient for moral status, read phenomenally rather than functionally), registered downstream of the value domain's premise about what bears intrinsic value and kept distinct from it — biocentrism named as the live rival on the necessity direction, status threshold not scalar
-- [[individuation-and-subjecthood|Individuation and subjecthood]] — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, the indivisibility of a perspective under fission and duplication, and the variant-relative reach of the anti-many-worlds case — strongest against branch-egalitarian Everettianism, supplementary against first-personally centred variants
+- [[individuation-and-subjecthood|Individuation and subjecthood]] — how subjects are individuated: the closed-individualist commitment (subject boundaries are real, over empty and open individualism), the conditional standing this gives Tenet 4's indexical objection, boundaries held determinate but unreadable off physical structure, the indivisibility of a perspective under fission and duplication, and the variant-relative reach of the anti-many-worlds case — three arguments against branch-egalitarian Everettianism, only the indexical one engaging first-personally centred variants and then only supplementarily
 - [[subject-census|Subject census]] — the same subject matter carrying the *quantum-interface* dependency: why subject count and pairing become part of the interface's physical state description once conscious-state conditionals do causal work, the pairing law the Map owes and does not have (multi-agent composition and artificial-subject eligibility are its instances), and the undated onset and cessation of the channel
 - [[consciousness-scope|Consciousness scope]] — where consciousness reaches in biological subjects: the substrate-permissive *minimal-dualism spine* (animal/infant phenomenality on bare Tenet 1, no quantum apparatus), animal consciousness graded by marker convergence, early infant emergence, and the fragmentation cases (split-brain, anaesthesia, sleep, dreaming) read as interface disruption rather than division of consciousness
 - [[ai-consciousness-scope|AI consciousness scope]] — consciousness in artificial systems, split out for its heavier and *heterogeneous* dependency burden: current digital AI on the low-probability side of the substrate analysis (inherits the quantum-interface register), quantum-state inheritance as constrained-not-licensed by no-cloning, conscious copies as morally additive under closed individualism, and the workspace-like global-availability signatures of functional *access* consciousness observed in LLMs (Anthropic's J-space) while the *phenomenal* question stays untouched
