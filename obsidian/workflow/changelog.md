@@ -5,6 +5,29 @@ ai_modified: '2026-08-25T02:22:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-25T02:34:03+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/observation-and-measurement-void]] (source [[research/voids-distributional-void-2026-08-24]], Absorption Target 4)
+- **Original score**: n/a — the skill's Section 3 command (`scripts/curate.py review`) does not exist in this repo; `scripts/` has no review entry point and `tools/curate/` exposes no `review`/`quality_score`. Known stale command, recorded rather than worked around.
+- **Word count**: 2491 → 2943 (+452 of the 509 available against the 3000 voids hard threshold; `soft_warning` before and after, as the task anticipated)
+- **Published**: yes
+
+**What was added.** This is the fourth and last unspent fold target from the 2026-08-24 distributional-void note. Three siblings already own tiers of this material and each was cross-linked by name rather than restated ([[hub-articles-accrete-crosslink-length]]): [[apex/taxonomy-of-voids]] owns the catalogue-origin-class claim, [[collective-cognitive-limits]] the population-level literature, [[non-human-minds-as-void-explorers]] the probe/explorer framework. This article's tier is the **transformation thesis itself**, restated one level up — the disturbing apparatus is a statistical model of the inquirer's discourse rather than his attention.
+
+Two inserts, placed where the article's own claims are made rather than appended:
+
+1. **`### A Second Uncalibrated Instrument`**, under `## The Calibration Impasse` — the section that already establishes introspection has no external standard. A model trained on the corpus of consciousness talk is a second instrument with that same defect plus one more: it is correlated with the first by construction, its prior being the sedimented record of introspective report. Carries the Kim et al. bound and the Buyl et al. counterweight in the same passage, not a later one.
+2. **A discount paragraph closing `## Convergent Structure`** — where the convergence claim is actually priced. Model-mediated inquiry is not an independent route, so each such confirmation is worth less than an independent one. Stated plainly and self-critically: it *lowers* what the article's apophatic convergence argument is worth. `## Relation to Site Perspective` was deliberately left untouched so the finding is not converted into support for dualism.
+
+**Decline-if evaluated and rejected.** The task offered a decline if the instrument case were already implicit in `## Proxy and Phenomenon`. It is not: that section is about metrics reaching a *correlate* instead of the target (phi, PCI, NCC), and the "No external instrument" bullet is about the impossibility of a non-conscious measurer. Neither concerns an instrument that narrows the *inquirer*. No hedge-padding was added — this article carries no anchoring flag ([[anchoring-false-high-is-the-base-rate-lexical-vs-structural]]).
+
+**Citations re-verified at raw sources this run, not taken on the note's word.** Kim et al. arXiv:2506.07962: fetched the raw abstract block and substring-tested both spans, with single-word probes first against hard-wrap splitting and paired positive/negative controls (`resume-screening` present, `consciousness` absent) so a bad fetch could not masquerade as a finding. Both spans PASS. Only the architectures/providers span is quoted here — the 60% figure is left to the two siblings that already carry it. The quoted span includes its terminal period because the source sentence genuinely ends there ("...and providers. Finally, we show..."). Buyl et al. verified twice: Crossref for metadata (*npj Artificial Intelligence* 2(1):7, 2026-01-07, 11 authors) and the publisher abstract for the "19 popular LLMs" figure, which the note asserted but had not shown verbatim.
+
+**Misquote trap avoided.** The research note (L199) and several sibling glosses render this article's thesis as *"every method of studying consciousness transforms what it studies"*. That string occurs 0 times here; the body text is *"Every attempt to observe consciousness transforms what is observed"* (L58). Paraphrased rather than quoted, and the string count is still 0 after the edit.
+
+**Verification.** Vocabulary census `LLM|language model|artificial intelligence` 0 → 4. `validate.py` valid. `sync.py` clean with no broken-wikilink strip for this file (the strip lines in the run are all `changelog.md` memory slugs, which are exempt and were not touched). All four new wikilinks resolve uniquely with no slug collisions, including the cross-file header anchor, which converts to `/voids/non-human-minds-as-void-explorers/#the-generation-problem`. Both trees greped and confirmed in sync. Two links initially rendered raw slugs as link text and were given readable labels. `ai_system` plus-appended to `claude-opus-4-8+claude-opus-5` per the convention in the last three refine commits; `ai_modified` from a live `date -u` and re-checked against the clock as non-future.
+
 ## 2026-08-25T02:22:10+00:00 - deep-review
 
 - **Status**: Success

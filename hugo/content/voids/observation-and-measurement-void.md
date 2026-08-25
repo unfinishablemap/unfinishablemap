@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-26 15:16:51+00:00
+ai_modified: 2026-08-25 02:34:03+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 15:16:51+00:00
-lastmod: 2026-06-26 15:16:51+00:00
+lastmod: 2026-08-25 02:34:03+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,6 +48,10 @@ related_articles:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[self-reference-paradox]]'
 - '[[witnessing-void]]'
+- '[[collective-cognitive-limits]]'
+- '[[non-human-minds-as-void-explorers]]'
+- '[[apex/taxonomy-of-voids]]'
+- '[[research/voids-distributional-void-2026-08-24]]'
 title: The Observation and Measurement Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,6 +101,14 @@ Michel (2021) distinguishes the two routes available: concordance calibration (c
 
 Alston's work on epistemic circularity reveals this as the weak form of the [self-reference-paradox](/concepts/self-reference-paradox/): no basic cognitive faculty can validate itself without relying on premises from the source being validated. But Alston argued the circularity is "benign" for perception because perception is publicly accessible—multiple observers can triangulate on the same object. This defence does not extend to introspection, where the instrument is both the only detector and the only standard.
 
+### A Second Uncalibrated Instrument
+
+Brentano's problem admits a restatement one level up, where the apparatus doing the disturbing is not the inquirer's attention but a statistical model of the discourse he is inquiring within. Consciousness studies is increasingly conducted through language models—this article among them—and such a model is a second instrument carrying introspection's defect plus one more.
+
+The shared defect is the absence of an external standard: a model's output concentrates toward the centre of its training distribution, and for consciousness that centre is a popularity prior over what has already been written about experience, with no warrant that the well-represented positions are the correct ones. The added defect is correlation. The model's prior is the sedimented record of human introspective report, so where model and introspector agree, part of what agrees is the corpus with itself.
+
+That correlation is measurable, which is rare here. Kim, Garg, Peng and Garg (2025) evaluated over 350 language models and found that "larger and more accurate models have highly correlated errors, even with distinct architectures and providers." Consulting several models is therefore not the remedy a count of models suggests, and buys less independence as capability rises. Buyl et al. (2026) supply the counterweight in the same breath: across 19 models, ideological position varied systematically by region of origin, so the distribution has a location rather than a single point, and probe diversity is over-priced rather than worthless.
+
 ## Proxy and Phenomenon
 
 Every proposed metric of consciousness measures a correlate rather than consciousness itself. The gap between proxy and phenomenon is categorical, not technical.
@@ -118,6 +130,8 @@ The void operates through independent layers, each blocking investigation throug
 **Interpersonal layer.** There is no shared phenomenal space in which two experiences can be held alongside each other for comparison.
 
 These five routes to investigation all fail for different reasons yet converge on the same impasse—the [self-reference-paradox](/concepts/self-reference-paradox/), in which examining the apparatus requires using it. The [dissolution problem](/voids/meta-epistemology-of-limits/#historical-evidence-dissolution-and-asymmetry) challenges any confident claim of permanent impossibility, but this void exhibits the signatures that distinguish persistent limits from dissolved ones: recurrence across cultures and centuries, irreducible self-reference, stable philosophical positions rather than progressive narrowing, and convergence across independent traditions.
+
+That convergence now carries a discount. The routes count as independent because they fail through different mechanisms, but increasingly they are traversed through the same instrument: where the philosophical argument, the neuroscientific review, and the survey of contemplative reports are each drafted with model assistance, they share a prior however much their mechanisms differ, and their agreement is to that extent the corpus agreeing with itself. This does not dissolve the convergence—Brentano, James, Husserl and the contemplative traditions reached it well before the instrument existed—but each model-mediated confirmation is worth less than an independent one, and this void's evidential claim should be priced accordingly. The general case is worked through in [the distributional-void research note](/research/voids-distributional-void-2026-08-24/); [the taxonomy of voids](/apex/taxonomy-of-voids/) registers what it costs the catalogue's origin-class scheme, [collective cognitive limits](/voids/collective-cognitive-limits/) the population-level narrowing behind it, and [non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/#the-generation-problem) its consequences for treating artificial minds as probes.
 
 ## The Quantum Parallel
 
@@ -165,17 +179,20 @@ The [constitutive-exclusion](/topics/constitutive-exclusion/) develops a further
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) — The formal triad that physical measurement requires and consciousness lacks
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The general structural feature: examining an apparatus requires using it, with weak and strong forms
 - [witnessing-void](/voids/witnessing-void/) — Witnessing cannot make itself an object: the constitutive centre to this methodological perimeter
+- [The Distributional Void](/research/voids-distributional-void-2026-08-24/) — Research notes on model-mediated narrowing, and why auditor agreement is over-priced
 
 ## References
 
 1. Aaronson, S. (2014). "Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)." *Shtetl-Optimized* (blog).
 1. Alston, W. P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1–30.
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
+1. Buyl, M. et al. (2026). "Large Language Models Reflect the Ideology of Their Creators." *npj Artificial Intelligence*, 2(1), 7.
 1. Casali, A. G. et al. (2013). "A Theoretically Based Index of Consciousness Independent of Sensory Processing and Behavior." *Science Translational Medicine*, 5(198), 198ra105.
 1. Cerullo, M. (2015). "The Problem with Phi: A Critique of Integrated Information Theory." *PLOS Computational Biology*, 11(9), e1004286.
 1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
 1. Irvine, E. (2012). "Old Problems with New Measures in the Science of Consciousness." *British Journal for the Philosophy of Science*, 63(3), 627–648.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kim, E., Garg, A., Peng, K., & Garg, N. (2025). "Correlated Errors in Large Language Models." *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*. arXiv:2506.07962.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 1. McKilliam, A. (2025). "Detecting Introspective Errors in Consciousness Science." *Ergo*, 12(11).
 1. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.
