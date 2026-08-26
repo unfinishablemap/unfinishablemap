@@ -4,7 +4,7 @@ description: "Acting against one's own better judgement: Socrates' denial, Arist
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T13:30:36+00:00
+ai_modified: 2026-08-26T18:19:24.996808+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs motor-selection: expository/descriptive article (not a contested Map-claim), so strong-assertion + hedge-density checks misfire; refining would distort the exposition
 topics:
@@ -23,6 +23,11 @@ ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-09T13:40:59+00:00
+embedded_videos:
+  - id: 4kT4B5TVDH4
+    url: https://www.youtube-nocookie.com/embed/4kT4B5TVDH4
+    embedded: 2026-08-26T18:19:24.996808+00:00
+    source: notebooklm/0116-01-akrasia-and-weakness-of-will
 ---
 
 Akrasia (Greek for "lack of self-control," usually translated *weakness of will*) names the phenomenon of acting intentionally against one's own better judgement about what is best to do. You judge that you should stop at one drink, and reach for a second; you resolve to write, and open a browser tab instead. The philosophical interest is not the misbehaviour but the apparent contradiction: how can an agent freely and knowingly do what, by their own lights, they judge worse? Four positions structure the debate, and this article front-loads them for readers who may not reach the end:
@@ -33,6 +38,12 @@ Akrasia (Greek for "lack of self-control," usually translated *weakness of will*
 - **Holtonian reconception** (*Willing, Wanting, Waiting*): weakness of will is not acting against best judgement at all but the over-ready abandonment of a prior resolution under temptation.
 
 This is shared-ground philosophy of action and moral psychology, engaged on common descriptive terms by physicalists, functionalists, and dualists alike. Nothing in the phenomenon requires or establishes any metaphysics of mind. The Map offers a **selection-model reading** of the first-person datum "I chose X while judging Y better" as *one interpretive lens* on the structure of the will—explicitly framework-relative and explicitly not a proof of dualism. That reading is deferred to the [Relation to Site Perspective](#relation-to-site-perspective) section below; the exposition that precedes it stays with what each philosopher actually claims.
+
+<details class="yt-embed" data-video-id="4kT4B5TVDH4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/4kT4B5TVDH4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Socratic Denial: There Is No Datum
 
