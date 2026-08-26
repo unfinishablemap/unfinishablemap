@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-08-17 01:45:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-08-26 23:52:46+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[consciousness-physics-interface-formalism]]'
@@ -12,16 +12,17 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
 - '[[evidential-status-discipline]]'
+- '[[generalised-probabilistic-theories]]'
 created: 2026-05-14
 date: &id001 2026-05-15
 description: Torres Alegre's no-signalling result fixes the Born rule's form for any
-  interface theory; the Map treats this as a derivational corridor not a metaphysical
+  interface theory; the Map reads it as a derivational corridor, not a metaphysical
   proof.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-14 16:48:00+00:00
-lastmod: 2026-08-17 01:45:00+00:00
+last_deep_review: 2026-08-26 23:52:46+00:00
+lastmod: 2026-08-26 23:52:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +31,7 @@ related_articles:
 - '[[completeness-in-physics-under-dualism]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[delegatory-causation]]'
+- '[[sorkin-higher-order-interference]]'
 title: Causal Consistency Constraint
 topics:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -50,7 +52,7 @@ The theorem assumes two structural conditions on the GPT:
 - *Purification*: every mixed state arises as a marginal of a pure state on a larger system, unique up to reversible channels on the purifying system. This is the formal expression of the idea that classical-looking mixtures always have a quantum-mechanical "context" that purifies them.
 - *No-signalling*: measurements on one part of an entangled system cannot transmit information to a distant part faster than the speed of light. This is the relativistic causality constraint quantum mechanics is already known to satisfy.
 
-Under these assumptions, the only functional relationship between the geometric inner product of two states and their predictive probability of yielding the same measurement outcome is the identity. In the standard Hilbert-space formulation, this gives |⟨φ|ψ⟩|² — the Born rule — as the *unique* causally consistent probability assignment. The mechanism enforcing the rule, in Torres Alegre's reading, is *steering*: any nonlinear deviation would let a remote experimenter signal a distant entangled partner by adjusting which measurement they perform, violating no-signalling.
+Under these assumptions, the only functional relationship between the geometric transition probability of two states — the largest probability any effect that accepts one state with certainty assigns to the other, which in quantum theory is the squared inner product |⟨φ|ψ⟩|² — and their predictive probability of yielding the same measurement outcome is the identity. Combined with the standard reconstruction results that fix the Hilbert-space form, this gives |⟨φ|ψ⟩|² — the Born rule — as the *unique* causally consistent probability assignment. The mechanism enforcing the rule, in Torres Alegre's reading, is *steering*: any nonlinear deviation would let a remote experimenter signal a distant entangled partner by adjusting which measurement they perform, violating no-signalling.
 
 The result joins a longer sequence of structural reconstructions — Gleason (1957), Deutsch (1999), Wallace (2003, 2012), Zurek (2005, envariance), Masanes-Galley-Müller (2019), Agrawal-Wilson (2025), Torres Alegre (2025) — each of which derives the Born rule from some combination of geometric, decision-theoretic, symmetric, or causal axioms. None explains the existence of definite outcomes; each presupposes some piece of the measurement-and-probability framework. Torres Alegre's specific contribution is to identify *relativistic causality itself* as the selecting principle.
 
@@ -58,7 +60,7 @@ Torres Alegre's paper does not itself invoke consciousness. The result is stated
 
 ## Form, Not Existence
 
-The constraint determines the Born rule's functional form, given that probabilistic predictions exist. It does not generate probabilities from non-probabilistic premises. This distinction is load-bearing for the Map's reading.
+The constraint determines the Born rule's functional form, given that probabilistic predictions exist. It does not generate probabilities from non-probabilistic premises. The Map's reading depends on this distinction.
 
 What the constraint accomplishes: it shows that any agent — physical or non-physical — that participates in measurement outcomes must, on pain of enabling superluminal signalling, deliver outcome statistics that converge to |⟨φ|ψ⟩|² in the limit. The Born rule is what relativistic causality *requires* of any participant in the actualisation event.
 
@@ -103,6 +105,7 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 ## Further Reading
 
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
@@ -113,6 +116,7 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 - [interface-specification-programme](/apex/interface-specification-programme/)
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
 - [evidential-status-discipline](/project/evidential-status-discipline/)
+- [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
 
 ## References
 
@@ -123,7 +127,7 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 5. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society A*, 455(1988), 3129–3137.
 6. Wallace, D. (2003). Everettian Rationality: Defending Deutsch's Approach to Probability in the Everett Interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415–439.
 7. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
-8. Zurek, W. H. (2005). Probabilities from Entanglement, Born's Rule from Envariance. *Physical Review A*, 71(5), 052105.
+8. Zurek, W. H. (2005). Probabilities from Entanglement, Born's Rule p_k = |ψ_k|² from Envariance. *Physical Review A*, 71(5), 052105.
 9. Arana, A. (2025). "Time-Extended Consciousness-Weighted Quantum Probabilities." PhilArchive. https://philarchive.org/rec/ARATCQ-2
 10. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 11. Southgate, A. & Oquatre-sept, C. (2026-03-15). Born Rule and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/

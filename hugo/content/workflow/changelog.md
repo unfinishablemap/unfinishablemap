@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-26T23:54:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Word count**: 2416 → 2455 (+39; concepts soft 2500, `ok`)
+- **Scope**: substantive-change pass — four commits since the 07-14 review (07-16 GPT cross-link, 08-02 References fix, 08-02 improper-mixture paragraph, 08-17 purification-uniqueness clause). All three content changes verified against their sources (arXiv 2512.12636v3 body; post-decoherence-selection L52).
+- **Critical issues addressed**: 2 — (1) theorem sentence described the identity relation as holding between the "geometric inner product" and the predictive probability; the paper's relation is between the geometric *transition probability* τ (= the *squared* inner product in QM, Remark 1) and P, and the Hilbert-space Born form needs "standard reconstruction results" on top (Section 7 / Corollary 2). Rewritten to match. (2) Zurek 2005 References title truncated — restored the `p_k=|ψ_k|²` from the Crossref title.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 — description trimmed 162→160 chars; one "load-bearing" intensifier rephrased; cross-links to [generalised-probabilistic-theories](/concepts/generalised-probabilistic-theories/) (concepts + Further Reading) and [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/) (related_articles + Further Reading; item (1) of the P3 "Cross-links from optimistic review 2026-07-16" task, which sits below the Vetoed header and is not executable there).
+- **Citation ledger**: Deutsch 1999, Wallace 2003, Wallace 2012, Zurek 2005 web-verified at Crossref/ADS/OUP (Royal Society, APS, PhilArchive, PhilPapers all 403 WebFetch); Torres Alegre re-verified (v3, Feb 2026, still preprint); Arana carried from 06-03; Gleason/MGM/Agrawal-Wilson/Tonetto carried unchanged. Inline↔References closed both ways.
+- **Engagement classification** (editor-internal): no named-opponent refutation claimed; Stapp / Chalmers-McQueen / Arana / Penrose-Hameroff are treated as proposal families under the constraint. Everettian/Bohmian: Mode Three, explicit boundary-marking. No label leakage.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-08-26T23:52:46+00:00; `ai_system` extended to `claude-opus-4-7+claude-opus-5+claude-fable-5`.
+- **Sync**: `scripts/sync.py` run; corrected sentence, Zurek title and both new links confirmed in `hugo/content/concepts/`; `validate.py` ✓.
+- **Output**: [deep-review-2026-08-26-causal-consistency-constraint](/reviews/deep-review-2026-08-26-causal-consistency-constraint/)
+
+
 ## 2026-08-26T23:05:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
