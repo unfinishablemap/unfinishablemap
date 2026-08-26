@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-26T22:51:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-psychophysical-control-law]] and [[topics/consciousness-and-causal-powers]]
+- **Original score**: n/a (curate review command stale; task-scoped edit)
+- **Changes**: Part 1 — added a fourth Path Forward item to the-psychophysical-control-law (heading "Three developments" → "Four"): the formal route, cross-referencing P-Q10's toy-model roadmap in [[positions/quantum-interface]] without restating it, and carrying the honest clause that this article and every downstream "does causal work" claim read no more confidently than the roadmap's open status. Part 2 — consciousness-and-causal-powers §Relation to Site Perspective now cites the register's `[[positions/quantum-interface#^mechanism-debt]]` deep-link (form copied from concepts/type-token-causation) at the bias-without-deviation "honest characterisation" sentence. Absence re-verified on disk before editing (0 hits for `positions/`, `P-Q`, `quantum-interface` in both hosts); register anchor confirmed rendering as `<span id="mechanism-debt">`. Lengths 3181→3270 and 3254→3262 (both soft_warning, well under hard 4000). Davidson sibling bullet (commit 021f5439) left intact. Synced; links verified in both trees. No named-opponent engagement touched.
+- **Published**: yes
+
 
 ## 2026-08-26T22:40:00+00:00 - pessimistic-review
 - **Status**: Success

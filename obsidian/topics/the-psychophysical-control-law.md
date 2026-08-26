@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-08-26T22:05:50+00:00
+ai_modified: 2026-08-26T22:51:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,13 +148,15 @@ A psychophysical control law, even schematic, would:
 
 ## The Path Forward
 
-Three developments could advance psychophysical control law specification:
+Four developments could advance psychophysical control law specification:
 
 **Bandwidth measurement.** Zheng and Meister's ~10 bits/second finding constrains the control channel's capacity. More precise measurements—varying by task type, attention mode, and cognitive load—would constrain the control law's form. If the bandwidth is strictly constant across conditions, a proportional law is unlikely; if it varies systematically, the variation pattern constrains the mapping function.
 
 **Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Khan et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. Posner molecule research remains entirely theoretical, with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
 
 **Neurophenomenology.** First-person reports of effort, attention, and intention—calibrated against neural measurements—could constrain the phenomenal side. Francisco Varela's neurophenomenological programme sought exactly this integration. Advances in real-time brain imaging correlated with trained introspective reports might yield the phenomenal metrics a control law requires.
+
+**A worked toy model.** The three routes above are empirical; the formal route is already specified. Position P-Q10 in the [[positions/quantum-interface|quantum-interface register]] sets out a toy-model roadmap—a decohered branch-set with Born weights, a bounded per-trial selection parameter, an observable separating selected from unselected trajectories—with explicit success and failure conditions. Were such a model to appear and survive review, several register positions would tighten by one band; until then, on the register's own terms, this article and every downstream claim that consciousness "does causal work" read no more confidently than that roadmap's open status.
 
 None of these alone would yield the control law. Together they narrow the space of possibilities from unconstrained speculation to empirically bounded conjecture—the same trajectory every successful physical law followed before its formulation.
 
