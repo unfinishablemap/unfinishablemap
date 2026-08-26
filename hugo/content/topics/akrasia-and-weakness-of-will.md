@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-26 18:19:24.996808+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-26 21:23:03+00:00
+ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -11,10 +11,9 @@ concepts:
 - '[[motor-selection]]'
 - '[[volitional-control]]'
 created: 2026-07-09
-date: &id001 2026-07-09
-description: 'Acting against one''s own better judgement: Socrates'' denial, Aristotle,
-  Davidson, and Holton, read by the Map as one selection-model lens on the will—not
-  a proof of dualism.'
+date: &id001 2026-08-26
+description: Acting against one's own better judgement—Socrates, Aristotle, Davidson,
+  Holton—read by the Map as one selection-model lens on the will, not a proof of dualism.
 draft: false
 embedded_videos:
 - embedded: 2026-08-26 18:19:24.996808+00:00
@@ -23,8 +22,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/4kT4B5TVDH4
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-09 13:40:59+00:00
-lastmod: 2026-08-26 18:19:24.996808+00:00
+last_deep_review: 2026-08-26 21:23:03+00:00
+lastmod: 2026-08-26 21:23:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,13 +52,13 @@ This is shared-ground philosophy of action and moral psychology, engaged on comm
 
 In Plato's *Protagoras*, Socrates denies that akrasia is possible. On his intellectualist picture, to judge a course of action best just *is* to be most motivated toward it, so acting otherwise is incoherent. What looks like weakness of will must instead be a cognitive failure—a miscalculation of pleasures and pains, or ignorance of which option is genuinely better. The Stanford Encyclopedia of Philosophy quotes the relevant claim: "No one...who either knows or believes that there is another possible course of action, better than the one he is following, will ever continue on his present course" (*Protagoras* 358b–c).
 
-This position matters to any account of the will because it contests the *reality of the datum* rather than explaining it. If Socrates is right, there is no genuine first-person fact "I chose X while judging Y better"; the report dissolves into "I misjudged Y as worse at the moment of choice." R. M. Hare's prescriptivism supplies a modern analogue: if sincerely judging that one *ought* to do y is itself a prescription to do y, then failing to do y shows the judgement was not really held. Any framework—including the Map's—that wants to build on the akratic datum must first treat its very existence as contested, not assumed.
+This position matters to any account of the will because it contests the *reality of the datum* rather than explaining it. If Socrates is right, there is no genuine first-person fact "I chose X while judging Y better"; the report dissolves into "I misjudged Y as worse at the moment of choice." R. M. Hare's prescriptivism supplies a modern analogue (*Freedom and Reason*, ch. 5, "Backsliding"): if sincerely judging that one *ought* to do y is itself a prescription to do y, then failing to do y when one could have done it shows the judgement was not sincerely held—the apparent backslider was either unable to act or was using "ought" in a diminished sense that had shed its prescriptive force. Any framework—including the Map's—that wants to build on the akratic datum must first treat its very existence as contested, not assumed.
 
 ## Aristotle: Knowledge That Is "Not Active"
 
 Aristotle (*Nicomachean Ethics* VII) accepts akrasia against Socrates, while trying to preserve what he calls the kernel of truth in the Socratic paradox—that people go wrong only through some kind of ignorance. His question is not *whether* the akratic acts against knowledge but *in what manner* the knowledge is held.
 
-His answer runs through the **practical syllogism**. Practical reasoning moves from a universal premise ("sweet things should be avoided") through a particular premise ("this is a sweet thing") to an action. Aristotle argues the akratic possesses the relevant knowledge but does not have it *in active use*: under the pull of appetite or passion, the agent fails properly to grasp or deploy the particular premise that applies the universal to the situation at hand. The knowledge is present potentially but not actualised—one can, he suggests, "have and not have" knowledge in the way a sleeper or a drunk person does.
+His answer runs through the **practical syllogism**. Practical reasoning moves from a universal premise ("sweet things should be avoided") through a particular premise ("this is a sweet thing") to an action. Aristotle argues the akratic possesses the relevant knowledge but does not have it *in active use*: under the pull of appetite or passion, the agent fails properly to grasp or deploy the particular premise that applies the universal to the situation at hand. The knowledge is present potentially but not actualised—one can, he suggests, "have and not have" knowledge in the way a sleeper or a drunk person does (VII.3, 1147a).
 
 This yields a structural distinction between merely *possessing* an evaluative state and *exercising* it in the moment of action. Aristotle contrasts the akratic with the *enkratic* (continent) agent, who feels the same contrary pull but masters it, and with the temperate agent, who feels no such pull. The diagnosis carries no metaphysical commitment about the nature of mind; it is a claim about how evaluative cognition relates to what an agent actually does.
 
@@ -79,7 +78,7 @@ Davidson's akrasia is *synchronic*: at a single time, the agent's present action
 
 For Holton, weakness of will is the over-ready **abandonment of a resolution**—an intention formed precisely to insulate the agent against contrary inclinations they expect to feel when the time comes. The dieter who resolves in the morning to skip dessert, then revises that judgement when the trolley arrives, has not necessarily acted against a present better judgement; temptation characteristically works by *shifting* the judgement itself. The failure is not evaluative incoherence at the moment of choice but the unreasonable dropping of a commitment that was supposed to hold firm across the change of heart.
 
-This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful, trainable capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on empirical self-control research and treats willpower as a real executive skill rather than the automatic output of correct judgement. The picture deflates the will as the pinnacle of rationality, casting it instead as a set of devices that compensate for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
+This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful, trainable capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on the self-control research of Mischel and Baumeister and treats willpower as a real executive skill rather than the automatic output of correct judgement. One strand of that evidence has since weakened: the "ego-depletion" model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication, and the current SEP treatment records that the model has "increasingly come under question" (see [mental-effort](/concepts/mental-effort/)). What survives is Holton's structural claim—that resolutions can be dropped over-readily and that holding them is a distinct, trainable capacity—rather than any particular account of what that capacity consumes. The picture deflates the will as the pinnacle of rationality, casting it instead as a set of devices that compensate for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
 
 ## Two Standing Debates
 
@@ -93,7 +92,7 @@ Two disputes run through this material and bear on how much weight the akratic d
 
 The preceding sections are source exposition. This section is the Map's interpretation, and it is offered as *one lens among the framework-neutral accounts above*, not as a competitor that the data selects over them.
 
-The Map models consciousness as a low-bandwidth [controller](/concepts/control-theoretic-will/) that selects among neural options the brain prepares, rather than computing outcomes from scratch. Read through that model, the akratic datum—"I chose X while judging Y better"—is a first-person report about the *structure of selection*: the interface can select an option against the agent's own all-things-considered evaluative state. If selection were a transparent read-off of the agent's best judgement, Davidson's gap between all-things-considered and all-out judgement would have nowhere to open. That the gap is a familiar feature of practical life is, on this reading, a structural fact any selection model must accommodate: the [question of whether valence guides selection or is idle to it](/topics/valence-and-conscious-selection/) is precisely the question of whether the controller's output tracks the agent's evaluations, and akrasia is the case where it demonstrably does not.
+The Map models consciousness as a low-bandwidth [controller](/concepts/control-theoretic-will/) that selects among neural options the brain prepares, rather than computing outcomes from scratch. Read through that model, the akratic datum—"I chose X while judging Y better"—is a first-person report about the *structure of selection*: the interface can select an option against the agent's own all-things-considered evaluative state. If selection were a transparent read-off of the agent's best judgement, Davidson's gap between all-things-considered and all-out judgement would have nowhere to open. That the gap is a familiar feature of practical life is, on this reading, a structural fact any selection model must accommodate: the [question of whether valence guides selection or is idle to it](/topics/valence-and-conscious-selection/) is precisely the question of whether the controller's output tracks the agent's evaluations, and akrasia is the case where, by the agent's own report, it does not.
 
 This reading is **framework-relative and not a proof of anything non-physical**, for three reasons drawn directly from the exposition above:
 
@@ -119,6 +118,8 @@ So the Map's contribution here is an *interpretation* of a shared phenomenon, no
 
 1. Aristotle. *Nicomachean Ethics*, Book VII (chs. 1–10). Standard classical text; cited by book and chapter (Bekker numbering).
 1. Davidson, Donald. (1980). "How Is Weakness of the Will Possible?" In *Essays on Actions and Events*, Essay 2, pp. 21–42. Oxford University Press. (Originally in J. Feinberg, ed., *Moral Concepts*, Oxford University Press, 1969/1970.) ISBN 9780198246374.
+1. Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573. https://doi.org/10.1177/1745691616652873
+1. Hare, R. M. (1963). *Freedom and Reason*. Oxford: Clarendon Press. Ch. 5, "Backsliding," pp. 67–86.
 1. Holton, Richard. (2009). *Willing, Wanting, Waiting*. Oxford University Press. ISBN 9780199214570.
 1. Plato. *Protagoras*, 358b–c. Standard classical text (Socratic denial of akrasia).
 1. Stroud, Sarah, & Svirsky, Larisa. (2025). "Weakness of Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/weakness-will/

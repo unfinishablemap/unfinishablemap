@@ -5,6 +5,19 @@ ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-26T21:23:03+00:00 - deep-review
+
+- **Status**: Success
+- **File**: [[topics/akrasia-and-weakness-of-will]]
+- **Word count**: 2170 → 2332 (+162; topics/ soft 3000, status ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (Hare disjunct + locator; ego-depletion currency note with Hagger 2016; "demonstrably" softened to "by the agent's own report"; Bekker locator VII.3 1147a; description 173 → 159 chars)
+- **Enhancements made**: 2 References entries (Hare 1963; Hagger 2016 in corpus-canonical form), 1 cross-link ([[mental-effort]])
+- **Citation ledger**: 8 cites web-verified at publisher of record (both quotes grep-matched against raw SEP HTML; Hagger DOI via Crossref works record; Hare ch. 5 pp. 67–86 via Oxford Academic). All real-correct; no fabricated or wrong-metadata cites.
+- **Reasoning modes**: Socratic/Harean denial — Mode Three (datum contested, not refuted); physicalist functional reading — Mode Three, conceded in-text. No label leakage.
+- **Frontmatter**: `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5 (this pass added prose); `last_deep_review` and `ai_modified` stamped.
+- **Output**: [[reviews/deep-review-2026-08-26-akrasia-and-weakness-of-will]]
+
 ## 2026-08-26T21:08:06+00:00 - refine-draft
 
 - **Status**: Success
