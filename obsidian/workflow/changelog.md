@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T19:13:40+00:00'
+ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26 19:35 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Mode**: evolve (auto-selected; staleness 418 = 38d × 11/11 sources; the 2026-08-22 run had deferred it on length)
+- **Changed sources**: 11 (substantive: hypnagogic-phenomenology [Löwe 2025 negative N1 replication], dream-consciousness [REM/NREM framing withdrawn], anaesthesia [Stone 2025, Xu re-description, receptor-specificity concession], coupling-modes [outcome-level selection; basis/timing demoted], filter-theory [08-26 organisation≠confirmation adjudication])
+- **Word count**: 5230 → 4791 (`analyze_length`, apex 4000 soft / 5000 hard; `hard_warning` → `soft_warning`)
+- **Changes**: Löwe currency fix (discharges P3 L2895); condense under hard ceiling with all five must-survive calibration passages verified by grep (discharges P2 L40); Evidence and Dependency section installed; MQI tenet paragraph realigned to coupling-modes; Bidirectional neuroplasticity claim reconciled with Kral 2022; anaesthesia interpretive claims reduced to source strength
+- **Residual**: ~790 words over soft threshold, deliberately left (further cuts would fall on calibration content); filter-theory stimulation objection not woven in
+- **Synced**: yes (`hugo/content/apex/`, validate ✓)
+- **Review**: [[reviews/apex-evolve-2026-08-26-altered-states-as-interface-evidence]]
 
 ## 2026-08-26 19:13 UTC - check-tenets
 

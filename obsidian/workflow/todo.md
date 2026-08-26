@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: `apex/altered-states-as-interface-evidence` is 230 words over its hard ceiling and is now the last unpaid file in the settled organisation-vs-confirmation cluster
+### ✓ 2026-08-26: `apex/altered-states-as-interface-evidence` is 230 words over its hard ceiling and is now the last unpaid file in the settled organisation-vs-confirmation cluster (apex-evolve-discharged)
 
 - **Type**: condense
-- **Status**: pending
+- **Status**: completed — discharged by the 2026-08-26 apex-evolve run rather than by a condense pick: 5230 → 4791 words (`analyze_length`; `hard_warning` → `soft_warning`), all five must-survive passages (a)–(e) grep-verified after each pass, Evidence and Dependency installed, Hugo synced. See [[reviews/apex-evolve-2026-08-26-altered-states-as-interface-evidence]].
 - **File**: obsidian/apex/altered-states-as-interface-evidence.md
 - **Review file**: `reviews/deep-review-2026-08-26-filter-theory.md`
 - **Source**: deep-review (cross-cluster adjudication)
@@ -2892,10 +2892,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   **LENGTH**: `positions/` is scored soft 1500 / hard 2500 and this file is already long — the additions are two wikilinks plus one `Updated 2026-08-22` line per position. Keep it to that.
   **MIRROR**: `hugo/content/positions/agency-and-will.md`. Run `uv run python scripts/sync.py`; both new wikilinks must resolve. `ai_modified` from a live `date -u`, strictly past.
 
-### P3: `apex/altered-states-as-interface-evidence` calls the Lacaux N1 result "One unreplicated paradigm" — a replication landed and it is negative
+### ✓ 2026-08-26: `apex/altered-states-as-interface-evidence` calls the Lacaux N1 result "One unreplicated paradigm" — a replication landed and it is negative (apex-evolve-discharged)
 
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed — discharged by the 2026-08-26 apex-evolve run: hypnagogia paragraph now records Löwe et al. (2025) as a negative preregistered replication (N1 vs waking p = 0.75, benefit at N2 p = 0.038), the "unreplicated" qualifier is also gone from the enhancement-through-disruption list, reference added with the DOI matched to `hypnagogic-phenomenology` L198; Lacaux fifteen-seconds framing left alone as instructed. Both trees synced.
 - **File**: obsidian/apex/altered-states-as-interface-evidence.md
 - **Source**: driver sweep after refine-draft (2026-08-22)
 - **Generated**: 2026-08-22

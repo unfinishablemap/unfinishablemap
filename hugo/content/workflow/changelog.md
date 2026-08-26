@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T18:56:37+00:00'
+ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-26'
-lastmod: 2026-08-26 18:56:37+00:00
+lastmod: 2026-08-26 19:35:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-26 19:35 UTC - apex-evolve
+
+- **Status**: Complete
+- **Article**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Mode**: evolve (auto-selected; staleness 418 = 38d × 11/11 sources; the 2026-08-22 run had deferred it on length)
+- **Changed sources**: 11 (substantive: hypnagogic-phenomenology [Löwe 2025 negative N1 replication], dream-consciousness [REM/NREM framing withdrawn], anaesthesia [Stone 2025, Xu re-description, receptor-specificity concession], coupling-modes [outcome-level selection; basis/timing demoted], filter-theory [08-26 organisation≠confirmation adjudication])
+- **Word count**: 5230 → 4791 (`analyze_length`, apex 4000 soft / 5000 hard; `hard_warning` → `soft_warning`)
+- **Changes**: Löwe currency fix (discharges P3 L2895); condense under hard ceiling with all five must-survive calibration passages verified by grep (discharges P2 L40); Evidence and Dependency section installed; MQI tenet paragraph realigned to coupling-modes; Bidirectional neuroplasticity claim reconciled with Kral 2022; anaesthesia interpretive claims reduced to source strength
+- **Residual**: ~790 words over soft threshold, deliberately left (further cuts would fall on calibration content); filter-theory stimulation objection not woven in
+- **Synced**: yes (`hugo/content/apex/`, validate ✓)
+- **Review**: [apex-evolve-2026-08-26-altered-states-as-interface-evidence](/reviews/apex-evolve-2026-08-26-altered-states-as-interface-evidence/)
+
+## 2026-08-26 19:13 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 74 (window, full read + diff) + 808 live-tree files (direct-contradiction battery); `archive/` and `hugo/content/` swept for the same patterns
+- **Errors**: 0 — thirteenth consecutive zero on the direct-contradiction battery
+- **Warnings**: 5 families, 27 loci — (1) `tenets/tenets.md` L75/L81(c) now over-concedes corridor untestability against the 08-24 P-Q3 re-rate to `indirect` (the tenets page is the stale dependent of its own register); (2) self-stultification over-defence family, hub `concepts/epiphenomenalism` L96/L100 ("impossible to hold rationally", "proves") with no bare-correlation scoping and no mention of the phenomenal-concept strategy, 9 live loci incl. predecessor Note 2; (3) Tenet 4 "MWI cannot accommodate / destroys the subject" family — predecessor W2 + N1 carried unqueued, now 14 loci, while `tenets.md` L117 narrowed the indexical objection further this window; (4) `falsification-roadmap` L51/L181 over-defends Tenet 2 testability in the opposite direction to W1; (5) psychophysical-laws pair grounds Tenet 3 in first-person evidence `tenets.md` L93 says cannot verify it
+- **Notes**: 7 families — Tenet 3 above `^tenet-3-standing` (stranded sibling `voids/observation-and-measurement-void` L156 after a four-void sweep this window); Tenet 5 lapses (predecessor N3 still open); Tenet 2 divergences; three inconsistencies created by in-window repairs; a Rules-out clause never scoped to the Map's own sub-threshold position; navigation surfaces; Tenet 1 bedrock run as settled
+- **Predecessor status**: W1 CLOSED at `4b359aa841` (both files, both trees, repair correct); W2, N1, N2, N3 all OPEN and unqueued (only W1 was minted); Family Z closed; Family AA open, unmoved
+- **Window verified clean**: 41 of 74 files; positions register (P-Q3, P-SC1, P-I3/P-I5, P-MS2, counts re-derived) and a substantial calibration sweep all move toward the tenets page
+- **Output**: [tenet-check-2026-08-26](/reviews/tenet-check-2026-08-26/)
+- **Modifies content**: no (report + this entry only)
 
 ## 2026-08-26 18:56 UTC - research-voids
 
