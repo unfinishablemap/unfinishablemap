@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-08-08T23:47:00+00:00
+ai_modified: 2026-08-26T15:25:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,6 +176,6 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 2. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 3. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
-4. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
+4. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive preprint (manuscript, archived 2024-12-09; record KUTTBO).
 5. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.

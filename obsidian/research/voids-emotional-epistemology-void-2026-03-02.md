@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Emotional Epistemology Void"
 created: 2026-03-02
 modified: 2026-03-02
 human_modified: null
-ai_modified: 2026-03-02T09:52:00+00:00
+ai_modified: 2026-08-26T15:25:35+00:00
 draft: false
 target_section: voids
 topics:
@@ -212,7 +212,7 @@ Based on this research, a voids article could:
 - Arango-Muñoz, S. & Michaelian, K. "Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology* 11 (2020).
 - De Cruz, H. "Awe and Wonder in Scientific Practice." *Virtue and the Practice of Science: Multidisciplinary Perspectives*.
 - Gertler, B. "Dualism: How Epistemic Issues Drive Debates About the Ontology of Consciousness." PhilArchive.
-- Kutnyy, D. "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
+- Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive preprint (manuscript, archived 2024-12-09; record KUTTBO).
 - Poellner, P. "Phenomenology and the Perceptual Model of Emotion." PhilPapers.
 - Scheler, M. *Formalism in Ethics and Non-Formal Ethics of Values* (1913/1916). Northwestern University Press, 1973.
 - Smithies, D. *The Epistemic Role of Consciousness*. Oxford University Press, 2019.

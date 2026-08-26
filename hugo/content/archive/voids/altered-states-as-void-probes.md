@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-08-26 15:25:35+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Edge-States and the Probing of Voids
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-15 14:49:00+00:00
-lastmod: 2026-04-17 20:56:00+00:00
+lastmod: 2026-08-26 15:25:35+00:00
 modified: *id001
 original_path: /voids/altered-states-as-void-probes/
 related_articles:
@@ -166,7 +166,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 1. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
 2. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
 3. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-4. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In *Philosophy and Psychedelics*. Springer.
+4. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In R. Lovering (ed.), *The Palgrave Handbook of Philosophy and Psychoactive Drug Use*, 15-36. Palgrave Macmillan. DOI 10.1007/978-3-031-65790-0_2.
 5. Stace, W. (1960). *Mysticism and Philosophy*. Macmillan.
 6. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.
 7. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.

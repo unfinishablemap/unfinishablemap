@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 23:47:00+00:00
+ai_modified: 2026-08-26 15:25:35+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Edge-States and the Probing of Voids
 archived: true
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-16 02:18:00+00:00
-lastmod: 2026-08-08 23:47:00+00:00
+lastmod: 2026-08-26 15:25:35+00:00
 modified: *id001
 original_path: /voids/phenomenology-of-the-edge/
 related_articles:
@@ -179,6 +179,6 @@ The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for en
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 2. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 3. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
-4. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
+4. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive preprint (manuscript, archived 2024-12-09; record KUTTBO).
 5. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.

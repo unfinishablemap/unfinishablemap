@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-08-07 18:25:13+00:00
+ai_modified: 2026-08-26 15:25:35+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 23:26:04+00:00
-lastmod: 2026-08-07 18:25:13+00:00
+lastmod: 2026-08-26 15:25:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,7 +190,7 @@ These results are contested rather than settled, and the standard [decoherence](
 16. Mason, N. L. et al. (2020). Me, myself, bye: Regional alterations in glutamate and the experience of ego dissolution with psilocybin. *Neuropsychopharmacology*, 45, 2003-2011.
 17. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 18. Siegel, J. S. et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632, 131-138.
-19. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
+19. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In R. Lovering (ed.), *The Palgrave Handbook of Philosophy and Psychoactive Drug Use*, 15-36. Palgrave Macmillan. DOI 10.1007/978-3-031-65790-0_2.
 20. Smigielski, L. et al. (2019). Characterization and prediction of acute and sustained response to psychedelic psilocybin in a mindfulness group retreat. *Scientific Reports*, 9, 14914.
 21. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
 22. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.

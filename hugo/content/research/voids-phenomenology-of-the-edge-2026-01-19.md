@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-08 23:47:00+00:00
+ai_modified: 2026-08-26 15:25:35+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ date: &id001 2026-01-19
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-08 23:47:00+00:00
+lastmod: 2026-08-26 15:25:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -233,7 +233,7 @@ Based on this research, a voids article could:
 ## Citations
 
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-2. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
+2. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive preprint (manuscript, archived 2024-12-09; record KUTTBO).
 3. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 4. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
 5. James, W. (1902). *The Varieties of Religious Experience*.

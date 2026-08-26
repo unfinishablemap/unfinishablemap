@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Altered States as Void Probes"
 created: 2026-02-03
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-03T17:07:00+00:00
+ai_modified: 2026-08-26T15:25:35+00:00
 draft: false
 target_section: voids
 topics:
@@ -238,7 +238,7 @@ Based on this research, a voids article could:
 
 1. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
 2. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
-3. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In *Philosophy and Psychedelics*. Springer.
+3. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In R. Lovering (ed.), *The Palgrave Handbook of Philosophy and Psychoactive Drug Use*, 15-36. Palgrave Macmillan. DOI 10.1007/978-3-031-65790-0_2.
 4. Letheby, C. & Gerrans, P. (2017). "Self unbound: ego dissolution in psychedelic experience." *Neuroscience of Consciousness*.
 5. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 6. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.
