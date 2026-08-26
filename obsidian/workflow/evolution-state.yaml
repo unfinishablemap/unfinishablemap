@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-26T22:52:27.967228+00:00'
-session_count: 19666
-cycle_position: 12967
+last_updated: '2026-08-26T23:13:22.973754+00:00'
+session_count: 19667
+cycle_position: 12968
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-08-25T06:14:34.806312+00:00'
   pessimistic-review: '2026-08-26T22:27:39.210131+00:00'
   positions-evolve: '2026-08-24T14:25:12.009584+00:00'
-  refine-draft: '2026-08-26T22:52:27.967228+00:00'
+  refine-draft: '2026-08-26T23:13:22.973754+00:00'
   replenish-queue: '2026-08-25T03:26:27.060616+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-26T19:02:45.490365+00:00'
@@ -117,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-26'
@@ -191,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-08-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-26'
   outcome: success
 - task: refine-draft
@@ -726,88 +726,22 @@ agentic_social:
     - hard-problem-of-consciousness
     - vagueness-void
 queue_status:
-  last_replenishment: '2026-08-25T03:23:26+00:00'
-  last_replenishment_mode: conservative
-  last_replenishment_note: 'RUN 1007. TWO MINTS PLUS A PROMOTION, all three re-verified
-    from disk this run with a positive control before acting - none taken on a review''s
-    or the changelog''s word. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3;
-    post-count re-measured from disk == 5 (P2 5, P3 62, 67 active). SOURCE: the 2026-08-24
-    optimistic review of the psychophysical-lawfulness wing was the only unconsumed
-    review in the corpus - its C1 ran as a P2 at 01:32Z, its C2 sat as a starved P3,
-    and BOTH of its High-Priority items had been recorded and never minted. This run
-    consumes the remainder. (1) PROMOTION P3 -> P2, concepts/causal-powers: the sole-holdout
-    contradiction. Re-verified three ways: powers realism greps six hits across topics
-    concepts apex positions and ALL SIX are in that one file; both of the review''s
-    quotes are verbatim on disk with line numbers undrifted (L41 favours powers realism;
-    laws-and-dispositions L126 adopts powerful qualities as the property-side commitment,
-    L170 the property-side ally); and the reciprocal link sits in the SAME SENTENCE
-    as the defect - L41 closes by sending the reader to the article that contradicts
-    it. This is a live contradiction about what the Map holds, on a path the article
-    itself builds, and it was P3 only because optimistic-review findings default low
-    while its own sibling C1 was minted P2 and executed within ten hours. 1800w, ok,
-    ~700 to soft, so the fix is affordable in place. NOTE the ordering side effect,
-    taken deliberately rather than by accident: at L2969 the promoted task now sorts
-    ahead of the two P2s waiting at L2988/L2996, so it jumps them. That is what a
-    promotion is for, but it is the opposite of run 1006''s bottom-insert discipline
-    and is recorded as such. (2) MINT, Davidson unreachable from the three law hubs:
-    davidson and anomalous both grep 0 on concepts/psychophysical-laws, topics/psychophysical-laws-bridging-mind-and-matter
-    and topics/the-psychophysical-control-law, against a chalmers positive control
-    of 21/24/5 - three zeros, each paired with a control that fires, because three
-    bare confirming zeros is exactly the shape that fabricates a defect. The wing''s
-    designated foil, which calls itself the view the Map must out-argue, has four
-    inbound links and none from any hub. Link-only, ~45 words total. THE MINT CARRIES
-    THE BINDING CONSTRAINT: concepts/psychophysical-laws measured 3494 against a 3500
-    concepts hard ceiling - SIX WORDS of headroom, left there by the 01:32Z C1 pass
-    which paid for its own additions with an in-section trim - so a bullet added without
-    a matching trim tips the flagship into hard_warning and mints a condense the operator
-    has just vetoed three times. (3) MINT, register connection: the-psychophysical-control-law
-    greps 0 for P-Q10, 0 for positions/ and 0 for quantum-interface while its Path
-    Forward section is alive and fully populated at L149 with three developments,
-    ALL EMPIRICAL - and P-Q10''s toy-model roadmap at positions/quantum-interface
-    L157 is the formal fourth item, already written. Two spans verified verbatim for
-    quoting, including the clause that prices the wing''s own confidence, which the
-    mint requires be kept rather than dropped. Part 2 adds the mechanism-debt deep-link
-    to consciousness-and-causal-powers, an address the register explicitly maintains
-    for that purpose. Corroborating datum found this run and not in the review: concepts/psychophysical-laws
-    carries ZERO P-Q references of any kind even after the C1 fix. Both hosts have
-    700+ words to hard. CROSS-FENCED: mints 2 and 3 both touch the-psychophysical-control-law
-    in different sections, so each names the other and tells whoever runs second to
-    re-read from disk and mark its own task line. Mint 2 also names the open P3 on
-    bridging L111 (prefers Stapp) as a same-file, different-defect collision. (4)
-    One P3 minted: stapp-quantum-mind L128 cites P-Q1 where P-Q4 is the on-point entry
-    - the 00:05Z refine''s explicitly recorded out-of-scope flag. Measured inbound
-    citations for all ten quantum-interface positions to price it honestly (P-Q4 has
-    1, but P-Q5/6/7 have 2 each), and the mint states P-Q4 is low but NOT uniquely
-    anomalous so nobody writes it up as a reachability defect or sweeps off it. (5)
-    RIDER, no new task: the 02:22Z deep-review''s most cited finding is a THIRD independent
-    confirmation of GAP 1 on the open find_superlative_claims operator entry, not
-    a new gap - appended there so the operator prices candidate fix (a) on three data
-    points. DELIBERATELY NOT MINTED. Condense: 79 files sit at hard_warning and 4
-    at critical, but the operator vetoed three condense mints this cycle and the review''s
-    own Medium-Priority condense target (concepts/psychophysical-laws) measures soft_warning,
-    below the mint threshold. Length source yields nothing. Unconsumed research: 558
-    notes, and consumed_by is absent from essentially all of them, so that dedup signal
-    is corpus-wide inert rather than pointing at anything today - the known threaded-content
-    defect, not a finding. Orphans 0. Positions dependency-changed (source 7b): checked
-    every article edited since run 1006 against Argued in lines; the only hit, one-world-wager
-    in P-I5, was updated in the same 01:11Z pass. Leberecht propagation from the 02:22Z
-    deep-review: swept obsidian, archive and hugo - confined to the article, its research
-    note (both corrected) and reviews/workflow echoes, no live siblings, so no sweep
-    task. Sync verified for all four files touched by the last four cycle tasks; both
-    trees agree. Backlog context unchanged and still the real problem: 67 active tasks,
-    62 of them P3 and starved.'
-  last_replenishment_run: 1007
+  last_replenishment: '2026-08-26T23:23:20+00:00'
+  last_replenishment_mode: standard
+  last_replenishment_note: 'RUN 1008. STANDARD MODE, SIX MINTS (3 P2, 3 P3), every locus re-verified from disk with a positive control before minting - none taken on a review''s or the changelog''s word. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3 (the three P2 condense entries carrying #veto in their titles are not counted by the parser). SOURCE A, chain: the 18:56Z research-voids pass on the impairment void found a LIVE DEFECT in voids/disappearance-voids (L115, uncited: self-assessment fails before performance under sleep deprivation) and designated the note for absorption, deliberately NOT writing pending_articles - so no chain fired and zero open tasks mentioned impairment or the file. Verified L115/L117 verbatim in both trees; the note''s three named refutations (Baranski 1994 calibration unaffected, Sundelin 2026 N=182 <1%, Van Dongen 2003 plateau-not-faster-decline) carried into the task with DOIs to re-resolve. Minted P2 as a paragraph swap (2677/3000 by the length tool), with the note''s owed sibling check (erasure-void, self-maintained-cognitive-limits, interoceptive-void, self-opacity) scoped as claim-match-not-string-match: erasure-void''s monitor line is the anosognosia claim, self-opacity greps 0 for sleep/impair. consumed_by stamp required. SOURCE B, check-tenets 19:13Z: five warnings, ZERO minted by the driver (grep tenet-check-2026-08-26 in todo == 0). W1 tenets.md L75/L81(c) over-concedes corridor untestability against the 08-24 P-Q3 re-rate to indirect - verified both strings on disk in both trees, P-Q3 L78/L84 verified, L107 already carries the correct qualifier to model on; P2, STRICTLY length-neutral (6685 critical under the standing HUMAN LENGTH DECISION 2026-06-08). W2 concepts/epiphenomenalism hub L96/L100 (impossible to hold rationally / proves) with phenomenal-concept|Papineau|bare-correlation == 0 on the page against a positive control on tenets.md L103 and epiphenomenalism-argument L75; all eight sibling loci grep-verified; P2 with the psychophysical-laws six-words-of-headroom constraint (3494/3500) named. W3 the Tenet 4 cannot-accommodate family - 14 loci, carried across TWO reports without a task - minted P3 on many-worlds-argument, 11 loci spot-verified, plus a fifteenth found this run (retrocausality L157) not in the review; both hubs over-ceiling (3880, 3501) so word-swaps only. W4 falsification-roadmap L51/L181 over-defence (mirror of W1) verified, P3 sequenced AFTER the W1 P2 (33 words of headroom). W5 psychophysical-laws pair L204/L217 first-person grounding verified, P3 with the same six-word constraint and the same-file collision with W2 fenced. DELIBERATELY NOT MINTED. Positions 7b: 25 files modified since run 1007; Argued-in hits for sentientism (P-MS, last reviewed 08-24; the 08-26 deep-review was a citation-metadata pass, no claim moved), edge-states-and-void-probes (voids-as-evidence, last reviewed 08-24; the 08-26 refine narrowed the lead''s convergence claim and added a selection-circularity discount - moves TOWARD the position''s common-cause-null caution, not away), calibration-audit-triple and coherence-inflation-countermeasures (methodology positions, last reviewed 06-22; ledger appends only). No update minted - replenish-positions-audit-false-overdue. Length: 131 hard_warning + 17 critical corpus-wide, dominated by research notes and register files (known false-over-length classes); the live-section list is unchanged from run 1007 and the operator vetoed three condense mints this cycle - length source yields nothing. Unconsumed research: consumed_by corpus-wide inert; only the impairment note is actionable and it is mint A. Orphans 0. Deep-review 08-26 akrasia and 08-25 radical-pair both report Remaining Items: None. outer-review-synthesis-2026-08-25 tasks exist under the review-file keys (L3136 augmentation seen). Post-count re-measured from disk after the splice: see p2_tasks/p3_tasks. Backlog context: P3 pool grows 61 -> 64, all starved; the three P3s minted are check-tenets families the report explicitly recorded as unqueued twice, minted so a third report does not re-derive them.'
+  last_replenishment_run: 1008
   loop_pickable_open: 5
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 5
-  p3_tasks: 62
+  p3_tasks: 64
   replenishment_source_counts:
-    promotion_from_p3: 1
+    promotion_from_p3: 0
     chain: 1
     unconsumed_research: 0
-    optimistic_review: 2
+    check_tenets: 5
+    optimistic_review: 0
     gap_analysis: 0
     length_analysis: 0
     staleness: 0
