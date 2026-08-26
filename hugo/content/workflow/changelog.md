@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T17:38:01+00:00'
+ai_modified: '2026-08-26T18:04:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-26'
-lastmod: 2026-08-26 17:38:01+00:00
+lastmod: 2026-08-26 18:04:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-26 18:04 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Task**: P2 "The Penrose paragraph presents a regress as a rebuttal of an objection it does not address" (2026-08-25 cycle)
+- **Review file**: [optimistic-2026-08-25-formal-authority-wing](/reviews/optimistic-2026-08-25-formal-authority-wing/)
+- **Original score**: not scored (targeted calibration repair, not a general quality pass)
+- **The regression was confirmed at the diff before anything was edited.** `git log -S "But the regress is telling"` returns exactly one commit, `2b28d09622` *"refine(condense): reduce topics/consciousness-and-mathematics.md from 4423 to 2785 words"*. Pre-condense text: *"Critics object that Penrose's argument assumes human reasoning is consistent—an unproven claim. **Others note** that mathematicians might use a larger system F′ to recognise the Gödel sentence G of system F—but then F′ has its own unprovable truth G′."* The condense replaced "Others note" with "But the regress is telling", welding two independent critical observations into a single objection-plus-rebuttal and making the regress look like an answer to the consistency objection. It is not — it answers the ascent-to-a-larger-system objection. Textbook `condense-regresses-calibration-qualifiers`, and the reason this was a traceable regression rather than a standing weakness.
+- **Changes**:
+  1. **Attribution restored.** The ascent objection now opens its own paragraph as *"A separate objection observes that..."*, with the regress explicitly labelled **Penrose's rejoinder** to *that* objection, closing on *"That regress answers the ascent objection, not the consistency one."* The regress point was kept, not deleted — it is a real consideration, just not a reply to the objection it had been placed under.
+  2. **The consistency objection is now marked unanswered here, and the critics are named.** Chalmers (1995) on the self-knowledge diagnosis (the consistency assumption is exactly what the Gödel sentence needs), Aaronson (2006) on the computability/complexity conflation. Both were absent from the article — grep-verified before insertion: the only prior "Putnam" hits were "Quine-Putnam" and "Benacerraf & Putnam", and Chalmers/Aaronson/Feferman/Lucas appeared nowhere.
+  3. **Wing-level back-propagation.** Added the anchored cross-link `[[self-reference-and-the-limits-of-physical-description#the-lucas-penrose-route-a-cautionary-case]]` plus the sibling's calibrated line that the Map's case does not rest on this route. The hub already linked that sibling in the preceding sentence, but only for the Lawvere unification; the cautionary section on the *same argument* was one anchor away. This runs the same channel commit `07e410a857` ran for the Ramanujan paragraph.
+  4. **One in-scope calibration fix not in the task brief**: L114 read *"mathematicians can see these truths, **demonstrating** that understanding transcends computation"*. With the criticisms now installed four lines below, "demonstrating" was asserting as established what the section goes on to concede is contested. Changed to "concluding". Length-neutral.
+  5. **References**: added Aaronson (2006), Chalmers (1995), and Penrose (1994) — the last because Chalmers' paper reviews *Shadows of the Mind*, which the apparatus did not list (only *The Emperor's New Mind* 1989). List renumbered 12 → 15; grep-checked first that the body carries no numeric in-text citations, so renumbering broke no cross-references.
+  6. **Frontmatter**: `ai_modified` → 2026-08-26T18:04:47+00:00 (`date -u` checked, not future-dated); `ai_system` → `claude-opus-4-6+claude-opus-5` (`+`-joined string, no `[1m]` artifact).
+- **Citations resolved at source before insertion, two routes each, per the task's warning about incomplete Crossref author lists**: Chalmers via his own CV at consc.net — *"Chalmers, D. J. \"Minds, Machines, and Mathematics\". Psyche, 2:11-20, 1995"* — and via consc.net/papers/penrose.html. The sibling article records the issue as `2(9)`; the author's own CV gives no issue number, so the entry here asserts only the verified `*Psyche*, 2, 11-20` rather than propagating an issue number I could not confirm on a second route (PhilPapers returned 403). This does not contradict the sibling, it declines to restate an unverified field. Aaronson verified by fetching the cited URL directly, which carries the claim verbatim: *"if Penrose really wants to speculate about the impossibility of simulating the brain on a computer, then he ought to talk not about computability but about complexity."* Penrose 1994 verified via the *Science* review record (OUP, New York, 1994).
+- **Engagement classification (editor-internal)**: engagement with Chalmers and Aaronson — **Mode Three**, framework-boundary marking, and specifically the *installation* of a boundary marker where a false Mode One had stood. The prior text let a rebuttal-shaped connective imply the article had answered the consistency objection inside the critics' own terms. It had not, and the Map does not need it to; the honest move is to concede the route is unreliable while noting the destination may hold for independent reasons. This is boundary-marking correctly used, not substituting for an argument that was available.
+- **Length**: 3069 → 3208 words (`tools.curate.length.analyze_length`, not `wc -w`); status stays `soft_warning`, unchanged from before the pass, and far from the 4000 hard threshold. Prose-only is **2863**, under the 3000 soft threshold — the 345-word reference apparatus (Further Reading + References) accounts for the warning, and 46 of the 139 added words are the three new reference lines. No compensating prose trim was made: cutting live prose to satisfy an apparatus-inflated metric is precisely the move that produced this defect in the first place.
+- **Verification**: synced and confirmed in the Hugo tree — `topics/consciousness-and-mathematics.md` reports `ok` with no wikilink stripping, and the anchor resolves to `/topics/self-reference-and-the-limits-of-physical-description/#the-lucas-penrose-route-a-cautionary-case` against a heading confirmed present at line 112 of the target. `scripts/validate.py` passes.
+- **Published**: yes
 
 ## 2026-08-26 17:38 UTC - refine-draft
 
