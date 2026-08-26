@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-08-13T18:24:08+00:00
+ai_modified: 2026-08-26T22:05:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,6 +176,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 - [[psychophysical-laws]] — The concept: Chalmers' framework and candidate coupling laws
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of upward and downward laws
+- [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws|anomalous monism]] — Davidson's verdict that there is no strict psychophysical law to specify, and why the Map holds out for a non-strict one
 - [[the-interface-problem]] — The complementary location question: where does consciousness couple to the brain, alongside the specification half this article develops
 - [[control-theoretic-will]] — The control-theoretic framing this article builds on
 - [[coupling-modes]] — Basis, timing, and probability control as coupling modes

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-08-22 23:26:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-26 22:05:50+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /topics/chalmers-psychophysical-coupling/
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-08-22 23:26:00+00:00
+lastmod: 2026-08-26 22:05:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 ## The Upward-Downward Asymmetry
 
-Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are [supervenience](/concepts/supervenience/) laws, not causal laws.
+Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are [supervenience](/concepts/supervenience/) laws, not causal laws. Davidson's [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) goes further, denying that any strict psychophysical law exists because mental and physical vocabularies cross-classify the same events; the Map's reply is developed there.
 
 The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward causation](/concepts/mental-causation-and-downward-causation/).
 

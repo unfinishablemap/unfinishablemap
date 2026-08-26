@@ -5,6 +5,13 @@ ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-26T22:05:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]] (+ [[topics/psychophysical-laws-bridging-mind-and-matter]], [[topics/the-psychophysical-control-law]])
+- **Original score**: n/a (link-only pass per task scope; `scripts/curate.py` does not exist in this tree)
+- **Changes**: Link-only fix from `reviews/optimistic-2026-08-24-psychophysical-lawfulness-wing.md` L164-171: the wing's designated physicalist foil `concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws` (Davidson's no-strict-laws verdict) had zero inbound links from the three law hubs (re-confirmed on disk: `davidson`/`anomalous` 0 hits in all three, positive control `chalmers` 21/24/5). Argument NOT imported — one informative pointer per hub naming Davidson's position. (1) `concepts/psychophysical-laws` Further Reading: new bullet after `[[functionalism]]`; paid for in-file by tightening five sibling glosses (born-rule, delegation-meets-quantum-selection, trumping-preemption, attention-as-causal-bridge, the-interface-problem) so `analyze_length` reads **3494 -> 3494**, exactly length-neutral against concepts hard 3500 — no condense mint triggered. (2) `bridging`: one sentence in section "The Upward-Downward Asymmetry" (the review's own routing — where Davidson's cross-classification point bites) immediately after "supervenience laws, not causal laws"; 3432 -> 3459 (topics hard 4000). (3) `control-law` Further Reading: new bullet after the bridging bullet; 3156 -> 3181. No tenet claims added — the target's own "Relation to Site Perspective" already routes through Tenets 2 and 3. `ai_system` on bridging extended with `+claude-fable-5` (the other two already carried it). Synced; slug converts to `/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/` in all three Hugo mirrors; `validate.py` clean on each. **NOT touched**: the open P3 at bridging L111/L145 (`prefers Stapp` over-IIT + "significant retreat" re-ranking, plus its two archive loci) — distinct defect requiring a family-wide edit-vs-leave call on archive pages; left for its own dispatch. The sibling P2 (P-Q10 -> control-law "The Path Forward") was not present on disk at edit time; that section is untouched here.
+- **Published**: yes
+
 ## 2026-08-26T21:52:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/creative-aesthetic-void]]

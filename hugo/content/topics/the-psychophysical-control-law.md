@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-13 18:24:08+00:00
+ai_modified: 2026-08-26 22:05:50+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 03:55:00+00:00
-lastmod: 2026-08-13 18:24:08+00:00
+lastmod: 2026-08-26 22:05:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,6 +180,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The concept: Chalmers' framework and candidate coupling laws
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of upward and downward laws
+- [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's verdict that there is no strict psychophysical law to specify, and why the Map holds out for a non-strict one
 - [the-interface-problem](/topics/the-interface-problem/) — The complementary location question: where does consciousness couple to the brain, alongside the specification half this article develops
 - [control-theoretic-will](/concepts/control-theoretic-will/) — The control-theoretic framing this article builds on
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as coupling modes

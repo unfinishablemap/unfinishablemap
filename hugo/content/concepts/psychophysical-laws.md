@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-25 01:32:21+00:00
+ai_modified: 2026-08-26 22:05:50+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-25 01:32:21+00:00
+lastmod: 2026-08-26 22:05:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -257,7 +257,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Why coupling must run in both directions
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary candidate for coupling's mental variable
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
-- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: the three-layer architecture that instantiates attention-bounded and policy-level coupling
+- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: the three-layer architecture instantiating attention-bounded and policy-level coupling
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
@@ -266,13 +266,14 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — The historical form of the coupling problem
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint on conscious selection
-- [trumping-preemption](/concepts/trumping-preemption/) — Schaffer's fourth species of redundant causation, supplying the structural template for authority-selecting coupling
+- [trumping-preemption](/concepts/trumping-preemption/) — Schaffer's fourth species of redundant causation, the structural template for authority-selecting coupling
 - [delegatory-causation](/concepts/delegatory-causation/) — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
-- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
-- [the-interface-problem](/topics/the-interface-problem/) — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
-- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as the physical grounding of Saad's default causal profile
+- [the-interface-problem](/topics/the-interface-problem/) — The location question: where consciousness meets the brain
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Which coupling proposals require Born-rule violation, and what negative results would foreclose
 - [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
 - [functionalism](/concepts/functionalism/) — The view the Map rejects
+- [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's physicalist verdict that no strict psychophysical law exists, which the law programme must out-argue
 - [haecceity](/concepts/haecceity/) — Why organizational invariance is rejected
 - [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) — Research notes on Chalmers' framework
 - [tenets](/tenets/) — The Map's foundational commitments
