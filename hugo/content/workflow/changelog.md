@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-26T22:51:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) and [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: n/a (curate review command stale; task-scoped edit)
+- **Changes**: Part 1 — added a fourth Path Forward item to the-psychophysical-control-law (heading "Three developments" → "Four"): the formal route, cross-referencing P-Q10's toy-model roadmap in [quantum-interface](/positions/quantum-interface/) without restating it, and carrying the honest clause that this article and every downstream "does causal work" claim read no more confidently than the roadmap's open status. Part 2 — consciousness-and-causal-powers §Relation to Site Perspective now cites the register's `[[positions/quantum-interface#^mechanism-debt]]` deep-link (form copied from concepts/type-token-causation) at the bias-without-deviation "honest characterisation" sentence. Absence re-verified on disk before editing (0 hits for `positions/`, `P-Q`, `quantum-interface` in both hosts); register anchor confirmed rendering as `<span id="mechanism-debt">`. Lengths 3181→3270 and 3254→3262 (both soft_warning, well under hard 4000). Davidson sibling bullet (commit 021f5439) left intact. Synced; links verified in both trees. No named-opponent engagement touched.
+- **Published**: yes
+
+
 ## 2026-08-26T22:40:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) (1639w, never pessimistically reviewed; oldest `ai_modified` in the unreviewed pool). Six-persona pass plus evidential-status and citation-fidelity checks. Three High issues (one defect from three sides): the lead equivocates "cannot access" with "no longer exists"; the flagship conservation example is the paradigm case of the suppression-not-supplantation literature (Smedslund 1961, Leroux 2009, Shtulman & Valcarcel 2012, Kelemen 2013); the duck-rabbit exhibit shows retained alternatives, not consumption. Citation defects: Piaget Ref 3 is the sensorimotor volume, not the conservation work; Camerer 1989 has no "explicit warnings" condition (verified from raw PDF text); Kuhn and Gadamer over-attributed. Minted one P2 `refine-draft` (bottom of Active).
