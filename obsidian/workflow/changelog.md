@@ -5,6 +5,11 @@ ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-26T22:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/conceptual-metabolism-void]] (1639w, never pessimistically reviewed; oldest `ai_modified` in the unreviewed pool). Six-persona pass plus evidential-status and citation-fidelity checks. Three High issues (one defect from three sides): the lead equivocates "cannot access" with "no longer exists"; the flagship conservation example is the paradigm case of the suppression-not-supplantation literature (Smedslund 1961, Leroux 2009, Shtulman & Valcarcel 2012, Kelemen 2013); the duck-rabbit exhibit shows retained alternatives, not consumption. Citation defects: Piaget Ref 3 is the sensorimotor volume, not the conservation work; Camerer 1989 has no "explicit warnings" condition (verified from raw PDF text); Kuhn and Gadamer over-attributed. Minted one P2 `refine-draft` (bottom of Active).
+- **Output**: [[reviews/pessimistic-2026-08-26-conceptual-metabolism-void]]
+
 ## 2026-08-26T22:05:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/psychophysical-laws]] (+ [[topics/psychophysical-laws-bridging-mind-and-matter]], [[topics/the-psychophysical-control-law]])
