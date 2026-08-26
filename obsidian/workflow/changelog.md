@@ -1,10 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T16:43:00+00:00'
+ai_modified: '2026-08-26T17:14:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-26 17:14 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Task**: P2 "the article's own methodological paragraph refutes its lead, and its physicalist opponent is a straw one" (ChatGPT 5.6 Sol Pro singleton, 2026-08-25 cycle)
+- **Review file**: [[reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro]]
+- **Synthesis**: [[reviews/outer-review-synthesis-2026-08-25]] (§Divergences)
+- **Word count**: 3652 → 3660 (+8, net length-neutral under the standing `HUMAN LENGTH DECISION 2026-06-05`; ~150 words added, ~140 paid for by redundancy trims)
+- **Altered-state symmetry**: `evaluate_symmetry` returns `None` before and after — the L91 disruptive-cluster paragraph was left untouched
+- **Published**: yes
+
+**(a) Adjudicated, not executed — the divergence resolves as one reviewer half-right and one reviewer right.** The synthesis flagged this as a live ChatGPT-vs-Claude divergence and instructed the refine to adjudicate rather than execute either verdict. Read at current text, the two charges come apart:
+
+- **"Current evidence partly discriminates" is defensible. ChatGPT's reading is wrong, and no retraction was made.** The charge conflates two axes. The sentence's own subject is the *transcendence-vs-edge-mapping* pair introduced one clause earlier, and on that axis the article does discriminate and says so twice more: "Evidence is mixed… which fits edge-mapping" and "Each finding tilts toward the edge-mapping and dying-brain production readings… and none supports transcendence." The passage ChatGPT cites as the retraction ("roughly equally consistent with the dualist and physicalist readings") is about the *metaphysical* axis — which is precisely what the same sentence's second clause already concedes. Both halves were true as written. The fix applied was **clarifying, not retracting**: the sentence now names which pair it discriminates between and which layer it leaves open, so the conflation that produced the charge is no longer available. This is the known failure mode where an over-claim running *against* the Map collects an endorsement; declining it here was deliberate.
+- **"A consistent phenomenology appears" did overclaim, narrowly.** The body restricts the convergence to *structural features* rather than doctrinal content (the Katz paragraph) and applies a self-report discount (Van Dam 2018); the lead asserted it flat and unrestricted. The lead now carries both restrictions forward. Claude Opus 5's countervailing reading — that the article risks over-concession — was honoured by paying for the additions out of the article's four separate restatements of non-discrimination rather than out of its argument.
+- **The "four convergent lessons" conclusion** now reads "Four lessons survive the discounts above," which is what the body supports. The four lessons themselves were already individually hedged ("suggests", "if the zero-person perspective is genuinely experiential") and were left alone.
+
+**(b) Engagement with the materialist deflationist: Mode Three (framework-boundary marking) — downgraded from an attempted Mode One that does not survive.** The article had argued that confused processing should produce idiosyncratic chaos, so orderliness favours genuine contact — an in-framework refutation of materialist deflation. It fails, and the failure is not repairable: the physicalist alternative on offer is *structured construction by a shared system*, and common neural architecture, common pharmacology, transmitted contemplative vocabulary and a small shared questionnaire set each predict orderly convergence as strongly as genuine contact does. No in-framework argument was available to replace it — the Map itself endorses several of those mechanisms elsewhere (Van Dam expectancy effects, Katz constructivism, the common-cause point in the Dualism coda), so attempting Mode One would have contradicted the corpus. The replacement states the failure plainly in natural prose, names the real alternative, and specifies what *would* discriminate (structure surviving variation in the shared machinery — unrelated pharmacology, doctrinally hostile traditions, instruments not derived from one another) together with the honest admission that the present record does not supply it. No mode labels appear in the body.
+
+**Selection circularity acknowledged.** Added as a second discount alongside the Van Dam one: experiences count as edge-states partly because they display the profile, so the profile's recurrence among them is not an independent finding, and the class lacks an operational criterion keyed to method rather than to the phenomenology under test.
+
+**Structural change.** The straw-opponent argument had lived inside the "Ineffability with noesis" bullet; the replacement is paragraph-length and would have unbalanced the feature list, so it now closes the Edge-Experience Profile section as its own analytic paragraph. The bullet keeps the phenomenological feature and the deflationary reading.
+
+**Redundancy trims that paid for the additions** (all in service of Claude Opus 5's over-concession finding — the article restated "the evidence does not discriminate" five times): the duplicated section-opening topic sentence in the Edge-Experience Profile; "A metabolic caveat checks the 'filter doing less work' inference"; "and ALBUS makes it worse"; the doubled *Elephant and the Blind* attribution; the doubled parsimony/held-open pair in the Metzinger section; "Three findings read as physicalist candidates"; "and it could be epiphenomenal"; the companion-treatment restatement of the ischemia-vs-absent-function point already made two paragraphs earlier; "and removes the warrant to count the cases separately"; and the *epektasis* gloss's second half.
+
+**Sibling-task boundary respected.** The "Bidirectional Interaction" and "Minimal Quantum Interaction" codas were not edited — verified in the diff. Confirmed independently at current text that `demonstrat*` returns zero occurrences in both the Obsidian and Hugo copies, so the earlier report of that was accurate.
+
+**Not addressed (out of scope for this task):** the Gładziejewski/Letheby paragraph's placement, the six 2024–2026 sources ChatGPT flagged as absent (own P2 task), and the corpus-level evidential-weight inconsistency between `concepts/filter-theory` and this article (own P1 task).
 ## 2026-08-26 16:43 UTC - deep-review
 
 - **Status**: Success
