@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T16:01:03+00:00'
+ai_modified: '2026-08-26T16:43:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26 16:43 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/sentientism]]
+- **Task**: cycle deep-review slot; candidate selected by `scripts/deep_review.py next` (score 38, 25 days unreviewed content)
+- **Word count**: 3432 → 3435 (+3, length-neutral; `soft_warning`, 65 words under the 3500 hard ceiling)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 cross-links
+- **Verification debt closed**: 1 (open todo P3, marked ✓ in place at `obsidian/workflow/todo.md` L587)
+- **Output**: [[reviews/deep-review-2026-08-26-sentientism]]
+
+**The trigger was the References block, not the prose.** The 2026-08-01 deep review left this article clean on frontmatter, links, anchors, style and calibration, and the 2026-08-04 pessimistic review's three high-severity argument defects were all repaired by the 2026-08-04 refine. But that refine **added five bibliographic entries and one page locator**, and nothing since had web-verified any of them — the §2.4 trigger in its exact form. One of the six is wrong.
+
+**Critical 1 — Taylor 1986 ch. 6 page range wrong on both ends** (`pp. 264-304` → `pp. 256-314`). Verified at the publisher's own *chapter* record: Princeton/De Gruyter DOI `10.1515/9781400838530-008`, "SIX. COMPETING CLAIMS AND PRIORITY PRINCIPLES", 256-314; pagination stable across the 1986 first edition and the 25th-anniversary reprint (both end at 329). **The transferable point: a clean quote-fidelity pass does not certify locators.** The 2026-08-04 pessimistic run checked every quotation in this article, verified all of them, wrote "the citation apparatus is unusually clean" — and introduced this defect in the same pass. Quotations and locators are orthogonal channels, and only the chapter DOI settles the second; the *book* DOI does not carry chapter pagination. Cf. [[quote-fidelity-defects-survive-metadata-reviews]].
+
+**Critical 2 — an internal contradiction in the over-concession direction, which has no named rule.** The illusionism coda claimed "What the metaphysics buys is **not a different verdict in any actual case**". Four paragraphs later the Occam's-Razor-Has-Limits section says dismissing invertebrate or artificial sentience on parsimony grounds "is exactly the false parsimony the tenet rejects" and that "the asymmetry of costs under uncertainty runs the other way" — which *is* a different verdict in actual cases. The coda was also wrong standalone: a functionalist who precisifies "sentient" so insects fall outside returns a settled *no*; the Map returns *unknown*, and unknown-plus-precaution acts differently. Exactly [[over-concession-gets-ratified-not-merely-missed]] with its diagnostic tell ("not … in any actual case"), endorsed rather than challenged across two prior reviews because it runs *against* the Map. Rescoped to "not a **settled** verdict in any hard case … which is why precaution rather than stipulation is the response it calls for", which also repairs the contradiction by connecting the coda to the precautionary layer it was denying.
+
+**Verification debt closed after three attempts — and the fix was already in the article's own bibliography.** The open P3 "the Korsgaard locator in the sentientism cluster is unverified after two attempts by two different routes" is resolved with **no text change anywhere in the cluster**. The full two-sentence span and the page are verbatim in SEP's "The Moral Status of Animals": *"Korsgaard, for example, writes 'it is a pain to be in pain. And that is not a trivial fact' (1996: 154)."* That entry is **reference 18 of this very article**. The two prior failures had a locatable cause rather than bad luck: both searched the freely-indexed 1992 Tanner Lectures text (Harvard DASH, *Tanner Lectures* 12: 19-112), where the phrase genuinely does not appear — it was added or revised for the 1996 Cambridge book. The task's "verify at the primary text, not at another web index" was right about indexes and wrong about the remedy. **Lesson: before hunting a quote in the wild, grep the sources the article already cites.**
+
+**Two near-miss false positives, both avoided by checking the right record.** (a) Kammerer 2022c: Crossref gives *JCS* issue "3" against the article's "29(3-4)" — not a defect. A Crossref sweep of JCS volume 29 returns issues 1, 3, 5, 7, 9, 11 only, i.e. the journal prints double issues and Crossref indexes the first number. (b) Schweitzer 1923 "Trans. J. Naish": OpenLibrary's *aggregate work* record lists C. T. Campion and Mrs. C. E. B. Russell as translators and would have read as a wrong-translator finding; the *1923 edition* record carries "Translated by John Naish." Campion translated the 1946/1955/1961 editions. **Check the edition record, not the work record, for translator and publisher claims.**
+
+**Medium fixes.** (1) Dropped qualifier restored on Taylor: SEP says the prima facie duty attaches to the goods of **wild** living things, and *Respect for Nature* is a theory of environmental ethics restricted to wild organisms; the article had generalised. The HIV case survives — a virus is wild in Taylor's sense. (2) "That is the school-neutral formulation, accepted by **everyone in the debate**" — an uncited census of a profession, and in tension with the article's own later report that Birch argues only *sufficiency*. Reworded.
+
+**Enhancements.** The article never linked back to [[positions/moral-status]], whose **P-MS1** *is* its thesis and whose entry says "argued in `concepts/sentientism`" — the [[analysis-doc-cites-the-article-article-never-cites-back]] pattern; backlink added in the lead. Birch's *The Edge of Sentience* was cited in the body while the Map's own article on it sat unlinked; converted to a piped wikilink at zero word cost.
+
+**Offsets** (length-neutral, entry at 137% of the concepts soft threshold): trimmed "and is not repeated here", "considerably", and "and nothing above claimed they did". Net +3 words.
+
+**Left deliberately.** Williams 1992 stays routed through the SEP entry rather than promoted to its own References line — the routing is verbatim-faithful and orphan-free, and the tuple is now recorded in the review archive for a future pass with length headroom. The illusionist standoff remains bedrock and was not re-flagged.
+
 
 ## 2026-08-26 16:01 UTC - deep-review
 
