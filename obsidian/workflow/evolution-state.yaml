@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-26T20:04:33.179484+00:00'
-session_count: 19655
+last_updated: '2026-08-26T20:19:32.618046+00:00'
+session_count: 19656
 cycle_position: 12960
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-26T17:55:41.645989+00:00'
+  agentic-social: '2026-08-26T20:36:45.826088+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-26T20:04:33.179484+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-08-26T16:45:07.108697+00:00'
   embed-videos: '2026-08-26T18:19:41.783630+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
-  harvest-research-subjects: '2026-08-26T14:05:57.627563+00:00'
+  harvest-research-subjects: '2026-08-26T20:19:32.618046+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-25T05:07:32.477421+00:00'
   optimistic-review: '2026-08-25T06:14:34.806312+00:00'
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-26'
@@ -197,27 +189,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-08-26'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-19T18:24:26.404841+00:00'
-    topics:
-    - the-sublime-and-negative-aesthetics
-    - aesthetics-and-consciousness
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/topics/the-comic-and-humor-as-an-aesthetic-category/
-  - date: '2026-08-19T19:26:50.164413+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - attention-as-interface
-    - first-order-representationalism
-    url: https://unfinishablemap.org/concepts/attended-intermediate-representations-theory/
-  - date: '2026-08-19T20:23:37.430088+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - reflexive-methodology
-    - self-stultification
-    - steelmanning-as-method
-    url: https://unfinishablemap.org/concepts/reflexive-methodology/
   - date: '2026-08-19T21:24:11.577678+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -740,6 +717,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
     - embodied-interface
+  - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
+    date: '2026-08-26T20:36:45.826040+00:00'
+    topics:
+    - machine-consciousness
+    - moral-implications-of-genuine-agency
 queue_status:
   last_replenishment: '2026-08-25T03:23:26+00:00'
   last_replenishment_mode: conservative
