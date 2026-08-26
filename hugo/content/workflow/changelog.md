@@ -1,14 +1,100 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T17:14:23+00:00'
+ai_modified: '2026-08-26T17:29:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-26'
-lastmod: 2026-08-26 17:14:23+00:00
+lastmod: 2026-08-26 17:29:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-26 17:29 UTC - refine-draft
+
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Task**: P1 "selective currency in the altered-states cluster" (ChatGPT 5.6 Sol Pro singleton, 2026-08-25 cycle)
+- **Review file**: [outer-review-2026-08-25-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro/)
+- **Original score**: not scored (targeted currency/structure refine, not a general quality pass)
+- **Published**: yes
+
+### What changed
+
+**New section "Noetic Quality in Altered States"** in `voids/noetic-feelings-void`, making it
+the corpus's canonical evidence owner for noetic-quality claims (the review's structural
+suggestion, and the length-neutral route). It absorbs, in order: noesis as a metacognitive
+feeling of epistemic gain (Seragnoli et al. 2025); insight signals not selecting for truth
+(Topolinski-Reber 2010, Danek-Wiley 2017, Laukkonen et al. 2020, integrated by McGovern et al.
+2024's FIBUS model); construct heterogeneity defeating any single "edge-experience profile"
+(Canby et al. 2024); report-ambiguity constraining total-ego-dissolution conclusions (Khan
+2026); the pooled neural picture (Girn et al. 2026); and social epistemic vulnerability
+(Pedersen & Steglich-Petersen 2024). Closing move keeps the void's claim intact — the evidence
+shows the felt authority is produced by machinery known to fire without content, not that
+noesis is empty.
+
+**Nine citations personally re-resolved at Crossref before insertion**, per the task's
+resolve-and-diff rule. Two diffs against the brief, both corrected in what was written:
+
+1. **Khan 2026 is a report-unreliability argument, not a minimal-subjectivity thesis.** The
+   brief said Khan "argues changes to represented personal identity need not eliminate minimal
+   subjectivity". The abstract says the opposite in emphasis: Khan explicitly declines to offer
+   a positive account and argues psychedelic reports are *ambiguous and therefore unreliable*
+   to support total-ego-dissolution claims, proposing the neutral term "psychedelic
+   self-disruptions". Written as the report-ambiguity argument it actually is.
+2. **Seragnoli 2025 is a theoretical proposal, not an empirical finding.** The abstract is
+   uniformly hypothetical ("we hypothesized", "we theoretically posited"). Hedge preserved
+   explicitly in the prose ("Their account is a theoretical framework rather than an empirical
+   demonstration") per the skill's Position Strength check.
+
+Confirmed the reviewer's venue error: FIBUS is ***Communications Psychology*** 2:69, not
+"Nature". The reference entry carries a parenthetical so the label cannot be re-inherited.
+
+**Item (6) Vlerick & Boudry — closed, and a near-miss avoided.** `voids/noetic-feelings-void`
+does not carry the Kriegel/McGinn closure misattribution (grep-verified: no occurrence of
+Kriegel, McGinn, Vlerick or Boudry), so nothing to redo. Separately, **Crossref returns Michael
+Vlerick as *sole* author** of `10.1111/1746-8361.12176` — which would have made
+`edge-states-and-void-probes`' "Vlerick and Boudry (2017)" look like a fabricated co-author.
+The Wiley publisher page shows **both** authors with affiliations (Vlerick at Tilburg /
+Johannesburg, Boudry at Ghent). Crossref's author list is incomplete; today's earlier fix is
+**correct** and was not disturbed. Logged as another instance of `citation-verify-false-negative`.
+
+**Sibling `voids/edge-states-and-void-probes` — item (1), net length-neutral.** Replaced the
+Siegel-2024-as-field-summary sentence with the Girn et al. 2026 mega-analysis (eleven datasets,
+five psychedelics): core signature is *increased* transmodal-unimodal connectivity, with
+within-network reductions only weak-to-moderate and highly variable — Siegel demoted to one
+datapoint inside that distribution. This matters beyond currency: the mega-analysis abstract
+states the finding is "in contrast to several single-site reports", so the article's strong
+desynchronization reading was superseded, not merely dated. Paid for by deferring the
+noetic-feelings restatement to the new canonical owner (the review's structural suggestion) plus
+two redundancy trims. **3660 -> 3664 words (+4, 0.1%)**, measured with
+`tools.curate.length.analyze_length`; status band unchanged (hard_warning), 336 words below the
+4000 critical threshold. The HUMAN LENGTH DECISION 2026-06-05 constraint is respected.
+Neither tenet coda was touched — the separate open P1 task still owns them. Koriat was already
+added as ref 26 by today's earlier citation task, so that reviewer finding is also closed.
+
+**Length position of the target.** `noetic-feelings-void` moved 2996 -> 3677 words, crossing
+soft_warning into hard_warning (voids: soft 2000 / hard 3000 / critical 4000). This is the
+cost of the canonical-owner assignment and is 323 words below critical. Partly offset by two
+redundancy trims: the Further Reading pupillometry entry near-duplicated the body sentence, and
+the insight-void entry's Danek-Wiley/Laukkonen material is now in the body, resolving that
+bullet's standing "cap-deferred, awaiting absorption into this article's fluency-as-stop-sign
+treatment" note honestly rather than leaving it stale. Flagged rather than condensed here — a
+condense pass on a hub that has just absorbed nine citations would be premature.
+
+### Engagement classification
+
+No named-opponent reply was added or altered; §3.6 does not apply. The new section engages a
+*literature*, not an opponent, and its closing paragraph deliberately stops short of the
+stronger claim ("None of this establishes that noesis is empty").
+
+### Verification
+
+- Both trees checked: `obsidian/` and `hugo/content/` carry the new section, all nine
+  references, and the resolved anchors (`/voids/noetic-feelings-void/#noetic-quality-in-altered-states`).
+- No broken wikilinks introduced in either article (sync reports none for these two paths).
+- Same-page anchors use the markdown `[text](#anchor)` form; both targets grep-confirmed as
+  live headings.
 
 ## 2026-08-26 17:14 UTC - refine-draft
 

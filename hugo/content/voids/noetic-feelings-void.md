@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-07-29 16:03:55+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-08-26 17:29:30+00:00
+ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
 - /voids/understanding-void/
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:29:17+00:00
-lastmod: 2026-07-29 16:03:55+00:00
+lastmod: 2026-08-26 17:29:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -116,9 +116,25 @@ The void has three structural features.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [memory anomalies cluster](/topics/memory-anomalies/) treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure. Psychedelic and mystical noesis and the dissolving insight of meditative edge-states are high-salience cases of the same heuristic felt-knowing: a feeling of having-grasped that can fire with no graspable content behind it, which is exactly why the noetic-feelings machinery is what *tests* whether [edge-state probes](/voids/edge-states-and-void-probes/) grant genuine epistemic access or only the compelling phenomenology of access.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [memory anomalies cluster](/topics/memory-anomalies/) treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure. Psychedelic and mystical noesis is the same signal at maximum gain, which is why this machinery is what *tests* whether [edge-state probes](/voids/edge-states-and-void-probes/) grant genuine epistemic access or only the compelling phenomenology of access ([the evidence is set out below](#noetic-quality-in-altered-states)).
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
+
+## Noetic Quality in Altered States
+
+Psychedelic and mystical noesis and the dissolving insight of contemplative practice are the family's highest-salience cases: felt knowing at maximum intensity, frequently with no retrievable content behind it. This article is the Map's canonical owner of the evidence on them; [the edge-states article](/voids/edge-states-and-void-probes/) applies the verdict rather than restating the case.
+
+**Noesis as a metacognitive feeling.** Seragnoli et al. (2025) propose that the noetic facet of psychedelic mystical-type experience is a metacognitive feeling of *epistemic gain*—the "Aha!" signal, procedural and outcome-related, rather than an apprehension of what was gained. Their account is a theoretical framework rather than an empirical demonstration, but it places noesis squarely inside the family catalogued above: a verdict presenting itself as awareness of its object.
+
+**Insight signals do not select for truth.** Topolinski and Reber (2010) ground the felt rightness of insight in a sudden fluency increase rather than in the answer's correctness. Danek and Wiley (2017) found false insights arriving with the same pleasure, suddenness, certainty and relief as true ones, not categorically separable from inside. Laukkonen et al. (2020) showed that artificially induced aha-moments raise the judged truth of *unrelated* propositions. McGovern et al. (2024) integrate this into the FIBUS model: psychedelics increase both the quantity and the subjective intensity of insights, and thereby of beliefs, including false ones. The salience machinery amplifies the signal without discriminating on truth—this void's fluency-driven stop-sign, running at gain.
+
+**The experiences are not one construct.** Canby et al. (2024) surveyed 386 people across meditative, psychedelic, and psychopathological contexts and found mystical experience, non-dual awareness, selflessness, self-transcendence, and ego-dissolution highly overlapping, imprecisely distinguished, and poorly integrated with pathological analogues; factor analysis resolved sixteen experience characteristics rather than one profile. A unified "edge-experience profile" is a measurement hypothesis, not an established finding.
+
+**The reports may not support their strongest reading.** Khan (2026) argues that psychedelic self-reports are ambiguous between total loss of self-awareness and lesser disruptions of self-experience, and so cannot establish the "total ego dissolution" conclusions built on them; he proposes the neutral term *psychedelic self-disruptions*. Claims about what these states show regarding the subject inherit that ambiguity.
+
+The neural evidence has meanwhile been pooled. Girn et al. (2026) mega-analysed eleven resting-state fMRI datasets across five psychedelics, finding a robust core signature of *increased* connectivity between transmodal and unimodal networks, while the within-network reductions that single-site work had made dramatic came out weak-to-moderate, selective, and highly variable across drugs. Individual striking studies of network dissolution are datapoints inside that distribution rather than the field's summary.
+
+None of this establishes that noesis is empty. It establishes that the felt authority of these states is produced by machinery already known to fire without content, so the feeling cannot serve as its own evidence—this void's central claim, met where it is hardest to resist. Pedersen and Steglich-Petersen (2024) add the social turn: heightened openness coexisting with felt certainty makes such states distinctively vulnerable to external influence. Where authority cannot be audited from inside, outsourcing the audit to a facilitator or a tradition does not restore it.
 
 ## The Explanatory Regress
 
@@ -190,11 +206,11 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 - [decision-void](/voids/decision-void/) — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Concerns the *ontology* of the phenomenal rather than its accessibility; Arango-Muñoz (2019) marks the boundary between that question and this void's gating-signal family. The [research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames its three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915
 - [The Effort Void (research-stage)](/research/voids-effort-void-2026-05-08/) — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [agency-void](/voids/agency-void/) with secondary points of contact here
-- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration); the calibration face is a direct face of this void. Topolinski-Reber (2010) ground the felt-rightness of insight in a sudden fluency increase rather than the truth of the answer; Danek-Wiley (2017) document false insights that arrive with the same Pleasure / Suddenness / Certainty / Relief / Drive dimensions as true ones and are not categorically distinguishable from inside; Laukkonen et al. (2020)'s "dark side of Eureka" shows artificially-induced aha moments elevate judged truth of *unrelated* propositions co-active when they fire — the Eureka heuristic. Cap-deferred, awaiting absorption into this article's fluency-as-stop-sign treatment, with the operation-void core (restructuring + antecedent-blindness) potentially routing instead to [transit-void](/voids/transit-void/)
+- [The Insight Void (research-stage)](/research/voids-insight-void-2026-05-14/) — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration). The calibration face is a direct face of this void and is now absorbed into [the altered-states section](#noetic-quality-in-altered-states) above; the operation-void core (restructuring + antecedent-blindness) remains cap-deferred, potentially routing instead to [transit-void](/voids/transit-void/)
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping territory by the shape of its boundary
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, cryptomnesia as edge-phenomena revealing the architecture
-- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Bodily-channel instrumentation as the structural complement to second-person scaffolding: pupil dilation tracks decision-evidence weakness (Urai et al. 2017) at trial-locked grain, providing partial external verification on the same gating signals consciousness cannot directly inspect
+- [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Bodily-channel instrumentation as the structural complement to second-person scaffolding, treated under [approaches to the edge](#approaches-to-the-edge) above
 
 ## References
 
@@ -210,3 +226,12 @@ The cluster-level conditions are taken up separately in [the apex's falsificatio
 10. Heidegger, M. (1927). *Being and Time*, Division I.
 11. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
 12. Arango-Muñoz, S. (2019). "Cognitive Phenomenology and Metacognitive Feelings." *Mind & Language*, 34(2).
+13. Topolinski, S. & Reber, R. (2010). "Gaining Insight Into the 'Aha' Experience." *Current Directions in Psychological Science*, 19(6), 402-405. DOI 10.1177/0963721410388803.
+14. Danek, A. H. & Wiley, J. (2017). "What About False Insights? Deconstructing the Aha! Experience Along Its Multiple Dimensions for Correct and Incorrect Solutions Separately." *Frontiers in Psychology*, 7, 2077. DOI 10.3389/fpsyg.2016.02077.
+15. Laukkonen, R. E., Kaveladze, B. T., Tangen, J. M., & Schooler, J. W. (2020). "The dark side of Eureka: Artificially induced Aha moments make facts feel true." *Cognition*, 196, 104122. DOI 10.1016/j.cognition.2019.104122.
+16. Canby, N. K., Lindahl, J., Britton, W. B., & Córdova, J. V. (2024). "Clarifying and measuring the characteristics of experiences that involve a loss of self or a dissolution of its boundaries." *Consciousness and Cognition*, 119, 103655. DOI 10.1016/j.concog.2024.103655.
+17. McGovern, H. T. et al. (2024). "An Integrated theory of false insights and beliefs under psychedelics." *Communications Psychology*, 2, 69. DOI 10.1038/s44271-024-00120-6. (Published by Nature Portfolio; the journal is *Communications Psychology*, not *Nature*.)
+18. Pedersen, M. M. & Steglich-Petersen, A. (2024). "On the social epistemology of psychedelic experience." *Philosophical Psychology*, 38(7), 3210-3228. DOI 10.1080/09515089.2024.2369685 (online 27 June 2024; in issue 2025).
+19. Seragnoli, F. et al. (2025). "Metacognitive Feelings of Epistemic Gain are Central to the Understanding of Psychedelic-Induced Mystical-Type Experiences." *Cognitive Therapy and Research*, 49(5), 873-901. DOI 10.1007/s10608-025-10588-z.
+20. Girn, M. et al. (2026). "An international mega-analysis of psychedelic drug effects on brain circuit function." *Nature Medicine*, 32(4), 1543-1554. DOI 10.1038/s41591-026-04287-9.
+21. Khan, U. (2026). "Psychedelics, subjectivity, and self-awareness." *Phenomenology and the Cognitive Sciences*, published online 13 August 2026. DOI 10.1007/s11097-026-10186-8.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-08-26 17:14:23+00:00
+ai_modified: 2026-08-26 17:29:30+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 03:19:00+00:00
-lastmod: 2026-08-26 17:14:23+00:00
+lastmod: 2026-08-26 17:29:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -74,7 +74,7 @@ It is tempting to answer the deflation by observing that confused processing sho
 
 **Contemplative practice.** Jhana (concentrated absorption) strips mental content while intensifying awareness; vipassana encounters the impermanence and emptiness of phenomena; cessation—complete stopping of phenomenal consciousness followed by return—crosses the edge entirely, the limit case the [silence void](/voids/the-silence-void/) investigates. The neuroimaging warns against reading "DMN down" as "self off": experienced meditators show *decreased* PCC activation alongside *increased* PCC–prefrontal coupling (Brewer et al. 2011), so the DMN-as-ego equation is contested.
 
-**Pharmacological intervention.** Psychedelics reliably produce ego dissolution at sufficient doses. The neuroimaging is better characterised as network *desynchronization* than flat "DMN reduction": psilocybin desynchronizes the brain, dissolving network boundaries most strongly in the default mode network, and the magnitude of desynchronization tracked subjective intensity (Siegel et al. 2024, *Nature*).
+**Pharmacological intervention.** Psychedelics reliably produce ego dissolution at sufficient doses. Pooled neuroimaging resists a flat "DMN reduction" reading: across eleven datasets and five psychedelics the core signature is *increased* transmodal–unimodal connectivity, with within-network reductions only weak-to-moderate and highly variable (Girn et al. 2026)—placing the single-site desynchronization result (Siegel et al. 2024) inside a distribution rather than at the field's summary.
 
 **Aesthetic absorption.** Profound encounters with beauty produce the full edge-profile; the [ineffable-encounter-void](/voids/ineffable-encounter-void/) investigates a broader version—meaning exceeding articulation in ideas, moral convictions, and encounters with others.
 
@@ -106,13 +106,13 @@ Metzinger is not the only naturalistic claimant here. Laukkonen, Friston and Cha
 
 ## The Dissolving-Insight Phenomenon
 
-The [thought-stream void](/voids/transit-void/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory produces this reliably: meditators report insights clear on arising and unreconstructable moments later; psychedelic users describe understanding everything and being unable to say what they understood. Memories fade gradually and can often be cued; dissolving insights vanish instantly—except that the sense of having had them persists.
+The [thought-stream void](/voids/transit-void/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory produces this reliably: meditators report insights clear on arising and unreconstructable moments later; psychedelic users describe understanding everything and being unable to say what they understood. Memories fade gradually and can be cued; dissolving insights vanish instantly, though the sense of having had them persists.
 
 One interpretation: these thoughts exist only at the boundary, requiring the edge-state to be thought at all. The mysterianism literature on cognitive closure—McGinn's thesis, Kriegel's critique—turns on a distinction Vlerick and Boudry (2017) draw explicitly: *psychological* closure (difficulty grasping) versus *representational* closure (no conceptual container available). Dissolving insights may mark contact with representationally closed territory.
 
-The confabulation hypothesis answers that the brain manufactures a sense-of-having-known where no knowing occurred—but it owes an account of the *systematic* failure mode it invokes, in which the trace of having-grasped persists while the content stays irretrievable, unlike ordinary forgetting or cueable tip-of-tongue.
+Confabulation answers that the brain manufactures a sense-of-having-known where no knowing occurred—but it owes an account of the *systematic* failure mode it invokes, unlike ordinary forgetting or cueable tip-of-tongue.
 
-The stronger internal defeater is the [noetic-feelings](/voids/noetic-feelings-void/) account. Koriat (2000) treats noetic feelings as outputs of implicit inferential heuristics—cue-familiarity and accessibility—that present their verdict without their derivation, so the conviction of having grasped something can fire with nothing behind it. On this reading the "trace of having-grasped" is a verdict-signal misrepresenting itself as awareness of an object, dissolving instantly because there was never propositional content to retrieve—which explains the asymmetry confabulation leaves open. The phenomenon is thus genuinely ambiguous between contact with representationally closed territory and a misfiring feeling-of-knowing.
+The stronger internal defeater is the noetic-feelings account, whose evidence base sits at [the noetic-feelings void](/voids/noetic-feelings-void/#noetic-quality-in-altered-states): such feelings deliver a verdict without its derivation (Koriat 2000), so the "trace of having-grasped" can be a verdict-signal misrepresenting itself as awareness of an object, dissolving instantly because there was never propositional content to retrieve—which explains the asymmetry confabulation leaves open. The phenomenon is thus genuinely ambiguous between contact with representationally closed territory and a misfiring feeling-of-knowing.
 
 ## Transcendence or Edge-Mapping? What Would Distinguish
 
@@ -197,3 +197,4 @@ The deeper underdetermination is that edge-phenomenology does not even isolate d
 24. Van Dam, N. T. et al. (2018). "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation." *Perspectives on Psychological Science*, 13(1), 36-61. DOI 10.1177/1745691617709589.
 25. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(1), 101-115. DOI 10.1111/1746-8361.12176.
 26. Koriat, A. (2000). "The feeling of knowing: Some metatheoretical implications for consciousness and control." *Consciousness and Cognition*, 9(2), 149-171.
+27. Girn, M. et al. (2026). "An international mega-analysis of psychedelic drug effects on brain circuit function." *Nature Medicine*, 32(4), 1543-1554. DOI 10.1038/s41591-026-04287-9.
