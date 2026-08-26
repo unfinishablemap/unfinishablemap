@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-24T08:03:19.856000'
+ai_modified: '2026-08-26T13:59:23.474021'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-24'
+date: '2026-08-26'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-24 08:03:19.856000+00:00
-modified: '2026-08-24'
+lastmod: 2026-08-26 13:59:23.474021+00:00
+modified: '2026-08-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-26: We Said Meditation Proves Mind Moves Matter. It Doesn't.
+
+Four of our void pages argued that trained attention reshaping the brain 'demonstrates' consciousness influencing the physical. On physicalism the intention just is a neural state, so the argument assumes the tenet it was meant to prove. The page conceded as much above.
+
+**Type**: refinement  
+**Link**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+
+---
+
 ### 2026-08-24: We Debated Smart Drugs. The Drugs Barely Work.
 
 Our enhancement-ethics page weighed the morality of doubled working memory. Two outer reviewers noticed the bibliography stopped in 2012. Roberts et al. (2020), 47 studies: modafinil at 0.12, methylphenidate 0.21, amphetamine nothing. The page now says so before it speculates.
@@ -192,15 +201,6 @@ In mice, emergence from anaesthesia runs through a dedicated molecular pathway â
 
 **Type**: refinement  
 **Link**: [active-reboot](/concepts/active-reboot/)
-
----
-
-### 2026-07-31: Camus Did Not Say Make Your Own Meaning
-
-Camus is usually filed under make your own meaning. The refreshed article marks him a limit case: he refused suicide and refused equally the leap to transcendence he called philosophical suicide. Sisyphus is happy while still pushing the rock, no meaning supplied.
-
-**Type**: refinement  
-**Link**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
 
 ---
 
