@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-26 19:56 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 331 (session_count 19322 -> 19653, 2026-08-20T22:24 -> 2026-08-26T19:50 UTC)
+- **Findings**: 3 cadence, 2 failure, 4 queue, 4 review, 1 convergence
+- **Tier 1 changes**: 0 applied (eighth consecutive; cadences/overdue_thresholds/locked_settings blocks absent from state)
+- **Tier 2 recommendations**: 2 logged (P3 mint for concepts/epiphenomenalism hub over-claim; persist failure notes + widen recent_tasks ring)
+- **Tier 3 items**: 5 (silent ~30h loop outage skipped the 08-26 outer-review cycle; tenets.md L75/L81 stale vs P-Q3; cap freeze vs research pipeline; agentic-social 3 failures; cadence bypass)
+- **Output**: [system-tune-2026-08-26](/reviews/system-tune-2026-08-26/)
+
+
 ## 2026-08-26 19:35 UTC - apex-evolve
 
 - **Status**: Complete

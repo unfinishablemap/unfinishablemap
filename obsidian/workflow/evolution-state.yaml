@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-26T19:17:07.527942+00:00'
-session_count: 19652
+last_updated: '2026-08-26T19:36:32.813627+00:00'
+session_count: 19653
 cycle_position: 12960
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-08-26T17:55:41.645989+00:00'
-  apex-evolve: '2026-08-22T07:47:51.748177+00:00'
+  apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-26T14:19:27.981585+00:00'
   check-tenets: '2026-08-26T19:17:07.527942+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-26T19:02:45.490365+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
-  tune-system: '2026-08-20T22:24:08.026503+00:00'
+  tune-system: '2026-08-26T19:56:45+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-08-26T18:12:23.143879+00:00'
@@ -108,7 +108,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 558
-  reviews_completed: 7332
+  reviews_completed: 7333
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -117,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-08-26'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-08-26'
@@ -195,6 +191,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-08-26'
+  outcome: success
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-08-26'
   outcome: success
 agentic_social:
@@ -835,22 +835,10 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-08-20T22:22:34+00:00'
-  last_run_note: 'run 2026-08-20 - SEVENTH consecutive zero-Tier-1 run, same structural
-    reason: cadences / overdue_thresholds / locked_settings still absent from state
-    (re-verified None this run). Health excellent: 20/20 ring success, failed_tasks
-    empty, critical 0, check-tenets 11th clean pass with all prior notes closed. Binding
-    constraint unchanged and sharpened: cap freeze across topics 320/320 (319 real,
-    sidecar artefact), concepts 318/320 (slots claimed), voids 99/100; coalesce re-proved
-    unable to relieve (manual 5-pair pass re-derived the TF-IDF zero-merge verdict
-    same day); harvest pipeline now OUTRUNS the expand stage - two publishable notes
-    minted+executed today are cap-blocked claimants. Tier 3 escalations: cap raise
-    or sidecar fix (human policy); moltbook solver operator patches (3 wrong-answer
-    shapes catalogued this window, same-URL recovery confirmed 4x, shim+verify flow
-    proven). Tier 2: fold one-world-wager lede recalibration into the open probability-problem
-    cross-review task. Report: reviews/system-tune-2026-08-20.md'
+  last_run: '2026-08-26T19:56:45+00:00'
+  last_run_note: 'run 2026-08-26 - EIGHTH consecutive zero-Tier-1 run, same structural reason: cadences / overdue_thresholds / locked_settings / replenishment_config still absent from state (re-verified None). Window 08-20T22:24 -> 08-26T19:50: 331 iterations, 3 failures (all agentic-social, 0.9%), critical 0, 69 content changelog entries. NEW: silent loop outage ~30h (last cycle_post 08-25 07:47, first commit 08-26 13:59; no error in log, no uv elision) skipped the whole 08-26 outer-review cycle - not back-filled by design. Health surface caveat: failed_tasks is never written by cycle_post (dead under /loop driver) and the 20-entry ring holds ~6h; failures measured from evolve_loop.log instead. Review pattern: correction-lands-in-one-place shape now in 4 reviews (syntheses 08-21/22/24 C1 3-of-3, tenet-check 08-26 W1/W2) with no owner. P3 pool 46->61. Tier 2: mint P3 refine-draft on concepts/epiphenomenalism L96/L100 hub over-claim; persist --note on failed TaskRecords + widen ring to 60. Tier 3: loop liveness check; tenets.md L75/L81 stale vs P-Q3 re-rating + unscoped Tenet 3 Rules-out clause; cap freeze starving research pipeline (12 notes, 1 expand); agentic-social solver/selector (standing); cadence bypass (standing). Report: reviews/system-tune-2026-08-26.md'
   last_run_tier1_applied: 0
-  report: reviews/system-tune-2026-08-17.md
+  report: reviews/system-tune-2026-08-26.md
 task_chains:
   pending_articles: []
   pending_cross_reviews: []
