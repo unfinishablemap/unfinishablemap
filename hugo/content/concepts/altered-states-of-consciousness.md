@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-18 21:17:37+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-08-26 16:01:03+00:00
+ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
 - /topics/altered-states-consciousness/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 21:03:18+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-26 16:01:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic mo
 
 Csikszentmihalyi's flow—the state of optimal experience during skilled activity—involves what Dietrich (2003) terms "transient hypofrontality": reduced activity in executive control regions despite enhanced performance. This seems paradoxical: how does reduced control produce better outcomes?
 
-Filter theory resolves the paradox. Flow involves consciousness *releasing* active control, allowing highly trained circuits to operate with less interference. The filter narrows to exclude deliberative processing while remaining open to automatic expertise. This supports [Bidirectional Interaction](/tenets/#bidirectional-interaction)—consciousness normally exerts control, and its deliberate release in flow demonstrates its active role in non-flow cognition.
+Filter theory organises the paradox rather than resolving it. Flow involves consciousness *releasing* active control, allowing highly trained circuits to operate with less interference: the filter narrows to exclude deliberative processing while remaining open to automatic expertise. The Map reads that release as coherent with [Bidirectional Interaction](/tenets/#bidirectional-interaction), since consciousness would normally be exerting the control it lets go of—though a production account describes the same transition as prefrontal disengagement, so the fit is coherence rather than confirmation.
 
 ### Hypnosis
 
@@ -110,7 +110,7 @@ Cessation events illuminate filter theory directly. Unlike anesthesia (where con
 
 [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) reveals that conditions like schizophrenia, depression, and depersonalization are not merely illnesses but altered states that disrupt the *form* of experience rather than just its content. A depressed person doesn't simply feel sad about things—the temporal horizon of the future closes, making hope structurally impossible. A person with schizophrenia doesn't just hold unusual beliefs—the pre-reflective sense that experiences belong to a self (*ipseity*) fractures at its foundation.
 
-This form/content distinction strengthens the filter theory interpretation. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, demonstrating that ownership, reality, and temporal presence are separable architectural features of consciousness rather than a unified neural product.
+This form/content distinction gives the filter interpretation extra reach without giving it extra evidence. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, which shows ownership, reality, and temporal presence to be separable—a separability a modular production account accommodates as readily as an adjustable interface does.
 
 ### Near-Death Experiences
 
@@ -148,11 +148,11 @@ These are genuine empirical stakes, not just logical possibilities. The filter i
 
 Altered states illuminate the Map's [tenets](/tenets/) from multiple angles:
 
-**Dualism:** ASCs demonstrate that consciousness has modes and configurations that cannot be straightforwardly mapped to brain states. The same behavioural output can mask different experiences; similar brain changes can produce opposite subjective effects.
+**Dualism:** ASCs show consciousness operating in modes and configurations that map onto brain states only loosely. The same behavioural output can mask different experiences; similar brain changes can produce opposite subjective effects. That constrains how tight the mapping can be without by itself establishing dualism.
 
 **Minimal Quantum Interaction:** The Orch OR hypothesis proposes that psychedelics enhance quantum coherence in microtubules, providing a potential mechanism linking altered states to the quantum interface between mind and matter.
 
-**Bidirectional Interaction:** Flow states and meditation demonstrate that consciousness can deliberately release control or reconfigure its interface—something impossible if consciousness were merely produced by, rather than interacting with, brain processes.
+**Bidirectional Interaction:** Flow states and meditation show consciousness deliberately releasing control or reconfiguring its interface. The Map reads that as causal traffic running outward; a self-modifying production system can down-regulate the activity sustaining a state just as readily, so the reading is preferred by fit rather than forced by the evidence.
 
 **No Many Worlds:** the Map's rejection of many-worlds is consistent with ASC phenomenology: altered states feel like different modes of *this* consciousness, not glimpses into parallel selves.
 

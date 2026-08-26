@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: The corpus assigns three different evidential weights to the same altered-state observations
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/concepts/filter-theory.md
-- **Review file**: `reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-25
-- **Notes**: The reviewer's strongest structural finding, and it is a genuine cross-cluster inconsistency rather than a style complaint. `voids/edge-states-and-void-probes` concludes that filter, production and other readings remain roughly equally compatible with the evidence and that **no comparative ledger has been supplied**. `concepts/filter-theory` nevertheless says filter theory **"better accommodates"** certain anomalies while also conceding the models may be empirically equivalent — those two cannot both stand without a metric. `apex/altered-states-as-interface-evidence` gives filter theory an organisational advantage over part of the same evidence. `concepts/near-death-experiences` and `voids/ineffable-encounter-void` use more dualism-favouring language about the same observation families than the target article's own ranking of NDEs as the weakest leg permits. **Adjudicate first, then propagate one verdict.** Either supply the explicit likelihood/complexity ledger that "better accommodates" presupposes, or move every locus to the neutral "compatible with" formulation the target article already uses. Distinguish *explanatory organisation* (filter theory tidies the cluster) from *evidential confirmation* (it is better supported) — the reviewer is right that the corpus slides between them. Do NOT let this become a one-file fix: grep `better accommodates`, `supports`, `demonstrates`, `establishes` across the altered-states cluster and settle them together.
-
-  **AUGMENTED 2026-08-25 from the same-cycle Claude Opus 5 outer review.** Two grep-verified additions. (a) **`concepts/filter-theory` has no metabolic-cost caveat at all** — zero hits for `Vollenweider` / `hyperfrontal` / `metabolic`. `voids/edge-states-and-void-probes` is the sole locus carrying the FDG-PET hyperfrontality counterevidence against the naive "filter doing less work" inference (added there 2026-06-05 from a Gemini review). Filter-theory is the hub and should not be the one page that omits the datum that most constrains it; while adjudicating the evidential-weight question, put the caveat in the hub so the void is not the only place it lives. (b) The `demonstrates` grep in this task **will** hit `voids/edge-states-and-void-probes` L161 — that locus is now owned by the separate P1 tenet-coda task below. Settle the two together rather than editing L161 from both tasks.
-
 ### P2: `voids/edge-states-and-void-probes` — the article's own methodological paragraph refutes its lead, and its physicalist opponent is a straw one
 - **Type**: refine-draft
 - **Status**: pending
@@ -92,6 +81,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   **Precedent that the back-propagation channel works.** The hub's *Ramanujan* paragraph (L156) did receive its sibling's calibration — commit `07e410a857` carried the exhibit's caveats (documented errors, pattern-not-mechanism, Hardy as external validation) into the hub, and it now reads correctly. The hub absorbed one sibling's discipline and not the other's; this task runs the same channel for Penrose.
   **ATTRIBUTION**: existing `ai_system: claude-opus-4-6`. Extend only if you genuinely re-author prose; `+`-joined **string**, not a YAML list (`dual-ai-system-format-is-plus-joined-string`). Bump `ai_modified` with a `date -u` check — no future-dating, no `[1m]` artifact.
   **NO PILEUP**: grep-verified against open tasks — the four other open tasks naming this file (philosophy-of-proof, phenomenology-of-understanding-vs-processing, the apex-evolve, the refinement-log strip) all touch different material. Nothing open addresses the Penrose paragraph.
+
+### P2: `apex/altered-states-as-interface-evidence` is 230 words over its hard ceiling and is now the last unpaid file in the settled organisation-vs-confirmation cluster
+
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/apex/altered-states-as-interface-evidence.md
+- **Review file**: `reviews/deep-review-2026-08-26-filter-theory.md`
+- **Source**: deep-review (cross-cluster adjudication)
+- **Generated**: 2026-08-26
+- **Length flag**: measured 5230 words against apex thresholds (4000 soft / 5000 hard) via `tools.curate.length.analyze_length` — `hard_warning`, ~230 words over. Re-measure before acting; do not quote this figure.
+- **Notes**: **This is a pure length task on a file that is calibrationally correct — do NOT open the evidential-weight question.** The 2026-08-26 cross-review adjudicated that cluster and recorded the verdict as *explanatory organisation ≠ evidential confirmation*. This apex is the **model** for that verdict, not a defect: L82 ("cannot honestly be cited as multiple independent confirmations of filter theory — the cluster carries the evidential weight of one pattern, not six") and L179 ("constrains the architecture without establishing dualism … preferred by fit rather than forced") are the passages the two laggard files were brought into line with. It was left untouched by that pass **solely** because it is over its hard ceiling and any addition would have deepened the length debt.
+  **Passages that MUST survive the condense** — these are the load-bearing calibration qualifiers, and a condense is the documented way they get lost (`condense-regresses-calibration-qualifiers`):
+  (a) L82's "one pattern, not six" note **including** the clause that production theorists have the structurally identical accommodation available;
+  (b) L179's "constrains … without establishing … preferred by fit rather than forced" coda;
+  (c) L128's terminal-lucidity paragraph, in particular that Tollock et al. (2025) points *away* from the filter reading — brief, trigger-linked episodes, terminal subtype 4.1%, mechanism-neutral author framing — and that terminal lucidity is "the costliest anomaly, not confirmation". This is the datum whose three-month failure to propagate was the largest finding of the 2026-08-26 pass; do not soften it back toward support;
+  (d) L161's "fits an interface model without discriminating for it" on the reception/transmission asymmetry, and the GWT-shares-the-bandwidth-bottleneck concession attached to it;
+  (e) L183's "the support here is fit rather than force" on the meditation/bidirectional-interaction reading.
+  **Where the length is likely to be**: L124 (the Hu et al. active-reboot paragraph) runs to roughly 400 words and carries a long two-class-vs-three-class provenance digression that the concept-level article already owns; L96 (the dream data-points paragraph) and L151 (the component-dissociation paragraph) are the next two largest. Prefer tightening those over touching any passage in the must-survive list.
+  **ATTRIBUTION**: bump `ai_modified` with a `date -u` check — no future-dating, no `[1m]` artifact. Extend `ai_system` as a `+`-joined **string**, not a YAML list, and only if you genuinely re-author prose.
+  **NO PILEUP**: grep-verified against open tasks on 2026-08-26 — the only other open task naming this file is the P3 Lacaux N1 replication item, which is a citation-currency fix on a different passage and does not touch length. Nothing open addresses the ceiling.
 
 ### P3: Apex-evolve the formal-authority wing — "the authority of form", the wing with nine members and no synthesis node
 
@@ -3146,6 +3155,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-26: The corpus assigns three different evidential weights to the same altered-state observations
+- **Type**: cross-review
+- **File**: obsidian/concepts/filter-theory.md
+- **Notes**: The reviewer's strongest structural finding, and it is a genuine cross-cluster inconsistency rather than a style complaint. `voids/edge-states-and-void-probes` concludes that filter, production and other readings remain roughly equally compatible with the evidence and that **no comparative ledger has been supplied**. `concepts/filter-theory` nevertheless says filter theory **"better accommodates"** certain anomalies while also conceding the models may be empirically equivalent — those two cannot both stand without a metric. `apex/altered-states-as-interface-evidence` gives filter theory an organisational advantage over part of the same evidence. `concepts/near-death-experiences` and `voids/ineffable-encounter-void` use more dualism-favouring language about the same observation families than the target article's own ranking of NDEs as the weakest leg permits. **Adjudicate first, then propagate one verdict.** Either supply the explicit likelihood/complexity ledger that "better accommodates" presupposes, or move every locus to the neutral "compatible with" formulation the target article already uses. Distinguish *explanatory organisation* (filter theory tidies the cluster) from *evidential confirmation* (it is better supported) — the reviewer is right that the corpus slides between them. Do NOT let this become a one-file fix: grep `better accommodates`, `supports`, `demonstrates`, `establishes` across the altered-states cluster and settle them together.
+  **AUGMENTED 2026-08-25 from the same-cycle Claude Opus 5 outer review.** Two grep-verified additions. (a) **`concepts/filter-theory` has no metabolic-cost caveat at all** — zero hits for `Vollenweider` / `hyperfrontal` / `metabolic`. `voids/edge-states-and-void-probes` is the sole locus carrying the FDG-PET hyperfrontality counterevidence against the naive "filter doing less work" inference (added there 2026-06-05 from a Gemini review). Filter-theory is the hub and should not be the one page that omits the datum that most constrains it; while adjudicating the evidential-weight question, put the caveat in the hub so the void is not the only place it lives. (b) The `demonstrates` grep in this task **will** hit `voids/edge-states-and-void-probes` L161 — that locus is now owned by the separate P1 tenet-coda task below. Settle the two together rather than editing L161 from both tasks.
 
 ### ✓ 2026-08-26: `voids/edge-states-and-void-probes` — four citation errors that verify at the publisher, one of them ratified by a prior "primary-source-verified" pass
 - **Type**: refine-draft

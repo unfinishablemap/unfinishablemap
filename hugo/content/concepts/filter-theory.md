@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-24 16:48:43+00:00
+ai_modified: 2026-08-26 16:01:03+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -31,13 +31,14 @@ concepts:
 - '[[disconnection-neuroscience]]'
 created: 2026-01-15
 date: &id001 2026-01-15
-description: The brain transmits and constrains consciousness rather than producing
-  it. Correlation doesn't prove production; the brain is interface, not generator.
+description: Filter theory reads the brain as transmitting and constraining consciousness
+  rather than producing it. Correlation doesn't prove production—but it doesn't refute
+  it either.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 07:46:01+00:00
-lastmod: 2026-08-24 16:48:43+00:00
+last_deep_review: 2026-08-26 16:01:03+00:00
+lastmod: 2026-08-26 16:01:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,28 +56,28 @@ topics:
 - '[[bandwidth-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain becomes interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
 Materialism interprets brain-consciousness correlation as production: neural activity *generates* conscious experience. Filter theory interprets the same correlation as transmission: neural activity *shapes* and *constrains* consciousness that exists independently of the brain. Where the brain constrains rather than produces, that constraint has a cost — [interface friction](/concepts/interface-friction/), the resistance the filter imposes from the inside.
 
 Both interpretations explain basic neuroscience findings:
-- Brain damage produces specific deficits → damaged filter components distort or block transmission ([disconnection syndromes](/concepts/disconnection-neuroscience/) are the signature failure mode of a transmitter — channel severed, broadcast intact, receiver missing that part)
+- Brain damage produces specific deficits → damaged filter components distort or block transmission ([disconnection syndromes](/concepts/disconnection-neuroscience/): channel severed, broadcast intact)
 - Anesthetics alter or abolish consciousness → disrupted interface changes or blocks what consciousness can manifest
 - Neural correlates predict conscious states → interface configuration determines what aspects of consciousness manifest
 
-The difference appears metaphysical rather than empirical. Yet filter theory organizes expectations differently: disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas *naive* unified-switch production models predict only degradation or alteration. The asymmetry is scoped to that naive target—sophisticated production accommodates coherent, even enhanced, outcomes via redistributed processing, a concession the closing section develops. Even against the naive target it is suggestive but not decisive—filter theory lacks independent criteria specifying *which* disruptions should enhance versus degrade experience, making the "prediction" partly post hoc. The [evidence section below](#evidence-supporting-filter-theory) examines where this distinction matters.
+The difference appears metaphysical rather than empirical. Yet filter theory organizes expectations differently: disrupting the brain could sometimes *enhance* experience when constraints loosen, whereas *naive* unified-switch production models predict only degradation or alteration. The asymmetry is scoped to that naive target—sophisticated production accommodates coherent, even enhanced, outcomes via redistributed processing, a concession the closing section develops—and even against the naive target it is suggestive rather than decisive, since filter theory lacks independent criteria for *which* disruptions should enhance versus degrade. The [evidence section below](#evidence-supporting-filter-theory) examines where this distinction matters.
 
-Filter theory denies that correlation establishes identity, using the radio analogy: damaging a radio's circuitry produces specific reception deficits without proving the radio *produces* the broadcast rather than *receiving* it.
+Filter theory denies that correlation establishes identity, using the radio analogy: damaging a radio's circuitry produces reception deficits without proving the radio *produces* the broadcast rather than *receives* it.
 
 ## Historical Development
 
 **William James** proposed a "transmissive function" for the brain in his 1898 Ingersoll Lecture "Human Immortality." A prism doesn't produce colors; it reveals them by refracting white light. Destroy the prism and the colors vanish—but the colors weren't generated by the prism.
 
-**Henri Bergson** developed a more radical version in *Matter and Memory* (1896). The brain's primary function is eliminative—filtering out most of consciousness to leave what is useful for action; memory is not stored in the brain but selected and activated as action requires. Modern engram research (Josselyn & Tonegawa 2020) complicates this picture: engrams involve distributed neural ensembles whose activation is necessary and sufficient for recall, which is more naturally read as a storage-and-retrieval mechanism than as Bergson's eliminative filter. Filter theorists can note that *why* reactivating specific neurons produces specific *experiences* remains open, but the engram literature does not straightforwardly support the filter interpretation.
+**Henri Bergson** developed a more radical version in *Matter and Memory* (1896). The brain's primary function is eliminative—filtering out most of consciousness to leave what is useful for action; memory is not stored in the brain but selected and activated as action requires. Modern engram research (Josselyn & Tonegawa 2020) complicates this: engrams are distributed ensembles whose activation is necessary and sufficient for recall, read more naturally as storage-and-retrieval than as Bergson's eliminative filter. *Why* reactivating specific neurons produces specific *experiences* remains open, but the engram literature does not support the filter interpretation.
 
-**Aldous Huxley** synthesized these ideas in *The Doors of Perception* (1954), proposing the brain as a "reducing valve" filtering cosmic awareness down to what is biologically useful. His key insight: reduced brain activity can *increase* conscious experience because it reduces the filtering, so that [degrees of consciousness](/concepts/degrees-of-consciousness/)—variation in intensity, richness, and complexity—reflect variation in the interface rather than in production.
+**Aldous Huxley** synthesized these ideas in *The Doors of Perception* (1954), proposing the brain as a "reducing valve" filtering cosmic awareness down to what is biologically useful. His key insight: reduced brain activity can *increase* conscious experience because it reduces the filtering, so that [degrees of consciousness](/concepts/degrees-of-consciousness/) reflect variation in the interface rather than in production.
 
 ## Evidence Supporting Filter Theory {#evidence-supporting-filter-theory}
 
@@ -84,9 +85,11 @@ Filter theory denies that correlation establishes identity, using the radio anal
 
 Neuroimaging studies of psychedelic states show *decreased* activity in the [default-mode-network](/concepts/default-mode-network/) alongside *increased* global connectivity—yet subjects report *expanded*, *richer*, *more vivid* conscious experience (Carhart-Harris et al. 2012). On production models, disrupted neural organization should produce disrupted consciousness.
 
-A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [hard problem](/topics/hard-problem-of-consciousness/)—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
+A physicalist would object that different neural processing simply produces different experience. What makes the filter reading attractive is its coherence with the [hard problem](/topics/hard-problem-of-consciousness/), not this datum alone.
 
-Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*, which is what REBUS models (Relaxed Beliefs Under Psychedelics) describe as the relaxation of a function restricting experience to a biologically useful subset. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) supplies the quantitative counterpart—neural entropy near a critical point as a signature of conscious richness, re-read as filter bandwidth. [The dedicated psychedelics article](/topics/psychedelics-and-the-filter-model/) develops this and its limits, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) examines whether filter-loosening genuinely accesses territories closed to ordinary consciousness.
+Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*, which is what REBUS models (Relaxed Beliefs Under Psychedelics) describe as the relaxation of a function restricting experience to a biologically useful subset. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) supplies the quantitative counterpart, re-reading near-critical neural entropy as filter bandwidth.
+
+A metabolic caveat checks the "filter doing less work" inference at its weakest joint. The reduced default-mode signal is *localized* reconfiguration rather than whole-brain downregulation, and FDG-PET finds the psychedelic state metabolically expensive—a global rise in cerebral glucose metabolism, most marked frontally (Vollenweider et al. 1997). A valve doing less should cost less; the filter reading survives only by separating *what* the DMN does from *how much* it spends, so the metabolic data discriminates no better than the imaging. [The dedicated psychedelics article](/topics/psychedelics-and-the-filter-model/) develops this and its other limits, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) examines whether filter-loosening genuinely accesses territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 
@@ -94,41 +97,41 @@ Different anaesthetics produce identical behavioural outputs—unresponsiveness,
 
 Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience through mechanistically distinct neural signatures; ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness, with subjects reporting long, vivid dreams. Three agents, three neural signatures, two radically different phenomenological outcomes: a pattern that refutes naive unified-switch physicalism but not sophisticated functionalism, which accommodates dissociability by positing consciousness realised in coupled subsystems. Filter theory attributes the same dissociable pattern to separable interface components; the [anesthesia void](/voids/anesthesia-void/) examines how the first-person gap underdetermines which decomposition is correct.
 
-Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) separates at least four interface components that can be disrupted independently—**phenomenal presence**, **behavioural access**, **temporal binding**, and **memory encoding**—each pairing with characteristic pharmacology: propofol and xenon target phenomenal presence through mechanistically distinct routes; ketamine severs access while sparing the phenomenal channel; volatile agents fragment temporal binding; midazolam isolates memory encoding "almost surgically". That four-component vocabulary is the filter framework's concept-level commitment about what the interface *is*: multiple semi-independent channels pharmacology can engage selectively, not a single dimmer. Sensory information reaches sensory cortex during light sedation but is not perceived (Noreika et al. 2011)—the interface blocks transmission.
+Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—the profile of a progressively constricting filter, and equally of a generator whose output degrades by degrees rather than by switch. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) separates at least four interface components that can be disrupted independently—**phenomenal presence**, **behavioural access**, **temporal binding**, and **memory encoding**—each pairing with characteristic pharmacology: the propofol/xenon/ketamine divergence above maps onto the first two, volatile agents fragment temporal binding, and midazolam isolates memory encoding "almost surgically". That vocabulary is the filter framework's concept-level commitment about what the interface *is*: semi-independent channels pharmacology can engage selectively, not a single dimmer. Sensory information reaches sensory cortex during light sedation but is not perceived (Noreika et al. 2011)—the interface blocks transmission.
 
 ### Hypnagogic Loosening
 
-At sleep onset the [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) illustrates filter loosening rather than demonstrating it. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—the pattern filter theory expects when the reducing valve opens, and equally the pattern a single graded mechanism predicts.
+At sleep onset the [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) illustrates filter loosening rather than demonstrating it. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—the pattern filter theory expects when the valve opens, and equally the pattern a single graded mechanism predicts.
 
 ### Meditative Cessation
 
-Advanced meditation produces cessation events—voluntary states with full loss of phenomenal content—that differ fundamentally from anaesthetic unconsciousness. Anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. Voluntary, content-free, recoverable cessation is harder to motivate on production accounts than on filter accounts—though not impossible for them, since a self-modifying system can down-regulate the activity sustaining a given state (voluntarily falling asleep is the everyday example).
+Advanced meditation produces cessation events—voluntary states with full loss of phenomenal content—unlike anaesthetic unconsciousness. Anaesthesia disrupts the filter from outside; cessation may be consciousness *releasing* its grip from inside. That is harder to motivate on production accounts, though not impossible for them: a self-modifying system can down-regulate the activity sustaining a state (voluntarily falling asleep is the everyday example).
 
 ### Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—a self-selected sample that cannot be generalized to all survivors. Experiencers describe these states as "more real than real." Materialists must explain why dysfunction would produce experiences clearer than normal waking; filter theory offers one interpretation: compromised interface, less constraint.
+[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported conscious awareness during arrest—a self-selected sample that cannot be generalized. Experiencers describe these states as "more real than real." Materialists owe an account of why dysfunction would produce experiences clearer than waking; filter theory offers one: compromised interface, less constraint.
 
 ### Terminal Lucidity
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2021) 124-case survey reported high rates of cognitive remission, but requires qualification: the cases were retrospectively collected from caregiver reports, creating strong selection bias (dramatic remissions are reported; non-remissions are not), without controls or standardised assessment. The phenomenon is genuinely puzzling; its prevalence and completeness remain uncertain. If terminal lucidity proves robust under prospective study, filter theory offers a natural interpretation: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2021) 124-case survey reported high rates of cognitive remission, but was retrospectively collected from caregiver reports, with the selection bias that invites (dramatic remissions are reported; non-remissions are not) and no controls or standardised assessment. The prospective era has since arrived, and it has not vindicated the filter reading. Tollock et al. (2025) followed 151 patients with moderate-to-severe dementia across three sites and recorded 267 lucidity events in 93 of them—so the phenomenon is real and capturable in advance—but the events were predominantly brief and trigger-linked, the dramatic terminal subtype only 4.1% of them, and the authors framed the finding mechanism-neutrally. Terminal lucidity therefore *constrains* production models without *establishing* the filter alternative; it belongs in this catalogue as its costliest anomaly rather than as confirmation.
 
 ### Covert Consciousness
 
-Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—precisely what filter theory predicts. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 
-[Dreams](/topics/dream-consciousness/) show consciousness operating independently of sensory input—fully immersive experiential worlds without external stimulation, which filter models read as consciousness using the brain's representational capacities with sensory constraints removed. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this into a rendering dilemma: if the brain can generate vivid visual worlds during sleep, its failure to deploy this capability during waking to compensate for sensory degradation demands explanation.
+[Dreams](/topics/dream-consciousness/) show consciousness operating without sensory input—immersive experiential worlds that filter models read as consciousness using the brain's representational capacities with sensory constraints removed. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this into a rendering dilemma: if the brain generates vivid visual worlds during sleep, its failure to deploy that capability during waking to compensate for sensory degradation demands explanation.
 
 ### Simple Organisms and the Filter Boundary
 
-The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively, and the slime mold *Physarum polycephalum* solves mazes without any neurons—suggesting [baseline cognition](/concepts/baseline-cognition/), sophisticated information processing without conscious contribution, can fully dissociate from consciousness. Not just *any* complex system serves as a consciousness interface: the brain's representational structure, attention mechanisms, and a contested sensitivity to quantum-scale events (whether warm, wet neural tissue can sustain the requisite quantum coherence against rapid decoherence is disputed) make it suitable, a case defended at [brain-interface-boundary](/concepts/brain-interface-boundary/).
+The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively, and the slime mold *Physarum polycephalum* solves mazes without any neurons—suggesting [baseline cognition](/concepts/baseline-cognition/) can fully dissociate from consciousness. Not just *any* complex system serves as a consciousness interface: representational structure, attention mechanisms, and a contested sensitivity to quantum-scale events (whether warm, wet tissue can sustain the requisite coherence is disputed) make brains suitable, a case defended at [brain-interface-boundary](/concepts/brain-interface-boundary/).
 
 ## The Rendering Engine Analogy
 
-The Map's [mind-brain-separation](/concepts/mind-brain-separation/) article develops an updated version using a video-game analogy: the brain functions like a rendering engine, computing visual scenes from data, textures, and lighting models. But the scene is not *produced* by the engine alone—it emerges from interplay between the engine's capabilities and a source of content (consciousness).
+The Map's [mind-brain-separation](/concepts/mind-brain-separation/) article updates the radio with a video-game analogy: the brain as rendering engine, computing scenes from data, textures, and lighting models, with the scene emerging from interplay between the engine's capabilities and a source of content (consciousness).
 
-This explains:
+This organises three puzzles:
 - **Why brain damage produces specific deficits**: rendering failures rather than consciousness failures; the [blur paradox](/topics/perceptual-failure-and-the-interface/) shows the interface becoming visible as rendering degrades.
 - **Why qualia seem irreducible**: the engine processes vectors and matrices; the *experience* of colour and motion exceeds the processing that enables it.
 - **The binding problem**: unity lies in consciousness itself, the brain rendering aspects of it through separate channels—[phenomenal binding](/concepts/binding-problem/) argues classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity.
@@ -137,11 +140,11 @@ This explains:
 
 ### "Where is consciousness if not in the brain?"
 
-Filter theory doesn't require locating consciousness spatially. Consciousness might not be "somewhere" in the way physical objects are, or it might be everywhere—Huxley's "Mind at Large." The theory claims only that consciousness is not *produced by* neural activity.
+Filter theory doesn't require locating consciousness spatially—consciousness might not be "somewhere" as physical objects are, or might be everywhere (Huxley's "Mind at Large"). The theory claims only that neural activity does not *produce* it.
 
 ### "What is the mechanism of transmission?"
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems, selecting among outcomes physics leaves undetermined. The [interface problem](/topics/the-interface-problem/) examines the technical details on both fronts—where in the brain the interface operates and how conscious states map to physical selections. A significant caveat: such consciousness-selection is empirically indistinguishable from random collapse (see [measurement-problem](/concepts/measurement-problem/)).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one: consciousness influences quantum indeterminacies, selecting among outcomes physics leaves undetermined. The [interface problem](/topics/the-interface-problem/) examines where in the brain that operates and how conscious states map to physical selections. A significant caveat: such selection is empirically indistinguishable from random collapse (see [measurement-problem](/concepts/measurement-problem/)).
 
 ### "Why brains specifically?"
 
@@ -149,17 +152,17 @@ The [brain-interface-boundary](/concepts/brain-interface-boundary/) article iden
 
 ### "Isn't 'filtering' just a metaphor?"
 
-Yes—but so is "production": we don't know *how* neural activity would produce experience. Filter theory better accommodates certain findings (psychedelic paradox, NDEs, covert consciousness) while remaining compatible with standard neuroimaging data.
+Yes—but so is "production": we don't know *how* neural activity would produce experience. What filter theory offers across the findings above (psychedelic paradox, NDEs, covert consciousness) is organisational rather than evidential—one vocabulary of channels loosening, tightening, and reconfiguring covers cases a production account handles one at a time—and tidiness of that kind is not confirmation, as the closing weighting note records.
 
 ### "How could we ever distinguish filter from production?"
 
-The enhancement asymmetry stated above—disruption sometimes enriching experience, which naive production models would not expect—stays pattern-level rather than becoming a precise testable prediction, because filter theory supplies no independent criteria for which disruptions should enhance and which degrade. [Bandwidth constraints](/topics/bandwidth-of-consciousness/) supply a further re-description rather than a discriminating test: conscious throughput measures at ~10 bits per second against aggregate neural processing of ~10⁹ (Zheng & Meister 2025), with the bottleneck at conscious access rather than at sensory processing or motor output—Sauerbrei and Pruszynski (2025) accept the ceiling for conscious cognition while showing that unconscious motor control vastly exceeds it. Filter theory reads this naturally—the filter constrains consciousness specifically, not neural processing in general—but Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating, and it reframes the research question rather than favouring filter over production. Consciousness could also, in principle, interface through different physical substrates—not a decisive test, but a research question production models do not naturally raise.
+The enhancement asymmetry stated above stays pattern-level rather than becoming a testable prediction, for the reason given there: filter theory supplies no independent criteria for which disruptions should enhance and which degrade. [Bandwidth constraints](/topics/bandwidth-of-consciousness/) supply a further re-description rather than a discriminating test. Conscious throughput measures at ~10 bits per second against aggregate neural processing of ~10⁹ (Zheng & Meister 2025), with the bottleneck at conscious access rather than at sensory or motor stages—Sauerbrei and Pruszynski (2025) accept the ceiling for conscious cognition while showing that unconscious motor control vastly exceeds it. Filter theory reads this naturally, but Global Workspace Theory makes a conscious-access bottleneck its defining feature, so the datum is shared, not discriminating. Consciousness could also, in principle, interface through different physical substrates—not a decisive test, but a research question production models do not naturally raise.
 
 ### "Stimulation evokes experience—doesn't that make the brain a generator?"
 
 Direct cortical stimulation does more than modulate experience; it produces it. Penfield's [temporal-lobe series](/concepts/penfield-interactionist-dualism/) evoked vivid scenes patients reported re-living; in one patient, stimulating the right angular gyrus repeatably induced current-graded [out-of-body phenomenology](/topics/out-of-body-experiences/) (Blanke et al. 2002); perirhinal and parahippocampal stimulation can elicit [déjà vu](/topics/memory-anomalies/) on demand. An electrode that makes experience appear looks like a generator of content.
 
-What it evokes stays inside the subject's existing repertoire: the Penfield scenes are assembled from the patient's own experiential materials, whatever their veridicality; evoked out-of-body states dislocate a body-model already maintained; evoked déjà vu is a familiarity signal misapplied to the present. Such stimulation is *subtractive*—it shifts what the filter passes—rather than *additive*. [The Map's falsification conditions](/concepts/neural-correlates-of-consciousness/) put the threshold at that seam: modulating or eliminating existing experience leaves the transmission reading intact, whereas reliably creating phenomenal states with genuinely novel content—the induced "new colour"—would not. Moving from evocation to generation is the sufficiency-to-necessity slide [the argument from mechanism](/concepts/argument-from-mechanism/) anatomises, with this stimulation case as its worked instance.
+What it evokes stays inside the subject's existing repertoire: the Penfield scenes are assembled from the patient's own experiential materials, whatever their veridicality; evoked out-of-body states dislocate a body-model already maintained; evoked déjà vu is a familiarity signal misapplied to the present. Such stimulation is *subtractive*—it shifts what the filter passes—rather than *additive*. [The Map's falsification conditions](/concepts/neural-correlates-of-consciousness/) put the threshold at that seam: modulating or eliminating existing experience leaves the transmission reading intact, whereas reliably creating phenomenal states with genuinely novel content—the induced "new colour"—would not. Moving from evocation to generation is the sufficiency-to-necessity slide [the argument from mechanism](/concepts/argument-from-mechanism/) anatomises.
 
 Like the bandwidth data, this constrains without discriminating: production accounts predict repertoire-bounded evoked content just as comfortably, since stimulation recruits stored representations on either reading. The subtractive/additive distinction defeats the objection's inference without converting into a test.
 
@@ -167,9 +170,9 @@ Like the bandwidth data, this constrains without discriminating: production acco
 
 [Illusionists](/concepts/illusionism/) argue that if phenomenal consciousness is an introspective illusion, there is nothing independent to filter. Frankish's (2016) functional-seeming account proposes that what we call "experience" consists entirely of quasi-phenomenal properties: functional states that introspection misrepresents as having phenomenal character.
 
-Filter theory faces this challenge in a distinctive way. The [evidence that motivates filter theory](#evidence-supporting-filter-theory)—psychedelic enhancement, anaesthetic divergence, covert consciousness, terminal lucidity—involves cases where disrupting brain activity changes *what it's like* to be the subject, and subjects describe these in phenomenal terms rather than as merely functional reports.
+Filter theory meets this challenge distinctively. The [evidence that motivates it](#evidence-supporting-filter-theory)—psychedelic enhancement, anaesthetic divergence, covert consciousness, terminal lucidity—turns on disruptions that change *what it's like* to be the subject, which subjects describe in phenomenal rather than merely functional terms.
 
-The psychedelic paradox poses a specific difficulty. Reduced DMN activity correlates with reports of *expanded*, *more vivid* experience, whereas on Frankish's account disrupting neural organisation should produce disrupted functional states rather than states that systematically represent themselves as phenomenally richer. The illusionist can propose that DMN disruption alters the introspective misrepresentation mechanism itself—but this compounds the explanatory burden: we now need an account of why disrupting one neural system produces *systematically enhanced* misrepresentation in another, rather than degraded or chaotic misrepresentation.
+The psychedelic paradox poses a specific difficulty. Reduced DMN activity correlates with reports of *expanded*, *more vivid* experience, whereas on Frankish's account disrupted neural organisation should yield disrupted functional states, not states systematically representing themselves as phenomenally richer. The illusionist can reply that DMN disruption alters the misrepresentation mechanism itself—but that owes an account of why disrupting one system produces *systematically enhanced* rather than chaotic misrepresentation elsewhere.
 
 The filter framework doesn't decisively refute functional seeming, but it makes the illusionist's explanatory task harder: each anomalous case (enhancement from disruption, consciousness without behaviour, cognitive return despite structural damage) requires a separate quasi-phenomenal explanation that strains the parsimony illusionism was supposed to provide.
 
@@ -187,7 +190,7 @@ Filter theory supports and is supported by the Map's [foundational commitments](
 
 ## Parallels in Buddhist Philosophy
 
-Buddhism offers a structurally parallel framework: the five *skandhas* describe experience as constituted through conditions rather than produced by them, and meditation as systematic reduction of mental constraints, culminating in cessation events where even the filter of selfhood drops away. The crucial disanalogy is *anātman*: Buddhism denies any permanent self, whereas filter theory posits independent consciousness. See [Buddhism and Dualism](/concepts/buddhism-and-dualism/).
+Buddhism offers a structurally parallel framework: the five *skandhas* describe experience as constituted through conditions rather than produced by them, and meditation as systematic reduction of mental constraints, culminating in cessation where even the filter of selfhood drops away. The crucial disanalogy is *anātman*—Buddhism denies any permanent self, whereas filter theory posits independent consciousness ([the full comparison](/concepts/buddhism-and-dualism/)).
 
 ## What Filter Theory Does and Doesn't Claim
 
@@ -209,15 +212,10 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite structural damage
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex: six altered states, one multi-channel interface
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS, Letheby's rival, the anaesthesia symmetry
-- [entropic-brain-hypothesis](/concepts/entropic-brain-hypothesis/) — Brain criticality re-read as filter bandwidth
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Designing a discriminating test at the memory-hierarchy tier
 - [penfield-interactionist-dualism](/concepts/penfield-interactionist-dualism/) — Cortical stimulation read against the comparator model
 - [argument-from-mechanism](/concepts/argument-from-mechanism/) — The sufficiency-to-necessity slide, applied symmetrically
-- [binding-problem](/concepts/binding-problem/) — Quantum holism and phenomenal unity
-- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/s conscious-access ceiling
-- [baseline-cognition](/concepts/baseline-cognition/) — Cognition without conscious contribution
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
-- [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Tools extend the filter; consciousness resists
 
 ## References
 
@@ -237,4 +235,6 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+1. Tollock, M., Leontovich, N., Gonzalez, A. & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Supplement_2), igaf122.2914. https://doi.org/10.1093/geroni/igaf122.2914
+1. Vollenweider, F.X., et al. (1997). Positron emission tomography and fluorodeoxyglucose studies of metabolic hyperfrontality and psychopathology in the psilocybin model of psychosis. *Neuropsychopharmacology*, 16(5), 357-372. https://doi.org/10.1016/S0893-133X(96)00246-1
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

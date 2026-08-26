@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T15:25:35+00:00'
+ai_modified: '2026-08-26T16:01:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26 16:01 UTC - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/filter-theory]] (target) + 2 grep-verified propagation loci: [[concepts/near-death-experiences]], [[concepts/altered-states-of-consciousness]]
+- **Task**: P1 **cross-review** (cycle-mapped to deep-review) — the corpus assigns three different evidential weights to the same altered-state observations. Task explicitly forbade a one-file fix.
+- **Reviews**: `reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro.md`, augmented from the same-cycle `reviews/outer-review-2026-08-25-claude-opus-5.md`
+- **Word count**: filter-theory 3491 → 3499 (+8, length-neutral, under hard 3500); near-death-experiences 3379 → 3481; altered-states-of-consciousness 3032 → 3099
+- **Critical issues addressed**: 8
+- **Medium issues addressed**: 6
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-08-26-filter-theory]]
+
+**Verdict adopted: explanatory organisation ≠ evidential confirmation — move every locus to the neutral formulation; do NOT supply the likelihood/complexity ledger the reviewer offered as the alternative.** The ledger would have moved the corpus in the *over-claim* direction. Five loci already state the neutral verdict explicitly and independently — filter-theory's own closing note ("one pattern, not seven"), the apex at L82 ("cannot honestly be cited as multiple independent confirmations … one pattern, not six") and L179 ("constrains the architecture without establishing dualism … preferred by fit rather than forced"), near-death-experiences' symmetry note ("one pattern, not three … cannot be tallied as independent wins"), and edge-states L85 ("the metabolic data discriminates no better"). The reviewer read a corpus-wide split; the grep found **two laggard files against a settled majority**. `apex/altered-states-as-interface-evidence` is the *model* for the verdict, not a defect, and was deliberately left untouched (it is also 5230 words against a 5000 hard ceiling).
+
+**The largest finding was not on the reviewer's list: an empirical-record currency defect in the hub.** `filter-theory` still read "*If* terminal lucidity proves robust under prospective study, filter theory offers a natural interpretation." The prospective study exists and runs the other way. Tollock et al. (2025) — 151 patients, 267 events in 93 of them, episodes predominantly brief and trigger-linked, dramatic terminal subtype only 4.1%, authors framing it mechanism-neutrally — landed in `topics/terminal-lucidity-and-filter-transmission-theory` and the apex in W25 and **never propagated to the concept hub or to `concepts/near-death-experiences`**. Both were still asking, three months on, a question the corpus had already answered against them. Both now carry the prospective result and the constrain-vs-establish verdict; near-death-experiences also gained its first inbound link to the dedicated terminal-lucidity article, which it had been discussing at length without citing. See [[empirical-record-currency-drift]].
+
+**This is the failure mode convergence damping does not catch.** `filter-theory` had a clean no-op deep-review on 2026-07-19 and was genuinely stable *in itself*; what had moved was the ground underneath it. A clean streak is not evidence — ask what moved under the article ([[convergence-damping-keys-on-self-modification-not-dependency-freshness]]).
+
+**Three internal contradictions, each between an article and its own text.** (1) `filter-theory` said filter theory "better accommodates certain findings" four paragraphs after calling the relationship "empirically equivalent to production models" and rating the cluster at "one pattern, not seven". (2) `near-death-experiences` said deathbed visions, shared death experiences and nearing death awareness "**collectively** challenge brain-production models … **all** suggest" — the exact compounding its own symmetry note forbids. (3) `altered-states-of-consciousness` said flow and meditation show something "**impossible if consciousness were merely produced by** … brain processes", where `filter-theory`'s cessation section concedes the opposite — "a self-modifying system can down-regulate the activity sustaining a state (voluntarily falling asleep is the everyday example)". One article called impossible what its own hub calls an everyday example.
+
+**The lead paragraph was the worst locus, and it was not flagged.** `near-death-experiences`' front-loaded, truncation-resilient opening said the findings "**supports** The Unfinishable Map's Dualism and Occam's Razor Has Limits tenets" — flatly contradicted by the body's "NDEs don't *prove* dualism; they raise the cost of the materialist account". The most-read sentence asserted what the article denies. Recast as cost-raising. Two Further Reading labels went the same way ("the transmission model that **explains** the paradox" → "reframes"; "the framework these findings **support**" → "are read against"), as did filter-theory's `description` and lead. See [[navigation-surfaces-carry-unreviewed-claims]].
+
+**Augmentation (a) confirmed and fixed.** Grep found zero hits for `Vollenweider` / `hyperfrontal` / `metabolic` in `filter-theory`. The FDG-PET hyperfrontality counterevidence against the naive "filter doing less work" inference lived **only** in `voids/edge-states-and-void-probes` — the datum that most constrains filter theory was absent from the concept hub. Added in compressed form with the reference.
+
+**Augmentation (b) is moot — re-grepped rather than assumed.** The task warned the `demonstrates` sweep would hit `voids/edge-states-and-void-probes` L161, owned by a sibling P1 tenet-coda task. At current text on disk that file contains **zero** occurrences of `demonstrat*`; today's citation-metadata refine pass shifted it. Nothing to leave alone. The file was not edited from this task and needs no note passed to the sibling.
+
+**One reviewer claim did not survive checking.** `voids/ineffable-encounter-void` was cited as using dualism-favouring language about the same observation families. It does not: L89 ("That the boundary is constitutive is the Map's commitment, carried by dualism") and L153 ("here the tenet does the work rather than the evidence") are already maximally explicit that the tenet, not the evidence, is load-bearing. Flag stale; no edit.
+
+**Six further loci settled by grep, none on the reviewer's list**: filter-theory's "fitting a progressively constricting filter **better than** a generator being powered down" (unledgered comparative), "precisely what filter theory **predicts**" on covert consciousness (production predicts cognitive-motor dissociation equally), "the **signature failure mode of a transmitter**" (organisation asserted as diagnosis), "This **explains**:" → "This **organises three puzzles**:"; plus `altered-states-of-consciousness`' "Filter theory **resolves** the paradox … This **supports** Bidirectional Interaction" and "**strengthens** the filter theory interpretation".
+
+**Citation ledger (§2.4)** — both newly imported cites web-verified at Crossref before insertion, not taken on intra-corpus authority ([[ai_citation_metadata_unreliable]]):
+- Tollock, M., Leontovich, N., Gonzalez, A. & Parnia, S. (2025), *Innovation in Aging* 9(Supplement_2), igaf122.2914, DOI 10.1093/geroni/igaf122.2914 — **real-correct**; all four authors, journal, year, volume, supplement and article number confirmed. Matches the canonical corpus form exactly; family resolution clean, no new variant minted.
+- Vollenweider, F.X., et al. (1997), *Neuropsychopharmacology* 16(5), 357-372, DOI 10.1016/S0893-133X(96)00246-1 — **real-correct**; title, journal, year, volume, issue, pages confirmed.
+- Currency sweep: the terminal-lucidity conditional *was* the currency defect. Fixed. `find_superlative_claims` empty on both edited articles. Inline ↔ References cross-check clean in both directions.
+
+**Length-neutral discipline held on the target.** `filter-theory` started 9 words under its hard ceiling, so every addition was paid for: the "no independent criteria" point stated twice (Core Claim and again in the discriminability objection), the engram paragraph, the simple-organisms overlap with `brain-interface-boundary`, the illusionist section, and four Further Reading entries already wikilinked in the body. Net +8 on a pass that added a whole new counterevidence datum and a prospective study. Every calibration qualifier named in the 2026-07-19 Stability Notes survived the trims ([[condense-regresses-calibration-qualifiers]]).
+
+**Sync verified in both trees** ([[obsidian-only-fix-leaves-defect-live-in-hugo]]): `hugo/content/concepts/{filter-theory,near-death-experiences,altered-states-of-consciousness}.md` all carry the new text; `better accommodates` returns zero in both trees. `validate.py`: 0 invalid. Left uncommitted for the orchestrator.
 
 ## 2026-08-26 15:25 UTC - refine-draft
 
