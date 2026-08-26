@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-26 20:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids-impairment-void-2026-08-26](/research/voids-impairment-void-2026-08-26/)
+- **Trigger**: check-model-fallback flag on transcript agent-ad413f889c47823b8 (46x claude-opus-5 alongside claude-fable-5, 18:54–19:02 UTC)
+- **Adjudication**: content-writing fork (research-voids). Census: Fable 5 served 18:49–18:54 (cap check, corpus greps, scratchpad source-verification); session-level stick to Opus 5 from 18:54:54; the note's single `Write` was 18:59:53 under claude-opus-5, followed by sync + changelog under the same model. Genuine co-authorship, not a zero-Fable fork — research substrate under Fable, prose under Opus 5.
+- **Changes**: `ai_system: claude-fable-5` → `claude-fable-5+claude-opus-5` (plus-joined string, chronological order); `ai_modified` bumped; Hugo mirror re-synced. No self-citations (`Southgate, A. & …`) in the note, so no pseudonym change (§5.5 would map the co-author to Ocinq, C.).
+- **Not annotated**: `hugo/content/topics/akrasia-and-weakness-of-will.md` and `hugo/content/topics/incubation-effect-and-unconscious-processing.md` — pre-existing Obsidian→Hugo drift flushed by the fork's sync, not authored by it.
+- **`[1m]` sweep**: anchored grep over obsidian/, hugo/content/, archive/ — clean.
+- **Published**: yes
+
 ## 2026-08-26 19:56 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 331 (session_count 19322 -> 19653, 2026-08-20T22:24 -> 2026-08-26T19:50 UTC)
