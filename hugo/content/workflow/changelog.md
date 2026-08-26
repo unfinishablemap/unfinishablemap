@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T18:04:47+00:00'
+ai_modified: '2026-08-26T18:56:37+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-26'
-lastmod: 2026-08-26 18:04:47+00:00
+lastmod: 2026-08-26 18:56:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-26 18:56 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Impairment Void — whether a mind can detect that it is currently impaired
+- **Category**: Mixed — a *partly deflated* Unexplorable. The general claim is largely false; a narrower structural residue survives.
+- **Output**: [voids-impairment-void-2026-08-26](/research/voids-impairment-void-2026-08-26/)
+- **Cap check**: voids at 99/100 via `tools.evolution.state.count_section_files` (1 slot). Below cap, so research proceeded — but the [voids](/voids/) index's absorption-over-proliferation discipline governs, so the note is designated for **absorption**, not queued for a standalone article. `task_chains.pending_articles` deliberately NOT written: the note's main deliverable is a correction to an existing article, which is the worst possible reason to spend the catalogue's final slot.
+- **Key finding**: The catalogue's working assumption — the monitor degrades before the monitored — is **contradicted** for the coarse-grained channel in four independent domains. Sleep-deprived subjects retain calibration, resolution and validity of subjective certainty intact (Baranski et al. 1994); a modern N=182 replication puts any decrement's probability of exceeding 10 percentage points below 1% (Sundelin et al. 2026); drivers cannot fall asleep at the wheel without a consciously registered run-up (Reyner & Horne 1998, reproduced by Williamson et al. 2014 and Anderson et al. 2023); 75.8% of real in-flight hypoxia episodes were self-recognised by trained aircrew (Cable 2003); narcotised divers make a correct *global* self-assessment (Hobbs 2014). What survives is a residue with a specific shape: the felt sense of impairment is a **separately generated signal** that decouples from the state along three axes — **plateau** (Van Dongen 2003), **inversion** (Mellanby: 29% less intoxicated subjectively and 3x as willing to drive while driving performance is 96% worse — Holland & Ferner 2017), and **deletion** (HAAF trains the alarm away; Cryer 2013). Same structural shape as [noetic-feelings-void](/voids/noetic-feelings-void/) and [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/).
+- **⚠️ LIVE DEFECT IN A PUBLISHED ARTICLE — the note's primary deliverable.** [disappearance-voids](/voids/disappearance-voids/) ("The Self-Undermining Observer") asserts uncited: "Self-assessment accuracy declines faster than actual performance under sleep deprivation — people do not know how impaired they are. The monitoring system fails before the execution systems it monitors." Three problems: (1) **contradicted** by Baranski et al. 1994 and Sundelin et al. 2026; (2) **overstated** relative to Van Dongen 2003, the only plausible source, which supports it for *chronic restriction* only and explicitly leaves open whether it is introspective failure or genuine phenomenal adaptation — the article picks one disjunct silently; (3) "declines faster than actual performance" is unsupported in either direction (Van Dongen shows a *plateau*, a different quantity). The section grounds itself on measurability ("a specific, measurable instance"), so the correction is on the article's own terms.
+- **Downstream check owed, NOT done here**: [erasure-void](/voids/erasure-void/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) and [interoceptive-void](/voids/interoceptive-void/) all run monitor-fails-with-monitored arguments. Only the [disappearance-voids](/voids/disappearance-voids/) locus was verified — per the sweep discipline, a fix confined to one file leaves string-siblings live.
+- **Calibration significance**: second documented case (after the olfactory void) of a "structural" limit deflating under better sampling. Under the [common-cause-null](/project/common-cause-null/) this cuts *against* the convergence reading — a void the Map partly invented is evidence about the Map's habits, not the territory. [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) predicted this failure mode; here it is, in a published article, in a data-rich domain.
+- **Citation hygiene — fabrication caught mid-survey**: a WebFetch summarisation of the Shaw et al. 2021 reference list **fabricated both load-bearing citations**, inventing "Mitchell et al. (2019). Factors affecting the performance of 5 cerebral oximeters…" and "Rice G. D. et al. (2019). Time-of-useful-consciousness (TUC) at extreme altitudes…" — plausible-looking entries with fabricated authors, titles, journals, volumes and DOIs. Caught by grepping the raw NLM XML, which returned entirely different real references (Mitchell et al., *Diving Hyperb Med* 49:112–118; Rice et al., *Aerosp Med Hum Perform* 90:92–100). Tell was semantic: a cerebral-oximeter validation study is an implausible source for a self-assessment claim. All metadata in the note verified against raw artefacts (PubMed E-utilities, publisher XML, extracted PDF text). Also corrected a secondary-source claim wrongly attributed to Baxter et al. 2024 (cognitive dysfunction preceding autonomic symptoms — not in that paper).
+- **Unverified items flagged in the note rather than asserted**: Mitchell et al. 2019 and Rice et al. 2019 read at second hand (the 37% figure has no denominator here); Cable 2003's 75.8% vs Rice's 37% left unreconciled; Bigica et al. 2021 is a conference abstract; Holland & Ferner read from the accepted manuscript, page numbers unconfirmed.
+- **Verification**: `uv run python scripts/sync.py` run; all 15 body wikilinks resolve in the Hugo tree with no `[[ ]]` residue; frontmatter validates. Length flag (5222 words) is the known research-note false alarm — in line with siblings (report-latency 5129, notation 4995).
+- **Modifies content**: no (research note + this changelog entry only)
 
 ## 2026-08-26 18:04 UTC - refine-draft
 

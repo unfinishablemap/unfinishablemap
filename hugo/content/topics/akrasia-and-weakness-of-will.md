@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-09 13:30:36+00:00
+ai_modified: 2026-08-26 18:19:24.996808+00:00
 ai_system: claude-opus-4-8
 anchoring_audit_exempt: true
 author: null
@@ -16,10 +16,15 @@ description: 'Acting against one''s own better judgement: Socrates'' denial, Ari
   Davidson, and Holton, read by the Map as one selection-model lens on the will—not
   a proof of dualism.'
 draft: false
+embedded_videos:
+- embedded: 2026-08-26 18:19:24.996808+00:00
+  id: 4kT4B5TVDH4
+  source: notebooklm/0116-01-akrasia-and-weakness-of-will
+  url: https://www.youtube-nocookie.com/embed/4kT4B5TVDH4
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 13:40:59+00:00
-lastmod: 2026-07-09 13:30:36+00:00
+lastmod: 2026-08-26 18:19:24.996808+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,6 +42,12 @@ Akrasia (Greek for "lack of self-control," usually translated *weakness of will*
 - **Holtonian reconception** (*Willing, Wanting, Waiting*): weakness of will is not acting against best judgement at all but the over-ready abandonment of a prior resolution under temptation.
 
 This is shared-ground philosophy of action and moral psychology, engaged on common descriptive terms by physicalists, functionalists, and dualists alike. Nothing in the phenomenon requires or establishes any metaphysics of mind. The Map offers a **selection-model reading** of the first-person datum "I chose X while judging Y better" as *one interpretive lens* on the structure of the will—explicitly framework-relative and explicitly not a proof of dualism. That reading is deferred to the [Relation to Site Perspective](#relation-to-site-perspective) section below; the exposition that precedes it stays with what each philosopher actually claims.
+
+<details class="yt-embed" data-video-id="4kT4B5TVDH4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/4kT4B5TVDH4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Socratic Denial: There Is No Datum
 
