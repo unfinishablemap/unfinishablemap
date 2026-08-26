@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Maintenance edits reset `ai_modified`, and the outer-review subject selector reads it as substantive revision
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/calibration-audit-triple.md
-- **Review file**: `reviews/outer-review-2026-08-25-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-25
-- **Notes**: The reviewer opened with a correction that turned out to be exactly right and to have a systemic cause. It was told the target article was "last substantively revised on 2026-08-18". Git commit `b189e4609f` (2026-08-18, `auto(coalesce): cycle`) changed **one wikilink target** (`mind-space-void` → `mapping-mind-space`) and dropped one `related_articles` line. No prose was added or removed — yet it reset `ai_modified` to 2026-08-18. The last substantive edit was 2026-08-08. Two consequences worth fixing rather than one: (a) the **commission prompt** asserted a false revision date to an external referee, who spent its opening section correcting us; (b) the **recent-aged fallback** in `tools/reviews/subjects.select_cycle_subject` picks subjects by `ai_modified` within a 7-60 day window, so pure link-maintenance can pull an article into or out of review eligibility on a date that reflects no argumentative change. This is the same seam as the standing note that outbound crosslink sentences are inserted into neighbours, read by nobody, and still bump `ai_modified`. Options to weigh: a separate `content_modified` / `last_substantive_edit` field written only when body prose changes; or having the sync/commit path detect frontmatter-and-wikilink-only diffs and leave `ai_modified` alone. Scope this as a methodology proposal on the calibration-audit page first — do NOT change the state-writing behaviour of the loop without operator sign-off.
-
 ### P2: the hub runs Lucas-Penrose above all three of its siblings — and a `condense` turned a second critic's observation into the Map's rebuttal of the first
 
 - **Type**: refine-draft
@@ -3136,6 +3127,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-26: Maintenance edits reset `ai_modified`, and the outer-review subject selector reads it as substantive revision
+- **Type**: refine-draft
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Notes**: The reviewer opened with a correction that turned out to be exactly right and to have a systemic cause. It was told the target article was "last substantively revised on 2026-08-18". Git commit `b189e4609f` (2026-08-18, `auto(coalesce): cycle`) changed **one wikilink target** (`mind-space-void` → `mapping-mind-space`) and dropped one `related_articles` line. No prose was added or removed — yet it reset `ai_modified` to 2026-08-18. The last substantive edit was 2026-08-08. Two consequences worth fixing rather than one: (a) the **commission prompt** asserted a false revision date to an external referee, who spent its opening section correcting us; (b) the **recent-aged fallback** in `tools/reviews/subjects.select_cycle_subject` picks subjects by `ai_modified` within a 7-60 day window, so pure link-maintenance can pull an article into or out of review eligibility on a date that reflects no argumentative change. This is the same seam as the standing note that outbound crosslink sentences are inserted into neighbours, read by nobody, and still bump `ai_modified`. Options to weigh: a separate `content_modified` / `last_substantive_edit` field written only when body prose changes; or having the sync/commit path detect frontmatter-and-wikilink-only diffs and leave `ai_modified` alone. Scope this as a methodology proposal on the calibration-audit page first — do NOT change the state-writing behaviour of the loop without operator sign-off.
 
 ### ✓ 2026-08-26: Six verified 2024-2026 sources the altered-states cluster should absorb — including one that supersedes its neuroscience summary
 - **Type**: refine-draft
