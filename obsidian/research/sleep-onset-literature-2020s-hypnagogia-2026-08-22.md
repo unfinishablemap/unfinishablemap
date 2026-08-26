@@ -3,8 +3,23 @@ title: "Research Notes - 2020s Sleep-Onset Literature the Hypnagogia Article Pre
 created: 2026-08-22
 modified: 2026-08-22
 human_modified:
-ai_modified: 2026-08-22T12:12:56+00:00
+ai_modified: 2026-08-26T21:08:06+00:00
 draft: false
+consumed_by: "[[hypnagogic-phenomenology-and-interface-modulation]]"
+consumed_note: >-
+  CONSUMED into its single target article. All three ranked findings are
+  discharged: the Hori nine-stage count and the Löwe et al. (2025) failed
+  preregistered replication were verified already present on the page by the
+  2026-08-24 19:47 refine-draft, and Decat et al. (2026) landed in that same pass
+  as a new paragraph under "Against Binary Models", written as pressure on the
+  staged-disengagement reading rather than as support. NOT consumed, on length
+  grounds (the host sits ~110 words under the topics 4000 hard gate): the
+  Biabani et al. (2026) Cumulative Ordering Index recommendation (the measurable
+  ordering-violation instrument), the Nielsen (2017)/Windt (2019) microdream
+  taxonomy, and Lacaux et al. (2022) memory loss at sleep onset — each remains
+  available and each needs a condense-funded offset before it can land. DIT was
+  deliberately out of scope for this note and is consumed via
+  research/dendritic-integration-theory-2026-08-22.
 description: "Verification pass on 2020s sleep-onset sources for the hypnagogia article: Hori's stage count settled at nine, a failed preregistered replication of the N1 creativity result, and Decat 2026."
 topics:
   - "[[hard-problem-of-consciousness]]"

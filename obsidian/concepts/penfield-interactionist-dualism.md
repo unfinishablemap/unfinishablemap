@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-02T18:47:00+00:00
+ai_modified: 2026-08-26T21:08:06+00:00
 last_deep_review: 2026-07-29T02:43:26+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts: ["interactionist-dualism", "bidirectional-interaction", "objections-to
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5
 ai_generated_date: 2026-07-12
 last_curated:
 ---
@@ -59,6 +59,12 @@ This account handles Penfield's headline datum directly and on purely physical t
 
 The upshot is that Penfield's evidence *underdetermines* the choice between dualism and the comparator account. It converts his datum from "proof of a non-physical will" into "a fact about the machinery of predictive agency" without strain. That is why the honest verdict is: suggestive, not decisive.
 
+## A physicalist convergence on Eccles's dendron
+
+Eccles's anatomy has since been reached from the other side. Dendritic Integration Theory, stated by Bachmann, Suzuki and Aru (2020), associates consciousness with the integration of signal streams arriving at the apical and basal compartments of layer-5 pyramidal neurons—the same cell class, and the same apical dendrites, that Eccles bundled into the dendron in 1990. Its anchoring experiment is Suzuki and Larkum (2020): three different anaesthetics have the same disruptive effect on signalling along those apical dendrites in mice, and inactivating higher-order thalamus in the awake animal reproduces the decoupling. Nobody in this programme has any use for psychons; the convergence was reached thirty years later on cellular neuroscience alone.
+
+It cuts both ways, and the second edge is the sharper. In Eccles's favour, his siting of the interface was evidently not arbitrary or theory-driven: a physicalist research programme picked out the same compartment as the site of conscious integration. Against him, Dendritic Integration Theory is a complete physical mechanism for that locus. It accounts for the apical–somatic coupling with no psychon anywhere, so the convergence removes an explanatory job the psychon was invented to do rather than supplying evidence that a psychon does it. The theory's authors are careful—"we are not claiming that no other theory can explain these properties"—and the anaesthesia result is stated conditionally on feedback signalling running predominantly through apical dendrites. That restraint does not hand the job back: the theory constrains any interactionist story pitched at the pyramidal cell, Eccles's included, without settling what makes the gated activity experienced. This article located no published critique of the theory, which is a failed search rather than evidence that none exists. The Map's wider treatment of anaesthesia is at [[anaesthesia-and-the-consciousness-interface]].
+
 ## Relation to Site Perspective
 
 Penfield is congenial to the Map. His clinical case bears directly on **Tenet 1** (consciousness and will are not reducible to physical mechanism) and **Tenet 3** (the mind exercises downward, bidirectional causal influence—the "programmer" directing the "computer"). The Map values him because his is a *clinical, first-person-surgical* case for the irreducibility of the will rather than an armchair one, and because it diversifies the Map's interactionist evidence base beyond the [[the-interface-problem|Eccles/quantum-interface line]].
@@ -75,6 +81,8 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 - [[the-interface-problem]] — The Eccles-style mechanism side, complementary to Penfield's mechanism-agnostic clinical side
 - [[evidential-status-discipline]] — Why congenial clinical evidence is presented as suggestive rather than decisive
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — A modern clinical evidence stream in the same spirit
+- [[anaesthesia-and-the-consciousness-interface]] — The anaesthesia evidence that Dendritic Integration Theory, the physicalist rival at Eccles's dendron, rests on
+- [[biological-computationalism]] — A substrate-dependence proposal co-authored by Aru, one of Dendritic Integration Theory's authors
 
 ## References
 
@@ -86,6 +94,8 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 1. Eccles, J. C. (1990). "A unitary hypothesis of mind-brain interaction in the cerebral cortex." *Proceedings of the Royal Society of London B: Biological Sciences*, 240(1299), 433-451. doi:10.1098/rspb.1990.0047
 1. Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361. doi:10.1073/pnas.89.23.11357
 1. Eccles, J. C. (1994). *How the Self Controls Its Brain*. Springer.
+1. Bachmann, T., Suzuki, M., & Aru, J. (2020). "Dendritic integration theory: A thalamo-cortical theory of state and content of consciousness." *Philosophy and the Mind Sciences*, 1(II), 2. doi:10.33735/phimisci.2020.II.52
+1. Suzuki, M., & Larkum, M. E. (2020). "General Anesthesia Decouples Cortical Pyramidal Neurons." *Cell*, 180(4), 666–676.e13. doi:10.1016/j.cell.2020.01.024
 1. Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (2002). "Abnormalities in the awareness of action." *Trends in Cognitive Sciences*, 6(6), 237-242.
 1. Synofzik, M., Vosgerau, G., & Newen, A. (2008). "Beyond the comparator model: A multifactorial two-step account of agency." *Consciousness and Cognition*, 17(1), 219-239.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

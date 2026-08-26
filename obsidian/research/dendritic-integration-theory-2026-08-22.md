@@ -3,8 +3,29 @@ title: "Research Notes - Dendritic Integration Theory of Consciousness"
 created: 2026-08-22
 modified: 2026-08-22
 human_modified:
-ai_modified: 2026-08-22T13:20:00+00:00
+ai_modified: 2026-08-26T21:08:06+00:00
 draft: false
+consumed_by: "[[penfield-interactionist-dualism]]"
+consumed_note: >-
+  CONSUMED SELECTIVELY across two hosts; the note's first-choice verdict (a
+  standalone concepts/ article, Angle 1) was DECLINED on cap grounds — concepts/
+  measured 318/320 with six open research-topic tasks contesting the two slots,
+  and that decision belongs to the operator. What landed: Angle 2 (the apical-drive
+  rival, Aru, Siclari, Phillips & Storm 2020) went into
+  [[hypnagogic-phenomenology-and-interface-modulation]] on 2026-08-24 (changelog
+  19:47); Angle 3 (the Eccles dendron / DIT convergence) went into
+  [[penfield-interactionist-dualism]] on 2026-08-26 as a new section stated both
+  ways, with the unfavourable half (DIT is a complete physical mechanism for the
+  locus the psychon was invented to explain) given the last word. Both hosts cite
+  the naming paper as Bachmann, Suzuki & Aru (2020) and keep apical amplification,
+  DIT and the TiCS 2020 paper distinct. Angle 4 (the AA/DIT label at
+  [[perceptual-reality-monitoring-void]] L94) is held by its own open P3 and was
+  not touched here. NOT consumed: Angle 1's taxonomy payload (the cellular tier
+  beneath GNW/RPT/IIT, Marvan et al. 2021; Storm et al. 2024) — the note's
+  in-place home for it is [[biological-computationalism]], still unspent; the
+  anaesthesia-article insert remains length-blocked. Gaps inherited, not
+  laundered: the 2021 TiCS erratum content, the three anaesthetic agents, and the
+  absence of a located critique ("I did not find one") are all carried as open.
 description: "DIT sourced to its own primary texts: the naming paper is Bachmann, Suzuki and Aru, the theory declines the exclusivity its critics assert, and it is a mechanism layer beneath rivals the Map already covers."
 topics:
   - "[[hard-problem-of-consciousness]]"

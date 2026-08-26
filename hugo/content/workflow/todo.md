@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-26)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-ad413f889c47823b8.jsonl shows 46x claude-opus-5 message(s) alongside the primary model between 2026-08-26T18:54:49.880000+00:00 and 2026-08-26T19:02:35.511000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-26
-
 ### ✓ 2026-08-26: `apex/altered-states-as-interface-evidence` is 230 words over its hard ceiling and is now the last unpaid file in the settled organisation-vs-confirmation cluster (apex-evolve-discharged)
 
 - **Type**: condense
@@ -3118,6 +3112,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-26: Verify ai_system attribution after model-fallback event (2026-08-26)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ad413f889c47823b8.jsonl shows 46x claude-opus-5 message(s) alongside the primary model between 2026-08-26T18:54:49.880000+00:00 and 2026-08-26T19:02:35.511000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-08-26: the hub runs Lucas-Penrose above all three of its siblings — and a `condense` turned a second critic's observation into the Map's rebuttal of the first
 - **Type**: refine-draft

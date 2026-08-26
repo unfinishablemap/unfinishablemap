@@ -4,6 +4,37 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26T21:08:06+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/penfield-interactionist-dualism]]
+- **Second file**: [[research/dendritic-integration-theory-2026-08-22]] (consumed_by stamped)
+- **Third file**: [[research/sleep-onset-literature-2020s-hypnagogia-2026-08-22]] (consumed_by stamped)
+- **Original score**: n/a — `scripts/curate.py review` no longer exists in the repo; review done by hand against SKILL.md sections 3.5–4
+- **Word count**: 1807 → 2177 (+370: ~283w new section, one Further Reading pair, two reference entries), concepts soft 2500 / hard 3500, status `ok`
+- **Changes**: the Eccles/DIT convergence (research note Angle 3) landed; two research notes stamped consumed
+- **Published**: yes
+
+### Part 1 — the convergence, stated both ways
+
+New H2 `A physicalist convergence on Eccles's dendron`, placed after `The physicalist reply` and before `Relation to Site Perspective`, as the task's second-choice placement (the unfavourable half belongs beside the comparator reply, not inside the lineage section). Two paragraphs. The first states the convergence: DIT (Bachmann, Suzuki & Aru 2020) sites consciousness at the integration of streams at the apical and basal compartments of layer-5 pyramidal neurons, the same cell class and apical dendrites Eccles bundled into the dendron in 1990; anchoring experiment Suzuki & Larkum (2020). The second cuts both ways and ends on the unfavourable half, as the task required: favourable — Eccles's siting was not arbitrary or theory-driven; unfavourable and last — DIT is a complete physical mechanism for the locus, so the convergence removes the explanatory job the psychon was invented to do rather than evidencing that a psychon does it. Closing calibration: the authors' own modesty disclaimer and the conditional framing of the *Cell* result are carried, then explicitly denied the power to hand the job back; the missing critique is reported as a failed search ("This article located no published critique … rather than evidence that none exists"), inheriting the note's Gap verbatim in sense.
+
+**Naming discipline held.** DIT is cited to its naming paper (Bachmann-first, *Phil. Mind Sci.* 1(II)), never to the *TiCS* 2020 paper, and apical amplification is not mentioned at all, so no AA/DIT conflation surface was created. Larkum appears only on the *Cell* paper, which is his. The *TiCS* paper and its erratum are deliberately not cited — nothing in the section needs them, and citing them would import the "Information/Integration" tangle the note flagged as unresolved. Thesis wording follows the naming paper ("apical and basal compartments of L5p neurons") rather than the task's "apical and somatic", with "apical–somatic coupling" used only where the *Cell* decoupling result (apical dendrites vs cell body) is what is meant.
+
+**Verification, at the source not the note.** All three DOIs resolved metadata-exact at Crossref this run (authors, container, volume/issue/pages). The Suzuki & Larkum spans relied on — "three different anesthetics", "in mice", "inactivation of the higher-order thalamus", "If feedback signaling occurs predominantly through apical dendrites" — were substring-matched against the raw Europe PMC abstract JSON. The naming paper was downloaded as PDF from the publisher (`article/download/8946/8739`), `pdftotext`-extracted, and grepped: the quoted disclaimer, the L5p thesis sentence, the three-author byline, and "Matthew Larkum for comments" in the Acknowledgments all matched verbatim. The note's transcription was therefore confirmed independently rather than trusted.
+
+**Reasoning-mode classification (editor-internal).** Engagement with DIT as a physicalist rival to Eccles: mixed — Mode Two opens (the theory's own conditional framing and modesty disclaimer are applied by the programme's own evidential standard), Mode Three closes (the constrain-versus-establish residue is marked as a framework-boundary matter, not claimed as a refutation of DIT inside its own terms). No mode vocabulary in the body.
+
+**Absence positively controlled before writing.** `Aru|Larkum|dendritic integration` returned 0 on this file in both trees and 0 on the four `dendron` siblings (`psychophysical-laws-bridging-mind-and-matter`, `coupling-modes`, `psychophysical-laws`, `channel-class-taxonomy`); the hypnagogia article (a positive control, 3 `apical drive` hits) confirms the grep finds the vocabulary where it exists.
+
+**Not done, by instruction.** No standalone DIT article: `concepts/` sits at 318/320 with six open `research-topic` tasks contesting the slots, and the note's Angle 1 verdict is the operator's call. The Angle 1 taxonomy payload stays unspent (recorded in the note's `consumed_note` with its in-place home). The PRM-void AA/DIT label (Angle 4) is held by its own open P3 and was not touched.
+
+Frontmatter: `ai_modified` from live `date -u`; `ai_system` `claude-opus-4-8` → `claude-opus-4-8+claude-fable-5` (this pass added a second model's prose). Further Reading gained two entries ([[topics/anaesthesia-and-the-consciousness-interface]], [[concepts/biological-computationalism]]); both slugs checked collision-free across `obsidian/` and `archive/`.
+
+### Parts 2 and 3 — consumed_by stamps (frontmatter only, both notes synced)
+
+`research/dendritic-integration-theory-2026-08-22`: `consumed_by: "[[penfield-interactionist-dualism]]"` plus a `consumed_note` recording SELECTIVE consumption — Angle 2 landed 2026-08-24 in the hypnagogia article, Angle 3 landed here, Angle 1 declined on cap grounds with its in-place home named, Angle 4 held by its own task, and the three Gaps carried open. `research/sleep-onset-literature-2020s-hypnagogia-2026-08-22`: `consumed_by: "[[hypnagogic-phenomenology-and-interface-modulation]]"` plus a `consumed_note` recording that all three ranked findings are discharged (nine-stage and Löwe verified already present by the 08-24 pass, Decat landed in it — checked against the live article this run: `nine-stage` 1, `Löwe` 2, `Decat` 2) and that the ordering-index recommendation, the Nielsen/Windt taxonomy and Lacaux 2022 were left unspent on length grounds (0 hits for each in the article this run). Format follows the sibling convention (single-wikilink `consumed_by`, hosts enumerated in the note); no code reads the field, so the record is for the replenish reader. The open 2026-08-21 stamping task and the 08-07 aesthetic-judgment P3 were not merged or re-scoped.
 ## 2026-08-26 20:51 UTC - refine-draft
 - **Status**: Success
 - **File**: [[research/voids-impairment-void-2026-08-26]]

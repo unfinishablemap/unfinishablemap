@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-22
-ai_modified: 2026-08-22 12:12:56+00:00
+ai_modified: 2026-08-26 21:08:06+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
 - '[[sleep-and-consciousness]]'
 - '[[altered-states-of-consciousness]]'
 - '[[coupling-modes]]'
+consumed_by: '[[hypnagogic-phenomenology-and-interface-modulation]]'
+consumed_note: 'CONSUMED into its single target article. All three ranked findings
+  are discharged: the Hori nine-stage count and the Löwe et al. (2025) failed preregistered
+  replication were verified already present on the page by the 2026-08-24 19:47 refine-draft,
+  and Decat et al. (2026) landed in that same pass as a new paragraph under "Against
+  Binary Models", written as pressure on the staged-disengagement reading rather than
+  as support. NOT consumed, on length grounds (the host sits ~110 words under the
+  topics 4000 hard gate): the Biabani et al. (2026) Cumulative Ordering Index recommendation
+  (the measurable ordering-violation instrument), the Nielsen (2017)/Windt (2019)
+  microdream taxonomy, and Lacaux et al. (2022) memory loss at sleep onset — each
+  remains available and each needs a condense-funded offset before it can land. DIT
+  was deliberately out of scope for this note and is consumed via research/dendritic-integration-theory-2026-08-22.'
 created: 2026-08-22
 date: &id001 2026-08-22
 description: 'Verification pass on 2020s sleep-onset sources for the hypnagogia article:
@@ -16,7 +28,7 @@ description: 'Verification pass on 2020s sleep-onset sources for the hypnagogia 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-22 12:12:56+00:00
+lastmod: 2026-08-26 21:08:06+00:00
 modified: *id001
 related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
