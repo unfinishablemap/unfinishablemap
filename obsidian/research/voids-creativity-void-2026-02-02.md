@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Creativity Void"
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-05T14:19:00+00:00
+ai_modified: 2026-08-26T21:53:11+00:00
 draft: false
 target_section: voids
 topics:
@@ -44,7 +44,7 @@ The creativity void concerns the mysterious origin of novel ideas—where creati
 - **URLs**: [Poincaré](https://www.themarginalian.org/2013/08/15/henri-poincare-on-how-creativity-works/), [Wallas](https://www.themarginalian.org/2013/08/28/the-art-of-thought-graham-wallas-stages/), [Hadamard](https://press.princeton.edu/books/paperback/9780691029313/the-mathematicians-mind)
 - Poincaré (1908), Wallas (1926), and Hadamard (1945) converge on the same four-stage model: Preparation, Incubation, Illumination, Verification
 - The incubation stage is a void—work happens *somewhere* consciousness cannot observe, and ideas emerge with "sudden illumination" that feels like reception rather than production
-- Poincaré: unconscious combinations are like "hooked atoms"—most are useless, but "a sort of aesthetic sense" selects the harmonious ones before they reach consciousness
+- Poincaré: unconscious combinations are like "hooked atoms"—most are useless, but a "special esthetic sensibility" acting as "the delicate sieve" selects the harmonious ones before they reach consciousness
 - Hadamard interviewed Einstein, Polya, and others; all reported the same phenomenology: struggle, then insight arriving suddenly during unrelated activity
 - Gauss on an arithmetical theorem: "Like a sudden flash of lightning, the riddle happened to be solved."
 - **Tenet alignment**: Supports Occam's Razor Has Limits—"the unconscious" labels but doesn't explain the creative process

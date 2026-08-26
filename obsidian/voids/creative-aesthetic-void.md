@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-08-17T15:25:53+00:00
+ai_modified: 2026-08-26T21:52:01+00:00
 draft: false
 last_deep_review: 2026-06-27T00:41:05+00:00
 topics:
@@ -76,7 +76,7 @@ Each marks a place where consciousness has partial access to something it cannot
 
 ## The Imagination Bound
 
-Hume's Copy Principle: all ideas are copies of prior impressions. Imagination can "compound, transpose, augment, or diminish" existing materials but cannot generate new phenomenal primitives. His Missing Shade of Blue maps the contour rather than breaking it—imagination interpolates within existing dimensions but cannot create new ones.
+Hume's Copy Principle: all ideas are copies of prior impressions. Imagination is confined to "compounding, transposing, augmenting, or diminishing" existing materials but cannot generate new phenomenal primitives. His Missing Shade of Blue maps the contour rather than breaking it—imagination interpolates within existing dimensions but cannot create new ones.
 
 Nagel's bat crystallises the structural limit. We can describe echolocation physically and model its information content; we cannot imagine its experiential character. The mind substitutes something from its own palette—a dim visual scene, a tactile sense of space—labelled "sonar." What fills imagination is human experience wearing a bat costume. McGinn's [[mysterianism|cognitive closure]] generalises: the space of possible thoughts has structural holes no recombination reaches.
 
@@ -92,7 +92,7 @@ The aphantasia-hyperphantasia spectrum complicates the picture: aphantasics mana
 
 ## The Sublime and Structural Failure
 
-Kant's *sublime* grounds the aesthetic face. Confronting vast mountains or infinite starfields, the mind attempts totality and cannot. This failure is not accidental but structural—sublimity is defined by exceeding cognitive capacity. The mathematically sublime arises from uncomprehended infinitude; the dynamically sublime from overwhelming power contemplated from safety. In both, "a faculty of the mind surpasses every standard of Sense"—the aesthetic void opens precisely where sensibility fails but meaning persists.
+Kant's *sublime* grounds the aesthetic face. Confronting vast mountains or infinite starfields, the mind attempts totality and cannot. This failure is not accidental but structural—sublimity is defined by exceeding cognitive capacity. The mathematically sublime arises from uncomprehended infinitude; the dynamically sublime from overwhelming power contemplated from safety. In both, the mind discovers what Kant calls "a faculty of mind which surpasses every standard of Sense"—the aesthetic void opens precisely where sensibility fails but meaning persists.
 
 ## Three Limits on Aesthetic Content
 
@@ -120,13 +120,13 @@ Recurring features across accounts:
 
 ## The Opacity of Creative Process
 
-Creative insight arrives from somewhere consciousness cannot observe. Poincaré called it "the appearance of sudden illumination, a manifest sign of long, unconscious prior work." Wallas identified four stages: preparation, incubation, illumination, verification. Hadamard confirmed the pattern through interviews with mathematicians including Einstein.
+Creative insight arrives from somewhere consciousness cannot observe. Poincaré called it the "appearance of sudden illumination, a manifest sign of long, unconscious prior work." Wallas identified four stages: preparation, incubation, illumination, verification. Hadamard confirmed the pattern through interviews with mathematicians including Einstein.
 
 Distinctive features:
 
 **Suddenness.** Insights arrive complete, not gradually. Kounios and Beeman's EEG studies found a burst of gamma activity in the right anterior temporal lobe immediately preceding conscious illumination—the neural signature of something completed becoming available.
 
-**Certainty before verification.** The insight feels right before checking. Poincaré noted that correct solutions possess "a sort of aesthetic sense" marking them as worthy of attention. Something has already evaluated, not merely generated.
+**Certainty before verification.** The insight feels right before checking. Poincaré noted that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful combinations as worthy of attention. Something has already evaluated, not merely generated.
 
 **Surprise at one's own thought.** Creators are startled by their insights—paradoxical if they produced them. The felt externality suggests reception from a source consciousness cannot access.
 

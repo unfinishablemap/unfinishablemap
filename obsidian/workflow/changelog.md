@@ -5,6 +5,13 @@ ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-26T21:52:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/creative-aesthetic-void]]
+- **Original score**: n/a (quote-fidelity pass; `curate.py review` skipped — task scoped to verbatim spans)
+- **Changes**: Kant L95 fixed to Bernard's verbatim "a faculty of mind which surpasses every standard of Sense" (re-verified two ways at Project Gutenberg #48433, single-word grep + whitespace-normalized; article had inserted "the" and dropped "which"); added bridge "the mind discovers what Kant calls" so "which" reads inside the sentence. Reference 7 title spelling *Judgment* left as-is: corpus-wide house style (17 live+archive files use *Judgment*, 0 use Bernard's *Judgement*; 9 pair *Judgment* with "Trans. J.H. Bernard"), so not a per-article error. Bonus fidelity pass on the other named-thinker quotes against raw Gutenberg texts: Hume (#9662) "compound, transpose, augment, or diminish" -> verbatim "compounding, transposing, augmenting, or diminishing"; Poincaré/Halsted (#39713) leading "the" moved outside the quotation marks ("this appearance of sudden illumination..." in source); Poincaré "a sort of aesthetic sense" returned 0 hits in Halsted -> re-anchored on verified "special esthetic sensibility" / "the delicate sieve". Verified verbatim and untouched: Schopenhauer "will-less perception" (Haldane & Kemp, #38427 §38), Poincaré "blindly formed by the subliminal self... only certain ones are harmonious" (legitimate ellipsis). Nagel/McGinn/James are title-only citations, no quoted spans. Word-neutral (+~8w on 2212w). Sweep of both trees incl. archive: the same drifted Hume/Poincaré spans (not the Kant one) also sat in the archived predecessors `archive/voids/imagination-and-creativity-void.md`, `archive/voids/creativity-void.md`, `archive/voids/aesthetic-void.md` and in `research/voids-creativity-void-2026-02-02.md`; identical verified replacements applied there (still-served URLs), no live article affected. Hume "though our thought seems to possess this unbounded liberty..." in the archive file verified verbatim, untouched.
+- **Published**: yes
+
 ## 2026-08-26T21:23:03+00:00 - deep-review
 
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-08-26T21:53:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ The pattern of failure is informative. Imagination operates like a language with
 
 ## Hume's Confinement
 
-David Hume identified the fundamental constraint: "though our thought seems to possess this unbounded liberty, we shall find, upon a nearer examination, that it is really confined within very narrow limits." His Copy Principle holds that all ideas are copies of prior impressions. Imagination can "compound, transpose, augment, or diminish the materials afforded us by the senses and experience"---but it cannot generate genuinely new phenomenal primitives.
+David Hume identified the fundamental constraint: "though our thought seems to possess this unbounded liberty, we shall find, upon a nearer examination, that it is really confined within very narrow limits." His Copy Principle holds that all ideas are copies of prior impressions. Imagination is confined to "compounding, transposing, augmenting, or diminishing the materials afforded us by the senses and experience"---but it cannot generate genuinely new phenomenal primitives.
 
 Hume's own counterexample---the Missing Shade of Blue---maps the contour rather than breaking the confinement. A person who has seen every shade of blue except one might imagine the missing shade by interpolation from adjacent shades. Imagination can interpolate within existing dimensions of experience but cannot create new dimensions. You might imagine a shade between two known blues, but you cannot imagine a shade of a colour family you have never encountered.
 
@@ -102,13 +102,13 @@ The aphantasia-hyperphantasia spectrum complicates the picture. Aphantasics mana
 
 ## The Opacity of Creative Process
 
-Creative insight arrives from somewhere consciousness cannot observe. Henri Poincare called it "the appearance of sudden illumination, a manifest sign of long, unconscious prior work." Graham Wallas, drawing on Poincare's self-reports, identified four stages: preparation, incubation, illumination, and verification. Jacques Hadamard confirmed the pattern through interviews with mathematicians including Einstein.
+Creative insight arrives from somewhere consciousness cannot observe. Henri Poincare called it the "appearance of sudden illumination, a manifest sign of long, unconscious prior work." Graham Wallas, drawing on Poincare's self-reports, identified four stages: preparation, incubation, illumination, and verification. Jacques Hadamard confirmed the pattern through interviews with mathematicians including Einstein.
 
 The phenomenology has distinctive features:
 
 **Suddenness.** Insights arrive complete, not gradually. EEG studies by Kounios and Beeman found that a burst of gamma activity in the right anterior temporal lobe immediately precedes conscious illumination---the neural signature of something completed becoming available.
 
-**Certainty before verification.** The insight feels right before checking. Poincare noted that correct solutions possess "a sort of aesthetic sense" marking them as worthy of attention. Something has already evaluated, not merely generated.
+**Certainty before verification.** The insight feels right before checking. Poincare noted that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful combinations as worthy of attention. Something has already evaluated, not merely generated.
 
 **Surprise at one's own thought.** Creators are startled by their insights---paradoxical if they produced them. The felt externality suggests reception from a source consciousness cannot access.
 

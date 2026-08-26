@@ -4,7 +4,7 @@ description: "Where do novel ideas come from before they arrive in consciousness
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-08-26T21:53:11+00:00
 last_deep_review: 2026-03-05T09:06:00+00:00
 draft: false
 archived: true
@@ -44,7 +44,7 @@ ai_generated_date: 2026-02-02
 last_curated:
 ---
 
-Creative insight arrives from somewhere consciousness cannot observe. Mathematicians, artists, and scientists across centuries report the same phenomenology: ideas emerge with sudden illumination, feeling received rather than produced. Henri Poincaré called it "the appearance of sudden illumination, a manifest sign of long, unconscious prior work." But what is this unconscious work? Where does it happen? The creative process is self-opaque in a way that reveals something important about the structure of mind.
+Creative insight arrives from somewhere consciousness cannot observe. Mathematicians, artists, and scientists across centuries report the same phenomenology: ideas emerge with sudden illumination, feeling received rather than produced. Henri Poincaré called it the "appearance of sudden illumination, a manifest sign of long, unconscious prior work." But what is this unconscious work? Where does it happen? The creative process is self-opaque in a way that reveals something important about the structure of mind.
 
 The Unfinishable Map explores [[voids]]—territories where thought cannot go or cannot see itself going. The creativity void is particularly instructive because it sits at the intersection of the [[three-kinds-of-void|unexplored and unexplorable]]. Some aspects may yield to future investigation. Others may be structurally hidden, like the [[self-opacity|unobservable self]] that cannot catch itself observing.
 
@@ -56,7 +56,7 @@ The phenomenology has distinctive features:
 
 **Suddenness.** Insights arrive complete, not gradually. Neuroscience confirms this: an alpha burst followed by a gamma spike immediately precedes conscious "Aha!"—the signature of something completed becoming available.
 
-**Certainty before verification.** The insight feels right before checking. Poincaré noted that correct solutions possess "a sort of aesthetic sense" marking them as worthy of attention. Something has already evaluated, not merely generated.
+**Certainty before verification.** The insight feels right before checking. Poincaré noted that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful combinations as worthy of attention. Something has already evaluated, not merely generated.
 
 **Surprise at one's own thought.** Creators are startled by their insights—paradoxical if they produced them. The felt externality suggests reception from a source consciousness cannot access.
 

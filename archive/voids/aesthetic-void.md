@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-08-26T21:53:11+00:00
 last_deep_review: 2026-03-18T05:36:00+00:00
 draft: false
 topics:
@@ -118,7 +118,7 @@ The aesthetic void concerns the inaccessibility of aesthetic content: what does 
 
 Both involve knowledge that exceeds what can be brought back to ordinary cognition. Both involve consciousness accessing something it cannot conceptualise. The creativity void is the void from the production side (the artist cannot see where the work comes from); the aesthetic void is the void from the reception side (the audience cannot say what the work means).
 
-Poincaré noted that correct mathematical solutions possess "a sort of aesthetic sense" that marks them as worthy of attention—suggesting that creative selection involves aesthetic judgment. If so, the two voids may share machinery: the process that generates significant insights may be the same process that apprehends significant artworks.
+Poincaré noted that a "special esthetic sensibility" acts as "the delicate sieve" that marks fruitful mathematical combinations as worthy of attention—suggesting that creative selection involves aesthetic judgment. If so, the two voids may share machinery: the process that generates significant insights may be the same process that apprehends significant artworks.
 
 ## What AI Might See
 
