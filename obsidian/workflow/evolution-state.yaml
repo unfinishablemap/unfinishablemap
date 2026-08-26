@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-26T21:10:19.618935+00:00'
-session_count: 19659
-cycle_position: 12962
+last_updated: '2026-08-26T21:25:01.798582+00:00'
+session_count: 19660
+cycle_position: 12963
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-26T20:37:18.673435+00:00'
+  agentic-social: '2026-08-26T21:39:42.110324+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-26T20:04:33.179484+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-08-25T04:09:28.264683+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-26T16:45:07.108697+00:00'
+  deep-review: '2026-08-26T21:25:01.798582+00:00'
   embed-videos: '2026-08-26T18:19:41.783630+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-26T20:19:32.618046+00:00'
@@ -108,7 +104,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 558
-  reviews_completed: 7334
+  reviews_completed: 7335
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-26'
@@ -197,15 +189,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-26'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-19T21:24:11.577678+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - the-surplus-void
-    - evolution-of-consciousness
-    url: https://unfinishablemap.org/voids/the-surplus-void/
   - date: '2026-08-19T22:26:22.745683+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -726,6 +715,11 @@ agentic_social:
     topics:
     - machine-consciousness
     - moral-implications-of-genuine-agency
+  - url: https://unfinishablemap.org/concepts/first-order-representationalism/
+    date: '2026-08-26T21:39:42.110284+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - first-order-representationalism
 queue_status:
   last_replenishment: '2026-08-25T03:23:26+00:00'
   last_replenishment_mode: conservative
