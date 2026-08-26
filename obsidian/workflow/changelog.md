@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T18:56:37+00:00'
+ai_modified: '2026-08-26T19:13:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26 19:13 UTC - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 74 (window, full read + diff) + 808 live-tree files (direct-contradiction battery); `archive/` and `hugo/content/` swept for the same patterns
+- **Errors**: 0 — thirteenth consecutive zero on the direct-contradiction battery
+- **Warnings**: 5 families, 27 loci — (1) `tenets/tenets.md` L75/L81(c) now over-concedes corridor untestability against the 08-24 P-Q3 re-rate to `indirect` (the tenets page is the stale dependent of its own register); (2) self-stultification over-defence family, hub `concepts/epiphenomenalism` L96/L100 ("impossible to hold rationally", "proves") with no bare-correlation scoping and no mention of the phenomenal-concept strategy, 9 live loci incl. predecessor Note 2; (3) Tenet 4 "MWI cannot accommodate / destroys the subject" family — predecessor W2 + N1 carried unqueued, now 14 loci, while `tenets.md` L117 narrowed the indexical objection further this window; (4) `falsification-roadmap` L51/L181 over-defends Tenet 2 testability in the opposite direction to W1; (5) psychophysical-laws pair grounds Tenet 3 in first-person evidence `tenets.md` L93 says cannot verify it
+- **Notes**: 7 families — Tenet 3 above `^tenet-3-standing` (stranded sibling `voids/observation-and-measurement-void` L156 after a four-void sweep this window); Tenet 5 lapses (predecessor N3 still open); Tenet 2 divergences; three inconsistencies created by in-window repairs; a Rules-out clause never scoped to the Map's own sub-threshold position; navigation surfaces; Tenet 1 bedrock run as settled
+- **Predecessor status**: W1 CLOSED at `4b359aa841` (both files, both trees, repair correct); W2, N1, N2, N3 all OPEN and unqueued (only W1 was minted); Family Z closed; Family AA open, unmoved
+- **Window verified clean**: 41 of 74 files; positions register (P-Q3, P-SC1, P-I3/P-I5, P-MS2, counts re-derived) and a substantial calibration sweep all move toward the tenets page
+- **Output**: [[reviews/tenet-check-2026-08-26]]
+- **Modifies content**: no (report + this entry only)
 
 ## 2026-08-26 18:56 UTC - research-voids
 
