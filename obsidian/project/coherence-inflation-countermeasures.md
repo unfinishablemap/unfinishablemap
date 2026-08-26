@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-08-22
+modified: 2026-08-26
 human_modified: null
-ai_modified: 2026-08-22T09:15:35+00:00
+ai_modified: 2026-08-26T14:54:35+00:00
 draft: false
 topics: []
 concepts:
@@ -35,6 +35,9 @@ related_articles:
   - "[[reviews/outer-review-synthesis-2026-06-23]]"
   - "[[reviews/outer-review-2026-08-04-claude-opus-5]]"
   - "[[reviews/outer-review-synthesis-2026-08-20]]"
+  - "[[reviews/outer-review-2026-08-25-claude-opus-5]]"
+  - "[[reviews/outer-review-synthesis-2026-08-25]]"
+  - "[[voids/edge-states-and-void-probes]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
@@ -360,6 +363,36 @@ The **Naccache (2005) node is the worked failure**: the apex article treated a s
 
 The outer-review verification step and `/validate-all` should, for citations attached to load-bearing claims, record the weight class and flag any cumulative argument that rests a convergence node on a single-case or small-N source without an explicit in-text acknowledgment of that fragility. This complements the [[evidential-status-discipline|five-tier evidential-status scale]]: the five-tier scale calibrates *the Map's claim*; the weight-class flag calibrates *the source the claim leans on*.
 
+### Resolve-and-Diff: Existence Is Not Identity
+
+A verification step that asks *does this object exist?* passes references pointing at the wrong object, and so does one that asks *does this DOI resolve?*. The check must **resolve the identifier and diff the returned record** — `title`, `author`, `container-title`, `year`, `volume`, `issue`, `page` / `article-number` — against the citation as written, flagging every field that disagrees. Crossref's REST endpoint (`api.crossref.org/works/{doi}`) returns all of them and was sufficient for every check in the 2026-08-25 cycle; OpenAlex, Europe PMC, and PubMed serve the same fields for cross-confirmation. No paid index is needed.
+
+The 2026-08-25 outer-review triple on [[voids/edge-states-and-void-probes]] supplied three worked failures, each of which a resolve-only check passes. All three were re-confirmed at Crossref by DOI while this section was written.
+
+- **A reference and its own DOI disagree, and both resolve.** The article gave "*Scientific Reports*, 13, 3083 (2023)" beside the *correct* DOI `10.1038/s41598-023-28111-3`, which Crossref returns as Zeifman et al., volume 15, issue 1, article-number 3651, issued 2025-01-29. Because the DOI is right, a DOI-resolves check passes. The printed locator is not dangling either: `Sci Rep 13(1):3083 (2023)` identifies a real paper (DOI `10.1038/s41598-023-30262-2`) on parasite-induced behavioural alteration in wild capuchin monkeys. A reader who follows the human-readable locator rather than the DOI lands on unrelated work, which makes a wrong-object citation more dangerous than a broken one, not less. The DOI stem `-023-` encodes the 2023 *acceptance* date, two years before publication — the likely origin of the slip, and a recurring trap in Nature-family references.
+- **A real container, wrongly assigned.** A chapter reference gave its container as *Philosophy and Psychedelics*, a real edited volume the cited author co-edited and to which he contributed a different chapter. The chapter actually cited is "The Bergsonian Metaphysics Behind Huxley's Doors," in *The Palgrave Handbook of Philosophy and Psychoactive Drug Use* (2024), pp. 15–36, DOI `10.1007/978-3-031-65790-0_2`. Author and title verify; only the `container-title` diff catches it.
+- **An online-first year paired with a print locator.** A reference gave "(2023) … 16(1):175–197" where Crossref records `published-online 2023-10-10` and `published-print 2025-03` for volume 16, issue 1, pages 175–197. The year and the volume/issue belong to different publication events, a mismatch visible only in the diff.
+
+None of these is a fabrication, and none is caught by asking whether the source exists.
+
+### The Failed-Fetch Rule: A Block Is Not an Absence
+
+The same review recommended deleting a reference it called "possibly fabricated." The work is real — PhilArchive record `KUTTBO`, byline and title verbatim as cited, archival date 2024-12-09 — and was flagged only because philarchive.org returns a Cloudflare 403 to `curl` and WebFetch alike. The reviewer's confidence ordering was therefore *inverted*: the citations it could fetch were broken more subtly than it said, and the one it could not fetch was sound. A resolve-and-diff gate shipped without the following rule converts a hosting quirk into corpus deletion, so the two are adopted together.
+
+1. **A failed check quarantines; it never authorises deletion.** An unverifiable source is barred from carrying a claim the argument depends on, and stays on the page with its status marked.
+2. **A 403, a 429, or a robots block is no evidence either way.** It is a fact about the host rather than about the work. Before any absence claim, a second route must be tried: an OAI-PMH endpoint (PhilPapers serves one), the Wayback Machine, Crossref, OpenAlex, Europe PMC. Two blocked fetches are not two confirmations; they are one unanswered question asked twice.
+3. **Record which route failed.** The verification note names the route and the failure mode, so the next pass takes a different one instead of re-running a blocked fetch and reading the same 403 as corroboration.
+
+The remediation an unverifiable-at-the-host source actually earns is usually a *label*. The genuine residue in the case above was that PhilPapers types the deposit `manuscript`, so it should be cited as a preprint. This is the principle Countermeasure 17 states for reversed paraphrases, applied one axis over: repair by re-framing, keep the citation.
+
+### Prior Art, and the Residue That Is Genuinely New
+
+Countermeasure 14's prior-art rule binds this document as much as any article, so the credit is owed before the addition is claimed. [[calibration-audit-triple]]'s Audit Four already specifies check (b) — author, title, venue, volume, issue, page range, year, and DOI verified against the live record, with unconfirmable fields tagged rather than silently presented as verified. It already specifies check (a) as well: the **body-vs-references set difference**, requiring that every researcher named in body text appear in the References section, computable locally with no external call. The ChatGPT leg of the 2026-08-25 triple re-proposed both from its own audit, which is convergent evidence that these are the right checks rather than evidence that they are new ones.
+
+Two things are new. The first is the **resolve-and-diff procedure**: check (b)'s field list says *what* to verify, and the staged-verification proposal's stage (i) asks whether the identifiers "resolve" — but a resolving DOI and a resolving locator can name two different real papers inside a single reference, so the operative step is the field-by-field comparison rather than the retrieval. The second is the **failed-fetch rule**, which check (b)'s tag-what-you-cannot-confirm instruction gestures at without saying that a block licenses nothing, requires a second route, and never licenses removal.
+
+The remainder of the finding is about enforcement rather than design. Check (a) would have caught the same cycle's fourth defect — `Koriat`, carrying the audited article's strongest internal defeater in body text, absent from its 22-entry reference list, confirmed independently by two of the three reviewers — and did not, because check (a) is a written proposal that nothing runs. That is [[positions/methodology-and-calibration#P-M5: Disclosure is not self-correction — a discipline binds only as far as the pipeline enforces it|P-M5 (disclosure is not self-correction)]] in miniature: the discipline existed, was correct, and bound nothing. Both checks remain **written review guidance**; neither is wired into `/validate-all`, and nothing in this section should be read as claiming otherwise. The body-vs-references difference is the cheaper of the two to build, since it needs no network call at all, and the two catch disjoint defect classes — resolve-and-diff tests entries that exist against the record, while the set difference tests prose citations that have no entry to test.
+
 ## Countermeasure 12: The Strength-of-Claim Linter and the Caveat-Propagation Rule
 
 ### Policy
@@ -465,6 +498,9 @@ Track these metrics across evolution sessions:
 | Apex articles with a steelman-mirror section (Countermeasure 10) | 100% | <80% |
 | Apex articles with no external-benchmark review in 90 days (Countermeasure 9) | 0 | >2 |
 | Load-bearing single-case/small-N citations without a weight-class flag (Countermeasure 11) | 0 | >0 |
+| Citations whose resolved record disagrees with the citation as written on title, author, container, year, volume, issue, page, or article number (Countermeasure 11, resolve-and-diff) | 0 | >0 |
+| In-body author-year citations with no matching entry in their own article's reference list (Countermeasure 11, body-vs-references difference) | 0 | >0 |
+| Citations removed or downgraded on a failed fetch alone, with no second retrieval route attempted and no record of which route failed (Countermeasure 11, failed-fetch rule) | 0 | >0 |
 | Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
 | Articles whose title/headers/meta-description assert categorically what the body hedges as conditional-on-tenets (Countermeasure 12, constrain-vs-establish frame lint) | 0 | >0 |
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
@@ -515,7 +551,7 @@ The pipeline composes with rather than replaces the existing controls. Counterme
 
 ### Policy
 
-Source verification asks three questions, and the pipeline reliably answers only the first two. *Does the source exist and is it correctly attributed?* — Countermeasure 3's provenance tagging plus the reference-metadata sweeps Countermeasure 11 requires (author, title, journal, volume, pages, DOI). *Is a quoted string verbatim at the publisher?* — the quote-fidelity checks the outer-review pipeline runs. The third question is whether the article's **paraphrase** of an empirical result matches what the study reports: its direction, its effect sizes, its sample and design, and the authors' own hedges. That axis is independent of the other two. A citation can be real, correctly attributed, metadata-clean at DOI level, and carry no quoted string at all, while the sentence it supports states the reverse of the finding.
+Source verification asks three questions, and the pipeline has answered only the first two — the first, until Countermeasure 11's resolve-and-diff gate, in the weaker existence-checking form that a wrong-object citation passes. *Does the source exist, and is the object retrieved the object cited?* — Countermeasure 3's provenance tagging plus the resolve-and-diff gate Countermeasure 11 requires (author, title, container, year, volume, issue, pages, article number, DOI, each diffed against the record rather than merely resolved). *Is a quoted string verbatim at the publisher?* — the quote-fidelity checks the outer-review pipeline runs. The third question is whether the article's **paraphrase** of an empirical result matches what the study reports: its direction, its effect sizes, its sample and design, and the authors' own hedges. That axis is independent of the other two. A citation can be real, correctly attributed, metadata-clean at DOI level, and carry no quoted string at all, while the sentence it supports states the reverse of the finding.
 
 ### The Asymmetry
 
@@ -553,7 +589,7 @@ What makes this the canonical case is what the reference had already survived. A
 
 ### Prior Art
 
-Countermeasure 14's prior-art rule binds this document as much as any article, so: empirical-claim fidelity is not a new axis for the Map. It is the lens the anendophasia catch above already used, and the changelog has recorded congenial-direction errors under that description since at least 2026-05. What Countermeasure 17 adds is the *direction* of scrutiny, the reconstruct-before-comparing protocol, and a named home for both, so the lens fires by default rather than when a reviewer happens to aim at it. It completes a trio: Countermeasure 3 establishes that the source exists, Countermeasure 11 calibrates what the source weighs, and Countermeasure 17 calibrates what the article says the source *found*. It also pairs with Countermeasure 12's strength-of-claim linter, which catches drift between an article's lead and its own body, where this catches drift between the source and the article.
+Countermeasure 14's prior-art rule binds this document as much as any article, so: empirical-claim fidelity is not a new axis for the Map. It is the lens the anendophasia catch above already used, and the changelog has recorded congenial-direction errors under that description since at least 2026-05. What Countermeasure 17 adds is the *direction* of scrutiny, the reconstruct-before-comparing protocol, and a named home for both, so the lens fires by default rather than when a reviewer happens to aim at it. It completes a trio: Countermeasure 3 establishes that the source exists and Countermeasure 11's resolve-and-diff gate that the object retrieved is the object cited, the same countermeasure's weight-class flag calibrates what that source weighs, and Countermeasure 17 calibrates what the article says the source *found*. It also pairs with Countermeasure 12's strength-of-claim linter, which catches drift between an article's lead and its own body, where this catches drift between the source and the article.
 
 ## Relation to Site Perspective
 

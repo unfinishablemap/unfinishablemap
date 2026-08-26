@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-25T07:26:24+00:00'
+ai_modified: '2026-08-26T14:55:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-26T14:55:59+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[project/coherence-inflation-countermeasures]]
+- **Task**: P1 "citation checking passes objects that exist but are the wrong object — add a resolve-and-diff gate, and forbid deletion on a failed fetch" (upgraded P2 → P1 by `/combine-outer-reviews` 2026-08-25; ChatGPT + Claude convergent, 2 of 3)
+- **Review file**: [[reviews/outer-review-2026-08-25-claude-opus-5]]; synthesis [[reviews/outer-review-synthesis-2026-08-25]]
+- **Word count**: 9108 → 10281 (+1173). The `project/` section has no threshold entry, so `analyze_length` falls back to the 2500/3500/5000 default and reports `critical`; sibling methodology pages run 8.7k ([[project/writing-style]]), 19.9k ([[project/calibration-audit-triple]]) and 21.3k ([[project/evidential-status-discipline]]), so this is the section norm rather than a defect introduced here.
+- **Changes**: three new subsections under Countermeasure 11 — *Resolve-and-Diff: Existence Is Not Identity*, *The Failed-Fetch Rule: A Block Is Not an Absence*, *Prior Art, and the Residue That Is Genuinely New*; three new Key Indicators rows; Countermeasure 17's opening question and closing trio sentence re-aligned to the strengthened first axis; three `related_articles` entries added.
+- **Published**: yes
+
+**Placement followed the task's instruction** — extend Countermeasure 11 rather than open a new document. Countermeasure 11 already owned the metadata axis (the Howard et al. 2016 worked failure), and its heading is the target of `[[project/evidential-status-discipline]]` anchor links at two loci, so the heading was left untouched and the material added as subsections beneath it.
+
+**Bibliographic facts were re-verified at Crossref during the pass, not relayed.** All four DOIs were resolved at `api.crossref.org/works/{doi}` and the returned fields diffed — which is the procedure the new section specifies, applied to the section itself:
+- `10.1038/s41598-023-28111-3` → Zeifman et al., *Scientific Reports* **15(1), article 3651, issued 2025-01-29** (the article printed "13, 3083 (2023)" beside this correct DOI).
+- `10.1038/s41598-023-30262-2` → Agostini et al., "Experimental evidence of parasite-induced behavioural alterations … in wild capuchin monkeys," *Sci Rep* **13(1) 3083, 2023-02-22** — so the wrong human-readable locator resolves to a real, unrelated paper.
+- `10.1007/s13164-023-00709-6` → Gładziejewski, *Review of Philosophy and Psychology*, `published-online 2023-10-10`, `published-print 2025-03`, 16(1) 175–197 — the online-first/print conflation.
+- `10.1007/978-3-031-65790-0_2` → Sjöstedt-Hughes, "The Bergsonian Metaphysics Behind Huxley's Doors," *The Palgrave Handbook of Philosophy and Psychoactive Drug Use*, 2024, pp. 15–36.
+The one fact I could not confirm independently — that the wrongly-named container is a volume the same author co-edited and to which he contributed a different chapter — is stated in the weaker form the review's own verification supports, and the publisher/year details the review gives for that volume were left out rather than inherited unverified ([[quote-aggregator-ratification-corrupts-verbatim]] applies to metadata as much as to strings).
+
+**Absorb-vs-clash (Countermeasure 8): absorb, with one reviewer correction preserved.** The methodology finding was absorbed as written guidance. The reviewer's *recommendation* — delete the Kutnyy reference as "possibly fabricated" — was rejected and inverted into the failed-fetch rule, because the work is real (PhilArchive `KUTTBO`, 2024-12-09) and was flagged only by a Cloudflare 403. That inversion is now the section's counterweight rather than a silently dropped finding.
+
+**Countermeasure 14 applied to this document, which changed what the section claims.** The ChatGPT leg's body-to-bibliography completeness test is **not new**: [[project/calibration-audit-triple]]'s Audit Four check (a) already specifies the body-vs-references set difference, and check (b) already enumerates the metadata field list. Writing them up as new proposals would have been exactly the manufactured-originality vector Countermeasure 14 names. The section therefore credits Audit Four first and claims only two residues: that verification must *diff the returned record* rather than confirm that identifiers resolve (a resolving DOI and a resolving locator named two different real papers inside one reference), and the failed-fetch rule. The Koriat omission is recorded as an **enforcement** finding — check (a) would have caught it and did not, because nothing runs it — which is P-M5 in miniature rather than a design gap.
+
+**Held to written guidance, per the task.** Neither check is wired into `/validate-all`, and the section says so explicitly in two places so a later pass cannot read it as a shipped capability.
+
+**Mirror**: `uv run python scripts/sync.py` run; `hugo/content/project/coherence-inflation-countermeasures.md` confirmed carrying all three subsections, with the `[[voids/edge-states-and-void-probes]]`, `[[project/calibration-audit-triple]]` and P-M5 anchor wikilinks resolving to live URLs. `scripts/validate.py obsidian/project/` reports 0 invalid. **Note for successors**: the skill's Section 3 review command (`scripts/curate.py review`) does not exist and was skipped.
 
 ## 2026-08-25T07:26:24+00:00 - deep-review
 
