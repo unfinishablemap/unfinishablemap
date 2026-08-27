@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-12 19:14:57+00:00
+ai_modified: 2026-08-27 07:36:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-06-22
-date: &id001 2026-06-22
+date: &id001 2026-08-27
 description: 'The Map''s positions on its own method: the tenet-register / evidence-register
   separation, the common-cause null on convergence, the citation-verification and
   weight-class standard, the framework-stage / open-programme self-calibration, and
@@ -15,7 +15,7 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-08-12 19:14:57+00:00
+lastmod: 2026-08-27 07:36:58+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -37,6 +37,18 @@ These positions record what the Map *commits to methodologically* — not just w
 The domain is distinct from the first-order substantive registers (quantum-interface, agency, consciousness-scope, voids-as-evidence) in that its positions are **about the Map's epistemic conduct**, not about consciousness or matter directly. It overlaps deliberately with [voids-as-evidence](/positions/voids-as-evidence/) at one seam — both invoke the common-cause null — but the voids domain applies the null to a *specific catalogue's* evidential payoff, whereas P-M2 here registers the null as a *standing methodological commitment* that governs every convergence claim the Map makes. The two are cross-linked, not redundant. None of these are tenets: a chosen discipline supplies no tenet's rationale, so all five pass the foundational-dependency test and remain freely retireable. The final position (P-M5) records, honestly, the gap between holding a discipline and enforcing it.
 
 **Calibration history.** Dated update notes for this domain live in [Methodology and calibration — calibration history](/positions/methodology-and-calibration-history/), following the convention set by [the quantum-interface history file](/positions/quantum-interface-calibration-history/) on 2026-07-29. Entries carrying such notes index them from a **Calibration history** line; the schema below, its anchor, and every band, dependency and shift condition stay here.
+
+**Review-discipline conventions.** Four rules the positions below already imply, stated so a review can apply them without re-deriving them from P-M1, P-M2 and P-M5. They bind the review of any article the Map publishes, not this register alone; the stable target `[[positions/methodology-and-calibration#^review-discipline]]` resolves here. <span id="review-discipline"></span>
+
+*A stability note protects a named objection on unchanged text, and nothing more.* It records that one objection was weighed against the text as it then stood, and it lapses when an article the claim depends on changes, when a later review raises a distinct objection, or when the claim is reused in a new inferential role — a clean review streak measures whether the article moved, not whether what it rests on did. A claim labelled interpretive or speculative still owes a check for category mistakes and misleading analogies: a caveat can reduce the strength of a claim; it cannot confer immunity from renewed scrutiny. Nor does a reviewer's finding that a claim sits well with the tenets raise its evidential grade — P-M1 at the reviewer's desk rather than the author's.
+
+*An in-text admission triggers a scoping edit; it does not license leaving the downstream claim as it was.* Where an article owns a reading as "the Map's own framing" and not its sources', the next move narrows what that reading may carry. A disclosure that changes nothing downstream is the case P-M5 names, at the scale of a paragraph.
+
+*Mechanism-debt inheritance is checked at review, by use.* A review of any article whose conclusion rests on consciousness selecting, guiding or doing causal work checks that it deep-links [the mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt) and reads no more confidently than that register does. The criterion is the use, on the quantum-interface convention's 2026-08-24 wording, never membership of a domain list.
+
+*The strongest physicalist rival is named.* A review names the strongest physicalist framework that explains the article's central datum without the tenets and checks that the article engages it or links the Map page that does. The pipeline reliably surfaces disagreements internal to a literature; what it has missed is the framework-level rival reading the same data with no dualist remainder, and P-M2's discount cannot be applied to a convergence whose strongest rival was never on the table.
+
+- **Updated 2026-08-27**: the four conventions above; no band moved, no position added. Provenance: an outer-review convergence (ChatGPT 5.6 Pro §1 and recommendations 35–38; Claude Opus 5 Part 5, items 1–3) on [affective-forecasting-gap](/concepts/affective-forecasting-gap/). Its 2026-08-20 deep review had placed three claims under "do not re-flag" stability notes; the reviews' objections to two of them — an over-drawn inference, a category conflation — were different objections the notes' wording nonetheless discouraged. Reviewed seven days after the 2026-08-13 tightening in [quantum-interface](/positions/quantum-interface/) that names value-sensitive selection among the domains where the debt has bitten, the article still deep-linked no mechanism-debt anchor and read more confidently than [P-VS1](/positions/value-in-selection/) (credence low): the second recorded instance of the pattern the 2026-08-24 quantum-interface note describes for [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/), and the worse case, since there the article predated the tightening and here the review postdated it. That review surfaced the internal Levine / Wilson–Gilbert exchange but not the active-inference account of the forecast gap already carried in [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) and [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/). The article's anaesthesia paragraph, which owned its report-channel reading as the Map's framing and then generalised it into a discount on the Map's other felt-state evidence, was scoped the same morning to what its sources establish; its mechanism-debt booking is queued separately. The review checklists these conventions describe live in the pipeline, which this register does not edit; whether they are wired there is P-M5's question, and until they are, the conventions are a stated intention in exactly that position's sense.
 
 ## The multi-axis calibration schema
 
