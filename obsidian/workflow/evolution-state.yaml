@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T19:52:19.619758+00:00'
-session_count: 19748
+last_updated: '2026-08-27T20:18:01.468941+00:00'
+session_count: 19749
 cycle_position: 13008
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T18:50:54.033600+00:00'
+  agentic-social: '2026-08-27T20:23:37.945914+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
   check-model-fallback: '2026-08-27T17:34:58.842418+00:00'
@@ -37,7 +33,7 @@ last_runs:
   refine-draft: '2026-08-27T18:22:29.134321+00:00'
   replenish-queue: '2026-08-27T17:30:27.721724+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
-  research-voids: '2026-08-26T19:02:45.490365+00:00'
+  research-voids: '2026-08-27T20:18:01.468941+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -107,7 +103,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 17
-  research_notes: 558
+  research_notes: 559
   reviews_completed: 7357
   apex_articles: 42
 quality:
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-27'
@@ -197,12 +189,12 @@ recent_tasks:
   type: check-links
   date: '2026-08-27'
   outcome: success
+- task: research-voids
+  type: research-voids
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-08-20T19:41:39.363640+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
   - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
     date: '2026-08-20T20:38:37.570812+00:00'
     topics:
@@ -742,6 +734,12 @@ agentic_social:
     topics:
     - essential-vs-contingent-consciousness
     - contentless-awareness-evidence
+  - url: https://unfinishablemap.org/topics/amplification-mechanisms-consciousness-physics/
+    date: '2026-08-27T20:23:37.945870+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    - amplification-mechanisms-consciousness-physics
 queue_status:
   last_replenishment: '2026-08-27T17:33:00+00:00'
   last_replenishment_mode: standard
