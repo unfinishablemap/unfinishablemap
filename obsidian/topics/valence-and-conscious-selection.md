@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-08-06T00:58:00+00:00
+ai_modified: 2026-08-27T07:00:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -202,7 +202,7 @@ The [[graduated-middle-path-valence-modulated-attention|graduated middle path]]�
 
 **The valence-attention boundary.** If valence modulates attention (the conservative strategy), is it truly a selection currency or merely an input to the real currency (attention)? The distinction matters: if valence acts only through attention, the selection law is fundamentally attentional, and valence is upstream infrastructure.
 
-**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If selection runs on anticipated valence and anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: the currency would be real but poorly calibrated.
+**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If selection runs on anticipated valence and anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: the currency would be real but poorly calibrated. [[affective-forecasting-gap|The affective-forecasting gap]] develops one candidate resolution—the presently felt valence of anticipating selects, and forecasts the outcome's felt valence poorly—without closing the question against the graduated position above.
 
 **Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved. The [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism scope analysis]] argues the two boundaries can come apart: an organism could be minimally conscious yet still select value-blindly.
 
