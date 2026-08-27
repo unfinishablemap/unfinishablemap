@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T15:05:55.188032+00:00'
-session_count: 19729
-cycle_position: 12997
+last_updated: '2026-08-27T15:30:47.204325+00:00'
+session_count: 19730
+cycle_position: 12998
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T14:38:30.018145+00:00'
+  agentic-social: '2026-08-27T15:39:23.049119+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-27T13:19:52.760954+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-08-27T04:13:18.333018+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-27T14:57:54.047380+00:00'
+  deep-review: '2026-08-27T15:30:47.204325+00:00'
   embed-videos: '2026-08-27T08:05:06.975435+00:00'
   expand-topic: '2026-08-27T13:05:46.257259+00:00'
   harvest-research-subjects: '2026-08-27T15:05:55.188032+00:00'
@@ -108,7 +104,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 558
-  reviews_completed: 7352
+  reviews_completed: 7353
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-27'
@@ -197,16 +189,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/descriptive-experience-sampling/
-    date: '2026-08-20T15:37:44.372733+00:00'
-    topics:
-    - inner-speech-and-anendophasia
-    - consciousness-and-language-interface
-    - microphenomenological-interview-method
-    - phenomenology-of-memory-and-the-self
-    - phenomenal-authority-and-first-person-evidence
   - url: https://unfinishablemap.org/concepts/categorical-surprise/
     date: '2026-08-20T17:38:28.937123+00:00'
     topics:
@@ -739,6 +727,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - consciousness-evolution-and-biology
+  - url: https://unfinishablemap.org/concepts/emergent-dualism/
+    date: '2026-08-27T15:39:23.049078+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-08-27T13:56:22+00:00'
   last_replenishment_mode: standard
