@@ -1,14 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-26 16:01:03+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-08-27 18:40:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
 - /topics/altered-states-consciousness/
 concepts:
 - '[[minimal-consciousness]]'
 - '[[filter-theory]]'
+- '[[filter-vs-interface-distinction]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -23,8 +24,8 @@ description: Altered states reveal consciousness's range through meditation, psy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-26 21:03:18+00:00
-lastmod: 2026-08-26 16:01:03+00:00
+last_deep_review: 2026-08-27 18:40:00+00:00
+lastmod: 2026-08-27 18:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,17 +67,19 @@ Key dimensions of alteration include:
 
 The materialist interprets brain-consciousness correlations during ASCs as evidence of production: different brain states *generate* different conscious states. The filter theory offers an alternative: different brain states *configure* the interface differently, allowing different aspects of consciousness to manifest.
 
+Filter vocabulary runs through this article and names only half of the interface. On the [filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/), a filter is the *inbound* leg of a two-way coupling—the brain constraining what consciousness manifests—and the *outbound* leg is consciousness acting back on the brain; the two are supported separately, and a case is sorted by whether experience or expression changed. Sorted that way, nearly every state below is inbound: psychedelics, anaesthetic narrowing, psychiatric disruption, and near-death reports alter what is experienced while expression survives or is later restored. Ketamine's spared experience with severed access is the family's one clean outbound failure, and only the voluntary states—meditation, hypnosis, flow—put an outbound claim in play, on evidence that is still a report of what manifested. [The psychedelics article](/topics/psychedelics-and-the-filter-model/) sorts its own evidence body by body; here each state carries its leg.
+
 Several findings support the filter interpretation:
 
 **Expansion rather than distortion.** Psychedelics don't merely scramble perception—they often *expand* it. Users report insights, enhanced pattern recognition, and access to normally unconscious material. Aldous Huxley's "reducing valve" metaphor captures this: the brain normally constrains consciousness to action-relevant information; psychedelics loosen this constraint.
 
-A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
+A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
 
 **Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour (2024) reviews this asymmetry: both agents suppress cortical activity, but through different pathways with different phenomenal consequences.
 
-A sophisticated production theorist would note that propofol and ketamine act on different receptor systems (GABA-A vs. NMDA) and disrupt different neural circuits—so production theory *does* predict different phenomenal outcomes from different mechanisms, even when gross behavioural output converges. The challenge for production accounts is not the bare fact of divergence but its *character*: ketamine produces organised, coherent experience (vivid imagery, out-of-body phenomena, narrative structure) precisely when the neural systems supposedly generating consciousness are severely disrupted. If consciousness is what certain neural circuits produce, profoundly disrupting those circuits should degrade the product—not redirect it into novel coherent forms. Filter theory offers a natural explanation: ketamine reconfigures the interface, blocking some channels while opening others, rather than damaging the generator.
+A sophisticated production theorist would note that propofol and ketamine act on different receptor systems (GABA-A vs. NMDA) and disrupt different neural circuits—so production theory *does* predict different phenomenal outcomes from different mechanisms, even when gross behavioural output converges. The challenge for production accounts is not the bare fact of divergence but its *character*: ketamine produces organised, coherent experience (vivid imagery, out-of-body phenomena, narrative structure) precisely when the neural systems supposedly generating consciousness are severely disrupted. If consciousness is what certain neural circuits produce, profoundly disrupting those circuits should degrade the product—not redirect it into novel coherent forms. Filter theory offers a natural explanation: ketamine reconfigures the interface, blocking some channels while opening others, rather than damaging the generator—experience intact, access cut, the inbound leg still running.
 
-**Information received but not perceived.** Mashour's 2024 *Neuron* review notes that sensory information reaches the brain during light sedation but is not perceived—"received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
+**Information received but not perceived.** Mashour's 2024 *Neuron* review notes that sensory information reaches the brain during light sedation but is not perceived—"received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is what filter theory predicts—an inbound narrowing rather than disruption of consciousness itself.
 
 ## Specific States and What They Reveal
 
@@ -84,33 +87,33 @@ A sophisticated production theorist would note that propofol and ketamine act on
 
 The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics relax high-level predictive constraints—the brain's expectations become less rigid, allowing bottom-up sensory information greater influence (Carhart-Harris & Friston, 2019). Chris Letheby's predictive-self-binding account builds a full naturalist metaphysics on this substrate—self-fictionalism, the claim that the felt self is a referent-less Bayesian prior—and is the strongest physicalist rival the Map's filter reading must clear. [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/) presents it at full strength and replies on three fronts.
 
-Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/default-mode-network/)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth rather than as production.
+Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/default-mode-network/)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally. The [entropic brain hypothesis](/concepts/entropic-brain-hypothesis/) quantifies this reorganisation as a rise in neural entropy toward a critical point—a dynamical measure that tracks the richness of the state without explaining why it is felt, which the Map reads as a widening of the filter's bandwidth—an inbound change—rather than as production.
 
-The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and López Pérez (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
+The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might perturb the substrate that participation would run through—an inbound perturbation of a proposed outbound channel. The hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and López Pérez (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
 
 ### Flow States
 
 Csikszentmihalyi's flow—the state of optimal experience during skilled activity—involves what Dietrich (2003) terms "transient hypofrontality": reduced activity in executive control regions despite enhanced performance. This seems paradoxical: how does reduced control produce better outcomes?
 
-Filter theory organises the paradox rather than resolving it. Flow involves consciousness *releasing* active control, allowing highly trained circuits to operate with less interference: the filter narrows to exclude deliberative processing while remaining open to automatic expertise. The Map reads that release as coherent with [Bidirectional Interaction](/tenets/#bidirectional-interaction), since consciousness would normally be exerting the control it lets go of—though a production account describes the same transition as prefrontal disengagement, so the fit is coherence rather than confirmation.
+Filter theory organises the paradox rather than resolving it. Flow involves consciousness *releasing* active control, allowing highly trained circuits to operate with less interference: the filter narrows to exclude deliberative processing while remaining open to automatic expertise. The Map reads that release as coherent with [Bidirectional Interaction](/tenets/#bidirectional-interaction)—an outbound-leg reading, since consciousness would normally be exerting the control it lets go of—though a production account describes the same transition as prefrontal disengagement, so the fit is coherence rather than confirmation.
 
 ### Hypnosis
 
-Neuroimaging confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show greater functional connectivity between executive control and salience networks (Jiang et al., 2017). The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the Map's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface rather than brain states simply overriding consciousness.
+Neuroimaging confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show greater functional connectivity between executive control and salience networks (Jiang et al., 2017). The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the Map's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface—an outbound reading—rather than brain states simply overriding consciousness.
 
 ### Meditation
 
 Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states converge structurally across Buddhist, Hindu, Christian, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
 
-The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, the most rigorous test to date—Kral et al. (2022), with 218 participants and active controls—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [Bidirectional Interaction](/tenets/#bidirectional-interaction), though structural remodelling claims should no longer be cited as evidence.
+The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, the most rigorous test to date—Kral et al. (2022), with 218 participants and active controls—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [Bidirectional Interaction](/tenets/#bidirectional-interaction) as outbound-leg coherence rather than evidence, though structural remodelling claims should no longer be cited as evidence.
 
-Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation.
+Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation—the deliberateness being the outbound claim, which the report on return cannot by itself establish.
 
 ### Psychiatric Conditions
 
 [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) reveals that conditions like schizophrenia, depression, and depersonalization are not merely illnesses but altered states that disrupt the *form* of experience rather than just its content. A depressed person doesn't simply feel sad about things—the temporal horizon of the future closes, making hope structurally impossible. A person with schizophrenia doesn't just hold unusual beliefs—the pre-reflective sense that experiences belong to a self (*ipseity*) fractures at its foundation.
 
-This form/content distinction gives the filter interpretation extra reach without giving it extra evidence. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, which shows ownership, reality, and temporal presence to be separable—a separability a modular production account accommodates as readily as an adjustable interface does.
+This form/content distinction gives the filter interpretation extra reach without giving it extra evidence. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*—both changes on the inbound leg. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, which shows ownership, reality, and temporal presence to be separable—a separability a modular production account accommodates as readily as an adjustable interface does.
 
 ### Near-Death Experiences
 
@@ -118,7 +121,7 @@ Xu et al. (2023) found gamma surges in dying patients—localised to the tempora
 
 The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly. This inference is only as strong as the claim that the brain is genuinely doing *less*, not merely showing reduced activity in some regions: decreased regional activity can coincide with raised connectivity, entropy, or disinhibition, so the enhancement-through-disruption argument holds only where the fuller processing measures—not raw activity alone—are collapsing.
 
-What is clear: these experiences involve altered consciousness precisely when the brain's filtering function is maximally compromised—consistent with filter theory's prediction that reduced filtering allows expanded experience.
+On the leg sorting these are inbound claims carried by a later-restored outbound leg: the report of expanded experience reaches anyone only after resuscitation, through memory, so the retrospective character of the evidence is structural rather than a defect of study design.
 
 ## Boundary States: Where ASCs Meet Minimal Consciousness
 
@@ -126,11 +129,11 @@ ASCs map the *upper* boundary of ordinary consciousness—states of expansion, d
 
 These boundaries illuminate each other. Advanced meditators approaching cessation report phenomenology that may resemble what simple organisms inhabit continuously: awareness without complex content, presence without elaborate representation. The meditator voluntarily reaches "downward" to consciousness stripped of normal filtering; the nematode may simply exist there.
 
-This raises a question for filter theory: does the filter determine *how much* consciousness manifests or *what kind*? The psychedelic loosens filtering to allow more of Mind at Large through; the minimal organism may lack sophisticated filtering entirely yet manifest only rudimentary experience. The answer may involve what the brain provides beyond filtering—representational structures, attention mechanisms, integration capacities—that shape which aspects of consciousness can manifest through a given interface. A simple nervous system provides a simple interface; a complex one provides a complex interface. Consciousness itself may be the same; its manifestation varies with interface sophistication.
+This raises a question for filter theory: does the filter determine *how much* consciousness manifests or *what kind*? The psychedelic loosens filtering to allow more of Mind at Large through; the minimal organism may lack sophisticated filtering entirely yet manifest only rudimentary experience. The answer may involve what the brain provides beyond filtering—representational structures, attention mechanisms, integration capacities—that shape which aspects of consciousness can manifest through a given interface. Consciousness itself may be the same; its manifestation varies with interface sophistication.
 
 ## What Would Challenge This View?
 
-A theory that can explain any outcome explains nothing. The filter interpretation of ASCs must specify observations that would count against it—otherwise it risks degenerating into an unfalsifiable framework that simply relabels whatever neuroscience discovers.
+A theory that can explain any outcome explains nothing. The filter interpretation of ASCs must specify observations that would count against it—otherwise it merely relabels whatever neuroscience discovers.
 
 **Observations that would undermine the filter interpretation:**
 
@@ -142,7 +145,7 @@ A theory that can explain any outcome explains nothing. The filter interpretatio
 
 - **Successful artificial generation of novel qualia.** If an artificial system with no biological heritage could generate genuinely novel phenomenal states (not just novel *reports* of states), this would support the view that consciousness is generated rather than received. The filter theory's explanatory advantage depends partly on the difficulty of accounting for qualia through construction alone.
 
-These are genuine empirical stakes, not just logical possibilities. The filter interpretation makes predictions that differ from production models, and those predictions can fail.
+The filter interpretation makes predictions that differ from production models, and those predictions can fail.
 
 ## Relation to Site Perspective
 
@@ -150,19 +153,20 @@ Altered states illuminate the Map's [tenets](/tenets/) from multiple angles:
 
 **Dualism:** ASCs show consciousness operating in modes and configurations that map onto brain states only loosely. The same behavioural output can mask different experiences; similar brain changes can produce opposite subjective effects. That constrains how tight the mapping can be without by itself establishing dualism.
 
-**Minimal Quantum Interaction:** The Orch OR hypothesis proposes that psychedelics enhance quantum coherence in microtubules, providing a potential mechanism linking altered states to the quantum interface between mind and matter.
+**Minimal Quantum Interaction:** The tenet specifies the outbound leg—consciousness selecting among outcomes the physics leaves open—and altered-state data are inbound, so they are silent on it unless a selection-side effect is separately shown. A microtubule quantum-coherence mechanism, if substantiated, would supply a candidate substrate for that leg; a drug that perturbs the substrate changes what consciousness manifests, not what it selects. The Orch OR reading of psychedelics stays at the speculative tier (the [psychedelics article](/topics/psychedelics-and-the-filter-model/)'s appendix), and nothing here depends on it.
 
-**Bidirectional Interaction:** Flow states and meditation show consciousness deliberately releasing control or reconfiguring its interface. The Map reads that as causal traffic running outward; a self-modifying production system can down-regulate the activity sustaining a state just as readily, so the reading is preferred by fit rather than forced by the evidence.
+**Bidirectional Interaction:** The voluntary states—flow, hypnosis, meditation—are the only ones here that put an outbound claim in play: consciousness deliberately releasing control or reconfiguring its interface. The Map reads that as causal traffic running outward; a self-modifying production system can down-regulate the activity sustaining a state just as readily, and what the reports show is a change in what manifested, so the reading is preferred by fit rather than forced by the evidence. Tenet 3's support comes from elsewhere—[the agency void](/voids/agency-void/), [self-stultification](/concepts/self-stultification/), and the tenets page's own record that downward causation is shown [available rather than actual](/tenets/#tenet-3-standing).
 
 **No Many Worlds:** the Map's rejection of many-worlds is consistent with ASC phenomenology: altered states feel like different modes of *this* consciousness, not glimpses into parallel selves.
 
-The filter theory provides a unified framework: ASCs reveal different configurations of the brain-consciousness interface, not different productions by different brain states.
+Read by leg, the unified framework is narrower than the filter vocabulary suggests: every state on this page is a reconfiguration of the inbound leg, and the interface's return channel is a commitment the tenets supply rather than one these states demonstrate.
 
 ## Further Reading
 
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity across altered states
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower boundary of conscious experience
 - [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
+- [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/) — Which causal leg a filter claim bears on; the sorting this page applies to the whole family
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness operating without sensory input
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for mind-side rendering through neural architecture

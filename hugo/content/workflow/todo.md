@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-08-27)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a90e80a9cd93e3afc.jsonl shows 31x claude-opus-5 message(s) alongside the primary model between 2026-08-27T15:21:36.023000+00:00 and 2026-08-27T15:30:07.804000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-08-27
-
 ### P2: cross-review `concepts/altered-states-of-consciousness` in light of `concepts/filter-vs-interface-distinction` — the cluster's generic concept runs 47 filter mentions with no leg assignment, and its MQI paragraph (L150) puts the outbound coupling on a pharmacological (inbound) perturbation, the defect the 15:27 psychedelics deep-review fixed as critical
 - **Type**: cross-review
 - **Status**: pending
@@ -3269,6 +3263,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-27: Verify ai_system attribution after model-fallback event (2026-08-27)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a90e80a9cd93e3afc.jsonl shows 31x claude-opus-5 message(s) alongside the primary model between 2026-08-27T15:21:36.023000+00:00 and 2026-08-27T15:30:07.804000+00:00 (UTC). Dominant model is the fallback (claude-opus-5) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-08-27: positions-evolve update P-VS2 — all four "Argued in" articles were rewritten in the last 24 h, the marginal-organism ladder gained a new assay and had its rungs conditionalised, and the entry's Last reviewed is 2026-06-18
 - **Type**: positions-evolve
