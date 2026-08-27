@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T19:10:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [sentientism](/concepts/sentientism/)
+- **Word count**: 3435 → 3426 (−9; 137% of the 2500 concepts soft target, 74 under the 3500 hard ceiling, `soft_warning` before and after)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — cross-review against `concepts/no-self-objection-to-phenomenal-value`: §"Interests Require a Subject" rested standing on "an experiencer for whom the trajectory is good or bad" without saying which; one paragraph appended saying the requirement must say *which* experiencer (→ `#implications`), that the Map's answer — unrefuted and contested, not tested — is that a momentary experiential locus suffices for standing and a persisting subject is a further claim (→ `#maps-reply`), and that sentientism's diachronic stakes (thwarted preferences, the deprivation death inflicts) draw on that further claim, made on agency grounds rather than on value. Register matched to the 14:54 `topics/phenomenal-value-realism` §Indexical Value precedent; cross-references, does not restate; no P-I1/P-SC3 cited (cascade isolation kept).
+- **Enhancements made**: 1 — `[[no-self-objection-to-phenomenal-value]]` added to `related_articles`; both anchors confirmed on disk and in Hugo.
+- **Length**: net −9 paid in place — Feinberg disambiguation shortened, textbook phenomenal/access parentheticals cut, four Further Reading glosses trimmed, five filler clauses removed; no argument cut; no condense minted.
+- **Citations**: References unchanged since the 08-26 ledger; no new citation introduced; superlative sweep 0.
+- **Reasoning modes** (editor-internal): no-self objector Mode Three (new, by reference); anthropocentrism One, biocentrism Two, illusionism Three, functional sentientism Two — unchanged.
+- **Not edited**: `positions/moral-status` (queued P2 positions-evolve owns P-MS1), the concept itself (3480/3500).
+- **Attribution**: `ai_system` `claude-opus-5` → `claude-opus-5+claude-fable-5`; `last_deep_review` set (dispatched as /deep-review, per the 18:41 altered-states precedent; todo note said leave it). Stamps from live `date -u`. Synced both trees. Todo task left for cycle_post; not committed.
+- **Output**: [deep-review-2026-08-27-sentientism](/reviews/deep-review-2026-08-27-sentientism/)
+
 ## 2026-08-27T18:41:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
