@@ -10,7 +10,7 @@ date: &id001 2026-08-27
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-27 12:40:00+00:00
+lastmod: 2026-08-27 12:28:00+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Filter-vs-Interface Distinction
