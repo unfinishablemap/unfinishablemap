@@ -4,6 +4,11 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-27T10:12:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-27T11:13:30+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/temporal-structure-of-understanding]] (~2680w, never pessimistically reviewed; oldest `last_deep_review` 2026-06-21 in the unreviewed pool; no open task). Six-persona pass plus evidential-status, refutation-discipline and citation-fidelity checks. Three High: felt suddenness recruited to assert process discontinuity (epistemic→metaphysical, L68/L159; Bowers 1990 and Metcalfe & Wiebe 1987 both uncited); "William James described the 'click of comprehension'" — full-text search of both Gutenberg volumes of the *Principles* finds "click" only for Savart's-wheel clicks; the requires-consciousness conclusion rests on an uncited L98 premise that Trübutschek et al. 2019 supports and `working-memory` L63 already carries hedged. Six Medium: Baddeley 2000 quote not verbatim (actual: "Conscious awareness is assumed to be the principal mode of retrieval from the buffer"); bare Tallis regress not swept in the 2026-08 family; false dilemma at L137; L181 coincidence argument aimed at epiphenomenalism not illusionism; *pīti* is a Visuddhimagga imperfection of insight, which with Danek & Wiley 2017 undercuts L87 "immediate certainty"; Whitehead "satisfaction" misused as a threshold. Out-of-scope note (not minted): `conscious-vs-unconscious-processing` L225 "subliminal priming decays within 500ms" is stale against the 2026 multisite registered report replicating Soto 2011. Minted one P2 `refine-draft` (bottom of Active).
+- **Output**: [[reviews/pessimistic-2026-08-27-temporal-structure-of-understanding]]
+
 ## 2026-08-27T10:58:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
