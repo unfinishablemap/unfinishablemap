@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T14:31:44+00:00'
+ai_modified: '2026-08-27T15:55:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 14:31:44+00:00
+lastmod: 2026-08-27 15:55:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T15:55:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/)
+- **Context**: first deep review; article created 13:04 today by expand-topic from the 2026-07-17 research note. Same-day cross-reviews of [phenomenal-value-realism](/topics/phenomenal-value-realism/) and the parent articles already link its `#maps-reply` / `#implications` anchors, both preserved.
+- **Word count**: 3464 → 3480 (+16; `soft_warning`, 20 under the concepts hard threshold — length-neutral, additions paid for by trimming a duplicated falsifier sentence, a duplicated philosopher roll-call in RtSP and one redundant "marked as the Map's")
+- **Critical issues addressed**: 3 (§Experience for no one credited [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) with the model-less-not-locus-less reading of MPE reports, which that article does not take — it separates the phenomenological datum from the persistence claim; re-credited to [witness-consciousness](/concepts/witness-consciousness/) plus [predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/), and `contentless-awareness-evidence` re-cited in §implications for its reporter-problem point where it is accurate. Alweiss 2022 over-read as denying the subject-pole — her abstract denies a *further* sense of for-me-ness over transparent reflexive experience; restated in her terms and separated from the Mādhyamaka line in the falsifier list. Parfit's Relation R flattened to "connectedness and continuity" — "and/or" restored)
+- **Medium issues addressed**: 3 (duplicated falsifier sentence; duplicated RtSP roll-call; one redundant self-labelling hedge)
+- **Enhancements made**: 3 cross-links ([predictive-self-binding-and-the-naturalist-challenge](/topics/predictive-self-binding-and-the-naturalist-challenge/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)); Metzinger (2003) cited inline (was an orphan References entry); chapter page ranges for Zahavi 2011 and Albahari 2011
+- **Engagement classification**: Metzinger/MPE — Mixed (Mode One via his own "non-egoic self-modelling", then Mode Three: live countermodel, unrefuted); Parfit — Mode Three (structural point granted, indexical fight elsewhere); Siderits/Hidalgo conventionalism — Mode One (dilemma on "bad" in the conventionalist's mouth, residue marked terminological); Alweiss — Mode Three; diachronic-welfare objector — Mode Three with concession. No label leakage.
+- **Citation web-verify**: 16/16 external DOIs real-correct at Crossref; Coseru SEP author confirmed and all five quotations grep verbatim in the raw entry; Metzinger 2020's three quotations verbatim at pp. 1/6/36 in the Mainz PDF and "1(I), 7" is the journal's own format; Hidalgo quotation verbatim in the abstract. Zahavi 2011 verified at metadata only (abstract 403 at OUP and PhilPapers). Superlative sweep empty. Full ledger in the review archive.
+- **Output**: [deep-review-2026-08-27-no-self-objection-to-phenomenal-value](/reviews/deep-review-2026-08-27-no-self-objection-to-phenomenal-value/)
 
 ## 2026-08-27T15:27:38+00:00 - deep-review
 - **Status**: Success
