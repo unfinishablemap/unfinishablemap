@@ -4,11 +4,29 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-26T19:35:39+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
-date: '2026-08-26'
-lastmod: 2026-08-26 19:35:39+00:00
+date: '2026-08-27'
+lastmod: 2026-08-27 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T00:06:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/)
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; targeted fix from the 2026-08-25 sibling deep-review)
+- **Word count**: 2503 → 2867 (concepts soft 2500)
+- **Review file**: [deep-review-2026-08-25-generalised-probabilistic-theories](/reviews/deep-review-2026-08-25-generalised-probabilistic-theories/)
+- **Changes**:
+  - Scope error on the Galley-Masanes contrapositive fixed at four loci (lead, honest conditional, contraposition, Tenet 2): the disjunction "either axiom forces the Born rule" now carries its missing premise — quantum state space and reversible dynamics — everywhere it is stated. Galley & Masanes §2 class definition and §5.1 contrapositive quoted verbatim (re-verified this run against raw `pdftotext` of arXiv:1801.06414v4, reading-order extraction).
+  - Boxworld bullet promoted from decoration to the limiting case: now quotes Barrett 2007 Assumption 5 (Global State Assumption, verified verbatim at raw arXiv quant-ph/0508211v3), states that boxworld is locally tomographic, no-signalling, and not Born-ruled, and forward-links to the interface section. The interface section links back (`{#the-axiom-stated-neutrally}` anchor added to the H2).
+  - "On pain of signalling" removed from the disjunctive conditional; the signalling lever is now attributed to the purification/steering branch only, with Galley-Masanes' no-signalling toy theory named as the reason a local-tomography failure costs an axiom without producing a signal. The purification-only sentence in the problem reading (already correct) kept and sharpened: it now states the exact residue (constraint evaporates only where purification fails and local tomography either fails too or has lost the class premise).
+  - Former standalone "scope condition" paragraph folded into the new scope paragraph rather than duplicated; the "for every modification in the classification they work with" hedge preserved.
+  - Added one clause to the (B + S) setup naming the class premise as a further interface unknown.
+  - Barrett 2007 appended as reference 10 (article has no numbered inline cites, so no renumbering).
+  - Not touched, per task: lines on the theorem's one-directionality, the conjunction-of-failures arithmetic in the signature reading, and `concepts/causal-consistency-constraint`. Research note `purification-as-the-second-born-forcing-axiom-2026-08-16` checked — it already scopes its contraposition "within the classified class", so no propagation.
+  - Named-opponent engagement classification: n/a (no named opponent; the article corrects its own reading of a source).
+  - Synced to Hugo; defect strings grep-clean in both `obsidian/` and `hugo/content/`; validate passes.
+- **Published**: yes
 
 ## 2026-08-26T23:54:32+00:00 - deep-review
 - **Status**: Success
