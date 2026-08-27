@@ -12,7 +12,7 @@ topics:
   - "[[valence-and-conscious-selection]]"
   - "[[phenomenal-value-realism]]"
 concepts:
-  - \"[[no-self-objection-to-phenomenal-value]]\"
+  - "[[no-self-objection-to-phenomenal-value]]"
   - "[[consciousness-value-connection]]"
   - "[[evaluative-phenomenal-character]]"
   - "[[valence]]"

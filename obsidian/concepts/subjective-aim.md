@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
 concepts:
-  - \"[[no-self-objection-to-phenomenal-value]]\"
+  - "[[no-self-objection-to-phenomenal-value]]"
   - "[[process-philosophy]]"
   - "[[prehension]]"
   - "[[agent-causation]]"

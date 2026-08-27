@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T16:07:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Context**: `reviews/outer-review-synthesis-2026-08-27.md` §9 (ChatGPT items 28 + 25; Claude Opus 5 propagation), verification clean. Sequencing confirmed: all P1/P2 on the focal `affective-forecasting-gap` had completed before this ran. Sibling `concepts/valence` L84 NOT touched (minted separately).
+- **Original score**: n/a — `scripts/curate.py review` no longer exists
+- **Changes**:
+  - (1) New bold-lead paragraph "Constitution is not causation" closing §Three Routes (before §Objections): constitution = the identity [P-VS3](/positions/value-in-selection/) registers; value *influencing selection* is the separate claim P-VS1 — credence low, framework-internal, inheriting `[[positions/quantum-interface#^mechanism-debt]]`; the anticipation a value-sensitive selector would consult is itself a present felt state, not the outcome's value ([affective-forecasting-gap](/concepts/affective-forecasting-gap/)). Closing-line downgrade in the focal article linked, not restated.
+  - (2) Tenet 3 paragraph: kept "open question" and added the pointer (ChatGPT item 25, option A) — "the attention-mediated middle path stands; affective-forecasting-gap asks which valence selects". Middle path is NOT superseded: `valence-and-conscious-selection` L199 and P-VS1 both still name it the most defensible stance, so option B would have been false.
+  - (3) `related_articles` += `[[affective-forecasting-gap]]`.
+  - Length offset (mandatory, hard cap 3500): For Meaning tightened and the "view from nowhere" phrase restored to the sentence it glosses (it had been mentioned but never used); For Panpsychism trimmed one restated clause; ten Further Reading glosses shortened. `analyze_length` 3494 → **3491** (net −3, ≤ 3494 target). Routes and objections not cut.
+  - Frontmatter repair, same file: `concepts:` L13 was a backslash-escaped scalar `\"[[no-self-objection-to-phenomenal-value]]\"` (landed 13:04 with the no-self integration); backslashes were leaking into Hugo's frontmatter. Requoted.
+- **Verification**: synced; Hugo mirror greps 1 for `mechanism-debt`, anchor rendered `/positions/quantum-interface/#mechanism-debt` (the `type-token-causation` form); `validate.py` ✓; `last_deep_review` 2026-07-16 untouched.
+- **Published**: yes
+
 ## 2026-08-27T15:55:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/)

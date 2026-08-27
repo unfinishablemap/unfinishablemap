@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-27 13:00:14+00:00
+ai_modified: 2026-08-27 16:07:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- \"[[no-self-objection-to-phenomenal-value]]\"
+- '[[no-self-objection-to-phenomenal-value]]'
 - '[[phenomenal-value-realism]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[qualia]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:01:12+00:00
-lastmod: 2026-08-27 13:00:14+00:00
+lastmod: 2026-08-27 16:07:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[apex/moral-architecture-of-consciousness]]'
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
 - '[[the-steelman-for-value-blind-selection]]'
+- '[[affective-forecasting-gap]]'
 title: The Consciousness-Value Connection
 topics:
 - '[[meaning-of-life]]'
@@ -83,6 +84,8 @@ For something to be good *for* someone in the evaluative sense there must be a s
 
 This route invites the no-self objection: Buddhist *anātman* and Parfit's reductionism both deny that any persisting subject exists to be the "someone." [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) answers it on the Map's behalf — the route needs a momentary experiential locus, not a persisting self, and the objection's strongest form turns on whether experience can be for no one at all.
 
+**Constitution is not causation.** Each route delivers value as *constituted* in experience—the identity [P-VS3](/positions/value-in-selection/) registers. That felt value *influences selection* is a separate claim, [P-VS1](/positions/value-in-selection/): credence low, framework-internal, inheriting the quantum interface's [mechanism debt](/positions/quantum-interface/#mechanism-debt). And the anticipation such a selector would consult is itself a present felt state, not the outcome's value ([affective-forecasting-gap](/concepts/affective-forecasting-gap/)). Nothing above establishes the second claim.
+
 ## Objections and Responses
 
 ### "Value Could Exist Without a Subject"
@@ -133,7 +136,7 @@ The [moral architecture apex extends this connection with an indexical-token cla
 
 ### For Meaning
 
-The [meaning of life](/topics/meaning-of-life/) connects directly. If value requires consciousness and meaningful lives require value, meaning is grounded in conscious experience. Nihilism's claim that nothing matters fails because mattering *does* occur: within conscious experience things genuinely matter, and the nihilist reaches the contrary conclusion by abstracting away the only perspectives from which anything could matter. The phrase "view from nowhere" is Thomas Nagel's, and he coined it for the opposite purpose—to defend the agent-neutral objectivity of value, holding that pain is bad from the impersonal standpoint and not merely bad-for-me. The disagreement with Nagel is registered here, not borrowed from him.
+If value requires consciousness and meaningful lives require value, [meaning](/topics/meaning-of-life/) is grounded in experience. Nihilism's claim that nothing matters fails because mattering *does* occur; the nihilist reaches the contrary verdict by abstracting away the only perspectives from which anything could matter—a view from nowhere. The phrase is Thomas Nagel's, coined for the opposite purpose: to defend value's agent-neutral objectivity, pain being bad impersonally and not merely bad-for-me. The disagreement is registered, not borrowed.
 
 ### For AI Alignment
 
@@ -141,7 +144,7 @@ The [meaning of life](/topics/meaning-of-life/) connects directly. If value requ
 
 ### For Panpsychism
 
-[Panpsychism](/concepts/panpsychism/)—the view that consciousness is ubiquitous—is often taken to extend value ubiquitously. It does not: the connection runs from value to consciousness, and consciousness everywhere would not put value everywhere. What ubiquity would cost is discriminating power. If everything is conscious, the necessity claim sorts no system from any other, and moral discrimination falls back on valence and its degree rather than on consciousness as such. The Map does not commit to panpsychism; the necessity claim holds either way, and the further commitment above would need rebuilding on narrower ground.
+[Panpsychism](/concepts/panpsychism/) is often taken to extend value ubiquitously. It does not: the connection runs from value to consciousness, not back. What ubiquity would cost is discriminating power: if everything is conscious, the necessity claim sorts no system from any other, and moral discrimination falls back on valence and its degree. The Map does not commit to panpsychism; the necessity claim holds either way, and the further commitment above would need rebuilding on narrower ground.
 
 ## Relation to Site Perspective
 
@@ -153,7 +156,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. Whether value enters the selection mechanism directly or operates through attention is an [open question](/topics/valence-and-conscious-selection/), and everything below turns on the answer. Where the channel is value-sensitive rather than merely value-correlated, value influences the physical world: choices made for the sake of value shape what happens, moral agency escapes [epiphenomenal](/concepts/epiphenomenalism/) idleness, and [libertarian free will](/topics/free-will/) gains support, since genuine choice about value-laden matters requires that consciousness make a difference. Where the channel runs only through attention, the conclusion holds in a weaker form.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. Whether value enters the selection mechanism directly or operates through attention is an [open question](/topics/valence-and-conscious-selection/)—the attention-mediated middle path stands; [affective-forecasting-gap](/concepts/affective-forecasting-gap/) asks which valence selects—and everything below turns on the answer. Where the channel is value-sensitive rather than merely value-correlated, value influences the physical world: choices made for the sake of value shape what happens, moral agency escapes [epiphenomenal](/concepts/epiphenomenalism/) idleness, and [libertarian free will](/topics/free-will/) gains support, since genuine choice about value-laden matters requires that consciousness make a difference. Where the channel runs only through attention, the conclusion holds in a weaker form.
 
 ### No Many Worlds
 
@@ -181,22 +184,22 @@ None has obtained. The first three are open questions in an active literature ra
 
 ## Further Reading
 
-- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
-- [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
-- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the phenomenal dimension of good and bad
-- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of the consciousness-value connection
-- [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — The environmental application: why rejecting ecocentrism yields more demanding obligations, not fewer
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Phenomenal properties as constituting value, against metaethical challenges
+- [meaning-of-life](/topics/meaning-of-life/) — Meaning grounded in conscious experience
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as felt good and bad
+- [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of the connection
+- [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Why rejecting ecocentrism yields more demanding obligations, not fewer
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing the connection for AI
-- [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment depends on this view
-- [qualia](/concepts/qualia/) — The qualitative properties that carry value
-- [introspection](/concepts/introspection/) — First-person access to value properties
-- [free-will](/topics/free-will/) — How value-grounded consciousness enables genuine choice
+- [purpose-and-alignment](/topics/purpose-and-alignment/) — Why alignment depends on this view
+- [qualia](/concepts/qualia/) — The properties that carry value
+- [introspection](/concepts/introspection/) — First-person access to value
+- [free-will](/topics/free-will/) — Value-grounded consciousness and genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
-- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Evaluative qualia and moral phenomenology: how consciousness carries intrinsic evaluative structure
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — How consciousness carries intrinsic evaluative structure
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
-- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the indexical-token extension of the consciousness-value connection within a unified moral framework
-- [tenets](/tenets/) — The foundational commitments grounding this view
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the indexical-token extension within a unified moral framework
+- [tenets](/tenets/) — The foundational commitments
 
 ## References
 

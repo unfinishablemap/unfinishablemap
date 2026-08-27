@@ -5,7 +5,7 @@ ai_modified: 2026-08-27 13:00:14+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
-- \"[[no-self-objection-to-phenomenal-value]]\"
+- '[[no-self-objection-to-phenomenal-value]]'
 - '[[consciousness-value-connection]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[valence]]'
