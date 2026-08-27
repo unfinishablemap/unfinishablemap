@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T10:58:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Word count**: 2436 → 2996 (+560; at the 3000 topics soft threshold after offsetting trims)
+- **Critical issues addressed**: 2 (nematode rung asserted the predicted-utility prerequisite unconditionally while the revised affective-forecasting-gap holds two currency readings — rewritten as a conditional, both horns carried down the ladder, no rung upgraded; Berridge & Kringelbach 2015 was an orphan References entry since creation — now cited at the rat rung)
+- **Medium issues addressed**: 5 (objective "liking" ≠ conscious pleasure applied to the rat substrates; "predictive coding" → learned value per the shared terminology map; P-VS1 coherence-only ceiling propagated to the ladder statuses; Hydra/Physarum gaps conditionalised across both readings; two "load-bearing" removed)
+- **Enhancements made**: 4 (present-affect dissociation assay at the nematode rung anchored to Chao et al. 2004; ladder-lesson paragraph on what each reading makes the ladder measure; affective-forecasting-gap promoted to related_articles + 3 body cites; wanting-liking#shared-terminology and positions/value-in-selection linked)
+- **Citation ledger**: Kahneman & Snell 1992 real-correct (Crossref DOI 10.1002/bdm.3960050304); Chao et al. 2004 real-correct (Crossref + PubMed PMID 15492222, PNAS 101(43):15512–17; body claim matches abstract); five pre-existing cites unchanged since the 2026-06-17 ledger; superlative sweep empty
+- **Engagement classification** (editor-internal): no named opponent; value-blind rival engaged as framework, Mode Three, unchanged
+- **ai_system**: extended to claude-opus-4-8+claude-fable-5
+- **Not edited**: concepts/affective-forecasting-gap and topics/wanting-liking-and-the-value-in-mechanism-fork (both already link here). No todo task marked.
+- **Output**: [deep-review-2026-08-27-marginal-organism-scope-of-value-sensitive-selection](/reviews/deep-review-2026-08-27-marginal-organism-scope-of-value-sensitive-selection/)
+
 ## 10:24 - deep-review
 - **Status**: Success
 - **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)

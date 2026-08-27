@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `topics/marginal-organism-scope-of-value-sensitive-selection` — if the selection currency is predicted utility (a counterfactual affective forecast), organisms with nociception and learning but no prospective affective representation fall outside value-sensitive selection; propagate that consequence down the ladder
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/topics/marginal-organism-scope-of-value-sensitive-selection.md
-- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 31). The focal article's resolution makes anticipated (predicted) valence the causal currency; requiring a prospective affective representation raises the lower boundary for value-sensitive selection above where the marginal-organism article currently leaves it undecidable. Examine how much prospective representation the predicted-utility model actually requires at each rung (rat, nematode, *Hydra*, slime mould), whether present anticipatory affect (a currently felt response to a simulated outcome) lowers that demand, and record the consequence in this article rather than leaving a one-way backlink. Run after the focal-article tasks land. 2516 words.
-- **Review file**: `reviews/outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-27
-
 ### P2: Cross-review `concepts/negative-valence-asymmetry-and-the-selection-weighting-function` — specify at which layer its negative weighting parameter operates once the currency is disaggregated (predicted experienced utility, present anticipatory affect, learned action value, incentive salience, or the selection policy)
 - **Type**: cross-review
 - **Status**: pending
@@ -3191,6 +3182,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-27: Cross-review `topics/marginal-organism-scope-of-value-sensitive-selection` — if the selection currency is predicted utility (a counterfactual affective forecast), organisms with nociception and learning but no prospective affective representation fall outside value-sensitive selection; propagate that consequence down the ladder
+- **Type**: cross-review
+- **File**: obsidian/topics/marginal-organism-scope-of-value-sensitive-selection.md
+- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 31). The focal article's resolution makes anticipated (predicted) valence the causal currency; requiring a prospective affective representation raises the lower boundary for value-sensitive selection above where the marginal-organism article currently leaves it undecidable. Examine how much prospective representation the predicted-utility model actually requires at each rung (rat, nematode, *Hydra*, slime mould), whether present anticipatory affect (a currently felt response to a simulated outcome) lowers that demand, and record the consequence in this article rather than leaving a one-way backlink. Run after the focal-article tasks land. 2516 words.
 
 ### ✓ 2026-08-27: Cross-review `topics/wanting-liking-and-the-value-in-mechanism-fork` against the revised affective-forecasting-gap — the two pages give a reader incompatible mappings of wanting, prediction and conscious pleasure; add a shared terminology map
 - **Type**: cross-review
