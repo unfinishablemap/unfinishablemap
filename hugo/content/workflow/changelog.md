@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T18:12:00+00:00'
+ai_modified: '2026-08-27T19:22:15+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 18:12:00+00:00
+lastmod: 2026-08-27 19:22:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T19:22:15+00:00 - positions-evolve
+- **Status**: Success
+- **Operation**: update **P-MS1** in [moral-status](/positions/moral-status/) (Last reviewed 2026-08-24 → 2026-08-27) — the derivation ("normative teleology requires an experiencer") now says *which* experiencer it needs, after two of its five *Argued in* articles were rewritten today around the no-self objection.
+- **Changes**: (a) *Asserts*: one clause — the experiencer the derivation needs is a **momentary experiential locus**, not a persisting self, citing `[[concepts/no-self-objection-to-phenomenal-value#maps-reply]]` (anchor confirmed on disk, concept L81); status sits at the base layer of value, the persisting subject the agency cluster asserts is a further claim the entry does not rest on; reply registered as "unrefuted and contested, not tested" — the same wording `concepts/sentientism` §"Interests Require a Subject" (19:10 cross-review) and `topics/phenomenal-value-realism` §Indexical Value (14:54) adopted. (b) *Would shift if*: fifth limb inherited from the P-VS3 P3 task's wording — "a verified report of a valenced experience that was genuinely for no one", scoped so self-model-less MPE states do not count, only locus-less ones (`#rivals`). (c) Concept added under *Depends on* via P-VS3 ("taken at the momentary grain … defends"), **not** under *Argued in* — the derivation leans on it only for the grain, not for the criterion; *Argued in* parenthetical for `concepts/sentientism` extended by five words to name the new paragraph. (d) Dated *Updated 2026-08-27* line; *Last reviewed* bumped. (e) **P-MS2** *Depends on*: one clause noting the stakes half is the layer a no-self deflation of the persisting subject would reach, status holding at the momentary locus — P-MS2 not re-rated, *Last reviewed* untouched. Frontmatter `concepts:` gains the concept.
+- **Not changed**: P-MS1 credence (moderate, capped by P-VS3) and grade (D); P-I1 / P-SC3 deliberately not added to *Depends on* (cascade isolation is the reply's point); `positions/value-in-selection` untouched — P-VS3's own no-self limb remains the open P3 `positions-evolve` task and was not executed from here.
+- **Length**: `moral-status.md` 1703 → **1915** by `analyze_length` (+212; over the brief's ~120 target after one trim pass, 585 under the 2500 positions hard ceiling; `soft_warning` before and after).
+- **Cascade**: P-MS2 depends on P-MS1 and the status/stakes separation — the addition strengthens rather than moves that dependency (base layer = status, diachronic layer = stakes). No downstream position's *Would shift if* was removed. No follow-up tasks minted.
+- **Sync**: both trees; Hugo copy verified (`#maps-reply` and `#rivals` anchors resolve to `/concepts/no-self-objection-to-phenomenal-value/#…`). `ai_modified` from live `date -u`; `ai_system` unchanged (`claude-fable-5` already listed). Todo task left for cycle_post; not committed.
 
 ## 2026-08-27T19:10:48+00:00 - deep-review
 - **Status**: Success
