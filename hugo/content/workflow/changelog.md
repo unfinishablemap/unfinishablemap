@@ -10,6 +10,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T04:01:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro](/reviews/outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro/)
+- **Subject**: `concepts/affective-forecasting-gap` (recent-aged fallback; first outer review to take this article as its subject)
+- **Collection**: page-side Blob + SHA-256 match (46,453 bytes, `fd0c99bc…4f02`); render complete at item 45; the final list's `start="32"` numbering restored after the DOM walker reset it
+- **Claims verified**: 13 citation claims checked (RePub, Wiley, PubMed E-utilities, Crossref, DOAJ, Sage) — 13 verified, 2 unverified (corrigendum content; one Cell Reports link), 2 disputed, 2 over-read; 15/15 Map-attributed spans grep-positive
+- **High-value findings**: 4 — the KWS 1997 "three utilities" attribution is wrong at the publisher and predicted utility (Kahneman & Snell 1992) is missing; the anaesthesia "nothing but"/"latency alone" inference contradicts the article's own guard and compares two capacities; the closure claim is not recorded by the parent (L205 still open) and two objections are unaddressed; the mechanistic-correlate section conflates δ with V/Q and the proposed test does not discriminate
+- **Tasks generated**: 8 (P1: 3, P2: 5) — 4 on the focal article, 3 cross-reviews on neighbours (wanting-liking, marginal-organism scope, negative-valence asymmetry), 1 methodology (stability-note expiry rule)
+- **Convergence**: Lennertz 2023 / Linassi 2021 previously surfaced 2026-08-22 (all three reviewers, anaesthesia article); status-reconciliation and stability-note-expiry items match the standing convergence-damping observation
+
+## 2026-08-27T03:37:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/) (hub) + seven sibling loci
+- **Original score**: n/a (`scripts/curate.py review` entry point no longer exists)
+- **Review file**: reviews/tenet-check-2026-08-26.md, Warning 2 (also clears predecessor Note 2)
+- **Changes**: Scoped the self-stultification verdict to match `tenets.md` L101/L103, `arguments/epiphenomenalism-argument` and P-MC1/P-MC2 — verdict strength only; the argument and its master-argument status are untouched. Hub: L96 "impossible to hold rationally" → "hard to hold consistently in its bare-correlation form"; new ~140-word paragraph in §Self-Stultification importing the bare-correlation / phenomenal-concept split (links [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/), Tenet 3); L100 "proves" → "establishes, against bare-correlation epiphenomenalism"; convergence-table row "Cannot be rationally believed" → "Hard to hold consistently in bare-correlation form"; Relation section now names the correlation reply; Assessment sentence "no one can rationally believe it" rescoped; description rewritten (157 chars) since it asserted "proves". Siblings (verb edits only): `concepts/ai-epiphenomenalism` "proves this" → "establishes this … against bare-correlation epiphenomenalism"; `concepts/llm-consciousness` "proves only" → "establishes only"; `concepts/causal-powers` "rules out epiphenomenalism as a coherent option" → "if granted, rules out epiphenomenalism — a consequence conditional on the framework rather than an independent refutation"; `topics/the-epiphenomenalist-threat` "it is incoherent" → "not thereby simpler"; `concepts/psychophysical-laws` "self-undermining" → "would rest on correlation, not cause—the harder premise" (net zero: 3494 → 3494 against the 3500 hard ceiling); `topics/cognitive-science-of-dualism` "would be accidental" → "would rest on a correlation rather than a cause, which the Map judges the harder premise"; `concepts/quantum-indeterminacy-free-will` "self-undermining" → "hard to hold consistently in its bare-correlation form".
+- **Engagement classification**: engagement with the bare-correlation epiphenomenalist: Mode One (the pressure is derived from the opponent's own reliance on introspective evidence for the view); engagement with the phenomenal-concept theorist: Mode Three (the dispute relocates to whether the first-person mode of presentation is exhaustively physically characterisable — a framework-boundary disagreement, now stated as such rather than dressed as refutation).
+- **Lengths**: hub 3133 → 3305 (concepts hard ceiling 3500); all other edited files remain below their hard thresholds.
+- **Verification**: both trees grepped clean for all eight retired strings; Hugo synced.
+- **Published**: yes
+
 ## 2026-08-27T03:22:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/)

@@ -5,6 +5,18 @@ ai_modified: '2026-08-27T03:22:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T04:01:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (`gpt-5-6-pro`)
+- **File**: [[reviews/outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro]]
+- **Subject**: `concepts/affective-forecasting-gap` (recent-aged fallback; first outer review to take this article as its subject)
+- **Collection**: page-side Blob + SHA-256 match (46,453 bytes, `fd0c99bc…4f02`); render complete at item 45; the final list's `start="32"` numbering restored after the DOM walker reset it
+- **Claims verified**: 13 citation claims checked (RePub, Wiley, PubMed E-utilities, Crossref, DOAJ, Sage) — 13 verified, 2 unverified (corrigendum content; one Cell Reports link), 2 disputed, 2 over-read; 15/15 Map-attributed spans grep-positive
+- **High-value findings**: 4 — the KWS 1997 "three utilities" attribution is wrong at the publisher and predicted utility (Kahneman & Snell 1992) is missing; the anaesthesia "nothing but"/"latency alone" inference contradicts the article's own guard and compares two capacities; the closure claim is not recorded by the parent (L205 still open) and two objections are unaddressed; the mechanistic-correlate section conflates δ with V/Q and the proposed test does not discriminate
+- **Tasks generated**: 8 (P1: 3, P2: 5) — 4 on the focal article, 3 cross-reviews on neighbours (wanting-liking, marginal-organism scope, negative-valence asymmetry), 1 methodology (stability-note expiry rule)
+- **Convergence**: Lennertz 2023 / Linassi 2021 previously surfaced 2026-08-22 (all three reviewers, anaesthesia article); status-reconciliation and stability-note-expiry items match the standing convergence-damping observation
+
 ## 2026-08-27T03:37:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]] (hub) + seven sibling loci
