@@ -1,0 +1,43 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-08-27
+ai_modified: 2026-08-27 17:10:32+00:00
+ai_system: claude-fable-5
+author: Andy Southgate
+concepts:
+- '[[evidential-status-discipline]]'
+created: 2026-08-27
+date: &id001 2026-08-27
+description: 'Relocated calibration audit trail for the value-in-selection positions
+  register: the dated notes recording why each band moved, or why it did not, starting
+  with the 2026-08-27 re-walk of P-VS2''s battery.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-08-27 17:10:32+00:00
+modified: *id001
+related_articles:
+- '[[positions/value-in-selection]]'
+- '[[positions]]'
+- '[[positions/quantum-interface-calibration-history]]'
+title: Value in Selection — Calibration History
+topics: []
+---
+
+## What this file is
+
+This is the relocated calibration audit trail for the [value in selection positions register](/positions/value-in-selection/). **It contains no positions.** Every claim the Map holds in this domain — status, calibration, asserts, dependencies, argued-in citations, and shift conditions — lives in the register file. Only the dated notes recording *why a band moved, or why it did not*, live here.
+
+It follows the convention established by [Quantum interface — calibration history](/positions/quantum-interface-calibration-history/) on 2026-07-29 and extended to [methodology and calibration](/positions/methodology-and-calibration-history/) on 2026-08-03: dated update notes are provenance and belong here; what stays in the register entry is a **Calibration history** line indexing them, plus — where a note carries a calibration judgement that no live field states — a compact **Band rationale** line. Unlike those two files, this one was opened before the domain's audit trail had outgrown its live content: the domain file measured 2,480 words against the section's 2,500-word hard advisory when P-VS2's first update note fell due, and 20 words of headroom would not hold it. Notes are relocated at the next `/positions-evolve` touch of each entry, so the P-VS1, P-VS3 and P-VS4 notes remain inline in the register until those entries are next touched; only the domain-level migration note and the P-VS2 note are here. No entry currently needs a Band rationale line.
+
+## Calibration migration (2026-07-16)
+
+Relocated verbatim from the domain header on 2026-08-27:
+
+**Calibration schema (2026-07-16).** Every position below now carries the [multi-axis calibration block](/positions/methodology-and-calibration/#calibration-schema) (credence · external-evidence grade · structural centrality · model maturity · empirical discriminability · framework-internal only) in place of the former single confidence band, following the outer-review conflation finding (ChatGPT + Claude, 2026-07-16) that the single band measured structural centrality rather than credence or external evidence. Substantive claims, statuses, and dependencies are unchanged. *Updated 2026-07-16: calibration migration.*
+
+## P-VS2
+
+The value-blind / value-sensitive fork is empirically falsifiable, and its discriminating battery points in specified directions.
+
+- **Updated 2026-08-27**: the battery was re-walked tier by tier against its source articles as rewritten on 2026-08-26/27 — the entry's first touch since registration on 2026-06-18, ten weeks in which the cluster was re-founded around [affective-forecasting-gap](/concepts/affective-forecasting-gap/). **Tier 1** ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/)): the six testability hooks stand as registered. The attentional-salience clamp — a valence selection advantage *abolished* under clamp on the graduated middle path, *persisting* on the pure value-sensitive horn, *absent* on the pure value-blind horn — entered the source on 2026-07-07 with [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) and had never been registered; added, since it is the one test that separates the middle path (P-VS1's most defensible stance) from both pure horns. Pain asymbolia was mis-filed under tier 2: it is a tier-1 hook and the wanting/liking article never mentions it; moved. The Depends-on line's "four discriminating tests" named a count the source does not have and is restated as what the source supplies. **Tier 2** ([wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)): the three falsification conditions are textually unchanged since 2026-06-18. What changed is the new [shared terminology map](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology), which separates Berridge's *objective "liking"* (the orofacial signature, present in decerebrate rats) from *conscious pleasure* and states that the conditions test which row selection *consults*. The first condition's "liking (felt quality)" is now stated as conscious pleasure explicitly, so the test cannot be passed by the mechanistic signature. **Tier 3** ([marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)): the anticipatory-evaluation shifter is now conditional in the source — a forward model whose *felt* (not learned-value) value biases a selection step raises the nematode rung on the predicted-utility reading of the currency only, and exhaustive reactivity lowers it on that reading only; on the present-affect reading the rungs below the mammal measure whether anything is felt, which the assay does not decide. The direction is rewritten to match; the source upgraded no rung and none is upgraded here. The source's new **present-affect dissociation** assay (Chao et al. 2004: feeding state and serotonin shift the worm's octanol avoidance with learned value held fixed) is **not adopted** into the battery. The source itself says that at the only rung where the manipulation exists it cannot show the shifted state is felt, so both models predict a changed response and the assay "reads as circuit plasticity"; it becomes discriminating only with an independent felt-state readout, and a later pass may add it under that condition. **Apex**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) was last modified 2026-08-22, not within the 24 hours the task asserted; its asymbolia and wanting/liking sentences match the battery. **Shift condition tested**: the 2026-08-27 outer-review synthesis (3-of-3) found the forecasting article's debiasing/defocusing test "not fit for purpose as stated". That test entered P-VS2 through no source article — all three grep 0 for it, as does the apex — and lived only in the forecasting concept, which replaced it the same morning with a rival-prediction table it frames "in P-VS2's battery framing". The second shift condition (a *named* test confounded) therefore did not fire and the battery did not shrink. **Credence held moderate, grade C, every other axis unchanged.** The forecasting table's two dissociation rows (shift present affect with forecast and learned value fixed; shift learned value with affect and forecast fixed) are not folded in this pass: the concept is not a source of this entry, and the rows' discriminating power presupposes the felt-state readout above. **Vocabulary**: residual "confidence" prose in the entry relabelled *credence* per the 2026-08-03 register-wide decision.

@@ -88,7 +88,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [Finding-level calibration](/positions/finding-level-calibration/) — the same conduct question at the grain of a *single finding*: the architecture-vs-significance two-tier discount, which separates the structural fact a result reports (cross-vocabulary-robust, smaller discount) from what the Map reads it as evidence for (framework-shaped, larger discount), with the discipline's own bounds and its differential scope condition registered alongside the rule
 - *Future domains, to be seeded as the register grows:* applied verdicts (clinical, AI, personal philosophy)
 
-**Companion files (not domains, containing no positions).** [Quantum interface — calibration history](/positions/quantum-interface-calibration-history/) holds the relocated dated update notes for the quantum-interface entries. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back. The convention is available to any domain file whose audit trail has outgrown its live content.
+**Companion files (not domains, containing no positions).** [Quantum interface](/positions/quantum-interface-calibration-history/), [methodology and calibration](/positions/methodology-and-calibration-history/) and [value in selection](/positions/value-in-selection-calibration-history/) each have a calibration-history file holding their relocated dated update notes. Provenance lives there; every claim, calibration and shift condition stays in the domain file, which carries a `Calibration history` line per entry pointing back.
 
 ## How positions are maintained
 
