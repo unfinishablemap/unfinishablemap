@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-05 22:12:37+00:00
+ai_modified: 2026-08-27 18:10:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 09:58:42+00:00
-lastmod: 2026-08-05 22:12:37+00:00
+lastmod: 2026-08-27 18:10:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 2. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216-242.
 3. Andrews, K., Birch, J., & Sebo, J. (2024). The New York Declaration on Animal Consciousness. The Emerging Science of Animal Consciousness Conference, New York University, 19 April 2024.
-4. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+4. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 7. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.

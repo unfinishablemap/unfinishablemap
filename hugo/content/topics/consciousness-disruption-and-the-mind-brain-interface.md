@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-08-08 18:57:18+00:00
+ai_modified: 2026-08-27 18:10:03+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-08-08 18:57:18+00:00
+lastmod: 2026-08-27 18:10:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ DoC cases form a [spectrum](/concepts/degrees-of-consciousness/) that no theory 
 
 ## Covert Consciousness: Awareness Without Expression
 
-The discovery of CMD further complicates the materialist picture. Patients meeting clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis"—responses that appear to involve understanding language, sustaining attention, and forming task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study (Bodien, Claassen, et al.) found CMD in roughly 25% of behaviourally unresponsive patients previously classified as unconscious by standard assessment.
+The discovery of CMD further complicates the materialist picture. Patients meeting clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis"—responses that appear to involve understanding language, sustaining attention, and forming task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study (Bodien et al.) found CMD in roughly 25% of behaviourally unresponsive patients previously classified as unconscious by standard assessment.
 
 These patients are not unconscious. They are *disconnected*—aware but unable to express that awareness through behaviour. The neural pathways linking consciousness to motor output are damaged, while consciousness itself persists.
 
@@ -202,7 +202,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain wh
 
 ## References
 
-1. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+1. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 2. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 3. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
 4. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.

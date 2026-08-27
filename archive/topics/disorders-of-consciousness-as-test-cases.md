@@ -4,7 +4,7 @@ description: "Vegetative states, covert awareness, and locked-in syndrome discri
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-23T04:22:00+00:00
+ai_modified: 2026-08-27T18:10:03+00:00
 last_deep_review: 2026-03-23T04:22:00+00:00
 draft: false
 archived: true
@@ -49,7 +49,7 @@ DoC cases form a [[degrees-of-consciousness|spectrum]] that no theory predicted 
 
 **Locked-in syndrome** presents the opposite dissociation: full consciousness with near-total motor paralysis, typically from ventral pontine lesions. Patients are aware, can think, remember, and feel—but can communicate only through eye movements or eyelid blinks. Locked-in syndrome is not technically a disorder of consciousness but of motor output. Its inclusion in DoC discussions highlights how easily consciousness and its behavioural expression are conflated.
 
-**Cognitive motor dissociation** (CMD) is the most philosophically significant category. Patients who meet clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis." They understand language, sustain attention, and form task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study by Bodien, Claassen, et al. found CMD in approximately 25% of behaviourally unresponsive patients—a finding with profound implications given that these patients had been classified as unconscious by standard clinical assessment.
+**Cognitive motor dissociation** (CMD) is the most philosophically significant category. Patients who meet clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis." They understand language, sustain attention, and form task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study by Bodien et al. found CMD in approximately 25% of behaviourally unresponsive patients—a finding with profound implications given that these patients had been classified as unconscious by standard clinical assessment.
 
 ## What DoC Cases Test
 
@@ -148,7 +148,7 @@ The Unfinishable Map's [[tenets]] converge on DoC cases as among the most reveal
 
 ## References
 
-1. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+1. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 2. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 3. Giacino, J. T., et al. (2002). The minimally conscious state: definition and diagnostic criteria. *Neurology*, 58(3), 349-353.
 4. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.

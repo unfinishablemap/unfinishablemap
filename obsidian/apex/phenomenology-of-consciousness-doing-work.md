@@ -4,7 +4,7 @@ description: "What does it feel like if consciousness acts on matter? Effort, se
 created: 2026-02-23
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-03T11:32:49+00:00
+ai_modified: 2026-08-27T18:10:03+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
@@ -138,7 +138,7 @@ Contemplative evidence also bears on the opacity feature. Buddhist traditions de
 
 ### Cognitive Motor Dissociation: Cognitive Work Without Motor Output
 
-The strongest current clinical exhibit for the profile is cognitive motor dissociation (CMD). Bodien, Claassen and colleagues (2024, *NEJM*) reported that approximately 25% of patients behaviourally meeting criteria for unresponsive wakefulness or minimally conscious states show, on fMRI or EEG, robust task-locked neural responses to commands such as "imagine playing tennis." They comprehend language, sustain attention across the trial, and generate task-relevant motor-imagery patterns while producing no overt behaviour. All four features are present without behavioural expression: effort (sustained imagery is effortful), selection (the patient selects to comply), holding (the response persists), and opacity (the operation producing the imagery remains inaccessible). Consciousness performing cognitive work despite the inability to express it behaviourally is harder for epiphenomenalist readings to accommodate than for interactionist ones: on the strict epiphenomenal picture, isolated consciousness with no motor channel should leave no causal trace, yet the fMRI signal *is* the trace. CMD does not discriminate the Map's specific quantum-selection mechanism from non-reductive physicalist alternatives — both predict the same neural signature. It does discriminate consciousness-doing-cognitive-work from epiphenomenalism, which is the dispute the four-feature profile is set up to engage.
+The strongest current clinical exhibit for the profile is cognitive motor dissociation (CMD). Bodien and colleagues (2024, *NEJM*) reported that approximately 25% of patients behaviourally meeting criteria for unresponsive wakefulness or minimally conscious states show, on fMRI or EEG, robust task-locked neural responses to commands such as "imagine playing tennis." They comprehend language, sustain attention across the trial, and generate task-relevant motor-imagery patterns while producing no overt behaviour. All four features are present without behavioural expression: effort (sustained imagery is effortful), selection (the patient selects to comply), holding (the response persists), and opacity (the operation producing the imagery remains inaccessible). Consciousness performing cognitive work despite the inability to express it behaviourally is harder for epiphenomenalist readings to accommodate than for interactionist ones: on the strict epiphenomenal picture, isolated consciousness with no motor channel should leave no causal trace, yet the fMRI signal *is* the trace. CMD does not discriminate the Map's specific quantum-selection mechanism from non-reductive physicalist alternatives — both predict the same neural signature. It does discriminate consciousness-doing-cognitive-work from epiphenomenalism, which is the dispute the four-feature profile is set up to engage.
 
 ## The Universal Core
 

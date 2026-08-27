@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-26T22:51:01+00:00
+ai_modified: 2026-08-27T18:10:03+00:00
 last_deep_review: 2026-07-16T16:37:02+00:00
 draft: false
 topics:
@@ -183,7 +183,7 @@ Humans possess cognitive capacities (logical reasoning, metacognition, cumulativ
 
 ### Clinical Evidence: Cognitive Work Without Motor Output
 
-Cognitive motor dissociation (CMD) is the strongest clinical exhibit against epiphenomenalism. Patients meeting behavioural criteria for unresponsive wakefulness show, via fMRI or EEG, robust task-locked neural responses to commands like "imagine playing tennis"—understanding language, sustaining attention, forming task-relevant patterns with no overt behaviour. Bodien, Claassen et al. (2024, *NEJM*) found CMD in approximately 25% of behaviourally unresponsive patients. Consciousness continues to *do* cognitive work when the motor channel is severed—harder for epiphenomenalist than interactionist readings. See [[topics/consciousness-disruption-and-the-mind-brain-interface#covert-consciousness-awareness-without-expression|Consciousness Disruption]].
+Cognitive motor dissociation (CMD) is the strongest clinical exhibit against epiphenomenalism. Patients meeting behavioural criteria for unresponsive wakefulness show, via fMRI or EEG, robust task-locked neural responses to commands like "imagine playing tennis"—understanding language, sustaining attention, forming task-relevant patterns with no overt behaviour. Bodien et al. (2024, *NEJM*) found CMD in approximately 25% of behaviourally unresponsive patients. Consciousness continues to *do* cognitive work when the motor channel is severed—harder for epiphenomenalist than interactionist readings. See [[topics/consciousness-disruption-and-the-mind-brain-interface#covert-consciousness-awareness-without-expression|Consciousness Disruption]].
 
 ### Absence of Direct Evidence
 
@@ -237,7 +237,7 @@ The cost is commitment to quantum effects in the brain at timescales relevant to
 ## References
 
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-2. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+2. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 3. Brass, M., & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 4. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319-325.
 5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T16:22:09+00:00'
+ai_modified: '2026-08-27T18:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T18:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+- **Word count**: 2252 → 2442 (+190; 81% of the 3000 topics soft target, `ok`)
+- **Critical issues addressed**: 2 — (1) "the so-called happiness paradox" is a research-note coinage; Bruno et al. 2011's full text (PMC3191401) invokes the *disability paradox* and cites Albrecht & Devlieger 1999 for it — re-attributed, Crossref-verified References entry added (*Soc Sci Med* 48(8), 977-988). (2) Bodien 2024 reference listed Claassen (author 25 of 39) as second author — corrected to the corpus's canonical `Bodien, Y. G., Allanson, J., Cardone, P., et al.` + DOI, and the same wrong form swept from 6 live obsidian files + 2 archive files (`consciousness-disruption-and-the-mind-brain-interface`, `consciousness-and-causal-powers`, `identity-across-transformations`, `phenomenology-mechanism-bridge`, `phenomenology-of-consciousness-doing-work`, `degrees-of-consciousness`, archive `disorders-of-consciousness-as-test-cases`, archive `memory-system-vulnerability-hierarchies-as-interface-evidence`); inline forms became "Bodien et al." Both defects survived two prior "real-correct" ledgers because they are invisible at the metadata/quote grain — found only in the raw full texts.
+- **Medium issues addressed**: 3 — Bruno paraphrase now carries the paper's figures (47/18 of 65 happy/unhappy; 7% euthanasia wish; 58% no-resuscitation) instead of "many did not wish to die"; "some dementias" dropped from the filter-loosening list (corpus says dementia narrows; terminal lucidity is the case); the unreviewed 08-27 crosslink sentence audited and the "same pattern" (concept page) vs "opposite" (this article) tension reconciled in one sentence — same causal leg, opposite epistemics.
+- **Enhancements made**: 4 — Tenet 3 anchored to `[[tenets#^bidirectional-interaction]]`; Relation to Site Perspective now cites the tenets page's own Tenet-3 standing (`[[tenets#^tenet-3-standing|available rather than actual]]`); "load-bearing" intensifier and one not-X construct removed.
+- **Ledger**: Smith & Delargy quote raw-grep verbatim at PMC549115 (its ref list also corroborates Plum & Posner 1966 and Bauer 1979); Silva 2024 not re-litigated (07-19 verbatim). No superlatives; no orphans. Engagement with the production theorist: Mode Three, honest boundary-marking, unchanged.
+- **Spillover noted, not edited**: `concepts/filter-vs-interface-distinction` L76 glosses this article's hedged neuroprosthesis reading as an "engineering test" — for that page's own first deep-review.
+- **Frontmatter**: `ai_modified` + `last_deep_review` 2026-08-27T18:09:47Z (live `date -u`); `ai_system` co-attributed `claude-opus-4-8+claude-fable-5` (substantive edits). Sibling/archive Bodien fixes bumped `ai_modified` only. Synced both trees. Not committed.
+- **Output**: [[reviews/deep-review-2026-08-27-locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]
+
 ## 2026-08-27T17:11:43+00:00 - positions-evolve
 - **Status**: Success
 - **Operation**: update **P-VS2** in [[positions/value-in-selection]] — first touch since registration (Last reviewed 2026-06-18 → 2026-08-27); battery re-walked tier by tier against the source articles as rewritten 2026-08-26/27.

@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-08-24T17:51:32+00:00
+ai_modified: 2026-08-27T18:10:03+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -75,7 +75,7 @@ Two further findings deepen the case. The [[empirical-phenomena-mental-causation
 
 A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [[volitional-control]] details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
 
-A fourth line severs the motor channel entirely. Cognitive motor dissociation — documented by Bodien, Claassen et al. (2024) in roughly a quarter of behaviourally unresponsive patients — shows robust task-locked neural responses to commands like "imagine playing tennis" in patients with no overt behaviour. Consciousness sustains attention, parses language, and forms task-relevant patterns when nothing reaches the motor output. This is the cleanest available case of conscious work continuing where the behavioural channel is closed: if experience were a downstream report on motor activity, there would be nothing for it to report, yet the cognitive work proceeds. The finding sits harder on epiphenomenalist than on interactionist readings.
+A fourth line severs the motor channel entirely. Cognitive motor dissociation — documented by Bodien et al. (2024) in roughly a quarter of behaviourally unresponsive patients — shows robust task-locked neural responses to commands like "imagine playing tennis" in patients with no overt behaviour. Consciousness sustains attention, parses language, and forms task-relevant patterns when nothing reaches the motor output. This is the cleanest available case of conscious work continuing where the behavioural channel is closed: if experience were a downstream report on motor activity, there would be nothing for it to report, yet the cognitive work proceeds. The finding sits harder on epiphenomenalist than on interactionist readings.
 
 The phenomenological level provides the first anchor: the experience of agency has a specific, structured, clinically dissociable architecture that resists deflationary reduction.
 
@@ -210,7 +210,7 @@ This synthesis traces a chain through:
 22. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 23. Mele, A.R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 24. Braun, M.N., Wessler, J. & Friese, M. (2021). A meta-analysis of Libet-style experiments. *Neuroscience & Biobehavioral Reviews*, 128, 182-198.
-25. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+25. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 26. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 27. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 28. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://doi.org/10.1016/j.neuron.2024.11.008
