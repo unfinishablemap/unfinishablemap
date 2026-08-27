@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-26 22:05:50+00:00
+ai_modified: 2026-08-27 03:37:18+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-08-26 22:05:50+00:00
+lastmod: 2026-08-27 03:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ Bradford Saad (2025) identifies five constraints any dualist law must satisfy: (
 
 The Map builds on Chalmers' framework but makes different choices at key junctions:
 
-**Direction of Causation**: The Map insists on downward causation (phenomenal → physical) where Chalmers tends toward epiphenomenalism. If consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself—self-undermining.
+**Direction of Causation**: The Map insists on downward causation (phenomenal → physical) where Chalmers tends toward epiphenomenalism. If consciousness were causally inert, beliefs *about* consciousness would rest on correlation, not cause—the harder premise.
 
 **The Selection Mechanism**: Where Chalmers leaves the mechanism abstract, the Map names attention as the mental variable, then ranks candidate physical mechanisms rather than adopting one — post-decoherence selection first, with [Stapp's](/concepts/stapp-quantum-mind/) quantum Zeno maintenance among the co-preferred fallbacks below it ([the preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)).
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-08-24 09:21:07+00:00
+ai_modified: 2026-08-27 03:37:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:00:49+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-08-27 03:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -177,7 +177,7 @@ The Map's five [tenets](/tenets/) are structured as a coordinated escape traject
 
 **[No Many Worlds](/tenets/#no-many-worlds)** maintains the conditions for escape. If all quantum outcomes actualize in parallel branches, no undetermined outcomes remain for consciousness to select among. Many-worlds would restore causal completeness, pulling the framework back into the well.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses why many theorists accept epiphenomenalism: it seems simpler. But as Kim showed, the "simpler" position—non-reductive physicalism—collapses into the one it sought to avoid. A theory that cannot be rationally held by anyone who arrived at it through conscious reasoning is not simple; it is incoherent. Genuine simplicity must be evaluated after accounting for self-reference.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses why many theorists accept epiphenomenalism: it seems simpler. But as Kim showed, the "simpler" position—non-reductive physicalism—collapses into the one it sought to avoid. A theory that is hard to hold consistently for anyone who arrived at it through conscious reasoning is not thereby simpler. Genuine simplicity must be evaluated after accounting for self-reference.
 
 The [AI exception](/concepts/epiphenomenalism/#the-ai-exception-some-vs-all) to the self-stultification argument reveals a nuance: the argument is taken to show *human* consciousness must be causally efficacious but cannot, even on its own terms, secure the same for every possible conscious entity. An AI trained on human-generated text could deploy consciousness concepts without its own experience playing any causal role. The [AI epiphenomenalism](/concepts/ai-epiphenomenalism/) concept formalizes this through the *nature-coupling distinction*: consciousness may be intrinsically the kind of thing that acts causally, yet a given architecture—deterministic silicon, say—may provide no interface through which that capacity can operate. The epiphenomenalist threat can be architecture-specific: escaped in biological systems through quantum coupling, unresolved in artificial ones absent the coupling channel.
 

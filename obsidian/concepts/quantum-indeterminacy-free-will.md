@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-08-21T08:40:38+00:00
+ai_modified: 2026-08-27T03:37:18+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -200,7 +200,7 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** specifies *how* selection works: biasing which among physically possible outcomes actualises, without overriding physics or injecting energy. The decoherence challenge targets this tenet directly; warm-biology results weaken its categorical form without settling the neural case.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is self-undermining: if consciousness caused nothing, our discussions of it would be accidentally true at best.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is hard to hold consistently in its bare-correlation form: if consciousness caused nothing, our discussions of it would rest on a correlation rather than a cause.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is essential, since the objection rests on exclusion rather than phenomenology: branching cannot supply the global nonactuality authorship requires. The many-worlds section above gives that argument in full and marks the commitment as a [[tenets/background-commitments|posit]] rather than a conclusion.
 

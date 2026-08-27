@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-08-26T22:05:50+00:00
+ai_modified: 2026-08-27T03:37:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ Bradford Saad (2025) identifies five constraints any dualist law must satisfy: (
 
 The Map builds on Chalmers' framework but makes different choices at key junctions:
 
-**Direction of Causation**: The Map insists on downward causation (phenomenal → physical) where Chalmers tends toward epiphenomenalism. If consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself—self-undermining.
+**Direction of Causation**: The Map insists on downward causation (phenomenal → physical) where Chalmers tends toward epiphenomenalism. If consciousness were causally inert, beliefs *about* consciousness would rest on correlation, not cause—the harder premise.
 
 **The Selection Mechanism**: Where Chalmers leaves the mechanism abstract, the Map names attention as the mental variable, then ranks candidate physical mechanisms rather than adopting one — post-decoherence selection first, with [[stapp-quantum-mind|Stapp's]] quantum Zeno maintenance among the co-preferred fallbacks below it ([[comparing-quantum-consciousness-mechanisms#preference-ordering|the preference ordering]]).
 

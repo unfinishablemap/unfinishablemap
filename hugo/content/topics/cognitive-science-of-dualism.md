@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-08-23 00:15:20+00:00
+ai_modified: 2026-08-27 03:37:18+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-23 00:15:20+00:00
-lastmod: 2026-08-23 00:15:20+00:00
+lastmod: 2026-08-27 03:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The Unfinishable Map holds that cognitive science provides valuable evidence abo
 
 The [Dualism tenet](/tenets/#dualism) does not rest on cognitive naturalness or folk intuition. It rests on philosophical arguments — the explanatory gap, conceivability, and the knowledge argument — that cognitive science has not dissolved. The field's own dependence on first-person report as irreducible data actually supports the tenet: if subjective experience were fully captured by third-person description, cognitive science would not need to ask subjects what they see. The "folk error" dismissal also fails on its own terms once the cross-cultural evidence is in. Dualism cannot be written off as naive untutored intuition when the untutored intuition may well be materialist.
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [consciousness](/concepts/consciousness/) flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [consciousness](/concepts/consciousness/) flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would rest on a correlation rather than a cause, which the Map judges the harder premise, and the methodology of cognitive neuroscience would be reliable only as far as that correlation holds. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
 The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [mental causation](/concepts/mental-causation-and-downward-causation/) reflects methodological limitations, not ontological absence.
 

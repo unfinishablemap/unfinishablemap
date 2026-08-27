@@ -5,6 +5,17 @@ ai_modified: '2026-08-27T03:22:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T03:37:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]] (hub) + seven sibling loci
+- **Original score**: n/a (`scripts/curate.py review` entry point no longer exists)
+- **Review file**: reviews/tenet-check-2026-08-26.md, Warning 2 (also clears predecessor Note 2)
+- **Changes**: Scoped the self-stultification verdict to match `tenets.md` L101/L103, `arguments/epiphenomenalism-argument` and P-MC1/P-MC2 — verdict strength only; the argument and its master-argument status are untouched. Hub: L96 "impossible to hold rationally" → "hard to hold consistently in its bare-correlation form"; new ~140-word paragraph in §Self-Stultification importing the bare-correlation / phenomenal-concept split (links [[phenomenal-concepts-strategy]], [[arguments/epiphenomenalism-argument]], Tenet 3); L100 "proves" → "establishes, against bare-correlation epiphenomenalism"; convergence-table row "Cannot be rationally believed" → "Hard to hold consistently in bare-correlation form"; Relation section now names the correlation reply; Assessment sentence "no one can rationally believe it" rescoped; description rewritten (157 chars) since it asserted "proves". Siblings (verb edits only): `concepts/ai-epiphenomenalism` "proves this" → "establishes this … against bare-correlation epiphenomenalism"; `concepts/llm-consciousness` "proves only" → "establishes only"; `concepts/causal-powers` "rules out epiphenomenalism as a coherent option" → "if granted, rules out epiphenomenalism — a consequence conditional on the framework rather than an independent refutation"; `topics/the-epiphenomenalist-threat` "it is incoherent" → "not thereby simpler"; `concepts/psychophysical-laws` "self-undermining" → "would rest on correlation, not cause—the harder premise" (net zero: 3494 → 3494 against the 3500 hard ceiling); `topics/cognitive-science-of-dualism` "would be accidental" → "would rest on a correlation rather than a cause, which the Map judges the harder premise"; `concepts/quantum-indeterminacy-free-will` "self-undermining" → "hard to hold consistently in its bare-correlation form".
+- **Engagement classification**: engagement with the bare-correlation epiphenomenalist: Mode One (the pressure is derived from the opponent's own reliance on introspective evidence for the view); engagement with the phenomenal-concept theorist: Mode Three (the dispute relocates to whether the first-person mode of presentation is exhaustively physically characterisable — a framework-boundary disagreement, now stated as such rather than dressed as refutation).
+- **Lengths**: hub 3133 → 3305 (concepts hard ceiling 3500); all other edited files remain below their hard thresholds.
+- **Verification**: both trees grepped clean for all eight retired strings; Hugo synced.
+- **Published**: yes
+
 ## 2026-08-27T03:22:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/simulation-theory-of-memory]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-08-21 08:40:38+00:00
+ai_modified: 2026-08-27 03:37:18+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-08-21 08:40:38+00:00
+lastmod: 2026-08-27 03:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -203,7 +203,7 @@ Indeterminacy combined with consciousness as selector supplies what libertarian 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** specifies *how* selection works: biasing which among physically possible outcomes actualises, without overriding physics or injecting energy. The decoherence challenge targets this tenet directly; warm-biology results weaken its categorical form without settling the neural case.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is self-undermining: if consciousness caused nothing, our discussions of it would be accidentally true at best.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the luck objection most sharply challenges, since influence that is merely random provides no more freedom than determinism. Quantum indeterminacy specifies *where* consciousness could influence matter, and the epiphenomenalist alternative is hard to hold consistently in its bare-correlation form: if consciousness caused nothing, our discussions of it would rest on a correlation rather than a cause.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is essential, since the objection rests on exclusion rather than phenomenology: branching cannot supply the global nonactuality authorship requires. The many-worlds section above gives that argument in full and marks the commitment as a [posit](/tenets/background-commitments/) rather than a conclusion.
 

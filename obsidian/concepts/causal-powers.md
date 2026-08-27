@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-25T03:32:46+00:00
+ai_modified: 2026-08-27T03:37:18+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -82,7 +82,7 @@ A fair objection: does attributing "causal powers" to consciousness genuinely ex
 
 First, it provides **metaphysical coherence**. Without a powers framework, interactionism faces the question: *in virtue of what* does consciousness affect neural processes? Saying "it just does" is brute; saying "consciousness possesses dispositional properties directed toward neural manifestations" locates mental causation within a well-developed metaphysical category that already handles causation elsewhere in nature. The claim becomes structurally continuous with how charge attracts, how mass gravitates—not identical in empirical precision, but the same kind of metaphysical relation.
 
-Second, powers realism **rules out epiphenomenalism as a coherent option**. If phenomenal properties are genuine causal powers—dispositional properties essentially directed toward effects—then a conscious state that produces no effects is metaphysically impossible, not merely empirically unlikely. Epiphenomenalism requires that consciousness be a categorical property or a mere accompaniment to physical dispositions. Powers realism denies this: to *be* a phenomenal property is to *have* certain causal capacities. This is a substantive metaphysical commitment, not a restatement of the conclusion.
+Second, powers realism, **if granted, rules out epiphenomenalism**—a consequence conditional on the framework rather than an independent refutation. If phenomenal properties are genuine causal powers—dispositional properties essentially directed toward effects—then a conscious state that produces no effects is metaphysically impossible, not merely empirically unlikely. Epiphenomenalism requires that consciousness be a categorical property or a mere accompaniment to physical dispositions. Powers realism denies this: to *be* a phenomenal property is to *have* certain causal capacities. This is a substantive metaphysical commitment, not a restatement of the conclusion.
 
 Third, it **connects consciousness to the broader dispositional framework** that grounds all natural causation. If fundamental physical properties are powers (as dispositional essentialism and the powerful-qualities identity theory both hold), then phenomenal powers are not a special exception bolted onto an otherwise categorical world. Consciousness participates in the same ontological structure as everything else that causes anything. This matters because the strongest objection to interactionism has always been that mental causation is *sui generis*—unlike anything else in nature. Powers realism dissolves that objection by showing it is not.
 
