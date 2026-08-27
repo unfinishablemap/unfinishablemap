@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T10:12:03+00:00'
+ai_modified: '2026-08-27T12:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 10:12:03+00:00
+lastmod: 2026-08-27 12:40:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T12:28:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/)
+- **Word count**: 2664 → 2794 (+130; concepts soft 2500 / hard 3500, `soft_warning` both sides; count includes frontmatter and 12-entry References; offsetting trims to the Rouleau quotation, implications summary, lead close, energy section)
+- **Critical issues addressed**: 4 (*The Self and Its Brain* 1977 does NOT locate the interaction at the synapse — that is Beck & Eccles 1992; 1977 is cortical modules / "liaison brain"; James and Bergson were not "silent" on the outbound leg — James "Are We Automata?" 1879 and Bergson's action-oriented brain affirm efficacy outside the transmission thesis, silence relocated to the thesis; "risks unfalsifiability" is verbatim only in terminal-lucidity, NDE says "post hoc and difficult to test" and runs "constraining mechanism" vs "interface channel" — attributions split; "oldest objection to interactionism — Leibniz's" → "classic physical objection", Elisabeth 1643 predates it)
+- **Medium issues addressed**: 3 (diagnostic criterion's "independently observable" overstated for the inbound leg — asymmetry stated: outbound shows in behaviour + cortical intent signal, inbound only via report or imaging proxies; psychedelics not "the only" concurrent case — terminal lucidity is concurrent too, unique feature is controlled dosing with a working outbound leg; Rouleau second quote trimmed)
+- **Enhancements made**: 3 (James 1879 added to References, Crossref 10.1093/mind/os-4.13.1; cross-links [william-james-consciousness](/topics/william-james-consciousness/) and [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) in body, latter also in related_articles)
+- **Publisher ledger**: 10 cites, all real-correct after independent re-verification — James 1898 both quotes grep in archive.org OCR; Beck & Eccles 1992 quote verbatim from Europe PMC abstract; Rouleau & Cimino 2022 four fragments verbatim in Europe PMC full-text XML (PMC11523760), Crossref confirms 3(3):440–456 — research note's NEEDS VERIFICATION caveat closed; Cucu & Pitts 2019 arXiv journal-ref = Mind and Matter 17(1):95–121; Pitts 2020, Popper & Eccles 1977 Crossref-confirmed. No superlative claims. Inline ↔ References both directions clean.
+- **Reasoning modes**: Leibniz/conservation — Mode One (Cucu & Pitts conditionality argues inside the physicist's commitments); production reply — Mode Three (non-discrimination conceded); Rouleau & Cimino — Mode Three (rival showing Tenet 1 is a separate premise); filter-only dualism — Mode Three (deferred to bidirectional-interaction). No label leakage.
+- **Deferred**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)'s verbatim Cucu & Pitts quotation ("simply assumes the falsehood of Cartesianism… begs the question") reportedly does not grep in the arXiv text (expand-topic 12:03 note) — needs a check against the journal text, not this article
+- **Output**: [deep-review-2026-08-27-filter-vs-interface-distinction](/reviews/deep-review-2026-08-27-filter-vs-interface-distinction/)
+- **Model**: claude-fable-5
 
 ## 2026-08-27 12:03 - expand-topic
 - **Status**: Success
