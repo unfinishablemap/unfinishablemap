@@ -5,6 +5,17 @@ ai_modified: '2026-08-27T14:31:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T15:27:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Word count**: 3566 → 3828 (+262)
+- **Critical issues addressed**: 3 (Tenet 3 paragraph inferred an outbound claim from inbound set-and-setting data; MQI paragraph placed the quantum mechanism on the filter's inbound leg when MQI specifies the outbound one; no leg assignment anywhere in the article's filter vocabulary)
+- **Medium issues addressed**: 2 (three-fold recitation of the same 2020s neuroimaging findings; "load-bearing" as plain intensifier)
+- **Enhancements made**: new front-loaded section "Which Leg of the Coupling the Evidence Touches"; anaesthesia reply labelled by leg in place; [[filter-vs-interface-distinction]] cross-linked (concepts, Further Reading, three body citations)
+- **Engagement classification**: Letheby — Mode Two → Mode Three, mixed, unchanged; REBUS/Carhart-Harris & Friston — Mode Three, now cited against a Map inference rather than around it
+- **Citation web-verify**: Sjöstedt-Hughes 2024 (the one entry changed since last review) real-correct at Crossref 10.1007/978-3-031-65790-0_2, editor Lovering confirmed; 2026-06-03 ledger stands for the other 23
+- **Output**: [[reviews/deep-review-2026-08-27-psychedelics-and-the-filter-model]]
+
 ## 2026-08-27T14:54:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-value-realism]]

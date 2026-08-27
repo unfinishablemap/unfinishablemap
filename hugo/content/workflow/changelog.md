@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T15:27:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 3566 → 3828 (+262)
+- **Critical issues addressed**: 3 (Tenet 3 paragraph inferred an outbound claim from inbound set-and-setting data; MQI paragraph placed the quantum mechanism on the filter's inbound leg when MQI specifies the outbound one; no leg assignment anywhere in the article's filter vocabulary)
+- **Medium issues addressed**: 2 (three-fold recitation of the same 2020s neuroimaging findings; "load-bearing" as plain intensifier)
+- **Enhancements made**: new front-loaded section "Which Leg of the Coupling the Evidence Touches"; anaesthesia reply labelled by leg in place; [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/) cross-linked (concepts, Further Reading, three body citations)
+- **Engagement classification**: Letheby — Mode Two → Mode Three, mixed, unchanged; REBUS/Carhart-Harris & Friston — Mode Three, now cited against a Map inference rather than around it
+- **Citation web-verify**: Sjöstedt-Hughes 2024 (the one entry changed since last review) real-correct at Crossref 10.1007/978-3-031-65790-0_2, editor Lovering confirmed; 2026-06-03 ledger stands for the other 23
+- **Output**: [deep-review-2026-08-27-psychedelics-and-the-filter-model](/reviews/deep-review-2026-08-27-psychedelics-and-the-filter-model/)
+
 ## 2026-08-27T14:54:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
