@@ -4,8 +4,8 @@ description: "Remembering as imagining the past: the constructive-simulation acc
 created: 2026-06-24
 modified: 2026-06-24
 human_modified: null
-ai_modified: 2026-08-04T08:06:00+00:00
-last_deep_review: 2026-07-27T00:34:01+00:00
+ai_modified: 2026-08-27T03:22:41+00:00
+last_deep_review: 2026-08-27T03:22:41+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -25,16 +25,17 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[reconsolidation-as-selection-window]]"
   - "[[capability-division-problem]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-06-24
 last_curated: null
 ---
 
 The Simulation Theory of Memory (STM) holds that remembering is a species of imagining: to recall a past episode is to *construct*—to simulate—a representation of it, not to retrieve a stored record. Its most radical philosophical proponent, Kourken Michaelian, finds no intrinsic kind-level difference between remembering and imagining and concludes that to remember is "to imagine the past." On this view the causal connection to the original experience—the *memory trace* the older causal theory requires—is not what makes a present mental state a memory.
 
-The Unfinishable Map's verdict is split, and the split is the point. STM correctly deflates the storage-and-retrieval metaphor of memory, a deflation the Map's own [[episodic-memory|account of episodic memory]] already shares. But STM's standard naturalistic form claims more: that physical reconstruction *exhausts* what remembering is. The Map denies this. From simulational resources alone, STM cannot ground the [[#the-discrimination-problem|feeling of remembering]] (explained below)—the [[anoetic-noetic-autonoetic-consciousness|autonoetic]] sense that *this happened to me*—nor explain how a subject tells a memory apart from a free imagining. That gap is exactly where the Map locates an irreducible conscious contribution.
+The Unfinishable Map's verdict is split, and the split is the point. STM correctly deflates the storage-and-retrieval metaphor of memory, a deflation the Map's own [[episodic-memory|account of episodic memory]] already shares. But STM's standard naturalistic form claims more: that physical reconstruction *exhausts* what remembering is. The Map denies this. From simulational resources alone, STM cannot ground the [[#the-discrimination-problem|feeling of remembering]] (explained below)—the [[anoetic-noetic-autonoetic-consciousness|autonoetic]] sense that *this happened to me*—by which a subject tells a memory apart from a free imagining. The strongest physicalist repair, a transparent self-model built alongside the episode, offers a candidate mechanism for the discrimination but no account of why its verdicts are felt. That narrower gap is where the Map locates an irreducible conscious contribution.
 
 ## The Constructive-Simulation Lineage
 
@@ -68,13 +69,13 @@ This is the explanatory residue STM generates but does not absorb—and it is a 
 
 ### The self-model reply
 
-The residue claim faces a rival that grants the phenomenology and refuses only the metaphysics. Metzinger (2003) holds there is no self that has experiences, only a *phenomenal self-model* the brain builds and cannot introspect *as* a model; predictive-processing versions treat that model as an instrument of prediction-error minimisation, with Apps and Tsakiris (2014) analysing self-recognition as Bayesian inference to the hypothesis most likely to be "me". On this reading the feeling of remembering is a further thing construction supplies rather than what construction leaves over—a model of oneself as the past episode's subject, transparent by design, so its outputs are lived as findings. The Map's reply is that transparency explains why the model is not experienced *as* a model without explaining why running it is experienced at all. That reply relocates the hard problem rather than closing it; [[phenomenology-of-memory-and-the-self]] states the bound it must respect and the confidence cost of accepting it, and [[self-model-theory-of-subjectivity]] sets out the rival in full.
+The residue claim faces a rival that grants the phenomenology and refuses only the metaphysics. Metzinger (2003) holds there is no self that has experiences, only a *phenomenal self-model* the brain builds and cannot introspect *as* a model; predictive-processing versions treat that model as an instrument of prediction-error minimisation, with Apps and Tsakiris (2014) analysing self-recognition as Bayesian inference to the hypothesis most likely to be "me". Neither source addresses remembering directly; extended to memory, the account makes the feeling of remembering a further thing construction supplies rather than what construction leaves over—a model of oneself as the past episode's subject, transparent by design, so its outputs are lived as findings. The Map's reply is that transparency explains why the model is not experienced *as* a model without explaining why running it is experienced at all. That reply relocates the hard problem rather than closing it, and it concedes the discrimination *mechanism* while contesting only its felt character—so the residue STM leaves is narrower than the section above first states. [[phenomenology-of-memory-and-the-self]] states the bound the relocation move must respect and the confidence cost of accepting it; [[self-model-theory-of-subjectivity]] sets out the rival in full, and [[predictive-processing-and-dualism]] the wider programme it belongs to.
 
 ## Relation to Site Perspective
 
 The Map's engagement with STM is a case of adopting a mechanism while refusing its eliminative gloss. Schacter, Addis, and Michaelian build their accounts as fully physical, reconstructive, computational stories of memory; the Map cites their findings and their deflation of storage, but engages their reductive conclusions as a rival. The constructive *mechanism* is welcome; the claim that the mechanism is the *whole* story is where the disagreement lives.
 
-**[[tenets#^dualism|Dualism]]**: The Map's [[episodic-memory|dual-domain account]] already holds that remembering is constructive re-experiencing, not data retrieval—so it shares STM's anti-archival deflation wholesale. The divergence is over residue. STM's standard form treats remembering as reducible to physical reconstruction, with no role for an irreducible conscious contribution; the Map holds that autonoesis—the felt pastness, the double presence of self, the [[mine-ness|*this-happened-to-me* marker]]—is exactly what physical construction cannot supply. The discrimination problem the simulationist literature raises against itself is, on the Map's reading, the signature of that missing contribution.
+**[[tenets#^dualism|Dualism]]**: The Map's [[episodic-memory|dual-domain account]] already holds that remembering is constructive re-experiencing, not data retrieval—so it shares STM's anti-archival deflation wholesale. The divergence is over residue. STM's standard form treats remembering as reducible to physical reconstruction, with no role for an irreducible conscious contribution; the Map holds that autonoesis—the felt pastness, the double presence of self, the [[mine-ness|*this-happened-to-me* marker]]—is exactly what physical construction cannot supply. The discrimination problem the simulationist literature raises against itself is, on the Map's reading, the signature of that missing contribution—narrowed, once the self-model reply is granted its mechanism, to the question of why the discrimination is felt rather than merely computed.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: STM's reliability question—if remembering is constructing, why trust it?—invites the Map's interface answer. Construction is not neutral assembly; it is goal-directed selection among candidate reconstructions, and the *setting* of that goal is where consciousness contributes directional input rather than passively reading out the strongest trace. The empirical opening the Map points to is the reconsolidation window, when a reactivated trace destabilises and the physical system is briefly underdetermined; the interface reading is developed, held separate from the empirical signature, in [[reconsolidation-as-selection-window]].
 
@@ -104,7 +105,7 @@ The honest framing: STM is right about *how* memories are assembled and right to
 1. Robins, S. K. (2016). Misremembering. *Philosophical Psychology*, 29(3), 432–447.
 1. Rivadulla-Duró, A. (2024). The simulation theory of memory and the phenomenology of remembering. *Phenomenology and the Cognitive Sciences*, 23, 925–945. https://doi.org/10.1007/s11097-022-09881-z
 1. Michaelian, K. (2022). Radicalizing simulationism: remembering as imagining the (nonpersonal) past. *Philosophical Psychology*, 37(5), 1170–1196. https://doi.org/10.1080/09515089.2022.2082934
-1. Michaelian, K., Robins, S. K., & Sant'Anna, A. (Eds.). Memory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/memory/
+1. Michaelian, K., Sutton, J., & Sant'Anna, A. Memory. *Stanford Encyclopedia of Philosophy* (first published 2017; current revision). https://plato.stanford.edu/entries/memory/
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 1. Apps, M. A. J., & Tsakiris, M. (2014). The free-energy self: A predictive coding account of self-recognition. *Neuroscience & Biobehavioral Reviews*, 41, 85–97. https://doi.org/10.1016/j.neubiorev.2013.01.029
 1. Southgate, A. & Oquatre-six, C. (2026-01-17). Episodic Memory and Autonoetic Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/

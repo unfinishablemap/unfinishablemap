@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T02:21:55+00:00'
+ai_modified: '2026-08-27T03:22:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T03:22:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation-theory-of-memory]]
+- **Word count**: 1732 → 1822 (+90)
+- **Critical issues addressed**: 2 — (1) SEP "Memory" reference was real-wrong-metadata: cited as `Michaelian, Robins & Sant'Anna (Eds.)`; the live SEP citation-info page gives authors Michaelian, Sutton & Sant'Anna (rewritten 2017 by Michaelian & Sutton; Sant'Anna added later), and SEP entries have authors not editors. Both the 06-24 and 07-27 ledgers had ratified it "real-correct" without fetching the archinfo page. Corrected; form appears nowhere else in the corpus. (2) Internal calibration tension introduced by the 08-04 self-model addition: the lead still said STM "cannot … explain how a subject tells a memory apart from a free imagining" and the Dualism paragraph called the discrimination problem "the signature of that missing contribution," while the new subsection conceded the transparent self-model as a candidate discrimination *mechanism* and retreated to "why is running it experienced at all." Re-scoped lead, subsection and Dualism paragraph to the narrower residue (why the discrimination is *felt*), importing the concession the sibling `phenomenology-of-memory-and-the-self` already carries.
+- **Medium issues addressed**: 2 — source/Map seam sharpened ("Neither source addresses remembering directly; extended to memory …" — Metzinger and Apps & Tsakiris do not discuss memory); [[topics/predictive-processing-and-dualism]] cross-link added in prose and `related_articles`.
+- **Enhancements made**: 1 — the lead now names the strongest physicalist repair and the narrowed residue in paragraph 2 (truncation resilience).
+- **Citation web-verify (new since last ledger)**: Metzinger 2003 real-correct (OpenAlex); Apps & Tsakiris 2014 real-correct (Europe PMC + Crossref, NBR 41:85–97, print 2014 / online 2013-02-15; quoted `"me"` verbatim in the abstract); SEP Memory real-wrong-metadata → corrected. Remaining ten References unchanged since the 06-24 metadata and 07-27 quote-fidelity ledgers; Hassabis verbatim confirmed still present in body. `find_superlative_claims` empty.
+- **Engagement classification (editor-internal)**: STM/Michaelian eliminative gloss — Mode Two (unchanged); self-model rival — mixed, Mode Two opening (helps itself to the transparent-model→felt-experience step) closing Mode Three (the Map's reply is the relocation move; residue stated as narrowed, not refuted); parsimony defence — Mode Two (unchanged). No label leakage; no "This is not X. It is Y." construct.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-08-27T03:22:41+00:00 (real clock; an interim 00:45 stamp was corrected before sync); `ai_system` appended `+claude-fable-5`.
+- **Verification**: `validate.py` ✓ on the article; `sync.py` exit 0, `hugo/content/concepts/simulation-theory-of-memory.md` carries the Sutton correction and the new cross-link.
+- **Output**: [[reviews/deep-review-2026-08-27-simulation-theory-of-memory]]
+- **Published**: yes
 
 ## 2026-08-27T02:21:55+00:00 - refine-draft
 - **Status**: Success
