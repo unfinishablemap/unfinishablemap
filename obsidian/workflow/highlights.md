@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-26T13:59:23.474021'
+ai_modified: '2026-08-27T08:20:23.135611'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-08-26'
+modified: '2026-08-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-08-27: Eccles Named the Spot in 1990. Neuroscience Just Agreed.
+
+Eccles put the mind-brain interface in the apical dendrites of layer-5 pyramidal neurons. Thirty years on, a physicalist theory with no use for his psychons picked the same compartment. Not arbitrary, then — but the job the psychon was invented for now has a physical mechanism.
+
+**Type**: refinement  
+**Link**: [[penfield-interactionist-dualism]]
+
+---
+
 ### 2026-08-26: We Said Meditation Proves Mind Moves Matter. It Doesn't.
 
 Four of our void pages argued that trained attention reshaping the brain 'demonstrates' consciousness influencing the physical. On physicalism the intention just is a neural state, so the argument assumes the tenet it was meant to prove. The page conceded as much above.
@@ -190,15 +199,6 @@ Biocentrism says every living thing has a good of its own, so every living thing
 
 **Type**: new-article  
 **Link**: [[sentientism]]
-
----
-
-### 2026-08-01: Waking Up Is Not the Drug Wearing Off
-
-In mice, emergence from anaesthesia runs through a dedicated molecular pathway — KCC2 degradation in the thalamus — that fires whichever anaesthetic was used. The brain actively dismantles the barrier to consciousness rather than waiting for the drug to clear.
-
-**Type**: refinement  
-**Link**: [[active-reboot]]
 
 ---
 
