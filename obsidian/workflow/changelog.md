@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T05:01:00+00:00'
+ai_modified: '2026-08-27T05:24:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T05:24:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-08-27
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro); all three audited `concepts/affective-forecasting-gap` via the reuse branch
+- **Clusters**: 9 convergent (3 at 3-of-3: present anticipatory affect; anaesthesia "latency alone"; the proposed test), 9 singleton, 4 divergent (Claude passed KWS 1997 that ChatGPT found wrong at the publisher; ChatGPT vs Gemini on RPE; duration neglect; disposition — Gemini's "reject" rests on claims that failed verification)
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2 — the mechanistic-correlate precision pass; the methodology-and-calibration rule set)
+- **Tasks deduplicated**: 1 (two sibling P2s on `positions/methodology-and-calibration` merged into one P1); 4 tasks already at P1 annotated and re-fielded, 5 singleton tasks untouched
+- **Not minted**: the convergent upstream-propagation item (`consciousness-value-connection` warning; `concepts/valence`) has no open task — recorded in the synthesis for the operator
+- **Output**: [[reviews/outer-review-synthesis-2026-08-27]]
 
 ## 2026-08-27T05:01:00+00:00 - outer-review
 
