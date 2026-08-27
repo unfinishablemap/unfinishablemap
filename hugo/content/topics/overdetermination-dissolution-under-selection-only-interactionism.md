@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-08-03 08:13:10+00:00
+ai_modified: 2026-08-27 06:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,8 +21,8 @@ description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdete
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 14:16:35+00:00
-lastmod: 2026-08-03 08:13:10+00:00
+last_deep_review: 2026-08-27 06:42:00+00:00
+lastmod: 2026-08-27 06:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[the-interface-problem]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[born-preserving-causal-efficacy]]'
 title: Overdetermination Dissolution Under Selection-Only Interactionism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,7 +79,7 @@ To see why the dissolution works, the architecture of a selection event has to b
 
 The architecture commits to [post-decoherence-selection](/concepts/post-decoherence-selection/) as the locus of the interface rather than to pre-decoherence coherence at neural scales — a choice that sidesteps the [decoherence-timing objection](/concepts/objections-to-interactionism/) but which the Map registers as one mechanism candidate rather than a settled commitment. What matters for the overdetermination argument is the structural division of labour, not which specific mechanism implements it.
 
-Under this architecture, asking "did the physical cause or the mental cause produce c_k?" is the wrong question. The physical cause produced the set {c_i} and its probabilities; the mental cause produced the realisation of c_k specifically. They produced different things, jointly resulting in the same observable outcome — one effect, two-part decomposition.
+Under this architecture, asking "did the physical cause or the mental cause produce c_k?" is the wrong question. The physical cause produced the set {c_i} and its probabilities; the mental cause produced the realisation of c_k specifically. They produced different things, jointly resulting in the same observable outcome.
 
 ## Distinguishing from Trumping and Delegatory Approaches
 
@@ -96,7 +97,7 @@ The two approaches are compatible. The [bridge article](/topics/delegation-meets
 
 The dissolution is not free. It commits the Map to specific empirical claims and to specific limits on what consciousness can do — costs the selection-only-channel article treats in detail and which the [companion topic article](/topics/selection-only-mind-influence/) grounds empirically.
 
-The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through Maier-Dechamps-Pflitsch's 2018 Bayesian replication) or violate no-signalling (since the Born rule itself is derivable from relativistic-causality considerations). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the surviving per-event bound is the log₂(N) ceiling set by the brain-prepared candidate set (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)).
+The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through the large-sample Bayesian test of Maier, Dechamps and Pflitsch (2018), which returned strong evidence for the null) or violate no-signalling (since, as Han and Choi (2016) argue, the Born rule is itself derivable from relativistic-causality constraints). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the per-event bound is simply the log₂(N) ceiling set by the brain-prepared candidate set, which Born-rule preservation does not tighten (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). Formally unconstrained is not untested, though: the coarsest mind-conditioned grain — intention directed at a random-number generator — is exactly what the Maier study measured and found empty; what stays open is the finer, task-embedded grain no laboratory instruction reproduces.
 
 The second cost is content-confinement. Mind cannot register, choose, or report content that no candidate encodes. This is a strong constraint on the phenomenal repertoire — the dimensionality of reportable conscious content is bounded above by the dimensionality of the brain-generated candidate space at the relevant decoherence stage. The overdetermination dissolution carries this content-confinement as a structural commitment; without it, the candidate set would not be the upper bound on what mind can supply, and the non-competition argument would fail.
 
@@ -106,7 +107,7 @@ The dissolution is therefore conditional on a specific physical picture. The Map
 
 ## What the Dissolution Does Not Claim
 
-The argument here is structural, not evidential. The dissolution makes the case that selection-only interactionism is compatible with denying Kim's premise 3 in a non-ad-hoc way. It does not follow that selection-only interactionism is *true*, and the Map should not read the dissolution as positive evidence for the interface model. Treating the dissolution's elegance as evidence of its truth would commit the [possibility-probability slippage](/concepts/possibility-probability-slippage/) the Map names as a recurring error. Structural compatibility may be a necessary condition for the framework to be coherent under Kim's pressure; it is not a sufficient condition for the framework to be correct. Removing a defeater is not the same as upgrading the evidence: the dissolution clears Kim's exclusion argument out of the way without thereby raising the probability that the selection-only picture is the right one.
+The argument here is structural, not evidential. The dissolution makes the case that selection-only interactionism is compatible with the local failure of Kim's premise 1 in a non-ad-hoc way — which is what leaves premise 3 with nothing to grip. It does not follow that selection-only interactionism is *true*, and the Map should not read the dissolution as positive evidence for the interface model. Treating the dissolution's elegance as evidence of its truth would commit the [possibility-probability slippage](/concepts/possibility-probability-slippage/) the Map names as a recurring error. Structural compatibility may be a necessary condition for the framework to be coherent under Kim's pressure; it is not a sufficient condition for the framework to be correct. Removing a defeater is not the same as upgrading the evidence: the dissolution clears Kim's exclusion argument out of the way without thereby raising the probability that the selection-only picture is the right one.
 
 Nor does the dissolution rescue all forms of interactionist dualism from Kim. Generation-permitting interactionist proposals — where mind contributes to which candidates the brain physically realises, not only to which one becomes actual — face Kim's argument in its original form. At a candidate-generation event, mind would seem to be adding to the physical-side causal story in a way that does either compete with or extend ordinary physical causation. Whether generation-permitting models could dissolve overdetermination by some analogous move is an open question the Map does not answer here. The dissolution presented in this article is specific to the selection-only reading.
 
@@ -141,13 +142,12 @@ That escape operates at the token level — a genuine per-trial role, fixing whi
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why energy-conservation worries do not apply at the selection interface
 - [the-interface-problem](/topics/the-interface-problem/) — The deeper question of why consciousness interfaces where it does
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — The full catalogue of objections the Map's framework must answer
-- [tenets](/tenets/) — The Map's foundational commitments
 
 ## References
 
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 2. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-3. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939–967.
+3. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3–4), 939–967. https://doi.org/10.1007/s11098-025-02290-3
 4. Schaffer, J. (2000). Trumping preemption. *Journal of Philosophy*, 97(4), 165–181.
 5. Yablo, S. (1992). Mental causation. *Philosophical Review*, 101(2), 245–280.
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/

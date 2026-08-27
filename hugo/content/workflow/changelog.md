@@ -10,7 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-08-27T07:20:00+00:00 - refine-draft
+## 2026-08-27T06:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Word count**: 2918 → 2985 (+67; topics thresholds printed 3000/4000/6000, `ok` — additions offset by three trims after briefly touching 3002)
+- **Critical issues addressed**: 3 — (1) internal contradiction present since the 2026-05-14 create and missed by five reviews: §"Does Not Claim" said the framework is "compatible with denying Kim's premise 3", while every other section says it denies premise 1 locally and keeps premise 3 (now "compatible with the local failure of Kim's premise 1 … which is what leaves premise 3 with nothing to grip"); (2) citation framing — Maier, Dechamps & Pflitsch 2018 is a decisive large-sample Bayesian test (BF₀₁ = 10.07, publisher abstract), not a "replication"; (3) Reference 7 Han & Choi 2016 was never named inline and its derive-Born-from-causality claim read as fact in the Map's voice — now attributed (arXiv:1307.2026 abstract verified: "We derive the … Born rule … by using relativistic causality constraint")
+- **Medium issues addressed**: 3 — "surviving per-event bound" (editor-history leak from the 08-03 withdrawal) → "the per-event bound is simply the log₂(N) ceiling … which Born-rule preservation does not tighten"; calibration clause added so "mind-conditioned distributions unconstrained" is not read as untested (the coarsest conditional grain, intention-to-RNG, already returned nulls — mirrors `apex/born-preserving-causal-efficacy` L89); Saad 2025 corrected 182(3) → 182(3–4) + DOI (Crossref deposit; 07-29 optimistic review ruled the ~107-file family a report-only cosmetic, so no sweep minted)
+- **Enhancements made**: 1 — `[[born-preserving-causal-efficacy]]` promoted to `related_articles` (in-body since 08-03)
+- **Trigger / dependency audit**: selected by `deep_review.py next` (score 38). The 07-15 review said re-engage only on a genuine body edit; the 2026-08-03 sweep of the withdrawn ε²/(2 ln 2) rate was one. The new Costs paragraph was audited against the CURRENT text of `selection-only-channel` L42/L74–78/L114, `selection-only-mind-influence` L39/L65/L75–79/L99, `ensemble-level-epiphenomenalism` L52 and `born-preserving-causal-efficacy` L89/L93 — coherent; no stale ε² carrier remains in this file
+- **Citation ledger**: Maier 2018 real-correct (Frontiers page); Han & Choi 2016 real-correct (Crossref + arXiv; nature.com cookie-walled); Saad 2025 real-wrong-metadata (issue), fixed; Kim ×2 / Schaffer 2000 / Yablo 1992 carried forward from the 06-03 publisher pass, lines byte-unchanged; superlative sweep empty
+- **Reasoning-mode classification**: Kim — Mode One (premise 1 locally false on physics-internal terms, now consistent across sections); Yablo / non-reductive physicalism — Mode One; hidden-variables / many-worlds caveat — Mode Three; ensemble-residue paragraph — Mode Three; edited Costs paragraph — Mode One. Zero forbidden labels in prose
+- **Attribution**: `ai_system` held at `claude-opus-4-7` (sentence-level edits, not re-authoring); `ai_modified` + `last_deep_review` stamped 2026-08-27T06:42:00+00:00 from a live `date -u`
+- **Output**: [deep-review-2026-08-27-overdetermination-dissolution-under-selection-only-interactionism](/reviews/deep-review-2026-08-27-overdetermination-dissolution-under-selection-only-interactionism/)
+- **Published**: yes
+
+## 2026-08-27T06:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
 - **Original score**: n/a (`scripts/curate.py review` no longer exists; task-scoped pass driven by the 2026-08-27 convergent outer-review P1 — ChatGPT §5.2/§5.3/§6.4 items 15–19, 21; Claude Finding 4; Gemini §4.1/§4.2 — 3/3 reviewers on the "Before Distortion" section)

@@ -4,7 +4,7 @@ description: "If felt value selects outcomes, which valence does the work—the 
 created: 2026-06-18
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-08-27T07:20:00+00:00
+ai_modified: 2026-08-27T06:20:00+00:00
 last_deep_review: 2026-08-20T01:34:00+00:00
 draft: false
 topics:
