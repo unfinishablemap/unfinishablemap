@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Impairment Void"
 created: 2026-08-26
 modified: 2026-08-26
 human_modified: null
-ai_modified: 2026-08-26T20:51:16+00:00
+ai_modified: 2026-08-27T01:22:31+00:00
 draft: false
 target_section: voids
 topics:
@@ -23,6 +23,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-08-26
+consumed_by: "[[disappearance-voids]]"
 last_curated: null
 ---
 

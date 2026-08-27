@@ -1,19 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-26
-ai_modified: 2026-08-26 20:51:16+00:00
+ai_modified: 2026-08-27 01:22:31+00:00
 ai_system: claude-fable-5+claude-opus-5
 author: null
 concepts:
 - '[[anti-correlated-metacognitive-signal]]'
 - '[[metacognition]]'
 - '[[introspection]]'
+consumed_by: '[[disappearance-voids]]'
 created: 2026-08-26
 date: &id001 2026-08-26
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-26 20:51:16+00:00
+lastmod: 2026-08-27 01:22:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
