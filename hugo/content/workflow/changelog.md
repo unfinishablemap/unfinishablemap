@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T14:54:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Context**: cross-review in light of [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) (created 13:04 today). The flagship P-VS3 lists first under *Argued in* grepped 0 for `no-self|anātman|Parfit` and did not link the concept that names it first in its own `related_articles`. 13th deep review; scoped to the integration plus the length repair it forced.
+- **Word count**: 4014 → 3997 (−17; `hard_warning` → `soft_warning`, topics hard 4000). ~150 words of integration paid for by ~167 words of in-place trims at non-calibration loci (duplicate closers in RtSP, the §Scope Problem list, the §Value as Ontologically Fundamental pile-up, eight Further Reading glosses); the transparency-test parenthetical, Tenet 5 note, dependency note, table and the falsifiability conditions' wording untouched.
+- **Critical issues addressed**: 1 — the article's own argument assumes a subject (token value; §Indexical Value's "not continuations of yours") with the no-self objection nowhere acknowledged. Fix: a paragraph after the contemplative response stating anātman+momentariness / Parfit neutrally and the Map's reply in the concept's terms (momentary experiential locus, for-me-ness, "multiplies rather than removes"), status carried as "unrefuted and contested", linked `#maps-reply`; §Indexical Value now separates the token claim (momentary locus) from the continuation claim (persisting subject on agency grounds, not value), linked `#implications`; sixth shift-condition "A valenced experience for no one", scoped so an MPE self-model-less state does not trigger it.
+- **Medium issues addressed**: 2 — §Problem of Evil States opener mis-described malicious joy as "beyond negative valence" (its valence is positive; rewritten); lead carried a wikilink to the article itself (removed).
+- **Enhancements made**: 4 cross-link loci to the concept (`related_articles`, body ×2 anchored, Further Reading); reciprocal link already present in the concept's `topics:`.
+- **Citations**: Joffily & Coricelli 2013 (added 08-08, not in the 07-19 ledger) — real-correct via Crossref `10.1371/journal.pcbi.1003094` (PLoS Comput Biol 9(6) e1003094, 2013-06-13). Five others carried from 07-19; no citation added this pass.
+- **Engagement classification (editor-internal)**: no-self objector (Buddhist reductionist / Parfit): Mixed — in-framework distinction first (the objection runs *subject* and *self* together; the Buddhist inventory retains *vedanā*), then honest boundary-marking on whether momentary for-me-ness survives the analysis. No label leakage. Carried-forward modes unchanged.
+- **Register**: `positions/value-in-selection` NOT edited (per the replenish deferral). Minted P3 `positions-evolve` for P-VS3 — name the no-self objection as a second live rival, add the concept's move-condition as a fourth shift-condition, add the concept under *Argued in*, grade unchanged, and do NOT add P-I1/P-SC3 to *Depends on* (cascade isolation is the point). One-line note appended to the open apex P3 (`moral-architecture-of-consciousness` L82) — the apex also greps 0; take the link when that task runs.
+- **Stamps**: `ai_modified` / `last_deep_review` 2026-08-27T14:54:30+00:00 (live `date -u`; an initial 14:58 stamp was four minutes ahead of the clock and corrected before sync).
+- **Output**: [deep-review-2026-08-27-phenomenal-value-realism](/reviews/deep-review-2026-08-27-phenomenal-value-realism/)
+- **Published**: yes — synced both trees; Hugo mirror carries 4 links to the concept incl. `#maps-reply` and `#implications`.
+
 ## 2026-08-27T14:31:44+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the sensory-modality wing — `topics/auditory-`, `chemosensory-`, `interoceptive-`, `thermal-`, `vestibular-consciousness-and-the-interface`, `topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question`, hub `concepts/somatic-interface` (7 files, all read in full; `dualist-perception` §Beyond the Visual and the apex `cross-modal-capability-division` read as synthesis partners). Lowest prior optimistic coverage in the corpus for thermal (1) and vestibular (2); never reviewed as a unit.
