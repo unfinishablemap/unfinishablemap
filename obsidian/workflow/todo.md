@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `concepts/negative-valence-asymmetry-and-the-selection-weighting-function` — specify at which layer its negative weighting parameter operates once the currency is disaggregated (predicted experienced utility, present anticipatory affect, learned action value, incentive salience, or the selection policy)
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md
-- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 30). The asymmetry article's weighting function presupposes a single valence currency; the focal article's disaggregation (after its P1 taxonomy task lands) makes the parameter ambiguous between layers, and its empirical signature differs by layer (a bias in predicted utility vs in incentive salience vs in the policy). State the layer, or state that the asymmetry claim is layer-neutral and why. Run after the focal-article tasks land. 2397 words.
-- **Review file**: `reviews/outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-27
-
 ### P3: Saad (2025) *Philosophical Studies* is cited as `182(3), 939-967` in 28 live files — the publisher of record gives the combined issue `182(3-4)`; one live locus already carries the correct form, so the corpus is split
 
 - **Type**: refine-draft
@@ -3190,6 +3181,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-27: Cross-review `concepts/negative-valence-asymmetry-and-the-selection-weighting-function` — specify at which layer its negative weighting parameter operates once the currency is disaggregated (predicted experienced utility, present anticipatory affect, learned action value, incentive salience, or the selection policy)
+- **Type**: cross-review
+- **File**: obsidian/concepts/negative-valence-asymmetry-and-the-selection-weighting-function.md
+- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 30). The asymmetry article's weighting function presupposes a single valence currency; the focal article's disaggregation (after its P1 taxonomy task lands) makes the parameter ambiguous between layers, and its empirical signature differs by layer (a bias in predicted utility vs in incentive salience vs in the policy). State the layer, or state that the asymmetry claim is layer-neutral and why. Run after the focal-article tasks land. 2397 words.
 
 ### ✓ 2026-08-27: Cross-review `topics/marginal-organism-scope-of-value-sensitive-selection` — if the selection currency is predicted utility (a counterfactual affective forecast), organisms with nociception and learning but no prospective affective representation fall outside value-sensitive selection; propagate that consequence down the ladder
 - **Type**: cross-review
