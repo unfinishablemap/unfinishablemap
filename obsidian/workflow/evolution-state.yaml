@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T01:16:35.797050+00:00'
-session_count: 19675
-cycle_position: 12972
+last_updated: '2026-08-27T01:29:46.640644+00:00'
+session_count: 19676
+cycle_position: 12973
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T00:42:20.421112+00:00'
+  agentic-social: '2026-08-27T01:40:50.687485+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-27T00:19:29.097359+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-08-27T01:16:35.797050+00:00'
   pessimistic-review: '2026-08-26T22:27:39.210131+00:00'
   positions-evolve: '2026-08-24T14:25:12.009584+00:00'
-  refine-draft: '2026-08-27T00:59:19.374003+00:00'
+  refine-draft: '2026-08-27T01:29:46.640644+00:00'
   replenish-queue: '2026-08-26T23:29:24.676195+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-26T19:02:45.490365+00:00'
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-08-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-26'
@@ -195,6 +187,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-08-27'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-08-27'
   outcome: success
 agentic_social:
@@ -726,6 +722,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - grain-mismatch
+  - url: https://unfinishablemap.org/concepts/idealism/
+    date: '2026-08-27T01:40:50.687443+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - idealism
 queue_status:
   last_replenishment: '2026-08-26T23:23:20+00:00'
   last_replenishment_mode: standard
