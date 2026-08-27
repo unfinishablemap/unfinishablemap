@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T01:22:31+00:00'
+ai_modified: '2026-08-27T02:21:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T02:21:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: n/a (`scripts/curate.py` absent; review context from `reviews/tenet-check-2026-08-26.md` Warning 1)
+- **Changes**: Discharged the two over-concession loci the 08-24 P-Q3 re-rating (`none-by-construction` → `indirect`, commit `e346d3cb`) left stale on the page every article calibrates against. **L75**: "with current and foreseeable instruments … indistinguishable from chance, and no presently conceivable instrument resolves a single-trial bias" → indistinguishable "under any *unconditioned aggregate* test … by construction, not by any sensitivity limit"; added that preservation binds only the unconditioned marginal, that a deviation conditioned on intention, task or subject would test the corridor itself (deep-linked `[[positions/quantum-interface#^mechanism-debt|P-Q3]]`; horn (a) of `[[apex/born-preserving-causal-efficacy]]`), and that one coarse-grain instance has run null (Maier et al. 2018, preregistered intention-to-RNG). Closing sentence now "Until some finer grain returns a positive, the tenet remains an interpretive proposal". **L81(c)**: the third falsifier now bites "on minimum-outside-corridor readings in the unconditioned register, and on the corridor reading the Map endorses only *conditionally*", and "does not test the endorsed corridor path at all" → "tests the endorsed corridor path only through its conditional structure". Tenet 2's *consistency-claim* core untouched; P-Q2 (unconditioned marginal) untouched; L107's existing "aggregate-statistics" qualifier was the model.
+- **Paid for**: L75 dropped "Escaping … costs something, and the cost is steep enough to name plainly" → "has a cost worth naming plainly", dropped the "This is not a near-term test … but a framework-boundary feature" sentence (its aggregate-register content folded into "by construction, not by any sensitivity limit"; its blanket framework-boundary claim is what the P-Q3 move withdrew), and dropped the duplicate "corridor dualism biases which branch is realised while" clause. L81 dropped "of the form a new physical theory would make" and a redundant "in principle". Two-word inline citation matches the page's existing inline convention (Tegmark 2000, Hagan et al. 2002; no references section).
+- **Length**: `analyze_length` 6685 → 6683 words (delta −2; L75 165→164, L81 164→163). Status `critical` before and after under the standing HUMAN LENGTH DECISION 2026-06-08.
+- **Verified from disk before writing**: `positions/quantum-interface.md` L78 (P-Q3 calibration, `indirect`, horn (a), Maier 2018) and L84 (2026-08-24 update; P-Q2 untouched); `^mechanism-debt` anchor on L79; apex horn (a) at `apex/born-preserving-causal-efficacy.md` L89. Siblings read and not edited: `concepts/selection-only-channel` L74/L76, `concepts/tenet-falsification-conditions` L72, `positions/positions.md` L61–63.
+- **Sync**: ran; `hugo/content/tenets/_index.md` L79/L85 carry the new text, deep link renders `/positions/quantum-interface/#mechanism-debt` (same form as the page's pre-existing P-Q3 link). Post-edit grep of both trees for "does not test the endorsed corridor path at all" and "no presently conceivable instrument": zero hits in `tenets/`; the only residue outside reviews/workflow is the variant string-sibling at `topics/testing-consciousness-collapse.md` L230 ("no presently conceivable instrument resolves it from the chance baseline it is built to match — a framework-boundary feature") — the [[fix-by-file-leaves-string-siblings-live]] shape. Not edited here (out of task scope); minted a P3 refine-draft for it, inserted at the foot of Active Tasks so the dispatched task's line number is unchanged.
+- **Not touched**: `topics/falsification-roadmap-for-the-interface-model` (the mirror-image over-defence, Warning 4, separate P3).
+- **Published**: yes
 
 ## 2026-08-27T01:22:31+00:00 - refine-draft
 - **Status**: Success
