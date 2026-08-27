@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-27T20:52:03.437995+00:00'
-session_count: 19752
+last_updated: '2026-08-27T21:18:33.526324+00:00'
+session_count: 19753
 cycle_position: 13010
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-27T11:14:20.500334+00:00'
   positions-evolve: '2026-08-27T20:39:36.288861+00:00'
   refine-draft: '2026-08-27T20:52:03.437995+00:00'
-  replenish-queue: '2026-08-27T17:30:27.721724+00:00'
+  replenish-queue: '2026-08-27T21:18:33.526324+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-27T20:18:01.468941+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -117,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-27'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-08-27'
@@ -195,6 +191,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-08-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-27'
   outcome: success
 agentic_social:
@@ -747,7 +747,56 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-27T21:20:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1012. STANDARD MODE, FOUR MINTS (3 x P2 + 1 x P3), every locus re-verified from disk before minting. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3: all five run-1011 mints were consumed within 3.5h (altered-states cross-review 18:42, sentientism cross-review 19:11, P-MS1 19:23, P-VS1 20:39, valence 20:52) while the same two 01:58 / 11:13 survivors were again never picked (top-insert LIFO). Sections re-measured via tools.evolution.state.count_section_files: topics 320/320, concepts 320/320, voids 99/100, positions 17/80 - no expand-topic or research-topic candidate survives the cap filter; the 20:16 research-voids note (voids-similarity-void-2026-08-27) designated itself for absorption per the index discipline and left the last voids slot as an operator decision, so no expand was minted for it. SOURCE A, chain x3 from that note: (1) primary host voids/epistemological-limits-occams-razor - greps 0 for Goodman/grue/Quine/stricture/similarity/induction (the note itself says so at L199), 2422 body words vs voids hard 3000, and its L36 [[epistemological-limits-occams-razor|arguments article]] wikilink is a SELF-LINK (Hugo renders /voids/epistemological-limits-occams-razor/ captioned as the arguments page; the arguments article is epistemological-limits-OF-occams-razor) - fixed in the same task; (2) secondary host voids/non-human-minds-as-void-explorers - the recovery face (Hebart 2020 SPoSE, 49 dimensions, 64.60 percent vs 67.22 percent ceiling; Mahner 2025 visual-vs-semantic respects) instancing both an abstract Can-reveal and an abstract Cannot-reveal bullet; 2867/3000 so net <= +120 or net-neutral mandatory; (3) voids/voids.md navigation surface - its L240 status list (''Six voids surveyed since 2026-02'') greps 0 for all ten notes surveyed since 08-06, six of which carry consumed_by stamps with grep-confirmed landings, and L238 still says ''at its 100-article cap'' while count_section_files returns 99. SOURCE B, defect family x1 (P3, matching the two 08-27 intellectual-life siblings): topics/phenomenology-of-cognitive-capacity L139 certifies Tenet 3 from felt effort against P-A4 (credence high) - found by the 20:51 valence refine''s own residue grep of ''doing real work'', which it recorded and left; plus Ericsson 1993 uncorrected by Macnamara 2014. DELIBERATELY NOT MINTED: a third fold from the similarity note (conceptual-scheme-void, 2341/3000, respects face) - two folds per parent, recorded in the note''s designation for the next run once the primary lands; noetic-feelings-void light-touch host - 3659/3000, over hard; positions 7b - P-MS1/P-VS1/P-VS2 all updated today and P-MS2 already carries the momentary-locus clause (Depends on) despite Last reviewed 08-24, P-VS3 is an open P3, P-VS4 not touched by the no-self rewrites; positions 7a for ''the razor cuts along sub-personally selected respects'' - premature until the Occam fold lands; concepts/filter-vs-interface-distinction L76 ''engineering test'' gloss on the locked-in article''s hedged neuroprosthesis reading (18:12 spillover) - one clause, recorded here for the next deep-review of that page rather than a task; concepts/consciousness L196 and concepts/qualia L247 string-siblings of the valence fix - the first is the tenet statement itself, the second a Further Reading caption; third filter cross-review (consciousness-under-extreme-metabolic-constraint) - per-parent cap, unchanged from run 1011; unconsumed research - capped except voids, where the four unconsumed notes (suggestion, notation, summary-statistics, similarity) are now covered by the voids.md index task and the two fold tasks; length - 148 hard_warnings led by positions/research/apex-index, the known false-over-length norm, two veto-tagged condense P2s still standing; orphans 0; staleness - P3 pool 77 and starved, no staleness mints; positions audit - 08-24 inside the 30d window; outer-review synthesis 08-27 L127 unminted item (cvc warning + valence propagation) - closed by the 16:07/16:50/20:51 refines. Post-count re-measured after the splice: count_p0_p2_tasks == 5 (loop_pickable_open); p2_tasks counts all P2 headers in the Active region including the three veto-tagged condenses; P3 pool 78.'
+  last_replenishment_note: 'RUN 1012. STANDARD MODE, FOUR MINTS (3 x P2 + 1 x P3),
+    every locus re-verified from disk before minting. Pre-count count_p0_p2_tasks
+    == 2 against MIN_QUEUE 3: all five run-1011 mints were consumed within 3.5h (altered-states
+    cross-review 18:42, sentientism cross-review 19:11, P-MS1 19:23, P-VS1 20:39,
+    valence 20:52) while the same two 01:58 / 11:13 survivors were again never picked
+    (top-insert LIFO). Sections re-measured via tools.evolution.state.count_section_files:
+    topics 320/320, concepts 320/320, voids 99/100, positions 17/80 - no expand-topic
+    or research-topic candidate survives the cap filter; the 20:16 research-voids
+    note (voids-similarity-void-2026-08-27) designated itself for absorption per the
+    index discipline and left the last voids slot as an operator decision, so no expand
+    was minted for it. SOURCE A, chain x3 from that note: (1) primary host voids/epistemological-limits-occams-razor
+    - greps 0 for Goodman/grue/Quine/stricture/similarity/induction (the note itself
+    says so at L199), 2422 body words vs voids hard 3000, and its L36 [[epistemological-limits-occams-razor|arguments
+    article]] wikilink is a SELF-LINK (Hugo renders /voids/epistemological-limits-occams-razor/
+    captioned as the arguments page; the arguments article is epistemological-limits-OF-occams-razor)
+    - fixed in the same task; (2) secondary host voids/non-human-minds-as-void-explorers
+    - the recovery face (Hebart 2020 SPoSE, 49 dimensions, 64.60 percent vs 67.22
+    percent ceiling; Mahner 2025 visual-vs-semantic respects) instancing both an abstract
+    Can-reveal and an abstract Cannot-reveal bullet; 2867/3000 so net <= +120 or net-neutral
+    mandatory; (3) voids/voids.md navigation surface - its L240 status list (''Six
+    voids surveyed since 2026-02'') greps 0 for all ten notes surveyed since 08-06,
+    six of which carry consumed_by stamps with grep-confirmed landings, and L238 still
+    says ''at its 100-article cap'' while count_section_files returns 99. SOURCE B,
+    defect family x1 (P3, matching the two 08-27 intellectual-life siblings): topics/phenomenology-of-cognitive-capacity
+    L139 certifies Tenet 3 from felt effort against P-A4 (credence high) - found by
+    the 20:51 valence refine''s own residue grep of ''doing real work'', which it
+    recorded and left; plus Ericsson 1993 uncorrected by Macnamara 2014. DELIBERATELY
+    NOT MINTED: a third fold from the similarity note (conceptual-scheme-void, 2341/3000,
+    respects face) - two folds per parent, recorded in the note''s designation for
+    the next run once the primary lands; noetic-feelings-void light-touch host - 3659/3000,
+    over hard; positions 7b - P-MS1/P-VS1/P-VS2 all updated today and P-MS2 already
+    carries the momentary-locus clause (Depends on) despite Last reviewed 08-24, P-VS3
+    is an open P3, P-VS4 not touched by the no-self rewrites; positions 7a for ''the
+    razor cuts along sub-personally selected respects'' - premature until the Occam
+    fold lands; concepts/filter-vs-interface-distinction L76 ''engineering test''
+    gloss on the locked-in article''s hedged neuroprosthesis reading (18:12 spillover)
+    - one clause, recorded here for the next deep-review of that page rather than
+    a task; concepts/consciousness L196 and concepts/qualia L247 string-siblings of
+    the valence fix - the first is the tenet statement itself, the second a Further
+    Reading caption; third filter cross-review (consciousness-under-extreme-metabolic-constraint)
+    - per-parent cap, unchanged from run 1011; unconsumed research - capped except
+    voids, where the four unconsumed notes (suggestion, notation, summary-statistics,
+    similarity) are now covered by the voids.md index task and the two fold tasks;
+    length - 148 hard_warnings led by positions/research/apex-index, the known false-over-length
+    norm, two veto-tagged condense P2s still standing; orphans 0; staleness - P3 pool
+    77 and starved, no staleness mints; positions audit - 08-24 inside the 30d window;
+    outer-review synthesis 08-27 L127 unminted item (cvc warning + valence propagation)
+    - closed by the 16:07/16:50/20:51 refines. Post-count re-measured after the splice:
+    count_p0_p2_tasks == 5 (loop_pickable_open); p2_tasks counts all P2 headers in
+    the Active region including the three veto-tagged condenses; P3 pool 78.'
   last_replenishment_run: 1012
   loop_pickable_open: 5
   needs_replenishment: false
