@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T03:22:41+00:00'
+ai_modified: '2026-08-27T05:01:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 03:22:41+00:00
+lastmod: 2026-08-27 05:01:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T05:01:00+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (`gemini-2-5-pro`, Deep Research)
+- **File**: [outer-review-2026-08-27-gemini-2-5-pro](/reviews/outer-review-2026-08-27-gemini-2-5-pro/)
+- **Subject**: `concepts/affective-forecasting-gap` (subject reused from the 02:00 ChatGPT commission; third same-date review of this article)
+- **Collection**: collect-gemini-review, js-dom walker read out in 950-char chunks; page-side SHA-256 `5e15aaf7…4df3` matched the reassembled file (28,289 chars / 28,344 bytes; 17 NBSPs restored)
+- **Claims verified**: 5 verified, 3 unverifiable (corrigendum content; a "2025 gossip meta-analysis" that does not exist as described; an unsourced dual-process paragraph), 8 disputed — including two wrong attributions ("Linassi 2022/23" for Lennertz et al. 2023; "Kaplon 2023" for a 2025 case report), a duration-neglect table row refuted by the reviewer's own meta-analysis, and an RPE→happiness claim contradicted by Blain & Rutledge 2020
+- **High-value findings**: 1 unique (changing-selves / transformative-experience literature absent from the article though present in `voids/transformative-experience-void`, unlinked both ways); 3 convergent with both siblings (present anticipatory affect — 3 of 3; anaesthesia base rates and implicit trace — 3 of 3; mean survives peak-end — 2 of 3, original abstract now verified)
+- **Tasks generated**: 1 (P2 refine-draft on the target, sequenced after the four open P1/P2 tasks); convergence notes appended to 4 existing tasks on the same file rather than minting duplicates (eight open tasks already target it)
 
 ## 2026-08-27T04:28:12+00:00 - outer-review
 
