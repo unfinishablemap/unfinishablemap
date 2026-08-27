@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T17:30:27.721724+00:00'
-session_count: 19738
+last_updated: '2026-08-27T17:34:58.842418+00:00'
+session_count: 19739
 cycle_position: 13003
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T16:39:22.885404+00:00'
+  agentic-social: '2026-08-27T17:56:37.176384+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
-  check-model-fallback: '2026-08-27T13:19:52.760954+00:00'
+  check-model-fallback: '2026-08-27T17:34:58.842418+00:00'
   check-tenets: '2026-08-26T19:17:07.527942+00:00'
   coalesce: '2026-08-27T16:22:42.253732+00:00'
   collect-chatgpt-review: '2026-08-27T04:03:57.202822+00:00'
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-08-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-27'
@@ -197,13 +189,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-27'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-08-20T17:38:28.937123+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
   - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
     date: '2026-08-20T18:38:14.519339+00:00'
     topics:
@@ -740,6 +731,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - phenomenology-of-cognitive-limit-types
+  - url: https://unfinishablemap.org/concepts/types-of-consciousness/
+    date: '2026-08-27T17:56:37.176343+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - types-of-consciousness
 queue_status:
   last_replenishment: '2026-08-27T17:33:00+00:00'
   last_replenishment_mode: standard
