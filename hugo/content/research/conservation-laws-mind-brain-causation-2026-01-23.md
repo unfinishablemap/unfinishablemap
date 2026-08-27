@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-20 00:31:00+00:00
+ai_modified: 2026-08-27 14:08:18+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 concepts: []
 created: 2026-01-23
-date: '2026-08-20'
+date: '2026-08-27'
 draft: false
-lastmod: 2026-08-20 00:31:00+00:00
+lastmod: 2026-08-27 14:08:18+00:00
 related_articles: []
 title: Research Notes - Conservation Laws and Mind-Brain Causation
 ---
@@ -32,7 +32,7 @@ The energy conservation objection to interactionist dualism—that non-physical 
   - "The most defensible approach treats conservation as conditional upon symmetries and simply accepts energy non-conservation as an aspect of interactionist dualism"
   - The real objection should come from empirical neuroscience, not a priori physics arguments
 - **Tenet alignment**: Strong—supports the Map's position that physics alone doesn't refute dualism
-- **Quote**: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
+- **Quote** (correction 2026-08-27: this sentence is verbatim from the *abstract* of Pitts 2020, *Philosophia*, not from this paper; Cucu & Pitts make the same point in different words at pp. 113–114 of the *Mind & Matter* text): "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
 
 ### [Pitts - Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/

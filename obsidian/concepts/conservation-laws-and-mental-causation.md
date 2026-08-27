@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-08-13T06:27:30+00:00
+ai_modified: 2026-08-27T14:08:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ This reasoning has convinced many that physics rules out dualist interaction.
 
 Conservation laws are derived, not axiomatic. Emmy Noether's theorem (1918) establishes that each conservation law corresponds to a continuous symmetry of the system's Lagrangian. Energy conservation follows from time-translation symmetry; momentum conservation from spatial-translation symmetry. Break the symmetry, and the corresponding conservation law fails.
 
-This has a direct consequence for the mind-body problem. If an immaterial mind acts on a physical system, it constitutes an *external influence* not represented in the system's Lagrangian. External influences break the time-translation symmetry from which energy conservation is derived. As Cucu and Pitts (2019) argue: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
+This has a direct consequence for the mind-body problem. If an immaterial mind acts on a physical system, it constitutes an *external influence* not represented in the system's Lagrangian. External influences break the time-translation symmetry from which energy conservation is derived (Cucu and Pitts 2019). As Pitts (2020) puts it: "expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
 
 The dialectical situation is symmetric. The conservation objection assumes from the start that no external influences exist — precisely what it is supposed to prove. But equally, the dualist who invokes "external influence" assumes that consciousness *is* non-physical and causally efficacious — precisely what the physicalist disputes. Neither side can settle the matter by appeal to conservation alone. The correct conclusion is not that the physicalist is wrong, but that conservation arguments cannot resolve the debate: they presuppose an answer to the question they purport to address.
 
@@ -150,7 +150,7 @@ The conservation objection conflates two distinct claims:
 
 Conservation laws support (1) for systems meeting the symmetry conditions Noether's theorem requires. They are silent on (2). Whether non-physical causes exist is a metaphysical question that conservation principles cannot answer.
 
-This matters because the debate over mental causation isn't really about conservation. The deep question is whether physics is *causally closed* — whether physical causes are not just sufficient but exclusive. As [[causal-closure]] explains, this is a philosophical thesis that cannot be established by physics alone. Pitts concludes: "The real objection should come from empirical neuroscience, not a priori physics arguments."
+This matters because the debate over mental causation isn't really about conservation. The deep question is whether physics is *causally closed* — whether physical causes are not just sufficient but exclusive. As [[causal-closure]] explains, this is a philosophical thesis that cannot be established by physics alone. Pitts (2020) concurs: the a priori argument begs the question; "empirical neuroscience is another matter."
 
 ## Objections and Responses
 

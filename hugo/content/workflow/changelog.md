@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-08-27T14:08:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Original score**: not re-scored (targeted quote-attribution fix)
+- **Changes**: Re-extracted arXiv 1909.13643 (= *Mind & Matter* 17(1) typeset, 28 pp.): single-word greps `falsehood`/`begs`/`without looking` all 0; only `Cartesian` is the Dilley 2004 reference; positive control "open begging of the question" p. 113 hits. Then fetched Pitts 2020 (*Philosophia*, CC-BY) two ways — Europe PMC JATS full text (PMC9038821, 19,842 words) and the Cambridge repository PDF (10.17863/cam.41399, 21 pp.) — and the L68 sentence is **verbatim in the Pitts 2020 abstract**: "But expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question." So this was verbatim-cited-to-the-wrong-work, not a wrapped paraphrase; kept the quotation marks and re-attributed to Pitts (2020) (lower-cased the truncated opening "expecting"); moved the Cucu & Pitts (2019) citation to the preceding conditionality sentence it actually supports so the 2019 reference stays cited. **Second defect found by the same check, L153**: `Pitts concludes: "The real objection should come from empirical neuroscience, not a priori physics arguments."` — absent from both papers by all three extractions; it is the research note's own unquoted summary bullet (L29) later wrapped in quotation marks. Replaced with a verbatim span from the same abstract: `Pitts (2020) concurs: the a priori argument begs the question; "empirical neuroscience is another matter."` Research note L31 annotated as a Pitts-2020-abstract quote (research/ is published; not deleted). Archive copies left frozen per precedent. `last_deep_review` untouched. Length 3475 → 3478 (hard 3500). Synced.
+- **Published**: yes
+
 ## 2026-08-27T13:04:18+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The No-Self Objection to Phenomenal Value
