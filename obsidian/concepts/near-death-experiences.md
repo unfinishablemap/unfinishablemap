@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest challenge brain-
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-26T16:01:03+00:00
+ai_modified: 2026-08-27T12:00:29+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[process-philosophy]]"
 related_articles:
+  - "[[filter-vs-interface-distinction]]"
   - "[[tenets]]"
   - "[[personal-identity]]"
   - "[[near-death-experiences-consciousness-2026-01-15]]"
@@ -148,7 +149,7 @@ Filter theory faces a genuine difficulty: if brain compromise reduces filtering,
 
 Several distinctions have been proposed, though none is fully satisfying. One suggestion is that the filter model predicts enhancement when the constraining *mechanism* fails while the interface *channel* remains partially intact—the rapid global shutdown during cardiac arrest may selectively compromise the "reducing valve" while the channel persists briefly. However, this distinction between "constraining mechanism" and "interface channel" is itself ad hoc: filter theory does not independently predict which types of brain damage affect which function, making the distinction explanatorily convenient rather than principled. Dying also involves distinctive neurochemical cascades (gamma oscillations, serotonin surges) that differ qualitatively from the localized destruction of stroke or trauma. Terminal lucidity was once read as narrowing the gap further, on the thought that proximity to death itself loosens constraints; the prospective data above make that reading harder to sustain.
 
-The asymmetry remains a genuine tension that filter theory has not resolved. The explanation that different disruption types affect constraining and transmitting functions differently is post hoc and difficult to test—without independent criteria for distinguishing the two functions, the theory risks becoming unfalsifiable on this point. Filter theory's explanatory advantage over production models is narrower than the "paradox of heightened experience" alone might suggest.
+The asymmetry remains a genuine tension that filter theory has not resolved; [[filter-vs-interface-distinction|sorting cases by causal leg]] narrows it to the inbound side without removing it. The explanation that different disruption types affect constraining and transmitting functions differently is post hoc and difficult to test—without independent criteria for distinguishing the two functions, the theory risks becoming unfalsifiable on this point. Filter theory's explanatory advantage over production models is narrower than the "paradox of heightened experience" alone might suggest.
 
 There is also a symmetry the supportive evidence cannot escape. NDE enhancement, terminal lucidity, and psychedelic expansion all instantiate the *same* pattern—heightened experience under reduced or disorganized brain function—so the cluster carries the evidential weight of one pattern, not three independent confirmations. And the same accommodation move is available to the production theorist: the functional-versus-structural-suppression distinction cited approvingly above (Mashour et al.) lets a production model read terminal lucidity and the dying-brain gamma surge as intact circuitry transiently de-suppressing, without conceding non-neural consciousness. The convergence tests production and filter framings symmetrically; it cannot be tallied as independent wins for the filter side.
 

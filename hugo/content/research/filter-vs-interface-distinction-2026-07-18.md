@@ -2,10 +2,11 @@
 ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
+consumed_by: '[[filter-vs-interface-distinction]]'
 created: 2026-07-18
-date: '2026-07-18'
+date: '2026-08-27'
 draft: false
-lastmod: 2026-07-18 00:00:00+00:00
+lastmod: 2026-08-27 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Filter-vs-Interface Distinction
 ---

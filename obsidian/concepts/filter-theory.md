@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-26T16:01:03+00:00
+ai_modified: 2026-08-27T12:00:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[disconnection-neuroscience]]"
 related_articles:
+  - "[[filter-vs-interface-distinction]]"
   - "[[tenets]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[anesthesia-void]]"
@@ -52,7 +53,7 @@ last_curated: null
 last_deep_review: 2026-08-26T16:01:03+00:00
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [[william-james-consciousness|William James]], Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain becomes interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [[william-james-consciousness|William James]], Henri Bergson, and Aldous Huxley, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain becomes interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is the inbound leg of The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] (see [[filter-vs-interface-distinction]]) and explains how [[tenets#^dualism|dualism]] accommodates the empirical findings that seem to support materialism.
 
 ## The Core Claim
 

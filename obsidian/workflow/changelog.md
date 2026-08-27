@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-27T10:12:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27 12:03 - expand-topic
+- **Status**: Success
+- **Topic**: The Filter-vs-Interface Distinction
+- **Output**: [[concepts/filter-vs-interface-distinction]]
+- **Word count**: 2664 (tool count incl. frontmatter and references; concepts soft 2500)
+- **Based on research**: yes, [[research/filter-vs-interface-distinction-2026-07-18]] (stamped `consumed_by`)
+- **Section cap**: concepts re-measured 318/320 via `count_section_files` before placing; one slot taken, one left for the queued no-self-objection sibling
+- **Citations verified at publisher**: Rouleau & Cimino 2022 (Crossref 10.3390/neurosci3030032; full text shows a *physicalist* EM-transmission model — cited as rival, not ally); Beck & Eccles 1992 (Crossref 10.1073/pnas.89.23.11357, abstract quote); Popper & Eccles 1977 (Crossref 10.1007/978-3-642-61891-8); Pitts 2020 (Crossref 10.1007/s11406-019-00102-7); Cucu & Pitts 2019 (arXiv 1909.13643 PDF confirms *Mind & Matter* 17(1):95–121); James 1898 quote grep-verified in archive.org OCR of the 1898 edition. The research note's unverified Huxley sentence was not used (term-level attribution only). The "simply assumes the falsehood of Cartesianism… begs the question" line that `concepts/conservation-laws-and-mental-causation` attributes to Cucu & Pitts 2019 does NOT grep in the arXiv text — paraphrased here rather than propagated; flagged for that article, not fixed.
+- **Integration chain**: body clause + `related_articles` in `concepts/filter-theory` (kept ≤3500 hard), `topics/terminal-lucidity-and-filter-transmission-theory`, `concepts/near-death-experiences`, `topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply`; body clause + Further Reading in `concepts/mind-matter-interface`. All `ai_modified` bumped.
+- **Calibration**: written as a clarification of Map commitments, not evidence; verdict on the cluster's weak joint is *partial repair* — classification by causal leg is principled, inbound-leg selectivity remains open.
+- **Model**: claude-fable-5
 ## 2026-08-27T11:27:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]

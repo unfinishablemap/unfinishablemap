@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-08-27T12:00:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechani
 
 **Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [[mental-causation-and-downward-causation|mental causation]] without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
-The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering). The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [[mind-arena]].
+The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering); the seam between them is named at [[filter-vs-interface-distinction|the filter-vs-interface distinction]]. The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [[mind-arena]].
 
 ## Why Both Layers Are Needed
 
@@ -193,6 +193,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 ## Further Reading
 
 - [[filter-theory]] — The transmission model in detail (James, Bergson, Huxley)
+- [[filter-vs-interface-distinction]] — Why the filter is only Layer 1: inbound leg versus two-way coupling
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[concepts/consciousness-selecting-neural-patterns]] — How selection operates concretely
 - [[mind-brain-separation]] — The rendering engine analogy

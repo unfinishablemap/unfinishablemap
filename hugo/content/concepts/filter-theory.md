@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-26 16:01:03+00:00
+ai_modified: 2026-08-27 12:00:29+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -38,9 +38,10 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-08-26 16:01:03+00:00
+lastmod: 2026-08-27 12:00:29+00:00
 modified: *id001
 related_articles:
+- '[[filter-vs-interface-distinction]]'
 - '[[tenets]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[anesthesia-void]]'
@@ -56,7 +57,7 @@ topics:
 - '[[bandwidth-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain becomes interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain becomes interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is the inbound leg of The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) (see [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/)) and explains how [dualism](/tenets/#dualism) accommodates the empirical findings that seem to support materialism.
 
 ## The Core Claim
 

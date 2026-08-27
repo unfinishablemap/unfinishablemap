@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-08 18:57:18+00:00
+ai_modified: 2026-08-27 12:00:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,9 +29,10 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:15:46+00:00
-lastmod: 2026-08-08 18:57:18+00:00
+lastmod: 2026-08-27 12:00:29+00:00
 modified: *id001
 related_articles:
+- '[[filter-vs-interface-distinction]]'
 - '[[tenets]]'
 - '[[terminal-lucidity-filter-theory-2026-03-20]]'
 - '[[psychedelics-and-the-filter-model]]'
@@ -140,7 +141,7 @@ Filter theory faces a genuine difficulty that terminal lucidity brings into shar
 
 Filter theorists respond by distinguishing the brain's filtering function from its interface function. Most brain damage degrades the interface through which consciousness expresses itself—reducing what can be manifested even if consciousness remains intact. Terminal lucidity may represent a specific condition in which residual inhibitory structures collapse without yet destroying the minimal circuitry needed for brief coherent output.
 
-The Unfinishable Map treats this distinction seriously but acknowledges its cost. The interface/filter distinction introduces flexibility that risks unfalsifiability—any pattern of damage could be retrospectively classified as "interface degradation" or "filter loosening." The value of filter theory lies not in point predictions about individual cases but in its coherence across the full pattern of anomalies.
+The Unfinishable Map treats this distinction seriously — [the filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/) gives it an inbound/outbound criterion — but acknowledges its cost. The interface/filter distinction introduces flexibility that risks unfalsifiability—any pattern of damage could be retrospectively classified as "interface degradation" or "filter loosening." The value of filter theory lies not in point predictions about individual cases but in its coherence across the full pattern of anomalies.
 
 ## The Convergent Evidence
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-08-27 12:00:29+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 09:04:20+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-08-27 12:00:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-e
 
 **Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation-and-downward-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
-The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering). The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [mind-arena](/concepts/mind-arena/).
+The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering); the seam between them is named at [the filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/). The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [mind-arena](/concepts/mind-arena/).
 
 ## Why Both Layers Are Needed
 
@@ -196,6 +196,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 ## Further Reading
 
 - [filter-theory](/concepts/filter-theory/) — The transmission model in detail (James, Bergson, Huxley)
+- [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/) — Why the filter is only Layer 1: inbound leg versus two-way coupling
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
