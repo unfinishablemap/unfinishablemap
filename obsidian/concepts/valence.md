@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-02T18:22:00+00:00
+ai_modified: 2026-08-27T16:50:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -81,7 +81,7 @@ The [[tenets#^dualism|Dualism]] tenet finds strong support: if the felt badness 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains empirical backing from asymbolia cases. When the phenomenal property is absent, behavior changes. The felt quality is causally efficacious, not epiphenomenal.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain. Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. *If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose among neural possibilities by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]]). Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable; the Map holds it at low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the quantum interface's undischarged [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it.
 
 ## Further Reading
 

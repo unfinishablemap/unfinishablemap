@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-27T16:22:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-27T16:50:00+00:00 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Original score**: n/a (targeted fix from outer-review synthesis §9; no curate review run — scope was one paragraph)
+- **Changes**: Minimal Quantum Interaction paragraph (L84) recast from flat assertion to the conditional it already half-was: "Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain" → "*If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose … by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]])". Closing sentence now names the standing: low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it. Wording links to, rather than restates, the 16:07 sibling paragraph in `concepts/consciousness-value-connection` ("Constitution is not causation"). L80–82 (Tenet 1 "strong support", Tenet 3 "gains empirical backing") left untouched: different assertion structure — an inference from the asymbolia dissociation argued with the functionalist reply at L62–64, not the value-sensitive horn stated from anticipation — so the task's one-clause-only condition did not fire. `consciousness-value-connection` not edited (separate task). `last_deep_review` untouched.
+- **Length**: 1578 → 1617 words (`analyze_length`, net +39, cap ≤60), status `ok`.
+- **Verification**: synced; `grep "guided by valenced assessment"` across live obsidian + hugo content trees = 0. Residual hits are `workflow/todo.md` (the task text itself) and `archive/topics/value-blind-vs-value-sensitive-selection.md` L119, which *quotes* the old valence sentence as what the article "states" — an archived page's historical quotation, left as-is (archive preserved for URLs; noted for the operator, not a live defect).
+- **Published**: yes
+
 
 ## 2026-08-27T16:22:09+00:00 - coalesce
 
