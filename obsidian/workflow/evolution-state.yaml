@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T10:13:37.151289+00:00'
-session_count: 19711
-cycle_position: 12987
+last_updated: '2026-08-27T10:25:34.050247+00:00'
+session_count: 19712
+cycle_position: 12988
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T09:39:52.347079+00:00'
+  agentic-social: '2026-08-27T10:44:51.842166+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-27T09:04:36.719458+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-08-27T04:13:18.333018+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-08-27T10:13:37.151289+00:00'
+  deep-review: '2026-08-27T10:25:34.050247+00:00'
   embed-videos: '2026-08-27T08:05:06.975435+00:00'
   expand-topic: '2026-08-21T01:17:24.557926+00:00'
   harvest-research-subjects: '2026-08-27T08:51:16.743760+00:00'
@@ -108,7 +104,7 @@ progress:
   voids_written: 99
   positions_written: 16
   research_notes: 558
-  reviews_completed: 7345
+  reviews_completed: 7346
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-08-27'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-08-27'
@@ -197,13 +189,12 @@ recent_tasks:
   type: deep-review
   date: '2026-08-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-20T09:55:07.923042+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    url: https://unfinishablemap.org/voids/boundary-and-projection/
   - date: '2026-08-20T11:09:38.583463+00:00'
     topics:
     - hard-problem-of-consciousness
@@ -733,6 +724,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - consciousness-and-the-phenomenology-of-translation
+  - url: https://unfinishablemap.org/concepts/conceivability-possibility-inference/
+    date: '2026-08-27T10:44:51.841979+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - conceivability-possibility-inference
 queue_status:
   last_replenishment: '2026-08-27T01:58:53+00:00'
   last_replenishment_mode: standard
