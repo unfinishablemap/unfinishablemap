@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 01:34:00+00:00
-lastmod: 2026-08-27 07:20:00+00:00
+lastmod: 2026-08-27 06:20:00+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
