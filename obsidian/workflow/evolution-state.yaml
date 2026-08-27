@@ -1,10 +1,14 @@
-last_updated: '2026-08-27T13:19:52.760954+00:00'
-session_count: 19722
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-08-27T13:40:15.769988+00:00'
+session_count: 19723
 cycle_position: 12994
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T13:39:13.498843+00:00'
+  agentic-social: '2026-08-27T13:40:15.769988+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
   check-model-fallback: '2026-08-27T13:19:52.760954+00:00'
@@ -113,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-08-27'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-08-27'
@@ -191,6 +191,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-08-27'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-08-27'
   outcome: success
 agentic_social:
@@ -735,71 +739,65 @@ agentic_social:
     - phenomenology
     - the-silence-void
 queue_status:
-  last_replenishment: '2026-08-27T01:58:53+00:00'
+  last_replenishment: '2026-08-27T13:56:22+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1009. STANDARD MODE, FOUR MINTS (3 P2, 1 P3), every
-    locus re-verified from disk with a positive control before minting. Pre-count
-    count_p0_p2_tasks == 2 against MIN_QUEUE 3 (the three veto-tagged P2 condense
-    entries are parser-excluded); the third P2 from run 1008 (impairment paragraph
-    swap) was consumed by the 01:22Z refine. SOURCE A, unconsumed_research x2: the
-    corpus-wide consumed_by field is inert, so the 38 notes lacking it were re-screened
-    by key-phrase grep against live sections plus todo header grep across all three
-    regions. Thirty-six are threaded under other slugs or carry tasks/decisions; TWO
-    have zero live hits, zero tasks, and were parked on 07-17/07-18 only because concepts/
-    was at cap: filter-vs-interface-distinction (inbound-leg/outbound-leg/return-channel
-    = 0 hits across topics/concepts/apex/voids; 59 live files use filter vocabulary
-    and none states the distinction; the 07-18 optimistic review called it the filter
-    cluster''s single recurring weak joint) and no-self-objection-to-phenomenal-value
-    (the three referring loci the note names verified live on disk: wanting-liking
-    L66, consciousness-value-connection L74, subjective-aim L83; phenomenal-value-realism
-    and value-in-selection both 0 for no-self/anatman/Parfit). concepts measured 318/320
-    via tools.evolution.state.count_section_files this run; both tasks tell expand-topic
-    to re-measure at pick, and both carry the integration chain and slug-collision
-    checks (0 collisions live/archive/redirects/hugo). SOURCE B, chain: the 01:22Z
-    refine of disappearance-voids recorded the impairment note''s secondary fold (acute-state
-    limb into concepts/anti-correlated-metacognitive-signal) as not done for length
-    reasons that belonged to the voids host; the target measures 2620/3500 hard, greps
-    0 for alcohol/hypoxia/Mellanby/sleep/acute against a positive control on Rebouillat
-    L47. Minted P2 with the note''s four source-verified faces, the deflation record
-    that must travel with them, and the two fabricated-citation traps the note itself
-    caught. SOURCE C, chain (archive tree): the same refine flagged archive/voids/fatigue-void
-    L50/L96 and its description line as carrying the refuted claim; verified verbatim
-    in both trees, redirect L458 and noindex L15 checked, machine-meta.html L38 emits
-    Description with no archived gate. P3 by the emotion-as-evidence/autonoetic archive
-    precedent, two fixer options, body not rewritten silently. DELIBERATELY NOT MINTED:
-    positions 7b - causal-consistency-constraint (P-Q2/P-Q7 Depends-on) had a theorem-statement
-    reading error corrected by the 23:54Z deep-review (transition probability vs inner
-    product); positions grep 0 for either phrase and the claims rest on Torres Alegre
-    as a compatibility result, unchanged - no update. Length: live-section list unchanged
-    from run 1008; epistemology-of-convergence-arguments (5745) sits under a standing
-    HUMAN LENGTH DECISION; operator vetoed three condenses this cycle. Orphans 0.
-    Optimistic 08-27 minted its own five P3s (verified at top of Active) and states
-    New Concept Pages Needed: None for its wing. tune-system 08-26 Tier-2 recs are
-    standing, not re-litigated. apex-evolve 08-26 Not Done items are length-blocked
-    on an apex 790 over soft. Deep-review 08-26 causal-consistency-constraint Remaining
-    Items names five Status-pending cross-link P3s born below the Vetoed header on
-    07-16/07-18 (optimistic forks appending at EOF); not relocated this run - P3 pool
-    is starved at 70 and the link gaps are six weeks stale and unverified; flagged
-    in the report. Post-count re-measured after the splice: count_p0_p2_tasks == 5
-    (loop_pickable_open); p2_tasks counts all eight P2 headers including the three
-    veto-tagged condenses; P3 pool 64 -> 70 (five optimistic mints plus one here).'
-  last_replenishment_run: 1009
-  loop_pickable_open: 5
+  last_replenishment_note: 'RUN 1010. STANDARD MODE, SIX MINTS (all P2), every locus re-verified from
+    disk before minting. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3 (three veto-tagged P2 condenses
+    parser-excluded); the two survivors are the 01:58 acute-limb fold and the 11:13 pessimistic-review
+    task; every P1/P2 the 08-27 outer-review cycle minted on affective-forecasting-gap has completed.
+    Sections: topics 320/320 and concepts 320/320 (both expand-topics from run 1009 landed today at 12:03
+    and 13:04 and filled concepts), voids 99/100, positions 16/80 - so no expand-topic or research-topic
+    candidates survive the cap filter. SOURCE A, chain x3: (1) the Cucu & Pitts 2019 verbatim at conservation-laws-and-mental-causation
+    L68, flagged twice today and deferred as needing the journal text - fetched arXiv 1909.13643 (its
+    header is the Mind & Matter 17(1) typeset, so it IS the journal text), pdftotext 11,528 words, 0 hits
+    for four phrase fragments, positive control ''an open begging of the question'' p.113; the genuine
+    pp.113-114 passage is quoted in the task; Pitts 2020 could not be fetched (Springer bot-block) so
+    the task tells the fixer to check it before choosing paraphrase-unquote vs wrong-work attribution;
+    3475/3500 so net-neutral. (2) cross-review of phenomenal-value-realism vs the new no-self-objection
+    concept: the 13:04 integration reached the note''s three loci and stopped; the flagship topic (P-VS3''s
+    first Argued in, first in the concept''s related_articles) greps 0 for no-self/anatman/Parfit, apex
+    moral-architecture also 0; 4014/4000 hard so net-neutral. (3) cross-review of psychedelics-and-the-filter-model
+    vs the new filter-vs-interface-distinction concept: heaviest filter-vocabulary non-linker (62 hits),
+    0 for outbound/inbound/efferent/causal leg, and the concept''s L78 names psychedelics as the cluster''s
+    unique concurrent case; its Tenet 3 paragraph (L137) infers an outbound claim from set-and-setting;
+    3566/4000. SOURCE B, outer-review synthesis 2026-08-27 s.9 x2 (2-of-3 convergent, explicitly ''flagged
+    for the operator or the next replenish''): consciousness-value-connection greps 0 for affective-forecasting/anticipat/mechanism-debt
+    and carries no constitution-vs-causation distinction outside its Tenet 3 hedge (3494/3500, net-neutral
+    mandatory); valence.md L84 asserts the value-sensitive horn flat from ''anticipated pleasure or pain''
+    one sentence before calling the fork unresolved, 0 register links, P-VS1 credence low. Minted as two
+    single-file tasks, not one, because multi-file tasks drop files. SOURCE C, positions 7b x1: P-VS2
+    Last reviewed 2026-06-18; all four Argued-in articles rewritten in the last 24h; the 10:58 marginal-organism
+    deep-review conditionalised the nematode rung and added a present-affect dissociation assay that the
+    battery text greps 0 for; synthesis finding 3 (3-of-3) bears on the entry''s own confounded-test shift
+    condition; value-in-selection.md 2480/2500 so the update bullet must be paid for. DELIBERATELY NOT
+    MINTED: unconsumed research - the 7 notes without consumed_by in the last 14d were screened by run
+    1009 as threaded or task-held and both capped sections rule out expand anyway; positions audit - one
+    ran 08-24 (P-I3), inside the 30-day window; length - 30 hard_warnings but the top offenders are 1-5
+    words over and the counter includes frontmatter and references, the known false-over-length norm;
+    orphans 0; staleness - P3 pool is 72 and starved, no P3 mints; positions 7a for the no-self concept
+    deferred to the cross-review (the concept says no position asserted). Coalesce 05:34 ABANDONED with
+    no archive, so no link-rot or 7b from it. Post-count re-measured after the splice: count_p0_p2_tasks
+    == 8 (loop_pickable_open); p2_tasks counts all eleven P2 headers including the three veto-tagged
+    condenses; P3 pool 72 unchanged.'
+  last_replenishment_run: 1010
+  loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 70
+  p2_tasks: 11
+  p3_tasks: 72
   replenishment_source_counts:
     promotion_from_p3: 0
-    chain: 2
-    unconsumed_research: 2
+    chain: 3
+    unconsumed_research: 0
     check_tenets: 0
     optimistic_review: 0
     gap_analysis: 0
     length_analysis: 0
     staleness: 0
     orphan_integration: 0
+    outer_review_synthesis: 2
+    positions_dependency_changed: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
