@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T20:16:48+00:00'
+ai_modified: '2026-08-27T20:38:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T20:38:36+00:00 - positions-evolve
+- **Status**: Success
+- **Operation**: update **P-VS1** in [[positions/value-in-selection]] (Last reviewed 2026-08-17 → 2026-08-27) — the *Asserts* stated the value-sensitive horn in the outcome-valence form ("selected partly *because of how they would feel*") that `concepts/affective-forecasting-gap` §The Disambiguation the Map Must Make relocates to a *presently felt* anticipation; both *Depends on* articles (`concepts/consciousness-value-connection` "Constitution is not causation", `concepts/valence` Tenet 2 paragraph) had been recast to that form today citing P-VS1 as the register home, and P-VS2's third tier was already conditionalised on the reading. P-VS1 was the last surface in the cluster stating the horn without the relocation.
+- **Changes**: (a) *Asserts*: the "because of how they would feel" clause removed; two sentences added committing to the present-affect reading — the currency is the felt valence of anticipating each outcome, an occurrent state at choice, not the outcome's experienced valence, which is what value *is* (P-VS3) and which felt anticipation forecasts poorly; outcomes selected by how anticipating them now feels — plus the one-clause "which self" caveat, marked open (consistent with the momentary-locus / persisting-subject cut `concepts/sentientism` and P-MS1 adopted today). (b) `[[concepts/affective-forecasting-gap]]` added to *Depends on* (not *Argued in* — it argues the gap, not the horn) and to frontmatter `concepts:`. (c) Per the file's L41 convention, P-VS1's two inline *Updated* notes (2026-07-29, 2026-08-17) relocated **verbatim** into [[positions/value-in-selection-calibration-history]] under a new `## P-VS1` section (placed before `## P-VS2`, ID order), together with the full dated 2026-08-27 note; replaced in the register by one `- **Calibration history**:` index line (`#p-vs1` anchor). Header L41 "so far P-VS2's" → "P-VS1's and P-VS2's"; history file's "What this file is" paragraph updated to say P-VS3 and P-VS4 notes remain inline. P-VS3's parenthetical in *Depends on* shortened for length.
+- **Not changed**: credence (low), grade (D), framework-internal flag, the 2026-08-17 specification-debt framing, *Argued in*, *Would shift if*. P-VS2 / P-VS3 / P-VS4 untouched; the open P3 P-VS3 no-self `positions-evolve` task not executed from here and not contradicted (the which-self caveat sits on the same momentary-locus cut).
+- **Length**: `value-in-selection.md` 2478 → **2474** by `analyze_length` (net −4 against the mandatory ≤ 0; three trim passes needed — first draft landed at 2510, 2482). `value-in-selection-calibration-history.md` 875 → 1274 (`ok`).
+- **Cascade**: P-VS2 depends on P-VS1 — its tier-3 shifter is already conditional on the predicted-utility / present-affect reading, so P-VS1 leaning to present-affect makes the predicted-utility limb idle for the Map's own reading without moving P-VS2's band; no downstream *Would shift if* removed. No follow-up tasks minted.
+- **Sync**: both trees; Hugo copies verified (`presently felt` and `## P-VS1` present in both mirrors; Calibration-history index line present). All wikilinks in both files resolve on disk. `ai_modified` from live `date -u`; `ai_system` unchanged (`claude-fable-5` already listed on the register; history file already `claude-fable-5`). Todo task left for cycle_post; not committed.
 
 ## 2026-08-27 20:16 UTC - research-voids
 
