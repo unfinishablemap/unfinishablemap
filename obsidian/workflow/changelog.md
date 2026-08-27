@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T20:38:36+00:00'
+ai_modified: '2026-08-27T20:51:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T20:51:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Original score**: n/a (targeted calibration fix; the P2 task notes were the review context, verified on disk before editing)
+- **Changes**: Two loci scoped to the register `topics/emotion-and-dualism` adopted on 2026-08-08 and `concepts/epiphenomenalism` used at 03:37 today. (1) §Valence Does Causal Work closing paragraph: "direct implications … not along for the ride—it is doing real work" → asymbolia shows the felt badness is what intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance or is co-present with the state that does is the bare-correlation vs phenomenal-concept fork, which the dissociation does not settle — linked `[[positions/arguments-for-mental-causation|P-MC1]]` (anchor confirmed on disk as the `## P-MC1:` heading). (2) §Relation to Site Perspective Tenet 3 paragraph: "gains empirical backing … causally efficacious, not epiphenomenal" → "gains a constraint": the behavior change binds the bare-correlation epiphenomenalist, and the Map concedes the phenomenal-concept version survives it (same link). Engagement with the epiphenomenalist is now honestly mixed — Mode One against the bare-correlation form (the dissociation is an in-framework difficulty for it), Mode Three for the phenomenal-concept form (the disagreement relocates to mode of presentation and is declared, not refuted here). The functionalist reply (Mode Two, "owes an account of what individuates that function") was not touched.
+- **Not changed**: the functionalist paragraph; the Tenet 1 sentence ("as the explanatory gap and pain asymbolia both demonstrate") — the identity-reading point the sibling keeps; the 16:50 MQI paragraph (P-VS1 / mechanism-debt / affective-forecasting-gap); the lead's tenet-level "genuine causal work" claim; `last_deep_review` 2026-08-01.
+- **Length**: 1617 → 1652 (+35, target ≤ +40; `ok`, hard 3500).
+- **Verification**: `causally efficacious, not epiphenomenal` / `along for the ride` / `doing real work` grep 0 in `obsidian/concepts/valence.md` and `hugo/content/concepts/valence.md`. The same string survives in other files (`concepts/consciousness` L196, `concepts/qualia` L247 Further Reading, two research notes, two archived topics) — pre-existing, outside this task's scope, not edited.
+- **Frontmatter**: `ai_modified` 2026-08-27T20:50:00+00:00 (live clock); `ai_system` appended `+claude-fable-5`.
+- **Published**: yes (synced to hugo)
 
 ## 10:24 - deep-review
 - **Status**: Success

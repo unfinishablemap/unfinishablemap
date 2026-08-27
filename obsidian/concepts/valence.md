@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-27T16:50:00+00:00
+ai_modified: 2026-08-27T20:50:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[valence-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-08-01T15:29:00+00:00
@@ -63,7 +63,7 @@ The explanatory gap for valence is particularly stark because the property seems
 
 A [[concepts/functionalism|functionalist]] might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise. If "the function of felt badness" is exactly what's missing, the functionalist owes an account of what individuates that function from the intact nociceptive processing that remains: both detect tissue damage, both signal it, both feed the same downstream machinery, and the deficit is picked out by what the state stopped *feeling like* rather than by any further processing role the objection has specified. Functionalism individuates mental states by functional role, so supplying that role is a demand internal to the position rather than one imposed from outside. Either the role gets specified in functional terms, or the individuating difference is phenomenal. The Map takes the second horn on the strength of the missing specification, not on grounds of simplicity: by [[tenets#^occams-limits|Occam's Razor Has Limits]] the Map binds parsimony arguments made *for* its framework exactly as it binds those aimed against it.
 
-This has direct implications for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The felt quality is not along for the ride—it is doing real work.
+This bears on the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, but not as directly as it looks. Asymbolia shows that the felt badness is what the intact nociception lacks and what the behavior tracks; whether it *causes* the avoidance or is co-present with the state that does is the fork between bare-correlation and phenomenal-concept epiphenomenalism, and the dissociation does not settle it ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 ## Valence and Moral Status
 
@@ -79,7 +79,7 @@ Valence supports the Map's framework at multiple points.
 
 The [[tenets#^dualism|Dualism]] tenet finds strong support: if the felt badness of pain cannot be captured by functional or physical description—as the explanatory gap and pain asymbolia both demonstrate—then consciousness involves something beyond the material. Valence is an intrinsic phenomenal property that resists every reductive strategy.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains empirical backing from asymbolia cases. When the phenomenal property is absent, behavior changes. The felt quality is causally efficacious, not epiphenomenal.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains a constraint from asymbolia cases. When the phenomenal property is absent, behavior changes, which binds the bare-correlation epiphenomenalist; the Map concedes that the phenomenal-concept version survives it ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. *If* selection is value-sensitive, consciousness would not influence quantum indeterminacies at random but choose among neural possibilities by how they would feel—where the anticipation consulted is itself a present felt state, not an accurate forecast of the outcome's value ([[affective-forecasting-gap]]). Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable; the Map holds it at low credence, framework-internal only ([[positions/value-in-selection|P-VS1]]), inheriting the quantum interface's undischarged [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than settling it.
 
