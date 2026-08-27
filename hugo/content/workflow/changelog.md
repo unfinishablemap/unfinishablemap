@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T05:34:31+00:00'
+ai_modified: '2026-08-27T07:20:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 05:34:31+00:00
+lastmod: 2026-08-27 07:20:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T07:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; task-scoped pass driven by the 2026-08-27 convergent outer-review P1 — ChatGPT §5.2/§5.3/§6.4 items 15–19, 21; Claude Finding 4; Gemini §4.1/§4.2 — 3/3 reviewers on the "Before Distortion" section)
+- **Changes**: (1) Headline/guard contradiction: "driven by nothing but when and how the question was asked" replaced with the narrower licensed claim (incidence depends on what is measured and how actively it is sought; ascertainment method, endpoint, population and regimen produce the spread jointly); intro forward-reference and Further Reading "latency discount" phrasing narrowed to match. (2) "Latency alone took a rate of one in twenty-two to a rate of zero" replaced with the connectedness-vs-explicit-memory dissociation (different capacities; anaesthetics disrupt encoding/consolidation independently of elapsed time), deferring to `topics/anaesthesia-and-the-consciousness-interface` for the component decomposition. (3) Added **Lennertz et al. 2023** (BJA 130(2):e217–e224, doi 10.1016/j.bja.2022.04.010): 37/338 (11%) in 18–40-year-olds, female adjusted OR 2.7, continuous anaesthesia before laryngoscopy OR 0.43 — the 4.6% is not a constant. (4) Added **Linassi et al. 2021** (Life 11(8):850, doi 10.3390/life11080850): implicit-memory events in 43/119 cohorts (36.1%) — "no explicit recall" ≠ "no record"; the distorted-vs-absent binary now has an implicit-retention route. (5) Paediatric pain-memory meta-analysis (Cuenca-Martínez 2024) re-presented as calibrating ordinary retrospective reconstruction of a retained episode, not anaesthetic amnesia — it bounds generic scepticism rather than "rules it out". (6) "not merely biased about those episodes but blind to them" narrowed to "removes one information source" (semantic knowledge, vicarious report, implicit trace named as the other sources). (7) Confession-to-scoping conversion (Claude F4): the "Map's own framing" paragraph now states the scope the clinical sources fix (anaesthesia, one direction: null reports under-count), disclaims any quantified discount for other felt-state evidence, and keeps only the disclosure requirement; the Tenet 5 paragraph's last sentence rewritten so the under-count claim is confined to anaesthesia and the extension to other states is marked as the Map's own inference. (8) Falsifiability (ChatGPT §6.4, narrowed): new paragraph stating what lowers confidence that an unreported episode occurred — real-time probe returning nothing (248/260 in Sanders), negative implicit-memory testing, incidence-lowering regimens (Lennertz OR 0.43). Kept: the responsiveness-vs-experience guard (answers Gemini §4.2), the Sanders/SNAP-1/NAP5 figures, the MEQ disclosure paragraph (lightly tightened for budget, no change of claim).
+- **Citation verification**: Lennertz 2023 — Crossref metadata + PubMed 35618535 abstract grep (37/338, 11%; ORadjusted 2.7 [1.1–7.6]; ORadjusted 0.43 [0.20–0.96]). Linassi 2021 — Crossref metadata + abstract grep (61 studies, 3906 patients, 119 cohorts; 43 cohorts, 36.1%). Gemini's "Linassi et al. 2022/2023, BJA" attribution for the 11% cohort was **not** imported. Also verified but **not added** (word budget): Gaskell et al. 2017, BJA 119(4):664–673, doi 10.1093/bja/aex170 (frontal alpha-delta does not preclude volitional response — would pre-empt "an EEG marker lowers confidence"); Kaplon, Gallo, Guay & Baker 2025, BJA 135(4):1088–1090, doi 10.1016/j.bja.2025.06.029 (single case report, Gemini dates it 2023); Bonhomme et al. 2019, Front. Syst. Neurosci. 13:36, doi 10.3389/fnsys.2019.00036 (named then dropped — the wikilink deferral does the work). Moved here from the Walker 2016 reference entry: "the 1:800 figure and the within-24-hours modified Brice questionnaire are verified at the primary abstract" (editor-internal verification note, not reader-facing).
+- **Length** (`tools.curate.length.analyze_length`, counts frontmatter + references): 3240 → 3497 words; concepts thresholds printed 2500 soft / **3500 hard** / 5000 critical. Replaced rather than appended; a first draft landed at 3719 and was trimmed within the edited section only.
+- **Reasoning-mode classification**: n/a — the edited section replies to outer reviewers, not to a named opponent in the article body.
+- **Sibling tasks on this file NOT executed** (separately queued): closure claim ("closes the question"), mechanistic-correlate precision (dopamine heterogeneity, wanting/liking mapping), changing-selves. Not synced to Hugo (pipeline auto(sync)).
+- **Published**: yes
 
 ## 2026-08-27T05:51:49+00:00 - refine-draft
 - **Status**: Success
