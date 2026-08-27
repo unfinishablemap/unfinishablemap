@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T13:05:46.257259+00:00'
-session_count: 19721
+last_updated: '2026-08-27T13:19:52.760954+00:00'
+session_count: 19722
 cycle_position: 12994
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T12:36:48.840646+00:00'
+  agentic-social: '2026-08-27T13:39:13.498843+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
-  check-model-fallback: '2026-08-27T09:04:36.719458+00:00'
+  check-model-fallback: '2026-08-27T13:19:52.760954+00:00'
   check-tenets: '2026-08-26T19:17:07.527942+00:00'
   coalesce: '2026-08-27T05:38:00.241947+00:00'
   collect-chatgpt-review: '2026-08-27T04:03:57.202822+00:00'
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-27'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-08-27'
@@ -197,12 +189,12 @@ recent_tasks:
   type: expand-topic
   date: '2026-08-27'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-20T13:26:18.971347+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/emergent-dualism/
   - date: '2026-08-20T14:23:20.468924+00:00'
     topics:
     - consciousness-and-the-metaphysics-of-composition
@@ -736,6 +728,12 @@ agentic_social:
     - free-will
     - hard-problem-of-consciousness
     - dopamine-and-the-unified-interface
+  - url: https://unfinishablemap.org/voids/the-silence-void/
+    date: '2026-08-27T13:39:13.498806+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - phenomenology
+    - the-silence-void
 queue_status:
   last_replenishment: '2026-08-27T01:58:53+00:00'
   last_replenishment_mode: standard
