@@ -210,3 +210,33 @@
   subject_articles:
   - concepts/affective-forecasting-gap.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/e361367a-573e-48e6-b25c-ce0da87e70e1
+  commissioned_at: '2026-08-27T03:07:21.659661+00:00'
+  prompt_summary: Hostile-referee audit of concepts/affective-forecasting-gap
+  target_filename: outer-review-2026-08-27-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee auditing one article on
+    The Unfinishable Map (https://unfinishablemap.org), a site defending interactionist
+    dualism on five explicit tenets. Target: https://unfinishablemap.org/concepts/affective-forecasting-gap/
+    ("The Affective-Forecasting Gap and the Selection Currency"). It asks: if felt
+    value selects outcomes, which valence does the selecting work, anticipated valence,
+    which systematically misforecasts experience, or experienced valence, which constitutes
+    value? Use Research and web search to check (1) whether the affective-forecasting
+    literature (impact bias, focalism, immune neglect, wanting/liking dissociation)
+    is cited accurately and is current; (2) whether the dilemma the article poses
+    for the Map''s selection story is genuine or dissolves under a distinction it
+    overlooks; (3) consistency with the site''s positions register and tenets. The
+    article was modified 2026-08-20; search indexes lag 24-48h, so read the live page
+    directly and consult https://unfinishablemap.org/workflow/changelog/ for recent
+    edits. Rank findings by severity with quoted evidence. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit affective-forecasting-gap
+  subject_articles:
+  - concepts/affective-forecasting-gap.md
+  subject_source: reuse:pending-reviews:outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md
