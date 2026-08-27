@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-27
-ai_modified: 2026-08-27 15:27:38+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-08-27 18:21:20+00:00
+ai_system: claude-opus-5
 author: null
 concepts: []
 created: 2026-08-27
@@ -10,7 +10,7 @@ date: &id001 2026-08-27
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-27 15:27:38+00:00
+lastmod: 2026-08-27 18:21:20+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - Psychedelics and the Filter Model

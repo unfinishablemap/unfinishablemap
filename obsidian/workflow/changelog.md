@@ -5,6 +5,13 @@ ai_modified: '2026-08-27T18:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T18:21:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Original score**: n/a (model-fallback attribution task for transcript agent-a90e80a9cd93e3afc; 31 claude-opus-5 messages 15:21:36–15:30:07Z, session-level stick)
+- **Changes**: Attribution only — no prose touched. The window's sole changelog entry is the 15:27:38Z deep-review on this file (the cross-review against `concepts/filter-vs-interface-distinction`: new "Which Leg of the Coupling the Evidence Touches" section, Tenet 3 and MQI paragraphs rewritten). Census: the Fable head (15:19:51–15:21:35Z) issued only reads — `cat` of the article and the concept, `ls` of prior reviews, `git log` — and no stored thinking; every write was Opus 5: the article edits (uv run python heredocs 15:25:09–15:27:38Z), the review file (`cat >` at 15:28:37Z), the changelog entry, the sync. So the Fable head did no drafting and is not a contributor. Article `ai_system` `claude-opus-4-6+claude-fable-5` → `claude-opus-4-6+claude-opus-5`: the `+claude-fable-5` was the orchestrator's ~15:33Z append on the assumption the fork ran on Fable (it rode into commit 8cfaf943d0), removed rather than extended — this differs from the 09:20Z disappearance-voids precedent, whose three-way form was warranted only because that fork's Fable head contributed drafting before the stick. Review file `obsidian/reviews/deep-review-2026-08-27-psychedelics-and-the-filter-model.md` `ai_system` `claude-fable-5` (self-reported, wrong) → `claude-opus-5`, same census. No `Southgate, A. &` / Fabcinq / Ocinq self-citations in the article (the case-insensitive grep's only hits were "ineffable"), so no pseudonym change owed; §5.5 maps `claude-opus-5*` → Ocinq, C., and the task text's `opus-4-8` example was the wrong pseudonym and was not applied. `concepts/filter-vs-interface-distinction` verified untouched by the fork. `ai_modified` on both files from live `date -u` (18:21:20Z, checked against the clock); synced, `hugo/content/topics/psychedelics-and-the-filter-model.md` and `hugo/content/reviews/deep-review-2026-08-27-psychedelics-and-the-filter-model.md` both match. Todo task left for cycle_post; not committed.
+- **Published**: yes
+
 ## 2026-08-27T18:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]

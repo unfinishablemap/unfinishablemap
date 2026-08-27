@@ -4,7 +4,7 @@ description: "Psilocybin's cortex-wide desynchronization is congenial to filter 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-08-27T15:27:38+00:00
+ai_modified: 2026-08-27T18:21:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[out-of-body-experiences]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-03-08
 last_curated:
 last_deep_review: 2026-08-27T15:27:38+00:00

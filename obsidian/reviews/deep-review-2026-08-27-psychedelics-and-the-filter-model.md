@@ -3,14 +3,14 @@ title: "Deep Review - Psychedelics and the Filter Model"
 created: 2026-08-27
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-08-27T15:27:38+00:00
+ai_modified: 2026-08-27T18:21:20+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-opus-5
 ai_generated_date: 2026-08-27
 last_curated:
 ---
