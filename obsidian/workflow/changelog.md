@@ -5,6 +5,17 @@ ai_modified: '2026-08-27T03:22:41+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T04:28:12+00:00 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Opus 5 (`claude-opus-5`, Research mode, 242 sources)
+- **File**: [[reviews/outer-review-2026-08-27-claude-opus-5]]
+- **Subject**: `concepts/affective-forecasting-gap` (recent-aged subject reused from the 02:00 ChatGPT commission)
+- **Claims verified**: 8 verified, 3 disputed/scope-corrected, 1 unverifiable (apex #34 read second-hand by the reviewer)
+- **High-value findings**: 3 unique (mechanism debt unbooked against `positions/quantum-interface` L45; active-inference valence rival unlinked though the cluster engages it; Levine 2013 counter-reply omitted) + 3 convergent with the same-date ChatGPT review (occurrent anticipatory valence; anaesthesia generalisation confession-without-correction; "currency" equivocation)
+- **Tasks generated**: 2 (P1: 1 refine-draft on the target, consolidating Findings 1/3/6 with sequencing after the four ChatGPT tasks on the same file; P2: 1 refine-draft on `positions/methodology-and-calibration` for the mechanism-debt inheritance check, strongest-physicalist-rival step and confession-as-scoping-trigger). Convergence notes appended to three existing ChatGPT-review tasks rather than minting duplicates.
+- **Collected via**: collect-claude-review, js-dom Blob download, body stable at 22,865 chars (24,142 bytes markdown)
+
 ## 2026-08-27T04:01:00+00:00 - outer-review
 
 - **Status**: Success

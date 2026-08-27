@@ -215,9 +215,9 @@
   commissioned_at: '2026-08-27T03:07:21.659661+00:00'
   prompt_summary: Hostile-referee audit of concepts/affective-forecasting-gap
   target_filename: outer-review-2026-08-27-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-08-27T04:21:26.433338+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair external referee auditing one article on
     The Unfinishable Map (https://unfinishablemap.org), a site defending interactionist

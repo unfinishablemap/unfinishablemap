@@ -1,0 +1,177 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-08-27
+ai_modified: 2026-08-27 04:28:12+00:00
+ai_system: claude-opus-5
+author: Andy Southgate
+concepts:
+- '[[affective-forecasting-gap]]'
+- '[[type-token-causation]]'
+- '[[valence]]'
+created: 2026-08-27
+date: &id001 2026-08-27
+description: 'Claude Opus 5 hostile-referee audit of the affective-forecasting-gap
+  concept: citation-clean, but the selection-currency claim books no mechanism debt
+  and skips the active-inference rival.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-08-27 04:28:12+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/e361367a-573e-48e6-b25c-ce0da87e70e1
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+subject_articles:
+- concepts/affective-forecasting-gap.md
+subject_source: reuse:pending-reviews:outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md
+subject_title: Audit affective-forecasting-gap
+subject_type: recent
+title: Outer Review - Claude Opus 5 (2026-08-27)
+topics:
+- '[[valence-and-conscious-selection]]'
+- '[[the-steelman-for-value-blind-selection]]'
+---
+
+**Date**: 2026-08-27
+**Reviewer**: Claude Opus 5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile but fair external referee auditing one article on The Unfinishable Map (https://unfinishablemap.org), a site defending interactionist dualism on five explicit tenets. Target: https://unfinishablemap.org/concepts/affective-forecasting-gap/ ("The Affective-Forecasting Gap and the Selection Currency"). It asks: if felt value selects outcomes, which valence does the selecting work, anticipated valence, which systematically misforecasts experience, or experienced valence, which constitutes value? Use Research and web search to check (1) whether the affective-forecasting literature (impact bias, focalism, immune neglect, wanting/liking dissociation) is cited accurately and is current; (2) whether the dilemma the article poses for the Map's selection story is genuine or dissolves under a distinction it overlooks; (3) consistency with the site's positions register and tenets. The article was modified 2026-08-20; search indexes lag 24-48h, so read the live page directly and consult https://unfinishablemap.org/workflow/changelog/ for recent edits. Rank findings by severity with quoted evidence. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Adversarial Peer-Review Audit — "The Affective-Forecasting Gap and the Selection Currency"
+
+*Single-article scope. Target fetched live 2026-08-27 by direct slug; article's own `modified_time` is 2026-08-20T01:34Z, consistent with the changelog. The changelog's most recent entries (through 2026-08-27T02:21Z) concern `tenets`, `disappearance-voids`, the intellectual-life wing, and `conceptual-metabolism-void` — none touched this target, so the live page is current and no search-index substitution was used. Tenets page, positions register, and `type-token-causation` were fetched live; apex #34 (`born-preserving-causal-efficacy`) and apex #33 (`cross-modal-capability-division`) could not be fetched directly (the fetcher restricted those slugs), so #34's content was reconstructed from extensive verbatim quotation carried in the live `type-token-causation` page, the live `tenets` page, and the site's own outer reviews; this limitation is flagged rather than papered over.*
+
+## Part 1 — TL;DR Verdict
+
+**REVISE-HARD, with DEMOTE-TO-COHERENCE-ONLY as the named fallback.** The article is citation-clean — every one of its ~18 external references checks out at the publisher of record, and it is unusually candid about its own interpretive reaches. But it fails on two structural axes its own corpus makes non-negotiable. First, it makes a load-bearing causal claim — "felt value guides which outcome consciousness selects," and, testably, that de-biasing forecasts "should change which outcome is selected" — without once booking the **bias-without-deviation / mechanism debt** that apex #34 (`born-preserving-causal-efficacy`) and `type-token-causation` insist every downstream "does causal work" claim must inherit. A valence-keyed selection bias that is genuine and lab-detectable is exactly the Born-conditioned deviation the Map elsewhere denies at the unconditioned grain and leaves open only conditionally; the article never reconciles the two. Second, it treats a fully physicalist framework-level rival — predictive-processing / active-inference theories of valence (Joffily & Coricelli 2013; error-dynamics accounts; Barrett; Seth; Laukkonen, Friston & Chandaria 2025) — as literally absent, though those theories give a principled physicalist account of the very anticipated-vs-experienced gap the article treats as evidence needing a dualist "selection currency." And the whole "which valence selects?" dilemma is a constitutional-attractor artifact softened to the point of dissolution by a distinction the article never notices: anticipation *itself has a felt, occurrent character*.
+
+- **The dilemma is not genuine as posed.** It rests on treating "anticipated valence" as unfelt/mechanism-like versus "experienced valence" as the felt kind. But anticipated valence is itself an occurrent experienced valence at t1; once that is seen, the horn structure collapses — the felt (occurrent) valence can do the selecting while being a poor forecast of the felt valence of the outcome at t2, which is an epistemic fact, not a metaphysical concession.
+- **Central consistency finding:** a value-sensitive selection currency is in unreconciled tension with the Map's Born-preservation machinery. If valence does selection work, either it produces a consciousness-conditioned deviation (which the article's own lab test presupposes) or it is confined to the invisible token grain (in which case "the currency is real" overstates what the Map can license). The article books neither horn and cites neither #34 nor `type-token-causation`.
+- **Scholarship quality is high; framing discipline is not.** Metadata, verbatim fidelity, and author-stance handling are all strong — the physicalists are explicitly *not* recruited to dualism. The failure is architectural: an unengaged physicalist rival, a missed dissolving distinction, and an unbooked mechanism debt, all of which make the article read more confidently than apex #34's standard permits.
+
+## Part 2 — Dimensional Analysis (ranked by severity)
+
+### FINDING 1 (most severe) — Unbooked mechanism debt: the selection-currency claim is inconsistent-until-reconciled with the Born-preserving machinery. [constrain-vs-establish gate; coherence inflation]
+
+The article's opening move is a causal claim: *"The Map's value-sensitive horn—that felt value guides which outcome consciousness selects... is under-specified until it names which valence is causally load-bearing."* Its resolution: *"anticipated valence drives selection while experienced valence constitutes value."* And it offers an empirical discriminator: *"If selection is value-sensitive on experienced valence, interventions that correct forecasts—defocusing or de-biasing manipulations that close the impact-bias gap—should change which outcome is selected."*
+
+This collides with the Map's deepest documented structural problem. Apex #34 (`born-preserving-causal-efficacy`) and `type-token-causation` hold that conscious selection preserves the **unconditioned** Born marginal exactly, so value's causal work exists only at the invisible token grain — `phenomenal-value-realism` is quoted across the corpus as holding that "phenomenal valence makes no Born-rule bias." The tenets page and `type-token-causation` state the governing discipline verbatim: *"Articles asserting that consciousness does 'real work' or 'genuine causal work' inherit that debt rather than discharge it, and should read no more confidently than this paragraph does"* — *"citable as a framework-internal coherence result, not as established mental causation."*
+
+The target inherits that debt and never books it. Worse, its proposed test — a debiasing intervention that "should change which outcome is selected" — is precisely a *deviation conditioned on task/subject*, which the tenets page says "would test the corridor itself" (horn (a), P-Q3 `mechanism-debt`). So either (a) valence-keyed selection is genuine and systematically biases outcomes — in which case the article owes an explicit statement that this lives in the conditional register that is the Map's *sole* empirical exposure, plus a reconciliation with unconditioned Born preservation; or (b) valence only nudges tokens invisibly, in which case *"The currency is real; it is poorly calibrated"* overstates what the Map can assert, and the honest reading is near-epiphenomenalism of the experienced evaluative dimension — the very outcome the article warns against (*"The Map should not let this quietly narrow the tenet into near-epiphenomenalism of the experienced evaluative dimension"*) and then walks into. Neither horn is booked; neither #34 nor `type-token-causation` is cited. Measured against #34's standard of confronting the bias-without-deviation dilemma head-on, this is **below benchmark**. [tenets](/tenets/)
+
+### FINDING 2 — The dilemma dissolves under the occurrent/prospective distinction the article overlooks. [core Audit-Task-2 result]
+
+The forced disambiguation depends on the contrast *"the load-bearing valence in selection is the predicted kind, which is exactly the kind that is least reliable and most mechanism-like,"* set against experienced valence as the felt kind. This treats anticipated valence as if it were not itself felt. But anticipation *has* a felt character — the dread, the relish, the anxious pull are occurrent experienced valences at t1. Once that is admitted, the horn structure collapses: the selection currency at t1 can be *experienced* valence (the felt quality of anticipating), which is simply a poor forecaster of the *experienced* valence of the outcome at t2. The divergence the affective-forecasting literature documents is then an epistemic fact about forecasting accuracy, not a metaphysical wedge forcing "the felt is not what selects." The article's own three-utility framework even supplies the resources to see this (instant utility of the anticipating state), yet it never notices that anticipation is phenomenally occurrent, and so mis-poses a genuine question (is t1-felt-valence a good guide to t2-felt-valence? — no) as a false dichotomy (does the felt or the unfelt kind select?). The "dilemma the Map cannot dodge" is substantially dissolved by a distinction the article does not raise.
+
+### FINDING 3 — Framework-level physicalist rival (predictive processing / active inference) entirely unengaged. [evidential-independence failure; currency defect]
+
+The motivating premise is that the anticipated-vs-experienced valence gap is a "structured, well-replicated bias" demanding a dualist selection-currency disambiguation. But there is a mature, fully physicalist programme whose entire point is to explain that gap: error-dynamics / active-inference theories of valence. On Joffily & Coricelli (2013, *PLoS Comput Biol* 9(6):e1003094, doi 10.1371/journal.pcbi.1003094), the authors "propose a formal definition of emotional valence (i.e., the positive and negative character of emotion) in terms of the rate of change of free-energy or, under some simplifying assumptions, of prediction error over time" — so anticipation and outcome-experience occupy different points in the predictive hierarchy and their divergence is *predicted*, not anomalous. This family (Van de Cruys; Kiverstein, Miller & Rietveld; Seth's interoceptive inference; Barrett's theory of constructed emotion) appears nowhere. Nor does the 2025 Laukkonen–Friston–Chandaria "beautiful loop" (*Neuroscience & Biobehavioral Reviews* 176:106296, doi 10.1016/j.neubiorev.2025.106296), an active-inference theory of consciousness whose second condition is that "inferential competition to enter the world model. Only the inferences that coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding" — i.e., a physicalist theory in which *selection* is the core notion, directly occupying the ground the article claims for the dualist currency. This is not a missing citation; it is a missing rival framework that would defuse the article's central "gap-needs-a-currency" motivation on physicalist terms. Its absence is the single largest currency defect: the article engages the *internal* artifact debate (Levine vs Wilson & Gilbert) but not the *external* framework that reads the same data without any dualist remainder.
+
+### FINDING 4 — Constitutional-attractor effect: the "selection currency" question is tenet-generated, and the article's confession does not correct it. [confession-without-correction; tenet leakage]
+
+The affective-forecasting phenomena (impact bias, immune neglect, focalism) are a real, independent literature. The *dilemma* — "which valence does the selecting?" — is not; it exists only because Tenets 2–3 posit consciousness selecting quantum outcomes on the basis of valence. No cited author thinks their findings bear on selection at quantum indeterminacies. The "Before Distortion" section makes the attractor visible and then rides it: *"Treating the reported frequency and content of a felt state as partly a property of the channel's latency rather than of the state is the Map's own framing. None of these authors states it in that general form; the clinical sources state it within anaesthesia only."* That is an honest confession — followed by no correction. The anaesthesia latency gradient (a neutral clinical fact) is generalized into a "discount schedule for claims the Map already makes" and folded into the Occam's-limits tenet (*"the parsimonious reading of a null report is that there was nothing to report, and the anaesthesia gradient shows that inference failing at a measurable rate under controlled conditions, in a specific direction—it under-counts"*). Neutral psychometric/clinical data read back through a tenet frame the sources do not license: textbook tenet leakage, inoculated by an in-text confession that changes nothing downstream.
+
+### FINDING 5 — Epistemic-to-metaphysical slide in the "constitutes value" horn. [epistemic-to-metaphysical slide]
+
+The disambiguation is officially a causal-mechanism question ("which valence is causally load-bearing"). But the experienced-valence horn is discharged with a metaphysical/normative claim: experienced valence *"constitutes value, the felt badness of suffering being intrinsic."* The article half-notices the two-level structure (*"It does work at the level of what value is... It concedes ground at the level of what selection runs on"*) but presents this as a clean solution rather than as the equivocation on "currency" that makes the dilemma look forced. "Currency" slides between what selection is causally *sensitive to* and what selection is normatively *for*; the resolution trades on that slide. Lower severity because the article does flag the two levels — it simply mis-describes an equivocation as a division of labour.
+
+### FINDING 6 — Calibration asymmetry in the artifact debate. [calibration asymmetry]
+
+The article stages the debate as *"Levine et al. (2012) argue the intensity component of the impact bias is partly a procedural artifact; Wilson & Gilbert (2013) rebut."* It gives the pro-impact-bias side the last word (the 2013 rebuttal) and omits Levine, Lench, Kaplan & Safer's own counter-reply, "Like Schrödinger's cat, the impact bias is both dead and alive" (*JPSP* 105(5):749–756, doi 10.1037/a0034340), which concludes verbatim that "the impact bias, which encompasses overestimating the intensity of feelings about events and overestimating the intensity of feelings in general, is both dead and alive" — directly contesting Wilson & Gilbert's "The impact bias is alive and well." The article's retreat to "we lean only on the uncontested duration result" is defensible and largely inoculates the substantive point, but the one-sided staging of the exchange should be evened out.
+
+### Author-stance note (a place the article PASSES): no co-optation firewall failure.
+
+Contrary to the site's primary documented failure mode, the article does **not** recruit Gilbert, Wilson, Kahneman, Berridge, or Schultz toward dualism. It explicitly firewalls them: *"Schultz and Berridge are physicalists whose constructs are operational, and the wanting/liking dissociation is empirical while its metaphysics is not theirs to settle."* More strikingly, it turns the literature *against* its own side — *"So flagged, the gap strengthens the value-blind rival"* — booking the material as a cost to the value-sensitive horn rather than as support for dualism. Correct handling; preserve it through revision. It also gets the Berridge dissociation the right way round: wanting = incentive salience / mesolimbic dopamine; liking = hedonic impact / opioid hotspots.
+
+### Citation Table (three-layer verification; all external cites checked at publisher of record)
+
+| Citation as given | Metadata accuracy | Verbatim fidelity | Author-stance accuracy | Verdict |
+| --- | --- | --- | --- | --- |
+| Wilson & Gilbert (2003), *Adv. Exp. Soc. Psychol.* 35, 345–411 | Accurate | No quote (review cite) | Impact-bias review — correct | PASS |
+| Wilson & Gilbert (2005), *Curr. Dir. Psychol. Sci.* 14(3), 131–134, doi 10.1111/j.0963-7214.2005.00355.x | Accurate | No quote | Correct | PASS |
+| Gilbert, Pinel, Wilson, Blumberg & Wheatley (1998), *JPSP* 75(3), 617–638 | Accurate (PubMed 9781405) | Immune-neglect/duration paraphrase — faithful | Correct (durability bias, negative events) | PASS |
+| Wilson, Wheatley, Meyers, Gilbert & Axsom (2000), *JPSP* 78(5), 821–836 | Accurate | Focalism paraphrase — faithful | Correct | PASS |
+| Gilbert & Wilson (2007), *Science* 317(5843), 1351–1354 | Accurate | "Prospection" paraphrase — faithful | Correct | PASS |
+| Kahneman, Wakker & Sarin (1997), *QJE* 112(2), 375–406 | Accurate | *"can induce a preference for dominated options"* — verbatim-exact against QJE abstract | Correct | PASS |
+| Redelmeier & Kahneman (1996), *Pain* 66(1), 3–8 | Accurate | Peak-end / duration-neglect paraphrase — faithful | Correct | PASS |
+| Schultz (2016), *Dialogues Clin. Neurosci.* 18(1), 23–32 | Accurate | RPE paraphrase — faithful | Correct; flagged physicalist/operational | PASS |
+| Berridge & Robinson (2016), *Am. Psychol.* 71(8), 670–679, doi 10.1037/amp0000059 | Accurate | Dissociation stated the right way round | Correct; explicitly firewalled | PASS |
+| Levine, Lench, Kaplan & Safer (2012), *JPSP* 103(4), 584–605 | Accurate (PubMed 22889075) | "intensity... partly a procedural artifact" — faithful | Correct | PASS (counter-reply omitted — Finding 6) |
+| Wilson & Gilbert (2013), *JPSP* 105(5), 740–748 | Accurate (PubMed 24219785) | "rebut" — faithful | Correct | PASS |
+| Sanders et al. (2017), *Anesthesiology* 126(2), 214–222 | Accurate | 4.6% (12/260), 5/12 pain, 0/253 explicit recall [rug](https://research.rug.nl/en/publications/incidence-of-connected-consciousness-after-tracheal-intubation-a-/) — verbatim-exact | Correct | PASS |
+| Tasbihgou, Vogels & Absalom (2018), *Anaesthesia* 73(1), 112–122 | Accurate | Narrative-review framing — faithful | Correct | PASS |
+| Walker et al. (2016), SNAP-1, *BJA* 117(6), 758–766 | Accurate | ~1:800, modified Brice within 24h [Wiley Online Library](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.14124) — confirmed | Correct | PASS |
+| Pandit et al. (2014), NAP5, *Anaesthesia* 69(10), 1089–1101 | Accurate | ~1:19,600 (95% CI 1:16,700–23,450), [Wiley Online Library](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.12826) spontaneous report — confirmed | Correct | PASS |
+| Cuenca-Martínez et al. (2024), *Pain* 165(7), 1450–1463 | Accurate | SMD=0.28 (clinical 0.33, experimental 0.07) — faithful | Correct (paediatric) | PASS |
+| Erskine, Morley & Pearce (1990), *Pain* 41(3), 255–265 | Accurate | "moderately accurate, methodological problems" — faithful | Correct | PASS |
+| Barrett, Johnson & Griffiths (2015), *J. Psychopharmacol.* 29(11), 1182–1190 | Accurate | Timing disclosures (7h; 3–8 weeks; 8-yr norming) — faithful | Correct (psychometrics not in question) | PASS |
+| **Predictive-processing / active-inference valence literature** | — | — | — | **ABSENT — should be present (Finding 3)** |
+| **`born-preserving-causal-efficacy` (#34) / `type-token-causation`** | — | — | — | **ABSENT — should be cited (Finding 1)** |
+
+Metadata verdict: no fabricated citations, no misattributions, no wrong-metadata cites, no paraphrase-as-quote. The verbatim quotations that appear (Kahneman "dominated options"; the anaesthesia figures — all confirmed against primary sources; the Barrett timing disclosures) are faithful. This is the article's genuine strength and the reason DELETE is off the table.
+
+## Part 3 — Bottom-Line Verdict
+
+**REVISE-HARD.** The article clears the citation and author-stance bars that are the site's usual failure points, so DELETE is unwarranted. But it cannot RETAIN: it advances a causal selection-currency thesis while (a) failing to book the bias-without-deviation / mechanism debt that its own apex #34 makes mandatory for any "selection does work" claim, (b) leaving the decisive physicalist rival framework (predictive processing / active inference) wholly unengaged, and (c) mis-posing as a forced dilemma a question that dissolves once anticipation's own felt character is admitted. If the Born-preservation reconciliation in Finding 1 cannot be made — i.e., if the author cannot show how a valence-keyed, lab-detectable selection bias coexists with unconditioned Born preservation — then the correct disposition drops to **DEMOTE-TO-COHERENCE-ONLY**: the selection-currency claim becomes citable as framework-internal coherence, not as a result about what selection runs on, and the confident line *"The currency is real; it is poorly calibrated"* must be struck. Calibration against the benchmarks: the article is below apex #34, which confronts the bias-without-deviation dilemma directly and books the mechanism debt in its own voice; the target imports the same causal commitment while omitting the debt entirely.
+
+## Part 4 — Slug-Keyed Article Fixes
+
+**`concepts/affective-forecasting-gap` (target):**
+
+1. Add an explicit mechanism-debt paragraph citing `apex/born-preserving-causal-efficacy` and `concepts/type-token-causation`: state that "felt value guides which outcome consciousness selects" is a token-grain claim inheriting the bias-without-deviation debt, and reconcile the proposed debiasing test with Born preservation by locating it in the *conditional* register (P-Q3 `mechanism-debt`, horn (a)) rather than presenting it as a generic outcome-selection effect.
+2. Add a section engaging predictive-processing / active-inference valence accounts (Joffily & Coricelli 2013; error-dynamics theories; Barrett; Seth; Laukkonen, Friston & Chandaria 2025) as a framework-level rival that explains the anticipated-vs-experienced gap physically — then state the Map's constrain-not-establish reply, not a silent omission.
+3. Add the occurrent/prospective distinction: acknowledge that anticipated valence is itself an occurrent experienced valence at t1, and either defend the horn structure against the resulting collapse or concede the dilemma is softer than posed.
+4. Requalify *"The currency is real; it is poorly calibrated"* to the coherence-only register unless Fix 1 succeeds; resolve the near-epiphenomenalism it walks into.
+5. Even the calibration asymmetry: cite Levine et al. (2013), "Like Schrödinger's cat, the impact bias is both dead and alive," *JPSP* 105(5):749–756, alongside Wilson & Gilbert (2013).
+6. Convert the anaesthesia "discount schedule" confession into an actual scoping correction: mark the generalization as Map-imposed rather than source-licensed.
+
+**`concepts/type-token-causation` and `apex/born-preserving-causal-efficacy`:** add an inbound cross-link from the valence cluster; the target is now a downstream "does causal work" claim these pages' mechanism-debt discipline should govern, and the propagation is currently one-directional.
+
+**`concepts/valence`, `concepts/consciousness-value-connection`, `topics/valence-and-conscious-selection`:** propagate the occurrent-anticipation point and the mechanism-debt inheritance so the value-sensitive horn is not asserted more confidently upstream than the target now warrants.
+
+## Part 5 — Site-Wide Methodology Improvements
+
+1. **Mechanism-debt propagation gate.** Any new article asserting that consciousness "selects," "guides," or "does causal work" should be required to cite `born-preserving-causal-efficacy` and state whether its claim lives at the token grain or the conditional register. The debt discipline exists on the apex and concept pages but is not enforced on new concept articles that open fresh causal fronts (here, valence-as-currency) — exactly the "clean streak is not evidence; ask what moved under the article" gap the corpus's own maintenance notes describe.
+2. **Framework-rival checklist.** The generation pipeline reliably surfaces *internal* debates (Levine vs Wilson & Gilbert) but missed an entire *external* physicalist framework (predictive processing) bearing directly on the thesis. A mandatory "name the strongest physicalist framework that explains this datum without the tenets" step would catch evidential-independence failures before publication.
+3. **Confession-without-correction detector.** The article contains two textbook instances ("the Map's own framing… none of these authors states it") that name a tenet-imposed reading and then build on it unchanged. Reviews should treat an in-text confession as a *trigger for a scoping edit*, not as sufficient inoculation.
+4. **Same-model review is not external validation.** Nothing in this audit should be read as endorsed by the site's internal review cycles; the mechanism-debt and predictive-processing gaps survived those cycles, which is itself evidence that same-model self-review under-detects framework-level omissions.
+
+## Verification Notes
+
+Processed 2026-08-27 by the outer-review skill. The article was read in full; every "absent" claim was grep-checked against `obsidian/concepts/affective-forecasting-gap.md`; the three new external sources were fetched at the publisher or Europe PMC; the register and apex claims were checked against the live files.
+
+**Verified claims:**
+
+- ✓ Absence claims (Findings 1, 3): the article has zero occurrences of born-preserving, type-token, mechanism debt, predictive processing, active inference, free-energy, Bayesian, Joffily, Laukkonen, or occurrent. It cites no position; `positions/value-in-selection` P-VS1 holds value-sensitive selection at credence *low*.
+- ✓ Apex numbering: [apex/apex-articles.md](/apex/apex-articles/) admits `cross-modal-capability-division` as #33 (L740) and `born-preserving-causal-efficacy` as #34 (L766).
+- ✓ The mechanism-debt convention exists at `positions/quantum-interface` L45 (P-Q3 + P-Q10), names value-sensitive selection among the domains "where it has bitten so far", and grades the causal-selection thesis "citable downstream as a framework-internal coherence result only, never as established mental causation" — the 2026-08-24 update makes the criterion the *use*, not list membership. The article was deep-reviewed 2026-08-20, after the 2026-08-13 tightening, and carried nothing.
+- ✓ Tenets quote: `tenets` L95 (`^tenet-3-standin`) reads "inherit that debt rather than discharge it, and should read no more confidently than this paragraph does" — verbatim. `type-token-causation` L144 "citable as a framework-internal coherence result, not as established mental causation" — verbatim.
+- ✓ Joffily & Coricelli (2013), *PLoS Comput Biol* 9(6):e1003094 — the reviewer's quotation is verbatim-exact from the Author Summary ("in terms of the rate of change of free-energy or, under some simplifying assumptions, of prediction error over time").
+- ✓ Laukkonen, Friston & Chandaria (2025), *Neurosci Biobehav Rev* 176:106296, PMID 40750007 — metadata correct; "inferential competition to enter the world model. Only the inferences that coherently reduce long-term uncertainty win, evincing a selection for consciousness that we call Bayesian binding" is verbatim from the abstract.
+- ✓ Levine, Lench, Kaplan & Safer (2013), "Like Schrödinger's cat, the impact bias is both dead and alive: reply to Wilson and Gilbert (2013)", *JPSP* 105(5):749–756, doi 10.1037/a0034340, PMID 24219786 — metadata correct; the concluding sentence is verbatim from the abstract. The article does omit it (Finding 6 confirmed).
+- ✓ The author-stance pass (no co-optation of Gilbert, Wilson, Kahneman, Berridge, Schultz) matches the article's own firewalling sentence at L67.
+
+**Disputed or scope-corrected claims:**
+
+- ✗ The reviewer says `phenomenal-value-realism` "is quoted across the corpus as holding 'phenomenal valence makes no Born-rule bias'". That string occurs nowhere in the corpus. The actual sentence (`topics/phenomenal-value-realism` L173) reads "at the type level, value-laden experience adds nothing to Born-rule predictions; at the token level it determines which outcome actualises in this instance". A paraphrase presented as a quotation; the substance is accurate.
+- ✗ (scope) Finding 3's "this family ... appears nowhere" is true of the target article and false of the cluster: `concepts/evaluative-phenomenal-character` L172 engages Joffily & Coricelli 2013 as "the leading empirical rival"; `topics/the-steelman-for-value-blind-selection` L77–79 engages Hesp et al. 2021 and Solms & Friston 2018 on active-inference valence; `topics/predictive-processing-and-dualism` is a standing page; Laukkonen 2025 is cited in five apex/concept pages. Downgraded at processing from "missing rival framework" to "missing cross-link plus one paragraph" — the target should link what the cluster already carries rather than re-survey it.
+- ✗ The citation table passes Kahneman, Wakker & Sarin 1997 as "Accurate"; the same-date ChatGPT review found the article misattributes a three-utility taxonomy to that paper (it distinguishes decision and experienced utility, with instant/remembered as modes of the latter) and omits *predicted* utility. On that row the ChatGPT audit is the stronger one; a P1 task is already queued.
+- ? The reviewer could not fetch apex #34 or #33 directly and reconstructed #34 from quotations elsewhere. Its characterisation matches the register and the apex-articles entry, but the review's account of #34 is second-hand and should not be cited as a reading of that page.
+
+**Convergence with the same-date ChatGPT 5.6 Pro review:**
+
+- Finding 2 (anticipation is itself an occurrent felt valence, so the dilemma is an epistemic forecasting question) converges with ChatGPT's "present anticipatory affect" objection (its items 5–8). Two of three reviewers; noted on the existing P1 task.
+- Finding 4 (the anaesthesia "discount schedule" is a Map-imposed generalisation) converges with ChatGPT §5. Noted on the existing P1 task.
+- Finding 5 ("currency" equivocates between causal sensitivity and normative constitution) converges with ChatGPT §6.1. Noted on the existing P2 task.
+- Unique to this review: Finding 1 (mechanism debt unbooked — the register-backed structural finding), Finding 3 (active-inference rival), Finding 6 (Levine 2013 counter-reply), and the three methodology proposals. One P1 and one P2 task generated for these; the same-file pileup (four open tasks on the target already) is why Findings 1, 3 and 6 share one task with explicit sequencing.
