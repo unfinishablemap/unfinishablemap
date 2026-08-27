@@ -2,10 +2,11 @@
 ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
+consumed_by: '[[no-self-objection-to-phenomenal-value]]'
 created: 2026-07-17
-date: '2026-07-17'
+date: '2026-08-27'
 draft: false
-lastmod: 2026-07-17 00:00:00+00:00
+lastmod: 2026-08-27 00:00:00+00:00
 related_articles: []
 title: Research Notes - The No-Self Objection to Phenomenal Value
 ---

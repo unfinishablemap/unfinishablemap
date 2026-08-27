@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-08-27 10:23:22+00:00
+ai_modified: 2026-08-27 13:00:14+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
+- \"[[no-self-objection-to-phenomenal-value]]\"
 - '[[consciousness-value-connection]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[valence]]'
@@ -19,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:23:22+00:00
-lastmod: 2026-08-27 10:23:22+00:00
+lastmod: 2026-08-27 13:00:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +69,7 @@ A trap worth marking explicitly: Berridge is a physicalist affective neuroscient
 
 There is also a live mechanistic rival to keep in view: the reward-prediction-error account (Schultz 2016) reads phasic dopamine as coding the error δ between received and predicted reward—a teaching signal that updates a learned value—rather than incentive salience. The two mechanistic stories are debated within neuroscience, and Berridge (2023) sharpens the divergence by showing that "wanting" can float free of the learned value δ maintains; the value-in-mechanism fork sits *above* that dispute, since both are mechanism-level accounts that the value-in-experience reading would treat as describing correlates rather than the locus of value.
 
-A second pressure comes from the opposite direction. The value-in-experience reading leans on there being a *subject* for whom hedonic value exists, and a no-self critic will ask what that subject amounts to if it is not simply more mechanism. The Map does not need to settle that here: its claim is the comparatively modest one that *whatever* the experiencing locus turns out to be, an unfelt "liking" reaction has no one it is good for, and so carries no value in the sense the fork is about. If a fully impersonal process could nonetheless instantiate genuine value, the value-in-experience reading would lose its motivation—so this is a real cost to track, not a settled point.
+A second pressure comes from the opposite direction. The value-in-experience reading leans on there being a *subject* for whom hedonic value exists, and a no-self critic will ask what that subject amounts to if it is not simply more mechanism. The Map does not need to settle that here: its claim is the comparatively modest one that *whatever* the experiencing locus turns out to be, an unfelt "liking" reaction has no one it is good for, and so carries no value in the sense the fork is about. If a fully impersonal process could nonetheless instantiate genuine value, the value-in-experience reading would lose its motivation—so this is a real cost to track, not a settled point. The dedicated treatment is [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/), which argues that the "someone" the reading needs is a momentary experiential locus rather than a persisting self, and marks the for-no-one reading of contentless-awareness reports as the rival it cannot yet refute.
 
 ## Shared Terminology Map {#shared-terminology}
 

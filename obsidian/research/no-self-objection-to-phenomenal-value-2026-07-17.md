@@ -4,6 +4,7 @@ created: 2026-07-17
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+consumed_by: "[[no-self-objection-to-phenomenal-value]]"
 ---
 
 # Research: The No-Self Objection to Phenomenal Value

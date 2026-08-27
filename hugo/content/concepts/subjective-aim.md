@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-08-27 13:00:14+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
+- \"[[no-self-objection-to-phenomenal-value]]\"
 - '[[process-philosophy]]'
 - '[[prehension]]'
 - '[[agent-causation]]'
@@ -24,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 20:50:57+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-08-27 13:00:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +84,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 **Empirical vacuity**: Subjective aim generates no distinctive empirical predictions. An electron with subjective aim behaves identically to one without. The concept's value is metaphysical—offering a framework where consciousness is natural rather than anomalous—not empirical. Whether metaphysical illumination without empirical consequences constitutes genuine explanation is debated.
 
-**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [combination problem](/concepts/combination-problem/) that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
+**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [combination problem](/concepts/combination-problem/) that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all; [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) treats the value-side of that question, arguing that a momentary experiential locus is enough for mattering even if no subject persists across occasions. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
 
 **Teleology without mechanism**: Subjective aim introduces teleology (goal-directedness) at the fundamental level without specifying how this teleology operates physically. The Map's quantum selection framework at least identifies *where* consciousness might intervene (quantum indeterminacies). Process philosophy's subjective aim identifies *what* is happening (self-directed becoming) without specifying how this relates to physical law.
 

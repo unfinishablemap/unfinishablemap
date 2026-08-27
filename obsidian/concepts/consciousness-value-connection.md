@@ -4,12 +4,13 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-08T07:43:12+00:00
+ai_modified: 2026-08-27T13:00:14+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-under-dualism]]"
 concepts:
+  - \"[[no-self-objection-to-phenomenal-value]]\"
   - "[[phenomenal-value-realism]]"
   - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
@@ -76,6 +77,8 @@ The identity is metaphysical rather than merely conceptual: what you undergo in 
 A different approach focuses on what value is *for*: value that is good for no one and bad for no one is physics arranged one way rather than another.
 
 For something to be good *for* someone in the evaluative sense there must be a someone—a locus of experience from which things go well or badly, not merely a biological organism or information-processing system. A thermostat has states that serve or defeat its design, good or bad for it in the engineer's sense; what it lacks is anyone for whom the difference registers. Before consciousness, matter arranged and rearranged, and no arrangement was better or worse than another.
+
+This route invites the no-self objection: Buddhist *anātman* and Parfit's reductionism both deny that any persisting subject exists to be the "someone." [[no-self-objection-to-phenomenal-value]] answers it on the Map's behalf — the route needs a momentary experiential locus, not a persisting self, and the objection's strongest form turns on whether experience can be for no one at all.
 
 ## Objections and Responses
 
