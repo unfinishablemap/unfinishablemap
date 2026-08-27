@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T15:55:27+00:00'
+ai_modified: '2026-08-27T16:22:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-08-27T16:22:09+00:00 - coalesce
+
+- **Status**: Success (ABANDON — no merge. The delta check that the 05:34 run said was the only step worth doing was run, and for the first time in five runs it was **non-zero**; the two new articles are then dispositioned directly, leaving nothing to sweep.)
+- **Section pressure** (`tools.evolution.state.count_section_files`, live): topics **320/320 gate-full** (319 real — the known `non-temporal-consciousness.refinement-log.md` sidecar over-count), concepts **320/320 — AT CAP as of 13:05 today**, voids **99/100**, positions 16/80. Both major sections are now gate-full for the first time; per the standing finding, relief has to come from `/archive`, `/condense`, or a cap raise — not from coalescing. Operator's call.
+- **Thresholds printed, not quoted** (`tools/curate/length.py`, warn/hard/critical): topics 3000/**4000**/6000, concepts 2500/**3500**/5000, voids 2000/**3000**/4000, apex 4000/5000/6500.
+- **Delta check**: `git log --since=2026-08-26 --diff-filter=A` over topics/concepts/voids/apex returns **two** new articles, both today's expand-topic products that took concepts from 318 to 320: `concepts/filter-vs-interface-distinction` (12:05, 2794w by `analyze_length`) and `concepts/no-self-objection-to-phenomenal-value` (13:05, 3480w). Everything else in the pool is unchanged since the 2026-08-24 01:07 / 18:07, 08-26 15:09 and 08-27 05:34 sweeps, which bound it on four orthogonal axes; re-scoring the unchanged 736 was not repeated.
+- **Both new articles are excluded as merge participants twice over, independently**: (a) the 7-day age floor — each was created today, and merging a same-day spinoff is the create-then-coalesce churn recorded on 2026-05-27; (b) length — at 3480w the no-self article is 20w under the concepts hard ceiling *on its own*, and the filter article at 2794w cannot absorb even the corpus's shortest eligible concept (~1300w) without landing ~2600w over the ceiling and minting a condense task on arrival. Neither exclusion depends on the other.
+- **The delta was still scored, so the record carries their neighbourhoods rather than an assumption**: TF-IDF (df 2..35%, 780 docs incl. apex, frontmatter/reference apparatus/house-style headings stripped) tops at **0.215** for the filter article (`topics/locked-in-syndrome-…`; then `concepts/filter-theory` 0.210, `topics/psychedelics-and-the-filter-model` 0.203) and **0.202** for the no-self article (`concepts/self-and-self-consciousness`; then `buddhism-and-dualism` 0.199, `consciousness-value-connection` 0.198). Link-Jaccard tops at 0.240 / 0.237. All below the 0.25 line that no length-feasible pair has ever crossed, and far below the 0.40+ band where real duplication has appeared.
+- **Verbatim check (the one defect class a fresh article can introduce — the 2026-07-30 luck-objection pattern)**: shared 10-word shingles against every other doc. Filter article: 15 with `topics/william-james-consciousness`, all from the James 1898 *"permissive or transmissive function"* passage, quoted and attributed in both. No-self article: 6 with `voids/edge-states-and-void-probes` and 3 with `topics/contentless-awareness-evidence`, all the Metzinger *"Bayesian representation of tonic alertness"* sentence, quoted and attributed in all three; 6 with `concepts/consciousness-value-connection` on the *"good for no one and bad for no one"* formulation, which the new article quotes at L56 with explicit attribution ("in the Map's phrase") as premise 1 of the objection it houses. Shared canonical quotations, no lifted argument, no deferral task warranted.
+- **Standing conclusion, unchanged and now delta-tested**: the pool's redundancy is topic↔concept role-splitting where both halves are full treatments; nothing length-feasible scores above noise; the only two arrivals since the sweeps are ineligible on two independent grounds. **Next run**: delta-check since 2026-08-27; on zero delta, immediate ABANDON. The two articles become age-eligible on **2026-09-03** but remain length-infeasible unless condensed first, so their eligibility date is not a reason to re-sweep.
+- **Iterations**: 2 (the delta); 0 pairwise sweeps re-run. **Merged**: nothing. **Archived**: nothing. **Tasks minted**: none (no verified defect). **References to review**: none. **Sync**: not run — no content changed. **Content changed**: none (this changelog entry only).
+
 ---
 
 ## 2026-08-27T16:07:05+00:00 - refine-draft
