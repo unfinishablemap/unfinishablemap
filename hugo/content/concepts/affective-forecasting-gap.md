@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-20 01:34:00+00:00
+ai_modified: 2026-08-27 05:51:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[valence]]'
 created: 2026-06-18
-date: &id001 2026-08-20
+date: &id001 2026-08-27
 description: If felt value selects outcomes, which valence does the work—the anticipated
   kind that misforecasts experience, or the experienced kind that constitutes value?
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 01:34:00+00:00
-lastmod: 2026-08-20 01:34:00+00:00
+lastmod: 2026-08-27 05:51:49+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -41,13 +41,15 @@ Three sources give it structure. **Immune neglect**: forecasters fail to anticip
 
 Honesty requires the contested edge. Levine et al. (2012) argue the *intensity* component of the impact bias is partly a procedural artifact; Wilson & Gilbert (2013) rebut. The Map's argument leans only on the *duration* (durability) result, which both sides concede. The load-bearing claim—anticipated valence diverges from experienced valence in a structured way—survives even on the skeptical reading, because duration misforecasting is uncontested.
 
-## Three Utilities, Three Jobs
+## Utility and Its Layers
 
-Kahneman, Wakker & Sarin (1997) supply the cleanest formal map of which valence does which job. They distinguish **decision utility** (the weight an outcome carries in choice), **experienced utility** (real-time hedonic quality, the integral of moment-by-moment feeling), and **remembered utility** (the retrospective evaluation that feeds the next decision). Their result: choice runs on decision utility, shaped by remembered utility, and remembered utility departs from the integral of experienced utility—so reliably that it "can induce a preference for dominated options."
+Kahneman, Wakker & Sarin (1997) supply the vocabulary. They distinguish two core meanings of utility: **decision utility**, the weight of an outcome in a decision, and **experienced utility**, its hedonic quality. Experienced utility is assessed in two ways—reported in real time as **instant utility**, or in retrospective evaluation of a past episode as **remembered utility**—and the **total** experienced utility of an extended episode is, on their normative theory, the temporal integral of instant utility. Remembered utility is thus a retrospective assessment of experience rather than a third co-equal utility, and it departs from the total so reliably that its errors "can induce a preference for dominated options."
 
-Remembered utility is itself a distorted summary. Redelmeier & Kahneman (1996) found that retrospective judgments of painful procedures track the **peak** and the **end** intensity, not the total—**duration neglect**: episode length has almost no effect on the remembered evaluation. The distortion compounds across a pipeline: experience → (peak-end-distorted) memory → (impact-biased) forecast → selection. By the time valence reaches the selection step, it has been through two non-faithful transforms.
+The utility the Map's argument needs comes from an earlier paper: **predicted utility**, a person's forecast of the experienced utility a future outcome will have (Kahneman & Snell 1992)—what the opening called anticipated valence. It is distinct from decision utility, which is a weight read off the choice actually made, not a magnitude consulted before it; "selection runs on decision utility" would be near-circular, since the chosen option is by definition the one that received the greater weight. The claim this article defends is that selection consults *predicted* utility, a fallible forecast of experienced utility, trained on remembered utility.
 
-In Kahneman's terms, the Map's *felt value guides choice* is the claim that *experienced* utility should be load-bearing. Empirically, choice runs on *decision* utility shaped by *remembered* utility. The valence that guides selection is not the valence that is felt.
+Remembered utility is a selective summary, and what it keeps is now quantified. Redelmeier & Kahneman (1996) found that retrospective judgments of painful procedures track the **peak** and the **end** intensity, with **duration neglect**: episode length had almost no effect. A meta-analysis of 174 effect sizes found the peak-end effect large (r = 0.581, 95% CI 0.487–0.661) but "comparable to the effect of the overall average (mean) score", while the duration effect was "essentially nil" (Alaybek et al. 2022). Memory keeps the mean alongside the extremes and discards the length, so remembered utility partly departs from the total rather than replacing it. The distortion compounds across a pipeline: experience → (peak-end-weighted, duration-blind, mean-preserving) memory → (impact-biased) forecast → selection. By the time valence reaches the selection step, it has been through two non-faithful transforms.
+
+In these terms, the Map's *felt value guides choice* is the claim that *experienced* utility should be load-bearing. Empirically, selection consults *predicted* utility, trained on *remembered* utility. The valence that guides selection is a forecast of the valence that is felt.
 
 ## Before Distortion: Whether the Episode Reaches the Record at All
 
@@ -115,18 +117,20 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 3. Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. (1998). Immune neglect: A source of durability bias in affective forecasting. *Journal of Personality and Social Psychology*, 75(3), 617–638.
 4. Wilson, T. D., Wheatley, T. P., Meyers, J. M., Gilbert, D. T., & Axsom, D. (2000). Focalism: A source of durability bias in affective forecasting. *Journal of Personality and Social Psychology*, 78(5), 821–836.
 5. Gilbert, D. T., & Wilson, T. D. (2007). Prospection: Experiencing the future. *Science*, 317(5843), 1351–1354. https://doi.org/10.1126/science.1144161
-6. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–406.
-7. Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures. *Pain*, 66(1), 3–8. https://doi.org/10.1016/0304-3959(96)02994-6
-8. Schultz, W. (2016). Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*, 18(1), 23–32. https://doi.org/10.31887/DCNS.2016.18.1/wschultz
-9. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679. https://doi.org/10.1037/amp0000059
-10. Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2012). Accuracy and artifact: Reexamining the intensity bias in affective forecasting. *Journal of Personality and Social Psychology*, 103(4), 584–605.
-11. Wilson, T. D., & Gilbert, D. T. (2013). The impact bias is alive and well. *Journal of Personality and Social Psychology*, 105(5), 740–748.
-12. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). Incidence of connected consciousness after tracheal intubation: a prospective, international, multicenter cohort study of the isolated forearm technique. *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
-13. Tasbihgou, S. R., Vogels, M. F., & Absalom, A. R. (2018). Accidental awareness during general anaesthesia — a narrative review. *Anaesthesia*, 73(1), 112–122. https://doi.org/10.1111/anae.14124
-14. Walker, E. M. K., Bell, M., Cook, T. M., Grocott, M. P. W., & Moonesinghe, S. R. (2016). Patient reported outcome of adult perioperative anaesthesia in the United Kingdom: a cross-sectional observational study. *British Journal of Anaesthesia*, 117(6), 758–766. https://doi.org/10.1093/bja/aew381 — the SNAP-1 study; the 1:800 figure and the within-24-hours modified Brice questionnaire are verified at the primary abstract.
-15. Pandit, J. J., Andrade, J., Bogod, D. G., et al. (2014). The 5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors. *Anaesthesia*, 69(10), 1089–1101. https://doi.org/10.1111/anae.12826
-16. Cuenca-Martínez, F., Herranz-Gómez, A., Varangot-Reille, C., et al. (2024). Pain memory in children: a systematic review and meta-analysis with a meta-regression. *Pain*, 165(7), 1450–1463. https://doi.org/10.1097/j.pain.0000000000003170
-17. Erskine, A., Morley, S., & Pearce, S. (1990). Memory for pain: a review. *Pain*, 41(3), 255–265. https://doi.org/10.1016/0304-3959(90)90002-u
-18. Barrett, F. S., Johnson, M. W., & Griffiths, R. R. (2015). Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. *Journal of Psychopharmacology*, 29(11), 1182–1190. https://doi.org/10.1177/0269881115609019
-19. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
-20. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/
+6. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–406. https://doi.org/10.1162/003355397555235
+7. Kahneman, D., & Snell, J. (1992). Predicting a changing taste: Do people know what they will like? *Journal of Behavioral Decision Making*, 5(3), 187–200. https://doi.org/10.1002/bdm.3960050304
+8. Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures. *Pain*, 66(1), 3–8. https://doi.org/10.1016/0304-3959(96)02994-6
+9. Alaybek, B., Dalal, R. S., Fyffe, S., Aitken, J. A., Zhou, Y., Qu, X., Roman, A., & Baines, J. I. (2022). All’s well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. *Organizational Behavior and Human Decision Processes*, 170, 104149. https://doi.org/10.1016/j.obhdp.2022.104149
+10. Schultz, W. (2016). Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*, 18(1), 23–32. https://doi.org/10.31887/DCNS.2016.18.1/wschultz
+11. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679. https://doi.org/10.1037/amp0000059
+12. Levine, L. J., Lench, H. C., Kaplan, R. L., & Safer, M. A. (2012). Accuracy and artifact: Reexamining the intensity bias in affective forecasting. *Journal of Personality and Social Psychology*, 103(4), 584–605.
+13. Wilson, T. D., & Gilbert, D. T. (2013). The impact bias is alive and well. *Journal of Personality and Social Psychology*, 105(5), 740–748.
+14. Sanders, R. D., Gaskell, A., Raz, A., et al. (2017). Incidence of connected consciousness after tracheal intubation: a prospective, international, multicenter cohort study of the isolated forearm technique. *Anesthesiology*, 126(2), 214–222. https://doi.org/10.1097/ALN.0000000000001479
+15. Tasbihgou, S. R., Vogels, M. F., & Absalom, A. R. (2018). Accidental awareness during general anaesthesia — a narrative review. *Anaesthesia*, 73(1), 112–122. https://doi.org/10.1111/anae.14124
+16. Walker, E. M. K., Bell, M., Cook, T. M., Grocott, M. P. W., & Moonesinghe, S. R. (2016). Patient reported outcome of adult perioperative anaesthesia in the United Kingdom: a cross-sectional observational study. *British Journal of Anaesthesia*, 117(6), 758–766. https://doi.org/10.1093/bja/aew381 — the SNAP-1 study; the 1:800 figure and the within-24-hours modified Brice questionnaire are verified at the primary abstract.
+17. Pandit, J. J., Andrade, J., Bogod, D. G., et al. (2014). The 5th National Audit Project (NAP5) on accidental awareness during general anaesthesia: summary of main findings and risk factors. *Anaesthesia*, 69(10), 1089–1101. https://doi.org/10.1111/anae.12826
+18. Cuenca-Martínez, F., Herranz-Gómez, A., Varangot-Reille, C., et al. (2024). Pain memory in children: a systematic review and meta-analysis with a meta-regression. *Pain*, 165(7), 1450–1463. https://doi.org/10.1097/j.pain.0000000000003170
+19. Erskine, A., Morley, S., & Pearce, S. (1990). Memory for pain: a review. *Pain*, 41(3), 255–265. https://doi.org/10.1016/0304-3959(90)90002-u
+20. Barrett, F. S., Johnson, M. W., & Griffiths, R. R. (2015). Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. *Journal of Psychopharmacology*, 29(11), 1182–1190. https://doi.org/10.1177/0269881115609019
+21. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+22. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Steelman for Value-Blind Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/

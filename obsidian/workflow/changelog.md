@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-08-27T05:34:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+## 2026-08-27T05:51:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/affective-forecasting-gap]]
+- **Original score**: n/a (`scripts/curate.py review` no longer exists; task-scoped pass driven by the 2026-08-27 outer-review P1)
+- **Changes**: Re-framed "Three Utilities, Three Jobs" → "Utility and Its Layers" per ChatGPT §2.2/§3.3 items 1–4 and the ChatGPT §2.4 / Gemini §3.1 convergence. (1) KWS 1997 now attributed correctly: two core meanings (decision / experienced utility), instant vs remembered as assessment modes of experienced utility, total experienced utility as the temporal integral of instant utility (verified at RePub abstract; the verbatim `can induce a preference for dominated options` kept). (2) Added predicted utility with Kahneman & Snell 1992 (*JBDM* 5(3):187–200, doi 10.1002/bdm.3960050304 — verified at Crossref, abstract "A distinction is made between decision utility, experienced utility, and predicted utility") as new reference; headline restated as "selection consults *predicted* utility, a fallible forecast of experienced utility, trained on remembered utility"; decision utility dropped from the causal role and described as a weight read off the choice (the near-circularity named). (3) Alaybek et al. 2022 (*OBHDP* 170:104149, doi 10.1016/j.obhdp.2022.104149; abstract verified at RePEc) added as new reference: peak-end r = 0.581 (95% CI 0.487–0.661) "comparable to the effect of the overall average (mean) score", duration "essentially nil" — "departs from the integral" now "partly departs from the total rather than replacing it"; pipeline says memory is peak-end-weighted, duration-blind, mean-preserving; duration neglect kept as is; the 2024 corrigendum not cited (content unverified). Added the Crossref DOI to the KWS entry; reference ledger renumbered 20 → 22 (body cites by author-year only, no numeric refs). Length 2976 → 3240 words by `analyze_length` (+264, of which ~70 are the two reference entries; concepts hard ceiling 3500). Sibling tasks on this file (anaesthesia gradient; closure claim; RPE precision; mechanism-debt) NOT touched. Synced to Hugo. Note for the operator: `research/affective-forecasting-gap-and-selection-dynamics-2026-06-18.md` carries the same three-co-equal-utilities framing of KWS (source of the defect); not edited — research notes are out of this task's scope.
+- **Published**: yes
+
 
 ## 2026-08-27 05:34 UTC - coalesce
 
