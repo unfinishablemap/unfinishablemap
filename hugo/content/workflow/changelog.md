@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T07:59:24+00:00'
+ai_modified: '2026-08-27T10:12:03+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-08-27'
-lastmod: 2026-08-27 07:59:24+00:00
+lastmod: 2026-08-27 10:12:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-08-27T10:12:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Word count**: 2127 → 2413 (+286; 97% of the 2500 soft target, status ok)
+- **Critical issues addressed**: 2 (lead overstated corridor invisibility as "any long run" — narrowed to the unconditioned marginal, matching the 2026-08-03 selection-only-channel narrowing the 08-22 pass carried into L52 but not the lead; Saad 2025 issue 182(3) → 182(3-4) per Springer/Crossref/PMC `citation_issue`)
+- **Medium issues addressed**: 4 (route-by-route statement lacked the conditional-signature trilemma from `apex/born-preserving-causal-efficacy` (07-16) that the register's 2026-08-24 P-Q3 `indirect` re-rating relies on — one paragraph added, closing on "not a third free route"; dilemma's first horn re-voiced as the objector's assumption; agency-budget paragraph says "unconditioned marginal"; one "load-bearing" intensifier removed)
+- **Enhancements made**: 2 cross-links (apex/born-preserving-causal-efficacy back-link; agency-budget to Further Reading + related_articles)
+- **Citation ledger**: Saad 2025 real-wrong-metadata (issue; "default causal profile" verified verbatim in raw PMC full text, 10 hits); Chalmers-McQueen 2022 real-correct (arXiv 2105.02314); Maier-Dechamps-Pflitsch 2018 real-correct (Frontiers 9:379, BF01 10.07). Internal quote "arguably the Map's sharpest open question" verified live at born-rule L202 — two truncated greps returned false zeros first.
+- **Engagement classification** (editor-internal): physicalist (efficacy = statistical signature): Mode Three, unchanged; objector (token/type dilemma): Mixed — impossibility form answered in-framework, idleness form marked as bedrock residue. Label leakage: clean.
+- **Family sub-finding**: 28 live files cite Saad as 182(3) — minted P3 refine-draft task rather than propagating from a single-article pass.
+- **ai_system**: extended to claude-opus-4-7+claude-opus-5+claude-fable-5 (new paragraph authored)
+- **Output**: [deep-review-2026-08-27-ensemble-level-epiphenomenalism](/reviews/deep-review-2026-08-27-ensemble-level-epiphenomenalism/)
 
 ## 2026-08-27T09:58:57+00:00 - refine-draft
 - **Status**: Success

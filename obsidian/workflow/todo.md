@@ -64,6 +64,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-08-27
 
+### P3: Saad (2025) *Philosophical Studies* is cited as `182(3), 939-967` in 28 live files — the publisher of record gives the combined issue `182(3-4)`; one live locus already carries the correct form, so the corpus is split
+
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/delegatory-causation.md
+- **Source**: deep-review 2026-08-27 (`concepts/ensemble-level-epiphenomenalism` §2.4 family-resolution sub-finding)
+- **Generated**: 2026-08-27
+- **Notes**: **VERIFIED AT THREE PUBLISHER-SIDE SOURCES, NOT AN AGGREGATOR.** Springer's own page meta (`citation_volume` 182, `citation_issue` 3-4, `citation_firstpage` 939), Crossref (`issue: "3-4"`, `page: "939-967"`) and PMC12062107 all give the combined issue **3-4** for DOI 10.1007/s11098-025-02290-3. PhilPapers alone shows "182(3)", which is where the corpus form came from. Author, title, year, volume, pages, DOI are all correct — **this is an issue-number fix only; touch nothing else in the entry.**
+  **WHERE.** `grep -rl "182(3), 939" obsidian archive --include=*.md | grep -v "obsidian/reviews/\|obsidian/workflow/"` → 28 files (2026-08-27). `concepts/ensemble-level-epiphenomenalism` was corrected in the deep-review pass; `topics/overdetermination-dissolution-under-selection-only-interactionism` already carries `182(3–4)` (en-dash). A `182(**3–4**)` bold artefact appears only in changelog files — leave those alone; changelog/todo are exempt from citation sweeps.
+  **RECIPE.** One sed per file: `182(3), 939-967` → `182(3-4), 939-967` (keep each file's existing hyphen/en-dash style for the page range). Sweep `archive/` too ([[defect-sweeps-must-include-archive-tree]]) — 7 archive files matched the looser pattern. Then `uv run python scripts/sync.py` and grep BOTH trees for the retired string.
+  **BLAST RADIUS — READ BEFORE RUNNING.** Every edited obsidian file needs an `ai_modified` bump from a live `date -u` (strictly past), and each bump re-qualifies a converged article for deep-review. 28 simultaneous bumps will flood the deep-review candidate pool with no-op passes. Prefer either (a) batching the sweep into a single commit with a `Citation metadata only` title so future reviewers can see the bump was cosmetic, or (b) the operator's call to leave the family as-is and record the split here. Do not extend `ai_system` for a metadata-only edit.
+
 ### P3: five spokes of the intellectual-life wing argue Tenet 4 by "under MWI X would be an illusion; X feels real; so one history" — a move the wing's own hub (L217) and concept (L216) explicitly decline, and none of the five loci is in the open fourteen-locus Tenet 4 task
 
 - **Type**: refine-draft

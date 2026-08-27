@@ -4,8 +4,8 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-08-22T17:24:00+00:00
-last_deep_review: 2026-07-15T11:20:00+00:00
+ai_modified: 2026-08-27T10:09:12+00:00
+last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -18,14 +18,16 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[trumping-preemption]]"
   - "[[selection-only-mind-influence]]"
+  - "[[apex/born-preserving-causal-efficacy]]"
+  - "[[agency-budget]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-05-27
 last_curated:
 ---
 
-**Ensemble-level epiphenomenalism** is the worry that the Map's most conservative reading of its quantum-interface tenet — *corridor dualism* — may purchase its empirical safety at the price of the very causal efficacy it was meant to secure. The corridor reading posits that consciousness selects which outcome actualises at a single quantum measurement, but constrains that selection so that, averaged over many events, the outcomes still obey the Born rule |⟨φ|ψ⟩|² exactly. No statistical signature appears in any long run. The objection: if conscious selection leaves *no* trace at the ensemble level, in what sense is it doing causal work rather than merely riding along on a distribution physics already fixed? The companion article [[born-rule-and-the-consciousness-interface]] names this "arguably the Map's sharpest open question," and the positions register logs it as position P-Q3 in [[positions/quantum-interface]] — the strongest live challenge to the default mechanism, held open rather than resolved. This page states the worry cleanly, distinguishes it from classical epiphenomenalism, lays out the two escape routes (the **trumping route** and the **minimum-outside-the-corridor route**, both explained below), and rates each honestly against the Map's [[evidential-status-discipline|evidential-status discipline]].
+**Ensemble-level epiphenomenalism** is the worry that the Map's most conservative reading of its quantum-interface tenet — *corridor dualism* — may purchase its empirical safety at the price of the very causal efficacy it was meant to secure. The corridor reading posits that consciousness selects which outcome actualises at a single quantum measurement, but constrains that selection so that, averaged over many events, the outcomes still obey the Born rule |⟨φ|ψ⟩|² exactly. No statistical signature appears in the unconditioned long run — the constraint binds the marginal over all conscious states, not the distributions conditioned on them, a distinction that turns out to matter below. The objection: if conscious selection leaves *no* trace at the ensemble level, in what sense is it doing causal work rather than merely riding along on a distribution physics already fixed? The companion article [[born-rule-and-the-consciousness-interface]] names this "arguably the Map's sharpest open question," and the positions register logs it as position P-Q3 in [[positions/quantum-interface]] — the strongest live challenge to the default mechanism, held open rather than resolved. This page states the worry cleanly, distinguishes it from classical epiphenomenalism, lays out the two escape routes (the **trumping route** and the **minimum-outside-the-corridor route**, both explained below), and rates each honestly against the Map's [[evidential-status-discipline|evidential-status discipline]].
 
 ## The Worry Stated Precisely
 
@@ -33,7 +35,7 @@ Begin with what corridor dualism claims. At a quantum measurement with possible 
 
 A further precondition, logically prior to the whole token-versus-ensemble debate, is that a brain-scale superposition survives long enough for any selection to act on. The warm-brain decoherence objection is carried — and contested — outside this article; see [[decoherence]] and the [[mind-matter-interface|interface-formalism cluster]]. This page assumes that precondition rather than defending it.
 
-The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, contradicting the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* idleness: an interface that touches the physical world only in ways the physical world's own statistics already account for.
+The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, which the objector takes to contradict the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* idleness: an interface that touches the physical world only in ways the physical world's own statistics already account for.
 
 ## Why This Is Not Classical Epiphenomenalism
 
@@ -61,15 +63,17 @@ This route's advantage is that it makes the channel *real in the physicalist's o
 
 The two routes do not combine into a clean answer; they trade the same liability back and forth. The trumping route keeps the corridor's conservatism and empirical safety but answers the efficacy worry only by redefining efficacy as a structural rather than statistical property — a move available to the dualist but not compelling to the physicalist. The minimum-outside-corridor route secures statistically-real efficacy but forfeits the conservatism and inherits live empirical exposure. There is no route that is both maximally conservative *and* statistically efficacious, because those two properties are precisely what the dilemma sets against each other.
 
-A formal result narrows the worry without closing it. [[agency-budget|The agency budget]] shows, by importing the coupling theorems of perfectly secure steganography, that exact distribution-preservation and reasons-correlated selection are jointly satisfiable — the first horn of the dilemma above rests on an assumed incompatibility that does not hold. What the same theorems establish is that perfect statistical concealment and zero third-person evidence are one condition under two descriptions. So the *impossibility* form of the worry is answered and the *idleness* form is left exactly where it was; the budget gives the objection a sharper statement rather than a refutation.
+Where the corridor itself could show has since been made precise, and it changes the terrain without changing the verdict. [[apex/born-preserving-causal-efficacy|The conditional-signature formalism]] separates the Born marginal, which exact preservation constrains, from the distributions conditioned on conscious states, which it leaves free. Three cases exhaust the field. If some conditional differs at a specifiable grain, the corridor has in-principle signatures after all — conditional residual-structure tests rather than generic Born-frequency tests, of which intention-to-RNG micro-psychokinesis is the coarsest, already run, and null (Maier-Dechamps 2018), leaving only the grains no instruction reproduces. If no conditional ever differs, that is this worry in its exact form. If the conditionals differ but cancel in the marginal, a balancing law is owed — and since a marginal preserved over the *natural* distribution of intentions moves once intentions are re-weighted by intervention, that case collapses into the first or demands a further law restricting which populations of conscious states are physically admissible. This is why the positions register rates the question's empirical discriminability *indirect* rather than none-by-construction ([[positions/quantum-interface|P-Q3]]). It does not supply a third free route: the corridor's conditional exposure is bought either with empirical risk at grains not yet tested or with a second fundamental law the Map has not written.
+
+A formal result narrows the worry without closing it. [[agency-budget|The agency budget]] shows, by importing the coupling theorems of perfectly secure steganography, that exact preservation of the unconditioned marginal and reasons-correlated selection are jointly satisfiable — the first horn of the dilemma above rests on an assumed incompatibility that does not hold. What the same theorems establish is that perfect statistical concealment and zero third-person evidence are one condition under two descriptions. So the *impossibility* form of the worry is answered and the *idleness* form is left exactly where it was; the budget gives the objection a sharper statement rather than a refutation.
 
 This is why the worry is *open* rather than *solved*. The Map's honest position, in the vocabulary of its [[evidential-status-discipline|evidential-status discipline]]: corridor dualism is interface-compatible and tenet-coherent, but its answer to ensemble-level epiphenomenalism is currently a *framework-internal* re-description (trumping) rather than an empirical demonstration, and the only empirically-demonstrable answer (minimum-outside-corridor) is one the Map does not prefer. The asymmetry is worth naming as a genuine cost rather than a wash: epistemic humility about an unfalsifiable preferred answer is a virtue, but it does not supply the empirical content that answer lacks. Owning the asymmetry is the discipline; pretending the trumping re-description settles the matter against a determined physicalist would not be.
 
 ## Relation to Site Perspective
 
-This concept sits at the load-bearing junction of two tenets.
+This concept sits at the junction of two tenets.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The worry *is* the cost of the strictest reading of this tenet. Reading "minimal" as "smallest preserving ensemble statistics" yields the corridor and its invisibility; reading it as "smallest actually sufficient" yields the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The worry *is* the cost of the strictest reading of this tenet. Reading "minimal" as "smallest preserving ensemble statistics" yields the corridor and its marginal-level invisibility; reading it as "smallest actually sufficient" yields the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet asserts that consciousness causally influences the physical world. Ensemble-level epiphenomenalism is the sharpest internal challenge to that assertion under the corridor reading, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] supports the underlying claim that *something* must select at a point of genuine indeterminacy — determinism, randomness, and mental causation exhaust the options — but the trilemma secures only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this worry contests, and what the trumping and outside-corridor routes answer in their different currencies.
 
@@ -84,10 +88,12 @@ The Map does not resolve the worry here. It states it cleanly, names the two esc
 - [[interventionist-and-counterfactual-dualism]] — Why the corridor's own selection is a difference-making channel, in mild tension with layering the trumping route on top
 - [[parapsychology-firewall]] — The complementary edge: the same self-concealment that immunises the Map against spectacular psi is what exposes it to this idleness worry
 - [[epiphenomenalism]] — The classical view this concept is carefully distinguished from
+- [[apex/born-preserving-causal-efficacy]] — The conditional-signature formalism: where the corridor's own selection could leave a trace, and the balancing-law price of a marginal that stays exact
+- [[agency-budget]] — The coupling-theoretic result that answers the impossibility form of the worry and leaves the idleness form standing
 
 ## References
 
-1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 2. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In Gao, S. (ed.), *Consciousness and Quantum Mechanics*. OUP. arXiv:2105.02314.
 3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 4. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/
