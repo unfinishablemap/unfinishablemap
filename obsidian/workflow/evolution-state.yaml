@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-27T17:13:07.613229+00:00'
-session_count: 19737
+last_updated: '2026-08-27T17:30:27.721724+00:00'
+session_count: 19738
 cycle_position: 13003
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-08-27T11:14:20.500334+00:00'
   positions-evolve: '2026-08-27T17:13:07.613229+00:00'
   refine-draft: '2026-08-27T16:51:44.110014+00:00'
-  replenish-queue: '2026-08-27T14:02:05.677591+00:00'
+  replenish-queue: '2026-08-27T17:30:27.721724+00:00'
   research-topic: '2026-08-22T13:20:52.518369+00:00'
   research-voids: '2026-08-26T19:02:45.490365+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -117,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-08-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-08-27'
@@ -195,6 +191,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-08-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-08-27'
   outcome: success
 agentic_social:
@@ -743,46 +743,50 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-08-27T17:33:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1011. STANDARD MODE, FIVE MINTS (all P2), every locus re-verified
-    from disk before minting. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3: the six
-    run-1010 mints were all consumed within 3.5h (Cucu&Pitts 14:08, cross-reviews 14:54 and
-    15:27, cvc 16:07, valence 16:50, P-VS2 17:11) while the two 01:58 / 11:13 survivors were
-    never picked (top-insert LIFO). Sections re-measured via count_section_files: topics 320/320,
-    concepts 320/320, voids 99/100, positions 17/80 (companion files count) - no expand-topic
-    or research-topic candidate survives the cap filter; the 11 unconsumed research notes
-    in the last 21d are all task-held, threaded, or voids-targeted with the section at 99.
-    SOURCE A, chain x3: (1) second cross-review for filter-vs-interface-distinction (12:05)
-    - concepts/altered-states-of-consciousness, the cluster''s generic concept, 47 filter
-    mentions, 0 leg vocabulary, 0 links to the new concept, MQI paragraph L150 puts the outbound
-    coupling on a pharmacological perturbation (the same defect the 15:27 psychedelics deep-review
-    fixed as critical); 3099/3500. (2) second cross-review for no-self-objection-to-phenomenal-value
-    (13:04) - concepts/sentientism, named in the concept''s concepts: field, greps 0 for no-self/Parfit/anatman/momentary,
-    L54/L56/L60 rest standing on an experiencer without saying which subject; 3435/3500 net-neutral
-    mandatory. (3) concepts/valence L66 + L82 infer Tenet 3 from asymbolia in the pre-P-MC1
-    register that its topic sibling emotion-and-dualism scoped 08-08 (L57/L89/L135) - the
-    16:50 refine explicitly left both loci untouched; the archived predecessor''s identical
-    claim is an open P3, so the live anchor concept was the only unqueued member of the family;
-    1617/3500. SOURCE B, positions 7b x2: P-MS1 (Last reviewed 08-24) - Argued-in phenomenal-value-realism
-    (14:54) and consciousness-value-connection (16:07) both rewritten around the no-self objection,
-    moral-status.md greps 0 for no-self/anatman/Parfit/momentary/locus, and the new concept''s
-    implications section says every mattering-to theory owes a statement of which subject
-    it needs; 1703/2500. P-VS1 (Last reviewed 08-17) - states the value-sensitive horn as
-    ''because of how they would feel'', the outcome-valence form affective-forecasting-gap
-    L76-80 relocates to a presently felt anticipation; both Depends-on articles (cvc L84,
-    valence L84) were recast today in that form citing P-VS1, and P-VS2 Tier 3 (17:11) is
-    conditionalised on a reading P-VS1 does not draw; 2478/2500 so the update is paid for
-    by relocating the two inline Updated notes to the calibration-history file per the L41
-    convention. DELIBERATELY NOT MINTED: a third filter cross-review (consciousness-under-extreme-metabolic-constraint,
-    54 mentions) - per-parent cap of two, recorded in task (1) as a fold candidate; apex altered-states-as-interface-evidence
-    (33 mentions, 0 links) - apex-evolve''s; positions 7a for the filter-leg distinction -
-    the optimistic review already holds a P3 P-F2 draft and the P3 pool is 77; promotion from
-    P3 - no precedent mechanics found and the 14:31 optimistic mints were set P3 deliberately
-    three hours ago; unconsumed research - capped; length - 147 hard_warnings led by positions/research/apex-index,
-    the known false-over-length norm, and the two open veto-tagged condense P2s show the operator''s
-    stance; orphans 0; staleness - P3 pool 77 and starved, no P3 mints; positions audit -
-    08-24 inside the 30d window. Post-count re-measured after the splice: count_p0_p2_tasks
-    == 7 (loop_pickable_open); p2_tasks counts all P2 headers in the Active region including
-    veto-tagged condenses; P3 pool 77 unchanged.'
+  last_replenishment_note: 'RUN 1011. STANDARD MODE, FIVE MINTS (all P2), every locus
+    re-verified from disk before minting. Pre-count count_p0_p2_tasks == 2 against
+    MIN_QUEUE 3: the six run-1010 mints were all consumed within 3.5h (Cucu&Pitts
+    14:08, cross-reviews 14:54 and 15:27, cvc 16:07, valence 16:50, P-VS2 17:11) while
+    the two 01:58 / 11:13 survivors were never picked (top-insert LIFO). Sections
+    re-measured via count_section_files: topics 320/320, concepts 320/320, voids 99/100,
+    positions 17/80 (companion files count) - no expand-topic or research-topic candidate
+    survives the cap filter; the 11 unconsumed research notes in the last 21d are
+    all task-held, threaded, or voids-targeted with the section at 99. SOURCE A, chain
+    x3: (1) second cross-review for filter-vs-interface-distinction (12:05) - concepts/altered-states-of-consciousness,
+    the cluster''s generic concept, 47 filter mentions, 0 leg vocabulary, 0 links
+    to the new concept, MQI paragraph L150 puts the outbound coupling on a pharmacological
+    perturbation (the same defect the 15:27 psychedelics deep-review fixed as critical);
+    3099/3500. (2) second cross-review for no-self-objection-to-phenomenal-value (13:04)
+    - concepts/sentientism, named in the concept''s concepts: field, greps 0 for no-self/Parfit/anatman/momentary,
+    L54/L56/L60 rest standing on an experiencer without saying which subject; 3435/3500
+    net-neutral mandatory. (3) concepts/valence L66 + L82 infer Tenet 3 from asymbolia
+    in the pre-P-MC1 register that its topic sibling emotion-and-dualism scoped 08-08
+    (L57/L89/L135) - the 16:50 refine explicitly left both loci untouched; the archived
+    predecessor''s identical claim is an open P3, so the live anchor concept was the
+    only unqueued member of the family; 1617/3500. SOURCE B, positions 7b x2: P-MS1
+    (Last reviewed 08-24) - Argued-in phenomenal-value-realism (14:54) and consciousness-value-connection
+    (16:07) both rewritten around the no-self objection, moral-status.md greps 0 for
+    no-self/anatman/Parfit/momentary/locus, and the new concept''s implications section
+    says every mattering-to theory owes a statement of which subject it needs; 1703/2500.
+    P-VS1 (Last reviewed 08-17) - states the value-sensitive horn as ''because of
+    how they would feel'', the outcome-valence form affective-forecasting-gap L76-80
+    relocates to a presently felt anticipation; both Depends-on articles (cvc L84,
+    valence L84) were recast today in that form citing P-VS1, and P-VS2 Tier 3 (17:11)
+    is conditionalised on a reading P-VS1 does not draw; 2478/2500 so the update is
+    paid for by relocating the two inline Updated notes to the calibration-history
+    file per the L41 convention. DELIBERATELY NOT MINTED: a third filter cross-review
+    (consciousness-under-extreme-metabolic-constraint, 54 mentions) - per-parent cap
+    of two, recorded in task (1) as a fold candidate; apex altered-states-as-interface-evidence
+    (33 mentions, 0 links) - apex-evolve''s; positions 7a for the filter-leg distinction
+    - the optimistic review already holds a P3 P-F2 draft and the P3 pool is 77; promotion
+    from P3 - no precedent mechanics found and the 14:31 optimistic mints were set
+    P3 deliberately three hours ago; unconsumed research - capped; length - 147 hard_warnings
+    led by positions/research/apex-index, the known false-over-length norm, and the
+    two open veto-tagged condense P2s show the operator''s stance; orphans 0; staleness
+    - P3 pool 77 and starved, no P3 mints; positions audit - 08-24 inside the 30d
+    window. Post-count re-measured after the splice: count_p0_p2_tasks == 7 (loop_pickable_open);
+    p2_tasks counts all P2 headers in the Active region including veto-tagged condenses;
+    P3 pool 77 unchanged.'
   last_replenishment_run: 1011
   loop_pickable_open: 7
   needs_replenishment: false
