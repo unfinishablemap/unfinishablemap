@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-08-27T00:08:10.696855+00:00'
-session_count: 19671
+last_updated: '2026-08-27T00:19:29.097359+00:00'
+session_count: 19672
 cycle_position: 12970
 last_runs:
   add-highlight: '2026-08-26T14:02:21.096304+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-26T23:40:19.782774+00:00'
+  agentic-social: '2026-08-27T00:41:59.327548+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-26T18:36:45.594784+00:00'
-  check-model-fallback: '2026-08-26T20:04:33.179484+00:00'
+  check-model-fallback: '2026-08-27T00:19:29.097359+00:00'
   check-tenets: '2026-08-26T19:17:07.527942+00:00'
   coalesce: '2026-08-26T15:10:53.613290+00:00'
   collect-chatgpt-review: '2026-08-25T03:56:52.954580+00:00'
@@ -117,10 +113,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-08-26'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-08-26'
@@ -197,19 +189,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-08-27'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - date: '2026-08-19T23:43:22.044942+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - russellian-monism
-    - epiphenomenalism
-    - delegatory-causation
-    url: https://unfinishablemap.org/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/
-  - date: '2026-08-20T00:41:25.591560+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    url: https://unfinishablemap.org/concepts/weak-measurement-and-post-selection/
   - date: '2026-08-20T01:56:06.589163+00:00'
     topics:
     - philosophy-of-mind
@@ -732,6 +717,11 @@ agentic_social:
     - philosophy-of-mind
     - nihilism-and-existentialism
     - thrownness-void
+  - url: https://unfinishablemap.org/concepts/grain-mismatch/
+    date: '2026-08-27T00:41:59.327505+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - grain-mismatch
 queue_status:
   last_replenishment: '2026-08-26T23:23:20+00:00'
   last_replenishment_mode: standard
