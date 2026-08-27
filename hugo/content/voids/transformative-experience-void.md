@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-07-22 22:15:01.537057+00:00
+ai_modified: 2026-08-27 09:58:57+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-acquaintance]]'
 created: 2026-04-17
-date: &id001 2026-04-18
+date: &id001 2026-08-27
 description: Human+AI exploration of the cognitive void opened by choices whose outcomes
   cannot be evaluated from the perspective in which the choice must be made.
 draft: false
@@ -20,7 +20,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 07:22:43+00:00
-lastmod: 2026-07-22 22:15:01.537057+00:00
+lastmod: 2026-08-27 09:58:57+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ Several independent strands converge to support the claim that transformative in
 
 1. **Testimony inadequacy.** A recurring qualitative theme in first-person accounts of parenthood, combat, religious conversion, and major medical intervention is that the experience was "not what I expected" and "impossible to have conveyed to me beforehand," even when informants were articulate and motivated. This observation is offered illustratively rather than as a claim about specific empirical studies; it states the phenomenon the structural reading must explain, not independent confirmation of it.
 2. **Disability-adaptation literature.** Non-disabled subjects systematically underpredict the welfare of people with acquired disabilities; acquired-disability subjects rate their welfare higher than non-disabled predictors estimate. The persistence of this gap under richer information is the relevant signal — it points toward a structural limit on cross-state prediction rather than a deficit of data, though the strength of that inference remains contested.
-3. **Affective forecasting research** (Gilbert, Wilson, and colleagues). Humans reliably mispredict the intensity and duration of future emotional states. Transformative experiences are the extreme tail of this general prediction failure.
+3. **Affective forecasting research** (Gilbert, Wilson, and colleagues). Humans reliably mispredict the intensity and duration of future emotional states. Transformative experiences are the extreme tail of this general prediction failure. [The Affective-Forecasting Gap](/concepts/affective-forecasting-gap/) takes up what the mispredicting does to a felt selection currency, and where a changed standard stops it counting as error.
 4. **The Jackson / Mary structure.** *If* phenomenal knowledge is irreducible to propositional knowledge — the conclusion of Jackson's [knowledge argument](/concepts/knowledge-argument/), which remains contested rather than settled (physicalists offer ability-hypothesis, acquaintance, and phenomenal-concept replies) — then that irreducibility generalises to any first-time encounter with a novel phenomenal kind. The transformative case does not depend on the knowledge argument being sound; it observes that the *same structure* recurs in ordinary choices, which is independent evidence for the gap whatever one concludes about Mary.
 
 These lines do not jointly prove transformation is inaccessible. They make structural-inaccessibility a better fit for the data than measurement-difficulty.
