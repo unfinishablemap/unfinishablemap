@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T12:28:00+00:00'
+ai_modified: '2026-08-27T14:31:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T14:31:44+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the sensory-modality wing — `topics/auditory-`, `chemosensory-`, `interoceptive-`, `thermal-`, `vestibular-consciousness-and-the-interface`, `topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question`, hub `concepts/somatic-interface` (7 files, all read in full; `dualist-perception` §Beyond the Visual and the apex `cross-modal-capability-division` read as synthesis partners). Lowest prior optimistic coverage in the corpus for thermal (1) and vestibular (2); never reviewed as a unit.
+- **Output**: [[reviews/optimistic-2026-08-27-sensory-modality-wing]]
+- **Headline**: the best-calibrated wing in the corpus (nine naturalists cited, none conscripted; the survey revises its own thesis via interoception/vestibular/thermal) — but the hub `somatic-interface` runs above all six spokes at three loci (placebo "challenging causal closure" L103/L115; vestibular "exceeds a signal-error model" L85, flagged 06-21 and unfixed; Iowa Gambling Task L91 stated without Maia & McClelland 2004), and the wing's structural finding has zero `positions/` mentions.
+- **Tasks generated**: 4 × P3 — refine-draft `concepts/somatic-interface`, refine-draft `topics/chemosensory-consciousness-and-the-interface` (Cabanac's olfactory/gustatory alliesthesia), refine-draft `topics/dualist-perception` (front-door paragraph omits the two thesis-changing spokes + apex), positions-evolve `positions/finding-level-calibration` (P-F2 draft). No expand-topic: topics 320/320 and concepts 320/320 re-measured AT CAP this run; sensory-substitution and alliesthesia recorded as fold candidates.
+- **Content modified**: none (reports-only; todo.md + changelog.md only)
 
 ## 2026-08-27T14:08:18+00:00 - refine-draft
 - **Status**: Success
