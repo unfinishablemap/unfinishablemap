@@ -4,7 +4,7 @@ description: "Three mechanisms by which phenomenal content vanishes from conscio
 created: 2026-02-03
 modified: 2026-04-09
 human_modified: null
-ai_modified: 2026-08-27T01:22:31+00:00
+ai_modified: 2026-08-27T09:20:03+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[erasure-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-04-09
 last_curated: null
 last_deep_review: 2026-06-26T13:35:25+00:00

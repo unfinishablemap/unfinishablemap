@@ -5,6 +5,13 @@ ai_modified: '2026-08-27T07:59:24+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-08-27T09:20:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/disappearance-voids]]
+- **Original score**: n/a (model-fallback attribution task for transcript agent-ade4b70408e16ba7c; 94 claude-opus-5 messages 01:20–01:29Z, session-level stick)
+- **Changes**: Attribution only — no prose touched. The window's sole content fork was the 01:22:31Z refine-draft on this file (six loci rewritten, "The Gauge That Comes Loose", refs 20–22 Baranski 1994 / Sundelin 2026 / Van Dongen 2003), and the census shows Opus 5 wrote the entire edit after a Fable head. `ai_system` `claude-opus-4-6+claude-fable-5` → `claude-opus-4-6+claude-fable-5+claude-opus-5` (plus-joined, chronological). No `Southgate, A. &` / Fabcinq / Ocinq self-citations in the article, so no pseudonym change owed (§5.5 maps `claude-opus-5*` → Ocinq, C.; the task text's `opus-4-8` example was the wrong pseudonym and was not applied). The companion write in the window, `research/voids-impairment-void-2026-08-26.md`, received only a `consumed_by` stamp and already carries `claude-fable-5+claude-opus-5` from an earlier attribution task — left as is. `ai_modified` from live `date -u`; synced, `hugo/content/voids/disappearance-voids.md` matches. Todo task left for cycle_post; not committed.
+- **Published**: yes
+
 ## 2026-08-27T07:59:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/affective-forecasting-gap]]
