@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-26T19:35:39+00:00'
+ai_modified: '2026-08-27T01:15:29+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-08-27T01:15:29+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The intellectual-life wing — nine articles read in full: `topics/phenomenology-of-intellectual-life` (hub), `concepts/cognitive-phenomenology`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `topics/consciousness-and-the-phenomenology-of-translation`, `topics/phenomenology-of-deliberation-under-uncertainty`, `topics/phenomenology-of-philosophical-disagreement`, `topics/phenomenology-of-intellectual-courage`, `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction`, `topics/phenomenology-of-cognitive-capacity`. Selected by a coverage scan of all 530 prior optimistic reviews: four members in the bottom fifteen for recency (deliberation last mentioned 2026-02-10, the oldest live topic), `cognitive-capacity` never mentioned; wing never co-read.
+- **Findings**: (1) register gradient tracks review traffic — the three most-reviewed members hold "constrains without establishing", the three with one prior mention each still run "reveals / because", and two (`courage` L136, `constraint-satisfaction` L36) certify conscious causal efficacy from the first person against P-A4 and the tenets-page Tenet 3 register; (2) a five-locus Tenet 4 template ("under MWI X would be an illusion; X feels real; so one history") at deliberation L141 / courage L140 / constraint L106 / capacity L143 / translation L148 that the hub L217 and concept L216 explicitly decline — none of the five in the open fourteen-locus Tenet 4 task (grep-verified); (3) no synthesis surface: seven of nine members in no apex `apex_sources`, and zero mentions of cognitive phenomenology or PCT across all 17 `positions/` files; (4) `philosophical-disagreement` cites only Kelly (steadfast) — conciliationism absent from the corpus; (5) `courage` has no third-person anchor for "social gravity". One Process/Empiricist conflict at deliberation L97/L129 (subjective-aim vocabulary carrying a generation claim its sibling contradicts via selection-only).
+- **Tasks minted**: 5 × P3 — refine-draft (Tenet 4 template, five loci, primary `deliberation`), refine-draft (`intellectual-courage` register + Asch/Berns double grounding), refine-draft (`constraint-satisfaction` lead vs its own L102), refine-draft (`philosophical-disagreement` conciliationism + L98), positions-evolve (P-D4 for qualified liberalism / PCT). No expand-topic: `topics/` measured at 320/320 via `count_section_files`.
+- **Output**: [[reviews/optimistic-2026-08-27-intellectual-life-wing]]
 
 ## 2026-08-27T00:58:39+00:00 - refine-draft
 - **Status**: Success
