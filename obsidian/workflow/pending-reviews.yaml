@@ -181,3 +181,32 @@
   subject_articles:
   - voids/edge-states-and-void-probes.md
   subject_source: reuse:pending-reviews:outer-review-2026-08-25-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a8f9c1c-1dc8-83ed-825c-63500027fbb0
+  commissioned_at: '2026-08-27T02:08:47.705075+00:00'
+  prompt_summary: Audit concepts/affective-forecasting-gap (modified 2026-08-20)
+  target_filename: outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a philosophical site defending interactionist dualism with minimal quantum interaction:
+    ''The Affective-Forecasting Gap and the Selection Currency'' at https://unfinishablemap.org/concepts/affective-forecasting-gap/.
+    It was substantively revised on 2026-08-20; consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for what changed, since search indexes may lag. The article asks which valence
+    does the selecting work if felt value selects outcomes: anticipated (decision)
+    utility, which misforecasts experience, or experienced utility, which constitutes
+    value. Examine whether its citations on affective forecasting, decision/experienced/remembered
+    utility, and the mechanistic correlate it names are accurate and current; whether
+    the ''three utilities'' disambiguation survives the strongest counterarguments;
+    whether its treatment of episodes that never reach the record is well-evidenced;
+    where tenet-protective bracketing shields claims from disconfirmation; and how
+    well it integrates with the neighbouring Map articles it links to. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit affective-forecasting-gap
+  subject_articles:
+  - concepts/affective-forecasting-gap.md
+  subject_source: fallback:recent-aged
