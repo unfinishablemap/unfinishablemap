@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-08-27 09:58:57+00:00
+ai_modified: 2026-08-27 10:23:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 01:34:00+00:00
-lastmod: 2026-08-27 09:58:57+00:00
+lastmod: 2026-08-27 10:23:22+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -71,7 +71,7 @@ What would count against the claim: confidence that an unreported episode occurr
 
 Decision neuroscience supplies a quantity that plausibly biases action selection—a *prediction* signal. Many midbrain dopamine neurons code a **reward-prediction error** (Schultz 2016)—"many", not "most", since that account "in its original form, [is] probably too simple" for phasic dopamine (Gershman et al. 2024). The error is a teaching signal; a predictor-driven chooser consults the learned value it updates, so what a felt forecast would supplement or rival is that value, not the update. Whether the error reaches feeling is contested: momentary happiness, first modelled on reward-prediction errors, proved "not sensitive to learning-irrelevant variables (i.e. reward prediction error)" (Blain & Rutledge 2020).
 
-Berridge & Robinson's (2016) wanting/liking dissociation makes a neighbouring cut: "wanting" (incentive salience) is the anticipatory pull that guides choice, "liking" (hedonic impact) the experienced good. Two caveats: wanting is not a forecast of liking—"desire can decouple completely from memories and from learned predictions of outcome value" (Berridge 2023)—and "liking" is an objective hedonic reaction that Berridge's own taxonomy separates from conscious pleasure ([wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)). The mapping is interpretive—these are literatures of behavioural selection with operational constructs—supplying the structure, predictive ≠ experienced, not a mechanism.
+Berridge & Robinson's (2016) wanting/liking dissociation makes a neighbouring cut: "wanting" (incentive salience) is the anticipatory pull that guides choice, "liking" (hedonic impact) the experienced good. Two caveats: wanting is not a forecast of liking—"desire can decouple completely from memories and from learned predictions of outcome value" (Berridge 2023)—and "liking" is an objective hedonic reaction that Berridge's own taxonomy separates from conscious pleasure ([shared terminology map](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology)). The mapping is interpretive—these are literatures of behavioural selection with operational constructs—supplying the structure, predictive ≠ experienced, not a mechanism.
 
 So flagged, the gap is an exhibit for the value-blind rival, which predicts the divergence—choice controlled by a learned value, feeling idle—where a value-sensitive selector consulting a miscalibrated forecast merely accommodates it. The rival also comes as a framework: error-dynamics accounts define valence as the negative rate of change of free energy (Joffily & Coricelli 2013), so anticipation and outcome sit at different points of one predictive hierarchy and their divergence is *expected*. [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) treats this as the leading empirical rival to felt value being basic; [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) shows the same mathematics read realistically by Solms, Friston and Hesp, so the formalism underdetermines the horn ([predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)). The Map lets it *constrain* the currency—any felt selector must reproduce that profile—without granting that it *establishes* the reproduction unfelt; calling the gap a calibration problem does not cancel its likelihood-bearing force.
 

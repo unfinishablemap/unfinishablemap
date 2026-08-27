@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-07-07 13:21:32+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-08-27 10:23:22+00:00
+ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
 - '[[consciousness-value-connection]]'
@@ -11,21 +11,22 @@ concepts:
 - '[[qualia]]'
 - '[[dualism]]'
 created: 2026-06-05
-date: &id001 2026-06-05
+date: &id001 2026-08-27
 description: Berridge's wanting/liking dissociation refutes a single value-currency
   in the brain—but does it locate affective value in the mechanism or in the experience?
   An honest fork, calibrated.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 19:27:25+00:00
-lastmod: 2026-07-07 13:21:32+00:00
+last_deep_review: 2026-08-27 10:23:22+00:00
+lastmod: 2026-08-27 10:23:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[dopamine-and-the-unified-interface]]'
 - '[[moral-architecture-of-consciousness]]'
 - '[[evidential-status-discipline]]'
+- '[[affective-forecasting-gap]]'
 title: Wanting, Liking, and the Value-in-Mechanism Fork
 topics:
 - '[[pain-consciousness-and-causal-power]]'
@@ -35,7 +36,7 @@ topics:
 
 Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is a well-supported affective-neuroscience distinction.
 
-The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it rules out any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading appears to explain every Berridge finding without remainder. The data sharpen the question; they do not seem to answer it.
+The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it rules out any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading appears to explain every Berridge finding without remainder. The data sharpen the question; they do not seem to answer it. A shared terminology map (explained below) fixes how Berridge's constructs relate to the utility and reinforcement-learning vocabulary of [affective-forecasting-gap](/concepts/affective-forecasting-gap/), so that "wanting", prediction and conscious pleasure keep one meaning whichever page a reader opens first.
 
 ## The Empirical Dissociation
 
@@ -43,7 +44,7 @@ The core finding is a clean double role for reward. Berridge and Robinson (1998)
 
 The anatomy backs the split. Peciña and Berridge (2005) showed that microinjecting a μ-opioid agonist into a roughly one-cubic-millimetre "hedonic hotspot" in the rostrodorsal medial shell of the nucleus accumbens **doubled** the positive orofacial "liking" reactions to sweetness, while opioid-driven *eating* ("wanting"/consumption) spread across the entire medial shell. The substrate that amplifies pleasure is anatomically distinct from the substrate that amplifies pursuit.
 
-The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons appear to recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked."
+The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons appear to recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked." Berridge (2023) generalises the point to prediction itself: "in some situations desire can decouple completely from memories and from learned predictions of outcome value"—rats can be made to "want" what is "predicted to hurt". "Wanting" is therefore not a forecast of "liking", a distinction the terminology map below relies on.
 
 Two further results frame the landscape. Berridge and Robinson (2016) ground the incentive-sensitization theory of addiction on exactly this gap: addictive "wanting" can grow over time while "liking" stays flat or falls—craving without rising pleasure. And Berridge and Kringelbach (2015) draw the distinction this article turns on: they separate the *objective core "liking" reaction* (a measurable neural-behavioural signature) from *subjective conscious pleasure*, treating felt pleasure as a further layer beyond the mechanistic signature.
 
@@ -65,9 +66,29 @@ What it does **not** settle (interpretive): whether value resides in experience 
 
 A trap worth marking explicitly: Berridge is a physicalist affective neuroscientist whose constructs are operational. He is not a dualist and his work is not evidence for dualism. Citing him correctly means crediting him with the *empirical dissociation* and the *objective-versus-conscious distinction*, then doing the interpretive work transparently as the Map's own. The case is open but unsettled.
 
-There is also a live mechanistic rival to keep in view: the reward-prediction-error account associated with Wolfram Schultz reads phasic dopamine as a teaching signal rather than incentive salience. The two mechanistic stories are debated within neuroscience; the value-in-mechanism fork sits *above* that dispute, since both are mechanism-level accounts that the value-in-experience reading would treat as describing correlates rather than the locus of value.
+There is also a live mechanistic rival to keep in view: the reward-prediction-error account (Schultz 2016) reads phasic dopamine as coding the error δ between received and predicted reward—a teaching signal that updates a learned value—rather than incentive salience. The two mechanistic stories are debated within neuroscience, and Berridge (2023) sharpens the divergence by showing that "wanting" can float free of the learned value δ maintains; the value-in-mechanism fork sits *above* that dispute, since both are mechanism-level accounts that the value-in-experience reading would treat as describing correlates rather than the locus of value.
 
 A second pressure comes from the opposite direction. The value-in-experience reading leans on there being a *subject* for whom hedonic value exists, and a no-self critic will ask what that subject amounts to if it is not simply more mechanism. The Map does not need to settle that here: its claim is the comparatively modest one that *whatever* the experiencing locus turns out to be, an unfelt "liking" reaction has no one it is good for, and so carries no value in the sense the fork is about. If a fully impersonal process could nonetheless instantiate genuine value, the value-in-experience reading would lose its motivation—so this is a real cost to track, not a settled point.
+
+## Shared Terminology Map {#shared-terminology}
+
+This article and [affective-forecasting-gap](/concepts/affective-forecasting-gap/) draw on three vocabularies—Berridge's affective neuroscience, Kahneman's utility taxonomy and reinforcement learning—that a reader can easily run together. The map below is canonical for both pages: each term keeps this meaning wherever the valence cluster uses it.
+
+| Term | Source | What it names | Felt as such? | Place in the two questions |
+|---|---|---|---|---|
+| Predicted utility | Kahneman & Snell 1992 | A judgement of the experienced utility an outcome will have; the *object* of what [affective-forecasting-gap](/concepts/affective-forecasting-gap/) calls anticipated valence | Only insofar as present anticipatory affect (below) carries it | The fallible forecast a selector might consult |
+| Decision utility | Kahneman, Wakker & Sarin 1997 | The weight an outcome carries in choice, read off the choice made | No—inferred from behaviour | Not a currency selection can consult; "selection runs on decision utility" is near-circular |
+| Experienced utility | Kahneman, Wakker & Sarin 1997 | The hedonic quality of an outcome as lived (*instant*) or as later assessed (*remembered*) | Yes | On the Map's reading, what constitutes value; the forecast's target |
+| Learned value (V/Q) | Reinforcement learning; see [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/) | A cached estimate of expected reward, updated by δ, that a predictor-driven chooser consults | No | The value-blind rival's chooser input |
+| Reward-prediction error (δ) | Schultz 2016 | The difference between received and predicted reward, coded by many midbrain dopamine neurons; the teaching signal that updates learned value | Contested—see [affective-forecasting-gap](/concepts/affective-forecasting-gap/) | An update, not what a chooser consults |
+| Incentive salience ("wanting") | Berridge & Robinson 1998; Berridge 2023 | Dopamine-mediated motivational pull attributed to cues; can decouple completely from learned predictions of outcome value and from "liking" | Bracketed by Berridge—may occur without conscious desire | Neither a forecast nor a pleasure; sets up the field of weighted options |
+| Objective "liking" | Peciña & Berridge 2005; Berridge & Kringelbach 2015 | The measurable hedonic reaction (orofacial signature; opioid hotspots), present in decerebrate rats | Bracketed by Berridge—occurs without a forebrain | The mechanism-only horn: value is here |
+| Conscious pleasure | Berridge & Kringelbach 2015, as a layer beyond "liking" | The felt hedonic quality of the outcome—experienced utility's phenomenal side | Yes, by definition | The value-in-experience horn: value is here |
+| Present anticipatory affect | [affective-forecasting-gap](/concepts/affective-forecasting-gap/) | The dread or relish felt *now* while simulating an outcome—anticipated in its object, experienced in its vehicle; an instant utility of its own | Yes | The forecasting article's candidate selection currency; the felt vehicle of predicted utility |
+
+Three identifications the map blocks. "Wanting" is not predicted utility: incentive salience can rise for an outcome remembered as disgusting or predicted to hurt, so it is not a forecast of "liking". The error δ is not learned value: the teaching signal updates the quantity a chooser consults, and a felt forecast would supplement or rival the learned value, not the update. And objective "liking" is not conscious pleasure: the orofacial reaction is a mechanistic signature that Berridge's own taxonomy separates from felt enjoyment, so establishing "liking" establishes nothing about phenomenal value on its own.
+
+The map also keeps two questions apart. This article's fork asks in which *row* value resides—objective "liking" or conscious pleasure. The forecasting article asks which row selection *consults*—learned value, "wanting", or predicted utility carried by present anticipatory affect. The questions are independent: value could reside in conscious pleasure while selection ran entirely on learned value, and selection could consult present affect while that affect remained a correlate rather than the locus of value. The falsification conditions below test the second question at the point where the rows collide—when "wanting" and "liking" pull apart.
 
 ## Relation to Site Perspective
 
@@ -92,7 +113,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — How far down the tree of life value-sensitive selection reaches
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The external scientific case for mechanism-only value, steelmanned and declined
-- [affective-forecasting-gap](/concepts/affective-forecasting-gap/) — The predictive/forecasting form of the same predicted≠experienced-value structure: anticipated valence diverges from experienced valence just as "wanting" comes apart from "liking"
+- [affective-forecasting-gap](/concepts/affective-forecasting-gap/) — The forecasting form of the predicted≠experienced-value structure: anticipated valence diverges from experienced valence. A different cut from wanting/liking—"wanting" is not a forecast of "liking" (Berridge 2023)—reconciled in the shared terminology map above
 - [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — The sign-weighting form of the same value-in-mechanism question: does the negative bias live in felt value or in the mechanism that reads it?
 - [graduated-middle-path-valence-modulated-attention](/topics/graduated-middle-path-valence-modulated-attention/) — The selection-side counterpart: if value acts on selection only through attention, the wanting/liking conflict test and the attention-clamp test are the same discriminating battery viewed from two angles
 - [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/) — The same fork run through the artificial case: is an RL reward/TD-error scalar valence, or only its functional shadow?
@@ -104,5 +125,10 @@ The Map holds the value-in-experience reading because of its prior commitments i
 3. Tindell, A. J., Smith, K. S., Berridge, K. C., & Aldridge, J. W. (2009). Dynamic computation of incentive salience: 'wanting' what was never 'liked'. *Journal of Neuroscience*, 29(39), 12220–12228. https://doi.org/10.1523/JNEUROSCI.2499-09.2009
 4. Berridge, K. C., & Kringelbach, M. L. (2015). Pleasure systems in the brain. *Neuron*, 86(3), 646–664. https://doi.org/10.1016/j.neuron.2015.02.018
 5. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679. https://doi.org/10.1037/amp0000059
-6. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/
-7. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+6. Berridge, K. C. (2023). Separating desire from prediction of outcome value. *Trends in Cognitive Sciences*, 27(10), 932–946. https://doi.org/10.1016/j.tics.2023.07.007
+7. Kahneman, D., & Snell, J. (1992). Predicting a changing taste: Do people know what they will like? *Journal of Behavioral Decision Making*, 5(3), 187–200. https://doi.org/10.1002/bdm.3960050304
+8. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–406. https://doi.org/10.1162/003355397555235
+9. Schultz, W. (2016). Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*, 18(1), 23–32. https://doi.org/10.31887/DCNS.2016.18.1/wschultz
+10. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Consciousness-Value Connection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-value-connection/
+11. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
+12. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/

@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review `topics/wanting-liking-and-the-value-in-mechanism-fork` against the revised affective-forecasting-gap — the two pages give a reader incompatible mappings of wanting, prediction and conscious pleasure; add a shared terminology map
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
-- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 26). The wanting-liking article correctly separates wanting from both pleasure and reward-prediction learning and notes objective "liking" ≠ conscious pleasure; the focal article collapses these into a forecast/experience parallel. Once the P1/P2 tasks on `concepts/affective-forecasting-gap` land (run this after them), add a short shared terminology map — predicted utility, decision utility, learned value (V/Q), reward-prediction error (δ), incentive salience ("wanting"), objective "liking", conscious pleasure, present anticipatory affect — and make the same mapping canonical in both pages so the reader gets one story whichever page they open first. 1790 words; ample headroom.
-- **Review file**: `reviews/outer-review-2026-08-27-chatgpt-gpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-08-27
-
 ### P2: Cross-review `topics/marginal-organism-scope-of-value-sensitive-selection` — if the selection currency is predicted utility (a counterfactual affective forecast), organisms with nociception and learning but no prospective affective representation fall outside value-sensitive selection; propagate that consequence down the ladder
 - **Type**: cross-review
 - **Status**: pending
@@ -3200,6 +3191,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-08-27: Cross-review `topics/wanting-liking-and-the-value-in-mechanism-fork` against the revised affective-forecasting-gap — the two pages give a reader incompatible mappings of wanting, prediction and conscious pleasure; add a shared terminology map
+- **Type**: cross-review
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From outer review 2026-08-27 (ChatGPT 5.6 Pro, §7, item 26). The wanting-liking article correctly separates wanting from both pleasure and reward-prediction learning and notes objective "liking" ≠ conscious pleasure; the focal article collapses these into a forecast/experience parallel. Once the P1/P2 tasks on `concepts/affective-forecasting-gap` land (run this after them), add a short shared terminology map — predicted utility, decision utility, learned value (V/Q), reward-prediction error (δ), incentive salience ("wanting"), objective "liking", conscious pleasure, present anticipatory affect — and make the same mapping canonical in both pages so the reader gets one story whichever page they open first. 1790 words; ample headroom.
 
 ### ✓ 2026-08-27: `concepts/affective-forecasting-gap` reads the whole forecast–experience divergence as a "calibration failure"; the changing-selves literature (Paul; Pettigrew) reads part of it as rational revaluation, and the Map's own `voids/transformative-experience-void` already holds that literature without either page linking the other
 - **Type**: refine-draft

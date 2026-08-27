@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:24 - deep-review
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: 1701 → 2552 (+851)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-08-27-wanting-liking-and-the-value-in-mechanism-fork](/reviews/deep-review-2026-08-27-wanting-liking-and-the-value-in-mechanism-fork/)
+- **Notes**: Cross-review vs the revised affective-forecasting-gap (read fresh from disk after its six morning revisions). Added the shared terminology map here (predicted/decision/experienced utility, learned value, δ, "wanting", objective "liking", conscious pleasure, present anticipatory affect); fixed the Further Reading gloss that had equated wanting/liking with anticipated/experienced; cited Schultz 2016 and Berridge 2023 (quote verified at PubMed). Engagement with the mechanism-only physicalist: Mode Three, boundary honestly marked. Forecasting article: one inline link retargeted to the map's anchor (3481 → 3483 words), nothing else. Both files synced.
+
+
 ## 2026-08-27T10:12:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
