@@ -50,9 +50,9 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 320
-  max_concepts: 320
-  max_voids: 100
+  max_topics: 360
+  max_concepts: 360
+  max_voids: 115
   max_positions: 80
 audit_triple:
   altered_state_symmetry: {}
