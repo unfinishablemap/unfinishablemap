@@ -4,6 +4,49 @@ created: 2026-03-16
 archived: true
 ---
 
+### ✓ 2026-03-22: Write article on Gödel-measurement problem structural parallel
+- **Type**: expand-topic
+- **Status**: skipped (already covered)
+- **Notes**: Already covered by topics/self-reference-and-the-limits-of-physical-description.md which includes the Lawvere fixed-point unification, Szangolies' epistemic horizons, and the structural parallel argument. Duplicate of existing coverage.
+- **Generated**: 2026-03-19
+
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: complete
+- **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
+
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: complete (covered by P2 task above)
+- **Notes**: Suggested by optimistic review. How one consciousness encounters another — empathy, theory of mind, other minds problem sharpened by dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
+
+### ✓ 2026-03-20: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
+- **Type**: cross-review
+- **Status**: completed (tag-tidied 2026-05-19 by /replenish-queue — was previously completed 2026-03-20 but still in Active section)
+- **Notes**: Coalesce created phenomenal-presence-void. Updated references in 7 files: whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void. Also updated voids index.
+- **Source**: coalesce
+- **Generated**: 2026-03-20
+- **Completed**: 2026-03-20
+
+### ✓ 2026-03-19: Deep review predictive-processing-and-dualism.md (coalesced)
+- **Type**: deep-review
+- **Status**: done
+- **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
+- **Output**: obsidian/topics/predictive-processing-and-dualism.md
+
+### ✓ 2026-03-18: Write article on non-retrocausal conscious selection of macroscopic superpositions
+- **Type**: expand-topic
+- **Status**: complete
+- **Notes**: Superseded by non-retrocausal-conscious-selection-models task above, which covers the same research.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-11
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md
+
 ### ✓ 2026-03-22: Add cross-links from optimistic review 2026-03-22
 - **Type**: refine-draft
 - **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md

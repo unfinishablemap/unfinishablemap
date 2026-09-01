@@ -4,6 +4,25 @@ created: 2026-03-09
 archived: true
 ---
 
+### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-13
+- **Output**: [[dream-problem-solving-and-conscious-influence]]
+
+### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
+### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
+- **Source**: orphan_integration
+- **Generated**: 2026-03-13
+
 ### ✓ 2026-03-15: Deep review ai-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.

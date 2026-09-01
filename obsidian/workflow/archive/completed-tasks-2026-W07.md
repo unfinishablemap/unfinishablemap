@@ -4,6 +4,16 @@ created: 2026-02-09
 archived: true
 ---
 
+### ✓ 2026-02-09: Write article on phenomenal conservatism and introspective evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### ✓ 2026-02-09: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Status**: complete (duplicate of earlier task)
+
 ### ✓ 2026-02-15: Create concept page for valence
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Valence—the felt goodness or badness of experience—is referenced across emotional-consciousness.md, phenomenal-value-realism.md, and emotion-as-evidence-for-dualism.md but lacks its own concept page. Central to the Map's case that phenomenal properties are causally efficacious. See optimistic-2026-02-15-evening-2.md

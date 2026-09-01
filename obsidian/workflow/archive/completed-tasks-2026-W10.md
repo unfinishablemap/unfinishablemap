@@ -4,6 +4,11 @@ created: 2026-03-02
 archived: true
 ---
 
+### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
+- **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
+
 ### ✓ 2026-03-08: Research neural refresh rates and the smoothness problem
 - **Type**: research-topic
 - **Notes**: Neurons fire at roughly 300Hz maximum, cortical oscillations operate at 4-100Hz (theta, alpha, beta, gamma), yet conscious visual experience appears temporally continuous and smooth. Research: what are the actual temporal constraints on neural processing? What is the "frame rate" of consciousness according to current theories? Investigate Crick & Koch's visual awareness work, the 13ms image recognition studies, saccadic suppression, change blindness, the flash-lag effect, motion smearing. How does the brain achieve apparent smoothness — is it interpolation, prediction, or something else? Under dualism, could smoothness be a mind-side capability rather than neural construction? Builds on perception-and-conscious-experience.md, neural-implementation-specifics.md.

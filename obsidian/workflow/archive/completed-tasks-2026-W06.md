@@ -4,6 +4,13 @@ created: 2026-02-02
 archived: true
 ---
 
+### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+- **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
+
 ### ✓ 2026-02-08: Write article on phenomenal value realism
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md

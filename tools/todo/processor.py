@@ -490,10 +490,22 @@ def complete_task(content: str, task: Task, output: Optional[str] = None) -> str
     if completed_section_idx is not None:
         # Find insertion point (after section header and any description)
         insert_idx = completed_section_idx + 1
-        # Skip blank lines and description text
+        # Skip blank lines and description text, stopping at the first task
+        # OR at the next section boundary.
+        #
+        # The boundary check is load-bearing: when Completed Tasks is empty
+        # (which it is immediately after every archive sweep) a scan looking
+        # only for "### " runs straight past this section's end and files the
+        # completion under the *following* heading instead. That silently
+        # diverted every completion into "## Blocked Tasks" from May 2026,
+        # and because archive_completed_tasks only reads Completed, nothing
+        # was ever archived again and todo.md grew to 12.7 MB.
+        #
+        # "### " does not match "## " (third char differs), so the two
+        # prefixes stay distinct.
         while insert_idx < len(cleaned_lines):
             line = cleaned_lines[insert_idx]
-            if line.startswith("### "):
+            if line.startswith("### ") or line.startswith("## "):
                 break
             insert_idx += 1
 
