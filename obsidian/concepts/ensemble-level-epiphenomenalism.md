@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-08-27T10:09:12+00:00
+ai_modified: 2026-09-01T21:42:19+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ related_articles:
   - "[[selection-only-mind-influence]]"
   - "[[apex/born-preserving-causal-efficacy]]"
   - "[[agency-budget]]"
+  - "[[multi-agent-born-preservation-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5

@@ -2,10 +2,11 @@
 ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
+consumed_by: '[[multi-agent-born-preservation-problem]]'
 created: 2026-07-19
-date: '2026-07-19'
+date: '2026-09-01'
 draft: false
-lastmod: 2026-07-19 00:00:00+00:00
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles: []
 title: Research Notes - The Multi-Agent Born-Preservation Problem
 ---

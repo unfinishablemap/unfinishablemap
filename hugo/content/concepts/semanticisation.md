@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-01 20:04:45+00:00
+ai_modified: 2026-09-01 20:04:00+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: How episodic memories become semantic knowledge, and where the fals
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-01 20:04:45+00:00
+lastmod: 2026-09-01 20:04:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenology-of-forgetting]]'

@@ -4,6 +4,7 @@ created: 2026-07-19
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+consumed_by: "[[multi-agent-born-preservation-problem]]"
 ---
 
 # Research: The Multi-Agent Born-Preservation Problem

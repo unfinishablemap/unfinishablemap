@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-27 10:09:12+00:00
+ai_modified: 2026-09-01 21:42:19+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:09:12+00:00
-lastmod: 2026-08-27 10:09:12+00:00
+lastmod: 2026-09-01 21:42:19+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -25,6 +25,7 @@ related_articles:
 - '[[selection-only-mind-influence]]'
 - '[[apex/born-preserving-causal-efficacy]]'
 - '[[agency-budget]]'
+- '[[multi-agent-born-preservation-problem]]'
 title: Ensemble-Level Epiphenomenalism
 topics:
 - '[[born-rule-and-the-consciousness-interface]]'

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T20:36:30+00:00'
+ai_modified: '2026-09-01T21:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T21:56:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Multi-Agent Born-Preservation Problem
+- **Output**: [[topics/multi-agent-born-preservation-problem]]
+- **Word count**: 2580 by `analyze_length` against topics (soft 3000 / hard 4000, printed) — ok
+- **Based on research**: yes — [[research/multi-agent-born-preservation-problem-2026-07-19]] (now stamped `consumed_by`; six weeks parked at the old topics cap, written under the raised 320/360)
+- **Citation corrections vs the research note (all verified at source before writing)**: the QBism intersubjective-agreement paper is Schack, R. (2024), sole author, *Int. J. Theor. Phys.* 63, 254 — the note's "DeBrota, Fuchs, Schlosshauer & Stacey" attribution and article number 240 were both wrong (the "never a necessity ... to agree" quote grep-verified against the raw arXiv abs page 2312.07728). The observed-observers paper is Polychronakos, A. P. (2024), *Nat. Commun.* 15, 3023 — not "Ollivier et al." and not 3034 (Crossref); abstract fetched via arXiv API and the article's characterisation written from it. The qualia fine-tuning preprint author is Brownstein, A. (arXiv meta). Albert & Loewer 1988 (*Synthese* 77, 195–213, Springer meta), Bong et al. 2020 (*Nat. Phys.* 16, 1199–1205, Crossref), Maier 2018 and Bösch 2006 (Crossref) all confirmed. Torres Alegre carried in the corpus-standard form with its unrefereed-preprint qualifier.
+- **Differentiation from [[concepts/multi-mind-collapse-problem]]**: framed as that article's boundary-case residue — interface locality plus baseline objective collapse is credited with answering the generic shared-observation case; the problem is located in cross-brain entanglement, nested agents (Frauchiger-Renner / local friendliness), and the composition guarantee's dependence on an unproven baseline-collapse mechanism. Option space (a)–(d) carried from the note with each cost owned; joint-demand empirical standing reported per the three-negative-states discipline (micro-PK nulls = consistency not corroboration; nothing has come in at the joint grain). Mechanism-debt citation grade inherited explicitly; the missing two-agent Bell-pair toy model named as the N≥2 extension of P-Q10.
+- **Integration**: Further Reading link added at [[concepts/multi-mind-collapse-problem]]; related_articles entry at [[concepts/ensemble-level-epiphenomenalism]] (both `ai_modified` bumped; `ai_system` not extended — link-only edits)
+- **Apex check**: no apex source list references the new path — no apex-evolve task owed
 
 ## 2026-09-01T21:03:18+00:00 - research-topic
 - **Status**: Success

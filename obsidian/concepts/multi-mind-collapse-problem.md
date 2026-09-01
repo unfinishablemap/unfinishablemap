@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-24T21:20:48+00:00
+ai_modified: 2026-09-01T21:42:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -191,6 +191,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 - [[many-minds-interpretation]] — The minds-in-the-formalism rival that cannot localise the way interface collapse does
 - [[witness-consciousness]] — Phenomenology of being *this* observer
 - [[selection-only-channel]] — The information-theoretic invariants that make "modulation" a substantive structural claim rather than a synonym for causation
+- [[multi-agent-born-preservation-problem]] — The boundary cases where this article's locality answer runs out: joint correlations and no-signalling across many selectors
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-07-24 21:20:48+00:00
+ai_modified: 2026-09-01 21:42:19+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 21:34:04+00:00
-lastmod: 2026-07-24 21:20:48+00:00
+lastmod: 2026-09-01 21:42:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -194,6 +194,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 - [many-minds-interpretation](/topics/many-minds-interpretation/) — The minds-in-the-formalism rival that cannot localise the way interface collapse does
 - [witness-consciousness](/concepts/witness-consciousness/) — Phenomenology of being *this* observer
 - [selection-only-channel](/concepts/selection-only-channel/) — The information-theoretic invariants that make "modulation" a substantive structural claim rather than a synonym for causation
+- [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) — The boundary cases where this article's locality answer runs out: joint correlations and no-signalling across many selectors
 
 ## References
 

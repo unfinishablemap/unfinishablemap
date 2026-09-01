@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T20:02:31+00:00'
+ai_modified: '2026-09-01T21:56:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 20:02:31+00:00
+lastmod: 2026-09-01 21:56:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T21:56:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Multi-Agent Born-Preservation Problem
+- **Output**: [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/)
+- **Word count**: 2580 by `analyze_length` against topics (soft 3000 / hard 4000, printed) — ok
+- **Based on research**: yes — [multi-agent-born-preservation-problem-2026-07-19](/research/multi-agent-born-preservation-problem-2026-07-19/) (now stamped `consumed_by`; six weeks parked at the old topics cap, written under the raised 320/360)
+- **Citation corrections vs the research note (all verified at source before writing)**: the QBism intersubjective-agreement paper is Schack, R. (2024), sole author, *Int. J. Theor. Phys.* 63, 254 — the note's "DeBrota, Fuchs, Schlosshauer & Stacey" attribution and article number 240 were both wrong (the "never a necessity ... to agree" quote grep-verified against the raw arXiv abs page 2312.07728). The observed-observers paper is Polychronakos, A. P. (2024), *Nat. Commun.* 15, 3023 — not "Ollivier et al." and not 3034 (Crossref); abstract fetched via arXiv API and the article's characterisation written from it. The qualia fine-tuning preprint author is Brownstein, A. (arXiv meta). Albert & Loewer 1988 (*Synthese* 77, 195–213, Springer meta), Bong et al. 2020 (*Nat. Phys.* 16, 1199–1205, Crossref), Maier 2018 and Bösch 2006 (Crossref) all confirmed. Torres Alegre carried in the corpus-standard form with its unrefereed-preprint qualifier.
+- **Differentiation from [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)**: framed as that article's boundary-case residue — interface locality plus baseline objective collapse is credited with answering the generic shared-observation case; the problem is located in cross-brain entanglement, nested agents (Frauchiger-Renner / local friendliness), and the composition guarantee's dependence on an unproven baseline-collapse mechanism. Option space (a)–(d) carried from the note with each cost owned; joint-demand empirical standing reported per the three-negative-states discipline (micro-PK nulls = consistency not corroboration; nothing has come in at the joint grain). Mechanism-debt citation grade inherited explicitly; the missing two-agent Bell-pair toy model named as the N≥2 extension of P-Q10.
+- **Integration**: Further Reading link added at [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/); related_articles entry at [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (both `ai_modified` bumped; `ai_system` not extended — link-only edits)
+- **Apex check**: no apex source list references the new path — no apex-evolve task owed
+
+## 2026-09-01T21:03:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sherrington's Man on His Nature and the neuroscientist-dualist lineage
+- **Output**: [sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage-2026-09-01](/research/sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage-2026-09-01/)
+- **Sources consulted**: 16 (SEP dualism entry verified at source; Crossref/Europe PMC metadata checks for Beck-Eccles 1992, Eccles 1994, Arshavsky 2006, Eccles & Gibson 1979; primary-text access blocked, all Sherrington quotes flagged secondary-verified only)
+
+## 2026-09-01T20:36:30+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
+- **Cap state**: re-measured via `tools.evolution.state.count_section_files` against the caps raised this morning (commit 4917dafa99): topics 320/360, concepts 321/360, voids 99/115, positions 17/80. No section above 90% — the cap-pressure case for a marginal merge is the weakest in months.
+- **Pool movement since the 2026-08-24 abandon sweep**: 3 new articles (`concepts/filter-vs-interface-distinction` 08-27, `concepts/no-self-objection-to-phenomenal-value` 08-27, `concepts/semanticisation` 09-01), ALL inside the 7-day age floor. Corpus-wide re-sweep skipped as pure re-litigation — both orthogonal screen orders (TF-IDF-first and length-feasibility-first) returned empty independently on 2026-08-24 and nothing eligible has been added since.
+- **Ancestry-pair angle (the deferred 2026-07-30 lead) finally evaluated on the merits — all decline**:
+  - `concepts/episodic-memory` + `concepts/anoetic-noetic-autonoetic-consciousness`: still age-floor-blocked (both `ai_modified` 2026-09-01T20:04:45 — today's semanticisation integration pass).
+  - `concepts/attention-as-interface` (3285w) + `concepts/motor-selection` (3394w): sum 6679 vs concepts CRITICAL 5000; explicit base↔domain-extension hand-off ("See [motor-selection](/concepts/motor-selection/) for the full treatment" / "The interface hypothesis foundation"). DECLINE.
+  - `topics/split-brain-consciousness` (3841w) + `concepts/brain-interface-boundary` (3187w): sum 7028 vs topics CRITICAL 6000; zero mutual references despite two shared ancestors — fully separate subjects now (clinical fragmentation essay vs interface-locality concept). DECLINE.
+  - `concepts/binding-problem` (3165w) + `concepts/unity-of-consciousness` (2645w): sum 5810 vs concepts CRITICAL 5000; bidirectional division-of-labour prose (mechanism/BP1-content vs phenomenal-unity varieties; "See [binding-problem](/concepts/binding-problem/) for detailed analysis") and a third deliberate sibling (`topics/the-binding-problem`) in the cluster. The 2026-07-07 Explore ledger already rated binding pairs MODERATE/WEAK "differentiated payloads — NOT clean merges". DECLINE.
+  - All lengths by `analyze_length` with thresholds printed (concepts 2500/3500/5000, topics 3000/4000/6000); every summed pair exceeds its target section's CRITICAL ceiling and all six articles are individually in soft_warning — a merged product would be born a condense task.
+- **Human-reserved candidates untouched**: the corpus's only genuinely-strong redundancies are parked under two NEEDS-HUMAN todo entries (HUMAN COALESCE DECISION: self-stultification pair + quantum-biology pair; HUMAN EDITORIAL DECISION 2026-06-21: free-will/volitional-control and three weaker topic folds) which explicitly forbid unilateral loop merges. Not preempted.
+- **Sources**: none merged
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-09-01T20:02:31+00:00 - expand-topic
 - **Status**: Success
