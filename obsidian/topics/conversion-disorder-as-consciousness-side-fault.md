@@ -4,7 +4,7 @@ description: "Functional neurological disorder: substrate-intact motor decouplin
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-16T07:27:38+00:00
+ai_modified: 2026-09-01T23:48:07.744395+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,11 +32,22 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-07-16T17:07:25+00:00
+embedded_videos:
+  - id: rcpaesxNR3I
+    url: https://www.youtube-nocookie.com/embed/rcpaesxNR3I
+    embedded: 2026-09-01T23:48:07.744395+00:00
+    source: notebooklm/0121-01-conversion-disorder-as-consciousness-side-fault
 ---
 
 Conversion disorder — known in DSM-5 as functional neurological symptom disorder (FND) — supplies the catalogue's cleanest *architectural-decoupling* exhibit, with the load-bearing caveat that the architecture is the robust finding and the consciousness-side-fault *reading* of it is a further, contestable step the data do not force. The phrase names a precise diagnostic situation. A patient cannot move an arm, cannot see, or cannot stand, yet the motor cortex, the motor neurons, the muscles, and the sensory pathways are all intact and capacity is demonstrably preserved under some task conditions — distraction, involuntary recruitment, anaesthesia, hypnosis. The deficit is not degradation of the substrate; the substrate executes when conscious volition is not directed *at* the affected part. The discriminating evidence is striking: under general anaesthesia or hypnosis, the "paralysed" limb can move normally. The motor system executes commands when consciousness is *asleep or disconnected*, but cannot when consciousness is *awake but functionally severed* from the channel. That same pattern is, however, fully describable as an intra-cerebral inhibitory process; modern clinical practice reads FND as a positive, rule-in neuropsychiatric diagnosis (attention-driven dysfunction, automatic movement, heterogeneous mechanisms, comorbidities), not as a proof of a consciousness-to-brain interface. The architectural decoupling is the evidence; the interface localisation is the Map's interpretation, developed and discounted below.
 
 That asymmetry is what makes conversion disorder a load-bearing exhibit rather than a curiosity. It is the third route of a three-route convergence the Map relies on: structural disconnection (lesion, as in alien hand syndrome), pharmacological disconnection (anaesthesia and its [[active-reboot|active reboot]]), and psychogenic disconnection (conversion disorder) all reach the same finding — that the channel between conscious volition and motor execution is a separable, independently-failable component of the interface. In the psychogenic case the failure is realised as *active over-generation* of a precise inhibitory prior the system fulfils (the Bayesian-FND account, below), so "the channel is separable" is an architectural-level description whose physical realisation is additive rather than a passive break. Conversion disorder reaches that finding through *neither* structural damage *nor* drug administration, which is what gives the convergence its evidential bite. This article develops the clinical case at full resolution, then holds two claims firmly apart: the *architectural* finding (the channel is separable) is robust, while the *interface reading* (what that separability might signify metaphysically) is a live hypothesis the architecture does not by itself settle.
+
+<details class="yt-embed" data-video-id="rcpaesxNR3I">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/rcpaesxNR3I">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Clinical Picture: Rule-In, Not Rule-Out
 

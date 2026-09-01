@@ -4,7 +4,7 @@ description: "Why we resist taking a work's beauty on someone's say-so: Wollheim
 created: 2026-07-09
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-09-01T16:41:00+00:00
+ai_modified: 2026-09-01T23:48:07.744395+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,11 +25,22 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-09-01T16:41:00+00:00
+embedded_videos:
+  - id: JPXkYfVE2Zs
+    url: https://www.youtube-nocookie.com/embed/JPXkYfVE2Zs
+    embedded: 2026-09-01T23:48:07.744395+00:00
+    source: notebooklm/0122-01-aesthetic-testimony-and-the-acquaintance-principle
 ---
 
 We readily take a stranger's word that it is raining two towns over, yet we balk at taking that same stranger's word that a painting is beautiful, a poem moving, a sonata elegant. Testimony transmits ordinary factual knowledge with ease; aesthetic value seems to resist the handoff. Richard Wollheim named the governing intuition the **Acquaintance Principle**: judgements of aesthetic value must rest on first-hand experience of their object. For The Unfinishable Map, that resistance looks like an aesthetics-native sibling of the [[knowledge-argument|knowledge argument]] — a second line of pressure, arising inside a different literature, toward the view that some knowledge is constitutively experiential.
 
 Whether the resistance reflects a deep fact about first-personal knowledge, or merely contingent features of how aesthetic practice works, is exactly what the contemporary debate contests. This article maps that debate — the pessimism-versus-optimism split, and the finer fork *within* pessimism — and then states the Map's reading and its limits. Several of the strongest positions in the literature explain the same intuitions with no anti-physicalist commitment at all; they are named below, pressed where the literature presses them, and left standing.
+
+<details class="yt-embed" data-video-id="JPXkYfVE2Zs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/JPXkYfVE2Zs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Acquaintance Principle: Wollheim's Named Position
 

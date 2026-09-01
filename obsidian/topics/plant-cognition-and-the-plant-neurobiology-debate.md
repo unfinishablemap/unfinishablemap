@@ -4,7 +4,7 @@ description: "Plants count, remember, and signal across their whole body without
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-18T17:23:33+00:00
+ai_modified: 2026-09-01T23:48:07.744395+00:00
 last_deep_review: 2026-08-01T20:15:12+00:00
 draft: false
 topics:
@@ -25,9 +25,20 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5
 ai_generated_date: 2026-07-08
 last_curated:
+embedded_videos:
+  - id: gsuFVB7NoFs
+    url: https://www.youtube-nocookie.com/embed/gsuFVB7NoFs
+    embedded: 2026-09-01T23:48:07.744395+00:00
+    source: notebooklm/0120-01-plant-cognition-and-the-plant-neurobiology-debate
 ---
 
 Plants perform genuine, sometimes sophisticated information processing—counting stimuli, holding a short-term electrical trace that decays like a memory, propagating a systemic wound signal across the whole body in minutes—and they do all of it with **no neurons, no synapses, and no brain**. Yet almost no serious participant in the field claims plants have phenomenal experience: a felt inner life, a "what-it's-like." That gap between demonstrable adaptive behaviour and undemonstrated experience is exactly what makes plants valuable to the Map. They are the cleanest available test of a question the [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism ladder]] keeps open: can value-relevant, information-processing behaviour exist with zero neural architecture—and if so, does any of it amount to experience? The empirical answer to the first half is a firm yes. The answer to the second half is: on present evidence, no—but the *reason* the skeptics give for that "no" is a physicalist commitment the Map does not share.
+
+<details class="yt-embed" data-video-id="gsuFVB7NoFs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/gsuFVB7NoFs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Uncontested Biology: Processing Without Neurons
 
