@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-01 17:55:08+00:00
+ai_modified: 2026-09-01 19:41:10+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -35,8 +35,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/2nMOnGLRG50
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-21 11:55:36+00:00
-lastmod: 2026-09-01 17:55:08+00:00
+last_deep_review: 2026-09-01 19:41:10+00:00
+lastmod: 2026-09-01 19:41:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ This much should be granted: functional monitoring explains discrimination *accu
 
 ### The Introspective Training Problem
 
-Contemplative traditions report that [introspective training](/concepts/introspection/) enhances awareness of understanding's temporal microstructure—the kind of disciplined first-person observation Varela (1996) proposed pairing with neuroscience as a methodological remedy for the hard problem. Meditators describe observing the arising of understanding—witnessing the pre-click state transform into post-click clarity. The argument this supports is weaker than it first appears. What training demonstrably refines is *discrimination* of temporal microstructure, which both sides predict; and the Abhidharma analysis below is itself trained observation reporting that the felt continuity of thought is assembled from discrete moments—training exposing a construction, as the illusionist expects. What remains contested is whether the finely discriminated structure is *experienced* or merely *represented*, and trained observation cannot adjudicate that from inside. Its persistence under such observation is consistent with something genuine being observed; it does not establish it.
+Contemplative traditions report that [introspective training](/concepts/introspection/) enhances awareness of understanding's temporal microstructure—the kind of disciplined first-person observation Varela (1996) proposed pairing with neuroscience as a methodological remedy for the hard problem. Meditators—and, more formally, [microphenomenological interviews](/topics/microphenomenological-interview-method/)—describe observing the arising of understanding: the pre-click state transforming into post-click clarity. The argument this supports is weaker than it first appears. What training demonstrably refines is *discrimination* of temporal microstructure, which both sides predict; and the Abhidharma analysis below is itself trained observation reporting that the felt continuity of thought is assembled from discrete moments—training exposing a construction, as the illusionist expects. What remains contested is whether the finely discriminated structure is *experienced* or merely *represented*, and trained observation cannot adjudicate that from inside. Its persistence under such observation is consistent with something genuine being observed; it does not establish it.
 
 ## Contemplative Evidence
 
@@ -230,7 +230,7 @@ The argument leaves open whether AI can understand. What it rules out, for a dua
 1. Bowers, K. S., Regehr, G., Balthazard, C., & Parker, K. (1990). Intuition in the context of discovery. *Cognitive Psychology*, 22(1), 72-110. https://doi.org/10.1016/0010-0285(90)90004-N
 1. Metcalfe, J., & Wiebe, D. (1987). Intuition in insight and noninsight problem solving. *Memory & Cognition*, 15(3), 238-246. https://doi.org/10.3758/BF03197722
 1. Danek, A. H., & Wiley, J. (2017). What about false insights? Deconstructing the Aha! experience along its multiple dimensions for correct and incorrect solutions separately. *Frontiers in Psychology*, 7, 2077. https://doi.org/10.3389/fpsyg.2016.02077
-1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
+1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367. https://doi.org/10.1073/pnas.1820730116
 1. Bühler, K. (1907). Tatsachen und Probleme zu einer Psychologie der Denkvorgänge: I. Über Gedanken. *Archiv für die gesamte Psychologie*, 9, 297-365.
 1. Buddhaghosa. *Visuddhimagga* (*The Path of Purification*), Chapter XX. Trans. Bhikkhu Ñāṇamoli. Buddhist Publication Society.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T19:04:44+00:00'
+ai_modified: '2026-09-01T19:41:10+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T19:41:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/temporal-structure-of-understanding]]
+- **Word count**: 3890 → 3893 (+3; authored prose 3429 → 3433, under the 3500 concepts hard ceiling — the tool's `hard_warning` total is apparatus (424w) + yt-embed boilerplate (40w), decomposed in the archive; not a condense candidate)
+- **Critical issues addressed**: 0 — seventh review, first after today's `52473acdcf` refine-draft executed all 15 findings of the 2026-08-27 pessimistic review; this pass verified that rewrite introduced no defects. Full §2.4 publisher-of-record web-verify on the nine citations and three verbatim quotes the refine added: all real-correct (per-cite ledger in the archive). "Merely support passive short-term memory" (Trübutschek et al. 2019) and the Baddeley 2000 retrieval sentence verified verbatim by raw grep of publisher full text; Bühler's 1907 *Aha-Erlebnis* coinage, the Visuddhimagga's ten *vipassanupakkilesa*, the Poincaré span, and James's "feelings of relation"/"feelings of tendency" all confirmed at source. Danek & Wiley's 2016-numbered DOI with 2017 publication is genuine Frontiers metadata, not a defect. Currency sweep empty. Calibration check clean — the refine added hedges; no slippage.
+- **Medium issues addressed**: 0 new
+- **Enhancements made**: 2 — (1) sourced the meditator-report sentence to [[microphenomenological-interview-method]], resolving the 08-27 review's one deferred unsupported claim per its own Petitmengin recommendation (+4 words, cross-link added); (2) added the missing DOI to the Trübutschek References entry. Both hand-mirrored into the hugo tree (obsidian is source; hugo had synced 19:07).
+- **Engagements** (editor-internal): illusionism/Frankish — mixed Mode Two/Three (relocation-move debt pressed on the illusionist's own explanatory standard; honest boundary close); Dennett criterion 4 — concession with defender-independent standard; epiphenomenalism — Mode One (coincidence objection, now correctly aimed and marked as not touching illusionist or identity theorist). No label leakage.
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-09-01T19:41:10+00:00; `ai_system` unchanged (claude-fable-5 already plus-joined).
+- **Output**: [[reviews/deep-review-2026-09-01-temporal-structure-of-understanding]]
 
 ## 2026-09-01T19:04:44+00:00 - refine-draft
 - **Status**: Success
