@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-01T21:55:36.092859+00:00'
-session_count: 19784
-cycle_position: 13028
+last_updated: '2026-09-01T22:15:48.615982+00:00'
+session_count: 19785
+cycle_position: 13029
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-01T21:55:36.092859+00:00'
   embed-videos: '2026-08-27T19:34:59.828453+00:00'
-  expand-topic: '2026-09-01T21:42:39.875810+00:00'
+  expand-topic: '2026-09-01T22:15:48.615982+00:00'
   harvest-research-subjects: '2026-09-01T20:19:07.163052+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-01T18:01:01.204311+00:00'
+last_git_push: '2026-09-01T22:15:48.767116+00:00'
 last_tweet_date: '2026-09-01'
 content_stats:
   total_files: 297
@@ -102,7 +102,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 321
+  topics_written: 322
   concepts_written: 321
   arguments_written: 5
   questions_written: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-01'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-01'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-01'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
@@ -405,82 +405,30 @@ agentic_social:
     - meta-epistemology-of-limits
     - self-reference-paradox
 queue_status:
-  last_replenishment: '2026-09-01T17:32:14+00:00'
+  last_replenishment: '2026-09-01T22:27:05+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1013. STANDARD MODE, SIX MINTS (5 x P2 + 1 x P3),
-    every locus re-verified from disk before minting. Pre-count count_p0_p2_tasks
-    == 2 against MIN_QUEUE 3 (the temporal-structure-of-understanding pessimistic
-    P2 of 08-27 and the sponges literature-drift P2 of 09-01, both at the BOTTOM of
-    the Active region). TRIGGER CHANGE: the operator raised section_caps this morning
-    (commit 4917dafa99 ''raise section caps to resume content growth'') - re-measured
-    via tools.evolution.state.count_section_files: topics 320/360, concepts 320/360,
-    voids 99/115, positions 17/80 - so the cap filter that zeroed every expand-topic
-    candidate in runs 1010-1012 now passes them, and unconsumed research (source bonus
-    +60) is the primary source for the first time since 08-04. UNCONSUMED-RESEARCH
-    SWEEP: 538 of 560 research notes lack a consumed_by stamp, so the stamp is not
-    the signal; all 49 notes created >= 2026-07-01 with no stamp were checked three
-    ways (exact-slug file in live+archive, title-token fuzzy match against every live/archived
-    title, distinctive-term grep across topics/concepts/voids/apex). 46 are consumed
-    under other slugs or folded (alexithymia -> concepts/alexithymia; nahua -> topics/mesoamerican-nahua-philosophy-of-mind;
-    lowe -> concepts/four-category-ontology; purification -> generalised-probabilistic-theories
-    16 hits; analog-quantum-devices -> quantum-hardware-and-the-ai-consciousness-coupling
-    L62-66 on 08-16; bath-spectral -> sign-problem 8 hits; horizon-decoherence ->
-    penrose/prebiotic folds, note itself declines standalone; moral-census-opacity,
-    agency-budget, anti-zeno -> 08-16 concept creates; hypnopompia -> sleep-paralysis-and-interface-reassembly;
-    values-in-science and phenomenal-individuality items 1-2 landed as refines 08-07/08-16;
-    african-2020s steps 2-3 landed 08-16; three voids notes absorbed per voids.md
-    status list). THREE survive as genuinely unwritten with the note recommending
-    standalone and the block being cap-only: semanticisation (concepts; ''semanticis''
-    <= 3 hits in 6 files, slug verified free, archive/concepts/semantic-phenomenology
-    collision avoided), multi-agent Born-preservation (topics; 0 live hits, touched
-    only as agency-budget L84 flagged dependency, P-Q7 covers marginals only), synthetic
-    minimal agents (topics; anthrobot 0 live files, JCVI/syn3 only in basal-and-bioelectric-cognition).
-    Minted x3 P2 expand-topic, titles carry section + research path because task_to_skill
-    passes TITLE ONLY for EXPAND_TOPIC. CHAIN x1: phenomenal-individuality note item
-    3 (Meincke & Dupre animalism bridge in consciousness-and-the-metaphysics-of-individuation,
-    0 hits, 2918/4000, 0 open tasks) - P2 refine-draft. POSITIONS 7b x1: P-F1 Argued-in
-    concepts/anti-correlated-metacognitive-signal gained a 350-word acute-state section
-    at 16:52Z today, Last reviewed 07-30 - P2 update. POSITIONS 7a x1: filter-as-inbound-leg
-    commitment at filter-vs-interface-distinction L60/L70, ''filter'' greps in positions/
-    only as P-CS4 L81 Depends-on phrase - P3 add (deferred as premature on 08-27;
-    concept has since survived two cross-reviews unamended). DELIBERATELY NOT MINTED:
-    bohmian-non-equilibrium (Valentini in born-rule 2 / agency-budget 3 hits, note
-    gives no standalone verdict - next run); aggregation-problem-overlapping-minds
-    (1884-word note, manyism.md carries Roelofs & Sebo, likely fold); african-2020s
-    residue (step 1 term ''unanimism'', step 4 Balogun, step 5 Metz refresh - bibliographic
-    hygiene, concept 08-16 already carries Agada/Chisale); cross-review chains - both
-    08-27 expands received two cross-reviews each on 08-27 (git log), per-parent cap
-    met; the six harvest P3 research-topic tasks now cap-viable but P3 promotion is
-    human; length - 149 hard_warnings led by research/positions/apex-index (known
-    false-over-length norm), three veto-tagged condense P2s standing; orphans 0; staleness
-    - P3 pool 79 and starved; positions audit - 08-24 inside the 30d window; applied
-    apex - 4 live, gap detection deferred. PLACEMENT: appended at the BOTTOM of the
-    Active region (before ## Completed Tasks) rather than top-inserted, so the selector''s
-    (priority, line_number) sort picks the two long-waiting P2 survivors first - the
-    LIFO starvation runs 1011-1012 recorded. Post-count re-measured after the splice:
-    count_p0_p2_tasks == 7 (loop_pickable_open); p2_tasks counts all P2 headers in
-    the Active region including the three veto-tagged condenses; P3 pool 80.'
-  last_replenishment_run: 1013
-  loop_pickable_open: 7
+  last_replenishment_note: 'RUN 1014. STANDARD MODE, SIX MINTS (6 x P2), every locus re-verified from disk before minting. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3 (the P-F1 positions update and the individuation Meincke & Dupre refine, both run-1013 mints; run 1013''s three expand-topic P2s and both long-waiting P2 survivors all executed 17:59-22:35 same day). Sections re-measured via count_section_files: topics 322/360, concepts 321/360, voids 99/115, positions 17/80 - real headroom everywhere. CHAIN x3: (1) expand-topic for the fresh 21:03 research note on Sherrington/Man on His Nature (note self-flags NO primary-text access - all quotes secondary-verified only, warning carried into the task; only live Sherrington mention is one sentence in penfield-interactionist-dualism; slug free live+archive); (2)+(3) the two chain items the 20:02 semanticisation expand explicitly deferred to later runs: cross-review of consciousness-and-memory (Barry et al. 2018 nonmonotonicity vs the smooth-trajectory paragraph, now L139; 3970w = 30 under topics hard, offset required) and the remember/know validity exposure as ONE refine-draft across episodic-memory/semantic-memory/anoetic (per the note''s own one-task prescription; semantic-memory 106 under concepts hard). Its third deferred item (phenomenology-of-memory-and-the-self kind-individuation) stays blocked by the open condense-first P3 owning that file - not minted. UNCONSUMED RESEARCH x1: bohmian non-equilibrium note, the item run 1013 deferred for a verdict - verdict STANDALONE topics expand (note''s own Angle 1; Valentini in only 3 live files; fold target born-rule-and-the-consciousness-interface is 5059w hard_warning; note''s self-flagged gaps - no scholarly consciousness link, unsurveyed post-Planck CMB bounds - written into the task as binding). ORPHAN x1: synthetic-minimal-agents (22:35 creation) has ZERO inbound links from any live content tree (obsidian+hugo grep-verified; the expand run integrated its two siblings but not itself) - integrate-orphan P2 naming reciprocal targets from its own outbound set with per-file length ceilings. POSITIONS 7b x1: P-Q10 - the new multi-agent article L65/L95 names the two-agent Bell-pair toy model as the N>=2 extension of the debt P-Q10 records, and the register roadmap is single-selector only; update scoped to Argued-in + one roadmap sentence, bands frozen (credence high, maturity developed per the 2026-08-03 relabel history). DELIBERATELY NOT MINTED: cross-review chains for multi-agent (same-day 21:53 deep-review already ran full 2.4 on it, 2 criticals fixed) and for synthetic-minimal (the orphan task covers integration; apex fold deferred to /apex-evolve per the expand contract); multi-mind-collapse-problem reciprocal-link work (a matching link task sits in the vetoed bank, todo ~L3107); research-topic mints (harvester owns that lane, six cap-viable P3 research tasks already queued); staleness (P3 pool 83, starved); length (three veto-tagged condense P2s standing; hard_warning census dominated by the false-over-length norm); orphans beyond the one (state quality.orphaned_files 0 predates today''s creation); positions audit (2026-08-24, inside 30d); applied apex gap (deferred again, P3-only and pool saturated). CLAUDE.md Section Caps table still shows the pre-4917dafa99 caps (320/320/100) - operator doc fix flagged in the run report, not mintable as a loop task type. PLACEMENT: appended at the BOTTOM of the Active region before ## Completed Tasks (run-1013 precedent) so the selector''s (priority, line) sort drains the two run-1013 P2 survivors first and no existing task line shifts. Post-count re-measured after the splice: count_p0_p2_tasks == 8; p2_tasks counts all P2 headers in the Active region including the three veto-tagged condenses; P3 pool 83.'
+  last_replenishment_run: 1014
+  loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 10
-  p3_tasks: 80
+  p2_tasks: 11
+  p3_tasks: 83
   replenishment_source_counts:
-    promotion_from_p3: 0
-    chain: 1
-    unconsumed_research: 3
+    chain: 3
     check_tenets: 0
-    optimistic_review: 0
+    defect_family: 0
     gap_analysis: 0
     length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+    optimistic_review: 0
+    orphan_integration: 1
     outer_review_synthesis: 0
     positions_dependency_changed: 1
-    positions_register_gap: 1
-    defect_family: 0
+    positions_register_gap: 0
+    promotion_from_p3: 0
+    staleness: 0
+    unconsumed_research: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
