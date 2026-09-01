@@ -2,11 +2,11 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-01T13:46:42.778485+00:00'
-session_count: 19755
+last_updated: '2026-09-01T13:52:29.725471+00:00'
+session_count: 19756
 cycle_position: 13010
 last_runs:
-  add-highlight: '2026-08-27T08:22:51.693277+00:00'
+  add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-08-27T21:40:05.945466+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
@@ -43,7 +43,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-09-01T13:50:50.804098+00:00'
-last_tweet_date: '2026-08-27'
+last_tweet_date: '2026-09-01'
 content_stats:
   total_files: 297
   published_files: 192
@@ -118,10 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-08-27'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-08-27'
@@ -196,6 +192,11 @@ recent_tasks:
   outcome: success
 - task: literature-drift-review
   type: literature-drift-review
+  date: '2026-09-01'
+  outcome: success
+  kind: trigger
+- task: add-highlight
+  type: add-highlight
   date: '2026-09-01'
   outcome: success
   kind: trigger
