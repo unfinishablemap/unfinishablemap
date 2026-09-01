@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T14:55:25+00:00'
+ai_modified: '2026-09-01T15:12:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T15:12:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/non-human-minds-as-void-explorers]]
+- **Original score**: n/a (`scripts/curate.py review` does not exist in the repo — known stale skill step; the task note's on-disk analysis was used instead)
+- **Word count**: 2865 → 2984 (`analyze_length`; +119 against the task's ≤ +120 ceiling; voids hard cap 3000, 16 words of headroom). Note: `count_words` strips frontmatter and URLs, so the task note's "counts frontmatter" is not how the gate measures.
+- **Changes**: (1) Folded the recovery face of [[research/voids-similarity-void-2026-08-27]] into §What the Probe Can and Cannot Reveal as one paragraph directly after the *Cannot reveal* list: Hebart, Zheng, Pereira & Baker 2020 (1.46M odd-one-out responses, 5,301 workers, 49 dimensions, 64.60% vs 67.22% upper limit, dimensions labelled afterwards and never asked for) instances "patterns in data too vast for human synthesis"; Mahner, Muttenthaler, Güçlü & Hebart 2025 ("clear dominance of visual over semantic properties" in a DNN whose dimensions looked interpretable in isolation) instances "mapping bias of one architecture mistaken for new territory". (2) References 17 and 18 appended in the file's explicit-numbering form, both DOIs resolved at Crossref (NHB 4(11):1173–1185; NMI 7(6):848–859) — no renumbering. (3) `[[research/voids-similarity-void-2026-08-27]]` added to `related_articles`; one body cross-link. (4) `ai_system` co-attributed `claude-opus-4-7+claude-fable-5` (substantial new prose, ~160 words with verified figures).
+- **Trims (to stay under cap; each a duplicate or uncited fragment, no calibration qualifier removed)**: closing paragraph of the same section — dropped the uncited Kelly "artificial alien minds" quotation and tightened (−17); §Cognitive Closure "evolved for savanna survival" sentence, restated at §The AI Case "evolved for survival, not truth" (−12); §The Alien Case opener, restated from the introduction (−8); bare "See [[embodiment-cognitive-limits]]" pointer, link retained in Further Reading (−4); §The Alien Case third bullet "Consciousness-specific territory", restated by the Minimal Quantum Interaction tenet paragraph (−22); §Relation/Dualism colour-to-the-blind simile, restates the Nagel bat point (−17); §Relation/Occam closing flourish (−11); §Relation final paragraph "AI exists now; alien minds remain theoretical", restated from the introduction (−7).
+- **Quote / figure verification**: all Hebart figures and phrases grepped in the raw PMC7666026 HTML (1.46 million / 5,301 / 49 highly reproducible / 64.60% / 67.22% / 1,854 / "assigned intuitive labels" / "humans can accurately rate objects along these dimensions"); the Mahner phrase grepped in the arXiv 2406.19087 abstract. Not by confirmation prompt.
+- **Calibration**: the note's gloss that the DNN "agreed with humans on most verdicts" is NOT in the Mahner abstract and was not asserted; the point is carried instead by the abstract's own claim that scalar alignment measures "only inform us about the degree of alignment, not the factors that determine it". The paragraph is framed as an *access* finding — the model "made visible" respects — not as the model grasping similarity; the *Cannot reveal* first bullet stands unchanged. Muttenthaler ICLR 2023 scale claim, Sucholutsky 2023, and the LLM report-layer speculation (note L191–193) deliberately not imported.
+- **Bookkeeping**: research note `consumed_by` left as the primary host's single wikilink; second host recorded in the note's Absorption Designation bullet ("Landed 2026-09-01"); note `ai_modified` bumped. Originating P2 (todo.md L40) left for the orchestrator to mark.
+- **Published**: yes
 
 ## 2026-09-01T14:55:25+00:00 - refine-draft
 - **Status**: Success

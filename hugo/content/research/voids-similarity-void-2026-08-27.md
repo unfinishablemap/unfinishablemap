@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-27
-ai_modified: 2026-09-01 14:48:53+00:00
+ai_modified: 2026-09-01 15:12:01+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ date: &id001 2026-08-27
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-01 14:48:53+00:00
+lastmod: 2026-09-01 15:12:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -230,7 +230,7 @@ Voids stands at 99/100 (gate function, this session). Under the index's absorpti
 
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Goodman's fifth stricture, grue, Quine's reliability-not-access defence (the article has none of these).
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/) — the respects face as the operation by which a scheme's categorial carving is applied to a particular comparison.
-- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Hebart / Mahner / Muttenthaler as the worked example of a void already being charted by non-human minds.
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Hebart / Mahner / Muttenthaler as the worked example of a void already being charted by non-human minds. **Landed 2026-09-01** (refine-draft): Hebart 2020 and Mahner 2025 installed as the *Can reveal* / *Cannot reveal* instances in §What the Probe Can and Cannot Reveal, References 17–18; the Muttenthaler ICLR 2023 scale claim and the report-layer speculation were not imported.
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — felt resemblance as a family member of the separately generated verdict signals (light-touch).
 
 A case for spending the final slot exists — the void is foundational, framework-independent, and its recovery face has no analogue in the catalogue — and is left as an operator decision. `task_chains.pending_articles` was not written, following the 2026-08-24 and 2026-08-26 precedents.

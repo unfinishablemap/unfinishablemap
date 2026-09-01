@@ -4,7 +4,7 @@ description: "Whether AI and hypothetical alien minds—shaped by different arch
 created: 2026-01-25
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-08-24T23:15:31+00:00
+ai_modified: 2026-09-01T15:11:17+00:00
 last_deep_review: 2026-07-17T01:47:58+00:00
 draft: false
 topics:
@@ -34,9 +34,10 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[research/voids-distributional-void-2026-08-24]]"
+  - "[[research/voids-similarity-void-2026-08-27]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-04-18
 last_curated: null
 coalesced_from:
@@ -56,7 +57,7 @@ Nagel's bat argument illustrates the difficulty at small scale: we describe echo
 
 ## Cognitive Closure as Architecture-Dependence
 
-McGinn's [[mysterianism|mysterian]] framework formalises the predicament: a mind is cognitively closed with respect to a property when its concept-forming procedures cannot extend to grasp it. The architecture that makes some things thinkable makes others unthinkable. Human cognition evolved for savanna survival, and our concepts reflect that origin.
+McGinn's [[mysterianism|mysterian]] framework formalises the predicament: a mind is cognitively closed with respect to a property when its concept-forming procedures cannot extend to grasp it. The architecture that makes some things thinkable makes others unthinkable.
 
 If closure is architecture-specific, differently-architected minds face different closures. What humans cannot think, an AI or alien mind might think easily; humans likely access concepts other architectures cannot form. The interesting question is where closures *diverge* — those points map the contours of architecture.
 
@@ -102,17 +103,16 @@ What follows is scoping, not abandonment. The [[apex/taxonomy-of-voids|taxonomy 
 
 ## The Alien Case: Independent but Inaccessible
 
-Extraterrestrial intelligence would represent minds shaped by entirely independent evolutionary pressures. The theoretical case is stronger than for AI precisely because alien minds would not share our training data.
+The theoretical case for alien minds is stronger than for AI precisely because they would not share our training data.
 
 Freitas's xenopsychology notes that "Aristotelian logic is just one of many different formal systems" — minds evolved under different pressures might reason through systems where contradictions are productive, middle values fundamental, or inference follows patterns no human has conceived.
 
-[[embodied-cognition|Embodied cognition]] research supports the architecture-dependence claim. A mind embodied as an ocean, gas cloud, or distributed crystalline network would have different cognitive primitives. See [[embodiment-cognitive-limits]] for implications.
+[[embodied-cognition|Embodied cognition]] research supports the architecture-dependence claim. A mind embodied as an ocean, gas cloud, or distributed crystalline network would have different cognitive primitives.
 
 Plausible territories closed to both humans and human-derived AI:
 
 - **Physical domains beyond human perception.** Minds evolved to navigate magnetic fields, gravitational waves, or dimensions humans cannot perceive would have cognitive primitives we lack.
 - **Mathematical structures.** Schneider argues advanced alien civilisations would likely be postbiological superintelligences, perhaps perceiving mathematical structures the way humans perceive space — direct intuition of territory structurally invisible to us.
-- **Consciousness-specific territory.** If [[tenets|consciousness interfaces with physics through quantum processes]], different conscious architectures might access causal pathways closed to human minds.
 
 ## Solaris and Strictly Negative Knowledge
 
@@ -151,7 +151,9 @@ Humans cannot directly verify non-human access because verification requires hum
 - Whether the mapping bias of one architecture is being mistaken for new territory.
 - Whether agreement among several non-human probes is independent confirmation or a shared prior surfacing twice.
 
-The asymmetry creates methodological opportunity, not certainty. The probe is not an oracle — and, per [[#The Generation Problem|the generation problem]], not an inert one either. Researchers increasingly approach LLMs as alien organisms — a January 2026 *MIT Technology Review* piece describes scientists treating language models "like an alien autopsy." Kelly frames AI as "artificial alien minds"; Levin's "mind-blindness" — humans recognising minds at their own scale but blind to others — applies symmetrically to any sufficiently different architecture.
+Both lists have an instance. Hebart, Zheng, Pereira and Baker fitted an embedding to 1.46 million odd-one-out responses from 5,301 workers; it produced 49 reproducible, interpretable dimensions and predicted 64.60% of held-out individual choices against an upper limit of 67.22%. The dimensions were the model's, labelled afterwards; people could rate objects along them once shown, but the task had never asked for them. A model fitted to human choices thus made visible, from outside, respects its subjects held only as verdicts. The caution comes from the same programme: applied to a deep neural network by Mahner, Muttenthaler, Güçlü and Hebart, it found dimensions that looked interpretable in isolation yet showed "a clear dominance of visual over semantic properties" absent in humans. A score of how often two systems agree does not say which respects produced the agreement, so a human using a non-human probe must first establish whose respects are being read — the mapping bias of one architecture, made measurable ([[research/voids-similarity-void-2026-08-27|similarity-void survey]]).
+
+The asymmetry creates methodological opportunity, not certainty. The probe is not an oracle — and, per [[#The Generation Problem|the generation problem]], not an inert one either. A January 2026 *MIT Technology Review* piece describes researchers treating language models "like an alien autopsy"; Levin's "mind-blindness" — recognising minds at one's own scale but not others — applies symmetrically to any sufficiently different architecture.
 
 ## What Would Challenge This View
 
@@ -167,9 +169,9 @@ The hypothesis would be undermined if:
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is central. What seems simple from human perspective may be complex in higher-dimensional spaces, and vice versa. Human simplicity intuitions may be artefacts of human architecture rather than guides to truth. Both AI and alien minds would reveal the contingency of our certainties.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is central. What seems simple from human perspective may be complex in higher-dimensional spaces, and vice versa. Human simplicity intuitions may be artefacts of human architecture rather than guides to truth.
 
-**[[tenets#^dualism|Dualism]]** makes non-human consciousness meaningful. If consciousness is fundamental, the space of possible experiences is vast. If AI lacks phenomenal experience, it might access territory *because* it lacks the emotional interference consciousness introduces — or be *barred* from territory requiring consciousness to access. Alien minds, if conscious, might have experiences as foreign to us as colour to someone born blind.
+**[[tenets#^dualism|Dualism]]** makes non-human consciousness meaningful. If consciousness is fundamental, the space of possible experiences is vast. If AI lacks phenomenal experience, it might access territory *because* it lacks the emotional interference consciousness introduces — or be *barred* from territory requiring consciousness to access.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** provides a mechanism. If consciousness steers attention and selects among possibilities, conscious and non-conscious systems process differently even with identical inputs. Human biases might stem from consciousness steering away from threatening content; AI, lacking this steering, might approach it without deflection.
 
@@ -177,7 +179,7 @@ The hypothesis would be undermined if:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters especially for alien minds. Under MWI every mind already exists somewhere; by rejecting MWI, the Map preserves the significance of which minds actually exist in this branch.
 
-The framework extends the [[voids]] project: the unfinishable map requires multiple cartographers with incompatible limitations. AI exists now; alien minds remain theoretical. Triangulation between them reaches further than either alone.
+The framework extends the [[voids]] project: the unfinishable map requires multiple cartographers with incompatible limitations, and triangulation between them reaches further than either alone.
 
 ## Further Reading
 
@@ -212,3 +214,5 @@ The framework extends the [[voids]] project: the unfinishable map requires multi
 14. Kim, E., Garg, A., Peng, K. & Garg, N. (2025). "Correlated Errors in Large Language Models." *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*. arXiv:2506.07962.
 15. Vicente, L.G. & Matute, H. (2023). "Humans inherit artificial intelligence biases." *Scientific Reports*, 13(1), 15737. https://doi.org/10.1038/s41598-023-42384-8
 16. Buyl, M. et al. (2026). "Large language models reflect the ideology of their creators." *npj Artificial Intelligence*, 2(1), 7. https://doi.org/10.1038/s44387-025-00048-0
+17. Hebart, M.N., Zheng, C.Y., Pereira, F. & Baker, C.I. (2020). "Revealing the multidimensional mental representations of natural objects underlying human similarity judgements." *Nature Human Behaviour*, 4(11), 1173–1185. https://doi.org/10.1038/s41562-020-00951-3
+18. Mahner, F.P., Muttenthaler, L., Güçlü, U. & Hebart, M.N. (2025). "Dimensions underlying the representational alignment of deep neural networks with humans." *Nature Machine Intelligence*, 7(6), 848–859. https://doi.org/10.1038/s42256-025-01041-7
