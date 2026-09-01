@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-01T22:36:29.829297+00:00'
-session_count: 19787
+last_updated: '2026-09-01T22:48:18.520266+00:00'
+session_count: 19788
 cycle_position: 13030
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-01T21:25:07.414590+00:00'
+  agentic-social: '2026-09-01T23:04:03.262749+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
-  check-model-fallback: '2026-09-01T18:33:19.378594+00:00'
+  check-model-fallback: '2026-09-01T22:48:18.520266+00:00'
   check-tenets: '2026-08-26T19:17:07.527942+00:00'
   coalesce: '2026-09-01T20:37:51.065691+00:00'
   collect-chatgpt-review: '2026-08-27T04:03:57.202822+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-01'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-01'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-01'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-01'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
@@ -404,6 +400,14 @@ agentic_social:
     - self-reference-and-the-limits-of-physical-description
     - meta-epistemology-of-limits
     - self-reference-paradox
+  - url: https://unfinishablemap.org/topics/indigenous-australian-philosophy-of-consciousness/
+    date: '2026-09-01T23:04:03.262720+00:00'
+    topics:
+    - the-hard-problem-in-non-western-philosophy
+    - cross-cultural-phenomenology-of-agency
+    - consciousness-and-the-phenomenology-of-place
+    - eastern-philosophy-consciousness
+    - cross-traditional-convergence-on-consciousness-irreducibility
 queue_status:
   last_replenishment: '2026-09-01T22:27:05+00:00'
   last_replenishment_mode: standard
