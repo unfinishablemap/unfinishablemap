@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-01T21:42:39.875810+00:00'
-session_count: 19783
-cycle_position: 13027
+last_updated: '2026-09-01T21:55:36.092859+00:00'
+session_count: 19784
+cycle_position: 13028
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-08-27T04:13:18.333018+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-08-13T03:23:19.289124+00:00'
-  deep-review: '2026-09-01T19:43:54.046675+00:00'
+  deep-review: '2026-09-01T21:55:36.092859+00:00'
   embed-videos: '2026-08-27T19:34:59.828453+00:00'
   expand-topic: '2026-09-01T21:42:39.875810+00:00'
   harvest-research-subjects: '2026-09-01T20:19:07.163052+00:00'
@@ -109,7 +109,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 560
-  reviews_completed: 7362
+  reviews_completed: 7363
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-01'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-01'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-01'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-01'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/

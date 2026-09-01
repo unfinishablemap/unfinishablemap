@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T21:56:00+00:00'
+ai_modified: '2026-09-01T22:35:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 21:56:00+00:00
+lastmod: 2026-09-01 22:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T22:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Engineered Decoupling: Synthetic Minimal Agents as Built Competency Tests
+- **Output**: [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+- **Word count**: 2572 by `analyze_length` against topics (soft 3000 / hard 4000, printed) — ok
+- **Based on research**: yes — [synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15](/research/synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15/) (now stamped `consumed_by`; parked seven weeks at the old topics cap, written under the raised 320/360). Closes the note's angle 1 (the design-side companion to `topics/basal-and-bioelectric-cognition`); its angle 3 (folding the anthrobot + syn3.0 loci into `apex/competency-without-felt-experience`) is left for `/apex-evolve` — the new article is not in that apex's **Source articles** list, so no task was minted per the expand-topic step-9 contract.
+- **Anthrobots and JCVI-syn3.0 now have live coverage**: before this article, `anthrobot` appeared nowhere outside `research/` and `reviews/optimistic-2026-07-08-invertebrate-cluster`, and `syn3` appeared nowhere at all in `topics/`, `concepts/`, `voids/`, `apex/`.
+- **Citation corrections vs the research note (every source re-verified at publisher/index before writing)**:
+  - The philosophy paper's journal, author, and volume were all wrong or missing in the note. It is Joy, R. (2024), *Endeavour* 48(2), 100927, DOI 10.1016/j.endeavour.2024.100927 (Crossref + Semantic Scholar) — **not** *Cognitive Systems Research*; the ScienceDirect PII in the note (S0160932724000164) is an Endeavour PII. The article now cites it correctly, restricted to what the verified abstract says: xenobot capacities juxtaposed with basal cognition and nonliving active-matter cognition, plus the "stage 1 of xenobotic cognition" staging.
+  - **"Neomachines" not used.** The note attributed that framing to the Joy paper from search summaries; the term appears in neither the Crossref record nor the Semantic Scholar abstract, and the publisher page is blocked. Dropped rather than hedged.
+  - **The "not selection-explained" point belongs to a different paper.** The note credited it to Joy; it is verbatim in Rouleau & Levin 2023 ("morphologic and behavioral competencies cannot be explained by a long history of selection for those traits", grep-verified in the raw eNeuro HTML) and is attributed there.
+  - **"Volitional Agent Criterion" is not in the eNeuro paper.** The note flagged its provenance as second-hand and owed verification; a raw-HTML grep of the full text returns **0** hits for "volitional" and **0** for "criterion" (60,734 chars of stripped text, with `hybrots`/`biobot`/`xenobot` all present, so the fetch is the real article). Not attributed anywhere in the article.
+  - eNeuro authorship resolved: Rouleau, N. & Levin, M. (2023), *eNeuro* 10(11), ENEURO.0375-23.2023 (Crossref + `citation_author` meta). The article states plainly that Levin co-authors the rival — his xenobot sentience-bracketing is a bracketing, not a denial, and reading it as one would misrepresent him.
+- **Quotes**: all six external quotes are short (≤25 words) and grep-verified against a raw artefact — Rouleau & Levin ×3 against the raw eNeuro HTML; Hutchison 2016 ×2 ("531 kilobase pairs, 473 genes…", "Unexpectedly, it also contains 149 genes with unknown biological functions") against the PubMed abstract (PMID 27013737); Bongard 2006 ×2 against PubMed (PMID 17110570); Gumuskaya 2024/2025 against the Crossref abstracts. Author given-name initials taken from Crossref, not from the note.
+- **Calibration**: the opening carries both decisive qualifications rather than deferring them (epistemic asymmetry ≠ demonstrated absence; the multiple-realizability rival reads the same testbeds the other way and the evidence does not discriminate). The syn3.0 149-unknown-genes fact is used *against* the stronger designer's-privilege inference, not for it. The organizational-invariance grain ceiling is stated explicitly: the argument bites coarse functional-role accounts and does not reach Chalmers' grain-indexed principle.
+- **Self-citations**: 2 — `topics/basal-and-bioelectric-cognition`, `apex/competency-without-felt-experience`.
+- **Synced**: both trees; frontmatter validates; all 14 wikilinks resolve in `hugo/content/` (no strips), tenet block anchors resolve to `/tenets/#…`.
 
 ## 2026-09-01T21:53:18+00:00 - deep-review
 - **Status**: Success

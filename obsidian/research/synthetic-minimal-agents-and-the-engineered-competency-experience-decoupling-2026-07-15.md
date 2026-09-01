@@ -4,6 +4,7 @@ created: 2026-07-15
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
+consumed_by: "[[synthetic-minimal-agents-and-the-engineered-decoupling]]"
 ---
 
 # Research: Synthetic Minimal Agents and the Engineered Competency-Experience Decoupling
