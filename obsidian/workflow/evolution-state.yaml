@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 3
-    flagged_audits: 5
-    last_audit_date: '2026-08-25'
+    flagged_audits: 6
+    last_audit_date: '2026-09-01'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -91,7 +91,8 @@ audit_triple:
     - invertebrate-consciousness-as-interface-test
     - plant-cognition-and-the-plant-neurobiology-debate
     - brain-organoids-and-the-organoid-intelligence-question
-    total_audits: 8
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    total_audits: 9
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:

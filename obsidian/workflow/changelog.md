@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-08-27T20:51:00+00:00'
+ai_modified: '2026-09-01T13:43:42+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T13:43:42+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]]
+- **Research area**: neuron-less
+- **Median citation year**: 2018.5 (12 empirical citations 2010–2025, Map self-cites excluded; ~7.5 years behind `ai_modified` 2026-08-03; threshold 5)
+- **Recent papers found**: 3 (one WebSearch; metadata verified via Crossref and the Frontiers page — PubMed served a cookie wall and Annual Reviews a 403, so neither was trusted; the Brookes-repository PDF fetch mis-read the Annual Review's year as 2024 from the DOI stem, Crossref says 2025-07-16, vol. 48)
+- **Missing topically-appropriate**: 3 — Najle et al. 2023 *Cell* 186(21):4676–4693.e29, doi 10.1016/j.cell.2023.08.027 (placozoan peptidergic cells carry a neuron-like transcriptional and developmental program and pre-synaptic scaffold modules, unique to placozoans and absent in sponges and ctenophores); Sachkova, Modepalli & Kittelmann 2025 *Annu. Rev. Neurosci.* 48:311–329, doi 10.1146/annurev-neuro-112723-040945 (review of neuron origins covering nerveless sponges and placozoans; notes that the ctenophore-sister phylogeny implies sponge neuron-lessness may be loss or multiple origins, not primitive absence); Nikitin, Romanova, Borman & Moroz 2023 *Front. Neurosci.* 17:1125624, doi 10.3389/fnins.2023.1125624 (glutamate induces and partly mimics *Trichoplax* feeding cycles, glycine and GABA suppress them, ATP is biphasic — the same small-molecule transmitters Ho, Goss & Leys 2025 found coordinating the sponge sneeze). Corpus grep: none of the three cited anywhere under `obsidian/`.
+- **Superlative check**: 1 hit ("paracrine chemistry so far characterised", §The Sponge Floor closing paragraph — helper reports body-relative L9) — a hedge, not a record claim; no empirical-record currency drift.
+- **Frame check**: not frame-divergence — all three engage the article's own evidential frame (genomic toolkit vs functional presence; peptidergic volume signalling; ladder placement).
+- **Window caveat**: only Sachkova 2025 falls inside the strict 24-month window; Najle (Oct 2023) and Nikitin (Apr 2023) predate it but also predate the article's 2026-07-08 creation, so they are drift relative to creation, not only to today. The query surfaced no 2025–2026 primary papers; the refine pass should not assume the field stopped at these three.
+- **Outcome**: drift-flagged
+- **Task generated**: P2: Update neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition citations — 3 2020s papers missing (appended at the end of Active Tasks, before `## Completed Tasks`, so no existing task line shifts)
+- **State**: `audit_triple.literature_drift` — total_audits 8→9, flagged_audits 5→6 (clean 3), last_audit_date 2026-09-01, slug appended to recently_audited (9 entries). `last_runs["literature-drift-review"]` left to the driver (evolve_loop.py:899/917).
+- **Selection**: oldest unaudited active-research candidate was `ethics-of-consciousness-invertebrate-question` (ai_modified 2026-08-02, 0 superlatives); tie-broken to this article (2026-08-03, 1 superlative) under the superlative-density rule. Remaining unaudited pool: ethics-of-consciousness-invertebrate-question, bacterial-chemotaxis, predictive-processing-and-dualism, fish-sentience, basal-and-bioelectric-cognition, anaesthesia-and-the-consciousness-interface.
 
 ## 2026-08-27T20:51:00+00:00 - refine-draft
 - **Status**: Success
