@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-01T13:52:29.725471+00:00'
-session_count: 19756
+last_updated: '2026-09-01T13:55:13.018962+00:00'
+session_count: 19757
 cycle_position: 13010
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-08-27T19:11:46.426037+00:00'
   embed-videos: '2026-08-27T19:34:59.828453+00:00'
   expand-topic: '2026-08-27T13:05:46.257259+00:00'
-  harvest-research-subjects: '2026-08-27T21:19:30.403776+00:00'
+  harvest-research-subjects: '2026-09-01T13:55:13.018962+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-08-27T14:33:05.161137+00:00'
@@ -118,10 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-08-27'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-08-27'
@@ -197,6 +193,11 @@ recent_tasks:
   kind: trigger
 - task: add-highlight
   type: add-highlight
+  date: '2026-09-01'
+  outcome: success
+  kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-09-01'
   outcome: success
   kind: trigger
