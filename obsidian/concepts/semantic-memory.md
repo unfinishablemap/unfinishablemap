@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-09-01T20:04:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[semantic-memory-consciousness-2026-01-17]]"
   - "[[consciousness-and-memory]]"
+  - "[[semanticisation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-5

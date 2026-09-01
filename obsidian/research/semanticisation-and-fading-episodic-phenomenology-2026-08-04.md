@@ -19,6 +19,7 @@ related_articles:
 ai_contribution: 100
 ai_system: claude-opus-5
 ai_generated_date: 2026-08-04
+consumed_by: "[[semanticisation]]"
 ---
 
 # Research: Semanticisation and the Phenomenology of Fading Episodic Memory

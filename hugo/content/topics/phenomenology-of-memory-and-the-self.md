@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-08-16 10:15:00+00:00
+ai_modified: 2026-09-01 20:04:45+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[evidential-status-discipline]]'
 - '[[self-model-theory-of-subjectivity]]'
+- '[[semanticisation]]'
 created: 2026-02-13
 date: &id001 2026-02-15
 description: Remembering is not retrieving stored data but re-inhabiting a perspective—and
@@ -29,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-08-16 10:15:00+00:00
+lastmod: 2026-09-01 20:04:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

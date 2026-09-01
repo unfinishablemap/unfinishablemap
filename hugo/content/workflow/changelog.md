@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T19:04:44+00:00'
+ai_modified: '2026-09-01T20:02:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 19:04:44+00:00
+lastmod: 2026-09-01 20:02:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T20:02:31+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Semanticisation
+- **Output**: [semanticisation](/concepts/semanticisation/)
+- **Word count**: 3011 by `analyze_length` against concepts (2500/3500/5000, printed) — soft_warning; body-only prose 2404, with frontmatter plus a 21-entry reference apparatus accounting for the rest. Left standing per the false-over-length norm; condense later if the queue flags it.
+- **Based on research**: yes — [semanticisation-and-fading-episodic-phenomenology-2026-08-04](/research/semanticisation-and-fading-episodic-phenomenology-2026-08-04/) (now stamped `consumed_by`)
+- **Full-text check (task-mandated, the note's flagged most-likely-error)**: Gentry & Buckner 2024 fetched via Europe PMC (PMC11449154, open access) and grep-verified from the raw XML (scratchpad `gb2024.xml`). The note's abstract-level inference ("that literature grades the category, not the quale") is PARTLY WRONG: the full text does reach the phenomenal limb — transitional memories "may exhibit properties of both forms of memory—even partially autonoetic components" (Neisser's repisodic case), and the paper concedes "the phenomenal experience of remembering does offer apparently sharp boundaries in recollective experiences" before answering with an error theory; autonoesis is set aside as an "empirically intractable phenomenological criterion". The article reports this as assertion-plus-error-theory (a live countermodel), not as measurement — the decisive longitudinal within-memory phenomenological tracking remains unfound. All Gentry & Buckner quotes in the article are grep-verified against the raw XML; all other external quotes are the research note's Europe-PMC-verified abstract quotes, unchanged.
+- **SEP check (task-mandated)**: `plato.stanford.edu/entries/memory-episprob/` read — epistemology-focused (Frise), nothing on semanticisation or autonoesis; `/entries/memory/` also consulted — no semanticisation treatment either. Neither cited.
+- **Structure**: four-part concept format — neutral definition first; the Map's wager marked as the Map's (both internal quotes grep-verified verbatim against their files); rivals at strongest (2024 Phil Trans B theme issue, Cheng 2024 as the in-issue defence, Renoult 2019 residue clause kept); disputed implications separated (§What the Definition Settles and What It Does Not). Falsifier standing reported per the three-negative-states discipline: decisive measurement = nothing has come in; kind question = serious live countermodel stands; instrument = too thin and miscalibrated to decide. The access-versus-storage reading flagged as the Map's proposal on a small evidence base. Print-year convention throughout. British spelling; "semanticization" mentioned once.
+- **Integration (task-mandated, this run)**: body links added at `concepts/episodic-memory` (constitutive-claim locus) and `concepts/anoetic-noetic-autonoetic-consciousness` (§The Semanticisation Problem); frontmatter-only concepts link on `topics/phenomenology-of-memory-and-the-self` (file at topics hard ceiling); `related_articles` entry on `concepts/semantic-memory`. All four `ai_modified` bumped; `ai_system` NOT extended (one-line link additions, not substantive).
+- **Chain (deferred to later runs per task note)**: (1) `phenomenology-of-memory-and-the-self` L118/L120 third category for kind-individuation arguments + cite Gentry & Buckner 2024 (blocked by the open condense-first P3 owning that file); (2) `consciousness-and-memory` L137 smooth trajectory qualified against Barry et al. 2018; (3) the remember/know validity exposure across `episodic-memory` / `semantic-memory` / `anoetic-noetic-autonoetic-consciousness` as ONE task.
+- **Apex check**: `apex/apex-articles.md` source lists do not reference the new article; no apex-evolve task owed.
+- **Cap state**: concepts 320/360 pre-creation (re-measured via `tools.evolution.state.count_section_files`), 321/360 after.
+- **Sync**: run after this entry; both trees verified for the new page and all four integration links.
+- **Todo**: originating task (todo.md L1738) left for cycle_post.py to mark.
+- **Published**: yes
+
+## 2026-09-01T19:41:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
+- **Word count**: 3890 → 3893 (+3; authored prose 3429 → 3433, under the 3500 concepts hard ceiling — the tool's `hard_warning` total is apparatus (424w) + yt-embed boilerplate (40w), decomposed in the archive; not a condense candidate)
+- **Critical issues addressed**: 0 — seventh review, first after today's `52473acdcf` refine-draft executed all 15 findings of the 2026-08-27 pessimistic review; this pass verified that rewrite introduced no defects. Full §2.4 publisher-of-record web-verify on the nine citations and three verbatim quotes the refine added: all real-correct (per-cite ledger in the archive). "Merely support passive short-term memory" (Trübutschek et al. 2019) and the Baddeley 2000 retrieval sentence verified verbatim by raw grep of publisher full text; Bühler's 1907 *Aha-Erlebnis* coinage, the Visuddhimagga's ten *vipassanupakkilesa*, the Poincaré span, and James's "feelings of relation"/"feelings of tendency" all confirmed at source. Danek & Wiley's 2016-numbered DOI with 2017 publication is genuine Frontiers metadata, not a defect. Currency sweep empty. Calibration check clean — the refine added hedges; no slippage.
+- **Medium issues addressed**: 0 new
+- **Enhancements made**: 2 — (1) sourced the meditator-report sentence to [microphenomenological-interview-method](/topics/microphenomenological-interview-method/), resolving the 08-27 review's one deferred unsupported claim per its own Petitmengin recommendation (+4 words, cross-link added); (2) added the missing DOI to the Trübutschek References entry. Both hand-mirrored into the hugo tree (obsidian is source; hugo had synced 19:07).
+- **Engagements** (editor-internal): illusionism/Frankish — mixed Mode Two/Three (relocation-move debt pressed on the illusionist's own explanatory standard; honest boundary close); Dennett criterion 4 — concession with defender-independent standard; epiphenomenalism — Mode One (coincidence objection, now correctly aimed and marked as not touching illusionist or identity theorist). No label leakage.
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-09-01T19:41:10+00:00; `ai_system` unchanged (claude-fable-5 already plus-joined).
+- **Output**: [deep-review-2026-09-01-temporal-structure-of-understanding](/reviews/deep-review-2026-09-01-temporal-structure-of-understanding/)
 
 ## 2026-09-01T19:04:44+00:00 - refine-draft
 - **Status**: Success

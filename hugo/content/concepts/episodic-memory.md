@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-08-16 21:27:18+00:00
+ai_modified: 2026-09-01 20:04:45+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 20:42:32+00:00
-lastmod: 2026-08-16 21:27:18+00:00
+lastmod: 2026-09-01 20:04:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ How much the paradigm can carry is contested. Wixted and Mickes (2010) model rec
 
 The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this: you can access information without representing the original experience *as* an experience. Autonoetic consciousness requires the metarepresentational capacity that separates human cognition from [baseline cognition](/concepts/baseline-cognition/).
 
-Episodic memories can "semanticise"—losing autonoetic character while retaining content—which makes consciousness constitutive of the *kind* of memory you have rather than an accompaniment to it.
+Episodic memories can "semanticise"—losing autonoetic character while retaining content—which makes consciousness constitutive of the *kind* of memory you have rather than an accompaniment to it. [The semanticisation article](/concepts/semanticisation/) tracks where the evidence on that transformation stands.
 
 ## The Hard Problem in Memorial Form
 

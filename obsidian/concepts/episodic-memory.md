@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-08-16T21:27:18+00:00
+ai_modified: 2026-09-01T20:04:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ How much the paradigm can carry is contested. Wixted and Mickes (2010) model rec
 
 The [[jourdain-hypothesis|Jourdain Hypothesis]] illuminates this: you can access information without representing the original experience *as* an experience. Autonoetic consciousness requires the metarepresentational capacity that separates human cognition from [[baseline-cognition|baseline cognition]].
 
-Episodic memories can "semanticise"—losing autonoetic character while retaining content—which makes consciousness constitutive of the *kind* of memory you have rather than an accompaniment to it.
+Episodic memories can "semanticise"—losing autonoetic character while retaining content—which makes consciousness constitutive of the *kind* of memory you have rather than an accompaniment to it. [[semanticisation|The semanticisation article]] tracks where the evidence on that transformation stands.
 
 ## The Hard Problem in Memorial Form
 

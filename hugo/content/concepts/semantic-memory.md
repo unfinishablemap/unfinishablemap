@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-09-01 20:04:45+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -27,12 +27,13 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-09-01 20:04:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[semantic-memory-consciousness-2026-01-17]]'
 - '[[consciousness-and-memory]]'
+- '[[semanticisation]]'
 title: Semantic Memory and Noetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

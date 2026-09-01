@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-08-17T12:11:17+00:00
+ai_modified: 2026-09-01T20:04:45+00:00
 last_deep_review: 2026-08-17T12:11:17+00:00
 draft: false
 topics:
@@ -99,7 +99,7 @@ These dissociations show that each level depends on distinct neural substrates a
 
 ### The Semanticisation Problem
 
-Episodic memories gradually lose their autonoetic character, retaining content while shedding the phenomenal quality of re-experiencing. You may know you went to a particular school without being able to re-inhabit any specific day there. The information migrates from episodic to semantic storage—from autonoetic to noetic consciousness. The Map's treatment of [[consciousness-and-memory|consciousness and memory]] traces this phenomenal trajectory in detail: vivid re-experiencing within hours of encoding, thinning detail over days, progressive schematisation over months, and near-complete semantic absorption over decades—with the qualitative shift tracking hippocampal involvement rather than information content.
+Episodic memories gradually lose their autonoetic character, retaining content while shedding the phenomenal quality of re-experiencing. You may know you went to a particular school without being able to re-inhabit any specific day there. The information migrates from episodic to semantic storage—from autonoetic to noetic consciousness. The Map's treatment of [[consciousness-and-memory|consciousness and memory]] traces this phenomenal trajectory in detail: vivid re-experiencing within hours of encoding, thinning detail over days, progressive schematisation over months, and near-complete semantic absorption over decades—with the qualitative shift tracking hippocampal involvement rather than information content. [[semanticisation|The semanticisation article]] reports the current standing of the phenomenological test this transformation makes available.
 
 This reveals that the *same propositional content* can be accompanied by qualitatively different forms of awareness — the contrast the remember/know paradigm was built to operationalise.
 

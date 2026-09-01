@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-16T10:15:00+00:00
+ai_modified: 2026-09-01T20:04:45+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[evidential-status-discipline]]"
   - "[[self-model-theory-of-subjectivity]]"
+  - "[[semanticisation]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-self-minimal-narrative-and-substantial]]"

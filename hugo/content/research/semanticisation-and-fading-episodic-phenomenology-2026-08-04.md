@@ -8,10 +8,11 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[simulation-theory-of-memory]]'
+consumed_by: '[[semanticisation]]'
 created: 2026-08-04
-date: '2026-08-04'
+date: '2026-09-01'
 draft: false
-lastmod: 2026-08-04 00:00:00+00:00
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles:
 - '[[tenets]]'
 - '[[hard-problem-of-consciousness]]'
