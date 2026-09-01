@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Sherrington's Man on His Nature and the neuroscientist-dualist lineage
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-01-filter-vs-interface-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-01-filter-vs-interface-wing names this the review's one genuine article gap: the SEP lineage Penfield L50 quotes runs Sherrington (1951) -> Penfield (1975) -> Eccles (1994), and the Map holds two of the three members of its own cited lineage but not the first - Eccles's teacher, whose Gifford Lectures (1940) hold mind and energy as two ultimates. Sherrington appears in exactly one live article and no research note (reviewer-verified this run). Tenets 1/3 via the Penfield route; Tenet 5 on Sherrington's own parsimony point. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage-2026-09-01.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-01
+
 ### P3: `topics/phenomenology-of-cognitive-capacity` L139 certifies Tenet 3 from felt effort — "feels effortful because consciousness is doing real work … suggests the effort is causally efficacious" — against P-A4 (credence high); same family as the two 08-27 intellectual-life P3s, and its only empirical anchor is Ericsson 1993 stated as if the 2014 meta-analysis did not exist
 - **Type**: refine-draft
 - **Status**: pending
