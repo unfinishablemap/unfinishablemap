@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-16T13:50:58+00:00
+ai_modified: 2026-09-01T16:52:41+00:00
 last_deep_review: 2026-07-17T11:56:22+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[voids/confabulation-void]]"
   - "[[voids/noetic-feelings-void]]"
+  - "[[voids/disappearance-voids]]"
   - "[[voids/perceptual-reality-monitoring-void]]"
   - "[[voids/self-opacity]]"
   - "[[apex/introspection-architecture-void-cluster]]"
@@ -35,7 +36,7 @@ related_articles:
   - "[[process-content-distinction]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5
 ai_generated_date: 2026-05-19
 last_curated: null
 ---
@@ -65,6 +66,16 @@ The concept's analytic work depends on distinguishing three failure modes of a c
 - **Anti-correlation in the regime where it matters.** In the regime *R* where reliability of *C* is decision-relevant, *S* varies inversely with *C*. Averaging amplifies error in *R*; calibration-from-inside requires the very signal that is inverted. Calibration-from-outside is possible only if regime *R* can be identified independently of *S* — and in self-report contexts, the identification of *R* often *is* via *S*.
 
 The third case is what an anti-correlated metacognitive signal denotes. It is the strongest case for treating a metacognitive failure as a structural feature rather than a tractable engineering problem. Noise yields to statistics; miscalibration yields to scale; anti-correlation-in-regime yields only to *independent identification of the regime* — and where the introspector is the only instrument with access, that identification is not available from the inside.
+
+## The Acute-State Regime {#acute-states}
+
+Rebouillat's regime is built in a laboratory. A second family arrives unbuilt, driven by a physiological variable rather than an experimental manipulation, and reproduces the architecture: the felt sense of one's own impairment behaves as a separately generated signal that can decouple from, or run opposite to, the state it reports.
+
+The clearest case is alcohol's descending limb. At equal blood alcohol concentration on the descending rather than the ascending limb, willingness to drive rose by a weighted mean of 207% while driving performance was 96% worse and inhibitory control 30% worse (Holland and Ferner, 2017). Same subject, same concentration, opposite sign: the felt signal tracks the derivative of the state, not its level. The review's own caveat travels with it: several minor measures improved on the descending limb, and results for several domains were inconsistent between studies.
+
+Three further signatures fill out the limb. Under chronic sleep restriction subjects were "largely unaware" of cumulative deficits while sleepiness ratings plateaued and performance kept falling (Van Dongen et al., 2003); the authors leave open whether this is introspective failure or genuine adaptation of the felt state, and nothing closes it. Narcotised divers correctly judge they are impaired but misrank breathing gases at identical measured impairment (Hobbs, 2014): coarse channel open, fine channel closed. Recurrent hypoglycaemia progressively abolishes its own warning symptoms through hypoglycaemia-associated autonomic failure (Cryer, 2013), a deletion measurable in outcomes: 17.5% of adults with type 1 diabetes had impaired awareness, and those with it reported severe hypoglycaemia at 37.5% against 11.7% (Baxter et al., 2024).
+
+The deflation travels with the limb, and it is the point rather than a concession. Calibration, resolution and the validity of subjective certainty survive acute sleep loss intact (Baranski et al., 1994; Sundelin et al., 2026), and 75.8% of real in-flight hypoxia episodes were self-recognised by aircrew (Cable, 2003). These regimes are conditional exactly as Rebouillat's is: the signal inverts where the condition *transforms the gauge* rather than merely dulling what it reports on. [[voids/disappearance-voids]] carries the corrected sleep-loss treatment; [[voids/noetic-feelings-void]] holds the broader felt-rightness category this limb instantiates.
 
 ## Detection Asymmetry and the Discrimination Problem {#discrimination}
 
@@ -98,7 +109,7 @@ The concept is **silent on Tenets 2, 4, and 5**. Anti-correlation in introspecti
 
 Three limits constrain the concept's evidential reach.
 
-**Regime-identification problem.** The concept's force depends on identifying the regime *R* where anti-correlation operates. Outside laboratory paradigms with controlled internal-evidence manipulation, identifying which real-world regimes correspond to *R* is non-trivial. The Map treats the everyday confabulation literature (Nisbett-Wilson, Wheatley, Johansson-Hall, Haidt) as evidence that regimes *R*-like conditions are common rather than rare, but the inference from laboratory anti-correlation to natural-setting anti-correlation is methodological rather than direct.
+**Regime-identification problem.** The concept's force depends on identifying the regime *R* where anti-correlation operates. Outside laboratory paradigms with controlled internal-evidence manipulation, identifying which real-world regimes correspond to *R* is non-trivial. The Map treats the everyday confabulation literature (Nisbett-Wilson, Wheatley, Johansson-Hall, Haidt) as evidence that regimes *R*-like conditions are common rather than rare, but the inference from laboratory anti-correlation to natural-setting anti-correlation is methodological rather than direct. The [acute-state regimes](#acute-states) are the partial exception: each is identified by a physiological variable — blood alcohol concentration, hours of prior sleep, plasma glucose — measurable without routing through the signal.
 
 **Generalisation across cognitive domains.** The Rebouillat finding is in a perceptual-decision domain. Dijkstra and Fleming 2024 extends a related anti-correlation pattern to perceptual reality-monitoring. Whether the pattern extends to moral judgement, choice justification, source-attribution, and narrative integration — domains the [[voids/confabulation-void|confabulation void]] catalogues — is supported by *convergent* but not *identical* evidence. The healthy-adult-channel anchors for these adjacent domains (Haidt for moral, Johansson-Hall for choice, Nisbett-Wilson for self-attribution) do not all directly probe the confidence-accuracy inversion the Rebouillat paradigm isolates. The concept's reach across these domains is calibration-grade, not strong. The reach is also a *process-side* claim under the [[process-content-distinction|process/content distinction]]: the inverted signal concerns introspective access to the causal machinery generating a decision, not the phenomenal content of the decision itself; calibration must respect that the anti-correlation finding lives squarely on the process side the distinction names as least reliable.
 
@@ -109,6 +120,7 @@ Three limits constrain the concept's evidential reach.
 - [[discrimination-problem]] — the epistemological asymmetry the concept partially addresses
 - [[voids/confabulation-void]] — the void for which anti-correlation is the detection face
 - [[voids/noetic-feelings-void]] — the broader unreliability-of-felt-rightness void of which anti-correlation is one signature
+- [[voids/disappearance-voids]] — the voids treatment of the sleep-loss case, whose §"The Gauge That Comes Loose" this concept's acute-state limb extends
 - [[voids/perceptual-reality-monitoring-void]] — a parallel domain with a related anti-correlation finding (Dijkstra and Fleming 2024)
 - [[apex/introspection-architecture-void-cluster]] — the apex cluster where the concept is load-bearing
 - [[topics/introspection-architecture-independence-scoring]] — the per-cluster independence-scoring exhibit that runs the cluster against the four-criterion methodology
@@ -129,3 +141,11 @@ Three limits constrain the concept's evidential reach.
 5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
 6. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
 7. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+8. Holland, M. G., & Ferner, R. E. (2017). A systematic review of the evidence for acute tolerance to alcohol — the "Mellanby effect". *Clinical Toxicology* 55(6), 545–556. doi:10.1080/15563650.2017.1296576
+9. Van Dongen, H. P. A., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003). The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation. *Sleep* 26(2), 117–126. doi:10.1093/sleep/26.2.117
+10. Hobbs, M. B. (2014). Impairment from gas narcosis when breathing air and enriched air nitrox underwater. *Aviation, Space, and Environmental Medicine* 85(11), 1121–1124. doi:10.3357/ASEM.4003.2014
+11. Cryer, P. E. (2013). Mechanisms of hypoglycemia-associated autonomic failure in diabetes. *New England Journal of Medicine* 369(4), 362–372. doi:10.1056/NEJMra1215228
+12. Baxter, F., Baillie, N., Dover, A., Stimson, R. H., Gibb, F., & Forbes, S. (2024). A cross-sectional questionnaire study: impaired awareness of hypoglycaemia remains prevalent in adults with type 1 diabetes and is associated with the risk of severe hypoglycaemia. *PLOS ONE* 19(6), e0297601. doi:10.1371/journal.pone.0297601
+13. Baranski, J. V., Pigeau, R. A., & Angus, R. G. (1994). On the ability to self-monitor cognitive performance during sleep deprivation: a calibration study. *Journal of Sleep Research* 3(1), 36–44. doi:10.1111/j.1365-2869.1994.tb00102.x
+14. Sundelin, T., Jemstedt, A., Gavel, A., Schwartz, B. L., & Axelsson, J. (2026). The effect of sleep loss on retrospective metacognitive judgements across five cognitive tests. *Journal of Sleep Research* 35(2), e70141. doi:10.1111/jsr.70141
+15. Cable, G. G. (2003). In-flight hypoxia incidents in military aircraft: causes and implications for training. *Aviation, Space, and Environmental Medicine* 74(2), 169–172. PMID 12602449

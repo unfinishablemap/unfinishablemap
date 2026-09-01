@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Impairment Void"
 created: 2026-08-26
 modified: 2026-08-26
 human_modified: null
-ai_modified: 2026-08-27T01:22:31+00:00
+ai_modified: 2026-09-01T16:52:41+00:00
 draft: false
 target_section: voids
 topics:
@@ -191,6 +191,7 @@ The catalogue gains a **framework-independent** entry (every framework grants th
 ## Potential Article Angles
 
 1. **Absorb as a correction plus a new face** (recommended). Fix the false claim in [[disappearance-voids]] and add the acute-state limb to [[anti-correlated-metacognitive-signal]]. Highest value, lowest cost, spends no cap slot.
+   - **Both halves are now done.** The correction landed in [[disappearance-voids]] §"The Gauge That Comes Loose" (the section was renamed from "The Self-Undermining Observer" in the same pass) on 2026-08-27; the acute-state limb landed in [[anti-correlated-metacognitive-signal]] §"The Acute-State Regime" on 2026-09-01 (inversion, plateau, resolution limit and deletion, with the Baranski / Sundelin / Cable deflation carried alongside). This note therefore has **two** consuming hosts; `consumed_by` names only the first, because the corpus convention for that field is a single wikilink string.
 2. **Standalone "The Impairment Void"** built around the three gauge faces with the deflation foregrounded. Coherent, and framework-independent — but it would consume the catalogue's last slot for material whose main contribution is a correction to an existing article.
 3. **A calibration-register entry** in [[apex/taxonomy-of-voids]] pairing this with the olfactory void as the second documented case of a "structural" limit deflating under better sampling. Strong candidate if a pattern of two is worth registering.
 
