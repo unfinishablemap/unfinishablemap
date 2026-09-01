@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T16:24:31+00:00'
+ai_modified: '2026-09-01T16:41:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 16:24:31+00:00
+lastmod: 2026-09-01 16:41:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T16:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
+- **Word count**: 3503 → 3624 (+121 by `analyze_length`; body excl. frontmatter/References 3175 → 3274, +99 — length-neutral attempted at `soft_warning`, six trims taken, residual recorded not hidden)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6 (incl. 2 low fixes)
+- **Output**: [deep-review-2026-09-01-aesthetic-testimony-and-the-acquaintance-principle](/reviews/deep-review-2026-09-01-aesthetic-testimony-and-the-acquaintance-principle/)
+- **Notes**: Second pass; budget went to the 2026-08-16 experiments section (never reviewed) and dependency drift. Medium: (1) the Vessel "prediction" that the AP presses less on natural beauty is a standing datum — SEP aesthetic-testimony §6.1 cites Meskin 2004: 88–9 for it under the optimist arguments; recredited as a retrodiction, only the graded/measured pattern now "untested". (2) "His later study partly reverses this" — Andow 2020 author copy (UEA ePrints 70000, raw `pdftotext`) says "no great conflict" between his null and his mediation result; reframed with the quote. (3) "which Meskin does not name" was an absence claim about an unread paywalled paper; re-scoped to the two limbs SEP attributes to him. (4) `knowledge-argument` L128 (2026-08-19) files acquaintance as Conee's physicalist-available category; this article's sibling framing rests on that category and omitted the transfer — one Mode-Three sentence added, Conee 1994 to References (Crossref 10.1080/00048409412345971). Low: "Two decades on it remains untested" → "no study we have found tests it"; Andow chapter dated 2019 with DOI 10.5040/9781350038950.ch-002 (Crossref/Bloomsbury; note kept that Andow's own 2020 paper cites it as 2018). Ledger: 6 quotations added on 08-16 grep-verified verbatim in raw sources (SEP x-phi entry ×2, Andow 2020 ×3, Vessel via Europe PMC), plus the new "no great conflict"; Riggle pqaf092 still has no volume/issue. Cross-links: [P-D1](/positions/arguments-for-dualism/) on the partial-independence sentence (path-qualified — slug collides with `archive/concepts/`). Engagements: Meskin Mode One (strengthened *for* the opponent); Nguyen Mode One; Conee Mode Three (new; deferred to knowledge-argument's "contested ground", the two articles must move together); Shelley, Riggle Mode Three, unchanged. `ai_system` → `+claude-fable-5` (substantive additions). Synced; hugo mirror grep-verified (P-D1 → `/positions/arguments-for-dualism/`, "no great conflict", "88–9", Conee link). Remaining items: none.
 
 ## 2026-09-01T16:24:31+00:00 - refine-draft
 - **Status**: Success
