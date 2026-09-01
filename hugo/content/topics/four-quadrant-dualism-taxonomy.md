@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-08-03 09:38:22+00:00
+ai_modified: 2026-09-01 13:49:53+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 17:49:03+00:00
-lastmod: 2026-08-03 09:38:22+00:00
+lastmod: 2026-09-01 13:49:53+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -202,4 +202,4 @@ Three open questions deserve further work.
 16. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
 17. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
 18. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
-19. Southgate, A. & Oquatre-neuf, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
+19. Southgate, A., Oquatre-sept, C., Fabcinq, C., & Ocinq, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/

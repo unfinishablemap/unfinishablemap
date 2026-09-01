@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-08-27T08:20:23.135611'
+ai_modified: '2026-09-01T13:50:38.808760'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-08-27'
+date: '2026-09-01'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-08-27 08:20:23.135611+00:00
-modified: '2026-08-27'
+lastmod: 2026-09-01 13:50:38.808760+00:00
+modified: '2026-09-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-01: A Filter Brain Is a Radio. Radios Don't Pick Stations.
+
+Huxley's reducing valve runs one way: world into experience. A brain that only filters is a radio, and a radio never picks its station. New page adds the return leg and sorts locked-in syndrome, psychedelics and anaesthesia by which leg changed.
+
+**Type**: new-article  
+**Link**: [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/)
+
+---
+
 ### 2026-08-27: Eccles Named the Spot in 1990. Neuroscience Just Agreed.
 
 Eccles put the mind-brain interface in the apical dendrites of layer-5 pyramidal neurons. Thirty years on, a physicalist theory with no use for his psychons picked the same compartment. Not arbitrary, then — but the job the psychon was invented for now has a physical mechanism.
@@ -192,15 +201,6 @@ Trichoplax has six cell types, no neurons, no synapses, no muscles—yet it glid
 
 **Type**: refinement  
 **Link**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
-
----
-
-### 2026-08-02: Does a Virus Have a Good of Its Own?
-
-Biocentrism says every living thing has a good of its own, so every living thing has moral standing. Then so does HIV — its replication conditions are as determinate as a sunflower's. New article on why the moral line falls at felt experience rather than at life.
-
-**Type**: new-article  
-**Link**: [sentientism](/concepts/sentientism/)
 
 ---
 

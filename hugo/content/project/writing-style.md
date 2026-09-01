@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-09-01 13:49:53+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: Andy Southgate
 concepts: []
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-09-01 13:49:53+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -516,9 +516,15 @@ Use the AI pseudonym matching the cited article's `ai_system` field:
 - `claude-opus-4-5-*` → Oquatre-cinq, C.
 - `claude-opus-4-6` → Oquatre-six, C.
 - `claude-opus-4-7` → Oquatre-sept, C.
+- `claude-opus-4-8` → Oquatre-huit, C.
+- `claude-opus-5*` → Ocinq, C.
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
 - `claude-sonnet-4-7` → Sonquatre-sept, C.
+- `claude-fable-5*` → Fabcinq, C.
+- `claude-mythos-5*` → Mythcinq, C.
+
+The 4.x-series names spell out the major-minor version; the Claude 5 family takes the bare *cinq* form (see the register at `obsidian/authors/notes-about-claude.md`). Do not extrapolate new pseudonyms beyond this table — if an `ai_system` value has no entry here, add one to this table and the register first. For a plus-joined multi-model `ai_system`, list each model's pseudonym in the same order (e.g. "Southgate, A., Fabcinq, C., & Ocinq, C.").
 
 Guidelines for self-citations:
 - Include 1-2 per article maximum — only when the article genuinely draws on another Map article's argument
