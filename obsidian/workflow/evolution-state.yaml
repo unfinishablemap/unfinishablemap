@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-01T22:28:05.667103+00:00'
-session_count: 19786
-cycle_position: 13029
+last_updated: '2026-09-01T22:36:29.829297+00:00'
+session_count: 19787
+cycle_position: 13030
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-01T18:18:31.276767+00:00'
   pessimistic-review: '2026-09-01T15:32:47.582910+00:00'
-  positions-evolve: '2026-08-27T20:39:36.288861+00:00'
+  positions-evolve: '2026-09-01T22:36:29.829297+00:00'
   refine-draft: '2026-09-01T19:08:23.709483+00:00'
   replenish-queue: '2026-09-01T22:28:05.667103+00:00'
   research-topic: '2026-09-01T21:04:16.543233+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-01'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-01'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-01'
   outcome: success
   kind: replenish
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-09-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
