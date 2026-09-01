@@ -42,6 +42,17 @@ TASK_CYCLE: list[str] = [
 
 CYCLE_LENGTH = len(TASK_CYCLE)
 
+# Iteration kinds that advance cycle_position, i.e. that constitute real
+# progress through TASK_CYCLE. Every other kind (agentic_social, trigger,
+# collect, combine, replenish) is an interstitial leg that consumes an
+# iteration without moving the cycle on.
+#
+# Defined here rather than in cycle_post so cycle_pick can gate interstitial
+# work on cycle progress without importing the post-run module.
+CYCLE_CONSUMING_KINDS: frozenset[str] = frozenset(
+    {"queue", "cycle", "skip-queue-slot"}
+)
+
 # Less frequent tasks - run every N complete cycles
 # Key = skill name, Value = run every N cycles
 CYCLE_TRIGGERS: dict[str, int] = {

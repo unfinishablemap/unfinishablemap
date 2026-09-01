@@ -28,6 +28,7 @@ REPO_ROOT = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
 from tools.evolution.cycle import (  # noqa: E402
+    CYCLE_CONSUMING_KINDS,
     CYCLE_LENGTH,
     get_cycle_triggers,
     is_cycle_complete,
@@ -62,7 +63,9 @@ AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 # permanently unreachable. Including it in the cycle-consuming set means a skip
 # that lands on a cycle boundary still fires the anchoring audit + triggers,
 # which is exactly the mechanism that heals the queue organically.
-CYCLE_CONSUMING_KINDS = {"queue", "cycle", "skip-queue-slot"}
+# Canonical definition lives in cycle.py so cycle_pick can share it; re-exported
+# here because this module is where the set is applied.
+__all__ = ["CYCLE_CONSUMING_KINDS"]
 
 # Backoff windows for sentinel-string fault modes (mirror evolve_loop.py).
 AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS = 6
@@ -376,6 +379,7 @@ def main() -> int:
         task_type=args.skill,
         date=now.date().isoformat(),
         outcome=outcome,
+        kind=args.kind,
     )
     state.recent_tasks.append(task_record)
 

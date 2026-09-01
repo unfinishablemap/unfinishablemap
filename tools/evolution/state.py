@@ -77,6 +77,10 @@ class TaskRecord:
     outcome: str  # success, failed, partial
     duration_minutes: Optional[float] = None
     issues_found: Optional[int] = None
+    # Dispatch kind from cycle_pick ("queue", "cycle", "agentic_social",
+    # "trigger", ...). Optional so records written before this field existed
+    # still load; those parse as None and count as non-cycle-consuming.
+    kind: Optional[str] = None
 
 
 @dataclass
@@ -150,6 +154,7 @@ def load_state(path: Path) -> EvolutionState:
                 outcome=task_data.get("outcome", ""),
                 duration_minutes=task_data.get("duration_minutes"),
                 issues_found=task_data.get("issues_found"),
+                kind=task_data.get("kind"),
             )
         )
 
@@ -234,6 +239,8 @@ def save_state(state: EvolutionState, path: Path) -> None:
             task_dict["duration_minutes"] = task.duration_minutes
         if task.issues_found is not None:
             task_dict["issues_found"] = task.issues_found
+        if task.kind is not None:
+            task_dict["kind"] = task.kind
         recent_tasks.append(task_dict)
 
     data = {

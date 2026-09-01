@@ -34,7 +34,10 @@ from typing import Any
 REPO_ROOT = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
-from tools.evolution.cycle import get_cycle_task  # noqa: E402
+from tools.evolution.cycle import (  # noqa: E402
+    CYCLE_CONSUMING_KINDS,
+    get_cycle_task,
+)
 from tools.evolution.state import (  # noqa: E402
     EvolutionState,
     all_sections_at_cap,
@@ -65,6 +68,23 @@ MIN_QUEUE_TASKS = 3
 AGENTIC_SOCIAL_INTERVAL_MINUTES = 45
 AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS = 6
 
+# agentic-social preempts the cycle slot: when it is picked, the iteration is
+# spent on it and cycle_position does not advance. The time gate alone is
+# therefore unsafe — at any loop interval >= AGENTIC_SOCIAL_INTERVAL_MINUTES it
+# is satisfied on *every* iteration, so social wins every time and no queue
+# task, deep-review or other cycle work ever runs again.
+#
+# Two extra gates bound it from both sides:
+#   MIN_CYCLE_ADVANCES — real cycle progress must happen between posts, so
+#     social can never take more than 1-in-(N+1) iterations however slow the
+#     loop runs.
+#   MAX_STALL_MINUTES — but if the cycle itself is stalled (queue empty, every
+#     iteration idling), don't starve social indefinitely either; past this
+#     age it posts regardless of cycle progress. This is also the cadence
+#     agentic-social/SKILL.md documents ("every 4 hours").
+AGENTIC_SOCIAL_MIN_CYCLE_ADVANCES = 4
+AGENTIC_SOCIAL_MAX_STALL_MINUTES = 240
+
 # Chrome automation window (mirrors evolve_loop.py)
 AUTOMATION_WINDOW_START_HOUR_UTC = 0
 AUTOMATION_LAST_START_HOUR_UTC = 7
@@ -78,6 +98,22 @@ def _is_automation_window(now: datetime) -> bool:
     )
 
 
+def _cycle_advances_since_social(state: EvolutionState) -> int | None:
+    """Cycle-consuming iterations recorded since the last agentic-social post.
+
+    Returns None when no agentic-social entry is present in the recent_tasks
+    ring — it has aged out or has never run — in which case there is nothing
+    to rate-limit against and the time gate alone applies.
+    """
+    advances = 0
+    for record in reversed(state.recent_tasks):
+        if record.task == "agentic-social":
+            return advances
+        if (record.kind or "") in CYCLE_CONSUMING_KINDS:
+            advances += 1
+    return None
+
+
 def _should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     suspended_until = state.last_runs.get("agentic-social-suspended-until")
     if suspended_until is not None and now < suspended_until:
@@ -86,7 +122,15 @@ def _should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     if last_run is None:
         return True
     minutes_since = (now - last_run).total_seconds() / 60
-    return minutes_since >= AGENTIC_SOCIAL_INTERVAL_MINUTES
+    if minutes_since < AGENTIC_SOCIAL_INTERVAL_MINUTES:
+        return False
+    # Safety valve: a stalled cycle must not starve social forever.
+    if minutes_since >= AGENTIC_SOCIAL_MAX_STALL_MINUTES:
+        return True
+    advances = _cycle_advances_since_social(state)
+    if advances is not None and advances < AGENTIC_SOCIAL_MIN_CYCLE_ADVANCES:
+        return False
+    return True
 
 
 def _load_pending_triggers() -> list[str]:
