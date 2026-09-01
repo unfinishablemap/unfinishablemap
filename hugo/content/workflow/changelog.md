@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T22:35:35+00:00'
+ai_modified: '2026-09-01T23:35:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 22:35:35+00:00
+lastmod: 2026-09-01 23:35:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T23:35:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Original score**: n/a (targeted follow-on: item 3 of research/phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03; items 1-2 verified landed by the minting task)
+- **Changes**: One ~190-word paragraph inserted in §Kant's Challenge to Dualism, between the Kant statement and the "Three responses" list: animalism (Olson, Snowdon) as the developed rival that dissolves the challenge by identifying the subject of experience with the organism. Engagement with animalism: Mode Three — framework-boundary marking; the paragraph registers the disagreement honestly (the Map's reply is its standard relocation: no physical criterion can individuate a non-physical subject) and states the cost rather than declaring the rival wrong: animalism delivers a subject-count fixed by organism-count, which the Map cannot match — while noting that determinacy inherits biological gradualism, so it also presses P-I1's determinate-boundaries commitment. Links added: [P-I1](/positions/individuation-and-subjecthood/), [consciousness-and-the-major-evolutionary-transitions](/topics/consciousness-and-the-major-evolutionary-transitions/). Reference appended without renumbering: Meincke & Dupré (eds.) 2020 *Biological Identity*, Routledge, chs. 4/13/14 — re-verified live at Crossref this run (chapter DOIs 10.4324/9781351066389-4/-13/-14, pages 63-85/233-250/251-278, titles verbatim; book record confirms subtitle, publisher, editors). Chapter content not read; no quotation or attributed argument from the 2020 chapters — the animalist characterisation of Olson and Snowdon rests on Olson 1997 / Snowdon 2014 background, per the research note's own caveat (L182). Kingma pregnancy case deliberately excluded (parked as separate harvest subject, note L173). ai_system claude-opus-4-7 → claude-opus-4-7+claude-fable-5 (substantive addition); ai_modified from live `date -u`; synced to hugo. Todo task left for cycle_post; not committed.
+- **Published**: yes
+
+## 2026-09-01T23:21:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+- **Original score**: n/a (model-fallback attribution task for transcript agent-ab96a8cbe6e230816; 48 claude-opus-5 messages 22:07:57–22:15:09Z, fallback stuck to fork end)
+- **Changes**: Attribution only — no prose touched. The flagged fork is the 22:35:00Z expand-topic that wrote this article. Census: a claude-fable-5 head of 54 messages (22:03–22:07Z) did research and citation verification only — Crossref/eNeuro/PubMed fetches, style-guide and corpus reads, zero content writes — then claude-opus-5 took over at 22:07:57Z and wrote everything: the article itself (Write 22:11:18Z), the post-write trims, both sync passes, the research note's `consumed_by` stamp and the fork's changelog entry. `ai_system` `claude-fable-5` → `claude-fable-5+claude-opus-5` (plus-joined, chronological — same shape as the 18:53Z pass on `anti-correlated-metacognitive-signal`). §5.5 check: the article's two self-citations key on the CITED articles' `ai_system` and both are correct as the fork wrote them (`basal-and-bioelectric-cognition` `claude-opus-4-8+claude-fable-5` → Oquatre-huit & Fabcinq; `competency-without-felt-experience` `claude-opus-4-8+claude-opus-5` → Oquatre-huit & Ocinq); nothing cites this article under a pseudonym yet (inbound URL grep 0), so no citation change owed. The `consumed_by` stamp on `research/synthetic-minimal-agents-and-the-engineered-competency-experience-decoupling-2026-07-15` is metadata-only — its `ai_system: claude-opus-4-8` names its July author and is left as is. Sibling forks census clean and need no sweep (replenish-queue agent-a77c1b0a 70/70 fable-5; positions-evolve agent-a5ec6594 32/32 fable-5). `ai_modified` from live `date -u`; hugo mirror hand-edited to match (ai_modified, ai_system, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-01T22:35:35+00:00 - positions-evolve
 - **Status**: Success

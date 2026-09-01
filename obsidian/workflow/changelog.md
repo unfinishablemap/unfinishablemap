@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T23:21:42+00:00'
+ai_modified: '2026-09-01T23:35:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T23:35:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Original score**: n/a (targeted follow-on: item 3 of research/phenomenal-individuality-and-biological-individuality-pluralism-2026-08-03; items 1-2 verified landed by the minting task)
+- **Changes**: One ~190-word paragraph inserted in §Kant's Challenge to Dualism, between the Kant statement and the "Three responses" list: animalism (Olson, Snowdon) as the developed rival that dissolves the challenge by identifying the subject of experience with the organism. Engagement with animalism: Mode Three — framework-boundary marking; the paragraph registers the disagreement honestly (the Map's reply is its standard relocation: no physical criterion can individuate a non-physical subject) and states the cost rather than declaring the rival wrong: animalism delivers a subject-count fixed by organism-count, which the Map cannot match — while noting that determinacy inherits biological gradualism, so it also presses P-I1's determinate-boundaries commitment. Links added: [[positions/individuation-and-subjecthood|P-I1]], [[consciousness-and-the-major-evolutionary-transitions]]. Reference appended without renumbering: Meincke & Dupré (eds.) 2020 *Biological Identity*, Routledge, chs. 4/13/14 — re-verified live at Crossref this run (chapter DOIs 10.4324/9781351066389-4/-13/-14, pages 63-85/233-250/251-278, titles verbatim; book record confirms subtitle, publisher, editors). Chapter content not read; no quotation or attributed argument from the 2020 chapters — the animalist characterisation of Olson and Snowdon rests on Olson 1997 / Snowdon 2014 background, per the research note's own caveat (L182). Kingma pregnancy case deliberately excluded (parked as separate harvest subject, note L173). ai_system claude-opus-4-7 → claude-opus-4-7+claude-fable-5 (substantive addition); ai_modified from live `date -u`; synced to hugo. Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-01T23:21:42+00:00 - refine-draft
 - **Status**: Success
