@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T18:17:08+00:00'
+ai_modified: '2026-09-01T19:04:44+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 18:17:08+00:00
+lastmod: 2026-09-01 19:04:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T19:04:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
+- **Original score**: n/a (`scripts/curate.py review` does not exist in the repo — known stale skill step). Baseline is the 2026-09-01 literature-drift audit (Audit One): median empirical citation year 2018.5 against last-modified 2026-08-03; three topically-appropriate 2023–2025 papers verified missing from the corpus.
+- **Changes**: Landed the audit's three citations in ~330 words of body. (a) Lead: "on any reasonable reconstruction of nervous-system evolution" → "as a grade of organisation … a grade rather than a stage of descent", with a named-anchor forward reference to §Where This Sits on the Ladder; the absent substrate specified as "neurons and synapses" so the placozoan neuron-like cell type does not falsify the sentence. (b) §The Parts-List Precedes the Machine: new paragraph — Najle, Grau-Bové, Elek et al. 2023 [15] moves the parts-list from genome to cell type (placozoan peptidergic cells run a neuron-like transcriptional program with pre-synaptic scaffold modules and differentiate under neurogenesis-like signals; unique to placozoans, absent in sponges and ctenophores), explicitly splitting the two phyla the article otherwise treats as one floor; Sachkova, Modepalli & Kittelmann's reading (non-neuronal secretory cells likely closely related to neuronal ones) paraphrased, no verbatim quotes; the section's discipline restated against the stronger datum ("toolkit presence—genomic or cell-typological—is not functional presence…"). (c) §Placozoans: closing paragraph — Nikitin, Romanova, Borman & Moroz 2023 [17] transmitter inventory (L-glutamate induces and partly mimics the feeding cycle, glycine/GABA suppress, ATP biphasic; volume transmission), paired with Ho, Goss & Leys [4] as the shared nerveless transmitter set — the parallel case the sponge section's "paracrine chemistry so far characterised" hedge anticipated. (d) §Eating as Cognition: one sentence conceding that Najle and Nikitin strengthen Bechtel & Bich's chemistry-first hand (evidential-status discipline: the rival framing is helped, and the article says so). (e) §Ladder first caveat: under the ctenophore-sister phylogeny, per Sachkova [16], ancestral neurons were either lost in sponges or evolved more than once, so the sponge floor may be secondarily neuron-less. Schultz et al. 2023 NOT cited (unverified this run; the phylogeny claim is attributed to the review). The core no-purchase claim, the Tenet 2 minimality paragraph, and the Tenet 5 closing paragraph are untouched, per task. References appended 15–17, no renumbering.
+- **Engagements** (editor-internal): Bechtel & Bich — the existing precise-split boundary marking in §Relation to Site Perspective preserved unchanged (Mode Three, honest); the new sentence is an evidential-status concession, not an engagement change. No mode labels in article prose.
+- **Citation verification**: all three metadata sets verified at Crossref / the Frontiers page by the commissioning audit this run (see the 2026-09-01 literature-drift-review entry below); Sachkova's phrasings paraphrased rather than quoted since only the audit's extraction was available to this pass.
+- **Length**: 2717 words by `analyze_length` against topics (3000/4000/6000, printed) — status ok. Task measured body 2336 pre-edit.
+- **Frontmatter**: `ai_modified` → 2026-09-01T19:04:44+00:00 (live `date -u`); `ai_system` `claude-opus-4-8+claude-opus-5` → `claude-opus-4-8+claude-opus-5+claude-fable-5` (plus-joined).
+- **Sync**: run after this entry; both trees checked for "Najle" (present) and for false positives on the sponge/placozoan split (no text asserts sponges carry the neuron-like cell type).
+- **Todo**: originating task left for `cycle_post.py` to mark.
+- **Published**: yes
+
+## 2026-09-01T18:53:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Original score**: n/a (model-fallback attribution task for transcript agent-af4b0046cf1f8d758; 63 claude-opus-5 messages 16:48:30–16:55:10Z, session-level stick)
+- **Changes**: Attribution only — no prose touched. The window's sole changelog entry was the 16:53Z refine-draft on this file (the acute-state limb, refs 8–15), and the census shows Opus 5 wrote the entire edit after a three-message Fable head (one preamble sentence and one Read call — no authorship). `ai_system` `claude-opus-4-7+claude-fable-5` → `claude-opus-4-7+claude-fable-5+claude-opus-5` (plus-joined, chronological — same shape and same fix as the 2026-08-27 pass on `disappearance-voids`, where the stuck fork had likewise introduced the Fable link itself). No Fabcinq/Ocinq/pseudonym self-citations in the article and nothing cites it under a pseudonym, so no §5.5 change owed. The window's companion write, `research/voids-impairment-void-2026-08-26.md`, took a substantive angle-1 paragraph but already carries `claude-fable-5+claude-opus-5` from the earlier attribution task — left as is. The 16:41Z deep-review entry (`topics/aesthetic-testimony-and-the-acquaintance-principle`) is OUTSIDE the flagged window and belongs to sibling fork agent-ae53c3306d0b6ecaf, which censuses 63/63 claude-fable-5 — its `+claude-fable-5` append is correct and was not swept in (forks are served independently). `ai_modified` from live `date -u`; hugo mirror hand-edited to match (ai_modified, ai_system, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-01T18:17:08+00:00 - optimistic-review
 - **Status**: Success
