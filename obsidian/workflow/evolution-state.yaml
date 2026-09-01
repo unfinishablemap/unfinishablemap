@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-27T21:18:33.526324+00:00'
-session_count: 19753
+last_updated: '2026-08-27T21:19:30.403776+00:00'
+session_count: 19754
 cycle_position: 13010
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-08-27T20:24:42.274818+00:00'
+  agentic-social: '2026-08-27T21:40:05.945466+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
   check-model-fallback: '2026-08-27T17:34:58.842418+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-08-27T19:11:46.426037+00:00'
   embed-videos: '2026-08-27T19:34:59.828453+00:00'
   expand-topic: '2026-08-27T13:05:46.257259+00:00'
-  harvest-research-subjects: '2026-08-27T15:05:55.188032+00:00'
+  harvest-research-subjects: '2026-08-27T21:19:30.403776+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-08-25T05:07:32.477421+00:00'
   optimistic-review: '2026-08-27T14:33:05.161137+00:00'
@@ -117,10 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-08-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-08-27'
@@ -197,14 +193,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-08-27'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-08-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
-    date: '2026-08-20T20:38:37.570812+00:00'
-    topics:
-    - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    - interoceptive-consciousness-and-the-interface
-    - the-psychophysical-control-law
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
     date: '2026-08-20T22:38:03.825091+00:00'
     topics:
@@ -744,6 +738,12 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
     - amplification-mechanisms-consciousness-physics
+  - url: https://unfinishablemap.org/voids/relevance-void/
+    date: '2026-08-27T21:40:05.945426+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - relevance-void
 queue_status:
   last_replenishment: '2026-08-27T21:20:00+00:00'
   last_replenishment_mode: standard
