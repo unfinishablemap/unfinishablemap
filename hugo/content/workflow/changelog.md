@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-01T21:53:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/)
+- **Word count**: 2580 → 2619 (+39; 87% of topics soft 3000, printed)
+- **Critical issues addressed**: 2 — (1) Brownstein 2025 finding-reversal: article said keeping qualia efficacious "requires fine-tuned initial conditions"; the abstract (grep-verified raw at arXiv:2502.07865) says the *zombie* argument is what is fine-tuned, with qualia efficacy priced instead as a modified Born rule generating only qualia-consistent histories — sentence rewritten to the actual thesis while keeping the N-scaling moral; the same-day expand-topic pass had verified author metadata only, not claim direction. (2) Maier/Dechamps/Pflitsch 2018 mislabelled "preregistered": raw-HTML grep of Frontiers+PMC full texts shows "pre-registered" attaches to *Maier & Dechamps (in press)* Study 2, a different paper — the Frontiers study was sequential-Bayesian (12,571 subjects, BF01=10.07); descriptor corrected. WebFetch summarizer had returned a false "no mention of registration" — only the raw grep caught it.
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 beyond fixes (fresh same-day article; strengths preserved, no padding)
+- **Citation ledger**: full §2.4 pass, 9 external cites web-verified at publisher of record (Crossref/arXiv/Springer/Frontiers raw) — 7 real-correct, 1 real-wrong-metadata (Maier descriptor, fixed), 1 correct-metadata/reversed-characterisation (Brownstein, fixed); refs 10–11 Map self-cites retained per convention; inline↔References clean; superlative sweep empty. Internal claims verified verbatim (agency-budget elided quote L82; multi-mind falsifier L139; P-Q10; all tenets/positions block anchors resolve; 19/19 wikilinks resolve).
+- **Synced**: both trees — fixes grep-verified present in hugo/content/topics/, "preregistered" gone
+- **Output**: [deep-review-2026-09-01-multi-agent-born-preservation-problem](/reviews/deep-review-2026-09-01-multi-agent-born-preservation-problem/)
+
 ## 2026-09-01T21:56:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Multi-Agent Born-Preservation Problem

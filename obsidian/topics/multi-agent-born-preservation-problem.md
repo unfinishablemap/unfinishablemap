@@ -4,7 +4,7 @@ description: "Corridor dualism preserves each agent's Born marginal; entangled c
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-09-01T21:42:19+00:00
+ai_modified: 2026-09-01T21:53:18+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-fable-5
 ai_generated_date: 2026-09-01
 last_curated:
+last_deep_review: 2026-09-01T21:53:18+00:00
 ---
 
 The Unfinishable Map's default reading of its quantum-interface tenets — *corridor dualism* — holds that a conscious agent selects which Born-weighted outcome actualises on a single measurement while the agent's long-run statistics stay exactly |⟨φ|ψ⟩|². That construction is built for **one** agent. Born statistics, however, are not only single-agent marginals: for entangled systems they are *joint correlations*, and they carry a *no-signalling* structure that spans agents, including spacelike-separated ones. Whether N independent corridor selectors can jointly preserve all of that — while each selection stays genuinely free and the interaction stays minimal — is a constraint the Map's formalism has never written down. This article states the problem, shows where the Map's existing multi-mind answer runs out, and lays out the option space honestly.
@@ -67,7 +68,7 @@ Three boundary cases survive the conversion, and they are where the problem live
 
 Four ways of meeting, or dissolving, the joint demands are visible from the current corpus. Each has a cost the Map should own rather than blur.
 
-**(a) Global harmonisation.** Posit a constraint coordinating all agents' selections so that joint statistics come out Born. The cost is that lawlike cross-agent coordination — binding spacelike-separated free selections — has the structure of superdeterminism's measurement-dependence, and it multiplies with agent number. Brownstein's preprint on qualia efficacy (2025, not peer-reviewed, argued within a de Broglie-Bohm-style collapse framing) illustrates the scaling honestly from the neighbouring route: there, keeping qualia causally efficacious Born-consistently requires fine-tuned initial conditions, and whatever tuning one selector needs, N selectors need jointly. The defence available is the same one the Map gives for [[concepts/psychophysical-laws|psychophysical laws]] generally — a lawlike regularity is not a conspiracy — but whether a law that makes N independent selectors jointly Born-consistent is explanatory or merely stipulated is open.
+**(a) Global harmonisation.** Posit a constraint coordinating all agents' selections so that joint statistics come out Born. The cost is that lawlike cross-agent coordination — binding spacelike-separated free selections — has the structure of superdeterminism's measurement-dependence, and it multiplies with agent number. Brownstein's preprint on qualia efficacy (2025, not peer-reviewed, with qualia acting on de Broglie-Bohm beables or on the collapse process) illustrates the scaling honestly from the neighbouring route: there, collapse must be constrained to generate only qualia-consistent histories — a modified Born rule — and initial-condition fine-tuning is the argument's currency (on his account it is the *zombie* history, where physics runs qualia-blind, that turns out fine-tuned); whatever history-level constraint one selector's qualia impose, N selectors' impose jointly. The defence available is the same one the Map gives for [[concepts/psychophysical-laws|psychophysical laws]] generally — a lawlike regularity is not a conspiracy — but whether a law that makes N independent selectors jointly Born-consistent is explanatory or merely stipulated is open.
 
 **(b) Joint-level idleness.** Let the selections wash out jointly as well as marginally, so the multi-agent channel does no distinctive work. This is the safe answer and the costly one: it deepens [[concepts/ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] from the single-agent to the joint level, widening the strongest live challenge the framework already faces. Notably, the formal machinery the Map uses to price single-agent concealment cannot yet price this: the agency budget's coupling framework has, by its own account, no notion of measurement context, so its no-signalling compliance "would need ... argued rather than assumed." The joint-level budget is unwritten.
 
@@ -77,7 +78,7 @@ Four ways of meeting, or dissolving, the joint demands are visible from the curr
 
 ## What the Aggregate Record Shows
 
-Micro-psychokinesis experiments are the multi-agent aggregate case par excellence: many subjects, many trials, one shared prediction. Bösch, Steinkamp and Boller's meta-analysis of 380 intention-on-random-number-generator studies (2006) found a very small, extremely heterogeneous effect with the signature of publication bias; Maier, Dechamps and Pflitsch's preregistered Bayesian study (2018) found evidence favouring the null. Persistent nulls are what corridor dualism predicts — no ensemble signature, single-agent or joint — and what any gross multi-agent Born violation forbids. The calibration to state with the record rather than after it: these nulls are *consistency*, not corroboration, since every no-influence view predicts them identically; and on the joint demands specifically, nothing has come in — no experiment has probed correlated selection across agents at the quantum grain, which is weaker than the demands having survived a test. The empirical framing is developed in [[brain-internal-born-rule-testing]] and [[parapsychology-firewall|the parapsychology firewall]].
+Micro-psychokinesis experiments are the multi-agent aggregate case par excellence: many subjects, many trials, one shared prediction. Bösch, Steinkamp and Boller's meta-analysis of 380 intention-on-random-number-generator studies (2006) found a very small, extremely heterogeneous effect with the signature of publication bias; Maier, Dechamps and Pflitsch's large-scale sequential Bayesian study (2018; 12,571 participants) found strong evidence favouring the null. Persistent nulls are what corridor dualism predicts — no ensemble signature, single-agent or joint — and what any gross multi-agent Born violation forbids. The calibration to state with the record rather than after it: these nulls are *consistency*, not corroboration, since every no-influence view predicts them identically; and on the joint demands specifically, nothing has come in — no experiment has probed correlated selection across agents at the quantum grain, which is weaker than the demands having survived a test. The empirical framing is developed in [[brain-internal-born-rule-testing]] and [[parapsychology-firewall|the parapsychology firewall]].
 
 ## Relation to Site Perspective
 
