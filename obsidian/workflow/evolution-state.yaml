@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-08-27T21:19:30.403776+00:00'
-session_count: 19754
+last_updated: '2026-09-01T13:46:42.778485+00:00'
+session_count: 19755
 cycle_position: 13010
 last_runs:
   add-highlight: '2026-08-27T08:22:51.693277+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-08-27T13:05:46.257259+00:00'
   harvest-research-subjects: '2026-08-27T21:19:30.403776+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-08-25T05:07:32.477421+00:00'
+  literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-08-27T14:33:05.161137+00:00'
   pessimistic-review: '2026-08-27T11:14:20.500334+00:00'
   positions-evolve: '2026-08-27T20:39:36.288861+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-08-27T20:39:37.079958+00:00'
+last_git_push: '2026-09-01T13:50:50.804098+00:00'
 last_tweet_date: '2026-08-27'
 content_stats:
   total_files: 297
@@ -118,10 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-08-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-08-27'
@@ -198,6 +194,11 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-08-27'
   outcome: success
+- task: literature-drift-review
+  type: literature-drift-review
+  date: '2026-09-01'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
