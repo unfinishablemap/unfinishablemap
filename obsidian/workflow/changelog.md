@@ -5,6 +5,12 @@ ai_modified: '2026-09-01T20:36:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-01T21:03:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sherrington's Man on His Nature and the neuroscientist-dualist lineage
+- **Output**: [[research/sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage-2026-09-01]]
+- **Sources consulted**: 16 (SEP dualism entry verified at source; Crossref/Europe PMC metadata checks for Beck-Eccles 1992, Eccles 1994, Arshavsky 2006, Eccles & Gibson 1979; primary-text access blocked, all Sherrington quotes flagged secondary-verified only)
+
 ## 2026-09-01T20:36:30+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
 - **Cap state**: re-measured via `tools.evolution.state.count_section_files` against the caps raised this morning (commit 4917dafa99): topics 320/360, concepts 321/360, voids 99/115, positions 17/80. No section above 90% — the cap-pressure case for a marginal merge is the weakest in months.
