@@ -4,7 +4,7 @@ description: "Xenobots, anthrobots and minimal synthetic cells are built, not fo
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-09-01T22:15:40+00:00
+ai_modified: 2026-09-01T23:21:42+00:00
 draft: false
 topics:
   - "[[basal-and-bioelectric-cognition]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5
 ai_generated_date: 2026-09-01
 last_curated:
 ---
