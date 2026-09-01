@@ -1,8 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T15:12:55+00:00'
+ai_modified: '2026-09-01T15:32:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-09-01T15:32:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/meditation-and-consciousness-modes]] (3296w; oldest human-`modified` article never pessimistically reviewed; nine prior deep reviews, none checked the body against the lead's 07-11 calibration or against the positions register). Six-persona pass plus evidential-status, reasoning-mode, altered-state-symmetry and citation checks; four abstracts pulled raw from Europe PMC (Brewer 2011, Rodriguez-Larios 2020, Brefczynski-Lewis 2007, Lomas 2015) plus Nakatani 2003 and Saxena 2009. Three High: (1) the FA/OM neural dissociation the lead withdraws is re-asserted by both signature lists, the Summary table, the `description:` and the sibling `witness-consciousness` table — and Brewer (DMN deactivated across all types incl. Concentration), Lomas (mindfulness raises alpha AND theta) and Brefczynski-Lewis (inverted U over expertise) contradict the specifics; the inhibition-vs-disengagement DMN distinction is uncited; (2) No Many Worlds L244–246 slides from felt absence of steering to metaphysical non-selection and then argues what the Map's own L157–164 unsteered-dynamics account cannot win — the same "under MWI X would be an illusion" construction todo L78/L1689 track, locus not yet listed; (3) "Effort *is* rapid observation" + "This is quantum Zeno at work" (indicative) vs the article's own trained-effortlessness and ninth-śamatha-stage effortless focus. Five Medium: mechanism pinned to Stapp-Zeno without noting P-Q4's demotion (witness "observation rate" has no post-decoherence analogue; L232 equivocates awareness/probing); "not independently replicated" (Schwartz) falsified by Nakatani 2003 right-caudate rCBF — phrase live in 8 files, sweep recommended to driver; illusionist reply non-sequitur at L174 contradicted by L149 and un-inherited constructivist hedge from comparative-phenomenology L155; Sāṅkhya rival dualism (*akartā*) answered by analogy under "Resolution", sibling unlinked; Tenet 3 modal weakening ("possibility, not necessity") registered in no position. Symmetry audit: out of scope (one supportive item), manual read agrees. One P2 refine-draft minted on the reviewed article only.
+- **Output**: [[reviews/pessimistic-2026-09-01-meditation-and-consciousness-modes]]
+
 ---
 
 ## 2026-09-01T15:12:55+00:00 - refine-draft
