@@ -4,7 +4,7 @@ description: "Human+AI exploration of why Occam's Razor may be a cognitive bias 
 created: 2026-02-22
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-06-01T02:57:36+00:00
+ai_modified: 2026-09-01T14:48:53+00:00
 last_deep_review: 2026-07-06T14:33:13+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-22
 last_curated:
 ---
@@ -34,7 +34,9 @@ This is a [[voids|void]] in the specific sense the Map tracks: a place where the
 
 Simplicity preferences did not emerge from philosophical reflection. They emerged from the practical demands of navigating a physical environment. Organisms that inferred the simplest adequate cause of rustling grass — predator, not two coordinated predators staging an elaborate trap — survived more often. Pattern compression serves biological fitness. It does not serve metaphysical truth.
 
-The standard philosophical observation — developed by Michael Huemer (2009) and Elliott Sober (2001), and examined in [[parsimony-epistemology|parsimony epistemology]] and the Map's [[epistemological-limits-occams-razor|arguments article]] — is that parsimony lacks universal justification. The voids-level concern goes deeper. Parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
+Quine gave the claim its canonical form. "Natural Kinds" (1969) holds that "a standard of similarity is in some sense innate": the "distinctive spacings" of qualities that all learning presupposes "cannot themselves all be learned; some must be innate," and the real question of induction is "why does our innate subjective spacing of qualities accord so well with the functionally relevant groupings in nature as to make our inductions tend to come out right?" Quine's answer is Darwinian: "the spacing that has made for the most successful inductions will have tended to predominate through natural selection." This is the best available defence of the razor, and it defends reliability, not access: the spacing was selected for inductive success, never presented for inspection, and trust in it cannot be checked from inside. Quine also expected the notion to disappear ("a very special mark of the maturity of a branch of science that it no longer needs an irreducible notion of similarity and kind"), an eliminativist bet the Map records without endorsing.
+
+The standard philosophical observation — developed by Michael Huemer (2009) and Elliott Sober (2001), and examined in [[parsimony-epistemology|parsimony epistemology]] and the Map's [[epistemological-limits-of-occams-razor|arguments article]] — is that parsimony lacks universal justification. The voids-level concern goes deeper. Parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
 
 If this is right, then parsimony functions less like a defeasible heuristic we can set aside when warranted and more like a cognitive lens we cannot remove.
 
@@ -43,6 +45,8 @@ A fair objection: cognitive architecture doesn't only push toward simplicity. Hu
 ## The Self-Referential Trap
 
 Evaluating whether parsimony is reliable requires a standard of comparison — some parsimony-independent access to truth. But if simplicity preferences are woven into cognition at the architectural level, no such access exists. Every evaluation of the principle is conducted through the principle.
+
+Nelson Goodman's "Seven Strictures on Similarity" (1972) shows how deep the trap goes. The razor prefers the simplest hypothesis; the simplest is the continuation most like the data; and "most like" is relative to a similarity basis the data do not fix, since "any two things have exactly as many properties in common as any other two." The fifth stricture applies this to induction: "No matter what happens, the future will be in some way like the past." Given a plot of data, the next point on the straight line is like all the earlier ones, but so is the next point on any curve through them: each "is like all earlier points in falling on the same curve." "Circumstances alter similarities": the situation, not the things compared, sets which respects count. This is stronger than the Sober–Huemer position above that parsimony lacks universal justification: the respects along which any simplicity ordering cuts are selected below the level at which the razor is applied, so the mind wielding it neither chooses nor inspects the seam. [[research/voids-similarity-void-2026-08-27|The similarity-void survey]] collects the evidence that the respects are set sub-personally and recovered, if at all, from outside.
 
 Consider: when someone finds physicalism more *plausible* than dualism, some of that plausibility may derive not from the strength of physicalist arguments but from the cognitive satisfaction of a theory with fewer ontological categories — one that fits more neatly into the mind's compression routines. This preference registers as *intuitive plausibility*, the felt sense that one theory is more likely true. But felt plausibility is the output of cognitive architecture, not an independent signal from reality.
 
@@ -94,7 +98,7 @@ Second, intellectual humility becomes more than a virtue — it becomes a method
 
 ## Relation to Site Perspective
 
-This article directly supports [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]] by locating the limits not just in philosophy but in cognitive architecture. Parsimony may be limited not because philosophers have identified exceptions, but because the principle is an evolved heuristic with a restricted domain of reliability — and consciousness falls outside that domain.
+This article directly supports [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]] by locating the limits not just in philosophy but in cognitive architecture. Parsimony may be limited not because philosophers have identified exceptions, but because the principle is an evolved heuristic with a restricted domain of reliability — and consciousness falls outside that domain. Goodman's stricture locates the limit one level lower still, in the similarity basis that any simplicity ordering presupposes and neither data nor introspection supply.
 
 The Map reads this as *clearing space for* [[tenets#^dualism|Tenet 1 (Dualism)]], not as establishing it. If the primary obstacle to taking dualism seriously is parsimony-driven implausibility, and that implausibility may reflect cognitive architecture rather than truth, then the obstacle is weaker than it appears. But as the symmetry concession above makes explicit, removing that obstacle restores a whole cluster of less-parsimonious views to candidacy — panpsychism and Russellian monism among them — and the void supplies no parsimony-independent reason to prefer dualism over its cluster-mates. The Map's commitment to dualism therefore rests on its other arguments (phenomenal authority, the interaction tenets, the rejection of Many-Worlds), not on this void. What the void contributes is narrower and entirely consistent with Tenet 5: it shows that the dispute among physicalism and the anti-parsimony cluster is underdetermined by the criterion most often used to settle it. The hard problem's persistence — despite sustained effort across centuries — is consistent with genuine ontological complexity that simplicity-biased minds struggle to accept, but it is equally consistent with several such ontologies, and the void does not adjudicate between them.
 
@@ -114,7 +118,9 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 ## References
 
 1. Crick, F. (1988). *What Mad Pursuit*. Basic Books.
+1. Goodman, N. (1972). "Seven Strictures on Similarity." In *Problems and Projects*. Bobbs-Merrill, pp. 437-446.
 1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349-366.
+1. Quine, W. V. (1969). "Natural Kinds." In *Ontological Relativity and Other Essays*. Columbia University Press, pp. 114-138.
 1. Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 1. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199(3-4): 11109-11132.

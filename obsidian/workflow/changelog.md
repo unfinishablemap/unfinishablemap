@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T14:39:30+00:00'
+ai_modified: '2026-09-01T14:55:25+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+---
+
+## 2026-09-01T14:55:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/epistemological-limits-occams-razor]]
+- **Original score**: n/a (`scripts/curate.py review` does not exist in the repo — known stale skill step; the task note's on-disk analysis was used instead)
+- **Word count**: 2422 → 2825 body words (+403; voids hard cap 3000)
+- **Changes**: (1) Folded the Occam anchor from [[research/voids-similarity-void-2026-08-27]] into two existing sections. §A Heuristic Shaped by Survival gains Quine 1969 "Natural Kinds": innate similarity standard, the Darwinian reply calibrated as a defence on *reliability, not access*, and the maturity thesis recorded as an eliminativist bet the Map does not endorse (Strößner 2026 deliberately not cited — the note read only its abstract). §The Self-Referential Trap gains Goodman 1972's fifth stricture in curve-fitting form, stated as a stronger claim than the Sober–Huemer "lacks universal justification" position; grue omitted (FF&F edition not verified, and the curve-fitting form carries the point). (2) Tenet 5 paragraph: one sentence locating the limit in the similarity basis that any simplicity ordering presupposes. (3) Self-link fix: `[[epistemological-limits-occams-razor|arguments article]]` → `[[epistemological-limits-of-occams-razor|arguments article]]`; Hugo copy now renders `/arguments/epistemological-limits-of-occams-razor/` (was a link to itself). (4) References added in the file's auto-numbered `1.` form: Goodman 1972 (*Problems and Projects*, Bobbs-Merrill, pp. 437-446) and Quine 1969 (Columbia UP, pp. 114-138 — page range from the publisher-deposited Crossref record for DOI 10.7312/quin92204-006, chapter "5. Natural Kinds"; the Reidel reprint's pp. 5-23 was not copied). (5) One body cross-link to the similarity-void survey.
+- **Quote verification**: all nine quoted fragments (five Goodman, four Quine) grepped in `pdftotext` output of the gwern scans (3695 and 8079 words respectively), not confirmed via summary prompts. Note the Darwinian sentence is quoted in its exact form, "the spacing that has made for the most successful inductions will have tended to predominate through natural selection", rather than the research note's paraphrase.
+- **Engagement classification**: Quine's maturity thesis — Mode Three; framework-boundary disagreement recorded honestly ("records without endorsing"), not presented as refuted. No other new named-opponent engagement.
+- **Preserved untouched**: the symmetry concession (§What This Changes) and the "clearing space for, not establishing" register (§Relation to Site Perspective) — Goodman strengthens the void, not dualism over its cluster-mates.
+- **Bookkeeping**: `consumed_by: "[[epistemological-limits-occams-razor]]"` stamped on the research note (its `ai_modified` bumped); `task_chains.pending_articles` not written; article `ai_system` extended to `claude-opus-4-6+claude-fable-5`; `last_deep_review` unchanged.
+- **Published**: yes
+
 ---
 
 ## 2026-09-01T14:39:30+00:00 - deep-review

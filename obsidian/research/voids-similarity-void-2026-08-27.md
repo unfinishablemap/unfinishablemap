@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Similarity Void"
 created: 2026-08-27
 modified: 2026-08-27
 human_modified: null
-ai_modified: 2026-08-27T20:12:19+00:00
+ai_modified: 2026-09-01T14:48:53+00:00
 draft: false
 target_section: voids
 topics:
@@ -24,6 +24,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-fable-5
 ai_generated_date: 2026-08-27
+consumed_by: "[[epistemological-limits-occams-razor]]"
 last_curated: null
 ---
 
