@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-24 10:17:29.436301+00:00
+ai_modified: 2026-09-01 14:39:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[emotion-and-dualism]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 created: 2026-07-09
-date: &id001 2026-08-02
+date: &id001 2026-09-01
 description: Humor as a third aesthetic category beside beauty and the sublime, and
   mirth as a candidate irreducible quale, with the computational rival at full strength.
 draft: false
@@ -22,8 +22,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/PFzGcbV-844
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-02 14:22:00+00:00
-lastmod: 2026-08-24 10:17:29.436301+00:00
+last_deep_review: 2026-09-01 14:39:30+00:00
+lastmod: 2026-09-01 14:39:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Here is the move that matters for the Map. Notice what Clark's three conditions 
 
 This residue is the point of contact with the Map's core aesthetic argument. In the treatment of the [sublime, tragedy, and disgust](/topics/the-sublime-and-negative-aesthetics/), the recurring pattern is that a structural or functional description fixes *why* a response is triggered while leaving untouched *what it is like* to have it. The comic exhibits the same shape. A complete incongruity-resolution analysis of a joke specifies the setup, the misdirection, the reinterpretation that resolves it—and a person can follow every step, verify that the structure is present, and remain unamused. Comedians know this as "explaining the joke," which reliably kills it: the structure survives the explanation intact while the mirth evaporates. On one reading, that dissociation shows the felt "click" is a further fact, not entailed by the structural description.
 
-Call this the **mirth-quale reading**: amusement is an [evaluative quale](/concepts/evaluative-phenomenal-character/)—a felt, non-propositional evaluation—whose presence is not fixed by the structural facts about the joke. It stands to the incongruity as [phenomenal value](/topics/phenomenal-value-realism/) stands to the physical state that carries it. And it connects to the acquaintance principle explored under [aesthetic testimony](/topics/aesthetic-testimony-and-the-acquaintance-principle/): being *told* a joke is funny is not amusement. You must feel the click yourself. Testimony transmits the proposition "this is funny" without transmitting the mirth—which is exactly what you would expect if mirth were an evaluative quale rather than a belief.
+Call this the **mirth-quale reading**: amusement is an [evaluative quale](/concepts/evaluative-phenomenal-character/)—a felt, non-propositional evaluation—whose presence is not fixed by the structural facts about the joke. It stands to the incongruity as [phenomenal value](/topics/phenomenal-value-realism/) stands to the physical state that carries it. And it connects to the acquaintance principle explored under [aesthetic testimony](/topics/aesthetic-testimony-and-the-acquaintance-principle/): being *told* a joke is funny is not amusement. You must feel the click yourself. Testimony transmits the proposition "this is funny" without transmitting the mirth—which is what you would expect if mirth were an evaluative quale rather than a belief. That dissociation separates mirth from belief; it does not by itself separate a felt quale from an unfelt reward state, and the naturalizing account [stated below](#the-naturalizing-rival-at-full-strength) predicts the same non-transmission, since being told that a joke is funny triggers no covert-error retraction.
 
 ## The Naturalizing Rival, at Full Strength
 
@@ -83,7 +83,7 @@ The reply that reaches the argument this article actually rests on is sharper, a
 
 **[Dualism](/tenets/#dualism)**: The comic offers a fresh test case for the Map's central claim that evaluative experience resists reduction to physical or functional description. The structural theories fix the object of humor—resolvable incongruity—while leaving mirth as an extra term (Clark's "enjoyed for itself" clause). On the mirth-quale reading, that residue is an irreducible evaluative quale, a sibling of the aesthetic [knowledge argument](/concepts/knowledge-argument/): full structural knowledge of a joke need not amount to felt amusement. The Map takes this seriously as a live interpretation rather than as proven, and stops short of claiming that a system could never be amused. The reason is the one given above: *Inside Jokes* supplies a complete functional story on which mirth is an evolved reward with no experiential primitive, and that story is not refuted by the phenomenology—it is a rival reading of the same phenomenology.
 
-The corroboration between the mirth case and the aesthetic knowledge argument is real but **partial**, and the connection should not be oversold. Both trade on the same underlying intuition—that first-person acquaintance delivers something third-person structural description omits. That shared root is a strength (convergence across aesthetic categories) and a weakness (a single debunking explanation, of the sort *Inside Jokes* offers for mirth, threatens to hit both cases at once). They are not two independent routes to the same conclusion; they are two applications of one intuition, and an opponent who neutralizes the intuition neutralizes both together.
+The corroboration between the mirth case and the aesthetic knowledge argument is real but **partial**, and the connection should not be oversold. Both trade on the same underlying intuition—that first-person acquaintance delivers something third-person structural description omits. That shared root is a strength (convergence across aesthetic categories) and a weakness (a single debunking explanation, of the sort *Inside Jokes* offers for mirth, threatens to hit both cases at once). They are not two independent routes to the same conclusion; they are two applications of one intuition, and an opponent who neutralizes the intuition neutralizes both together—the count-inflation the positions register forbids under [P-D2](/positions/arguments-for-dualism/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The *Inside Jokes* account is the simpler theory—one evolved reward function, no extra ontology of qualia—and simplicity is a genuine mark in its favor. Tenet 5 does not deny this; it denies that simplicity is a *reliable* guide where our knowledge is incomplete. The functional story achieves parsimony partly by declining to explain why covert-error correction should be *felt* at all rather than executed as an unfelt subroutine, which is precisely the [hard problem](/topics/hard-problem-of-consciousness/) localized to mirth. Whether that unexplained "why it is felt" is a genuine explanandum the simpler theory neglects, or a pseudo-question the simpler theory rightly ignores, is exactly what is in dispute. The Map's position is that we do not yet know enough about consciousness to be confident the parsimonious functional account has captured everything—not that its parsimony is a defect.
 
@@ -101,10 +101,10 @@ A note on evidential weight. The claims here are philosophical, not empirical pr
 ## References
 
 1. Plato. *Philebus* 48–50 (laughter at others' self-ignorance as a species of malice); *Republic* 388e. In *The Collected Dialogues of Plato*, E. Hamilton and H. Cairns (trs.), Princeton University Press.
-1. Aristotle. *Rhetoric* 2.12 (wit as "educated insolence"); *Poetics* 5; *Nicomachean Ethics* 4.8. In *The Basic Works of Aristotle*, R. McKeon (ed.), Random House.
+1. Aristotle. *Rhetoric* 2.12, 1389b11 (wit as "educated insolence"); *Poetics* 5; *Nicomachean Ethics* 4.8. In *The Basic Works of Aristotle*, R. McKeon (ed.), Random House. The phrase "educated insolence" is R. C. Jebb's rendering of πεπαιδευμένη ὕβρις (*The Rhetoric of Aristotle*, J. E. Sandys (ed.), Cambridge University Press, 1909; checked verbatim). The Roberts translation McKeon reprints has "well-bred insolence"; Freese's Loeb has "cultured insolence".
 1. Hobbes, T. (1651). *Leviathan*, Part I, ch. 6.
 1. Hutcheson, F. (1750). *Reflections Upon Laughter, and Remarks on the Fable of the Bees*. Glasgow: R. Urie.
-1. Kant, I. (1790). *Critique of Judgment*, First Part, §54.
+1. Kant, I. (1790). *Critique of Judgment*, First Part, §54. Trans. J. H. Bernard, *Kant's Critique of Judgement*, 2nd ed. revised, London: Macmillan, 1914. The quotation above was checked verbatim against that translation.
 1. Schopenhauer, A. (1818/1844). *The World as Will and Idea* (*Die Welt als Wille und Vorstellung*), Vol. I §13; the theory of the ludicrous developed at length in Vol. II, ch. 8 (1844 supplement). Trans. R. B. Haldane and J. Kemp, London: Kegan Paul, Trench, Trübner & Co., 1909 (Vol. I, seventh edition; Vol. II, sixth edition). Both quotations above were checked verbatim against that translation; the work is also translated as *The World as Will and Representation*.
 1. Freud, S. (1905). *Jokes and Their Relation to the Unconscious* (Strachey trans., Standard Edition).
 1. Spencer, H. (1911). "On the Physiology of Laughter." In *Essays on Education, Etc.* London: Dent.

@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T13:43:42+00:00'
+ai_modified: '2026-09-01T14:39:30+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 13:43:42+00:00
+lastmod: 2026-09-01 14:39:30+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-09-01T14:39:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/)
+- **Word count**: 2580 → 2691 (+111)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-09-01-the-comic-and-humor-as-an-aesthetic-category](/reviews/deep-review-2026-09-01-the-comic-and-humor-as-an-aesthetic-category/)
+- **Notes**: Third pass; body unchanged since 2026-08-02 (only `embed-videos` had touched the file), so budget went to dependency drift and the prior review's open item. Critical: Aristotle's "educated insolence" is Jebb's rendering (Sandys ed. 1909, raw L10433) but the References entry cited McKeon, whose Roberts text reads "well-bred insolence" (Oxford *Works* XI 1924, raw L8427); Freese Loeb has "cultured insolence". Quote kept, edition named. Medium: (1) acquaintance-dissociation sentence scored quale-vs-belief as if it discriminated quale-vs-unfelt-reward — exposed by `knowledge-argument` L128 (2026-08-19) filing acquaintance as a physicalist-available category; scoped with one sentence and an in-page anchor to the rival section. (2) Kant §54 translator closed — byte-exact in Bernard 1914 (PG 48433 L7271). Enhancement: partial-corroboration paragraph linked to P-D2 (count-inflation), the rule it already obeyed. Engagement with Hurley/Dennett/Adams: Mixed (Mode Two in the Occam's paragraph, Mode Three at the rival section's close) — unchanged verdict; the new sentence concedes a rival prediction, so it is Mode-Three-consistent. Hobbes "Sudden glory" byte-checked (PG 3207 L1803). `ai_system` held at opus-4-8 (minor fixes). Remaining items: none.
+
 ---
 
 ## 2026-09-01T13:43:42+00:00 - literature-drift-review
