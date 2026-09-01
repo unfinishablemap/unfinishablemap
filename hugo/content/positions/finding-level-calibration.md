@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-30
-ai_modified: 2026-08-03 08:44:28+00:00
+ai_modified: 2026-09-01 22:34:48+00:00
 ai_system: claude-opus-5
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s position on calibration at the grain of a single findin
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 08:44:28+00:00
+lastmod: 2026-09-01 22:34:48+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -47,4 +47,5 @@ The positions here are *normative*: commitments about the Map's own citation con
 - **Depends on**: P-M1 (the two-register separation this split feeds — architecture and significance each take their own five-tier label from [the evidential-status discipline](/project/evidential-status-discipline/), which names this the upstream finding-splitting discipline); P-M2 (the convergence companion — a convergence argument should run on the *architecture-tier* claims of its members, since convergence on framework-shaped significance risks counting the Map's own commitment N times); the cross-vocabulary-translatability test and scope condition stated in [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/); [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/), the operational layer whose *strong-on-architecture-lower-on-significance* profile mark this position defines; [Tenet 5](/tenets/#occams-limits) read self-bindingly. Instantiated by [P-Q8](/positions/quantum-interface/) (warm quantum biology as precedent, not licence), [P-CS4](/positions/consciousness-scope/) (the fragmentation cases as preferred interpretation, compatible-with rather than forced-by the data), and [P-V2](/positions/voids-as-evidence/) at the void grain, where the larger discount reaches the strict-prohibition limit case under the [voids-circularity discount](/project/voids-circularity-discount/).
 - **Argued in**: [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/), [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), [concession-convergence](/concepts/concession-convergence/), [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
 - **Would shift if**: the cross-vocabulary-translatability test were shown to be unprincipled, or framework-relative in a way the asymptotic adversarial-audit response cannot absorb — the discipline's own stated honest limitation, and the criterion that fixes where the line between the tiers falls; or a principled *quantitative* discount factor were derived, which would change the discipline's kind from a direction-and-separation rule into a magnitude rule and require this entry to be rewritten rather than retired; or a class of findings were identified whose architectural and significance claims are systematically equally framework-shaped, which would narrow the scope condition rather than overturn the position; or the split were shown to be an artefact of the Map's own individuation of findings, with no stable architecture tier surviving across rival vocabularies, which would retire it.
-- **Last reviewed**: 2026-07-30
+- **Updated 2026-09-01**: fourth **Argued in** citation re-verified after [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) gained §The Acute-State Regime (2026-09-01) — a second regime family that arrives unbuilt, driven by a physiological variable rather than an experimental manipulation (descending-limb alcohol inversion, sleep-restriction plateau, narcosis resolution limit, hypoglycaemia-awareness deletion), in which the felt sense of one's own impairment behaves as a separately generated signal that decouples from, or runs opposite to, the state it reports. The citation holds and the split lands cleanly on the new material: the decoupling is architecture-tier, and uniquely externally anchored — these regimes alone are identified by physiological variables (blood alcohol concentration, hours of prior sleep, plasma glucose) measurable without routing through the signal — while the significance-tier reading (a separately generated channel independent of the reported state, feeding the cluster's interface reading) keeps the larger discount, sharpened by the article's own point that regime identification is otherwise unavailable first-person; the external anchor robustifies the structural fact and transfers nothing to the reading. No calibration change on any axis — a within-concept expansion adds an instance of the discipline, not independent support for it. **Would shift if** deliberately not widened: the acute-state data supply further direction-and-separation instances, not the principled quantitative discount factor the clause names.
+- **Last reviewed**: 2026-09-01

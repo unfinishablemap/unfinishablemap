@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T22:35:00+00:00'
+ai_modified: '2026-09-01T22:35:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T22:35:35+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update — P-F1 ([[positions/finding-level-calibration]])
+- **Trigger**: queue P2 — Argued-in [[concepts/anti-correlated-metacognitive-signal]] gained §The Acute-State Regime (16:53Z refine, commit `22656665f1`); P-F1 last reviewed 2026-07-30
+- **Verification**: citation holds — the concept's §Architecture-vs-significance distinction still names the two-tier split and defers to [[project/architecture-vs-significance-two-tier-discount]]; the acute-state family is architecture-tier material (a separately generated felt-impairment signal that decouples from, or runs opposite to, the state it reports), and the significance-tier reading (a channel independent of the reported state) keeps its larger discount, sharpened by the article's own regime-identification paragraph — regime *R* unavailable first-person, the acute regimes the partial exception, identified by external physiological variables that anchor the structural fact and transfer nothing to the reading
+- **Changes**: dated **Updated 2026-09-01** line added naming the new section; **Last reviewed** 2026-07-30 → 2026-09-01; `ai_modified` bumped. No calibration change on any axis — a within-concept expansion adds an instance of the discipline, not independent support for it. **Would shift if** considered and deliberately not widened: the acute-state data supply direction-and-separation instances, not the principled quantitative discount factor the clause names
+- **Cascade**: none — claim, calibration and shift conditions unchanged, so the downstream instances (P-Q8, P-CS4, P-V2) need no re-audit. Concept article untouched per task contract (reviewed today)
+- **Synced**: both trees
 
 ## 2026-09-01T22:35:00+00:00 - expand-topic
 - **Status**: Success
