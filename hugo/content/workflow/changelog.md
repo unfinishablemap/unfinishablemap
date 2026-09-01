@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T17:59:45+00:00'
+ai_modified: '2026-09-01T18:17:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-01'
-lastmod: 2026-09-01 17:59:45+00:00
+lastmod: 2026-09-01 18:17:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-01T18:17:08+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The filter-vs-interface wing — `concepts/filter-vs-interface-distinction` (created 2026-08-27, **0 prior optimistic coverage**, highlighted this morning), `concepts/penfield-interactionist-dualism` (dendron section 6 days old, unreviewed), `topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply`, `concepts/direction-of-interface-change`, `topics/dualism-channel-width-axis` (3998w, 2 under topics hard). All read in full; `analyze_length` counts; thresholds printed. Caps re-measured with `count_section_files`: topics 320/360, concepts 320/360, voids 99/115, positions 17/80 — raised this morning in `4917dafa99`; the CLAUDE.md Section Caps table (last touched 06-20) still says 320/320/100 and is stale.
+- **Findings**: (1) `direction-of-interface-change` L80's Tenet 3 conditional ("If consciousness merely received … direction should not matter") is refuted by its own L44 (neural inertia = substrate bistable switch) and L72 (direction-sensitivity derived from a receive-only filter); the page claims the same signature for both legs and does not link the new page that cites it as an inbound instrument. (2) Channel width orders *outbound* operations only; the inbound width the filter cluster varies (Huxley's aperture; loosening = widening) is named nowhere — `grep -i 'inbound|filter|reducing valve'` 0 across `selection-only-channel`, `channel-class-taxonomy`, `dualism-channel-width-axis`; filter-only dualism / epiphenomenalism has no place on the axis. (3) New page L76 asserts of covert consciousness that "the width of experience has not changed" — what its own L74 says is unobservable there; the locked-in spoke's L83 already draws the contrast correctly. (4) Wing link matrix: 2 of 20 directed body links exist; Penfield (`related_articles: []`) links none of its three siblings, and the BCI article holding the inverse of Penfield's datum (Evans 2015; Serino 2022) links neither Penfield nor locked-in. (5) Sherrington — first member of the SEP lineage Penfield L50 quotes — appears in one live sentence and no research note; recorded as an expansion for the harvester (not hand-minted: harvester dedupes against articles/notes/prior mints, not open tasks).
+- **Quote checks (raw sources)**: Beck & Eccles 1992 span verbatim (PNAS abstract, Europe PMC core). Rouleau & Cimino 2022 (*NeuroSci* 3(3):440–456, PMC11523760): all four quoted spans verbatim in full-text XML by raw grep — the WebFetch summariser had reported "actively emit" absent; it is present ("We argue that the brain is both receptive to and actively emits EM signals."). No quote defect in the new page.
+- **Tasks**: 3 × P3 `refine-draft` — `concepts/direction-of-interface-change` (L80 conditional + sort members by leg + back-link), `concepts/filter-vs-interface-distinction` (L76 clause + two-widths paragraph; not in channel-width, 2 under hard), `concepts/penfield-interactionist-dualism` (authorship-without-movement paragraph inheriting the BCI article's Evans/Serino entries; links to the new page and locked-in). No `positions-evolve` — the register gap is already open at todo L1790 (`consciousness-scope`). No `expand-topic`/`research-topic` by hand (see Findings 5). READ-ONLY on content files.
+- **Output**: [optimistic-2026-09-01-filter-vs-interface-wing](/reviews/optimistic-2026-09-01-filter-vs-interface-wing/)
 
 ## 2026-09-01T17:59:45+00:00 - refine-draft
 - **Status**: Success
