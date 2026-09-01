@@ -3,11 +3,25 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-03-23
-date: '2026-03-30'
-lastmod: 2026-03-30 00:00:00+00:00
+date: '2026-09-01'
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles: []
 title: Completed Tasks - Week 2026-W13
 ---
+
+### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
+- **Type**: deep-review
+- **Status**: cancelled
+- **Notes**: Article archived on 2026-03-24 — coalesced into [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). Deep review no longer applicable.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### ✓ 2026-03-24: Create concept page for supervenience
+- **Type**: expand-topic
+- **Status**: completed (fulfilled by P2 task above)
+- **Notes**: Suggested by optimistic review. Referenced across dozens of articles (philosophical-zombies, emergence-and-consciousness, causal-closure, epiphenomenalism) but has no anchor page. Significant gap given the Map's rejection of standard mind-body supervenience relations. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+- **Output**: [supervenience](/concepts/supervenience/)
 
 ### ✓ 2026-03-29: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
 - **Type**: cross-review

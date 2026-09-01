@@ -3,11 +3,21 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-09
-date: '2026-02-16'
-lastmod: 2026-02-16 00:00:00+00:00
+date: '2026-09-01'
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles: []
 title: Completed Tasks - Week 2026-W07
 ---
+
+### ✓ 2026-02-09: Write article on phenomenal conservatism and introspective evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### ✓ 2026-02-09: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Status**: complete (duplicate of earlier task)
 
 ### ✓ 2026-02-15: Create concept page for valence
 - **Type**: expand-topic

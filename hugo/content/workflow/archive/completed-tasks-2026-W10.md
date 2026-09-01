@@ -3,11 +3,16 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-03-02
-date: '2026-03-09'
-lastmod: 2026-03-09 00:00:00+00:00
+date: '2026-09-01'
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles: []
 title: Completed Tasks - Week 2026-W10
 ---
+
+### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
+- **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
 ### ✓ 2026-03-08: Research neural refresh rates and the smoothness problem
 - **Type**: research-topic

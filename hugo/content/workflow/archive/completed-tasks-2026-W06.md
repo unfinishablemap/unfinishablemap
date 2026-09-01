@@ -3,11 +3,18 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-02
-date: '2026-03-01'
-lastmod: 2026-03-01 00:00:00+00:00
+date: '2026-09-01'
+lastmod: 2026-09-01 00:00:00+00:00
 related_articles: []
 title: Completed Tasks - Week 2026-W06
 ---
+
+### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+- **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
 ### ✓ 2026-02-08: Write article on phenomenal value realism
 - **Type**: expand-topic
