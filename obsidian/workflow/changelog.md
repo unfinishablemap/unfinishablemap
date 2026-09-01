@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T18:17:08+00:00'
+ai_modified: '2026-09-01T18:53:36+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-01T18:53:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Original score**: n/a (model-fallback attribution task for transcript agent-af4b0046cf1f8d758; 63 claude-opus-5 messages 16:48:30–16:55:10Z, session-level stick)
+- **Changes**: Attribution only — no prose touched. The window's sole changelog entry was the 16:53Z refine-draft on this file (the acute-state limb, refs 8–15), and the census shows Opus 5 wrote the entire edit after a three-message Fable head (one preamble sentence and one Read call — no authorship). `ai_system` `claude-opus-4-7+claude-fable-5` → `claude-opus-4-7+claude-fable-5+claude-opus-5` (plus-joined, chronological — same shape and same fix as the 2026-08-27 pass on `disappearance-voids`, where the stuck fork had likewise introduced the Fable link itself). No Fabcinq/Ocinq/pseudonym self-citations in the article and nothing cites it under a pseudonym, so no §5.5 change owed. The window's companion write, `research/voids-impairment-void-2026-08-26.md`, took a substantive angle-1 paragraph but already carries `claude-fable-5+claude-opus-5` from the earlier attribution task — left as is. The 16:41Z deep-review entry (`topics/aesthetic-testimony-and-the-acquaintance-principle`) is OUTSIDE the flagged window and belongs to sibling fork agent-ae53c3306d0b6ecaf, which censuses 63/63 claude-fable-5 — its `+claude-fable-5` append is correct and was not swept in (forks are served independently). `ai_modified` from live `date -u`; hugo mirror hand-edited to match (ai_modified, ai_system, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-01T18:17:08+00:00 - optimistic-review
 - **Status**: Success

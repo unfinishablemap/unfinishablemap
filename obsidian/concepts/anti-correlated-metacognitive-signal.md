@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-01T16:52:41+00:00
+ai_modified: 2026-09-01T18:53:36+00:00
 last_deep_review: 2026-07-17T11:56:22+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[process-content-distinction]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
 ai_generated_date: 2026-05-19
 last_curated: null
 ---
