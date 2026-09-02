@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-08-16 20:02:00+00:00
+ai_modified: 2026-09-02 01:43:14+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 20:02:00+00:00
-lastmod: 2026-08-16 20:02:00+00:00
+lastmod: 2026-09-02 01:43:14+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -92,7 +92,7 @@ One dependency should be flagged rather than asserted. The per-context form of t
 
 **The finite-stock reading.** Scott Aaronson examines — the abstract's own verb — a viewpoint that "tries to find scope for 'freedom' in the universe's boundary conditions rather than in the dynamical laws," under the heading of Knightian freedom, "a certain kind of in-principle physical unpredictability that goes beyond probabilistic unpredictability." His freebits are qubits "for which the most complete physical description possible involves Knightian uncertainty," and they "get permanently 'used up' whenever they are amplified to macroscopic scale" — so, given the freebit picture together with a finite observable universe and the holographic principle, the supply available to any observer is finite. This is a budget in the resource sense rather than the bandwidth sense, and it is notable that it requires no dualism: even without a mental ontology, a bounded and statistically inconspicuous freedom allowance is defensible. Aaronson should not be recruited past his own verdict, though: his abstract calls the resulting perspective one "of which I myself remain skeptical", so the Map takes a worked possibility from him and no endorsement.
 
-**The non-equilibrium reading.** Real ensemble-level agency requires leaving quantum equilibrium, and exact equilibrium means a zero statistical budget. This is Valentini's programme read adversarially rather than as a thesis about consciousness, and its value to the Map is that it prices the fall-back the Map keeps open — a minimum *outside* the corridor is not statistically free.
+**The non-equilibrium reading.** Real ensemble-level agency requires leaving quantum equilibrium, and exact equilibrium means a zero statistical budget. This is [Valentini's programme](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) read adversarially rather than as a thesis about consciousness, and its value to the Map is that it prices the fall-back the Map keeps open — a minimum *outside* the corridor is not statistically free.
 
 **The question-choice reading.** Agency's budget might live in which measurement is made and when, rather than in which outcome occurs, leaving Born statistics untouched by construction. The Map has registered this alternative without adopting it, since relocating influence to context-setting weakens outcome-selection. Nothing found in the literature computes whether basis-choice and outcome-choice bandwidths add, trade off, or interact.
 

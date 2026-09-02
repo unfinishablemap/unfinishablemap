@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02 01:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Non-Equilibrium and the Contingency of the Born Rule
+- **Output**: [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/)
+- **Word count**: 2498 (topics soft target 3000 — ok)
+- **Based on research**: yes — [bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19](/research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19/) (consumed_by stamped)
+- **Integration done same-run**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (related_articles + Further Reading line only, per task note — no body growth), net-zero inline wikilink retrofits in [agency-budget](/concepts/agency-budget/) ("Valentini's programme") and [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/) ("programme actively seeks Born-rule violations")
+- **Calibration**: conditional framing throughout (IF pilot-wave AND non-equilibrium possible THEN Born contingent); antecedent not endorsed; no-consciousness-source gap owned in opening; post-Planck CMB bounds explicitly unsurveyed, predictions cited as dated proposals; falsifier state declared "nothing has come in". All 11 external DOIs resolved at Crossref this run; SEP/arXiv quotes grep-verified in raw artefacts.
+- **Follow-up flag**: research note Angle 4 (position candidate: "Born rule plausibly an emergent equilibrium condition, not a fundamental axiom", low-to-moderate confidence, signal-nonlocality as live risk) is NOT covered by this task — candidate for a later positions-evolve pass.
+
 ## 2026-09-02T00:52:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Sherrington's Man on His Nature and the Neuroscientist-Dualist Lineage

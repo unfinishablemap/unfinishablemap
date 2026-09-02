@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-08-24T09:21:07+00:00
+ai_modified: 2026-09-02T01:43:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[concepts/many-worlds]]"
   - "[[pragmatist-quantum-foundations-and-the-agent]]"
   - "[[the-interface-problem]]"
+  - "[[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]"
   - "[[amplification-mechanisms-consciousness-physics-2026-03-18]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
@@ -238,6 +239,7 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 - [[testing-consciousness-collapse]] — The collapse-vs-decoherence experimental hierarchy
 - [[interface-formalization-void]] — What remains unformalised about the interface
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Neural-scale variability the outcome-level-openness reading interprets but cannot claim as discriminating support
+- [[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]] — The Bohmian row expanded: Born statistics as contingent equilibrium, and what departing from them would cost
 
 ## References
 

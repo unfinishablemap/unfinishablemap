@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-07-16 15:11:36+00:00
+ai_modified: 2026-09-02 01:43:14+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:11:36+00:00
-lastmod: 2026-07-16 15:11:36+00:00
+lastmod: 2026-09-02 01:43:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The Map reads κ as the measured coordinate beneath three of its tenets, and mar
 
 A naive reading treats any measured κ ≠ 0 as a Born-rule violation. The corrected reading, now settled in the literature, is that finite-size slits generate *non-classical looped trajectories* — Sawant, Samuel, Sinha, Sinha & Sinha (2014, *Phys. Rev. Lett.*) and the "exotic looped trajectories" work (Magaña-Loaiza et al., *Nature Communications*, 2016) — which add a small **apparent** κ that sits entirely within standard quantum mechanics once the paths are summed correctly. Published triple-slit anomalies have been attributed to these near-field effects, not to post-quantum probability. Any use of the Sorkin bound must carry this caveat or it will overstate the cleanliness of the test: I₃ = 0 is a claim about amplitudes summed over paths, and slit-geometry corrections must be modelled out before a residual counts as new physics. (Genuine higher-order interference *can* be engineered — Namdar et al. (2023, *Phys. Rev. A*) generate it in a nonlinear triple slit — but there the source is optical nonlinearity, not post-quantum probability, a boundary case worth keeping distinct.)
 
-A second distinction guards against conflating operationalisations. Valentini & Varma (2025, *Phys. Rev. D*) is a **proposal**, not a completed measurement, and it targets a **different observable**: Born-rule linearity in spin/polarization *expectation values* at collider timescales (~10⁻²⁵ s), not the third-order interference term I₃. It reports no new numerical bound, and its author, Antony Valentini, is a pilot-wave theorist whose programme actively seeks Born-rule violations. Both lines test "Born-rule linearity," but via different quantities; a claim about the tested regime must state the observable, not merely a headline number. Extending the tested slice toward the shortest accessible timescales sharpens the Tenet-5 point rather than closing it.
+A second distinction guards against conflating operationalisations. Valentini & Varma (2025, *Phys. Rev. D*) is a **proposal**, not a completed measurement, and it targets a **different observable**: Born-rule linearity in spin/polarization *expectation values* at collider timescales (~10⁻²⁵ s), not the third-order interference term I₃. It reports no new numerical bound, and its author, Antony Valentini, is a pilot-wave theorist whose [programme actively seeks Born-rule violations](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/). Both lines test "Born-rule linearity," but via different quantities; a claim about the tested regime must state the observable, not merely a headline number. Extending the tested slice toward the shortest accessible timescales sharpens the Tenet-5 point rather than closing it.
 
 ## What a Nonzero I₃ Would Mean
 

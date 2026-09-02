@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-08-24 09:21:07+00:00
+ai_modified: 2026-09-02 01:43:14+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-02 01:43:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,6 +54,7 @@ related_articles:
 - '[[concepts/many-worlds]]'
 - '[[pragmatist-quantum-foundations-and-the-agent]]'
 - '[[the-interface-problem]]'
+- '[[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]'
 - '[[amplification-mechanisms-consciousness-physics-2026-03-18]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
@@ -244,6 +245,7 @@ The empirical question is genuinely open, and the corridor-vs-minimum-outside-co
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — The collapse-vs-decoherence experimental hierarchy
 - [interface-formalization-void](/voids/interface-formalization-void/) — What remains unformalised about the interface
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Neural-scale variability the outcome-level-openness reading interprets but cannot claim as discriminating support
+- [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) — The Bohmian row expanded: Born statistics as contingent equilibrium, and what departing from them would cost
 
 ## References
 

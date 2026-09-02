@@ -5,6 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-07-19
+consumed_by: "[[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]"
 ---
 
 # Research: Bohmian Quantum Equilibrium and Non-Equilibrium
