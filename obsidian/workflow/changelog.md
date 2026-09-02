@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T09:57:09+00:00'
+ai_modified: '2026-09-02T10:12:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T10:12:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Diary-method and reinstatement-probe studies of within-memory phenomenology over time (semanticisation falsifier — alternate-vocabulary sweep per the 2026-08-04 note's stated ceiling)
+- **Output**: [[research/diary-and-reinstatement-phenomenology-tracking-2026-09-02]]
+- **Sources consulted**: 17 (Europe PMC/Crossref/Semantic Scholar catalogue verification; Springer/SAGE/PubMed publisher pages blocked — all quotes tagged catalogue-copy, publisher grep owed; Conway et al. 1997 abstract unverifiable through four channels, described via secondary literature only)
+- **Headline**: the August null was partly a vocabulary artefact — longitudinal within-memory phenomenology tracking exists at scale under flashbulb-memory vocabulary (57 test-retest studies per Frinco et al. 2024; Talarico & Rubin 2003 is the model design) and reinstatement probes exist under Proustian/involuntary/reminder vocabularies (Willander & Larsson 2006; Berntsen & Hall 2004; Sekeres 2016) — but no study conjoins the two halves. Falsifier status should move from "decisive measurement not found at a stated ceiling" to "each half published, conjunction unrun, full protocol assemblable from published parts". Note ENDS with explicit consumption verdict: FOLD, no expand-topic — refine-draft on concepts/semanticisation (primary), one surgical touch on topics/consciousness-and-memory (Hirst 2015 ten-year plateau), optional one-liner on topics/phenomenology-of-memory-and-the-self.
 
 ## 2026-09-02T09:57:09+00:00 - deep-review
 - **Status**: Success
