@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-02 16:19:05+00:00
+ai_modified: 2026-09-02 20:38:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-02 16:19:05+00:00
+lastmod: 2026-09-02 20:38:40+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -36,7 +36,7 @@ topics:
 
 ## About this domain
 
-These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none are themselves tenets, and each elaborates the *mechanism* of those tenets rather than supplying either one's rationale, so all ten pass the foundational-dependency test.
+These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none are themselves tenets, and each elaborates the *mechanism* of those tenets rather than supplying either one's rationale, so all eleven pass the foundational-dependency test.
 
 **Scope limit — no spatial localization.** These positions individuate the interface *dynamically*, by Born-rule treatment and by which token outcome becomes actual at a quantum indeterminacy, and not *spatially*: nothing here licenses conscious selection acting at particular neuroanatomical sites. Downstream arguments turning on which sites an intervention bypasses or preserves therefore import a premise the register does not carry. This is a gap rather than a denial — a localization claim would have to be argued and graded as a new position, and none is currently registered.
 
@@ -163,4 +163,14 @@ These positions cover what the Map currently holds about the mechanism by which 
 - **Calibration history**: [note of 2026-07-25](/positions/quantum-interface-calibration-history/#p-q10) — the addition of the negative-result (joint-unsatisfiability) branch to the shift conditions above. No confidence change.
 - **Updated 2026-08-03**: model maturity `n/a` → `developed`. `n/a` was off-vocabulary on this axis and rested on a conflation — it read the position's subject (no worked mechanism model exists) as the position's own maturity. No substantive claim, dependency, or other band changed.
 - **Updated 2026-09-02**: [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) added to *Argued in*, and the roadmap above now names that article's two-agent Bell-pair extension of the toy-model desideratum. No band, claim, or dependency changed.
+- **Last reviewed**: 2026-09-02
+
+## P-Q11: The Born rule is plausibly an emergent equilibrium condition, not a fundamental axiom
+
+- **Status**: live
+- **Calibration**: credence moderate (low edge; the credence attaches to the conditional stated below and to *plausibly* — a demonstrated structural possibility — not to Born-emergence being true) · external-evidence grade D (the relaxation programme's subquantum H-theorem, timescale numerics, and derived cosmological predictions are theorems-with-premises and simulations; no quantum non-equilibrium ensemble has ever been observed or produced) · structural centrality low · model maturity developed · empirical discriminability indirect (the CMB large-scale power-deficit and relic spectral-line channels are dated derived predictions whose current observational standing the Map has not surveyed; an observed or produced non-equilibrium ensemble would bear directly) · framework-internal only: no
+- **Asserts**: **If** pilot-wave dynamics is the true mechanics **and** non-equilibrium distributions (ρ ≠ |ψ|²) are physically possible, **then** the Born statistics observed in every experiment to date are a contingent fact about our cosmological epoch rather than a law of nature. At least one worked framework — Valentini's relaxation programme — makes that consequent a physical statement rather than a category error, and this demonstrated structural possibility is all *plausibly emergent* registers. The Map does not endorse the antecedent: pilot-wave determinism removes the very indeterminacy the tenets require, and [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) rates it the interpretation most hostile to the framework. The Dürr–Goldstein–Zanghì typicality rival stands and may be correct: on its analysis quantum equilibrium is quasi-necessary — typical initial configurations yield Born statistics, no relaxation story needed — the reading most in tension with the Map's interest, under Tenets 2 and 3, in a wider space of lawlike, minimal, mind-associated influence. Nothing in this literature concerns consciousness: no source connects non-equilibrium to mind or free will, and the tenet-relevant inference — that a Born rule demoted from law to condition would widen that space — is the Map's own, with no scholarly source. The Map's default reading does not use this door: P-Q2 preserves Born statistics exactly, and Valentini's signal-locality theorem is the structural reason exactness rather than smallness is claimed — within deterministic hidden-variables theories any nonzero statistical-level budget buys superluminal signalling, so non-equilibrium enters the ledger as the priced fall-back, not the mechanism.
+- **Depends on**: the rival pilot-wave literature rather than the tenets — Valentini's subquantum H-theorem (1991) and the relaxation numerics (Towler, Russell & Valentini 2012); the Dürr–Goldstein–Zanghì (1992) typicality analysis as the standing rival; Valentini's (2002) signal-locality theorem for the price structure. Support runs *to* P-Q2 and P-Q7 (whose exactness and no-signalling commitments the price reading reinforces), not from them
+- **Argued in**: [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (the Bohmian row of the underivability catalogue)
+- **Would shift if**: **Upward** — post-Planck analyses were found to support the predicted inverse-tangent large-scale power deficit, or a non-equilibrium ensemble were observed or produced; either would also lift the evidence grade. **Downward** — the typicality school's justification of the |Ψ|² measure were established as non-circular, making equilibrium quasi-necessary and the wider regime idle; or relaxation were shown generic and complete for all cosmologically relevant modes, closing the observational window; or signal nonlocality — the live risk, by Valentini's own theorem — together with relativistic causality held fundamental and exceptionless were taken to refute the accessible-non-equilibrium conjunct, retreating the thesis to an unrealised formal possibility. Refuting pilot-wave dynamics itself would not falsify the registered conditional but would empty it of live interest; Tenet 5 bounds the whole entry in both directions — the rule's unbroken record does not establish it as fundamental, and the Map must not quietly convert "coherently violable" into "probably violated".
 - **Last reviewed**: 2026-09-02

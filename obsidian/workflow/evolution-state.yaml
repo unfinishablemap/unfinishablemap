@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T20:16:00.296668+00:00'
-session_count: 19870
+last_updated: '2026-09-02T20:28:48.298731+00:00'
+session_count: 19871
 cycle_position: 13077
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
@@ -35,14 +35,14 @@ last_runs:
   pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-02T16:21:32.368515+00:00'
   refine-draft: '2026-09-02T20:16:00.296668+00:00'
-  replenish-queue: '2026-09-02T19:44:52.043148+00:00'
+  replenish-queue: '2026-09-02T20:28:48.298731+00:00'
   research-topic: '2026-09-02T10:14:07.231769+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-02T16:17:17.119028+00:00'
+last_git_push: '2026-09-02T20:28:48.420147+00:00'
 last_tweet_date: '2026-09-02'
 content_stats:
   total_files: 297
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-02'
-  outcome: success
-  kind: trigger
 - task: deep-review
   type: deep-review
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-02'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
@@ -459,48 +459,48 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-02T20:27:09+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1017. STANDARD MODE, ONE MINT (P2 cross-review), fired by the 20:08 completion of
-    the Warning-1 surfaces P2 dropping live P0-P2 to 2 (Born-equilibrium add + P-M2
-    update, parser-verified per briefing). Sections re-measured via count_section_files:
-    topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - no cap filtering
-    needed. THE MINT (chain): cross-review of topics/history-of-the-interaction-problem
+  last_replenishment_note: 'RUN 1017. STANDARD MODE, ONE MINT (P2 cross-review), fired
+    by the 20:08 completion of the Warning-1 surfaces P2 dropping live P0-P2 to 2
+    (Born-equilibrium add + P-M2 update, parser-verified per briefing). Sections re-measured
+    via count_section_files: topics 324/360, concepts 321/360, voids 99/115, positions
+    17/80 - no cap filtering needed. THE MINT (chain): cross-review of topics/history-of-the-interaction-problem
     considering topics/sherrington-dualist-lineage (expanded today) - grep of the
     history article returns 0 for Sherrington/Penfield/Eccles while its spine runs
-    Materialist Eclipse into Quantum Opening, the exact arc the new article names; new
-    article has one inbound link (penfield, installed by the expand); 2678w headroom
+    Materialist Eclipse into Quantum Opening, the exact arc the new article names;
+    new article has one inbound link (penfield, installed by the expand); 2678w headroom
     real. Run-1015 same-day-chain decline addressed in the task note: this edits the
-    related hub, which the lineage article''s 07:31 deep-review never touches, and the
-    gap was grep-verified after that decline. DELIBERATELY NOT MINTED, each verified
+    related hub, which the lineage article''s 07:31 deep-review never touches, and
+    the gap was grep-verified after that decline. DELIBERATELY NOT MINTED, each verified
     this run: second cross-review on concepts/interactionist-dualism (0 Sherrington
     mentions but 3478w = 22 words under the concepts 3500 hard ceiling by analyze_length
-    - link-add churn risk against a 95-deep P3 pool); bandwidth-of-consciousness
-    condense (4156w vs topics 4000 hard = 156w overage on a file with a 41-line
-    reference/list apparatus plus a yt-embed block - the false-over-length class - and
-    touched today +6 by the 17:29 replication sweep); remaining hard_warning offenders
-    all more marginal or adjudicated (introspection-architecture twice-condensed 05-25,
-    personal-identity and pragmatisms-path parked NEEDS-HUMAN, meaning-of-life and the
-    three P2 condenses veto-tagged, apex offenders in the conjunction-coalesce NEEDS-
-    HUMAN class); Lismer 2025 third-data-point refine on local-tomography (the open
-    harvester research-topic at todo L410 owns that article''s empirical-status section,
-    downstream refine chartered there - folding the datum belongs to that pass);
-    competency apex angle-3 fold (verified already landed on disk: built-flank paragraph
-    L67, inheritance note L123, Further Reading L150, Source-articles entry - the
-    expand''s left-for-apex-evolve flag is discharged, no mint); positions register
-    audit (last 2026-08-24, inside 30d per run 1016); fusion-void pending_articles entry
-    untouched (operator decision per briefing); notation-void (NEEDS-HUMAN final-slot
-    entry owns it); harvester-owned subjects untouched (improper-vs-proper mixture,
-    envariance); staleness (P3 pool saturated at 95; ai_modified-today exclusion covers
-    ~35 files incl the 20:08 twelve-file sweep); orphans (quality 0; sherrington not
-    orphaned, 1 inbound); at-any-sensitivity residue not re-raised (adjudicated run
-    1016). VETO/DUP: vetoed bank grepped 0 for sherrington and history-of-the-
-    interaction; active region 0 collisions on the target file; all briefing item-4
-    same-day P3s (Zurek, spontaneous-collapse, rival-ontology, consciousness-selecting,
-    Dennett/language-interface, two body echoes, consumed_by stamping) confirmed
-    distinct from the mint. PLACEMENT: appended at the BOTTOM of the Active region
-    before Completed Tasks, git diff pure insertion +8/-0, no existing line shifted.
-    Post-count re-measured after the splice: live P0-P2 == 3 (floor met exactly - a thin
-    honest mint preferred to padding, run-1016 precedent); p2_tasks 6 counts all P2
-    headers including the three veto-tagged condenses; P3 pool 95.'
+    - link-add churn risk against a 95-deep P3 pool); bandwidth-of-consciousness condense
+    (4156w vs topics 4000 hard = 156w overage on a file with a 41-line reference/list
+    apparatus plus a yt-embed block - the false-over-length class - and touched today
+    +6 by the 17:29 replication sweep); remaining hard_warning offenders all more
+    marginal or adjudicated (introspection-architecture twice-condensed 05-25, personal-identity
+    and pragmatisms-path parked NEEDS-HUMAN, meaning-of-life and the three P2 condenses
+    veto-tagged, apex offenders in the conjunction-coalesce NEEDS- HUMAN class); Lismer
+    2025 third-data-point refine on local-tomography (the open harvester research-topic
+    at todo L410 owns that article''s empirical-status section, downstream refine
+    chartered there - folding the datum belongs to that pass); competency apex angle-3
+    fold (verified already landed on disk: built-flank paragraph L67, inheritance
+    note L123, Further Reading L150, Source-articles entry - the expand''s left-for-apex-evolve
+    flag is discharged, no mint); positions register audit (last 2026-08-24, inside
+    30d per run 1016); fusion-void pending_articles entry untouched (operator decision
+    per briefing); notation-void (NEEDS-HUMAN final-slot entry owns it); harvester-owned
+    subjects untouched (improper-vs-proper mixture, envariance); staleness (P3 pool
+    saturated at 95; ai_modified-today exclusion covers ~35 files incl the 20:08 twelve-file
+    sweep); orphans (quality 0; sherrington not orphaned, 1 inbound); at-any-sensitivity
+    residue not re-raised (adjudicated run 1016). VETO/DUP: vetoed bank grepped 0
+    for sherrington and history-of-the- interaction; active region 0 collisions on
+    the target file; all briefing item-4 same-day P3s (Zurek, spontaneous-collapse,
+    rival-ontology, consciousness-selecting, Dennett/language-interface, two body
+    echoes, consumed_by stamping) confirmed distinct from the mint. PLACEMENT: appended
+    at the BOTTOM of the Active region before Completed Tasks, git diff pure insertion
+    +8/-0, no existing line shifted. Post-count re-measured after the splice: live
+    P0-P2 == 3 (floor met exactly - a thin honest mint preferred to padding, run-1016
+    precedent); p2_tasks 6 counts all P2 headers including the three veto-tagged condenses;
+    P3 pool 95.'
   last_replenishment_run: 1017
   loop_pickable_open: 3
   needs_replenishment: false

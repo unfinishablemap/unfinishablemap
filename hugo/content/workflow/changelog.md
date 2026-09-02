@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T20:08:52+00:00'
+ai_modified: '2026-09-02T20:38:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-09-02 20:38:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T20:38:40+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: add
+- **Position**: P-Q11 ([quantum-interface](/positions/quantum-interface/)) — "The Born rule is plausibly an emergent equilibrium condition, not a fundamental axiom"
+- **Trigger**: position candidate flagged verbatim by Angle 4 of [bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19](/research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19/) and by the 2026-09-02 expand changelog for [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/); pre-add grep across obsidian/positions/*.md for equilibrium/Valentini returned 0 — the register held nothing on Born-rule contingency.
+- **Changes**: P-Q11 appended to [quantum-interface](/positions/quantum-interface/) after P-Q10 (append-only; no other entry's text or bands touched — P-Q10's block, updated 16:19 today, re-read from disk first and left intact; mechanism-debt paragraph untouched; zero compensating cuts per the standing register-grows-by-design decision on a file over its hard threshold). Band discipline per task envelope: credence moderate (low edge) — the register's house form for low-to-moderate, the credence axis having no sub-moderate band (cf. P-Q1's low-edge pin) — with the parenthetical scoping credence to the conditional and to *plausibly*, not to Born-emergence being true; external-evidence grade D (theorems-with-premises and simulations; no non-equilibrium ensemble ever observed or produced); structural centrality low (the default reading does not use this door); model maturity developed; empirical discriminability indirect (CMB power-deficit and relic spectral-line channels — dated derived predictions, current observational standing unsurveyed); framework-internal only: no. Asserts states the conditional without endorsing the antecedent (pilot-wave rated the interpretation most hostile to the framework), names the Dürr–Goldstein–Zanghì typicality rival (equilibrium quasi-necessary) and its tension with the Tenets 2–3 interest in a wider space of lawlike minimal mind-associated influence, carries the article's own no-scholarly-source admission for the consciousness link, and books non-equilibrium as the priced fall-back (signal-locality theorem as the structural reason P-Q2 claims exactness rather than smallness). Would-shift states movers in both directions with signal nonlocality as the live risk, closing on the Tenet 5 bound (the Map must not quietly convert "coherently violable" into "probably violated"). Wording transplanted from the article where possible; nothing strengthened. No Calibration-history line: fresh entry, no relocated notes (mirrors P-Q4/P-Q8).
+- **Cascade**: none downstream — no existing entry depends on P-Q11, and its Depends-on line records that support runs *to* P-Q2/P-Q7, not from them. Domain preamble "all ten pass the foundational-dependency test" → "all eleven" (P-Q11 passes: retiring it leaves every tenet's rationale intact, the consciousness inference being registered as the Map's own and unendorsed). Discriminability aggregate re-derived programmatically in [positions](/positions/) (parse of `- **Calibration**` lines under live `## P-` entries; the pre-add derivation matched the documented 55 exactly): live 56, indirect 20 → 21, inert unchanged at eleven ("a fifth exactly" → "just under a fifth"); dated re-derivation bullet appended per the section's own staleness discipline. The Length-paragraph "ten positions form one densely-interlocked dependency graph" left as-is — dated rationale of the 2026-06-08/07-29 split declines, not a live count.
+- **Verification**: both Argued-in targets verified on disk before insertion ([quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/); [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), whose Further Reading already reciprocates); [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) body link verified. ai_modified 2026-09-02T20:38:40+00:00 on both edited register files from live date -u (strictly past). Synced obsidian → hugo; P-Q11 entry and both aggregate edits grep-verified in the hugo mirrors (space-format timestamps landed). Deliberate-friction rule honoured: single add, no bulk creation. Todo/state left for cycle_post; not committed.
+- **Published**: yes
+
 
 ## 2026-09-02T20:08:52+00:00 - refine-draft
 - **Status**: Success
