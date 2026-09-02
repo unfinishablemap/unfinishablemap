@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T14:41:28+00:00'
+ai_modified: '2026-09-02T15:39:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 14:41:28+00:00
+lastmod: 2026-09-02 15:39:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T15:39:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/) + [semantic-memory](/concepts/semantic-memory/) + [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (three-file R/K instrument-dispute sweep from [semanticisation-and-fading-episodic-phenomenology-2026-08-04](/research/semanticisation-and-fading-episodic-phenomenology-2026-08-04/) §"Is the remember/know paradigm a valid instrument for this?")
+- **Original score**: n/a (the skill's `scripts/curate.py review` command no longer exists — known-stale skill step)
+- **Changes**: THREE-FILE CLOSE, per-file outcomes: (1) **episodic-memory — already-calibrated, zero edits, ai_modified NOT bumped (no-op discipline).** Per-locus grep of all 7 live R/K loci: L114 is the central qualifier (Wixted & Mickes criterion-placement reading named against the phenomenal-kinds switch, SDAM + KC as the surviving legs, forward pointer to the tripartite article); L64/L80/L180 pair R/K with SDAM in-sentence; L164 already deploys the signal-detection point as a falsifier constraint; L112 is definitional and immediately followed by L114; L122/L185 don't cite the paradigm as evidence. The 09-02 optimistic-wing staleness caution confirmed for this file. (2) **semantic-memory — one qualifying clause installed at the L53 expository cluster** (the only unqualified locus; central cluster L185 already calibrated with Wixted/Zaman/SDAM): clause names the dispute (threshold recollection process vs criterion placements on one continuous strength signal, Wixted & Mickes 2010) with named-anchor to #relation-to-site-perspective. Length discipline (106-word headroom, offsets mandatory): +25-word clause offset by four redundancy cuts ("what psychologists call", "can", TOT retrieval-success flourish sentence, "no phenomenology of blocked retrieval" duplicate, near-circular "because tracking reality is useful"); also fixed "recognize"→"recognise" for in-file consistency. Final: 3392 by analyze_length (concepts 2500/3500/5000 printed live), net −2 vs 3394 baseline, status soft_warning, 108 under hard. (3) **anoetic-noetic-autonoetic-consciousness — one qualifying clause installed at the L62 expository cluster** (only unqualified locus; L104–106 central qualifier already carries the full instrument statement with SDAM/KC re-derivation): same family wording, cite, and named-anchor to #the-semanticisation-problem. Final: 2988 (+26, 512 under hard). PUBLISHER-VERIFIED both citations at Crossref raw JSON before touching anything: Wixted & Mickes 2010, DOI 10.1037/a0020874, *Psychological Review* 117(4) 1025–1054, authors John T. Wixted + Laura Mickes — matches all three files' reference entries; Zaman et al. 2024, DOI 10.1016/j.cognition.2024.105934, *Cognition* 253:105934, print 2024-12, authors Andreea Zaman, Roni Setton, Caroline Catmur, Charlotte Russell — the driver's "Zaman gap" is closed, record exists and matches every in-file reference verbatim. SDAM kept as the stronger leg everywhere (no locus demoted). Family wording follows the semanticisation instrument sentence (13:25 model). ai_modified 2026-09-02T15:37:18+00:00 on the two touched files from live date -u (strictly past); ai_system extended to +claude-fable-5 on both (clause prose re-authored). Synced obsidian → hugo; qualifier and converted anchors grep-verified in BOTH trees per file. Todo task left for cycle_post; not committed.
+- **Published**: yes
+
 
 ## 2026-09-02T15:20:11+00:00 - deep-review
 - **Status**: Success
