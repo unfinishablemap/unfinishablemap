@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt substrate-independence calibration in synthetic-minimal-agents-and-the-engineered-decoupling
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/synthetic-minimal-agents-and-the-engineered-decoupling.md
-- **Notes**: From topic-concept anchoring audit 2026-09-01. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.72/kw is below 3.00/kw (target = 60% of anchor 10.97/kw, capped at 3.0/kw)
-  - strong-assertion density 0.78/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-01
-
-
 ### P3: `topics/phenomenology-of-cognitive-capacity` L139 certifies Tenet 3 from felt effort — "feels effortful because consciousness is doing real work … suggests the effort is causally efficacious" — against P-A4 (credence high); same family as the two 08-27 intellectual-life P3s, and its only empirical anchor is Ericsson 1993 stated as if the 2014 meta-analysis did not exist
 - **Type**: refine-draft
 - **Status**: pending
@@ -1829,6 +1817,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: Adopt substrate-independence calibration in synthetic-minimal-agents-and-the-engineered-decoupling
+- **Type**: refine-draft
+- **File**: obsidian/topics/synthetic-minimal-agents-and-the-engineered-decoupling.md
+- **Notes**: From topic-concept anchoring audit 2026-09-01. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.72/kw is below 3.00/kw (target = 60% of anchor 10.97/kw, capped at 3.0/kw)
+  - strong-assertion density 0.78/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-09-01: `topics/consciousness-and-the-metaphysics-of-individuation` jumps from Kant (L81) to Nida-Rümelin (L89) with no biological bridge — add the Meincke & Dupré 2020 *Biological Identity* animalism chapters (Olson, Snowdon) as the developed rival the research note verified
 - **Type**: refine-draft

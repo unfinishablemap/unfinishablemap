@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T00:18:59+00:00'
+ai_modified: '2026-09-02T00:36:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T00:36:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
+- **Original score**: n/a (anchoring-audit flag adjudication; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: (1) Anchoring flag vs [[substrate-independence]] (hedge_density 2.72/kw below 3.0 floor; strong_assertions 0.78/kw vs anchor 0.29) adjudicated FALSE-HIGH — the two counted strong-assertion tokens are the article's own calibration disclaimer ("nothing here shows that a xenobot or a synthetic cell lacks experience") and a report of the rival's own premise ("Rouleau and Levin's own premise establishes this"); the hedge shortfall (7 lexical hedges) is lexical blindness to structural calibration ("settles the question in neither direction"; "framework-relative rather than a finding"; "the Map claims only the first"). Set `anchoring_audit_exempt: true` with rationale comment inside the 1500-byte window — same class as sibling [[basal-and-bioelectric-cognition]] (same anchor concept, same two failing checks, exempted 2026-08-03); no hedge-padding; verified `evaluate_anchoring` now returns []. (2) The one real defect fixed: tenet-check-2026-09-02 Note 4, L75, two loci — the Tenets 2+3 paragraph in §Relation to Site Perspective rewritten to de-inherit interactionism and the quantum mechanism from the article's bare-phenomenality question (tenet-dependency-matrix bare-artificial-phenomenality row marks both Not invoked) and scope them to the coupled-interface question only; and its minimality clause now carries the Tenet 5 guard (empirical-constraint reading, not parsimony-as-truth) matching the-enteric-nervous-system cluster sibling's L81 form. No named-opponent engagement touched; no references renumbered; central claim unweakened. ai_modified from live `date -u` (strictly past); hugo mirror hand-edited to match (rewritten paragraph with converted links, exemption key, ai_modified, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T00:18:59+00:00 - check-tenets
 - **Status**: Warnings

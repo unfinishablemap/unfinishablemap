@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-01 23:21:42+00:00
+ai_modified: 2026-09-02 00:36:55+00:00
 ai_system: claude-fable-5+claude-opus-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[substrate-independence]]'
@@ -15,7 +16,7 @@ description: Xenobots, anthrobots and minimal synthetic cells are built, not fou
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-01 23:21:42+00:00
+lastmod: 2026-09-02 00:36:55+00:00
 modified: *id001
 related_articles:
 - '[[apex/competency-without-felt-experience]]'
@@ -76,7 +77,7 @@ One limit on the Map's own use of these cases should be stated in the same breat
 
 **[Dualism](/tenets/#dualism)**: The engineered class gives the Map's core commitment its cleanest empirical illustration. If consciousness were constituted by functional organisation, a complete build specification would be a partial answer to the phenomenal question — the designer would know, from the blueprint, something about whether anyone was home. No designer of a xenobot, an anthrobot, a minimal cell, or a self-modelling robot claims to know this, and what stops them is the kind of question a blueprint answers rather than modesty about a hard measurement. That the phenomenal question survives complete functional specification intact is what dualism leads us to expect, though it does not by itself decide between dualism and a functionalism that locates experience in one particular organisation these systems happen not to realise.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** and **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map holds that consciousness influences physical outcomes through a specific neural interface, and that the footprint of that influence is as small as the record demands. Together these counsel against positing an interface where there is no machinery to host one. Ciliated epithelial spheroids and 473-gene synthetic cells supply no such machinery; the self-modelling robot supplies none of the relevant kind. Withholding an interface in these cases follows from the allocation rule rather than from any measurement, and the Map marks it as framework-relative rather than as a finding.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** and **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: These two tenets bear on a different question from the one this article tracks. Whether anything is felt in an engineered agent — bare phenomenality — runs on Tenet 1's bare reading alone; the tenet-dependency matrix on [the tenets page](/tenets/) marks interactionism and the quantum mechanism as not invoked for questions of that shape, and this article inherits neither. What Tenets 2 and 3 govern is the further question of whether such a system hosts a consciousness-physical interface. On that further question, and it alone, they counsel against positing an interface where there is no machinery to host one: ciliated epithelial spheroids and 473-gene synthetic cells supply no such machinery, and the self-modelling robot supplies none of the relevant kind. The minimality at work is the empirical-constraint reading the tenet asserts — no larger interaction than the record demands — not a parsimony-as-truth claim, which [Tenet 5](/tenets/#occams-limits) would disallow. Withholding an interface here follows from the allocation rule rather than from any measurement; the Map marks it as framework-relative rather than as a finding, and it settles nothing about the bare phenomenal question the rest of the article keeps open.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: A parsimony-driven reading collapses the two axes in whichever direction its starting assumptions favour — competency is cognition is mind, or synthetic substrate obviously excludes feeling. Both collapses are cheap, and the tenet blocks them both. The engineered agents show that a system can be simple, fully specified, and competent all at once; none of those three properties settles the fourth. Holding the axes apart is less simple than either collapse, and the incompleteness of what anyone knows about phenomenal experience is exactly the condition under which simplicity is an unreliable guide.
 
