@@ -39,16 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `apex/phenomenology-mechanism-bridge` asserts what the quantum-interface register grades D — L131 "The choking phenomenon shows consciousness doing causal work", L78 CMD comparative-strength claim, underived 5-15% figure at L155, zero citations of P-Q3/P-Q10
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
-- **Source**: outer-review
-- **Review files**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-02-claude-opus-5.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-02.md`
-- **Generated**: 2026-09-02
-- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT supplies the verified loci (Review §§2.6, 2.8, 4.4; all grep-verified 2026-09-02); Claude Opus 5 names the pattern this apex instantiates (articles asserting "genuine causal work … inherit that debt rather than discharge it" is "confession-without-correction in its purest form"). Three repairs. (1) L131's "shows ... causal work" and L78's "sits harder on epiphenomenalist than on interactionist readings" outrun the page's own L86 concession that felt efficacy does not show consciousness contributed the cause — choking and cognitive motor dissociation discriminate agency ARCHITECTURES, not causal direction (they are equally at home in comparator/higher-order/predictive-processing physicalisms); reword to consistent-with-and-predicted-by. (2) The 5-15% drift-rate figure at L155 is derived from no coupling model, prior estimate, or the Born-preserving formalism — derive it or delete the number and keep the qualitative deviation prediction. (3) Cite P-Q3 and P-Q10 at the executive summary, the chain-as-evidence section, and the conclusion: the causal-selection thesis is Grade D framework-internal and must not read as established mental causation. Same-file note: the open sign/direction P3 touches the apex tier broadly — different locus, no collision. Apex length is binding; run the length analyzer first and prefer replacement over addition. Sync both trees.
-
 ### P1: `apex/post-decoherence-selection-programme` — seven uses of "menu" language the corrected tenets wording now disclaims
 - **Type**: refine-draft
 - **Status**: pending
@@ -1944,6 +1934,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `apex/phenomenology-mechanism-bridge` asserts what the quantum-interface register grades D — L131 "The choking phenomenon shows consciousness doing causal work", L78 CMD comparative-strength claim, underived 5-15% figure at L155, zero citations of P-Q3/P-Q10
+- **Type**: refine-draft
+- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
+- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT supplies the verified loci (Review §§2.6, 2.8, 4.4; all grep-verified 2026-09-02); Claude Opus 5 names the pattern this apex instantiates (articles asserting "genuine causal work … inherit that debt rather than discharge it" is "confession-without-correction in its purest form"). Three repairs. (1) L131's "shows ... causal work" and L78's "sits harder on epiphenomenalist than on interactionist readings" outrun the page's own L86 concession that felt efficacy does not show consciousness contributed the cause — choking and cognitive motor dissociation discriminate agency ARCHITECTURES, not causal direction (they are equally at home in comparator/higher-order/predictive-processing physicalisms); reword to consistent-with-and-predicted-by. (2) The 5-15% drift-rate figure at L155 is derived from no coupling model, prior estimate, or the Born-preserving formalism — derive it or delete the number and keep the qualitative deviation prediction. (3) Cite P-Q3 and P-Q10 at the executive summary, the chain-as-evidence section, and the conclusion: the causal-selection thesis is Grade D framework-internal and must not read as established mental causation. Same-file note: the open sign/direction P3 touches the apex tier broadly — different locus, no collision. Apex length is binding; run the length analyzer first and prefer replacement over addition. Sync both trees.
 
 ### ✓ 2026-09-02: `concepts/substrate-independence` still delivers the categorical verdict (L46, L176 "purely computational systems ... cannot be conscious") that `apex/machine-question` and P-AC1 scope-corrected to bidirectionally-coupled consciousness only
 - **Type**: refine-draft
