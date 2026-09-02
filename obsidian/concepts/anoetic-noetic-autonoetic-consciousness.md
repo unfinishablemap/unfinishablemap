@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-09-01T20:04:45+00:00
+ai_modified: 2026-09-02T15:37:18+00:00
 last_deep_review: 2026-08-17T12:11:17+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-15
 last_curated:
 coalesced_from:
@@ -59,7 +59,7 @@ Noetic consciousness introduces a reflexive dimension absent from anoetic awaren
 
 *Autonoetic* (Greek: *autos* "self" + *noein* "to know") consciousness accompanies [[episodic-memory|episodic memory]] and enables mental time travel. When remembering a past event, the autonoetic subject is simultaneously present as the rememberer *here now* and as the protagonist *there then*. This double presence of self, the felt sense of pastness, and the qualitative character of re-living distinguish autonoetic from noetic awareness.
 
-Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time" — subjectively experienced time, not the physical time a calendar measures. Reviewing the developmental evidence, Suddendorf and Corballis (2007) find the capacity not reliably in place until around age four; before that, children operate in anoetic and noetic modes without the temporal self-projection that defines adult cognition. The [[infant-consciousness|infant consciousness void]] explores the consequence: the pre-autonoetic mode of experience is permanently inaccessible to the adult who has developed it, because the very apparatus of autonoetic self-awareness prevents simulating its absence. The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [[phenomenal-consciousness|phenomenal]] accompaniment.
+Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time" — subjectively experienced time, not the physical time a calendar measures. Reviewing the developmental evidence, Suddendorf and Corballis (2007) find the capacity not reliably in place until around age four; before that, children operate in anoetic and noetic modes without the temporal self-projection that defines adult cognition. The [[infant-consciousness|infant consciousness void]] explores the consequence: the pre-autonoetic mode of experience is permanently inaccessible to the adult who has developed it, because the very apparatus of autonoetic self-awareness prevents simulating its absence. The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [[phenomenal-consciousness|phenomenal]] accompaniment—though whether those responses mark a threshold recollection process or criterion placements on one continuous strength signal is contested (Wixted & Mickes, 2010), a dispute [addressed below](#the-semanticisation-problem).
 
 ## The Constitutive-Contingent Debate
 

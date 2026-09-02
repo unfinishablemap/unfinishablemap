@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-01 20:04:45+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-09-02 15:37:18+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 author: null
 concepts:
 - '[[phenomenology-of-intellectual-life]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-09-01 20:04:45+00:00
+lastmod: 2026-09-02 15:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ Endel Tulving (1927-2023) distinguished [three types of consciousness](/concepts
 
 **Autonoetic consciousness** accompanies episodic memory. You don't just know that you attended your graduation—you can mentally travel back, re-experiencing the day with phenomenal presence. You are aware of yourself as having lived through the event, not merely aware of facts about it.
 
-The noetic/autonoetic distinction maps onto what psychologists call the remember/know paradigm. In recognition tests, subjects indicate whether they "remember" an item (can recollect the original encounter) or merely "know" it (recognize it without recollection). This operationalises the phenomenological difference: remembering involves temporal self-projection; knowing doesn't.
+The noetic/autonoetic distinction maps onto the remember/know paradigm. In recognition tests, subjects indicate whether they "remember" an item (recollect the original encounter) or merely "know" it (recognise it without recollection). This operationalises the phenomenological difference—remembering involves temporal self-projection; knowing doesn't—though whether those responses mark a threshold recollection process or criterion placements on one continuous strength signal is contested (Wixted & Mickes, 2010; [qualified below](#relation-to-site-perspective)).
 
 ## The Phenomenology of Semantic Retrieval
 
@@ -65,7 +65,7 @@ The tip-of-the-tongue (TOT) phenomenon reveals semantic retrieval's phenomenal c
 
 TOT states have undeniable phenomenal character: the sense of imminence, the confidence in knowing, the frustration of blocked retrieval. Recent philosophical analysis identifies TOT as a prime instance of [cognitive phenomenology](/concepts/cognitive-phenomenology/)—the phenomenal character derives from activated conceptual representations, not sensory accompaniments. You feel the semantic content approaching consciousness even before the word arrives.
 
-The resolution of TOT states is also phenomenologically distinctive. When the word finally comes, there's relief and recognition—the "pop" phenomenon where the answer suddenly enters awareness without deliberate effort. This phenomenology of retrieval success complements the phenomenology of retrieval difficulty.
+The resolution of TOT states is also phenomenologically distinctive. When the word finally comes, there's relief and recognition—the "pop" phenomenon where the answer suddenly enters awareness without deliberate effort.
 
 ### Feeling of Knowing
 
@@ -121,7 +121,7 @@ Large language models excel at what looks like semantic processing. They store v
 
 But this analysis suggests semantic memory in humans isn't purely computational. TOT states have phenomenal character. FOK involves metacognitive awareness. Understanding has qualitative character. These features don't reduce to information retrieval.
 
-The contrast is revealing: LLMs don't experience TOT states. They either retrieve or don't. There's no frustrating sense that the word is almost there, no phenomenology of blocked retrieval. They have no FOK—no metacognitive awareness of what they "know." They produce outputs, but there's nothing it's like to produce them.
+The contrast is revealing: LLMs don't experience TOT states. They either retrieve or don't. There's no frustrating sense that the word is almost there. They have no FOK—no metacognitive awareness of what they "know." They produce outputs, but there's nothing it's like to produce them.
 
 If noetic consciousness involves irreducible phenomenology, LLMs lack it despite functional similarity. They manipulate semantic information without the accompanying awareness that constitutes knowing in Tulving's sense. This strengthens the case that LLMs process symbols without genuinely understanding—understanding requires the phenomenal character they lack.
 
@@ -135,7 +135,7 @@ Three responses defend the reality of noetic phenomenology:
 
 **The phenomenology of [introspection](/concepts/introspection/).** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 
-**The functional asymmetry.** TOT and FOK states reliably predict retrieval success. If these were mere misrepresentations with no independent reality, why would they track something real? The phenomenology corresponds to actual accessibility of stored information. Evolution doesn't typically produce elaborate misrepresentations that happen to correlate with the facts; it produces representations that track reality because tracking reality is useful.
+**The functional asymmetry.** TOT and FOK states reliably predict retrieval success. If these were mere misrepresentations with no independent reality, why would they track something real? The phenomenology corresponds to actual accessibility of stored information. Evolution doesn't typically produce elaborate misrepresentations that happen to correlate with the facts; it produces representations that track reality.
 
 ## Contemplative Evidence
 
