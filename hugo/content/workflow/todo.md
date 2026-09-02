@@ -39,6 +39,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The improper versus proper mixture distinction
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-rival-ontology-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-rival-ontology-wing (High Priority): deployed in at least fourteen live files and the hinge of the Map claim that decoherence leaves an outcome gap, yet no page owns d-Espagnat argument, the operational FAPP rejoinder, or the no-go that would show the distinction physically empty (the QD article names that as its own defeater). Tenets 1, 4, 5. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/improper-versus-proper-mixtures-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'improper-versus-proper-mixtures' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
+### P3: Research Envariance and the symmetry derivation of the Born rule
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-rival-ontology-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-rival-ontology-wing (Medium Priority): corpus repeatedly asserts envariance derives the probability measure without converting probability into actuality, but no page works the derivation, its assumptions, or the circularity objections. ASSESS FIRST per the review: topics/born-rule-and-the-consciousness-interface may already own enough that a paragraph-level expansion there beats a new page - the research note should render a fold-vs-standalone verdict and a decline is legitimate. Tenet 4. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/envariance-born-rule-derivation-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'envariance-born-rule-derivation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
 ### P3: `topics/quantum-darwinism-and-consciousness` — two Zurek quoted spans fail their arXiv sources: the 2009 objectivity quote is transposed and re-tailed, and the 2003 "does not, by itself, solve the measurement problem" span is absent from the cited RMP paper
 - **Type**: refine-draft
 - **File**: obsidian/topics/quantum-darwinism-and-consciousness.md
@@ -1858,14 +1870,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Added**: 2026-09-02 (driver, diverted locus from the 09-02 sweep)
 - **Notes**: The sweep fork diverted this file: it is parked ~3 words over the 3500 concepts hard threshold by a standing HUMAN LENGTH DECISION, and the minimal narrowing adds words. Constraint: net-non-positive replacement only (transplant the meditation-and-consciousness-modes L44 register, compressed). If no net-non-positive form preserves the claim, DEFER again rather than trim elsewhere — the park forbids compensatory condensing. Archive echo at archive/concepts/downward-causation.md L99 stays frozen per archive convention.
 
-### P2: positions-evolve add — "the Born rule is plausibly an emergent equilibrium condition, not a fundamental axiom" — flagged by the 2026-09-02 quantum-non-equilibrium expand (research Angle 4) and registered nowhere
-- **Type**: positions-evolve
-- **File**: obsidian/positions/quantum-interface.md
-- **Status**: pending
-- **Source**: positions_register_gap (chain from the 2026-09-02 01:43 expand-topic; the expand entry's explicit follow-up flag)
-- **Generated**: 2026-09-02
-- **Notes**: **Measured this run**: grep for equilibrium/Valentini across all `obsidian/positions/*.md` returns 0 — the register holds nothing on Born-rule contingency. The expand changelog flags research note Angle 4 verbatim: position candidate "Born rule plausibly an emergent equilibrium condition, not a fundamental axiom", low-to-moderate confidence, signal-nonlocality as live risk. Read `research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19.md` Angle 4 AND `topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule` on disk before drafting. **Confidence band: low-to-moderate AT MOST** — the article frames everything conditionally (IF pilot-wave AND non-equilibrium possible THEN Born contingent; antecedent not endorsed) and the entry must not upgrade what the article holds; name the Dürr–Goldstein–Zanghì typicality rival (equilibrium quasi-necessary) and its stated tension with Tenets 2–3; the consciousness link is the Map's own inference with NO scholarly source (the article owns this gap in its opening — the entry must carry it too). Argued-in candidates: the new article; `topics/born-rule-and-the-consciousness-interface`. Placement is the skill's call; quantum-interface.md is the natural domain file. Cap state: positions 17/80. LENGTH: quantum-interface.md measures 4845 critical under the STANDING register-grows-by-design decision (NEEDS-HUMAN section tuning) — keep the entry compact, no compensating cuts. **COLLISION**: the open P2 "positions-evolve update P-Q10" targets this same file — if both are pending, run this AFTER it, or re-read the file from disk immediately before writing; do not touch P-Q10's roadmap. Deliberate-friction rule honoured: this is the only positions-evolve add minted this run.
-
 ### P2: positions-evolve update P-M2 — register the values-in-science non-convergence finding (Ward's justify/cause distinction); the research note's third follow-on landed in both articles but never reached the register
 - **Type**: positions-evolve
 - **File**: obsidian/positions/methodology-and-calibration.md
@@ -1893,6 +1897,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: positions-evolve add — "the Born rule is plausibly an emergent equilibrium condition, not a fundamental axiom" — flagged by the 2026-09-02 quantum-non-equilibrium expand (research Angle 4) and registered nowhere
+- **Type**: positions-evolve
+- **File**: obsidian/positions/quantum-interface.md
+- **Notes**: **Measured this run**: grep for equilibrium/Valentini across all `obsidian/positions/*.md` returns 0 — the register holds nothing on Born-rule contingency. The expand changelog flags research note Angle 4 verbatim: position candidate "Born rule plausibly an emergent equilibrium condition, not a fundamental axiom", low-to-moderate confidence, signal-nonlocality as live risk. Read `research/bohmian-quantum-equilibrium-and-non-equilibrium-2026-07-19.md` Angle 4 AND `topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule` on disk before drafting. **Confidence band: low-to-moderate AT MOST** — the article frames everything conditionally (IF pilot-wave AND non-equilibrium possible THEN Born contingent; antecedent not endorsed) and the entry must not upgrade what the article holds; name the Dürr–Goldstein–Zanghì typicality rival (equilibrium quasi-necessary) and its stated tension with Tenets 2–3; the consciousness link is the Map's own inference with NO scholarly source (the article owns this gap in its opening — the entry must carry it too). Argued-in candidates: the new article; `topics/born-rule-and-the-consciousness-interface`. Placement is the skill's call; quantum-interface.md is the natural domain file. Cap state: positions 17/80. LENGTH: quantum-interface.md measures 4845 critical under the STANDING register-grows-by-design decision (NEEDS-HUMAN section tuning) — keep the entry compact, no compensating cuts. **COLLISION**: the open P2 "positions-evolve update P-Q10" targets this same file — if both are pending, run this AFTER it, or re-read the file from disk immediately before writing; do not touch P-Q10's roadmap. Deliberate-friction rule honoured: this is the only positions-evolve add minted this run.
 
 ### ✓ 2026-09-02: tenet-check 2026-09-02 Warning 1 — the remaining surface loci (descriptions, apex_thesis, headings, Further Reading blurbs) assert what their own repaired bodies withdraw; the valence ring closed 09-02, the rest are queued nowhere
 - **Type**: refine-draft

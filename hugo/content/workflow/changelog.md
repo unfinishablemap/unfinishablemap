@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T21:42:14+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The improper versus proper mixture distinction (mint: optimistic-2026-09-02-rival-ontology-wing §Expansion Opportunities High Priority)
+- **Output**: [improper-versus-proper-mixtures-2026-09-02](/research/improper-versus-proper-mixtures-2026-09-02/)
+- **Sources consulted**: 23 cited; 16 raw artefacts downloaded (arXiv TeX / pdftotext / LaTeXML) with every carried quote literal-grep-verified against its artefact or explicitly flagged catalogue-copy
+- **Corpus census**: ~35 live deployers of the distinction (16 topics, 9 concepts, 5 apex, 2 positions, 2 project, tenets.md) — more than the mint's 14+; hinge spans in [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) (admission L68, FAPP gesture L66, defeater L116) grep-verified verbatim
+- **Findings**: (1) the defeater the QD article names cannot arrive as a theorem inside unitary QM (insolubility-theorem family, Bacciagaluppi 2012) — restated as a three-route trilemma; (2) quote-fidelity defect: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) L77 attributes the Tomaz et al. 2025 sentence ("Decoherence does not tell how and why only one…") to Schlosshauer (2004) — 0 hits in raw quant-ph/0312059v4 TeX, positive hit in raw 2502.19278v3; note deep-review-2026-06-05 had falsely "VERIFIED" that attribution; (3) the quoted Zurek "does not, by itself, solve the measurement problem" (QD L62) has 0 hits in either Zurek 2003 arXiv source — demote to paraphrase or re-source; (4) weak flag on Colanero-as-improper-authority. Fix scopes swept across obsidian/hugo/archive and recorded as binding flags in the note
+- **Verdict**: standalone concept page (concur with mint); follow-on chain and integration targets proposed in the note. Todo/state untouched per skill contract
+
 ## 2026-09-02T20:38:40+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: add
