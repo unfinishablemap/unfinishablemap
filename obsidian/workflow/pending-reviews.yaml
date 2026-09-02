@@ -57,9 +57,9 @@
   commissioned_at: '2026-09-02T04:09:47.727603+00:00'
   prompt_summary: 'Full-site audit: novel inferences, gaps, tenet coherence, contradictions'
   target_filename: outer-review-2026-09-02-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-02T04:35:32.528385+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) auditing the content of

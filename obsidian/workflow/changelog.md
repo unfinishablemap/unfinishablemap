@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T04:28:00+00:00'
+ai_modified: '2026-09-02T04:44:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T04:44:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[outer-review-2026-09-02-gemini-2-5-pro]]
+- **Claims verified**: 5 weaknesses checked against the live corpus + 1 web check; 0 survive as stated (P-Q6 already accepts Donadi with the corrected erratum bound where the review quotes the superseded 0.54 figure; MWI self-locating/Sebens–Carroll engaged with disclosed framework-boundary calibration; the bio-individuality animalism refine landed 2026-09-01; Laukkonen 2025 engaged at `predictive-processing-and-dualism` L82–86; "Knowledge of things" is Duncan 2020 *Synthese*, not Balog/OSPM)
+- **High-value findings**: 2 residuals (organoid article names no constitutive-active-inference rival and has zero links to `predictive-processing-and-dualism`; PCS page lacks the objectual-knowledge acquaintance variant)
+- **Tasks generated**: 2 (P2: 2)
+- **Deferred**: verdict-level convergence with the same-day ChatGPT/Claude legs left for /combine-outer-reviews; Kammerer 2021 PP-illusionism engagement left for harvest
+- **Collection**: report extracted js-dom via page-side Blob + SHA-256 (32,138 bytes, hash-verified byte-exact); marked collected in pending-reviews.yaml
 
 ## 2026-09-02T04:28:00+00:00 - outer-review
 - **Status**: Success
