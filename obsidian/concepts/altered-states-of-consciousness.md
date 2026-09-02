@@ -1,10 +1,10 @@
 ---
 title: "Altered States of Consciousness"
-description: "Altered states reveal consciousness's range through meditation, psychedelics, and sleep. They challenge reductive accounts and support dualist frameworks."
+description: "Altered states reveal consciousness's range through meditation, psychedelics, sleep—constraining mind-brain mapping without by itself establishing dualism."
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-08-27T18:40:00+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

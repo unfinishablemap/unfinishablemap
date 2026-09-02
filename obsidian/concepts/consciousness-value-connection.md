@@ -1,10 +1,10 @@
 ---
 title: "The Consciousness-Value Connection"
-description: "Why consciousness is necessary for value to exist. Without experience, nothing can matter—not to anything, not in any way that counts."
+description: "The Map's foundational claim that consciousness is necessary for value: without experience, nothing can matter. Argued from a premise rivals dispute."
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-08-27T16:07:05+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"

@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-27T18:10:03+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -170,7 +170,7 @@ The filter/interface interpretation would face serious difficulty if:
 
 ## Relation to Site Perspective
 
-The Map's [[tenets]] converge on consciousness disruption as a domain where the dualist-interactionist framework provides explanatory advantages that materialist accounts lack.
+The Map's [[tenets]] converge on consciousness disruption as a domain the dualist-interactionist framework accommodates naturally, though production accounts accommodate the same cases by parallel moves.
 
 **[[tenets#^dualism|Dualism]]**: The DoC cases instantiate one evidential pattern—*production-predicted-absence-yet-observed-presence*—rather than three independent confirmations of dualism, and they should be counted as one. The propofol/ketamine divergence shows identical behavioural unresponsiveness correlating with radically different phenomenologies—extinction versus vivid experience. CMD patients retain full conscious function (language comprehension, task following, memory formation) despite severed motor output. Hemispherectomy patients retain consciousness despite losing half their cortex. These are three expressions of a single signature: consciousness appearing where a straightforward production reading predicts its diminution or absence. The filter theory accommodates the pattern by treating brain states as configuring an interface rather than generating consciousness—but the production theorist accommodates the same cases by parallel moves, treating each as a localised disruption of a still-intact generator (see the [[#Anesthesia: Different Drugs, Different Realities|anesthesia]] and [[#Brain Damage: Disconnection Rather Than Destruction|brain-damage]] sections above). The cluster therefore carries the evidential weight of one pattern, not three, and cannot honestly be cited as multiple independent confirmations; the discriminating work, where it can be done, comes from broader theoretical considerations rather than from a tally of cases. Each theory tested against DoC evidence faces distinctive pressure—functionalism cannot define "relevant function" without circularity, GNWT's broadcasting predictions fail empirically, IIT's Φ calculations remain unfalsifiable in practice, and higher-order theories cannot account for CMD awareness.
 

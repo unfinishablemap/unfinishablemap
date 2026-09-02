@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-08-25T01:11:44+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -261,7 +261,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: What it feels like when mind acts on matter
 
-**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain.
+**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that persists across traditions and that epiphenomenalism cannot accommodate.
 
 **Source articles**:
 - topics/phenomenology-of-agency-vs-passivity

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-08-25 01:11:44+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -13,7 +13,7 @@ draft: false
 human_modified: 2026-01-24
 last_curated: null
 last_deep_review: 2026-04-27 21:27:00+00:00
-lastmod: 2026-08-25 01:11:44+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -264,7 +264,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: What it feels like when mind acts on matter
 
-**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain.
+**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that persists across traditions and that epiphenomenalism cannot accommodate.
 
 **Source articles**:
 - topics/phenomenology-of-agency-vs-passivity

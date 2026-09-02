@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-01 23:48:07.744395+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,8 +33,8 @@ concepts:
 - '[[neuroplasticity]]'
 created: 2026-02-02
 date: &id001 2026-03-22
-description: Skill acquisition challenges epiphenomenalism—deliberate practice, flow,
-  and skill restructuring show that how consciousness engages shapes outcomes.
+description: Skill acquisition constrains epiphenomenalism—deliberate practice, flow,
+  and restructuring form one pattern with the evidential weight of one finding.
 draft: false
 embedded_videos:
 - embedded: 2026-09-01 23:48:07.744395+00:00
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 11:18:29+00:00
-lastmod: 2026-09-01 23:48:07.744395+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

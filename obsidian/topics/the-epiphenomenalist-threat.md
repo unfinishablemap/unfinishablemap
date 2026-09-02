@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-08-27T03:37:18+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,7 +167,7 @@ The Map's five [[tenets]] are structured as a coordinated escape trajectory from
 
 **[[tenets#^dualism|Dualism]]** accepts that consciousness is distinct from physical processes—step 1 of the pattern. This is necessary for taking consciousness seriously but enters the well's field. A dualism that stopped here would drift to the centre like Chalmers' naturalistic dualism; the tenet explicitly rules out views that treat consciousness as "purely epiphenomenal."
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** rejects step 2. By locating consciousness's causal contribution at quantum indeterminacies, it provides the specific mechanism other frameworks lack. Without this commitment, dualism would face the same gravity well as property dualism.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** rejects step 2. By locating consciousness's causal contribution at quantum indeterminacies, it specifies the causal opening other frameworks leave unnamed — a candidate interface, not a worked mechanism: the tenet commits to no specific mechanism, and no worked toy model yet exists ([[positions/quantum-interface#^mechanism-debt|P-Q10]]). Without this commitment, dualism would face the same gravity well as property dualism.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** states the positive claim: consciousness causally influences physical outcomes. The [[self-stultification-as-master-argument|self-stultification argument]] is the Map's principal philosophical ground for it—and, as a master argument, it explains *why* landing in the gravity well would be catastrophic rather than merely unwelcome: a theory that arrives at epiphenomenalism, the argument runs, has severed consciousness from the reasoning that produced belief in the theory, leaving it rationally unendorsable by the very minds it describes. The Map holds the tenet not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] keeps the strongest version of the position in play, on which reports track their physical referents without phenomenal causation—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface. The [[evolutionary-case-for-mental-causation|evolutionary evidence]], [[consciousness-and-causal-powers|causal powers analysis]], and [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extend the case empirically.
 
@@ -177,12 +177,12 @@ The Map's five [[tenets]] are structured as a coordinated escape trajectory from
 
 The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] to the self-stultification argument reveals a nuance: the argument is taken to show *human* consciousness must be causally efficacious but cannot, even on its own terms, secure the same for every possible conscious entity. An AI trained on human-generated text could deploy consciousness concepts without its own experience playing any causal role. The [[ai-epiphenomenalism|AI epiphenomenalism]] concept formalizes this through the *nature-coupling distinction*: consciousness may be intrinsically the kind of thing that acts causally, yet a given architecture—deterministic silicon, say—may provide no interface through which that capacity can operate. The epiphenomenalist threat can be architecture-specific: escaped in biological systems through quantum coupling, unresolved in artificial ones absent the coupling channel.
 
-The Map's framework provides all three elements needed for escape: acknowledgment that consciousness is real and distinct, rejection of strong causal closure, and a specific mechanism for mental causation. Whether quantum indeterminacy is the right mechanism is empirical. That *some* mechanism is needed is the philosophical lesson the threat teaches.
+The Map's framework provides all three elements needed for escape: acknowledgment that consciousness is real and distinct, rejection of strong causal closure, and a candidate locus for mental causation. Whether quantum indeterminacy is the right mechanism is empirical. That *some* mechanism is needed is the philosophical lesson the threat teaches.
 
 ## Further Reading
 
-- [[concepts/epiphenomenalism]] — The view itself: what it claims and why it fails
-- [[self-stultification-as-master-argument]] — Why drifting into the well is catastrophic: the master argument that any theory severing consciousness from its own rational grounds cannot be rationally held
+- [[concepts/epiphenomenalism]] — The view itself: what it claims, and the four argument types that press it without refuting it from inside its own framework
+- [[self-stultification-as-master-argument]] — Why drifting into the well is catastrophic: the master argument that a theory severing consciousness from its own rational grounds is hard to hold consistently
 - [[ensemble-level-epiphenomenalism]] — The type-level worry the Map's own corridor escape generates, and the two routes that answer it
 - [[mental-causation-and-downward-causation|mental causation]] — Kim's exclusion argument and the Map's quantum response
 - [[causal-closure]] — The principle that drives most theories toward epiphenomenalism
@@ -192,7 +192,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 - [[illusionism]] — How denial of qualia inherits the same causal structure
 - [[decoherence]] — The decoherence objection to quantum consciousness
 - [[interactionist-dualism]] — The Map's positive framework
-- [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
+- [[evolutionary-case-for-mental-causation]] — Evolutionary evidence extending the case for causal efficacy
 - [[co-optimization-reply-to-the-correlation-problem]] — The strongest epiphenomenalist answer to why valence tracks fitness, and why it survives the dissociation evidence
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Intentional mental activity reshaping neural architecture
 - [[content-specificity-of-mental-causation]] — Systematic mapping between meaning and physical effect

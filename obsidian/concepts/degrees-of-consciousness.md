@@ -1,10 +1,10 @@
 ---
 title: "Degrees of Consciousness"
-description: "Consciousness varies in intensity and richness, not just in kind. Gradation evidence from anaesthesia, sleep, and animal cognition constrains theories of consciousness and supports interface dualism."
+description: "Consciousness varies in intensity and richness, not just kind. Gradation from anaesthesia, sleep, and animal cognition constrains theories of consciousness."
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-08-27T18:10:03+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:

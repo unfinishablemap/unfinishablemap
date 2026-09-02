@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-27 03:37:18+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:22:25+00:00
-lastmod: 2026-08-27 03:37:18+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
@@ -99,7 +99,7 @@ For the broader question of mental causation, see [mental causation](/concepts/m
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How consciousness exercises its causal powers, with constraints and examples
 - [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) — Empirical illustration of consciousness exercising causal powers in two registers: placebo's content-direction and choking's mode-disruption
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The contrary view that powers realism rules out as metaphysically impossible
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The contrary view that powers realism, if granted, rules out — a consequence conditional on the framework
 - [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
 - [agent-causation](/concepts/agent-causation/) — Substance causation and the metaphysical foundation for free will
 - [four-category-ontology](/concepts/four-category-ontology/) — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-27 18:10:03+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 apex_last_synthesis: 2026-07-17 00:19:07+00:00
 apex_sources:
@@ -15,8 +15,8 @@ apex_sources:
 - voids/self-opacity
 - concepts/attention-as-interface
 apex_thesis: The felt texture of consciousness in action — effort, selection, holding,
-  and opacity — constitutes a coherent phenomenological profile that cross-cultural
-  evidence confirms and materialist accounts cannot adequately explain.
+  and opacity — constitutes a coherent phenomenological profile that persists across
+  traditions and that epiphenomenalism cannot accommodate.
 author: null
 concepts:
 - '[[mental-imagery]]'
@@ -28,8 +28,7 @@ concepts:
 created: 2026-02-23
 date: &id001 2026-05-19
 description: What does it feel like if consciousness acts on matter? Effort, selection,
-  holding, and opacity form a coherent phenomenological profile that materialist accounts
-  struggle to explain.
+  holding, and opacity form a coherent profile epiphenomenalism cannot accommodate.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.610507+00:00
@@ -39,7 +38,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-08-27 18:10:03+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

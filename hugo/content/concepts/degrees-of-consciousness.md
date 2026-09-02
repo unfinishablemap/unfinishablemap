@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-27 18:10:03+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,14 +16,13 @@ concepts:
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-03-20
 date: &id001 2026-03-20
-description: Consciousness varies in intensity and richness, not just in kind. Gradation
-  evidence from anaesthesia, sleep, and animal cognition constrains theories of consciousness
-  and supports interface dualism.
+description: Consciousness varies in intensity and richness, not just kind. Gradation
+  from anaesthesia, sleep, and animal cognition constrains theories of consciousness.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 09:58:42+00:00
-lastmod: 2026-08-27 18:10:03+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

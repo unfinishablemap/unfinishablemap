@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-08-27 16:07:05+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,13 +16,13 @@ concepts:
 - '[[epiphenomenalism]]'
 created: 2026-02-02
 date: &id001 2026-02-02
-description: Why consciousness is necessary for value to exist. Without experience,
-  nothing can matter—not to anything, not in any way that counts.
+description: 'The Map''s foundational claim that consciousness is necessary for value:
+  without experience, nothing can matter. Argued from a premise rivals dispute.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 15:01:12+00:00
-lastmod: 2026-08-27 16:07:05+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

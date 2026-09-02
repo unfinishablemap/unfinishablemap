@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-27T03:37:18+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -96,7 +96,7 @@ For the broader question of mental causation, see [[mental-causation-and-downwar
 - [[consciousness-and-causal-powers]] — How consciousness exercises its causal powers, with constraints and examples
 - [[empirical-phenomena-mental-causation]] — Empirical illustration of consciousness exercising causal powers in two registers: placebo's content-direction and choking's mode-disruption
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
-- [[epiphenomenalism]] — The contrary view that powers realism rules out as metaphysically impossible
+- [[epiphenomenalism]] — The contrary view that powers realism, if granted, rules out — a consequence conditional on the framework
 - [[causal-closure]] — Why physical causal closure is not absolute at quantum indeterminacies
 - [[agent-causation]] — Substance causation and the metaphysical foundation for free will
 - [[four-category-ontology]] — Lowe's ontology, where substances (not properties or events) are the bearers and exercisers of the powers this article describes

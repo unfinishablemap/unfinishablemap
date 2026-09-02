@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-08-26 22:05:50+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -29,14 +29,13 @@ concepts:
 - '[[tenet-falsification-conditions]]'
 created: 2026-01-26
 date: &id001 2026-02-07
-description: If consciousness is distinct from physics, fundamental laws must connect
-  them. Chalmers provides the upward framework; The Unfinishable Map adds downward
-  selection through quantum mechanisms.
+description: If consciousness is distinct, laws must bridge mind and matter. Chalmers
+  frames the upward leg; downward-selection candidates are not yet fully specified.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-08-26 22:05:50+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

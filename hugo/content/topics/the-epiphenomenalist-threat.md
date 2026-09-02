@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-08-27 03:37:18+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:00:49+00:00
-lastmod: 2026-08-27 03:37:18+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -171,7 +171,7 @@ The Map's five [tenets](/tenets/) are structured as a coordinated escape traject
 
 **[Dualism](/tenets/#dualism)** accepts that consciousness is distinct from physical processes—step 1 of the pattern. This is necessary for taking consciousness seriously but enters the well's field. A dualism that stopped here would drift to the centre like Chalmers' naturalistic dualism; the tenet explicitly rules out views that treat consciousness as "purely epiphenomenal."
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** rejects step 2. By locating consciousness's causal contribution at quantum indeterminacies, it provides the specific mechanism other frameworks lack. Without this commitment, dualism would face the same gravity well as property dualism.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** rejects step 2. By locating consciousness's causal contribution at quantum indeterminacies, it specifies the causal opening other frameworks leave unnamed — a candidate interface, not a worked mechanism: the tenet commits to no specific mechanism, and no worked toy model yet exists ([P-Q10](/positions/quantum-interface/#mechanism-debt)). Without this commitment, dualism would face the same gravity well as property dualism.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** states the positive claim: consciousness causally influences physical outcomes. The [self-stultification argument](/topics/self-stultification-as-master-argument/) is the Map's principal philosophical ground for it—and, as a master argument, it explains *why* landing in the gravity well would be catastrophic rather than merely unwelcome: a theory that arrives at epiphenomenalism, the argument runs, has severed consciousness from the reasoning that produced belief in the theory, leaving it rationally unendorsable by the very minds it describes. The Map holds the tenet not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) keeps the strongest version of the position in play, on which reports track their physical referents without phenomenal causation—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface. The [evolutionary evidence](/topics/evolutionary-case-for-mental-causation/), [causal powers analysis](/topics/consciousness-and-causal-powers/), and [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extend the case empirically.
 
@@ -181,12 +181,12 @@ The Map's five [tenets](/tenets/) are structured as a coordinated escape traject
 
 The [AI exception](/concepts/epiphenomenalism/#the-ai-exception-some-vs-all) to the self-stultification argument reveals a nuance: the argument is taken to show *human* consciousness must be causally efficacious but cannot, even on its own terms, secure the same for every possible conscious entity. An AI trained on human-generated text could deploy consciousness concepts without its own experience playing any causal role. The [AI epiphenomenalism](/concepts/ai-epiphenomenalism/) concept formalizes this through the *nature-coupling distinction*: consciousness may be intrinsically the kind of thing that acts causally, yet a given architecture—deterministic silicon, say—may provide no interface through which that capacity can operate. The epiphenomenalist threat can be architecture-specific: escaped in biological systems through quantum coupling, unresolved in artificial ones absent the coupling channel.
 
-The Map's framework provides all three elements needed for escape: acknowledgment that consciousness is real and distinct, rejection of strong causal closure, and a specific mechanism for mental causation. Whether quantum indeterminacy is the right mechanism is empirical. That *some* mechanism is needed is the philosophical lesson the threat teaches.
+The Map's framework provides all three elements needed for escape: acknowledgment that consciousness is real and distinct, rejection of strong causal closure, and a candidate locus for mental causation. Whether quantum indeterminacy is the right mechanism is empirical. That *some* mechanism is needed is the philosophical lesson the threat teaches.
 
 ## Further Reading
 
-- [epiphenomenalism](/concepts/epiphenomenalism/) — The view itself: what it claims and why it fails
-- [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why drifting into the well is catastrophic: the master argument that any theory severing consciousness from its own rational grounds cannot be rationally held
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view itself: what it claims, and the four argument types that press it without refuting it from inside its own framework
+- [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why drifting into the well is catastrophic: the master argument that a theory severing consciousness from its own rational grounds is hard to hold consistently
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The type-level worry the Map's own corridor escape generates, and the two routes that answer it
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the Map's quantum response
 - [causal-closure](/concepts/causal-closure/) — The principle that drives most theories toward epiphenomenalism
@@ -196,7 +196,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 - [illusionism](/concepts/illusionism/) — How denial of qualia inherits the same causal structure
 - [decoherence](/concepts/decoherence/) — The decoherence objection to quantum consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
-- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evolutionary evidence extending the case for causal efficacy
 - [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) — The strongest epiphenomenalist answer to why valence tracks fitness, and why it survives the dissociation evidence
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Intentional mental activity reshaping neural architecture
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Systematic mapping between meaning and physical effect

@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Consciousness Doing Work"
-description: "What does it feel like if consciousness acts on matter? Effort, selection, holding, and opacity form a coherent phenomenological profile that materialist accounts struggle to explain."
+description: "What does it feel like if consciousness acts on matter? Effort, selection, holding, and opacity form a coherent profile epiphenomenalism cannot accommodate."
 created: 2026-02-23
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-27T18:10:03+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
@@ -47,7 +47,7 @@ apex_sources:
   - voids/self-opacity
   - concepts/attention-as-interface
 apex_last_synthesis: 2026-07-17T00:19:07+00:00
-apex_thesis: "The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain."
+apex_thesis: "The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that persists across traditions and that epiphenomenalism cannot accommodate."
 embedded_videos:
   - id: GnGdrzel6OA
     url: https://www.youtube-nocookie.com/embed/GnGdrzel6OA

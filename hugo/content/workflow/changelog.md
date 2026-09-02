@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T19:51:47+00:00'
+ai_modified: '2026-09-02T20:08:52+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 19:51:47+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T20:08:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) (priority item of a multi-file surface-alignment sweep; 12 files touched in total, itemised under Changes)
+- **Original score**: n/a (the skill's `scripts/curate.py review` command does not exist — skipped per driver briefing)
+- **Changes**: navigation-surfaces alignment — each inflated surface aligned DOWN to its file's own repaired body register, wording transplanted from the repaired passage, no body re-inflated. (1) **apex/phenomenology-of-consciousness-doing-work** — description retired "materialist accounts struggle to explain" and apex_thesis retired "cross-cultural evidence confirms and materialist accounts cannot adequately explain" for the Synthesis-section register (convergence targets epiphenomenalism, not non-reductive physicalism; profile "persists across traditions" per the Universal Core/Synthesis wording); the post-edit sweep found the retired apex_thesis string mirrored verbatim in [apex-articles](/apex/apex-articles/) §12 (the downstream-seeding surface the task named) — that thesis line updated to the new string, same surface propagated, nothing else in the index touched. (2) **topics/the-epiphenomenalist-threat** — Tenet-2 Relation paragraph "provides the specific mechanism other frameworks lack" recast to candidate-interface register ("commits to no specific mechanism, and no worked toy model yet exists", citing [P-Q10](/positions/quantum-interface/#mechanism-debt); tenets.md Candidate-mechanisms paragraph and P-Q10 read on disk first); "a specific mechanism for mental causation" → "a candidate locus"; Further Reading blurbs: "what it claims and why it fails" → four-argument-types register ("press it without refuting it from inside its own framework"), "cannot be rationally held" → "hard to hold consistently", "Why evolution requires consciousness to be causally efficacious" → "Evolutionary evidence extending the case for causal efficacy". (3) **concepts/causal-powers** — Further Reading blurb "rules out as metaphysically impossible" → "if granted, rules out — a consequence conditional on the framework" (its own repaired second-point wording). (4) **concepts/ai-epiphenomenalism** — heading retitled "Self-Stultification: Decisive for Humans Against Bare Correlation, Limited for AI" per the repaired Relation-section bare-correlation scoping; no inbound section-anchor links to the old heading in either tree (grep-verified before rename); fresh L79 corridor-transplant region untouched. (5) **concepts/epiphenomenalism** — one-clause scoping: "why epiphenomenalism is wrong" → "why epiphenomenalism is hard to hold in its bare-correlation form" (its own self-stultification-section register). (6) **four descriptions**: consciousness-and-skill-acquisition (one-pattern/one-finding register), altered-states-of-consciousness ("without by itself establishing dualism"), degrees-of-consciousness ("supports interface dualism" dropped per filter-theory hub's one-pattern-not-seven weighting note), psychophysical-laws-bridging-mind-and-matter ("downward-selection candidates are not yet fully specified" per the specification-threshold passage). Optional low-severity items taken: **consciousness-disruption-and-the-mind-brain-interface** Relation intro ("provides explanatory advantages that materialist accounts lack" → "accommodates naturally, though production accounts accommodate the same cases by parallel moves", its own description/Dualism-paragraph register) and **consciousness-value-connection** description (marked as the Map's foundational claim, "argued from a premise rivals dispute" per its disputed-premise passages).
+- **ai_system**: unchanged in every file (clause-level replacements only).
+- **Excluded per task fences (not touched)**: concepts/valence, concepts/semantic-memory, concepts/llm-consciousness.
+- **Residue for the driver (out of mandate, NOT fixed)**: (a) ai-epiphenomenalism body under the retitled heading still opens "For humans, the argument is decisive:" — flat form predating the repaired bare-correlation scoping; the heading now carries the scoping, the body sentence was not a mandated locus. (b) apex/phenomenology-of-consciousness-doing-work L60 roadmap sentence still reads "cross-cultural evidence confirms the profile's universality" — an unrepaired body echo of the retired apex_thesis phrasing, left because it is body text and not a mandated locus. (c) archive/topics/epiphenomenal-ai-consciousness (both trees) retains the old heading — archived URL-preserving predecessor, outside the mandate.
+- **Published**: yes
 
 ## 2026-09-02T19:51:47+00:00 - deep-review
 - **Status**: Success

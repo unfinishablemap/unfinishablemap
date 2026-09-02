@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Skill Acquisition"
-description: "Skill acquisition challenges epiphenomenalism—deliberate practice, flow, and skill restructuring show that how consciousness engages shapes outcomes."
+description: "Skill acquisition constrains epiphenomenalism—deliberate practice, flow, and restructuring form one pattern with the evidential weight of one finding."
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-09-01T23:48:07.744395+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-08-27 18:10:03+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-08-27 18:10:03+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ The filter/interface interpretation would face serious difficulty if:
 
 ## Relation to Site Perspective
 
-The Map's [tenets](/tenets/) converge on consciousness disruption as a domain where the dualist-interactionist framework provides explanatory advantages that materialist accounts lack.
+The Map's [tenets](/tenets/) converge on consciousness disruption as a domain the dualist-interactionist framework accommodates naturally, though production accounts accommodate the same cases by parallel moves.
 
 **[Dualism](/tenets/#dualism)**: The DoC cases instantiate one evidential pattern—*production-predicted-absence-yet-observed-presence*—rather than three independent confirmations of dualism, and they should be counted as one. The propofol/ketamine divergence shows identical behavioural unresponsiveness correlating with radically different phenomenologies—extinction versus vivid experience. CMD patients retain full conscious function (language comprehension, task following, memory formation) despite severed motor output. Hemispherectomy patients retain consciousness despite losing half their cortex. These are three expressions of a single signature: consciousness appearing where a straightforward production reading predicts its diminution or absence. The filter theory accommodates the pattern by treating brain states as configuring an interface rather than generating consciousness—but the production theorist accommodates the same cases by parallel moves, treating each as a localised disruption of a still-intact generator (see the [anesthesia](#anesthesia-different-drugs-different-realities) and [brain-damage](#brain-damage-disconnection-rather-than-destruction) sections above). The cluster therefore carries the evidential weight of one pattern, not three, and cannot honestly be cited as multiple independent confirmations; the discriminating work, where it can be done, comes from broader theoretical considerations rather than from a tally of cases. Each theory tested against DoC evidence faces distinctive pressure—functionalism cannot define "relevant function" without circularity, GNWT's broadcasting predictions fail empirically, IIT's Φ calculations remain unfalsifiable in practice, and higher-order theories cannot account for CMD awareness.
 

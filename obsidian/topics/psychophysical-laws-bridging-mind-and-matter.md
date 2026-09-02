@@ -1,10 +1,10 @@
 ---
 title: "Psychophysical Laws: Bridging Mind and Matter"
-description: "If consciousness is distinct from physics, fundamental laws must connect them. Chalmers provides the upward framework; The Unfinishable Map adds downward selection through quantum mechanisms."
+description: "If consciousness is distinct, laws must bridge mind and matter. Chalmers frames the upward leg; downward-selection candidates are not yet fully specified."
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-08-26T22:05:50+00:00
+ai_modified: 2026-09-02T20:08:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

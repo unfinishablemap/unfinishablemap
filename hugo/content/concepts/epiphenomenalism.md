@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-27 03:37:18+00:00
+ai_modified: 2026-09-02 20:08:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-08-27 03:37:18+00:00
+lastmod: 2026-09-02 20:08:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ topics:
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
 
-Within [philosophy of mind](/concepts/philosophy-of-mind/), dualists face a choice: [interactionism](/concepts/interactionist-dualism/) (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), or parallelism (no causal connection). The Unfinishable Map's [tenets](/tenets/) explicitly reject epiphenomenalism via the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the Map affirms.
+Within [philosophy of mind](/concepts/philosophy-of-mind/), dualists face a choice: [interactionism](/concepts/interactionist-dualism/) (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), or parallelism (no causal connection). The Unfinishable Map's [tenets](/tenets/) explicitly reject epiphenomenalism via the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Understanding why epiphenomenalism is hard to hold in its bare-correlation form—and why it remains tempting—clarifies what the Map affirms.
 
 ## The View
 
