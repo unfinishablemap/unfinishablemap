@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T08:29:00+00:00'
+ai_modified: '2026-09-02T08:34:11+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T08:34:11+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
+- **Cap state**: topics 324/360 (90.0%), concepts 321/360 (89.2%), voids 99/115 (86.1%), positions 17/80 — measured via `tools.evolution.state.count_section_files`. No section above 90% after the 2026-09-01 cap raise, so cap pressure argues against marginal merges.
+- **Pool movement check (the only informative signal per the 2026-09-01 memory update)**: 7 articles added since the 2026-08-24 exhaustive sweep — 4 topics ([[multi-agent-born-preservation-problem]] 09-01, [[synthetic-minimal-agents-and-the-engineered-decoupling]] 09-01, [[sherrington-dualist-lineage]] 09-02, [[quantum-non-equilibrium-and-the-contingency-of-the-born-rule]] 09-02) and 3 concepts ([[filter-vs-interface-distinction]] 08-27, [[no-self-objection-to-phenomenal-value]] 08-27, [[semanticisation]] 09-01). ALL still inside the 7-day age floor.
+- **Ancestry pair** [[episodic-memory]] + [[anoetic-noetic-autonoetic-consciousness]]: still age-blocked (both `ai_modified` 2026-09-01T20:04:45, yesterday's semanticisation integration pass).
+- **Decision**: no corpus re-sweep. Both orthogonal screen orders (TF-IDF-first and length-feasibility-first) returned empty independently on 2026-08-24, the shared-ancestry angle closed on the merits 2026-09-01, and nothing has crossed the age floor in the ~14h since that abandon — a re-run would be pure re-litigation. All genuinely-strong redundancies remain parked under NEEDS-HUMAN todo entries the loop must not preempt.
+- **Next informative run**: on/after 2026-09-03, when the two 08-27 concepts articles pass the age floor. Note [[filter-vs-interface-distinction]] is itself a distinction-drawing article (exists to keep two concepts apart) — a structural anti-candidate for merging.
+- **References to review**: none (no content files changed)
 
 ## 2026-09-02T08:28 - refine-draft
 - **Status**: Success
