@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T22:58:40+00:00'
+ai_modified: '2026-09-02T23:21:57+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T23:21:57+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Context**: Integrate [[topics/sherrington-dualist-lineage]] into the history hub — spine ran The Materialist Eclipse straight into The Quantum Opening with 0 mentions of Sherrington/Penfield/Eccles (grep-verified at mint, pick, and session)
+- **Word count**: 2569 → 2826 (+257; 94% of topics soft 3000, ok)
+- **Changes**: bridge paragraph closing The Materialist Eclipse (agnostic pole → clinical middle → Beck–Eccles quantum terminus, handing off to The Quantum Opening); Further Reading + related_articles entries; 3 References transplanted from the lineage article's verified ledger (Sherrington 1940, Penfield 1975, Beck & Eccles 1992) — all inline↔References paired
+- **Calibrations imported**: provenance-never-authority-count stated in the bridge; nothing from the 1947 Integrative Action foreword attributed to Man on His Nature; Sherrington→students gradient preserved (limit-claim, not interaction theory)
+- **Reciprocal**: lineage article already links the hub in body Further Reading + frontmatter — no edit needed; hub-side link fixes its near-orphan state
+- **Frontmatter**: ai_modified advanced (strictly-past UTC); last_deep_review deliberately NOT advanced (scoped cross-review, not a full pass); ai_system unchanged per paragraph-level-integration convention
+- **Output**: [[reviews/cross-review-2026-09-02-history-of-the-interaction-problem]]
 
 ## 2026-09-02T22:58:40+00:00 - research-topic
 - **Status**: Success

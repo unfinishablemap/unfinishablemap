@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T23:02:31.978911+00:00'
-session_count: 19881
+last_updated: '2026-09-02T23:09:26.207246+00:00'
+session_count: 19882
 cycle_position: 13081
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-02T22:07:57.289908+00:00'
   refine-draft: '2026-09-02T20:16:00.296668+00:00'
-  replenish-queue: '2026-09-02T22:40:19.873228+00:00'
+  replenish-queue: '2026-09-02T23:09:26.207246+00:00'
   research-topic: '2026-09-02T23:02:31.978911+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-02'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-02'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/first-order-representationalism/
@@ -459,7 +459,45 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-02T23:06:18+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1020. STANDARD MODE, ONE MINT, fired by the 22:58 envariance research completion consuming the run-1019 promoted P2 and dropping parser-verified pickable P0-P2 to 2 (count_p0_p2_tasks consulted; Sherrington cross-review + improper-mixtures expand, matching the driver briefing) against the floor of 3. Sections re-measured live via tools.evolution.state.count_section_files: topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - no cap pressure. THE MINT: P2 expand-topic "Write article on envariance and the symmetry derivation of the Born rule" (target concepts/, proposed slug concepts/envariance), chained from research/envariance-born-rule-derivation-2026-09-02.md whose Consumption Verdict is a BINDING STANDALONE: both fold routes priced and declined on length (born-rule interface 5314/4000 under the standing human deferral; probability-problem 3997/4000). The notes four binding citation-fidelity findings (Mertens/van-Wezel wrong surname; Barnum 2000-vs-2003 anachronism; Schlosshauer-Fine-to-Barnum attribution transfer; proves-circular calibration seam) ride the expand-to-cross-review chain as riders named in the task Notes, NOT separate mints, per driver briefing. Dedup verified at mint: no live or archived envariance article (both trees grepped = 0), zero active-region collisions, Vetoed bank grep for envariance = 0 entries (the checkmarked 2026-03-16 Born-rule-derivations entry in the historical record is completed research, not a veto), and the do-not-duplicate list held untouched (Zurek quote-fidelity P3, Tomaz misattribution P3, rival-ontology cross-links P3, consumed_by stamping P2, driver/review P3s). Two same-source expand tasks (improper-mixtures + envariance) now coexist from the same optimistic-review harvest - the intended pipeline shape per briefing, scopes disjoint; the improper tasks quote-discipline block already fences the Zurek spans. OTHER SOURCES unchanged since run 1019s full audit 27 minutes earlier - the only intervening completion is the envariance research itself, which is exactly this mints chain parent: chain otherwise drained, unconsumed research holds only the operator-held fusion-void pending_articles entry (untouched per briefing) plus the threaded/stranded notes, zero new length offenders, orphans 0, staleness pool saturated at 98 parser-active P3s, gap/positions/apex harvester-governed and deliberate-friction. Insertion anchored on the Completed-marker line and placed ABOVE it per the appends-only briefing (never next-header scanning); todo frontmatter ai_modified bumped from live date -u. Post-edit verification: count_p0_p2_tasks == 3; parser buckets active 101 (98 P3 active-bucket + 3 pickable P2), vetoed 3; p2_tasks 6 below keeps the run-1018 convention (all active-region P2 headers including the three veto-tagged condenses); p3_tasks 98 is the parse_tasks active-bucket count AND the header-grep count above the marker - the two systems agree this run (run 1019 recorded a benign disagreement; none observed now); state YAML load-verified after this write. No changelog tmp strays; no concurrent loop observed (no completion after 22:58).'
+  last_replenishment_note: 'RUN 1020. STANDARD MODE, ONE MINT, fired by the 22:58
+    envariance research completion consuming the run-1019 promoted P2 and dropping
+    parser-verified pickable P0-P2 to 2 (count_p0_p2_tasks consulted; Sherrington
+    cross-review + improper-mixtures expand, matching the driver briefing) against
+    the floor of 3. Sections re-measured live via tools.evolution.state.count_section_files:
+    topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - no cap pressure.
+    THE MINT: P2 expand-topic "Write article on envariance and the symmetry derivation
+    of the Born rule" (target concepts/, proposed slug concepts/envariance), chained
+    from research/envariance-born-rule-derivation-2026-09-02.md whose Consumption
+    Verdict is a BINDING STANDALONE: both fold routes priced and declined on length
+    (born-rule interface 5314/4000 under the standing human deferral; probability-problem
+    3997/4000). The notes four binding citation-fidelity findings (Mertens/van-Wezel
+    wrong surname; Barnum 2000-vs-2003 anachronism; Schlosshauer-Fine-to-Barnum attribution
+    transfer; proves-circular calibration seam) ride the expand-to-cross-review chain
+    as riders named in the task Notes, NOT separate mints, per driver briefing. Dedup
+    verified at mint: no live or archived envariance article (both trees grepped =
+    0), zero active-region collisions, Vetoed bank grep for envariance = 0 entries
+    (the checkmarked 2026-03-16 Born-rule-derivations entry in the historical record
+    is completed research, not a veto), and the do-not-duplicate list held untouched
+    (Zurek quote-fidelity P3, Tomaz misattribution P3, rival-ontology cross-links
+    P3, consumed_by stamping P2, driver/review P3s). Two same-source expand tasks
+    (improper-mixtures + envariance) now coexist from the same optimistic-review harvest
+    - the intended pipeline shape per briefing, scopes disjoint; the improper tasks
+    quote-discipline block already fences the Zurek spans. OTHER SOURCES unchanged
+    since run 1019s full audit 27 minutes earlier - the only intervening completion
+    is the envariance research itself, which is exactly this mints chain parent: chain
+    otherwise drained, unconsumed research holds only the operator-held fusion-void
+    pending_articles entry (untouched per briefing) plus the threaded/stranded notes,
+    zero new length offenders, orphans 0, staleness pool saturated at 98 parser-active
+    P3s, gap/positions/apex harvester-governed and deliberate-friction. Insertion
+    anchored on the Completed-marker line and placed ABOVE it per the appends-only
+    briefing (never next-header scanning); todo frontmatter ai_modified bumped from
+    live date -u. Post-edit verification: count_p0_p2_tasks == 3; parser buckets active
+    101 (98 P3 active-bucket + 3 pickable P2), vetoed 3; p2_tasks 6 below keeps the
+    run-1018 convention (all active-region P2 headers including the three veto-tagged
+    condenses); p3_tasks 98 is the parse_tasks active-bucket count AND the header-grep
+    count above the marker - the two systems agree this run (run 1019 recorded a benign
+    disagreement; none observed now); state YAML load-verified after this write. No
+    changelog tmp strays; no concurrent loop observed (no completion after 22:58).'
   last_replenishment_run: 1020
   loop_pickable_open: 3
   needs_replenishment: false

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-08-20 17:25:05+00:00
+ai_modified: 2026-09-02 23:20:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 07:38:57+00:00
-lastmod: 2026-08-20 17:25:05+00:00
+lastmod: 2026-09-02 23:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,6 +40,7 @@ related_articles:
 - '[[interaction-problem-across-traditions]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[causal-closure-debate-historical-survey]]'
+- '[[sherrington-dualist-lineage]]'
 title: History of the Interaction Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -110,6 +111,8 @@ Jaegwon Kim crystallised the problem:
 
 Kim also formalised Elisabeth's intuition into the [pairing-problem](/concepts/pairing-problem/): causal relations require spatial relations to pair cause with effect, so a non-spatial mind cannot be paired with any particular body. The modern causal closure argument is the further descendant of Elisabeth's puzzle—transforming her question about mechanism into what appeared to be an airtight logical argument against interaction.
 
+The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates, related by bare correlation, with no basis for a mechanism. That was an agnostic limit-claim, not an interaction theory. His own students converted it into one. Wilder Penfield's cortical-stimulation series grounded a [clinical case for an interacting mind](/concepts/penfield-interactionist-dualism/) (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [Sherrington lineage article](/topics/sherrington-dualist-lineage/) traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
+
 ## The Quantum Opening
 
 Quantum mechanics disrupted the assumptions underlying Leibniz's objection. The theory describes physical systems in superposition until measurement collapses them to definite outcomes. Physics specifies probabilities but not which outcome occurs. The [measurement-problem](/concepts/measurement-problem/) remains unsolved—and the [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/) suggests both may share the same root.
@@ -149,6 +152,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The contemporary position
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the conservation objection is not decisive
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from empirical observation to metaphysical axiom
+- [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/) — The named neuroscientist dissent that ran through the materialist eclipse
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum mechanism
 - [measurement-problem](/concepts/measurement-problem/) — The unsolved puzzle at quantum mechanics' core
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as window for mental causation
@@ -179,6 +183,9 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
+1. Sherrington, C. S. (1940). *Man on His Nature*. The Gifford Lectures, Edinburgh 1937–38. Cambridge University Press.
+1. Penfield, W. (1975). *The Mystery of the Mind: A Critical Study of Consciousness and the Human Brain*. Princeton University Press.
+1. Beck, F. & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences* 89(23): 11357–11361.
 1. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer. Trans. R. T. Beyer (1955), *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wigner, E. (1961). "Remarks on the Mind-Body Question." In *The Scientist Speculates*.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
