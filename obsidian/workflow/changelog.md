@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T12:49:17+00:00'
+ai_modified: '2026-09-02T13:25:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T13:25:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/semanticisation]]
+- **Word count**: 3011 → 3016 (+5, all reference apparatus; body prose net negative — length-neutral mode honoured at soft_warning)
+- **Critical issues addressed**: 1 (orphan References entry Wixted & Mickes 2010 — now cited inline at the instrument sentence, per the same-day optimistic wing review's assignment; entry completed with publisher-verified 117(4): 1025–1054)
+- **Medium issues addressed**: 3 ("empirically intractable" quote re-anchored to Gentry & Buckner's own "criterion on episodic abilities" scope after full-text check; unverifiable "most cited work" superlative hedged to "leading work"; missing [[microphenomenological-interview-method]] cross-link added)
+- **Enhancements made**: 3 References entries completed with Crossref-verified volume/issue/pages (Renoult 2012; Winocur & Moscovitch 2011; Wixted & Mickes 2010)
+- **§2.4 web-verify**: all 19 external citations verified at Crossref this run — 19 real-correct, 0 wrong-metadata, 0 fabricated; 5 abstract-level verbatim quotes re-verified via Europe PMC; 5 Gentry & Buckner spans re-verified against full-text XML (PMC11449154; publisher page 403s). `find_superlative_claims`: no hits. Full per-cite ledger in the review archive.
+- **Reasoning modes** (editor-internal): engagement with Gentry & Buckner — Mode One with honest boundary residue (meets the gradation argument inside its own evidential standards; declares the live countermodel rather than claiming refutation); engagement with De Brigard — Mode One via Zaman 2024, mixed with honest concession (SDAM "serves the other side"). No label leakage (grep clean).
+- **Not touched**: the three-verdict calibration split, the falsifier-standing verdict ("unrefuted and untested"), the SDAM cautions, the tenets-2–4 non-implication — preserved as strengths; stability notes in the archive warn future passes against upgrading the falsifier verdict without a new measurement.
+- **Chain check**: all adjacent work already owned (R/K exposure P2 unchanged and NOT discharged by the inline cite here; parent-article rider on the condense-first P3; positions-register P3 minted by the optimistic review). No tasks minted.
+- **Sync**: obsidian → hugo run; mirror verified (Wixted cite and new wikilink present in hugo/content/concepts/semanticisation.md). Not committed — left for cycle_post.
+- **Output**: [[reviews/deep-review-2026-09-02-semanticisation]]
 
 ## 2026-09-02T12:49:17+00:00 - refine-draft
 - **Status**: Success

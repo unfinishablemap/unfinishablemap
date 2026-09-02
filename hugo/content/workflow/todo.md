@@ -39,29 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt interactionist-dualism calibration in sherrington-dualist-lineage
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/sherrington-dualist-lineage.md
-- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [interactionist-dualism](/concepts/interactionist-dualism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.99/kw is below 1.21/kw (target = 60% of anchor 2.01/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-02
-
-### P2: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.69/kw is below 1.72/kw (target = 60% of anchor 2.87/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-02
-
-
 ### P3: Research Personal semantics as the bridge category between episodic and semantic memory
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-09-02-semanticisation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-semanticisation-wing Medium Priority: the hybrid forms are the gradation argument's chief exhibit AND the constitutive reading's chief challenge, with their own literature (Renoult 2012 named category; intermediate electrophysiological signatures; autobiographical-fact vs repeated-event subtypes) - currently carried in two live files' paragraphs with no page owning what the intermediate forms show about the quale. Review grants an explicit assess-first licence to decline the page. Tenet 1 via the content/manner boundary case; Tenet 5 on what proliferating hybrids can establish. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/personal-semantics-as-the-bridge-category-between-episodic-and-semantic-memory-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'personal-semantics-as-the-bridge-category-between-episodic-and-semantic-memory' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1905,6 +1882,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
+- **Type**: refine-draft
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.69/kw is below 1.72/kw (target = 60% of anchor 2.87/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+
+### ✓ 2026-09-02: Adopt interactionist-dualism calibration in sherrington-dualist-lineage
+- **Type**: refine-draft
+- **File**: obsidian/topics/sherrington-dualist-lineage.md
+- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [interactionist-dualism](/concepts/interactionist-dualism/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.99/kw is below 1.21/kw (target = 60% of anchor 2.01/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-02: `topics/phenomenology-of-anticipation` asserts the protention temporal quale past the active-inference reply it never names — L146 "cannot be captured by computational description … reaching toward rather than merely processing probabilities"
 - **Type**: refine-draft

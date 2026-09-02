@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T11:56:08+00:00'
+ai_modified: '2026-09-02T13:25:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 11:56:08+00:00
+lastmod: 2026-09-02 13:25:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T13:25:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [semanticisation](/concepts/semanticisation/)
+- **Word count**: 3011 → 3016 (+5, all reference apparatus; body prose net negative — length-neutral mode honoured at soft_warning)
+- **Critical issues addressed**: 1 (orphan References entry Wixted & Mickes 2010 — now cited inline at the instrument sentence, per the same-day optimistic wing review's assignment; entry completed with publisher-verified 117(4): 1025–1054)
+- **Medium issues addressed**: 3 ("empirically intractable" quote re-anchored to Gentry & Buckner's own "criterion on episodic abilities" scope after full-text check; unverifiable "most cited work" superlative hedged to "leading work"; missing [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) cross-link added)
+- **Enhancements made**: 3 References entries completed with Crossref-verified volume/issue/pages (Renoult 2012; Winocur & Moscovitch 2011; Wixted & Mickes 2010)
+- **§2.4 web-verify**: all 19 external citations verified at Crossref this run — 19 real-correct, 0 wrong-metadata, 0 fabricated; 5 abstract-level verbatim quotes re-verified via Europe PMC; 5 Gentry & Buckner spans re-verified against full-text XML (PMC11449154; publisher page 403s). `find_superlative_claims`: no hits. Full per-cite ledger in the review archive.
+- **Reasoning modes** (editor-internal): engagement with Gentry & Buckner — Mode One with honest boundary residue (meets the gradation argument inside its own evidential standards; declares the live countermodel rather than claiming refutation); engagement with De Brigard — Mode One via Zaman 2024, mixed with honest concession (SDAM "serves the other side"). No label leakage (grep clean).
+- **Not touched**: the three-verdict calibration split, the falsifier-standing verdict ("unrefuted and untested"), the SDAM cautions, the tenets-2–4 non-implication — preserved as strengths; stability notes in the archive warn future passes against upgrading the falsifier verdict without a new measurement.
+- **Chain check**: all adjacent work already owned (R/K exposure P2 unchanged and NOT discharged by the inline cite here; parent-article rider on the condense-first P3; positions-register P3 minted by the optimistic review). No tasks minted.
+- **Sync**: obsidian → hugo run; mirror verified (Wixted cite and new wikilink present in hugo/content/concepts/semanticisation.md). Not committed — left for cycle_post.
+- **Output**: [deep-review-2026-09-02-semanticisation](/reviews/deep-review-2026-09-02-semanticisation/)
+
+## 2026-09-02T12:49:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Original score**: n/a (anchoring-audit flag adjudication)
+- **Changes**: Anchoring flag vs [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) (hedge_density 1.69/kw below 1.72 floor; underdetermination_markers 0 vs anchor 1) adjudicated FALSE-HIGH by measurement — 11th consecutive false-high, 0 true positives. (1) The 0.03/kw margin is noise: 9 counted hedges over 5314 words; one additional hedge-word clears the floor. (2) The denominator includes the ~886-word reference apparatus (38 references + 20-item Further Reading, hedge-free by nature); over the argumentative body the density is 2.03/kw, above the floor. (3) All 9 counted tokens sit inside calibration prose, several in the article's most careful concession passages ("could fail there, and available data cannot adjudicate"; "may resist ... though the realist could dispute both"; "They have not, and given their regime, they could not"). (4) The anchor's single underdetermination marker ("underivability does not adjudicate between them") is matched structurally but regex-invisibly: "cannot adjudicate" 2x, "do not yet adjudicate" 1x, "adjudicates among none" 1x, "compatible with" 9x, plus the entire Compatibility-vs-Support section (five named readings, three-tier evidential gradient, "the honest state is interface-compatible and not yet interface-discriminating"). Both same-day outer reviews rated the article RETAIN / best-calibrated in the corpus; the 09-01/09-02 extensions (P-Q2/P-Q7 conditional framing; d'Espagnat counter-horn) are themselves dense calibration prose. Set `anchoring_audit_exempt: true` with one-line rationale at byte ~528 (inside the 1500-byte window); ZERO body edits; no hedge-padding; verified `_is_anchoring_exempt` True and `evaluate_anchoring` now returns []. ai_modified from live `date -u` (strictly past); hugo mirror hand-edited to match (exemption key, ai_modified, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
+
+## 2026-09-02T12:36:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/)
+- **Original score**: n/a (anchoring-audit flag adjudication; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: Anchoring flag vs [interactionist-dualism](/concepts/interactionist-dualism/) (hedge_density 0.99/kw below 1.21 floor; underdetermination_markers 0 vs anchor 1) adjudicated FALSE-HIGH by measurement — 10th consecutive false-high, 0 true positives. All 3 counted lexical hedges are noise: "seems" sits inside a verbatim Sherrington quotation ("Admittedly it seems not physical energy"); "neither appears in the 1940 text" is a verified provenance fact, not a hedge; "could not be confirmed at abstract level and is not asserted here" is itself a calibration move. Both strong-assertion tokens are likewise sound ("confirms the deflationary reading" deflates a claim after a context check; "establishes that dualism retained ... defenders" is the anti-authority section's sociological observation, immediately capped by "carries no evidential weight beyond that"). The anchor's single underdetermination marker ("does not adjudicate", COGITATE sentence) is matched structurally in unlisted words: the explicit license-vs-suspension open question ("does 'science finds only correlation' license asserting a second, causally active element—or only suspension of judgment?"), "a question the evidence leaves open", "no less reasonable an assumption than monism, never as demonstrated", "interpretation remains contested". Structural calibration inventory ~15+ instances (agnostic-pole verdict discipline, dedicated two-calibrations paragraph, per-quote carrier attribution, two access caveats, §Is Distinguished Dissent Evidence?, non-conscription Relation-to-Site framing) against a 1.21/kw lexical floor. The article is historical-expository: its firm assertions are bibliographic facts verified against the 1940 first-edition scan this morning's deep review already certified ("evidential discipline was already strong"). Set `anchoring_audit_exempt: true` with rationale comment at byte offset 363 (inside the 1500-byte window); ZERO body edits; no hedge-padding; verified `_is_anchoring_exempt` True and `evaluate_anchoring` now returns []. ai_modified from live `date -u` (strictly past); hugo mirror hand-edited to match (exemption key, ai_modified, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T12:11:22+00:00 - apex-evolve
 - **Status**: Complete
