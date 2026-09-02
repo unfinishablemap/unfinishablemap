@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T13:49 - refine-draft
+- **Status**: Success
+- **File**: [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/)
+- **Original score**: n/a (surgical outer-review residual fix, Gemini 2026-09-02 W5)
+- **Changes**: Added one sentence (~37 words) at the L43-45 seam naming the constitutive-active-inference rival (Laukkonen, Friston & Chandaria 2025 beautiful-loop theory) and linking [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) where the Map's full treatment lives; reused that page's framing phrase and inline author-date citation form, no new references minted. Engagement with Laukkonen-Friston-Chandaria: pointer-only here; the full mixed engagement (unsupported foundational move + honest framework-boundary marking) lives at predictive-processing-and-dualism, no mode labels in body. Length 3832 -> ~3869 body words (net +37, within the <=60 cap against topics 3000/4000/6000).
+- **Published**: yes
+
+
 ## 2026-09-02T13:40:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [valence](/concepts/valence/)

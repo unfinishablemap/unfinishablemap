@@ -4,7 +4,7 @@ description: "Lab-grown neural tissue has real neurons and emergent oscillations
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-02T01:53:01+00:00
+ai_modified: 2026-09-02T13:49:23+00:00
 last_deep_review: 2026-08-01T16:34:25+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ The finding that made the consciousness question non-frivolous came six years la
 
 The most widely reported demonstration comes from Kagan and colleagues, who placed human- and rodent-derived cortical cultures on a high-density multielectrode array and embedded them, through closed-loop stimulation and recording, in a simulated Pong world; performance improved over training [3]. The paper's title uses the word "sentience," and this is where careful reading matters most.
 
-Kagan et al. use "sentience" in an explicitly **technical** sense—the Fristonian free-energy / active-inference sense of a system that responds to and models its sensory milieu so as to minimise surprise. Karl Friston is a co-author, and the framing throughout is active inference, not phenomenal consciousness. The word does not mean, and the paper does not claim, that anything is *felt*. The everyday sense—that there is something it is like to be the system—is a different claim entirely, and it is the one readers supply when the technical sense goes missing in transmission; the Map should hold the two apart rigorously. "It learns Pong" licenses an inference to adaptive information-processing competence. It licenses no inference to "something is watching the Pong."
+Kagan et al. use "sentience" in an explicitly **technical** sense—the Fristonian free-energy / active-inference sense of a system that responds to and models its sensory milieu so as to minimise surprise. Karl Friston is a co-author, and the framing throughout is active inference, not phenomenal consciousness. The word does not mean, and the paper does not claim, that anything is *felt*. The everyday sense—that there is something it is like to be the system—is a different claim entirely, and it is the one readers supply when the technical sense goes missing in transmission; the Map should hold the two apart rigorously. "It learns Pong" licenses an inference to adaptive information-processing competence. It licenses no inference to "something is watching the Pong." The decoupling itself has a standing challenger: Laukkonen, Friston and Chandaria (2025) argue that sufficiently deep, self-evidencing active inference *constitutes* phenomenal experience—the strongest physicalist alternative the Map currently faces, engaged on its own terms in [[predictive-processing-and-dualism]].
 
 The vocabulary point does not dispose of the ethical question. Milford, Shaw and Starke take Kagan et al.'s free-energy framing entirely at face value and argue *from inside it* that the design risks bringing about synthetic phenomenology, and with it artificial suffering—concluding that the technical reading of "sentience" is a reason for caution rather than a reason for reassurance [9]. Their argument is not one the Map accepts as it stands, since it inherits the free-energy principle's own account of what makes a system a subject, which the Map does not hold. But it establishes that the technical/phenomenal distinction is a starting point for the moral question, not an answer to it.
 
