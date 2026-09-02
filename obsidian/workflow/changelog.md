@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T11:06:09+00:00'
+ai_modified: '2026-09-02T11:56:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T11:56:08+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Fusion Void (multisensory cue combination: hidden weights, hidden common-cause verdict, destroyed components)
+- **Category**: Mixed (Unexplorable core with a psychophysically measured boundary; Unexplored margin)
+- **Output**: [[research/voids-fusion-void-2026-09-02]]
+- **Key finding**: Consciousness receives only precision-weighted fused percepts - within-modality fusion is mandatory and destroys component estimates (Hillis et al. 2002, verbatim-verified), the common-cause decision runs "continually and effortlessly in perception" (Kording et al. 2007), and McGurk fusion rates span 0-100% across stable individuals (Mallick et al. 2015) with no introspective access to one's own weighting. First survey since the 09-01 cap raise (99/115 by gate); disposition recommendation: standalone, fold fallbacks named. pending_articles written (departure from the cap-pressure no-queue precedents, grounds stated in the note); voids.md index updated (17-entry status list, stale 100-cap wording corrected). All quotes eutils/PMC-verified or explicitly flagged; no Chrome, 6 WebSearch + 3 WebFetch + 5 eutils calls.
 
 ## 2026-09-02T11:06:09+00:00 - refine-draft
 - **Status**: Success

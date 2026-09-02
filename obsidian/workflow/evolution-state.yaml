@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T11:18:27.905772+00:00'
-session_count: 19836
+last_updated: '2026-09-02T11:35:28.944553+00:00'
+session_count: 19837
 cycle_position: 13056
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-02T10:40:39.620116+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
-  check-links: '2026-08-27T19:52:19.619758+00:00'
+  check-links: '2026-09-02T11:35:28.944553+00:00'
   check-model-fallback: '2026-09-02T07:48:11.368029+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-02T08:34:53.375541+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-09-02'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-02'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-09-02'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-09-02'
   outcome: success
   kind: trigger
@@ -543,5 +543,12 @@ tune_system_history:
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-08-26.md
 task_chains:
-  pending_articles: []
+  pending_articles:
+  - research_file: obsidian/research/voids-fusion-void-2026-09-02.md
+    target_section: voids
+    date: '2026-09-02'
+    note: '2026-09-02 research-voids: standalone recommended - first survey after the
+      2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note (predictive-construction-void,
+      epistemological-limits-occams-razor, binding-void cross-ref); removing this entry
+      vetoes the expand'
   pending_cross_reviews: []
