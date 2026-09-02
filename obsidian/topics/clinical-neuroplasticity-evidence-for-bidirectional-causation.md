@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Jeffrey Schwartz's clinical research programme at UCLA produced some of the earl
 
 PET imaging revealed that treatment responders showed normalisation of hyperactive caudate nucleus metabolism (Schwartz et al., 1996). The caudate nucleus is a key node in the cortico-striato-thalamic loop implicated in OCD; its hyperactivity drives the repetitive thought patterns characteristic of the disorder.
 
-Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. It has not been independently replicated in a laboratory outside Schwartz's group, and included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
+Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. Its glucose-metabolism finding has not been replicated with the same method outside the UCLA group; the nearest independent convergence is Nakatani et al. (2003), who found the same right-caudate decrease after behaviour therapy in 22 improved patients, measured by xenon-enhanced regional cerebral blood flow—a different modality, corroborating the direction of caudate change without replicating the metabolic finding itself. The study also included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
 
 Schwartz coined the term "self-directed neuroplasticity" for this phenomenon and argues that conscious mental effort drives the observed neural changes (Schwartz & Begley, 2002). The mainstream materialist explanation is more parsimonious: changed behaviour patterns alter neural activation through Hebbian learning ("neurons that fire together wire together") and standard synaptic plasticity, without requiring non-physical mental causation. The fact that medication produces similar caudate metabolic changes supports this view—both interventions may converge on common neural pathways through different physical routes.
 
@@ -160,3 +160,4 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 18. Perez, G. M., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments). doi:10.1016/j.nicl.2025.103874
 19. Siew & Yu (2025). Anatomical-likelihood-estimation meta-analysis reporting structural brain changes from mindfulness-based randomised trials. *Scientific Reports*. **Retracted** 2025 — four null-finding studies (≈40% of pooled participants) were omitted; the authors disagreed with the retraction. doi:10.1038/s41598-025-11069-9
 20. Baxter, L. R. Jr., Schwartz, J. M., Bergman, K. S., Szuba, M. P., Guze, B. H., et al. (1992). Caudate glucose metabolic rate changes with both drug and behavior therapy for obsessive-compulsive disorder. *Archives of General Psychiatry*, 49(9), 681-689. doi:10.1001/archpsyc.1992.01820090009002
+21. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120. doi:10.1016/s0925-4927(03)00069-6

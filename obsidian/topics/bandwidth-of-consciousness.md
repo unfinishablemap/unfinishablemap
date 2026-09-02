@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-08-17T05:42:01+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -168,7 +168,7 @@ The verdict this cluster has since reached goes further than a difference of fra
 
 The ~10 bits/s figure is *behavioural* throughput, and rate does not fix grain: one bit selects among arbitrarily complex prepared policies. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms window for [[motor-selection|motor commitment]] is consistent with the selection rate derived above. Pattern-level selection—policies, targets, strategies rather than firing events—is the interface model's commitment; consistency with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] falls short of establishing it. The same distinction constrains [[the-interface-problem|the interface specification problem]]—how conscious states map lawfully to physical selections—and the [[inverted-qualia]] argument, since efficacious phenomenal character must also reach behaviour through this narrow channel.
 
-The bandwidth constraint applies per unit time, but effects accumulate—the basis of [[attentional-economics|attentional economics]]. Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (nine participants) and has not been independently replicated.
+The bandwidth constraint applies per unit time, but effects accumulate—the basis of [[attentional-economics|attentional economics]]. Schwartz's OCD research illustrates this: patients showed measurable caudate changes through accumulated conscious effort over weeks, though the study was small (nine new patients) and has not been replicated with the same method outside the UCLA group.
 
 ## Epiphenomenalism and the Conscious-Influence Premise
 

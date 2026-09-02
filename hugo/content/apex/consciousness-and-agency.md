@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-08-18 21:17:37+00:00
+ai_modified: 2026-09-02 17:29:27+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-07-09 21:54:18+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-09-02 17:29:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,7 +151,7 @@ The Map offers two independent responses. The first denies causal closure at qua
 
 The second draws on Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025): experiences *[preempt](/concepts/delegatory-causation/)* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 
-[Clinical neuroplasticity](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides suggestive empirical support. Meta-analyses reveal that CBT and medication achieve comparable outcomes through *different neural pathways*: top-down cortical-to-limbic versus bottom-up neurochemical. If mental causation were merely physical causation redescribed, psychological and pharmacological interventions should converge on the same neural route; the physicalist can reply that different inputs take different routes but must then explain why the directional asymmetry is so consistent across conditions. (The evidence is suggestive rather than decisive: Schwartz's foundational OCD study was small and unreplicated, and its protocol overlaps with standard exposure therapy.)
+[Clinical neuroplasticity](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides suggestive empirical support. Meta-analyses reveal that CBT and medication achieve comparable outcomes through *different neural pathways*: top-down cortical-to-limbic versus bottom-up neurochemical. If mental causation were merely physical causation redescribed, psychological and pharmacological interventions should converge on the same neural route; the physicalist can reply that different inputs take different routes but must then explain why the directional asymmetry is so consistent across conditions. (The evidence is suggestive rather than decisive: Schwartz's foundational OCD study was small, lacks same-method replication outside the UCLA group, and its protocol overlaps with standard exposure therapy.)
 
 The [argument from reason](/topics/argument-from-reason/) provides an entirely independent route to mental causation—one that doesn't depend on phenomenological evidence at all. Rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. Neurons fire because of electrochemical gradients, not because firing would be *justified*. If all beliefs are fully explained by nonrational physical causes, no belief is rationally justified—including physicalism. This self-defeat structure shows that rationality requires mental causation, grounded in the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory): genuine aboutness—grasping that a conclusion *follows from* premises—requires phenomenal consciousness, not mere correlation with logical validity. The argument serves as the framework's failsafe: even if someone doubted the phenomenology of effort or contested the neural signatures of willed action, rationality itself would still demand that consciousness causes something.
 

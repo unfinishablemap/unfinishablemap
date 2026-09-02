@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-07-30T13:13:52+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ Given these challenges, the Map proposes five standards for evaluating when clin
 
 ### 1. Replication Status
 
-Has the finding been independently replicated with adequate power? Single-lab findings with small samples (even when published in reputable journals) warrant only "suggestive" or "compatible with" language. This standard downgrades Schwartz's OCD PET findings (never independently replicated) and meditation structural claims (failed replication in Kral et al., 2022), while preserving the pathway divergence pattern across psychotherapy neuroimaging (confirmed across multiple independent meta-analyses).
+Has the finding been independently replicated with adequate power? Single-lab findings with small samples (even when published in reputable journals) warrant only "suggestive" or "compatible with" language. This standard downgrades Schwartz's OCD PET findings (never replicated with the same method outside the UCLA group; the lone out-of-group convergence, Nakatani et al. 2003, used a different imaging modality) and meditation structural claims (failed replication in Kral et al., 2022), while preserving the pathway divergence pattern across psychotherapy neuroimaging (confirmed across multiple independent meta-analyses).
 
 ### 2. Control Adequacy
 
@@ -165,3 +165,4 @@ The Map's quantum interaction claims currently rest on convergence across multip
 15. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 17. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
+18. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.

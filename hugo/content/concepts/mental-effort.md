@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-16 14:27:36+00:00
+ai_modified: 2026-09-02 17:29:27+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-08-16 14:27:36+00:00
+lastmod: 2026-09-02 17:29:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ CBT produces measurable neural changes following purely psychological treatment.
 
 Contemplative neuroscience extends the pattern: long-term meditators show functional brain differences (altered activation, gamma synchrony) tracking practice. Earlier structural claims (cortical thickness) have been weakened by Kral et al. (2022) — a well-powered replication (N=218) with active controls found no structural changes from MBSR. Lutz et al. (2008) document how expertise reshapes the phenomenology: novices require active redirection, while experts maintain stability with diminished effort and finer-grained awareness of effortful/effortless transitions.
 
-Schwartz's OCD case adds a specific illustration: patients trained to redirect attention from obsessive thoughts showed altered caudate metabolism on PET (Schwartz et al., 1996). Patients reported the Refocus step as hardest and most effortful, matching phenomenology to causal role — but the original study (N=18, 9 new) has not been independently replicated outside Schwartz's group and cannot bear the broader argument alone.
+Schwartz's OCD case adds a specific illustration: patients trained to redirect attention from obsessive thoughts showed altered caudate metabolism on PET (Schwartz et al., 1996). Patients reported the Refocus step as hardest and most effortful, matching phenomenology to causal role — but the original study (N=18, 9 new) has not been replicated with the same method outside the UCLA group (though Nakatani et al., 2003, found the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow) and cannot bear the broader argument alone.
 
 A materialist explains all this via Hebbian learning. The converging datum remains: mental effort has physical consequences across multiple clinical domains, and effort tracks the neural change — harder to square with [epiphenomenalism](/concepts/epiphenomenalism/) than with [interactionist-dualism](/concepts/interactionist-dualism/).
 
@@ -188,6 +188,7 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R., Martin, K.M. & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+1. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 last_deep_review: 2026-07-30T21:01:20+00:00
 draft: false
 topics:
@@ -94,7 +94,7 @@ The conscious/unconscious processing literature reveals systematic asymmetries. 
 
 The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] provides three converging strands—two empirical, one a proposed mechanism—that are compatible with and suggestive of bidirectional causation, though each admits materialist reinterpretation.
 
-**OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
+**OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), its metabolic finding has not been replicated with the same method outside the UCLA group—though Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow—and it lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
 
 **Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. An activation-likelihood-estimation meta-analysis of 13 CBT neuroimaging studies found consistent *decreases* in prefrontal and precuneus activation following purely psychological treatment, though its emotion-task subanalysis found no regions surviving (Yuan et al., 2022). The treatment-mechanism literature characterises this as a dual-process asymmetry: psychological therapies act primarily top-down on prefrontal regulatory circuits, while antidepressants act more directly bottom-up on limbic targets. If robust, this divergence suggests top-down and bottom-up are genuinely different causal types rather than different descriptions of the same physical process.
 
@@ -200,5 +200,6 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
+1. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 1. Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 1. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.

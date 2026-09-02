@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-08-19T18:51:54+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ If the interface has a specific architecture, it should malfunction in specific 
 
 **Attention fatigue as resource depletion**: Sustained attention depletes; the interface has biological costs because the neural mechanisms it operates through require metabolic resources.
 
-**OCD as runaway stabilisation**: Jeffrey Schwartz's work is small-sample and unreplicated — treated here as illustrative of the framing rather than load-bearing evidence. The philosophically significant point is pathway divergence: cognitive intervention modulates brain activity through a different causal route than pharmacological intervention (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]).
+**OCD as runaway stabilisation**: Jeffrey Schwartz's work is small-sample, without same-method replication outside the UCLA group — treated here as illustrative rather than load-bearing evidence. The philosophically significant point is pathway divergence: cognitive intervention modulates brain activity through a different causal route than pharmacological intervention (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]).
 
 **Meditation as interface training**: With practice, sustained attention lengthens, recovery from distraction accelerates, and felt effort decreases. The interface becomes more efficient — not wider, but better governed.
 

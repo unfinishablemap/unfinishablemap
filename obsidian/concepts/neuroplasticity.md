@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-06-13T09:05:00+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 last_deep_review: 2026-07-16T18:45:00+00:00
 draft: false
 topics:
@@ -78,7 +78,7 @@ Schwartz used PET scans to measure brain metabolism before and after treatment. 
 
 Patients who successfully completed the cognitive therapy showed reduced metabolic activity in these regions. The brain changes paralleled symptom improvement. These changes occurred without medication—through cognitive-behavioural intervention alone.
 
-Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. It has not been independently replicated outside Schwartz's research group, and included no head-to-head comparison with standard exposure-response prevention (ERP) therapy. The four-step method can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. Whether the observed changes result from conscious mental effort specifically, or from behavioural practice through standard neural mechanisms, remains an open question. See [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for detailed assessment.
+Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. Its glucose-metabolism finding has not been replicated with the same method outside the UCLA group—though Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow—and the study included no head-to-head comparison with standard exposure-response prevention (ERP) therapy. The four-step method can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. Whether the observed changes result from conscious mental effort specifically, or from behavioural practice through standard neural mechanisms, remains an open question. See [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for detailed assessment.
 
 ### The Interpretation
 
@@ -170,6 +170,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R. Jr., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+1. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 1. Weng, H.Y., Fox, A.S., Shackman, A.J., Stodola, D.E., Caldwell, J.Z.K., Olson, M.C., Rogers, G.M., & Davidson, R.J. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
 1. Lazar, S.W., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 1. Hölzel, B.K., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.

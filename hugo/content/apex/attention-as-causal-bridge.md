@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-08-20 12:46:00+00:00
+ai_modified: 2026-09-02 17:29:27+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-06-25 01:46:02+00:00
 apex_sources:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-08-20 12:46:00+00:00
+lastmod: 2026-09-02 17:29:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces [decoherence objections](/concepts/decoherence/) that remain unresolved. Whatever the specific mechanism, the ~10 bits/second conscious behavioral throughput is consistent with a constrained interface limiting conscious intervention to the smallest influence consistent with genuine causal efficacy. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes. That answers the energy worry, not [Kim's exclusion worry](/concepts/causal-exclusion-argument/), which is about causal redundancy given a sufficient physical cause rather than where the joules originate. The Map's reply denies that sufficiency at the quantum joint, where [closure](/concepts/causal-closure/) holds only probabilistically—fixing the statistics but not which outcome actualises, so nothing sufficient is there for selection to be redundant to.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The entire attention cluster elaborates this tenet; the return cycle shows it in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work provides suggestive clinical evidence: patients who learn to redirect attention show reduced caudate nucleus activity on PET imaging, though the study was small (n=18), unreplicated outside his group, and mainstream neuroscience can account for the results via Hebbian learning. What remains philosophically significant is the *pathway divergence*—cognitive intervention modulates brain activity through a different causal route than pharmacological intervention. Desmurget's neurostimulation evidence shows intention and execution are separable; that they separate does not by itself locate intention outside the physical chain, since the stimulation produced the intention.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The entire attention cluster elaborates this tenet; the return cycle shows it in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work provides suggestive clinical evidence: patients who learn to redirect attention show reduced caudate nucleus activity on PET imaging, though the study was small (n=18), not replicated with the same method outside the UCLA group, and mainstream neuroscience can account for the results via Hebbian learning. What remains philosophically significant is the *pathway divergence*—cognitive intervention modulates brain activity through a different causal route than pharmacological intervention. Desmurget's neurostimulation evidence shows intention and execution are separable; that they separate does not by itself locate intention outside the physical chain, since the stimulation produced the intention.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection model requires that quantum indeterminacies resolve to definite outcomes. If all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised.
 

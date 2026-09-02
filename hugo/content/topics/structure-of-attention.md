@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-19 18:51:54+00:00
+ai_modified: 2026-09-02 17:29:27+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-09-02 17:29:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -224,7 +224,7 @@ If consciousness were identical to neural processing, willed and instructed atte
 
 The attention structure exemplifies the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness selects where attention goes; attention determines what consciousness experiences. The bidirectional frontoparietal coherence during willed attention may be the neural signature of this two-way causal flow.
 
-Jeffrey Schwartz's OCD research provides suggestive evidence: patients who learned to voluntarily redirect attention showed altered caudate metabolism on PET imaging (Schwartz et al., 1996), though the study was small (18 participants) and unreplicated outside his group. Whatever the mechanism, willed attention appears to have physical consequences—though materialist explanations via Hebbian learning remain viable.
+Jeffrey Schwartz's OCD research provides suggestive evidence: patients who learned to voluntarily redirect attention showed altered caudate metabolism on PET imaging (Schwartz et al., 1996), though the study was small (18 participants) and not replicated with the same method outside the UCLA group. Whatever the mechanism, willed attention appears to have physical consequences—though materialist explanations via Hebbian learning remain viable.
 
 ### Minimal Quantum Interaction
 

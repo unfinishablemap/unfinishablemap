@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-08-01 23:11:27+00:00
+ai_modified: 2026-09-02 17:29:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 01:08:52+00:00
-lastmod: 2026-08-01 23:11:27+00:00
+lastmod: 2026-09-02 17:29:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +134,7 @@ That 2012 verdict should now be held with lower confidence. A substantial body o
 
 A tempting argument runs: if conscious effort were epiphenomenal, it should be possible to produce the same neural changes without the phenomenology of effort. That inference does not go through. An epiphenomenalist can hold that a single neural control process produces *both* the experienced effort and the plastic change, so the two covary perfectly while the experience does no causal work. Distinguishing that common-cause model from one in which effort genuinely drives plasticity would require an intervention that varies conscious experience while holding the neural control variables fixed — a design the clinical studies do not supply. What the neuroplasticity evidence establishes is more modest but still real: cognitive therapies and internally guided tasks have measurable neural implementations, and the felt effort and the neural changes track each other closely.
 
-Schwartz et al. (1996) found that OCD patients who learned to cognitively reframe their intrusive thoughts showed decreased caudate nucleus activity on PET scans—though the study included only 18 participants, of whom 9 were new, and has not been independently replicated (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for honest assessment). The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them. Patients consistently report this as effortful, requiring sustained concentration against compelling impulses. Classical experience-dependent plasticity — Hebbian re-weighting driven by prefrontal executive control — fully accounts for these changes, and the Map does not claim otherwise here; any stronger quantum-selection reading is routed to its explicitly speculative-tier siblings. The case supplies covariation, not a demonstration that the feeling does the causal work.
+Schwartz et al. (1996) found that OCD patients who learned to cognitively reframe their intrusive thoughts showed decreased caudate nucleus activity on PET scans—though the study included only 18 participants (9 new) and has not been replicated with the same method outside the UCLA group (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them—work they consistently report as effortful, requiring sustained concentration against compelling impulses. Classical experience-dependent plasticity — Hebbian re-weighting driven by prefrontal executive control — fully accounts for these changes, and the Map does not claim otherwise here; any stronger quantum-selection reading is routed to its explicitly speculative-tier siblings. The case supplies covariation, not a demonstration that the feeling does the causal work.
 
 This finding generalises across therapeutic contexts. Paquette et al. (2003) showed CBT for spider phobia changed dorsolateral prefrontal and parahippocampal activity. Goldapple et al. (2004) found CBT for depression altered prefrontal and limbic metabolism in patterns distinct from pharmacological treatment — same symptom improvement, different neural signatures, suggesting the cognitive intervention operates through a different causal pathway.
 
@@ -156,7 +156,7 @@ The convergence argument would be weakened if: (1) a clinical population demonst
 
 The Unfinishable Map's [tenets](/tenets/) predict the pattern the evidence reveals. The **[Dualism](/tenets/#dualism)** tenet holds that consciousness is irreducible to physical processes — and the phenomenological structure of volitional experience (the agency-ownership distinction, the multi-level nature of intentional action) resists reduction to neural timing data. Desmurget's stimulation studies show that conscious intention and motor execution occupy dissociable neural territory, and Sjöberg's resection cases show that reported effort can survive impairment of an SMA-linked execution gateway. Neither result adjudicates between physicalism and dualism on its own — both are consistent with the multi-level, non-reducible structure the tenet describes, and the physicalist can read them as dissociations within the brain rather than between brain and non-physical mind. What the tenet supplies is the reason to prefer the interface reading; the evidence supplies the constraint the reading must fit.
 
-The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet holds that consciousness causally influences the physical world. Brass and Haggard's "whether" component provides a plausible neural locus for this influence, and the neuroplasticity evidence is suggestive: Schwartz's OCD patients showed measurable brain changes correlated with directed mental effort, tracking the phenomenology of straining to redirect attention—though the small sample and lack of independent replication counsel caution. The Map interprets this as a site where consciousness modulates quantum-indeterminate processes, consistent with the **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet.
+The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet holds that consciousness causally influences the physical world. Brass and Haggard's "whether" component provides a plausible neural locus for this influence, and the neuroplasticity evidence is suggestive: Schwartz's OCD patients showed measurable brain changes correlated with directed mental effort, tracking the phenomenology of straining to redirect attention—though the small sample and thin replication record counsel caution. The Map interprets this as a site where consciousness modulates quantum-indeterminate processes, consistent with the **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet.
 
 The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly relevant to the Libet debate's history. For decades, the "simpler" interpretation — that the RP marked consciousness as epiphenomenal — was treated as settled science. Schurger's stochastic model, the meta-analytic mixed record, and the clinical resection cases have levelled that conclusion — the eliminativist inference is now underdetermined rather than settled science. The rush to eliminate conscious causation in favour of a parsimonious neural account illustrates how simplicity can mislead when understanding is incomplete.
 

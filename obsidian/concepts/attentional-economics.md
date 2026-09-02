@@ -4,7 +4,7 @@ description: "Agency is the allocation of attention over time. Within the Map's 
 created: 2026-01-31
 modified: 2026-08-19
 human_modified:
-ai_modified: 2026-08-19T01:10:10+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -84,7 +84,7 @@ The framework yields a practical corollary: *improving attentional skills increa
 
 These aren't merely subjective improvements. Within the Map's framework, they are *expansions of conscious causal power*. A meditator who can sustain focus for thirty minutes has more "attentional capital" to invest than someone whose attention scatters every thirty seconds.
 
-[[mental-effort|Mental effort]] phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) cite OCD patients who completed cognitive-behavioural therapy showing altered caudate metabolism on PET imaging—though the original study had only 18 participants and has not been independently replicated (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The finding is suggestive but the causal role of attentional effort specifically, versus behavioural change more broadly, remains an open question.
+[[mental-effort|Mental effort]] phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) cite OCD patients who completed cognitive-behavioural therapy showing altered caudate metabolism on PET imaging—though the original study had only 18 participants and its metabolic finding has not been replicated with the same method outside the UCLA group; Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The finding is suggestive but the causal role of attentional effort specifically, versus behavioural change more broadly, remains an open question.
 
 ## The Phenomenology of Attentional Choice
 
@@ -221,5 +221,6 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Read, D.W. (2008). Working Memory: A Cognitive Limit to Non-Human Primate Recursive Thinking Prior to Hominid Evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.

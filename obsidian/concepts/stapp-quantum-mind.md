@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-08-25T00:05:16+00:00
+ai_modified: 2026-09-02T17:29:27+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -77,7 +77,7 @@ Recent neuroscience supports a crucial distinction. Willed attention (internally
 
 ## Empirical Support: Neuroplasticity
 
-Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step method (Relabel, Reattribute, Refocus, Revalue), which teaches patients to redirect attention away from obsessive thoughts. PET scans showed altered caudate nucleus metabolism after successful treatment (Schwartz et al., 1996). Important caveats: the original study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and included no comparison with standard exposure-response prevention therapy. The four-step method can be characterised as modified CBT with an added cognitive framing, and the mainstream materialist explanation—that changed behaviour alters neural activation through Hebbian learning—fits the same data.
+Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step method (Relabel, Reattribute, Refocus, Revalue), which teaches patients to redirect attention away from obsessive thoughts. PET showed altered caudate metabolism after successful treatment (Schwartz et al., 1996). Important caveats: the original study included only 18 participants (9 new), has not been replicated with the same method outside the UCLA group, and included no comparison with standard exposure-response prevention therapy. The four-step method can be characterised as modified CBT with an added cognitive framing, and the mainstream materialist explanation—that changed behaviour alters neural activation through Hebbian learning—fits the same data.
 
 Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extends the empirical case with additional evidence streams—psychotherapy neuroimaging showing pathway divergence between CBT and pharmacotherapy, and placebo neuroplasticity—though each stream individually admits materialist reinterpretation. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
 
