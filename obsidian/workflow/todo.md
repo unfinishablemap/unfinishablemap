@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The improper versus proper mixture distinction
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-rival-ontology-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-rival-ontology-wing (High Priority): deployed in at least fourteen live files and the hinge of the Map claim that decoherence leaves an outcome gap, yet no page owns d-Espagnat argument, the operational FAPP rejoinder, or the no-go that would show the distinction physically empty (the QD article names that as its own defeater). Tenets 1, 4, 5. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/improper-versus-proper-mixtures-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'improper-versus-proper-mixtures' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
+### P3: Research Envariance and the symmetry derivation of the Born rule
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-rival-ontology-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-rival-ontology-wing (Medium Priority): corpus repeatedly asserts envariance derives the probability measure without converting probability into actuality, but no page works the derivation, its assumptions, or the circularity objections. ASSESS FIRST per the review: topics/born-rule-and-the-consciousness-interface may already own enough that a paragraph-level expansion there beats a new page - the research note should render a fold-vs-standalone verdict and a decline is legitimate. Tenet 4. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/envariance-born-rule-derivation-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'envariance-born-rule-derivation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
 ### P3: `topics/quantum-darwinism-and-consciousness` — two Zurek quoted spans fail their arXiv sources: the 2009 objectivity quote is transposed and re-tailed, and the 2003 "does not, by itself, solve the measurement problem" span is absent from the cited RMP paper
 - **Type**: refine-draft
 - **File**: obsidian/topics/quantum-darwinism-and-consciousness.md
