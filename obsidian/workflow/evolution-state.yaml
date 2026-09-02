@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-02T20:41:48.438578+00:00'
-session_count: 19872
+last_updated: '2026-09-02T20:48:07.847622+00:00'
+session_count: 19873
 cycle_position: 13078
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-02T19:13:04.438740+00:00'
+  agentic-social: '2026-09-02T21:06:50.528136+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
-  check-model-fallback: '2026-09-02T16:33:11.746906+00:00'
+  check-model-fallback: '2026-09-02T20:48:07.847622+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-02T18:21:25.871116+00:00'
   collect-chatgpt-review: '2026-09-02T03:58:09.839019+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-02'
@@ -218,13 +209,13 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-02'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
-    date: '2026-08-26T20:36:45.826040+00:00'
-    topics:
-    - machine-consciousness
-    - moral-implications-of-genuine-agency
   - url: https://unfinishablemap.org/concepts/first-order-representationalism/
     date: '2026-08-26T21:39:42.110284+00:00'
     topics:
@@ -456,6 +447,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - dualist-perception
     - capgras-delusion-and-the-affective-recognition-channel
+  - url: https://unfinishablemap.org/topics/philosophy-of-action-under-dualism/
+    date: '2026-09-02T21:06:50.528110+00:00'
+    topics:
+    - free-will
+    - volitional-control
 queue_status:
   last_replenishment: '2026-09-02T20:27:09+00:00'
   last_replenishment_mode: standard
