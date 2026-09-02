@@ -1,10 +1,14 @@
-last_updated: '2026-09-02T15:40:46.341145+00:00'
-session_count: 19853
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-02T16:00:52.136773+00:00'
+session_count: 19854
 cycle_position: 13066
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-02T15:57:56.739928+00:00'
+  agentic-social: '2026-09-02T16:00:52.136773+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
   check-model-fallback: '2026-09-02T12:18:12.060880+00:00'
@@ -119,11 +123,6 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-09-02'
@@ -214,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-02'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/near-death-experiences/
@@ -451,72 +455,68 @@ agentic_social:
     - the-binding-problem
     - dual-domain-capabilities-in-proprioception-and-spatial-imagination
 queue_status:
-  last_replenishment: '2026-09-01T22:27:05+00:00'
+  last_replenishment: '2026-09-02T16:12:58+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1014. STANDARD MODE, SIX MINTS (6 x P2), every locus
-    re-verified from disk before minting. Pre-count count_p0_p2_tasks == 2 against
-    MIN_QUEUE 3 (the P-F1 positions update and the individuation Meincke & Dupre refine,
-    both run-1013 mints; run 1013''s three expand-topic P2s and both long-waiting
-    P2 survivors all executed 17:59-22:35 same day). Sections re-measured via count_section_files:
-    topics 322/360, concepts 321/360, voids 99/115, positions 17/80 - real headroom
-    everywhere. CHAIN x3: (1) expand-topic for the fresh 21:03 research note on Sherrington/Man
-    on His Nature (note self-flags NO primary-text access - all quotes secondary-verified
-    only, warning carried into the task; only live Sherrington mention is one sentence
-    in penfield-interactionist-dualism; slug free live+archive); (2)+(3) the two chain
-    items the 20:02 semanticisation expand explicitly deferred to later runs: cross-review
-    of consciousness-and-memory (Barry et al. 2018 nonmonotonicity vs the smooth-trajectory
-    paragraph, now L139; 3970w = 30 under topics hard, offset required) and the remember/know
-    validity exposure as ONE refine-draft across episodic-memory/semantic-memory/anoetic
-    (per the note''s own one-task prescription; semantic-memory 106 under concepts
-    hard). Its third deferred item (phenomenology-of-memory-and-the-self kind-individuation)
-    stays blocked by the open condense-first P3 owning that file - not minted. UNCONSUMED
-    RESEARCH x1: bohmian non-equilibrium note, the item run 1013 deferred for a verdict
-    - verdict STANDALONE topics expand (note''s own Angle 1; Valentini in only 3 live
-    files; fold target born-rule-and-the-consciousness-interface is 5059w hard_warning;
-    note''s self-flagged gaps - no scholarly consciousness link, unsurveyed post-Planck
-    CMB bounds - written into the task as binding). ORPHAN x1: synthetic-minimal-agents
-    (22:35 creation) has ZERO inbound links from any live content tree (obsidian+hugo
-    grep-verified; the expand run integrated its two siblings but not itself) - integrate-orphan
-    P2 naming reciprocal targets from its own outbound set with per-file length ceilings.
-    POSITIONS 7b x1: P-Q10 - the new multi-agent article L65/L95 names the two-agent
-    Bell-pair toy model as the N>=2 extension of the debt P-Q10 records, and the register
-    roadmap is single-selector only; update scoped to Argued-in + one roadmap sentence,
-    bands frozen (credence high, maturity developed per the 2026-08-03 relabel history).
-    DELIBERATELY NOT MINTED: cross-review chains for multi-agent (same-day 21:53 deep-review
-    already ran full 2.4 on it, 2 criticals fixed) and for synthetic-minimal (the
-    orphan task covers integration; apex fold deferred to /apex-evolve per the expand
-    contract); multi-mind-collapse-problem reciprocal-link work (a matching link task
-    sits in the vetoed bank, todo ~L3107); research-topic mints (harvester owns that
-    lane, six cap-viable P3 research tasks already queued); staleness (P3 pool 83,
-    starved); length (three veto-tagged condense P2s standing; hard_warning census
-    dominated by the false-over-length norm); orphans beyond the one (state quality.orphaned_files
-    0 predates today''s creation); positions audit (2026-08-24, inside 30d); applied
-    apex gap (deferred again, P3-only and pool saturated). CLAUDE.md Section Caps
-    table still shows the pre-4917dafa99 caps (320/320/100) - operator doc fix flagged
-    in the run report, not mintable as a loop task type. PLACEMENT: appended at the
-    BOTTOM of the Active region before ## Completed Tasks (run-1013 precedent) so
-    the selector''s (priority, line) sort drains the two run-1013 P2 survivors first
-    and no existing task line shifts. Post-count re-measured after the splice: count_p0_p2_tasks
-    == 8; p2_tasks counts all P2 headers in the Active region including the three
-    veto-tagged condenses; P3 pool 83.'
-  last_replenishment_run: 1014
+  last_replenishment_note: 'RUN 1015. STANDARD MODE, SIX MINTS (6 x P2), every locus re-verified
+    from disk before minting. Pre-count count_p0_p2_tasks == 2 against MIN_QUEUE 3 (the P-Q10
+    positions update and the motor-control-quantum-zeno refine; run 1014''s other six mints
+    all executed 2026-09-01 23:21 through 2026-09-02 15:39). Sections re-measured via count_section_files:
+    topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - headroom everywhere,
+    no cap filtering needed. DEFECT-FAMILY x2 (both from the 2026-09-01 meditation pessimistic
+    review''s explicit driver-reports, both grep-verified live this run): (1) the ''has not
+    been independently replicated'' sweep - NINE Schwartz-caudate loci falsified by Nakatani
+    2003, with FIVE same-string different-claim loci (dream study, DishBrain, Hagan counter-calculation)
+    explicitly excluded after per-locus context reads; (2) the witness-consciousness sibling
+    tables (FA/OM dissociation + unqualified Zeno mechanism column), transplant register from
+    the 09-01 fix. CHECK-TENETS x2 (tenet-check-2026-09-02, both recommendations followed,
+    every locus re-verified live incl. two line-drift re-finds): (3) Warning 5''s llm-consciousness
+    detectable-trace pair (the corpus''s only wrong-direction Tenet 2 file) plus the psychophysical-laws
+    at-any-sensitivity clause (file is 6 words under concepts hard - net-zero mandated); (4)
+    Warning 1''s repaired-body/unrepaired-surface family (valence ring closed 09-02; remaining
+    surfaces queued nowhere), with the-epiphenomenalist-threat''s Warning-5 L170/L180 loci
+    folded into its item so each file is touched once, and semantic-memory + llm-consciousness
+    surfaces excluded as owned elsewhere. UNCONSUMED RESEARCH x1: (5) the fresh 10:12 diary/reinstatement
+    note consumed per its own binding verdict - FOLD into semanticisation (3 insertions) +
+    one surgical Hirst-plateau touch on consciousness-and-memory (35 words under hard, offset
+    required); phenomenology-of-memory-and-the-self host SKIPPED (condense-first P3 owns it);
+    note''s catalogue-copy quote discipline carried verbatim. POSITIONS 7a x1: (6) Born-rule-as-emergent-equilibrium
+    add - the 01:43 expand entry''s explicit follow-up flag; register grep 0 for equilibrium/Valentini;
+    low-to-moderate band frozen to the article''s own conditional framing; collision note
+    against the open P-Q10 update on the same register file. DELIBERATELY NOT MINTED: pending_articles
+    fusion-void left untouched (flagged operator decision per briefing); staleness (P3 pool
+    90, starved; ai_modified-today exclusion applied); length (live hard_warning census is
+    research notes + positions register standing decisions + operator-parked epistemology-of-convergence/volitional-control;
+    edge-states-and-void-probes decomposes to 3031 prose vs 3000 voids hard - a 31-word margin,
+    not a defect); orphans (quality 0; both 09-02 creations verified integrated - sherrington
+    via penfield reciprocal, quantum-non-equilibrium via 3 same-run retrofits); cross-review
+    chains for both 09-02 expands (same-day deep-reviews ran on each - run-1014 precedent);
+    the born-preserving P3''s jurisdiction-law and branch-ethics riders (condition unmet:
+    grep 0 in the Claude leg and the 09-02 synthesis - no corroboration); positions audit
+    (2026-08-24, inside 30d); applied-apex gap (P3-only, pool saturated); the two Gemini 09-02
+    P2s verified already executed same day (organoid Laukkonen sentence 13:49; PCS acquaintance
+    variant). PLACEMENT: appended at the BOTTOM of the Active region before Completed Tasks
+    (run-1013/1014 precedent) so the selector drains the two run-1014 P2 survivors first and
+    no existing task line shifts. Post-count re-measured after the splice: count_p0_p2_tasks
+    == 8; p2_tasks 11 counts all P2 headers in the Active region including the three veto-tagged
+    condenses; P3 pool 90.'
+  last_replenishment_run: 1015
   loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 11
-  p3_tasks: 83
+  p3_tasks: 90
   replenishment_source_counts:
-    chain: 3
-    check_tenets: 0
-    defect_family: 0
+    chain: 0
+    check_tenets: 2
+    defect_family: 2
     gap_analysis: 0
     length_analysis: 0
     optimistic_review: 0
-    orphan_integration: 1
+    orphan_integration: 0
     outer_review_synthesis: 0
-    positions_dependency_changed: 1
-    positions_register_gap: 0
+    positions_dependency_changed: 0
+    positions_register_gap: 1
     promotion_from_p3: 0
     staleness: 0
     unconsumed_research: 1
