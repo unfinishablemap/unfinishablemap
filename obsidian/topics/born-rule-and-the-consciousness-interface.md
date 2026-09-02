@@ -4,8 +4,9 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-09-02T09:36:29+00:00
+ai_modified: 2026-09-02T12:49:17+00:00
 draft: false
+anchoring_audit_exempt: true # 2026-09-02 false-high: 0.03/kw margin is apparatus dilution (2.03/kw over argumentative body); underdetermination structural — "cannot/do not yet adjudicate" 4x, regex-invisible
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[quantum-measurement-and-consciousness]]"

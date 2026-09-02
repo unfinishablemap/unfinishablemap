@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T11:56:08+00:00'
+ai_modified: '2026-09-02T12:49:17+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T12:49:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Original score**: n/a (anchoring-audit flag adjudication)
+- **Changes**: Anchoring flag vs [[consciousness-physics-interface-formalism]] (hedge_density 1.69/kw below 1.72 floor; underdetermination_markers 0 vs anchor 1) adjudicated FALSE-HIGH by measurement — 11th consecutive false-high, 0 true positives. (1) The 0.03/kw margin is noise: 9 counted hedges over 5314 words; one additional hedge-word clears the floor. (2) The denominator includes the ~886-word reference apparatus (38 references + 20-item Further Reading, hedge-free by nature); over the argumentative body the density is 2.03/kw, above the floor. (3) All 9 counted tokens sit inside calibration prose, several in the article's most careful concession passages ("could fail there, and available data cannot adjudicate"; "may resist ... though the realist could dispute both"; "They have not, and given their regime, they could not"). (4) The anchor's single underdetermination marker ("underivability does not adjudicate between them") is matched structurally but regex-invisibly: "cannot adjudicate" 2x, "do not yet adjudicate" 1x, "adjudicates among none" 1x, "compatible with" 9x, plus the entire Compatibility-vs-Support section (five named readings, three-tier evidential gradient, "the honest state is interface-compatible and not yet interface-discriminating"). Both same-day outer reviews rated the article RETAIN / best-calibrated in the corpus; the 09-01/09-02 extensions (P-Q2/P-Q7 conditional framing; d'Espagnat counter-horn) are themselves dense calibration prose. Set `anchoring_audit_exempt: true` with one-line rationale at byte ~528 (inside the 1500-byte window); ZERO body edits; no hedge-padding; verified `_is_anchoring_exempt` True and `evaluate_anchoring` now returns []. ai_modified from live `date -u` (strictly past); hugo mirror hand-edited to match (exemption key, ai_modified, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T12:36:11+00:00 - refine-draft
 - **Status**: Success
