@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-08-19 18:51:54+00:00
+ai_modified: 2026-09-02 08:23:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -25,14 +25,13 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-01-18
 date: &id001 2026-02-25
-description: Motor control and attention share neural substrates. Dopamine marks salience
-  and sets thresholds; consciousness selects among competing actions through quantum
-  Zeno stabilization.
+description: Motor control and attention share neural substrates; dopamine marks salience
+  and sets thresholds. Where conscious selection could enter, and how, stays open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-09-02 08:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,9 +46,11 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The premotor theory of attention proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single quantum selection mechanism underlies both domains. The Unfinishable Map's framework unifies under one interface: consciousness selects among competing neural options through rapid observation, whether the selection concerns what to perceive or what to do.
+The premotor theory of attention proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single selection mechanism would underlie both domains—one interface for what to perceive and what to do.
 
-This unification has substantial empirical support. Willed movements engage frontal theta oscillations just as willed attention does. Voluntary action commits roughly 280ms before movement, a timescale of the same order as voluntary attention's ~300ms deployment. Neural populations simultaneously encode multiple potential actions, competing until one reaches threshold. The challenge from Libet's experiments—that the brain "decides" before we're aware—has been substantially weakened by evidence that the readiness potential is noise rather than decision.
+One caution governs everything that follows. The Zeno mechanism this page develops is a *context and probing* proposal—it controls which neural state is measured and how often, with outcomes still Born-governed. That is Stapp's Process-1 placement, not the *outcome selection* the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adopts; they are different causal proposals. The [quantum-interface register](/positions/quantum-interface/) ranks Stapp-Zeno below [post-decoherence selection](/concepts/post-decoherence-selection/) (P-Q4 against P-Q1), and its [mechanism debt](/positions/quantum-interface/#mechanism-debt) stands undischarged. Read every selection claim below at the confidence the register sets, not above it.
+
+The unification has substantial empirical support: willed movements engage frontal theta oscillations just as willed attention does; voluntary action commits ~280ms before movement, the same order as voluntary attention's ~300ms deployment; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
 
 ## The Premotor Theory of Attention
 
@@ -57,13 +58,13 @@ This unification has substantial empirical support. Willed movements engage fron
 
 Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumption that attention and motor control are separate systems. The core claim: "Selective attention and movement planning use the same neural substrates and there is no independent attention system."
 
-Evidence: the same fronto-parietal networks activate during spatial attention shifts and motor preparation. Preparing an eye movement to location X improves visual processing at X—attention *is* the motor preparation. Microstimulation of motor regions enhances visual processing at the target location. Attempts to identify attention regions independent of motor planning consistently fail.
+Evidence: the same fronto-parietal networks activate during spatial attention shifts and motor preparation. Preparing an eye movement to location X improves visual processing at X—attention *is* the motor preparation. Microstimulation of motor regions enhances visual processing at the target location, and attempts to identify attention regions independent of motor planning consistently fail.
 
 PMTA's proponents (Rizzolatti and colleagues) do not endorse dualist interpretations—the Map's extension is an application of their empirical findings, not a consequence they would accept.
 
 ### The Attention-Motor Parallel
 
-The [attention as interface hypothesis](/concepts/attention-as-interface/) proposes that consciousness operates through attention, using the quantum Zeno effect to hold desired neural patterns stable. Motor control shows the same structure: frontal theta oscillations, commitment and deployment on ~280–300ms timescales, distinct willed vs instructed signatures, bidirectional frontoparietal coherence, and effortful phenomenology. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
+The [attention as interface hypothesis](/concepts/attention-as-interface/) proposes that consciousness operates through attention—on the Zeno candidate, by rapid probing that would hold desired neural patterns stable. Motor control shows the same structure: frontal theta oscillations, distinct willed vs instructed signatures, bidirectional frontoparietal coherence, and effortful phenomenology. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
 
 ### From Attention-as-Interface to Action-as-Interface
 
@@ -83,11 +84,11 @@ Paul Cisek's affordance competition hypothesis describes how motor selection act
 
 4. **Winner-take-all.** The winning action executes while competitors are suppressed.
 
-This architecture provides a precise locus for quantum selection. During competition, multiple action representations exist simultaneously—a classical analog of quantum superposition. At threshold crossing, one becomes actual.
+This architecture shows where a conscious contribution would have to act *if* there is one: during competition, multiple prepared actions coexist; at threshold crossing, one executes. The coexistence itself is classical parallel preparation—Cisek and Kalaska's population dynamics are specifiable in classical terms throughout, establishing neither superposition nor a causal gap awaiting a non-physical filler. The architecture supplies a location for selection, not evidence that anything non-neural performs it.
 
-### Why Neural Competition Doesn't Suffice
+### What Neural Competition Leaves Open
 
-Either competition is deterministic (one option was always going to win) or it involves genuine indeterminacy. If deterministic, deliberation is theatre—the 43% of neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome. If genuinely indeterminate, the physicalist response is that stochastic resolution biased by reward history and context suffices—no conscious selector needed. But this reduces choice to weighted randomness: the system rolls loaded dice, and whichever option happens to win is retrospectively called a "decision." For the outcome to be both undetermined and meaningful—not just statistically biased—something beyond neural dynamics must resolve the indeterminacy. Consciousness enters as the resolution of indeterminacy in a direction that reflects what the agent is trying to do. This places motor selection inside the [selection-only channel](/topics/selection-only-mind-influence/): consciousness picks among options the brain already generates rather than injecting new ones, and *by what criterion* it picks is the open [selection-criterion-problem](/concepts/selection-criterion-problem/).
+The competition dynamics do not, by themselves, need a conscious selector. Classical noisy accumulators, recurrent control systems, and hierarchical policies all implement selection without one; a competitive or stochastic neural description is not evidence that the physical causes are insufficient, and no argument runs from that description to a non-physical selector. The Map's claim is a framework commitment rather than an inference from the neuroscience: *if* consciousness contributes anywhere—as the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds on independent grounds—then threshold crossing among closely matched, already-prepared options is where a selection-shaped contribution would fit without disturbing the dynamics just described. Consciousness would enter as a bias on which prepared option wins, in a direction that reflects what the agent is trying to do. This places motor selection inside the [selection-only channel](/topics/selection-only-mind-influence/): consciousness picks among options the brain already generates rather than injecting new ones, and *by what criterion* it picks is the open [selection-criterion-problem](/concepts/selection-criterion-problem/).
 
 ### The 280ms Commitment Point
 
@@ -95,20 +96,20 @@ Thura and Cisek (2014) identified that approximately 280ms before movement onset
 
 ### Basal Ganglia Brake-Release
 
-The basal ganglia implement a brake-release model: tonic inhibition of motor programs (brake on), with D1-receptor striatal neurons releasing the brake on selected actions and D2-receptor neurons maintaining inhibition on competitors. The cortex generates ensembles of possible actions; the striatum selects—precisely the architecture the Map's framework requires: generation of options followed by selection among them.
+The basal ganglia implement a brake-release model: tonic inhibition of motor programs (brake on), with D1-receptor striatal neurons releasing the brake on selected actions and D2-receptor neurons maintaining inhibition on competitors. The cortex generates ensembles of possible actions; the striatum selects—the generation-then-selection architecture the Map reads as the locus for any conscious contribution.
 
 ## Dopamine and the Selection Interface
 
 ### The "Can Move / Won't Move" Distinction
 
-Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
+Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and external stimulation can drive treadmill running. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
 
 This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised.
 
 The capacity/initiation dissociation maps onto a three-layer model:
 1. **Neural computation** generates competing motor options (intact without dopamine)
 2. **Dopamine** marks options as worth pursuing and modulates the selection threshold
-3. **Consciousness** (via quantum selection) determines which marked option actualizes
+3. **Conscious selection**—if it enters anywhere—determines which marked option actualizes
 
 If dopamine caused movement directly, dopamine-deficient animals couldn't move at all. If consciousness alone initiated movement, dopamine loss wouldn't affect initiative. The actual pattern—preserved capacity, lost initiative—places dopamine between option-generation and conscious selection.
 
@@ -116,21 +117,21 @@ If dopamine caused movement directly, dopamine-deficient animals couldn't move a
 
 Kent Berridge and Terry Robinson's research distinguishes *wanting* (incentive salience, mediated by mesolimbic dopamine) from *liking* (consummatory pleasure, mediated by opioid hedonic hotspots). Dopamine mediates the "pull" toward valued options, not the pleasure of attaining them.
 
-Parkinson's patients show the dissociation clearly: normal hedonic ratings for sweet tastes (liking intact) but reduced motivation to pursue rewards (wanting impaired). Dopamine-replacement therapy occasionally produces the opposite—compulsive gambling or shopping—excessive pursuit without proportionate enjoyment.
+Parkinson's patients show the dissociation clearly: normal hedonic ratings for sweet tastes (liking intact) but reduced motivation to pursue rewards (wanting impaired). Dopamine-replacement therapy occasionally produces the opposite—compulsive gambling or shopping: pursuit without proportionate enjoyment.
 
-Dopamine tags options as **worth considering** and gives them motivational pull, but doesn't determine which option wins. Consciousness selects among options that dopamine has marked as mattering—satisfying [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), since consciousness doesn't generate wanting but selects among options that already have pull.
+Dopamine tags options as **worth considering** and gives them motivational pull, but doesn't determine which option wins. Consciousness would select among options that dopamine has marked as mattering—consistent with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), since consciousness doesn't generate wanting but selects among options that already have pull.
 
 ### Tonic and Phasic Signalling
 
-Dopamine neurons operate in two modes. *Tonic* dopamine—slow, irregular baseline activity—establishes background levels determining overall system readiness. *Phasic* dopamine—rapid bursts encoding reward prediction errors—operates with sub-second precision.
+Dopamine neurons operate in two modes: *tonic*—slow, irregular baseline activity establishing overall system readiness—and *phasic*—rapid bursts encoding reward prediction errors with sub-second precision.
 
-A 2024 *Nature* study used a genetic knockout—removing the release-site organizer protein RIM in dopamine neurons—to disrupt fast, action-potential-evoked dopamine release while baseline dopamine persisted. Movement remained normal (baseline dopamine suffices), but reward-guided motivation was impaired (fast dynamics required). Tonic dopamine ensures the selection system is "online"; phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
+A 2024 *Nature* study used a genetic knockout—removing the release-site organizer protein RIM in dopamine neurons—to disrupt fast, action-potential-evoked dopamine release while baseline dopamine persisted. Movement remained normal (baseline dopamine suffices), but reward-guided motivation was impaired (fast dynamics required). Tonic dopamine ensures the selection system is "online"; phasic dopamine marks specific options at specific moments, creating the salience that conscious selection would operate upon.
 
 ### Decision Threshold Modulation
 
 A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
 
-Dopamine's threshold reduction is value-blind: it lowers how much evidence any option needs, making decisions faster but not more accurate (Chakroun et al. 2023). What biases the race toward rewarded options is the learned-value signal carried by the drift rate—reflected in amphetamine improving performance on rewarding trials. Dopamine sets the "stakes" (how much evidence is needed) and marks which options accumulate fastest, while consciousness biases which of two closely matched options wins the race.
+Dopamine's threshold reduction is value-blind: it lowers how much evidence any option needs, making decisions faster but not more accurate (Chakroun et al. 2023). What biases the race toward rewarded options is the learned-value signal carried by the drift rate—reflected in amphetamine improving performance on rewarding trials. Dopamine sets the "stakes" and marks which options accumulate fastest; which of two closely matched options wins the race is where a conscious bias would enter.
 
 ### Dopamine and Theta Oscillations
 
@@ -140,98 +141,92 @@ A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten
 
 The [Libet experiments](/concepts/libet-experiments/) found that the readiness potential (RP) begins ~550ms before movement while conscious awareness occurs only ~200ms before—apparently showing the brain "decides" before we're aware.
 
-Schurger's 2012 model reframes this finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the RP shape. What consciousness contributes is determining *when to let* threshold-crossing happen. The single-neuron data fit this accumulator picture: Fried, Mukamel & Kreiman (2011) recorded SMA neurons whose progressive firing predicts the impending decision to move before the subject reports awareness—the threshold-crossing dynamics Schurger's model averages over, seen one cell at a time.
+Schurger's 2012 model reframes this finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the RP shape. On the Map's reading, consciousness would contribute by determining *when to let* threshold-crossing happen. The single-neuron data fit this accumulator picture: Fried, Mukamel & Kreiman (2011) recorded SMA neurons whose progressive firing predicts the impending decision to move before the subject reports awareness—the threshold-crossing dynamics Schurger's model averages over, seen one cell at a time.
 
-Sjöberg (2024) provides surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. If the RP reflected genuine volition, removing it should impair voluntary action. It doesn't. The RP tracks motor preparation, not decision-making.
+Sjöberg (2024) adds surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. The RP tracks motor preparation, not decision-making.
 
 ## Where Intention Originates
 
 Desmurget's 2009 neurosurgical studies reveal a double dissociation: parietal stimulation produces conscious intention *without* movement (or false belief of having moved); premotor stimulation produces movement *without* awareness. The phenomenology of "deciding to move" is separable from the motor machinery that executes movement.
 
-This maps directly onto the Map's framework. Consciousness contributes at the *selection* level—choosing what to do—not at the *execution* level. The parietal cortex, where intention emerges, is part of the posterior "hot zone" associated with conscious content. This explains why we experience choosing to reach for a cup but don't experience choosing the firing patterns of individual motor neurons. The quantum Zeno mechanism operates at the selection interface, not the execution machinery.
+This maps directly onto the Map's framework. Consciousness contributes at the *selection* level—choosing what to do—not at the *execution* level. The parietal cortex, where intention emerges, is part of the posterior "hot zone" associated with conscious content. This explains why we experience choosing to reach for a cup but not the firing patterns of individual motor neurons: on any of the Map's candidate mechanisms, conscious contribution would operate at the selection interface, not the execution machinery.
 
 ## Neural Signatures of Motor Selection
 
 [Willed attention](/topics/structure-of-attention/) shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Motor control shows the same pattern—willed action involves bidirectional information flow while instructed action is primarily feedforward.
 
-Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); motor commitment falls ~280ms before movement. The Zeno framework reads a window of this order as the time consciousness needs to engage through repeated observation and stabilise the selected pattern—a reading the timing is consistent with rather than confirms (see above).
+Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); motor commitment falls ~280ms before movement. The timing overlap is consistent with a shared engagement window without confirming one (see above).
 
 ## Quantum Zeno Applied
 
 ### Unified Selection Mechanism
 
-[Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) proposes that mental attention operates like quantum observation—rapid, repeated "looks" at neural states hold desired patterns stable against their tendency to evolve into alternatives.
-
-If attention is motor planning (PMTA), then the Zeno mechanism applies directly to motor selection. The same rapid observation that sustains attention to a visual target sustains preparation for a reaching movement.
+[Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) proposes that mental attention operates like quantum observation—rapid, repeated "looks" that would hold desired neural patterns stable against their tendency to evolve into alternatives. If attention is motor planning (PMTA), the same probing that sustains attention to a visual target would sustain preparation for a reaching movement.
 
 The unified mechanism:
 
-1. **Neural superposition.** Multiple motor programs exist in superposition (classical analog: competing representations in premotor populations).
-2. **Attentional observation.** Directing attention to a motor plan constitutes observation of that neural state.
-3. **Zeno stabilization.** Repeated observation prevents the plan from dissipating into alternatives.
-4. **Threshold facilitation.** Sustained attention biases which population reaches threshold first.
+1. **Parallel preparation.** Multiple motor programs are prepared simultaneously—Cisek's competing premotor representations, classical dynamics rather than superposition.
+2. **Attentional observation.** Directing attention to a motor plan constitutes, on Stapp's proposal, a Process-1 probing of that neural state.
+3. **Zeno stabilization.** Sufficiently frequent probing would hold the plan against its tendency to dissipate into alternatives.
+4. **Threshold facilitation.** A stabilised plan would gain a persistent advantage in the race to threshold.
 
-This explains the common phenomenology. Sustaining motor intention feels effortful for the same reason sustaining attention feels effortful: both require continuous engagement to maintain Zeno freezing.
+On this reading the common phenomenology follows: sustaining motor intention feels effortful for the same reason sustaining attention does—both would require continuous engagement to maintain the stabilisation.
+
+**Which control claim this is.** A quantum-mind proposal can claim conscious control over six different things: the measurement basis, the measurement timing, state preparation, coherence maintenance, whether collapse occurs, or which outcome results. The mechanism just described claims the first two—which neural state is probed, and how often. That is Stapp's Process-1 placement: which question is put to nature, and when, with nature's answer left to the Born statistics. It is a genuine causal proposal—context and probing frequency can have physical consequences with the Born rule intact—but it is not the outcome selection the Map's tenets adopt, and the outcome-selection register does not underwrite it: [the register](/positions/quantum-interface/) holds Stapp-Zeno as live but demoted (P-Q4), while the adopted commitment faces its own bias-without-deviation dilemma pending a worked model (P-Q3, P-Q10). The two proposals should not travel together under a generic label of "quantum selection."
 
 ### Decoherence Considerations
 
-The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—eight to nine orders of magnitude longer than Tegmark's estimates, though these figures remain disputed. Additionally, the [post-decoherence selection response](/concepts/psychophysical-laws/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [decoherence](/concepts/decoherence/) article addresses the standard challenge—rapid decoherence in warm brains—which cuts hardest against exactly this mechanism and is why the register demotes the Zeno family below [post-decoherence selection](/concepts/post-decoherence-selection/). Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—far longer than Tegmark's estimates, though disputed. The preferred alternative is not a variant of the same story: post-decoherence selection is an *outcome-selection* proposal with no observation rate or probing structure, so if the Zeno candidate falls, its probing story is not inherited by the replacement. The neuroscience above survives either way: it constrains where a selection-shaped contribution would act, not which mechanism carries it.
 
 ## The Phenomenology of Motor Choice
 
 The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
 
-The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [skill-delegation](/concepts/skill-delegation/)—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [skill acquisition arc](/topics/consciousness-and-skill-acquisition/) charts this transition.
+The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). Efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [skill-delegation](/concepts/skill-delegation/); the full [skill acquisition arc](/topics/consciousness-and-skill-acquisition/) charts the transition.
 
-Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. Holding the template against competing alternatives carries phenomenal cost, suggesting the phenomenology tracks something real about conscious contribution.
+Stapp describes consciousness holding a "template for action" stable; the phenomenal cost of holding it against alternatives suggests the phenomenology tracks something real.
 
 ## The Illusionist Challenge
 
 [Illusionists](/concepts/illusionism/) argue that motor selection phenomenology—effort, authorship, veto—is representational fiction. But as Tallis notes, illusions presuppose experience. To seem one way rather than another, there must be something it's like to seem.
 
-The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. The Zeno framework explains this: difficult actions require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
+The correlation between felt effort and motor difficulty poses a problem for illusionism. Novel movements feel harder than practiced ones; complex sequences feel harder than simple actions. On the Zeno reading, difficult actions would require more frequent observation events, producing greater felt effort. If phenomenology were disconnected from motor processing, this correlation would be coincidental.
 
-The zombie reformulation sharpens the challenge: a philosophical zombie would show the same neural signatures (frontal theta, bidirectional coherence) for "willed" versus "instructed" action without any phenomenal experience. Either these signatures cause phenomenology (contradicting illusionism) or they're unrelated to it (unexplained correlation).
+The zombie reformulation sharpens the challenge: a zombie would show the same willed-versus-instructed neural signatures without any phenomenal experience—so either the signatures cause phenomenology (contradicting illusionism) or the correlation is unexplained.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The attention-motor unification supports the [Dualism](/tenets/#dualism) tenet. The dissociation between intention (parietal) and execution (premotor) suggests something contributes to intention that is not identical to motor execution machinery. Both willed attention and willed action feel like *you* doing something—not like watching computation unfold—suggesting a common agent behind both.
+The attention-motor unification supports the [Dualism](/tenets/#dualism) tenet. The dissociation between intention (parietal) and execution (premotor) suggests something contributes to intention that is not identical to motor execution machinery. Both willed attention and willed action feel like *you* doing something, suggesting a common agent behind both.
 
 ### Minimal Quantum Interaction
 
-Motor selection satisfies the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) constraint. Consciousness doesn't generate motor force—it biases selection among patterns the brain already generates. The bandwidth constraint (~10 bits/second for conscious processing) matches policy-level operation: you consciously select "reach for Y"—you don't consciously direct individual motor neurons.
+Motor selection fits the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) constraint: consciousness doesn't generate motor force—it would bias selection among patterns the brain already generates. The bandwidth constraint (~10 bits/second for conscious processing) matches policy-level operation: you select "reach for Y," not individual motor neuron firings.
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds indirect support. Motor control is where consciousness *seems* most obviously to affect the physical world—words appear on screens, bodies move through space—but the seeming is not itself the evidence: the [agency void](/voids/agency-void/#the-verification-circularity) catalogues why consciousness cannot first-person-verify its own causal power. The tenet is held as a metaphysical commitment supported by indirect evidence, not as a directly introspectible datum. If motor selection and attentional selection share a mechanism, the same interface connects consciousness to both perception and action.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds indirect support. Motor control is where consciousness *seems* most obviously to affect the physical world, but the seeming is not itself the evidence: the [agency void](/voids/agency-void/#the-verification-circularity) catalogues why consciousness cannot first-person-verify its own causal power. The tenet is held as a metaphysical commitment supported by indirect evidence, not as a directly introspectible datum. A shared attention-motor mechanism would make one interface serve both perception and action.
 
 ### No Many Worlds
 
-The quantum Zeno mechanism requires genuine collapse. If all branches actualize (many-worlds interpretation), there's nothing for consciousness to select—motor programs would execute in all branches, and consciousness would merely find itself in one. The [No Many Worlds](/tenets/#no-many-worlds) tenet preserves motor selection as genuine choice, not branch-discovery.
+Both candidate mechanisms—Zeno probing and post-decoherence outcome selection—require one alternative to become genuinely actual. If all branches actualize (many-worlds interpretation), there's nothing for consciousness to select—motor programs would execute in all branches, and consciousness would merely find itself in one. The [No Many Worlds](/tenets/#no-many-worlds) tenet preserves motor selection as genuine choice, not branch-discovery.
 
 ### Occam's Razor Has Limits
 
-The "simpler" neural-determinism view cannot explain why the willed/instructed distinction exists neurally (why have it if epiphenomenal?) or why accurate effort phenomenology would evolve if causally inert. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet explains: parsimony is unreliable when our knowledge is incomplete.
+The "simpler" neural-determinism view still owes an account of why the willed/instructed distinction exists neurally (why maintain it if epiphenomenal?) and why accurate effort phenomenology would evolve if causally inert. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet explains: parsimony is unreliable when our knowledge is incomplete.
 
 ### An Honest Gap
 
-This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated. This limitation distinguishes the Map's position from eliminativism, which denies the problem, and from solutions that relocate what they claim to solve.
-
-The confident selection language used throughout this article — consciousness "selects among competing actions," "biases which population reaches threshold," holds plans stable by Zeno freezing — inherits the Map's central *mechanism debt* and does not discharge it: there is no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (genuine selection that nonetheless preserves Born statistics exactly) sits close to epiphenomenalism until a positive account survives review. The full statement of that crux, which this article's claims about consciousness doing motor work depend on, is logged at [the quantum-interface register's mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt). Read the selection claims at the confidence level the register sets there, not above it.
+This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated. The mechanism-debt caution that opens this article governs its whole vocabulary: "selects," "biases," and "stabilises" are claims held at the confidence of [the quantum-interface register's mechanism-debt anchor](/positions/quantum-interface/#mechanism-debt), where no worked toy model exists for either the probing candidate or outcome selection, and the bias-without-deviation dilemma sits close to epiphenomenalism until a positive account survives review.
 
 ## Further Reading
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
-- [structure-of-attention](/topics/structure-of-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — BCIs test whether motor selection extends beyond the brain
 - [downward causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects neural processes
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing
-- [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
-- [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
 - [free-will](/topics/free-will/) — The topic page on free will and determinism
 
 ## References

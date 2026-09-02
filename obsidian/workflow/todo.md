@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/motor-selection` runs Stapp's context-selection mechanism (Zeno stabilization: description field, L46, L62, L147, L153) under the Map's outcome-selection tenet without labelling the change; L82 calls neural competition "a classical analog of quantum superposition"
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/motor-selection.md
-- **Source**: outer-review
-- **Review files**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-02-claude-opus-5.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-02.md`
-- **Generated**: 2026-09-02
-- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT Review §§2.5, 2.7 (loci grep-verified 2026-09-02); Claude's headline STAPP INVERSION bullet draws the same distinction ("Stapp escaped the willful-selection/statistical-rules conflict by relocating mental influence to Process 1 (which/when to measure), not to which outcome") — the tenets page owns the divergence; this page is the unlabelled residue. The tenets now distinguish Stapp's Process-1 (which question is posed, and when) from adopted Tenet 3 (which outcome becomes actual); this page's mechanism is Zeno/probing throughout, its own description field included. A context/probing mechanism can have physical consequences with the Born rule intact; a pure outcome selector in a fixed context faces bias-without-deviation — they are different causal proposals and the page should say which it advances (reviewer's six-way menu: basis, timing, preparation, coherence maintenance, collapse occurrence, outcome) and mark its relation to the outcome-selection register. Separately: affordance competition and threshold crossing are classical selection dynamics — Cisek & Kalaska establish parallel preparation, not superposition or an unfilled causal slot — so drop or rigorously qualify the L82 analogy and any deterministic-vs-random dichotomy. Move the mechanism-debt warning from the end into the summary. Keep the neuroscience; fix the framing. Sync both trees.
-
 ### P2: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
 - **Type**: refine-draft
 - **Status**: pending
@@ -1922,6 +1912,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `concepts/motor-selection` runs Stapp's context-selection mechanism (Zeno stabilization: description field, L46, L62, L147, L153) under the Map's outcome-selection tenet without labelling the change; L82 calls neural competition "a classical analog of quantum superposition"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/motor-selection.md
+- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT Review §§2.5, 2.7 (loci grep-verified 2026-09-02); Claude's headline STAPP INVERSION bullet draws the same distinction ("Stapp escaped the willful-selection/statistical-rules conflict by relocating mental influence to Process 1 (which/when to measure), not to which outcome") — the tenets page owns the divergence; this page is the unlabelled residue. The tenets now distinguish Stapp's Process-1 (which question is posed, and when) from adopted Tenet 3 (which outcome becomes actual); this page's mechanism is Zeno/probing throughout, its own description field included. A context/probing mechanism can have physical consequences with the Born rule intact; a pure outcome selector in a fixed context faces bias-without-deviation — they are different causal proposals and the page should say which it advances (reviewer's six-way menu: basis, timing, preparation, coherence maintenance, collapse occurrence, outcome) and mark its relation to the outcome-selection register. Separately: affordance competition and threshold crossing are classical selection dynamics — Cisek & Kalaska establish parallel preparation, not superposition or an unfilled causal slot — so drop or rigorously qualify the L82 analogy and any deterministic-vs-random dichotomy. Move the mechanism-debt warning from the end into the summary. Keep the neuroscience; fix the framing. Sync both trees.
 
 ### ✓ 2026-09-02: `apex/post-decoherence-selection-programme` — seven uses of "menu" language the corrected tenets wording now disclaims
 - **Type**: refine-draft

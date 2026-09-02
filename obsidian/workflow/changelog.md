@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T05:08:35+00:00'
+ai_modified: '2026-09-02T08:29:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T08:28 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/motor-selection]]
+- **Word count**: 3394 → 3499 (+105; held under the 3500 concepts hard threshold via offsetting trims)
+- **Source**: Convergence P1 (2026-09-02, 2/3 reviewers — ChatGPT §§2.5/2.7, Claude STAPP INVERSION bullet): page ran Stapp's context/probing Zeno mechanism under the Map's outcome-selection tenet unlabelled
+- **Changes**: (1) Mechanism commitment installed per the reviewer's six-way menu — new "Which control claim this is" paragraph in Quantum Zeno Applied states plainly the page's mechanism claims measurement basis + timing (Stapp's Process-1 placement, outcomes Born-governed), is not the outcome selection the tenets adopt, and is not underwritten by the outcome-selection register (P-Q4 live-but-demoted; P-Q3/P-Q10 debt named); transplanted from tenets.md L91/L107 wording. (2) Mechanism-debt warning moved from the end into the summary ("One caution governs everything that follows…"); An Honest Gap compressed to a pointer back to it. (3) Description field de-Zenoed (was "consciousness selects…through quantum Zeno stabilization"). (4) L82 "classical analog of quantum superposition" replaced — Cisek & Kalaska establish classical parallel preparation, no superposition, no causal gap; unified-mechanism list item 1 likewise. (5) "Why Neural Competition Doesn't Suffice" retitled "What Neural Competition Leaves Open" and rewritten — deterministic-vs-random dichotomy and "something beyond neural dynamics must resolve" inference removed; selection-shaped contribution now a framework commitment conditional on Tenet 3, selection-only channel links preserved. (6) Zeno-identity phrasings converted to conditional "on the Zeno reading … would" (aligning with the 09-01 meditation-and-consciousness-modes fix): unified-mechanism list, effort phenomenology, illusionism-correlation, Schurger when-to-let, MQI/threshold/dopamine "consciousness selects/biases" flat assertions. (7) Decoherence Considerations now says the timing objection is why the register demotes the Zeno family and that post-decoherence selection has no probing structure to inherit — the neuroscience constrains where, not which mechanism. (8) Offsetting trims: Further Reading de-duplicated (4 body-linked entries removed), Sjöberg/efference/zombie/tonic-phasic compressed; all calibration qualifiers kept. Engagement with illusionism (Frankish/Tallis): substance unchanged this pass; standing engagement is Mode Two (illusionism helps itself to experience-free "seeming") with a Mode One element (effort-difficulty correlation); only hedging touched. Sibling P2 on topics/motor-control-quantum-zeno (5-15% figure) untouched — no shared claims edited; that file's L115 copy-source exemplar not referenced here.
+- **Published**: yes
 
 ## 2026-09-02T07:32 - deep-review
 - **Status**: Success
