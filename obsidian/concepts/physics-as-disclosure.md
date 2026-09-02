@@ -1,10 +1,10 @@
 ---
 title: "Physics as Disclosure"
-description: "The measurement problem is not a deficiency in quantum mechanics but a disclosure — physics correctly reaching the boundary where structural description meets conscious actuality."
+description: "Reads the measurement problem as disclosure rather than deficiency — one interpretation among rivals of where structural description meets actuality."
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-06T00:30:18+00:00
+ai_modified: 2026-09-02T05:38:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,19 +63,19 @@ The pattern: a theory faithfully describes its domain, and the boundary it reach
 
 The measurement problem may break this pattern. If the Map's [[bi-aspectual-ontology]] is correct, what lies beyond the boundary is not more structure but a different *kind* of thing — actuality, consciousness, the first-person dimension that no third-person description captures. The measurement problem would then be the first disclosure in the history of physics that points *outside* physics rather than to deeper physics.
 
-This is what makes the measurement problem distinctive. After a century, no within-physics resolution commands consensus — unlike thermodynamics (resolved within decades) or classical mechanics (resolved within a generation). The persistence of the problem is consistent with, though not proof of, a boundary that physics *cannot* cross rather than one it has not yet crossed.
+This is what makes the measurement problem distinctive. After a century, no within-physics resolution commands consensus — unlike thermodynamics (resolved within decades) or classical mechanics (resolved within a generation). But duration of disagreement is weak sociological evidence at best: it measures the state of a research community, not the structure of reality, and interpretational disputes can persist for many reasons short of an ontological boundary.
 
-## How Decoherence Supports the Disclosure Reading
+## Decoherence and the Disclosure Reading
 
-Decoherence is sometimes presented as a solution to the measurement problem. It is not — but its partial success *strengthens* the disclosure reading.
+Decoherence is sometimes presented as a solution to the measurement problem. It is not — but what its partial success licenses must be stated narrowly. The physics supports only the narrow claim that decoherence by itself selects no unique outcome, with the interpretive implications contested (Schlosshauer 2004).
 
 [[decoherence]] explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
 
 What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains on a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
 
-This is precisely what the disclosure reading predicts. Decoherence handles everything physics *can* handle — basis selection, suppression of interference, emergence of classicality. It stops precisely where structural description ends and the question of actuality begins. The clean division — decoherence does all the structural work, and the residual mystery is entirely about which outcome becomes actual — supports the claim that the boundary is between *kinds* of explanation, not a gap within a single kind.
+This is what the disclosure reading expects. Decoherence handles everything physics *can* handle — basis selection, suppression of interference, emergence of classicality — and stops where the question of actuality begins. But every rival interpretation accommodates the same residue: Bohmian mechanics holds the outcome was fixed all along by particle positions; objective-collapse theories add a physical selection process; Everettians deny that selection occurs; pragmatist and instrumentalist readings dismiss the question as ill-posed. The clean division is *compatible* with a boundary between kinds of explanation; it does not discriminate disclosure from these rivals.
 
-If decoherence solved the measurement problem, the boundary would be an artefact of older formulations. That it resolves everything *except* the actuality question is evidence that the boundary is real.
+If decoherence had solved the measurement problem, the disclosure reading would have been refuted — the boundary an artefact of older formulations. That it did not removes a defeater, and on the Map's methodology register that is all it does: defeater-removal never raises a claim's evidential tier, and the absence of a principled barrier is not the presence of positive evidence ([[positions/methodology-and-calibration|P-M1]]).
 
 ## Evidence Criteria: Disclosure vs. Deficiency
 
@@ -85,25 +85,25 @@ How could one distinguish between the two readings? Both are consistent with cur
 
 **If disclosure**: Within-physics resolutions will either fail or dissolve the question by redefining what counts as "solving" it. Many-Worlds dissolves the problem by declaring all outcomes actual — but this trades the measurement problem for the [[indexical-identity-quantum-measurement|indexical problem]] (why *this* branch?). Decoherence handles basis selection but leaves outcome selection untouched. No proposal resolves the actuality question on purely physical terms without eliminating the question itself.
 
-Several considerations favour the disclosure reading from the Map's perspective:
+From the Map's perspective, several considerations fit the disclosure reading:
 
-1. **Duration of the problem.** A century without resolution is unusual for physics. Most foundational puzzles — Mercury's precession, ultraviolet catastrophe, the aether — were resolved or clearly dissolved within decades. One could argue the measurement problem is merely interpretational rather than empirical, which would explain the delay without invoking disclosure. But the measurement problem is not purely interpretational: it concerns the physical process by which one outcome obtains. Its persistence is expected on the disclosure reading, anomalous on the deficiency reading.
+1. **Duration of the problem — weak sociological evidence only.** A century without resolution is unusual for physics; most foundational puzzles — Mercury's precession, ultraviolet catastrophe, the aether — were resolved or clearly dissolved within decades. But persistence measures the state of a community, not the structure of reality, and it is equally expected wherever empirically equivalent interpretations compete. This consideration carries the least weight here.
 
 2. **Structural parallel with the hard problem.** Both the measurement problem and the [[hard-problem-of-consciousness]] mark points where third-person description fails to capture first-person facts. If this parallel is not coincidental — if both disclose the same boundary — the measurement problem is philosophical rather than physical. See [[quantum-measurement-and-consciousness]] for the full argument. The [[self-stultification]] argument operates as a parallel boundary-marker: just as disclosure reveals where structural description ends and actuality begins, self-stultification reveals where purely physical explanation undermines its own rational credentials. Both strategies converge on the same conclusion — that structural description, however complete within its domain, cannot be the whole story.
 
-3. **Decoherence's clean partition.** Decoherence's ability to handle all structural aspects while leaving the actuality question untouched is predicted by disclosure, not expected on deficiency.
+3. **Decoherence's clean partition.** Decoherence's ability to handle all structural aspects while leaving the actuality question untouched is what disclosure expects — though, as argued above, every rival accommodates the same partition. Fit, not discrimination.
 
 4. **Constraints on hidden completions.** No-hidden-variables theorems (Bell, Kochen-Specker) severely constrain what additional physical information could look like — ruling out local and noncontextual hidden variables. While nonlocal completions like Bohmian mechanics remain possible, the theorems show that any "missing physics" must be radically unlike familiar physics. The more exotic the required completion, the less the deficiency reading resembles a straightforward gap.
 
 5. **Cross-interpretation persistence.** Barrett (2006) argues formally that the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome — dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences — dualism provides a subject. The boundary persists across frameworks, which is expected if it reflects an ontological feature of reality rather than an artefact of one formulation.
 
-None of these is individually decisive. The deficiency reading remains viable — it is possible that a physical collapse mechanism will be discovered, or that a reconceptualisation of "physical" will dissolve the boundary. The Map holds that the evidence favours disclosure but maintains [[tenets#^occams-limits|epistemic humility]] about the conclusion.
+None of these is individually decisive, and the honest likelihood comparison should be stated plainly. Asked what observation is *more* expected under disclosure than under Bohmian, Everettian, or pragmatist readings, the answer at present is: none. Disclosure, like those rivals, preserves the standard quantum statistics exactly, so no current experiment discriminates among them. Objective-collapse theories are the exception — they predict small deviations, and experiment is progressively constraining them — but a rival's fall would remove a competitor, not add support ([[positions/methodology-and-calibration|P-M1]]). What the considerations above establish is compatibility and cumulative fit, the default reading the register licenses ([[positions/methodology-and-calibration|P-M2]]), not discrimination. The deficiency reading remains viable — a physical collapse mechanism may yet be discovered — and the Map maintains [[tenets#^occams-limits|epistemic humility]] about its preference for disclosure.
 
 ## Relation to Site Perspective
 
 "Physics as disclosure" is a load-bearing concept in the Map's framework, connecting the [[measurement-problem]] to the [[bi-aspectual-ontology]] and grounding [[the-reverse-inference|the reverse inference]] from consciousness to physics.
 
-**[[tenets#^dualism|Dualism]]**: The disclosure reading makes the measurement problem evidence *for* dualism rather than merely consistent with it. If physics correctly reaches a boundary beyond which lies consciousness, the boundary is an ontological feature of reality — exactly what dualism claims.
+**[[tenets#^dualism|Dualism]]**: The disclosure reading interprets the measurement problem as marking exactly the boundary dualism posits. The fit is close, but it is framework fit — compatibility rather than independent support, per the register's separation of the two ([[positions/methodology-and-calibration|P-M1]]).
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, [[conservation-laws-and-mental-causation|without violating conservation laws]]. The interaction is invisible from within physics because physics ends where the interaction occurs.
 
@@ -119,7 +119,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 - [[bi-aspectual-ontology]] — The ontological framework behind the disclosure reading
 - [[the-reverse-inference]] — The methodological move that disclosure enables: consciousness constrains physics
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference that disclosure grounds
-- [[decoherence]] — Why decoherence supports rather than undermines the disclosure reading
+- [[decoherence]] — What decoherence settles, and the outcome question it leaves open
 - [[quantum-measurement-and-consciousness]] — The structural parallel with the hard problem
 - [[self-stultification]] — A parallel boundary-marker: structural explanation undermining its own rational credentials
 - [[quantum-probability-consciousness]] — Born probabilities as interface specification
@@ -129,8 +129,9 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
 2. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
-3. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
-4. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
-5. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
-6. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
-7. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+3. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267.
+4. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
+5. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
+6. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
+7. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+8. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
