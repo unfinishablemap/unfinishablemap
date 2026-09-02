@@ -1892,6 +1892,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 ## Completed Tasks
 
 
+
+### P3: `topics/consciousness-and-language-interface` L178 names Dennett's inner-speech account with no citation — the canonical reference form now exists at the sibling
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-language-interface.md
+- **Added**: 2026-09-02 (driver, from deep-review residue)
+- **Notes**: The 2026-09-02 deep review of `topics/inner-speech-and-anendophasia` closed the same defect there by adding the corpus-dominant *Consciousness Explained* (Little, Brown, 1991) form (verified at Open Library) with an inline author-year cite and References entry. Transplant that exact form — read the sibling's References entry on disk first, do not mint a variant. Re-find the locus by string ("Dennett") if L178 has shifted. Length rules apply: measure first with analyze_length; a one-line cite + References entry is the entire envelope. Bump ai_modified; sync both trees.
 ### ✓ 2026-09-02: `concepts/llm-consciousness` L118/L161 is the corpus's only claim that conscious selection would leave a detectable trace — wrong in the direction no other file is (tenet-check 2026-09-02 Warning 5) — plus the one-clause "no statistical signature at any sensitivity" over-concession at `concepts/psychophysical-laws` L221
 - **Type**: refine-draft
 - **File**: obsidian/concepts/llm-consciousness.md

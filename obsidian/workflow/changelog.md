@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T19:26:33+00:00'
+ai_modified: '2026-09-02T19:51:47+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T19:51:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/inner-speech-and-anendophasia]]
+- **Word count**: 2908 → 2917 (+9)
+- **Critical issues addressed**: 0 (none found — second pass on a converged article)
+- **Medium issues addressed**: 1 (deferred Dennett-uncited item closed: *Consciousness Explained* verified at Open Library, corpus-canonical form "Dennett, D. (1991). *Consciousness Explained*. Little, Brown." reused, inline cite + References entry added, list renumbered — body cites author-year only, no numeric cross-references)
+- **Enhancements made**: 1
+- **Audit scope**: the two never-reviewed post-review crosslink installs (2026-08-06 [[apex/phenomenal-variation-within-a-species]] Further Reading annotation; 2026-08-16 [[concepts/descriptive-experience-sampling]] limitation-register clause) verified accurate against current target text; citation-currency re-check from raw Crossref fields on the three provisional entries (Hurlburt 2026 still volume/issue-less — 36(9) remains Lind 2025a's locator, not Hurlburt's; Lupyan & Nedergaard 10.31219/osf.io/w9gfy_v1 and Lind 10.31234/osf.io/8u4ct_v1 both still preprint-only, "not peer reviewed" framing stands); P-AC4 usage re-verified against the current register; no verbatim quoted spans in body (grep — all double-quotes sit in ledgered References titles); `find_superlative_claims` zero candidates.
+- **Reasoning-mode**: constitutive-view engagement (Dennett/Carruthers/Vygotskians): Mixed — in-framework burden-transfer from the opponents' own empirical standards, with the unconscious-processing reply stated as available and refutation explicitly not claimed; no label leakage (grep-verified).
+- **ai_system**: unchanged (claude-opus-5) — clause-level fixes only, no substantive regeneration.
+- **Length**: 2917 words, topics thresholds 3000/4000/6000 printed live, status ok; single-cite addition within length-neutral tolerance.
+- **Output**: [[reviews/deep-review-2026-09-02-inner-speech-and-anendophasia]]
 
 ## 2026-09-02T19:26:33+00:00 - refine-draft
 - **Status**: Success
