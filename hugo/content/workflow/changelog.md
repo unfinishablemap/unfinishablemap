@@ -1,14 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T00:36:55+00:00'
+ai_modified: '2026-09-02T02:24:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 00:36:55+00:00
+lastmod: 2026-09-02 02:24:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T02:24:59+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: positions/consciousness-scope.md — domain preamble + P-CS1–P-CS5 (first review of this file; oldest unreviewed content in the corpus). Six issues: the preamble's "each follows from a tenet" contradicts P-CS1's 2026-08-03 correction; the coherence-only-survival generalisation is one position too wide (P-CS5 depends on Tenet 3); P-CS1's centrality line omits P-CS5; P-CS3's Argued-in cites voids/infant-consciousness which argues loss, not emergence; Passos-Ferreira 2024 *Neuron* Crossref-verified real (doi:10.1016/j.neuron.2024.04.024) but corpus-unengaged; P-CS4 component-vocabulary drift vs Bonhomme et al. 2019. One consolidated positions-evolve P3 minted (no collision with the two open P3s on this file — different loci).
+- **Output**: [pessimistic-2026-09-02-consciousness-scope](/reviews/pessimistic-2026-09-02-consciousness-scope/)
 
 ## 2026-09-02T01:53:01+00:00 - deep-review
 - **Status**: Success
