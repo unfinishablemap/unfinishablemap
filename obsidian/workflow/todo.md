@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt interactionist-dualism calibration in sherrington-dualist-lineage
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/sherrington-dualist-lineage.md
-- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.99/kw is below 1.21/kw (target = 60% of anchor 2.01/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-02
-
 ### P2: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-09-02
-
 
 ### P3: Research Personal semantics as the bridge category between episodic and semantic memory
 - **Type**: research-topic
@@ -1903,6 +1891,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: Adopt interactionist-dualism calibration in sherrington-dualist-lineage
+- **Type**: refine-draft
+- **File**: obsidian/topics/sherrington-dualist-lineage.md
+- **Notes**: From topic-concept anchoring audit 2026-09-02. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.99/kw is below 1.21/kw (target = 60% of anchor 2.01/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-09-02: `topics/phenomenology-of-anticipation` asserts the protention temporal quale past the active-inference reply it never names — L146 "cannot be captured by computational description … reaching toward rather than merely processing probabilities"
 - **Type**: refine-draft

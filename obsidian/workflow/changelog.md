@@ -5,6 +5,13 @@ ai_modified: '2026-09-02T11:56:08+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-02T12:36:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/sherrington-dualist-lineage]]
+- **Original score**: n/a (anchoring-audit flag adjudication; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: Anchoring flag vs [[interactionist-dualism]] (hedge_density 0.99/kw below 1.21 floor; underdetermination_markers 0 vs anchor 1) adjudicated FALSE-HIGH by measurement — 10th consecutive false-high, 0 true positives. All 3 counted lexical hedges are noise: "seems" sits inside a verbatim Sherrington quotation ("Admittedly it seems not physical energy"); "neither appears in the 1940 text" is a verified provenance fact, not a hedge; "could not be confirmed at abstract level and is not asserted here" is itself a calibration move. Both strong-assertion tokens are likewise sound ("confirms the deflationary reading" deflates a claim after a context check; "establishes that dualism retained ... defenders" is the anti-authority section's sociological observation, immediately capped by "carries no evidential weight beyond that"). The anchor's single underdetermination marker ("does not adjudicate", COGITATE sentence) is matched structurally in unlisted words: the explicit license-vs-suspension open question ("does 'science finds only correlation' license asserting a second, causally active element—or only suspension of judgment?"), "a question the evidence leaves open", "no less reasonable an assumption than monism, never as demonstrated", "interpretation remains contested". Structural calibration inventory ~15+ instances (agnostic-pole verdict discipline, dedicated two-calibrations paragraph, per-quote carrier attribution, two access caveats, §Is Distinguished Dissent Evidence?, non-conscription Relation-to-Site framing) against a 1.21/kw lexical floor. The article is historical-expository: its firm assertions are bibliographic facts verified against the 1940 first-edition scan this morning's deep review already certified ("evidential discipline was already strong"). Set `anchoring_audit_exempt: true` with rationale comment at byte offset 363 (inside the 1500-byte window); ZERO body edits; no hedge-padding; verified `_is_anchoring_exempt` True and `evaluate_anchoring` now returns []. ai_modified from live `date -u` (strictly past); hugo mirror hand-edited to match (exemption key, ai_modified, lastmod). Todo task left for cycle_post; not committed.
+- **Published**: yes
+
 ## 2026-09-02T12:11:22+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/competency-without-felt-experience]]

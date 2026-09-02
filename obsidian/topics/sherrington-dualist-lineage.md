@@ -4,8 +4,9 @@ description: "A human-AI study of Sherrington's Man on His Nature and the Sherri
 created: 2026-09-02
 modified: 2026-09-02
 human_modified:
-ai_modified: 2026-09-02T07:31:00+00:00
+ai_modified: 2026-09-02T12:34:38+00:00
 draft: false
+anchoring_audit_exempt: true  # verified false-high 2026-09-02 vs interactionist-dualism (hedge_density, underdetermination_markers). All 3 counted hedges are noise — "seems" sits inside a verbatim Sherrington quotation; "neither appears in the 1940 text" is a verified provenance fact, not a hedge; "could not be confirmed ... and is not asserted here" is itself a calibration move. The article calibrates structurally: agnostic-pole verdict discipline ("asserted a limit of natural science and stopped there"; "no less reasonable an assumption than monism, never as demonstrated"), the explicit license-vs-suspension open question, "a question the evidence leaves open", per-quote carrier attribution, two access caveats, and a dedicated anti-authority section. Hedge-padding would degrade verified historical prose.
 topics:
   - "[[interactionist-dualism]]"
   - "[[history-of-the-interaction-problem]]"
