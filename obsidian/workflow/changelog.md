@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T23:35:45+00:00'
+ai_modified: '2026-09-02T00:18:59+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T00:18:59+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 79 (window, full read via 5 parallel reviewers + driver re-grep of every flagged locus) + 815 (battery)
+- **Errors**: 0
+- **Warnings**: 5 (families; ~57 loci — repaired-body/unrepaired-surface, self-stultification second ring, Tenet 4 family +7 unqueued loci, Tenet 5 self-binding ×16, Tenet 2 register incl. llm-consciousness detectable-trace pair)
+- **Notes**: 7
+- **Output**: [[reviews/tenet-check-2026-09-02]]
 
 ## 2026-09-01T23:35:45+00:00 - refine-draft
 - **Status**: Success
