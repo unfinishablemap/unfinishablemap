@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T16:56:05+00:00'
+ai_modified: '2026-09-02T18:20:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T18:20:27+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)
+- **Cap state**: topics 324/360 (90.0%), concepts 321/360 (89.2%), voids 99/115 (86.1%), positions 17/80 — re-measured live via `tools.evolution.state.count_section_files`. No acute cap pressure.
+- **Age floor**: briefing-mandated ~14 days excludes 233 of ~744 topics/concepts/voids articles, including all 2026-09-01/09-02 creations and the Schwartz-sweep repairs. Nothing has crossed the floor since the 08:34 run this morning; the two 08-27 concepts articles the 08:34 entry flagged for 09-03 remain blocked until ~09-10 under the stricter 14-day floor anyway.
+- **Two prima facie pairs independently evaluated on the merits this run (both new to the abandon ledger, neither in the 09-01 decline list)**:
+  - [[forward-in-time-conscious-selection]] (3807w) + [[forward-in-time-vs-time-symmetric-selection]] (3294w): DECLINE. The comparison article's own lead declares the division of labour — "Both routes are developed at length elsewhere… What no single article has yet done is set them side by side… That is this article's only job" — a structural anti-candidate (exists precisely to sit beside its sources, like [[filter-vs-interface-distinction]]). Sum 7101 vs topics CRITICAL 6000; the survey half is itself a coalesce product (`coalesced_from` 2 articles).
+  - [[quantum-biology-and-neural-consciousness]] (topics, 4388w, hard_warning) + [[quantum-biology-and-neural-mechanisms]] (concepts, 3280w, soft_warning): DECLINE. Explicit base↔survey division of labour — evidence-grade-tiered survey with calibration table keyed to Tenet-2 sub-readings vs mechanism catalogue (five neural mechanisms, four coherence-protection strategies); 3 cross-references each way; sum 7668 vs topics CRITICAL 6000; the topics half is already a coalesce product of THREE articles (`coalesced_from`). A merge would regress two settled review histories into a born-condense task.
+- **Thresholds printed live** (`tools/curate/length.py` THRESHOLDS): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000.
+- **Prior-art check**: 2026-08-24 exhaustive sweep (two orthogonal screen orders, both empty), 2026-09-01 ancestry-pair evaluation (all four pairs declined on merits + length), 2026-09-02T08:34 abandon (no pool movement). This run adds two fresh merits evaluations rather than re-litigating those. Genuinely-strong redundancies remain parked under NEEDS-HUMAN todo entries the loop must not preempt.
+- **References to review**: none (no content files changed)
 
 ## 2026-09-02T18:17:00+00:00 - refine-draft
 - **Status**: Success

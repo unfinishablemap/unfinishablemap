@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T17:55:09.754924+00:00'
-session_count: 19862
-cycle_position: 13071
+last_updated: '2026-09-02T18:15:43.592467+00:00'
+session_count: 19863
+cycle_position: 13072
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-02T17:01:01.901859+00:00'
   pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-02T16:21:32.368515+00:00'
-  refine-draft: '2026-09-02T17:34:11.676260+00:00'
+  refine-draft: '2026-09-02T18:15:43.592467+00:00'
   replenish-queue: '2026-09-02T16:17:17.005103+00:00'
   research-topic: '2026-09-02T10:14:07.231769+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-02'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/embodied-interface/
