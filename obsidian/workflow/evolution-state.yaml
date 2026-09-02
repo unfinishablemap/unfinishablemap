@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T04:45:17.768314+00:00'
-session_count: 19810
+last_updated: '2026-09-02T04:59:13.740584+00:00'
+session_count: 19811
 cycle_position: 13039
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-09-02T03:58:09.839019+00:00'
   collect-claude-review: '2026-09-02T04:31:04.286899+00:00'
   collect-gemini-review: '2026-09-02T04:45:17.768314+00:00'
-  combine-outer-reviews: '2026-08-27T05:27:10.149562+00:00'
+  combine-outer-reviews: '2026-09-02T04:59:13.740584+00:00'
   commission-chatgpt-review: '2026-09-02T02:10:21.744357+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-02T03:06:39.297631+00:00'
@@ -109,7 +109,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 560
-  reviews_completed: 7368
+  reviews_completed: 7369
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-01'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-09-01'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-09-02'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T04:56:00+00:00'
+ai_modified: '2026-09-02T05:08:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T05:08:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Original score**: n/a (outer-review §4.1 uncited-contradiction fix; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: (1) §Relation to Site Perspective Dualism paragraph rewritten — "receives support from both formal and phenomenological routes ... points beyond engineering limitation" retired. Finding (introspective opacity) now separated from the ontological conclusion, which is marked as the Map's addition with the physicalist's best redescription conceded (a self-model unable to contain its own modelling act — death-void L144 model); the six-tradition convergence discounted under the lineage variant of the common-cause null with direct citations [[positions/voids-as-evidence|P-V1]] and [[positions/voids-as-evidence|P-V2]]; transplanted residue, not invented: "hospitable to dualism rather than a proof of it". (2) Minimal Quantum Interaction paragraph gains the mutation-void L124 one-line residue: "a coherence claim, not added support". (3) Gödel analogy KEPT, not cut — locus verified on disk first: [[self-reference-paradox]] genuinely carries the formal work (Lawvere fixed-point theorem, its L72, via self-reference-and-the-limits-of-physical-description), so the paragraph now says "analogy, not theorem—nothing in this article derives introspective limits from incompleteness" and delegates the formal correspondence explicitly; the "formal route" support claim at L157 is gone. (4) Offsetting trims of the same reviewer-flagged independence overclaims: intro "despite sharing almost no premises" ×2 and constitutive-thesis "discover the limit independently" (now "would explain ... not an artifact of any one method"). Engagement with the physicalist (editor-internal): Mode Three boundary-marking made honest — concession built for them, no refutation claimed. Length 3134→3225 wc-words incl. frontmatter (+91: the mandated register citations outweigh the trims). Wording coordinated with the open 08-23 P3 sweep on inaccessible-past/conceptual-impossibility (same death-void/mutation-void models; that task remains pending and untouched). ai_modified from live `date -u` (strictly past); synced to hugo; both trees grep-verified (transplants present; retired phrase 0 hits in self-opacity and archive/, but the sweep found one live string sibling — `voids/witnessing-void` L99 carries the same "receives support ... points beyond engineering limitation" pair with the register cited nowhere in the file; P3 refine-draft minted for it, todo grep confirmed no existing task covers that path; remaining hits are workflow/review echoes, not defects). Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T04:56:00+00:00 - combine-outer-reviews
 - **Status**: Success

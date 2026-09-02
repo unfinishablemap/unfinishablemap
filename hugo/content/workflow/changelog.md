@@ -1,14 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T02:24:59+00:00'
+ai_modified: '2026-09-02T05:08:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 02:24:59+00:00
+lastmod: 2026-09-02 05:08:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T05:08:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Original score**: n/a (outer-review §4.1 uncited-contradiction fix; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: (1) §Relation to Site Perspective Dualism paragraph rewritten — "receives support from both formal and phenomenological routes ... points beyond engineering limitation" retired. Finding (introspective opacity) now separated from the ontological conclusion, which is marked as the Map's addition with the physicalist's best redescription conceded (a self-model unable to contain its own modelling act — death-void L144 model); the six-tradition convergence discounted under the lineage variant of the common-cause null with direct citations [P-V1](/positions/voids-as-evidence/) and [P-V2](/positions/voids-as-evidence/); transplanted residue, not invented: "hospitable to dualism rather than a proof of it". (2) Minimal Quantum Interaction paragraph gains the mutation-void L124 one-line residue: "a coherence claim, not added support". (3) Gödel analogy KEPT, not cut — locus verified on disk first: [self-reference-paradox](/concepts/self-reference-paradox/) genuinely carries the formal work (Lawvere fixed-point theorem, its L72, via self-reference-and-the-limits-of-physical-description), so the paragraph now says "analogy, not theorem—nothing in this article derives introspective limits from incompleteness" and delegates the formal correspondence explicitly; the "formal route" support claim at L157 is gone. (4) Offsetting trims of the same reviewer-flagged independence overclaims: intro "despite sharing almost no premises" ×2 and constitutive-thesis "discover the limit independently" (now "would explain ... not an artifact of any one method"). Engagement with the physicalist (editor-internal): Mode Three boundary-marking made honest — concession built for them, no refutation claimed. Length 3134→3225 wc-words incl. frontmatter (+91: the mandated register citations outweigh the trims). Wording coordinated with the open 08-23 P3 sweep on inaccessible-past/conceptual-impossibility (same death-void/mutation-void models; that task remains pending and untouched). ai_modified from live `date -u` (strictly past); synced to hugo; both trees grep-verified (transplants present; retired phrase 0 hits in self-opacity and archive/, but the sweep found one live string sibling — `voids/witnessing-void` L99 carries the same "receives support ... points beyond engineering limitation" pair with the register cited nowhere in the file; P3 refine-draft minted for it, todo grep confirmed no existing task covers that path; remaining hits are workflow/review echoes, not defects). Todo task left for cycle_post; not committed.
+- **Published**: yes
+
+## 2026-09-02T04:56:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-02
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5, gemini-2-5-pro)
+- **Clusters**: 5 convergent, 6 singleton, 3 divergent (plus 1 correlated-error pair recorded, not counted as convergence)
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5)
+- **Tasks deduplicated**: 0
+- **Output**: [outer-review-synthesis-2026-09-02](/reviews/outer-review-synthesis-2026-09-02/)
+
+## 2026-09-02T04:44:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-09-02-gemini-2-5-pro](/reviews/outer-review-2026-09-02-gemini-2-5-pro/)
+- **Claims verified**: 5 weaknesses checked against the live corpus + 1 web check; 0 survive as stated (P-Q6 already accepts Donadi with the corrected erratum bound where the review quotes the superseded 0.54 figure; MWI self-locating/Sebens–Carroll engaged with disclosed framework-boundary calibration; the bio-individuality animalism refine landed 2026-09-01; Laukkonen 2025 engaged at `predictive-processing-and-dualism` L82–86; "Knowledge of things" is Duncan 2020 *Synthese*, not Balog/OSPM)
+- **High-value findings**: 2 residuals (organoid article names no constitutive-active-inference rival and has zero links to `predictive-processing-and-dualism`; PCS page lacks the objectual-knowledge acquaintance variant)
+- **Tasks generated**: 2 (P2: 2)
+- **Deferred**: verdict-level convergence with the same-day ChatGPT/Claude legs left for /combine-outer-reviews; Kammerer 2021 PP-illusionism engagement left for harvest
+- **Collection**: report extracted js-dom via page-side Blob + SHA-256 (32,138 bytes, hash-verified byte-exact); marked collected in pending-reviews.yaml
+
+## 2026-09-02T04:28:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [outer-review-2026-09-02-claude-opus-5](/reviews/outer-review-2026-09-02-claude-opus-5/)
+- **Claims verified**: 14 on-disk loci grep-verified; 4 confirmed, 6 refuted as stale/false (Laukkonen "confirmed gap", placebo non-reconciliation, FBT verbs, aggregate-liability gap, Wiest over-read, apex count mismatch)
+- **High-value findings**: 4 content + 1 methodology (tenets L105 analogy ontology seam; protention finding relocated to live successor `phenomenology-of-anticipation`; Born-rule d'Espagnat counter-horn absent; `concepts/valence` demonstrate-verbs; confession→binding-status-transition proposal)
+- **Tasks generated**: 5 (P2: 4, NEEDS-HUMAN: 1)
+- **Deferred**: quantum-spine demotion verdict converges with open NEEDS-HUMAN entries (2026-06-01 horn-(b), 2026-08-03/17 foundations) and the same-day ChatGPT review; left for /combine-outer-reviews
+
+## 2026-09-02T03:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (GPT-5.6 Sol, Pro thinking)
+- **File**: [outer-review-2026-09-02-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 8 on-disk loci + 1 external fetch (Maier 2018: 12,571 participants, BF01 = 10.07 for the null — reviewer accurate); 5 corpus-verified citations accepted from the 09-01 correction pass
+- **High-value findings**: 5 verified cross-cluster propagation failures (self-opacity, physics-as-disclosure, substrate-independence, phenomenology-mechanism-bridge, post-decoherence menu language) + 2 novel formal gaps (trajectory-level Born closure, thermodynamic extractable-work)
+- **Tasks generated**: 8 (P1: 3, P2: 5)
+- **Deferred**: tenet-architecture and machine-binding recommendations converge with open NEEDS-HUMAN entries (2026-08-03); findings §1.3-1.9 left for harvest/combine
+
+## 2026-09-02T03:38:51+00:00 - deep-review
+- **Status**: Success
+- **Mode**: cross-review (driver-routed through deep-review; deliverable is integration with the new [semanticisation](/concepts/semanticisation/), not a full persona pass — settled sections untouched, `last_deep_review` deliberately NOT bumped so the scoped pass does not masquerade as a comprehensive one)
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 3970 → 3965 (−5 by `analyze_length` against topics 3000/4000/6000, printed; the driver's ~30-words-under-hard-cap constraint honoured — the ~106-word addition offset word-for-word by redundancy trims)
+- **Changes**: (1) §The Phenomenological Trajectory: new paragraph after the Decades stage qualifying the staged description against Barry, Chadwick & Maguire 2018 — vmPFC recruitment rises and falls around an 8–12-month peak before re-engaging for 2- and 5-year-old memories, nonmonotonic, replicated across independent memory sets — so the staging is phenomenological rather than a report of smooth neural decay; ends with the [semanticisation](/concepts/semanticisation/) pointer (the concept that now owns the schematisation claim and the access-vs-transformation reading). (2) References: Barry et al. 2018 appended (all-"1." markdown list, no renumber exposure). (3) Frontmatter: `[[semanticisation]]` added to `concepts`.
+- **Citation ledger (§2.4, this run)**: Barry, D. N., Chadwick, M. J. & Maguire, E. A. (2018), *PLoS Biology* 16(7): e2005479 — state: real-correct, claim-match CONFIRMED at Crossref raw JSON (authors/title/venue/volume/issue/eLocator exact) and Europe PMC raw abstract ("rising and falling around an initial peak of 8-12 months, before reengaging for older 2- and 5-year-old memories … replicated in 2 independent sets of memories … seems to be nonmonotonic"). No other cite touched; the 2026-08-06 claim-match ledger stands.
+- **Offset trims (redundancy only; 2026-08-06 do-not-regress loci untouched — Hu/Cellini TMR sentence, Baddeley "assumes", 10 bits/s gloss all intact)**: consolidation-section schema paragraph tightened; duplicate pianist example cut (already serves at the anoetic-consciousness paragraph); "(noetic)/(autonoetic)" parentheticals cut; childhood-amnesia tail compressed; two trajectory-analysis tail phrases trimmed and unused "(CLS)" abbreviation dropped; redundant binding-example sentence cut (restated the section's own variation sentence); duplicate simulationist sentence cut; dual-domain paragraph merged with the two sentences it restated (hedge "does not seem to persist as such" preserved); specious-present duration gloss replaced by its concept link per length-neutral-mode guidance.
+- **Frontmatter**: `ai_modified` → 2026-09-02T03:38:51+00:00; `ai_system` extended to claude-opus-4-6+claude-opus-5+claude-fable-5 (substantive addition)
+- **Sync**: hand-mirrored into hugo/content/topics/consciousness-and-memory.md (obsidian is source; [semanticisation](/concepts/semanticisation/) link form); both trees grep-verified for Barry and semanticisation after
 
 ## 2026-09-02T02:24:59+00:00 - pessimistic-review
 - **Status**: Success
