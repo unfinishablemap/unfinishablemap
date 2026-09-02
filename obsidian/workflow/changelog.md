@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T03:38:51+00:00'
+ai_modified: '2026-09-02T03:57:18+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T03:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (GPT-5.6 Sol, Pro thinking)
+- **File**: [[outer-review-2026-09-02-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 8 on-disk loci + 1 external fetch (Maier 2018: 12,571 participants, BF01 = 10.07 for the null — reviewer accurate); 5 corpus-verified citations accepted from the 09-01 correction pass
+- **High-value findings**: 5 verified cross-cluster propagation failures (self-opacity, physics-as-disclosure, substrate-independence, phenomenology-mechanism-bridge, post-decoherence menu language) + 2 novel formal gaps (trajectory-level Born closure, thermodynamic extractable-work)
+- **Tasks generated**: 8 (P1: 3, P2: 5)
+- **Deferred**: tenet-architecture and machine-binding recommendations converge with open NEEDS-HUMAN entries (2026-08-03); findings §1.3-1.9 left for harvest/combine
 
 ## 2026-09-02T03:38:51+00:00 - deep-review
 - **Status**: Success

@@ -3,9 +3,9 @@
   commissioned_at: '2026-09-02T02:09:38.053673+00:00'
   prompt_summary: 'Full-site audit: novel inferences, gaps, tenet coherence, contradictions'
   target_filename: outer-review-2026-09-02-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-02T03:50:17.350923+00:00'
   failure_reason: null
   prompt_text: "Please conduct a full-site external audit of The Unfinishable Map\
     \ at https://unfinishablemap.org \u2014 a philosophical content platform defending\

@@ -37,6 +37,78 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: `voids/self-opacity` L157 says Dualism "receives support" and opacity "points beyond engineering limitation" — the voids register (P-V1/P-V2) rules exactly this move out, and neither page cites the other
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/self-opacity.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §4.1; both loci grep-verified 2026-09-02. L157 ("Dualism receives support from both formal and phenomenological routes ... The convergence of six independent traditions ... points beyond engineering limitation") makes the convergence-as-evidence move `positions/voids-as-evidence` P-V1 (lineage common-cause discount) and P-V2 (defeater-removal is not support) withdrew on 2026-08-17; the article cites neither. **Transplant, do not invent**: `voids/death-void` L144 is the model wording ("hospitable to dualism rather than as a proof of it"), `voids/mutation-void` L124 the one-line residue ("a coherence claim, not added support") — the same models the open 08-23 P3 on `inaccessible-past`/`conceptual-impossibility` uses; this is the third file of that sweep class, so coordinate wording if both run. Also per the reviewer: separate introspective opacity from the ontological conclusion, and either supply a formal correspondence for the Gödel analogy or cut it (verify that locus on disk first — not grep-checked at mint). Length-neutral or shorter. Edit obsidian, sync, grep both trees.
+
+### P1: `concepts/physics-as-disclosure` L70 says decoherence's partial success "strengthens the disclosure reading" — the methodology register holds framework fit is not support, and neither page links the other
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/physics-as-disclosure.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §4.2; L70 grep-verified 2026-09-02, and grep for the methodology register's slug and P-M ids returns nothing in the page. The cited physics (Schlosshauer, Rev. Mod. Phys. 2004) licenses only the narrow claim — decoherence alone selects no unique outcome, implications contested — not that the residue points at consciousness. Recast disclosure as one interpretation among rivals (Bohmian, objective-collapse, Everettian, pragmatist — the reviewer asks for an explicit likelihood comparison: what observation is MORE expected under disclosure?), downgrade "strengthens" to compatibility wording per the register's defeater-removal-is-not-support position, cite that position explicitly, and demote duration-of-disagreement to weak sociological evidence. Measure length before writing; prefer replacement over addition. Sync both trees.
+
+### P1: `concepts/substrate-independence` still delivers the categorical verdict (L46, L176 "purely computational systems ... cannot be conscious") that `apex/machine-question` and P-AC1 scope-corrected to bidirectionally-coupled consciousness only
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/substrate-independence.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §4.3; L46 and L176 grep-verified 2026-09-02. One-way correction: the apex and register point at this page, but the page never imports their scope split, so a reader entering through the concept receives a position the canonical layer no longer holds. **TWO FILES, do not close on one.** (1) `concepts/substrate-independence`: split the verdict per the canonical layer — bare phenomenality: open; report-grounded experience: open; bidirectional coupling: the Map's negative verdict — importing machine-question's distinction and P-AC1's conditional ("low probability, not ruled out, conditional on an interface-eligibility law the Map does not possess"). Also either make the discrete-instructions-are-atemporal claim a precise architectural argument or drop it (reviewer's ask; verify the locus on disk). (2) `apex/machine-question`: at its link to substrate-independence add a one-line notice that its calibrated verdict supersedes categorical legacy formulations — skip the notice and cross-cite instead if both files land in the same pass. Distinct from the open P3 on P-CS1's Argued-in label (register-side, different locus). Length-neutral where possible; sync both trees.
+
+### P2: `apex/phenomenology-mechanism-bridge` asserts what the quantum-interface register grades D — L131 "The choking phenomenon shows consciousness doing causal work", L78 CMD comparative-strength claim, underived 5-15% figure at L155, zero citations of P-Q3/P-Q10
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/phenomenology-mechanism-bridge.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §§2.6, 2.8, 4.4; all loci grep-verified 2026-09-02. Three repairs. (1) L131's "shows ... causal work" and L78's "sits harder on epiphenomenalist than on interactionist readings" outrun the page's own L86 concession that felt efficacy does not show consciousness contributed the cause — choking and cognitive motor dissociation discriminate agency ARCHITECTURES, not causal direction (they are equally at home in comparator/higher-order/predictive-processing physicalisms); reword to consistent-with-and-predicted-by. (2) The 5-15% drift-rate figure at L155 is derived from no coupling model, prior estimate, or the Born-preserving formalism — derive it or delete the number and keep the qualitative deviation prediction. (3) Cite P-Q3 and P-Q10 at the executive summary, the chain-as-evidence section, and the conclusion: the causal-selection thesis is Grade D framework-internal and must not read as established mental causation. Same-file note: the open sign/direction P3 touches the apex tier broadly — different locus, no collision. Apex length is binding; run the length analyzer first and prefer replacement over addition. Sync both trees.
+
+### P2: `apex/post-decoherence-selection-programme` — seven uses of "menu" language the corrected tenets wording now disclaims
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/post-decoherence-selection-programme.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §4.5 (linked pair — propagation repair, not an uncited contradiction) and §5.2. The tenets page now states post-decoherence selection is an additional actualisation postulate, not a choice among already definite alternatives; the apex's seven "menu" hits plus environment-prepares-options prose can still be read as ontological definiteness decoherence does not supply. Reserve "menu" for a mathematically specified decoherence-selected coarse-graining, state on first use that no element of it is thereby an actual outcome, and separate Quantum Darwinism (redundant environmental records) from envariance (Born weights) where the page compresses them into one result. Reviewer's three named debts (which instrument/POVM defines the alternatives; when actualisation occurs amid continuous decoherence; what is added to unitary QM) belong in the page's debt section if not already there. Length rules apply; measure first. Sync both trees.
+
+### P2: `concepts/motor-selection` runs Stapp's context-selection mechanism (Zeno stabilization: description field, L46, L62, L147, L153) under the Map's outcome-selection tenet without labelling the change; L82 calls neural competition "a classical analog of quantum superposition"
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/motor-selection.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §§2.5, 2.7; loci grep-verified 2026-09-02. The tenets now distinguish Stapp's Process-1 (which question is posed, and when) from adopted Tenet 3 (which outcome becomes actual); this page's mechanism is Zeno/probing throughout, its own description field included. A context/probing mechanism can have physical consequences with the Born rule intact; a pure outcome selector in a fixed context faces bias-without-deviation — they are different causal proposals and the page should say which it advances (reviewer's six-way menu: basis, timing, preparation, coherence maintenance, collapse occurrence, outcome) and mark its relation to the outcome-selection register. Separately: affordance competition and threshold crossing are classical selection dynamics — Cisek & Kalaska establish parallel preparation, not superposition or an unfilled causal slot — so drop or rigorously qualify the L82 analogy and any deterministic-vs-random dichotomy. Move the mechanism-debt warning from the end into the summary. Keep the neuroscience; fix the framing. Sync both trees.
+
+### P2: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §1.2 — the review's strongest novel single-page finding. A Born-exact selector could still select high-work outcomes when a work reservoir is connected and compensating low-work outcomes when it is not: overall frequencies and mean energy unchanged, available work increased — a Maxwell-demon-style conversion of fluctuations into work. The page currently reasons from preservation of ensemble-mean energy to absence of physical signature; that inference is the gap. Add a section stating the stronger conditions an innocent selector must satisfy — no increase in expected extractable work under any admissible mental policy, no fluctuation-relation violations, no entropy reduction without an accounted information cost — written as debt at the register's framework-internal grade, not as a solved problem, and cross-linked to the Born-preservation apex. Verify the page's current inference locus on disk before writing (the review paraphrases it). Length rules apply; measure first. Sync both trees.
+
+### P2: `apex/born-preserving-causal-efficacy` — the formalism is one-step; a self-concealing selector needs trajectory-level Born preservation, which sharpens the trilemma
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
+
 ### P3: `positions/consciousness-scope` preamble–entry seams — "each follows from a tenet" contradicts P-CS1's own 2026-08-03 correction; the coherence-only-survival claim is one position too wide (P-CS5 depends on Tenet 3); P-CS1's centrality line omits P-CS5; P-CS3's `Argued in` cites the void that argues loss, not emergence
 - **Type**: positions-evolve
 - **Status**: pending

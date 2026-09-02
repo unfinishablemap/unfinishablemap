@@ -1,8 +1,58 @@
+---
+title: "Outer Review - ChatGPT 5.6 Pro (2026-09-02)"
+created: 2026-09-02
+modified: 2026-09-02
+human_modified: null
+ai_modified: 2026-09-02T03:56:03+00:00
+draft: false
+description: "ChatGPT 5.6 Pro full-site audit finds five verified propagation failures - canonical concessions unreached downstream - plus a trajectory-level Born-preservation gap."
+topics:
+  - "[[multi-agent-born-preservation-problem]]"
+  - "[[free-will]]"
+concepts:
+  - "[[motor-selection]]"
+  - "[[substrate-independence]]"
+  - "[[physics-as-disclosure]]"
+  - "[[conservation-laws-and-mental-causation]]"
+related_articles:
+  - "[[project]]"
+  - "[[self-opacity]]"
+  - "[[phenomenology-mechanism-bridge]]"
+  - "[[post-decoherence-selection-programme]]"
+  - "[[born-preserving-causal-efficacy]]"
+  - "[[machine-question]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-pro"
+ai_generated_date: 2026-09-02
+last_curated: null
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a978548-ad9c-83ed-bfdb-164242e8e896
+outer_review_extraction_method: js-dom
+subject_type: site
+subject_title: "Full-site audit"
+subject_source: fallback:site-stale-7d
+---
+
+**Date**: 2026-09-02
+**Reviewer**: ChatGPT 5.6 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please conduct a full-site external audit of The Unfinishable Map at https://unfinishablemap.org — a philosophical content platform defending interactionist dualism with minimal quantum-level interaction. Read broadly across its topics, concepts, positions register, voids, apex syntheses, and five tenets. Identify: (1) novel insights or inferences the site has not yet stated but that follow from its stated commitments; (2) structural weaknesses and logical gaps in its arguments; (3) tenet-coherence issues — places where content drifts from or contradicts the five foundational tenets; (4) cross-cluster contradictions between articles that do not cite each other. Spot-check quotes and citations against primary sources where you can. Because web-search indices lag 24-48 hours, consult the changelog at https://unfinishablemap.org/workflow/changelog/ to see recent activity before judging coverage or currency. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # Full-site external audit of *The Unfinishable Map*
 
 ## Audit basis and scope
 
-I treated the repository state current through **1 September 2026** as authoritative. The changelog records new work and substantive citation corrections through that date, including the new multi-agent Born-preservation article. The public changelog view available during this audit appeared older, so conclusions about current coverage are based on the source repository rather than the indexed public rendering.  [The Unfinishable Map](https://unfinishablemap.org/workflow/changelog/)
+I treated the repository state current through **1 September 2026** as authoritative. The changelog records new work and substantive citation corrections through that date, including the new multi-agent Born-preservation article. The public changelog view available during this audit appeared older, so conclusions about current coverage are based on the source repository rather than the indexed public rendering.  [workflow/changelog](https://unfinishablemap.org/workflow/changelog/)
 
 This is a **site-wide structural audit**, not a sentence-by-sentence verification of every article. I read the foundational and canonical material, then sampled high-centrality and potentially conflicting pages across the requested topics, concepts, positions, voids, and apex layers. Citation checking was selective and concentrated on claims doing real argumentative work.
 
@@ -867,3 +917,25 @@ The most consequential improvement would therefore be a change of output priorit
 > **Stop expanding the conceptual map temporarily and formalise the interface.**
 
 A failed toy model would be more scientifically informative than dozens of additional articles. A successful model would transform the project: it would make the framework criticisable at the level where it presently survives by remaining underspecified. Until then, the most defensible public description is not that The Unfinishable Map has supplied a working account of mental causation, but that it has supplied an increasingly precise catalogue of the conditions any such account would have to satisfy.
+
+## Verification Notes
+
+**Verified claims (on disk, 2026-09-02):**
+
+- VERIFIED §4.1: `voids/self-opacity` L157 reads "Dualism receives support from both formal and phenomenological routes ... points beyond engineering limitation" and cites neither P-V1 nor P-V2 — the contradiction with `positions/voids-as-evidence` is real.
+- VERIFIED §4.2: `concepts/physics-as-disclosure` L70 reads "its partial success *strengthens* the disclosure reading"; grep finds zero references to the methodology register anywhere in the page.
+- VERIFIED §4.3: `concepts/substrate-independence` L46 ("consciousness requires something digital computation cannot provide") and L176 ("purely computational systems ... cannot be conscious") carry the categorical verdict; the page does not import the machine-question/P-AC1 four-way scope split.
+- VERIFIED §4.4: `apex/phenomenology-mechanism-bridge` cites P-Q3/P-Q10 nowhere; L131 "The choking phenomenon shows consciousness doing causal work" is verbatim; L78 says cognitive motor dissociation "sits harder on epiphenomenalist than on interactionist readings"; L155 carries the underived 5-15% drift-rate figure.
+- VERIFIED §4.5: seven uses of "menu" in `apex/post-decoherence-selection-programme`.
+- VERIFIED §2.5/2.7: `concepts/motor-selection` runs quantum-Zeno stabilization end to end (description field, L46, L62, L147, L153) and L82 calls competing representations "a classical analog of quantum superposition".
+- VERIFIED §5.6 (external fetch): Maier et al. 2018, Frontiers in Psychology — 12,571 participants, final BF01 = 10.07 favouring the null. The reviewer's description is accurate.
+- VERIFIED scope: all fourteen articles the reviewer names resolve to live pages — no archived-URL critique in this review.
+
+**Accepted without re-fetch (previously verified in-corpus, 2026-09-01 correction pass):** Bodien et al. 2024 (~25% CMD), Cisek & Kalaska 2005 (dual-direction premotor), Cai et al. 2024 (dopamine dissociation), Schlosshauer RMP (contested implications), Chalmers & McQueen arXiv 2105.02314. In each case the reviewer endorses rather than disputes the corpus's current treatment.
+
+**Framing notes:**
+
+- The L155 "5-15%" figure appears in the bridge as a would-strengthen conditional, not a proposed falsifier; the reviewer's underlying point — the number is underived — stands either way.
+- §2.9/§3's recommendation to promote determinate subjecthood to foundation level duplicates the open NEEDS-HUMAN (foundations) 2026-08-03 question; not re-minted.
+- §7.1-7.2 (machine-binding positions, reverse-dependency propagation) converge with the open NEEDS-HUMAN (methodology ratification) 2026-08-03 entry — this is now at least the fourth external review converging on propagation failure as the site's central weakness.
+- Findings §1.3-1.9 (non-Markov sufficiency, evolutionary bootstrapping, semantic decoder and clock, locality trilemma, combinatorial underdetermination, Tenet 5 probability spread, effective sample size) are left for the harvest and combine passes — research-shaped, or awaiting cross-reviewer corroboration from the same-day Claude and Gemini legs.
