@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T17:52 - deep-review
+- **Status**: Success
+- **File**: [argument-from-mechanism](/concepts/argument-from-mechanism/)
+- **Word count**: 2883 → 2887 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (rival-commitment overstatement stranded by the terminal-lucidity narrowing; clause-level fix)
+- **Enhancements made**: 1 (dependency-freshness audit of six moved siblings; all other glosses verified consistent)
+- **Output**: [deep-review-2026-09-02-argument-from-mechanism](/reviews/deep-review-2026-09-02-argument-from-mechanism/)
+
 ## 2026-09-02T17:31:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)

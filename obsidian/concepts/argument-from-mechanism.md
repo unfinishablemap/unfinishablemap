@@ -4,8 +4,8 @@ description: "A Map-named non-sequitur: showing a mechanism is sufficient to pro
 created: 2026-06-24
 modified: 2026-06-24
 human_modified:
-ai_modified: 2026-08-04T09:15:00+00:00
-last_deep_review: 2026-07-28T09:35:43+00:00
+ai_modified: 2026-09-02T17:52:30+00:00
+last_deep_review: 2026-09-02T17:52:30+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -82,7 +82,7 @@ The explanatory-gap version runs: "No physical mechanism explains X — phenomen
 
 The temptation appears across the same debates the materialist version does. On near-death and terminal-lucidity questions, "current mechanisms cannot accommodate lucidity in a degraded brain" can be over-read as "therefore consciousness is transmitted, not produced." The disciplined form does not lean on bare ignorance: [[terminal-lucidity-and-filter-transmission-theory]] argues from a structural asymmetry the production model has difficulty accommodating rather than from the mere absence of an explanation. On OBE veridicality, "the self-model-dislocation mechanism does not exhaust OBEs, therefore consciousness leaves the body" is declined explicitly; the strong dualist reading "depends on rare and contested veridical-perception cases, and the controlled evidence from the AWARE studies has so far returned zero hits on hidden targets" ([[out-of-body-experiences]]).
 
-What separates the disciplined form from the argument from ignorance admits a test, and articles citing this concept need it stated. An asymmetry is **structural** when the rival framework's own stated commitments generate a directional prediction that the observation runs against; it is a bare explanatory shortfall when all that can be said is that no derivation is currently available. Terminal lucidity qualifies on the first count: the production model's "loss-of-function lesion premise" — brain damage reduces cognition — predicts capacity falling monotonically with damage, and lucidity in late-stage dementia runs against that prediction rather than merely outrunning present explanation. The test is meant to be failable. An argument that reports only the absence of a mechanism, or that describes a gap in the rival's coverage without deriving a contrary prediction from the rival's own commitments, has not earned its asymmetry and is running the argument from ignorance under a better name.
+What separates the disciplined form from the argument from ignorance admits a test, and articles citing this concept need it stated. An asymmetry is **structural** when the rival framework's own stated commitments generate a directional prediction that the observation runs against; it is a bare explanatory shortfall when all that can be said is that no derivation is currently available. Terminal lucidity qualifies on the first count: the "loss-of-function lesion premise" — brain damage reduces cognition — leads the simplest production models to predict capacity falling monotonically with damage, and lucidity in late-stage dementia runs against that prediction rather than merely outrunning present explanation. The test is meant to be failable. An argument that reports only the absence of a mechanism, or that describes a gap in the rival's coverage without deriving a contrary prediction from the rival's own commitments, has not earned its asymmetry and is running the argument from ignorance under a better name.
 
 ## Place Among the Map's Named Disciplines {#place}
 

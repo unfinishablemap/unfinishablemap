@@ -5,6 +5,15 @@ ai_modified: '2026-09-02T16:56:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-02T17:52 - deep-review
+- **Status**: Success
+- **File**: [[concepts/argument-from-mechanism]]
+- **Word count**: 2883 → 2887 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (rival-commitment overstatement stranded by the terminal-lucidity narrowing; clause-level fix)
+- **Enhancements made**: 1 (dependency-freshness audit of six moved siblings; all other glosses verified consistent)
+- **Output**: [[reviews/deep-review-2026-09-02-argument-from-mechanism]]
+
 ## 2026-09-02T17:31:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
