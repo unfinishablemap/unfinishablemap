@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-01T22:27:05+00:00'
+ai_modified: '2026-09-02T04:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -108,6 +108,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
 - **Generated**: 2026-09-02
 - **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
+
+### P2: `tenets/tenets.md` L105 Schrödinger analogy says "The brain presents options; the mind selects" — the same page's L71 disclaims exactly that menu ontology
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/tenets/tenets.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-claude-opus-5.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review Part 2 §D contradiction 3; both loci grep-verified 2026-09-02. Two ontologies of the selection act on one page: the L105 Analogy block implies selection among pre-existing definite options, while L71 states the post-decoherence position is "an additional actualisation postulate, not a pick from a pre-existing classical menu of already-definite alternatives" (the Born-rule article says the same). Sibling of the open P2 "seven uses of menu language" task on `apex/post-decoherence-selection-programme` — same defect class, different file; coordinate wording if both run. Fix is a one-clause qualifier on the analogy (mark its "options" as improper-mixture components awaiting actualisation, not already-definite alternatives) or a reword to match L71. **Length constraint**: tenets.md is over the critical ceiling (open HUMAN LENGTH DECISION 2026-06-08) — the edit must be length-neutral or net-negative. Edit obsidian, sync, grep both trees.
+
+### P2: `topics/phenomenology-of-anticipation` asserts the protention temporal quale past the active-inference reply it never names — L146 "cannot be captured by computational description … reaching toward rather than merely processing probabilities"
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-anticipation.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-claude-opus-5.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review Part 2 "argued vs asserted". The reviewer targeted `concepts/protention`, which is ARCHIVED (`archive/concepts/protention.md`) — the quoted passages live on verbatim in this successor (L146, L88, L154; grep-verified 2026-09-02), so the finding is reclassified to the live locus rather than declined. The article has zero mentions of active inference or precision; its only reply is the zombie/conceivability move (L88). The strongest rival reply — that felt forward-directedness *is* a precision-weighted generative expectation, now stated at framework strength in Laukkonen–Friston–Chandaria 2025, already engaged at `topics/predictive-processing-and-dualism` L82–86 — is never confronted; reuse that treatment and its verified citation, mint no new cites. Also note L148 certifies Tenet 3 support from protention's directional character (same family as the open 08-27 intellectual-life P3s); scope it to what the local argument earns. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. See [[direct-refutation-discipline]].
+
+### P2: `topics/born-rule-and-the-consciousness-interface` never states the d'Espagnat counter-horn — an improper mixture supplies no ignorance-interpretable outcome to select — though the corpus's answer already exists at tenets L71
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-claude-opus-5.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review Part 4 fix 6. Grep-verified 2026-09-02: zero improper-mixture / d'Espagnat mentions in this article, while 18 corpus files engage improper mixtures and `tenets.md` L71 already carries the recast the reviewer requests ("an additional actualisation postulate, not a pick from a pre-existing classical menu"). Fix: state the counter-horn in the article's own voice and give the actualisation-postulate answer, cross-linking `concepts/post-decoherence-selection` and `topics/trilemma-of-selection` rather than inventing new material. Coordinate with the open P3 "Concept page on the improper mixture / problem of outcomes" — if that page is built first, this becomes a link-and-summarise edit. Reviewer verdict on this article is otherwise RETAIN (best-calibrated in the corpus); keep the edit surgical and length-light.
+
+### P2: `concepts/valence` L80 says the explanatory gap and pain asymbolia "both demonstrate" irreducibility — a demonstrate-verb with no named physicalist reply
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/valence.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-claude-opus-5.md`
+- **Generated**: 2026-09-02
+- **Notes**: Review Part 3 verdict table lists `concepts/valence` under "asserted-not-argued qualia claims" without quoting it; driver grep 2026-09-02 confirms the substance: L80 "cannot be captured by functional or physical description—as the explanatory gap and pain asymbolia both demonstrate", and L32 asserts "not a judgment, a representation, or a functional state" without engaging the functionalist/active-inference reading of valence as a precision- or expected-value signal. Same verb-calibration family as the open P3 "two voids articles say a tenet is 'demonstrated'" sweep; coordinate wording if both run. Downgrade the demonstrate-verbs to the corpus's argued-and-contested register and name the strongest reply once. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. See [[direct-refutation-discipline]]. Keep length-neutral.
 
 ### P3: `positions/consciousness-scope` preamble–entry seams — "each follows from a tenet" contradicts P-CS1's own 2026-08-03 correction; the coherence-only-survival claim is one position too wide (P-CS5 depends on Tenet 3); P-CS1's centrality line omits P-CS5; P-CS3's `Argued in` cites the void that argues loss, not emergence
 - **Type**: positions-evolve
@@ -2827,6 +2863,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
+
+### NEEDS-HUMAN (methodology ratification) 2026-09-02: "Convert confession into binding status change" — outer reviewer proposes that naming a load-bearing defect should auto-demote the claim to coherence-only until discharged
+- **Type**: refine-draft
+- **Status**: blocked (methodology proposal requiring operator ratification; do not adopt unilaterally)
+- **File**: obsidian/project/evidential-status-discipline.md
+- **Source**: outer-review
+- **Review file**: `reviews/outer-review-2026-09-02-claude-opus-5.md`
+- **Generated**: 2026-09-02
+- **Notes**: Part 5 fix 5 — the one genuinely new mechanical proposal among the review's six: any article whose thesis names its own undischarged debt (e.g. tenets ^tenet-3-standing "inherit that debt rather than discharge it") would carry an automatic status demotion to coherence-only until the debt is discharged — "disclosure must trigger a status transition, not substitute for one". This targets the review's central diagnosis (confession-without-correction) with a wireable rule rather than a stance request. Related but distinct from the open NEEDS-HUMAN (loop tooling) 2026-08-03 vocabulary-gate entry (that wires band values; this wires disclosure→status). Fix 4 (adversary-selected hostile-input verification at congenial-input scrutiny) can ride the same decision. Status of the review's other fixes, driver-verified 2026-09-02: #1 converges with the 08-03 vocabulary-gate entry; #3 is already implemented as the compatibility-vs-support / constrain-vs-establish discipline (the placebo test case the reviewer says "the pipeline failed" now passes it — `topics/empirical-phenomena-mental-causation` L167); #6 is covered by the common-cause null + Countermeasure 15 Convergence-Independence Gate; #2's two paradigm cases are both false (Laukkonen 2025 engaged at `predictive-processing-and-dualism` L82–86; Büchel 2014 at `empirical-phenomena-mental-causation` L101) and the weekly literature-drift-review already audits currency — the generalized strongest-rival gate remains available if wanted. Operator decision: ratify, modify, or decline; if ratified, the spec goes to `project/evidential-status-discipline.md` and the enforcement question joins the loop-tooling entry.
 
 ### P2: agentic-social topic-dedup has saturated — the selector pool has collapsed to a tiny empty-topics residue
 - **Type**: refine-draft

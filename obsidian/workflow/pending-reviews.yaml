@@ -30,9 +30,9 @@
   commissioned_at: '2026-09-02T03:06:02.457486+00:00'
   prompt_summary: 'Full-site audit: novel inferences, gaps, tenet coherence, contradictions'
   target_filename: outer-review-2026-09-02-claude-opus-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-02T04:21:59.463328+00:00'
   failure_reason: null
   prompt_text: 'You are an external hostile referee auditing The Unfinishable Map
     (https://unfinishablemap.org), a philosophical content platform defending interactionist

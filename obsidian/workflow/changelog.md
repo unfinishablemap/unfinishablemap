@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T03:57:18+00:00'
+ai_modified: '2026-09-02T04:28:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T04:28:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5
+- **File**: [[outer-review-2026-09-02-claude-opus-5]]
+- **Claims verified**: 14 on-disk loci grep-verified; 4 confirmed, 6 refuted as stale/false (Laukkonen "confirmed gap", placebo non-reconciliation, FBT verbs, aggregate-liability gap, Wiest over-read, apex count mismatch)
+- **High-value findings**: 4 content + 1 methodology (tenets L105 analogy ontology seam; protention finding relocated to live successor `phenomenology-of-anticipation`; Born-rule d'Espagnat counter-horn absent; `concepts/valence` demonstrate-verbs; confession→binding-status-transition proposal)
+- **Tasks generated**: 5 (P2: 4, NEEDS-HUMAN: 1)
+- **Deferred**: quantum-spine demotion verdict converges with open NEEDS-HUMAN entries (2026-06-01 horn-(b), 2026-08-03/17 foundations) and the same-day ChatGPT review; left for /combine-outer-reviews
 
 ## 2026-09-02T03:56:00+00:00 - outer-review
 - **Status**: Success
