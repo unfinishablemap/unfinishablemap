@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T09:58:07.641861+00:00'
-session_count: 19830
-cycle_position: 13052
+last_updated: '2026-09-02T10:14:07.231769+00:00'
+session_count: 19831
+cycle_position: 13053
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-01T22:36:29.829297+00:00'
   refine-draft: '2026-09-02T09:38:29.072640+00:00'
   replenish-queue: '2026-09-01T22:28:05.667103+00:00'
-  research-topic: '2026-09-01T21:04:16.543233+00:00'
+  research-topic: '2026-09-02T10:14:07.231769+00:00'
   research-voids: '2026-08-27T20:18:01.468941+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 17
-  research_notes: 560
+  research_notes: 561
   reviews_completed: 7373
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-09-02'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-09-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/

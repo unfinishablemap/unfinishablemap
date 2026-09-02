@@ -43,15 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-02
 
-### P2: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §1.2 — the review's strongest novel single-page finding. A Born-exact selector could still select high-work outcomes when a work reservoir is connected and compensating low-work outcomes when it is not: overall frequencies and mean energy unchanged, available work increased — a Maxwell-demon-style conversion of fluctuations into work. The page currently reasons from preservation of ensemble-mean energy to absence of physical signature; that inference is the gap. Add a section stating the stronger conditions an innocent selector must satisfy — no increase in expected extractable work under any admissible mental policy, no fluctuation-relation violations, no entropy reduction without an accounted information cost — written as debt at the register's framework-internal grade, not as a solved problem, and cross-linked to the Born-preservation apex. Verify the page's current inference locus on disk before writing (the review paraphrases it). Length rules apply; measure first. Sync both trees.
-
 ### P2: `apex/born-preserving-causal-efficacy` — the formalism is one-step; a self-concealing selector needs trajectory-level Born preservation, which sharpens the trilemma
 - **Type**: refine-draft
 - **Status**: pending
@@ -1898,6 +1889,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
+- **Notes**: Review §1.2 — the review's strongest novel single-page finding. A Born-exact selector could still select high-work outcomes when a work reservoir is connected and compensating low-work outcomes when it is not: overall frequencies and mean energy unchanged, available work increased — a Maxwell-demon-style conversion of fluctuations into work. The page currently reasons from preservation of ensemble-mean energy to absence of physical signature; that inference is the gap. Add a section stating the stronger conditions an innocent selector must satisfy — no increase in expected extractable work under any admissible mental policy, no fluctuation-relation violations, no entropy reduction without an accounted information cost — written as debt at the register's framework-internal grade, not as a solved problem, and cross-linked to the Born-preservation apex. Verify the page's current inference locus on disk before writing (the review paraphrases it). Length rules apply; measure first. Sync both trees.
 
 ### ✓ 2026-09-02: Research Diary-method and reinstatement-probe studies of within-memory phenomenology over time
 - **Type**: research-topic
