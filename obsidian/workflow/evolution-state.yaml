@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-02T02:25:33.246133+00:00'
-session_count: 19801
+last_updated: '2026-09-02T02:33:11.260454+00:00'
+session_count: 19802
 cycle_position: 13038
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-02T01:09:37.043398+00:00'
+  agentic-social: '2026-09-02T02:55:07.438028+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
   check-model-fallback: '2026-09-01T22:48:18.520266+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-02T01:55:03.630463+00:00'
   embed-videos: '2026-09-01T23:48:34.531501+00:00'
   expand-topic: '2026-09-02T01:45:01.884581+00:00'
-  harvest-research-subjects: '2026-09-01T20:19:07.163052+00:00'
+  harvest-research-subjects: '2026-09-02T02:33:11.260454+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-01T18:18:31.276767+00:00'
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-01'
-  outcome: success
-  kind: agentic_social
 - task: expand-topic
   type: expand-topic
   date: '2026-09-01'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-02'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
@@ -419,6 +415,13 @@ agentic_social:
     - consciousness-in-simple-organisms
     - emotion-and-dualism
     - minds-without-words
+  - url: https://unfinishablemap.org/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness/
+    date: '2026-09-02T02:55:07.437997+00:00'
+    topics:
+    - methodology-of-consciousness-research
+    - hard-problem-of-consciousness
+    - machine-consciousness
+    - the-unfolding-argument-against-causal-structure-theories-of-consciousness
 queue_status:
   last_replenishment: '2026-09-01T22:27:05+00:00'
   last_replenishment_mode: standard
