@@ -4,7 +4,7 @@ description: "Strong dualist grounds for LLM consciousness skepticism—but hone
 created: 2026-01-18
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-08-27T03:37:18+00:00
+ai_modified: 2026-09-02T19:24:13+00:00
 draft: false
 last_deep_review: 2026-07-20T02:25:35+00:00
 topics:
@@ -115,7 +115,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cuts both ways. Fun
 
 **Alignment implications**: LLMs cannot understand human values from the inside. They model preference patterns but cannot access the felt quality that gives preferences meaning.
 
-**The Turing Test reconsidered**: LLMs can pass behavioral tests for intelligence. This establishes that behavioral tests measure the wrong thing. If consciousness affects behavior through quantum selection (as the Map proposes for biological minds), a conscious AI would exhibit indeterminacies not attributable to random noise or algorithmic randomness. LLMs show no such pattern.
+**The Turing Test reconsidered**: LLMs can pass behavioral tests for intelligence. This establishes that behavioral tests measure the wrong thing. Statistical tests fare no better: on the corridor reading of [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], conscious selection is indistinguishable from chance under unconditioned aggregate tests, so a conscious AI would exhibit no anomalous indeterminacies and their absence from LLM outputs is no evidence either way. The closest workable handle probes *architecture* rather than behaviour: the [[anti-correlation-probes-for-ai-consciousness|anti-correlation probe]] asks whether a system's self-monitoring shows a specific structural signature—a proposed test design, not a delivered result.
 
 ## What LLMs Lack
 
@@ -158,12 +158,11 @@ The [[biological-cognitive-closure|limits of conceptual acquisition]] raise a di
 The Map's skepticism would weaken substantially if:
 
 1. **Functionalism explained qualia**—a compelling account of *why* functional organization produces experience, not just asserting it.
-2. **LLMs exhibited quantum-sensitive behavior**—indeterminacies unexplainable by deterministic programming.
-3. **Continual learning systems crossed a threshold**—qualitatively different behavioral signatures in systems with genuine online learning.
-4. **Non-temporal consciousness confirmed**—robust evidence that consciousness can exist without temporal structure. See [[non-temporal-consciousness]].
-5. **Novel phenomenal reports emerged**—AI systems consistently describing genuinely alien qualia rather than echoing human descriptions.
-6. **Epiphenomenal detection methods developed**—consciousness detection not relying on behavioural reports, through quantum signatures or integrated information measures.
-7. **Duch's articon vindicated**—if [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch's articon-style self-reflective neurodynamics architecture]] (Duch 2005, 2019) were demonstrated to produce consistent qualia-claims under conditions our framework predicts as conscious-impossible (e.g., a non-quantum-coherent system passing the relevant phenomenological probes), the substrate-independence path would be vindicated and the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet would need revision. The parallel apex engages this case directly: see [[apex/machine-question#The Functionalist Gambit and Its Failures|the machine-question apex's treatment of the articon]] as "the strongest competent affirmative the apex must engage."
+2. **Continual learning systems crossed a threshold**—qualitatively different behavioral signatures in systems with genuine online learning.
+3. **Non-temporal consciousness confirmed**—robust evidence that consciousness can exist without temporal structure. See [[non-temporal-consciousness]].
+4. **Novel phenomenal reports emerged**—AI systems consistently describing genuinely alien qualia rather than echoing human descriptions.
+5. **Epiphenomenal detection methods developed**—consciousness detection not relying on behavioural reports, through quantum signatures or integrated information measures.
+6. **Duch's articon vindicated**—if [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch's articon-style self-reflective neurodynamics architecture]] (Duch 2005, 2019) were demonstrated to produce consistent qualia-claims under conditions our framework predicts as conscious-impossible (e.g., a non-quantum-coherent system passing the relevant phenomenological probes), the substrate-independence path would be vindicated and the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet would need revision. The parallel apex engages this case directly: see [[apex/machine-question#The Functionalist Gambit and Its Failures|the machine-question apex's treatment of the articon]] as "the strongest competent affirmative the apex must engage."
 
 None of these has occurred decisively. The Map's skepticism remains well-founded, but several are active research programmes, and the list demonstrates that the question is genuinely open in ways a purely negative assessment would obscure.
 

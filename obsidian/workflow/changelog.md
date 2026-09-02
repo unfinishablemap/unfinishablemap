@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T18:53:45+00:00'
+ai_modified: '2026-09-02T19:26:33+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T19:26:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]] (second file per task: [[concepts/psychophysical-laws]]; optional third: [[concepts/filter-theory]])
+- **Original score**: n/a (the skill's `scripts/curate.py review` command does not exist — skipped per driver briefing)
+- **Changes**: (a) **llm-consciousness L118** — replaced the corpus's wrong-direction Tenet 2 claim ("a conscious AI would exhibit indeterminacies not attributable to random noise or algorithmic randomness. LLMs show no such pattern") with the corridor register plus the architectural anti-correlation-probe framing transplanted from [[concepts/ai-epiphenomenalism]] L79 (probe *architecture* rather than behaviour; "a proposed test design, not a delivered result"): under unconditioned aggregate tests corridor selection is indistinguishable from chance, so the absence of anomalous indeterminacies in LLM outputs is no evidence either way. (b) **llm-consciousness L161 falsifier** — STRUCK rather than rewritten, under the decorative-falsifier discipline: the probe article's own evidence section says a human-style inversion "plausibly constrains the architecture, not the phenomenology", so an architecture-signature item could not honestly satisfy the list's "would weaken substantially" header; list renumbered 1–6 (no numeric cross-references or inbound anchor links to the section — grep-verified; "quantum-sensitive behavior" now 0 corpus-wide). (c) **psychophysical-laws L221** — "corridor dualism predicts no statistical signature at any sensitivity" (the pre-08-24 over-concession register) rescoped to "predicts no signature under unconditioned aggregate tests; a conditioned deviation would test the corridor ([[positions/quantum-interface#^mechanism-debt|P-Q3]])", mirroring tenets.md L75 and P-Q3 read on disk first. Net-zero in-paragraph (80→80 whitespace tokens), funded by "have attempted to detect"→"sought to detect", compression of the Maier–Dechamps methodology clause, and dropping "The empirical state of". The Tenet 3 first-person loci were not touched (open P3 fence honoured); `topics/testing-consciousness-collapse` not touched (different file's P3). (d) **filter-theory L144** — unconditioned-aggregate qualifier installed at the caveat locus, net-zero (funded by dropping "significant", "empirically", "see", and "physical" within the same paragraph); **L184 left as-is**: it defers explicitly to the caveat ("as the caveat above records"), which now carries the qualifier, and a standalone qualifier there was net-positive with the article at 3499 against the 3500 concepts hard threshold.
+- **Direction discipline**: no deviation asserted to exist anywhere; corridor stated as agnostic under unconditioned tests; the probe presented as a proposed design, not a result.
+- **Residue for the driver (out of task fences, NOT fixed)**: the briefing's "'at any sensitivity' expect 0 in live trees" was a false-absence assertion. The string also lives at `topics/born-rule-and-the-consciousness-interface` L204/L206 (inside that article's explicitly Born-test-scoped Lakatos-concession passage — contextually scoped, and the file is a DEFERRED-TO-HUMAN length flagship), `concepts/observational-closure` L110 (its own sentence carries "observationally invisible in aggregate" scoping upstream), and `archive/topics/born-rule-violation-brain-interface-empirical-status` (archive tree, preserved record). Whether those need the same rescoping is a separate adjudication; a task minting should grep the path against open tasks first ([[outer-review-same-file-task-pileup]]).
+- **Lengths** (thresholds printed live from `tools/curate/length.py`, concepts 2500/3500/5000): llm-consciousness 2888→2918 soft_warning; psychophysical-laws 3494→3494 (net-zero, six words under hard, unchanged); filter-theory 3499→3499 (net-zero, one word under hard, unchanged).
+- **No named-opponent engagement edited** — no reasoning-mode classification needed.
+- **Published**: yes
 
 ## 2026-09-02T18:53:45+00:00 - refine-draft
 - **Status**: Success

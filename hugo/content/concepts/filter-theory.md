@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-27 12:00:29+00:00
+ai_modified: 2026-09-02 19:24:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-08-27 12:00:29+00:00
+lastmod: 2026-09-02 19:24:13+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -145,7 +145,7 @@ Filter theory doesn't require locating consciousness spatially—consciousness m
 
 ### "What is the mechanism of transmission?"
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one: consciousness influences quantum indeterminacies, selecting among outcomes physics leaves undetermined. The [interface problem](/topics/the-interface-problem/) examines where in the brain that operates and how conscious states map to physical selections. A significant caveat: such selection is empirically indistinguishable from random collapse (see [measurement-problem](/concepts/measurement-problem/)).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one: consciousness influences quantum indeterminacies, selecting among outcomes physics leaves undetermined. The [interface problem](/topics/the-interface-problem/) examines where in the brain that operates and how conscious states map to selections. A caveat: such selection is indistinguishable from random collapse under unconditioned aggregate tests ([measurement-problem](/concepts/measurement-problem/)).
 
 ### "Why brains specifically?"
 

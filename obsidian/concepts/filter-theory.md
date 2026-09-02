@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-27T12:00:29+00:00
+ai_modified: 2026-09-02T19:24:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ Filter theory doesn't require locating consciousness spatially—consciousness m
 
 ### "What is the mechanism of transmission?"
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one: consciousness influences quantum indeterminacies, selecting among outcomes physics leaves undetermined. The [[the-interface-problem|interface problem]] examines where in the brain that operates and how conscious states map to physical selections. A significant caveat: such selection is empirically indistinguishable from random collapse (see [[measurement-problem]]).
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one: consciousness influences quantum indeterminacies, selecting among outcomes physics leaves undetermined. The [[the-interface-problem|interface problem]] examines where in the brain that operates and how conscious states map to selections. A caveat: such selection is indistinguishable from random collapse under unconditioned aggregate tests ([[measurement-problem]]).
 
 ### "Why brains specifically?"
 
