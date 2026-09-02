@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T09:36:29+00:00'
+ai_modified: '2026-09-02T09:57:09+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T09:57:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]
+- **Word count**: 2498 → 2520 (+22)
+- **Critical issues addressed**: 2 (quote fidelity: "quantum heat death" replaced with Valentini's verified "subquantum analogue of Boltzmann's heat death" phrasing from the 1991-II abstract; Colin & Valentini 2016 quote restored dropped qualifier "likely to be" and the inverse-tangent form re-credited to the 2015 paper with 2016 as the robustness result)
+- **Medium issues addressed**: 3 (banned "is not X. It is Y." construct in lead; over-broad absence claim rescoped to sources-drawn-on; grammar fix "the theory's statistical mechanics")
+- **Enhancements made**: 0 (fresh article at 83% of soft threshold; no expansion warranted; 8 outbound links resolve, 3 inbound links already live)
+- **Citations**: all 13 external cites web-verified at publisher of record (Crossref DOIs + raw arXiv/SEP grep for 6 verbatim quote spans) — full per-cite ledger in the review archive; both Map self-cites retained per convention. First deep review of this article; last_deep_review stamped. Engagement classification (editor-internal): no named-opponent replies; typicality-school engagement is reportage + Mode Three-style honest boundary-marking, left as-is. Synced; both trees to be grep-verified. Not committed (cycle_post owns the commit).
+- **Output**: [[reviews/deep-review-2026-09-02-quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]
 
 ## 2026-09-02T09:36:29+00:00 - refine-draft
 - **Status**: Success
