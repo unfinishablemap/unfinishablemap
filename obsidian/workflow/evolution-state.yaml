@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T21:18:47.452899+00:00'
-session_count: 19875
-cycle_position: 13078
+last_updated: '2026-09-02T21:47:56.738137+00:00'
+session_count: 19876
+cycle_position: 13079
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-02T20:41:48.438578+00:00'
   refine-draft: '2026-09-02T20:16:00.296668+00:00'
   replenish-queue: '2026-09-02T20:28:48.298731+00:00'
-  research-topic: '2026-09-02T10:14:07.231769+00:00'
+  research-topic: '2026-09-02T21:47:56.738137+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 17
-  research_notes: 562
+  research_notes: 563
   reviews_completed: 7380
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-09-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/first-order-representationalism/
@@ -457,59 +457,58 @@ agentic_social:
     - free-will
     - volitional-control
 queue_status:
-  last_replenishment: '2026-09-02T20:27:09+00:00'
+  last_replenishment: '2026-09-02T21:56:40+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1017. STANDARD MODE, ONE MINT (P2 cross-review), fired
-    by the 20:08 completion of the Warning-1 surfaces P2 dropping live P0-P2 to 2
-    (Born-equilibrium add + P-M2 update, parser-verified per briefing). Sections re-measured
-    via count_section_files: topics 324/360, concepts 321/360, voids 99/115, positions
-    17/80 - no cap filtering needed. THE MINT (chain): cross-review of topics/history-of-the-interaction-problem
-    considering topics/sherrington-dualist-lineage (expanded today) - grep of the
-    history article returns 0 for Sherrington/Penfield/Eccles while its spine runs
-    Materialist Eclipse into Quantum Opening, the exact arc the new article names;
-    new article has one inbound link (penfield, installed by the expand); 2678w headroom
-    real. Run-1015 same-day-chain decline addressed in the task note: this edits the
-    related hub, which the lineage article''s 07:31 deep-review never touches, and
-    the gap was grep-verified after that decline. DELIBERATELY NOT MINTED, each verified
-    this run: second cross-review on concepts/interactionist-dualism (0 Sherrington
-    mentions but 3478w = 22 words under the concepts 3500 hard ceiling by analyze_length
-    - link-add churn risk against a 95-deep P3 pool); bandwidth-of-consciousness condense
-    (4156w vs topics 4000 hard = 156w overage on a file with a 41-line reference/list
-    apparatus plus a yt-embed block - the false-over-length class - and touched today
-    +6 by the 17:29 replication sweep); remaining hard_warning offenders all more
-    marginal or adjudicated (introspection-architecture twice-condensed 05-25, personal-identity
-    and pragmatisms-path parked NEEDS-HUMAN, meaning-of-life and the three P2 condenses
-    veto-tagged, apex offenders in the conjunction-coalesce NEEDS- HUMAN class); Lismer
-    2025 third-data-point refine on local-tomography (the open harvester research-topic
-    at todo L410 owns that article''s empirical-status section, downstream refine
-    chartered there - folding the datum belongs to that pass); competency apex angle-3
-    fold (verified already landed on disk: built-flank paragraph L67, inheritance
-    note L123, Further Reading L150, Source-articles entry - the expand''s left-for-apex-evolve
-    flag is discharged, no mint); positions register audit (last 2026-08-24, inside
-    30d per run 1016); fusion-void pending_articles entry untouched (operator decision
-    per briefing); notation-void (NEEDS-HUMAN final-slot entry owns it); harvester-owned
-    subjects untouched (improper-vs-proper mixture, envariance); staleness (P3 pool
-    saturated at 95; ai_modified-today exclusion covers ~35 files incl the 20:08 twelve-file
-    sweep); orphans (quality 0; sherrington not orphaned, 1 inbound); at-any-sensitivity
-    residue not re-raised (adjudicated run 1016). VETO/DUP: vetoed bank grepped 0
-    for sherrington and history-of-the- interaction; active region 0 collisions on
-    the target file; all briefing item-4 same-day P3s (Zurek, spontaneous-collapse,
-    rival-ontology, consciousness-selecting, Dennett/language-interface, two body
-    echoes, consumed_by stamping) confirmed distinct from the mint. PLACEMENT: appended
-    at the BOTTOM of the Active region before Completed Tasks, git diff pure insertion
-    +8/-0, no existing line shifted. Post-count re-measured after the splice: live
-    P0-P2 == 3 (floor met exactly - a thin honest mint preferred to padding, run-1016
-    precedent); p2_tasks 6 counts all P2 headers including the three veto-tagged condenses;
-    P3 pool 95.'
-  last_replenishment_run: 1017
+  last_replenishment_note: 'RUN 1018. STANDARD MODE, ONE MINT (P2 expand-topic), fired by the 21:47 completion
+    of the improper-versus-proper-mixtures research task dropping live P0-P2 to 2 (P-M2 values-in-science
+    positions-evolve update + Sherrington cross-review, parser-verified via count_p0_p2_tasks and parse_tasks
+    per briefing). Sections re-measured via tools.evolution.state.count_section_files: topics 324/360,
+    concepts 321/360, voids 99/115, positions 17/80 - no cap filtering needed. THE MINT (unconsumed research,
+    the highest-priority source): expand-topic ''Write article on the improper versus proper mixture distinction''
+    from research/improper-versus-proper-mixtures-2026-09-02.md, whose Consumption Verdict is binding
+    standalone-concepts on stronger evidence than the harvest mint (35-file census vs ''at least fourteen'';
+    16 raw artefacts grep-verified). Task carries the verdict, the census pointer, the five hinge claims
+    to anchor, the catalogue-copy quote discipline, the Colanero weak flag, both quote-fidelity ownership
+    pointers (FiTCS L77 Tomaz misattribution - driver-minted P3; QD L62 Zurek span - open Zurek P3), slug
+    + archive-redirect guidance, and the follow-on integration-chain instruction. VETOED-BANK DISCLOSURE:
+    the Vetoed bank holds a 2026-05-07 ''Concept page on the improper mixture / problem of outcomes''
+    expand-topic (no recorded veto reason). Minted anyway and disclosed in the task Notes: the harvest
+    pipeline is Vetoed-bank-exempt by design, the harvest task carried the exemption, and the assess-first
+    research returned a binding standalone verdict; operator re-veto invited, with a recorded reason this
+    time. ALSO THIS RUN, in-place strengthen (permitted by briefing, no line shifted - same-line extension
+    only): the open Zurek quote-fidelity P3''s Notes now carry the research note''s independent re-confirmation
+    of the 2003-span absence (zero hits in quant-ph/0105127 TeX AND quant-ph/0306072 pdftotext), the quantum-completeness
+    L76 unquoted-paraphrase clearance, and the pointer to grep-verified Schlosshauer-2004 replacement
+    spans. QUEUE-VISIBILITY FINDING (operator/driver attention): three driver-minted 2026-09-02 pending
+    P3s sit BELOW the Completed Tasks marker and are invisible to parse_tasks'' active bucket (verified:
+    active list has no Tomaz entry) - the Tomaz/Schlosshauer misattribution, the Dennett/language-interface
+    citation transplant, and the two-body-echoes task. Left in place per the appends-only/no-shift constraint;
+    they need relocating above the marker by whoever owns line-sensitive state (orphaned_pending_tasks_below_completed
+    class). DELIBERATELY NOT MINTED, each verified or adjudicated this run: fusion-void pending_articles
+    entry untouched (operator decision per briefing); envariance subject NOT treated as unconsumed research
+    (assess-first task open at todo L40, its note does not exist yet); personal-semantics harvest subject
+    likewise open-tasked, not note-backed; no positions-evolve add (deliberate-friction limit - the Born-equilibrium
+    add completed earlier today); no condense mints (all hard_warning offenders adjudicated run 1017 same
+    day, unchanged since); staleness skipped (P3 pool saturated at 96 active-region P3 headers; ai_modified=today
+    exclusion covers ~40 files per briefing); orphans skipped (quality.orphaned_files 0); no new cross-review
+    beyond the open Sherrington task (integration for the new expand belongs to its own chain after the
+    article exists). VETO/DUP: active region grepped 0 for improper/mixture collisions before the mint;
+    the briefing do-not-duplicate list (envariance, Tomaz, Zurek-strengthen-only, body-echoes, Dennett,
+    consciousness-selecting, three rival-ontology P3s, consumed_by stamping) confirmed distinct. PLACEMENT:
+    appended at the BOTTOM of the Active region immediately before Completed Tasks; pure insertion for
+    the task block; the only other todo edits were two same-line extensions (Zurek Notes, frontmatter
+    ai_modified bump). Post-count parser-verified after the splice: live P0-P2 == 3 (floor met exactly
+    - thin honest mint per run-1016/1017 precedent); p2_tasks 6 counts all active-region P2 headers including
+    the three veto-tagged condenses; P3 pool 96.'
+  last_replenishment_run: 1018
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 6
-  p3_tasks: 95
+  p3_tasks: 96
   replenishment_source_counts:
-    chain: 1
+    chain: 0
     check_tenets: 0
     defect_family: 0
     gap_analysis: 0
@@ -521,7 +520,7 @@ queue_status:
     positions_register_gap: 0
     promotion_from_p3: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
