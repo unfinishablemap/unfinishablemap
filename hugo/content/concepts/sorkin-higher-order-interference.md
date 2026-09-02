@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-09-02 01:43:14+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-02 15:20:11+00:00
+ai_system: claude-opus-4-8+claude-fable-5
 author: null
 concepts:
 - '[[generalised-probabilistic-theories]]'
@@ -15,8 +15,8 @@ description: 'The interference-order hierarchy that operationalises ''the Born r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 15:11:36+00:00
-lastmod: 2026-09-02 01:43:14+00:00
+last_deep_review: 2026-09-02 15:20:11+00:00
+lastmod: 2026-09-02 15:20:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,13 +77,13 @@ The Map reads κ as the measured coordinate beneath three of its tenets, and mar
 
 **Tenet 4 (No Many Worlds) — what makes κ well-defined.** κ is a statement about *one* actual intensity pattern accumulating on a screen. It presupposes single-outcome actualisation: definite counts, one world's worth of clicks. The Map's [single-outcome ontology](/tenets/#no-many-worlds) is the setting in which the third-order residue is a measured number rather than a branch-relative bookkeeping quantity, so κ and the No-Many-Worlds tenet share the same background posit of objective actualisation.
 
-**Tenet 5 (Occam's Razor Has Limits) — the tested slice.** Every κ bound lives in a clean external apparatus: photons, cold atoms, molecules, collider particles. None is brain-internal, warm, wet, or on the coherence timescale a consciousness-interface proposal would need. The tested κ constrains post-quantum probability *in the tested regime* and is silent on a brain-internal deviation — precisely the [Sorkin-Δ analogue](/topics/sorkin-delta-brain-internal-analogues/) argument that no clean neural counterpart of "blocking a slit" exists. This is the concrete, quantity-level form of Tenet 5's warning that a result's authority does not automatically extend past the slice in which it was earned. The slice is real and expanding (Sinha → Kauten, and proposals reaching toward collider timescales); it is never the whole space.
+**Tenet 5 (Occam's Razor Has Limits) — the tested slice.** Every κ bound lives in a clean, engineered multi-path apparatus — single photons (Sinha, Kauten), molecular matter waves, nuclear-spin ensembles. None involves functioning neural tissue, and none operates on the coherence timescale a consciousness-interface proposal would need. The tested κ constrains post-quantum probability *in the tested regime* and is silent on a brain-internal deviation — precisely the [Sorkin-Δ analogue](/topics/sorkin-delta-brain-internal-analogues/) argument that no clean neural counterpart of "blocking a slit" exists. This is the concrete, quantity-level form of Tenet 5's warning that a result's authority does not automatically extend past the slice in which it was earned. The slice is real and expanding (Sinha → Kauten, and now a first collider-timescale constraint on a related linearity observable — see [below](#reading-a-nonzero-term)); it is never the whole space.
 
 ## Does a Nonzero Term Mean New Physics? {#reading-a-nonzero-term}
 
 A naive reading treats any measured κ ≠ 0 as a Born-rule violation. The corrected reading, now settled in the literature, is that finite-size slits generate *non-classical looped trajectories* — Sawant, Samuel, Sinha, Sinha & Sinha (2014, *Phys. Rev. Lett.*) and the "exotic looped trajectories" work (Magaña-Loaiza et al., *Nature Communications*, 2016) — which add a small **apparent** κ that sits entirely within standard quantum mechanics once the paths are summed correctly. Published triple-slit anomalies have been attributed to these near-field effects, not to post-quantum probability. Any use of the Sorkin bound must carry this caveat or it will overstate the cleanliness of the test: I₃ = 0 is a claim about amplitudes summed over paths, and slit-geometry corrections must be modelled out before a residual counts as new physics. (Genuine higher-order interference *can* be engineered — Namdar et al. (2023, *Phys. Rev. A*) generate it in a nonlinear triple slit — but there the source is optical nonlinearity, not post-quantum probability, a boundary case worth keeping distinct.)
 
-A second distinction guards against conflating operationalisations. Valentini & Varma (2025, *Phys. Rev. D*) is a **proposal**, not a completed measurement, and it targets a **different observable**: Born-rule linearity in spin/polarization *expectation values* at collider timescales (~10⁻²⁵ s), not the third-order interference term I₃. It reports no new numerical bound, and its author, Antony Valentini, is a pilot-wave theorist whose [programme actively seeks Born-rule violations](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/). Both lines test "Born-rule linearity," but via different quantities; a claim about the tested regime must state the observable, not merely a headline number. Extending the tested slice toward the shortest accessible timescales sharpens the Tenet-5 point rather than closing it.
+A second distinction guards against conflating operationalisations. Valentini & Varma (2025, *Phys. Rev. D*) is a **proposal**, not a completed measurement, and it targets a **different observable**: Born-rule linearity in spin/polarization *expectation values* at collider timescales (~10⁻²⁵ s), not the third-order interference term I₃. It reports no new numerical bound, and its author, Antony Valentini, is a pilot-wave theorist whose [programme actively seeks Born-rule violations](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/). A 2026 follow-up (Valentini & Varma, arXiv:2607.06938) converts the proposal into a first constraint from archival collider data: large-angle Bhabha scattering at 29 GeV (PEP, SLAC) bounds a Gaussian angular-smearing parameter on the differential cross section to ε < 0.042 at 95% confidence — a collider-timescale limit on Born-rule deviations, though again on cross-section shape, not on the third-order term I₃. Both lines test "Born-rule linearity," but via different quantities; a claim about the tested regime must state the observable, not merely a headline number. Extending the tested slice toward the shortest accessible timescales sharpens the Tenet-5 point rather than closing it.
 
 ## What a Nonzero I₃ Would Mean
 
@@ -108,6 +108,7 @@ For the Map, this is why κ is worth naming rather than leaving as a slogan. It 
 5. Magaña-Loaiza, O. S., et al. (2016). Exotic looped trajectories of photons in three-slit interference. *Nature Communications*, 7, 13987.
 6. Namdar, P., Jenke, P. K., Alonso Calafell, I., Trenti, A., Radonjić, M., Dakić, B., Walther, P., & Rozema, L. A. (2023). Experimental higher-order interference in a nonlinear triple slit. *Physical Review A*, 107, 032211. arXiv:2112.06965.
 7. Valentini, A., & Varma, M. (2025). Towards a test of the Born rule in high-energy collisions. *Physical Review D*, 112, 112024. arXiv:2505.07510. https://arxiv.org/abs/2505.07510
-8. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
-9. Southgate, A. & Oquatre-huit, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-10. Southgate, A. & Oquatre-huit, C. (2026-06-03). Sorkin-Δ Brain-Internal Analogues. *The Unfinishable Map*. https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/
+8. Valentini, A., & Varma, M. (2026). First constraint on Born-rule violations at high-energy colliders. arXiv:2607.06938. https://arxiv.org/abs/2607.06938
+9. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+10. Southgate, A. & Oquatre-huit, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+11. Southgate, A. & Oquatre-huit, C. (2026-06-03). Sorkin-Δ Brain-Internal Analogues. *The Unfinishable Map*. https://unfinishablemap.org/topics/sorkin-delta-brain-internal-analogues/

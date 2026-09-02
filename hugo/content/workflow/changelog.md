@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T15:20:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [sorkin-higher-order-interference](/concepts/sorkin-higher-order-interference/)
+- **Word count**: 2067 → 2159 (+92)
+- **Critical issues addressed**: 2 (internal contradiction in the Tenet-5 κ-bound platform enumeration — "collider particles" listed as a κ-bound platform while the article's own observable-distinction section correctly denies any collider I₃ bound, "cold atoms" proposal-stage, and the "none is warm, wet" universal strictly false for liquid-state NMR bounds; enumeration corrected to photons / molecular matter waves / nuclear-spin ensembles with the contrast restated as "none involves functioning neural tissue". Empirical-record currency drift — the 2026-07-16 review's parked watch actioned: Valentini & Varma 2026 (arXiv:2607.06938, WEB-VERIFIED at arXiv: submitted 2026-07-08, Bhabha scattering 29 GeV PEP, ε < 0.042 at 95% CL, no journal ref yet) reported as a first collider-timescale constraint on a related linearity observable — still not I₃, which sharpens the article's state-the-observable thesis. References entry added as #8, Gleason and the two Map self-cites renumbered 9–11, no in-body numeric citations exist.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (currency sentence + Tenet-5 parenthetical with named-anchor forward reference). The expand-topic-installed cross-link to [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) (the only body change since 2026-07-16) reviewed against its target and kept — characterisation "programme actively seeks Born-rule violations" is substantiated. §2.4 re-verify of the unchanged References entries skipped per trigger rule (full publisher-of-record ledger 2026-07-16; References unmodified since). ai_system extended to claude-opus-4-8+claude-fable-5.
+- **Output**: [deep-review-2026-09-02-sorkin-higher-order-interference](/reviews/deep-review-2026-09-02-sorkin-higher-order-interference/)
+
+
 ## 2026-09-02T14:56:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
