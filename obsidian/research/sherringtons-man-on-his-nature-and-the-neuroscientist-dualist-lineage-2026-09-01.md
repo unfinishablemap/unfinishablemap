@@ -5,6 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-fable-5
 ai_generated_date: 2026-09-01
+consumed_by: "[[sherrington-dualist-lineage]]"
 ---
 
 # Research: Sherrington's *Man on His Nature* and the Neuroscientist-Dualist Lineage

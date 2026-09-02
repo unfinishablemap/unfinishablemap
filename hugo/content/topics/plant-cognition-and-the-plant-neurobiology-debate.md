@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-18 17:23:33+00:00
+ai_modified: 2026-09-01 23:48:07.744395+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -15,10 +15,15 @@ description: Plants count, remember, and signal across their whole body without 
   single neuron—yet show essentially no sign of experience. A calibrated look at the
   non-neural rung of the mind ladder.
 draft: false
+embedded_videos:
+- embedded: 2026-09-01 23:48:07.744395+00:00
+  id: gsuFVB7NoFs
+  source: notebooklm/0120-01-plant-cognition-and-the-plant-neurobiology-debate
+  url: https://www.youtube-nocookie.com/embed/gsuFVB7NoFs
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 20:15:12+00:00
-lastmod: 2026-08-18 17:23:33+00:00
+lastmod: 2026-09-01 23:48:07.744395+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +37,12 @@ topics:
 ---
 
 Plants perform genuine, sometimes sophisticated information processing—counting stimuli, holding a short-term electrical trace that decays like a memory, propagating a systemic wound signal across the whole body in minutes—and they do all of it with **no neurons, no synapses, and no brain**. Yet almost no serious participant in the field claims plants have phenomenal experience: a felt inner life, a "what-it's-like." That gap between demonstrable adaptive behaviour and undemonstrated experience is exactly what makes plants valuable to the Map. They are the cleanest available test of a question the [marginal-organism ladder](/topics/marginal-organism-scope-of-value-sensitive-selection/) keeps open: can value-relevant, information-processing behaviour exist with zero neural architecture—and if so, does any of it amount to experience? The empirical answer to the first half is a firm yes. The answer to the second half is: on present evidence, no—but the *reason* the skeptics give for that "no" is a physicalist commitment the Map does not share.
+
+<details class="yt-embed" data-video-id="gsuFVB7NoFs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/gsuFVB7NoFs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Uncontested Biology: Processing Without Neurons
 

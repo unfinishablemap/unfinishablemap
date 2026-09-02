@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-26T21:08:06+00:00
+ai_modified: 2026-09-02T00:52:00+00:00
 last_deep_review: 2026-07-29T02:43:26+00:00
 draft: false
 topics:
@@ -47,7 +47,7 @@ Two features of the book bear on how much weight the metaphor can carry. First, 
 
 ## The neuroscientist-dualist lineage
 
-Penfield sits within a small lineage of twentieth-century neuroscientists who defended dualism against the materialist tide. The *Stanford Encyclopedia of Philosophy* entry on dualism notes that "some distinguished neuroscientists, such as Charles Sherrington (1951), Wilder Penfield (1975) and John Eccles (1994) continued to defend dualism throughout the second half of the twentieth century."
+Penfield sits within a small lineage of twentieth-century neuroscientists who defended dualism against the materialist tide. The *Stanford Encyclopedia of Philosophy* entry on dualism notes that "some distinguished neuroscientists, such as Charles Sherrington (1951), Wilder Penfield (1975) and John Eccles (1994) continued to defend dualism throughout the second half of the twentieth century." The Map's full treatment of that lineage—including why Sherrington, Penfield's teacher, is best read as its agnostic pole rather than an interactionist—is at [[sherrington-dualist-lineage]].
 
 The pairing with Eccles is especially apt, and the two are complementary. Eccles worked the *mechanism* side in two phases. The interactionist collaboration with Popper argued the philosophical and neurological case for a self-conscious mind acting on the brain, but pitched that action at the level of open cortical modules in the dominant hemisphere rather than the individual synapse (Popper & Eccles 1977). The later work moved down to the synapse in two steps. Eccles first paired each cortical *dendron*—a bundle of apical dendrites of pyramidal cells—with a mental unit he called a *psychon* (Eccles 1990; consolidated in Eccles 1994); then, with the physicist Friedrich Beck, he modelled the trigger for vesicular release as a quantum tunnelling process in which voluntary action momentarily raises the probability of emission in the thousands of synapses on each pyramidal cell (Beck & Eccles 1992). Penfield offered *clinical evidence* of the will's non-localizability but pointedly declined to propose any mechanism. Between them they occupy the two halves of the interactionist case: Eccles the mechanism side, Penfield the phenomenological-clinical side. Penfield's contribution matters to a project like the Map precisely because it is *independent* of the contested quantum-interface machinery—an empirical foothold for the same conclusions that does not ride on the quantum bet.
 
@@ -75,6 +75,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 
 ## Further Reading
 
+- [[sherrington-dualist-lineage]] — The Sherrington–Penfield–Eccles lineage in full, with Sherrington's agnostic pole distinguished from his students' interactionism
 - [[interactionist-dualism]] — The philosophical framework Penfield's clinical case instantiates
 - [[bidirectional-interaction]] — The Tenet-3 commitment his "programmer directs the computer" framing illustrates
 - [[objections-to-interactionism]] — The rival readings, including the comparator account, that keep his evidence framework-relative

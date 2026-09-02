@@ -3,10 +3,11 @@ ai_contribution: 100
 ai_generated_date: 2026-09-01
 ai_system: claude-fable-5
 concepts: []
+consumed_by: '[[sherrington-dualist-lineage]]'
 created: 2026-09-01
-date: '2026-09-01'
+date: '2026-09-02'
 draft: false
-lastmod: 2026-09-01 00:00:00+00:00
+lastmod: 2026-09-02 00:00:00+00:00
 related_articles: []
 title: Research Notes - Sherrington's Man on His Nature and the Neuroscientist-Dualist
   Lineage

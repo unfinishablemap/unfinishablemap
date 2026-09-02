@@ -5,6 +5,14 @@ ai_modified: '2026-09-02T00:36:55+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-02T00:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sherrington's Man on His Nature and the Neuroscientist-Dualist Lineage
+- **Output**: [[topics/sherrington-dualist-lineage]]
+- **Word count**: 2892
+- **Based on research**: yes — [[research/sherringtons-man-on-his-nature-and-the-neuroscientist-dualist-lineage-2026-09-01]]
+- Notes: Quote caveat honoured — every Sherrington quotation marked as secondary-carried (provenance note in References); the two famous late-dualist sentences cited to the 1947 Integrative Action foreword, not Man on His Nature; unresolved "without/before being met by mind" variant not used. Sherrington framed as the lineage's agnostic-epistemic pole; Sherrington→Penfield→Eccles gradient displayed; Beck–Eccles mechanism decoupled from Eccles's theology; lineage framed as provenance, never authority count. Inbound link added to [[penfield-interactionist-dualism]]; research note stamped consumed_by.
+
 ## 2026-09-02T00:36:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
