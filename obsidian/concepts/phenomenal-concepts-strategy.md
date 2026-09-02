@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-08-02T03:04:04+00:00
+ai_modified: 2026-09-02T14:48:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T23:11:05+00:00
@@ -34,7 +34,7 @@ coalesced_from:
   - "/topics/phenomenal-concepts-as-materialist-response/"
 ---
 
-The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts* rather than in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
+The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts*, not in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
 
 If PCS fails, the explanatory gap points to something genuinely beyond physics.
 
@@ -80,9 +80,9 @@ The argument has not closed the debate, and the Map does not present it as havin
 
 ## Why the Debate Matters
 
-PCS is the test case for whether physicalism can accommodate the intuitions driving dualism. If PCS succeeds, the [[explanatory-gap]] becomes merely epistemic—a feature of our concepts, not a feature of reality. The arguments from [[qualia]], Mary's Room, and zombies would lose their force.
+PCS is the test case for whether physicalism can accommodate the intuitions driving dualism. If PCS succeeds, the [[explanatory-gap]] becomes merely epistemic—a feature of our concepts, not of reality. The arguments from [[qualia]], Mary's Room, and zombies would lose their force.
 
-If PCS fails—as Chalmers's master argument suggests—the gap isn't just in how we think. Something resists physical explanation, and that something is consciousness itself.
+If PCS fails—as Chalmers's master argument suggests—the gap isn't just in how we think: something in consciousness itself resists physical explanation.
 
 ## Responses to the Master Argument
 
@@ -102,7 +102,7 @@ The reply is genuinely the strongest live physicalist rejoinder, and the exchang
 
 Some philosophers (Dennett, Frankish) suggest there are no phenomenal properties—only representations *as if* there were. The explanatory gap is between physics and an *illusion* of consciousness, not consciousness itself. This is [[illusionism]]—the most radical physicalist response.
 
-This trades the hard problem for the "illusion problem": why do we *seem* to have phenomenal consciousness? Even illusions are experiences. If it seems to me that I have [[qualia]], something is going on—the seeming itself requires explanation.
+This trades the hard problem for the "illusion problem": why do we *seem* to have phenomenal consciousness? If it seems to me that I have [[qualia]], something is going on—the seeming itself requires explanation.
 
 ### The Ability Hypothesis
 
@@ -120,7 +120,7 @@ This matters because Fürst doesn't reject the PCS framework. She accepts that p
 
 ### The Ad Hoc Objection
 
-Critics charge that PCS theories are largely ad hoc—designed to save physicalism rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Direct recognitional character, quotational structure, constitutional involvement of experience—each is posited precisely because it would explain the gap if true, not because independent evidence supports it.
+Critics charge that PCS theories are largely ad hoc—designed to save physicalism rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Each special feature is posited precisely because it would explain the gap if true, not because independent evidence supports it.
 
 This charge has force. Ordinary concepts don't work this way. If phenomenal concepts require a unique theory unlike anything in the rest of cognitive science, the "special" features start to look like symptoms of something genuinely different about consciousness—which is what dualists have been arguing all along.
 
@@ -138,19 +138,19 @@ Notably, even the most detailed PCS defence—Balog's 2012 constitutional accoun
 
 The persistence of anti-physicalist intuitions poses a further problem. If PCS is correct—if the gap is merely conceptual—then philosophical education should eventually dissolve it, as understanding molecular motion dissolved vitalist intuitions about the "life force." But consciousness-related intuitions have persisted across centuries of investigation and show no sign of fading among informed philosophers. The gap behaves less like a conceptual confusion and more like a genuine feature of reality.
 
-The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *revealing* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link while conceding that the concept tells us nothing of the referent's intrinsic character. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
+The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *revealing* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
 
-What seems clear is that PCS proponents accept there's something special about phenomenal concepts. The debate is whether this specialness is itself physically explicable. If it isn't, there's an explanatory gap at the conceptual level. If it is, it can't explain the gap at the experiential level. Either way, something resists physical explanation.
+What seems clear is that PCS proponents accept there's something special about phenomenal concepts. The debate is whether this specialness is itself physically explicable—and by the master argument's dilemma, either answer leaves something resisting physical explanation.
 
 ## The Illusionist Challenge
 
-[[illusionism]] offers an alternative to PCS: rather than explaining phenomenal concepts, deny that they refer to anything real. There are no phenomenal properties for concepts to pick out—only the *illusion* that there are.
+[[illusionism]] offers an alternative to PCS: rather than explaining phenomenal concepts, deny that they refer to anything real.
 
-This faces Raymond Tallis's regress objection: misrepresentation presupposes presentation. To be under an illusion, something must be *experiencing* the illusion. There must be something it's like to have the mistaken belief that consciousness is phenomenal. The seeming itself is phenomenal.
+This faces Raymond Tallis's regress objection: misrepresentation presupposes presentation. To be under an illusion, something must be *experiencing* the illusion—the seeming itself is phenomenal.
 
-The regress applies equally to PCS. If phenomenal concepts are "direct" or "quotational" or "constitutional," *something* must be directly apprehending, quoting, or constituting. These modes of presentation must present *to* something. PCS and illusionism both face the question: who or what is on the receiving end of these concepts?
+The regress applies equally to PCS. If phenomenal concepts are "direct" or "quotational" or "constitutional," *something* must be directly apprehending, quoting, or constituting. These modes of presentation must present *to* something. The same question meets the objectual escape: Mary gains non-propositional knowledge *of* a phenomenal state, not knowledge *that* anything is so (a category Duncan 2020 defends in its own right, not on physicalism's behalf). If experience supplies no concept, the master argument's dilemma over gap-explaining conceptual features seems never to get started. But knowledge of a thing is knowledge of it *by* someone, and the dilemma re-forms around the acquaintance relation itself: if physically explicable, zombies stand in it too; if not, the gap reopens one level down.
 
-[[introspection]] is central here. PCS relies on introspective access to phenomenal states—that's how we form phenomenal concepts in the first place. But introspection is itself phenomenal. The ability to turn attention inward and notice what experience is like presupposes the very kind of awareness that PCS claims to explain.
+[[introspection]] is central here. PCS relies on introspective access to phenomenal states—that's how we form phenomenal concepts in the first place. The ability to turn attention inward and notice what experience is like presupposes the very kind of awareness that PCS claims to explain.
 
 ## Contemplative Evidence
 
@@ -217,6 +217,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 - Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
+- Duncan, M. (2020). "Knowledge of things." *Synthese*, 197(8), 3559–3592. https://doi.org/10.1007/s11229-018-01904-0
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
 - Zhong, L. (2024). "Phenomenal Concepts, Direct Reference, and the Problem of Double Aspect." *The Philosophical Quarterly*, 74(3), 978–997.
 - Zhou, P. (2025). "Indicating without Revealing: A Posteriori Physicalism and the New Challenge." *Synthese*, 206(2).
