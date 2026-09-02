@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T08:34:11+00:00'
+ai_modified: '2026-09-02T09:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T09:06:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Original score**: n/a (convergence-upgraded outer-review contradiction fix; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: Closed the 2026-09-02 convergence P1 menu-ontology contradiction on the tenets page (Claude Part 2 §D contradiction 3; ChatGPT §§2.3/4.5): the L105 Analogy block implied selection among pre-existing definite options while L71/L91 state actualisation is an additional postulate, not a pick from an already-definite menu. One-clause-qualifier route per the driver briefing (page is over the critical ceiling under the open 2026-06-08 HUMAN LENGTH DECISION — no restructuring, analogy block only): the epigram now reads "The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives—and the mind selects", adapting the canonical formulation the apex sibling installed at 06:58:42 (read on disk first, transplant-not-invent; wording anchored to L71's/the apex's "already-definite alternatives"). Compensating trims inside the same block: "by collapsing a superposition" (loose physics — the decay, not the collapse of the cat's superposition, is the analogy's indeterminate event) and "of many superposed" (pre-decoherence framing that would have contradicted the improper-mixture qualifier within its own sentence); "patterns"→"pattern". Nothing beyond the task's locus — 2-line diff (analogy line + ai_modified). Length 6683→6682 by `analyze_length` (tenets soft 2000 / hard 3000 / critical 4000 printed; net −1 word, satisfying the length-neutral-or-negative mandate; status critical unchanged for the human decision). Dependent-quote sweep before editing: the verbatim epigram lived only on the tenets page — the variant sentences in valence-and-conscious-selection, coupling-modes, neuroplasticity, trilemma-of-selection, retrocausality etc. are their own prose, and quantum-holism's "many superposed possibilities" is an independent sentence, so nothing stranded; review-file quotes left as historical echoes. Engagement classification (editor-internal): no opponent-reply edits this pass. ai_modified from live `date -u` (strictly past); synced; both trees grep-verified: qualifier present at obsidian tenets.md L105 and hugo tenets/_index.md L109, L71 actualisation-postulate sentence unchanged (1 match per tree), old epigram wording 0 outside reviews/workflow. Todo task left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T08:34:11+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)

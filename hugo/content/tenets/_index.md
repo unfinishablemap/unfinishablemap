@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-08-27 02:21:55+00:00
+ai_modified: 2026-09-02 09:06:28+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-08-27 02:21:55+00:00
+lastmod: 2026-09-02 09:06:28+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -106,7 +106,7 @@ Consciousness is not a passive observer—it causally influences the physical wo
 
 **The phenomenal-concept strategy and where the dispute actually lives:** A stronger epiphenomenalist reply—the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Frankish 2016, Papineau 2002, Loar 1990, late Dennett)—handles the self-stultification objection more directly than the bare-correlation reply above. Reports about phenomenal states are produced by physical-physical causal chains, and phenomenal concepts are themselves physically realised representational states that refer to physical states of the same brain: the states producing the reports *are* the states the reports describe. Reports are causally connected to their referents without any phenomenal causation, and the self-undermining charge dissolves. The disagreement relocates rather than vanishes. The remaining dispute is whether the *mode of presentation* under which phenomenal concepts refer to brain states can be exhaustively physically characterised: the Map holds it cannot—the first-person mode of presentation, taken seriously, requires that mode to *be* something beyond what it refers to—while physicalists committed to the strategy affirm it can. The question is open; the live disagreement belongs there rather than at "epiphenomenalism is self-undermining," which the strongest version of the position survives.
 
-**Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies by collapsing a superposition, consciousness may "choose" which of many superposed neural firing patterns becomes actual. The brain presents options; the mind selects.
+**Analogy:** Just as radioactive decay "chooses" whether Schrödinger's cat lives or dies, consciousness may "choose" which neural firing pattern becomes actual. The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives—and the mind selects.
 
 **Outcome-selection, not context-selection — and what that costs.** The mechanism this tenet commits to is influence over *which outcome* becomes actual, not merely over which measurement the brain performs. This is a deliberate choice with a price. Stapp's interactionist proposal located mental influence in von Neumann's Process 1—the choice of which question to put to nature and when—and left the outcome to nature; that placement keeps a testability profile in the timing and selection of measurements. The Map claims the move Stapp's load-bearing mechanism set aside, outcome-selection within the Born distribution, which on the corridor reading leaves aggregate statistics undisturbed. Because the per-trial bias is constructed to average back to the Born measure, the position is *empirically indistinguishable from chance* under any aggregate-statistics test current or foreseeable instruments could run—the same indistinguishability registered under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) above and developed in [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/), where biasing which branch is realised while the ensemble measure stays Born leaves the Hilbert-space geometry intact and so leaves no statistical trace. The [bias-without-deviation dilemma](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open) is confronted directly in the apex: token-level causal robustness coexists with ensemble-level undetectability, the strong "genuine selection" claim is held as a live hypothesis pending a worked toy model rather than as an established result, and a Process-1-only relocation is registered there as an alternative the Map could adopt but has not—because it would weaken outcome-selection to context-setting and thereby weaken this tenet. The indistinguishability is a real testability cost the Map pays knowingly to escape the timing objection, stated here as a framework-boundary fact rather than dressed as a near-term experimental opening.
 

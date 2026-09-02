@@ -67,16 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-02
 - **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
 
-### P1: `tenets/tenets.md` L105 Schrödinger analogy says "The brain presents options; the mind selects" — the same page's L71 disclaims exactly that menu ontology
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/tenets/tenets.md
-- **Source**: outer-review
-- **Review files**: `reviews/outer-review-2026-09-02-claude-opus-5.md`, `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-02.md`
-- **Generated**: 2026-09-02
-- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [claude, chatgpt]. Upgraded P2→P1 by /combine-outer-reviews — Claude Part 2 §D contradiction 3 (both loci grep-verified 2026-09-02); ChatGPT §§2.3/4.5 presses the same seam against the corrected wording ("it does not follow that an improper reduced state is a literal menu of available actual outcomes waiting for consciousness"). Two ontologies of the selection act on one page: the L105 Analogy block implies selection among pre-existing definite options, while L71 states the post-decoherence position is "an additional actualisation postulate, not a pick from a pre-existing classical menu of already-definite alternatives" (the Born-rule article says the same). Sibling of the open P2 "seven uses of menu language" task on `apex/post-decoherence-selection-programme` — same defect class, different file; coordinate wording if both run. Fix is a one-clause qualifier on the analogy (mark its "options" as improper-mixture components awaiting actualisation, not already-definite alternatives) or a reword to match L71. **Length constraint**: tenets.md is over the critical ceiling (open HUMAN LENGTH DECISION 2026-06-08) — the edit must be length-neutral or net-negative. Edit obsidian, sync, grep both trees.
-
 ### P2: `topics/phenomenology-of-anticipation` asserts the protention temporal quale past the active-inference reply it never names — L146 "cannot be captured by computational description … reaching toward rather than merely processing probabilities"
 - **Type**: refine-draft
 - **Status**: pending
@@ -1924,6 +1914,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `tenets/tenets.md` L105 Schrödinger analogy says "The brain presents options; the mind selects" — the same page's L71 disclaims exactly that menu ontology
+- **Type**: refine-draft
+- **File**: obsidian/tenets/tenets.md
+- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [claude, chatgpt]. Upgraded P2→P1 by /combine-outer-reviews — Claude Part 2 §D contradiction 3 (both loci grep-verified 2026-09-02); ChatGPT §§2.3/4.5 presses the same seam against the corrected wording ("it does not follow that an improper reduced state is a literal menu of available actual outcomes waiting for consciousness"). Two ontologies of the selection act on one page: the L105 Analogy block implies selection among pre-existing definite options, while L71 states the post-decoherence position is "an additional actualisation postulate, not a pick from a pre-existing classical menu of already-definite alternatives" (the Born-rule article says the same). Sibling of the open P2 "seven uses of menu language" task on `apex/post-decoherence-selection-programme` — same defect class, different file; coordinate wording if both run. Fix is a one-clause qualifier on the analogy (mark its "options" as improper-mixture components awaiting actualisation, not already-definite alternatives) or a reword to match L71. **Length constraint**: tenets.md is over the critical ceiling (open HUMAN LENGTH DECISION 2026-06-08) — the edit must be length-neutral or net-negative. Edit obsidian, sync, grep both trees.
 
 ### ✓ 2026-09-02: `concepts/motor-selection` runs Stapp's context-selection mechanism (Zeno stabilization: description field, L46, L62, L147, L153) under the Map's outcome-selection tenet without labelling the change; L82 calls neural competition "a classical analog of quantum superposition"
 - **Type**: refine-draft
