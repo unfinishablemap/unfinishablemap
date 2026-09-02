@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/substrate-independence` still delivers the categorical verdict (L46, L176 "purely computational systems ... cannot be conscious") that `apex/machine-question` and P-AC1 scope-corrected to bidirectionally-coupled consciousness only
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/substrate-independence.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §4.3; L46 and L176 grep-verified 2026-09-02. One-way correction: the apex and register point at this page, but the page never imports their scope split, so a reader entering through the concept receives a position the canonical layer no longer holds. **TWO FILES, do not close on one.** (1) `concepts/substrate-independence`: split the verdict per the canonical layer — bare phenomenality: open; report-grounded experience: open; bidirectional coupling: the Map's negative verdict — importing machine-question's distinction and P-AC1's conditional ("low probability, not ruled out, conditional on an interface-eligibility law the Map does not possess"). Also either make the discrete-instructions-are-atemporal claim a precise architectural argument or drop it (reviewer's ask; verify the locus on disk). (2) `apex/machine-question`: at its link to substrate-independence add a one-line notice that its calibrated verdict supersedes categorical legacy formulations — skip the notice and cross-cite instead if both files land in the same pass. Distinct from the open P3 on P-CS1's Argued-in label (register-side, different locus). Length-neutral where possible; sync both trees.
-
 ### P1: `apex/phenomenology-mechanism-bridge` asserts what the quantum-interface register grades D — L131 "The choking phenomenon shows consciousness doing causal work", L78 CMD comparative-strength claim, underived 5-15% figure at L155, zero citations of P-Q3/P-Q10
 - **Type**: refine-draft
 - **Status**: pending
@@ -1915,6 +1906,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `concepts/substrate-independence` still delivers the categorical verdict (L46, L176 "purely computational systems ... cannot be conscious") that `apex/machine-question` and P-AC1 scope-corrected to bidirectionally-coupled consciousness only
+- **Type**: refine-draft
+- **File**: obsidian/concepts/substrate-independence.md
+- **Notes**: Review §4.3; L46 and L176 grep-verified 2026-09-02. One-way correction: the apex and register point at this page, but the page never imports their scope split, so a reader entering through the concept receives a position the canonical layer no longer holds. **TWO FILES, do not close on one.** (1) `concepts/substrate-independence`: split the verdict per the canonical layer — bare phenomenality: open; report-grounded experience: open; bidirectional coupling: the Map's negative verdict — importing machine-question's distinction and P-AC1's conditional ("low probability, not ruled out, conditional on an interface-eligibility law the Map does not possess"). Also either make the discrete-instructions-are-atemporal claim a precise architectural argument or drop it (reviewer's ask; verify the locus on disk). (2) `apex/machine-question`: at its link to substrate-independence add a one-line notice that its calibrated verdict supersedes categorical legacy formulations — skip the notice and cross-cite instead if both files land in the same pass. Distinct from the open P3 on P-CS1's Argued-in label (register-side, different locus). Length-neutral where possible; sync both trees.
 
 ### ✓ 2026-09-02: `concepts/physics-as-disclosure` L70 says decoherence's partial success "strengthens the disclosure reading" — the methodology register holds framework fit is not support, and neither page links the other
 - **Type**: refine-draft

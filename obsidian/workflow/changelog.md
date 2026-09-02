@@ -5,6 +5,13 @@ ai_modified: '2026-09-02T05:08:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-02T06:05:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/substrate-independence]]
+- **Original score**: n/a (outer-review §4.3 uncited-contradiction fix; the skill's `scripts/curate.py review` command no longer exists)
+- **Changes**: TWO-FILE close per §4.3's one-way-correction finding (the apex and register point at the concept page, but the page never imported their scope split). (1) `concepts/substrate-independence` — L46 categorical closer ("consciousness requires something digital computation cannot provide") retired; new second paragraph imports the canonical layer read on disk first: substrate independence for bare phenomenality open, for report-grounded experience open, only for bidirectionally coupled consciousness the Map's present negative verdict — "low probability, not ruled out," conditional on an interface-eligibility law the Map does not yet possess ([[apex/machine-question]] sense-split; [[positions/ai-consciousness-scope|P-AC1]] conditional). L176 ("purely computational systems ... cannot be conscious") recast to the calibrated verdict; closing "almost certainly isn't conscious" and the Relation-to-Site closer scoped to the bidirectionally-coupled sense with bare phenomenality explicitly left open; "no computational sophistication produces consciousness" → "by itself". (2) Reviewer's atemporal-instructions ask taken the make-precise branch, not the drop branch: "each instruction is atemporal" replaced with an architectural-integration argument — no window in which just-completed processing persists as structured presence within current processing; retrieval re-enters past state as new input and is architecturally distinct from retention. (3) `apex/machine-question` — cross-cite in place of the incompatibility notice since both files land in one pass (per task context): Further Reading link to substrate-independence now states the concept imports this article's scope split, verdict reaching only the bidirectionally coupled sense. Both files' ai_modified from live `date -u` (strictly past); synced; both trees grep-verified for the scope-split wording (concept) and the cross-cite (apex). Todo task left for cycle_post; not committed.
+- **Published**: yes
+
 ## 2026-09-02T05:39:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/physics-as-disclosure]]

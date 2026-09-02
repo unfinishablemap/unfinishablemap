@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds serious obstacles—cond
 created: 2026-01-31
 modified: 2026-08-09
 human_modified: null
-ai_modified: 2026-08-24T13:51:46+00:00
+ai_modified: 2026-09-02T06:05:31+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -243,7 +243,7 @@ This synthesis draws on:
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent affirmative position the open-question framing must continue to earn against
 - [[temporal-consciousness]] — Temporal structure requirements for consciousness
 - [[intentionality]] — Original vs. derived aboutness
-- [[substrate-independence]] — Why substrate matters for consciousness
+- [[substrate-independence]] — Why substrate matters for consciousness; the concept page imports this article's scope split, so its negative verdict reaches only the bidirectionally coupled sense
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 - [[claude-constitution-consciousness-uncertainty]] — A leading lab operationalising precaution about machine moral status: convergent method, divergent metaphysics
 

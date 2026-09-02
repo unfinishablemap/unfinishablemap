@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-24 13:51:46+00:00
+ai_modified: 2026-09-02 06:05:31+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5
 apex_last_synthesis: 2026-06-22 20:10:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:17:23+00:00
-lastmod: 2026-08-24 13:51:46+00:00
+lastmod: 2026-09-02 06:05:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -247,7 +247,7 @@ This synthesis draws on:
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The strongest competent affirmative position the open-question framing must continue to earn against
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements for consciousness
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
-- [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness; the concept page imports this article's scope split, so its negative verdict reaches only the bidirectionally coupled sense
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
 - [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — A leading lab operationalising precaution about machine moral status: convergent method, divergent metaphysics
 

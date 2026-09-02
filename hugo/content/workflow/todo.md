@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `concepts/physics-as-disclosure` L70 says decoherence's partial success "strengthens the disclosure reading" — the methodology register holds framework fit is not support, and neither page links the other
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/physics-as-disclosure.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §4.2; L70 grep-verified 2026-09-02, and grep for the methodology register's slug and P-M ids returns nothing in the page. The cited physics (Schlosshauer, Rev. Mod. Phys. 2004) licenses only the narrow claim — decoherence alone selects no unique outcome, implications contested — not that the residue points at consciousness. Recast disclosure as one interpretation among rivals (Bohmian, objective-collapse, Everettian, pragmatist — the reviewer asks for an explicit likelihood comparison: what observation is MORE expected under disclosure?), downgrade "strengthens" to compatibility wording per the register's defeater-removal-is-not-support position, cite that position explicitly, and demote duration-of-disagreement to weak sociological evidence. Measure length before writing; prefer replacement over addition. Sync both trees.
-
 ### P1: `concepts/substrate-independence` still delivers the categorical verdict (L46, L176 "purely computational systems ... cannot be conscious") that `apex/machine-question` and P-AC1 scope-corrected to bidirectionally-coupled consciousness only
 - **Type**: refine-draft
 - **Status**: pending
@@ -1926,6 +1917,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `concepts/physics-as-disclosure` L70 says decoherence's partial success "strengthens the disclosure reading" — the methodology register holds framework fit is not support, and neither page links the other
+- **Type**: refine-draft
+- **File**: obsidian/concepts/physics-as-disclosure.md
+- **Notes**: Review §4.2; L70 grep-verified 2026-09-02, and grep for the methodology register's slug and P-M ids returns nothing in the page. The cited physics (Schlosshauer, Rev. Mod. Phys. 2004) licenses only the narrow claim — decoherence alone selects no unique outcome, implications contested — not that the residue points at consciousness. Recast disclosure as one interpretation among rivals (Bohmian, objective-collapse, Everettian, pragmatist — the reviewer asks for an explicit likelihood comparison: what observation is MORE expected under disclosure?), downgrade "strengthens" to compatibility wording per the register's defeater-removal-is-not-support position, cite that position explicitly, and demote duration-of-disagreement to weak sociological evidence. Measure length before writing; prefer replacement over addition. Sync both trees.
 
 ### ✓ 2026-09-02: `voids/self-opacity` L157 says Dualism "receives support" and opacity "points beyond engineering limitation" — the voids register (P-V1/P-V2) rules exactly this move out, and neither page cites the other
 - **Type**: refine-draft
