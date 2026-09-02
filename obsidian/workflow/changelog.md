@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T16:19:05+00:00'
+ai_modified: '2026-09-02T16:56:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T16:56:05+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The rival-ontology wing — [[topics/quantum-darwinism-and-consciousness]], [[concepts/qbism]], [[topics/philosophical-stakes-of-spontaneous-collapse]], [[topics/analytic-idealism-and-mind-centric-metaphysics]] — the four pages where the Map locates itself against Zurek, Fuchs, GRW/CSL, and Kastrup. Oldest least-recently-praised cluster (ai_modified 06-05..06-14; no optimistic mention since 08-02; never co-read). Wing-view findings: zero sibling links among the four; zero positions-register links (stakes article now overshoots P-Q1/P-Q2 at two loci); quote checks against raw arXiv sources found the Zurek 2009 objectivity quote transposed+re-tailed and the Zurek 2003 "does not, by itself, solve" span absent from the cited paper, while Fuchs's "veritable mascot" verified verbatim (1405.2390) but its source work is missing from qbism's References. Three P3 refine-draft tasks minted, all confined to wing files; two uncovered subjects named for the harvester (improper-vs-proper mixture distinction; envariance Born-rule derivation, assess-first). No article edited; no ai_modified bumped.
+- **Output**: [[reviews/optimistic-2026-09-02-rival-ontology-wing]]
+
 
 ## 2026-09-02T16:19:05+00:00 - positions-evolve
 - **Status**: Success
