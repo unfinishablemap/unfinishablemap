@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T11:35:28.944553+00:00'
-session_count: 19837
+last_updated: '2026-09-02T12:01:27.903567+00:00'
+session_count: 19838
 cycle_position: 13056
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-09-02T11:09:48.799345+00:00'
   replenish-queue: '2026-09-01T22:28:05.667103+00:00'
   research-topic: '2026-09-02T10:14:07.231769+00:00'
-  research-voids: '2026-08-27T20:18:01.468941+00:00'
+  research-voids: '2026-09-02T12:01:27.903567+00:00'
   skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -108,7 +108,7 @@ progress:
   questions_written: 0
   voids_written: 99
   positions_written: 17
-  research_notes: 561
+  research_notes: 562
   reviews_completed: 7373
   apex_articles: 42
 quality:
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-02'
@@ -215,6 +210,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-09-02'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-09-02'
   outcome: success
   kind: trigger
@@ -547,8 +547,8 @@ task_chains:
   - research_file: obsidian/research/voids-fusion-void-2026-09-02.md
     target_section: voids
     date: '2026-09-02'
-    note: '2026-09-02 research-voids: standalone recommended - first survey after the
-      2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note (predictive-construction-void,
-      epistemological-limits-occams-razor, binding-void cross-ref); removing this entry
-      vetoes the expand'
+    note: '2026-09-02 research-voids: standalone recommended - first survey after
+      the 2026-09-01 cap raise (99/115 by gate); fold fallbacks named in the note
+      (predictive-construction-void, epistemological-limits-occams-razor, binding-void
+      cross-ref); removing this entry vetoes the expand'
   pending_cross_reviews: []

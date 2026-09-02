@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-08-24 09:21:07+00:00
+ai_modified: 2026-09-02 12:08:49+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-08-17 00:02:12+00:00
 apex_sources:
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-02 12:08:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ A map of all routes through a city is complete as a map—no road missing, no di
 
 If the wavefunction describes the constraint space and consciousness provides selection, then the [Born rule](/concepts/quantum-probability-consciousness/)—squared amplitude gives probability—describes the *interface* between them. It specifies the terms on which consciousness meets quantum indeterminacy.
 
-The Born rule tells consciousness what it has to work with: the relative weights of different possibilities. These weights are real features of the world—consciousness cannot select an outcome with zero amplitude, and outcomes with higher amplitude are actualized more frequently across ensembles. But *which* outcome is actualized in any single case is not determined by the Born rule. The rule specifies the *menu*, not the *order*.
+The Born rule tells consciousness what it has to work with: the relative weights of different possibilities. These weights are real features of the world—consciousness cannot select an outcome with zero amplitude, and outcomes with higher amplitude are actualized more frequently across ensembles. But *which* outcome is actualized in any single case is not determined by the Born rule. The rule specifies the *menu*, not the *order*—and the menu's entries are improper-mixture components awaiting actualisation, not already-definite alternatives.
 
 How much ordering that leaves is a computable question rather than a rhetorical one. [The agency budget](/concepts/agency-budget/) maps the corridor onto the coupling theorems of perfectly secure steganography: a selector required to leave a public distribution exactly intact is formally a perfectly secure channel, and the perfectly secure procedures are exactly the *couplings*—joint distributions that marginalise to the fixed distribution while correlating freely with the hidden variable. A ceiling follows from elementary information theory: at most min(H(conscious source), H(Born distribution)) bits of reasons-correlated selection per event, at exactly zero statistical signature. An interface specification in the sense this section means can therefore be given a capacity as well as a shape. The mapping onto mental causation is the Map's own construction rather than a published result, and carries the coherence-only citation grade.
 
@@ -155,7 +155,7 @@ This reinterpretation has consequences:
 
 **Collapse interpretations have a structural advantage here.** Collapse theories treat the Born rule as a fundamental postulate—an honest acknowledgment. Many-Worlds must instead *derive* probability from a theory that is fundamentally deterministic, and critics argue that every derivation strategy (decision-theoretic, self-locating uncertainty, envariance) smuggles in the very thing it claims to derive. That charge is contested rather than settled—Everettians regard the decision-theoretic and self-locating programmes as live—so the asymmetry the Map relies on is conditional: *given* the tenets' demand for genuine selection, an honestly-postulated Born rule is preferable to a recovery whose premises the Map independently rejects. The advantage is read off the Map's commitments, not claimed as a neutral refutation of MWI.
 
-**The specific mathematical form may encode interface constraints.** Why squared amplitudes? Why not cubed, or linear? If the Born rule is an interface specification, its form reflects constraints on how consciousness can couple to physical possibility—just as the speed of light constrains how matter can couple to spacetime.
+**The specific mathematical form may encode interface constraints.** Why squared amplitudes? Why not cubed, or linear? If the Born rule is an interface specification, its form reflects constraints on how consciousness can couple to physical possibility.
 
 **Intersubjective agreement is explained.** Different conscious agents measuring the same system find the same statistical distribution because they face the same objective interface structure. The Born probabilities are not subjective beliefs (pace QBism) but features of the reality that consciousness engages with.
 

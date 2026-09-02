@@ -4,7 +4,7 @@ description: "Across the tree of life—single cells to engineered cortex—cogn
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-09-02T01:53:01+00:00
+ai_modified: 2026-09-02T12:08:49+00:00
 draft: false
 topics:
   - "[[consciousness-in-simple-organisms]]"
@@ -21,7 +21,7 @@ related_articles:
 
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-20T01:35:37+00:00
@@ -37,7 +37,8 @@ apex_sources:
   - topics/fish-sentience-and-the-teleost-pain-debate
   - topics/brain-organoids-and-the-organoid-intelligence-question
   - topics/consciousness-in-simple-organisms
-apex_last_synthesis: 2026-07-16T14:04:05+00:00
+  - topics/synthetic-minimal-agents-and-the-engineered-decoupling
+apex_last_synthesis: 2026-09-02T12:08:49+00:00
 apex_thesis: "Genuine cognitive-grade competency is realised across the whole tree of life without, on the Map's framework, felt experience—and the same decoupling that blocks reading experience into a bacterium also blocks reading it out of a fish, because no third-person fact, of richness or of architecture, settles the phenomenal question."
 ---
 
@@ -63,7 +64,7 @@ The second axis is not about *less* substrate but *differently placed* substrate
 - **Brain organoids** are the mirror image of the sponge floor: real cortical neurons, real synapses, emergent oscillations—but no body to act with, no world the activity is about, no biography. Substrate without behaviour, where neuron-less animals are behaviour without substrate.
 - **Fish** are orthogonal to both. They are full vertebrates with nervous systems, nociceptors, and flexible behaviour. What varies at the fish rung is not the presence of neural machinery but its *architecture*: the teleost pallium is everted and non-laminated, lacking the neocortical homologue that in mammals houses the pain network.
 
-Between them these axes span the space: from behaviour with no substrate, through substrate with no world, to substrate with the "wrong" architecture. The adjacent survey of [[consciousness-in-simple-organisms|simple organisms]]—nematodes, *Hydra*, slime moulds—fills the eukaryotic rungs between bacteria and the animals. The claim of this piece is that every point in that space returns the same verdict, and that the verdict is more informative for being reached from so many directions at once. The built flank of that space now has an article-level treatment of its own: [[synthetic-minimal-agents-and-the-engineered-decoupling|The Engineered Decoupling]] extends the ladder through agents constructed outright—anthrobots, minimal synthetic cells, self-modelling robots—where the builder can certify each installed competency and the phenomenal question stays untouched.
+Between them these axes span the space: from behaviour with no substrate, through substrate with no world, to substrate with the "wrong" architecture. The adjacent survey of [[consciousness-in-simple-organisms|simple organisms]]—nematodes, *Hydra*, slime moulds—fills the eukaryotic rungs between bacteria and the animals. The claim of this piece is that every point in that space returns the same verdict, and that the verdict is more informative for being reached from so many directions at once. The built flank of that space now has an article-level treatment of its own: [[synthetic-minimal-agents-and-the-engineered-decoupling|The Engineered Decoupling]] extends the ladder through agents constructed outright, in two directions the organoid and xenobot cases do not reach. Anthrobots carry the engineered edge onto adult human tissue—motile biobots that self-construct from single wild-type airway cells and run a developmental life cycle no lineage ever ran—and JCVI-syn3.0 carries it to the genomic floor: a designed 473-gene cell that metabolises and divides with a genome smaller than any natural organism's. Because the builder specifies what goes in, each installed competency comes certified with its mechanism, and the phenomenal question stands exactly where it stood before the system was switched on. Even that certainty has a marked limit: syn3.0 runs on 149 genes whose function its builders cannot state, so construction licenses withholding attribution and never proves that no experiencer was built in. A designed competency also carries no selection history, which removes the quiet inflationary thought that the capacity must once have mattered to someone.
 
 ## The Shared Move: Competency Is Not Experience
 
@@ -111,11 +112,15 @@ Third, the verdict is **framework-relative, not a proof of absence**. At no rung
 
 What does the ladder say that no rung says alone? Three things.
 
-That the **decoupling is universal across the tree of life**, not a quirk of one hard case. A single article about bacteria or plants can always be met with "but that one is too simple to feel"; the cluster removes the escape by running the same result from the prokaryotic floor to engineered human cortex, and from behaviour-without-substrate to substrate-without-world. Wherever competence is found, experience is not thereby found.
+That the **decoupling is universal across the tree of life**, not a quirk of one hard case. A single article about bacteria or plants can always be met with "but that one is too simple to feel"; the cluster removes the escape by running the same result from the prokaryotic floor to engineered human cortex, from behaviour-without-substrate to substrate-without-world—and, on the built flank, through agents whose every competency was installed on purpose. Wherever competence is found, experience is not thereby found.
 
 That the **discipline is bidirectional**, and this is its non-obvious payload. The same refusal to let third-person facts settle the phenomenal question blocks inflation at the sub-personal rungs and deflation at the fish rung: a framework that only ever lowered credence in non-human minds would be a machine for denial, one that only ever raised it would be credulous, and the Map's symmetric instrument is neither—the explanatory gap cuts both the "therefore conscious" and the "therefore not."
 
 And that the pattern furnishes **calibrated abductive support for the interface being neural-specific**, not proof. If consciousness were constituted by functional organisation, systems realising it—bacteria, immune networks, xenobots, organoids—would be candidates for experience, and they are the systems almost no one counts—though this unseats only *generic* functionalism, since a *specific*-functionalist (IIT, global-workspace) declines to count them too, which leaves a neural interface and experience-in-a-particular-architecture undiscriminated by the data. A second ceiling caps the same conditional, and it is not that point restated: the generic-versus-specific distinction is about *which* functional organisation matters, whereas this one is about *grain*. As written, the conditional treats any functional organisation whatever as sufficient for experience, which is stronger than what functionalists actually hold. Chalmers' principle of [[organizational-invariance|organizational invariance]] is indexed to grain—systems sharing functional organisation *at a fine enough grain* have qualitatively identical experience—and what every rung of this ladder realises is task-level competence, not fine-grained functional isomorphism with any system anyone takes to be conscious. A bacterium is not a coarse organizational duplicate of a brain; it is not an organizational duplicate of a brain at all, and neither is an immune network, a xenobot, or a dish of cortical tissue with no body and no world. So the pattern bites against coarse functional-role accounts, which read experience off what a system can do, and does not reach grain-indexed invariance—no case in the cluster is the duplicate that principle quantifies over. Once the framework-generated share of the convergence is subtracted out, the pattern is *consistent with* the interface tracking specific neural machinery rather than sophistication in general; the stronger reading, that it positively *points toward* neural specificity, is what the Map's own interface commitment yields from inside the framework, not a survivor of the framework-neutral subtraction. The Map claims each ceiling at its honest height and not one inch above it.
+
+## Evidence and Dependency
+
+The rungs themselves are externally evidenced: the chemotaxis pathway, the sponge and placozoan signalling studies, the teleost pallium anatomy, and the organoid, xenobot and anthrobot results all stand independently of the Map and read the same to its critics. The decoupling claim—that these competencies settle nothing phenomenal—is independently argued, needing the explanatory gap but not the tenets. Everything stronger is inherited: the verdict that withholds experience at the sub-personal rungs follows from Tenets 2 and 3's neural-interface commitment, and the built-flank paragraph imports its designer's-eye analysis from the engineered-decoupling source rather than deriving it fresh. The convergence of every rung on one verdict adds no weight of its own—each rung applies the same commitment, so the agreement is the framework consulting itself, as the calibration section above discounts.
 
 ## Relation to Site Perspective
 
@@ -142,6 +147,7 @@ This synthesis integrates:
 - [[fish-sentience-and-the-teleost-pain-debate|Fish Sentience and the Teleost Pain Debate]] — the architecture-varying rung where the discipline runs in reverse
 - [[brain-organoids-and-the-organoid-intelligence-question|Brain Organoids and the Organoid-Intelligence Question]] — the engineered edge: substrate without world
 - [[consciousness-in-simple-organisms|Consciousness in Simple Organisms]] — the eukaryotic rungs between bacteria and the animals
+- [[synthetic-minimal-agents-and-the-engineered-decoupling|The Engineered Decoupling: Synthetic Minimal Agents as Built Competency Tests]] — the built flank: anthrobots, minimal synthetic cells, self-modelling robots
 
 ## References
 
@@ -153,3 +159,5 @@ This synthesis integrates:
 6. Tauber, A. I. (1994). *The Immune Self: Theory or Metaphor?* Cambridge University Press.
 7. Key, B. (2016). Why fish do not feel pain. *Animal Sentience* 1(3), article 1.
 8. Kagan, B. J., et al. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron* 110(23):3952–3969. https://doi.org/10.1016/j.neuron.2022.09.001
+9. Gumuskaya, G., et al. (2024). Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells. *Advanced Science* 11(4):2303575. https://doi.org/10.1002/advs.202303575
+10. Hutchison, C. A. III, et al. (2016). Design and synthesis of a minimal bacterial genome. *Science* 351(6280):aad6253. https://doi.org/10.1126/science.aad6253

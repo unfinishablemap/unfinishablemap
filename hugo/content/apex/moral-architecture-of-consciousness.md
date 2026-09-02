@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-08-22 19:54:10+00:00
+ai_modified: 2026-09-02 12:08:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 apex_last_synthesis: 2026-07-16 09:55:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-08-22 19:54:10+00:00
+lastmod: 2026-09-02 12:08:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,9 +149,9 @@ The register's verdict belongs before the arguments. The Map leans value-sensiti
 
 If selection is value-blind, consciousness steers neural outcomes through attention alone—a content-neutral pointer. Valence is real but causally idle in the selection process, which preserves a clean mechanism at the cost of an internal tension: the dimension of consciousness the Map claims grounds all value becomes causally inert in the one mechanism the Map assigns to consciousness.
 
-If selection is value-sensitive, valence functions as a *selection currency*—a common metric enabling consciousness to compare otherwise incommensurable options. The brain presents options, valence denominates them, consciousness selects. Outcomes in conscious brains would then be selected partly *because of how they would feel*, making the Map's physics locally teleological within the narrow channel where consciousness acts, and value doubly non-epiphenomenal: real as experienced *and* efficacious as selector.
+If selection is value-sensitive, valence functions as a *selection currency*—a common metric enabling consciousness to compare otherwise incommensurable options. The brain presents options—an improper mixture awaiting actualisation, not already-definite alternatives—valence denominates them, consciousness selects. Outcomes in conscious brains would then be selected partly *because of how they would feel*, making the Map's physics locally teleological within the narrow channel where consciousness acts, and value doubly non-epiphenomenal: real as experienced *and* efficacious as selector.
 
-Empirical evidence bears on the fork. Pain asymbolia patients—who detect tissue damage without finding it distressing—show reduced avoidance, suggesting valence does causal work rather than merely accompanying selection. Berridge's [dissociation of dopaminergic "wanting" from hedonic "liking"](/topics/wanting-liking-and-the-value-in-mechanism-fork/) supplies the discriminating test: if selection is denominated in felt quality, liking rather than wanting should determine the outcome when the two conflict. And if valence were causally inert, its tight correlation with fitness—pain tracks tissue damage, pleasure tracks survival-promoting activities—would be coincidental, whereas a valence that drives selection is something evolution can shape directly.
+Empirical evidence bears on the fork. Pain asymbolia patients—who detect tissue damage without finding it distressing—show reduced avoidance, suggesting valence does causal work rather than merely accompanying selection. Berridge's [dissociation of dopaminergic "wanting" from hedonic "liking"](/topics/wanting-liking-and-the-value-in-mechanism-fork/) supplies the discriminating test: if selection is denominated in felt quality, liking rather than wanting should determine the outcome when the two conflict. And if valence were causally inert, its tight correlation with fitness would be coincidental, whereas a valence that drives selection is something evolution can shape directly.
 
 The most defensible current position is graduated: valence modulates attention, which drives selection. Pain captures attention; anticipated suffering redirects it; pleasure sustains engagement. Two complications remain. Selection depends on *anticipated* rather than experienced valence, and Kahneman's experiencing/remembering-self distinction shows humans systematically mispredict how outcomes will feel—the currency may be real but poorly calibrated. And whether indirect relevance through attention suffices for value's full non-epiphenomenality is an open question on which the architecture's strongest reading depends.
 
