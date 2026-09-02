@@ -1,0 +1,203 @@
+---
+title: "Research Notes: Envariance and the Symmetry Derivation of the Born Rule"
+created: 2026-09-02
+draft: false
+ai_contribution: 100
+ai_system: claude-fable-5
+ai_modified: 2026-09-02T22:58:40+00:00
+---
+
+# Research: Envariance and the Symmetry Derivation of the Born Rule
+
+**Date**: 2026-09-02
+
+**Search queries used**: (1) Zurek envariance derivation Born rule circularity Schlosshauer Fine Barnum criticism; (2) envariance Born rule derivation reassessment 2023 2024 2025 criticism assumptions; (3) Vaidman "Derivations of the Born Rule" chapter Quantum Probability and Logic 2020 envariance. Plus raw-artefact downloads this run: arXiv e-print TeX for Zurek PRL 2003 (quant-ph/0211037, EPnew.tex), Zurek PRA 2005 (quant-ph/0405161, PrEn2.tex), Schlosshauer & Fine (quant-ph/0312058, born.tex), Mohrhoff (quant-ph/0401180, probenv.tex), Barnum (quant-ph/0312150, nosig4withbib.tex), Zurek 2022 Entropy (2208.09019, entropy1520235.tex), Zurek RMP 2003 (quant-ph/0105127, AGRANEW.tex), Zurek Nature Physics 2009 (0903.5082, QDnat44.tex); pdftotext for Caves's unpublished notes (info.phys.unm.edu/~caves/reports/ZurekBornderivation.pdf); Europe PMC fullTextXML for Mertens & van Wezel 2023 (PMC10047787); Crossref JSON for 10.3390/e25030435 and 10.1103/PhysRevLett.90.120404; arXiv abs metadata for quant-ph/0312150; arXiv HTML for Stoica (2209.08621v6) and Lela (2603.24619v1).
+
+**Verification discipline**: every quotation marked **[grep-verified]** was literal-grep-matched against a raw downloaded artefact (arXiv TeX source, pdftotext of a PDF, Europe PMC XML stripped locally, or Crossref/arXiv metadata records). Quotations marked **[catalogue-copy]** come from search summaries or unobtainable texts and must NOT be promoted to verbatim status downstream. TeX caveat: Zurek's TeX carries spaced hyphens ("environment - assisted") and TeX markup; quoted spans are reassembled with normal punctuation, constituent phrases individually grep-matched. pdftotext caveat (Caves): spans reassembled across line breaks, phrases individually matched. All absence claims below are scoped to the named arXiv/pdftotext artefacts, not to publisher page text.
+
+## Executive Summary
+
+Envariance (entanglement-assisted invariance) is Zurek's symmetry — a transformation on a system that can be undone by a transformation on its entangled partner alone — from which he derives Born's rule in three steps: phase envariance, equal-amplitude swap symmetry, and a fine-graining construction for unequal amplitudes. Zurek maintains to the present (Entropy 2022) that the derivation is "manifestly noncircular"; the critical literature (Barnum 2003; Schlosshauer & Fine 2005; Caves 2004/2005 unpublished; Mohrhoff 2004; Mertens & van Wezel 2023) converges on the diagnosis that probability is assumed to attach to states before the symmetry argument fixes its form — "put probabilities in to get probabilities out" — while disagreeing about which assumption does the work. The corpus's standing three-sentence verdict in [[topics/quantum-darwinism-and-consciousness]] (measure fixed, actuality untouched) is well supported by the raw sources and needs anchoring, not correction. Three citation defects surfaced under grep-verification and are binding findings below: the Entropy 2023 critique is by **Mertens & van Wezel**, not "Máttyus, E." (wrong-surname class, 2 live files + archive); "Barnum et al. (2000)" is cited as an envariance critic in two files but is the Deutsch decision-theory critique that predates envariance (the correct citation is Barnum 2003, quant-ph/0312150); and the claim the corpus attributes to Schlosshauer-Fine ("the auxiliary assumption ... is itself strong enough to yield the Born rule directly") is verbatim-traceable to **Barnum's** abstract and greps zero in the Schlosshauer-Fine TeX. **Consumption Verdict** (binding, end of note): standalone concepts page; both fold candidates are length-blocked (the interface article sits 1,314 words over its hard threshold under a standing human deferral; the probability-problem article sits 3 words under its own hard threshold).
+
+## Corpus Survey: What the Map Already Asserts, and Where
+
+Live footprint (grep `-il "envarian"` both trees this run, content sections only): **12 articles** — 5 topics, 4 concepts, 3 apex — plus 3 research notes. The mint's "three sentences plus five further files" undercounts. No file works the derivation; the fullest treatment is three short paragraphs.
+
+**Claims the new page must anchor** (they are the corpus's considered position; the page should own their justification):
+
+1. **The measure/actuality verdict** — [[topics/quantum-darwinism-and-consciousness]] L86–88: envariance is "a mathematical result" that "does not address why one outcome becomes actual"; "Envariance tells us that the Born-rule probabilities are the only consistent ones to assign—it does not convert probabilities into actualities." **[grep-verified in corpus]** Supported by the raw sources: Zurek's own derivation defines outcomes (pointer states, via the repeatability postulate) before probabilities are derived over them, and Mertens & van Wezel sharpen the same gap (below).
+2. **The existing three-paragraph treatment** — [[topics/probability-problem-in-many-worlds]] §"Envariance: Symmetry Without Circularity?" (L126–132): correct in outline (symmetries of entangled states; critics say probability-attachment is assumed; "Envariance shows the form probabilities must take *if they exist*"), but carries the Barnum mispair (finding 2 below).
+3. **The Map's own positive borrow** — [[apex/post-decoherence-selection-programme]] L83 ("envariance derives the Born weights from entanglement-assisted invariance, not from quantum Darwinism's redundancy analysis (Zurek 2005)"), L87 ("envariance grounding the probabilities"), L167 ("envariance the weights"). The division-of-labour claim is confirmed at the source: the QD Nature Physics TeX (0903.5082) presents QD as "a framework for the derivation of Born's rule" **[grep-verified]** and defers the derivation to the envariance box — redundancy analysis does not itself deliver the weights. But "grounding" is stronger than the contested literature warrants (see the calibration seam, finding 4).
+4. **The calibrated adjudication** — [[apex/one-world-wager]] L56: the derivations "remain contested within the Everettian literature itself ... contested, not refuted." This is the calibration the new page should propagate.
+5. **Passing statements to inherit consistently**: [[apex/what-consciousness-tells-us-about-physics]] L148/L150 (envariance among internal derivations that "succeed as proofs ... *given* the formalism"); [[concepts/causal-consistency-constraint]] L53 (Zurek 2005 in the reconstruction sequence; "None explains the existence of definite outcomes"); [[concepts/quantum-probability-consciousness]] L77; [[concepts/quantum-interpretations]] L108; [[topics/consciousness-and-probability-interpretation]] L125/L142; [[topics/born-rule-and-the-consciousness-interface]] L105 (Zhang additivity bottleneck) and L117 (the envariance paragraph carrying findings 1 and 3 below).
+
+**Claims the new page must correct or calibrate** are in the Citation-Fidelity Findings section.
+
+## The Derivation, Worked
+
+All spans in this section grep-verified against the named TeX artefacts.
+
+**Definition** (PRA 2005, PrEn2.tex; same in Entropy 2022): when a unitary acting on system S alone can be undone by a countertransformation acting on environment E alone, restoring the joint state, the joint state is *envariant* under that unitary. Envariance is "an assisted symmetry" (Entropy 2022): the global state is transformed and restored without touching S. Pure classical states are never envariant (Entropy 2022: "pure classical states are never envariant") — the symmetry is distinctively quantum, available only because an entangled whole can be pure while its parts are not.
+
+**Step 0 — the scaffolding.** Zurek works from unitary quantum mechanics plus what he calls the only uncontroversial measurement postulate (repeatability), and three explicit "facts — additional assumptions that may be regarded as obvious" (PRA 2005):
+
+> Fact 1: Unitary transformations must act on the system to alter its state. ... Fact 2: The state of the system S is all that is needed (and all that is available) to predict measurement outcomes, including their probabilities. Fact 3: The state of a larger composite system that includes S as a subsystem is all that is needed (and all that is available) to determine the state of the system S. **[grep-verified]**
+
+Note Fact 2 already speaks of "measurement outcomes, including their probabilities" — the locus where every critic finds probability entering.
+
+**Step 1 — phase envariance.** For a Schmidt-form state, phases of the Schmidt coefficients can be altered by acting on E alone; by the facts, the state of S — hence anything measurable on S — cannot depend on them. This is decoherence recovered without reduced density matrices, which matters because the standard trace-based route "is justified using Born's rule" and so "raises concerns of circularity" (Entropy 2022, L1197) **[grep-verified]** — envariance is Zurek's designed escape from that circle.
+
+**Step 2 — equal amplitudes.** For an even state (equal |coefficients|), a swap on S can be undone by a counterswap on E; by the same logic the probabilities of the swapped alternatives must be equal, hence 1/N. Zurek claims this "bypasses circularity: We have simply identified certainty with the probability of 1" **[grep-verified]**, with the symmetry doing the rest.
+
+**Step 3 — unequal amplitudes.** For coefficients proportional to √(m_k), introduce a "counterweight / counter" ancilla C, fine-grain each |C_k⟩ into m_k equal-amplitude components, and apply a c-shift correlating E with the fine-grained states; the resulting SC–E state is even, so step 2 gives each fine-grained alternative probability 1/M, and summing the m_k members of each coarse cell yields p_k = m_k/M = |ψ_k|² **[construction grep-verified, PrEn2.tex Eqs. 8–9]**. Continuity extends from rational to real amplitudes.
+
+**The additivity claim.** Zurek is explicit that the summing move is where a critic might balk, and explicit that he thinks it is earned: "while additivity of probabilities looks innocent, in the quantum case (where the principle of superposition entitles one to add complex amplitudes) it should not be taken for granted ... we shall conclude that additivity of probabilities is tied to envariance" (PRA 2005) **[grep-verified]**; and in the QD paper, the envariant derivation "does not assume probabilities are additive (except to posit that probability of an event and its complement are certain, i.e., to establish normalization ...)" (0903.5082) **[grep-verified]**. This matters for the corpus because the Zhang (2026) additivity-bottleneck preprint, which [[topics/born-rule-and-the-consciousness-interface]] L105 reports, asserts the opposite of what Zurek explicitly claims for his own proof — the corpus currently reports Zhang's side without noting that Zurek pre-emptively contests exactly this point. The new page should carry both.
+
+## Key Sources
+
+### Zurek — the primary sequence
+- **PRL 2003** (quant-ph/0211037; *Phys. Rev. Lett.* 90, 120404 — title and metadata Crossref-verified: "Environment-Assisted Invariance, Entanglement, and Probabilities in Quantum Physics"): the debut. Abstract: "I introduce environment-assisted invariance — a symmetry related to causality that is exhibited by correlated quantum states — and describe how it can be used to understand the nature of ignorance and, hence, the origin of probabilities in quantum physics." **[grep-verified]**
+- **RMP 2003** (quant-ph/0105127, AGRANEW.tex; *Rev. Mod. Phys.* 75, 715): envariance already present in the review's final version (§"The nature of the resolution and the role of envariance"), citing "(Zurek, 2002b)" — i.e. the idea dates to the 2002 preprint of the PRL. **[grep-verified]**
+- **PRA 2005** (quant-ph/0405161, PrEn2.tex; *Phys. Rev. A* 71, 052105): the full derivation, the three facts, the counterweight construction, and the strong gloss: "For more general states, envariance leads to Born's rule, p_k ∝ |ψ_k|² for the outcomes associated with Schmidt states. Probabilities derived in this manner are an objective reflection of the underlying state of the system." **[grep-verified]**
+- **Nature Physics 2009** (0903.5082, QDnat44.tex): QD "provides a framework for the derivation of Born's rule" **[grep-verified]**; the envariance discussion notes the derivation "is very different from the classic proof of Gleason in that it sheds light on the physical significance of the resulting measure" **[grep-verified]** and makes the no-additivity claim quoted above. Confirms the corpus's division of labour: redundancy secures objectivity, envariance the weights.
+- **Entropy 2022** (2208.09019; *Entropy* 24(11), 1520): the mature statement the QD article cites. Abstract: "I show that the symmetry of entangled states—entanglement-assisted invariance or envariance—implies Born's rule" and "A simple and manifestly noncircular derivation of p_k = |ψ_k|² follows." **[grep-verified]** Also documents (citing Drezet 2021) that "envariance has been recently adopted (Wallace, 2010; 2012) even in the (modified) decision theory approach" **[grep-verified]** — the Everettian decision-theoretic programme now leans on envariance rather than competing with it.
+- **Tenet alignment**: Zurek's own reading is no-collapse ("existential"), adjacent to Everett — conflicts with Tenet 4. The derivation's mathematics is interpretation-neutral in his presentation; whether its persuasiveness is, is exactly what Barnum contests (below).
+
+### Barnum, "No-signalling-based version of Zurek's derivation of quantum probabilities" (arXiv:quant-ph/0312150, 2003; unpublished note — no journal ref on arXiv)
+- Title and sole authorship verified from arXiv metadata **[grep-verified]**.
+- Abstract: "a natural generalization of the auxiliary assumption is actually strong enough to yield the Born rule itself, but ... Zurek's argument and protocol can be adapted to do without this assumption, at the cost of using envariance of probability in both directions." **[grep-verified]** — the *source* of the "auxiliary assumption yields Born directly" claim the corpus attributes to Schlosshauer-Fine (finding 3).
+- Repairs the argument via a no-signalling motivation, then concedes the repair's persuasiveness is interpretation-relative: "the relative appeal of our version and the original version of Zurek's argument depends in part upon whether one interprets the quantum formalism in terms of relative states or definite measurement outcomes." **[grep-verified]**
+- **Tenet alignment**: that last sentence is the sharpest Tenet 4 lever in the literature — the derivation's best-repaired form is at its most compelling inside a relative-state (Everettian) reading, which the Map rejects. A Map page that borrows envariance's measure must own this.
+
+### Schlosshauer & Fine, "On Zurek's Derivation of the Born Rule" (arXiv:quant-ph/0312058; *Found. Phys.* 35, 197–213, 2005)
+- Abstract: "We review this approach and identify fundamental assumptions that have implicitly entered into it, emphasizing issues that any such derivation is likely to face." **[grep-verified]**
+- Their concluding four-assumption ledger **[all grep-verified]**: (1) outcome probabilities identified with eigenstate probabilities (eigenvalue–eigenstate link); (2) probabilities of an entangled S are a function of the local properties of S, exclusively determined by the composite state vector; (3) in a Schmidt state, the probability for |s_k⟩ *equals* the probability for |e_k⟩; (4) probabilities are *unchanged* under envariant transformations acting on the other subsystem.
+- The verdict: "We cannot derive probabilities from a theory that does not already contain some probabilistic concept; at some stage, we need to 'put probabilities in to get probabilities out'. Our analysis suggests that this has been done via assumption (3)." **[grep-verified]** And assumption (4) "neither follows from envariance alone nor from assumption (2)" **[grep-verified]** — their distinction between probabilities being independent of an envariant *property* (licensed) and invariant under an envariant *transformation* (assumed) is the paper's precision instrument.
+- **Absence note**: the string "auxiliary" greps **zero** in born.tex; the corpus sentence crediting them with the auxiliary-assumption result belongs to Barnum (finding 3).
+
+### Caves, "Notes on Zurek's derivation of the quantum probability rule" (unpublished, 2004, modified 2005; info.phys.unm.edu/~caves/reports/ZurekBornderivation.pdf)
+- Names the load-bearing premise: probabilities for S are assumed independent of the environmental states — "This is a kind of foundational noncontextuality assumption that underlies the whole approach. I will call it environmental noncontextuality (EN)." **[grep-verified]**
+- On the fine-graining step: the counterweight construction means "the notion of outcomes for system A requires us to think in terms of two other systems correlated in a particular way," which "wrecks the nice-looking symmetry" and "really should have been stated at the outset" **[grep-verified]**; verdict: "In the end one is left wondering what makes the envariance argument any more compelling than just asserting that a swap symmetry means that a state with equal amplitudes has equal probabilities and then moving on ..." **[grep-verified]**
+- **Status caution**: an unpublished web note — citable as such, not as peer-reviewed literature.
+
+### Mohrhoff, "Probabilities from envariance?" (arXiv:quant-ph/0401180; *Int. J. Quantum Inf.* 3(1), 221, 2005)
+- Abstract: Zurek's noncircularity claim "is exaggerated if not wholly unjustified"; "it is not sufficient to assume that quantum states are somehow associated with probabilities and then prove that these probabilities are given by Born's rule. One has to show how irreducible probabilities can arise in the context of an ontological no-collapse interpretation of quantum states." **[grep-verified]**
+- Presses the existence/form gap in the same shape the Map does — from a different metaphysics (states as correlation algorithms). The corpus's date "(2004)" matches the arXiv year; the journal printing is 2005 — either citation form is defensible if consistent.
+
+### Mertens & van Wezel, "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement" (*Entropy* 25(3), 435, 2023)
+- **Authorship Crossref-verified**: Lotte Mertens; Jasper van Wezel. The corpus's "Máttyus, E." is a wrong surname (finding 1).
+- Abstract: envariance-based arguments "can be applied to any model for quantum state reduction, regardless of whether ... linear or nonlinear," which "appears to contradict the recent proof that general two-state time evolution can only yield the emergence of Born's rule if the dynamics is nonlinear. Here, we resolve the paradox by revealing an assumption in the envariance-based analysis, which significantly limits its applicability." **[grep-verified, Europe PMC XML]**
+- Conclusion: the envariance arguments "only show that, for each initial system state, it is possible to define a (non-local) measurement machine that projects onto a combined system–environment state with Born rule (equal) probabilities. This definition of the measurement machine is different for" each state — "Clearly, this does not correspond to physical experience, in which the same measurement machine can be used to measure any state of a system." **[grep-verified]**
+- **Why this is the strongest 2020s entry**: it converts the circularity dispute into a scope theorem — envariance guarantees a Born-weighted *description exists*, not that actual measurements instantiate it. That is the corpus's measure/actuality distinction, derived from inside the formalism.
+
+### Recent framing (2020s)
+- **Drezet 2021** (*Quantum Stud. Math. Found.* 8, 315; arXiv:2011.11501 — metadata from Zurek 2022's bibliography **[grep-verified there]**, paper itself not pulled): analyses the convergence of Wallace's later decision theory with envariance.
+- **Stoica 2022–25** (arXiv:2209.08621; *Int. J. Theor. Phys.*, 2025): catalogues envariance among derivations "accused of circularity in Schlosshauer and Fine (2003)" **[grep-verified in HTML]** — evidence the circularity charge is now the standard literature framing, not a partisan reading.
+- **Lela 2026** (arXiv:2603.24619): a fresh derivation attempt that advertises itself as using "no appeal to Gleason's theorem, no decision-theoretic axiom, and no envariance argument" **[grep-verified in HTML]** — envariance now sits on the list of routes new proposals must claim independence from.
+- **Vaidman 2020**, "Derivations of the Born Rule," in Hemmo & Shenker (eds.), *Quantum, Probability, Logic* (Springer) **[catalogue-copy — PDF not obtainable raw this run]**: standard survey; cite as a pointer only.
+- **Zhang 2026** (arXiv:2603.06211, preprint): the additivity-bottleneck claim already carried, with caveats, at [[topics/born-rule-and-the-consciousness-interface]] L105. Set against Zurek's explicit no-additivity claim (§The Derivation, Worked) this is a live, unresolved dispute — the new page should present it as such rather than adjudicate.
+
+## Major Positions
+
+### Zurek: noncircular objective probabilities from symmetry
+- **Core claim**: envariance justifies ignorance of outcomes from perfect knowledge of the entangled whole; swap symmetry plus fine-graining forces p_k = |ψ_k|², with additivity earned, not assumed.
+- **Relation to tenets**: the result the Map wants (a rigid Born measure) inside a no-collapse reading the Map rejects (Tenet 4). Zurek's derivation *presupposes* events/outcomes via the repeatability postulate and Fact 2 — it never claims to produce actuality, which is why the corpus's verdict survives contact with the primary texts.
+
+### The circularity critics: probability in, probability out
+- **Proponents**: Barnum 2003; Caves 2004/05; Mohrhoff 2004/05; Schlosshauer & Fine 2005.
+- **Core claim**: some assumption linking states to probabilities (S&F's (3), Caves's EN, Barnum's auxiliary assumption) does the real work; the symmetry then fixes the form. The critics differ on *which* assumption and on repairability (Barnum repairs with no-signalling; Caves finds the repair unattractive; Mohrhoff thinks no repair can produce irreducible probabilities from deterministic states).
+- **Relation to tenets**: congenial to the Map's existence/form distinction — but the same knife cuts the Map's own borrow (see Key Debates).
+
+### The scope critics: right rule, wrong quantifier
+- **Proponents**: Mertens & van Wezel 2023.
+- **Core claim**: envariance shows a Born-weighted measurement machine *can be defined* per state, not that all measurements obey Born statistics; linear collapse models satisfying envariance never produce Born's rule.
+- **Relation to tenets**: strengthens the QD article's verdict, and independently interesting for Tenet 2: the Born-measure constraint on any selection mechanism is *not* delivered by envariance alone — the Map's Born-preservation commitments (via [[concepts/causal-consistency-constraint]] and Gleason) do not inherit envariance's troubles.
+
+### The Everettian absorption
+- **Proponents**: Wallace 2010/2012 (per Drezet 2021 and Zurek 2022); Sebens & Carroll engage envariance within self-location.
+- **Core claim**: envariance-style symmetry arguments now underwrite branch weights inside the decision-theoretic programme.
+- **Relation to tenets**: direct Tenet 4 contact — envariance is "the Everettian's best probability story" (the mint's phrase) in the concrete sense that the rival programmes have partly merged with it. Barnum's interpretation-relativity point says the merged programme's persuasiveness is again strongest under relative states.
+
+## Key Debates
+
+### 1. Is the derivation circular?
+Zurek: no — certainty-as-probability-1 plus symmetry; "manifestly noncircular" (2022). Critics: yes at the state-probability link (S&F (3), EN, auxiliary assumption). Current state: contested, not refuted — the corpus's one-world-wager calibration is the accurate one, and flat "proves circular" phrasings overstate (finding 4).
+
+### 2. Is additivity assumed?
+Zurek explicitly claims envariance *avoids* assuming additivity (grep-verified in both PRA 2005 and the QD paper); Zhang 2026 (preprint) claims every leading derivation including envariance "helps itself to additivity." The corpus currently carries only Zhang's side. Unresolved; both sides should be presented.
+
+### 3. What does the theorem actually quantify over?
+Mertens & van Wezel: existence of a per-state Born-weighted machine, not universality over measurements. This is the sharpest modern support for the Map's measure/actuality line — and it also means envariance cannot serve as the *sole* ground for "any selector must respect Born statistics." The Map's Born-preservation constraint is safer resting on Gleason and the causal-consistency result, with envariance as one member of the reconstruction sequence — which is how [[concepts/causal-consistency-constraint]] L53 already lists it.
+
+### 4. Can the Map borrow the measure while refusing the branches?
+The corpus already does borrow it ([[apex/post-decoherence-selection-programme]]: "envariance grounding the probabilities"). Cost analysis from this run's sources: (a) the derivation's assumptions (Facts 1–3) are interpretation-neutral as stated, so a one-world reading can accept the *theorem*; (b) but Barnum's point — the argument is most compelling under relative states — plus the critics' diagnosis that probability-attachment is assumed mean the Map should describe envariance as *fixing the form of the measure given that outcomes carry probabilities* (which, on the Map's view, the actualisation postulate supplies), not as "grounding" probability outright. That reframing makes the borrow honest and immune to the circularity dispute: the Map puts probability in by positing genuine single-case openness, and envariance (with Gleason and causal consistency) then forces the |ψ|² form. One seam to repair: "grounding" (apex L87) vs "contested, not refuted" (one-world-wager L56) — the new page is the natural place to state the reconciled position both can cite.
+
+## Historical Timeline
+
+| Year | Event/Publication | Significance |
+|------|-------------------|--------------|
+| 1957 | Gleason's theorem | Prior symmetry-family constraint; envariance later contrasted with it (QD 2009) |
+| 2002 | quant-ph/0211037 posted (Nov) | Envariance introduced; "symmetry related to causality" |
+| 2003 | PRL 90, 120404; RMP 75, 715 | Published debut; RMP's resolution section already leans on envariance |
+| 2003 | Barnum, quant-ph/0312150; S&F preprint quant-ph/0312058 (Dec) | First critical wave: auxiliary assumption; four assumptions |
+| 2004 | Caves's notes; Mohrhoff preprint | EN noncontextuality named; "exaggerated if not wholly unjustified" |
+| 2005 | PRA 71, 052105; *Found. Phys.* 35, 197; IJQI printing of Mohrhoff | Full derivation and the canonical critique in print the same year |
+| 2009 | Nature Physics QD paper | Division of labour: QD the framework, envariance the weights; no-additivity claim |
+| 2010–12 | Wallace's decision theory (per Drezet 2021) | Everettian programme absorbs envariance-style symmetry |
+| 2022 | *Entropy* 24, 1520 | "Manifestly noncircular" — Zurek's position unchanged by two decades of critique |
+| 2023 | Mertens & van Wezel, *Entropy* 25, 435 | Scope theorem: per-state machine existence, not universality |
+| 2026 | Zhang preprint; Lela preprint | Additivity bottleneck asserted; new derivations advertise envariance-independence |
+
+## Citation-Fidelity Findings (binding on downstream consumers)
+
+1. **Wrong surname — "Máttyus, E. (2023)" should be Mertens, L. & van Wezel, J. (2023)**. Crossref for 10.3390/e25030435 and Europe PMC PMC10047787 both give Lotte Mertens and Jasper van Wezel as the authors of "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement," *Entropy* 25(3), 435. No author named Máttyus exists on the record (masi-2023 wrong-surname class — the DOI, title, journal, volume and content pairing are all correct; only the name is fabricated). **Loci**: [[topics/born-rule-and-the-consciousness-interface]] L117 + ref 24 (and hugo mirror L123/L301); [[research/born-rule-derivation-attempts-2026-03-14]] L64, L67, L159 (and hugo mirror) — the propagation source; `archive/topics/born-rule-derivation-failures-consciousness-collapse.md` L60, L143 (root archive tree) and its hugo mirror L64, L143. Review-file echo in optimistic-2026-07-15 is a record, not a defect.
+2. **Anachronistic critic — "Barnum et al. (2000)" cited against envariance**. [[topics/probability-problem-in-many-worlds]] L130 pairs "Mohrhoff (2004) and Barnum et al. (2000)" as critics of the envariance derivation; its ref 3 is Barnum, Caves, Finkelstein, Fuchs & Schack (2000), *Proc. R. Soc. A* 456, 1175 — the critique of **Deutsch's decision-theoretic** derivation, published before envariance existed (2002). The correct envariance-facing citation is Barnum, H. (2003), arXiv:quant-ph/0312150 (solo, unpublished). Same mispair in `archive/topics/decision-theory-cannot-save-many-worlds.md` L102 (+ hugo archive mirror). The L130 *content* ("assumes from the outset that probabilities attach to quantum states") is a fair summary of the S&F/Caves/Mohrhoff line and survives re-citation.
+3. **Attribution transfer — Barnum's result credited to Schlosshauer-Fine**. "Schlosshauer-Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes yields the Born rule directly" ([[topics/born-rule-and-the-consciousness-interface]] L117; sourced from [[research/born-rule-derivation-attempts-2026-03-14]] L67; fullest form in `archive/topics/born-rule-derivation-failures-consciousness-collapse.md` L60). The claim is verbatim-shaped from **Barnum's** abstract ("a natural generalization of the auxiliary assumption is actually strong enough to yield the Born rule itself" **[grep-verified]**); the string "auxiliary" greps **zero** in the S&F TeX (quant-ph/0312058, Sept 2004 revision — publisher text unchecked). S&F's actual result is the four-assumption ledger and the assumption-(3)/"put probabilities in" diagnosis. Fix shape: re-attribute the auxiliary-assumption sentence to Barnum (2003) and characterise S&F correctly; do not delete either critique.
+4. **Calibration seam — flat "proves circular" vs "contested, not refuted"**. [[topics/indexical-identity-quantum-measurement]] L99 says every recovery strategy "proves circular"; [[concepts/quantum-interpretations]] L108 says the recoveries "each fail"; [[concepts/many-worlds]] L102 states the assumption charge as settled. The corpus's own calibrated form ([[apex/one-world-wager]] L56: "contested, not refuted"; [[topics/probability-problem-in-many-worlds]]'s hedged prose) is the defensible one, given Zurek's standing 2022 rebuttal and Barnum's partial repair. The new page should state the calibrated adjudication once so the flat phrasings have something to be tightened against; the phrasings themselves are a small-bore integration-pass repair, not urgent.
+
+## Potential Article Angles
+
+1. **Own the derivation and its audit** (the recommended shape): definition and the three steps; Zurek's three facts verbatim; the four-critic map (S&F's ledger, Caves's EN, Barnum's repair-and-relativity, Mohrhoff's existence demand); Mertens & van Wezel as the modern scope theorem; the additivity dispute presented two-sided (Zurek's explicit denial vs Zhang's preprint). Close with the Map's reconciled borrow: envariance fixes the form of the measure *given* single-case openness the actualisation postulate supplies; Born-preservation for the corridor rests on the Gleason/causal-consistency family, of which envariance is one contested member. Tenets: 4 (the Everettian absorption and Barnum's relative-state point), 2 (why the selector's Born constraint does not stand on envariance alone), 5 (a symmetry so elegant it keeps being adopted by rivals is still not a substitute for the thing it presupposes).
+2. **Sharpen, not soften**: the QD article's three sentences are correct and should become the page's thesis statement, now with primary-source anchoring (Fact 2; the repeatability postulate; Mertens & van Wezel's machine-dependence).
+3. **Ride the fix tasks**: findings 1–3 are one-to-three-line repairs in five files (plus mirrors); they belong with the integration pass that links the new page into its deployers, or in a dedicated quote-fidelity refine task if the driver prefers.
+
+When writing the article, follow `obsidian/project/writing-style.md` (LLM-first front-loading, named-anchor summaries, tenet alignment section) and `obsidian/project/evidential-status-discipline.md` (the borrow must be stated as framework-internal, not as neutral support).
+
+## Gaps in Research
+
+- Publisher page texts unchecked throughout: all absence claims scoped to arXiv TeX / pdftotext / Europe PMC artefacts (notably: S&F "auxiliary" absence is against the arXiv revision; Zurek PRA against quant-ph/0405161).
+- Drezet 2021 and Vaidman 2020 not pulled raw — both cited from metadata (Zurek 2022's bibliography; Springer catalogue); any quotation from either must wait on a raw pull.
+- Zhang 2026 not re-pulled this run; carried at the corpus's existing caveat level (preprint awaiting verification).
+- No systematic sweep of Everettian responses defending envariance beyond Wallace's absorption (e.g., Saunders's branch-counting lineage engages it; not examined).
+- Schlosshauer's later solo treatments (2007 book §; 2019 *Physics Reports*) not checked for updated verdicts on envariance specifically — the sibling note [[research/improper-versus-proper-mixtures-2026-09-02]] holds raw copies of the 2004/2019 reviews if the expand phase wants them.
+- The corpus's "(2003, 2005)" dating of the derivation is defensible (PRL 2003 + PRA 2005); no fix needed there.
+
+## Consumption Verdict
+
+**Standalone concepts page — with both fold routes explicitly priced and declined.**
+
+- **Fold into [[topics/born-rule-and-the-consciousness-interface]]**: measured this run at **5,314 words against a 4,000-word hard threshold** (`analyze_length`, status `hard_warning`), standing over threshold under a **human length deferral** (run-1019 state note, which directs this research to weigh that constraint toward standalone). Its envariance paragraph (L117) is two sentences, one of which carries finding 3; the honest repair there is a *correction*, roughly length-neutral. Folding a worked derivation plus a four-critic audit into a length-parked file has no supersession funding — **DEFER the fold; do the L117 correction as a fix, not an expansion.**
+- **Fold into [[topics/probability-problem-in-many-worlds]]** (the other natural host — it owns the fullest existing treatment): measured this run at **3,997/4,000 words** — 3 words under its hard threshold. No headroom for anything beyond the finding-2 re-citation, which is again length-neutral.
+- **Decline-entirely** was seriously considered: the 2026-07-15 optimistic review rated this subject "lower priority because it is well-covered *as a derivation attempt* inline." What this run found that the decline posture cannot absorb: three grep-verified citation defects clustered exactly on the inline coverage (two of them propagated from the 2026-03-14 research note into live and archive pages), a two-sided additivity dispute of which the corpus carries only one side, a modern scope theorem (Mertens & van Wezel) that strengthens the Map's central verdict and is currently cited under a fabricated author name, and an unexamined tension between the Map's positive borrow ("envariance grounding the probabilities") and its own calibrated "contested, not refuted." That is page-shaped: no deployer can absorb it within length constraints, and every deployer would benefit from one canonical anchor.
+- **Target**: concepts/ (run-1019 live measure 321/360 — **re-measure at expand time with `tools.evolution.state.count_section_files`**, never from a table). Proposed slug: `concepts/envariance` (bare, matches the term of art; no live collision — no envariance-named file exists in either tree; expand phase should still run check-slug plus an explicit archive-redirect collision check). Scope: short-to-medium concept page (~2,000–2,500 words; concepts thresholds printed live this run: soft 2,500 / hard 3,500 / critical 5,000).
+- **Quote discipline for the expand phase**: only spans marked [grep-verified] here may appear as verbatim quotes; Vaidman and Drezet stay cite-only; the Caves notes must be flagged as unpublished; Zhang stays preprint-caveated.
+- **Follow-on shape**: expand-topic (`concepts/envariance`) → cross-review/integration pass over the highest-value deployers ([[topics/quantum-darwinism-and-consciousness]], [[topics/probability-problem-in-many-worlds]], [[apex/post-decoherence-selection-programme]], [[topics/born-rule-and-the-consciousness-interface]], [[concepts/many-worlds]]) → citation-fidelity findings 1–3 fixed either riding that pass or as a dedicated refine task (driver's choice; finding 1 spans live + research + root-archive + hugo-archive trees and should be fixed by string, per the archive-sweep discipline). Findings are recorded here only; todo.md and evolution-state.yaml deliberately untouched per skill contract.
+
+## Citations
+
+- Barnum, H. (2003). No-signalling-based version of Zurek's derivation of quantum probabilities: A note on "Environment-assisted invariance, entanglement, and probabilities in quantum physics." arXiv:quant-ph/0312150 (unpublished).
+- Barnum, H., Caves, C. M., Finkelstein, J., Fuchs, C. A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175–1182. [Deutsch critique — cited here only to disambiguate finding 2.]
+- Caves, C. M. (2004/2005). Notes on Zurek's derivation of the quantum probability rule. Unpublished notes, info.phys.unm.edu/~caves/reports/ZurekBornderivation.pdf.
+- Drezet, A. (2021). Making sense of Born's rule p_α = ||Ψ_α||² with the many-minds interpretation. *Quantum Studies: Mathematics and Foundations*, 8, 315. arXiv:2011.11501. [Metadata from Zurek 2022 bibliography; not pulled raw.]
+- Lela, M. (2026). The Born Rule as the Unique Refinement-Stable Induced Weight on Robust Record Sectors. arXiv:2603.24619.
+- Mertens, L. & van Wezel, J. (2023). Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement. *Entropy*, 25(3), 435. doi:10.3390/e25030435. PMC10047787.
+- Mohrhoff, U. (2005). Probabilities from envariance? *International Journal of Quantum Information*, 3(1), 221–229. arXiv:quant-ph/0401180 (2004).
+- Schlosshauer, M. & Fine, A. (2005). On Zurek's Derivation of the Born Rule. *Foundations of Physics*, 35(2), 197–213. arXiv:quant-ph/0312058 (2003).
+- Stoica, O. C. (2025). Born Rule: Quantum Probability as Classical Probability. *International Journal of Theoretical Physics* (2025). arXiv:2209.08621.
+- Vaidman, L. (2020). Derivations of the Born Rule. In M. Hemmo & O. Shenker (eds.), *Quantum, Probability, Logic* (Ch. 26). Springer. doi:10.1007/978-3-030-34316-3_26. [Catalogue-copy.]
+- Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211 (preprint).
+- Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775. arXiv:quant-ph/0105127.
+- Zurek, W. H. (2003). Environment-Assisted Invariance, Entanglement, and Probabilities in Quantum Physics. *Physical Review Letters*, 90, 120404. arXiv:quant-ph/0211037 (2002).
+- Zurek, W. H. (2005). Probabilities from entanglement, Born's rule p_k = |ψ_k|² from envariance. *Physical Review A*, 71, 052105. arXiv:quant-ph/0405161.
+- Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5, 181–188. arXiv:0903.5082.
+- Zurek, W. H. (2022). Quantum Theory of the Classical: Einselection, Envariance, Quantum Darwinism and Extantons. *Entropy*, 24(11), 1520. arXiv:2208.09019.

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T22:06:27+00:00'
+ai_modified: '2026-09-02T22:58:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T22:58:40+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Envariance and the symmetry derivation of the Born rule (mint: harvest from optimistic-2026-09-02-rival-ontology-wing §Expansion Opportunities Medium Priority; promoted P3→P2 run 1019)
+- **Output**: [[research/envariance-born-rule-derivation-2026-09-02]]
+- **Sources consulted**: 16 cited; 12 raw artefacts pulled this run (8 arXiv TeX, 1 pdftotext, Europe PMC XML, 2 arXiv HTML, Crossref/arXiv metadata) with every carried quote literal-grep-verified or explicitly flagged catalogue-copy
+- **Corpus census**: 12 live articles mention envariance (5 topics, 4 concepts, 3 apex) + 3 research notes — more than the mint's "three sentences plus five files"; the QD article's measure/actuality verdict grep-verified and confirmed against the primary texts (Zurek's Fact 2 presupposes outcomes-with-probabilities; Mertens & van Wezel 2023 derive the same gap as a scope theorem)
+- **Findings (binding)**: (1) wrong surname — "Máttyus, E. (2023)" is Mertens & van Wezel (Crossref 10.3390/e25030435), loci in born-rule-and-the-consciousness-interface L117/ref 24, research note 2026-03-14, root+hugo archive; (2) "Barnum et al. (2000)" cited as envariance critic in probability-problem-in-many-worlds L130 + archived decision-theory page is the pre-envariance Deutsch critique — correct citation is Barnum 2003 (quant-ph/0312150); (3) the "auxiliary assumption yields Born directly" claim credited to Schlosshauer-Fine is Barnum's abstract verbatim-shaped, 0 hits for "auxiliary" in the S&F TeX; (4) calibration seam: flat "proves circular" phrasings vs the corpus's own "contested, not refuted", with the additivity dispute (Zurek's explicit denial vs Zhang 2026) currently carried one-sided
+- **Verdict**: standalone concepts page (proposed slug concepts/envariance); both fold routes priced and declined — the interface article measures 5,314/4,000 hard under a standing human length deferral (fold DEFERred per run-1019 operator observation), probability-problem-in-many-worlds measures 3,997/4,000. Follow-on chain and integration targets in the note. Todo/state untouched per skill contract
 
 ## 2026-09-02T22:06:27+00:00 - positions-evolve
 - **Status**: Success
