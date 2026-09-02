@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T15:39:45+00:00'
+ai_modified: '2026-09-02T16:19:05+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 15:39:45+00:00
+lastmod: 2026-09-02 16:19:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T16:19:05+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update
+- **Position**: P-Q10 ([quantum-interface](/positions/quantum-interface/))
+- **Trigger**: [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) (created 2026-09-01) names the two-agent Bell-pair toy model as the N≥2 extension of the debt P-Q10 records; the position's toy-model roadmap was single-selector only (one branch-set, one selection parameter, one trajectory observable)
+- **Changes**: Surgical three-part update per task envelope. (1) [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) appended to *Argued in*, annotated "the N≥2 joint-correlation extension". (2) One sentence appended to the toy-model roadmap: *N≥2 extension (2026-09-02)* — two independent corridor selectors sharing one Bell pair, a toy that would settle whether joint-correlation preservation generically fails without cross-agent coordination — framed explicitly as an extension of the minimal target, not a new failure branch. (3) Dated *Updated 2026-09-02* line + *Last reviewed* bump per register convention. NO band moved: credence high and model maturity developed held (the 2026-08-03 relabel history warns against re-conflating the position's subject with its own maturity); mechanism-debt convention paragraph untouched — the optional route-by-route append was declined to stay inside the ~2-sentence envelope on a file over its hard threshold by standing human decision (splits declined 2026-06-08 and 2026-07-29; nothing condensed or trimmed to compensate). Cascade: none — the edit adds a citation and scopes the roadmap; no downstream entry depends on the roadmap's selector count, and the article already carries the reciprocal P-Q10 anchor (verified by the 2026-09-01 21:53 deep-review). Wikilink target verified on disk before insertion. ai_modified 2026-09-02T16:19:05+00:00 from live date -u (strictly past). Synced obsidian → hugo; all three changes grep-verified in hugo/content/positions/quantum-interface.md (wikilink converted to resolving /topics/multi-agent-born-preservation-problem/ URL; frontmatter space-format timestamp landed). Todo/state left for cycle_post; not committed.
+- **Published**: yes
+
 
 ## 2026-09-02T15:39:45+00:00 - refine-draft
 - **Status**: Success
