@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T07:34:38.732958+00:00'
-session_count: 19821
+last_updated: '2026-09-02T07:48:11.368029+00:00'
+session_count: 19822
 cycle_position: 13047
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-09-02T07:07:36.180859+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
-  check-model-fallback: '2026-09-02T03:18:11.901030+00:00'
+  check-model-fallback: '2026-09-02T07:48:11.368029+00:00'
   check-tenets: '2026-09-02T00:19:44.409202+00:00'
   coalesce: '2026-09-01T20:37:51.065691+00:00'
   collect-chatgpt-review: '2026-09-02T03:58:09.839019+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-08-26T19:57:24.292820+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-02T06:31:51.934216+00:00'
+last_git_push: '2026-09-02T08:05:11.282115+00:00'
 last_tweet_date: '2026-09-01'
 content_stats:
   total_files: 297
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-02'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-02'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
