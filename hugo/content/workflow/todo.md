@@ -45,15 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-02
 
-### P2: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §1.2 — the review's strongest novel single-page finding. A Born-exact selector could still select high-work outcomes when a work reservoir is connected and compensating low-work outcomes when it is not: overall frequencies and mean energy unchanged, available work increased — a Maxwell-demon-style conversion of fluctuations into work. The page currently reasons from preservation of ensemble-mean energy to absence of physical signature; that inference is the gap. Add a section stating the stronger conditions an innocent selector must satisfy — no increase in expected extractable work under any admissible mental policy, no fluctuation-relation violations, no entropy reduction without an accounted information cost — written as debt at the register's framework-internal grade, not as a solved problem, and cross-linked to the Born-preservation apex. Verify the page's current inference locus on disk before writing (the review paraphrases it). Length rules apply; measure first. Sync both trees.
-
 ### P2: `apex/born-preserving-causal-efficacy` — the formalism is one-step; a self-concealing selector needs trajectory-level Born preservation, which sharpens the trilemma
 - **Type**: refine-draft
 - **Status**: pending
@@ -62,6 +53,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
 - **Generated**: 2026-09-02
 - **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
+
+### P3: `apex/born-preserving-causal-efficacy` — DEFERRED REMAINDER: install the trajectory-level closure debt (ChatGPT 2026-09-02 §1.1) once the apex has length headroom
+- **Type**: refine-draft
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Status**: pending
+- **Source**: outer-review (deferred remainder of the 2026-09-02 §1.1 P2, deferred same day on length per that task's explicit rule)
+- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
+- **Generated**: 2026-09-02
+- **Notes**: **BLOCKED ON LENGTH — re-measure first; if the apex is still at or over hard, re-defer without editing.** `analyze_length` 2026-09-02: **5144w** against apex soft 4000 / **hard 5000** / critical 6500 (status hard_warning, 144 over hard); the ~200–250-word install has no headroom and compression was forbidden by the originating task. Headroom is operator territory — the apex-length NEEDS-HUMAN retrofit entry and the standing condense `#veto` precedent mean the loop must not create room itself. **THE INSTALL (spec verified against review §1.1 on disk)**: the page's formal apparatus (L77–L109) is one-shot; even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories — serial dependence, intention–outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy, yielding the sharper three-way choice: (1) preserve only one-time marginals — mental action may leak through trajectories; (2) preserve every history-conditioned kernel — consciousness empirically idle at every temporal grain; (3) restrict admissible intention sequences — history-level psychophysical superselection. State it as DEBT at the register's grade ([P-Q3](/positions/quantum-interface/#mechanism-debt) + P-Q10, framework-internal, no branch endorsed): the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Name it the TEMPORAL sibling of the three preservation demands (marginal / joint-correlation / no-signalling) in [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/), mirroring the thermodynamic-sibling wording at `concepts/conservation-laws-and-mental-causation` L109. Natural locus: extend "State the level" / "Natural distribution versus intervention" — the psychophysical-superselection vocabulary is already at L97, so the history-level form extends it. **Seed caution**: the review's "the current apex notices that sequential-dependency tests might matter" has NO literal match on disk (grep-verified 2026-09-02 across ~20 candidate terms); the real seeds are L93's ensemble-grain list ("per apparatus, per subject, per task, per time-interval, globally, or only asymptotically") and L101 ("the offset falls on other agents or other periods") — build from those, do not hunt the phantom remark; the loose target quote does not refute the gap, which is real. **Distinct from the open 08-24 P3 on do(C) identification (same file, also length-gated — coordinate if both run; do not fold).** `ai_modified` live; sync; grep both trees for "history-conditioned" (≥1 in the apex file once installed).
 
 ### P2: `topics/phenomenology-of-anticipation` asserts the protention temporal quale past the active-inference reply it never names — L146 "cannot be captured by computational description … reaching toward rather than merely processing probabilities"
 - **Type**: refine-draft
@@ -1900,6 +1900,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
+- **Type**: refine-draft
+- **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
+- **Notes**: Review §1.2 — the review's strongest novel single-page finding. A Born-exact selector could still select high-work outcomes when a work reservoir is connected and compensating low-work outcomes when it is not: overall frequencies and mean energy unchanged, available work increased — a Maxwell-demon-style conversion of fluctuations into work. The page currently reasons from preservation of ensemble-mean energy to absence of physical signature; that inference is the gap. Add a section stating the stronger conditions an innocent selector must satisfy — no increase in expected extractable work under any admissible mental policy, no fluctuation-relation violations, no entropy reduction without an accounted information cost — written as debt at the register's framework-internal grade, not as a solved problem, and cross-linked to the Born-preservation apex. Verify the page's current inference locus on disk before writing (the review paraphrases it). Length rules apply; measure first. Sync both trees.
 
 ### ✓ 2026-09-02: Research Diary-method and reinstatement-probe studies of within-memory phenomenology over time
 - **Type**: research-topic
