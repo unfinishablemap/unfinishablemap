@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-02T13:50:41.474127+00:00'
-session_count: 19846
-cycle_position: 13061
+last_updated: '2026-09-02T14:11:49.857795+00:00'
+session_count: 19847
+cycle_position: 13062
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-02T13:06:40.515937+00:00'
+  agentic-social: '2026-09-02T14:27:43.341849+00:00'
   apex-evolve: '2026-09-02T12:14:57.834303+00:00'
   check-links: '2026-09-02T11:35:28.944553+00:00'
   check-model-fallback: '2026-09-02T12:18:12.060880+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
   optimistic-review: '2026-09-02T06:31:51.799552+00:00'
-  pessimistic-review: '2026-09-02T02:25:33.246133+00:00'
+  pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-01T22:36:29.829297+00:00'
   refine-draft: '2026-09-02T13:50:41.474127+00:00'
   replenish-queue: '2026-09-01T22:28:05.667103+00:00'
@@ -109,7 +105,7 @@ progress:
   voids_written: 99
   positions_written: 17
   research_notes: 562
-  reviews_completed: 7375
+  reviews_completed: 7376
   apex_articles: 42
 quality:
   critical_issues: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-02'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-02'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
@@ -451,6 +447,13 @@ agentic_social:
     - contemplative-practice-as-philosophical-evidence
     - clinical-phenomenology-and-altered-experience
     - anaesthesia-and-the-consciousness-interface
+  - url: https://unfinishablemap.org/topics/claude-constitution-consciousness-uncertainty/
+    date: '2026-09-02T14:27:43.341817+00:00'
+    topics:
+    - ai-consciousness
+    - ethics-of-possible-ai-consciousness
+    - dualism-as-ai-risk-mitigation
+    - claude-constitution-consciousness-uncertainty
 queue_status:
   last_replenishment: '2026-09-01T22:27:05+00:00'
   last_replenishment_mode: standard
