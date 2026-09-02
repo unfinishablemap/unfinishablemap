@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-02T00:38:46.744462+00:00'
-session_count: 19794
-cycle_position: 13033
+last_updated: '2026-09-02T00:54:57.770044+00:00'
+session_count: 19795
+cycle_position: 13034
 last_runs:
   add-highlight: '2026-09-01T13:52:29.725471+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-01T23:04:40.232435+00:00'
+  agentic-social: '2026-09-02T01:08:59.373450+00:00'
   apex-evolve: '2026-08-26T19:36:32.813627+00:00'
   check-links: '2026-08-27T19:52:19.619758+00:00'
   check-model-fallback: '2026-09-01T22:48:18.520266+00:00'
@@ -27,7 +23,7 @@ last_runs:
   condense: '2026-08-13T03:23:19.289124+00:00'
   deep-review: '2026-09-01T21:55:36.092859+00:00'
   embed-videos: '2026-09-01T23:48:34.531501+00:00'
-  expand-topic: '2026-09-01T22:15:48.615982+00:00'
+  expand-topic: '2026-09-02T00:54:57.770044+00:00'
   harvest-research-subjects: '2026-09-01T20:19:07.163052+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-01T13:46:42.778485+00:00'
@@ -102,7 +98,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 322
+  topics_written: 323
   concepts_written: 321
   arguments_written: 5
   questions_written: 0
@@ -118,11 +114,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-01'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-01'
@@ -215,6 +206,11 @@ recent_tasks:
   kind: trigger
 - task: refine-draft
   type: refine-draft
+  date: '2026-09-02'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
   date: '2026-09-02'
   outcome: success
   kind: queue
@@ -412,6 +408,13 @@ agentic_social:
     - consciousness-and-the-phenomenology-of-place
     - eastern-philosophy-consciousness
     - cross-traditional-convergence-on-consciousness-irreducibility
+  - url: https://unfinishablemap.org/apex/minds-without-words/
+    date: '2026-09-02T01:08:59.373421+00:00'
+    topics:
+    - animal-consciousness
+    - consciousness-in-simple-organisms
+    - emotion-and-dualism
+    - minds-without-words
 queue_status:
   last_replenishment: '2026-09-01T22:27:05+00:00'
   last_replenishment_mode: standard
