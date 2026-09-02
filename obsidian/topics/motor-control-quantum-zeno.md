@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience levels t
 created: 2026-02-22
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-08-19T21:40:00+00:00
+ai_modified: 2026-09-02T17:05:53+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -116,7 +116,7 @@ For the quantum Zeno candidate specifically, the [[decoherence]] objection remai
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
-What would strengthen the case? In Schurger-style self-paced movement tasks, stochastic accumulator models predict that reaction time distributions follow specific drift-diffusion statistics. If conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from these distributions—a shift in the drift rate parameter on the order of 5-15% between passive and actively willed conditions, detectable with ~50-100 participants using EEG-locked single-trial analysis. No such deviation has been demonstrated. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve—for instance, if pre-movement neural decoding achieved near-perfect accuracy for which action is selected, not merely that one is imminent.
+What would strengthen the case? In Schurger-style self-paced movement tasks, stochastic accumulator models predict that reaction time distributions follow specific drift-diffusion statistics. If conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from these distributions between passive and actively willed conditions. No such deviation has been demonstrated—and no effect size is honestly attachable to the prediction, because the coupling model that would derive one is exactly what P-Q10 in the [[positions/quantum-interface|quantum-interface register]] records as missing; the prediction stays qualitative until that debt is paid. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve—for instance, if pre-movement neural decoding achieved near-perfect accuracy for which action is selected, not merely that one is imminent.
 
 ## Relation to Site Perspective
 
