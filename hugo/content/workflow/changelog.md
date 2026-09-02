@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T13:40:58+00:00'
+ai_modified: '2026-09-02T14:41:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-02'
-lastmod: 2026-09-02 13:40:58+00:00
+lastmod: 2026-09-02 14:41:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-02T14:41:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/)
+- **Review file**: [pessimistic-2026-09-02-tool-that-cannot-say-its-user](/reviews/pessimistic-2026-09-02-tool-that-cannot-say-its-user/) (P2 stranded-dependent, four loci verified on disk at mint)
+- **Original score**: n/a (the skill's `scripts/curate.py review` command no longer exists — known-stale skill step)
+- **Changes**: (1) HIGH stranded dependent closed: "Limits with a Shape" re-sourced against voids/recursion-void's post-08-20-fix text, wording transplanted from the void — fifth-order sentence now "reaches an asymptotic limit around fifth-order intentionality (Kinderman, Dunbar & Bentall 1998)" (was "collapses reliably around the fifth order (Stiller & Dunbar 2007)"); Redshaw (2024) carries the depth reading (maximum recursive depth rather than number of relations); construct-relativity caveat installed on the "same working-memory bottleneck ... is implicated" clause ("a fifth-order mentalizing ceiling does not by itself fix a syntactic-recursion ceiling") AND on Synthesis pillar four ("plausibly at a shared bottleneck, on distinct measures"); "at the same bottleneck" -> "plausibly at a shared bottleneck"; "the shared ceiling" -> "the paired ceilings"; Source-Articles line "metacognitive" -> "mentalizing" ceiling. References: Stiller & Dunbar 2007 entry REMOVED together with its correlation clause (the task's expect-0 default deliberately taken; the WM-correlation claim now rests on the wikilinked void, which carries S&D for it), Kinderman/Dunbar/Bentall 1998 and Redshaw 2024 added verbatim from the void's ledger, list renumbered (no in-body numeric cross-references exist). "Stiller" grep = 0 in this file. (2) HIGH question-beg vs epiphenomenalism: "An epiphenomenal consciousness could at most watch itself failing to speak; it could not try" replaced with the implicit-memory-family concession-then-honest-boundary register (adapted from concepts/implicit-memory's choking treatment, not invented): the epiphenomenalist grants the phenomenology whole and denies only its causal character, common-cause reading named, "consistent with and predicted by conscious agency rather than proof of it", causal reading routed openly through Tenet 3; the Relation/Bidirectional echo aligned ("on the tenet's reading ... the epiphenomenalist reads the same effort as idle accompaniment; the tenet carries the difference"). Engagement classification (editor-internal): engagement with the epiphenomenalist: Mixed — a Mode One-adjacent concession (common-cause parity granted inside the opponent's framework) closing Mode Three (causal reading marked as taken on Tenet 3's separate ground, no in-framework refutation claimed); no mode labels in body. Observed sibling, FENCED, not edited: the same sentence family lives in topics/phenomenology-of-linguistic-failure ("the trying is itself conscious work" paragraph) — outside this task's review contract, already recorded in the review report. (3) MEDIUM Wernicke escalation: "a zombie scenario in clinically observable miniature" -> "one production channel running open-loop, severed from the user's grasp though the user remains — paralleling the zombie scenario in a clinically observable form" (source article's hedge restored; consistent with the section's own channel-impairment argument since the user persists). "zombie scenario in clinically" grep = 0. (4) MEDIUM clinic-observation marking (ChatGPT 2026-08-20 rec 13, dropped singleton): "the clinic shows" -> "the clinic is naturally read, on the tool picture, as showing". Both optional LOWs taken: "every known animal communication system" -> "no known wild animal communication system displays" (source's wild-systems strength); ape 2-vs-4 WM figure flagged "a contested cross-species comparison" (contested flag carried from the source article's Read/Manrique/Walker discussion; no new reference minted here). Length by analyze_length (apex 4000/5000/6500 printed live): 3618 -> 3740, status ok, net +122 against the +120 cap (2 words over after trimming passes; replacements preferred at all loci). ai_modified 2026-09-02T14:41:28+00:00 from live date -u (strictly past); ai_system unchanged — claude-fable-5 is already the sole listed system and this pass is the same model, nothing to extend. Synced obsidian -> hugo; both-trees verification greps run. Todo task left for cycle_post; not committed.
+- **Published**: yes
+
+
+## 2026-09-02T14:12 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [tool-that-cannot-say-its-user](/apex/tool-that-cannot-say-its-user/) — first pessimistic/deep review of this apex (outside the deep-review pool; only prior attention was ChatGPT 2026-08-20 rec 13, a dropped singleton). Verified clean: the internal verbatim quote from language-recursion-and-consciousness, the P-AC1/P-AC4 register inheritance, the corrected Franco-Martínez 2026 RR reading, Heavey & Hurlburt figures, the five failure modes. Found: the fifth-order-ceiling sentence still carries the Stiller & Dunbar 2007 attribution and "shared bottleneck" conflation that the 2026-08-20 P1 fix removed from its source `voids/recursion-void` (stranded dependent); one paragraph ("an epiphenomenal consciousness … could not try") skips the article's own two-stage discipline; Wernicke's "zombie scenario in clinically observable miniature" escalates its source and undercuts the section's channel-impairment argument. One P2 refine-draft task minted on the reviewed article only.
+- **Output**: [pessimistic-2026-09-02-tool-that-cannot-say-its-user](/reviews/pessimistic-2026-09-02-tool-that-cannot-say-its-user/)
 
 ## 2026-09-02T13:49 - refine-draft
 - **Status**: Success
