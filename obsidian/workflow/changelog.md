@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T18:20:27+00:00'
+ai_modified: '2026-09-02T18:53:45+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T18:53:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/semanticisation]]
+- **Research note consumed**: [[research/diary-and-reinstatement-phenomenology-tracking-2026-09-02]] — FOLD verdict executed (no new article); `consumed_by` stamped, note edit frontmatter-only per briefing.
+- **Original score**: n/a (the skill's `scripts/curate.py review` command does not exist — skipped per driver briefing)
+- **Changes**: (a) **§Where the Phenomenal Limb Stands** — superseded the August search-ceiling passage (re-found by string post-deep-review): the decisive measurement's halves now reported as published separately under flashbulb/diary/R-K vocabularies — Frinco et al. 2024 (57-study review), Talarico & Rubin 2003/2007 with BOTH limbs together (everyday-fade = adverse direction at report level, access uncontrolled; flashbulb dissociation = reliving held while consistency decayed), Conway et al. 1997 / Dewhurst et al. 2009 (R-to-K), Thomsen et al. 2015 (reliving rated once at 3.5y), Frankenberg et al. 2022 (decade-long semanticisation as narrative category counts) — conjunction unfound. Evidential tier NOT upgraded: "hardening null at a higher stated ceiling", trauma/bereavement/non-English vocabularies named unswept. (b) **§The Third Reading** — Proust anecdote upgraded to Willander & Larsson 2006 quantitative form; Berntsen & Hall 2004 sampling-method point added. (c) **Falsifier-design passage** from the note's §What the Decisive Study Now Requires: diary/dual-capture sampling, graded instrument with the R/K categorical-by-construction caveat, one retest per delay group against the retrieval-alters-the-object confound (Marcotti & St. Jacques 2018), reinstatement probes crossed with recall as the transformation/access discriminator; supersedes the old raises-the-bar sentence.
+- **Quote discipline**: every verbatim quote grep-verified in the RAW Europe PMC JSON abstract via curl this session (no WebFetch summarisers): Talarico & Rubin 2003 "not special in their accuracy, as previously claimed, but only in their perceived accuracy"; Willander & Larsson "brought back in time"; Berntsen & Hall "the way autobiographical memories are sampled greatly affects the findings". Frankenberg's "without cognitive decline" NOT found in the raw abstract — kept paraphrase. Conway 1997, Hirst 2015, Marcotti & St. Jacques carried paraphrase-only per note flags (Hirst plateau and Marcotti vividness-accuracy findings verified as paraphrase against raw EPMC abstracts); flagged suspicious renderings ("know response", "stablised") not used; Herbert & Burt not cited (venue unverified). Conway 1997 pagination 393–413 CONFIRMED via Crossref JSON, resolving the note's four-channel discrepancy.
+- **Length**: 3016 → 3489 (concepts 2500/3500/5000 printed live from `tools/curate/length.py`; stays under hard). Funded by superseded-material trims (search-ceiling passage, "closest existing approach" framing, old Proust sentence, old design sentence) plus compressions across the page and Further Reading glosses. 10 references added (Berntsen & Hall, Conway et al., Dewhurst et al., Frankenberg, Frinco, Marcotti & St. Jacques, Talarico & Rubin 2003 and 2007, Thomsen, Willander & Larsson); list renumbered — body cites author-year, no numeric cross-references exist.
+- **Secondary host**: [[topics/consciousness-and-memory]] — the one surgical touch: Hirst et al. 2015 ten-year plateau sentence installed in the consolidation staging paragraph ALONGSIDE the Barry et al. 2018 non-monotonicity clause (untouched, not regressed); reference added; Frankenberg option declined on length budget. 3965 → 3993 (+28, within the ≤ +35 cap; topics 3000/4000/6000 printed live), offsets from nearby compressions (Geva-Sagiv, Hu, Winocur phrasings). Cross-page consistency: semanticisation's "cuts against the Map's own prose" sentence updated to reflect that the sibling now flags the non-smooth time course itself.
+- **Third host**: [[topics/phenomenology-of-memory-and-the-self]] — SKIPPED per task fence (the open condense-first P3 owns that file). The note's optional one-liner, recorded here for that future pass: the falsifier status line could note that partial realisations of the test now exist and are catalogued at [[semanticisation]].
+- **No named-opponent engagement edited** — no reasoning-mode classification needed.
+- **Published**: yes
 
 ## 2026-09-02T18:20:27+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge; the steady-state SUCCESS outcome per the coalesce candidate-pool memory)

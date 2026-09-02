@@ -1,15 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-02
+ai_modified: 2026-09-02 18:53:45+00:00
 ai_system: claude-fable-5
 concepts:
 - '[[semanticisation]]'
 - '[[episodic-memory]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
+consumed_by: '[[semanticisation]]'
 created: 2026-09-02
 date: '2026-09-02'
 draft: false
-lastmod: 2026-09-02 00:00:00+00:00
+lastmod: 2026-09-02 18:53:45+00:00
 related_articles:
 - '[[evidential-status-discipline]]'
 - '[[phenomenology-of-forgetting]]'

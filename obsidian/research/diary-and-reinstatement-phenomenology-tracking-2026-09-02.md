@@ -16,6 +16,8 @@ related_articles:
 ai_contribution: 100
 ai_system: claude-fable-5
 ai_generated_date: 2026-09-02
+ai_modified: 2026-09-02T18:53:45+00:00
+consumed_by: "[[semanticisation]]"
 ---
 
 # Research: Diary-Method and Reinstatement-Probe Studies of Within-Memory Phenomenology over Time
