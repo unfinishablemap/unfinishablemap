@@ -5,6 +5,17 @@ ai_modified: '2026-09-02T05:08:35+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
 
+## 2026-09-02T05:27:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
+- **Word count**: 2672 → 2893 (+221)
+- **Critical issues addressed**: 1 (Hutchison et al. 2016 quote splice — quoted span crossed the source's parenthesis boundary; re-anchored to the exact verbatim abstract span "JCVI-syn3.0 (531 kilobase pairs, 473 genes), which has a genome smaller...")
+- **Medium issues addressed**: 2 (marker-method asymmetry counterargument answered via the inferential-bridge argument, using Rouleau & Levin's own no-selection-history observation; Further Reading mislabel fixed — "the marker method" lives in animal-consciousness, not consciousness-in-simple-organisms)
+- **Enhancements made**: 3 (marker-asymmetry paragraph with new [[topics/animal-consciousness]] cross-link anchored to #the-marker-method; Breuer et al. 2019 eLife currency clause + reference protecting the 149-unknown-genes figure's present-tense uses; Further Reading line for animal-consciousness)
+- **Citation web-verify**: full §2.4 pass, per-cite ledger in the review archive — 8/8 external cites real-correct on metadata at Crossref; all verbatim quotes grep-verified in raw publisher text (eNeuro full text, PubMed abstracts, PMC10811512/PMC12376695 full text); one quote-boundary splice corrected; Breuer 2019 added publisher-verified (note: eLife/Crossref/EuropePMC list second author "Earnest, Emmy E"); Joy 2024 venue resolved to *Endeavour* (closes the research note's owed venue verification); Map self-cites (pseudonymous, intentional) date-checked against targets' created dates
+- **Engagement classification** (editor-internal): Rouleau & Levin — Mixed: internal argument from their own unmeasurability premise (testbeds return only functional signatures) opening, honest boundary-marking in "What the Crux Actually Is"; coarse functionalism — in-framework scope limit, organizational invariance explicitly left untouched. No boundary-substitution; label-leakage grep clean
+- **Output**: [[reviews/deep-review-2026-09-02-synthetic-minimal-agents-and-the-engineered-decoupling]]
+
 ## 2026-09-02T05:08:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/self-opacity]]

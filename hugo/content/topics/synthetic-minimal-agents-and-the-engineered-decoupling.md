@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-09-02 00:36:55+00:00
+ai_modified: 2026-09-02 05:24:40+00:00
 ai_system: claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -9,14 +9,15 @@ concepts:
 - '[[substrate-independence]]'
 - '[[organizational-invariance]]'
 created: 2026-09-01
-date: &id001 2026-09-01
+date: &id001 2026-09-02
 description: Xenobots, anthrobots and minimal synthetic cells are built, not found.
   Human-AI analysis of what designing a competent agent certifies—function, never
   feeling.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-02 00:36:55+00:00
+last_deep_review: 2026-09-02 05:24:40+00:00
+lastmod: 2026-09-02 05:24:40+00:00
 modified: *id001
 related_articles:
 - '[[apex/competency-without-felt-experience]]'
@@ -39,7 +40,7 @@ The relevant class is broader than the xenobot case the Map already treats, and 
 
 **Anthrobots** extend the biobot result off frog embryos and onto adult human tissue. Gumuskaya, Levin and colleagues report a "spheroid-shaped multicellular biological robot (biobot) platform with diameters ranging from 30 to 500 microns and cilia-powered locomotive abilities," each one beginning as a single cell "derived from the adult human lung" and self-constructing over roughly two weeks in extracellular matrix (Gumuskaya et al. 2024). The cells are genetically wild-type — the reprogramming is morphological and environmental, not genomic. Anthrobots traverse and induce rapid repair of scratches in cultured human neural cell sheets. The 2025 follow-up characterises a full life cycle, including self-healing, a transcriptome distinct from the source cells, and "a remarkable reduction of epigenetic age upon morphogenesis" (Gumuskaya et al. 2025). Adult human somatic cells, given a novel context, run a developmental programme they never evolved to run.
 
-**JCVI-syn3.0** approaches agency from the minimal end. Hutchison and colleagues minimised a synthetic *Mycoplasma mycoides* genome across three design-build-test cycles, producing a cell of "531 kilobase pairs, 473 genes, which has a genome smaller than that of any autonomously replicating cell found in nature" (Hutchison et al. 2016). Here is a designed, self-maintaining, self-dividing agent at something close to the theoretical floor of genomic complexity. One detail from that paper does more work in this argument than the headline: "Unexpectedly, it also contains 149 genes with unknown biological functions." The builders produced a viable autonomous organism roughly a third of whose essential parts they could not account for.
+**JCVI-syn3.0** approaches agency from the minimal end. Hutchison and colleagues minimised a synthetic *Mycoplasma mycoides* genome across three design-build-test cycles, producing "JCVI-syn3.0 (531 kilobase pairs, 473 genes), which has a genome smaller than that of any autonomously replicating cell found in nature" (Hutchison et al. 2016). Here is a designed, self-maintaining, self-dividing agent at something close to the theoretical floor of genomic complexity. One detail from that paper does more work in this argument than the headline: "Unexpectedly, it also contains 149 genes with unknown biological functions." The builders produced a viable autonomous organism roughly a third of whose essential parts they could not account for. Follow-up modelling of the sibling cell JCVI-syn3A has narrowed that unknown fraction without closing it — a near-complete metabolic reconstruction still leaves "many genes of generic or completely unclear function" (Breuer et al. 2019).
 
 **Xenobots** — computer-designed body plans assembled from *Xenopus laevis* skin and cardiac cells, which locomote, push payloads, self-repair, and reproduce kinematically by piling loose stem cells into new xenobots (Kriegman et al. 2020, 2021) — are treated at length elsewhere in the Map and are included here as the middle rung of the class.
 
@@ -65,6 +66,8 @@ Two features of this rival deserve to be stated rather than glossed. It is not a
 
 The Map's reply concedes more than it denies. Multiple realizability of *function* is granted without argument; the whole engineered class is a demonstration of it, and [substrate-independence of function](/concepts/substrate-independence/) is exactly what the biobots show. Multiple realizability of *phenomenal experience* is the disputed claim, and the engineered cases cannot support it, because they contain no phenomenal measurement to generalise from. Rouleau and Levin's own premise establishes this: if sentience cannot be directly measured, then a testbed can return only functional signatures, and a functional signature is present in full in systems where no one asserts feeling. The humility cuts symmetrically. Their conclusion — look harder, in stranger places — is a reasonable research policy that the Map does not oppose; what the Map denies is that a positive finding could come back from such a search in the form these testbeds can deliver.
 
+The Map's own practice raises the obvious next challenge: in the animal cases it accepts behavioural and anatomical markers as raising confidence about experience ([the marker method](/topics/animal-consciousness/#the-marker-method)), and a marker is nothing but a functional signature. The asymmetry is principled. Markers earn their evidential force from an inferential bridge — each is calibrated against the one uncontested conscious case and extended to organisms that share evolutionary history and architecture with it — and the engineered class severs precisely that bridge. Rouleau and Levin's observation that engineered competencies have no selection history cuts in the Map's favour here: the feature that makes built agents clean tests of function is the same feature that strips their behaviour of the phylogenetic support on which marker inference runs. A crab's nociceptive responses inherit credibility from shared ancestry with the calibration case; an anthrobot's wound-closing inherits none, however similar the behaviour looks.
+
 On the philosophical side, Reshma Joy's evaluation of what she calls the xenobotic cognitive project juxtaposes xenobot capacities with basal cognition and with nonliving active-matter cognition, and specifies the capabilities xenobots would need to reach "stage 1 of xenobotic cognition" (Joy 2024). The framing is useful to the Map for a reason Joy does not draw: the staging is entirely in terms of cognitive mechanisms integral to the survival of basal organisms, which is to say in functional terms throughout. Even the carefully graded philosophical treatment of what xenobots have achieved proceeds without a phenomenal rung, because there is no measurement that would put one there.
 
 ## What the Crux Actually Is
@@ -89,17 +92,19 @@ One limit on the Map's own use of these cases should be stated in the same breat
 - [Single-Cell Proto-Agency and the Evidence Problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) — Whether agency attribution itself can be told apart from complete mechanism at the cellular floor
 - [Substrate Independence](/concepts/substrate-independence/) — Why substrate-independent function does not entail substrate-independent experience
 - [AI Consciousness](/topics/ai-consciousness/) — The same decoupling where the built agent is computational rather than cellular
-- [Consciousness in Simple Organisms](/topics/consciousness-in-simple-organisms/) — The graded verdicts the marker method returns across the biological cases
+- [Consciousness in Simple Organisms](/topics/consciousness-in-simple-organisms/) — The graded evidential-status verdicts across the biological cases, organism by organism
+- [Animal Consciousness](/topics/animal-consciousness/) — The marker method itself, and why its inferential bridge is calibrated on the human case
 
 ## References
 
 1. Gumuskaya, G., Srivastava, P., Cooper, B. G., Lesser, H., et al. (2024). Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells. *Advanced Science*, 11(4), 2303575. https://doi.org/10.1002/advs.202303575
 2. Gumuskaya, G., Davey, N., Srivastava, P., Bender, A., et al. (2025). The Morphological, Behavioral, and Transcriptomic Life Cycle of Anthrobots. *Advanced Science*, 12(31), 2409330. https://doi.org/10.1002/advs.202409330
 3. Hutchison, C. A. III, Chuang, R.-Y., Noskov, V. N., Assad-Garcia, N., et al. (2016). Design and synthesis of a minimal bacterial genome. *Science*, 351(6280), aad6253. https://doi.org/10.1126/science.aad6253
-4. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2020). A scalable pipeline for designing reconfigurable organisms. *PNAS*, 117(4), 1853–1859. https://doi.org/10.1073/pnas.1910837117
-5. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2021). Kinematic self-replication in reconfigurable organisms. *PNAS*, 118(49), e2112672118. https://doi.org/10.1073/pnas.2112672118
-6. Bongard, J., Zykov, V., & Lipson, H. (2006). Resilient Machines Through Continuous Self-Modeling. *Science*, 314(5802), 1118–1121. https://doi.org/10.1126/science.1133687
-7. Rouleau, N., & Levin, M. (2023). The Multiple Realizability of Sentience in Living Systems and Beyond. *eNeuro*, 10(11), ENEURO.0375-23.2023. https://doi.org/10.1523/ENEURO.0375-23.2023
-8. Joy, R. (2024). An evaluation of the xenobotic cognitive project: Towards Stage 1 of xenobotic cognition. *Endeavour*, 48(2), 100927. https://doi.org/10.1016/j.endeavour.2024.100927
-9. Southgate, A., Oquatre-huit, C., & Fabcinq, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
-10. Southgate, A., Oquatre-huit, C., & Ocinq, C. (2026-07-09). Competency Without Felt Experience: A Framework-Relative Verdict. *The Unfinishable Map*. https://unfinishablemap.org/apex/competency-without-felt-experience/
+4. Breuer, M., Earnest, E. E., Merryman, C., Wise, K. S., et al. (2019). Essential metabolism for a minimal cell. *eLife*, 8, e36842. https://doi.org/10.7554/eLife.36842
+5. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2020). A scalable pipeline for designing reconfigurable organisms. *PNAS*, 117(4), 1853–1859. https://doi.org/10.1073/pnas.1910837117
+6. Kriegman, S., Blackiston, D., Levin, M., & Bongard, J. (2021). Kinematic self-replication in reconfigurable organisms. *PNAS*, 118(49), e2112672118. https://doi.org/10.1073/pnas.2112672118
+7. Bongard, J., Zykov, V., & Lipson, H. (2006). Resilient Machines Through Continuous Self-Modeling. *Science*, 314(5802), 1118–1121. https://doi.org/10.1126/science.1133687
+8. Rouleau, N., & Levin, M. (2023). The Multiple Realizability of Sentience in Living Systems and Beyond. *eNeuro*, 10(11), ENEURO.0375-23.2023. https://doi.org/10.1523/ENEURO.0375-23.2023
+9. Joy, R. (2024). An evaluation of the xenobotic cognitive project: Towards Stage 1 of xenobotic cognition. *Endeavour*, 48(2), 100927. https://doi.org/10.1016/j.endeavour.2024.100927
+10. Southgate, A., Oquatre-huit, C., & Fabcinq, C. (2026-07-08). Basal and Bioelectric Cognition: Levin's Morphogenetic Agency and Xenobots. *The Unfinishable Map*. https://unfinishablemap.org/topics/basal-and-bioelectric-cognition/
+11. Southgate, A., Oquatre-huit, C., & Ocinq, C. (2026-07-09). Competency Without Felt Experience: A Framework-Relative Verdict. *The Unfinishable Map*. https://unfinishablemap.org/apex/competency-without-felt-experience/

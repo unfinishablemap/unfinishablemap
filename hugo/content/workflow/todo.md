@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `voids/self-opacity` L157 says Dualism "receives support" and opacity "points beyond engineering limitation" — the voids register (P-V1/P-V2) rules exactly this move out, and neither page cites the other
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/self-opacity.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §4.1; both loci grep-verified 2026-09-02. L157 ("Dualism receives support from both formal and phenomenological routes ... The convergence of six independent traditions ... points beyond engineering limitation") makes the convergence-as-evidence move `positions/voids-as-evidence` P-V1 (lineage common-cause discount) and P-V2 (defeater-removal is not support) withdrew on 2026-08-17; the article cites neither. **Transplant, do not invent**: `voids/death-void` L144 is the model wording ("hospitable to dualism rather than as a proof of it"), `voids/mutation-void` L124 the one-line residue ("a coherence claim, not added support") — the same models the open 08-23 P3 on `inaccessible-past`/`conceptual-impossibility` uses; this is the third file of that sweep class, so coordinate wording if both run. Also per the reviewer: separate introspective opacity from the ontological conclusion, and either supply a formal correspondence for the Gödel analogy or cut it (verify that locus on disk first — not grep-checked at mint). Length-neutral or shorter. Edit obsidian, sync, grep both trees.
-
 ### P1: `concepts/physics-as-disclosure` L70 says decoherence's partial success "strengthens the disclosure reading" — the methodology register holds framework fit is not support, and neither page links the other
 - **Type**: refine-draft
 - **Status**: pending
@@ -1935,6 +1926,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `voids/self-opacity` L157 says Dualism "receives support" and opacity "points beyond engineering limitation" — the voids register (P-V1/P-V2) rules exactly this move out, and neither page cites the other
+- **Type**: refine-draft
+- **File**: obsidian/voids/self-opacity.md
+- **Notes**: Review §4.1; both loci grep-verified 2026-09-02. L157 ("Dualism receives support from both formal and phenomenological routes ... The convergence of six independent traditions ... points beyond engineering limitation") makes the convergence-as-evidence move `positions/voids-as-evidence` P-V1 (lineage common-cause discount) and P-V2 (defeater-removal is not support) withdrew on 2026-08-17; the article cites neither. **Transplant, do not invent**: `voids/death-void` L144 is the model wording ("hospitable to dualism rather than as a proof of it"), `voids/mutation-void` L124 the one-line residue ("a coherence claim, not added support") — the same models the open 08-23 P3 on `inaccessible-past`/`conceptual-impossibility` uses; this is the third file of that sweep class, so coordinate wording if both run. Also per the reviewer: separate introspective opacity from the ontological conclusion, and either supply a formal correspondence for the Gödel analogy or cut it (verify that locus on disk first — not grep-checked at mint). Length-neutral or shorter. Edit obsidian, sync, grep both trees.
 
 ### ✓ 2026-09-02: Cross-review topics/consciousness-and-memory against the new concepts/semanticisation — the smooth-trajectory description needs Barry et al. 2018 nonmonotonicity qualified, and the article does not yet link the concept that now owns its schematisation claim
 - **Type**: cross-review
