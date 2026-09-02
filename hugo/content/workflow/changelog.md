@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T07:32 - deep-review
+- **Status**: Success
+- **File**: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/)
+- **Word count**: 2892 → 3026 (+134)
+- **Critical issues addressed**: 3 (inline/References orphans: Penfield 1975 + Eccles 1953 added; flock-quote fidelity: 1940 text reads "for mind", Pepperell variant noted; 1963 Nobel paraphrase corrected to citation wording)
+- **Medium issues addressed**: 4 (materialist-standpoint voicing re-framed; SEP edition date; Smith 2001 DOI; related_articles populated)
+- **Enhancements made**: 6 (located unrestricted IA scan of 1940 first edition — in.ernet.dli.2015.188837 — and upgraded six quotes to primary-verified with all page locators header-confirmed; million-fold democracy now verbatim; "embarrassing for biology"/"met by mind" added; ch. 6 p. 201 context checked, confirms deflationary reading; foreword misattribution now null-checked against 1940 text; provenance ledger rewritten)
+- **Engagement modes**: Ritchie: Mode Three; Pepperell: Mode Three (Tenet-5 boundary-marking, full reply delegated to parsimony-case article); Smith: Mixed (internal concession via Sherrington's own 1947 admission + boundary-marking); Arshavsky: Mode Three with access caveat. No label leakage.
+- **Output**: [deep-review-2026-09-02-sherrington-dualist-lineage](/reviews/deep-review-2026-09-02-sherrington-dualist-lineage/)
+
 ## 2026-09-02T06:58:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)

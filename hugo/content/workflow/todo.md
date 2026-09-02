@@ -39,16 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: `apex/post-decoherence-selection-programme` — seven uses of "menu" language the corrected tenets wording now disclaims
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/post-decoherence-selection-programme.md
-- **Source**: outer-review
-- **Review files**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-02-claude-opus-5.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-02.md`
-- **Generated**: 2026-09-02
-- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT Review §4.5 (linked pair — propagation repair, not an uncited contradiction) and §5.2; Claude flags the same ontology seam on the tenets page itself (Part 2 §D contradiction 3: "different ontologies of the selection act presented as the same tenet") — its L105-analogy sibling task is now also P1; coordinate wording if both run. The tenets page now states post-decoherence selection is an additional actualisation postulate, not a choice among already definite alternatives; the apex's seven "menu" hits plus environment-prepares-options prose can still be read as ontological definiteness decoherence does not supply. Reserve "menu" for a mathematically specified decoherence-selected coarse-graining, state on first use that no element of it is thereby an actual outcome, and separate Quantum Darwinism (redundant environmental records) from envariance (Born weights) where the page compresses them into one result. Reviewer's three named debts (which instrument/POVM defines the alternatives; when actualisation occurs amid continuous decoherence; what is added to unitary QM) belong in the page's debt section if not already there. Length rules apply; measure first. Sync both trees.
-
 ### P1: `concepts/motor-selection` runs Stapp's context-selection mechanism (Zeno stabilization: description field, L46, L62, L147, L153) under the Map's outcome-selection tenet without labelling the change; L82 calls neural competition "a classical analog of quantum superposition"
 - **Type**: refine-draft
 - **Status**: pending
@@ -1934,6 +1924,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `apex/post-decoherence-selection-programme` — seven uses of "menu" language the corrected tenets wording now disclaims
+- **Type**: refine-draft
+- **File**: obsidian/apex/post-decoherence-selection-programme.md
+- **Notes**: From convergent outer reviews (2026-09-02, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — ChatGPT Review §4.5 (linked pair — propagation repair, not an uncited contradiction) and §5.2; Claude flags the same ontology seam on the tenets page itself (Part 2 §D contradiction 3: "different ontologies of the selection act presented as the same tenet") — its L105-analogy sibling task is now also P1; coordinate wording if both run. The tenets page now states post-decoherence selection is an additional actualisation postulate, not a choice among already definite alternatives; the apex's seven "menu" hits plus environment-prepares-options prose can still be read as ontological definiteness decoherence does not supply. Reserve "menu" for a mathematically specified decoherence-selected coarse-graining, state on first use that no element of it is thereby an actual outcome, and separate Quantum Darwinism (redundant environmental records) from envariance (Born weights) where the page compresses them into one result. Reviewer's three named debts (which instrument/POVM defines the alternatives; when actualisation occurs amid continuous decoherence; what is added to unitary QM) belong in the page's debt section if not already there. Length rules apply; measure first. Sync both trees.
 
 ### ✓ 2026-09-02: `apex/phenomenology-mechanism-bridge` asserts what the quantum-interface register grades D — L131 "The choking phenomenon shows consciousness doing causal work", L78 CMD comparative-strength claim, underived 5-15% figure at L155, zero citations of P-Q3/P-Q10
 - **Type**: refine-draft

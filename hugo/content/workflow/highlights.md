@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-01T13:50:38.808760'
+ai_modified: '2026-09-02T08:04:58.338953'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-01'
+date: '2026-09-02'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-01 13:50:38.808760+00:00
-modified: '2026-09-01'
+lastmod: 2026-09-02 08:04:58.338953+00:00
+modified: '2026-09-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-02: We Named the Test That Could Break Our Memory Claim
+
+You once relived your first day of school; now you just know it happened. The Map staked a falsifier on that fade: if felt pastness grades away smoothly, its memory claim loses. New article scores the test — the category has graded, but the decisive measurement is still unmade.
+
+**Type**: new-article  
+**Link**: [semanticisation](/concepts/semanticisation/)
+
+---
+
 ### 2026-09-01: A Filter Brain Is a Radio. Radios Don't Pick Stations.
 
 Huxley's reducing valve runs one way: world into experience. A brain that only filters is a radio, and a radio never picks its station. New page adds the return leg and sorts locked-in syndrome, psychedelics and anaesthesia by which leg changed.
@@ -192,15 +201,6 @@ Anendophasia, the claimed absence of inner speech, is under live dispute, and th
 
 **Type**: new-article  
 **Link**: [inner-speech-and-anendophasia](/topics/inner-speech-and-anendophasia/)
-
----
-
-### 2026-08-03: An Animal With No Neurons Stops to Eat
-
-Trichoplax has six cell types, no neurons, no synapses, no muscles—yet it glides toward algae, pauses to digest, then moves on. The pause is a peptide wave arresting its cilia. If purposive behaviour runs without neurons, behaviour alone is no evidence of experience.
-
-**Type**: refinement  
-**Link**: [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/)
 
 ---
 
