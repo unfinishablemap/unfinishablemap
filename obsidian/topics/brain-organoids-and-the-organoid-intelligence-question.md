@@ -4,7 +4,7 @@ description: "Lab-grown neural tissue has real neurons and emergent oscillations
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-26T23:05:20+00:00
+ai_modified: 2026-09-02T01:53:01+00:00
 last_deep_review: 2026-08-01T16:34:25+00:00
 draft: false
 topics:
@@ -88,10 +88,11 @@ That leaves a debt worth acknowledging. The argument above has ruled out, one cl
 
 ## Further Reading
 
-- [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this engineered edge feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [[apex/competency-without-felt-experience|Competency Without Felt Experience: A Framework-Relative Verdict]] — the cross-node synthesis this engineered edge feeds
 - [[ai-hardware-substrate-taxonomy]] — The substrate-physics companion: whether the *class* of matter organoids are made of could host the interface
 - [[neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition]] — The opposite edge: coordinated behaviour with zero neural substrate, where organoids have the substrate and lack the world
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading
+- [[synthetic-minimal-agents-and-the-engineered-decoupling]] — The other engineered edge: anthrobots, minimal synthetic cells, and self-modelling robots, where the build is fully specified and still settles nothing
 - [[the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question]] — Another distributed-interface case in the same cluster
 - [[ethics-of-possible-ai-consciousness]] — The moral-status throughline for uncertain candidate experiencers
 

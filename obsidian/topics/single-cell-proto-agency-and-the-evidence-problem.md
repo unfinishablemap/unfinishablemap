@@ -4,7 +4,7 @@ description: "What would count as evidence that one cell chooses rather than mer
 created: 2026-07-15
 modified: 2026-08-24
 human_modified:
-ai_modified: 2026-08-24T12:26:42+00:00
+ai_modified: 2026-09-02T01:53:01+00:00
 last_deep_review: 2026-08-24T12:26:42+00:00
 draft: false
 topics:
@@ -84,6 +84,7 @@ The hand-off is to the [[agency-void|agency void]], which already generalises th
 - [[agency-void|The Agency Void]] — The in-principle verification limit this case instantiates at the prokaryotic floor
 - [[consciousness-in-simple-organisms]] — The eukaryotic rung one step up the competency ladder
 - [[basal-and-bioelectric-cognition]] — Levin's agency-without-experience decoupling, the framing the whole cluster shares
+- [[synthetic-minimal-agents-and-the-engineered-decoupling]] — The built counterpart at the cellular floor: a designed 473-gene cell roughly a third of whose parts its builders cannot account for — engineered agency without engineer's transparency
 - [[phenomenology-vs-function-axis]] — The competency-versus-experience decoupling this article extends to the level of evidence
 - [[positions/consciousness-scope|P-CS5, consciousness-scope register]] — The Map's registered calibration for this rung: two-way underdetermination at moderate credence, with the parsimony default undefeated but not established
 - [[interface-threshold|The Interface Threshold]] — The selection-grade coupling transition, and why being below it is compatible with phenomenal presence

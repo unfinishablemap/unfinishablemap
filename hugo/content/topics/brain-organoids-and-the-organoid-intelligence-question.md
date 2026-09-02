@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-26 23:05:20+00:00
+ai_modified: 2026-09-02 01:53:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 16:34:25+00:00
-lastmod: 2026-08-26 23:05:20+00:00
+lastmod: 2026-09-02 01:53:01+00:00
 modified: *id001
 related_articles:
 - '[[ai-hardware-substrate-taxonomy]]'
@@ -92,10 +92,11 @@ That leaves a debt worth acknowledging. The argument above has ruled out, one cl
 
 ## Further Reading
 
-- [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this engineered edge feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this engineered edge feeds
 - [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) — The substrate-physics companion: whether the *class* of matter organoids are made of could host the interface
 - [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) — The opposite edge: coordinated behaviour with zero neural substrate, where organoids have the substrate and lack the world
 - [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) — Levin's agency-without-experience decoupling, the backbone of the sub-personal-competence reading
+- [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The other engineered edge: anthrobots, minimal synthetic cells, and self-modelling robots, where the build is fully specified and still settles nothing
 - [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/) — Another distributed-interface case in the same cluster
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — The moral-status throughline for uncertain candidate experiencers
 

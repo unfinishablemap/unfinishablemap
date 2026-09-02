@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-08-19 20:08:00+00:00
+ai_modified: 2026-09-02 01:53:01+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 10:56:31+00:00
-lastmod: 2026-08-19 20:08:00+00:00
+lastmod: 2026-09-02 01:53:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ topics:
 
 Michael Levin's research programme demonstrates sophisticated goal-directed agency in systems with no brain and, in some cases, no nervous system at all: flatworms that store their body plan in a rewritable voltage pattern rather than their genome, frog cells that self-assemble into novel organisms called **xenobots**, and a general framework—"basal cognition," "cognition all the way down"—that treats memory, anticipation, and error-correction as scale-free competencies. The point the Map draws from this is a *decoupling*, explained below in [Agency Without Experience](#agency-without-experience-the-decoupling): Levin himself brackets phenomenal sentience. His "cognition" is a functional, engineering claim about what a system can *do*, and it deliberately does not assert that a xenobot or a flatworm stump *feels* anything. That gives the Map a clean lever. If robust agency-, memory-, and goal-language applies all the way down to voltage gradients in a cut worm, then such language cannot by itself license attributions of consciousness. Levin's own restraint about experience becomes evidence for the Map's insistence that competency and phenomenal presence are separate axes.
 
-This article is the agency-side counterpart to [the plant rung](/topics/plant-cognition-and-the-plant-neurobiology-debate/) of the [marginal-organism ladder](/topics/marginal-organism-scope-of-value-sensitive-selection/). Plants show information processing without a nervous system; Levin's systems show something stronger—engineering-grade agency—while their principal investigator still declines to claim they are conscious.
+This article is the agency-side counterpart to [the plant rung](/topics/plant-cognition-and-the-plant-neurobiology-debate/) of the [marginal-organism ladder](/topics/marginal-organism-scope-of-value-sensitive-selection/). Plants show information processing without a nervous system; Levin's systems show something stronger—engineering-grade agency—while their principal investigator still declines to claim they are conscious. The design-side companion, [The Engineered Decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/), widens the xenobot case into the full built class—anthrobots grown from adult human cells, minimal synthetic genomes, self-modelling robots—where the designer can say which competencies were installed and still cannot say whether anything is felt.
 
 ## The Bioelectric Substrate: Memory Written in Voltage
 
@@ -82,6 +82,7 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 ## Further Reading
 
 - [Competency Without Felt Experience: A Framework-Relative Verdict](/apex/competency-without-felt-experience/) — the cross-node synthesis this rung feeds: the whole ladder, and why the competency/experience decoupling cuts both ways
+- [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) — The design-side companion: the same decoupling produced on demand in anthrobots, minimal synthetic cells, and self-modelling robots
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — The ladder this article pressures from the agency side
 - [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/) — The sibling non-neural rung: processing without a nervous system
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The selection mechanism the decoupling protects from false positives

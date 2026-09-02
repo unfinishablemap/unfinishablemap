@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-02T01:53:01+00:00 - deep-review
+- **Status**: Success
+- **Mode**: integrate-orphan (driver-routed through deep-review; deliverable is inbound links — the same-day tenet-check fix, anchoring adjudication, and ai_system attribution fix were left untouched, article body untouched)
+- **File**: [synthetic-minimal-agents-and-the-engineered-decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/)
+- **Inbound links added (5 hosts)**: [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/) (design-side-companion sentence in intro + Further Reading line; 2254→2315w ok), [competency-without-felt-experience](/apex/competency-without-felt-experience/) (built-flank pointer at end of ladder section + related_articles entry; 3592→3634w ok), [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/) (soft_warning host, near net-zero: apex FR annotation trimmed to offset new FR line; 3819→3832w), [single-cell-proto-agency-and-the-evidence-problem](/topics/single-cell-proto-agency-and-the-evidence-problem/) (FR line — built counterpart at the cellular floor; 2805→2836w ok), [ai-consciousness](/topics/ai-consciousness/) (hard_warning host, zero-growth inline wikilink on "embodied robots" in symbol-grounding paragraph; 4158→4158w)
+- **Frontmatter**: ai_modified bumped to 2026-09-02T01:53:01+00:00 on the five edited hosts only; research note untouched (already consumed_by-stamped)
+- **Sync**: obsidian → hugo run this session; mirrors grep-verified for the converted links
+
 ## 2026-09-02 01:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Quantum Non-Equilibrium and the Contingency of the Born Rule

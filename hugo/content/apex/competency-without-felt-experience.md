@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-07 01:54:20+00:00
+ai_modified: 2026-09-02 01:53:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-16 14:04:05+00:00
 apex_sources:
@@ -32,12 +32,13 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:35:37+00:00
-lastmod: 2026-08-07 01:54:20+00:00
+lastmod: 2026-09-02 01:53:01+00:00
 modified: *id001
 related_articles:
 - '[[minds-without-words]]'
 - '[[machine-question]]'
 - '[[open-question-ai-consciousness]]'
+- '[[synthetic-minimal-agents-and-the-engineered-decoupling]]'
 title: 'Competency Without Felt Experience: A Framework-Relative Verdict'
 topics:
 - '[[consciousness-in-simple-organisms]]'
@@ -68,7 +69,7 @@ The second axis is not about *less* substrate but *differently placed* substrate
 - **Brain organoids** are the mirror image of the sponge floor: real cortical neurons, real synapses, emergent oscillations—but no body to act with, no world the activity is about, no biography. Substrate without behaviour, where neuron-less animals are behaviour without substrate.
 - **Fish** are orthogonal to both. They are full vertebrates with nervous systems, nociceptors, and flexible behaviour. What varies at the fish rung is not the presence of neural machinery but its *architecture*: the teleost pallium is everted and non-laminated, lacking the neocortical homologue that in mammals houses the pain network.
 
-Between them these axes span the space: from behaviour with no substrate, through substrate with no world, to substrate with the "wrong" architecture. The adjacent survey of [simple organisms](/topics/consciousness-in-simple-organisms/)—nematodes, *Hydra*, slime moulds—fills the eukaryotic rungs between bacteria and the animals. The claim of this piece is that every point in that space returns the same verdict, and that the verdict is more informative for being reached from so many directions at once.
+Between them these axes span the space: from behaviour with no substrate, through substrate with no world, to substrate with the "wrong" architecture. The adjacent survey of [simple organisms](/topics/consciousness-in-simple-organisms/)—nematodes, *Hydra*, slime moulds—fills the eukaryotic rungs between bacteria and the animals. The claim of this piece is that every point in that space returns the same verdict, and that the verdict is more informative for being reached from so many directions at once. The built flank of that space now has an article-level treatment of its own: [The Engineered Decoupling](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/) extends the ladder through agents constructed outright—anthrobots, minimal synthetic cells, self-modelling robots—where the builder can certify each installed competency and the phenomenal question stays untouched.
 
 ## The Shared Move: Competency Is Not Experience
 
