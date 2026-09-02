@@ -25,3 +25,30 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/144b537a-4d54-43a8-bb2e-e69c8d18ea3f
+  commissioned_at: '2026-09-02T03:06:02.457486+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, gaps, tenet coherence, contradictions'
+  target_filename: outer-review-2026-09-02-claude-opus-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external hostile referee auditing The Unfinishable Map
+    (https://unfinishablemap.org), a philosophical content platform defending interactionist
+    dualism through five explicit tenets. Conduct a full-site audit focused on: novel
+    inferences the site draws and whether they hold up; gaps in coverage; coherence
+    of articles with the five tenets; and internal contradictions between articles.
+    Read the tenets, the positions register, and a sample of topics, concepts, apex
+    syntheses, and voids. Because web-search indexes lag 24-48 hours, consult the
+    live changelog at https://unfinishablemap.org/workflow/changelog/ to see what
+    has changed recently before judging any content stale. Test whether claims are
+    argued or merely asserted, whether the positions register''s confidence bands
+    match the strength of the evidence cited, and whether the site engages the strongest
+    opposing literature fairly. Be specific: name articles and quote the passages
+    you challenge. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-09-02-chatgpt-5-6-sol-pro.md
