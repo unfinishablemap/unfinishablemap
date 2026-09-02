@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-02T19:54:40.733048+00:00'
-session_count: 19869
-cycle_position: 13076
+last_updated: '2026-09-02T20:16:00.296668+00:00'
+session_count: 19870
+cycle_position: 13077
 last_runs:
   add-highlight: '2026-09-02T08:08:12.348987+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-02T17:01:01.901859+00:00'
   pessimistic-review: '2026-09-02T14:11:49.857795+00:00'
   positions-evolve: '2026-09-02T16:21:32.368515+00:00'
-  refine-draft: '2026-09-02T19:27:59.196972+00:00'
+  refine-draft: '2026-09-02T20:16:00.296668+00:00'
   replenish-queue: '2026-09-02T19:44:52.043148+00:00'
   research-topic: '2026-09-02T10:14:07.231769+00:00'
   research-voids: '2026-09-02T12:01:27.903567+00:00'
@@ -118,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-02'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-02'
@@ -218,6 +213,11 @@ recent_tasks:
   date: '2026-09-02'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
@@ -457,61 +457,51 @@ agentic_social:
     - dualist-perception
     - capgras-delusion-and-the-affective-recognition-channel
 queue_status:
-  last_replenishment: '2026-09-02T19:42:39+00:00'
+  last_replenishment: '2026-09-02T20:27:09+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1016. STANDARD MODE, TWO MINTS (1 x P2 positions-evolve,
-    1 x P3 refine-draft), every locus re-verified from disk before minting. Pre-count
-    count of live P0-P2 == 2 against MIN_QUEUE 3 (the Warning-1 surfaces refine and
-    the Born-equilibrium positions add; run 1015''s other four P2s plus both run-1014
-    survivors all executed 2026-09-02, per-entry changelog-verified). Sections re-measured
-    via count_section_files: topics 324/360, concepts 321/360, voids 99/115, positions
-    17/80 - headroom everywhere, no cap filtering needed. UNCONSUMED RESEARCH x2,
-    both from the 2026-08-02 values-in-science note and the 2026-08-06 african-philosophy-of-mind-2020s
-    note, the only two recent notes whose payloads are verified landed under non-matching
-    slugs with follow-on residue: (1) P2 positions-evolve update on P-M2 - the values
-    note''s third follow-on (register the Ward justify/cause non-convergence finding);
-    follow-ons 1 and 2 verified landed on disk (duhem-quine L94-L96 Douglas/Rudner/Resnik-Elliott;
-    methodology-of-consciousness-research L146 Ward four-relations conditionalised),
-    register grep 0 for Ward/inductive/Longino across positions/; decline-with-reason
-    licensed in the task. (2) P3 stamping pass for both notes'' consumed_by (values
-    -> two topics articles; african -> african-philosophy-of-consciousness with Majeed
-    L83/L123, Agada L97/L125-126, Hountondji L73 all grep-verified live), same class
-    as the 08-21 stamping task. DELIBERATELY NOT MINTED, each verified live this run:
-    pending_articles fusion-void untouched (flagged operator decision per briefing);
-    notation-void expand (open NEEDS-HUMAN final-voids-slot entry owns it - note its
-    one-slot premise predates the 2026-09-01 cap raise to 115, flagged in the report,
-    entry not edited); suggestion-void disposition (its note calls fold-vs-standalone
-    a real judgement, the 09-01 voids-notes sweep deliberately left it open, and agency-void
-    - a named fold host - is hard_warning 3261w); harvester-owned subjects (improper-vs-proper
-    mixture, envariance Born-rule per briefing item 5); the 19:24 at-any-sensitivity
-    residue (both loci read in context on disk - born-rule L204/206 sits inside the
-    Lakatosian honest-cost passage, observational-closure L110 inside an asymmetry-owned
-    paragraph with floor-not-ceiling scoping - judged correct as stated, no per-locus
-    mint); positions 7b updates for today''s refines (born-rule 12:49 was metadata-only
-    anchoring exemption, zero body edits; valence 13:40 moved the article TOWARD the
-    register it cites - P-MC1-scoped lead - so citations track better, and value-in-selection
-    already carries an open positions P3; PCS 14:56 is a Depends-on not an Argued-in
-    citation in arguments-for-mental-causation); cross-review chains (last two expands
-    declined by run 1015 on same-day deep-review precedent, 18:21 coalesce was a reasoned-decline
-    abandon, no chain); consciousness-defeats-explanation (the values note flagged
-    it check-not-diagnosed; L160 read on disk, already conditionalised ''If consciousness
-    causally contributes''); staleness (P3 pool 94 pre-mint, starved; ai_modified-today
-    exclusion covers ~22 files); length (census re-run via get_length_warnings: live-article
-    offenders are the three veto-tagged condenses, operator-parked epistemology-of-convergence/volitional-control,
-    and positions-register standing decisions); orphans (quality 0); positions audit
-    (2026-08-24, inside 30d); applied-apex gap (two open apex-evolve P3s own it).
-    VETO/DUP CHECKS: vetoed bank grepped for Ward/values-in-science/demarcation/P-M2
-    and for both stamping subjects - 0 hits; active region grepped for both target
-    files - 0 collisions (methodology-and-calibration''s NEEDS-HUMAN entries are length/schema
-    operator items, not tasks on the file). PLACEMENT: appended at the BOTTOM of the
-    Active region before Completed Tasks (run-1013/1014/1015 precedent), git diff
-    pure insertion +17/-0, no existing task line shifted. Post-count re-measured after
-    the splice: live P0-P2 == 3 (floor met exactly - sources beyond these two are
-    verified drained, and a thin honest mint was preferred to padding; next replenish
-    fires on the next P2 completion, which is correct given the 95-deep P3 pool);
-    p2_tasks 6 counts all P2 headers including the three veto-tagged condenses; P3
-    pool 95.'
-  last_replenishment_run: 1016
+  last_replenishment_note: 'RUN 1017. STANDARD MODE, ONE MINT (P2 cross-review), fired by the 20:08 completion of
+    the Warning-1 surfaces P2 dropping live P0-P2 to 2 (Born-equilibrium add + P-M2
+    update, parser-verified per briefing). Sections re-measured via count_section_files:
+    topics 324/360, concepts 321/360, voids 99/115, positions 17/80 - no cap filtering
+    needed. THE MINT (chain): cross-review of topics/history-of-the-interaction-problem
+    considering topics/sherrington-dualist-lineage (expanded today) - grep of the
+    history article returns 0 for Sherrington/Penfield/Eccles while its spine runs
+    Materialist Eclipse into Quantum Opening, the exact arc the new article names; new
+    article has one inbound link (penfield, installed by the expand); 2678w headroom
+    real. Run-1015 same-day-chain decline addressed in the task note: this edits the
+    related hub, which the lineage article''s 07:31 deep-review never touches, and the
+    gap was grep-verified after that decline. DELIBERATELY NOT MINTED, each verified
+    this run: second cross-review on concepts/interactionist-dualism (0 Sherrington
+    mentions but 3478w = 22 words under the concepts 3500 hard ceiling by analyze_length
+    - link-add churn risk against a 95-deep P3 pool); bandwidth-of-consciousness
+    condense (4156w vs topics 4000 hard = 156w overage on a file with a 41-line
+    reference/list apparatus plus a yt-embed block - the false-over-length class - and
+    touched today +6 by the 17:29 replication sweep); remaining hard_warning offenders
+    all more marginal or adjudicated (introspection-architecture twice-condensed 05-25,
+    personal-identity and pragmatisms-path parked NEEDS-HUMAN, meaning-of-life and the
+    three P2 condenses veto-tagged, apex offenders in the conjunction-coalesce NEEDS-
+    HUMAN class); Lismer 2025 third-data-point refine on local-tomography (the open
+    harvester research-topic at todo L410 owns that article''s empirical-status section,
+    downstream refine chartered there - folding the datum belongs to that pass);
+    competency apex angle-3 fold (verified already landed on disk: built-flank paragraph
+    L67, inheritance note L123, Further Reading L150, Source-articles entry - the
+    expand''s left-for-apex-evolve flag is discharged, no mint); positions register
+    audit (last 2026-08-24, inside 30d per run 1016); fusion-void pending_articles entry
+    untouched (operator decision per briefing); notation-void (NEEDS-HUMAN final-slot
+    entry owns it); harvester-owned subjects untouched (improper-vs-proper mixture,
+    envariance); staleness (P3 pool saturated at 95; ai_modified-today exclusion covers
+    ~35 files incl the 20:08 twelve-file sweep); orphans (quality 0; sherrington not
+    orphaned, 1 inbound); at-any-sensitivity residue not re-raised (adjudicated run
+    1016). VETO/DUP: vetoed bank grepped 0 for sherrington and history-of-the-
+    interaction; active region 0 collisions on the target file; all briefing item-4
+    same-day P3s (Zurek, spontaneous-collapse, rival-ontology, consciousness-selecting,
+    Dennett/language-interface, two body echoes, consumed_by stamping) confirmed
+    distinct from the mint. PLACEMENT: appended at the BOTTOM of the Active region
+    before Completed Tasks, git diff pure insertion +8/-0, no existing line shifted.
+    Post-count re-measured after the splice: live P0-P2 == 3 (floor met exactly - a thin
+    honest mint preferred to padding, run-1016 precedent); p2_tasks 6 counts all P2
+    headers including the three veto-tagged condenses; P3 pool 95.'
+  last_replenishment_run: 1017
   loop_pickable_open: 3
   needs_replenishment: false
   p0_tasks: 0
@@ -519,7 +509,7 @@ queue_status:
   p2_tasks: 6
   p3_tasks: 95
   replenishment_source_counts:
-    chain: 0
+    chain: 1
     check_tenets: 0
     defect_family: 0
     gap_analysis: 0
@@ -531,7 +521,7 @@ queue_status:
     positions_register_gap: 0
     promotion_from_p3: 0
     staleness: 0
-    unconsumed_research: 2
+    unconsumed_research: 0
 tune_system_history:
   changes_applied:
   - date: '2026-07-15'
