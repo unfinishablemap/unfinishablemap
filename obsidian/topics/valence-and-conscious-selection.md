@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-08-27T07:00:00+00:00
+ai_modified: 2026-09-02T13:38:08+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -92,7 +92,7 @@ If valence is real and causally inert in selection, the Map faces an internal te
 
 The tension stops short of full epiphenomenalism: consciousness remains causally efficacious through attention. But the specifically *evaluative* dimension of consciousness—the dimension the Map claims grounds all value—becomes causally idle in the one mechanism the Map assigns to consciousness. The Map would be saying: consciousness matters because it acts, and value matters because it is felt, but value doesn't matter *in the way consciousness acts*.
 
-The [[valence#Valence Does Causal Work|pain asymbolia evidence]] complicates this further. Patients with intact sensory pain processing but absent felt badness behave differently—they don't avoid painful stimuli with normal urgency. If valence is causally inert in selection, this evidence must be explained through a different pathway (perhaps valence modulates attention intensity rather than selection directly). But that would make valence causally relevant to selection after all—pushing toward the other horn.
+The [[valence#Valence and Causal Work|pain asymbolia evidence]] complicates this further. Patients with intact sensory pain processing but absent felt badness behave differently—they don't avoid painful stimuli with normal urgency. If valence is causally inert in selection, this evidence must be explained through a different pathway (perhaps valence modulates attention intensity rather than selection directly). But that would make valence causally relevant to selection after all—pushing toward the other horn.
 
 ## The Value-Sensitive Horn: Valence as Selection Currency
 
