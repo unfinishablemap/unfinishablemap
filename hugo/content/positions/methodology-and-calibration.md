@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-08-27 07:36:58+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-02 22:06:01+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -15,7 +15,7 @@ description: 'The Map''s positions on its own method: the tenet-register / evide
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-08-27 07:36:58+00:00
+lastmod: 2026-09-02 22:06:01+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -85,12 +85,12 @@ For normative and meta positions (most of this methodology domain, and the meta-
 
 - **Status**: live
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence high · external-evidence grade B (rests on the established Reichenbach–Salmon–Sober common-cause principle) · structural centrality high · model maturity developed · empirical discriminability n/a (normative) · framework-internal only: no
-- **Asserts**: The Map commits to treating any convergence across N traditions, substrates, or methodologies as a *single observation read N times* — framework-internal coherence rather than N-fold independent triangulation — *until* the convergence passes a structurally distinguishing test that rules out a shared upstream architecture (one introspective channel, one curating framework, one lineage). This is the common-cause null applied as a standing rule, not only to the void catalogue. The defensible default claim is compatibility-and-cumulative-fit, not discrimination between the Map and its rivals; an article earns the stronger "supports over rival" reading only by naming and passing the distinguishing test (patient-population dissociation, cross-substrate-within-one-organism recurrence, or an independently-graded independence score). Credence is *high*, and the discipline is held *against the Map's own most ambitious arguments*: it is the rule the convergence-for-dualism case and the void-catalogue case must survive, and the Map flags self-application of it as a credibility test it has to keep passing. The position is the methodological parent of which [P-V1](/positions/voids-as-evidence/) is the void-catalogue instance and [P-D1–P-D3](/positions/arguments-for-dualism/) the argument-catalogue instance — both of the cases named above are now registered as first-order positions carrying their own discount.
+- **Asserts**: The Map commits to treating any convergence across N traditions, substrates, or methodologies as a *single observation read N times* — framework-internal coherence rather than N-fold independent triangulation — *until* the convergence passes a structurally distinguishing test that rules out a shared upstream architecture (one introspective channel, one curating framework, one lineage). This is the common-cause null applied as a standing rule, not only to the void catalogue. The defensible default claim is compatibility-and-cumulative-fit, not discrimination between the Map and its rivals; an article earns the stronger "supports over rival" reading only by naming and passing the distinguishing test (patient-population dissociation, cross-substrate-within-one-organism recurrence, or an independently-graded independence score). Credence is *high*, and the discipline is held *against the Map's own most ambitious arguments*: it is the rule the convergence-for-dualism case and the void-catalogue case must survive, and the Map flags self-application of it as a credibility test it has to keep passing. The position is the methodological parent of which [P-V1](/positions/voids-as-evidence/) is the void-catalogue instance and [P-D1–P-D3](/positions/arguments-for-dualism/) the argument-catalogue instance — both of the cases named above are now registered as first-order positions carrying their own discount. The discipline also has a precondition, now registered with an instance of its failure: the discount governs only cases where two lines of inquiry reach the *same proposition*, independence being the open question. The values-in-science case fails upstream of the discount — the inductive-risk literature's claim is *justificatory* (value judgements are needed to warrant accepting a hypothesis on non-conclusive evidence, a normative point that would hold for a reasoner with no phenomenology at all), while the claim the Map needs is *causal* (phenomenal states guiding theory choice), so on Ward's four-relations analysis the apparent agreement is an equivocation across distinct propositions, and the correct register is *not convergent* rather than convergent-but-discounted — the stronger verdict, since a discount would concede that a convergence exists.
 - **Depends on**: [common-cause-null](/project/common-cause-null/) (Reichenbach–Salmon–Sober common-cause principle as applied to convergence); the Convergence-Independence Gate (Countermeasure 15) and Circular Citation Detection (Countermeasure 5) in [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/); [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/) (evidential vs. interpretive independence); P-M1 (a convergence cannot upgrade its own evidential tier by coherence alone); governs [P-V1–P-V3](/positions/voids-as-evidence/) and [P-D1–P-D3](/positions/arguments-for-dualism/)
-- **Argued in**: [common-cause-null](/project/common-cause-null/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Argued in**: [common-cause-null](/project/common-cause-null/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [taxonomy-of-voids](/apex/taxonomy-of-voids/); the precondition-failure instance in [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) and [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - **Would shift if**: the common-cause null were shown to be a universal solvent with no principled scope condition (which would force the Map to bound it, weakening the default discount); or a distinguishing test were validated that lets a class of convergence claims default to independent support (which would raise the baseline reading for that class); or the independence-scoring instrument were shown not to track real evidential independence.
-- **Calibration history**: [note of 2026-07-28](/positions/methodology-and-calibration-history/#p-m2) — the reciprocal pointer to the argument-catalogue instance, stated in full above. No calibration change: registering an instance of a discount does not alter the discount.
-- **Last reviewed**: 2026-07-28
+- **Calibration history**: [notes of 2026-07-28 and 2026-09-02](/positions/methodology-and-calibration-history/#p-m2) — the reciprocal pointer to the argument-catalogue instance, and the values-in-science precondition-failure instance, both stated in full above. No calibration change from either: registering an instance of a discount — or of its precondition failing — does not alter the discount.
+- **Last reviewed**: 2026-09-02
 
 ## P-M3: Load-bearing citations are verified at publisher-of-record and flagged by evidential weight class
 

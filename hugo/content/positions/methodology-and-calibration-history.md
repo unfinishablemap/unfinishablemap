@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-03
-ai_modified: 2026-08-03 16:50:00+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-02 22:06:01+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -14,7 +14,7 @@ description: 'Relocated calibration audit trail for the methodology-and-calibrat
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-03 16:50:00+00:00
+lastmod: 2026-09-02 22:06:01+00:00
 modified: *id001
 related_articles:
 - '[[positions/methodology-and-calibration]]'
@@ -49,6 +49,8 @@ The seventh value, P-Q10's `model maturity n/a`, read the position's *subject* (
 Convergence is discounted to framework-internal coherence until a distinguishing test passes.
 
 - **Updated 2026-07-28**: added the reciprocal pointer to [P-D1–P-D3](/positions/arguments-for-dualism/), the argument-catalogue instance of this rule, alongside the existing pointer to the void-catalogue instance. Both of the two cases this entry's Asserts paragraph names — "the convergence-for-dualism case and the void-catalogue case" — are now registered; only the void case was before. No calibration change: the parent rule is unchanged, and registering an instance of a discount does not alter the discount.
+
+- **Updated 2026-09-02**: added the values-in-science instance — a registered case of the discipline's *precondition* failing rather than its discount applying. The 2026-08-02 research note on values in science and inductive risk found that the apparent convergence between the inductive-risk literature and the Map's phenomenal-guidance-of-theory-choice reading is an equivocation across Ward's four relations (a value may motivate, justify, cause, or be impacted by a choice): the literature's claim is justificatory and would hold for a reasoner with no phenomenology at all, the claim the Map needs is causal, so there is no shared proposition for two lines of inquiry to converge on, and the correct register is *not convergent* — stronger than convergent-but-discounted, which would concede that a convergence exists. The finding landed in [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) and [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) before registration; both are now named under **Argued in**. No calibration change: a scope condition sharpens the rule without moving any band.
 
 ## P-M3
 

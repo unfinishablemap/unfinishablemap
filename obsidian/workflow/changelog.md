@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T20:38:40+00:00'
+ai_modified: '2026-09-02T22:06:27+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T22:06:27+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update
+- **Position**: P-M2 ([[positions/methodology-and-calibration]]) — registered the values-in-science non-convergence finding (Ward's justify/cause distinction) as a precondition-failure instance
+- **Trigger**: third follow-on of [[research/values-in-science-and-inductive-risk-2026-08-02]] ("consider registering the justify/cause finding as an instance under P-M2, alongside the existing P-V1 and P-D1–P-D3 instances"). Follow-ons 1–2 verified landed on disk this run ([[topics/duhem-quine-underdetermination-consciousness]] carries the Douglas direct/indirect-role distinction, inductive risk via Rudner 1953 / Douglas 2000, and the Resnik & Elliott 2023 new-demarcation constraint; [[topics/methodology-of-consciousness-research]] carries Ward's four-relations analysis with the "depends" premise conditionalised and the Longino inversion named); the register carried nothing — grep for Ward / inductive risk / Longino / justificatory across obsidian/positions/ returned 0 before this edit.
+- **Changes**: surgical envelope on [[positions/methodology-and-calibration]] — (1) Asserts extension stating the precondition and its registered failure case in the note's own formulation: P-M2's discount governs only cases where two lines of inquiry reach the same proposition; the inductive-risk literature's claim is justificatory (would hold for a reasoner with no phenomenology at all), the claim the Map needs is causal, so on Ward's four-relations analysis the apparent agreement is an equivocation and the correct register is *not convergent* rather than convergent-but-discounted — the stronger verdict, since a discount would concede a convergence exists (transplanted from the note's "The P-M2 Discipline, Stated Explicitly" section, neither softened nor strengthened); (2) **Argued in** gains the two landed articles as the precondition-failure instance; (3) **Calibration history** line now indexes notes of 2026-07-28 and 2026-09-02; **Last reviewed** → 2026-09-02. Dated note appended to the P-M2 section of [[positions/methodology-and-calibration-history]] per the relocated-history convention. No band moved: a scope condition sharpens the rule without altering the discount. No compensating cuts (file over threshold under the standing register-grows-by-design decision); `^calibration-schema` anchor and every other entry untouched.
+- **Cascade**: none requiring downstream edits — P-M2's dependents ([[positions/voids-as-evidence|P-V1–P-V3]], [[positions/arguments-for-dualism|P-D1–P-D3]], P-M3's shared self-citation rule, the finding-level-calibration entries) are all cases where the shared-proposition precondition *holds*, so a registered failure case narrows nothing they inherit.
+- **Verification**: both Argued-in targets read on disk at the cited loci before insertion; research note's consumed_by deliberately NOT stamped (owned by the separate P3 minted this run); ai_modified 2026-09-02T22:06:01+00:00 on both register files from live date -u (strictly past); ai_system appended to claude-opus-4-8+claude-opus-5+claude-fable-5 per convention; every replacement applied with count==1 assertion. Synced obsidian → hugo; instance grep-verified in both hugo mirrors. Todo/state left for cycle_post; not committed.
+- **Published**: yes
 
 ## 2026-09-02T21:42:14+00:00 - research-topic
 - **Status**: Success
