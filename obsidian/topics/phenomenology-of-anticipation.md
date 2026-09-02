@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-08-12T21:52:03.447983+00:00
+ai_modified: 2026-09-02T11:06:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,9 +34,10 @@ related_articles:
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[non-temporal-consciousness]]"
   - "[[phenomenology-of-returning-attention]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-14T18:49:28+00:00
@@ -85,9 +86,13 @@ A crucial distinction separates protention from cognitive prediction. Predictive
 
 The difference matters. A thermostat "predicts" in the sense that its current state is calibrated to expected temperature changes. A predictive processing model generates probability distributions over future inputs. Neither has protention, because protention is a feature of *experience*, not of information processing. It is the felt incompleteness of the present moment, its experiential directedness toward a continuation that consciousness cannot yet inhabit but already reaches toward.
 
-A functionalist might object that a sufficiently complex predictive processing system just *would* have protention—that the phenomenological distinction marks a difference in descriptive vocabulary, not in ontology. But the [[philosophical-zombies|conceivability argument]] applies here with particular force: a system functionally identical to a conscious anticipator, running the same predictive models, could lack the felt forward-directedness entirely. The zombie processes prediction errors without any experience of reaching toward what comes next. This suggests protention names something that functional description cannot guarantee.
+A functionalist might object that a sufficiently complex predictive processing system just *would* have protention—that the phenomenological distinction marks a difference in descriptive vocabulary, not in ontology. That objection now has a framework-strength form. Laukkonen, Friston and Chandaria (2025) propose that consciousness arises precisely at the interface between continuous sensory perception and discrete, counterfactual policy selection—the "beautiful loop" by which a system's inference turns back on itself. Three conditions are jointly sufficient for experience, they argue: an *epistemic field* (the system simulates a world model fixing what can be known or acted upon), *Bayesian binding* (only inferences that coherently reduce long-term uncertainty win competitive entry to that model), and *epistemic depth* (the system's beliefs are recurrently shared throughout it, so the world model comes to contain the knowledge that it exists). Where a predictive architecture satisfies all three, the recursion *is* the experience. On this account felt forward-directedness is not left out of the computational story—it just *is* a precision-weighted generative expectation, the model's weighted reach toward the next moment, felt from inside because the reaching system recursively models itself reaching. Protention would be what active inference is like at the interface, with nothing further—physical or non-physical—needing to be supplied.
 
-The distinction parallels the broader [[explanatory-gap|explanatory gap]]. Even a complete predictive processing account of the brain's anticipatory mechanisms would leave untouched the question of what it is like to experience anticipation—why there is a phenomenal character to expecting rather than just a computational one.
+One reply is the [[philosophical-zombies|conceivability argument]]: a system functionally identical to a conscious anticipator, running the same predictive models, could lack the felt forward-directedness entirely, processing prediction errors without any experience of reaching toward what comes next. But that move cannot stand alone here, because the beautiful-loop theory is built to entail experience from the dynamics—it simply denies that such a duplicate is possible, and invoked by itself the zombie begs the question the theory was constructed to close. The Map's fuller reply, developed against the beautiful-loop theory in [[predictive-processing-and-dualism]], targets the entailment instead. The three conditions are conditions on *representational structure*: precision weighting is a fact about which prediction errors receive gain, and epistemic depth is recurrence—beliefs shared through the system until the model registers its own existence. Taking that registering to *constitute* felt reaching is the step where the framework helps itself to exactly the bridge the hard problem asks it to build; nothing in the machinery of weighted expectation shows why the weighting is felt rather than merely run. A flight simulator can recurrently track its own running state and weight its forecasts by their reliability; adding that closed loop does not make the simulator a pilot.
+
+The theory's most sophisticated countermove sharpens the objection rather than dissolving it. A system with epistemic depth will *model and report* itself as having felt anticipation—the seeming-of-reaching falls out of the self-model. Yet this predicts the conviction of protention equally well whether or not the conviction tracks anything. What remains is a disagreement at the framework boundary, and the Map marks it as such rather than dressing it as a refutation: both sides can agree that a precision-weighted generative model is the best available mechanistic account of anticipation's neural side. They part on whether the recursion is complete in itself or is the physical side of an interface whose felt side it specifies but does not generate. Neither side refutes the other from inside its own commitments.
+
+The distinction parallels the broader [[explanatory-gap|explanatory gap]]. The step from anticipatory mechanism to felt anticipation that the beautiful-loop theory has not shown how to take is a local instance of the general question: why is any representational structure, however self-involving, accompanied by experience at all—why is there a phenomenal character to expecting rather than just a computational one.
 
 ## The Asymmetry with Retention
 
@@ -143,15 +148,15 @@ The Map suggests this is another instance where [[explanatory-gap|the explanator
 
 Protention supports and illuminates several of the Map's foundational commitments.
 
-**[[tenets#^dualism|Dualism]]**: The phenomenal character of protention—what forward-directedness feels like—cannot be captured by computational description. Predictive processing models explain the brain's anticipatory mechanisms but leave untouched the experiential dimension: why anticipation feels like *reaching toward* rather than merely processing probabilities. Protention is a temporal quale, irreducible to functional specification.
+**[[tenets#^dualism|Dualism]]**: The phenomenal character of protention—what forward-directedness feels like—is where the argument with active inference above comes to rest. The strongest computational account identifies that feel with a precision-weighted generative expectation, and the identification specifies the structure of anticipation with real precision while leaving the step from weighted expectation to felt reaching undelivered by its own resources. The support this lends dualism is scoped to what the argument shows: the gap stands open at exactly the point the identification claims to close it—an unclosed seam, not a proof that no computational account could ever succeed.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Protention's active, directional character supports the claim that consciousness shapes physical outcomes. In deliberation, protentional orientation toward one possible future over another may participate in selecting which neural patterns become actual—consciousness reaching toward the future it will inhabit.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Protention's active, directional character is what experience would be expected to feel like if consciousness shapes physical outcomes. In deliberation, protentional orientation toward one possible future over another would be consciousness reaching toward the future it participates in selecting. The datum bears unevenly on the tenet, though: an active-inference reading takes the same felt reaching to be policy selection running inside the loop, so the phenomenology is consonant with Tenet 3 rather than demonstrating it.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If protention's active, directional character reflects consciousness orienting toward particular outcomes, this orientation may operate at the quantum level—biasing which of several superposed neural configurations becomes actual. Protention would then be the phenomenological dimension of the minimal quantum interaction the Map posits: what it feels like from inside when consciousness participates in [[time-collapse-and-agency|collapse]].
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Protention presupposes a single anticipated future. When you lean into the next note of a melody, your experience is structured around *one* continuation, not a branching tree. A many-worlds defender might reply that this singular appearance is compatible with branching—each branch experiences its own singular anticipation. The phenomenological datum alone does not settle the metaphysical question, but it does reveal that the *structure of experience* is oriented toward actualisation rather than proliferation, lending experiential plausibility to the Map's rejection of many-worlds branching.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation to reduce protention to prediction—to treat it as nothing more than the brain's forward model—reflects the parsimony bias the Map challenges. The phenomenological datum is richer than the computational description: anticipation has experiential character that prediction error minimisation doesn't capture.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation to reduce protention to prediction—to treat it as nothing more than the brain's forward model—reflects the parsimony bias the Map challenges. The phenomenological datum is richer than the computational description: anticipation has an experiential character that precision-weighted prediction specifies from outside without showing why it is felt, and treating the more economical story as therefore the complete one mistakes parsimony for closure.
 
 ## Further Reading
 
@@ -172,6 +177,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [[phenomenology-of-intellectual-life]] — Temporal meaning as one of five phenomenal meaning modes
 - [[non-temporal-consciousness]] — Whether the deepest level of consciousness can shed protentional structure while remaining alert
 - [[phenomenology-of-returning-attention]] — Where ordinary attentional return re-engages protentional structure after wandering
+- [[predictive-processing-and-dualism]] — The full engagement with active inference and the beautiful-loop theory of consciousness
 
 ## References
 
@@ -180,6 +186,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 1. Bergson, H. (1910). *Time and Free Will: An Essay on the Immediate Data of Consciousness* (trans. Pogson). George Allen & Unwin. (Original work published 1889)
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
 1. Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
 1. Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 420-438). Oxford University Press.
 1. Varela, F.J. (1999). Present-time consciousness. *Journal of Consciousness Studies*, 6(2-3), 111-140.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

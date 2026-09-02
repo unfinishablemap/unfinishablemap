@@ -45,15 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-09-02
 
-### P2: `apex/born-preserving-causal-efficacy` — the formalism is one-step; a self-concealing selector needs trajectory-level Born preservation, which sharpens the trilemma
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/born-preserving-causal-efficacy.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-02-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-02
-- **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
-
 ### P3: `apex/born-preserving-causal-efficacy` — DEFERRED REMAINDER: install the trajectory-level closure debt (ChatGPT 2026-09-02 §1.1) once the apex has length headroom
 - **Type**: refine-draft
 - **File**: obsidian/apex/born-preserving-causal-efficacy.md
@@ -1900,6 +1891,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-02: `apex/born-preserving-causal-efficacy` — the formalism is one-step; a self-concealing selector needs trajectory-level Born preservation, which sharpens the trilemma
+- **Type**: refine-draft
+- **File**: obsidian/apex/born-preserving-causal-efficacy.md
+- **Notes**: Review §1.1. **Distinct from the open 08-24 P3 on do(C) identification (same file — coordinate if both run; do not fold).** Even with every one-time marginal Born-exact, an adaptive selector can surface in the joint distribution of histories: serial dependence, intention-outcome lag correlations, context-dependent runs, adaptive stopping-time effects, policy-conditioned distributions over whole life histories. Full self-concealment therefore needs the history-conditioned closure P(O_t given H_t, do(C_t), X_t) = q(O_t given H_t, X_t) for every realisable history and policy — yielding a sharper three-way choice: preserve only one-time marginals (mental action may leak through trajectories), preserve every history-conditioned kernel (consciousness empirically idle at every temporal grain), or restrict admissible intention sequences (history-level psychophysical superselection). The page's existing sequential-dependency remark is the seed; name this as debt at the register's grade — the Map owes a Born-preserving stochastic PROCESS, not just a coupling map. Apex length is binding: run the length analyzer first; if there is no headroom, record the deficit and defer rather than compress. Sync both trees.
 
 ### ✓ 2026-09-02: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
 - **Type**: refine-draft
