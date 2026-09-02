@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-08-06T21:46:03+00:00
+ai_modified: 2026-09-02T03:38:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[neuroplasticity]]"
   - "[[phenomenal-contrast-method]]"
+  - "[[semanticisation]]"
 related_articles:
   - "[[inaccessible-past]]"
   - "[[baseline-cognition]]"
@@ -46,7 +47,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 ai_generated_date: 2026-02-08
 last_curated:
 last_deep_review: 2026-08-06T21:46:03+00:00
@@ -78,11 +79,11 @@ If memory were pure information processing, certain asymmetries would not exist.
 
 ### The Encoding-Consolidation Split
 
-Memory formation divides into a conscious phase (encoding) and an unconscious phase (consolidation). During encoding, attention determines what enters memory—[[working-memory|working memory]] serves as the interface, holding information in the [[temporal-consciousness|specious present]] — an experienced duration lasting roughly 100 milliseconds to 5 seconds. Without conscious attention, encoding fails—inattentional blindness prevents encoding of unattended stimuli even in fully awake subjects, and deep anaesthesia blocks new episodic memory formation entirely.
+Memory formation divides into a conscious phase (encoding) and an unconscious phase (consolidation). During encoding, attention determines what enters memory—[[working-memory|working memory]] serves as the interface, holding information in the [[temporal-consciousness|specious present]]. Without conscious attention, encoding fails—inattentional blindness prevents encoding of unattended stimuli even in fully awake subjects, and deep anaesthesia blocks new episodic memory formation entirely.
 
 Consolidation operates on two timescales. **Synaptic consolidation** stabilises a trace within hours of encoding through protein synthesis and structural changes at the synapse. **Systems consolidation** transfers the trace from hippocampal dependence to distributed cortical storage over weeks to years. During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples (100–250 Hz) coordinated with thalamocortical sleep spindles (10–16 Hz) and cortical slow oscillations (less than 1 Hz), gradually transferring memory traces to long-term cortical storage. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) provided causal evidence for this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop stimulation enhanced consolidation measurably. Multiple memory traces replay simultaneously—unlike the [[bandwidth-of-consciousness|serial bottleneck]] of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
 
-The process is not mere copying. As cortical traces strengthen, the memory integrates with pre-existing schemas—general knowledge structures that organise experience into categories. This integration supports generalisation and prediction, but at a phenomenological cost. The hippocampal trace preserves contextual specificity—the sensory details that made the experience *this* particular event. As cortical traces gain independence and the hippocampal contribution fades, those details erode.
+As cortical traces strengthen, the memory integrates with pre-existing schemas—general knowledge structures that organise experience into categories—supporting generalisation and prediction at a phenomenological cost: the hippocampal trace preserves the contextual specificity—the sensory details that made the experience *this* particular event—and as the hippocampal contribution fades, those details erode.
 
 This split exemplifies the Map's [[capability-division-problem|capability division problem]]: which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [[episodic-memory|dual-domain capability]] framework generalises this: the division falls at the juncture between computational processing and phenomenal engagement.
 
@@ -96,7 +97,7 @@ If consciousness were epiphenomenal, this distinction would be inexplicable. Why
 
 ### Choking as Causal Evidence
 
-Perhaps the most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—a phenomenon called "reinvestment"—performance degrades. A golfer who thinks about their swing hits worse. A pianist who attends to finger placement stumbles.
+Perhaps the most striking evidence for consciousness's causal role comes from its *interference* with automatised skills. When experts consciously attend to procedures that have become automatic—a phenomenon called "reinvestment"—performance degrades. A golfer who thinks about their swing hits worse.
 
 The materialist can reframe this as neural competition—prefrontal explicit-monitoring networks interfering with basal ganglia automaticity—without invoking non-physical causation. But this redescription does not dissolve the puzzle: it is the *conscious* character of the monitoring that makes it disruptive. Unconscious priming of the same motor sequences does not produce choking. If consciousness were epiphenomenal, attending to an automatic skill could not affect its execution—the case the Map examines in detail in [[empirical-phenomena-mental-causation|the choking phenomenon]].
 
@@ -132,17 +133,19 @@ A memory's phenomenal character changes through consolidation along a distinctiv
 
 **Days to weeks**: Peripheral details thin while the narrative core strengthens. Emotional intensity shifts through reconsolidation effects. The memory becomes more story-like—a causal sequence rather than a snapshot.
 
-**Months to years**: Recall produces gist rather than texture. The [[anoetic-noetic-autonoetic-consciousness|autonoetic quality]] diminishes—the memory feels more like knowing (noetic) than reliving (autonoetic). Emotional tone persists but in a transformed register. Specific sensory details survive only through rehearsal or strong emotional charge.
+**Months to years**: Recall produces gist rather than texture. The [[anoetic-noetic-autonoetic-consciousness|autonoetic quality]] diminishes—the memory feels more like knowing than reliving. Emotional tone persists but in a transformed register. Specific sensory details survive only through rehearsal or strong emotional charge.
 
-**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed. The trajectory's endpoint is childhood amnesia—the universal inability to retrieve episodic memories from before age three to four. The [[infant-consciousness|infant consciousness void]] reveals that this amnesia is not merely forgetting but architectural destruction: the immature hippocampal circuits that encoded early experience are physically remodelled, and the absence of autonoetic self-concept means infant memories were never stored in formats the adult retrieval system can access.
+**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed. The trajectory's endpoint is childhood amnesia—the universal inability to retrieve episodic memories from before age three to four; the [[infant-consciousness|infant consciousness void]] reveals this as architectural destruction rather than mere forgetting: immature hippocampal circuits are physically remodelled, and without an autonoetic self-concept, infant memories were never stored in formats the adult retrieval system can access.
 
-This trajectory describes a systematic transformation of phenomenal character that physicalists must explain. Functionalists can point to the different computational roles played by hippocampal versus cortical retrieval, but this relocates the problem: it explains *that* the functional profile changes, not *why* functional change produces the specific qualitative shift from vivid re-experiencing to bare knowing. Predictive processing accounts can frame schematisation as increasing predictive compression, but they still face the gap between describing an information-theoretic transformation and explaining why compression should feel like anything at all. Complementary Learning Systems (CLS) models explain *why* memories schematise—the hippocampal system learns rapidly and retains contextual specifics, while the cortical system extracts statistical regularities through slow interleaved replay (McClelland et al., 1995)—but they track the information trajectory without addressing the phenomenal one. The variable that tracks the qualitative shift most closely is hippocampal involvement—which, on the Map's framework, is where the [[attention-as-interface|consciousness interface]] engages most directly with memory traces.
+The staging describes the phenomenology; the neural time course beneath it is not a smooth decay. Tracking autobiographical memories longitudinally with fMRI, Barry, Chadwick and Maguire (2018) found ventromedial prefrontal recruitment rising and falling around a peak at eight to twelve months before re-engaging for two- and five-year-old memories—nonmonotonicity replicated across independent memory sets. The transformation itself—[[semanticisation]]—has its own article, weighing this evidence and the reading on which fading is loss of access rather than change in the trace.
+
+This trajectory describes a systematic transformation of phenomenal character that physicalists must explain. Functionalists can point to the different computational roles played by hippocampal versus cortical retrieval, but this relocates the problem: it explains *that* the functional profile changes, not *why* functional change produces the specific qualitative shift. Predictive processing accounts can frame schematisation as increasing predictive compression, but they still face the gap between describing an information-theoretic transformation and explaining why compression should feel like anything. Complementary Learning Systems models explain *why* memories schematise—the hippocampal system learns rapidly and retains contextual specifics, while the cortical system extracts statistical regularities through slow interleaved replay (McClelland et al., 1995)—but they track the information trajectory without addressing the phenomenal one. The variable that tracks the qualitative shift most closely is hippocampal involvement—which, on the Map's framework, is where the [[attention-as-interface|consciousness interface]] engages most directly with memory traces.
 
 ## Binding Without Unity
 
 The [[binding-problem|binding problem]] asks how distributed neural activity produces unified experience. Memory consolidation introduces a revealing variation: during sleep, analogous binding operations occur—linking spatial context to emotional tone, integrating new memories with existing schemas—but without generating unified experience.
 
-This reveals that "binding" conflates two distinct phenomena. **Computational binding** is the neural process of linking distributed information into functional wholes. **Phenomenal binding** is the experiential unification of those wholes into something it is like to undergo. Sleep consolidation appears to show that the first can occur without the second. The brain can integrate information across memory traces, build cross-memory connections, and update schemas—all binding operations—without the unity characteristic of conscious experience.
+This reveals that "binding" conflates two distinct phenomena. **Computational binding** is the neural process of linking distributed information into functional wholes. **Phenomenal binding** is the experiential unification of those wholes into something it is like to undergo. Sleep consolidation appears to show that the first can occur without the second.
 
 For the Map, this is exactly what the interface model predicts. Phenomenal unity is not a product of computational binding; it is a product of consciousness engaging with computationally bound representations through the [[attention-as-interface|attention interface]]. When the interface is offline, binding proceeds at the computational level without phenomenal accompaniment.
 
@@ -162,11 +165,11 @@ The graduated nature of these modes complicates materialist identification of co
 
 ## The Memory Void and Qualia Persistence
 
-The [[inaccessible-past|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Each act of recall generates a new experience rather than accessing a stored original. Memories are contaminated by subsequent experience, modified where retrieval reopens the trace, and shaped by present emotional states. The [[simulation-theory-of-memory|simulation theory of memory]] presses this further—Michaelian's post-causal version holds that remembering simply *is* imagining the past, dropping even the retained trace—and the Map's reply turns on the explanatory residue that construction alone cannot absorb.
+The [[inaccessible-past|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Memories are contaminated by subsequent experience, modified where retrieval reopens the trace, and shaped by present emotional states. The [[simulation-theory-of-memory|simulation theory of memory]] presses this further—Michaelian's post-causal version holds that remembering simply *is* imagining the past, dropping even the retained trace—and the Map's reply turns on the explanatory residue that construction alone cannot absorb.
 
-For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [[episodic-memory|dual-domain]] pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
+For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? This is the temporal dimension of the [[episodic-memory|dual-domain]] pattern: propositional content—the *that* of what happened—persists in neural traces across time, while phenomenal content—*what it was like*—does not seem to persist as such and must be reconstituted at each act of recall.
 
-The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
+The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why conscious experience—supposedly physical—fails to persist as other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 
 The [[memory-anomalies|memory anomalies cluster]]—déjà vu, jamais vu, and cryptomnesia—shows a related dissociation along a different axis: not the persistence of past phenomenology but the independence of present phenomenal output from its causal source. Each anomaly produces felt pastness, alienness, or ownership without the corresponding source machinery firing as it normally would, exhibiting at the level of present experience what the consolidation trajectory exhibits across time.
 
@@ -244,3 +247,4 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 1. Kida, S. (2020). Function and mechanisms of memory destabilization and reconsolidation after retrieval. *Proceedings of the Japan Academy, Series B*, 96(3), 95–106.
 1. Winocur, G. & Moscovitch, M. (2011). Memory transformation and systems consolidation. *Journal of the International Neuropsychological Society*, 17(5), 766–780.
 1. McClelland, J. L., McNaughton, B. L. & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex. *Psychological Review*, 102(3), 419–457.
+1. Barry, D. N., Chadwick, M. J. & Maguire, E. A. (2018). Nonmonotonic recruitment of ventromedial prefrontal cortex during remote memory recall. *PLoS Biology*, 16(7), e2005479.

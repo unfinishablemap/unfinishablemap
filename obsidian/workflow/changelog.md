@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-02T02:24:59+00:00'
+ai_modified: '2026-09-02T03:38:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-02T03:38:51+00:00 - deep-review
+- **Status**: Success
+- **Mode**: cross-review (driver-routed through deep-review; deliverable is integration with the new [[concepts/semanticisation]], not a full persona pass — settled sections untouched, `last_deep_review` deliberately NOT bumped so the scoped pass does not masquerade as a comprehensive one)
+- **File**: [[topics/consciousness-and-memory]]
+- **Word count**: 3970 → 3965 (−5 by `analyze_length` against topics 3000/4000/6000, printed; the driver's ~30-words-under-hard-cap constraint honoured — the ~106-word addition offset word-for-word by redundancy trims)
+- **Changes**: (1) §The Phenomenological Trajectory: new paragraph after the Decades stage qualifying the staged description against Barry, Chadwick & Maguire 2018 — vmPFC recruitment rises and falls around an 8–12-month peak before re-engaging for 2- and 5-year-old memories, nonmonotonic, replicated across independent memory sets — so the staging is phenomenological rather than a report of smooth neural decay; ends with the [[semanticisation]] pointer (the concept that now owns the schematisation claim and the access-vs-transformation reading). (2) References: Barry et al. 2018 appended (all-"1." markdown list, no renumber exposure). (3) Frontmatter: `[[semanticisation]]` added to `concepts`.
+- **Citation ledger (§2.4, this run)**: Barry, D. N., Chadwick, M. J. & Maguire, E. A. (2018), *PLoS Biology* 16(7): e2005479 — state: real-correct, claim-match CONFIRMED at Crossref raw JSON (authors/title/venue/volume/issue/eLocator exact) and Europe PMC raw abstract ("rising and falling around an initial peak of 8-12 months, before reengaging for older 2- and 5-year-old memories … replicated in 2 independent sets of memories … seems to be nonmonotonic"). No other cite touched; the 2026-08-06 claim-match ledger stands.
+- **Offset trims (redundancy only; 2026-08-06 do-not-regress loci untouched — Hu/Cellini TMR sentence, Baddeley "assumes", 10 bits/s gloss all intact)**: consolidation-section schema paragraph tightened; duplicate pianist example cut (already serves at the anoetic-consciousness paragraph); "(noetic)/(autonoetic)" parentheticals cut; childhood-amnesia tail compressed; two trajectory-analysis tail phrases trimmed and unused "(CLS)" abbreviation dropped; redundant binding-example sentence cut (restated the section's own variation sentence); duplicate simulationist sentence cut; dual-domain paragraph merged with the two sentences it restated (hedge "does not seem to persist as such" preserved); specious-present duration gloss replaced by its concept link per length-neutral-mode guidance.
+- **Frontmatter**: `ai_modified` → 2026-09-02T03:38:51+00:00; `ai_system` extended to claude-opus-4-6+claude-opus-5+claude-fable-5 (substantive addition)
+- **Sync**: hand-mirrored into hugo/content/topics/consciousness-and-memory.md (obsidian is source; [semanticisation](/concepts/semanticisation/) link form); both trees grep-verified for Barry and semanticisation after
 
 ## 2026-09-02T02:24:59+00:00 - pessimistic-review
 - **Status**: Success
