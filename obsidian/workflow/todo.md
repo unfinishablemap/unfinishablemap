@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Diary-method and reinstatement-probe studies of within-memory phenomenology over time
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-semanticisation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-semanticisation-wing High Priority: the semanticisation falsifier's decisive measurement - longitudinal tracking, within a single memory, of felt re-experiencing as it semanticises - was not found by the August search, and the page declares the search ceiling (semanticisation vocabulary only, no full text; such a study could be indexed under diary-study or consolidation terms). Consumption target may be a falsifier-design/currency section in existing pages rather than a new article - assess-first. Tenet 1's sharpest memory-side test; Tenet 5 on the underdetermined one-kind revision. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/diary-method-and-reinstatement-probe-studies-of-within-memory-phenomenology-over-time-2026-09-02.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'diary-method-and-reinstatement-probe-studies-of-within-memory-phenomenology-over-time' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
+### P3: Research Personal semantics as the bridge category between episodic and semantic memory
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-02-semanticisation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-02-semanticisation-wing Medium Priority: the hybrid forms are the gradation argument's chief exhibit AND the constitutive reading's chief challenge, with their own literature (Renoult 2012 named category; intermediate electrophysiological signatures; autobiographical-fact vs repeated-event subtypes) - currently carried in two live files' paragraphs with no page owning what the intermediate forms show about the quale. Review grants an explicit assess-first licence to decline the page. Tenet 1 via the content/manner boundary case; Tenet 5 on what proliferating hybrids can establish. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/personal-semantics-as-the-bridge-category-between-episodic-and-semantic-memory-2026-09-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'personal-semantics-as-the-bridge-category-between-episodic-and-semantic-memory' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-02
+
 ### P2: `concepts/conservation-laws-and-mental-causation` — mean-energy preservation does not establish thermodynamic innocence; add the extractable-work section
 - **Type**: refine-draft
 - **Status**: pending
