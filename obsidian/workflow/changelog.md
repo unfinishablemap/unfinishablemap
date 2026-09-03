@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T00:49:13+00:00'
+ai_modified: '2026-09-03T01:27:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-03T01:27:04+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/cognitive-integration-and-the-self (oldest live topic by ai_modified 2026-05-27; last deep review 2026-06-25; last dedicated pessimistic attention 2026-03-05)
+- **Output**: [[reviews/pessimistic-2026-09-03-cognitive-integration-and-the-self]]
+- **Tasks**: 1 refine-draft P3 minted — Tenet 4 integration-fracture family (loci to be added to the open fourteen-locus sweep), integration-constitutes-identity contradiction, mechanism-debt overshoot, REM-consolidation claim, DID for-me-ness, dead tenets anchors
 
 ## 2026-09-03T00:49:13+00:00 - refine-draft
 - **Status**: Success
