@@ -11,6 +11,12 @@ from typing import Any, Optional
 import frontmatter
 
 from .errors import BrokenWikilink, SlugCollision, SyncReport, SyncValidationError
+from .positions import (
+    autolink_positions,
+    build_position_index,
+    build_position_metadata,
+    write_position_data,
+)
 from .wikilinks import (
     SYNC_DIRS,
     convert_block_references,
@@ -19,6 +25,23 @@ from .wikilinks import (
 )
 
 log = logging.getLogger(__name__)
+
+# Position-ID -> domain-file slug, built once per process. The register is read
+# thousands of times during a full sync (once per converted file), so building
+# it per call would re-read all 14 domain files each time.
+_POSITION_INDEX: Optional[dict[str, str]] = None
+
+
+def get_position_index(positions_dir: Optional[Path] = None) -> dict[str, str]:
+    """Cached position index. Pass a directory to rebuild (used by tests)."""
+    global _POSITION_INDEX
+    if positions_dir is not None:
+        _POSITION_INDEX = build_position_index(positions_dir)
+    elif _POSITION_INDEX is None:
+        _POSITION_INDEX = build_position_index(
+            Path(__file__).parent.parent.parent / "obsidian" / "positions"
+        )
+    return _POSITION_INDEX
 
 # Frontmatter fields consulted to derive Hugo's `lastmod`, in no particular
 # order -- the maximum wins. `date` is included only as a floor so that a page
@@ -144,6 +167,16 @@ def convert_obsidian_to_hugo(
     # Build content index for wikilink resolution
     content_index, collisions = build_content_index(obsidian_path, sync_dirs, exclude_drafts)
     report.slug_collisions = collisions
+
+    # Refresh the position index/metadata from source before converting anything,
+    # so a run that adds a position links and tooltips it in the same pass.
+    positions_dir = obsidian_path / "positions"
+    get_position_index(positions_dir)
+    if not dry_run:
+        write_position_data(
+            build_position_metadata(positions_dir),
+            hugo_content_path.parent / "data" / "positions.yaml",
+        )
 
     # Handle root index.md -> _index.md (site landing page)
     root_index = obsidian_path / "index.md"
@@ -433,6 +466,12 @@ def convert_file(
         content = convert_wikilinks(content, link_resolver=link_resolver)
     else:
         content = convert_wikilinks(content)
+
+    # Auto-link bare position IDs (P-Q3, P-MS1, ...) into the register.
+    # Runs after wikilinks so already-linked mentions are protected as markdown
+    # links, and after block references so the <span id="..."> anchors it
+    # targets are present and skipped rather than rewritten.
+    content = autolink_positions(content, get_position_index())
 
     # Convert Obsidian callouts to Hugo shortcodes (if needed)
     content = convert_callouts(content)
