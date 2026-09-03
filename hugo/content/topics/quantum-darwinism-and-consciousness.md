@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-03 01:59:02+00:00
+ai_modified: 2026-09-03 02:36:32+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 02:26:21+00:00
-lastmod: 2026-09-03 01:59:02+00:00
+lastmod: 2026-09-03 02:36:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ This is not a controversial assessment within quantum foundations. Zurek acknowl
 
 Many philosophers of physics sharpen the gap using the distinction between [*improper* and *proper* mixtures](/concepts/improper-vs-proper-mixtures/). A proper mixture represents classical ignorance: the system is in one state, and the probabilities reflect our lack of knowledge. An improper mixture—what decoherence and quantum Darwinism produce—is mathematically identical but physically different. It is derived by tracing out environmental degrees of freedom from an entangled state. D'Espagnat (1976) argued that the improper mixture does not justify the conclusion that the system is *already* in one definite state.
 
-This distinction is not universally accepted as decisive. Some physicists contend that once decoherence is sufficiently thorough, the improper/proper distinction loses practical significance—the reduced density matrix behaves operationally as if it were a proper mixture, and no experiment can distinguish the two. On this view, decoherence may come closer to solving the outcome problem than the Map suggests. Others, including some Everettians, dissolve the problem differently by denying that a single outcome needs selecting at all.
+This distinction is not universally accepted as decisive. Some physicists contend that once decoherence is sufficiently thorough, the improper/proper distinction loses practical significance—the reduced density matrix behaves operationally as if it were a proper mixture, and no measurement on the system alone can distinguish the two in the irreversible macroscopic regime (though [in reversible regimes the difference remains observable](/concepts/improper-vs-proper-mixtures/#detectability)). On this view, decoherence may come closer to solving the outcome problem than the Map suggests. Others, including some Everettians, dissolve the problem differently by denying that a single outcome needs selecting at all.
 
 The Map takes the d'Espagnat line seriously: mathematical indistinguishability does not entail physical identity, and the question of why *this* outcome obtains remains open. But this is a contested interpretive commitment, not an uncontroversial result of the formalism. The strength of the Map's position here depends on accepting that the improper/proper distinction carries ontological weight—a view with significant support (Schlosshauer 2007, Ch. 2) but genuine opposition.
 
@@ -116,7 +116,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 
 The Map's proposal that consciousness selects among pointer states is constrained in ways that make it empirically disciplined, if not straightforwardly falsifiable in a single experiment. Any reproducible deviation from Born-rule statistics in conscious observation—compared to automated detection under identical conditions—would bear on the proposal. More precisely: if consciousness biases outcome selection, its influence must be statistically invisible at the ensemble level (matching Born-rule predictions), so a confirmed deviation from Born statistics in consciousness-dependent experimental contexts would refute the framework. The asymmetry is the point: the proposal predicts a null ensemble effect, so it is refutable (a deviation kills it) but not symmetrically confirmable, which is why the vacuity worry above and this falsifiability claim are two faces of one fact—the empirical content lives entirely on the refutation side.
 
-Conversely, the proposal would face serious difficulty if the improper/proper mixture distinction were shown to be physically empty—for instance, if a no-go theorem demonstrated that decoherence alone necessarily produces definite outcomes without any interpretive addition. The Map's framework rests on the outcome gap remaining open; closing it by physics alone would remove the locus where consciousness is proposed to act.
+Conversely, the proposal would face serious difficulty if the improper/proper mixture distinction were shown to be physically empty. The [genuine forms of that defeater](/concepts/improper-vs-proper-mixtures/#trilemma) come in three live routes—empirically confirmed objective collapse, Everettian branching, or an epistemic reading of quantum states—while the once-natural fourth, a no-go theorem that decoherence alone necessarily produces definite outcomes, would run against the insolubility theorems inside unitary quantum mechanics. The Map's framework rests on the outcome gap remaining open; any of the three routes succeeding would remove the locus where consciousness is proposed to act.
 
 These constraints do not make the proposal easily testable with current technology, and this is a genuine limitation. The Map's honesty requires acknowledging that the consciousness-selection hypothesis sits at the boundary of empirical accessibility—motivated by a real gap in physics, but not yet subject to decisive experimental adjudication.
 

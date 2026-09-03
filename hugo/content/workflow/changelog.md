@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-03T02:41:59+00:00 - cross-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Context**: Cross-review in light of [improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/) (run-1022 mint) — L66's deflationist report was unscoped against the page's detectability verdict; L116's for-instance defeater named the no-go hypothetical the page's trilemma retires
+- **Word count**: 2445 → 2492 (+47; 83% of topics soft 3000, ok — both edits replacement-level deferrals; the gain is the regime qualifiers and three named routes the flat originals lacked)
+- **Changes**: (1) L66 scoped to the irreversible-macroscopic/local regime with anchored deferral to the page's detectability section (reversible-regime observability carried in the link clause); follow-on honest-reporting sentence kept verbatim. (2) L116 defeater recast to the page's trilemma via anchor — objective collapse / Everettian branching / epistemic reading of states — with the no-go fourth retired by name against the insolubility theorems, honesty framing retained
+- **Declined**: optional L68 "genuine opposition" wrap — page already linked twice in the same screen (L64 body + new L66 anchor); a third same-target link in three consecutive paragraphs is clutter, not flow
+- **Fences**: Zurek quoted spans L54/L62 untouched (quote-fidelity P3); envariance L86–88 untouched (run-1023 adjudication); no QBism link (rival-ontology P3)
+- **Frontmatter**: ai_modified advanced (strictly-past UTC); last_deep_review deliberately NOT advanced (scoped cross-review, Sherrington precedent); ai_system unchanged (clause-level)
+- **Verification**: grep-verified both trees — trilemma-anchor link 1, detectability link 1, unscoped "no experiment can distinguish the two" 0 in the article; hugo mirror hand-synced
+- **Output**: [cross-review-2026-09-03-quantum-darwinism-and-consciousness](/reviews/cross-review-2026-09-03-quantum-darwinism-and-consciousness/)
+
 ## 2026-09-03T01:59:02+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Envariance and the symmetry derivation of the Born rule
