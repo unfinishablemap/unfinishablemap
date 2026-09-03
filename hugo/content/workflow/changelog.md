@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T00:09:49+00:00'
+ai_modified: '2026-09-03T00:29:51+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 concepts: []
 date: '2026-09-03'
-lastmod: 2026-09-03 00:09:49+00:00
+lastmod: 2026-09-03 00:29:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-03T00:29:51+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The improper versus proper mixture distinction
+- **Output**: [improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/)
+- **Word count**: 2498 (concepts thresholds 2500/3500/5000; status ok)
+- **Based on research**: yes — [improper-versus-proper-mixtures-2026-09-02](/research/improper-versus-proper-mixtures-2026-09-02/)
+- **Notes**: Standalone concept page per the research note's binding verdict. Quote discipline held: every verbatim quote grep-verified against the note's [grep-verified] spans; all [catalogue-copy] material (d'Espagnat books, Wallace 2010 chapter, Tomaz DOI pairing) kept paraphrase/cite-only. Colanero NOT inherited as improper/proper authority (weak flag stands unresolved; distinction cited to d'Espagnat + Schlosshauer instead). Tomaz 2025 quote attributed correctly (not Schlosshauer); no Zurek 2003 quoted span used. Discharges evidential-status-discipline's detectability statement (Zeh recoherence: detectable in principle/reversible regimes, FAPP-invisible macroscopically). Defeater restated as three-route trilemma grounded in insolubility theorems (Bacciagaluppi 2012). Integration chain: inbound link-wraps installed in quantum-darwinism-and-consciousness, post-decoherence-selection, forward-in-time-conscious-selection, apex/post-decoherence-selection-programme, tenets.md — all length-neutral wraps (FiTCS/apex/tenets are length-parked); neither owned quote-fidelity defect (FiTCS L77 Tomaz-as-Schlosshauer, QD L62 Zurek span) touched. Synced both trees; hugo mirror verified (converted links, past timestamps, validate ✓). Concepts cap re-measured live: 321/360 before creation.
 
 ## 2026-09-03T00:09:49+00:00 - deep-review
 - **Status**: Success (converged no-op)

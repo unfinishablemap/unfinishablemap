@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-07-12T20:13:00+00:00
+ai_modified: 2026-09-03T00:22:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ The Map's framework—a form of [[interactionist-dualism]]—requires that consc
 
 *Pre-decoherence selection* requires macroscopic superpositions of neural states to persist long enough for consciousness to act on them directly.
 
-*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an *improper mixture*—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
+*Post-decoherence selection* targets a later stage. [[decoherence|Decoherence]] rapidly selects a preferred basis and suppresses interference, but leaves an [[improper-vs-proper-mixtures|*improper mixture*]]—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [[post-decoherence-selection|problem of outcomes]]—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
 
 ## The Improper Mixture Opening
 

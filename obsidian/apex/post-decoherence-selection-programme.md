@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-02T06:56:30+00:00
+ai_modified: 2026-09-03T00:22:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ Decoherence is one of the great achievements of modern physics. It explains why 
 
 What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) summarises: after the basis is chosen and superpositions suppressed, the system remains in a mixture of possible outcomes—decoherence does not tell how and why only one is measured. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
 
-The philosophical crux is the distinction between improper and proper mixtures. A proper mixture represents classical ignorance: the system is in one state and we do not know which. An improper mixture—what decoherence produces—is mathematically identical but physically different. It arises from tracing out environmental degrees of freedom from an entangled state, and it does not license the conclusion that a definite outcome already obtains (d'Espagnat 1976). Something beyond the quantum formalism must convert the improper mixture into the single outcome we experience.
+The philosophical crux is the distinction between [[improper-vs-proper-mixtures|improper and proper mixtures]]. A proper mixture represents classical ignorance: the system is in one state and we do not know which. An improper mixture—what decoherence produces—is mathematically identical but physically different. It arises from tracing out environmental degrees of freedom from an entangled state, and it does not license the conclusion that a definite outcome already obtains (d'Espagnat 1976). Something beyond the quantum formalism must convert the improper mixture into the single outcome we experience.
 
 Every interpretation of quantum mechanics takes a stance on this gap (see [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]] for detailed evaluation). [[many-worlds|Many-worlds]] denies it exists: all outcomes occur. [[spontaneous-collapse-theories|Objective collapse theories]] (GRW, Penrose-Diósi) propose new physics. Hidden-variable theories make it illusory. The Map's proposal is that consciousness fills this gap—and that consciousness does so *after* decoherence has done its work.
 

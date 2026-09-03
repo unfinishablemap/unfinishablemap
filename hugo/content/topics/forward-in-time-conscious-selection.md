@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-07-12 20:13:00+00:00
+ai_modified: 2026-09-03 00:22:50+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:44:34+00:00
-lastmod: 2026-07-12 20:13:00+00:00
+lastmod: 2026-09-03 00:22:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ The Map's framework—a form of [interactionist-dualism](/concepts/interactionis
 
 *Pre-decoherence selection* requires macroscopic superpositions of neural states to persist long enough for consciousness to act on them directly.
 
-*Post-decoherence selection* targets a later stage. [Decoherence](/concepts/decoherence/) rapidly selects a preferred basis and suppresses interference, but leaves an *improper mixture*—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [problem of outcomes](/concepts/post-decoherence-selection/)—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
+*Post-decoherence selection* targets a later stage. [Decoherence](/concepts/decoherence/) rapidly selects a preferred basis and suppresses interference, but leaves an [*improper mixture*](/concepts/improper-vs-proper-mixtures/)—mathematically resembling classical probability without being physically equivalent to it (d'Espagnat, 1976; Colanero, 2012). This residual indeterminacy—the [problem of outcomes](/concepts/post-decoherence-selection/)—is where consciousness could act without requiring sustained pre-decoherence coherence. Pre-decoherence selection faces Tegmark's decoherence objection directly; post-decoherence selection appears to sidestep it. Whether the improper mixture genuinely leaves room for such action, or whether the appearance of an opening is an artefact of how the formalism is read, is itself contested—the reading that follows is not framework-neutral.
 
 ## The Improper Mixture Opening
 

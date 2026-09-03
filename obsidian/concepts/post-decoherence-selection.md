@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-07-29T03:51:58+00:00
+ai_modified: 2026-09-03T00:22:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Post-decoherence selection is whatever process actualizes one definite outcome f
 
 Decoherence solves two of the three sub-problems in quantum measurement. It explains the *preferred basis problem*—why macroscopic objects appear in definite positions rather than arbitrary superpositions—through environment-induced superselection (einselection). It explains the *non-observability of interference*—why we never see macroscopic superpositions—through the rapid leaking of phase information into environmental degrees of freedom. What decoherence does not solve is the *problem of outcomes*: why one element of the decohered mixture becomes actual.
 
-The philosophical crux is the distinction between *improper* and *proper* mixtures. A proper mixture represents classical ignorance—the system is definitely in one state, and the probabilities reflect our lack of knowledge. An improper mixture, derived by tracing out the environment from an entangled state, is mathematically identical but physically different. It does not license the conclusion that the system is in one state and we simply do not know which (d'Espagnat, 1976; Colanero, 2012). Decoherence produces improper mixtures. Something else must convert them into the definite outcomes we experience.
+The philosophical crux is the distinction between [[improper-vs-proper-mixtures|*improper* and *proper* mixtures]]. A proper mixture represents classical ignorance—the system is definitely in one state, and the probabilities reflect our lack of knowledge. An improper mixture, derived by tracing out the environment from an entangled state, is mathematically identical but physically different. It does not license the conclusion that the system is in one state and we simply do not know which (d'Espagnat, 1976; Colanero, 2012). Decoherence produces improper mixtures. Something else must convert them into the definite outcomes we experience.
 
 This distinction constrains what "post-decoherence selection" can mean. Because the mixture is improper, it is not a menu of already-localized, classically distinct actualities waiting for one to be picked out—the underlying entangled state contains no localized fact of the matter to sample. Reading the improper mixture as such a menu, with consciousness choosing one pre-existing outcome from it, is a category error: it treats an improper mixture as if it were a proper ignorance-mixture. What selection names is the transition *from* improper mixture *to* a single actual outcome, not the reading-off of an alternative the physics has already settled as distinct.
 

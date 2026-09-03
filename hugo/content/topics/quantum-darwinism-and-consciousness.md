@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-09-03 00:22:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 02:26:21+00:00
-lastmod: 2026-06-07 00:00:00+00:00
+lastmod: 2026-09-03 00:22:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The third sub-problem—the *problem of outcomes*—survives quantum Darwinism i
 
 This is not a controversial assessment within quantum foundations. Zurek acknowledges that [decoherence](/concepts/decoherence/) "does not, by itself, solve the measurement problem" (Zurek 2003). Schlosshauer's comprehensive review concludes that decoherence achieves "the transition from a quantum superposition to a classical *mixture*" but not the further step from mixture to definite outcome (Schlosshauer 2007, p. 69). Quantum Darwinism extends the decoherence programme but inherits this limitation.
 
-Many philosophers of physics sharpen the gap using the distinction between *improper* and *proper* mixtures. A proper mixture represents classical ignorance: the system is in one state, and the probabilities reflect our lack of knowledge. An improper mixture—what decoherence and quantum Darwinism produce—is mathematically identical but physically different. It is derived by tracing out environmental degrees of freedom from an entangled state. D'Espagnat (1976) argued that the improper mixture does not justify the conclusion that the system is *already* in one definite state.
+Many philosophers of physics sharpen the gap using the distinction between [*improper* and *proper* mixtures](/concepts/improper-vs-proper-mixtures/). A proper mixture represents classical ignorance: the system is in one state, and the probabilities reflect our lack of knowledge. An improper mixture—what decoherence and quantum Darwinism produce—is mathematically identical but physically different. It is derived by tracing out environmental degrees of freedom from an entangled state. D'Espagnat (1976) argued that the improper mixture does not justify the conclusion that the system is *already* in one definite state.
 
 This distinction is not universally accepted as decisive. Some physicists contend that once decoherence is sufficiently thorough, the improper/proper distinction loses practical significance—the reduced density matrix behaves operationally as if it were a proper mixture, and no experiment can distinguish the two. On this view, decoherence may come closer to solving the outcome problem than the Map suggests. Others, including some Everettians, dissolve the problem differently by denying that a single outcome needs selecting at all.
 

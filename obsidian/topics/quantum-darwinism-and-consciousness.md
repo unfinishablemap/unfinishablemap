@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains classical reality's emergence t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-09-03T00:22:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ The third sub-problem—the *problem of outcomes*—survives quantum Darwinism i
 
 This is not a controversial assessment within quantum foundations. Zurek acknowledges that [[decoherence|decoherence]] "does not, by itself, solve the measurement problem" (Zurek 2003). Schlosshauer's comprehensive review concludes that decoherence achieves "the transition from a quantum superposition to a classical *mixture*" but not the further step from mixture to definite outcome (Schlosshauer 2007, p. 69). Quantum Darwinism extends the decoherence programme but inherits this limitation.
 
-Many philosophers of physics sharpen the gap using the distinction between *improper* and *proper* mixtures. A proper mixture represents classical ignorance: the system is in one state, and the probabilities reflect our lack of knowledge. An improper mixture—what decoherence and quantum Darwinism produce—is mathematically identical but physically different. It is derived by tracing out environmental degrees of freedom from an entangled state. D'Espagnat (1976) argued that the improper mixture does not justify the conclusion that the system is *already* in one definite state.
+Many philosophers of physics sharpen the gap using the distinction between [[improper-vs-proper-mixtures|*improper* and *proper* mixtures]]. A proper mixture represents classical ignorance: the system is in one state, and the probabilities reflect our lack of knowledge. An improper mixture—what decoherence and quantum Darwinism produce—is mathematically identical but physically different. It is derived by tracing out environmental degrees of freedom from an entangled state. D'Espagnat (1976) argued that the improper mixture does not justify the conclusion that the system is *already* in one definite state.
 
 This distinction is not universally accepted as decisive. Some physicists contend that once decoherence is sufficiently thorough, the improper/proper distinction loses practical significance—the reduced density matrix behaves operationally as if it were a proper mixture, and no experiment can distinguish the two. On this view, decoherence may come closer to solving the outcome problem than the Map suggests. Others, including some Everettians, dissolve the problem differently by denying that a single outcome needs selecting at all.
 
