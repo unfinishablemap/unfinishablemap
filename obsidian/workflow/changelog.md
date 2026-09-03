@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-03T01:27:04+00:00'
+ai_modified: '2026-09-03T03:00:20+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 ---
+
+## 2026-09-03T03:00:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]]
+- **Word count**: 2498 → 2556 (+58)
+- **Critical issues addressed**: 3 (Adler References title had spurious "quantum" — Crossref-verified; Zeh venue volume 2→1 — verified against bourbaphy.fr issue header; orphan inline "1966 paper" cite — d'Espagnat Preludes entry added)
+- **Medium issues addressed**: 2 (QD-defeater clause realigned to quantum-darwinism-and-consciousness's current trilemma-aware text; reciprocal [[envariance]] cross-link added)
+- **Enhancements made**: 2 (1966 paper named inline; Further Reading envariance line)
+- **Citation ledger**: 19 entries web-verified at publisher of record, 24 quoted spans grep-verified against raw artefacts (arXiv LaTeX, pdftotext); 2 real-wrong-metadata fixed, 0 fabricated
+- **Engagement modes** (editor-internal): Kirkpatrick/Castellani — Mode One (shared-premise underdetermination); Wallace/Everett — Mode Three (routed to Tenet 4 at many-worlds-argument); Bell — ally-on-diagnosis scoping, honestly bounded
+- **Output**: [[reviews/deep-review-2026-09-03-improper-vs-proper-mixtures]]
 
 ## 2026-09-03T02:41:59+00:00 - cross-review
 - **Status**: Success

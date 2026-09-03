@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-03
-ai_modified: 2026-09-03 00:22:50+00:00
+ai_modified: 2026-09-03 02:58:47+00:00
 ai_system: claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,8 @@ description: What separates improper from proper mixtures, why decoherence leave
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-03 00:22:50+00:00
+last_deep_review: 2026-09-03 02:58:47+00:00
+lastmod: 2026-09-03 02:58:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +34,7 @@ topics:
 - '[[quantum-measurement-and-consciousness]]'
 ---
 
-A proper mixture describes classical ignorance: each system in the ensemble is in one definite state, and the probabilities record what we do not know. An improper mixture arises differently—by tracing the environment out of an entangled global state—and although its density matrix is mathematically identical to a proper mixture's, the global situation it derives from contains no definite-but-unknown local fact. The distinction was introduced by Bernard d'Espagnat in a 1966 paper and developed in *Conceptual Foundations of Quantum Mechanics* (1971; 2nd ed. 1976), and it remains standard vocabulary in the decoherence literature: Schlosshauer's 2019 review states that mixed reduced density matrices for systems entangled with an environment "do not describe a situation in which the system is in a pure state but one does not know which."
+A proper mixture describes classical ignorance: each system in the ensemble is in one definite state, and the probabilities record what we do not know. An improper mixture arises differently—by tracing the environment out of an entangled global state—and although its density matrix is mathematically identical to a proper mixture's, the global situation it derives from contains no definite-but-unknown local fact. The distinction was introduced by Bernard d'Espagnat in a 1966 paper ("An elementary note about mixtures") and developed in *Conceptual Foundations of Quantum Mechanics* (1971; 2nd ed. 1976), and it remains standard vocabulary in the decoherence literature: Schlosshauer's 2019 review states that mixed reduced density matrices for systems entangled with an environment "do not describe a situation in which the system is in a pure state but one does not know which."
 
 The neutral core is uncontroversial: nobody disputes that the two *global* descriptions—an entangled pure state versus a genuine ensemble of definite states—are formally different, and that the identity holds only at the level of the subsystem's reduced density matrix. What is contested is whether that difference carries ontological weight for the subsystem. The Unfinishable Map's post-decoherence framework rests on the reading that it does: because [decoherence](/concepts/decoherence/) produces improper mixtures, the formalism licenses no conclusion that one outcome already obtains, and the resulting outcome gap is where the Map proposes consciousness acts ([post-decoherence-selection](/concepts/post-decoherence-selection/)). That reading is a contested interpretive commitment, not a result of the formalism—whether the distinction matters at all depends on what one takes a quantum state to be. The distinction is stated neutrally first; d'Espagnat's argument, its [empirical detectability](#detectability) (assessed below), and the [three-route trilemma](#trilemma) of genuine defeaters (also below) follow.
 
@@ -85,7 +86,7 @@ This is where the contest over the distinction actually lives: in the ontology o
 
 ## What Would Defeat the Map's Use of It {#trilemma}
 
-[The quantum Darwinism article](/topics/quantum-darwinism-and-consciousness/) names the defeater honestly: the Map's proposal faces serious difficulty if the improper/proper distinction were shown to be physically empty—for instance by a no-go theorem that decoherence alone necessarily produces definite outcomes. The foundations literature lets that defeater be stated more precisely, and the precision strengthens rather than softens it.
+[The quantum Darwinism article](/topics/quantum-darwinism-and-consciousness/) names the defeater honestly: the Map's proposal faces serious difficulty if the improper/proper distinction were shown to be physically empty. The once-natural way to cash that out—a no-go theorem that decoherence alone necessarily produces definite outcomes—is the route the foundations literature forecloses, and stating the defeater precisely strengthens rather than softens it.
 
 The insolubility theorems—the family descending from von Neumann through Fine, Shimony, Brown, Busch–Shimony and Bassi–Ghirardi, "collectively known in the foundations literature as 'insolubility theorems' for the measurement problem" (Bacciagaluppi 2012)—establish the opposite of the feared result: "All more recent theorems focus on the impossibility of reproducing (the statistics of) definite pointer readings" by unitary means. Decoherence is unitary dynamics, so a theorem *within* unitary quantum mechanics that decoherence produces definite outcomes would contradict this family; the point has been pressed across two decades (Adler 2003; Hance and Hossenfelder 2022; and the 2025 review by Tomaz, Mattos and Barbatti: "After the basis is chosen and quantum superpositions are suppressed, the system remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured.").
 
@@ -115,25 +116,27 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet frames the whole di
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — the objective-collapse route of the trilemma
 - [many-worlds-argument](/arguments/many-worlds-argument/) — the Everett route of the trilemma
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — selection within Born statistics
+- [envariance](/concepts/envariance/) — Zurek's entanglement-symmetry derivation of the Born measure, which fixes the form of the probabilities while leaving single-outcome actuality open
 
 ## References
 
-1. Adler, S. L. (2003). Why decoherence has not solved the quantum measurement problem: a response to P.W. Anderson. *Studies in History and Philosophy of Modern Physics*, 34(1), 135–142. arXiv:quant-ph/0112095.
+1. Adler, S. L. (2003). Why decoherence has not solved the measurement problem: a response to P.W. Anderson. *Studies in History and Philosophy of Modern Physics*, 34(1), 135–142. arXiv:quant-ph/0112095.
 2. Bacciagaluppi, G. (2012). Insolubility Theorems and EPR Argument. *European Journal for Philosophy of Science*, 3, 87–100. philsci-archive.pitt.edu/9121.
 3. Bell, J. S. (1990). Against 'measurement'. *Physics World*, 3(8), 33–40.
 4. Castellani, L. (2022). All quantum mixtures are proper. arXiv:2201.04143; philsci-archive.pitt.edu/20113.
-5. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
-6. d'Espagnat, B. (2001). A note on measurement. arXiv:quant-ph/0101141.
-7. d'Espagnat, B. (2001). Reply to K A Kirkpatrick. arXiv:quant-ph/0111081.
-8. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
-9. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
-10. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
-11. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
-12. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
-13. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
-14. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
-15. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
-16. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
-17. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 2(2005), 115–129. arXiv:quant-ph/0512078.
-18. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-19. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+5. d'Espagnat, B. (1966). An elementary note about mixtures. In A. De-Shalit, H. Feshbach & L. Van Hove (eds.), *Preludes in Theoretical Physics: In Honor of V. F. Weisskopf*. North-Holland.
+6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). W.A. Benjamin.
+7. d'Espagnat, B. (2001). A note on measurement. arXiv:quant-ph/0101141.
+8. d'Espagnat, B. (2001). Reply to K A Kirkpatrick. arXiv:quant-ph/0111081.
+9. Fortin, S. & Lombardi, O. (2014). Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer to? *Foundations of Physics*, 44, 426–446. arXiv:1404.3264.
+10. Grangier, P. (2026). Revisiting the Interpretations of Quantum Mechanics: From FAPP Solutions to Contextual Ontologies. arXiv:2601.20488.
+11. Hance, J. R. & Hossenfelder, S. (2022). What does it take to solve the measurement problem? *Journal of Physics Communications*, 6, 102001. arXiv:2206.10445.
+12. Kirkpatrick, K. A. (2001). Indistinguishability and improper mixtures. arXiv:quant-ph/0109146.
+13. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267–1305. arXiv:quant-ph/0312059.
+14. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1–57. arXiv:1911.06282.
+15. Tomaz, A. A., Mattos, R. S. & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. arXiv:2502.19278.
+16. Wallace, D. (2010). Decoherence and Ontology (or: How I learned to stop worrying and love FAPP). In S. Saunders, J. Barrett, A. Kent & D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+17. Wallace, D. (2012). Decoherence and its role in the modern measurement problem. *Philosophical Transactions of the Royal Society A*, 370, 4576–4593. arXiv:1111.2187.
+18. Zeh, H. D. (2006). Roots and Fruits of Decoherence. *Séminaire Poincaré*, 1(2005), 115–129. arXiv:quant-ph/0512078.
+19. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+20. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
